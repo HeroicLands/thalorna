@@ -1,11 +1,11 @@
 ---
 shortcode: zurathradty
-name: {full: Zúráthrä, aliases: []}
+name: {full: Zúrathra, aliases: []}
 type: lore
 subType: deity
-description: "Mother of the Oasis in the Āsháian pantheon—water, fertility, and the healing that follows both."
+description: "Mother of the Oasis in the Ashaian pantheon—water, fertility, and the healing that follows both."
 tags: [draft]
 data: {packFolder: deitiesashalan, culture: dunhariclt}
 ---
 
-Zúráthrä, the Mother of the Oasis, is the deity of fertility, water, life and healing in the [[affiliation-ashanpnthn|Āsháian Pantheon]]. The symbol is a flowing spring encircled by palm fronds. Worship is kept in the [[affiliation-zurathra|Faith of Zúráthrä]]. Every sacred site of the Āsháian faith is a fire-temple, so this deity is worshipped at an altar beside the one kept to Ātáröš, and served by the same priesthood of Rōqeshekh, Dēlkoshekh and Shēkhulsīghot.
+Zúrathra, the Mother of the Oasis, is the deity of fertility, water, life and healing in the [[affiliation-ashanpnthn|Ashaian Pantheon]]. The symbol is a flowing spring encircled by palm fronds. Worship is kept in the [[affiliation-zurathra|Faith of Zúrathra]]. Every sacred site of the Ashaian faith is a fire-temple, so this deity is worshipped at an altar beside the one kept to Ataros, and served by the same priesthood of Roqeshekh, Delkoshekh and Shekhul.

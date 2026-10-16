@@ -250,7 +250,7 @@ Dusk comes early under the firs, and the track ahead is already a gray strip bet
 
 # Dossier {#dossier}
 
-The Shadow Lynx is a large, dark forest lynx, two to three feet high at the shoulder, three to four feet long with a short tufted tail, and about sixty pounds, built for silence and for one sudden, killing rush. It hunts alone at dusk and by night through deep forest, taking hares, grouse, deer fawns and the dogs and goats of the forest villages, and very occasionally a man. In the [[place-vrystwald|Vrystwald]] its stronghold is [[place-skathwald|Skathwald]], the eastern reach where the Grukar nests thicken, and two of the Varokh villages there keep the [[lore-lynxttm|lynx]] as their wesk.
+The Shadow Lynx is a large, dark forest lynx, two to three feet high at the shoulder, three to four feet long with a short tufted tail, and about sixty pounds, built for silence and for one sudden, killing rush. It hunts alone at dusk and by night through deep forest, taking hares, grouse, deer fawns and the dogs and goats of the forest villages, and very occasionally a man. In the [[place-vrystwald|Vristwald]] its stronghold is [[place-skathwald|Skathwald]], the eastern reach where the Grukar nests thicken, and two of the Varokh villages there keep the [[lore-lynxttm|lynx]] as their wesk.
 
 ## Presentation
 
@@ -258,7 +258,7 @@ A shadow lynx is long-legged and short-bodied, with big, broad, furred paws that
 
 ## In the Land
 
-Shadow lynxes live through the dense mixed and needleleaf forest of the Vrystwald, but they are commonest in Skathwald, where the woods are deep, the crags are many, and the deer are thick because the villages there spend their labor on watches and walls and hunt less than villages elsewhere. Each lynx holds a few miles of forest that it marks with scent and with scratches on trunks, and it keeps to the same lying-up places for years: a crag ledge, a fallen trunk, a hollow under a root. It favors broken ground with rock in it. The rocky lookouts the villages watch from are lynx country, and the village of [[place-wulfstein|Wulfstein]] on its crag is named for wolves and keeps a lynx.
+Shadow lynxes live through the dense mixed and needleleaf forest of the Vristwald, but they are commonest in Skathwald, where the woods are deep, the crags are many, and the deer are thick because the villages there spend their labor on watches and walls and hunt less than villages elsewhere. Each lynx holds a few miles of forest that it marks with scent and with scratches on trunks, and it keeps to the same lying-up places for years: a crag ledge, a fallen trunk, a hollow under a root. It favors broken ground with rock in it. The rocky lookouts the villages watch from are lynx country, and the village of [[place-wulfstein|Wulfstein]] on its crag is named for wolves and keeps a lynx.
 
 ## Key Behaviors
 

@@ -1,6 +1,6 @@
 ---
 shortcode: minakprkhn
-name: {full: Mināka Parikshana, given: Mināka, clan: Parikshana, aliases: []}
+name: {full: Minaka Parikshuna, given: Minaka, clan: Parikshuna, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -415,41 +415,41 @@ sohl:
 
 # Appearance {#appearance}
 
-![[minakprkhn|Mināka Parikshana]]{float=top-left}
+![[minakprkhn|Minaka Parikshuna]]{float=top-left}
 
-Mināka stands 5'9" tall with a heavy build. She has warm honey skin, greying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, greying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
+Minaka stands 5'9" tall with a heavy build. She has warm honey skin, greying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, greying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
 
 # Dossier {#dossier}
 
-Mināka was born into the merchant family Parikshana, whose wealth derived from the spice trade flowing through the City-States of Vedyara. Her father anticipated she would marry into another merchant family and bear sons to continue the business. Instead, at the age of sixteen, Mināka expressed an all-consuming passion for the art of cookery. Her family, initially scandalized, eventually recognized that her gift was too deep to be denied. She was apprenticed to **Maharaj Vikram**, the chef of the Council of Merchants, a position of honor if not of traditional wealth.
+Minaka was born into the merchant family Parikshuna, whose wealth derived from the spice trade flowing through the City-States of Vedyara. Her father anticipated she would marry into another merchant family and bear sons to continue the business. Instead, at the age of sixteen, Minaka expressed an all-consuming passion for the art of cookery. Her family, initially scandalized, eventually recognized that her gift was too deep to be denied. She was apprenticed to **Maharaj Vikram**, the chef of the Council of Merchants, a position of honor if not of traditional wealth.
 
-Under Maharaj **Mahākīrti**'s tutelage, Mināka learned not merely to cook but to understand the philosophical foundations of cuisine—the harmony of flavors, the balance of elements, the transformation of raw ingredient into a lasting experience. She spent two decades in his kitchen, gradually ascending from scullery worker to head chef. When Maharaj Mahākīrti retired thirty years ago, three wealthy families competed to employ Mināka. She chose the merchant house of **Devakara**, whose patriarch respected her artistry and granted her unusual autonomy.
+Under Maharaj **Mahakirti**'s tutelage, Minaka learned not merely to cook but to understand the philosophical foundations of cuisine—the harmony of flavors, the balance of elements, the transformation of raw ingredient into a lasting experience. She spent two decades in his kitchen, gradually ascending from scullery worker to head chef. When Maharaj Mahakirti retired thirty years ago, three wealthy families competed to employ Minaka. She chose the merchant house of **Devakara**, whose patriarch respected her artistry and granted her unusual autonomy.
 
-For the past two decades, Mināka has overseen the Devakara kitchen, training generations of cooking staff and earning a reputation throughout Vedyara as perhaps the finest culinary artist of her generation. Her dishes are served at the tables of the city-states' most powerful figures. Yet she has never been corrupted by her fame—she measures her success not by prestige but by the perfection of each meal she creates.
+For the past two decades, Minaka has overseen the Devakara kitchen, training generations of cooking staff and earning a reputation throughout Vedyara as perhaps the finest culinary artist of her generation. Her dishes are served at the tables of the city-states' most powerful figures. Yet she has never been corrupted by her fame—she measures her success not by prestige but by the perfection of each meal she creates.
 
 ## Psyche
 
 ### Personality
 
-Mināka is a perfectionist whose standards extend beyond the kitchen to encompass every aspect of her craft and those who practice it. She is exacting, occasionally sharp-tongued when confronted with laziness or lack of care, yet never cruel. Those who work under her learn quickly that her severity arises from respect for their potential—she demands excellence because she believes they are capable of it. She speaks with the authority of someone who has earned her position through demonstrated mastery, not through inheritance or politics.
+Minaka is a perfectionist whose standards extend beyond the kitchen to encompass every aspect of her craft and those who practice it. She is exacting, occasionally sharp-tongued when confronted with laziness or lack of care, yet never cruel. Those who work under her learn quickly that her severity arises from respect for their potential—she demands excellence because she believes they are capable of it. She speaks with the authority of someone who has earned her position through demonstrated mastery, not through inheritance or politics.
 
 Beneath her demanding exterior runs a current of unexpected whimsy. She loves wordplay and subtle jokes. She will sometimes prepare meals with hidden meanings, embedding symbolism in her ingredient choices and presentation. She is an artist first and a servant second, which sometimes creates friction with those who view her merely as someone who prepares their food. She understands flavors the way a musician understands notes, and approaches each meal as a composition.
 
 ### Motivation
 
-Mināka is driven by the pursuit of perfection in her craft and by a deep belief that food is more than nourishment—it is communication, art, and love made tangible. Every meal she creates is an expression of her mastery and her devotion to the families she serves. She is motivated as well by a desire to elevate the status of the culinary arts in Vedyaran society, to prove that a cook is no less a master of her field than any scholar or merchant. She takes satisfaction in the knowledge that her work nourishes not just bodies but spirits.
+Minaka is driven by the pursuit of perfection in her craft and by a deep belief that food is more than nourishment—it is communication, art, and love made tangible. Every meal she creates is an expression of her mastery and her devotion to the families she serves. She is motivated as well by a desire to elevate the status of the culinary arts in Vedyaran society, to prove that a cook is no less a master of her field than any scholar or merchant. She takes satisfaction in the knowledge that her work nourishes not just bodies but spirits.
 
 ### Strengths
 
-- **Culinary Mastery**: Mināka can create dishes of extraordinary complexity and perfection. Her understanding of flavor combination, ingredient interaction, and presentation technique is without peer in Vedyara.
+- **Culinary Mastery**: Minaka can create dishes of extraordinary complexity and perfection. Her understanding of flavor combination, ingredient interaction, and presentation technique is without peer in Vedyara.
 - **Kitchen Command**: She manages complex kitchen operations with the precision of a military general. She knows every process, every supply, every staff member's capabilities.
 - **Ingredient Knowledge**: Her understanding of herbs, spices, vegetables, and their properties is encyclopedic. She can identify ingredients by taste, smell, and sight with perfect accuracy.
 - **Creative Composition**: She understands how to create meals that tell stories, carry symbols, and communicate meaning through the language of taste and presentation.
-- **Staff Development**: Those trained under Mināka become excellent cooks. She has an gift for recognizing potential and developing talent systematically.
+- **Staff Development**: Those trained under Minaka become excellent cooks. She has an gift for recognizing potential and developing talent systematically.
 
 ### Weaknesses
 
-- **Perfectionism Paralysis**: When faced with an impossible standard, Mināka can become paralyzed, unable to commit to anything less than perfection. She has been known to remake a dish dozens of times.
+- **Perfectionism Paralysis**: When faced with an impossible standard, Minaka can become paralyzed, unable to commit to anything less than perfection. She has been known to remake a dish dozens of times.
 - **Limited Practical Combat Experience**: She has studied fighting forms for grace and posture, but has never trained for actual combat. She is vulnerable in direct physical confrontation.
 - **Difficulty with Ambiguity**: She struggles with situations that lack clear solutions or definitive right answers. Her perfectionism demands closure and clarity.
 - **Emotional Distance**: Her focus on craft sometimes manifests as emotional coldness. She can seem uncaring about personal matters beyond her kitchen's boundaries.
@@ -460,41 +460,41 @@ Mināka is driven by the pursuit of perfection in her craft and by a deep belief
 ### Patrons
 
 The Devakara Merchant Family
-: Her primary employers and supporters. The patriarch, **Shreshthin Devakara**, values her contribution to the family's prestige and protects her autonomy fiercely.
+: Her primary employers and supporters. The patriarch, **Shroshtin Devakara**, values her contribution to the family's prestige and protects her autonomy fiercely.
 
 The Council of Merchants
-: Several members of the city council regularly request private meals prepared by Mināka for diplomatic functions.
+: Several members of the city council regularly request private meals prepared by Minaka for diplomatic functions.
 
-The Temple of Mahājaya
+The Temple of Mahajaya
 : She donates portions of her finest work to temple festivals and maintains a private devotional practice to the god of order.
 
 ### Enemies
 
 Chef Ranjeet of the Harbor District
-: A brilliant but unstable cook who studied briefly under Mināka before being dismissed for temperament and unreliability. He now runs his own establishment and spreads rumors that Mināka stole his innovations.
+: A brilliant but unstable cook who studied briefly under Minaka before being dismissed for temperament and unreliability. He now runs his own establishment and spreads rumors that Minaka stole his innovations.
 
 The Spice Merchant Syndicate
 : Certain merchants in this organization feel threatened by her direct sourcing of spices and her refusal to deal through their networks. They have spread rumors about the quality of her ingredients.
 
 ### Affiliations
 
-The City Cooks' Shrenī of Vedyara
-: A prestigious organization of master chefs and culinary craftspeople. Mināka holds rank among the highest members.
+The City Cooks' Shrena of Vedyara
+: A prestigious organization of master chefs and culinary craftspeople. Minaka holds rank among the highest members.
 
 The Devakara Household
 : Her primary institution and the source of her authority and identity.
 
-The Temple of Mahājaya
+The Temple of Mahajaya
 : An order dedicated to the god of order and structure. She maintains private worship and contributes to temple feasts.
 
 ## Plot Hooks
 
-1. **The Poison in the Sauce**: During an important diplomatic dinner hosted by the Devakara family, one of the guests falls ill—symptoms suggesting poisoning. Investigation reveals that the poison was administered through Mināka's food. Yet she is absolutely certain of her ingredients, her preparation, and her staff. Someone has sabotaged her kitchen or framed her deliberate. Mināka must find the true culprit before her reputation is destroyed, knowing that failure will result in her execution and the Devakara family's disgrace.
+1. **The Poison in the Sauce**: During an important diplomatic dinner hosted by the Devakara family, one of the guests falls ill—symptoms suggesting poisoning. Investigation reveals that the poison was administered through Minaka's food. Yet she is absolutely certain of her ingredients, her preparation, and her staff. Someone has sabotaged her kitchen or framed her deliberate. Minaka must find the true culprit before her reputation is destroyed, knowing that failure will result in her execution and the Devakara family's disgrace.
 
-2. **The Ingredient from the Lost Lands**: A traveling merchant arrives with a spice—a flavor unknown in Vedyara, reportedly from the Lost Lands to the east. The merchant claims that only this spice, when combined with Mināka's skills, can create a dish with properties approaching legend: a meal that grants visions, that heals certain illnesses, or that allows communion with spirits. Mināka is both tempted and skeptical. As she begins to experiment, she discovers that the spice does seem to possess unusual properties. But using it could involve her in sorcery or forbidden practices, and powerful people are watching to see if she succeeds.
+2. **The Ingredient from the Lost Lands**: A traveling merchant arrives with a spice—a flavor unknown in Vedyara, reportedly from the Lost Lands to the east. The merchant claims that only this spice, when combined with Minaka's skills, can create a dish with properties approaching legend: a meal that grants visions, that heals certain illnesses, or that allows communion with spirits. Minaka is both tempted and skeptical. As she begins to experiment, she discovers that the spice does seem to possess unusual properties. But using it could involve her in sorcery or forbidden practices, and powerful people are watching to see if she succeeds.
 
-3. **The Apprentice's Secret**: A young apprentice in Mināka's kitchen shows talent approaching her own—a rare gift that appears perhaps once in a generation. Mināka begins training this apprentice with unusual intensity, seeing in them a heir to her legacy. Then she discovers that the apprentice is secretly stealing recipes and selling them to rival chefs and merchants. When Mināka confronts them, the apprentice breaks down, revealing that they are being coerced by a dangerous criminal organization seeking to steal Mināka's culinary secrets and her connections to the merchant families. Mināka must decide whether to dismiss the apprentice, protect them, or use this situation to infiltrate and destroy the organization.
+3. **The Apprentice's Secret**: A young apprentice in Minaka's kitchen shows talent approaching her own—a rare gift that appears perhaps once in a generation. Minaka begins training this apprentice with unusual intensity, seeing in them a heir to her legacy. Then she discovers that the apprentice is secretly stealing recipes and selling them to rival chefs and merchants. When Minaka confronts them, the apprentice breaks down, revealing that they are being coerced by a dangerous criminal organization seeking to steal Minaka's culinary secrets and her connections to the merchant families. Minaka must decide whether to dismiss the apprentice, protect them, or use this situation to infiltrate and destroy the organization.
 
-4. **The Feast of Seven Nights**: The Devakara family contracts Mināka to create a feast spanning seven nights—one night for each element of the cosmos according to Vedyaran philosophy. Each night's meal must carry the qualities of that element and build toward a climactic final feast that somehow synthesizes all seven. The scope is enormous and the stakes are high—if successful, it will establish the Devakara family's social dominance for a generation. But as Mināka plans, she realizes that the timing of this request is suspicious. The ingredients required for the seventh-night meal, the element of void and completion, include substances that are expensive, rare, and potentially illegal. Is she being set up to execute the feast, or to fail in a way that will compromise her integrity and the family's honor?
+4. **The Feast of Seven Nights**: The Devakara family contracts Minaka to create a feast spanning seven nights—one night for each element of the cosmos according to Vedyaran philosophy. Each night's meal must carry the qualities of that element and build toward a climactic final feast that somehow synthesizes all seven. The scope is enormous and the stakes are high—if successful, it will establish the Devakara family's social dominance for a generation. But as Minaka plans, she realizes that the timing of this request is suspicious. The ingredients required for the seventh-night meal, the element of void and completion, include substances that are expensive, rare, and potentially illegal. Is she being set up to execute the feast, or to fail in a way that will compromise her integrity and the family's honor?
 
-5. **The Memory in Flavor**: An elderly Kulina arrives at the Devakara household claiming to be a long-lost relative. He has no memory of his past and no documentation of his identity, but the family's matriarch believes him based on fragments of recognition. The Kulina requests that Mināka prepare meals according to recipes he vaguely remembers from childhood, hoping that the flavors might trigger his memory. As Mināka works to reconstruct these dishes from minimal description, she begins to suspect that the man's memory loss is false. His descriptions are too specific, too organized—almost as if he is testing her knowledge. Is he an imposter seeking to infiltrate the family? A spy gathering intelligence? Or something stranger still—someone who has lost their memory and is using Mināka as a guide through the landscape of forgotten tastes?
+5. **The Memory in Flavor**: An elderly Kulena arrives at the Devakara household claiming to be a long-lost relative. He has no memory of his past and no documentation of his identity, but the family's matriarch believes him based on fragments of recognition. The Kulena requests that Minaka prepare meals according to recipes he vaguely remembers from childhood, hoping that the flavors might trigger his memory. As Minaka works to reconstruct these dishes from minimal description, she begins to suspect that the man's memory loss is false. His descriptions are too specific, too organized—almost as if he is testing her knowledge. Is he an imposter seeking to infiltrate the family? A spy gathering intelligence? Or something stranger still—someone who has lost their memory and is using Minaka as a guide through the landscape of forgotten tastes?

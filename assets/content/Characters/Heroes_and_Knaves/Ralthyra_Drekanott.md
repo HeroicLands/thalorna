@@ -1,6 +1,6 @@
 ---
 shortcode: rlthyrdrknt
-name: {full: Ralthýra Drekanótt, given: Ralthýra, clan: Drekanótt, aliases: []}
+name: {full: Ralthira Drekanótt, given: Ralthira, clan: Drekanótt, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -411,9 +411,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rlthyrdrknt|Ralthýra Drekanótt]]{float=top-left}
+![[rlthyrdrknt|Ralthira Drekanótt]]{float=top-left}
 
-Ralthýra stands 5'3" tall with a light build. She has fair pale skin, dark brown hair, and green eyes. Her features include an oblong face, a prominent nose, a broad chin, a slightly downturned mouth, dark brows, hollow cheeks. A distinguishing mark is a tattoo of a crescent moon on the neck.
+Ralthira stands 5'3" tall with a light build. She has fair pale skin, dark brown hair, and green eyes. Her features include an oblong face, a prominent nose, a broad chin, a slightly downturned mouth, dark brows, hollow cheeks. A distinguishing mark is a tattoo of a crescent moon on the neck.
 
 # Dossier {#dossier}
 
@@ -421,39 +421,39 @@ Ralthýra stands 5'3" tall with a light build. She has fair pale skin, dark brow
 
 ### Early Years
 
-Ralthýra was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to Thrúnvald, where the monks recognized in her a gift for song that seemed to go beyond mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
+Ralthira was born to a fisher's family in the coastal settlements of [[place-nordheim|Nordheim]], where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to Thrunvald, where the monks recognized in her a gift for song that seemed to go beyond mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
 
 ### The Breaking
 
-A theological schism within the monastery forced Ralthýra to flee when she refused to renounce her personal spiritual experiences in favor of rigid doctrine. Cast out without coin or shelter, she initially despaired—until she discovered that the very gift that had protected her in the monastery could sustain her on the streets. For the past decade, she has survived by her voice and wit, performing in taverns, marketplaces, and shadowed alleyways where coin and coppers fall from purses of those moved by her haunting ballads. She has become something of a ghost, known to street folk as "the Moon Singer," appearing and vanishing like the celestial body marked upon her neck.
+A theological schism within the monastery forced Ralthira to flee when she refused to renounce her personal spiritual experiences in favor of rigid doctrine. Cast out without coin or shelter, she initially despaired—until she discovered that the very gift that had protected her in the monastery could sustain her on the streets. For the past decade, she has survived by her voice and wit, performing in taverns, marketplaces, and shadowed alleyways where coin and coppers fall from purses of those moved by her haunting ballads. She has become something of a ghost, known to street folk as "the Moon Singer," appearing and vanishing like the celestial body marked upon her neck.
 
 ### Present Condition
 
-Now a fixture of Nordheim's underworld community, Ralthýra exists in the liminal spaces between respectability and ruin. She shares her meager earnings with other street folk and has become an unofficial keeper of their stories and secrets. Yet her trusting heart has made her prey to those less scrupulous, and more than once her charity has been exploited. Still, she refuses to harden herself, believing each kindness plants a seed that might one day bloom into redemption—whether for others or herself remains uncertain.
+Now a fixture of Nordheim's underworld community, Ralthira exists in the liminal spaces between respectability and ruin. She shares her meager earnings with other street folk and has become an unofficial keeper of their stories and secrets. Yet her trusting heart has made her prey to those less scrupulous, and more than once her charity has been exploited. Still, she refuses to harden herself, believing each kindness plants a seed that might one day bloom into redemption—whether for others or herself remains uncertain.
 
 ## Psyche
 
 ### Personality
 
-Ralthýra carries an almost ethereal quality despite her earthly struggles, as though part of her soul still dwells in those monastery halls where her voice once sanctified the air. She speaks with careful deliberation, choosing words as though they were precious gems to be gifted rather than casually scattered. There is a poetic melancholy to her humor, and she laughs rarely but deeply. Those who spend time in her presence often find themselves confessing secrets long buried, for there is something in her bearing that invites vulnerability and promises compassion in return.
+Ralthira carries an almost ethereal quality despite her earthly struggles, as though part of her soul still dwells in those monastery halls where her voice once sanctified the air. She speaks with careful deliberation, choosing words as though they were precious gems to be gifted rather than casually scattered. There is a poetic melancholy to her humor, and she laughs rarely but deeply. Those who spend time in her presence often find themselves confessing secrets long buried, for there is something in her bearing that invites vulnerability and promises compassion in return.
 
 Yet this very openness is both her greatest strength and her fatal weakness. She sees the best in everyone, even those who prey upon her generosity, and she struggles to recognize malice when clothed in flattering words. Her idealism remains unbroken by hardship, stubbornly clinging to the belief that love and understanding can transform even the darkest hearts.
 
 ### Motivation
 
-Ralthýra seeks not fortune nor fame, but redemption—both her own and that of others. She bears an unshakeable conviction that she was spared from the storm that claimed her parents for a purpose: to be a voice for the voiceless, a song of hope in the darkness that threatens to consume the forgotten. In her quiet moments, she whispers prayers to Thrúnvald, not asking for deliverance, but asking how she might best serve those the gods seem to have abandoned. Every coin given to a hungry child, every tale preserved in song, every moment of human connection forged in the cold streets feels to her like a small victory against the encroaching tide of despair.
+Ralthira seeks not fortune nor fame, but redemption—both her own and that of others. She bears an unshakeable conviction that she was spared from the storm that claimed her parents for a purpose: to be a voice for the voiceless, a song of hope in the darkness that threatens to consume the forgotten. In her quiet moments, she whispers prayers to Thrunvald, not asking for deliverance, but asking how she might best serve those the gods seem to have abandoned. Every coin given to a hungry child, every tale preserved in song, every moment of human connection forged in the cold streets feels to her like a small victory against the encroaching tide of despair.
 
 ### Strengths
 
 - **Voice**: Her singing is notable, capable of moving even cynical hearts. It is both a tool for survival and a spiritual practice that connects her to something greater than herself.
-- **Emotional Intelligence**: Ralthýra reads people with uncanny accuracy, perceiving the hidden wounds and hopes beneath surface presentations. This makes her a useful confidante.
+- **Emotional Intelligence**: Ralthira reads people with uncanny accuracy, perceiving the hidden wounds and hopes beneath surface presentations. This makes her a useful confidante.
 - **Charm and Presence**: She possesses a natural magnetism that draws others to her, despite her humble station. People instinctively trust her, though often to their mutual detriment.
 - **Physical Grace**: Years of movement through crowded markets and rooftops have made her graceful and agile; she climbs, dances, and dodges with an economy of motion that belies her slight frame.
 - **Resilience of Spirit**: Though her body knows hunger and cold, her spirit refuses to break. She maintains hope and kindness as fierce acts of defiance.
 
 ### Weaknesses
 
-- **Reckless Trust**: Ralthýra's inability to see malice makes her vulnerable to exploitation. Con artists and predators find her an easy mark, and she rarely learns from being deceived.
+- **Reckless Trust**: Ralthira's inability to see malice makes her vulnerable to exploitation. Con artists and predators find her an easy mark, and she rarely learns from being deceived.
 - **Impractical Idealism**: Her insistence on living by spiritual rather than pragmatic principles often leaves her in precarious circumstances that could be avoided through shrewdness.
 - **Physical Frailty**: Her light frame and generally poor nutrition leave her vulnerable to illness and violence. In a direct fight, she would be outmatched.
 - **Attachment to Loss**: She carries her past—her parents' deaths, her expulsion from the monastery—as an unbridgeable chasm within her soul. This grief sometimes paralyzes her decision-making.
@@ -466,21 +466,21 @@ Ralthýra seeks not fortune nor fame, but redemption—both her own and that of 
 Brother Nilthorv
 : A sympathetic former monk from her monastery who occasionally slips her coin and information, though he himself risks punishment for maintaining the connection.
 
-Magistrate Driskthýra Snurvarukh
-: A widow who fell in love with Ralthýra's voice years ago and has quietly seen that she survives each harsh winter, though few know of their association.
+Magistrate Driskthira Snurvaruk
+: A widow who fell in love with Ralthira's voice years ago and has quietly seen that she survives each harsh winter, though few know of their association.
 
 The Wayfarers' Council
-: An informal collective of street folk who provide protection and shelter to Ralthýra in exchange for her songs, which preserve their histories.
+: An informal collective of street folk who provide protection and shelter to Ralthira in exchange for her songs, which preserve their histories.
 
 ### Enemies
 
 The Copper Syndicate
-: A gang of organized pickpockets and con artists who view Ralthýra's easy trust as an exploitable resource. They have repeatedly victimized her, and she has recently begun to recognize the pattern.
+: A gang of organized pickpockets and con artists who view Ralthira's easy trust as an exploitable resource. They have repeatedly victimized her, and she has recently begun to recognize the pattern.
 
-Father Unthmýl
+Father Unthmil
 : Her former monastery's new priest, a zealot who views her as a heretic whose very existence challenges the theological authority he seeks to establish. He has forbidden anyone from assisting her.
 
-Merchant House Drák
+Merchant House Drak
 : A trading family whose wayward son she spurned; his wounded pride has translated into a vendetta, spreading lies about her character.
 
 ### Affiliations
@@ -488,17 +488,17 @@ Merchant House Drák
 The Street Chorus
 : An informal network of street performers, buskers, and wandering minstrels who share information, performance spaces, and resources.
 
-The Devotees of Thrúnvald's Storm
+The Devotees of Thrunvald's Storm
 : Though she no longer affiliates with any formal temple, she maintains loose spiritual bonds with independent worshippers who honor the storm god.
 
 ## Plot Hooks
 
-1. **The Singing Stone**: A scholar seeking Ralthýra claims that ancient texts describe an artifact—the Singing Stone of Asguard—whose power can only be awakened through a voice of perfect purity. He believes Ralthýra is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthýra must navigate the intersection of faith, greed, and ancient magic.
+1. **The Singing Stone**: A scholar seeking Ralthira claims that ancient texts describe an artifact—the Singing Stone of Asguard—whose power can only be awakened through a voice of perfect purity. He believes Ralthira is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Ralthira must navigate the intersection of faith, greed, and ancient magic.
 
-2. **Memory in Melody**: A mysterious figure approaches Ralthýra, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Ralthýra an unwitting pawn in a conflict between nobles, and the true contents of the score—and the true intended use of its decryption—remain obscure and potentially devastating.
+2. **Memory in Melody**: A mysterious figure approaches Ralthira, offering substantial coin to help recover a stolen musical score said to contain encrypted messages crucial to a political uprising. The requester claims the oppressed people of a neighboring kingdom depend on her aid. Yet accepting this task would make Ralthira an unwitting pawn in a conflict between nobles, and the true contents of the score—and the true intended use of its decryption—remain obscure and potentially devastating.
 
-3. **The Lost Monastery**: Word reaches Ralthýra that survivors from her monastery have been discovered alive in the mountains after being presumed dead in a catastrophic fire. The monastery's new leadership denies their existence and refuses all inquiries. Ralthýra is torn between the possibility of reunion with former brothers and the danger that investigating will draw unwanted attention from those who might benefit from keeping certain truths buried.
+3. **The Lost Monastery**: Word reaches Ralthira that survivors from her monastery have been discovered alive in the mountains after being presumed dead in a catastrophic fire. The monastery's new leadership denies their existence and refuses all inquiries. Ralthira is torn between the possibility of reunion with former brothers and the danger that investigating will draw unwanted attention from those who might benefit from keeping certain truths buried.
 
-4. **The Child of Storm**: A young orphan appears in the streets, displaying an uncanny ability to predict coming storms with disturbing accuracy. The child becomes attached to Ralthýra, and soon it becomes apparent the monastery—and perhaps darker forces—are searching for the child with considerable urgency. Ralthýra must decide whether protecting this mysterious youth is worth becoming a fugitive herself.
+4. **The Child of Storm**: A young orphan appears in the streets, displaying an uncanny ability to predict coming storms with disturbing accuracy. The child becomes attached to Ralthira, and soon it becomes apparent the monastery—and perhaps darker forces—are searching for the child with considerable urgency. Ralthira must decide whether protecting this mysterious youth is worth becoming a fugitive herself.
 
-5. **The Silent Singer's Last Song**: An elderly bard, one of Nordheim's few remaining living legends, seeks out Ralthýra specifically, claiming he has trained his entire life to recognize a specific prophecy written in a long-lost saga. According to his interpretation, a singer marked with the crescent moon of Thrúnvald will either be the salvation or the doom of Nordheim in the coming age of darkness. He asks for her help in deciphering which, and whether she has the courage to accept what the answer might demand of her.
+5. **The Silent Singer's Last Song**: An elderly bard, one of Nordheim's few remaining living legends, seeks out Ralthira specifically, claiming he has trained his entire life to recognize a specific prophecy written in a long-lost saga. According to his interpretation, a singer marked with the crescent moon of Thrunvald will either be the salvation or the doom of Nordheim in the coming age of darkness. He asks for her help in deciphering which, and whether she has the courage to accept what the answer might demand of her.

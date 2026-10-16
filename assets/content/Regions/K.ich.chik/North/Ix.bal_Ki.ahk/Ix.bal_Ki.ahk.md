@@ -1,9 +1,9 @@
 ---
 shortcode: ixbalkiahk
-name: {full: Ix'bal Ki'ahk, aliases: []}
+name: {full: Ish'bal Ki'ahk, aliases: []}
 type: affiliation
 subType: polity
-description: Coastal rainforest and volcanic coastline of the Xak'nal—the Eagle People—westernmost of the northern tribal nations.
+description: Coastal rainforest and volcanic coastline of the Shak'nal—the Eagle People—westernmost of the northern tribal nations.
 tags: [polity]
 data:
   icon: null
@@ -40,28 +40,28 @@ data:
           Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Tz'enmah's court.
+        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the Tz'enmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
       - level: 8
-        title: Tz'enmah
+        title: Ts'enmah
         description: >-
           Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
     offices:
-      Tz'enmah: >-
+      Ts'enmah: >-
         Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ix'kanmah: >-
+      Ish'kanmah: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
       Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
       K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Tz'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
+      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
       P'ilambal: >-
         Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Xok'almah: War-leader appointed for a campaign, and set aside when it ends.
+      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
       Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umtz'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
       P'ik'ulmah: >-
         Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
       Ballcourt Keeper: >-
@@ -76,33 +76,33 @@ data:
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
-# terran_analog: the ranks and offices are the Classic Maya court: Tz'enmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, Tz'enbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
 ---
 
 ## Overview
 
-Ix'bal Ki'ahk holds the land of [[place-ixbalkiahkrgn|Ix'bal Ki'ahk Region]]. The people K'ich'chik border scouts call the Xak'nal Tz'omalil ("Eagle People," from the eagle-imagery on their war-standards) inhabit this region, though what they call themselves and their land in their own language remains unknown. They do not welcome outsiders.
+Ish'bal Ki'ahk holds the land of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]]. The people K'ich'chik border scouts call the Shak'nal Ts'omalil ("Eagle People," from the eagle-imagery on their war-standards) inhabit this region, though what they call themselves and their land in their own language remains unknown. They do not welcome outsiders.
 
-What K'ich'chik merchants and captives have reported suggests a people who have thrived here for uncounted generations, their lives woven into the cycles of salmon runs, the rhythms of cedar groves, and the moods of an ocean that both nourishes and tests their resolve. Though they appear to claim no permanent settlements, their seasonal camps follow pathways worn smooth by ancestors, and the quality of their carving, weaving, and building—glimpsed at rare trade encounters—speaks to a sophistication that rivals anything in the south. When the mountain passes close during winter's teeth, outsiders find Ix'bal Ki'ahk impenetrable—and during the rest of the year, the Xak'nal ensure it remains nearly so.
+What K'ich'chik merchants and captives have reported suggests a people who have thrived here for uncounted generations, their lives woven into the cycles of salmon runs, the rhythms of cedar groves, and the moods of an ocean that both nourishes and tests their resolve. Though they appear to claim no permanent settlements, their seasonal camps follow pathways worn smooth by ancestors, and the quality of their carving, weaving, and building—glimpsed at rare trade encounters—speaks to a sophistication that rivals anything in the south. When the mountain passes close during winter's teeth, outsiders find Ish'bal Ki'ahk impenetrable—and during the rest of the year, the Shak'nal ensure it remains nearly so.
 
-The Xak'nal guard their territory with lethal seriousness; the mountain passes are few, and the Xak'nal know every hidden trail and defensible ridge. K'ich'chik traders who venture too far into the interior without invitation do not return.
+The Shak'nal guard their territory with lethal seriousness; the mountain passes are few, and the Shak'nal know every hidden trail and defensible ridge. K'ich'chik traders who venture too far into the interior without invitation do not return.
 
-## The Xak'nal Tz'omalil
+## The Shak'nal Ts'omalil
 
-The Eagle People are master craftspeople, known across the northern frontier for cedar longhouses, intricate totem poles, and canoes carved from single massive logs. Their artistic traditions form a visual language encoding genealogy, spiritual vision, and territorial claim; a pole carved by an Xak'nal master is a document in wood, readable to those trained in its symbols. During potlatch ceremonies that gather the nations, Xak'nal artisans display objects of breathtaking beauty—woven blankets of cedar bark and mountain goat wool, carved masks worn by shamans in their journeys between worlds, and copper shields hammered and worked until they glow like captured sunlight.
+The Eagle People are master craftspeople, known across the northern frontier for cedar longhouses, intricate totem poles, and canoes carved from single massive logs. Their artistic traditions form a visual language encoding genealogy, spiritual vision, and territorial claim; a pole carved by an Shak'nal master is a document in wood, readable to those trained in its symbols. During potlatch ceremonies that gather the nations, Shak'nal artisans display objects of breathtaking beauty—woven blankets of cedar bark and mountain goat wool, carved masks worn by shamans in their journeys between worlds, and copper shields hammered and worked until they glow like captured sunlight.
 
-The Xak'nal hunt salmon and whale with a discipline that borders on ritual. The salmon run is the pulse of their year; families gather at ancestral fishing grounds to take the silver harvest. Whale hunts, undertaken only with full spiritual preparation and always with ceremony honoring the slain creature, are both practical subsistence and profound spiritual practice. A successful whale hunt feeds a community for months and supplies materials for tools, art, and trade goods. Whalebone and whale oil move south along ancient trade paths, reaching the [[affiliation-itzanpnthn|Itzáni]] lands in exchange for obsidian, tropical feathers, and items of spiritual power.
+The Shak'nal hunt salmon and whale with a discipline that borders on ritual. The salmon run is the pulse of their year; families gather at ancestral fishing grounds to take the silver harvest. Whale hunts, undertaken only with full spiritual preparation and always with ceremony honoring the slain creature, are both practical subsistence and profound spiritual practice. A successful whale hunt feeds a community for months and supplies materials for tools, art, and trade goods. Whalebone and whale oil move south along ancient trade paths, reaching the [[affiliation-itzanpnthn|Itsani]] lands in exchange for obsidian, tropical feathers, and items of spiritual power.
 
-K'ich'chik observers believe the Xak'nal political structure is decentralized, organized into autonomous lineages tied to specific territories and hunting grounds. Reports from merchants permitted brief contact at border trading sites suggest that prestige among the Xak'nal comes not from hoarding but from giving away—elaborate ceremonies of gift exchange appear to establish hierarchy and bind the nation together. The details of their governance remain opaque; the Xak'nal share nothing of their internal affairs with outsiders. What is clear is that despite periodic inter-clan tensions, the Xak'nal unite swiftly and ferociously against any perceived external threat.
+K'ich'chik observers believe the Shak'nal political structure is decentralized, organized into autonomous lineages tied to specific territories and hunting grounds. Reports from merchants permitted brief contact at border trading sites suggest that prestige among the Shak'nal comes not from hoarding but from giving away—elaborate ceremonies of gift exchange appear to establish hierarchy and bind the nation together. The details of their governance remain opaque; the Shak'nal share nothing of their internal affairs with outsiders. What is clear is that despite periodic inter-clan tensions, the Shak'nal unite swiftly and ferociously against any perceived external threat.
 
 ## Trade
 
-The Xak'nal maintain a monopoly on this northern trade, and they guard their routes and contacts with jealous intensity. Attempts by southern merchants to circumvent Xak'nal intermediaries have ended in disappearances. The Xak'nal tolerate trade only on their terms, at locations they choose, and any K'ich'chik merchant who overstays or wanders is treated as an invader.
+The Shak'nal maintain a monopoly on this northern trade, and they guard their routes and contacts with jealous intensity. Attempts by southern merchants to circumvent Shak'nal intermediaries have ended in disappearances. The Shak'nal tolerate trade only on their terms, at locations they choose, and any K'ich'chik merchant who overstays or wanders is treated as an invader.
 
 ## See Also
 
-- [[affiliation-ixtemtzul|Ixtem Tzul]]—The bear-people's domain to the east, separated from Ix'bal Ki'ahk by mountain passes and boreal forest
-- [[place-hanalxilanrgn|Ha'nal Xi'lan]]—Contested borderlands far to the southeast, where Xak'nal traders sometimes venture
-- [[place-chakultzklrgn|Ch'akul Tza'kul]]—The great southern desert separating the northern frontier from [[place-kchchkcntnnt|K'ich'chik]] proper
-- [[affiliation-itzanpnthn|Itzáni Faith]]—The distant civilization's religion and culture, encountered through trade and occasional conflict
-- [[place-ixbalkiahkrgn|Ix'bal Ki'ahk Region]]—The land Ix'bal Ki'ahk holds
+- [[affiliation-ixtemtzul|Ishtem Tsul]]—The bear-people's domain to the east, separated from Ish'bal Ki'ahk by mountain passes and boreal forest
+- [[place-hanalxilanrgn|Ha'nal Shi'lan]]—Contested borderlands far to the southeast, where Shak'nal traders sometimes venture
+- [[place-chakultzklrgn|Ch'akul Tsa'kul]]—The great southern desert separating the northern frontier from [[place-kchchkcntnnt|K'ich'chik]] proper
+- [[affiliation-itzanpnthn|Itsani Faith]]—The distant civilization's religion and culture, encountered through trade and occasional conflict
+- [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]]—The land Ish'bal Ki'ahk holds

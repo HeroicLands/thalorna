@@ -1,9 +1,9 @@
 ---
 shortcode: kiramailthor
-name: {full: Kiràma Ilthorandìs, aliases: [Countess Kiràma Ilthorandìs]}
+name: {full: Kirama Iltoris, aliases: [Countess Kirama Iltoris]}
 type: being
 subType: npc
-description: A senior member of the Council of Peers and leader of the reformist faction, named in Ârnela Kórisvar.
+description: A senior member of the Council of Peers and leader of the reformist faction, named in Arnela Kórisvar.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kiràma Ilthorandìs is a 21-year-old woman who stands 5'8" tall with a medium build. She has fair skin, clear complexion, red hair, and hazel eyes.
+Kirama Iltoris is a 21-year-old woman who stands 5'8" tall with a medium build. She has fair skin, clear complexion, red hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Kiràma Ilthorandìs is a countess, a senior member of the Council of Peers and the leader of the reformist faction. She sees [[being-arnelkrsvr|Ârnela Kórisvar]] as a useful ally, capable, ambitious and expendable enough to serve as a stalking horse for policies too controversial to champion directly.
+Kirama Iltoris is a countess, a senior member of the Council of Peers and the leader of the reformist faction. She sees [[being-arnelkrsvr|Arnela Kórisvar]] as a useful ally, capable, ambitious and expendable enough to serve as a stalking horse for policies too controversial to champion directly.

@@ -265,7 +265,7 @@ The tuskcrasher is a boar on a monstrous scale: a huge, wedge-shaped head, a mas
 
 ## In the Land
 
-Áuldalon's rolling wooded hills are excellent for stock and are the road by which trouble arrives overland, and the tuskcrasher holds a long stretch of them east of [[place-valdun|Váldun]], oak and holly woods with clearings and springs. It has wallows and resting places all through its ground, and it roots for mast, roots and anything else, and eats cattle when it can catch them. Its ground lies across two of the drove roads, and it treats a drove of cattle as an invasion. It treats a Grukar raiding band or a Varokh war-party the same way, and it does not seem to care which side of the march anyone is on.
+Áuldalon's rolling wooded hills are excellent for stock and are the road by which trouble arrives overland, and the tuskcrasher holds a long stretch of them east of [[place-valdun|Valdun]], oak and holly woods with clearings and springs. It has wallows and resting places all through its ground, and it roots for mast, roots and anything else, and eats cattle when it can catch them. Its ground lies across two of the drove roads, and it treats a drove of cattle as an invasion. It treats a Grukar raiding band or a Varokh war-party the same way, and it does not seem to care which side of the march anyone is on.
 
 ## Key Behaviors
 
@@ -273,7 +273,7 @@ The tuskcrasher patrols its ground, feeds, wallows and fights. It attacks everyt
 
 ## What the March Does
 
-Áuldalon is built for raiding, and the march treats the tuskcrasher as one more raider, and a useful one. The droving families, a power of their own, send their herds round its ground by the long road, which costs them two days and saves the drove. The hill levy at Váldun, which has a better record against Varokh war-parties and Grukar bands than the court's cavalry, keeps a careful eye on which way raiders come in, because a band that comes through the tuskcrasher's ground arrives at Váldun smaller, if it arrives at all. When the boar has come out of its ground toward the steadings, the levy has turned it back with fire and noise, and twice has tried to kill it with spears set against its charge, and has buried the spearmen. The levy's officers would not kill it now if they could, and say so over a drink.
+Áuldalon is built for raiding, and the march treats the tuskcrasher as one more raider, and a useful one. The droving families, a power of their own, send their herds round its ground by the long road, which costs them two days and saves the drove. The hill levy at Valdun, which has a better record against Varokh war-parties and Grukar bands than the court's cavalry, keeps a careful eye on which way raiders come in, because a band that comes through the tuskcrasher's ground arrives at Valdun smaller, if it arrives at all. When the boar has come out of its ground toward the steadings, the levy has turned it back with fire and noise, and twice has tried to kill it with spears set against its charge, and has buried the spearmen. The levy's officers would not kill it now if they could, and say so over a drink.
 
 ## Signs
 

@@ -24,7 +24,7 @@ Hrandstead is first and foremost a military strongpoint, though time and prosper
 
 The jarl's hall is the administrative and ceremonial heart of Hrandstead, where the jarl of the Bjarnaett holds court and settles the province's disputes. The settlement is a refuge during harsh winters and a mustering point for the province's defense, and its garrison of professional soldiers is regarded as one of the finest in the north. The rule here is martial strength tempered by pragmatic law: the law is enforced, but not with the capricious cruelty of some northern strongholds.
 
-The Hrandstead ting also holds a judgment that outlasts the living. It keeps the empty farms of [[place-isdal|Ísdal]] for their dead, on the word of a [[lore-swornhandrnk|Sworn Hand]], until the last owner is laid.
+The Hrandstead ting also holds a judgment that outlasts the living. It keeps the empty farms of [[place-isdal|Isdal]] for their dead, on the word of a [[lore-swornhandrnk|Sworn Hand]], until the last owner is laid.
 
 ## At a Glance
 
@@ -37,4 +37,4 @@ The Hrandstead ting also holds a judgment that outlasts the living. It keeps the
 
 - [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—[[lore-nordheimnclt|Nordmen]] kingdom of Vithgard
 - [[affiliation-asguardian|Asguardian Pantheon]]—gods of the north
-- [[place-isdal|Ísdal]]—the dale whose farms the ting holds for their dead
+- [[place-isdal|Isdal]]—the dale whose farms the ting holds for their dead

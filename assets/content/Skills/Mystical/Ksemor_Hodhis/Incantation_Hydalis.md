@@ -1,6 +1,6 @@
 ---
 shortcode: hydalis
-name: {full: Incantation Hydalis, aliases: []}
+name: {full: Incantation Hidalis, aliases: []}
 type: skill
 subType: mystical
 tags: [hex-hodai, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-hydalis|Rhéshin Hydalis]]
+See [[affiliation-hydalis|Rhezin Hidalis]]

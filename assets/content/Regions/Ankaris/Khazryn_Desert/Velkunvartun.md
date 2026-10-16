@@ -3,7 +3,7 @@ shortcode: velkunvartun
 name: {full: Veshkunvartun, aliases: [The Gate of Veshkun, The Barred Gate]}
 type: place
 subType: site
-description: "The gate-court of old Vahúrdash, restored as the night gate of the settlement that lives among the ruins: a cedar door hung back in its frame, barred every dusk against a knocking that has not once come from a living hand."
+description: "The gate-court of old Vahurdash, restored as the night gate of the settlement that lives among the ruins: a cedar door hung back in its frame, barred every dusk against a knocking that has not once come from a living hand."
 tags: [draft, haunted, ruin]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-At the northern end of [[place-velkunar|Veshkun]], where the sand has been shovelled back from a gate-court of fitted stone, the settlers of [[place-vahurdash|Vahúrdash]] keep a door. It is a double leaf of cedar, black with age and bound in bronze, hauled out of a buried passage in the first seasons of the resettlement and hung in the one arch of the old city that still has two standing piers. The Tellumi call the place **Veshkunvartun**, "the gate of the lost one". The settlers call it the Barred Gate, and they bar it before the last light has left the western wall.
+At the northern end of [[place-velkunar|Veshkun]], where the sand has been shovelled back from a gate-court of fitted stone, the settlers of [[place-vahurdash|Vahurdash]] keep a door. It is a double leaf of cedar, black with age and bound in bronze, hauled out of a buried passage in the first seasons of the resettlement and hung in the one arch of the old city that still has two standing piers. The Tellumi call the place **Veshkunvartun**, "the gate of the lost one". The settlers call it the Barred Gate, and they bar it before the last light has left the western wall.
 
 Behind the door is the gate-court: a paved square sixty paces across, a guard-bench along each side, a well-head with no well under it, and a breach in the north wall where the sand lies banked to the height of a man. Beyond the door there is only the open rim, and the road north has been dead for as long as the town has had a memory of it. Nothing about the gate is hard to find. It is the first thing a traveler from [[place-kethramir|Kethramír]] meets, and the settlement's only road to the outside passes under it.
 
@@ -31,8 +31,8 @@ The knocking leaves marks. In the morning the outer face of the cedar is scored 
 ## What the People Say
 
 - **The warden's account.** The settlers who keep the gate say that the knocker is the champion of the song, Berniray of [[lore-velkunsong|the song]], come back to wake the house. They say it with the flat patience of people who have said it many times and are tired of being the only ones who believe it.
-- **The Shēkhulsīghot's account.** The priest of the settlement holds that it is not the champion. Berniray lived, served the house of Kethramír and died in his bed with his name read. What stands at the gate has the oath in its mouth and nothing behind it. It is a thing that learned words from the dead and wears them, and the Shēkhulsīghot calls it by the Tellumi word for what it is, the **Gate-dead**, _Vartunnilvur_.
-- **The rival houses' account.** The exiled houses at Amradad say the whole matter is a story the House of Vahúrdash tells to keep strangers from the cellars, and one of them has paid a man to find out.
+- **The Shekhul's account.** The priest of the settlement holds that it is not the champion. Berniray lived, served the house of Kethramír and died in his bed with his name read. What stands at the gate has the oath in its mouth and nothing behind it. It is a thing that learned words from the dead and wears them, and the Shekhul calls it by the Tellumi word for what it is, the **Gate-dead**, _Vartunnilvur_.
+- **The rival houses' account.** The exiled houses at Amradad say the whole matter is a story the House of Vahurdash tells to keep strangers from the cellars, and one of them has paid a man to find out.
 - **The caravan yards' account.** Cloth-tellers in Kethramír add a verse to the song when the audience can be trusted with it. The verse says that the keepers of the record-house are still keeping, and that they have not been told they may stop.
 
 ## The Dead Behind It
@@ -47,12 +47,12 @@ The gate is entered from the north, over the open rim, or from the town side by 
 
 ## Who Pays for the Truth
 
-Khoršád-Vahūr, head of the House of [[place-vahurdash|Vahúrdash]], wants the knocking ended, since a gate that cannot be opened at night costs the settlement every caravan that reaches the rim after dusk. He will not say so to the exiled houses and he will not say so to the Ātárzád. A rival house in Amradad would pay a good deal more to learn that the gate cannot be ended, that the town is failing and that its tablets can be had.
+Khorsád-Vahur, head of the House of [[place-vahurdash|Vahurdash]], wants the knocking ended, since a gate that cannot be opened at night costs the settlement every caravan that reaches the rim after dusk. He will not say so to the exiled houses and he will not say so to the Atarzád. A rival house in Amradad would pay a good deal more to learn that the gate cannot be ended, that the town is failing and that its tablets can be had.
 
 ## See Also
 
 - [[place-velkunar|Veshkun]]—the ruin the gate stands in
-- [[place-vahurdash|Vahúrdash]]—the settlement that bars it
+- [[place-vahurdash|Vahurdash]]—the settlement that bars it
 - [[lore-velkunsong|The Song of the Lost Town]]—the gate, the oath and the shield
 - [[lore-theshadow|The Shadow]]—what comes in where a rite is owed
 - [[lore-undead|Undead]]—the dead made to walk, by every people's account

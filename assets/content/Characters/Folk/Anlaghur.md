@@ -3,7 +3,7 @@ shortcode: anlaghur
 name: {full: Anlaghur, aliases: []}
 type: being
 subType: npc
-description: "The Gar-Aû's nephew and an Iru'palu, whose blood places him near the succession and whose temperament places him some way from it"
+description: "The Gar-Au's nephew and an Iru'palu, whose blood places him near the succession and whose temperament places him some way from it"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Anlaghur is a 43-year-old man who stands 6'0" tall with a medium build. He has g
 
 # Dossier {#dossier}
 
-Anlaghur is the Gar-Aû's nephew and an Iru'palu, home in [[place-anlaghzetun|Anlagh-Zetûn]]. His blood places him near the succession, close enough that the question is asked seriously. His temperament places him some way from it, which is why the question is never settled.
+Anlaghur is the Gar-Au's nephew and an Iru'palu, home in [[place-anlaghzetun|Anlagh-Zetun]]. His blood places him near the succession, close enough that the question is asked seriously. His temperament places him some way from it, which is why the question is never settled.

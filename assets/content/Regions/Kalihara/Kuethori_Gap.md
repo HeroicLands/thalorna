@@ -20,7 +20,7 @@ The Kuethori Gap is the one place where [[place-klhrring|the Ring]] of [[place-k
 
 ## The Lineage and the Work
 
-The Kuethori hold the gorge from the lake's outlet to the foot of the Ring, and the road beside the river is theirs. At the head of the gap, where the river leaves the Bowl, a work of the [[lore-theithari|Ithári]] lies across the bed: a long, low swell of gray stone without a seam, over which the water slides smooth. While the work does what it does, the lake holds its level through Deepwater and does not drain in the dry months, and the terraces on its shores neither drown nor dry. The custodians of [[place-mirthaan|Mirthaan]] tend it jointly with the Kuethori.
+The Kuethori hold the gorge from the lake's outlet to the foot of the Ring, and the road beside the river is theirs. At the head of the gap, where the river leaves the Bowl, a work of the [[lore-theithari|Ithari]] lies across the bed: a long, low swell of gray stone without a seam, over which the water slides smooth. While the work does what it does, the lake holds its level through Deepwater and does not drain in the dry months, and the terraces on its shores neither drown nor dry. The custodians of [[place-mirthaan|Mirthaan]] tend it jointly with the Kuethori.
 
 The lake stands three hands above the Kuethori's marks, and the lowest terraces on its eastern shore are under water. The work at the head of the gap is as gray, and gives as much under the hand, as it does in the oldest account anyone has of it. The Kuethori argue among themselves about what that means, and the argument has not left the gap.
 

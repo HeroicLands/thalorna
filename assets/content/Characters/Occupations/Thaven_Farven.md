@@ -1,6 +1,6 @@
 ---
 shortcode: thavenfrwn
-name: {full: Thavèn Farvèn, aliases: []}
+name: {full: Taven Farven, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -391,23 +391,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Thavèn Farvèn is a 41-year-old man who stands 6'0" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His wide-set brown eyes sit beneath expressive brows and give him an open gaze. He has a narrow nose and firm lips. He has fair skin with a fair complexion. His red hair is short and swept back.
+Taven Farven is a 41-year-old man who stands 6'0" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His wide-set brown eyes sit beneath expressive brows and give him an open gaze. He has a narrow nose and firm lips. He has fair skin with a fair complexion. His red hair is short and swept back.
 
 # Dossier {#dossier}
 
-Thavèn Farvèn is a ship's bosun of [[place-provenzrgn|Provènzia]], a Provenzian freeman born in the eastern march who went to sea from the coast at fifteen and keeps his household inside the walls of Durvalìs.
+Taven Farven is a ship's bosun of [[place-provenzrgn|Provenzia]], a Provenzian freeman born in the eastern march who went to sea from the coast at fifteen and keeps his household inside the walls of Durvalis.
 
-Thavèn is a march boy who found he preferred the sea to the levy, and a bosun is what the sea made of him. He has a rule for everything the crew handles and keeps every rule, in fair weather when it seems needless and in foul when it is the reason the ship comes home. Captains hire him because a Farvèn crew does what it is told at once and has never lost a man to a rotten line. When the ship lays up he goes home to Durvalìs, where his wife keeps the house and his sons are growing up.
+Taven is a march boy who found he preferred the sea to the levy, and a bosun is what the sea made of him. He has a rule for everything the crew handles and keeps every rule, in fair weather when it seems needless and in foul when it is the reason the ship comes home. Captains hire him because a Farven crew does what it is told at once and has never lost a man to a rotten line. When the ship lays up he goes home to Durvalis, where his wife keeps the house and his sons are growing up.
 
 ## Psyche
 
 ### Personality
 
-Thavèn is direct, strict and suspicious of anything new on a ship, whether it is a rig, a rope or an idea.
+Taven is direct, strict and suspicious of anything new on a ship, whether it is a rig, a rope or an idea.
 
 ### Motivation
 
-Thavèn wants the ship run right, which to him means every man doing his work the way it should be done, without being asked twice. He wants the sailors he trains able to run one the same way when he is not there.
+Taven wants the ship run right, which to him means every man doing his work the way it should be done, without being asked twice. He wants the sailors he trains able to run one the same way when he is not there.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ Strong leader, highly experienced, excellent at handling a crew.
 
 ## Social
 
-Thavèn belongs to no guild and hires by the voyage, as bosuns do. In Durvalìs he is a sailor among soldiers and carters.
+Taven belongs to no guild and hires by the voyage, as bosuns do. In Durvalis he is a sailor among soldiers and carters.
 
 ## Companions
 
 ### Patrons
 
-Thavèn's patrons are the captains who hire him.
+Taven's patrons are the captains who hire him.
 
 ### Enemies
 
@@ -429,10 +429,10 @@ Nobody lasting, but there is always a sailor on any ship who thinks a bosun's ru
 
 ## Plot Hooks
 
-1. **The Captain Who Cuts Corners**—Thavèn's present captain has taken a cargo he should not and means to sail in weather he should not, and has told the bosun to keep the crew quiet about both. The crew will follow Thavèn, whichever way he goes.
+1. **The Captain Who Cuts Corners**—Taven's present captain has taken a cargo he should not and means to sail in weather he should not, and has told the bosun to keep the crew quiet about both. The crew will follow Taven, whichever way he goes.
 
-2. **The Crew Turns**—Half a crew of new men has decided that Thavèn's rules are tyranny and has stopped short of mutiny only because nobody has led it yet. The one who could lead it is the best sailor aboard.
+2. **The Crew Turns**—Half a crew of new men has decided that Taven's rules are tyranny and has stopped short of mutiny only because nobody has led it yet. The one who could lead it is the best sailor aboard.
 
-3. **A Winter Ashore**—Laid up for the winter at Durvalìs with the passes shut, Thavèn has been asked by the Winter Assize to say what he saw on a voyage two years ago.
+3. **A Winter Ashore**—Laid up for the winter at Durvalis with the passes shut, Taven has been asked by the Winter Assize to say what he saw on a voyage two years ago.
 
-4. **A Green Crew**—A captain has hired Thavèn to make a crew out of thirty march boys who have never seen the sea, on a ship that sails in a month.
+4. **A Green Crew**—A captain has hired Taven to make a crew out of thirty march boys who have never seen the sea, on a ship that sails in a month.

@@ -13,11 +13,11 @@ data:
   packFolder: hellad
 ---
 
-Every spring a rider leaves the fort for the coast with a sealed report addressed to the chancery in Ôrzâra, and every autumn the same rider comes back with nothing. The **Unpaid Fort** is a fortress of the Vylarian age in the interior mountains between Heliónis and Byzaría, and its commander has been writing to the Empire since the Empire stopped paying him.
+Every spring a rider leaves the fort for the coast with a sealed report addressed to the chancery in Orzara, and every autumn the same rider comes back with nothing. The **Unpaid Fort** is a fortress of the Vylarian age in the interior mountains between Helionis and Bizaria, and its commander has been writing to the Empire since the Empire stopped paying him.
 
 ## The Commission
 
-The fort was built to hold a pass that the Empire's engineers judged worth a stone wall and a standing garrison, in the years when a legion garrisoned the Hellád and the road between the two halves of the province ran through it. Its commander held an imperial commission, signed by the Ôrzâs's chancery and paid from the Tarmex.
+The fort was built to hold a pass that the Empire's engineers judged worth a stone wall and a standing garrison, in the years when a legion garrisoned the Hellád and the road between the two halves of the province ran through it. Its commander held an imperial commission, signed by the Orzas's chancery and paid from the Tarmeks.
 
 The pay stopped about 619, when [[lore-crownssettle|the Settlement of the Crowns]] set down what the Empire still was and left the far forts' commissions unpaid. The commander's commission was never revoked. The chancery stopped pressing claims it could not enforce, and the fort stopped being a claim.
 
@@ -29,7 +29,7 @@ The yearly report gives the pass's condition, the garrison's strength, the store
 
 ## The Pass
 
-The pass is the shortest road between the hills of Heliónis and the plateau of Byzaría that does not touch the coast. Carters pay the commander's toll because it is lower than the League's, and smugglers pay it because the commander does not ask what is in the cart.
+The pass is the shortest road between the hills of Helionis and the plateau of Bizaria that does not touch the coast. Carters pay the commander's toll because it is lower than the League's, and smugglers pay it because the commander does not ask what is in the cart.
 
 ## Who Goes
 

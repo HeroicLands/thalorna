@@ -2,7 +2,7 @@
 shortcode: pilotslens
 name: {full: "A Pilot's Lens", aliases: []}
 type: miscgear
-description: "A palm-sized disc of ithári'sul, a living held stone of a current-stone, through which the broken water of a channel looks still."
+description: "A palm-sized disc of ithasul, a living held stone of a current-stone, through which the broken water of a channel looks still."
 tags: [kaan-sul, kalihara]
 data: {icon: icon-coinsbdg, templatePriority: null, packFolder: instruments}
 sohl:
@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 0.2, valueBase: 0, qualityBase: 0, durabilityBase: 20}
 ---
 
-A Pilot's Lens is a disc of [[lore-itharisul|ithári'sul]] the size of a palm and the thickness of a finger, gray and giving, set in a hardwood rim. It belongs to the current-stone off [[place-vaelukoa|Vaelukoa]] as a living held stone (_kaan'sul_), and the lineage Vaelukoa keeps it with the village's boats.
+A Pilot's Lens is a disc of [[lore-itharisul|ithasul]] the size of a palm and the thickness of a finger, gray and giving, set in a hardwood rim. It belongs to the current-stone off [[place-vaelukoa|Vaelukoa]] as a living held stone (_kaan'sul_), and the lineage Vaelukoa keeps it with the village's boats.
 
 ## What It Does
 
@@ -25,4 +25,4 @@ If the current-stone stops, the lens goes cold in the hand, and the water throug
 - [[affiliation-wardensapproaches|The Wardens of the Approaches]]—the pilots who read the channels
 - [[place-vaelukoa|Vaelukoa]]—the reef village whose current-stone the lens belongs to
 - [[place-thalari|Thal'ari]]—the sanctuary that keeps the current-stones' dead held stones
-- [[lore-itharisul|Ithári'sul]]—the substance of the works, and the living and dead held stones
+- [[lore-itharisul|Ithasul]]—the substance of the works, and the living and dead held stones

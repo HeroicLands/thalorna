@@ -1,6 +1,6 @@
 ---
 shortcode: rlthvrjrnskl
-name: {full: Rulthvir Járnskel, given: Rulthvir, clan: Járnskel, aliases: []}
+name: {full: Rulthvir Jarnskel, given: Rulthvir, clan: Jarnskel, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -414,7 +414,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rlthvrjrnskl|Rulthvir Járnskel]]{float=top-left}
+![[rlthvrjrnskl|Rulthvir Jarnskel]]{float=top-left}
 
 Rulthvir stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, and low-set brows.
 
@@ -424,15 +424,15 @@ Rulthvir stands 6'1" tall with a heavy build. He has tanned weathered skin, blac
 
 ### Origins Among the Herds
 
-Rulthvir was born into the Járnskel clan, a family of herders whose bloodline extends back generations among the pastoral valleys of [[place-norgaad|Norgaad]]. His earliest memories are of following his father across windswept highlands, learning to read the moods of livestock and the moods of the weather with equal attentiveness. Where most children played with toys, Rulthvir practiced herding techniques with the family's mixed flocks. No one forced this education on him; it was simply the texture of his life.
+Rulthvir was born into the Jarnskel clan, a family of herders whose bloodline extends back generations among the pastoral valleys of [[place-norgaad|Norgaad]]. His earliest memories are of following his father across windswept highlands, learning to read the moods of livestock and the moods of the weather with equal attentiveness. Where most children played with toys, Rulthvir practiced herding techniques with the family's mixed flocks. No one forced this education on him; it was simply the texture of his life.
 
 ### The Settling Years
 
-By his late teens, Rulthvir had proven himself a fine herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Járnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married **Marvthýra Hlarthendikh**, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **Snilthann the Younger**, showed the passion for herding that defines the Járnskel line.
+By his late teens, Rulthvir had proven himself a fine herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Jarnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married **Marvthira Hlarthendik**, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **Snilthann the Younger**, showed the passion for herding that defines the Jarnskel line.
 
 ### The Current Era
 
-Now, at forty-five, Rulthvir has become something of a byword in Norgaad's pastoral communities. His herds are the healthiest, his livestock the strongest, and farmers from three regions seek his counsel on animal husbandry, disease prevention, and grazing strategies. He's watched the world change around him—new kingdoms rise, trade routes shift, younger herders adopt new techniques—and he's remained largely unmoved, maintaining methods that his grandfather used because those methods still work. There is a stability to Rulthvir Járnskel; he seems as immovable as the mountains.
+Now, at forty-five, Rulthvir has become something of a byword in Norgaad's pastoral communities. His herds are the healthiest, his livestock the strongest, and farmers from three regions seek his counsel on animal husbandry, disease prevention, and grazing strategies. He's watched the world change around him—new kingdoms rise, trade routes shift, younger herders adopt new techniques—and he's remained largely unmoved, maintaining methods that his grandfather used because those methods still work. There is a stability to Rulthvir Jarnskel; he seems as immovable as the mountains.
 
 ## Psyche
 
@@ -444,7 +444,7 @@ His primary characteristic, however, is his steadfast commitment to his responsi
 
 ### Motivation
 
-Rulthvir is motivated by a desire that extends beyond human ambition—he wants to preserve the pastoral way of life and the knowledge it represents. He sees the world changing in ways that threaten traditional herding, and he works tirelessly so that young herders learn the old wisdom before it's lost entirely. His herds themselves are a kind of legacy, maintained with great care so that the Járnskel bloodlines continue to thrive. Beyond this, he's driven by something almost spiritual—a sense that caring for livestock is a sacred trust, that the animals in his care depend entirely upon his vigilance and wisdom, and that failing them would be a betrayal of something fundamental to who he is.
+Rulthvir is motivated by a desire that extends beyond human ambition—he wants to preserve the pastoral way of life and the knowledge it represents. He sees the world changing in ways that threaten traditional herding, and he works tirelessly so that young herders learn the old wisdom before it's lost entirely. His herds themselves are a kind of legacy, maintained with great care so that the Jarnskel bloodlines continue to thrive. Beyond this, he's driven by something almost spiritual—a sense that caring for livestock is a sacred trust, that the animals in his care depend entirely upon his vigilance and wisdom, and that failing them would be a betrayal of something fundamental to who he is.
 
 ### Strengths
 
@@ -470,8 +470,8 @@ Rulthvir is motivated by a desire that extends beyond human ambition—he wants 
 
 ### Patrons
 
-Lord [[being-skrldmylstrmbrn|Skrildmýl Stormborn]]
-: A powerful regional noble who depends on Rulthvir's knowledge to maintain the livestock that supplies his household and feeds his warriors. Skrildmýl has significant respect for Rulthvir's judgment and occasionally seeks his counsel on matters beyond herding.
+Lord [[being-skrldmylstrmbrn|Skrilmil Stormborn]]
+: A powerful regional noble who depends on Rulthvir's knowledge to maintain the livestock that supplies his household and feeds his warriors. Skrilmil has significant respect for Rulthvir's judgment and occasionally seeks his counsel on matters beyond herding.
 
 The Pastoral Families of Norgaad
 : Rulthvir has no single patron; he is a trusted advisor to dozens of herding families who regularly seek his counsel and purchase young stock from his herds.
@@ -482,7 +482,7 @@ None formally, though there are subtle tensions with younger herders who view Ru
 
 ### Affiliations
 
-The Járnskel Clan
+The Jarnskel Clan
 : - He remains bound to his family, though his primary emotional investment is in his herds rather than in clan politics.
 
 The Norgaad Pastoral Association

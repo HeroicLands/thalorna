@@ -15,7 +15,7 @@ data:
 # terran_analog: "Greek gnomic verse and the wisdom collections gathered under a famous name, Theognis's elegies to a pupil and the sayings of the Seven Sages; the Pythagorean akousmata, sayings heard and not explained, and the graded silence of a school with an inner teaching; and the instruction of a courtier in the manners of a court, for advice given as a list."
 ---
 
-**The Lessons of the Silver Veil** are the sayings a girl of the [[lore-heladsilverveil|Academy of the Silver Veil]] at [[affiliation-kalydria|Kalydria]] learns by heart, one year's lessons in each of the eight years from her entry at twelve to her license at twenty. She says them aloud to her teacher at the end of each year, all of them, from the first year's to the year she is finishing, and she may not go on to the next year's until she has said them without a fault. The Academy holds that **Lékhisîra Kálîdês**, its founder, said them, and the schools of [[affiliation-thyrenae|Thyrenae]] hold that she said the first rule and nothing else; the sayings themselves say nothing about who said them.
+**The Lessons of the Silver Veil** are the sayings a girl of the [[lore-heladsilverveil|Academy of the Silver Veil]] at [[affiliation-kalydria|Kalidria]] learns by heart, one year's lessons in each of the eight years from her entry at twelve to her license at twenty. She says them aloud to her teacher at the end of each year, all of them, from the first year's to the year she is finishing, and she may not go on to the next year's until she has said them without a fault. The Academy holds that **Lékhisira Kálides**, its founder, said them, and the schools of [[affiliation-thyrenae|Thirenae]] hold that she said the first rule and nothing else; the sayings themselves say nothing about who said them.
 
 Copies circulate outside the Academy, in every city of [[place-midhalnrgn|Mídhalión]] where a graduate has served, and the Academy neither owns nor disowns them. Every copy stops at the end of the seventh year. The eighth year's lessons are said and not written, and a copy that claims to have them is a forgery or a joke, and the Academy has never said which. Where the eighth year's lessons would stand, the copies write the first rule, in the founder's words, and nothing after it.
 
@@ -57,7 +57,7 @@ The Veiled Dreamer gave the singer the night. Give the guests the evening.
 
 ```poetry {form=precepts lang=en}
 Learn the Song of the Ships as every city sings it.
-Learn which ship came first in Thyrenae, and in Pelagora, and say each in its house.
+Learn which ship came first in Thirenae, and in Pelagora, and say each in its house.
 Never say which ship came first. Ask. Let the guest tell you.
 Learn the founders of every city, the seven and the colonies after them,
 and the names of the old clans, and which clan sits beside which in the theater.
@@ -141,7 +141,7 @@ and would keep it by conversation.
 ## See Also
 
 - [[lore-heladsilverveil|The Founding of the Silver Veil]]—the founder and the first rule
-- [[affiliation-kalydria|Kalydria]]—the city of the Academy
+- [[affiliation-kalydria|Kalidria]]—the city of the Academy
 - [[lore-heladtruce|The Truce of the Games]]—a graduate's speech at the heralds' altar
-- [[lore-zunelasdty|Zûnêlâs]]—the Veiled Dreamer, patron of Kalydria and of singers
-- [[lore-helioniteclt|Helionite]]—the hetairai, and the women the cities rank differently
+- [[lore-zunelasdty|Zunelas]]—the Veiled Dreamer, patron of Kalidria and of singers
+- [[lore-helioniteclt|Helionite]]—the hetairin, and the women the cities rank differently

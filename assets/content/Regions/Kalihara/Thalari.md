@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Thal'ari is the sanctuary of the [[affiliation-tharivaan|Ithári'kaan]] on the western slopes of [[place-klhrring|the Ring]], facing the sea. It stands on the outer face below [[place-klhrwstsddl|the Western Saddle]], on a shelf above the road that climbs from the western coast. It trains the custodians whose charge is the coast and the sea: the works of the [[lore-theithari|Ithári]] that stand on the reefs and islets around [[place-klhrcntnnt|Kalihara]], near which the currents run wrong for anyone who does not know them. A custodian formed at Thal'ari spends his life on the shore and the reefs and seldom sees the Bowl.
+Thal'ari is the sanctuary of the [[affiliation-tharivaan|Ithakan]] on the western slopes of [[place-klhrring|the Ring]], facing the sea. It stands on the outer face below [[place-klhrwstsddl|the Western Saddle]], on a shelf above the road that climbs from the western coast. It trains the custodians whose charge is the coast and the sea: the works of the [[lore-theithari|Ithari]] that stand on the reefs and islets around [[place-klhrcntnnt|Kalihara]], near which the currents run wrong for anyone who does not know them. A custodian formed at Thal'ari spends his life on the shore and the reefs and seldom sees the Bowl.
 
 ## The Holding
 

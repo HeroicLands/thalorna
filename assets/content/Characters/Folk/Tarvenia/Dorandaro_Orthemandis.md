@@ -1,9 +1,9 @@
 ---
 shortcode: dorandaroort
-name: {full: Dorándaro Orthemándis, aliases: [Alderman Dorándaro Orthemándis, Alderman Dorándaro]}
+name: {full: Dorándaro Orthemandis, aliases: [Alderman Dorándaro Orthemandis, Alderman Dorándaro]}
 type: being
 subType: npc
-description: Leader of the fishing cooperative that represents the common fishermen of Nebrális, named in Aléthra Torvaleth.
+description: Leader of the fishing cooperative that represents the common fishermen of Nebralis, named in Alethra Torvaleth.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dorándaro Orthemándis is a 50-year-old man who stands 5'11" tall with a heavy build. He has medium skin, sun-kissed complexion, dark brown hair, and brown eyes.
+Dorándaro Orthemandis is a 50-year-old man who stands 5'11" tall with a heavy build. He has medium skin, sun-kissed complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Dorándaro Orthemándis is an alderman and the leader of the fishing cooperative that represents the common fishermen of Nebrális. He has served alongside [[being-althrtrvlth|Aléthra Torvaleth]] in the communal assembly for six years and trusts her absolutely.
+Dorándaro Orthemandis is an alderman and the leader of the fishing cooperative that represents the common fishermen of Nebralis. He has served alongside [[being-althrtrvlth|Alethra Torvaleth]] in the communal assembly for six years and trusts her absolutely.

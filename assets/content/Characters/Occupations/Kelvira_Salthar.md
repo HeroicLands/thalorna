@@ -1,6 +1,6 @@
 ---
 shortcode: kelyrslthr
-name: {full: Kélvira Sálthar, aliases: []}
+name: {full: Kélvira Salthar, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, administration]
@@ -394,11 +394,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Kélvira Sálthar is a 42-year-old woman who stands 5'5" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. Her bright blue eyes sit beneath arched brows, lending her a lively gaze. A delicate nose and wide lips complete her features. She has pale skin with a smooth complexion. Her auburn hair is twisted into an elaborate arrangement. A notable feature is a slight squint from years of reading by candlelight.
+Kélvira Salthar is a 42-year-old woman who stands 5'5" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. Her bright blue eyes sit beneath arched brows, lending her a lively gaze. A delicate nose and wide lips complete her features. She has pale skin with a smooth complexion. Her auburn hair is twisted into an elaborate arrangement. A notable feature is a slight squint from years of reading by candlelight.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Kélvira Sálthar came into the world of the bureaucrat through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Kélvira Salthar came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
 Kélvira comes from a family of civil servants and followed in their footsteps, working in the city’s treasury department. Known for her sharp mind and eye for detail, she has uncovered several cases of embezzlement. Her dedication to rooting out corruption has made her a few enemies among the more unscrupulous officials.
 

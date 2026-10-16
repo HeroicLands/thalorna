@@ -1,6 +1,6 @@
 ---
 shortcode: balenermshg2
-name: {full: Balenerî Mesheget, aliases: [Balê]}
+name: {full: Baleneri Mesheget, aliases: [Bale]}
 type: being
 subType: npc
 description: "A noble of considerable wealth, whose patronage is sought and whose conditions are onerous"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Balenerî Mesheget is a 33-year-old man who stands 5'9" tall with a medium build. He has tawny skin and dark brown eyes. His features include a bald head.
+Baleneri Mesheget is a 33-year-old man who stands 5'9" tall with a medium build. He has tawny skin and dark brown eyes. His features include a bald head.
 
 # Dossier {#dossier}
 
-Balenerî Mesheget is a noble of considerable wealth, home in [[place-anlaghzetun|Anlagh-Zetûn]]. The patronage this wealth buys is sought after, and the conditions attached to it are not light. Anyone accepting that patronage learns the conditions before they learn much else.
+Baleneri Mesheget is a noble of considerable wealth, home in [[place-anlaghzetun|Anlagh-Zetun]]. The patronage this wealth buys is sought after, and the conditions attached to it are not light. Anyone accepting that patronage learns the conditions before they learn much else.

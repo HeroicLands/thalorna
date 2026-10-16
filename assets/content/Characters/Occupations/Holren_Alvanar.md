@@ -1,6 +1,6 @@
 ---
 shortcode: jolrenlvnr
-name: {full: Hólren Álvanar, aliases: []}
+name: {full: Holren Álvanar, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -399,13 +399,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Hólren Álvanar is a 31-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath thick brows, lending him an expressive gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is shorn at the sides with length on top.
+Holren Álvanar is a 31-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath thick brows, lending him an expressive gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is shorn at the sides with length on top.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Hólren Álvanar came into the world of the mason through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Holren Álvanar came into the world of the mason through a combination of circumstance and aptitude.
 
-Hólren has been working as a mason for over fifteen years, specializing in stone carving and masonry for buildings and sculptures. He takes great pride in his work, often infusing his pieces with details and artistic flair. Hólren is well-respected in his community for his craftsmanship and dedication to preserving traditional techniques, while also adapting to modern methods.
+Holren has been working as a mason for over fifteen years, specializing in stone carving and masonry for buildings and sculptures. He takes great pride in his work, often infusing his pieces with details and artistic flair. Holren is well-respected in his community for his craftsmanship and dedication to preserving traditional techniques, while also adapting to modern methods.
 
 ## Psyche
 
@@ -415,7 +415,7 @@ Can be overly perfectionistic, struggles with heavy lifting.
 
 ### Motivation
 
-Hólren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mason work keep him vigilant and adaptable.
+Holren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mason work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -423,15 +423,15 @@ Highly skilled stone carver, creative, good problem solver.
 
 ## Social
 
-Hólren is affiliated with Local Masons' Guild.
+Holren is affiliated with Local Masons' Guild.
 
-As a Tarvénan mason, Hólren occupies a recognized social niche within Tarvénia society.
+As a Tarvenan mason, Holren occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 
 ### Patrons
 
-Hólren's primary patron is Local builders and architects seeking quality craftsmanship. This relationship provides both opportunity and obligation.
+Holren's primary patron is Local builders and architects seeking quality craftsmanship. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -439,12 +439,12 @@ Few; generally well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Mason's Dilemma**—Hólren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Mason's Dilemma**—Holren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 
 2. **Old Grudges**—Few; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Hólren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Holren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Hólren depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Holren depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Hólren the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Holren the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

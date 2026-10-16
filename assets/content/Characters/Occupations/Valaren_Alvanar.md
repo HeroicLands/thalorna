@@ -1,6 +1,6 @@
 ---
 shortcode: valarnlvnr
-name: {full: Valáren Álvanar, aliases: []}
+name: {full: Valaren Álvanar, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Valáren Álvanar is a 37-year-old man who stands 5'9" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath heavy brows, lending him a measured gaze. A straight nose and expressive lips complete his features. He has light skin with an olive-toned complexion. His dark brown hair is kept practical and short.
+Valaren Álvanar is a 37-year-old man who stands 5'9" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath heavy brows, lending him a measured gaze. A straight nose and expressive lips complete his features. He has light skin with an olive-toned complexion. His dark brown hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Valáren Álvanar came into the world of the bureaucrat through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Valaren Álvanar came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
-Valáren began his career as a clerk and gradually climbed his way up in the city administration. He is known for his ability to find loopholes in regulations and for his ambition. While not particularly well-liked, his resourcefulness has earned him a place in some of the city’s higher circles.
+Valaren began his career as a clerk and gradually climbed his way up in the city administration. He is known for his ability to find loopholes in regulations and for his ambition. While not particularly well-liked, his resourcefulness has earned him a place in some of the city’s higher circles.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Opportunistic and willing to bend rules for personal gain.
 
 ### Motivation
 
-Valáren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bureaucrat work keep him vigilant and adaptable.
+Valaren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bureaucrat work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Clever and resourceful, good at navigating red tape.
 
 ## Social
 
-Valáren is affiliated with City Administration.
+Valaren is affiliated with City Administration.
 
-As a Tarvénan bureaucrat, Valáren occupies a recognized social niche within Tarvénia society.
+As a Tarvenan bureaucrat, Valaren occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 
 ### Patrons
 
-Valáren's primary patron is A powerful city councilor who appreciates Valáren's cunning. This relationship provides both opportunity and obligation.
+Valaren's primary patron is A powerful city councilor who appreciates Valaren's cunning. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Fellow bureaucrats who distrust his methods.
 
 ## Plot Hooks
 
-1. **The Bureaucrat's Dilemma**—Valáren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Bureaucrat's Dilemma**—Valaren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 
 2. **Old Grudges**—Fellow bureaucrats who distrust his methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Valáren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Valaren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Valáren depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Valaren depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Valáren the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Valaren the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

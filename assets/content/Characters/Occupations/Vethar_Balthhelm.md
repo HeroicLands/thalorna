@@ -1,6 +1,6 @@
 ---
 shortcode: vthrblthlm
-name: {full: Véthar yra Balthhelm wur Waldburg, aliases: []}
+name: {full: Vethar yra Balthhelm wur Waldburg, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Véthar yra Balthhelm wur Waldburg is a 56-year-old man who stands 5'8" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a strong chin. His large green eyes sit beneath prominent brows, lending him an expressive gaze. A broad nose and narrow lips complete his features. He has medium-toned skin with a rough complexion. His red hair is pulled back in a warrior's knot.
+Vethar yra Balthhelm wur Waldburg is a 56-year-old man who stands 5'8" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a strong chin. His large green eyes sit beneath prominent brows, lending him an expressive gaze. A broad nose and narrow lips complete his features. He has medium-toned skin with a rough complexion. His red hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born at [[place-waldburg|Waldburg]] to a Varokh household of hosts, Véthar came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born at [[place-waldburg|Waldburg]] to a Varokh household of hosts, Vethar came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Véthar has been the innkeeper of the Old Stone Inn for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Véthar is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
+Vethar has been the innkeeper of the Old Stone Inn for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Vethar is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ Sometimes overly nostalgic, struggles with physical tasks due to age.
 
 ### Motivation
 
-Véthar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in innkeeper work keep him vigilant and adaptable.
+Vethar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in innkeeper work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -415,7 +415,7 @@ Skilled cook, excellent host, great storyteller.
 
 ## Social
 
-Véthar keeps a hall for travelers at Waldburg’s crossing. Its market custom gives him customers, but no innkeepers’ association speaks for him or the other hosts.
+Vethar keeps a hall for travelers at Waldburg’s crossing. Its market custom gives him customers, but no innkeepers’ association speaks for him or the other hosts.
 
 ## Companions
 
@@ -429,12 +429,12 @@ Few; well-respected in the area.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma**—Véthar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Innkeeper's Dilemma**—Vethar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 2. **Old Grudges**—Few; well-respected in the area. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Véthar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Vethar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Véthar depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Vethar depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Véthar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Vethar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

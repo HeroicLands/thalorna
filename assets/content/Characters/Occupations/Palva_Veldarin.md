@@ -1,6 +1,6 @@
 ---
 shortcode: paliavldrn
-name: {full: Pálva Véldarin, aliases: []}
+name: {full: Palva Véldarin, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Pálva Véldarin is a 46-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with broad cheekbones, a prominent forehead, and a rounded jaw that leads to a narrow chin. Her round brown eyes sit beneath straight brows and give her a candid gaze. She has a slightly upturned nose and full lips. She has tanned skin with a clear complexion. Her gray hair is swept up and held with carved combs.
+Palva Véldarin is a 46-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with broad cheekbones, a prominent forehead, and a rounded jaw that leads to a narrow chin. Her round brown eyes sit beneath straight brows and give her a candid gaze. She has a slightly upturned nose and full lips. She has tanned skin with a clear complexion. Her gray hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Pálva Véldarin is a domestic servant.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Palva Véldarin is a domestic servant.
 
-Pálva has been a housemaid for several prominent families over her life. She now works for a rural nobleman, managing the daily upkeep of his estate. She is diligent and hardworking, and often takes on extra tasks to keep the household running smoothly. She is known for her no-nonsense attitude and practical skills, though some see her as overly stern.
+Palva has been a housemaid for several prominent families over her life. She now works for a rural nobleman, managing the daily upkeep of his estate. She is diligent and hardworking, and often takes on extra tasks to keep the household running smoothly. She is known for her no-nonsense attitude and practical skills, though some see her as overly stern.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ She can be overly strict with junior servants, and has little patience for lazin
 
 ### Motivation
 
-Pálva wants the estate run properly and her place in it secure until she is too old to hold it.
+Palva wants the estate run properly and her place in it secure until she is too old to hold it.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ She is skilled in household management, and can keep many tasks going at once.
 
 ## Social
 
-Pálva belongs to no guild, and is loyal only to her current employer.
+Palva belongs to no guild, and is loyal only to her current employer.
 
 ## Companions
 
 ### Patrons
 
-Pálva's patron is the noble family she currently serves.
+Palva's patron is the noble family she currently serves.
 
 ### Enemies
 
@@ -431,12 +431,12 @@ Few; most respect her work, but some junior servants resent her strictness.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma**—Pálva learns something about the nobleman she serves that a loyal servant would keep and an honest one would not.
+1. **The Domestic Servant's Dilemma**—Palva learns something about the nobleman she serves that a loyal servant would keep and an honest one would not.
 
-2. **Old Grudges**—A junior servant Pálva dismissed for laziness has found a place in a household that visits the estate.
+2. **Old Grudges**—A junior servant Palva dismissed for laziness has found a place in a household that visits the estate.
 
-3. **Echoes of the Past**—One of the prominent families Pálva once served comes to the estate as guests, and one of them remembers her.
+3. **Echoes of the Past**—One of the prominent families Palva once served comes to the estate as guests, and one of them remembers her.
 
-4. **Shifting Winds**—Political change in Élavendre threatens the nobleman Pálva serves, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Élavendre threatens the nobleman Palva serves, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A greater house offers Pálva the running of its whole household, and taking it would mean leaving the employer she has given her loyalty to.
+5. **The Opportunity**—A greater house offers Palva the running of its whole household, and taking it would mean leaving the employer she has given her loyalty to.

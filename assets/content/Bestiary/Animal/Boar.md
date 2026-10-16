@@ -236,7 +236,7 @@ The leaf litter along the path has been turned over in long, black furrows, and 
 
 # Dossier {#dossier}
 
-The Boar is the wild pig of the woods and scrub, three to four feet at the shoulder and two to four hundred pounds, with curved tusks and a coat of coarse bristles. It roots through the oak and beech of [[place-vrystwald|Vrystwald]], the gorges of the Byzarian [[place-southrnmrch|Southern March]] and the thickets of many lowland valleys, eating roots, grubs, small animals and carrion. Boars are quick to anger, slow to retreat, and most dangerous in the autumn rut and with piglets.
+The Boar is the wild pig of the woods and scrub, three to four feet at the shoulder and two to four hundred pounds, with curved tusks and a coat of coarse bristles. It roots through the oak and beech of [[place-vrystwald|Vristwald]], the gorges of the Bizarian [[place-southrnmrch|Southern March]] and the thickets of many lowland valleys, eating roots, grubs, small animals and carrion. Boars are quick to anger, slow to retreat, and most dangerous in the autumn rut and with piglets.
 
 ## Presentation
 
@@ -244,7 +244,7 @@ A stocky pig with a heavy head tapering to a muzzle made for rooting, on short, 
 
 ## In the Land
 
-Wild boar root through the oak and beech woods of [[place-vrystwald|Vrystwald]], the gorges and scrub of the [[place-southrnmrch|Southern March]] above Byzaría, and the river thickets and reed-beds of many lowland valleys. A sow with her sounder holds a few square miles around a wallow and a mast-bearing stand of trees. Boars are bolder where farms meet woodland, and a field of roots or grain at the forest edge is rooted over before the harvest.
+Wild boar root through the oak and beech woods of [[place-vrystwald|Vristwald]], the gorges and scrub of the [[place-southrnmrch|Southern March]] above Bizaria, and the river thickets and reed-beds of many lowland valleys. A sow with her sounder holds a few square miles around a wallow and a mast-bearing stand of trees. Boars are bolder where farms meet woodland, and a field of roots or grain at the forest edge is rooted over before the harvest.
 
 ## Key Behaviors
 

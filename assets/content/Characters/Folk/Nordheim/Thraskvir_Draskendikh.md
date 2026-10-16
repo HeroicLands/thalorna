@@ -1,6 +1,6 @@
 ---
 shortcode: thraskvirdra
-name: {full: Thraskvir Draskendikh, aliases: [Captain Thraskvir Draskendikh]}
+name: {full: Thraskvir Draskendik, aliases: [Captain Thraskvir Draskendik]}
 type: being
 subType: npc
 description: A merchant captain of the vessel Gyllir's Fortune who has worked with Hvarnthann Stormrót before.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Thraskvir Draskendikh is a 33-year-old man who stands 6'0" tall with a light build. He has tanned skin, weathered complexion, blonde hair, and grey eyes.
+Thraskvir Draskendik is a 33-year-old man who stands 6'0" tall with a light build. He has tanned skin, weathered complexion, blonde hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Thraskvir Draskendikh is a merchant captain who commands the vessel _Gyllir's Fortune_. [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] has worked with him before and joins his crew.
+Thraskvir Draskendik is a merchant captain who commands the vessel _Gyllir's Fortune_. [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] has worked with him before and joins his crew.

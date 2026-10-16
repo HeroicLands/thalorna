@@ -1,6 +1,6 @@
 ---
 shortcode: armndhldskrn
-name: {full: Ármund yra Hildskorn wur Falkenstein, aliases: []}
+name: {full: Armund yra Hildskorn wur Falkenstein, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Ármund yra Hildskorn wur Falkenstein is a 26-year-old man who stands 5'7" tall and is lean and wiry. He has a diamond face with sharp cheekbones, a prominent forehead, and a heavy jaw that leads to a broad chin. His bright green eyes sit beneath prominent brows, lending him a lively gaze. A strong nose and thin lips complete his features. He has fair skin with a lightly freckled complexion. His red hair is matted from years of outdoor work.
+Armund yra Hildskorn wur Falkenstein is a 26-year-old man who stands 5'7" tall and is lean and wiry. He has a diamond face with sharp cheekbones, a prominent forehead, and a heavy jaw that leads to a broad chin. His bright green eyes sit beneath prominent brows, lending him a lively gaze. A strong nose and thin lips complete his features. He has fair skin with a lightly freckled complexion. His red hair is matted from years of outdoor work.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Ármund came into the world of the jester through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Armund came into the world of the jester through a combination of circumstance and aptitude.
 
-Ármund grew up among the halls and landing places of Falkenstein, using humor and wit to entertain those around him. His wordplay, acrobatics and mimicry have made him welcome at more than one hearth. He travels between village feasts and market gatherings, though his cheer often masks deeper insecurities.
+Armund grew up among the halls and landing places of Falkenstein, using humor and wit to entertain those around him. His wordplay, acrobatics and mimicry have made him welcome at more than one hearth. He travels between village feasts and market gatherings, though his cheer often masks deeper insecurities.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ Can be overly self-critical, struggles with maintaining serious relationships.
 
 ### Motivation
 
-Ármund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jester work keep him vigilant and adaptable.
+Armund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jester work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ Quick-witted, skilled performer, adept at reading the crowd.
 
 ## Social
 
-Ármund earns a place by making the households of Falkenstein laugh at themselves, including the warriors whose quarrels can empty a hall. He holds no court appointment; a welcome at one hearth gives him no claim at another.
+Armund earns a place by making the households of Falkenstein laugh at themselves, including the warriors whose quarrels can empty a hall. He holds no court appointment; a welcome at one hearth gives him no claim at another.
 
 ## Companions
 
 ### Patrons
 
-Households and visiting traders feed or pay Ármund when his performances please them. A War Chief may call for a tale after a muster, but cannot command his voice as a lord would.
+Households and visiting traders feed or pay Armund when his performances please them. A War Chief may call for a tale after a muster, but cannot command his voice as a lord would.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Rival jesters who envy his popularity.
 
 ## Plot Hooks
 
-1. **The Jester's Dilemma**—Ármund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Jester's Dilemma**—Armund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 2. **Old Grudges**—Rival jesters who envy his popularity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Ármund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Armund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Ármund depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Armund depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Ármund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Armund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

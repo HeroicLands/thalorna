@@ -15,5 +15,5 @@ A lekhau who commands only the river's half has nothing to say about a caravan, 
 ## See Also
 
 - [[affiliation-gargezrulutu|Gar-Gezru'lutu]]—the House that holds the domain
-- [[lore-anlaghkhlth|Anlagh'Khelâthu]]—the river's fertile half
+- [[lore-anlaghkhlth|Anlagh'Khelathu]]—the river's fertile half
 - [[lore-khelunulekha|Khelunu Lekhau]]—the tradition whose half this is

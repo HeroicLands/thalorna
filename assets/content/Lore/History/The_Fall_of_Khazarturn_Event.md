@@ -1,9 +1,9 @@
 ---
 shortcode: fallkhazturn
-name: {full: The Fall of Khazártúrn, aliases: [The Sundering of the Elder Races]}
+name: {full: The Fall of Khazartúrn, aliases: [The Sundering of the Elder Races]}
 type: lore
 subType: history
-description: "In 2427 BF a Sinalë outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazártúrn and kills every soul in it—and the two Elder Races have not spoken since."
+description: "In 2427 BF a Sinale outlaw takes up the Second Voice, drives tens of thousands of Grukar against Khazartúrn and kills every soul in it—and the two Elder Races have not spoken since."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -18,7 +18,7 @@ data:
         - lore-flksinale
         - lore-grukarfolk
       summary: >-
-        A Sinalë outlaw takes up the Second Voice, a relic that speaks over Ahks and commands the hatched directly, and drives tens of thousands of Grukar against Khazártúrn. All thirty thousand inhabitants are killed. The Khazári lay their dead in their own chambers, clean the city, and seal it for all generations. The Old Compact ends here, the Sinalë hunt the outlaw down themselves and render no accounting, and the two Elder Races have had nothing to do with one another since.
+        A Sinale outlaw takes up the Second Voice, a relic that speaks over Ahks and commands the hatched directly, and drives tens of thousands of Grukar against Khazartúrn. All thirty thousand inhabitants are killed. The Khazari lay their dead in their own chambers, clean the city, and seal it for all generations. The Old Compact ends here, the Sinale hunt the outlaw down themselves and render no accounting, and the two Elder Races have had nothing to do with one another since.
       standing: attested
       where:
         locus: [place-worldthlrn]
@@ -59,7 +59,7 @@ data:
       accounts:
         - by: lore-flkkhazar
           says: >-
-            The Sinalë knew the thing existed and never said so. One of theirs held it. They settled it in private, handed over nothing, and explained nothing.
+            The Sinale knew the thing existed and never said so. One of theirs held it. They settled it in private, handed over nothing, and explained nothing.
           agrees: partly
           withholds: whether anyone has entered the city since it was sealed, and what is in it
         - by: lore-flksinale
@@ -82,7 +82,7 @@ data:
         - where the Second Voice is now, having never been recovered a second time
 ---
 
-[[lore-khazarturn|Khazártúrn]] was the greatest city the [[lore-flkkhazar|Khazári]] ever built, and
+[[lore-khazarturn|Khazartúrn]] was the greatest city the [[lore-flkkhazar|Khazari]] ever built, and
 in 2427 BF it was destroyed with every soul in it. Nothing before or since has come near it in the
 reckoning of the Deep Folk.
 
@@ -92,18 +92,18 @@ cooperate**, which is the constraint that has always kept the [[lore-grukarfolk|
 nuisance. The [[miscgear-secondvoice|Second Voice]] removes it, reaching the hatched directly and
 displacing the spawner's claim, so that Grukar of any number of tribes answer one will.
 
-Afterward the Khazári went back in. There were not remotely enough tombs, so they laid the dead in
+Afterward the Khazari went back in. There were not remotely enough tombs, so they laid the dead in
 their own chambers—the smiths in their shops, the archivists among the records, the households in
 their halls—one by one, by name. Then they cleaned the city to the condition they had kept it in,
 blocked the skylights with granite dressed to the surrounding rock, shut the fountains off at their
-source, put the birds out, and sealed it. Khazártúrn is not a ruin. It is intact, in good order, and
+source, put the birds out, and sealed it. Khazartúrn is not a ruin. It is intact, in good order, and
 full of its people.
 
-The breach that followed is the one the world half-knows and cannot date. The Sinalë knew the relic
+The breach that followed is the one the world half-knows and cannot date. The Sinale knew the relic
 existed and had never thought a weapon against cities worth mentioning, since they build none; one of
 theirs used it; and they hunted him down themselves, took a long time about it, and handed over
 nothing. Both positions are defensible and neither survives contact with the other. Only on
 [[place-aelwyth|Aelwyth]], where the two peoples were already neighbors, did anybody try to repair it.
 
-The relic was never recovered a second time, which is why the Khazári kill Grukar on sight everywhere,
+The relic was never recovered a second time, which is why the Khazari kill Grukar on sight everywhere,
 knowing perfectly well that the Grukar were its first victims and chose none of it.

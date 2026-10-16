@@ -1,26 +1,26 @@
 ---
 shortcode: bldfldyharvalen
-name: {full: Blood-field of Yhârvalen, aliases: []}
+name: {full: Blood-field of Yarvalen, aliases: []}
 type: place
 subType: site
-description: "The worst blood-field in Provènzia—a withering that kills the land around it, made when the Nordheim raids threw down Yhârvalen Henge, and now being deliberately roused by the Black Flame."
+description: "The worst blood-field in Provenzia—a withering that kills the land around it, made when the Nordheim raids threw down Yarvalen Henge, and now being deliberately roused by the Black Flame."
 tags: [border, inland]
 data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
 ---
 
-A battlefield of Provènzia remembered as a blood-field—ground where an engagement was fought at such
+A battlefield of Provenzia remembered as a blood-field—ground where an engagement was fought at such
 cost that the name stuck to the place rather than to the battle. Near
-[[place-yharvalenhenge|Yhârvalen Henge]].
+[[place-yharvalenhenge|Yarvalen Henge]].
 
-It lies in [[place-sathvothe|Sathvòthe]], on the low country inland of the [[place-batarengulf|Gulf of Batáren]]—a day's march from where a fleet can put an army ashore, which is why an army was ever
+It lies in [[place-sathvothe|Satvote]], on the low country inland of the [[place-batarengulf|Gulf of Bataren]]—a day's march from where a fleet can put an army ashore, which is why an army was ever
 brought to meet one there.
 
-It is the worst of Provènzia's [[lore-bloodfields|blood-fields]], and the one every Provenzian can
+It is the worst of Provenzia's [[lore-bloodfields|blood-fields]], and the one every Provenzian can
 name.
 
 ## A Withering
 
-Most blood-fields are frightening and harmless. Yhârvalen is neither. It is a **withering**: the land
+Most blood-fields are frightening and harmless. Yarvalen is neither. It is a **withering**: the land
 does not merely remember the battle, it dies of it. Crops fail, beasts sicken, the soil turns sour,
 and—unlike every other resonance recorded—the harm does not stay on the field. It spreads.
 
@@ -29,8 +29,8 @@ only quiet. That has ended.
 
 ## The Henge
 
-Yhârvalen is unusual in that the killing was not the whole of the injury. The Nordheim raids that swept
-through northern Provènzia some two hundred years ago, the [[lore-southrnfleets|Southern Fleets]] of the north's
+Yarvalen is unusual in that the killing was not the whole of the injury. The Nordheim raids that swept
+through northern Provenzia some two hundred years ago, the [[lore-southrnfleets|Southern Fleets]] of the north's
 own telling, **threw down the henge** as well as the men, and
 the standing opinion among those who study such things is that a blood-field made on the ruins of a
 sacred circle is a different and worse proposition than one made in an open field—that the boundary
@@ -48,5 +48,5 @@ sacred. The dying of the surrounding country is not incidental to their working.
 
 ## See Also
 
-- [[lore-bloodfields|The Blood-fields of Provènzia]] · [[place-yharvalenhenge|Yhârvalen Henge]]
+- [[lore-bloodfields|The Blood-fields of Provenzia]] · [[place-yharvalenhenge|Yarvalen Henge]]
 - [[affiliation-blackflame|The Black Flame]]

@@ -1,9 +1,9 @@
 ---
 shortcode: ninurishamir
-name: {full: Ninûri Shamîrû, aliases: [Merchant-Mother Ninûri Shamîrû]}
+name: {full: Ninuri Shamiru, aliases: [Merchant-Mother Ninuri Shamiru]}
 type: being
 subType: npc
-description: One of the more enlightened members of the Auric Compact, who quietly steers resources toward Yutâlûsh Pushûtûm.
+description: One of the more enlightened members of the Auric Compact, who quietly steers resources toward Yutalush Pushutum.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ninûri Shamîrû is a 32-year-old woman who stands 5'11" tall with a medium build. She has olive skin, weathered complexion, black hair, and brown eyes.
+Ninuri Shamiru is a 32-year-old woman who stands 5'11" tall with a medium build. She has olive skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Ninûri Shamîrû is a merchant-mother and one of the more enlightened members of the Auric Compact. Ninûri quietly steers resources toward the clinic of [[being-ytlshpshtm|Yutâlûsh Pushûtûm]] and has never demanded anything in return beyond his discretion.
+Ninuri Shamiru is a merchant-mother and one of the more enlightened members of the Auric Compact. Ninuri quietly steers resources toward the clinic of [[being-ytlshpshtm|Yutalush Pushutum]] and has never demanded anything in return beyond his discretion.

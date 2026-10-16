@@ -1,6 +1,6 @@
 ---
 shortcode: brynlflwyn
-name: {full: Drínel Sálvin, aliases: []}
+name: {full: Drinel Salvin, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Drínel Sálvin is a 27-year-old woman who stands 5'9" tall and is slender. She has a heart-shaped face with angular cheekbones, a high forehead, and an angular jaw that leads to a narrow chin. Her round blue eyes sit beneath arched brows, lending her a candid gaze. A straight nose and curved lips complete her features. She has fair skin with a smooth complexion. Her red hair is twisted into an elaborate arrangement.
+Drinel Salvin is a 27-year-old woman who stands 5'9" tall and is slender. She has a heart-shaped face with angular cheekbones, a high forehead, and an angular jaw that leads to a narrow chin. Her round blue eyes sit beneath arched brows, lending her a candid gaze. A straight nose and curved lips complete her features. She has fair skin with a smooth complexion. Her red hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Drínel Sálvin came into the world of the toymaker through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Drinel Salvin came into the world of the toymaker through a combination of circumstance and aptitude.
 
-Drínel grew up in a small village, where she started making simple toys for her younger siblings out of whatever materials she could find. Her talent for creating playful and durable toys gained local attention, and she eventually opened a small workshop. Drínel’s work is known for its rustic charm, with a focus on toys that encourage outdoor play.
+Drinel grew up in a small village, where she started making simple toys for her younger siblings out of whatever materials she could find. Her talent for creating playful and durable toys gained local attention, and she eventually opened a small workshop. Drinel’s work is known for its rustic charm, with a focus on toys that encourage outdoor play.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Inexperienced in running a business, struggles with pricing her work.
 
 ### Motivation
 
-Drínel is driven by the desire to master her craft and secure a stable future. The uncertainties of life in toymaker work keep her vigilant and adaptable.
+Drinel is driven by the desire to master her craft and secure a stable future. The uncertainties of life in toymaker work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Resourceful, skilled in working with natural materials, imaginative.
 
 ## Social
 
-Drínel is affiliated with None; works independently.
+Drinel is affiliated with None; works independently.
 
-As a Élavendri toymaker, Drínel occupies a recognized social niche within Élavendre society.
+As a Élavendri toymaker, Drinel occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Drínel's primary patron is Local villagers and travelers who seek rustic, handmade toys. This relationship provides both opportunity and obligation.
+Drinel's primary patron is Local villagers and travelers who seek rustic, handmade toys. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ None; she is well-liked but competes with more established toymakers.
 
 ## Plot Hooks
 
-1. **The Toymaker's Dilemma**—Drínel faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Toymaker's Dilemma**—Drinel faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—None; she is well-liked but competes with more established toymakers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Drínel's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Drinel's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Drínel depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Drinel depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Drínel the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Drinel the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

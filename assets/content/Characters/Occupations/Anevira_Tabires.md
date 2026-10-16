@@ -1,6 +1,6 @@
 ---
 shortcode: anevirtbrs
-name: {full: Ánevira Tâbîrês, aliases: []}
+name: {full: Ánevira Tabires, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,11 +393,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Ánevira Tâbîrês is a 32-year-old woman who stands 5'7" tall and is slender. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a prominent chin. Her deep-set amber eyes sit beneath prominent brows, lending her a watchful gaze. A straight nose and narrow lips complete her features. She has fair skin with a weathered complexion. Her black hair is flowing past her shoulders.
+Ánevira Tabires is a 32-year-old woman who stands 5'7" tall and is slender. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a prominent chin. Her deep-set amber eyes sit beneath prominent brows, lending her a watchful gaze. A straight nose and narrow lips complete her features. She has fair skin with a weathered complexion. Her black hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ánevira Tâbîrês came into the world of the tentmaker through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Ánevira Tabires came into the world of the tentmaker through a combination of circumstance and aptitude.
 
 Ánevira learned the craft of tentmaking from her father, who ran a small shop in a rural town. After his passing, she took over the business and continued supplying tents to local farmers, merchants, and travelers. Ánevira is known for her stitching and the decorative designs she incorporates into her work. Although her products are beautiful, some customers question their durability.
 
@@ -419,7 +419,7 @@ Skilled in decorative stitching and embroidery, creative.
 
 Ánevira is affiliated with None; works independently in her father's old shop.
 
-As a Helionite tentmaker, Ánevira occupies a recognized social niche within Heliónis society.
+As a Helionite tentmaker, Ánevira occupies a recognized social niche within Helionis society.
 
 ## Companions
 
@@ -433,12 +433,12 @@ Competitors who criticize her decorative approach.
 
 ## Plot Hooks
 
-1. **The Tentmaker's Dilemma**—Ánevira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Tentmaker's Dilemma**—Ánevira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
 
 2. **Old Grudges**—Competitors who criticize her decorative approach. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 3. **Echoes of the Past**—Something from Ánevira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Ánevira depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Ánevira depends upon. She must decide whether to adapt, resist, or flee.
 
 5. **The Opportunity**—A chance encounter offers Ánevira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

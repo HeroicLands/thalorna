@@ -3,7 +3,7 @@ shortcode: westernshore
 name: {full: The Sons on the Western Shore, aliases: [The Burning of Arnwern]}
 type: lore
 subType: history
-description: "From about 715 AF the Sons of Eldheim, campaigning out of Stormveld for a road into the Nordlands, have come ashore on Vrystwald's western bay and burned villages, Arnwern first and worst; no common muster has been raised against them, and Thornak Blodtusc Bar wants one."
+description: "From about 715 AF the Sons of Eldheim, campaigning out of Stormveld for a road into the Nordlands, have come ashore on Vristwald's western bay and burned villages, Arnwern first and worst; no common muster has been raised against them, and Thornak Bludtusk Barsk wants one."
 tags: [history]
 data:
   culture: varokhiclt
@@ -21,7 +21,7 @@ data:
         - place-falkhaven
         - affiliation-jrldmstrmvld
       summary: >-
-        The Sons of Eldheim, campaigning out of Stormveld for land on the mainland from which to reach into the Nordlands, land on Vrystwald's western bay and burn villages. Arnwern, a lake village behind the shore, is the first and the worst: its people killed or taken and its Shaman burned before its totem. Thornak Blodtusc Bar's raids on their outposts are the forest's only answer so far, and no common muster has been raised.
+        The Sons of Eldheim, campaigning out of Stormveld for land on the mainland from which to reach into the Nordlands, land on Vristwald's western bay and burn villages. Arnwern, a lake village behind the shore, is the first and the worst: its people killed or taken and its Shaman burned before its totem. Thornak Bludtusk Barsk's raids on their outposts are the forest's only answer so far, and no common muster has been raised.
       standing: attested
       names: [{name: the Burning of Arnwern, by: lore-varokhiclt}]
       where:
@@ -43,15 +43,15 @@ data:
         - whether the western villages' elders will lay their fragments together, and for whom
 ---
 
-The cliff watch at [[place-arnholt|Arnholt]] on the western shore has warned of unfamiliar sails for as long as the village has stood. Since about 715 it has had something specific to warn of: hulls out of [[affiliation-jrldmstrmvld|Stormveld]] carrying the [[affiliation-sonsmuspell|Sons of Eldheim]], who come ashore on [[place-vrystwald|Vrystwald]]'s western bay to burn villages and want the land they burn.
+The cliff watch at [[place-arnholt|Arnholt]] on the western shore has warned of unfamiliar sails for as long as the village has stood. Since about 715 it has had something specific to warn of: hulls out of [[affiliation-jrldmstrmvld|Stormveld]] carrying the [[affiliation-sonsmuspell|Sons of Eldheim]], who come ashore on [[place-vrystwald|Vristwald]]'s western bay to burn villages and want the land they burn.
 
 ## The Burning of Arnwern
 
-The Sons are an order of the [[affiliation-blackflame|Black Flame]], and their campaign is for ground: a foothold on the mainland, taken from the Varokh villages, from which to reach into the Nordlands. [[place-arnwern|Arnwern]], the eagle lake, was a village of the [[place-falkhaven|Falkhaven]] shore behind a lake where the eagles fish, and it was the first. The Sons came up from the shore at night, killed or took its people, and burned its Shaman before the eagle stone at the lake's edge, which is the order's sworn practice and the thing its Blazewarden, Sîrêthôs, has promised to do to every Shaman in the forest. They have burned several villages since, and none as thoroughly.
+The Sons are an order of the [[affiliation-blackflame|Black Flame]], and their campaign is for ground: a foothold on the mainland, taken from the Varokh villages, from which to reach into the Nordlands. [[place-arnwern|Arnwern]], the eagle lake, was a village of the [[place-falkhaven|Falkhaven]] shore behind a lake where the eagles fish, and it was the first. The Sons came up from the shore at night, killed or took its people, and burned its Shaman before the eagle stone at the lake's edge, which is the order's sworn practice and the thing its Blazewarden, Sirethos, has promised to do to every Shaman in the forest. They have burned several villages since, and none as thoroughly.
 
 ## No Muster Yet
 
-The danger is common, and the elders have not agreed on it. The villages of the shore are the ones burning, and the villages a week inland are the ones that would have to send their war-bands to the coast for a season. A common muster would need a War Chief, and the War Chief most eager for the command is [[being-thrnkbldtscbr|Thornak Blodtusc Bar]] of Eichengrund, whose band has raided the Sons' outposts and ambushed their patrols on its own account. Every elder who hears him argue for a muster hears Dorgulf's winter in it ([[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]), and Thornak's own village's Shaman opposes him.
+The danger is common, and the elders have not agreed on it. The villages of the shore are the ones burning, and the villages a week inland are the ones that would have to send their war-bands to the coast for a season. A common muster would need a War Chief, and the War Chief most eager for the command is [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]] of Eichengrund, whose band has raided the Sons' outposts and ambushed their patrols on its own account. Every elder who hears him argue for a muster hears Dorgulf's winter in it ([[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]), and Thornak's own village's Shaman opposes him.
 
 ## What It Left
 
@@ -62,6 +62,6 @@ The danger is common, and the elders have not agreed on it. The villages of the 
 ## See Also
 
 - [[affiliation-sonsmuspell|Sons of Eldheim]]—the order on the shore
-- [[being-thrnkbldtscbr|Thornak Blodtusc Bar]]—the hunter who wants the muster
+- [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]—the hunter who wants the muster
 - [[place-falkhaven|Falkhaven]]—the western shore the Sons come ashore on
 - [[lore-wintertally|The Tally of Winters]]—the Posts at Hrindstead as the forest counts them

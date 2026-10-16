@@ -1,6 +1,6 @@
 ---
 shortcode: konungrnk
-name: {full: "King", aliases: [Konungr]}
+name: {full: "King", aliases: []}
 type: lore
 subType: law
 description: "The sovereign, chosen from the royal clans and acclaimed at the ting, in the five kingdoms."
@@ -28,7 +28,7 @@ He answers to the ting for the realm as a jarl answers for a province: its peace
 
 ## Offices Open at This Standing
 
-None above it. The King of All Clans assembly meets every seventh year on [[place-domsey|Dómsey]], the island Nordheim holds. It is a separate assembly with no standing officers, and it adds no further rank to any one kingdom.
+None above it. The King of All Clans assembly meets every seventh year on [[place-domsey|Domsey]], the island Nordheim holds. It is a separate assembly with no standing officers, and it adds no further rank to any one kingdom.
 
 ## Where This Standing Is Held
 

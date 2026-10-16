@@ -1,9 +1,9 @@
 ---
 shortcode: gnildrmyl
-name: {full: Gnildrmýl, aliases: [Lord Gnildrmýl]}
+name: {full: Gnildrmil, aliases: [Lord Gnildrmil]}
 type: being
 subType: npc
-description: The lord of Ashenwood Manor, who keeps a feasting hall, named in Skilfvir Ásgrind and Ashenwood Manor.
+description: The lord of Ashenwood Manor, who keeps a feasting hall, named in Skilfvir Asgrind and Ashenwood Manor.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Gnildrmýl is a 48-year-old man who stands 5'11" tall with a heavy build. He has light skin, weathered complexion, auburn hair, and blue eyes.
+Gnildrmil is a 48-year-old man who stands 5'11" tall with a heavy build. He has light skin, weathered complexion, auburn hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Gnildrmýl is the lord of Ashenwood Manor, who keeps a feasting hall. [[being-sklfvrasgrnd|Skilfvir Ásgrind]] is the head huntsman of the manor and belongs to the lord's retinue. Gnildrmýl is named in [[being-sklfvrasgrnd|Skilfvir Ásgrind]] and [[place-ashenwoodmnr|Ashenwood Manor]].
+Gnildrmil is the lord of Ashenwood Manor, who keeps a feasting hall. [[being-sklfvrasgrnd|Skilfvir Asgrind]] is the head huntsman of the manor and belongs to the lord's retinue. Gnildrmil is named in [[being-sklfvrasgrnd|Skilfvir Asgrind]] and [[place-ashenwoodmnr|Ashenwood Manor]].

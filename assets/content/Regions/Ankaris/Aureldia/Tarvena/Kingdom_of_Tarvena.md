@@ -6,7 +6,7 @@ subType: polity
 description: "Loose confederation of fiercely independent petty kingdoms, city-states, and frontier territories held together by shared language and warrior culture—a political idea more than a unified state."
 data:
   templatePriority: null
-  demonym: Tarvénan
+  demonym: Tarvenan
   epithet: null
   symbol: null
   governance:
@@ -119,7 +119,7 @@ data:
   packFolder: tarvenia
 sohl: {system: {commonSkills: [tarvenlng]}}
 
-# terran_analog: "Central Spain (including Andorra) and southeastern France up to the southern Alps—the senior of the four Tarvénan feudal kingdoms, holding the central plateau and the principal mountain passes."
+# terran_analog: "Central Spain (including Andorra) and southeastern France up to the southern Alps—the senior of the four Tarvenan feudal kingdoms, holding the central plateau and the principal mountain passes."
 ---
 
 ## Overview
@@ -138,23 +138,23 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 
 ### The Three Kingdoms
 
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]]—The mountainous heartland of Tarvénia, seat of the High King, and the spiritual core of Tarvénan independence. Astúrath's mountain fortresses were never conquered by the [[affiliation-vylarinmpr|Vylarian Empire]], and the kingdom's lords consider themselves the truest heirs of the ancient Tarvéni warrior tradition. The High King is traditionally (though not always) drawn from the Astúrathi nobility.
-- [[affiliation-kngdmglvrn|Kingdom of Galváren]]—The green, mist-shrouded western coast. Galváren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvénan skepticism of the arcane. The kingdom's fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
-- [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—The largest and most fertile of the three kingdoms, occupying the central-southern lowlands. Liénrik has the most conventional feudal structure, the richest farmland, and the largest population. Its lords are wealthier and more politically ambitious than their mountain and coastal counterparts, and Liénriki nobles have contested the High Kingship more often than anyone.
+- [[affiliation-kngdmstrth|Kingdom of Asturath]]—The mountainous heartland of Tarvénia, seat of the High King, and the spiritual core of Tarvenan independence. Asturath's mountain fortresses were never conquered by the [[affiliation-vylarinmpr|Vylarian Empire]], and the kingdom's lords consider themselves the truest heirs of the ancient Tarveni warrior tradition. The High King is traditionally (though not always) drawn from the Astúrathi nobility.
+- [[affiliation-kngdmglvrn|Kingdom of Galvaren]]—The green, mist-shrouded western coast. Galvaren's people are seafarers, fishermen, and dreamers, with a reputation for mysticism that sits uneasily with mainstream Tarvenan skepticism of the arcane. The kingdom's fishing fleets are the largest in western [[place-ankrscntnnt|Ankaris Continent]], and its sailors are legendarily fearless—or foolhardy, depending on who you ask.
+- [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—The largest and most fertile of the three kingdoms, occupying the central-southern lowlands. Lienrik has the most conventional feudal structure, the richest farmland, and the largest population. Its lords are wealthier and more politically ambitious than their mountain and coastal counterparts, and Liénriki nobles have contested the High Kingship more often than anyone.
 
 ### The Free City
 
-- [[affiliation-frctyvlthr|Free City of Valthári]]—A prosperous port city-state on the southern coast, governed by a council of merchant families. Valthári is the richest single settlement in Tarvénia and the kingdom's window onto the [[place-vylarianse|Vylarian Sea]] trade. The city jealously guards its independence, paying tribute to the High King in exchange for a charter that guarantees self-governance. Its merchant-captains and naval power give it political leverage far beyond its modest territory.
+- [[affiliation-frctyvlthr|Free City of Valthari]]—A prosperous port city-state on the southern coast, governed by a council of merchant families. Valthari is the richest single settlement in Tarvénia and the kingdom's window onto the [[place-vylarianse|Vylarian Sea]] trade. The city jealously guards its independence, paying tribute to the High King in exchange for a charter that guarantees self-governance. Its merchant-captains and naval power give it political leverage far beyond its modest territory.
 
 ### The Free Territory
 
-- [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—The highland territory along the northern border with [[place-elavendre|Élavendre]], home to an ancient people who predate the Tarvéni migration. The Eskárathi speak their own language alongside Tarvéni, maintain their own customs and legal traditions, and acknowledge the High King only in the loosest sense. They are fiercely independent even by Tarvénan standards—which is saying something.
+- [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—The highland territory along the northern border with [[place-elavendre|Élavendre]], home to an ancient people who predate the Tarveni migration. The Eskárathi speak their own language alongside Tarveni, maintain their own customs and legal traditions, and acknowledge the High King only in the loosest sense. They are fiercely independent even by Tarvenan standards—which is saying something.
 
 ## Character
 
-Tarvénia's culture prizes individual courage, personal honor, and independence above all else. The Tarvénan mercenary tradition is famous across [[place-ankrscntnnt|Ankaris Continent]]—Tarvéni swordsmen and crossbowmen serve in armies from [[affiliation-vylarinmpr|Vylaria]] to [[affiliation-cnfdrtntrzlnstts|Tarûzel]], and mercenary service is considered an honorable career rather than a mark of desperation.
+Tarvénia's culture prizes individual courage, personal honor, and independence above all else. The Tarvenan mercenary tradition is famous across [[place-ankrscntnnt|Ankaris Continent]]—Tarveni swordsmen and crossbowmen serve in armies from [[affiliation-vylarinmpr|Vylaria]] to [[affiliation-cnfdrtntrzlnstts|Taruzel]], and mercenary service is considered an honorable career rather than a mark of desperation.
 
-The Tarvénans are deeply skeptical of magic and of the [[affiliation-ordoarcanis|Thôrdimâlon]] in particular. The Arcane Order maintains a few chapters in the larger cities but operates cautiously; mages who throw their weight around in Tarvénia tend to end up with a knife between their ribs. Folk healers, hedge witches, and village wise-women are tolerated and even respected, but institutionalized arcane power is viewed as just another form of tyranny.
+The Tarvenans are deeply skeptical of magic and of the [[affiliation-ordoarcanis|Thordimalon]] in particular. The Arcane Order maintains a few chapters in the larger cities but operates cautiously; mages who throw their weight around in Tarvénia tend to end up with a knife between their ribs. Folk healers, hedge witches, and village wise-women are tolerated and even respected, but institutionalized arcane power is viewed as just another form of tyranny.
 
 ## Commerce and Currency
 
@@ -163,8 +163,8 @@ Kingdom of Tarvénia uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ar
 ## See Also
 
 - [[place-tarvenirgn|Tarvénia Region]]—Regional overview
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—The three kingdoms
-- [[affiliation-frctyvlthr|Free City of Valthári]]—The city-state
-- [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—The highland free territory
+- [[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—The three kingdoms
+- [[affiliation-frctyvlthr|Free City of Valthari]]—The city-state
+- [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—The highland free territory
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Former overlord (deeply resented)
-- [[affiliation-arldnpnthn|Aurèldían]]—Nominal state religion
+- [[affiliation-arldnpnthn|Aureldian]]—Nominal state religion

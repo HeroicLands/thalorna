@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Negation suppresses a mystical working in progress, or blunts one directed at the practitioner. It is the arcane talent set against other magic. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.
+Negation suppresses a mystical working in progress, or blunts one directed at the practitioner. It is the arcane talent set against other magic. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

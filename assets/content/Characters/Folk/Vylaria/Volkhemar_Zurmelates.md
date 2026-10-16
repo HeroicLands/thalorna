@@ -1,6 +1,6 @@
 ---
 shortcode: volkhemarzur
-name: {full: Vôlkhêmar Zûrmelâtês, aliases: [Merchant Prince Vôlkhêmar Zûrmelâtês]}
+name: {full: Volkemar Zurmelates, aliases: [Merchant Prince Volkemar Zurmelates]}
 type: being
 subType: npc
 description: A wealthy trader running charcoal works on a great scale with lower standards.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Vôlkhêmar Zûrmelâtês is a 29-year-old man who stands 5'9" tall with a medium build. He has fair skin, smooth complexion, dark brown hair, and brown eyes.
+Volkemar Zurmelates is a 29-year-old man who stands 5'9" tall with a medium build. He has fair skin, smooth complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Vôlkhêmar Zûrmelâtês is a wealthy trader who has begun running charcoal works on a great scale with lower standards. He has systematically undercut the prices and reputation of [[being-brnksksrns|Bránakis Kâserânis]].
+Volkemar Zurmelates is a wealthy trader who has begun running charcoal works on a great scale with lower standards. He has systematically undercut the prices and reputation of [[being-brnksksrns|Bránakis Kaseranis]].

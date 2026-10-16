@@ -3,18 +3,18 @@ shortcode: menavarabbey
 name: {full: Ménavar Abbey, aliases: []}
 type: place
 subType: site
-description: "The ruined abbey of Sathvòthe—once a center of Aurèldían learning, sacked in the Nordheim raids and never refounded, holding a healing relic that four parties want and that no expedition has yet come back with."
+description: "The ruined abbey of Satvote—once a center of Aureldian learning, sacked in the Nordheim raids and never refounded, holding a healing relic that four parties want and that no expedition has yet come back with."
 tags: [sacred, inland]
 data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
 ---
 
-**Ménavar** was once a center of Aurèldían learning and spiritual practice—a great house of the
-Twelve in the north of Provènzia, with a library, a school and an endowment, standing on the low
-country of [[place-sathvothe|Sathvòthe]] within reach of the sea.
+**Ménavar** was once a center of Aureldian learning and spiritual practice—a great house of the
+Twelve in the north of Provenzia, with a library, a school and an endowment, standing on the low
+country of [[place-sathvothe|Satvote]] within reach of the sea.
 
-That was its undoing. The **Nordheim raids** ([[lore-southrnfleets|the Southern Fleets]]) that came in off the [[place-batarengulf|Gulf of Batáren]]
+That was its undoing. The **Nordheim raids** ([[lore-southrnfleets|the Southern Fleets]]) that came in off the [[place-batarengulf|Gulf of Bataren]]
 some two centuries ago fell on Ménavar as they fell on
-[[place-yharvalenhenge|Yhârvalen Henge]] a day's march away, and the abbey was gutted. It was never
+[[place-yharvalenhenge|Yarvalen Henge]] a day's march away, and the abbey was gutted. It was never
 refounded.
 
 ## Why It Was Abandoned
@@ -32,7 +32,7 @@ and has never formally denied it.
 
 ## The Relic
 
-Something was kept at Ménavar that was not carried out: a relic of the Aurèldían faith, rumored to
+Something was kept at Ménavar that was not carried out: a relic of the Aureldian faith, rumored to
 have **healing properties**, and rumored with enough consistency and for long enough that serious
 people take it seriously.
 
@@ -55,17 +55,17 @@ mad. This is a matter of record rather than rumor, and it has not deterred anyon
 Four parties, at least, and none of them will say so plainly:
 
 - The **Church**, which holds that the relic is its property and has never relinquished the claim.
-- The [[affiliation-ordoarcanis|Thôrdimâlon]], which wishes to _study_ it, and whose agents are
+- The [[affiliation-ordoarcanis|Thordimalon]], which wishes to _study_ it, and whose agents are
   invariably furnished with an authority nobody can quite check.
 - A **noble house** claiming historical custody—a claim that is probably genuine and certainly
   inconvenient.
 - A **collector**, unnamed, whose offer is substantial enough to raise the question of who is really
   paying.
 
-Given where Ménavar stands, and given who has been working the ground at Yhârvalen, a fifth interest is
+Given where Ménavar stands, and given who has been working the ground at Yarvalen, a fifth interest is
 worth considering. See [[scenario-lstrlcmnvrby|The Lost Relic of Ménavar Abbey]].
 
 ## See Also
 
-- [[place-sathvothe|Sathvòthe]] · [[place-yharvalenhenge|Yhârvalen Henge]]
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]
+- [[place-sathvothe|Satvote]] · [[place-yharvalenhenge|Yarvalen Henge]]
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]

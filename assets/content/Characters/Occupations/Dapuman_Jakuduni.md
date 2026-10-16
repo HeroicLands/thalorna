@@ -1,6 +1,6 @@
 ---
 shortcode: dpmnjkdn
-name: {full: Dapûman Jakûdûnî, aliases: []}
+name: {full: Dapuman Jakuduni, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,23 +392,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Dapûman Jakûdûnî is a 37-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His wide-set brown eyes sit beneath arched brows and give him an open gaze. He has a prominent nose and narrow lips. He has warm golden skin with an olive-toned complexion. His dark brown hair is cropped short.
+Dapuman Jakuduni is a 37-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His wide-set brown eyes sit beneath arched brows and give him an open gaze. He has a prominent nose and narrow lips. He has warm golden skin with an olive-toned complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
-Dapûman Jakûdûnî is a hideworker of Hitûsel, a fishing village on the coast of Tarûzel, a Tarûzelian freeman who tans and works leather in the pits below the village as his father did.
+Dapuman Jakuduni is a hideworker of Hitusel, a fishing village on the coast of Taruzel, a Taruzelian freeman who tans and works leather in the pits below the village as his father did.
 
-Dapûman learned the trade at his father's pits and has kept them since his father's hands gave out: the soaking, the liming, the scraping and the long tan in bark and water that turns a hide into leather that lasts a lifetime. He makes what the coast needs, boots, harness and the heavy jerkins the fishermen wear against the wind, and he makes them the old way, slowly, and they last. Buyers come up from Sazûmun for his hides because the city tanneries tan faster and sell leather that cracks in two winters. The work is filthy and heavy, and it is wearing him out. His hands are a man of sixty's, he has cut himself to the bone twice this year, and his back has begun to fail him on the scraping-beam.
+Dapuman learned the trade at his father's pits and has kept them since his father's hands gave out: the soaking, the liming, the scraping and the long tan in bark and water that turns a hide into leather that lasts a lifetime. He makes what the coast needs, boots, harness and the heavy jerkins the fishermen wear against the wind, and he makes them the old way, slowly, and they last. Buyers come up from Sazumun for his hides because the city tanneries tan faster and sell leather that cracks in two winters. The work is filthy and heavy, and it is wearing him out. His hands are a man of sixty's, he has cut himself to the bone twice this year, and his back has begun to fail him on the scraping-beam.
 
 ## Psyche
 
 ### Personality
 
-Dapûman is steady, modest and slow to speak, proud of his leather and embarrassed to praise it. He works through pain because stopping is not something his father did.
+Dapuman is steady, modest and slow to speak, proud of his leather and embarrassed to praise it. He works through pain because stopping is not something his father did.
 
 ### Motivation
 
-Dapûman wants leather that lasts, made the way his father made it, and he wants his hands and his back to last long enough to make it. He has begun to understand that they will not, and he has no son and no apprentice.
+Dapuman wants leather that lasts, made the way his father made it, and he wants his hands and his back to last long enough to make it. He has begun to understand that they will not, and he has no son and no apprentice.
 
 ### Strengths
 
@@ -416,24 +416,24 @@ Skilled in tanning and leather-work, knows hides and how to cure them, hard to s
 
 ## Social
 
-Dapûman belongs to no compact. The Vezâkûnî requires a master to be registered, and a village tanner has so far been beneath its notice; his buyers from Sazûmun are careful how they describe where his leather came from.
+Dapuman belongs to no compact. The Vezakuni requires a master to be registered, and a village tanner has so far been beneath its notice; his buyers from Sazumun are careful how they describe where his leather came from.
 
 ## Companions
 
 ### Patrons
 
-Dapûman's patrons are the fishermen and farmers of Hitûsel and the villages either side of it, and the leather-buyers who come up the coast from Sazûmun.
+Dapuman's patrons are the fishermen and farmers of Hitusel and the villages either side of it, and the leather-buyers who come up the coast from Sazumun.
 
 ### Enemies
 
-A tannery of Sazûmun, chartered under the compact, whose vezâkum has learned where the good coast leather comes from and would like it stopped, or bought.
+A tannery of Sazumun, chartered under the compact, whose vezakum has learned where the good coast leather comes from and would like it stopped, or bought.
 
 ## Plot Hooks
 
-1. **The Registration**—A pazâsum of the Vezâkûnî has come up the coast with a list of unregistered tanners, and Dapûman's name is on it. Registration means the compact's fee, methods and prices; refusal means the pits filled in.
+1. **The Registration**—A pazasum of the Vezakuni has come up the coast with a list of unregistered tanners, and Dapuman's name is on it. Registration means the compact's fee, methods and prices; refusal means the pits filled in.
 
-2. **The Hands**—Dapûman has cut the tendon of his right hand, and the village has no one who can set it. The nearest physician is in Sazûmun, and the tannery's vezâkum has offered to send for one.
+2. **The Hands**—Dapuman has cut the tendon of his right hand, and the village has no one who can set it. The nearest physician is in Sazumun, and the tannery's vezakum has offered to send for one.
 
-3. **The Strange Hide**—The fishermen have brought Dapûman a hide off something they netted that none of them can name. He does not know how to tan it, and has begun to think it should not be tanned.
+3. **The Strange Hide**—The fishermen have brought Dapuman a hide off something they netted that none of them can name. He does not know how to tan it, and has begun to think it should not be tanned.
 
 4. **The Pits**—The village well has gone foul, and the elders have looked at the tan-pits. Moving them means a year without income and a debt to whoever lends it.

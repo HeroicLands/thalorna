@@ -3,7 +3,7 @@ shortcode: orashion
 name: {full: Órashion, aliases: []}
 type: affiliation
 subType: polity
-description: "City-state of the Byzarian League—the League's forge city in the mountain interior, built on its mines, basalt walls and guild masters."
+description: "City-state of the Bizarian League—the League's forge city in the mountain interior, built on its mines, basalt walls and guild masters."
 data:
   templatePriority: null
   demonym: Órashian
@@ -70,11 +70,11 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Órashion is the one League city where the people who make the goods have a say in how the city is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on the city council with as much authority as the merchant-princes. About 1.6 million people live in the city-state, whose seat is [[place-orashion2|Órashion]], Blackstone, in the mountainous interior of [[place-byzariargn|Byzaría]], and the others in the [[affiliation-byzarianlg|Byzarian League]] regard it as the least glamorous of the five and the one they could least do without.
+Órashion is the one League city where the people who make the goods have a say in how the city is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on the city council with as much authority as the merchant-princes. About 1.6 million people live in the city-state, whose seat is [[place-orashion2|Órashion]], Blackstone, in the mountainous interior of [[place-byzariargn|Bizaria]], and the others in the [[affiliation-byzarianlg|Bizarian League]] regard it as the least glamorous of the five and the one they could least do without.
 
 ## Who Decides
 
-A guild council and the merchant-princes share the government. The guilds control the quality and quantity of production, so a buyer who wants a blade, a cast or a commission negotiates with a guild before any merchant-prince. That makes Órashion a working-class city whose politics run more egalitarian than the oligarchies of Khrýshteíkhos and Nêsthiros, or at least more contentious. An ore-wagon driver on the mountain road says it from his own seat: "I know whose seal is on my load before I know its weight."
+A guild council and the merchant-princes share the government. The guilds control the quality and quantity of production, so a buyer who wants a blade, a cast or a commission negotiates with a guild before any merchant-prince. That makes Órashion a working-class city whose politics run more egalitarian than the oligarchies of Krusteikhos and Nesthiros, or at least more contentious. An ore-wagon driver on the mountain road says it from his own seat: "I know whose seal is on my load before I know its weight."
 
 The council elects a First of the Council for a fixed term, who holds the city's seal. In Órashion the Guild Master, who speaks before the council for a chartered trade and answers for his members' conduct, sits at that table with the same authority as a merchant-prince.
 
@@ -84,7 +84,7 @@ Standing runs from the register outward. The freeman is enrolled in the city's r
 
 ## Relations
 
-Órashion makes the arms, armor and metalwork the other four cities trade, from fine jewelry to military-grade weapons. It is also the League's go-between with the highlands above it. In the high passes between the interior and Argýrteíkhos lie the **Vezhnûr holds**, a clan-country of warrior clans under their own warlords, and a merchant-diplomat house of Órashion brokers between the League council and the holds. The city-state is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon]].
+Órashion makes the arms, armor and metalwork the other four cities trade, from fine jewelry to military-grade weapons. It is also the League's go-between with the highlands above it. In the high passes between the interior and Argirteikhos lie the **Vezhnur holds**, a clan-country of warrior clans under their own warlords, and a merchant-diplomat house of Órashion brokers between the League council and the holds. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
 
 ## Commerce and Currency
 
@@ -92,8 +92,8 @@ Standing runs from the register outward. The freeman is enrolled in the city's r
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—the confederation
-- [[place-byzariargn|Byzaría Region]]—the League's country
+- [[affiliation-byzarianlg|Bizarian League]]—the confederation
+- [[place-byzariargn|Bizaria Region]]—the League's country
 - [[place-orashion2|Órashion]]—the forge city
-- [[place-eastrnmrch|Eastern March]]—the frontier whose Vezhnûr holds Órashion brokers with
-- [[affiliation-khryshteikhos|Khrýshteíkhos]], [[affiliation-nesthiros|Nêsthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argýrteíkhos]]—the other four city-states
+- [[place-eastrnmrch|Eastern March]]—the frontier whose Vezhnur holds Órashion brokers with
+- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]]—the other four city-states

@@ -1,9 +1,9 @@
 ---
 shortcode: frstorqwnq
-name: {full: The First Orqunoq, aliases: [The Lantern Union]}
+name: {full: The First Orkunoq, aliases: [The Lantern Union]}
 type: lore
 subType: history
-description: "About 190 BF the steppe tribes are forced together for the first time under one orqun, who demands tribute of the Tower Cities and kills their chief city, Jilaq, when it refuses; the union breaks up on the orqun's death and the count of the Lantern Union begins."
+description: "About 190 BF the steppe tribes are forced together for the first time under one orkun, who demands tribute of the Tower Cities and kills their chief city, Jilaq, when it refuses; the union breaks up on the orkun's death and the count of the Lantern Union begins."
 tags: [history]
 data:
   packFolder: settinglore
@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [place-khzryndsrtrgn, lore-towercities, lore-swdsclndr]
       summary: >-
-        An orqun of the steppe forces the independent tribes into a single union under a personal dictatorship, the first of the three great unions the tribes remember. The union demands tribute of every city of the Tower League for the road across the waste. It breaks up into the tribes it was made from when the orqun dies.
+        An orkun of the steppe forces the independent tribes into a single union under a personal dictatorship, the first of the three great unions the tribes remember. The union demands tribute of every city of the Tower League for the road across the waste. It breaks up into the tribes it was made from when the orkun dies.
       standing: reconstructed
       names:
         - name: the Lantern Union
@@ -30,11 +30,11 @@ data:
       accounts:
         - by: place-khzryndsrtrgn
           says: >-
-            The tribes have no tale of the orqun's name or birth. They say a union was made, that it asked for what the cities would not give, and that it fell when the one who held it died.
+            The tribes have no tale of the orkun's name or birth. They say a union was made, that it asked for what the cities would not give, and that it fell when the one who held it died.
           agrees: partly
       unresolved:
-        - the founding orqun's name and tribe
-        - how long the union held before the orqun died
+        - the founding orkun's name and tribe
+        - how long the union held before the orkun died
     - id: fall
       when: ~-190
       kind: fall
@@ -62,7 +62,7 @@ The first of the steppe's great unions is remembered by what it did at one city,
 
 ## The Union
 
-The tribes of the [[place-khzryndsrtrgn|Khazryn]] are independent, each under its own dovaq, and nothing binds them to one another. For a few years about 190 BF one will did. An orqun rose who forced the tribes together under a personal dictatorship, and the union he or she made, the orqunoq, is the first of the three that the tribes count their years from. The tribes tell nothing of the orqun's name. They tell what the union asked for and what it cost.
+The tribes of the [[place-khzryndsrtrgn|Khazryn]] are independent, each under its own dovaq, and nothing binds them to one another. For a few years about 190 BF one will did. An orkun rose who forced the tribes together under a personal dictatorship, and the union he or she made, the orkunoq, is the first of the three that the tribes count their years from. The tribes tell nothing of the orkun's name. They tell what the union asked for and what it cost.
 
 ## The Demand
 
@@ -74,7 +74,7 @@ The union put one demand to every city of [[lore-towercities|the Tower League]]:
 - **The wells.** With the cities gone, the wells of the road passed to the tribes whose grazing they stand on. The tribes keep them and sell passage, tribe by tribe.
 - **The count.** The year the union rose is year 1 of the Lantern Union in the [[lore-swdsclndr|steppe reckoning]], and the count runs until the next banner rises.
 
-The union broke up when its orqun died, and the tribes went back to their wells.
+The union broke up when its orkun died, and the tribes went back to their wells.
 
 ## See Also
 

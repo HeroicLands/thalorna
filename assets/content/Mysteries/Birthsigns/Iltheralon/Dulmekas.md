@@ -1,6 +1,6 @@
 ---
 shortcode: chelyx
-name: {full: Dûlmêkâs, aliases: []}
+name: {full: Dulmekas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Tortoise: methodical at bench and drill-yard, sparing of speech, blind to the numinous."
@@ -35,7 +35,7 @@ sohl:
       hydalis: -10
 ---
 
-Dûlmêkâs, the Tortoise, shields its children with method and craft. They excel in the disciplined arts of the pen, the workshop, and the drill-yard, yet the sign keeps them apart from easy speech and the numinous alike.
+Dulmekas, the Tortoise, shields its children with method and craft. They excel in the disciplined arts of the pen, the workshop, and the drill-yard, yet the sign keeps them apart from easy speech and the numinous alike.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Dûlmêkâs, the Tortoise, shields its children with method and craft. They exce
 | Spirit  | Lore, Mystical            | −10 |
 | Water   | Language, Social          | −10 |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

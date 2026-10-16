@@ -1,6 +1,6 @@
 ---
 shortcode: tanzho
-name: {full: "Ritual: Tānzhò", aliases: [Tānzhò, Celestial Dragon, The First Classifier]}
+name: {full: "Ritual: Tanzho", aliases: [Tanzho, Celestial Dragon, The First Classifier]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-tanzho|Tānzhò]]
+See [[affiliation-tanzho|Tanzho]]

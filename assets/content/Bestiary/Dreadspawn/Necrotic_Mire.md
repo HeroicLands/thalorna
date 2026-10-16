@@ -192,7 +192,7 @@ The cause-walk of sunken logs runs out across the bog, and at the end of it, whe
 
 # Dossier {#dossier}
 
-The Necrotic Mire is a dreadspawn made of rot: a heaving column or mound of black sludge four to eight feet high, about five hundred pounds, which consumes everything organic it touches and grows on what it eats. Everything near it sickens and decays. It moves slowly and does not stop. It is not a dead thing, though it looks and smells like death: like every dreadspawn it was made, it is alive, and it does not breed. The one that is known lives in the **Drowned Country**, the vast marshes of [[place-grkrhlmrgn|Grukarhölm]], where neither Grukar nor the armies of the Nordmal will follow it, and it has eaten its way across a quarter of a great bog.
+The Necrotic Mire is a dreadspawn made of rot: a heaving column or mound of black sludge four to eight feet high, about five hundred pounds, which consumes everything organic it touches and grows on what it eats. Everything near it sickens and decays. It moves slowly and does not stop. It is not a dead thing, though it looks and smells like death: like every dreadspawn it was made, it is alive, and it does not breed. The one that is known lives in the **Drowned Country**, the vast marshes of [[place-grkrhlmrgn|Grukarholm]], where neither Grukar nor the armies of the Nordmal will follow it, and it has eaten its way across a quarter of a great bog.
 
 ## Presentation
 
@@ -200,7 +200,7 @@ The mire has no fixed shape. It is usually a heaving column or a low mound of bl
 
 ## In the Land
 
-Grukarhölm's marshlands are a vast complex of swamp, peat-bog, slow water and seasonal flood covering perhaps a quarter of the region, passable on foot only when they freeze in deep winter or in a few weeks of dry summer. The mire moves through them slowly and has done so for longer than any Grukar tribe remembers, and behind it lies a track of dead bog, gray reeds and bare trees that the tribes call by their own words and the Varokh call the **Black Road**. It eats fish, water birds, deer, carrion, the plants of the bog itself, and any Grukar or traveler it catches. It positions itself at the islands and cause-walks where animals and people must cross, and it goes deep into the wettest bog when it is hurt.
+Grukarholm's marshlands are a vast complex of swamp, peat-bog, slow water and seasonal flood covering perhaps a quarter of the region, passable on foot only when they freeze in deep winter or in a few weeks of dry summer. The mire moves through them slowly and has done so for longer than any Grukar tribe remembers, and behind it lies a track of dead bog, gray reeds and bare trees that the tribes call by their own words and the Varokh call the **Black Road**. It eats fish, water birds, deer, carrion, the plants of the bog itself, and any Grukar or traveler it catches. It positions itself at the islands and cause-walks where animals and people must cross, and it goes deep into the wettest bog when it is hurt.
 
 ## Key Behaviors
 
@@ -208,7 +208,7 @@ The mire exists to consume and grow. It senses prey through the vibration of the
 
 ## What the Grukar and Their Neighbors Do
 
-The Grukar tribes of the marshes move their settlements away from the mire's track and do not use the cause-walks it has crossed until a season has passed. They will not fight it hand to hand. When it comes near a longhouse, they burn the reed-beds in front of it, because fire destroys its body and stops it healing, and a burned strip of bog turns it aside. Varokh traders who cross the edges of Grukarhölm by river ask at every landing where the mire was last seen, and the answer is worth paying for. The Nordmal, who have learned not to send armies into the Drowned Country, count the mire among the reasons.
+The Grukar tribes of the marshes move their settlements away from the mire's track and do not use the cause-walks it has crossed until a season has passed. They will not fight it hand to hand. When it comes near a longhouse, they burn the reed-beds in front of it, because fire destroys its body and stops it healing, and a burned strip of bog turns it aside. Varokh traders who cross the edges of Grukarholm by river ask at every landing where the mire was last seen, and the answer is worth paying for. The Nordmal, who have learned not to send armies into the Drowned Country, count the mire among the reasons.
 
 ## Signs
 

@@ -1,6 +1,6 @@
 ---
 shortcode: flarnthannbr
-name: {full: Flarnthann Braldarukh, aliases: [Merchant-Prince Flarnthann Braldarukh]}
+name: {full: Flarnthann Braldaruk, aliases: [Merchant-Prince Flarnthann Braldaruk]}
 type: being
 subType: npc
 description: A merchant-prince and wealthy leader of trading expeditions who has used Braldthann Vetrdómr's tents for three decades.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Flarnthann Braldarukh is a 50-year-old man who stands 6'0" tall with a medium build. He has light skin, weathered complexion, blonde hair, and grey eyes.
+Flarnthann Braldaruk is a 50-year-old man who stands 6'0" tall with a medium build. He has light skin, weathered complexion, blonde hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Flarnthann Braldarukh is a merchant-prince and wealthy leader of trading expeditions who has used [[being-brldthnvtrdmr|Braldthann Vetrdómr]]'s tents for three decades. He credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
+Flarnthann Braldaruk is a merchant-prince and wealthy leader of trading expeditions who has used [[being-brldthnvtrdmr|Braldthann Vetrdómr]]'s tents for three decades. He credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.

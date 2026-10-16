@@ -1,6 +1,6 @@
 ---
 shortcode: thlmthnslvrgr
-name: {full: Thalmthann Sólvargr, given: Thalmthann, clan: Sólvargr, aliases: []}
+name: {full: Thalmthann Solvargr, given: Thalmthann, clan: Solvargr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -416,7 +416,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thlmthnslvrgr|Thalmthann Sólvargr]]{float=top-left}
+![[thlmthnslvrgr|Thalmthann Solvargr]]{float=top-left}
 
 Thalmthann stands 6'1" tall with a medium build. He has light weathered skin, grey hair, and grey eyes. His features include an angular face, a straight nose, a slightly downturned mouth, and thick brows. He has a scar on his chin.
 
@@ -426,11 +426,11 @@ Thalmthann stands 6'1" tall with a medium build. He has light weathered skin, gr
 
 ### The Apprenticeship Years
 
-Thalmthann Sólvargr was born into a merchant family of modest means, destined for a life of commerce until he witnessed a master glassworker demonstrating their craft at a market festival when he was twelve years old. The experience transfixed him—the way light transformed through molten glass, the precise control required to shape something so fluid, the beauty created from pure function. He begged his parents to apprentice him, and though they initially resisted, his persistence won them over. At fourteen, he entered the workshop of **Master Kalberk Firekeeper**, an aging glassworker of considerable skill who took the passionate boy under his wing.
+Thalmthann Solvargr was born into a merchant family of modest means, destined for a life of commerce until he witnessed a master glassworker demonstrating their craft at a market festival when he was twelve years old. The experience transfixed him—the way light transformed through molten glass, the precise control required to shape something so fluid, the beauty created from pure function. He begged his parents to apprentice him, and though they initially resisted, his persistence won them over. At fourteen, he entered the workshop of **Master Kalberk Firekeeper**, an aging glassworker of considerable skill who took the passionate boy under his wing.
 
 ### The Golden Years
 
-For thirty years, Thalmthann worked as an apprentice, journeyman, and finally master, gradually building a reputation as a reliable, skilled craftsman. He developed a particular skill in functional glassware—drinking vessels, decorative plates, and specialized containers for apothecaries and scholars. His work was known for its clarity, its precise form, and its subtle elegance. By his early forties, he had established his own workshop in [[place-vithgard|Vithgard]]'s merchant district and had become a respected figure in the Glassworkers' Guild. He trained a succession of apprentices, married a merchant's daughter named **Druskynda**, and settled into what seemed a life of comfortable mastery.
+For thirty years, Thalmthann worked as an apprentice, journeyman, and finally master, gradually building a reputation as a reliable, skilled craftsman. He developed a particular skill in functional glassware—drinking vessels, decorative plates, and specialized containers for apothecaries and scholars. His work was known for its clarity, its precise form, and its subtle elegance. By his early forties, he had established his own workshop in [[place-vithgard|Vithgard]]'s merchant district and had become a respected figure in the Glassworkers' Guild. He trained a succession of apprentices, married a merchant's daughter named **Druskinda**, and settled into what seemed a life of comfortable mastery.
 
 ### The Plateau Years
 
@@ -453,7 +453,7 @@ Thalmthann is primarily motivated by a desire to preserve the quality and integr
 - **Masterful Glassworking** - Thalmthann's technical skill is of the first order. He can work with glass at all temperature ranges, understands material properties with precision, and executes complex forms with accuracy. His work is technically excellent.
 - **Precision** - His hands have the kind of steady control that comes from forty years of focused practice. He can execute delicate work without hesitation or waste, and his failure rate is minimal.
 - **Knowledge of Materials** - He understands glass composition, knows how different materials affect the final product, and can diagnose material-related problems by examining the finished piece.
-- **Reliable Production** - He consistently produces high-quality work on schedule, with excellent consistency. Merchants and clients know they can depend on Thalmthann Sólvargr to deliver exactly what was promised.
+- **Reliable Production** - He consistently produces high-quality work on schedule, with excellent consistency. Merchants and clients know they can depend on Thalmthann Solvargr to deliver exactly what was promised.
 - **Respected Authority** - His reputation and position in the Guild carry weight. When Thalmthann speaks on matters of glasscraft, younger artisans listen, and his endorsement carries significant prestige.
 - **Effective Teacher** - Despite his reserve, he's capable of teaching those with real dedication, breaking complex skills into manageable components and providing patient, methodical instruction.
 - **Calm Under Pressure** - His emotional stability extends to crisis situations. He remains methodical even when furnaces malfunction or valuable work breaks, solving problems rather than panicking.
@@ -472,15 +472,15 @@ Thalmthann is primarily motivated by a desire to preserve the quality and integr
 
 ### Patrons
 
-The Merchant House Vraldendikh
-: A wealthy merchant family of considerable power who commission specialized glassware and decorative pieces, providing steady income. Lord **Althmýl Vraldendikh** values quality and tradition, making him an ideal patron for Thalmthann.
+The Merchant House Vraldendik
+: A wealthy merchant family of considerable power who commission specialized glassware and decorative pieces, providing steady income. Lord **Althmil Vraldendik** values quality and tradition, making him an ideal patron for Thalmthann.
 
 The Scholars' Collegiate
 : A consortium of scholars who depend on Thalmthann's precision glasswork for laboratory equipment and specialized vessels.
 
 ### Enemies
 
-Artisan Ilthann Vrathumakh
+Artisan Ilthann Vrathumak
 : A younger glassworker (who is also trained in ceramics) who established a rival workshop and is actively promoting contemporary aesthetic and technical approaches that directly challenge traditional glassworking. Ilthann has begun winning commissions from wealthy patrons seeking the newest work, which troubles Thalmthann.
 
 The Merchants' Coalition of Modern Commerce
@@ -496,7 +496,7 @@ The Masters' Circle
 
 ## Plot Hooks
 
-1. **The Impossible Commission**: - A mysterious patron of great wealth approaches Thalmthann Sólvargr with an extraordinary request: create a piece of glasswork that no one has ever successfully made before—something technically demanding that requires new methods to accomplish, but also something of great beauty that challenges his rigid aesthetic principles. The commission offers enough wealth to secure his family's future, but accepting requires him to embrace creative risk in ways he's avoided for decades.
+1. **The Impossible Commission**: - A mysterious patron of great wealth approaches Thalmthann Solvargr with an extraordinary request: create a piece of glasswork that no one has ever successfully made before—something technically demanding that requires new methods to accomplish, but also something of great beauty that challenges his rigid aesthetic principles. The commission offers enough wealth to secure his family's future, but accepting requires him to embrace creative risk in ways he's avoided for decades.
 
 2. **The Apprentice's Betrayal**: - One of Thalmthann's most accomplished apprentices, trained for years in his methods, announces that they're leaving to study under **Artisan Ilthann**, seeking to learn contemporary techniques that Thalmthann refuses to teach. The apprentice asks for Thalmthann's blessing, but he refuses, viewing the defection as a betrayal of everything the apprenticeship represented. The crisis forces Thalmthann to confront whether his resistance to change is wisdom or merely fear.
 

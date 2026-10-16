@@ -1,6 +1,6 @@
 ---
 shortcode: ureleralwn
-name: {full: Urèle Ralvèn, aliases: []}
+name: {full: Urele Ralven, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Urèle Ralvèn is a 24-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with wide-set cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. Her narrow gray eyes sit beneath expressive brows, lending her a keen gaze. A narrow nose and thin lips complete her features. She has olive skin with a fair complexion. Her dark brown hair is hanging in ringlets.
+Urele Ralven is a 24-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with wide-set cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. Her narrow gray eyes sit beneath expressive brows, lending her a keen gaze. A narrow nose and thin lips complete her features. She has olive skin with a fair complexion. Her dark brown hair is hanging in ringlets.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Urèle Ralvèn came into the world of the perfumer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a noble family of Provenzian heritage, Urele Ralven came into the world of the perfumer through a combination of circumstance and aptitude.
 
-Urèle is an up-and-coming perfumer who has gained recognition for her floral and fresh scents. Working in her small but charming shop, she focuses on creating natural and eco-friendly perfumes. Urèle is passionate about sustainability and often collaborates with local farmers to source her ingredients. Her warm personality and commitment to her craft have made her a beloved figure in the community.
+Urele is an up-and-coming perfumer who has gained recognition for her floral and fresh scents. Working in her small but charming shop, she focuses on creating natural and eco-friendly perfumes. Urele is passionate about sustainability and often collaborates with local farmers to source her ingredients. Her warm personality and commitment to her craft have made her a beloved figure in the community.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Can be overwhelmed by competition, sometimes struggles with the business side.
 
 ### Motivation
 
-Urèle is driven by the desire to master her craft and secure a stable future. The uncertainties of life in perfumer work keep her vigilant and adaptable.
+Urele is driven by the desire to master her craft and secure a stable future. The uncertainties of life in perfumer work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Knowledgeable about natural ingredients, environmentally conscious, friendly.
 
 ## Social
 
-Urèle is affiliated with Local Artisans' Guild.
+Urele is affiliated with Local Artisans' Guild.
 
-As a Provenzian perfumer, Urèle occupies a recognized social niche within Provènzia society.
+As a Provenzian perfumer, Urele occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Urèle's primary patron is Local residents and eco-conscious customers seeking natural fragrances. This relationship provides both opportunity and obligation.
+Urele's primary patron is Local residents and eco-conscious customers seeking natural fragrances. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Few; generally well-liked, though some competitors may see her as a threat.
 
 ## Plot Hooks
 
-1. **The Perfumer's Dilemma**—Urèle faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Perfumer's Dilemma**—Urele faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
 2. **Old Grudges**—Few; generally well-liked, though some competitors may see her as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Urèle's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Urele's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Urèle depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Urele depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Urèle the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Urele the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

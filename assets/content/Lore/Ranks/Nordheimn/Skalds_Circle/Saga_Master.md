@@ -1,6 +1,6 @@
 ---
 shortcode: storaldstjrnk
-name: {full: "Stóraldstjóri", aliases: [Sögumadr, Saga-Master]}
+name: {full: "Stóraldstjori", aliases: [Sogmadr, Saga-Master]}
 type: lore
 subType: law
 description: "Acclaimed by his peers when his composed sagas enter the standing repertoire, in the Skalds' Circle."
@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A stóraldstjóri is one of the skalds whose sagas the [[affiliation-skaldscrcl|Skalds' Circle]] teaches every apprentice: perhaps a dozen at any time, across all the kingdoms.
+A stóraldstjori is one of the skalds whose sagas the [[affiliation-skaldscrcl|Skalds' Circle]] teaches every apprentice: perhaps a dozen at any time, across all the kingdoms.
 
 ## What This Standing Is
 
-A stóraldstjóri is a senior skáld whose composed sagas have been accepted into the standing repertoire the Circle as a whole teaches to every apprentice. His peers acclaim him to the standing; nobody appoints him.
+A stóraldstjori is a senior skald whose composed sagas have been accepted into the standing repertoire the Circle as a whole teaches to every apprentice. His peers acclaim him to the standing; nobody appoints him.
 
 ## How the Law Treats a Person Here
 

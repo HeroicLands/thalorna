@@ -1,6 +1,6 @@
 ---
 shortcode: edithwlfrd
-name: {full: Edith Wolford, aliases: []}
+name: {full: Edrun Wolford, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Edith Wolford is a 25-year-old woman who stands 5'8" tall and is slender. She has an angular face with wide-set cheekbones, a prominent forehead, and a rounded jaw that leads to a rounded chin. Her sharp hazel eyes sit beneath expressive brows, lending her an incisive gaze. A straight nose and full lips complete her features. She has fair skin with a fair complexion. Her red hair is loose and wavy.
+Edrun Wolford is a 25-year-old woman who stands 5'8" tall and is slender. She has an angular face with wide-set cheekbones, a prominent forehead, and a rounded jaw that leads to a rounded chin. Her sharp hazel eyes sit beneath expressive brows, lending her an incisive gaze. A straight nose and full lips complete her features. She has fair skin with a fair complexion. Her red hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Edith Wolford is a jeweler.
+Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Edrun Wolford is a jeweler.
 
-Edith discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting pieces that often incorporate unique designs inspired by nature. Edith's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
+Edrun discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting pieces that often incorporate unique designs inspired by nature. Edrun's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ Sometimes too experimental, struggles with pricing her work.
 
 ### Motivation
 
-Edith wants buyers to value her nature-inspired designs, though she has trouble pricing her work.
+Edrun wants buyers to value her nature-inspired designs, though she has trouble pricing her work.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ Creative, skilled in design and metalwork, excellent customer service.
 
 ## Social
 
-Edith is affiliated with Local Jewelers' Guild.
+Edrun is affiliated with Local Jewelers' Guild.
 
 ## Companions
 
 ### Patrons
 
-Local artisans and collectors seek Edith's distinctive jewelry.
+Local artisans and collectors seek Edrun's distinctive jewelry.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ None; generally well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Jeweler's Dilemma**—Edith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Jeweler's Dilemma**—Edrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Old Grudges**—None; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Edith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Edrun's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Edith depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Edrun depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Edith the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Edrun the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

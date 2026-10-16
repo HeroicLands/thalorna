@@ -1,9 +1,9 @@
 ---
 shortcode: zekudironeta
-name: {full: Zekúdi Ronetándis, aliases: [Guard Captain Zekúdi]}
+name: {full: Zekudi Ornetis, aliases: [Guard Captain Zekudi]}
 type: being
 subType: npc
-description: A guard captain and trusted subordinate of Haldéna Durgána who has been accepting bribes from Rodion Carex.
+description: A guard captain and trusted subordinate of Haldena Durgana who has been accepting bribes from Rodion Carex.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zekúdi Ronetándis is a 34-year-old man who stands 6'0" tall with a medium build. He has olive skin, ruddy complexion, dark brown hair, and hazel eyes.
+Zekudi Ornetis is a 34-year-old man who stands 6'0" tall with a medium build. He has olive skin, ruddy complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Zekúdi Ronetándis is a guard captain, skilled and praised for his work, and a trusted subordinate of [[being-hldndrgn|Haldéna Durgána]]. He accepts bribes from the smuggling magnate Garrátsa Galtsurándis in exchange for letting contraband through the gates.
+Zekudi Ornetis is a guard captain, skilled and praised for his work, and a trusted subordinate of [[being-hldndrgn|Haldena Durgana]]. He accepts bribes from the smuggling magnate Garrutsa Galtsuris in exchange for letting contraband through the gates.

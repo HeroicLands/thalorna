@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Disembodiment separates the perceiving self from the body. The body lies insensible while the self is away. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.
+Disembodiment separates the perceiving self from the body. The body lies insensible while the self is away. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

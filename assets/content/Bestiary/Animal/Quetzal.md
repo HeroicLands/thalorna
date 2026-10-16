@@ -214,7 +214,7 @@ In the green dimness of the cloud forest a flash of emerald catches the light, h
 
 # Dossier {#dossier}
 
-The Quetzal is the sacred bird of the cloud forest, a trogon about twelve inches long with a male's tail streamers adding two or three feet and weighing half a pound. It lives in the mist forests between the lowland jungle and the highland plateau above [[place-xelemrgn|Xelem]], [[place-neokbaatergn|Ne'ok Ba'ate]] and [[place-ixbaltzakurgn|Ix'bal Tza'ku]]. Its tail feathers are the most valuable natural material of the highland civilizations of [[place-kchchkcntnnt|K'ich'chik]], worth more than their weight in gold. The bird is tied to the wind god and to freedom, and it is said to die in a cage.
+The Quetzal is the sacred bird of the cloud forest, a trogon about twelve inches long with a male's tail streamers adding two or three feet and weighing half a pound. It lives in the mist forests between the lowland jungle and the highland plateau above [[place-xelemrgn|Shelem]], [[place-neokbaatergn|Ne'ok Ba'ate]] and [[place-ixbaltzakurgn|Ish'bal Tsa'ku]]. Its tail feathers are the most valuable natural material of the highland civilizations of [[place-kchchkcntnnt|K'ich'chik]], worth more than their weight in gold. The bird is tied to the wind god and to freedom, and it is said to die in a cage.
 
 ## Presentation
 
@@ -222,15 +222,15 @@ A small bird of dazzling beauty. The male's head, back and upper breast are irid
 
 ## In the Land
 
-Quetzals live in the mist-wrapped cloud forest between the hot lowland jungle and the highland plateau, above [[place-xelemrgn|Xelem]], [[place-neokbaatergn|Ne'ok Ba'ate]] and [[place-ixbaltzakurgn|Ix'bal Tza'ku]]. A bird sits quietly in the middle canopy and plucks small fruit on the wing, hovering. A male has a green tail-streamer two or three feet long. In the breeding season it leaps from the tree-tops and spirals down, trailing it.
+Quetzals live in the mist-wrapped cloud forest between the hot lowland jungle and the highland plateau, above [[place-xelemrgn|Shelem]], [[place-neokbaatergn|Ne'ok Ba'ate]] and [[place-ixbaltzakurgn|Ish'bal Tsa'ku]]. A bird sits quietly in the middle canopy and plucks small fruit on the wing, hovering. A male has a green tail-streamer two or three feet long. In the breeding season it leaps from the tree-tops and spirals down, trailing it.
 
 ## Key Behaviors
 
 Quetzals live alone or in pairs in the cloud-forest canopy and eat small fruit, which they pluck in hovering flight, along with insects, small frogs and lizards. In courtship the male rises above the canopy and spirals down with his streamers trailing. They nest in tree cavities, and the male's long tail feathers protrude from the hole during incubation. They are shy and keep to the deepest forest. The call, a soft, melodious whistle, is used in temple music and poetry.
 
-## What the Itzáni Do
+## What the Itsani Do
 
-The Itzáni prize the quetzal's tail-feathers above gold. Plumes are worn by rulers and priests, and the feather-workers of the highland cities make headdresses and cloaks from them. Bird-catchers take the long feathers from the living bird and let it go, and a bird killed for its feathers is a sacrilege. The feathers of the quetzal and the macaw are among the goods sent from the valleys of Ix'bal Tza'ku to the cities. A male's streamers are measured in the market with a knotted cord.
+The Itsani prize the quetzal's tail-feathers above gold. Plumes are worn by rulers and priests, and the feather-workers of the highland cities make headdresses and cloaks from them. Bird-catchers take the long feathers from the living bird and let it go, and a bird killed for its feathers is a sacrilege. The feathers of the quetzal and the macaw are among the goods sent from the valleys of Ish'bal Tsa'ku to the cities. A male's streamers are measured in the market with a knotted cord.
 
 ## Signs
 

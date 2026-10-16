@@ -1,9 +1,9 @@
 ---
 shortcode: dskfrd
-name: {full: The Dusk Ford, aliases: [Ólvarnë]}
+name: {full: The Dusk Ford, aliases: [Ólvarne]}
 type: place
 subType: site
-description: "A ford over a bog river behind the Líserë shore that stands only in the long dusk and asks a toll of whoever crosses, kept by a thing of the reeds whose bargain with a beacon-keeper's line has fed the far bank with raiders' forfeits."
+description: "A ford over a bog river behind the Lísere shore that stands only in the long dusk and asks a toll of whoever crosses, kept by a thing of the reeds whose bargain with a beacon-keeper's line has fed the far bank with raiders' forfeits."
 tags: [draft, river, haunted, coastal]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   culture: elavendriclt
 ---
 
-A day's walk inland from the Líserë shingle, where the coastal forest thins into reed and black water, a slow river crosses the old drove track between two beacon stations. By day the track runs into the water and stops, and the bank on the far side is a wall of reed. At the long dusk, between the last light and the moment the first star clears the western trees, a ford stands: a line of flat stones, pale in the failing light, leading across to a causeway that does not exist at any other hour. The coast calls it the **Dusk Ford**, and in [[skill-elvndrlng|Élavendri]] _Ólvarnë_, evening as the wood reckons it.
+A day's walk inland from the Lísere shingle, where the coastal forest thins into reed and black water, a slow river crosses the old drove track between two beacon stations. By day the track runs into the water and stops, and the bank on the far side is a wall of reed. At the long dusk, between the last light and the moment the first star clears the western trees, a ford stands: a line of flat stones, pale in the failing light, leading across to a causeway that does not exist at any other hour. The coast calls it the **Dusk Ford**, and in [[skill-elvndrlng|Élavendri]] _Ólvarne_, evening as the wood reckons it.
 
 ## The Toll
 
@@ -32,20 +32,20 @@ Behind the ships stands a long low house of stakes and reed, the **tally-house**
 
 ## Why It Stands
 
-The Ford was asked for. A beacon-keeper of the Líserë shore, in the generation after the first Nordmen landings, walked out to the reeds at dusk with a lantern and asked the thing that kept the water to stand between the raiders and the land. The Toll-Keeper answered in its fashion. It keeps a crossing that takes from any who cross, and it favors the line of the beacon-keeper who asked, whose kin cross free. The raiders who come through the bog behind the shore pay their names and stay.
+The Ford was asked for. A beacon-keeper of the Lísere shore, in the generation after the first Nordmen landings, walked out to the reeds at dusk with a lantern and asked the thing that kept the water to stand between the raiders and the land. The Toll-Keeper answered in its fashion. It keeps a crossing that takes from any who cross, and it favors the line of the beacon-keeper who asked, whose kin cross free. The raiders who come through the bog behind the shore pay their names and stay.
 
-Líserë does not speak of it. A beacon-station that keeps its light lit on the stretch of shore behind the Ford is raided less than its neighbors, and nobody wishes to know why.
+Lísere does not speak of it. A beacon-station that keeps its light lit on the stretch of shore behind the Ford is raided less than its neighbors, and nobody wishes to know why.
 
 ## Who Knows, and What They Say
 
 - **The beacon families** of the northern shore know the Ford exists and say only that the track is not to be crossed after the lamps are lit.
 - **A Grove Council elder** at the coast says the Ford is a pact kept and a pact asked for, and that it holds the shore as the Wardens hold the wood: by being what it is.
 - **The Bardic Colleges** have a ballad of the Forfeit-Men, and the last verse is the one the bards do not sing.
-- **Smugglers** of the Calypsa trade use the track by daylight and the bog by night, and have lost three crews who used it at dusk.
+- **Smugglers** of the Kalipsa trade use the track by daylight and the bog by night, and have lost three crews who used it at dusk.
 
 ## Reaching It
 
-The track runs inland from the shingle between two beacon stations of [[place-lisere|Líserë]]. It is visible from the shore road as a gap in the reeds, and impassable until the sun is down. A traveler who arrives at dusk finds the stones already laid.
+The track runs inland from the shingle between two beacon stations of [[place-lisere|Lísere]]. It is visible from the shore road as a gap in the reeds, and impassable until the sun is down. A traveler who arrives at dusk finds the stones already laid.
 
 ## Hooks
 
@@ -56,6 +56,6 @@ The track runs inland from the shingle between two beacon stations of [[place-li
 ## See Also
 
 - [[scenario-tlldskfrd|The Toll You Will Not Miss]]—a scenario set here
-- [[place-lisere|Líserë]] · [[place-liserebay|Líserë Bay]]
+- [[place-lisere|Lísere]] · [[place-liserebay|Lísere Bay]]
 - [[lore-theasking|The Asking]]—how a pact is asked, and what is kept
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|The Grove Council]]

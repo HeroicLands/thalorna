@@ -3,7 +3,7 @@ shortcode: velkunsong
 name: {full: The Song of the Lost Town, aliases: [Veshkunrelum]}
 type: lore
 subType: literature
-description: "The Tellumi epic of old Vahúrdash as a cloth-teller sings it in the caravan yards of Kethramír: a prince who refused a stranger the guest-right, a champion who kept his oath past sense, the springs leaving the city one by one, a son killed at a shut gate, and the tablets still in their cellars under the sand."
+description: "The Tellumi epic of old Vahurdash as a cloth-teller sings it in the caravan yards of Kethramír: a prince who refused a stranger the guest-right, a champion who kept his oath past sense, the springs leaving the city one by one, a son killed at a shut gate, and the tablets still in their cellars under the sand."
 tags: [draft, khazryn]
 data:
   packFolder: settinglore
@@ -20,9 +20,9 @@ data:
   language: khazrilng
 ---
 
-**The Song of the Lost Town**, _Veshkunrelum_, is the song the [[lore-khazrynclt|Tellumi]] cloth-tellers sing of [[place-velkunar|Veshkun]], the old city of [[place-vahurdash|Vahúrdash]] that a drought emptied on the dry northern rim of [[place-swoasisbelt|Tellumel]]. It is a _lavun_, a telling before the cloth: the teller spreads a painted linen, a _pirsesh_, across the wall of a hired courtyard in the caravan yards of [[place-kethramir|Kethramír]], sings in couplets, and points with a reed to the scene he is singing, so that the yard sees the gate as it hears of it. He is paid by the scene, and he stops at the end of each to be paid. The song is one episode of a longer cycle on the seven cities; the tellers call the episodes before and after it by name and sing them on other nights, and a yard that has heard the whole cycle has sat through a month of evenings.
+**The Song of the Lost Town**, _Veshkunrelum_, is the song the [[lore-khazrynclt|Tellumi]] cloth-tellers sing of [[place-velkunar|Veshkun]], the old city of [[place-vahurdash|Vahurdash]] that a drought emptied on the dry northern rim of [[place-swoasisbelt|Tellumel]]. It is a _lavun_, a telling before the cloth: the teller spreads a painted linen, a _pirsesh_, across the wall of a hired courtyard in the caravan yards of [[place-kethramir|Kethramír]], sings in couplets, and points with a reed to the scene he is singing, so that the yard sees the gate as it hears of it. He is paid by the scene, and he stops at the end of each to be paid. The song is one episode of a longer cycle on the seven cities; the tellers call the episodes before and after it by name and sing them on other nights, and a yard that has heard the whole cycle has sat through a month of evenings.
 
-The text below is the rendering of one teller's cloth as a clerk of the Tōzhirōd magistracy took it down over three nights, with the teller's asides to the yard kept where the clerk kept them. It names the last prince of the old city **Sunhemay**, his champion **Berniray**, the champion's wife **Minesha** and their son **Revunay**, and it says the veiled woman the prince turned from his gate was [[affiliation-zurathra|Zúráthrä]], the Mother of the Oasis; the tellers say so, and the teller hedges it once in the singing. The Tellumi who tell the story hold that the springs failed because the city was judged; the revived House of Vahúrdash, which has built its town among the old streets and drinks from two wells found again, hears that as an insult and answers that the drought was a trial and that returning is the answer. The song gives no date and takes no side the house will accept. The clay tablets of the old record-keepers lie in their cellars under the sand, and the song ends on them.
+The text below is the rendering of one teller's cloth as a clerk of the Tozhirod magistracy took it down over three nights, with the teller's asides to the yard kept where the clerk kept them. It names the last prince of the old city **Sunhemay**, his champion **Berniray**, the champion's wife **Minesha** and their son **Revunay**, and it says the veiled woman the prince turned from his gate was [[affiliation-zurathra|Zúrathra]], the Mother of the Oasis; the tellers say so, and the teller hedges it once in the singing. The Tellumi who tell the story hold that the springs failed because the city was judged; the revived House of Vahurdash, which has built its town among the old streets and drinks from two wells found again, hears that as an insult and answers that the drought was a trial and that returning is the answer. The song gives no date and takes no side the house will accept. The clay tablets of the old record-keepers lie in their cellars under the sand, and the song ends on them.
 
 : The Song of the Lost Town {#song}
 
@@ -31,7 +31,7 @@ Sit on the wall, sit in the dust, sit where the shade will fall.
 A copper for the gate, a copper more, and I will show you all.
 Here is the cloth. Here is the rim. Here, where the brown line ends,
 the water stops, the grass gives out, the road to nowhere bends.
-This red is Vahúrdash. This blue is what it drank.
+This red is Vahurdash. This blue is what it drank.
 Count the blue with me. Nine springs. Nine channels. Nine, bank to bank.
 That was the fifth of the seven towns, the one the mountains made
 the farthest from their snow, and the last the melt-water paid.
@@ -96,10 +96,10 @@ because the water was not written there. What was written was gold.
 Now here. This figure at the gate. The one in the dust-colored veil.
 A woman on foot, from the north, from the sand, with a skin gone pale
 and empty, and the day's heat on her, and no beast and no man.
-She asked at the gate of Vahúrdash for the thing that a stranger can:
+She asked at the gate of Vahurdash for the thing that a stranger can:
 bread, and shade, and water, and no question asked. The neyin's right.
 We give it to the thief. We give it to the enemy at night.
-We gave it to the Ātárzád, and we have not taken it back.
+We gave it to the Atarzád, and we have not taken it back.
 That is a different song. The clay of that one is black.
 
   _So. The gate. Revunay held the gate that noon. He was the watch._
@@ -237,10 +237,10 @@ That is what a prince looks like who counted the wrong thing. That is all.
 
 Berniray lived. He kept the oath. He served the house in Kethramír
 and stood a gate for thirty years and never named the year
-or the court or the boy, and when he died a Dēlkoshekh read his name
+or the court or the boy, and when he died a Delkoshekh read his name
 from the household clay that Minesha saved, and the lamps were lit, and the same
 reed pressed beneath it, as the custom is, the names of the dead he owed,
-and the Dēlkoshekh read them, and came to one, and stopped, and the household showed
+and the Delkoshekh read them, and came to one, and stopped, and the household showed
 him the shield, and he read the shield. That is how it is done.
 And this is what the song is for. The town is a sand-filled plan.
 The streets are forty feet wide and the houses have no roofs, and a man
@@ -259,9 +259,9 @@ and the copper is the price of the water, and I thank you, friend.
 ## See Also
 
 - [[place-velkunar|Veshkun]]—the lost town, its cellars and the archive under the sand
-- [[place-vahurdash|Vahúrdash]]—the settlement rebuilt among the old streets, and the house that holds it by acclamation
+- [[place-vahurdash|Vahurdash]]—the settlement rebuilt among the old streets, and the house that holds it by acclamation
 - [[place-kethramir|Kethramír]]—the caravan city whose yards the song is sung in
 - [[lore-khazrynclt|The Tellumi]]—the people, their tablets and what they owe the record
-- [[affiliation-zurathra|Faith of Zúráthrä]]—the Mother of the Oasis, whom the tellers say the prince turned away
+- [[affiliation-zurathra|Faith of Zúrathra]]—the Mother of the Oasis, whom the tellers say the prince turned away
 - [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the seven houses and the Council the revived house sits on
-- [[doc-khazrynlex|Khazryn Lexicon]]—the names the song uses, and what they mean
+- [[skill-khazrilng#lexicon|Khazryn Lexicon]]—the names the song uses, and what they mean

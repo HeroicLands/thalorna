@@ -1,6 +1,6 @@
 ---
 shortcode: belos
-name: {full: Ithrôlâs, aliases: []}
+name: {full: Ithrolas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Lamp: a seer's mind and a scholar's patience, hopeless with tools and edged steel."
@@ -35,7 +35,7 @@ sohl:
       hydalis: 5
 ---
 
-Ithrôlâs, the Lamp, is the seer's sign. Its natives incline to the arcane and the antiquarian, keepers of lore and quiet counsel, while the maker's crafts and the disciplines of steel remain foreign to them.
+Ithrolas, the Lamp, is the seer's sign. Its natives incline to the arcane and the antiquarian, keepers of lore and quiet counsel, while the maker's crafts and the disciplines of steel remain foreign to them.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Ithrôlâs, the Lamp, is the seer's sign. Its natives incline to the arcane and 
 | Spirit  | Lore, Mystical            | +15 |
 | Water   | Language, Social          | +5  |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

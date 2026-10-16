@@ -1,9 +1,9 @@
 ---
 shortcode: pelerarsathe
-name: {full: Pêlêrar Sathêrândis, aliases: [Swordmaster Pêlêrar]}
+name: {full: Pelerar Satheris, aliases: [Swordmaster Pelerar]}
 type: being
 subType: npc
-description: A celebrated swordmaster in the dueling circles of Sâlkhâlon, under whom Korêmdânis Barkrâtis trained from age twelve.
+description: A celebrated swordmaster in the dueling circles of Salkalon, under whom Koremdanis Barkratis trained from age twelve.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Pêlêrar Sathêrândis is a 79-year-old man who stands 6'1" tall with a medium build. He has medium skin, sun-kissed complexion, dark brown hair, and amber eyes.
+Pelerar Satheris is a 79-year-old man who stands 6'1" tall with a medium build. He has medium skin, sun-kissed complexion, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Pêlêrar Sathêrândis is a celebrated swordmaster in the dueling circles of Sâlkhâlon. [[being-krmdnsbrkrtys|Korêmdânis Barkrâtis]] was placed under his tutelage at age twelve, and his exacting instruction made her a master swordsperson. He is her ancient teacher and the only person she truly respects.
+Pelerar Satheris is a celebrated swordmaster in the dueling circles of Salkalon. [[being-krmdnsbrkrtys|Koremdanis Barkratis]] was placed under his tutelage at age twelve, and his exacting instruction made her a master swordsperson. He is her ancient teacher and the only person she truly respects.

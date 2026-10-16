@@ -1,6 +1,6 @@
 ---
 shortcode: anirarsnth
-name: {full: Ánira Róseneth, aliases: []}
+name: {full: Ánira Órseneth, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -388,11 +388,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Ánira Róseneth is a 26-year-old woman who stands 5'9" tall and is slender. She has an angular face with defined cheekbones, a high forehead, and a square jaw that leads to a firm chin. Her large black eyes sit beneath heavy brows, lending her an expressive gaze. A straight nose and narrow lips complete her features. She has tanned skin with a sun-tanned complexion. Her gray hair is pulled back tightly from her face.
+Ánira Órseneth is a 26-year-old woman who stands 5'9" tall and is slender. She has an angular face with defined cheekbones, a high forehead, and a square jaw that leads to a firm chin. Her large black eyes sit beneath heavy brows, lending her an expressive gaze. A straight nose and narrow lips complete her features. She has tanned skin with a sun-tanned complexion. Her gray hair is pulled back tightly from her face.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Ánira Róseneth came into the world of the musician (lute) through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Ánira Órseneth came into the world of the musician (lute) through a combination of circumstance and aptitude.
 
 Ánira grew up on the streets and found solace in music. She learned to play the lute from a traveling bard, and now performs in inns and taverns across the city. Her music is known for its warmth and beauty, and she has a talent for improvising melodies that suit the mood of the crowd. While popular among common folk, she aspires to perform for nobility.
 
@@ -414,7 +414,7 @@ Talented musician, quick improviser, charming stage presence.
 
 Ánira is affiliated with Minstrels' Guild.
 
-As a Tarvénan musician (lute), Ánira occupies a recognized social niche within Tarvénia society.
+As a Tarvenan musician (lute), Ánira occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 

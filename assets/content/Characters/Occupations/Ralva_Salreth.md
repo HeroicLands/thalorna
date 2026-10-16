@@ -1,6 +1,6 @@
 ---
 shortcode: rhalizlrth
-name: {full: Rálva Sálreth, aliases: []}
+name: {full: Ralva Salreth, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -396,11 +396,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Rálva Sálreth is a 32-year-old woman who stands 5'7" tall and is of moderate build. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A narrow nose and narrow lips complete her features. She has tanned skin with a smooth complexion. Her blonde hair is twisted into an elaborate arrangement.
+Ralva Salreth is a 32-year-old woman who stands 5'7" tall and is of moderate build. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A narrow nose and narrow lips complete her features. She has tanned skin with a smooth complexion. Her blonde hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a noble family of Élavendri heritage, Rálva Sálreth came into the world of the pilot through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a noble family of Élavendri heritage, Ralva Salreth came into the world of the pilot through a combination of circumstance and aptitude.
 
 Captain Elysia is an experienced pilot known for her navigation skills and calm demeanor in the cockpit. She has piloted various types of airships and is respected in the aviation community for her expertise. Elysia is dedicated to safety and often mentors younger pilots, sharing her knowledge of flight techniques and navigation. She enjoys the thrill of flying and is always eager to explore new routes and destinations.
 
@@ -412,7 +412,7 @@ Can be overly cautious, struggles with delegating tasks.
 
 ### Motivation
 
-Rálva is driven by the desire to master her craft and secure a stable future. The uncertainties of life in pilot work keep her vigilant and adaptable.
+Ralva is driven by the desire to master her craft and secure a stable future. The uncertainties of life in pilot work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -420,15 +420,15 @@ Highly skilled navigator, composed under pressure, good mentor.
 
 ## Social
 
-Rálva is affiliated with Local Pilots' Guild.
+Ralva is affiliated with Local Pilots' Guild.
 
-As a Élavendri pilot, Rálva occupies a recognized social niche within Élavendre society.
+As a Élavendri pilot, Ralva occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Rálva's primary patron is Merchants and adventurers seeking reliable air travel. This relationship provides both opportunity and obligation.
+Ralva's primary patron is Merchants and adventurers seeking reliable air travel. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,12 +436,12 @@ Few; well-respected, but may face rivalry from less experienced pilots.
 
 ## Plot Hooks
 
-1. **The Pilot's Dilemma**—Rálva faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Pilot's Dilemma**—Ralva faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Few; well-respected, but may face rivalry from less experienced pilots. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Rálva's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Ralva's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Rálva depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Ralva depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Rálva the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Ralva the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

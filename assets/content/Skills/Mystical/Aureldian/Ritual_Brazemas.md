@@ -1,6 +1,6 @@
 ---
 shortcode: brazemas
-name: {full: "Ritual: Brâzêmâs", aliases: [Brâzêmâs, The Thunderer]}
+name: {full: "Ritual: Brazemas", aliases: [Brazemas, The Thunderer]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-brazemas|Faith of Brâzêmâs]]
+See [[affiliation-brazemas|Faith of Brazemas]]

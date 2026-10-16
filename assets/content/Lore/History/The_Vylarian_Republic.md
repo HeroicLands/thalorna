@@ -41,25 +41,25 @@ Republic grew steadily from a regional city-state into the dominant power of the
 [[place-vylarianse|Vylarian Sea]]. By 400 BF Vylaria held wide territory across [[place-midhalnrgn|Mídhalión]] and
 was a major economic and political force there. Its courts and its law grew with it, and the legal tradition it
 built is still adopted or adapted by courts across the continent. The era was one of expansion, legal innovation and,
-increasingly, strife at home: as Vylarian power grew, so did the ambitions of individual _kurthândoi_ (senators) and successful
+increasingly, strife at home: as Vylarian power grew, so did the ambitions of individual _kurthoi_ (senators) and successful
 generals.
 
-The war that shaped everything after it was the [[lore-helionscnq|conquest of Heliónis]], which the Republic began in
+The war that shaped everything after it was the [[lore-helionscnq|conquest of Helionis]], which the Republic began in
 335 BF and finished in 312 BF. The Helionite city-states fought with their mages, and the legions could not answer
 them. The Republic's answer was the **Dragon Riders**, warriors bonded to dragons near whom magic misfires, and the Riders
 broke the great mages where the legions had failed. What the Republic gave the dragons for that arm is in no account
 of the war (see [[lore-thebargain|The Bargain]]). In the year the last city fell, the
-Senate took the arcane college out of the Helionite [[affiliation-panepistmm|Plûmepistémion]] and put it under a magistracy,
+Senate took the arcane college out of the Helionite [[affiliation-panepistmm|Epistémion]] and put it under a magistracy,
 the **Kandral**, which held the Republic's arcanists on a register.
 
 The Republic's last century was its least orderly. In 75 BF an unchanneled release at
-[[lore-recensio|the Recensio of Alêssâ]] killed most of the Republic's senior arcanists, and in 73 BF the survivors
-drafted the [[lore-kandrol|Kandrol]], the charter of the [[affiliation-ordoarcanis|Thôrdimâlon]]. Around 45 BF
+[[lore-recensio|the Therona of Alessa]] killed most of the Republic's senior arcanists, and in 73 BF the survivors
+drafted the [[lore-kandrol|Kandrol]], the charter of the [[affiliation-ordoarcanis|Thordimalon]]. Around 45 BF
 the dragons' standing lease [[lore-ridersdisb|was not renewed]], the Riders were disbanded and the Eyrie of
 [[place-arvel|Arvel]] was sealed. Civil wars, factional violence and the concentration of power in the
 hands of successful commanders carried the Senate toward its end.
 
 It matters to the rest of the world for two reasons that have nothing to do with the Senate. Its
-[[lore-helionscnq|conquest of Heliónis]] produced the institution that holds the monopoly on arcane
+[[lore-helionscnq|conquest of Helionis]] produced the institution that holds the monopoly on arcane
 practice across half a continent; and [[lore-thefounding|the year its Republic ended]] is Year 1 of
 the calendar most of western Ankaris still counts by.

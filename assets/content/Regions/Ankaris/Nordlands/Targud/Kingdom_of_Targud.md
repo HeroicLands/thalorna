@@ -14,7 +14,7 @@ data:
     summary: Hereditary monarchy with a ting (assembly) tradition.
     ranks:
       - level: 0
-        title: Níding
+        title: Niding
         lore: nidingrnk
         description: >-
           Cast beyond the ting's protection for an offense no wergild settles: killing him draws no penalty, and any hall that shelters him answers to the assembly for it.
@@ -27,17 +27,17 @@ data:
         title: Lidmadr
         lore: lidmadrrnk
         description: >-
-          Free but answering through a following rather than a clan—a freed thrall still bound to his former master, a hall-less drengr, or a settled outsider—so his word carries no weight on the assembly's floor.
+          Free but answering through a following rather than a clan—a freed thrall still bound to his former master, a hall-less dreng, or a settled outsider—so his word carries no weight on the assembly's floor.
       - level: 3
-        title: Bóndi
+        title: Bundi
         lore: bondirnk
         description: >-
-          Holds his own odal land by inheritance rather than a lord's grant, bears arms, and speaks at the ting—and in Targud answers as well the rotating fort-duty the Grukar frontier lays on every free farmer in his turn.
+          Holds his own odel land by inheritance rather than a lord's grant, bears arms, and speaks at the ting—and in Targud answers as well the rotating fort-duty the Grukar frontier lays on every free farmer in his turn.
       - level: 4
         title: Hringberi
         lore: hringberirnk
         description: >-
-          Given a named seat by a hall—at the lord's table, the high seat, or the door nearest the fell—and heard before a common bóndi when the hall is deciding.
+          Given a named seat by a hall—at the lord's table, the high seat, or the door nearest the fell—and heard before a common bundi when the hall is deciding.
       - level: 5
         title: Hersvald
         lore: hersvaldrnk
@@ -47,7 +47,7 @@ data:
         title: Jarl
         lore: jarlrnk
         description: >-
-          Holds a province by the king's grant, commands its hersvaldar, and answers to the king for its peace—a grant the crown can move elsewhere, unlike a bóndi's inherited odal land.
+          Holds a province by the king's grant, commands its hersvaldar, and answers to the king for its peace—a grant the crown can move elsewhere, unlike a bundi's inherited odel land.
       - level: 7
         title: King
         lore: konungrnk
@@ -59,17 +59,17 @@ data:
       Jarl: Holding a named province of the king, commanding its levies and answering for its dues.
       Hersvald: Answers for a named district, leading its men to the muster and speaking for them at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares what it is.
-      Hirdstjóri: The king's marshal, commander of his household men and master of the muster.
-      Búvördr: >-
-        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Vetrnaetr.
-      Hringvördr: Keeper of the rings the king gives, his tribute and the silver of his hall.
-      Merkiberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
+      Hirvstjori: The king's marshal, commander of his household men and master of the muster.
+      Buvordr: >-
+        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Vetrnetr.
+      Hringvordr: Keeper of the rings the king gives, his tribute and the silver of his hall.
+      Merkberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
       Skald: >-
         Court poet, whose verse is the realm's memory and whose praise or scorn makes reputations; the standing behind the post belongs to the Skalds' Circle.
-      Hirdman: >-
+      Hirvman: >-
         Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
-      Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
-      Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
+      Landvordr: The king's reeve in a district, collecting his dues and holding his courts.
+      Skipstjori: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: tvalgard
   population: 300000
@@ -88,30 +88,30 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-Targud skalds sing a last stand as often as a victory, because the wall sees both. A bóndi who comes in to [[place-tvalgard|Tvalgard]] for his first weeks on it hears the last stands first.
+Targud skalds sing a last stand as often as a victory, because the wall sees both. A bundi who comes in to [[place-tvalgard|Tvalgard]] for his first weeks on it hears the last stands first.
 
 The Kingdom of Targud holds the land of [[place-targud|Targud]], on the eastern edge of the [[place-nrdlndsrgn|Nordlands]], and about 300,000 people live under its crown. It is the most militaristic of the five kingdoms, its whole culture shaped by the need to defend against [[lore-grukarfolk|Grukar]] raids and incursions, and an outsider knows it for the Grukar frontier and the forts that rotate their duty along it. Its warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
 
 ## How Targud Is Ruled
 
-Targud is a monarchy with a ting, as its sister kingdoms are, and its king holds the realm on the assembly's consent. He keeps his hall at Tvalgard, on the last defensible ridge before the burned ground, because the frontier is where a king of Targud has to be seen. Three jarls' seats stand behind the king's on [[place-domsey|Dómsey]].
+Targud is a monarchy with a ting, as its sister kingdoms are, and its king holds the realm on the assembly's consent. He keeps his hall at Tvalgard, on the last defensible ridge before the burned ground, because the frontier is where a king of Targud has to be seen. Three jarls' seats stand behind the king's on [[place-domsey|Domsey]].
 
-Under the king, a _jarl_ holds a province by his grant, a _hersvald_ answers for a district by its consent, and a _bóndi_ holds his odal land by inheritance. A bóndi of Targud owes something the other kingdoms' farmers do not: the rotating fort-duty the frontier lays on every free farmer in his turn.
+Under the king, a _jarl_ holds a province by his grant, a _hersvald_ answers for a district by its consent, and a _bundi_ holds his odel land by inheritance. A bundi of Targud owes something the other kingdoms' farmers do not: the rotating fort-duty the frontier lays on every free farmer in his turn.
 
-The forts are the kingdom's whole system of defense, and they have been since 613, when the Grukar horde reached the old royal hall at [[place-nulthgard|Nulthgard]] and the king who fell back to Tvalgard ordered every bóndi onto the wall in turn ([[lore-burningeast|The Burning of the East]]). A network of frontier forts is manned by warriors who serve rotating duty, and the rotation is mustered through Tvalgard. Every able-bodied person in the kingdom therefore has combat experience, and nobody in Targud reaches middle age without having stood the wall at least once. A farmer walks in, stands his weeks, and goes home to land his neighbors have minded.
+The forts are the kingdom's whole system of defense, and they have been since 613, when the Grukar horde reached the old royal hall at [[place-nulthgard|Nulthgard]] and the king who fell back to Tvalgard ordered every bundi onto the wall in turn ([[lore-burningeast|The Burning of the East]]). A network of frontier forts is manned by warriors who serve rotating duty, and the rotation is mustered through Tvalgard. Every able-bodied person in the kingdom therefore has combat experience, and nobody in Targud reaches middle age without having stood the wall at least once. A farmer walks in, stands his weeks, and goes home to land his neighbors have minded.
 
 ## The Royal Line
 
-Targud's kings come from the **Driskarukh**, whose name says they hold the crown as a charge kept against something, and the something has always been the east. They held their hall at Nulthgard until 613 and have held it at Tvalgard since.
+Targud's kings come from the **Driskaruk**, whose name says they hold the crown as a charge kept against something, and the something has always been the east. They held their hall at Nulthgard until 613 and have held it at Tvalgard since.
 
-- **Skruldmýl I**, about 528 to 556, raised the first eastern watchtowers.
-- **Skruldmýl II**, about 604 to 630, lost the east to the Grukar horde, moved the hall to Tvalgard and founded the fort-rotation.
-- **Braldmýl I**, about 630 to 658, raised [[place-driskborg|Draskborg]] and the beacon line on the burned ground.
-- **Skruldmýl III**, about 686 to 700.
+- **Skruldmil I**, about 528 to 556, raised the first eastern watchtowers.
+- **Skruldmil II**, about 604 to 630, lost the east to the Grukar horde, moved the hall to Tvalgard and founded the fort-rotation.
+- **Braldmil I**, about 630 to 658, raised [[place-driskborg|Draskborg]] and the beacon line on the burned ground.
+- **Skruldmil III**, about 686 to 700.
 - **Thraldvir**, about 700 to 707, whose reign was the shortest in the line.
-- **Braldmýl II**, king since 707.
+- **Braldmil II**, king since 707.
 
-Three kings in a generation is a hard run for a kingdom with three seats on Dómsey, and the court at Tvalgard has learned to watch the men who stand closest to the present king. Braldmýl II takes advice from his jester and denies it in public.
+Three kings in a generation is a hard run for a kingdom with three seats on Domsey, and the court at Tvalgard has learned to watch the men who stand closest to the present king. Braldmil II takes advice from his jester and denies it in public.
 
 ## The Frontier and the People
 
@@ -123,17 +123,17 @@ Targud's grim reputation hides one distinction: it is the kingdom with the most 
 
 ## Relations
 
-Targud lives with one fixed enemy, the Grukar of [[place-grkrhlmrgn|Grukarhölm]] to the east. Its dealings with the other four kingdoms are those of an equal at the table on Dómsey: [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]] and [[affiliation-kngdmvthgrd|Vithgard]] stand neither with Targud nor against it.
+Targud lives with one fixed enemy, the Grukar of [[place-grkrhlmrgn|Grukarholm]] to the east. Its dealings with the other four kingdoms are those of an equal at the table on Domsey: [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]] and [[affiliation-kngdmvthgrd|Vithgard]] stand neither with Targud nor against it.
 
 ## Commerce and Currency
 
-Targud strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (elthêzâs, ankhrâ and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+Targud strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 
 - [[place-targud|Targud]]—the land the kingdom holds
 - [[place-tvalgard|Tvalgard]]—the seat and the king's hall
 - [[lore-trgdahstry|Histories and Legends of Targud]]—the kingdom's remembered past
-- [[place-grkrhlmrgn|Grukarhölm]]—the eastern enemy
+- [[place-grkrhlmrgn|Grukarholm]]—the eastern enemy
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north

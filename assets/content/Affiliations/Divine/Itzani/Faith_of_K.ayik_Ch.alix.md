@@ -1,6 +1,6 @@
 ---
 shortcode: kayikchalix
-name: {full: "Faith of K'ayik Ch'alix", aliases: [The Sacred Flame, "K'ayik Ch'alix"]}
+name: {full: "Faith of K'ayik Ch'alish", aliases: [The Sacred Flame, "K'ayik Ch'alish"]}
 type: affiliation
 subType: faithtradition
 description: "Fire, transformation and sacrifice—the god who alone converts the blood-offering into divine substance, and whose eternal flames must never be allowed to die."
@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Tz'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -39,23 +39,23 @@ data:
         description: >-
           "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
-        title: Ch'alixbal
+        title: Ch'alishbal
         description: >-
           "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
-        title: Ch'alix
+        title: Ch'alish
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alix Tq'an and contending with the other branches for resources, precedence and favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alish Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
-        title: Ch'alix Tq'an
+        title: Ch'alish Tq'an
         description: >-
           "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
-        title: Presiding Ch'alix Tq'an
+        title: Presiding Ch'alish Tq'an
         description: >-
-          The Ch'alix Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Tz'enmah's succession.
+          The Ch'alish Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Ts'enmah's succession.
     offices:
-      Ch'alix Ch'ayik: >-
+      Ch'alish Ch'ayik: >-
         Keeper of the fire-keepers—head of the branch, and the priest who must find the expiation if an eternal flame goes out.
       Warden of the Eternal Flame: >-
         Answerable for one named fire and for nothing else; the watch is unbroken and the office is held until death or infirmity.
@@ -85,9 +85,9 @@ sohl: {system: {commonSkills: [kayikchalix]}}
 
 **Domain:** Fire, Transformation, Purification, Sacrifice
 
-_Not to be confused with [[affiliation-ataros|Ātáröš]], the Sacred Flame of the [[affiliation-ashanpnthn|Āsháian pantheon]]. The two gods share an epithet and a domain and are otherwise unrelated: Ātáröš is the medium through which every Āsháian prayer reaches its god, while K'ayik Ch'alix is the transformer who converts the Ki'ichek blood-offering into divine substance._
+_Not to be confused with [[affiliation-ataros|Ataros]], the Sacred Flame of the [[affiliation-ashanpnthn|Ashaian pantheon]]. The two gods share an epithet and a domain and are otherwise unrelated: Ataros is the medium through which every Ashaian prayer reaches its god, while K'ayik Ch'alish is the transformer who converts the Ki'ichek blood-offering into divine substance._
 
-K'ayik Ch'alix is the god of transformation through burning and the sacred conduit through which mortal sacrifice reaches the celestial realm. Without his willing acceptance of the blood-offering, the entire theological structure of Ki'ichek civilization collapses, for he alone can transform the mortal into the divine. The earliest myths describe K'ayik Ch'alix as the fire-keeper of creation—the god who tended the cosmic hearth from which the world was shaped. When the first humans were created from maize dough, it was K'ayik Ch'alix who brought the sacred fire to complete the mixture, transforming raw materials into conscious being. Fire is never merely destructive; it is purification through transformation. The ash that remains is the most sacred substance of all—concentrated spiritual residue rubbed on the foreheads of the sick and mixed into healing paints.
+K'ayik Ch'alish is the god of transformation through burning and the sacred conduit through which mortal sacrifice reaches the celestial realm. Without his willing acceptance of the blood-offering, the entire theological structure of Ki'ichek civilization collapses, for he alone can transform the mortal into the divine. The earliest myths describe K'ayik Ch'alish as the fire-keeper of creation—the god who tended the cosmic hearth from which the world was shaped. When the first humans were created from maize dough, it was K'ayik Ch'alish who brought the sacred fire to complete the mixture, transforming raw materials into conscious being. Fire is never merely destructive; it is purification through transformation. The ash that remains is the most sacred substance of all—concentrated spiritual residue rubbed on the foreheads of the sick and mixed into healing paints.
 
 ## Worship
 
@@ -95,28 +95,28 @@ The most fundamental act of worship is the maintenance of the eternal flames tha
 
 Every rite performed by every other branch passes through this one at some point, since an offering that is not burned has not been delivered. The blood of the solar sacrifices, the jade and maize of the serpent-binding, the first ear of the harvest and the shavings of a dedicated building all come to a flame in the end, and the fire-keepers receive them with a formula that is the same for a king's heart and a farmer's kernel. The theology is uncompromising on this point: the god transforms substance, and takes no interest in its provenance.
 
-Domestic worship mirrors the temple's. A household hearth is kindled from the temple flame at the new year and is not permitted to go out during the five liminal days at the year's end, when the boundary between worlds grows thin; a family whose fire dies in that period is held to have opened a door, and a fire-priest must be fetched to close it. Ash from the year's hearth is kept, and a pinch of it is worked into the plaster when a house is repaired.
+Domestic worship mirrors the temple's. A household hearth is kindled from the temple flame at the new year and is not permitted to gho out during the five liminal days at the year's end, when the boundary between worlds grows thin; a family whose fire dies in that period is held to have opened a door, and a fire-priest must be fetched to close it. Ash from the year's hearth is kept, and a pinch of it is worked into the plaster when a house is repaired.
 
-Every fifty-two years, when the Tz'en Cycle and the Tq'an Cycle realign, the branch performs the act on which the whole tradition's nerve depends. Every fire in the city is extinguished and the temples go dark; for a day and a night the city keeps silence; then the **Master of the Living Flame** ascends with the highest hierarch and works the obsidian mirrors against the rising sun until the tinder catches. The **Kindlers** run the new flame to every quarter, and every hearth in the city is lit from one spark.
+Every fifty-two years, when the Ts'en Cycle and the Tq'an Cycle realign, the branch performs the act on which the whole tradition's nerve depends. Every fire in the city is extinguished and the temples gho dark; for a day and a night the city keeps silence; then the **Master of the Living Flame** ascends with the highest hierarch and works the obsidian mirrors against the rising sun until the tinder catches. The **Kindlers** run the new flame to every quarter, and every hearth in the city is lit from one spark.
 
 ## Organization
 
 The ch'ayik tq'an (fire-keepers) live within temple complexes, their labor theological work—the arrangement of kindling, the timing of feeding, the choice of woods are all prayer conducted through material action. The branch is the most rigidly routinized in the priesthood and the least concerned with doctrine; a fire-keeper's competence is measured entirely by whether his flame has ever faltered, and the record is kept for the life of the fire, not the life of the priest.
 
-A **Warden of the Eternal Flame** holds one named fire and no other duty. The watch is divided into four and never left, the relief is formal and witnessed, and the office is held until death or infirmity. Wardens do not travel, do not sit on the temple's councils and are not moved between cities. In compensation, a Warden's word on any matter touching his fire overrides even the Ch'alix Ch'ayik's, and the branch has more than once resisted a hierarch's instruction on that ground.
+A **Warden of the Eternal Flame** holds one named fire and no other duty. The watch is divided into four and never left, the relief is formal and witnessed, and the office is held until death or infirmity. Wardens do not travel, do not sit on the temple's councils and are not moved between cities. In compensation, a Warden's word on any matter touching his fire overrides even the Ch'alish Ch'ayik's, and the branch has more than once resisted a hierarch's instruction on that ground.
 
 Some initiates undergo ritual burning, deliberately scarring their forearms as demonstration of willingness to suffer in the god's service. The **Master of the Scars** conducts it and refuses candidates he judges to be seeking the mark rather than the service—a distinction he is not obliged to justify. The scars are not a rank and confer nothing; they are simply legible, and a scarred forearm in a crowd is understood.
 
-The **Keeper of the Ash** handles the branch's one exportable commodity. Graded ash goes to the water-priestesses of [[affiliation-xaqikhanal|Xaq'ik Ha'nal]] for healing paints, to the scribes for pigment, and to households for the sick, and the fees it earns fund a branch that owns no land and grows nothing.
+The **Keeper of the Ash** handles the branch's one exportable commodity. Graded ash goes to the water-priestesses of [[affiliation-xaqikhanal|Shaq'ik Ha'nal]] for healing paints, to the scribes for pigment, and to households for the sick, and the fees it earns fund a branch that owns no land and grows nothing.
 
 The fire-priests work in intimate coordination with the solar priests, for the sun and fire are understood as aspects of the same cosmic principle—the sun is the fire at the world's edge, the great celestial flame that never extinguishes.
 
 ## Relations
 
-With [[affiliation-tzenultqan|Tz'en'ul Tq'an]] the branch shares a premise, a set of flames and a precedence granted to no one else: at the **K'ayik Kul'al** ("the Living Flame") the highest fire-priests ascend the pyramid beside the Presiding Ch'alix Tq'an rather than behind him. In practice the solar branch supplies the sanction and the calendar, the fire branch supplies the mechanism, and the two are so closely wound together that in the smaller city-states they are staffed from the same families.
+With [[affiliation-tzenultqan|Ts'en'ul Tq'an]] the branch shares a premise, a set of flames and a precedence granted to no one else: at the **K'ayik Kul'al** ("the Living Flame") the highest fire-priests ascend the pyramid beside the Presiding Ch'alish Tq'an rather than behind him. In practice the solar branch supplies the sanction and the calendar, the fire branch supplies the mechanism, and the two are so closely wound together that in the smaller city-states they are staffed from the same families.
 
-Toward [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]] the relationship is one of divided territory. Fire transforms and the earth dissolves, and the two branches have long since agreed that a body is the death-walkers' and an offering is the fire-keepers', with cremation practiced only where the Ix'bal'ob concede it. The Pik'ob's sky burials, which give a body to neither fire nor water, are the exception the fire-priests find hardest to accept.
+Toward [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]] the relationship is one of divided territory. Fire transforms and the earth dissolves, and the two branches have long since agreed that a body is the death-walkers' and an offering is the fire-keepers', with cremation practiced only where the Ish'bal'ob concede it. The Pik'ob's sky burials, which give a body to neither fire nor water, are the exception the fire-priests find hardest to accept.
 
-The branch depends on [[affiliation-kanixhakan|K'anix Ha'kan]] and on the road priests of [[affiliation-xilanixlan|Xilan Ix'lan]] for its fuel: copal resin, ceiba and mahogany are traded the length of the continent, and a war that cuts a causeway is felt in the temple as a shortage of the correct wood. Substitution is permitted only by the Master of the Woods and is recorded, since a flame fed on the wrong timber is held to have carried its smoke badly.
+The branch depends on [[affiliation-kanixhakan|K'anish Ha'kan]] and on the road priests of [[affiliation-xilanixlan|Shilan Ish'lan]] for its fuel: copal resin, ceiba and mahogany are traded the length of the continent, and a war that cuts a causeway is felt in the temple as a shortage of the correct wood. Substitution is permitted only by the Master of the Woods and is recorded, since a flame fed on the wrong timber is held to have carried its smoke badly.
 
 With [[affiliation-piqalkulqat|P'iqal Kul'qat]] there is a standing and good-humored argument about which god completed the making of humankind—the builder who shaped the dough or the fire-keeper who finished it. Both branches tell the story with themselves at the center, and at the dedication of a new temple both formulas are spoken, in an order fixed by whichever branch paid for the building.

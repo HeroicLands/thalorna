@@ -1,6 +1,6 @@
 ---
 shortcode: ahurdaen
-name: {full: "Ritual: Āhúrdáén", aliases: [The Keeper of Harmony, Ahura Mazda]}
+name: {full: "Ritual: Ahurdaen", aliases: [The Keeper of Harmony, Ahura Mazda]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-ahurdaen|Faith of Āhúrdáén]]
+See [[affiliation-ahurdaen|Faith of Ahurdaen]]

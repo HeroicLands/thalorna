@@ -1,9 +1,9 @@
 ---
 shortcode: garzinelrelu
-name: {full: Gar-Zin'el'Rêlu, aliases: [The House of Zin'el'Rêlu]}
+name: {full: Gar-Zin'el'Relu, aliases: [The House of Zin'el'Relu]}
 type: affiliation
 subType: lineage
-description: A dynasty whose last Gar-Aû was struck from every wall for blasphemy and a hidden famine, and was himself sealed living into his tomb
+description: A dynasty whose last Gar-Au was struck from every wall for blasphemy and a hidden famine, and was himself sealed living into his tomb
 tags: [generated, draft]
 data:
   culture: khelathiclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A dynasty of the throne, standing barely a century, whose last Gar-Aû was thrown down and whose name and house were struck from every wall.
+      A dynasty of the throne, standing barely a century, whose last Gar-Au was thrown down and whose name and house were struck from every wall.
     ranks:
       - level: 0
         title: Name Struck
@@ -25,7 +25,7 @@ data:
         description: >-
           Belonged to the fallen house, its name struck from every wall with its last sovereign's.
     offices:
-      Gar-Aû: >-
+      Gar-Au: >-
         The throne, held by the house's head while the dynasty stood.
   seat: null
   population: 0
@@ -38,17 +38,17 @@ data:
 
 ## Overview
 
-**Gar-Zin'el'Rêlu** stood barely a century, from 171 to 268 AF, and no wall in [[place-aukhelathrgq|Aû'Khelâthu]] carries its name. Its last [[lore-garauu|Gar-Aû]] was struck from every wall in the empire for blasphemy and a hidden famine ([[lore-failfloods|the Failing Floods]]) and sealed living into his tomb ([[lore-judgfalseuq|the Judgment of the False Uqa'â]]); the official records name him only [[being-falseuqaa|the False Uqa'â]], erasing the name he reigned under along with his image, though the oldest servants of the necropolis still whisper what he was called. A historian working from the public record alone cannot reconstruct the dynasty's end and has to look among the people the erasure never reached.
+**Gar-Zin'el'Relu** stood barely a century, from 171 to 268 AF, and no wall in [[place-aukhelathrgq|Au'Khelathu]] carries its name. Its last [[lore-garauu|Gar-Au]] was struck from every wall in the empire for blasphemy and a hidden famine ([[lore-failfloods|the Failing Floods]]) and sealed living into his tomb ([[lore-judgfalseuq|the Judgment of the False Uqa'a]]); the official records name him only [[being-falseuqaa|the False Uqa'a]], erasing the name he reigned under along with his image, though the oldest servants of the necropolis still whisper what he was called. A historian working from the public record alone cannot reconstruct the dynasty's end and has to look among the people the erasure never reached.
 
 ## Character
 
-A watch-priest of the necropolis, asked about the last dynasty of the throne, speaks quietly and gives the answer the records give: nothing. The **Zin'el'Rêlu** stood barely a century, and the last Gar-Aû was thrown down for blasphemy and a hidden famine, and sealed living into his tomb. Then the dynasty was struck out, name, image and house, from every wall in the empire.
+A watch-priest of the necropolis, asked about the last dynasty of the throne, speaks quietly and gives the answer the records give: nothing. The **Zin'el'Relu** stood barely a century, and the last Gar-Au was thrown down for blasphemy and a hidden famine, and sealed living into his tomb. Then the dynasty was struck out, name, image and house, from every wall in the empire.
 
-The [[lore-khelathiclt|Khelâthi]] count the striking of a name from the records among the heaviest punishments they know, and a whole dynasty received it. The silence is the sentence at work.
+The [[lore-khelathiclt|Khelathi]] count the striking of a name from the records among the heaviest punishments they know, and a whole dynasty received it. The silence is the sentence at work.
 
 ## Relations
 
-The last sovereign of the house appears in the official records only as [[being-falseuqaa|the False Uqa'â]], with the name he reigned under erased along with his image. The oldest servants of the necropolis remember that name and do not say it aloud to strangers. A scholar who wants it must find the people the erasure never reached, and approach them with patience, because they know exactly what the knowledge cost.
+The last sovereign of the house appears in the official records only as [[being-falseuqaa|the False Uqa'a]], with the name he reigned under erased along with his image. The oldest servants of the necropolis remember that name and do not say it aloud to strangers. A scholar who wants it must find the people the erasure never reached, and approach them with patience, because they know exactly what the knowledge cost.
 
 ## What Remains
 
@@ -58,6 +58,6 @@ A treasure-seeker who wants to follow the dynasty's trail should know what the a
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
-- [[being-falseuqaa|False Uqa'â]]—The last sovereign of the house
-- [[lore-garauu|Gar-Aûu]]—The line of sovereigns it belonged to
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+- [[being-falseuqaa|False Uqa'a]]—The last sovereign of the house
+- [[lore-garauu|Gar-Auu]]—The line of sovereigns it belonged to

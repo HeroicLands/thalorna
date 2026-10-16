@@ -1,9 +1,9 @@
 ---
 shortcode: deyenashamay
-name: {full: Deyênâ Shâmâyân, aliases: [Captain Deyênâ Shâmâyân, Captain Deyênâ]}
+name: {full: Deyena Shamayan, aliases: [Captain Deyena Shamayan, Captain Deyena]}
 type: being
 subType: npc
-description: Commander of the Kingdom's cavalry forces, who contracts with Rudâvah Farrud.
+description: Commander of the Kingdom's cavalry forces, who contracts with Rudavah Farrud.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Deyênâ Shâmâyân is a 44-year-old woman who stands 5'7" tall with a medium build. She has brown skin, weathered complexion, dark brown hair, and brown eyes.
+Deyena Shamayan is a 44-year-old woman who stands 5'7" tall with a medium build. She has brown skin, weathered complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Deyênâ Shâmâyân, styled Captain, is the commander of the Kingdom's cavalry forces and of its Royal Cavalry. She contracts with [[being-rudavahfrd|Rudâvah Farrud]] for the care and training of elite cavalry mounts; their relationship is complicated, since Deyênâ demands results but respects Rudâvah's insistence on treating animals well.
+Deyena Shamayan, styled Captain, is the commander of the Kingdom's cavalry forces and of its Royal Cavalry. She contracts with [[being-rudavahfrd|Rudavah Farrud]] for the care and training of elite cavalry mounts; their relationship is complicated, since Deyena demands results but respects Rudavah's insistence on treating animals well.

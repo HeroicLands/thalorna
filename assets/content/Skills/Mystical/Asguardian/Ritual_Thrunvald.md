@@ -1,6 +1,6 @@
 ---
 shortcode: thrunvald
-name: {full: "Ritual: Thrúnvald", aliases: [The Stormborn Path]}
+name: {full: "Ritual: Thrunvald", aliases: [The Stormborn Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-thrunvald|Faith of Thrúnvald]]
+See [[affiliation-thrunvald|Faith of Thrunvald]]

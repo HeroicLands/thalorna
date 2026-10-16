@@ -3,7 +3,7 @@ shortcode: grukarapp
 name: {full: The Appearing of the Grukar, aliases: [The Appearing]}
 type: lore
 subType: history
-description: "The Grukar are first recorded around 3000 BF in the Khazári archive at Khazártúrn—nothing written there in twenty-one centuries mentions them, and within a generation a great deal does."
+description: "The Grukar are first recorded around 3000 BF in the Khazari archive at Khazartúrn—nothing written there in twenty-one centuries mentions them, and within a generation a great deal does."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [lore-grukarfolk, lore-khazarturn]
       summary: >-
-        The Grukar are first recorded in the Khazári archive at Khazártúrn. Nothing written there in its first twenty-one centuries mentions them; within a generation a great deal does. The Khazári study the new species and set down the conclusion that it is a vicious but manageable vermin of the deep country, permanently limited because Ahks do not cooperate and so can never combine into an army. Every word of the assessment is correct.
+        The Grukar are first recorded in the Khazari archive at Khazartúrn. Nothing written there in its first twenty-one centuries mentions them; within a generation a great deal does. The Khazari study the new species and set down the conclusion that it is a vicious but manageable vermin of the deep country, permanently limited because Ahks do not cooperate and so can never combine into an army. Every word of the assessment is correct.
       standing: single-source
       where:
         locus: [place-worldthlrn]
@@ -42,15 +42,15 @@ data:
 
 The [[lore-grukarfolk|Grukar]] have not always been on Thalorna.
 
-They are first recorded in the Khazári archive at [[lore-khazarturn|Khazártúrn]]—the Deep Folk
+They are first recorded in the Khazari archive at [[lore-khazarturn|Khazartúrn]]—the Deep Folk
 having both the habit of writing things down and, at that date, the finest archive in the world.
 Nothing written there in its first twenty-one centuries mentions them. Then, within a generation, a
 great deal does.
 
-Where they came from is not known. The Khazári account, which is the only contemporary one, does not
+Where they came from is not known. The Khazari account, which is the only contemporary one, does not
 speculate; it describes what arrived, in the manner of a people setting down evidence, and leaves the
 question open. What is beyond dispute is the speed with which they spread.
 
-The assessment the Khazári wrote was correct in every particular, and it is still correct. It was in
+The assessment the Khazari wrote was correct in every particular, and it is still correct. It was in
 the archive, in their own hand, when the city fell—and it did not matter, which is the part they
 have never been able to put down.

@@ -3,7 +3,7 @@ shortcode: liranel
 name: {full: Liranel, aliases: []}
 type: place
 subType: settlement
-description: "A forest town of the western coast, set back from the cliffs at the edge of Sinalë country—the last place the crown's writ runs plainly, and where licenses to cut the deep wood are issued and argued over."
+description: "A forest town of the western coast, set back from the cliffs at the edge of Sinale country—the last place the crown's writ runs plainly, and where licenses to cut the deep wood are issued and argued over."
 tags: [town, woodland, coastal]
 data:
   demonym: null
@@ -14,14 +14,14 @@ data:
   government: kngdmlvndr
 ---
 
-**Liranel** stands a few miles inland of the [[place-lirve|Lírvë]] cliffs, in the belt of worked
+**Liranel** stands a few miles inland of the [[place-lirve|Lirve]] cliffs, in the belt of worked
 forest between the coast road and the deep wood. Some three thousand four hundred people live there,
 and its business is timber and everything that follows from timber.
 
 ## The Edge
 
 Liranel matters because of where it stops. East and north of the town the managed coppice and oak give
-way to the old forest, and the old forest is [[lore-flksinale|Sinalë]] country and
+way to the old forest, and the old forest is [[lore-flksinale|Sinale]] country and
 [[affiliation-alndnwrdns|Warden]]-patrolled. Liranel is where the licenses to cut are issued, recorded,
 disputed and—often enough—quietly exceeded.
 
@@ -32,7 +32,7 @@ is: hauliers, foresters, tally-clerks, and guides.
 
 ## The Guides
 
-The other trade. People come to Lírvë to see the thin places, and Liranel is where they hire someone
+The other trade. People come to Lirve to see the thin places, and Liranel is where they hire someone
 to take them. The legitimate version escorts scholars and pilgrims to the margins, which the Wardens
 tolerate. The other version does not stop at the margins, is very well paid, and accounts for a
 respectable share of the people who do not come back out of the wood.
@@ -46,4 +46,4 @@ The town's magistrates take a dim public view and a pragmatic private one.
 
 ## See Also
 
-- [[place-lirve|Lírvë]] · [[lore-flksinale|Sinalë]] · [[place-portaelion|Port Aelion]]
+- [[place-lirve|Lirve]] · [[lore-flksinale|Sinale]] · [[place-portaelion|Port Aelion]]

@@ -3,7 +3,7 @@ shortcode: balvafunad
 name: {full: The Going of the Exile, aliases: [Balvafunád]}
 type: lore
 subType: literature
-description: "The Khazári exile's lament for Gisvin of Tanvaguráz, keeper of a gate, who carried his hold's stores out to the starving tribe below it and was put out of the rock; framed by the record of his sentence and two endings the holds disagree on."
+description: "The Khazari exile's lament for Gisvin of Tanvaguráz, keeper of a gate, who carried his hold's stores out to the starving tribe below it and was put out of the rock; framed by the record of his sentence and two endings the holds disagree on."
 tags: [draft, khazari]
 data:
   packFolder: settinglore
@@ -13,9 +13,9 @@ data:
   language: khazarlng
 ---
 
-**The Going of the Exile** is the song the [[lore-khazariclt|Khazári]] keep for a man put out of the rock, and the one lament of theirs that is never sung below. It is a _kamgh_ (lament), in the broken course: a long line answered by a short one that falls away. Its subject is **Gisvin** of Tanvaguráz, keeper of the gate of **Basrakhunák**, a hold of the early centuries that no record outside the holds places, in the age when human tribes mined, herded and farmed for a hold as its subjects. In a hard winter he carried the hold's stores out through his own gate to the tribe below it, against the oath cut in the stone where he had sworn it, and the hold put him out. He does not argue the sentence. The song walks the hold from the slope beneath the gate and names what the sentence took, by count, and then names the tribe's dead, whom no Khazári record names.
+**The Going of the Exile** is the song the [[lore-khazariclt|Khazari]] keep for a man put out of the rock, and the one lament of theirs that is never sung below. It is a _kamgh_ (lament), in the broken course: a long line answered by a short one that falls away. Its subject is **Gisvin** of Tanvaguráz, keeper of the gate of **Basrakhunák**, a hold of the early centuries that no record outside the holds places, in the age when human tribes mined, herded and farmed for a hold as its subjects. In a hard winter he carried the hold's stores out through his own gate to the tribe below it, against the oath cut in the stone where he had sworn it, and the hold put him out. He does not argue the sentence. The song walks the hold from the slope beneath the gate and names what the sentence took, by count, and then names the tribe's dead, whom no Khazari record names.
 
-The holds keep it in two frames. In some a master reads the record of the sentence and then the song to workers on the night before they swear their first oath below, so that they hear what the oath costs before they cut it; in others the record alone is kept, with the song copied beneath it in the hand form, and nobody reads it aloud. The holds that read it tell where it came from: he sang it at the field wall where the hold's counters came down on the eighth day to tally the deliveries, and the counters carried it up. The tribe's dead stood in it by name, in the tribe's own tongue, and no Khazár who carried the song could say the names, so every copy keeps the count and a gap for each. The song closes with one of two entries from the record of Basrakhunák, and the holds that keep each take their own for the entry as it was cut; the question has never been put to the elders of several holds together. The [[lore-vardain|Vardain]] beneath [[place-vorgald|Vorgald]] sing a version in their own tongue at the turning of the Khazári year, in which the tribe at the gate is their own forebears and the gaps are filled with Vardain names. The song as the holds keep it was old before Vorgald was found, and no Khazár acknowledges the Vardain version.
+The holds keep it in two frames. In some a master reads the record of the sentence and then the song to workers on the night before they swear their first oath below, so that they hear what the oath costs before they cut it; in others the record alone is kept, with the song copied beneath it in the hand form, and nobody reads it aloud. The holds that read it tell where it came from: he sang it at the field wall where the hold's counters came down on the eighth day to tally the deliveries, and the counters carried it up. The tribe's dead stood in it by name, in the tribe's own tongue, and no Khazár who carried the song could say the names, so every copy keeps the count and a gap for each. The song closes with one of two entries from the record of Basrakhunák, and the holds that keep each take their own for the entry as it was cut; the question has never been put to the elders of several holds together. The [[lore-vardain|Vardain]] beneath [[place-vorgald|Vorgald]] sing a version in their own tongue at the turning of the Khazari year, in which the tribe at the gate is their own forebears and the gaps are filled with Vardain names. The song as the holds keep it was old before Vorgald was found, and no Khazár acknowledges the Vardain version.
 
 Two words of the text need glossing. The _marg_ (bone) of a name is its three consonants, which carved [[skill-drthrkscrpt|Pirzath]] cuts deep, and the binding is the vowels scored between them, which say why the name was given. The gate-row is the reduced row of Pirzath a hold taught its tribe for tally, mark, measure and oath; at Basrakhunák's gate a Khazár's name was cut on sacks and tools as its bone alone.
 
@@ -346,9 +346,9 @@ _The second._ In the third great count of the hold, Verne of Thalgahunáth, appr
 
 ## See Also
 
-- [[lore-khazariclt|Khazári]]—exile, the oath sworn below, and what the record holds against a name
+- [[lore-khazariclt|Khazari]]—exile, the oath sworn below, and what the record holds against a name
 - [[lore-flkkhazar|Khazár Folk]]—the holds, and the tribes once held in service at their gates
 - [[lore-longnhrtnc|The Long Inheritance]]—what passed from the holds to humans by watching, and the exiles who sold the rest
 - [[lore-vardain|The Vardain]]—the farmers beneath Vorgald, who keep a version of the song
-- [[skill-khazarlng|Khazári Language]]—the name frames, and the vowel that gives a name its reason
-- [[doc-khazarilex|Khazári Lexicon]]—the skeletons the song's words and names are built on
+- [[skill-khazarlng|Khazari Language]]—the name frames, and the vowel that gives a name its reason
+- [[skill-khazarlng#lexicon|Khazari Lexicon]]—the skeletons the song's words and names are built on

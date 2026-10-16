@@ -5,4 +5,4 @@ type: folder
 data: {parent: okharis, color: "#81C784"}
 ---
 
-This folder gathers the city-states of Okháris, the settlements that stand as independent cities within the polity. They include Vuthráka, Zarhánis and Kaljékor, each with its own settlement note.
+This folder gathers the city-states of Okharis, the settlements that stand as independent cities within the polity. They include Vuthraka, Zarhanis and Kaljekor, each with its own settlement note.

@@ -1,9 +1,9 @@
 ---
 shortcode: zuwu
-name: {full: Zūwū, aliases: [Blue Hall]}
+name: {full: Zuwu, aliases: [Blue Hall]}
 type: place
 subType: settlement
-description: "The castle town of House Wējai in the one sheltered bay of the typhoon coast—a whaling quay, a granary and a hall, seat of the independent lord Wējai Rōwo."
+description: "The castle town of House Wejai in the one sheltered bay of the typhoon coast—a whaling quay, a granary and a hall, seat of the independent lord Wejai Rowo."
 tags: [town, port, castle]
 data:
   demonym: null
@@ -15,9 +15,9 @@ data:
   culture: jenchaiclt
 ---
 
-**Zūwū** (Blue Hall) is the castle town and seat of Wējai Rōwo, a town of 2,200 people in the sheltered bay under Wējai. The hall is roofed in blue-glazed tile that shows from far out to sea, and the whalers steer by it. It stands on a shoulder of the mountain above the quay.
+**Zuwu** (Blue Hall) is the castle town and seat of Wejai Rowo, a town of 2,200 people in the sheltered bay under Wejai. The hall is roofed in blue-glazed tile that shows from far out to sea, and the whalers steer by it. It stands on a shoulder of the mountain above the quay.
 
-The castle holds the **granary**, where the lord's four parts in ten are delivered from the demesne at Rēwō and the rice of Hanū, and the hall. The fifteen ships of the domain lie in the bay behind a breakwater that the town rebuilds after every typhoon, and the Tsàihuo soldiers are raised from the quay streets.
+The castle holds the **granary**, where the lord's four parts in ten are delivered from the demesne at Rewo and the rice of Hanu, and the hall. The fifteen ships of the domain lie in the bay behind a breakwater that the town rebuilds after every typhoon, and the Tsaihuo soldiers are raised from the quay streets.
 
 The town lives on whale and fish. Flensers, coopers, net-makers and oil-boilers work along the quay, and Shuonong merchants ship the oil and dried fish by coaster to the other mountains.
 
@@ -25,6 +25,6 @@ The wreck-officers report to the hall after every storm, and what they bring in 
 
 ## See Also
 
-- [[affiliation-wejaidmn|Wējai Domain]]—the house and its lord
-- [[place-wejai|Wējai]]—the mountain
-- [[place-jenchairgn|Jénchài Region]]—the islands and the strait
+- [[affiliation-wejaidmn|Wejai Domain]]—the house and its lord
+- [[place-wejai|Wejai]]—the mountain
+- [[place-jenchairgn|Jenchai Region]]—the islands and the strait

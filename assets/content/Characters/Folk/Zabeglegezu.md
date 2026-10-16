@@ -1,6 +1,6 @@
 ---
 shortcode: zabeglegezu2
-name: {full: Zâbeglegezu, aliases: [Zâbê]}
+name: {full: Zabeglegezu, aliases: [Zabe]}
 type: being
 subType: npc
 description: "A lord who has employed the same household for over a decade and grants stable, respectful service in return for exacting standards"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zâbeglegezu is a 37-year-old man who stands 5'10" tall with a medium build. He has dark brown skin, dark brown hair, and dark brown eyes.
+Zabeglegezu is a 37-year-old man who stands 5'10" tall with a medium build. He has dark brown skin, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Zâbeglegezu is a lord of [[place-garanlaghet|Gar-Anlaghet]] who has kept the same household in service for over a decade. Stable, respectful service is the return he gets for exacting standards consistently applied. The household has learned exactly what those standards require, which is why it has lasted this long.
+Zabeglegezu is a lord of [[place-garanlaghet|Gar-Anlaghet]] who has kept the same household in service for over a decade. Stable, respectful service is the return he gets for exacting standards consistently applied. The household has learned exactly what those standards require, which is why it has lasted this long.

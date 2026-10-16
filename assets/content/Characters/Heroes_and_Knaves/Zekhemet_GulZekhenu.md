@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [khelzuret]
-  affiliations: {empireakhlth: {rank: 3}, thubai: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, thubai: {rank: 1}}
   gender: female
   species: humanflk
   born: 688.161
@@ -442,11 +442,11 @@ Zekhemet stands 5'9" tall with a light build. She has dark brown skin, very dark
 
 # Dossier {#dossier}
 
-Zekhemet Gul'Zekhenu was born to a family of modest merchants with shipping interests in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] delta. As the only daughter among three sons, she was initially groomed for an advantageous marriage, but her brilliant mind and natural charisma made her far more valuable as a business asset. Her father allowed her to apprentice in the family trade, an unusual but pragmatic decision that proved inspired when Zekhemet demonstrated an almost supernatural gift for managing complex shipping networks.
+Zekhemet Gul'Zekhenu was born to a family of modest merchants with shipping interests in the [[affiliation-empireakhlth|Empire of Au'Khelathu]] delta. As the only daughter among three sons, she was initially groomed for an advantageous marriage, but her brilliant mind and natural charisma made her far more valuable as a business asset. Her father allowed her to apprentice in the family trade, an unusual but pragmatic decision that proved inspired when Zekhemet demonstrated an almost supernatural gift for managing complex shipping networks.
 
 She earned her pilot's marks at an unusually young age and quickly became known for her reliability, her ability to deliver cargo intact and on schedule despite the treacherous river and coastal routes she navigated. Seven years ago, a catastrophic accident—still partly unexplained—damaged her vessel and nearly killed her, resulting in the scar that marks her body. She recovered her confidence, though not without struggle, and has since earned a reputation as one of the most dependable pilots in the entire Empire, commanding premium rates from merchants who value certainty above price.
 
-She answers to no single master, instead maintaining relationships with dozens of merchants and trading houses who know they can depend on her. This independence has become both her greatest asset and her defining characteristic. Her devotion to [[lore-thubaidty|Thubâ'i]], the god of prosperity and the igelu's abundance, reflects her philosophy: success comes from understanding flows, redirecting currents wisely, and maintaining balance in all things.
+She answers to no single master, instead maintaining relationships with dozens of merchants and trading houses who know they can depend on her. This independence has become both her greatest asset and her defining characteristic. Her devotion to [[lore-thubaidty|Thuba'i]], the god of prosperity and the igelu's abundance, reflects her philosophy: success comes from understanding flows, redirecting currents wisely, and maintaining balance in all things.
 
 ## Psyche
 
@@ -506,13 +506,13 @@ Market Pressures
 
 ### Affiliations
 
-[[affiliation-linigelkhlth|Lin'Igelu elu Aû'Khelâthu]]
+[[affiliation-linigelkhlth|Lin'Igelu elu Au'Khelathu]]
 : Full member and contributor to the guild's safety standards and traditions.
 
 [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]
 : An informal association of independent traders who meet to share information and coordinate against larger commercial entities attempting to monopolize trade routes.
 
-[[affiliation-lutthubai|The Lut-Thubâ'i]]
+[[affiliation-lutthubai|The Lut-Thuba'i]]
 : Devoted worshipper and regular contributor to the temple's charitable work supporting injured or disabled sailors.
 
 ## Plot Hooks

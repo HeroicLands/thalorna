@@ -1,6 +1,6 @@
 ---
 shortcode: zarvanya
-name: {full: "Ritual: Zárványä", aliases: [The Weaver of Visions]}
+name: {full: "Ritual: Zárvanya", aliases: [The Weaver of Visions]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-zarvanya|Faith of Zárványä]]
+See [[affiliation-zarvanya|Faith of Zárvanya]]

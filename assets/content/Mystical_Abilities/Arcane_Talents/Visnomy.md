@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Visnomy reads a person's character and history from the face and bearing. The practitioner takes the reading from the person's appearance and manner alone. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.
+Visnomy reads a person's character and history from the face and bearing. The practitioner takes the reading from the person's appearance and manner alone. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

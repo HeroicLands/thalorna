@@ -1,6 +1,6 @@
 ---
 shortcode: ghrnrrfrs
-name: {full: Ghéranira Râfîrôs, aliases: []}
+name: {full: Ghéranira Rafiros, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -395,11 +395,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Ghéranira Râfîrôs is a 33-year-old woman who stands 5'11" tall and is slender. She has a square face with defined cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her wide-set hazel eyes sit beneath prominent brows and give her an open gaze. She has a straight nose and expressive lips. She has olive skin with a ruddy complexion. Her dark brown hair is adorned with simple pins.
+Ghéranira Rafiros is a 33-year-old woman who stands 5'11" tall and is slender. She has a square face with defined cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her wide-set hazel eyes sit beneath prominent brows and give her an open gaze. She has a straight nose and expressive lips. She has olive skin with a ruddy complexion. Her dark brown hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ghéranira Râfîrôs is an embalmer.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Ghéranira Rafiros is an embalmer.
 
 Ghéranira found her calling as an embalmer after losing her brother, taking comfort in preparing his body for burial. She sees the work as a way to help families bear their loss and to see that their dead are treated with dignity. Her gentle manner suits her to the work, though it sometimes takes a toll on her. She often uses rituals and herbs that are believed to protect the spirit of the dead.
 
@@ -439,6 +439,6 @@ None, but some traditionalists frown upon her use of ritual.
 
 3. **Echoes of the Past**—Questions are raised about how Ghéranira's brother died, and she is the one who prepared his body.
 
-4. **Shifting Winds**—Political change in Heliónis threatens the guild and the customs Ghéranira's trade rests on, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Helionis threatens the guild and the customs Ghéranira's trade rests on, and she can adapt, resist, or leave.
 
 5. **The Opportunity**—A wealthy family offers Ghéranira the care of all its dead, on condition that her rituals and herbs are kept out of it.

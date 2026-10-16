@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[lore-zhimbalspr|Zhimbalu Ombing]]—zohira of the hunt, met through [[affiliation-yenorzhrng|the Yénor Zohiring]].
+See [[lore-zhimbalspr|Zhimbalu Ombing]]—zohira of the hunt, met through [[affiliation-yenorzhrng|the Yenor Zohiring]].

@@ -1,6 +1,6 @@
 ---
 shortcode: sevnmyrkls
-name: {full: Sévren Mírkelis, given: Sévren, clan: Mírkelis, aliases: []}
+name: {full: Sevren Mírkelis, given: Sevren, clan: Mírkelis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, mages]
@@ -427,9 +427,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[sevnmyrkls|Sévren Mírkelis]]{float=top-left}
+![[sevnmyrkls|Sevren Mírkelis]]{float=top-left}
 
-Sévren stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.
+Sevren stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.
 
 # Dossier {#dossier}
 
@@ -437,52 +437,52 @@ Sévren stands 5'10" tall with a light build. He has pale skin, dark hair, and b
 
 ### Early Life and Family Background
 
-Sévren Mírkelis was born into a modest but respected family of traders in a quiet district of a city known for its winding streets and unassuming shops. The **Mírkelis family** has long been involved in the procurement and trade of rare herbs, minerals, and arcane components from across [[place-nordheim|Nordheim]]. Sévren’s father, \*\*Daron Mírkelis, was a well-traveled merchant who built relationships with scholars, explorers, and traders, making the family’s shop a reliable source for alchemical supplies.
+Sevren Mírkelis was born into a modest but respected family of traders in a quiet district of a city known for its winding streets and unassuming shops. The **Mírkelis family** has long been involved in the procurement and trade of rare herbs, minerals, and arcane components from across [[place-nordheim|Nordheim]]. Sevren’s father, \*\*Daron Mírkelis, was a well-traveled merchant who built relationships with scholars, explorers, and traders, making the family’s shop a reliable source for alchemical supplies.
 
-From a young age, Sévren showed a keen interest in the curiosities that passed through his family’s shop. Rather than focusing on commerce, he was more intrigued by the possibilities of transforming raw materials into substances of power. His fascination with alchemy grew when a traveling alchemist visited their shop and demonstrated the transmutation of common minerals into reactive compounds. This moment sparked Sévren’s lifelong passion for alchemical experimentation.
+From a young age, Sevren showed a keen interest in the curiosities that passed through his family’s shop. Rather than focusing on commerce, he was more intrigued by the possibilities of transforming raw materials into substances of power. His fascination with alchemy grew when a traveling alchemist visited their shop and demonstrated the transmutation of common minerals into reactive compounds. This moment sparked Sevren’s lifelong passion for alchemical experimentation.
 
-Despite his family’s wishes for him to take over the business, Sévren pursued a different path. With his parents’ reluctant blessing, he sought an apprenticeship under Master Virel Danogir\*\*, a prominent member of the Guild of Esoteric Crafts. Under Master Virel’s tutelage, Sévren honed his skills in the delicate art of elixirs and the creation of various transmutation compounds.
+Despite his family’s wishes for him to take over the business, Sevren pursued a different path. With his parents’ reluctant blessing, he sought an apprenticeship under Master Virel Danogir\*\*, a prominent member of the Guild of Esoteric Crafts. Under Master Virel’s tutelage, Sevren honed his skills in the delicate art of elixirs and the creation of various transmutation compounds.
 
 ### Early Career and Rise within the Guild
 
-Upon completing his apprenticeship, Sévren opened a small laboratory and shop. His early work focused on simple elixirs and herbal remedies for local clients, but his ambition quickly grew. With access to his family’s connections, he began acquiring rare and exotic ingredients that allowed him to experiment with more complex elixirs.
+Upon completing his apprenticeship, Sevren opened a small laboratory and shop. His early work focused on simple elixirs and herbal remedies for local clients, but his ambition quickly grew. With access to his family’s connections, he began acquiring rare and exotic ingredients that allowed him to experiment with more complex elixirs.
 
-Sévren’s alchemical talent didn’t go unnoticed by the **Guild of Esoteric Crafts**, and within a few years, he became a recognized member. His reputation for crafting potent elixirs and transmuting rare materials began to attract a more exclusive clientele, including minor nobles and wealthy merchants seeking cures, power, or influence through arcane means. Despite his growing reputation, Sévren remained grounded, preferring to keep his practice small and his ambitions focused.
+Sevren’s alchemical talent didn’t go unnoticed by the **Guild of Esoteric Crafts**, and within a few years, he became a recognized member. His reputation for crafting potent elixirs and transmuting rare materials began to attract a more exclusive clientele, including minor nobles and wealthy merchants seeking cures, power, or influence through arcane means. Despite his growing reputation, Sevren remained grounded, preferring to keep his practice small and his ambitions focused.
 
 ### Current Goals
 
-Sévren’s current obsession is with an ancient Pelwar alchemical recipe, the **Visionary Elixir**, said to grant visions of the future. According to legend, this elixir was used by the ancient seers of the **Lost Pelwar Empire** to guide their people through troubled times. Sévren’s pursuit of this elusive formula has led him to scavenge old texts, correspond with distant scholars, and venture into dangerous territories to obtain rare ingredients. While he has made progress, the formula remains incomplete, and the final piece of the puzzle continues to elude him.
+Sevren’s current obsession is with an ancient Pelwar alchemical recipe, the **Visionary Elixir**, said to grant visions of the future. According to legend, this elixir was used by the ancient seers of the **Lost Pelwar Empire** to guide their people through troubled times. Sevren’s pursuit of this elusive formula has led him to scavenge old texts, correspond with distant scholars, and venture into dangerous territories to obtain rare ingredients. While he has made progress, the formula remains incomplete, and the final piece of the puzzle continues to elude him.
 
-Aside from his personal pursuit of the Visionary Elixir, Sévren’s more immediate goal is to expand his reputation within the Guild of Esoteric Crafts. He seeks to secure his place among the more senior members by contributing to the guild’s body of knowledge, possibly by perfecting a new type of transmutation. However, he is careful not to overstep his bounds, as the guild is filled with powerful figures who guard their secrets jealously.
+Aside from his personal pursuit of the Visionary Elixir, Sevren’s more immediate goal is to expand his reputation within the Guild of Esoteric Crafts. He seeks to secure his place among the more senior members by contributing to the guild’s body of knowledge, possibly by perfecting a new type of transmutation. However, he is careful not to overstep his bounds, as the guild is filled with powerful figures who guard their secrets jealously.
 
 ### End Goal
 
-Sévren’s ultimate goal is to unlock the secrets of the **Visionary Elixir**, believing that its power could lead to incredible breakthroughs in alchemical science. He imagines the elixir could guide individuals through their personal struggles by granting them foresight, offering them a glimpse of their potential futures. However, his fascination with the elixir is tempered by a lingering doubt—will the visions it provides truly benefit the individual, or will they become a curse that haunts those who seek to know too much?
+Sevren’s ultimate goal is to unlock the secrets of the **Visionary Elixir**, believing that its power could lead to incredible breakthroughs in alchemical science. He imagines the elixir could guide individuals through their personal struggles by granting them foresight, offering them a glimpse of their potential futures. However, his fascination with the elixir is tempered by a lingering doubt—will the visions it provides truly benefit the individual, or will they become a curse that haunts those who seek to know too much?
 
-Sévren must navigate the perils of discovery, rivalry, and personal ambition while maintaining his relatively humble place in the world of [[place-calypsacity|Calypsa]]’s arcane and political circles.
+Sevren must navigate the perils of discovery, rivalry, and personal ambition while maintaining his relatively humble place in the world of [[place-calypsacity|Kalipsa]]’s arcane and political circles.
 
 ### Skills and Abilities
 
-- **Strength**: Sévren is not physically imposing, but he maintains a level of fitness typical for an alchemist handling heavy materials.
-- **Endurance**: While not frail, Sévren's stamina reflects the nature of his focused, laboratory-bound lifestyle.
+- **Strength**: Sevren is not physically imposing, but he maintains a level of fitness typical for an alchemist handling heavy materials.
+- **Endurance**: While not frail, Sevren's stamina reflects the nature of his focused, laboratory-bound lifestyle.
 - **Dexterity**: His work with delicate alchemical compounds requires precision and a steady hand.
-- **Agility**: Sévren moves with moderate agility, typical of someone who must frequently adjust to the shifting dynamics of his craft.
+- **Agility**: Sevren moves with moderate agility, typical of someone who must frequently adjust to the shifting dynamics of his craft.
 - **Perception**: His constant search for subtle details in his experiments has honed his perception to an acute level.
 - **Comeliness**: His appearance, while not unattractive, is unremarkable.
-- **Aura**: Sévren’s connection to the metaphysical manifests in his ability in arcane lore and grants him a subtle, compelling presence.
+- **Aura**: Sevren’s connection to the metaphysical manifests in his ability in arcane lore and grants him a subtle, compelling presence.
 - **Will**: His single-minded pursuit of alchemical mastery has made him determined and resolute in his goals.
-- **Reasoning**: Sévren possesses a keen, analytical mind capable of solving complex problems.
+- **Reasoning**: Sevren possesses a keen, analytical mind capable of solving complex problems.
 - **Creativity**: His work requires ingenuity, and he frequently develops new approaches to old alchemical problems.
-- **Empathy**: While Sévren understands emotions intellectually, he often struggles to connect deeply with others on a personal level.
-- **Eloquence**: Sévren communicates effectively but without great flair or charm.
-- **Morality**: Sévren respects the values and mores of his society, but is pragmatic and willing to bend them when necessary.
+- **Empathy**: While Sevren understands emotions intellectually, he often struggles to connect deeply with others on a personal level.
+- **Eloquence**: Sevren communicates effectively but without great flair or charm.
+- **Morality**: Sevren respects the values and mores of his society, but is pragmatic and willing to bend them when necessary.
 - **Voice**: Although his voice is not unpleasant, it is unremarkable.
 
 ## Psyche
 
 ## Personality and Traits
 
-Sévren is careful, analytical, and deeply passionate about alchemy, but he remains humble in his ambitions. Unlike some of his colleagues, he does not seek power or influence beyond what is necessary to support his work. His curiosity often leads him into dangerous situations, though he is careful not to become entangled in the city’s more dangerous political games. While generally amiable, Sévren can be intensely focused, sometimes to the point of isolation, when pursuing a particularly difficult formula.
+Sevren is careful, analytical, and deeply passionate about alchemy, but he remains humble in his ambitions. Unlike some of his colleagues, he does not seek power or influence beyond what is necessary to support his work. His curiosity often leads him into dangerous situations, though he is careful not to become entangled in the city’s more dangerous political games. While generally amiable, Sevren can be intensely focused, sometimes to the point of isolation, when pursuing a particularly difficult formula.
 
 He avoids making enemies within the guild but is aware of the dangerous politics that often swirl around its members. His cautious approach allows him to navigate these complexities while quietly advancing his goals.
 
@@ -495,32 +495,32 @@ He avoids making enemies within the guild but is aware of the dangerous politics
 
 ### Patrons
 
-Lady Áimelinë Úlmerndë
-: A minor noblewoman with a keen interest in alchemical remedies. Lady Áimelinë suffers from a rare blood disorder and frequently commissions Sévren to create tonics and elixirs to alleviate her condition. In return, she provides him with funding and access to noble circles, where his reputation has begun to grow.
+Lady Áimeline Úlmernde
+: A minor noblewoman with a keen interest in alchemical remedies. Lady Áimeline suffers from a rare blood disorder and frequently commissions Sevren to create tonics and elixirs to alleviate her condition. In return, she provides him with funding and access to noble circles, where his reputation has begun to grow.
 
 The Merchant’s Guild
-: Sévren has developed a lucrative relationship with several merchants who commission him to craft elixirs that enhance strength, stamina, and charisma—often for use in negotiations or physical contests. The **Merchant’s Guild** values his work and provides him with some of the rarest ingredients that come through the ports of Calypsa.
+: Sevren has developed a lucrative relationship with several merchants who commission him to craft elixirs that enhance strength, stamina, and charisma—often for use in negotiations or physical contests. The **Merchant’s Guild** values his work and provides him with some of the rarest ingredients that come through the ports of Kalipsa.
 
 Master Virel Danogir
-: Although he is no longer Sévren’s mentor, Master Virel remains an important figure in his life. The two maintain a mutually beneficial relationship, exchanging information and occasionally collaborating on projects. Master Virel provides Sévren with insights from the inner workings of the Guild of Esoteric Crafts, though his support comes at a price—Sévren often feels indebted to his old mentor.
+: Although he is no longer Sevren’s mentor, Master Virel remains an important figure in his life. The two maintain a mutually beneficial relationship, exchanging information and occasionally collaborating on projects. Master Virel provides Sevren with insights from the inner workings of the Guild of Esoteric Crafts, though his support comes at a price—Sevren often feels indebted to his old mentor.
 
 ### Enemies
 
 Arlis Ruthorn
-: A fellow member of the Guild of Esoteric Crafts and a long-standing rival, Arlis has always been envious of Sévren’s talent and his access to rare materials. While Arlis excels in creating alchemical weapons and volatile compounds, his aggressive ambition and desire for recognition have made him reckless. He frequently tries to undermine Sévren’s work, spreading rumors about his experiments and attempting to poach clients. Arlis also has his own designs on the **Visionary Elixir**, having learned of Sévren’s pursuit through guild gossip.
+: A fellow member of the Guild of Esoteric Crafts and a long-standing rival, Arlis has always been envious of Sevren’s talent and his access to rare materials. While Arlis excels in creating alchemical weapons and volatile compounds, his aggressive ambition and desire for recognition have made him reckless. He frequently tries to undermine Sevren’s work, spreading rumors about his experiments and attempting to poach clients. Arlis also has his own designs on the **Visionary Elixir**, having learned of Sevren’s pursuit through guild gossip.
 
 Jarl Kervan Redblade
-: Sévren once refused to sell a dangerous combat-enhancing elixir to Kervan, a notorious warlord and privateer who sought to use it to gain an edge in a bloody power struggle. This refusal has made Kervan a dangerous enemy. Though Sévren tries to avoid any direct confrontation, Kervan’s men have been seen lurking around [[place-heligstrom|Hélithron]], leading Sévren to believe that retaliation may be imminent.
+: Sevren once refused to sell a dangerous combat-enhancing elixir to Kervan, a notorious warlord and privateer who sought to use it to gain an edge in a bloody power struggle. This refusal has made Kervan a dangerous enemy. Though Sevren tries to avoid any direct confrontation, Kervan’s men have been seen lurking around [[place-heligstrom|Hélithron]], leading Sevren to believe that retaliation may be imminent.
 
 Guild of Apothecaries
-: While Sévren is associated with the Guild of Esoteric Crafts, his success in crafting both potions and remedies has drawn the ire of the **Guild of Apothecaries**, whose members believe that he is encroaching on their territory. This tension has led to strained relations between the two guilds, and Sévren has faced increased scrutiny and resistance when trying to acquire certain permits or licenses for rare ingredients.
+: While Sevren is associated with the Guild of Esoteric Crafts, his success in crafting both potions and remedies has drawn the ire of the **Guild of Apothecaries**, whose members believe that he is encroaching on their territory. This tension has led to strained relations between the two guilds, and Sevren has faced increased scrutiny and resistance when trying to acquire certain permits or licenses for rare ingredients.
 
 ## Plot Hooks
 
-1. **The Recipe of Ruin**: Sévren receives an anonymous letter claiming to have the missing key to the **Visionary Elixir**, a formula he has been obsessively pursuing. The catch? The ingredients require him to retrieve volatile substances from the ruins of a long-abandoned alchemical fortress. As Sévren ventures into the fortress, he finds evidence that his mentor, Master Virel, may have intentionally withheld critical knowledge about the elixir. His quest for completion becomes a confrontation with betrayal and the ethical questions surrounding the power of foresight.
+1. **The Recipe of Ruin**: Sevren receives an anonymous letter claiming to have the missing key to the **Visionary Elixir**, a formula he has been obsessively pursuing. The catch? The ingredients require him to retrieve volatile substances from the ruins of a long-abandoned alchemical fortress. As Sevren ventures into the fortress, he finds evidence that his mentor, Master Virel, may have intentionally withheld critical knowledge about the elixir. His quest for completion becomes a confrontation with betrayal and the ethical questions surrounding the power of foresight.
 
-2. **A Merchant’s Deceit**: One of Sévren’s patrons, Lady Áimelinë Úlmerndë, hires him to create a life-preserving elixir for her rare blood disorder. As Sévren works on the formula, he uncovers evidence that the noblewoman has been using his tonics not for healing but to extend her influence over rival nobles. Torn between his loyalty to his client and the ethical implications of her schemes, Sévren must decide whether to confront her or continue his work under new terms.
+2. **A Merchant’s Deceit**: One of Sevren’s patrons, Lady Áimeline Úlmernde, hires him to create a life-preserving elixir for her rare blood disorder. As Sevren works on the formula, he uncovers evidence that the noblewoman has been using his tonics not for healing but to extend her influence over rival nobles. Torn between his loyalty to his client and the ethical implications of her schemes, Sevren must decide whether to confront her or continue his work under new terms.
 
-3. **The Alchemical Black Market**: A powerful alchemical guild rival, Arlis Ruthorn, sabotages one of Sévren’s shipments, accusing him of illegal practices to discredit his reputation. The situation escalates when the missing shipment is found in the possession of a black-market dealer in Calypsa. Investigating the truth places Sévren in the crosshairs of both the Guild of Esoteric Crafts and the Guild of Apothecaries, forcing him to handle a dangerous web of alliances and betrayals.
+3. **The Alchemical Black Market**: A powerful alchemical guild rival, Arlis Ruthorn, sabotages one of Sevren’s shipments, accusing him of illegal practices to discredit his reputation. The situation escalates when the missing shipment is found in the possession of a black-market dealer in Kalipsa. Investigating the truth places Sevren in the crosshairs of both the Guild of Esoteric Crafts and the Guild of Apothecaries, forcing him to handle a dangerous web of alliances and betrayals.
 
-4. **The Elixir’s Curse**: After finally synthesizing a prototype of the **Visionary Elixir**, Sévren tests it on himself, only to experience unsettling visions of destruction that appear to involve his close allies and the guild. The visions drive him to seek guidance from an ancient alchemical order, but their cryptic warnings suggest that the elixir’s power may carry a curse. The quest to understand the elixir’s true nature leads him into dangerous territory where failure could cost him his mind.
+4. **The Elixir’s Curse**: After finally synthesizing a prototype of the **Visionary Elixir**, Sevren tests it on himself, only to experience unsettling visions of destruction that appear to involve his close allies and the guild. The visions drive him to seek guidance from an ancient alchemical order, but their cryptic warnings suggest that the elixir’s power may carry a curse. The quest to understand the elixir’s true nature leads him into dangerous territory where failure could cost him his mind.

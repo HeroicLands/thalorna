@@ -5,4 +5,4 @@ type: folder
 data: {parent: ankarisaureldia, color: "#20B2AA"}
 ---
 
-This folder gathers the Heroes and Knaves characters of Élavendre, the Aurèldía polity of Ankaris. Its members include Tárella Pélthal, Párthun Pélthal, Véldor Pélthal, Álira Kálmereth, Élithë Sárneth and Árevin Lídren. It sits within the Aurèldía folder of the Ankaris characters.
+This folder gathers the Heroes and Knaves characters of Élavendre, the Aureldia polity of Ankaris. Its members include Tárella Pelthal, Parthun Pelthal, Veldor Pelthal, Álira Kálmereth, Élithe Sarneth and Árevin Lidren. It sits within the Aureldia folder of the Ankaris characters.

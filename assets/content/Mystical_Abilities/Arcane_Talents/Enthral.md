@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Enthral holds a person's attention and compliance for as long as the talent is sustained. The hold lasts only as long as the practitioner keeps it up. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.
+Enthral holds a person's attention and compliance for as long as the talent is sustained. The hold lasts only as long as the practitioner keeps it up. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

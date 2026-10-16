@@ -1,6 +1,6 @@
 ---
 shortcode: zurmelosorth
-name: {full: Zûrmelôs Ôrthêmândis, aliases: [Captain Zûrmelôs]}
+name: {full: Zurmelos Orthemandis, aliases: [Captain Zurmelos]}
 type: being
 subType: npc
 description: The new senior officer of the capital district guard station, politically ambitious and set on more aggressive enforcement.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zûrmelôs Ôrthêmândis is a 39-year-old man who stands 5'11" tall with a heavy build. He has light skin, smooth complexion, auburn hair, and green eyes.
+Zurmelos Orthemandis is a 39-year-old man who stands 5'11" tall with a heavy build. He has light skin, smooth complexion, auburn hair, and green eyes.
 
 # Dossier {#dossier}
 
-Zûrmelôs Ôrthêmândis is a captain and the new senior officer of the capital district guard station. He is politically ambitious and wants to reduce the district's reported crimes through more aggressive enforcement. [[being-xenoksbrds|Xénokôs Bárdâs]] is supposed to support him, though his heavy-handed methods contradict the mentoring [[being-xenoksbrds|Xénokôs Bárdâs]] respects.
+Zurmelos Orthemandis is a captain and the new senior officer of the capital district guard station. He is politically ambitious and wants to reduce the district's reported crimes through more aggressive enforcement. [[being-xenoksbrds|Zénokos Bardas]] is supposed to support him, though his heavy-handed methods contradict the mentoring [[being-xenoksbrds|Zénokos Bardas]] respects.

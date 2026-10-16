@@ -1,6 +1,6 @@
 ---
 shortcode: torvshmznd
-name: {full: Torvâsh Mazânid, given: Torvâsh, clan: Mazânid, aliases: []}
+name: {full: Torvash Mazanid, given: Torvash, clan: Mazanid, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -412,37 +412,37 @@ sohl:
 
 # Appearance {#appearance}
 
-![[torvshmznd|Torvâsh Mazânid]]{float=top-left}
+![[torvshmznd|Torvash Mazanid]]{float=top-left}
 
-Torvâsh stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a narrow face, a hawkish nose, a sharp jawline, dark brows, a small scar on one cheeks.
+Torvash stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a narrow face, a hawkish nose, a sharp jawline, dark brows, a small scar on one cheeks.
 
 # Dossier {#dossier}
 
-Torvâsh was born into the Mazânid clan, a family of herders whose flocks have grazed the steppes of [[affiliation-kngdmmrdd|Amradad]] for generations beyond counting. His childhood was spent in the company of sheep and goats, learning the language of animals before he fully mastered human speech. His father, a herder of some reputation, recognized early that Torvâsh possessed an unusual gift—an almost preternatural understanding of animal nature and the ability to manage large flocks with minimal violence or coercion.
+Torvash was born into the Mazanid clan, a family of herders whose flocks have grazed the steppes of [[affiliation-kngdmmrdd|Amradad]] for generations beyond counting. His childhood was spent in the company of sheep and goats, learning the language of animals before he fully mastered human speech. His father, a herder of some reputation, recognized early that Torvash possessed an unusual gift—an almost preternatural understanding of animal nature and the ability to manage large flocks with minimal violence or coercion.
 
-At sixteen, Torvâsh began managing his own flock, gradually expanding it through careful breeding and wise grazing management. Over twenty years, he has built one of the largest independent herds in the region, producing wool of quality and cheese known for its subtle complexity. He has never married, though several families have offered daughters, finding no one whose company he prefers to that of his animals. His relationship with the land and his flocks is his primary passion, perhaps his only passion.
+At sixteen, Torvash began managing his own flock, gradually expanding it through careful breeding and wise grazing management. Over twenty years, he has built one of the largest independent herds in the region, producing wool of quality and cheese known for its subtle complexity. He has never married, though several families have offered daughters, finding no one whose company he prefers to that of his animals. His relationship with the land and his flocks is his primary passion, perhaps his only passion.
 
-Torvâsh works independently, beholden to no merchant syndicate or provincial governor, though he maintains cordial relationships with the farmers and larger landholders who purchase his products. He is known throughout the region as a man of his word—goods promised will be delivered exactly as specified, prices will be honored, and he will assist those in legitimate need. He is equally known as inflexible in matters of principle.
+Torvash works independently, beholden to no merchant syndicate or provincial governor, though he maintains cordial relationships with the farmers and larger landholders who purchase his products. He is known throughout the region as a man of his word—goods promised will be delivered exactly as specified, prices will be honored, and he will assist those in legitimate need. He is equally known as inflexible in matters of principle.
 
 ## Psyche
 
 ### Personality
 
-Torvâsh is taciturn and uncomfortable in human company, speaking in short, direct phrases and avoiding unnecessary interaction. This is not shyness or social anxiety, but indifference to the concerns of other people. He finds it easier to understand the emotional states of animals than those of humans, and he moves through human society with the careful caution of someone in an unfamiliar landscape. Yet beneath his quietness runs a current of dry humor and unexpected kindness—he will assist someone in difficulty, though he will do so without sentimentality or expectation of gratitude.
+Torvash is taciturn and uncomfortable in human company, speaking in short, direct phrases and avoiding unnecessary interaction. This is not shyness or social anxiety, but indifference to the concerns of other people. He finds it easier to understand the emotional states of animals than those of humans, and he moves through human society with the careful caution of someone in an unfamiliar landscape. Yet beneath his quietness runs a current of dry humor and unexpected kindness—he will assist someone in difficulty, though he will do so without sentimentality or expectation of gratitude.
 
 He is extraordinarily stubborn, rooted in the belief that the old ways—the traditional methods of herding, breeding, and production that his family has practiced for generations—are correct precisely because they have endured. Changes in procedure agitate him and must be justified by clear, practical advantage. He views innovation with suspicion and new theories with outright disdain. This stubbornness extends to his personal life; having chosen a certain way of living, he will not deviate from it, regardless of circumstance.
 
 ### Motivation
 
-Torvâsh is motivated by a simple, desire: to steward his flocks well and to maintain the integrity of his craft across generations. He works because work is the natural expression of his being. He has no ambition to wealth beyond sufficiency, no desire for status or recognition. He is driven by a deep, almost religious conviction that the relationship between herder and herd is sacred, and that his duty is to honor that relationship perfectly. He serves Zúráthrä, god of fertility, not through grand gestures but through the daily care that keeps his animals thriving.
+Torvash is motivated by a simple, desire: to steward his flocks well and to maintain the integrity of his craft across generations. He works because work is the natural expression of his being. He has no ambition to wealth beyond sufficiency, no desire for status or recognition. He is driven by a deep, almost religious conviction that the relationship between herder and herd is sacred, and that his duty is to honor that relationship perfectly. He serves Zúrathra, god of fertility, not through grand gestures but through the daily care that keeps his animals thriving.
 
 ### Strengths
 
-- **Master of Animal Husbandry**: Torvâsh's understanding of animal behavior, health, and breeding is nearly preternatural. He can read an animal's condition at a glance and respond with precise, effective intervention.
+- **Master of Animal Husbandry**: Torvash's understanding of animal behavior, health, and breeding is nearly preternatural. He can read an animal's condition at a glance and respond with precise, effective intervention.
 - **Wilderness Navigation**: The steppes are his home. He can navigate without landmarks, predict weather changes, find water in drought, and survive in conditions that would kill ordinary people.
 - **Herd Management**: He can manage flocks of hundreds with minimal assistance, using voice commands, movement, and subtle cues that animals respond to instinctively.
 - **Perception**: His senses are attuned to subtle changes in the environment. He notices tracks, scents, and sounds that others miss entirely.
-- **Reliability**: Torvâsh's word is absolute. If he commits to something, it will be accomplished exactly as promised, regardless of difficulty.
+- **Reliability**: Torvash's word is absolute. If he commits to something, it will be accomplished exactly as promised, regardless of difficulty.
 
 ### Weaknesses
 
@@ -459,35 +459,35 @@ Torvâsh is motivated by a simple, desire: to steward his flocks well and to mai
 The Farming Communities of Amradad
 : Various farmers and landholders purchase his wool and cheese regularly and value his reliability and quality.
 
-The Temple of Zúráthrä
+The Temple of Zúrathra
 : He donates a portion of his yield to the temple's fertility rituals and receives their blessing in return.
 
 ### Enemies
 
-Bashîman the Merchant
-: A merchant trader who attempted to pressure Torvâsh into exclusive supply agreements. When Torvâsh refused, Bashîman began spreading rumors about the quality of his products and has attempted to undercut his prices.
+Bashiman the Merchant
+: A merchant trader who attempted to pressure Torvash into exclusive supply agreements. When Torvash refused, Bashiman began spreading rumors about the quality of his products and has attempted to undercut his prices.
 
-The Zânavi Herding Clan
-: A rival herding family whose grazing lands border Torvâsh's territory. Several disputes over water rights and grazing boundaries have created lasting tension.
+The Zanavi Herding Clan
+: A rival herding family whose grazing lands border Torvash's territory. Several disputes over water rights and grazing boundaries have created lasting tension.
 
 ### Affiliations
 
 The Independent Herders of the Amradad Steppes
 : An informal association of herders who share knowledge about weather, grazing, and market prices.
 
-The Temple of Zúráthrä
+The Temple of Zúrathra
 : A devotional order dedicated to the god of fertility and abundance.
 
 ## Plot Hooks
 
-1. **The Plague Among the Flocks**: A mysterious sickness spreads through Torvâsh's herds, killing animals at an unprecedented rate. The symptoms are unlike anything he has encountered in his decades of experience—animals seem to waste away from within, their behavior becomes erratic, and death follows within days. The illness begins to spread to neighboring herds, threatening the entire regional economy. Torvâsh must identify the cause while preventing the complete loss of his flocks, knowing that the sickness might not be natural—it could be deliberate poisoning or worse.
+1. **The Plague Among the Flocks**: A mysterious sickness spreads through Torvash's herds, killing animals at an unprecedented rate. The symptoms are unlike anything he has encountered in his decades of experience—animals seem to waste away from within, their behavior becomes erratic, and death follows within days. The illness begins to spread to neighboring herds, threatening the entire regional economy. Torvash must identify the cause while preventing the complete loss of his flocks, knowing that the sickness might not be natural—it could be deliberate poisoning or worse.
 
-2. **The Stranger with the Wounded Beast**: A stranger arrives at Torvâsh's territory, riding a magnificent horse that has been badly wounded—a wound that bears the marks of a predator that shouldn't exist in this region. The stranger begs Torvâsh's assistance in saving the animal and offers extraordinary payment. As Torvâsh works to heal the beast, he realizes that it is not entirely natural—it bears markings and proportions that don't quite match any breed he knows. The stranger becomes evasive when questioned about its origins, and more riders begin searching the region. Torvâsh must decide whether to honor his commitment to heal the animal, protect the stranger, or surrender them to the increasingly aggressive searchers.
+2. **The Stranger with the Wounded Beast**: A stranger arrives at Torvash's territory, riding a magnificent horse that has been badly wounded—a wound that bears the marks of a predator that shouldn't exist in this region. The stranger begs Torvash's assistance in saving the animal and offers extraordinary payment. As Torvash works to heal the beast, he realizes that it is not entirely natural—it bears markings and proportions that don't quite match any breed he knows. The stranger becomes evasive when questioned about its origins, and more riders begin searching the region. Torvash must decide whether to honor his commitment to heal the animal, protect the stranger, or surrender them to the increasingly aggressive searchers.
 
-3. **The Merchant's Proposition**: A wealthy merchant from the capital of the Kingdom arrives with a proposition: Torvâsh's wool and cheese are of such quality that they could command prices many times their current rate in the great cities. The merchant wants to establish an exclusive supply agreement, providing capital for expansion in exchange for Torvâsh's entire output. The offer is more wealth than Torvâsh could earn in a lifetime—but it would require him to abandon his traditional methods, expand his herds beyond what he considers sustainable, and subject himself to the merchant's control. Torvâsh must weigh the security such wealth would offer against the loss of his independence and traditional practices.
+3. **The Merchant's Proposition**: A wealthy merchant from the capital of the Kingdom arrives with a proposition: Torvash's wool and cheese are of such quality that they could command prices many times their current rate in the great cities. The merchant wants to establish an exclusive supply agreement, providing capital for expansion in exchange for Torvash's entire output. The offer is more wealth than Torvash could earn in a lifetime—but it would require him to abandon his traditional methods, expand his herds beyond what he considers sustainable, and subject himself to the merchant's control. Torvash must weigh the security such wealth would offer against the loss of his independence and traditional practices.
 
-4. **The Cursed Spring**: Torvâsh discovers that the water spring that serves his herds—a spring that has been reliable for generations—is becoming poisoned. The water takes on an odd discoloration and a metallic taste, and animals begin refusing to drink it. Investigation reveals that someone upstream has been deliberately introducing substances into the water supply, possibly to force Torvâsh to sell his lands. But the culprit is someone Torvâsh never considered an enemy, and discovering their involvement will force him to handle complex social politics that he is unprepared to handle.
+4. **The Cursed Spring**: Torvash discovers that the water spring that serves his herds—a spring that has been reliable for generations—is becoming poisoned. The water takes on an odd discoloration and a metallic taste, and animals begin refusing to drink it. Investigation reveals that someone upstream has been deliberately introducing substances into the water supply, possibly to force Torvash to sell his lands. But the culprit is someone Torvash never considered an enemy, and discovering their involvement will force him to handle complex social politics that he is unprepared to handle.
 
-5. **The Protector's Debt**: A child from a nearby farming family, separated from her family during a sandstorm, stumbles into Torvâsh's encampment near death from dehydration. Torvâsh, following his nature, rescues her and cares for her until she recovers. The grateful family attempts to bind him with gratitude and obligation, offering a daughter in marriage, offering gold, offering alliance. When Torvâsh refuses these expressions of thanks, the family grows offended, interpreting his rejection as an insult. Meanwhile, the child has become attached to Torvâsh and his animals, regarding him as a savior. When she is retrieved by her family, she begs to return to him. Torvâsh is pulled into a situation requiring social negotiation and emotional complexity that baffles and exhausts him.
+5. **The Protector's Debt**: A child from a nearby farming family, separated from her family during a sandstorm, stumbles into Torvash's encampment near death from dehydration. Torvash, following his nature, rescues her and cares for her until she recovers. The grateful family attempts to bind him with gratitude and obligation, offering a daughter in marriage, offering gold, offering alliance. When Torvash refuses these expressions of thanks, the family grows offended, interpreting his rejection as an insult. Meanwhile, the child has become attached to Torvash and his animals, regarding him as a savior. When she is retrieved by her family, she begs to return to him. Torvash is pulled into a situation requiring social negotiation and emotional complexity that baffles and exhausts him.
 
-6. **The Herd with a Mind of Its Own**: A section of Torvâsh's herds begins exhibiting extraordinary behavior—they move with unusual coordination, they gather in specific patterns that form almost meaningful shapes, and they seem to be deliberately leading him toward a particular location in the wilderness. As Torvâsh follows his animals, he discovers an ancient structure partially buried in the steppe, carved with symbols he doesn't recognize. The herds' behavior suggests they are protecting something, or warning against something. Torvâsh must decide whether to investigate this discovery, report it to authorities, or protect the location and the animals' apparent secret.
+6. **The Herd with a Mind of Its Own**: A section of Torvash's herds begins exhibiting extraordinary behavior—they move with unusual coordination, they gather in specific patterns that form almost meaningful shapes, and they seem to be deliberately leading him toward a particular location in the wilderness. As Torvash follows his animals, he discovers an ancient structure partially buried in the steppe, carved with symbols he doesn't recognize. The herds' behavior suggests they are protecting something, or warning against something. Torvash must decide whether to investigate this discovery, report it to authorities, or protect the location and the animals' apparent secret.

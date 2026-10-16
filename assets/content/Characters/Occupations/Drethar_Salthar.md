@@ -1,6 +1,6 @@
 ---
 shortcode: brthrslthr
-name: {full: Dréthar Sálthar, aliases: []}
+name: {full: Drethar Salthar, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Dréthar Sálthar is a 51-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with high cheekbones, a narrow forehead, and an angular jaw that leads to a delicate chin. His round blue eyes sit beneath straight brows, lending him a candid gaze. A slightly upturned nose and full lips complete his features. He has fair skin with a weathered complexion. His graying brown hair is combed neatly to one side.
+Drethar Salthar is a 51-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with high cheekbones, a narrow forehead, and an angular jaw that leads to a delicate chin. His round blue eyes sit beneath straight brows, lending him a candid gaze. A slightly upturned nose and full lips complete his features. He has fair skin with a weathered complexion. His graying brown hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Dréthar Sálthar came into the world of the charcoaler through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Drethar Salthar came into the world of the charcoaler through a combination of circumstance and aptitude.
 
-Dréthar has worked as a charcoaler in the dense forests near his village for most of his life, producing charcoal used by blacksmiths and households alike. The work is physically demanding and dangerous, involving long hours and exposure to smoke and fire, but Dréthar takes pride in his craft. He is known as a hardworking and gruff man, though his stubborn nature sometimes gets him into conflicts.
+Drethar has worked as a charcoaler in the dense forests near his village for most of his life, producing charcoal used by blacksmiths and households alike. The work is physically demanding and dangerous, involving long hours and exposure to smoke and fire, but Drethar takes pride in his craft. He is known as a hardworking and gruff man, though his stubborn nature sometimes gets him into conflicts.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Gruff and stubborn, reluctant to accept new methods or suggestions.
 
 ### Motivation
 
-Dréthar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in charcoaler work keep him vigilant and adaptable.
+Drethar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in charcoaler work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Physically strong and experienced in handling firewood and charcoal.
 
 ## Social
 
-Dréthar is affiliated with Woodworkers' Guild.
+Drethar is affiliated with Woodworkers' Guild.
 
-As a Élavendri charcoaler, Dréthar occupies a recognized social niche within Élavendre society.
+As a Élavendri charcoaler, Drethar occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Dréthar's primary patron is Local blacksmiths and villagers who purchase his charcoal. This relationship provides both opportunity and obligation.
+Drethar's primary patron is Local blacksmiths and villagers who purchase his charcoal. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Rival charcoalers who compete for territory.
 
 ## Plot Hooks
 
-1. **The Charcoaler's Dilemma**—Dréthar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Charcoaler's Dilemma**—Drethar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 
 2. **Old Grudges**—Rival charcoalers who compete for territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Dréthar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Drethar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Dréthar depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Drethar depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Dréthar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Drethar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

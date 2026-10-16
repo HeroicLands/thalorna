@@ -1,9 +1,9 @@
 ---
 shortcode: oltremalizel
-name: {full: Oltréma Lizelándis, aliases: [Lady Oltréma Lizelándis]}
+name: {full: Oltrema Lizelis, aliases: [Lady Oltrema Lizelis]}
 type: being
 subType: npc
-description: A wealthy widow with refined aesthetic tastes who has commissioned several major pieces, named in Eldíra Torvaleth.
+description: A wealthy widow with refined aesthetic tastes who has commissioned several major pieces, named in Eldira Torvaleth.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Oltréma Lizelándis is a 58-year-old woman who stands 5'8" tall with a light build. She has medium skin, weathered complexion, dark brown hair, and amber eyes.
+Oltrema Lizelis is a 58-year-old woman who stands 5'8" tall with a light build. She has medium skin, weathered complexion, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Oltréma Lizelándis is a wealthy widow and merchant collector with refined aesthetic tastes. She has commissioned several major pieces for her private manor, appreciates the originality of [[being-eldrtrvlth|Eldíra Torvaleth]] and pays premium prices for original works.
+Oltrema Lizelis is a wealthy widow and merchant collector with refined aesthetic tastes. She has commissioned several major pieces for her private manor, appreciates the originality of [[being-eldrtrvlth|Eldira Torvaleth]] and pays premium prices for original works.

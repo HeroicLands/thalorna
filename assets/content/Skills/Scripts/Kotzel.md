@@ -1,6 +1,6 @@
 ---
 shortcode: ktzlcrdscrpt
-name: {full: K'otzel Cord Script, aliases: []}
+name: {full: K'otsel Cord Script, aliases: []}
 type: skill
 subType: script
 description: "The knotted cord-records of the K'ich'chik—tribute, tallies and day-counts carried by runners and read by priests."
@@ -17,17 +17,17 @@ sohl:
   flags: {"thalorna": {script_family: Cord}}
 ---
 
-The K'otzel—"the knotted thing," from _k'otz-_, to knot—is writing that is tied rather than drawn: a hanging cord from which subsidiary cords depend, the record carried in the **color of the thread, the kind of knot, and the position of the knot along the cord**. It encodes numbers natively and everything else by convention—tribute owed and delivered, storehouse tallies, census, the day-counts, and the standing formulae that let a runner carry a message he does not himself understand.
+The K'otsel—"the knotted thing," from _k'ots-_, to knot—is writing that is tied rather than drawn: a hanging cord from which subsidiary cords depend, the record carried in the **color of the thread, the kind of knot, and the position of the knot along the cord**. It encodes numbers natively and everything else by convention—tribute owed and delivered, storehouse tallies, census, the day-counts, and the standing formulae that let a runner carry a message he does not himself understand.
 
 It is a genuine script and is learned as one, but it is not read aloud in [[skill-kicheklng|Ki'ichek]] the way glyphs are; a bundle is _worked through_, and the reader needs the conventions of the office that tied it as much as the language.
 
 ## How it moves
 
-Along the _ix'lan ch'upul_—the white roads, raised causeways of packed limestone—in the hands of the **Ch'umbal** relay runners, and into the priestly scribal houses at the great centers, where bundles are decoded, copied into fresh cord, and archived. A cord bundle is compact, weatherproof, unreadable to an illiterate interceptor, and cannot be skimmed: an enemy who takes one has taken a knot of string.
+Along the _ish'lan ch'upul_—the white roads, raised causeways of packed limestone—in the hands of the **Ch'umbal** relay runners, and into the priestly scribal houses at the great centers, where bundles are decoded, copied into fresh cord, and archived. A cord bundle is compact, weatherproof, unreadable to an illiterate interceptor, and cannot be skimmed: an enemy who takes one has taken a knot of string.
 
 ## Who has it
 
-The priest-scribes, and the stewards of tribute. It is a closer-held skill than the glyphs, because it is where the actual numbers are—what a city-state truly owes, truly holds, and truly harvested. The public account is cut on a stela in [[skill-chlxplmscrpt|Ch'alix P'ilam]]; the real one hangs in a store-room in colored thread, and the two are not always the same document.
+The priest-scribes, and the stewards of tribute. It is a closer-held skill than the glyphs, because it is where the actual numbers are—what a city-state truly owes, truly holds, and truly harvested. The public account is cut on a stela in [[skill-chlxplmscrpt|Ch'alish P'ilam]]; the real one hangs in a store-room in colored thread, and the two are not always the same document.
 
 ## In play
 

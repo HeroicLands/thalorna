@@ -1,6 +1,6 @@
 ---
 shortcode: reqesehu
-name: {full: Rêqesehu, aliases: [Rêqê]}
+name: {full: Reqesehu, aliases: [Reqe]}
 type: being
 subType: npc
 description: "A scribe whose estate, when it fell in, proved to contain rather more than anyone had expected, and rather more than one party wanted found"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Rêqesehu is a 47-year-old man who stands 5'9" tall with a light build. He has dark brown skin, black hair, and dark brown eyes.
+Reqesehu is a 47-year-old man who stands 5'9" tall with a light build. He has dark brown skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Rêqesehu scribes out of [[place-khelzuret|Khelzuret]]. When the estate fell in, it proved to hold rather more than anyone had expected, and rather more than one party wanted found. Whoever wanted it unfound has reason to resent how thoroughly the estate was finally settled.
+Reqesehu scribes out of [[place-khelzuret|Khelzuret]]. When the estate fell in, it proved to hold rather more than anyone had expected, and rather more than one party wanted found. Whoever wanted it unfound has reason to resent how thoroughly the estate was finally settled.

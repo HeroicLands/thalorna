@@ -1,15 +1,15 @@
 ---
 shortcode: theroressafi
-name: {full: Thérorês Safîthôs, aliases: [Archon Thérorês Safîthôs]}
+name: {full: Thérores Safithos, aliases: [Arsir Thérores Safithos]}
 type: being
 subType: npc
-description: Archon of the Council of Korinthea, the primary political support of Dûmàrês Râfîrôs.
+description: Arsir of the Council of Korinthea, the primary political support of Dumares Rafiros.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Archon of the Council of Korinthea
+  occupation: Arsir of the Council of Korinthea
   lore: []
   culture: helioniteclt
   homes: [korinthea2]
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Thérorês Safîthôs is a 61-year-old man who stands 6'6" tall with a heavy build. He has tanned skin, sun-kissed complexion, brown hair, and dark brown eyes.
+Thérores Safithos is a 61-year-old man who stands 6'6" tall with a heavy build. He has tanned skin, sun-kissed complexion, brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Thérorês Safîthôs is the Archon of the Council of Korinthea and the primary political support of [[being-dumarsrfrs|Dûmàrês Râfîrôs]].
+Thérores Safithos is the Arsir of the Council of Korinthea and the primary political support of [[being-dumarsrfrs|Dumares Rafiros]].

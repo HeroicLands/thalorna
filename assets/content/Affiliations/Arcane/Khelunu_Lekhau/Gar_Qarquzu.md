@@ -1,6 +1,6 @@
 ---
 shortcode: garqarquzu
-name: {full: Gar-Qar'quzu, aliases: [House of the Balance, The House of Order]}
+name: {full: Gar-Qar'kuzu, aliases: [House of the Balance, The House of Order]}
 type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]
@@ -28,7 +28,7 @@ data:
       - level: 2
         title: Lekhau
         description: >-
-          Holder of sacred power: permitted to speak the House's formulae and to inscribe them. The rank is the ordinary working practitioner, and in Aû'Khelâthu it is held by priests rather than by any separate class of mage.
+          Holder of sacred power: permitted to speak the House's formulae and to inscribe them. The rank is the ordinary working practitioner, and in Au'Khelathu it is held by priests rather than by any separate class of mage.
       - level: 3
         title: Khel-Gebu
         description: >-
@@ -36,7 +36,7 @@ data:
       - level: 4
         title: Wer Khel-Gebu
         description: >-
-          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must go and correct it.
+          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must gho and correct it.
     offices:
       Keeper of the Standing Forms: >-
         Holds the House's authoritative copies of the binding formulae, against which any inscription in dispute is checked.
@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: []}}
 
 "Before you certify a seal, know what you are answering for," a **Warden of Seals** tells a novice of the House. "If anyone ever finds that seal was bluff, the one who certified it answers. That is why we certify slowly."
 
-**Gar-Qar'quzu**, the **House of the Balance**, holds the domain by which anything is made to stay as it was set: the oath that binds, the ward that stands, the seal that is not opened. [[lore-qarquzu|Qar'quzu]] is the truth that judges, the order [[lore-qearetdty|Qe'âret]] imposed on the primordial dark, and the other domains work inside it. The House's work is the most conservative in the tradition and the most consequential, because a working in this domain, done correctly, outlives everyone who witnessed it.
+**Gar-Qar'kuzu**, the **House of the Balance**, holds the domain by which anything is made to stay as it was set: the oath that binds, the ward that stands, the seal that is not opened. [[lore-qarquzu|Qar'kuzu]] is the truth that judges, the order [[lore-qearetdty|Qe'aret]] imposed on the primordial dark, and the other domains work inside it. The House's work is the most conservative in the tradition and the most consequential, because a working in this domain, done correctly, outlives everyone who witnessed it.
 
 ## Two Offices
 
@@ -64,6 +64,6 @@ The House keeps the ladder all seven entered Houses share: a Wazu of the House w
 
 ## See Also
 
-- [[lore-qarquzu|Qar'quzu]]—the domain
+- [[lore-qarquzu|Qar'kuzu]]—the domain
 - [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
 - [[place-khelunu|Khelunu]]—where the Eight are taught

@@ -1,9 +1,9 @@
 ---
 shortcode: tanavarnashu
-name: {full: Tānāvarna Shuravāna, aliases: [Maharaj Tānāvarna Shuravāna, Maharaj Tānāvarna]}
+name: {full: Tanavarna Shuravana, aliases: [Maharaj Tanavarna Shuravana, Maharaj Tanavarna]}
 type: being
 subType: npc
-description: A celebrated craftsman of near-mythical status in Vedyaran woodcraft traditions, under whom Tamūra Sūryatejamahānanda apprenticed.
+description: A celebrated craftsman of near-mythical status in Vedyaran woodcraft traditions, under whom Tamura Suryatejamahananda apprenticed.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Tānāvarna Shuravāna is an 84-year-old man who stands 6'1" tall with a light build. He has golden skin, weathered complexion, dark brown hair, and amber eyes.
+Tanavarna Shuravana is an 84-year-old man who stands 6'1" tall with a light build. He has golden skin, weathered complexion, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Tānāvarna Shuravāna, addressed as Maharaj, is a celebrated craftsman of near-mythical status in Vedyaran woodcraft traditions. [[being-tmrsrytjmhnnd|Tamūra Sūryatejamahānanda]] apprenticed under him for thirteen years in his youth, learning technique and the philosophy that every wooden creation is a covenant with future generations.
+Tanavarna Shuravana, addressed as Maharaj, is a celebrated craftsman of near-mythical status in Vedyaran woodcraft traditions. [[being-tmrsrytjmhnnd|Tamura Suryatejamahananda]] apprenticed under him for thirteen years in his youth, learning technique and the philosophy that every wooden creation is a covenant with future generations.

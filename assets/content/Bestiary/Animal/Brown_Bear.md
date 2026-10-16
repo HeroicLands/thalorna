@@ -238,7 +238,7 @@ A salmon lies on the flat rock, the head and belly eaten and the rest thrown asi
 
 # Dossier {#dossier}
 
-The Brown Bear is the largest hunter of the northern mountains and forests, eight hundred to twenty-five hundred pounds, nine to thirteen feet tall when it rears. It holds the mountain valleys and salmon streams of the [[place-nrdlndsrgn|Nordlands]], the deep taiga of [[place-vrystwald|Vrystwald]] and the high valleys of the [[place-graznmntns|Grazian Mountains]], alone, and defends its range and its kills against all comers. Unlike the black bear it seldom gives way to people and often attacks at the first meeting.
+The Brown Bear is the largest hunter of the northern mountains and forests, eight hundred to twenty-five hundred pounds, nine to thirteen feet tall when it rears. It holds the mountain valleys and salmon streams of the [[place-nrdlndsrgn|Nordlands]], the deep taiga of [[place-vrystwald|Vristwald]] and the high valleys of the [[place-graznmntns|Grazian Mountains]], alone, and defends its range and its kills against all comers. Unlike the black bear it seldom gives way to people and often attacks at the first meeting.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A massive, thick-bodied bear on powerful legs, each paw the size of a human hand
 
 ## In the Land
 
-Brown bears hold the mountain forests and river valleys of the [[place-nrdlndsrgn|Nordlands]], the deep taiga and uplands of [[place-vrystwald|Vrystwald]], and the high valleys of the [[place-graznmntns|Grazian Mountains]]. A big male ranges over several valleys and a stretch of river, and fishes the same run each summer. They are most numerous where salmon spawn and the berries are thick, and they den through the winter in a cave or under a fallen tree on a north slope.
+Brown bears hold the mountain forests and river valleys of the [[place-nrdlndsrgn|Nordlands]], the deep taiga and uplands of [[place-vrystwald|Vristwald]], and the high valleys of the [[place-graznmntns|Grazian Mountains]]. A big male ranges over several valleys and a stretch of river, and fishes the same run each summer. They are most numerous where salmon spawn and the berries are thick, and they den through the winter in a cave or under a fallen tree on a north slope.
 
 ## Key Behaviors
 

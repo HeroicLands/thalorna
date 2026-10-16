@@ -1,9 +1,9 @@
 ---
 shortcode: gldbrdshrmn
-name: {full: Guild Board of Sharîmun, aliases: []}
+name: {full: Guild Board of Sharimun, aliases: []}
 type: affiliation
 subType: polity
-description: "The guild government of the port town of Sharîmun, whose magistrates sit under the Confederation of Tarûzelian States."
+description: "The guild government of the port town of Sharimun, whose magistrates sit under the Confederation of Taruzelian States."
 tags: [draft]
 data:
   templatePriority: null
@@ -22,7 +22,7 @@ data:
       - level: 1
         title: Resident
         description: >-
-          Lives in Sharîmun under its guild government.
+          Lives in Sharimun under its guild government.
     offices: {}
   seat: sharimun
   population: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-The **Guild Board of Sharîmun** is the guild government of [[place-sharimun|Sharîmun]], the port town of the [[place-taruzelrgn|Tarûzel Region]]. Its magistrates date from the first year of the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]].
+The **Guild Board of Sharimun** is the guild government of [[place-sharimun|Sharimun]], the port town of the [[place-taruzelrgn|Taruzel Region]]. Its magistrates date from the first year of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]].

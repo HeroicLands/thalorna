@@ -1,6 +1,6 @@
 ---
 shortcode: knalthannhra
-name: {full: Knalthann Hrandidrokh, aliases: [Jarl Knalthann Hrandidrokh]}
+name: {full: Knalthann Hrandidrok, aliases: [Jarl Knalthann Hrandidrok]}
 type: being
 subType: npc
 description: A regional jarl whose lands surround Thilmselda Drekanótt's inn.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Knalthann Hrandidrokh is a 26-year-old man who stands 6'1" tall with a medium build. He has pale skin, weathered complexion, brown hair, and grey eyes.
+Knalthann Hrandidrok is a 26-year-old man who stands 6'1" tall with a medium build. He has pale skin, weathered complexion, brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Knalthann Hrandidrokh is a regional jarl whose lands surround [[being-thlmslddrknt|Thilmselda Drekanótt]]'s inn. He depends on Thilmselda for hospitality during his frequent hunting.
+Knalthann Hrandidrok is a regional jarl whose lands surround [[being-thlmslddrknt|Thilmselda Drekanótt]]'s inn. He depends on Thilmselda for hospitality during his frequent hunting.

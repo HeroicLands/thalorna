@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[lore-yombelspr|Yombel Ngoriring]]—zohira of rivers, met through [[affiliation-yenorzhrng|the Yénor Zohiring]].
+See [[lore-yombelspr|Yombel Ngoriring]]—zohira of rivers, met through [[affiliation-yenorzhrng|the Yenor Zohiring]].

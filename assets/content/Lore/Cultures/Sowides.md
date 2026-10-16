@@ -7,6 +7,37 @@ description: "The Sovidur, the independent herding tribes of the Khazryn steppe�
 tags: []
 data:
   language: skill-sowideslng
+  glossary:
+    - name: "keedok"
+      definition: "A blood-field: ground where many died at once and none received their rite"
+      common: true
+    - name: "orkun"
+      definition: "A leader who forces many tribes together by the sword, for one lifetime"
+      common: true
+    - name: "orkunoq"
+      definition: "The union an orkun forces, which breaks up on the orkun's death"
+      common: true
+    - name: "semok"
+      definition: "A guest who has eaten a tribe's salt and is protected to the edge of its range"
+      common: true
+    - name: "sovid"
+      definition: "A rider of a tribe who travels with a caravan across the tribe's range and answers for it"
+      common: true
+    - name: "veesuk"
+      definition: "A thin blood-field, where the hunters cross and kill"
+      common: true
+    - name: "hand-off well"
+      definition: "A well where the riders of one stretch of the road give a caravan to the riders of the next, before witnesses"
+    - name: "road-peace"
+      definition: "What a caravan owes the tribes it pays: no hunting, no drawing at unnamed water, no fouling a well, no armed men off the track"
+    - name: "skull-pole"
+      definition: "A horse skull on a pole at the approach to owned water, facing the way strangers come"
+    - {name: "todva", definition: "An elder of a tribe, with a voice in its moot"}
+    - name: "well-stone"
+      definition: "The flat stone over the mouth of an owned well, cut with the tribe's sign"
+    - name: "dovaq"
+      definition: "The chief of a tribe, chosen by its elders and bound by its moot"
+      common: true
   appearanceProfile:
     frame: {light: 3, medium: 5, heavy: 1}
     eye_color: {brown: 4, dark_brown: 3, amber: 2, green: 1}
@@ -50,25 +81,25 @@ The Sovidur raid one another, and they raid the settled marches. A raid (jadaq) 
 
 Raiding is how a young rider earns a place and how a poor tribe lives through a bad year, and it follows rules. Women, children and shamans are not killed. A well is not poisoned, because the next tribe to need it may be your own. A raid on a caravan that has paid the tribe's toll is a raid on the tribe's honor, and the tribe answers it. A raid on a caravan that has paid nobody is not a raid but a collection, and a complaint to the tribe that made it gets the caravan master nowhere.
 
-## The Orqun
+## The Orkun
 
-Now and then a leader of exceptional force rises among the tribes, a man or a woman, and forces a number of them together under a personal dictatorship. The title is orqun, and the union is an orqunoq. Three of them are remembered across the steppe as great, and the most famous of those is the [[lore-hndrdbnnrs|Storm of the Hundred Banners]]. Nobody on the steppe calls an orqun's rise a good thing.
+Now and then a leader of exceptional force rises among the tribes, a man or a woman, and forces a number of them together under a personal dictatorship. The title is orkun, and the union is an orkunoq. Three of them are remembered across the steppe as great, and the most famous of those is the [[lore-hndrdbnnrs|Storm of the Hundred Banners]]. Nobody on the steppe calls an orkun's rise a good thing.
 
-An orqun is made by force. He rides to a tribe's wells and offers its dovaq the choice of swearing under open sky or watching the wells fouled; the dovaq who swears keeps the tribe and loses the right to refuse a muster, and the dovaq who refuses is replaced by a cousin who will swear. Within a few years a hundred banners follow him, fed by the herds of the tribes he has conquered and the plunder of the settled lands. The union exists because he lives. It has no council, no heir and no law beyond his word.
+An orkun is made by force. He rides to a tribe's wells and offers its dovaq the choice of swearing under open sky or watching the wells fouled; the dovaq who swears keeps the tribe and loses the right to refuse a muster, and the dovaq who refuses is replaced by a cousin who will swear. Within a few years a hundred banners follow him, fed by the herds of the tribes he has conquered and the plunder of the settled lands. The union exists because he lives. It has no council, no heir and no law beyond his word.
 
-When the orqun dies, the union breaks within a season. The dovaq who swore are free, and the quarrels the orqun suppressed come due together: the feuds put aside, the herds taken, the wells seized, the captured kin still held by another tribe. A decade of war follows among the very tribes that rode as one, and the tribes that supported the orqun are blamed by those he broke. The steppe remembers the orqun as a calamity and keeps the memory deliberately, as a reason to keep its dovaq honest. Elders teach the young the names of the tribes that were erased.
+When the orkun dies, the union breaks within a season. The dovaq who swore are free, and the quarrels the orkun suppressed come due together: the feuds put aside, the herds taken, the wells seized, the captured kin still held by another tribe. A decade of war follows among the very tribes that rode as one, and the tribes that supported the orkun are blamed by those he broke. The steppe remembers the orkun as a calamity and keeps the memory deliberately, as a reason to keep its dovaq honest. Elders teach the young the names of the tribes that were erased.
 
 ## Faith
 
-The Sovidur honor the twelve gods of the [[affiliation-ashanpnthn|Āsháian Pantheon]] loosely, laid over older cults of a sky-father and an earth-mother, and served by shamans. Two of the twelve matter to them above the rest: [[affiliation-bahramis|Báhrámiš]], the storm and the protector, and [[affiliation-korsadra|Khóršádrä]], the eternal sky-light. Both fit a people whose supreme presence is the sky and whose gods arrive as weather.
+The Sovidur honor the twelve gods of the [[affiliation-ashanpnthn|Ashaian Pantheon]] loosely, laid over older cults of a sky-father and an earth-mother, and served by shamans. Two of the twelve matter to them above the rest: [[affiliation-bahramis|Báhramis]], the storm and the protector, and [[affiliation-korsadra|Khórsadra]], the eternal sky-light. Both fit a people whose supreme presence is the sky and whose gods arrive as weather.
 
-The year's rites follow the herds. A dovaq is invested under open sky, with the elders standing and no roof overhead, and a treaty is sworn before lightning when the weather allows, because an oath so sworn is heard by the god who would punish its breaking. The dead are carried to the laying-out ground (_yelöz_) and left to the four winds; a grave is dug only for the one who was killed unavenged, so that he stays where his kin can find him.
+The year's rites follow the herds. A dovaq is invested under open sky, with the elders standing and no roof overhead, and a treaty is sworn before lightning when the weather allows, because an oath so sworn is heard by the god who would punish its breaking. The dead are carried to the laying-out ground (_yeloz_) and left to the four winds; a grave is dug only for the one who was killed unavenged, so that he stays where his kin can find him.
 
-A shaman keeps the rites, reads the weather, heals, and speaks with the sky. The [[affiliation-strmcltsbhrms|Storm Cults of Báhrámiš]] in Dunhara call the steppe tradition a corrupt variant of the true faith and denounce steppe shamans who preach there. A shaman who crosses the border answers to his dovaq first, and the cults' denunciation reaches his tribe as a message it may choose to ignore.
+A shaman keeps the rites, reads the weather, heals, and speaks with the sky. The [[affiliation-strmcltsbhrms|Storm Cults of Báhramis]] in Dunhara call the steppe tradition a corrupt variant of the true faith and denounce steppe shamans who preach there. A shaman who crosses the border answers to his dovaq first, and the cults' denunciation reaches his tribe as a message it may choose to ignore.
 
 ## What the Sovidur Get Wrong
 
-A people who cannot unite without a tyrant has no answer to a threat that is bigger than one tribe. When a settled power presses the steppe, each tribe makes its own peace, sells its neighbors' routes and hopes the cost falls elsewhere, and the loss that follows is the very thing the orqun's rise promises to cure. The Sovidur know this, and the debate about it is the oldest in the moot. Nobody has found a way to unite the tribes that does not give a man the power to destroy them.
+A people who cannot unite without a tyrant has no answer to a threat that is bigger than one tribe. When a settled power presses the steppe, each tribe makes its own peace, sells its neighbors' routes and hopes the cost falls elsewhere, and the loss that follows is the very thing the orkun's rise promises to cure. The Sovidur know this, and the debate about it is the oldest in the moot. Nobody has found a way to unite the tribes that does not give a man the power to destroy them.
 
 ## What a Person Owes
 
@@ -80,37 +111,14 @@ Nothing is owed to a tribe that is not your own, to a stranger without a sponsor
 
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the steppe, the sands and the wells the tribes own
 - [[skill-sowideslng|Sovidur Language]]—the tongue, and the signs cut over the wells
-- [[affiliation-zrnshtrb|Zarnûsh]], [[affiliation-zrdntrb|Âzardan]], [[affiliation-shrzrtrb|Shirzâri]], [[affiliation-drmndtrb|Dûrmand]]—four neighboring tribes of the central steppe
+- [[affiliation-zrnshtrb|Zarnush]], [[affiliation-zrdntrb|Azardan]], [[affiliation-shrzrtrb|Shirzari]], [[affiliation-drmndtrb|Durmand]]—four neighboring tribes of the central steppe
 - [[affiliation-sahritrb|Sahri]] and [[affiliation-rwlstrb|Uruvolur]]—the bands that keep hidden water in the deep desert
-- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the best-known orqunoq
-- [[affiliation-ashanpnthn|Āsháian Pantheon]]—the twelve gods, as the steppe lays them over its older cults
-- [[lore-wemaqcalling|The Calling at Vömek]]—the names of a killed tribe, held and not said at the water
+- [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the best-known orkunoq
+- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the twelve gods, as the steppe lays them over its older cults
+- [[lore-wemaqcalling|The Calling at Vomek]]—the names of a killed tribe, held and not said at the water
 - [[lore-waterunder|The Buried Water]]—the Sahri star-song of the lake under the sand
 - [[lore-roadnights|The Nights of the Road]]—the tales a caravan-master tells on the crossing
 
 ## Glossary {#glossary}
-
-| Term          | Meaning                                                                                                                        |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| bodva         | A blood-feud between two kindreds, closed by a payment of horses or a marriage                                                 |
-| bödek         | Owned water: a spring or seep too small to settle, the property of one tribe                                                   |
-| dovaq         | The chief of a tribe, chosen by its elders and bound by its moot                                                               |
-| hand-off well | A well where the riders of one stretch of the road give a caravan to the riders of the next, before witnesses                  |
-| jadaq         | A raid, planned in moot and led by a war captain                                                                               |
-| juchon        | A moot of elders, a tribe's own or that of the tribes whose ranges meet at a well                                              |
-| keedök        | A blood-field: ground where many died at once and none received their rite                                                     |
-| qibud         | The token a tribe issues for passage, a tally of cord or clay cut with its sign                                                |
-| lushiq        | A ransom, the price for which a captive taken in a raid goes home                                                              |
-| orqun         | A leader who forces many tribes together by the sword, for one lifetime                                                        |
-| orqunoq       | The union an orqun forces, which breaks up on the orqun's death                                                                |
-| road-peace    | What a caravan owes the tribes it pays: no hunting, no drawing at unnamed water, no fouling a well, no armed men off the track |
-| semök         | A guest who has eaten a tribe's salt and is protected to the edge of its range                                                 |
-| skull-pole    | A horse skull on a pole at the approach to owned water, facing the way strangers come                                          |
-| sovid         | A rider of a tribe who travels with a caravan across the tribe's range and answers for it                                      |
-| todva         | An elder of a tribe, with a voice in its moot                                                                                  |
-| well-stone    | The flat stone over the mouth of an owned well, cut with the tribe's sign                                                      |
-| veesük        | A thin blood-field, where the hunters cross and kill                                                                           |
-| yelöz         | The laying-out ground, where the dead are left to the four winds                                                               |
-| yolaq         | Salt, the first thing a tribe gives a guest                                                                                    |
 
 Tenyut is a loanword from [[lore-khazrynclt#glossary|the Tellumi]].

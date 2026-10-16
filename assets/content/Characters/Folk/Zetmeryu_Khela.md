@@ -1,15 +1,15 @@
 ---
 shortcode: zetmeryukhe2
-name: {full: Zetmeryu-Khelâ, aliases: [Zetmê]}
+name: {full: Zetmeryu-Khela, aliases: [Zetme]}
 type: being
 subType: npc
-description: "Chief officer of the Gár-Hálzi, who holds the temple account-houses together across the empire"
+description: "Chief officer of the Gar-Hálzi, who holds the temple account-houses together across the empire"
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [trader, courtier]
-  occupation: "Chief Officer of the Gár-Hálzi"
+  occupation: "Chief Officer of the Gar-Hálzi"
   lore: []
   culture: khelathiclt
   homes: [galezkara]
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zetmeryu-Khelâ is a 42-year-old man who stands 6'0" tall with a heavy build. He has tawny skin, black hair, and hazel eyes.
+Zetmeryu-Khela is a 42-year-old man who stands 6'0" tall with a heavy build. He has tawny skin, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Zetmeryu-Khelâ holds the chief officer's post of the [[affiliation-garhalzi|Gár-Hálzi]] out of [[place-galezkara|Galezkara]]. The temple account-houses stay joined up across the whole empire under this one office. Any house trading between provinces eventually passes through a ledger this office keeps.
+Zetmeryu-Khela holds the chief officer's post of the [[affiliation-garhalzi|Gar-Hálzi]] out of [[place-galezkara|Galezkara]]. The temple account-houses stay joined up across the whole empire under this one office. Any house trading between provinces eventually passes through a ledger this office keeps.

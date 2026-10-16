@@ -1,6 +1,6 @@
 ---
 shortcode: morvahna
-name: {full: "Ritual: Mórváhñä", aliases: [The Silent Keeper]}
+name: {full: "Ritual: Mórvahna", aliases: [The Silent Keeper]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-morvahna|Faith of Mórváhñä]]
+See [[affiliation-morvahna|Faith of Mórvahna]]

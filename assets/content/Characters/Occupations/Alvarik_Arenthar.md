@@ -1,6 +1,6 @@
 ---
 shortcode: alvrkrnthl
-name: {full: Alvárik Árenthar, aliases: []}
+name: {full: Alvarik Árenthar, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,23 +394,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Alvárik Árenthar is a 41-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with defined cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. His piercing gray eyes sit beneath straight brows and give him a penetrating gaze. He has a prominent nose and firm lips. He has medium-toned skin with a bronzed complexion. His gray hair is shorn at the sides with length on top.
+Alvarik Árenthar is a 41-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with defined cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. His piercing gray eyes sit beneath straight brows and give him a penetrating gaze. He has a prominent nose and firm lips. He has medium-toned skin with a bronzed complexion. His gray hair is shorn at the sides with length on top.
 
 # Dossier {#dossier}
 
-Alvárik Árenthar is a farmer of the country above Nebrális, a port town of [[place-tarvenirgn|Tarvénia]], a Tarvénan freeman who grows wheat and barley on land his family has held for longer than anyone has a record of.
+Alvarik Árenthar is a farmer of the country above Nebralis, a port town of [[place-tarvenirgn|Tarvénia]], a Tarvenan freeman who grows wheat and barley on land his family has held for longer than anyone has a record of.
 
-Alvárik holds a few fields and a run of pasture on the slope above the town that came to him from his father and will go to his son. He grows wheat and barley for the town's millers and keeps enough stock to manure the fields and feed the house. He is a good farmer by the old measure: his grain is clean, his fields are in heart, and his beasts are sound. He is a poor one by the new, because he will not change a rotation his father used or buy the Provenzian seed the millers ask for, and has borrowed against two harvests to keep from doing either. The lord whose land marches with his has been trying for years to move the boundary stone and the water-course, and Alvárik has spent money he did not have to keep both where they are.
+Alvarik holds a few fields and a run of pasture on the slope above the town that came to him from his father and will go to his son. He grows wheat and barley for the town's millers and keeps enough stock to manure the fields and feed the house. He is a good farmer by the old measure: his grain is clean, his fields are in heart, and his beasts are sound. He is a poor one by the new, because he will not change a rotation his father used or buy the Provenzian seed the millers ask for, and has borrowed against two harvests to keep from doing either. The lord whose land marches with his has been trying for years to move the boundary stone and the water-course, and Alvarik has spent money he did not have to keep both where they are.
 
 ## Psyche
 
 ### Personality
 
-Alvárik is stubborn, plain and slow to anger, and slower to forgive. He trusts the land and the year more than any man's advice, and he is bad with money and knows it and does nothing about it.
+Alvarik is stubborn, plain and slow to anger, and slower to forgive. He trusts the land and the year more than any man's advice, and he is bad with money and knows it and does nothing about it.
 
 ### Motivation
 
-Alvárik wants the land to go to his son as it came to him, every stone and every yard of the leat, and he wants each year's round done well, because that is what he understands life to be for. He has not admitted that the first may cost the second.
+Alvarik wants the land to go to his son as it came to him, every stone and every yard of the leat, and he wants each year's round done well, because that is what he understands life to be for. He has not admitted that the first may cost the second.
 
 ### Strengths
 
@@ -418,24 +418,24 @@ Skilled in grain farming, strong and tireless, experienced with stock.
 
 ## Social
 
-Alvárik sits in the Freemen's Assembly of Nebrális, the communal assembly of the town and its country, where he has a voice and uses it.
+Alvarik sits in the Freemen's Assembly of Nebralis, the communal assembly of the town and its country, where he has a voice and uses it.
 
 ## Companions
 
 ### Patrons
 
-Alvárik's patrons are the millers of Nebrális, who take his grain and complain about it, and the ship-victualers of the port.
+Alvarik's patrons are the millers of Nebralis, who take his grain and complain about it, and the ship-victualers of the port.
 
 ### Enemies
 
-The lord of the neighboring manor, who disputes the boundary and the water-course and has a steward with a long memory; and the moneylender in Nebrális who holds his notes.
+The lord of the neighboring manor, who disputes the boundary and the water-course and has a steward with a long memory; and the moneylender in Nebralis who holds his notes.
 
 ## Plot Hooks
 
-1. **The Leat**—The lord's men have cut a new channel in the night and Alvárik's lower fields are dry a month before harvest. The assembly hears it at midsummer, and the wheat will be dead by then.
+1. **The Leat**—The lord's men have cut a new channel in the night and Alvarik's lower fields are dry a month before harvest. The assembly hears it at midsummer, and the wheat will be dead by then.
 
-2. **The Notes**—Alvárik's notes have been bought from the Nebrális moneylender by the lord's steward, and they fall due after harvest.
+2. **The Notes**—Alvarik's notes have been bought from the Nebralis moneylender by the lord's steward, and they fall due after harvest.
 
-3. **The Ban**—The High King has called the ban, and Nebrális must send its freemen, in the second week of the cutting. Alvárik is a freeman.
+3. **The Ban**—The High King has called the ban, and Nebralis must send its freemen, in the second week of the cutting. Alvarik is a freeman.
 
-4. **The Son**—Alvárik's son has taken a sellsword's advance from a captain recruiting in the port, as Tarvénan boys do, and means to go before the harvest is in.
+4. **The Son**—Alvarik's son has taken a sellsword's advance from a captain recruiting in the port, as Tarvenan boys do, and means to go before the harvest is in.

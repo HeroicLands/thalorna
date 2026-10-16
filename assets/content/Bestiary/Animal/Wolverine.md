@@ -237,7 +237,7 @@ The cache hung high in the pines has been torn open, and the pieces of it scatte
 
 # Dossier {#dossier}
 
-The Wolverine is the small, fearless hunter of the cold north, twelve to eighteen inches at the shoulder and two and a half to three and a half feet long, with a bushy tail. It ranges the cold forest and mountains of the [[place-nrdlndsrgn|Nordlands]], the high taiga of [[place-vrystwald|Vrystwald]] and the upper valleys of the [[place-graznmntns|Grazian Mountains]]. It faces down predators many times its size and will not retreat once engaged. It is drawn to camps by food.
+The Wolverine is the small, fearless hunter of the cold north, twelve to eighteen inches at the shoulder and two and a half to three and a half feet long, with a bushy tail. It ranges the cold forest and mountains of the [[place-nrdlndsrgn|Nordlands]], the high taiga of [[place-vrystwald|Vristwald]] and the upper valleys of the [[place-graznmntns|Grazian Mountains]]. It faces down predators many times its size and will not retreat once engaged. It is drawn to camps by food.
 
 ## Presentation
 
@@ -245,7 +245,7 @@ A compact, heavily muscled animal in a dense brown coat of excellent insulation.
 
 ## In the Land
 
-Wolverines range the cold forest and mountains of the [[place-nrdlndsrgn|Nordlands]], the high taiga of [[place-vrystwald|Vrystwald]] and the upper valleys of the [[place-graznmntns|Grazian Mountains]]. A wolverine holds a huge range for its size, alone, and travels it in all weathers, covering miles in a day. It eats carrion, small animals and the kills of wolves, and caches what it cannot finish under snow or stones.
+Wolverines range the cold forest and mountains of the [[place-nrdlndsrgn|Nordlands]], the high taiga of [[place-vrystwald|Vristwald]] and the upper valleys of the [[place-graznmntns|Grazian Mountains]]. A wolverine holds a huge range for its size, alone, and travels it in all weathers, covering miles in a day. It eats carrion, small animals and the kills of wolves, and caches what it cannot finish under snow or stones.
 
 ## Key Behaviors
 

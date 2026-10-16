@@ -1,6 +1,6 @@
 ---
 shortcode: herthema
-name: {full: Herthéma, aliases: []}
+name: {full: Herthema, aliases: []}
 type: place
 subType: settlement
 description: "Fortified Town"
@@ -14,4 +14,4 @@ data:
   packFolder: tarvenia
 ---
 
-Herthéma is a fortified town in the [[place-tarvenirgn|Tarvénia]] region of Aurèldía. Its walls mark it out among the towns of a land of independent fiefdoms and city-states bound by a shared Tarvéni language and warrior culture, and its residents include several of the figures named in the character notes.
+Herthema is a fortified town in the [[place-tarvenirgn|Tarvénia]] region of Aureldia. Its walls mark it out among the towns of a land of independent fiefdoms and city-states bound by a shared Tarveni language and warrior culture, and its residents include several of the figures named in the character notes.

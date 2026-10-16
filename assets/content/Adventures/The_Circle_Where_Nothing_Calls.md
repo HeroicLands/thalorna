@@ -87,7 +87,7 @@ The place note is [[place-slntclrng|The Silent Clearing]].
 
 **NPCs and threats.**
 
-- **The Quiet Dead.** [[being-damut|Damutu]] of every kind of person the forest has lost: hunters, children, a Khelâthi factor in a rotted coat. They are slow in the open and fast in the dark. They fight in silence, grasping and dragging, and their bites and scratches leave a cold in the wound. They hunt by sight and are drawn to light, though they cannot be turned by it.
+- **The Quiet Dead.** [[being-damut|Damutu]] of every kind of person the forest has lost: hunters, children, a Khelathi factor in a rotted coat. They are slow in the open and fast in the dark. They fight in silence, grasping and dragging, and their bites and scratches leave a cold in the wound. They hunt by sight and are drawn to light, though they cannot be turned by it.
 - **Any party member who died** in earlier scenes. They rise among the others.
 
 **Player choices.**

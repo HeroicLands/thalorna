@@ -1,9 +1,9 @@
 ---
 shortcode: hlarthvirsna
-name: {full: Hlarthvir Snarvumakh, aliases: [Jarl Hlarthvir Snarvumakh, Jarl Hlarthvir]}
+name: {full: Hlarthvir Snarvumak, aliases: [Jarl Hlarthvir Snarvumak, Jarl Hlarthvir]}
 type: being
 subType: npc
-description: Uncle of Gnildrselda Snarvumakh and effective head of the Snarvumakh household.
+description: Uncle of Gnildrselda Snarvumak and effective head of the Snarvumak household.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hlarthvir Snarvumakh is a 57-year-old man who stands 6'1" tall with a medium build. He has pale skin, freckled complexion, red hair, and blue eyes.
+Hlarthvir Snarvumak is a 57-year-old man who stands 6'1" tall with a medium build. He has pale skin, freckled complexion, red hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Hlarthvir Snarvumakh is the uncle of [[being-gnldrsldstrmrt|Gnildrselda Snarvumakh]] and effective head of the Snarvumakh household. He provides financial support and family protection to Gnildrselda, though he knows nothing of the true scope of her studies.
+Hlarthvir Snarvumak is the uncle of [[being-gnldrsldstrmrt|Gnildrselda Snarvumak]] and effective head of the Snarvumak household. He provides financial support and family protection to Gnildrselda, though he knows nothing of the true scope of her studies.

@@ -395,9 +395,9 @@ Zórila Dómivar is a 25-year-old woman who stands 5'8" tall and is slender. She
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Zórila Dómivar is a hunter.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Zórila Dómivar is a hunter.
 
-Zórila is the trusted huntswoman for Lord Zurgáde of [[place-thornhillmnr|Thornhill Manor]]. Growing up in a hunting family, she excelled in the trade from a young age. She is known for her skill with a bow and her ability to move silently through the woods. She is often invited to hunt with the lord and his guests, and she is much relied on during the hunting season.
+Zórila is the trusted huntswoman for Lord Zurgade of [[place-thornhillmnr|Thornhill Manor]]. Growing up in a hunting family, she excelled in the trade from a young age. She is known for her skill with a bow and her ability to move silently through the woods. She is often invited to hunt with the lord and his guests, and she is much relied on during the hunting season.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ She can be stubborn, and often feels the need to prove herself among the men of 
 
 ### Motivation
 
-Zórila wants to keep her place at Lord Zurgáde's side in the field, and to be judged by her bow rather than by her sex.
+Zórila wants to keep her place at Lord Zurgade's side in the field, and to be judged by her bow rather than by her sex.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ She is an expert archer, agile, and excellent at finding her way through woodlan
 
 ## Social
 
-Zórila belongs to Lord Zurgáde’s retinue.
+Zórila belongs to Lord Zurgade’s retinue.
 
 ## Companions
 
 ### Patrons
 
-Zórila's patrons are Lord Zurgáde and his family.
+Zórila's patrons are Lord Zurgade and his family.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Few; she is respected by her peers but sometimes viewed with skepticism by tradi
 
 ## Plot Hooks
 
-1. **The Huntsman's Dilemma**—One of Lord Zurgáde's guests shoots a beast the lord had reserved for himself, and Zórila is the only one who saw who loosed the arrow.
+1. **The Huntsman's Dilemma**—One of Lord Zurgade's guests shoots a beast the lord had reserved for himself, and Zórila is the only one who saw who loosed the arrow.
 
 2. **Old Grudges**—A traditionalist among the manor's huntsmen who has never accepted a woman in the post is working to have her replaced.
 
 3. **Echoes of the Past**—A kinsman from the hunting family Zórila grew up in comes to Thornhill Manor asking for a place in the lord's retinue on the strength of her name.
 
-4. **Shifting Winds**—Political change in Tarvénia threatens Lord Zurgáde's standing, and with it the place Zórila holds at Thornhill Manor; she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Tarvénia threatens Lord Zurgade's standing, and with it the place Zórila holds at Thornhill Manor; she can adapt, resist, or leave.
 
-5. **The Opportunity**—A greater lord who hunted as Lord Zurgáde's guest offers Zórila a post in his own household, and leaving Thornhill Manor would cost her the trust she has built there.
+5. **The Opportunity**—A greater lord who hunted as Lord Zurgade's guest offers Zórila a post in his own household, and leaving Thornhill Manor would cost her the trust she has built there.

@@ -1,28 +1,28 @@
 ---
 shortcode: domseycount
-name: {full: The Dómsey Count, aliases: [The Sitting-Count, The Count of the Sittings]}
+name: {full: The Domsey Count, aliases: [The Sitting-Count, The Count of the Sittings]}
 type: lore
 subType: calendar
-description: "How the Nordlands reckon years: counted from the first sitting of the King of All Clans on Dómsey, divided by the four turns of the year, and dated by sittings, by winters notched on the Hnarvdal post, and by the ages the skalds name."
+description: "How the Nordlands reckon years: counted from the first sitting of the King of All Clans on Domsey, divided by the four turns of the year, and dated by sittings, by winters notched on the Hnarvdal post, and by the ages the skalds name."
 tags: [reference, calendar, nordlands]
 data:
   culture: nordheimnclt
   epoch: "287.1"
   months:
-    - {name: Sumarmál, abbreviation: Sum, days: 122}
-    - {name: Midsumar, abbreviation: Mid, days: 91}
-    - {name: Vetrnaetr, abbreviation: Vet, days: 61}
-    - {name: Jól, abbreviation: Jól, days: 91}
+    - {name: Somarmál, abbreviation: Sum, days: 122}
+    - {name: Midsomar, abbreviation: Mid, days: 91}
+    - {name: Vetrnetr, abbreviation: Vet, days: 61}
+    - {name: Jel, abbreviation: Jel, days: 91}
   seasons:
     - {name: the summer half, abbreviation: Sumar, start: 1}
     - {name: the winter half, abbreviation: Vetr, start: 214}
   namedDays:
-    - {name: Sumarmál, day: 1}
-    - {name: Midsumar, day: 123}
-    - {name: Vetrnaetr, day: 214}
-    - {name: the first night of Jól, day: 275}
-    - {name: the ninth night of Jól, day: 283}
-    - {name: the twelfth night of Jól, day: 286}
+    - {name: Somarmál, day: 1}
+    - {name: Midsomar, day: 123}
+    - {name: Vetrnetr, day: 214}
+    - {name: the first night of Jel, day: 275}
+    - {name: the ninth night of Jel, day: 283}
+    - {name: the twelfth night of Jel, day: 286}
   eras:
     - shortcode: beforesits
       name: Before the Sittings
@@ -51,7 +51,7 @@ data:
   packFolder: nordlands
 ---
 
-Ask a Nordman when a thing happened and he answers with a sitting: "the thirty-fourth sitting", "two sittings before the fleets went south", "the year before the sixty-third." The **Dómsey count** is the reckoning behind the answer. It numbers the years from the first time the five kings sat together on [[place-domsey|Dómsey]], in 287 AF by the [[lore-commoncal|Vylarian reckoning]], and because the kings have sat there every seventh year since, a year of the count divides by seven into a sitting. The present year is the four hundred and thirty-fourth of the count, written 434 PR, and the sixty-third sitting falls at the next [[lore-sumarmal|Sumarmál]].
+Ask a Nordman when a thing happened and he answers with a sitting: "the thirty-fourth sitting", "two sittings before the fleets went south", "the year before the sixty-third." The **Domsey count** is the reckoning behind the answer. It numbers the years from the first time the five kings sat together on [[place-domsey|Domsey]], in 287 AF by the [[lore-commoncal|Vylarian reckoning]], and because the kings have sat there every seventh year since, a year of the count divides by seven into a sitting. The present year is the four hundred and thirty-fourth of the count, written 434 PR, and the sixty-third sitting falls at the next [[lore-sumarmal|Somarmál]].
 
 ## Three Ways to Date an Event
 
@@ -63,16 +63,16 @@ The north kept no year-count of its own before the sittings, and it still prefer
 
 ## The Four Turns
 
-The year is divided by the sky rather than by the moon, into the four turns every hall keeps, and a day is so many nights after the last turn. The turns are unequal because the sky is: the summer solstice falls a hundred and twenty-two days after the first morning of summer, the autumn turn ninety-one after that, midwinter sixty-one after the autumn turn, and the year ends ninety-one days later on the eve of Sumarmál.
+The year is divided by the sky rather than by the moon, into the four turns every hall keeps, and a day is so many nights after the last turn. The turns are unequal because the sky is: the summer solstice falls a hundred and twenty-two days after the first morning of summer, the autumn turn ninety-one after that, midwinter sixty-one after the autumn turn, and the year ends ninety-one days later on the eve of Somarmál.
 
-| Turn                          | Days | Opens on                       | What it holds                                                                                                                                     |
-| ----------------------------- | ---- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[lore-sumarmal\|Sumarmál]]   | 122  | the first morning of summer    | ships to the water, warriors from winter quarters, cattle to the high pasture; the tings and the boundary walk; the sitting on Dómsey in its year |
-| [[lore-midsumar\|Midsumar]]   | 91   | the summer solstice            | the bonfires, the raiding and trading season, the hay and the whale strand                                                                        |
-| [[lore-vetrnaetr\|Vetrnaetr]] | 61   | the autumn turn                | the slaughter, the salting and the honoring of the dead; the sixty-one nights to midwinter                                                        |
-| [[lore-jol\|Jól]]             | 91   | the first of the twelve nights | the midwinter vigil, the Jól-Ride, the hero-sagas; then the long dark to the thaw                                                                 |
+| Turn                         | Days | Opens on                       | What it holds                                                                                                                                     |
+| ---------------------------- | ---- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[lore-sumarmal\|Somarmál]]  | 122  | the first morning of summer    | ships to the water, warriors from winter quarters, cattle to the high pasture; the tings and the boundary walk; the sitting on Domsey in its year |
+| [[lore-midsumar\|Midsomar]]  | 91   | the summer solstice            | the bonfires, the raiding and trading season, the hay and the whale strand                                                                        |
+| [[lore-vetrnaetr\|Vetrnetr]] | 61   | the autumn turn                | the slaughter, the salting and the honoring of the dead; the sixty-one nights to midwinter                                                        |
+| [[lore-jol\|Jel]]            | 91   | the first of the twelve nights | the midwinter vigil, the Jel-Ride, the hero-sagas; then the long dark to the thaw                                                                 |
 
-A date is written as the night and the turn, then the count year and its age: the thirty-fourth sitting's oath was sworn on 9 Sumarmál 232 HF, the ninth night of the summer turn in the two hundred and thirty-second year of the count, in the age of the Hunger and the Fleets. The summer half of the year runs from Sumarmál to Vetrnaetr and the winter half from Vetrnaetr to Sumarmál, and a contract for a half-year is the commonest bargain in the north.
+A date is written as the night and the turn, then the count year and its age: the thirty-fourth sitting's oath was sworn on 9 Somarmál 232 HF, the ninth night of the summer turn in the two hundred and thirty-second year of the count, in the age of the Hunger and the Fleets. The summer half of the year runs from Somarmál to Vetrnetr and the winter half from Vetrnetr to Somarmál, and a contract for a half-year is the commonest bargain in the north.
 
 ## The Ages of the North
 
@@ -94,15 +94,15 @@ An age shares its last year with the first year of the next, and the shared year
 
 Everything older than the first sitting is written BS, and the skalds tell three things in it without numbering any of them.
 
-**The Fjord-Taking.** The stock that came out of the [[lore-varkhadcnq|Varkhad conquest]] of the eastern grasslands pushed north and west into the fjord country over centuries, carrying a rune-row first learned under the Khazári and a refusal to admit either debt. They found the coast already sacred: the stones at [[place-horgsvangr|Hörgsvangr]] and [[place-vyldvangr|Vyldvangr]] were old when they arrived, and the sea had a power of its own, [[miscgear-hornnjordur|Hafvald]], whom the coast placated before the Ásvinir came into the songs and whom [[place-hvarnvik|Hvarnvík]]'s fishers still count with a thumb tucked under. Nothing in this age can be dated, and the skalds do not try.
+**The Fjord-Taking.** The stock that came out of the [[lore-varkhadcnq|Varkhad conquest]] of the eastern grasslands pushed north and west into the fjord country over centuries, carrying a rune-row first learned under the Khazari and a refusal to admit either debt. They found the coast already sacred: the stones at [[place-horgsvangr|Horgsvangr]] and [[place-vyldvangr|Vuldvangr]] were old when they arrived, and the sea had a power of its own, [[miscgear-hornnjordur|Hafvald]], whom the coast placated before the Ásvinir came into the songs and whom [[place-hvarnvik|Hvarnvík]]'s fishers still count with a thumb tucked under. Nothing in this age can be dated, and the skalds do not try.
 
-**The Age of Halls.** Every fjord was its own hall's, under a hall-lord and his godi, with no king above them, and a district's ting kept its own peace. About a hundred and ten years after the Founding the hall-skalds swore the [[affiliation-skaldscrcl|Skalds' Circle]] at [[place-hringstead|Hringstead]], so that a judgment given in one fjord could be recited in another. The singers of the [[doc-heroessgrd|Heroes of Asguard]] set every hero's deeds in this age, "before the kings", and whether the heroes lived at all is a question the Circle leaves to the halls that claim them. [[place-odholm|Ódholm]]'s hof claims this age for its founding, and the Hnarvdal post was first notched in it.
+**The Age of Halls.** Every fjord was its own hall's, under a hall-lord and his gudi, with no king above them, and a district's ting kept its own peace. About a hundred and ten years after the Founding the hall-skalds swore the [[affiliation-skaldscrcl|Skalds' Circle]] at [[place-hringstead|Hringstead]], so that a judgment given in one fjord could be recited in another. The singers of the [[doc-heroessgrd|Heroes of Asguard]] set every hero's deeds in this age, "before the kings", and whether the heroes lived at all is a question the Circle leaves to the halls that claim them. [[place-odholm|Odholm]]'s hov claims this age for its founding, and the Hnarvdal post was first notched in it.
 
-**[[lore-nordfirstsit|The Acclamations]].** Between about 260 and 285 the five district tings each acclaimed a king, as [[lore-nordfirstsit|The First Sitting]] tells, and in 287 the five kings met on Dómsey and the count began.
+**[[lore-nordfirstsit|The Acclamations]].** Between about 260 and 285 the five district tings each acclaimed a king, as [[lore-nordfirstsit|The First Sitting]] tells, and in 287 the five kings met on Domsey and the count began.
 
 ### The Five Crowns, 287 to 419
 
-The age of the new kings. Dómsey was hallowed and given to Nordheim's keeping after the slaughter on its strand ([[lore-nordfirstsit|The First Sitting]]); [[affiliation-kngdmnrdhm|Snilthorv]] of the [[affiliation-kngdmnrdhm|Knalthidrokh]] convened the first sittings; the [[affiliation-eidhond|Order of the Sworn Hand]] was founded at [[place-logstead|Lögstead]] about 330, so that a district could get a ruling against its own jarl; and the captain in the Thraldfjord ship-grave was laid in his howe. It ends when the succession of Nordheim's fifth king is claimed by a Malagnan cousin, the first of the dynastic quarrels the north has had since.
+The age of the new kings. Domsey was hallowed and given to Nordheim's keeping after the slaughter on its strand ([[lore-nordfirstsit|The First Sitting]]); [[affiliation-kngdmnrdhm|Snilthorv]] of the [[affiliation-kngdmnrdhm|Knalthidrok]] convened the first sittings; the [[affiliation-eidhond|Order of the Sworn Hand]] was founded at [[place-logstead|Logstead]] about 330, so that a district could get a ruling against its own jarl; and the captain in the Thraldfjord ship-grave was laid in his howe. It ends when the succession of Nordheim's fifth king is claimed by a Malagnan cousin, the first of the dynastic quarrels the north has had since.
 
 ### The Kin-Wars, 420 to 511
 
@@ -110,19 +110,19 @@ Nordheim and Malagna contested the north for two generations, by raid, by marria
 
 ### The Hunger and the Fleets, 512 to 574
 
-Three winters ran together with no Sumarmál between them ([[lore-threewinters|The Three Winters]]), and at the thirty-fourth sitting the kings swore that no hall should send its old to the fell while another had bread. The famine sent every hull south: from 519 to 530 the Nordheim fleets struck the empire's western provinces ([[lore-southrnfleets|The Southern Fleets]]), and the Malagna yards grew rich building them. The age ends as raiding turns to hire, with the empire paying Nordmen to garrison what the fleets had loosened and the free companies signing their compact at Hringstead ([[lore-compactsignd|The Signing of the Compact]]).
+Three winters ran together with no Somarmál between them ([[lore-threewinters|The Three Winters]]), and at the thirty-fourth sitting the kings swore that no hall should send its old to the fell while another had bread. The famine sent every hull south: from 519 to 530 the Nordheim fleets struck the empire's western provinces ([[lore-southrnfleets|The Southern Fleets]]), and the Malagna yards grew rich building them. The age ends as raiding turns to hire, with the empire paying Nordmen to garrison what the fleets had loosened and the free companies signing their compact at Hringstead ([[lore-compactsignd|The Signing of the Compact]]).
 
 ### The Burned Ground, 575 to 659
 
-Nordmen silver was earned under southern skies, and at home the eastern frontier broke. A Grukar horde burned Targud's eastern districts, the first royal hall fell at [[place-nulthgard|Nulthgard]] and its garrison died at the ford below it, and the king moved his hall to [[place-tvalgard|Tvalgard]] and founded the fort-rotation ([[lore-burningeast|The Burning of the East]]). Vithgard lost [[place-isdal|Ísdal]] to sickness in 630, and a shipyard killing at Gnarthborg became the Málstead wergild about 645.
+Nordmen silver was earned under southern skies, and at home the eastern frontier broke. A Grukar horde burned Targud's eastern districts, the first royal hall fell at [[place-nulthgard|Nulthgard]] and its garrison died at the ford below it, and the king moved his hall to [[place-tvalgard|Tvalgard]] and founded the fort-rotation ([[lore-burningeast|The Burning of the East]]). Vithgard lost [[place-isdal|Isdal]] to sickness in 630, and a shipyard killing at Gnarthborg became the Málstead wergild about 645.
 
 ### The Stormveld Generation, 660 to 700
 
-Nordheim's king sent the fleets of three kingdoms over open sea to take Aelwyth's plain ([[lore-stormveldtkn|The Taking of Stormveld]]), and an iron-man was made at [[place-vrathavn|Vrathavn]] while they were away. The hungry whaling winter of 679 ended in the burning at [[place-askholm|Askholm]]; the king of Norgaad's brother was lost on the Saddle in 688; the Stormhand Brotherhood was broken in Vrystwald about 692; and Vithgard's king died in 694 and his sons fought for seven summers ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]).
+Nordheim's king sent the fleets of three kingdoms over open sea to take Aelwyth's plain ([[lore-stormveldtkn|The Taking of Stormveld]]), and an iron-man was made at [[place-vrathavn|Vrathavn]] while they were away. The hungry whaling winter of 679 ended in the burning at [[place-askholm|Askholm]]; the king of Norgaad's brother was lost on the Saddle in 688; the Stormhand Brotherhood was broken in Vristwald about 692; and Vithgard's king died in 694 and his sons fought for seven summers ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]).
 
 ### The Present Reckoning, from 701
 
-The truce holds in Vithgard. Nordheim settlers carried hall-posts into a Varokh grove in 708 ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]). Targud's crown has passed three times in a quarter-century, Malagna's aging king has no acclaimed heir and two great clans on the edge of war, the sea is going wrong as Njörven stirs, and the sixty-third sitting is due at the next Sumarmál. The age is the present and does not end.
+The truce holds in Vithgard. Nordheim settlers carried hall-posts into a Varokh grove in 708 ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]). Targud's crown has passed three times in a quarter-century, Malagna's aging king has no acclaimed heir and two great clans on the edge of war, the sea is going wrong as Njorven stirs, and the sixty-third sitting is due at the next Somarmál. The age is the present and does not end.
 
 ## Who Keeps It
 
@@ -130,9 +130,9 @@ Nobody by office. The Lawspeakers of the five kingdoms count the sittings, becau
 
 ## See Also
 
-- [[lore-nordfirstsit|The First Sitting on Dómsey]]—the year the count begins
-- [[place-domsey|Dómsey]]—the island and the sitting
+- [[lore-nordfirstsit|The First Sitting on Domsey]]—the year the count begins
+- [[place-domsey|Domsey]]—the island and the sitting
 - [[place-hnarvdal|Hnarvdal]]—the reckoning-post that counts the winters
 - [[affiliation-skaldscrcl|Skalds' Circle]]—the keepers of the ages and the named years
-- [[lore-sumarmal|Sumarmál]] · [[lore-midsumar|Midsumar]] · [[lore-vetrnaetr|Vetrnaetr]] · [[lore-jol|Jól]]—the four turns of the year
+- [[lore-sumarmal|Somarmál]] · [[lore-midsumar|Midsomar]] · [[lore-vetrnaetr|Vetrnetr]] · [[lore-jol|Jel]]—the four turns of the year
 - [[lore-commoncal|The Vylarian Calendar]]—the reckoning these pages give beside the count

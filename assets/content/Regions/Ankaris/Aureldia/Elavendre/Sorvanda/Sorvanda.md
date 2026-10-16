@@ -23,8 +23,8 @@ The [[place-alndntrblnds|Áelendan Tribal Lands]] within Sórvanda are sovereign
 protected by crown law in principle: the courts of Élavendre will act against anyone who encroaches, and
 generally do not have to, because the [[affiliation-alndnwrdns|Áelendan Wardens]] get there first.
 
-This is the densest concentration of fae sites in Ankaris. The [[lore-aralwen|arálwain]], the sacred
-groves, the seated spirits—the [[place-urontekhi|Ûron Tékhi]] in the
+This is the densest concentration of fae sites in Ankaris. The [[lore-aralwen|aralwain]], the sacred
+groves, the seated spirits—the [[place-urontekhi|Uron Tekhi]] in the
 [[place-silvrfrsts|Silver Forests]], the river-mother [[lore-salendaspr|Sálenda]] at the [[place-longstair|Long Stair]], the owl-spirit of the [[place-owlhollow|Owl Hollow]]—are all here,
 and all watched.
 
@@ -47,7 +47,7 @@ What extraction exists is therefore:
 - **Ruinously expensive**—which is why Élavendren gold and gemwork are worth what they are. The
   scarcity is not geological. It is political, and everyone in the trade knows it.
 
-Prospectors, speculators and agents of the [[affiliation-ordoarcanis|Thôrdimâlon]] come anyway, in
+Prospectors, speculators and agents of the [[affiliation-ordoarcanis|Thordimalon]] come anyway, in
 numbers, every year—and the Arcane Order's people are the least welcome of the three. The Áelendan hold the
 Arcane Order in flat contempt as meddlesome intruders who come to study what the tribes exist to keep, and a
 Warden who finds a licensed surveyor above the line treats the license as an aggravation rather than a

@@ -1,6 +1,6 @@
 ---
 shortcode: lyrnvlskyr
-name: {full: Lirèn Valskìr, aliases: []}
+name: {full: Liren Valskir, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Lirèn Valskìr is a 38-year-old woman who stands 6'0" tall and is of moderate build. She has an oval face with wide-set cheekbones, a high forehead, and a narrow jaw that leads to a firm chin. Her hooded green eyes sit beneath straight brows, lending her a guarded gaze. An aquiline nose and narrow lips complete her features. She has olive skin with an even complexion. Her brown hair is swept up and held with carved combs.
+Liren Valskir is a 38-year-old woman who stands 6'0" tall and is of moderate build. She has an oval face with wide-set cheekbones, a high forehead, and a narrow jaw that leads to a firm chin. Her hooded green eyes sit beneath straight brows, lending her a guarded gaze. An aquiline nose and narrow lips complete her features. She has olive skin with an even complexion. Her brown hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Lirèn Valskìr came into the world of the domestic servant through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Liren Valskir came into the world of the domestic servant through a combination of circumstance and aptitude.
 
-Lirèn has worked in service since she was a teenager, starting as a scullery maid and eventually rising to the position of housekeeper for a prominent family. She is organized and meticulous, managing the other servants and ensuring the household runs smoothly. Despite her hard work, she often feels undervalued.
+Liren has worked in service since she was a teenager, starting as a scullery maid and eventually rising to the position of housekeeper for a prominent family. She is organized and meticulous, managing the other servants and ensuring the household runs smoothly. Despite her hard work, she often feels undervalued.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Feels unappreciated and has a tendency to hold grudges.
 
 ### Motivation
 
-Lirèn is driven by the desire to master her craft and secure a stable future. The uncertainties of life in domestic servant work keep her vigilant and adaptable.
+Liren is driven by the desire to master her craft and secure a stable future. The uncertainties of life in domestic servant work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Highly organized, skilled in household management, reliable.
 
 ## Social
 
-Lirèn is affiliated with None; dedicated to her job.
+Liren is affiliated with None; dedicated to her job.
 
-As a Provenzian domestic servant, Lirèn occupies a recognized social niche within Provènzia society.
+As a Provenzian domestic servant, Liren occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Lirèn's primary patron is Her current employer, who trusts her to manage the household. This relationship provides both opportunity and obligation.
+Liren's primary patron is Her current employer, who trusts her to manage the household. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Some of the younger servants who see her as too strict.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma**—Lirèn faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Domestic Servant's Dilemma**—Liren faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
 2. **Old Grudges**—Some of the younger servants who see her as too strict. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Lirèn's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Liren's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Lirèn depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Liren depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Lirèn the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Liren the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

@@ -246,7 +246,7 @@ A hundred yards up the hillside two rams stand facing each other with their head
 
 # Dossier {#dossier}
 
-The Ram is the dominant male of the sheep flocks, three to four feet at the shoulder and 250 to 350 pounds, kept on the upland pastures of the Byzarian [[place-southrnmrch|Southern March]], the [[place-graznmntns|Grazian Mountains]], the hill farms of [[place-aureldirgn|Aurèldía]] and the steppe margin of [[place-velanthrgn|Velanthia]]. It has massive curved horns and a hard temper, worst in the autumn rut. It defends the flock against predators and attacks whatever it takes for a rival.
+The Ram is the dominant male of the sheep flocks, three to four feet at the shoulder and 250 to 350 pounds, kept on the upland pastures of the Bizarian [[place-southrnmrch|Southern March]], the [[place-graznmntns|Grazian Mountains]], the hill farms of [[place-aureldirgn|Aureldia]] and the steppe margin of [[place-velanthrgn|Velanthia]]. It has massive curved horns and a hard temper, worst in the autumn rut. It defends the flock against predators and attacks whatever it takes for a rival.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A squat, densely built animal of solid muscle and bone under a thick coat of woo
 
 ## In the Land
 
-Rams run with the flocks of the upland pastures: the dry uplands of the Byzarian [[place-southrnmrch|Southern March]], the passes of the [[place-graznmntns|Grazian Mountains]], the hill farms of [[place-aureldirgn|Aurèldía]] and the steppe margin of [[place-velanthrgn|Velanthia]]. A ram stays with his ewes in the breeding season, and outside it with other rams on the higher ground. In autumn the rams butt their way to rank, and the sound carries a mile.
+Rams run with the flocks of the upland pastures: the dry uplands of the Bizarian [[place-southrnmrch|Southern March]], the passes of the [[place-graznmntns|Grazian Mountains]], the hill farms of [[place-aureldirgn|Aureldia]] and the steppe margin of [[place-velanthrgn|Velanthia]]. A ram stays with his ewes in the breeding season, and outside it with other rams on the higher ground. In autumn the rams butt their way to rank, and the sound carries a mile.
 
 ## Key Behaviors
 

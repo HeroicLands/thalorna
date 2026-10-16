@@ -254,7 +254,7 @@ A compact animal with a stocky frame and short, strong legs set for stability. T
 
 ## In the Land
 
-Donkeys are kept in every country where a road is rough: the hill villages of the [[place-southrnmrch|Southern March]], the mountain passes of the [[place-graznmntns|Grazian Mountains]], the oases and caravan stations of [[place-khzryndsrtrgn|Khazryn]] and [[place-dunharargn|Dunhara]], the terraced valleys of [[place-aukhelathrgq|Aû'Khelâthu]] and the salt-works of Tellumel. A donkey lives in the yard of the house it works for, grazes on thin pasture and eats little, and walks a mountain path with a load that would stop a horse.
+Donkeys are kept in every country where a road is rough: the hill villages of the [[place-southrnmrch|Southern March]], the mountain passes of the [[place-graznmntns|Grazian Mountains]], the oases and caravan stations of [[place-khzryndsrtrgn|Khazryn]] and [[place-dunharargn|Dunhara]], the terraced valleys of [[place-aukhelathrgq|Au'Khelathu]] and the salt-works of Tellumel. A donkey lives in the yard of the house it works for, grazes on thin pasture and eats little, and walks a mountain path with a load that would stop a horse.
 
 ## Key Behaviors
 
@@ -262,7 +262,7 @@ Donkeys live in herds and bond with other donkeys and with people. They remember
 
 ## What the Caravans Do
 
-A caravan driver buys donkeys for the passes and the short desert stages and uses camels on the long ones. The priests of Pelgun bless the first string of a young driver at the temple at Iqu, and he takes a donkey for the road and another for the fields. A farmer's donkey carries the harvest, the water and the wood. Salt-cutters stack blocks in pairs on a donkey's panniers and walk beside it. A donkey that stops cannot be driven on, and a driver who wants a donkey to move stands before it with a handful of feed. Mules are bred from them.
+A caravan driver buys donkeys for the passes and the short desert stages and uses camels on the long ones. The priests of Pelgun bless the first string of a young driver at the temple at Iku, and he takes a donkey for the road and another for the fields. A farmer's donkey carries the harvest, the water and the wood. Salt-cutters stack blocks in pairs on a donkey's panniers and walk beside it. A donkey that stops cannot be driven on, and a driver who wants a donkey to move stands before it with a handful of feed. Mules are bred from them.
 
 ## Signs
 

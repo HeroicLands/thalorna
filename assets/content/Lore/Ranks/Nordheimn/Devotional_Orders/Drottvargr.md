@@ -1,6 +1,6 @@
 ---
 shortcode: drottvargrrnk
-name: {full: "Dróttvargr", aliases: []}
+name: {full: "Drottvargr", aliases: []}
 type: lore
 subType: law
 description: "Put out of a devotional order of the faiths of the Ten, forfeiting its shelter and its purpose alike."
@@ -12,11 +12,11 @@ Ask how a devotional order puts a devotee out and the answer is nearly always th
 
 ## What This Standing Is
 
-A devotee is put out by whatever authority his order answers to—a hof's own godi where the order is a clerical one, a senior member or the cult's own chain where it is secret or militant. The standing is the same wherever it is found.
+A devotee is put out by whatever authority his order answers to—a hov's own gudi where the order is a clerical one, a senior member or the cult's own chain where it is secret or militant. The standing is the same wherever it is found.
 
 ## How the Law Treats a Person Here
 
-No hof, hall or chapter of the order that cast him out will shelter him again, and the counsel, training or protection the order gave its own is closed to him absolutely.
+No hov, hall or chapter of the order that cast him out will shelter him again, and the counsel, training or protection the order gave its own is closed to him absolutely.
 
 ## Privileges
 

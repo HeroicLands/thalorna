@@ -1,6 +1,6 @@
 ---
 shortcode: aglrmlsns
-name: {full: Agélâra Stetês, given: Agélâra, clan: Stetês, aliases: []}
+name: {full: Agélara Stetes, given: Agélara, clan: Stetes, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -418,9 +418,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[aglrmlsns|Agélâra Stetês]]{float=top-left}
+![[aglrmlsns|Agélara Stetes]]{float=top-left}
 
-Agélâra stands 5'7" tall with a light build. She has olive skin, dark brown hair, and brown eyes. Her features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and dark brows.
+Agélara stands 5'7" tall with a light build. She has olive skin, dark brown hair, and brown eyes. Her features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and dark brows.
 
 # Dossier {#dossier}
 
@@ -428,27 +428,27 @@ Agélâra stands 5'7" tall with a light build. She has olive skin, dark brown ha
 
 ### A Merchant's Daughter
 
-Agélâra was born the youngest of five daughters to **Merchant-Prince Selvâzhikon Zygákit**, a wealthy trader in the [[affiliation-byzarianlg|Byzarian League]] whose fortune came from controlling spice routes. Her childhood was one of abundance and expectation—she was educated in languages, music, and the arts of hospitality, groomed to become a merchant's wife in an advantageous alliance. Her father had already begun negotiations with three different families when Agélâra, at seventeen, politely but firmly declined all offers and requested instead to be sent to apprentice with **Maestra Melanthéhran Vuzigazûr**, proprietor of the famous Gilded Gryphon Inn.
+Agélara was born the youngest of five daughters to **Merchant-Prince Selvazhikon Zigakit**, a wealthy trader in the [[affiliation-byzarianlg|Bizarian League]] whose fortune came from controlling spice routes. Her childhood was one of abundance and expectation—she was educated in languages, music, and the arts of hospitality, groomed to become a merchant's wife in an advantageous alliance. Her father had already begun negotiations with three different families when Agélara, at seventeen, politely but firmly declined all offers and requested instead to be sent to apprentice with **Maestra Melanthehran Vuzigazur**, proprietor of the famous Gilded Gryphon Inn.
 
 ### The Making of an Innkeeper
 
-Her father's fury was spectacular but ultimately futile against Agélâra's quiet determination. She spent five years working every position in Melanthéhran's Inn—kitchen maid, server, scribe, manager. She learned how to cook fine meals and provide comfortable beds, and beyond that the philosophy underlying true hospitality: that an inn is a sanctuary, that the innkeeper holds a sacred trust to shelter the traveling soul. She discovered she had an almost supernatural gift for reading people—understanding what a merchant truly needed (information), what a soldier craved (human company), what a scholar sought (community). By age twenty-two, she had become Melanthéhran's primary partner in running the establishment.
+Her father's fury was spectacular but ultimately futile against Agélara's quiet determination. She spent five years working every position in Melanthehran's Inn—kitchen maid, server, scribe, manager. She learned how to cook fine meals and provide comfortable beds, and beyond that the philosophy underlying true hospitality: that an inn is a sanctuary, that the innkeeper holds a sacred trust to shelter the traveling soul. She discovered she had an almost supernatural gift for reading people—understanding what a merchant truly needed (information), what a soldier craved (human company), what a scholar sought (community). By age twenty-two, she had become Melanthehran's primary partner in running the establishment.
 
 ### Taking Flight
 
-When her mentor decided to retire at sixty, Melanthéhran offered Agélâra the option to purchase the Inn at a price far below its worth, a gift disguised as business. With her own savings, some financial help from her mother (done secretly from her father), and support from trusted merchants who recognized her worth, Agélâra purchased the Inn three years ago and has transformed it into the most fashionable inn in the Byzarian League's capital. The Gilded Gryphon has become more than a place to sleep: a meeting place, a source of gossip and information, a space where deals are brokered and secrets shared under the assumption of absolute discretion.
+When her mentor decided to retire at sixty, Melanthehran offered Agélara the option to purchase the Inn at a price far below its worth, a gift disguised as business. With her own savings, some financial help from her mother (done secretly from her father), and support from trusted merchants who recognized her worth, Agélara purchased the Inn three years ago and has transformed it into the most fashionable inn in the Bizarian League's capital. The Gilded Gryphon has become more than a place to sleep: a meeting place, a source of gossip and information, a space where deals are brokered and secrets shared under the assumption of absolute discretion.
 
 ## Psyche
 
 ### Personality
 
-Agélâra possesses a warmth so unforced that it disarms even the most cynical travelers. She remembers names, preferences, and personal details with great accuracy—she knows which merchant prefers his wine chilled, which scholar takes her tea with honey, which nobleman prefers privacy to socializing. This isn't calculated kindness; she cares about the people who pass through her doors. She listens far more than she speaks, a quality that has made her an unofficial confessor to dozens of people seeking someone who will hear their troubles without judgment.
+Agélara possesses a warmth so unforced that it disarms even the most cynical travelers. She remembers names, preferences, and personal details with great accuracy—she knows which merchant prefers his wine chilled, which scholar takes her tea with honey, which nobleman prefers privacy to socializing. This isn't calculated kindness; she cares about the people who pass through her doors. She listens far more than she speaks, a quality that has made her an unofficial confessor to dozens of people seeking someone who will hear their troubles without judgment.
 
 Her optimism is both her greatest charm and her most dangerous vulnerability. She believes in the inherent goodness of people and assumes that honest dealing and fairness are universal values. She speaks several languages for business, and because she delights in understanding different cultures and perspectives. Her humor is quick and playful, and she has an impressive talent for defusing tense situations with gentle wit or perfectly-timed laughter.
 
 ### Motivation
 
-Agélâra's driving passion is simple: she wants to create sanctuary. In a world where travel is dangerous and strangers are often threats, she creates a space where people can be safe, fed, heard, and valued. She is motivated not by profit (though her Inn is profitable) but by the deep satisfaction of seeing a weary traveler's face relax as they step through her doors, knowing they are cared for. Her secondary motivation is independence—she has deliberately chosen a life path that allows her autonomy rather than subservience to a husband's authority, and she fiercely protects this freedom even when it costs her profit or safety.
+Agélara's driving passion is simple: she wants to create sanctuary. In a world where travel is dangerous and strangers are often threats, she creates a space where people can be safe, fed, heard, and valued. She is motivated not by profit (though her Inn is profitable) but by the deep satisfaction of seeing a weary traveler's face relax as they step through her doors, knowing they are cared for. Her secondary motivation is independence—she has deliberately chosen a life path that allows her autonomy rather than subservience to a husband's authority, and she fiercely protects this freedom even when it costs her profit or safety.
 
 ### Strengths
 
@@ -472,42 +472,42 @@ Agélâra's driving passion is simple: she wants to create sanctuary. In a world
 
 ### Patrons
 
-Her Mother, Lady Tchârzilína Zygákit
-: Though officially estranged from her father, Agélâra maintains a close and loving relationship with her mother, who provides both emotional support and occasional financial assistance. Tchârzilína has also become one of Agélâra's best sources of information about the social machinations of the wealthy.
+Her Mother, Lady Charzilina Zigakit
+: Though officially estranged from her father, Agélara maintains a close and loving relationship with her mother, who provides both emotional support and occasional financial assistance. Charzilina has also become one of Agélara's best sources of information about the social machinations of the wealthy.
 
-Master Melanthéhran Vuzigazûr
-: Her mentor and former owner, now retired, who still frequents the Gilded Gryphon to share wine with Agélâra and offer wisdom on business and life matters.
+Master Melanthehran Vuzigazur
+: Her mentor and former owner, now retired, who still frequents the Gilded Gryphon to share wine with Agélara and offer wisdom on business and life matters.
 
-Merchant-Lord Kezhvâlikos Bolalídek
-: A worldly trader and collector of fine things who has become both a regular guest and a social ally, using his position to recommend the Gilded Gryphon to other wealthy travelers and defending Agélâra's reputation when necessary.
+Merchant-Lord Kezhvalikos Bolalidek
+: A worldly trader and collector of fine things who has become both a regular guest and a social ally, using his position to recommend the Gilded Gryphon to other wealthy travelers and defending Agélara's reputation when necessary.
 
 ### Enemies
 
-Her Father, Merchant-Prince Selvâzhikon Zygákit
-: Though not actively hostile, Agélâra's father views her choice as a personal rejection of his authority and the family's social position. He has pressured her to close the Inn and return to her "proper" role in the family business. The emotional distance between them causes Agélâra real pain despite her outward success.
+Her Father, Merchant-Prince Selvazhikon Zigakit
+: Though not actively hostile, Agélara's father views her choice as a personal rejection of his authority and the family's social position. He has pressured her to close the Inn and return to her "proper" role in the family business. The emotional distance between them causes Agélara real pain despite her outward success.
 
 The Merchant's Syndicate
-: A powerful organization of merchant-lords who view independent innkeepers as obstacles to their control of the hospitality trade. They have threatened Agélâra's suppliers and attempted to pressure her into joining their ring, which would compromise her ability to serve all travelers equally.
+: A powerful organization of merchant-lords who view independent innkeepers as obstacles to their control of the hospitality trade. They have threatened Agélara's suppliers and attempted to pressure her into joining their ring, which would compromise her ability to serve all travelers equally.
 
 Unspoken Jealousy
 : Some of the older innkeepers in the region resent her success and beauty, spreading rumors about her propriety and hinting that her popularity stems from something improper rather than true hospitality.
 
 ### Affiliations
 
-The Innkeepers' Association of the Byzarian League
-: An association of innkeepers and taverners in which Agélâra is a respected voice for the rights of independent innkeepers against larger merchant organizations.
+The Innkeepers' Association of the Bizarian League
+: An association of innkeepers and taverners in which Agélara is a respected voice for the rights of independent innkeepers against larger merchant organizations.
 
-The Ólvenía Circle
-: An informal society of women who worship the prosperity goddess Ólvenía, through which Agélâra maintains connections with female merchants, scholars, and influential women throughout the League.
+The Ólvenia Circle
+: An informal society of women who worship the prosperity goddess Ólvenia, through which Agélara maintains connections with female merchants, scholars, and influential women throughout the League.
 
 ## Plot Hooks
 
-1. **The Eavesdropper's Secret**: A mysterious guest, **Samariel the Veiled**, takes a room at the Gilded Gryphon and slowly reveals to Agélâra that she is fleeing a dangerous marriage—her husband is politically connected and has hired agents to locate her. While Agélâra provides refuge and comfort, she learns that Samariel overheard a conspiracy being discussed in one of the tavern's private rooms: wealthy merchants plotting to corner the grain market, causing artificial shortages that would starve the poor. She can protect her guest's confidence and stay silent, or expose the conspiracy and risk drawing both Samariel and herself into deadly danger.
+1. **The Eavesdropper's Secret**: A mysterious guest, **Samariel the Veiled**, takes a room at the Gilded Gryphon and slowly reveals to Agélara that she is fleeing a dangerous marriage—her husband is politically connected and has hired agents to locate her. While Agélara provides refuge and comfort, she learns that Samariel overheard a conspiracy being discussed in one of the tavern's private rooms: wealthy merchants plotting to corner the grain market, causing artificial shortages that would starve the poor. She can protect her guest's confidence and stay silent, or expose the conspiracy and risk drawing both Samariel and herself into deadly danger.
 
-2. **The Forged Ledgers**: A corrupt merchant, **Lodisash Gokhetkâr**, who frequented the Gilded Gryphon for years and left large debts, has disappeared after his crimes were exposed. Authorities arrive at the Inn accusing Agélâra of being complicit in his crimes—claiming she helped him hide stolen money in the Inn's accounts. Her careful ledgers should prove her innocent, but she discovers they have been subtly altered to create the appearance of fraudulent transactions. Someone has broken into her records and fabricated evidence. Agélâra must investigate who did this and why, potentially uncovering a larger conspiracy that implicates someone powerful.
+2. **The Forged Ledgers**: A corrupt merchant, **Lodisash Gokhetkar**, who frequented the Gilded Gryphon for years and left large debts, has disappeared after his crimes were exposed. Authorities arrive at the Inn accusing Agélara of being complicit in his crimes—claiming she helped him hide stolen money in the Inn's accounts. Her careful ledgers should prove her innocent, but she discovers they have been subtly altered to create the appearance of fraudulent transactions. Someone has broken into her records and fabricated evidence. Agélara must investigate who did this and why, potentially uncovering a larger conspiracy that implicates someone powerful.
 
-3. **The Lost Heir**: An elderly scholar, **Doríanazh Gováhr**, arrives at the Gilded Gryphon carrying a letter supposedly proving that a common shipyard worker named **Torinn** is actually the missing heir to one of the Byzarian League's greatest fortunes, heir to the House of **Stellenos**. The letter is ancient and its authenticity is unclear. The scholar asks Agélâra for shelter and secrecy while he verifies the claim, but word of this possibility begins to circulate. Both the sitting holder of the House title and various criminal elements become interested in finding and silencing Torinn before the truth emerges. Agélâra becomes an unlikely protector of a man whose very existence could reshape the League's politics.
+3. **The Lost Heir**: An elderly scholar, **Doríanazh Gováhr**, arrives at the Gilded Gryphon carrying a letter supposedly proving that a common shipyard worker named **Torinn** is actually the missing heir to one of the Bizarian League's greatest fortunes, heir to the House of **Stellenos**. The letter is ancient and its authenticity is unclear. The scholar asks Agélara for shelter and secrecy while he verifies the claim, but word of this possibility begins to circulate. Both the sitting holder of the House title and various criminal elements become interested in finding and silencing Torinn before the truth emerges. Agélara becomes an unlikely protector of a man whose very existence could reshape the League's politics.
 
-4. **The Poisoner's Bargain**: A plague enters the city, and the Gilded Gryphon becomes a place of refuge for the sick and dying. Agélâra's skill at nursing and her store of healing herbs save many lives, earning her local sainthood. However, she is approached secretly by **Physician-Master Drorazûr**, who believes the plague was deliberately introduced by someone trying to eliminate a specific person—he suspects a wealthy family is using the chaos to commit murder. He asks Agélâra to help identify which of her guests is the target and which might be the perpetrator, using her intimate knowledge of her visitors. Helping him could save an innocent life but also make her a target if the murderer realizes she suspects them.
+4. **The Poisoner's Bargain**: A plague enters the city, and the Gilded Gryphon becomes a place of refuge for the sick and dying. Agélara's skill at nursing and her store of healing herbs save many lives, earning her local sainthood. However, she is approached secretly by **Physician-Master Drorazur**, who believes the plague was deliberately introduced by someone trying to eliminate a specific person—he suspects a wealthy family is using the chaos to commit murder. He asks Agélara to help identify which of her guests is the target and which might be the perpetrator, using her intimate knowledge of her visitors. Helping him could save an innocent life but also make her a target if the murderer realizes she suspects them.
 
-5. **The Inheritance No One Wants**: Agélâra is shocked to learn that her estranged Uncle **Tarázikon**—a man she has never met—has died in a distant city and named her as the beneficiary of a substantial estate. The inheritance comes with mysteries: why would a relative she never knew leave her everything, and what are the dark secrets that seem to surround the estate? When she travels to claim it, she discovers the house is haunted—not by spirits, but by the ghosts of her family's past, including evidence that her uncle was killed under mysterious circumstances. She becomes entangled in uncovering truths that her father never wanted her to know.
+5. **The Inheritance No One Wants**: Agélara is shocked to learn that her estranged Uncle **Tarázikon**—a man she has never met—has died in a distant city and named her as the beneficiary of a substantial estate. The inheritance comes with mysteries: why would a relative she never knew leave her everything, and what are the dark secrets that seem to surround the estate? When she travels to claim it, she discovers the house is haunted—not by spirits, but by the ghosts of her family's past, including evidence that her uncle was killed under mysterious circumstances. She becomes entangled in uncovering truths that her father never wanted her to know.

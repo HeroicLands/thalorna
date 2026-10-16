@@ -1,6 +1,6 @@
 ---
 shortcode: bshmytlmn
-name: {full: Bashîmûya Telmûnî, aliases: []}
+name: {full: Bashimuya Telmuni, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -397,13 +397,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Bashîmûya Telmûnî is a 47-year-old woman who stands 5'6" tall and is of moderate build. She has an oval face with wide-set cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. Her large hazel eyes sit beneath prominent brows, lending her an expressive gaze. An aquiline nose and firm lips complete her features. She has olive skin with a weathered complexion. Her dark brown hair is falling in dark cascades.
+Bashimuya Telmuni is a 47-year-old woman who stands 5'6" tall and is of moderate build. She has an oval face with wide-set cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. Her large hazel eyes sit beneath prominent brows, lending her an expressive gaze. An aquiline nose and firm lips complete her features. She has olive skin with a weathered complexion. Her dark brown hair is falling in dark cascades.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Bashîmûya Telmûnî came into the world of the chandler through a combination of circumstance and aptitude.
+Born in the Taruzel region to a freeman family of Taruzelian heritage, Bashimuya Telmuni came into the world of the chandler through a combination of circumstance and aptitude.
 
-Bashîmûya has been making candles for over twenty years in her small village. She learned the craft from her mother and now runs a small shop, supplying candles to the local community and nearby towns. Bashîmûya takes pride in her work, using only the best tallow and beeswax, and her candles are known for their quality and long burn times.
+Bashimuya has been making candles for over twenty years in her small village. She learned the craft from her mother and now runs a small shop, supplying candles to the local community and nearby towns. Bashimuya takes pride in her work, using only the best tallow and beeswax, and her candles are known for their quality and long burn times.
 
 ## Psyche
 
@@ -413,7 +413,7 @@ Set in her ways and resistant to adopting new techniques.
 
 ### Motivation
 
-Bashîmûya is driven by the desire to master her craft and secure a stable future. The uncertainties of life in chandler work keep her vigilant and adaptable.
+Bashimuya is driven by the desire to master her craft and secure a stable future. The uncertainties of life in chandler work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -421,15 +421,15 @@ Skilled at making high-quality candles and soap.
 
 ## Social
 
-Bashîmûya is affiliated with Village Craft Guild.
+Bashimuya is affiliated with Village Craft Guild.
 
-As a Tarûzelian chandler, Bashîmûya occupies a recognized social niche within Tarûzel society.
+As a Taruzelian chandler, Bashimuya occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Bashîmûya's primary patron is Local villagers and merchants who appreciate her craftsmanship. This relationship provides both opportunity and obligation.
+Bashimuya's primary patron is Local villagers and merchants who appreciate her craftsmanship. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -437,12 +437,12 @@ A younger chandler who tries to undercut her prices.
 
 ## Plot Hooks
 
-1. **The Chandler's Dilemma**—Bashîmûya faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarûzel.
+1. **The Chandler's Dilemma**—Bashimuya faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Taruzel.
 
 2. **Old Grudges**—A younger chandler who tries to undercut her prices. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Bashîmûya's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Bashimuya's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Bashîmûya depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Bashimuya depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Bashîmûya the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Bashimuya the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

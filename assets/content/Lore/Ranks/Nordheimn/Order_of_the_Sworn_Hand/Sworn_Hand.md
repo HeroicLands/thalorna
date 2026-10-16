@@ -1,6 +1,6 @@
 ---
 shortcode: swornhandrnk
-name: {full: "Sworn Hand", aliases: [Eidhönd]}
+name: {full: "Sworn Hand", aliases: [Eidhond]}
 type: lore
 subType: law
 description: "The warrior-judge of the Order of the Sworn Hand, riding circuit to render and enforce rulings under the white wand."
@@ -12,7 +12,7 @@ The white wand at a Sworn Hand's saddle marks a standing that no ordinary knight
 
 ## What This Standing Is
 
-A Sworn Hand takes contracts from the order or rides his own circuit by elder permission, convening a ting under the white wand to hear a matter and render or enforce the ruling. He is admitted after passing the order's examinations—martial competence, legal memory of all five kingdoms' laws, the rules of judgment by combat, and a ting's rhetorical and procedural conduct—and a final interview before the **Council of Hands** at [[place-logstead|Lögstead]].
+A Sworn Hand takes contracts from the order or rides his own circuit by elder permission, convening a ting under the white wand to hear a matter and render or enforce the ruling. He is admitted after passing the order's examinations—martial competence, legal memory of all five kingdoms' laws, the rules of judgment by combat, and a ting's rhetorical and procedural conduct—and a final interview before the **Council of Hands** at [[place-logstead|Logstead]].
 
 ## How the Law Treats a Person Here
 

@@ -207,7 +207,7 @@ A centipede hunts by night or in permanent dark, and it does not need its eyes, 
 
 ## What the Priests Do
 
-To go down into a sacred pool is to approach the boundary of [[place-chaltzumaq|Ch'al Tz'umaq]], and the priests of K'ankul who descend to pour the offerings go carefully, in pairs, with torches of resin that smoke heavily. A centipede on the stair is taken as a warning that the descent is unwelcome that day, and the priests withdraw and come back at the next proper hour. Where a centipede has made its home on a pool's stair or ledge, the temple sends men down with long forked poles to pin it and carry it up alive, and it is released in the jungle far from the city. One is never killed inside a pool. The cities' tomb-cutters and cistern-cleaners, who go into the ground for their work, are less careful, and kill every centipede they meet with a heavy blade behind the head.
+To go down into a sacred pool is to approach the boundary of [[place-chaltzumaq|Ch'al Ts'umaq]], and the priests of K'ankul who descend to pour the offerings go carefully, in pairs, with torches of resin that smoke heavily. A centipede on the stair is taken as a warning that the descent is unwelcome that day, and the priests withdraw and come back at the next proper hour. Where a centipede has made its home on a pool's stair or ledge, the temple sends men down with long forked poles to pin it and carry it up alive, and it is released in the jungle far from the city. One is never killed inside a pool. The cities' tomb-cutters and cistern-cleaners, who go into the ground for their work, are less careful, and kill every centipede they meet with a heavy blade behind the head.
 
 ## Signs
 

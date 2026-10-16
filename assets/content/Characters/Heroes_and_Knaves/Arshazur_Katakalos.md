@@ -1,6 +1,6 @@
 ---
 shortcode: arshzrktkls
-name: {full: Árshazûr Gavios, given: Árshazûr, clan: Gavios, aliases: []}
+name: {full: Árshazur Gavios, given: Árshazur, clan: Gavios, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -415,9 +415,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[arshzrktkls|Árshazûr Gavios]]{float=top-left}
+![[arshzrktkls|Árshazur Gavios]]{float=top-left}
 
-Árshazûr stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, and strong brows. He has a tattoo of a rose vine on his leg.
+Árshazur stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, and strong brows. He has a tattoo of a rose vine on his leg.
 
 # Dossier {#dossier}
 
@@ -425,34 +425,34 @@ sohl:
 
 ### The Farmer's Son Drafted
 
-Árshazûr was born in a rural agricultural district of the Byzarian League, third son of a moderately successful farmer. His childhood held the ordinary rhythms of rural life—planting seasons, harvest, seasonal festivals, and local religious observances dedicated to Lîzêlâs. This peaceful existence ended abruptly at eighteen when the levy officers came to his village seeking healthy young men for the League's expanding military campaigns. Unlike his two older brothers, who managed to negotiate exemptions through various means, Árshazûr found himself conscripted without alternative.
+Árshazur was born in a rural agricultural district of the Bizarian League, third son of a moderately successful farmer. His childhood held the ordinary rhythms of rural life—planting seasons, harvest, seasonal festivals, and local religious observances dedicated to Lizelas. This peaceful existence ended abruptly at eighteen when the levy officers came to his village seeking healthy young men for the League's expanding military campaigns. Unlike his two older brothers, who managed to negotiate exemptions through various means, Árshazur found himself conscripted without alternative.
 
 ### The Long War
 
-What was meant to be two years of service became a life. Árshazûr discovered that he had an unusual combination of physical strength, tactical awareness, and emotional resilience that made him an outstanding soldier. He advanced through the ranks, moving from common foot soldier to sergeant, and now holds the position of squad captain—a position of significant responsibility and some prestige. Over eighteen years, he fought in three major conflicts and countless border skirmishes. He has seen men die in every conceivable way. He has learned to make decisions that cost lives. He has become skilled at violence in ways his younger self could never have imagined.
+What was meant to be two years of service became a life. Árshazur discovered that he had an unusual combination of physical strength, tactical awareness, and emotional resilience that made him an outstanding soldier. He advanced through the ranks, moving from common foot soldier to sergeant, and now holds the position of squad captain—a position of significant responsibility and some prestige. Over eighteen years, he fought in three major conflicts and countless border skirmishes. He has seen men die in every conceivable way. He has learned to make decisions that cost lives. He has become skilled at violence in ways his younger self could never have imagined.
 
 ### Present Circumstances
 
-Now a veteran soldier with a decade remaining until he can expect retirement, Árshazûr maintains his position with exemplary discipline and bearing. He serves under **Lord Commander Mazitos of the [[place-eastrnmrch|Eastern March]]**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
+Now a veteran soldier with a decade remaining until he can expect retirement, Árshazur maintains his position with exemplary discipline and bearing. He serves under **Lord Commander Mazitos of the [[place-eastrnmrch|Eastern March]]**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
 
 ## Psyche
 
 ### Personality
 
-Árshazûr has developed the detachment necessary for military command—the ability to make decisions affecting lives without allowing sentiment to cloud judgment. He speaks with a low, assured voice, neither warm nor cold, simply direct and clear in a way that has become habitual. His manner of speaking, honed through years of military rank and the necessity of being understood under stress, can seem brusque to civilians unfamiliar with soldiers' ways.
+Árshazur has developed the detachment necessary for military command—the ability to make decisions affecting lives without allowing sentiment to cloud judgment. He speaks with a low, assured voice, neither warm nor cold, simply direct and clear in a way that has become habitual. His manner of speaking, honed through years of military rank and the necessity of being understood under stress, can seem brusque to civilians unfamiliar with soldiers' ways.
 
-The soldierly exterior covers a real sensitivity, which he has had to suppress systematically to survive. He reads more than most soldiers, retains surprising knowledge of poetry and philosophy, and maintains unexpected gentleness with those he has permission to care about. His closest relationships know a different Árshazûr—one capable of humor, vulnerability, and surprising tenderness. Yet even in these moments, the soldier never fully disappears.
+The soldierly exterior covers a real sensitivity, which he has had to suppress systematically to survive. He reads more than most soldiers, retains surprising knowledge of poetry and philosophy, and maintains unexpected gentleness with those he has permission to care about. His closest relationships know a different Árshazur—one capable of humor, vulnerability, and surprising tenderness. Yet even in these moments, the soldier never fully disappears.
 
 ### Motivation
 
-Árshazûr continues his military service not from patriotic fervor or ambitious desire for advancement, but from a combination of duty and inability to imagine alternative paths. The army has become his whole world—it provides structure, purpose, and meaning that civilian life seems incapable of offering. More importantly, he feels a real responsibility for the younger soldiers under his command. He drives forward with the conviction that if he maintains his position, he can protect them, minimize unnecessary casualties, and provide the guidance that might help them survive their service and the aftermath.
+Árshazur continues his military service not from patriotic fervor or ambitious desire for advancement, but from a combination of duty and inability to imagine alternative paths. The army has become his whole world—it provides structure, purpose, and meaning that civilian life seems incapable of offering. More importantly, he feels a real responsibility for the younger soldiers under his command. He drives forward with the conviction that if he maintains his position, he can protect them, minimize unnecessary casualties, and provide the guidance that might help them survive their service and the aftermath.
 
-Deep down, Árshazûr fears civilian life and what it might require of him—the examination of conscience, the accounting of actions, the acceptance that some of the things he has done cannot be undone or justified. Military discipline allows him to defer these reckonings indefinitely.
+Deep down, Árshazur fears civilian life and what it might require of him—the examination of conscience, the accounting of actions, the acceptance that some of the things he has done cannot be undone or justified. Military discipline allows him to defer these reckonings indefinitely.
 
 ### Strengths
 
-- **Master of Melee Combat and Weapon Craft**: Árshazûr's skill with sword and shield is forged through thousands of hours of training and actual combat. His understanding of footwork, distance, and timing is instinctive and nearly impossible to teach.
-- **Tactical Acumen in Small Unit Operations**: While not a grand strategist, Árshazûr excels at managing squad-level tactics, identifying advantageous positions, and coordinating small unit movements in complex terrain.
+- **Master of Melee Combat and Weapon Craft**: Árshazur's skill with sword and shield is forged through thousands of hours of training and actual combat. His understanding of footwork, distance, and timing is instinctive and nearly impossible to teach.
+- **Tactical Acumen in Small Unit Operations**: While not a grand strategist, Árshazur excels at managing squad-level tactics, identifying advantageous positions, and coordinating small unit movements in complex terrain.
 - **Physical Conditioning**: His strength and endurance have been refined to extraordinary levels. He can move quickly in armor, sustain combat longer than most, and recover from physical exertion rapidly.
 - **Authoritative Military Leadership**: Soldiers under his command respect him without question. His calm under pressure and clear judgment create confidence and cohesion in his units.
 - **Survival and Awareness**: His experiences have made him supremely aware of environmental dangers, potential threats, and the signs of impending disaster. Few can match his ability to predict when situations are about to deteriorate.
@@ -460,38 +460,38 @@ Deep down, Árshazûr fears civilian life and what it might require of him—the
 ### Weaknesses
 
 - **Emotional Toll of Combat**: The cumulative weight of eighteen years of warfare has left him carrying wounds he has never faced. He experiences nightmares, unexpected emotional reactions, and difficulty with trust.
-- **Limited Adaptability**: Árshazûr relies on proven methods and struggles to quickly adopt new tactics or strategies. Once he has learned a method, changing it feels almost impossible, even when circumstances demand it.
+- **Limited Adaptability**: Árshazur relies on proven methods and struggles to quickly adopt new tactics or strategies. Once he has learned a method, changing it feels almost impossible, even when circumstances demand it.
 - **Difficulty with Non-Military Solutions**: Having spent nearly his entire adult life in military structures where problems are solved through force or hierarchy, he struggles to imagine or implement alternatives. He is uncomfortable with negotiation, persuasion, or compromise.
 - **Social Isolation**: His military discipline and emotional suppression create distance from most people. He maintains few real friendships outside his immediate command.
-- **Declining Physical Peak**: At thirty-six, Árshazûr remains a dangerous fighter, but younger soldiers are beginning to match his abilities. He recognizes this decline with growing anxiety and occasionally compensates with unnecessary aggression.
+- **Declining Physical Peak**: At thirty-six, Árshazur remains a dangerous fighter, but younger soldiers are beginning to match his abilities. He recognizes this decline with growing anxiety and occasionally compensates with unnecessary aggression.
 
 ## Social
 
 ### Patrons
 
 Lord Commander Mazitos of the Eastern March
-: The military commander who has overseen Árshazûr's service for the past decade. Mazitos respects Árshazûr's judgment and frequently seeks his counsel on tactical matters.
+: The military commander who has overseen Árshazur's service for the past decade. Mazitos respects Árshazur's judgment and frequently seeks his counsel on tactical matters.
 
-Lady Merchant Mâzhreléna Olkadákit
-: A wealthy merchant widow who provides supplies to the garrison and has developed a private relationship with Árshazûr. She offers both material support and emotional companionship.
+Lady Merchant Mazhrelena Olkadakit
+: A wealthy merchant widow who provides supplies to the garrison and has developed a private relationship with Árshazur. She offers both material support and emotional companionship.
 
 The Monastery of Saint Florantine
-: A religious order that provides counsel and spiritual support to soldiers scarred by war. Árshazûr attends irregularly but finds their refusal to judge helpful.
+: A religious order that provides counsel and spiritual support to soldiers scarred by war. Árshazur attends irregularly but finds their refusal to judge helpful.
 
 ### Enemies
 
-Captain Zhâmbelikos Kîtvârzát of the Rival Legion
-: A competitor from a neighboring military unit whose unit was chosen for a prestigious campaign over Árshazûr's. Zhâmbelikos harbors deep resentment and seeks opportunities to undermine Árshazûr's reputation.
+Captain Zhambelikos Kitvarzát of the Rival Legion
+: A competitor from a neighboring military unit whose unit was chosen for a prestigious campaign over Árshazur's. Zhambelikos harbors deep resentment and seeks opportunities to undermine Árshazur's reputation.
 
 The Bandit Lord Thessarios
-: A criminal leader whose network Árshazûr's unit destroyed several years ago. Thessarios survived and harbors lethal grudges against Árshazûr personally.
+: A criminal leader whose network Árshazur's unit destroyed several years ago. Thessarios survived and harbors lethal grudges against Árshazur personally.
 
 ### Affiliations
 
-The Byzarian League Military
+The Bizarian League Military
 : Serving as a commissioned captain in the League's Eastern March garrison.
 
-The Order of Lîzêlâs (Fertility Aspect)
+The Order of Lizelas (Fertility Aspect)
 : A nominal adherent who maintains the faith of his childhood, though his military service has complicated his relationship with the goddess of growth and creation.
 
 The Veterans' Society
@@ -499,12 +499,12 @@ The Veterans' Society
 
 ## Plot Hooks
 
-1. **The Impossible Order**: Árshazûr receives orders from a superior officer to carry out an action that he recognizes as dishonorable—attacking a civilian settlement to secure the border, or executing prisoners under the guise of military necessity. Refusing would end his service; compliance would shatter something fundamental in his character. He must make this impossible choice while determining whether the order is legitimate or originates from someone with darker motives.
+1. **The Impossible Order**: Árshazur receives orders from a superior officer to carry out an action that he recognizes as dishonorable—attacking a civilian settlement to secure the border, or executing prisoners under the guise of military necessity. Refusing would end his service; compliance would shatter something fundamental in his character. He must make this impossible choice while determining whether the order is legitimate or originates from someone with darker motives.
 
-2. **The Recruit with a Secret**: A promising young recruit in Árshazûr's unit proves to be **Polykarîn**, the illegitimate son of an enemy general from a previous conflict. When Árshazûr discovers the connection, he can report Polykarîn and potentially destroy a promising soldier's prospects, or protect him while risking the garrison's safety and his own authority if discovered.
+2. **The Recruit with a Secret**: A promising young recruit in Árshazur's unit proves to be **Polykarin**, the illegitimate son of an enemy general from a previous conflict. When Árshazur discovers the connection, he can report Polykarin and potentially destroy a promising soldier's prospects, or protect him while risking the garrison's safety and his own authority if discovered.
 
-3. **The Monastery's Message**: Clergy from the Monastery of Saint Florantine approach Árshazûr with evidence that a significant portion of the military leadership is being covertly influenced or manipulated by hidden powers with interests contrary to the League's declared aims. They ask him to investigate and expose the conspiracy, which would require him to betray his own commanders.
+3. **The Monastery's Message**: Clergy from the Monastery of Saint Florantine approach Árshazur with evidence that a significant portion of the military leadership is being covertly influenced or manipulated by hidden powers with interests contrary to the League's declared aims. They ask him to investigate and expose the conspiracy, which would require him to betray his own commanders.
 
-4. **The Retired Warrior's Appeal**: An aging veteran named **Valen**, who trained Árshazûr twenty years ago, appears with a request: help him investigate and execute vengeance against officers who, decades past, sacrificed an entire unit unnecessarily. Árshazûr recognizes the truth in Valen's accusations, but agreeing to help would constitute rebellion against military authority.
+4. **The Retired Warrior's Appeal**: An aging veteran named **Valen**, who trained Árshazur twenty years ago, appears with a request: help him investigate and execute vengeance against officers who, decades past, sacrificed an entire unit unnecessarily. Árshazur recognizes the truth in Valen's accusations, but agreeing to help would constitute rebellion against military authority.
 
-5. **The War That Never Ends**: Árshazûr discovers that his own retirement, long anticipated as the conclusion of his military obligation, has been quietly canceled by a clerk's hand. The army, recognizing his value, has marked him for service without end. Trapped in an order that no longer permits exit, Árshazûr can attempt escape, accept permanent captivity to the army, or find a way to force it to honor its original commitments.
+5. **The War That Never Ends**: Árshazur discovers that his own retirement, long anticipated as the conclusion of his military obligation, has been quietly canceled by a clerk's hand. The army, recognizing his value, has marked him for service without end. Trapped in an order that no longer permits exit, Árshazur can attempt escape, accept permanent captivity to the army, or find a way to force it to honor its original commitments.

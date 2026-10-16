@@ -3,7 +3,7 @@ shortcode: pewayeclt
 name: {full: Pewaye, aliases: [Edge-people]}
 type: lore
 subType: culture
-description: "The edge-people of the central Xerathian forest: tribes of the margins, north and south, who hold the line between the forest and the world outside it."
+description: "The edge-people of the central Zerathian forest: tribes of the margins, north and south, who hold the line between the forest and the world outside it."
 tags: [draft]
 data:
   language: skill-ekpelulng
@@ -22,7 +22,7 @@ The **Pewaye** are the edge-people, one of the four traditions of the [[lore-bik
 
 ## Where They Live
 
-Pewaye tribes live along the margins of the [[place-cntrlrnfrsts|Central Rainforests]], where the forest breaks into grass. In the north their neighbours are [[lore-okharinclt|Okhárin]] herders, who bring their cattle to the forest's edge in the dry season. In the south their neighbours are the Sengala of the [[affiliation-nylbtrblntn|Nyáluba]], the [[affiliation-nyalbleop|leopard-clan]] that trades north across the grass-and-tree belt.
+Pewaye tribes live along the margins of the [[place-cntrlrnfrsts|Central Rainforests]], where the forest breaks into grass. In the north their neighbours are [[lore-okharinclt|Okharin]] herders, who bring their cattle to the forest's edge in the dry season. In the south their neighbours are the Sengala of the [[affiliation-nylbtrblntn|Nyáluba]], the [[affiliation-nyalbleop|leopard-clan]] that trades north across the grass-and-tree belt.
 
 ## How They Live
 
@@ -77,5 +77,5 @@ What the outsider does not see is that the leader holds that place only while th
 - [[lore-bikoclt|Biko]]—the forest peoples
 - [[place-cntrlrnfrsts|Central Rainforests]]—the forest
 - [[skill-ekpelulng|Ekpelu]]—the tongue
-- [[lore-okharinclt|Okhárin]]—the northern neighbours
+- [[lore-okharinclt|Okharin]]—the northern neighbours
 - [[affiliation-nyalbleop|Leopard Totem]]—the guide of the Sengala, the southern neighbours

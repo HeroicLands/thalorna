@@ -3,7 +3,7 @@ shortcode: swearbaobab
 name: {full: The Swearing Under the Baobab, aliases: []}
 type: lore
 subType: literature
-description: "The lion cult's memory-song of the Long Pact's swearing: the five clans, the five terms and Nyóli Ruwozi's words, sung by a griot and answered by the gathered."
+description: "The lion cult's memory-song of the Long Pact's swearing: the five clans, the five terms and Nyoli Ruwozi's words, sung by a griot and answered by the gathered."
 tags: [draft, nyaluba]
 data:
   packFolder: politiesnyaluba
@@ -13,7 +13,7 @@ data:
   language: nyalbnlng
 ---
 
-**The Swearing Under the Baobab** is the memory-song of the [[affiliation-nylbtrblntn|Long Pact]]'s swearing, held by the [[affiliation-nyalblion|Lion Totem]] and kept by the Griot of the Ruwozi. It is praise poetry in the griot's call and the hearers' answer: the griot names, and those gathered return the name. A memory-song is evidence as well as praise, so the hearers' answers also serve as a check, and the song is sung before people who already know it. The [[skill-griot|griot]] holds it to its received length, keeps [[affiliation-nylbtrblntn|Nyóli Ruwozi]]'s sentence whole, and says of the lion only that it was witness. Of the catastrophe that drove the five clans together, the song keeps what the Lobwezi griots hold and nothing more. In the text below, the indented lines in italics are the answer of those gathered.
+**The Swearing Under the Baobab** is the memory-song of the [[affiliation-nylbtrblntn|Long Pact]]'s swearing, held by the [[affiliation-nyalblion|Lion Totem]] and kept by the Griot of the Ruwozi. It is praise poetry in the griot's call and the hearers' answer: the griot names, and those gathered return the name. A memory-song is evidence as well as praise, so the hearers' answers also serve as a check, and the song is sung before people who already know it. The [[skill-griot|griot]] holds it to its received length, keeps [[affiliation-nylbtrblntn|Nyoli Ruwozi]]'s sentence whole, and says of the lion only that it was witness. Of the catastrophe that drove the five clans together, the song keeps what the Lobwezi griots hold and nothing more. In the text below, the indented lines in italics are the answer of those gathered.
 
 : The Swearing Under the Baobab {#song}
 
@@ -75,7 +75,7 @@ Ruwozi of the cattle and of the challenge made in the open,
 first of the five, because the tree was theirs to stand under.
 
 And who spoke for the lion?
-  _Nyóli Ruwozi._
+  _Nyoli Ruwozi._
 Say what the name is.
   _Daughter of the Lion._
 Every senior woman of the lion carries that name now.
@@ -107,7 +107,7 @@ That is the whole hand.
 
 Some under the tree wanted more than a hand.
 They wanted a house built over the five.
-And Nyóli Ruwozi answered them. Hear her whole:
+And Nyoli Ruwozi answered them. Hear her whole:
 "We are not building a kingdom.
 We are agreeing not to destroy each other.
 The rest is for our daughters to decide for themselves."

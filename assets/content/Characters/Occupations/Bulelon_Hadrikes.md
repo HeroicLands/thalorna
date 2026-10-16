@@ -1,6 +1,6 @@
 ---
 shortcode: blnhdrks
-name: {full: Bûlêlon Hâdrîkês, aliases: []}
+name: {full: Bulelon Hadrikes, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,23 +392,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Bûlêlon Hâdrîkês is a 41-year-old man who stands 5'7" tall and is of moderate build. He has an angular face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows and give him a lively gaze. He has a prominent nose and wide lips. He has light skin with an olive-toned complexion. His dark brown hair is combed neatly to one side.
+Bulelon Hadrikes is a 41-year-old man who stands 5'7" tall and is of moderate build. He has an angular face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows and give him a lively gaze. He has a prominent nose and wide lips. He has light skin with an olive-toned complexion. His dark brown hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Bûlêlon Hâdrîkês is a scholar of Therádon, the philosophers' city of [[place-helionis|Heliónis]], a Helionite of an old house who lectures at the city's Plûmepistémion (the Academy of Knowledge) chapterhouse on the history of the Vylarian conquest and digs for what the record left out.
+Bulelon Hadrikes is a scholar of Theradon, the philosophers' city of [[place-helionis|Helionis]], a Helionite of an old house who lectures at the city's Epistémion (the Academy of Knowledge) chapterhouse on the history of the Vylarian conquest and digs for what the record left out.
 
-Bûlêlon comes of a house that has sat in the assembly of Therádon for six generations, and the assembly's oligarchs hold that a Therádon citizen's duty is to know more than anyone else. He took the duty literally. He has spent twenty-five years on the Helionite city-states before and during the conquest, reading in the chapterhouse's library, which holds texts older than the empire, and traveling to the old battlefields and the ruins of the mage-warlords' seats to find what nobody has read. He lectures to full halls, and his students leave knowing what the old texts say and where the record stops. It stops, he has found, at the same place every time: the disbanding of the Dragon Riders, of which the Republic's histories say nothing honest and the chapterhouse's oldest fragments say something. He has no idea how much of what he says in a lecture hall is heard outside it.
+Bulelon comes of a house that has sat in the assembly of Theradon for six generations, and the assembly's oligarchs hold that a Theradon citizen's duty is to know more than anyone else. He took the duty literally. He has spent twenty-five years on the Helionite city-states before and during the conquest, reading in the chapterhouse's library, which holds texts older than the empire, and traveling to the old battlefields and the ruins of the mage-warlords' seats to find what nobody has read. He lectures to full halls, and his students leave knowing what the old texts say and where the record stops. It stops, he has found, at the same place every time: the disbanding of the Dragon Riders, of which the Republic's histories say nothing honest and the chapterhouse's oldest fragments say something. He has no idea how much of what he says in a lecture hall is heard outside it.
 
 ## Psyche
 
 ### Personality
 
-Bûlêlon is gentle, absent and single-minded, at ease with a text or a student and helpless with anything else. He is modest about his findings and immodest about the questions.
+Bulelon is gentle, absent and single-minded, at ease with a text or a student and helpless with anything else. He is modest about his findings and immodest about the questions.
 
 ### Motivation
 
-Bûlêlon wants the past kept whole for whoever comes after, and he wants to find the piece of it the record dropped at the Dragon Riders. He does not think of the second as dangerous, which is the whole of the danger.
+Bulelon wants the past kept whole for whoever comes after, and he wants to find the piece of it the record dropped at the Dragon Riders. He does not think of the second as dangerous, which is the whole of the danger.
 
 ### Strengths
 
@@ -416,24 +416,24 @@ Deeply learned, a clear speaker, a fine reader of old texts.
 
 ## Social
 
-Bûlêlon holds a lectureship at the Plûmepistémion chapterhouse of Therádon and a seat in the city's assembly by his house's right, which he attends when reminded.
+Bulelon holds a lectureship at the Epistémion chapterhouse of Theradon and a seat in the city's assembly by his house's right, which he attends when reminded.
 
 ## Companions
 
 ### Patrons
 
-Bûlêlon's patrons are the oligarchs of the Therádon assembly, who fund the chapterhouse's library and count his lectures among the city's ornaments.
+Bulelon's patrons are the oligarchs of the Theradon assembly, who fund the chapterhouse's library and count his lectures among the city's ornaments.
 
 ### Enemies
 
-A lecturer of the chapterhouse who holds that the conquest is settled history and Bûlêlon's questions are vanity; and the chapterhouse's senior officer, who answers to the Arcane Order and has begun to ask what the old man is digging for.
+A lecturer of the chapterhouse who holds that the conquest is settled history and Bulelon's questions are vanity; and the chapterhouse's senior officer, who answers to the Arcane Order and has begun to ask what the old man is digging for.
 
 ## Plot Hooks
 
-1. **The Fragment**—A student has brought Bûlêlon a leaf in a hand of the early Republic that names the man who betrayed the Dragon Riders. The student has told no one else, and the senior officer has asked to see the student.
+1. **The Fragment**—A student has brought Bulelon a leaf in a hand of the early Republic that names the man who betrayed the Dragon Riders. The student has told no one else, and the senior officer has asked to see the student.
 
-2. **The Artifact**—Bûlêlon has brought back from a sunken temple an object the fragments describe, and the Arcane Order's Sekran has written, courteously, to ask for it.
+2. **The Artifact**—Bulelon has brought back from a sunken temple an object the fragments describe, and the Arcane Order's Sekran has written, courteously, to ask for it.
 
-3. **The Thesis**—Bûlêlon's best student has written a thesis on the disbanding that says plainly what he has only asked, and means to read it before the assembly. The student is the senior officer's nephew.
+3. **The Thesis**—Bulelon's best student has written a thesis on the disbanding that says plainly what he has only asked, and means to read it before the assembly. The student is the senior officer's nephew.
 
-4. **The Seat**—The assembly has asked Bûlêlon to take his house's seat for one session and vote on the chapterhouse's funding, and both factions have sent to explain what the vote is about.
+4. **The Seat**—The assembly has asked Bulelon to take his house's seat for one session and vote on the chapterhouse's funding, and both factions have sent to explain what the vote is about.

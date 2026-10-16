@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-Veshvaan is the oldest and largest of the sanctuaries of the [[affiliation-tharivaan|Ithári'kaan]], the custodians of [[place-klhrcntnnt|Kalihara]]. It stands on a shoulder of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], below the summit where the Warm stands. Like every sanctuary it is seminary, archive, workshop and working site at once, and it holds the most extensive archives of inherited procedure on the island. Its deepest rooms hold the oldest of the first records: the carved slabs and inscribed plaques that the earliest Kaliharans cut to set down what they had been given. Only the sílhari'kaan and the most senior kaan'thári see them.
+Veshvaan is the oldest and largest of the sanctuaries of the [[affiliation-tharivaan|Ithakan]], the custodians of [[place-klhrcntnnt|Kalihara]]. It stands on a shoulder of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], below the summit where the Warm stands. Like every sanctuary it is seminary, archive, workshop and working site at once, and it holds the most extensive archives of inherited procedure on the island. Its deepest rooms hold the oldest of the first records: the carved slabs and inscribed plaques that the earliest Kaliharans cut to set down what they had been given. Only the silkan and the most senior kaan'thari see them.
 
-Veshvaan also keeps the island's count of years. Each sanctuary counts in Tenth-Year Walks, and the count since the departure of the [[lore-theithari|Ithári]] is kept here.
+Veshvaan also keeps the island's count of years. Each sanctuary counts in Tenth-Year Walks, and the count since the departure of the [[lore-theithari|Ithari]] is kept here.
 
 ## The Holding
 

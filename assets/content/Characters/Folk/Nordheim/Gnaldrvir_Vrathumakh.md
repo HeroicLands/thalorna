@@ -1,9 +1,9 @@
 ---
 shortcode: gnaldrvirvra
-name: {full: Gnaldrvir Vrathumakh, aliases: [Lord Gnaldrvir Vrathumakh]}
+name: {full: Gnaldrvir Vrathumak, aliases: [Lord Gnaldrvir Vrathumak]}
 type: being
 subType: npc
-description: A powerful noble and patron of the arts who regularly commissions ceremonial garments from Thrildvir Íseldr.
+description: A powerful noble and patron of the arts who regularly commissions ceremonial garments from Thrildvir Iseldr.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Gnaldrvir Vrathumakh is an 18-year-old man who stands 5'11" tall with a medium build. He has medium skin, weathered complexion, dark blonde hair, and brown eyes.
+Gnaldrvir Vrathumak is an 18-year-old man who stands 5'11" tall with a medium build. He has medium skin, weathered complexion, dark blonde hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Gnaldrvir Vrathumakh is a powerful noble and patron of the arts who regularly commissions ceremonial garments from [[being-thrldvrisldr|Thrildvir Íseldr]]. His commissions are regular and elaborate.
+Gnaldrvir Vrathumak is a powerful noble and patron of the arts who regularly commissions ceremonial garments from [[being-thrldvrisldr|Thrildvir Iseldr]]. His commissions are regular and elaborate.

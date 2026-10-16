@@ -1,6 +1,6 @@
 ---
 shortcode: cthbrtshrwn
-name: {full: Cuthbert Sherwin, aliases: []}
+name: {full: Kuthmund Sherwin, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -390,25 +390,25 @@ sohl:
 
 # Appearance {#appearance}
 
-Cuthbert Sherwin is a 52-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows and give him a lively gaze. He has a rounded nose and wide lips. He has fair skin with a fair complexion. His dark blonde hair is falling in loose waves.
+Kuthmund Sherwin is a 52-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows and give him a lively gaze. He has a rounded nose and wide lips. He has fair skin with a fair complexion. His dark blonde hair is falling in loose waves.
 
 # Dossier {#dossier}
 
-Cuthbert Sherwin is a woodcutter of Thornbury, the harbor seat of the Republic of Ondareth in [[place-aelwyth|Aelwyth]], an Aelwythan freeman who has cut timber in the woods behind the town for thirty-five years and planted more trees than he has felled.
+Kuthmund Sherwin is a woodcutter of Thornbury, the harbor seat of the Republic of Ondareth in [[place-aelwyth|Aelwyth]], an Aelwythan freeman who has cut timber in the woods behind the town for thirty-five years and planted more trees than he has felled.
 
-The harbor at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Cuthbert has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from Vylaria a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
+The harbor at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Kuthmund has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from Vylaria a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
 
-In Thornbury, cutters know Cuthbert as the old man with the saplings.
+In Thornbury, cutters know Kuthmund as the old man with the saplings.
 
 ## Psyche
 
 ### Personality
 
-Cuthbert is cheerful, stubborn and set in his methods, and slower than he used to be to admit it.
+Kuthmund is cheerful, stubborn and set in his methods, and slower than he used to be to admit it.
 
 ### Motivation
 
-Cuthbert wants the woods behind Thornbury standing for the next man, because somebody left them standing for him. He wants the young cutters to learn the axe and the reasons before they learn the saw.
+Kuthmund wants the woods behind Thornbury standing for the next man, because somebody left them standing for him. He wants the young cutters to learn the axe and the reasons before they learn the saw.
 
 ### Strengths
 
@@ -416,13 +416,13 @@ Experienced, physically strong, resilient, committed to keeping the woods in gro
 
 ## Social
 
-Cuthbert is a member of the Woodcutters' Guild of Thornbury and has been its warden twice.
+Kuthmund is a member of the Woodcutters' Guild of Thornbury and has been its warden twice.
 
 ## Companions
 
 ### Patrons
 
-Cuthbert's patrons are the shipwrights and wharf-builders of Thornbury harbor, who pay a little over the rate for Sherwin oak because it is seasoned honestly and comes from a wood that will still be there for the next keel.
+Kuthmund's patrons are the shipwrights and wharf-builders of Thornbury harbor, who pay a little over the rate for Sherwin oak because it is seasoned honestly and comes from a wood that will still be there for the next keel.
 
 ### Enemies
 
@@ -430,10 +430,10 @@ The cutting crews that work by contract for the senators' timber-factors, who cl
 
 ## Plot Hooks
 
-1. **The Senator's Wood**—A senator has bought the slope Cuthbert has worked and replanted for twenty years and let it to a contract crew to clear for the harbor. The saplings are his by nobody's law but his own.
+1. **The Senator's Wood**—A senator has bought the slope Kuthmund has worked and replanted for twenty years and let it to a contract crew to clear for the harbor. The saplings are his by nobody's law but his own.
 
-2. **The Boy and the Saw**—One of the young cutters Cuthbert trained has lost a hand to a Vylarian saw on a contract crew, and the crew's master says the boy was careless. Cuthbert says the saw was, and the guild has been asked to rule.
+2. **The Boy and the Saw**—One of the young cutters Kuthmund trained has lost a hand to a Vylarian saw on a contract crew, and the crew's master says the boy was careless. Kuthmund says the saw was, and the guild has been asked to rule.
 
-3. **Planting on Another Man's Ground**—Cuthbert has been setting saplings for years on a cleared slope that belongs to a family in the senate, without asking. The family has noticed.
+3. **Planting on Another Man's Ground**—Kuthmund has been setting saplings for years on a cleared slope that belongs to a family in the senate, without asking. The family has noticed.
 
-4. **The Guild Vote**—The Woodcutters' Guild is to vote on admitting the two-man saw to its standard, which would let the contract crews take guild apprentices. Cuthbert is the senior man against it.
+4. **The Guild Vote**—The Woodcutters' Guild is to vote on admitting the two-man saw to its standard, which would let the contract crews take guild apprentices. Kuthmund is the senior man against it.

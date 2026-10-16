@@ -1,6 +1,6 @@
 ---
 shortcode: youwei
-name: {full: "Ritual: Yòuwéi", aliases: [Yòuwéi]}
+name: {full: "Ritual: Youwéi", aliases: [Youwéi]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-youwei|Yòuwéi]]
+See [[affiliation-youwei|Youwéi]]

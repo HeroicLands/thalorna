@@ -1,9 +1,9 @@
 ---
 shortcode: lifizinkrego
-name: {full: Lifizîn Kregokhash, aliases: [Brother Lifizîn Kregokhash]}
+name: {full: Lifizin Kregokhash, aliases: [Brother Lifizin Kregokhash]}
 type: being
 subType: npc
-description: A monk keeper of Mârendâs's Monastery who acknowledges that Mivios Zapemês's work serves a purpose.
+description: A monk keeper of Marendas's Monastery who acknowledges that Mivios Zapemes's work serves a purpose.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Lifizîn Kregokhash is a 53-year-old man who stands 6'4" tall with a heavy build. He has tanned skin, sun-kissed complexion, dark brown hair, and hazel eyes.
+Lifizin Kregokhash is a 53-year-old man who stands 6'4" tall with a heavy build. He has tanned skin, sun-kissed complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Lifizîn Kregokhash is a monk and keeper of Mârendâs's Monastery. He acknowledges that the work of [[being-drknsdlsns|Mivios Zapemês]] serves a purpose and brings him evidence that the wilderness of the Byzarian League is dying from systematic poaching and land clearing.
+Lifizin Kregokhash is a monk and keeper of Marendas's Monastery. He acknowledges that the work of [[being-drknsdlsns|Mivios Zapemes]] serves a purpose and brings him evidence that the wilderness of the Bizarian League is dying from systematic poaching and land clearing.

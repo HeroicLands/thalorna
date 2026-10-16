@@ -1,6 +1,6 @@
 ---
 shortcode: qeltiemhequ2
-name: {full: Qelti Emhequ, aliases: []}
+name: {full: Qelti Emheku, aliases: []}
 type: being
 subType: npc
 description: "A wealthy merchant lord whose interests reach into several trades and whose name opens most doors in the capital"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Qelti Emhequ is a 44-year-old man who stands 6'6" tall with a massive build. He has dark brown skin, greying black hair, and brown eyes.
+Qelti Emheku is a 44-year-old man who stands 6'6" tall with a massive build. He has dark brown skin, greying black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Qelti Emhequ trades as a wealthy merchant lord out of [[place-galezkara|Galezkara]], with interests reaching into several trades at once. His name opens most doors in the capital before his business does. Anyone needing a door opened quickly learns whose name to mention first.
+Qelti Emheku trades as a wealthy merchant lord out of [[place-galezkara|Galezkara]], with interests reaching into several trades at once. His name opens most doors in the capital before his business does. Anyone needing a door opened quickly learns whose name to mention first.

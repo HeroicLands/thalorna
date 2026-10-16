@@ -1,6 +1,6 @@
 ---
 shortcode: tzalamtzltl
-name: {full: Tz’alam Tz'ultel, aliases: []}
+name: {full: Ts’alam Ts'ultel, aliases: []}
 type: place
 subType: settlement
 description: "Fortress City"
@@ -10,22 +10,22 @@ data: {demonym: null, lore: [], parents: [ixbaltzakurgn], population: 15000, pac
 
 ## Overview
 
-Tz’alam Tz'ultel, "The House of the Mountain," is a fortress-city built high in the passes of the great mountain range that bisects [[affiliation-ixbaltzaku|Ix’bal Tza’ku]]. Its primary purpose is military and strategic—to defend the highland passes against external threat and to control the flow of goods and peoples through the mountain corridors. The city is built into the mountain itself; much of its architecture is carved directly from living rock, making it nearly impregnable to assault.
+Ts’alam Ts'ultel, "The House of the Mountain," is a fortress-city built high in the passes of the great mountain range that bisects [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]. Its primary purpose is military and strategic—to defend the highland passes against external threat and to control the flow of goods and peoples through the mountain corridors. The city is built into the mountain itself; much of its architecture is carved directly from living rock, making it nearly impregnable to assault.
 
 ## Location and Geography
 
-Tz’alam Tz'ultel perches at the highest navigable pass, positioned to command both northward and southward approaches. The city is built on multiple levels, extending deep into the mountain; the uppermost city is visible from great distances, but the true heart of the fortress extends far underground. Deep cisterns provide water, and underground chambers store vast quantities of provisions. The climate at this elevation is cool and often shrouded in mist, creating a perpetually mysterious atmosphere.
+Ts’alam Ts'ultel perches at the highest navigable pass, positioned to command both northward and southward approaches. The city is built on multiple levels, extending deep into the mountain; the uppermost city is visible from great distances, but the true heart of the fortress extends far underground. Deep cisterns provide water, and underground chambers store vast quantities of provisions. The climate at this elevation is cool and often shrouded in mist, creating a perpetually mysterious atmosphere.
 
 ## Military Role
 
-The city hosts the largest garrison of warriors in [[affiliation-ixbaltzaku|Ix’bal Tza’ku]]. Professional soldiers trained in mountain warfare and pass defense garrison the city year-round, and the priesthood maintains strict military discipline. The city controls all significant movement of goods through the high passes; merchants must declare their cargo and negotiate passage rights with the military commander. This control generates considerable revenue for the [[affiliation-itzanpnthn|Itzáni]] priesthood.
+The city hosts the largest garrison of warriors in [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]. Professional soldiers trained in mountain warfare and pass defense garrison the city year-round, and the priesthood maintains strict military discipline. The city controls all significant movement of goods through the high passes; merchants must declare their cargo and negotiate passage rights with the military commander. This control generates considerable revenue for the [[affiliation-itzanpnthn|Itsani]] priesthood.
 
 ## Society
 
-Tz’alam Tz'ultel is austere and martial in character. The population consists primarily of warriors, their families, supply personnel, and a small merchant class catering to garrison needs. There is little luxury, little entertainment, and little social flexibility. Rank and military standing determine all status; civilian merchants are tolerated only insofar as they serve the garrison’s needs.
+Ts’alam Ts'ultel is austere and martial in character. The population consists primarily of warriors, their families, supply personnel, and a small merchant class catering to garrison needs. There is little luxury, little entertainment, and little social flexibility. Rank and military standing determine all status; civilian merchants are tolerated only insofar as they serve the garrison’s needs.
 
 ## See Also
 
-- [[affiliation-ixbaltzaku|Ix’bal Tza’ku]]—The highland region
-- [[place-tzalamne|Tz’alam Ne’]]—The coastal port city
-- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that commands this fortress
+- [[affiliation-ixbaltzaku|Ish’bal Tsa’ku]]—The highland region
+- [[place-tzalamne|Ts’alam Ne’]]—The coastal port city
+- [[affiliation-itzanpnthn|Itsani]]—The priesthood that commands this fortress

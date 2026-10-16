@@ -3,7 +3,7 @@ shortcode: ustaranschsm
 name: {full: The Ústaran Schism, aliases: [The Splitting of the Forge-Lord]}
 type: lore
 subType: history
-description: "Roughly five hundred years ago a faction within the Ústaran clergy declared that the god's true nature was destruction—and the Aurèldían faith of the Forge-Lord split into the Sacred Forge and the Black Flame."
+description: "Roughly five hundred years ago a faction within the Ústaran clergy declared that the god's true nature was destruction—and the Aureldian faith of the Forge-Lord split into the Sacred Forge and the Black Flame."
 tags: [history, spine]
 data:
   culture: aureldianclt
@@ -56,7 +56,7 @@ data:
 ---
 
 **Ústaron** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno
-that consumes—and for most of the [[affiliation-arldnpnthn|Aurèldían Pantheon]]'s history that
+that consumes—and for most of the [[affiliation-arldnpnthn|Aureldian Pantheon]]'s history that
 duality was carried without difficulty. A god of fire was understood to be a god of both what fire
 makes and what it takes.
 

@@ -19,7 +19,7 @@ and cities. The [[lore-aelendnppl|Áelendan]], Nordmen and Vylari share ancestry
 while maintaining distinct customs and loyalties.
 
 Human craft and learning carry traces of contact with the
-[[lore-flkkhazar|Khazári]] and [[lore-flksinale|Sinalë]]. Scholars call this
+[[lore-flkkhazar|Khazari]] and [[lore-flksinale|Sinale]]. Scholars call this
 [[lore-longnhrtnc|the Long Inheritance]]. Its extent remains disputed, especially
 in healing, song and magic. Relations with the Elder Folk vary by country; most
-humans know the Sinalë only through stories.
+humans know the Sinale only through stories.

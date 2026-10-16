@@ -36,4 +36,4 @@ Thaharqo is a 34-year-old woman who stands 5'10" tall with a heavy build. She ha
 
 # Dossier {#dossier}
 
-Thaharqo keeps the Imperial forge out of [[place-anlaghzetun|Anlagh-Zetûn]]. The library of technique attached to the post is worth as much as the forge itself, and is considerably harder to reach. Anyone wanting access to that library needs the keeper's leave first.
+Thaharqo keeps the Imperial forge out of [[place-anlaghzetun|Anlagh-Zetun]]. The library of technique attached to the post is worth as much as the forge itself, and is considerably harder to reach. Anyone wanting access to that library needs the keeper's leave first.

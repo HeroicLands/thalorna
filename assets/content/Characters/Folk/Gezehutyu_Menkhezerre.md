@@ -1,6 +1,6 @@
 ---
 shortcode: gezhtymnkhz2
-name: {full: Gezehutyu Menkhezerre, aliases: [Gezê]}
+name: {full: Gezehutyu Menkhezerre, aliases: [Geze]}
 type: being
 subType: npc
 description: "A noble administrator of the middle rank, diligent, and unlikely ever to be promoted past the point where diligence is enough"

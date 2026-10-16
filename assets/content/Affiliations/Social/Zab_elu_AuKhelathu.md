@@ -1,6 +1,6 @@
 ---
 shortcode: zabaukhelath
-name: {full: Zab elu Aû'Khelâthu, aliases: [The Nobles of Aû'Khelâthu]}
+name: {full: Zab elu Au'Khelathu, aliases: [The Nobles of Au'Khelathu]}
 type: affiliation
 subType: fellowship
 description: The titled families of the empire, who hold land, office and the ear of the court, and who close ranks against outsiders with unusual speed
@@ -21,22 +21,18 @@ data:
         description: >-
           A person of the titled families who is cut from the roll, losing their land, office and access to the court.
       - level: 1
-        title: Of a Titled House
+        title: Zabu
         description: >-
           Born or married into one of the titled families.
       - level: 2
-        title: Legha'lutu or Zabet'lutu
-        description: >-
-          Master or mistress of an estate, holding a manor, its lands and its attached village.
-      - level: 3
-        title: Halzi'a
-        description: >-
-          Governs a selat, commanding its levies, collecting its taxes and dispensing its justice.
-      - level: 4
         title: Iru'palu
         description: >-
           Of the royal family or one of the handful of exalted houses, immediately below the throne.
-    offices: {}
+    offices:
+      Legha'lutu or Zabet'lutu: >-
+        Master or mistress of an estate, holding a manor, its lands and its attached village. Held by a Zabu.
+      Halzi'a: >-
+        Governs a selat, commanding its levies, collecting its taxes and dispensing its justice. Held by a Zabu.
   seat: null
   population: 0
   economy: []
@@ -50,13 +46,13 @@ data:
 
 A steward of a titled house, instructing a commoner who has just married in, says it kindly: "You are welcome here. Do not mistake the house for the empire."
 
-**Zab elu Aû'Khelâthu** is the fellowship of titled families across [[place-aukhelathrgq|Aû'Khelâthu]], holding between them most of the empire's land, office and access to the court's ear. Membership is hereditary rather than earned, and the fellowship's influence runs through marriage alliances and inherited appointment as much as through any formal structure. The families close ranks against outsiders with unusual speed. A person who marries into one house is of that house and not of the nobility at large, and the other houses do not count the marriage as theirs, so an ambitious commoner who marries into one titled house quickly learns how little that single connection buys among the rest. The fellowship's Halzi'a sit in [[affiliation-genzethalzia|the council of the selats]].
+**Zab elu Au'Khelathu** is the fellowship of titled families across [[place-aukhelathrgq|Au'Khelathu]], holding between them most of the empire's land, office and access to the court's ear. Membership is hereditary rather than earned, and the fellowship's influence runs through marriage alliances and inherited appointment as much as through any formal structure. The families close ranks against outsiders with unusual speed. A person who marries into one house is of that house and not of the nobility at large, and the other houses do not count the marriage as theirs, so an ambitious commoner who marries into one titled house quickly learns how little that single connection buys among the rest. The fellowship's Halzi'a sit in [[affiliation-genzethalzia|the council of the selats]].
 
 ## The Ladder
 
-Titles come before the personal name in address: the steward says Halzi'a **Lersaîs**, never Lersaîs Halzi'a.
+Titles come before the personal name in address: the steward says Halzi'a **Lersais**, never Lersais Halzi'a.
 
-The ladder runs in four rungs. Of a Titled House names anyone born or married into a family. A Legha'lutu or Zabet'lutu is master or mistress of an estate, holding a manor, its lands and its attached village. A Halzi'a governs a selat, commanding its levies, collecting its taxes and dispensing its justice. The Iru'palu is of the royal family or one of the handful of exalted houses, immediately below the throne.
+The ladder runs in two rungs above the roll. A Zabu is anyone born or married into a titled family. The Iru'palu is of the royal family or one of the handful of exalted houses, immediately below the throne. Two offices belong to a Zabu: a Legha'lutu or Zabet'lutu is master or mistress of an estate, holding a manor, its lands and its attached village, and a Halzi'a governs a selat, commanding its levies, collecting its taxes and dispensing its justice.
 
 ## Which House Speaks for You
 
@@ -64,5 +60,5 @@ If you are asked which house speaks for you, answer with the house that holds yo
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the region it belongs to
+- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to
 - [[affiliation-genzethalzia|Genzet'Halzi'a]]—the council where their governors sit

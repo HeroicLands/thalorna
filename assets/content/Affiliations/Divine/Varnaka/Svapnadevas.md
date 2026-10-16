@@ -14,18 +14,18 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the dream, honored at the edges of the day rather than at a fixed hour, with a dream-stone kept under each sleeper's pillow and renewed at the new moon, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnuka ordains into a sampradeya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the dream, honored at the edges of the day rather than at a fixed hour, with a dream-stone kept under each sleeper's pillow and renewed at the new moon, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
-        title: Patita
+        title: Patuta
         description: >-
-          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradāya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
+          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradeya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
       - level: 1
-        title: Upāsaka
+        title: Upasoka
         description: >-
           The lay devotee, keeping the household observance of the dream, honored at the edges of the day rather than at a fixed hour, with a dream-stone kept under each sleeper's pillow and renewed at the new moon. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2
-        title: Vratin
+        title: Vretin
         lore: vowdevoteernk
         description: >-
           "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
@@ -49,11 +49,11 @@ sohl: {system: {commonSkills: [sohl-sohl-skill-folklr, sohl-sohl-skill-sing]}}
 - **Domain:** visions, omens, prophecy, the inner life of sleep
 - **Symbol:** A crescent moon cradling a lotus stem
 - **Pronunciation:** _SWAP-nah-day-vahs_
-- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "Say it before you eat, and say it to someone. A dream nobody has heard is half a dream." The grandmother of a devout household says it to the grandchild who woke too early and is already reaching for the bread. Then she listens. In households that keep the **Host**, a dream that seems to matter is spoken aloud to another member of the family before the morning meal, so that it is committed to shared memory.
 
-The [[lore-svapnadevasdty|Svapnadevas]] are a celestial court, a host of spirits who weave dreams, carry omens and stand between mortal minds and the divine order. The Varnakan tradition holds them divine servants of [[lore-goddreams|The God of Dreams]], the elder deity known under many names elsewhere in [[place-ankrscntnnt|Ankaris Continent]] and beyond. The Varnaka do not name that greater deity directly, and they do not venerate it as the organized pantheons of the west venerate theirs. What they revere is the Host, through whom the dream-power of the elder god is felt in the world. Its devotees are seers, mystics, healers of disturbed minds and all those whose vocation requires them to read beneath the surface of events.
+The [[lore-svapnadevasdty|Svapnadevas]] are a celestial court, a host of spirits who weave dreams, carry omens and stand between mortal minds and the divine order. The Varnakan tradition holds them divine servants of [[lore-goddreams|The God of Dreams]], the elder deity known under many names elsewhere in [[place-ankrscntnnt|Ankaris Continent]] and beyond. The Varnuka do not name that greater deity directly, and they do not venerate it as the organized pantheons of the west venerate theirs. What they revere is the Host, through whom the dream-power of the elder god is felt in the world. Its devotees are seers, mystics, healers of disturbed minds and all those whose vocation requires them to read beneath the surface of events.
 
 ### What You See in Their Rooms
 
@@ -74,7 +74,7 @@ Silver mirrors are kept covered except at the moments of divination. Catching yo
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varnaka Pantheon]]
+- [[affiliation-varakpnthn|Varnuka Pantheon]]
 - [[lore-svapnadevasdty|Svapnadevas]]—the Host, and the theology of the dreaming court
-- [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]—the mystical assembly devoted to the Dreaming Host
+- [[affiliation-svapnasarisamaja|Svapnasari-sameja]]—the mystical assembly devoted to the Dreaming Host
 - [[lore-goddreams|The God of Dreams]]—the elder deity whose dream-power the Host serves

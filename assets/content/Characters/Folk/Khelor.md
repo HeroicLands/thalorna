@@ -1,6 +1,6 @@
 ---
 shortcode: khelor
-name: {full: Khelôr, aliases: []}
+name: {full: Khelor, aliases: []}
 type: being
 subType: npc
 description: "A younger brother, dead, whose loss his sister has never come to terms with and has poured into her work instead"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Khelôr is a 38-year-old man who stands 5'2" tall with a scant build. He has dark brown skin, dark brown hair, and dark brown eyes.
+Khelor is a 38-year-old man who stands 5'2" tall with a scant build. He has dark brown skin, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Khelôr was a younger brother, home in [[place-galezkara|Galezkara]], and is dead now. His sister has never come to terms with the loss, and has poured the grief into her work instead of setting it down. What she has built since is built, in part, on what she lost.
+Khelor was a younger brother, home in [[place-galezkara|Galezkara]], and is dead now. His sister has never come to terms with the loss, and has poured the grief into her work instead of setting it down. What she has built since is built, in part, on what she lost.

@@ -1,9 +1,9 @@
 ---
 shortcode: dalrenmorlin
-name: {full: Dálren Mórlineth, aliases: [Lord Dálren Mórlineth, Lord Dálren]}
+name: {full: Dalren Mórlineth, aliases: [Lord Dalren Mórlineth, Lord Dalren]}
 type: being
 subType: npc
-description: A nobleman whom Ídrisè Kórisvar has guarded before, who seems paranoid and frightened.
+description: A nobleman whom Ídrise Kórisvar has guarded before, who seems paranoid and frightened.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dálren Mórlineth is a 45-year-old man who stands 5'10" tall with a medium build. He has pale skin, weathered complexion, black hair, and brown eyes.
+Dalren Mórlineth is a 45-year-old man who stands 5'10" tall with a medium build. He has pale skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Dálren Mórlineth is a nobleman whom [[being-idriskrsvr|Ídrisè Kórisvar]] has guarded before. He seems paranoid and frightened, and is convinced that a hired assassin is hunting him.
+Dalren Mórlineth is a nobleman whom [[being-idriskrsvr|Ídrise Kórisvar]] has guarded before. He seems paranoid and frightened, and is convinced that a hired assassin is hunting him.

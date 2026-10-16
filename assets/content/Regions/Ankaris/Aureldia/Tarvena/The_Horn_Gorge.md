@@ -3,7 +3,7 @@ shortcode: horngorge
 name: {full: The Horn Gorge, aliases: [The Gorge of the Recall]}
 type: place
 subType: site
-description: "The blood-field below the plateau of Lezkóra where a Vylarian legion died about 143 AF, a moderate recurrence in which the legion's horns sound the recall on autumn nights."
+description: "The blood-field below the plateau of Lezkora where a Vylarian legion died about 143 AF, a moderate recurrence in which the legion's horns sound the recall on autumn nights."
 tags: [gorge, haunted]
 data:
   demonym: null
@@ -13,7 +13,7 @@ data:
   packFolder: tarvenia
 ---
 
-The Horn Gorge is a long cleft in the rock below [[place-lezkora|Lezkóra]], too narrow for a road and too steep for a flock. It is not used as a way through, and the mountain people say so as a matter of course.
+The Horn Gorge is a long cleft in the rock below [[place-lezkora|Lezkora]], too narrow for a road and too steep for a flock. It is not used as a way through, and the mountain people say so as a matter of course.
 
 ## The Field
 
@@ -29,16 +29,16 @@ At the upper end the Astúrathi raised a cairn after the battle. They leave noth
 
 - **Astúrathi shepherds**, by day and never to stay.
 - **Vylarian antiquarians**, who want the legion's name and its standards.
-- **Pilgrims of the Sacred Forge**, who climb to Lezkóra by the path above the gorge.
+- **Pilgrims of the Sacred Forge**, who climb to Lezkora by the path above the gorge.
 
 ## Hooks
 
-- **The paychest.** The legion's strongbox was never found, and nobody in Astúrath will say whether it was looked for.
+- **The paychest.** The legion's strongbox was never found, and nobody in Asturath will say whether it was looked for.
 - **A name read at the cairn.** A Vylarian family wants a name read aloud there, which may be the beginning of a settlement or of something worse.
 - **The recall.** Someone has begun to answer the horns, and the answer comes from higher up the gorge.
 
 ## See Also
 
 - [[lore-horngorgebtl|The Battle of the Horn Gorge]]—the battle that made it
-- [[place-asturath|Astúrath]] · [[place-lezkora|Lezkóra]]
+- [[place-asturath|Asturath]] · [[place-lezkora|Lezkora]]
 - [[lore-bloodfield|Blood-fields]]—what a recurrence is

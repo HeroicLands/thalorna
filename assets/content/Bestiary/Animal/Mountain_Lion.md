@@ -238,7 +238,7 @@ In the soft earth below the ledge a line of round prints crosses the stream, fou
 
 # Dossier {#dossier}
 
-The Mountain Lion is the large lone cat of the mountains and scrub, six to eight feet long and eighty to two hundred twenty pounds. It hunts the forested mountains of [[place-ixbalkiahkrgn|Ix'bal Ki'ahk]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tza'kul]] and the highlands of [[place-ixilankulrgn|Ix'ilankul]], taking deer and wild goats. It avoids people and larger threats and prefers to hunt unseen.
+The Mountain Lion is the large lone cat of the mountains and scrub, six to eight feet long and eighty to two hundred twenty pounds. It hunts the forested mountains of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tsa'kul]] and the highlands of [[place-ixilankulrgn|Ish'ilankul]], taking deer and wild goats. It avoids people and larger threats and prefers to hunt unseen.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A sleek, aerodynamic cat, lean and muscular, with long, powerful hind legs for j
 
 ## In the Land
 
-Mountain lions hunt the forested mountains of [[place-ixbalkiahkrgn|Ix'bal Ki'ahk]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tza'kul]] and the highlands of [[place-ixilankulrgn|Ix'ilankul]]. A lion holds a range of forty square miles or more with several lying-up places in rock or thick cover, and it follows the deer and the wild goats through the seasons. It hunts at dusk and dawn and covers its kills with leaves.
+Mountain lions hunt the forested mountains of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk]], the piedmont and mesa country of the northern reaches, the scrub at the edge of [[place-chakultzklrgn|Ch'akul Tsa'kul]] and the highlands of [[place-ixilankulrgn|Ish'ilankul]]. A lion holds a range of forty square miles or more with several lying-up places in rock or thick cover, and it follows the deer and the wild goats through the seasons. It hunts at dusk and dawn and covers its kills with leaves.
 
 ## Key Behaviors
 

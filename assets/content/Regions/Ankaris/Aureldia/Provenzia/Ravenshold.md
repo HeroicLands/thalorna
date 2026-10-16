@@ -3,7 +3,7 @@ shortcode: ravenshold
 name: {full: Ravenshold, aliases: []}
 type: place
 subType: region
-description: "The dukedom of a powerful Provenzian noble who keeps a discreet, four-year arrangement with the courtesan Kelèna Estilgòn."
+description: "The dukedom of a powerful Provenzian noble who keeps a discreet, four-year arrangement with the courtesan Kelena Estilgon."
 tags: [draft]
 data:
   demonym: null
@@ -16,13 +16,13 @@ data:
 
 ## Overview
 
-Ravenshold is a dukedom of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]], and its lord, **the Duke of Ravenshold**, is a noble of considerable influence. The duchy gives him wealth enough to be generous and standing enough that his private matters are worth protecting.
+Ravenshold is a dukedom of the [[affiliation-kngdmprvnz|Kingdom of Provenzia]], and its lord, **the Duke of Ravenshold**, is a noble of considerable influence. The duchy gives him wealth enough to be generous and standing enough that his private matters are worth protecting.
 
 ## The Duke's Arrangement
 
-For four years the duke has kept an arrangement with [[being-kelnstylgn|Kelèna Estilgòn]], a courtesan of [[place-pirnebris|Pirnebrìs]]. It is more transaction than intimacy, though he is fond of her: he provides substantial financial support, and she provides her company and her discretion about his private affairs.
+For four years the duke has kept an arrangement with [[being-kelnstylgn|Kelena Estilgon]], a courtesan of [[place-pirnebris|Pirnebris]]. It is more transaction than intimacy, though he is fond of her: he provides substantial financial support, and she provides her company and her discretion about his private affairs.
 
 ## See Also
 
-- [[being-kelnstylgn|Kelèna Estilgòn]]—the courtesan the duke supports
-- [[place-provenzrgn|Provènzia Region]]—the kingdom's land
+- [[being-kelnstylgn|Kelena Estilgon]]—the courtesan the duke supports
+- [[place-provenzrgn|Provenzia Region]]—the kingdom's land

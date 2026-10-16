@@ -3,7 +3,7 @@ shortcode: kubindoclt
 name: {full: Kubindo, aliases: [Court-keepers]}
 type: lore
 subType: culture
-description: "The court-keepers of the central Xerathian forest: foraging tribes each bound to one spirit-place, whose manners an elder keeps."
+description: "The court-keepers of the central Zerathian forest: foraging tribes each bound to one spirit-place, whose manners an elder keeps."
 tags: [draft]
 data:
   language: skill-ekpelulng

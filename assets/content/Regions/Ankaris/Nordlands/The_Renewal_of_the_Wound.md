@@ -3,12 +3,12 @@ shortcode: renewalwound
 name: {full: The Renewal of the Wound, aliases: []}
 type: lore
 subType: custom
-description: "The cut made into the rock at Holafell at the turn of every winter, which the Faith of Hrímthur keeps open on purpose as the founding violence done to the Rime-Giant."
+description: "The cut made into the rock at Holafell at the turn of every winter, which the Faith of Hrimthur keeps open on purpose as the founding violence done to the Rime-Giant."
 tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-Once a year, at the turn of winter, an adherent of the [[affiliation-hrimthur|Faith of Hrímthur]] cuts into the rock of [[place-holafell|Holafell]], and nobody mends the cut before the next one. The **Renewal of the Wound** is the faith's chief rite, and it is performed upon the god rather than offered to him: [[lore-hrimthurspr|Hrímthur]] grants nothing and answers nothing, and the cut is the memory of what was done to him.
+Once a year, at the turn of winter, an adherent of the [[affiliation-hrimthur|Faith of Hrimthur]] cuts into the rock of [[place-holafell|Holafell]], and nobody mends the cut before the next one. The **Renewal of the Wound** is the faith's chief rite, and it is performed upon the god rather than offered to him: [[lore-hrimthurspr|Hrimthur]] grants nothing and answers nothing, and the cut is the memory of what was done to him.
 
 ## The Cutting
 
@@ -20,13 +20,13 @@ The pilgrimage to the cutting is the Walk to Holafell. It is made on foot in win
 
 ## How the Halls Read It
 
-The hofs of the [[affiliation-asguardian|Ten]] treat the Renewal as an accurate rite and refuse Holafell's rejection of the word _blót_; [[lore-thursblot|The Thursblót]] sets out the dispute. The Giant's Children stand closest to Holafell's reading. Their doctrine holds that the world's continued existence depends on the founding violence being renewed, and they fight in that conviction.
+The hovs of the [[affiliation-asguardian|Ten]] treat the Renewal as an accurate rite and refuse Holafell's rejection of the word _blet_; [[lore-thursblot|The Thursblet]] sets out the dispute. The Giant's Children stand closest to Holafell's reading. Their doctrine holds that the world's continued existence depends on the founding violence being renewed, and they fight in that conviction.
 
 Holafell also ties the rite to the famine of the [[lore-threewinters|Three Winters]]. In the account kept there, a predecessor failed to keep the wound open, and winter did not end until the next elder cut it again. That is Holafell's explanation of the famine and not an attested cause of it; the valley halls remember failed harvests, deaths and disputed acts without accepting the claim.
 
 ## See Also
 
-- [[place-holafell|Holafell]]—the oldest hof of Hrímthur, where the cut is made
-- [[affiliation-hrimthur|Faith of Hrímthur]]—the faith that keeps the wound open
-- [[lore-thursblot|Thursblót]]—the making of the world from the giant's body
+- [[place-holafell|Holafell]]—the oldest hov of Hrimthur, where the cut is made
+- [[affiliation-hrimthur|Faith of Hrimthur]]—the faith that keeps the wound open
+- [[lore-thursblot|Thursblet]]—the making of the world from the giant's body
 - [[affiliation-thursborn|The Giant's Children]]—the order that stands by the cutting

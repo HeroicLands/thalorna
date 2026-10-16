@@ -3,7 +3,7 @@ shortcode: bikoclt
 name: {full: Biko, aliases: [The Forest Peoples]}
 type: lore
 subType: culture
-description: "The forest peoples of central Xerathia: many small tribes in four loose traditions, one tongue, four standings and nothing above the tribe."
+description: "The forest peoples of central Zerathia: many small tribes in four loose traditions, one tongue, four standings and nothing above the tribe."
 tags: [draft]
 data:
   language: skill-ekpelulng
@@ -24,7 +24,7 @@ There are many tribes and every one is small. A band of a few families camps and
 
 ## One Tongue
 
-Every forest tribe speaks Ekpelu, and a band from one end of the forest can talk with a band from the other. The traditions speak it with different accents, which a forest person hears at the first sentence, and each has its own words for its sacred things, which it does not speak to outsiders and seldom to the other traditions. Ekpelu is a tonal tongue, and a call carries its words in pitch alone, so a band sends news across a valley by voice without a drum. The [[doc-ekpelulexcn|Ekpelu Lexicon]] gives the common words and the handful each tradition keeps.
+Every forest tribe speaks Ekpelu, and a band from one end of the forest can talk with a band from the other. The traditions speak it with different accents, audible from the first sentence, and each has its own words for its sacred things, which it does not speak to outsiders and seldom to the other traditions. Ekpelu is a tonal tongue, and a call carries its words in pitch alone, so a band sends news across a valley by voice without a drum. The [[skill-ekpelulng#lexicon|Ekpelu Lexicon]] gives the common words and the handful each tradition keeps.
 
 ## The Four Standings
 
@@ -53,7 +53,7 @@ What the forest _is_ differs by tradition: a host, a parent, a household of spir
 
 No forest person trades with a stranger. All trade between the forest and the outside world passes through a _gbeni_, a trade-friendship that binds one forest family to one outside family and passes from one generation to the next. The forest partner is the _gbenindo_, the keeper of the friendship, and only a gbenindo may take an outsider's goods into the forest or carry the forest's goods out.
 
-The forest sends out hardwood, ivory, hides, dyes and the plants that heal or intoxicate. It takes in metal, glass, salt and cloth. On the northern rivers the gbenindo deal with the river-posts of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and with [[lore-okharinclt|Okhárin]] river-factors and herders; on the southern margin they deal with the Sengala of the [[affiliation-nylbtrblntn|Nyáluba]], the [[affiliation-nyalbleop|leopard-clan]] that trades north. A merchant who goes past the gbenindo to deal with a deeper tribe finds the trade stopped, the trail lost, or the fever waiting.
+The forest sends out hardwood, ivory, hides, dyes and the plants that heal or intoxicate. It takes in metal, glass, salt and cloth. On the northern rivers the gbenindo deal with the river-posts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and with [[lore-okharinclt|Okharin]] river-factors and herders; on the southern margin they deal with the Sengala of the [[affiliation-nylbtrblntn|Nyáluba]], the [[affiliation-nyalbleop|leopard-clan]] that trades north. A merchant who goes past the gbenindo to deal with a deeper tribe finds the trade stopped, the trail lost, or the fever waiting.
 
 ## The Four Traditions
 
@@ -76,8 +76,8 @@ What the outsider cannot see is the tradition. The accents sound alike to an ear
 
 - [[place-cntrlrnfrsts|Central Rainforests]]—the forest
 - [[skill-ekpelulng|Ekpelu]]—the tongue
-- [[doc-ekpelulexcn|Ekpelu Lexicon]]—the words
+- [[skill-ekpelulng#lexicon|Ekpelu Lexicon]]—the words
 - [[lore-luwandoclt|Luwando]], [[lore-yesomaclt|Yesoma]], [[lore-kubindoclt|Kubindo]], [[lore-pewayeclt|Pewaye]]—the four traditions
 - [[place-lpdkngcrt|The Leopard King's Court]]—the feared tribe
 - [[lore-nyalubaclt|Nyáluba]]—the southern neighbours, through the Sengala
-- [[lore-okharinclt|Okhárin]]—the northern neighbours
+- [[lore-okharinclt|Okharin]]—the northern neighbours

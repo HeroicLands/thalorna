@@ -1,9 +1,9 @@
 ---
 shortcode: dokharesfadi
-name: {full: Dókharês Fàdîrôs, aliases: [Merchant Lord Dókharês Fàdîrôs]}
+name: {full: Dókhares Fadiros, aliases: [Merchant Lord Dókhares Fadiros]}
 type: being
 subType: npc
-description: A wealthy merchant engaged in systematic fraud within the agora marketplace, named in Gábêros Chàddâris.
+description: A wealthy merchant engaged in systematic fraud within the agorin marketplace, named in Gáberos Chaddaris.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dókharês Fàdîrôs is a 53-year-old man who stands 5'9" tall with a medium build. He has tanned skin, weathered complexion, chestnut hair, and hazel eyes.
+Dókhares Fadiros is a 53-year-old man who stands 5'9" tall with a medium build. He has tanned skin, weathered complexion, chestnut hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Dókharês Fàdîrôs is a wealthy merchant engaged in systematic fraud within the agora marketplace, misrepresenting goods and using deceptive practices. [[being-gabrschdrs|Gábêros Chàddâris]] knows of the fraud but lacks the evidence for a legal prosecution.
+Dókhares Fadiros is a wealthy merchant engaged in systematic fraud within the agorin marketplace, misrepresenting goods and using deceptive practices. [[being-gabrschdrs|Gáberos Chaddaris]] knows of the fraud but lacks the evidence for a legal prosecution.

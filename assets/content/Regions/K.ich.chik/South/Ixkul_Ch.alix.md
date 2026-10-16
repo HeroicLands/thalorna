@@ -1,6 +1,6 @@
 ---
 shortcode: ixkulchalix
-name: {full: Ixkul Ch’alix, aliases: []}
+name: {full: Ishkul Ch’alish, aliases: []}
 type: place
 subType: settlement
 description: "Temple City"
@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [kuxiixbalrgn], population: 14000, pack
 
 ## Overview
 
-Ixkul Ch’alix, "The Sacred Lake House," stands on the shore of the vast, mystical lake that dominates [[affiliation-kuxiixbal|K’uxi Ix'bal]]’s eastern reaches. The settlement is more temple-city than mercantile hub—a pilgrimage destination where the faithful journey to commune with the divine and peer, if only briefly, into the boundary between mortal and celestial realms. The lake itself is said to be the eye through which the gods observe the mortal world, and the priesthood maintains absolute control over access to its waters.
+Ishkul Ch’alish, "The Sacred Lake House," stands on the shore of the vast, mystical lake that dominates [[affiliation-kuxiixbal|K’ushi Ish'bal]]’s eastern reaches. The settlement is more temple-city than mercantile hub—a pilgrimage destination where the faithful journey to commune with the divine and peer, if only briefly, into the boundary between mortal and celestial realms. The lake itself is said to be the eye through which the gods observe the mortal world, and the priesthood maintains absolute control over access to its waters.
 
 ## Location and Geography
 
@@ -18,7 +18,7 @@ The city sprawls along the northern shore of the great lake, its primary pyramid
 
 ## Religious Significance
 
-Ixkul Ch’alix is one of the most important pilgrimage destinations in the southern [[place-kchchkcntnnt|K’ich’chik]] territories. Devout worshippers travel from hundreds of miles distant to participate in sacred bathing ceremonies, to leave offerings in the lake, and to pray for divine favor. The priesthood here is unusually powerful and wealthy, commanding tribute from pilgrims and maintaining a fleet of sacred boats that are never used for mundane purposes. Several of the [[affiliation-itzanpnthn|Itzáni]] gods are worshipped particularly intensely here—especially [[affiliation-tzenultqan|Tz’en’ul Tq’an]], god of order and cosmic law.
+Ishkul Ch’alish is one of the most important pilgrimage destinations in the southern [[place-kchchkcntnnt|K’ich’chik]] territories. Devout worshippers travel from hundreds of miles distant to participate in sacred bathing ceremonies, to leave offerings in the lake, and to pray for divine favor. The priesthood here is unusually powerful and wealthy, commanding tribute from pilgrims and maintaining a fleet of sacred boats that are never used for mundane purposes. Several of the [[affiliation-itzanpnthn|Itsani]] gods are worshipped particularly intensely here—especially [[affiliation-tzenultqan|Ts’en’ul Tq’an]], god of order and cosmic law.
 
 ## Community
 
@@ -26,5 +26,5 @@ The population outside the priesthood consists primarily of servant families who
 
 ## See Also
 
-- [[affiliation-kuxiixbal|K’uxi Ix'bal]]—The plateau realm
-- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that guards the sacred lake
+- [[affiliation-kuxiixbal|K’ushi Ish'bal]]—The plateau realm
+- [[affiliation-itzanpnthn|Itsani]]—The priesthood that guards the sacred lake

@@ -1,15 +1,15 @@
 ---
 shortcode: teremoszenot
-name: {full: Têrêmôs Zênôthênôs, aliases: [Mârendândôs Têrêmôs]}
+name: {full: Teremos Zenothenos, aliases: [Marendos Teremos]}
 type: being
 subType: npc
-description: An austere enforcer for the Sekran's western investigations, named in Alfred Barnwell.
+description: An austere enforcer for the Sekran's western investigations, named in Wilred Barnwell.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [scholar, infiltrator]
-  occupation: Mârendândôs
+  occupation: Marendos
   lore: []
   culture: vylarianclt
   homes: []
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Têrêmôs Zênôthênôs is a 45-year-old man who stands 5'6" tall with a heavy build. He has olive skin, sun-kissed complexion, auburn hair, and brown eyes.
+Teremos Zenothenos is a 45-year-old man who stands 5'6" tall with a heavy build. He has olive skin, sun-kissed complexion, auburn hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Têrêmôs Zênôthênôs is a _mârendândôs_ (master) and an austere enforcer for the Sekran's western investigations. He takes an interest in irregular practices in the Aelwyth borderlands, and interviews villagers where the alias of [[being-alfrdbrnwl|Alfred Barnwell]] is known. He does not yet know Alfred by name.
+Teremos Zenothenos is a _marendos_ (master) and an austere enforcer for the Sekran's western investigations. He takes an interest in irregular practices in the Aelwyth borderlands, and interviews villagers where the alias of [[being-alfrdbrnwl|Wilred Barnwell]] is known. He does not yet know Wilred by name.

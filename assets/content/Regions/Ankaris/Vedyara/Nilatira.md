@@ -1,9 +1,9 @@
 ---
 shortcode: nilatira
-name: {full: Nīlatīra, aliases: []}
+name: {full: Nilatira, aliases: []}
 type: place
 subType: settlement
-description: "Vyālendra's outport at the mouth of the Nilacharī—a mile of bale-yards, a customs shed and a road to the city, where the cloth is sealed, counted and put aboard."
+description: "Vyalendra's outport at the mouth of the Nilachari—a mile of bale-yards, a customs shed and a road to the city, where the cloth is sealed, counted and put aboard."
 tags: [town, port, coastal, market]
 data:
   demonym: null
@@ -15,9 +15,9 @@ data:
   government: vyalendra2
 ---
 
-**Nīlatīra** (12,000) stands where the **Nilacharī** reaches the eastern sea, three days below the last of [[affiliation-vyalendra2|Vyālendra]]'s valleys. It exists to put cloth on ships. Nothing is woven here and nothing is grown here worth the naming. The bolts come down the river road in covered boats, lie in the yards for a season, and leave in a hull.
+**Nilatira** (12,000) stands where the **Nilachari** reaches the eastern sea, three days below the last of [[affiliation-vyalendra2|Vyalendra]]'s valleys. It exists to put cloth on ships. Nothing is woven here and nothing is grown here worth the naming. The bolts come down the river road in covered boats, lie in the yards for a season, and leave in a hull.
 
-The town is one street a mile long with the bale-yards on the seaward side of it and the boat-quays on the landward. Behind the street are the lodging houses, the rope-walk, the chandlers and four temples. The [[affiliation-vyalendra2|Loom-Council]] holds the place through the shrenīs whose warehouses stand in it, and the master of the yards is a Loom-Master's factor and not a man of the town.
+The town is one street a mile long with the bale-yards on the seaward side of it and the boat-quays on the landward. Behind the street are the lodging houses, the rope-walk, the chandlers and four temples. The [[affiliation-vyalendra2|Loom-Council]] holds the place through the shrenis whose warehouses stand in it, and the master of the yards is a Loom-Master's factor and not a man of the town.
 
 ## The Season
 
@@ -25,19 +25,19 @@ The cloth year is the monsoon's. Boats come down through the rains, when the riv
 
 ## The Seal
 
-A bolt leaves a weaving hall in the city under the lead seal of the shrenī that wove it, and the seal is the shrenī's warranty of the dye. The **Koshādhyaksha** keeps a shed at the head of the street where every bale is opened, the seals counted against the boat's manifest, and the cloth-tax taken in coin before the bale goes to the yard. A broken seal is not a matter for the town. The bolt is held, the boat's master is held with it, and both go back up the river to the Council.
+A bolt leaves a weaving hall in the city under the lead seal of the shrena that wove it, and the seal is the shrena's warranty of the dye. The **Koshadyoksha** keeps a shed at the head of the street where every bale is opened, the seals counted against the boat's manifest, and the cloth-tax taken in coin before the bale goes to the yard. A broken seal is not a matter for the town. The bolt is held, the boat's master is held with it, and both gho back up the river to the Council.
 
 ## The Galleys
 
-Most of the cloth goes west and south in [[affiliation-chandrapur|Chandrapur]]'s galleys. Vyālendra keeps no war-fleet and no deep-water hulls of its own, and the hire of the galleys is argued out between the two cities before every sailing season, on terms nobody has ever managed to fix for more than one year at a time. Tāntsou junks work the eastern run on their own account and take the finest goods direct, paying in silver and in the tin the dyers' mordants need.
+Most of the cloth goes west and south in [[affiliation-chandrapur|Chendrapur]]'s galleys. Vyalendra keeps no war-fleet and no deep-water hulls of its own, and the hire of the galleys is argued out between the two cities before every sailing season, on terms nobody has ever managed to fix for more than one year at a time. Tantsou junks work the eastern run on their own account and take the finest goods direct, paying in silver and in the tin the dyers' mordants need.
 
 ## The Deck
 
-A ship's master does not ask to see a wrist. The crews are made up in the lodging houses at the landward end of the street, and a third of the men in them are **Outcastes**, placed outside the tharana, and some number nobody counts are bonded servants who came down the river without a token. The temples take the position that what happens on a deck is outside their province. The Loom-Council takes the position that the cloth has to move. A runaway who reaches the yards is not sent back, and a runaway who is taken on the road above the town is.
+A ship's master does not ask to see a wrist. The crews are made up in the lodging houses at the landward end of the street, and a third of the men in them are **Outcastes**, placed outside the tarona, and some number nobody counts are bonded servants who came down the river without a token. The temples take the position that what happens on a deck is outside their province. The Loom-Council takes the position that the cloth has to move. A runaway who reaches the yards is not sent back, and a runaway who is taken on the road above the town is.
 
 ## See Also
 
-- [[affiliation-vyalendra2|Vyālendra]]—the city-state whose port this is
-- [[place-vyalendraland|Vyālendra Land]]—the land
-- [[place-vyalendra3|Vyālendra]]—the city upriver
-- [[affiliation-chandrapur|Chandrapur]]—whose galleys carry the bales
+- [[affiliation-vyalendra2|Vyalendra]]—the city-state whose port this is
+- [[place-vyalendraland|Vyalendra Land]]—the land
+- [[place-vyalendra3|Vyalendra]]—the city upriver
+- [[affiliation-chandrapur|Chendrapur]]—whose galleys carry the bales

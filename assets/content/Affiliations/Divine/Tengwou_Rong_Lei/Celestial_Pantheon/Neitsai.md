@@ -1,6 +1,6 @@
 ---
 shortcode: neitsai
-name: {full: Néitsài, aliases: [The Minister of Continuity, Tsài Séi, The Bureau of Creation]}
+name: {full: Neitsai, aliases: [The Minister of Continuity, Tsai Sei, The Bureau of Creation]}
 type: affiliation
 subType: faithtradition
 description: "Continuity."
@@ -14,16 +14,16 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tānchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
         description: >-
-          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tāntsou consider worse.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tantsou consider worse.
       - level: 1
         title: Petitioner
         description: >-
-          Every Tāntsou: keeps a moral ledger, is observed by the household's Tsàikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -47,13 +47,13 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Téng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Néitsài, The Minister of Continuity: >-
-        Téng Gui of the Tsài Séi, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Wòuchéi: >-
-        The Instructor, associated with the transmission of knowledge and technique across generations; where Néitsài preserves biological continuity, Wòuchéi preserves cultural continuity.
-      Zhawō: >-
+      Neitsai, The Minister of Continuity: >-
+        Teng Gui of the Tsai Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Wouchéi: >-
+        The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchéi preserves cultural continuity.
+      Zhawo: >-
         Continuity Spirits, who ensure that living things reproduce according to their classification.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -81,28 +81,28 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Néitsài—The Minister of Continuity
+## Neitsai—The Minister of Continuity
 
-- **Bureau:** Tsài Séi, The Bureau of Creation
+- **Bureau:** Tsai Sei, The Bureau of Creation
 - **Domain:** Continuity
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Léi]]
+- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Tsài Séi resists change, which is its function and not its failing. It ensures that things continue
+Tsai Sei resists change, which is its function and not its failing. It ensures that things continue
 to be what they were classified as: that a lineage breeds true, that a craft is transmitted intact,
 that a boundary drawn in the Great Sorting is still where it was drawn.
 
 It is the natural rival of the [[affiliation-zhenho|Bureau of Transformation]], and the rivalry is
 the sharpest in the administration—one bureau exists to change things and the other to prevent
 it, and both are correct. Petitions for a difficult birth, an unbroken inheritance or the survival
-of a craft go here.
+of a craft gho here.
 
 ### Lesser Spirits
 
-- **Wòuchéi**—The Instructor, associated with the transmission of knowledge and technique across generations; where Néitsài preserves biological continuity, Wòuchéi preserves cultural continuity.
-- **Zhawō**—Continuity Spirits, who ensure that living things reproduce according to their classification.
+- **Wouchéi**—The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchéi preserves cultural continuity.
+- **Zhawo**—Continuity Spirits, who ensure that living things reproduce according to their classification.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Léi]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Téng Chou Script]]—the writing every petition is made in
+- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
+- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in

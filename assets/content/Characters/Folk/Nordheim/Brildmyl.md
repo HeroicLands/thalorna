@@ -1,6 +1,6 @@
 ---
 shortcode: brildmyl
-name: {full: Brildmýl, aliases: []}
+name: {full: Brildmil, aliases: []}
 type: being
 subType: npc
 description: The ranking priest at Svartbrandr's primary temple, who regards Svilthselda Ashenmaiden as a potential successor; also named in Braldfjall.
@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric]
-  occupation: Hofgodi
+  occupation: Hofgudi
   lore: []
   culture: nordheimnclt
   homes: [braldfjall]
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Brildmýl is a 19-year-old man who stands 5'8" tall with a heavy build. He has pale skin, weathered complexion, blonde hair, and grey eyes.
+Brildmil is a 19-year-old man who stands 5'8" tall with a heavy build. He has pale skin, weathered complexion, blonde hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Brildmýl is the ranking priest at Svartbrandr's primary temple, who regards [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]] as a potential successor. The note on Braldfjall reads that protection as the clearest sign that the faith there has politics of its own. Brildmýl is named in [[place-braldfjall|Braldfjall]].
+Brildmil is the ranking priest at Svartbrandr's primary temple, who regards [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]] as a potential successor. The note on Braldfjall reads that protection as the clearest sign that the faith there has politics of its own. Brildmil is named in [[place-braldfjall|Braldfjall]].

@@ -462,7 +462,7 @@ Tavonei wants to be perfect at his work. A safe arrival is a sacred trust to him
 
 - **House Thavoeli**: an Ilovanu merchant house in rare spice and cut stones, which has hired Tavonei for its three richest trains each year for over a decade. **Merchant-Prince Anorivei Thavoeli** asks for him by name for any cargo bound to a foreign hull, and trusts no one else with goods worth a fortune.
 - **The Silk Caravans Consortium**: an association of independent factors who pool their goods for the coast road. Tavonei is their first choice for the stretch between Vashurán and [[place-nalurithan|Nalurithan]], where the road runs closest under the ridges.
-- **The Lady of House Dûravîn**: the widow of a foreign trading family long settled in the Ilovanu quarter, who hires Tavonei whenever she travels between the ports and values his discretion as much as his sword.
+- **The Lady of House Duravin**: the widow of a foreign trading family long settled in the Ilovanu quarter, who hires Tavonei whenever she travels between the ports and values his discretion as much as his sword.
 
 ### Enemies
 

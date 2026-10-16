@@ -1,9 +1,9 @@
 ---
 shortcode: thalurozenot
-name: {full: Thalúro Zenothándis, aliases: [Archbishop Thalúro Zenothándis, Archbishop Thalúro]}
+name: {full: Thaluro Zenothis, aliases: [Archbishop Thaluro Zenothis, Archbishop Thaluro]}
 type: being
 subType: npc
-description: The Árdavonian prelate at Polthámis, who confirms Father Ostáran Dorvás's arbitrations under seal.
+description: The Árdavonian prelate at Polthamis, who confirms Father Ostaran Dorvás's arbitrations under seal.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Thalúro Zenothándis is a 58-year-old man who stands 5'11" tall with a heavy build. He has olive skin, ruddy complexion, black hair, and dark brown eyes.
+Thaluro Zenothis is a 58-year-old man who stands 5'11" tall with a heavy build. He has olive skin, ruddy complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Thalúro Zenothándis is the Árdavonian archbishop at Polthámis. He confirms the arbitrations of [[being-frstrndrvs|Father Ostáran Dorvás]] under seal and meets him on the register four times a year. He is the brother of Zédima Zenothándis, Ostáran's mother, a kinship neither of them states.
+Thaluro Zenothis is the Árdavonian archbishop at Polthamis. He confirms the arbitrations of [[being-frstrndrvs|Father Ostaran Dorvás]] under seal and meets him on the register four times a year. He is the brother of Zédima Zenothis, Ostaran's mother, a kinship neither of them states.

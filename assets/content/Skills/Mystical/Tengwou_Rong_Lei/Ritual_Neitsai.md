@@ -1,6 +1,6 @@
 ---
 shortcode: neitsai
-name: {full: "Ritual: Néitsài", aliases: [Néitsài, The Minister of Continuity]}
+name: {full: "Ritual: Neitsai", aliases: [Neitsai, The Minister of Continuity]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-neitsai|Néitsài]]
+See [[affiliation-neitsai|Neitsai]]

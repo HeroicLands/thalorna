@@ -1,6 +1,6 @@
 ---
 shortcode: zhoushouzho
-name: {full: "Ritual: Zhòushòu Zhò", aliases: [Zhòushòu Zhò]}
+name: {full: "Ritual: Zhoushou Zho", aliases: [Zhoushou Zho]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-zhoushouzho|Zhòushòu Zhò]]
+See [[affiliation-zhoushouzho|Zhoushou Zho]]

@@ -1,6 +1,6 @@
 ---
 shortcode: arnos
-name: {full: Vârthâs, aliases: []}
+name: {full: Varthas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Ram: green-fingered and at home in wild country, and never light on their feet."
@@ -35,7 +35,7 @@ sohl:
       hydalis: 5
 ---
 
-Those born under Vârthâs, the Ram, are said to carry the vigor of green things breaking through frost. Herbalists, hunters, and wardens of the wild claim its favor, while the sign turns its face from those who would master flesh and blade.
+Those born under Varthas, the Ram, are said to carry the vigor of green things breaking through frost. Herbalists, hunters, and wardens of the wild claim its favor, while the sign turns its face from those who would master flesh and blade.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Those born under Vârthâs, the Ram, are said to carry the vigor of green things
 | Spirit  | Lore, Mystical            | −5  |
 | Water   | Language, Social          | +5  |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

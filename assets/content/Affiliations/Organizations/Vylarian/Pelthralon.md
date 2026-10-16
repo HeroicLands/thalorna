@@ -1,9 +1,9 @@
 ---
 shortcode: aediles
-name: {full: Pêlthrâlon, aliases: [Magistrates of the Wards]}
+name: {full: Pelthralon, aliases: [Magistrates of the Wards]}
 type: affiliation
 subType: governmental
-description: "The ward magistrates of Ôrzâra—the court most citizens ever meet, keeping the district law over markets, licenses, weights, building and sanitation, and famously open to a bribe."
+description: "The ward magistrates of Orzara—the court most citizens ever meet, keeping the district law over markets, licenses, weights, building and sanitation, and famously open to a bribe."
 tags: []
 data:
   templatePriority: null
@@ -13,12 +13,12 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A bench of ward magistrates under the vêrâmûsândôs of Law, each holding one quarter of the city and answering upward rather than to each other. There is no assembly of pêlthrândoi and no presiding pêlthrândôs: a ward is a magistrate's own, which is precisely what makes the office worth buying.
+      A bench of ward magistrates under the veramus of Law, each holding one quarter of the city and answering upward rather than to each other. There is no assembly of peltroi and no presiding peltros: a ward is a magistrate's own, which is precisely what makes the office worth buying.
     ranks:
       - level: 0
         title: Struck from the Roll
         description: >-
-          Put out of the magistracy with the record endorsed. The endorsement is the sentence—it closes every civic office in the city, and the trades a former pêlthrândôs ruled over remember him.
+          Put out of the magistracy with the record endorsed. The endorsement is the sentence—it closes every civic office in the city, and the trades a former peltros ruled over remember him.
       - level: 1
         title: Ward Clerk
         description: >-
@@ -28,14 +28,14 @@ data:
         description: >-
           Walks the quarter and applies the district law at the door—shutters a business, levies a fine on the spot, or marks a building for pulling down. The office where the law is actually felt, and the one most often bought.
       - level: 3
-        title: Pêlthrândôs
+        title: Peltros
         description: >-
-          Magistrate of a ward, holding the only court most Ôrzârans will ever see: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Levies fines, shutters premises and condemns buildings, with the City Watch supplying the muscle behind the ruling.
+          Magistrate of a ward, holding the only court most Orzarans will ever see: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Levies fines, shutters premises and condemns buildings, with the City Watch supplying the muscle behind the ruling.
     offices:
-      Pêlthrândôs: >-
+      Peltros: >-
         Holds the bench for one quarter of the city. What may be traded where is his to enforce, and the district law he enforces is dense enough that almost any premises is in breach of something.
       Inspector: >-
-        The pêlthrândôs's hand in the street. An inspection is the instrument of the office, and a scheduled one is a negotiation.
+        The peltros's hand in the street. An inspection is the instrument of the office, and a scheduled one is a negotiation.
       Keeper of the Weights: >-
         Attests the measures the markets trade by. A false weight is the ward's commonest charge and its most reliable revenue.
       Clerk of the Roll: >-
@@ -49,24 +49,24 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A ward clerk, asked what a _pêlthrândôs_ (ward magistrate) does all day, answers with the district law: "He decides what may be sold where. Then he decides who is selling it in the wrong place. Find out which of those two jobs your premises will fall under before you open your shutters."
+A ward clerk, asked what a _peltros_ (ward magistrate) does all day, answers with the district law: "He decides what may be sold where. Then he decides who is selling it in the wrong place. Find out which of those two jobs your premises will fall under before you open your shutters."
 
-The _pêlthrândoi_, who together make up the **Pêlthrâlon**, are the civic magistrates of [[place-orzara|Ôrzâra]], and the only court most of its people will ever stand before. They keep the **district law**—the intricate and jealously enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each quarter of the city, and what may not.
+The _peltroi_, who together make up the **Pelthralon**, are the civic magistrates of [[place-orzara|Orzara]], and the only court most of its people will ever stand before. They keep the **district law**—the intricate and jealously enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each quarter of the city, and what may not.
 
-Their jurisdiction is the ordinary business of a city of a million: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Their inspectors can shutter a business, levy a fine, or order a building pulled down, and the [[affiliation-vylrnmltry|City Watch]] supplies the muscle behind the ruling. The Watch enforces and investigates; it does not judge. The _pêlthrândoi_ judge.
+Their jurisdiction is the ordinary business of a city of a million: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Their inspectors can shutter a business, levy a fine, or order a building pulled down, and the [[affiliation-vylrnmltry|City Watch]] supplies the muscle behind the ruling. The Watch enforces and investigates; it does not judge. The _peltroi_ judge.
 
-They sit at the bottom of the civic tier—below the **Civil Courts** for civil suits and the **Criminal Tribunal** for theft and violence, and far below the [[affiliation-verdanorzara|Verdan Ôrzâra]], the council of five _vêrâmûsândoi_ (curators of the city) that crowns the system and hears its gravest cases. The _vêrâmûsândôs_ of Law oversees them. To be summoned from a _pêlthrândôs_'s bench up to the imperial tribunals in the **Imperial Offices** is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
+They sit at the bottom of the civic tier—below the **Civil Courts** for civil suits and the **Criminal Tribunal** for theft and violence, and far below the [[affiliation-verdanorzara|Verdan Orzara]], the council of five _veramusoi_ (curators of the city) that crowns the system and hears its gravest cases. The _veramus_ of Law oversees them. To be summoned from a _peltros_'s bench up to the imperial tribunals in the **Imperial Offices** is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
 
-Their reach ends at the **Clearance**, the swept strip of open ground that marks the city's edge. In the sprawl beyond it the ground is dirtier, wilder and more lawless, and it lies beyond the easy reach of the _pêlthrândoi_ and the Watch alike.
+Their reach ends at the **Clearance**, the swept strip of open ground that marks the city's edge. In the sprawl beyond it the ground is dirtier, wilder and more lawless, and it lies beyond the easy reach of the _peltroi_ and the Watch alike.
 
 ## The Bribe
 
-The _pêlthrândoi_ are famously bribable, and bribery of them is one of the city's oldest and most reliable industries. The bribe is part of the institution's design. The district law is dense enough that almost any premises is in breach of something, an inspection is the instrument that finds it, and the inspector who schedules the inspection is a man with a great deal to sell. A ward is a magistrate's own and he answers upward rather than to his colleagues, so there is no bench to appeal to and no peer to complain of him to.
+The _peltroi_ are famously bribable, and bribery of them is one of the city's oldest and most reliable industries. The bribe is part of the institution's design. The district law is dense enough that almost any premises is in breach of something, an inspection is the instrument that finds it, and the inspector who schedules the inspection is a man with a great deal to sell. A ward is a magistrate's own and he answers upward rather than to his colleagues, so there is no bench to appeal to and no peer to complain of him to.
 
 What the money buys is rarely acquittal. It buys the inspection that does not happen, the measure that is not tested, the condemnation that is delayed a season—and, for the unlucky, the discovery that a rival has bought first.
 
 ## See Also
 
-- [[affiliation-verdanorzara|The Courts of Ôrzâra]]—the Verdan Ôrzâra and the tiered civic courts above them
-- [[place-orzara|Ôrzâra]]—the city whose wards they keep
+- [[affiliation-verdanorzara|The Courts of Orzara]]—the Verdan Orzara and the tiered civic courts above them
+- [[place-orzara|Orzara]]—the city whose wards they keep
 - [[affiliation-vylrnmltry|The Vylarian Military]]—home of the City Watch, which enforces their rulings

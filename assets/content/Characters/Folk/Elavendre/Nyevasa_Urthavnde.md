@@ -1,9 +1,9 @@
 ---
 shortcode: nyevasaurtha
-name: {full: Nýevasa Úrthavndë, aliases: [Sorcerer Nýevasa]}
+name: {full: Nyevasa Úrthavnde, aliases: [Sorcerer Nyevasa]}
 type: being
 subType: npc
-description: A sorcerer, the former master of Sélon, who has been destroying enchanted objects throughout the realm, named in Álira Kálmereth and Afzandah Parnâzar.
+description: A sorcerer, the former master of Selon, who has been destroying enchanted objects throughout the realm, named in Álira Kálmereth and Afzandah Parnazar.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Nýevasa Úrthavndë is a 40-year-old woman who stands 5'6" tall with a medium build. She has medium skin, clear complexion, brown hair, and green eyes.
+Nyevasa Úrthavnde is a 40-year-old woman who stands 5'6" tall with a medium build. She has medium skin, clear complexion, brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Nýevasa Úrthavndë is a sorcerer and the former master of Sélon. She has been destroying enchanted objects throughout the realm, seemingly hunting for something specific, as [[being-alyrklmrth|Álira Kálmereth]] learns. In the account of [[being-afzndhprnzr|Afzandah Parnâzar]] she is a sorcerer-lord who seeks mithral for a dark ritual.
+Nyevasa Úrthavnde is a sorcerer and the former master of Selon. She has been destroying enchanted objects throughout the realm, seemingly hunting for something specific, as [[being-alyrklmrth|Álira Kálmereth]] learns. In the account of [[being-afzndhprnzr|Afzandah Parnazar]] she is a sorcerer-lord who seeks mithral for a dark ritual.

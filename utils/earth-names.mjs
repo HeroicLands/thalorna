@@ -41,8 +41,14 @@ import { continents, countries, languages } from "countries-list";
 const CONTENT_DIR = "assets/content";
 const DATA_FILES = ["utils/nordmal-concordance.json"];
 
+const PRONUNCIATION_GUIDE = "assets/content/Lore/Pronouncing_Thalorna.md";
+
 /** Files that may name Earth. */
-const EXEMPT_FILES = new Set(["assets/content/Reference/Terran_Analogs.md"]);
+const EXEMPT_FILES = new Set([
+    "assets/content/Reference/Terran_Analogs.md",
+    // The pronunciation guide explains our spelling to readers, so it names English, Roman and Scottish.
+    PRONUNCIATION_GUIDE,
+]);
 
 /**
  * The concordance records every name the corpus replaced, Earth or not; these keys
@@ -52,13 +58,12 @@ const RECORDED_KEY = /^\s*(?:"(?:oldName|oldAliases|oldPath|oldRefPaths)"|"[0-9a
 const CONCORDANCE = "utils/nordmal-concordance.json";
 
 /**
- * A lexicon page lists the names it refuses in a "Retired names" table, so those
- * rows hold Earth names by design. Only table rows in that section are read past.
+ * A language note lists the forms it refuses in `data.retired`, so each entry's
+ * `form` holds an Earth name by design. Only that value is read past; the
+ * entry's `instead` and `why` are checked.
  */
-const LEXICON_PAGE = /_Lexicon\.md$/;
-const RETIRED_HEADING = /^(#+)\s+Retired names\s*$/;
-const HEADING = /^(#+)\s/;
-const TABLE_ROW = /^\|/;
+const RETIRED_KEY = /^ {2}retired:\s*$/;
+const RETIRED_FORM = /(\bform:\s*)("[^"\n]*"|'[^'\n]*'|[^,}\n]+)/;
 
 /** A line carrying this marker is a comment for later authors. */
 const ANALOG_LINE = /#\s*terran_analog:/;
@@ -817,23 +822,17 @@ const COMMON_CALENDAR = /\bcommon calendar\b/gi;
  */
 export function findEarthNames(file, text, names = earthMatcher()) {
     const exemptFile = EXEMPT_FILES.has(file);
-    const lexicon = LEXICON_PAGE.test(file);
-    let retiredLevel = 0;
+    let inRetired = false;
     return text.split("\n").flatMap((line, i) => {
-        if (lexicon) {
-            const heading = HEADING.exec(line);
-            if (heading) {
-                const retired = RETIRED_HEADING.exec(line);
-                if (retired) retiredLevel = retired[1].length;
-                else if (heading[1].length <= retiredLevel || !retiredLevel) retiredLevel = 0;
-            }
-        }
-        const exempt =
-            exemptFile || ANALOG_LINE.test(line) || Boolean(retiredLevel && TABLE_ROW.test(line));
+        if (/^ {0,2}\S/.test(line)) inRetired = RETIRED_KEY.test(line);
+        // Blank a retired entry's form, keeping every column.
+        if (inRetired)
+            line = line.replace(RETIRED_FORM, (_all, key, value) => key + " ".repeat(value.length));
+        const exempt = exemptFile || ANALOG_LINE.test(line);
         if (file === CONCORDANCE && RECORDED_KEY.test(line)) return [];
         const hits = [];
         for (const [re, what, subject] of [
-            [READER_LANGUAGES, "the reader's language"],
+            ...(file === PRONUNCIATION_GUIDE ? [] : [[READER_LANGUAGES, "the reader's language"]]),
             ...(exempt ?
                 []
             :   [

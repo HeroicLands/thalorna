@@ -1,6 +1,6 @@
 ---
 shortcode: skraldvirsna
-name: {full: Skraldvir Snarvumakh, aliases: [Jarl Skraldvir Snarvumakh]}
+name: {full: Skraldvir Snarvumak, aliases: [Jarl Skraldvir Snarvumak]}
 type: being
 subType: npc
 description: A prideful jarl who once challenged Skalforv Thunderstrike to a holmgang and was humiliated.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Skraldvir Snarvumakh is a 50-year-old man who stands 5'9" tall with a medium build. He has tanned skin, freckled complexion, red hair, and blue eyes.
+Skraldvir Snarvumak is a 50-year-old man who stands 5'9" tall with a medium build. He has tanned skin, freckled complexion, red hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Skraldvir Snarvumakh is a prideful jarl who once challenged [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] to a holmgang and was humiliated. He now works to undermine Skalforv's reputation and deny him shelter in his lands.
+Skraldvir Snarvumak is a prideful jarl who once challenged [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] to a holmgang and was humiliated. He now works to undermine Skalforv's reputation and deny him shelter in his lands.

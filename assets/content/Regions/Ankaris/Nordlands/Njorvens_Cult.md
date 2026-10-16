@@ -1,9 +1,9 @@
 ---
 shortcode: njorvencult
-name: {full: Njörven's Cult, aliases: []}
+name: {full: Njorven's Cult, aliases: []}
 type: affiliation
 subType: spirittradition
-description: "The cult that venerates Njörven."
+description: "The cult that venerates Njorven."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -14,16 +14,16 @@ data:
   governance:
     model: council
     summary: >-
-      The cult that venerates Njörven.
+      The cult that venerates Njorven.
     ranks:
       - level: 0
-        title: Níding
+        title: Niding
         description: >-
-          A Níding—the Nordmal word for an outlaw—is one put out of the cult that venerates Njörven, refused its rites and its protection.
+          A Niding—the Nordmal word for an outlaw—is one put out of the cult that venerates Njorven, refused its rites and its protection.
       - level: 1
         title: Devotee
         description: >-
-          Belongs to the cult that venerates Njörven.
+          Belongs to the cult that venerates Njorven.
     offices: {}
   seat: null
   population: null
@@ -35,15 +35,15 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Some of the coastal clans have stopped asking Thrúnvald for a fair wind," a netmender on a coastal landing says quietly to the stranger sharing her bench, "and the sea has taken to answering them." Njörven's Cult venerates the Sea Wraith [[being-njorven|Njörven]] and means to see it free.
+"Some of the coastal clans have stopped asking Thrunvald for a fair wind," a netmender on a coastal landing says quietly to the stranger sharing her bench, "and the sea has taken to answering them." Njorven's Cult venerates the Sea Wraith [[being-njorven|Njorven]] and means to see it free.
 
 ## What the Cult Wants
 
-Njörven was overthrown long ago by [[lore-thrunvalddty|Thrúnvald]] and put into a watery prison beneath the northern seas, and it is stirring now. The cult's aim is to see it loose, which puts the cult in direct opposition to [[lore-njordurritlbinding|the Ritual of Binding]]: the rite needs a specific hidden coastal temple, a long working, and an invoker who cannot defend themselves while they work it, and those are three things a faction that wants the prison open has every reason to attack.
+Njorven was overthrown long ago by [[lore-thrunvalddty|Thrunvald]] and put into a watery prison beneath the northern seas, and it is stirring now. The cult's aim is to see it loose, which puts the cult in direct opposition to [[lore-njordurritlbinding|the Ritual of Binding]]: the rite needs a specific hidden coastal temple, a long working, and an invoker who cannot defend themselves while they work it, and those are three things a faction that wants the prison open has every reason to attack.
 
 ## How It Spreads
 
-As Njörven's influence grows, some coastal clans begin to abandon their faith in Thrúnvald, the god who vanquished the Sea Wraith, and turn to the sea spirit instead. The cult is an active faction, not a background color. Its cultists work to undermine [[being-grosdrnrgd|Gróa]]'s efforts and spread chaos along the coast, and exposing and dismantling the cult, while persuading the people to resist Njörven's allure, is part of what her campaign asks of her.
+As Njorven's influence grows, some coastal clans begin to abandon their faith in Thrunvald, the god who vanquished the Sea Wraith, and turn to the sea spirit instead. The cult is an active faction, not a background color. Its cultists work to undermine [[being-grosdrnrgd|Groa]]'s efforts and spread chaos along the coast, and exposing and dismantling the cult, while persuading the people to resist Njorven's allure, is part of what her campaign asks of her.
 
 ## What Its Own Tellings Say
 
@@ -51,6 +51,6 @@ The cult's tellings of its god are the most confident anyone gathers and the lea
 
 ## See Also
 
-- [[being-njorven|Njörven]]—the Sea Wraith the cult venerates
+- [[being-njorven|Njorven]]—the Sea Wraith the cult venerates
 - [[lore-njordurritlbinding|The Ritual of Binding]]—the rite the cult stands against
-- [[scenario-groascmpgn|Gróa's Campaign]]—the campaign in which the cult is an active faction
+- [[scenario-groascmpgn|Groa's Campaign]]—the campaign in which the cult is an active faction

@@ -3,12 +3,12 @@ shortcode: gamessanct
 name: {full: The Sanctuary of the Games, aliases: [The Oldest Stadium]}
 type: place
 subType: site
-description: "The sanctuary in the Helionite hills where the cities first met for the Games: the oldest stadium in Heliónis, the heralds' altar and the oath-tablets of every city, still the seat of the Games."
+description: "The sanctuary in the Helionite hills where the cities first met for the Games: the oldest stadium in Helionis, the heralds' altar and the oath-tablets of every city, still the seat of the Games."
 tags: [sacred, games, hellad]
 data: {demonym: null, lore: [], parents: [helionis], population: null, packFolder: helionis}
 ---
 
-A traveler who asks the way to the **Sanctuary of the Games** is told the road by a man from every city he asks, and each gives a different road, since each city's road to the sanctuary is the one that does not pass through another's land. The sanctuary lies in the hills where the territories of several cities meet, a long day's walk from none of them in particular, and it is the oldest sacred ground in [[place-helionis|Heliónis]] that the cities hold in common.
+A traveler who asks the way to the **Sanctuary of the Games** is told the road by a man from every city he asks, and each gives a different road, since each city's road to the sanctuary is the one that does not pass through another's land. The sanctuary lies in the hills where the territories of several cities meet, a long day's walk from none of them in particular, and it is the oldest sacred ground in [[place-helionis|Helionis]] that the cities hold in common.
 
 ## The Stadium
 
@@ -31,5 +31,5 @@ At the head of the stadium stands the heralds' altar. Here the heralds of every 
 ## See Also
 
 - [[lore-firstgames|The First Games]]—the meeting that made the sanctuary
-- [[affiliation-ctysttshlns|City-States of Heliónis]]—the offices and the herald
-- [[place-helionis|Heliónis]]
+- [[affiliation-ctysttshlns|City-States of Helionis]]—the offices and the herald
+- [[place-helionis|Helionis]]

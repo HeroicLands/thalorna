@@ -1,9 +1,9 @@
 ---
 shortcode: rcitkngsmhnd
-name: {full: Recitation of the Kings of Mahānadi, aliases: [The Recitation of the Kings]}
+name: {full: Recitation of the Kings of Mahanodi, aliases: [The Recitation of the Kings]}
 type: lore
 subType: literature
-description: "The Memory-Keeper's recitation at Rājapur: the line of the Kingdom of Mahānadi from its ancestor to the six worsening kings, the forty-day sabhā, and the acknowledgment that the kingdom is no more."
+description: "The Memory-Keeper's recitation at Rajepur: the line of the Kingdom of Mahanodi from its ancestor to the six worsening kings, the forty-day sabhra, and the acknowledgment that the kingdom is no more."
 tags: [draft]
 data:
   culture: vedyariclt
@@ -20,7 +20,7 @@ data:
   packFolder: vedyara
 ---
 
-The Memory-Keeper of the [[affiliation-rajaprjnpd|Rājapur Janapada]] speaks this recitation at the opening of every formal session of the sabhā, in the great hall of the Vyālendra temple at [[place-rajapur|Rājapur]], and speaks it again in the temple precinct on the Day of the Dissolution, together with the dissolution decree. In full it runs from the founding ancestor of the Kingdom of Mahānadi through every king of the line to the dissolution, and it closes on the formal acknowledgment that the kingdom is no more and the janapada governs in its place. Its six worsening kings are the standard Vedyari narrative of kingly decline, and it carries the poisoning by the king's cook as tradition, not as record. The keeper holds no vote, and the recitation takes no side in the business the sabhā turns to after it.
+The Memory-Keeper of the [[affiliation-rajaprjnpd|Rajepur Janapoda]] speaks this recitation at the opening of every formal session of the sabhra, in the great hall of the Vyalendra temple at [[place-rajapur|Rajepur]], and speaks it again in the temple precinct on the Day of the Dissolution, together with the dissolution decree. In full it runs from the founding ancestor of the Kingdom of Mahanodi through every king of the line to the dissolution, and it closes on the formal acknowledgment that the kingdom is no more and the janapoda governs in its place. Its six worsening kings are the standard Vedyari narrative of kingly decline, and it carries the poisoning by the king's cook as tradition, not as record. The keeper holds no vote, and the recitation takes no side in the business the sabhra turns to after it.
 
 The verse is codified, like the rest of Vedyari devotional making: couplets of a long line of ten syllables answered by a short line of six, with fixed openings and a fixed close. The text here keeps the opening, the six, the forty days and the close. The line between the ancestor and the six is recited at its place in every session and is marked where it falls.
 
@@ -28,7 +28,7 @@ The verse is codified, like the rest of Vedyari devotional making: couplets of a
 
 ```poetry {form=recitation meter="couplets of ten and six" syllables="10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6" lang=en}
 In this hall, before the altar of stone,
-  the sabhā sits again.
+  the sabhra sits again.
 On this day, in the year the count has reached,
   the priest has called it here.
 Before it weighs a word, it hears the line;
@@ -101,7 +101,7 @@ He left no son to stand before the stone;
 The people did not look for one to crown;
   they came here, to this door.
 They asked the priest who kept the shaper's house
-  to call the sabhā here.
+  to call the sabhra here.
 He called it, and it sat for forty days;
   on the last day, it spoke.
 
@@ -131,17 +131,17 @@ _Here the keeper speaks the name entered in the genealogy for this generation, t
 ```poetry {form=recitation meter="couplets of ten and six" syllables="10,6,10,6,10,6" lang=en}
 What ended once may end again: this too,
   if it should earn its end.
-The Mahānadi kingdom is no more;
+The Mahanodi kingdom is no more;
   it ended with its due.
-The janapada governs in its place,
+The janapoda governs in its place,
   and does so by your leave.
 ```
 
 ## See Also
 
 - [[lore-fortydays|The Forty Days]]—the same dissolution as the chronicle enters it, with the Memory-Keeper's commentary
-- [[affiliation-rajaprjnpd|Rājapur Janapada]]—the temple-republic whose sabhā hears it
+- [[affiliation-rajaprjnpd|Rajepur Janapoda]]—the temple-republic whose sabhra hears it
 - [[place-sandstonealtr|The Sandstone Altar]]—the stone every king of the line was consecrated at
 - [[place-palacecellar|The Palace Cellars]]—the rooms the recitation names
-- [[miscgear-recitationroll|The Rājavalī Recitation-Roll]]—the roll the keeper recites from, with each generation's name at its head
-- [[place-rajavalilib|The Rājavalī Library]]—the record behind it
+- [[miscgear-recitationroll|The Rajavali Recitation-Roll]]—the roll the keeper recites from, with each generation's name at its head
+- [[place-rajavalilib|The Rajavali Library]]—the record behind it

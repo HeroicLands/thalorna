@@ -5,4 +5,4 @@ type: folder
 data: {parent: heroesandknavesankaris, color: "#4682B4"}
 ---
 
-This folder gathers the Heroes and Knaves characters of Midhalion, the Ankaris region of the Vylarian Sea. It is divided into folders for Tarûzel and Vylaria, and sits within the Ankaris folder of the Heroes and Knaves characters.
+This folder gathers the Heroes and Knaves characters of Midhalion, the Ankaris region of the Vylarian Sea. It is divided into folders for Taruzel and Vylaria, and sits within the Ankaris folder of the Heroes and Knaves characters.

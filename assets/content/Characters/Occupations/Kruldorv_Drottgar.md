@@ -1,6 +1,6 @@
 ---
 shortcode: krldrvdrtgr
-name: {full: Kruldorv Dróttgar, aliases: []}
+name: {full: Kruldorv Drottgar, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -397,11 +397,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Kruldorv Dróttgar is a 31-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His hooded brown eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and expressive lips complete his features. He has pale skin with a ruddy complexion. His dark blonde hair is braided at the temples.
+Kruldorv Drottgar is a 31-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His hooded brown eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and expressive lips complete his features. He has pale skin with a ruddy complexion. His dark blonde hair is braided at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to an enslaved family of Nordheimn heritage, Kruldorv Dróttgar came into the world of the farmer through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to an enslaved family of Nordheimn heritage, Kruldorv Drottgar came into the world of the farmer through a combination of circumstance and aptitude.
 
 Kruldorv was born into slavery on a large estate, where he has spent his entire life working in the fields and performing hard labor. Despite his harsh circumstances, he maintains a sense of resilience and holds onto the hope of freedom. Kruldorv is known for his physical strength and endurance, but his defiance has occasionally gotten him into trouble with his overseers.
 

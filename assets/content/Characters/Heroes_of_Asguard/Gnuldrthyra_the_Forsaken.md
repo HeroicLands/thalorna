@@ -1,6 +1,6 @@
 ---
 shortcode: gnldrthyrfrskn
-name: {full: Gnuldrthýra the Forsaken, given: Gnuldrthýra, aliases: [the Forsaken]}
+name: {full: Gnuldrthira the Forsaken, given: Gnuldrthira, aliases: [the Forsaken]}
 type: being
 subType: character
 tags: [demigod, heroes-of-asguard, unguilded, soldiery]
@@ -361,29 +361,29 @@ sohl:
 
 # Appearance {#appearance}
 
-Gnuldrthýra stands 5'5" with a lithe, predatory frame, weighing about 130 pounds. Her fair skin is smooth and unblemished in a way that seems slightly wrong—too perfect, as though sculpted rather than grown. Her auburn hair is bound in warrior's braids, and her amber eyes are striking and unsettling, with pupils that occasionally catch the light like a cat's. Her features are sharp and beautiful, with high cheekbones, a narrow nose, full lips, and a pointed chin—but subtle signs of her hybrid nature are visible to careful observers. Her canine teeth are slightly too pronounced, her movements too fluid, her reflexes faster than any human's should be. She wears dark leather armor fitted close to her body, allowing maximum freedom of movement, and carries no visible weapons, relying on the inhuman strength that Mótefnir's transformation has given her.
+Gnuldrthira stands 5'5" with a lithe, predatory frame, weighing about 130 pounds. Her fair skin is smooth and unblemished in a way that seems slightly wrong—too perfect, as though sculpted rather than grown. Her auburn hair is bound in warrior's braids, and her amber eyes are striking and unsettling, with pupils that occasionally catch the light like a cat's. Her features are sharp and beautiful, with high cheekbones, a narrow nose, full lips, and a pointed chin—but subtle signs of her hybrid nature are visible to careful observers. Her canine teeth are slightly too pronounced, her movements too fluid, her reflexes faster than any human's should be. She wears dark leather armor fitted close to her body, allowing maximum freedom of movement, and carries no visible weapons, relying on the inhuman strength that Mótefnir's transformation has given her.
 
 # Dossier {#dossier}
 
-Gnuldrthýra was one of [[lore-motefnirdty|Mótefnir]]'s early creations, a being of both human and monstrous traits. She was born in one of Mótefnir's laboratories, a fusion of different beings, but was quickly abandoned by her creator when he deemed her unworthy of his attention. Left to wander the world, Gnuldrthýra struggled with her identity, torn between her human emotions and her monstrous nature. Despite the rejection, she never lost faith in Mótefnir, believing that her existence had a purpose, even if Mótefnir had not yet seen it. Gnuldrthýra became known as the Forsaken, a title she wore with pride as she sought to prove her worth to her creator.
+Gnuldrthira was one of [[lore-motefnirdty|Mótefnir]]'s early creations, a being of both human and monstrous traits. She was born in one of Mótefnir's laboratories, a fusion of different beings, but was quickly abandoned by her creator when he deemed her unworthy of his attention. Left to wander the world, Gnuldrthira struggled with her identity, torn between her human emotions and her monstrous nature. Despite the rejection, she never lost faith in Mótefnir, believing that her existence had a purpose, even if Mótefnir had not yet seen it. Gnuldrthira became known as the Forsaken, a title she wore with pride as she sought to prove her worth to her creator.
 
-A hero made directly by a god is a celestial, a retainer of the god itself and set above all mortals. Gnuldrthýra is a celestial of Mótefnir by her making, so she holds no rank in the mortal ladder of his faith or of any other.
+A hero made directly by a god is a celestial, a retainer of the god itself and set above all mortals. Gnuldrthira is a celestial of Mótefnir by her making, so she holds no rank in the mortal ladder of his faith or of any other.
 
-The saga of Gnuldrthýra the Forsaken tells of her journey to reclaim her place in Mótefnir's creation. She heard rumors of the Heart of the Firstborn, hidden deep within one of Mótefnir's oldest and most dangerous laboratories. This relic was said to hold the essence of Mótefnir's first and most beloved creation. The journey was perilous, filled with traps and hostile Dreadspawn, but Gnuldrthýra's determination drove her forward. In the heart of the laboratory, she faced a guardian created by Mótefnir himself. In a fierce battle, Gnuldrthýra defeated the guardian, claiming the Heart of the Firstborn. Rather than offering it to Mótefnir, she absorbed its essence into herself, transforming into a being of immense power and beauty—a champion of Mótefnir's path.
+The saga of Gnuldrthira the Forsaken tells of her journey to reclaim her place in Mótefnir's creation. She heard rumors of the Heart of the Firstborn, hidden deep within one of Mótefnir's oldest and most dangerous laboratories. This relic was said to hold the essence of Mótefnir's first and most beloved creation. The journey was perilous, filled with traps and hostile Dreadspawn, but Gnuldrthira's determination drove her forward. In the heart of the laboratory, she faced a guardian created by Mótefnir himself. In a fierce battle, Gnuldrthira defeated the guardian, claiming the Heart of the Firstborn. Rather than offering it to Mótefnir, she absorbed its essence into herself, transforming into a being of immense power and beauty—a champion of Mótefnir's path.
 
 ## Psyche
 
 ### Personality
 
-Gnuldrthýra is defiant and proud, carrying her abandonment not as a wound but as armor. She is suspicious of kindness, having learned that most people who approach her do so out of curiosity about her monstrous traits or desire to exploit her power. Beneath her guarded exterior, she craves acceptance and connection, though she would die before admitting it. She has a fierce, almost savage joy in combat that hints at the non-human aspects of her nature, and she sometimes displays uncanny instincts and inhuman reflexes that unsettle even her allies.
+Gnuldrthira is defiant and proud, carrying her abandonment not as a wound but as armor. She is suspicious of kindness, having learned that most people who approach her do so out of curiosity about her monstrous traits or desire to exploit her power. Beneath her guarded exterior, she craves acceptance and connection, though she would die before admitting it. She has a fierce, almost savage joy in combat that hints at the non-human aspects of her nature, and she sometimes displays uncanny instincts and inhuman reflexes that unsettle even her allies.
 
 ### Motivation
 
-Gnuldrthýra seeks to define herself on her own terms rather than be defined by her creator's rejection. She wants to prove that she is not a failed experiment but a complete being worthy of existence. The Heart of the Firstborn has given her power but also visions of other forsaken creations scattered across the world, and she feels a growing responsibility to find and protect them.
+Gnuldrthira seeks to define herself on her own terms rather than be defined by her creator's rejection. She wants to prove that she is not a failed experiment but a complete being worthy of existence. The Heart of the Firstborn has given her power but also visions of other forsaken creations scattered across the world, and she feels a growing responsibility to find and protect them.
 
 ### Strengths
 
-Since absorbing the Heart of the Firstborn, Gnuldrthýra possesses strength and resilience far beyond mortal limits. Her hybrid nature gives her senses that no human could match—she can see in total darkness, track by scent, and sense magical energy. She is a ferocious combatant who blends human martial skill with inhuman speed and power. Her unique nature makes her resistant to many forms of magic that would affect ordinary humans.
+Since absorbing the Heart of the Firstborn, Gnuldrthira possesses strength and resilience far beyond mortal limits. Her hybrid nature gives her senses that no human could match—she can see in total darkness, track by scent, and sense magical energy. She is a ferocious combatant who blends human martial skill with inhuman speed and power. Her unique nature makes her resistant to many forms of magic that would affect ordinary humans.
 
 ## Social
 
@@ -391,20 +391,20 @@ Since absorbing the Heart of the Firstborn, Gnuldrthýra possesses strength and 
 
 ### Patrons
 
-[[being-dvrnvrshpr|Dvurnvir the Shaper]]—The only person who has ever treated Gnuldrthýra as a fellow being rather than a curiosity or monster. Their relationship is complicated by Dvurnvir's scientific interest in her unique nature, but his respect is real.
+[[being-dvrnvrshpr|Dvurnvir the Shaper]]—The only person who has ever treated Gnuldrthira as a fellow being rather than a curiosity or monster. Their relationship is complicated by Dvurnvir's scientific interest in her unique nature, but his respect is real.
 
-**The Forsaken Ones**—A loose community of Mótefnir's abandoned creations who recognize Gnuldrthýra as a champion since she absorbed the Heart of the Firstborn.
+**The Forsaken Ones**—A loose community of Mótefnir's abandoned creations who recognize Gnuldrthira as a champion since she absorbed the Heart of the Firstborn.
 
 ### Enemies
 
-**The Purity Crusade**—A fanatical movement that views all of Mótefnir's creations as abominations that must be destroyed. They consider Gnuldrthýra an especially dangerous target and have mobilized significant resources to hunt her.
+**The Purity Crusade**—A fanatical movement that views all of Mótefnir's creations as abominations that must be destroyed. They consider Gnuldrthira an especially dangerous target and have mobilized significant resources to hunt her.
 
-**Mótefnir's Warden**—A powerful entity left behind to guard Mótefnir's laboratories. It views Gnuldrthýra's theft of the Heart of the Firstborn as an unforgivable transgression and relentlessly pursues her.
+**Mótefnir's Warden**—A powerful entity left behind to guard Mótefnir's laboratories. It views Gnuldrthira's theft of the Heart of the Firstborn as an unforgivable transgression and relentlessly pursues her.
 
 ## Plot Hooks
 
-1. **The Forsaken Children**—Gnuldrthýra's visions have led her to a settlement where Mótefnir's abandoned creations are being enslaved and used as forced labor. She must liberate them while confronting her own feelings about belonging and identity.
+1. **The Forsaken Children**—Gnuldrthira's visions have led her to a settlement where Mótefnir's abandoned creations are being enslaved and used as forced labor. She must liberate them while confronting her own feelings about belonging and identity.
 
-2. **The Heart's Price**—The power of the Heart of the Firstborn is slowly transforming Gnuldrthýra, making her more powerful but also more monstrous. She must find a way to control the transformation or risk losing her humanity entirely.
+2. **The Heart's Price**—The power of the Heart of the Firstborn is slowly transforming Gnuldrthira, making her more powerful but also more monstrous. She must find a way to control the transformation or risk losing her humanity entirely.
 
-3. **The Maker's Return**—Signs suggest that Mótefnir may be stirring from his indifference, drawn by the power Gnuldrthýra has claimed. Whether the god's attention is a blessing or a curse remains to be seen.
+3. **The Maker's Return**—Signs suggest that Mótefnir may be stirring from his indifference, drawn by the power Gnuldrthira has claimed. Whether the god's attention is a blessing or a curse remains to be seen.

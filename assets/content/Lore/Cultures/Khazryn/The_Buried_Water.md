@@ -1,6 +1,6 @@
 ---
 shortcode: waterunder
-name: {full: The Buried Water, aliases: [Uruvolquyad]}
+name: {full: The Buried Water, aliases: [Uruvolkuyad]}
 type: lore
 subType: literature
 description: "The Sahri star-song of the lake under the sand: the lake people and their canals, the wells dug down toward their dead, the water that went to ground to find them, the well-mother at the bottom of the stair, the kings in their stone houses, and the day the water comes up again, sung at the hidden oasis on the first night of the grass with a star to every stanza."
@@ -8,7 +8,7 @@ tags: [draft, khazryn]
 data:
   packFolder: settinglore
   culture: sowidesclt
-  form: köyöz
+  form: koyoz
   subjects:
     - lore-basinbldrs
     - place-ewod
@@ -20,13 +20,13 @@ data:
   language: sowideslng
 ---
 
-**The Buried Water**, _Uruvolquyad_, is a song (_köyöz_) of the [[affiliation-sahritrb|Sahri]], the small [[lore-sowidesclt|Sovidur]] tribe of the deep desert that keeps a hidden oasis and holds prophecies in song tied to the movements of the stars. A _köyöz_ is unrhymed and sung without an instrument, and each of its stanzas opens on the thing it is about and closes on the same phrase; in a star-song the thing is a star, and the stanzas follow the stars up through the year. The eldest of the Sahri sings this one at the hidden oasis on the first night of the grass, with the tribe round the pool and the children told to watch the sky and not the singer, because the song is a way of learning where the stars stand.
+**The Buried Water**, _Uruvolkuyad_, is a song (_koyoz_) of the [[affiliation-sahritrb|Sahri]], the small [[lore-sowidesclt|Sovidur]] tribe of the deep desert that keeps a hidden oasis and holds prophecies in song tied to the movements of the stars. A _koyoz_ is unrhymed and sung without an instrument, and each of its stanzas opens on the thing it is about and closes on the same phrase; in a star-song the thing is a star, and the stanzas follow the stars up through the year. The eldest of the Sahri sings this one at the hidden oasis on the first night of the grass, with the tribe round the pool and the children told to watch the sky and not the singer, because the song is a way of learning where the stars stand.
 
-What it tells is the steppe's account of the ground it rides on. The heart of the sands was a lake, and a people the tribes call the [[lore-basinbldrs|Basin Builders]] and the song calls the lake people farmed its shore, cut canals, raised stepped mounds of brick and dug wells far below a lake that already gave water. The tribes hold that the lake did not dry but went down, into the ground, to find its people, and that it will come up again where the last of the builders' blood is paid for; the song gives that belief its full shape, with [[place-ewod|Evöd]] the salt bed, [[place-qelod|Kelöd]] the stair, the well-mother **Kelödeköön** who keeps the bottom of it, and the painted tombs of [[place-osikor|Oshiqor]] in the stone to the north. The stars are named in the song's own words, and one of them, **Khamaqjivoq**, the Skull-pole, is the star the Sahri steer by. The rendering below was given by a Sahri ranger to a Tellumi clerk of [[place-kethramir|Kethramír]] in return for a service the clerk does not describe; where the tribes' sentence is quoted, it is the sentence every tribe of the sands teaches its children, "the water went to ground to find its people."
+What it tells is the steppe's account of the ground it rides on. The heart of the sands was a lake, and a people the tribes call the [[lore-basinbldrs|Basin Builders]] and the song calls the lake people farmed its shore, cut canals, raised stepped mounds of brick and dug wells far below a lake that already gave water. The tribes hold that the lake did not dry but went down, into the ground, to find its people, and that it will come up again where the last of the builders' blood is paid for; the song gives that belief its full shape, with [[place-ewod|Evod]] the salt bed, [[place-qelod|Kelod]] the stair, the well-mother **Kelodekoon** who keeps the bottom of it, and the painted tombs of [[place-osikor|Oshiqor]] in the stone to the north. The stars are named in the song's own words, and one of them, **Khamaqjivoq**, the Skull-pole, is the star the Sahri steer by. The rendering below was given by a Sahri ranger to a Tellumi clerk of [[place-kethramir|Kethramír]] in return for a service the clerk does not describe; where the tribes' sentence is quoted, it is the sentence every tribe of the sands teaches its children, "the water went to ground to find its people."
 
 : The Buried Water {#song}
 
-```poetry {form=köyöz lang=en}
+```poetry {form=koyoz lang=en}
 The Rider. First up, in the west, when the grass comes.
 Look at him. He stands up out of the dune at dusk with his spear.
 He is the first star because he is the first thing a tribe needs:
@@ -118,7 +118,7 @@ And below the third chamber of any of the eleven, the kings get up.
 The water is under. We ride on its roof.
 
 The Stair. A long slant of dim stars going down toward the horizon in the cold.
-This is Kelöd. The great well. The stair the lake people cut, going down in square turns,
+This is Kelod. The great well. The stair the lake people cut, going down in square turns,
 each flight narrower than the last, three hundred feet, to a landing that was a pool
 and is dry stone with a drain in it. In the first night of the grass we ride to the rim
 and throw in what we throw: a coin, a knife, bread, a lock of hair, a bracelet.
@@ -127,7 +127,7 @@ Nobody goes down for them, and this is why.
 The water is under. We ride on its roof.
 
 The Mother. A star you cannot see. The song points to the dark place beside the Stair's foot.
-Kelödeköön is at the bottom. The well-mother. She kept the water when the lake people had it
+Kelodekoon is at the bottom. The well-mother. She kept the water when the lake people had it
 and she has kept it since, and she lets one traveler a year come down and drink,
 and the rest she turns back, and the ones she turns back do not climb out.
 That is what the mothers tell the children and it is true in the way such things are true:
@@ -136,7 +136,7 @@ and it has taken a child on a rope and a bucket and a man's arm to the shoulder,
 The water is under. We ride on its roof.
 
 The Salt. A white haze of stars, no shape, over where the basin lies, in the deep cold.
-Evöd. The lake's floor. Forty miles of white so bright a rider shades his eyes at noon
+Evod. The lake's floor. Forty miles of white so bright a rider shades his eyes at noon
 and cannot tell how far a thing is, and the mirage stands up out of it from mid-morning,
 and a man steers for a well that is not there and walks off the white in the wrong direction
 and meets no water for five days. The slab-cutters work the edge and trade the salt west for grain.
@@ -177,8 +177,8 @@ The water is under. We ride on its roof.
 ## See Also
 
 - [[lore-basinbldrs|The Basin Builders]]—the lake people, and the question the song does not answer
-- [[place-ewod|Evöd]]—the salt bed, the mounds and the stair under the crust
-- [[place-qelod|Kelöd]]—the stepped well, the offerings and what lies in the drain
+- [[place-ewod|Evod]]—the salt bed, the mounds and the stair under the crust
+- [[place-qelod|Kelod]]—the stepped well, the offerings and what lies in the drain
 - [[place-osikor|Oshiqor]]—the painted tombs in the stone, and the kings who are not asleep
 - [[affiliation-sahritrb|Sahri]]—the tribe that sings it, and reads the stars for the day
 - [[lore-sowidesclt|The Sovidur]]—the sky-father, the earth-mother and the laying-out

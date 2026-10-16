@@ -1,9 +1,9 @@
 ---
 shortcode: aimelineulme
-name: {full: Áimelinë Úlmerndë, aliases: [Lady Áimelinë Úlmerndë, Lady Áimelinë]}
+name: {full: Áimeline Úlmernde, aliases: [Lady Áimeline Úlmernde, Lady Áimeline]}
 type: being
 subType: npc
-description: A minor noblewoman with a keen interest in alchemical remedies, who suffers from a rare blood disorder and commissions tonics and elixirs from Sévren Mírkelis.
+description: A minor noblewoman with a keen interest in alchemical remedies, who suffers from a rare blood disorder and commissions tonics and elixirs from Sevren Mírkelis.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Áimelinë Úlmerndë is a 34-year-old woman who stands 5'9" tall with a medium build. She has pale skin, smooth complexion, dark brown hair, and blue eyes.
+Áimeline Úlmernde is a 34-year-old woman who stands 5'9" tall with a medium build. She has pale skin, smooth complexion, dark brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Áimelinë Úlmerndë is a minor noblewoman with a keen interest in alchemical remedies. She suffers from a rare blood disorder and commissions tonics and elixirs from [[being-sevnmyrkls|Sévren Mírkelis]], one of whose patrons she is.
+Áimeline Úlmernde is a minor noblewoman with a keen interest in alchemical remedies. She suffers from a rare blood disorder and commissions tonics and elixirs from [[being-sevnmyrkls|Sevren Mírkelis]], one of whose patrons she is.

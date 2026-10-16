@@ -1,6 +1,6 @@
 ---
 shortcode: tldrklmrth
-name: {full: Táldor Kálmereth, aliases: []}
+name: {full: Taldor Kálmereth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,23 +393,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Táldor Kálmereth is a 47-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with high cheekbones, a prominent forehead, and a rounded jaw that leads to a delicate chin. His almond-shaped gray eyes sit beneath expressive brows and give him a measured gaze. He has a delicate nose and narrow lips. He has fair skin with a weathered complexion. His red hair falls in loose waves.
+Taldor Kálmereth is a 47-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with high cheekbones, a prominent forehead, and a rounded jaw that leads to a delicate chin. His almond-shaped gray eyes sit beneath expressive brows and give him a measured gaze. He has a delicate nose and narrow lips. He has fair skin with a weathered complexion. His red hair falls in loose waves.
 
 # Dossier {#dossier}
 
-Táldor Kálmereth is a fisher of Elanmere, the lake town at the foot of the Sórvanda mountains in [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the lake from his own boat for thirty years and keeps its observances.
+Taldor Kálmereth is a fisher of Elanmere, the lake town at the foot of the Sórvanda mountains in [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the lake from his own boat for thirty years and keeps its observances.
 
-Táldor learned the lake from his father and works it alone from the small boat that was his: where the fish lie in each month, how the wind comes down off the snowfields, and where a net is put down and where it is not. The lake is deep, cold and clear, and the boatmen hold it to be inhabited; Táldor keeps the observances his father kept without ever having said why, and he has seen enough in thirty years on the water to go on keeping them. He sells his catch at the Elanmere market and, in autumn, to the Péravel factors who come up for the fair, and he gives away more than he sells. A family with a sick father or a dead one eats Kálmereth fish through the winter and is not asked for thanks.
+Taldor learned the lake from his father and works it alone from the small boat that was his: where the fish lie in each month, how the wind comes down off the snowfields, and where a net is put down and where it is not. The lake is deep, cold and clear, and the boatmen hold it to be inhabited; Taldor keeps the observances his father kept without ever having said why, and he has seen enough in thirty years on the water to go on keeping them. He sells his catch at the Elanmere market and, in autumn, to the Péravel factors who come up for the fair, and he gives away more than he sells. A family with a sick father or a dead one eats Kálmereth fish through the winter and is not asked for thanks.
 
 ## Psyche
 
 ### Personality
 
-Táldor is gruff, solitary and close-mouthed, easier with the lake than with people and kinder to them than his manner shows. His hands have begun to stiffen, and he hides it badly.
+Taldor is gruff, solitary and close-mouthed, easier with the lake than with people and kinder to them than his manner shows. His hands have begun to stiffen, and he hides it badly.
 
 ### Motivation
 
-Táldor wants to work the lake alone and correctly for as long as his hands will haul a net, and he wants nobody in Elanmere to go hungry while there is fish in his boat. He has not thought about what happens to either when the hands stop.
+Taldor wants to work the lake alone and correctly for as long as his hands will haul a net, and he wants nobody in Elanmere to go hungry while there is fish in his boat. He has not thought about what happens to either when the hands stop.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ Skilled in reading the lake's water and weather, an experienced fisherman, hard 
 
 ## Social
 
-Táldor belongs to no guild; what governs the boatmen of the lake is the observances, which every one of them keeps and none will explain to a stranger.
+Taldor belongs to no guild; what governs the boatmen of the lake is the observances, which every one of them keeps and none will explain to a stranger.
 
 ## Companions
 
 ### Patrons
 
-Táldor's patrons are the market of Elanmere, which takes his catch fresh, and the Péravel factors who buy salted fish at the autumn fair.
+Taldor's patrons are the market of Elanmere, which takes his catch fresh, and the Péravel factors who buy salted fish at the autumn fair.
 
 ### Enemies
 
@@ -431,10 +431,10 @@ A younger fisher of the town who nets where the boatmen do not and has been luck
 
 ## Plot Hooks
 
-1. **The Wrong Water**—The young fisher has put a net down over the deep hole under the eastern cliff, where nobody nets, and it has come up full. He means to go back, and the boatmen have asked Táldor to stop him.
+1. **The Wrong Water**—The young fisher has put a net down over the deep hole under the eastern cliff, where nobody nets, and it has come up full. He means to go back, and the boatmen have asked Taldor to stop him.
 
-2. **The Fair**—The Péravel factors have offered Táldor a contract for salted fish that would keep him for the years his hands have left, if he will fish the lake as they want it fished.
+2. **The Fair**—The Péravel factors have offered Taldor a contract for salted fish that would keep him for the years his hands have left, if he will fish the lake as they want it fished.
 
 3. **The Lake**—Something has begun to take nets from the water in the night, whole, and leave the floats. The boatmen have stopped going out, and the town is hungry.
 
-4. **The Hands**—Táldor could not close his hands on the net this morning, and he has three families who eat from his boat and nobody to tell.
+4. **The Hands**—Taldor could not close his hands on the net this morning, and he has three families who eat from his boat and nobody to tell.

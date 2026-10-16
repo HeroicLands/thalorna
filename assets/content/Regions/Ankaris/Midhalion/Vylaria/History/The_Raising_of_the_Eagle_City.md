@@ -5,7 +5,7 @@ name:
   aliases: [The Walling of Arvel, The Moving of the Senate]
 type: lore
 subType: history
-description: "From about 1 AF the first Ôrzâs walls the crown of Arvel above the galleries sealed in 45 BF, moves the Senate up from its old hall on Antel, and consecrates the thîrûthrimâ around the whole of the Six Hills, a city that takes the name Ôrzâra."
+description: "From about 1 AF the first Orzas walls the crown of Arvel above the galleries sealed in 45 BF, moves the Senate up from its old hall on Antel, and consecrates the thrima around the whole of the Six Hills, a city that takes the name Orzara."
 tags: [history, vylaria, firstaugs]
 data:
   culture: vylarianclt
@@ -18,7 +18,7 @@ data:
       depth: region
       sources: [place-arvon, place-arvel, place-sixhillsvyl, place-orzara]
       summary: >-
-        The first Ôrzâs walls the crown of Arvel above the galleries sealed in 45 BF, builds the Seldan and the Guard Camp inside the new wall, and moves the Senate up from its old hall on Antel. He walks and consecrates the thîrûthrimâ around the whole of the Six Hills and gives the city the name Ôrzâra. The Republic's capital becomes the Old Hill, and the hill above it becomes the seat of the throne. A colossal statue of the Founder is raised in the Circle before the new gate to preside over accessions and triumphs.
+        The first Orzas walls the crown of Arvel above the galleries sealed in 45 BF, builds the Seldan and the Guard Camp inside the new wall, and moves the Senate up from its old hall on Antel. He walks and consecrates the thrima around the whole of the Six Hills and gives the city the name Orzara. The Republic's capital becomes the Old Hill, and the hill above it becomes the seat of the throne. A colossal statue of the Founder is raised in the Circle before the new gate to preside over accessions and triumphs.
       standing: reconstructed
       names:
         - name: the Eagle City
@@ -31,7 +31,7 @@ data:
         locus: [place-arvel]
         reach:
           - place: place-orzara
-            how: the thîrûthrimâ and the Clearance follow the line walked in these years, and the Seldan still sits by the forms carried up from the Old Hill
+            how: the thrima and the Clearance follow the line walked in these years, and the Seldan still sits by the forms carried up from the Old Hill
             knowledge: named
           - place: place-sixhillsvyl
             how: Antel loses the Senate and the great families within a few generations, and its early monuments are left unrepaired
@@ -68,24 +68,24 @@ Before the Empire, the city of the Republic stood on [[place-sixhillsvyl|Antel]]
 
 ## The Walling
 
-The first Ôrzâs ([[lore-thefounding|The Founding]]) took the opposite view. Within the first dozen years of his reign his engineers walled the crown of Arvel in the ring that stands there now, and built the Seldan and the Guard Camp inside it. The galleries beneath were left sealed, and the palace was founded over them. When the wall closed, the Senate walked up from the Old Hill in procession, carrying its forms and its records with it. It has sat on the Eagle Hill since, and a _kurthândôs_ (senator) reading the Seldan's rules of debate is reading the Republic's, set down in the same words and carried uphill.
+The first Orzas ([[lore-thefounding|The Founding]]) took the opposite view. Within the first dozen years of his reign his engineers walled the crown of Arvel in the ring that stands there now, and built the Seldan and the Guard Camp inside it. The galleries beneath were left sealed, and the palace was founded over them. When the wall closed, the Senate walked up from the Old Hill in procession, carrying its forms and its records with it. It has sat on the Eagle Hill since, and a _kurthos_ (senator) reading the Seldan's rules of debate is reading the Republic's, set down in the same words and carried uphill.
 
-He then had the thîrûthrimâ walked and consecrated, the sacred line that bounds the city in law, so that it ran around all six hills, and he gave the whole the name **Ôrzâra**. From this point the name covers everything the line encloses.
+He then had the thrima walked and consecrated, the sacred line that bounds the city in law, so that it ran around all six hills, and he gave the whole the name **Orzara**. From this point the name covers everything the line encloses.
 
 ## The Statue
 
-The colossus of the Founder stands in the Ôrzâs's Circle before the Inner City's gate, and every accession and triumph passes it. On the plinth, in the Thâravarkon letters, a crowned rune stands where the script's rule puts the name of a god, a founder or a reigning Ôrzâs. The rune encloses a patch of the stone that has been worked smooth. Nobody who works in the Circle can say when it was done, and the Seldan's clerks, asked whose name it was meant to hold, refer the question to the record, which does not give the Founder's name.
+The colossus of the Founder stands in the Orzas's Circle before the Inner City's gate, and every accession and triumph passes it. On the plinth, in the Tharavarkon letters, a crowned rune stands where the script's rule puts the name of a god, a founder or a reigning Orzas. The rune encloses a patch of the stone that has been worked smooth. Nobody who works in the Circle can say when it was done, and the Seldan's clerks, asked whose name it was meant to hold, refer the question to the record, which does not give the Founder's name.
 
 ## What It Left
 
-- **The Inner Wall.** The ring on the crown of Arvel, the only wall Ôrzâra has.
+- **The Inner Wall.** The ring on the crown of Arvel, the only wall Orzara has.
 - **The Old Hill.** Antel, left to the families too proud or too poor to leave it, its early monuments weathering unrepaired.
 - **The Seldan's forms.** The Republic's debate carried uphill, which the Senate offers as its proof of continuity and the throne as its proof of ownership.
 - **A palace over sealed rooms.** The Palvar stands on the hill whose galleries nobody opens, and the Sorvan holds its doors and do not say why.
 
 ## See Also
 
-- [[lore-thefounding|The Founding]]—the _kurthândôs_ who made himself the first Ôrzâs
+- [[lore-thefounding|The Founding]]—the _kurthos_ who made himself the first Orzas
 - [[lore-ridersdisb|The Lease Refused]]—the Eyrie sealed beneath the hill
 - [[place-arvon|Arvon]]—the Inner City the wall encloses
 - [[place-antel|Antel]]—the Republic's city, left behind

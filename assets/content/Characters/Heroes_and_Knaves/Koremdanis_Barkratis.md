@@ -1,6 +1,6 @@
 ---
 shortcode: krmdnsbrkrtys
-name: {full: Korêmdânis Barkrâtis, given: Korêmdânis, clan: Barkrâtis, aliases: []}
+name: {full: Koremdanis Barkratis, given: Koremdanis, clan: Barkratis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -414,9 +414,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[krmdnsbrkrtys|Korêmdânis Barkrâtis]]{float=top-left}
+![[krmdnsbrkrtys|Koremdanis Barkratis]]{float=top-left}
 
-Korêmdânis stands 6'0" tall with a medium build. She has light olive skin, auburn hair, and amber eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, heavy brows, and angular cheeks. She has a tattoo of a dragonfly on her neck.
+Koremdanis stands 6'0" tall with a medium build. She has light olive skin, auburn hair, and amber eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, heavy brows, and angular cheeks. She has a tattoo of a dragonfly on her neck.
 
 # Dossier {#dossier}
 
@@ -424,27 +424,27 @@ Korêmdânis stands 6'0" tall with a medium build. She has light olive skin, aub
 
 ### Early Life
 
-Korêmdânis was born into House Barkrâtis, a noble family of the Empire of Vylaria whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Korêmdânis showed from childhood an obsessive interest in the art of the blade. Her father, Lord Thêlvarôs Barkrâtis, indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster Pêlêrar, a celebrated figure in the dueling circles of Sâlkhâlon, the capital city of the Empire.
+Koremdanis was born into House Barkratis, a noble family of the Empire of Vylaria whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Koremdanis showed from childhood an obsessive interest in the art of the blade. Her father, Lord Thelvaros Barkratis, indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster Pelerar, a celebrated figure in the dueling circles of Salkalon, the capital city of the Empire.
 
 ### Training and Ascension
 
-Under Pêlêrar's exacting instruction, Korêmdânis proved to be talented beyond the ordinary. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred Path of Breath—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery brought her philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
+Under Pelerar's exacting instruction, Koremdanis proved to be talented beyond the ordinary. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred Path of Breath—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery brought her philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
 
 ### Current Situation
 
-Now established as perhaps the foremost swordmaster in the Empire of Vylaria, Korêmdânis operates a prestigious fencing academy in Sâlkhâlon that is attended by the children of the realm's most powerful families. She teaches philosophy as well as technique, selecting students with care and maintaining rigorous standards of both skill and character. Her reputation extends far beyond the Empire—rival duelists from other realms travel to challenge her, poets compose verses about her victories, and noble families from distant lands send their heirs to study with her. Despite her renown, she remains austere, accepting only students who demonstrate real commitment and refusing to teach those she believes would abuse their skills.
+Now established as perhaps the foremost swordmaster in the Empire of Vylaria, Koremdanis operates a prestigious fencing academy in Salkalon that is attended by the children of the realm's most powerful families. She teaches philosophy as well as technique, selecting students with care and maintaining rigorous standards of both skill and character. Her reputation extends far beyond the Empire—rival duelists from other realms travel to challenge her, poets compose verses about her victories, and noble families from distant lands send their heirs to study with her. Despite her renown, she remains austere, accepting only students who demonstrate real commitment and refusing to teach those she believes would abuse their skills.
 
 ## Psyche
 
 ### Personality
 
-Korêmdânis is a woman of few words and absolute principle. She communicates primarily through action and demonstration, believing that excessive speech clouds understanding. In teaching, she is demanding but fair, pushing her students to their limits because she believes that true growth comes only through challenging oneself. She possesses an intense competitive drive that borders on obsession—every duel, every sparring session, every test is an opportunity to refine her craft further and to prove her mastery. This competitive nature sometimes leads her to take unnecessary risks or to pursue victory with fierce intensity that others find intimidating.
+Koremdanis is a woman of few words and absolute principle. She communicates primarily through action and demonstration, believing that excessive speech clouds understanding. In teaching, she is demanding but fair, pushing her students to their limits because she believes that true growth comes only through challenging oneself. She possesses an intense competitive drive that borders on obsession—every duel, every sparring session, every test is an opportunity to refine her craft further and to prove her mastery. This competitive nature sometimes leads her to take unnecessary risks or to pursue victory with fierce intensity that others find intimidating.
 
-She is a person of principle and honor, bound by a strict code of conduct that governs all her actions—she will not accept challenges from those she knows she can easily defeat, she refuses to duel those who are drunk or emotionally unstable, and she has turned down offers of enormous wealth if they involved compromising her integrity. She serves Lîzêlâs, goddess of fertility and growth, not through prayer or ritual but through her dedication to helping others grow and develop their full potential. She sees in each of her students the possibility of becoming something magnificent, and she dedicates herself to nurturing that potential.
+She is a person of principle and honor, bound by a strict code of conduct that governs all her actions—she will not accept challenges from those she knows she can easily defeat, she refuses to duel those who are drunk or emotionally unstable, and she has turned down offers of enormous wealth if they involved compromising her integrity. She serves Lizelas, goddess of fertility and growth, not through prayer or ritual but through her dedication to helping others grow and develop their full potential. She sees in each of her students the possibility of becoming something magnificent, and she dedicates herself to nurturing that potential.
 
 ### Motivation
 
-Korêmdânis is driven by a vision of mastery that goes beyond technical skill. She seeks to perfect the art of swordsmanship and, with it, the art of living with complete integrity, discipline, and purpose. She believes that combat is ultimately a form of communication and that a perfect duel is a kind of conversation between two skilled practitioners. She is driven to achieve such a state of unity with her weapons and her purpose that every movement becomes an expression of spiritual truth. She also harbors a desire to preserve and elevate the traditions of swordplay, fearing that in an age of increasingly utilitarian warfare, the philosophical and spiritual dimensions of martial discipline are being lost. She also seeks to rebuild her family's honor through her own accomplishments, transforming House Barkrâtis from a name of faded glory into one synonymous with martial excellence and integrity.
+Koremdanis is driven by a vision of mastery that goes beyond technical skill. She seeks to perfect the art of swordsmanship and, with it, the art of living with complete integrity, discipline, and purpose. She believes that combat is ultimately a form of communication and that a perfect duel is a kind of conversation between two skilled practitioners. She is driven to achieve such a state of unity with her weapons and her purpose that every movement becomes an expression of spiritual truth. She also harbors a desire to preserve and elevate the traditions of swordplay, fearing that in an age of increasingly utilitarian warfare, the philosophical and spiritual dimensions of martial discipline are being lost. She also seeks to rebuild her family's honor through her own accomplishments, transforming House Barkratis from a name of faded glory into one synonymous with martial excellence and integrity.
 
 ### Strengths
 
@@ -472,8 +472,8 @@ Korêmdânis is driven by a vision of mastery that goes beyond technical skill. 
 The Imperial House of Vylaria
 : The royal family employs her as unofficial advisor on martial matters and frequently commissions her to teach their scions. The Emperor himself has attended her demonstrations.
 
-House Barkrâtis
-: Her own noble family relies on her to restore their reputation and standing, and she has successfully elevated their status from declining house to one of prestige in Sâlkhâlon.
+House Barkratis
+: Her own noble family relies on her to restore their reputation and standing, and she has successfully elevated their status from declining house to one of prestige in Salkalon.
 
 The Wyvern-Sword Company
 : A mercenary military company hires her as a consultant for combat training and occasionally seeks her counsel on matters of war.
@@ -483,34 +483,34 @@ Wealthy Merchant Families
 
 ### Enemies
 
-Swordmaster Khofios the Undefeated
-: Officially, no rival; practically, Khofios is in the service of the Empire's rival power and harbors intense envy of Korêmdânis's reputation. They have not yet formally dueled, though both know it is inevitable.
+Swordmaster Kofios the Undefeated
+: Officially, no rival; practically, Kofios is in the service of the Empire's rival power and harbors intense envy of Koremdanis's reputation. They have not yet formally dueled, though both know it is inevitable.
 
 The Iron Circle
-: A shadowy assassin's guild views Korêmdânis as a threat to their operations, as her students often become bodyguards and protectors. They have made subtle attempts to undermine her reputation.
+: A shadowy assassin's guild views Koremdanis as a threat to their operations, as her students often become bodyguards and protectors. They have made subtle attempts to undermine her reputation.
 
 Her own ambition, an inner enemy
 : In a sense, her greatest enemy is her perfectionist drive, which drives her forward endlessly but allows her no rest or satisfaction.
 
 ### Affiliations
 
-The City Fencing Guild of Sâlkhâlon
+The City Fencing Guild of Salkalon
 : She is the Guild's acknowledged master and is the final arbiter in disputes over technique and conduct within the dueling circles.
 
 The Path of Breath
 : The sacred martial order to which she belongs, comprising only the most accomplished warriors devoted to uniting technique with spiritual discipline.
 
-House Barkrâtis
+House Barkratis
 : Her noble family, whose honor she has restored and whose name she continues to elevate through her accomplishments.
 
 ## Plot Hooks
 
-1. **The Challenge from the East**: Word arrives that a famed swordmaster from the distant Eastern Kingdoms, a figure named Hiroshi the Unbound, wishes to challenge Korêmdânis to a duel. This master is said to practice a form of swordsmanship completely unknown in Vylaria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or her first real defeat. The duel would draw attention from every court and could have diplomatic consequences; it would be no simple test of martial skill.
+1. **The Challenge from the East**: Word arrives that a famed swordmaster from the distant Eastern Kingdoms, a figure named Hiroshi the Unbound, wishes to challenge Koremdanis to a duel. This master is said to practice a form of swordsmanship completely unknown in Vylaria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or her first real defeat. The duel would draw attention from every court and could have diplomatic consequences; it would be no simple test of martial skill.
 
-2. **The Poisoned Student**: One of her most promising students, Lord Cassian, falls mysteriously ill with a poison that no physician can identify or cure. As Korêmdânis investigates, she discovers evidence suggesting he was poisoned not by an enemy but by a rival student jealous of his progress. The discovery raises the question of what her teaching, taken to extremes, can make of a student.
+2. **The Poisoned Student**: One of her most promising students, Lord Cassian, falls mysteriously ill with a poison that no physician can identify or cure. As Koremdanis investigates, she discovers evidence suggesting he was poisoned not by an enemy but by a rival student jealous of his progress. The discovery raises the question of what her teaching, taken to extremes, can make of a student.
 
-3. **The Imperial Succession Crisis**: The Emperor dies without a clear heir, and several claimants to the throne emerge. A faction supporting one of the claimants approaches Korêmdânis, offering her enormous wealth and power if she will publicly endorse their candidate. Her endorsement would likely determine the succession, making her responsible for the future of the Empire. The political intrigue threatens to embroil her in conflict far beyond her control.
+3. **The Imperial Succession Crisis**: The Emperor dies without a clear heir, and several claimants to the throne emerge. A faction supporting one of the claimants approaches Koremdanis, offering her enormous wealth and power if she will publicly endorse their candidate. Her endorsement would likely determine the succession, making her responsible for the future of the Empire. The political intrigue threatens to embroil her in conflict far beyond her control.
 
-4. **The Betrayal of the Path**: An ancient text surfaces suggesting that the Path of Breath was originally taught by a mystical order now lost to history, and that true mastery requires spiritual practices beyond martial training. A mysterious wanderer named the Ascetic appears in Sâlkhâlon and challenges Korêmdânis's understanding of the path she's devoted her life to mastering. Korêmdânis must journey with this mysterious teacher to discover whether she's been incomplete in her pursuit of mastery.
+4. **The Betrayal of the Path**: An ancient text surfaces suggesting that the Path of Breath was originally taught by a mystical order now lost to history, and that true mastery requires spiritual practices beyond martial training. A mysterious wanderer named the Ascetic appears in Salkalon and challenges Koremdanis's understanding of the path she's devoted her life to mastering. Koremdanis must journey with this mysterious teacher to discover whether she's been incomplete in her pursuit of mastery.
 
-5. **The Master's Retirement**: Swordmaster Pêlêrar, Korêmdânis's ancient teacher and the only person she truly respects, approaches his end. He summons her to his deathbed and reveals that he has identified an heir—another student with potential matching her own. Pêlêrar requests that Korêmdânis train this heir, passing on his legacy. But the heir is trained in a rival tradition, and Korêmdânis questions whether compromising her pure approach to teaching would betray everything Pêlêrar taught her about integrity.
+5. **The Master's Retirement**: Swordmaster Pelerar, Koremdanis's ancient teacher and the only person she truly respects, approaches his end. He summons her to his deathbed and reveals that he has identified an heir—another student with potential matching her own. Pelerar requests that Koremdanis train this heir, passing on his legacy. But the heir is trained in a rival tradition, and Koremdanis questions whether compromising her pure approach to teaching would betray everything Pelerar taught her about integrity.

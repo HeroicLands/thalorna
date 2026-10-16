@@ -270,7 +270,7 @@ The shepherd's path climbs through scrub oak and stops at a bank of raw earth, a
 
 # Dossier {#dossier}
 
-The Quillbear is a dreadspawn in the shape of a huge bear covered in long, barbed, venomous quills: ten to fourteen feet long, seven to nine feet tall standing, and very heavy, though not as heavy as its size suggests. It digs deep, many-chambered burrows and lives in them alone, and it is reclusive and unaggressive until something comes near its burrow, and then it is murderous: it charges, rakes and shoots quills that paralyze. One lives in the [[place-thuravelhills|Thúravel Hills]] of southern Provènzia, the low, wooded, poorly mapped hills that people who live near them do not go far into without a reason. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Quillbear is a dreadspawn in the shape of a huge bear covered in long, barbed, venomous quills: ten to fourteen feet long, seven to nine feet tall standing, and very heavy, though not as heavy as its size suggests. It digs deep, many-chambered burrows and lives in them alone, and it is reclusive and unaggressive until something comes near its burrow, and then it is murderous: it charges, rakes and shoots quills that paralyze. One lives in the [[place-thuravelhills|Túravel Hills]] of southern Provenzia, the low, wooded, poorly mapped hills that people who live near them do not go far into without a reason. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -278,7 +278,7 @@ The quillbear is built like a bear, with massive shoulders, thick limbs and a br
 
 ## In the Land
 
-The Thúravel Hills are good pasture and fair timber, thinly held, and mapped with a vagueness unusual in so well-surveyed a kingdom. The quillbear's burrow is in a deep fold of the higher hills, a hillside riddled with tunnels, several entrances and heaped spoil, and it ranges over a few miles of oak scrub and pasture round it. It eats roots, acorns, honey, carrion, sheep and anything else it can dig up or catch, and it stores food in its burrow. In winter it sleeps there. It does not come near the villages at the hills' edges and has never been seen on the roads that skirt them.
+The Túravel Hills are good pasture and fair timber, thinly held, and mapped with a vagueness unusual in so well-surveyed a kingdom. The quillbear's burrow is in a deep fold of the higher hills, a hillside riddled with tunnels, several entrances and heaped spoil, and it ranges over a few miles of oak scrub and pasture round it. It eats roots, acorns, honey, carrion, sheep and anything else it can dig up or catch, and it stores food in its burrow. In winter it sleeps there. It does not come near the villages at the hills' edges and has never been seen on the roads that skirt them.
 
 ## Key Behaviors
 
@@ -286,7 +286,7 @@ The quillbear spends most of its time in or near its burrow, digging, extending 
 
 ## What the Hill People Do
 
-The shepherds who take flocks onto the higher ground keep to paths that are not written down anywhere, and those paths go well round the fold where the quillbear lives. A shepherd who loses a ewe on that side of the hill does not go after it. The villagers at the hills' edges do not talk about the creature to outsiders any more than about anything else in the hills, and the antiquarians who come collecting the old ballads have not been told of it; one of the ballads, about a "spear-backed bear" that guards a hill and cannot be killed by a man who goes alone, is reckoned among the most fanciful. Dead quills, shed on the hillside, are gathered by the villagers and sold at the coast as needles for sailmakers, with the barbs filed off. The [[affiliation-ordoarcanis|Thôrdimâlon]], which takes an interest in the hills, has not yet learned what the needles are.
+The shepherds who take flocks onto the higher ground keep to paths that are not written down anywhere, and those paths go well round the fold where the quillbear lives. A shepherd who loses a ewe on that side of the hill does not go after it. The villagers at the hills' edges do not talk about the creature to outsiders any more than about anything else in the hills, and the antiquarians who come collecting the old ballads have not been told of it; one of the ballads, about a "spear-backed bear" that guards a hill and cannot be killed by a man who goes alone, is reckoned among the most fanciful. Dead quills, shed on the hillside, are gathered by the villagers and sold at the coast as needles for sailmakers, with the barbs filed off. The [[affiliation-ordoarcanis|Thordimalon]], which takes an interest in the hills, has not yet learned what the needles are.
 
 ## Signs
 

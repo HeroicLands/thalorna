@@ -3,7 +3,7 @@ shortcode: readingweigh
 name: {full: The Reading at the Weighing, aliases: []}
 type: lore
 subType: literature
-description: "The Khelâthi temple litany spoken around a dead person's account at a Reading, setting the household's reading beside the one the gods make at the Weighing."
+description: "The Khelathi temple litany spoken around a dead person's account at a Reading, setting the household's reading beside the one the gods make at the Weighing."
 tags: [draft]
 data:
   packFolder: regkhcult
@@ -18,7 +18,7 @@ data:
   language: khelathlng
 ---
 
-Among the [[lore-khelathiclt|Khelâthi]], temple scribes keep this litany for a Reading, when a dead person's temple account is read aloud before the household, the creditors and the heir. A reader speaks the fixed passages, and the account itself is read where the bracketed directions stand, entry by entry, each landing on its word: closed, or open. The litany follows the doctrine of the Weighing and goes no further than it does. It names the two accounts, [[lore-qearetdty|Qe'âret]]'s scale, Álgit and the [[place-zulaten|Zulaten]], and says nothing of what the dead may do in the hall of the assembled gods.
+Among the [[lore-khelathiclt|Khelathi]], temple scribes keep this litany for a Reading, when a dead person's temple account is read aloud before the household, the creditors and the heir. A reader speaks the fixed passages, and the account itself is read where the bracketed directions stand, entry by entry, each landing on its word: closed, or open. The litany follows the doctrine of the Weighing and goes no further than it does. It names the two accounts, [[lore-qearetdty|Qe'aret]]'s scale, Algit and the [[place-zulaten|Zulaten]], and says nothing of what the dead may do in the hall of the assembled gods.
 
 : The Reading at the Weighing {#reading}
 
@@ -99,7 +99,7 @@ Before the assembled gods both accounts are opened.
 Ours is read as it stands; theirs is set beside it.
 The feather is on the scale, and nothing is bought at the scale.
 The lord who endowed a temple late is read as his tenant is read.
-Short on either, Álgit takes the dead; Álgit, the Devourer of the Dead.
+Short on either, Algit takes the dead; Algit, the Devourer of the Dead.
 Closed on both, the dead passes on; the dead passes into the Zulaten.
     Entered.
 
@@ -113,8 +113,8 @@ Close what you owe; leave open what is owed to you.
 
 ## See Also
 
-- [[lore-qearetdty|Qe'âret]]—the goddess of the scale, and the doctrine of the Weighing
-- [[affiliation-qearet|Faith of Qe'âret]]—the priesthood that keeps the law and the record
-- [[lore-khelathiclt|Khelâthi]]—the two ledgers, the Closing and the Reading
+- [[lore-qearetdty|Qe'aret]]—the goddess of the scale, and the doctrine of the Weighing
+- [[affiliation-qearet|Faith of Qe'aret]]—the priesthood that keeps the law and the record
+- [[lore-khelathiclt|Khelathi]]—the two ledgers, the Closing and the Reading
 - [[place-zulaten|Zulaten]]—where the dead whose entries close go
-- [[affiliation-garhalzi|Gár-Hálzi]]—the temple-treasuries whose grain credit stands in a temple account
+- [[affiliation-garhalzi|Gar-Hálzi]]—the temple-treasuries whose grain credit stands in a temple account

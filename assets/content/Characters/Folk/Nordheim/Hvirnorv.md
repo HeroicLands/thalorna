@@ -3,7 +3,7 @@ shortcode: hvirnorv
 name: {full: Hvirnorv, aliases: [Alderman Hvirnorv]}
 type: being
 subType: npc
-description: An alderman of the Guildhall and strict moralist who views jesters as dangerous corruptors of virtue, named in Tvalgthann Blóthöll.
+description: An alderman of the Guildhall and strict moralist who views jesters as dangerous corruptors of virtue, named in Tvalgthann Bletholl.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Hvirnorv is a 52-year-old man who stands 5'11" tall with a massive build. He has
 
 # Dossier {#dossier}
 
-Hvirnorv is an alderman of the Guildhall and strict moralist who views jesters as dangerous corruptors of virtue. He has publicly questioned the Duke's patronage of Tvalgthann. Hvirnorv is named in [[being-tvlgthnblthl|Tvalgthann Blóthöll]].
+Hvirnorv is an alderman of the Guildhall and strict moralist who views jesters as dangerous corruptors of virtue. He has publicly questioned the Duke's patronage of Tvalgthann. Hvirnorv is named in [[being-tvlgthnblthl|Tvalgthann Bletholl]].

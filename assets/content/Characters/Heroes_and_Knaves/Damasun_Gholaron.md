@@ -1,6 +1,6 @@
 ---
 shortcode: damsnghlrn
-name: {full: Dámàsûn Ghôlâron, given: Dámàsûn, clan: Ghôlâron, aliases: [Kléandir]}
+name: {full: Dámasun Gholaron, given: Dámasun, clan: Gholaron, aliases: [Kléandir]}
 type: being
 subType: character
 tags: [tamzir-crew, clergy]
@@ -403,9 +403,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[damsnghlrn|Dámàsûn Ghôlâron]]{float=top-left}
+![[damsnghlrn|Dámasun Gholaron]]{float=top-left}
 
-Dámàsûn Ghôlâron—known to most simply as Kléandir—is a tall, dark-skinned man of sixty years who carries his age with a dignity that commands respect without demanding it. His black hair has gone largely gray, kept close-cropped against his skull, and his hazel eyes hold a depth of experience that is both comforting and faintly unsettling. He is lean but not frail, and he moves with a measured deliberateness that suggests far more physical capability than his humble cleric's garments would imply. He dresses in a simple light blue tunic, leather shoes, and carries a worn leather shoulder bag that appears to contain little more than books, herbs, and writing materials.
+Dámasun Gholaron—known to most simply as Kléandir—is a tall, dark-skinned man of sixty years who carries his age with a dignity that commands respect without demanding it. His black hair has gone largely gray, kept close-cropped against his skull, and his hazel eyes hold a depth of experience that is both comforting and faintly unsettling. He is lean but not frail, and he moves with a measured deliberateness that suggests far more physical capability than his humble cleric's garments would imply. He dresses in a simple light blue tunic, leather shoes, and carries a worn leather shoulder bag that appears to contain little more than books, herbs, and writing materials.
 
 # Dossier {#dossier}
 
@@ -417,11 +417,11 @@ Kléandir is a Helionite from the southern reaches of that great republic, born 
 
 ### The Missing Years
 
-What is not easily verified is anything about the thirty years between Kléandir's youth and his arrival aboard the Tamzîr. He speaks of theological study, of pilgrimages to holy sites, of years spent in contemplative communities. But the gaps in his story are conspicuous, and the details he provides are carefully curated. He is suspiciously well-traveled for a rural cleric. He speaks multiple languages with native fluency. He handles a blade and bow with a proficiency that no amount of "youthful military service" can adequately explain. And when violence erupts, Kléandir's first instinct is not to pray but to position himself for a clear field of fire.
+What is not easily verified is anything about the thirty years between Kléandir's youth and his arrival aboard the Tamzir. He speaks of theological study, of pilgrimages to holy sites, of years spent in contemplative communities. But the gaps in his story are conspicuous, and the details he provides are carefully curated. He is suspiciously well-traveled for a rural cleric. He speaks multiple languages with native fluency. He handles a blade and bow with a proficiency that no amount of "youthful military service" can adequately explain. And when violence erupts, Kléandir's first instinct is not to pray but to position himself for a clear field of fire.
 
 ### A Man of Contradictions
 
-Kléandir arrived aboard the Tamzîr five years ago, presenting himself as a wandering cleric seeking passage between ports. Bû was suspicious—the man was too capable, too calm, too comfortable with the ship's illegal activities to be what he claimed. But Kléandir proved useful. His theological knowledge earned trust in ports where the crew had none. His quiet counsel helped navigate interpersonal conflicts. And on the three occasions when the Tamzîr was boarded by hostile forces, Kléandir proved devastatingly effective in a fight. Bû stopped asking questions. Some mysteries, he decided, were better left alone.
+Kléandir arrived aboard the Tamzir five years ago, presenting himself as a wandering cleric seeking passage between ports. Bu was suspicious—the man was too capable, too calm, too comfortable with the ship's illegal activities to be what he claimed. But Kléandir proved useful. His theological knowledge earned trust in ports where the crew had none. His quiet counsel helped navigate interpersonal conflicts. And on the three occasions when the Tamzir was boarded by hostile forces, Kléandir proved devastatingly effective in a fight. Bu stopped asking questions. Some mysteries, he decided, were better left alone.
 
 ### Inner Turmoil
 
@@ -435,7 +435,7 @@ Kléandir presents a face of gentle wisdom—patient, soft-spoken, and intereste
 
 ### Motivation
 
-Kléandir is seeking something—redemption, perhaps, or a peace he has not yet found. His faith is sincere but troubled, tested by experiences he will not discuss. He has attached himself to the Tamzîr's crew with a protectiveness that suggests he has found, in these misfits, something worth caring about. He is particularly watchful over the younger members of the crew.
+Kléandir is seeking something—redemption, perhaps, or a peace he has not yet found. His faith is sincere but troubled, tested by experiences he will not discuss. He has attached himself to the Tamzir's crew with a protectiveness that suggests he has found, in these misfits, something worth caring about. He is particularly watchful over the younger members of the crew.
 
 ### Strengths
 
@@ -457,14 +457,14 @@ Unknown, but clearly present. Kléandir avoids certain ports, certain people, an
 
 ### Affiliations
 
-Passenger and informal counselor aboard the **Tamzîr**. He claims affiliation with a minor contemplative order in [[place-helionis|Heliónis]], but the order's records, if checked, would prove curiously incomplete.
+Passenger and informal counselor aboard the **Tamzir**. He claims affiliation with a minor contemplative order in [[place-helionis|Helionis]], but the order's records, if checked, would prove curiously incomplete.
 
 ## Plot Hooks
 
 1. **The Past Arrives**: A stranger in a port city recognizes Kléandir and addresses him by a different name—a name that carries weight and danger. Kléandir's carefully constructed new identity begins to unravel, and the crew must decide how much they need to know about the old man's past.
 
-2. **The Confessor's Burden**: Kléandir has been quietly corresponding with someone about the [[affiliation-ordoarcanis|Thôrdimâlon]]. He knows more about the organization than he has revealed—perhaps more than is safe. When an opportunity arises to strike at the Arcane Order's interests, Kléandir has the knowledge to make it possible, but using it would expose who he once was.
+2. **The Confessor's Burden**: Kléandir has been quietly corresponding with someone about the [[affiliation-ordoarcanis|Thordimalon]]. He knows more about the organization than he has revealed—perhaps more than is safe. When an opportunity arises to strike at the Arcane Order's interests, Kléandir has the knowledge to make it possible, but using it would expose who he once was.
 
-3. **Crisis of Faith**: An event aboard the Tamzîr shakes Kléandir's already fragile faith to its foundation. The crew must contend with the possibility that their steadfast spiritual anchor is coming apart, and that the darkness in Kléandir's past may be closer to the surface than anyone realized.
+3. **Crisis of Faith**: An event aboard the Tamzir shakes Kléandir's already fragile faith to its foundation. The crew must contend with the possibility that their steadfast spiritual anchor is coming apart, and that the darkness in Kléandir's past may be closer to the surface than anyone realized.
 
 4. **The Usurer's Notes**: When Kléandir is injured and his shoulder bag is opened to treat him, the crew discovers the hidden usurer's notes—worth a small fortune. The notes trace back to an institution with ties to Vylarian intelligence. The crew must decide whether to confront Kléandir or trust him despite the evidence.

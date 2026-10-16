@@ -3,7 +3,7 @@ shortcode: oldcompact
 name: {full: The Old Compact, aliases: [The Compact]}
 type: lore
 subType: history
-description: "From 5274 BF to 2427 BF the Sinalë and the Khazári hold a shared accord across much of Thalorna, and make together what neither people can make alone—until the day Khazártúrn falls."
+description: "From 5274 BF to 2427 BF the Sinale and the Khazari hold a shared accord across much of Thalorna, and make together what neither people can make alone—until the day Khazartúrn falls."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -14,7 +14,7 @@ data:
       depth: world
       sources: [place-worldthlrn, lore-flkkhazar, lore-flksinale]
       summary: >-
-        The two Elder Races hold a shared accord spanning much of Thalorna for twenty-eight centuries, beginning within a generation of the Khazári's arrival and ending on the day Khazártúrn falls. Under it they live and work together and produce what neither can produce alone: structures that marry living wood to shaped stone, artifacts that marry Sinalëan enchantment to Khazárian craft, and a worship of the god of dreams held in common. Neither people has ever stated the accord's terms, and neither has spoken to the other since it ended.
+        The two Elder Races hold a shared accord spanning much of Thalorna for twenty-eight centuries, beginning within a generation of the Khazari's arrival and ending on the day Khazartúrn falls. Under it they live and work together and produce what neither can produce alone: structures that marry living wood to shaped stone, artifacts that marry Sinalean enchantment to Khazárian craft, and a worship of the god of dreams held in common. Neither people has ever stated the accord's terms, and neither has spoken to the other since it ended.
       standing: attested
       where:
         locus: [place-worldthlrn]
@@ -54,33 +54,33 @@ data:
         - where the joint works stand, how many of them there are, and which of them are still doing what they were made to do
 ---
 
-For twenty-eight centuries the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]] held
-ground together. The accord opens within a generation of the Khazári arriving as seven clans, before
-[[lore-khazturnrsd|Khazártúrn was cut]], and it closes on the single day in 2427 BF when that city
+For twenty-eight centuries the [[lore-flksinale|Sinale]] and the [[lore-flkkhazar|Khazari]] held
+ground together. The accord opens within a generation of the Khazari arriving as seven clans, before
+[[lore-khazturnrsd|Khazartúrn was cut]], and it closes on the single day in 2427 BF when that city
 was killed. Nothing in the world has ever recorded what its terms were.
 
-The Khazári account opens the accord with a refusal. Soon after the two peoples first met, a Sinalë
-envoy came to the clans and urged them to do as the Sinalë do: to draw back from the world's
+The Khazari account opens the accord with a refusal. Soon after the two peoples first met, a Sinale
+envoy came to the clans and urged them to do as the Sinale do: to draw back from the world's
 troubles and leave them to whoever stayed in it. The clans refused. Their answer, as their account
-keeps it, is that they had not come so far to hide. The Sinalë say nothing of the envoy, as they say nothing of the Khazári at all.
+keeps it, is that they had not come so far to hide. The Sinale say nothing of the envoy, as they say nothing of the Khazari at all.
 
-What it produced is the part the world can still touch. The Sinalë had the living world and the
-intangible; the Khazári had stone and metal and the enduring; and the fragments describe structures
-that blended living wood with shaped stone and artifacts that married Sinalëan enchantment to
+What it produced is the part the world can still touch. The Sinale had the living world and the
+intangible; the Khazari had stone and metal and the enduring; and the fragments describe structures
+that blended living wood with shaped stone and artifacts that married Sinalean enchantment to
 Khazárian craft. Humans meet these as ruins and as priceless curiosities from an age before
 humanity, and cannot reproduce either half of one. They are not usually recognized as the work of two
 hands.
 
 It reached further than craft. Both peoples honored [[lore-goddreams|the god of dreams]] together, or at
 least in parallel, under the accord's terms—and when the accord shattered, the shared rites shattered
-with it. The Khazári also venerate the god's servant
+with it. The Khazari also venerate the god's servant
 [[lore-khazararrv|Puthakun]], who led the seven clans out of Humadhan and saved their people, and the
-Sinalë give him no honor at all. The two traditions have diverged so completely since that whether the Sinalë's
-Aulveira and the Khazári's Luváth would recognize each other's rites is an
+Sinale give him no honor at all. The two traditions have diverged so completely since that whether the Sinale's
+Aulveira and the Khazari's Luváth would recognize each other's rites is an
 open question, and one neither race has any interest in answering.
 
-The end is not gradual. It is [[lore-fallkhazturn|the Fall of Khazártúrn]], and the two events are
-one moment seen from two sides: the Khazári lose their greatest city and thirty thousand of their
+The end is not gradual. It is [[lore-fallkhazturn|the Fall of Khazartúrn]], and the two events are
+one moment seen from two sides: the Khazari lose their greatest city and thirty thousand of their
 people, and the world loses the only arrangement the Elder Races ever made with one another. They do
 not speak. They do not trade. They do not enter each other's territories. On
 [[place-aelwyth|Aelwyth]], where both peoples were already living on the same ground, the estrangement

@@ -1,9 +1,9 @@
 ---
 shortcode: prthurajasam
-name: {full: Prthūrāja Samudrāya, aliases: [Captain-Merchant Prthūrāja]}
+name: {full: Prturaja Samudraya, aliases: [Captain-Merchant Prturaja]}
 type: being
 subType: npc
-description: A successful merchant captain who employs Senāpati Vikramada regularly and has offered him a permanent position.
+description: A successful merchant captain who employs Senapavi Vikramada regularly and has offered him a permanent position.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Prthūrāja Samudrāya is a 49-year-old man who stands 5'9" tall with a medium build. He has golden skin, clear complexion, black hair, and amber eyes.
+Prturaja Samudraya is a 49-year-old man who stands 5'9" tall with a medium build. He has golden skin, clear complexion, black hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Prthūrāja Samudrāya is a successful merchant captain who employs [[being-senptvkrmd|Senāpati Vikramada]] regularly and considers him the foundation of his own trading success; Prthūrāja has offered Senāpati a permanent position with significant authority, which Senāpati has declined.
+Prturaja Samudraya is a successful merchant captain who employs [[being-senptvkrmd|Senapavi Vikramada]] regularly and considers him the foundation of his own trading success; Prturaja has offered Senapavi a permanent position with significant authority, which Senapavi has declined.

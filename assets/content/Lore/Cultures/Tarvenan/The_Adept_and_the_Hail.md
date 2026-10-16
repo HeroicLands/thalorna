@@ -15,7 +15,7 @@ data:
 # terran_analog: "The trickster tale in which a bargain is kept to the letter and the letter undoes the clever party, as in the peasant-and-devil bargains over the top and bottom of a crop; the village assembly as the trickster; and the hail that falls on the liar's field, from the mountain folklore of a goddess who punishes the lie."
 ---
 
-**The Adept and the Hail** is told at the hearths of the hill farms under [[place-durgalis|Dúrgalis]] when the winter is long enough to want a laugh in it. It is the valley's tale of an adept of the [[affiliation-ordoarcanis|Thôrdimâlon]] who came up from a city chapter to sell the farms a contract against the hail, and of the wise-woman **Berúzta**, the Chestnut, so called because she was old, broad and prickly, who told the valley's assembly how to buy it.
+**The Adept and the Hail** is told at the hearths of the hill farms under [[place-durgalis|Dúrgalis]] when the winter is long enough to want a laugh in it. It is the valley's tale of an adept of the [[affiliation-ordoarcanis|Thordimalon]] who came up from a city chapter to sell the farms a contract against the hail, and of the wise-woman **Beruzta**, the Chestnut, so called because she was old, broad and prickly, who told the valley's assembly how to buy it.
 
 It is a tale of a contract kept, and the valley tells it as a comedy. It turns on what the high valleys hold about the hail, that the hail is the Mother's and comes for a lie ([[lore-motheryesno|The Mother's Yes and No]]), and a teller who has told that one first tells this one shorter. The adept is not named in it. A teller who is asked why answers that he signed his name to everything, so the valley had enough of it.
 
@@ -33,7 +33,7 @@ And the assembly sat there. You know how they sit.
 
 **What the assembly thought.** Nobody in the valley wanted a mage. Nobody in Tarvénia wants a mage. A mage is one more somebody who wants to tell you what to do, and this one had a seal on it. But the barley. Everyone had lost a field to the hail at one time or another. And he was offering.
 
-So the old men argued, and the young men argued, and the lord's steward said the lord thought it was a good idea, and that made everyone like it less, and it went round and round. And then old Berúzta stood up.
+So the old men argued, and the young men argued, and the lord's steward said the lord thought it was a good idea, and that made everyone like it less, and it went round and round. And then old Beruzta stood up.
 
 You've heard of her. The wise-woman. The Chestnut. She'd been the valley's wise-woman forty years. She'd set half the bones in that square and delivered the other half. When she stood up the assembly stopped talking.
 
@@ -43,7 +43,7 @@ They stared at her. She said: Let's buy it. But not with his paper. With ours. A
 
 The adept was delighted. He said of course, of course, the valley's own terms, the order was always glad to accommodate local custom. He was very polite.
 
-**Berúzta's terms.** She stood there in the square with her stick, and she said her terms, and the notary from the castle wrote them down, and they were these.
+**Beruzta's terms.** She stood there in the square with her stick, and she said her terms, and the notary from the castle wrote them down, and they were these.
 
 One. The adept stays in the valley from the first barley to the harvest and does what he says he can do.
 
@@ -79,7 +79,7 @@ The mule was all right. The barley wasn't.
 
 The next afternoon the hail came down on the field below the inn. One field.
 
-The valley watched this. Everybody in the valley knew by then what Berúzta had done, except him. The old men sat in the square and watched him come down off the steps of the well every assembly day, and they watched the sky every day after. They started betting on it.
+The valley watched this. Everybody in the valley knew by then what Beruzta had done, except him. The old men sat in the square and watched him come down off the steps of the well every assembly day, and they watched the sky every day after. They started betting on it.
 
 And it wasn't only him. That's the funny part. That's the part your grandmother didn't laugh at till later.
 
@@ -101,9 +101,9 @@ And the adept stood there with his hundred and sixty-six silver, which was a gre
 
 He said to the assembly: I turned every storm at the pass. You saw it. Where did the other hail come from?
 
-And Berúzta stood up with her stick.
+And Beruzta stood up with her stick.
 
-**What Berúzta said.** She said: You turned the weather. The weather's yours. You did what you said, and you're paid for it, and you're paid right.
+**What Beruzta said.** She said: You turned the weather. The weather's yours. You did what you said, and you're paid for it, and you're paid right.
 
 The other hail's not weather. It's hers. It comes for a lie. You told us four of them on those steps, and she heard every one, and she found your field every time, because your field's where your mouth sleeps.
 
@@ -125,13 +125,13 @@ That last part's true.
 
 The miller mended his own weir. The steward was kept on, because the lord liked a steward who'd lie for him, but the lord stopped believing a word he said. The man with the goat paid for the goat. And your grandmother married the blacksmith's son, in the end, from the next valley, which you know, because he's your grandfather.
 
-And the valley never bought another contract against the hail. Every year since, at the autumn fair, the assembly stands in the square and says out loud how many fields the hail took that summer. It's never as many as twenty-three. Some years it's none, and in those years, while she was alive, Berúzta sat through the count with her eyes on the young men and said nothing at all.
+And the valley never bought another contract against the hail. Every year since, at the autumn fair, the assembly stands in the square and says out loud how many fields the hail took that summer. It's never as many as twenty-three. Some years it's none, and in those years, while she was alive, Beruzta sat through the count with her eyes on the young men and said nothing at all.
 
 That's the adept and the hail. Bed. And if you told me you'd washed your feet, go and wash them, because it's a clear night.
 
 ## See Also
 
 - [[place-durgalis|Dúrgalis]]—the castle town and the hill farms under it
-- [[affiliation-ordoarcanis|Thôrdimâlon]]—the order, its chapters and its adepts
+- [[affiliation-ordoarcanis|Thordimalon]]—the order, its chapters and its adepts
 - [[lore-motheryesno|The Mother's Yes and No]]—the Mother, the two words and the hail
-- [[lore-tarvenanclt|Tarvénan]]—the wise-woman, the village assembly, the oath stone and the mage nobody sent for
+- [[lore-tarvenanclt|Tarvenan]]—the wise-woman, the village assembly, the oath stone and the mage nobody sent for

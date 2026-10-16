@@ -1,6 +1,6 @@
 ---
 shortcode: linlagrkhlth
-name: {full: Lin'Mazgaru elu Aû'Khelâthu, aliases: [The Quantity Merchants]}
+name: {full: Lin'Mazgaru elu Au'Khelathu, aliases: [The Quantity Merchants]}
 type: affiliation
 subType: guild
 description: Dealers who buy and sell on volume alone, and who regard a supplier's refusal to ship inferior stock as an affront to profit
@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Mazgaru elu Aû'Khelâthu**, the **Quantity Merchants**, are dealers across [[place-aukhelathrgq|Aû'Khelâthu]] who buy and sell by volume and care little about the quality of any single lot. They trade margin for turnover and prize a supplier who ships quickly over one who ships well. A supplier who refuses to send inferior stock to fill an order commits, in the guild's own reckoning, an affront to profit.
+**Lin'Mazgaru elu Au'Khelathu**, the **Quantity Merchants**, are dealers across [[place-aukhelathrgq|Au'Khelathu]] who buy and sell by volume and care little about the quality of any single lot. They trade margin for turnover and prize a supplier who ships quickly over one who ships well. A supplier who refuses to send inferior stock to fill an order commits, in the guild's own reckoning, an affront to profit.
 
 ## Character
 
@@ -56,5 +56,5 @@ Say a Quantity Merchant orders two hundred bolts of linen from a weaver and lear
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—Where the dealers trade
+- [[place-aukhelathrgq|Au'Khelathu]]—Where the dealers trade
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

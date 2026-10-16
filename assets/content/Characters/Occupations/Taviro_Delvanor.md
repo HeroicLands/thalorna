@@ -1,6 +1,6 @@
 ---
 shortcode: tavirdlvnr
-name: {full: Tavíro Delvánor, aliases: []}
+name: {full: Taviro Delvanor, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Tavíro Delvánor is a 22-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with defined cheekbones, a broad forehead, and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows and give him a lively gaze. He has an aquiline nose and wide lips. He has light skin with a rugged complexion. His dark brown hair is tied in a low tail.
+Taviro Delvanor is a 22-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with defined cheekbones, a broad forehead, and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows and give him a lively gaze. He has an aquiline nose and wide lips. He has light skin with a rugged complexion. His dark brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Tavíro Delvánor is a common seaman.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Taviro Delvanor is a common seaman.
 
-Tavíro has always loved the sea, and has worked as a seaman since he was a teenager. Known for his strength and stamina, he excels at the heavy work of a ship, hoisting sails and loading cargo. He is a reliable crewman who values the fellowship of his shipmates. He dreams of one day sailing to distant lands and seeing other peoples.
+Taviro has always loved the sea, and has worked as a seaman since he was a teenager. Known for his strength and stamina, he excels at the heavy work of a ship, hoisting sails and loading cargo. He is a reliable crewman who values the fellowship of his shipmates. He dreams of one day sailing to distant lands and seeing other peoples.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ He can be too blunt, and struggles with delicate tasks.
 
 ### Motivation
 
-Tavíro wants a berth on a ship bound somewhere he has never been.
+Taviro wants a berth on a ship bound somewhere he has never been.
 
 ### Strengths
 
@@ -416,13 +416,13 @@ He is physically strong, skilled in the heavy work of a ship, and dependable.
 
 ## Social
 
-Tavíro belongs to no guild and works as a hired hand.
+Taviro belongs to no guild and works as a hired hand.
 
 ## Companions
 
 ### Patrons
 
-Tavíro's patrons are the ship captains and merchants who want hardworking crew.
+Taviro's patrons are the ship captains and merchants who want hardworking crew.
 
 ### Enemies
 
@@ -430,12 +430,12 @@ Few; he is generally respected, though some see him as overly serious.
 
 ## Plot Hooks
 
-1. **The Common Seaman's Dilemma**—A captain offers Tavíro the voyage to distant lands he has dreamed of, and the cargo in her hold is not one an honest seaman would carry.
+1. **The Common Seaman's Dilemma**—A captain offers Taviro the voyage to distant lands he has dreamed of, and the cargo in her hold is not one an honest seaman would carry.
 
-2. **Old Grudges**—A shipmate who took Tavíro's seriousness for contempt has been telling captains not to hire him.
+2. **Old Grudges**—A shipmate who took Taviro's seriousness for contempt has been telling captains not to hire him.
 
-3. **Echoes of the Past**—A captain Tavíro sailed under as a boy is back in port, and wants him back on his crew.
+3. **Echoes of the Past**—A captain Taviro sailed under as a boy is back in port, and wants him back on his crew.
 
-4. **Shifting Winds**—Political change in Tarvénia threatens the port trade Tavíro's berths depend on, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Tarvénia threatens the port trade Taviro's berths depend on, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A merchant offers Tavíro a mate's berth on a ship bound for distant lands, and the crew he would command are not men who want him over them.
+5. **The Opportunity**—A merchant offers Taviro a mate's berth on a ship bound for distant lands, and the crew he would command are not men who want him over them.

@@ -1,6 +1,6 @@
 ---
 shortcode: shorinyadty
-name: {full: Shorínya Ndáfo, aliases: [The Great Brightness]}
+name: {full: Shorinya Ndafo, aliases: [The Great Brightness]}
 type: lore
 subType: deity
 description: "The Great Brightness of the Nyáluba—the diffuse source from which every spirit came and to which all return, named and never addressed."
@@ -19,7 +19,7 @@ life is directed at the spirit guides beneath it—see [[lore-nyalbsprts|Nyálub
 [[affiliation-nyalbpnthn|the Nyáluba Way]].
 
 The Nyáluba recognize no supreme god, and would not accept that this is one. The
-griots say that Shorínya Ndáfo is where the guides came from, and that it is not the sort of
+griots say that Shorinya Ndafo is where the guides came from, and that it is not the sort of
 thing one talks to.
 
 The Lobwezi and Ngonzi griots tell how the Brightness came differently, and neither telling is ruled true.

@@ -3,20 +3,20 @@ shortcode: heimsormr
 name: {full: Heimsormr, aliases: []}
 type: lore
 subType: theology
-description: "The World-Wyrm struck down by Thrúnvald in the standard telling of Aldarlok."
+description: "The World-Wyrm struck down by Thrunvald in the standard telling of Aldarlok."
 tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 Ask for the World-Wyrm on a northern coast and you are offered two stories for the price of one. A skald at a coastal hall will sing both, one after the other, and stop between them. **Heimsormr** is the wyrm of both.
 
-In the standard Asguardian telling of [[lore-aldarlok|Aldarlok]], [[lore-thrunvalddty|Thrúnvald]] strikes the World-Wyrm down, walks nine steps and dies of its venom. His priesthood reads those nine steps as the whole of the victory that is possible against a doom already fixed.
+In the standard Asguardian telling of [[lore-aldarlok|Aldarlok]], [[lore-thrunvalddty|Thrunvald]] strikes the World-Wyrm down, walks nine steps and dies of its venom. His priesthood reads those nine steps as the whole of the victory that is possible against a doom already fixed.
 
 The other story belongs to a hero. A saga gives [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] a battle with a sea serpent large enough to encircle the earth, whose thrashing threatens the coastal villages with floods. It ends with Skalforv splitting the serpent's head and sending it down into the depths. The saga and the telling of the god's last battle give two different encounters with the same named wyrm.
 
 ## The Wyrm in Two Tellings
 
-A paired coastal recitation sets Skalforv's sea battle beside the standard account of Thrúnvald's death at Aldarlok. A pause marks the shift from the hero's return to the future doom, and the singers leave the difference between the two accounts unresolved.
+A paired coastal recitation sets Skalforv's sea battle beside the standard account of Thrunvald's death at Aldarlok. A pause marks the shift from the hero's return to the future doom, and the singers leave the difference between the two accounts unresolved.
 
 : The Wyrm in Two Tellings
 
@@ -45,7 +45,7 @@ hunger heaves beyond their grasp.
 
 Skalforv shoulders his great hammer;
 small waits the boat below.
-Thrúnvald's blessing bears his asking;
+Thrunvald's blessing bears his asking;
 the threatened coast stays behind.
 The hull heads into darkness;
 homes dwindle beyond his sight.
@@ -113,7 +113,7 @@ Shoreward comes the shattered strength;
 shouts rise from crowded houses.
 Chosen champion, the coast calls;
 children press beside their elders.
-Thrúnvald's name thunders through welcome;
+Thrunvald's name thunders through welcome;
 the tired hand lowers iron.
 Rest receives the heavy hammer;
 roofs keep their people sheltered.
@@ -144,11 +144,11 @@ the god home from falling.
 
 Aldarlok opens the last field;
 all its defenders gather there.
-Vígvöll waits beneath their feet;
+Vigvoll waits beneath their feet;
 vast is the approaching fire.
 The ash awaits its burning;
 Asguard stands beneath that doom.
-Thrúnvald faces the great wyrm;
+Thrunvald faces the great wyrm;
 the hammer rises above him.
 The hand that hallows ships
 holds its last enemy before it.
@@ -165,7 +165,7 @@ The great blow gives death;
 the god carries death within.
 
 One, the old earth hears;
-one foot falls upon Vígvöll.
+one foot falls upon Vigvoll.
 Two, the Thunderer walks onward;
 two feet bear his breathing.
 Three, the third step follows;
@@ -194,7 +194,7 @@ The wyrm lies struck down;
 the wielder spent his strength.
 No welcome waves him homeward;
 no warm cup finds his hand.
-Sing nine steps upon Vígvöll;
+Sing nine steps upon Vigvoll;
 sing the strength spent defending.
 
 Hear the head split seaward;
@@ -228,7 +228,7 @@ both ask the gathered hearing.
 Heimsormr, hold the huge name;
 hall walls narrow about it.
 Sing small boat upon water;
-sing nine steps upon Vígvöll.
+sing nine steps upon Vigvoll.
 
 Low lies the hearth's light;
 logs settle beneath red embers.

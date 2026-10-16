@@ -176,7 +176,7 @@ The bank is a mat of roots and dead leaves, and a smooth furrow as wide as a man
 
 # Dossier {#dossier}
 
-The Constrictor Snake is the big non-venomous snake of the hot forests and swamps, fifteen to twenty-five feet long and forty to two hundred pounds. It lives in the jungle lowlands of [[place-kaliharargn|Kalihara]], the [[place-cntrlrnfrsts|Central Rainforests]], the forest of [[place-xelemrgn|Xelem]] and the river country of the south. It kills by tightening its coils around its prey with every breath the animal takes, and it can kill an animal far larger than its own head.
+The Constrictor Snake is the big non-venomous snake of the hot forests and swamps, fifteen to twenty-five feet long and forty to two hundred pounds. It lives in the jungle lowlands of [[place-kaliharargn|Kalihara]], the [[place-cntrlrnfrsts|Central Rainforests]], the forest of [[place-xelemrgn|Shelem]] and the river country of the south. It kills by tightening its coils around its prey with every breath the animal takes, and it can kill an animal far larger than its own head.
 
 ## Presentation
 
@@ -184,7 +184,7 @@ An enormous snake, thick-bodied and heavily muscled. The head is small and rough
 
 ## In the Land
 
-Rock pythons and their kin live in the jungle lowlands of [[place-kaliharargn|Kalihara]], the [[place-cntrlrnfrsts|Central Rainforests]], the hot forest of [[place-xelemrgn|Xelem]] and the river country of the south. A constrictor lies along a branch over a game-trail, in the edge of a swamp or in a hollow under a bank, and it hunts at night. A big snake stays in one stretch of river for years, and it feeds once in a month or two.
+Rock pythons and their kin live in the jungle lowlands of [[place-kaliharargn|Kalihara]], the [[place-cntrlrnfrsts|Central Rainforests]], the hot forest of [[place-xelemrgn|Shelem]] and the river country of the south. A constrictor lies along a branch over a game-trail, in the edge of a swamp or in a hollow under a bank, and it hunts at night. A big snake stays in one stretch of river for years, and it feeds once in a month or two.
 
 ## Key Behaviors
 

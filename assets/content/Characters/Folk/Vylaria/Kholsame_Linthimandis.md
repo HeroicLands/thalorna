@@ -1,6 +1,6 @@
 ---
 shortcode: kholsamelint
-name: {full: Khôlsâmê Lînthimândis, aliases: [Commander Khôlsâmê]}
+name: {full: Kolsame Linthimis, aliases: [Commander Kolsame]}
 type: being
 subType: npc
 description: Commander of the City Watch, the official responsible for investigating underground apothecary operations.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Khôlsâmê Lînthimândis is a 46-year-old woman who stands 5'8" tall with a heavy build. She has light skin, weathered complexion, brown hair, and brown eyes.
+Kolsame Linthimis is a 46-year-old woman who stands 5'8" tall with a heavy build. She has light skin, weathered complexion, brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Khôlsâmê Lînthimândis is the commander of the City Watch and the official responsible for investigating underground apothecary operations. Khôlsâmê views [[being-hrkhsbrmyds|Harkhîs Bàremydês]] as a personal obsession and has dedicated significant resources to apprehending him.
+Kolsame Linthimis is the commander of the City Watch and the official responsible for investigating underground apothecary operations. Kolsame views [[being-hrkhsbrmyds|Harkis Baremides]] as a personal obsession and has dedicated significant resources to apprehending him.

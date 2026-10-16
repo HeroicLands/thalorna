@@ -29,5 +29,5 @@ The tombs they raise are meant never to be opened again, and the men of Zel-Qar 
 
 - [[affiliation-selatkhelzrt|The Selat of Khelzuret]]—Parent selat
 - [[place-khelzuret|Khelzuret]]—Selat capital and temple-city
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
 - [[affiliation-linzemnlzlqr|Lin'Zemnu elu Zel-Qar]]—The brotherhood of tomb-craftsmen

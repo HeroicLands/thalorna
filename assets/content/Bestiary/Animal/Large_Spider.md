@@ -170,7 +170,7 @@ The passage into the old grave is low, and you go in stooping, with the lamp hel
 
 # Dossier {#dossier}
 
-The Large Spider is a hunting spider with a leg span of eighteen inches to thirty, heavy-bodied, glossy brown to black, with a venomous bite that numbs and then paralyzes. It weighs about fifteen pounds, as much as a fat goose. It lives in damp, sheltered, dark places with something to eat in them, and in [[place-galvaren|Galváren]], where the rain and fog keep everything damp and the coast is crowded with the stone circles and passage graves of a people older than the Tarvéni, it is the creature the old stones are known for. It hunts rats, birds, lizards, bats and anything else it can hold, it does not hunt men, and it bites anyone who puts a hand where it lives.
+The Large Spider is a hunting spider with a leg span of eighteen inches to thirty, heavy-bodied, glossy brown to black, with a venomous bite that numbs and then paralyzes. It weighs about fifteen pounds, as much as a fat goose. It lives in damp, sheltered, dark places with something to eat in them, and in [[place-galvaren|Galvaren]], where the rain and fog keep everything damp and the coast is crowded with the stone circles and passage graves of a people older than the Tarveni, it is the creature the old stones are known for. It hunts rats, birds, lizards, bats and anything else it can hold, it does not hunt men, and it bites anyone who puts a hand where it lives.
 
 ## Presentation
 
@@ -178,7 +178,7 @@ A large spider has a small, angular front body and a round abdomen nearly as big
 
 ## In the Land
 
-Large spiders live all down the wet western coast of Tarvénia, and they are commonest in Galváren: in the deep coastal forests, under overhanging rock on the sea-cliffs, and above all in the passage graves, cairns and chambered mounds that stand in every parish of the coast. A grave holds them because it is dark, damp, still and full of the bats and rats that use it. In [[place-ornethe|Ornéthe]] they live in the net lofts and the rope-walks and in the cellars under the fish market, where the rats are. Each spider holds one place, a passage, a cellar corner or a crack in a cliff, and lays its silk across it in sheets and funnels that it walks over to feel what has come in. Spiders that are not crowded live for many years, and an old grave may have one spider in it the size of a shield, known by name in the parish.
+Large spiders live all down the wet western coast of Tarvénia, and they are commonest in Galvaren: in the deep coastal forests, under overhanging rock on the sea-cliffs, and above all in the passage graves, cairns and chambered mounds that stand in every parish of the coast. A grave holds them because it is dark, damp, still and full of the bats and rats that use it. In [[place-ornethe|Ornethe]] they live in the net lofts and the rope-walks and in the cellars under the fish market, where the rats are. Each spider holds one place, a passage, a cellar corner or a crack in a cliff, and lays its silk across it in sheets and funnels that it walks over to feel what has come in. Spiders that are not crowded live for many years, and an old grave may have one spider in it the size of a shield, known by name in the parish.
 
 ## Key Behaviors
 
@@ -186,7 +186,7 @@ A large spider waits in the mouth of its funnel and feels the silk. When somethi
 
 ## What the Galváreni Do
 
-The coast's folk belief holds that the passage graves are where the mortal world thins, and that a spider in a grave keeps the door. Nobody in a fishing village clears a grave of its spider, and a family that needs to go into one for a burial or a rite of their own goes with a smoking torch of green wood, which the spider dislikes, and leaves a dead fish at the entrance on the way out. Ornéthe's net-menders keep cats and do not complain of spiders, which kill more rats than the cats do. The harbor town's physicians keep a remedy for the bite, a paste of salt and crushed seaweed bound over the wound, and send the bitten man to bed with a watcher, because the paralysis comes on at night. [[affiliation-arldnpnthn|Aurèldían]] priests have preached against the dead fish without much success.
+The coast's folk belief holds that the passage graves are where the mortal world thins, and that a spider in a grave keeps the door. Nobody in a fishing village clears a grave of its spider, and a family that needs to go into one for a burial or a rite of their own goes with a smoking torch of green wood, which the spider dislikes, and leaves a dead fish at the entrance on the way out. Ornethe's net-menders keep cats and do not complain of spiders, which kill more rats than the cats do. The harbor town's physicians keep a remedy for the bite, a paste of salt and crushed seaweed bound over the wound, and send the bitten man to bed with a watcher, because the paralysis comes on at night. [[affiliation-arldnpnthn|Aureldian]] priests have preached against the dead fish without much success.
 
 ## Signs
 

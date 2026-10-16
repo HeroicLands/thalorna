@@ -1,9 +1,9 @@
 ---
 shortcode: ithariarrv
-name: {full: The Coming of the Ithári, aliases: [The Arrival of Those Who Came Before]}
+name: {full: The Coming of the Ithari, aliases: [The Arrival of Those Who Came Before]}
 type: lore
 subType: history
-description: "The Ithári reach Thalorna before 10,000 BF, settle Kalihara and take in the human bands they find there, and raise works of one substance at scattered sites across the rest of the world."
+description: "The Ithari reach Thalorna before 10,000 BF, settle Kalihara and take in the human bands they find there, and raise works of one substance at scattered sites across the rest of the world."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,10 +13,10 @@ data:
       depth: world
       sources: [lore-theithari, place-himashila, place-shitakoshtha, place-shunydvara]
       summary: >-
-        The Ithári reach Thalorna from an origin no record names, settle Kalihara, and take in the scattered human bands living there. Across the rest of the world they raise works of a single substance found nowhere else, found nothing, teach nobody, and leave no word behind.
+        The Ithari reach Thalorna from an origin no record names, settle Kalihara, and take in the scattered human bands living there. Across the rest of the world they raise works of a single substance found nowhere else, found nothing, teach nobody, and leave no word behind.
       standing: single-source
       names:
-        - name: Ithári
+        - name: Ithari
           by: affiliation-kalihara
           gloss: Those Who Came Before, and the only name anyone has for them
       where:
@@ -41,12 +41,12 @@ data:
         - where they came from, and whether Thalorna was a destination or a stop
         - what they were doing away from Kalihara for the better part of three thousand years
         - whether the works are technology past the world's understanding or a magic nobody else has practiced
-        - the record gives a bound and not a date—the Ithári were here before 10,000 BF, and nothing says how long before
+        - the record gives a bound and not a date—the Ithari were here before 10,000 BF, and nothing says how long before
 ---
 
-The Kaliharan record opens with the coming of the Ithári and says nothing of what preceded it. They
+The Kaliharan record opens with the coming of the Ithari and says nothing of what preceded it. They
 arrived from somewhere that is not Thalorna, settled the island, and did not conquer it: the first
-humans they met there were scattered bands in the most rudimentary conditions, and the Ithári took
+humans they met there were scattered bands in the most rudimentary conditions, and the Ithari took
 them in.
 
 Everything anyone knows of them is one island's testimony, and the island has never published. Outside
@@ -60,4 +60,4 @@ That scatter is the strongest evidence that the island was a choice rather than 
 business here. Whatever the rest of it was, they conducted it without founding anything, teaching
 anybody, or leaving a word behind.
 
-The full account is [[lore-theithari|The Ithári]].
+The full account is [[lore-theithari|The Ithari]].

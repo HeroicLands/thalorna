@@ -1,6 +1,6 @@
 ---
 shortcode: sdrkmrlnth
-name: {full: Sédrik Mórlineth, aliases: []}
+name: {full: Sedrik Mórlineth, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Sédrik Mórlineth is a 49-year-old man who stands 6'3" tall and is broad and solidly built. He has a long face with soft cheekbones, a lined forehead, and a rounded jaw that leads to a firm chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A narrow nose and narrow lips complete his features. He has light skin with a weathered complexion. His black hair is long and gathered with a leather thong.
+Sedrik Mórlineth is a 49-year-old man who stands 6'3" tall and is broad and solidly built. He has a long face with soft cheekbones, a lined forehead, and a rounded jaw that leads to a firm chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A narrow nose and narrow lips complete his features. He has light skin with a weathered complexion. His black hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Sédrik Mórlineth came into the world of the jailer through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Sedrik Mórlineth came into the world of the jailer through a combination of circumstance and aptitude.
 
-Sédrik has been a jailer for over twenty years, working in the city’s largest prison. Known for his imposing stature and stern demeanor, he keeps order among the inmates with a firm hand. Despite his tough exterior, Sédrik believes in fair treatment and tries to help prisoners reform when he can. However, his dedication to his job has made him few friends outside the jail.
+Sedrik has been a jailer for over twenty years, working in the city’s largest prison. Known for his imposing stature and stern demeanor, he keeps order among the inmates with a firm hand. Despite his tough exterior, Sedrik believes in fair treatment and tries to help prisoners reform when he can. However, his dedication to his job has made him few friends outside the jail.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Gruff and unapproachable, struggles to separate work from his personal life.
 
 ### Motivation
 
-Sédrik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jailer work keep him vigilant and adaptable.
+Sedrik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jailer work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Physically strong, experienced in maintaining order, calm under pressure.
 
 ## Social
 
-Sédrik is affiliated with City Watch.
+Sedrik is affiliated with City Watch.
 
-As a Élavendri jailer, Sédrik occupies a recognized social niche within Élavendre society.
+As a Élavendri jailer, Sedrik occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Sédrik's primary patron is City officials who value his loyalty and service. This relationship provides both opportunity and obligation.
+Sedrik's primary patron is City officials who value his loyalty and service. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ Some prisoners who hold grudges against him.
 
 ## Plot Hooks
 
-1. **The Jailer's Dilemma**—Sédrik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Jailer's Dilemma**—Sedrik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 
 2. **Old Grudges**—Some prisoners who hold grudges against him. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Sédrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Sedrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Sédrik depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Sedrik depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Sédrik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Sedrik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

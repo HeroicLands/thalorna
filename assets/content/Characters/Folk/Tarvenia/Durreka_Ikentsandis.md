@@ -1,6 +1,6 @@
 ---
 shortcode: durrekaikent
-name: {full: Dúrreka Ikentsándis, aliases: [Lady Merchant Dúrreka]}
+name: {full: Dúrreka Ikentsis, aliases: [Lady Merchant Dúrreka]}
 type: being
 subType: npc
 description: An ambitious trader who views Hálrikos Bránthira's strict interpretation of contract law as an impediment.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dúrreka Ikentsándis is a 39-year-old woman who stands 5'9" tall with a medium build. She has olive skin, sun-kissed complexion, black hair, and amber eyes.
+Dúrreka Ikentsis is a 39-year-old woman who stands 5'9" tall with a medium build. She has olive skin, sun-kissed complexion, black hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Dúrreka Ikentsándis is an ambitious trader, styled Lady Merchant. She regards the strict interpretation of contract law by [[being-hlrksbrnthr|Hálrikos Bránthira]] as an impediment.
+Dúrreka Ikentsis is an ambitious trader, styled Lady Merchant. She regards the strict interpretation of contract law by [[being-hlrksbrnthr|Hálrikos Bránthira]] as an impediment.

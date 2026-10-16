@@ -1,6 +1,6 @@
 ---
 shortcode: svalthvirhna
-name: {full: Svalthvir Hnarvarukh, aliases: [Duke Svalthvir Hnarvarukh]}
+name: {full: Svalthvir Hnarvaruk, aliases: [Duke Svalthvir Hnarvaruk]}
 type: being
 subType: npc
 description: A wealthy warrior nobleman who commissions formal garments from Skraldthann Hrafnsvald.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Svalthvir Hnarvarukh is a 46-year-old man who stands 5'9" tall with a light build. He has pale skin, smooth complexion, red hair, and green eyes.
+Svalthvir Hnarvaruk is a 46-year-old man who stands 5'9" tall with a light build. He has pale skin, smooth complexion, red hair, and green eyes.
 
 # Dossier {#dossier}
 
-Svalthvir Hnarvarukh is a wealthy warrior nobleman who commissions formal garments from [[being-skrldthnhrfnsvld|Skraldthann Hrafnsvald]]. The garments are for official functions.
+Svalthvir Hnarvaruk is a wealthy warrior nobleman who commissions formal garments from [[being-skrldthnhrfnsvld|Skraldthann Hrafnsvald]]. The garments are for official functions.

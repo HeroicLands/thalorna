@@ -1,6 +1,6 @@
 ---
 shortcode: chgnzrznds
-name: {full: Khêgan Zêrâzêndis, aliases: []}
+name: {full: Kegan Zerazendis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Khêgan Zêrâzêndis is a 28-year-old woman who stands 5'7" tall and is slender. She has a long face with prominent cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her narrow green eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and full lips complete her features. She has olive skin with an olive-toned complexion. Her black hair is adorned with simple pins.
+Kegan Zerazendis is a 28-year-old woman who stands 5'7" tall and is slender. She has a long face with prominent cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her narrow green eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and full lips complete her features. She has olive skin with an olive-toned complexion. Her black hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Khêgan Zêrâzêndis came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Kegan Zerazendis came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Khêgan inherited the Zêrâzêndis Inn from her parents and has worked hard to keep it running smoothly. She is known for her hearty meals and warm hospitality. Khêgan is passionate about creating a welcoming atmosphere, and her inn has become a beloved spot for local farmers and travelers alike. Despite her dedication, she often feels the weight of the responsibilities on her shoulders.
+Kegan inherited the Zerazendis Inn from her parents and has worked hard to keep it running smoothly. She is known for her hearty meals and warm hospitality. Kegan is passionate about creating a welcoming atmosphere, and her inn has become a beloved spot for local farmers and travelers alike. Despite her dedication, she often feels the weight of the responsibilities on her shoulders.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Can be overwhelmed by stress, sometimes lacks confidence.
 
 ### Motivation
 
-Khêgan is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
+Kegan is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Great cook, personable, good at managing the inn.
 
 ## Social
 
-Khêgan is affiliated with Local Innkeepers' Association.
+Kegan is affiliated with Local Innkeepers' Association.
 
-As a Vylarian innkeeper, Khêgan occupies a recognized social niche within Vylaria society.
+As a Vylarian innkeeper, Kegan occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Khêgan's primary patron is Local farmers and traveling merchants. This relationship provides both opportunity and obligation.
+Kegan's primary patron is Local farmers and traveling merchants. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ None; respected by the community.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma**—Khêgan faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Innkeeper's Dilemma**—Kegan faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—None; respected by the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Khêgan's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Kegan's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Khêgan depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Kegan depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Khêgan the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kegan the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

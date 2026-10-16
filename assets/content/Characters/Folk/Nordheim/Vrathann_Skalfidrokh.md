@@ -1,9 +1,9 @@
 ---
 shortcode: vrathannskal
-name: {full: Vrathann Skalfidrokh, aliases: [Jarl Vrathann Skalfidrokh]}
+name: {full: Vrathann Skalfidrok, aliases: [Jarl Vrathann Skalfidrok]}
 type: being
 subType: npc
-description: A rival clan leader who views Skrildmýl Stormborn's unification efforts as a threat to his own power.
+description: A rival clan leader who views Skrilmil Stormborn's unification efforts as a threat to his own power.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Vrathann Skalfidrokh is a 26-year-old man who stands 6'3" tall with a light build. He has pale skin, smooth complexion, dark brown hair, and grey eyes.
+Vrathann Skalfidrok is a 26-year-old man who stands 6'3" tall with a light build. He has pale skin, smooth complexion, dark brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Vrathann Skalfidrokh is a rival clan leader who views [[being-skrldmylstrmbrn|Skrildmýl Stormborn]]'s unification efforts as a threat to his own power. He has been building alliances with other jarls to oppose Skrildmýl.
+Vrathann Skalfidrok is a rival clan leader who views [[being-skrldmylstrmbrn|Skrilmil Stormborn]]'s unification efforts as a threat to his own power. He has been building alliances with other jarls to oppose Skrilmil.

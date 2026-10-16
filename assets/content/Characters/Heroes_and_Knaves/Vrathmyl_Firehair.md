@@ -1,9 +1,9 @@
 ---
 shortcode: vrthmylfrhr
 name:
-  full: Vrathmýl Firehair
-  given: Vrathmýl
-  clan: Draskarukh
+  full: Vrathmil Firehair
+  given: Vrathmil
+  clan: Draskaruk
   aliases: [Firehair, the Shipwright's Son]
 type: being
 subType: character
@@ -419,15 +419,15 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vrthmylfrhr|Vrathmýl Firehair]]{float=top-left}
+![[vrthmylfrhr|Vrathmil Firehair]]{float=top-left}
 
 Stands 6'1" tall with a light build. He has weather-roughened skin, fiery red hair, and blue eyes. His features include an oval face, a straight nose, a prominent chin, a firm-set mouth, prominent brows.
 
 # Dossier {#dossier}
 
-Vrathmýl is the son of a shipwright family in the port town of [[place-thraskvik|Thraskvík]], one of the most vital coastal towns in [[place-norgaad|Norgaad]]. From a young age, Vrathmýl was trained in the art of shipbuilding, mastering the craft of creating the sleek and deadly longships that Norgaad is famous for. However, despite his family’s pride in their trade, Vrathmýl felt a strong pull toward the arcane. As a child, he witnessed a mysterious fire spirit in the shipyard, sparking a lifelong fascination with magic and the spirit world.
+Vrathmil is the son of a shipwright family in the port town of [[place-thraskvik|Thraskvík]], one of the most vital coastal towns in [[place-norgaad|Norgaad]]. From a young age, Vrathmil was trained in the art of shipbuilding, mastering the craft of creating the sleek and deadly longships that Norgaad is famous for. However, despite his family’s pride in their trade, Vrathmil felt a strong pull toward the arcane. As a child, he witnessed a mysterious fire spirit in the shipyard, sparking a lifelong fascination with magic and the spirit world.
 
-Vrathmýl’s striking red hair and fiery temper earned him the nickname “Firehair,” but it was his latent magical talent—an affinity for fire magic—that truly set him apart. He met [[being-grosdrnrgd|Gróa the Seidr of Norgaad]] when she sought passage across the fjords, and he was immediately intrigued by her connection to the spirit world. Over time, Vrathmýl became one of Gróa’s trusted companions, eager to learn more about his mystical inclinations and to explore the deeper mysteries of magic.
+Vrathmil’s striking red hair and fiery temper earned him the nickname “Firehair,” but it was his latent magical talent—an affinity for fire magic—that truly set him apart. He met [[being-grosdrnrgd|Groa the Seid of Norgaad]] when she sought passage across the fjords, and he was immediately intrigued by her connection to the spirit world. Over time, Vrathmil became one of Groa’s trusted companions, eager to learn more about his mystical inclinations and to explore the deeper mysteries of magic.
 
 ## Skills and Abilities
 
@@ -443,17 +443,17 @@ Vrathmýl’s striking red hair and fiery temper earned him the nickname “Fire
 - **Creativity**: Inventive, both in shipbuilding and exploring magic.
 - **Empathy**: Relates well to others despite his fiery temper.
 - **Eloquence**: Communicates effectively, though not his primary strength.
-- **Morality**: Vrathmýl follows his culture’s values of craftsmanship and strength but is willing to bend the rules for practical reasons, especially when it comes to survival.
-- **Voice**: Vrathmýl’s voice is rugged, reflecting his life as a shipwright. While his singing isn’t unpleasant, it lacks the smoothness of a trained performer.
-- **Shipbuilding and Navigation**: Vrathmýl is a master shipwright, skilled in constructing and maintaining longships. His deep knowledge of ships and the sea makes him useful when traveling across the fjords and open waters of [[place-nordheim|Nordheim]].
-- **Fire Magic**: Vrathmýl has a latent talent for fire magic, though he is still learning to control it. Under Gróa’s guidance, he has begun to harness this power, using it in both combat and rituals.
-- **Combat Skills**: Though not as battle-hardened as a warrior, Vrathmýl is capable in a fight, wielding a **short sword** and using his fire magic to enhance his strikes.
+- **Morality**: Vrathmil follows his culture’s values of craftsmanship and strength but is willing to bend the rules for practical reasons, especially when it comes to survival.
+- **Voice**: Vrathmil’s voice is rugged, reflecting his life as a shipwright. While his singing isn’t unpleasant, it lacks the smoothness of a trained performer.
+- **Shipbuilding and Navigation**: Vrathmil is a master shipwright, skilled in constructing and maintaining longships. His deep knowledge of ships and the sea makes him useful when traveling across the fjords and open waters of [[place-nordheim|Nordheim]].
+- **Fire Magic**: Vrathmil has a latent talent for fire magic, though he is still learning to control it. Under Groa’s guidance, he has begun to harness this power, using it in both combat and rituals.
+- **Combat Skills**: Though not as battle-hardened as a warrior, Vrathmil is capable in a fight, wielding a **short sword** and using his fire magic to enhance his strikes.
 
 ## Psyche
 
 ### Personality
 
-Vrathmýl is bold, curious, and quick to action. His fiery temper can lead to rash decisions, but his heart is in the right place. He is deeply fascinated by magic and the unseen world, seeing Gróa as both a mentor and a gateway to unlocking his own potential. Vrathmýl’s natural curiosity makes him a constant student of the arcane, though his impetuous nature sometimes puts him at odds with Gróa’s more measured approach.
+Vrathmil is bold, curious, and quick to action. His fiery temper can lead to rash decisions, but his heart is in the right place. He is deeply fascinated by magic and the unseen world, seeing Groa as both a mentor and a gateway to unlocking his own potential. Vrathmil’s natural curiosity makes him a constant student of the arcane, though his impetuous nature sometimes puts him at odds with Groa’s more measured approach.
 
 ### Strengths
 
@@ -465,10 +465,10 @@ Vrathmýl is bold, curious, and quick to action. His fiery temper can lead to ra
 
 ## Plot Hooks
 
-1. **The Calling of the Flame**: During a village gathering, Vrathmýl witnesses a strange fire burning in the distance, but when others investigate, no one else sees it. Drawn to its location, he discovers an ancient cairn inscribed with runes that seem familiar. The discovery hints at a connection between his family and a forgotten guardian role tied to the region’s safety, forcing Vrathmýl to question his future as more than a craftsman.
+1. **The Calling of the Flame**: During a village gathering, Vrathmil witnesses a strange fire burning in the distance, but when others investigate, no one else sees it. Drawn to its location, he discovers an ancient cairn inscribed with runes that seem familiar. The discovery hints at a connection between his family and a forgotten guardian role tied to the region’s safety, forcing Vrathmil to question his future as more than a craftsman.
 
-2. **The Pact of the Drowned**: A local Hersvald seeks Vrathmýl’s help in recovering artifacts from a recently unearthed shipwreck in a nearby fjord. The artifacts, said to belong to an ancient maritime cult, appear harmless at first but soon bring mistrust and fear among the villagers. As tensions rise, Vrathmýl finds himself caught between returning the items to the fjord or uncovering their true origin—and purpose.
+2. **The Pact of the Drowned**: A local Hersvald seeks Vrathmil’s help in recovering artifacts from a recently unearthed shipwreck in a nearby fjord. The artifacts, said to belong to an ancient maritime cult, appear harmless at first but soon bring mistrust and fear among the villagers. As tensions rise, Vrathmil finds himself caught between returning the items to the fjord or uncovering their true origin—and purpose.
 
-3. **The Stranger with No Shadow**: While traveling with companions, Vrathmýl encounters a lone wanderer who claims to know the path to a hidden stronghold of lost knowledge. The stranger’s eerie knowledge of Vrathmýl’s past, and their refusal to cast a shadow, raise suspicions. Yet the promise of understanding his growing sense of destiny pushes Vrathmýl to follow—though the journey may cost him more than answers.
+3. **The Stranger with No Shadow**: While traveling with companions, Vrathmil encounters a lone wanderer who claims to know the path to a hidden stronghold of lost knowledge. The stranger’s eerie knowledge of Vrathmil’s past, and their refusal to cast a shadow, raise suspicions. Yet the promise of understanding his growing sense of destiny pushes Vrathmil to follow—though the journey may cost him more than answers.
 
-4. **The Fjord’s Silent Guardian**: Stories surface of travelers disappearing in a remote stretch of Norgaad’s fjords. When Vrathmýl and his companions pass through the region, they find a series of warning totems carved with unsettling precision. Investigating further reveals an ancient, unseen guardian bound to the fjord, one whose purpose seems tied to Vrathmýl’s journey—and whose intentions may not be benign.
+4. **The Fjord’s Silent Guardian**: Stories surface of travelers disappearing in a remote stretch of Norgaad’s fjords. When Vrathmil and his companions pass through the region, they find a series of warning totems carved with unsettling precision. Investigating further reveals an ancient, unseen guardian bound to the fjord, one whose purpose seems tied to Vrathmil’s journey—and whose intentions may not be benign.

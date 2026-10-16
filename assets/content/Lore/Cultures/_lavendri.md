@@ -7,6 +7,26 @@ description: "The Élavendri—their beliefs, their mores, and what they hold a 
 tags: []
 data:
   language: skill-elvndrlng
+  glossary:
+    - name: "hedge-affiliate"
+      definition: "A village healer, herbalist or folk-magician who walks in the Grove Council's tradition"
+      common: true
+    - name: "shadow name"
+      definition: "The true name, used only among intimates and at night"
+      common: true
+    - {name: "sun name", definition: "The name used in formal and public life", common: true}
+    - name: "Tradition Keeper"
+      definition: "An Áelendan memorizer who holds the Kindred Pact, the tribal songs and the genealogies"
+      common: true
+    - name: "arálwen-water"
+      definition: "A river that is aralwen along its length, running partly in each world"
+    - name: "hinge-days"
+      definition: "The equinoxes and solstices, when the Grove Council gathers"
+    - name: "leaf-mark"
+      definition: "The wrist tattoo of an initiate's home grove, renewed by its elder and fading with absence"
+    - name: "memory-shaping"
+      definition: "A bardic art that works through voice and narrative on memory"
+    - {name: "song-binding", definition: "A bardic art that binds through song"}
   appearanceProfile:
     frame: {light: 4, medium: 5, heavy: 2}
     eye_color: {green: 4, blue: 3, brown: 3, grey: 2, hazel: 2, amber: 1}
@@ -54,7 +74,7 @@ Magic is ordinary here in a way it is nowhere else in Ankaris. It is studied, pr
 
 The consequence is that the Élavendri are unimpressed by displays. Power casually shown is vulgar; power precisely applied is admired. A visiting mage who sets out to overawe an Élavendri court gets an attentive, appreciative and entirely unmoved audience.
 
-Because the Sinalë walk openly among them, the Élavendri also have a settled sense of proportion about their own arts. They know what a truly old practitioner looks like, and the knowledge prevents a certain kind of human vanity.
+Because the Sinale walk openly among them, the Élavendri also have a settled sense of proportion about their own arts. They know what a truly old practitioner looks like, and the knowledge prevents a certain kind of human vanity.
 
 ## Prophecy, and the Long View
 
@@ -72,27 +92,27 @@ The Élavendri value most art, stewardship, the old blood and a thing said well.
 
 ## The Man Admired
 
-[[being-rnthrprdln|Ránthor Párdalen]] is the Élavendri's admired shaman, a man in his late forties who stands between the kingdom and the interior. He served the kingdom as a soldier and a guard and rose to significant rank. Captured in a campaign against hostile tribal forces, he was held by shamans who saw in him a spiritual sensitivity his training had suppressed, and who inducted him instead of killing him. When he was ransomed he returned to Élavendre, left the royal service and made himself a shaman who bridges the martial and the mystical. He heals wounds, mediates disputes and steadies warriors before a fight, and he sits on the Tribal Council of Shamans, where he is the primary liaison between the shamanic order and the kingdom's military and political leadership. A crown is tattooed on his chest, and he says only that he once served crowns and serves the tribe instead.
+[[being-rnthrprdln|Ranthor Párdalen]] is the Élavendri's admired shaman, a man in his late forties who stands between the kingdom and the interior. He served the kingdom as a soldier and a guard and rose to significant rank. Captured in a campaign against hostile tribal forces, he was held by shamans who saw in him a spiritual sensitivity his training had suppressed, and who inducted him instead of killing him. When he was ransomed he returned to Élavendre, left the royal service and made himself a shaman who bridges the martial and the mystical. He heals wounds, mediates disputes and steadies warriors before a fight, and he sits on the Tribal Council of Shamans, where he is the primary liaison between the shamanic order and the kingdom's military and political leadership. A crown is tattooed on his chest, and he says only that he once served crowns and serves the tribe instead.
 
 The Élavendri admire in him the oath sworn at every crowning, that the crown stops at the tree line, made flesh in one man: a soldier of the kingdom who learned where the kingdom ends. He is a man of few words and a dry humor, fair and not warm, who respects competence and honesty in any station and has no patience for pretense. His cost is that he belongs to neither side of the line he holds. Traditionalist shamans count his practical bent a betrayal of the mystical, his plain speech is out of place at a court where an open question is a courtesy, and the melancholy in him is that of a man who has seen the worst of the city and the wood and has made peace with neither.
 
 ## The Woman Admired
 
-[[being-ylthklmrth|Jálith Kálmereth]] is the Élavendri's admired bard. She is a traveling singer born at Liranel to a family of performers, named Kálmereth for the clarity of her voice and keeping the name. She sings the ballads of the common folk from village to village and comes home to the timber town only between roads. Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there and has never stayed, and she has turned down a settled place at a lord's table more than once, because the formalities of court sit badly on her and she says so.
+[[being-ylthklmrth|Jalith Kálmereth]] is the Élavendri's admired bard. She is a traveling singer born at Liranel to a family of performers, named Kálmereth for the clarity of her voice and keeping the name. She sings the ballads of the common folk from village to village and comes home to the timber town only between roads. Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there and has never stayed, and she has turned down a settled place at a lord's table more than once, because the formalities of court sit badly on her and she says so.
 
-Her admiration is not a lesser form of Ránthor's. He holds the line between the kingdom and the interior by standing on it, and she holds the account of the ones who crossed it. The Colleges keep the genealogies of the houses that can pay for proofs, and her songs keep the families the genealogies leave out. She belongs to the Minstrels' Guild, which gives her the right to sing for pay in any Élavendri market, and she is as much at ease at the market stall as at the high table. Her cost is the road. A bard who will not take a lord's table has no house, no patron and no College behind her, and the memory she keeps is held by no one but herself.
+Her admiration is not a lesser form of Ranthor's. He holds the line between the kingdom and the interior by standing on it, and she holds the account of the ones who crossed it. The Colleges keep the genealogies of the houses that can pay for proofs, and her songs keep the families the genealogies leave out. She belongs to the Minstrels' Guild, which gives her the right to sing for pay in any Élavendri market, and she is as much at ease at the market stall as at the high table. Her cost is the road. A bard who will not take a lord's table has no house, no patron and no College behind her, and the memory she keeps is held by no one but herself.
 
 ## What the Houses and the Groves Keep
 
-An Élavendri can name the things that hold the kingdom's old institutions in place. **The genealogies** are kept by the Bardic Colleges, the kingdom's definitive authority on who descends from whom, and the proofs of descent they hold are among its most valuable documents. **The Pact** is the unwritten compact of the Áelendan with the land, sung and enacted through the seasons and held by the Tradition Keepers. **[[lore-theasking|The Asking]]** is the Sinalëan lay of the Pelwar band that came over the eastern pass and asked the wood for a place in it; the Tradition Keepers hold it, and the Colleges sing it to the harp in nine turnings. **[[lore-seventowers|The Seven Towers]]** is a second Sinalëan song, held the same way. **The grove-elder's circlet** is woven of living wood, tended through a lifetime and burned with its wearer. **The leaf-mark** is the tattoo on the inside of an initiate's wrist that records the home grove, renewed by its elder and fading with absence. **The tree line** is the limit the crown swears to at each crowning.
+An Élavendri can name the things that hold the kingdom's old institutions in place. **The genealogies** are kept by the Bardic Colleges, the kingdom's definitive authority on who descends from whom, and the proofs of descent they hold are among its most valuable documents. **The Pact** is the unwritten compact of the Áelendan with the land, sung and enacted through the seasons and held by the Tradition Keepers. **[[lore-theasking|The Asking]]** is the Sinalean lay of the Pelwar band that came over the eastern pass and asked the wood for a place in it; the Tradition Keepers hold it, and the Colleges sing it to the harp in nine turnings. **[[lore-seventowers|The Seven Towers]]** is a second Sinalean song, held the same way. **The grove-elder's circlet** is woven of living wood, tended through a lifetime and burned with its wearer. **The leaf-mark** is the tattoo on the inside of an initiate's wrist that records the home grove, renewed by its elder and fading with absence. **The tree line** is the limit the crown swears to at each crowning.
 
 Each person carries smaller things. A hedge-affiliate carries a knotted cord of grove-blessed yarn, often under the clothes. A noble house carries a signet. A sun name goes in public, and a shadow name stays among intimates and at night.
 
 ## The Day Kept
 
-On an ordinary day the religion is small and local. The Élavendren worship the Aurèldían Pantheon, with Lúsinía the World-Weaver and Zûnêlâs the Veiled Dreamer held in special prominence, and no Élavendren sets the gods and the older spirits of the land against each other. Sacred groves, standing stones and holy wells serve beside the temples. A household leaves a loaf, _tárnevë_, at a birch, a well or a stone and does not wait to see it taken. A village healer or herbalist who walks in the Grove Council's tradition is the person a sick child is taken to, and a grove-elder is heeded before any sheriff.
+On an ordinary day the religion is small and local. The Élavendren worship the Aureldian Pantheon, with Lusinia the World-Weaver and Zunelas the Veiled Dreamer held in special prominence, and no Élavendren sets the gods and the older spirits of the land against each other. Sacred groves, standing stones and holy wells serve beside the temples. A household leaves a loaf, _tárneve_, at a birch, a well or a stone and does not wait to see it taken. A village healer or herbalist who walks in the Grove Council's tradition is the person a sick child is taken to, and a grove-elder is heeded before any sheriff.
 
-The rest of the day is the house: the land's stewardship, the work of whatever art the household follows, and a meal at which magic is discussed as other peoples discuss the weather. An Élavendri listens to form as well as content, since a thing said well is more likely to be believed and repeated. A guest is seated by the order of the seats, _shíerothalon_, which is worked out again at every gathering, and the right of the guest under the roof, _dýemaralon_, is not argued.
+The rest of the day is the house: the land's stewardship, the work of whatever art the household follows, and a meal at which magic is discussed as other peoples discuss the weather. An Élavendri listens to form as well as content, since a thing said well is more likely to be believed and repeated. A guest is seated by the order of the seats, _shírothalon_, which is worked out again at every gathering, and the right of the guest under the roof, _dyemaralon_, is not argued.
 
 ## The Round of the Year
 
@@ -107,19 +127,19 @@ The turning of the seasons is marked by elaborate festivals that honor the gods 
 
 Reward is standing: a place in the first rank, a bard of note at the table, a College's proof of descent, a village that counts the grove-elder as its own. A great bard's song is the reward that lasts, since a deed sung well is remembered longer than a deed done.
 
-Penalty runs from courtesy to the tree line. A house that produces no artists and no mages across two generations quietly stops being counted among the first rank. A bard of standing may sing a satire, and the law recognizes a satire as a weapon. A king who crosses a grove-elder finds his harvests strange, his hunts empty and his soldiers reluctant to march into forest country. A trespasser in sacred territory is warned once and escorted out, and one who returns or desecrates is dealt with harshly by the Wardens. A person outlawed, _énthodhis_, is walked past the tree line and known to the realm only as one it has excluded.
+Penalty runs from courtesy to the tree line. A house that produces no artists and no mages across two generations quietly stops being counted among the first rank. A bard of standing may sing a satire, and the law recognizes a satire as a weapon. A king who crosses a grove-elder finds his harvests strange, his hunts empty and his soldiers reluctant to march into forest country. A trespasser in sacred territory is warned once and escorted out, and one who returns or desecrates is dealt with harshly by the Wardens. A person outlawed, _énthodis_, is walked past the tree line and known to the realm only as one it has excluded.
 
 ## The Crown, the Circle and the Grove
 
-Authority in Élavendre has no single seat. The monarch rules the cities, the farms and the coast, with the officers of a feudal crown from Chancellor and Justiciar to Sheriff and Coroner. The Bardic Circle is the kingdom's memory and conscience, and the crown consults it on precedent, protocol and lineage. The Grove Council is the religious authority of the fae traditions, holds no charter and is older than the kingdom, and the rural population treats its word as binding. The Aurèldían temples serve the gods of the twelve, and the Áelendan Wardens hold the sacred sites by a jurisdiction the crown does not challenge. The Thôrdimâlon (the Arcane Order) is permitted and limited: it may hold its houses, teach and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest.
+Authority in Élavendre has no single seat. The monarch rules the cities, the farms and the coast, with the officers of a feudal crown from Chancellor and Justiciar to Sheriff and Coroner. The Bardic Circle is the kingdom's memory and conscience, and the crown consults it on precedent, protocol and lineage. The Grove Council is the religious authority of the fae traditions, holds no charter and is older than the kingdom, and the rural population treats its word as binding. The Aureldian temples serve the gods of the twelve, and the Áelendan Wardens hold the sacred sites by a jurisdiction the crown does not challenge. The Thordimalon (the Arcane Order) is permitted and limited: it may hold its houses, teach and practice within the cities, and it may not extend that reach into the tribal lands, the sacred sites or the deep forest.
 
 A case is tried by the royal courts in the cities and shires and by the grove-elder in the villages, and the Wardens' judgment on trespass is final inside sacred ground. The royal magistrate asks first whether a complainant had been warned. The Colleges keep the records of lineage and precedent, and the chancery keeps the crown's writs. The crown collects through its Treasurer and its sheriffs. When the answers conflict the settlement is slow and deliberate, with attention to precedent, prophecy and the counsel of the fae courts. The crown governs the interior only through the Wardens, who answer to the tribes, and a king believed to have taken the Order's side would face not a rebellion but the quiet judgment that he had stopped being of the old blood.
 
 ## What Becomes of the Dead
 
-The Aurèldían faith teaches that the soul passes through the spirit realm and that the Silent Judge Sélmoros keeps the gate. The Élavendri add what the land adds. The dead are part of the house, and the house is the whole descending line, living and not. The veil between the worlds is thin in Élavendre, and the dead lie in a country where it can be crossed. The Áelendan send a Death-Speaker to the owl-spirit of the Owl Hollow to ask whether the recently dead have gone.
+The Aureldian faith teaches that the soul passes through the spirit realm and that the Silent Judge Sélmoros keeps the gate. The Élavendri add what the land adds. The dead are part of the house, and the house is the whole descending line, living and not. The veil between the worlds is thin in Élavendre, and the dead lie in a country where it can be crossed. The Áelendan send a Death-Speaker to the owl-spirit of the Owl Hollow to ask whether the recently dead have gone.
 
-That belief makes an ordinary day. A house names its dead at the feast, since the genealogies sung there are the dead in the one place where they are kept. A family plants a tree for one of the dead, _sélvorosalvë_, and sings the lament at the cairn, _nélthava_. A debt of honor, _óurenon_, outlasts the person who owed it and falls on the line. A noble pays a College to prove descent because the proof is an inheritance of the dead as much as of the living, and a house that lets its talent lapse has failed its dead as well as its heirs. Money goes into the proof, the bard, the cairn, the tree and the patronage of the arts the house is judged by.
+That belief makes an ordinary day. A house names its dead at the feast, since the genealogies sung there are the dead in the one place where they are kept. A family plants a tree for one of the dead, _sélvosalve_, and sings the lament at the cairn, _nélthava_. A debt of honor, _óurenon_, outlasts the person who owed it and falls on the line. A noble pays a College to prove descent because the proof is an inheritance of the dead as much as of the living, and a house that lets its talent lapse has failed its dead as well as its heirs. Money goes into the proof, the bard, the cairn, the tree and the patronage of the arts the house is judged by.
 
 ## Reaching the Dead
 
@@ -133,7 +153,7 @@ Ask an Élavendri what a person owes, and he answers: the house first, and by ho
 
 Last he owes the Pact—the old arrangement with the Áelendan and with what was here before anyone—and he will not explain it to a foreigner, partly from courtesy and partly because he is not entirely sure of the terms himself.
 
-In return a person is owed the house's name and protection, the land's keeping by the lord whose rank exists for it, a hearing that is courteous and slow, and a place at the fire under _dýemaralon_. The crown owes its people the tree line held and its lords the stewardship that justifies their rank.
+In return a person is owed the house's name and protection, the land's keeping by the lord whose rank exists for it, a hearing that is courteous and slow, and a place at the fire under _dyemaralon_. The crown owes its people the tree line held and its lords the stewardship that justifies their rank.
 
 ## The Weak
 
@@ -164,45 +184,18 @@ The sin is the welcome. The crown's cordiality to the Order is warm and sincere,
 ## See Also
 
 - [[place-elavendre|Élavendre Region]]—the woodland kingdom and its cities
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods as the kingdom keeps them
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the gods as the kingdom keeps them
 - [[skill-elvndrlng|Élavendri]]—the tongue of the houses and the bards
 - [[lore-aelendnppl|The Áelendan]]—the ancestor tribes and the Pact
 - [[affiliation-bardicolgs|The Bardic Colleges]]—the genealogies, the songs and the Circle
 - [[affiliation-groveconcl|The Grove Council]]—the groves and the hinge-days
 - [[affiliation-alndnwrdns|The Áelendan Wardens]]—the tree line and the sacred sites
-- [[lore-theasking|The Asking]]—the Sinalëan lay of the band that asked the wood
-- [[being-rnthrprdln|Ránthor Párdalen]]—the shaman between the kingdom and the interior
-- [[being-ylthklmrth|Jálith Kálmereth]]—the traveling bard of Liranel
+- [[lore-theasking|The Asking]]—the Sinalean lay of the band that asked the wood
+- [[being-rnthrprdln|Ranthor Párdalen]]—the shaman between the kingdom and the interior
+- [[being-ylthklmrth|Jalith Kálmereth]]—the traveling bard of Liranel
 
 ## Glossary {#glossary}
 
-Every Élavendri word and term of art these notes use, with the Áelendan terms the kingdom lives beside.
-
-| Term             | Meaning                                                                                    |
-| ---------------- | ------------------------------------------------------------------------------------------ |
-| ael              | Light, radiance; an Élavendri root common in names                                         |
-| arálwen          | A place where the material world and the spirit world lie naturally thin; pl. arálwain     |
-| arálwen-water    | A river that is arálwen along its length, running partly in each world                     |
-| Death-Speaker    | An Áelendan who goes to the owl-spirit to ask whether the recently dead have gone          |
-| dýemaralon       | Guest-right; what the hall owes the one under its roof                                     |
-| en               | The Élavendri copula, is; borrowed into Provenzal verse                                    |
-| énthodhis        | Outlawry; the sentence that walks a man past the tree line                                 |
-| hedge-affiliate  | A village healer, herbalist or folk-magician who walks in the Grove Council's tradition    |
-| hinge-days       | The equinoxes and solstices, when the Grove Council gathers                                |
-| íthanersa        | Fosterage; the raising of a child of another clan, or of the Sinalë                        |
-| leaf-mark        | The wrist tattoo of an initiate's home grove, renewed by its elder and fading with absence |
-| lórdemon         | A feast; a gathering with food, at which the genealogies are sung                          |
-| memory-shaping   | A bardic art that works through voice and narrative on memory                              |
-| nélthava         | A lament; the song at the cairn                                                            |
-| óurenon          | A debt of honor; a thing done that must be repaid in kind                                  |
-| sélvorosalvë     | A tree planted for one of the dead                                                         |
-| shadow name      | The true name, used only among intimates and at night                                      |
-| shíerothalon     | The order of the seats; worked out again at every gathering                                |
-| síl              | Song, enchantment; an Élavendri root common in names                                       |
-| song-binding     | A bardic art that binds through song                                                       |
-| sun name         | The name used in formal and public life                                                    |
-| tárnevë          | Bread; the loaf of the offering                                                            |
-| thal             | Shadow, mystery; an Élavendri root common in names                                         |
-| Tradition Keeper | An Áelendan memorizer who holds the Kindred Pact, the tribal songs and the genealogies     |
+The full dictionary is in the [[skill-elvndrlng#lexicon|Élavendri Language note]].
 
 Ardin, Solden and Ogdel (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

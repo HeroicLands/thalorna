@@ -1,9 +1,9 @@
 ---
 shortcode: razasharperu
-name: {full: Razâshar Perûdan, aliases: [Captain Razâshar]}
+name: {full: Razashar Perudan, aliases: [Captain Razashar]}
 type: being
 subType: npc
-description: A younger officer who is secretly working with a tribal elder to document the decisions of Delânash Ferudân for political criticism.
+description: A younger officer who is secretly working with a tribal elder to document the decisions of Delanash Ferudan for political criticism.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Razâshar Perûdan is a 32-year-old man who stands 5'8" tall with a light build. He has tanned skin, ruddy complexion, dark brown hair, and brown eyes.
+Razashar Perudan is a 32-year-old man who stands 5'8" tall with a light build. He has tanned skin, ruddy complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Razâshar Perûdan, styled Captain, is a younger officer who is secretly working with Tribal Elder Zarvash to document the decisions of [[being-delnshfrdn|Delânash Ferudân]] for political criticism. He respects her military competence but has been convinced that her presence in command is corrupting Dunhari warrior traditions.
+Razashar Perudan, styled Captain, is a younger officer who is secretly working with Tribal Elder Zarvash to document the decisions of [[being-delnshfrdn|Delanash Ferudan]] for political criticism. He respects her military competence but has been convinced that her presence in command is corrupting Dunhari warrior traditions.

@@ -1,9 +1,9 @@
 ---
 shortcode: fruzukazselv
-name: {full: Fruzukáz Selvâzhazát, aliases: [Cartographer Fruzukáz Selvâzhazát]}
+name: {full: Fruzukáz Selvazhazát, aliases: [Cartographer Fruzukáz Selvazhazát]}
 type: being
 subType: npc
-description: A younger, jealous cartographer who cultivates relationships with the city guard and spreads insinuations against Damáklios, named in Damáklios Bridutis and The Cartographers' Guild of the Byzarian League.
+description: A younger, jealous cartographer who cultivates relationships with the city guard and spreads insinuations against Damáklios, named in Damáklios Bridutis and The Cartographers' Guild of the Bizarian League.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Fruzukáz Selvâzhazát is a 31-year-old man who stands 5'11" tall with a light build. He has light skin, sun-kissed complexion, dark brown hair, and green eyes.
+Fruzukáz Selvazhazát is a 31-year-old man who stands 5'11" tall with a light build. He has light skin, sun-kissed complexion, dark brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Fruzukáz Selvâzhazát is a younger, jealous cartographer. He cultivates relationships with the city guard, spreads insinuations against [[being-damklsmpsn|Damáklios Bridutis]] and hopes to inherit Damáklios's commissions, as the note on [[affiliation-crtgrphrsgldbyzrnlg|The Cartographers' Guild of the Byzarian League]] records.
+Fruzukáz Selvazhazát is a younger, jealous cartographer. He cultivates relationships with the city guard, spreads insinuations against [[being-damklsmpsn|Damáklios Bridutis]] and hopes to inherit Damáklios's commissions, as the note on [[affiliation-crtgrphrsgldbyzrnlg|The Cartographers' Guild of the Bizarian League]] records.

@@ -14,7 +14,7 @@ data:
     summary: Hereditary monarchy with a ting (assembly) tradition.
     ranks:
       - level: 0
-        title: Níding
+        title: Niding
         lore: nidingrnk
         description: >-
           Cast beyond the ting's protection for an offense no wergild settles: killing him draws no penalty, and any hall that shelters him answers to the assembly for it.
@@ -27,17 +27,17 @@ data:
         title: Lidmadr
         lore: lidmadrrnk
         description: >-
-          Free but answering through a following rather than a clan—a freed thrall still bound to his former master, a hall-less drengr, or a settled outsider—so his word carries no weight on the assembly's floor.
+          Free but answering through a following rather than a clan—a freed thrall still bound to his former master, a hall-less dreng, or a settled outsider—so his word carries no weight on the assembly's floor.
       - level: 3
-        title: Bóndi
+        title: Bundi
         lore: bondirnk
         description: >-
-          Holds his own odal land by inheritance rather than a lord's grant, bears arms, and speaks at the ting in a ruling that binds the jarl over him as much as any free man.
+          Holds his own odel land by inheritance rather than a lord's grant, bears arms, and speaks at the ting in a ruling that binds the jarl over him as much as any free man.
       - level: 4
         title: Hringberi
         lore: hringberirnk
         description: >-
-          Given a named seat by a hall—at the lord's table, the high seat, or the door nearest the fell—and heard before a common bóndi when the hall is deciding.
+          Given a named seat by a hall—at the lord's table, the high seat, or the door nearest the fell—and heard before a common bundi when the hall is deciding.
       - level: 5
         title: Hersvald
         lore: hersvaldrnk
@@ -47,7 +47,7 @@ data:
         title: Jarl
         lore: jarlrnk
         description: >-
-          Holds a province by the king's grant, commands its hersvaldar, and answers to the king for its peace—a grant the crown can move elsewhere, unlike a bóndi's inherited odal land.
+          Holds a province by the king's grant, commands its hersvaldar, and answers to the king for its peace—a grant the crown can move elsewhere, unlike a bundi's inherited odel land.
       - level: 7
         title: King
         lore: konungrnk
@@ -59,17 +59,17 @@ data:
       Jarl: Holding a named province of the king, commanding its levies and answering for its dues.
       Hersvald: Answers for a named district, leading its men to the muster and speaking for them at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares what it is.
-      Hirdstjóri: The king's marshal, commander of his household men and master of the muster.
-      Búvördr: >-
-        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Vetrnaetr.
-      Hringvördr: Keeper of the rings the king gives, his tribute and the silver of his hall.
-      Merkiberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
+      Hirvstjori: The king's marshal, commander of his household men and master of the muster.
+      Buvordr: >-
+        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Vetrnetr.
+      Hringvordr: Keeper of the rings the king gives, his tribute and the silver of his hall.
+      Merkberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
       Skald: >-
         Court poet, whose verse is the realm's memory and whose praise or scorn makes reputations; the standing behind the post belongs to the Skalds' Circle.
-      Hirdman: >-
+      Hirvman: >-
         Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
-      Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
-      Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
+      Landvordr: The king's reeve in a district, collecting his dues and holding his courts.
+      Skipstjori: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: knalthstead
   population: 650000
@@ -89,36 +89,36 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-"The king owns less than you think and answers for more," a landvördr (king's reeve) tells the Vylarian factor riding the dues circuit with him out of [[place-knalthstead|Knalthstead]] for the first time. "He holds the realm while the ting keeps handing back his arm-ring. Every hall we stop at tonight knows that, and every one of them will tell me whether he is still worth the dues."
+"The king owns less than you think and answers for more," a landvordr (king's reeve) tells the Vylarian factor riding the dues circuit with him out of [[place-knalthstead|Knalthstead]] for the first time. "He holds the realm while the ting keeps handing back his arm-ring. Every hall we stop at tonight knows that, and every one of them will tell me whether he is still worth the dues."
 
-The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]], on the northwestern coast of the [[place-nrdlndsrgn|Nordlands]], and it is the largest and first-ranked of the five [[lore-nordheimnclt|Nordmen]] kingdoms. About 650,000 people live under its crown, more than half again as many as in any of its sister kingdoms—[[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]] and [[affiliation-kngdmvthgrd|Vithgard]]. Nordheim holds [[place-domsey|Dómsey]], the island where all five meet every seventh year, and its king usually convenes them. An outsider knows it for its longship fleets.
+The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]], on the northwestern coast of the [[place-nrdlndsrgn|Nordlands]], and it is the largest and first-ranked of the five [[lore-nordheimnclt|Nordmen]] kingdoms. About 650,000 people live under its crown, more than half again as many as in any of its sister kingdoms—[[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]] and [[affiliation-kngdmvthgrd|Vithgard]]. Nordheim holds [[place-domsey|Domsey]], the island where all five meet every seventh year, and its king usually convenes them. An outsider knows it for its longship fleets.
 
 ## How Nordheim Is Ruled
 
-Nordheim is a hereditary monarchy with a ting tradition, and the second half of that phrase limits the first. The _king_ is chosen from the royal clans and acclaimed at the ting, and he holds the realm on the assembly's continuing consent; the same assembly can refuse to hand back his arm-ring. He rules from his hall at Knalthstead, where fifteen hundred people live inside and hard against the timber ramparts, and where the court names a níding, reckons a wergild and keeps a man in the cell below until the ting decides his case.
+Nordheim is a hereditary monarchy with a ting tradition, and the second half of that phrase limits the first. The _king_ is chosen from the royal clans and acclaimed at the ting, and he holds the realm on the assembly's continuing consent; the same assembly can refuse to hand back his arm-ring. He rules from his hall at Knalthstead, where fifteen hundred people live inside and hard against the timber ramparts, and where the court names a niding, reckons a wergild and keeps a man in the cell below until the ting decides his case.
 
-Under the king the realm is held in layers, and the landvördr can recite them on horseback:
+Under the king the realm is held in layers, and the landvordr can recite them on horseback:
 
-- A _jarl_ holds a province by the king's grant, commands its levies and answers for its dues. The grant is the crown's to move, and seven jarls' seats stand behind the king's on Dómsey.
+- A _jarl_ holds a province by the king's grant, commands its levies and answers for its dues. The grant is the crown's to move, and seven jarls' seats stand behind the king's on Domsey.
 - A _hersvald_ answers for a district, leading its men to the muster and speaking for them at the ting by their consent rather than by a king's grant. The district that raised him can set him aside.
-- A _bóndi_ holds his odal land by inheritance, bears arms and speaks at the ting, and a ruling there binds the jarl over him as much as any free man.
-- A _landvördr_ is the king's reeve in a district, collecting the dues and holding the king's courts.
+- A _bundi_ holds his odel land by inheritance, bears arms and speaks at the ting, and a ruling there binds the jarl over him as much as any free man.
+- A _landvordr_ is the king's reeve in a district, collecting the dues and holding the king's courts.
 
-The king's household carries the rest of the work. The _Lawspeaker_ keeps the law in memory and recites it at the assembly. The _Hirdstjóri_ is the king's marshal and master of the muster; the _hirdmen_ are the sworn men of his household troop, fed at his table and bound to his person. The _Búvördr_ stewards a royal estate and seats the hall's honored old at [[lore-vetrnaetr|Vetrnaetr]]. The _Hringvördr_ keeps the rings the king gives and the silver of his hall. The _Merkiberi_ carries the king's standard in battle, a post of the highest honor and the shortest life. The court _skald_, whose standing belongs to the [[affiliation-skaldscrcl|Skalds' Circle]], makes and unmakes reputations in verse. At sea the _skipstjóri_ commands a ship and answers for her in the levy, and in every haven a _harbor-reeve_ takes the tolls and settles disputes on the wharves. The _queen_ keeps the hall's keys, household and stores.
+The king's household carries the rest of the work. The _Lawspeaker_ keeps the law in memory and recites it at the assembly. The _Hirvstjori_ is the king's marshal and master of the muster; the _hirvmen_ are the sworn men of his household troop, fed at his table and bound to his person. The _Buvordr_ stewards a royal estate and seats the hall's honored old at [[lore-vetrnaetr|Vetrnetr]]. The _Hringvordr_ keeps the rings the king gives and the silver of his hall. The _Merkberi_ carries the king's standard in battle, a post of the highest honor and the shortest life. The court _skald_, whose standing belongs to the [[affiliation-skaldscrcl|Skalds' Circle]], makes and unmakes reputations in verse. At sea the _skipstjori_ commands a ship and answers for her in the levy, and in every haven a _harbor-reeve_ takes the tolls and settles disputes on the wharves. The _queen_ keeps the hall's keys, household and stores.
 
-"Say you want a ruling against a jarl," the landvördr says. "You do not come to me, and you do not go to the king. You bring it to the ting, with your kin standing behind you and a skald who heard the last judgment on the point. If the ting finds for you, the jarl is bound. If he ignores it, he has quarreled with every bóndi in his province, and he knows what that costs."
+"Say you want a ruling against a jarl," the landvordr says. "You do not come to me, and you do not go to the king. You bring it to the ting, with your kin standing behind you and a skald who heard the last judgment on the point. If the ting finds for you, the jarl is bound. If he ignores it, he has quarreled with every bundi in his province, and he knows what that costs."
 
-The standings run from [[lore-nidingrnk|níding]], the outlaw beyond the ting's peace, through [[lore-thrallrnk|thrall]], [[lore-lidmadrrnk|lidmadr]] (a free person who answers through a following rather than a clan), [[lore-bondirnk|bóndi]] and [[lore-hringberirnk|hringberi]] (one given a named seat in a hall), to [[lore-hersvaldrnk|hersvald]], [[lore-jarlrnk|jarl]] and [[lore-konungrnk|king]]. The [[lore-nordheimnclt|Nordheimn]] culture note sets out what each owes and is owed.
+The standings run from [[lore-nidingrnk|niding]], the outlaw beyond the ting's peace, through [[lore-thrallrnk|thrall]], [[lore-lidmadrrnk|lidmadr]] (a free person who answers through a following rather than a clan), [[lore-bondirnk|bundi]] and [[lore-hringberirnk|hringberi]] (one given a named seat in a hall), to [[lore-hersvaldrnk|hersvald]], [[lore-jarlrnk|jarl]] and [[lore-konungrnk|king]]. The [[lore-nordheimnclt|Nordheimn]] culture note sets out what each owes and is owed.
 
 ## The Royal Line
 
-The crown has stayed in one clan since the acclamations: the **Knalthidrokh**, who keep the hall at Knalthstead and the royal howes on the slope below it. The ting chooses each king from among them, and a king's name rings the generations in its vowels as every Nordmal name does. The skalds recite the whole line at a sitting; these are the kings a newcomer hears of first.
+The crown has stayed in one clan since the acclamations: the **Knalthidrok**, who keep the hall at Knalthstead and the royal howes on the slope below it. The ting chooses each king from among them, and a king's name rings the generations in its vowels as every Nordmal name does. The skalds recite the whole line at a sitting; these are the kings a newcomer hears of first.
 
-- **Svalthorv**, about 270 to 287, the first king acclaimed, killed on the strand of Dómsey at the first sitting ([[lore-nordfirstsit|The First Sitting on Dómsey]]).
-- **Snilthorv**, 287 to 318, his son, who took Dómsey's keeping as his father's wergild and first convened the sittings.
+- **Svalthorv**, about 270 to 287, the first king acclaimed, killed on the strand of Domsey at the first sitting ([[lore-nordfirstsit|The First Sitting on Domsey]]).
+- **Snilthorv**, 287 to 318, his son, who took Domsey's keeping as his father's wergild and first convened the sittings.
 - **Thrildorv**, about 455 to 481, who held the shore at [[place-skalfvatn|Skalfvatn]] when Malagna's host went through the ice ([[lore-nordkinwars|The Kin-Wars]]).
-- **Bruldmýl**, about 503 to 519, king of the [[lore-threewinters|Three Winters]], who swore the door-seat oath at the sitting of 518.
-- **Thraskmýl**, 519 to 549, who sent the hulls south ([[lore-southrnfleets|The Southern Fleets]]).
+- **Bruldmil**, about 503 to 519, king of the [[lore-threewinters|Three Winters]], who swore the door-seat oath at the sitting of 518.
+- **Thraskmil**, 519 to 549, who sent the hulls south ([[lore-southrnfleets|The Southern Fleets]]).
 - **Vruthorv**, about 650 to 689, who sent three kingdoms' fleets to Aelwyth ([[lore-stormveldtkn|The Taking of Stormveld]]).
 - **Hvarnorv**, king since 689.
 
@@ -132,42 +132,42 @@ The kingdom's shipwrights and sailors are its pride. Its longships draw little e
 
 Women manage the estates while the ships are away, own property and may initiate divorce. Shield-maidens are uncommon but not unheard of, and they are respected as warriors.
 
-The kingdom's places show its range. [[place-odholm|Ódholm]] on the northern coast has grown around an ancient temple of Ódvar; [[place-horgsvangr|Hörgsvangr]] in the interior is the oldest inhabited settlement in Nordheim, an altar-field said to be older than any present kingdom; the seamount of [[place-thrumufjall|Thrumufjall]] holds a temple of Thrúnvald and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]]. [[place-raltholm|Raltholm]]'s hersvald calls the levy with a horn, the hill fort of [[place-skraldborg|Skraldborg]] watches the water, and [[place-nalthmark|Nalthmark]] marks where the kingdom's reckoned claim runs out. Below it, [[place-hrindstead|Hrindstead]] stands in an oak grove the [[lore-varokhiclt|Varokh]] claim as their own. In the forested interior lies [[place-haulonna|Thalmdal]], a destroyed [[lore-flksinale|Sinalë]] enclave whose blight is spreading into the highland clans' hunting grounds.
+The kingdom's places show its range. [[place-odholm|Odholm]] on the northern coast has grown around an ancient temple of Odvar; [[place-horgsvangr|Horgsvangr]] in the interior is the oldest inhabited settlement in Nordheim, an altar-field said to be older than any present kingdom; the seamount of [[place-thrumufjall|Thrumufjall]] holds a temple of Thrunvald and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]]. [[place-raltholm|Raltholm]]'s hersvald calls the levy with a horn, the hill fort of [[place-skraldborg|Skraldborg]] watches the water, and [[place-nalthmark|Nalthmark]] marks where the kingdom's reckoned claim runs out. Below it, [[place-hrindstead|Hrindstead]] stands in an oak grove the [[lore-varokhiclt|Varokh]] claim as their own. In the forested interior lies [[place-haulonna|Thalmdal]], a destroyed [[lore-flksinale|Sinale]] enclave whose blight is spreading into the highland clans' hunting grounds.
 
-## Faith and the Völvur
+## Faith and the Velvur
 
-Nordheim worships the [[affiliation-asguardian|Asguardian Pantheon]], a company of powerful and often capricious gods who govern the forces of nature and the virtues the Nordmen prize. [[affiliation-odvar|Ódvar]] is the All-Father, god of knowledge and wisdom; [[affiliation-bjartr|Bjartr]] is the god of light, dreams and the elder races; and [[affiliation-nahild|Náhild]] is the dreaded goddess of the underworld, whose cult is feared and reviled.
+Nordheim worships the [[affiliation-asguardian|Asguardian Pantheon]], a company of powerful and often capricious gods who govern the forces of nature and the virtues the Nordmen prize. [[affiliation-odvar|Odvar]] is the All-Father, god of knowledge and wisdom; [[affiliation-bjartr|Bjart]] is the god of light, dreams and the elder races; and [[affiliation-nahild|Nahild]] is the dreaded goddess of the underworld, whose cult is feared and reviled.
 
-Worship is practical and personal. People make offerings at standing stones, in sacred groves and at household altars. Four blóts mark the turns of the year. The midwinter feast of [[lore-jol|Jól]] and the midsummer bonfires of [[lore-midsumar|Midsumar]] are the great communal celebrations; [[lore-sumarmal|Sumarmál]] opens the assembly season, and Vetrnaetr closes the year's slaughter. The _völvur_, seeresses and spirit-workers, read omens, work seidr and stand between the living and the divine.
+Worship is practical and personal. People make offerings at standing stones, in sacred groves and at household altars. Four blets mark the turns of the year. The midwinter feast of [[lore-jol|Jel]] and the midsummer bonfires of [[lore-midsumar|Midsomar]] are the great communal celebrations; [[lore-sumarmal|Somarmál]] opens the assembly season, and Vetrnetr closes the year's slaughter. The _velvur_, seeresses and spirit-workers, read omens, work seid and stand between the living and the divine.
 
 ## Magic
 
-Magic in Nordheim takes two forms. _Seidr_ is the völvur's craft of trance, spirit journeys and divination. It is powerful and socially fraught: respected in a woman, it is called _ergi_ (unmanly) in a man, though some men practice it anyway. _Rúnagaldr_ is the craft of cutting runes with intent, kept by specialists called _rúnameistari_ (rune-masters). It is accepted in either sex and closely tied to the worship of [[lore-odvardty|Ódvar]], who paid an eye at [[lore-minnir|Minnir]]'s well for the runes. The rune-masters teach that the eye was the only price he paid and the well the only place he paid it: he drank, the runes stood in the water, and the first thing they spelled for him was his own death at [[lore-aldarlok|Aldarlok]].
+Magic in Nordheim takes two forms. _Seid_ is the velvur's craft of trance, spirit journeys and divination. It is powerful and socially fraught: respected in a woman, it is called _ergi_ (unmanly) in a man, though some men practice it anyway. _Rúnagaldr_ is the craft of cutting runes with intent, kept by specialists called _rúnstjori_ (rune-masters). It is accepted in either sex and closely tied to the worship of [[lore-odvardty|Odvar]], who paid an eye at [[lore-minnir|Minnir]]'s well for the runes. The rune-masters teach that the eye was the only price he paid and the well the only place he paid it: he drank, the runes stood in the water, and the first thing they spelled for him was his own death at [[lore-aldarlok|Aldarlok]].
 
-The [[affiliation-ordoarcanis|Thôrdimâlon]] has almost no presence in Nordheim. The Nordmen distrust foreign institutions, and their own traditions were old centuries before the Arcane Order existed.
+The [[affiliation-ordoarcanis|Thordimalon]] has almost no presence in Nordheim. The Nordmen distrust foreign institutions, and their own traditions were old centuries before the Arcane Order existed.
 
 ## Relations
 
 Raiding, trade and migration set Nordheim's dealings with the rest of Ankaris. Its longships have struck as far south as the [[place-vylarianse|Vylarian Sea]], and its mercenaries serve in armies across the continent.
 
-Among the five kingdoms, Malagna is Nordheim's rival: the two have long vied for leadership of the Nordmen, and their dealings are fraternal and competitive at once. Norgaad, Targud and Vithgard stand neither with Nordheim nor against it, and meet it as equals on Dómsey.
+Among the five kingdoms, Malagna is Nordheim's rival: the two have long vied for leadership of the Nordmen, and their dealings are fraternal and competitive at once. Norgaad, Targud and Vithgard stand neither with Nordheim nor against it, and meet it as equals on Domsey.
 
-Beyond the north, the [[place-grkrhlmrgn|Grukar]] to the east share the hard climate and little else, and the two peoples are often hostile. To the south, the forests of [[place-vrystwald|Vrystwald]] are a contested frontier where Nordheim's settlers and the [[affiliation-vrystwldtrbs|Varokh tribes]] compete for ground.
+Beyond the north, the [[place-grkrhlmrgn|Grukar]] to the east share the hard climate and little else, and the two peoples are often hostile. To the south, the forests of [[place-vrystwald|Vristwald]] are a contested frontier where Nordheim's settlers and the [[affiliation-vrystwldtrbs|Varokh tribes]] compete for ground.
 
 ## Commerce and Currency
 
-Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (elthêzâs, ankhrâ and bit), and no chapter of the [[affiliation-danvar|Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here: a traveler's note has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which owe nothing to the Vylarian banking houses.
+Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (ethla, ankhra and bit), and no chapter of the [[affiliation-danvar|Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here: a traveler's note has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which owe nothing to the Vylarian banking houses.
 
 ## See Also
 
 - [[place-nordheim|Nordheim]]—the land the kingdom holds
 - [[place-knalthstead|Knalthstead]]—the seat and the king's hall
-- [[place-domsey|Dómsey]]—the ting island the kingdom holds, where the King of All Clans sits
+- [[place-domsey|Domsey]]—the ting island the kingdom holds, where the King of All Clans sits
 - [[lore-nrdhmhstry|Histories and Legends of Nordheim]]—the kingdom's remembered past
-- [[lore-nordheimnclt|Nordheimn]]—the culture, the ting and the hof
+- [[lore-nordheimnclt|Nordheimn]]—the culture, the ting and the hov
 - [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—how the Nordmen bury their dead
 - [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
 - [[skill-nordmalng|Nordmal]]—the tongue and how a name is built in it
-- [[place-grkrhlmrgn|Grukarhölm]]—eastern neighbors, the Grukar
-- [[place-vrystwald|Vrystwald]]—southern frontier
+- [[place-grkrhlmrgn|Grukarholm]]—eastern neighbors, the Grukar
+- [[place-vrystwald|Vristwald]]—southern frontier
 - [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the sister kingdoms

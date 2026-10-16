@@ -1,6 +1,6 @@
 ---
 shortcode: hrksbrmztr
-name: {full: Harêkôs Baremzâtôr, aliases: []}
+name: {full: Harekos Baremzator, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -396,23 +396,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Harêkôs Baremzâtôr is a 58-year-old man who stands 5'9" tall and is of moderate build. He has a square face with defined cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. His hooded dark brown eyes sit beneath heavy brows and give him a guarded gaze. He has a strong nose and firm lips. He has olive skin with a weathered complexion. His dark brown hair is receding at the temples. He has calloused hands from years of hard work.
+Harekos Baremzator is a 58-year-old man who stands 5'9" tall and is of moderate build. He has a square face with defined cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. His hooded dark brown eyes sit beneath heavy brows and give him a guarded gaze. He has a strong nose and firm lips. He has olive skin with a weathered complexion. His dark brown hair is receding at the temples. He has calloused hands from years of hard work.
 
 # Dossier {#dossier}
 
-Harêkôs Baremzâtôr is a thatcher of Korvênâra, the garrison town in the Alêssâ country of [[place-vylariargn|Vylaría]], a Vylarian freeman who has roofed the farms around the town for more than forty years.
+Harekos Baremzator is a thatcher of Korvenara, the garrison town in the Alessa country of [[place-vylariargn|Vylaria]], a Vylarian freeman who has roofed the farms around the town for more than forty years.
 
-Harêkôs went up his first ladder as a boy behind his father and grandfather, and the reed he lays is cut, dried and dressed the way they laid it. The town inside its walls is tiled; the country round it is not, and every barn, byre and cottage for a day's ride has a Baremzâtôr roof on it or has needed one. He works with his grandchildren on the ladders now, more slowly than he did, and talks while he works: the farms he has roofed, the storms that took roofs he did not lay, the year the legion's stores burned.
+Harekos went up his first ladder as a boy behind his father and grandfather, and the reed he lays is cut, dried and dressed the way they laid it. The town inside its walls is tiled; the country round it is not, and every barn, byre and cottage for a day's ride has a Baremzator roof on it or has needed one. He works with his grandchildren on the ladders now, more slowly than he did, and talks while he works: the farms he has roofed, the storms that took roofs he did not lay, the year the legion's stores burned.
 
 ## Psyche
 
 ### Personality
 
-Harêkôs is slow now, deliberate in everything, and set against any way of laying reed that his father did not teach him; warm company on a roof and hard to argue with on the ground.
+Harekos is slow now, deliberate in everything, and set against any way of laying reed that his father did not teach him; warm company on a roof and hard to argue with on the ground.
 
 ### Motivation
 
-Harêkôs wants the trade to go to his grandchildren the way it came to him, and he wants the farms to keep sending for a Baremzâtôr when a roof is due. He has not thought about what happens when he can no longer climb.
+Harekos wants the trade to go to his grandchildren the way it came to him, and he wants the farms to keep sending for a Baremzator when a roof is due. He has not thought about what happens when he can no longer climb.
 
 ### Strengths
 
@@ -420,13 +420,13 @@ Long experience, skilled in the old thatching methods, a good teacher.
 
 ## Social
 
-Harêkôs holds his master's seal from the Thatchers' Guild of Korvênâra, as every trade in Vylaria is chartered, and has sat among its senior masters for twenty years.
+Harekos holds his master's seal from the Thatchers' Guild of Korvenara, as every trade in Vylaria is chartered, and has sat among its senior masters for twenty years.
 
 ## Companions
 
 ### Patrons
 
-Harêkôs's patrons are the farmers of the Korvênâra country, who want a roof that will outlast the man who laid it, and the garrison's quartermaster.
+Harekos's patrons are the farmers of the Korvenara country, who want a roof that will outlast the man who laid it, and the garrison's quartermaster.
 
 ### Enemies
 
@@ -434,10 +434,10 @@ A younger master of the guild who lays reed the Hilen way, faster and cheaper, a
 
 ## Plot Hooks
 
-1. **The Stores Roof**—The garrison's grain store has lost its roof in a gale a month before the legion marches, and the quartermaster needs it thatched in a week. Harêkôs cannot do that the old way, and the younger master can.
+1. **The Stores Roof**—The garrison's grain store has lost its roof in a gale a month before the legion marches, and the quartermaster needs it thatched in a week. Harekos cannot do that the old way, and the younger master can.
 
-2. **The Grandson**—The grandson Harêkôs has trained longest has gone to the garrison to take the legion's coin, and the recruiting serjeant is a man Harêkôs roofed a house for.
+2. **The Grandson**—The grandson Harekos has trained longest has gone to the garrison to take the legion's coin, and the recruiting serjeant is a man Harekos roofed a house for.
 
-3. **The Standard**—The guild votes next session on the Hilen method, and the younger masters have the numbers. If it passes, every roof Harêkôs lays after will be laid against the rule.
+3. **The Standard**—The guild votes next session on the Hilen method, and the younger masters have the numbers. If it passes, every roof Harekos lays after will be laid against the rule.
 
-4. **The Old Roof**—A roof Harêkôs laid forty years ago has come down on a family, and the farmer's son says it was laid badly. Harêkôs remembers the roof and the reed, and he does not think it was.
+4. **The Old Roof**—A roof Harekos laid forty years ago has come down on a family, and the farmer's son says it was laid badly. Harekos remembers the roof and the reed, and he does not think it was.

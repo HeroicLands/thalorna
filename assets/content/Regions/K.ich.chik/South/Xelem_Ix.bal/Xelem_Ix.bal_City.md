@@ -1,6 +1,6 @@
 ---
 shortcode: xelemixbal2
-name: {full: Xelem Ix'bal, aliases: []}
+name: {full: Shelem Ish'bal, aliases: []}
 type: place
 subType: settlement
 description: "The reputed center of the forsaken wastes at the continent's southern edge, a proving ground that no one rules."
@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [xelemixbalrgn], population: null}
 
 ## Overview
 
-No one rules **Xelem Ix'bal**. The Land of the Dead Jaguar is the forsaken realm at the southern edge of the continent: blasted rock, ash, fields of ice, geysers of superheated water, and ruins said to lie buried beneath ice and ash. The Itzáni priesthood watches over it from its threshold, at [[place-xelemchalix|Xelem Ch'alix]], the last outpost. What passes through the wastes is not trade but transformation.
+No one rules **Shelem Ish'bal**. The Land of the Dead Jaguar is the forsaken realm at the southern edge of the continent: blasted rock, ash, fields of ice, geysers of superheated water, and ruins said to lie buried beneath ice and ash. The Itsani priesthood watches over it from its threshold, at [[place-xelemchalix|Shelem Ch'alish]], the last outpost. What passes through the wastes is not trade but transformation.
 
 ## What a Traveler Is Told
 
@@ -22,6 +22,6 @@ The region has a central settlement. How many live in it, and who they are, no t
 
 ## See Also
 
-- [[place-xelemixbalrgn|Xelem Ix'bal Region]]—the wastes
-- [[place-xelemchalix|Xelem Ch'alix]]—the last temple-fortress before the wastes
+- [[place-xelemixbalrgn|Shelem Ish'bal Region]]—the wastes
+- [[place-xelemchalix|Shelem Ch'alish]]—the last temple-fortress before the wastes
 - [[place-sthrnkchchk|Southern K'ich'chik]]—the southern realms

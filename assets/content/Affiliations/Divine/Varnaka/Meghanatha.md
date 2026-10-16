@@ -1,6 +1,6 @@
 ---
 shortcode: meghanatha
-name: {full: Meghanātha, aliases: [Lord of Thunder]}
+name: {full: Meghonata, aliases: [Lord of Thunder]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the god of storms and of the rain the monsoon brings."
@@ -14,18 +14,18 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the monsoon and the thunder that announces it, answered from the roof-bowl and the village drum, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnuka ordains into a sampradeya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the monsoon and the thunder that announces it, answered from the roof-bowl and the village drum, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
-        title: Patita
+        title: Patuta
         description: >-
-          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradāya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
+          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradeya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
       - level: 1
-        title: Upāsaka
+        title: Upasoka
         description: >-
           The lay devotee, keeping the household observance of the monsoon and the thunder that announces it, answered from the roof-bowl and the village drum. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2
-        title: Vratin
+        title: Vretin
         lore: vowdevoteernk
         description: >-
           "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
@@ -48,14 +48,14 @@ sohl:
     commonSkills: [meghanatha, sohl-sohl-skill-srvl, sohl-sohl-skill-sing, sohl-sohl-skill-wood]
 ---
 
-## Meghanātha—Lord of Thunder
+## Meghonata—Lord of Thunder
 
 - **Domain:** Storms, rain, lightning, the monsoon, protection of the fields and the coasts
 - **Symbol:** A drum encircled by lightning bolts
 - **Pronunciation:** _MEG-ha-nah-tha_
-- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-"When you hear the first drum, you grab the biggest pot you own and a spoon, and you hit it as hard as you can." The priest who keeps the drum at a coastal village temple says it to the new schoolmaster's family in the last dry week, with a grin that tells them he means it. He is also telling them something about the god. [[lore-meghanathadty|Meghanātha]] is not gentle, and his rites are the frank bargaining of a people whose prosperity rides on the weather. The drums are loud, the festivals are raucous, and the clergy are forthright to a degree that more decorous traditions find uncomfortable.
+"When you hear the first drum, you grab the biggest pot you own and a spoon, and you hit it as hard as you can." The priest who keeps the drum at a coastal village temple says it to the new schoolmaster's family in the last dry week, with a grin that tells them he means it. He is also telling them something about the god. [[lore-meghanathadty|Meghonata]] is not gentle, and his rites are the frank bargaining of a people whose prosperity rides on the weather. The drums are loud, the festivals are raucous, and the clergy are forthright to a degree that more decorous traditions find uncomfortable.
 
 He is revered throughout [[place-vedyarargn|Vedyara Region]], most of all along the coasts and in the river-valleys, and he protects those who live at the mercy of the sky: the farmer waiting on the rains, the fisherman at sea, and the traveler whose road the great storms cut. His anger can destroy a village in a night, and his favor can keep a region prosperous for a generation.
 
@@ -79,5 +79,5 @@ Sailors and caravan-masters bless their craft and their beasts with a palmful of
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varnaka Pantheon]]
-- [[lore-meghanathadty|Meghanātha]]—the god, and the monsoon he is held to be
+- [[affiliation-varakpnthn|Varnuka Pantheon]]
+- [[lore-meghanathadty|Meghonata]]—the god, and the monsoon he is held to be

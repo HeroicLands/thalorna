@@ -1,12 +1,12 @@
 ---
 shortcode: nesthiros
-name: {full: Nêsthiros, aliases: []}
+name: {full: Nesthiros, aliases: []}
 type: affiliation
 subType: polity
-description: "Island city-state of the Byzarian League, situated on a fortress isle in the Byzarian straits—maritime hub and key to the League's naval defense."
+description: "Island city-state of the Bizarian League, situated on a fortress isle in the Bizarian straits—maritime hub and key to the League's naval defense."
 data:
   templatePriority: null
-  demonym: Nêsthirian
+  demonym: Nesthirian
   epithet: null
   symbol: null
   governance:
@@ -70,32 +70,32 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The fast war-galleys that keep pirates and Tarûzelian competitors off League cargoes are Nêsthiros's, built in its own yards and kept by its own admiralty. That fleet is the city-state's weight in the [[affiliation-byzarianlg|Byzarian League]], and it is why a council of merchants shares its authority with admirals. The city-state governs about 1.8 million people from [[place-nesthiros2|Nêsthiros]], the fortress isle in the straits that carry its name, and the League's principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. Khrýshteíkhos has the gold, as the Nêsthirian saying goes, but Nêsthiros has the ships.
+The fast war-galleys that keep pirates and Taruzelian competitors off League cargoes are Nesthiros's, built in its own yards and kept by its own admiralty. That fleet is the city-state's weight in the [[affiliation-byzarianlg|Bizarian League]], and it is why a council of merchants shares its authority with admirals. The city-state governs about 1.8 million people from [[place-nesthiros2|Nesthiros]], the fortress isle in the straits that carry its name, and the League's principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. Krusteikhos has the gold, as the Nesthirian saying goes, but Nesthiros has the ships.
 
 ## The Council and the Admiralty
 
-A council of merchant-princes and the admiralty govern Nêsthiros together. The admiralty keeps the fleet of war-galleys, and the city's shipwrights are among the finest in the eastern sea. The council elects a First of the Council for a fixed term, and he holds the city's seal. Nêsthiros's weight at the League council's table is the weight of its hulls.
+A council of merchant-princes and the admiralty govern Nesthiros together. The admiralty keeps the fleet of war-galleys, and the city's shipwrights are among the finest in the eastern sea. The council elects a First of the Council for a fixed term, and he holds the city's seal. Nesthiros's weight at the League council's table is the weight of its hulls.
 
-In a port the office that matters most is the Harbormaster's, who keeps the pilots, the wharves and the dues levied on every hull that enters. The Consul Abroad, the city's resident agent in a foreign port, holds its seal for trade disputes there, and a city whose captains have traded with the coasts of Mídhalión and Xerathia for a thousand years has plenty of use for the post.
+In a port the office that matters most is the Harbormaster's, who keeps the pilots, the wharves and the dues levied on every hull that enters. The Consul Abroad, the city's resident agent in a foreign port, holds its seal for trade disputes there, and a city whose captains have traded with the coasts of Mídhalión and Zerathia for a thousand years has plenty of use for the post.
 
 ## Standing and Disputes
 
-A quarrel between two Nêsthirian houses opens at an arbitrator's table, and the arbitrator's scribe reads both sets of terms aloud before anyone argues. Say the scribe reads a freight contract's third clause and the factor of one house stops him: that is the dispute, found in the first quarter hour, and the arbitrator settles it on the clause rather than on the houses' names. The arbitrator is a professional named by both sides, and his standing depends on being thought fair.
+A quarrel between two Nesthirian houses opens at an arbitrator's table, and the arbitrator's scribe reads both sets of terms aloud before anyone argues. Say the scribe reads a freight contract's third clause and the factor of one house stops him: that is the dispute, found in the first quarter hour, and the arbitrator settles it on the clause rather than on the houses' names. The arbitrator is a professional named by both sides, and his standing depends on being thought fair.
 
-Standing follows the register, as in every League city. The freeman is enrolled, trades in the markets and pleads in the courts; the resident works under the city's protection without a vote. A captain's rise to guild master, or a house factor's to house head, is how a Nêsthirian of the waterfront comes to sit near the council, and the council's own seats go by the weight of the houses behind them.
+Standing follows the register, as in every League city. The freeman is enrolled, trades in the markets and pleads in the courts; the resident works under the city's protection without a vote. A captain's rise to guild master, or a house factor's to house head, is how a Nesthirian of the waterfront comes to sit near the council, and the council's own seats go by the weight of the houses behind them.
 
 ## Relations
 
-Nêsthiros and Tarûzelian merchantmen share the same docks and the same sea. [[affiliation-cnfdrtntrzlnstts|Tarûzel]] is the League's great rival at sea, and Nêsthiros's galleys are what the League sets against Tarûzelian competition. [[place-chrysamar|Chrysamar]], a coastal port that rivals Nêsthiros's trade, is the closer quarrel: commercial rivalry, occasional skirmishes between merchant fleets, and careful posturing at the League's councils. A Dunhari and a Khazryni merchant quarter keep their own tongues, faiths and law inside the city, and Nêsthiros is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon]].
+Nesthiros and Taruzelian merchantmen share the same docks and the same sea. [[affiliation-cnfdrtntrzlnstts|Taruzel]] is the League's great rival at sea, and Nesthiros's galleys are what the League sets against Taruzelian competition. [[place-chrysamar|Chrisamar]], a coastal port that rivals Nesthiros's trade, is the closer quarrel: commercial rivalry, occasional skirmishes between merchant fleets, and careful posturing at the League's councils. A Dunhari and a Khazryni merchant quarter keep their own tongues, faiths and law inside the city, and Nesthiros is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
 
 ## Commerce and Currency
 
-Nêsthiros uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Nêsthiros is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Nesthiros uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Nesthiros is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—the confederation whose joint fleet Nêsthiros keeps
-- [[place-byzariargn|Byzaría Region]]—the League's country
-- [[place-nesthiros2|Nêsthiros]]—the city on its fortress isle
-- [[place-chrysamar|Chrysamar]]—the rival port
-- [[affiliation-khryshteikhos|Khrýshteíkhos]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argýrteíkhos]], [[affiliation-orashion|Órashion]]—the other four city-states
+- [[affiliation-byzarianlg|Bizarian League]]—the confederation whose joint fleet Nesthiros keeps
+- [[place-byzariargn|Bizaria Region]]—the League's country
+- [[place-nesthiros2|Nesthiros]]—the city on its fortress isle
+- [[place-chrysamar|Chrisamar]]—the rival port
+- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]—the other four city-states

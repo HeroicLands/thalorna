@@ -1,6 +1,6 @@
 ---
 shortcode: ermynvldrn
-name: {full: Érmin Véldarin, aliases: []}
+name: {full: Ermin Véldarin, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]
@@ -370,11 +370,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Érmin is slight—5'8" and 128 pounds, with a light build that makes him seem younger than his twenty-three years. His hair is prematurely gray, a shock of silver-white that he keeps cropped close to his skull, and his dark brown eyes are large and watchful in a medium-toned, rugged face that carries more tension than a man his age should. His features are fine—narrow jaw, high cheekbones, a thin nose—with the slightly hollowed look of someone who does not eat or sleep enough. He moves quietly, almost silently, a habit from years as a refugee when making noise meant danger. He wears the forest-town guard's standard kit—leather tunic, quilted padding, soft boots—but everything hangs slightly loose on his spare frame, and he keeps his cloak drawn close regardless of weather, as though perpetually braced against cold.
+Ermin is slight—5'8" and 128 pounds, with a light build that makes him seem younger than his twenty-three years. His hair is prematurely gray, a shock of silver-white that he keeps cropped close to his skull, and his dark brown eyes are large and watchful in a medium-toned, rugged face that carries more tension than a man his age should. His features are fine—narrow jaw, high cheekbones, a thin nose—with the slightly hollowed look of someone who does not eat or sleep enough. He moves quietly, almost silently, a habit from years as a refugee when making noise meant danger. He wears the forest-town guard's standard kit—leather tunic, quilted padding, soft boots—but everything hangs slightly loose on his spare frame, and he keeps his cloak drawn close regardless of weather, as though perpetually braced against cold.
 
 # Dossier {#dossier}
 
-Érmin was born to Élavendren parents but does not remember his early childhood. He was part of a refugee cohort that fled political persecution twelve years ago, when he was eleven years old. The experience of flight, loss, and displacement marked him in ways that remain visible in his bearing. His parents died during the journey (he will not say how), and he was taken in by a settlement near [[place-elavendre|Élavendre]]'s forest edge—a community that specialized in accepting refugees and integrating them into its life.
+Ermin was born to Élavendren parents but does not remember his early childhood. He was part of a refugee cohort that fled political persecution twelve years ago, when he was eleven years old. The experience of flight, loss, and displacement marked him in ways that remain visible in his bearing. His parents died during the journey (he will not say how), and he was taken in by a settlement near [[place-elavendre|Élavendre]]'s forest edge—a community that specialized in accepting refugees and integrating them into its life.
 
 At eighteen, he joined the local town guard not out of ambition but out of pragmatic recognition that he had no other skills to sell. The work suited him in unexpected ways. His years as a refugee had made him acutely aware of danger and threat; his instinctive watchfulness, which had been a liability in civilian life, became an asset in security work. He moves through the forest-edge town with the characteristic silence of someone who learned early that making noise could mean death.
 
@@ -384,11 +384,11 @@ At twenty-three, he has served five years in the town guard and is respected by 
 
 ### Personality
 
-Érmin is quiet to the point of seeming mute. He speaks only when necessary and often seems to be observing rather than participating. He is extraordinarily aware of his surroundings and reads danger signs that others miss. He is not unfriendly but is deeply private about his internal emotional state. He has learned not to trust easily, and his relationships are characterized by caution. He moves with the deliberate silence of someone for whom noise can be dangerous.
+Ermin is quiet to the point of seeming mute. He speaks only when necessary and often seems to be observing rather than participating. He is extraordinarily aware of his surroundings and reads danger signs that others miss. He is not unfriendly but is deeply private about his internal emotional state. He has learned not to trust easily, and his relationships are characterized by caution. He moves with the deliberate silence of someone for whom noise can be dangerous.
 
 ### Motivation
 
-Érmin's primary motivation is simple survival and security. He has experienced the worst that the world offers and has no illusions about human nature. His secondary motivation, which he rarely articulates even to himself, is the desire to protect the refugee community that saved him from death as a displaced child. He wants others spared the suffering he endured.
+Ermin's primary motivation is simple survival and security. He has experienced the worst that the world offers and has no illusions about human nature. His secondary motivation, which he rarely articulates even to himself, is the desire to protect the refugee community that saved him from death as a displaced child. He wants others spared the suffering he endured.
 
 ### Strengths
 
@@ -396,26 +396,26 @@ His awareness of danger is preternatural. His ability to move silently and remai
 
 ## Social
 
-Érmin is regarded with a mixture of respect and unease by his community. His status as refugee-turned-guard makes him something of a symbol of successful integration, but the marks his past has left on him and his emotional distance make people uncomfortable in his company for long. He is welcomed but not fully accepted.
+Ermin is regarded with a mixture of respect and unease by his community. His status as refugee-turned-guard makes him something of a symbol of successful integration, but the marks his past has left on him and his emotional distance make people uncomfortable in his company for long. He is welcomed but not fully accepted.
 
 ## Companions
 
 ### Patrons
 
-**Town Magistrate Lénira Mórlineth**—The administrator of the forest-edge town. Lénira was instrumental in the settling of refugees and personally advocated for Érmin's acceptance. She has become his primary patron and has made it clear that she trusts him absolutely. She has also quietly supported his continued education.
+**Town Magistrate Lénira Mórlineth**—The administrator of the forest-edge town. Lénira was instrumental in the settling of refugees and personally advocated for Ermin's acceptance. She has become his primary patron and has made it clear that she trusts him absolutely. She has also quietly supported his continued education.
 
 ### Enemies
 
-**Local Extremist Kessian Forestborn**—A Élavendren traditionalist who views refugees as a contamination of local culture. Kessian has publicly opposed the refugee settlement and has made it clear that he resents Érmin's presence in the guard. He spreads rumors that Érmin is a spy for external powers and that his refugee background makes him untrustworthy.
+**Local Extremist Kessian Forestborn**—A Élavendren traditionalist who views refugees as a contamination of local culture. Kessian has publicly opposed the refugee settlement and has made it clear that he resents Ermin's presence in the guard. He spreads rumors that Ermin is a spy for external powers and that his refugee background makes him untrustworthy.
 
 ## Plot Hooks
 
-1. **The Refugee Crisis Revisited**—A new wave of refugees arrives at the forest-edge town, fleeing the same political persecution that displaced Érmin a decade ago. The new arrivals include people Érmin knew in his childhood—people from his refugee cohort who scattered years before. Some want to stay and settle; others are being actively hunted by the persecutors they fled. The town becomes divided about accepting the refugees. Érmin is personally invested in their survival but must keep the impartiality of his office. Kessian uses the crisis to demand that Érmin be dismissed as potentially biased in favor of refugees.
+1. **The Refugee Crisis Revisited**—A new wave of refugees arrives at the forest-edge town, fleeing the same political persecution that displaced Ermin a decade ago. The new arrivals include people Ermin knew in his childhood—people from his refugee cohort who scattered years before. Some want to stay and settle; others are being actively hunted by the persecutors they fled. The town becomes divided about accepting the refugees. Ermin is personally invested in their survival but must keep the impartiality of his office. Kessian uses the crisis to demand that Ermin be dismissed as potentially biased in favor of refugees.
 
-2. **The Personal Recognition**—One of the new refugees recognizes Érmin and reveals knowledge about Érmin's parents' deaths that he has buried—details he has shut out of memory in order to go on. The refugee is offering to tell him the truth. He can face what he has spent years avoiding, or keep his footing by refusing to know.
+2. **The Personal Recognition**—One of the new refugees recognizes Ermin and reveals knowledge about Ermin's parents' deaths that he has buried—details he has shut out of memory in order to go on. The refugee is offering to tell him the truth. He can face what he has spent years avoiding, or keep his footing by refusing to know.
 
-3. **The Extremist's Escalation**—Kessian begins actively organizing violence against the refugee settlement, using rhetoric that stokes local resentment. He is technically not breaking laws—his speech, while inflammatory, is within legal bounds. Érmin can see violence developing and knows that his intervention could prevent it, but doing so would require suppressing legal speech or arresting Kessian on insufficient evidence. Town Magistrate Lénira asks him to find a way to stop Kessian. He can hold to the law or prevent the violence, not both.
+3. **The Extremist's Escalation**—Kessian begins actively organizing violence against the refugee settlement, using rhetoric that stokes local resentment. He is technically not breaking laws—his speech, while inflammatory, is within legal bounds. Ermin can see violence developing and knows that his intervention could prevent it, but doing so would require suppressing legal speech or arresting Kessian on insufficient evidence. Town Magistrate Lénira asks him to find a way to stop Kessian. He can hold to the law or prevent the violence, not both.
 
-4. **The Forest Revelation**—While patrolling the forest-edge, Érmin discovers evidence of an Élavendren government military operation that appears to be deliberately targeting refugee settlements beyond Élavendre's official borders. The operation is technically operating in foreign territory and therefore outside Élavendren's jurisdiction. But the refugees being targeted are people Érmin knows and cares about. Reporting this to Town Magistrate Lénira would be reporting his own government to someone outside it, technically treason. Not reporting means allowing refugees to be assassinated.
+4. **The Forest Revelation**—While patrolling the forest-edge, Ermin discovers evidence of an Élavendren government military operation that appears to be deliberately targeting refugee settlements beyond Élavendre's official borders. The operation is technically operating in foreign territory and therefore outside Élavendren's jurisdiction. But the refugees being targeted are people Ermin knows and cares about. Reporting this to Town Magistrate Lénira would be reporting his own government to someone outside it, technically treason. Not reporting means allowing refugees to be assassinated.
 
-5. **The Spy's Truth**—Érmin discovers evidence that the accusation Kessian made—that Érmin is a spy—is partially accurate. Someone has been using Érmin's access to town information to gather intelligence on the refugee settlement. Investigation suggests someone in the community has been coercing another refugee into providing information. Érmin learns that the coercion involves threats against family members. Érmin can expose the coercion, which means revealing how he obtained the evidence and admitting he was investigating Kessian's accusation, or protect the coerced refugee and let the spying go on.
+5. **The Spy's Truth**—Ermin discovers evidence that the accusation Kessian made—that Ermin is a spy—is partially accurate. Someone has been using Ermin's access to town information to gather intelligence on the refugee settlement. Investigation suggests someone in the community has been coercing another refugee into providing information. Ermin learns that the coercion involves threats against family members. Ermin can expose the coercion, which means revealing how he obtained the evidence and admitting he was investigating Kessian's accusation, or protect the coerced refugee and let the spying go on.

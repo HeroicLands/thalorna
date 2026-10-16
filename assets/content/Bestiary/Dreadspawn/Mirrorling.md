@@ -398,7 +398,7 @@ The hall of mirrors runs the length of the house, glass from floor to ceiling on
 
 # Dossier {#dossier}
 
-The Mirrorling is a dreadspawn of living reflection: a figure six to eight feet tall, man-shaped, with a body like liquid silver, and a weight far greater than its size suggests. It lives where light is multiplied—halls of mirrors, polished stone, still water—and it fights with light, throwing out images of itself and turning blows back on whoever struck them. It does not eat. It feeds, as far as anyone can tell, on violence: on blows that strike it and rebound. One has taken up residence in a great house on [[place-selvin|Selvin]] in [[place-orzara|Ôrzâra]], the hill where the rising families of the Vylarian capital build, and its owners would very much like nobody to know. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Mirrorling is a dreadspawn of living reflection: a figure six to eight feet tall, man-shaped, with a body like liquid silver, and a weight far greater than its size suggests. It lives where light is multiplied—halls of mirrors, polished stone, still water—and it fights with light, throwing out images of itself and turning blows back on whoever struck them. It does not eat. It feeds, as far as anyone can tell, on violence: on blows that strike it and rebound. One has taken up residence in a great house on [[place-selvin|Selvin]] in [[place-orzara|Orzara]], the hill where the rising families of the Vylarian capital build, and its owners would very much like nobody to know. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -406,7 +406,7 @@ The mirrorling's whole surface is a perfect, liquid-smooth mirror, like burnishe
 
 ## In the Land
 
-Ôrzâra is the heart of the [[affiliation-vylarinmpr|Vylarian Empire]], and Selvin, the greener and newer of its patrician hills, is where new money builds great houses to rival the old villas of **Torvel**. The mirrorling holds one of those houses: a villa whose builder spent a fortune on a long gallery of mirrors and polished marble, and who did not live long in it. It keeps to the gallery and the rooms that open from it, and to the lit fountain court, and it is seen in the mirrors of the rest of the house at night. It does not leave the house. Its owners, a rising family, have shut the gallery, kept the servants who know, and gone on giving dinners in the other wing.
+Orzara is the heart of the [[affiliation-vylarinmpr|Vylarian Empire]], and Selvin, the greener and newer of its patrician hills, is where new money builds great houses to rival the old villas of **Torvel**. The mirrorling holds one of those houses: a villa whose builder spent a fortune on a long gallery of mirrors and polished marble, and who did not live long in it. It keeps to the gallery and the rooms that open from it, and to the lit fountain court, and it is seen in the mirrors of the rest of the house at night. It does not leave the house. Its owners, a rising family, have shut the gallery, kept the servants who know, and gone on giving dinners in the other wing.
 
 ## Key Behaviors
 
@@ -414,7 +414,7 @@ A mirrorling claims a place full of reflections and stays in it. It does not hun
 
 ## What the Household Does
 
-The family keeps the mirror gallery locked and its windows shuttered, and no candle is lit in it, because a dark gallery is a quiet one. Servants are told never to quarrel in the house and never to strike anyone, a rule the steward enforces with dismissal, because a fight in any room with a mirror has brought the creature through the glass. Mirrors in the family's wing have been covered with cloth. A scholar of the [[affiliation-panepistmm|Plûmepistémion]], quietly consulted, advised them to break every mirror in the house and fight it in the dark, and the family, who paid for the mirrors, has not yet done so. Rivals on Torvel have heard rumors, and an invitation to dine on Selvin is now accepted with care.
+The family keeps the mirror gallery locked and its windows shuttered, and no candle is lit in it, because a dark gallery is a quiet one. Servants are told never to quarrel in the house and never to strike anyone, a rule the steward enforces with dismissal, because a fight in any room with a mirror has brought the creature through the glass. Mirrors in the family's wing have been covered with cloth. A scholar of the [[affiliation-panepistmm|Epistémion]], quietly consulted, advised them to break every mirror in the house and fight it in the dark, and the family, who paid for the mirrors, has not yet done so. Rivals on Torvel have heard rumors, and an invitation to dine on Selvin is now accepted with care.
 
 ## Signs
 

@@ -1,6 +1,6 @@
 ---
 shortcode: recensio
-name: {full: The Recensio of Alêssâ, aliases: [The Audit]}
+name: {full: The Therona of Alessa, aliases: [The Audit]}
 type: lore
 subType: history
 description: "In 75 BF the Kandral assembles every registered practitioner in the Republic and their working-books in one place to be copied into a single register—and in the fourth month there is an unchanneled release."
@@ -12,7 +12,7 @@ data:
       kind: catastrophe
       depth: world
       summary: >-
-        The ûsândôs of the year orders every registered practitioner in the Republic to bring their working-books to one place in the Alêssan country, to be copied into a single register the Senate can hold. It puts the whole of the Republic's arcane knowledge and very nearly the whole of its arcane manpower inside one set of walls for a season. In the fourth month there is an unchanneled release. The books burn, most of the Republic's senior arcanists die, and a tract of good land is left bare. Whether it was accident or act has never been established, and the inventory taken afterward did not balance.
+        The usos of the year orders every registered practitioner in the Republic to bring their working-books to one place in the Alessan country, to be copied into a single register the Senate can hold. It puts the whole of the Republic's arcane knowledge and very nearly the whole of its arcane manpower inside one set of walls for a season. In the fourth month there is an unchanneled release. The books burn, most of the Republic's senior arcanists die, and a tract of good land is left bare. Whether it was accident or act has never been established, and the inventory taken afterward did not balance.
       standing: single-source
       where:
         locus: [place-alyssa]
@@ -49,8 +49,8 @@ data:
         - why the masters who kept the Kandral's holdings are not on the roll of the dead
 ---
 
-The Recensio was an audit. Every registered practitioner in the Republic was ordered to bring their
-working-books to one place in the Alêssan country, a day's ride from what is now [[place-velysara|Velysâra]], to be
+The Therona was an audit. Every registered practitioner in the Republic was ordered to bring their
+working-books to one place in the Alessan country, a day's ride from what is now [[place-velysara|Velisara]], to be
 copied into a single register the Senate could hold—and for a season it put the whole of the
 Republic's arcane knowledge, and very nearly the whole of its arcane manpower, inside one set of
 walls.
@@ -60,7 +60,7 @@ channel opened and not channeled discharges as raw magic, the releaser is at the
 survive, and a large release levels buildings, depopulates villages and blights farmland for
 generations.
 
-The books burned. Most of the Republic's senior arcanists died. A tract of good Alêssan land is bare
+The books burned. Most of the Republic's senior arcanists died. A tract of good Alessan land is bare
 nearly eight centuries later and is fenced at the [[affiliation-ordoarcanis|Arcane Order]]'s charge.
 
 A deliberate release is the kind of thing that ends sieges, which is precisely why nobody has ever

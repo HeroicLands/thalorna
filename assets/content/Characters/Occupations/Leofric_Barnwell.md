@@ -1,6 +1,6 @@
 ---
 shortcode: lefrcbrnwl
-name: {full: Leofric Barnwell, aliases: []}
+name: {full: Leofred Barnwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Leofric Barnwell is a 38-year-old man who stands 5'7" tall and is of moderate build. He has an oval face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a pointed chin. His sharp blue eyes sit beneath arched brows and give him an incisive gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His brown hair is short and swept back.
+Leofred Barnwell is a 38-year-old man who stands 5'7" tall and is of moderate build. He has an oval face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a pointed chin. His sharp blue eyes sit beneath arched brows and give him an incisive gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Leofric Barnwell is a physician.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Leofred Barnwell is a physician.
 
-Leofric Barnwell is a respected physician known for his wide knowledge of medicine and healing. He has spent many years studying both the old remedies and the newer techniques, and is a trusted figure in the community. He is dedicated to his patients and often treats the poor without charge. His calm manner and kindness have made him well loved.
+Leofred Barnwell is a respected physician known for his wide knowledge of medicine and healing. He has spent many years studying both the old remedies and the newer techniques, and is a trusted figure in the community. He is dedicated to his patients and often treats the poor without charge. His calm manner and kindness have made him well loved.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ He can be too absorbed in his work, and the losses of his calling weigh on him.
 
 ### Motivation
 
-Leofric wants to treat whoever comes to him and to keep his practice trusted by noble and commoner alike.
+Leofred wants to treat whoever comes to him and to keep his practice trusted by noble and commoner alike.
 
 ### Strengths
 
@@ -418,13 +418,13 @@ He is highly knowledgeable, has an excellent manner at the bedside, and is skill
 
 ## Social
 
-Leofric belongs to the Local Physicians' Guild.
+Leofred belongs to the Local Physicians' Guild.
 
 ## Companions
 
 ### Patrons
 
-Leofric's patrons are nobles and common folk alike who seek his care.
+Leofred's patrons are nobles and common folk alike who seek his care.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Few; he is respected, but some traditionalists have criticized him.
 
 ## Plot Hooks
 
-1. **The Physician's Dilemma**—A patient Leofric can only save with a technique the traditionalists condemn forces him to choose between his standing and the cure.
+1. **The Physician's Dilemma**—A patient Leofred can only save with a technique the traditionalists condemn forces him to choose between his standing and the cure.
 
-2. **Old Grudges**—A traditionalist among the guild's physicians turns his criticism of Leofric into a formal complaint.
+2. **Old Grudges**—A traditionalist among the guild's physicians turns his criticism of Leofred into a formal complaint.
 
-3. **Echoes of the Past**—A patient Leofric lost in his early years has a family that has not forgotten him.
+3. **Echoes of the Past**—A patient Leofred lost in his early years has a family that has not forgotten him.
 
-4. **Shifting Winds**—Political change in Aelwyth threatens the standing Leofric's noble family gives him, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Aelwyth threatens the standing Leofred's noble family gives him, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Leofric is offered the post of physician to a great house, and its price is not named up front.
+5. **The Opportunity**—Leofred is offered the post of physician to a great house, and its price is not named up front.

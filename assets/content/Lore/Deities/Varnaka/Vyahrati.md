@@ -1,20 +1,20 @@
 ---
 shortcode: vyahratidty
-name: {full: Vyāhrati, aliases: []}
+name: {full: Vahrati, aliases: []}
 type: lore
 subType: deity
-description: "The Keeper of Decay in the Varnaka pantheon, holding the wilting of what has flowered and the return that follows it."
+description: "The Keeper of Decay in the Varnuka pantheon, holding the wilting of what has flowered and the return that follows it."
 tags: []
 data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _The Keeper of Decay—a serene older woman crowned with wilting blossoms, holding a shallow bowl of gathered petals and dew._
 
-Vyāhrati is endings, and the quiet change by which what has reached its term gives itself back to the world. She commands no great presence in the Vedyari imagination, and she is venerated for necessity and not for power.
+Vahrati is endings, and the quiet change by which what has reached its term gives itself back to the world. She commands no great presence in the Vedyari imagination, and she is venerated for necessity and not for power.
 
 Without decay, the theology holds, there is no soil, and without an ending no beginning. A house, a garden and a soul all turn stale in the keeping when what must be released is not released.
 
-[[affiliation-rasikara|Rāsikara]] breaks what will not yield; Vyāhrati receives what yields of itself. Her worshippers count that gentleness her particular strength.
+[[affiliation-rasikara|Rasikara]] breaks what will not yield; Vahrati receives what yields of itself. Her worshippers count that gentleness her particular strength.
 
 The petal bowl on the kitchen windowsill is the one shrine every household in Vedyara keeps, whatever its chief devotion. The day's faded garland goes into it, and a fallen leaf tracked in on a sandal, and a spent seed-head. Each month the bowl is emptied onto the compost with the formula of release.
 

@@ -1,18 +1,18 @@
 ---
 shortcode: hrodthulrnk
-name: {full: "Hródthúl", aliases: ["Respected"]}
+name: {full: "Hrodthúl", aliases: ["Respected"]}
 type: lore
 subType: law
-description: "Bears a charge on the renown a deed has already won, assisting the elders in everyday duties, in the Vrystwald Tribes."
+description: "Bears a charge on the renown a deed has already won, assisting the elders in everyday duties, in the Vristwald Tribes."
 tags: []
 data: {culture: varokhiclt}
 ---
 
-Bears a charge on the renown a deed has already won, assisting the elders in everyday duties, in the Vrystwald Tribes.
+Bears a charge on the renown a deed has already won, assisting the elders in everyday duties, in the Vristwald Tribes.
 
 ## What This Standing Is
 
-A Hródthúl is drawn from the [[lore-druthmundrnk|Druthmund]] for a renown some deed has already won them, and assists the village's three elders in everyday duties rather than holding a seat of their own. The standing is few against the whole village: a Shaman takes one apprentice, a hunting band raises one leader, and an elder takes on whatever other help a seat's work requires, and no more than that.
+A Hrodthúl is drawn from the [[lore-druthmundrnk|Druthmund]] for a renown some deed has already won them, and assists the village's three elders in everyday duties rather than holding a seat of their own. The standing is few against the whole village: a Shaman takes one apprentice, a hunting band raises one leader, and an elder takes on whatever other help a seat's work requires, and no more than that.
 
 ## How the Law Treats a Person Here
 
@@ -32,4 +32,4 @@ The Shaman's apprentice, who succeeds to the Shaman's seat by the Shaman's own d
 
 ## Where This Standing Is Held
 
-The [[affiliation-vrystwldtrbs|Vrystwald Tribes]] alone.
+The [[affiliation-vrystwldtrbs|Vristwald Tribes]] alone.

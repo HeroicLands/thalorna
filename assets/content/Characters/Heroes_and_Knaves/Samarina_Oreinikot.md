@@ -1,6 +1,6 @@
 ---
 shortcode: smrnorenkt
-name: {full: Samarína Oreiníkot, given: Samarína, clan: Oreiníkot, aliases: []}
+name: {full: Samarina Oreinikot, given: Samarina, clan: Oreinikot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -432,29 +432,29 @@ sohl:
 
 # Appearance {#appearance}
 
-![[smrnorenkt|Samarína Oreiníkot]]{float=top-left}
+![[smrnorenkt|Samarina Oreinikot]]{float=top-left}
 
-Samarína stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, and hollow cheeks.
+Samarina stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, and hollow cheeks.
 
 # Dossier {#dossier}
 
-**Pastoral Heritage:** Samarína was born the youngest daughter of a respected herding family in the Byzarian highlands, where sheep and goat herding is the mainstay of livelihood and custom. From childhood, she was immersed in the rhythms of pastoral life—learning to read weather patterns, to identify individual animals from subtle distinctions, and to understand the social order within flocks. Her family taught her that herding is a sacred trust, a covenant with the animals under one's care.
+**Pastoral Heritage:** Samarina was born the youngest daughter of a respected herding family in the Bizarian highlands, where sheep and goat herding is the mainstay of livelihood and custom. From childhood, she was immersed in the rhythms of pastoral life—learning to read weather patterns, to identify individual animals from subtle distinctions, and to understand the social order within flocks. Her family taught her that herding is a sacred trust, a covenant with the animals under one's care.
 
-**Early Challenges and Growth:** At sixteen, Samarína attempted to establish her own herd independently, a common practice among young herders. However, an unusual drought year combined with predator losses and a fall in prices threatened the survival of both her animals and her livelihood. Rather than give up, she spent three years rebuilding through careful selective breeding, new grazing methods, and the development of fine wool that commanded higher prices. This early hardship taught her resilience while also revealing her caution—she learned to make conservative decisions, to put security before growth.
+**Early Challenges and Growth:** At sixteen, Samarina attempted to establish her own herd independently, a common practice among young herders. However, an unusual drought year combined with predator losses and a fall in prices threatened the survival of both her animals and her livelihood. Rather than give up, she spent three years rebuilding through careful selective breeding, new grazing methods, and the development of fine wool that commanded higher prices. This early hardship taught her resilience while also revealing her caution—she learned to make conservative decisions, to put security before growth.
 
-**Current Standing:** Now at thirty-two, Samarína has established a modest but respected herding operation in the [[affiliation-byzarianlg|Byzarian League]]'s southern territories. She produces wool of rare quality, raises lambs for both meat and breeding stock, and has earned a reputation for ethical animal husbandry and fair dealing. However, as her neighbors have grown increasingly wealthy through more aggressive expansion and exploitation of marginal lands, Samarína's caution has begun to feel like a liability. Younger herders question her conservative approach, and she finds herself increasingly isolated as the herding culture shifts toward more competitive, less communal practices.
+**Current Standing:** Now at thirty-two, Samarina has established a modest but respected herding operation in the [[affiliation-byzarianlg|Bizarian League]]'s southern territories. She produces wool of rare quality, raises lambs for both meat and breeding stock, and has earned a reputation for ethical animal husbandry and fair dealing. However, as her neighbors have grown increasingly wealthy through more aggressive expansion and exploitation of marginal lands, Samarina's caution has begun to feel like a liability. Younger herders question her conservative approach, and she finds herself increasingly isolated as the herding culture shifts toward more competitive, less communal practices.
 
 ## Psyche
 
 ### Personality
 
-Samarína is fundamentally quiet and introspective, someone who has spent more time in conversation with animals than with people. She is selective rather than unsociable, preferring deep acquaintance with fewer people to shallow relations with many. With those she trusts, she is warm and interested, capable of surprising moments of humor and insight. With strangers, she is polite but reserved, cautious in her speech and careful not to commit herself beyond what she can fulfill.
+Samarina is fundamentally quiet and introspective, someone who has spent more time in conversation with animals than with people. She is selective rather than unsociable, preferring deep acquaintance with fewer people to shallow relations with many. With those she trusts, she is warm and interested, capable of surprising moments of humor and insight. With strangers, she is polite but reserved, cautious in her speech and careful not to commit herself beyond what she can fulfill.
 
 Her caution is a learned response, not cowardice—she has experienced failure, loss, and betrayal, and has chosen to protect herself by moving deliberately and conservatively. This can read as lack of ambition or initiative, but it is actually deep wisdom about the dangers of overextension. Her feeling for others, particularly for animals, runs deep and occasionally shows as melancholy as she witnesses the inevitable suffering inherent in pastoral life—birth and death, health and disease, attachment and loss.
 
 ### Motivation
 
-Samarína is driven by multiple, sometimes conflicting motivations. Her primary drive is to maintain and improve her herd while staying true to ethical practices of care that have been passed down through her family. Beyond this, she increasingly wrestles with a desire to understand the changing world around her—the pressures that are driving her community toward more aggressive practices, the possibility that her traditional ways are becoming obsolete, and whether she should adapt or hold firm to her values. She also harbors a growing curiosity about the larger world beyond her pastoral territories, wondering what other paths might be available to her while simultaneously fearing such exploration as betrayal of her heritage.
+Samarina is driven by multiple, sometimes conflicting motivations. Her primary drive is to maintain and improve her herd while staying true to ethical practices of care that have been passed down through her family. Beyond this, she increasingly wrestles with a desire to understand the changing world around her—the pressures that are driving her community toward more aggressive practices, the possibility that her traditional ways are becoming obsolete, and whether she should adapt or hold firm to her values. She also harbors a growing curiosity about the larger world beyond her pastoral territories, wondering what other paths might be available to her while simultaneously fearing such exploration as betrayal of her heritage.
 
 ### Strengths
 
@@ -478,39 +478,39 @@ Samarína is driven by multiple, sometimes conflicting motivations. Her primary 
 
 ### Patrons
 
-Elder Tchelvâzeon Pediníkot
-: The respected elder of her herding commune and unofficial keeper of pastoral traditions, Tchelvâzeon has mentored Samarína throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
+Elder Chelvazeon Pedinikot
+: The respected elder of her herding commune and unofficial keeper of pastoral traditions, Chelvazeon has mentored Samarina throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
 
-The Wool Merchant Zenobárzan Kalvestris
-: A fair-dealing trader who buys Samarína's wool at high prices and speaks for it in distant markets, giving her a reliable income whatever the season's prices.
+The Wool Merchant Zenobarzan Kalvestris
+: A fair-dealing trader who buys Samarina's wool at high prices and speaks for it in distant markets, giving her a reliable income whatever the season's prices.
 
-The Veterinary Herbalist Zenoníkash
+The Veterinary Herbalist Zenonikash
 : A semi-retired healer who specializes in animal care and has become a friend and occasional mentor, sharing knowledge about herbal remedies and the care of the whole animal.
 
 ### Enemies
 
 Landowner Ghazos Vaspas
-: A wealthy landowner whose territories border Samarína's grazing lands, Ghazos has repeatedly attempted to purchase her land or pressure her into heavier grazing that ruins the land. Her refusal has earned his enmity.
+: A wealthy landowner whose territories border Samarina's grazing lands, Ghazos has repeatedly attempted to purchase her land or pressure her into heavier grazing that ruins the land. Her refusal has earned his enmity.
 
 The Competitive Herders Collective
-: Younger herders in the region, frustrated with what they see as outdated practices and conservative thinking, have begun ostracizing Samarína and spreading rumors about the inferior quality of her animals, despite evidence to the contrary.
+: Younger herders in the region, frustrated with what they see as outdated practices and conservative thinking, have begun ostracizing Samarina and spreading rumors about the inferior quality of her animals, despite evidence to the contrary.
 
 Her own doubts, an inner enemy
-: More dangerous than any external foe is Samarína's constant uncertainty about whether her traditional approaches are becoming obsolete, whether she is clinging to the past at the expense of her future.
+: More dangerous than any external foe is Samarina's constant uncertainty about whether her traditional approaches are becoming obsolete, whether she is clinging to the past at the expense of her future.
 
 ### Affiliations
 
 None formal
-: Samarína maintains independence from official organizations, though she participates informally in the Byzarian herding commune and honors the customs and traditions of her pastoral culture.
+: Samarina maintains independence from official organizations, though she participates informally in the Bizarian herding commune and honors the customs and traditions of her pastoral culture.
 
 ## Plot Hooks
 
-1. **The Sanctuary Under Threat:** Samarína discovers that Landowner Ghazos Vaspas has begun systematically purchasing lands that will encircle her grazing territories, effectively trapping her and forcing her to either abandon her herd or sell her land at depressed prices. She recruits adventurers to help her through the courts, discover evidence of Vaspas's unethical practices, and potentially locate alternative grazing lands. This forces her to learn political skill while testing whether she will compromise her values to survive.
+1. **The Sanctuary Under Threat:** Samarina discovers that Landowner Ghazos Vaspas has begun systematically purchasing lands that will encircle her grazing territories, effectively trapping her and forcing her to either abandon her herd or sell her land at depressed prices. She recruits adventurers to help her through the courts, discover evidence of Vaspas's unethical practices, and potentially locate alternative grazing lands. This forces her to learn political skill while testing whether she will compromise her values to survive.
 
-2. **The Plague in the Flocks:** A mysterious disease begins spreading through herds across the Byzarian League, devastating animals and threatening the pastoral economy. Samarína's keen observation suggests the disease is not natural but deliberately introduced. She must work with adventurers to investigate the source (whether environmental, magical, or deliberate), find a cure or treatment, and prevent her herd from being destroyed. This makes her an unexpected authority and possible savior.
+2. **The Plague in the Flocks:** A mysterious disease begins spreading through herds across the Bizarian League, devastating animals and threatening the pastoral economy. Samarina's keen observation suggests the disease is not natural but deliberately introduced. She must work with adventurers to investigate the source (whether environmental, magical, or deliberate), find a cure or treatment, and prevent her herd from being destroyed. This makes her an unexpected authority and possible savior.
 
-3. **The Ancient Shepherd's Secret:** While researching ancient herding techniques to improve her practice, Samarína discovers references to an ancient shepherd who allegedly lived five hundred years ago and whose herding techniques were said to be so advanced that his animals never sickened and his flock doubled in size every generation. Legend suggests his knowledge was hidden in a distant sanctuary. Intrigued by the possibility of learning truly new techniques, she recruits adventurers to help her locate and understand these ancient practices, potentially uncovering magic or lost knowledge.
+3. **The Ancient Shepherd's Secret:** While researching ancient herding techniques to improve her practice, Samarina discovers references to an ancient shepherd who allegedly lived five hundred years ago and whose herding techniques were said to be so advanced that his animals never sickened and his flock doubled in size every generation. Legend suggests his knowledge was hidden in a distant sanctuary. Intrigued by the possibility of learning truly new techniques, she recruits adventurers to help her locate and understand these ancient practices, potentially uncovering magic or lost knowledge.
 
-4. **The Outsider's Arrival:** A stranger arrives in Samarína's territory driving a herd of extraordinary animals—creatures that seem almost unnatural, moving with perfect synchronization and showing no signs of the diseases or weaknesses normal animals exhibit. The stranger offers to trade advanced breeding techniques and superior animals in exchange for Samarína's assistance with something dangerous and morally complicated. As Samarína grapples with the temptation to transform her herding through these superior animals, she realizes the stranger and their animals may not be entirely natural, and she can accept the aid, which may be cursed, or refuse it.
+4. **The Outsider's Arrival:** A stranger arrives in Samarina's territory driving a herd of extraordinary animals—creatures that seem almost unnatural, moving with perfect synchronization and showing no signs of the diseases or weaknesses normal animals exhibit. The stranger offers to trade advanced breeding techniques and superior animals in exchange for Samarina's assistance with something dangerous and morally complicated. As Samarina grapples with the temptation to transform her herding through these superior animals, she realizes the stranger and their animals may not be entirely natural, and she can accept the aid, which may be cursed, or refuse it.
 
-5. **The Land Spirits' Awakening:** Ancient earth spirits, long dormant in the pastoral lands of the Byzarian League, begin manifesting in response to the damage done by heavy grazing. Rather than punish Samarína (whose conservative practices are less damaging), the spirits contact her with a proposition: help convince other herders to change their practices, or the spirits will forcibly reclaim the land, devastating the herding life of the whole region. Samarína must become an unlikely ambassador between human culture and natural forces, recruiting adventurers to help her convince both the spirits to show patience and the herders to accept change.
+5. **The Land Spirits' Awakening:** Ancient earth spirits, long dormant in the pastoral lands of the Bizarian League, begin manifesting in response to the damage done by heavy grazing. Rather than punish Samarina (whose conservative practices are less damaging), the spirits contact her with a proposition: help convince other herders to change their practices, or the spirits will forcibly reclaim the land, devastating the herding life of the whole region. Samarina must become an unlikely ambassador between human culture and natural forces, recruiting adventurers to help her convince both the spirits to show patience and the herders to accept change.

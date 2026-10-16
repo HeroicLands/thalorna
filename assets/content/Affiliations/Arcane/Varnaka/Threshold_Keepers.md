@@ -15,12 +15,12 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Two documents make a keeper, and neither is sufficient alone: an ordination and a further license from the Council of the Triyāchāryas, and a standing warrant from the polity in whose courts the answers are to be used. A polity may decline to issue warrants at all, and several do.
+      Two documents make a keeper, and neither is sufficient alone: an ordination and a further license from the Council of the Triyacharyas, and a standing warrant from the polity in whose courts the answers are to be used. A polity may decline to issue warrants at all, and several do.
     ranks:
       - level: 0
         title: License Withdrawn
         description: >-
-          The license lifted for asking a question the warrant did not cover. The Council publishes the withdrawal, and an unlicensed working that claims the god's name is Patita, which ends the ordination as well.
+          The license lifted for asking a question the warrant did not cover. The Council publishes the withdrawal, and an unlicensed working that claims the god's name is Patuta, which ends the ordination as well.
       - level: 1
         title: Lamp-tender
         description: >-
@@ -73,13 +73,13 @@ sohl:
 
 - **Practice:** One question, put at the threshold, before the pyre
 - **Warranted for:** Inheritance and unwitnessed killing
-- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "**Two Witnesses**, always two," a **Keeper of the Register** tells the court clerk who has come to ask what a consultation is worth. "One is worth nothing in any court."
 
 The **Threshold-keepers** are what [[place-vedyarargn|Vedyara]] has instead of necromancers. They put one question to the newly dead and compel nothing, and that difference is the whole defense of the practice.
 
-[[affiliation-kalavrata|Kālavrata]] guides the soul from one body to the next and grants nothing to anyone for asking. He is not petitioned here and is not held to have any part in the answer. What the keepers work is the gap—the space between the sounding of the conch and the lighting of the pyre, while the household's threshold lamp still burns and the way the soul has just gone is still, in the tradition's own words, open behind it.
+[[affiliation-kalavrata|Kalavrata]] guides the soul from one body to the next and grants nothing to anyone for asking. He is not petitioned here and is not held to have any part in the answer. What the keepers work is the gap—the space between the sounding of the conch and the lighting of the pyre, while the household's threshold lamp still burns and the way the soul has just gone is still, in the tradition's own words, open behind it.
 
 ### What Is Done
 
@@ -111,7 +111,7 @@ The gap belongs to the household, not to the court. A family that will not have 
 
 ### See Also
 
-- [[affiliation-kalavrata|Kālavrata]]—the Gatekeeper, who is not petitioned
-- [[affiliation-varakpnthn|Varnaka Pantheon]]—the cycle-gods
-- [[affiliation-trimurtisampradaya|Council of the Triyāchāryas]]—which licenses the practice
-- [[affiliation-chayavrata|The Chaya-vrata]]—whose work the question is the likeliest thing to undo
+- [[affiliation-kalavrata|Kalavrata]]—the Gatekeeper, who is not petitioned
+- [[affiliation-varakpnthn|Varnuka Pantheon]]—the cycle-gods
+- [[affiliation-trimurtisampradaya|Council of the Triyacharyas]]—which licenses the practice
+- [[affiliation-chayavrata|The Chaya-vreta]]—whose work the question is the likeliest thing to undo

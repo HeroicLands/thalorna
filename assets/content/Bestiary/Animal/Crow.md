@@ -235,7 +235,7 @@ A flock lifts off the stubble field all at once, a ragged black cloud cawing, an
 
 # Dossier {#dossier}
 
-The Crow is the black bird of the fields, villages and battlefields, sixteen to twenty-one inches long and one to two pounds, found from the clearings of [[place-vrystwald|Vrystwald]] and the grain country of [[place-velanthrgn|Velanthia]] to the towns of every kingdom south of them. It is clever, curious and a thief, and it recognizes the faces of the people who have harmed it. A single crow is no danger, and a flock will harry and distract. The crow is the wesk of several Varokh villages.
+The Crow is the black bird of the fields, villages and battlefields, sixteen to twenty-one inches long and one to two pounds, found from the clearings of [[place-vrystwald|Vristwald]] and the grain country of [[place-velanthrgn|Velanthia]] to the towns of every kingdom south of them. It is clever, curious and a thief, and it recognizes the faces of the people who have harmed it. A single crow is no danger, and a flock will harry and distract. The crow is the wesk of several Varokh villages.
 
 ## Presentation
 
@@ -243,7 +243,7 @@ A medium-sized black bird whose plumage shows blue and purple in the light. The 
 
 ## In the Land
 
-Crows live wherever there are people: on the fields and farm-clearings of [[place-vrystwald|Vrystwald]], in the grain country of [[place-velanthrgn|Velanthia]], around the villages and harbors of the Nordlands and in the towns of every kingdom to the south. A flock roosts in a stand of tall trees and spreads out by day to the fields, the middens and the roads. Pairs nest in the same tree each year, and a flock of dozens may share a roost.
+Crows live wherever there are people: on the fields and farm-clearings of [[place-vrystwald|Vristwald]], in the grain country of [[place-velanthrgn|Velanthia]], around the villages and harbors of the Nordlands and in the towns of every kingdom to the south. A flock roosts in a stand of tall trees and spreads out by day to the fields, the middens and the roads. Pairs nest in the same tree each year, and a flock of dozens may share a roost.
 
 ## Key Behaviors
 
@@ -251,7 +251,7 @@ Crows live in flocks of dozens to hundreds, ruled by dominant birds that control
 
 ## What the Villages Do
 
-The Varokh villages that keep the crow as their wesk, among them Hildrýth, Skathrýth and Rádholt, will not harm one. Elsewhere farmers scare crows from sown fields with scarecrows, clappers and boys with slings, and pay a bounty for a pair of feet. Crows learn the face of a person who has harmed them, and teach it to the flock. A shepherd on a hillside watches them, since a flock that gathers is a sign of a carcass, a fox or a wounded animal. The black feathers are used for fletching and for the quills of the lower scribes.
+The Varokh villages that keep the crow as their wesk, among them Hildreth, Skathreth and Radholt, will not harm one. Elsewhere farmers scare crows from sown fields with scarecrows, clappers and boys with slings, and pay a bounty for a pair of feet. Crows learn the face of a person who has harmed them, and teach it to the flock. A shepherd on a hillside watches them, since a flock that gathers is a sign of a carcass, a fox or a wounded animal. The black feathers are used for fletching and for the quills of the lower scribes.
 
 ## Signs
 

@@ -1,6 +1,6 @@
 ---
 shortcode: folmhnura
-name: {full: Fölmhnúra, aliases: [The Sickness-Lament]}
+name: {full: Folmhnura, aliases: [The Sickness-Lament]}
 type: lore
 subType: literature
 description: "A shipwright's lament for her daughter dead of fever, made as a suit at the ting inside the grave-ale at Gnarthborg and sung by the women of the Malagna yards for every sickness death."
@@ -8,7 +8,7 @@ tags: [draft, nordlands]
 data:
   packFolder: nordlands
   culture: nordheimnclt
-  form: hnúra
+  form: hnura
   language: nordmalng
   subjects:
     - lore-nrdlndsfnrl
@@ -19,11 +19,11 @@ data:
     - place-gnarthborg
 ---
 
-**Fölmhnúra**, the sickness-lament, is the _hnúra_ the women of the [[place-gnarthborg|Gnarthborg]] shipyards sing on the seventh night when the dead died of the _fölm_ (sickness), which no hall of the honored dead takes, and it is called by its kind because the yards have only one. The [[lore-nrdlndsfnrl|grave-ale]] runs in a fixed order—the praise, then a lament if the household has a skald to make one, then the reckoning, then the heir's cup—and a shipwright of the [[affiliation-hrafnvar|Hrafnvar]] named **Knarvthýra**, whose household had no skald, made this one herself over her daughter **Knirvynda**, an apprentice of the yard dead of a fever at fourteen in the dark of the year. She made it in the one shape she knew well, which was a suit at the ting: she names her witnesses, states her claim, reckons the estate, petitions, and withdraws. The women of the [[place-malagna|Malagna]] yards sing it now at any grave-ale for a sickness death. The girl's own name and the girl's own faults are left in it, and nobody pays for a _hnúra_; the men at the ale know it is being sung and do not join in. The Hofgydja of [[lore-solrundty|Sólrún]]'s feast-hall in the town allows it, since the suit rests on her own hall's teaching that the Golden One seats whom she pleases. [[lore-odvardty|Ódvar]]'s clergy do not care for it, and say so, and do not forbid it. It names Náhild once, where a hall names her only with care.
+**Folmhnura**, the sickness-lament, is the _hnura_ the women of the [[place-gnarthborg|Gnarthborg]] shipyards sing on the seventh night when the dead died of the _folm_ (sickness), which no hall of the honored dead takes, and it is called by its kind because the yards have only one. The [[lore-nrdlndsfnrl|grave-ale]] runs in a fixed order—the praise, then a lament if the household has a skald to make one, then the reckoning, then the heir's cup—and a shipwright of the [[affiliation-hrafnvar|Hrafnvar]] named **Knarvthira**, whose household had no skald, made this one herself over her daughter **Knirvinda**, an apprentice of the yard dead of a fever at fourteen in the dark of the year. She made it in the one shape she knew well, which was a suit at the ting: she names her witnesses, states her claim, reckons the estate, petitions, and withdraws. The women of the [[place-malagna|Malagna]] yards sing it now at any grave-ale for a sickness death. The girl's own name and the girl's own faults are left in it, and nobody pays for a _hnura_; the men at the ale know it is being sung and do not join in. The Hofgudja of [[lore-solrundty|Solrún]]'s feast-hall in the town allows it, since the suit rests on her own hall's teaching that the Golden One seats whom she pleases. [[lore-odvardty|Odvar]]'s clergy do not care for it, and say so, and do not forbid it. It names Nahild once, where a hall names her only with care.
 
-: Fölmhnúra {#hnura}
+: Folmhnura {#hnura}
 
-```poetry {form=hnúra lang=en}
+```poetry {form=hnura lang=en}
 I stand.
 Mark that I stand, as at the ting.
 This is the seventh night.
@@ -31,9 +31,9 @@ The ale was brewed from the day she went out through the wall.
 It has stood seven nights. It is strong enough.
 
 There is no skald in this house.
-Nobody pays for a _hnúra_.
+Nobody pays for a _hnura_.
 So it is mine, and it is not paid for,
-and you will take it as you take a bóndi's word
+and you will take it as you take a bundi's word
 on his own ground: for what it is.
 
 The praise is said. I said it.
@@ -77,8 +77,8 @@ That is the witnesses. Five. The ting takes three.
 
 This is the claim.
 
-Knirvynda, Knarvthýra's daughter, fourteen winters,
-died of the _fölm_ in the dark of the year,
+Knirvinda, Knarvthira's daughter, fourteen winters,
+died of the _folm_ in the dark of the year,
 in this house, on that bench, under that beam,
 and was carried out through the wall, there, where the new planks are,
 and burned on the sixth day at noon,
@@ -92,17 +92,17 @@ The smoke went low.
 The skalds say a low smoke means the dead left something unsettled.
 She did. It is under the sail-cloth. I will come to it.
 
-The priests of Ódvar say where she is.
+The priests of Odvar say where she is.
 They say it kindly, and they say it to the wall.
 They say: a name is closed when the breath goes out of it.
-They say: the _fölm_-dead were never called on for anything,
+They say: the _folm_-dead were never called on for anything,
 so they go to [[place-nulthey|the shore where nothing is asked]],
 and walk there, and thin.
 I have heard it. I am not deaf.
 I have heard it said over better people than her
 and I did not stand up then.
 
-Here is a name. Knirvynda.
+Here is a name. Knirvinda.
 I gave it, from my own, the next grade down,
 the way a hall gives them.
 It is a joint-name. She cut a joint.
@@ -110,7 +110,7 @@ The name was open when she cut it. Mark the day she cut it.
 
 Here is the claim against it.
 
-Sólrún seats whom she pleases.
+Solrún seats whom she pleases.
 She does not seat by who came first.
 She feeds a guest before she asks his name.
 She moves the dead down her bench as she likes, and up it.
@@ -119,7 +119,7 @@ it can hold a shipwright's girl who was bad at nets.
 
 And the second claim. I set it beside the first.
 
-The ship that went south at [[lore-sumarmal|Sumarmál]] with the furs
+The ship that went south at [[lore-sumarmal|Somarmál]] with the furs
 has a strake in it that she cut.
 Fourth from the keel, steerboard side, forward of the mast-step.
 I watched the scarf go in. I held the lamp.
@@ -198,13 +198,13 @@ That is how she met it.
 
 Now I ask.
 
-Sólrún. Golden One. You who feed first and ask after.
+Solrún. Golden One. You who feed first and ask after.
 You have moved men down your bench for less than a plank.
 Move her up it.
 There is a place. You make places.
 She will not be good at your table either. Seat her anyway.
 This house has given gold away. Not much. What it had.
-Your gydja has the count. I do not say it here.
+Your gudja has the count. I do not say it here.
 It is not a price. Your hall does not sell seats.
 I say it so it is said.
 I ask it once. A suit is asked once.
@@ -216,16 +216,16 @@ And I say the other name.
 
 Hold your hands still, you by the fire. I know what I am doing.
 I say it in my own house, over my own ale, once,
-and the godi can come and ask me why,
+and the gudi can come and ask me why,
 and I will tell him: this.
 
-[[lore-nahilddty|Náhild]].
+[[lore-nahilddty|Nahild]].
 
 You take no interest.
 That is the whole of what is said about you where it can be said.
 Good. Take none in her.
 Walk past.
-You have others. You have the oath-breakers and the níding at the tide-line.
+You have others. You have the oath-breakers and the niding at the tide-line.
 Let her be a thing on the shore you did not look at.
 I ask you for nothing.
 Mark that I asked her for nothing.
@@ -239,7 +239,7 @@ It is not heard.
 
 I withdraw it.
 I take the claim off the rock. Both claims.
-Let nobody say that Knarvthýra's suit against the gods was judged.
+Let nobody say that Knarvthira's suit against the gods was judged.
 It was not judged. I took it back.
 
 There is no heir to this bench.
@@ -256,7 +256,7 @@ I fit them. Not the master. I.
 He has said I may. I did not ask him. He said it anyway.
 Steerboard, where her other one is in her other ship.
 That side is hers. Let the yard call it so.
-When the hull goes down the slip at Sumarmál
+When the hull goes down the slip at Somarmál
 there is more of her on the water than there is tonight.
 That is added. Mark it added.
 
@@ -264,7 +264,7 @@ And enter this on the hall's account,
 skald or no skald,
 so it is said at every feast under this roof:
 
-Owed to Knirvynda, Knarvthýra's daughter:
+Owed to Knirvinda, Knarvthira's daughter:
 a joint in every hull this yard sends down
 while I have hands.
 Who answers: I do.
@@ -283,6 +283,6 @@ I go to the yard.
 
 - [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the grave-ale and its fixed order
 - [[place-nulthey|Nulthey]]—where the Ten's doctrine sends the sickness-dead
-- [[place-solvangrhall|Sólrúnshöll]]—the hall whose seating the suit rests on
+- [[place-solvangrhall|Sólrunsholl]]—the hall whose seating the suit rests on
 - [[lore-nordheimnclt|Nordheimn]]—the reckoning after death, and hall credit
 - [[place-gnarthborg|Gnarthborg]]—the shipyards where it is sung

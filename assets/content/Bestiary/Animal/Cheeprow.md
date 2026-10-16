@@ -256,7 +256,7 @@ Something is chirping in the grass by the fire: a soft, bright run of notes like
 
 # Dossier {#dossier}
 
-The Cheeprow is a ten-inch ball of fur with a beak, big eyes, four short legs and a pair of stubby wings, which lives in colonies of dozens or hundreds in burrows under the open grass of the steppe and scrub country: the [[place-wlqtrrgn|Völketör]] on the western edge of the Khazryn, and the grass-belt of [[place-velanthrgn|Velanthia]] beyond it. One Cheeprow is a curiosity that follows a traveler for miles, chirping. Eight together are a pack that kills. It is the one animal of the grass that herders teach their children not to feed.
+The Cheeprow is a ten-inch ball of fur with a beak, big eyes, four short legs and a pair of stubby wings, which lives in colonies of dozens or hundreds in burrows under the open grass of the steppe and scrub country: the [[place-wlqtrrgn|Volketor]] on the western edge of the Khazryn, and the grass-belt of [[place-velanthrgn|Velanthia]] beyond it. One Cheeprow is a curiosity that follows a traveler for miles, chirping. Eight together are a pack that kills. It is the one animal of the grass that herders teach their children not to feed.
 
 A single Cheeprow weighs three pounds, eats insects, mice and roots, and comes to a camp for food and for anything that shines. What it finds, it chirps about, and the chirp carries. Within a short while the colony has come to the sound, and once six or eight are gathered the behavior of every one of them changes.
 
@@ -266,7 +266,7 @@ A round body about ten inches high and six across, covered in soft fur from pale
 
 ## In the Land
 
-Cheeprows burrow in dry, open ground with grass cover: the spring grass and summer dust of the Völketör, the steppe margin of Velanthia, and the scrub on the edges of the camel road where the first Sovidur tribes graze. A colony's burrows spread across an acre or more of a low rise, with dozens of mouths, and the ground above them is cropped bare. They are thickest where a water source draws mice and insects, which is also where a caravan camps, and the tribes who sell passage on the western road reckon a Cheeprow rise as a place to pass before dark and not to sleep.
+Cheeprows burrow in dry, open ground with grass cover: the spring grass and summer dust of the Volketor, the steppe margin of Velanthia, and the scrub on the edges of the camel road where the first Sovidur tribes graze. A colony's burrows spread across an acre or more of a low rise, with dozens of mouths, and the ground above them is cropped bare. They are thickest where a water source draws mice and insects, which is also where a caravan camps, and the tribes who sell passage on the western road reckon a Cheeprow rise as a place to pass before dark and not to sleep.
 
 ## Key Behaviors
 
@@ -274,7 +274,7 @@ A colony forages at dawn and dusk and sleeps underground through the heat and th
 
 ## What the Herders Do
 
-A herder who finds one Cheeprow in his camp kills it quietly or drives it off at once, before it has found anything to chirp about, and never lets a child feed one. A string that must camp near a rise covers its metal, keeps its food in closed bags, and sets a watch to kill the first bird that comes to the fire; the chirp that brings a pack is a distress call as much as a discovery call, so the watch kills it with one blow, not with a chase. A pack already gathered is met with fire, which they will not cross, and with cloaks wound round the forearms. The Völketör tribes burn a rise that lies too close to a well, and the colony digs in again a mile off within the season.
+A herder who finds one Cheeprow in his camp kills it quietly or drives it off at once, before it has found anything to chirp about, and never lets a child feed one. A string that must camp near a rise covers its metal, keeps its food in closed bags, and sets a watch to kill the first bird that comes to the fire; the chirp that brings a pack is a distress call as much as a discovery call, so the watch kills it with one blow, not with a chase. A pack already gathered is met with fire, which they will not cross, and with cloaks wound round the forearms. The Volketor tribes burn a rise that lies too close to a well, and the colony digs in again a mile off within the season.
 
 ## Signs
 

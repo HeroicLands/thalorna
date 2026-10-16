@@ -1,9 +1,9 @@
 ---
 shortcode: garratsagalt
-name: {full: Garrátsa Galtsurándis, aliases: [Smuggling Magnate Garrátsa]}
+name: {full: Garrutsa Galtsuris, aliases: [Smuggling Magnate Garrutsa]}
 type: being
 subType: npc
-description: A merchant of questionable legitimacy who has been running contraband through the city's gates for decades, named in Haldéna Durgána.
+description: A merchant of questionable legitimacy who has been running contraband through the city's gates for decades, named in Haldena Durgana.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Garrátsa Galtsurándis is a 55-year-old man who stands 5'7" tall with a light build. He has olive skin, weathered complexion, brown hair, and green eyes.
+Garrutsa Galtsuris is a 55-year-old man who stands 5'7" tall with a light build. He has olive skin, weathered complexion, brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Garrátsa Galtsurándis is a smuggling magnate, a merchant of questionable legitimacy who has run contraband through the city's gates for decades. [[being-hldndrgn|Haldéna Durgána]] has repeatedly prevented his operations and seized his contraband. He bribes her guard captain and has offered her a bribe himself.
+Garrutsa Galtsuris is a smuggling magnate, a merchant of questionable legitimacy who has run contraband through the city's gates for decades. [[being-hldndrgn|Haldena Durgana]] has repeatedly prevented his operations and seized his contraband. He bribes her guard captain and has offered her a bribe himself.

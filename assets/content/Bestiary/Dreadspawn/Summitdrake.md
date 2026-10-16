@@ -301,7 +301,7 @@ The wind on the upper shoulder of the mountain is hard enough to lean on, and th
 
 # Dossier {#dossier}
 
-The Summitdrake is a dreadspawn in the shape of a great winged drake, fifteen to twenty-five feet long and heavier than a war-horse, scaled in gray and rust like the rock of the high peaks. It claims a mountain and holds it, for centuries, against everything large enough to be a rival, and it hunts whatever it likes on the slopes below. It is intelligent, patient and tyrannical. One holds the summit of [[place-hydravenmnt|Mount Hýdraven]], the great peak of Provènzia's northern mountains and the source of the kingdom's water, which the [[affiliation-aelndntrbs|Áelendan Tribes]] hold sacred. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Summitdrake is a dreadspawn in the shape of a great winged drake, fifteen to twenty-five feet long and heavier than a war-horse, scaled in gray and rust like the rock of the high peaks. It claims a mountain and holds it, for centuries, against everything large enough to be a rival, and it hunts whatever it likes on the slopes below. It is intelligent, patient and tyrannical. One holds the summit of [[place-hydravenmnt|Mount Hidraven]], the great peak of Provenzia's northern mountains and the source of the kingdom's water, which the [[affiliation-aelndntrbs|Áelendan Tribes]] hold sacred. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -309,7 +309,7 @@ The summitdrake is long and heavy, built like a great lizard, with four powerful
 
 ## In the Land
 
-Hýdraven is the highest of the northern mountains, where Provènzia's cold uplands run up toward Élavendre, and the great springs that water the kingdom rise on its shoulders. The summitdrake holds the upper mountain: the summit rocks, the high ridges, the snowfields and the cirques above the springs. It hunts the slopes below, mountain goats and ibex, the sheep of the lower pastures in summer, bears, and anything else large, and it patrols the ridges on regular rounds. It attacks anything large enough to challenge it on sight and ignores what is too small to matter. It does not come down below the high pastures, and the springs themselves it seems to leave alone.
+Hidraven is the highest of the northern mountains, where Provenzia's cold uplands run up toward Élavendre, and the great springs that water the kingdom rise on its shoulders. The summitdrake holds the upper mountain: the summit rocks, the high ridges, the snowfields and the cirques above the springs. It hunts the slopes below, mountain goats and ibex, the sheep of the lower pastures in summer, bears, and anything else large, and it patrols the ridges on regular rounds. It attacks anything large enough to challenge it on sight and ignores what is too small to matter. It does not come down below the high pastures, and the springs themselves it seems to leave alone.
 
 ## Key Behaviors
 
@@ -317,7 +317,7 @@ The summitdrake is solitary and territorial past any animal's measure. It patrol
 
 ## What the Shepherds and the Tribes Do
 
-The shepherds who use Hýdraven's lower pastures by arrangements older than the kingdom keep their flocks below the line of the last juniper, and every summer they lose a few sheep anyway, and count them as part of the arrangement. Pilgrims who come the customary way are let alone by the tribes, and the pilgrims' way does not go above the springs. The Áelendan do not explain the drake to outsiders and do not, so far as anyone can tell, hunt it. Provènzia's three attempts to survey the watershed were turned back by the tribes before they got high enough to meet it. The bodies that come down with the thaw most years, carried to the nearest Provenzian village without comment, are mostly those of men who climbed too high in the wrong season, and some of them were not killed by the cold.
+The shepherds who use Hidraven's lower pastures by arrangements older than the kingdom keep their flocks below the line of the last juniper, and every summer they lose a few sheep anyway, and count them as part of the arrangement. Pilgrims who come the customary way are let alone by the tribes, and the pilgrims' way does not go above the springs. The Áelendan do not explain the drake to outsiders and do not, so far as anyone can tell, hunt it. Provenzia's three attempts to survey the watershed were turned back by the tribes before they got high enough to meet it. The bodies that come down with the thaw most years, carried to the nearest Provenzian village without comment, are mostly those of men who climbed too high in the wrong season, and some of them were not killed by the cold.
 
 ## Signs
 

@@ -1,6 +1,6 @@
 ---
 shortcode: slntwrbtrn
-name: {full: The Silent War in Batáren, aliases: []}
+name: {full: The Silent War in Bataren, aliases: []}
 type: scenario
 subType: adventure
 data:
@@ -14,21 +14,21 @@ data:
   packFolder: adventures
 ---
 
-Tensions boil beneath the surface in the coastal City of Batáren, where Provenzian rulers and the indigenous [[lore-elavendrnppl|Élavendren]] people—descendants of [[place-elavendre|Élavendre]] who settled in these borderlands centuries ago—clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.
+Tensions boil beneath the surface in the coastal City of Bataren, where Provenzian rulers and the indigenous [[lore-elavendrnppl|Élavendren]] people—descendants of [[place-elavendre|Élavendre]] who settled in these borderlands centuries ago—clash over land, rights, and tradition. A hidden hand stokes the conflict to destabilize the region.
 
 ## Overview
 
-Batáren, a prosperous coastal city in southern [[place-provenzrgn|Provènzia Region]], sits at the intersection of two cultures. The city's Provenzian ruling class and merchant establishment maintain order through law and tradition, while the Áelendan people—descendants of those who dwelt in the borderlands before Provenzian expansion—chafe under restrictions and marginalization. For decades, an uneasy peace has held. Now, carefully orchestrated incidents are pushing both communities toward open conflict, and the party must uncover who benefits from this war.
+Bataren, a prosperous coastal city in southern [[place-provenzrgn|Provenzia Region]], sits at the intersection of two cultures. The city's Provenzian ruling class and merchant establishment maintain order through law and tradition, while the Áelendan people—descendants of those who dwelt in the borderlands before Provenzian expansion—chafe under restrictions and marginalization. For decades, an uneasy peace has held. Now, carefully orchestrated incidents are pushing both communities toward open conflict, and the party must uncover who benefits from this war.
 
 ## Stage One: Arrival & Observation
 
-The party arrives in Batáren (or is already present) and begins to notice:
+The party arrives in Bataren (or is already present) and begins to notice:
 
 - Rising tension between Provenzian citizens and Áelendan residents
 - Isolated violence: attacks on Áelendan merchants, vandalism, murder
 - The Provenzian authorities seem more interested in suppressing news than investigating causes
 - Áelendi leaders are meeting secretly, preparing for organized response
-- Rumors of foreign influence: whispers of [[affiliation-vylarinmpr|Vylarian]] agents, [[affiliation-ordoarcanis|Thôrdimâlon]] manipulation, or northern interests
+- Rumors of foreign influence: whispers of [[affiliation-vylarinmpr|Vylarian]] agents, [[affiliation-ordoarcanis|Thordimalon]] manipulation, or northern interests
 
 **NPCs:**
 
@@ -57,12 +57,12 @@ The party must uncover the root causes and hidden agents behind the escalating t
 
 ## Stage Three: The Conspiracy Revealed
 
-Investigation reveals that a foreign power is deliberately stoking conflict to destabilize Batáren:
+Investigation reveals that a foreign power is deliberately stoking conflict to destabilize Bataren:
 
 **Possible Architects:**
 
 - **Vylarian Agents:** The [[affiliation-vylarinmpr|Vylarian Empire]] seeks to undermine Provenzian stability and justify imperial intervention
-- **Thôrdimâlon Manipulation:** The [[affiliation-ordoarcanis|Thôrdimâlon]] manipulates both sides to weaken Provenzian independence or create a pretext for magical research
+- **Thordimalon Manipulation:** The [[affiliation-ordoarcanis|Thordimalon]] manipulates both sides to weaken Provenzian independence or create a pretext for magical research
 - **Nordheim Interests:** [[affiliation-kngdmnrdhm|Nordheim raiders]] or their agents seek to damage the city's naval power and trade influence
 - **Internal Conspiracy:** A Provenzian noble faction uses foreign agents to advance their own position
 
@@ -96,7 +96,7 @@ As the conspiracy is exposed, the community stands on the brink of open warfare.
 **If the party succeeds:**
 
 - The conspiracy is exposed and foreign agents are removed or neutralized
-- Batáren's communities begin healing, though deep wounds remain
+- Bataren's communities begin healing, though deep wounds remain
 - Relations between Áelendan and Provenzian leadership improve significantly
 - The party gains allies in both communities
 - They may be commissioned to prevent similar infiltration in other cities
@@ -112,16 +112,16 @@ As the conspiracy is exposed, the community stands on the brink of open warfare.
 **If the party fails:**
 
 - Open warfare erupts between communities
-- Batáren is crippled economically and socially
-- The foreign conspiracy succeeds in weakening [[place-provenzrgn|Provènzia Region]]
+- Bataren is crippled economically and socially
+- The foreign conspiracy succeeds in weakening [[place-provenzrgn|Provenzia Region]]
 - The party may be blamed for the violence or forced into one side of the conflict
 
 ## See Also
 
-- [[place-provenzrgn|Provènzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
+- [[place-provenzrgn|Provenzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
 - [[lore-aelendnppl|Áelendan People]]
 - [[affiliation-vylarinmpr|Vylarian Empire]]
-- [[affiliation-ordoarcanis|Thôrdimâlon]]
+- [[affiliation-ordoarcanis|Thordimalon]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
-- [[affiliation-arldnpnthn|Aurèldían]]
+- [[affiliation-arldnpnthn|Aureldian]]

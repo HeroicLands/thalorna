@@ -1,6 +1,6 @@
 ---
 shortcode: kjrvngjrln
-name: {full: Chorvàn Jarlèn, given: Chorvàn, clan: Jarlèn, aliases: []}
+name: {full: Chorvan Jarlen, given: Chorvan, clan: Jarlen, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]
@@ -415,9 +415,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kjrvngjrln|Chorvàn Jarlèn]]{float=top-left}
+![[kjrvngjrln|Chorvan Jarlen]]{float=top-left}
 
-Chorvàn stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown hair, and brown eyes. His features include an oblong face, a straight nose, an angular jawline, full lips, dark brows, and sculpted cheeks.
+Chorvan stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown hair, and brown eyes. His features include an oblong face, a straight nose, an angular jawline, full lips, dark brows, and sculpted cheeks.
 
 # Dossier {#dossier}
 
@@ -425,27 +425,27 @@ Chorvàn stands 6'1" tall with a medium build. He has sun-tanned skin, dark brow
 
 ### Early Life
 
-Chorvàn was born in the borderlands between the Kingdom of Provènzia and the **Wildwood Territories**, the youngest of five children to a horse trader named **Jorn Jarlèn** and a former herbalist named **Chélyra**. His childhood was spent around stables and pasture, watching his father conduct business and his mother tend to injured and sick animals. Where his siblings learned to pursue profitable trades, Chorvàn found his passion not in commerce but in the animals themselves. At age seven, he was given his first young foal to raise—a gift from his father intended as a lesson in responsibility. That foal became his inseparable companion, and in raising it, he discovered his true calling.
+Chorvan was born in the borderlands between the Kingdom of Provenzia and the **Wildwood Territories**, the youngest of five children to a horse trader named **Jorn Jarlen** and a former herbalist named **Chelyra**. His childhood was spent around stables and pasture, watching his father conduct business and his mother tend to injured and sick animals. Where his siblings learned to pursue profitable trades, Chorvan found his passion not in commerce but in the animals themselves. At age seven, he was given his first young foal to raise—a gift from his father intended as a lesson in responsibility. That foal became his inseparable companion, and in raising it, he discovered his true calling.
 
 ### Training and Path
 
-At twelve years old, Chorvàn apprenticed himself to **Master Aelfen**, the head ostler of the well-known **Traveler's Rest Inn** located at the great crossroads where roads from Provènzia, the Merchant Cities, and the coastal provinces meet. For thirteen years, he studied the care of horses in all their complexity—feeding and grooming, but also understanding their temperaments, healing their ailments, training them gently but firmly, and reading the subtle signs of their health and mood. Master Aelfen was a stern but fair teacher who believed that a good ostler must possess the patience of stone and the heart of a priest. Chorvàn proved an apt student, eventually becoming responsible for the care of the inn's entire complement of thirty to forty horses, with a rotating staff of junior ostlers beneath him.
+At twelve years old, Chorvan apprenticed himself to **Master Aelfen**, the head ostler of the well-known **Traveler's Rest Inn** located at the great crossroads where roads from Provenzia, the Merchant Cities, and the coastal provinces meet. For thirteen years, he studied the care of horses in all their complexity—feeding and grooming, but also understanding their temperaments, healing their ailments, training them gently but firmly, and reading the subtle signs of their health and mood. Master Aelfen was a stern but fair teacher who believed that a good ostler must possess the patience of stone and the heart of a priest. Chorvan proved an apt student, eventually becoming responsible for the care of the inn's entire complement of thirty to forty horses, with a rotating staff of junior ostlers beneath him.
 
 ### Current Situation
 
-Now established as the chief ostler at the Traveler's Rest Inn, Chorvàn has become indispensable to the operation. His reputation has spread far enough that merchants and nobles specifically request to stable their horses with him, trusting that their animals will be returned to them in better condition than when they arrived. He lives in modest quarters above the stable, owns little, and spends nearly all his daylight hours among the horses. He has declined several offers to become head of larger stables elsewhere, preferring the deep relationships he's built with both the animals under his care and the inn's regular travelers.
+Now established as the chief ostler at the Traveler's Rest Inn, Chorvan has become indispensable to the operation. His reputation has spread far enough that merchants and nobles specifically request to stable their horses with him, trusting that their animals will be returned to them in better condition than when they arrived. He lives in modest quarters above the stable, owns little, and spends nearly all his daylight hours among the horses. He has declined several offers to become head of larger stables elsewhere, preferring the deep relationships he's built with both the animals under his care and the inn's regular travelers.
 
 ## Psyche
 
 ### Personality
 
-Chorvàn is a man of few words but real warmth. He communicates with equal fluency through speech and through action, and many travelers report that conversing with him is peaceful—he listens without judgment, asks thoughtful questions, and never hurries a conversation. He possesses an almost meditative quality, as if he's learned patience and acceptance from years of working with creatures that operate outside human logic. There is a gentleness to him that might be mistaken for softness by those who don't know him, but those who do understand that it masks an underlying strength and resolve. He is capable of great tenderness with suffering animals and uncertain travelers, yet firm and clear with those who would mistreat animals under his care.
+Chorvan is a man of few words but real warmth. He communicates with equal fluency through speech and through action, and many travelers report that conversing with him is peaceful—he listens without judgment, asks thoughtful questions, and never hurries a conversation. He possesses an almost meditative quality, as if he's learned patience and acceptance from years of working with creatures that operate outside human logic. There is a gentleness to him that might be mistaken for softness by those who don't know him, but those who do understand that it masks an underlying strength and resolve. He is capable of great tenderness with suffering animals and uncertain travelers, yet firm and clear with those who would mistreat animals under his care.
 
-Chorvàn struggles with conflict and direct confrontation, preferring always to seek peaceful resolution or simply to withdraw rather than engage in argument. This can appear as passivity, but it stems from a deeper philosophy: he believes that most conflict arises from people operating at cross-purposes when patient conversation could bridge the gap. He follows the god **Árdavon** not through ritual but through his daily practice of balance—maintaining equilibrium between the needs of animals and the needs of travelers, between old ways and new, between solitude and community.
+Chorvan struggles with conflict and direct confrontation, preferring always to seek peaceful resolution or simply to withdraw rather than engage in argument. This can appear as passivity, but it stems from a deeper philosophy: he believes that most conflict arises from people operating at cross-purposes when patient conversation could bridge the gap. He follows the god **Árdavon** not through ritual but through his daily practice of balance—maintaining equilibrium between the needs of animals and the needs of travelers, between old ways and new, between solitude and community.
 
 ### Motivation
 
-Chorvàn is driven by a desire to provide care and comfort to creatures that cannot ask for it, and to be a reliable, honest presence in a world often characterized by deception and hurried dealing. He harbors no ambition for wealth or status, but he is motivated by the knowledge that his work matters deeply—that a horse properly cared for will carry its rider safely, that a nervous traveler's anxiety can ease through conversation with someone trustworthy. On a deeper level, he seeks to create spaces of peace and refuge within the inn, islands of tranquility where both animals and humans can find respite from the demands of the road. He is quietly determined to preserve and pass on the knowledge and philosophy of animal care that Master Aelfen taught him, viewing it as a sacred trust.
+Chorvan is driven by a desire to provide care and comfort to creatures that cannot ask for it, and to be a reliable, honest presence in a world often characterized by deception and hurried dealing. He harbors no ambition for wealth or status, but he is motivated by the knowledge that his work matters deeply—that a horse properly cared for will carry its rider safely, that a nervous traveler's anxiety can ease through conversation with someone trustworthy. On a deeper level, he seeks to create spaces of peace and refuge within the inn, islands of tranquility where both animals and humans can find respite from the demands of the road. He is quietly determined to preserve and pass on the knowledge and philosophy of animal care that Master Aelfen taught him, viewing it as a sacred trust.
 
 ### Strengths
 
@@ -468,28 +468,28 @@ Chorvàn is driven by a desire to provide care and comfort to creatures that can
 
 ### Patrons
 
-Innkeeper Mârlith
-: The proprietor of the Traveler's Rest Inn, who trusts Chorvàn completely and relies on him to maintain the quality of the inn's services. She often consults him on matters beyond his stable work.
+Innkeeper Marlith
+: The proprietor of the Traveler's Rest Inn, who trusts Chorvan completely and relies on him to maintain the quality of the inn's services. She often consults him on matters beyond his stable work.
 
 Merchant Caravans of the Crossroads
-: Regular merchants who pass through the inn give Chorvàn gifts, bonuses, and special requests, viewing his care as worth premium payment.
+: Regular merchants who pass through the inn give Chorvan gifts, bonuses, and special requests, viewing his care as worth premium payment.
 
 The Kingdom's Ranger Corps
-: The royal rangers occasionally stable their horses with Chorvàn and respect his knowledge of equine fitness and trail-readiness.
+: The royal rangers occasionally stable their horses with Chorvan and respect his knowledge of equine fitness and trail-readiness.
 
-Noble Houses of Provènzia
-: Several regional nobles have favorite horses stabled permanently at the inn specifically to be under Chorvàn's care.
+Noble Houses of Provenzia
+: Several regional nobles have favorite horses stabled permanently at the inn specifically to be under Chorvan's care.
 
 ### Enemies
 
 The Slave Traders of the Shadowmarch
-: Criminal organizations that occasionally pass through the crossroads. Chorvàn refuses them service, and they view him as an obstacle to their operations.
+: Criminal organizations that occasionally pass through the crossroads. Chorvan refuses them service, and they view him as an obstacle to their operations.
 
 The Road Bandits of [[place-thornwood|Thornwood]]
-: A band of brigands led by the cruel **Captain Kalzòthe** who have attempted to steal valuable horses from the inn. Chorvàn has helped facilitate the recovery of stolen animals.
+: A band of brigands led by the cruel **Captain Kalzote** who have attempted to steal valuable horses from the inn. Chorvan has helped facilitate the recovery of stolen animals.
 
 Rival Ostlers
-: A few ostlers from competing stables view Chorvàn's reputation as a threat to their business and have occasionally attempted to poach his clients or sabotage his reputation.
+: A few ostlers from competing stables view Chorvan's reputation as a threat to their business and have occasionally attempted to poach his clients or sabotage his reputation.
 
 ### Affiliations
 
@@ -501,12 +501,12 @@ Informal Network of Beast-Keepers
 
 ## Plot Hooks
 
-1. **The Cursed Mare**: A noble's prized brood mare arrives at the inn bearing visible signs of a magical curse—her mane turns white overnight, her temperament becomes unpredictable, and she rejects all food and care. The nobleman, **Duke Therin of House Valorian**, desperate to break the curse before his breeding program collapses, turns to Chorvàn for help. Though the ostler has never dealt with magical afflictions, his deep connection to animals may be key to understanding what ails her. The investigation leads Chorvàn into contact with **Morrigan the Hedge Witch**, who reveals that a jealous rival bred another mare with stolen magical components specifically to curse this one.
+1. **The Cursed Mare**: A noble's prized brood mare arrives at the inn bearing visible signs of a magical curse—her mane turns white overnight, her temperament becomes unpredictable, and she rejects all food and care. The nobleman, **Duke Therin of House Valorian**, desperate to break the curse before his breeding program collapses, turns to Chorvan for help. Though the ostler has never dealt with magical afflictions, his deep connection to animals may be key to understanding what ails her. The investigation leads Chorvan into contact with **Morrigan the Hedge Witch**, who reveals that a jealous rival bred another mare with stolen magical components specifically to curse this one.
 
-2. **The Refugee's Escape**: A desperate family fleeing persecution arrives at the inn, their children riding exhausted horses and carrying nothing but the clothes on their backs. They ask Chorvàn to hide them and provide fresh animals for the night before they continue to the border. Helping them could bring dangerous enemies to the inn and threaten his position, but refusing to help violates everything he believes in.
+2. **The Refugee's Escape**: A desperate family fleeing persecution arrives at the inn, their children riding exhausted horses and carrying nothing but the clothes on their backs. They ask Chorvan to hide them and provide fresh animals for the night before they continue to the border. Helping them could bring dangerous enemies to the inn and threaten his position, but refusing to help violates everything he believes in.
 
-3. **The Champion's Return**: An old traveler arrives at the inn riding a horse of extraordinary breeding and apparent extreme age—well beyond the normal lifespan of a horse. The traveler, a mysterious warrior named **Ser Kotsúde**, claims the horse is far older than it should be due to magical preservation, and he needs Chorvàn to understand its needs. As Chorvàn works with the unusual animal, he becomes entangled in Ser Kotsúde's quest to recover a stolen artifact, learning that the knight believes the artifact contains knowledge that could change the balance of power in several kingdoms.
+3. **The Champion's Return**: An old traveler arrives at the inn riding a horse of extraordinary breeding and apparent extreme age—well beyond the normal lifespan of a horse. The traveler, a mysterious warrior named **Ser Kotsude**, claims the horse is far older than it should be due to magical preservation, and he needs Chorvan to understand its needs. As Chorvan works with the unusual animal, he becomes entangled in Ser Kotsude's quest to recover a stolen artifact, learning that the knight believes the artifact contains knowledge that could change the balance of power in several kingdoms.
 
-4. **The Great Breeding**: A prestigious alliance of noble houses commissions Chorvàn to assist in organizing a grand breeding program that would create a new strain of superior warhorses. This project would be his life's work, requiring him to journey to distant stables, negotiate with other masters, and establish himself as a leading figure in the art of horsemanship. However, he learns that the breeding program is secretly intended to create creatures capable of carrying armored warriors into morally questionable wars of conquest.
+4. **The Great Breeding**: A prestigious alliance of noble houses commissions Chorvan to assist in organizing a grand breeding program that would create a new strain of superior warhorses. This project would be his life's work, requiring him to journey to distant stables, negotiate with other masters, and establish himself as a leading figure in the art of horsemanship. However, he learns that the breeding program is secretly intended to create creatures capable of carrying armored warriors into morally questionable wars of conquest.
 
-5. **The Plague at the Crossroads**: A mysterious illness begins to spread among the horses at the inn and throughout the region, killing some and leaving others weakened and sterile. Chorvàn races against time to identify the cause—whether it's natural disease, poisoning, or magical curse—while attempting to save the animals in his care. His investigation reveals that the plague was deliberately introduced by enemies of the Kingdom of Provènzia as part of a coordinated military campaign to weaken the realm's ability to field cavalry forces.
+5. **The Plague at the Crossroads**: A mysterious illness begins to spread among the horses at the inn and throughout the region, killing some and leaving others weakened and sterile. Chorvan races against time to identify the cause—whether it's natural disease, poisoning, or magical curse—while attempting to save the animals in his care. His investigation reveals that the plague was deliberately introduced by enemies of the Kingdom of Provenzia as part of a coordinated military campaign to weaken the realm's ability to field cavalry forces.

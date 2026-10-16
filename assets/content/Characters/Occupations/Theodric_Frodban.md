@@ -1,6 +1,6 @@
 ---
 shortcode: thdrcfrdbn
-name: {full: Theódric yra Fródbán wur Dunkelwald, aliases: []}
+name: {full: Theodbán yra Frodbán wur Dunkelwald, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Theódric yra Fródbán wur Dunkelwald is a 32-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a high forehead, and a heavy jaw that leads to a broad chin. His wide-set gray eyes sit beneath prominent brows, lending him an open gaze. A straight nose and curved lips complete his features. He has fair skin with a rough complexion. His blonde hair is braided at the temples.
+Theodbán yra Frodbán wur Dunkelwald is a 32-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a high forehead, and a heavy jaw that leads to a broad chin. His wide-set gray eyes sit beneath prominent brows, lending him an open gaze. A straight nose and curved lips complete his features. He has fair skin with a rough complexion. His blonde hair is braided at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theódric came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Theodbán came into the world of the miner through a combination of circumstance and aptitude.
 
-Theódric has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to handle the treacherous tunnels. Theódric is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
+Theodbán has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to handle the treacherous tunnels. Theodbán is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Can be overly cautious, struggles with technical mining kit.
 
 ### Motivation
 
-Theódric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
+Theodbán is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -416,7 +416,7 @@ Physically strong, experienced in mining techniques, good team player.
 
 ## Social
 
-Theódric works shallow seams near Dunkelwald with kin and hired hands. He negotiates access with the households that use the ground, without a union or mining company above them.
+Theodbán works shallow seams near Dunkelwald with kin and hired hands. He negotiates access with the households that use the ground, without a union or mining company above them.
 
 ## Companions
 
@@ -430,12 +430,12 @@ Few; generally well-respected among peers.
 
 ## Plot Hooks
 
-1. **The Miner's Dilemma**—Theódric faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Miner's Dilemma**—Theodbán faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 2. **Old Grudges**—Few; generally well-respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Theódric's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Theodbán's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Theódric depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Theodbán depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Theódric the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Theodbán the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

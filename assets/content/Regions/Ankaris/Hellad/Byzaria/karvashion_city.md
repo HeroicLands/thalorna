@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 40000, govern
 
 ## Overview
 
-After the dry eastern hills, **Karvashion** is green. The city lies in a lush river valley, an oasis amid the drier country around it, and it takes its name, the caravan-place, from its caravanserais: fortified inn-complexes that house hundreds of merchants, their servants and their pack animals, the largest of them small cities in their own right. This is the Green Caravanserai of the [[affiliation-byzarianlg|Byzarian League]], a city of about 40,000, and it sits where the caravan roads divide, one road east toward the [[place-khzryndsrtrgn|Khazryn Desert]] and one south toward [[place-dunharargn|Dunhara]].
+After the dry eastern hills, **Karvashion** is green. The city lies in a lush river valley, an oasis amid the drier country around it, and it takes its name, the caravan-place, from its caravanserais: fortified inn-complexes that house hundreds of merchants, their servants and their pack animals, the largest of them small cities in their own right. This is the Green Caravanserai of the [[affiliation-byzarianlg|Bizarian League]], a city of about 40,000, and it sits where the caravan roads divide, one road east toward the [[place-khzryndsrtrgn|Khazryn Desert]] and one south toward [[place-dunharargn|Dunhara]].
 
 ## The Bazaars
 
@@ -22,11 +22,11 @@ A council of caravansary masters and merchant-princes governs Karvashion. The ca
 
 ## Character
 
-Karvashion has a stronger eastern character than the other League cities. [[affiliation-ashanpnthn|Āsháian]] worship has a significant following, particularly among the Dunhari and Khazryni merchants who keep permanent trading quarters here with their own tongues, faiths and law. The city has a reputation for gardeners, merchants and peaceful culture.
+Karvashion has a stronger eastern character than the other League cities. [[affiliation-ashanpnthn|Ashaian]] worship has a significant following, particularly among the Dunhari and Khazryni merchants who keep permanent trading quarters here with their own tongues, faiths and law. The city has a reputation for gardeners, merchants and peaceful culture.
 
 ## See Also
 
 - [[affiliation-karvashion|Karvashion]]—the city-state and its caravansary masters
-- [[place-byzariargn|Byzaría Region]]—the League's country
+- [[place-byzariargn|Bizaria Region]]—the League's country
 - [[place-southrnmrch|Southern March]]—the dry upland south and east
-- [[affiliation-byzarianlg|Byzarian League]]—the confederation
+- [[affiliation-byzarianlg|Bizarian League]]—the confederation

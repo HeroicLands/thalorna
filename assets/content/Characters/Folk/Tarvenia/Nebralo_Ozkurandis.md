@@ -1,9 +1,9 @@
 ---
 shortcode: nebraloozkuu
-name: {full: Nebrálo Ozkurándis, aliases: [Sir Nebrálo Ozkurándis, Sir Nebrálo]}
+name: {full: Nebralo Ozkuris, aliases: [Sir Nebralo Ozkuris, Sir Nebralo]}
 type: being
 subType: npc
-description: An Árdavonian knight of the Order of the Righteous Path, sworn to protect the weak and uphold justice, who is an enemy of Drazha Vezhnûr.
+description: An Árdavonian knight of the Order of the Righteous Path, sworn to protect the weak and uphold justice, who is an enemy of Drazha Vezhnur.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Nebrálo Ozkurándis is a 33-year-old man who stands 5'11" tall with a light build. He has olive skin, weathered complexion, black hair, and green eyes.
+Nebralo Ozkuris is a 33-year-old man who stands 5'11" tall with a light build. He has olive skin, weathered complexion, black hair, and green eyes.
 
 # Dossier {#dossier}
 
-Nebrálo Ozkurándis is an Árdavonian knight of the Order of the Righteous Path, sworn to protect the weak and uphold justice. His enmity with [[being-drzhvzhnr|Drazha Vezhnûr]] began when Drazha's forces massacred an Árdavonian outpost, and he has sworn to bring him to justice.
+Nebralo Ozkuris is an Árdavonian knight of the Order of the Righteous Path, sworn to protect the weak and uphold justice. His enmity with [[being-drzhvzhnr|Drazha Vezhnur]] began when Drazha's forces massacred an Árdavonian outpost, and he has sworn to bring him to justice.

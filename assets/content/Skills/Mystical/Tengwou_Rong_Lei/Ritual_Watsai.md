@@ -1,8 +1,8 @@
 ---
 shortcode: watsai
 name:
-  full: "Ritual: Watsài"
-  aliases: [Watsài, The Forger of False Records, The Counterfeit Scribe]
+  full: "Ritual: Watsai"
+  aliases: [Watsai, The Forger of False Records, The Counterfeit Scribe]
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]
@@ -17,4 +17,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-watsai|Watsài]]
+See [[affiliation-watsai|Watsai]]

@@ -1,9 +1,9 @@
 ---
 shortcode: satyadarshav
-name: {full: Satyādarsha Valaka, aliases: [Kulina Satyādarsha]}
+name: {full: Satyadarsha Valaka, aliases: [Kulena Satyadarsha]}
 type: being
 subType: npc
-description: The husband of Pritārika Padmadīksha, of a neighboring holding, killed in a hunting accident at fifty-five.
+description: The husband of Pritarika Padmadiksha, of a neighboring holding, killed in a hunting accident at fifty-five.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Satyādarsha Valaka was a 55-year-old man who stood 5'10" tall with a heavy build. He had brown skin, smooth complexion, black hair, and amber eyes.
+Satyadarsha Valaka was a 55-year-old man who stood 5'10" tall with a heavy build. He had brown skin, smooth complexion, black hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Kulina Satyādarsha of a neighboring holding made an advantageous arranged marriage with [[being-prtrkpdmdksh|Pritārika Padmadīksha]] when she was twenty-three, uniting two significant landholdings. He respected her intellect, called her Priti when they were alone, and supported her expanding influence; he was killed in a hunting accident at age fifty-five, an incident she suspects was not accidental.
+Kulena Satyadarsha of a neighboring holding made an advantageous arranged marriage with [[being-prtrkpdmdksh|Pritarika Padmadiksha]] when she was twenty-three, uniting two significant landholdings. He respected her intellect, called her Priti when they were alone, and supported her expanding influence; he was killed in a hunting accident at age fifty-five, an incident she suspects was not accidental.

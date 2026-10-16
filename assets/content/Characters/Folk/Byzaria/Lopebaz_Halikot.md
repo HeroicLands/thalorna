@@ -1,9 +1,9 @@
 ---
 shortcode: lopebazhalik
-name: {full: Lopebáz Halíkot, aliases: [Baron Lopebáz Halíkot]}
+name: {full: Lopebáz Halikot, aliases: [Baron Lopebáz Halikot]}
 type: being
 subType: npc
-description: The ruthless owner of several of the largest mining operations in the Byzarian League, named in Agápeia Varzánês.
+description: The ruthless owner of several of the largest mining operations in the Bizarian League, named in Agápeia Varzanes.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Lopebáz Halíkot is a 60-year-old man who stands 5'9" tall with a medium build. He has light skin, weathered complexion, brown hair, and brown eyes.
+Lopebáz Halikot is a 60-year-old man who stands 5'9" tall with a medium build. He has light skin, weathered complexion, brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Lopebáz Halíkot is the ruthless owner of several of the largest mining operations in the Byzarian League. [[being-agapevrzns|Agápeia Varzánês]] names him as the baron whose operations control the territory of a possible mineral deposit.
+Lopebáz Halikot is the ruthless owner of several of the largest mining operations in the Bizarian League. [[being-agapevrzns|Agápeia Varzanes]] names him as the baron whose operations control the territory of a possible mineral deposit.

@@ -246,7 +246,7 @@ The pony stands in the lane in front of the farm gate with its feet planted, thi
 
 # Dossier {#dossier}
 
-The Pony is the small, strong horse of the hill farms, under fourteen hands and five hundred to eight hundred pounds, built for endurance and labor. It works the upland farms of [[place-aureldirgn|Aurèldía]], the steadings of the [[place-nrdlndsrgn|Nordlands]] and the clearings of [[place-vrystwald|Vrystwald]] as a draft animal, farm worker and mount for small riders. It carries a weight that is large for its size.
+The Pony is the small, strong horse of the hill farms, under fourteen hands and five hundred to eight hundred pounds, built for endurance and labor. It works the upland farms of [[place-aureldirgn|Aureldia]], the steadings of the [[place-nrdlndsrgn|Nordlands]] and the clearings of [[place-vrystwald|Vristwald]] as a draft animal, farm worker and mount for small riders. It carries a weight that is large for its size.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A concentrated, muscular animal with a thick neck, a broad chest and powerful le
 
 ## In the Land
 
-Ponies work on the hill farms of [[place-aureldirgn|Aurèldía]], the upland steadings of the [[place-nrdlndsrgn|Nordlands]], the forest clearings of [[place-vrystwald|Vrystwald]] and wherever a farm lies too steep or too poor for a larger horse. A pony lives in the yard, grazes the rough pasture, and is fed through the winter on hay and oats. Hill ponies run out on the common pasture and are gathered in autumn.
+Ponies work on the hill farms of [[place-aureldirgn|Aureldia]], the upland steadings of the [[place-nrdlndsrgn|Nordlands]], the forest clearings of [[place-vrystwald|Vristwald]] and wherever a farm lies too steep or too poor for a larger horse. A pony lives in the yard, grazes the rough pasture, and is fed through the winter on hay and oats. Hill ponies run out on the common pasture and are gathered in autumn.
 
 ## Key Behaviors
 

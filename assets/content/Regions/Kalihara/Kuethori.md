@@ -21,7 +21,7 @@ Kuethori is the village at the head of [[place-klhrkthrgap|the Kuethori Gap]], w
 
 ## The Holding
 
-The Kuethori hold the gorge from the outlet to the foot of the Ring, with the ledge road along its wall. At the head of the gap a work of the [[lore-theithari|Ithári]] lies across the riverbed, a long low swell of gray stone over which the water slides smooth, and the Kuethori tend it jointly with the custodians of [[place-mirthaan|Mirthaan]]. The work holds the lake to its level, and the Kuethori have held the work since the lineage's memory begins. Below the gorge the river reaches the sea through mangrove and marsh, at a mouth where no port stands and none has stood, and the lineage does not go down it.
+The Kuethori hold the gorge from the outlet to the foot of the Ring, with the ledge road along its wall. At the head of the gap a work of the [[lore-theithari|Ithari]] lies across the riverbed, a long low swell of gray stone over which the water slides smooth, and the Kuethori tend it jointly with the custodians of [[place-mirthaan|Mirthaan]]. The work holds the lake to its level, and the Kuethori have held the work since the lineage's memory begins. Below the gorge the river reaches the sea through mangrove and marsh, at a mouth where no port stands and none has stood, and the lineage does not go down it.
 
 ## The Failing
 

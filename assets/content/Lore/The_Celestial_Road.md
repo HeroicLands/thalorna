@@ -1,24 +1,24 @@
 ---
 shortcode: celestialroad
-name: {full: The Celestial Road, aliases: [Celestial Roads, The Caravan Road to Tāntsou]}
+name: {full: The Celestial Road, aliases: [Celestial Roads, The Caravan Road to Tantsou]}
 type: lore
 subType: economy
-description: "The camel road across the Khazryn from Byzaría to Tāntsou—about 2,500 miles and more than four months, sold a stretch at a time by the independent tribes whose wells it runs between."
+description: "The camel road across the Khazryn from Bizaria to Tantsou—about 2,500 miles and more than four months, sold a stretch at a time by the independent tribes whose wells it runs between."
 tags: [reference, trade, economy]
 data: {packFolder: settinglore}
 ---
 
-A caravan-master explains the road to a young factor on his first crossing, and he begins with the arithmetic. Silk costs a hundred weights of silver at the Tāntsou customs-house and sells for four or five hundred at [[affiliation-karvashion|Karvashion]]. The difference pays the tribes, the camels, the riders and the dead, and on a good crossing a little remains.
+A caravan-master explains the road to a young factor on his first crossing, and he begins with the arithmetic. Silk costs a hundred weights of silver at the Tantsou customs-house and sells for four or five hundred at [[affiliation-karvashion|Karvashion]]. The difference pays the tribes, the camels, the riders and the dead, and on a good crossing a little remains.
 
 This note sets out the road: its route and length, the wells and the hand-offs, the beasts, the goods, what each stretch costs, who guarantees what, and why merchants pay all of it instead of going by sea.
 
 ## The Route
 
-The road runs about 2,500 miles from the last fortified caravanserai of Byzaría's [[place-eastrnmrch|Eastern March]] to the garrison and customs-house on [[place-tantsouregin|Tāntsou]]'s western pass. It bends from well to well, so it is a tenth longer than the straight line. East-bound it crosses three of the [[place-khzryndsrtrgn|Khazryn]]'s zones.
+The road runs about 2,500 miles from the last fortified caravanserai of Bizaria's [[place-eastrnmrch|Eastern March]] to the garrison and customs-house on [[place-tantsouregin|Tantsou]]'s western pass. It bends from well to well, so it is a tenth longer than the straight line. East-bound it crosses three of the [[place-khzryndsrtrgn|Khazryn]]'s zones.
 
 | Stretch                      | Miles          | Days      | The ground                                                              |
 | ---------------------------- | -------------- | --------- | ----------------------------------------------------------------------- |
-| [[place-wlqtrrgn\|Völketör]] | 0 to 550       | 0 to 30   | grass and scrub; a spring every day or two; the easy stretch            |
+| [[place-wlqtrrgn\|Volketor]] | 0 to 550       | 0 to 30   | grass and scrub; a spring every day or two; the easy stretch            |
 | [[place-hskrrgn\|Khoshiqor]] | 550 to 1,700   | 30 to 96  | the Long Dry, then sand seas and gravel; wells three to five days apart |
 | [[place-idwkrrgn\|Idvaqor]]  | 1,700 to 2,500 | 96 to 130 | stone desert and cold high steppe; stages of four to seven days         |
 
@@ -32,23 +32,23 @@ East-bound; the road west reverses them.
 | -------------- | -------- | --------------------------------------------------- | --------------------------------------------------------------------- |
 | 0              | 0        | the last caravanserai of the March                  | the League's claim ends                                               |
 | 120            | 7        | the first toll-camp                                 | the first price; the first tribe's rider joins                        |
-| 120 to 550     | 7 to 30  | the springs of Völketör                             | a day or two apart; raiders test unescorted strings                   |
-| 550            | 30       | [[place-yemokwell\|Yemök]]                          | the first hand-off well                                               |
+| 120 to 550     | 7 to 30  | the springs of Volketor                             | a day or two apart; raiders test unescorted strings                   |
+| 550            | 30       | [[place-yemokwell\|Yemok]]                          | the first hand-off well                                               |
 | 600 to 710     | 32 to 38 | the Long Dry                                        | five waterless days; the horses drink from skins                      |
 | 800            | 44       | the towers of [[place-jilaq\|Jilaq]] on the horizon | the road bends three days south round a thin blood-field              |
 | 1,150          | 66       | [[place-qisomrktcmp\|Qiiso]]                        | the central market-camp; most goods change hands; the costliest water |
 | 1,150 to 1,700 | 66 to 96 | the Central Sands                                   | wells three to five days apart                                        |
 | 1,700          | 96       | [[place-sowidwell\|Sovid]]                          | the second hand-off well                                              |
-| 2,150          | 115      | the first Tāntsou patrols                           | an escort of the Empire's riders for the last stretch                 |
-| 2,500          | 130      | the western pass of Tāntsou                         | the garrison and customs-house; the Empire's claim begins             |
+| 2,150          | 115      | the first Tantsou patrols                           | an escort of the Empire's riders for the last stretch                 |
+| 2,500          | 130      | the western pass of Tantsou                         | the garrison and customs-house; the Empire's claim begins             |
 
-**Branches.** A northern branch comes down from Velanthia's eastern reach and joins the road before Qiiso, carrying furs and amber. A southern spur leaves Qiiso, crosses [[place-dkrqrrgn|Diqraqor]] in about twenty days and reaches the Tellumel. From there roads run west to Amradad and south to the pass-towns of [[place-meghadvara|Meghadvāra]] and [[place-suryadvara|Sūryadvāra]].
+**Branches.** A northern branch comes down from Velanthia's eastern reach and joins the road before Qiiso, carrying furs and amber. A southern spur leaves Qiiso, crosses [[place-dkrqrrgn|Diqraqor]] in about twenty days and reaches the Tellumel. From there roads run west to Amradad and south to the pass-towns of [[place-meghadvara|Meghadvara]] and [[place-suryadvara|Suryadvara]].
 
 ## Beasts
 
 The two-humped camel carries the road. It takes cold and heat, goes five to seven days between wells with a full load, and eats what grows. The one-humped camel works the Tellumel and the Dunhari side. Horses carry the riders and escort, and are driven east as goods, since a horse walks itself to market. Mules and yaks work only the Grazian passes.
 
-**No wheeled vehicle crosses**, for four reasons that any caravan-master gives. Draught oxen drink every day, and the wells are days apart. The sand seas swallow a wheel, and the gravel and the salt crust break an axle. There is no timber for a repair between the March and Tāntsou. And the wells are dug, roofed and priced for camels. The March's paved road stops at the pass, and so does every cart.
+**No wheeled vehicle crosses**, for four reasons that any caravan-master gives. Draught oxen drink every day, and the wells are days apart. The sand seas swallow a wheel, and the gravel and the salt crust break an axle. There is no timber for a repair between the March and Tantsou. And the wells are dug, roofed and priced for camels. The March's paved road stops at the pass, and so does every cart.
 
 ## Goods
 
@@ -60,10 +60,10 @@ Silver is counted in weights, and these figures give a scale for one camel-load 
 
 | Item                                                         | Weights of silver |
 | ------------------------------------------------------------ | ----------------- |
-| bought at the Tāntsou customs-house                          | 100               |
+| bought at the Tantsou customs-house                          | 100               |
 | passage through the tribes of Idvaqor                        | 10                |
 | passage through the tribes of Khoshiqor, the longest stretch | 17                |
-| passage through the tribes of Völketör                       | 10                |
+| passage through the tribes of Volketor                       | 10                |
 | riders, water at owned wells, fodder                         | 15                |
 | the March's customs                                          | 5                 |
 | losses spread over the fleet, about one string in eight      | 15                |
@@ -74,7 +74,7 @@ That margin is what makes the goods dear and the tribes rich. It also explains w
 
 ## Passage, Tribe by Tribe
 
-No one sells the road whole. Each tribe sells its own stretch, a few days to a week or more of wells, and the master buys from every one: about thirty-five tribes between the March and Tāntsou. A tribe's price covers three things.
+No one sells the road whole. Each tribe sells its own stretch, a few days to a week or more of wells, and the master buys from every one: about thirty-five tribes between the March and Tantsou. A tribe's price covers three things.
 
 - **Water.** The right to draw at the tribe's named wells and nowhere else.
 - **A rider.** A sovid of the tribe who joins the caravan, speaks for it to every herdsman he meets, and answers for it with his own life.
@@ -103,19 +103,19 @@ The road runs in spring and autumn. Summer kills beasts in the central sands, an
 
 ## Why Overland
 
-A merchant in Tāntsou can send his silk by sea, and few do. Every leg of the sea route is worse than the one before it.
+A merchant in Tantsou can send his silk by sea, and few do. Every leg of the sea route is worse than the one before it.
 
-1. **Pirates.** Strongholds on the islands between Tāntsou and Vedyara harass the shipping of southern Tāntsou, and make the first leg perilous.
+1. **Pirates.** Strongholds on the islands between Tantsou and Vedyara harass the shipping of southern Tantsou, and make the first leg perilous.
 2. **Vedyara.** Rounding the subcontinent is hard, and its passes are no road west: each of the six carries three or four caravans a year, and the guides keep half the value.
-3. **The way on by land.** The shortest road from Vedyara's western end to Amradad crosses Dunhara, desert and tribal land, or goes through Aû'Khelâthu, where the [[lore-garauu|Gar-Aû]] takes a heavy cut on all goods bound for the [[place-vylarianse|Vylarian Sea]].
-4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tāntsou to [[place-midhalnrgn|Mídhalión]] must sail round the whole of [[place-xerathia|Xerathia]], the longest voyage in the world.
+3. **The way on by land.** The shortest road from Vedyara's western end to Amradad crosses Dunhara, desert and tribal land, or goes through Au'Khelathu, where the [[lore-garauu|Gar-Au]] takes a heavy cut on all goods bound for the [[place-vylarianse|Vylarian Sea]].
+4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tantsou to [[place-midhalnrgn|Mídhalión]] must sail round the whole of [[place-xerathia|Zerathia]], the longest voyage in the world.
 
 The sea passage costs as many months as the camels and loses a larger share of what it carries. The Khazryn road is shorter, its losses are known, and every toll on it can be reckoned before the caravan leaves the March.
 
 ## Trouble on the Road
 
 - A tribe has closed its wells to every caravan because its dovaq was killed by a rider of a neighboring tribe, and the rider's tribe has sworn that its range was never at fault.
-- A great leader is gathering tribes along the road into an orqunoq, and his first act has been to double every price.
+- A great leader is gathering tribes along the road into an orkunoq, and his first act has been to double every price.
 - A caravan master has died on the march and the heir cannot read his father's list.
 - A string has come out of the Long Dry with half its camels dead and its water gone, and a guide of the hidden-water bands at the edge of the sand is offering to sell it more than water.
 
@@ -124,9 +124,9 @@ The sea passage costs as many months as the camels and loses a larger share of w
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the land the road crosses
 - [[lore-ownedoasis|The Owned Oasis]]—a tribe's small spring, and the stranger who camps at one
 - [[place-qisomrktcmp|Qiiso]]—the market-camp at the road's heart
-- [[place-yemokwell|Yemök]]—the western hand-off well
+- [[place-yemokwell|Yemok]]—the western hand-off well
 - [[place-sowidwell|Sovid]]—the eastern hand-off well
 - [[place-eastrnmrch|The Eastern March]]—the League's frontier at the road's western end
-- [[place-tantsouregin|Tāntsou Region]]—the road's eastern terminus
+- [[place-tantsouregin|Tantsou Region]]—the road's eastern terminus
 - [[lore-kinhalcrdt|Kin and Hall Credit]]—how a master pays on his house's name
 - [[lore-roadnights|The Nights of the Road]]—the tales a master tells a factor, halt by halt

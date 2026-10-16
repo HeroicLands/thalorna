@@ -63,18 +63,10 @@ trade dress belonging to a third party.
 
 A generic membership title in the reader's tongue can use a concordance `keep`
 row with its exact `literal`, named affiliation `paths`, integer
-`membershipLevel` and explanation in `why`. Both the lexicon and drift guards
-limit this exception to that affiliation's matching rung title. Other levels,
+`membershipLevel` and explanation in `why`. The drift guard limits this exception to that affiliation's matching rung title. Other levels,
 body types, offices, prose occurrences and paths retain normal validation. The
 exception does not confer a Nordmal name or a social standing beyond membership.
 Run `node --test utils/nordmal-membership-titles.test.mjs` for this contract.
-
-`npm run lint:nordmal-lexicon` checks northern names against the element tables
-in the Nordmal language note. A deliberate name outside those rules has
-`kinds: []` on its row in `utils/nordmal-concordance.json`, with the reason in
-`note`. For a given-name row, the exemption applies only to the character at
-`newPath` whose full name matches `newName`; the clan name remains checked.
-Nordmal aliases and the language note's examples retain their normal spelling.
 
 Concordance source citations accept capitalization variants of a recorded name.
 Accents and specified columns remain exact; a note’s full name must match its
@@ -86,24 +78,7 @@ This applies independently to each half: a name that gains a note keeps its
 prose source in `oldPath` and records the new note's shortcode, path and address
 together. A half that carries a shortcode or address requires all three fields.
 
-A `place/world` name uses the published compound elements: `thurs-` and
-`-guard` form Thursguard, an enclosed world of giants. Both world note names
-and world concordance rows use that class. Earthly settlement names use the
-place generics and their permitted first elements.
-
-Run `node --test utils/lexicons/*.test.mjs` when changing this guard, and
-`npm run lint:nordmal-concordance` when changing the table.
-
-Standing titles shared by several bodies belong in `standingCoinages`, rather than
-`entries`, whose names identify whole notes. Each `rungs` row carries the authored
-affiliation `path`, integer `level`, `oldTitle` and current `title`. The concordance
-guard requires that exact body and rung, a description, and a compound made from
-the language note's elements and sound rules. A body and level have one mapping.
-`deliberatelyUnused` rows carry `title`, `elements` and `reason`; they cannot also
-be placed. `limits` records where a word's sense excludes a body or office.
-
-Run `node --test utils/nordmal-standing-coinages.test.mjs` for the standing
-contract, including rejected stale mappings and contradictory dispositions.
+Run `npm run lint:nordmal-concordance` when changing the table.
 
 ## Rank levels
 
@@ -151,8 +126,6 @@ of` or `Ritual:`, keeps the bare name as an alias because the printed index
   files a note only under the first word of its full name.
 - A former name is not an alias. A note answers to its current name; renames
   are recorded in the concordance and in git, and links resolve by address.
-- A pseudonym that a lexicon registers as `other` is removed together with its
-  register row.
 
 ## Rank-note scope
 

@@ -1,6 +1,6 @@
 ---
 shortcode: haliranrdh
-name: {full: Hálira Náreth, aliases: []}
+name: {full: Hálira Nareth, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -391,11 +391,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Hálira Náreth is a 22-year-old woman who stands 5'9" tall and is slender. She has an oval face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her narrow blue eyes sit beneath expressive brows and give her a keen gaze. She has a narrow nose and narrow lips. She has medium-toned skin with a clear complexion. Her silver hair flows past her shoulders. She has ink-stained fingers.
+Hálira Nareth is a 22-year-old woman who stands 5'9" tall and is slender. She has an oval face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her narrow blue eyes sit beneath expressive brows and give her a keen gaze. She has a narrow nose and narrow lips. She has medium-toned skin with a clear complexion. Her silver hair flows past her shoulders. She has ink-stained fingers.
 
 # Dossier {#dossier}
 
-Hálira Náreth is a scribe of Váldun, the walled market town of the eastern march of [[place-elavendre|Élavendre]], an Élavendri freewoman who writes for the drovers and the pack-trains and draws in the margins of everything she writes.
+Hálira Nareth is a scribe of Valdun, the walled market town of the eastern march of [[place-elavendre|Élavendre]], an Élavendri freewoman who writes for the drovers and the pack-trains and draws in the margins of everything she writes.
 
 Hálira learned her letters from a chapterhouse scholar who wintered in the town, and she has kept herself since with a pen: drove contracts for the families bringing cattle down out of the hills, tallies for the stock fairs, escort bonds for the pack-masters crossing the march. She writes a clean, quick hand, and she cannot leave a page plain. A drove contract from her comes back with a border of bramble and a cow in the capital, and the drovers have grown fond of it, though the town's old muster-clerk has not. She practices at night on scraps, copying the one illuminated book she has seen, which a Péravel factor showed her at a fair. Péravel has a whole quarter that makes such books. She has never been there.
 
@@ -407,7 +407,7 @@ Hálira is quick, curious and easily drawn off a page of tallies by anything mor
 
 ### Motivation
 
-Hálira wants to make books like the one she saw, with the pictures her own, and she wants to be in Péravel, where books are made. Váldun pays her and keeps her.
+Hálira wants to make books like the one she saw, with the pictures her own, and she wants to be in Péravel, where books are made. Valdun pays her and keeps her.
 
 ### Strengths
 
@@ -429,10 +429,10 @@ The town's muster-clerk, an old man who keeps the levy's roll and holds that a b
 
 ## Plot Hooks
 
-1. **The Contract**—A dispute over a drove has come to Váldun's court, and the court is reading a contract Hálira illuminated. One side says the bramble border crosses out a clause. She drew it, and it does not.
+1. **The Contract**—A dispute over a drove has come to Valdun's court, and the court is reading a contract Hálira illuminated. One side says the bramble border crosses out a clause. She drew it, and it does not.
 
 2. **The Factor**—The Péravel factor who showed her the book is at the autumn fair again, and has offered to take her back as an apprentice colorist. The fair ends in three days, and her mother is ill.
 
-3. **The Warning**—Word of a Varokh war-party has come to Váldun at dusk and must go to every steading by dawn, in as many copies as there are riders. Hálira is the fastest pen in the town, and the muster-clerk will not have her.
+3. **The Warning**—Word of a Varokh war-party has come to Valdun at dusk and must go to every steading by dawn, in as many copies as there are riders. Hálira is the fastest pen in the town, and the muster-clerk will not have her.
 
 4. **The Bond**—An escort bond has been presented in Hálira's hand for a pack-train she never wrote for, and the escort it hired has vanished with the train.

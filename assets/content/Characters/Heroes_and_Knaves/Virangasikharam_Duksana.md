@@ -1,6 +1,6 @@
 ---
 shortcode: vrgskhrmdkn
-name: {full: Vīrāngashikharam Dukshana, given: Vīrāngashikharam, clan: Dukshana, aliases: [Vīru]}
+name: {full: Virangashikharam Dukshana, given: Virangashikharam, clan: Dukshana, aliases: [Viru]}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Kulina (Head of a Landholding House)
+  occupation: Kulena (Head of a Landholding House)
   lore: []
   culture: vedyariclt
   homes: [suvarnagiri]
@@ -413,29 +413,29 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vrgskhrmdkn|Vīrāngashikharam Dukshana]]{float=top-left}
+![[vrgskhrmdkn|Virangashikharam Dukshana]]{float=top-left}
 
-Vīrāngashikharam stands 6'0" tall with a medium build. He has deep brown skin, very dark brown hair, and hazel eyes. His features include a round face, a delicate nose, a rounded chin, generous lips, deep brows, full cheeks.
+Virangashikharam stands 6'0" tall with a medium build. He has deep brown skin, very dark brown hair, and hazel eyes. His features include a round face, a delicate nose, a rounded chin, generous lips, deep brows, full cheeks.
 
 # Dossier {#dossier}
 
 **The Burden of Inheritance**
 
-Vīrāngashikharam was born into the House of Dukshana during a period of significant transformation in the City-States of [[affiliation-janpdsvdyr|Vedyara]]. His father, the previous head of the holding, was a traditionalist of the old school—one who maintained the ancestral lands through methods that his father's father had employed, with little consideration for changing circumstances or innovative approaches. The boy showed early aptitude for the practical arts: he could calculate yields in his head, could diagnose crop diseases that stumped older farmers, and possessed an almost unnatural intuition for understanding the rhythms of seasons and soil. Rather than suppressing these tendencies as mere curiosities unsuitable for great houses, his mother—a woman of reforming temper from a distant city-state—encouraged her son's intellectual pursuits, secretly commissioning tutors in agriculture, mathematics, and natural philosophy.
+Virangashikharam was born into the House of Dukshana during a period of significant transformation in the City-States of [[affiliation-janpdsvdyr|Vedyara]]. His father, the previous head of the holding, was a traditionalist of the old school—one who maintained the ancestral lands through methods that his father's father had employed, with little consideration for changing circumstances or innovative approaches. The boy showed early aptitude for the practical arts: he could calculate yields in his head, could diagnose crop diseases that stumped older farmers, and possessed an almost unnatural intuition for understanding the rhythms of seasons and soil. Rather than suppressing these tendencies as mere curiosities unsuitable for great houses, his mother—a woman of reforming temper from a distant city-state—encouraged her son's intellectual pursuits, secretly commissioning tutors in agriculture, mathematics, and natural philosophy.
 
 **The Transformation**
 
-When Vīrāngashikharam inherited the holding at the age of twenty-four, following his father's unexpected death from a wasting illness, he immediately set about implementing the ideas he had spent years formulating in secret. He introduced crop rotation systems based on principles of soil regeneration rather than continuous exploitation. He established fair prices for goods purchased from the farmers under his stewardship, a practice that seemed almost radical in an age where maximizing profit was considered the only sensible pursuit of the great houses. He invested in irrigation systems, grain storage facilities, and even a modest library where farmers and their children could access written knowledge about improved cultivation techniques. The initial resistance from traditional great houses gradually transformed into grudging respect as the Dukshana holding became increasingly prosperous and the lands under his control became among the most productive in Vedyara.
+When Virangashikharam inherited the holding at the age of twenty-four, following his father's unexpected death from a wasting illness, he immediately set about implementing the ideas he had spent years formulating in secret. He introduced crop rotation systems based on principles of soil regeneration rather than continuous exploitation. He established fair prices for goods purchased from the farmers under his stewardship, a practice that seemed almost radical in an age where maximizing profit was considered the only sensible pursuit of the great houses. He invested in irrigation systems, grain storage facilities, and even a modest library where farmers and their children could access written knowledge about improved cultivation techniques. The initial resistance from traditional great houses gradually transformed into grudging respect as the Dukshana holding became increasingly prosperous and the lands under his control became among the most productive in Vedyara.
 
 **The Current Balance**
 
-Now at thirty-three winters, Vīrāngashikharam finds himself in an unusual position: respected by the common folk and the reforming great houses for his new methods, yet viewed with suspicion by traditional powers who sense in his philosophy a challenge to their way of life. He maintains an impossible balance between idealistic conviction and pragmatic governance, constantly aware that his position grants him privilege but also imposes responsibility to those who depend upon his stewardship. He has begun to receive inquiries from other city-states seeking to adopt his methods, placing him in the uncomfortable position of having to choose between expanding his influence and maintaining focus on his own holding. This choice will likely define the next chapter of his life.
+Now at thirty-three winters, Virangashikharam finds himself in an unusual position: respected by the common folk and the reforming great houses for his new methods, yet viewed with suspicion by traditional powers who sense in his philosophy a challenge to their way of life. He maintains an impossible balance between idealistic conviction and pragmatic governance, constantly aware that his position grants him privilege but also imposes responsibility to those who depend upon his stewardship. He has begun to receive inquiries from other city-states seeking to adopt his methods, placing him in the uncomfortable position of having to choose between expanding his influence and maintaining focus on his own holding. This choice will likely define the next chapter of his life.
 
 ## Psyche
 
 ### Personality
 
-Vīrāngashikharam is characterized by quiet intelligence and measured deliberation. Where other great houses might immediately assert authority through declarations and displays of power, he tends to pose questions, gather information, and think through implications before committing to a course of action. This methodical approach sometimes reads as hesitation or weakness to those accustomed to more aggressive leadership styles, but his steadily mounting successes have begun to establish deliberation as a form of strength rather than timidity.
+Virangashikharam is characterized by quiet intelligence and measured deliberation. Where other great houses might immediately assert authority through declarations and displays of power, he tends to pose questions, gather information, and think through implications before committing to a course of action. This methodical approach sometimes reads as hesitation or weakness to those accustomed to more aggressive leadership styles, but his steadily mounting successes have begun to establish deliberation as a form of strength rather than timidity.
 
 He possesses a warmth in his dealings with those he considers equals—which includes farmers, craftspeople, and common merchants alongside great houses—but this warmth is always tempered by formal distance. He does not view himself as above his station, but neither does he deny the reality of hierarchy and obligation. He takes his responsibilities with utmost seriousness, sometimes to the point of self-sacrifice, and expects those under his authority to do the same.
 
@@ -443,18 +443,18 @@ One of his defining characteristics is his tendency toward idealism—a belief i
 
 ### Motivation
 
-Vīrāngashikharam is driven by a fundamental belief that leadership carries with it an inviolable obligation to the welfare of those it governs. He has rejected the assumption, so prevalent among his class, that the great houses exist for the purpose of extracting maximum benefit from their lands and peoples. Instead, he envisions a system in which the productivity of the land and the well-being of its workers rise together, creating abundance that benefits all parties involved. He seeks to prove—through practical demonstration—that enlightened self-interest and compassion for the common welfare are not contradictory goals but mutually reinforcing ones. The driving force behind his actions is the desire to leave his lands and his people more prosperous than he found them, and to demonstrate to the broader world that alternative systems are possible.
+Virangashikharam is driven by a fundamental belief that leadership carries with it an inviolable obligation to the welfare of those it governs. He has rejected the assumption, so prevalent among his class, that the great houses exist for the purpose of extracting maximum benefit from their lands and peoples. Instead, he envisions a system in which the productivity of the land and the well-being of its workers rise together, creating abundance that benefits all parties involved. He seeks to prove—through practical demonstration—that enlightened self-interest and compassion for the common welfare are not contradictory goals but mutually reinforcing ones. The driving force behind his actions is the desire to leave his lands and his people more prosperous than he found them, and to demonstrate to the broader world that alternative systems are possible.
 
 ### Strengths
 
-- **Agricultural Mastery**: Vīrāngashikharam possesses both theoretical knowledge and practical experience in optimizing crop production, soil management, and sustainable land stewardship. His innovations have measurably increased yields across his territories.
+- **Agricultural Mastery**: Virangashikharam possesses both theoretical knowledge and practical experience in optimizing crop production, soil management, and sustainable land stewardship. His innovations have measurably increased yields across his territories.
 - **Clear-Eyed Pragmatism**: Despite his idealistic leanings, he is capable of making difficult decisions when necessity demands, and he does not allow dreams of the perfect to prevent achievement of the good.
 - **Natural Authority**: Those under his stewardship—from lowest laborer to visiting Kulinas—consistently describe him as someone worth following, even when his decisions prove unpopular. This stems from his visible commitment to his stated principles.
 - **Mathematical Intellect**: His mathematical mind allows him to see patterns and predict outcomes in economic and political matters, making him a shrewd administrator and negotiator.
 
 ### Weaknesses
 
-- **Naïveté Regarding Power**: Vīrāngashikharam sometimes underestimates the depth of entrenched interests working against his reforms and does not always appreciate how threatened other great houses feel by his success.
+- **Naïveté Regarding Power**: Virangashikharam sometimes underestimates the depth of entrenched interests working against his reforms and does not always appreciate how threatened other great houses feel by his success.
 - **Difficulty with Political Theater**: He struggles with the performative aspects of life among the great houses—the posturing, the flattery, the careful cultivation of advantages through social maneuvering. His straightforwardness can read as arrogance or awkwardness in court settings.
 - **Idealistic Overreach**: He can be blinded by his own vision of what is possible, sometimes pushing too hard or too fast for changes that might have succeeded with more gradual implementation and better preparation of public opinion.
 - **Vulnerability to Betrayal**: His assumption that others share his desire for mutual prosperity leaves him vulnerable to those who merely feign alignment while pursuing purely selfish goals.
@@ -464,41 +464,41 @@ Vīrāngashikharam is driven by a fundamental belief that leadership carries wit
 ### Patrons
 
 The Vedyara Farmers' Collective
-: A loose association of agricultural workers who view Vīrāngashikharam as their advocate within the great houses, having improved working conditions and payment structures across the entire region.
+: A loose association of agricultural workers who view Virangashikharam as their advocate within the great houses, having improved working conditions and payment structures across the entire region.
 
-Shreshthin Tāvāros
+Shroshtin Tavaros
 : A wealthy trader from a distant city-state who has recognized the potential profit in the improved agricultural products emerging from Dukshana lands and has become a reliable buyer of the finest harvest.
 
 The Council of Reforming City-States
-: An informal coalition of forward-thinking rulers from multiple Vedyaran settlements who see in Vīrāngashikharam a model for enlightened governance and consult him on matters of economic development.
+: An informal coalition of forward-thinking rulers from multiple Vedyaran settlements who see in Virangashikharam a model for enlightened governance and consult him on matters of economic development.
 
 ### Enemies
 
-Kulina Sharvādhara of the Eastern Reaches
-: A powerful and conservative Kulina whose traditional extraction-based methods have become less profitable since surrounding farmers began following Dukshana's example. He views Vīrāngashikharam as a threat to his whole way of life.
+Kulena Sharvadhara of the Eastern Reaches
+: A powerful and conservative Kulena whose traditional extraction-based methods have become less profitable since surrounding farmers began following Dukshana's example. He views Virangashikharam as a threat to his whole way of life.
 
-The Syndicate of Merchant Shrenīs
+The Syndicate of Merchant Shrenis
 : Traditional trading houses whose monopolistic practices depended upon controlling access to goods. Dukshana's fair pricing and direct merchant relationships undercut their profit margins and have made him a target for various schemes to discredit or destabilize him.
 
-Vyādhar the Silent
-: A former steward of the Dukshana house who was dismissed for corrupt practices and now serves unknown masters, working subtly to undermine the holding's prosperity and prove Vīrāngashikharam's methods ultimately unsustainable.
+Vyadhar the Silent
+: A former steward of the Dukshana house who was dismissed for corrupt practices and now serves unknown masters, working subtly to undermine the holding's prosperity and prove Virangashikharam's methods ultimately unsustainable.
 
 ### Affiliations
 
 The Agricultural Society of Vedyara
-: Vīrāngashikharam holds a position of considerable influence within this organization and uses his standing to argue for new methods and fair treatment of workers.
+: Virangashikharam holds a position of considerable influence within this organization and uses his standing to argue for new methods and fair treatment of workers.
 
 The Council of Vedyaran Rulers
 : He maintains formal relationships with the other great houses of the city-states, serving as an advisor on economic matters to those willing to listen.
 
 ## Plot Hooks
 
-1. **The Famine Gambit**: A severe drought strikes the region, threatening catastrophic crop failure not only for the Dukshana holding but for all surrounding territories. While other Kulinas scramble to hoard supplies and raise prices, Vīrāngashikharam's accumulated grain reserves allow him to support both his own people and neighboring settlements. However, a rival Kulina interprets this generosity as weakness and political maneuvering, seeing an opportunity to consolidate power. The adventurers become embroiled in a complex situation where humanitarian action creates dangerous political vulnerabilities, and they must find ways to maintain Vīrāngashikharam's ability to help while protecting him from those who would exploit his compassion.
+1. **The Famine Gambit**: A severe drought strikes the region, threatening catastrophic crop failure not only for the Dukshana holding but for all surrounding territories. While other Kulinas scramble to hoard supplies and raise prices, Virangashikharam's accumulated grain reserves allow him to support both his own people and neighboring settlements. However, a rival Kulena interprets this generosity as weakness and political maneuvering, seeing an opportunity to consolidate power. The adventurers become embroiled in a complex situation where humanitarian action creates dangerous political vulnerabilities, and they must find ways to maintain Virangashikharam's ability to help while protecting him from those who would exploit his compassion.
 
-2. **The Poisoned Advancement**: As word of Dukshana's successful methods spreads, other great houses request that Vīrāngashikharam send advisors or establish similar systems on their lands. He accepts several such requests, attempting to expand his philosophy's reach. However, adventurers discover that one such "implementation" is actually a cover for theft, espionage, or sabotage. They must determine whether this is merely the misdeeds of corrupt individuals or whether someone is systematically using Vīrāngashikharam's good reputation as a cover for larger conspiracies. The resolution requires them to protect Vīrāngashikharam's name while addressing criminal activity.
+2. **The Poisoned Advancement**: As word of Dukshana's successful methods spreads, other great houses request that Virangashikharam send advisors or establish similar systems on their lands. He accepts several such requests, attempting to expand his philosophy's reach. However, adventurers discover that one such "implementation" is actually a cover for theft, espionage, or sabotage. They must determine whether this is merely the misdeeds of corrupt individuals or whether someone is systematically using Virangashikharam's good reputation as a cover for larger conspiracies. The resolution requires them to protect Virangashikharam's name while addressing criminal activity.
 
-3. **The Harvest Corruption**: A seemingly perfect harvest year arrives, with yields significantly exceeding predictions. However, as grain is distributed, consumers begin experiencing subtle illnesses. Investigation reveals that the grain carries a contamination—either accidental or deliberate—that causes slow sickness. Vīrāngashikharam is devastated and concerned for the welfare of those he has served, but others question whether he has become careless or whether this is an act of sabotage. The party must trace the contamination source while Vīrāngashikharam's reputation hangs in the balance.
+3. **The Harvest Corruption**: A seemingly perfect harvest year arrives, with yields significantly exceeding predictions. However, as grain is distributed, consumers begin experiencing subtle illnesses. Investigation reveals that the grain carries a contamination—either accidental or deliberate—that causes slow sickness. Virangashikharam is devastated and concerned for the welfare of those he has served, but others question whether he has become careless or whether this is an act of sabotage. The party must trace the contamination source while Virangashikharam's reputation hangs in the balance.
 
-4. **The Idealist's Dilemma**: Vīrāngashikharam is approached by a group claiming to represent an oppressed people in a distant territory, requesting his help to establish similar agricultural and economic systems in their homeland. However, investigation reveals that the group may not be legitimate representatives and that accepting their request could embroil him in a regional conflict or civil war. Vīrāngashikharam's desire to spread his humanitarian vision must be balanced against the consequences of becoming involved in matters of violence and political upheaval.
+4. **The Idealist's Dilemma**: Virangashikharam is approached by a group claiming to represent an oppressed people in a distant territory, requesting his help to establish similar agricultural and economic systems in their homeland. However, investigation reveals that the group may not be legitimate representatives and that accepting their request could embroil him in a regional conflict or civil war. Virangashikharam's desire to spread his humanitarian vision must be balanced against the consequences of becoming involved in matters of violence and political upheaval.
 
-5. **The Sabotage of Hope**: A series of escalating incidents undermines the success of the Dukshana holding—irrigation systems fail, stored grain spoils, livestock sicken, and key advisors suffer accidents. Each incident is individually explicable as misfortune, but the pattern suggests deliberate sabotage. Vīrāngashikharam struggles to maintain his commitment to fair dealing and peaceful resolution while his entire life's work is systematically destroyed. The party must uncover who is perpetrating the destruction and why, all while helping Vīrāngashikharam decide whether justice requires abandoning his philosophical commitment to non-violence.
+5. **The Sabotage of Hope**: A series of escalating incidents undermines the success of the Dukshana holding—irrigation systems fail, stored grain spoils, livestock sicken, and key advisors suffer accidents. Each incident is individually explicable as misfortune, but the pattern suggests deliberate sabotage. Virangashikharam struggles to maintain his commitment to fair dealing and peaceful resolution while his entire life's work is systematically destroyed. The party must uncover who is perpetrating the destruction and why, all while helping Virangashikharam decide whether justice requires abandoning his philosophical commitment to non-violence.

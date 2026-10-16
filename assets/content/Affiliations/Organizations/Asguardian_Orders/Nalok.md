@@ -1,9 +1,9 @@
 ---
 shortcode: nalok
-name: {full: "Nálok", aliases: []}
+name: {full: "Nalok", aliases: []}
 type: affiliation
 subType: order
-description: "Náhild's hidden cult of the Eye of the Void."
+description: "Nahild's hidden cult of the Eye of the Void."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
-          Cast out of Nálok, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Nalok, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
-          Serves a hidden hof's godi in secret, working to widen the Eye of the Void's reach where it can.
+          Serves a hidden hov's gudi in secret, working to widen the Eye of the Void's reach where it can.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Leads the order's secret work, answering only to a hidden hof's own godi.
+          Leads the order's secret work, answering only to a hidden hov's own gudi.
     offices: {}
   seat: null
   population: null
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"If you ever see the work of Nálok," says a godi who keeps a farm hof in the [[place-norgaad|Norgaad]] passes, "you will not see it done."
+"If you ever see the work of Nalok," says a gudi who keeps a farm hov in the [[place-norgaad|Norgaad]] passes, "you will not see it done."
 
-Nálok, the Order of the Void, serves [[affiliation-nahild|Náhild]]'s hidden cult in secret, working to widen the influence of the [[lore-ginnauga|Eye of the Void]] over whatever ground its members can reach. A member answers only to a hidden hof's own godi. The order's work is never done where an outsider can see it, and what outsiders know of it is what they fear.
+Nalok, the Order of the Void, serves [[affiliation-nahild|Nahild]]'s hidden cult in secret, working to widen the influence of the [[lore-ginnauga|Eye of the Void]] over whatever ground its members can reach. A member answers only to a hidden hov's own gudi. The order's work is never done where an outsider can see it, and what outsiders know of it is what they fear.

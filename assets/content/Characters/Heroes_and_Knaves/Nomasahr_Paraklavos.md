@@ -1,6 +1,6 @@
 ---
 shortcode: nmshrprklvs
-name: {full: Nômasáhr Paraklávos, given: Nômasáhr, clan: Paraklávos, aliases: []}
+name: {full: Nomasáhr Paraklavos, given: Nomasáhr, clan: Paraklavos, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -411,29 +411,29 @@ sohl:
 
 # Appearance {#appearance}
 
-![[nmshrprklvs|Nômasáhr Paraklávos]]{float=top-left}
+![[nmshrprklvs|Nomasáhr Paraklavos]]{float=top-left}
 
-Nômasáhr stands 5'7" tall with a medium build. He has light weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, and prominent cheeks.
+Nomasáhr stands 5'7" tall with a medium build. He has light weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, and prominent cheeks.
 
 # Dossier {#dossier}
 
-Born the son of a successful merchant, Nômasáhr showed early aptitude for rhetoric and logic. His family secured him apprenticeship with **Advocate Kezvûnéna Nomismákit**, the most feared litigant in the Byzarian League's commercial courts. Kezvûnéna was a harsh master but brilliant, training Nômasáhr in the arts of argumentation, negotiation, and the complex web of commercial law that governed the League.
+Born the son of a successful merchant, Nomasáhr showed early aptitude for rhetoric and logic. His family secured him apprenticeship with **Advocate Kezvunena Nomismakit**, the most feared litigant in the Bizarian League's commercial courts. Kezvunena was a harsh master but brilliant, training Nomasáhr in the arts of argumentation, negotiation, and the complex web of commercial law that governed the League.
 
-By his early twenties, Nômasáhr had established himself as a feared advocate, known for his ability to find previously unnoticed clauses in contracts and his uncanny ability to sway juries through precise logic presented with devastating eloquence. Over the next two decades, he built an empire of influence, representing major merchant houses, shipping concerns, and craftsmen's guilds. He accumulated wealth, power, and knowledge of the League's secrets—information that could destroy lesser figures.
+By his early twenties, Nomasáhr had established himself as a feared advocate, known for his ability to find previously unnoticed clauses in contracts and his uncanny ability to sway juries through precise logic presented with devastating eloquence. Over the next two decades, he built an empire of influence, representing major merchant houses, shipping concerns, and craftsmen's guilds. He accumulated wealth, power, and knowledge of the League's secrets—information that could destroy lesser figures.
 
-Five years ago, he was brought before the council accused of using improper methods to win cases. The accusation was carefully orchestrated by a rival advocate and a merchant house he had defeated in court. Rather than face the scandal, Nômasáhr accepted a settlement that required him to step back from directly arguing cases. Now forty-five, he acts primarily as an advisor and mentor to younger litigants, still wielding considerable power behind the scenes, though with somewhat diminished public prominence. The experience left him bitter about the capriciousness of reputation and honor in commercial society.
+Five years ago, he was brought before the council accused of using improper methods to win cases. The accusation was carefully orchestrated by a rival advocate and a merchant house he had defeated in court. Rather than face the scandal, Nomasáhr accepted a settlement that required him to step back from directly arguing cases. Now forty-five, he acts primarily as an advisor and mentor to younger litigants, still wielding considerable power behind the scenes, though with somewhat diminished public prominence. The experience left him bitter about the capriciousness of reputation and honor in commercial society.
 
 ## Psyche
 
 ### Personality
 
-Nômasáhr is charming by trade—intelligent, thoughtful, and capable of making anyone feel valued during conversation. He is an excellent listener, remembering details that others forget, using this information to build trust and a hold over people. He mentors younger advocates with real dedication, believing he is grooming the next generation of legal minds who will surpass him.
+Nomasáhr is charming by trade—intelligent, thoughtful, and capable of making anyone feel valued during conversation. He is an excellent listener, remembering details that others forget, using this information to build trust and a hold over people. He mentors younger advocates with real dedication, believing he is grooming the next generation of legal minds who will surpass him.
 
 The affability covers a deep cynicism. He views the courts as fundamentally corrupt, commerce as inherently predatory, and most people as fundamentally self-interested. He manipulates and maneuvers constantly, finding it almost impossible to trust anyone completely. His relationships with those close to him are cordial but carefully controlled, never truly open. The forced reduction in his public role was a humiliation he has not entirely come to terms with, and it has hardened what was already a somewhat cold personality.
 
 ### Motivation
 
-Nômasáhr is driven by the desire to regain his prominent position within the League through indirect means—to be the invisible architect of victories, the secret strategist behind others' successes. He seeks to prove that his reduction was merely temporary, that he remains the preeminent legal mind in the region. More deeply, he is motivated by the accumulation of power and information; he collects secrets the way other men collect wealth, finding the knowledge itself more satisfying than money.
+Nomasáhr is driven by the desire to regain his prominent position within the League through indirect means—to be the invisible architect of victories, the secret strategist behind others' successes. He seeks to prove that his reduction was merely temporary, that he remains the preeminent legal mind in the region. More deeply, he is motivated by the accumulation of power and information; he collects secrets the way other men collect wealth, finding the knowledge itself more satisfying than money.
 
 ### Strengths
 
@@ -458,36 +458,36 @@ Nômasáhr is driven by the desire to regain his prominent position within the L
 [[affiliation-lingnztglzkr|Lin'Genzet elu Galezkara]]
 : Official organization that still employs him in advisory capacity, though his role is more limited than in his glory days.
 
-Lord Merchant Yevotash Nomismákit
-: A major trader whose commercial interests Nômasáhr has protected through countless suits at law, maintaining a mutually beneficial relationship of considerable depth.
+Lord Merchant Yevotash Nomismakit
+: A major trader whose commercial interests Nomasáhr has protected through countless suits at law, maintaining a mutually beneficial relationship of considerable depth.
 
-The Byzarian Consortium of Shipping Merchants
+The Bizarian Consortium of Shipping Merchants
 : A trade organization that regularly seeks his counsel on the League's trade rules and how to turn them against rivals.
 
 ### Enemies
 
-Advocate Sturash Tûlvâzát
-: Younger, more charismatic rival who has been slowly taking Nômasáhr's clients and position. Sturash orchestrated the scandal that forced Nômasáhr's reduction.
+Advocate Sturash Tulvazát
+: Younger, more charismatic rival who has been slowly taking Nomasáhr's clients and position. Sturash orchestrated the scandal that forced Nomasáhr's reduction.
 
 House Malassian
-: A merchant dynasty Nômasáhr once defeated decisively in court, causing them significant financial harm. They have long memories and resources for vengeance.
+: A merchant dynasty Nomasáhr once defeated decisively in court, causing them significant financial harm. They have long memories and resources for vengeance.
 
 ### Affiliations
 
-Lin'Genzet elu Galezkara of Byzaría
+Lin'Genzet elu Galezkara of Bizaria
 : Official organization governing advocates and pleaders in commercial law.
 
 The Council of Master Advocates
-: Informal organization of senior litigants who meet to discuss precedent and strategy, though Nômasáhr's position within it has weakened.
+: Informal organization of senior litigants who meet to discuss precedent and strategy, though Nomasáhr's position within it has weakened.
 
 ## Plot Hooks
 
-1. **The Incriminating Evidence**: A clerk from Nômasáhr's earlier years arrives with evidence that some of his greatest victories were achieved through technically illegal methods—suppressed witnesses, forged documents, corrupted judges. The clerk is either blackmailing him or has been sent by rivals. Nômasáhr must determine the truth while protecting his legacy and considering whether justice might actually require that he face consequences for past actions.
+1. **The Incriminating Evidence**: A clerk from Nomasáhr's earlier years arrives with evidence that some of his greatest victories were achieved through technically illegal methods—suppressed witnesses, forged documents, corrupted judges. The clerk is either blackmailing him or has been sent by rivals. Nomasáhr must determine the truth while protecting his legacy and considering whether justice might actually require that he face consequences for past actions.
 
-2. **The Impossible Defense**: A client approaches Nômasáhr with a seemingly unwinnable case—they are accused of a crime that carries automatic forfeiture of all property and exile. The evidence against them appears overwhelming, but Nômasáhr realizes the accusation is politically motivated, meant to eliminate a rival of someone powerful. He can take the case knowing that success might make powerful enemies and that the fee will never justify the risk, or turn it away.
+2. **The Impossible Defense**: A client approaches Nomasáhr with a seemingly unwinnable case—they are accused of a crime that carries automatic forfeiture of all property and exile. The evidence against them appears overwhelming, but Nomasáhr realizes the accusation is politically motivated, meant to eliminate a rival of someone powerful. He can take the case knowing that success might make powerful enemies and that the fee will never justify the risk, or turn it away.
 
-3. **The Successor's Rebellion**: A young advocate he mentored approaches him with evidence that his own mentor, Advocate Kezvûnéna, was corrupt and used illegal methods even more egregiously than Nômasáhr himself. The question becomes whether Nômasáhr will help cover up this truth (protecting his own reputation as Kezvûnéna's student) or expose it (potentially undermining the entire foundation of his standing and training).
+3. **The Successor's Rebellion**: A young advocate he mentored approaches him with evidence that his own mentor, Advocate Kezvunena, was corrupt and used illegal methods even more egregiously than Nomasáhr himself. The question becomes whether Nomasáhr will help cover up this truth (protecting his own reputation as Kezvunena's student) or expose it (potentially undermining the entire foundation of his standing and training).
 
-4. **Sturash's Fall**: Evidence emerges that Advocate Sturash, his rival, orchestrated the scandal against Nômasáhr and is currently engaged in even more serious corruptions. Nômasáhr has the means to destroy him through legal action—but doing so would require him to expose evidence that would also implicate him in the original scandal. The choice is between revenge and self-preservation.
+4. **Sturash's Fall**: Evidence emerges that Advocate Sturash, his rival, orchestrated the scandal against Nomasáhr and is currently engaged in even more serious corruptions. Nomasáhr has the means to destroy him through legal action—but doing so would require him to expose evidence that would also implicate him in the original scandal. The choice is between revenge and self-preservation.
 
-5. **The Shadow Counsel**: An anonymous patron offers Nômasáhr extraordinary payment to act as legal advisor to a merchant operation that appears legitimate on the surface but whose true operations clearly venture into criminal activity. The work is intellectually stimulating, the pay is life-changing, and the patron knows enough about his past indiscretions to compel obedience. Nômasáhr can accept and risk becoming entangled with outright crime, or refuse and face exposure of his secrets.
+5. **The Shadow Counsel**: An anonymous patron offers Nomasáhr extraordinary payment to act as legal advisor to a merchant operation that appears legitimate on the surface but whose true operations clearly venture into criminal activity. The work is intellectually stimulating, the pay is life-changing, and the patron knows enough about his past indiscretions to compel obedience. Nomasáhr can accept and risk becoming entangled with outright crime, or refuse and face exposure of his secrets.

@@ -1,22 +1,22 @@
 ---
 shortcode: uppersuvtmpl
-name: {full: The Temple of Upper Suvarnagiri, aliases: []}
+name: {full: The Temple of Upper Suvarnageri, aliases: []}
 type: place
 subType: structure
-description: "The Mahājaya temple at the junction of the two highest streams, the seniormost of the three by its priest's age and the theological authority of the janapada."
+description: "The Mahajaya temple at the junction of the two highest streams, the seniormost of the three by its priest's age and the theological authority of the janapoda."
 tags: [sacred, temple, mountain, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-The **temple of Upper Suvarnagiri** stands at the junction of the two highest streams off [[place-goldmountain|the Gold Mountain]]. It is one of the three great temples of [[affiliation-mahajaya|Mahājaya]] that hold the janapada between them, built within a century of the other two, of the same size, and housing an altar of comparable craftsmanship.
+The **temple of Upper Suvarnageri** stands at the junction of the two highest streams off [[place-goldmountain|the Gold Mountain]]. It is one of the three great temples of [[affiliation-mahajaya|Mahajaya]] that hold the janapoda between them, built within a century of the other two, of the same size, and housing an altar of comparable craftsmanship.
 
-No one of the three controls the janapada and no one priesthood controls the gold. The convening of the sabhā rotates annually among the three senior priests, and by long custom the sabhā cannot meet in one temple in two successive years.
+No one of the three controls the janapoda and no one priesthood controls the gold. The convening of the sabhra rotates annually among the three senior priests, and by long custom the sabhra cannot meet in one temple in two successive years.
 
 ## Its Priest
 
-**Suryamāhā Hiranya-Pāda** holds it. He is in his seventies, the senior of the three by age, and the seniormost theologian of the Suvarnagiri tradition of Mahājaya. His commentaries on the Gold Constitution are the standard ones, and the other two temples cite them when they are arguing with him.
+**Suryamaha Hirenya-Padsa** holds it. He is in his seventies, the senior of the three by age, and the seniormost theologian of the Suvarnageri tradition of Mahajaya. His commentaries on the Gold Constitution are the standard ones, and the other two temples cite them when they are arguing with him.
 
-The house of the upper temple is the school. Priests for all three temples are trained here, which gives the senior priest of Upper Suvarnagiri a hand in the formation of every priest in the janapada and no vote he would not otherwise have.
+The house of the upper temple is the school. Priests for all three temples are trained here, which gives the senior priest of Upper Suvarnageri a hand in the formation of every priest in the janapoda and no vote he would not otherwise have.
 
 ## The Highest Ground
 
@@ -24,6 +24,6 @@ Above the temple there is nothing but the observation posts and the bare slope. 
 
 ## See Also
 
-- [[place-goldmountain|The Gold Mountain]] · [[place-suvarnagiri|Suvarnagiri]]
-- [[place-middlesuvtmpl|The Temple of Middle Suvarnagiri]] · [[place-lowersuvtmpl|The Temple of Lower Suvarnagiri]]
-- [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]
+- [[place-goldmountain|The Gold Mountain]] · [[place-suvarnagiri|Suvarnageri]]
+- [[place-middlesuvtmpl|The Temple of Middle Suvarnageri]] · [[place-lowersuvtmpl|The Temple of Lower Suvarnageri]]
+- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]

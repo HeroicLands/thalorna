@@ -1,6 +1,6 @@
 ---
 shortcode: luyatgarraqu
-name: {full: Luyat Gar'Râqu, aliases: [Captain Luyat]}
+name: {full: Luyat Gar'Raku, aliases: [Captain Luyat]}
 type: being
 subType: npc
 description: The militia commander who employs Qelatha Melu'Khelariu and has developed real respect for her skills.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Luyat Gar'Râqu is a 46-year-old man who stands 5'9" tall with a medium build. He has ebony skin, smooth complexion, black hair, and dark brown eyes.
+Luyat Gar'Raku is a 46-year-old man who stands 5'9" tall with a medium build. He has ebony skin, smooth complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Luyat Gar'Râqu, styled Captain, is the militia commander who employs [[being-qelathmlkhlr|Qelatha Melu'Khelariu]] and has developed real respect for her skills and character. He is unaware of her vigilante activities, tacitly allows her considerable freedom in exchange for her skill and loyalty, and has subtly protected her from official scrutiny on several occasions.
+Luyat Gar'Raku, styled Captain, is the militia commander who employs [[being-qelathmlkhlr|Qelatha Melu'Khelariu]] and has developed real respect for her skills and character. He is unaware of her vigilante activities, tacitly allows her considerable freedom in exchange for her skill and loyalty, and has subtly protected her from official scrutiny on several occasions.

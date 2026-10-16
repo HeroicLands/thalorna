@@ -1,9 +1,9 @@
 ---
 shortcode: kalyanikakal
-name: {full: Kalyānika Kalvira, aliases: [Herald Kalyānika the Modernizer, Herald Kalyānika]}
+name: {full: Kalyanika Kalira, aliases: [Herald Kalyanika the Modernizer, Herald Kalyanika]}
 type: being
 subType: npc
-description: A younger herald of considerable talent who advocates streamlined heraldic processes, named in Madhurava Sūtrapāla.
+description: A younger herald of considerable talent who advocates streamlined heraldic processes, named in Madurava Sutrapala.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kalyānika Kalvira is a 31-year-old woman who stands 5'3" tall with a medium build. She has tawny skin, smooth complexion, black hair, and dark brown eyes.
+Kalyanika Kalira is a 31-year-old woman who stands 5'3" tall with a medium build. She has tawny skin, smooth complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Kalyānika Kalvira, called the Modernizer, is a younger herald of considerable talent. She advocates streamlined heraldic processes and argues that many of the sacred traditions of [[being-madhurvrdr|Madhurava Sūtrapāla]] are merely outdated bureaucratic theater, directly challenging his authority.
+Kalyanika Kalira, called the Modernizer, is a younger herald of considerable talent. She advocates streamlined heraldic processes and argues that many of the sacred traditions of [[being-madhurvrdr|Madurava Sutrapala]] are merely outdated bureaucratic theater, directly challenging his authority.

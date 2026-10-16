@@ -1,8 +1,8 @@
 ---
 shortcode: thalurossolt
 name:
-  full: Thalûrôs Sôltêrâtês
-  aliases: [Master Scriptorium Director Thalûrôs Sôltêrâtês, Master Thalûrôs]
+  full: Thaluros Solterates
+  aliases: [Master Scriptorium Director Thaluros Solterates, Master Thaluros]
 type: being
 subType: npc
 description: Master Scriptorium Director, head of the Imperial Scribal Academy and arguably the most respected calligrapher in the Empire.
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Thalûrôs Sôltêrâtês is a 64-year-old man who stands 5'9" tall with a medium build. He has medium skin, weathered complexion, auburn hair, and hazel eyes.
+Thaluros Solterates is a 64-year-old man who stands 5'9" tall with a medium build. He has medium skin, weathered complexion, auburn hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Thalûrôs Sôltêrâtês is the Master Scriptorium Director, head of the Imperial Scribal Academy and arguably the most respected calligrapher in the Empire. He is known for exacting standards and notorious harshness. [[being-ailemkrmys|Ailêmâ Kêrâmyês]] was apprenticed to him at fourteen and studied under him for six years.
+Thaluros Solterates is the Master Scriptorium Director, head of the Imperial Scribal Academy and arguably the most respected calligrapher in the Empire. He is known for exacting standards and notorious harshness. [[being-ailemkrmys|Ailema Keramyes]] was apprenticed to him at fourteen and studied under him for six years.

@@ -1,6 +1,6 @@
 ---
 shortcode: vlmrjthrn
-name: {full: Vélmar Gútharen, aliases: []}
+name: {full: Velmar Gútharen, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -396,23 +396,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Vélmar Gútharen is a 52-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with broad cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has an aquiline nose and narrow lips. He has medium-toned skin with a weathered complexion. His gray hair is shorn at the sides with length on top. A notable feature is sun-darkened skin on the arms and face.
+Velmar Gútharen is a 52-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with broad cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has an aquiline nose and narrow lips. He has medium-toned skin with a weathered complexion. His gray hair is shorn at the sides with length on top. A notable feature is sun-darkened skin on the arms and face.
 
 # Dossier {#dossier}
 
-Vélmar Gútharen is a glassworker of Herthéma, in [[place-tarvenirgn|Tarvénia]], a Tarvénan freeman who has blown bottles, jars and window-glass in the same furnace-house for more than thirty years.
+Velmar Gútharen is a glassworker of Herthema, in [[place-tarvenirgn|Tarvénia]], a Tarvenan freeman who has blown bottles, jars and window-glass in the same furnace-house for more than thirty years.
 
-Vélmar was apprenticed at fourteen to a master who made plain ware for a fortified town that needed it—jars that seal, bottles that survive a cart, panes that keep the wind out of a garrison's windows—and he makes the same ware now, by the same methods, to the same standard. He has no interest in the colored and figured glass that the younger masters of Herthéma have begun to make in the Provenzian style for the merchants' houses. He speaks for the old standard in the guild, where he is respected as a master and regarded as a brake.
+Velmar was apprenticed at fourteen to a master who made plain ware for a fortified town that needed it—jars that seal, bottles that survive a cart, panes that keep the wind out of a garrison's windows—and he makes the same ware now, by the same methods, to the same standard. He has no interest in the colored and figured glass that the younger masters of Herthema have begun to make in the Provenzian style for the merchants' houses. He speaks for the old standard in the guild, where he is respected as a master and regarded as a brake.
 
 ## Psyche
 
 ### Personality
 
-Vélmar is dependable, taciturn and set against change, and has no patience for ornament in glass or in speech. He is aware his work is unfashionable and does not care, though he minds that his own apprentices think so.
+Velmar is dependable, taciturn and set against change, and has no patience for ornament in glass or in speech. He is aware his work is unfashionable and does not care, though he minds that his own apprentices think so.
 
 ### Motivation
 
-Vélmar wants to make glass that lasts and be paid fairly for it, and he wants the trade to keep the standard it had when he learned it.
+Velmar wants to make glass that lasts and be paid fairly for it, and he wants the trade to keep the standard it had when he learned it.
 
 ### Strengths
 
@@ -420,24 +420,24 @@ Highly skilled in traditional glassworking, experienced, dependable.
 
 ## Social
 
-Vélmar is a master of the Glassworkers' Guild of Herthéma and has sat on its bench for a decade.
+Velmar is a master of the Glassworkers' Guild of Herthema and has sat on its bench for a decade.
 
 ## Companions
 
 ### Patrons
 
-Vélmar's patrons are the merchants, vintners and craftsmen of Herthéma who need ware that holds; the wine trade above all.
+Velmar's patrons are the merchants, vintners and craftsmen of Herthema who need ware that holds; the wine trade above all.
 
 ### Enemies
 
-The younger masters of Herthéma who make figured glass for the merchants' houses, and one in particular, trained in Provènzia, who has begun to take the commissions Vélmar used to hold and to call his work peasant ware.
+The younger masters of Herthema who make figured glass for the merchants' houses, and one in particular, trained in Provenzia, who has begun to take the commissions Velmar used to hold and to call his work peasant ware.
 
 ## Plot Hooks
 
-1. **A New Standard**—The guild bench is to vote on admitting figured glass to the master's examination, which Vélmar holds would make masters of men who cannot blow a sound jar. He will lose unless he can bring two members to his side, and he has never in his life canvassed anyone.
+1. **A New Standard**—The guild bench is to vote on admitting figured glass to the master's examination, which Velmar holds would make masters of men who cannot blow a sound jar. He will lose unless he can bring two members to his side, and he has never in his life canvassed anyone.
 
-2. **The Commission He Doubts**—A merchant house has commissioned a great figured window from the Provenzian-trained master and asked Vélmar, as the senior man, to certify the glass. He does not think it will hold a winter.
+2. **The Commission He Doubts**—A merchant house has commissioned a great figured window from the Provenzian-trained master and asked Velmar, as the senior man, to certify the glass. He does not think it will hold a winter.
 
-3. **The Apprentice Leaves**—Vélmar's best apprentice has asked to finish his years under the rival master, to learn the figured work. Vélmar can release him and lose the last hands trained his way, or refuse and lose him anyway.
+3. **The Apprentice Leaves**—Velmar's best apprentice has asked to finish his years under the rival master, to learn the figured work. Velmar can release him and lose the last hands trained his way, or refuse and lose him anyway.
 
-4. **The Ash**—The good beech ash that Vélmar's glass depends on has stopped coming down from the hills, because the man who burned it is dead and his sons have sold the wood. Without it he can make the rival's glass or none.
+4. **The Ash**—The good beech ash that Velmar's glass depends on has stopped coming down from the hills, because the man who burned it is dead and his sons have sold the wood. Without it he can make the rival's glass or none.

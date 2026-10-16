@@ -414,7 +414,7 @@ Lord Aimilon Visbari presents the image of a distinguished Vylarian elder states
 
 # Dossier {#dossier}
 
-The Visbari family has served the Vylarian imperial throne for generations, and Aimilon was groomed from boyhood for a life of quiet service. Officially, he trained at the Imperial College of Heralds in the capital, where he excelled in heraldry, genealogy, diplomacy, and the thousand small courtesies that oil the machinery of Vylarian noble society. Unofficially, his real education began afterward—years of travel across the empire's former provinces and the wider shores of the Vylarian Sea, during which he built and inherited a network of informants, agents, and assets woven through every level of society from [[place-provenzrgn|Provènzia]] to Tarûzel.
+The Visbari family has served the Vylarian imperial throne for generations, and Aimilon was groomed from boyhood for a life of quiet service. Officially, he trained at the Imperial College of Heralds in the capital, where he excelled in heraldry, genealogy, diplomacy, and the thousand small courtesies that oil the machinery of Vylarian noble society. Unofficially, his real education began afterward—years of travel across the empire's former provinces and the wider shores of the Vylarian Sea, during which he built and inherited a network of informants, agents, and assets woven through every level of society from [[place-provenzrgn|Provenzia]] to Taruzel.
 
 When his father died over twenty years ago, Aimilon inherited the full weight of the family's secret vocation: spymaster to the Emperor. He has spent the decades since expanding the network, improving the speed and reliability of its communications, and quietly seeing that certain secrets reach the imperial ear while others are buried forever. He is fluent in multiple languages of the [[place-midhalnrgn|Mídhalión Region]] and several scripts, including ciphers of his own devising, and his memory for names, faces, and relationships is famous among those few who know what he truly does.
 
@@ -446,7 +446,7 @@ The Emperor himself, though their relationship is carefully concealed. Several s
 
 ### Enemies
 
-Lord Aimilon has many enemies who don't know they are his enemies—Tarûzelian merchant-spies whose operations he has disrupted, Provenzian conspirators whose plots he has quietly dismantled, and ambitious Vylarian _kurthândoi_ (senators) who would seize power if they knew how fragile the empire's grip truly is. A few suspect what he truly is, and those are the most dangerous.
+Lord Aimilon has many enemies who don't know they are his enemies—Taruzelian merchant-spies whose operations he has disrupted, Provenzian conspirators whose plots he has quietly dismantled, and ambitious Vylarian _kurthoi_ (senators) who would seize power if they knew how fragile the empire's grip truly is. A few suspect what he truly is, and those are the most dangerous.
 
 ### Affiliations
 
@@ -458,7 +458,7 @@ The Imperial College of Heralds (his public affiliation), the imperial intellige
 
 2. **The Clan Obligation**—One of the party members learns that their clan owes an old and binding debt to an unnamed benefactor. When a stranger presents the agreed-upon sign, the character is honor-bound to comply—even if the task puts them at odds with their companions. The trail leads back, eventually, to Lord Aimilon.
 
-3. **Too Much Knowledge**—The party is hired to uncover certain information about Tarûzelian merchant operations and dutifully reports what they find. Shortly afterward, they are declared outlaws. Someone powerful wants them silenced, and Lord Aimilon must decide whether to protect useful assets or let them burn to preserve the network's secrecy.
+3. **Too Much Knowledge**—The party is hired to uncover certain information about Taruzelian merchant operations and dutifully reports what they find. Shortly afterward, they are declared outlaws. Someone powerful wants them silenced, and Lord Aimilon must decide whether to protect useful assets or let them burn to preserve the network's secrecy.
 
 4. **The Heir Apparent**—Lord Aimilon approaches the party through intermediaries to evaluate a young woman he believes could succeed him as the empire's next spymaster. He wants them to test her—discreetly—by placing her in situations that reveal her judgment, loyalty, and resourcefulness. The woman has no idea she is being assessed.
 

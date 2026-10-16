@@ -36,4 +36,4 @@ Isethu is a 45-year-old woman who stands 5'9" tall with a medium build. She has 
 
 # Dossier {#dossier}
 
-Isethu heals and keeps the old wisdom of the borderlands out of [[place-anlaghzetun|Anlagh-Zetûn]]. She taught her daughter to read the spiritual significance in plants and animals before she taught her anything else. The daughter's later skill, whatever it becomes, starts from that first lesson.
+Isethu heals and keeps the old wisdom of the borderlands out of [[place-anlaghzetun|Anlagh-Zetun]]. She taught her daughter to read the spiritual significance in plants and animals before she taught her anything else. The daughter's later skill, whatever it becomes, starts from that first lesson.

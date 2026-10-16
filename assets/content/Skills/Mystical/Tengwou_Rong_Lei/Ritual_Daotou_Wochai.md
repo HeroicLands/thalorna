@@ -1,6 +1,6 @@
 ---
 shortcode: daotouwochai
-name: {full: "Ritual: Daotōu Wōchài", aliases: [Daotōu Wōchài]}
+name: {full: "Ritual: Daotou Wochai", aliases: [Daotou Wochai]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-daotouwochai|Daotōu Wōchài]]
+See [[affiliation-daotouwochai|Daotou Wochai]]

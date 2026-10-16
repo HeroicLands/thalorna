@@ -14,7 +14,7 @@ From the ford the rise looks like any other low hill on the burned ground until 
 
 ## The Four Howes
 
-Below the hall on the river side stand four howes, each with its stone and its names, and every king of Targud from the acclamation to the father of [[affiliation-kingdmtrgd|Skruldmýl II]] lies in one of them, because the [[affiliation-kingdmtrgd|Driskarukh]] opened a howe again for each king who died and laid him with his forebears. When the hall burned the howes were left where they stood, and the line the kingdom holds now runs a day's walk to the west of them, so the kings of the Driskarukh lie on the wrong side of their own frontier. Once in his reign a king of Targud rides out from [[place-tvalgard|Tvalgard]] with his hird to pour the grave-ale at the four howes, and comes back past the ford at [[place-dvulgvangr|Dvulgvangr]] before dusk if he has timed it well. The ride is the only royal rite in the north performed on ground the crown does not hold.
+Below the hall on the river side stand four howes, each with its stone and its names, and every king of Targud from the acclamation to the father of [[affiliation-kingdmtrgd|Skruldmil II]] lies in one of them, because the [[affiliation-kingdmtrgd|Driskaruk]] opened a howe again for each king who died and laid him with his forebears. When the hall burned the howes were left where they stood, and the line the kingdom holds now runs a day's walk to the west of them, so the kings of the Driskaruk lie on the wrong side of their own frontier. Once in his reign a king of Targud rides out from [[place-tvalgard|Tvalgard]] with his hirv to pour the grave-ale at the four howes, and comes back past the ford at [[place-dvulgvangr|Dvulgvangr]] before dusk if he has timed it well. The ride is the only royal rite in the north performed on ground the crown does not hold.
 
 ## What Is There Now
 
@@ -22,13 +22,13 @@ The Grukar do not camp on the rise. The watch's patrols say that the horde that 
 
 ## What a Party Finds
 
-- The king's ride is due in the present reign and the escort is short, because a hird on the burned ground for two days is a hird not on the wall.
+- The king's ride is due in the present reign and the escort is short, because a hirv on the burned ground for two days is a hirv not on the wall.
 - A howe opened from inside, with a king's grave-goods still in it and the stone pushed outward, and a Lawspeaker who would like someone other than the king to go down and look.
-- The hearth-stones of the first royal hall, which a Driskarukh claimant would give a great deal to have carried to Tvalgard and set under the present hall's fire.
+- The hearth-stones of the first royal hall, which a Driskaruk claimant would give a great deal to have carried to Tvalgard and set under the present hall's fire.
 
 ## See Also
 
 - [[lore-burningeast|The Burning of the East]]—how the hall fell
 - [[place-dvulgvangr|Dvulgvangr]]—the ford below the rise, and its field
 - [[place-tvalgard|Tvalgard]]—the hall the king holds now
-- [[affiliation-kingdmtrgd|Kingdom of Targud]]—the Driskarukh and the king's ride
+- [[affiliation-kingdmtrgd|Kingdom of Targud]]—the Driskaruk and the king's ride

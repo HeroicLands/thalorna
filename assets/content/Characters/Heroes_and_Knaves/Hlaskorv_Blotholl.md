@@ -1,6 +1,6 @@
 ---
 shortcode: hlskrvblthl
-name: {full: Hlaskorv Blóthöll, given: Hlaskorv, clan: Blóthöll, aliases: []}
+name: {full: Hlaskorv Bletholl, given: Hlaskorv, clan: Bletholl, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -415,7 +415,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hlskrvblthl|Hlaskorv Blóthöll]]{float=top-left}
+![[hlskrvblthl|Hlaskorv Bletholl]]{float=top-left}
 
 Hlaskorv stands 5'11" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a long face, a long nose, a strong jawline, a firm-set mouth, low-set brows, and angular cheeks. He has a scar running down his back.
 
@@ -423,7 +423,7 @@ Hlaskorv stands 5'11" tall with a heavy build. He has tanned weathered skin, gre
 
 **The Forest's Education**
 
-Hlaskorv Blóthöll was born into a family of woodcutters in the Darkwood Reaches of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], a region where the vast forests that covered the landscape were simultaneously the greatest resource and the most dangerous adversary. From the moment he could walk, he learned to move through the forest with respect and care, training from his father and uncles emphasizing that the forest was a living system that would provide year after year if treated with wisdom, not a resource to be exploited without consequence. This philosophy—unusual among northern woodcutters who tended toward aggressive extraction—was passed through the Blóthöll line as carefully as any inherited treasure.
+Hlaskorv Bletholl was born into a family of woodcutters in the Darkwood Reaches of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], a region where the vast forests that covered the landscape were simultaneously the greatest resource and the most dangerous adversary. From the moment he could walk, he learned to move through the forest with respect and care, training from his father and uncles emphasizing that the forest was a living system that would provide year after year if treated with wisdom, not a resource to be exploited without consequence. This philosophy—unusual among northern woodcutters who tended toward aggressive extraction—was passed through the Bletholl line as carefully as any inherited treasure.
 
 **The Scar's Lesson**
 
@@ -472,7 +472,7 @@ Hlaskorv is driven by two interrelated motivations: a determination to practice 
 The Masterwork Carpenters' Alliance
 : A collective of the region's finest woodworkers who depend upon Hlaskorv's timber for their most important commissions and fiercely defend his methods against criticism.
 
-Jarl Hlurthann Flirnidrokh
+Jarl Hlurthann Flirnidrok
 : A noble who has made the surprising commitment to sustainable forest management and contracts Hlaskorv for all major timber needs across his extensive lands.
 
 The Herbal Society of Nordheim

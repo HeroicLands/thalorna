@@ -1,6 +1,6 @@
 ---
 shortcode: mglshhtsn
-name: {full: Mugîlûsh Hitûsûnî, aliases: []}
+name: {full: Mugilush Hitusuni, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Mugîlûsh Hitûsûnî is a 52-year-old man who stands 5'7" tall and is of moderate build. He has a long face with angular cheekbones, a broad forehead, and a strong jaw that leads to a prominent chin. His sharp dark brown eyes sit beneath arched brows, lending him an incisive gaze. A straight nose and firm lips complete his features. He has warm golden skin with an olive-toned complexion. His gray hair is tied in a low tail.
+Mugilush Hitusuni is a 52-year-old man who stands 5'7" tall and is of moderate build. He has a long face with angular cheekbones, a broad forehead, and a strong jaw that leads to a prominent chin. His sharp dark brown eyes sit beneath arched brows, lending him an incisive gaze. A straight nose and firm lips complete his features. He has warm golden skin with an olive-toned complexion. His gray hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a guilded family of Tarûzelian heritage, Mugîlûsh Hitûsûnî came into the world of the apothecary through a combination of circumstance and aptitude.
+Born in the Taruzel region to a guilded family of Taruzelian heritage, Mugilush Hitusuni came into the world of the apothecary through a combination of circumstance and aptitude.
 
-Mugîlûsh is a well-known apothecary in the city, often sought after for his knowledge of rare medicinal herbs and remedies. He inherited the shop from his father, who was also an apothecary. Mugîlûsh has seen the darker side of city life, treating those who come to him for poisons as well as cures.
+Mugilush is a well-known apothecary in the city, often sought after for his knowledge of rare medicinal herbs and remedies. He inherited the shop from his father, who was also an apothecary. Mugilush has seen the darker side of city life, treating those who come to him for poisons as well as cures.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Cynical and somewhat paranoid due to dealings with shady characters.
 
 ### Motivation
 
-Mugîlûsh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in apothecary work keep him vigilant and adaptable.
+Mugilush is driven by the desire to master his craft and secure a stable future. The uncertainties of life in apothecary work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Skilled in the preparation of medicinal herbs, excellent knowledge of local flor
 
 ## Social
 
-Mugîlûsh is affiliated with Apothecaries' Guild.
+Mugilush is affiliated with Apothecaries' Guild.
 
-As a Tarûzelian apothecary, Mugîlûsh occupies a recognized social niche within Tarûzel society.
+As a Taruzelian apothecary, Mugilush occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Mugîlûsh's primary patron is Wealthy merchants and nobles who value his expertise. This relationship provides both opportunity and obligation.
+Mugilush's primary patron is Wealthy merchants and nobles who value his expertise. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ A rival apothecary who accuses him of underhanded business practices.
 
 ## Plot Hooks
 
-1. **The Apothecary's Dilemma**—Mugîlûsh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Apothecary's Dilemma**—Mugilush faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—A rival apothecary who accuses him of underhanded business practices. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Mugîlûsh's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Mugilush's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Mugîlûsh depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Mugilush depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Mugîlûsh the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Mugilush the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -41,4 +41,4 @@ Poaching at scale needs arrangements: a Taker, a Carrier, a Buyer, and an Offici
 ## See Also
 
 - [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the hunt that keeps the river's beasts
-- [[lore-khelathiclt|Khelâthi]]—who may hold a stranger's word
+- [[lore-khelathiclt|Khelathi]]—who may hold a stranger's word

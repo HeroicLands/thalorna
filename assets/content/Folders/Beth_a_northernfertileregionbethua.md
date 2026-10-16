@@ -1,8 +1,8 @@
 ---
 shortcode: northernfertileregionbethua
-name: {full: "Bethûa"}
+name: {full: "Bethua"}
 type: folder
 data: {parent: xerathianorthernfertileregion, color: "#66CDAA"}
 ---
 
-This folder gathers the characters of Bethûa within the Northern Fertile Region folder of the Xerathian heroes and knaves.
+This folder gathers the characters of Bethua within the Northern Fertile Region folder of the Zerathian heroes and knaves.

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]
-  affiliations: {empireakhlth: {rank: 3}, thubai: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, thubai: {rank: 1}}
   gender: male
   species: humanflk
   born: 673.344
@@ -416,7 +416,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-anlaghzetun|Anlagh-Zetûn]]
+**Home:** [[place-anlaghzetun|Anlagh-Zetun]]
 
 # Appearance {#appearance}
 
@@ -426,11 +426,11 @@ Shezur stands 6'3" tall with a heavy build. He has warm brown skin, very dark br
 
 # Dossier {#dossier}
 
-Shezur was born to the Zin'Gatau clan during the flooding season, third son of a metalworker's family. His father, [[being-zabmehtzingt|Zabmeht Zin'Gatau]], recognized early that young Shezur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shezur was apprenticed at age twelve to Master [[being-thaharqo2|Thaharqo]], keeper of the Imperial forge in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s merchant quarter. For twenty-three years, he honed his art under Thaharqo's exacting eye, learning to shape metal and to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
+Shezur was born to the Zin'Gatau clan during the flooding season, third son of a metalworker's family. His father, [[being-zabmehtzingt|Zabmeht Zin'Gatau]], recognized early that young Shezur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shezur was apprenticed at age twelve to Master [[being-thaharqo2|Thaharqo]], keeper of the Imperial forge in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s merchant quarter. For twenty-three years, he honed his art under Thaharqo's exacting eye, learning to shape metal and to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
 
 Upon his master's retirement, Shezur inherited the forge and established himself as the foremost supplier of functional weaponry to the Empire's military apparatus. His reputation spread quickly: soldiers entrusted their lives to Zin'Gatau blades and armor, knowing every piece had been tested and refined beyond simple adequacy. He married late at thirty-five, gaining two stepchildren from his union with [[being-megara|Megara]], a merchant's widow, though she passed seven years ago. Without heirs of his own blood, Shezur has begun mentoring promising apprentices, though he guards his knowledge jealously.
 
-Today, Shezur maintains his forge with obsessive dedication. Every dawn, before the city stirs, he stokes the fires that have burned continuously for nearly three decades. His workshop has become an institution—mercenary captains route themselves through Aû'Khelâthu specifically to commission pieces from his anvil.
+Today, Shezur maintains his forge with obsessive dedication. Every dawn, before the city stirs, he stokes the fires that have burned continuously for nearly three decades. His workshop has become an institution—mercenary captains route themselves through Au'Khelathu specifically to commission pieces from his anvil.
 
 ## Psyche
 
@@ -438,7 +438,7 @@ Today, Shezur maintains his forge with obsessive dedication. Every dawn, before 
 
 Shezur is a man of few words but absolute conviction. He measures success not in gold or prestige, but in function—a weapon must cut, armor must protect, and anything beyond utility is mere decoration distracting from purpose. This philosophy makes him prized by warriors and infuriating to aesthetes. He respects dedication and honest labor above all else; a person who works hard and without pretense will find in him a loyal ally, while idleness or deception earns only his contempt.
 
-His gruff exterior covers a deep spirituality. He observes the rites of Thubâ'i with great care, believing that the prosperity god guides his hands in the shaping of metal. He keeps a small altar in the forge's corner, making daily offerings of oil and bread. To Shezur, his craft is not separate from his faith—they are inseparable aspects of a sacred covenant with his deity.
+His gruff exterior covers a deep spirituality. He observes the rites of Thuba'i with great care, believing that the prosperity god guides his hands in the shaping of metal. He keeps a small altar in the forge's corner, making daily offerings of oil and bread. To Shezur, his craft is not separate from his faith—they are inseparable aspects of a sacred covenant with his deity.
 
 ### Motivation
 
@@ -465,7 +465,7 @@ Shezur seeks to leave a legacy of excellence that will outlast his mortal years.
 ### Patrons
 
 [[being-akherethu2|Akherethu]]
-: Commander of the Aû'Khelâthu Imperial Guard, who has purchased from Shezur for seventeen years. Trusts no other source for his cohort's weapons and considers Zin'Gatau blades worth their weight in gold.
+: Commander of the Au'Khelathu Imperial Guard, who has purchased from Shezur for seventeen years. Trusts no other source for his cohort's weapons and considers Zin'Gatau blades worth their weight in gold.
 
 Captain [[being-tharaset|Tharaset]]
 : A mercenary captain of considerable renown who leads a company of two hundred soldiers. She sends at least a dozen soldiers annually to commission from Shezur.
@@ -474,7 +474,7 @@ Lord Merchant Zekhenti
 : A wealthy trader who deals in imperial contracts. While he cares little for the functional beauty of weapons, he appreciates the investment value of Zin'Gatau craftsmanship.
 
 The Bridge District Militia
-: The informal neighborhood watch that maintains peace in Aû'Khelâthu's merchant quarters. They scrape together funds to purchase Shezur's work whenever possible.
+: The informal neighborhood watch that maintains peace in Au'Khelathu's merchant quarters. They scrape together funds to purchase Shezur's work whenever possible.
 
 ### Enemies
 
@@ -485,11 +485,11 @@ Master [[being-khelamose|Khelamose]] the Embellisher
 : A merchant organization representing aesthetic craftspeople across the Empire. They view Shezur as an enemy of true artistry and have lobbied to exclude his work from noble exhibition halls.
 
 Priest [[being-aqenmose2|Aqenmose]]
-: A mid-ranking cleric of Psaq'âru (god of craftsmanship and architecture) who resents that Shezur worships Thubâ'i. Aqenmose has suggested that Shezur's "heretical practices" compromise his quality and spreads this falsehood among religious merchants.
+: A mid-ranking cleric of Saq'aru (god of craftsmanship and architecture) who resents that Shezur worships Thuba'i. Aqenmose has suggested that Shezur's "heretical practices" compromise his quality and spreads this falsehood among religious merchants.
 
 ### Affiliations
 
-[[affiliation-linmelnkhlth|Lin'Melnu elu Aû'Khelâthu]]
+[[affiliation-linmelnkhlth|Lin'Melnu elu Au'Khelathu]]
 : Though Shezur maintains independence and refuses guild leadership positions, he remains formally registered and pays his annual dues. The guild recognizes him as the highest-ranked active craftsperson.
 
 Imperial Military Quartermaster's Office

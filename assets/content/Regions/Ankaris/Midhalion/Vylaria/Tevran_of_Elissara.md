@@ -1,9 +1,9 @@
 ---
 shortcode: tevranaelissium
-name: {full: Tevran of Elissâra, aliases: []}
+name: {full: Tevran of Elissara, aliases: []}
 type: affiliation
 subType: polity
-description: "The trade guilds of Elissâra, among them the potters' guild and the Seamen's Guild, whose marks tell whose city it is."
+description: "The trade guilds of Elissara, among them the potters' guild and the Seamen's Guild, whose marks tell whose city it is."
 data:
   templatePriority: null
   demonym: null
@@ -21,7 +21,7 @@ data:
       - level: 1
         title: Tevran Member
         description: >-
-          Belongs to one of the trade guilds of Elissâra.
+          Belongs to one of the trade guilds of Elissara.
     offices: {}
   seat: aelissium
   population: null
@@ -33,4 +33,4 @@ data:
 sohl: {system: {commonSkills: [vylarilng]}}
 ---
 
-The **Tevran of Elissâra** is the body of the trade guilds of [[place-aelissium|Elissâra]]: the potters' guild, whose master's seal outvalues the bowl it marks, and the Seamen's Guild, on whose roll the city's sailors are hired by the voyage. The chapterhouse of the [[affiliation-danvar|Danvar]] stands beside them.
+The **Tevran of Elissara** is the body of the trade guilds of [[place-aelissium|Elissara]]: the potters' guild, whose master's seal outvalues the bowl it marks, and the Seamen's Guild, on whose roll the city's sailors are hired by the voyage. The chapterhouse of the [[affiliation-danvar|Danvar]] stands beside them.

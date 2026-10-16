@@ -16,7 +16,7 @@ A caravan sees Jilaq two nights before it will be nearest to it, and it sees it 
 
 ## How It Was Made
 
-About 190 BF the first of the great unions forced the tribes together under a single orqun, and the cities of the league were asked for tribute. Jilaq refused, as the league's charter said it must, and the host sat down before the ring wall for a season. When the wall was opened, the city was killed in a day and a night: the factors of a dozen peoples, the yard-hands, the lamp-keepers, the families of all of them. The union's riders took what they could carry and rode out. They did not lay the dead out, and no tribe's shaman said a name over any of them, because the city's dead were strangers to every rite the riders kept. The dead of the Tower League had no rite that anyone alive could perform for them, and the tribes the orqun led have been walking round the result ever since.
+About 190 BF the first of the great unions forced the tribes together under a single orkun, and the cities of the league were asked for tribute. Jilaq refused, as the league's charter said it must, and the host sat down before the ring wall for a season. When the wall was opened, the city was killed in a day and a night: the factors of a dozen peoples, the yard-hands, the lamp-keepers, the families of all of them. The union's riders took what they could carry and rode out. They did not lay the dead out, and no tribe's shaman said a name over any of them, because the city's dead were strangers to every rite the riders kept. The dead of the Tower League had no rite that anyone alive could perform for them, and the tribes the orkun led have been walking round the result ever since.
 
 ## What Comes Back
 
@@ -41,7 +41,7 @@ The same vaults hold the league's tower-glass: ground lenses from the lamp-chamb
 
 ## Hooks
 
-- **The factor's lens.** A Byzarian factor at [[place-qisomrktcmp|Qiiso]] will pay a fortune for one lens of tower-glass and will not say what the glass is for. He has hired two parties already, and neither came back to Qiiso.
+- **The factor's lens.** A Bizarian factor at [[place-qisomrktcmp|Qiiso]] will pay a fortune for one lens of tower-glass and will not say what the glass is for. He has hired two parties already, and neither came back to Qiiso.
 - **The counting-house names.** A ranger of the [[affiliation-sahritrb|Sahri]] with a bad conscience wants the ledgers brought out whole. He means to read the names to the four winds on the anniversary night, from the wall, and the nearest tribe has told him it will not stop him and will not bury him either.
 - **The rider who stayed.** A caravan guide of the south ranges says he saw his brother, dead nine years, standing at the ring wall in the lit harbor court. He wants someone to go and tell him it was only the field. He wants someone to bring him a lens to prove it.
 
@@ -51,4 +51,4 @@ The same vaults hold the league's tower-glass: ground lenses from the lamp-chamb
 - [[lore-bloodfield|Blood-fields]]—what a thin field is, and why it kills
 - [[place-hskrrgn|Khoshiqor]]—the sand country it stands in
 - [[lore-celestialroad|The Celestial Road]]—the road that bends round it
-- [[place-wilud|Vülüd]]—the league's drowned city, which is not a blood-field
+- [[place-wilud|Vulud]]—the league's drowned city, which is not a blood-field

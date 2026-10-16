@@ -1,6 +1,6 @@
 ---
 shortcode: jethralydr
-name: {full: Jéthra Lídren, aliases: []}
+name: {full: Jethra Lidren, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, mages]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Jéthra Lídren is a 39-year-old woman who stands 5'6" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows, lending her a candid gaze. A delicate nose and narrow lips complete her features. She has medium-toned skin with a smooth complexion. Her dark blonde hair is swept up and held with carved combs.
+Jethra Lidren is a 39-year-old woman who stands 5'6" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows, lending her a candid gaze. A delicate nose and narrow lips complete her features. She has medium-toned skin with a smooth complexion. Her dark blonde hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Jéthra Lídren came into the world of the astrologer through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Jethra Lidren came into the world of the astrologer through a combination of circumstance and aptitude.
 
-Jéthra grew up in a port city, where she developed a fascination with the night sky while watching ships navigate by the stars. She became an astrologer to provide guidance to sailors and merchants. Known for her practical and down-to-earth readings, she is popular among the seafaring community. She sometimes assists in navigation for long voyages.
+Jethra grew up in a port city, where she developed a fascination with the night sky while watching ships navigate by the stars. She became an astrologer to provide guidance to sailors and merchants. Known for her practical and down-to-earth readings, she is popular among the seafaring community. She sometimes assists in navigation for long voyages.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Prone to seasickness, limiting her ability to travel far from land.
 
 ### Motivation
 
-Jéthra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in astrologer work keep her vigilant and adaptable.
+Jethra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in astrologer work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Excellent at interpreting omens related to travel and trade.
 
 ## Social
 
-Jéthra is affiliated with Navigators' Guild.
+Jethra is affiliated with Navigators' Guild.
 
-As a Élavendri astrologer, Jéthra occupies a recognized social niche within Élavendre society.
+As a Élavendri astrologer, Jethra occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Jéthra's primary patron is Merchants and sailors who seek her advice. This relationship provides both opportunity and obligation.
+Jethra's primary patron is Merchants and sailors who seek her advice. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ None; generally well-liked.
 
 ## Plot Hooks
 
-1. **The Astrologer's Dilemma**—Jéthra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Astrologer's Dilemma**—Jethra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—None; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Jéthra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Jethra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Jéthra depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Jethra depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Jéthra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Jethra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

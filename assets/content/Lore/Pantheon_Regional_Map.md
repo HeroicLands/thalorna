@@ -11,25 +11,25 @@ This note maps which pantheons are worshipped in which regions of [[place-worldt
 
 One item of interest are that many of the gods called the god/goddess of dreams are possibly the same deity, [[lore-goddreams|The God of Dreams]].
 
-## [[affiliation-arldnpnthn|Aurèldían Pantheon]]
+## [[affiliation-arldnpnthn|Aureldian Pantheon]]
 
 The dominant pantheon of western [[place-ankrscntnnt|Ankaris Continent]] and [[place-midhalnrgn|Mídhalión]]. Originally the state religion of the [[affiliation-vylarinmpr|Vylarian Empire]], it spread throughout the empire's territories and persists even where imperial control has faded.
 
 **Primary regions:**
 
-- [[affiliation-vylarinmpr|Vylaria]]—state religion, seat of the Aurèldían faith
-- [[place-helionis|Heliónis]]—considers itself the spiritual heartland; elaborate temple culture
-- [[place-provenzrgn|Provènzia]]—strong institutional presence, integrated with artistic life
+- [[affiliation-vylarinmpr|Vylaria]]—state religion, seat of the Aureldian faith
+- [[place-helionis|Helionis]]—considers itself the spiritual heartland; elaborate temple culture
+- [[place-provenzrgn|Provenzia]]—strong institutional presence, integrated with artistic life
 - [[place-elavendre|Elavendre]]—practiced alongside the older Áelendan [[affiliation-theoldway|Old Way]] and its fae/nature traditions
 - [[place-aelwyth|Aelwyth]]—dominant in southern kingdoms
 - [[place-tarvenirgn|Tarvénia]]—formal faith, but strong folk traditions persist beneath it
-- [[place-byzariargn|Byzaría]]—eastern rite with mystical emphasis
+- [[place-byzariargn|Bizaria]]—eastern rite with mystical emphasis
 
 **Secondary influence:**
 
-- [[affiliation-cnfdrtntrzlnstts|Tarûzel]]—dominant in western coastal cities (imposed during Vylarian period)
-- [[affiliation-kalihara|Kalihara]]—port cities host Aurèldían temples serving foreign merchants and cosmopolitan populations; the interior follows its own ancient tradition (see [[affiliation-kalihara|Kalihara]])
-- [[place-vrystwald|Vrystwald]]—southern tribes influenced by Vylarian contact
+- [[affiliation-cnfdrtntrzlnstts|Taruzel]]—dominant in western coastal cities (imposed during Vylarian period)
+- [[affiliation-kalihara|Kalihara]]—port cities host Aureldian temples serving foreign merchants and cosmopolitan populations; the interior follows its own ancient tradition (see [[affiliation-kalihara|Kalihara]])
+- [[place-vrystwald|Vristwald]]—southern tribes influenced by Vylarian contact
 
 ## [[affiliation-asguardian|Asguardian Pantheon]]
 
@@ -42,9 +42,9 @@ The pantheon of the frozen north, rooted in shamanistic and warrior traditions.
 
 **Secondary influence:**
 
-- Northern [[place-vrystwald|Vrystwald]]—shared Pelwar heritage with Nordheim
+- Northern [[place-vrystwald|Vristwald]]—shared Pelwar heritage with Nordheim
 
-## [[affiliation-ashanpnthn|Āsháian Pantheon]]
+## [[affiliation-ashanpnthn|Ashaian Pantheon]]
 
 An eastern pantheon centered on cosmic balance, fire, and light. Predates Vylarian influence in the eastern lands.
 
@@ -55,30 +55,30 @@ An eastern pantheon centered on cosmic balance, fire, and light. Predates Vylari
 
 **Secondary influence:**
 
-- Eastern [[affiliation-cnfdrtntrzlnstts|Tarûzel]]—significant following among eastern city-states and hill tribes
-- [[place-byzariargn|Byzaría]]—presence among merchant communities with eastern connections
+- Eastern [[affiliation-cnfdrtntrzlnstts|Taruzel]]—significant following among eastern city-states and hill tribes
+- [[place-byzariargn|Bizaria]]—presence among merchant communities with eastern connections
 
-## [[affiliation-khelathpnthn|Khelâthi Pantheon]]
+## [[affiliation-khelathpnthn|Khelathi Pantheon]]
 
-The ancient faith of the great southern empire, centered on solar worship and the divine line of the Gar-Aû.
-
-**Primary region:**
-
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—state religion of the empire
-
-## [[affiliation-tengwouronglei|Téngwou Rong Léi]]
-
-The **Celestial Order** (Téngwou Rong Léi, "The Celestial Court of Ten Thousand Spirits")—a vast celestial bureaucracy mirroring the imperial government of the east.
+The ancient faith of the great southern empire, centered on solar worship and the divine line of the Gar-Au.
 
 **Primary region:**
 
-- [[affiliation-tantsouempr|Tāntsou]]—state religion, deeply integrated with caste system
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—state religion of the empire
+
+## [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+
+The **Celestial Order** (Téngwou Rong Lei, "The Celestial Court of Ten Thousand Spirits")—a vast celestial bureaucracy mirroring the imperial government of the east.
+
+**Primary region:**
+
+- [[affiliation-tantsouempr|Tantsou]]—state religion, deeply integrated with caste system
 
 **Secondary influence:**
 
-- [[place-jenchairgn|Jénchài]]—regional variants of the Celestial Order, divergently interpreted after a thousand years of separation from Tāntsou
+- [[place-jenchairgn|Jenchai]]—regional variants of the Celestial Order, divergently interpreted after a thousand years of separation from Tantsou
 
-## [[affiliation-itzanpnthn|Itzáni]]
+## [[affiliation-itzanpnthn|Itsani]]
 
 The unified faith of the [[place-kchchkcntnnt|K'ich'chik Continent]] continent—a single priesthood serving ten gods, centered on celestial cycles, blood sacrifice, and priestly kings.
 
@@ -86,7 +86,7 @@ The unified faith of the [[place-kchchkcntnnt|K'ich'chik Continent]] continent�
 
 - [[place-kchchkcntnnt|K'ich'chik Continent]]—the unified Ki'ichek faith
 
-## [[affiliation-varakpnthn|Varnaka Pantheon]]
+## [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 A complex spiritual system centered on cycles of creation, preservation, and destruction.
 
@@ -104,7 +104,7 @@ The ancestral pantheon of the [[lore-aelendnppl|Áelendan]] and, through them, o
 
 **Secondary influence:**
 
-- [[place-elavendre|Élavendre]]—preserved in noble houses that claim Áelendan ancestry and in the older fae/nature traditions that inflect local Aurèldían practice
+- [[place-elavendre|Élavendre]]—preserved in noble houses that claim Áelendan ancestry and in the older fae/nature traditions that inflect local Aureldian practice
 
 ## Animistic / Local Traditions
 
@@ -114,11 +114,11 @@ Several regions maintain animistic practices without a formal named pantheon:
 
 ## Xera
 
-- **Xerathia south of Okháris**—The central rainforests and southern savannahs of Xerathia are home to diverse spiritual traditions that have not been systematically documented by Ankarian scholars. What is known suggests considerable variety: structured priesthoods and named spirit-courts in the more settled rainforest communities, ancestor veneration and landscape-tied spirit relationships among the pastoral peoples of the south. These traditions do not map neatly onto the pantheon model familiar to western Ankaris, and any attempt to impose such a framework would likely obscure more than it reveals.
+- **Zerathia south of Okharis**—The central rainforests and southern savannahs of Zerathia are home to diverse spiritual traditions that have not been systematically documented by Ankarian scholars. What is known suggests considerable variety: structured priesthoods and named spirit-courts in the more settled rainforest communities, ancestor veneration and landscape-tied spirit relationships among the pastoral peoples of the south. These traditions do not map neatly onto the pantheon model familiar to western Ankaris, and any attempt to impose such a framework would likely obscure more than it reveals.
 
 ## [[affiliation-nkaruthar|Nkaru'thar]]
 
-The [[affiliation-okharis|Okháris]] worships **Nkaru'thar** (The Eternal Flame) through three aspects tied to its three city-states—a unique local faith distinct from the major pantheons.
+The [[affiliation-okharis|Okharis]] worships **Nkaru'thar** (The Eternal Flame) through three aspects tied to its three city-states—a unique local faith distinct from the major pantheons.
 
 ## [[affiliation-tharivaan|Thári'vaan]]
 

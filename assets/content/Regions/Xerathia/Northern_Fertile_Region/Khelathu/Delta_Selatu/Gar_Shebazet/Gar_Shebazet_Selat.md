@@ -3,7 +3,7 @@ shortcode: garshebztslt
 name: {full: Gar-Shebazet Selat, aliases: []}
 type: place
 subType: region
-description: "Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting—the land of the Selat of Gar-Shebazet, one of the delta selatu of Aû'Khelâthu."
+description: "Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting—the land of the Selat of Gar-Shebazet, one of the delta selatu of Au'Khelathu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-"Ask me why the goddess is a cobra and the reeds are hers, and I will point at the marsh," a fowler says to a visitor, setting his throw-stick across his knees in the bow of a reed boat. "That is the whole answer, and nobody here has wanted a longer one." **Gar-Shebazet Selat** is the land of the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+"Ask me why the goddess is a cobra and the reeds are hers, and I will point at the marsh," a fowler says to a visitor, setting his throw-stick across his knees in the bow of a reed boat. "That is the whole answer, and nobody here has wanted a longer one." **Gar-Shebazet Selat** is the land of the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -33,5 +33,5 @@ The chief temple of [[affiliation-shebazet|Shebazet]] and its estates hold much 
 ## See Also
 
 - [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
 - [[place-garshebazet|Gar-Shebazet]]—Selat capital

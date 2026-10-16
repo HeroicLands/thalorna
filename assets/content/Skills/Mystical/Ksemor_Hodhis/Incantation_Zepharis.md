@@ -1,6 +1,6 @@
 ---
 shortcode: zepharis
-name: {full: Incantation Zepharis, aliases: []}
+name: {full: Incantation Zefaris, aliases: []}
 type: skill
 subType: mystical
 tags: [hex-hodai, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-zepharis|Rhéshin Zepharis]]
+See [[affiliation-zepharis|Rhezin Zefaris]]

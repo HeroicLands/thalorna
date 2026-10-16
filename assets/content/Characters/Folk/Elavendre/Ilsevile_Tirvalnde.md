@@ -1,9 +1,9 @@
 ---
 shortcode: ilseviletirv
-name: {full: Ílsevilë Tírvalndë, aliases: [Magistrate Ílsevilë Tírvalndë, Magistrate Ílsevilë]}
+name: {full: Ílsevile Tírvalnde, aliases: [Magistrate Ílsevile Tírvalnde, Magistrate Ílsevile]}
 type: being
 subType: npc
-description: A judge who has clashed with Párthun Pélthal on numerous occasions over the interpretation of law and regulation.
+description: A judge who has clashed with Parthun Pelthal on numerous occasions over the interpretation of law and regulation.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ílsevilë Tírvalndë is a 51-year-old woman who stands 5'9" tall with a medium build. She has pale skin, clear complexion, brown hair, and brown eyes.
+Ílsevile Tírvalnde is a 51-year-old woman who stands 5'9" tall with a medium build. She has pale skin, clear complexion, brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Ílsevilë Tírvalndë is a magistrate and judge. She has clashed with [[being-prthnblthl|Párthun Pélthal]] on numerous occasions over the interpretation of law and regulation.
+Ílsevile Tírvalnde is a magistrate and judge. She has clashed with [[being-prthnblthl|Parthun Pelthal]] on numerous occasions over the interpretation of law and regulation.

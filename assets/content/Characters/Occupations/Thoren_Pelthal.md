@@ -1,6 +1,6 @@
 ---
 shortcode: thornblthl
-name: {full: Thóren Pélthal, aliases: []}
+name: {full: Thoren Pelthal, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -399,13 +399,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Thóren Pélthal is a 45-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with soft cheekbones, a narrow forehead, and a rounded jaw that leads to a firm chin. His large green eyes sit beneath expressive brows and give him an expressive gaze. He has a narrow nose and full lips. He has pale skin with a flawless complexion. His chestnut hair falls in loose waves. His hands are rough and work-worn.
+Thoren Pelthal is a 45-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with soft cheekbones, a narrow forehead, and a rounded jaw that leads to a firm chin. His large green eyes sit beneath expressive brows and give him an expressive gaze. He has a narrow nose and full lips. He has pale skin with a flawless complexion. His chestnut hair falls in loose waves. His hands are rough and work-worn.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Thóren Pélthal is a shipwright.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Thoren Pelthal is a shipwright.
 
-Thóren has spent his entire life by the sea, learning the craft of shipbuilding from his father. Over the years he has built and repaired countless ships for sailors and merchants. Known for his skill and attention to detail, he takes pride in his work but is often at odds with clients who want things done faster and cheaper. For all his gruffness, he has a deep respect for the sea and the ships that sail upon it.
+Thoren has spent his entire life by the sea, learning the craft of shipbuilding from his father. Over the years he has built and repaired countless ships for sailors and merchants. Known for his skill and attention to detail, he takes pride in his work but is often at odds with clients who want things done faster and cheaper. For all his gruffness, he has a deep respect for the sea and the ships that sail upon it.
 
 ## Psyche
 
@@ -415,7 +415,7 @@ He is stubborn, and refuses to compromise on quality even when it costs him clie
 
 ### Motivation
 
-Thóren wants every hull that leaves his yard to be one the sea cannot fault, whatever the client wanted to pay.
+Thoren wants every hull that leaves his yard to be one the sea cannot fault, whatever the client wanted to pay.
 
 ### Strengths
 
@@ -423,13 +423,13 @@ He is skilled in shipbuilding, and understands maritime conditions well.
 
 ## Social
 
-Thóren belongs to the Coastal Shipwrights' Guild.
+Thoren belongs to the Coastal Shipwrights' Guild.
 
 ## Companions
 
 ### Patrons
 
-Thóren's patrons are the local merchants and ship captains who value his craftsmanship.
+Thoren's patrons are the local merchants and ship captains who value his craftsmanship.
 
 ### Enemies
 
@@ -437,12 +437,12 @@ Rival shipwrights undercut his prices.
 
 ## Plot Hooks
 
-1. **The Shipwright's Dilemma**—A merchant wants a ship from Thóren built faster and cheaper than he will build one, and the yard cannot go another season without the work.
+1. **The Shipwright's Dilemma**—A merchant wants a ship from Thoren built faster and cheaper than he will build one, and the yard cannot go another season without the work.
 
-2. **Old Grudges**—A rival shipwright who undercuts Thóren's prices has taken his oldest customer, and the ship he built for him is not sound.
+2. **Old Grudges**—A rival shipwright who undercuts Thoren's prices has taken his oldest customer, and the ship he built for him is not sound.
 
-3. **Echoes of the Past**—A ship Thóren built with his father comes back to his yard for repair after years at sea.
+3. **Echoes of the Past**—A ship Thoren built with his father comes back to his yard for repair after years at sea.
 
-4. **Shifting Winds**—Political change in Élavendre threatens the coastal trade Thóren's yard depends on, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Élavendre threatens the coastal trade Thoren's yard depends on, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A ship captain offers Thóren the building of a whole fleet, on terms that would mean building faster than he has ever agreed to.
+5. **The Opportunity**—A ship captain offers Thoren the building of a whole fleet, on terms that would mean building faster than he has ever agreed to.

@@ -1,6 +1,6 @@
 ---
 shortcode: zunelas
-name: {full: "Ritual: Zûnêlâs", aliases: [Zûnêlâs, The Veiled Dreamer]}
+name: {full: "Ritual: Zunelas", aliases: [Zunelas, The Veiled Dreamer]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-zunelas|Faith of Zûnêlâs]]
+See [[affiliation-zunelas|Faith of Zunelas]]

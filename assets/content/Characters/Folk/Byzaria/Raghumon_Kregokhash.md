@@ -1,15 +1,15 @@
 ---
 shortcode: raghumonkreg
-name: {full: Raghumon Kregokhash, aliases: [Mârendândôs Raghumon Kregokhash]}
+name: {full: Raghumon Kregokhash, aliases: [Marendos Raghumon Kregokhash]}
 type: being
 subType: npc
-description: A conservative member of the Zûlêthâlon Physéra, allied with the Keepers of the Sealed Archive, named in Dókhéhran Fefês.
+description: A conservative member of the Zulen Fisera, allied with the Keepers of the Sealed Archive, named in Dókhehran Fefes.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mage, scholar]
-  occupation: Mârendândôs of the Zûlêthâlon Physéra
+  occupation: Marendos of the Zulen Fisera
   lore: []
   culture: byzarianclt
   homes: []
@@ -36,4 +36,4 @@ Raghumon Kregokhash is a 58-year-old man who stands 6'2" tall with a heavy build
 
 # Dossier {#dossier}
 
-Raghumon Kregokhash is a conservative _mârendândôs_ (master) of the Zûlêthâlon Physéra, a fellowship of the Order, allied with the Keepers of the Sealed Archive. [[being-dkhhrnbsrn|Dókhéhran Fefês]] publicly discredited his theoretical work on the stability of ancient magical foundations, and he has spent the years since cultivating allies within the Epistémion's leadership against her.
+Raghumon Kregokhash is a conservative _marendos_ (master) of the Zulen Fisera, a fellowship of the Order, allied with the Keepers of the Sealed Archive. [[being-dkhhrnbsrn|Dókhehran Fefes]] publicly discredited his theoretical work on the stability of ancient magical foundations, and he has spent the years since cultivating allies within the Epistémion's leadership against her.

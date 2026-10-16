@@ -3,7 +3,7 @@ shortcode: gnirthvirthe
 name: {full: Gnirthvir the Vengeful, aliases: [Jarl Gnirthvir the Vengeful, Jarl Gnirthvir]}
 type: being
 subType: npc
-description: The jarl from whom Dvulgynda Shadow-Walker stole the Crown of Ages.
+description: The jarl from whom Dvulginda Shadow-Walker stole the Crown of Ages.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Gnirthvir the Vengeful is a 38-year-old man who stands 6'0" tall with a heavy bu
 
 # Dossier {#dossier}
 
-Gnirthvir the Vengeful is the jarl from whom [[being-dvlgyndshdwwlkr|Dvulgynda Shadow-Walker]] stole the Crown of Ages. He has dedicated considerable resources to finding and punishing Dvulgynda.
+Gnirthvir the Vengeful is the jarl from whom [[being-dvlgyndshdwwlkr|Dvulginda Shadow-Walker]] stole the Crown of Ages. He has dedicated considerable resources to finding and punishing Dvulginda.

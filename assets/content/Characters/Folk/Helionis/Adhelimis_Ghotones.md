@@ -1,9 +1,9 @@
 ---
 shortcode: adhelimisgho
-name: {full: Adhélimis Ghôtonês, aliases: [Patriarch Adhélimis Ghôtonês]}
+name: {full: Adhélimis Ghotones, aliases: [Patriarch Adhélimis Ghotones]}
 type: being
 subType: npc
-description: The ancient Temple Patriarch, who relies heavily on Dûmàrês Râfîrôs and has indicated that he may be groomed as successor.
+description: The ancient Temple Patriarch, who relies heavily on Dumares Rafiros and has indicated that he may be groomed as successor.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Adhélimis Ghôtonês is a 90-year-old man who stands 5'10" tall with a medium build. He has tanned skin, smooth complexion, brown hair, and grey eyes.
+Adhélimis Ghotones is a 90-year-old man who stands 5'10" tall with a medium build. He has tanned skin, smooth complexion, brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Adhélimis Ghôtonês is the ancient Temple Patriarch. He relies heavily on [[being-dumarsrfrs|Dûmàrês Râfîrôs]] and has indicated privately that Dûmàrês may be groomed as his successor.
+Adhélimis Ghotones is the ancient Temple Patriarch. He relies heavily on [[being-dumarsrfrs|Dumares Rafiros]] and has indicated privately that Dumares may be groomed as his successor.

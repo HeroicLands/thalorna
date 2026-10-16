@@ -1,6 +1,6 @@
 ---
 shortcode: ghstshpsglfbtrn
-name: {full: The Ghost Ships of the Gulf of Batáren, aliases: []}
+name: {full: The Ghost Ships of the Gulf of Bataren, aliases: []}
 type: scenario
 subType: adventure
 data:
@@ -14,17 +14,17 @@ data:
   packFolder: adventures
 ---
 
-Ghost ships appear in the Gulf of Batáren, crewed by the [[lore-undead|undead]] and carrying no cargo but dread. The party must investigate their origin, uncover what they seek, and determine whether they are a natural phenomenon or a deliberate curse.
+Ghost ships appear in the Gulf of Bataren, crewed by the [[lore-undead|undead]] and carrying no cargo but dread. The party must investigate their origin, uncover what they seek, and determine whether they are a natural phenomenon or a deliberate curse.
 
 ## Overview
 
-Merchant vessels traveling through the Gulf of Batáren report encounters with ghost ships—vessels that appear suddenly from fog, crewed by pale and spectral figures, and vanish just as mysteriously. Some ships are attacked or forced to surrender goods; others are simply observed, as if the ghosts are searching for something. Sailors whisper of curse and doom. The party is hired to investigate these phenomena and put an end to the haunting, whether through combat, negotiation, or magic.
+Merchant vessels traveling through the Gulf of Bataren report encounters with ghost ships—vessels that appear suddenly from fog, crewed by pale and spectral figures, and vanish just as mysteriously. Some ships are attacked or forced to surrender goods; others are simply observed, as if the ghosts are searching for something. Sailors whisper of curse and doom. The party is hired to investigate these phenomena and put an end to the haunting, whether through combat, negotiation, or magic.
 
 ## Stage One: The Problem
 
 The party becomes aware of the ghost ship phenomenon through:
 
-- Arriving in a port (Batáren or another coastal city) where recent encounters are being discussed
+- Arriving in a port (Bataren or another coastal city) where recent encounters are being discussed
 - Being hired by a merchant guild or maritime authority
 - Witnessing an encounter firsthand
 - Interviewing survivors of ghost ship encounters
@@ -33,7 +33,7 @@ The party becomes aware of the ghost ship phenomenon through:
 **Initial Information:**
 
 - Ghost ships have appeared with increasing frequency over the past months
-- Encounters are concentrated in the Gulf of Batáren but extending to coastal waters
+- Encounters are concentrated in the Gulf of Bataren but extending to coastal waters
 - Ships are described as old, in various states of decay, and crewed by pale translucent figures
 - Some sightings report specific ship names or markings (possibly historic vessels)
 - Survivors report feelings of dread, cold, and temporal distortion
@@ -56,7 +56,7 @@ The party must gather information about the ghost ships' identities and origins:
 - Investigate the locations and patterns of appearances (do they follow routes, circle areas, seek ports?)
 - Determine if there's a connection between the ships (same era, same fate, same crew)
 - Uncover if someone recently disturbed a graveyard, tomb, or wreck (triggering the haunting)
-- Check whether the [[affiliation-ordoarcanis|Thôrdimâlon]] or a practitioner of dark magic is involved
+- Check whether the [[affiliation-ordoarcanis|Thordimalon]] or a practitioner of dark magic is involved
 
 **Complications:**
 
@@ -95,7 +95,7 @@ The party discovers the ghost ships' origin and nature:
 - **Deliberate Curse:** Someone cursed the ships and crews, either recently or long ago, for a specific purpose
 - **Magical Accident:** An arcane experiment or spell gone wrong awakened or created the ghost ships
 - **Fae Entanglement:** The ships are trapped between worlds due to fae manipulation or interference
-- **The Thôrdimâlon Involvement:** The organization deliberately created or summoned the ships to achieve a goal
+- **The Thordimalon Involvement:** The organization deliberately created or summoned the ships to achieve a goal
 
 **What the Ghosts Seek:**
 
@@ -152,14 +152,14 @@ The party must decide how to address the ghost ships. Options include:
 - Survivors and merchants are grateful and provide rewards
 - The party may recover valuable cargo or treasure from the ships
 - Knowledge of what happened is preserved or revealed
-- The [[affiliation-arldnpnthn|Aurèldían]] faith or local priesthood gains closure and reputation
+- The [[affiliation-arldnpnthn|Aureldian]] faith or local priesthood gains closure and reputation
 
 **Complications:**
 
 - Not all ghosts are appeased; some may continue to haunt specific locations
 - The party may be bound by oath to fulfill the ghosts' final wishes
 - The ghost ships' origins reveal larger historical or political secrets
-- If the [[affiliation-ordoarcanis|Thôrdimâlon]] was involved, they may seek to continue their work or eliminate the party
+- If the [[affiliation-ordoarcanis|Thordimalon]] was involved, they may seek to continue their work or eliminate the party
 
 **If the party fails:**
 
@@ -170,8 +170,8 @@ The party must decide how to address the ghost ships. Options include:
 
 ## See Also
 
-- [[place-provenzrgn|Provènzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
-- [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Thôrdimâlon]]
+- [[place-provenzrgn|Provenzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[affiliation-arldnpnthn|Aureldian]]
+- [[affiliation-ordoarcanis|Thordimalon]]
 - [[affiliation-vylarinmpr|Vylarian Empire]]

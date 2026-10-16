@@ -7,6 +7,25 @@ description: "The Nyálubans—their beliefs, their mores, and what they hold a 
 tags: []
 data:
   language: skill-nyalbnlng
+  glossary:
+    - name: "Spirit-Speaker"
+      definition: "One taken through the ordeal and trained to address and negotiate with the guides for a clan"
+      common: true
+    - name: "Drum-Speaker"
+      definition: "Relayer of messages in the drum-language, who also keeps the drumming that opens every rite"
+      common: true
+    - name: "Old Heto"
+      definition: "A stone enclosure of the lost builders in the highlands, held by the Ngonzi and closed to others"
+      common: true
+    - name: "Nyoli Ruwozi"
+      definition: '"Daughter of the Lion": the hereditary title of the senior Ruwozi woman, the paramount who convenes the Great Lubemo'
+      common: true
+    - name: "drum-master"
+      definition: "Keeper of a central relay station of the drum network; the Sengala post has no public holder"
+    - name: "Great Lubemo"
+      definition: "The sitting of the five paramounts that renews the Pact every fourth dry season at Heto Lubemo"
+    - name: "Shorinya Ndafo"
+      definition: "The Great Brightness, the source of all spirits, which receives no offering"
   appearanceProfile:
     frame: {light: 3, medium: 5, heavy: 3}
     eye_color: {dark_brown: 7, brown: 2, black: 1}
@@ -18,7 +37,7 @@ data:
 # terran_analog: "Iroquois Confederacy (Haudenosaunee), Sotho-Tswana morafe and Shona heirs of Great Zimbabwe: five clan-nations bound by an ancient pact, cattle-pastoral, with a stone-ruin heritage. Carries over: a league of distinct nations under a shared covenant renewed in person, council by consensus, cattle wealth, totem clans. Departs: the five clans keep lion, crocodile, eagle, leopard and baobab totems and differ in dress, dialect and marriage custom."
 ---
 
-There is no Nyáluba people in the way a foreigner means it. There are five nations that share a language, a faith and a pact, and that differ in dress, dialect, ritual, marriage custom and self-conception far enough that a Ruwozi cattle-herder and a Kolembozi reed-fisher would never mistake each other for the same kind of person. What both would say at once is that they are heirs of the Long Pact. The Pact is the culture; everything else is clan.
+There is no Nyáluba people in the way a foreigner means it. There are five nations that share a language, a faith and a pact, and that differ in dress, dialect, ritual, marriage custom and self-conception far enough that a Ruwozi cattle-herder and a Kolembozi reed-fisher are never taken for the same kind of person. What both would say at once is that they are heirs of the Long Pact. The Pact is the culture; everything else is clan.
 
 ## The Pact, and What It Forbids
 
@@ -73,9 +92,9 @@ The Nyáluba admire in him what their whole tradition rests on: that he remember
 
 ## The Woman Admired
 
-**Lushéya nu Kolembozi**, senior spirit-speaker of the Kolembozi, is the Nyáluba's admired woman. She walked into an Old Heto at her initiation and walked out speaking the Stone Tongue, the speech the Ngonzi elders say belonged to the stone-builders and no living Nyáluban understands. The griots have entered the report in the record of the Lubemo, and the Ngonzi have confirmed it. She says nothing of what the tongue is for.
+**Lusheya nu Kolembozi**, senior spirit-speaker of the Kolembozi, is the Nyáluba's admired woman. She walked into an Old Heto at her initiation and walked out speaking the Stone Tongue, the speech the Ngonzi elders say belonged to the stone-builders and no living Nyáluban understands. The griots have entered the report in the record of the Lubemo, and the Ngonzi have confirmed it. She says nothing of what the tongue is for.
 
-The Nyáluba admire in her the same restraint the griots show with words, turned to the spirits: she stood at the border of the world the clans share with the dead, and she came back without claiming what she brought. Her admiration is not a lesser form of Bonzimbe's. He keeps what has been given, and she goes where the giving is hard. Nzobu Ruwozi, the sixth woman to bear the title Nyóli Ruwozi, convenes the Lubemo and holds the higher rank; Lushéya holds the harder office. Her cost is that she cannot say what she knows: the Ngonzi hold one answer on whose dead the builders were and the baobab griots another, and the record holds only that the two differ.
+The Nyáluba admire in her the same restraint the griots show with words, turned to the spirits: she stood at the border of the world the clans share with the dead, and she came back without claiming what she brought. Her admiration is not a lesser form of Bonzimbe's. He keeps what has been given, and she goes where the giving is hard. Nzobu Ruwozi, the sixth woman to bear the title Nyoli Ruwozi, convenes the Lubemo and holds the higher rank; Lusheya holds the harder office. Her cost is that she cannot say what she knows: the Ngonzi hold one answer on whose dead the builders were and the baobab griots another, and the record holds only that the two differ.
 
 ## What the Five Keep
 
@@ -130,7 +149,7 @@ Defense, disaster, deaths in senior lineages, ceremonial timing, market prices a
 
 ## What the Brightness Asks of an Ordinary Day
 
-The Nyáluba recognize no supreme god and would not accept that the Great Brightness, Shorínya Ndáfo, is one. All spirits came from it and all return to it, and it receives nothing: no offering, no song, no shrine. Nothing the dead are owed goes to it. The dead who matter on an ordinary day are the ancestors, and they are guides: an ancestor attends the descendants of the clan that remembers his name. The afterlife is therefore a matter of being remembered right, and the person who forgets a name or lets a griot lose a line has lost a guide for the clan.
+The Nyáluba recognize no supreme god and would not accept that the Great Brightness, Shorinya Ndafo, is one. All spirits came from it and all return to it, and it receives nothing: no offering, no song, no shrine. Nothing the dead are owed goes to it. The dead who matter on an ordinary day are the ancestors, and they are guides: an ancestor attends the descendants of the clan that remembers his name. The afterlife is therefore a matter of being remembered right, and the person who forgets a name or lets a griot lose a line has lost a guide for the clan.
 
 The Lobwezi and Ngonzi griots tell how the Brightness came differently, and neither telling is ruled true. In the first it was a root, patient and under everything, and each guide is a piece of it that took the shape of the ground it fell on. In the second it was a flight across the sky from the east, the guides are the sparks it shed over the highlands, and it returns at the end of all things by the road it left. Neither clan has ever brought the difference to the Great Lubemo.
 
@@ -182,24 +201,12 @@ The sin is the drought-war. Three generations ago famine pushed neighboring trib
 - [[place-sthrnsvnhs|Southern Savannahs]]—the country the clans move through
 - [[affiliation-nyalbpnthn|Nyáluba Pantheon]]—the totems, the spirits and the three postures
 - [[lore-nyalbsprts|Nyáluba Spirits]]—the spirits themselves and how they are handled
-- [[lore-shorinyadty|Shorínya Ndáfo]]—the Great Brightness, which receives nothing
-- [[lore-stonetongue|The Stone Tongue]]—the record and a fireside telling of Lushéya's initiation
+- [[lore-shorinyadty|Shorinya Ndafo]]—the Great Brightness, which receives nothing
+- [[lore-stonetongue|The Stone Tongue]]—the record and a fireside telling of Lusheya's initiation
 - [[place-hetolubemo|Heto Lubemo]]—the enclosure where the Pact is renewed
 - [[skill-griot|Griot]]—why a recital is not a story
 - [[skill-nyalbnlng|Nyáluban]]—the tongue the five clans share
 
 ## Glossary {#glossary}
 
-| Term              | Meaning                                                                                                              |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------- |
-| drum-master       | Keeper of a central relay station of the drum network; the Sengala post has no public holder                         |
-| drum-speaker      | Relayer of messages in the drum-language, who also keeps the drumming that opens every rite                          |
-| Great Lubemo      | The sitting of the five paramounts that renews the Pact every fourth dry season at Heto Lubemo                       |
-| griot             | A keeper of genealogies, pacts and judgments, whose standing rests on remembering them exactly                       |
-| kwendari zohiring | "Teachers of the spirit": the spirit-speakers, taken through the ordeal                                              |
-| lubemo            | A council, a sitting that talks until no one objects                                                                 |
-| Nyóli Ruwozi      | "Daughter of the Lion": the hereditary title of the senior Ruwozi woman, the paramount who convenes the Great Lubemo |
-| Old Heto          | A stone enclosure of the lost builders in the highlands, held by the Ngonzi and closed to others                     |
-| Shorínya Ndáfo    | The Great Brightness, the source of all spirits, which receives no offering                                          |
-| spirit-speaker    | One taken through the ordeal and trained to address and negotiate with the guides for a clan                         |
-| trail-reader      | A Fénjara tracker who follows trails across the spirit world                                                         |
+The full dictionary is in the [[skill-nyalbnlng#lexicon|Nyáluban Language note]].

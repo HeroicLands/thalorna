@@ -1,9 +1,9 @@
 ---
 shortcode: cnclnbrls
-name: {full: Council of Nebrális, aliases: []}
+name: {full: Council of Nebralis, aliases: []}
 type: affiliation
 subType: polity
-description: "The governing council of Nebrális, a port town in Tarvénia."
+description: "The governing council of Nebralis, a port town in Tarvénia."
 tags: [draft]
 data:
   templatePriority: null
@@ -13,16 +13,16 @@ data:
   governance:
     model: council
     summary: >-
-      The governing council of Nebrális.
+      The governing council of Nebralis.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          One put out of Nebrális by its council, without protection of its law and unwelcome inside its walls.
+          One put out of Nebralis by its council, without protection of its law and unwelcome inside its walls.
       - level: 1
         title: Resident
         description: >-
-          Lives in Nebrális under its council.
+          Lives in Nebralis under its council.
     offices: {}
   seat: nebralis
   population: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
-The **Council of Nebrális** governs [[place-nebralis|Nebrális]], a port town in [[place-tarvenirgn|Tarvénia]].
+The **Council of Nebralis** governs [[place-nebralis|Nebralis]], a port town in [[place-tarvenirgn|Tarvénia]].

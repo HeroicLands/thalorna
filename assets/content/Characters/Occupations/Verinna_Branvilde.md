@@ -1,6 +1,6 @@
 ---
 shortcode: vrynbrnwyld
-name: {full: Verìnna Branvìlde, aliases: []}
+name: {full: Verinna Branvilde, aliases: []}
 type: being
 subType: npc
 tags: [draft, clergy]
@@ -396,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Verìnna Branvìlde is a 30-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a wide forehead, and a strong jaw that leads to a pointed chin. Her round blue eyes sit beneath straight brows, lending her a candid gaze. A straight nose and narrow lips complete her features. She has medium-toned skin with a fair complexion. Her dark brown hair is twisted into an elaborate arrangement.
+Verinna Branvilde is a 30-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a wide forehead, and a strong jaw that leads to a pointed chin. Her round blue eyes sit beneath straight brows, lending her a candid gaze. A straight nose and narrow lips complete her features. She has medium-toned skin with a fair complexion. Her dark brown hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Verìnna Branvìlde came into the world of the shaman through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Verinna Branvilde came into the world of the shaman through a combination of circumstance and aptitude.
 
-Verìnna was chosen at a young age to train as a shaman, believed to possess a strong connection to the spirit world. She has served her tribe for over a decade, performing rituals, divining omens, and healing the sick. Despite her abilities, she often feels the weight of responsibility and struggles to balance her duties with her desire for a more ordinary life.
+Verinna was chosen at a young age to train as a shaman, believed to possess a strong connection to the spirit world. She has served her tribe for over a decade, performing rituals, divining omens, and healing the sick. Despite her abilities, she often feels the weight of responsibility and struggles to balance her duties with her desire for a more ordinary life.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ Sometimes doubts her abilities and is hesitant to make decisions.
 
 ### Motivation
 
-Verìnna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in shaman work keep her vigilant and adaptable.
+Verinna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in shaman work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -420,15 +420,15 @@ Skilled in divination, experienced in herbal medicine, strong spiritual connecti
 
 ## Social
 
-Verìnna is affiliated with Tribal Shamanic Circle.
+Verinna is affiliated with Tribal Shamanic Circle.
 
-As a Provenzian shaman, Verìnna occupies a recognized social niche within Provènzia society.
+As a Provenzian shaman, Verinna occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Verìnna's primary patron is Tribal elders who mentor her in the shamanic traditions. This relationship provides both opportunity and obligation.
+Verinna's primary patron is Tribal elders who mentor her in the shamanic traditions. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,12 +436,12 @@ Skeptics within the tribe who challenge her authority.
 
 ## Plot Hooks
 
-1. **The Shaman's Dilemma**—Verìnna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Shaman's Dilemma**—Verinna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
 2. **Old Grudges**—Skeptics within the tribe who challenge her authority. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Verìnna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Verinna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Verìnna depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Verinna depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Verìnna the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Verinna the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

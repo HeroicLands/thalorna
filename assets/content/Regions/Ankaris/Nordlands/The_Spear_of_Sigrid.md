@@ -1,14 +1,14 @@
 ---
 shortcode: sprsigrid
-name: {full: The Spear of Sigrid, aliases: []}
+name: {full: The Spear of Skraldthira, aliases: []}
 type: miscgear
-description: "One of the three regalia of Gróa's quest—hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
+description: "One of the three regalia of Groa's quest—hidden in an ancient shrine and held by a spirit guardian who must be answered in the spirit world rather than fought."
 tags: [artifact, regalia, nordlands]
 data: {templatePriority: null, packFolder: nordlands}
 sohl: {system: {weightBase: 5, valueBase: 0, durabilityBase: 15}}
 ---
 
-One of the **three regalia** required to seal away [[being-njorven|Njörven]], with the
+One of the **three regalia** required to seal away [[being-njorven|Njorven]], with the
 [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Hafvald]].
 
 The Spear is hidden within an **ancient shrine**, guarded by a powerful **spirit guardian**, and it is
@@ -25,9 +25,9 @@ Solving the trials unlocks the Spear. **Brute strength leads to failure**—not 
 to failure, and a seeker who tries force does not get a second attempt at the same trial.
 
 This makes the Spear the natural first regalia in play, because it establishes the campaign's thesis
-before the party has invested in the wrong approach: Njörven is not a problem that can be hit.
+before the party has invested in the wrong approach: Njorven is not a problem that can be hit.
 
-## Sigrid
+## Skraldthira
 
 An ancestral figure of the [[place-nrdlndsrgn|Nordlands]] whose name survives on the spear and very little else. The
 sagas that mention her do not agree on when she lived or what she did with it, and the shrine is not
@@ -35,4 +35,4 @@ hers—it merely holds the weapon.
 
 ## See Also
 
-- [[scenario-groascmpgn|Gróa's Campaign]] · [[lore-njordurritlbinding|The Ritual of Binding]]
+- [[scenario-groascmpgn|Groa's Campaign]] · [[lore-njordurritlbinding|The Ritual of Binding]]

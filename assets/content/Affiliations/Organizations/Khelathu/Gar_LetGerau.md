@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-A guild's certificate says a piece meets the trade's minimum; the name of **Gar-Let'Gerau** promises more. The Let'Gerau are a hereditary line of craftsmen whose family name carries weight in the guild halls of [[place-aukhelathrgq|Aû'Khelâthu]] whatever guild any one member belongs to, and members are expected to hold to standards of workmanship the wider trade often finds inconvenient. A buyer willing to pay for the name expects work that a guild-certified piece alone does not promise, and the lineage's members know it.
+A guild's certificate says a piece meets the trade's minimum; the name of **Gar-Let'Gerau** promises more. The Let'Gerau are a hereditary line of craftsmen whose family name carries weight in the guild halls of [[place-aukhelathrgq|Au'Khelathu]] whatever guild any one member belongs to, and members are expected to hold to standards of workmanship the wider trade often finds inconvenient. A buyer willing to pay for the name expects work that a guild-certified piece alone does not promise, and the lineage's members know it.
 
 ## Character
 
@@ -50,7 +50,7 @@ The standard is inconvenient to the wider trade, which prefers a certificate to 
 
 ## Relations
 
-A member of the line belongs to a guild like anyone else and stays within it; the Let'Gerau are a family, not a rival body. What they carry from guild to guild is the name, and the name carries weight in the guild halls of [[place-aukhelathrgq|Aû'Khelâthu]] whatever guild the member belongs to. A master of any craft in the hall knows what it means when a Let'Gerau stands up at a quality dispute.
+A member of the line belongs to a guild like anyone else and stays within it; the Let'Gerau are a family, not a rival body. What they carry from guild to guild is the name, and the name carries weight in the guild halls of [[place-aukhelathrgq|Au'Khelathu]] whatever guild the member belongs to. A master of any craft in the hall knows what it means when a Let'Gerau stands up at a quality dispute.
 
 ## Commerce and Currency
 
@@ -60,4 +60,4 @@ So when you commission a piece, say plainly whether you want the certificate or 
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to

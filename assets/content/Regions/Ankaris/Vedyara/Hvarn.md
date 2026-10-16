@@ -3,7 +3,7 @@ shortcode: hvarnguides
 name: {full: The Hvarn, aliases: []}
 type: affiliation
 subType: polity
-description: The guide-people of the Eastern Reach—fewer, poorer and better connected than the Ösket, keeping the two eastern crossings and supplying the one fort on the wall.
+description: The guide-people of the Eastern Reach—fewer, poorer and better connected than the Osket, keeping the two eastern crossings and supplying the one fort on the wall.
 tags: []
 data:
   culture: hvarnclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: confederation
     summary: >-
-      A single winter council of hearth-heads that sits each year at Nürvhrn and disperses, with the two eastern crossings worked in rotation rather than held by descent.
+      A single winter council of hearth-heads that sits each year at Nurvharn and disperses, with the two eastern crossings worked in rotation rather than held by descent.
     ranks:
       - level: 0
         title: Unhoused
@@ -45,7 +45,7 @@ data:
         description: >-
           Presiding over the winter council, holding the order of speaking and no authority when it rises.
     offices:
-      Winter-speaker: Presiding officer of the council that sits at Nürvhrn through the closed months.
+      Winter-speaker: Presiding officer of the council that sits at Nurvharn through the closed months.
       Hearth-head: Head of a winter hearth, answerable for its people and its share of the crossings.
       Reach-guide: Holder of a crossing of the Eastern Reach for the season it is assigned to him.
       Turn-keeper: >-
@@ -69,19 +69,19 @@ data:
 sohl: {system: {commonSkills: [hvarnlng]}}
 ---
 
-The **Hvarn** hold [[place-jnanadvara|Jñānadvāra]] and [[place-sankhadvra|Shankhadvāra]], the two crossings of [[place-estrnreach|the Eastern Reach]]. There are nine thousand of them, they are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
+The **Hvarn** hold [[place-jnanadvara|Jnanadvara]] and [[place-sankhadvra|Shankhadvara]], the two crossings of [[place-estrnreach|the Eastern Reach]]. There are nine thousand of them, they are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
 
 ## The Rotation
 
-Where the [[affiliation-osketguides|Ösket]] hold a road by descent, the Hvarn share theirs out. Each winter the hearth-heads sit at [[place-nurvhrn|Nürvhrn]] and assign the coming season's crossings between them, settle what the last season's assignments left owing, and disperse. A hearth that drew the conch-door two years running is owed something; a hearth that lost a party is not given a road until the council says so.
+Where the [[affiliation-osketguides|Osket]] hold a road by descent, the Hvarn share theirs out. Each winter the hearth-heads sit at [[place-nurvhrn|Nurvharn]] and assign the coming season's crossings between them, settle what the last season's assignments left owing, and disperse. A hearth that drew the conch-door two years running is owed something; a hearth that lost a party is not given a road until the council says so.
 
-The system exists because the eastern trade cannot support the western arrangement. Two crossings, one of them almost unused, will not keep six lineages in the manner a single [[place-suryadvara|Sūryadvāra]] lineage keeps itself, so the Hvarn pool the work and the debt and argue about it once a year in one room.
+The system exists because the eastern trade cannot support the western arrangement. Two crossings, one of them almost unused, will not keep six lineages in the manner a single [[place-suryadvara|Suryadvara]] lineage keeps itself, so the Hvarn pool the work and the debt and argue about it once a year in one room.
 
 ## The Fort
 
 [[place-sanghafort|The Sangha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janapadas, and is the single largest piece of Hvarn income. The **Fort-carrier** who negotiates it is the one member of the people who speaks fluent lowland Vedyari, and the one the garrison's officers know by name.
 
-It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-vindhyalay|Shikharālaya]] resents and the Hvarn decline to discuss.
+It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-vindhyalay|Shikharalaya]] resents and the Hvarn decline to discuss.
 
 ## The Dead
 
@@ -89,5 +89,5 @@ The **Bone-bringer** is the Hvarn office with the longest memory. He recovers th
 
 ## See Also
 
-- [[place-estrnreach|The Eastern Reach]] · [[place-nurvhrn|Nürvhrn]] · [[place-sanghafort|The Sangha-fort]]
-- [[affiliation-osketguides|The Ösket]] · [[affiliation-janpdsvdyr|Janapadas of Vedyara]] · [[skill-hvarnlng|The Hvarn Tongue]]
+- [[place-estrnreach|The Eastern Reach]] · [[place-nurvhrn|Nurvharn]] · [[place-sanghafort|The Sangha-fort]]
+- [[affiliation-osketguides|The Osket]] · [[affiliation-janpdsvdyr|Janapadas of Vedyara]] · [[skill-hvarnlng|The Hvarn Tongue]]

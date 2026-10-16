@@ -3,12 +3,12 @@ shortcode: sturgeonroad
 name: {full: The Sturgeon Road, aliases: []}
 type: lore
 subType: theology
-description: "A Varokhi fireside poem about Véthar yra Thalruvan wur Grimholt's journey through the spirit realm and Grimholt's repair of a violated burial mound."
+description: "A Varokhi fireside poem about Vethar yra Thalruvan wur Grimholt's journey through the spirit realm and Grimholt's repair of a violated burial mound."
 tags: [varokhi, epic, oral-tradition]
 data: {packFolder: vrystwald, culture: varokhiclt}
 ---
 
-_A fireside telling of [[being-vthargrmhlt|Véthar yra Thalruvan wur Grimholt]]. The singers of [[place-grimholt|Grimholt]] call this a tale, not a witness account; its details change from hearth to hearth._
+_A fireside telling of [[being-vthargrmhlt|Vethar yra Thalruvan wur Grimholt]]. The singers of [[place-grimholt|Grimholt]] call this a tale, not a witness account; its details change from hearth to hearth._
 
 ```prose {title="The Sturgeon Road"}
 At Grimholt, where the slow brown river bends,
@@ -16,7 +16,7 @@ the wharf boards knew more feet than the council floor.
 Fur went south, grain came north, and bright coins crossed
 from one wet palm into another before the sun was high.
 The Other Chief counted every load. The War Chief watched the wall.
-Véthar, keeper of the sturgeon, watched the water beneath it.
+Vethar, keeper of the sturgeon, watched the water beneath it.
 He saw a white shape pass where no fish should swim,
 and waited for a second sign, and then for a third.
 
@@ -29,7 +29,7 @@ Then children woke beside the river with mud on their feet.
 A lamp went out whenever it faced the grove.
 At dusk, hungry things gathered where the bank had split.
 
-Véthar knew the marks, but knowing did not ease him.
+Vethar knew the marks, but knowing did not ease him.
 He had feared the council would call him a teller of shadows;
 now the shadows had learned the names of the sleeping.
 He stood before the other two seats and spoke his delay aloud.
@@ -38,7 +38,7 @@ The War Chief named guards for the mound and the doors.
 Neither yielded a seat; all three took up their charge.
 The living must carry what the living have broken.
 
-Véthar went upriver, past the nets stiff with frost,
+Vethar went upriver, past the nets stiff with frost,
 past trees whose roots held more old names than any skald.
 His owl followed, soundless as the space between two breaths.
 It was his own companion, not the clan's river wesk;
@@ -60,7 +60,7 @@ Under that water lay a road of blackened reeds.
 The sturgeon moved ahead, vast and scarred, carrying no crown.
 Beyond its wake, lean spirits nosed along the banks,
 searching for weakness as winter wolves search for lambs.
-A voice offered Véthar the names of those cast out.
+A voice offered Vethar the names of those cast out.
 Another promised the place where the next spear would fall.
 A third wore his mother's voice and promised to show him the dead's hidden country.
 He gave none the question it wanted him to ask.
@@ -78,7 +78,7 @@ The hungry things rushed him as he turned for home.
 They called his caution cowardice, his silence wisdom,
 his mother's voice a doorway he could open with one word.
 His owl cried once above the reeds; the sturgeon held its course.
-Véthar kept his mouth closed against the tempting questions.
+Vethar kept his mouth closed against the tempting questions.
 He could hear the fire crackle on the farther shore.
 He swam for that sound and woke beneath his people's hands,
 with river water on his lips and no prophecy to sell.
@@ -89,25 +89,25 @@ The three men confessed before the households they had frightened;
 the council reckoned what they owed and who would carry it.
 The War Chief guarded the path while the bowl came back.
 Kin bore the comb and knife to the opened mound.
-Véthar guided the rite, and hands that had taken earth
+Vethar guided the rite, and hands that had taken earth
 set it down again, layer by careful layer.
 
 No one says the hungry spirits died. They were spirits,
 and the Varokh had no right to promise their end.
 But that night no child walked sleeping to the river.
 The lamp burned facing the grove; the nets held their catch.
-Véthar did not ask the dead whether they approved.
+Vethar did not ask the dead whether they approved.
 He thanked the sturgeon, fed his owl, and sat beside the fire
 while the three leaders planned the next watch together.
 The living must carry what the living have broken.
 
-Next dawn the bronze bowl stood empty by Véthar's hearth.
+Next dawn the bronze bowl stood empty by Vethar's hearth.
 The mound lay closed; no guard confessed to carrying it.
 Some blamed a human hand, some named the river's patience.
-Véthar bore it back without asking whose hand had lifted it.
+Vethar bore it back without asking whose hand had lifted it.
 
 One young spear-bearer asked why he had not struck the shadows.
-Véthar said a blade can open a wound it cannot close.
+Vethar said a blade can open a wound it cannot close.
 Another asked what the dead had told him; he shook his head.
 “Ask the living what we owe,” he said, “and help them pay.”
 

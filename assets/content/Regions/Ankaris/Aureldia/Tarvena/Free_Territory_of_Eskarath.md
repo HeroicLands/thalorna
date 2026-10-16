@@ -1,12 +1,12 @@
 ---
 shortcode: frtrtryskrth
-name: {full: Free Territory of Eskárath, aliases: []}
+name: {full: Free Territory of Eskarath, aliases: []}
 type: affiliation
 subType: polity
-description: "Highland territory on the border with Élavendre, home to an ancient pre-Tarvéni people—fiercely independent even by Tarvénan standards, speaking their own language and following their own law."
+description: "Highland territory on the border with Élavendre, home to an ancient pre-Tarvéni people—fiercely independent even by Tarvenan standards, speaking their own language and following their own law."
 data:
   templatePriority: null
-  demonym: Eskárath
+  demonym: Eskarath
   epithet: null
   symbol: null
   governance:
@@ -73,34 +73,34 @@ sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
 - **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (barely acknowledged)
-- **Language:** Eskári (primary), Tarvéni (secondary)
-- **Naming Convention:** [[skill-tarvenlng|Tarvéni]] (with local Eskári variations)
-- **Pantheon:** [[affiliation-arldnpnthn|Aurèldían]] (nominal), with strong pre-Aurèldían animistic traditions
-- **Government:** Council of elders (the Biltzárrath) drawn from highland clans
+- **Language:** Eskari (primary), Tarveni (secondary)
+- **Naming Convention:** [[skill-tarvenlng|Tarveni]] (with local Eskari variations)
+- **Pantheon:** [[affiliation-arldnpnthn|Aureldian]] (nominal), with strong pre-Aureldían animistic traditions
+- **Government:** Council of elders (the Biltzarrath) drawn from highland clans
 
 ## Overview
 
-The Free Territory of Eskárath holds the land of [[place-eskarath|Eskárath]]. The Eskárathi speak their own language—**Eskári**, a linguistic isolate with no known relatives—maintain their own legal customs, and acknowledge the High King of [[affiliation-kingdmtrvn|Tarvénia]] only in the loosest possible sense. They are fiercely independent even by Tarvénan standards, which is saying a great deal.
+The Free Territory of Eskarath holds the land of [[place-eskarath|Eskarath]]. The Eskárathi speak their own language—**Eskari**, a linguistic isolate with no known relatives—maintain their own legal customs, and acknowledge the High King of [[affiliation-kingdmtrvn|Tarvénia]] only in the loosest possible sense. They are fiercely independent even by Tarvenan standards, which is saying a great deal.
 
 ## Character
 
-The Eskárathi are not Tarvéni. They know it, the Tarvéni know it, and both sides have long since agreed to a mutual arrangement: the Eskárathi provide fearsome mountain warriors when the High King calls the ban against a foreign threat, and in return, the rest of Tarvénia leaves them alone. This arrangement has held for centuries, with occasional interruptions when an ambitious High King or Vylarian _thêrkhôs_ (governor) tries to impose direct rule—attempts that have invariably ended badly for the outsider; the first Vylarian _thêrkhôs_ to try it lost his escort in the high meadows and was not replaced ([[lore-lowlandstaken|The Lowlands Taken]]).
+The Eskárathi are not Tarveni. They know it, the Tarveni know it, and both sides have long since agreed to a mutual arrangement: the Eskárathi provide fearsome mountain warriors when the High King calls the ban against a foreign threat, and in return, the rest of Tarvénia leaves them alone. This arrangement has held for centuries, with occasional interruptions when an ambitious High King or Vylarian _therkos_ (governor) tries to impose direct rule—attempts that have invariably ended badly for the outsider; the first Vylarian _therkos_ to try it lost his escort in the high meadows and was not replaced ([[lore-lowlandstaken|The Lowlands Taken]]).
 
-Eskári culture is ancient, insular, and deeply rooted in the highland landscape. The people live in scattered mountain communities governed by clan elders, and major decisions affecting the territory as a whole are made by the **Biltzárrath**—a council of elders that meets in a high mountain meadow at the summer solstice. The Biltzárrath has no permanent seat, no bureaucracy, and no written constitution; it operates on oral tradition and consensus, and its decisions carry the weight of centuries of custom.
+Eskari culture is ancient, insular, and deeply rooted in the highland landscape. The people live in scattered mountain communities governed by clan elders, and major decisions affecting the territory as a whole are made by the **Biltzarrath**—a council of elders that meets in a high mountain meadow at the summer solstice. The Biltzarrath has no permanent seat, no bureaucracy, and no written constitution; it operates on oral tradition and consensus, and its decisions carry the weight of centuries of custom.
 
-The Eskárathi religion is nominally [[affiliation-arldnpnthn|Aurèldían]], but in practice it is layered over a much older animistic tradition. The highland people venerate mountain spirits, forest guardians, and ancestral figures alongside (or instead of) the Aurèldían gods. Shrines to local spirits are found at mountain passes, springs, and ancient oak groves, and the folk practices of the Eskárathi have more in common with the [[lore-aelendnppl|Áelendan traditions]] across the border in [[place-elavendre|Élavendre]] than with anything in lowland Tarvénia. This cultural affinity with the Élavendren highlands—and the ethnic distinctiveness from the Tarvéni—gives the Eskárathi a liminal quality, belonging fully to neither Tarvénia nor Élavendre.
+The Eskárathi religion is nominally [[affiliation-arldnpnthn|Aureldian]], but in practice it is layered over a much older animistic tradition. The highland people venerate mountain spirits, forest guardians, and ancestral figures alongside (or instead of) the Aureldian gods. Shrines to local spirits are found at mountain passes, springs, and ancient oak groves, and the folk practices of the Eskárathi have more in common with the [[lore-aelendnppl|Áelendan traditions]] across the border in [[place-elavendre|Élavendre]] than with anything in lowland Tarvénia. This cultural affinity with the Élavendren highlands—and the ethnic distinctiveness from the Tarveni—gives the Eskárathi a liminal quality, belonging fully to neither Tarvénia nor Élavendre.
 
-The [[affiliation-ordoarcanis|Thôrdimâlon]] has never established a presence in Eskárath. The few Arcane Order agents who have ventured into the highlands report that the Eskárathi have their own magical traditions—herb-lore, weather-reading, and a form of ancestral communion—that they practice openly and refuse to submit to outside regulation.
+The [[affiliation-ordoarcanis|Thordimalon]] has never established a presence in Eskarath. The few Arcane Order agents who have ventured into the highlands report that the Eskárathi have their own magical traditions—herb-lore, weather-reading, and a form of ancestral communion—that they practice openly and refuse to submit to outside regulation.
 
 ## Commerce and Currency
 
-Free Territory of Eskárath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Free Territory of Eskárath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Free Territory of Eskarath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Free Territory of Eskarath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord (barely)
 - [[place-tarvenirgn|Tarvénia Region]]—Regional overview
-- [[place-eskarath|Eskárath]]—The land the Free Territory holds
+- [[place-eskarath|Eskarath]]—The land the Free Territory holds
 - [[place-elavendre|Élavendre]]—Northern neighbor (cultural affinity)
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—The three kingdoms
-- [[affiliation-frctyvlthr|Free City of Valthári]]—Fellow Tarvénan free polity
+- [[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—The three kingdoms
+- [[affiliation-frctyvlthr|Free City of Valthari]]—Fellow Tarvenan free polity

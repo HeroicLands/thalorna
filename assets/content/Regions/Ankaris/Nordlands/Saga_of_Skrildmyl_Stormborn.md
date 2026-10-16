@@ -1,6 +1,6 @@
 ---
 shortcode: sagaskrildmyl
-name: {full: Saga of Skrildmýl Stormborn, aliases: []}
+name: {full: Saga of Skrilmil Stormborn, aliases: []}
 type: lore
 subType: literature
 description: "An attributed Nordmen hero saga of the winter journey to Thrumufjall and the clearing of the storms."
@@ -13,9 +13,9 @@ data:
   subjects: [being-skrldmylstrmbrn, place-thrumufjall, lore-thrunvalddty]
 ---
 
-Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-skrldmylstrmbrn|Skrildmýl Stormborn]] leading his people through winter storms to [[place-thrumufjall|Thrumufjall]]. Whether he once walked the north or belongs to its songs, the skalds praise his endurance and the clearing they attribute to [[lore-thrunvalddty|Thrúnvald]]. The Winter Witch claims the storms as her own work; her claim travels beside the tale, unanswered.
+Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-skrldmylstrmbrn|Skrilmil Stormborn]] leading his people through winter storms to [[place-thrumufjall|Thrumufjall]]. Whether he once walked the north or belongs to its songs, the skalds praise his endurance and the clearing they attribute to [[lore-thrunvalddty|Thrunvald]]. The Winter Witch claims the storms as her own work; her claim travels beside the tale, unanswered.
 
-: Saga of Skrildmýl Stormborn {#saga}
+: Saga of Skrilmil Stormborn {#saga}
 
 ```poetry {form=epic lang=en}
 Hear now, hearth keepers,
@@ -24,7 +24,7 @@ Snow shakes the shutters;
 sparks climb the smoke.
 Bench boards bear us;
 burden bearers are sung.
-Skrildmýl, storm tested,
+Skrilmil, storm tested,
 stands in our telling.
 
 Hammer hard his schooling,
@@ -33,7 +33,7 @@ Fathers taught him fighting;
 folk needed more than blows.
 Fire must be tended;
 food must reach the frail.
-Thrúnvald heard their homage;
+Thrunvald heard their homage;
 thunder hallowed their hope.
 
 Blue eyed the bearer,
@@ -72,7 +72,7 @@ our hearth cannot hold out.
 Voices varied in asking;
 one dread drove their words.
 
-Skrildmýl sat and listened;
+Skrilmil sat and listened;
 silence steadied his heart.
 Faith faces a testing;
 folk must hold together.
@@ -96,7 +96,7 @@ No eye knew the pathway;
 no ease softened the choice.
 His people packed their burdens;
 prayer went with provisions.
-Skrildmýl shouldered the weather;
+Skrilmil shouldered the weather;
 steps followed where he stood.
 
 Snow struck their faces;
@@ -150,10 +150,10 @@ Home hid beneath the snowfall;
 hearth light lived in memory.
 Thrúnhamarr had struck here;
 the telling held that hope.
-Skrildmýl stopped at the summit;
+Skrilmil stopped at the summit;
 snow streamed across his shield.
 
-Thrúnvald, thunder keeper,
+Thrunvald, thunder keeper,
 take heed of these voices.
 Hammer lord, hear us;
 here your people stand.
@@ -229,9 +229,9 @@ Wide runs his wish for union;
 war worn clans need peace.
 Jarls guard their own grandeur;
 jealous hearts reckon losses.
-Hnirvmýl's wisdom once bound allies;
+Hnirmil's wisdom once bound allies;
 his hope remembers that bond.
-Skrildmýl seeks a shared purpose;
+Skrilmil seeks a shared purpose;
 songs cannot swear its success.
 
 Many mouths need feeding;
@@ -258,12 +258,12 @@ Keep close through the winter;
 keep courage for the climb.
 When another's footing falters,
 find room beside your shoulder.
-Skrildmýl, storm tested,
+Skrilmil, storm tested,
 stands in our telling.
 ```
 
 ## See Also
 
-- [[being-skrldmylstrmbrn|Skrildmýl Stormborn]]
+- [[being-skrldmylstrmbrn|Skrilmil Stormborn]]
 - [[doc-heroessgrd|Heroes of Asguard]]
-- [[affiliation-thrunvald|Faith of Thrúnvald]]
+- [[affiliation-thrunvald|Faith of Thrunvald]]

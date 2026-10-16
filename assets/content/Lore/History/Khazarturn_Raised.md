@@ -1,9 +1,9 @@
 ---
 shortcode: khazturnrsd
-name: {full: The Raising of Khazártúrn, aliases: [The Cutting of the Seven Towers]}
+name: {full: The Raising of Khazartúrn, aliases: [The Cutting of the Seven Towers]}
 type: lore
 subType: history
-description: "Khazártúrn is raised in 5123 BF—seven spurs of a mountain valley's cliff finished as towers, one to each clan, the joint city of all seven and the only thing the Khazári are known to have made as a single people."
+description: "Khazartúrn is raised in 5123 BF—seven spurs of a mountain valley's cliff finished as towers, one to each clan, the joint city of all seven and the only thing the Khazari are known to have made as a single people."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [lore-khazarturn, lore-flkkhazar]
       summary: >-
-        The Khazári cut a city into the cliff face of a mountain valley—seven spurs the cliff already held, finished as great towers standing out from the rock, one to each clan, and the city held jointly beneath them. It becomes the seat of an entire people's craft-records, home to some thirty thousand, and the greatest structure on Thalorna. It is the only thing the Khazári are known to have made as a single people.
+        The Khazari cut a city into the cliff face of a mountain valley—seven spurs the cliff already held, finished as great towers standing out from the rock, one to each clan, and the city held jointly beneath them. It becomes the seat of an entire people's craft-records, home to some thirty thousand, and the greatest structure on Thalorna. It is the only thing the Khazari are known to have made as a single people.
       standing: single-source
       names:
         - name: The Valley of Seven Towers
@@ -31,19 +31,19 @@ data:
             It was wondrous while it lived—the halls, the light, the fountains, the birds—and the memory of it comes out as elegy in songs whose subject is not announced.
           agrees: partly
           withholds: where it stands
-        - {by: lore-flkkhazar, says: Nothing. They never speak of Khazártúrn., agrees: silent}
+        - {by: lore-flkkhazar, says: Nothing. They never speak of Khazartúrn., agrees: silent}
       unresolved:
-        - where the valley stands, which appears on no map the Khazári have let out of their hands
+        - where the valley stands, which appears on no map the Khazari have let out of their hands
 ---
 
-[[lore-khazarturn|Khazártúrn]] was not a buried hold. It was cut into the cliff face of a mountain
+[[lore-khazarturn|Khazartúrn]] was not a buried hold. It was cut into the cliff face of a mountain
 valley—a city in a wall of rock with the valley open in front of it, which is why its halls could
 take daylight at all and why anyone thought to try. Standing out from that cliff were seven great
 towers, because there were **seven clans**, and each tower was that clan's. They were spurs the cliff
-already held, and the Khazári finished them until they could not be told from the rock.
+already held, and the Khazari finished them until they could not be told from the rock.
 
 Every one of the seven was finished to be indistinguishable from a natural feature of the valley, and
-outsiders almost always read that as concealment. It is not. A Khazári work is finished to belong to
+outsiders almost always read that as concealment. It is not. A Khazari work is finished to belong to
 the ground it stands in, bedded and weathered and faulted and carrying the same strata as the cliff,
 because that is what a well-made thing looks like from outside. Everything the Deep Folk have to say
 is said inside.
@@ -54,7 +54,7 @@ colonnades and galleries above galleries, fountains running in the main thorough
 roofed with painted open sky. Songbirds came in at the skylights, stayed, and nested in the high
 galleries, and were left alone.
 
-It is the one work in which what the Khazári wanted led over what the stone offered: daylight cut down
+It is the one work in which what the Khazari wanted led over what the stone offered: daylight cut down
 into the depths, water running because they could make it run, colonnades straight along the great
 ways, towers standing out from the cliff, and a hinterland reshaped to feed it.
 

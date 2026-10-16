@@ -1,16 +1,16 @@
 ---
 shortcode: meghanathadty
-name: {full: Meghanātha, aliases: []}
+name: {full: Meghonata, aliases: []}
 type: lore
 subType: deity
-description: "Lord of Thunder in the Varnaka pantheon, who drives the storms off the peaks and beats them out on a drum."
+description: "Lord of Thunder in the Varnuka pantheon, who drives the storms off the peaks and beats them out on a drum."
 tags: []
 data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _Lord of Thunder—a dark, wild-haired figure with a great drum under one arm and a lightning-spear raised in the other._
 
-Meghanātha is not a gentle god, and his worshippers do not pretend otherwise. He is the monsoon. The storm that feeds the plain and the storm that shuts the mountain road are one storm taken from two sides, and his gifts arrive with the same violence on either side.
+Meghonata is not a gentle god, and his worshippers do not pretend otherwise. He is the monsoon. The storm that feeds the plain and the storm that shuts the mountain road are one storm taken from two sides, and his gifts arrive with the same violence on either side.
 
 Fishermen bless their boats with his first rain of the season. Farmers time a planting to his drums. Caravan-masters read his temper before committing a season's goods to a pass. All three ask the same god to be spared this once.
 
@@ -20,4 +20,4 @@ Sailors and farmers wear a lightning amulet, a stylized silver bolt, as a sign o
 
 [[place-meghashkhr|Meghashikhara]] is his mountain. The wet air comes up from the south, meets the peak and stops; what falls out of the cloud falls on the Vedyari side, and the country beyond the ridge gets nothing.
 
-Meghadvāra beneath it has the shortest window of the six passes, and he is held to be the reason for it. The Ösket read the cloud on his summit at first light, which is to say they read his mood for the day.
+Meghadvara beneath it has the shortest window of the six passes, and he is held to be the reason for it. The Osket read the cloud on his summit at first light, which is to say they read his mood for the day.

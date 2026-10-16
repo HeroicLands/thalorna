@@ -1,6 +1,6 @@
 ---
 shortcode: linqelzkhlth
-name: {full: Lin'Qelzu elu Aû'Khelâthu, aliases: [The Locksmiths' Guild of Aû'Khelâthu]}
+name: {full: Lin'Qelzu elu Au'Khelathu, aliases: [The Locksmiths' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the empire's locksmiths, which shares its name with the society of thieves that studies its work, and does not find the coincidence amusing
@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Qelzu elu Aû'Khelâthu** is the chartered guild of the locksmiths of [[place-aukhelathrgq|Aû'Khelâthu]], the makers of the empire's vaults, strongboxes and door-locks. It sets the standard a lock must meet before it is sold as guild-work, and the owners of anything worth stealing look for that certification. It shares its name with a society of thieves that studies its members' work closely, a coincidence the guild does not find amusing and does nothing to encourage.
+**Lin'Qelzu elu Au'Khelathu** is the chartered guild of the locksmiths of [[place-aukhelathrgq|Au'Khelathu]], the makers of the empire's vaults, strongboxes and door-locks. It sets the standard a lock must meet before it is sold as guild-work, and the owners of anything worth stealing look for that certification. It shares its name with a society of thieves that studies its members' work closely, a coincidence the guild does not find amusing and does nothing to encourage.
 
 ## Character
 
@@ -56,5 +56,5 @@ Say a temple orders a new strongbox for its treasury. The temple's steward asks 
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire whose vaults and locks the guild certifies
+- [[place-aukhelathrgq|Au'Khelathu]]—The empire whose vaults and locks the guild certifies
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

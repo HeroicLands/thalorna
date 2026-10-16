@@ -1,9 +1,9 @@
 ---
 shortcode: gnurthmyl
-name: {full: Gnurthmýl, aliases: [Commander Gnurthmýl]}
+name: {full: Gnurthmil, aliases: [Commander Gnurthmil]}
 type: being
 subType: npc
-description: A stern but capable commander of the city guard under whom Vruldorv Dróttgar trained, now retired.
+description: A stern but capable commander of the city guard under whom Vruldorv Drottgar trained, now retired.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Gnurthmýl is a 47-year-old man who stands 6'1" tall with a medium build. He has tanned skin, weathered complexion, blonde hair, and hazel eyes.
+Gnurthmil is a 47-year-old man who stands 6'1" tall with a medium build. He has tanned skin, weathered complexion, blonde hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Gnurthmýl is a stern but capable commander of the city guard under whom [[being-vrldrvdrtgr|Vruldorv Dróttgar]] trained, now retired. Vruldorv visits him regularly and seeks his counsel on matters of honor and purpose.
+Gnurthmil is a stern but capable commander of the city guard under whom [[being-vrldrvdrtgr|Vruldorv Drottgar]] trained, now retired. Vruldorv visits him regularly and seeks his counsel on matters of honor and purpose.

@@ -48,7 +48,7 @@ For a new copyist the lesson is simple. Your hand will be admired. Your silence 
 
 ## Relations
 
-The consortium works outside the temple schools and takes the commissions they refuse. [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]], whose schools train the scribes the administration uses, is the institution the consortium's members have chosen not to join.
+The consortium works outside the temple schools and takes the commissions they refuse. [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]], whose schools train the scribes the administration uses, is the institution the consortium's members have chosen not to join.
 
 ## Commerce and Currency
 
@@ -56,5 +56,5 @@ A private commission pays for confidential copying, and the consortium guards th
 
 ## See Also
 
-- [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]]—The temple whose schools the consortium works outside
+- [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]]—The temple whose schools the consortium works outside
 - [[place-galezkara|Galezkara]]—The city the consortium works in

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Kalvaris is a market town of about 9,000 around an ancient hilltop precinct of the [[affiliation-arldnpnthn|Aurèldían]] faith, and it lives by its festivals. Several times a year the roads from the surrounding country choke with the devout and with the merchants who follow them, and the market squares fill.
+Kalvaris is a market town of about 9,000 around an ancient hilltop precinct of the [[affiliation-arldnpnthn|Aureldian]] faith, and it lives by its festivals. Several times a year the roads from the surrounding country choke with the devout and with the merchants who follow them, and the market squares fill.
 
 A pilgrim who has made the climb every year since she was a girl tells first-timers to budget for the crowd rather than the road: "Sleep at the foot of the hill the night before, or you will not get a place inside the precinct before the rites begin. Buy your offering from the first stall you pass and not the last, since the last stall's prices have been rising since dawn. And bring something to sit on. The squares are paved and the day is long."
 
@@ -24,6 +24,6 @@ The town and the precinct need each other: the pilgrims feed the market, and the
 
 ## See Also
 
-- [[affiliation-provinclys|Province of Alêssâ]]—the parent province
+- [[affiliation-provinclys|Province of Alessa]]—the parent province
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the imperial overview
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the faith whose precinct crowns the hill
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the faith whose precinct crowns the hill

@@ -3,7 +3,7 @@ shortcode: hvurnrinna
 name: {full: Hvurnrinna, aliases: [The Widow Hvurnrinna]}
 type: being
 subType: npc
-description: An elderly widow of considerable means who has adopted Althynda Eldskari as something of a spiritual protégé.
+description: An elderly widow of considerable means who has adopted Althinda Eldskari as something of a spiritual protégé.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Hvurnrinna is a 72-year-old woman who stands 5'10" tall with a light build. She 
 
 # Dossier {#dossier}
 
-Hvurnrinna is an elderly widow of considerable means who has adopted [[being-althyndeldskr|Althynda Eldskari]] as something of a spiritual protégé. She has purchased candles regularly and has begun subtly promoting Althynda's work to her social circle.
+Hvurnrinna is an elderly widow of considerable means who has adopted [[being-althyndeldskr|Althinda Eldskari]] as something of a spiritual protégé. She has purchased candles regularly and has begun subtly promoting Althinda's work to her social circle.

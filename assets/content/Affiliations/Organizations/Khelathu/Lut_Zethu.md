@@ -58,4 +58,4 @@ Ask a scribe of the guild for an introduction before you ask for a text. A good 
 
 ## See Also
 
-- [[affiliation-linzethkhlth|Lin'Zethu elu Aû'Khelâthu]]—The scribes' guild that holds it
+- [[affiliation-linzethkhlth|Lin'Zethu elu Au'Khelathu]]—The scribes' guild that holds it

@@ -16,9 +16,9 @@ Thraskvík is a port town on the coast of [[place-norgaad|Norgaad]], counted amo
 
 ## The Yards
 
-The town's standing rests on those families, and a renowned yard passes its craft down the line from parent to child. Children of the yards learn to shape a strake before they learn their letters, and a yard measures its pride in the hulls it built that are still sailing. Not every child stays. [[being-vrthmylfrhr|Vrathmýl Firehair]] was the son of one of Thraskvík's renowned shipwright families and trained in the craft from a young age, until the arcane drew him away from the yard, for all his family's pride in their trade.
+The town's standing rests on those families, and a renowned yard passes its craft down the line from parent to child. Children of the yards learn to shape a strake before they learn their letters, and a yard measures its pride in the hulls it built that are still sailing. Not every child stays. [[being-vrthmylfrhr|Vrathmil Firehair]] was the son of one of Thraskvík's renowned shipwright families and trained in the craft from a young age, until the arcane drew him away from the yard, for all his family's pride in their trade.
 
 ## See Also
 
 - [[place-norgaad|Norgaad]]—the kingdom's land, along whose coast the town stands
-- [[being-vrthmylfrhr|Vrathmýl Firehair]]—a shipwright's son of Thraskvík
+- [[being-vrthmylfrhr|Vrathmil Firehair]]—a shipwright's son of Thraskvík

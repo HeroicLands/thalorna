@@ -1,6 +1,6 @@
 ---
 shortcode: morzhrxylkt
-name: {full: Morzáhr Xylákit, given: Morzáhr, clan: Xylákit, aliases: []}
+name: {full: Morzáhr Zilakit, given: Morzáhr, clan: Zilakit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -417,7 +417,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[morzhrxylkt|Morzáhr Xylákit]]{float=top-left}
+![[morzhrxylkt|Morzáhr Zilakit]]{float=top-left}
 
 Morzáhr stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a prominent nose, a pointed chin, an expressive mouth, dark brows.
 
@@ -427,7 +427,7 @@ Morzáhr stands 6'3" tall with a heavy build. He has tanned weathered skin, dark
 
 ### The Woodwright's Inheritance
 
-Morzáhr was born into the Xylákit family timber operation, one of three sons destined to carry on the craft that had sustained the family for five generations. Unlike his brothers, who sought advancement through the merchants' guilds and political connections, young Morzáhr felt most at home among the ancient forests of the Byzarian League's northern reaches. His father recognized in him a purity of purpose—the boy did not work with wood to gain wealth or status, but because the work itself called to something fundamental in his nature. By his twentieth year, Morzáhr had already become known as a master of felling technique, able to read a tree's grain and structure to predict how it would fall with uncanny precision.
+Morzáhr was born into the Zilakit family timber operation, one of three sons destined to carry on the craft that had sustained the family for five generations. Unlike his brothers, who sought advancement through the merchants' guilds and political connections, young Morzáhr felt most at home among the ancient forests of the Bizarian League's northern reaches. His father recognized in him a purity of purpose—the boy did not work with wood to gain wealth or status, but because the work itself called to something fundamental in his nature. By his twentieth year, Morzáhr had already become known as a master of felling technique, able to read a tree's grain and structure to predict how it would fall with uncanny precision.
 
 ### The Catastrophe and Reclamation
 
@@ -467,7 +467,7 @@ Morzáhr seeks to prove that there is a way to live in the world without comprom
 
 ### Patrons
 
-Master Castellan Atashíkon
+Master Castellan Atashikon
 : The governor of the northern territories values Morzáhr's timber for both fortification work and shipbuilding, and tacitly protects him from guild persecution in exchange for preferential contracts.
 
 Lady Serena of House Thálassos
@@ -475,10 +475,10 @@ Lady Serena of House Thálassos
 
 ### Enemies
 
-The Xylákit Family Enterprise
+The Zilakit Family Enterprise
 : His own blood relatives, now wealthy guild magnates, view him as both a moral rebuke and an economic competitor whose existence challenges their monopoly on timber contracts.
 
-Guild Master Frolázira Fabídek
+Guild Master Frolázira Fabidek
 : The current head of the Timberwrights' Guild marked Morzáhr for subtle destruction long ago; his independent success is an open wound to guild authority and profit.
 
 ### Affiliations
@@ -496,7 +496,7 @@ The Independent Craftspeople's League
 
 1. **The Ancient Wood of Akkrath**: A caravan is assembling to journey to the deep forests of Akkrath, where a tree of impossible age and size is said to grow—wood so rare and perfect that a single beam could forge a weapon or construct an artifact of power. Morzáhr is the only master timberwright with the skill to harvest it without destroying its inherent magical properties, but accepting such a commission would require him to venture into unexplored wilderness while working with a party of adventurers who may not share his values. The journey itself becomes a test of whether his principles can survive contact with temptation.
 
-2. **The Guild's Conspiracy**: Word reaches Morzáhr that Guild Master Frolázira is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Frolázira's corruption, or help Morzáhr arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Byzarian League.
+2. **The Guild's Conspiracy**: Word reaches Morzáhr that Guild Master Frolázira is planning to declare him an enemy of the Timberwrights' Guild and place a bounty on his head, framing him for sabotaging a major building project. The party must either gather evidence to clear his name, expose Frolázira's corruption, or help Morzáhr arrange a dramatic confrontation that will decide the guild's future direction. The resolution could reshape the entire merchant and craftspeople structure of the Bizarian League.
 
 3. **The Silent Partnership**: A mysterious benefactor offers Morzáhr a contract: harvest and deliver timber for a secret construction project deep in the borderlands, pay beyond anything he has ever received, and absolute confidentiality required. As the party works with him on the project, they gradually discover that they are constructing a sanctuary for refugees fleeing political persecution—and that Morzáhr has become unwittingly part of a larger resistance network. When powerful forces move to destroy the sanctuary, he must choose between his solitary path and active resistance.
 

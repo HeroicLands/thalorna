@@ -3,7 +3,7 @@ shortcode: dunharargn
 name: {full: Dunhara Region, aliases: []}
 type: place
 subType: region
-description: Vast southern desert of tribal confederations, oral tradition, and the fire-and-light faith of the Āsháian Pantheon.
+description: Vast southern desert of tribal confederations, oral tradition, and the fire-and-light faith of the Ashaian Pantheon.
 tags: [region]
 data:
   demonym: Dunharan
@@ -23,7 +23,7 @@ data:
 # terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan—the Persian-and-Arabian world. The Kingdom of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
 ---
 
-A caravan-master of the southern road, taking on a hired guard from the Vylarian ports, tells him the first rule before they leave the last well: "Eat a man's salt and you are his to protect. Refuse it and you are no one's." The Dunhara Region is the great southern desert of [[place-ankrscntnnt|Ankaris Continent]]—sand seas, rocky mesas, dry riverbeds and hidden oases—running from the eastern shore of the [[place-vylarianse|Vylarian Sea]], opposite the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]], to the foothills below the western end of the [[place-graznmntns|Grazian]] wall, where the desert gives way to the marches of [[place-vedyarargn|Vedyara]]. It is the country of the Dunhari, a confederation of tribes whose caravans carry the southern overland trade, whose poets keep their law in verse, and whose honor code lets people who have every reason to kill each other over water cross the same desert in peace.
+A caravan-master of the southern road, taking on a hired guard from the Vylarian ports, tells him the first rule before they leave the last well: "Eat a man's salt and you are his to protect. Refuse it and you are no one's." The Dunhara Region is the great southern desert of [[place-ankrscntnnt|Ankaris Continent]]—sand seas, rocky mesas, dry riverbeds and hidden oases—running from the eastern shore of the [[place-vylarianse|Vylarian Sea]], opposite the islands of [[affiliation-cnfdrtntrzlnstts|Taruzel]], to the foothills below the western end of the [[place-graznmntns|Grazian]] wall, where the desert gives way to the marches of [[place-vedyarargn|Vedyara]]. It is the country of the Dunhari, a confederation of tribes whose caravans carry the southern overland trade, whose poets keep their law in verse, and whose honor code lets people who have every reason to kill each other over water cross the same desert in peace.
 
 An outsider remembers the Dunhara for its caravans and its poets. The desert holds few people and a great deal of culture, and it is entirely unimpressed by the settled kingdoms at its edges.
 
@@ -45,41 +45,41 @@ The poets are the Dunhara's great achievement. Genealogy, history, legal precede
 
 The settled people of Amradad are of Dunhari stock and have grown apart from their cousins. The tribes admire the wealth of the cities and despise the softness of a settled life, and the Amradi return both opinions. The Kingdom is sovereign and the tribes are independent, and the arrangement has held for centuries.
 
-A few [[lore-flkkhazar|Khazári]] halls are rumored in the mountain margins, and now and then a [[lore-flksinale|Sinalë]] traveler is reported. Nobody has counted either, and the stories about both are told around fires, not entered in any register.
+A few [[lore-flkkhazar|Khazari]] halls are rumored in the mountain margins, and now and then a [[lore-flksinale|Sinale]] traveler is reported. Nobody has counted either, and the stories about both are told around fires, not entered in any register.
 
 ## Faith
 
-The Dunhari keep the [[affiliation-ashanpnthn|Āsháian Pantheon]], the faith of fire and light they share with the Khazryn tribes to the north and the Tarûzeli to the west. [[affiliation-ahurdaen|Āhúrdáén]], the god of order and harmony, is supreme; [[affiliation-bahramis|Báhrámiš]], god of storms and protection, is the patron of warriors and caravan guards; [[affiliation-korsadra|Khóršádrä]], god of knowledge and the eternal light, is revered by navigators and scholars; and [[affiliation-zarvanya|Zárványä]], the giver of dreams and visions, is followed by the mystics who go alone into the deep desert to meet the divine.
+The Dunhari keep the [[affiliation-ashanpnthn|Ashaian Pantheon]], the faith of fire and light they share with the Khazryn tribes to the north and the Taruzeli to the west. [[affiliation-ahurdaen|Ahurdaen]], the god of order and harmony, is supreme; [[affiliation-bahramis|Báhramis]], god of storms and protection, is the patron of warriors and caravan guards; [[affiliation-korsadra|Khórsadra]], god of knowledge and the eternal light, is revered by navigators and scholars; and [[affiliation-zarvanya|Zárvanya]], the giver of dreams and visions, is followed by the mystics who go alone into the deep desert to meet the divine.
 
 The open desert has no temples and no temple priesthood; the great fire-temples and their priestly scholars belong to the cities of Amradad. Among the tribes, religious life is carried by people who travel with the camps: the practitioners of the [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]], who read the weather, call the rain and bless the camps, and the **desert mystics**, ascetics who fast and keep vigil in the hardest places the desert has. A mystic is no priest and holds no office; his authority is what he has survived. One who comes back from the deep desert with visions that prove true is housed, followed and obeyed for the rest of his life.
 
-The holy places are features of the land: certain oases, rock formations, mesa-tops and caves no one has found the end of. Pilgrimage to them is central to the faith, and a Dunhari who has completed the whole round carries a prestige no other deed can earn. The greatest of them is the [[place-stoneofranaz|Stone of Ranâz]], the hill-shrine where three tribal territories meet and the storm-cult elders gather at the season-turns.
+The holy places are features of the land: certain oases, rock formations, mesa-tops and caves no one has found the end of. Pilgrimage to them is central to the faith, and a Dunhari who has completed the whole round carries a prestige no other deed can earn. The greatest of them is the [[place-stoneofranaz|Stone of Ranaz]], the hill-shrine where three tribal territories meet and the storm-cult elders gather at the season-turns.
 
 ## Power
 
 The desert has no single ruler. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit. They join against an outside threat and quarrel among themselves the rest of the time, and the balance has held for centuries. The [[affiliation-dunhartrbs|Dunhara Tribes]] describes the confederations and the councils where they meet.
 
-The [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the only settled realm of any size. It is a true kingdom, with a hereditary shêbaradêr, a standing army and a court modeled on the old cities of the Āsháian faith, and it holds the northwestern corner from the Vylarian shore inland: its walled cities, their oases and the roads between them. Its wealth is out of all proportion to its land, and its influence runs past its borders through trade and through marriages with the sheikhs' houses.
+The [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the only settled realm of any size. It is a true kingdom, with a hereditary shebarader, a standing army and a court modeled on the old cities of the Ashaian faith, and it holds the northwestern corner from the Vylarian shore inland: its walled cities, their oases and the roads between them. Its wealth is out of all proportion to its land, and its influence runs past its borders through trade and through marriages with the sheikhs' houses.
 
-The [[affiliation-ordoarcanis|Thôrdimâlon]] has no footing here. The tribes call it a Vylarian institution with no standing in their country, and the Arcane Order gave up trying to found chapters long ago. Magic in the Dunhara comes through faith and blood: the mystics, the poets held to be blessed, the storm-cult practitioners and the sheikhs' houses that claim a gift running in the line.
+The [[affiliation-ordoarcanis|Thordimalon]] has no footing here. The tribes call it a Vylarian institution with no standing in their country, and the Arcane Order gave up trying to found chapters long ago. Magic in the Dunhara comes through faith and blood: the mystics, the poets held to be blessed, the storm-cult practitioners and the sheikhs' houses that claim a gift running in the line.
 
 ## Trade
 
-The Dunhari tribes hold the southern caravan routes that join [[affiliation-cnfdrtntrzlnstts|Tarûzel]] and the Vylarian Sea to [[place-vedyarargn|Vedyara]] and, through further hands, to the far east. Spice, silk, jewels, fine cloth, medicinal herbs and the rare goods of the south travel west; iron, salt, wine, worked metal and the wares of the settled kingdoms travel east. A caravan carries the stock of several tribes under one escort, and responsibility for it passes from tribe to tribe as it crosses their lands, a system that works because the honor code makes the alternative unthinkable.
+The Dunhari tribes hold the southern caravan routes that join [[affiliation-cnfdrtntrzlnstts|Taruzel]] and the Vylarian Sea to [[place-vedyarargn|Vedyara]] and, through further hands, to the far east. Spice, silk, jewels, fine cloth, medicinal herbs and the rare goods of the south travel west; iron, salt, wine, worked metal and the wares of the settled kingdoms travel east. A caravan carries the stock of several tribes under one escort, and responsibility for it passes from tribe to tribe as it crosses their lands, a system that works because the honor code makes the alternative unthinkable.
 
-Amradad taxes the caravans that pass through its cities and spends the revenue on its army and its court. The sheikhs tax the caravans that cross their country too, and call it a hospitality gift; the merchants call it something else. A powerful sheikh's year of gifts can make him as rich as a minor Aurèldían prince.
+Amradad taxes the caravans that pass through its cities and spends the revenue on its army and its court. The sheikhs tax the caravans that cross their country too, and call it a hospitality gift; the merchants call it something else. A powerful sheikh's year of gifts can make him as rich as a minor Aureldian prince.
 
 ## Neighbors
 
-**West** across the strait from the Amradi shore lie the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]]. The ties are old, close and commercial: the Tarûzeli speak a sister tongue to Dunhari and keep the same faith, and the crossing from the Amradi coast to the Tarûzelian ports is the main road between the desert and the Vylarian Sea.
+**West** across the strait from the Amradi shore lie the islands of [[affiliation-cnfdrtntrzlnstts|Taruzel]]. The ties are old, close and commercial: the Taruzeli speak a sister tongue to Dunhari and keep the same faith, and the crossing from the Amradi coast to the Taruzelian ports is the main road between the desert and the Vylarian Sea.
 
-**Northwest**, beyond the Kingdom's border, the [[affiliation-byzarianlg|Byzarian League]]'s road through its [[place-southrnmrch|Southern March]] carries the caravan trade north into [[place-heladrgn|Hellád]].
+**Northwest**, beyond the Kingdom's border, the [[affiliation-byzarianlg|Bizarian League]]'s road through its [[place-southrnmrch|Southern March]] carries the caravan trade north into [[place-heladrgn|Hellád]].
 
 **North** lies the [[place-khzryndsrtrgn|Khazryn Desert]]. The two deserts are cousins, the frontier between them is long and vague, and many caravan routes begin in one and end in the other with no clear sense of crossing anything.
 
-**Southeast** lies [[place-vedyarargn|Vedyara]], reached by the march road that runs round the end of the [[place-graznmntns|Grazian]] wall—the only way into the subcontinent a loaded camel can take. The two peoples differ more than the Dunhari and the Tarûzeli or the Khazryn do, and centuries of trade have taught them respect and a working understanding.
+**Southeast** lies [[place-vedyarargn|Vedyara]], reached by the march road that runs round the end of the [[place-graznmntns|Grazian]] wall—the only way into the subcontinent a loaded camel can take. The two peoples differ more than the Dunhari and the Taruzeli or the Khazryn do, and centuries of trade have taught them respect and a working understanding.
 
-**Southwest** lies [[place-xerathia|Xerathia]], and above all the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], met by land across [[place-khuqetmiglet|Khuqet-Miglet]], the desert march the empire garrisons and the western clans contest. Contact is ancient and constant: tolls, quarrels over wells and skirmishes at the march, and a sea trade carried by Tarûzelian and Khelâthi merchants on the Vylarian Sea.
+**Southwest** lies [[place-xerathia|Zerathia]], and above all the [[affiliation-empireakhlth|Empire of Au'Khelathu]], met by land across [[place-khuqetmiglet|Khuqet-Miglet]], the desert march the empire garrisons and the western clans contest. Contact is ancient and constant: tolls, quarrels over wells and skirmishes at the march, and a sea trade carried by Taruzelian and Khelathi merchants on the Vylarian Sea.
 
 ## See Also
 
@@ -89,10 +89,10 @@ Amradad taxes the caravans that pass through its cities and spends the revenue o
 - [[affiliation-dunhartrbs|Dunhara Tribes]]—the tribal confederations
 - [[lore-dunhariclt|Dunhari]]—the people, their customs and what they owe
 - [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the storm-readers who travel with the tribes
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the island trading partner across the strait
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the island trading partner across the strait
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the northern desert cousin
 - [[place-vedyarargn|Vedyara Region]]—the southeastern trading neighbor
 - [[place-graznmntns|The Grazian Mountains]]—the wall that ends at the region's eastern margin
-- [[affiliation-ashanpnthn|Āsháian Pantheon]]—the faith shared across the desert peoples
+- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the faith shared across the desert peoples
 - [[skill-dunharlng|Dunhari]]—the language and its naming tradition
 - [[place-ankrscntnnt|Ankaris Continent]]—the parent continent

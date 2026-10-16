@@ -1,6 +1,6 @@
 ---
 shortcode: slvrvlskyr
-name: {full: Sélvara Válskir, given: Sélvara, clan: Válskir, aliases: []}
+name: {full: Sélvara Valskir, given: Sélvara, clan: Valskir, aliases: []}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]
@@ -406,9 +406,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[slvrvlskyr|Sélvara Válskir]]{float=top-left}
+![[slvrvlskyr|Sélvara Valskir]]{float=top-left}
 
-Sélvara Válskir is a striking woman—tall, dark-skinned, and built with the lean, hard muscle of a career soldier. Her brown hair is kept short and practical, and her hazel eyes hold a steady, assessing gaze that has unnerved far larger opponents. She moves with the quiet precision of someone who has spent years navigating both battlefields and heaving ship decks, and her bearing carries an unmistakable military authority. She dresses practically in a leather vest over simple cloth, with a short sword and battleaxe within easy reach. A fine roundshield, battered but well-maintained, hangs from a strap across her back when trouble is expected.
+Sélvara Valskir is a striking woman—tall, dark-skinned, and built with the lean, hard muscle of a career soldier. Her brown hair is kept short and practical, and her hazel eyes hold a steady, assessing gaze that has unnerved far larger opponents. She moves with the quiet precision of someone who has spent years navigating both battlefields and heaving ship decks, and her bearing carries an unmistakable military authority. She dresses practically in a leather vest over simple cloth, with a short sword and battleaxe within easy reach. A fine roundshield, battered but well-maintained, hangs from a strap across her back when trouble is expected.
 
 # Dossier {#dossier}
 
@@ -416,19 +416,19 @@ Sélvara Válskir is a striking woman—tall, dark-skinned, and built with the l
 
 ### Origin
 
-Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]], the daughter of fishermen. Life was hard but stable until she was fourteen, when Vylarian imperial forces raided her village searching for Tarvénan rebels. Zabûzum Jakûdûnî—then a young rebel scout—was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
+Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]], the daughter of fishermen. Life was hard but stable until she was fourteen, when Vylarian imperial forces raided her village searching for Tarvenan rebels. Zabuzum Jakuduni—then a young rebel scout—was hiding in her father's boathouse. When Sélvara went to warn him, an imperial soldier followed. What happened next forged a bond between them that neither war nor the years since have broken. She killed the soldier with a gutting knife. She was fourteen years old.
 
 ### The War
 
-Sélvara joined the Tarûzelian rebellion the same night, following Bû into a conflict that would consume the next four years of her life. She proved to be a natural warrior—disciplined, fearless, and relentlessly competent. Where Bû led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal Battle of [[place-tamzirshoals|Tamzîr Shoals]], where she earned a reputation for cold-blooded steadiness under fire. By the war's end, she was a hardened veteran at eighteen.
+Sélvara joined the Taruzelian rebellion the same night, following Bu into a conflict that would consume the next four years of her life. She proved to be a natural warrior—disciplined, fearless, and relentlessly competent. Where Bu led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal Battle of [[place-tamzirshoals|Tamzir Shoals]], where she earned a reputation for cold-blooded steadiness under fire. By the war's end, she was a hardened veteran at eighteen.
 
 ### After the War
 
-When the merchant guilds seized power and the revolution's ideals collapsed, Sélvara followed Bû without hesitation. She had no illusions about politics and never had—she fought for people, not causes. When Bû bought the Tamzîr and offered her the position of first mate, she accepted with a single nod. She has held the position for twelve years, running the ship with authority and serving as the crew's anchor when Bû's temper or recklessness threatens to capsize them all.
+When the merchant guilds seized power and the revolution's ideals collapsed, Sélvara followed Bu without hesitation. She had no illusions about politics and never had—she fought for people, not causes. When Bu bought the Tamzir and offered her the position of first mate, she accepted with a single nod. She has held the position for twelve years, running the ship with authority and serving as the crew's anchor when Bu's temper or recklessness threatens to capsize them all.
 
 ### Marriage
 
-Three years ago, Sélvara married [[being-fethardhrl|Fethàr Dhárel]], the Tamzîr's pilot, in a dockside ceremony in [[place-provenzrgn|Provènzia]]. The match surprised everyone except Bû, who had seen it coming for years. Fethàr's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a happy one—a rare point of softness in her otherwise hard-edged life.
+Three years ago, Sélvara married [[being-fethardhrl|Fetar Darel]], the Tamzir's pilot, in a dockside ceremony in [[place-provenzrgn|Provenzia]]. The match surprised everyone except Bu, who had seen it coming for years. Fetar's irreverent humor and warmth complement Sélvara's reserve, and the marriage is a happy one—a rare point of softness in her otherwise hard-edged life.
 
 ## Psyche
 
@@ -438,34 +438,34 @@ Sélvara is calm, competent, and economical with words. She does not waste time 
 
 ### Motivation
 
-Sélvara's motivations are simple and fierce: protect the people she loves. The Tamzîr's crew is her family, and Bû is the closest thing she has to a brother. She does not care about causes, ideologies, or grand ambitions. She cares about keeping her people alive and fed and free.
+Sélvara's motivations are simple and fierce: protect the people she loves. The Tamzir's crew is her family, and Bu is the closest thing she has to a brother. She does not care about causes, ideologies, or grand ambitions. She cares about keeping her people alive and fed and free.
 
 ### Strengths
 
-She is one of the finest fighters on the Vylarian Sea—a devastating close-quarters combatant with sword, axe, or bare hands. Her tactical awareness is superb, and she manages the crew with a firmness that keeps the Tamzîr running. She is virtually unshakeable under pressure.
+She is one of the finest fighters on the Vylarian Sea—a devastating close-quarters combatant with sword, axe, or bare hands. Her tactical awareness is superb, and she manages the crew with a firmness that keeps the Tamzir running. She is virtually unshakeable under pressure.
 
 ### Weaknesses
 
-Sélvara's emotional reserve can shade into coldness. She struggles to express vulnerability and sometimes fails to notice when her crew needs compassion rather than competence. Her absolute loyalty to Bû occasionally blinds her to his flaws, and she can be ruthless when she perceives a threat to her people—a ruthlessness that sometimes crosses lines others would not.
+Sélvara's emotional reserve can shade into coldness. She struggles to express vulnerability and sometimes fails to notice when her crew needs compassion rather than competence. Her absolute loyalty to Bu occasionally blinds her to his flaws, and she can be ruthless when she perceives a threat to her people—a ruthlessness that sometimes crosses lines others would not.
 
 ## Social
 
 ### Patrons
 
-None. Sélvara answers to Bû and to herself.
+None. Sélvara answers to Bu and to herself.
 
 ### Enemies
 
-The same enemies as the Tamzîr's crew: Tarûzelian guild enforcers, Vylarian imperial agents, and—increasingly—agents of the [[affiliation-ordoarcanis|Thôrdimâlon]].
+The same enemies as the Tamzir's crew: Taruzelian guild enforcers, Vylarian imperial agents, and—increasingly—agents of the [[affiliation-ordoarcanis|Thordimalon]].
 
 ### Affiliations
 
-First Mate of the **Tamzîr**. Wife of **Fethàr Dhárel**. Wartime comrade and most trusted ally of **Captain Zabûzum Jakûdûnî**.
+First Mate of the **Tamzir**. Wife of **Fetar Darel**. Wartime comrade and most trusted ally of **Captain Zabuzum Jakuduni**.
 
 ## Plot Hooks
 
-1. **The Village Returns**: Word reaches Sélvara that her home village in Tarvénia is under threat again—this time from Tarûzelian guild agents who want to establish a trading post on the coast. Her surviving family is among those who would be displaced. Returning to help would mean sailing into contested waters and confronting the same power structures she and Bû have spent years avoiding.
+1. **The Village Returns**: Word reaches Sélvara that her home village in Tarvénia is under threat again—this time from Taruzelian guild agents who want to establish a trading post on the coast. Her surviving family is among those who would be displaced. Returning to help would mean sailing into contested waters and confronting the same power structures she and Bu have spent years avoiding.
 
 2. **The Soldier's Reckoning**: A former imperial officer who participated in the raid on Sélvara's village has been identified living comfortably in a Vylarian port city. Sélvara must decide whether old debts are worth the risk of pursuing—and whether vengeance or justice is what she truly wants.
 
-3. **Divided Loyalty**: When Bû makes a decision that Sélvara believes will get the crew killed, she faces the impossible choice between her loyalty to her captain and her responsibility to the people under her care. For the first time in their long partnership, the two find themselves on opposite sides of an argument with no easy resolution.
+3. **Divided Loyalty**: When Bu makes a decision that Sélvara believes will get the crew killed, she faces the impossible choice between her loyalty to her captain and her responsibility to the people under her care. For the first time in their long partnership, the two find themselves on opposite sides of an argument with no easy resolution.

@@ -1,9 +1,9 @@
 ---
 shortcode: hildricplay
-name: {full: The Play of Hildric and the Grukar, aliases: [The Drovers' Play]}
+name: {full: The Play of Hildrik and the Grukar, aliases: [The Drovers' Play]}
 type: lore
 subType: literature
-description: "The play the drovers of the march put on in the inn-yards of Ashford on the nights of the autumn drove fair: Old Tally sweeping the ring, Hildric of the Wyndmarch and an Ahk of the Grukar matching boasts, the champion struck down, a Doctor of Ravenmoor who cures in court Élavendri and is stopped before he raises the dead, the ale-wife who knows better, and a second Grukar for every one killed."
+description: "The play the drovers of the march put on in the inn-yards of Ashford on the nights of the autumn drove fair: Old Tally sweeping the ring, Hildrik of the Wyndmarch and an Ahk of the Grukar matching boasts, the champion struck down, a Doctor of Ravenmoor who cures in court Élavendri and is stopped before he raises the dead, the ale-wife who knows better, and a second Grukar for every one killed."
 tags: [draft, aelwyth]
 data:
   culture: aelwythanclt
@@ -22,9 +22,9 @@ data:
 # terran_analog: "The British mummers' and hero-combat plays of the house-visiting season, with their presenter who calls for room, the champion's boast, the combat, the comic quack doctor and the collection at the end; the flyting, the boasting-match in verse; the frontier ballad's habit of telling a war that never ends."
 ---
 
-**The Play of Hildric and the Grukar** belongs to the drovers. They bring the beasts of the manorial country down the drove roads to [[place-ashford|Ashford]] for the autumn fair, the one occasion on which a serf may lawfully stand a long way from his manor, and on the nights of the fair they put on the play in the inn-yards for whatever the yard will throw into the bowl. The money buys the drovers' ale. The players are men from the manors of the [[place-wyndmarch|Wyndmarch]] and the forest edge, and a part passes from a man to his son or his nephew. They wear their working clothes with strips of fleece sewn over them, and the Grukar wears a fleece turned inside out with his face blacked.
+**The Play of Hildrik and the Grukar** belongs to the drovers. They bring the beasts of the manorial country down the drove roads to [[place-ashford|Ashford]] for the autumn fair, the one occasion on which a serf may lawfully stand a long way from his manor, and on the nights of the fair they put on the play in the inn-yards for whatever the yard will throw into the bowl. The money buys the drovers' ale. The players are men from the manors of the [[place-wyndmarch|Wyndmarch]] and the forest edge, and a part passes from a man to his son or his nephew. They wear their working clothes with strips of fleece sewn over them, and the Grukar wears a fleece turned inside out with his face blacked.
 
-The cast is fixed. **Old Tally** opens the play and closes it, keeps the ring clear with a besom, and carries the notched stick a drover keeps his count of beasts on, which gives him his name. **Hildric** is the champion of the march. The Grukar calls himself an Ahk, which is a Grukar chief's title and the only Grukar word most Aldorathi know. The Doctor comes from [[place-ravenmoor|Ravenmoor]] and talks court Élavendri, and his one line of it is the greeting the Synod's harbor officers give every ship from the mainland. Nobody in an Ashford inn-yard knows what it means, and the Doctor uses it as a charm. The ale-wife is played by the oldest man in the company.
+The cast is fixed. **Old Tally** opens the play and closes it, keeps the ring clear with a besom, and carries the notched stick a drover keeps his count of beasts on, which gives him his name. **Hildrik** is the champion of the march. The Grukar calls himself an Ahk, which is a Grukar chief's title and the only Grukar word most Aldorathi know. The Doctor comes from [[place-ravenmoor|Ravenmoor]] and talks court Élavendri, and his one line of it is the greeting the Synod's harbor officers give every ship from the mainland. Nobody in an Ashford inn-yard knows what it means, and the Doctor uses it as a charm. The ale-wife is played by the oldest man in the company.
 
 The Grukar's boast about the twelve kings is the line every yard waits for. [[affiliation-kngdmldrth|Aldorath]] has mounted a formal campaign against the Grukar about a dozen times, and each was declared a success ([[lore-grukaraelwyth|The Grukar of Aelwyth]]). The Doctor's cure is stopped because a cure that brings back the dead is an offence to [[affiliation-selmoros|Sélmoros]], whose priests forbid it, and the drovers keep the scene so that the ale-wife can settle it. The second Grukar comes in at the end of every performance, however late it is.
 
@@ -45,16 +45,16 @@ So stand ye back, and ye shall see one bold
 As ever drove a wether to the fold.
 I am Old Tally, that do keep the score,
 A notch for every beast, and one notch more:
-Step in, thou Hildric, let thyself be seen,
+Step in, thou Hildrik, let thyself be seen,
 And tell the yard what thou art, and hast been.
 ```
 
-_Hildric comes in with a wooden sword and a shield of hide._
+_Hildrik comes in with a wooden sword and a shield of hide._
 
-**Hildric.**
+**Hildrik.**
 
 ```poetry {form=mummers-play rhyme=AABB lang=en}
-Here come I, Hildric, of the Wyndmarch bred,
+Here come I, Hildrik, of the Wyndmarch bred,
 That stand betwixt the forest and your bread.
 Where'er the forest meeteth with the field,
 There have I stood, with this my bill and shield;
@@ -79,7 +79,7 @@ My sons are twenty, and my daughters more,
 And every one shall scratch upon thy door.
 ```
 
-**Hildric.**
+**Hildrik.**
 
 ```poetry {form=mummers-play rhyme=AABB lang=en}
 I've slain of thine a hundred in a year.
@@ -91,7 +91,7 @@ I've slain of thine a hundred in a year.
 And I have bred two hundred, never fear.
 ```
 
-**Hildric.**
+**Hildrik.**
 
 ```poetry {form=mummers-play rhyme=AABB lang=en}
 I'll burn thy den, and drive thee to the fells.
@@ -105,7 +105,7 @@ Beyond them, and the bog that hath no floor,
 And every wood thy plough hath passed before.
 ```
 
-**Hildric.**
+**Hildrik.**
 
 ```poetry {form=mummers-play rhyme=AABB lang=en}
 The king shall come against thee with his host.
@@ -121,7 +121,7 @@ Twelve times he won, his chronicles do say,
 And twelve times I was here the following day.
 ```
 
-**Hildric.**
+**Hildrik.**
 
 ```poetry {form=mummers-play rhyme=AABB lang=en}
 Then I will do what twelve kings could not do.
@@ -133,7 +133,7 @@ Then I will do what twelve kings could not do.
 Come on, then, champion, and I'll run thee through.
 ```
 
-_They fight, three passes up and down the ring, the yard shouting for Hildric. On the third the Grukar strikes him down._
+_They fight, three passes up and down the ring, the yard shouting for Hildrik. On the third the Grukar strikes him down._
 
 **Old Tally.**
 
@@ -167,13 +167,13 @@ A tooth as easy as a wisp of straw.
 
 **Old Tally.** An Solden! There is not an Solden in this yard, nor in this town, saving the bridge's. Here is twenty Bits and a turnip.
 
-**The Doctor.** I will take the turnip in part of payment. Stand back, now, for here is physic. _He kneels by Hildric and speaks over him, very grand:_ "_Shâlor en kír a thél!_"
+**The Doctor.** I will take the turnip in part of payment. Stand back, now, for here is physic. _He kneels by Hildrik and speaks over him, very grand:_ "_Shalor en kir a thel!_"
 
 **Old Tally.** What's that, Doctor?
 
-**The Doctor.** That is the court tongue, and it is a charm against all hurts whatsoever, and it signifieth, in thy plain speech, "Pay the doctor." _He pours from the bottle into Hildric's mouth._ Hildric, arise.
+**The Doctor.** That is the court tongue, and it is a charm against all hurts whatsoever, and it signifieth, in thy plain speech, "Pay the doctor." _He pours from the bottle into Hildrik's mouth._ Hildrik, arise.
 
-_Hildric does not move._
+_Hildrik does not move._
 
 **The Doctor.** This is an obstinate disease. I will try the stronger physic. I have a drop here that will raise the dead—
 
@@ -192,9 +192,9 @@ The Judge hath not him yet, nor shall tonight:
 Get up, thou lubber, here's thy cup. Drink right.
 ```
 
-_She gives him the cup. Hildric sits up, drinks, and stands._
+_She gives him the cup. Hildrik sits up, drinks, and stands._
 
-**Hildric.**
+**Hildrik.**
 
 ```poetry {form=mummers-play rhyme=AABB lang=en}
 Good morrow, gentles. Is the Grukar fled?
@@ -205,7 +205,7 @@ And looked on me, and turned away his cheek.
 
 **The Ale-wife.** That's the Judge, and he'll not have thee till thy day. Up and at it.
 
-**Hildric.**
+**Hildrik.**
 
 ```poetry {form=mummers-play rhyme=AABB lang=en}
 Then come again, thou Ahk, and try thy luck.
@@ -217,7 +217,7 @@ Then come again, thou Ahk, and try thy luck.
 I'll try it, and thou'lt lie where first thou struck.
 ```
 
-_They fight again. Hildric strikes the Grukar down, and the yard cheers._
+_They fight again. Hildrik strikes the Grukar down, and the yard cheers._
 
 **Old Tally.**
 
@@ -242,7 +242,7 @@ Why, then, we leave them fighting as they were,
 And as they have been, and they will be there.
 ```
 
-**Hildric.**
+**Hildrik.**
 
 ```poetry {form=mummers-play rhyme=AABB lang=en}
 I know my day. One morning I shall go
@@ -262,7 +262,7 @@ A notch for every coin, and one notch more,
 And the Twelve keep you till we play once more.
 ```
 
-_The players go out singing, the Grukar and the Grukar's son behind them, still fighting with Hildric through the gate of the yard._
+_The players go out singing, the Grukar and the Grukar's son behind them, still fighting with Hildrik through the gate of the yard._
 
 ## See Also
 

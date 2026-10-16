@@ -3,7 +3,7 @@ shortcode: takingwood
 name: {full: The Taking of the Wood, aliases: [The Driving-Out along the Bay]}
 type: lore
 subType: history
-description: "About 1250 BF the mixed Varkhad–Pelwar host came into the Vrystwald from the east, broke the Pelwar who stood, married the ones who stayed and drove the rest west along the bay toward the sea; the Varokh are what was left in the forest when the host stopped."
+description: "About 1250 BF the mixed Varkhad–Pelwar host came into the Vristwald from the east, broke the Pelwar who stood, married the ones who stayed and drove the rest west along the bay toward the sea; the Varokh are what was left in the forest when the host stopped."
 tags: [history]
 data:
   culture: varokhiclt
@@ -81,13 +81,13 @@ data:
       unresolved: ["who keeps the rock shrines at the leavers' landing, and for what"]
 ---
 
-The oldest mound in the Deepwood is [[place-vethhrom|Véthhróm]], the hallowed mound. Reciters teach the children at Weskskald that both of the forest's peoples are buried in it, and when a child asks which people that means, the reciter's answer is the history of the Varokh in one sentence: the ones who were here, and the ones who came, and nobody has been able to tell them apart for two thousand years.
+The oldest mound in the Deepwood is [[place-vethhrom|Vethhrum]], the hallowed mound. Reciters teach the children at Weskskald that both of the forest's peoples are buried in it, and when a child asks which people that means, the reciter's answer is the history of the Varokh in one sentence: the ones who were here, and the ones who came, and nobody has been able to tell them apart for two thousand years.
 
 ## The Host Out of the East
 
 About 1400 BF the [[lore-varkhadcnq|Varkhad]] came out of the further east and took the grasslands of the [[lore-pelwarpepl|Pelwar]], and the [[lore-pelwarmigr|Pelwar Migration]] began. The conquerors did not stay conquerors for long. They married into the people they had beaten, and within three or four generations the host that kept moving west was half Pelwar itself, pushing other Pelwar ahead of it as the first ones had been pushed.
 
-About 1250 BF that host reached the eastern edge of the forest that is now [[place-vrystwald|Vrystwald]] and went in. The Pelwar villages of the wood were tribal and unwalled, herders and clearing-farmers who had held the forest a very long time and were not organized to fight for it. Some stood, and the host broke them. Most did not, and the host married into them the way its grandfathers had married into the grasslands. In a century the forest held one people where it had held two, and the people left in the wood when the Migration ran out of land and the host stopped moving were the [[lore-varokhiclt|Varokh]]. The northern bands kept drifting toward the fjords, and became the Nordmen.
+About 1250 BF that host reached the eastern edge of the forest that is now [[place-vrystwald|Vristwald]] and went in. The Pelwar villages of the wood were tribal and unwalled, herders and clearing-farmers who had held the forest a very long time and were not organized to fight for it. Some stood, and the host broke them. Most did not, and the host married into them the way its grandfathers had married into the grasslands. In a century the forest held one people where it had held two, and the people left in the wood when the Migration ran out of land and the host stopped moving were the [[lore-varokhiclt|Varokh]]. The northern bands kept drifting toward the fjords, and became the Nordmen.
 
 ## The Driving-Out along the Bay
 
@@ -97,11 +97,11 @@ They left holy ground behind them that the host did not understand: rock-cut shr
 
 ## Two Tellings at Once
 
-The Varokh call Vrystwald their primeval homeland, and the claim rests on both halves of their descent. The tellings keep two accounts of this century side by side and do not choose between them. In one, the people came out of the east with the spear and took the wood. In the other, the people came out of the oaks and were always here, and the strangers who came from the east were absorbed into them. Deepwood reciters tell both at the same Weskskald. The forest's old people hold that a child who asks which is true has not yet understood either.
+The Varokh call Vristwald their primeval homeland, and the claim rests on both halves of their descent. The tellings keep two accounts of this century side by side and do not choose between them. In one, the people came out of the east with the spear and took the wood. In the other, the people came out of the oaks and were always here, and the strangers who came from the east were absorbed into them. Deepwood reciters tell both at the same Weskskald. The forest's old people hold that a child who asks which is true has not yet understood either.
 
 ## What It Left
 
-- **[[place-vethhrom|Véthhróm]], the hallowed mound.** The oldest kindred mound in the Deepwood, claimed by both tellings. A flood once opened its side and showed grave goods of two kinds lying together, and the Shaman who saw it had the side closed again before anyone could say which kind lay deeper.
+- **[[place-vethhrom|Vethhrum]], the hallowed mound.** The oldest kindred mound in the Deepwood, claimed by both tellings. A flood once opened its side and showed grave goods of two kinds lying together, and the Shaman who saw it had the side closed again before anyone could say which kind lay deeper.
 - **[[place-theodhaven|Theódhaven]], the leavers' landing.** A stone landing and rock-cut shrines on the Edrwald bay that no Varokh village uses. Varokh boat crews cut across it, and the Wardens turn them back.
 - **The forest itself.** No Varokh grove, mound or village name is older than this age, and every one of them sits on ground somebody else named first.
 

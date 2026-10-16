@@ -1,6 +1,6 @@
 ---
 shortcode: nbrnfsnn
-name: {full: Nibûran Fusânûnî, aliases: []}
+name: {full: Niburan Fusanuni, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -393,23 +393,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Nibûran Fusânûnî is a 42-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a pointed chin. His narrow green eyes sit beneath prominent brows and give him a sharp gaze. He has a hawkish nose and full lips. He has warm-toned skin with a sun-kissed complexion. His gray hair is cropped short.
+Niburan Fusanuni is a 42-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a pointed chin. His narrow green eyes sit beneath prominent brows and give him a sharp gaze. He has a hawkish nose and full lips. He has warm-toned skin with a sun-kissed complexion. His gray hair is cropped short.
 
 # Dossier {#dossier}
 
-Nibûran Fusânûnî is a gladiator of Sharîmun, in Tarûzel, a Tarûzelian freeman who was sent to the arena as a convict and stayed in it as a free man.
+Niburan Fusanuni is a gladiator of Sharimun, in Taruzel, a Taruzelian freeman who was sent to the arena as a convict and stayed in it as a free man.
 
-Nibûran began as a laborer in the quarries above the port. At thirty, in the first year of the Confederation, he was accused of theft from the quarry-master's strongbox, a crime he did not commit, and a magistrate of the kind the new guild government was then appointing sentenced him to the arena. Instead his strength carried him through five years of fights, until the arena-master petitioned for his freedom because a champion earns more than a convict. He has fought as a free man since, for the purse and the crowd's regard, and he has not forgotten the name of the man who accused him.
+Niburan began as a laborer in the quarries above the port. At thirty, in the first year of the Confederation, he was accused of theft from the quarry-master's strongbox, a crime he did not commit, and a magistrate of the kind the new guild government was then appointing sentenced him to the arena. Instead his strength carried him through five years of fights, until the arena-master petitioned for his freedom because a champion earns more than a convict. He has fought as a free man since, for the purse and the crowd's regard, and he has not forgotten the name of the man who accused him.
 
 ## Psyche
 
 ### Personality
 
-Nibûran is slow, stubborn and plain-spoken, and does not pretend to finesse he has not got. He has a convict's memory, and trusts almost nobody.
+Niburan is slow, stubborn and plain-spoken, and does not pretend to finesse he has not got. He has a convict's memory, and trusts almost nobody.
 
 ### Motivation
 
-Nibûran fights for the money and the respect that come with winning, because nothing else in Tarûzel ever offered him either. Under that, he wants the charge that put him in the arena answered, and he knows who to ask.
+Niburan fights for the money and the respect that come with winning, because nothing else in Taruzel ever offered him either. Under that, he wants the charge that put him in the arena answered, and he knows who to ask.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ Strong, skilled with heavy weapons, hard to put down.
 
 ## Social
 
-Nibûran belongs to the Gladiators' Guild of Sharîmun, which registers his fights and takes its share of every purse.
+Niburan belongs to the Gladiators' Guild of Sharimun, which registers his fights and takes its share of every purse.
 
 ## Companions
 
 ### Patrons
 
-Nibûran's patrons are the arena-master of Sharîmun, who bills him as the convict who would not die, and the guild houses that back him with their money on fight days.
+Niburan's patrons are the arena-master of Sharimun, who bills him as the convict who would not die, and the guild houses that back him with their money on fight days.
 
 ### Enemies
 
@@ -431,10 +431,10 @@ Rival fighters who want his place on the bill; the quarry guards who had charge 
 
 ## Plot Hooks
 
-1. **The Man Who Accused Him**—The clerk whose word sent Nibûran to the arena has risen to a post in the customs house, and Nibûran has found out where he lives.
+1. **The Man Who Accused Him**—The clerk whose word sent Niburan to the arena has risen to a post in the customs house, and Niburan has found out where he lives.
 
-2. **A Fixed Fight**—A guild house has offered Nibûran more than a year's purses to lose to a young fighter they are building up. He has never lost on purpose, and he is forty-two.
+2. **A Fixed Fight**—A guild house has offered Niburan more than a year's purses to lose to a young fighter they are building up. He has never lost on purpose, and he is forty-two.
 
-3. **The Quarry Again**—A young quarryman has been accused the way Nibûran was and sentenced to the same sand. Nibûran is the only man in Sharîmun who has stood where the boy stands and walked out.
+3. **The Quarry Again**—A young quarryman has been accused the way Niburan was and sentenced to the same sand. Niburan is the only man in Sharimun who has stood where the boy stands and walked out.
 
-4. **Retirement**—The arena-master has decided that Nibûran's draw is spent and means to end his run with a fight he cannot win. Nibûran has been told nothing, and the bill has been posted.
+4. **Retirement**—The arena-master has decided that Niburan's draw is spent and means to end his run with a fight he cannot win. Niburan has been told nothing, and the bill has been posted.

@@ -1,6 +1,6 @@
 ---
 shortcode: flrnyndstrmrt
-name: {full: Flirnynda Stormrót, aliases: []}
+name: {full: Flirninda Stormrót, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -388,13 +388,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Flirnynda Stormrót is a 23-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a broad jaw that leads to a strong chin. Her narrow blue eyes sit beneath thick brows and give her a keen gaze. She has a strong nose and firm lips. She has medium-toned skin with a ruddy complexion. Her auburn hair is braided and coiled at the nape.
+Flirninda Stormrót is a 23-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a broad jaw that leads to a strong chin. Her narrow blue eyes sit beneath thick brows and give her a keen gaze. She has a strong nose and firm lips. She has medium-toned skin with a ruddy complexion. Her auburn hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Flirnynda Stormrót is a ratter.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Flirninda Stormrót is a ratter.
 
-Flirnynda grew up in the city and learned rat-catching from her father. She is known for her agility and cunning, and uses traps and her own quick reflexes together to catch rodents. She takes pride in her work and is dedicated to keeping the streets free of infestations. She has a strong bond with her trained cat, Whiskers, who works alongside her.
+Flirninda grew up in the city and learned rat-catching from her father. She is known for her agility and cunning, and uses traps and her own quick reflexes together to catch rodents. She takes pride in her work and is dedicated to keeping the streets free of infestations. She has a strong bond with her trained cat, Whiskers, who works alongside her.
 
 ## Psyche
 
@@ -404,7 +404,7 @@ She can be overly focused on her work, and struggles to trust others.
 
 ### Motivation
 
-Flirnynda wants the streets she grew up in kept clear of rats, and her father's trade kept up as he taught it.
+Flirninda wants the streets she grew up in kept clear of rats, and her father's trade kept up as he taught it.
 
 ### Strengths
 
@@ -412,13 +412,13 @@ She is agile and quick, skilled with traps, and good with animals.
 
 ## Social
 
-Flirnynda belongs to no guild and works independently.
+Flirninda belongs to no guild and works independently.
 
 ## Companions
 
 ### Patrons
 
-Flirnynda's patrons are the local businesses and households with rat problems.
+Flirninda's patrons are the local businesses and households with rat problems.
 
 ### Enemies
 
@@ -426,12 +426,12 @@ Few; she is well liked in her community, though some rats remain elusive.
 
 ## Plot Hooks
 
-1. **The Ratter's Dilemma**—A householder who pays Flirnynda well wants the rats driven out rather than killed, into the street where they will become someone else's.
+1. **The Ratter's Dilemma**—A householder who pays Flirninda well wants the rats driven out rather than killed, into the street where they will become someone else's.
 
-2. **Old Grudges**—A rat Flirnynda could never catch has been seen again, in the one house whose custom she cannot afford to lose.
+2. **Old Grudges**—A rat Flirninda could never catch has been seen again, in the one house whose custom she cannot afford to lose.
 
-3. **Echoes of the Past**—A trap of Flirnynda's father's design is found set in a part of the city he never worked, and she did not set it.
+3. **Echoes of the Past**—A trap of Flirninda's father's design is found set in a part of the city he never worked, and she did not set it.
 
-4. **Shifting Winds**—Political change in Nordheim threatens the businesses Flirnynda's trade depends on, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Nordheim threatens the businesses Flirninda's trade depends on, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A merchant offers Flirnynda the keeping of his whole warehouse district at a wage, and the poisons he wants used would put Whiskers at risk.
+5. **The Opportunity**—A merchant offers Flirninda the keeping of his whole warehouse district at a wage, and the poisons he wants used would put Whiskers at risk.

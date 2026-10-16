@@ -1,6 +1,6 @@
 ---
 shortcode: zaboret
-name: {full: Zaborêt, aliases: []}
+name: {full: Zaboret, aliases: []}
 type: being
 subType: npc
 description: "Mother to a timber-merchant, who taught her daughter the language of trees before she taught her to read"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zaborêt is a 46-year-old woman who stands 5'5" tall with a light build. She has dark brown skin, greying black hair, and dark brown eyes.
+Zaboret is a 46-year-old woman who stands 5'5" tall with a light build. She has dark brown skin, greying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Zaborêt is mother to a timber-merchant, home in [[place-khelzuret|Khelzuret]]. She taught her daughter the language of trees before she taught her to read at all. The order of those two lessons tells most of what matters about this household's priorities.
+Zaboret is mother to a timber-merchant, home in [[place-khelzuret|Khelzuret]]. She taught her daughter the language of trees before she taught her to read at all. The order of those two lessons tells most of what matters about this household's priorities.

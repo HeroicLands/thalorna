@@ -1,6 +1,6 @@
 ---
 shortcode: linlagnkhlth
-name: {full: Lin'Lagun elu Aû'Khelâthu, aliases: [The Timberwrights' Guild of Aû'Khelâthu]}
+name: {full: Lin'Lagun elu Au'Khelathu, aliases: [The Timberwrights' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the empire's timber-trade, at odds with itself over what standards of quality assessment should mean
@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Lagun elu Aû'Khelâthu** is the guild of the timber trade across [[place-aukhelathrgq|Aû'Khelâthu]]: the loggers, the haulers and the timber-merchants who supply the empire's construction. It sets the standard a shipment must meet before it is sold as first quality, and its members have never agreed on what that standard means in practice. A buyer who wants certainty rather than argument pays for grading done outside the guild's own disputed procedure.
+**Lin'Lagun elu Au'Khelathu** is the guild of the timber trade across [[place-aukhelathrgq|Au'Khelathu]]: the loggers, the haulers and the timber-merchants who supply the empire's construction. It sets the standard a shipment must meet before it is sold as first quality, and its members have never agreed on what that standard means in practice. A buyer who wants certainty rather than argument pays for grading done outside the guild's own disputed procedure.
 
 ## Character
 
@@ -56,5 +56,5 @@ Say a builder in the capital orders timber for a pylon's scaffolding and has it 
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire whose construction the trade supplies
+- [[place-aukhelathrgq|Au'Khelathu]]—The empire whose construction the trade supplies
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

@@ -3,7 +3,7 @@
 ---
 
 **The Ten's devotional orders** — Twenty-nine priesthoods and militant bands, from
-Ódvar's rune-readers to Bjartr's elder-trained swords, each stand as their own
+Ódvar's rune-readers to Bjart's elder-trained swords, each stand as their own
 compendium affiliation with a cast-out, a member and a leading standing.
 
 **Each order answers to a northern name** — Eldverdir, Grönhönd, Hrafnrún and the

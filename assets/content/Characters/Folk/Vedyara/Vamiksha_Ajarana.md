@@ -1,9 +1,9 @@
 ---
 shortcode: vamikshaajar
-name: {full: Vāmiksha Ajārāna, aliases: [Captain Vāmiksha]}
+name: {full: Vamiksha Ajarana, aliases: [Captain Vamiksha]}
 type: being
 subType: npc
-description: An explorer and scholar of wide and somewhat disreputable reputation who proposes an expedition to uncharted lands, named in Padmāvali Dhanurvedakīrtirāja.
+description: An explorer and scholar of wide and somewhat disreputable reputation who proposes an expedition to uncharted lands, named in Padmavali Danurvedakirtiraja.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Vāmiksha Ajārāna is a 41-year-old woman who stands 5'4" tall with a heavy build. She has golden skin, weathered complexion, black hair, and brown eyes.
+Vamiksha Ajarana is a 41-year-old woman who stands 5'4" tall with a heavy build. She has golden skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Vāmiksha Ajārāna, styled Captain, is an explorer and scholar whose reputation is both wide and somewhat disreputable. She proposes to [[being-pdmvldhnrvdkrtrj|Padmāvali Dhanurvedakīrtirāja]] an expedition to a rumored lost kingdom in the distant jungles beyond the southern border, and wants her to accompany it as the official cartographer and historian.
+Vamiksha Ajarana, styled Captain, is an explorer and scholar whose reputation is both wide and somewhat disreputable. She proposes to [[being-pdmvldhnrvdkrtrj|Padmavali Danurvedakirtiraja]] an expedition to a rumored lost kingdom in the distant jungles beyond the southern border, and wants her to accompany it as the official cartographer and historian.

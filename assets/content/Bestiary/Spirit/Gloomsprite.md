@@ -211,7 +211,7 @@ The path forks at the old thorn tree, and you are sure you took the left fork an
 
 # Dossier {#dossier}
 
-The Gloomsprite is a small spirit of the borderlands between the spirit world and the material world, a trickster of shadow and half-light no bigger than a hand, which delights in puzzles, bargains and contradictions and leads travelers astray. It is neither wholly malicious nor at all kind. It is drawn above all to broken promises, including the ones never spoken aloud, and it punishes them the way it does everything else, by confusion. It is met in the [[place-thuravelhills|Thúravel Hills]] of southern Provènzia, the low wooded hills that are mapped with a vagueness unusual in so well-surveyed a kingdom and that the people who live near them do not go far into without a reason.
+The Gloomsprite is a small spirit of the borderlands between the spirit world and the material world, a trickster of shadow and half-light no bigger than a hand, which delights in puzzles, bargains and contradictions and leads travelers astray. It is neither wholly malicious nor at all kind. It is drawn above all to broken promises, including the ones never spoken aloud, and it punishes them the way it does everything else, by confusion. It is met in the [[place-thuravelhills|Túravel Hills]] of southern Provenzia, the low wooded hills that are mapped with a vagueness unusual in so well-surveyed a kingdom and that the people who live near them do not go far into without a reason.
 
 ## Presentation
 
@@ -219,7 +219,7 @@ A gloomsprite is the size of a hand, with a slender body and four gauzy wings, s
 
 ## In the Land
 
-The Thúravel Hills were a country of the Old Gods before the Twelve were worshipped here, and they were never really converted so much as left alone; every attempt to survey them has produced a chart that disagrees with the last. The gloomsprites haunt the edges of things there: the forks of paths, the margins of woods and clearings, the fords, the old stones, places where the light changes. They do not stay in one place and they are seldom seen in the same place twice. They are drawn to travelers, to anyone who is lost or uncertain, and to anyone carrying an unkept promise.
+The Túravel Hills were a country of the Old Gods before the Twelve were worshipped here, and they were never really converted so much as left alone; every attempt to survey them has produced a chart that disagrees with the last. The gloomsprites haunt the edges of things there: the forks of paths, the margins of woods and clearings, the fords, the old stones, places where the light changes. They do not stay in one place and they are seldom seen in the same place twice. They are drawn to travelers, to anyone who is lost or uncertain, and to anyone carrying an unkept promise.
 
 ## Key Behaviors
 

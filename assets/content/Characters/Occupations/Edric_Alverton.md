@@ -1,6 +1,6 @@
 ---
 shortcode: edriclvrtn
-name: {full: Edric Alverton, aliases: []}
+name: {full: Harrik Alverton, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Edric Alverton is a 53-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows, lending him a lively gaze. A narrow nose and curved lips complete his features. He has pale skin with a ruddy complexion. His white hair is short and swept back.
+Harrik Alverton is a 53-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows, lending him a lively gaze. A narrow nose and curved lips complete his features. He has pale skin with a ruddy complexion. His white hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edric Alverton is a farmer.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Harrik Alverton is a farmer.
 
-Edric has worked his small farm for decades, growing a variety of vegetables and raising livestock. He values hard work and takes pride in his self-sufficiency. Known for his gruff but kind demeanor, Edric often lends a hand to his neighbors when they are in need. While farming has taken a toll on his body, he refuses to give up the life he loves.
+Harrik has worked his small farm for decades, growing a variety of vegetables and raising livestock. He values hard work and takes pride in his self-sufficiency. Known for his gruff but kind demeanor, Harrik often lends a hand to his neighbors when they are in need. While farming has taken a toll on his body, he refuses to give up the life he loves.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Stubborn about changing his methods, can be overly critical.
 
 ### Motivation
 
-Edric wants his small farm to remain self-sufficient, and lends his neighbors a hand when they need it.
+Harrik wants his small farm to remain self-sufficient, and lends his neighbors a hand when they need it.
 
 ### Strengths
 
@@ -418,13 +418,13 @@ Experienced in farming and animal husbandry, resilient, helpful to others.
 
 ## Social
 
-Edric is affiliated with Rural Farmers' Cooperative.
+Harrik is affiliated with Rural Farmers' Cooperative.
 
 ## Companions
 
 ### Patrons
 
-Local markets and inns buy Edric's produce and meat.
+Local markets and inns buy Harrik's produce and meat.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ None; generally well-regarded in the community.
 
 ## Plot Hooks
 
-1. **The Farmer's Dilemma**—Edric faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Farmer's Dilemma**—Harrik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—None; generally well-regarded in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Edric's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Harrik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Edric depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Harrik depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Edric the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Harrik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

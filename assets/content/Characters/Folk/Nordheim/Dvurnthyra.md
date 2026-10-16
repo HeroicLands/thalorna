@@ -1,6 +1,6 @@
 ---
 shortcode: dvurnthyra
-name: {full: Dvurnthýra, aliases: [Lady Dvurnthýra]}
+name: {full: Dvurnthira, aliases: [Lady Dvurnthira]}
 type: being
 subType: npc
 description: A scholar and collector of traditional wisdom, of the Archives, who travels Malagna documenting dying crafts, named in Hliskthann Vetrdómr.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dvurnthýra is a 41-year-old woman who stands 5'6" tall with a heavy build. She has fair skin, freckled complexion, brown hair, and grey eyes.
+Dvurnthira is a 41-year-old woman who stands 5'6" tall with a heavy build. She has fair skin, freckled complexion, brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Dvurnthýra is a scholar and collector of traditional wisdom, of the Archives, who travels Malagna documenting dying crafts. She asks Hliskthann to become the subject of a comprehensive written record of his techniques. Dvurnthýra is named in [[being-hlskthnvtrdmr|Hliskthann Vetrdómr]].
+Dvurnthira is a scholar and collector of traditional wisdom, of the Archives, who travels Malagna documenting dying crafts. She asks Hliskthann to become the subject of a comprehensive written record of his techniques. Dvurnthira is named in [[being-hlskthnvtrdmr|Hliskthann Vetrdómr]].

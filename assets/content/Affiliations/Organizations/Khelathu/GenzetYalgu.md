@@ -3,7 +3,7 @@ shortcode: genzetyalgu
 name: {full: Genzet'Yalgu, aliases: [The Court of the Nine Moons]}
 type: affiliation
 subType: governmental
-description: A body of the court whose business is conducted out of the Gar-Aû's hearing, and whose intrigues reach further than the capital
+description: A body of the court whose business is conducted out of the Gar-Au's hearing, and whose intrigues reach further than the capital
 tags: [generated, draft]
 data:
   culture: khelathiclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      The Court of the Nine Moons, a body of the imperial court that conducts its business out of the Gar-Aû's hearing and trades influence, information and favor among its members.
+      The Court of the Nine Moons, a body of the imperial court that conducts its business out of the Gar-Au's hearing and trades influence, information and favor among its members.
     ranks:
       - level: 0
         title: Unnamed
@@ -23,7 +23,7 @@ data:
       - level: 1
         title: Of the Nine Moons
         description: >-
-          Seated in the court's hidden body, trading influence and favor out of the Gar-Aû's hearing.
+          Seated in the court's hidden body, trading influence and favor out of the Gar-Au's hearing.
     offices: {}
   seat: null
   population: 0
@@ -36,13 +36,13 @@ data:
 
 ## Overview
 
-**Genzet'Yalgu**, the **Court of the Nine Moons**, does its business out of the [[lore-garauu|Gar-Aû]]'s hearing on purpose. It is a body of the imperial court whose members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike.
+**Genzet'Yalgu**, the **Court of the Nine Moons**, does its business out of the [[lore-garauu|Gar-Au]]'s hearing on purpose. It is a body of the imperial court whose members trade influence, information and favor among themselves, and its intrigues reach well beyond [[place-galezkara|Galezkara]] into the provinces and the temples alike.
 
 ## Character
 
 "I can tell you what is said about it," an old palace scribe tells a visitor, lowering his voice, "and I cannot tell you what is true. That is how it prefers to be known."
 
-The Court of the Nine Moons is secretive by design. It conducts its business out of the Gar-Aû's hearing and values influence, information and favor above open rank. Whoever sits in it is seated there for reasons that do not appear in the ranks of the court.
+The Court of the Nine Moons is secretive by design. It conducts its business out of the Gar-Au's hearing and values influence, information and favor above open rank. Whoever sits in it is seated there for reasons that do not appear in the ranks of the court.
 
 ## Relations
 

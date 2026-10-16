@@ -1,6 +1,6 @@
 ---
 shortcode: zttyblnn
-name: {full: Zattûya Balînûnî, aliases: []}
+name: {full: Zattuya Balinuni, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Zattûya Balînûnî is a 31-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with high cheekbones, a wide forehead, and a narrow jaw that leads to a strong chin. Her almond-shaped dark brown eyes sit beneath straight brows and give her a measured gaze. She has a hawkish nose and thin lips. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair falls in dark cascades.
+Zattuya Balinuni is a 31-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with high cheekbones, a wide forehead, and a narrow jaw that leads to a strong chin. Her almond-shaped dark brown eyes sit beneath straight brows and give her a measured gaze. She has a hawkish nose and thin lips. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair falls in dark cascades.
 
 # Dossier {#dossier}
 
-Zattûya Balînûnî is a timberwright of Sazûmun, the port city at the mouth of the [[place-alzriver|Alz River]] in Tarûzel, a Tarûzelian freewoman who chooses the standing trees that become the city's ships and furniture.
+Zattuya Balinuni is a timberwright of Sazumun, the port city at the mouth of the [[place-alzriver|Alz River]] in Taruzel, a Taruzelian freewoman who chooses the standing trees that become the city's ships and furniture.
 
-Zattûya was born to timberwrights in the hill woods up the Alz valley, where the family has cut for three generations. Her work begins before the axe: she walks a stand, reads the lean of a trunk and the run of its grain, and marks which tree will make a keel, which a mast, which a chest, and which will split in the seasoning. The shipwrights of Sazûmun have learned that a stem with her mark on it does not surprise them on the saw-bench. She will not mark a tree she has doubts about, which the shipwrights value and the timber-dealers do not.
+Zattuya was born to timberwrights in the hill woods up the Alz valley, where the family has cut for three generations. Her work begins before the axe: she walks a stand, reads the lean of a trunk and the run of its grain, and marks which tree will make a keel, which a mast, which a chest, and which will split in the seasoning. The shipwrights of Sazumun have learned that a stem with her mark on it does not surprise them on the saw-bench. She will not mark a tree she has doubts about, which the shipwrights value and the timber-dealers do not.
 
 She has been slower to be accepted in the compact than her marks have been in the yards. The older men say a woman cannot read a tree, and she answers them by never once being wrong about one.
 
@@ -405,11 +405,11 @@ She has been slower to be accepted in the compact than her marks have been in th
 
 ### Personality
 
-Zattûya is exact, quiet and hard to hurry, cautious to a fault in choosing a tree, and she takes a doubt about her judgment as a challenge to be answered with the next stem.
+Zattuya is exact, quiet and hard to hurry, cautious to a fault in choosing a tree, and she takes a doubt about her judgment as a challenge to be answered with the next stem.
 
 ### Motivation
 
-Zattûya wants the right tree for the right work, every time, and she wants the men of the compact to take her word on a stand as they take each other's. The second will follow the first only if she outlives them.
+Zattuya wants the right tree for the right work, every time, and she wants the men of the compact to take her word on a stand as they take each other's. The second will follow the first only if she outlives them.
 
 ### Strengths
 
@@ -417,24 +417,24 @@ Skilled at choosing and working timber, knows the trees of the Alz woods.
 
 ## Social
 
-Zattûya is registered as a master with the Timberwrights' Compact of Sazûmun, chartered under the Vezâkûnî, and sits at the bottom of its seniority.
+Zattuya is registered as a master with the Timberwrights' Compact of Sazumun, chartered under the Vezakuni, and sits at the bottom of its seniority.
 
 ## Companions
 
 ### Patrons
 
-Zattûya's patrons are the shipwrights of the Sazûmun yards, who ask for her marks on their keel and mast timber.
+Zattuya's patrons are the shipwrights of the Sazumun yards, who ask for her marks on their keel and mast timber.
 
 ### Enemies
 
-The vezâkum of the compact, an old timber-dealer who has said in council that a woman marking ship-timber is a joke the yards will regret; and the dealers whose stems the shipwrights now send back.
+The vezakum of the compact, an old timber-dealer who has said in council that a woman marking ship-timber is a joke the yards will regret; and the dealers whose stems the shipwrights now send back.
 
 ## Plot Hooks
 
-1. **The Keel**—A galley built on a keel Zattûya refused and another timberwright passed has broken its back in the first heavy sea. The yard wants her to say so before the compact; the vezâkum wants her silent.
+1. **The Keel**—A galley built on a keel Zattuya refused and another timberwright passed has broken its back in the first heavy sea. The yard wants her to say so before the compact; the vezakum wants her silent.
 
 2. **The Hill Stand**—The best oak she has found in years stands on ground the hill tribes up the valley say is theirs, and the compact's charter says nothing about tribes.
 
-3. **The Examination**—The compact has called Zattûya to re-examination on a complaint about her marks. The complaint is the vezâkum's, and the examiners are his.
+3. **The Examination**—The compact has called Zattuya to re-examination on a complaint about her marks. The complaint is the vezakum's, and the examiners are his.
 
-4. **The Factors' Timber**—The House of Factors has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Zattûya would not mark a tree like it.
+4. **The Factors' Timber**—The House of Factors has contracted for cheap ship-timber from over the sea, and the shipwrights have been told to use it. Zattuya would not mark a tree like it.

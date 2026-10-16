@@ -1,10 +1,10 @@
 ---
 shortcode: wogenhenzhuo
-name: {full: Wògèn Hènzhuo, aliases: [Master Tiger of the Steppes]}
+name: {full: Wogen Henzhuo, aliases: [Master Tiger of the Steppes]}
 type: being
 subType: npc
 description: >-
-  Warlord risen out of the Hénhatōu, the Black Wilds north of the Empire of Tāntsou—a master strategist whose steppe confederation has become the gravest external threat the imperial frontier has faced in a generation.
+  Warlord risen out of the Hénhatou, the Black Wilds north of the Empire of Tantsou—a master strategist whose steppe confederation has become the gravest external threat the imperial frontier has faced in a generation.
 tags: [draft]
 data:
   icon: icon-person
@@ -35,15 +35,15 @@ A broad, unhurried man in a felt coat sewn with iron plates sits his horse a lit
 
 # Dossier {#dossier}
 
-**Wògèn Hènzhuo**, called the Master Tiger of the Steppes, is the warlord of the **Hénhatōu**, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tāntsou]] beyond the [[place-grkrhlmrgn|Grukari]] marches. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern provinces. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
+**Wogen Henzhuo**, called the Master Tiger of the Steppes, is the warlord of the **Hénhatou**, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]] beyond the [[place-grkrhlmrgn|Grukari]] marches. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern provinces. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
 
 ## Background
 
-**The divided steppe.** For generations the tribes of the Hénhatōu fought one another over grazing, wells and blood debts, and the empire's border garrisons kept them divided with gifts to one chief and raids against another. Wògèn began as the war-leader of a minor tribe. He bound the others to him one at a time: by marriage where a chief had a daughter, by treaty where a chief had sense, and by slaughter where he had neither. To the tribes he presented himself as their strength gathered in one hand, and he promised them the riches of the south.
+**The divided steppe.** For generations the tribes of the Hénhatou fought one another over grazing, wells and blood debts, and the empire's border garrisons kept them divided with gifts to one chief and raids against another. Wogen began as the war-leader of a minor tribe. He bound the others to him one at a time: by marriage where a chief had a daughter, by treaty where a chief had sense, and by slaughter where he had neither. To the tribes he presented himself as their strength gathered in one hand, and he promised them the riches of the south.
 
-**The open door.** He chose his moment. Infighting among the [[lore-wohou|Wòhou]] lords of the north thinned the frontier garrisons, and the court was too busy with its own intrigues to notice the steppe uniting. By the time a Warlord's report reached the capital, the border was porous and the tribes answered to one man.
+**The open door.** He chose his moment. Infighting among the [[lore-wohou|Wohou]] lords of the north thinned the frontier garrisons, and the court was too busy with its own intrigues to notice the steppe uniting. By the time a Warlord's report reached the capital, the border was porous and the tribes answered to one man.
 
-**The hungry years.** A run of hard winters and failing grazing drove the tribes south in any case. Wògèn turned that hunger into a war aim: the steppe could starve, or it could take the empire's rice basins.
+**The hungry years.** A run of hard winters and failing grazing drove the tribes south in any case. Wogen turned that hunger into a war aim: the steppe could starve, or it could take the empire's rice basins.
 
 ## Psyche
 
@@ -61,27 +61,27 @@ He turns raiders into soldiers. His horsemen ride in disciplined companies, stri
 
 ### Weaknesses
 
-The confederation is held together by his person and by plunder. A season without victories, or a blow to Wògèn himself, would set the tribes at each other's throats again, and every chief he subdued remembers how.
+The confederation is held together by his person and by plunder. A season without victories, or a blow to Wogen himself, would set the tribes at each other's throats again, and every chief he subdued remembers how.
 
 ## Social
 
 ### Enemies
 
-- **The northern Warlords**: the Zhazhò lords whose provinces he raids, each of whom would win the court's favor by bringing back his head and none of whom will yet cooperate with the others to do it.
+- **The northern Warlords**: the Zhazho lords whose provinces he raids, each of whom would win the court's favor by bringing back his head and none of whom will yet cooperate with the others to do it.
 
 ### Affiliations
 
-- **The Hénhatōu confederation**: the tribes of the Black Wilds, sworn to him as their single war-leader.
+- **The Hénhatou confederation**: the tribes of the Black Wilds, sworn to him as their single war-leader.
 
 ## Plot Hooks
 
 1. **The Burned Granaries**: A chain of supply depots in the northern provinces burns in one night. The garrison commander blames the riders; the party finds a forged order that emptied the guard the night before, and the forger was someone inside the province.
-2. **An Offer to the Exiles**: Wògèn's envoys are seeking out exiled Wòhou and rebel factions, offering them places in the realm he means to carve from the north. One of them has approached [[being-tuijawengyan|Tuìja Wéngyàn]], and the empire would pay well to know the answer.
-3. **The Lost Caravan**: A Shuonong merchant's caravan vanished on the northern road with a cargo the merchant will not name. The steppe riders have it, and Wògèn is willing to bargain for something other than silver.
+2. **An Offer to the Exiles**: Wogen's envoys are seeking out exiled Wohou and rebel factions, offering them places in the realm he means to carve from the north. One of them has approached [[being-tuijawengyan|Tuija Wengyan]], and the empire would pay well to know the answer.
+3. **The Lost Caravan**: A Shuonong merchant's caravan vanished on the northern road with a cargo the merchant will not name. The steppe riders have it, and Wogen is willing to bargain for something other than silver.
 4. **The Example**: Peasants in a northern district, crushed by war taxes, have begun to say the Master Tiger would treat them better than their lord. The magistrate wants the talk stopped, and the people saying it are not wrong about the taxes.
 
 ## See Also
 
-- [[being-tuijawengyan|Tuìja Wéngyàn]]—the exiled general whose rebellion could join Wògèn's war
+- [[being-tuijawengyan|Tuija Wengyan]]—the exiled general whose rebellion could join Wogen's war
 - [[place-grkrhlmrgn|Grukarholm Region]]—the northern marches between the empire and the steppe
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—the power he presses against
+- [[affiliation-tantsouempr|Empire of Tantsou]]—the power he presses against

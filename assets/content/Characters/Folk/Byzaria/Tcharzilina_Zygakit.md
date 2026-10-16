@@ -1,9 +1,9 @@
 ---
 shortcode: tcharzilinaz
-name: {full: Tchârzilína Zygákit, aliases: [Lady Tchârzilína Zygákit]}
+name: {full: Charzilina Zigakit, aliases: [Lady Charzilina Zigakit]}
 type: being
 subType: npc
-description: Mother of Agélâra Stetês, officially estranged from her husband.
+description: Mother of Agélara Stetes, officially estranged from her husband.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Tchârzilína Zygákit is a 50-year-old woman who stands 5'10" tall with a heavy build. She has olive skin, ruddy complexion, auburn hair, and hazel eyes.
+Charzilina Zigakit is a 50-year-old woman who stands 5'10" tall with a heavy build. She has olive skin, ruddy complexion, auburn hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Tchârzilína Zygákit is the mother of [[being-aglrmlsns|Agélâra Stetês]], officially estranged from her husband.
+Charzilina Zigakit is the mother of [[being-aglrmlsns|Agélara Stetes]], officially estranged from her husband.

@@ -3,7 +3,7 @@ shortcode: valsuma
 name: {full: Valsuma, aliases: [High Priestess Valsuma]}
 type: being
 subType: npc
-description: A woman nearly eighty years old who served the god for sixty years and mentored Sharmînah Tahvân.
+description: A woman nearly eighty years old who served the god for sixty years and mentored Sharminah Tahvan.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Valsuma is a 78-year-old woman who stands 5'9" tall with a medium build. She has
 
 # Dossier {#dossier}
 
-Valsuma is a high priestess nearly eighty years old who has served the god for sixty years and mentored [[being-shrmnhthvn|Sharmînah Tahvân]] from the age of six. Now quite elderly and spending most of her time in deep meditation, she remains the highest authority in the temple and Sharmînah's spiritual mother, and she does not restrain Sharmînah's zealotry.
+Valsuma is a high priestess nearly eighty years old who has served the god for sixty years and mentored [[being-shrmnhthvn|Sharminah Tahvan]] from the age of six. Now quite elderly and spending most of her time in deep meditation, she remains the highest authority in the temple and Sharminah's spiritual mother, and she does not restrain Sharminah's zealotry.

@@ -28,7 +28,7 @@ data:
       - level: 2
         title: Lekhau
         description: >-
-          Holder of sacred power: permitted to speak the House's formulae and to inscribe them. The rank is the ordinary working practitioner, and in Aû'Khelâthu it is held by priests rather than by any separate class of mage.
+          Holder of sacred power: permitted to speak the House's formulae and to inscribe them. The rank is the ordinary working practitioner, and in Au'Khelathu it is held by priests rather than by any separate class of mage.
       - level: 3
         title: Khel-Gebu
         description: >-
@@ -36,7 +36,7 @@ data:
       - level: 4
         title: Wer Khel-Gebu
         description: >-
-          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must go and correct it.
+          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must gho and correct it.
     offices:
       Reader of the Hours: >-
         Fixes the exact moment a formula must be spoken, the House's workings being bound to the sun's position rather than to the practitioner's readiness.

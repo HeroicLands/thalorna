@@ -391,11 +391,11 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 **The Wanderers of Mótefnir**—The scattered followers of the Maker who abandons his work, who see Dvurnvir as the most promising practitioner of Mótefnir's creative arts and supply him with rare materials and forbidden texts.
 
-**Arkálís of the [[affiliation-panepistmm|Plûmepistémion]]**—A Plûmepistémion (the Academy of Knowledge) scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
+**Arkalís of the [[affiliation-panepistmm|Epistémion]]**—A Epistémion (the Academy of Knowledge) scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
 
 ### Enemies
 
-[[affiliation-ordoarcanis|The Thôrdimâlon]]—The Arcane Order views Dvurnvir's unsanctioned manipulation of magical creatures as a serious threat and has dispatched _sêkhêrândoi_ (inquirers) to investigate his activities.
+[[affiliation-ordoarcanis|The Thordimalon]]—The Arcane Order views Dvurnvir's unsanctioned manipulation of magical creatures as a serious threat and has dispatched _sekeroi_ (inquirers) to investigate his activities.
 
 **The Dreadspawn Hunters**—A vigilante group dedicated to destroying all Dreadspawn, who view Dvurnvir as a dangerous madman whose work creates more monsters for the world to suffer.
 
@@ -405,4 +405,4 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 2. **The Guardian's Awakening**—The Forsaken Guardian has begun displaying independent thought and emotions. Dvurnvir must decide whether this is a breakthrough or a catastrophe.
 
-3. **The Arcane Order's Ultimatum**—_Sêkhêrândoi_ have arrived with an ultimatum: submit to the Arcane Order's authority or be destroyed. Dvurnvir must choose between his independence and his survival, or find a third option.
+3. **The Arcane Order's Ultimatum**—_Sekeroi_ have arrived with an ultimatum: submit to the Arcane Order's authority or be destroyed. Dvurnvir must choose between his independence and his survival, or find a third option.

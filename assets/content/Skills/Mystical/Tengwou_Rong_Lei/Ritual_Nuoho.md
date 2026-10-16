@@ -1,6 +1,6 @@
 ---
 shortcode: nuoho
-name: {full: "Ritual: Nuòhò", aliases: [Nuòhò, The Burning Dissolution, The Unmaker]}
+name: {full: "Ritual: Nuoho", aliases: [Nuoho, The Burning Dissolution, The Unmaker]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-nuoho|Nuòhò]]
+See [[affiliation-nuoho|Nuoho]]

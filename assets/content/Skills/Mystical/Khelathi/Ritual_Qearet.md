@@ -1,6 +1,6 @@
 ---
 shortcode: ritualqearet
-name: {full: "Ritual: Qe'âret", aliases: [Keeper of Truth and Harmony]}
+name: {full: "Ritual: Qe'aret", aliases: [Keeper of Truth and Harmony]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-qearet|Faith of Qe'âret]]
+See [[affiliation-qearet|Faith of Qe'aret]]

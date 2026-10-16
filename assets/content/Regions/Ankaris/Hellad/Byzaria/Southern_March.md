@@ -3,7 +3,7 @@ shortcode: southrnmrch
 name: {full: Southern March, aliases: []}
 type: place
 subType: region
-description: The Byzarian League's southern frontier district—dry pastoral upland and hunting country on the caravan road from Karvashion toward Dunhara, held by Lord Vaskan for the League council.
+description: The Bizarian League's southern frontier district—dry pastoral upland and hunting country on the caravan road from Karvashion toward Dunhara, held by Lord Vaskan for the League council.
 tags: [region]
 data:
   demonym: null
@@ -15,15 +15,15 @@ data:
 # terran_analog: "The dry south-eastern Anatolian plateau and its descent toward the Syrian steppe—Cilicia and the upper Euphrates marches."
 ---
 
-The Southern March is the frontier district of the [[affiliation-byzarianlg|Byzarian League]] on the south-eastern flank of [[place-byzariargn|Byzaría]], where the plateau dries out toward the border of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] and the caravan road leaves [[affiliation-karvashion|Karvashion]] for [[place-dunharargn|Dunhara]]. It is pastoral upland—sheep, goats and horses on thin grass, hunting in the scrub and the gorges—and it is held for the League by a landed lord rather than a soldier, because the trouble it faces is the kind a landed lord handles: tolls, grazing rights, poachers, feuds and the occasional raid.
+The Southern March is the frontier district of the [[affiliation-byzarianlg|Bizarian League]] on the south-eastern flank of [[place-byzariargn|Bizaria]], where the plateau dries out toward the border of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] and the caravan road leaves [[affiliation-karvashion|Karvashion]] for [[place-dunharargn|Dunhara]]. It is pastoral upland—sheep, goats and horses on thin grass, hunting in the scrub and the gorges—and it is held for the League by a landed lord rather than a soldier, because the trouble it faces is the kind a landed lord handles: tolls, grazing rights, poachers, feuds and the occasional raid.
 
-Like the League's other marches it is common territory outside any city's charter. Its lord holds a commission from the League council in [[affiliation-khryshteikhos|Khrýshteíkhos]] and answers to it, and the district's garrison is a detachment of the joint army. The commission is at present held by **Lord Vaskan of the Southern March**, whose house has hunted this country for generations and who governs it in the manner of a great landowner: from the saddle, by custom, and with a memory for every family in it.
+Like the League's other marches it is common territory outside any city's charter. Its lord holds a commission from the League council in [[affiliation-khryshteikhos|Krusteikhos]] and answers to it, and the district's garrison is a detachment of the joint army. The commission is at present held by **Lord Vaskan of the Southern March**, whose house has hunted this country for generations and who governs it in the manner of a great landowner: from the saddle, by custom, and with a memory for every family in it.
 
 ## Geography
 
-The March is the southern rim of the Byzarian plateau. Behind Karvashion's green valley the hills rise into a dry, rolling upland of pale limestone and red earth, cut by gorges where seasonal streams run in winter and stand in pools by summer. Grass is thin and the trees are scrub—juniper, wild pistachio, thorn—except along the watercourses, where poplar and plane give shade to the villages. Southward the upland tilts down in long ridges into the arid country of the Kingdom, which runs down to the eastern shore of the [[place-vylarianse|Vylarian Sea]] on its western side and shades into Dunhari caravan country on its inland side.
+The March is the southern rim of the Bizarian plateau. Behind Karvashion's green valley the hills rise into a dry, rolling upland of pale limestone and red earth, cut by gorges where seasonal streams run in winter and stand in pools by summer. Grass is thin and the trees are scrub—juniper, wild pistachio, thorn—except along the watercourses, where poplar and plane give shade to the villages. Southward the upland tilts down in long ridges into the arid country of the Kingdom, which runs down to the eastern shore of the [[place-vylarianse|Vylarian Sea]] on its western side and shades into Dunhari caravan country on its inland side.
 
-The caravan road runs the length of the March from Karvashion's southern gate to the last League caravanserai, where the road passes out of Byzarian territory. The road is the March's spine; its villages, forts and wells lie along it or a short ride from it. Away from the road the upland is big, empty and known in detail only to the herders and the huntsmen.
+The caravan road runs the length of the March from Karvashion's southern gate to the last League caravanserai, where the road passes out of Bizarian territory. The road is the March's spine; its villages, forts and wells lie along it or a short ride from it. Away from the road the upland is big, empty and known in detail only to the herders and the huntsmen.
 
 The March's southern edge is Amradi border country—a line of hills and customs posts rather than a frontier anyone would fight over, crossed daily by drovers and smugglers in both directions.
 
@@ -31,7 +31,7 @@ The March's southern edge is Amradi border country—a line of hills and customs
 
 The upland is the finest hunting ground in the Hellád, and its lords treat it as such. Wild boar root in the gorges, gazelle and wild sheep graze the high ridges, wolves follow the herds, and leopard are taken in the remotest country. The great hunts of the Southern March are its political season: the League's merchant-princes and foreign envoys are invited, the lord's hospitality is lavish, and more League business is settled around the hunting fires than in half the sessions of the council.
 
-Vaskan hunts with trained beasts—hounds, hawks and coursing cats—and pays well for them. His animals come from the best trainers he can find, including [[being-akhrelrthllr|Akhrelu Reth'el'Lêru]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] across the sea, who has supplied the lord's kennels and mews for decades and whom Vaskan values because he treats the animals with consideration. The lord's huntsmen double as the March's rangers, and the lord's kennels have furnished war-dogs and scouting beasts for the League's border campaigns more than once.
+Vaskan hunts with trained beasts—hounds, hawks and coursing cats—and pays well for them. His animals come from the best trainers he can find, including [[being-akhrelrthllr|Akhrelu Reth'el'Leru]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] across the sea, who has supplied the lord's kennels and mews for decades and whom Vaskan values because he treats the animals with consideration. The lord's huntsmen double as the March's rangers, and the lord's kennels have furnished war-dogs and scouting beasts for the League's border campaigns more than once.
 
 ## Garrison and Governance
 
@@ -41,18 +41,18 @@ The relationship with Karvashion is close and unequal. The city's caravansary ma
 
 ## Peoples
 
-The March's people are herders and villagers of upland Byzarian stock, conservative, clan-minded and Aurèldían in the eastern rite, with a scattering of Dunhari-descended families along the caravan road who keep [[affiliation-ashanpnthn|Āsháian]] shrines and the honor code of the desert. Dunhari caravans pass through under the League's truce and camp at the caravanserais; Amradi drovers come up from the south to buy sheep. The upland speaks [[skill-byzarnlng|Byzarian]] with its own accent and regards the coastal cities as rich, soft and far away.
+The March's people are herders and villagers of upland Bizarian stock, conservative, clan-minded and Aureldian in the eastern rite, with a scattering of Dunhari-descended families along the caravan road who keep [[affiliation-ashanpnthn|Ashaian]] shrines and the honor code of the desert. Dunhari caravans pass through under the League's truce and camp at the caravanserais; Amradi drovers come up from the south to buy sheep. The upland speaks [[skill-byzarnlng|Bizarian]] with its own accent and regards the coastal cities as rich, soft and far away.
 
 ## Economy
 
-The March lives on stock and passage. It sends wool, hides, cheese and horses down to Karvashion and [[place-byzaris|Byzaris]]—the hideworkers of Byzaris take the greater part of the March's leather—and sells sheep across the Amradi line. The caravan road brings tolls, escort fees and the trade of the caravanserais; incense, dyestuffs and Dunhari silver come up it, and Órashion iron and coastal wine go down. The hunts bring the lord prestige and the March the custom of the League's richest men, which the villages along the road have learned to charge for.
+The March lives on stock and passage. It sends wool, hides, cheese and horses down to Karvashion and [[place-byzaris|Bizaris]]—the hideworkers of Bizaris take the greater part of the March's leather—and sells sheep across the Amradi line. The caravan road brings tolls, escort fees and the trade of the caravanserais; incense, dyestuffs and Dunhari silver come up it, and Órashion iron and coastal wine go down. The hunts bring the lord prestige and the March the custom of the League's richest men, which the villages along the road have learned to charge for.
 
 ## See Also
 
-- [[place-byzariargn|Byzaría Region]]—the region the March belongs to
-- [[affiliation-byzarianlg|Byzarian League]]—the confederation that commissions its lord
+- [[place-byzariargn|Bizaria Region]]—the region the March belongs to
+- [[affiliation-byzarianlg|Bizarian League]]—the confederation that commissions its lord
 - [[affiliation-karvashion|Karvashion]]—the city that anchors it
 - [[place-dunharargn|Dunhara Region]]—the country its road leads to
 - [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the neighbor across its southern hills
 - [[place-eastrnmrch|Eastern March]], [[place-northrnmrch|Northern March]]—the League's other marches
-- [[being-akhrelrthllr|Akhrelu Reth'el'Lêru]]—trainer of the lord's beasts
+- [[being-akhrelrthllr|Akhrelu Reth'el'Leru]]—trainer of the lord's beasts

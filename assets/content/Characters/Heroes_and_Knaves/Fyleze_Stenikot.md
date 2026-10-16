@@ -1,6 +1,6 @@
 ---
 shortcode: fylzstnkt
-name: {full: Fýléze Steníkot, given: Fýléze, clan: Steníkot, aliases: []}
+name: {full: Fileze Stenikot, given: Fileze, clan: Stenikot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -416,15 +416,15 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fylzstnkt|Fýléze Steníkot]]{float=top-left}
+![[fylzstnkt|Fileze Stenikot]]{float=top-left}
 
-Fýléze stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.
+Fileze stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.
 
 # Dossier {#dossier}
 
-Fýléze was born into a merchant family of middling prosperity in the [[affiliation-byzarianlg|Byzarian League]], the third of four daughters. Where her sisters were groomed for advantageous marriages, Fýléze showed an early talent for the martial arts—a transgression her father initially forbade. When she was fourteen, bandits attacked a merchant convoy that included her aunt. Fýléze's mother, a woman of unexpected steel, taught her daughter in secret, and by sixteen, Fýléze had proven her worth beyond argument by helping defend a village against raiders.
+Fileze was born into a merchant family of middling prosperity in the [[affiliation-byzarianlg|Bizarian League]], the third of four daughters. Where her sisters were groomed for advantageous marriages, Fileze showed an early talent for the martial arts—a transgression her father initially forbade. When she was fourteen, bandits attacked a merchant convoy that included her aunt. Fileze's mother, a woman of unexpected steel, taught her daughter in secret, and by sixteen, Fileze had proven her worth beyond argument by helping defend a village against raiders.
 
-Rather than accept a husband or business partnership, Fýléze formally joined the **Mercenaries' Guild** at eighteen, much to her father's dismay. She spent her twenties undertaking increasingly dangerous contracts: guarding caravans through bandit-infested regions, protecting settlements threatened by brigands, and slowly building a reputation as someone with both skill and an uncommon moral compass. Unlike many mercenaries, Fýléze refuses contracts that would harm innocents, has never accepted a job involving slavery or trafficking, and actively works against those who exploit the weak.
+Rather than accept a husband or business partnership, Fileze formally joined the **Mercenaries' Guild** at eighteen, much to her father's dismay. She spent her twenties undertaking increasingly dangerous contracts: guarding caravans through bandit-infested regions, protecting settlements threatened by brigands, and slowly building a reputation as someone with both skill and an uncommon moral compass. Unlike many mercenaries, Fileze refuses contracts that would harm innocents, has never accepted a job involving slavery or trafficking, and actively works against those who exploit the weak.
 
 Now twenty-nine, she maintains her guild membership but operates with unusual independence, selecting clients based on merit rather than payment. She has become something between a mercenary and a hero-for-hire, drawing both respect and resentment from her peers.
 
@@ -432,17 +432,17 @@ Now twenty-nine, she maintains her guild membership but operates with unusual in
 
 ### Personality
 
-Fýléze is direct to the point of bluntness, valuing honesty over courtesy. This can make her seem cold to those who prefer social niceties, but those who work with her come to understand that her straightforwardness is not rudeness but rather respect for others' intelligence. She says what she means and trusts others to do the same. In combat, she is swift and decisive. In conversation, she listens more than she speaks, seeking to understand others' perspectives.
+Fileze is direct to the point of bluntness, valuing honesty over courtesy. This can make her seem cold to those who prefer social niceties, but those who work with her come to understand that her straightforwardness is not rudeness but rather respect for others' intelligence. She says what she means and trusts others to do the same. In combat, she is swift and decisive. In conversation, she listens more than she speaks, seeking to understand others' perspectives.
 
 Her greatest strength may be her empathy—a trait unusual among mercenaries. She remembers the faces of those she has protected, follows up on their fates, and takes personal responsibility for her failures. This empathy is not sentimentality; it is disciplined compassion that drives her toward justice.
 
 ### Motivation
 
-Fýléze is motivated by a desire to protect those who cannot protect themselves. She has seen what unchecked violence and exploitation can do to communities and has made it her personal mission to be a counterweight to that darkness. She fights not for gold—though she accepts fair payment—but for the satisfaction of seeing families safe and communities restored. There is also a personal drive: a need to prove that a woman can be as strong a warrior and leader as any man, and that strength can be wielded with integrity.
+Fileze is motivated by a desire to protect those who cannot protect themselves. She has seen what unchecked violence and exploitation can do to communities and has made it her personal mission to be a counterweight to that darkness. She fights not for gold—though she accepts fair payment—but for the satisfaction of seeing families safe and communities restored. There is also a personal drive: a need to prove that a woman can be as strong a warrior and leader as any man, and that strength can be wielded with integrity.
 
 ### Strengths
 
-- **Master Swordswoman**: Fýléze's skill with a longsword and shield is outstanding. Her technique is flawless, her reflexes sharp, and her instincts honed through countless real combat encounters.
+- **Master Swordswoman**: Fileze's skill with a longsword and shield is outstanding. Her technique is flawless, her reflexes sharp, and her instincts honed through countless real combat encounters.
 - **Tactical Brilliance**: She can assess a situation rapidly and deploy limited resources to maximum effect. She has trained bandits with far larger numbers through clever positioning and pressure on the enemy's nerves.
 - **Natural Leader**: Her presence inspires confidence. Even untrained militia follow her orders without hesitation because she radiates competence and concern for their welfare.
 - **Endurance**: Years of conditioning give her stamina in prolonged combat or travel. She can maintain fighting effectiveness longer than most.
@@ -450,7 +450,7 @@ Fýléze is motivated by a desire to protect those who cannot protect themselves
 
 ### Weaknesses
 
-- **Idealism Liability**: Fýléze's moral commitments sometimes make her vulnerable to clients who manipulate her sense of justice. She has accepted disadvantageous contracts because she believed in the cause.
+- **Idealism Liability**: Fileze's moral commitments sometimes make her vulnerable to clients who manipulate her sense of justice. She has accepted disadvantageous contracts because she believed in the cause.
 - **Difficulty with Cruelty**: She cannot stomach unnecessary brutality, hesitating at moments requiring ruthlessness. This has cost her contracts and, occasionally, has prevented her from achieving objectives.
 - **Pride in Reputation**: Her need to maintain her status as a mercenary of principle makes her inflexible in negotiations and sometimes leads her to accept risks unnecessarily to preserve her honor.
 - **Limited Resources**: Operating independently and refusing wealthy but morally questionable patrons means she often works with limited funds and equipment compared to less scrupulous mercenaries.
@@ -461,41 +461,41 @@ Fýléze is motivated by a desire to protect those who cannot protect themselves
 ### Patrons
 
 The Village Council of [[place-marshfeld|Marshfeld]]
-: A agrarian community that hires Fýléze annually to protect against bandits and raiders. **Elder Magistrate Raza** has become a mentor figure, offering wisdom and support.
+: A agrarian community that hires Fileze annually to protect against bandits and raiders. **Elder Magistrate Raza** has become a mentor figure, offering wisdom and support.
 
-Lady Tûlvâzéa Melitákit
-: A noblewoman of conscience who uses her influence to connect Fýléze with communities in need of protection. She asks only that Fýléze help those who cannot afford formal mercenary rates.
+Lady Tulvazea Melitakit
+: A noblewoman of conscience who uses her influence to connect Fileze with communities in need of protection. She asks only that Fileze help those who cannot afford formal mercenary rates.
 
 The Scholars' Collective of the Archive
-: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch Menandáhr**, retains Fýléze for sensitive operations involving recovered texts or persecuted scholars.
+: Dangerous knowledge sometimes requires protection. The head archivist, **Master Scholarch Menandáhr**, retains Fileze for sensitive operations involving recovered texts or persecuted scholars.
 
 ### Enemies
 
 The Crimson Brotherhood
-: A slavering organization operating throughout the **Byzarian League**. Their leader, **Captain Tchîrnâleon Valídek**, has marked Fýléze for death after she dismantled two of their trafficking operations.
+: A slavering organization operating throughout the **Bizarian League**. Their leader, **Captain Chirnaleon Validek**, has marked Fileze for death after she dismantled two of their trafficking operations.
 
-Mercenary Lord Rûzhvelis Sapipídek
+Mercenary Lord Ruzhvelis Sapipidek
 : A rival who views her moral stance as weakness and profit-loss. He has actively worked to undermine her contracts and damage her reputation.
 
 The Corrupt House of Magistrates
-: City officials who profit from allowing crime to flourish. They view Fýléze as a threat to their comfortable arrangements.
+: City officials who profit from allowing crime to flourish. They view Fileze as a threat to their comfortable arrangements.
 
 ### Affiliations
 
-The Mercenaries' Guild of the Byzarian League
-: Fýléze maintains full membership, though she operates with unusual independence.
+The Mercenaries' Guild of the Bizarian League
+: Fileze maintains full membership, though she operates with unusual independence.
 
 The Protectors' Circle
 : An informal network of conscientious mercenaries who share information about dangerous criminals and support one another's defensive operations.
 
 ## Plot Hooks
 
-1. **The Impossible Contract**: A young scholar offers Fýléze an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the **Byzarian Inquisition** itself, forcing her into direct conflict with official authority.
+1. **The Impossible Contract**: A young scholar offers Fileze an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the **Bizarian Inquisition** itself, forcing her into direct conflict with official authority.
 
-2. **The Ghost Brigade**: Fýléze encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain Drelia Petríkot**, asks Fýléze to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
+2. **The Ghost Brigade**: Fileze encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain Drelia Petrikot**, asks Fileze to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.
 
-3. **The Infiltration**: Lady Tûlvâzéa asks Fýléze to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Fýléze to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
+3. **The Infiltration**: Lady Tulvazea asks Fileze to accomplish something previously thought impossible: infiltrate the **Crimson Brotherhood** as a criminal-for-hire, identify their actual leadership structure, and gather evidence for prosecution. The operation would require Fileze to commit heinous acts as cover—forcing her to question whether her moral code can bend without breaking.
 
-4. **The Rival's Challenge**: **Rûzhvelis Sapipídek** publicly challenges Fýléze to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Fýléze suspects he has some larger purpose in forcing this confrontation.
+4. **The Rival's Challenge**: **Ruzhvelis Sapipidek** publicly challenges Fileze to single combat, winner takes both their reputations. He has carefully orchestrated the challenge to occur during a time when she cannot simply refuse without losing the confidence of the mercenary community. Beyond the personal stakes, Fileze suspects he has some larger purpose in forcing this confrontation.
 
-5. **The Refugee Crisis**: A sudden catastrophe—plague, war, or magical disaster—displaces an entire region's population. The mercenary guild offers substantial contracts to those willing to handle the chaos. Fýléze discovers that some "safety operations" are actually harvesting refugees for slavery. She must handle politics within her own guild while protecting the vulnerable and exposing corruption from within the organization she has relied upon.
+5. **The Refugee Crisis**: A sudden catastrophe—plague, war, or magical disaster—displaces an entire region's population. The mercenary guild offers substantial contracts to those willing to handle the chaos. Fileze discovers that some "safety operations" are actually harvesting refugees for slavery. She must handle politics within her own guild while protecting the vulnerable and exposing corruption from within the organization she has relied upon.

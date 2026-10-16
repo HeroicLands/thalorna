@@ -1,9 +1,9 @@
 ---
 shortcode: lutnlgrkhlth
-name: {full: Lut-Nelgir elu Aû'Khelâthu, aliases: [The Temples of Aû'Khelâthu]}
+name: {full: Lut-Nelgir elu Au'Khelathu, aliases: [The Temples of Au'Khelathu]}
 type: affiliation
 subType: faithtradition
-description: "The great temple-estates taken together: granaries, workshops and tenant-villages, and religious, economic and political institutions that rival the Gar-Aû's palace in power"
+description: "The great temple-estates taken together: granaries, workshops and tenant-villages, and religious, economic and political institutions that rival the Gar-Au's palace in power"
 tags: [generated, draft]
 data:
   culture: khelathiclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: confederation
     summary: >-
-      The temple-estates of Aû'Khelâthu taken together: granaries, workshops and tenant-villages held by the temples in common, each temple's council answering for its own share. It confers no priestly grade; those belong to each temple.
+      The temple-estates of Au'Khelathu taken together: granaries, workshops and tenant-villages held by the temples in common, each temple's council answering for its own share. It confers no priestly grade; those belong to each temple.
     ranks:
       - level: 0
         title: Put Off the Estate
@@ -38,7 +38,7 @@ data:
 
 ## Overview
 
-**Lut-Nelgir elu Aû'Khelâthu** names the great temple-estates of [[place-aukhelathrgq|Aû'Khelâthu]] taken together, not any one god's house but the whole network of granaries, workshops and tenant-villages the temples hold in common. Between them these estates command resources, labor and land enough to rival the [[lore-garauu|Gar-Aû]]'s own palace, and each temple's council answers for its own share of that wealth. A dispute that touches temple land is rarely a religious matter alone, because the estate behind the altar is as political as it is sacred.
+**Lut-Nelgir elu Au'Khelathu** names the great temple-estates of [[place-aukhelathrgq|Au'Khelathu]] taken together, not any one god's house but the whole network of granaries, workshops and tenant-villages the temples hold in common. Between them these estates command resources, labor and land enough to rival the [[lore-garauu|Gar-Au]]'s own palace, and each temple's council answers for its own share of that wealth. A dispute that touches temple land is rarely a religious matter alone, because the estate behind the altar is as political as it is sacred.
 
 ## Character
 
@@ -50,7 +50,7 @@ Each temple's council answers for its own share, so the estates act as a confede
 
 ## Relations
 
-The estates and the palace meet at the edges of each other's land. [[affiliation-genzetgarau|Genzet'Gar-Aû]], the Gar-Aû's court, administers a palace that the estates match in resources, labor and land, and each knows exactly what the other holds. A temple whose council wants a hearing for a boundary dispute goes to that court, and the court has every reason to remember what the temple can raise in a season.
+The estates and the palace meet at the edges of each other's land. [[affiliation-genzetgarau|Genzet'Gar-Au]], the Gar-Au's court, administers a palace that the estates match in resources, labor and land, and each knows exactly what the other holds. A temple whose council wants a hearing for a boundary dispute goes to that court, and the court has every reason to remember what the temple can raise in a season.
 
 Inside the confederation the relations are quieter and more tense. Each temple's own council answers for that temple's share of the common holdings. A steward who draws too heavily on the estates for his own temple's stores answers to his council, and his council answers to the other temples whose granaries stand beside his.
 
@@ -62,5 +62,5 @@ The estates also run workshops, and the stewards run them alongside the granarie
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—The land the estates occupy
-- [[affiliation-genzetgarau|Genzet'Gar-Aû]]—The palace court the estates rival
+- [[place-aukhelathrgq|Au'Khelathu]]—The land the estates occupy
+- [[affiliation-genzetgarau|Genzet'Gar-Au]]—The palace court the estates rival

@@ -1,9 +1,9 @@
 ---
 shortcode: ahrashtamira
-name: {full: Ahrash Tamîran, aliases: [Merchant-Prince Ahrash]}
+name: {full: Ahrash Tamiran, aliases: [Merchant-Prince Ahrash]}
 type: being
 subType: npc
-description: A wealthy spice trader who values the work of Darzash Shavân above all others.
+description: A wealthy spice trader who values the work of Darzash Shavan above all others.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ahrash Tamîran is a 54-year-old man who stands 5'10" tall with a medium build. He has tanned skin, weathered complexion, chestnut hair, and amber eyes.
+Ahrash Tamiran is a 54-year-old man who stands 5'10" tall with a medium build. He has tanned skin, weathered complexion, chestnut hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Ahrash Tamîran is a merchant-prince and a wealthy spice trader who values the work of [[being-darzshshvn|Darzash Shavân]] above all others. He has promised her patronage if she were ever to accept formal support.
+Ahrash Tamiran is a merchant-prince and a wealthy spice trader who values the work of [[being-darzshshvn|Darzash Shavan]] above all others. He has promised her patronage if she were ever to accept formal support.

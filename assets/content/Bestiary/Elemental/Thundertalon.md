@@ -242,7 +242,7 @@ The summit of the seamount is bare rock, and the thunderheads have piled up over
 
 # Dossier {#dossier}
 
-The Thundertalon is a great air elemental of storm: a spirit of the sky manifested as an eagle of lightning and cloud with a wingspan approaching thirty feet, a conscious, intelligent predator with clear purposes of its own, which haunts high peaks and open skies and attacks anything it deems an intruder there. It strikes with lightning-charged talons, calls bolts out of the sky, and raises storms. One haunts [[place-thrumufjall|Thrumufjall]], the sheer seamount on the [[place-nordheim|Nordheim]] coast that holds the temple of [[lore-thrunvalddty|Thrúnvald]] and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]], whose summit takes every storm that comes in off the sea. Like every elemental, it can be destroyed in the material world, and it comes back.
+The Thundertalon is a great air elemental of storm: a spirit of the sky manifested as an eagle of lightning and cloud with a wingspan approaching thirty feet, a conscious, intelligent predator with clear purposes of its own, which haunts high peaks and open skies and attacks anything it deems an intruder there. It strikes with lightning-charged talons, calls bolts out of the sky, and raises storms. One haunts [[place-thrumufjall|Thrumufjall]], the sheer seamount on the [[place-nordheim|Nordheim]] coast that holds the temple of [[lore-thrunvalddty|Thrunvald]] and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]], whose summit takes every storm that comes in off the sea. Like every elemental, it can be destroyed in the material world, and it comes back.
 
 ## Presentation
 
@@ -250,7 +250,7 @@ The thundertalon is shaped like an enormous eagle, but its body is storm: dark c
 
 ## In the Land
 
-Thrumufjall's summit is exposed to every storm off the water, and the hof and the mother-hall share the height and keep separate promises. The thundertalon comes with the great storms, out of the sea-clouds, and haunts the summit and the sky over the Nordheim coast round it, the cliffs and the fjord-mouths and the high fells behind. It hunts seals, whales at the surface, eagles, and the men who climb into its sky, and it treats the summit of the seamount as its own. In calm weather it is not seen. It is drawn to height, to open sky and to storms, and the summit draws it more than anywhere else on the coast.
+Thrumufjall's summit is exposed to every storm off the water, and the hov and the mother-hall share the height and keep separate promises. The thundertalon comes with the great storms, out of the sea-clouds, and haunts the summit and the sky over the Nordheim coast round it, the cliffs and the fjord-mouths and the high fells behind. It hunts seals, whales at the surface, eagles, and the men who climb into its sky, and it treats the summit of the seamount as its own. In calm weather it is not seen. It is drawn to height, to open sky and to storms, and the summit draws it more than anywhere else on the coast.
 
 ## Key Behaviors
 
@@ -258,7 +258,7 @@ The thundertalon is territorial and intelligent. It understands what men do, it 
 
 ## What the Storm-Speakers Do
 
-The Order of the Storm-Speakers examines its candidates on the exposed summit as the thunderheads pile up over the sea, and asks whether each can feel the storm coming. The thundertalon is part of the examination whether the order wishes it or not: the examiners stand a candidate alone on the rock in a storm, and they watch the sky as well as the candidate. A Speaker who can read a storm closely enough to know when the thundertalon is in it is a Speaker who has passed, and the order says so. Speakers on the summit carry their hammers and a grounding staff of iron driven into a crack in the rock, which draws the creature's bolts to the earth, and in a bad storm they take the candidates down. The Hofgodi of Thrúnvald's temple, who keeps a separate promise on the same height, says the thundertalon is a test sent with the storm, and blesses the candidates before they go up. The Speakers do not dispute it.
+The Order of the Storm-Speakers examines its candidates on the exposed summit as the thunderheads pile up over the sea, and asks whether each can feel the storm coming. The thundertalon is part of the examination whether the order wishes it or not: the examiners stand a candidate alone on the rock in a storm, and they watch the sky as well as the candidate. A Speaker who can read a storm closely enough to know when the thundertalon is in it is a Speaker who has passed, and the order says so. Speakers on the summit carry their hammers and a grounding staff of iron driven into a crack in the rock, which draws the creature's bolts to the earth, and in a bad storm they take the candidates down. The Hofgudi of Thrunvald's temple, who keeps a separate promise on the same height, says the thundertalon is a test sent with the storm, and blesses the candidates before they go up. The Speakers do not dispute it.
 
 ## Signs
 

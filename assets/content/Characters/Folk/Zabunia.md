@@ -36,4 +36,4 @@ Zabunia is a 57-year-old woman who stands 5'1" tall with a scant build. She has 
 
 # Dossier {#dossier}
 
-Zabunia performs as a rival actress out of [[place-amqelulegez|Amqelu-Legez]], competing most directly with [[being-thiryegezaqe|Thirye Gez'Aqêu]] for the same roles. She has begun offering generous patronage and access to elite audiences of her own, and expects the same offered back. Whether that expectation is met shapes how long any of her new alliances actually last.
+Zabunia performs as a rival actress out of [[place-amqelulegez|Amqelu-Legez]], competing most directly with [[being-thiryegezaqe|Thirye Gez'Aqeu]] for the same roles. She has begun offering generous patronage and access to elite audiences of her own, and expects the same offered back. Whether that expectation is met shapes how long any of her new alliances actually last.

@@ -1,6 +1,6 @@
 ---
 shortcode: ftnshdkt
-name: {full: Stemios Hodíkot, given: Stemios, clan: Hodíkot, aliases: []}
+name: {full: Stemios Hodikot, given: Stemios, clan: Hodikot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -411,15 +411,15 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ftnshdkt|Stemios Hodíkot]]{float=top-left}
+![[ftnshdkt|Stemios Hodikot]]{float=top-left}
 
 Stemios stands 5'8" tall with a heavy build. He has light weathered skin, grey hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, and prominent brows. He has a scar on his right hand.
 
 # Dossier {#dossier}
 
-Stemios was born the second son of Stratégios, a merchant of modest success in the coastal trading city of Nýkhtion. His elder brother inherited the family's trading operations while Stemios, spirited and imaginative from youth, apprenticed with his mother's brother Bugon, proprietor of the celebrated inn called the Starlight Crown. Those early years instilled in him a deep philosophy: a good inn is a sanctuary, a stage where the great and small dramas of human life unfold.
+Stemios was born the second son of Stratégios, a merchant of modest success in the coastal trading city of Nikhtion. His elder brother inherited the family's trading operations while Stemios, spirited and imaginative from youth, apprenticed with his mother's brother Bugon, proprietor of the celebrated inn called the Starlight Crown. Those early years instilled in him a deep philosophy: a good inn is a sanctuary, a stage where the great and small dramas of human life unfold.
 
-At thirty-two, following Bugon's death, Stemios inherited and expanded the Starlight Crown, transforming it from a simple waystation into one of the most famous inns in the Byzarian League. Over the following decades, he earned his name through the rare art of hospitality—the subtle skill of making every guest feel simultaneously welcomed and known.
+At thirty-two, following Bugon's death, Stemios inherited and expanded the Starlight Crown, transforming it from a simple waystation into one of the most famous inns in the Bizarian League. Over the following decades, he earned his name through the rare art of hospitality—the subtle skill of making every guest feel simultaneously welcomed and known.
 
 His greatest achievement and deepest sorrow occurred simultaneously when his daughter Lyssandra, a promising healer's apprentice, died of a fever at age nineteen, an event that haunted him for twenty years until he found meaning in expanding his inn's reputation as a place of refuge and healing knowledge. Now, in his twilight years, Stemios operates less as a merchant and more as a keeper of traditions, a living bridge between the old ways and a present that increasingly threatens to leave him behind.
 
@@ -468,7 +468,7 @@ Stemios's deepest motivation is to create and maintain a sanctuary—a refuge wh
 The City Magistrate, Lord Zipugos
 : An aging administrator who conducts much of his actual governance from a corner table in the Starlight Crown's common room. Stemios provides him with information, advice, and the illusion of privacy while subtly influencing policy through carefully timed conversations.
 
-Captain Krusidâde Plavídek of the Harbor Guard
+Captain Krusidade Plavidek of the Harbor Guard
 : A gruff military officer who has relied on Stemios for word of smuggling and crime in the port. Stemios freely trades information in exchange for protection and official favor.
 
 The Merchant House of Brugon
@@ -482,7 +482,7 @@ Traveling Scholars and Healers
 Kharon the Fist
 : A new criminal lord from the southern territories who has been attempting to establish an extortion racket in the district. Stemios refused to pay protection money and has become the target of increasingly hostile "suggestions." Kharon views the innkeeper as an obstacle to establishing his power.
 
-Votia Sulfúra
+Votia Sulfura
 : A merchant woman of rival house who has accused Stemios of spreading false rumors about her trading practices, damaging her reputation and business. The two families maintain cold antagonism, though the rift may not be irreparable.
 
 The Orthodox Temple of Árdavon
@@ -490,7 +490,7 @@ The Orthodox Temple of Árdavon
 
 ### Affiliations
 
-The Innkeepers' Association of the Byzarian League
+The Innkeepers' Association of the Bizarian League
 : Stemios holds high standing, though he is often at philosophical odds with younger members regarding the running of an inn and the new fashions.
 
 The Order of Hospitality

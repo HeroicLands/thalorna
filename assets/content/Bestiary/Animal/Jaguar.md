@@ -238,7 +238,7 @@ The river bank is soft with rain, and a single line of prints runs along it, rou
 
 # Dossier {#dossier}
 
-The Jaguar is the strongest-biting cat, two and a half feet at the shoulder and one hundred fifty to two hundred fifty pounds, killing by crushing the skull, even through a turtle shell. It lives on the river banks and lake shores of the jungle of [[place-xelemrgn|Xelem]], the limestone country of [[place-kankulrgn|K'ankul]], the valleys of [[place-ixbaltzakurgn|Ix'bal Tza'ku]] and the isthmus coasts of [[place-neokbaatergn|Ne'ok Ba'ate]]. It is the most important animal of K'ich'chik: its name is in personal names, warrior titles and places, the jaguar warrior orders are the priest-kings' elite forces, and a jaguar throne marks supreme authority.
+The Jaguar is the strongest-biting cat, two and a half feet at the shoulder and one hundred fifty to two hundred fifty pounds, killing by crushing the skull, even through a turtle shell. It lives on the river banks and lake shores of the jungle of [[place-xelemrgn|Shelem]], the limestone country of [[place-kankulrgn|K'ankul]], the valleys of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] and the isthmus coasts of [[place-neokbaatergn|Ne'ok Ba'ate]]. It is the most important animal of K'ich'chik: its name is in personal names, warrior titles and places, the jaguar warrior orders are the priest-kings' elite forces, and a jaguar throne marks supreme authority.
 
 ## Presentation
 
@@ -246,15 +246,15 @@ A compact, enormously strong cat, short-legged, broad-chested, heavy through the
 
 ## In the Land
 
-Jaguars hunt the river jungles and lowland forest of [[place-xelemrgn|Xelem]], the limestone country of [[place-kankulrgn|K'ankul]], the jungle valleys of [[place-ixbaltzakurgn|Ix'bal Tza'ku]] and the isthmus coasts of [[place-neokbaatergn|Ne'ok Ba'ate]]. A jaguar holds a stretch of river bank or lake shore where the water and the prey meet, swims well, and takes turtles, caimans, fish and peccary as readily as deer. It lies up by day in a thicket or on a limb and hunts at dusk and in the dark.
+Jaguars hunt the river jungles and lowland forest of [[place-xelemrgn|Shelem]], the limestone country of [[place-kankulrgn|K'ankul]], the jungle valleys of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] and the isthmus coasts of [[place-neokbaatergn|Ne'ok Ba'ate]]. A jaguar holds a stretch of river bank or lake shore where the water and the prey meet, swims well, and takes turtles, caimans, fish and peccary as readily as deer. It lies up by day in a thicket or on a limb and hunts at dusk and in the dark.
 
 ## Key Behaviors
 
 Jaguars hunt alone, from ambush, holding a stretch of river, lake or forest edge where water and prey meet. They swim well and take caimans, turtles, large fish and capybaras from the water. On land they stalk through cover for hours and rush at the last moment, and if the ambush fails they withdraw and try again. They hunt at dawn and dusk, and in the half-light beneath the canopy at any hour. They mark their ranges with claw-marks, scent and a deep coughing roar that carries far. They seldom attack people unprovoked, but one that is hurt, guarding cubs or used to people as prey is among the most dangerous animals alive.
 
-## What the Itzáni Do
+## What the Itsani Do
 
-The Itzáni of the cities hold the jaguar sacred. The word for it, _ix'bal_, is in the names of peoples and realms, and the Death Jaguar [[lore-tzuqilixbaldty|Tz'uqil Ix'bal]] is the god who kills swiftly. Ix'bal Tza'ku is called the Jaguar's House. Priests and warriors wear the pelt, and a jaguar skin is a gift fit for a ruler. Hunters take the cats for the pelts that the valleys sell with cacao and quetzal feathers. Villages on the river bank keep fires lit through the night and pen their dogs and stock inside a fence.
+The Itsani of the cities hold the jaguar sacred. The word for it, _ish'bal_, is in the names of peoples and realms, and the Death Jaguar [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]] is the god who kills swiftly. Ish'bal Tsa'ku is called the Jaguar's House. Priests and warriors wear the pelt, and a jaguar skin is a gift fit for a ruler. Hunters take the cats for the pelts that the valleys sell with cacao and quetzal feathers. Villages on the river bank keep fires lit through the night and pen their dogs and stock inside a fence.
 
 ## Signs
 

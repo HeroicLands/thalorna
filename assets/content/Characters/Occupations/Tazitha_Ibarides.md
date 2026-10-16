@@ -1,6 +1,6 @@
 ---
 shortcode: tazithbrds
-name: {full: Tázîtha Ibârîdês, aliases: []}
+name: {full: Tázitha Ibarides, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -390,13 +390,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Tázîtha Ibârîdês is a 29-year-old woman who stands 6'1" tall and is slender. She has an angular face with prominent cheekbones, a smooth forehead, and a sharp jaw that leads to a firm chin. Her almond-shaped hazel eyes sit beneath straight brows and give her a measured gaze. She has a prominent nose and firm lips. She has olive skin with an olive-toned complexion. Her brown hair is gathered in a practical bun. Her hands are calloused from years of hard work.
+Tázitha Ibarides is a 29-year-old woman who stands 6'1" tall and is slender. She has an angular face with prominent cheekbones, a smooth forehead, and a sharp jaw that leads to a firm chin. Her almond-shaped hazel eyes sit beneath straight brows and give her a measured gaze. She has a prominent nose and firm lips. She has olive skin with an olive-toned complexion. Her brown hair is gathered in a practical bun. Her hands are calloused from years of hard work.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Tázîtha Ibârîdês is a charcoaler.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Tázitha Ibarides is a charcoaler.
 
-Tázîtha is one of the few women charcoalers in her area, having learned the trade from her uncle. She enjoys the solitude of the forest and takes great care in her work. Her charcoal is known for burning very clean, and she supplies local forges as well as herbalists who use it in remedies.
+Tázitha is one of the few women charcoalers in her area, having learned the trade from her uncle. She enjoys the solitude of the forest and takes great care in her work. Her charcoal is known for burning very clean, and she supplies local forges as well as herbalists who use it in remedies.
 
 ## Psyche
 
@@ -406,7 +406,7 @@ She can be overly reclusive, and sometimes avoids people for weeks at a time.
 
 ### Motivation
 
-Tázîtha wants to be left to her work in the forest and judged by her charcoal, not by her sex.
+Tázitha wants to be left to her work in the forest and judged by her charcoal, not by her sex.
 
 ### Strengths
 
@@ -414,13 +414,13 @@ She is highly skilled at producing fine charcoal, and enjoys the physical work.
 
 ## Social
 
-Tázîtha belongs to no guild and prefers to work independently.
+Tázitha belongs to no guild and prefers to work independently.
 
 ## Companions
 
 ### Patrons
 
-Tázîtha's patrons are the local forges and herbalists who value the quality of her charcoal.
+Tázitha's patrons are the local forges and herbalists who value the quality of her charcoal.
 
 ### Enemies
 
@@ -428,12 +428,12 @@ Rival charcoalers think the trade should be left to men.
 
 ## Plot Hooks
 
-1. **The Charcoaler's Dilemma**—A forge offers to take all of Tázîtha's charcoal at a good price, and the herbalists who depend on her would get none.
+1. **The Charcoaler's Dilemma**—A forge offers to take all of Tázitha's charcoal at a good price, and the herbalists who depend on her would get none.
 
 2. **Old Grudges**—A rival charcoaler who thinks the trade should be left to men has been selling poor charcoal under her name to the forges.
 
-3. **Echoes of the Past**—The uncle who taught Tázîtha the trade comes back to the forest, old and without work, and expects to take up the burning where he left it.
+3. **Echoes of the Past**—The uncle who taught Tázitha the trade comes back to the forest, old and without work, and expects to take up the burning where he left it.
 
-4. **Shifting Winds**—Political change in Heliónis threatens the forges Tázîtha's charcoal supplies, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Helionis threatens the forges Tázitha's charcoal supplies, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—An herbalist offers Tázîtha a partnership in remedies made with her charcoal, and it would mean leaving the forest for the town.
+5. **The Opportunity**—An herbalist offers Tázitha a partnership in remedies made with her charcoal, and it would mean leaving the forest for the town.

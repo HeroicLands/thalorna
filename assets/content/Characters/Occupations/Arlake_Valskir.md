@@ -1,6 +1,6 @@
 ---
 shortcode: hrlkvlskyr
-name: {full: Arlàke Valskìr, aliases: []}
+name: {full: Arlake Valskir, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -395,11 +395,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Arlàke Valskìr is a 38-year-old man who stands 6'1" tall and is broad and solidly built. He has a heart-shaped face with prominent cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. His round dark brown eyes sit beneath straight brows, lending him a candid gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a clear complexion. His brown hair is tied in a low tail.
+Arlake Valskir is a 38-year-old man who stands 6'1" tall and is broad and solidly built. He has a heart-shaped face with prominent cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. His round dark brown eyes sit beneath straight brows, lending him a candid gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a clear complexion. His brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Arlàke Valskìr came into the world of the animal trainer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Arlake Valskir came into the world of the animal trainer through a combination of circumstance and aptitude.
 
 A rugged animal trainer who works with hunting dogs. Braden has a talent for taming wild beasts and often participates in local hunts.
 
@@ -411,7 +411,7 @@ Distrustful of people, hard to communicate with.
 
 ### Motivation
 
-Arlàke is driven by the desire to master his craft and secure a stable future. The uncertainties of life in animal trainer work keep him vigilant and adaptable.
+Arlake is driven by the desire to master his craft and secure a stable future. The uncertainties of life in animal trainer work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Great rapport with animals, strong endurance.
 
 ## Social
 
-Arlàke is affiliated with Hunter's Guild.
+Arlake is affiliated with Hunter's Guild.
 
-As a Provenzian animal trainer, Arlàke occupies a recognized social niche within Provènzia society.
+As a Provenzian animal trainer, Arlake occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Arlàke's primary patron is Local lord who provides animals for training. This relationship provides both opportunity and obligation.
+Arlake's primary patron is Local lord who provides animals for training. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ Rival animal trainer who sabotages his efforts.
 
 ## Plot Hooks
 
-1. **The Animal Trainer's Dilemma**—Arlàke faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Animal Trainer's Dilemma**—Arlake faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
 
 2. **Old Grudges**—Rival animal trainer who sabotages his efforts. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Arlàke's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Arlake's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Arlàke depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Arlake depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Arlàke the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Arlake the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

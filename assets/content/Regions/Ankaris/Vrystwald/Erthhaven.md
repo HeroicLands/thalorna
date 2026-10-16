@@ -25,5 +25,5 @@ The Shaman holds the strongest of the village's three seats, but the other two e
 ## See Also
 
 - [[place-vandstein|Vandstein]]—the reach around the village
-- [[place-thrastein|Thrástein]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—the wider web of independent villages
+- [[place-thrastein|Thrastein]]—neighboring villages reached by forest tracks
+- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages

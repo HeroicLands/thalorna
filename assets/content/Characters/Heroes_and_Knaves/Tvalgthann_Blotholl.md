@@ -1,6 +1,6 @@
 ---
 shortcode: tvlgthnblthl
-name: {full: Tvalgthann Blóthöll, given: Tvalgthann, clan: Blóthöll, aliases: []}
+name: {full: Tvalgthann Bletholl, given: Tvalgthann, clan: Bletholl, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -412,7 +412,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tvlgthnblthl|Tvalgthann Blóthöll]]{float=top-left}
+![[tvlgthnblthl|Tvalgthann Bletholl]]{float=top-left}
 
 Tvalgthann stands 5'7" tall with a light build. He has light fair skin, red hair, and blue eyes. His features include an oblong face, an aquiline nose, a square jawline, a small mouth, heavy brows.
 
@@ -422,7 +422,7 @@ Tvalgthann stands 5'7" tall with a light build. He has light fair skin, red hair
 
 ### Early Life and the Jester's Gift
 
-Tvalgthann was born during the tempestuous month of spring winds in a riverside town of [[place-vithgard|Vithgard]]'s eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Tvalgthann learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Skruldvir**, a jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
+Tvalgthann was born during the tempestuous month of spring winds in a riverside town of [[place-vithgard|Vithgard]]'s eastern provinces. His mother, **Skraldthira the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Tvalgthann learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Skruldvir**, a jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
 
 ### The Court Years
 
@@ -466,10 +466,10 @@ Tvalgthann seeks to discover whether his talents for performance and persuasion 
 
 ### Patrons
 
-Duke Thruldmýl of Vithgard
+Duke Thruldmil of Vithgard
 : The primary patron who employs Tvalgthann's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
 
-Sigrid Blóthöll
+Skraldthira Bletholl
 : His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
 
 Master Skruldvir

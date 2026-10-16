@@ -1,6 +1,6 @@
 ---
 shortcode: chayavrata
-name: {full: The Chaya-vrata, aliases: [The Shadow-Vow]}
+name: {full: The Chaya-vreta, aliases: [The Shadow-Vow]}
 type: affiliation
 subType: criminal
 description: "The shadow-vow—a lapsed dream-line that works the waking dream, condemned by the Council of the Dream, pursued by nobody, and the origin of the shadow-brotherhoods that train Vedyara's assassins."
@@ -36,7 +36,7 @@ data:
           Teaches. Takes one student, or two, and does not meet the students of other lines.
     offices:
       Keeper of a Line: >-
-        Teaches the vow to one or two students and holds the line's account of itself; the nearest thing the Chaya-vrata has to an office.
+        Teaches the vow to one or two students and holds the line's account of itself; the nearest thing the Chaya-vreta has to an office.
       Broker: >-
         Stands between a line and a shadow-brotherhood's contract, so that neither has to know the other's name.
       Preparer: >-
@@ -65,15 +65,15 @@ sohl:
       - sohl-sohl-skill-srvl
 ---
 
-## The Chaya-vrata—The Shadow-Vow
+## The Chaya-vreta—The Shadow-Vow
 
 - **Practice:** The waking dream—illusion, misdirection, the unremembered face
-- **Broken from:** [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]
+- **Broken from:** [[affiliation-svapnasarisamaja|Svapnasari-sameja]]
 - **Pronunciation:** _CHAH-yah VRAH-tah_
 
-The [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] works the dream of a sleeper who has come and asked for it. The **Chaya-vrata** works the dream of a person who is awake and has not.
+The [[affiliation-svapnasarisamaja|Svapnasari-sameja]] works the dream of a sleeper who has come and asked for it. The **Chaya-vreta** works the dream of a person who is awake and has not.
 
-That is the whole of the difference, and it is enough. The Council of the Dream condemned the vow and holds the condemnation open; the Samāja's monasteries will not seat a Chaya-vrata and will not name one; and the vow has gone on being taught, one student at a time, for as long as the condemnation has been open. The condemnation dates from about 470 AF ([[lore-chayacondm|the Condemnation of the Chaya-vrata]]).
+That is the whole of the difference, and it is enough. The Council of the Dream condemned the vow and holds the condemnation open; the Sameja's monasteries will not seat a Chaya-vreta and will not name one; and the vow has gone on being taught, one student at a time, for as long as the condemnation has been open. The condemnation dates from about 470 AF ([[lore-chayacondm|the Condemnation of the Chaya-vreta]]).
 
 ### What It Does
 
@@ -87,7 +87,7 @@ The **unremembered face**: the one that will not fix. A witness knows there was 
 
 ### The Shadow-Brotherhoods
 
-The brotherhoods take contracts. They are not the vow and they do not teach it; they are the arrangement by which a line's work reaches a buyer without either party learning anything about the other. They supply poisons, watchers, and the kind of instruction in silent movement and clean killing that a house pays for when it has decided something, and they hire Chaya-vrata preparers by the job.
+The brotherhoods take contracts. They are not the vow and they do not teach it; they are the arrangement by which a line's work reaches a buyer without either party learning anything about the other. They supply poisons, watchers, and the kind of instruction in silent movement and clean killing that a house pays for when it has decided something, and they hire Chaya-vreta preparers by the job.
 
 Several lines will have nothing to do with them, hold that the trade is what turned a discipline into a service, and teach students accordingly. The brotherhoods are entirely indifferent to this.
 
@@ -99,7 +99,7 @@ What the vow fears is not a court. It is the gap between the conch and the pyre:
 
 ### See Also
 
-- [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]—the assembly the vow lapsed from
+- [[affiliation-svapnasarisamaja|Svapnasari-sameja]]—the assembly the vow lapsed from
 - [[affiliation-svapnadevas|Svapnadevas]]—the Dreaming Host, whose reach the vow turns outward
 - [[affiliation-thresholdkeepers|The Threshold-keepers]]—the one question a line cannot misdirect
-- [[affiliation-trimurtisampradaya|Council of the Triyāchāryas]]—which holds an unlicensed working in a god's name to be Patita
+- [[affiliation-trimurtisampradaya|Council of the Triyacharyas]]—which holds an unlicensed working in a god's name to be Patuta

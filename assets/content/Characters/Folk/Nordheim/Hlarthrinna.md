@@ -3,7 +3,7 @@ shortcode: hlarthrinna
 name: {full: Hlarthrinna, aliases: [Lady Hlarthrinna]}
 type: being
 subType: npc
-description: Agent of a prominent trading company who respects Vruldorv Dróttgar's workmanlike approach.
+description: Agent of a prominent trading company who respects Vruldorv Drottgar's workmanlike approach.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Hlarthrinna is a 53-year-old woman who stands 5'8" tall with a light build. She 
 
 # Dossier {#dossier}
 
-Hlarthrinna is an agent of a prominent trading company who respects [[being-vrldrvdrtgr|Vruldorv Dróttgar]]'s workmanlike approach. Her company specifically requests Vruldorv for major caravans.
+Hlarthrinna is an agent of a prominent trading company who respects [[being-vrldrvdrtgr|Vruldorv Drottgar]]'s workmanlike approach. Her company specifically requests Vruldorv for major caravans.

@@ -399,7 +399,7 @@ Wulfrád yra Hildvith wur Skathburg is a 36-year-old man who stands 6'1" tall an
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Wulfrád came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Wulfrád came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
 Wulfrád has dedicated his life to the art of siege warfare as a sapper. With years of experience, he is skilled in constructing defensive structures and demolishing enemy fortifications. Known for his practical knowledge and leadership, he often trains new recruits in the art of engineering. Wulfrád believes in the importance of teamwork and often emphasizes safety in his training.
 
@@ -433,12 +433,12 @@ Few; respected in the community.
 
 ## Plot Hooks
 
-1. **The Man-at-Arms (Sapper)'s Dilemma**—Wulfrád faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Man-at-Arms (Sapper)'s Dilemma**—Wulfrád faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 2. **Old Grudges**—Few; respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 3. **Echoes of the Past**—Something from Wulfrád's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Wulfrád depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Wulfrád depends upon. He must decide whether to adapt, resist, or flee.
 
 5. **The Opportunity**—A chance encounter offers Wulfrád the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

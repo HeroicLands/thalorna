@@ -1,6 +1,6 @@
 ---
 shortcode: sklfmylfrtng
-name: {full: Skulfmýl Fire-Tongue, given: Skulfmýl, aliases: [Fire-Tongue]}
+name: {full: Skulfmil Fire-Tongue, given: Skulfmil, aliases: [Fire-Tongue]}
 type: being
 subType: character
 tags: [hero, heroes-of-asguard, underworld]
@@ -361,27 +361,27 @@ sohl:
 
 # Appearance {#appearance}
 
-Skulfmýl stands 5'10" with a medium, energetic frame, weighing about 175 pounds. His fair skin is ruddy with health and frequent gesticulation, and his brown hair is worn in a fashionable style that he adjusts to match whatever audience he is playing to. His green eyes are bright and restless, sparking with the manic energy of a man who cannot stop thinking or talking. His features are mobile and expressive—a face built for performance, with an angular jaw, a sharp nose, an animated mouth, and brows that leap and furrow with every shift in his rhetoric. His most striking feature is his voice—rich, resonant, and capable of carrying across a crowded hall or dropping to an intimate whisper that draws listeners close. Skulfmýl dresses well but not extravagantly, favoring traveling bard's garb that allows him to blend in at any social level. He carries a small hand drum and a sheaf of broadsheets tucked into his belt—the tools of his particular brand of chaos.
+Skulfmil stands 5'10" with a medium, energetic frame, weighing about 175 pounds. His fair skin is ruddy with health and frequent gesticulation, and his brown hair is worn in a fashionable style that he adjusts to match whatever audience he is playing to. His green eyes are bright and restless, sparking with the manic energy of a man who cannot stop thinking or talking. His features are mobile and expressive—a face built for performance, with an angular jaw, a sharp nose, an animated mouth, and brows that leap and furrow with every shift in his rhetoric. His most striking feature is his voice—rich, resonant, and capable of carrying across a crowded hall or dropping to an intimate whisper that draws listeners close. Skulfmil dresses well but not extravagantly, favoring traveling bard's garb that allows him to blend in at any social level. He carries a small hand drum and a sheaf of broadsheets tucked into his belt—the tools of his particular brand of chaos.
 
 # Dossier {#dossier}
 
-Skulfmýl was born with a gift for words, a natural storyteller and orator whose speeches could rally the disheartened and inspire the downtrodden. But his talent for persuasion came with a darker side—he was just as adept at stirring up trouble and inciting chaos with his words. Skulfmýl quickly realized that he could use his gift to manipulate those around him, turning friends against one another and causing unrest wherever he went. Under Vélgrímr's guidance, Skulfmýl embraced his role as a provocateur, using his fiery words to disrupt order and bring about change through chaos.
+Skulfmil was born with a gift for words, a natural storyteller and orator whose speeches could rally the disheartened and inspire the downtrodden. But his talent for persuasion came with a darker side—he was just as adept at stirring up trouble and inciting chaos with his words. Skulfmil quickly realized that he could use his gift to manipulate those around him, turning friends against one another and causing unrest wherever he went. Under Velgrímr's guidance, Skulfmil embraced his role as a provocateur, using his fiery words to disrupt order and bring about change through chaos.
 
-The saga of Skulfmýl Fire-Tongue tells of how he brought the city of [[place-tvurnholm|Tvurnholm]] to its knees with nothing but his voice. Tvurnholm was known for its strict laws and rigid social order. Skulfmýl entered the city disguised as a traveling bard and began telling stories that questioned the city's laws, mocking the rulers and encouraging the people to think for themselves. As his influence grew, the people began to rebel, and soon the city was engulfed in riots. When the rulers realized what had happened, it was too late—Skulfmýl had already moved on, leaving the city in ruins.
+The saga of Skulfmil Fire-Tongue tells of how he brought the city of [[place-tvurnholm|Tvurnholm]] to its knees with nothing but his voice. Tvurnholm was known for its strict laws and rigid social order. Skulfmil entered the city disguised as a traveling bard and began telling stories that questioned the city's laws, mocking the rulers and encouraging the people to think for themselves. As his influence grew, the people began to rebel, and soon the city was engulfed in riots. When the rulers realized what had happened, it was too late—Skulfmil had already moved on, leaving the city in ruins.
 
 ## Psyche
 
 ### Personality
 
-Skulfmýl is charismatic and provocative, a man who believes that the existing social order is rotten and that chaos is the necessary first step toward something better. He is witty, passionate, and dangerously persuasive, with an ability to articulate the grievances that ordinary people feel but cannot express. He is also deeply irresponsible, rarely staying to see the consequences of the revolutions he sparks. He tells himself this is because his work is to light the fire, not tend it, but the truth is that he fears what he would see if he looked back.
+Skulfmil is charismatic and provocative, a man who believes that the existing social order is rotten and that chaos is the necessary first step toward something better. He is witty, passionate, and dangerously persuasive, with an ability to articulate the grievances that ordinary people feel but cannot express. He is also deeply irresponsible, rarely staying to see the consequences of the revolutions he sparks. He tells himself this is because his work is to light the fire, not tend it, but the truth is that he fears what he would see if he looked back.
 
 ### Motivation
 
-Skulfmýl believes that rigid social structures are prisons that benefit only those at the top, and that the common people deserve the freedom to shape their own destiny. He uses Vélgrímr's gifts to tear down oppressive systems, believing that what rises from the ashes will be better. His deeper motivation is a need to matter—to prove that words alone can change the world and that the pen (or tongue) truly is mightier than the sword.
+Skulfmil believes that rigid social structures are prisons that benefit only those at the top, and that the common people deserve the freedom to shape their own destiny. He uses Velgrímr's gifts to tear down oppressive systems, believing that what rises from the ashes will be better. His deeper motivation is a need to matter—to prove that words alone can change the world and that the pen (or tongue) truly is mightier than the sword.
 
 ### Strengths
 
-Skulfmýl's oratory is supernaturally persuasive; his words can stir emotions, change minds, and incite crowds to action. He is a master of rhetoric who can argue any position convincingly and identify the fault lines in any society. His ability to disguise himself and blend in allows him to operate in hostile environments with ease. His network of sympathizers and agents in various cities gives him intelligence about political conditions and potential targets for revolution.
+Skulfmil's oratory is supernaturally persuasive; his words can stir emotions, change minds, and incite crowds to action. He is a master of rhetoric who can argue any position convincingly and identify the fault lines in any society. His ability to disguise himself and blend in allows him to operate in hostile environments with ease. His network of sympathizers and agents in various cities gives him intelligence about political conditions and potential targets for revolution.
 
 ## Social
 
@@ -389,22 +389,22 @@ Skulfmýl's oratory is supernaturally persuasive; his words can stir emotions, c
 
 ### Patrons
 
-**The Free Speakers**—A loose network of revolutionary thinkers who share Skulfmýl's belief that the current social order must be torn down. They provide him with safe houses, intelligence, and financial support.
+**The Free Speakers**—A loose network of revolutionary thinkers who share Skulfmil's belief that the current social order must be torn down. They provide him with safe houses, intelligence, and financial support.
 
-[[lore-velgrimrdty|Vélgrímr]]—The god of chaos finds Skulfmýl's work endlessly amusing and provides subtle supernatural assistance, ensuring that his words carry extra weight and that he always escapes just in time.
+[[lore-velgrimrdty|Velgrímr]]—The god of chaos finds Skulfmil's work endlessly amusing and provides subtle supernatural assistance, ensuring that his words carry extra weight and that he always escapes just in time.
 
 ### Enemies
 
-**The Rulers of [[place-tvurnholm|Tvurnholm]]**—The city's governing council has placed the largest bounty in northern history on Skulfmýl's head, dead or alive.
+**The Rulers of [[place-tvurnholm|Tvurnholm]]**—The city's governing council has placed the largest bounty in northern history on Skulfmil's head, dead or alive.
 
-**The Order of Stability**—A secretive organization dedicated to maintaining the existing social order. They view Skulfmýl as one of the most dangerous individuals in the north and employ agents specifically tasked with silencing him.
+**The Order of Stability**—A secretive organization dedicated to maintaining the existing social order. They view Skulfmil as one of the most dangerous individuals in the north and employ agents specifically tasked with silencing him.
 
-[[being-knlthnlwgvr|Knalthann Lawgiver]]—The champion of law sees Skulfmýl's work as destructive anarchy that leaves ordinary people worse off than before. Their philosophical opposition is deeply personal for both men.
+[[being-knlthnlwgvr|Knalthann Lawgiver]]—The champion of law sees Skulfmil's work as destructive anarchy that leaves ordinary people worse off than before. Their philosophical opposition is deeply personal for both men.
 
 ## Plot Hooks
 
-1. **The City That Burned**—A city that Skulfmýl destabilized years ago has descended into warlord rule that is far worse than the government he helped overthrow. He must face the consequences of his actions and decide whether to help—or move on as he always does.
+1. **The City That Burned**—A city that Skulfmil destabilized years ago has descended into warlord rule that is far worse than the government he helped overthrow. He must face the consequences of his actions and decide whether to help—or move on as he always does.
 
-2. **The Silence Campaign**—The Order of Stability has developed a way to magically suppress Skulfmýl's voice. Without his greatest weapon, he must find another way to survive and continue his work.
+2. **The Silence Campaign**—The Order of Stability has developed a way to magically suppress Skulfmil's voice. Without his greatest weapon, he must find another way to survive and continue his work.
 
-3. **The Tyrant's Fall**—A terrible tyrant rules a northern city, and the oppressed people have begged Skulfmýl for help. For once, the revolution seems justified—but the tyrant's spymaster is one step ahead, and the city is a trap.
+3. **The Tyrant's Fall**—A terrible tyrant rules a northern city, and the oppressed people have begged Skulfmil for help. For once, the revolution seems justified—but the tyrant's spymaster is one step ahead, and the city is a trap.

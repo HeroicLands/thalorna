@@ -3,12 +3,12 @@ shortcode: admirerrnk
 name: {full: "Admirer", aliases: []}
 type: lore
 subType: law
-description: "Holds Hrímthur's work in awe without attaching to any faction, in the faith of Hrímthur."
+description: "Holds Hrimthur's work in awe without attaching to any faction, in the faith of Hrimthur."
 tags: []
 data: {culture: nordheimnclt}
 ---
 
-The faith of Hrímthur has no door to stand at. An admirer holds [[lore-hrimthurspr|Hrímthur]]'s work in awe and has joined none of the scattered factions that keep his worship, and the awe is the whole of the standing.
+The faith of Hrimthur has no door to stand at. An admirer holds [[lore-hrimthurspr|Hrimthur]]'s work in awe and has joined none of the scattered factions that keep his worship, and the awe is the whole of the standing.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The [[affiliation-hrimthur|Faith of Hrímthur]] alone.
+The [[affiliation-hrimthur|Faith of Hrimthur]] alone.

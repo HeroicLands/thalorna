@@ -1,6 +1,6 @@
 ---
 shortcode: khelathgldql
-name: {full: Khelâthi Gold Qelu, aliases: [Gold Qelu, Gold Qezelet]}
+name: {full: Khelathi Gold Qelu, aliases: [Gold Qelu, Gold Qezelet]}
 type: miscgear
 description: "Temple-attested gold weight-piece of one qelu, a tenth of a gezan."
 tags: [jewelry_cash]

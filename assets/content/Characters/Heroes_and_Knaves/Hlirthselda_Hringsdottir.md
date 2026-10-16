@@ -1,7 +1,7 @@
 ---
 shortcode: hlrthsldhrngsdtr
 name:
-  full: Hlirthselda Hringsdóttir
+  full: Hlirthselda Hringsdottir
   given: Hlirthselda
   aliases: [the Shield-Maiden of Vrathavn]
 type: being
@@ -420,13 +420,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hlrthsldhrngsdtr|Hlirthselda Hringsdóttir]]{float=top-left}
+![[hlrthsldhrngsdtr|Hlirthselda Hringsdottir]]{float=top-left}
 
 Hlirthselda is 5’10" with a strong, athletic build, weighing about 180 pounds. Her fiery red hair is kept short, and her green eyes burn with the passion of a seasoned warrior. Her facial features are rugged but attractive, with a square jaw and a broad nose. Her scarred cheek adds to her warlike appearance. She wears chainmail and carries her round shield and axe.
 
 # Dossier {#dossier}
 
-Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vrathavn]], a town known for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Gróa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband and won her respect.
+Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vrathavn]], a town known for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Groa]] during a battle with [[affiliation-kingdmtrgd|Targud]] raiders. [[being-grosdrnrgd|Groa]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband and won her respect.
 
 ## Background
 
@@ -451,11 +451,11 @@ Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vratha
 
 ### Personality
 
-Hlirthselda is practical, courageous, and fiercely loyal. While she does not fully understand [[being-grosdrnrgd|Gróa]]’s magic, she respects the Seidr’s abilities and trusts her wisdom. She is also deeply protective of [[being-grosdrnrgd|Gróa]], seeing her as a vulnerable ally in need of a strong sword-arm.
+Hlirthselda is practical, courageous, and fiercely loyal. While she does not fully understand [[being-grosdrnrgd|Groa]]’s magic, she respects the Seid’s abilities and trusts her wisdom. She is also deeply protective of [[being-grosdrnrgd|Groa]], seeing her as a vulnerable ally in need of a strong sword-arm.
 
 ### Motivation
 
-Hlirthselda joins [[being-grosdrnrgd|Gróa]] because she believes in the Seidr’s vision of the coming dangers. She knows that her skills as a warrior will be needed to defend Norgaad, and she sees herself as a protector of both her homeland and [[being-grosdrnrgd|Gróa]].
+Hlirthselda joins [[being-grosdrnrgd|Groa]] because she believes in the Seid’s vision of the coming dangers. She knows that her skills as a warrior will be needed to defend Norgaad, and she sees herself as a protector of both her homeland and [[being-grosdrnrgd|Groa]].
 
 ### Strengths
 

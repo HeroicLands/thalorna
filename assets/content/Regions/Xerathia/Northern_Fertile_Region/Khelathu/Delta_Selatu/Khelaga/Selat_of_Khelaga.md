@@ -3,14 +3,14 @@ shortcode: selatkhelaga
 name: {full: The Selat of Khelaga, aliases: []}
 type: affiliation
 subType: polity
-description: "The delta apex, where the river first divides; old shrines and customs-stations—one of the delta selatu of Aû'Khelâthu."
+description: "The delta apex, where the river first divides; old shrines and customs-stations—one of the delta selatu of Au'Khelathu."
 data:
   banner: khelathubnr
   templatePriority: null
   governance:
     model: monarchy
     summary: >-
-      A selat of the delta selatu governed by a hereditary Halzi'a, who commands its levies, collects its taxes and dispenses its justice under the Gar-Aû's distant authority.
+      A selat of the delta selatu governed by a hereditary Halzi'a, who commands its levies, collects its taxes and dispenses its justice under the Gar-Au's distant authority.
     ranks:
       - level: 0
         title: Outcast
@@ -21,49 +21,30 @@ data:
         description: >-
           Bound to an estate or a temple, owing labor on its fields and its works and holding nothing of his own.
       - level: 2
-        title: Farmer
+        title: Zelar
         description: >-
-          Working the floodplain under a lord or a temple, owing a share of the harvest and labor on the canals.
+          A commoner, the free rank of no house: farmer, artisan, merchant and scribe alike. A Zelar owes a share of the harvest, labor on the canals and tax on his work, and a talented child may enter the scribal schools, which are the empire's principal path upward.
       - level: 3
-        title: Artisan or Merchant
+        title: Zabu
         description: >-
-          Of the trades—potters, weavers, boatmen, traders—free of the fields and taxed on their work.
-      - level: 4
-        title: Scribe
-        description: >-
-          Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
-      - level: 5
-        title: Legha'lutu
-        description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
-      - level: 6
-        title: Halzi'a
-        description: >-
-          Halzi'a: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
-      - level: 7
-        title: Iru'palu
-        description: >-
-          Of the royal house and the most exalted families, the highest hereditary rank below the throne.
-      - level: 8
-        title: Gar-Aû
-        description: >-
-          The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
+          A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
-      Halzi'a: Halzi'a, governing a selat with armies, taxes and courts of his own.
-      Legha'lutu: Ruler of an estate—manor, fields and village—answerable to the Halzi'a.
-      Zabet'lutu: Mistress of an estate, holding the same authority in her own right.
-      Zabet: Lady of the court, whose standing comes from position rather than from land.
+      Halzi'a: >-
+        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+      Legha'lutu: >-
+        Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
+      Zabet'lutu: >-
+        Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
+      Zabet: >-
+        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
       Zemelu: >-
-        Companion of the Gar-Aû: a title of royal favor and access rather than territorial authority.
-      Thâz'Lekhau: >-
-        Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
-      Lem'Nelgir: >-
-        Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
-      Wazu: >-
-        Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
-      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
-      Halzi'a's Steward: Administrator of the selat's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
+        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
+      Halzi'a's Steward: >-
+        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
+      Canal-Warden: >-
+        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: khelaga
   population: 350000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
@@ -76,23 +57,23 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-[[place-khelaga|Khelaga]] sits where the river first divides, and the empire has put a toll on the division. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a country of old shrines and customs-stations at the delta apex. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-uqaa|Uqa'â]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-khelagaselat|Khelaga Selat]].
+[[place-khelaga|Khelaga]] sits where the river first divides, and the empire has put a toll on the division. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a country of old shrines and customs-stations at the delta apex. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[affiliation-uqaa|Uqa'a]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-khelagaselat|Khelaga Selat]].
 
 "Every boat that goes down to the sea passes my station first," says a customs-station clerk, running a thumb down a column of tallies without looking up. "Most would rather not stop. I have learned to tell the ones that mean to cheat me by how neatly they tie up."
 
 ## Character
 
-The seat is [[place-khelaga|Khelaga]], where the Halzi'a keeps court and the selat's chief temple of Uqa'â stands. Uqa'â, the sun, is the patron here, and the selat's old shrines and customs-stations stand at the point where the river first divides. The apex forts and customs-stations date from the sea-raiders' going ([[lore-seahouse|the Closing of the Sea House]]), and the selat's western bank holds [[place-chariotfld|the Chariot Field]], where the chariot corps broke in 377 AF ([[lore-vylconquest|the Vylarian Conquest]]).
+The seat is [[place-khelaga|Khelaga]], where the Halzi'a keeps court and the selat's chief temple of Uqa'a stands. Uqa'a, the sun, is the patron here, and the selat's old shrines and customs-stations stand at the point where the river first divides. The apex forts and customs-stations date from the sea-raiders' going ([[lore-seahouse|the Closing of the Sea House]]), and the selat's western bank holds [[place-chariotfld|the Chariot Field]], where the chariot corps broke in 377 AF ([[lore-vylconquest|the Vylarian Conquest]]).
 
 ## Commerce and Currency
 
-Khelaga uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so the customs-stations and the temple measure with the same attested weights. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Khelaga uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapter of [[affiliation-garhalzi|Gar-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, so the customs-stations and the temple measure with the same attested weights. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
 ## See Also
 
 - [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
 - [[place-khelaga|Khelaga]]—Selat capital
-- [[affiliation-uqaa|Faith of Uqa'â]]—Patron cult
-- [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
+- [[affiliation-uqaa|Faith of Uqa'a]]—Patron cult
+- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
 - [[place-khelagaselat|Khelaga Selat]]—The land the selat holds

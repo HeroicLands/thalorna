@@ -19,7 +19,7 @@ data:
       - level: 0
         title: Turned Out
         description: >-
-          Sent from the House and from the count. The person keeps the custodian's rank among the Ithári'kaan and loses the House's winter shelter at Kuomethei.
+          Sent from the House and from the count. The person keeps the custodian's rank among the Ithakan and loses the House's winter shelter at Kuomethei.
       - level: 1
         title: Custodian of a Dark Work
         description: >-
@@ -45,7 +45,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The Keeper's House is the household of the Keeper of the Failing Works, the office of [[affiliation-kalihara|Kalihara]] that the Council has never admitted to. It stands at [[place-kuomethei|Kuomethei]], high on the southern crest of [[place-klhrring|the Ring]], and its members are the custodians of dark works: [[affiliation-tharivaan|Ithári'kaan]] whose works have gone white, who have nothing left to tend, and who keep the count of the white ones. The custodians of the wind-stones winter in the same village.
+The Keeper's House is the household of the Keeper of the Failing Works, the office of [[affiliation-kalihara|Kalihara]] that the Council has never admitted to. It stands at [[place-kuomethei|Kuomethei]], high on the southern crest of [[place-klhrring|the Ring]], and its members are the custodians of dark works: [[affiliation-tharivaan|Ithakan]] whose works have gone white, who have nothing left to tend, and who keep the count of the white ones. The custodians of the wind-stones winter in the same village.
 
 ## Character
 

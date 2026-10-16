@@ -1,19 +1,19 @@
 ---
 shortcode: okharis
-name: {full: Okháris, aliases: []}
+name: {full: Okharis, aliases: []}
 type: affiliation
 subType: polity
-description: "Collection of ancient city-states in the Northern Fertile Region of Xerathia—centers of civilization and learning in a tropical realm of rivers and rainforests."
+description: "Collection of ancient city-states in the Northern Fertile Region of Zerathia—centers of civilization and learning in a tropical realm of rivers and rainforests."
 tags: []
 data:
   templatePriority: null
-  demonym: Okháric
+  demonym: Okharik
   epithet: null
   symbol: null
   governance:
     model: monarchy
     summary: >-
-      Hereditary kingship over three great temple-cities (Zarhánis, Kaljékor, Vuthráka) and surrounding rural tribes.
+      Hereditary kingship over three great temple-cities (Zarhanis, Kaljekor, Vuthraka) and surrounding rural tribes.
     ranks:
       - level: 0
         title: Outcast
@@ -64,32 +64,32 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## Overview
 
-Okháris occupies the southern edge of the [[place-xerathia|Northern Fertile Region]]—a position that makes its membership in the region nominal rather than geographic. West of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], southwest of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and bounded on the south by the [[place-cntrlrnfrsts|Central Rainforests]], trackless except by its rivers, Okháris is a hot kingdom of rain-fed forest, river valleys and grassland in the west, drying eastward to savanna, held by three great temple-cities. Where its northern neighbors built civilization on aqueducts and irrigation, Okháris built it on rain-fed land and the herds.
+Okharis occupies the southern edge of the [[place-xerathia|Northern Fertile Region]]—a position that makes its membership in the region nominal rather than geographic. West of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], southwest of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and bounded on the south by the [[place-cntrlrnfrsts|Central Rainforests]], trackless except by its rivers, Okharis is a hot kingdom of rain-fed forest, river valleys and grassland in the west, drying eastward to savanna, held by three great temple-cities. Where its northern neighbors built civilization on aqueducts and irrigation, Okharis built it on rain-fed land and the herds.
 
 ## Geography
 
-Okháris is hot throughout and wettest in the west. There regular rains keep the grasslands green and the rivers running year-round, forest follows the watercourses and thickens southward toward the rainforest, and the land is fertile without canals—barley, sorghum, flax, dates and figs grow on rain and river water. The rains lessen moving east: the forest thins to scattered acacia and baobab groves, the rivers become seasonal, and by the border with Bethua the country is semi-arid savanna, rolling grassland broken by seasonal streams and outcrops of red sandstone. The western edge of the kingdom touches the wet-coastal strip that runs the length of the northern shore, and from the southern margins of [[place-nrthrnfrtlrgn|the Fertile crescent]] the land runs south to the edge of the rainforest.
+Okharis is hot throughout and wettest in the west. There regular rains keep the grasslands green and the rivers running year-round, forest follows the watercourses and thickens southward toward the rainforest, and the land is fertile without canals—barley, sorghum, flax, dates and figs grow on rain and river water. The rains lessen moving east: the forest thins to scattered acacia and baobab groves, the rivers become seasonal, and by the border with Bethua the country is semi-arid savanna, rolling grassland broken by seasonal streams and outcrops of red sandstone. The western edge of the kingdom touches the wet-coastal strip that runs the length of the northern shore, and from the southern margins of [[place-nrthrnfrtlrgn|the Fertile crescent]] the land runs south to the edge of the rainforest.
 
-The southern border of the kingdom is the northern edge of the [[place-cntrlrnfrsts|Central Rainforests]]—dense tropical jungle, trackless except by its rivers, that neither Okháric nor foreign powers have seriously attempted to penetrate. Okháric knowledge labels the country beyond the jungle margin only as "the green wall" and leaves it uncharted.
+The southern border of the kingdom is the northern edge of the [[place-cntrlrnfrsts|Central Rainforests]]—dense tropical jungle, trackless except by its rivers, that neither Okharik nor foreign powers have seriously attempted to penetrate. Okharik knowledge labels the country beyond the jungle margin only as "the green wall" and leaves it uncharted.
 
 ## Character
 
-Unlike Bethua or Aû'Khelâthu, Okháris did not build its civilization through hydraulic engineering. The Okháric peoples do not maintain aqueducts, irrigation canals, or qanats—in the west the rain does that work, and in the east the herds provide an economy far better suited to the terrain. In the wet west, village tribes hold fixed seats and live by farming, fishing, orchards, timber and craft. In the drier east, Okhárics live as semi-nomadic pastoralists, moving cattle, sheep, goats, and the small sturdy Okháric horses between seasonal grazing lands in annual cycles so ancient they carry the weight of religious obligation; between migrations, families tend small plots of sorghum, millet, pulses and native tubers to supplement the herds' meat and milk. Wild game and river fish round out the diet across the kingdom.
+Unlike Bethua or Au'Khelathu, Okharis did not build its civilization through hydraulic engineering. The Okharik peoples do not maintain aqueducts, irrigation canals, or qanats—in the west the rain does that work, and in the east the herds provide an economy far better suited to the terrain. In the wet west, village tribes hold fixed seats and live by farming, fishing, orchards, timber and craft. In the drier east, Okharics live as semi-nomadic pastoralists, moving cattle, sheep, goats, and the small sturdy Okharik horses between seasonal grazing lands in annual cycles so ancient they carry the weight of religious obligation; between migrations, families tend small plots of sorghum, millet, pulses and native tubers to supplement the herds' meat and milk. Wild game and river fish round out the diet across the kingdom.
 
-The three great temple-cities—**Zarhánis**, **Kaljékor**, and **Vuthráka**—are the fixed points around which the nomadic cycles turn. Each is a permanent religious, political, and trade center, a place of pilgrimage, council, and crafts. Tribal leaders of the grazing clans converge on the temple-cities during the major festivals; the cities' priestly-royal establishments rule by managing the relationship between the settled urban few and the nomadic many. This dual urban-rural structure is sometimes called the **Three-Flame Settlement**, an ancient compact in which the cities provide religious legitimacy, metal-craft, and entrepôt trade, while the clans provide the herds that feed the realm, the wool and leather that clothe it, and the warriors who defend it.
+The three great temple-cities—**Zarhanis**, **Kaljekor**, and **Vuthraka**—are the fixed points around which the nomadic cycles turn. Each is a permanent religious, political, and trade center, a place of pilgrimage, council, and crafts. Tribal leaders of the grazing clans converge on the temple-cities during the major festivals; the cities' priestly-royal establishments rule by managing the relationship between the settled urban few and the nomadic many. This dual urban-rural structure is sometimes called the **Three-Flame Settlement**, an ancient compact in which the cities provide religious legitimacy, metal-craft, and entrepôt trade, while the clans provide the herds that feed the realm, the wool and leather that clothe it, and the warriors who defend it.
 
 ## Challenges
 
-- There are whispers of rising tensions between Kaljékor and Vuthráka, as trade wealth fuels Kaljékor's ambitions while Vuthráka demands more resources for defense.
+- There are whispers of rising tensions between Kaljekor and Vuthraka, as trade wealth fuels Kaljekor's ambitions while Vuthraka demands more resources for defense.
 - Tákoro must navigate these challenges while ensuring that the rural tribes, who often feel neglected, do not rebel or seek autonomy.
 
 ## Central Religion
 
-The people of Okháris worship [[affiliation-nkaruthar|Nkaru'thar]] as the eternal flame of creation, destruction, and renewal, with its power manifesting in three aspects, symbolized by the three city-states:
+The people of Okharis worship [[affiliation-nkaruthar|Nkaru'thar]] as the eternal flame of creation, destruction, and renewal, with its power manifesting in three aspects, symbolized by the three city-states:
 
-- **Zarhánis (Spirit)**: The flame of faith and wisdom.
-- **Kaljékor (Wealth)**: The flame of abundance and prosperity.
-- **Vuthráka (Strength)**: The flame of war and protection.
+- **Zarhanis (Spirit)**: The flame of faith and wisdom.
+- **Kaljekor (Wealth)**: The flame of abundance and prosperity.
+- **Vuthraka (Strength)**: The flame of war and protection.
 
 Demi-gods, tied to specific aspects of life (e.g., fertility, storms, or death), act as intermediaries between mortals and Nkaru'thar, their shrines scattered across the kingdom.
 
@@ -100,4 +100,4 @@ Demi-gods, tied to specific aspects of life (e.g., fertility, storms, or death),
 
 ## Commerce and Currency
 
-Okháris uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—temple-attested weight-pieces of copper, silver, and gold in gezan and qelu units. Okháris has no native coinage; the Khelâthi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through the [[affiliation-crwntrdskhrs|crown-chartered trades]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-garhalzi|Gár-Hálzi]] chapters and issue letters of credit redeemable through those accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|The Crown Trades of Okháris]] for the Okhárian institutional arrangements.
+Okharis uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]—temple-attested weight-pieces of copper, silver, and gold in gezan and qelu units. Okharis has no native coinage; the Khelathi pieces serve as the standard medium of exchange. Credit and large-value commerce flow through the [[affiliation-crwntrdskhrs|crown-chartered trades]], whose Crown Moneylenders maintain correspondent accounts with [[affiliation-garhalzi|Gar-Hálzi]] chapters and issue letters of credit redeemable through those accounts. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full monetary system and [[affiliation-crwntrdskhrs|The Crown Trades of Okharis]] for the Okhárian institutional arrangements.

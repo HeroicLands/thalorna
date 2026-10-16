@@ -23,7 +23,7 @@ Kuomethei stands high on the southern crest of [[place-klhrring|the Ring]], belo
 
 The custodians who tend the wind-stones along the crest, and the pass lineages who walk them, winter at Kuomethei, since the high paths are closed in Deepwater and the village sits in reach of the whole southern crest. The custodians of the dark works live here too, in an office the Council does not name, with no work left to tend. The village is the lineage's, and the custodians are its guests.
 
-Above the houses a grove stands over a smooth swelling out of the hillside, a work of the [[lore-theithari|Ithári]] about the height of a kneeling woman, cold in the hottest month. The lineage tends it as a grove-stone for as long as it has held the slope. The grove fruits no better than any other, and in the Deepwater rains of four centuries every hillside round Kuomethei has come down at least once, and this one has stayed.
+Above the houses a grove stands over a smooth swelling out of the hillside, a work of the [[lore-theithari|Ithari]] about the height of a kneeling woman, cold in the hottest month. The lineage tends it as a grove-stone for as long as it has held the slope. The grove fruits no better than any other, and in the Deepwater rains of four centuries every hillside round Kuomethei has come down at least once, and this one has stayed.
 
 ## The Failing
 

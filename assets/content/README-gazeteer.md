@@ -156,7 +156,7 @@ twenty-five-word sentence built from _which_, _while_ and _although_ does not.
 >
 > **Bad length.** The pastoral economy of the clans, which varies considerably by
 > region and which has developed over many centuries, reflects an interdependence
-> that is visible throughout Okháric society.
+> that is visible throughout Okharik society.
 
 The first names one group doing three things. The second names nobody, and
 _reflects_ adds no fact.
@@ -290,7 +290,7 @@ data:
 # Appearance {#appearance}
 <one-line description based on their appearance data, like:>
 
-Rasûnum Gatîtûnî is a 53-year-old man who stands 5'4" tall and is of moderate build. He has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a pointed chin. His deep-set black eyes sit beneath heavy brows and give him a watchful gaze. He has an aquiline nose and full lips. He has olive skin with a smooth complexion. His brown hair is kept practical and short.
+Rasunum Gatituni is a 53-year-old man who stands 5'4" tall and is of moderate build. He has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a pointed chin. His deep-set black eyes sit beneath heavy brows and give him a watchful gaze. He has an aquiline nose and full lips. He has olive skin with a smooth complexion. His brown hair is kept practical and short.
 
 # Dossier {#dossier}
 
@@ -512,9 +512,9 @@ The anchors are part of the content format: the build sends `Appearance` to the 
 
 **Appearance is outward facing.** Write what someone experiences on first encountering the person or creature: visible features, clothing or surface, movement, voice or other sounds, smell, bearing, and the immediate impression these details create. Describe only what an observer can perceive at that moment. Do not reveal private motives, history, hidden nature, or tactical intentions there. **Dossier is for the person running the being.** Put the deeper account there: background, personality, motives, relationships, behavior, capabilities, secrets, and ways to bring the being into play. It can explain what the first impression conceals or gets wrong. Treat this as an information boundary when writing, regardless of how much detail either section needs.
 
-**`character`—a playable individual.** [Alýkos Bridutis](../assets/content/Characters/Heroes_and_Knaves/Alykos_Sampsion.md) illustrates the depth. Let `Appearance` give a visitor's first impression; use `Dossier` for the life that brought this singular person to their present position and the information needed to play them. Within `Dossier`, use `Psyche` with `Personality`, `Motivation`, `Strengths`, and `Weaknesses`; use `Social` with `Patrons`, `Enemies`, and `Affiliations`; close with `Plot Hooks`. Include **1–3 patrons and 1–3 enemies**, each with a reason for the relationship, and **3–5 plot hooks** involving the character. Develop enough history, habits, relationships, and conflicting commitments to support decisions beyond one encounter. Describe strengths and weaknesses through choices and consequences, rather than adding another set of statistics in prose. Each hook should arise from the character's established aims and relationships.
+**`character`—a playable individual.** [Alikos Bridutis](../assets/content/Characters/Heroes_and_Knaves/Alykos_Sampsion.md) illustrates the depth. Let `Appearance` give a visitor's first impression; use `Dossier` for the life that brought this singular person to their present position and the information needed to play them. Within `Dossier`, use `Psyche` with `Personality`, `Motivation`, `Strengths`, and `Weaknesses`; use `Social` with `Patrons`, `Enemies`, and `Affiliations`; close with `Plot Hooks`. Include **1–3 patrons and 1–3 enemies**, each with a reason for the relationship, and **3–5 plot hooks** involving the character. Develop enough history, habits, relationships, and conflicting commitments to support decisions beyond one encounter. Describe strengths and weaknesses through choices and consequences, rather than adding another set of statistics in prose. Each hook should arise from the character's established aims and relationships.
 
-**`npc`—an individual or encounter template.** [Árevin Lídren](../assets/content/Characters/Heroes_and_Knaves/Arevin_Lidren.md) illustrates an individual NPC. Keep `Appearance` and `Dossier`, and give the dossier an explicit `Background` before `Psyche`, `Social`, and `Plot Hooks`. Under `Background`, use meaningful stages of the person's life to explain their current role; Árevin's account moves through his early years, mastery, and present circumstances. Use `Personality`, `Motivation`, `Strengths`, and `Weaknesses` to guide portrayal. Under `Social`, include affiliations and any patrons or enemies that actually matter to this NPC; patrons and enemies are **optional**. Give an individual NPC **3–5 plot hooks** grounded in their circumstances. Scale the other detail to the NPC's role, but let the GM see how to portray them, what they want, and how they can enter a story.
+**`npc`—an individual or encounter template.** [Árevin Lidren](../assets/content/Characters/Heroes_and_Knaves/Arevin_Lidren.md) illustrates an individual NPC. Keep `Appearance` and `Dossier`, and give the dossier an explicit `Background` before `Psyche`, `Social`, and `Plot Hooks`. Under `Background`, use meaningful stages of the person's life to explain their current role; Árevin's account moves through his early years, mastery, and present circumstances. Use `Personality`, `Motivation`, `Strengths`, and `Weaknesses` to guide portrayal. Under `Social`, include affiliations and any patrons or enemies that actually matter to this NPC; patrons and enemies are **optional**. Give an individual NPC **3–5 plot hooks** grounded in their circumstances. Scale the other detail to the NPC's role, but let the GM see how to portray them, what they want, and how they can enter a story.
 
 For a reusable NPC template, describe the role rather than inventing one person's biography. `Appearance` gives what a party commonly encounters, with room for variation. In `Dossier`, `Background` explains the role's training and place in society; `Psyche` gives typical priorities and possible variation; `Social` identifies the authorities and communities connected to the role; `Plot Hooks` gives **3–5 encounter situations** in which such an NPC matters. Individual patrons, enemies, or life events belong in a specific person's note when relevant. Keep the main section headings so the template is navigable, and omit personal relationship subsections that do not apply.
 
@@ -988,7 +988,7 @@ number.
 Three things are not names, and none of them takes bold:
 
 - **A common noun**, however important the thing is.
-- **A rank, office or title used as the common word for it**—the godi who
+- **A rank, office or title used as the common word for it**—the gudi who
   keeps a hall, the hersvald who comes up from the valley. Such a word is a
   name only where the phrase names one specific post, the way
   `the Hersvald of the coastal district` names a seat.
@@ -1008,7 +1008,7 @@ _filnath_. **A name is never italic**—a person, place, god, house, clan or nam
 work: Sarghafudhál, Lakamamulán, The Crossing of the Clans.
 
 **A culture's common words are set in roman.** The in-world terms, a dozen at most, that
-players and GMs are expected to know are listed in the **Glossary** table of that
+players and GMs are expected to know are listed in the **Glossary** of that
 culture's Adventurer's Guide, and a listed word is never italic, in any note. The
 **full glossary** at the end of the culture note lists every term the culture's
 notes use. Every other word of a culture's own tongue that is not a name stays

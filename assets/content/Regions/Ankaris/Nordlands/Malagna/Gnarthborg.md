@@ -22,7 +22,7 @@ The finest shipyards in the north stand in Gnarthborg's harbor, and the clans th
 
 The jaw that will not open cuts both ways. Gnarthborg's shipwrights guard their craft from outsiders, and the same closed hand has made the town cautious of the king himself: a crown that leans too hard on one clan's yards risks a strike it has no way to compel, since a shipwright's skill is the one thing in the kingdom a hersvald's levy cannot muster by force. A northern king is not required to rule Gnarthborg the way he rules the rest of Malagna, and Hlurthann III does not try.
 
-The killing that began the [[place-malstead|Málstead]] wergild happened in a Gnarthborg shipyard, three generations ago, between a [[affiliation-hrafnvar|Hrafnvar]] shipwright and a [[affiliation-grimvar|Grímvar]] boy. [[lore-mlgnahstry|Histories and Legends of Malagna]] tells what followed.
+The killing that began the [[place-malstead|Málstead]] wergild happened in a Gnarthborg shipyard, three generations ago, between a [[affiliation-hrafnvar|Hrafnvar]] shipwright and a [[affiliation-grimvar|Grimvar]] boy. [[lore-mlgnahstry|Histories and Legends of Malagna]] tells what followed.
 
 ## See Also
 

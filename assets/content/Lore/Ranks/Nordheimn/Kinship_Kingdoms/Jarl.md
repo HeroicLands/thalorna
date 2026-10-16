@@ -16,7 +16,7 @@ In the five kingdoms, a jarl holds a province of the king, commands the hersvald
 
 ## How the Law Treats a Person Here
 
-In the kingdoms, a jarl who ignores what the ting decides discovers quickly how much of his authority was consent: the assembly's ruling binds him as it binds any free man, and the province he holds can be granted elsewhere if the king judges him unfit, which no bóndi's odal land can be.
+In the kingdoms, a jarl who ignores what the ting decides discovers quickly how much of his authority was consent: the assembly's ruling binds him as it binds any free man, and the province he holds can be granted elsewhere if the king judges him unfit, which no bundi's odel land can be.
 
 ## Privileges
 
@@ -28,7 +28,7 @@ In the kingdoms, he keeps his province's peace and answers to the king for it, d
 
 ## Offices Open at This Standing
 
-In the kingdoms, holding a named province is itself the office the rank confers; a jarl may also sit as Hirdstjóri, commanding the king's household troop, or as Lawspeaker at the kingdom's ting.
+In the kingdoms, holding a named province is itself the office the rank confers; a jarl may also sit as Hirvstjori, commanding the king's household troop, or as Lawspeaker at the kingdom's ting.
 
 ## Where This Standing Is Held
 

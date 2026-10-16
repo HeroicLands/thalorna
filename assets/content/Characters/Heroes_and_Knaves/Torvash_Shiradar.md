@@ -1,6 +1,6 @@
 ---
 shortcode: trvshshrdr
-name: {full: Torvâsh Shiradar, given: Torvâsh, clan: Shiradar, aliases: []}
+name: {full: Torvash Shiradar, given: Torvash, clan: Shiradar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -408,37 +408,37 @@ sohl:
 
 # Appearance {#appearance}
 
-![[trvshshrdr|Torvâsh Shiradar]]{float=top-left}
+![[trvshshrdr|Torvash Shiradar]]{float=top-left}
 
-Torvâsh stands 6'2" tall with a heavy build. He has tanned weathered skin, grey hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, and dark brows. He has a scar from forehead to cheek across his left eye.
+Torvash stands 6'2" tall with a heavy build. He has tanned weathered skin, grey hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, and dark brows. He has a scar from forehead to cheek across his left eye.
 
 # Dossier {#dossier}
 
-Torvâsh Shiradar was born into the warrior caste of the [[affiliation-dunhartrbs|Dunhara Tribes]], the third son of Chieftain Rezhad. Unlike his older brothers, who fought endlessly over matters of status and honor, Torvâsh proved himself through practical mastery rather than political maneuvering. He earned his first war wounds at sixteen, his first killing at seventeen. By his early twenties, he had established himself as a warrior whose prowess could not be questioned.
+Torvash Shiradar was born into the warrior caste of the [[affiliation-dunhartrbs|Dunhara Tribes]], the third son of Chieftain Rezhad. Unlike his older brothers, who fought endlessly over matters of status and honor, Torvash proved himself through practical mastery rather than political maneuvering. He earned his first war wounds at sixteen, his first killing at seventeen. By his early twenties, he had established himself as a warrior whose prowess could not be questioned.
 
-When tribal leadership fell vacant at his father's death, his two older brothers began a civil conflict that threatened to tear the entire tribe apart. Torvâsh, recognizing the danger, orchestrated a reconciliation that elevated neither of his brothers but instead unified the tribe under a council structure. Both brothers agreed to this arrangement—one died in a subsequent border conflict, the other accepted a position of honor without political authority. Torvâsh thus became chieftain not through right of succession but through demonstrated wisdom and, importantly, through the consensus of the tribe's elders and council.
+When tribal leadership fell vacant at his father's death, his two older brothers began a civil conflict that threatened to tear the entire tribe apart. Torvash, recognizing the danger, orchestrated a reconciliation that elevated neither of his brothers but instead unified the tribe under a council structure. Both brothers agreed to this arrangement—one died in a subsequent border conflict, the other accepted a position of honor without political authority. Torvash thus became chieftain not through right of succession but through demonstrated wisdom and, importantly, through the consensus of the tribe's elders and council.
 
-For over thirty years, Torvâsh has held leadership, managing the relationships between the Dunhara and the settled kingdoms, apportioning his tribe's resources, and defending his territory against encroachment. He has faced assassination attempts, rival chieftains seeking to prove themselves against him, and the constant pressure of maintaining authority in a society that respects only strength and cunning. The scar across his eye is a reminder of a poison attempt by a rival that left him disfigured but alive—and significantly more paranoid.
+For over thirty years, Torvash has held leadership, managing the relationships between the Dunhara and the settled kingdoms, apportioning his tribe's resources, and defending his territory against encroachment. He has faced assassination attempts, rival chieftains seeking to prove themselves against him, and the constant pressure of maintaining authority in a society that respects only strength and cunning. The scar across his eye is a reminder of a poison attempt by a rival that left him disfigured but alive—and significantly more paranoid.
 
 ## Psyche
 
 ### Personality
 
-Torvâsh is a man carved from difficult circumstances, pragmatic to the point of ruthlessness and cautious to the point of paranoia. He speaks with authority born of experience, his words often few but always carrying weight. He makes decisions based on thorough analysis of advantage and risk, and he commits to those decisions completely. Yet he is not cold or unfeeling; those few he trusts know him to be capable of deep loyalty and unexpected gentleness.
+Torvash is a man carved from difficult circumstances, pragmatic to the point of ruthlessness and cautious to the point of paranoia. He speaks with authority born of experience, his words often few but always carrying weight. He makes decisions based on thorough analysis of advantage and risk, and he commits to those decisions completely. Yet he is not cold or unfeeling; those few he trusts know him to be capable of deep loyalty and unexpected gentleness.
 
 His paranoia is not irrational but born of real dangers he has survived. He trusts no one implicitly, extends trust only to those who have proven themselves repeatedly, and remains perpetually alert to the possibility of betrayal. This has made him an effective leader but an exhausting presence, as everyone around him is perpetually aware that they are being assessed and judged. He holds grudges with a clarity of focus that is almost frightening—if someone wrongs him, they have marked themselves as his enemy until death, and he will pursue that vendetta with the patience of a man who measures time in decades.
 
 ### Motivation
 
-Torvâsh is driven by a single, all-consuming purpose: the survival and dominance of his tribe. Every decision he makes is filtered through this lens. He is not ambitious for personal power but for tribal security and strength. He serves Zúráthrä, god of fertility and abundance, not through worship but through the practical work of securing his tribe's continuation and prosperity. His motivation is rooted in a deep, almost spiritual belief that his role is to be the shield between his people and the countless dangers arrayed against them.
+Torvash is driven by a single, all-consuming purpose: the survival and dominance of his tribe. Every decision he makes is filtered through this lens. He is not ambitious for personal power but for tribal security and strength. He serves Zúrathra, god of fertility and abundance, not through worship but through the practical work of securing his tribe's continuation and prosperity. His motivation is rooted in a deep, almost spiritual belief that his role is to be the shield between his people and the countless dangers arrayed against them.
 
 ### Strengths
 
-- **Master of Warfare**: Torvâsh's skill in combat is famous throughout the region. He has killed more enemies than many warriors have faced, and his tactics are studied by military strategists across multiple realms.
+- **Master of Warfare**: Torvash's skill in combat is famous throughout the region. He has killed more enemies than many warriors have faced, and his tactics are studied by military strategists across multiple realms.
 - **Leadership**: He commands loyalty not through cruelty but through demonstrated competence and a real commitment to his tribe's welfare. His decisions have consistently preserved and strengthened the Dunhara.
-- **Political Acumen**: Despite his tribal origins, Torvâsh understands the political realities of the settled kingdoms. He negotiates with empire ambassadors with the skill of a born diplomat.
+- **Political Acumen**: Despite his tribal origins, Torvash understands the political realities of the settled kingdoms. He negotiates with empire ambassadors with the skill of a born diplomat.
 - **Unassailable Authority**: His position as chieftain is secure not through force but through the consensus of his people. Even rivals acknowledge his right to lead.
-- **Survival Instinct**: Torvâsh has survived assassination attempts, treachery, and combat that would have killed ordinary men. His instinct for danger is almost preternatural.
+- **Survival Instinct**: Torvash has survived assassination attempts, treachery, and combat that would have killed ordinary men. His instinct for danger is almost preternatural.
 
 ### Weaknesses
 
@@ -453,21 +453,21 @@ Torvâsh is driven by a single, all-consuming purpose: the survival and dominanc
 ### Patrons
 
 The Council of Dunhara Tribal Elders
-: The council that shares leadership responsibility with Torvâsh and provides legitimacy for his rule.
+: The council that shares leadership responsibility with Torvash and provides legitimacy for his rule.
 
 The Spirit Keepers
-: The shamans and ritual specialists of the tribe who maintain Torvâsh's spiritual authority and advise on matters of religious significance.
+: The shamans and ritual specialists of the tribe who maintain Torvash's spiritual authority and advise on matters of religious significance.
 
 ### Enemies
 
 Kethrak the Challenger
-: A rival chieftain from the neighboring Valdun tribes who has been systematically consolidating power and openly positioning himself as a future threat to Torvâsh's dominion. The two have never directly fought, but each respects the other's capabilities and recognizes that conflict is eventually inevitable.
+: A rival chieftain from the neighboring Valdun tribes who has been systematically consolidating power and openly positioning himself as a future threat to Torvash's dominion. The two have never directly fought, but each respects the other's capabilities and recognizes that conflict is eventually inevitable.
 
 The Imperial Garrison at [[place-khuqetmiglet|Khuqet-Miglet]]
 : The military outpost maintains nominal peace with the Dunhara, but recent commanders have proven hostile to tribal interests, leading to multiple border skirmishes and failed negotiations.
 
-Vazhdûn, the Returning Son
-: Torvâsh's youngest son, once considered his heir, abandoned tribal life twenty years ago to live among the settled kingdoms. He has recently returned with outsider ideas about governance and change, threatening Torvâsh's traditionalist authority.
+Vazhdun, the Returning Son
+: Torvash's youngest son, once considered his heir, abandoned tribal life twenty years ago to live among the settled kingdoms. He has recently returned with outsider ideas about governance and change, threatening Torvash's traditionalist authority.
 
 ### Affiliations
 
@@ -477,19 +477,19 @@ The Dunhara Tribes
 The Council of Tribal Leaders
 : A confederation of the Dunhara chieftains and war leaders who collectively advise on tribal matters.
 
-The Temple of Zúráthrä
+The Temple of Zúrathra
 : A devotional order dedicated to the god of fertility, prosperity, and abundance.
 
 ## Plot Hooks
 
-1. **The Succession Question**: After more than three decades of leadership, Torvâsh is beginning to face the mortality he has so far evaded. The tribal council has begun, carefully and tactfully, to raise the question of succession. Torvâsh has resisted acknowledging this question, but the council's pressure is mounting. The obvious choices are all problematic: his eldest son is a brilliant administrator but lacks martial prowess; his youngest son, the returned outsider, represents everything Torvâsh has fought against. Meanwhile, ambitious war leaders are positioning themselves as potential alternatives. Torvâsh faces the impossible task of choosing a successor without surrendering authority or creating a succession conflict that will tear his tribe apart.
+1. **The Succession Question**: After more than three decades of leadership, Torvash is beginning to face the mortality he has so far evaded. The tribal council has begun, carefully and tactfully, to raise the question of succession. Torvash has resisted acknowledging this question, but the council's pressure is mounting. The obvious choices are all problematic: his eldest son is a brilliant administrator but lacks martial prowess; his youngest son, the returned outsider, represents everything Torvash has fought against. Meanwhile, ambitious war leaders are positioning themselves as potential alternatives. Torvash faces the impossible task of choosing a successor without surrendering authority or creating a succession conflict that will tear his tribe apart.
 
-2. **The Prophecy from the Oracle**: A wandering oracle arrives at the Dunhara encampment with a dire prophecy: within three years, Torvâsh will face the greatest threat to his leadership he has yet encountered. The threat will come from within the tribe. The oracle will not provide details, cannot be pressed for specifics, and departs as mysteriously as she arrived. Torvâsh's paranoia, already considerable, escalates dramatically. He begins viewing every confidant, every council member, every ambitious warrior as a potential threat. His attempts to root out the supposed threat create the very instability and resentment that might actually produce the dangerous situation the prophecy described.
+2. **The Prophecy from the Oracle**: A wandering oracle arrives at the Dunhara encampment with a dire prophecy: within three years, Torvash will face the greatest threat to his leadership he has yet encountered. The threat will come from within the tribe. The oracle will not provide details, cannot be pressed for specifics, and departs as mysteriously as she arrived. Torvash's paranoia, already considerable, escalates dramatically. He begins viewing every confidant, every council member, every ambitious warrior as a potential threat. His attempts to root out the supposed threat create the very instability and resentment that might actually produce the dangerous situation the prophecy described.
 
-3. **The Unexpected Alliance**: A representative from a distant empire arrives with a proposal: the empire faces a threat from a confederation of hostile nomadic tribes and seeks to ally with the Dunhara to oppose them. The terms offered are generous—trade agreements, military support, and recognition of Torvâsh's expanded authority. Yet Torvâsh's instinct screams that this is a trap. The representative seems too comfortable with his suspicious nature, too readily accepting of his demands. It may be a real opportunity for the Dunhara to increase their power and security, or a subtle scheme to maneuver his tribe into a vulnerable position.
+3. **The Unexpected Alliance**: A representative from a distant empire arrives with a proposal: the empire faces a threat from a confederation of hostile nomadic tribes and seeks to ally with the Dunhara to oppose them. The terms offered are generous—trade agreements, military support, and recognition of Torvash's expanded authority. Yet Torvash's instinct screams that this is a trap. The representative seems too comfortable with his suspicious nature, too readily accepting of his demands. It may be a real opportunity for the Dunhara to increase their power and security, or a subtle scheme to maneuver his tribe into a vulnerable position.
 
-4. **The Returning Exile**: Vazhdûn, Torvâsh's youngest son, has been away for twenty years. He returns not as a supplicant seeking forgiveness but as a changed man, educated, articulate, and full of ideas about how the Dunhara should change. More troubling, he has brought with him a wife from the settled kingdoms and a child born into that world. He seeks acceptance and a role in tribal governance. For Torvâsh, this represents everything he has fought against—the contamination of pure tribal tradition with outsider corruption. Yet Vazhdûn is brilliant and capable, and his ideas—while terrifying to Torvâsh—hold real merit. The conflict between father and son becomes the focal point of tribal tension.
+4. **The Returning Exile**: Vazhdun, Torvash's youngest son, has been away for twenty years. He returns not as a supplicant seeking forgiveness but as a changed man, educated, articulate, and full of ideas about how the Dunhara should change. More troubling, he has brought with him a wife from the settled kingdoms and a child born into that world. He seeks acceptance and a role in tribal governance. For Torvash, this represents everything he has fought against—the contamination of pure tribal tradition with outsider corruption. Yet Vazhdun is brilliant and capable, and his ideas—while terrifying to Torvash—hold real merit. The conflict between father and son becomes the focal point of tribal tension.
 
-5. **The Assassination Plot Unraveled**: Torvâsh's scouts capture an assassin who was clearly moving toward the chieftain's encampment. Under questioning, the assassin reveals that he was hired by someone within the tribal leadership, though he doesn't know who. The money came through intermediaries, the contracts were signed with seals that could be anyone's. Torvâsh must conduct an investigation that could implicate his most trusted lieutenants, knowing that the investigation itself will create the distrust and resentment that could destabilize his leadership. He can pursue the truth, knowing it might destroy the tribe, or quietly eliminate the assassin and pretend the incident never occurred.
+5. **The Assassination Plot Unraveled**: Torvash's scouts capture an assassin who was clearly moving toward the chieftain's encampment. Under questioning, the assassin reveals that he was hired by someone within the tribal leadership, though he doesn't know who. The money came through intermediaries, the contracts were signed with seals that could be anyone's. Torvash must conduct an investigation that could implicate his most trusted lieutenants, knowing that the investigation itself will create the distrust and resentment that could destabilize his leadership. He can pursue the truth, knowing it might destroy the tribe, or quietly eliminate the assassin and pretend the incident never occurred.
 
-6. **The Frontier Crisis**: A natural disaster—a massive flood or earthquake—has devastated the borderlands between Dunhara territory and the settled kingdoms. Thousands are homeless, food supplies are destroyed, and disease threatens to spread. The imperial authorities are overwhelmed and have, surprisingly, turned to Torvâsh for assistance. The Dunhara tribes could help, but doing so would require allowing outsiders into their territory, sharing resources meant for the tribe, and establishing a precedent of cooperation with the Empire. Torvâsh faces a choice between tribal interest and the duty to help, between maintaining isolation and stepping into a larger role on the regional stage—a role that might elevate his status or completely destroy tribal independence.
+6. **The Frontier Crisis**: A natural disaster—a massive flood or earthquake—has devastated the borderlands between Dunhara territory and the settled kingdoms. Thousands are homeless, food supplies are destroyed, and disease threatens to spread. The imperial authorities are overwhelmed and have, surprisingly, turned to Torvash for assistance. The Dunhara tribes could help, but doing so would require allowing outsiders into their territory, sharing resources meant for the tribe, and establishing a precedent of cooperation with the Empire. Torvash faces a choice between tribal interest and the duty to help, between maintaining isolation and stepping into a larger role on the regional stage—a role that might elevate his status or completely destroy tribal independence.

@@ -3,16 +3,16 @@ shortcode: swiftelkcamp
 name: {full: Swift-Elk Camp, aliases: [The Swift-Elk Camp]}
 type: place
 subType: site
-description: "One of the Gárskald's three seasonal camps, on the Moldún where the river crossings make good ambush points for migrating herds."
+description: "One of the Garskald's three seasonal camps, on the Moldún where the river crossings make good ambush points for migrating herds."
 tags: [draft, camp]
 data: {demonym: null, lore: [], parents: [moldunriver], population: 0, packFolder: vrystwald}
 ---
 
-The **Swift-Elk Camp** is one of the three seasonal camps of the [[affiliation-wldjgrrndgrskld|Gárskald]] hunting company, and it stands along the [[place-moldunriver|Moldún River]]. The river crossings there make good ambush points for the migrating herds.
+The **Swift-Elk Camp** is one of the three seasonal camps of the [[affiliation-wldjgrrndgrskld|Garskald]] hunting company, and it stands along the [[place-moldunriver|Moldún River]]. The river crossings there make good ambush points for the migrating herds.
 
-The other two camps are the Summer Lodge in the eastern meadows and the Winter Hold in the protected valleys of the Deepwood. The Moldún is the southern bound of the Gárskald's hunting grounds, and a Vylarian logging operation has set itself up along it within sight of the clan's southern boundary markers.
+The other two camps are the Summer Lodge in the eastern meadows and the Winter Hold in the protected valleys of the Deepwood. The Moldún is the southern bound of the Garskald's hunting grounds, and a Vylarian logging operation has set itself up along it within sight of the clan's southern boundary markers.
 
 ## See Also
 
-- [[affiliation-wldjgrrndgrskld|Wuldjagár of the Gárskald]]—the company that keeps the camp
+- [[affiliation-wldjgrrndgrskld|Wuljagar of the Garskald]]—the company that keeps the camp
 - [[place-moldunriver|Moldún River]]—the river it stands on

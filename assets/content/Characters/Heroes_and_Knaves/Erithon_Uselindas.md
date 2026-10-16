@@ -1,6 +1,6 @@
 ---
 shortcode: erythnslnds
-name: {full: Erithon Ûselîndâs, given: Erithon, clan: Ûselîndâs, aliases: []}
+name: {full: Erithon Uselindas, given: Erithon, clan: Uselindas, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -416,15 +416,15 @@ sohl:
 
 # Appearance {#appearance}
 
-![[erythnslnds|Erithon Ûselîndâs]]{float=top-left}
+![[erythnslnds|Erithon Uselindas]]{float=top-left}
 
 Erithon stands 6'1" tall with a medium build. He has light fair skin, brown hair, and green eyes. His features include a heart-shaped face, a narrow nose, a narrow chin, expressive brows, soft cheeks. A distinguishing mark is a tattoo of a serpent on the back.
 
 # Dossier {#dossier}
 
-Erithon was born in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûn]], in the transitional lands where forest gives way to settled agriculture and the devotion to Lîzêlâs runs deep in the soil itself. His childhood was spent in a small yeoman's holding, where his father taught him to hunt to put food on the table and his mother instilled in him the spiritual disciplines of the Aurèldían faith. At fifteen, he underwent the trials of the local militia, and his extraordinary natural gift for archery was immediately apparent. By his twenty-second year, he had risen to become the militia's foremost marksman and the personal archer-guard to **Lord Dôrândôs**, the aging noble who oversaw these lands.
+Erithon was born in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], in the transitional lands where forest gives way to settled agriculture and the devotion to Lizelas runs deep in the soil itself. His childhood was spent in a small yeoman's holding, where his father taught him to hunt to put food on the table and his mother instilled in him the spiritual disciplines of the Aureldian faith. At fifteen, he underwent the trials of the local militia, and his extraordinary natural gift for archery was immediately apparent. By his twenty-second year, he had risen to become the militia's foremost marksman and the personal archer-guard to **Lord Doros**, the aging noble who oversaw these lands.
 
-For a decade, Erithon has served in this capacity—maintaining peace, hunting threats, and honing his craft to near-perfection. The serpent tattoo on his back was earned five years ago when he undertook a sacred pilgrimage to the heart of the Verdant Sanctum, seeking wisdom and blessing from Lîzêlâs for a failed hunt that cost a family their livelihood. The serpent, he was taught, represents regeneration and the cyclical nature of life—a reminder that even failure contains the seeds of renewal.
+For a decade, Erithon has served in this capacity—maintaining peace, hunting threats, and honing his craft to near-perfection. The serpent tattoo on his back was earned five years ago when he undertook a sacred pilgrimage to the heart of the Verdant Sanctum, seeking wisdom and blessing from Lizelas for a failed hunt that cost a family their livelihood. The serpent, he was taught, represents regeneration and the cyclical nature of life—a reminder that even failure contains the seeds of renewal.
 
 ## Psyche
 
@@ -434,7 +434,7 @@ Erithon is a man of discipline and quiet intensity. He speaks little, preferring
 
 ### Motivation
 
-Erithon's primary motivation is to perfect his craft and to use that mastery in service to his community and faith. He believes that his extraordinary skill is a gift from Lîzêlâs and carries with it a responsibility to protect those who cannot protect themselves. He seeks to prove himself worthy of the gift through constant improvement and through the ethical application of his abilities. Beyond this, he harbors a quiet ambition to go beyond the limits of his current position—to perhaps establish a school for archers, or to undertake a greater pilgrimage that would deepen his spiritual understanding.
+Erithon's primary motivation is to perfect his craft and to use that mastery in service to his community and faith. He believes that his extraordinary skill is a gift from Lizelas and carries with it a responsibility to protect those who cannot protect themselves. He seeks to prove himself worthy of the gift through constant improvement and through the ethical application of his abilities. Beyond this, he harbors a quiet ambition to go beyond the limits of his current position—to perhaps establish a school for archers, or to undertake a greater pilgrimage that would deepen his spiritual understanding.
 
 ### Strengths
 
@@ -442,7 +442,7 @@ Erithon's primary motivation is to perfect his craft and to use that mastery in 
 - **Perception**: His vision extends far beyond normal human capability, allowing him to perceive details at great distances and to notice subtle signs others would miss.
 - **Emotional Calm Under Pressure**: Years of high-stakes hunting and militia duty have honed his ability to remain focused and controlled even in dangerous circumstances.
 - **Survival Skills**: His knowledge of woodcraft, hunting, tracking, and wilderness navigation is comprehensive and practical.
-- **Spiritual Discipline**: His training in the Aurèldían faith provides him with both mental fortitude and a philosophical framework for understanding his purpose.
+- **Spiritual Discipline**: His training in the Aureldian faith provides him with both mental fortitude and a philosophical framework for understanding his purpose.
 
 ### Weaknesses
 
@@ -456,10 +456,10 @@ Erithon's primary motivation is to perfect his craft and to use that mastery in 
 
 ### Patrons
 
-Lord Dôrândôs
+Lord Doros
 : The aging nobleman who employs Erithon values him not merely as a skilled guard but as a trusted counselor; their relationship has deepened over the decade of service into something approaching friendship.
 
-High Priestess Kâldrêmâ of the Verdant Sanctum
+High Priestess Kaldrema of the Verdant Sanctum
 : The spiritual leader who marked Erithon with the serpent tattoo maintains contact with him, offering guidance and occasionally requesting that he undertake special missions.
 
 Master Fletcher Aldunor
@@ -474,26 +474,26 @@ Thaleris Swiftshot
 : A rival archer from a neighboring kingdom who publicly challenged Erithon's reputation three years ago; though Erithon defeated him in a formal competition, Thaleris harbors bitter resentment and spreads rumors about luck and fairness.
 
 The Crimson Cult
-: A faction of heretics who have targeted the Verdant Sanctum and its priests; Erithon's connection to High Priestess Kâldrêmâ has made him a target for their agents.
+: A faction of heretics who have targeted the Verdant Sanctum and its priests; Erithon's connection to High Priestess Kaldrema has made him a target for their agents.
 
 ### Affiliations
 
-The Holy Militia of Nartûn
+The Holy Militia of Nartun
 : Erithon maintains an active rank and deep involvement with the kingdom's primary military organization.
 
-The Archers' Circle of Nartûn
+The Archers' Circle of Nartun
 : A prestigious guild and social organization for skilled bowmen throughout the kingdom.
 
-The Devotees of Lîzêlâs
+The Devotees of Lizelas
 : Though not a formal organization, Erithon maintains a strong spiritual commitment to the faith and participates in seasonal rituals and celebrations.
 
 ## Plot Hooks
 
-1. **The Sacred Stag**: Hunters report sightings of a magnificent stag—enormous, ancient, and bearing strange markings—in the deep forest. Local legend claims it is a divine manifestation of Lîzêlâs herself. When Erithon encounters it during a hunt, he finds himself unable to kill it, despite the easy shot. This begins a strange spiritual journey in which the stag appears again and again, as if trying to communicate something. The party must help Erithon understand the meaning behind the encounters, leading them into contact with druidic powers and ancient magics.
+1. **The Sacred Stag**: Hunters report sightings of a magnificent stag—enormous, ancient, and bearing strange markings—in the deep forest. Local legend claims it is a divine manifestation of Lizelas herself. When Erithon encounters it during a hunt, he finds himself unable to kill it, despite the easy shot. This begins a strange spiritual journey in which the stag appears again and again, as if trying to communicate something. The party must help Erithon understand the meaning behind the encounters, leading them into contact with druidic powers and ancient magics.
 
 2. **The Poisoned Arrow**: Erithon is framed for an assassination attempt when his distinctive arrows are found at the scene of a crime—yet he did not fire them. Investigation reveals someone is craftily duplicating his arrows and implicating him in murders and attacks. The conspiracy leads deeper into the kingdom's politics than Erithon could have imagined, and he must prove his innocence while uncovering who has gone to such lengths to destroy his reputation.
 
-3. **The Verdant Sanctum Under Siege**: High Priestess Kâldrêmâ sends an urgent message that the Verdant Sanctum is under attack by forces she cannot identify—possibly cultists, possibly dark magic. Erithon must lead a rapid journey to aid the sanctuary, only to discover that the attack was a diversion for something far darker happening at the shrine's heart.
+3. **The Verdant Sanctum Under Siege**: High Priestess Kaldrema sends an urgent message that the Verdant Sanctum is under attack by forces she cannot identify—possibly cultists, possibly dark magic. Erithon must lead a rapid journey to aid the sanctuary, only to discover that the attack was a diversion for something far darker happening at the shrine's heart.
 
 4. **The Archery Tournament**: A grand tournament is announced that will attract the finest archers from across multiple kingdoms. Erithon is strongly encouraged to participate, but strange portents surround the event. The party discovers that the tournament is actually a cover for darker purposes—slave trading, assassination, or the identification of skilled warriors for conscription into a shadowy force.
 

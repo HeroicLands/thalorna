@@ -3,14 +3,14 @@ shortcode: thrunhamarr
 name: {full: Thrúnhamarr, aliases: []}
 type: lore
 subType: theology
-description: "Thrúnvald’s legendary hammer, a weapon of cosmic defense and a sign of protection and blessing."
+description: "Thrunvald’s legendary hammer, a weapon of cosmic defense and a sign of protection and blessing."
 tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-When the thunder comes up the seamount on [[place-thrumufjall|Thrumufjall]], the hof says it is the hammer, and a Storm-Speaker who reads the storm does not argue with the hof. **Thrúnhamarr** is the hammer of [[lore-thrunvalddty|Thrúnvald]], depicted as powerful enough to crush mountains and summon thunder and lightning. The [[affiliation-thrunvald|faith]] treats it as the god's weapon against the forces pressing on the ordered world and as a tool of blessing and protection, so that battle and the sanctifying of ships meet in one symbol. The hammer stone stands for that strength and that protection.
+When the thunder comes up the seamount on [[place-thrumufjall|Thrumufjall]], the hov says it is the hammer, and a Storm-Speaker who reads the storm does not argue with the hov. **Thrúnhamarr** is the hammer of [[lore-thrunvalddty|Thrunvald]], depicted as powerful enough to crush mountains and summon thunder and lightning. The [[affiliation-thrunvald|faith]] treats it as the god's weapon against the forces pressing on the ordered world and as a tool of blessing and protection, so that battle and the sanctifying of ships meet in one symbol. The hammer stone stands for that strength and that protection.
 
-In the saga of [[being-skrldmylstrmbrn|Skrildmýl Stormborn]], Thrumufjall is the mountain where the god is said to have struck the earth with the hammer. In the standard telling of [[lore-aldarlok|Aldarlok]] it lies where Thrúnvald drops it, and [[lore-tvelgaett|Hamarberi]], his daughter and one of the [[lore-tvelgaett|Tvelgaett]], lifts it out of the fire.
+In the saga of [[being-skrldmylstrmbrn|Skrilmil Stormborn]], Thrumufjall is the mountain where the god is said to have struck the earth with the hammer. In the standard telling of [[lore-aldarlok|Aldarlok]] it lies where Thrunvald drops it, and [[lore-tvelgaett|Hamarberi]], his daughter and one of the [[lore-tvelgaett|Tvelgaett]], lifts it out of the fire.
 
 ## The Hammer Held
 
@@ -76,7 +76,7 @@ the traveling ship awaits you.
 
 Mountain-breaker, mighty in battle,
 meet now the prow's blessing.
-The godi gives his words;
+The gudi gives his words;
 godward rises the crew's asking.
 Bent backs bear the leaving;
 below them the tide gathers.
@@ -133,7 +133,7 @@ Thrumufjall thrusts above the tide;
 thunder strikes its stone crown.
 There the Thunderer struck earth;
 there the saga sets him.
-Winter whitened Skrildmýl's weary people;
+Winter whitened Skrilmil's weary people;
 winds drove them toward climbing.
 Mountainward moved the faithful feet;
 men steadied their stumbling neighbors.
@@ -166,7 +166,7 @@ Far burns the final fire;
 fate fills the dark horizon.
 Aldarlok enters the hall singing;
 all cups halt in passing.
-The wyrm waits on Vígvöll;
+The wyrm waits on Vigvoll;
 wide lies its dreadful shadow.
 Heimsormr heaves before the god;
 high lifts the hammer again.

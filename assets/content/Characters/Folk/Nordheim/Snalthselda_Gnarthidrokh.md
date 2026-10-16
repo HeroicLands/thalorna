@@ -1,9 +1,9 @@
 ---
 shortcode: snalthseldag
-name: {full: Snalthselda Gnarthidrokh, aliases: [Jarl Snalthselda Gnarthidrokh]}
+name: {full: Snalthselda Gnarthidrok, aliases: [Jarl Snalthselda Gnarthidrok]}
 type: being
 subType: npc
-description: A rival warrior within the guild who views Vruldorv Dróttgar's success as a personal affront.
+description: A rival warrior within the guild who views Vruldorv Drottgar's success as a personal affront.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Snalthselda Gnarthidrokh is a 43-year-old woman who stands 5'4" tall with a massive build. She has light skin, freckled complexion, brown hair, and blue eyes.
+Snalthselda Gnarthidrok is a 43-year-old woman who stands 5'4" tall with a massive build. She has light skin, freckled complexion, brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Snalthselda Gnarthidrokh is a rival warrior within the guild who views [[being-vrldrvdrtgr|Vruldorv Dróttgar]]'s success as a personal affront. She spreads rumors that Vruldorv's reputation is exaggerated; the two have not yet come to open conflict.
+Snalthselda Gnarthidrok is a rival warrior within the guild who views [[being-vrldrvdrtgr|Vruldorv Drottgar]]'s success as a personal affront. She spreads rumors that Vruldorv's reputation is exaggerated; the two have not yet come to open conflict.

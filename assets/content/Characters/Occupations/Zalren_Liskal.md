@@ -1,6 +1,6 @@
 ---
 shortcode: zalrnlyskl
-name: {full: Zalrèn Liskàl, aliases: []}
+name: {full: Zalren Liskal, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Zalrèn Liskàl is a 54-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with high cheekbones, a wide forehead, and a strong jaw that leads to a strong chin. His deep-set blue eyes sit beneath straight brows, lending him a watchful gaze. A narrow nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His gray hair is combed neatly to one side.
+Zalren Liskal is a 54-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with high cheekbones, a wide forehead, and a strong jaw that leads to a strong chin. His deep-set blue eyes sit beneath straight brows, lending him a watchful gaze. A narrow nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His gray hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Zalrèn Liskàl came into the world of the woodcrafter through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Zalren Liskal came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
-Zalrèn has been a woodcrafter for over thirty years, known for his craftsmanship in building sturdy furniture and everyday items. He learned the craft from his grandfather, who instilled in him a love for woodworking and a dedication to quality. Zalrèn's workshop is filled with tools and half-finished projects, reflecting his preference for practicality over aesthetics. Although his work lacks decorative flair, it is highly valued for its durability.
+Zalren has been a woodcrafter for over thirty years, known for his craftsmanship in building sturdy furniture and everyday items. He learned the craft from his grandfather, who instilled in him a love for woodworking and a dedication to quality. Zalren's workshop is filled with tools and half-finished projects, reflecting his preference for practicality over aesthetics. Although his work lacks decorative flair, it is highly valued for its durability.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Uninterested in decorative work, prefers traditional methods over innovation.
 
 ### Motivation
 
-Zalrèn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcrafter work keep him vigilant and adaptable.
+Zalren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcrafter work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Skilled at creating sturdy, functional items, highly experienced, practical.
 
 ## Social
 
-Zalrèn is affiliated with Rural Craftsmen's Guild.
+Zalren is affiliated with Rural Craftsmen's Guild.
 
-As a Provenzian woodcrafter, Zalrèn occupies a recognized social niche within Provènzia society.
+As a Provenzian woodcrafter, Zalren occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Zalrèn's primary patron is Local farmers and townspeople who need durable wooden goods. This relationship provides both opportunity and obligation.
+Zalren's primary patron is Local farmers and townspeople who need durable wooden goods. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ None; respected for his consistency and reliability.
 
 ## Plot Hooks
 
-1. **The Woodcrafter's Dilemma**—Zalrèn faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Woodcrafter's Dilemma**—Zalren faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
 
 2. **Old Grudges**—None; respected for his consistency and reliability. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Zalrèn's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Zalren's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Zalrèn depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Zalren depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Zalrèn the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Zalren the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

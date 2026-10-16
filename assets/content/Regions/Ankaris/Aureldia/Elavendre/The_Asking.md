@@ -3,7 +3,7 @@ shortcode: theasking
 name: {full: The Asking, aliases: []}
 type: lore
 subType: literature
-description: "A Sinalëan lay held in Élavendre: the Pelwar band that came over the eastern pass, the herdsman Dhárgan who sat four days at the wood's edge and asked, and the generations after him, told in nine turnings by the Sinalë who watched."
+description: "A Sinalean lay held in Élavendre: the Pelwar band that came over the eastern pass, the herdsman Dhargan who sat four days at the wood's edge and asked, and the generations after him, told in nine turnings by the Sinale who watched."
 tags: [draft]
 data:
   culture: sinaleclt
@@ -13,23 +13,23 @@ data:
   language: sinalelng
 ---
 
-**The Asking** is a [[lore-flksinale|Sinalëan]] song held in [[place-elavendre|Élavendre]]. The
+**The Asking** is a [[lore-flksinale|Sinalean]] song held in [[place-elavendre|Élavendre]]. The
 [[lore-aelendnppl|Áelendan]] Tradition Keepers hold it with the tribal songs and count it, with
-[[lore-seventowers|The Seven Towers]], among the songs first heard at [[place-aelirosse|Aelirossë]]
+[[lore-seventowers|The Seven Towers]], among the songs first heard at [[place-aelirosse|Aelirosse]]
 and carried out of the [[place-silvrfrsts|Silver Forests]] by people to whom it was given freely; the
 [[affiliation-bardicolgs|Bardic Colleges]] sing it to the harp in nine turnings, each named for what
-stands out in it. The song is the Sinalë's own account of the [[lore-pelwarpepl|Pelwar]] band that came
-over the eastern pass into the interior, of the herdsman Dhárgan who sat four days at the wood's edge and
+stands out in it. The song is the Sinale's own account of the [[lore-pelwarpepl|Pelwar]] band that came
+over the eastern pass into the interior, of the herdsman Dhargan who sat four days at the wood's edge and
 asked, and of the generations after him: the Pact sung at the lowest pool of [[place-longstair|the Long
-Stair]], the watch set at the fog-hollow, the chief made Kinless at [[lore-tenaspr|T'éna]]'s fire in the
+Stair]], the watch set at the fog-hollow, the chief made Kinless at [[lore-tenaspr|Tena]]'s fire in the
 Black Snow year, the fires on the pass, and the giving-over at the stone court of
-[[place-ethalosse|Ethalossë]].
+[[place-ethalosse|Ethalosse]].
 
-The Dhárgandi hold that the Dhárgan of the song is the founder of their line, and the Kháldendi are the
-line the song calls cold-handed. The Sinalë have confirmed neither claim and corrected neither, and the
-Tradition Keepers sing the song as it was received, adding nothing. The Sinalë names in it, for the wood,
-the pool, the clearing, the fog-hollow and the epithet the song gives Dhárgan at its close, are sung as
-the Sinalë say them, and are the only Sinalë words most Áelendan ever speak.
+The Dhárgandi hold that the Dhargan of the song is the founder of their line, and the Kháldendi are the
+line the song calls cold-handed. The Sinale have confirmed neither claim and corrected neither, and the
+Tradition Keepers sing the song as it was received, adding nothing. The Sinale names in it, for the wood,
+the pool, the clearing, the fog-hollow and the epithet the song gives Dhargan at its close, are sung as
+the Sinale say them, and are the only Sinale words most Áelendan ever speak.
 
 : I. The Last Trees {#asking-1}
 
@@ -95,7 +95,7 @@ a herdsman stood up in the light.
 
 He swore no oath. He said, "Go west.
   Take children, and the seed. No more."
-  That was Dhárgan. The night before
+  That was Dhargan. The night before
 he'd been a herdsman like the rest.
 
 The river first. It was in spate.
@@ -103,7 +103,7 @@ The river first. It was in spate.
   the children to the men. You hoped.
 Then in. Some came out. Some came late.
 
-Then Dhárgan went back in for one
+Then Dhargan went back in for one
   more child, and got her out. The brown
   wild water took his wife. Gone down.
 He stood. And all the rest went on.
@@ -116,10 +116,10 @@ a hole, since then, in what we hold.
 The plain was flat and long. The dead
   ewes fed you for a while. And then
   the men looked at the seed. The men
-were hungry. "Not that," Dhárgan said.
+were hungry. "Not that," Dhargan said.
 
 He sat down on the sacks. One drew
-  a knife. And Dhárgan did not rise.
+  a knife. And Dhargan did not rise.
   He said, "Eat this, and no one dies
 tonight. We walk, then, till we do.
 
@@ -135,7 +135,7 @@ with wind. You went up all the same.
 
 The pass was high. The snow came cold.
   Some sat to rest. They sit there yet.
-  Néla, his daughter, would not let
+  Nela, his daughter, would not let
 the lamb go from her coat's warm fold.
 
 And every ewe you have, you say,
@@ -172,7 +172,7 @@ That night you stopped outside, and lit
   took starlight, up into the dark,
 and all the hillside shone with it.
 
-Your shaman, Sîlor, sang. The wood
+Your shaman, Silor, sang. The wood
   did not reply. His songs were made
   for wolf and rain and river, laid
 on grass-land. Here they did no good.
@@ -212,8 +212,8 @@ One man cut birch to feed the fire.
   He lived. He had sons. To this day
 that line has cold hands, son and sire.
 
-Then Dhárgan went and knelt in snow
-  before the first tree. Sîlor said,
+Then Dhargan went and knelt in snow
+  before the first tree. Silor said,
   "We do not kneel." He turned his head.
 "Then what? You do not know this." "No."
 
@@ -318,7 +318,7 @@ The fog kept him. No man, no dog.
 
 You did not know that hollow yet,
   nor what it was. You'd learn. The cost
-  was Dránketh, Ánsel's brother. Lost.
+  was Dranketh, Ansel's brother. Lost.
 Not dead. Not back. No trace. No debt.
 
 One sat down in the snow, not old,
@@ -339,7 +339,7 @@ his head down. Then a voice. His name.
 A man was calling for his son.
   He came up with no fire, no spear,
   his two hands open, calling clear,
-"Ánsel!" The snow had Dhárgan's son.
+"Ansel!" The snow had Dhargan's son.
 
 It was Haulera's choice. She could
   have let the paths stay turned. She let
@@ -403,7 +403,7 @@ I know those, I'll sit here. For good."
 He asked us well. And so we said
   what we had not been asked before
   by any of your kind: the lore.
-And Dhárgan took it in his head.
+And Dhargan took it in his head.
 
 Haulera gave him there a name
   in our own tongue, for how he'd sat.
@@ -494,7 +494,7 @@ One boy climbed up it in the sun,
   The pool kept him. No rope, no call,
 no diving got him back. Not one.
 
-Néla went up and sat, and asked.
+Nela went up and sat, and asked.
   Haulera said: "That is one thing,
   seven falls, one water. In the spring
 it's loudest. Here's what you are tasked.
@@ -527,7 +527,7 @@ our names inside it, said half wrong.
 We stood apart. It was not ours
   to make, nor hear. What the land said
   back to him, he took in his head,
-as Dhárgan had. That Pact is yours.
+as Dhargan had. That Pact is yours.
 
 One spring he asked about the fog
   that kept his son. Haulera told:
@@ -541,7 +541,7 @@ Sing from the hall. Some nights you lose.
 
 Your son went in with fire, by day,
   and called it, and it heard. What keeps
-  him is not dead." And Dhárgan weeps
+  him is not dead." And Dhargan weeps
 not, in our song. He walked away.
 
 He set a watch there that same spring:
@@ -559,7 +559,7 @@ Haulera, who had said "the sea,"
   We saw. We said no word to him,
 nor her. His hair went white. Let be.
 
-Then he came up with Néla, grown—
+Then he came up with Nela, grown—
   the lamb-girl—sat her down, and made
   her sing it back; and, unafraid,
 she had it all. It was her own.
@@ -599,9 +599,9 @@ We go there sometimes, as to no
   You keep his name. But that stone place
 holds stones. Not him. Where, we don't know.
 
-His Néla kept the lore, grew old,
+His Nela kept the lore, grew old,
   and gave it to a child, and died.
-  Tála, that child, sat down outside
+  Tala, that child, sat down outside
 the trees and sang, as she'd been told.
 
 She had one thing in it we had
@@ -620,11 +620,11 @@ That year the lamb-line and the line
 was not in it. You buried nine.
 
 You did not ask. We did not say.
-  Tála's grandson came up. He sat
-  where Dhárgan had. And he had that
+  Tala's grandson came up. He sat
+  where Dhargan had. And he had that
 same face, the first one's, gone half grey.
 
-"I'm Ghálmir, of his line," he said.
+"I'm Ghalmir, of his line," he said.
   Haulera looked at him, and saw
   the first one's face, the same set jaw,
 and, under stone, the first one, dead.
@@ -638,13 +638,13 @@ nothing in it to make us doubt.
 : VII. The Felled Birch {#asking-7}
 
 ```poetry {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
-Ghálmir was chief the Black Snow year:
+Ghalmir was chief the Black Snow year:
   snow early, late, and deep. It killed
   the lambs inside the ewes. It filled
 the cairns. Fire was what kept you here.
 
 The oak ran out. The ash ran out.
-  Ghálmir looked at the silver trees
+  Ghalmir looked at the silver trees
   around the Lodge, and said, "Cut these."
 You let him do it. None spoke out.
 
@@ -669,13 +669,13 @@ It walked at night. It took the young:
 in fog, the wrong song on his tongue.
 
 The song for it was in the lore.
-  Môgha, his sister, had it whole.
+  Mogha, his sister, had it whole.
   No one had asked her. That's the hole
 it came in by. Not fog. A door.
 
 You did not wait for us. The hall
-  met. T'éna's fire was lit. You made
-  Ghálmir Kinless: no hearth, no shade,
+  met. Tena's fire was lit. You made
+  Ghalmir Kinless: no hearth, no shade,
 no water, name, nor friend. That's all.
 
 He walked into the wood alone.
@@ -683,13 +683,13 @@ He walked into the wood alone.
   What he met in there, he had earned.
 What that was, we keep. It's our own.
 
-Then Môgha brought you up. You sat
+Then Mogha brought you up. You sat
   outside the trees—the young, the old,
   hands bare—as he had, in the cold,
 three days. And no one begged. You sat.
 
 Haulera went to her. "Why do
-  you sit?" And Môgha said, "We broke
+  you sit?" And Mogha said, "We broke
   it. We cut birch. We left the smoke
 on Thalve. We did not ask you.
 
@@ -723,16 +723,16 @@ say no to you. The why we hold.
 
 ```poetry {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
 One spring: fires on the pass, at night.
-  Nélgan, you call it now: Snow-Gate.
+  Nelgan, you call it now: Snow-Gate.
   The folk who'd pushed your fathers. Late,
 but come. For grass. For sheep. To fight.
 
-His name was Dûlthân, the Deep Dark.
+His name was Dulthan, the Deep Dark.
   Your mothers say that name to make
   a child lie still. He'd burned, to take
 the grass, two valleys to the bark.
 
-A Dhárgan led you then. The name,
+A Dhargan led you then. The name,
   the face. He stood you at the trees,
   spears up. He did not send, past these,
 the children in. Alone, he came.
@@ -777,17 +777,17 @@ They had not seen us. So they stopped.
   at once. Half ran. The rest, the same
 as stones, stood. And the brands were dropped.
 
-Dûlthân stayed. One brand. He threw
+Dulthan stayed. One brand. He threw
   it at the nearest tree. It caught.
-  Dhárgan went up to it, and brought
+  Dhargan went up to it, and brought
 it out, bare-handed. It burned through.
 
-Then Dûlthân's spear. It took him in
+Then Dulthan's spear. It took him in
   the side. He stood. He held the brand
   until it died, in his burned hand.
 Then he sat down, where trees grow thin.
 
-Haulera looked at Dûlthân. That
+Haulera looked at Dulthan. That
   was all she did. He turned. He ran.
   His men ran after him. No man
 came back that year. Nor since. Mind that.
@@ -804,14 +804,14 @@ they came, out of the trees. Each one.
 You had not seen us in the light.
   We are, by day, too tall, too still,
   and not the gods you'd made. And, ill
-as he was, Dhárgan sat upright.
+as he was, Dhargan sat upright.
 
 A court of worked stone stands up where
   the last trees thin toward the pass.
   It's older than the trees. The grass
 grows in its cracks. We laid him there.
 
-Ethalossë, we call it. You
+Ethalosse, we call it. You
   say it well now. The first ones said
   it badly; so did theirs. It spread,
 mouth to mouth, lives, till it came true.
@@ -851,7 +851,7 @@ That is the day that you were named:
   you say it, we are back there, then,
 in daylight, with the birch-fire tamed.
 
-And Dhárgan, speared, sat up. He could
+And Dhargan, speared, sat up. He could
   sit. He said back, "To keep it." Then
   he lay back down. And that was when
 it passed: no gift, no vow. For good.
@@ -891,7 +891,7 @@ And here's a name we've kept, unheard
   he sat. It's his, in our tongue. Bring
 it down with you. Here is the word.
 
-"Vilmë," it is—the one who sat.
+"Vilme," it is—the one who sat.
   Say it to children by the hearth,
   and at his cairn, and on the earth
 he's under. It is his. Keep that.
@@ -909,29 +909,29 @@ it anyway. It is good bread.
 
 ## The names in the song
 
-The song keeps the Áelendan names as the Áelendan say them and the Sinalë names as the Sinalë say them.
+The song keeps the Áelendan names as the Áelendan say them and the Sinale names as the Sinale say them.
 
 | Name         | Who or what                                                                                                                                        |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Dhárgan**  | The herdsman who led the migration, sat four days at the wood's edge and died old at Ésalosa; later his descendant, chief at the fires on the pass |
-| **Néla**     | Dhárgan's daughter, the lamb over Nélgan, who made the asking at the Stair and was the first Tradition Keeper after him                            |
-| **Sîlor**    | The band's shaman, whose grass-country forms fail on the fae, who makes the Pact at the lowest pool                                                |
-| **Ánsel**    | Dhárgan's son, who sat down in the snow and was called out                                                                                         |
-| **Dránketh** | Dhárgan's other son, kept by the fog at Thalve in the Lean Year                                                                                    |
-| **Tála**     | Néla's grandchild, who enlarged the fox's share in the song                                                                                        |
-| **Ghálmir**  | The chief of the Black Snow year, who felled the stand and pulled the watch, and was made Kinless                                                  |
-| **Môgha**    | Ghálmir's sister, a Tradition Keeper, who led the return                                                                                           |
-| **Dûlthân**  | The raiders' chief as the Áelendan name him, a name mothers use to still a child                                                                   |
-| **Nélgan**   | The eastern pass, also called the Snow-Gate                                                                                                        |
-| **Haulera**  | The eldest of the Sinalë of Lonvu, she who said "the sea", once a guest in the makers' halls                                                       |
-| **Lauva**    | The Sinalë whose care is the pool, who ate the bread                                                                                               |
-| **Vilmë**    | Dhárgan's epithet in the Sinalë tongue, "the one who sat", withheld until the song's close                                                         |
-| **Lonvu**    | The Silver Forests, as the Sinalë name them                                                                                                        |
+| **Dhargan**  | The herdsman who led the migration, sat four days at the wood's edge and died old at Ésalosa; later his descendant, chief at the fires on the pass |
+| **Nela**     | Dhargan's daughter, the lamb over Nelgan, who made the asking at the Stair and was the first Tradition Keeper after him                            |
+| **Silor**    | The band's shaman, whose grass-country forms fail on the fae, who makes the Pact at the lowest pool                                                |
+| **Ansel**    | Dhargan's son, who sat down in the snow and was called out                                                                                         |
+| **Dranketh** | Dhargan's other son, kept by the fog at Thalve in the Lean Year                                                                                    |
+| **Tala**     | Nela's grandchild, who enlarged the fox's share in the song                                                                                        |
+| **Ghalmir**  | The chief of the Black Snow year, who felled the stand and pulled the watch, and was made Kinless                                                  |
+| **Mogha**    | Ghalmir's sister, a Tradition Keeper, who led the return                                                                                           |
+| **Dulthan**  | The raiders' chief as the Áelendan name him, a name mothers use to still a child                                                                   |
+| **Nelgan**   | The eastern pass, also called the Snow-Gate                                                                                                        |
+| **Haulera**  | The eldest of the Sinale of Lonvu, she who said "the sea", once a guest in the makers' halls                                                       |
+| **Lauva**    | The Sinale whose care is the pool, who ate the bread                                                                                               |
+| **Vilme**    | Dhargan's epithet in the Sinale tongue, "the one who sat", withheld until the song's close                                                         |
+| **Lonvu**    | The Silver Forests, as the Sinale name them                                                                                                        |
 | **Mallonna** | The deep pool Lauva keeps, a thin place in water                                                                                                   |
 | **Tehy**     | The clearing round the one tree                                                                                                                    |
 | **Thalve**   | The fog-hollow thin place at the wood's edge                                                                                                       |
 
 ## See Also
 
-- [[lore-seventowers|The Seven Towers]] · [[lore-flksinale|Sinalë]] · [[lore-aelendnppl|Áelendan People]]
-- [[place-aelirosse|Aelirossë]] · [[place-ethalosse|Ethalossë]] · [[affiliation-bardicolgs|The Bardic Colleges]]
+- [[lore-seventowers|The Seven Towers]] · [[lore-flksinale|Sinale]] · [[lore-aelendnppl|Áelendan People]]
+- [[place-aelirosse|Aelirosse]] · [[place-ethalosse|Ethalosse]] · [[affiliation-bardicolgs|The Bardic Colleges]]

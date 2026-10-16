@@ -1,6 +1,6 @@
 ---
 shortcode: jdhrsbshrn
-name: {full: Jâdhâros Bâshirôn, aliases: []}
+name: {full: Jadharos Basiron, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Jâdhâros Bâshirôn is a 26-year-old man who stands 6'2" tall and is of moderate build. He has a long face with wide-set cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath arched brows, lending him a watchful gaze. A straight nose and wide lips complete his features. He has olive skin with an olive-toned complexion. His dark brown hair is cropped short.
+Jadharos Basiron is a 26-year-old man who stands 6'2" tall and is of moderate build. He has a long face with wide-set cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath arched brows, lending him a watchful gaze. A straight nose and wide lips complete his features. He has olive skin with an olive-toned complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Jâdhâros Bâshirôn came into the world of the common seaman through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Jadharos Basiron came into the world of the common seaman through a combination of circumstance and aptitude.
 
-Jâdhâros is an experienced seaman who has spent years sailing the coastal waters. Known for his reliability and work ethic, he is often called upon to handle various tasks aboard the ship. Jâdhâros is well-liked by his crewmates for his sense of humor and ability to lift spirits during long voyages. He dreams of one day becoming a captain himself.
+Jadharos is an experienced seaman who has spent years sailing the coastal waters. Known for his reliability and work ethic, he is often called upon to handle various tasks aboard the ship. Jadharos is well-liked by his crewmates for his sense of humor and ability to lift spirits during long voyages. He dreams of one day becoming a captain himself.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Can be overly laid-back, struggles with authority figures.
 
 ### Motivation
 
-Jâdhâros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in common seaman work keep him vigilant and adaptable.
+Jadharos is driven by the desire to master his craft and secure a stable future. The uncertainties of life in common seaman work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Skilled in navigation and sailing, good teamwork, strong physical endurance.
 
 ## Social
 
-Jâdhâros is affiliated with None; works as a hired hand.
+Jadharos is affiliated with None; works as a hired hand.
 
-As a Helionite common seaman, Jâdhâros occupies a recognized social niche within Heliónis society.
+As a Helionite common seaman, Jadharos occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Jâdhâros's primary patron is Ship captains and merchants requiring crew members. This relationship provides both opportunity and obligation.
+Jadharos's primary patron is Ship captains and merchants requiring crew members. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Few; generally respected among his peers.
 
 ## Plot Hooks
 
-1. **The Common Seaman's Dilemma**—Jâdhâros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Common Seaman's Dilemma**—Jadharos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—Few; generally respected among his peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Jâdhâros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Jadharos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Jâdhâros depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Jadharos depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Jâdhâros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Jadharos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

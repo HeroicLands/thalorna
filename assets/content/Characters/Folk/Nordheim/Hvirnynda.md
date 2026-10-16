@@ -1,6 +1,6 @@
 ---
 shortcode: hvirnynda
-name: {full: Hvirnynda, aliases: [Master Hvirnynda]}
+name: {full: Hvirninda, aliases: [Master Hvirninda]}
 type: being
 subType: npc
 description: A wealthy scholar who commissions Hvarnthann Stormrót to sail to the Shattered Archipelago in search of ancient ruins of the Old Kingdom.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hvirnynda is a 48-year-old woman who stands 5'7" tall with a medium build. She has tanned skin, weathered complexion, dark blonde hair, and blue eyes.
+Hvirninda is a 48-year-old woman who stands 5'7" tall with a medium build. She has tanned skin, weathered complexion, dark blonde hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Hvirnynda is a wealthy scholar who commissions [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] to sail to the Shattered Archipelago in search of ancient ruins of the Old Kingdom. She is willing to pay extraordinary sums for the voyage.
+Hvirninda is a wealthy scholar who commissions [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] to sail to the Shattered Archipelago in search of ancient ruins of the Old Kingdom. She is willing to pay extraordinary sums for the voyage.

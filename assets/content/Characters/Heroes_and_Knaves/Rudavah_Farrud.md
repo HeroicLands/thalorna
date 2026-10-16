@@ -1,6 +1,6 @@
 ---
 shortcode: rudavahfrd
-name: {full: Rudâvah Farrud, given: Rudâvah, clan: Farrud, aliases: []}
+name: {full: Rudavah Farrud, given: Rudavah, clan: Farrud, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]
@@ -421,29 +421,29 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rudavahfrd|Rudâvah Farrud]]{float=top-left}
+![[rudavahfrd|Rudavah Farrud]]{float=top-left}
 
-Rudâvah stands 5'9" tall with a medium build. She has olive-tanned skin, jet black hair, and dark amber eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, heavy brows, and high cheeks. She has a burn mark on her left hand.
+Rudavah stands 5'9" tall with a medium build. She has olive-tanned skin, jet black hair, and dark amber eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, heavy brows, and high cheeks. She has a burn mark on her left hand.
 
 # Dossier {#dossier}
 
-**Childhood Trauma:** Rudâvah was born in a farming village outside [[place-amradadrgn|Amradad]] to a merchant family of modest means. At age eight, a stable fire trapped her protecting a panicked mare. The resulting burns scarred her left hand and wrist permanently but, more importantly, taught her that her instincts about animals were extraordinary—she had known the mare would not abandon the stable, and she had been right. While other children might have developed a fear of animals or fire, Rudâvah developed an obsessive interest in understanding animal behavior and reducing the conditions that caused panic.
+**Childhood Trauma:** Rudavah was born in a farming village outside [[place-amradadrgn|Amradad]] to a merchant family of modest means. At age eight, a stable fire trapped her protecting a panicked mare. The resulting burns scarred her left hand and wrist permanently but, more importantly, taught her that her instincts about animals were extraordinary—she had known the mare would not abandon the stable, and she had been right. While other children might have developed a fear of animals or fire, Rudavah developed an obsessive interest in understanding animal behavior and reducing the conditions that caused panic.
 
-**Apprenticeship and Mastery:** She served informally under **Master Ostler Velkâsh of Amradad**, the city's most respected animal handler, for fifteen years. Velkâsh recognized in her a rare gift—beyond competence with horses, an almost intuitive understanding of a horse's mind, health, and care. Under his mentorship, she learned to diagnose illnesses by subtle changes in behavior, to calm frightened, ill-used animals through particular sounds and handling, and to understand the deep connection between a horse's emotional state and physical well-being.
+**Apprenticeship and Mastery:** She served informally under **Master Ostler Velkash of Amradad**, the city's most respected animal handler, for fifteen years. Velkash recognized in her a rare gift—beyond competence with horses, an almost intuitive understanding of a horse's mind, health, and care. Under his mentorship, she learned to diagnose illnesses by subtle changes in behavior, to calm frightened, ill-used animals through particular sounds and handling, and to understand the deep connection between a horse's emotional state and physical well-being.
 
-**Current Practice:** Now at thirty, Rudâvah has established herself as the preeminent ostler in the Kingdom, running a small but highly respected stable facility outside the capital. Her reputation extends throughout the region—travelers and nobles alike seek her services, paying dearly for horse care. She has trained a few apprentices, though she is exacting and demands excellence. She is known for turning down commissions from those she believes would mistreat animals, despite financial pressure to accept all work. The burn mark on her left hand occasionally causes her pain, a lasting reminder of the event that set her life's course.
+**Current Practice:** Now at thirty, Rudavah has established herself as the preeminent ostler in the Kingdom, running a small but highly respected stable facility outside the capital. Her reputation extends throughout the region—travelers and nobles alike seek her services, paying dearly for horse care. She has trained a few apprentices, though she is exacting and demands excellence. She is known for turning down commissions from those she believes would mistreat animals, despite financial pressure to accept all work. The burn mark on her left hand occasionally causes her pain, a lasting reminder of the event that set her life's course.
 
 ## Psyche
 
 ### Personality
 
-Rudâvah is direct to the point of bluntness, speaking plainly about what she observes and what she recommends, without softening her words for social niceties. With animals, she is patient, almost tender, spending hours with injured or frightened creatures and seeming to take personal offense at their suffering. With humans, she reserves judgment until they have proven themselves worthy of her respect through actions, not words. She is not unfriendly, but she is not particularly warm either—dealings with her are pleasant and brisk rather than warm.
+Rudavah is direct to the point of bluntness, speaking plainly about what she observes and what she recommends, without softening her words for social niceties. With animals, she is patient, almost tender, spending hours with injured or frightened creatures and seeming to take personal offense at their suffering. With humans, she reserves judgment until they have proven themselves worthy of her respect through actions, not words. She is not unfriendly, but she is not particularly warm either—dealings with her are pleasant and brisk rather than warm.
 
 Her stubbornness is well known; once she has decided on a course of action or an ethical position, she will not compromise. This makes her an unreliable employee for authority figures (she has quit or been fired from multiple positions for refusing to follow instructions she considered harmful to animals) but a reliable friend for those who value integrity over convenience. She maintains a dry sense of humor about misfortune and a ready laugh for jokes about animals or the absurdities of human behavior.
 
 ### Motivation
 
-Rudâvah is driven by a singular, almost obsessive goal: to reduce the suffering of animals in her domain. Every decision she makes is filtered through this lens—she chooses her clients carefully, designs her stable facilities to minimize stress, and constantly seeks new techniques for treating injuries and illnesses. Beyond this primary motivation, she harbors a secondary goal: to train her replacement, to pass her knowledge to someone who will maintain her standards after she can no longer work. Finally, she is motivated by a desire to prove that animals deserve better treatment than they traditionally receive—that they are feeling beings worthy of respect and care rather than mere property or tools.
+Rudavah is driven by a singular, almost obsessive goal: to reduce the suffering of animals in her domain. Every decision she makes is filtered through this lens—she chooses her clients carefully, designs her stable facilities to minimize stress, and constantly seeks new techniques for treating injuries and illnesses. Beyond this primary motivation, she harbors a secondary goal: to train her replacement, to pass her knowledge to someone who will maintain her standards after she can no longer work. Finally, she is motivated by a desire to prove that animals deserve better treatment than they traditionally receive—that they are feeling beings worthy of respect and care rather than mere property or tools.
 
 ### Strengths
 
@@ -467,19 +467,19 @@ Rudâvah is driven by a singular, almost obsessive goal: to reduce the suffering
 
 ### Patrons
 
-Master Velkâsh of Amradad
-: Her former mentor, now retired, who still provides guidance on difficult cases and advocates for her reputation. He is one of the few people with whom Rudâvah maintains something approaching warm relationship.
+Master Velkash of Amradad
+: Her former mentor, now retired, who still provides guidance on difficult cases and advocates for her reputation. He is one of the few people with whom Rudavah maintains something approaching warm relationship.
 
-Captain Deyênâ Shâmâyân, Royal Cavalry
-: The commander of the Kingdom's cavalry forces, who contracts with Rudâvah for the care and training of elite cavalry mounts. Their relationship is complicated—Deyênâ demands results, but respects Rudâvah's insistence on treating animals well.
+Captain Deyena Shamayan, Royal Cavalry
+: The commander of the Kingdom's cavalry forces, who contracts with Rudavah for the care and training of elite cavalry mounts. Their relationship is complicated—Deyena demands results, but respects Rudavah's insistence on treating animals well.
 
-Lady Zaranâh Sârânî, Merchant Princess
-: A wealthy merchant and equestrian enthusiast who has contracted for Rudâvah's services for two decades and provides her with political protection when her stubbornness creates problems with authorities.
+Lady Zaranah Sarani, Merchant Princess
+: A wealthy merchant and equestrian enthusiast who has contracted for Rudavah's services for two decades and provides her with political protection when her stubbornness creates problems with authorities.
 
 ### Enemies
 
-Merchant Rûvesh Nârshad
-: A wealthy trader who once contracted Rudâvah for care of his caravan horses. When she discovered he was pushing animals beyond safe limits and refused to continue serving him, he spread rumors that her care was inadequate. The economic damage was substantial, and Rudâvah has never forgiven him.
+Merchant Ruvesh Narshad
+: A wealthy trader who once contracted Rudavah for care of his caravan horses. When she discovered he was pushing animals beyond safe limits and refused to continue serving him, he spread rumors that her care was inadequate. The economic damage was substantial, and Rudavah has never forgiven him.
 
 The Abusive Stablehands
 : Several individuals employed by other facilities have felt her judgment and intervention when she discovers them mistreating animals, and they harbor resentment for her interference and moral lectures.
@@ -490,16 +490,16 @@ Her own pain, an inner enemy
 ### Affiliations
 
 None formal
-: Rudâvah maintains independence from official organizations, though she works closely with the Kingdom's cavalry forces and maintains good relations with most of the region's stables and traders.
+: Rudavah maintains independence from official organizations, though she works closely with the Kingdom's cavalry forces and maintains good relations with most of the region's stables and traders.
 
 ## Plot Hooks
 
-1. **The Cursed Stallion:** A beautiful but clearly suffering horse is brought to Rudâvah's stable—no other ostler in the region will work with it, claiming it is cursed or demon-touched. Rudâvah's senses tell her the horse is not cursed but rather magically sick, its distress caused by some magical condition beyond her experience. She must recruit adventurers to investigate the horse's origin, discover what magical condition afflicts it, and potentially journey to dangerous locations to find components or knowledge that will cure it. As she works to save the horse, she becomes convinced that its previous owner deliberately cursed it, and her moral crusade becomes increasingly personal.
+1. **The Cursed Stallion:** A beautiful but clearly suffering horse is brought to Rudavah's stable—no other ostler in the region will work with it, claiming it is cursed or demon-touched. Rudavah's senses tell her the horse is not cursed but rather magically sick, its distress caused by some magical condition beyond her experience. She must recruit adventurers to investigate the horse's origin, discover what magical condition afflicts it, and potentially journey to dangerous locations to find components or knowledge that will cure it. As she works to save the horse, she becomes convinced that its previous owner deliberately cursed it, and her moral crusade becomes increasingly personal.
 
-2. **The Animal Sanctuary Under Threat:** Local authorities plan to confiscate a sanctuary for rescued animals that Rudâvah has been secretly supporting, claiming the facility violates new regulations. The sanctuary houses dozens of animals that would certainly be euthanized if discovered by authorities. Rudâvah recruits adventurers to help her either hide the sanctuary, relocate the animals, or work through the officials and politics to change the rules. This forces her to learn the persuasion she has long avoided, or else to commit crimes in defense of her principles.
+2. **The Animal Sanctuary Under Threat:** Local authorities plan to confiscate a sanctuary for rescued animals that Rudavah has been secretly supporting, claiming the facility violates new regulations. The sanctuary houses dozens of animals that would certainly be euthanized if discovered by authorities. Rudavah recruits adventurers to help her either hide the sanctuary, relocate the animals, or work through the officials and politics to change the rules. This forces her to learn the persuasion she has long avoided, or else to commit crimes in defense of her principles.
 
-3. **The Plague in the Herds:** A mysterious disease begins spreading through the Kingdom's herds, afflicting horses with fever and causing deaths. Rudâvah observes symptoms that suggest the plague has been deliberately introduced and turned against the cavalry as a weapon. She must work with adventurers to investigate the origin of the plague, identify the responsible parties (whether rival political factions, enemy nation, or something darker), and find a cure before the cavalry's effectiveness is destroyed. This plot touches on larger political conspiracies and forces Rudâvah into a position of unexpected importance.
+3. **The Plague in the Herds:** A mysterious disease begins spreading through the Kingdom's herds, afflicting horses with fever and causing deaths. Rudavah observes symptoms that suggest the plague has been deliberately introduced and turned against the cavalry as a weapon. She must work with adventurers to investigate the origin of the plague, identify the responsible parties (whether rival political factions, enemy nation, or something darker), and find a cure before the cavalry's effectiveness is destroyed. This plot touches on larger political conspiracies and forces Rudavah into a position of unexpected importance.
 
-4. **The Wild Mustang Herd:** Rudâvah learns of a herd of wild horses living in a remote mountain valley, managed by a reclusive herder who has refused all contact with civilization. Intrigued by rumors of unique bloodlines and animals of rare quality, she recruits adventurers to help her journey to meet this herder and potentially integrate his bloodlines into her breeding program. The journey is treacherous, the herder is protective and suspicious, and the horses themselves possess unusual characteristics suggesting long isolation and potential magical influence.
+4. **The Wild Mustang Herd:** Rudavah learns of a herd of wild horses living in a remote mountain valley, managed by a reclusive herder who has refused all contact with civilization. Intrigued by rumors of unique bloodlines and animals of rare quality, she recruits adventurers to help her journey to meet this herder and potentially integrate his bloodlines into her breeding program. The journey is treacherous, the herder is protective and suspicious, and the horses themselves possess unusual characteristics suggesting long isolation and potential magical influence.
 
-5. **The Burned Hand's Secret:** The chronic pain in Rudâvah's burned hand intensifies, and she begins experiencing strange visions of the stable fire that scarred her. Memories surface suggesting the fire was not accidental but deliberately set—and that her survival and rescue were perhaps not accidental either. She recruits adventurers to investigate the fire's true cause, potentially uncovering that someone powerful has been watching her since childhood, possibly grooming her for a specific purpose related to her unique gift with animals.
+5. **The Burned Hand's Secret:** The chronic pain in Rudavah's burned hand intensifies, and she begins experiencing strange visions of the stable fire that scarred her. Memories surface suggesting the fire was not accidental but deliberately set—and that her survival and rescue were perhaps not accidental either. She recruits adventurers to investigate the fire's true cause, potentially uncovering that someone powerful has been watching her since childhood, possibly grooming her for a specific purpose related to her unique gift with animals.

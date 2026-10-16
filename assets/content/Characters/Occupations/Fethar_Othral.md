@@ -1,6 +1,6 @@
 ---
 shortcode: fetharthrl
-name: {full: Héthar Óthral, aliases: []}
+name: {full: Hethar Othral, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Héthar Óthral is a 36-year-old man who stands 6'1" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a rounded jaw that leads to a firm chin. His round green eyes sit beneath arched brows, lending him a candid gaze. A narrow nose and full lips complete his features. He has medium-toned skin with a fair complexion. His chestnut hair is tied in a low tail.
+Hethar Othral is a 36-year-old man who stands 6'1" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a rounded jaw that leads to a firm chin. His round green eyes sit beneath arched brows, lending him a candid gaze. A narrow nose and full lips complete his features. He has medium-toned skin with a fair complexion. His chestnut hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Héthar Óthral came into the world of the potter through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Hethar Othral came into the world of the potter through a combination of circumstance and aptitude.
 
-Héthar is a seasoned potter known for his expertise in creating sturdy stoneware. He has spent years perfecting his techniques and often teaches apprentices in his workshop. Héthar values the practical aspects of pottery and believes in producing items that can withstand daily use. His reputation for quality has earned him a loyal customer base, and he often collaborates with local artisans to create unique pieces.
+Hethar is a seasoned potter known for his expertise in creating sturdy stoneware. He has spent years perfecting his techniques and often teaches apprentices in his workshop. Hethar values the practical aspects of pottery and believes in producing items that can withstand daily use. His reputation for quality has earned him a loyal customer base, and he often collaborates with local artisans to create unique pieces.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Can be resistant to new techniques, struggles with modern design trends.
 
 ### Motivation
 
-Héthar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in potter work keep him vigilant and adaptable.
+Hethar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in potter work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Experienced, skilled in crafting durable pottery, good mentor.
 
 ## Social
 
-Héthar is affiliated with Local Potters' Guild.
+Hethar is affiliated with Local Potters' Guild.
 
-As a Élavendri potter, Héthar occupies a recognized social niche within Élavendre society.
+As a Élavendri potter, Hethar occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Héthar's primary patron is Local families and restaurants seeking durable pottery. This relationship provides both opportunity and obligation.
+Hethar's primary patron is Local families and restaurants seeking durable pottery. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Few; generally respected but sometimes seen as traditionalist.
 
 ## Plot Hooks
 
-1. **The Potter's Dilemma**—Héthar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Potter's Dilemma**—Hethar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 
 2. **Old Grudges**—Few; generally respected but sometimes seen as traditionalist. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Héthar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Hethar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Héthar depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Hethar depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Héthar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Hethar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -3,7 +3,7 @@ shortcode: yesomaclt
 name: {full: Yesoma, aliases: [Canopy Foragers]}
 type: lore
 subType: culture
-description: "The canopy foragers of the central Xerathian forest: mobile bands of the deep interior who share everything and call the forest their parent."
+description: "The canopy foragers of the central Zerathian forest: mobile bands of the deep interior who share everything and call the forest their parent."
 tags: [draft]
 data:
   language: skill-ekpelulng
@@ -82,4 +82,4 @@ Almost nothing. An outsider seldom meets a Yesoma band, and the ones who do meet
 - [[lore-bikoclt|Biko]]—the forest peoples
 - [[place-cntrlrnfrsts|Central Rainforests]]—the forest
 - [[skill-ekpelulng|Ekpelu]]—the tongue
-- [[being-xrthnfrs|Xerathian Forest Elephant]]—whose trails are the roads
+- [[being-xrthnfrs|Zerathian Forest Elephant]]—whose trails are the roads

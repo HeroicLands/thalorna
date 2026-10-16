@@ -1,6 +1,6 @@
 ---
 shortcode: gorzndsbrs
-name: {full: Gorâzendîs Bârês, aliases: []}
+name: {full: Gorazendis Bares, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Gorâzendîs Bârês is a 23-year-old woman who stands 5'10" tall and is slender. She has a diamond face with sharp cheekbones, a prominent forehead, and a square jaw that leads to a prominent chin. Her piercing hazel eyes sit beneath straight brows and give her a penetrating gaze. She has a strong nose and wide lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
+Gorazendis Bares is a 23-year-old woman who stands 5'10" tall and is slender. She has a diamond face with sharp cheekbones, a prominent forehead, and a square jaw that leads to a prominent chin. Her piercing hazel eyes sit beneath straight brows and give her a penetrating gaze. She has a strong nose and wide lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Gorâzendîs Bârês is a locksmith.
+Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Gorazendis Bares is a locksmith.
 
-Gorâzendîs is a talented locksmith with secret ties to the Velvet Hand. She uses her skills to make locks that are both beautiful and functional, often with hidden mechanisms that only a few know about. While she runs a legitimate locksmith's shop, her connections to the Velvet Hand let her provide unusual services to those in the underworld. She walks the line between legality and crime, using her talents to get by.
+Gorazendis is a talented locksmith with secret ties to the Velvet Hand. She uses her skills to make locks that are both beautiful and functional, often with hidden mechanisms that only a few know about. While she runs a legitimate locksmith's shop, her connections to the Velvet Hand let her provide unusual services to those in the underworld. She walks the line between legality and crime, using her talents to get by.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ She can be reckless, and struggles with the right and wrong of her work.
 
 ### Motivation
 
-Gorâzendîs wants her shop to stand on its own, and her work for the Velvet Hand to stay the secret it is.
+Gorazendis wants her shop to stand on its own, and her work for the Velvet Hand to stay the secret it is.
 
 ### Strengths
 
@@ -416,13 +416,13 @@ She is skilled in lockpicking and in fine, detailed lockwork, resourceful, and s
 
 ## Social
 
-Gorâzendîs belongs to the Velvet Hand, a network of skilled operatives in Vylaria.
+Gorazendis belongs to the Velvet Hand, a network of skilled operatives in Vylaria.
 
 ## Companions
 
 ### Patrons
 
-Gorâzendîs's patrons are members of the Velvet Hand and the local nobles who appreciate her craft.
+Gorazendis's patrons are members of the Velvet Hand and the local nobles who appreciate her craft.
 
 ### Enemies
 
@@ -430,12 +430,12 @@ Some city guards suspect her affiliations.
 
 ## Plot Hooks
 
-1. **The Locksmith's Dilemma**—A noble commissions a lock from Gorâzendîs and the Velvet Hand asks for its hidden mechanism, and she cannot keep faith with both.
+1. **The Locksmith's Dilemma**—A noble commissions a lock from Gorazendis and the Velvet Hand asks for its hidden mechanism, and she cannot keep faith with both.
 
-2. **Old Grudges**—A city guard who suspects Gorâzendîs's affiliations has begun watching her shop.
+2. **Old Grudges**—A city guard who suspects Gorazendis's affiliations has begun watching her shop.
 
-3. **Echoes of the Past**—A lock Gorâzendîs made with a hidden mechanism in her first years turns up on a door the Velvet Hand has been paid to open.
+3. **Echoes of the Past**—A lock Gorazendis made with a hidden mechanism in her first years turns up on a door the Velvet Hand has been paid to open.
 
-4. **Shifting Winds**—Political change in Vylaria threatens the Velvet Hand and the nobles who buy Gorâzendîs's locks alike, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vylaria threatens the Velvet Hand and the nobles who buy Gorazendis's locks alike, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A noble house offers Gorâzendîs its whole custom in locks, and the Velvet Hand's interest in that house is the part no one mentions.
+5. **The Opportunity**—A noble house offers Gorazendis its whole custom in locks, and the Velvet Hand's interest in that house is the part no one mentions.

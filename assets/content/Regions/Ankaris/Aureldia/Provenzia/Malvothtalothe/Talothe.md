@@ -1,6 +1,6 @@
 ---
 shortcode: talothe
-name: {full: Talòthe, aliases: []}
+name: {full: Talote, aliases: []}
 type: place
 subType: region
 description: "The Tarvénian frontier—cold mountains that close all winter, a raiding season that governs every calendar, and a million people who have made a way of life out of a war nobody declares."
@@ -14,9 +14,9 @@ data:
   packFolder: provenzia
 ---
 
-**Talòthe**—_the mountain march_.
+**Talote**—_the mountain march_.
 
-The **Talòthe** is Provènzia's frontier with [[place-tarvenirgn|Tarvénia Region]]: about a
+The **Talote** is Provenzia's frontier with [[place-tarvenirgn|Tarvénia Region]]: about a
 million people in the eastern uplands and the basins below them, under mountains that are genuinely
 cold and very nearly impassable from the first snow to the thaw.
 
@@ -32,21 +32,21 @@ a disaster or a deliberate outrage.
 
 The border families on both sides have been fighting the same quarrel for so long that it functions
 less as a conflict than as a way of life—and a good deal of the march's prosperity depends on it
-continuing. Nobody in [[place-pirnebris|Pirnebrìs]], which sells the frontier its boots and carts,
+continuing. Nobody in [[place-pirnebris|Pirnebris]], which sells the frontier its boots and carts,
 imagines a lasting peace would be good news.
 
 ## Its Places
 
-- [[place-durvalis|Durvalìs]]—the fortress town below the passes, where the march musters
+- [[place-durvalis|Durvalis]]—the fortress town below the passes, where the march musters
   and where the Winter Assize sits.
-- [[place-pirnebris|Pirnebrìs]]—the cherry town built so that it can be shut.
+- [[place-pirnebris|Pirnebris]]—the cherry town built so that it can be shut.
 - [[place-tiravellake|Lake Tiravel]]—the great upland lake, far enough behind the passes to be
   settled and prosperous, which provisions the garrisons.
-- [[place-bldfldmalnebris|Blood-field of Malnebrìs]]—the recurrence in the pass, the only
-  blood-field in Provènzia still being added to.
+- [[place-bldfldmalnebris|Blood-field of Malnebris]]—the recurrence in the pass, the only
+  blood-field in Provenzia still being added to.
 - [[place-bldfldtiravlen|Blood-field of Tiravlen]]—on the lake shore, which replays out over the
   water.
 
 ## See Also
 
-- [[place-provenzrgn|Provènzia Region]] · [[place-tarvenirgn|Tarvénia Region]]
+- [[place-provenzrgn|Provenzia Region]] · [[place-tarvenirgn|Tarvénia Region]]

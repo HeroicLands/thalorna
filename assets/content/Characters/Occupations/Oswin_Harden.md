@@ -1,6 +1,6 @@
 ---
 shortcode: oswinhardn
-name: {full: Oswin Harden, aliases: []}
+name: {full: Kuthstan Harden, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Oswin Harden is a 46-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with defined cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. His wide-set blue eyes sit beneath arched brows, lending him an open gaze. A slightly upturned nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His gray hair is kept practical and short.
+Kuthstan Harden is a 46-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with defined cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. His wide-set blue eyes sit beneath arched brows, lending him an open gaze. A slightly upturned nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His gray hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Oswin Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage.
+Kuthstan Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage.
 
-Oswin left blacksmithing to run the Forge & Flame Inn. He serves hearty meals and strong drinks to passing adventurers and merchants. His humor helps make the inn lively.
+Kuthstan left blacksmithing to run the Forge & Flame Inn. He serves hearty meals and strong drinks to passing adventurers and merchants. His humor helps make the inn lively.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Can be too boisterous, struggles with the finer details of innkeeping.
 
 ### Motivation
 
-Oswin enjoys hearing travelers' tales and joining the storytelling at the Forge & Flame.
+Kuthstan enjoys hearing travelers' tales and joining the storytelling at the Forge & Flame.
 
 ### Strengths
 
@@ -419,13 +419,13 @@ Great cook, skilled at managing the inn, excellent storyteller.
 
 ## Social
 
-Oswin is affiliated with Local Innkeepers' Association.
+Kuthstan is affiliated with Local Innkeepers' Association.
 
 ## Companions
 
 ### Patrons
 
-Adventurers and traveling merchants are Oswin's patrons.
+Adventurers and traveling merchants are Kuthstan's patrons.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Few; generally well-liked.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma**—Oswin faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Innkeeper's Dilemma**—Kuthstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Few; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Oswin's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Kuthstan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Oswin depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Kuthstan depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Oswin the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kuthstan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

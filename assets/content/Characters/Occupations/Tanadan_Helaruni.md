@@ -1,6 +1,6 @@
 ---
 shortcode: tndnhlrn
-name: {full: Tanâdan Helârûnî, aliases: []}
+name: {full: Tanadan Helaruni, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Tanâdan Helârûnî is a 36-year-old man who stands 5'8" tall and is of moderate build. He has a long face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a pointed chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A prominent nose and curved lips complete his features. He has warm-toned skin with a sun-tanned complexion. His gray hair is kept practical and short.
+Tanadan Helaruni is a 36-year-old man who stands 5'8" tall and is of moderate build. He has a long face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a pointed chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A prominent nose and curved lips complete his features. He has warm-toned skin with a sun-tanned complexion. His gray hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a guilded family of Tarûzelian heritage, Tanâdan Helârûnî came into the world of the locksmith through a combination of circumstance and aptitude.
+Born in the Taruzel region to a guilded family of Taruzelian heritage, Tanadan Helaruni came into the world of the locksmith through a combination of circumstance and aptitude.
 
-Tanâdan is a skilled locksmith known for his craftsmanship and attention to detail. He has been in the business for over twenty years, specializing in creating high-security locks for nobles and wealthy merchants. Tanâdan takes pride in his work and is known for his integrity, often refusing to create locks that can be easily picked.
+Tanadan is a skilled locksmith known for his craftsmanship and attention to detail. He has been in the business for over twenty years, specializing in creating high-security locks for nobles and wealthy merchants. Tanadan takes pride in his work and is known for his integrity, often refusing to create locks that can be easily picked.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Can be overly serious, struggles with marketing his services.
 
 ### Motivation
 
-Tanâdan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in locksmith work keep him vigilant and adaptable.
+Tanadan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in locksmith work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Highly skilled craftsman, knowledgeable about security systems, trustworthy.
 
 ## Social
 
-Tanâdan is affiliated with Local Locksmiths' Guild.
+Tanadan is affiliated with Local Locksmiths' Guild.
 
-As a Tarûzelian locksmith, Tanâdan occupies a recognized social niche within Tarûzel society.
+As a Taruzelian locksmith, Tanadan occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Tanâdan's primary patron is Nobles and local businesses seeking secure locking mechanisms. This relationship provides both opportunity and obligation.
+Tanadan's primary patron is Nobles and local businesses seeking secure locking mechanisms. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Few; well-respected in the community.
 
 ## Plot Hooks
 
-1. **The Locksmith's Dilemma**—Tanâdan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Locksmith's Dilemma**—Tanadan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—Few; well-respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Tanâdan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Tanadan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Tanâdan depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Tanadan depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Tanâdan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Tanadan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

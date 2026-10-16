@@ -99,4 +99,4 @@ is why so small a tribe is heard at the Great Lubemo at all.
 - [[affiliation-nyalbleop|Leopard Totem]]—the guide the Fénjara keep
 - [[place-fenjaravlg|Fénjara Village]]—the tribe's seat
 - [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition, and the offices the Fénjara do not hold
-- [[being-tabesnfnjr|Tabéso nu Fénjara]]—the tribe's best-known tracker
+- [[being-tabesnfnjr|Tabeso nu Fénjara]]—the tribe's best-known tracker

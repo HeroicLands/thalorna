@@ -1,11 +1,11 @@
 ---
 shortcode: pikultzumaq
 name:
-  full: "Pik'ul Tz'umaq"
+  full: "Pik'ul Ts'umaq"
   aliases: [The Owl of the Serpent, The Fallen Pik'ik, The Owl at the Threshold]
 type: affiliation
 subType: spirittradition
-description: "The fallen celestial owl that once guarded Ch'al Tz'umaq's threshold, concluded the underworld was a trap rather than a passage, and now opens the boundary it was set to keep shut."
+description: "The fallen celestial owl that once guarded Ch'al Ts'umaq's threshold, concluded the underworld was a trap rather than a passage, and now opens the boundary it was set to keep shut."
 tags: [itzani, religion]
 data:
   icon: null
@@ -56,13 +56,13 @@ data:
       Speaker for the Owl: >-
         Carries what the owl has said, which is rarely much and never written down.
       Reclaimer: >-
-        Performs the reversal that draws a soul back out of Ch'al Tz'umaq before its trials are done.
+        Performs the reversal that draws a soul back out of Ch'al Ts'umaq before its trials are done.
       Warder of the Returned: >-
         Attends the reclaimed through their degradation and decides when they can no longer be shown to the family.
       Namer of the Lost: >-
-        Keeps the roll of the tz'uqilob—souls the owl holds were failed by the orthodox rites—which is the veneration's central evidence and its chief recruiting document.
+        Keeps the roll of the ts'uqilob—souls the owl holds were failed by the orthodox rites—which is the veneration's central evidence and its chief recruiting document.
       Reckoner of Failed Passages: >-
-        Maintains the count of souls the owl claims Ch'al Tz'umaq consumed, against which the whole heretical argument is made.
+        Maintains the count of souls the owl claims Ch'al Ts'umaq consumed, against which the whole heretical argument is made.
       Guide of the Newly Dead: >-
         Meets a death at the moment of it, since interception is only possible before the soul enters the labyrinth.
       Shepherd of the Degrading: >-
@@ -77,25 +77,25 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The [[affiliation-tzumaqkalanil|Serpent Awakener]] movement draws its power from a being that the orthodox priesthood regards as the most dangerous heresy to emerge in living memory: **Pik'ul Tz'umaq**, a fallen celestial agent of [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]].
+The [[affiliation-tzumaqkalanil|Serpent Awakener]] movement draws its power from a being that the orthodox priesthood regards as the most dangerous heresy to emerge in living memory: **Pik'ul Ts'umaq**, a fallen celestial agent of [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]].
 
 ## The Fall
 
-Pik'ul Tz'umaq was once the greatest of the **Pik'ik spirits**—the celestial owls that serve the death god's contemplative aspect. Not a god, but something close to one: a being of divine power who held a specific role within the death god's domain as the guardian of the boundary between the living world and [[place-chaltzumaq|Ch'al Tz'umaq]]. Where Tz'uqil Ix'bal is the jaguar who kills, and the lesser Pik'ik are the owls who watch the slow dissolution that follows, Pik'ul Tz'umaq was the owl who sat at the threshold itself—the one who watched every soul enter the underworld and ensured none came back out.
+Pik'ul Ts'umaq was once the greatest of the **Pik'ik spirits**—the celestial owls that serve the death god's contemplative aspect. Not a god, but something close to one: a being of divine power who held a specific role within the death god's domain as the guardian of the boundary between the living world and [[place-chaltzumaq|Ch'al Ts'umaq]]. Where Ts'uqil Ish'bal is the jaguar who kills, and the lesser Pik'ik are the owls who watch the slow dissolution that follows, Pik'ul Ts'umaq was the owl who sat at the threshold itself—the one who watched every soul enter the underworld and ensured none came back out.
 
-Over the vast span of the cosmic ages, Pik'ul Tz'umaq came to a heretical conclusion: that Ch'al Tz'umaq was not a passage but a trap. Not every soul that entered successfully navigated the trials. Some became tz'uqilob—lost, trapped, degrading into spiritual wreckage. With each failed passage, the underworld accumulated more corrupted spiritual matter, more broken souls, more entropy. Pik'ul Tz'umaq concluded that the entire theological framework of death-as-transition was a lie the gods told themselves to justify a system that was slowly consuming the world from below. Its solution was to reverse the flow—to pull souls back out of Ch'al Tz'umaq rather than letting them rot there. It began opening the boundary it was supposed to guard.
+Over the vast span of the cosmic ages, Pik'ul Ts'umaq came to a heretical conclusion: that Ch'al Ts'umaq was not a passage but a trap. Not every soul that entered successfully navigated the trials. Some became ts'uqilob—lost, trapped, degrading into spiritual wreckage. With each failed passage, the underworld accumulated more corrupted spiritual matter, more broken souls, more entropy. Pik'ul Ts'umaq concluded that the entire theological framework of death-as-transition was a lie the gods told themselves to justify a system that was slowly consuming the world from below. Its solution was to reverse the flow—to pull souls back out of Ch'al Ts'umaq rather than letting them rot there. It began opening the boundary it was supposed to guard.
 
-Tz'uqil Ix'bal cast Pik'ul Tz'umaq out. The celestial owl was stripped of its station and driven from the underworld's threshold. But it was not destroyed—the other gods, particularly [[affiliation-tzenultqan|Tz'en'ul Tq'an]], saw no reason to spend cosmic resources destroying what they considered a minor functionary. This was a mistake. Pik'ul Tz'umaq did not lose its power; it lost its sanction. It still carries within it the authority of the underworld's threshold, still knows how to open the boundary between life and death, still understands the architecture of Ch'al Tz'umaq better than any mortal priest. What it lost was legitimacy and the restraining influence of serving within a divine hierarchy.
+Ts'uqil Ish'bal cast Pik'ul Ts'umaq out. The celestial owl was stripped of its station and driven from the underworld's threshold. But it was not destroyed—the other gods, particularly [[affiliation-tzenultqan|Ts'en'ul Tq'an]], saw no reason to spend cosmic resources destroying what they considered a minor functionary. This was a mistake. Pik'ul Ts'umaq did not lose its power; it lost its sanction. It still carries within it the authority of the underworld's threshold, still knows how to open the boundary between life and death, still understands the architecture of Ch'al Ts'umaq better than any mortal priest. What it lost was legitimacy and the restraining influence of serving within a divine hierarchy.
 
 It retreated into the deep jungle, and there, over generations, it found the Serpent Awakeners—or they found it.
 
 ## Veneration
 
-What has grown around the owl is not a faith in the Itzáni sense. There is no calendar, no temple, no blood-debt and no priesthood in the orthodox meaning of the word. What there is, is a transaction, offered one household at a time: the owl can take a soul back before Ch'al Tz'umaq closes on it, and it will, and the family will owe.
+What has grown around the owl is not a faith in the Itsani sense. There is no calendar, no temple, no blood-debt and no priesthood in the orthodox meaning of the word. What there is, is a transaction, offered one household at a time: the owl can take a soul back before Ch'al Ts'umaq closes on it, and it will, and the family will owe.
 
 Standing is conferred directly and without ceremony. A **Petitioner** who is answered does not learn that they have been accepted; they simply find their dead returned, and understand from that moment that they are **Debt-Bound**. Those who prove useful are taught to feel a passage beginning—the **Threshold-Watchers**—and a very few are taught to work the reversal themselves. Because the owl gives no sign that can be verified and keeps no roll, every rank above the second is a matter of what other adherents will concede, and disputes over standing are settled by whoever is more frightening.
 
-The one thing the veneration does keep in writing is the **roll of the lost**: the names of tz'uqilob the owl claims were failed by the orthodox funerary rites and left to degrade in the labyrinth. The **Namer of the Lost** maintains it, and it is read aloud to the grieving. It is the veneration's whole argument in a single document, and the orthodox priesthood has never produced a satisfactory answer to it—because the roll is not, so far as anyone has been able to demonstrate, false.
+The one thing the veneration does keep in writing is the **roll of the lost**: the names of ts'uqilob the owl claims were failed by the orthodox funerary rites and left to degrade in the labyrinth. The **Namer of the Lost** maintains it, and it is read aloud to the grieving. It is the veneration's whole argument in a single document, and the orthodox priesthood has never produced a satisfactory answer to it—because the roll is not, so far as anyone has been able to demonstrate, false.
 
 The owl asks no blood. This is remarked on constantly by those who join, and it is the point: a Ki'ichek who has spent a lifetime paying a debt that never closes is being offered a god who says the debt was fraudulent.
 
@@ -107,12 +107,12 @@ Nothing about the process is generous. The owl holds the soul; the soul does not
 
 ## Relations
 
-[[affiliation-tzuqilixbal|Tz'uqil Ix'bal]] cast it out and has never moved from that judgment; the death-walkers created the office of **Warden of the Threshold** specifically to watch for souls that have come back out, and it is the office they least like to discuss. The [[affiliation-itzanpnthn|orthodox priesthood]] as a whole treats the owl as the tradition's gravest heresy, and treats the fact that it emerged from within the tradition's own household as a matter better handled by suppression than by argument.
+[[affiliation-tzuqilixbal|Ts'uqil Ish'bal]] cast it out and has never moved from that judgment; the death-walkers created the office of **Warden of the Threshold** specifically to watch for souls that have come back out, and it is the office they least like to discuss. The [[affiliation-itzanpnthn|orthodox priesthood]] as a whole treats the owl as the tradition's gravest heresy, and treats the fact that it emerged from within the tradition's own household as a matter better handled by suppression than by argument.
 
-Its alliance with the [[affiliation-tzumaqkalanil|Tz'umaq K'alanil]] is real and mutually useful rather than affectionate. They supply it with reach, with grieving households, and with a doctrine that makes its work look like mercy; it supplies them with the one thing their apocalyptic theology had always lacked—an explanation of _why_ the cosmic cycle is failing, and a demonstration that can be performed in a village in a single night.
+Its alliance with the [[affiliation-tzumaqkalanil|Ts'umaq K'alanil]] is real and mutually useful rather than affectionate. They supply it with reach, with grieving households, and with a doctrine that makes its work look like mercy; it supplies them with the one thing their apocalyptic theology had always lacked—an explanation of _why_ the cosmic cycle is failing, and a demonstration that can be performed in a village in a single night.
 
 Toward the [[affiliation-pikob|Pik'ob]] it holds a claim that unsettles them badly, since it was once the greatest of their own celestial patrons and its argument begins where their contemplative theology begins. The owl keepers draw the line at accepting that all things end; the owl crossed it. Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, and the owl is understood to be waiting for them.
 
 ## Outside the Ladder
 
-A person turned away at the threshold is not intercepted by the owl. They go down into Ch'al Tz'umaq's trials like anyone else, without even the orthodox recitation to guide them.
+A person turned away at the threshold is not intercepted by the owl. They gho down into Ch'al Ts'umaq's trials like anyone else, without even the orthodox recitation to guide them.

@@ -1,6 +1,6 @@
 ---
 shortcode: elyseskyrn
-name: {full: Élithë Sárneth, given: Élithë, clan: Sárneth, aliases: []}
+name: {full: Élithe Sarneth, given: Élithe, clan: Sarneth, aliases: []}
 type: being
 subType: character
 tags: [hero, silent-talon, guilded, mages]
@@ -427,39 +427,39 @@ sohl:
 
 # Appearance {#appearance}
 
-![[elyseskyrn|Élithë Sárneth]]{float=top-left}
+![[elyseskyrn|Élithe Sarneth]]{float=top-left}
 
-Élithë is a slender young woman of twenty-seven with fair, lightly freckled skin, dark blonde hair that falls softly around her face, and striking green eyes. Her graceful demeanor and radiant charm add to her natural allure, making her both captivating and approachable. She carries herself with the quiet competence of someone who has seen the inside of too many wounds to be squeamish about anything.
+Élithe is a slender young woman of twenty-seven with fair, lightly freckled skin, dark blonde hair that falls softly around her face, and striking green eyes. Her graceful demeanor and radiant charm add to her natural allure, making her both captivating and approachable. She carries herself with the quiet competence of someone who has seen the inside of too many wounds to be squeamish about anything.
 
 # Dossier {#dossier}
 
-Élithë Sárneth grew up as the daughter of an apothecary in a small village, learning the healing arts from her father and grandmother before she could read. Her natural aptitude for medicine and alchemy—combined with a charm that put even the most fearful patients at ease—led to her being sent to study in [[place-beravel|Péravel]], [[place-elavendre|Élavendre]], where she received formal training in both conventional healing and alchemical science.
+Élithe Sarneth grew up as the daughter of an apothecary in a small village, learning the healing arts from her father and grandmother before she could read. Her natural aptitude for medicine and alchemy—combined with a charm that put even the most fearful patients at ease—led to her being sent to study in [[place-beravel|Péravel]], [[place-elavendre|Élavendre]], where she received formal training in both conventional healing and alchemical science.
 
-Despite her success in Péravel, Élithë grew restless. Academic study was too slow, too contained. She wanted to see rare herbs in the wild, test remedies under real conditions, and learn techniques that no chapterhouse could teach her. When the opportunity arose to join the [[affiliation-slntlncmpny|Silent Talon]] as their field medic, she took it without hesitation. War brings patients, and patients bring learning.
+Despite her success in Péravel, Élithe grew restless. Academic study was too slow, too contained. She wanted to see rare herbs in the wild, test remedies under real conditions, and learn techniques that no chapterhouse could teach her. When the opportunity arose to join the [[affiliation-slntlncmpny|Silent Talon]] as their field medic, she took it without hesitation. War brings patients, and patients bring learning.
 
-What Élithë does not advertise is that her skills extend beyond conventional healing. She possesses arcane talent—but a bad experience in her past has made her deeply cautious about revealing it. To most people, she is simply a very good healer. She intends to keep it that way.
+What Élithe does not advertise is that her skills extend beyond conventional healing. She possesses arcane talent—but a bad experience in her past has made her deeply cautious about revealing it. To most people, she is simply a very good healer. She intends to keep it that way.
 
-Her relationship with Tórnis has recently added an unexpected complication to her carefully ordered life.
+Her relationship with Tornis has recently added an unexpected complication to her carefully ordered life.
 
 ## Background
 
 ### Skills and Abilities
 
-- **Healing**: Élithë's core expertise. She is skilled in wound treatment, herbal remedies, poultices, surgical stitching, and the management of battlefield injuries. She is the reason the Silent Talon's casualty rate is low.
+- **Healing**: Élithe's core expertise. She is skilled in wound treatment, herbal remedies, poultices, surgical stitching, and the management of battlefield injuries. She is the reason the Silent Talon's casualty rate is low.
 - **Alchemy**: Formally trained in the preparation of potions, tonics, and elixirs. She can identify and process rare herbs and compounds, and is always experimenting with new formulations.
 - **Herbalism**: An expert botanist with an encyclopedic knowledge of medicinal plants. She gathers specimens wherever the band travels, building a growing collection of rare ingredients.
-- **Hidden Arcane Talent**: Élithë possesses magical ability that she keeps carefully concealed. The nature and extent of this talent is known only to herself.
-- **Charm**: Élithë has a bubbly, disarming manner that makes people trust her instinctively. This is not an act—she is warm—but it also is effective camouflage for the things she chooses not to reveal.
+- **Hidden Arcane Talent**: Élithe possesses magical ability that she keeps carefully concealed. The nature and extent of this talent is known only to herself.
+- **Charm**: Élithe has a bubbly, disarming manner that makes people trust her instinctively. This is not an act—she is warm—but it also is effective camouflage for the things she chooses not to reveal.
 
 ## Psyche
 
 ### Personality
 
-Élithë is calm, resourceful, and empathetic, with an optimism that lifts the spirits of those around her. She is focused on her work, valuing knowledge and skill above all else. Beneath the warmth, however, she is quietly guarded—she prefers to keep personal matters to herself and is cautious about letting others too close to the parts of her life she has chosen to hide.
+Élithe is calm, resourceful, and empathetic, with an optimism that lifts the spirits of those around her. She is focused on her work, valuing knowledge and skill above all else. Beneath the warmth, however, she is quietly guarded—she prefers to keep personal matters to herself and is cautious about letting others too close to the parts of her life she has chosen to hide.
 
 ### Motivation
 
-Élithë's primary goal is the discovery of new alchemical recipes, medical remedies, and techniques. She dreams of one day opening her own healing house, and everything she does with the Silent Talon is in service of that ambition. The band gives her access to rare herbs, unusual injuries, and the kind of field experience no academy could provide.
+Élithe's primary goal is the discovery of new alchemical recipes, medical remedies, and techniques. She dreams of one day opening her own healing house, and everything she does with the Silent Talon is in service of that ambition. The band gives her access to rare herbs, unusual injuries, and the kind of field experience no academy could provide.
 
 ### Strengths
 
@@ -471,10 +471,10 @@ Her relationship with Tórnis has recently added an unexpected complication to h
 
 ## Companions
 
-- [[being-branwldrgr|Branvàl Dorgàl]]: Captain of the Silent Talon.
-- [[being-torniskbry|Tórnis Kúbri]]: Fellow band member; a developing romantic relationship.
-- [[being-chlbrhydyn|Chelèbe Riddìn]]: Fellow band member.
-- [[being-dornsyndlr|Dorèn Sindàlre]]: Fellow band member.
+- [[being-branwldrgr|Branval Dorgal]]: Captain of the Silent Talon.
+- [[being-torniskbry|Tornis Kubri]]: Fellow band member; a developing romantic relationship.
+- [[being-chlbrhydyn|Chelebe Riddin]]: Fellow band member.
+- [[being-dornsyndlr|Doren Sindalre]]: Fellow band member.
 
 ### Patrons
 
@@ -486,8 +486,8 @@ Those who seek to control or exploit her knowledge—particularly anyone who mig
 
 ## Plot Hooks
 
-1. **The Hidden Gift**: Someone discovers—or suspects—Élithë's concealed arcane talent. Whether it is a fellow mage who senses her power, an old acquaintance from Péravel, or an enemy who witnessed something she thought no one saw, Élithë must decide whether to flee, fight, or finally reveal what she has been hiding.
+1. **The Hidden Gift**: Someone discovers—or suspects—Élithe's concealed arcane talent. Whether it is a fellow mage who senses her power, an old acquaintance from Péravel, or an enemy who witnessed something she thought no one saw, Élithe must decide whether to flee, fight, or finally reveal what she has been hiding.
 
-2. **The Plague Contract**: The Silent Talon is hired to escort supplies to a plague-stricken town. Élithë's skills are put to the ultimate test as she must identify the cause, develop a treatment, and keep the band healthy—all while someone in the town may be deliberately spreading the sickness.
+2. **The Plague Contract**: The Silent Talon is hired to escort supplies to a plague-stricken town. Élithe's skills are put to the ultimate test as she must identify the cause, develop a treatment, and keep the band healthy—all while someone in the town may be deliberately spreading the sickness.
 
-3. **The Rare Ingredient**: Élithë learns of an extraordinarily rare herb growing deep in dangerous territory. Obtaining it could be the breakthrough she needs for a remedy she has been developing for years—but the expedition would put the entire band at risk for the sake of her personal ambition.
+3. **The Rare Ingredient**: Élithe learns of an extraordinarily rare herb growing deep in dangerous territory. Obtaining it could be the breakthrough she needs for a remedy she has been developing for years—but the expedition would put the entire band at risk for the sake of her personal ambition.

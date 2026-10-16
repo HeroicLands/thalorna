@@ -1,6 +1,6 @@
 ---
 shortcode: wnfrdlvrtn
-name: {full: Winifred Alverton, aliases: []}
+name: {full: Winrith Alverton, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Winifred Alverton is a 31-year-old woman who stands 5'2" tall and is slender. She has an angular face with high cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. Her deep-set blue eyes sit beneath thin brows, lending her a watchful gaze. A straight nose and curved lips complete her features. She has fair skin with a fair complexion. Her dark brown hair is braided and coiled at the nape.
+Winrith Alverton is a 31-year-old woman who stands 5'2" tall and is slender. She has an angular face with high cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. Her deep-set blue eyes sit beneath thin brows, lending her a watchful gaze. A straight nose and curved lips complete her features. She has fair skin with a fair complexion. Her dark brown hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Winifred Alverton is a cartographer/artist.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Winrith Alverton is a cartographer/artist.
 
-Winifred grew up in a small village where she developed a love for nature and art. Her skill in sketching landscapes attracted the attention of a traveling cartographer, who took her on as an apprentice. She now creates maps for local lords and travelers, infusing her artistic style into her work to create maps that are both functional and beautiful.
+Winrith grew up in a small village where she developed a love for nature and art. Her skill in sketching landscapes attracted the attention of a traveling cartographer, who took her on as an apprentice. She now creates maps for local lords and travelers, infusing her artistic style into her work to create maps that are both functional and beautiful.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Naive and inexperienced in dealing with powerful patrons.
 
 ### Motivation
 
-Winifred wants her maps to serve the lords and travelers who commission them while showing the landscapes she loves to draw.
+Winrith wants her maps to serve the lords and travelers who commission them while showing the landscapes she loves to draw.
 
 ### Strengths
 
@@ -419,13 +419,13 @@ Talented in both art and mapmaking, excellent memory for details.
 
 ## Social
 
-Winifred is affiliated with Independent Cartographers.
+Winrith is affiliated with Independent Cartographers.
 
 ## Companions
 
 ### Patrons
 
-Local lords and travelers commission Winifred's maps.
+Local lords and travelers commission Winrith's maps.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ None; generally well-regarded.
 
 ## Plot Hooks
 
-1. **The Cartographer/Artist's Dilemma**—Winifred faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Cartographer/Artist's Dilemma**—Winrith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Old Grudges**—None; generally well-regarded. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Winifred's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Winrith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Winifred depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Winrith depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Winifred the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Winrith the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

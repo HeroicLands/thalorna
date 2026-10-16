@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[lore-pemburspr|Pemburari Khutheling]]—zohira of fertility, met through [[affiliation-yenorzhrng|the Yénor Zohiring]].
+See [[lore-pemburspr|Pemburari Khutheling]]—zohira of fertility, met through [[affiliation-yenorzhrng|the Yenor Zohiring]].

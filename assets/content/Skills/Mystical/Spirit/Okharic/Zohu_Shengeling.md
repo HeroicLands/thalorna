@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[lore-shengelspr|Zohu Shéngeling]]—zohira of the blade, met through [[affiliation-yenorzhrng|the Yénor Zohiring]].
+See [[lore-shengelspr|Zohu Shéngeling]]—zohira of the blade, met through [[affiliation-yenorzhrng|the Yenor Zohiring]].

@@ -1,6 +1,6 @@
 ---
 shortcode: pneumenos
-name: {full: Incantation Neuménos, aliases: []}
+name: {full: Incantation Neumenos, aliases: []}
 type: skill
 subType: mystical
 tags: [hex-hodai, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-pneumenos|Rhéshin Neuménos]]
+See [[affiliation-pneumenos|Rhezin Neumenos]]

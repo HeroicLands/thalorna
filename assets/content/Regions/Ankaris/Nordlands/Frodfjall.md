@@ -1,16 +1,16 @@
 ---
 shortcode: frodfjall
-name: {full: Fródfjall, aliases: []}
+name: {full: Frodfjall, aliases: []}
 type: place
 subType: feature
-description: "A sacred mountain of Fródvin whose summit waters are said to be the waters of life, guarded by a spirit and served by a temple of healers."
+description: "A sacred mountain of Frodvin whose summit waters are said to be the waters of life, guarded by a spirit and served by a temple of healers."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
 ---
 
-Nobody climbs Fródfjall for the view; they climb for what comes out of the ground at the top. The waters of life are said to flow from the earth at the summit of this sacred mountain of the [[place-nrdlndsrgn|Nordlands]], held from [[lore-frodvindty|Fródvin]], and a powerful spirit of the mountain guards them.
+Nobody climbs Frodfjall for the view; they climb for what comes out of the ground at the top. The waters of life are said to flow from the earth at the summit of this sacred mountain of the [[place-nrdlndsrgn|Nordlands]], held from [[lore-frodvindty|Frodvin]], and a powerful spirit of the mountain guards them.
 
-Below the summit stands **the Temple of Fródvin at Fródfjall**, whose healers keep the mountain's most closely guarded knowledge of healing.
+Below the summit stands **the Temple of Frodvin at Frodfjall**, whose healers keep the mountain's most closely guarded knowledge of healing.
 
 ## The Climb and the Waters
 
@@ -25,4 +25,4 @@ The danger the temple fears most is to the source itself. If the summit waters w
 ## See Also
 
 - [[being-brldsldsnsblsng|Brildselda Sun-Blessed]]—the temple's most gifted healer
-- [[affiliation-frodvin|Faith of Fródvin]]—the faith whose temple keeps the mountain
+- [[affiliation-frodvin|Faith of Frodvin]]—the faith whose temple keeps the mountain

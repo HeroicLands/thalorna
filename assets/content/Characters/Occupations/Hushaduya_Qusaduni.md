@@ -1,6 +1,6 @@
 ---
 shortcode: hshdyqsdn
-name: {full: Hushâdûya Qusâdûnî, aliases: []}
+name: {full: Hushaduya Kusaduni, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Hushâdûya Qusâdûnî is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with soft cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has a straight nose and wide lips. She has medium-toned skin with a bronzed complexion. Her black hair is braided and coiled at the nape.
+Hushaduya Kusaduni is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with soft cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has a straight nose and wide lips. She has medium-toned skin with a bronzed complexion. Her black hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Hushâdûya Qusâdûnî is a weaponcrafter and armorer.
+Born in the Taruzel region to a freeman family of Taruzelian heritage, Hushaduya Kusaduni is a weaponcrafter and armorer.
 
-Hushâdûya is a talented weaponcrafter who grew up in a family of blacksmiths. She took a particular interest in making smaller, finer weapons such as daggers and throwing knives. She is known for her detailed work and the designs she works into her blades. Her weapons are beautiful, but some would-be customers see them as more decorative than useful, and she means to change that by proving them in combat.
+Hushaduya is a talented weaponcrafter who grew up in a family of blacksmiths. She took a particular interest in making smaller, finer weapons such as daggers and throwing knives. She is known for her detailed work and the designs she works into her blades. Her weapons are beautiful, but some would-be customers see them as more decorative than useful, and she means to change that by proving them in combat.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ She struggles to sell her work as practical, and can be stubborn about her desig
 
 ### Motivation
 
-Hushâdûya wants her blades proved in combat, so that no one again calls them ornaments.
+Hushaduya wants her blades proved in combat, so that no one again calls them ornaments.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ She is skilled in detailed metalwork, inventive in her weapon designs, and resou
 
 ## Social
 
-Hushâdûya belongs to the City Artisans' Guild.
+Hushaduya belongs to the City Artisans' Guild.
 
 ## Companions
 
 ### Patrons
 
-Hushâdûya's patrons are the wealthy clients who appreciate her artistry, and a few adventurers seeking unusual weapons.
+Hushaduya's patrons are the wealthy clients who appreciate her artistry, and a few adventurers seeking unusual weapons.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Traditional blacksmiths see her work as too ornamental.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma**—A wealthy client wants a blade from Hushâdûya made for show alone, and taking the commission would concede what she has spent years denying.
+1. **The Weaponcrafter (Armorer)'s Dilemma**—A wealthy client wants a blade from Hushaduya made for show alone, and taking the commission would concede what she has spent years denying.
 
-2. **Old Grudges**—A traditional blacksmith who calls Hushâdûya's work ornament has brought a complaint against her to the City Artisans' Guild.
+2. **Old Grudges**—A traditional blacksmith who calls Hushaduya's work ornament has brought a complaint against her to the City Artisans' Guild.
 
-3. **Echoes of the Past**—A dagger from Hushâdûya's first years at the forge is found in a dead man, and its design names its maker.
+3. **Echoes of the Past**—A dagger from Hushaduya's first years at the forge is found in a dead man, and its design names its maker.
 
-4. **Shifting Winds**—Political change in Tarûzel threatens the wealthy clients Hushâdûya's trade depends on, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Taruzel threatens the wealthy clients Hushaduya's trade depends on, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—An adventurer offers to carry one of Hushâdûya's blades into a fight the whole city will hear of, on the condition that she comes to see it used.
+5. **The Opportunity**—An adventurer offers to carry one of Hushaduya's blades into a fight the whole city will hear of, on the condition that she comes to see it used.

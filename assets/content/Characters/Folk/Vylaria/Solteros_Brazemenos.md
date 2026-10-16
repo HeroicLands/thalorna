@@ -1,9 +1,9 @@
 ---
 shortcode: solterosbraz
-name: {full: Sôltêrôs Brâzêmênôs, aliases: [Captain Sôltêrôs Brâzêmênôs]}
+name: {full: Solteros Brazemen, aliases: [Captain Solteros Brazemen]}
 type: being
 subType: npc
-description: A merchant vessel captain who regularly seeks out Brânalenîs Bárkalâs for contracts.
+description: A merchant vessel captain who regularly seeks out Branalenis Bárkalas for contracts.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Sôltêrôs Brâzêmênôs is a 34-year-old man who stands 5'7" tall with a medium build. He has olive skin, weathered complexion, brown hair, and brown eyes.
+Solteros Brazemen is a 34-year-old man who stands 5'7" tall with a medium build. He has olive skin, weathered complexion, brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Sôltêrôs Brâzêmênôs is a merchant vessel captain who regularly seeks out [[being-brnlnsbrkls|Brânalenîs Bárkalâs]] for contracts, recognizing her value despite her difficult personality. He hopes that, given time, she might accept permanent crew status.
+Solteros Brazemen is a merchant vessel captain who regularly seeks out [[being-brnlnsbrkls|Branalenis Bárkalas]] for contracts, recognizing her value despite her difficult personality. He hopes that, given time, she might accept permanent crew status.

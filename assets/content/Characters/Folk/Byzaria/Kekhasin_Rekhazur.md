@@ -1,9 +1,9 @@
 ---
 shortcode: kekhasinrekh
-name: {full: Kekhasîn Rekhazûr, aliases: [Captain Kekhasîn Rekhazûr, Captain Kekhasîn]}
+name: {full: Kekhasin Rekhazur, aliases: [Captain Kekhasin Rekhazur, Captain Kekhasin]}
 type: being
 subType: npc
-description: A rival corsair from Bokhenôn Hodíkot's pirate days, now commanding his own fleet.
+description: A rival corsair from Bokhenon Hodikot's pirate days, now commanding his own fleet.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kekhasîn Rekhazûr is a 52-year-old man who stands 6'0" tall with a light build. He has tanned skin, weathered complexion, brown hair, and green eyes.
+Kekhasin Rekhazur is a 52-year-old man who stands 6'0" tall with a light build. He has tanned skin, weathered complexion, brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Kekhasîn Rekhazûr is a rival corsair from the pirate days of [[being-lnntshdkt|Bokhenôn Hodíkot]], now commanding his own fleet.
+Kekhasin Rekhazur is a rival corsair from the pirate days of [[being-lnntshdkt|Bokhenon Hodikot]], now commanding his own fleet.

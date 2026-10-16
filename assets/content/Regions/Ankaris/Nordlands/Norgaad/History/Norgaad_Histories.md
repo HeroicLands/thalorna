@@ -36,7 +36,7 @@ data:
       stated: {calendar: domseycount, text: "402 SG"}
       sources: [lore-nrgadhstry, affiliation-kingdmnrgd, place-tvarnmark]
       summary: >-
-        Ilthorv, elder brother of King Ilthmýl, leads forty companions up the road from Tvarnmark toward the Shattered Peaks seeking mithral, and he and most of them do not return.
+        Ilthorv, elder brother of King Ilthmil, leads forty companions up the road from Tvarnmark toward the Shattered Peaks seeking mithral, and he and most of them do not return.
       standing: attested
       names: [{name: the King's Brother on the Saddle, by: affiliation-kingdmnrgd}]
       where:
@@ -52,9 +52,9 @@ Norgaad's Lawspeaker can call the Great Moot at [[place-asgarthul|Asgarthul]] wh
 
 ## The Kingdom's Past
 
-The [[affiliation-kingdmnrgd|Tvurnidrokh]] have held Norgaad's crown at Asgarthul since the acclamations, and Norgaad has sat on [[place-domsey|Dómsey]] with five jarls' seats to Nordheim's seven since the first sitting in 287, a count the kingdom has argued at every sitting since. Its great king is [[affiliation-kingdmnrgd|Snirvthann]], about 462 to 490, who called Nordheim and Malagna to his hall after the ice at [[place-skalfvatn|Skalfvatn]] and made the Peace of Asgarthul in 471. The kings granted Norgaad's Lawspeaker the right to call the Great Moot whenever two kingdoms are at war, and in the same breath refused Snirvthann the two more seats he asked for; [[lore-nordkinwars|The Kin-Wars]] tells both.
+The [[affiliation-kingdmnrgd|Tvurnidrok]] have held Norgaad's crown at Asgarthul since the acclamations, and Norgaad has sat on [[place-domsey|Domsey]] with five jarls' seats to Nordheim's seven since the first sitting in 287, a count the kingdom has argued at every sitting since. Its great king is [[affiliation-kingdmnrgd|Snirvthann]], about 462 to 490, who called Nordheim and Malagna to his hall after the ice at [[place-skalfvatn|Skalfvatn]] and made the Peace of Asgarthul in 471. The kings granted Norgaad's Lawspeaker the right to call the Great Moot whenever two kingdoms are at war, and in the same breath refused Snirvthann the two more seats he asked for; [[lore-nordkinwars|The Kin-Wars]] tells both.
 
-Norgaad's hulls sailed with [[lore-southrnfleets|the Southern Fleets]], and again with Nordheim's fleet to Stormveld in 660, the year Vrathavn's smith made the guard told below. In 688 [[affiliation-kingdmnrgd|Ilthorv]], the elder brother of the present king [[affiliation-kingdmnrgd|Ilthmýl]], went up the Saddle and did not come back. The ting had acclaimed the younger brother over the elder four years before, and Ilthorv's line says the mountain settled nothing the ting had not already got wrong.
+Norgaad's hulls sailed with [[lore-southrnfleets|the Southern Fleets]], and again with Nordheim's fleet to Stormveld in 660, the year Vrathavn's smith made the guard told below. In 688 [[affiliation-kingdmnrgd|Ilthorv]], the elder brother of the present king [[affiliation-kingdmnrgd|Ilthmil]], went up the Saddle and did not come back. The ting had acclaimed the younger brother over the elder four years before, and Ilthorv's line says the mountain settled nothing the ting had not already got wrong.
 
 ## The King's Brother on the Saddle
 
@@ -84,8 +84,8 @@ without proving it.
 ## Hvarnvík's Two Sea Tales
 
 Fishers tell of an island that rises without birds, takes a boat down with it and leaves torn nets
-when it dives. Some call it a _hafthur_ and connect it to [[affiliation-njorvencult|Njörven's cult]].
-At [[lore-sumarmal|Sumarmál]], another [[place-hvarnvik|Hvarnvík]] telling has one thumb tucked under when the Ten are counted. It recalls
+when it dives. Some call it a _hafthur_ and connect it to [[affiliation-njorvencult|Njorven's cult]].
+At [[lore-sumarmal|Somarmál]], another [[place-hvarnvik|Hvarnvík]] telling has one thumb tucked under when the Ten are counted. It recalls
 an older sea power whom the coast did not wholly forget. Neither tale adds an eleventh Asguardian to
 the Ten. The cult's claim that its old patron will rise is a threat and a belief, not a settled event.
 
@@ -108,6 +108,6 @@ failed harvests, deaths and disputed acts at the kin-fell without accepting the 
 
 - [[affiliation-kingdmnrgd|Kingdom of Norgaad]] · [[place-norgaad|Norgaad]]
 - [[place-nrdlndsrgn|Nordlands]] · [[affiliation-asguardian|Asguardian Pantheon]]
-- [[lore-domseycount|The Dómsey Count]]—the reckoning of the sittings and the ages of the north
+- [[lore-domseycount|The Domsey Count]]—the reckoning of the sittings and the ages of the north
 - [[lore-nordkinwars|The Kin-Wars]]—the Peace of Asgarthul and the Great Moot
-- [[place-glurvholm|Glurvholm]]—the hof in the tide off Hvarnvík
+- [[place-glurvholm|Glurvholm]]—the hov in the tide off Hvarnvík

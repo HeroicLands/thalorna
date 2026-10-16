@@ -1,6 +1,6 @@
 ---
 shortcode: mtrmsthlmds
-name: {full: Métrimos Thálimîdês, aliases: []}
+name: {full: Métrimos Thálimides, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -393,11 +393,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Métrimos Thálimîdês is a 42-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a prominent forehead, and an angular jaw that leads to a prominent chin. His piercing hazel eyes sit beneath heavy brows, lending him a penetrating gaze. A strong nose and firm lips complete his features. He has tanned skin with an olive-toned complexion. His dark brown hair is tied in a low tail.
+Métrimos Thálimides is a 42-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a prominent forehead, and an angular jaw that leads to a prominent chin. His piercing hazel eyes sit beneath heavy brows, lending him a penetrating gaze. A strong nose and firm lips complete his features. He has tanned skin with an olive-toned complexion. His dark brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Métrimos Thálimîdês came into the world of the yeoman infantry through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Métrimos Thálimides came into the world of the yeoman infantry through a combination of circumstance and aptitude.
 
 Métrimos is a seasoned veteran who has fought in numerous skirmishes and battles. He is tough and resilient, respected for his leadership on the battlefield. Métrimos often trains younger yeomen in the arts of melee combat and defense. Despite his gruff demeanor, he cares deeply for those who fight beside him.
 
@@ -419,7 +419,7 @@ Strong, resilient, skilled in melee and defensive tactics.
 
 Métrimos is affiliated with Local Militia.
 
-As a Helionite yeoman infantry, Métrimos occupies a recognized social niche within Heliónis society.
+As a Helionite yeoman infantry, Métrimos occupies a recognized social niche within Helionis society.
 
 ## Companions
 
@@ -433,12 +433,12 @@ Rival soldiers and mercenaries who have clashed with him in the past.
 
 ## Plot Hooks
 
-1. **The Yeoman Infantry's Dilemma**—Métrimos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Yeoman Infantry's Dilemma**—Métrimos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—Rival soldiers and mercenaries who have clashed with him in the past. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 3. **Echoes of the Past**—Something from Métrimos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Métrimos depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Métrimos depends upon. He must decide whether to adapt, resist, or flee.
 
 5. **The Opportunity**—A chance encounter offers Métrimos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

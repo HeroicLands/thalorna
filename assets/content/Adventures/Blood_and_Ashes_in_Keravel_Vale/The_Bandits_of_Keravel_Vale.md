@@ -1,6 +1,6 @@
 ---
 shortcode: bndtscrvlvl
-name: {full: The Bandits of Keravèl Vale, aliases: []}
+name: {full: The Bandits of Keravel Vale, aliases: []}
 type: scenario
 subType: adventure
 tags: [blood-and-ashes-in-ceravel-vale]
@@ -17,79 +17,79 @@ data:
 
 ### Teaser
 
-The roads of [[place-ceravelvale|Keravèl Vale]] have grown treacherous, with bold bandits striking caravans and travelers without mercy. These outlaws, once scattered and disorganized, now act with alarming precision, united under a mysterious leader who seems to know every weakness in the Vale’s defenses. Târlas Pélanvri, Lord of [[place-belsaren|Belsarèn]], has called upon skilled adventurers to root out the bandit menace, uncover their hidden lair, and restore order to the countryside. Yet the task is anything but straightforward—peasants whisper of secret alliances, while the bandits’ tactics grow ever more ruthless. Who truly pulls the strings behind the bandit threat? And what dangers lie in wait for those who dare to confront them? The answers lie in the shadows of Keravèl Vale.
+The roads of [[place-ceravelvale|Keravel Vale]] have grown treacherous, with bold bandits striking caravans and travelers without mercy. These outlaws, once scattered and disorganized, now act with alarming precision, united under a mysterious leader who seems to know every weakness in the Vale’s defenses. Tarlas Pélanvri, Lord of [[place-belsaren|Belsaren]], has called upon skilled adventurers to root out the bandit menace, uncover their hidden lair, and restore order to the countryside. Yet the task is anything but straightforward—peasants whisper of secret alliances, while the bandits’ tactics grow ever more ruthless. Who truly pulls the strings behind the bandit threat? And what dangers lie in wait for those who dare to confront them? The answers lie in the shadows of Keravel Vale.
 
 ### Background
 
-The Vale of Keravèl is a rugged, isolated region in Provènzia plagued by bandit activity, led by Thárion al Dracáen, who was once the lord of Belsarèn. After being accused of treason by Târlas Pélanvri, Thárion lost his title and lands. Thárion leads a band of outlaws based in Belsarèn who raid the region. However, the situation is more complicated than it seems: the local villagers, who are mostly Thânevar, secretly support the bandits. The adventurers are tasked with bringing Thárion and his rebellion to an end.
+The Vale of Keravel is a rugged, isolated region in Provenzia plagued by bandit activity, led by Thárion al Dracaen, who was once the lord of Belsaren. After being accused of treason by Tarlas Pélanvri, Thárion lost his title and lands. Thárion leads a band of outlaws based in Belsaren who raid the region. However, the situation is more complicated than it seems: the local villagers, who are mostly Tanevar, secretly support the bandits. The adventurers are tasked with bringing Thárion and his rebellion to an end.
 
 ### Key Dynamics and Relationships
 
-- **Thárion al Dracáen**: Thárion, whose family originally held Belsarèn, seeks revenge for his wrongful deposition by Târlas and has become a charismatic leader of the Thânevar peasants, promising to restore justice. However, as his situation becomes more desperate, Thárion resorts to increasingly violent tactics, ultimately sealing his fate.
+- **Thárion al Dracaen**: Thárion, whose family originally held Belsaren, seeks revenge for his wrongful deposition by Tarlas and has become a charismatic leader of the Tanevar peasants, promising to restore justice. However, as his situation becomes more desperate, Thárion resorts to increasingly violent tactics, ultimately sealing his fate.
 
-- **Élgâr Târlas al Pélanvri nâ Belsarèn**: Târlas, who now rules Belsarèn, wants the bandit threat extinguished to secure his position and avoid scrutiny from his liege Khiráta Jârvel al Pélanvri nâ [[place-caerceravel|Torvìla Keravèl]]. Târlas is a harsh ruler, and his oppressive treatment of the Thânevar peasants has driven many to support Thárion.
+- **Elgar Tarlas al Pélanvri na Belsaren**: Tarlas, who now rules Belsaren, wants the bandit threat extinguished to secure his position and avoid scrutiny from his liege Khirata Jarvel al Pélanvri na [[place-caerceravel|Torvila Keravel]]. Tarlas is a harsh ruler, and his oppressive treatment of the Tanevar peasants has driven many to support Thárion.
 
-- **Nâlor Kílan alrí Ilóvrel nâ [[place-ilovren|Ilovrèn]]**: Although Kílan plays no overt role in Part 1, his hidden hand is at work. He has been manipulating the conflict between Thárion and Târlas, subtly supporting the chaos to weaken Târlas’ control Belsarèn and further his own agenda. However, this connection remains unknown to all, including Thárion, until after the bandit leader’s defeat.
+- **Nalor Kilan alrí Ilovrel na [[place-ilovren|Ilovren]]**: Although Kilan plays no overt role in Part 1, his hidden hand is at work. He has been manipulating the conflict between Thárion and Tarlas, subtly supporting the chaos to weaken Tarlas’ control Belsaren and further his own agenda. However, this connection remains unknown to all, including Thárion, until after the bandit leader’s defeat.
 
-- **Thânevar and Provenzian Peasants of Belsarèn**: The peasants of Belsarèn are divided. While all of the peasants are openly supportive of Târlas, the Thânevar majority secretly supports Thárion, while the Provenzian minority remains loyal to Târlas. This division complicates the adventurers’ task, as the Thânevar villagers may resist their efforts, while the Provenzian peasants offer information and assistance.
+- **Tanevar and Provenzian Peasants of Belsaren**: The peasants of Belsaren are divided. While all of the peasants are openly supportive of Tarlas, the Tanevar majority secretly supports Thárion, while the Provenzian minority remains loyal to Tarlas. This division complicates the adventurers’ task, as the Tanevar villagers may resist their efforts, while the Provenzian peasants offer information and assistance.
 
 ### Introduction
 
-Bandits have been chronically harassing the region of Keravèl for years. Recently, one band near Belsarèn has started to organize all of the bandits in the region under a new leader.
+Bandits have been chronically harassing the region of Keravel for years. Recently, one band near Belsaren has started to organize all of the bandits in the region under a new leader.
 
-Târlas Pélanvri, the new lord recently installed by Khiráta Jârvel, has been tasked with dealing with this bandit problem. Târlas future in Belsarèn will likely depend on how he handles this problem.
+Tarlas Pélanvri, the new lord recently installed by Khirata Jarvel, has been tasked with dealing with this bandit problem. Tarlas future in Belsaren will likely depend on how he handles this problem.
 
-Târlas sees the bandits as both a threat and a convenient tool. On one hand, he fears that continued bandit activity could weaken his position and draw the ire of Jârvel. On the other hand, Târlas has been using the presence of the bandits as an excuse to increase control due to “military necessity” and ultimately to improve his standing with Jârvel by defeating the bandits.
+Tarlas sees the bandits as both a threat and a convenient tool. On one hand, he fears that continued bandit activity could weaken his position and draw the ire of Jarvel. On the other hand, Tarlas has been using the presence of the bandits as an excuse to increase control due to “military necessity” and ultimately to improve his standing with Jarvel by defeating the bandits.
 
-Târlas’s relationship with the Thânevar villagers is antagonistic at best. He views the Thânevar as little more than serfs, and his disdain for their customs and traditions is well-known. His crackdowns have resulted in the Thânevar villagers to increasingly turn to Tharion’s bandits for protection and retribution.
+Tarlas’s relationship with the Tanevar villagers is antagonistic at best. He views the Tanevar as little more than serfs, and his disdain for their customs and traditions is well-known. His crackdowns have resulted in the Tanevar villagers to increasingly turn to Tharion’s bandits for protection and retribution.
 
-Târlas meets with the new adventurers at his manor, and provides them with the little information he knows:
+Tarlas meets with the new adventurers at his manor, and provides them with the little information he knows:
 
 1. The bandits have recently become more organized.
-2. The bandits have attacked many travelers and caravans, throughout Keravèl but particularly in Belsarèn.
-3. The villagers, particularly the Thânevar, are suspected of assisting the bandits.
+2. The bandits have attacked many travelers and caravans, throughout Keravel but particularly in Belsaren.
+3. The villagers, particularly the Tanevar, are suspected of assisting the bandits.
 
 ### A Problem of Bandits
 
-#### Arrival in Belsarèn
+#### Arrival in Belsaren
 
 1.  **The Invitation:**
-    - The adventurers are contacted via letter, courier, or a mutual intermediary by Târlas al Pélanvri, the lord of Belsarèn. The message is formal and polite, hinting at potential rewards for assisting with a “pressing matter of great importance.”
+    - The adventurers are contacted via letter, courier, or a mutual intermediary by Tarlas al Pélanvri, the lord of Belsaren. The message is formal and polite, hinting at potential rewards for assisting with a “pressing matter of great importance.”
     - The letter emphasizes discretion and promises compensation in coin and possibly land or favor.
 2.  **Arrival at the Inn:**
     - The adventurers arrive in the village and take up residence at the inn.
-    - The innkeeper, Vêrek, is a nervous Thânevar who mentions the recent troubles with the bandits and offers subtle warnings about both Târlas and the dangers in the area.
+    - The innkeeper, Verek, is a nervous Tanevar who mentions the recent troubles with the bandits and offers subtle warnings about both Tarlas and the dangers in the area.
 3.  **The Manor Audience:**
-    - Once settled, the adventurers head to Târlas’s manor, an imposing structure overlooking the village.
-    - Târlas greets them in his audience chamber, flanked by his guards. He appears cordial but exudes an air of slimy self-interest.
+    - Once settled, the adventurers head to Tarlas’s manor, an imposing structure overlooking the village.
+    - Tarlas greets them in his audience chamber, flanked by his guards. He appears cordial but exudes an air of slimy self-interest.
 
-#### Târlas’s Plea
+#### Tarlas’s Plea
 
-Târlas’s manor is sparsely decorated, with most of the wealth concentrated in the audience chamber. It reflects a man who is both ambitious and careful with appearances. Târlas is seated at a high-backed chair, and his wife and daughter are notably absent from the meeting.
+Tarlas’s manor is sparsely decorated, with most of the wealth concentrated in the audience chamber. It reflects a man who is both ambitious and careful with appearances. Tarlas is seated at a high-backed chair, and his wife and daughter are notably absent from the meeting.
 
-Târlas recounts the issue of the bandits, framing himself as the victim of an organized and malicious threat to his people and lands.
+Tarlas recounts the issue of the bandits, framing himself as the victim of an organized and malicious threat to his people and lands.
 
 He appeals to the adventurers' sense of duty and greed, offering rewards for their help.
 
 ##### Initial Greeting
 
-_(Târlas rises from his chair, spreading his arms in a show of practiced warmth.)_
+_(Tarlas rises from his chair, spreading his arms in a show of practiced warmth.)_
 
-“Ah, you’ve arrived! I had heard tales of your exploits, but it’s good to finally see the faces behind the stories. Belsarèn is in dire need of capable hands such as yours.”
+“Ah, you’ve arrived! I had heard tales of your exploits, but it’s good to finally see the faces behind the stories. Belsaren is in dire need of capable hands such as yours.”
 
 _(He motions to his table, gesturing for the adventurers to sit.)_
 
 “Please, make yourselves comfortable. It’s not every day I have the honor of hosting such esteemed guests.”
 
-_(Târlas’s tone shifts to one of solemnity, though his eyes remain calculating.)_
+_(Tarlas’s tone shifts to one of solemnity, though his eyes remain calculating.)_
 
-“As you may have heard, Belsarèn has been plagued by a growing bandit threat. What began as sporadic attacks—little more than petty thievery—has grown into something far more dangerous. These bandits have become unusually organized, attacking caravans and travelers with precision. Entire shipments have vanished, and the roads of Belsarèn are no longer safe.”
+“As you may have heard, Belsaren has been plagued by a growing bandit threat. What began as sporadic attacks—little more than petty thievery—has grown into something far more dangerous. These bandits have become unusually organized, attacking caravans and travelers with precision. Entire shipments have vanished, and the roads of Belsaren are no longer safe.”
 
 _(He leans forward, lowering his voice slightly as though sharing a secret.)_
 
-“They’ve struck throughout Keravèl Vale, but Belsarèn seems to bear the brunt of their raids. My lands, my people—constant targets. And these are not random attacks; they’re coordinated. Someone is leading them, though I’ve yet to uncover who. That is where I need you.”
+“They’ve struck throughout Keravel Vale, but Belsaren seems to bear the brunt of their raids. My lands, my people—constant targets. And these are not random attacks; they’re coordinated. Someone is leading them, though I’ve yet to uncover who. That is where I need you.”
 
-_(Târlas’s tone brightens as he moves to the matter of rewards.)_
+_(Tarlas’s tone brightens as he moves to the matter of rewards.)_
 
 “Of course, your efforts will not go unrewarded. In addition to a generous sum of coin, I can assure you that success here will win you the gratitude of my house—and perhaps even my liege. Such gratitude can open many doors, as I’m sure you’re aware.”
 
@@ -97,13 +97,13 @@ _(He pauses, studying the adventurers’ faces.)_
 
 “I trust you’ll find the terms agreeable?”
 
-_(Târlas gestures to a map of Belsarèn, spread out on the table.)_
+_(Tarlas gestures to a map of Belsaren, spread out on the table.)_
 
 “These bandits are no mere rabble. They’ve struck travelers and caravans alike, from merchants to pilgrims. And they’re striking with a cunning that suggests a trained hand is guiding them. Their leader—whoever they are—has remained frustratingly elusive.”
 
 _(He taps the map, indicating likely ambush points and known attack sites.)_
 
-“More troubling still, I suspect they’re receiving help from within my own lands. The villagers, particularly the Thânevar, are not above suspicion. There are whispers that some have been aiding the bandits—providing them with food, shelter, and perhaps even information about my guards’ movements.”
+“More troubling still, I suspect they’re receiving help from within my own lands. The villagers, particularly the Tanevar, are not above suspicion. There are whispers that some have been aiding the bandits—providing them with food, shelter, and perhaps even information about my guards’ movements.”
 
 _(He sits back, clasping his hands together.)_
 
@@ -111,19 +111,19 @@ _(He sits back, clasping his hands together.)_
 
 ##### Subtle Manipulation
 
-_(If the adventurers hesitate or question his motives, Târlas leans in, his voice oozing reassurance.)_
+_(If the adventurers hesitate or question his motives, Tarlas leans in, his voice oozing reassurance.)_
 
-“I understand your hesitation. These are dangerous times, after all. But consider this: the people of Belsarèn are counting on us—on you. Without your help, their suffering will only continue. You would not turn your backs on such a noble cause, would you?”
+“I understand your hesitation. These are dangerous times, after all. But consider this: the people of Belsaren are counting on us—on you. Without your help, their suffering will only continue. You would not turn your backs on such a noble cause, would you?”
 
 _(He smiles thinly, the charm in his voice now tinged with steel.)_
 
-“And let us not forget the implications of inaction. If the bandits remain unchecked, their strength will grow, and their attacks will spread. What begins in Belsarèn could engulf all of Keravèl Vale. You have the power to prevent that.”
+“And let us not forget the implications of inaction. If the bandits remain unchecked, their strength will grow, and their attacks will spread. What begins in Belsaren could engulf all of Keravel Vale. You have the power to prevent that.”
 
 ##### Dismissal
 
-_(As the meeting concludes, Târlas rises and clasps his hands behind his back.)_
+_(As the meeting concludes, Tarlas rises and clasps his hands behind his back.)_
 
-“Then it’s settled. Go, get some rest, and prepare yourselves. I trust you’ll begin your work promptly. The sooner this threat is dealt with, the sooner Belsarèn can know peace once more.”
+“Then it’s settled. Go, get some rest, and prepare yourselves. I trust you’ll begin your work promptly. The sooner this threat is dealt with, the sooner Belsaren can know peace once more.”
 
 _(He nods to a servant, who escorts the adventurers out.)_
 
@@ -131,15 +131,15 @@ _(He nods to a servant, who escorts the adventurers out.)_
 
 ### Finding Information in the Village
 
-The party may choose to go to the village and seek information there. Generally, the villagers will be close-mouthed and wary of any new villagers. If the party mentions their connection with Târlas, the Thânevar villagers will become even less communicative, and will even be hostile. On the other hand, the Provenzian villagers may be somewhat more inclined to assist, although still concerned about being seen as informers to the Thânevar villagers.
+The party may choose to go to the village and seek information there. Generally, the villagers will be close-mouthed and wary of any new villagers. If the party mentions their connection with Tarlas, the Tanevar villagers will become even less communicative, and will even be hostile. On the other hand, the Provenzian villagers may be somewhat more inclined to assist, although still concerned about being seen as informers to the Tanevar villagers.
 
 The first place the adventurers are likely to go for information is the inn. The following conversations are samples that might be used if the adventurers ask around. There are more rumors that might also be available, either at the inn or in the village from other village people.
 
-#### Vêrek (Thânevar Innkeeper)
+#### Verek (Tanevar Innkeeper)
 
 ##### _Adventurers ask about the bandits:_
 
-- **Vêrek (Guarded):**
+- **Verek (Guarded):**
 
   "Bandits? Aye, we’ve heard rumors. Desperate folk doing desperate things. Can’t say I blame them, though. When taxes take what little we’ve got, what’s left to lose?"
 
@@ -149,27 +149,27 @@ The first place the adventurers are likely to go for information is the inn. The
 
 ##### _If pressed further:_
 
-- **Vêrek (Irritated):** "Look, I run an inn, not a gossip shop. My job’s keeping this place running, not sticking my neck into trouble. If you want answers, maybe ask that busybody beekeeper over there. Yvéndar hears everything, whether he wants to or not."
+- **Verek (Irritated):** "Look, I run an inn, not a gossip shop. My job’s keeping this place running, not sticking my neck into trouble. If you want answers, maybe ask that busybody beekeeper over there. Yvendar hears everything, whether he wants to or not."
 
-#### Rhéman (Provenzian Farmer)
+#### Rheman (Provenzian Farmer)
 
 ##### _Adventurers ask about recent attacks:_
 
-- **Rhéman (Hesitant):**
+- **Rheman (Hesitant):**
 
   "Attacks, yes. A few caravans here and there. They take food, tools... but rarely coin, curiously. Almost as if they’re just scraping by."
 
   _(He pauses, lowering his voice.)_
 
-  "Truth be told, I’ve heard whispers that some folks... well, let’s just say they’re not as loyal to Târlas as they ought to be. And if word of that spreads to the wrong ears..."
+  "Truth be told, I’ve heard whispers that some folks... well, let’s just say they’re not as loyal to Tarlas as they ought to be. And if word of that spreads to the wrong ears..."
 
   _(He trails off, glancing nervously around the room.)_
 
 ##### _If asked for details:_
 
-- **Rhéman (Lowered Voice):** "I can’t say much. But I know this: the bandits don’t hit every caravan. They target ones that look weak—easy prey. If you’re planning to go after them, maybe think about looking the part. But don’t expect the villagers here to help much. We’ve got enough trouble as it is."
+- **Rheman (Lowered Voice):** "I can’t say much. But I know this: the bandits don’t hit every caravan. They target ones that look weak—easy prey. If you’re planning to go after them, maybe think about looking the part. But don’t expect the villagers here to help much. We’ve got enough trouble as it is."
 
-#### Árgaen (Thânevar Goat Herder)
+#### Árgaen (Tanevar Goat Herder)
 
 ##### _Adventurers ask about the bandits:_
 
@@ -187,11 +187,11 @@ The first place the adventurers are likely to go for information is the inn. The
 
 - **Árgaen (Defensive):** "Think I don’t know what I’m talking about? Fine, go wandering in the woods without a guide. See how long you last! I’ll be here when you come crawling back, if you make it out alive."
 
-#### Yvéndar (Provenzian Beekeeper)
+#### Yvendar (Provenzian Beekeeper)
 
 ##### _Adventurers ask about the bandits:_
 
-- **Yvéndar (Cautious):**
+- **Yvendar (Cautious):**
 
   "A troubling topic, that. Yes, the bandits are active. And yes, some folk here might know more than they’re letting on. But pressing too hard might earn you enemies you don’t need."
 
@@ -201,21 +201,21 @@ The first place the adventurers are likely to go for information is the inn. The
 
 ##### _If adventurers ask about villagers helping the bandits:_
 
-- **Yvéndar (Reluctant):** "There’s been talk, sure. Some say the Thânevar have sympathies. Others say it’s fear, not loyalty, that binds them to the bandits. Either way, if you’re planning to confront the bandits, tread carefully. You don’t want to turn the whole village against you."
+- **Yvendar (Reluctant):** "There’s been talk, sure. Some say the Tanevar have sympathies. Others say it’s fear, not loyalty, that binds them to the bandits. Either way, if you’re planning to confront the bandits, tread carefully. You don’t want to turn the whole village against you."
 
-#### Vêrek and Árgaen: A Tense Exchange
+#### Verek and Árgaen: A Tense Exchange
 
 If the adventurers’ questioning creates tension between the factions, an exchange might occur:
 
 - **Árgaen (Angry):**
 
-  "What’s this, Vêrek? You letting strangers come in and snoop around our business?"
+  "What’s this, Verek? You letting strangers come in and snoop around our business?"
 
   _(He glares at the adventurers.)_
 
   "We don’t need outsiders stirring up trouble. Haven’t we enough already with those blasted taxes?"
 
-- **Vêrek (Cool):**
+- **Verek (Cool):**
 
   "Mind your tongue, Árgaen. These strangers pay their way, same as you. And if they’re looking to rid us of the bandits, maybe you ought to thank them."
 
@@ -231,9 +231,9 @@ If the adventurers’ questioning creates tension between the factions, an excha
 
 #### Hints to Push the Adventurers Toward a Plan
 
-- **From Vêrek:** "If you’re set on finding them, you’ll need more than swords. Those bandits know the woods better than anyone. Maybe you should let them find you instead."
-- **From Yvéndar:** "Disguising yourselves as defenseless travelers? Risky, but it just might work. They’d come to you—and then you’d have the upper hand."
-- **From Rhéman:** "You didn’t hear it from me, but the bandits watch the old south road closely. A few carts have been hit there recently. Might be worth investigating."
+- **From Verek:** "If you’re set on finding them, you’ll need more than swords. Those bandits know the woods better than anyone. Maybe you should let them find you instead."
+- **From Yvendar:** "Disguising yourselves as defenseless travelers? Risky, but it just might work. They’d come to you—and then you’d have the upper hand."
+- **From Rheman:** "You didn’t hear it from me, but the bandits watch the old south road closely. A few carts have been hit there recently. Might be worth investigating."
 
 ### The Ambush on the Old South Road
 
@@ -339,7 +339,7 @@ The bandits have:
     - Example: Dropping a log snare to block a narrow path.
 
 3.  **Bandit Leader Retreats:**
-    - If the leader flees, they may drop an important clue: a map fragment, a coded message, or an item linking them to the Thânevar villagers.
+    - If the leader flees, they may drop an important clue: a map fragment, a coded message, or an item linking them to the Tanevar villagers.
 
 #### Aftermath
 
@@ -443,7 +443,7 @@ The bandit leader shouts:
 
 ##### Villager Actions:
 
-- A few brave villagers, such as Gjárken (Provenzian reeve) or Álgar (beadle), may attempt to assist by throwing rocks or guiding others to safety. However, their effectiveness is limited without adventurer intervention.
+- A few brave villagers, such as Gjarken (Provenzian reeve) or Algar (beadle), may attempt to assist by throwing rocks or guiding others to safety. However, their effectiveness is limited without adventurer intervention.
 
 #### Aftermath
 
@@ -452,14 +452,14 @@ The bandit leader shouts:
 - The bandits retreat, leaving behind a few injured or dead allies.
 - The villagers, horrified by the attack, are finally willing to divulge:
   - **The location of the bandit hideout:** A forest cave system guarded by traps and at least a dozen more bandits.
-  - **Details about the Thânevar villagers’ complicity:** Specific names (e.g., Ârlek or Trévalais) and descriptions of their involvement.
+  - **Details about the Tanevar villagers’ complicity:** Specific names (e.g., Arlek or Trévalais) and descriptions of their involvement.
 
-- Relations between the Provenzian and Thânevar villagers deteriorate further, creating social tension the adventurers may need to navigate.
+- Relations between the Provenzian and Tanevar villagers deteriorate further, creating social tension the adventurers may need to navigate.
 
 ##### If the Bandits Win or Escape:
 
 - The bandits successfully kidnap or harm several villagers, leaving the adventurers with fewer leads and a damaged reputation in the village.
-- Villagers grow more fearful, with the Thânevar villagers becoming even more protective of the bandits out of fear of further retaliation.
+- Villagers grow more fearful, with the Tanevar villagers becoming even more protective of the bandits out of fear of further retaliation.
 - The adventurers must seek other clues to track the bandits, such as investigating the bandits’ escape route or interrogating any wounded bandits left behind.
 
 #### Information and Leads
@@ -467,7 +467,7 @@ The bandit leader shouts:
 - **Captured Bandits:** If any bandits are taken alive, they can provide details about the hideout’s layout, traps, or leadership.
 - **Recovered Clues:**
   - A map fragment or coded orders found on the bandit leader may reveal additional targets or locations.
-  - Items linking the bandits to their Thânevar allies (e.g., tools marked with village symbols).
+  - Items linking the bandits to their Tanevar allies (e.g., tools marked with village symbols).
 
 #### Key Considerations for the GM
 
@@ -475,90 +475,90 @@ The bandit leader shouts:
 2.  **Moral Dilemmas:** Emphasize the challenge of protecting innocent villagers while fighting a ruthless enemy.
 3.  **Roleplay Opportunities:** Allow the villagers’ reactions to create consequences that impact the next phase of the adventure.
 
-#### Likely Actions by Târlas During and After the Attack
+#### Likely Actions by Tarlas During and After the Attack
 
 ##### During the Attack
 
-As the lord of the manor, Târlas al Pélanvri is deeply concerned with maintaining control and protecting the village, particularly the Provenzian villagers who are loyal to him. However, his responses are shaped by his authoritarian leadership style and the need to avoid direct involvement in combat unless absolutely necessary.
+As the lord of the manor, Tarlas al Pélanvri is deeply concerned with maintaining control and protecting the village, particularly the Provenzian villagers who are loyal to him. However, his responses are shaped by his authoritarian leadership style and the need to avoid direct involvement in combat unless absolutely necessary.
 
 1.  **Immediate Actions:**
-    - **Rallying Guards:** Târlas immediately orders his manor guards (4 trained fighters) to secure key locations, such as the manor itself or other strategic points. He will prioritize protecting his family and critical assets over the broader village.
-    - **Issuing Orders:** He sends a guard to command Gjárken (reeve) and other village officers to organize a defense, though these orders might be slow to take effect due to the chaos.
+    - **Rallying Guards:** Tarlas immediately orders his manor guards (4 trained fighters) to secure key locations, such as the manor itself or other strategic points. He will prioritize protecting his family and critical assets over the broader village.
+    - **Issuing Orders:** He sends a guard to command Gjarken (reeve) and other village officers to organize a defense, though these orders might be slow to take effect due to the chaos.
 
 2.  **Limited Engagement:**
-    - Târlas himself is unlikely to enter the fray unless the attack reaches the manor or his family is in direct danger. He sees his role as a leader, not a front-line fighter.
+    - Tarlas himself is unlikely to enter the fray unless the attack reaches the manor or his family is in direct danger. He sees his role as a leader, not a front-line fighter.
 
 3.  **Support for the Adventurers:**
-    - If the adventurers are fighting the bandits, Târlas may see this as an opportunity to test their abilities. He may offer verbal encouragement or vague promises of rewards but avoids direct risk to himself.
-    - He ensures the guards focus on minimizing damage to Provenzian homes, leaving the Thânevar to fend for themselves.
+    - If the adventurers are fighting the bandits, Tarlas may see this as an opportunity to test their abilities. He may offer verbal encouragement or vague promises of rewards but avoids direct risk to himself.
+    - He ensures the guards focus on minimizing damage to Provenzian homes, leaving the Tanevar to fend for themselves.
 
 ##### After the Attack
 
-Târlas’s response to the aftermath is calculated and reflects his need to maintain control while shifting blame away from himself or the Provenzians.
+Tarlas’s response to the aftermath is calculated and reflects his need to maintain control while shifting blame away from himself or the Provenzians.
 
 1.  **Blame and Reasserting Authority:**
-    - **Condemning the Bandits:** Târlas uses the attack as an opportunity to publicly denounce the bandits, framing their actions as an attack on the stability he provides.
-    - **Targeting the Thânevar:** He openly accuses Thânevar villagers of complicity, using any evidence (or circumstantial connections) to justify harsher measures. This may include increased taxes, forced labor, or public punishment.
+    - **Condemning the Bandits:** Tarlas uses the attack as an opportunity to publicly denounce the bandits, framing their actions as an attack on the stability he provides.
+    - **Targeting the Tanevar:** He openly accuses Tanevar villagers of complicity, using any evidence (or circumstantial connections) to justify harsher measures. This may include increased taxes, forced labor, or public punishment.
 
 2.  **Leveraging the Adventurers:**
-    - **Seeking Their Help:** Târlas strongly encourages the adventurers to track down and eliminate the bandits, offering rewards or political favor for their efforts.
+    - **Seeking Their Help:** Tarlas strongly encourages the adventurers to track down and eliminate the bandits, offering rewards or political favor for their efforts.
     - **Deflecting Responsibility:** He implies that the adventurers' presence likely provoked the attack, subtly blaming them for the chaos while still enlisting their help.
 
 3.  **Managing the Villagers:**
-    - **Reassuring the Provenzians:** Târlas holds a public gathering for the Provenzian villagers, praising their loyalty and promising protection. This reinforces the divide between the two cultural groups.
-    - **Threatening the Thânevar:** He summons key Thânevar figures, such as Ârlek or Pâvern, for questioning. This is meant to intimidate and identify collaborators rather than uncover the full truth.
+    - **Reassuring the Provenzians:** Tarlas holds a public gathering for the Provenzian villagers, praising their loyalty and promising protection. This reinforces the divide between the two cultural groups.
+    - **Threatening the Tanevar:** He summons key Tanevar figures, such as Arlek or Pavern, for questioning. This is meant to intimidate and identify collaborators rather than uncover the full truth.
 
 4.  **Strategic Changes:**
-    - **Increased Security:** Târlas orders his guards to patrol the village more aggressively, focusing on Thânevar areas and key entry points.
+    - **Increased Security:** Tarlas orders his guards to patrol the village more aggressively, focusing on Tanevar areas and key entry points.
     - **Bandit Hunt:** He may organize a minor search party, primarily to give the appearance of action. However, he heavily relies on the adventurers to handle the actual danger.
 
 5.  **Interactions with the Adventurers:**
-    - **Rewards and Promises:** Târlas offers vague rewards for the adventurers’ assistance, emphasizing the importance of dealing with the bandits swiftly to restore order.
-    - **Sharing Information:** While Târlas is aware of some Thânevar villagers’ complicity, he withholds this information unless it benefits him politically or ensures the adventurers’ success.
+    - **Rewards and Promises:** Tarlas offers vague rewards for the adventurers’ assistance, emphasizing the importance of dealing with the bandits swiftly to restore order.
+    - **Sharing Information:** While Tarlas is aware of some Tanevar villagers’ complicity, he withholds this information unless it benefits him politically or ensures the adventurers’ success.
     - **Warnings:** He warns the adventurers not to endanger the Provenzian villagers or overstep their role, reminding them that he is still the lord of the land.
 
 #### How This Shapes the Next Phase
 
-Târlas’s actions set the stage for a tense dynamic between the adventurers and the villagers:
+Tarlas’s actions set the stage for a tense dynamic between the adventurers and the villagers:
 
-- **The Thânevar villagers grow more desperate and defiant**, knowing that Târlas will likely escalate his oppression.
+- **The Tanevar villagers grow more desperate and defiant**, knowing that Tarlas will likely escalate his oppression.
 - **The Provenzians feel conflicted**, grateful for the adventurers’ defense but worried about further retaliation from the bandits.
-- **The adventurers must navigate Târlas’s manipulative leadership**, balancing their objectives with the growing unrest in the village.
+- **The adventurers must navigate Tarlas’s manipulative leadership**, balancing their objectives with the growing unrest in the village.
 
 ### Assault on the Bandit Cave
 
 #### Villager Questioning
 
-In the aftermath of the bandit raid on the village, Tarlas and the Provenzian villagers have had enough, and turn on the Thânevar villagers. Tarlas threatens to put them to the question if they don't start talking.
+In the aftermath of the bandit raid on the village, Tarlas and the Provenzian villagers have had enough, and turn on the Tanevar villagers. Tarlas threatens to put them to the question if they don't start talking.
 
-##### Vêrek (Thânevar, Innkeeper)
+##### Verek (Tanevar, Innkeeper)
 
-- **Vêrek (Panicked):**  
-  “Alright! Alright! Enough! I’ll tell you what I know. They’re in the old cave south of the ridge, near the twisted oak. We gave them food, yes, but they said they’d leave us alone! They promised! We didn’t want this!” _(His voice breaks, and he glances fearfully at Târlas.)_ “Just don’t let them come back here, I beg you!”
+- **Verek (Panicked):**  
+  “Alright! Alright! Enough! I’ll tell you what I know. They’re in the old cave south of the ridge, near the twisted oak. We gave them food, yes, but they said they’d leave us alone! They promised! We didn’t want this!” _(His voice breaks, and he glances fearfully at Tarlas.)_ “Just don’t let them come back here, I beg you!”
 
-#### 2. Ârlek (Thânevar, Shepherd)
+#### 2. Arlek (Tanevar, Shepherd)
 
-- **Ârlek (Trembling):**  
+- **Arlek (Trembling):**  
   “Please, my lord... they forced us! Said they’d burn our homes and take our children if we didn’t help them. What could we do?” _(He falls to his knees.)_ “I’ll show you where they are. Just... spare me. I didn’t want this. None of us did!”
 
-#### 3. Âlgar (Provenzian, Beadle)
+#### 3. Algar (Provenzian, Beadle)
 
-- **Âlgar (Angry, to the Thânevar):**  
-  “Forced you? Don’t make me laugh! You’ve been giving them food and tools for months, haven’t you? While the rest of us suffered under their attacks! You made your choice, Ârlek. You’d better hope it was worth it.” _(Turning to Târlas)_ “Put them to the question, my lord. Let’s see what else they’ve been hiding!”
+- **Algar (Angry, to the Tanevar):**  
+  “Forced you? Don’t make me laugh! You’ve been giving them food and tools for months, haven’t you? While the rest of us suffered under their attacks! You made your choice, Arlek. You’d better hope it was worth it.” _(Turning to Tarlas)_ “Put them to the question, my lord. Let’s see what else they’ve been hiding!”
 
-#### 4. Târlas al Pélanvri (Provenzian, Manor Lord)
+#### 4. Tarlas al Pélanvri (Provenzian, Manor Lord)
 
-- **Târlas (Cold and Authoritative):**
+- **Tarlas (Cold and Authoritative):**
 
   “You think your fear excuses treason? You think your cowardice absolves you of the blood spilled tonight?”
 
-  _(He steps closer to the frightened Thânevar.)_
+  _(He steps closer to the frightened Tanevar.)_
 
-  “You will speak now, or you will face the consequences. I will not allow this village to fall because of your silence.” _(He gestures to his guards.)_ “Bind Ârlek and Vêrek. If they won’t speak willingly, we’ll ensure they do.”
+  “You will speak now, or you will face the consequences. I will not allow this village to fall because of your silence.” _(He gestures to his guards.)_ “Bind Arlek and Verek. If they won’t speak willingly, we’ll ensure they do.”
 
-#### 5. Árgaen (Thânevar, Goat Herder)
+#### 5. Árgaen (Tanevar, Goat Herder)
 
-- **Árgaen (Breaking Down):** “They’re in the cave! South of the forest clearing, past the old ridge trail! I don’t care what happens to them anymore—just end this madness!” _(He glares at the other Thânevar, his voice bitter.)_ “We thought we were saving ourselves, but all we did was bring ruin to the rest of you. I’ll take you there myself if it’ll end this.”
+- **Árgaen (Breaking Down):** “They’re in the cave! South of the forest clearing, past the old ridge trail! I don’t care what happens to them anymore—just end this madness!” _(He glares at the other Tanevar, his voice bitter.)_ “We thought we were saving ourselves, but all we did was bring ruin to the rest of you. I’ll take you there myself if it’ll end this.”
 
 #### Approach to the Bandit Cave
 
@@ -608,7 +608,7 @@ The cave is located in a rocky outcrop at the base of a forested ridge. Dense tr
 
 _(Thárion stands tall, his hand resting on the hilt of his sword. His tone is both commanding and filled with bitter pride.)_
 
-“You know, I wasn’t always living like this. Scraping by in the dirt. Hiding in shadows. No, I once stood in the light, head held high as a lord of these lands. Belsarèn was mine—my family’s. We cared for its people, protected them, helped them prosper. Until Târlas al Pélanvri came.”
+“You know, I wasn’t always living like this. Scraping by in the dirt. Hiding in shadows. No, I once stood in the light, head held high as a lord of these lands. Belsaren was mine—my family’s. We cared for its people, protected them, helped them prosper. Until Tarlas al Pélanvri came.”
 
 _(He begins to pace, his voice growing sharper.)_
 
@@ -616,11 +616,11 @@ _(He begins to pace, his voice growing sharper.)_
 
 _(He stops, locking eyes with the adventurers.)_
 
-“And now, they call me a bandit. A bandit. But tell me this: what would you do if everything you were, everything you loved, was stolen from you? Would you bow and scrape like the Thânevar forced to work their fields? Or would you rise, as I have, and take back what is yours?”
+“And now, they call me a bandit. A bandit. But tell me this: what would you do if everything you were, everything you loved, was stolen from you? Would you bow and scrape like the Tanevar forced to work their fields? Or would you rise, as I have, and take back what is yours?”
 
 _(His tone softens slightly, though his intensity remains.)_
 
-“You have a choice here, just as I did. Târlas is no lord—he’s a thief playing dress-up. But me? I’ve ruled before. I know what it takes. I can rebuild Belsarèn into something greater than it’s ever been. And you... you could be part of that.”
+“You have a choice here, just as I did. Tarlas is no lord—he’s a thief playing dress-up. But me? I’ve ruled before. I know what it takes. I can rebuild Belsaren into something greater than it’s ever been. And you... you could be part of that.”
 
 ##### If the Adventurers Question His Decision to Attack the Village
 
@@ -630,17 +630,17 @@ _(Thárion’s face hardens, his voice low and bitter.)_
 
 _(He pauses, then clenches his fists.)_
 
-“But what choice did I have? The people forgot me. They bowed to Târlas, fed his greed, turned their backs on their rightful lord. If fear is the only way to remind them of who I am, then so be it. Better they fear me than love him.”
+“But what choice did I have? The people forgot me. They bowed to Tarlas, fed his greed, turned their backs on their rightful lord. If fear is the only way to remind them of who I am, then so be it. Better they fear me than love him.”
 
 _(He glares at the adventurers, his voice rising with defiance.)_
 
-“And you—would you have stood idly by while Târlas stole everything from you? Don’t lecture me on morality until you’ve lived through the fire I have.”
+“And you—would you have stood idly by while Tarlas stole everything from you? Don’t lecture me on morality until you’ve lived through the fire I have.”
 
 ##### If the Adventurers Argue He’s Becoming What He Hates
 
 _(Thárion freezes for a moment, then exhales sharply, his expression darkening.)_
 
-“Maybe you’re right. Maybe I’ve become what I swore to destroy. But tell me, does that make Târlas any less of a tyrant? Does it make the Provenzians’ hold on Belsarèn any less cruel? I’d rather burn everything down than let them keep their hands on it.”
+“Maybe you’re right. Maybe I’ve become what I swore to destroy. But tell me, does that make Tarlas any less of a tyrant? Does it make the Provenzians’ hold on Belsaren any less cruel? I’d rather burn everything down than let them keep their hands on it.”
 
 _(His voice drops, quieter but more venomous.)_
 
@@ -650,7 +650,7 @@ _(His voice drops, quieter but more venomous.)_
 
 _(Thárion’s laugh is cold, echoing off the cavern walls.)_
 
-“Surrender? To what? To chains? To Târlas’s mockery of justice? I’d sooner die on my feet than live on my knees, forgotten and disgraced. No. If I fall here, it will be as the lord of Belsarèn, not as some broken man begging for mercy.”
+“Surrender? To what? To chains? To Tarlas’s mockery of justice? I’d sooner die on my feet than live on my knees, forgotten and disgraced. No. If I fall here, it will be as the lord of Belsaren, not as some broken man begging for mercy.”
 
 _(He draws his sword, his eyes blazing with defiance.)_
 
@@ -664,14 +664,14 @@ _(Thárion’s expression flickers with something between anger and guilt.)_
 
 _(His tone shifts, defensive now.)_
 
-“But don’t think for a second that this rebellion is some puppet show for the Black Flame’s priests. This is about Belsarèn. About justice. About taking back what’s mine. Whatever my lieutenants believe, they believe in me. That’s all you need to know.”
+“But don’t think for a second that this rebellion is some puppet show for the Black Flame’s priests. This is about Belsaren. About justice. About taking back what’s mine. Whatever my lieutenants believe, they believe in me. That’s all you need to know.”
 
 #### Final Confrontation with Thárion
 
 During the final confrontation, Tharion and his lieutenants fight fiercely. If things start going poorly for him, he will call a truce, and speak his final plea:
 
 **Thárion (Bloodied but Defiant):**  
-_"You fools! You think this rebellion is about me? It’s not. I was a tool, a pawn, manipulated by Kílan alrí Ilóvrel! That cunning devil is playing a game far bigger than this village—than all of us! He whispered promises of a free Belsarèn, but his true goal has nothing to do with the Thânevar cause. If you’re smart, you’ll want to know what he’s really after. Let me go, and I’ll give you the name of the informant who knows everything."_
+_"You fools! You think this rebellion is about me? It’s not. I was a tool, a pawn, manipulated by Kilan alrí Ilovrel! That cunning devil is playing a game far bigger than this village—than all of us! He whispered promises of a free Belsaren, but his true goal has nothing to do with the Tanevar cause. If you’re smart, you’ll want to know what he’s really after. Let me go, and I’ll give you the name of the informant who knows everything."_
 
 ##### Outcome
 
@@ -680,13 +680,13 @@ As the adventurers triumph, the remaining bandits either flee or surrender. Amon
 ##### Consequences of Victory
 
 - **Reward:** Among the loot, they find a stash of silver, valuable goods taken from raids, a journal, and a letter. The journal includes mention of receiving a letter from an unknown person with a keyword “grove”.
-- **Letter**: The letter is written on slightly crinkled parchment, folded carefully and sealed with dark red wax bearing an unmarked seal. The handwriting is neat and precise, hinting at an educated author. It is from “a friend” suggesting Kílan has been feeding false information and providing resources to Thárion for a larger unexplained scheme having nothing to do with the Thânevar cause, and suggesting a meeting where he can offer proof.
+- **Letter**: The letter is written on slightly crinkled parchment, folded carefully and sealed with dark red wax bearing an unmarked seal. The handwriting is neat and precise, hinting at an educated author. It is from “a friend” suggesting Kilan has been feeding false information and providing resources to Thárion for a larger unexplained scheme having nothing to do with the Tanevar cause, and suggesting a meeting where he can offer proof.
 
   > Thárion,
   >
-  > Your cause is just, but you’ve been blind to the true game. Those who claim to support you weave a far darker web than you imagine. Resources sent your way were no charity—they were bait. They manipulate you to destabilize Belsarèn not for the Thânevar people, but for a scheme you do not understand.
+  > Your cause is just, but you’ve been blind to the true game. Those who claim to support you weave a far darker web than you imagine. Resources sent your way were no charity—they were bait. They manipulate you to destabilize Belsaren not for the Tanevar people, but for a scheme you do not understand.
   >
-  > If you wish to learn the truth, meet me in the grove near Ilovrèn on the night of the new moon. I can provide proof of Kílan’s lies. But come alone, for your safety and mine.
+  > If you wish to learn the truth, meet me in the grove near Ilovren on the night of the new moon. I can provide proof of Kilan’s lies. But come alone, for your safety and mine.
   >
   > Yours in the shadows, A Friend
 
@@ -698,90 +698,90 @@ As the adventurers triumph, the remaining bandits either flee or surrender. Amon
   DARISENISYOURFRIENDANDALLYNOW
   ```
 
-- **Resolution:** The adventurers must decide what to do with Thárion (if he survived), his remaining men, and any villagers who supported him. They may also choose to follow up on Kílan’s potential involvement or focus on collecting their reward for quelling the bandit threat.
-- If Thárion survives and the adventurers let him go in exchange for the informant’s identity, they secure a contact who knows Kílan’s plans. This informant’s information sets the stage for the next adventure, unveiling Kílan’s deeper schemes.
-- Târlas rewards the adventurers but grows increasingly suspicious of the Black Flame connections, urging them to continue investigating while he tightens control over the village.
+- **Resolution:** The adventurers must decide what to do with Thárion (if he survived), his remaining men, and any villagers who supported him. They may also choose to follow up on Kilan’s potential involvement or focus on collecting their reward for quelling the bandit threat.
+- If Thárion survives and the adventurers let him go in exchange for the informant’s identity, they secure a contact who knows Kilan’s plans. This informant’s information sets the stage for the next adventure, unveiling Kilan’s deeper schemes.
+- Tarlas rewards the adventurers but grows increasingly suspicious of the Black Flame connections, urging them to continue investigating while he tightens control over the village.
 
 #### Adventure Notes
 
 ##### Villager's Interest in Supporting the Bandits
 
-The villagers in Belsarèn have long been happy with the situation of being led by a Thânevar lord. Recently, after Thárion was deposed, the new lord Târlas has demonstrated he holds deep contempt for the Thânevar people, whom he (rightly) believes are providing assistance to the bandits. His heavy-handed governance, driven by his obsessive need to deal with the bandits, is marked by excessive punishments, land seizures, and a dismissive attitude toward the well-being of the Thânevar. This has bred resentment among the Thânevar. The bandits, led by a former noble named **Tharion el Dracáen**, have gained the villagers’ support by providing protection, money, and even food in exchange for assistance. Tharion positions himself as a champion of the poor against their overlord to the villagers.
+The villagers in Belsaren have long been happy with the situation of being led by a Tanevar lord. Recently, after Thárion was deposed, the new lord Tarlas has demonstrated he holds deep contempt for the Tanevar people, whom he (rightly) believes are providing assistance to the bandits. His heavy-handed governance, driven by his obsessive need to deal with the bandits, is marked by excessive punishments, land seizures, and a dismissive attitude toward the well-being of the Tanevar. This has bred resentment among the Tanevar. The bandits, led by a former noble named **Tharion el Dracaen**, have gained the villagers’ support by providing protection, money, and even food in exchange for assistance. Tharion positions himself as a champion of the poor against their overlord to the villagers.
 
-However, not all villagers agree with supporting the bandits. The Provenzian villagers, led by a farmer named **Rhéman**, believe the bandits only bring destruction. This internal division becomes crucial as the adventure unfolds.
+However, not all villagers agree with supporting the bandits. The Provenzian villagers, led by a farmer named **Rheman**, believe the bandits only bring destruction. This internal division becomes crucial as the adventure unfolds.
 
 ##### Why do the bandits betray the villagers and use them as human shields?
 
-Thárion is motivated by revenge against Târlas Pélanvri, who orchestrated the loss of Thárion’s noble title and land. While Thárion initially has the villagers’ trust, he grows increasingly desperate when the adventurers begin closing in on the bandit hideout. Thárion, seeing no way out, turns on the villagers. He uses the Provenzian villagers as human shields during a crucial ambush, believing that this will give him a tactical advantage against the adventurers.
+Thárion is motivated by revenge against Tarlas Pélanvri, who orchestrated the loss of Thárion’s noble title and land. While Thárion initially has the villagers’ trust, he grows increasingly desperate when the adventurers begin closing in on the bandit hideout. Thárion, seeing no way out, turns on the villagers. He uses the Provenzian villagers as human shields during a crucial ambush, believing that this will give him a tactical advantage against the adventurers.
 
-This act fractures the bandits’ relationship with the villagers. The Thânevar villagers, who had once idolized Thárion, now feel betrayed and lost, while Rhéman’s faction becomes even more vocal in their opposition, calling for cooperation with Târlas (despite Târlas' cruel governance). This divide opens up an opportunity for the adventurers to either exploit the villagers’ anger or help broker a truce.
+This act fractures the bandits’ relationship with the villagers. The Tanevar villagers, who had once idolized Thárion, now feel betrayed and lost, while Rheman’s faction becomes even more vocal in their opposition, calling for cooperation with Tarlas (despite Tarlas' cruel governance). This divide opens up an opportunity for the adventurers to either exploit the villagers’ anger or help broker a truce.
 
 ##### Factions within the Villagers
 
-- **Thânevar Faction (Led by Vêrek, the innkeeper):** These villagers see Thárion as a hero, nostalgic for his prior rule and providing the protection against Târlas. They are quietly rebellious, often engaging in clandestine activities to support the bandits, such as smuggling and passing information.
-- **Provenzian Faction (Led by Gjárken, the Reeve):** These villagers, who are Provenzian, are not the target of Târlas' ire, and have fared better under his rule. Gjárken, the Reeve, argues that supporting the bandits will only bring ruin and that support of Târlas is the answer.
+- **Tanevar Faction (Led by Verek, the innkeeper):** These villagers see Thárion as a hero, nostalgic for his prior rule and providing the protection against Tarlas. They are quietly rebellious, often engaging in clandestine activities to support the bandits, such as smuggling and passing information.
+- **Provenzian Faction (Led by Gjarken, the Reeve):** These villagers, who are Provenzian, are not the target of Tarlas' ire, and have fared better under his rule. Gjarken, the Reeve, argues that supporting the bandits will only bring ruin and that support of Tarlas is the answer.
 
 ##### Dynamic Shifts after Villager's used as Human Shields
 
-Once the bandits betray the villagers, the divide between the two village factions becomes more complex. Vêrek and the other Thânevar villagers are terrified by the violence in their village, and about repercussions from Târlas. Gjárken seizes the opportunity to push for cooperation with the adventurers, advocating for assisting the adventurers to eliminate Thárion.
+Once the bandits betray the villagers, the divide between the two village factions becomes more complex. Verek and the other Tanevar villagers are terrified by the violence in their village, and about repercussions from Tarlas. Gjarken seizes the opportunity to push for cooperation with the adventurers, advocating for assisting the adventurers to eliminate Thárion.
 
 However, the betrayal also radicalizes some of the younger villagers, who may become rogue elements, continuing to support the bandits in a more extremist manner. The adventurers must navigate this volatile situation, where old alliances are breaking down, and new factions are emerging.
 
 ##### History of Thárion, the Bandit Chief
 
-**Thárion el Dracáen** is a former noble who was stripped of his title and land after a political maneuver by Khiráta Jârvel. Thárion’s family was accused of treason, a charge fabricated by Jârvel to consolidate power in the region. Jârvel has installed Târlas as lord of the manor, with the task of eliminating the bandit threat. Now a bandit leader, Thárion sees his cause as just, framing his actions as revenge against Jârvel and Târlas and justice for the oppressed Thânevar villagers. His descent into banditry, however, has changed him. Once idealistic, he is now driven by vengeance and desperation.
+**Thárion el Dracaen** is a former noble who was stripped of his title and land after a political maneuver by Khirata Jarvel. Thárion’s family was accused of treason, a charge fabricated by Jarvel to consolidate power in the region. Jarvel has installed Tarlas as lord of the manor, with the task of eliminating the bandit threat. Now a bandit leader, Thárion sees his cause as just, framing his actions as revenge against Jarvel and Tarlas and justice for the oppressed Tanevar villagers. His descent into banditry, however, has changed him. Once idealistic, he is now driven by vengeance and desperation.
 
-Thárion is an experienced swordsman and tactician, with a knack for setting deadly traps and ambushes. He commands a small but loyal group of outlaws, most of whom have personal grievances against Târlas and the Provenzians in general. His hideout is a series of caves in the Keravèl Vale, heavily fortified with natural defenses.
+Thárion is an experienced swordsman and tactician, with a knack for setting deadly traps and ambushes. He commands a small but loyal group of outlaws, most of whom have personal grievances against Tarlas and the Provenzians in general. His hideout is a series of caves in the Keravel Vale, heavily fortified with natural defenses.
 
 ##### The Local Noble Manipulating the Bandit Leader
 
-**Kílan alrí Ilóvrel** is the local noble behind the manipulation of Thárion. Kílan is a calculating man with aspirations to control the resources of Belsarèn, particularly its valuable timber and minerals. By secretly supporting Thárion’s bandit activities, he hopes to weaken Târlas’s grip on Belsarèn, destabilizing it enough for him to make a claim for power.
+**Kilan alrí Ilovrel** is the local noble behind the manipulation of Thárion. Kilan is a calculating man with aspirations to control the resources of Belsaren, particularly its valuable timber and minerals. By secretly supporting Thárion’s bandit activities, he hopes to weaken Tarlas’s grip on Belsaren, destabilizing it enough for him to make a claim for power.
 
-Kílan’s primary goal is to leverage the chaos created by the bandits to convince Jârvel that Târlas is unfit to govern. Kílan has been arguing to Jârvel that he could do a better job of eliminating the bandits, and the longer the bandit situation persists, the more Jârvel is likely to consider it. If Târlas were removed or replaced, Kílan could step in to claim Belsarèn, using his wealth and influence to secure a new title. He manipulates Thárion by feeding him false intelligence about Târlas’s movements while providing material support to Thárion through intermediaries. Thárion believes Kílan is an ally in his cause, unaware that the noble is merely using him as a pawn.
+Kilan’s primary goal is to leverage the chaos created by the bandits to convince Jarvel that Tarlas is unfit to govern. Kilan has been arguing to Jarvel that he could do a better job of eliminating the bandits, and the longer the bandit situation persists, the more Jarvel is likely to consider it. If Tarlas were removed or replaced, Kilan could step in to claim Belsaren, using his wealth and influence to secure a new title. He manipulates Thárion by feeding him false intelligence about Tarlas’s movements while providing material support to Thárion through intermediaries. Thárion believes Kilan is an ally in his cause, unaware that the noble is merely using him as a pawn.
 
-##### Kílan’s Goals and Manipulation
+##### Kilan’s Goals and Manipulation
 
-1.  **Destabilize Târlas:** Kílan provides the bandits with just enough support to continue their raids but ensures they never grow too strong. This allows the bandit problem to persist without escalating to the point where outside forces intervene.
-2.  **Undermine Târlas’s Reputation:** By fostering continued unrest, Kílan can make the claim that Târlas is ineffective, encouraging Jârvel to question his fitness as a ruler.
-3.  **Claim Keravèl’s Resources:** Once Târlas is removed, Kílan plans to swoop in, claiming to be the one who can restore order, thereby securing control over Belsarèn’s valuable timber and mineral resources, as well as access to the **Blood Hills**.
+1.  **Destabilize Tarlas:** Kilan provides the bandits with just enough support to continue their raids but ensures they never grow too strong. This allows the bandit problem to persist without escalating to the point where outside forces intervene.
+2.  **Undermine Tarlas’s Reputation:** By fostering continued unrest, Kilan can make the claim that Tarlas is ineffective, encouraging Jarvel to question his fitness as a ruler.
+3.  **Claim Keravel’s Resources:** Once Tarlas is removed, Kilan plans to swoop in, claiming to be the one who can restore order, thereby securing control over Belsaren’s valuable timber and mineral resources, as well as access to the **Blood Hills**.
 
-Kílan is careful to maintain plausible deniability, keeping his dealings with the bandits hidden. He communicates through intermediaries, leaving no direct trail back to him. The adventurers may uncover his involvement by intercepting one of these messengers or by piecing together inconsistencies in the intelligence the bandits are acting upon.
+Kilan is careful to maintain plausible deniability, keeping his dealings with the bandits hidden. He communicates through intermediaries, leaving no direct trail back to him. The adventurers may uncover his involvement by intercepting one of these messengers or by piecing together inconsistencies in the intelligence the bandits are acting upon.
 
 #### Conclusion
 
-The fate of Keravèl Vale rests in the adventurers’ hands. They can choose to broker peace between the villagers and Târlas, expose Kílan's manipulation (which may have serious political consequences), or focus solely on eliminating the bandit threat. Alternatively, they may try to act on their own and investigate Kílan's plans.
+The fate of Keravel Vale rests in the adventurers’ hands. They can choose to broker peace between the villagers and Tarlas, expose Kilan's manipulation (which may have serious political consequences), or focus solely on eliminating the bandit threat. Alternatively, they may try to act on their own and investigate Kilan's plans.
 
 ## Rumors
 
 ### Villager Rumors
 
-These are some rumors that are circulating through the village. The Thânevar villagers in particular will be very wary of new people, especially associated with Târlas. The Provenzian villagers, while more receptive, are also cautious of speaking too much and disrupting their connections with the Thânevar villagers any further.
+These are some rumors that are circulating through the village. The Tanevar villagers in particular will be very wary of new people, especially associated with Tarlas. The Provenzian villagers, while more receptive, are also cautious of speaking too much and disrupting their connections with the Tanevar villagers any further.
 
-1. Thárion is a noble who was wrongfully stripped of his title by Târlas and now fights to reclaim his land and honor. (Mostly true, as Thárion was indeed deposed and harbors resentment toward Târlas.)
+1. Thárion is a noble who was wrongfully stripped of his title by Tarlas and now fights to reclaim his land and honor. (Mostly true, as Thárion was indeed deposed and harbors resentment toward Tarlas.)
 
-2. Thárion’s hideout is hidden deep within the Vale of Keravèl, where he has set up surprises for any who try to find him. (True, as his hideout is fortified with traps, though its exact location is kept secret.)
+2. Thárion’s hideout is hidden deep within the Vale of Keravel, where he has set up surprises for any who try to find him. (True, as his hideout is fortified with traps, though its exact location is kept secret.)
 
-3. Thárion seeks to become a hero for the Thânevar peasants, vowing to drive out the oppressive Provenzian lords and let the locals rule themselves. (Partially true, as Thárion does position himself as a hero to the Thânevar people, though his motives are more personal.)
+3. Thárion seeks to become a hero for the Tanevar peasants, vowing to drive out the oppressive Provenzian lords and let the locals rule themselves. (Partially true, as Thárion does position himself as a hero to the Tanevar people, though his motives are more personal.)
 
 4. He’s hiding in an abandoned fortress from the old wars, where ghosts of the fallen protect him and his men. (False, but a common superstition among villagers about haunted ruins in the Vale.)
 
-5. Thárion made a pact with Black Flame warriors, who have sworn to help him bring down Târlas. Anyone who goes against him risks the Black Flame’s wrath. (True in part, as Black Flame influence may be closer than people realize, though Thárion himself doesn’t know of Kílan’s deeper Black Flame connections.)
+5. Thárion made a pact with Black Flame warriors, who have sworn to help him bring down Tarlas. Anyone who goes against him risks the Black Flame’s wrath. (True in part, as Black Flame influence may be closer than people realize, though Thárion himself doesn’t know of Kilan’s deeper Black Flame connections.)
 
-6. The bandit leader is not a noble at all, just a ruthless brigand pretending to be one to gain the villagers’ trust. (False, but a rumor possibly spread by Târlas’ loyalists to discredit Thárion’s claim to nobility.)
+6. The bandit leader is not a noble at all, just a ruthless brigand pretending to be one to gain the villagers’ trust. (False, but a rumor possibly spread by Tarlas’ loyalists to discredit Thárion’s claim to nobility.)
 
-7. Thárion has gathered powerful allies from outside the Vale, promising to help them seize Belsarèn in exchange for their support. (False, though it’s plausible and feeds into local fears of foreign invasion.)
+7. Thárion has gathered powerful allies from outside the Vale, promising to help them seize Belsaren in exchange for their support. (False, though it’s plausible and feeds into local fears of foreign invasion.)
 
-8. They say Thárion’s gathering an army to storm Belsarèn itself and overthrow Târlas. Some villagers think it will happen soon, and they’re preparing for the fight. (False, as Thárion’s band is too small to mount an open assault, but the rumor stirs the peasants’ hopes and fears.)
+8. They say Thárion’s gathering an army to storm Belsaren itself and overthrow Tarlas. Some villagers think it will happen soon, and they’re preparing for the fight. (False, as Thárion’s band is too small to mount an open assault, but the rumor stirs the peasants’ hopes and fears.)
 
-9. Thárion has a new backer, a rich merchant from another town who despises Târlas and wants revenge for a lost trade deal. (Suggests that Thárion’s support is external and financial rather than political.)
+9. Thárion has a new backer, a rich merchant from another town who despises Tarlas and wants revenge for a lost trade deal. (Suggests that Thárion’s support is external and financial rather than political.)
 
-10. The real mastermind behind all this chaos is a foreign lord. He’s funding Thárion to destabilize Belsarèn for an invasion. (false, and a possible misdirection.)
+10. The real mastermind behind all this chaos is a foreign lord. He’s funding Thárion to destabilize Belsaren for an invasion. (false, and a possible misdirection.)
 
 11. Thárion’s hideout changes weekly, but the last one was far north near an old ruins site. You should search there. (An attempt to send the adventurers in the wrong direction.)
 
 12. Thárion has taken prisoners, mostly nobles’ men, to bargain for resources. You’ll find them in an abandoned mine to the east. (A false location to divert resources and focus.)
 
-13. A local woman heard from her brother who's married to the sister of a servant from Kílan’s nalôrd that a mysterious figure resembling Thárion visited secretly one night. (False, though it adds a compelling layer of mystery.)
+13. A local woman heard from her brother who's married to the sister of a servant from Kilan’s nalord that a mysterious figure resembling Thárion visited secretly one night. (False, though it adds a compelling layer of mystery.)
 
 14. The bandits recruit only those who can survive a brutal initiation ritual, where they must defeat one of Thárion’s lieutenants in combat. (False, but it suggests a fearsome entry process that could deter potential spies.)
 
@@ -807,21 +807,21 @@ These are some rumors that are circulating through the village. The Thânevar vi
 
 If bandits are caught and interrogated, or if the party members join the bandit group, the following rumors may be gleaned.
 
-1. **Religious Misdirection:** “We’ve been paid by someone from a temple, but they say little about who’s really giving the orders.” (An attempt to suggest a religious or distant benefactor, muddying the true connection with Kílan.)
+1. **Religious Misdirection:** “We’ve been paid by someone from a temple, but they say little about who’s really giving the orders.” (An attempt to suggest a religious or distant benefactor, muddying the true connection with Kilan.)
 
-2. **Thárion’s Motivations:** “Look, Thárion... he wasn’t in this just for gold or revenge. He’s convinced he’s fighting for justice, to reclaim his birthright. The man thinks he’s some kind of hero, standing up for the Thânevar folk who’ve had it rough under Târlas. Says he’s the only one willing to stand up to that tyrant.”
+2. **Thárion’s Motivations:** “Look, Thárion... he wasn’t in this just for gold or revenge. He’s convinced he’s fighting for justice, to reclaim his birthright. The man thinks he’s some kind of hero, standing up for the Tanevar folk who’ve had it rough under Tarlas. Says he’s the only one willing to stand up to that tyrant.”
 
 3. **Details about the Bandit Camp:** “You think we’re just sitting ducks in that cave? Think again. Thárion’s rigged the place with traps—collapsing tunnels, fake exits where his best lie in wait. He even poisoned a water source once, just in case any fool thought to sneak in thirsty. You’d be walking into your own graves.”
 
 4. **Hints of Internal Tension:** “Not all of us are as loyal as Thárion likes to think. Some of the lads, they don’t agree with his ‘righteous cause’ or whatever he calls it. Thought his plans were too reckless, like that last ambush where so many of us died. But no one dares speak against him... not to his face, anyway.”
 
-5. **Support from Villagers:** “We get a lot of help from certain folks in the villages. They’re sick of Târlas, too. Some give us food, shelter, even warn us when soldiers are on the move. You want names? I could tell you about a couple... folks who’ve been a bit more generous than the rest.”
+5. **Support from Villagers:** “We get a lot of help from certain folks in the villages. They’re sick of Tarlas, too. Some give us food, shelter, even warn us when soldiers are on the move. You want names? I could tell you about a couple... folks who’ve been a bit more generous than the rest.”
 
-6. **Kílan’s Influence (Unintentionally):** “There’s been supplies lately... good quality, too. No idea who’s sending them, just that they’re left where we can find ‘em, like a gift. Keeps us going, just enough. Thárion calls it a blessing, but I dunno... feels strange, like someone’s got their own game going on.”
+6. **Kilan’s Influence (Unintentionally):** “There’s been supplies lately... good quality, too. No idea who’s sending them, just that they’re left where we can find ‘em, like a gift. Keeps us going, just enough. Thárion calls it a blessing, but I dunno... feels strange, like someone’s got their own game going on.”
 
 7. **The Black Flame Rumor:** “Some of the new lads... they’ve started doing these weird prayers before a raid. Black Flame ones, I think. Makes the rest of us nervous, but they say it brings protection from the flame god. Thárion doesn’t pay it much mind, but it’s creeping some of us out.”
 
-8. **Thárion’s Future Plans:** “Thárion’s talking about hitting Târlas harder than ever before. Maybe even raiding his estate if he thinks he can pull it off. He’s planning something big, real soon. Reckons it’s time to make his mark and show he’s not backing down.”
+8. **Thárion’s Future Plans:** “Thárion’s talking about hitting Tarlas harder than ever before. Maybe even raiding his estate if he thinks he can pull it off. He’s planning something big, real soon. Reckons it’s time to make his mark and show he’s not backing down.”
 
 9. **A Rival Bandit Faction:** “There’s another band out there... they don’t follow Thárion. They think he’s gone soft, too obsessed with being a ‘hero’ and not hard enough on the folk who cross us. They might even be open to taking on a job... if it suited them, that is.”
 
@@ -829,6 +829,6 @@ If bandits are caught and interrogated, or if the party members join the bandit 
 
 11. **Escape Routes and Weaknesses:** “That cave? Yeah, it’s got a few ways out, if you know where to look. There’s a back way hidden in the rocks, and I know a weak spot where a hard enough strike would bring down half the barricade. We’ve got some hidden supplies there, too—things we don’t want outsiders finding.”
 
-12. **Resentment Against Târlas:** “Ever heard what Târlas does to the Thânevar folk? He seizes land, beats them bloody, taxes them till they’re starving. Doesn’t care a lick for their lives. That’s why most of us fight, you see? ‘Cause no one else will stand up for ‘em. Thárion... he believes in that, even if some of us don’t.”
+12. **Resentment Against Tarlas:** “Ever heard what Tarlas does to the Tanevar folk? He seizes land, beats them bloody, taxes them till they’re starving. Doesn’t care a lick for their lives. That’s why most of us fight, you see? ‘Cause no one else will stand up for ‘em. Thárion... he believes in that, even if some of us don’t.”
 
 13. **Rumors of a Powerful Artifact:** “There’s talk of something powerful out there in the hills, some Black Flame relic. Few of Thárion’s men have got it into their heads it’s real. Thárion doesn’t give it much thought—calls it superstition—but some of those Black Flame lads... they think it could turn the tide.”

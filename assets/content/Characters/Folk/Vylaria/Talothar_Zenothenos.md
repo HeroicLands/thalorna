@@ -1,9 +1,9 @@
 ---
 shortcode: talotharzeno
-name: {full: Talôthar Zênôthênôs, aliases: [Harbormaster Talôthar, Master Harbormaster Talôthar]}
+name: {full: Talothar Zenothenos, aliases: [Harbormaster Talothar, Master Harbormaster Talothar]}
 type: being
 subType: npc
-description: The official overseer of a city's harbor, who gives Brânalenîs Bárkalâs word of incoming vessels.
+description: The official overseer of a city's harbor, who gives Branalenis Bárkalas word of incoming vessels.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Talôthar Zênôthênôs is a 43-year-old man who stands 5'10" tall with a heavy build. He has light skin, weathered complexion, black hair, and dark brown eyes.
+Talothar Zenothenos is a 43-year-old man who stands 5'10" tall with a heavy build. He has light skin, weathered complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Talôthar Zênôthênôs is the harbormaster, the official overseer of the harbor. He gives [[being-brnlnsbrkls|Brânalenîs Bárkalâs]] information about incoming vessels seeking crew and occasionally intervenes with less scrupulous captains. Certain merchants who see him as an obstacle have subtly worked to undermine his authority.
+Talothar Zenothenos is the harbormaster, the official overseer of the harbor. He gives [[being-brnlnsbrkls|Branalenis Bárkalas]] information about incoming vessels seeking crew and occasionally intervenes with less scrupulous captains. Certain merchants who see him as an obstacle have subtly worked to undermine his authority.

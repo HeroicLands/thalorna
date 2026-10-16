@@ -3,12 +3,12 @@ shortcode: bolidqiso
 name: {full: Bolidqiiso, aliases: [The Counting-House Tower, The Price-Tower]}
 type: place
 subType: site
-description: "A counting-house tower of the Tower League in a street of Vülüd that the dunes have uncovered, with its balances, its strongroom and the stone watchman that still keeps its door."
+description: "A counting-house tower of the Tower League in a street of Vulud that the dunes have uncovered, with its balances, its strongroom and the stone watchman that still keeps its door."
 tags: [draft, ruin, tower, construct]
 data: {demonym: null, lore: [], parents: [wilud], population: 0, packFolder: khazryndesert}
 ---
 
-A street of merchants' houses on the eastern edge of [[place-wilud|Vülüd]] ends at a square tower of baked brick four stories high. A sand-front opened the street four years ago, a drift half filled its lower end the season after, and this season the wind has scoured the drift out again, so that the tower's doorway stands clear to its sill. The [[affiliation-rwlstrb|Uruvolur]] who found it call it **Bolidqiiso**, "the price-tower", because its lower floors are a counting-house of the [[lore-towercities|Tower League]], with its balances still standing, and because they have already sold the news of it twice.
+A street of merchants' houses on the eastern edge of [[place-wilud|Vulud]] ends at a square tower of baked brick four stories high. A sand-front opened the street four years ago, a drift half filled its lower end the season after, and this season the wind has scoured the drift out again, so that the tower's doorway stands clear to its sill. The [[affiliation-rwlstrb|Uruvolur]] who found it call it **Bolidqiiso**, "the price-tower", because its lower floors are a counting-house of the [[lore-towercities|Tower League]], with its balances still standing, and because they have already sold the news of it twice.
 
 ## What It Is
 
@@ -44,7 +44,7 @@ The league's writing has never been read, and the signs on the watchman can be r
 - **They say** it does not cross a threshold out of the counting-house: not the service door, not the lamp-stair, and not the shaded entrance once the sand has filled it.
 - **The market at [[place-qisomrktcmp|Qiiso]]** says a whole seal of the league is a pass, and that the figure does not trouble anyone who holds one up to it. A collector there pays more for a whole seal than for a broken one on the strength of it.
 - **The tellers who have seen the palms close** say the signs that bind it are cut into its palms, which is why they are not worn away, and that a construct whose signs are broken stops.
-- **Uruvolun** tells the street at the fire at Qiiso as the street she sold twice. Her tale has a counting-house door at the end of the street, which the Tāntsou collector's men reached first, and has them carry out seals and weights of the counting-house while she waited at the street. The Uruvolur say Bolidqiiso is that door, and that the Tāntsou's men were the first into the house in two thousand years. In the tale both buyers went home content.
+- **Uruvolun** tells the street at the fire at Qiiso as the street she sold twice. Her tale has a counting-house door at the end of the street, which the Tantsou collector's men reached first, and has them carry out seals and weights of the counting-house while she waited at the street. The Uruvolur say Bolidqiiso is that door, and that the Tantsou's men were the first into the house in two thousand years. In the tale both buyers went home content.
 
 ## Treasure
 
@@ -56,16 +56,16 @@ The strongroom floor rings hollow because the league's silver lies beneath its f
 
 ## Reaching It
 
-The street lies on the eastern side of the city, open for a few years at most before the next sand-front closes it. Uruvolun, a guide of the Uruvolur who has sold Vülüd's streets before, has sold the news of the cleared doorway to two buyers at [[place-qisomrktcmp|Qiiso]] this season, a Byzarian factor and a Tāntsou collector, and guides whichever of them arrives first.
+The street lies on the eastern side of the city, open for a few years at most before the next sand-front closes it. Uruvolun, a guide of the Uruvolur who has sold Vulud's streets before, has sold the news of the cleared doorway to two buyers at [[place-qisomrktcmp|Qiiso]] this season, a Bizarian factor and a Tantsou collector, and guides whichever of them arrives first.
 
 ## See Also
 
-- [[place-wilud|Vülüd]]—the half-buried city
+- [[place-wilud|Vulud]]—the half-buried city
 - [[lore-towercities|The Tower Cities]]—the league that built it
 - [[lore-golemcrtr|Constructs]]—what the watchman is
 - [[affiliation-rwlstrb|Uruvolur]]—who found the street
 - [[lore-roadnights|The Nights of the Road]]—Uruvolun's tale of the street sold twice
-- [[scenario-wludwtchmn|The Watchman beneath Vülüd]]—a scenario set here
+- [[scenario-wludwtchmn|The Watchman beneath Vulud]]—a scenario set here
 
 # The Truth of Bolidqiiso {#truth .secret}
 
@@ -93,20 +93,20 @@ When the wind drops it lifts the blocks from the service door and goes back to t
 
 **The binding.** The signs that bind it are cut into its palms, which are polished and not worn. Break them with a chisel or a bar and it stops where it stands with its hands still open. Buried in the vaults or hauled to the roof in the great pan, it is still bound, and it works its way back to its doorway within a season.
 
-**Four years ago.** Bolidqiiso's street is the street of Uruvolun's tale. Her second sale of the news went to the Tāntsou collector at Qiiso, whose men reached the street first and forced the counting-house door, the first to open it in two thousand years. On the counting floor they found the last loads the house still held for their owners, caskets of bronze weights each under a whole seal, and carried them out on a still day past the figure at the doorway. Sovidiqraq let them go, because every load they carried was sealed. They broke the seals at their camp and sold seals and weights at Qiiso, and they went home content without knowing why nothing touched them. The tale is true as told. Every sealed load in the house went out with them, and everything left in it is unsealed.
+**Four years ago.** Bolidqiiso's street is the street of Uruvolun's tale. Her second sale of the news went to the Tantsou collector at Qiiso, whose men reached the street first and forced the counting-house door, the first to open it in two thousand years. On the counting floor they found the last loads the house still held for their owners, caskets of bronze weights each under a whole seal, and carried them out on a still day past the figure at the doorway. Sovidiqraq let them go, because every load they carried was sealed. They broke the seals at their camp and sold seals and weights at Qiiso, and they went home content without knowing why nothing touched them. The tale is true as told. Every sealed load in the house went out with them, and everything left in it is unsealed.
 
-**Who is inside this season.** The Byzarian factor's crew of three came in two days before the storm.
+**Who is inside this season.** The Bizarian factor's crew of three came in two days before the storm.
 
 - **The partner.** The wind rose at dusk on their first day and fell by midnight, and the house closed with the crew inside. One man had a sack of weights on his back, and he lies dead in a pan of the great balance with the sack in the other pan and the beam pinned level; he climbed out, and the watchman pressed him back down.
-- **Kesükenöd**, a Sovidur hired hand, had pried a whole seal from the strongroom door-frame and held it up, and the watchman passed him by. He dropped the seal to drag his partner off the pan, and an unsealed man with nothing in his hands in a closed house is stock. He is filed in a niche off the counting floor, alive, his chest pressed so that he cannot breathe deeply.
-- **The hunter**, a Byzarian with the factor's brand on his wrist, sat out the closing on the lamp-stair. At dawn he came down, found his partners gone and filled his pack with weights from the counting-floor balances. The watchman came while his back was turned, and he struck at it with his crowbar. It pressed him flat beside the bench, and his pack lies with him for the next closing.
+- **Kesukenod**, a Sovidur hired hand, had pried a whole seal from the strongroom door-frame and held it up, and the watchman passed him by. He dropped the seal to drag his partner off the pan, and an unsealed man with nothing in his hands in a closed house is stock. He is filed in a niche off the counting floor, alive, his chest pressed so that he cannot breathe deeply.
+- **The hunter**, a Bizarian with the factor's brand on his wrist, sat out the closing on the lamp-stair. At dawn he came down, found his partners gone and filled his pack with weights from the counting-floor balances. The watchman came while his back was turned, and he struck at it with his crowbar. It pressed him flat beside the bench, and his pack lies with him for the next closing.
 
 **The tellings, weighed.**
 
 - **The footprints.** Its head does follow footprints, and it follows the deepest. The prints of the empty-handed do not draw it.
 - **The seal as a pass.** A whole seal covers the man who holds it and nothing he carries besides. Qiiso's collectors pay for whole seals on the strength of a half-truth.
 - **Intruders.** It counts no one as an intruder. It counts thieves, whom it weighs, and stock, which it files.
-- **Uruvolun's tale.** Every word of it holds. Uruvolun took nothing out of the house four years ago, and she has never known why the Tāntsou's men came out whole.
+- **Uruvolun's tale.** Every word of it holds. Uruvolun took nothing out of the house four years ago, and she has never known why the Tantsou's men came out whole.
 
 > [!TIP]
 > Present the watchman as a clerk, never as a hunter. It does not hurry, it does not look at people, and it never goes out of its way for anyone who is carrying nothing. Describe where its head is turned every time it appears, and let the players notice that it is turned toward their packs.

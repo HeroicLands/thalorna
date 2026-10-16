@@ -1,9 +1,9 @@
 ---
 shortcode: tchirnalinaa
-name: {full: Tchîrnâlína Agoríkot, aliases: [High Priestess Tchîrnâlína Agoríkot]}
+name: {full: Chirnalina Agorikot, aliases: [High Priestess Chirnalina Agorikot]}
 type: being
 subType: npc
-description: High priestess and spiritual leader of the temple, who recognizes Bazîa Lokios as one of the priesthood's finest practitioners.
+description: High priestess and spiritual leader of the temple, who recognizes Bazia Lokios as one of the priesthood's finest practitioners.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Tchîrnâlína Agoríkot is a 66-year-old woman who stands 5'10" tall with a medium build. She has tanned skin, smooth complexion, black hair, and brown eyes.
+Chirnalina Agorikot is a 66-year-old woman who stands 5'10" tall with a medium build. She has tanned skin, smooth complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Tchîrnâlína Agoríkot is the high priestess and spiritual leader of the temple. She recognizes [[being-helnmystks|Bazîa Lokios]] as one of the priesthood's finest practitioners and has designated her a primary advisor on healing and community service.
+Chirnalina Agorikot is the high priestess and spiritual leader of the temple. She recognizes [[being-helnmystks|Bazia Lokios]] as one of the priesthood's finest practitioners and has designated her a primary advisor on healing and community service.

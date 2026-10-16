@@ -1,6 +1,6 @@
 ---
 shortcode: thrldvrisldr
-name: {full: Thrildvir Íseldr, given: Thrildvir, clan: Íseldr, aliases: []}
+name: {full: Thrildvir Iseldr, given: Thrildvir, clan: Iseldr, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -417,7 +417,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thrldvrisldr|Thrildvir Íseldr]]{float=top-left}
+![[thrldvrisldr|Thrildvir Iseldr]]{float=top-left}
 
 Thrildvir stands 5'8" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include a rectangular face, a straight nose, a strong jawline, a small mouth, and dark brows. He has a scar above his left eyebrow.
 
@@ -471,7 +471,7 @@ Thrildvir's deepest motivation is fundamentally about creating beauty and meanin
 
 ### Patrons
 
-Lord Gnaldrvir Vrathumakh
+Lord Gnaldrvir Vrathumak
 : A powerful noble and patron of the arts who regularly commissions elaborate ceremonial garments from Thrildvir and has been instrumental in establishing his reputation among the kingdom's elite. Their relationship is cordial in business but personally distant.
 
 The Royal Costume Master

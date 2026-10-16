@@ -41,7 +41,7 @@ data:
         - where the founding sanctuary lay before the oldest stadium was built on it
 ---
 
-The Games are held in the oldest stadium in Heliónis, at the **Sanctuary of the Games**, and every Helionite city sends athletes and a herald. A runner from [[affiliation-thyrenae|Thyrenae]] and a runner from [[affiliation-pelagora|Pelagora]] race side by side there, and a season later their cities may be at war. The First Games are why both of those are true.
+The Games are held in the oldest stadium in Helionis, at the **Sanctuary of the Games**, and every Helionite city sends athletes and a herald. A runner from [[affiliation-thyrenae|Thirenae]] and a runner from [[affiliation-pelagora|Pelagora]] race side by side there, and a season later their cities may be at war. The First Games are why both of those are true.
 
 ## The Meeting
 
@@ -65,5 +65,5 @@ After a battle between two cities the loser's herald walks onto the field under 
 
 - [[lore-heladlandngs|The Landings]]—the settlement that made the cities
 - [[lore-daughtercts|The Daughter-Cities]]—what the cities do next
-- [[affiliation-ctysttshlns|City-States of Heliónis]]—the offices and the herald
+- [[affiliation-ctysttshlns|City-States of Helionis]]—the offices and the herald
 - [[place-gamessanct|The Sanctuary of the Games]]

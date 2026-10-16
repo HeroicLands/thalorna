@@ -1,9 +1,9 @@
 ---
 shortcode: samuratarath
-name: {full: Samūrata Rathamāra, aliases: [Captain Samūrata]}
+name: {full: Samurata Ratamara, aliases: [Captain Samurata]}
 type: being
 subType: npc
-description: Captain of The Merchant's Fortune, a seaman of great repute known for his exacting standards, under whom Vishvāra Mahāpara served.
+description: Captain of The Merchant's Fortune, a seaman of great repute known for his exacting standards, under whom Vishvara Mahapara served.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Samūrata Rathamāra is a 74-year-old man who stands 6'2" tall with a medium build. He has dark brown skin, clear complexion, dark brown hair, and dark brown eyes.
+Samurata Ratamara is a 74-year-old man who stands 6'2" tall with a medium build. He has dark brown skin, clear complexion, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Samūrata Rathamāra was captain of The Merchant's Fortune, a seaman of great repute known for his exacting standards and his unwillingness to tolerate laziness or negligence. [[being-visvarmhpr|Vishvāra Mahāpara]] served under him from cabin boy to first mate, and Samūrata retired at seventy.
+Samurata Ratamara was captain of The Merchant's Fortune, a seaman of great repute known for his exacting standards and his unwillingness to tolerate laziness or negligence. [[being-visvarmhpr|Vishvara Mahapara]] served under him from cabin boy to first mate, and Samurata retired at seventy.

@@ -1,6 +1,6 @@
 ---
 shortcode: chlbrhydyn
-name: {full: Chelèbe Riddìn, given: Chelèbe, clan: Riddìn, aliases: []}
+name: {full: Chelebe Riddin, given: Chelebe, clan: Riddin, aliases: []}
 type: being
 subType: character
 tags: [hero, silent-talon, unguilded, soldiery]
@@ -408,17 +408,17 @@ sohl:
 
 # Appearance {#appearance}
 
-![[chlbrhydyn|Chelèbe Riddìn]]{float=top-left}
+![[chlbrhydyn|Chelebe Riddin]]{float=top-left}
 
-Chelèbe ("cheh-LEH-beh") is a lithe, wiry man of thirty-two with pale, weather-tanned skin, dark brown hair tied back with a leather thong, and watchful hazel eyes. Often cloaked in green and brown for camouflage, he has the stillness of a man who has spent most of his life in the wilderness. He moves through terrain—any terrain—with a quiet sureness that makes him almost invisible when he chooses to be.
+Chelebe ("cheh-LEH-beh") is a lithe, wiry man of thirty-two with pale, weather-tanned skin, dark brown hair tied back with a leather thong, and watchful hazel eyes. Often cloaked in green and brown for camouflage, he has the stillness of a man who has spent most of his life in the wilderness. He moves through terrain—any terrain—with a quiet sureness that makes him almost invisible when he chooses to be.
 
 # Dossier {#dossier}
 
-Chelèbe is an [[lore-aelendnppl|Áelendan]] hunter from the wildernesses of the [[place-drenavrspn|Drenavar Spine]] in northern [[place-provenzrgn|Provènzia]]. Trained from childhood in the ancient Áelendan ways of tracking, archery, and survival, he has spent most of his life navigating the harsh landscapes of his homeland—forests, mountains, and the deep places where few outsiders venture.
+Chelebe is an [[lore-aelendnppl|Áelendan]] hunter from the wildernesses of the [[place-drenavrspn|Drenavar Spine]] in northern [[place-provenzrgn|Provenzia]]. Trained from childhood in the ancient Áelendan ways of tracking, archery, and survival, he has spent most of his life navigating the harsh landscapes of his homeland—forests, mountains, and the deep places where few outsiders venture.
 
-Chelèbe is deeply spiritual, connected to the natural world in a way that his mercenary companions cannot fully understand. His bond with the land and its spirits is not abstract philosophy but a living practice, rooted in the traditions of his tribe and the [[place-eshalshldg|Ésalosa]] lodge to which he belongs. He is a hunter and a protector of the wilderness, and he carries both roles with quiet seriousness.
+Chelebe is deeply spiritual, connected to the natural world in a way that his mercenary companions cannot fully understand. His bond with the land and its spirits is not abstract philosophy but a living practice, rooted in the traditions of his tribe and the [[place-eshalshldg|Ésalosa]] lodge to which he belongs. He is a hunter and a protector of the wilderness, and he carries both roles with quiet seriousness.
 
-He did not join the [[affiliation-slntlncmpny|Silent Talon]] for coin or glory. Chelèbe seeks knowledge of the wider world—an understanding of the forces and conflicts beyond the mountains that increasingly threaten his people. If he can earn enough to help protect the Áelendan and their sacred lands while he is out here, so much the better. Branvàl values him for his sharp eyes, his knowledge of the land, and his ability to scout terrain that would slow or trap less experienced men.
+He did not join the [[affiliation-slntlncmpny|Silent Talon]] for coin or glory. Chelebe seeks knowledge of the wider world—an understanding of the forces and conflicts beyond the mountains that increasingly threaten his people. If he can earn enough to help protect the Áelendan and their sacred lands while he is out here, so much the better. Branval values him for his sharp eyes, his knowledge of the land, and his ability to scout terrain that would slow or trap less experienced men.
 
 ## Background
 
@@ -426,19 +426,19 @@ He did not join the [[affiliation-slntlncmpny|Silent Talon]] for coin or glory. 
 
 - **Tracking**: A master tracker who can follow a trail over rock, through water, and across landscapes that would defeat most pursuers. His Áelendi training makes him one of the finest woodsmen the Silent Talon has ever had.
 - **Archery**: A bowman, deadly at range and capable of the kind of precise, patient shooting that comes from a lifetime of hunting.
-- **Survival**: Chelèbe can live off the land indefinitely. He knows how to find water, build shelter, identify edible plants, and navigate by stars, wind, and terrain.
+- **Survival**: Chelebe can live off the land indefinitely. He knows how to find water, build shelter, identify edible plants, and navigate by stars, wind, and terrain.
 - **Scouting**: Often sent ahead of the band to survey routes, identify ambush sites, and assess the terrain before the main group moves through.
-- **Spiritual Connection**: Chelèbe maintains a deep bond with the spirits of the land, drawing on Áelendi traditions for guidance and protection. This connection is sincere and respected, even if his companions do not fully understand it.
+- **Spiritual Connection**: Chelebe maintains a deep bond with the spirits of the land, drawing on Áelendi traditions for guidance and protection. This connection is sincere and respected, even if his companions do not fully understand it.
 
 ## Psyche
 
 ### Personality
 
-Chelèbe is quiet and introspective, speaking only when necessary. His stoic nature hides a deep reverence for the natural world and the spirits of the land, which sometimes makes him appear detached from the more pragmatic concerns of his companions. He is fiercely loyal to those who earn his trust but remains guarded around outsiders. He is not unfriendly—merely reserved, and more comfortable in the company of trees than of people.
+Chelebe is quiet and introspective, speaking only when necessary. His stoic nature hides a deep reverence for the natural world and the spirits of the land, which sometimes makes him appear detached from the more pragmatic concerns of his companions. He is fiercely loyal to those who earn his trust but remains guarded around outsiders. He is not unfriendly—merely reserved, and more comfortable in the company of trees than of people.
 
 ### Motivation
 
-Chelèbe's goal is to gather enough wealth to secure a future for his tribe and the preservation of the Áelendan ways. He sees the Silent Talon as a means to an end—allowing him to fund the protection of sacred sites from exploitation and encroachment. He also seeks to learn more about the wider world, using his time with the band to understand the broader conflicts affecting Provènzia and the threats they may bring to his people.
+Chelebe's goal is to gather enough wealth to secure a future for his tribe and the preservation of the Áelendan ways. He sees the Silent Talon as a means to an end—allowing him to fund the protection of sacred sites from exploitation and encroachment. He also seeks to learn more about the wider world, using his time with the band to understand the broader conflicts affecting Provenzia and the threats they may bring to his people.
 
 ### Strengths
 
@@ -450,10 +450,10 @@ Chelèbe's goal is to gather enough wealth to secure a future for his tribe and 
 
 ## Companions
 
-- [[being-branwldrgr|Branvàl Dorgàl]]: Captain of the Silent Talon.
-- [[being-elyseskyrn|Élithë Sárneth]]: Fellow band member.
-- [[being-torniskbry|Tórnis Kúbri]]: Fellow band member.
-- [[being-dornsyndlr|Dorèn Sindàlre]]: Fellow band member.
+- [[being-branwldrgr|Branval Dorgal]]: Captain of the Silent Talon.
+- [[being-elyseskyrn|Élithe Sarneth]]: Fellow band member.
+- [[being-torniskbry|Tornis Kubri]]: Fellow band member.
+- [[being-dornsyndlr|Doren Sindalre]]: Fellow band member.
 
 ### Patrons
 
@@ -465,8 +465,8 @@ Those who desecrate sacred Áelendan lands.
 
 ## Plot Hooks
 
-1. **The Defiled Grove**: Chelèbe receives word that a sacred Áelendan site has been desecrated—whether by loggers, miners, or something worse. He must convince the Silent Talon to detour from their current contract to investigate, balancing his obligations to the band against his duty to his people.
+1. **The Defiled Grove**: Chelebe receives word that a sacred Áelendan site has been desecrated—whether by loggers, miners, or something worse. He must convince the Silent Talon to detour from their current contract to investigate, balancing his obligations to the band against his duty to his people.
 
-2. **The Spirit's Warning**: During a scouting mission, Chelèbe receives a vision or omen from the spirits of the land—a warning of danger that his companions cannot see. Whether they trust his interpretation may determine whether the band survives what lies ahead.
+2. **The Spirit's Warning**: During a scouting mission, Chelebe receives a vision or omen from the spirits of the land—a warning of danger that his companions cannot see. Whether they trust his interpretation may determine whether the band survives what lies ahead.
 
-3. **The Outsider's Burden**: A group of Áelendan exiles approaches Chelèbe, asking him to use his mercenary connections to help them reclaim tribal lands that have been seized. The request puts Chelèbe in an impossible position: helping them means risking the Silent Talon for a cause that is not the band's fight.
+3. **The Outsider's Burden**: A group of Áelendan exiles approaches Chelebe, asking him to use his mercenary connections to help them reclaim tribal lands that have been seized. The request puts Chelebe in an impossible position: helping them means risking the Silent Talon for a cause that is not the band's fight.

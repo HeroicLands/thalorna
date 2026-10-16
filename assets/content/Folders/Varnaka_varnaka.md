@@ -1,8 +1,8 @@
 ---
 shortcode: varnaka
-name: {full: "Varnaka"}
+name: {full: "Varnuka"}
 type: folder
 data: {parent: mysticalskills}
 ---
 
-This folder gathers the mystical skills of the Varnaka tradition. It sits within the Mystical Skills folder and holds each skill of the tradition as its own note.
+This folder gathers the mystical skills of the Varnuka tradition. It sits within the Mystical Skills folder and holds each skill of the tradition as its own note.

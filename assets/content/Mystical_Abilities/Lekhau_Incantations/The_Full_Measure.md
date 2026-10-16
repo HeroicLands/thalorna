@@ -16,5 +16,5 @@ sohl:
 
 Used at the igelu-gauge, at fords, and in the delta channels that move between one season and the
 next. The House is careful to say that it reports and does not predict, and that a reader who
-states more than the working gave them has stopped practicing Khelâthu and started guessing.
-Falsifying such a reading is among the gravest crimes a Khelâthi can commit.
+states more than the working gave them has stopped practicing Khelathu and started guessing.
+Falsifying such a reading is among the gravest crimes a Khelathi can commit.

@@ -1,6 +1,6 @@
 ---
 shortcode: qapteltzakl2
-name: {full: Q'aptel Tza'kul, aliases: []}
+name: {full: Q'aptel Tsa'kul, aliases: []}
 type: place
 subType: settlement
 description: "Seat of the Boundary Place, a fortress-temple that sells guides, provisions and blessings to those about to cross into the wastes."
@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Before the crossing south, a party stops at **Q'aptel Tza'kul**, and the temple's quartermaster sells it everything it will need. The seat of the Boundary Place, about 4,000 people, is a fortress-temple built to endure at the last edge of the ordered K'ich'chik world, where managed fields and pyramid-cities give way to toxic mineral flats, hissing geothermal vents and a sky that glows sickly yellow or bruised purple with distant storms. The settlements here exist as waypoints for the doomed and the desperate.
+Before the crossing south, a party stops at **Q'aptel Tsa'kul**, and the temple's quartermaster sells it everything it will need. The seat of the Boundary Place, about 4,000 people, is a fortress-temple built to endure at the last edge of the ordered K'ich'chik world, where managed fields and pyramid-cities give way to toxic mineral flats, hissing geothermal vents and a sky that glows sickly yellow or bruised purple with distant storms. The settlements here exist as waypoints for the doomed and the desperate.
 
 ## The Price of Passage
 
@@ -23,7 +23,7 @@ The temple-fortresses sell passage itself: guides, provisions, and the priests' 
 
 ## The Two Gods
 
-The priesthood is intensely focused on two deities: [[affiliation-itzanpnthn|P'uqil Ch'aqun]], who commands the weather and the fury of storms, and [[affiliation-itzanpnthn|Tz'uqil Ix'bal]], mistress of death. Blood flows freely on the altars in the hope of safe passage through what lies beyond.
+The priesthood is intensely focused on two deities: [[affiliation-itzanpnthn|P'uqil Ch'akun]], who commands the weather and the fury of storms, and [[affiliation-itzanpnthn|Ts'uqil Ish'bal]], mistress of death. Blood flows freely on the altars in the hope of safe passage through what lies beyond.
 
 ## Reagents
 
@@ -31,7 +31,7 @@ Alchemists and mystics venture into the poisoned lands for crystalline formation
 
 ## See Also
 
-- [[affiliation-qapteltzakl|Q'aptel Tza'kul]]—the realm of storm-priests and temple-fortresses
-- [[place-qapteltzaklrgn|Q'aptel Tza'kul Region]]—the poisoned threshold
-- [[place-xelemchalix|Xelem Ch'alix]]—the last temple-fortress before the wastes
-- [[place-xelemixbalrgn|Xelem Ix'bal]]—the forsaken wastes beyond
+- [[affiliation-qapteltzakl|Q'aptel Tsa'kul]]—the realm of storm-priests and temple-fortresses
+- [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]—the poisoned threshold
+- [[place-xelemchalix|Shelem Ch'alish]]—the last temple-fortress before the wastes
+- [[place-xelemixbalrgn|Shelem Ish'bal]]—the forsaken wastes beyond

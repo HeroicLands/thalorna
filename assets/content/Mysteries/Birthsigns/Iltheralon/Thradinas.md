@@ -1,6 +1,6 @@
 ---
 shortcode: stathmos
-name: {full: Thrâdinâs, aliases: []}
+name: {full: Thradinas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Balance: sure-footed, tireless and quick, helpless the moment the road runs out."
@@ -35,7 +35,7 @@ sohl:
       hydalis: -5
 ---
 
-Thrâdinâs, the Balance, is the sign of the tested body. Its natives are robust and enduring, apt for the martial and the mystical middle path, but the wilds, the workshop, and the scriptorium yield to them grudgingly.
+Thradinas, the Balance, is the sign of the tested body. Its natives are robust and enduring, apt for the martial and the mystical middle path, but the wilds, the workshop, and the scriptorium yield to them grudgingly.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Thrâdinâs, the Balance, is the sign of the tested body. Its natives are robust
 | Spirit  | Lore, Mystical            | +5  |
 | Water   | Language, Social          | −5  |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

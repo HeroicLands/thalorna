@@ -7,6 +7,32 @@ description: "The Dunhari—their beliefs, their mores, and what they hold a per
 tags: []
 data:
   language: skill-dunharlng
+  glossary:
+    - name: "Pevrogar"
+      definition: "A recognized storm-cult practitioner, who reads the weather for council and warband"
+      common: true
+    - name: "Ruzhogar"
+      definition: "Senior elder of a storm-cult lineage, who sits in the Council of Elders"
+      common: true
+    - name: "wind-reader"
+      definition: "Storm-cult diviner who reads omens and weather in the wind; zevrogar"
+      common: true
+    - name: "rain-caller"
+      definition: "Storm-cult practitioner who conducts the rain rites at the season-turns and in drought; belgogar"
+      common: true
+    - name: "lightning-marked"
+      definition: "Member of the smallest and most prestigious storm-cult lineage, touched by the god in vision or by lightning; qeshvi"
+      common: true
+    - name: "storm-walker"
+      definition: "Storm-cult practitioner who walks into storms to read them from within; ghuzmogar"
+      common: true
+    - name: "Voice of the Quarter"
+      definition: "The member of the Warrior's Circle drawn by lot to call a meeting to order and announce its rulings"
+      common: true
+    - name: "bahar"
+      definition: "A member of the Warrior's Circle, named by acclamation; plural baharan"
+    - name: "voice-bearer"
+      definition: "Storm-cult orator who carries the repertoire of myth, hymn and ritual formula; sehvogar"
   appearanceProfile:
     frame: {light: 3, medium: 4, heavy: 2, massive: 1}
     eye_color: {brown: 4, green: 3, dark_brown: 3, amber: 2}
@@ -32,7 +58,7 @@ The obligation has limits in time and not in kind: it begins with the salt and r
 
 ## The Word and the Welcome
 
-The Dunhari keep the Āsháian reading of the world, in which every act is a choice between Āsha, truth and order, and Druj, falsehood. They take the threefold path of good thoughts, good words and good deeds for a rule of the camp. **Good is the word kept and the guest kept; evil is the false word and the guest given up.** Breaking an oath is the plain case, because an oath sworn at a fire is a legal instrument and a religious act at once, and the oath-breaker has lied to the law and to the god in a single breath.
+The Dunhari keep the Ashaian reading of the world, in which every act is a choice between Asha, truth and order, and Druj, falsehood. They take the threefold path of good thoughts, good words and good deeds for a rule of the camp. **Good is the word kept and the guest kept; evil is the false word and the guest given up.** Breaking an oath is the plain case, because an oath sworn at a fire is a legal instrument and a religious act at once, and the oath-breaker has lied to the law and to the god in a single breath.
 
 Success is a line the poets will carry. A man has succeeded when his word is taken without witnesses, his tent is a place caravans plan their route around, his feuds have known exits and his name is recited at the gatherings with the right verses. A warrior is acclaimed into the Circle, a sheikh holds his tribe by descent and consent together, a woman keeps a household whose tent never turns anyone from its fire. Failure is shame and, past shame, to be Kinless: a man cast out by his own kin and claimed by none.
 
@@ -40,21 +66,21 @@ The Dunhari value most the word, the welcome, the keeping of water in common and
 
 ## The Man Admired
 
-**Torvâsh Shiradar**, the chieftain of the Shiradar at the spring that never fails, is the Dunhari warrior who ended a war by refusing to win it. He was the third son of Chieftain Rezhad and proved himself by mastery rather than maneuver. He took his first wounds at sixteen and had made his name as a warrior by his early twenties. When his father died, his two elder brothers began a civil war over the place, and Torvâsh arranged a settlement that raised neither of them: the tribe would govern itself through a council. One brother died in a later border fight and the other took a place of honor without authority. Torvâsh became chieftain on the consent of the elders and not by right of succession, and he has held the place for decades since, apportioning the tribe's resources, managing its dealings with the settled kingdoms and defending its ground. His camp at [[place-oasistvrzvd|Tevrazavad]] is now where other sheikhs send quarrels to be heard.
+**Torvash Shiradar**, the chieftain of the Shiradar at the spring that never fails, is the Dunhari warrior who ended a war by refusing to win it. He was the third son of Chieftain Rezhad and proved himself by mastery rather than maneuver. He took his first wounds at sixteen and had made his name as a warrior by his early twenties. When his father died, his two elder brothers began a civil war over the place, and Torvash arranged a settlement that raised neither of them: the tribe would govern itself through a council. One brother died in a later border fight and the other took a place of honor without authority. Torvash became chieftain on the consent of the elders and not by right of succession, and he has held the place for decades since, apportioning the tribe's resources, managing its dealings with the settled kingdoms and defending its ground. His camp at [[place-oasistvrzvd|Tevrazavad]] is now where other sheikhs send quarrels to be heard.
 
 The Dunhari admire in him the art the whole law is for: he found the exit that cost his tribe least standing. His cost is vigilance. A poison from a rival left him scarred across the eye and a good deal more watchful, and he carries a grudge with the patience of a man who measures time in decades. The man who ended his brothers' war holds his own enemies to the same law, and keeps each feud until its exit is found.
 
 ## The Woman Admired
 
-**Mehrava**, the senior elder (_rûzhogâr_) of the Lightning-Marked, is the woman whose word the storm cults cannot set aside. The Lightning-Marked are the smallest and most prestigious lineage of the cults, touched by the god in vision or by lightning, and she leads them with an authority that is personal and not inherited. The accuracy of what she reads is the source of it, and it is also the source of friction: when her reading of the sky stands against the readings of the larger lineages, the cults have two readings and one season.
+**Mehrava**, the senior elder (_ruzhogar_) of the Lightning-Marked, is the woman whose word the storm cults cannot set aside. The Lightning-Marked are the smallest and most prestigious lineage of the cults, touched by the god in vision or by lightning, and she leads them with an authority that is personal and not inherited. The accuracy of what she reads is the source of it, and it is also the source of friction: when her reading of the sky stands against the readings of the larger lineages, the cults have two readings and one season.
 
-Her admiration is not a lesser form of the chieftain's. Torvâsh keeps a tribe whole, and Mehrava keeps the word of the storm honest. Misreading is the most serious failure a storm-cult practitioner can commit, and falsifying a reading is among the gravest offenses the cults recognize, so a practitioner whose readings prove true carries what the camp has no other way to buy. Her cost is the quarrel. A woman who will not soften a reading to keep the peace among the lineages is a woman the lineages cannot ignore, and the Dunhari prefer the argument to the comfort.
+Her admiration is not a lesser form of the chieftain's. Torvash keeps a tribe whole, and Mehrava keeps the word of the storm honest. Misreading is the most serious failure a storm-cult practitioner can commit, and falsifying a reading is among the gravest offenses the cults recognize, so a practitioner whose readings prove true carries what the camp has no other way to buy. Her cost is the quarrel. A woman who will not soften a reading to keep the peace among the lineages is a woman the lineages cannot ignore, and the Dunhari prefer the argument to the comfort.
 
 ## What the Desert Keeps
 
 The Dunhari can point to a handful of things that hold their law in place. **The Laws of the Well** are the oldest: the duties of hospitality at oases and springs, kept even by blood enemies, so that two tribes at feud water their herds in turn and draw no blade within sight of the water. **The code of salt** is the second, a guarantee a stranger carries on his own tongue. **The recitation** is the third, the poets' standing archive of genealogy, precedent and treaty, which a tribe produces whenever a claim is made.
 
-Two standards belong to the whole confederation. The **vâst-bahâr**, the strip of indigo leather an acclaimed warrior wears on the upper left arm, is renewed only in the vat at the [[place-stoneofranaz|Stone of Ranâz]] and fades if the wearer stays away for three meetings, so the mark has to be earned again by showing up. The **marked stones** that choose the Voice of the Quarter at each gathering are kept between meetings by the storm cults, and a Circle meeting cannot lawfully open without them. The **Old Promise** and the **Quiet After**, the Circle's two principles, are the nearest thing the Dunhari have to a charter: no Dunhari blade is raised against another while any outside enemy walks Dunhari land, and when the threat ends, the Circle's war ends with it. A recognized vessel of the storm god wears an iron torc at the throat, given by the assembled elders.
+Two standards belong to the whole confederation. The **vast-bahar**, the strip of indigo leather an acclaimed warrior wears on the upper left arm, is renewed only in the vat at the [[place-stoneofranaz|Stone of Ranaz]] and fades if the wearer stays away for three meetings, so the mark has to be earned again by showing up. The **marked stones** that choose the Voice of the Quarter at each gathering are kept between meetings by the storm cults, and a Circle meeting cannot lawfully open without them. The **Old Promise** and the **Quiet After**, the Circle's two principles, are the nearest thing the Dunhari have to a charter: no Dunhari blade is raised against another while any outside enemy walks Dunhari land, and when the threat ends, the Circle's war ends with it. A recognized vessel of the storm god wears an iron torc at the throat, given by the assembled elders.
 
 ## The Feud and the Ending of It
 
@@ -64,7 +90,7 @@ A feud is a state of affairs with known exits, and the whole art of a sheikh's l
 
 ## Fire and the Storm
 
-The Dunhari keep the Āsháian pantheon, and the faith of fire and light suits a people who live by what can be seen at a distance. Observance is portable by necessity—a hearth, a rite, a season—and no temple priesthood sits anywhere in the open desert. The foundation of an ordinary Dunhari's practice is the household fire-ritual at sunrise and at sunset, which needs no priest. A traveling fire-priest carries the flame from camp to camp and ministers to those beyond any temple's reach, and a storm-cult practitioner sits in every camp of consequence.
+The Dunhari keep the Ashaian pantheon, and the faith of fire and light suits a people who live by what can be seen at a distance. Observance is portable by necessity—a hearth, a rite, a season—and no temple priesthood sits anywhere in the open desert. The foundation of an ordinary Dunhari's practice is the household fire-ritual at sunrise and at sunset, which needs no priest. A traveling fire-priest carries the flame from camp to camp and ministers to those beyond any temple's reach, and a storm-cult practitioner sits in every camp of consequence.
 
 The storm is the god most often addressed. The practitioners of the [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]] read the weather before a chieftain moves his herds, conduct the rain rites at the season-turns and in drought, and take part in births, deaths, marriages and war-rites. Beside them go the desert mystics, who fast alone in the open sand and are housed, followed and obeyed for life if they come back with visions that prove true. Religious and tribal obligation run together, and the Dunhari want it so: an oath sworn at a fire is a crime and a sacrilege at once, which is exactly the redundancy a people with no police force requires.
 
@@ -72,7 +98,7 @@ The holy places are features of the land, and pilgrimage to them is central to t
 
 ## The Year at the Water
 
-The festivals that matter are those that carry the camp through water, storm and the dead. The **Calling of the Rains** falls in late spring when the dry season threatens to overrun its time, and the priests of the Thunder Rider ride and call the monsoon winds in. The **Festival of the Thunder Rider** falls at the height of the storm season, with contests of spear-throwing, horsemanship and wrestling, and it is where young warriors make a name. The **Summer Vigil** is an all-night gathering at the largest oases, kept to pray for the water to hold through the driest months, and the sick and the elderly are brought to the springs and bathed while mothers sit in places of honor. The **Feast of Flames** at the summer solstice sets bonfires in the open desert. The **Festival of the Departed** has every fire-temple kindle the Death-Flame, and the camps speak their dead aloud around their own fires. At each season-turn the Circle and the cults' elders gather at the Stone of Ranâz.
+The festivals that matter are those that carry the camp through water, storm and the dead. The **Calling of the Rains** falls in late spring when the dry season threatens to overrun its time, and the priests of the Thunder Rider ride and call the monsoon winds in. The **Festival of the Thunder Rider** falls at the height of the storm season, with contests of spear-throwing, horsemanship and wrestling, and it is where young warriors make a name. The **Summer Vigil** is an all-night gathering at the largest oases, kept to pray for the water to hold through the driest months, and the sick and the elderly are brought to the springs and bathed while mothers sit in places of honor. The **Feast of Flames** at the summer solstice sets bonfires in the open desert. The **Festival of the Departed** has every fire-temple kindle the Death-Flame, and the camps speak their dead aloud around their own fires. At each season-turn the Circle and the cults' elders gather at the Stone of Ranaz.
 
 Each is for something concrete. The Calling is for the grass, the Thunder Rider for the young men's courage, the Vigil for the well, the Feast for the fire and the Departed for the account of the dead. The gatherings at the Stone are for the law, since that is where a wrong too large for a chieftain is carried.
 
@@ -84,7 +110,7 @@ A tribe can be shamed as a tribe, and restoring the standing of one may take dec
 
 ## Sheikh, Circle, Cult and Council
 
-Authority in the open desert is layered and nobody sits at the top. A sheikh holds his tribe by descent, personal standing and the consent of his elders, and an elder settles by memory what the young dispute. The tribes meet in a common council at [[place-ghavulavad|Ghavûlâvad]], whose delegates argue and do not bind, and whose offices serve the tribes in common: the Lawkeeper arbitrates where two tribes' customs differ, the Truce-Warden holds the peace of the meeting and the markets, and the Water-Warden fixes the order in which the herds come to the shared wells.
+Authority in the open desert is layered and nobody sits at the top. A sheikh holds his tribe by descent, personal standing and the consent of his elders, and an elder settles by memory what the young dispute. The tribes meet in a common council at [[place-ghavulavad|Ghavulavad]], whose delegates argue and do not bind, and whose offices serve the tribes in common: the Lawkeeper arbitrates where two tribes' customs differ, the Truce-Warden holds the peace of the meeting and the markets, and the Water-Warden fixes the order in which the herds come to the shared wells.
 
 Two bodies stand beside the council and answer to no sheikh. The Circle gathers the acclaimed warriors of every tribe and judges no quarrel between tribes; its authority is moral and its word carries in every camp. The storm cults recognize the vessels in whom the god is held to speak, and a vessel's word overrides a chieftain's ruling on a religious matter. A sheikh who defies either can do it once. Where the authorities conflict, the disputing tribes bring their recitations before poets of a third tribe, who judge which is sound. The Keeper of the Feud holds the tally of blood, the sheikh holds the hospitality gifts, and the oath sworn at a fire holds the rest.
 
@@ -98,7 +124,7 @@ This makes memory a contested field. Two tribes in dispute produce two recitatio
 
 ## The Bridge
 
-The Dunhari believe what the Āsháian faith teaches: after death the soul crosses the Chinvat Bridge, wide and steady for the righteous and a razor's edge for the wicked. The crossing is no trial imposed from outside. It is the natural consequence of how one has lived, and the bridge is as wide as the good thoughts, words and deeds that built it.
+The Dunhari believe what the Ashaian faith teaches: after death the soul crosses the Chinvat Bridge, wide and steady for the righteous and a razor's edge for the wicked. The crossing is no trial imposed from outside. It is the natural consequence of how one has lived, and the bridge is as wide as the good thoughts, words and deeds that built it.
 
 On an ordinary day that belief makes the Dunhari watch their mouths. The false word is the Druj the bridge narrows against, so a promise made at a well is a promise made on the bridge, and a man who must settle a feud settles it in the open and in verse. He keeps the household fire at sunrise and sunset and gives the guest the salt first. He shapes a decade of conduct around a line he does not want recited after his death. The dead are carried deep into the desert on the fastest camels and left in a hidden place, with a fire kindled where the body is set down, so no tomb stands to be kept and no grave to be robbed; what a person leaves is herds, rights to a well and a name. A dying elder is surrounded by the camp, and each person speaks one deed or kindness of the dying, for the god records them before the crossing begins.
 
@@ -122,13 +148,13 @@ In a bad year the first resort is the Water-Warden's order, which keeps a well f
 
 ## Those Who Cannot Work
 
-A man who cannot ride a raid keeps his place in the tent, his scars and his share. The scar itself is honored, and the vâst-bahâr is called the scar of the mighty. The injured and the old are bathed at the springs at the Summer Vigil, and the household feeds them from the herd.
+A man who cannot ride a raid keeps his place in the tent, his scars and his share. The scar itself is honored, and the vast-bahar is called the scar of the mighty. The injured and the old are bathed at the springs at the Summer Vigil, and the household feeds them from the herd.
 
 The old are not set aside. An elder settles by memory what the young dispute, and an aged shaman who spends his evenings alone at the sacred stones is still the chieftain's first adviser on disputes that resist ordinary judgment. A person who cannot travel with the camp is left with a kinsman at an oasis on the circuit and visited when the camp returns.
 
 ## Shelter, Teaching and Defense
 
-Shelter is the tent and the salt. A household with no room gives the guest a place at the fire and the count of days, and a camp with no household for a widow gives her the nearest kinsman's. Teaching is the poet's and the cult's. A child learns the genealogy and the verses at the fire, an apprentice (_hamelogâr_) to a storm-cult lineage learns to read the sky, and a young warrior learns the raid and the escort from the warriors of the tent. Defense is the warriors of the tribe, the escort passed from tribe to tribe along the caravan road, and, when an outside enemy walks Dunhari land, the Circle.
+Shelter is the tent and the salt. A household with no room gives the guest a place at the fire and the count of days, and a camp with no household for a widow gives her the nearest kinsman's. Teaching is the poet's and the cult's. A child learns the genealogy and the verses at the fire, an apprentice (_hamelogar_) to a storm-cult lineage learns to read the sky, and a young warrior learns the raid and the escort from the warriors of the tent. Defense is the warriors of the tribe, the escort passed from tribe to tribe along the caravan road, and, when an outside enemy walks Dunhari land, the Circle.
 
 ## The Tent at Every Age
 
@@ -145,35 +171,17 @@ The sin is what the Circle did with it. Twice the Circle was petitioned to act a
 ## See Also
 
 - [[place-dunharargn|Dunhara Region]]—the desert, the circuits and the confederations
-- [[affiliation-ashanpnthn|Āsháian Pantheon]]—the fire-and-light faith
+- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the fire-and-light faith
 - [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the storm-readers and rain-callers of the camps
 - [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations and their councils
 - [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the Old Promise and the Quiet After
-- [[place-stoneofranaz|Stone of Ranâz]]—the hill-shrine of the Circle and the cults
+- [[place-stoneofranaz|Stone of Ranaz]]—the hill-shrine of the Circle and the cults
 - [[place-oasistvrzvd|Oasis of Tevrazavad]]—where a chieftain's council hears other sheikhs' quarrels
-- [[doc-dunharilexcn|Dunhari Lexicon]]—the words of the well, the storm and the court
+- [[skill-dunharlng#lexicon|Dunhari Lexicon]]—the words of the well, the storm and the court
 - [[skill-dunharlng|Dunhari]]—the tongue the poets keep the law in
 
 ## Glossary {#glossary}
 
-| Term                 | Meaning                                                                                                              |
-| -------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| bahâr                | A member of the Warrior's Circle, named by acclamation; plural bahârân                                               |
-| belgogâr             | A rain-caller, in the storm cults' own name for the lineage                                                          |
-| ghuzmogâr            | A storm-walker, in the storm cults' own name for the lineage                                                         |
-| hamelogâr            | An apprentice of a storm-cult lineage                                                                                |
-| lightning-marked     | Member of the smallest and most prestigious storm-cult lineage, touched by the god in vision or by lightning; qeshvî |
-| pevrogâr             | A recognized storm-cult practitioner, who reads the weather for council and warband                                  |
-| qeshvî               | A lightning-marked, in the storm cults' own name for the lineage                                                     |
-| rain-caller          | Storm-cult practitioner who conducts the rain rites at the season-turns and in drought; belgogâr                     |
-| rûzhogâr             | Senior elder of a storm-cult lineage, who sits in the Council of Elders                                              |
-| sehvogâr             | A voice-bearer, in the storm cults' own name for the lineage                                                         |
-| storm-walker         | Storm-cult practitioner who walks into storms to read them from within; ghuzmogâr                                    |
-| vadukesh             | "Followers": the Dunhari at large as the storm cults count them                                                      |
-| vâst-bahâr           | "Scar of the mighty": the indigo leather strip a member of the Warrior's Circle wears on the upper left arm          |
-| Voice of the Quarter | The member of the Warrior's Circle drawn by lot to call a meeting to order and announce its rulings                  |
-| voice-bearer         | Storm-cult orator who carries the repertoire of myth, hymn and ritual formula; sehvogâr                              |
-| wind-reader          | Storm-cult diviner who reads omens and weather in the wind; zevrogâr                                                 |
-| zevrogâr             | A wind-reader, in the storm cults' own name for the lineage                                                          |
+The full dictionary is in the [[skill-dunharlng#lexicon|Dunhari Language note]].
 
-Ardin is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]].
+Ardin is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Au'Khelathu]].

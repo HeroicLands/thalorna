@@ -5,7 +5,7 @@ name:
   aliases: [Thalorna Demographics, World Population, Population of Thalorna]
 type: doc
 subType: reference
-description: "Reference estimate of the population of Thalorna by continent and region—a pre-industrial, agrarian world of roughly 370 million, with the eastern giants Tāntsou and Vedyara holding the majority of humankind."
+description: "Reference estimate of the population of Thalorna by continent and region—a pre-industrial, agrarian world of roughly 370 million, with the eastern giants Tantsou and Vedyara holding the majority of humankind."
 tags: [reference, demographics, worldbuilding]
 
 # terran_analog: the agrarian share matches Earth before the modern age; the eastern majority mirrors China and India holding about half of humanity in the pre-modern era; a 1M capital compares to Rome (~1M) atop Roman Italy (~12–14M).
@@ -24,11 +24,11 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | Region                           | Population      |
 | -------------------------------- | --------------- |
 | [[place-midhalnrgn\|Mídhalión]]  | ~47,000,000     |
-| [[place-aureldirgn\|Aurèldía]]   | ~11,000,000     |
+| [[place-aureldirgn\|Aureldia]]   | ~11,000,000     |
 | [[place-khzryndsrtrgn\|Khazryn]] | ~3,000,000      |
 | [[place-dunharargn\|Dunhara]]    | ~3,000,000      |
 | [[place-nrdlndsrgn\|Nordlands]]  | ~2,000,000      |
-| [[place-vrystwald\|Vrystwald]]   | ~500,000        |
+| [[place-vrystwald\|Vristwald]]   | ~500,000        |
 | [[place-grkrhlmrgn\|Grukarholm]] | ~50,000         |
 | Other minor western regions      | ~5,000,000      |
 | **Western Ankaris subtotal**     | **~72,000,000** |
@@ -37,42 +37,42 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 
 | Land                          | Population  |
 | ----------------------------- | ----------- |
-| [[place-vylariargn\|Vylaría]] | ~24,000,000 |
-| Tarûzel                       | ~12,000,000 |
+| [[place-vylariargn\|Vylaria]] | ~24,000,000 |
+| Taruzel                       | ~12,000,000 |
 | [[place-heladrgn\|Hellád]]    | ~11,000,000 |
 
-Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four core provinces (~21,000,000) and the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûn]] (~2,500,000); Hellád between [[place-byzariargn|Byzaría]] (~8,000,000) and the city-states of [[place-helionis|Heliónis]] (~3,000,000).
+Vylaria divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four core provinces (~21,000,000) and the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]] (~2,500,000); Hellád between [[place-byzariargn|Bizaria]] (~8,000,000) and the city-states of [[place-helionis|Helionis]] (~3,000,000).
 
-**Within Aurèldía**, the mosaic of kingdoms bound by the Twelve:
+**Within Aureldia**, the mosaic of kingdoms bound by the Twelve:
 
 | Realm                            | Population |
 | -------------------------------- | ---------- |
-| [[place-provenzrgn\|Provènzia]]  | ~5,000,000 |
+| [[place-provenzrgn\|Provenzia]]  | ~5,000,000 |
 | [[place-tarvenirgn\|Tarvénia]]   | ~3,500,000 |
 | [[place-elavendre\|Élavendre]]   | ~2,000,000 |
 | [[place-aelwyth\|Aelwyth]]       | ~710,000   |
-| [[affiliation-calypsa\|Calypsa]] | ~45,000    |
+| [[affiliation-calypsa\|Kalipsa]] | ~45,000    |
 
 #### Ankaris—the East (the great powers)
 
 | Region                               | Population       |
 | ------------------------------------ | ---------------- |
-| [[affiliation-tantsouempr\|Tāntsou]] | ~120,000,000     |
+| [[affiliation-tantsouempr\|Tantsou]] | ~120,000,000     |
 | [[place-vedyarargn\|Vedyara]]        | ~110,000,000     |
-| [[place-jenchairgn\|Jénchài]]        | ~500,000         |
+| [[place-jenchairgn\|Jenchai]]        | ~500,000         |
 | **Eastern Ankaris subtotal**         | **~230,000,000** |
 
-#### Xerathia
+#### Zerathia
 
 | Region                                          | Population      |
 | ----------------------------------------------- | --------------- |
-| [[place-aukhelathrgq\|Aû'Khelâthu Region]]      | ~19,000,000     |
-| [[place-okharisrgn\|Okháris]]                   | ~4,000,000      |
-| [[place-bethuargn\|Bethûa]]                     | ~3,000,000      |
+| [[place-aukhelathrgq\|Au'Khelathu Region]]      | ~19,000,000     |
+| [[place-okharisrgn\|Okharis]]                   | ~4,000,000      |
+| [[place-bethuargn\|Bethua]]                     | ~3,000,000      |
 | [[place-sthrnsvnhs\|the Southern Savannahs]]    | ~2,000,000      |
 | [[place-cntrlrnfrsts\|the Central Rainforests]] | ~250,000        |
 | [[place-sthmrchsrgn\|the South Marches]]        | not stated      |
-| **Xerathia subtotal**                           | **~29,000,000** |
+| **Zerathia subtotal**                           | **~29,000,000** |
 
 #### K'ich'chik
 
@@ -98,28 +98,28 @@ Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four c
 | -------------------- | ---------- |
 | Ankaris (west)       | ~72M       |
 | Ankaris (east)       | ~230M      |
-| Xerathia             | ~29M       |
+| Zerathia             | ~29M       |
 | K'ich'chik           | ~34M       |
 | Kalihara & scattered | ~6M        |
 | **World**            | **~370M**  |
 
 ### Notes and Sanity Checks
 
-**The east holds the majority of humankind.** Tāntsou and Vedyara together (~230M) are roughly **62% of the world's people**. The demographic center of gravity lies far to the east of Vylaria, a fact the western powers find easy to forget.
+**The east holds the majority of humankind.** Tantsou and Vedyara together (~230M) are roughly **62% of the world's people**. The demographic center of gravity lies far to the east of Vylaria, a fact the western powers find easy to forget.
 
-**Vylaria is a great power, not the great power.** At ~21M the empire is the heavyweight of the west—larger than any single Aurèldían kingdom—but only ~6% of the world, and barely a fifth the size of Tāntsou or Vedyara. Its sense of itself as the center of the world is a conceit the numbers do not support: it is a proud, declining state on the world's western edge, while the true giants sit eastward, largely indifferent to it.
+**Vylaria is a great power, not the great power.** At ~21M the empire is the heavyweight of the west—larger than any single Aureldian kingdom—but only ~6% of the world, and barely a fifth the size of Tantsou or Vedyara. Its sense of itself as the center of the world is a conceit the numbers do not support: it is a proud, declining state on the world's western edge, while the true giants sit eastward, largely indifferent to it.
 
-**A 1-million capital is feedable.** [[place-orzara|Ôrzâra]] at ~1M is ~5% of Vylaria proper—high, but sustainable for a primate imperial city supplied by [[affiliation-provnchyln|Hilen]]'s grain, [[affiliation-provincvld|Sâlkhâlon]]'s fisheries and seaborne imports, and the grain-dole run by the [[affiliation-verdanorzara|Vêrâmûsândôs of the Grain]].
+**A 1-million capital is feedable.** [[place-orzara|Orzara]] at ~1M is ~5% of Vylaria proper—high, but sustainable for a primate imperial city supplied by [[affiliation-provnchyln|Hilen]]'s grain, [[affiliation-provincvld|Salkalon]]'s fisheries and seaborne imports, and the grain-dole run by the [[affiliation-verdanorzara|Veramus of the Grain]].
 
-**The Aurèldían kingdoms are itemized, not estimated.** Provènzia, Élavendre, Tarvénia, Aelwyth and Calypsa each carry a worked figure on their own notes, and the bloc is their sum. It comes to about **11,000,000**—an order of magnitude below the Vylarian Empire's, which is why no Aurèldían crown can face Ôrzâra alone and why the Twelve, not a treaty, are what hold the west together.
+**The Aureldian kingdoms are itemized, not estimated.** Provenzia, Élavendre, Tarvénia, Aelwyth and Kalipsa each carry a worked figure on their own notes, and the bloc is their sum. It comes to about **11,000,000**—an order of magnitude below the Vylarian Empire's, which is why no Aureldian crown can face Orzara alone and why the Twelve, not a treaty, are what hold the west together.
 
-**The thin urban crust.** Across the world the named towns and cities of a thousand people or more hold between 5% and 10% of a region's population; the mercantile coasts of Hellád and Tarûzel run higher, toward 12–15%, and the frontier and pastoral country of the Nordlands, Vrystwald and the deserts lower, toward 3–5%. A region whose named settlements sum to much more than that is missing people from its countryside, not holding an unusual number of them in towns.
+**The thin urban crust.** Across the world the named towns and cities of a thousand people or more hold between 5% and 10% of a region's population; the mercantile coasts of Hellád and Taruzel run higher, toward 12–15%, and the frontier and pastoral country of the Nordlands, Vristwald and the deserts lower, toward 3–5%. A region whose named settlements sum to much more than that is missing people from its countryside, not holding an unusual number of them in towns.
 
 **Approximate by design.** Every figure here is round and approximate—good to roughly the nearest few million at the regional scale, not the nearest soul—and any may be revised as the setting develops.
 
 ### See Also
 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the anchor polity, worked out province by province
-- [[place-orzara|Ôrzâra]]—the world's great western metropolis
-- [[affiliation-tantsouempr|Tāntsou]] · [[place-vedyarargn|Vedyara]]—the eastern giants
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the great Xerathian river-civilization
+- [[place-orzara|Orzara]]—the world's great western metropolis
+- [[affiliation-tantsouempr|Tantsou]] · [[place-vedyarargn|Vedyara]]—the eastern giants
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the great Zerathian river-civilization

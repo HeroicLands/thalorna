@@ -3,7 +3,7 @@ shortcode: saunari
 name: {full: The Long-Watcher's Sayings, aliases: [Ansorunnoren saunari]}
 type: lore
 subType: literature
-description: "The sayings of one Long-Watcher of Aelirossë to the Seer he taught, in the fixed stanza the Sinalë pass a saying on in, as an Áelendan foster-child learned them in the grove and at the sickbed, ending on the Seer's own."
+description: "The sayings of one Long-Watcher of Aelirosse to the Seer he taught, in the fixed stanza the Sinale pass a saying on in, as an Áelendan foster-child learned them in the grove and at the sickbed, ending on the Seer's own."
 tags: [draft, sinale]
 data:
   culture: sinaleclt
@@ -21,7 +21,7 @@ data:
 # terran_analog: "The Welsh gnomic englynion, an image from the weather or the wood answered by a rule; Hávamál's stanzas of counsel to a guest; the question-and-answer instructions of the Irish wisdom texts; the Kanteletar's habit of restating a line by the line after it."
 ---
 
-**The Long-Watcher's Sayings**, _Ansorunnoren saunari_, are the sayings of one [[lore-calathirrnk|Ansorunno]] of [[place-aelirosse|Aelirossë]], **Olmasidhe Rhovelinto**, to the [[lore-tindesarrnk|Ilthorinno]] he taught, said to her one at a time across the years of her learning: in the grove, at the water-court, over whoever was sick, and once at the ford. _Saunari_ are words kept whole and passed on, and a saying becomes one the first time somebody other than its speaker says it; the stanza it is passed on in opens every time on the same line, _Uvi ha-kelsa ovu oson ha-evathe Ansorunno Ilthorinnomen_, "Have you heard what the Long-Watcher said to the Seer?", then gives the thing he was looking at, then the rule. The [[lore-flksinale|Sinalë]] of Aelirossë passed his sayings among themselves while he lived, and an [[lore-aelendnppl|Áelendan]] child fostered there heard them that way, in runs, as the grove was tended and the sick were sat with and the dreams [[lore-goddreams|Aulveira]] sends were read; she carried them to the Tradition Keepers, who hold them with the tribal songs and say them, since nobody has set them to a harp. The near humans of the sayings are the Áelendan, under the name the Sinalë of Aelirossë give them. The sayings stand here in the order the Keepers hold them, which is the order she learned them, which is roughly the order of a Seer's learning. One saying names a tree whose Sinalë name she did not carry, and the Keepers leave the gap. The Long-Watcher is dead, and Aelirossë says his name now with an epithet after it, Sorvelsa, of the oak.
+**The Long-Watcher's Sayings**, _Ansorunnoren saunari_, are the sayings of one [[lore-calathirrnk|Ansorun]] of [[place-aelirosse|Aelirosse]], **Olmasidhe Rhovelinto**, to the [[lore-tindesarrnk|Ilthorin]] he taught, said to her one at a time across the years of her learning: in the grove, at the water-court, over whoever was sick, and once at the ford. _Saunari_ are words kept whole and passed on, and a saying becomes one the first time somebody other than its speaker says it; the stanza it is passed on in opens every time on the same line, _Uvi ha-kelsa ovu oson ha-evathe Ansorun Ilthorinnomen_, "Have you heard what the Long-Watcher said to the Seer?", then gives the thing he was looking at, then the rule. The [[lore-flksinale|Sinale]] of Aelirosse passed his sayings among themselves while he lived, and an [[lore-aelendnppl|Áelendan]] child fostered there heard them that way, in runs, as the grove was tended and the sick were sat with and the dreams [[lore-goddreams|Aulveira]] sends were read; she carried them to the Tradition Keepers, who hold them with the tribal songs and say them, since nobody has set them to a harp. The near humans of the sayings are the Áelendan, under the name the Sinale of Aelirosse give them. The sayings stand here in the order the Keepers hold them, which is the order she learned them, which is roughly the order of a Seer's learning. One saying names a tree whose Sinale name she did not carry, and the Keepers leave the gap. The Long-Watcher is dead, and Aelirosse says his name now with an epithet after it, Sorvelsa, of the oak.
 
 : The Oak by the Water-Court {#oak}
 
@@ -344,7 +344,7 @@ Have you heard what the Long-Watcher said to the Seer?
 ```poetry {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   Nothing this year. He died the autumn the oak dropped acorns, and Aulveira took him to Ollevirno.
-  Aelirossë says Olmasidhe Rhovelinto Sorvelsa now, of the oak, and his name is one word longer.
+  Aelirosse says Olmasidhe Rhovelinto Sorvelsa now, of the oak, and his name is one word longer.
   **Ilevala Huomanto**, who was the Seer, says this one, and it is hers.
   I have put four of the acorns in the ground by the water-court. They are grown when the child who watches us is a grandmother.
   I will have a saying by then, or I will have four oaks.
@@ -352,10 +352,10 @@ Have you heard what the Long-Watcher said to the Seer?
 
 ## See Also
 
-- [[lore-flksinale|Sinalë]]—the people whose sayings these are
-- [[place-aelirosse|Aelirossë]]—the enclave, its grove and its water-court
+- [[lore-flksinale|Sinale]]—the people whose sayings these are
+- [[place-aelirosse|Aelirosse]]—the enclave, its grove and its water-court
 - [[lore-goddreams|The God of Dreams]]—Aulveira, whose dreams a Seer learns to read
-- [[lore-calathirrnk|Ansorunno]] · [[lore-tindesarrnk|Ilthorinno]]—the Long-Watcher and the Seer
+- [[lore-calathirrnk|Ansorun]] · [[lore-tindesarrnk|Ilthorin]]—the Long-Watcher and the Seer
 - [[lore-aelendnppl|The Áelendan]]—the people who carried the sayings out
 - [[lore-longnhrtnc|The Long Inheritance]]—what passes to humans by being seen
-- [[skill-sinalelng|Sinalë Language]]—the wearing, the naming and the hearth ending
+- [[skill-sinalelng|Sinale Language]]—the wearing, the naming and the hearth ending

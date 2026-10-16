@@ -1,6 +1,6 @@
 ---
 shortcode: genhen
-name: {full: "Ritual: Génhén", aliases: [Génhén, The Minister of Entropy]}
+name: {full: "Ritual: Genhén", aliases: [Genhén, The Minister of Entropy]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-genhen|Génhén]]
+See [[affiliation-genhen|Genhén]]

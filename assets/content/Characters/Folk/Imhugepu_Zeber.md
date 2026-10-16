@@ -1,6 +1,6 @@
 ---
 shortcode: imhugepuzebr
-name: {full: Imhûgepu Zeber, aliases: [Imhû]}
+name: {full: Imhugepu Zeber, aliases: [Imhu]}
 type: being
 subType: npc
 description: "Ritualist and warrior of the Zeghet'Nelgu, keeper of the old rites"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Imhûgepu Zeber is a 40-year-old man who stands 5'5" tall with a light build. He has dark brown skin, weathered complexion, black hair, and brown eyes.
+Imhugepu Zeber is a 40-year-old man who stands 5'5" tall with a light build. He has dark brown skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Imhûgepu Zeber serves the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] as both ritualist and warrior out of [[place-galezkara|Galezkara]]. He is keeper of the old rites, the ones newer members learn from him rather than from any written record. A hunt that wants the rites kept exactly right keeps him close at hand.
+Imhugepu Zeber serves the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] as both ritualist and warrior out of [[place-galezkara|Galezkara]]. He is keeper of the old rites, the ones newer members learn from him rather than from any written record. A hunt that wants the rites kept exactly right keeps him close at hand.

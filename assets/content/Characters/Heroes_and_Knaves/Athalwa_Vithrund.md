@@ -12,7 +12,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [eichengrnd]
-  affiliations: {vrystwldtrbs: {rank: 5, office: Hárthúl}}
+  affiliations: {vrystwldtrbs: {rank: 5, office: Harthúl}}
   gender: female
   species: humanflk
   born: 678.152
@@ -425,7 +425,7 @@ Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde ha
 
 ### Born to Unorthodoxy
 
-Athalwa was the second child of **Vorthgar yra Vithrúnd**, War Chief of Eichengrund, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Dómric, who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vrystwald]] borders. The elders debated whether she was blessed or cursed.
+Athalwa was the second child of **Vorthgar yra Vithrúnd**, War Chief of Eichengrund, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Domrik, who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vristwald]] borders. The elders debated whether she was blessed or cursed.
 
 ### The Warrior's Calling
 
@@ -433,11 +433,11 @@ Rather than surrender to the role of priestess-advisor that the conservative eld
 
 ### The Unexpected Succession
 
-When her brother Dómric died mysteriously while hunting at age thirty-eight, the path to leadership became complicated. The elder council, bound by tradition to prefer a male leader, suggested her cousin Harthak should take the War Chief's seat. Athalwa challenged this decision not through overt rebellion but through demonstrated merit. When raiders from the Shadowpine Clan threatened the borders, Athalwa organized a devastating counteroffensive that repelled the invasion and secured Eichengrund’s woodland approaches. The warriors who fought alongside her demanded she be acclaimed War Chief. After months of negotiation and ritual, the elders relented, creating unprecedented conditions: Athalwa could lead, but only under enhanced scrutiny and with certain traditional privileges revoked.
+When her brother Domrik died mysteriously while hunting at age thirty-eight, the path to leadership became complicated. The elder council, bound by tradition to prefer a male leader, suggested her cousin Harthak should take the War Chief's seat. Athalwa challenged this decision not through overt rebellion but through demonstrated merit. When raiders from the Shadowpine Clan threatened the borders, Athalwa organized a devastating counteroffensive that repelled the invasion and secured Eichengrund’s woodland approaches. The warriors who fought alongside her demanded she be acclaimed War Chief. After months of negotiation and ritual, the elders relented, creating unprecedented conditions: Athalwa could lead, but only under enhanced scrutiny and with certain traditional privileges revoked.
 
 ### Present Challenges
 
-Athalwa directs Eichengrund’s war-band as one of its three coequal elders. She favors aggressive defense and closer ties with neighboring villages, and has cultivated contacts with Byzarian merchants and eastern envoys. Trade agreements belong to the village’s Other Chief, and those contacts give her no authority over another village. Her hope of drawing neighboring clans into lasting allegiance is her own political project. Only imminent danger permits their elders to acclaim a common War Chief, whose wider command ends with the response. Many Eichengrund households welcome her victories and contacts. But the conservative elders grow increasingly restless, and whispers suggest that some among the clan believe her visions are demonic rather than divine, that she leads them away from ancient truths toward ruin.
+Athalwa directs Eichengrund’s war-band as one of its three coequal elders. She favors aggressive defense and closer ties with neighboring villages, and has cultivated contacts with Bizarian merchants and eastern envoys. Trade agreements belong to the village’s Other Chief, and those contacts give her no authority over another village. Her hope of drawing neighboring clans into lasting allegiance is her own political project. Only imminent danger permits their elders to acclaim a common War Chief, whose wider command ends with the response. Many Eichengrund households welcome her victories and contacts. But the conservative elders grow increasingly restless, and whispers suggest that some among the clan believe her visions are demonic rather than divine, that she leads them away from ancient truths toward ruin.
 
 ## Psyche
 
@@ -449,7 +449,7 @@ Despite her power and status, Athalwa remains somewhat isolated. Her visions and
 
 ### Motivation
 
-Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tribes in a changing world. She perceives that the old ways, while honorable and containing wisdom, are insufficient for the challenges ahead. She sees the Byzarian League expanding, the southern kingdoms consolidating power, the world becoming more connected and complex. Her visions show her paths where the Vrystwald remain independent and strong, but only if they adapt. She drives forward not from personal ambition but from a conviction born in visions: her people will either evolve under guided leadership, or be swept away by forces they do not understand. Everything she does, however controversial, aims toward this singular goal. Her conviction that the villages need continuing guided leadership challenges their custom; her visions confer no common office or right to govern them.
+Athalwa's primary motivation is the survival and flourishing of the Vristwald Tribes in a changing world. She perceives that the old ways, while honorable and containing wisdom, are insufficient for the challenges ahead. She sees the Bizarian League expanding, the southern kingdoms consolidating power, the world becoming more connected and complex. Her visions show her paths where the Vristwald remain independent and strong, but only if they adapt. She drives forward not from personal ambition but from a conviction born in visions: her people will either evolve under guided leadership, or be swept away by forces they do not understand. Everything she does, however controversial, aims toward this singular goal. Her conviction that the villages need continuing guided leadership challenges their custom; her visions confer no common office or right to govern them.
 
 ### Strengths
 
@@ -464,7 +464,7 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 - **Mystical Burden**: Her visions, while often accurate, sometimes cloud her judgment. She occasionally acts on intuitions that lack rational foundation, trusting her perception rather than evidence.
 - **Political Vulnerability**: As a female War Chief operating outside traditional frameworks, Athalwa is perpetually vulnerable to challenges from conservative factions within her own people. Her authority, though real, remains contested.
 - **Emotional Distance**: Her tendency to perceive events in larger, longer timescales than others makes her sometimes seem cold and dismissive of immediate human suffering. Warriors and clan members occasionally feel she values winning the larger fight over their wellbeing.
-- **Limited Diplomatic Subtlety**: While effective with direct negotiations, Athalwa sometimes misses the nuances of courtly politics in more cultured realms. The Byzarian League and other complex political entities sometimes take advantage of her more straightforward approach.
+- **Limited Diplomatic Subtlety**: While effective with direct negotiations, Athalwa sometimes misses the nuances of courtly politics in more cultured realms. The Bizarian League and other complex political entities sometimes take advantage of her more straightforward approach.
 - **Dependence on Visions**: Should her mystical abilities fade or prove unreliable, her authority would be severely compromised. Evidence of false visions could destroy her completely.
 
 ## Social
@@ -474,7 +474,7 @@ Athalwa's primary motivation is the survival and flourishing of the Vrystwald Tr
 The War Band of Eichengrund
 : Young warriors and ambitious raiders who benefit from Athalwa's expansionist policies and see in her a leader who can elevate them to power within the broader world.
 
-Merchant Prince Druzês of the Byzarian League
+Merchant Prince Druzes of the Bizarian League
 : A canny trader who has secured access to Eichengrund’s furs and amber through village trade agreements and his relationship with Athalwa. They maintain a respectful commercial and diplomatic relationship.
 
 ### Enemies
@@ -486,7 +486,7 @@ Elder Council Speaker Vorthrim
 : The most influential of the conservative elders, **Vorthrim** views Athalwa's innovations as a betrayal of ancient tradition. He orchestrates political challenges to her authority.
 
 Shadow Throne Empire
-: A distant but expanding southern empire that views the Vrystwald Tribes as an obstacle to continental domination. They have begun secretly funding Athalwa's internal enemies.
+: A distant but expanding southern empire that views the Vristwald Tribes as an obstacle to continental domination. They have begun secretly funding Athalwa's internal enemies.
 
 ### Affiliations
 
@@ -502,8 +502,8 @@ The Eastern Trade Consortium
 
 2. **The Coalition Against Prophecy**: Conservative elders, supported secretly by the Shadow Throne Empire, begin openly challenging Athalwa's claim that her visions are true. They propose a ritual to test them—a ritual designed to fail even if her visions are real. Athalwa must navigate this political trap while maintaining her authority and the support of her warriors.
 
-3. **The Lost Kingdom**: Athalwa's visions begin revealing a civilization that existed centuries before even the oldest Vrystwald legends—an advanced kingdom in the far north that was deliberately hidden or destroyed. Investigation into these visions leads toward territories no Vrystwald explorer has ventured into in living memory, promising both discovery and terrible danger from whatever drove the ancients away.
+3. **The Lost Kingdom**: Athalwa's visions begin revealing a civilization that existed centuries before even the oldest Vristwald legends—an advanced kingdom in the far north that was deliberately hidden or destroyed. Investigation into these visions leads toward territories no Vristwald explorer has ventured into in living memory, promising both discovery and terrible danger from whatever drove the ancients away.
 
-4. **The Diplomatic Gambit**: The Byzarian League formally proposes a marriage alliance between Athalwa and a powerful Byzarian noble—ostensibly to cement trade relationships and prevent future conflicts. Athalwa recognizes this as an attempt to diminish her authority by tying her to foreign politics, yet rejecting it would be interpreted as hostility and isolation. She must navigate this delicate negotiation while protecting her independence.
+4. **The Diplomatic Gambit**: The Bizarian League formally proposes a marriage alliance between Athalwa and a powerful Bizarian noble—ostensibly to cement trade relationships and prevent future conflicts. Athalwa recognizes this as an attempt to diminish her authority by tying her to foreign politics, yet rejecting it would be interpreted as hostility and isolation. She must navigate this delicate negotiation while protecting her independence.
 
-5. **The Curse Upon the Land**: A blight begins spreading across Vrystwald territory—crops fail, livestock sicken, and newborns are stillborn with increasing frequency. The conservative elders declare this proof of divine punishment for Athalwa's unorthodox leadership. Athalwa's visions are clouded and unclear about the cause. She must investigate what appears to be either supernatural curse, systematic poisoning, or enemy magic, while simultaneously defending her authority against those claiming the blight is divine punishment.
+5. **The Curse Upon the Land**: A blight begins spreading across Vristwald territory—crops fail, livestock sicken, and newborns are stillborn with increasing frequency. The conservative elders declare this proof of divine punishment for Athalwa's unorthodox leadership. Athalwa's visions are clouded and unclear about the cause. She must investigate what appears to be either supernatural curse, systematic poisoning, or enemy magic, while simultaneously defending her authority against those claiming the blight is divine punishment.

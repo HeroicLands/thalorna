@@ -1,6 +1,6 @@
 ---
 shortcode: aldwngrylng
-name: {full: Aldwin Grayling, aliases: []}
+name: {full: Aldwald Grayling, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -390,13 +390,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Aldwin Grayling is a 48-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a rounded chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A slightly upturned nose and narrow lips complete his features. He has fair skin with a fair complexion. His dark brown hair is short and swept back.
+Aldwald Grayling is a 48-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a rounded chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A slightly upturned nose and narrow lips complete his features. He has fair skin with a fair complexion. His dark brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Aldwin Grayling is a beggar.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Aldwald Grayling is a beggar.
 
-Aldwin once worked as a farmhand but lost his job after a poor harvest left the farm struggling to survive. He drifted to the nearest town in search of work but ended up living on the streets, begging for coin. Aldwin is determined to find his way back to a better life, though his pride sometimes prevents him from accepting help.
+Aldwald once worked as a farmhand but lost his job after a poor harvest left the farm struggling to survive. He drifted to the nearest town in search of work but ended up living on the streets, begging for coin. Aldwald is determined to find his way back to a better life, though his pride sometimes prevents him from accepting help.
 
 ## Psyche
 
@@ -406,7 +406,7 @@ Stubborn and finds it hard to accept charity.
 
 ### Motivation
 
-Aldwin wants to find his way back to a better life, though his pride sometimes prevents him from accepting help.
+Aldwald wants to find his way back to a better life, though his pride sometimes prevents him from accepting help.
 
 ### Strengths
 
@@ -414,13 +414,13 @@ Resilient and hard-working, retains some basic farming skills.
 
 ## Social
 
-Aldwin has no guild affiliation.
+Aldwald has no guild affiliation.
 
 ## Companions
 
 ### Patrons
 
-Former farm acquaintances sometimes help Aldwin, though he is reluctant to accept their charity.
+Former farm acquaintances sometimes help Aldwald, though he is reluctant to accept their charity.
 
 ### Enemies
 
@@ -428,12 +428,12 @@ Guards who harass vagrants.
 
 ## Plot Hooks
 
-1. **The Beggar's Dilemma**—Aldwin faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Beggar's Dilemma**—Aldwald faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Guards who harass vagrants. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Aldwin's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Aldwald's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Aldwin depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Aldwald depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Aldwin the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Aldwald the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

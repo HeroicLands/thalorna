@@ -1,6 +1,6 @@
 ---
 shortcode: thrgrmrkhld
-name: {full: Thrágrim yra Ríkhild wur Falkenstein, aliases: []}
+name: {full: Thragrim yra Rikhild wur Falkenstein, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Thrágrim yra Ríkhild wur Falkenstein is a 48-year-old man who stands 6'3" tall and is broad and solidly built. He has a broad face with prominent cheekbones, a lined forehead, and a square jaw that leads to a strong chin. His bright blue eyes sit beneath thick brows and give him a lively gaze. He has a broad nose and wide lips. He has light skin with a weathered complexion. His gray hair is thick and unkempt.
+Thragrim yra Rikhild wur Falkenstein is a 48-year-old man who stands 6'3" tall and is broad and solidly built. He has a broad face with prominent cheekbones, a lined forehead, and a square jaw that leads to a strong chin. His bright blue eyes sit beneath thick brows and give him a lively gaze. He has a broad nose and wide lips. He has light skin with a weathered complexion. His gray hair is thick and unkempt.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Thrágrim is a timberwright.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Thragrim is a timberwright.
 
-Thrágrim has spent most of his life working in the forests, felling trees and shaping timber for building. He learned the trade from his father and has a reputation for skill and quick work. He is a hardworking man who takes pride in his craft, but his rough manner can be off-putting. He often works alone, preferring the solitude of the woods to the bustle of the village.
+Thragrim has spent most of his life working in the forests, felling trees and shaping timber for building. He learned the trade from his father and has a reputation for skill and quick work. He is a hardworking man who takes pride in his craft, but his rough manner can be off-putting. He often works alone, preferring the solitude of the woods to the bustle of the village.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ He is gruff, prefers working alone, and is awkward in company.
 
 ### Motivation
 
-Thrágrim wants to be left to his work in the woods and paid what his timber is worth.
+Thragrim wants to be left to his work in the woods and paid what his timber is worth.
 
 ### Strengths
 
@@ -416,7 +416,7 @@ He is skilled in felling trees, experienced in working timber, and physically st
 
 ## Social
 
-Thrágrim chooses and shapes timber near Falkenstein for households that ask for his work. A carpenter may join him on a job, but no timberwrights’ guild owns the forest or judges his craft.
+Thragrim chooses and shapes timber near Falkenstein for households that ask for his work. A carpenter may join him on a job, but no timberwrights’ guild owns the forest or judges his craft.
 
 ## Companions
 
@@ -430,12 +430,12 @@ Few, though some villagers find his solitary nature strange.
 
 ## Plot Hooks
 
-1. **The Timberwright's Dilemma**—A carpenter presses Thrágrim for green timber he knows will fail, and he has to choose between the sale and his name.
+1. **The Timberwright's Dilemma**—A carpenter presses Thragrim for green timber he knows will fail, and he has to choose between the sale and his name.
 
 2. **Old Grudges**—The villagers who find him strange begin to blame him when something goes wrong in the woods.
 
-3. **Echoes of the Past**—Something from Thrágrim's earlier life resurfaces and has to be settled, solitude or no.
+3. **Echoes of the Past**—Something from Thragrim's earlier life resurfaces and has to be settled, solitude or no.
 
-4. **Shifting Winds**—A feud cuts off the timber paths and threatens the trade Thrágrim depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—A feud cuts off the timber paths and threatens the trade Thragrim depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A chance encounter offers Thrágrim work beyond anything the village has paid him, and the price is not named up front.
+5. **The Opportunity**—A chance encounter offers Thragrim work beyond anything the village has paid him, and the price is not named up front.

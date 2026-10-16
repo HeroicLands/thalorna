@@ -238,7 +238,7 @@ In the bamboo the light falls in vertical bars. The fresh pug-mark in the mud is
 
 # Dossier {#dossier}
 
-The Tiger is the largest cat, three to three and a half feet at the shoulder and nine to twelve feet long, four hundred to six hundred sixty pounds, a lone ambush hunter of jungle, tall grass, river margin and mountain forest. It lives in [[place-vedyarargn|Vedyara]] and the forested hills of [[place-tantsouregin|Tāntsou]]. In the south it is sacred to the god of destruction and transformation, and its image is on temple walls, warrior shields and thrones. Killing one is either a supreme feat or a sacrilege, depending on the circumstances and the priesthood consulted.
+The Tiger is the largest cat, three to three and a half feet at the shoulder and nine to twelve feet long, four hundred to six hundred sixty pounds, a lone ambush hunter of jungle, tall grass, river margin and mountain forest. It lives in [[place-vedyarargn|Vedyara]] and the forested hills of [[place-tantsouregin|Tantsou]]. In the south it is sacred to the god of destruction and transformation, and its image is on temple walls, warrior shields and thrones. Killing one is either a supreme feat or a sacrilege, depending on the circumstances and the priesthood consulted.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A massive animal, long and deep-chested, on shorter, thicker legs than a lion's,
 
 ## In the Land
 
-Tigers live in the jungle, tall grass, river margins and mountain forests of [[place-vedyarargn|Vedyara]] and the forested hills of [[place-tantsouregin|Tāntsou]]. A male holds twenty to forty square miles of prime ground, and a female a smaller range inside it. A tiger lies up through the heat in dense cover or in water and hunts at dusk, dawn and by night, stalking to a few strides and charging. It drags the carcass to a hiding-place and feeds on it for days.
+Tigers live in the jungle, tall grass, river margins and mountain forests of [[place-vedyarargn|Vedyara]] and the forested hills of [[place-tantsouregin|Tantsou]]. A male holds twenty to forty square miles of prime ground, and a female a smaller range inside it. A tiger lies up through the heat in dense cover or in water and hunts at dusk, dawn and by night, stalking to a few strides and charging. It drags the carcass to a hiding-place and feeds on it for days.
 
 ## Key Behaviors
 

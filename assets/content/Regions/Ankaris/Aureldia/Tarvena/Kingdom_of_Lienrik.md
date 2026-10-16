@@ -1,6 +1,6 @@
 ---
 shortcode: kingdmlnrk
-name: {full: Kingdom of Liénrik, aliases: []}
+name: {full: Kingdom of Lienrik, aliases: []}
 type: affiliation
 subType: polity
 description: "Largest and most fertile of Tarvénia's three kingdoms in the central-southern lowlands—wealthy, populous, and politically ambitious, with the richest farmland in the realm."
@@ -119,29 +119,29 @@ sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
 - **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
-- **Language:** Tarvéni
-- **Naming Convention:** [[skill-tarvenlng|Tarvéni]]
-- **Pantheon:** [[affiliation-arldnpnthn|Aurèldían]]
+- **Language:** Tarveni
+- **Naming Convention:** [[skill-tarvenlng|Tarveni]]
+- **Pantheon:** [[affiliation-arldnpnthn|Aureldian]]
 - **Government:** Hereditary monarchy with feudal nobility
 
 ## Overview
 
-The Kingdom of Liénrik holds the land of [[place-leonrik|Liénrik]]. Its rich farmland, productive vineyards, and thriving market towns make it the agricultural backbone of [[place-tarvenirgn|Tarvénia Region]]—and its ambitious nobility makes it the kingdom most likely to challenge the others for dominance.
+The Kingdom of Lienrik holds the land of [[place-leonrik|Lienrik]]. Its rich farmland, productive vineyards, and thriving market towns make it the agricultural backbone of [[place-tarvenirgn|Tarvénia Region]]—and its ambitious nobility makes it the kingdom most likely to challenge the others for dominance.
 
 ## Character
 
-Liénrik has the most conventional feudal structure of any Tarvénan region. Its lords hold their lands from the king, who in turn owes nominal allegiance to the High King of Tarvénia. In practice, Liénriki nobles are among the most politically active in the kingdom—their wealth gives them ambitions that the mountain lords of Astúrath and the shipmasters of Galváren cannot easily match. Liénriki lords have contested the High Kingship more often than anyone, and several have worn the crown; the first, Estáril, held it from about 605 AF, while Provènzia fought its _thêrkhôs_ (governor) and the Tarvénian hosts pressed west.
+Lienrik has the most conventional feudal structure of any Tarvenan region. Its lords hold their lands from the king, who in turn owes nominal allegiance to the High King of Tarvénia. In practice, Liénriki nobles are among the most politically active in the kingdom—their wealth gives them ambitions that the mountain lords of Asturath and the shipmasters of Galvaren cannot easily match. Liénriki lords have contested the High Kingship more often than anyone, and several have worn the crown; the first, Estaril, held it from about 605 AF, while Provenzia fought its _therkos_ (governor) and the Tarvénian hosts pressed west.
 
-Liénrik bore the brunt of Vylarian occupation during the imperial era ([[lore-lowlandstaken|The Lowlands Taken]]), and its architecture reflects this: fortified manor houses, walled towns, and a network of watchtowers that served as an early-warning system against risings and, once the garrisons were driven out, were turned to face the coast ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The families who keep the towers charge for the light. The occupation left a lasting mark on Liénriki culture. The kingdom's administrative traditions are more sophisticated than those of its neighbors, its legal codes more formalized, and its nobility more conscious of lineage and precedence—all legacies of Vylarian influence, though no Liénriki lord would thank you for pointing this out.
+Lienrik bore the brunt of Vylarian occupation during the imperial era ([[lore-lowlandstaken|The Lowlands Taken]]), and its architecture reflects this: fortified manor houses, walled towns, and a network of watchtowers that served as an early-warning system against risings and, once the garrisons were driven out, were turned to face the coast ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The families who keep the towers charge for the light. The occupation left a lasting mark on Liénriki culture. The kingdom's administrative traditions are more sophisticated than those of its neighbors, its legal codes more formalized, and its nobility more conscious of lineage and precedence—all legacies of Vylarian influence, though no Liénriki lord would thank you for pointing this out.
 
 ## Commerce and Currency
 
-Kingdom of Liénrik uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Kingdom of Liénrik is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Lienrik uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Kingdom of Lienrik is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord
 - [[place-tarvenirgn|Tarvénia Region]]—Regional overview
-- [[place-leonrik|Liénrik]]—The land the kingdom holds
-- [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]]—Sister kingdoms
-- [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—Fellow Tarvénan regions
+- [[place-leonrik|Lienrik]]—The land the kingdom holds
+- [[affiliation-kngdmstrth|Kingdom of Asturath]], [[affiliation-kngdmglvrn|Kingdom of Galvaren]]—Sister kingdoms
+- [[affiliation-frctyvlthr|Free City of Valthari]], [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—Fellow Tarvenan regions

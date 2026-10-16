@@ -24,9 +24,9 @@ The forests are not large in the cartographic sense, but they are difficult to m
 
 The Silver Forests are one of the thinnest places between the mortal world and the fae realm anywhere on [[place-ankrscntnnt|Ankaris Continent]]. Beings that in other lands are glimpsed once in a lifetime and then doubted by the witness forever afterward are, in the Silver Forests, simply present. The Áelendan who enter the forests on sanctioned business know the protocols: what to speak, what to leave as offering, what paths to walk and which to avoid, what moonlight conditions indicate that it is time to turn back. These protocols are not improvisations; they are the codified result of many generations of experience, and they are not shared with outsiders.
 
-## Relationship with the Sinalë
+## Relationship with the Sinale
 
-The [[lore-flksinale|Sinalë]] enclaves in the deep Élavendren forests are believed to have particular connection with the Silver Forests, though the nature of that connection is not something the Sinalë have ever explained. Some Áelendan songs imply that the Silver Forests were grown by the Sinalë in cooperation with the fae at the dawn of things; others speak of the forests as predating even the Sinalë. Both versions may be true; the Áelendan do not consider these mutually exclusive.
+The [[lore-flksinale|Sinale]] enclaves in the deep Élavendren forests are believed to have particular connection with the Silver Forests, though the nature of that connection is not something the Sinale have ever explained. Some Áelendan songs imply that the Silver Forests were grown by the Sinale in cooperation with the fae at the dawn of things; others speak of the forests as predating even the Sinale. Both versions may be true; the Áelendan do not consider these mutually exclusive.
 
 ## The Felled Stand
 
@@ -39,7 +39,7 @@ At the margin of the forests nearest [[place-eshalshldg|Ésalosa Lodge]] stands 
 
 The Silver Forests are effectively closed to outsiders. The [[affiliation-alndnwrdns|Áelendan Wardens]] patrol their approaches with particular diligence, and trespass within the forests proper is treated as a violation of the most serious order. The crown of Élavendre has acknowledged this jurisdiction for as long as the kingdom has existed, and royal magistrates decline to hear complaints from those who enter unauthorized and fail to return.
 
-In rare cases, the Áelendan have escorted specific individuals into outer portions of the forests—usually scholars of high reputation, envoys from the Sinalë, or persons who have demonstrated some particular claim on Áelendan trust. Such visits are not something one arranges; they are something one is offered, on terms one does not set.
+In rare cases, the Áelendan have escorted specific individuals into outer portions of the forests—usually scholars of high reputation, envoys from the Sinale, or persons who have demonstrated some particular claim on Áelendan trust. Such visits are not something one arranges; they are something one is offered, on terms one does not set.
 
 ## See Also
 
@@ -47,7 +47,7 @@ In rare cases, the Áelendan have escorted specific individuals into outer porti
 - [[lore-aelendnppl|Áelendan]]—The custodial people
 - [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects the forests
 - [[lore-faecourts|The Fae Courts]]—Related fae phenomena
-- [[lore-flksinale|Sinalë]]—The elder race associated with the forests
+- [[lore-flksinale|Sinale]]—The elder race associated with the forests
 - [[lore-blacksnow|The Black Snow]]—The felling that gave the Áelendan their birch law
 - [[place-hntrsrng|The Hunter's Ring]]—The ring of boundary stones on the forests' outer margin, and the hunter whose ground it holds
 - [[scenario-lodgesilvbgh|The Lodge beneath the Silver Boughs]]—A scenario set at the Hunter's Ring

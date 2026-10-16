@@ -1,6 +1,6 @@
 ---
 shortcode: flthnktrts
-name: {full: Fritia Manedês, given: Fritia, clan: Manedês, aliases: []}
+name: {full: Fritia Manedes, given: Fritia, clan: Manedes, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -410,7 +410,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[flthnktrts|Fritia Manedês]]{float=top-left}
+![[flthnktrts|Fritia Manedes]]{float=top-left}
 
 Fritia stands 5'9" tall with a light build. She has sun-tanned skin, black hair, and brown eyes. Her features include a narrow face, an aquiline nose, a narrow chin, well-defined lips, thick dark brows, and hollow cheeks. She has a tattoo of a tree on her back.
 
@@ -420,7 +420,7 @@ Fritia was born in the maritime city of Thálassos into a merchant family of mod
 
 Her formal training under the exacting Master Ósiris of the Minstrels' Guild lasted six grueling years. While other students labored over composition theory and courtly decorum, Fritia proved herself an improviser without equal, her fingers dancing across the strings with an intuitive grace that left her instructors both awed and unsettled. Yet her reluctance to master the rigid constraints of formal composition ultimately limited her advancement within the Guild's hierarchy—a source of quiet frustration to this day.
 
-Now twenty-six and a journeyman performer of growing reputation, Fritia travels the taverns, festivals, and public squares of the Byzarian League. She earns her bread through impromptu performances, custom ballads, and occasional teaching, but her heart yearns for something more: the discovery of the fabled "Lost Anthem," a pre-ancient melody said to be woven into the land itself.
+Now twenty-six and a journeyman performer of growing reputation, Fritia travels the taverns, festivals, and public squares of the Bizarian League. She earns her bread through impromptu performances, custom ballads, and occasional teaching, but her heart yearns for something more: the discovery of the fabled "Lost Anthem," a pre-ancient melody said to be woven into the land itself.
 
 ## Psyche
 
@@ -462,10 +462,10 @@ Fritia seeks to go beyond mere entertainment. Obsessed with uncovering the mythi
 
 ### Patrons
 
-Varékos the Heartful
+Varekos the Heartful
 : Proprietor of the Siren's Repose, a beloved tavern in Thálassos's harbor district. He has become something of a father figure to Fritia, offering her steady employment and shelter, though he worries about her increasingly dangerous quests. Their relationship is complex—he has never concealed romantic interest, which Fritia gently deflects with affection but firm boundaries.
 
-Lady Ambâréna Linákit
+Lady Ambarena Linakit
 : An aging widow of minor noble standing who became enchanted with Fritia's playing at a merchant's wedding. She now sponsors the musician's travels and has deep connections throughout the League's nobility, which Fritia leverages despite her distaste for aristocratic politics.
 
 The Fisher-Folk of Coastal Villages
@@ -473,18 +473,18 @@ The Fisher-Folk of Coastal Villages
 
 ### Enemies
 
-Gedôn the Flawless
+Gedon the Flawless
 : A virtuoso courtier-musician of aristocratic birth who views Fritia as an untutored talent who has undeservedly garnered Guild attention. He has spread rumors questioning her authenticity and occasionally purchases her commissions only to cancel them publicly, damaging her reputation.
 
 The Orthodox Guild Establishment
 : While she holds membership in good standing, several senior Guild masters view her refusal to commit to formal composition as a betrayal of their teachings. They have subtly blacklisted her from high-profile teaching positions.
 
-Kârell the Sage-Hunter
+Karell the Sage-Hunter
 : An obsessive collector of arcane lore who believes Fritia possesses information about the Lost Anthem that rightfully belongs to him. He has begun following her travels, offering payment for her research, and growing more threatening as she refuses his advances.
 
 ### Affiliations
 
-Minstrels' Guild of the Byzarian League
+Minstrels' Guild of the Bizarian League
 : Her official membership, though tensions exist with the establishment hierarchy regarding her unconventional approach.
 
 The Siren's Repose

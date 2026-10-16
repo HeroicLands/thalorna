@@ -1,6 +1,6 @@
 ---
 shortcode: glrvrvstnblt
-name: {full: Glarvorv Steinblót, aliases: []}
+name: {full: Glarvorv Steinblet, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,11 +393,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Glarvorv Steinblót is a 31-year-old man who stands 5'7" tall and is of moderate build. He has a long face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and wide lips complete his features. He has pale skin with a pale complexion. His brown hair is braided at the temples.
+Glarvorv Steinblet is a 31-year-old man who stands 5'7" tall and is of moderate build. He has a long face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and wide lips complete his features. He has pale skin with a pale complexion. His brown hair is braided at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Glarvorv Steinblót came into the world of the perfumer through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Glarvorv Steinblet came into the world of the perfumer through a combination of circumstance and aptitude.
 
 Glarvorv is a well known perfumer who specializes in crafting bold and exotic scents. He is known for using unconventional ingredients, often sourcing rare plants and flowers from distant lands. Glarvorv has developed a reputation for his artistic approach to perfumery and has garnered a loyal clientele. He enjoys the challenge of creating scents that evoke powerful emotions and memories.
 

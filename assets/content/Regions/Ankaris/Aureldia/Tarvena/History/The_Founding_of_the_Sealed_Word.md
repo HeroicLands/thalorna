@@ -3,7 +3,7 @@ shortcode: sealedwordfnd
 name: {full: The Founding of the Sealed Word, aliases: [The Chartering at Ólvestra]}
 type: lore
 subType: history
-description: "About 421 AF, when the Edicts of Arzánas closed the western wars, Árdavon's priesthood chartered a sworn order at Ólvestra to ride to broken oaths, hear them and compel the remedy."
+description: "About 421 AF, when the Edicts of Arzanas closed the western wars, Árdavon's priesthood chartered a sworn order at Ólvestra to ride to broken oaths, hear them and compel the remedy."
 tags: [history]
 data:
   packFolder: tarvenia
@@ -18,7 +18,7 @@ data:
         - affiliation-arldnpnthn
         - affiliation-kingdmtrvn
       summary: >-
-        When the Edicts of Arzánas close the western wars, the crowns of Aurèldía lose the one power that had kept oaths between them, the legions. Árdavon's priesthood charters a sworn order at Ólvestra to ride to broken oaths, hear them and compel the remedy, and the first entry in its register is a boundary oath between two Tarvénian lords.
+        When the Edicts of Arzanas close the western wars, the crowns of Aureldia lose the one power that had kept oaths between them, the legions. Árdavon's priesthood charters a sworn order at Ólvestra to ride to broken oaths, hear them and compel the remedy, and the first entry in its register is a boundary oath between two Tarvénian lords.
       standing: attested
       names:
         - {name: the Order of the Sealed Word, by: affiliation-ordrsldwrd}
@@ -30,7 +30,7 @@ data:
             how: the Tarvénian lords, who settled oaths with the sword, bring their disputes to a hearing that answers in a god's name
             knowledge: named
           - place: place-aureldirgn
-            how: each crown of Aurèldía licenses the order to hold hearings in its courts and renews the license as a political act
+            how: each crown of Aureldia licenses the order to hold hearings in its courts and renews the license as a political act
             knowledge: named
           - place: place-provenzrgn
             how: the merchant cities, whose contracts the Empire's courts once protected, take their oath-disputes to the order's chapter houses
@@ -60,7 +60,7 @@ The first entry in the master register at Ólvestra is a boundary oath between t
 
 ## The Gap
 
-For three centuries the legions had kept the peace between the crowns of Aurèldía, in the sense that no crown could break an oath with another without the Empire noticing. The Edicts of Arzánas closed the western wars about 418 AF ([[lore-arzanasedict|The Edicts of Arzánas]]), and with them closed the Empire's willingness to be the court of last appeal. Oaths sworn between lords, between cities and between crowns were now guaranteed by nothing except the swearer's honor, and the swearers knew it.
+For three centuries the legions had kept the peace between the crowns of Aureldia, in the sense that no crown could break an oath with another without the Empire noticing. The Edicts of Arzanas closed the western wars about 418 AF ([[lore-arzanasedict|The Edicts of Arzanas]]), and with them closed the Empire's willingness to be the court of last appeal. Oaths sworn between lords, between cities and between crowns were now guaranteed by nothing except the swearer's honor, and the swearers knew it.
 
 ## The Charter
 
@@ -70,7 +70,7 @@ The first petition the order accepted was a boundary oath between two Tarvénian
 
 ## The Register
 
-The order keeps a master register at Ólvestra of every contested oath it has ruled on, and its **Council of the Seal** meets there every quarter. It is licensed by each of the Aurèldían crowns to hold hearings in their courts, and the license is renewed as a political matter. Its rulings bind nobody in law and are obeyed in practice, because the order refuses petitions it cannot substantiate and does not favor the powerful.
+The order keeps a master register at Ólvestra of every contested oath it has ruled on, and its **Council of the Seal** meets there every quarter. It is licensed by each of the Aureldian crowns to hold hearings in their courts, and the license is renewed as a political matter. Its rulings bind nobody in law and are obeyed in practice, because the order refuses petitions it cannot substantiate and does not favor the powerful.
 
 ## What It Left
 
@@ -82,5 +82,5 @@ The order keeps a master register at Ólvestra of every contested oath it has ru
 
 - [[affiliation-ordrsldwrd|The Order of the Sealed Word]]—the order
 - [[place-olvestria|Ólvestra]]—where it was chartered
-- [[lore-arzanasedict|The Edicts of Arzánas]]—the edicts that left the gap
+- [[lore-arzanasedict|The Edicts of Arzanas]]—the edicts that left the gap
 - [[affiliation-ardavon|The Faith of Árdavon]]

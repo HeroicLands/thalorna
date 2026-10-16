@@ -13,7 +13,7 @@ data:
   packFolder: neokbaate
   government: neokbaate
 
-# terran_analog: Nicaragua through Colombia; Ne' Tz'umul is Quirigua; Q'o Kul'qat is Copan; Tz'ilil Ne'tz'ik, the Island of Swallows, is Cozumel; the eastern coast is the Caribbean, the eastern rains are Atlantic-facing, and the rivers are the Rio Grande and the Rio Negro
+# terran_analog: Nicaragua through Colombia; Ne' Ts'umul is Quirigua; Q'o Kul'qat is Copan; Ts'ilil Ne'ts'ik, the Island of Swallows, is Cozumel; the eastern coast is the Caribbean, the eastern rains are Atlantic-facing, and the rivers are the Rio Grande and the Rio Negro
 ---
 
 ## Overview
@@ -22,7 +22,7 @@ Ne'ok Ba'ate Region is the land of [[affiliation-neokbaate|Ne'ok Ba'ate]], and l
 
 Ne'ok Ba'ate is the narrow isthmus that connects the great heartland of [[place-kchchkcntnnt|K'ich'chik]] civilization to the wilder, less centralized lands of the south. The name means "Watery Bridge" in the old language, and it is apt—a region of narrow continental shelf, volcanic peaks, and river valleys that forms a natural corridor for both the great trading roads and the ambitious armies of the northern city-states.
 
-Ne'ok Ba'ate is also the gateway of merchants. Goods flowing northward from the southern jungles—jaguar hides, macaw feathers, cacao from the highland margins, rare woods and medicinal herbs—pass through Ne'ok Ba'ate on their way to Ix'ilankul and K'ankul. Goods flowing southward—obsidian, fine textiles, ceremonial objects, and priests dispatched to extend the [[affiliation-itzanpnthn|Itzáni]] faith—originate from the great northern city-states. Thus, Ne'ok Ba'ate is simultaneously a province and a chokepoint, a place where merchants grow wealthy but also where the ambitions of great powers often collide.
+Ne'ok Ba'ate is also the gateway of merchants. Goods flowing northward from the southern jungles—jaguar hides, macaw feathers, cacao from the highland margins, rare woods and medicinal herbs—pass through Ne'ok Ba'ate on their way to Ish'ilankul and K'ankul. Goods flowing southward—obsidian, fine textiles, ceremonial objects, and priests dispatched to extend the [[affiliation-itzanpnthn|Itsani]] faith—originate from the great northern city-states. Thus, Ne'ok Ba'ate is simultaneously a province and a chokepoint, a place where merchants grow wealthy but also where the ambitions of great powers often collide.
 
 ## Geography
 
@@ -34,17 +34,17 @@ The climate is hot and humid throughout the region, with heavy rainfall in the e
 
 ## City-States and Realms
 
-Ne'ok Ba'ate's greatest city-states include **Ne' Tz'umul** ("Red Water"), a sprawling complex overlooking the great river where astronomical monuments rival those of K'ankul; **Q'o Kul'qat** (the "Twin Pyramid"), famous for its intricate carved monuments and its political independence; and [[place-tzililnetzik|Tz'ilil Ne'tz'ik]], the Island of Swallows, an island trading port that controls a vast archipelago of small islands and maintains its own small but efficient navy.
+Ne'ok Ba'ate's greatest city-states include **Ne' Ts'umul** ("Red Water"), a sprawling complex overlooking the great river where astronomical monuments rival those of K'ankul; **Q'o Kul'qat** (the "Twin Pyramid"), famous for its intricate carved monuments and its political independence; and [[place-tzililnetzik|Ts'ilil Ne'ts'ik]], the Island of Swallows, an island trading port that controls a vast archipelago of small islands and maintains its own small but efficient navy.
 
 ## Trade
 
-Ne'ok Ba'ate's prosperity rests on its position as a crossroads. Highland goods from [[affiliation-ixilankul|Ix'ilankul]]—obsidian, fine textiles, and luxury ceramics—enter Ne'ok Ba'ate's merchant networks and are transported southward to the diverse cultures of the outer continent and to the distant markets of the southern ocean. Conversely, exotic goods from the southern jungles and coast—jaguar hides, macaw feathers, rare woods like mahogany and rosewood, and the finest cacao—pass through Ne'ok Ba'ate on their way to satisfy the appetites of Ix'ilankul and K'ankul's aristocracy.
+Ne'ok Ba'ate's prosperity rests on its position as a crossroads. Highland goods from [[affiliation-ixilankul|Ish'ilankul]]—obsidian, fine textiles, and luxury ceramics—enter Ne'ok Ba'ate's merchant networks and are transported southward to the diverse cultures of the outer continent and to the distant markets of the southern ocean. Conversely, exotic goods from the southern jungles and coast—jaguar hides, macaw feathers, rare woods like mahogany and rosewood, and the finest cacao—pass through Ne'ok Ba'ate on their way to satisfy the appetites of Ish'ilankul and K'ankul's aristocracy.
 
-The maritime trade is particularly significant. Ne'ok Ba'ate's merchants have established networks of trading posts along the coasts, and their merchant canoes venture far beyond the traditional bounds of K'ich'chik culture. It is Ne'ok Ba'ate traders who have made the first contacts with peoples far to the south and have begun to establish the trade relationships that are slowly bringing southern regions into the K'ich'chik commercial sphere. The ports of Tz'ilil Ne'tz'ik and the other eastern-coast city-states handle an enormous volume of maritime trade, and the merchant families that control these ports have become immensely wealthy.
+The maritime trade is particularly significant. Ne'ok Ba'ate's merchants have established networks of trading posts along the coasts, and their merchant canoes venture far beyond the traditional bounds of K'ich'chik culture. It is Ne'ok Ba'ate traders who have made the first contacts with peoples far to the south and have begun to establish the trade relationships that are slowly bringing southern regions into the K'ich'chik commercial sphere. The ports of Ts'ilil Ne'ts'ik and the other eastern-coast city-states handle an enormous volume of maritime trade, and the merchant families that control these ports have become immensely wealthy.
 
 ## See Also
 
 - [[affiliation-neokbaate|Ne'ok Ba'ate]]—The realm that holds this land
 - [[place-cntrlkchchk|Central K'ich'chik]]—The enclosing region
 - [[place-neokbaate2|Ne'ok Ba'ate]]—Seat of Ne'ok Ba'ate
-- [[place-kulqattzumul|Kul'qat Tz'umul]]—A forgotten binding temple of the storm-serpent in the eastern rainforest
+- [[place-kulqattzumul|Kul'qat Ts'umul]]—A forgotten binding temple of the storm-serpent in the eastern rainforest

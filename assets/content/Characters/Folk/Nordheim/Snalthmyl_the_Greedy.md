@@ -1,11 +1,11 @@
 ---
 shortcode: snalthmylthe
 name:
-  full: Snalthmýl the Greedy
-  aliases: [Merchant Lord Snalthmýl the Greedy, Merchant Lord Snalthmýl]
+  full: Snalthmil the Greedy
+  aliases: [Merchant Lord Snalthmil the Greedy, Merchant Lord Snalthmil]
 type: being
 subType: npc
-description: A crooked trader whose smuggling operations Vruldorv Dróttgar once refused to protect.
+description: A crooked trader whose smuggling operations Vruldorv Drottgar once refused to protect.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Snalthmýl the Greedy is a 59-year-old man who stands 6'0" tall with a heavy build. He has light skin, scarred complexion, black hair, and blue eyes.
+Snalthmil the Greedy is a 59-year-old man who stands 6'0" tall with a heavy build. He has light skin, scarred complexion, black hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Snalthmýl the Greedy is a crooked merchant lord whose smuggling operations [[being-vrldrvdrtgr|Vruldorv Dróttgar]] once refused to protect. He now uses his considerable wealth to undermine Vruldorv's reputation.
+Snalthmil the Greedy is a crooked merchant lord whose smuggling operations [[being-vrldrvdrtgr|Vruldorv Drottgar]] once refused to protect. He now uses his considerable wealth to undermine Vruldorv's reputation.

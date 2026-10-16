@@ -1,12 +1,12 @@
 ---
 shortcode: bazunel
-name: {full: Bazûnel, aliases: []}
+name: {full: Bazunel, aliases: []}
 type: affiliation
 subType: polity
-description: "City-state of scholars, artists, and shipwrights on Tarûzel's southern coast—smaller and less martial than its sisters, but burning with the creative energy that makes it Tarûzel's cultural heart."
+description: "City-state of scholars, artists, and shipwrights on Taruzel's southern coast—smaller and less martial than its sisters, but burning with the creative energy that makes it Taruzel's cultural heart."
 data:
   templatePriority: null
-  demonym: Bazûnelian
+  demonym: Bazunelian
   epithet: null
   symbol: null
   governance:
@@ -70,25 +70,25 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-When the guilds of another Tarûzelian city close their doors on someone—an artist, a free-thinker, now and then a fugitive—Bazûnel is where that person goes. It is the least guild-dominated of the five city-states and the cultural heart of the [[affiliation-cnfdrtntrzlnstts|Confederation]]: a city of scholars, artists, shipwrights and dreamers on the southern coast, where Tarûzelian art, music, theater and literature flourish and where the Confederation's finest ships are designed, if not always built. The city-state holds the city of [[place-bazunel2|Bazûnel]] and some two million people.
+When the guilds of another Taruzelian city close their doors on someone—an artist, a free-thinker, now and then a fugitive—Bazunel is where that person goes. It is the least guild-dominated of the five city-states and the cultural heart of the [[affiliation-cnfdrtntrzlnstts|Confederation]]: a city of scholars, artists, shipwrights and dreamers on the southern coast, where Taruzelian art, music, theater and literature flourish and where the Confederation's finest ships are designed, if not always built. The city-state holds the city of [[place-bazunel2|Bazunel]] and some two million people.
 
 ## Who Decides
 
-A council of merchant-princes governs Bazûnel, as it governs every Tarûzelian city, but here the council is more balanced. The [[affiliation-auricompct|Auric Compact]] and the other great guilds keep agents in the city; the craftsmen's guilds, the academies and the old noble families hold real seats beside them. A master shipwright or an academy's head can carry a vote in Bazûnel that would carry nothing in [[affiliation-besikar|Besîkar]], and that balance is what makes the city a haven.
+A council of merchant-princes governs Bazunel, as it governs every Taruzelian city, but here the council is more balanced. The [[affiliation-auricompct|Auric Compact]] and the other great guilds keep agents in the city; the craftsmen's guilds, the academies and the old noble families hold real seats beside them. A master shipwright or an academy's head can carry a vote in Bazunel that would carry nothing in [[affiliation-besikar|Besikar]], and that balance is what makes the city a haven.
 
 ## Craft and Learning
 
-Bazûnel is smaller and less wealthy than Besîkar, less martial than [[affiliation-yamuzel|Yamûzel]] and less cosmopolitan than [[affiliation-qudumel|Qudûmel]], and it makes up the difference in creative energy. Its shipwright tradition is famous across the coast. Bazûneli ship-designers are counted artists as much as engineers, a hull designed here is recognizable by its elegant lines and inventive rigging, and the shipwright guilds work more like artists' studios than industrial workshops.
+Bazunel is smaller and less wealthy than Besikar, less martial than [[affiliation-yamuzel|Yamuzel]] and less cosmopolitan than [[affiliation-qudumel|Kudumel]], and it makes up the difference in creative energy. Its shipwright tradition is famous across the coast. Bazuneli ship-designers are counted artists as much as engineers, a hull designed here is recognizable by its elegant lines and inventive rigging, and the shipwright guilds work more like artists' studios than industrial workshops.
 
-The city's academies are modest beside those of [[place-helionis|Heliónis]] or [[place-provenzrgn|Provènzia Region]], and their character is practical: they turn out excellent navigators, cartographers, physicians and natural philosophers. Bazûnel's astronomers are the best in the Confederation, and its navigational charts are prized by captains across the [[place-vylarianse|Vylarian Sea]].
+The city's academies are modest beside those of [[place-helionis|Helionis]] or [[place-provenzrgn|Provenzia Region]], and their character is practical: they turn out excellent navigators, cartographers, physicians and natural philosophers. Bazunel's astronomers are the best in the Confederation, and its navigational charts are prized by captains across the [[place-vylarianse|Vylarian Sea]].
 
 ## Commerce and Currency
 
-Bazûnel's studios and yards are paid in the [[lore-trzlncrncy|Tarûzelian currency]], the Confederation's own system under the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. It uses the Vylarian denominations (Solden, Ardin and Bit), but Tarûzelian reserves back it rather than the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and its Solden is slightly underweight by the Vylarian standard. Merâzûnî-affiliated moneylenders do the city's banking. Neither side's script crosses the border: Vylarian paper is not honored here, and Tarûzelian paper is not honored in Vylarian territory.
+Bazunel's studios and yards are paid in the [[lore-trzlncrncy|Taruzelian currency]], the Confederation's own system under the **Merazuni** of the [[affiliation-vezakuni|Vezakuni]]. It uses the Vylarian denominations (Solden, Ardin and Bit), but Taruzelian reserves back it rather than the Vylarian [[affiliation-tarmex|Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders do the city's banking. Neither side's script crosses the border: Vylarian paper is not honored here, and Taruzelian paper is not honored in Vylarian territory.
 
 ## See Also
 
-- [[place-bazunel2|Bazûnel]]—the city itself
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the parent polity
-- [[place-helionis|Heliónis]]—the cultural counterpart across the sea
-- [[affiliation-besikar|Besîkar]], [[affiliation-yamuzel|Yamûzel]], [[affiliation-qudumel|Qudûmel]], [[affiliation-sazumun|Sazûmun]]—the sister city-states
+- [[place-bazunel2|Bazunel]]—the city itself
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
+- [[place-helionis|Helionis]]—the cultural counterpart across the sea
+- [[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-sazumun|Sazumun]]—the sister city-states

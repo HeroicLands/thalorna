@@ -76,7 +76,7 @@ sohl: {system: {commonSkills: [nyalbnlng]}}
 # terran_analog: "Iroquois Confederacy / Haudenosaunee + Sotho-Tswana morafe + Shona heirs of Great Zimbabwe—five distinct clan-nations bound by ancient pact, cattle-pastoral with stone-ruin heritage, drum-language as nervous system"
 ---
 
-A Lobwezi griot, asked by a Sengala trader's foreign guest where the Nyáluba keep their king, laughed and counted on one hand instead: five clans, one pact, no king. The **Nyáluba Tribal Nation** is a confederation of five distinct clan-nations occupying the southeastern quadrant of the [[place-sthrnsvnhs|Southern Savannahs]] of [[place-xerathia|Xerathia]]—the highland belt where the great upland rivers run year-round, the central grasslands where the herds migrate, and the riverine wetlands of the eastern coast. They are the largest organized political body in the savannahs, some two million people across a territory roughly the size of Provènzia and Tarvénia combined, and yet they have no king, no capital, no written law, no standing army, and no apparatus that would be recognized by an Aurèldían or Vylarian as a government. They have, instead, the **Long Pact**—an ancient covenant binding five clan-nations to a shared way of life—and the apparatus by which the Pact is renewed: the Great Lubemo, the drum-network, the griots, and the totemic law.
+A Lobwezi griot, asked by a Sengala trader's foreign guest where the Nyáluba keep their king, laughed and counted on one hand instead: five clans, one pact, no king. The **Nyáluba Tribal Nation** is a confederation of five distinct clan-nations occupying the southeastern quadrant of the [[place-sthrnsvnhs|Southern Savannahs]] of [[place-xerathia|Zerathia]]—the highland belt where the great upland rivers run year-round, the central grasslands where the herds migrate, and the riverine wetlands of the eastern coast. They are the largest organized political body in the savannahs, some two million people across a territory roughly the size of Provenzia and Tarvénia combined, and yet they have no king, no capital, no written law, no standing army, and no apparatus that would be recognized by an Aureldian or Vylarian as a government. They have, instead, the **Long Pact**—an ancient covenant binding five clan-nations to a shared way of life—and the apparatus by which the Pact is renewed: the Great Lubemo, the drum-network, the griots, and the totemic law.
 
 Few northerners reach the Nyáluba, since the Northern Fertile civilizations know the savannahs only through rainforest go-betweens, and those who do usually misread what they find. They see no palace and infer no power, no army and infer no defense, no priesthood and infer no faith. All three inferences are wrong: the power sits in the Pact, the defense in the age-set regiments, and the faith in every cattle-fold and river-bend.
 
@@ -100,7 +100,7 @@ The clan territories overlap considerably and are not maintained as borders. A R
 
 Each clan is a nation of its own, sharply distinct in culture and politics, and the five share a language, a religion and a pact but that differ in dress, dialect, ritual, marriage custom, and self-conception. A Ruwozi cattle-herder and a Kolembozi reed-fisher recognize each other as Nyáluban—fellow heirs of the Long Pact—but they would not mistake each other for the same people.
 
-**Ruwozi**—the lion-clan. The most numerous of the five clans (perhaps eight hundred thousand people), the cattle-herders of the central plains, traditionally the first among the clans because the original Long Pact was sworn in Ruwozi country by Nyóli Ruwozi herself. The Ruwozi paramount—by long custom a daughter of the senior Ruwozi lineage—convenes the Great Lubemo and bears the responsibility of speaking last when consensus is sought. Ruwozi men wear a single lion-tooth necklace at adulthood; Ruwozi women braid their hair in patterns that record their lineage genealogy. Their wealth is cattle. Their courage is their watchword. Their humor, when they have any, is dry as the dry season.
+**Ruwozi**—the lion-clan. The most numerous of the five clans (perhaps eight hundred thousand people), the cattle-herders of the central plains, traditionally the first among the clans because the original Long Pact was sworn in Ruwozi country by Nyoli Ruwozi herself. The Ruwozi paramount—by long custom a daughter of the senior Ruwozi lineage—convenes the Great Lubemo and bears the responsibility of speaking last when consensus is sought. Ruwozi men wear a single lion-tooth necklace at adulthood; Ruwozi women braid their hair in patterns that record their lineage genealogy. Their wealth is cattle. Their courage is their watchword. Their humor, when they have any, is dry as the dry season.
 
 **Kolembozi**—the crocodile-clan. The river-people of the eastern wetlands, expert in the navigation of the channels and the ritual handling of the river-spirits. Smaller in numbers than the Ruwozi (perhaps three hundred and fifty thousand) but enormously influential because the great rivers that water all of Nyáluba country pass through Kolembozi territory before reaching the sea. The Kolembozi maintain the most elaborate shamanic tradition of any clan; their _kwendari zohiring_ are sought across the savannahs for matters of judgment, healing, and the negotiation of difficult spirits. A Kolembozi who has lost a relative to a crocodile speaks of that crocodile by name and lineage and considers the matter a family affair.
 
@@ -112,7 +112,7 @@ Each clan is a nation of its own, sharply distinct in culture and politics, and 
 
 ## The Long Pact
 
-The **Long Pact** is the foundational covenant of the Nyáluba. By tradition it was sworn nine generations ago—perhaps two hundred and fifty years past, perhaps somewhat more—under a great baobab in central Ruwozi country, by **Nyóli Ruwozi** ("Daughter of the Lion"), a Ruwozi paramount whose name has since been carried by every senior Ruwozi woman as a hereditary title. The clans that swore the Pact were fleeing some catastrophe: the precise nature of the disaster has been polished smooth by generations of telling, but the Lobwezi griots maintain that it was the southward expansion of a now-extinct militarist confederacy from the central savannahs, whose warriors took cattle, women, and lives indiscriminately. The five clans, until then mutual rivals, agreed to stand together rather than be picked apart.
+The **Long Pact** is the foundational covenant of the Nyáluba. By tradition it was sworn nine generations ago—perhaps two hundred and fifty years past, perhaps somewhat more—under a great baobab in central Ruwozi country, by **Nyoli Ruwozi** ("Daughter of the Lion"), a Ruwozi paramount whose name has since been carried by every senior Ruwozi woman as a hereditary title. The clans that swore the Pact were fleeing some catastrophe: the precise nature of the disaster has been polished smooth by generations of telling, but the Lobwezi griots maintain that it was the southward expansion of a now-extinct militarist confederacy from the central savannahs, whose warriors took cattle, women, and lives indiscriminately. The five clans, until then mutual rivals, agreed to stand together rather than be picked apart.
 
 The terms of the Pact, as the griots recite them, are deliberately few:
 
@@ -124,7 +124,7 @@ The terms of the Pact, as the griots recite them, are deliberately few:
 
 What the Pact leaves out matters as much. It sets no common law beyond its own terms, founds no central authority, governs nothing inside a clan, and raises no tax, levy or shared institution beyond the Lubemo itself. Each clan stays wholly sovereign at home, and the Pact is a peace treaty, a defensive alliance and a ritual calendar, and nothing more.
 
-The simplicity is by design. Nyóli Ruwozi is reported to have said, when pressed by allies who wanted a more elaborate constitution: _"We are not building a kingdom. We are agreeing not to destroy each other. The rest is for our daughters to decide for themselves."_ The griots quote her on this point at every Lubemo.
+The simplicity is by design. Nyoli Ruwozi is reported to have said, when pressed by allies who wanted a more elaborate constitution: _"We are not building a kingdom. We are agreeing not to destroy each other. The rest is for our daughters to decide for themselves."_ The griots quote her on this point at every Lubemo.
 
 The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], counts the terms on one hand, the griot calling and the gathered answering:
 
@@ -152,13 +152,13 @@ Outsiders usually underestimate how much the Lubemo accomplishes. The real argum
 
 ## The Drum-Network
 
-The Nyáluba maintain a continent-spanning communication system based on the **drum-language**—a tonal-mimetic encoding of the Nyáluban tongue that can carry complex messages over long distances. Specialized **drum-speakers** maintain a network of relay stations across all five clan territories, and a message can travel from the Sengala northern margin to the Kolembozi eastern wetlands—a distance equivalent to the length of Aurèldía—in perhaps two days, depending on weather and relay availability.
+The Nyáluba maintain a continent-spanning communication system based on the **drum-language**—a tonal-mimetic encoding of the Nyáluban tongue that can carry complex messages over long distances. Specialized **drum-speakers** maintain a network of relay stations across all five clan territories, and a message can travel from the Sengala northern margin to the Kolembozi eastern wetlands—a distance equivalent to the length of Aureldia—in perhaps two days, depending on weather and relay availability.
 
 The drum-network is the operational backbone of the confederation. The Great Lubemo may meet only once every four years, but the paramounts are in nearly continuous consultation through the drums. Defense decisions, disaster response, news of births and deaths in senior lineages, ceremonial coordination, even market prices and herd movements all travel by drum. The northern civilizations, which depend on relay riders or seasonal caravans, would find the speed of Nyáluba inter-clan communication startling if they knew of it. The Sengala have not been forthcoming with the rainforest peoples about how the drums actually work.
 
 ## Religion
 
-The Nyáluba practice the [[affiliation-nyalbpnthn|totemic faith]] of the southern savannahs—a layered system of clan totems, land-spirits, water-spirits, hunt-spirits, and ancestor-spirits, related to but distinct from any of the codified pantheons of the wider world. The faith is organized around the **Three Postures**—venerate, appease, ward against—and is administered by a distributed body of religious specialists: griots (keepers of memory), drum-speakers (keepers of communication), shamans (keepers of the spirits), and elders (keepers of the totemic law). The faith has no priesthood of the Aurèldían kind, no temples and no central authority.
+The Nyáluba practice the [[affiliation-nyalbpnthn|totemic faith]] of the southern savannahs—a layered system of clan totems, land-spirits, water-spirits, hunt-spirits, and ancestor-spirits, related to but distinct from any of the codified pantheons of the wider world. The faith is organized around the **Three Postures**—venerate, appease, ward against—and is administered by a distributed body of religious specialists: griots (keepers of memory), drum-speakers (keepers of communication), shamans (keepers of the spirits), and elders (keepers of the totemic law). The faith has no priesthood of the Aureldian kind, no temples and no central authority.
 
 Each of the five clans maintains its own primary totem (the lion of the Ruwozi, the crocodile of the Kolembozi, the eagle of the Ngonzi, the leopard of the Sengala, the baobab of the Lobwezi) and its own subordinate totems, ancestor-shrines, and land-spirit relationships. The clans recognize each other's totems as legitimate kinsmen of their own clan-spirits, and inter-clan ceremonies—at the Lubemo, at the cattle-circulations, at the great seasonal markets—formally acknowledge all five primary totems together.
 
@@ -176,7 +176,7 @@ The Nyáluba economy is built on **cattle**, **agriculture**, **gold**, and **ri
 
 **River-trade**—Kolembozi reed-canoes carrying fish, salt (from a few coastal pans), papyrus, and exotic riverine goods up the eastern river systems to the highlands and the central plains. The Kolembozi monopolize the river-trade in the same way the Sengala monopolize the northern overland trade.
 
-**Imports**—metal goods (iron knives, hoe-blades, spear-heads), beads, glass, fine cloth, and certain medicinal plants and ritual pigments—come almost entirely through the Sengala. Total trade volume is small by Vylarian or Tarûzelian standards but is significant for the goods involved, and the Sengala traders who manage it are wealthy by any measure.
+**Imports**—metal goods (iron knives, hoe-blades, spear-heads), beads, glass, fine cloth, and certain medicinal plants and ritual pigments—come almost entirely through the Sengala. Total trade volume is small by Vylarian or Taruzelian standards but is significant for the goods involved, and the Sengala traders who manage it are wealthy by any measure.
 
 ## Defense and War
 
@@ -190,7 +190,7 @@ The Nyáluban warrior tradition is built around mobility, surprise, the intellig
 
 To the **north**, beyond the Sengala margin, lie the [[place-cntrlrnfrsts|Central Rainforest]] peoples. Relations are sustained, generally peaceful, and culturally important—the Sengala maintain marriage exchanges with several frontier rainforest tribes, and a substantial body of shared religious and economic practice has built up over generations. The rainforest peoples are also the Nyáluba's window onto the world beyond the savannahs, and the Sengala carefully cultivate that channel.
 
-To the **far north**, beyond the rainforest, lie the civilizations of the [[place-nrthrnfrtlrgn|Northern Fertile Region]]—Bethua, Aû'Khelâthu, Okháris. The Nyáluba know these peoples almost entirely through hearsay and through the secondhand goods that arrive via the Sengala. Bethuan slave-raiders did reach the northern Sengala margin twice in living memory; both expeditions were destroyed by mobilized age-set regiments before they could withdraw, and Bethua has not tried again. The Nyáluba consider the Northern Fertile peoples to be impressive in their stone-building and agriculture but politically deformed—too centralized, too reliant on hereditary autocrats, too quick to coerce their own people.
+To the **far north**, beyond the rainforest, lie the civilizations of the [[place-nrthrnfrtlrgn|Northern Fertile Region]]—Bethua, Au'Khelathu, Okharis. The Nyáluba know these peoples almost entirely through hearsay and through the secondhand goods that arrive via the Sengala. Bethuan slave-raiders did reach the northern Sengala margin twice in living memory; both expeditions were destroyed by mobilized age-set regiments before they could withdraw, and Bethua has not tried again. The Nyáluba consider the Northern Fertile peoples to be impressive in their stone-building and agriculture but politically deformed—too centralized, too reliant on hereditary autocrats, too quick to coerce their own people.
 
 To the **west**, in the central and southwestern savannahs beyond the Ruwozi territory, lie the **dry-country tribes**—smaller, more dispersed, more nomadic peoples who are not part of the Long Pact and do not consider themselves Nyáluban. Relations are mixed: extensive trade and intermarriage in some places, sustained low-level raiding in others. The Ruwozi paramounts maintain individual relationships with the major dry-country chieftains and rely on personal diplomacy more than confederation policy.
 
@@ -198,11 +198,11 @@ To the **south and southeast**, beyond the Kolembozi wetlands and the Ngonzi hig
 
 ## Famous Figures
 
-**Nzobu Ruwozi**, current Ruwozi paramount and convener of the Great Lubemo (sixth Nyóli Ruwozi to bear the hereditary name). About fifty years old, widely respected across all five clans for her judgment and her command of the totemic law. She has presided over three Lubemos; the next will be her fourth.
+**Nzobu Ruwozi**, current Ruwozi paramount and convener of the Great Lubemo (sixth Nyoli Ruwozi to bear the hereditary name). About fifty years old, widely respected across all five clans for her judgment and her command of the totemic law. She has presided over three Lubemos; the next will be her fourth.
 
 **Bonzimbe of the Lobwezi**, senior griot of the Long Pact. The official memory-bearer of the Pact's terms, the genealogies of all five paramounts, and the recorded judgments of the previous twenty-three Lubemos. Approximately seventy years old, blind, and considered by all five clans to be the closest living thing to a neutral arbiter the Nyáluba possess.
 
-**Lushéya nu Kolembozi**, senior _kwendari zohiring_ of the Kolembozi, said to have walked into a particular Old Heto during her initiation and emerged speaking the Stone Tongue—the language no living Nyáluban understands but which the Ngonzi elders say was the speech of the lost stone-builders. The Ngonzi confirm the report; the Lobwezi griots have entered it into the Lubemo record. What the Stone Tongue is for, no one will say.
+**Lusheya nu Kolembozi**, senior _kwendari zohiring_ of the Kolembozi, said to have walked into a particular Old Heto during her initiation and emerged speaking the Stone Tongue—the language no living Nyáluban understands but which the Ngonzi elders say was the speech of the lost stone-builders. The Ngonzi confirm the report; the Lobwezi griots have entered it into the Lubemo record. What the Stone Tongue is for, no one will say.
 
 The griots' recital of the record, set beside a fireside telling in [[lore-stonetongue|The Stone Tongue]], keeps the entry short:
 
@@ -216,7 +216,7 @@ The griots' recital of the record, set beside a fireside telling in [[lore-stone
 
 ## Commerce and Currency
 
-The Nyáluba trade almost entirely by [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|kin-credit]]. Coin is essentially absent from internal commerce; the few foreign coins that reach Nyáluban hands through long-distance trade are valued as exotic goods rather than as currency. Commerce with the Northern Fertile Region (Khelâthi currency through southern trade-routes) is more developed than commerce with the western Vylarian system.
+The Nyáluba trade almost entirely by [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|kin-credit]]. Coin is essentially absent from internal commerce; the few foreign coins that reach Nyáluban hands through long-distance trade are valued as exotic goods rather than as currency. Commerce with the Northern Fertile Region (Khelathi currency through southern trade-routes) is more developed than commerce with the western Vylarian system.
 
 ## See Also
 
@@ -226,4 +226,4 @@ The Nyáluba trade almost entirely by [[lore-bartercnmy|barter]] and [[lore-kinh
 - [[skill-nyalbnlng|Nyáluban Language]]—the Nyáluban tongue and the drum-language
 - [[place-cntrlrnfrsts|Central Rainforests]]—northern neighbors and trade-intermediaries
 - [[place-nrthrnfrtlrgn|Northern Fertile Region]]—distant civilizations known only by rumor
-- [[place-xerathia|Xerathia]]—parent continent
+- [[place-xerathia|Zerathia]]—parent continent

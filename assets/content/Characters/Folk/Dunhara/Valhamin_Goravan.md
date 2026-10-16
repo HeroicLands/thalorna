@@ -1,9 +1,9 @@
 ---
 shortcode: valhamingora
-name: {full: Valhamin Gorâvân, aliases: [Merchant Lord Valhamin]}
+name: {full: Valhamin Goravan, aliases: [Merchant Lord Valhamin]}
 type: being
 subType: npc
-description: One of the most prominent trading masters in the Kingdom, who has employed Farazûn Afrûn repeatedly.
+description: One of the most prominent trading masters in the Kingdom, who has employed Farazun Afrun repeatedly.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Valhamin Gorâvân is a 57-year-old man who stands 5'9" tall with a light build. He has olive skin, ruddy complexion, dark brown hair, and brown eyes.
+Valhamin Goravan is a 57-year-old man who stands 5'9" tall with a light build. He has olive skin, ruddy complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Valhamin Gorâvân is a merchant lord and one of the most prominent trading masters in the Kingdom. He has employed [[being-farazunfrn|Farazûn Afrûn]] repeatedly, trusts him with valuable cargo, and actively recommends him to other merchants.
+Valhamin Goravan is a merchant lord and one of the most prominent trading masters in the Kingdom. He has employed [[being-farazunfrn|Farazun Afrun]] repeatedly, trusts him with valuable cargo, and actively recommends him to other merchants.

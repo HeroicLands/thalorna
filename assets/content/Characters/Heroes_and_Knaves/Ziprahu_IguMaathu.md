@@ -1,6 +1,6 @@
 ---
 shortcode: ziprahuigmth
-name: {full: Ziprahu Igu'Maâthu, given: Ziprahu, clan: Igu'Maâthu, aliases: []}
+name: {full: Ziprahu Igu'Maathu, given: Ziprahu, clan: Igu'Maathu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {rank: 3}, gewaatis: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, gewaatis: {rank: 1}}
   gender: male
   species: humanflk
   born: 680.105
@@ -417,17 +417,17 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ziprahuigmth|Ziprahu Igu'Maâthu]]{float=top-left}
+![[ziprahuigmth|Ziprahu Igu'Maathu]]{float=top-left}
 
 Ziprahu stands 5'8" tall with a medium build. He has dark skin, deep black hair, and brown eyes. His features include a straight narrow nose, a narrow chin, and elegantly curved brows. He has a tattoo of a knight's helmet on his shoulder.
 
 # Dossier {#dossier}
 
-Ziprahu was born into the Ipmaâqu family, a minor merchant household of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] with no particular distinction or wealth. His father, [[being-gaheripmaaqu|Gaher Ipmaâqu]], was a lesser official in the customs house, a position of modest authority but considerable responsibility for protecting valuable goods. It was Gaher who first introduced young Ziprahu to locks and security, teaching him that these mechanisms were conversations between those who would protect and those who would steal.
+Ziprahu was born into the Ipmaaku family, a minor merchant household of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] with no particular distinction or wealth. His father, [[being-gaheripmaaqu|Gaher Ipmaaku]], was a lesser official in the customs house, a position of modest authority but considerable responsibility for protecting valuable goods. It was Gaher who first introduced young Ziprahu to locks and security, teaching him that these mechanisms were conversations between those who would protect and those who would steal.
 
 Apprenticed at thirteen to Master [[being-zokhothu2|Zokhothu]], then the Empire's foremost locksmith, Ziprahu spent twelve years in intensive study of his craft. Zokhothu was an exacting teacher whose patience was famous but whose standards were impossibly high. Under his tutelage, Ziprahu learned that locks were expressions of philosophy as much as mechanical devices—they were about trust, about creating a visible and tactile representation of the boundary between the protected and the vulnerable. When Zokhothu retired at Ziprahu's twenty-fifth year, he personally recommended Ziprahu as his successor to the guild, an honor rarely granted.
 
-Now, for fifteen years, Ziprahu has maintained the highest standards of his craft. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his faith in [[lore-gewaatisdty|Gewa'âtis]] the voyager, and the small circle of guild members who recognize his genius.
+Now, for fifteen years, Ziprahu has maintained the highest standards of his craft. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his faith in [[lore-gewaatisdty|Gewa'atis]] the voyager, and the small circle of guild members who recognize his genius.
 
 ## Psyche
 
@@ -464,10 +464,10 @@ Ziprahu is driven by a desire to be the best locksmith who has ever lived, to su
 Treasurer [[being-imhoqar2|Imhoqar]]
 : The Imperial official responsible for the Empire's treasury holds Ziprahu in the highest regard. All imperial vaults and secure chambers have been installed with locks of his design, and Imhoqar provides the single largest stream of consistent work.
 
-Lady [[being-balenermshg2|Balenerî Mesheget]]
+Lady [[being-balenermshg2|Baleneri Mesheget]]
 : A noble of considerable wealth and paranoid disposition. She commissions new locks and security modifications every few months, trusting no one but Ziprahu with access to her estate's systems. She pays extraordinarily well and provides social access to her wealthy peers.
 
-[[affiliation-lutgewaatis|The Lut-Gewa'âtis]]
+[[affiliation-lutgewaatis|The Lut-Gewa'atis]]
 : The priesthood maintains contracts with Ziprahu for maintaining the Temple's sacred vaults. He is one of only three individuals alive who knows the complete configuration of the Temple's security system.
 
 Master [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]
@@ -486,7 +486,7 @@ Master [[affiliation-linzokhothu|Lin'Zokhothu]]
 
 ### Affiliations
 
-Locksmiths' Guild of Aû'Khelâthu
+Locksmiths' Guild of Au'Khelathu
 : Ziprahu holds the highest rank within the guild and serves on its council of masters. Though he attends meetings reluctantly and speaks rarely, his voice carries significant weight in guild decisions.
 
 The Scholar's Archive

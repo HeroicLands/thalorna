@@ -1,9 +1,9 @@
 ---
 shortcode: tharkhosthar
-name: {full: Thârkhôs Thârôzâtês, aliases: [Warden Thârkhôs]}
+name: {full: Tharkos Tharozates, aliases: [Warden Tharkos]}
 type: being
 subType: npc
-description: The political administrator appointed to manage the prison bureaucratically, named in Xerôphôn Kâlmâkanês.
+description: The political administrator appointed to manage the prison bureaucratically, named in Zerofon Kalmakanes.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Thârkhôs Thârôzâtês is a 25-year-old man who stands 6'2" tall with a heavy build. He has fair skin, sun-kissed complexion, dark brown hair, and green eyes.
+Tharkos Tharozates is a 25-year-old man who stands 6'2" tall with a heavy build. He has fair skin, sun-kissed complexion, dark brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Thârkhôs Thârôzâtês is the warden, a political administrator appointed to manage the prison bureaucratically. [[being-xrphnklmkns|Xerôphôn Kâlmâkanês]] views him as incompetent and corrupt. The two keep an awkward relationship of mutual necessity while harboring deep disdain for one another.
+Tharkos Tharozates is the warden, a political administrator appointed to manage the prison bureaucratically. [[being-xrphnklmkns|Zerofon Kalmakanes]] views him as incompetent and corrupt. The two keep an awkward relationship of mutual necessity while harboring deep disdain for one another.

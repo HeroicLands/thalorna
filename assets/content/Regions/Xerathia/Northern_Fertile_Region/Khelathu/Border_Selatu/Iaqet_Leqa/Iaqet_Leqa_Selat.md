@@ -3,7 +3,7 @@ shortcode: iaqetleqaslt
 name: {full: Iaqet-Leqa Selat, aliases: []}
 type: place
 subType: region
-description: "Eastern desert wells and quarry-roads; a dry, sun-burned garrison selat—the land of the Selat of Iaqet-Leqa, one of the border selatu of Aû'Khelâthu."
+description: "Eastern desert wells and quarry-roads; a dry, sun-burned garrison selat—the land of the Selat of Iaqet-Leqa, one of the border selatu of Au'Khelathu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Iaqet-Leqa Selat** is the land of the [[affiliation-selatiaqetlq|Selat of Iaqet-Leqa]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Iaqet-Leqa Selat** is the land of the [[affiliation-selatiaqetlq|Selat of Iaqet-Leqa]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -31,5 +31,5 @@ The way to plan a journey through this selat is by its wells. The quarries lie o
 ## See Also
 
 - [[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
 - [[place-iaqetleqa|Iaqet-Leqa]]—Selat capital

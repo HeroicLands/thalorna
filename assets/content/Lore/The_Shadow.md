@@ -18,9 +18,9 @@ Every undead is related to every other through that connection, across every bel
 
 ## The Shadow and the Gods
 
-The gods are not proof against it. A god who tampers with the Shadow or studies it is touched by it, and nearly every god who has done so is at least partly insane from the contact. Among the Asguardian gods, [[lore-nahilddty|Náhild]] draws on it openly through [[lore-ginnauga|Ginnauga]], the Eye of the Void, a powerful source of the Shadow, and her need to gaze into the Eye drives her deeper into madness.
+The gods are not proof against it. A god who tampers with the Shadow or studies it is touched by it, and nearly every god who has done so is at least partly insane from the contact. Among the Asguardian gods, [[lore-nahilddty|Nahild]] draws on it openly through [[lore-ginnauga|Ginnauga]], the Eye of the Void, a powerful source of the Shadow, and her need to gaze into the Eye drives her deeper into madness.
 
 ## See Also
 
-- [[lore-ginnauga|Ginnauga]]—the Eye of the Void, Náhild's relic and a source of the Shadow
+- [[lore-ginnauga|Ginnauga]]—the Eye of the Void, Nahild's relic and a source of the Shadow
 - [[lore-undead|Undead]]—the dead made to walk, and the learned and folk names for them

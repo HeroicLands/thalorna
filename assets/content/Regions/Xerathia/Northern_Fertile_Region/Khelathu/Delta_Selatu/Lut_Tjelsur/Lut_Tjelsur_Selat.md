@@ -3,7 +3,7 @@ shortcode: luttjelskslt
 name: {full: Lut-Tjelsur Selat, aliases: []}
 type: place
 subType: region
-description: "Eastern marsh; the great crocodile cult and the river-beast hunters—the land of the Selat of Lut-Tjelsur, one of the delta selatu of Aû'Khelâthu."
+description: "Eastern marsh; the great crocodile cult and the river-beast hunters—the land of the Selat of Lut-Tjelsur, one of the delta selatu of Au'Khelathu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Lut-Tjelsur Selat** is the land of the [[affiliation-selatlttjlsk|Selat of Lut-Tjelsur]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is the eastern marsh of the delta, where the great crocodile cult and the river-beast hunters make their living.
+**Lut-Tjelsur Selat** is the land of the [[affiliation-selatlttjlsk|Selat of Lut-Tjelsur]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the eastern marsh of the delta, where the great crocodile cult and the river-beast hunters make their living.
 
 "Never put a foot in the water at dusk, and never put it where a reed has been bent," a river-beast hunter tells a new hand, shoving a pole into the mud to test the bottom. "The beast watches the bank. We watch the beast. That is all the arrangement there is out here."
 
@@ -33,5 +33,5 @@ The selat is marsh, and the hunters are its particular trade. On the firmer grou
 ## See Also
 
 - [[affiliation-selatlttjlsk|The Selat of Lut-Tjelsur]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
 - [[place-luttjelsuk|Lut-Tjelsur]]—Selat capital

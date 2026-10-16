@@ -3,7 +3,7 @@ shortcode: ellevirsa
 name: {full: Guest-Right, aliases: [Ellevirsa]}
 type: lore
 subType: literature
-description: "The Sinalë origin song cut into a stone at Sirmennë: how they came into a valley that was not theirs, what was already in it, the council that argued over the human bands, and the saying that left the valley open."
+description: "The Sinale origin song cut into a stone at Sirmenne: how they came into a valley that was not theirs, what was already in it, the council that argued over the human bands, and the saying that left the valley open."
 tags: [draft, sinale]
 # terran_analog: "The Kalevala's origin charms (the birth of fire, the birth of iron) for a song that tells where a thing came from so as to hold it; the Kanteletar's runo-song for lines restated by the line beneath; the gnomic englynion for pairs that state a rule beside a thing seen; and inscriptions that locate themselves at their own stone."
 data:
@@ -14,11 +14,11 @@ data:
   language: sinalelng
 ---
 
-**Guest-Right**, _Ellevirsa_, is a [[lore-flksinale|Sinalë]] origin song: how the Sinalë came into a valley that was not theirs, what they found already in it, and what they decided there, which is where the custom its title names comes from. It is cut into a standing stone at [[place-sirmenne|Sirmennë]] in an old hand of the [[skill-clthndscrpt|Veldirno]], in the long paired lines of the Sinalë long song, each line answered by the one beneath it. The stone is broken in two places, and where it is broken the reading is silent. The [[lore-aelendnppl|Áelendan]] Tradition Keepers hold the reading pair for pair and give it at the stone when they go to Sirmennë, and the [[affiliation-bardicolgs|Bardic Colleges]] sing what the Keepers read. The living song is the same song with one difference, set out below: the Áelendan hear it at [[place-aelirosse|Aelirossë]] on the night a guest of theirs first sleeps there, sung over the guest, who is what it is about.
+**Guest-Right**, _Ellevirsa_, is a [[lore-flksinale|Sinale]] origin song: how the Sinale came into a valley that was not theirs, what they found already in it, and what they decided there, which is where the custom its title names comes from. It is cut into a standing stone at [[place-sirmenne|Sirmenne]] in an old hand of the [[skill-clthndscrpt|Veldirno]], in the long paired lines of the Sinale long song, each line answered by the one beneath it. The stone is broken in two places, and where it is broken the reading is silent. The [[lore-aelendnppl|Áelendan]] Tradition Keepers hold the reading pair for pair and give it at the stone when they go to Sirmenne, and the [[affiliation-bardicolgs|Bardic Colleges]] sing what the Keepers read. The living song is the same song with one difference, set out below: the Áelendan hear it at [[place-aelirosse|Aelirosse]] on the night a guest of theirs first sleeps there, sung over the guest, who is what it is about.
 
-The song begins with a refusal. Its first line is "We came out of" and then a space the cutter left blank, dressed smooth and never filled; the living song holds the same place as a silence. Of what came before Thalorna the Sinalë say nothing to outsiders, and the song says so in the only way it can. What follows is a catalogue of what was already in the valley when they came: the [[lore-faecourts|fae]], at the thin places; the trees, by which the song tells its time, since it carries no dates; the waters; the beasts; and bands of the younger people, with fire and with words that changed every summer, who are the ancestors of everyone who hears it. Nobody asked the Sinalë in and nobody turned them out, and the council that sits in the valley argues over what to do about the bands. Three voices are kept whole. The elder who kept the watch at the pass asks that the bands be kept out; the one the valley had raised, which is how the Sinalë make a lord, by acclaim for what one has done, answers that a people who build nothing have no door to shut; and a third, who is never named, says the saying the custom comes from. _Ellevirsa_ is the ordinary Sinalë word for the welcome a guest is owed; the song reads it from the other side, as the welcome a guest owes to whoever comes after. Where the song says "this valley", the Keepers take it to mean the one the stone stands in, and the Sinalë have not said. The Keepers do not fill the two breaks from the living song, so what the stone lost is lost.
+The song begins with a refusal. Its first line is "We came out of" and then a space the cutter left blank, dressed smooth and never filled; the living song holds the same place as a silence. Of what came before Thalorna the Sinale say nothing to outsiders, and the song says so in the only way it can. What follows is a catalogue of what was already in the valley when they came: the [[lore-faecourts|fae]], at the thin places; the trees, by which the song tells its time, since it carries no dates; the waters; the beasts; and bands of the younger people, with fire and with words that changed every summer, who are the ancestors of everyone who hears it. Nobody asked the Sinale in and nobody turned them out, and the council that sits in the valley argues over what to do about the bands. Three voices are kept whole. The elder who kept the watch at the pass asks that the bands be kept out; the one the valley had raised, which is how the Sinale make a lord, by acclaim for what one has done, answers that a people who build nothing have no door to shut; and a third, who is never named, says the saying the custom comes from. _Ellevirsa_ is the ordinary Sinale word for the welcome a guest is owed; the song reads it from the other side, as the welcome a guest owes to whoever comes after. Where the song says "this valley", the Keepers take it to mean the one the stone stands in, and the Sinale have not said. The Keepers do not fill the two breaks from the living song, so what the stone lost is lost.
 
-The stone and the living song differ by one pair. The stone closes on the name of the elder who argued to keep the bands out, set last, after the valley and after the stars, which is how the Sinalë name the doer of a deed when they name one at all; the living song keeps his argument whole, ends on the stars, and has let go of whose the argument was. The Keepers read the stone to its last pair. The living song still sings that the one who would have turned a guest out "is cut at the end of this", and then names no one.
+The stone and the living song differ by one pair. The stone closes on the name of the elder who argued to keep the bands out, set last, after the valley and after the stars, which is how the Sinale name the doer of a deed when they name one at all; the living song keeps his argument whole, ends on the stars, and has let go of whose the argument was. The Keepers read the stone to its last pair. The living song still sings that the one who would have turned a guest out "is cut at the end of this", and then names no one.
 
 : Guest-Right {#song}
 
@@ -244,14 +244,14 @@ the two that stand over the birch at the thaw, when the crossing is;
 the one we named, and then found was two, standing close, and we kept the one name for both;
 and the first we named, the one that stands in the evening over the pass, where the watch was kept.
 
-The one who said keep them out, who kept the watch at the pass: **Nylvidhë Esselinto**.
+The one who said keep them out, who kept the watch at the pass: **Nylvidhe Esselinto**.
   He was let in with the rest of us. He is cut here last, after the valley, which is the right order.
 ```
 
 ## See Also
 
-- [[lore-sinalearrv|The Coming of the Sinalë]] · [[lore-longnhrtnc|The Long Inheritance]] ·
-  [[lore-flksinale|Sinalë]]
-- [[place-sirmenne|Sirmennë]] · [[lore-aelendnppl|Áelendan People]] ·
+- [[lore-sinalearrv|The Coming of the Sinale]] · [[lore-longnhrtnc|The Long Inheritance]] ·
+  [[lore-flksinale|Sinale]]
+- [[place-sirmenne|Sirmenne]] · [[lore-aelendnppl|Áelendan People]] ·
   [[affiliation-bardicolgs|The Bardic Colleges]] · [[lore-faecourts|The Fae Courts]]
-- [[lore-seventowers|The Seven Towers]]—another Sinalëan song held in Élavendre
+- [[lore-seventowers|The Seven Towers]]—another Sinalean song held in Élavendre

@@ -169,7 +169,7 @@ The tomb-cutter's lamp gutters as you come round the bend of the passage, and th
 
 # Dossier {#dossier}
 
-The Luminophage is a dreadspawn that hangs from the roofs of dark places: a translucent, segmented body like a jellyfish built on a scorpion's plan, five to eight feet from crown to the tips of its arms, which floats through the air and feeds on light and blood. It drains the light from lamps and torches, glows with what it has taken, and draws prey to its glow, then stings it helpless with needle-tipped arms. It is found in caverns, cut tombs and deep passages, and one has made the cavern-tombs of [[place-zebtrelptslt|Zebt-Relepet Selat]], on the upper river of Aû'Khelâthu, its ground. Like every dreadspawn it was made, it is alive, and it does not breed. The tomb-cutters know it as the thing that eats lamps.
+The Luminophage is a dreadspawn that hangs from the roofs of dark places: a translucent, segmented body like a jellyfish built on a scorpion's plan, five to eight feet from crown to the tips of its arms, which floats through the air and feeds on light and blood. It drains the light from lamps and torches, glows with what it has taken, and draws prey to its glow, then stings it helpless with needle-tipped arms. It is found in caverns, cut tombs and deep passages, and one has made the cavern-tombs of [[place-zebtrelptslt|Zebt-Relepet Selat]], on the upper river of Au'Khelathu, its ground. Like every dreadspawn it was made, it is alive, and it does not breed. The tomb-cutters know it as the thing that eats lamps.
 
 ## Presentation
 
@@ -185,7 +185,7 @@ A luminophage waits on a ceiling, glowing, for days. Light draws it: a lamp comi
 
 ## What the Tomb-Cutters Do
 
-The cutters who carve new tombs into the cliffs and the priests of [[affiliation-wethur|Weth'ûr]] who serve the dead there have rules for the old passages. Nobody goes into the deep tombs with only one light: a party carries a lamp for each man and a pitch torch besides, and if the lamps start to fade together, everyone turns back at once. A tomb chamber with a cold glow in it is not entered. The cutters have learned that fire hurts the creature, and they keep a pot of burning pitch at the mouth of any passage they work. The embalmers buy its venom when one of the creature's needles can be found broken off in a cutter's arm, and they use it, they say, to keep the dead still. Tomb-robbers who come for the old burials think the creature guards them. The cutters say it guards nothing; it only eats what comes.
+The cutters who carve new tombs into the cliffs and the priests of [[affiliation-wethur|Weth'ur]] who serve the dead there have rules for the old passages. Nobody goes into the deep tombs with only one light: a party carries a lamp for each man and a pitch torch besides, and if the lamps start to fade together, everyone turns back at once. A tomb chamber with a cold glow in it is not entered. The cutters have learned that fire hurts the creature, and they keep a pot of burning pitch at the mouth of any passage they work. The embalmers buy its venom when one of the creature's needles can be found broken off in a cutter's arm, and they use it, they say, to keep the dead still. Tomb-robbers who come for the old burials think the creature guards them. The cutters say it guards nothing; it only eats what comes.
 
 ## Signs
 

@@ -3,7 +3,7 @@ shortcode: frodberi
 name: {full: "Fródberi", aliases: []}
 type: affiliation
 subType: order
-description: "Mediation and harmony in Fródvin's name."
+description: "Mediation and harmony in Frodvin's name."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
           Cast out of Fródberi, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
-          Carries word between disputing households in Fródvin's name, holding no standing yet to settle a quarrel alone.
+          Carries word between disputing households in Frodvin's name, holding no standing yet to settle a quarrel alone.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Is sought by both sides of a dispute to mediate it, trusted because Fródvin's peace serves neither party over the other.
+          Is sought by both sides of a dispute to mediate it, trusted because Frodvin's peace serves neither party over the other.
     offices: {}
   seat: null
   population: null
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Say two neighbors are quarrelling over a strayed heifer. Before it reaches the ting, either can send for a Herald of Peace, and both will accept him, because [[affiliation-frodvin|Fródvin]]'s peace is understood to serve neither party over the other.
+Say two neighbors are quarrelling over a strayed heifer. Before it reaches the ting, either can send for a Herald of Peace, and both will accept him, because [[affiliation-frodvin|Frodvin]]'s peace is understood to serve neither party over the other.
 
-Fródberi, the Heralds of Peace, mediate disputes in Fródvin's name, keeping harmony within a household and between neighboring ones. Both sides seek out a Dróttstjóri to mediate; a Dróttmadr carries word between the households and does not yet settle a quarrel alone.
+Fródberi, the Heralds of Peace, mediate disputes in Frodvin's name, keeping harmony within a household and between neighboring ones. Both sides seek out a Dróttstjori to mediate; a Drottmadr carries word between the households and does not yet settle a quarrel alone.

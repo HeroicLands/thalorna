@@ -1,6 +1,6 @@
 ---
 shortcode: elthezasolte
-name: {full: Elthêzâ Sôltêrâtês, aliases: [Captain Elthêzâ Sôltêrâtês]}
+name: {full: Eltheza Solterates, aliases: [Captain Eltheza Solterates]}
 type: being
 subType: npc
 description: The new commanding officer of the city guard, ambitious and eager to turn the docks patrol into aggressive enforcement.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Elthêzâ Sôltêrâtês is a 47-year-old woman who stands 5'5" tall with a light build. She has tanned skin, sun-kissed complexion, brown hair, and hazel eyes.
+Eltheza Solterates is a 47-year-old woman who stands 5'5" tall with a light build. She has tanned skin, sun-kissed complexion, brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Elthêzâ Sôltêrâtês is a captain and the new commanding officer of the city guard in which [[being-lothnhrlns|Lôthônâ Hârlânis]] serves. Elthêzâ is ambitious and wants to reform the docks patrol into aggressive enforcement. [[being-lothnhrlns|Lôthônâ Hârlânis]] is ordered to carry out her methods.
+Eltheza Solterates is a captain and the new commanding officer of the city guard in which [[being-lothnhrlns|Lothona Harlanis]] serves. Eltheza is ambitious and wants to reform the docks patrol into aggressive enforcement. [[being-lothnhrlns|Lothona Harlanis]] is ordered to carry out her methods.

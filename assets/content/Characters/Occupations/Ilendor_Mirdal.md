@@ -1,6 +1,6 @@
 ---
 shortcode: ylndrmyrdl
-name: {full: Ilendòr Mirdàl, aliases: []}
+name: {full: Ilendor Mirdal, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, mages]
@@ -398,13 +398,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Ilendòr Mirdàl is a 58-year-old man who stands 5'4" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a sharp jaw that leads to a delicate chin. His hooded dark brown eyes sit beneath thin brows, lending him a guarded gaze. An aquiline nose and wide lips complete his features. He has olive skin with a weathered complexion. His chestnut hair is tied in a low tail.
+Ilendor Mirdal is a 58-year-old man who stands 5'4" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a sharp jaw that leads to a delicate chin. His hooded dark brown eyes sit beneath thin brows, lending him a guarded gaze. An aquiline nose and wide lips complete his features. He has olive skin with a weathered complexion. His chestnut hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a guilded family of Provenzian heritage, Ilendòr Mirdàl came into the world of the astrologer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a guilded family of Provenzian heritage, Ilendor Mirdal came into the world of the astrologer through a combination of circumstance and aptitude.
 
-Ilendòr is a well known astrologer who serves the court of a powerful noble family. His predictions have shaped political decisions and royal marriages. Though his accuracy is respected, he is also known for being cryptic and difficult to approach. Ilendòr’s interest in the stars began during his youth, where a solar eclipse inspired him to pursue astrology.
+Ilendor is a well known astrologer who serves the court of a powerful noble family. His predictions have shaped political decisions and royal marriages. Though his accuracy is respected, he is also known for being cryptic and difficult to approach. Ilendor’s interest in the stars began during his youth, where a solar eclipse inspired him to pursue astrology.
 
 ## Psyche
 
@@ -414,7 +414,7 @@ Socially aloof and often dismissive of skeptics.
 
 ### Motivation
 
-Ilendòr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in astrologer work keep him vigilant and adaptable.
+Ilendor is driven by the desire to master his craft and secure a stable future. The uncertainties of life in astrologer work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -422,15 +422,15 @@ Highly knowledgeable about celestial events and their influences.
 
 ## Social
 
-Ilendòr is affiliated with Royal Astrological Society.
+Ilendor is affiliated with Royal Astrological Society.
 
-As a Provenzian astrologer, Ilendòr occupies a recognized social niche within Provènzia society.
+As a Provenzian astrologer, Ilendor occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Ilendòr's primary patron is Noble family who funds his research. This relationship provides both opportunity and obligation.
+Ilendor's primary patron is Noble family who funds his research. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -438,12 +438,12 @@ A rival astrologer who seeks to discredit his work.
 
 ## Plot Hooks
 
-1. **The Astrologer's Dilemma**—Ilendòr faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Astrologer's Dilemma**—Ilendor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
 
 2. **Old Grudges**—A rival astrologer who seeks to discredit his work. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Ilendòr's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Ilendor's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Ilendòr depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Ilendor depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Ilendòr the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Ilendor the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

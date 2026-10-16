@@ -1,6 +1,6 @@
 ---
 shortcode: kentros
-name: {full: Prênkâs, aliases: []}
+name: {full: Prenkas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Goad: restless of body and drawn to hidden things, with no use for field or forge."
@@ -35,7 +35,7 @@ sohl:
       hydalis: 0
 ---
 
-Prênkâs, the Goad, drives its children inward toward hidden things. Strong of frame and drawn to the mysteries and old learning, they have scant patience for the field, the forge, or the written page.
+Prenkas, the Goad, drives its children inward toward hidden things. Strong of frame and drawn to the mysteries and old learning, they have scant patience for the field, the forge, or the written page.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Prênkâs, the Goad, drives its children inward toward hidden things. Strong of 
 | Spirit  | Lore, Mystical            | +10 |
 | Water   | Language, Social          | —   |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

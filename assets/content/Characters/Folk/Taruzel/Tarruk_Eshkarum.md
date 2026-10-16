@@ -1,9 +1,9 @@
 ---
 shortcode: tarrukeshkar
-name: {full: Tarrûk Eshkarûm, aliases: [Magistrate Tarrûk Eshkarûm, Magistrate Eshkarûm]}
+name: {full: Tarruk Eshkarum, aliases: [Magistrate Tarruk Eshkarum, Magistrate Eshkarum]}
 type: being
 subType: npc
-description: A rising figure in the oligarchic hierarchy of Bazûnel who views the neutrality of Yutâlûsh Pushûtûm as insufficient.
+description: A rising figure in the oligarchic hierarchy of Bazunel who views the neutrality of Yutalush Pushutum as insufficient.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Tarrûk Eshkarûm is a 30-year-old man who stands 5'11" tall with a light build. He has olive skin, sun-kissed complexion, brown hair, and hazel eyes.
+Tarruk Eshkarum is a 30-year-old man who stands 5'11" tall with a light build. He has olive skin, sun-kissed complexion, brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Tarrûk Eshkarûm is a magistrate and a rising figure in the oligarchic hierarchy of Bazûnel. He views the neutrality of [[being-ytlshpshtm|Yutâlûsh Pushûtûm]] as insufficiently committed to their rule. He has been slowly pressuring the temple authorities to exert more control over [[being-ytlshpshtm|Yutâlûsh Pushûtûm]]'s clinic.
+Tarruk Eshkarum is a magistrate and a rising figure in the oligarchic hierarchy of Bazunel. He views the neutrality of [[being-ytlshpshtm|Yutalush Pushutum]] as insufficiently committed to their rule. He has been slowly pressuring the temple authorities to exert more control over [[being-ytlshpshtm|Yutalush Pushutum]]'s clinic.

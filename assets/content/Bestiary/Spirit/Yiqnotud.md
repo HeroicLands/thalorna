@@ -266,7 +266,7 @@ Those who have seen one in the half-light say that the head is wrong. It has no 
 
 ## In the Land
 
-The Yiqnotud is found on the thin fields and nowhere else: on the ground at Jilaq, three days off the road, where the towers of the league's chief city stand over a ring wall, and on the sacked caravan town of Qiimod on the southern spur, where no bird sings and no flame stays lit. It walks the field on any night of the year, and in the field's season and when standing water lies on the ground it walks in greater numbers. The lesser fields, such as the oasis called Vömek, bring bad dreams and nothing that can touch the living. The Yiqnotud is for the thin ones.
+The Yiqnotud is found on the thin fields and nowhere else: on the ground at Jilaq, three days off the road, where the towers of the league's chief city stand over a ring wall, and on the sacked caravan town of Qiimod on the southern spur, where no bird sings and no flame stays lit. It walks the field on any night of the year, and in the field's season and when standing water lies on the ground it walks in greater numbers. The lesser fields, such as the oasis called Vomek, bring bad dreams and nothing that can touch the living. The Yiqnotud is for the thin ones.
 
 It ranges a few miles beyond the edge of the field in the dark. A camp pitched on the field, or a caravan that has strayed onto it, meets it directly. A camp a mile off on a quiet night may see it at the edge of the light and go through the night with its dogs whining.
 

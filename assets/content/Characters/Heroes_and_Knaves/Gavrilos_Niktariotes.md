@@ -1,6 +1,6 @@
 ---
 shortcode: gvrlsnktrts
-name: {full: Sedikôn Manedês, given: Sedikôn, clan: Manedês, aliases: []}
+name: {full: Sedikon Manedes, given: Sedikon, clan: Manedes, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -417,35 +417,35 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gvrlsnktrts|Sedikôn Manedês]]{float=top-left}
+![[gvrlsnktrts|Sedikon Manedes]]{float=top-left}
 
-Sedikôn stands 6'1" tall with a medium build. He has light tanned skin, greying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, and hollow cheeks.
+Sedikon stands 6'1" tall with a medium build. He has light tanned skin, greying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, and hollow cheeks.
 
 # Dossier {#dossier}
 
 **The Rising Star**
 
-Born to a minor merchant house in the port city of [[place-chrysamar|Chrysamar]], Sedikôn showed early aptitude with steel. At fifteen, he was apprenticed to **Master Duvon of the Silver Halls**, the most celebrated swordmaster in the Byzarian League. For seven years he trained with obsessive devotion, drilling combinations until his shoulders screamed and his palms bled. His breakthrough came at twenty-two, when he bested Duvon himself in a ceremonial bout, a victory that scandalized the traditional hierarchy and elevated him to independent master status.
+Born to a minor merchant house in the port city of [[place-chrysamar|Chrisamar]], Sedikon showed early aptitude with steel. At fifteen, he was apprenticed to **Master Duvon of the Silver Halls**, the most celebrated swordmaster in the Bizarian League. For seven years he trained with obsessive devotion, drilling combinations until his shoulders screamed and his palms bled. His breakthrough came at twenty-two, when he bested Duvon himself in a ceremonial bout, a victory that scandalized the traditional hierarchy and elevated him to independent master status.
 
 **Years of Ascendancy**
 
-For the next twenty years, Sedikôn took on wealthy patrons and noble households, training younger warriors and children of the mercantile elite. His school in Chrysamar became famous; to be accepted as a student of Sedikôn Manedês was to be guaranteed status, discipline, and the martial arts that would shape one's adult life. He won lucrative contracts instructing the city's garrison, devised training regimens that military commanders still emulate, and built a reputation for flawless technique and unshakeable principles.
+For the next twenty years, Sedikon took on wealthy patrons and noble households, training younger warriors and children of the mercantile elite. His school in Chrisamar became famous; to be accepted as a student of Sedikon Manedes was to be guaranteed status, discipline, and the martial arts that would shape one's adult life. He won lucrative contracts instructing the city's garrison, devised training regimens that military commanders still emulate, and built a reputation for flawless technique and unshakeable principles.
 
 **The Reckoning with Mortality**
 
-Now at forty-five, Sedikôn has begun to confront a truth that no champion wishes to acknowledge: his body no longer obeys with the instantaneous precision it once did. His wind is shorter, his recovery time longer, his reflexes fractionally slower. Younger swordmasters—hungry, untested, and blessed with the advantages of youth—have begun to circle his reputation like wolves testing an aging lion. His recent victories have become less decisive, more grinding affairs of attrition rather than elegant superiority. He continues to accept students and contracts, driven by pride and the refusal to acknowledge decline, yet the edge of anxiety is beginning to show through his controlled demeanor.
+Now at forty-five, Sedikon has begun to confront a truth that no champion wishes to acknowledge: his body no longer obeys with the instantaneous precision it once did. His wind is shorter, his recovery time longer, his reflexes fractionally slower. Younger swordmasters—hungry, untested, and blessed with the advantages of youth—have begun to circle his reputation like wolves testing an aging lion. His recent victories have become less decisive, more grinding affairs of attrition rather than elegant superiority. He continues to accept students and contracts, driven by pride and the refusal to acknowledge decline, yet the edge of anxiety is beginning to show through his controlled demeanor.
 
 ## Psyche
 
 ### Personality
 
-Sedikôn lives by the Byzarian martial virtue of _sophrosyne_—measured wisdom wedded to perfect discipline. He speaks deliberately, his words chosen with the same economy he brings to swordplay, never wasting motion or breath. His humor is rare and cutting, deployed with exact aim to humble students who grow arrogant. He treats even his most trivial students with the respect due to serious practitioners; he despises dilettantes and those who seek swordsmanship as decoration.
+Sedikon lives by the Bizarian martial virtue of _sophrosyne_—measured wisdom wedded to perfect discipline. He speaks deliberately, his words chosen with the same economy he brings to swordplay, never wasting motion or breath. His humor is rare and cutting, deployed with exact aim to humble students who grow arrogant. He treats even his most trivial students with the respect due to serious practitioners; he despises dilettantes and those who seek swordsmanship as decoration.
 
 His composure covers a competitive fire that borders on the obsessive. He reviews his own duels constantly, analyzing moments of weakness with the pitiless severity he brings to critiquing his students. He has difficulty accepting compliments, deflecting praise toward his teachers or his students' dedication. His relationship with joy is complex—he experiences deep satisfaction in executing a perfect technique or in witnessing a student achieve mastery, but these moments of fulfillment are accompanied by melancholy as he recognizes them as increasingly rare.
 
 ### Motivation
 
-Sedikôn is driven by two conflicting forces: the desire to cement his legacy as the greatest swordmaster of his generation, and a growing hunger to identify and nurture the successor who will carry his methods beyond his own mortality. He begins to suspect that traditional prowess alone may not be enough to maintain his reputation as age accelerates its theft of his capabilities. He seeks worthy adversaries and students to train or defeat, and through them to prove to himself that his dominance was no gift of youth but the product of a superior understanding that will outlive his aging frame. He drives himself toward achievements that will be remembered beyond his death.
+Sedikon is driven by two conflicting forces: the desire to cement his legacy as the greatest swordmaster of his generation, and a growing hunger to identify and nurture the successor who will carry his methods beyond his own mortality. He begins to suspect that traditional prowess alone may not be enough to maintain his reputation as age accelerates its theft of his capabilities. He seeks worthy adversaries and students to train or defeat, and through them to prove to himself that his dominance was no gift of youth but the product of a superior understanding that will outlive his aging frame. He drives himself toward achievements that will be remembered beyond his death.
 
 ### Strengths
 
@@ -468,41 +468,41 @@ Sedikôn is driven by two conflicting forces: the desire to cement his legacy as
 ### Patrons
 
 House Markedon
-: A wealthy merchant dynasty that has employed Sedikôn as a private weapons master for fifteen years. Their eldest son, **Fruvês Markedon**, now commands the garrison, a position Sedikôn helped him prepare for.
+: A wealthy merchant dynasty that has employed Sedikon as a private weapons master for fifteen years. Their eldest son, **Fruves Markedon**, now commands the garrison, a position Sedikon helped him prepare for.
 
-Captain-General Rûzhvelána Khoríkot of the City Guard
-: The supreme military commander of Chrysamar personally consults with Sedikôn on matters of combat doctrine and maintains him on an annual retainer.
+Captain-General Ruzhvelana Korikot of the City Guard
+: The supreme military commander of Chrisamar personally consults with Sedikon on matters of combat doctrine and maintains him on an annual retainer.
 
-Archon Rabekâra Neoríkot
-: A senior political figure who guards Sedikôn jealously, seeing that he receives prominent civic positions and shielding him from rivals' schemes—in exchange for advice on matters requiring decisive action.
+Arsir Rabekara Neorikot
+: A senior political figure who guards Sedikon jealously, seeing that he receives prominent civic positions and shielding him from rivals' schemes—in exchange for advice on matters requiring decisive action.
 
 ### Enemies
 
 Swordmaster Vesazáhr Brirorash
-: An ambitious rival twenty years Sedikôn's junior who has begun publicly questioning whether the aging master still deserves his reputation. Vesazáhr has cultivated alliances among newer swordmasters and has won several public bouts against Sedikôn's former students, building confidence and a following.
+: An ambitious rival twenty years Sedikon's junior who has begun publicly questioning whether the aging master still deserves his reputation. Vesazáhr has cultivated alliances among newer swordmasters and has won several public bouts against Sedikon's former students, building confidence and a following.
 
 The Merchants' Syndicate Faction
-: A group of mercantile powers who resent Sedikôn's alliance with noble houses and have begun recruiting alternative weapons masters, seeking to dilute his monopoly on quality training.
+: A group of mercantile powers who resent Sedikon's alliance with noble houses and have begun recruiting alternative weapons masters, seeking to dilute his monopoly on quality training.
 
 His own reputation, an inner enemy
 : Perhaps his greatest enemy is the impossibly high standard he has created through forty years of undefeated excellence. Every student now expects perfection; every new pupil hopes to be trained by an immortal legend rather than an aging master. This burden grows heavier with each passing year.
 
 ### Affiliations
 
-Byzarian Swordmasters' Guild
-: A prestigious organization to which only masters of proven excellence are admitted. Sedikôn sits on the Council of Masters that adjudicates disputes and sets standards.
+Bizarian Swordmasters' Guild
+: A prestigious organization to which only masters of proven excellence are admitted. Sedikon sits on the Council of Masters that adjudicates disputes and sets standards.
 
-The Scholars of Ólvenía
-: A philosophical circle devoted to the goddess of prosperity and martial excellence. Sedikôn attends their quarterly meetings, where swordmasters debate technique and history.
+The Scholars of Ólvenia
+: A philosophical circle devoted to the goddess of prosperity and martial excellence. Sedikon attends their quarterly meetings, where swordmasters debate technique and history.
 
 ## Plot Hooks
 
-1. **The Challenge from Beyond the Sea**: A famed swordmaster from a distant Byzarian colony arrives in Chrysamar, claiming to have defeated all challengers across three continents. He specifically requests to duel Sedikôn Manedês, challenging the aging master's reputation before the gathered nobility. The adventurers might be hired by Sedikôn to investigate this challenger's true background, only to discover he is not a trained warrior at all but a warrior-servant bound by dark magic to an ancient curse, doomed to defeat every master swordsman he faces. Only by breaking the curse can Sedikôn gain a truly honorable victory.
+1. **The Challenge from Beyond the Sea**: A famed swordmaster from a distant Bizarian colony arrives in Chrisamar, claiming to have defeated all challengers across three continents. He specifically requests to duel Sedikon Manedes, challenging the aging master's reputation before the gathered nobility. The adventurers might be hired by Sedikon to investigate this challenger's true background, only to discover he is not a trained warrior at all but a warrior-servant bound by dark magic to an ancient curse, doomed to defeat every master swordsman he faces. Only by breaking the curse can Sedikon gain a truly honorable victory.
 
-2. **The Stolen Techniques**: Sedikôn discovers that Swordmaster Vesazáhr Brirorash has somehow obtained detailed notes of his most advanced fighting forms—techniques Sedikôn has never written down and only teaches to elite students after years of trust-building. Someone has betrayed him. Sedikôn hires the party to identify the traitor and recover the stolen knowledge before it spreads among the city's swordmasters, diluting his edge. The investigation might reveal that the leak comes from a beloved former student now fallen into desperate circumstances, forcing Sedikôn to confront his own rigidity.
+2. **The Stolen Techniques**: Sedikon discovers that Swordmaster Vesazáhr Brirorash has somehow obtained detailed notes of his most advanced fighting forms—techniques Sedikon has never written down and only teaches to elite students after years of trust-building. Someone has betrayed him. Sedikon hires the party to identify the traitor and recover the stolen knowledge before it spreads among the city's swordmasters, diluting his edge. The investigation might reveal that the leak comes from a beloved former student now fallen into desperate circumstances, forcing Sedikon to confront his own rigidity.
 
-3. **The Tournament of Ascension**: A prestigious martial tournament is announced in a neighboring city, promising enormous prize money and the title of "Supreme Master of the Byzarian Realms." Sedikôn sees this as a final opportunity to prove his dominance against the best warriors of his age, but his declining condition worries his patrons and students. Alternatively, the party might be hired as his escorts and bodyguards, discovering that other competitors are employing supernatural enhancements, poisoning, and sabotage. The heroes can support Sedikôn through fair means or alert him to the cheating taking place around him.
+3. **The Tournament of Ascension**: A prestigious martial tournament is announced in a neighboring city, promising enormous prize money and the title of "Supreme Master of the Bizarian Realms." Sedikon sees this as a final opportunity to prove his dominance against the best warriors of his age, but his declining condition worries his patrons and students. Alternatively, the party might be hired as his escorts and bodyguards, discovering that other competitors are employing supernatural enhancements, poisoning, and sabotage. The heroes can support Sedikon through fair means or alert him to the cheating taking place around him.
 
-4. **The Cursed Blade**: A young student of rare talent approaches Sedikôn with a strange weapon—a beautiful broadsword of unknown origin that seems to enhance the user's reflexes and strength. Sedikôn is tempted; the blade could restore his lost youth for one final contest. The party might be hired to investigate the blade's origin and discover it is bound to the soul of a warrior who died tragically, imprisoned by a malevolent mage. Using it would mean carrying a damned soul into every duel. Sedikôn is torn between the temptation of restored youth and his deepest principles.
+4. **The Cursed Blade**: A young student of rare talent approaches Sedikon with a strange weapon—a beautiful broadsword of unknown origin that seems to enhance the user's reflexes and strength. Sedikon is tempted; the blade could restore his lost youth for one final contest. The party might be hired to investigate the blade's origin and discover it is bound to the soul of a warrior who died tragically, imprisoned by a malevolent mage. Using it would mean carrying a damned soul into every duel. Sedikon is torn between the temptation of restored youth and his deepest principles.
 
-5. **The Failing Student**: A promising young swordsman, the son of a powerful patron, shows every sign of becoming an outstanding warrior—except he secretly suffers from a degenerative joint condition that will cripple him within five years. The young man's father hires adventurers to keep the condition secret while pressuring Sedikôn to accelerate the training, intensifying the damage. Sedikôn, recognizing his own battle with mortality in the boy, can honor the father's wishes or risk his prestigious patronage by insisting the boy receive proper medical treatment instead of martial conditioning. The party becomes entangled in this conflict, and may become the unwitting instruments of either salvation or tragedy.
+5. **The Failing Student**: A promising young swordsman, the son of a powerful patron, shows every sign of becoming an outstanding warrior—except he secretly suffers from a degenerative joint condition that will cripple him within five years. The young man's father hires adventurers to keep the condition secret while pressuring Sedikon to accelerate the training, intensifying the damage. Sedikon, recognizing his own battle with mortality in the boy, can honor the father's wishes or risk his prestigious patronage by insisting the boy receive proper medical treatment instead of martial conditioning. The party becomes entangled in this conflict, and may become the unwitting instruments of either salvation or tragedy.

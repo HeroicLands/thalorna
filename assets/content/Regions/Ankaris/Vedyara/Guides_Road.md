@@ -3,7 +3,7 @@ shortcode: gudesroad
 name: {full: The Guides' Road, aliases: []}
 type: place
 subType: feature
-description: "The sixth crossing—no fortress, no toll, no shrine and no blessing; the road the Ösket keep between the two western doors and take a lowlander over blindfold."
+description: "The sixth crossing—no fortress, no toll, no shrine and no blessing; the road the Osket keep between the two western doors and take a lowlander over blindfold."
 tags: [pass, caravan, inland]
 data:
   culture: osketclt
@@ -16,23 +16,23 @@ data:
   packFolder: vedyara
 ---
 
-There are six crossings of the wall. Five are blessed, tolled, recorded and argued over. The sixth is **the Guides' Road**, which lies somewhere between [[place-meghadvara|Meghadvāra]] and [[place-suryadvara|Sūryadvāra]], and about which those four verbs are all false.
+There are six crossings of the wall. Five are blessed, tolled, recorded and argued over. The sixth is **the Guides' Road**, which lies somewhere between [[place-meghadvara|Meghadvara]] and [[place-suryadvara|Suryadvara]], and about which those four verbs are all false.
 
-No fortress stands on it. No toll is taken. No [[place-pssshrines|Pass-Shrine]] blesses it, and none ever has. It is on no register at [[place-suryagarha|Sūryagarha]], and no customs-house has ever weighed a bale that went over it. The [[affiliation-vindhyalay|Shikharālayan]] crown's formal position is that the road does not exist. The crown has held that position without amendment through three reigns, and its own wardens have known perfectly well that the road is there.
+No fortress stands on it. No toll is taken. No [[place-pssshrines|Pass-Shrine]] blesses it, and none ever has. It is on no register at [[place-suryagarha|Suryagarha]], and no customs-house has ever weighed a bale that went over it. The [[affiliation-vindhyalay|Shikharalayan]] crown's formal position is that the road does not exist. The crown has held that position without amendment through three reigns, and its own wardens have known perfectly well that the road is there.
 
 ## Who Goes Over It
 
-The [[affiliation-osketguides|Ösket]], whenever they please; it is open when the western doors are shut and shut when nothing else is, and only they can say which. A lowlander goes over it hooded, on foot, holding a cord, and arrives on the far side a month and a half later with no idea of where he has been.
+The [[affiliation-osketguides|Osket]], whenever they please; it is open when the western doors are shut and shut when nothing else is, and only they can say which. A lowlander goes over it hooded, on foot, holding a cord, and arrives on the far side a month and a half later with no idea of where he has been.
 
-That is the whole commerce of the road: not goods but passage, for people and packets that cannot be seen to cross. It is worth more per pound than anything that goes by Sūryadvāra, it is paid for in advance and in gold, and neither end of it is written down.
+That is the whole commerce of the road: not goods but passage, for people and packets that cannot be seen to cross. It is worth more per pound than anything that goes by Suryadvara, it is paid for in advance and in gold, and neither end of it is written down.
 
 ## What It Is Worth
 
-A lowlander who learned the road would be worth killing, and an Ösket who sold it would be worth more. Both have happened. The Ösket deal with the second case themselves and have never explained how, and the lineages that work the western passes will not discuss the first at all.
+A lowlander who learned the road would be worth killing, and an Osket who sold it would be worth more. Both have happened. The Osket deal with the second case themselves and have never explained how, and the lineages that work the western passes will not discuss the first at all.
 
-The [[place-shunydvara|Shūnyadvāra]] stands on the col, and every Ösket crossing walks through the opening in it. None of them will say why. The [[place-pssshrines|Pass-Shrines]]' refusal to bless this road is older than any of the four reasons currently given for it, and the reasons change.
+The [[place-shunydvara|Shunyadvara]] stands on the col, and every Osket crossing walks through the opening in it. None of them will say why. The [[place-pssshrines|Pass-Shrines]]' refusal to bless this road is older than any of the four reasons currently given for it, and the reasons change.
 
 ## See Also
 
-- [[place-meghadvara|Meghadvāra]] · [[place-suryadvara|Sūryadvāra]] · [[place-shunydvara|Shūnyadvāra]]
-- [[affiliation-osketguides|The Ösket]] · [[place-sthrnwall|The Southern Wall]]
+- [[place-meghadvara|Meghadvara]] · [[place-suryadvara|Suryadvara]] · [[place-shunydvara|Shunyadvara]]
+- [[affiliation-osketguides|The Osket]] · [[place-sthrnwall|The Southern Wall]]

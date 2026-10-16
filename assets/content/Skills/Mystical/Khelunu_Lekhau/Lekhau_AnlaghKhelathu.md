@@ -1,6 +1,6 @@
 ---
 shortcode: lekhnlghkhlt
-name: {full: "Lekhau: Anlagh'Khelâthu", aliases: []}
+name: {full: "Lekhau: Anlagh'Khelathu", aliases: []}
 type: skill
 subType: mystical
 tags: [gethunu-lekhau, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-garnlghkhlth|Gar-Anlagh'Khelâthu]]
+See [[affiliation-garnlghkhlth|Gar-Anlagh'Khelathu]]

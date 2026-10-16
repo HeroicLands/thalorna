@@ -1,9 +1,9 @@
 ---
 shortcode: khamundatrb
-name: {full: Khamúnda Tribe, aliases: []}
+name: {full: Khamunda Tribe, aliases: []}
 type: affiliation
 subType: polity
-description: A tribe of the Okháris whose seat is Khamúnda Village.
+description: A tribe of the Okharis whose seat is Khamunda Village.
 tags: [draft]
 data:
   templatePriority: null
@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe owes fealty to Okháris, and its chieftain and elders attend the regular moots held in the temple-cities, where matters affecting the tribes are decided. Every member holds standing in Okháris as well as in the tribe: most as Villager/Townsman, the elders and the chieftain as Honored One.
+      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe owes fealty to Okharis, and its chieftain and elders attend the regular moots held in the temple-cities, where matters affecting the tribes are decided. Every member holds standing in Okharis as well as in the tribe: most as Villager/Townsman, the elders and the chieftain as Honored One.
     ranks:
       - level: 0
         title: Kinless
@@ -55,10 +55,10 @@ data:
 sohl: {system: {commonSkills: [okharclng]}}
 ---
 
-## The Khamúnda
+## The Khamunda
 
-The **Khamúnda** are a tribe owing fealty to [[affiliation-okharis|Okháris]]. Their seat is
-[[place-khamundavlg|Khamúnda Village]], one of the settled villages of
-[[place-okharisrgn|Okháris]].
+The **Khamunda** are a tribe owing fealty to [[affiliation-okharis|Okharis]]. Their seat is
+[[place-khamundavlg|Khamunda Village]], one of the settled villages of
+[[place-okharisrgn|Okharis]].
 
-The tribe follows Okháris customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Khamúnda belongs to Okháris as well as to the tribe.
+The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Khamunda belongs to Okharis as well as to the tribe.

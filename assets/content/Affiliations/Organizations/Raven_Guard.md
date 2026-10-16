@@ -3,7 +3,7 @@ shortcode: ravenguard
 name: {full: Raven Guard, aliases: []}
 type: affiliation
 subType: order
-description: "The garrison of elite warriors sworn to the temple of Ódvar at Ódholm and to the defense of the north's holy places."
+description: "The garrison of elite warriors sworn to the temple of Odvar at Odholm and to the defense of the north's holy places."
 tags: [draft, nordheim, soldiery]
 data:
   culture: nordheimnclt
@@ -23,7 +23,7 @@ data:
       - level: 1
         title: Sworn Warrior
         description: >-
-          An elite warrior sworn to the temple of Ódvar and to the defense of the north's holy places.
+          An elite warrior sworn to the temple of Odvar and to the defense of the north's holy places.
     offices: {}
   seat: odholm
   population: null
@@ -36,13 +36,13 @@ data:
 
 ## Overview
 
-The **Raven Guard** is the garrison of elite warriors kept by the temple of [[affiliation-odvar|Ódvar]] at [[place-odholm|Ódholm]]. Its warriors are sworn to the temple and to the defense of the north's holy places.
+The **Raven Guard** is the garrison of elite warriors kept by the temple of [[affiliation-odvar|Odvar]] at [[place-odholm|Odholm]]. Its warriors are sworn to the temple and to the defense of the north's holy places.
 
 ## Standing
 
-Mystical authority and martial strength together give Ódholm real influence for its size, and the Guard is the martial half. Nordheim counts the settlement as strategic as well as holy for that reason.
+Mystical authority and martial strength together give Odholm real influence for its size, and the Guard is the martial half. Nordheim counts the settlement as strategic as well as holy for that reason.
 
 ## See Also
 
-- [[place-odholm|Ódholm]]—the temple settlement the Guard garrisons
-- [[affiliation-odvar|Faith of Ódvar]]—the god the temple serves
+- [[place-odholm|Odholm]]—the temple settlement the Guard garrisons
+- [[affiliation-odvar|Faith of Odvar]]—the god the temple serves

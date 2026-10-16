@@ -15,11 +15,11 @@ data:
 # terran_analog: "Ireland—the great western arm of the inverted-V Aelwythan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior."
 ---
 
-The Peshtar Wilderness is the ungoverned highland quarter of [[place-aelwyth|Aelwyth]]—rugged mountains, old-growth forests, boggy upland moors, and mist-choked valleys that have resisted every attempt at conquest, incorporation, or civilization for as long as Aelwyth has kept written records. Nominally part of the Misty Isle, it lies entirely beyond the writ of any crowned king, and the Peshtar tribes who inhabit it regard all outside authority as trespass. The region is a running scandal to the lowland kingdoms, an opportunity for mercenary recruiters, and a spiritual mystery to the older Aurèldían clergy who suspect that some of what the Peshtar worship may be older than any pantheon on record.
+The Peshtar Wilderness is the ungoverned highland quarter of [[place-aelwyth|Aelwyth]]—rugged mountains, old-growth forests, boggy upland moors, and mist-choked valleys that have resisted every attempt at conquest, incorporation, or civilization for as long as Aelwyth has kept written records. Nominally part of the Misty Isle, it lies entirely beyond the writ of any crowned king, and the Peshtar tribes who inhabit it regard all outside authority as trespass. The region is a running scandal to the lowland kingdoms, an opportunity for mercenary recruiters, and a spiritual mystery to the older Aureldian clergy who suspect that some of what the Peshtar worship may be older than any pantheon on record.
 
 ## Geography
 
-The Peshtar Wilderness occupies the northwestern quarter of [[place-aelwyth|Aelwyth]], the largest island of the [[place-aureldirgn|Aurèldían]] sphere. Its physical character is defined by highland terrain—granite ridges, glacial valleys, cold fast rivers, and peat-soaked upland moor—with dense forests of oak, pine, and ancient hazel covering everything below the treeline. Fog is a near-constant presence: the lowlanders call the region "the cloud-country," and travelers report that one can climb for a full day without seeing the sun through the mist.
+The Peshtar Wilderness occupies the northwestern quarter of [[place-aelwyth|Aelwyth]], the largest island of the [[place-aureldirgn|Aureldian]] sphere. Its physical character is defined by highland terrain—granite ridges, glacial valleys, cold fast rivers, and peat-soaked upland moor—with dense forests of oak, pine, and ancient hazel covering everything below the treeline. Fog is a near-constant presence: the lowlanders call the region "the cloud-country," and travelers report that one can climb for a full day without seeing the sun through the mist.
 
 The coastline is cliff-bound, broken by a handful of rocky inlets that the tribes use for fishing and occasional coastal raids but that support no real harbors. The one or two natural anchorages that might have made good ports have never been developed—the Peshtar have no interest in concentrated settlement of any kind, and any outsider who has tried to build a port has had his workers harassed, his materials burned, and his stockade overrun within a season.
 
@@ -56,11 +56,11 @@ Peshtar diet is simple: cattle, sheep, goats, and pigs herded through the highla
 
 ## Religion
 
-The Peshtar worship a mix of [[affiliation-arldnpnthn|Aurèldían]] gods and older animistic traditions that may predate any organized pantheon on Thalorna. Their druids maintain the ritual practice; their holy places are natural features—ancient trees, springs, stone circles, the high shoulders of specific mountains—rather than temples or churches.
+The Peshtar worship a mix of [[affiliation-arldnpnthn|Aureldian]] gods and older animistic traditions that may predate any organized pantheon on Thalorna. Their druids maintain the ritual practice; their holy places are natural features—ancient trees, springs, stone circles, the high shoulders of specific mountains—rather than temples or churches.
 
-The relationship between the Peshtar version of the Aurèldían gods and the version recognized in mainstream Aurèldían theology is ambiguous. The names are recognizable: Peshtar druids invoke something they call Calmara, something they call Veyrael, something they call Vharoth. But the stories they tell, the faces they assign to these gods, and the rituals they use to approach them bear only a distant resemblance to the Aurèldían liturgical tradition. A handful of Aurèldían theologians have proposed that the Peshtar practice is not a corruption of the true faith but an older stratum of it, preserving what the continent has forgotten. This proposition is not popular in ecclesiastical circles; the theologians who have made it most vigorously have generally ended their careers in obscurity.
+The relationship between the Peshtar version of the Aureldian gods and the version recognized in mainstream Aureldian theology is ambiguous. The names are recognizable: Peshtar druids invoke something they call Calmara, something they call Veyrael, something they call Vharoth. But the stories they tell, the faces they assign to these gods, and the rituals they use to approach them bear only a distant resemblance to the Aureldian liturgical tradition. A handful of Aureldian theologians have proposed that the Peshtar practice is not a corruption of the true faith but an older stratum of it, preserving what the continent has forgotten. This proposition is not popular in ecclesiastical circles; the theologians who have made it most vigorously have generally ended their careers in obscurity.
 
-Beneath and around the Aurèldían names, the Peshtar also maintain a set of explicitly animistic practices—the recognition of landscape-spirits, ancestor-spirits, and the named spirits of specific rivers, specific groves, specific stones. These traditions have no counterpart in mainstream Aurèldían practice and are, almost certainly, the older stratum of the Peshtar faith.
+Beneath and around the Aureldian names, the Peshtar also maintain a set of explicitly animistic practices—the recognition of landscape-spirits, ancestor-spirits, and the named spirits of specific rivers, specific groves, specific stones. These traditions have no counterpart in mainstream Aureldian practice and are, almost certainly, the older stratum of the Peshtar faith.
 
 ## Politics and Power
 
@@ -78,7 +78,7 @@ Peshtar warriors occasionally take service as mercenaries in the lowland kingdom
 
 To the **south** lies the [[affiliation-repblcndrth|Republic of Ondareth]], which has borne the brunt of Peshtar raiding for centuries and whose border is a long line of fortified farmsteads, watch-burgs, and burned-over no-man's-land. Relations are formally hostile, practically managed.
 
-To the **east** lies the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] and other Nordmal-descended polities of Aelwyth. The Peshtar and the Nordmen of Aelwyth share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aurèldían polities.
+To the **east** lies the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] and other Nordmal-descended polities of Aelwyth. The Peshtar and the Nordmen of Aelwyth share a martial temperament and a highland respect, and relations between them are often more comprehensible and more stable than Peshtar relations with the continental Aureldian polities.
 
 To the **north and west** lies the sea. The Peshtar have no maritime ambition, and the cliff coasts discourage any outside power from attempting a landing in strength.
 
@@ -87,9 +87,9 @@ To the **north and west** lies the sea. The Peshtar have no maritime ambition, a
 - [[place-aelwyth|Aelwyth]]—the parent island
 - [[affiliation-repblcndrth|Republic of Ondareth]]—southern lowland neighbor
 - [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]—eastern Nordmal-descended neighbor
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—partial overlay of the older Peshtar faith
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]—partial overlay of the older Peshtar faith
 - [[skill-varokhlng|Varokhi]]—related naming tradition
-- [[place-aureldirgn|Aurèldía Region]]—the broader cultural region
+- [[place-aureldirgn|Aureldia Region]]—the broader cultural region
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent
 
 ## Extent and Peoples

@@ -25,19 +25,12 @@
 # requires, so the checks report as one. Each job pays its own checkout and
 # a dependency restore.
 #
-# The lexicons are deliberately absent, and so is the drift sweep. A lexicon
-# judges one culture's names against the phonology its own language note
-# publishes, and there is one per culture — Nordmal, Varokhi, Khelâthi, and
-# whichever comes next. Each reports the names a renaming has not yet reached,
-# so each is red by design while that renaming is in progress, and holding the
-# whole tree red on one culture's backlog tells a contributor nothing about the
-# change in front of them. They are run on demand:
-# `npm run lint:khelathi-lexicon`, `lint:nordmal-lexicon`,
-# `lint:varokhi-lexicon`.
-#
-# `lint:drift` reports old names surviving in prose, and
-# `lint:nordmal-concordance` judges the table it and the Nordmal lexicon read.
-# Both are red on the same backlog and both are run the same way.
+# The retired-name sweep is deliberately absent. `npm run lint:retired` reports
+# old names surviving in prose, and `lint:nordmal-concordance` judges the table
+# it reads. Each reports the names a renaming has not yet reached, so each is
+# red by design while that renaming is in progress, and holding the whole tree
+# red on one culture's backlog tells a contributor nothing about the change in
+# front of them. They are run on demand.
 #
 # ## The compile runs beside the checks
 #
@@ -219,9 +212,9 @@ jobs:
             - name: Check reference people
               run: npm run lint:reference-people
 
-            # The tree's own guards: the lexicons and their name registers, the
-            # concordance, the deployment headers. Two pull requests that pass
-            # alone can fail together, and this catches that before merge.
+            # The tree's own guards: the concordance, the deployment headers. Two
+            # pull requests that pass alone can fail together, and this catches
+            # that before merge.
             - name: Run the utility tests
               if: ${{ !cancelled() }}
               run: node --test 'utils/**/*.test.mjs'

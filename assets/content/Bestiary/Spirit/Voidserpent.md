@@ -192,7 +192,7 @@ The black water is still between the cypress knees, and the canoe has stopped be
 
 # Dossier {#dossier}
 
-The Voidserpent is a being from the spaces between worlds: a serpent thirty feet long or more, made of something between matter and nothing, older than the gods if the oldest accounts are right and stranger than any mortal mind can follow. It moves by purposes no one has fathomed, passing through solid things, warping space and time round itself, and draining whatever it touches. It is extraordinarily rare. The one the K'ich'chik know of has been seen in **Ne' P'uqan**, the Black Water, the great marsh at the heart of [[place-tzumanotunrgn|Tz'uma No'tun]], the swamp country of the Ch'aqun that K'ich'chik border commanders treat as effectively impassable.
+The Voidserpent is a being from the spaces between worlds: a serpent thirty feet long or more, made of something between matter and nothing, older than the gods if the oldest accounts are right and stranger than any mortal mind can follow. It moves by purposes no one has fathomed, passing through solid things, warping space and time round itself, and draining whatever it touches. It is extraordinarily rare. The one the K'ich'chik know of has been seen in **Ne' P'uqan**, the Black Water, the great marsh at the heart of [[place-tzumanotunrgn|Ts'uma No'tun]], the swamp country of the Ch'akun that K'ich'chik border commanders treat as effectively impassable.
 
 ## Presentation
 
@@ -200,7 +200,7 @@ The voidserpent is serpent-shaped and massive, thick as a horse's body, and its 
 
 ## In the Land
 
-Ne' P'uqan and the black-water marshes round it are trackless expanses of cypress, tupelo and saw palm, crossed by sluggish rivers and joined by hidden waterways that the Ch'aqun move through with effortless mastery. The voidserpent passes through them on its own courses, sometimes seen in one channel and sometimes miles away the next night, and it favors the deepest, stillest water. Nothing about where it goes has ever made sense to the scouts who track it. It has been seen to pass through the trunk of a cypress as if the tree were mist, and it has been seen to pass a scouting party by without turning its head.
+Ne' P'uqan and the black-water marshes round it are trackless expanses of cypress, tupelo and saw palm, crossed by sluggish rivers and joined by hidden waterways that the Ch'akun move through with effortless mastery. The voidserpent passes through them on its own courses, sometimes seen in one channel and sometimes miles away the next night, and it favors the deepest, stillest water. Nothing about where it goes has ever made sense to the scouts who track it. It has been seen to pass through the trunk of a cypress as if the tree were mist, and it has been seen to pass a scouting party by without turning its head.
 
 ## Key Behaviors
 
@@ -208,7 +208,7 @@ A voidserpent does not behave like a creature. It follows paths and purposes inv
 
 ## What the Border Scouts Do
 
-K'ich'chik scouts and the garrisons on the swamp border have one rule for the voidserpent: get out of its way and let it pass. A canoe that sees it turns back down the channel it came by and does not stop until it has rounded a bend. The scouts have noted that the serpent imagery dominating the few artifacts recovered from the Ch'aqun, the imagery that gives the Serpent People their K'ich'chik name, includes a coiled shape drawn with stars inside it, and they argue at the border forts whether the Ch'aqun honor the voidserpent, fear it, or know how to move it. No K'ich'chik scholar has ever been let into Ch'aqun lands and come back to say. Priests of the [[affiliation-itzanpnthn|Itzáni]] faith at the border forts burn copal and hold lamps through the night when it has been seen, and say nothing about what it is.
+K'ich'chik scouts and the garrisons on the swamp border have one rule for the voidserpent: get out of its way and let it pass. A canoe that sees it turns back down the channel it came by and does not stop until it has rounded a bend. The scouts have noted that the serpent imagery dominating the few artifacts recovered from the Ch'akun, the imagery that gives the Serpent People their K'ich'chik name, includes a coiled shape drawn with stars inside it, and they argue at the border forts whether the Ch'akun honor the voidserpent, fear it, or know how to move it. No K'ich'chik scholar has ever been let into Ch'akun lands and come back to say. Priests of the [[affiliation-itzanpnthn|Itsani]] faith at the border forts burn copal and hold lamps through the night when it has been seen, and say nothing about what it is.
 
 ## Signs
 

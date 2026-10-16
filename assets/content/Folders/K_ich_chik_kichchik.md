@@ -5,4 +5,4 @@ type: folder
 data: {parent: regions, color: "#3CB371"}
 ---
 
-This folder holds the notes of K'ich'chik, the continent that bears the name. It contains the K'ich'chik Continent note and the notes for Northern, Central and Southern K'ich'chik. It is divided into folders for its regions and polities, among them South, Ne'ok Ba'ate, K'ankul and Ixtem Tzul, and it sits within the folder of the regions.
+This folder holds the notes of K'ich'chik, the continent that bears the name. It contains the K'ich'chik Continent note and the notes for Northern, Central and Southern K'ich'chik. It is divided into folders for its regions and polities, among them South, Ne'ok Ba'ate, K'ankul and Ishtem Tsul, and it sits within the folder of the regions.

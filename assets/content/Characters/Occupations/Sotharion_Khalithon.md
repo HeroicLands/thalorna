@@ -1,6 +1,6 @@
 ---
 shortcode: sthrnkhlthn
-name: {full: Sôtharion Khalîthôn, aliases: []}
+name: {full: Sotharion Khalithon, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Sôtharion Khalîthôn is a 44-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. His almond-shaped brown eyes sit beneath arched brows and give him a measured gaze. He has a straight nose and full lips. He has olive skin with an olive-toned complexion. His graying black hair falls in loose waves.
+Sotharion Khalithon is a 44-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. His almond-shaped brown eyes sit beneath arched brows and give him a measured gaze. He has a straight nose and full lips. He has olive skin with an olive-toned complexion. His graying black hair falls in loose waves.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Sôtharion Khalîthôn is a lord who holds his lands as a tenant-in-chief.
+Born in the [[place-helionis|Helionis]] region to a noble family of Helionite heritage, Sotharion Khalithon is a lord who holds his lands as a tenant-in-chief.
 
-Lord Sôtharion is a powerful lord who oversees vast lands and is known for his military prowess. He has earned the loyalty of his vassals through his just rulership and his skill in war. He is dedicated to protecting his domain from threats and is often seen leading his men into battle. His strong sense of duty and honor has made him a respected figure among both his peers and the common folk.
+Lord Sotharion is a powerful lord who oversees vast lands and is known for his military prowess. He has earned the loyalty of his vassals through his just rulership and his skill in war. He is dedicated to protecting his domain from threats and is often seen leading his men into battle. His strong sense of duty and honor has made him a respected figure among both his peers and the common folk.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ He can be too rigid in his decisions, and struggles with the shifting loyalties 
 
 ### Motivation
 
-Sôtharion wants his domain protected and his vassals' loyalty deserved.
+Sotharion wants his domain protected and his vassals' loyalty deserved.
 
 ### Strengths
 
@@ -419,13 +419,13 @@ He is a strong military leader, a clear-headed planner, and a respected authorit
 
 ## Social
 
-Sôtharion sits on the Local Nobility Council.
+Sotharion sits on the Local Nobility Council.
 
 ## Companions
 
 ### Patrons
 
-Sôtharion's patrons are the vassals and local nobility who seek his guidance.
+Sotharion's patrons are the vassals and local nobility who seek his guidance.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Few; he is generally respected but has made rivals in power struggles.
 
 ## Plot Hooks
 
-1. **The Nobility (Tenant-in-chief)'s Dilemma**—A vassal Sôtharion trusts is found to have wronged the common folk on his land, and just rulership and the loyalty he has earned pull against each other.
+1. **The Nobility (Tenant-in-chief)'s Dilemma**—A vassal Sotharion trusts is found to have wronged the common folk on his land, and just rulership and the loyalty he has earned pull against each other.
 
 2. **Old Grudges**—A rival from an old power struggle on the Local Nobility Council has found allies enough to reopen it.
 
-3. **Echoes of the Past**—A battle Sôtharion led his men into years ago is raised again by the family of a man who did not come back from it.
+3. **Echoes of the Past**—A battle Sotharion led his men into years ago is raised again by the family of a man who did not come back from it.
 
-4. **Shifting Winds**—Political change in Heliónis threatens the standing of the tenants-in-chief, and Sôtharion can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Helionis threatens the standing of the tenants-in-chief, and Sotharion can adapt, resist, or leave.
 
-5. **The Opportunity**—Sôtharion is offered command of a campaign beyond his own lands, and his domain would be left to his vassals while he is gone.
+5. **The Opportunity**—Sotharion is offered command of a campaign beyond his own lands, and his domain would be left to his vassals while he is gone.

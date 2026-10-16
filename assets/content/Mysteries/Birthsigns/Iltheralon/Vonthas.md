@@ -1,6 +1,6 @@
 ---
 shortcode: korith
-name: {full: Vônthâs, aliases: []}
+name: {full: Vonthas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Helm: hard-bodied and steady under a blow, lost in wild country and worse in conversation."
@@ -35,7 +35,7 @@ sohl:
       hydalis: -10
 ---
 
-Vônthâs, the Helm, tempers its children for endurance and the clash of arms. Strong in body and steady under the strike, they nonetheless find the lore of nature and the graces of speech slow to answer their call.
+Vonthas, the Helm, tempers its children for endurance and the clash of arms. Strong in body and steady under the strike, they nonetheless find the lore of nature and the graces of speech slow to answer their call.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Vônthâs, the Helm, tempers its children for endurance and the clash of arms. S
 | Spirit  | Lore, Mystical            | —   |
 | Water   | Language, Social          | −10 |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

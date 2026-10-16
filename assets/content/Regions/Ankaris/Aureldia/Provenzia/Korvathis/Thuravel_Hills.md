@@ -1,20 +1,20 @@
 ---
 shortcode: thuravelhills
-name: {full: Thúravel Hills, aliases: []}
+name: {full: Túravel Hills, aliases: []}
 type: place
 subType: feature
-description: "A range of low wooded hills in southern Provènzia, thinly settled and poorly mapped, remembered in song as a country of the older faith and avoided by people who will not say why."
+description: "A range of low wooded hills in southern Provenzia, thinly settled and poorly mapped, remembered in song as a country of the older faith and avoided by people who will not say why."
 tags: [hill, woodland, inland]
 data: {demonym: null, lore: [], parents: [korvathis], population: null, packFolder: provenzia}
 ---
 
-The **Thúravel Hills** roll across the south of the [[place-provenzrgn|Provènzia Region]]—low,
+The **Túravel Hills** roll across the south of the [[place-provenzrgn|Provenzia Region]]—low,
 wooded, thinly settled, and mapped with a vagueness unusual in so well-surveyed a kingdom. Roads skirt
 them. The villages at their edges are small, old and inward, and the shepherds who take flocks onto the
 higher ground keep to paths that are not written down anywhere.
 
 There is nothing forbidding about the country itself. It is good pasture and fair timber, and no
-authority has ever declared it closed. It is simply that Provenzians who live near the Thúravel do not
+authority has ever declared it closed. It is simply that Provenzians who live near the Túravel do not
 go far into them without a reason, and give reasons that do not survive much questioning.
 
 ## The Older Faith
@@ -36,16 +36,16 @@ is romantic invention by collectors. The people of the hills decline to help the
   last one, which cartographers blame on the terrain and locals do not blame on anything.
 - **Fae-touched, by reputation.** The stories are consistent about there being something in the deep
   hills, and inconsistent about everything else concerning it.
-- **Of interest to the wrong people.** The [[affiliation-ordoarcanis|Thôrdimâlon]] claims authority
+- **Of interest to the wrong people.** The [[affiliation-ordoarcanis|Thordimalon]] claims authority
   over arcane sites, nobles have sought power in old practices before, and the district's obscurity is
   exactly what makes it attractive.
 
 ## Notable Features
 
-- [[place-shrinethuravelhills|The Forgotten Shrine]]—the great pre-Aurèldían sanctuary of the
+- [[place-shrinethuravelhills|The Forgotten Shrine]]—the great pre-Aureldían sanctuary of the
   hills, lost to official history and remembered in song. See
-  [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Thúravel Hills]].
+  [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Túravel Hills]].
 
 ## See Also
 
-- [[place-provenzrgn|Provènzia Region]] · [[affiliation-firstgods|The First Gods]]
+- [[place-provenzrgn|Provenzia Region]] · [[affiliation-firstgods|The First Gods]]

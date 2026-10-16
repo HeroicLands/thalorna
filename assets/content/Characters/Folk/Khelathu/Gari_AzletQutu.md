@@ -1,9 +1,9 @@
 ---
 shortcode: gariazletqut
-name: {full: Gari Azlet'Qûtu, aliases: [Lord Commander Gari]}
+name: {full: Gari Azlet'Kutu, aliases: [Lord Commander Gari]}
 type: being
 subType: npc
-description: The military's chief weapons officer, who commissions custom arms for elite guard units, named in Raiaqu Uzner'Âu.
+description: The military's chief weapons officer, who commissions custom arms for elite guard units, named in Raiaku Uzner'Au.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Gari Azlet'Qûtu is a 54-year-old man who stands 5'8" tall with a medium build. He has golden skin, weathered complexion, dark brown hair, and brown eyes.
+Gari Azlet'Kutu is a 54-year-old man who stands 5'8" tall with a medium build. He has golden skin, weathered complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Gari Azlet'Qûtu is a lord commander and the military's chief weapons officer, who commissions custom arms for elite guard units and prestigious officer candidates. He trusts [[being-raiaquuznera|Raiaqu Uzner'Âu]] implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
+Gari Azlet'Kutu is a lord commander and the military's chief weapons officer, who commissions custom arms for elite guard units and prestigious officer candidates. He trusts [[being-raiaquuznera|Raiaku Uzner'Au]] implicitly and often vouches for the smith's uncompromising standards to impatient nobles.

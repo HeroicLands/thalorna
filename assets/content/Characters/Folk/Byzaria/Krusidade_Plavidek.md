@@ -1,9 +1,9 @@
 ---
 shortcode: krusidadepla
-name: {full: Krusidâde Plavídek, aliases: [Captain Krusidâde Plavídek]}
+name: {full: Krusidade Plavidek, aliases: [Captain Krusidade Plavidek]}
 type: being
 subType: npc
-description: Captain of the Harbor Guard, a gruff military officer who has relied on Stemios Hodíkot for word of smuggling.
+description: Captain of the Harbor Guard, a gruff military officer who has relied on Stemios Hodikot for word of smuggling.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Krusidâde Plavídek is a 49-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, weathered complexion, dark brown hair, and green eyes.
+Krusidade Plavidek is a 49-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, weathered complexion, dark brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Krusidâde Plavídek is the captain of the Harbor Guard, a gruff military officer. She has relied on [[being-ftnshdkt|Stemios Hodíkot]] for word of smuggling.
+Krusidade Plavidek is the captain of the Harbor Guard, a gruff military officer. She has relied on [[being-ftnshdkt|Stemios Hodikot]] for word of smuggling.

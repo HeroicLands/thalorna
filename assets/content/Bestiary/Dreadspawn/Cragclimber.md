@@ -251,7 +251,7 @@ You are halfway down the cliff on the rope, with the sea working at the rocks be
 
 # Dossier {#dossier}
 
-The Cragclimber is a dreadspawn shaped like a lean, long-tailed drake, about six feet long and two hundred pounds, made to hunt on vertical rock. It clings motionless to a cliff face, colored and textured like the stone, and strikes whatever passes within reach, then lets the cliff do the rest. It can harden its scales to stone. The cliff coast of [[place-zuravlenrgn|Zuravlèn]], Provènzia's western seaboard on the cold ocean, has had cragclimbers on it for as long as its egg-gatherers have gone down on ropes, and the coast reckons them among the costs of its hard living. Like every dreadspawn it was made and it cannot breed; more than one of the pattern hunts that coast, and each is known by the stretch of cliff it holds.
+The Cragclimber is a dreadspawn shaped like a lean, long-tailed drake, about six feet long and two hundred pounds, made to hunt on vertical rock. It clings motionless to a cliff face, colored and textured like the stone, and strikes whatever passes within reach, then lets the cliff do the rest. It can harden its scales to stone. The cliff coast of [[place-zuravlenrgn|Zuravlen]], Provenzia's western seaboard on the cold ocean, has had cragclimbers on it for as long as its egg-gatherers have gone down on ropes, and the coast reckons them among the costs of its hard living. Like every dreadspawn it was made and it cannot breed; more than one of the pattern hunts that coast, and each is known by the stretch of cliff it holds.
 
 ## Presentation
 
@@ -259,7 +259,7 @@ The cragclimber is long, lean and sinewy, built for flexibility, with four stron
 
 ## In the Land
 
-Zuravlèn's coast is long and cliff-bound, with few harbors and the cold ocean working at its foot, and its cliffs are full of seabirds. The cragclimbers hunt the bird ledges: each one holds a few miles of cliff face, lies on it among the nesting birds, and takes gulls, auks, eggs, seals hauled out on the rocks below, and anything else that comes along the rock. They are found too on the sea-cliffs of the river gorges behind the coast and in the high rocky country inland, wherever there is steep stone. They do not go out onto level ground or into the farmed valleys, and they are never met in the settlements.
+Zuravlen's coast is long and cliff-bound, with few harbors and the cold ocean working at its foot, and its cliffs are full of seabirds. The cragclimbers hunt the bird ledges: each one holds a few miles of cliff face, lies on it among the nesting birds, and takes gulls, auks, eggs, seals hauled out on the rocks below, and anything else that comes along the rock. They are found too on the sea-cliffs of the river gorges behind the coast and in the high rocky country inland, wherever there is steep stone. They do not go out onto level ground or into the farmed valleys, and they are never met in the settlements.
 
 ## Key Behaviors
 
@@ -267,7 +267,7 @@ A cragclimber spends most of its life motionless, pressed against the rock, wait
 
 ## What the Egg-Gatherers Do
 
-The egg-gatherers of the Zuravlèn coast go down the cliffs on ropes every spring for the seabird eggs, which are a large part of the coast's food in a lean season, and every village has its stretch of cliff and its rules for it. Nobody goes down alone: a man on the rope has a partner on the clifftop holding a second rope, and a third man with a sling and a bag of stones watching the face. A stretch where a cragclimber hunts is worked only at midday, when the light is high and the creature is easiest to see, and the gatherer goes down carrying a short iron hook to beat off the tail. The salt-workers say a cragclimber hates water; a gatherer who sees one on his ledge throws a bucket of seawater over it before he throws anything else. A dead cragclimber's hide, hardened, makes a buckler that turns an arrow.
+The egg-gatherers of the Zuravlen coast go down the cliffs on ropes every spring for the seabird eggs, which are a large part of the coast's food in a lean season, and every village has its stretch of cliff and its rules for it. Nobody goes down alone: a man on the rope has a partner on the clifftop holding a second rope, and a third man with a sling and a bag of stones watching the face. A stretch where a cragclimber hunts is worked only at midday, when the light is high and the creature is easiest to see, and the gatherer goes down carrying a short iron hook to beat off the tail. The salt-workers say a cragclimber hates water; a gatherer who sees one on his ledge throws a bucket of seawater over it before he throws anything else. A dead cragclimber's hide, hardened, makes a buckler that turns an arrow.
 
 ## Signs
 

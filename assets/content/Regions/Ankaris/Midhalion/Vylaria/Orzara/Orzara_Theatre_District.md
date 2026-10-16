@@ -3,12 +3,12 @@ shortcode: magntheatredstr
 name: {full: Theatre District, aliases: []}
 type: place
 subType: site
-description: "The theater quarter of Ôrzâra—semicircular theaters and odeons staging tragedy, comedy, recitation and music, home of the masked Vylarian stage and its celebrated machinery."
+description: "The theater quarter of Orzara—semicircular theaters and odeons staging tragedy, comedy, recitation and music, home of the masked Vylarian stage and its celebrated machinery."
 tags: [site, district, orzara, vylaria]
 data: {demonym: null, lore: [], parents: [orzara], population: null, packFolder: vylaria}
 ---
 
-The **Theatre District** is the quieter of [[place-orzara|Ôrzâra]]'s two quarters of pleasure, the Racecourse quarter about the **Racecourse Circle** being the loud one, and by some distance the more celebrated abroad. A pedicab runner who works the avenues from the **Grand Market** to the Circles knows its habits better than the ticket-sellers do: "Nobody hires me to the Theatre District before noon, and I do not take anyone out of it before midnight. The place keeps its own clock, and you will keep it too."
+The **Theatre District** is the quieter of [[place-orzara|Orzara]]'s two quarters of pleasure, the Racecourse quarter about the **Racecourse Circle** being the loud one, and by some distance the more celebrated abroad. A pedicab runner who works the avenues from the **Grand Market** to the Circles knows its habits better than the ticket-sellers do: "Nobody hires me to the Theatre District before noon, and I do not take anyone out of it before midnight. The place keeps its own clock, and you will keep it too."
 
 Its great **semicircular theaters and odeons** stage tragedies, comedies, recitations and music throughout the season. The Vylarian stage is famous across the world for its masked players and for stage-machinery elaborate enough that visitors regularly assume magic and are regularly wrong.
 
@@ -26,5 +26,5 @@ Its population is correspondingly mixed: players, who occupy an ambiguous social
 
 ## See Also
 
-- [[place-orzara|Ôrzâra]]—the city
-- [[place-rathaunamelvar|Râthaunâ Mêlvar]]—the loud quarter of pleasure
+- [[place-orzara|Orzara]]—the city
+- [[place-rathaunamelvar|Rathauna Melvar]]—the loud quarter of pleasure

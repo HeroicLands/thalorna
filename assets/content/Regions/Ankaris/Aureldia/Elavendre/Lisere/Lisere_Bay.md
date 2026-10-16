@@ -1,6 +1,6 @@
 ---
 shortcode: liserebay
-name: {full: Líserë Bay, aliases: []}
+name: {full: Lísere Bay, aliases: []}
 type: place
 subType: feature
 description: "The great backward-C gulf on Élavendre's northern coast—fifty miles across, thirty at the narrows, and the water every raid on the north shore comes over."
@@ -8,12 +8,12 @@ tags: [coastal, border]
 data: {demonym: null, lore: [], parents: [lisere], population: null, packFolder: elavendre}
 ---
 
-**Líserë Bay** bites deep into the northern coast of Ankaris between [[place-elavendre|Élavendre]] and
-[[place-vrystwald|Vrystwald]], enclosed by two long arms of land that curve toward one another like a
+**Lísere Bay** bites deep into the northern coast of Ankaris between [[place-elavendre|Élavendre]] and
+[[place-vrystwald|Vristwald]], enclosed by two long arms of land that curve toward one another like a
 **backward C**. It is roughly fifty miles across and fifty deep; at the narrows, where the two horns
-come nearest, northern Élavendre and southern Vrystwald are only about **thirty miles apart**.
+come nearest, northern Élavendre and southern Vristwald are only about **thirty miles apart**.
 
-[[affiliation-calypsa|Calypsa]] lies outside the mouth, some seventy-five miles off the Élavendren
+[[affiliation-calypsa|Kalipsa]] lies outside the mouth, some seventy-five miles off the Élavendren
 shore to the north, and commands the approaches to the whole bay.
 
 ## What the Shape Means
@@ -25,7 +25,7 @@ Thirty miles of enclosed water is not a barrier. It is a night's rowing in a sha
 that the enclosing arms keep far calmer than the open ocean outside, and it can be crossed in weather
 that would stop a proper ship. Varokh war-parties and [[lore-grukarfolk|Grukar]] bands have been
 coming over it for as long as there has been anyone on the southern shore to come for, and the northern
-levy of [[place-lisere|Líserë]] exists for no other reason.
+levy of [[place-lisere|Lísere]] exists for no other reason.
 
 Trade crosses it too, in the same boats and often in the same season, which is a fact the crown at
 [[place-beravel|Péravel]] finds easier to deplore than to prevent.
@@ -39,4 +39,4 @@ long and unfriendly, and it is not chiefly about the Varokh.
 
 ## See Also
 
-- [[place-lisere|Líserë]] · [[place-vrystwald|Vrystwald]] · [[affiliation-calypsa|Calypsa]]
+- [[place-lisere|Lísere]] · [[place-vrystwald|Vristwald]] · [[affiliation-calypsa|Kalipsa]]

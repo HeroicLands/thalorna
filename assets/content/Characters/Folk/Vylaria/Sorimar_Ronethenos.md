@@ -1,9 +1,9 @@
 ---
 shortcode: sorimarronet
-name: {full: Sôrimar Rônêthênôs, aliases: [Guild Master Sôrimar Rônêthênôs]}
+name: {full: Sorimar Ronethen, aliases: [Guild Master Sorimar Ronethen]}
 type: being
 subType: npc
-description: The head of the Woodworkers' Guild, who has kept Bránakis Kâserânis's membership despite pressure from younger members.
+description: The head of the Woodworkers' Guild, who has kept Bránakis Kaseranis's membership despite pressure from younger members.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Sôrimar Rônêthênôs is a 55-year-old woman who stands 5'8" tall with a heavy build. She has medium skin, sun-kissed complexion, brown hair, and brown eyes.
+Sorimar Ronethen is a 55-year-old woman who stands 5'8" tall with a heavy build. She has medium skin, sun-kissed complexion, brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Sôrimar Rônêthênôs is the head of the Woodworkers' Guild. Sôrimar has kept [[being-brnksksrns|Bránakis Kâserânis]]'s membership in the guild despite pressure from younger, more pliable members.
+Sorimar Ronethen is the head of the Woodworkers' Guild. Sorimar has kept [[being-brnksksrns|Bránakis Kaseranis]]'s membership in the guild despite pressure from younger, more pliable members.

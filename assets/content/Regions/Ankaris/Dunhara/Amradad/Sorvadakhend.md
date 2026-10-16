@@ -3,7 +3,7 @@ shortcode: sorvadakhend
 name: {full: Sorvadakhend, aliases: []}
 type: place
 subType: settlement
-description: "A significant rural settlement of Amradad whose Village Elders keep the astrologer Fakhrad Tamârân on retainer for seasonal and long-term counsel."
+description: "A significant rural settlement of Amradad whose Village Elders keep the astrologer Fakhrad Tamaran on retainer for seasonal and long-term counsel."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [amradadrgn], government: kngdmmrdd, packFolder: amradad}
 ---
@@ -14,9 +14,9 @@ Sorvadakhend is a significant rural settlement of [[place-amradadrgn|Amradad]], 
 
 ## The Astrologer on Retainer
 
-For that the elders keep [[being-fakhrdtmrn|Fakhrad Tamârân]], an astrologer of [[place-shebarakhend|Shêbarakhend]], on retainer as their adviser on seasonal matters and on the settlement's longer-term planning. A newcomer who wants the elders' agreement to anything that touches the land learns quickly that the question will also be put to Fakhrad.
+For that the elders keep [[being-fakhrdtmrn|Fakhrad Tamaran]], an astrologer of [[place-shebarakhend|Shebarakhend]], on retainer as their adviser on seasonal matters and on the settlement's longer-term planning. A newcomer who wants the elders' agreement to anything that touches the land learns quickly that the question will also be put to Fakhrad.
 
 ## See Also
 
-- [[being-fakhrdtmrn|Fakhrad Tamârân]]—the elders' astrologer
+- [[being-fakhrdtmrn|Fakhrad Tamaran]]—the elders' astrologer
 - [[place-amradadrgn|Amradad]]—the region the settlement belongs to

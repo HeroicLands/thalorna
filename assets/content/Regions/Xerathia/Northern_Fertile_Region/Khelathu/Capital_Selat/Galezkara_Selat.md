@@ -7,7 +7,7 @@ description: "The vast central country surrounding the imperial city of Galezkar
 tags: [region]
 data:
   banner: khelathubnr
-  demonym: Khelâthi
+  demonym: Khelathi
   lore: [humanflk]
   parents: [aukhelathrgq]
   population: 2500000
@@ -19,7 +19,7 @@ data:
 
 "Count the barges on the grain quay and then count the mouths," a granary clerk tells a new tally-boy at the [[place-galezkara|Galezkara]] docks. "There are two and a half million of them in this selat, and the barges have to keep up."
 
-**Galezkara Selat** is the land of the [[affiliation-capitalselat|Capital Selat]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It holds the palace and the throne, the central bureaucracy, the greatest temples of the [[affiliation-khelathpnthn|Khelâthi Pantheon]], the [[affiliation-genzetpalu|Genzet'Palu]] council, and, across the river on the western bank, the royal necropolis where the houses that have ruled from Galezkara since the Crossing lie buried ([[lore-crossmound|the Crossing to the Mound]], 1006 ST, 1105 BF). With some two and a half million people it is the most populous selat in the empire, and the densest concentration of power, wealth and people in [[place-xerathia|Xerathia]].
+**Galezkara Selat** is the land of the [[affiliation-capitalselat|Capital Selat]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It holds the palace and the throne, the central bureaucracy, the greatest temples of the [[affiliation-khelathpnthn|Khelathi Pantheon]], the [[affiliation-genzetpalu|Genzet'Palu]] council, and, across the river on the western bank, the royal necropolis where the houses that have ruled from Galezkara since the Crossing lie buried ([[lore-crossmound|the Crossing to the Mound]], 1006 ST, 1105 BF). With some two and a half million people it is the most populous selat in the empire, and the densest concentration of power, wealth and people in [[place-xerathia|Zerathia]].
 
 ## Character
 
@@ -33,8 +33,8 @@ The great temple-complexes are economic enterprises in their own right, owning f
 
 ## Notable Features
 
-- The imperial palace and the throne of the [[lore-garauu|Gar-Aû]], at the heart of [[place-galezkara|Galezkara]]
-- The great temples—the cult of [[lore-uqaadty|Uqa'â]] that defines official doctrine chief among them
+- The imperial palace and the throne of the [[lore-garauu|Gar-Au]], at the heart of [[place-galezkara|Galezkara]]
+- The great temples—the cult of [[lore-uqaadty|Uqa'a]] that defines official doctrine chief among them
 - The royal necropolis on the western bank—pyramids and rock-cut tombs of eighteen centuries of dynasties, from the Crossing to the Mound onward
 
 ## Settlements
@@ -43,8 +43,8 @@ The selat's settlement pattern is a single great metropolis ringed by temple-tow
 
 The metropolis:
 
-- [[place-galezkara|Galezkara]] (~450,000)—the imperial city and seat of the Gar-Aû, by far the largest city in the empire: palace, great temples, bureaus, and the polyglot crowd of a capital that draws in the whole realm.
-- [[place-yathtelgu|Yath-Telgu]] (~4,000)—the sacred island in the river at its center, with the **Great Temple of Uqa'â** and the palace.
+- [[place-galezkara|Galezkara]] (~450,000)—the imperial city and seat of the Gar-Au, by far the largest city in the empire: palace, great temples, bureaus, and the polyglot crowd of a capital that draws in the whole realm.
+- [[place-yathtelgu|Yath-Telgu]] (~4,000)—the sacred island in the river at its center, with the **Great Temple of Uqa'a** and the palace.
 
 The bank of the dead and the temple-towns:
 
@@ -57,5 +57,5 @@ The hinterland villages: the dense farm-and-market country around the capital ho
 ## See Also
 
 - [[affiliation-capitalselat|The Capital Selat]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
 - [[place-galezkara|Galezkara]]—Selat capital

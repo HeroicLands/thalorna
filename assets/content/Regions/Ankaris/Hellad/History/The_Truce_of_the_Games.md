@@ -18,7 +18,7 @@ data:
         - place-gamessanct
         - affiliation-ordoarcanis
       summary: >-
-        At the Games after the War of the Harbors, a graduate of the Academy of the Silver Veil, Sôthamîra Thelkhîdês, brokers among the cities' heralds the terms by which Helionite cities have fought since: war only in the season between the Games, no city to field a mage, the herald's crossing guaranteed, the dead always returned, and no city sacked. The Thôrdimâlon welcomes the second clause and has enforced it with some pleasure ever since.
+        At the Games after the War of the Harbors, a graduate of the Academy of the Silver Veil, Sothamira Thelkhides, brokers among the cities' heralds the terms by which Helionite cities have fought since: war only in the season between the Games, no city to field a mage, the herald's crossing guaranteed, the dead always returned, and no city sacked. The Thordimalon welcomes the second clause and has enforced it with some pleasure ever since.
       standing: attested
       names:
         - {name: the Herald's Terms, by: affiliation-ctysttshlns}
@@ -47,7 +47,7 @@ data:
       accounts:
         - by: affiliation-kalydria
           says: >-
-            The cities had a custom and no words for it. A Kalydrian wrote the words down, which is what Kalydria has always been for.
+            The cities had a custom and no words for it. A Kalidrian wrote the words down, which is what Kalidria has always been for.
           agrees: full
         - by: affiliation-ordoarcanis
           says: >-
@@ -62,7 +62,7 @@ A Helionite militiaman, asked what the rules of war are, recites five of them wi
 
 ## The Games After the War
 
-The meeting of the cities at the [[place-gamessanct|Sanctuary of the Games]] after [[lore-heladharbors|the War of the Harbors]] was the first at which cities that had fought one another that same year sat down in one sanctuary. The heralds met at the altar to swear the Games' own truce, and a graduate of the [[lore-heladsilverveil|Academy of the Silver Veil]], **Sôthamîra Thelkhîdês**, who had come as the companion of a Kalydrian herald, was asked by the heralds to say what the cities had in fact been doing for three summers.
+The meeting of the cities at the [[place-gamessanct|Sanctuary of the Games]] after [[lore-heladharbors|the War of the Harbors]] was the first at which cities that had fought one another that same year sat down in one sanctuary. The heralds met at the altar to swear the Games' own truce, and a graduate of the [[lore-heladsilverveil|Academy of the Silver Veil]], **Sothamira Thelkhides**, who had come as the companion of a Kalidrian herald, was asked by the heralds to say what the cities had in fact been doing for three summers.
 
 She told them. The cities had fought in the season when the fields were bare, had sent their heralds across after each battle, had given up the dead and had not burned one another's walls. She proposed that they write down what they had done and keep to it.
 
@@ -76,14 +76,14 @@ She told them. The cities had fought in the season when the fields were bare, ha
 
 ## The Arcane Order
 
-The [[affiliation-ordoarcanis|Thôrdimâlon]] has no seat in the Games and no part in the Terms. It welcomes the second clause and enforces it with some pleasure, and it treats a Helionite city's breach of it as a matter for its own courts.
+The [[affiliation-ordoarcanis|Thordimalon]] has no seat in the Games and no part in the Terms. It welcomes the second clause and enforces it with some pleasure, and it treats a Helionite city's breach of it as a matter for its own courts.
 
 ## What the Truce Left
 
 - **The ritualized warfare** of the [[affiliation-ctysttshlns|city-states]], small, seasonal and fought by militias who expect to go home.
 - **A season for war** and a season against it, kept by every city.
 - **The Silver Veil's reputation** as the region's broker, which the Academy has kept since a graduate spoke at the altar.
-- **The Arcane Order's one liking** among the laws of Heliónis.
+- **The Arcane Order's one liking** among the laws of Helionis.
 
 ## See Also
 

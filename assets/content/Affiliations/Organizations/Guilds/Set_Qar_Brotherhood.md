@@ -48,7 +48,7 @@ data:
       Keeper of the Locations: >-
         The brotherhood's real secret is not how the tombs are cut but where they are. The men of Zel-Qar know better than anyone where the dead and their treasures lie, which is what makes the village at once the most trusted and the most watched community in the selat.
       Master Draughtsman: >-
-        Sets out the work the cutters and painters follow. Khelâthi art is held to be a magical act rather than a depiction—a properly executed tomb painting is the afterlife, made real through correct form—so the draftsman's fidelity to the established form is a religious duty, not a matter of taste.
+        Sets out the work the cutters and painters follow. Khelathi art is held to be a magical act rather than a depiction—a properly executed tomb painting is the afterlife, made real through correct form—so the draftsman's fidelity to the established form is a religious duty, not a matter of taste.
       Warden of the Shrines: >-
         Keeps the village's own shrines, which it maintains apart from the great temples it works for.
   seat: zelqar
@@ -70,9 +70,9 @@ A master of the village would sit a boy of the walls down at the end of his firs
 
 The brotherhood guards two secrets together: how a tomb is made and where it is. The tombs are meant never to be opened again, and the men of Zel-Qar know better than anyone where the dead and their treasures lie. That knowledge makes the village the most trusted community in the selat and also the most watched. A bribed craftsman is the tomb-robbers' surest master-key (see [[place-khelautithnt|Khelaut-Ithnet]]).
 
-Behind the walls the village governs itself. Its headmen keep its own little courts and speak for the brotherhood to the mortuary priesthoods and the Halzi'a. A **Warden of the Shrines** keeps the village's shrines apart from the great temples it works for, and the brotherhood stays aligned with the faiths of [[affiliation-psaqaru|Psaq'âru]], [[affiliation-wethur|Weth'ûr]] and [[affiliation-hezmuiri|Hezmu'îri]]. A **Keeper of the Locations** holds the brotherhood's real secret.
+Behind the walls the village governs itself. Its headmen keep its own little courts and speak for the brotherhood to the mortuary priesthoods and the Halzi'a. A **Warden of the Shrines** keeps the village's shrines apart from the great temples it works for, and the brotherhood stays aligned with the faiths of [[affiliation-psaqaru|Saq'aru]], [[affiliation-wethur|Weth'ur]] and [[affiliation-hezmuiri|Hezmu'iri]]. A **Keeper of the Locations** holds the brotherhood's real secret.
 
-The Master Draughtsman sets out the work that the cutters and painters follow, and the draughtsman's rule is fidelity. [[lore-khelathiclt|Khelâthi]] art is held to be a magical act and not a depiction: a properly executed tomb painting is the afterlife, made real through correct form. Departing from the established form is a religious fault, not a matter of taste.
+The Master Draughtsman sets out the work that the cutters and painters follow, and the draughtsman's rule is fidelity. [[lore-khelathiclt|Khelathi]] art is held to be a magical act and not a depiction: a properly executed tomb painting is the afterlife, made real through correct form. Departing from the established form is a religious fault, not a matter of taste.
 
 A man who is cast out loses the village and the trade together, since the trade is the village. He still knows where the tombs are and no longer answers to the brotherhood, and he is watched for the rest of his life.
 

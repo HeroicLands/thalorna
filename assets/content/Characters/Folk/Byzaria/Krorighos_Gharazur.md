@@ -1,15 +1,15 @@
 ---
 shortcode: krorighosgha
-name: {full: Krorighos Gharazûr, aliases: [Lord Archon Krorighos Gharazûr]}
+name: {full: Krorighos Gharazur, aliases: [Lord Arsir Krorighos Gharazur]}
 type: being
 subType: npc
-description: A wealthy collector and patron of the arts who has commissioned several major pieces, named in Kalída Kourkásios.
+description: A wealthy collector and patron of the arts who has commissioned several major pieces, named in Kalida Kourkásios.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Archon
+  occupation: Arsir
   lore: []
   culture: byzarianclt
   homes: []
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Krorighos Gharazûr is a 56-year-old man who stands 6'0" tall with a heavy build. He has olive skin, weathered complexion, dark brown hair, and green eyes.
+Krorighos Gharazur is a 56-year-old man who stands 6'0" tall with a heavy build. He has olive skin, weathered complexion, dark brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Krorighos Gharazûr is a wealthy collector and patron of the arts, styled Lord Archon. He has commissioned several major pieces from [[being-kalidkrkss|Kalída Kourkásios]].
+Krorighos Gharazur is a wealthy collector and patron of the arts, styled Lord Arsir. He has commissioned several major pieces from [[being-kalidkrkss|Kalida Kourkásios]].

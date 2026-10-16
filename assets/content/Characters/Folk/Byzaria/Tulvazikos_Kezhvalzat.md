@@ -1,9 +1,9 @@
 ---
 shortcode: tulvazikoske
-name: {full: Tûlvâzikos Kezhvâlzát, aliases: [Lord Tûlvâzikos Kezhvâlzát]}
+name: {full: Tulvazikos Kezhvalzát, aliases: [Lord Tulvazikos Kezhvalzát]}
 type: being
 subType: npc
-description: A wealthy merchant prince who collects unique fragrances as investments, named in Fodios Thymiákit.
+description: A wealthy merchant prince who collects unique fragrances as investments, named in Fodios Thimiakit.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Tûlvâzikos Kezhvâlzát is a 54-year-old man who stands 5'11" tall with a medium build. He has light skin, weathered complexion, black hair, and green eyes.
+Tulvazikos Kezhvalzát is a 54-year-old man who stands 5'11" tall with a medium build. He has light skin, weathered complexion, black hair, and green eyes.
 
 # Dossier {#dossier}
 
-Tûlvâzikos Kezhvâlzát is a wealthy merchant prince who collects unique fragrances as investments. The note on [[being-angldsthymkt|Fodios Thymiákit]] names him.
+Tulvazikos Kezhvalzát is a wealthy merchant prince who collects unique fragrances as investments. The note on [[being-angldsthymkt|Fodios Thimiakit]] names him.

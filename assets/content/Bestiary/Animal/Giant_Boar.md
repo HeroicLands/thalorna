@@ -258,7 +258,7 @@ The ground under the beech-mast is torn up in a swath as wide as a cart-track, a
 
 # Dossier {#dossier}
 
-The Giant Boar is the great wild pig of the northern forests, five feet at the shoulder and a thousand pounds, which roots the beech and oak woods of [[place-vrystwald|Vrystwald]] and holds several square miles of them against everything that walks in. It eats mast, roots, fungus, carrion and whatever small thing it turns up, and it kills the men who get in its way. The Varokh hunt it, fear it and keep it as a wesk: three of the forest's villages, [[place-eichengrnd|Eichengrund]] among them, take the boar as their totem spirit.
+The Giant Boar is the great wild pig of the northern forests, five feet at the shoulder and a thousand pounds, which roots the beech and oak woods of [[place-vrystwald|Vristwald]] and holds several square miles of them against everything that walks in. It eats mast, roots, fungus, carrion and whatever small thing it turns up, and it kills the men who get in its way. The Varokh hunt it, fear it and keep it as a wesk: three of the forest's villages, [[place-eichengrnd|Eichengrund]] among them, take the boar as their totem spirit.
 
 ## Presentation
 
@@ -266,7 +266,7 @@ A huge pig built forward: massive shoulders and neck sloping back to narrower hi
 
 ## In the Land
 
-Giant Boars live in the oak and beech of the central mixed-forest belt and south to the highland forests facing Vylaría, and they are thinner in the northern taiga where there is no mast. A boar's ground is marked by its rubbing-trees and its wallows and by the rooted ground itself, a swath torn through the leaf litter that another boar reads and respects. The Varokh villages of the forest clearings share their woods with one or two each, and the boar wesk villages count the one in their woods as a thing of theirs.
+Giant Boars live in the oak and beech of the central mixed-forest belt and south to the highland forests facing Vylaria, and they are thinner in the northern taiga where there is no mast. A boar's ground is marked by its rubbing-trees and its wallows and by the rooted ground itself, a swath torn through the leaf litter that another boar reads and respects. The Varokh villages of the forest clearings share their woods with one or two each, and the boar wesk villages count the one in their woods as a thing of theirs.
 
 ## Key Behaviors
 

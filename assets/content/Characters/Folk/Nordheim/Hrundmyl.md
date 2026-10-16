@@ -1,6 +1,6 @@
 ---
 shortcode: hrundmyl
-name: {full: Hrundmýl, aliases: [Elder Hrundmýl]}
+name: {full: Hrundmil, aliases: [Elder Hrundmil]}
 type: being
 subType: npc
 description: The elder and leader of the village Tvilgorv the Reforged saved.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hrundmýl is a 52-year-old man who stands 5'9" tall with a heavy build. He has pale skin, weathered complexion, red hair, and brown eyes.
+Hrundmil is a 52-year-old man who stands 5'9" tall with a heavy build. He has pale skin, weathered complexion, red hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Hrundmýl is the elder and leader of the village [[being-tvlgrvrfrgd|Tvilgorv the Reforged]] saved. He has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance, and provides shelter and supplies when needed.
+Hrundmil is the elder and leader of the village [[being-tvlgrvrfrgd|Tvilgorv the Reforged]] saved. He has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance, and provides shelter and supplies when needed.

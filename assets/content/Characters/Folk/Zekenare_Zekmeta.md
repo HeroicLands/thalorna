@@ -1,6 +1,6 @@
 ---
 shortcode: zekenarezkmt
-name: {full: Zekenare Zekmetâ, aliases: [Zekê]}
+name: {full: Zekenare Zekmeta, aliases: [Zeke]}
 type: being
 subType: npc
 description: "Father to a smith, of a house that has worked the forge for three generations and expects a fourth"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zekenare Zekmetâ is a 49-year-old man who stands 5'6" tall with a light build. He has dark brown skin, black hair, and brown eyes.
+Zekenare Zekmeta is a 49-year-old man who stands 5'6" tall with a light build. He has dark brown skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Zekenare Zekmetâ is father to a smith, home in [[place-galezkara|Galezkara]], from a house that has worked the forge for three generations already. A fourth generation is expected, not merely hoped for. The house treats that expectation as settled fact rather than as an open question.
+Zekenare Zekmeta is father to a smith, home in [[place-galezkara|Galezkara]], from a house that has worked the forge for three generations already. A fourth generation is expected, not merely hoped for. The house treats that expectation as settled fact rather than as an open question.

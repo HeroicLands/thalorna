@@ -3,7 +3,7 @@ shortcode: thrumufjall
 name: {full: Thrumufjall, aliases: []}
 type: place
 subType: feature
-description: "Thrúnvald’s sacred seamount on the Nordheim coast, shared by his hof and the Storm-Speakers’ mother-hall."
+description: "Thrunvald’s sacred seamount on the Nordheim coast, shared by his hov and the Storm-Speakers’ mother-hall."
 tags: [asguardian]
 data:
   demonym: null
@@ -14,17 +14,17 @@ data:
   culture: nordheimnclt
 ---
 
-"There is the Thunderer's house, and the Speakers keep the other half of it," a boatman on the Nordheim run tells the clerk beside him as the seamount comes up out of the haze. Thrumufjall is a sheer seamount on the [[place-nordheim|Nordheim]] coast, topped by an ancient temple of [[lore-thrunvalddty|Thrúnvald]] and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]]. Its summit is exposed to every storm that comes in off the water.
+"There is the Thunderer's house, and the Speakers keep the other half of it," a boatman on the Nordheim run tells the clerk beside him as the seamount comes up out of the haze. Thrumufjall is a sheer seamount on the [[place-nordheim|Nordheim]] coast, topped by an ancient temple of [[lore-thrunvalddty|Thrunvald]] and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]]. Its summit is exposed to every storm that comes in off the water.
 
 ## One Summit, Two Callings
 
-The summit serves the Storm-Speakers' weather-craft training and the receptive examination held during thunderstorms. The god's Hofgodi keeps the hof's rites and sea-blessings beside the order, whose craft answers to different vows. The hof and the mother-hall share the height and keep separate promises.
+The summit serves the Storm-Speakers' weather-craft training and the receptive examination held during thunderstorms. The god's Hofgudi keeps the hov's rites and sea-blessings beside the order, whose craft answers to different vows. The hov and the mother-hall share the height and keep separate promises.
 
-In the saga of [[being-skrldmylstrmbrn|Skrildmýl Stormborn]], the mountain is where Thrúnvald is said to have struck the earth with [[lore-thrunhamarr|Thrúnhamarr]]. The hero leads his people up it through winter storms, and the storms cease after his appeal at the summit.
+In the saga of [[being-skrldmylstrmbrn|Skrilmil Stormborn]], the mountain is where Thrunvald is said to have struck the earth with [[lore-thrunhamarr|Thrúnhamarr]]. The hero leads his people up it through winter storms, and the storms cease after his appeal at the summit.
 
 ## The Climb Through White Weather
 
-A coastal telling follows Skrildmýl's winter ascent and the clearing of the storm, then returns to the mountain's hof and mother-hall. The saga's answer to his appeal is remembered under the dangerous skies that still visit the summit.
+A coastal telling follows Skrilmil's winter ascent and the clearing of the storm, then returns to the mountain's hov and mother-hall. The saga's answer to his appeal is remembered under the dangerous skies that still visit the summit.
 
 : The Climb Through White Weather
 
@@ -35,7 +35,7 @@ Thrumufjall thrusts through white weather;
 thunder finds its naked summit.
 Stone shoulders the storm's weight;
 salt water pounds its footing.
-High holds the ancient hof;
+High holds the ancient hov;
 hard wind visits the mother-hall.
 Climb while the coast vanishes;
 keep your companions beside you.
@@ -51,7 +51,7 @@ hunger waits beyond the hearth.
 Has the Thunderer turned away?
 Has he forgotten our faces?
 
-Skrildmýl stands among his people;
+Skrilmil stands among his people;
 sorrow weighs their searching eyes.
 He hears the hearthside asking;
 he hears it without words.
@@ -106,7 +106,7 @@ wind takes them before hearing.
 Climb while the sky vanishes;
 keep your companions beside you.
 
-Skrildmýl's name steadies the line;
+Skrilmil's name steadies the line;
 someone sends it back whispering.
 Hard is the hero's going;
 he has no sheltered breathing.
@@ -136,12 +136,12 @@ Their weariness wins the summit;
 words cannot carry them there.
 The last steps scrape stone;
 legs tremble beneath the standing.
-Skrildmýl turns toward the thunder;
+Skrilmil turns toward the thunder;
 silent people gather behind him.
 
 Raw is the throat calling;
 rain runs over his lips.
-Thrúnvald, hear your people here;
+Thrunvald, hear your people here;
 Thrúnhamarr, remember the earth's striking.
 His breath breaks upon cold;
 behind him their breath gathers.
@@ -165,7 +165,7 @@ Hammers need no further striking;
 here the great name suffices.
 Light lies upon the mountain;
 laughter wakes among its climbers.
-Skrildmýl stands with his people;
+Skrilmil stands with his people;
 strong was their joined walking.
 They brought the village upward;
 bright weather meets its longing.
@@ -174,10 +174,10 @@ come home with faces remembered.
 
 Years yield to other winters;
 yet the stone stands seaward.
-The ancient hof holds rites;
+The ancient hov holds rites;
 harbor ships receive its blessing.
-The Hofgodi keeps the offering;
-his words rise toward Thrúnvald.
+The Hofgudi keeps the offering;
+his words rise toward Thrunvald.
 Near stands the Speakers' mother-hall;
 new hands learn its weather-craft.
 Storm visits the shared summit;
@@ -213,7 +213,7 @@ Below waits the harbor's mouth;
 boats pull against their ropes.
 A sailor studies the spray;
 sea throws salt against him.
-Skrildmýl's sky shines in remembrance;
+Skrilmil's sky shines in remembrance;
 still the dark weather threatens.
 
 Thrumufjall takes the returning rain;
@@ -221,7 +221,7 @@ thunder shakes its high silence.
 Salt whitens the sea-washed stone;
 squalls shorten the coast's horizon.
 The hall holds to craft;
-the hof holds to rites.
+the hov holds to rites.
 Below them the roofs need mending;
 below them the ropes need testing.
 Sacred stands the storm's mountain;
@@ -253,6 +253,6 @@ carry the hands reaching backward.
 ## See Also
 
 - [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]]—the order whose mother-hall stands on the summit
-- [[lore-thrunvalddty|Thrúnvald]]—the god whose hof crowns it
+- [[lore-thrunvalddty|Thrunvald]]—the god whose hov crowns it
 - [[lore-thrunhamarr|Thrúnhamarr]]—the hammer that struck the mountain
 - [[place-nordheim|Nordheim]]—the coast it stands on

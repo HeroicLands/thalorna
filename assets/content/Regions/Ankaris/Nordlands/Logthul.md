@@ -1,6 +1,6 @@
 ---
 shortcode: logthul
-name: {full: Lögthul, aliases: []}
+name: {full: Logthul, aliases: []}
 type: place
 subType: settlement
 description: "A Nordlands town whose Court of Justice is the oldest seat of law in the northern territories, where Knalthann Lawgiver earned his name."
@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 ---
 
-A suitor at the Court of Justice brings a witness and brings patience, because Lögthul takes the cases the district tings cannot. The town is built around its court. The **Court of Justice at Lögthul** is the oldest seat of law in the northern territories, and it is the court the north reaches for when a case is too great for a district ting.
+A suitor at the Court of Justice brings a witness and brings patience, because Logthul takes the cases the district tings cannot. The town is built around its court. The **Court of Justice at Logthul** is the oldest seat of law in the northern territories, and it is the court the north reaches for when a case is too great for a district ting.
 
 ## The Great Trial
 
@@ -20,7 +20,7 @@ The Court grants standing to judges who ride far beyond the town, and it traces 
 
 ## The Name
 
-The name is a plain statement of what the town is for: _lög-_ is the law as it is recited, and _-thul_ is a seat where the law is recited.
+The name is a plain statement of what the town is for: _log-_ is the law as it is recited, and _-thul_ is a seat where the law is recited.
 
 ## See Also
 

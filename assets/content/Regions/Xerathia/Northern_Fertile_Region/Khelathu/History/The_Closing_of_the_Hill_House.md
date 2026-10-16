@@ -3,7 +3,7 @@ shortcode: hillhouse
 name: {full: The Closing of the Hill House, aliases: []}
 type: lore
 subType: history
-description: "In 1671 ST (440 BF) the fourth Tha'Ulgau Gar-Aû dies and the priesthood closes the hill-nomads' house, raises Azlet'Râlu under a name from the First Tablets, and settles the conquerors' kin on the western horse-pastures, where they become a Halzi'a house."
+description: "In 1671 ST (440 BF) the fourth Tha'Ulgau Gar-Au dies and the priesthood closes the hill-nomads' house, raises Azlet'Ralu under a name from the First Tablets, and settles the conquerors' kin on the western horse-pastures, where they become a Halzi'a house."
 tags: [history, khelathu]
 data:
   culture: khelathiclt
@@ -20,7 +20,7 @@ data:
         - affiliation-selatzuqeztu
         - affiliation-uqaa
       summary: >-
-        Legir'Uzner I, the fourth and last Gar-Aû of the Tha'Ulgau, dies in 1671 ST, and the priesthood closes the hill-nomads' house. It raises Azlet'Râlu, whose first Gar-Aû takes the throne name Gez'el'Retha III, the first use of that name in nearly seven centuries and a deliberate reach back to the First Tablets. The conquerors' kin are given the western horse-pastures and become a Halzi'a house, and the small chariot horses bred on the pastures of Lenen-Nezut and Zu-Qeztu date from their settling.
+        Legir'Uzner I, the fourth and last Gar-Au of the Tha'Ulgau, dies in 1671 ST, and the priesthood closes the hill-nomads' house. It raises Azlet'Ralu, whose first Gar-Au takes the throne name Gez'el'Retha III, the first use of that name in nearly seven centuries and a deliberate reach back to the First Tablets. The conquerors' kin are given the western horse-pastures and become a Halzi'a house, and the small chariot horses bred on the pastures of Lenen-Nezut and Zu-Qeztu date from their settling.
       standing: attested
       where:
         locus: [place-galezkara]
@@ -50,15 +50,15 @@ data:
           withholds: the barrows of the first Tha'Ulgau, and the offering the house still owes on the floodplain below Lenen-Nezut
         - by: affiliation-uqaa
           says: >-
-            The priesthood raised the next house as it has raised every house. The name of the first Gar-Aû was chosen to say that the crown is the old crown.
+            The priesthood raised the next house as it has raised every house. The name of the first Gar-Au was chosen to say that the crown is the old crown.
           agrees: full
           withholds: why the priesthood let the hill house close and did not strike it
       unresolved:
         - whether the settlement of the Tha'Ulgau kin was a grant, a bargain or a condition of the closing
-        - how the fourth Tha'Ulgau Gar-Aû died, which the list enters as a death in 1671 and nothing more
+        - how the fourth Tha'Ulgau Gar-Au died, which the list enters as a death in 1671 and nothing more
 ---
 
-A throne name is the first thing a reign says. In 1671 ST (440 BF) the priesthood crowned a Gar-Aû under **Gez'el'Retha III**, a name not worn since the First Tablets, and the choice said what the temples thought of the last sixty years.
+A throne name is the first thing a reign says. In 1671 ST (440 BF) the priesthood crowned a Gar-Au under **Gez'el'Retha III**, a name not worn since the First Tablets, and the choice said what the temples thought of the last sixty years.
 
 ## The Last of the Hill House
 
@@ -68,7 +68,7 @@ Nobody struck the house. It was not a house of the kind the list scrapes from th
 
 ## The House Raised
 
-The priesthood of [[lore-uqaadty|Uqa'â]] raised **Azlet'Râlu**, and its first Gar-Aû took the name Gez'el'Retha, the third to wear it. The first two belonged to the First House and to Azlet'Qûtu, and almost seven centuries had passed since the last. A name from the oldest depth of the list on a throne the nomads had held says that the crown is the old crown again, and that what happened between is a gap in the count and not a house in it.
+The priesthood of [[lore-uqaadty|Uqa'a]] raised **Azlet'Ralu**, and its first Gar-Au took the name Gez'el'Retha, the third to wear it. The first two belonged to the First House and to Azlet'Kutu, and almost seven centuries had passed since the last. A name from the oldest depth of the list on a throne the nomads had held says that the crown is the old crown again, and that what happened between is a gap in the count and not a house in it.
 
 ## The Kin
 
@@ -88,4 +88,4 @@ Their horses stayed with them. The small, sturdy animals of the chariot corps ar
 - [[lore-thaulgau|The Coming of the Tha'Ulgau]]—the conquest that raised the house
 - [[place-zileti|Zileti]] · [[place-zuqeztunome|Zu-Qeztu]]—where the kin were settled
 - [[place-zelhalzi|Zel-Halzi]] · [[place-horsebarrows|The Horse Barrows]]
-- [[lore-garauu|Gar-Aûu]]—the king-list
+- [[lore-garauu|Gar-Auu]]—the king-list

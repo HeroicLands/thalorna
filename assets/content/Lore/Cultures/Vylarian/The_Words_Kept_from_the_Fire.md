@@ -20,11 +20,11 @@ data:
 # terran_analog: "The Roman jurists as the Digest preserves them, in fragments excerpted from books that are otherwise lost; the regulae iuris collected at the end of the Digest; the medieval glossators who wrote their commentary in the margins and disagreed with one another there; and the Roman habit of arguing law from maxims."
 ---
 
-**The Words Kept from the Fire** are the rules of **Vârêlis Kôrvelândis**, a jurist of [[lore-vylarirpbl|the Republic]] whose books were in the imperial archive on Arvel when it burned ([[lore-archivefire|The Archive Fire]]). Not one of the books survived. What survives is what other people had copied out of them before the fire: rules quoted in pleadings, rules a teacher had set his pupils to learn, rules cut over the door of a court. The law schools gathered the quotations into one teaching book, the _Lâmbizâr_, "the words", and the book has been copied for the schools ever since with the masters' gloss beneath each rule, so that a student of law learns the rule and the quarrel about it on the same page.
+**The Words Kept from the Fire** are the rules of **Varelis Korvelis**, a jurist of [[lore-vylarirpbl|the Republic]] whose books were in the imperial archive on Arvel when it burned ([[lore-archivefire|The Archive Fire]]). Not one of the books survived. What survives is what other people had copied out of them before the fire: rules quoted in pleadings, rules a teacher had set his pupils to learn, rules cut over the door of a court. The law schools gathered the quotations into one teaching book, the _Lambizar_, "the words", and the book has been copied for the schools ever since with the masters' gloss beneath each rule, so that a student of law learns the rule and the quarrel about it on the same page.
 
-The book keeps the rules in the order of the old law-books, under heads, and it keeps the masters' quarrels where they fall. A rule quoted in two pleadings in two forms stands in both. A rule known only from a later writer who reported it in the reported-speech construction, with the subject in the accusative and the verb left in the infinitive, stands that way too, and the masters have argued for centuries whether a rule Vârêlis is only said to have said binds as one he said: the reported construction keeps the reporter at arm's length, and the student is taught to hear the distance. The rendering marks those rules "Vârêlis is reported to have held." The gloss is in many hands, and the book does not name them. A gloss that answers another begins "Another master."
+The book keeps the rules in the order of the old law-books, under heads, and it keeps the masters' quarrels where they fall. A rule quoted in two pleadings in two forms stands in both. A rule known only from a later writer who reported it in the reported-speech construction stands that way too, and the masters have argued for centuries whether a rule Varelis is only said to have said binds as one he said: the reported construction keeps the reporter at arm's length, and the student is taught to hear the distance. The rendering marks those rules "Varelis is reported to have held." The gloss is in many hands, and the book does not name them. A gloss that answers another begins "Another master."
 
-The house name of Vârêlis is built on _kôrvelâ_, a roll, and the schools hold that his house were keepers of the Senate's roll under the Republic. The record that would settle it was in the archive.
+The house name of Varelis is built on _korvela_, a roll, and the schools hold that his house were keepers of the Senate's roll under the Republic. The record that would settle it was in the archive.
 
 ## Of the Roll
 
@@ -36,7 +36,7 @@ _Gloss._ The rule is the first in every copy, and the schools teach it first. A 
 
 _Gloss._ One keeper, so that the roll cannot be written by two men who disagree. Every reader, so that the keeper cannot write what no one sees.
 
-_Another master._ The rule is the Republic's. Under the Ôrzândoi the roll is kept by the Guild and read by the Guild, and the second half of the rule is kept in the schools.
+_Another master._ The rule is the Republic's. Under the Orzoi the roll is kept by the Guild and read by the Guild, and the second half of the rule is kept in the schools.
 
 **3. Strike nothing. Write the correction below, and date it.**
 
@@ -62,7 +62,7 @@ _Another master._ The rule is quoted in one pleading only, by an advocate who wa
 
 **8. A thing seen by a slave is seen.**
 
-_Gloss._ A slave has no standing at law, and the rule does not give him any. It holds that what he saw happened, and that his owner answers for the telling of it. The masters do not agree whether Vârêlis wrote "is seen" or "is not seen"; the two copies differ by the one short word _ar_, "not," and the schools teach the first because the court of the Nâzdândoi follows it.
+_Gloss._ A slave has no standing at law, and the rule does not give him any. It holds that what he saw happened, and that his owner answers for the telling of it. The masters do not agree whether Varelis wrote "is seen" or "is not seen"; the two copies differ by the one short word _ar_, "not," and the schools teach the first because the court of the Nazdoi follows it.
 
 ## Of the Oath
 
@@ -72,7 +72,7 @@ _Gloss._ The god sees the oath, and the god does not lose his copy. Hence an oat
 
 **10. Swear little. Swear it whole.**
 
-**11. Vârêlis is reported to have held that an oath sworn under the eagle binds the eagle as well as the man.**
+**11. Varelis is reported to have held that an oath sworn under the eagle binds the eagle as well as the man.**
 
 _Gloss._ Reported, and so held at a distance. The schools of the army teach it as his, and teach that a legion which breaks the oath of its men to it has broken its own. The schools of the Senate teach that it is not his, because it is not anywhere in the pleadings, and because the legions have not kept it.
 
@@ -104,7 +104,7 @@ _Gloss._ The second clause is the one the students forget. The man nobody can pl
 
 **17. The outsider has preferences. The citizen has law.**
 
-_Gloss._ Quoted in every speech the Senate has heard against the north since the Republic. The schools teach that Vârêlis meant by it a burden and not a boast: a man who has law must use it when his preference would serve him better.
+_Gloss._ Quoted in every speech the Senate has heard against the north since the Republic. The schools teach that Varelis meant by it a burden and not a boast: a man who has law must use it when his preference would serve him better.
 
 ## Of the Dead and the Line
 
@@ -128,9 +128,9 @@ _Another master._ Brought by anyone, and heard by none, since the heir is the on
 
 _Gloss._ Given at birth; raised into the hallowed when a house is raised; lowered when a house is disgraced; struck by the unnaming. A man who lets another sign in his name has done none of the four, and the act is void and both are liable.
 
-**23. Vârêlis is reported to have held that a name struck from the roll is still owed its tomb.**
+**23. Varelis is reported to have held that a name struck from the roll is still owed its tomb.**
 
-_Gloss._ Reported. The unnaming forbids the name to be said, and the schools teach that Vârêlis meant the tomb is kept without the name, as the priests of the Silent Judge keep the unclaimed. The masters of the Senate's schools teach that the rule is not his, and that a struck name has no tomb because it has no person.
+_Gloss._ Reported. The unnaming forbids the name to be said, and the schools teach that Varelis meant the tomb is kept without the name, as the priests of the Silent Judge keep the unclaimed. The masters of the Senate's schools teach that the rule is not his, and that a struck name has no tomb because it has no person.
 
 _Another master._ Both schools agree that it is not in the pleadings. Both schools agree that it is in the book.
 

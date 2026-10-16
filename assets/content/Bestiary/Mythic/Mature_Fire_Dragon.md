@@ -357,7 +357,7 @@ The mesa stands alone above the salt flat, and the scouts said it was empty. It 
 
 # Dossier {#dossier}
 
-The Mature Fire Dragon is a fire dragon of three or four centuries: twenty-four feet from snout to rump, with a thirty-six-foot wingspan, in the full of its strength and its cunning, with its ground held and its hoard gathered, and with the patience to choose its prey. Its cruelty is deliberate. Like every dragon it is a mortal creature with a soul of vast scale, whose instinctive channeling floods the magic round it and makes a mage's spells come apart in his hands. It remembers every insult and every broken bargain, and it was hatched in the centuries after the Vylarian Republic betrayed the dragons who had won its war, and has heard from its elders, and from the dragon dead, what was done. One holds the mesas and badlands of [[place-chakultzklrgn|Ch'akul Tza'kul]], the Thirsty Land, the desert barrier between the tribal north of K'ich'chik and the southern civilizations.
+The Mature Fire Dragon is a fire dragon of three or four centuries: twenty-four feet from snout to rump, with a thirty-six-foot wingspan, in the full of its strength and its cunning, with its ground held and its hoard gathered, and with the patience to choose its prey. Its cruelty is deliberate. Like every dragon it is a mortal creature with a soul of vast scale, whose instinctive channeling floods the magic round it and makes a mage's spells come apart in his hands. It remembers every insult and every broken bargain, and it was hatched in the centuries after the Vylarian Republic betrayed the dragons who had won its war, and has heard from its elders, and from the dragon dead, what was done. One holds the mesas and badlands of [[place-chakultzklrgn|Ch'akul Tsa'kul]], the Thirsty Land, the desert barrier between the tribal north of K'ich'chik and the southern civilizations.
 
 ## Presentation
 
@@ -365,7 +365,7 @@ A mature fire dragon is massive and heavily muscled, its scales thick, overlappi
 
 ## In the Land
 
-Ch'akul Tza'kul is sand seas in the north, rocky plateaus, mesas and badlands in the center and west, and salt flats in the south where ancient seas dried away, with the ruins of an older, wetter age scattered through it. The dragon holds the central badlands, a great stretch of mesas and box canyons, with lairs in several of them and its hoard in the deepest, in a ruin from that older age. It hunts the desert's herds, and it takes what crosses its ground: the caravans that carry trade between the tribal north and the south, and the travelers who come prepared with water and the knowledge of hidden oases and still do not emerge. It holds its ground against every rival large enough to matter.
+Ch'akul Tsa'kul is sand seas in the north, rocky plateaus, mesas and badlands in the center and west, and salt flats in the south where ancient seas dried away, with the ruins of an older, wetter age scattered through it. The dragon holds the central badlands, a great stretch of mesas and box canyons, with lairs in several of them and its hoard in the deepest, in a ruin from that older age. It hunts the desert's herds, and it takes what crosses its ground: the caravans that carry trade between the tribal north and the south, and the travelers who come prepared with water and the knowledge of hidden oases and still do not emerge. It holds its ground against every rival large enough to matter.
 
 ## Key Behaviors
 
@@ -373,7 +373,7 @@ A mature fire dragon is a strategist. It studies its prey before it strikes, cho
 
 ## What the Peoples of the Border Do
 
-No nation claims Ch'akul Tza'kul. The tribal peoples to the north and the K'ich'chik to the south both cross it, by the routes they know, and both pay for crossing the dragon's badlands. The traders who carry northern goods south have learned to leave a tribute at the foot of a particular mesa, metal, worked stone, things that shine, and to cross only in the season when the dragon has fed. Itzáni priests at the southern edge read the dragon as a sign of something, and do not agree on what. Travelers who come to the badlands for the ruins of the older age, scholars and treasure-hunters both, are told by the guides which mesas not to climb, and the guides keep their fees whether or not the warning is taken. The survivors of a K'ich'chik war party sent to kill it came back at the end of a season with a message, which they would not repeat.
+No nation claims Ch'akul Tsa'kul. The tribal peoples to the north and the K'ich'chik to the south both cross it, by the routes they know, and both pay for crossing the dragon's badlands. The traders who carry northern goods south have learned to leave a tribute at the foot of a particular mesa, metal, worked stone, things that shine, and to cross only in the season when the dragon has fed. Itsani priests at the southern edge read the dragon as a sign of something, and do not agree on what. Travelers who come to the badlands for the ruins of the older age, scholars and treasure-hunters both, are told by the guides which mesas not to climb, and the guides keep their fees whether or not the warning is taken. The survivors of a K'ich'chik war party sent to kill it came back at the end of a season with a message, which they would not repeat.
 
 ## Signs
 

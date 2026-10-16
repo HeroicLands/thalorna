@@ -12,7 +12,7 @@ A free person with no clan has nobody to answer for them, so the law finds someo
 
 ## What This Standing Is
 
-A lidmadr is free but holds no clan to answer for him, and reaches the ting through a following instead of through kinship: a manumitted thrall still bound in obligation to his former master, a drengr without a hall to seat him, or a freeman of another people settled under Nordmal law. Each stands apart from the polity's clans and each is vouched for by someone other than a kinsman.
+A lidmadr is free but holds no clan to answer for him, and reaches the ting through a following instead of through kinship: a manumitted thrall still bound in obligation to his former master, a dreng without a hall to seat him, or a freeman of another people settled under Nordmal law. Each stands apart from the polity's clans and each is vouched for by someone other than a kinsman.
 
 ## How the Law Treats a Person Here
 

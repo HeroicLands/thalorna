@@ -1,6 +1,6 @@
 ---
 shortcode: arldnpnthn
-name: {full: Aurèldían Pantheon, aliases: [The Twelve]}
+name: {full: Aureldian Pantheon, aliases: [The Twelve]}
 type: affiliation
 subType: faithtradition
 description: "Western tradition honoring twelve deities governing creation, order, and the cycles of life; split by the Ústaran schism between sacred forge and black flame."
@@ -26,13 +26,13 @@ data:
         description: >-
           The lay faithful of any of the Twelve, keeping the feasts and observances without office.
     offices:
-      Sarnax: >-
+      Sarnaks: >-
         The apex of a single faith, whose authority does not extend beyond it. A faith names its own by setting the stem of its domain before the word, as in the Volsarnor of law and the Bravsarnor of storms.
       Senior College: >-
         The administrative or scholarly body some faiths seat between clergy and apex.
-      Sarnor: The ordained priest of a temple; a priestess is a sârkhenândâ.
+      Sarnor: The ordained priest of a temple; a priestess is a sarkenanda.
       Acolyte: An initiate in training, not yet ordained.
-      Ândâ: >-
+      Anda: >-
         The style used where a faith's apex is a woman who holds the office of an art—wisdom, life, death, flowers.
   seat: null
   population: null
@@ -46,24 +46,24 @@ sohl: {system: {commonSkills: []}}
 
 **Pronunciation:** _Aw-REL-dee-ahn_
 
-The Aurèldían pantheon is the dominant religious tradition of western [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across [[affiliation-vylarinmpr|Vylaria]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-helionis|Heliónis]], [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], and [[place-byzariargn|Byzaría Region]], with a secondary presence in the port cities of [[affiliation-kalihara|Kalihara]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence.
+The Aureldian pantheon is the dominant religious tradition of western [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across [[affiliation-vylarinmpr|Vylaria]], [[place-provenzrgn|Provenzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-helionis|Helionis]], [[affiliation-cnfdrtntrzlnstts|Taruzel]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], and [[place-byzariargn|Bizaria Region]], with a secondary presence in the port cities of [[affiliation-kalihara|Kalihara]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence.
 
 ## The Twelve
 
 | Domain     | Deity        | Epithet                     | Symbol                                             | Faith                                       |
 | ---------- | ------------ | --------------------------- | -------------------------------------------------- | ------------------------------------------- |
-| Dreams     | **Zûnêlâs**  | The Veiled Dreamer          | Crescent moon cradling a radiant star              | [[affiliation-zunelas\|Faith of Zûnêlâs]]   |
+| Dreams     | **Zunelas**  | The Veiled Dreamer          | Crescent moon cradling a radiant star              | [[affiliation-zunelas\|Faith of Zunelas]]   |
 | Death      | **Sélmoros** | The Silent Judge            | Black gate adorned with skeletal vines             | [[affiliation-selmoros\|Faith of Sélmoros]] |
-| Storms     | **Brâzêmâs** | The Thunderer               | Thunderbolt striking a spiral cloud                | [[affiliation-brazemas\|Faith of Brâzêmâs]] |
+| Storms     | **Brazemas** | The Thunderer               | Thunderbolt striking a spiral cloud                | [[affiliation-brazemas\|Faith of Brazemas]] |
 | Order      | **Árdavon**  | The Keeper of the Gates     | Dual-faced mask, one serene, one stern             | [[affiliation-ardavon\|Faith of Árdavon]]   |
-| Knowledge  | **Mârendâs** | Keeper of Sacred Wisdom     | Open book surrounded by glowing stars              | [[affiliation-marendas\|Faith of Mârendâs]] |
-| Prosperity | **Ólvenía**  | The Bountiful One           | Tree with golden fruits in a wreath                | [[affiliation-olvenia\|Faith of Ólvenía]]   |
+| Knowledge  | **Marendas** | Keeper of Sacred Wisdom     | Open book surrounded by glowing stars              | [[affiliation-marendas\|Faith of Marendas]] |
+| Prosperity | **Ólvenia**  | The Bountiful One           | Tree with golden fruits in a wreath                | [[affiliation-olvenia\|Faith of Ólvenia]]   |
 | Fire       | **Ústaron**  | The Forge-Lord              | Hammer over a flame-ringed anvil                   | _See below_                                 |
-| Creation   | **Lúsinía**  | The World-Weaver            | Spinning wheel encircled by vines                  | [[affiliation-lusinia\|Faith of Lúsinía]]   |
+| Creation   | **Lusinia**  | The World-Weaver            | Spinning wheel encircled by vines                  | [[affiliation-lusinia\|Faith of Lusinia]]   |
 | Chaos      | **Karnavos** | The Wild Beast              | Antlers framing a swirling spiral                  | [[affiliation-karnavos\|Faith of Karnavos]] |
-| Voyages    | **Pôzêrâs**  | The Wayfarer                | Staff entwined with serpents, crowned by a compass | [[affiliation-pozeras\|Faith of Pôzêrâs]]   |
-| Decay      | **Mórváná**  | Mistress of the Waning Moon | Wilting flower surrounded by mist                  | [[affiliation-morvana\|Faith of Mórváná]]   |
-| Fertility  | **Lîzêlâs**  | The Nurturer                | Blooming flower encircled by a crescent            | [[affiliation-lizelas\|Faith of Lîzêlâs]]   |
+| Voyages    | **Pozeras**  | The Wayfarer                | Staff entwined with serpents, crowned by a compass | [[affiliation-pozeras\|Faith of Pozeras]]   |
+| Decay      | **Morvana**  | Mistress of the Waning Moon | Wilting flower surrounded by mist                  | [[affiliation-morvana\|Faith of Morvana]]   |
+| Fertility  | **Lizelas**  | The Nurturer                | Blooming flower encircled by a crescent            | [[affiliation-lizelas\|Faith of Lizelas]]   |
 
 ## The Ústaran Schism
 

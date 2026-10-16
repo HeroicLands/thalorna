@@ -1,6 +1,6 @@
 ---
 shortcode: bbdnblgnm
-name: {full: Bibûdan Belginûm, aliases: []}
+name: {full: Bibudan Belginum, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -396,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Bibûdan Belginûm is a 26-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His large brown eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has warm-toned skin with a dusky complexion. His graying black hair is combed neatly to one side.
+Bibudan Belginum is a 26-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His large brown eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has warm-toned skin with a dusky complexion. His graying black hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Bibûdan Belginûm came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
+Born in the Taruzel region to a freeman family of Taruzelian heritage, Bibudan Belginum came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
-Bibûdan has always been fascinated by the art of siege warfare and demolition. He trained as a sapper under a seasoned engineer and has become skilled in setting traps and demolishing structures. Bibûdan is known for his planning and ability to work under pressure. He is dedicated to his craft and takes pride in ensuring that his work is both effective and safe.
+Bibudan has always been fascinated by the art of siege warfare and demolition. He trained as a sapper under a seasoned engineer and has become skilled in setting traps and demolishing structures. Bibudan is known for his planning and ability to work under pressure. He is dedicated to his craft and takes pride in ensuring that his work is both effective and safe.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ Can be overly cautious, struggles with physical strength compared to others.
 
 ### Motivation
 
-Bibûdan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in man-at-arms (sapper) work keep him vigilant and adaptable.
+Bibudan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in man-at-arms (sapper) work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -420,15 +420,15 @@ Skilled in engineering, good at problem-solving, calm under pressure.
 
 ## Social
 
-Bibûdan is affiliated with Local Engineers' Guild.
+Bibudan is affiliated with Local Engineers' Guild.
 
-As a Tarûzelian man-at-arms (sapper), Bibûdan occupies a recognized social niche within Tarûzel society.
+As a Taruzelian man-at-arms (sapper), Bibudan occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Bibûdan's primary patron is Military leaders who require his expertise. This relationship provides both opportunity and obligation.
+Bibudan's primary patron is Military leaders who require his expertise. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,12 +436,12 @@ Few; respected for his skills.
 
 ## Plot Hooks
 
-1. **The Man-at-Arms (Sapper)'s Dilemma**—Bibûdan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Man-at-Arms (Sapper)'s Dilemma**—Bibudan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—Few; respected for his skills. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Bibûdan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Bibudan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Bibûdan depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Bibudan depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Bibûdan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Bibudan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

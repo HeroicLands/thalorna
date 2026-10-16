@@ -1,6 +1,6 @@
 ---
 shortcode: dmrthsvshrds
-name: {full: Domrithâs Vîshârdâs, given: Domrithâs, clan: Vîshârdâs, aliases: []}
+name: {full: Domrithas Vishardas, given: Domrithas, clan: Vishardas, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]
@@ -414,23 +414,23 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dmrthsvshrds|Domrithâs Vîshârdâs]]{float=top-left}
+![[dmrthsvshrds|Domrithas Vishardas]]{float=top-left}
 
-Domrithâs stands 5'4" tall with a medium build. He has pale fair skin, greying brown hair, and green eyes. His features include a long face, a straight nose, a rounded chin, rosy lips, greying brows, and full cheeks.
+Domrithas stands 5'4" tall with a medium build. He has pale fair skin, greying brown hair, and green eyes. His features include a long face, a straight nose, a rounded chin, rosy lips, greying brows, and full cheeks.
 
 # Dossier {#dossier}
 
-Domrithâs emerged from minor nobility in Nartûn with a gift for understanding chemical transformation. As a young man, he appeared destined for conventional success—formal training in the Alchemist Guild, eventually inheriting his family's modest estate and living a comfortable if unremarkable life. But when his beloved sister **Lûvêthâ** contracted the Withering—an incurable disease that slowly transformed victims into husks—his entire trajectory shifted.
+Domrithas emerged from minor nobility in Nartun with a gift for understanding chemical transformation. As a young man, he appeared destined for conventional success—formal training in the Alchemist Guild, eventually inheriting his family's modest estate and living a comfortable if unremarkable life. But when his beloved sister **Luvetha** contracted the Withering—an incurable disease that slowly transformed victims into husks—his entire trajectory shifted.
 
-He became obsessed with curing her condition and in the process, began to suspect that the boundary between life and death was not absolute but permeable, that with sufficient knowledge of transformation and chemistry, one might cross it. He began conducting experiments in secret, reading texts the guild considered forbidden and creating substances that produced results contradicting official alchemical doctrine. Despite his efforts, Lûvêthâ died—but not before she seemed, in her final moments, to recognize something in Domrithâs's work that suggested he was approaching some terrible truth.
+He became obsessed with curing her condition and in the process, began to suspect that the boundary between life and death was not absolute but permeable, that with sufficient knowledge of transformation and chemistry, one might cross it. He began conducting experiments in secret, reading texts the guild considered forbidden and creating substances that produced results contradicting official alchemical doctrine. Despite his efforts, Luvetha died—but not before she seemed, in her final moments, to recognize something in Domrithas's work that suggested he was approaching some terrible truth.
 
-Since her death fifteen years ago, Domrithâs has devoted himself with singular purpose to the pursuit of immortality. He has secured patronage from **Baron Kalmêthar of Nartûn**, who is himself elderly and afraid of death, providing him resources and protection from guild scrutiny. His work has produced substances and discoveries that exist at the boundary of poison and cure, corruption and transformation. He is becoming increasingly unstable, increasingly willing to test his creations on unwilling subjects, increasingly convinced that he is approaching a breakthrough that will revolutionize human existence itself.
+Since her death fifteen years ago, Domrithas has devoted himself with singular purpose to the pursuit of immortality. He has secured patronage from **Baron Kalmethar of Nartun**, who is himself elderly and afraid of death, providing him resources and protection from guild scrutiny. His work has produced substances and discoveries that exist at the boundary of poison and cure, corruption and transformation. He is becoming increasingly unstable, increasingly willing to test his creations on unwilling subjects, increasingly convinced that he is approaching a breakthrough that will revolutionize human existence itself.
 
 ## Psyche
 
 ### Personality
 
-Domrithâs is consumed by his obsession to the point where it has cannibalized his humanity. He speaks rarely of anything outside his work, and conversations with him quickly circle back to theories of transformation, decay, and the possibility of escaping mortality. His moral framework has become increasingly elastic—he can rationalize almost any action if it serves his pursuit of immortality, creating a dangerous incoherence between his claims of scientific dedication and his actual willingness to commit atrocities.
+Domrithas is consumed by his obsession to the point where it has cannibalized his humanity. He speaks rarely of anything outside his work, and conversations with him quickly circle back to theories of transformation, decay, and the possibility of escaping mortality. His moral framework has become increasingly elastic—he can rationalize almost any action if it serves his pursuit of immortality, creating a dangerous incoherence between his claims of scientific dedication and his actual willingness to commit atrocities.
 
 Yet moments of clarity still surface, usually when he is reminded of his sister or when his work produces results that unsettle even his expanded ethical boundaries. In those moments, flashes of his original nature emerge—a capacity for warmth, intellectual humility, and horror at what he has become. These moments, however, are increasingly rare and quickly suppressed beneath renewed obsession.
 
@@ -438,7 +438,7 @@ His manner is professorial and condescending to those he considers intellectuall
 
 ### Motivation
 
-Domrithâs is ostensibly motivated by scientific pursuit—the desire to expand human knowledge and achieve something that has always been assumed impossible. But there is a more personal and darker truth: he is driven by grief and guilt. His inability to save his sister created a wound that has never healed, and his pursuit of immortality is fundamentally an attempt to resurrect her, to create a world where her death becomes reversible, where all death becomes reversible, where his failure to save her is retroactively made not to matter.
+Domrithas is ostensibly motivated by scientific pursuit—the desire to expand human knowledge and achieve something that has always been assumed impossible. But there is a more personal and darker truth: he is driven by grief and guilt. His inability to save his sister created a wound that has never healed, and his pursuit of immortality is fundamentally an attempt to resurrect her, to create a world where her death becomes reversible, where all death becomes reversible, where his failure to save her is retroactively made not to matter.
 
 There is also a will-to-power beneath his stated goals—a desire to become something more than human, to escape the limitations that constrain ordinary existence, to achieve a kind of godhood through knowledge and transformation. This messianic conviction has gradually become more prominent as his work continues, creating a personality increasingly unstable and dangerous.
 
@@ -456,32 +456,32 @@ There is also a will-to-power beneath his stated goals—a desire to become some
 - **Obsessive Tunnel Vision**: His fixation on immortality has blinded him to the real breakthroughs he is achieving in conventional alchemy, and his inability to work on anything outside his obsession has isolated him from his guild.
 - **Increasing Instability**: Extended exposure to his own experimental substances and the weight of his obsession on his mind have begun manifesting in signs of madness—paranoia, irrational convictions, dangerous mood fluctuations.
 - **Physical Fragility**: Years of work with toxic substances have compromised his health; he is physically weak, prone to illness, and showing signs of long-term exposure to various poisons.
-- **Dangerous Patronage**: His dependence on **Baron Kalmêthar's** support has made him vulnerable to manipulation and has tied him to a man whose own ambitions may prove catastrophic.
+- **Dangerous Patronage**: His dependence on **Baron Kalmethar's** support has made him vulnerable to manipulation and has tied him to a man whose own ambitions may prove catastrophic.
 
 ## Social
 
 ### Patrons
 
-Baron Kalmêthar of Nartûn
-: An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Domrithâs's work as his best hope for extended life or outright immortality. Kalmêthar provides resources, protection from guild scrutiny, and unwilling test subjects from his estate's servile population.
+Baron Kalmethar of Nartun
+: An aging nobleman of considerable wealth and power who has become increasingly obsessed with his own mortality and views Domrithas's work as his best hope for extended life or outright immortality. Kalmethar provides resources, protection from guild scrutiny, and unwilling test subjects from his estate's servile population.
 
-Master Physician Bryâkos
-: A healer of real reputation who, while publicly maintaining distance from Domrithâs's more questionable work, secretly purchases certain of his creations for use in his own practice, generating income and intellectual exchange.
+Master Physician Bryakos
+: A healer of real reputation who, while publicly maintaining distance from Domrithas's more questionable work, secretly purchases certain of his creations for use in his own practice, generating income and intellectual exchange.
 
 ### Enemies
 
-Master Alchemist Akéthrynas
-: The guild-master of Nartûn's Alchemist Guild views Domrithâs as a corruption of their craft and has spent years gathering evidence of his unethical practices with intent to expose him and have him expelled or worse.
+Master Alchemist Akethrynas
+: The guild-master of Nartun's Alchemist Guild views Domrithas as a corruption of their craft and has spent years gathering evidence of his unethical practices with intent to expose him and have him expelled or worse.
 
-Priestess Zêtimâ of Árdavon's Temple
-: The keeper of the order-god's temple views Domrithâs's work as corruption of natural order and has declared his pursuit of immortality heretical. She actively works to discredit him and protect innocents from his experiments.
+Priestess Zetima of Árdavon's Temple
+: The keeper of the order-god's temple views Domrithas's work as corruption of natural order and has declared his pursuit of immortality heretical. She actively works to discredit him and protect innocents from his experiments.
 
 The Widow Selene
-: The former lover of Domrithâs who realized the depth of his moral corruption and left him, she now operates a secret network providing sanctuary to those who have escaped his experiments.
+: The former lover of Domrithas who realized the depth of his moral corruption and left him, she now operates a secret network providing sanctuary to those who have escaped his experiments.
 
 ### Affiliations
 
-Alchemist Guild of Nartûn
+Alchemist Guild of Nartun
 : Nominally affiliated but increasingly shunned by mainstream guild members.
 
 The Hidden Cabal
@@ -489,12 +489,12 @@ The Hidden Cabal
 
 ## Plot Hooks
 
-1. **The Transformation Accelerant**: Domrithâs completes what may be his greatest work—a substance that seems to arrest aging and the body's decay. He begins testing it, and the results appear miraculous. But he discovers that the substance prevents death, and it also transforms the human body into something other, something that may not be human at all. Those who take it begin to manifest strange abilities and gradual physical changes that suggest they are becoming something entirely new. Domrithâs must judge whether to continue refining this transformation or destroy what he has created.
+1. **The Transformation Accelerant**: Domrithas completes what may be his greatest work—a substance that seems to arrest aging and the body's decay. He begins testing it, and the results appear miraculous. But he discovers that the substance prevents death, and it also transforms the human body into something other, something that may not be human at all. Those who take it begin to manifest strange abilities and gradual physical changes that suggest they are becoming something entirely new. Domrithas must judge whether to continue refining this transformation or destroy what he has created.
 
-2. **The Sister's Return**: Domrithâs receives a shock that appears to destroy his fundamental understanding of reality: someone claiming to be his sister **Lûvêthâ** appears in Nartûn, alive, unchanged, requesting to speak with him. When confronted, she reveals that Domrithâs's experiments did not fail—they succeeded—and she has been kept in hiding all these years. But there are complications: Lûvêthâ claims she cannot truly die anymore and has witnessed the horrific costs of the work Domrithâs has continued pursuing in her name. She confronts him with evidence of experiments he conducted on innocents in the years after her supposed death, and demands he stop before she is forced to stop him.
+2. **The Sister's Return**: Domrithas receives a shock that appears to destroy his fundamental understanding of reality: someone claiming to be his sister **Luvetha** appears in Nartun, alive, unchanged, requesting to speak with him. When confronted, she reveals that Domrithas's experiments did not fail—they succeeded—and she has been kept in hiding all these years. But there are complications: Luvetha claims she cannot truly die anymore and has witnessed the horrific costs of the work Domrithas has continued pursuing in her name. She confronts him with evidence of experiments he conducted on innocents in the years after her supposed death, and demands he stop before she is forced to stop him.
 
-3. **The Plague's Cure and Curse**: A plague outbreak threatens to devastate the region, and in desperation, the authorities turn to Domrithâs for a cure. He produces something that seems to work—those infected are healed and recover completely. But within months, survivors begin manifesting strange symptoms: sudden, violent changes in personality, aggressive behavior, and apparent transformation toward something inhuman. Domrithâs realizes his cure did not eliminate the plague—it transformed it into something worse, something that spreads through personality and behavior rather than infection. He must find a true cure before the kingdom descends into chaos.
+3. **The Plague's Cure and Curse**: A plague outbreak threatens to devastate the region, and in desperation, the authorities turn to Domrithas for a cure. He produces something that seems to work—those infected are healed and recover completely. But within months, survivors begin manifesting strange symptoms: sudden, violent changes in personality, aggressive behavior, and apparent transformation toward something inhuman. Domrithas realizes his cure did not eliminate the plague—it transformed it into something worse, something that spreads through personality and behavior rather than infection. He must find a true cure before the kingdom descends into chaos.
 
-4. **The Exposed Experiments**: **Master Alchemist Akéthrynas** finally succeeds in publicly exposing Domrithâs's experiments, revealing evidence of the unwilling subjects he has used, the deaths resulting from his work, and the moral bankruptcy of his research. The revelation triggers a formal guild investigation and criminal proceedings. Domrithâs can flee (losing his laboratories and resources), attempt to defend himself (nearly impossible given the evidence), or accelerate his work in hopes of producing a breakthrough significant enough to justify his methods or powerful enough to protect him from consequences.
+4. **The Exposed Experiments**: **Master Alchemist Akethrynas** finally succeeds in publicly exposing Domrithas's experiments, revealing evidence of the unwilling subjects he has used, the deaths resulting from his work, and the moral bankruptcy of his research. The revelation triggers a formal guild investigation and criminal proceedings. Domrithas can flee (losing his laboratories and resources), attempt to defend himself (nearly impossible given the evidence), or accelerate his work in hopes of producing a breakthrough significant enough to justify his methods or powerful enough to protect him from consequences.
 
-5. **The Patron's Demand**: **Baron Kalmêthar**, now ancient and terrified, demands that Domrithâs accelerate the immortality research and provide him with a completed transformation within a specific timeframe—or face the loss of all support and protection. The timeframe is impossibly short, forcing Domrithâs to make choices about which corners to cut, which safety measures to abandon, and which ethical lines to finally cross. The completion of this forced deadline will almost certainly result in catastrophic failure or in Kalmêthar's transformation into something uncontrollable.
+5. **The Patron's Demand**: **Baron Kalmethar**, now ancient and terrified, demands that Domrithas accelerate the immortality research and provide him with a completed transformation within a specific timeframe—or face the loss of all support and protection. The timeframe is impossibly short, forcing Domrithas to make choices about which corners to cut, which safety measures to abandon, and which ethical lines to finally cross. The completion of this forced deadline will almost certainly result in catastrophic failure or in Kalmethar's transformation into something uncontrollable.

@@ -1,6 +1,6 @@
 ---
 shortcode: dornsyndlr
-name: {full: Dorèn Sindàlre, given: Dorèn, clan: Sindàlre, aliases: []}
+name: {full: Doren Sindalre, given: Doren, clan: Sindalre, aliases: []}
 type: being
 subType: character
 tags: [hero, silent-talon, unguilded, soldiery]
@@ -412,36 +412,36 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dornsyndlr|Dorèn Sindàlre]]{float=top-left}
+![[dornsyndlr|Doren Sindalre]]{float=top-left}
 
-Dorèn is a towering man of twenty-eight, standing six foot four with a heavy, muscular frame and olive-toned skin marked by battle scars. A deep, ragged scar runs diagonally across his left cheek. His short black hair and gray eyes give him a hard, uncompromising look. There is nothing subtle about him, and he would not want there to be.
+Doren is a towering man of twenty-eight, standing six foot four with a heavy, muscular frame and olive-toned skin marked by battle scars. A deep, ragged scar runs diagonally across his left cheek. His short black hair and gray eyes give him a hard, uncompromising look. There is nothing subtle about him, and he would not want there to be.
 
 # Dossier {#dossier}
 
-Dorèn hails from the rugged highlands of [[place-provenzrgn|Provènzia]], where he was once a farmer. That life ended when his village was raided and destroyed during a border skirmish. With nothing left—no home, no family, no reason to stay—he joined a local militia to seek vengeance. He quickly rose through the ranks on the strength of his raw physical power and his utter fearlessness in battle.
+Doren hails from the rugged highlands of [[place-provenzrgn|Provenzia]], where he was once a farmer. That life ended when his village was raided and destroyed during a border skirmish. With nothing left—no home, no family, no reason to stay—he joined a local militia to seek vengeance. He quickly rose through the ranks on the strength of his raw physical power and his utter fearlessness in battle.
 
-His reputation as a fighter drew the attention of Branvàl, who recruited him into the [[affiliation-slntlncmpny|Silent Talon]] for his resilience and brute force. Dorèn has been with the band ever since, finding in it the family he lost. He fights with an axe and shield in the old highland style—direct, brutal, and unrelenting.
+His reputation as a fighter drew the attention of Branval, who recruited him into the [[affiliation-slntlncmpny|Silent Talon]] for his resilience and brute force. Doren has been with the band ever since, finding in it the family he lost. He fights with an axe and shield in the old highland style—direct, brutal, and unrelenting.
 
-Dorèn is not a complicated man. He does not care for politics, subtlety, or the kind of scheming that occupies people like Tórnis. War is simple: protect those who fight with you, kill those who stand against you. He says what he means, does what he says, and asks nothing more of the world than a place to stand and someone worth standing beside.
+Doren is not a complicated man. He does not care for politics, subtlety, or the kind of scheming that occupies people like Tornis. War is simple: protect those who fight with you, kill those who stand against you. He says what he means, does what he says, and asks nothing more of the world than a place to stand and someone worth standing beside.
 
 ## Background
 
 ### Skills and Abilities
 
-- **Battle Prowess**: Dorèn is the Silent Talon's frontline fighter. He wields his axe and shield with devastating effect, combining raw strength with the hard-won experience of years of combat.
+- **Battle Prowess**: Doren is the Silent Talon's frontline fighter. He wields his axe and shield with devastating effect, combining raw strength with the hard-won experience of years of combat.
 - **Physical Strength**: Strong, even by the standards of fighting men. His highland upbringing and years of manual labor gave him a powerful frame that his military career has only hardened.
-- **Endurance**: Dorèn can fight, march, and endure hardship longer than most men. He does not complain, does not slow down, and does not quit.
-- **Loyalty**: Not a skill in the conventional sense, but Dorèn's absolute reliability in battle makes him useful. He will hold a position, protect a flank, or stand over a fallen companion until he is physically unable to continue.
+- **Endurance**: Doren can fight, march, and endure hardship longer than most men. He does not complain, does not slow down, and does not quit.
+- **Loyalty**: Not a skill in the conventional sense, but Doren's absolute reliability in battle makes him useful. He will hold a position, protect a flank, or stand over a fallen companion until he is physically unable to continue.
 
 ## Psyche
 
 ### Personality
 
-Dorèn is straightforward, loyal, and practical. He lacks patience for politics or subtlety, preferring to solve problems with his axe and shield. He speaks plainly and cares deeply for his comrades, often forming deep bonds with those he fights alongside. He is not unintelligent—he simply sees no reason to overcomplicate things that are, at their core, simple.
+Doren is straightforward, loyal, and practical. He lacks patience for politics or subtlety, preferring to solve problems with his axe and shield. He speaks plainly and cares deeply for his comrades, often forming deep bonds with those he fights alongside. He is not unintelligent—he simply sees no reason to overcomplicate things that are, at their core, simple.
 
 ### Motivation
 
-Dorèn seeks stability after losing his family and home. He has little desire for wealth beyond what is needed to live comfortably. His true motivation is to find a new family in the Silent Talon and to protect them from the kind of destruction he once faced. As long as he is swinging his axe alongside people he trusts, he is where he needs to be.
+Doren seeks stability after losing his family and home. He has little desire for wealth beyond what is needed to live comfortably. His true motivation is to find a new family in the Silent Talon and to protect them from the kind of destruction he once faced. As long as he is swinging his axe alongside people he trusts, he is where he needs to be.
 
 ### Strengths
 
@@ -453,10 +453,10 @@ Dorèn seeks stability after losing his family and home. He has little desire fo
 
 ## Companions
 
-- [[being-branwldrgr|Branvàl Dorgàl]]: Captain of the Silent Talon. Kôris respects Branvàl's competence and follows his orders without question.
-- [[being-elyseskyrn|Élithë Sárneth]]: Fellow band member. Kôris is protective of her.
-- [[being-torniskbry|Tórnis Kúbri]]: Fellow band member. Kôris finds Tórnis's evasiveness mildly irritating but trusts him in the field.
-- [[being-chlbrhydyn|Chelèbe Riddìn]]: Fellow band member. A quiet mutual respect between two men who prefer actions to words.
+- [[being-branwldrgr|Branval Dorgal]]: Captain of the Silent Talon. Koris respects Branval's competence and follows his orders without question.
+- [[being-elyseskyrn|Élithe Sarneth]]: Fellow band member. Koris is protective of her.
+- [[being-torniskbry|Tornis Kubri]]: Fellow band member. Koris finds Tornis's evasiveness mildly irritating but trusts him in the field.
+- [[being-chlbrhydyn|Chelebe Riddin]]: Fellow band member. A quiet mutual respect between two men who prefer actions to words.
 
 ### Patrons
 
@@ -468,8 +468,8 @@ The raiders who destroyed his village.
 
 ## Plot Hooks
 
-1. **The Burning Village**: The Silent Talon passes through a region where villages are being raided in a pattern disturbingly similar to the attack that destroyed Dorèn's home. He becomes obsessed with finding the raiders, and the band must decide whether to pursue his personal vendetta or stick to their current contract.
+1. **The Burning Village**: The Silent Talon passes through a region where villages are being raided in a pattern disturbingly similar to the attack that destroyed Doren's home. He becomes obsessed with finding the raiders, and the band must decide whether to pursue his personal vendetta or stick to their current contract.
 
-2. **The Old Militia**: A former comrade from Dorèn's militia days appears, asking for help with a desperate situation. The request is real, but fulfilling it would put the Silent Talon in direct conflict with a powerful lord who is one of their potential employers.
+2. **The Old Militia**: A former comrade from Doren's militia days appears, asking for help with a desperate situation. The request is real, but fulfilling it would put the Silent Talon in direct conflict with a powerful lord who is one of their potential employers.
 
-3. **The Shield Wall**: During a pitched battle, Dorèn is faced with an impossible choice: hold the line and protect the band's retreat, or break formation to save a civilian caught in the fighting. Whatever he chooses, someone pays the price.
+3. **The Shield Wall**: During a pitched battle, Doren is faced with an impossible choice: hold the line and protect the band's retreat, or break formation to save a civilian caught in the fighting. Whatever he chooses, someone pays the price.

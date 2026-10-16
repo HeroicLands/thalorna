@@ -67,12 +67,12 @@ The Republic had other business. It was putting down factions at home and learni
 ## What the Compact Left
 
 - **The League itself**, which is the Compact kept.
-- **The Merchant Hall** of [[place-khryshteikhos2|Khrýshteíkhos]], built where the five met.
+- **The Merchant Hall** of [[place-khryshteikhos2|Krusteikhos]], built where the five met.
 - **The first charters**, the [[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild]] among them, granted by the council the Compact made.
 - **A foreign policy** of being worth more paid than conquered, which the League has followed since.
 
 ## See Also
 
 - [[lore-heladwells|The Battle of the Wells]]—the battle the cities fought together
-- [[affiliation-byzarianlg|Byzarian League]]—the confederation the Compact became
-- [[affiliation-khryshteikhos|Khrýshteíkhos]]—the city whose Merchant Hall stands where the five met
+- [[affiliation-byzarianlg|Bizarian League]]—the confederation the Compact became
+- [[affiliation-khryshteikhos|Krusteikhos]]—the city whose Merchant Hall stands where the five met

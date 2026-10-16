@@ -1,9 +1,9 @@
 ---
 shortcode: zhambelinake
-name: {full: Zhâmbelína Keramákit, aliases: [Guild Master Zhâmbelína Keramákit]}
+name: {full: Zhambelina Keramakit, aliases: [Guild Master Zhambelina Keramakit]}
 type: being
 subType: npc
-description: The current head of the Teamsters' Guild, who values Órashkâr Naulákit as an unofficial advisor on standards and practices.
+description: The current head of the Teamsters' Guild, who values Órashkar Naulakit as an unofficial advisor on standards and practices.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zhâmbelína Keramákit is a 57-year-old woman who stands 5'10" tall with a light build. She has light skin, weathered complexion, black hair, and hazel eyes.
+Zhambelina Keramakit is a 57-year-old woman who stands 5'10" tall with a light build. She has light skin, weathered complexion, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Zhâmbelína Keramákit is the current head of the Teamsters' Guild. She values [[being-orshkrnlkt|Órashkâr Naulákit]] as an unofficial advisor on standards and practices and consults him on disputes and policy.
+Zhambelina Keramakit is the current head of the Teamsters' Guild. She values [[being-orshkrnlkt|Órashkar Naulakit]] as an unofficial advisor on standards and practices and consults him on disputes and policy.

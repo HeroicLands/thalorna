@@ -1,6 +1,6 @@
 ---
 shortcode: wystanosgd
-name: {full: Wystan Osgood, aliases: []}
+name: {full: Wilstan Osgood, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Wystan Osgood is a 30-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has a straight nose and narrow lips. He has light skin with a clear complexion. His blonde hair is shoulder-length and loose.
+Wilstan Osgood is a 30-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has a straight nose and narrow lips. He has light skin with a clear complexion. His blonde hair is shoulder-length and loose.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wystan Osgood is a ratter.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wilstan Osgood is a ratter.
 
-Wystan has spent most of his life catching rats in the crowded streets of the city. Known for his quick reflexes and sharp nose, he uses traps and trained ferrets together to keep the rats down. He is a familiar figure in his neighborhood, often seen with his loyal ferret, Squeak. His skills are in high demand, especially in homes and markets plagued by infestations.
+Wilstan has spent most of his life catching rats in the crowded streets of the city. Known for his quick reflexes and sharp nose, he uses traps and trained ferrets together to keep the rats down. He is a familiar figure in his neighborhood, often seen with his loyal ferret, Squeak. His skills are in high demand, especially in homes and markets plagued by infestations.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ He can be overly obsessed with his work, and is awkward in company outside his t
 
 ### Motivation
 
-Wystan wants the streets of his neighborhood clear of rats, and Squeak kept out of harm.
+Wilstan wants the streets of his neighborhood clear of rats, and Squeak kept out of harm.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ He is skilled in trapping and knows how rats behave, finds his way about the cit
 
 ## Social
 
-Wystan belongs to no guild and works independently.
+Wilstan belongs to no guild and works independently.
 
 ## Companions
 
 ### Patrons
 
-Wystan's patrons are the local merchants and households who want the rats kept down.
+Wilstan's patrons are the local merchants and households who want the rats kept down.
 
 ### Enemies
 
@@ -431,12 +431,12 @@ Few; he is generally well respected, but some rats still evade his traps.
 
 ## Plot Hooks
 
-1. **The Ratter's Dilemma**—A merchant pays Wystan to clear his warehouse and to say nothing of what the rats were living on, and the market next door is buying it.
+1. **The Ratter's Dilemma**—A merchant pays Wilstan to clear his warehouse and to say nothing of what the rats were living on, and the market next door is buying it.
 
-2. **Old Grudges**—A rat Wystan has never managed to trap has begun taking from a market that blames him for it.
+2. **Old Grudges**—A rat Wilstan has never managed to trap has begun taking from a market that blames him for it.
 
-3. **Echoes of the Past**—A household Wystan cleared years ago is infested again, worse, and the neighbors say he never cleared it at all.
+3. **Echoes of the Past**—A household Wilstan cleared years ago is infested again, worse, and the neighbors say he never cleared it at all.
 
-4. **Shifting Winds**—Political change in Aelwyth threatens the markets Wystan's trade depends on, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Aelwyth threatens the markets Wilstan's trade depends on, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A lord's steward offers Wystan the run of a whole manor's rats at good wages, and Squeak is not welcome in the house.
+5. **The Opportunity**—A lord's steward offers Wilstan the run of a whole manor's rats at good wages, and Squeak is not welcome in the house.

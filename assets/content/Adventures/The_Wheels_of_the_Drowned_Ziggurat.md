@@ -25,7 +25,7 @@ A serpent-cult died in the deep forest and its priests did not. At the [[place-d
 Offer the entry that suits the hero.
 
 - **The thief.** A drunken river-factor in a northern port sells a map to a temple roofed in green stone. The roof is root and moss, but the bronze inside is real, and so is the jade at the heart of it.
-- **The mercenary or soldier.** A Khelâthi salt-factor, who lost two salvage crews to the Ziggurat, hires guards for a third. His pay is good and his reasons are thin.
+- **The mercenary or soldier.** A Khelathi salt-factor, who lost two salvage crews to the Ziggurat, hires guards for a third. His pay is good and his reasons are thin.
 - **The leader.** The chieftain of a river-tribe has watched the drowned plain's fish die and its water turn black. The tribe's eldest says the serpent-patron is troubled. The chieftain needs someone to go upriver who is not of the tribe, because no one of the tribe can break the taboo.
 - **The lone wanderer.** The wanderer has a fever-dream of a bronze wheel turning, and has dreamed it for a month. A river-guide who knows the way owes the wanderer a life and offers to pay.
 
@@ -152,4 +152,4 @@ The place note is [[place-drwndzgrt|The Drowned Ziggurat]].
 - **If the wheels still turn,** the Bride's plan goes on, and the river-water darkens another stretch downstream.
 - **If the party robs the Ziggurat and leaves,** salvage crews follow within a year, and the Bride's offer reaches another ear.
 - **If Old Coil is dead,** the river-tribes remember who killed the patron's kin.
-- **If the signet is sold in the north,** a Khelâthi scholar asks where it came from.
+- **If the signet is sold in the north,** a Khelathi scholar asks where it came from.

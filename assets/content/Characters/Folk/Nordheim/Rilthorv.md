@@ -3,7 +3,7 @@ shortcode: rilthorv
 name: {full: Rilthorv, aliases: [Bishop Rilthorv]}
 type: being
 subType: npc
-description: Bishop of the Thrúnvald Temple, which commissions work from Hrandrinna Drekanótt.
+description: Bishop of the Thrunvald Temple, which commissions work from Hrandrinna Drekanótt.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Rilthorv is a 39-year-old man who stands 6'1" tall with a light build. He has pa
 
 # Dossier {#dossier}
 
-Rilthorv is the bishop of the Thrúnvald Temple, which commissions work from [[being-hrndrndrknt|Hrandrinna Drekanótt]]. The temple commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure harsh weather, and the bishop values her skill.
+Rilthorv is the bishop of the Thrunvald Temple, which commissions work from [[being-hrndrndrknt|Hrandrinna Drekanótt]]. The temple commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure harsh weather, and the bishop values her skill.

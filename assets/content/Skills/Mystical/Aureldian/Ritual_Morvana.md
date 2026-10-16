@@ -1,6 +1,6 @@
 ---
 shortcode: morvana
-name: {full: "Ritual: Morvana", aliases: [Mórváná, Mistress of the Waning Moon]}
+name: {full: "Ritual: Morvana", aliases: [Morvana, Mistress of the Waning Moon]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-morvana|Faith of Mórváná]]
+See [[affiliation-morvana|Faith of Morvana]]

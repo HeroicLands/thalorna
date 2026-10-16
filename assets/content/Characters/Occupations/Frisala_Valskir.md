@@ -1,6 +1,6 @@
 ---
 shortcode: fryslvlskyr
-name: {full: Frisàla Valskìr, aliases: []}
+name: {full: Frisala Valskir, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Frisàla Valskìr is a 42-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her hooded hazel eyes sit beneath thin brows and give her a guarded gaze. She has a delicate nose and expressive lips. She has fair skin with a clear complexion. Her chestnut hair is pinned in an elegant twist.
+Frisala Valskir is a 42-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her hooded hazel eyes sit beneath thin brows and give her a guarded gaze. She has a delicate nose and expressive lips. She has fair skin with a clear complexion. Her chestnut hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Frisàla Valskìr is a chieftain.
+Born in the [[place-provenzrgn|Provenzia]] region to a noble family of Provenzian heritage, Frisala Valskir is a chieftain.
 
-Frisàla became chieftain after her father's death in battle, and leads her clan by tradition where it serves and by her own methods where it does not. Known for her planning, she has strengthened her tribe's alliances and fortified their lands. Though some elders question her methods, her victories against raiders have won her respect.
+Frisala became chieftain after her father's death in battle, and leads her clan by tradition where it serves and by her own methods where it does not. Known for her planning, she has strengthened her tribe's alliances and fortified their lands. Though some elders question her methods, her victories against raiders have won her respect.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ She is distrusted by some elders who view her as too unorthodox.
 
 ### Motivation
 
-Frisàla wants to hold her clan's lands and alliances against the raiders and against the elders who doubt her.
+Frisala wants to hold her clan's lands and alliances against the raiders and against the elders who doubt her.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ She is a planner, skilled at forming alliances, and a capable warrior.
 
 ## Social
 
-Frisàla belongs to the Tribal Council.
+Frisala belongs to the Tribal Council.
 
 ## Companions
 
 ### Patrons
 
-Frisàla's patrons are the clan warriors and young leaders who support her rule.
+Frisala's patrons are the clan warriors and young leaders who support her rule.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Neighboring clan leaders threatened by her growing power.
 
 ## Plot Hooks
 
-1. **The Chieftain's Dilemma**—A raid forces Frisàla to choose between the elders' way and her own, with her clan's survival in the balance.
+1. **The Chieftain's Dilemma**—A raid forces Frisala to choose between the elders' way and her own, with her clan's survival in the balance.
 
 2. **Old Grudges**—A neighboring chieftain threatened by her growing power stops waiting for her to fail.
 
-3. **Echoes of the Past**—Something from the battle that killed her father resurfaces, and the clan looks to Frisàla to settle it.
+3. **Echoes of the Past**—Something from the battle that killed her father resurfaces, and the clan looks to Frisala to settle it.
 
-4. **Shifting Winds**—Political change in Provènzia threatens the standing Frisàla's clan depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Provenzia threatens the standing Frisala's clan depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—An alliance is offered to Frisàla on terms beyond anything she has hoped for, and its price is not named up front.
+5. **The Opportunity**—An alliance is offered to Frisala on terms beyond anything she has hoped for, and its price is not named up front.

@@ -3,7 +3,7 @@ shortcode: unreceived
 name: {full: The Unreceived, aliases: [The Levy on the Plain]}
 type: lore
 subType: literature
-description: "The choral odes of Théldos's tragedy of the Sour Plain, whose chorus is the dead levy of Korinthea standing in its ranks on the anniversary: the march out in the morning, the man on the rise who has no mask and no lines, the working that turned, the herald at the ring of stones who calls and cannot cross, the city that will not say it, and the ranks kept for an order that has not come."
+description: "The choral odes of Theldos's tragedy of the Sour Plain, whose chorus is the dead levy of Korinthea standing in its ranks on the anniversary: the march out in the morning, the man on the rise who has no mask and no lines, the working that turned, the herald at the ring of stones who calls and cannot cross, the city that will not say it, and the ranks kept for an order that has not come."
 tags: [draft, helionis]
 data:
   culture: helioniteclt
@@ -24,9 +24,9 @@ data:
 # terran_analog: "Greek tragedy's choral odes, for the strophe and antistrophe matched line for line, the epode that stands after them, the parodos and the exodos, and the kommos the chorus sings with an actor; Aeschylus's Persians, a tragedy of a recent defeat staged before an audience that remembered it; and the Athenian fine on Phrynichus for staging the fall of Miletus, for a city's anger at a play that says aloud what it wishes unsaid."
 ---
 
-**The Unreceived** is a tragedy by **Théldos** of [[affiliation-kalydria|Kalydria]], written for the city's theater festival in the classical years, and its odes are what survives of it in the schools; the spoken scenes are copied less often and in fewer hands. Its chorus is the dead levy of [[affiliation-korinthea|Korinthea]], standing in its ranks on [[place-sourplain|the Sour Plain]] on the anniversary of [[lore-heladturnedwrk|the Turned Working]], and the whole play passes on that one day. The chorus sings in the matched stanzas of the Helionite stage: a turn, an answering turn of the same length and shape, and a stand after them that the whole chorus sings together without moving.
+**The Unreceived** is a tragedy by **Theldos** of [[affiliation-kalydria|Kalidria]], written for the city's theater festival in the classical years, and its odes are what survives of it in the schools; the spoken scenes are copied less often and in fewer hands. Its chorus is the dead levy of [[affiliation-korinthea|Korinthea]], standing in its ranks on [[place-sourplain|the Sour Plain]] on the anniversary of [[lore-heladturnedwrk|the Turned Working]], and the whole play passes on that one day. The chorus sings in the matched stanzas of the Helionite stage: a turn, an answering turn of the same length and shape, and a stand after them that the whole chorus sings together without moving.
 
-The play took no prize. Kalydria revives it seldom, and the patron family that pays for a revival does not say so beforehand. Théldos gives the mage-warlord a part with no mask and no lines: an actor stands on a block at the back of the stage through the whole play, in his own face, and says nothing, and the chorus never turns to look at him. No Helionite or Vylarian record names the warlord, and the play keeps the record's silence on purpose. The speaking parts are a Korinthean herald who comes to the ring of stones each year, a mother of the levy who comes with him once and does not come again, and a judge of the [[place-korinthea2|Temple of Árdavon]] who walks the ring and records where the stones stand.
+The play took no prize. Kalidria revives it seldom, and the patron family that pays for a revival does not say so beforehand. Theldos gives the mage-warlord a part with no mask and no lines: an actor stands on a block at the back of the stage through the whole play, in his own face, and says nothing, and the chorus never turns to look at him. No Helionite or Vylarian record names the warlord, and the play keeps the record's silence on purpose. The speaking parts are a Korinthean herald who comes to the ring of stones each year, a mother of the levy who comes with him once and does not come again, and a judge of the [[place-korinthea2|Temple of Árdavon]] who walks the ring and records where the stones stand.
 
 Between the odes, the scenes are given here as the schools summarize them.
 
@@ -50,7 +50,7 @@ Each of us had cast his stone in the urn for this road.
 We went down the western road to the plain where it opens,
 and the legion was coming down it, red, in its order,
 and we drew up across the road in our ranks, the levy of the city,
-eight deep, as the strategos placed us, as our fathers stood.
+eight deep, as the strátimor placed us, as our fathers stood.
 And behind us on the rise stood a man we had not voted for.
 We did not look at him. We do not look at him now.
 ```
@@ -73,8 +73,8 @@ and wrote there.
 Answering turn.
 There is a measure the city sets on a man,
 how high he may stand above the others and be a citizen.
-The archon holds the year and hands it back.
-The strategos holds the spear and is voted on again.
+The arsir holds the year and hands it back.
+The strátimor holds the spear and is voted on again.
 The city says: so high and no higher, and an auditor at the end.
 The man on the rise stood on the rise,
 above the levy, above the city, above the auditor,
@@ -149,7 +149,7 @@ The mother goes. The herald stays at the ring through the night, and does not cr
 ```poetry {form=choral-ode lang=en}
 Turn.
 The wrong done in the open is answered in the open.
-A man strikes a man in the agora, and the agora saw it,
+A man strikes a man in the agorin, and the agorin saw it,
 and the court sits, and the judges vote, and it is answered,
 and the struck man and the striker dine together in a year.
 That is a city. That is what the walls are for.
@@ -172,7 +172,7 @@ The man on the rise has no name. We do not say it. The city does not say it.
 We do not say it because we do not look at him. The city
 does not say it because then it would have to say the rest.
 Say the rest. Say: our own working turned on our own levy.
-Say it once, in the agora, and the urn will fill.
+Say it once, in the agorin, and the urn will fill.
 ```
 
 The herald leaves for the city. The judge records the stones and goes. The chorus is alone on the plain, and the light goes down to the anniversary's end, which is the play's.
@@ -212,5 +212,5 @@ Next year the day comes round, and finds us standing.
 - [[lore-heladturnedwrk|The Turned Working]]—the afternoon on the plain
 - [[lore-bloodfield|Blood-fields]]—what a withering is, and why the unreceived dead stand on it
 - [[affiliation-korinthea|Korinthea]] and the [[place-korinthea2|Temple of Árdavon]]—the city that has not said it, and the temple that keeps its law
-- [[affiliation-kalydria|Kalydria]]—the city of the theater festivals
-- [[lore-helioniteclt|Helionite]]—the wrong the agora cannot see
+- [[affiliation-kalydria|Kalidria]]—the city of the theater festivals
+- [[lore-helioniteclt|Helionite]]—the wrong the agorin cannot see

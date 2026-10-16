@@ -406,7 +406,7 @@ Sigrún is beloved by the laboring folk of the market square and deeply trusted 
 
 ### Enemies
 
-**Merchant Magnate Verath Rônondi**—A wealthy merchant who has been systematically buying up small shops in the market district and consolidating them under his control. Sigrún recognizes this process as similar to what destroyed her family and has actively opposed him. Verath views her as an obstacle and is working to have her reassigned or dismissed from the market square.
+**Merchant Magnate Verath Ronondi**—A wealthy merchant who has been systematically buying up small shops in the market district and consolidating them under his control. Sigrún recognizes this process as similar to what destroyed her family and has actively opposed him. Verath views her as an obstacle and is working to have her reassigned or dismissed from the market square.
 
 ## Plot Hooks
 

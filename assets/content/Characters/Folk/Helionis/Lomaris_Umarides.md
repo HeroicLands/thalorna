@@ -1,9 +1,9 @@
 ---
 shortcode: lomarisumari
-name: {full: Lômâris Ûmârîdês, aliases: [Lady Lômâris]}
+name: {full: Lomaris Umarides, aliases: [Lady Lomaris]}
 type: being
 subType: npc
-description: A lady whose retinue Ràkhîmêa Khalîthôn serves.
+description: A lady whose retinue Rakhimea Khalithon serves.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Lômâris Ûmârîdês is a 44-year-old woman who stands 5'10" tall with a medium build. She has medium skin, sun-kissed complexion, black hair, and blue eyes.
+Lomaris Umarides is a 44-year-old woman who stands 5'10" tall with a medium build. She has medium skin, sun-kissed complexion, black hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Lômâris Ûmârîdês is a lady whose retinue [[being-rkhmkhlthn|Ràkhîmêa Khalîthôn]] serves. Her household is Ràkhîmêa's primary patron.
+Lomaris Umarides is a lady whose retinue [[being-rkhmkhlthn|Rakhimea Khalithon]] serves. Her household is Rakhimea's primary patron.

@@ -1,9 +1,9 @@
 ---
 shortcode: elvtribute
-name: {full: The Tribute of Élavendre, aliases: [The Treaty of Váldun]}
+name: {full: The Tribute of Élavendre, aliases: [The Treaty of Valdun]}
 type: lore
 subType: history
-description: "From about 166 to 171 AF a Vylarian legion struck into the hills of Áuldalon and was harried into the forest margin, a cohort was lost, and Queen Réidhanë treated at Váldun: Élavendre kept its laws and its line and paid a yearly tribute in silver, and a Vylarian phêlzândôs took a house at Péravel."
+description: "From about 166 to 171 AF a Vylarian legion struck into the hills of Áuldalon and was harried into the forest margin, a cohort was lost, and Queen Réidane treated at Valdun: Élavendre kept its laws and its line and paid a yearly tribute in silver, and a Vylarian felzos took a house at Péravel."
 tags: [history]
 data:
   culture: elavendriclt
@@ -22,16 +22,16 @@ data:
         - place-valdun
         - place-beravel
       summary: >-
-        From the lowlands the legions have taken, a legion strikes north-west into the hills of Áuldalon. The hill levy and the Áelendan war-bands give it no battle; they harry it toward the forest margin, where a cohort that follows a path is not seen again. Queen Réidhanë of the house of Oréthan treats at Váldun. Élavendre keeps its laws, its customs and its line, and pays a yearly tribute in silver, and a Vylarian phêlzândôs takes a house at Péravel. The Thôrdimâlon comes in by the phêlzândôs's door, and the University of Péravel is chartered about 230.
+        From the lowlands the legions have taken, a legion strikes north-west into the hills of Áuldalon. The hill levy and the Áelendan war-bands give it no battle; they harry it toward the forest margin, where a cohort that follows a path is not seen again. Queen Réidane of the house of Orethan treats at Valdun. Élavendre keeps its laws, its customs and its line, and pays a yearly tribute in silver, and a Vylarian felzos takes a house at Péravel. The Thordimalon comes in by the felzos's door, and the University of Péravel is chartered about 230.
       standing: attested
       names:
         - {name: the Tribute of Élavendre, by: affiliation-vylarinmpr}
-        - {name: the Treaty of Váldun, by: affiliation-kngdmlvndr}
+        - {name: the Treaty of Valdun, by: affiliation-kngdmlvndr}
       where:
         locus: [place-auldalon, place-valdun]
         reach:
           - place: place-beravel
-            how: the phêlzândôs's house becomes the oldest court of the University, and the Order's presence in the capital begins at its door
+            how: the felzos's house becomes the oldest court of the University, and the Order's presence in the capital begins at its door
             knowledge: named
           - place: place-valdun
             how: the first wall is raised after the treaty, and the imperial road ends at its gate
@@ -54,7 +54,7 @@ data:
           note: the Empire's western campaigning reaches the kingdom's eastern hills
         - event: lore-lowlandstaken
           how: enabled
-          note: the legion marches from the lowlands and the march of Liénrik
+          note: the legion marches from the lowlands and the march of Lienrik
         - event: lore-firstcrown
           how: answered
           note: the oath sworn at the first crowning is tested by an army
@@ -75,37 +75,37 @@ data:
           withholds: that the Áelendan took no part in the treaty and did not sign it
       unresolved:
         - which path the lost cohort followed, and from whom it learned that there was one
-        - whether the Áelendan were consulted before the queen treated at Váldun
+        - whether the Áelendan were consulted before the queen treated at Valdun
 ---
 
-The imperial milestones on the road out of Áuldalon stop at Váldun. The road beyond is the kingdom's own.
+The imperial milestones on the road out of Áuldalon stop at Valdun. The road beyond is the kingdom's own.
 
 ## The March
 
-The legions had taken the lowlands of Tarvénia and held Liénrik as an occupied march by the middle of the second century ([[lore-lowlandstaken|The Lowlands Taken]]). From there a legion struck north-west into the eastern hills of [[place-auldalon|Áuldalon]], on the road a column would take to the [[place-ellive|Éllivë]] basin. It was a march of some three hundred miles.
+The legions had taken the lowlands of Tarvénia and held Lienrik as an occupied march by the middle of the second century ([[lore-lowlandstaken|The Lowlands Taken]]). From there a legion struck north-west into the eastern hills of [[place-auldalon|Áuldalon]], on the road a column would take to the [[place-ellive|Éllive]] basin. It was a march of some three hundred miles.
 
 The hill levy and the Áelendan war-bands gave the legion no battle. The legion found a country of ditched steadings and empty ground, and the levy took a wagon here and a picket there and fell back. The war-bands came down out of the mountains behind it and out of the forest ahead of it, and drew the column into the forest margin. A cohort that followed a path into the woods was not seen again.
 
-## Váldun
+## Valdun
 
-Queen **Réidhanë** of the house of Oréthan saw that she could not defeat the legion and that it could not defeat the kingdom, and she treated with the _phêlzândôs_ (legate) at Váldun. The terms were these. Élavendre would keep its own laws, its customs and its line of kings. It would pay a yearly tribute in silver. And a Vylarian _phêlzândôs_ would take a house in [[place-beravel|Péravel]] to receive it.
+Queen **Réidane** of the house of Orethan saw that she could not defeat the legion and that it could not defeat the kingdom, and she treated with the _felzos_ (legate) at Valdun. The terms were these. Élavendre would keep its own laws, its customs and its line of kings. It would pay a yearly tribute in silver. And a Vylarian _felzos_ would take a house in [[place-beravel|Péravel]] to receive it.
 
 The Áelendan were no party to the treaty. The Tree-Line oath meant the crown could not speak for the mountains, and the queen did not claim to. The treaty bound the lowland kingdom to the Empire and left the tribal lands, as they had always been, outside the crown's writ ([[lore-firstcrown|The First Crowning of Élavendre]]).
 
-The road the legion had marched became the tribute's road. Silver went east along it to the imperial treasury. The legion's engineers had marked the road with imperial milestones as far as Váldun, and they set none beyond, since the Empire laid no road west of the treaty town. The town raised its first wall that year.
+The road the legion had marched became the tribute's road. Silver went east along it to the imperial treasury. The legion's engineers had marked the road with imperial milestones as far as Valdun, and they set none beyond, since the Empire laid no road west of the treaty town. The town raised its first wall that year.
 
-## The Phêlzândôs's House
+## The Felzos's House
 
-The Empire's _phêlzândôs_ took a house at Péravel and lived in it. The Thôrdimâlon (the Arcane Order) came in by the _phêlzândôs_'s door: first clerks, then lecturers, then a school. The University of Péravel was chartered about 230 AF, and the _phêlzândôs_'s house became its oldest court.
+The Empire's _felzos_ took a house at Péravel and lived in it. The Thordimalon (the Arcane Order) came in by the _felzos_'s door: first clerks, then lecturers, then a school. The University of Péravel was chartered about 230 AF, and the _felzos_'s house became its oldest court.
 
 The Áelendan have never forgiven the door. Order expeditions have taken artifacts from the sacred sites for as long as the Order has been permitted into the kingdom, and the Áelendan count the permission, and not any single theft, as the offense.
 
 ## What It Left
 
-- **The phêlzândôs's house,** now the University's oldest court, and the Order's foothold in the capital ([[place-beravel|Péravel]]).
-- **The Tribute Road.** Imperial milestones that run from the east and stop at Váldun ([[place-valdun|Váldun]]).
+- **The felzos's house,** now the University's oldest court, and the Order's foothold in the capital ([[place-beravel|Péravel]]).
+- **The Tribute Road.** Imperial milestones that run from the east and stop at Valdun ([[place-valdun|Valdun]]).
 - **The Lost Cohort's camp,** a ditched camp in the Áuldalon woods that hunters find and cannot find again ([[place-auldalon|Áuldalon]]).
-- **The kingdom's standing.** Élavendre paid as a tributary of the Empire and was never a province of it; the Empire kept a _phêlzândôs_ at Péravel and no _thêrkhôs_ (governor), and the tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]].
+- **The kingdom's standing.** Élavendre paid as a tributary of the Empire and was never a province of it; the Empire kept a _felzos_ at Péravel and no _therkos_ (governor), and the tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]].
 - **The oldest grievance.** The Áelendan hold the Order's welcome against the crown that gave it.
 
 ## See Also
@@ -114,4 +114,4 @@ The Áelendan have never forgiven the door. Order expeditions have taken artifac
 - [[lore-lowlandstaken|The Lowlands Taken]]—the conquest the march began from
 - [[lore-firstcrown|The First Crowning of Élavendre]]—the oath the queen kept
 - [[lore-sorvandaclose|The Sórvanda Closing]]—what the tribute cost a later king
-- [[place-valdun|Váldun]] · [[place-auldalon|Áuldalon]] · [[place-beravel|Péravel]]
+- [[place-valdun|Valdun]] · [[place-auldalon|Áuldalon]] · [[place-beravel|Péravel]]

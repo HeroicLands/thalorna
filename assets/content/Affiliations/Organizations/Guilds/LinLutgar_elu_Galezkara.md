@@ -42,7 +42,7 @@ data:
 
 The innkeeper lowers her voice when she tells it, which is itself the lesson. "You do not hear about a traveler from one house. You hear about him from six." The **Local Innkeepers' Association** draws its members from every house in the capital that takes in travelers for pay, and what its members share, above all, is what they learn about the people who sleep under their roofs. The Innkeeper who keeps a house keeps eyes open, and passes on what they see.
 
-The association is watchful and stubborn. Its informal network serves each house better than any one of them could manage alone: who arrived with a [[lore-taruzelianclt|Tarûzelian]] factor's letter, who paid in old gold, who asked after the road to the necropolis. It is also a wall. The merchant houses of the capital would rather own the inns outright, and every keeper has had the offer.
+The association is watchful and stubborn. Its informal network serves each house better than any one of them could manage alone: who arrived with a [[lore-taruzelianclt|Taruzelian]] factor's letter, who paid in old gold, who asked after the road to the necropolis. It is also a wall. The merchant houses of the capital would rather own the inns outright, and every keeper has had the offer.
 
 Her advice for a guest is short. Be civil, pay on time, and assume that the next innkeeper in the city has already heard how you behaved at this one.
 

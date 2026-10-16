@@ -1,11 +1,11 @@
 ---
 shortcode: kayikchalixdty
-name: {full: K'ayik Ch'alix, aliases: []}
+name: {full: K'ayik Ch'alish, aliases: []}
 type: lore
 subType: deity
-description: "The Sacred Flame of the Itzáni pantheon, who alone turns the blood-offering into divine substance, and whose fires are never allowed to die."
+description: "The Sacred Flame of the Itsani pantheon, who alone turns the blood-offering into divine substance, and whose fires are never allowed to die."
 tags: [draft]
 data: {packFolder: deitiesitzani}
 ---
 
-K'ayik Ch'alix is the Sacred Flame of the [[affiliation-itzanpnthn|Itzáni Pantheon]]. He alone turns the blood-offering into divine substance, and his fires are never allowed to die. He holds fire, transformation and sacrifice, and is served by the [[affiliation-kayikchalix|Faith of K'ayik Ch'alix]].
+K'ayik Ch'alish is the Sacred Flame of the [[affiliation-itzanpnthn|Itsani Pantheon]]. He alone turns the blood-offering into divine substance, and his fires are never allowed to die. He holds fire, transformation and sacrifice, and is served by the [[affiliation-kayikchalix|Faith of K'ayik Ch'alish]].

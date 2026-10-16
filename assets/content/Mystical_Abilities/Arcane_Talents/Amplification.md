@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Amplification lends force to another mystical working, carrying it beyond what its own practitioner could reach. The talent adds no working of its own; it strengthens one already under way. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.
+Amplification lends force to another mystical working, carrying it beyond what its own practitioner could reach. The talent adds no working of its own; it strengthens one already under way. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

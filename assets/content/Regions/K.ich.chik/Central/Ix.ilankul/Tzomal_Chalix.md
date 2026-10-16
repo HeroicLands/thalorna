@@ -1,26 +1,26 @@
 ---
 shortcode: tzomalchalix
-name: {full: "Tz'omal Ch'alix", aliases: [The Sacred Foundation]}
+name: {full: "Ts'omal Ch'alish", aliases: [The Sacred Foundation]}
 type: place
 subType: site
-description: "The holiest site in K'ich'chik, a precinct at the heart of Kul'taq'an around the volcanic vent where P'iqal Kul'qat first breathed the world into being, crowned by the Tz'ultel Ch'alix."
+description: "The holiest site in K'ich'chik, a precinct at the heart of Kul'taq'an around the volcanic vent where P'iqal Kul'qat first breathed the world into being, crowned by the Ts'ultel Ch'alish."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [ixilankulrgn], population: 0, packFolder: ixilankul}
 ---
 
 ## Overview
 
-Tz'omal Ch'alix, the Sacred Foundation, is the holiest site in all of [[place-kchchkcntnnt|K'ich'chik]] and the supreme destination of its pilgrims. It is a precinct at the heart of Kul'taq'an in [[affiliation-ixilankul|Ix'ilankul]], built around an ancient volcanic vent from which warm, mineral-laden vapors still rise. The priesthood teaches that the vapor is the living breath of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator, who first breathed the world into existence here at the dawn of the First Age.
+Ts'omal Ch'alish, the Sacred Foundation, is the holiest site in all of [[place-kchchkcntnnt|K'ich'chik]] and the supreme destination of its pilgrims. It is a precinct at the heart of Kul'taq'an in [[affiliation-ixilankul|Ish'ilankul]], built around an ancient volcanic vent from which warm, mineral-laden vapors still rise. The priesthood teaches that the vapor is the living breath of [[lore-piqalkulqatdty|P'iqal Kul'qat]], the creator, who first breathed the world into existence here at the dawn of the First Age.
 
-## The Tz'ultel Ch'alix
+## The Ts'ultel Ch'alish
 
-Above the vent rises **the Tz'ultel Ch'alix**, the Sacred Mountain: the tallest and most ancient pyramid in K'ich'chik, its nine ascending tiers standing for the nine layers of the heavens the sun climbs each day. Only the Ch'alix Tq'an and the most senior Ch'alixbal may climb to the summit, where the vapors of creation mingle with the open sky and the supreme rites of the Celestial Recurrence are performed. Everyone else stands below and breathes.
+Above the vent rises **the Ts'ultel Ch'alish**, the Sacred Mountain: the tallest and most ancient pyramid in K'ich'chik, its nine ascending tiers standing for the nine layers of the heavens the sun climbs each day. Only the Ch'alish Tq'an and the most senior Ch'alishbal may climb to the summit, where the vapors of creation mingle with the open sky and the supreme rites of the Celestial Recurrence are performed. Everyone else stands below and breathes.
 
 ## The Pilgrimage
 
-Every K'ich'chik person, from the highest Tz'enmah to the lowest bound laborer, is expected to make the pilgrimage to Tz'omal Ch'alix at least once. The great festivals of the calendar—above all the New Fire ceremony that marks the turning of the 52-year cycle—draw hundreds of thousands of pilgrims and turn Kul'taq'an into a sea of people to the horizon. A priest at the precinct tells a newcomer what is at stake: to have breathed the vapors of creation in the shadow of the Tz'ultel Ch'alix is to have touched the divine, and to die without making the journey is to face the gods with an incomplete soul.
+Every K'ich'chik person, from the highest Ts'enmah to the lowest bound laborer, is expected to make the pilgrimage to Ts'omal Ch'alish at least once. The great festivals of the calendar—above all the New Fire ceremony that marks the turning of the 52-year cycle—draw hundreds of thousands of pilgrims and turn Kul'taq'an into a sea of people to the horizon. A priest at the precinct tells a newcomer what is at stake: to have breathed the vapors of creation in the shadow of the Ts'ultel Ch'alish is to have touched the divine, and to die without making the journey is to face the gods with an incomplete soul.
 
 ## See Also
 
-- [[affiliation-ixilankul|Ix'ilankul]]—the city-state that holds the precinct
+- [[affiliation-ixilankul|Ish'ilankul]]—the city-state that holds the precinct
 - [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]]—the creator's faith

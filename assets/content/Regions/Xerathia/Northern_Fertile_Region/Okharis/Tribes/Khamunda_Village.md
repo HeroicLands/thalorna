@@ -1,9 +1,9 @@
 ---
 shortcode: khamundavlg
-name: {full: Khamúnda Village, aliases: []}
+name: {full: Khamunda Village, aliases: []}
 type: place
 subType: settlement
-description: "Village of the Khamúnda tribe, one of the settled communities of Okháris."
+description: "Village of the Khamunda tribe, one of the settled communities of Okharis."
 tags: [village, draft]
 data:
   demonym: null
@@ -16,6 +16,6 @@ data:
 
 ## Overview
 
-**Khamúnda Village** is the seat of the [[affiliation-khamundatrb|Khamúnda tribe]], which owes fealty to
-[[affiliation-okharis|Okháris]]. It is one of the settled villages of
-[[place-okharisrgn|Okháris]].
+**Khamunda Village** is the seat of the [[affiliation-khamundatrb|Khamunda tribe]], which owes fealty to
+[[affiliation-okharis|Okharis]]. It is one of the settled villages of
+[[place-okharisrgn|Okharis]].

@@ -3,7 +3,7 @@ shortcode: vaelukoa
 name: {full: Vaelukoa, aliases: []}
 type: place
 subType: settlement
-description: "A reef village on Kalihara's eastern coast, between Nalurithan and the approaches off Telvári, beside a current-stone that has run intermittently for a generation, where the island's pilots are raised."
+description: "A reef village on Kalihara's eastern coast, between Nalurithan and the approaches off Telvari, beside a current-stone that has run intermittently for a generation, where the island's pilots are raised."
 tags: [village, coastal, reef, fishing]
 data:
   demonym: null
@@ -17,11 +17,11 @@ data:
 
 ## Overview
 
-Vaelukoa is the reef village of the eastern coast of [[place-klhrcntnnt|Kalihara]]. It stands on a shore of broken coral between [[place-nalurithan|Nalurithan]] and the approaches off [[place-telvari|Telvári]], behind a reef that shows as a line of white water a mile out, and the Kaliharans call the shore _vaelukoa_ (coral shore). The lineage Vaelukoa that holds it takes the name from the shore. Its houses are raised on coral blocks above the tide, and its boats are the long narrow ones that can cross a reef at the top of the water.
+Vaelukoa is the reef village of the eastern coast of [[place-klhrcntnnt|Kalihara]]. It stands on a shore of broken coral between [[place-nalurithan|Nalurithan]] and the approaches off [[place-telvari|Telvari]], behind a reef that shows as a line of white water a mile out, and the Kaliharans call the shore _vaelukoa_ (coral shore). The lineage Vaelukoa that holds it takes the name from the shore. Its houses are raised on coral blocks above the tide, and its boats are the long narrow ones that can cross a reef at the top of the water.
 
 ## The Holding
 
-The lineage Vaelukoa holds the shore, the reef and the channels through it. A work of the [[lore-theithari|Ithári]], one of the current-stones that stand on reefs and islets around the island, rises from the reef a short way offshore, and near it the currents run wrong for anyone who does not know them. The lineage knows them, and the village has been the cradle of pilots for as long as the approaches have had a Warden: a child of Vaelukoa learns the channels with the first boat, and the pilots who bring foreign hulls in past Telvári are drawn from its households more than from any other. The custodians out of [[place-thalari|Thal'ari]] tend the stone and live in the village in the dry months.
+The lineage Vaelukoa holds the shore, the reef and the channels through it. A work of the [[lore-theithari|Ithari]], one of the current-stones that stand on reefs and islets around the island, rises from the reef a short way offshore, and near it the currents run wrong for anyone who does not know them. The lineage knows them, and the village has been the cradle of pilots for as long as the approaches have had a Warden: a child of Vaelukoa learns the channels with the first boat, and the pilots who bring foreign hulls in past Telvari are drawn from its households more than from any other. The custodians out of [[place-thalari|Thal'ari]] tend the stone and live in the village in the dry months.
 
 ## The Failing
 
@@ -29,7 +29,7 @@ The current-stone has run intermittently for a generation. It is gray and gives 
 
 ## What Is Seen from It
 
-The reef and the stone beyond it, a gray swelling just awash at the half tide. East of it, open sea; to the north on a clear day the islet of Telvári stands on the horizon.
+The reef and the stone beyond it, a gray swelling just awash at the half tide. East of it, open sea; to the north on a clear day the islet of Telvari stands on the horizon.
 
 ## The Cost of Reaching It
 
@@ -37,7 +37,7 @@ The village lies a day along the coast path from Nalurithan, through mangrove an
 
 ## See Also
 
-- [[place-telvari|Telvári]]—the pilots' islet to the north
+- [[place-telvari|Telvari]]—the pilots' islet to the north
 - [[place-nalurithan|Nalurithan]]—the second port, down the coast
 - [[place-thalari|Thal'ari]]—the sanctuary whose custodians tend the current-stones
 - [[place-kaliharargn|Kalihara Region]]—the island's country

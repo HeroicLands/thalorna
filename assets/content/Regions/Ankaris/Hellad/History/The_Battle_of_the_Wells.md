@@ -18,7 +18,7 @@ data:
         - place-thirstground
         - place-khzryndsrtrgn
       summary: >-
-        A great host from the steppe, which the eastern records call a khanate, comes over the passes in late summer, when the springs are lowest. The five eastern cities muster under Strátimos Ghéranîdês of the pass-city and wall the springs of the foothills instead of meeting the host in the open. The host breaks itself on the spring-forts over eleven days and dies between them, of arrows and of thirst, in the dry country below the passes. No eastern record names its khan.
+        A great host from the steppe, which the eastern records call a khanate, comes over the passes in late summer, when the springs are lowest. The five eastern cities muster under Strátimos Ghéranides of the pass-city and wall the springs of the foothills instead of meeting the host in the open. The host breaks itself on the spring-forts over eleven days and dies between them, of arrows and of thirst, in the dry country below the passes. No eastern record names its khan.
       standing: reconstructed
       names: [{name: the Eleven Days, by: place-eastrnmrch}]
       where:
@@ -62,7 +62,7 @@ In the summer of 158 BF a host of the steppe came up out of the Khazryn and over
 
 ## The Walling of the Springs
 
-The five eastern cities mustered under **Strátimos Ghéranîdês** of the pass-city. He did not take the host in the open, where it would have had the advantage of every horse it rode. He walled the springs. Each spring of the foothills was ringed with a fort of stone and turf, garrisoned and stocked, and the host found that every water it could reach lay under arrows.
+The five eastern cities mustered under **Strátimos Ghéranides** of the pass-city. He did not take the host in the open, where it would have had the advantage of every horse it rode. He walled the springs. Each spring of the foothills was ringed with a fort of stone and turf, garrisoned and stocked, and the host found that every water it could reach lay under arrows.
 
 The fighting went on for eleven days. The host attacked the spring-forts one after another and took none. Its horses and riders died of arrows at the walls and then of thirst in the open ground between them, in the dry country below the passes, and the survivors went back toward the steppe by the way they had come.
 
@@ -70,7 +70,7 @@ The fighting went on for eleven days. The host attacked the spring-forts one aft
 
 - **The Thirsting Ground**, the [[place-thirstground|blood-field]] in the foothills, where the host's dead lay unburied between the forts.
 - **The spring-forts**, which are the Eastern March's forts, still built on springs.
-- **Argýrteíkhos's walls**, rebuilt thicker in the years after the host.
+- **Argirteikhos's walls**, rebuilt thicker in the years after the host.
 - **The passes held in common.** The five cities kept the garrisons they had mustered, and [[lore-heladcompact|the Compact]] made the practice a law the next year.
 - **The March's saying**, that an army from the east dies before it reaches the walls.
 

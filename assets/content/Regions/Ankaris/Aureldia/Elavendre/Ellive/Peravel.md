@@ -3,7 +3,7 @@ shortcode: beravel
 name: {full: Péravel, aliases: []}
 type: place
 subType: settlement
-description: "The capital of Élavendre—a river metropolis fifteen miles up the Bérav from the sea, seat of the crown, and home of the largest Plûmepistémion campus outside the Vylarian Empire."
+description: "The capital of Élavendre—a river metropolis fifteen miles up the Berav from the sea, seat of the crown, and home of the largest Epistémion campus outside the Vylarian Empire."
 tags: [city, port, river]
 data:
   demonym: null
@@ -14,10 +14,10 @@ data:
   government: kngdmlvndr
 ---
 
-**Péravel** stands on the [[place-beravriver|Bérav]] some **fifteen miles up from the western sea**, at
+**Péravel** stands on the [[place-beravriver|Berav]] some **fifteen miles up from the western sea**, at
 the point where the tide stops and sea-going hulls must give way to barges. It is the capital of
 [[affiliation-kngdmlvndr|Élavendre]], the largest city in the kingdom at around fifty-five thousand
-people, and the reason [[place-ellive|Éllivë]] is arranged the way it is.
+people, and the reason [[place-ellive|Éllive]] is arranged the way it is.
 
 The city takes its name from the river, not the other way about.
 
@@ -33,9 +33,9 @@ always mention and residents never do.
 
 ## The University
 
-The **University of Péravel** is the largest [[affiliation-panepistmm|Plûmepistémion]] campus outside
-the [[affiliation-vylarinmpr|Vylarian Empire]], with several Zûlêthâlon (fellowship) chapterhouses, and it makes the
-capital the center of the [[affiliation-ordoarcanis|Thôrdimâlon]]'s presence in the kingdom. The University's oldest court is the house the Empire's _phêlzândôs_ (legate) took after the treaty ([[lore-elvtribute|The Tribute of Élavendre]]).
+The **University of Péravel** is the largest [[affiliation-panepistmm|Epistémion]] campus outside
+the [[affiliation-vylarinmpr|Vylarian Empire]], with several Zulen (fellowship) chapterhouses, and it makes the
+capital the center of the [[affiliation-ordoarcanis|Thordimalon]]'s presence in the kingdom. The University's oldest court is the house the Empire's _felzos_ (legate) took after the treaty ([[lore-elvtribute|The Tribute of Élavendre]]).
 
 It also makes Péravel the field on which the kingdom's central quarrel is fought. The
 [[affiliation-bardicolgs|Bardic Colleges]], the Grove Council and the Áelendan tradition all keep
@@ -47,8 +47,8 @@ rather than through anything worse. The city's booksellers do very well out of t
 
 Everything the kingdom produces passes through. Wool and iron come down from
 [[place-auldalon|Áuldalon]], the little metal and gemstone that [[place-sorvanda|Sórvanda]] releases comes
-down with it, timber and dye come round the coast from [[place-lirve|Lírvë]], and salt-fish comes
-south from [[place-lisere|Líserë]].
+down with it, timber and dye come round the coast from [[place-lirve|Lirve]], and salt-fish comes
+south from [[place-lisere|Lísere]].
 
 What leaves is worth far more than what arrives, because Péravel is where it is worked: goldsmiths and
 gem-cutters who have made an art of using almost no metal, instrument-makers, weavers, glasshouses, and
@@ -57,4 +57,4 @@ this traffic.
 
 ## See Also
 
-- [[place-ellive|Éllivë]] · [[place-beravriver|The Bérav]] · [[affiliation-kngdmlvndr|Kingdom of Élavendre]]
+- [[place-ellive|Éllive]] · [[place-beravriver|The Berav]] · [[affiliation-kngdmlvndr|Kingdom of Élavendre]]

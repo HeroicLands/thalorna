@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [garanlaghet]
-  affiliations: {empireakhlth: {rank: 3}, gewaatis: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, gewaatis: {rank: 1}}
   gender: female
   species: humanflk
   born: "674.100"
@@ -428,11 +428,11 @@ Mertelu stands 6'0" tall with a medium build. She has dark weathered skin, grey 
 
 # Dossier {#dossier}
 
-Mertelu was born in one of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s coastal villages, the daughter of a fisher woman and a dockworker. As a young girl, she witnessed the great igelu inundation and the fertility cycles that governed her people's lives, learning early the rhythms of labor and duty. At sixteen, she was taken into service by a merchant family's household, initially as a laundress. Her natural gifts for organization and her authority over other servants led to rapid advancement. By her early twenties, she had been promoted to head housekeeper, a position she maintained for over two decades through sheer competence and an unshakeable commitment to excellence.
+Mertelu was born in one of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s coastal villages, the daughter of a fisher woman and a dockworker. As a young girl, she witnessed the great igelu inundation and the fertility cycles that governed her people's lives, learning early the rhythms of labor and duty. At sixteen, she was taken into service by a merchant family's household, initially as a laundress. Her natural gifts for organization and her authority over other servants led to rapid advancement. By her early twenties, she had been promoted to head housekeeper, a position she maintained for over two decades through sheer competence and an unshakeable commitment to excellence.
 
-The tattoo on her shoulder—a falcon in flight—marks her devotion to Gewa'âtis, god of the voyager and horizon. She received it in a moment of youthful rebellion, a secret act of faith and defiance against a former employer who forbade personal religious expression. That same employer is long dead, but Mertelu has never regretted the mark, wearing it as a reminder that even servants possess their own dignity and will.
+The tattoo on her shoulder—a falcon in flight—marks her devotion to Gewa'atis, god of the voyager and horizon. She received it in a moment of youthful rebellion, a secret act of faith and defiance against a former employer who forbade personal religious expression. That same employer is long dead, but Mertelu has never regretted the mark, wearing it as a reminder that even servants possess their own dignity and will.
 
-Currently, she serves the household of Lord [[being-zabeglegezu2|Zâbeglegezu]], a wealthy official of the second rank. She has managed his domestic affairs for the past twelve years without a flaw. Her position is secure, her authority within the staff absolute, and her life ordered by the rhythms of service.
+Currently, she serves the household of Lord [[being-zabeglegezu2|Zabeglegezu]], a wealthy official of the second rank. She has managed his domestic affairs for the past twelve years without a flaw. Her position is secure, her authority within the staff absolute, and her life ordered by the rhythms of service.
 
 ## Psyche
 
@@ -444,7 +444,7 @@ She is neither warm nor cruel, but precisely calibrated. To those who serve well
 
 ### Motivation
 
-Mertelu serves because service is the structure that gives her life meaning. She takes satisfaction in creating and maintaining perfect order, in running a household where everything operates with the precision of gears in a watermill. She is driven by pride in her work and by a deep, unexamined belief that a well-ordered household is a reflection of cosmic harmony. She serves Gewa'âtis not through flashy piety but through the daily practice of her labor—the voyager god guides travelers across unknown seas, and she guides her household through the uncertain waters of daily life.
+Mertelu serves because service is the structure that gives her life meaning. She takes satisfaction in creating and maintaining perfect order, in running a household where everything operates with the precision of gears in a watermill. She is driven by pride in her work and by a deep, unexamined belief that a well-ordered household is a reflection of cosmic harmony. She serves Gewa'atis not through flashy piety but through the daily practice of her labor—the voyager god guides travelers across unknown seas, and she guides her household through the uncertain waters of daily life.
 
 She has no ambition to rise beyond her station, nor does she resent her position. She has built a domain of power within the household that is real and substantial; she needs nothing more.
 
@@ -468,10 +468,10 @@ She has no ambition to rise beyond her station, nor does she resent her position
 
 ### Patrons
 
-Lord [[being-zabeglegezu2|Zâbeglegezu]]
+Lord [[being-zabeglegezu2|Zabeglegezu]]
 : Her employer and the man who has granted her stable, respectful employment for over a decade. Their relationship is formal but based on mutual regard.
 
-The Lut-Gewa'âtis at Aû'Khelâthu
+The Lut-Gewa'atis at Au'Khelathu
 : She donates a portion of her wages to the temple and receives their blessing in return.
 
 ### Enemies
@@ -484,23 +484,23 @@ Disgraced Former Servants
 
 ### Affiliations
 
-[[affiliation-lutzabeklegz|Lut-Zâbeklegezu]]
+[[affiliation-lutzabeklegz|Lut-Zabeklegezu]]
 : Her primary loyalty and the source of her identity.
 
 [[affiliation-linlemuglzkr|Lin'Lemu elu Galezkara]]
 : An informal network of household managers and senior servants who share knowledge about household management and mutual protection.
 
-[[affiliation-lutgewaatis|The Lut-Gewa'âtis]]
+[[affiliation-lutgewaatis|The Lut-Gewa'atis]]
 : A devotional order where she worships and maintains her private religious practice.
 
 ## Plot Hooks
 
-1. **The Missing Seal Ring**: Lord Zâbeglegezu's personal seal ring, used to authorize documents of significant importance, has disappeared from the household. Only a handful of servants know where it is kept, and Mertelu knows them all. Her investigation reveals that one of the servants has been replaced by someone who looks similar—possibly a twin, possibly something far stranger. Mertelu must determine if this is a simple substitution, an act of espionage, or something darker. Meanwhile, Lord Zâbeglegezu grows increasingly anxious about the missing ring's implications.
+1. **The Missing Seal Ring**: Lord Zabeglegezu's personal seal ring, used to authorize documents of significant importance, has disappeared from the household. Only a handful of servants know where it is kept, and Mertelu knows them all. Her investigation reveals that one of the servants has been replaced by someone who looks similar—possibly a twin, possibly something far stranger. Mertelu must determine if this is a simple substitution, an act of espionage, or something darker. Meanwhile, Lord Zabeglegezu grows increasingly anxious about the missing ring's implications.
 
-2. **The Poisoned Well**: Several members of the household fall mysteriously ill with symptoms suggesting contamination. Mertelu's suspicion falls upon the water supply, but her investigation reveals that the well has been deliberately tampered with. Someone inside the household—someone with access to the sealed storage areas—has done this. The question is why, and more urgently, who? Mertelu must identify the saboteur before the illness spreads further, knowing that her discovery will expose the household's vulnerability and possibly bring scandal upon Lord Zâbeglegezu.
+2. **The Poisoned Well**: Several members of the household fall mysteriously ill with symptoms suggesting contamination. Mertelu's suspicion falls upon the water supply, but her investigation reveals that the well has been deliberately tampered with. Someone inside the household—someone with access to the sealed storage areas—has done this. The question is why, and more urgently, who? Mertelu must identify the saboteur before the illness spreads further, knowing that her discovery will expose the household's vulnerability and possibly bring scandal upon Lord Zabeglegezu.
 
-3. **The Visiting Scholar**: A young scholar arrives at the household as a guest of Lord Zâbeglegezu's family, claiming to be researching domestic practices in noble households. Mertelu finds her oddly inquisitive, asking detailed questions about the household's layout, the servants' relationships, supply routes, and the lord's daily patterns. When Mertelu discovers that this scholar is actually an agent working for a competing noble house, she must decide whether to confront the woman, expose her to the lord, or use this discovery to her advantage in the household's internal politics.
+3. **The Visiting Scholar**: A young scholar arrives at the household as a guest of Lord Zabeglegezu's family, claiming to be researching domestic practices in noble households. Mertelu finds her oddly inquisitive, asking detailed questions about the household's layout, the servants' relationships, supply routes, and the lord's daily patterns. When Mertelu discovers that this scholar is actually an agent working for a competing noble house, she must decide whether to confront the woman, expose her to the lord, or use this discovery to her advantage in the household's internal politics.
 
-4. **The Lost Child**: A servant girl under Mertelu's supervision becomes pregnant and, in desperation, seeks Mertelu's help. Custom and law dictate that Mertelu should report this to Lord Zâbeglegezu immediately. Yet the girl came to her with tears and trust, asking for shelter during the pregnancy and help finding a safe place for the child. Mertelu, for the first time in her adult life, must choose between her absolute adherence to order and a human compassion she thought she had long since mastered. Her decision will set her on a path that challenges everything she believes about duty and propriety.
+4. **The Lost Child**: A servant girl under Mertelu's supervision becomes pregnant and, in desperation, seeks Mertelu's help. Custom and law dictate that Mertelu should report this to Lord Zabeglegezu immediately. Yet the girl came to her with tears and trust, asking for shelter during the pregnancy and help finding a safe place for the child. Mertelu, for the first time in her adult life, must choose between her absolute adherence to order and a human compassion she thought she had long since mastered. Her decision will set her on a path that challenges everything she believes about duty and propriety.
 
-5. **The Restoration of the Old Manor**: Lord Zâbeglegezu inherits an ancient estate in the provinces, fallen into disrepair for decades, and assigns Mertelu the task of restoring it to habitable condition. Arriving at the site with a team of workers, Mertelu discovers evidence that the manor was not abandoned naturally—something drove the previous inhabitants away, and not cleanly. Strange symbols are carved into certain thresholds, rooms contain inexplicable arrangements, and the local peasants refuse to work after sunset. Mertelu must restore order to a place where order may have been deliberately destroyed, and in doing so, she may uncover secrets that powerful people wish to remain buried.
+5. **The Restoration of the Old Manor**: Lord Zabeglegezu inherits an ancient estate in the provinces, fallen into disrepair for decades, and assigns Mertelu the task of restoring it to habitable condition. Arriving at the site with a team of workers, Mertelu discovers evidence that the manor was not abandoned naturally—something drove the previous inhabitants away, and not cleanly. Strange symbols are carved into certain thresholds, rooms contain inexplicable arrangements, and the local peasants refuse to work after sunset. Mertelu must restore order to a place where order may have been deliberately destroyed, and in doing so, she may uncover secrets that powerful people wish to remain buried.

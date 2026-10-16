@@ -1,6 +1,6 @@
 ---
 shortcode: kulqattzumul
-name: {full: "Kul'qat Tz'umul", aliases: [The Red Steps]}
+name: {full: "Kul'qat Ts'umul", aliases: [The Red Steps]}
 type: place
 subType: site
 description: "A forgotten binding temple of the storm-serpent on the eastern slopes of Ne'ok Ba'ate, whose red stair climbs out of the rainforest to a sanctuary built over something the builders were told to keep."
@@ -10,9 +10,9 @@ data: {demonym: null, lore: [], parents: [neokbaatergn], population: 0, packFold
 
 ## Overview
 
-On the eastern slopes of [[place-neokbaatergn|Ne'ok Ba'ate]], where the rains come in off the sea and fall for half the year, a stepped platform rises out of the rainforest on the shoulder of an old volcano. Its stair was plastered red once, and the plaster still holds in long runs between the roots, so that the steps show red through the green from the valley below. The builders called it **Kul'qat Tz'umul**, the red pyramid, _kul'qat_ the sacred peak and _tz'umul_ red. The few who know the valley call it the Red Steps.
+On the eastern slopes of [[place-neokbaatergn|Ne'ok Ba'ate]], where the rains come in off the sea and fall for half the year, a stepped platform rises out of the rainforest on the shoulder of an old volcano. Its stair was plastered red once, and the plaster still holds in long runs between the roots, so that the steps show red through the green from the valley below. The builders called it **Kul'qat Ts'umul**, the red pyramid, _kul'qat_ the sacred peak and _ts'umul_ red. The few who know the valley call it the Red Steps.
 
-It is a binding temple of [[affiliation-puqilchaqun|P'uqil Ch'aqun]]: walls far thicker than they need be, a sanctum anchored into the bedrock of the slope, and an interior that was once packed with offerings to keep the storm-serpent sated. The serpent-keepers lodged duplicate codices in its sealed chamber, as they do in every such temple, so that something of the count would survive the end of the age. When the city that kept it lost the road to it, the temple was shut, and the rainforest took the road.
+It is a binding temple of [[affiliation-puqilchaqun|P'uqil Ch'akun]]: walls far thicker than they need be, a sanctum anchored into the bedrock of the slope, and an interior that was once packed with offerings to keep the storm-serpent sated. The serpent-keepers lodged duplicate codices in its sealed chamber, as they do in every such temple, so that something of the count would survive the end of the age. When the city that kept it lost the road to it, the temple was shut, and the rainforest took the road.
 
 ## The Building
 
@@ -48,7 +48,7 @@ The builder-priests hold that the continent's [[lore-dreadspawncrtr|dreadspawn]]
 
 The builders' entry for it describes what it does. It is heavy enough to crack a stair it crosses, and it moves with the long scrape of stone dragged on stone. It does not strike. It lies upon what it takes, and what it lies upon is crushed evenly, the bones broken small inside a skin that is not torn and armor that is barely marked. It can pass through a gap a hand high, and it takes what it catches into passages no person could follow it through. Lamp flames lean toward it before it arrives, as if the air were being drawn after it. It is drawn to blood spilled on stone. It keeps to the stone the builders laid, and it has never been seen off it.
 
-The Warden of the Ruins at **Ne' Tz'umul** keeps the register of this temple, and the register records the guardian as failed, its offerings ended and its works presumed dead.
+The Warden of the Ruins at **Ne' Ts'umul** keeps the register of this temple, and the register records the guardian as failed, its offerings ended and its works presumed dead.
 
 :::secret {title="The register"}
 The register is wrong. The guardian never failed. With the Storm's Eye lying in its box and no offerings coming down the shaft, it lay still in the chamber for so long that the builders who last looked in took the stillness for death. It wakes when the Eye is moved, and it is hungry.
@@ -56,7 +56,7 @@ The register is wrong. The guardian never failed. With the Storm's Eye lying in 
 
 ## Who Knows of It
 
-- **The serpent-keepers of Ne' Tz'umul** know the temple holds duplicate codices and a seal-stone of their branch, the **Storm's Eye**, and that the seal-stone has not been presented for inspection at the turning of the Tz'uqal Cycle since the temple was shut.
+- **The serpent-keepers of Ne' Ts'umul** know the temple holds duplicate codices and a seal-stone of their branch, the **Storm's Eye**, and that the seal-stone has not been presented for inspection at the turning of the Ts'uqal Cycle since the temple was shut.
 - **The Warden of the Ruins** keeps the register that calls the guardian dead.
 - **The hunters of the valley** do not walk on old paving anywhere on the slope, and they say so as a rule of the forest rather than as a story.
 
@@ -68,11 +68,11 @@ By the eastern trail from the highland valleys toward the coast, which climbs th
 
 - [[scenario-redstepsrainfst|The Red Steps in the Eastern Rainforest]]—a scenario set here
 - [[place-neokbaatergn|Ne'ok Ba'ate Region]]—the isthmus and its eastern rainforest
-- [[affiliation-puqilchaqun|Faith of P'uqil Ch'aqun]]—the serpent-keepers whose temple it is
+- [[affiliation-puqilchaqun|Faith of P'uqil Ch'akun]]—the serpent-keepers whose temple it is
 - [[affiliation-piqalkulqat|Faith of P'iqal Kul'qat]]—the builder-priests who raised it and keep its register
 - [[lore-dreadspawncrtr|Dreadspawn]]—the Living Works of the Builder
 
-# The Truth of Kul'qat Tz'umul {#truth .secret}
+# The Truth of Kul'qat Ts'umul {#truth .secret}
 
 **The guardian.** Ch'al Kul'iq is what the builders' entry describes, and alive. It is one of a kind: a curve of gray hide plated like river-stone, wider than the doorways it passes, with no face the carvings show and none a witness can describe. It feels a tread on stone, and a still body on stone is hard for it to find. It has wits of its own, and it does not cross the shaft lid twice in the same way. Once it has fed it draws back below and lies still for a long while.
 
@@ -85,17 +85,17 @@ By the eastern trail from the highland valleys toward the coast, which climbs th
 - **The register.** False, for the reason above.
 - **The rayed disk is a sun-sign.** False. It is the Eye on the lid.
 
-**What happened.** The serpent-keepers of Ne' Tz'umul sent **Ix'mel Tz'uma Ch'upul**, a Warden of the Sealed Chambers, to bring back the Storm's Eye and the codices before the seals are next inspected. She came with the boy attendant **Tz'ilil Nal'ik**, two guards of the household, **Tz'okum Ne'ok** and **Ch'imik Ha'nal**, and porters with an empty chest. She trusted the register, and she did not tell the porters what the carvings showed, because she did not believe them.
+**What happened.** The serpent-keepers of Ne' Ts'umul sent **Ish'mel Ts'uma Ch'upul**, a Warden of the Sealed Chambers, to bring back the Storm's Eye and the codices before the seals are next inspected. She came with the boy attendant **Ts'ilil Nal'ik**, two guards of the household, **Ts'okum Ne'ok** and **Ch'imik Ha'nal**, and porters with an empty chest. She trusted the register, and she did not tell the porters what the carvings showed, because she did not believe them.
 
-The porters raised the barrier from the gallery, and Ix'mel went down the stair alone with a lamp and her satchel. The codices lay in a stone box on a shelf at the back of the vault, and beside it the Eye in its own box under a lid of jade. She lifted the Eye and put it in her satchel. Something in the offerings moved. She ran, and it came up the stair behind her; at the top she shouted, and the porters drew the pin. The slab came down, the obsidian pin broke in its socket, and the slab jammed a hand short of the floor. The porter who had held the lamp at the stair-head was clipped by its edge, and the guardian reached under the gap and drew him in. His bloody footprints end at the slab.
+The porters raised the barrier from the gallery, and Ish'mel went down the stair alone with a lamp and her satchel. The codices lay in a stone box on a shelf at the back of the vault, and beside it the Eye in its own box under a lid of jade. She lifted the Eye and put it in her satchel. Something in the offerings moved. She ran, and it came up the stair behind her; at the top she shouted, and the porters drew the pin. The slab came down, the obsidian pin broke in its socket, and the slab jammed a hand short of the floor. The porter who had held the lamp at the stair-head was clipped by its edge, and the guardian reached under the gap and drew him in. His bloody footprints end at the slab.
 
-Ch'al Kul'iq went back down and out by the culvert. The porters had already fled down the red stair, and it took them on the paving below; one hand lies on the lowest stair. It came up the stair to the gate at the top of the first flight and lay on Ch'imik there. Tz'okum fell on the stair as he ran and broke his arm, and it did not turn for him. Fed four times, it went back below and lay still in the pit beneath the shaft, where it has lain since.
+Ch'al Kul'iq went back down and out by the culvert. The porters had already fled down the red stair, and it took them on the paving below; one hand lies on the lowest stair. It came up the stair to the gate at the top of the first flight and lay on Ch'imik there. Ts'okum fell on the stair as he ran and broke his arm, and it did not turn for him. Fed four times, it went back below and lay still in the pit beneath the shaft, where it has lain since.
 
-**Where everyone is.** **Ix'mel** is in the gallery inside the wall, trying to drive a hardwood pin into the socket where the obsidian one broke, with a bad cut on her forearm from the slab. The Eye is in her satchel, and the satchel does not leave her hand. **Tz'ilil** is wedged in a niche between two pillars in the sanctuary. He saw the Eye in her hand when she came up the stair, and she has told him to say nothing of it. **Tz'okum** sits halfway up the red stair with his spear, his broken arm bound in his belt and a fever coming on, keeping the stair as he was told. **Ch'imik** lies face down by the gate. **The jade box** in the vault is empty; the codices are still in theirs.
+**Where everyone is.** **Ish'mel** is in the gallery inside the wall, trying to drive a hardwood pin into the socket where the obsidian one broke, with a bad cut on her forearm from the slab. The Eye is in her satchel, and the satchel does not leave her hand. **Ts'ilil** is wedged in a niche between two pillars in the sanctuary. He saw the Eye in her hand when she came up the stair, and she has told him to say nothing of it. **Ts'okum** sits halfway up the red stair with his spear, his broken arm bound in his belt and a fever coming on, keeping the stair as he was told. **Ch'imik** lies face down by the gate. **The jade box** in the vault is empty; the codices are still in theirs.
 
-**Why Ix'mel says she never reached it.** The porters died for the Eye, and her branch's standing at the next inspection rests on presenting it before witnesses of two other branches. If she admits she carries it, someone will make her give it up: lay it on the lid, or throw it down the shaft. She means to reach the river landing, where the paving ends at the water, and take the Warden's canoe downriver with the Eye. She has seen the guardian come after her once, and she tells herself it was the lamp.
+**Why Ish'mel says she never reached it.** The porters died for the Eye, and her branch's standing at the next inspection rests on presenting it before witnesses of two other branches. If she admits she carries it, someone will make her give it up: lay it on the lid, or throw it down the shaft. She means to reach the river landing, where the paving ends at the water, and take the Warden's canoe downriver with the Eye. She has seen the guardian come after her once, and she tells herself it was the lamp.
 
-**What else the vault holds.** Generations of offerings lie where they were thrown down the shaft or carried in: jade ear-spools, pendants and plaques of ritual quality, gold vessels, obsidian blades of fine work, cloth rotted to dust, and bones. Some of it runs the temple. The rack of long obsidian blades by the stair holds spare pins for the barrier and the lid, and the jade weights in the wall niches are the counterweights' trim; without them the barrier and the pit gate cannot hold. The codices are the serpent-keepers' calculations of the end of the age, worth more to the branch than the rest of the chamber together, and more again to the [[affiliation-tzumaqkalanil|Tz'umaq K'alanil]].
+**What else the vault holds.** Generations of offerings lie where they were thrown down the shaft or carried in: jade ear-spools, pendants and plaques of ritual quality, gold vessels, obsidian blades of fine work, cloth rotted to dust, and bones. Some of it runs the temple. The rack of long obsidian blades by the stair holds spare pins for the barrier and the lid, and the jade weights in the wall niches are the counterweights' trim; without them the barrier and the pit gate cannot hold. The codices are the serpent-keepers' calculations of the end of the age, worth more to the branch than the rest of the chamber together, and more again to the [[affiliation-tzumaqkalanil|Ts'umaq K'alanil]].
 
 > [!WARNING]
 > The Eye is the one fact that turns everything else at the temple over. Describe where the guardian goes, never whom it hunts, and let the Eye's whereabouts explain it.

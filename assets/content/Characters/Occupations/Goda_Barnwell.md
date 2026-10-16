@@ -1,6 +1,6 @@
 ---
 shortcode: godabarnwl
-name: {full: Goda Barnwell, aliases: []}
+name: {full: Osrun Barnwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Goda Barnwell is a 25-year-old woman who stands 5'7" tall and is slender. She has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. Her deep-set green eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and firm lips complete her features. She has fair skin with a weathered complexion. Her black hair is adorned with simple pins.
+Osrun Barnwell is a 25-year-old woman who stands 5'7" tall and is slender. She has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. Her deep-set green eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and firm lips complete her features. She has fair skin with a weathered complexion. Her black hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Goda Barnwell is a potter.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Osrun Barnwell is a potter.
 
-Goda is a talented potter with a passion for creating vibrant and colorful pottery. She specializes in glazing techniques and often incorporates artistic designs into her work. Goda enjoys experimenting with new colors and patterns, pushing the boundaries of traditional pottery. Her shop is a favorite among locals for its unique offerings, and she frequently collaborates with other artists for special projects.
+Osrun is a talented potter with a passion for creating vibrant and colorful pottery. She specializes in glazing techniques and often incorporates artistic designs into her work. Osrun enjoys experimenting with new colors and patterns, pushing the boundaries of traditional pottery. Her shop is a favorite among locals for its unique offerings, and she frequently collaborates with other artists for special projects.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ Can be overly ambitious, struggles with time management.
 
 ### Motivation
 
-Goda wants her experimental glazes and designs to find a market, while keeping each project within the time she has for it.
+Osrun wants her experimental glazes and designs to find a market, while keeping each project within the time she has for it.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ Creative, skilled in glazing techniques, good at marketing her work.
 
 ## Social
 
-Goda is affiliated with Local Artisans' Guild.
+Osrun is affiliated with Local Artisans' Guild.
 
 ## Companions
 
 ### Patrons
 
-Art collectors and local families seek Goda's pottery.
+Art collectors and local families seek Osrun's pottery.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Few; generally well-liked, though some traditionalists may disapprove of her sty
 
 ## Plot Hooks
 
-1. **The Potter's Dilemma**—Goda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Potter's Dilemma**—Osrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Old Grudges**—Few; generally well-liked, though some traditionalists may disapprove of her style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Goda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Osrun's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Goda depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Osrun depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Goda the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Osrun the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

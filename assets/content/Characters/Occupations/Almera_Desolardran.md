@@ -1,6 +1,6 @@
 ---
 shortcode: almrdslrdrn
-name: {full: Álmera Desolárdran, aliases: []}
+name: {full: Álmera Desolardran, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -389,11 +389,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Álmera Desolárdran is a 24-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with prominent cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her piercing dark brown eyes sit beneath prominent brows, lending her a penetrating gaze. A strong nose and full lips complete her features. She has olive-tanned skin with a ruddy complexion. Her dark brown hair is gathered in a practical bun.
+Álmera Desolardran is a 24-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with prominent cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her piercing dark brown eyes sit beneath prominent brows, lending her a penetrating gaze. A strong nose and full lips complete her features. She has olive-tanned skin with a ruddy complexion. Her dark brown hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Álmera Desolárdran came into the world of the caravan guard through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Álmera Desolardran came into the world of the caravan guard through a combination of circumstance and aptitude.
 
 Álmera has worked as a caravan guard for several years, known for her agility and keen senses. She specializes in scouting ahead of the caravan to detect any potential dangers. Her quick reflexes and sharp wit make her a useful asset on the road. Álmera is determined to prove herself in a traditionally male-dominated field and often takes the initiative in training younger guards.
 
@@ -415,7 +415,7 @@ Agile and quick, skilled in stealth, strong at reconnaissance.
 
 Álmera is affiliated with Local Mercenaries' Guild.
 
-As a Tarvénan caravan guard, Álmera occupies a recognized social niche within Tarvénia society.
+As a Tarvenan caravan guard, Álmera occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 

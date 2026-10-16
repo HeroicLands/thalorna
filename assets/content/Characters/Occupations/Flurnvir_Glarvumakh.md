@@ -1,6 +1,6 @@
 ---
 shortcode: flrnvrglrvmkh
-name: {full: Flurnvir Glarvumakh, aliases: []}
+name: {full: Flurnvir Glarvumak, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -393,11 +393,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Flurnvir Glarvumakh is a 31-year-old man who stands 5'6" tall and is of moderate build. He has an oval face with wide-set cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and curved lips complete his features. He has light skin with a weathered complexion. His red hair is pulled back in a warrior's knot.
+Flurnvir Glarvumak is a 31-year-old man who stands 5'6" tall and is of moderate build. He has an oval face with wide-set cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and curved lips complete his features. He has light skin with a weathered complexion. His red hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn heritage, Flurnvir Glarvumakh came into the world of the jeweler through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn heritage, Flurnvir Glarvumak came into the world of the jeweler through a combination of circumstance and aptitude.
 
 Flurnvir comes from a family of skilled artisans and has dedicated his life to mastering the art of gem cutting and jewelry making. He is known for his attention to detail and ability to bring out the beauty of each stone he works with. Flurnvir runs his own shop, where he creates exquisite pieces that attract both commoners and nobles alike. His passion for his craft is evident in every piece he produces.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: nuoworoth
-name: {full: Nuòwōroth, aliases: []}
+name: {full: Nuoworoth, aliases: []}
 type: being
 subType: creature
 description: "A giant flightless carrion bird ruling barren rocky wastes, savagely territorial and attacking any intruder that crosses into its badland domain."
@@ -235,13 +235,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[nuoworoth|Nuòwōroth]]{float=top-left}
+![[nuoworoth|Nuoworoth]]{float=top-left}
 
 The ravine smells of carrion long before you see the bones: a heap of them against the rock wall, cracked and scraped white, goat and ass and something with a skull too round for either. Then the boulder beside the heap stands up. It is a bird, black and seven feet tall, with a bare gray-and-red head on a long wrinkled neck and a hooked beak as long as your forearm, stained dark to the nostrils. It spreads a pair of short, heavy wings wide, not to fly but to make itself bigger, and hisses with a rattle in the throat. Then it starts toward you, and its feet click on the stone.
 
 # Dossier {#dossier}
 
-The Nuòwōroth is the great flightless carrion bird of the Khazryn's stone uplands: seven feet tall, twelve from beak to tail, four hundred pounds, black-feathered with a bare, leathery head and a foot-long hooked beak. It eats the dead of the badlands—goats, wild asses, fallen camels and fallen men—and it kills to defend the ground it eats on. Each bird holds a long stretch of ravine and broken plateau as its own and attacks anything that walks into it, by leaping from behind a rock with no warning but the smell. It is the bird the guides mean when they tell a party on the black rock to keep to the track and to turn back from any ravine with bones at its mouth.
+The Nuoworoth is the great flightless carrion bird of the Khazryn's stone uplands: seven feet tall, twelve from beak to tail, four hundred pounds, black-feathered with a bare, leathery head and a foot-long hooked beak. It eats the dead of the badlands—goats, wild asses, fallen camels and fallen men—and it kills to defend the ground it eats on. Each bird holds a long stretch of ravine and broken plateau as its own and attacks anything that walks into it, by leaping from behind a rock with no warning but the smell. It is the bird the guides mean when they tell a party on the black rock to keep to the track and to turn back from any ravine with bones at its mouth.
 
 ## Presentation
 
@@ -249,7 +249,7 @@ A massive running bird built on the lines of a great ratite, deep-bodied on two 
 
 ## In the Land
 
-Nuòwōroths live in the stone uplands and badlands of the Khazryn: the mesas and dry ravines of the [[place-dkrqrrgn|Diqraqor]], where the rock is black enough to hide them, and the broken ridges of the eastern stone desert of [[place-idwkrrgn|Idvaqor]]. Each holds a range of several miles of ravine and rock-shelf and walks its edges, and marks them with heaps of cleaned bones, claw-scored boulders and the stench of old kills. They are not found on open sand, where there is nothing to hide behind, nor in the mountains above. A ravine that a nuòwōroth holds is one the plateau tribes do not graze, and a track that runs through one is a track the guides go round.
+Nuoworoths live in the stone uplands and badlands of the Khazryn: the mesas and dry ravines of the [[place-dkrqrrgn|Diqraqor]], where the rock is black enough to hide them, and the broken ridges of the eastern stone desert of [[place-idwkrrgn|Idvaqor]]. Each holds a range of several miles of ravine and rock-shelf and walks its edges, and marks them with heaps of cleaned bones, claw-scored boulders and the stench of old kills. They are not found on open sand, where there is nothing to hide behind, nor in the mountains above. A ravine that a nuoworoth holds is one the plateau tribes do not graze, and a track that runs through one is a track the guides go round.
 
 ## Key Behaviors
 
@@ -257,7 +257,7 @@ The bird spends its day walking its range, nose to the wind. It smells carrion a
 
 ## What the Tribes Do
 
-The hard, poor tribes of the plateau know every range and keep their flocks out of them; a herdsman who loses a goat into a nuòwōroth ravine lets it go. A party that must cross one keeps together, in daylight, with spears out, and walks the middle of the ravine rather than the rocky edge. The birds are killed, when they must be, by the bird's own refusal to give ground: men show themselves at the mouth of the ravine, the bird comes out at them, and archers on the rim shoot it as it comes. A flash of sunlight off a polished blade into its eyes stops it for a moment, and plateau guides carry a bronze mirror for the purpose. The beak makes the best skinning-knife on the plateau and the feathers are worn by young men of the plateau tribes who have killed one.
+The hard, poor tribes of the plateau know every range and keep their flocks out of them; a herdsman who loses a goat into a nuoworoth ravine lets it go. A party that must cross one keeps together, in daylight, with spears out, and walks the middle of the ravine rather than the rocky edge. The birds are killed, when they must be, by the bird's own refusal to give ground: men show themselves at the mouth of the ravine, the bird comes out at them, and archers on the rim shoot it as it comes. A flash of sunlight off a polished blade into its eyes stops it for a moment, and plateau guides carry a bronze mirror for the purpose. The beak makes the best skinning-knife on the plateau and the feathers are worn by young men of the plateau tribes who have killed one.
 
 ## Signs
 

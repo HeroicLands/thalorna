@@ -1,6 +1,6 @@
 ---
 shortcode: wldrcrkhld
-name: {full: Waldaric yra Ríkhild wur Grimholt, aliases: []}
+name: {full: Waldarik yra Rikhild wur Grimholt, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Waldaric yra Ríkhild wur Grimholt is a 44-year-old man who stands 5'11" tall and is of moderate build. He has an angular face with wide-set cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His deep-set blue eyes sit beneath heavy brows, lending him a watchful gaze. A prominent nose and curved lips complete his features. He has light skin with a ruddy complexion. His black hair is long and gathered with a leather thong.
+Waldarik yra Rikhild wur Grimholt is a 44-year-old man who stands 5'11" tall and is of moderate build. He has an angular face with wide-set cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His deep-set blue eyes sit beneath heavy brows, lending him a watchful gaze. A prominent nose and curved lips complete his features. He has light skin with a ruddy complexion. His black hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Waldaric came into the world of the tentmaker through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Waldarik came into the world of the tentmaker through a combination of circumstance and aptitude.
 
-Waldaric has been making tents and canvas goods for traveling merchants, soldiers, and wanderers for over twenty years. He works from his household near Grimholt’s river landing, stitching and repairing tents, awnings and other cloth goods. His sturdy work brings boat crews and travelers back to him, though he has more requests than one household can always finish. He takes pride in his craftsmanship but sometimes sacrifices speed for quality.
+Waldarik has been making tents and canvas goods for traveling merchants, soldiers, and wanderers for over twenty years. He works from his household near Grimholt’s river landing, stitching and repairing tents, awnings and other cloth goods. His sturdy work brings boat crews and travelers back to him, though he has more requests than one household can always finish. He takes pride in his craftsmanship but sometimes sacrifices speed for quality.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Slower at completing work than larger competitors, struggles with marketing.
 
 ### Motivation
 
-Waldaric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in tentmaker work keep him vigilant and adaptable.
+Waldarik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in tentmaker work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -418,7 +418,7 @@ Skilled at working with heavy fabrics, experienced in crafting durable tents.
 
 ## Social
 
-Waldaric sews and repairs canvas for Grimholt’s river travelers and war-bands. His workshop is his household’s work, without a guild, city or larger manufactory behind it.
+Waldarik sews and repairs canvas for Grimholt’s river travelers and war-bands. His workshop is his household’s work, without a guild, city or larger manufactory behind it.
 
 ## Companions
 
@@ -432,12 +432,12 @@ Competitors who undercut his prices.
 
 ## Plot Hooks
 
-1. **The Tentmaker's Dilemma**—Waldaric faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Tentmaker's Dilemma**—Waldarik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 2. **Old Grudges**—Competitors who undercut his prices. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Waldaric's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Waldarik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Waldaric depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Waldarik depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Waldaric the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Waldarik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

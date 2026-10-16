@@ -36,4 +36,4 @@ Retheku Iuthi'Gehtiu is a 39-year-old woman who stands 6'0" tall with a heavy bu
 
 # Dossier {#dossier}
 
-Retheku Iuthi'Gehtiu collects out of [[place-anlaghzetun|Anlagh-Zetûn]], and questions publicly whether a particular craftsman's work is worth its extraordinary cost. The question is not unreasonable, whatever the craftsman's admirers say. Anyone buying at that price now has to answer the question too.
+Retheku Iuthi'Gehtiu collects out of [[place-anlaghzetun|Anlagh-Zetun]], and questions publicly whether a particular craftsman's work is worth its extraordinary cost. The question is not unreasonable, whatever the craftsman's admirers say. Anyone buying at that price now has to answer the question too.

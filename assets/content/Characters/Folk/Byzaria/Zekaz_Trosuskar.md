@@ -1,9 +1,9 @@
 ---
 shortcode: zekaztrosusk
-name: {full: Zekáz Trosuskâr, aliases: [Sir Zekáz Trosuskâr]}
+name: {full: Zekáz Trosuskar, aliases: [Sir Zekáz Trosuskar]}
 type: being
 subType: npc
-description: Once a fellow knight of the Blazing Oath, who turned traitor and now leads a faction within a rival Black Flame, named in Drazha Vezhnûr, Knight of the Black Flame.
+description: Once a fellow knight of the Blazing Oath, who turned traitor and now leads a faction within a rival Black Flame, named in Drazha Vezhnur, Knight of the Black Flame.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zekáz Trosuskâr is a 45-year-old man who stands 6'3" tall with a medium build. He has fair skin, sun-kissed complexion, black hair, and dark brown eyes.
+Zekáz Trosuskar is a 45-year-old man who stands 6'3" tall with a medium build. He has fair skin, sun-kissed complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Zekáz Trosuskâr was once a fellow knight of the Blazing Oath who turned traitor and now leads a faction within a rival Black Flame fighting order. [[being-drzhvzhnr|Drazha Vezhnûr, Knight of the Black Flame]] has vowed to hunt him down, but he has proven elusive.
+Zekáz Trosuskar was once a fellow knight of the Blazing Oath who turned traitor and now leads a faction within a rival Black Flame fighting order. [[being-drzhvzhnr|Drazha Vezhnur, Knight of the Black Flame]] has vowed to hunt him down, but he has proven elusive.

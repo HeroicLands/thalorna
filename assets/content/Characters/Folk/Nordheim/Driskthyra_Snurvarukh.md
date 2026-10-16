@@ -1,9 +1,9 @@
 ---
 shortcode: driskthyrasn
-name: {full: Driskthýra Snurvarukh, aliases: [Magistrate Driskthýra Snurvarukh]}
+name: {full: Driskthira Snurvaruk, aliases: [Magistrate Driskthira Snurvaruk]}
 type: being
 subType: npc
-description: A widowed magistrate who has quietly helped Ralthýra Drekanótt survive.
+description: A widowed magistrate who has quietly helped Ralthira Drekanótt survive.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Driskthýra Snurvarukh is a 42-year-old woman who stands 5'5" tall with a medium build. She has light skin, ruddy complexion, dark brown hair, and brown eyes.
+Driskthira Snurvaruk is a 42-year-old woman who stands 5'5" tall with a medium build. She has light skin, ruddy complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Driskthýra Snurvarukh is a widowed magistrate who has quietly helped [[being-rlthyrdrknt|Ralthýra Drekanótt]] survive. She fell in love with Ralthýra's voice years ago.
+Driskthira Snurvaruk is a widowed magistrate who has quietly helped [[being-rlthyrdrknt|Ralthira Drekanótt]] survive. She fell in love with Ralthira's voice years ago.

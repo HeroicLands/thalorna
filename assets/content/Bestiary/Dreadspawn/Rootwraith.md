@@ -423,7 +423,7 @@ The farmstead was burned a long time ago, and the forest has taken it back: birc
 
 # Dossier {#dossier}
 
-The Rootwraith is a dreadspawn of root, vine and bark in the shape of a tall man, seven to nine feet high and about six hundred pounds, which rises out of the soil of the deep forest, commands the plants round it, and kills anything living that comes into its ground. It does not eat; it drains the life from what it catches and leaves it to rot. It is patient, slow and implacable. One holds the burned ground on the eastern border of [[place-targud|Targud]], the no-man's-land of burned farmsteads and abandoned watchtowers between the Nordmen kingdom and the Grukar of [[place-grkrhlmrgn|Grukarhölm]], and it treats Nordmen and Grukar alike. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Rootwraith is a dreadspawn of root, vine and bark in the shape of a tall man, seven to nine feet high and about six hundred pounds, which rises out of the soil of the deep forest, commands the plants round it, and kills anything living that comes into its ground. It does not eat; it drains the life from what it catches and leaves it to rot. It is patient, slow and implacable. One holds the burned ground on the eastern border of [[place-targud|Targud]], the no-man's-land of burned farmsteads and abandoned watchtowers between the Nordmen kingdom and the Grukar of [[place-grkrhlmrgn|Grukarholm]], and it treats Nordmen and Grukar alike. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -439,7 +439,7 @@ The rootwraith is a sentinel. It does not hunt for food; it kills what comes int
 
 ## What the Watch Does
 
-Nobody crosses the east alone, and the forts that hold Targud's line pass their duty from one district to the next by the rotation every bóndi of the kingdom owes. The watch at [[place-tvalgard|Tvalgard]] knows the rootwraith's ground and does not send scouts through it; patrols go round it, a day's march longer. The Grukar seem to know it too, and their raiding parties do not come through it either, which means that stretch of the frontier is the one the watch worries about least. Trappers who work the burned ground set their lines elsewhere. The skald who sings every last stand in Targud's memory does not sing about the rootwraith. The farmers on the wall say it came up out of the burned ground after the horde, and nobody can say whether that is true.
+Nobody crosses the east alone, and the forts that hold Targud's line pass their duty from one district to the next by the rotation every bundi of the kingdom owes. The watch at [[place-tvalgard|Tvalgard]] knows the rootwraith's ground and does not send scouts through it; patrols go round it, a day's march longer. The Grukar seem to know it too, and their raiding parties do not come through it either, which means that stretch of the frontier is the one the watch worries about least. Trappers who work the burned ground set their lines elsewhere. The skald who sings every last stand in Targud's memory does not sing about the rootwraith. The farmers on the wall say it came up out of the burned ground after the horde, and nobody can say whether that is true.
 
 ## Signs
 

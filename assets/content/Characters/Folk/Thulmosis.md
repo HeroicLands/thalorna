@@ -36,4 +36,4 @@ Thulmosis is a 40-year-old man who stands 5'7" tall with a light build. He has t
 
 # Dossier {#dossier}
 
-Thulmosis holds Halzi'a rank in a neighbouring selat, home in [[place-anlaghzetun|Anlagh-Zetûn]]. His turn is more traditional than his peers', and the comparison troubles him not at all. He governs by the older rules and expects to be judged by them.
+Thulmosis holds Halzi'a rank in a neighbouring selat, home in [[place-anlaghzetun|Anlagh-Zetun]]. His turn is more traditional than his peers', and the comparison troubles him not at all. He governs by the older rules and expects to be judged by them.

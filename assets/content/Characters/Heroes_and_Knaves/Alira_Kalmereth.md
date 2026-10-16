@@ -430,7 +430,7 @@ sohl:
 
 ### Early Years
 
-Álira was born to a minor merchant family in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], where her father traded in exotic woods and her mother preserved rare plants. As the youngest of five children, she was initially destined for marriage or service, yet her obsessive fascination with creating miniature worlds from scraps and wood shavings could not be ignored. By age twelve, she had apprenticed herself informally to the traveling toymaker Valdyn Náreth, trading household labor for knowledge of joinery, painting, and the ancient art of bringing inanimate forms to life.
+Álira was born to a minor merchant family in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], where her father traded in exotic woods and her mother preserved rare plants. As the youngest of five children, she was initially destined for marriage or service, yet her obsessive fascination with creating miniature worlds from scraps and wood shavings could not be ignored. By age twelve, she had apprenticed herself informally to the traveling toymaker Valdyn Nareth, trading household labor for knowledge of joinery, painting, and the ancient art of bringing inanimate forms to life.
 
 ### Training and Growth
 
@@ -478,10 +478,10 @@ Three years into her independent work, Álira has gained a modest reputation for
 
 ### Patrons
 
-Mistress Lìrien Clearbrook
+Mistress Lirien Clearbrook
 : The local schoolmistress purchases toys in bulk for the children's lessons. She has become something of a mentor figure, gently pushing Álira toward higher prices and introducing her to noble families seeking commissioned work.
 
-Trálkar the Wanderer
+Tralkar the Wanderer
 : A traveling storyteller who has taken Álira's figures on tour across three kingdoms. He credits her creations with enhancing his performances and has become her most reliable champion.
 
 The Kálmereth Family
@@ -489,10 +489,10 @@ The Kálmereth Family
 
 ### Enemies
 
-Master Gálric Sárneth
+Master Galric Sarneth
 : The established toymaker of Élavendre, whose family has dominated the craft for three generations. He views Álira as an unwelcome upstart and has begun spreading rumors that her dyes are toxic, her craftsmanship mediocre, and her prices represent a predatory undercutting of established artisans. In truth, his own work has grown stale and his prices inflated.
 
-[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Aû'Khelâthu]]
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]]
 : Several merchant guild officials view her independent status with suspicion and have begun threatening to impose taxation and licensing requirements specifically targeting solo craftspeople, clearly designed to force her out of business or into their ranks.
 
 ### Affiliations
@@ -504,10 +504,10 @@ The Artisan's Path
 
 1. **The Countess's Heir**: The young Countess Íthrola, whose domain lies three days' ride from Álira's cottage, has heard extraordinary tales of a toymaker who captures the essence of her daughter's nightmares and transforms them into beloved companions. The Countess has commissioned a suite of twelve figures representing the months of the year, each accompanied by a cryptic instruction. As Álira researches ancient festival traditions to get them right, she discovers her commission may be connected to a dark family curse, and the toys themselves may be ritual anchors. Completing this work could either break the curse or bind it more tightly—and completing it will demand she venture into territories both geographical and magical that terrify her.
 
-2. **The Enchanter's Apprentice**: A mysterious wanderer named **Sélon Brightheart** arrives at Álira's workshop, claiming to be an apprentice enchanter seeking to learn the principles of physical craft to complement magical theory. In exchange for knowledge about the subtle art of animate objects, Sélon hints they can teach Álira to infuse her toys with true animation—a technique that would revolutionize her work. Yet Sélon's past is shadowed, and their former master, **the Sorcerer Nýevasa**, has been destroying enchanted objects throughout the realm, seemingly hunting for something specific. Sélon may be a true ally, or bait to draw Álira into a conflict that could destroy her life's work.
+2. **The Enchanter's Apprentice**: A mysterious wanderer named **Selon Brightheart** arrives at Álira's workshop, claiming to be an apprentice enchanter seeking to learn the principles of physical craft to complement magical theory. In exchange for knowledge about the subtle art of animate objects, Selon hints they can teach Álira to infuse her toys with true animation—a technique that would revolutionize her work. Yet Selon's past is shadowed, and their former master, **the Sorcerer Nyevasa**, has been destroying enchanted objects throughout the realm, seemingly hunting for something specific. Selon may be a true ally, or bait to draw Álira into a conflict that could destroy her life's work.
 
 3. **The Stolen Commission**: A wealthy nobleman contracts Álira for an elaborate mechanical toy—a silver bird that sings and dances—offering an unprecedented fee. Before completion, the piece is stolen by a master thief operating in the Kingdom. The noble blames Álira for the loss and demands either a replacement at no cost or compensation she cannot afford. Desperate, Álira discovers the thief was hired to steal it for a competing artisan in a distant city. The theft spirals into a dangerous game of intrigue, forgery, and dangerous secrets that forces Álira to choose between her reputation and her conscience.
 
 4. **The Child's Guardian Spirit**: A frightened child arrives at Álira's cottage with a single silver coin and a desperate request: to create a toy that will house a protective spirit her grandmother (a hedge witch) has bound to protect her from a terrible force. The child reveals that her village has been plagued by something ancient and malevolent that feeds on fear and innocence. Álira's craft is asked for as spiritual practice as much as commerce—she must create a vessel worthy of housing something divine while remaining ignorant of the true nature of what she's creating. The work will demand she learn forbidden lore and potentially expose herself to the same horror that haunts the child.
 
-5. **The Artisan's Rebellion**: Lin'Zuwaret elu Aû'Khelâthu's restrictions grow untenable, and other craftspeople turn to Álira as a natural leader to organize resistance. She finds herself reluctantly thrust into political agitation, potentially requisitioning her workshop as a meeting place and her toys as symbols of artisan independence. As tensions escalate, Álira must hold a line between peaceful protest and those among her allies who advocate direct sabotage of the Consortium's interests. Her choice could reshape the economic structure of Élavendre—or destroy everything she's built in the attempt.
+5. **The Artisan's Rebellion**: Lin'Zuwaret elu Au'Khelathu's restrictions grow untenable, and other craftspeople turn to Álira as a natural leader to organize resistance. She finds herself reluctantly thrust into political agitation, potentially requisitioning her workshop as a meeting place and her toys as symbols of artisan independence. As tensions escalate, Álira must hold a line between peaceful protest and those among her allies who advocate direct sabotage of the Consortium's interests. Her choice could reshape the economic structure of Élavendre—or destroy everything she's built in the attempt.

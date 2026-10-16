@@ -1,6 +1,6 @@
 ---
 shortcode: myrtillos
-name: {full: Myrtillos, aliases: []}
+name: {full: Mirtelos, aliases: []}
 type: place
 subType: settlement
 description: "Coastal Town"
@@ -14,9 +14,9 @@ data:
   government: kostaros2
 ---
 
-Ask a fisherman on the quay at Myrtillos how many people live in the town and he says four thousand, then names two of them he thinks you ought to meet. Myrtillos is a coastal town of the [[place-kostarosdst|Kostaros District]], held by the Helionite city-state of [[affiliation-kostaros2|Kostaros]], and its people are of the [[lore-humanflk|Human Folk]].
+Ask a fisherman on the quay at Mirtelos how many people live in the town and he says four thousand, then names two of them he thinks you ought to meet. Mirtelos is a coastal town of the [[place-kostarosdst|Kostaros District]], held by the Helionite city-state of [[affiliation-kostaros2|Kostaros]], and its people are of the [[lore-humanflk|Human Folk]].
 
-The first is [[being-sthrnkhlthn|Sôtharion Khalîthôn]], a lord of Helionite family who is known for his skill in war and for the loyalty of the vassals who follow him. The second is [[being-jdhrsbshrn|Jâdhâros Bâshirôn]], a common seaman of thirty, reliable and well liked by his crewmates, who means to captain a ship of his own.
+The first is [[being-sthrnkhlthn|Sotharion Khalithon]], a lord of Helionite family who is known for his skill in war and for the loyalty of the vassals who follow him. The second is [[being-jdhrsbshrn|Jadharos Basiron]], a common seaman of thirty, reliable and well liked by his crewmates, who means to captain a ship of his own.
 
 ## See Also
 

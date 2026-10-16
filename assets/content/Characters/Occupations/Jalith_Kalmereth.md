@@ -1,6 +1,6 @@
 ---
 shortcode: ylthklmrth
-name: {full: Jálith Kálmereth, aliases: []}
+name: {full: Jalith Kálmereth, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,23 +393,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Jálith Kálmereth is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with broad cheekbones, a high forehead, and an angular jaw that leads to a firm chin. Her bright gray eyes sit beneath expressive brows and give her a lively gaze. She has a delicate nose and wide lips. She has light skin with a lightly freckled complexion. Her white hair is flowing past her shoulders.
+Jalith Kálmereth is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with broad cheekbones, a high forehead, and an angular jaw that leads to a firm chin. Her bright gray eyes sit beneath expressive brows and give her a lively gaze. She has a delicate nose and wide lips. She has light skin with a lightly freckled complexion. Her white hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 
-Jálith Kálmereth is a traveling bard of [[place-elavendre|Élavendre]], born at Liranel to an Élavendri family of performers, who sings the ballads of the common folk from village to village and comes home to the timber town only between roads.
+Jalith Kálmereth is a traveling bard of [[place-elavendre|Élavendre]], born at Liranel to an Élavendri family of performers, who sings the ballads of the common folk from village to village and comes home to the timber town only between roads.
 
-Jálith was given the name "Kálmereth" for the clarity of her voice, and has kept it. Her own songs are ballads of love and loss, and Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there, and she has never stayed; the formalities of court sit badly on her and she says so.
+Jalith was given the name "Kálmereth" for the clarity of her voice, and has kept it. Her own songs are ballads of love and loss, and Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there, and she has never stayed; the formalities of court sit badly on her and she says so.
 
 ## Psyche
 
 ### Personality
 
-Jálith is warm, quick to laugh and quick to weep, and restless within a week of arriving anywhere.
+Jalith is warm, quick to laugh and quick to weep, and restless within a week of arriving anywhere.
 
 ### Motivation
 
-Jálith wants the open road and an audience that has lived what she sings about. A settled place at a lord's table would pay better, and she has turned it down more than once.
+Jalith wants the open road and an audience that has lived what she sings about. A settled place at a lord's table would pay better, and she has turned it down more than once.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ Skilled singer, emotionally expressive, at ease with common people.
 
 ## Social
 
-Jálith belongs to the Minstrels' Guild, which gives her the right to sing for pay in any Élavendri market.
+Jalith belongs to the Minstrels' Guild, which gives her the right to sing for pay in any Élavendri market.
 
 ## Companions
 
 ### Patrons
 
-Jálith's patrons are the villagers and small-town lords of the forest belt, who pay in coin, meals and beds for songs about their own lives.
+Jalith's patrons are the villagers and small-town lords of the forest belt, who pay in coin, meals and beds for songs about their own lives.
 
 ### Enemies
 
@@ -431,10 +431,10 @@ The court bards of Élavendre, who call her a simple minstrel because she sings 
 
 ## Plot Hooks
 
-1. **A Hall for Good**—A lord of the Lírvë country has offered Jálith a permanent place in his household, on condition that she stops traveling. She has said no twice and he has begun asking why.
+1. **A Hall for Good**—A lord of the Lirve country has offered Jalith a permanent place in his household, on condition that she stops traveling. She has said no twice and he has begun asking why.
 
-2. **The Stolen Lament**—A court bard has performed one of Jálith's laments as his own before the Crown, and it has made his name. The guild will hear a complaint only if she can prove authorship of a song she never wrote down.
+2. **The Stolen Lament**—A court bard has performed one of Jalith's laments as his own before the Crown, and it has made his name. The guild will hear a complaint only if she can prove authorship of a song she never wrote down.
 
-3. **The One Who Came Back**—A family that paid Jálith to sing a lament for a guide lost in the wood has had him walk into their house, years later, claiming no time has passed. They want a different song now.
+3. **The One Who Came Back**—A family that paid Jalith to sing a lament for a guide lost in the wood has had him walk into their house, years later, claiming no time has passed. They want a different song now.
 
-4. **A Song the Guides Dislike**—Jálith's newest ballad says plainly which of Liranel's guides work for the Crown. It is popular, it is accurate, and the Crown's guides have asked her, courteously, to drop it.
+4. **A Song the Guides Dislike**—Jalith's newest ballad says plainly which of Liranel's guides work for the Crown. It is popular, it is accurate, and the Crown's guides have asked her, courteously, to drop it.

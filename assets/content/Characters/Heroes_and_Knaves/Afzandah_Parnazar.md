@@ -1,6 +1,6 @@
 ---
 shortcode: afzndhprnzr
-name: {full: Afzandah Parnâzar, given: Afzandah, clan: Parnâzar, aliases: []}
+name: {full: Afzandah Parnazar, given: Afzandah, clan: Parnazar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -411,7 +411,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[afzndhprnzr|Afzandah Parnâzar]]{float=top-left}
+![[afzndhprnzr|Afzandah Parnazar]]{float=top-left}
 
 Afzandah stands 5'8" tall with a medium build. She has golden olive skin, dark black hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, arched brows, and angular cheeks. She has a scar on her left ankle.
 
@@ -421,11 +421,11 @@ Afzandah stands 5'8" tall with a medium build. She has golden olive skin, dark b
 
 ### Early Years
 
-Afzandah was born into the Parnâzar clan in the oasis city of [[place-kethramir|Kethramír]], where her family had long held a modest reputation as merchants trading in minerals and semi-precious stones. Her father, Rezân Parnâzar, encouraged her curiosity about gemstones and their properties, often taking her to the prospecting camps in the surrounding desert. Her mother, Isâira, was the daughter of a Tellumi weaponsmith, and it was through her mother's lineage that Afzandah gained early exposure to metalworking. While her brothers were groomed to continue the family's trading enterprise, Afzandah was quietly apprenticed at age twelve to the master armorer Vemuna Tamkerun, a gruff but brilliant craftsman who recognized her dexterity and creative instinct.
+Afzandah was born into the Parnazar clan in the oasis city of [[place-kethramir|Kethramír]], where her family had long held a modest reputation as merchants trading in minerals and semi-precious stones. Her father, Rezan Parnazar, encouraged her curiosity about gemstones and their properties, often taking her to the prospecting camps in the surrounding desert. Her mother, Isaira, was the daughter of a Tellumi weaponsmith, and it was through her mother's lineage that Afzandah gained early exposure to metalworking. While her brothers were groomed to continue the family's trading enterprise, Afzandah was quietly apprenticed at age twelve to the master armorer Vemuna Tamkerun, a gruff but brilliant craftsman who recognized her dexterity and creative instinct.
 
 ### Mastery and Innovation
 
-Under Vemuna's tutelage for seven years, Afzandah absorbed the technical skills of armor-smithing and weapon-crafting and her mentor's philosophy of form and function. Where traditional Tellumi craftsmanship prized durability and martial practicality, Afzandah became fascinated by the intersection of artistry and utility—how decorative metalwork could enhance rather than compromise a weapon's effectiveness. After achieving the rank of Guildmaster at age twenty-five, she established her own workshop in Kethramír's artisan district, earning the patronage of wealthy travelers, minor nobility, and adventurers seeking unique arms. Her signature style blends geometric Tellumi patterns with flowing arabesques influenced by her study of ancient texts and ritual metalwork. The devotion of the Voyager aspect of Šírvádár drew her deeper into understanding the spiritual significance of the tools that aid travelers in their journeys.
+Under Vemuna's tutelage for seven years, Afzandah absorbed the technical skills of armor-smithing and weapon-crafting and her mentor's philosophy of form and function. Where traditional Tellumi craftsmanship prized durability and martial practicality, Afzandah became fascinated by the intersection of artistry and utility—how decorative metalwork could enhance rather than compromise a weapon's effectiveness. After achieving the rank of Guildmaster at age twenty-five, she established her own workshop in Kethramír's artisan district, earning the patronage of wealthy travelers, minor nobility, and adventurers seeking unique arms. Her signature style blends geometric Tellumi patterns with flowing arabesques influenced by her study of ancient texts and ritual metalwork. The devotion of the Voyager aspect of Sirvadar drew her deeper into understanding the spiritual significance of the tools that aid travelers in their journeys.
 
 ### Current Situation
 
@@ -437,7 +437,7 @@ Now thirty-three, Afzandah operates her workshop independently, having secured s
 
 Afzandah possesses a restless creative energy that manifests as both brilliance and stubbornness. In her workshop, she is methodical and absorbed, capable of focusing for hours on minute details that others would dismiss. She speaks confidently about her craft, her reasoning sharp and her design choices articulate. Yet away from metalwork, she can be aloof and reserved, uncomfortable with small talk and dismissive of those she perceives as intellectually shallow. She is not cruel in this assessment—merely honest to the point of social friction. Her sense of humor, when it surfaces, tends toward dry observation and witty commentary about the foibles of her clients.
 
-She is also restless. Afzandah is fascinated by movement, travel, and exploration—interests rooted in her devotion to Šírvádár—and she envies the adventurers who commission her weapons and then vanish into the great wide world to use them. She wants her creations to be tested in the furnace of real experience, not left gathering dust in a noble's vault. This hunger for something beyond her current life occasionally surfaces as impatience and a willingness to take risks that pragmatism would counsel against.
+She is also restless. Afzandah is fascinated by movement, travel, and exploration—interests rooted in her devotion to Sirvadar—and she envies the adventurers who commission her weapons and then vanish into the great wide world to use them. She wants her creations to be tested in the furnace of real experience, not left gathering dust in a noble's vault. This hunger for something beyond her current life occasionally surfaces as impatience and a willingness to take risks that pragmatism would counsel against.
 
 ### Motivation
 
@@ -471,18 +471,18 @@ Afzandah is driven by two competing desires that threaten to tear her life in op
 
 ### Patrons
 
-Zephyr-Merchant Kaelûs
+Zephyr-Merchant Kaelus
 : A wealthy trader in exotic materials who regularly commissions Afzandah for unique decorative arms to gift to minor nobility. His consistent business sustains her workshop, though she finds his taste uninspired.
 
-Lady Savâ d'Anûr
-: A desert knight of some renown who appreciates Afzandah's work and has commissioned several functional war-weapons. Their relationship is based on mutual respect for each other's craft, and Savâ occasionally invites Afzandah to hear tales of her campaigns.
+Lady Sava d'Anur
+: A desert knight of some renown who appreciates Afzandah's work and has commissioned several functional war-weapons. Their relationship is based on mutual respect for each other's craft, and Sava occasionally invites Afzandah to hear tales of her campaigns.
 
 High Artisan Vemuna Tamkerun
 : Her former master, now retired, who takes pride in Afzandah's accomplishments and occasionally directs difficult technical problems to her for consultation.
 
 ### Enemies
 
-Master-Smith Thordûn Blackforge
+Master-Smith Thordun Blackforge
 : A traditional weaponsmith who views Afzandah's ornamental designs as frivolous and has actively discouraged clients from commissioning her work. He sees her as a threat to the reputation of "serious" arms-craft and spreads rumors about the durability of her weapons.
 
 The Ferric Brotherhood
@@ -493,17 +493,17 @@ The Ferric Brotherhood
 Kethramír Artisans' Guild
 : Afzandah holds full Guildmaster standing, though her relationship with the organization is fraught. She pays her dues and maintains the minimum necessary involvement, frustrated by their conservatism.
 
-The Devotees of Šírvádár
+The Devotees of Sirvadar
 : She maintains loose affiliation with the temple of the Voyager in Kethramír, participating in seasonal rituals and seeking spiritual guidance regarding her wanderlust. The priests encourage her to see travel and adventure as forms of sacred service.
 
 ## Plot Hooks
 
-1. **The Caravan Master's Commission**: A caravan master named Hesûd al-Kethrim arrives in Kethramír with an extraordinary offer. He has been hired by a distant noble to assemble a company of capable warriors and craftspeople for a dangerous expedition into the [[place-shtrdpks|Shattered Peaks]], where mithral deposits are rumored to exist. He seeks Afzandah specifically, having heard that she can work with exotic materials under harsh conditions. The commission is substantial—enough to fund a year of experimental work—but it requires her personal involvement in the expedition's field operations. Hesûd is vague about the precise dangers, mentioning only "environmental hazards" and "territorial complications." Afzandah's knowledge of mineralogy and material sourcing is what he needs, but she would be away from her workshop for months. The real danger is that Hesûd's patron is actually the sorcerer-lord Nýevasa, who seeks mithral not for legitimate commerce but for a dark ritual. Afzandah and her party would discover this truth only after accepting the contract.
+1. **The Caravan Master's Commission**: A caravan master named Hesud al-Kethrim arrives in Kethramír with an extraordinary offer. He has been hired by a distant noble to assemble a company of capable warriors and craftspeople for a dangerous expedition into the [[place-shtrdpks|Shattered Peaks]], where mithral deposits are rumored to exist. He seeks Afzandah specifically, having heard that she can work with exotic materials under harsh conditions. The commission is substantial—enough to fund a year of experimental work—but it requires her personal involvement in the expedition's field operations. Hesud is vague about the precise dangers, mentioning only "environmental hazards" and "territorial complications." Afzandah's knowledge of mineralogy and material sourcing is what he needs, but she would be away from her workshop for months. The real danger is that Hesud's patron is actually the sorcerer-lord Nyevasa, who seeks mithral not for legitimate commerce but for a dark ritual. Afzandah and her party would discover this truth only after accepting the contract.
 
-2. **The Stolen Masterwork**: One of Afzandah's greatest creations—a ceremonial curved blade commissioned by Lady Savâ d'Anûr three years ago—vanishes from a secure vault in the noble's estate. Investigation reveals that the theft was neither simple burglary nor accident: the weapon was specifically targeted by a group of assassins affiliated with a rival noble house. Savâ fears the blade will be used to commit murder, and then the evidence of stolen craftsmanship will create a scandal that damages both their reputations. She asks Afzandah to help track down the weapon before it can be used. The search would take Afzandah out of her workshop and into unfamiliar territory.
+2. **The Stolen Masterwork**: One of Afzandah's greatest creations—a ceremonial curved blade commissioned by Lady Sava d'Anur three years ago—vanishes from a secure vault in the noble's estate. Investigation reveals that the theft was neither simple burglary nor accident: the weapon was specifically targeted by a group of assassins affiliated with a rival noble house. Sava fears the blade will be used to commit murder, and then the evidence of stolen craftsmanship will create a scandal that damages both their reputations. She asks Afzandah to help track down the weapon before it can be used. The search would take Afzandah out of her workshop and into unfamiliar territory.
 
-3. **The Experimental Forge**: An eccentric scholar and self-proclaimed alchemist named **Pazhvân Tîrazûn** arrives at Afzandah's workshop with a proposal that captivates her. He claims to have discovered a method to infuse metalwork with elemental essences, creating weapons that carry magical properties inherent to their material structure. Pazhvân offers to share his research in exchange for a specific weapon crafted to his exacting specifications. The project consumes her attention for months, but gradually she realizes that Pazhvân's "essences" are derived from dangerous alchemical processes, and the weapon they are creating is designed to channel something far darker and more unstable than mere elemental force. Her choices are to continue the project, sabotage it, or betray Pazhvân to the authorities.
+3. **The Experimental Forge**: An eccentric scholar and self-proclaimed alchemist named **Pazhvan Tirazun** arrives at Afzandah's workshop with a proposal that captivates her. He claims to have discovered a method to infuse metalwork with elemental essences, creating weapons that carry magical properties inherent to their material structure. Pazhvan offers to share his research in exchange for a specific weapon crafted to his exacting specifications. The project consumes her attention for months, but gradually she realizes that Pazhvan's "essences" are derived from dangerous alchemical processes, and the weapon they are creating is designed to channel something far darker and more unstable than mere elemental force. Her choices are to continue the project, sabotage it, or betray Pazhvan to the authorities.
 
-4. **The Wanderer's Return**: An old acquaintance from Afzandah's years of apprenticeship—a traveling merchant named **Mehzâr Khordavân**—returns to Kethramír after a decade away. Mehzâr once purchased several of Afzandah's early works and used them in dangerous mercenary work across the known world. He brings back stories of how her weapons saved his life, turned battles, and earned respect in places beyond the desert. More importantly, he brings an invitation: a warlord in the eastern kingdoms has heard of Afzandah's creations and wants to commission an entire arsenal. The pay is extraordinary, but the warlord's reputation is dark—rumors of slavery, conquest, and cruelty. Mehzâr insists the stories are exaggerated and that Afzandah's work would only strengthen the position of a powerful leader. The chance to see her creations used in earnest tempts her.
+4. **The Wanderer's Return**: An old acquaintance from Afzandah's years of apprenticeship—a traveling merchant named **Mehzar Khordavan**—returns to Kethramír after a decade away. Mehzar once purchased several of Afzandah's early works and used them in dangerous mercenary work across the known world. He brings back stories of how her weapons saved his life, turned battles, and earned respect in places beyond the desert. More importantly, he brings an invitation: a warlord in the eastern kingdoms has heard of Afzandah's creations and wants to commission an entire arsenal. The pay is extraordinary, but the warlord's reputation is dark—rumors of slavery, conquest, and cruelty. Mehzar insists the stories are exaggerated and that Afzandah's work would only strengthen the position of a powerful leader. The chance to see her creations used in earnest tempts her.
 
-5. **The Challenge of the Desert Kings**: A gathering of desert warriors and craftspeople is announced—a competition and festival held once every seven years. The Challenge features tests of combat prowess, craftsmanship, and survival. For the first time in a decade, the artisan categories include a specific event: creating a functional weapon under pressure, in full view of judges and spectators. Victory would cement Afzandah's reputation and earn her contracts beyond the [[place-khzryndsrtrgn|Khazryn Desert]]. However, one of the competitors is her old rival, Thordûn Blackforge, who has been training intensely and has acquired some advantage—perhaps a powerful new technique or mysterious sponsorship. Afzandah must travel to the Challenge site, prepare her greatest work under the scrutiny of the Desert Kings, and face down a competitor who has made it clear he intends to humiliate her in front of the entire region's craftspeople.
+5. **The Challenge of the Desert Kings**: A gathering of desert warriors and craftspeople is announced—a competition and festival held once every seven years. The Challenge features tests of combat prowess, craftsmanship, and survival. For the first time in a decade, the artisan categories include a specific event: creating a functional weapon under pressure, in full view of judges and spectators. Victory would cement Afzandah's reputation and earn her contracts beyond the [[place-khzryndsrtrgn|Khazryn Desert]]. However, one of the competitors is her old rival, Thordun Blackforge, who has been training intensely and has acquired some advantage—perhaps a powerful new technique or mysterious sponsorship. Afzandah must travel to the Challenge site, prepare her greatest work under the scrutiny of the Desert Kings, and face down a competitor who has made it clear he intends to humiliate her in front of the entire region's craftspeople.

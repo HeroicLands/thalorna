@@ -13,7 +13,7 @@ data:
       when: -330
       sources: [doc-soulspirts]
       summary: >-
-        Holding what was taken at Therádon, the Republic offers the dragons the only thing it has that they want: the return of the bound to the ancestor pool. The dragons' price is the war. The agreement is not made for the war's duration but as a term of years renewed annually, which is why the Dragon Riders are a standing corps for nearly three centuries rather than a wartime expedient. Nothing of it is written down. What the Republic's chancery enters is a yearly appropriation for the keeping of a thing named only by a number, under a description it invented so that nobody would query the line.
+        Holding what was taken at Theradon, the Republic offers the dragons the only thing it has that they want: the return of the bound to the ancestor pool. The dragons' price is the war. The agreement is not made for the war's duration but as a term of years renewed annually, which is why the Dragon Riders are a standing corps for nearly three centuries rather than a wartime expedient. Nothing of it is written down. What the Republic's chancery enters is a yearly appropriation for the keeping of a thing named only by a number, under a description it invented so that nobody would query the line.
       standing: single-source
       where:
         locus: [place-vylariargn]
@@ -30,14 +30,14 @@ data:
       follows:
         - event: lore-dragondead
           how: enabled
-          note: nothing can be leased that is not first held, and the jars come out of Therádon first
+          note: nothing can be leased that is not first held, and the jars come out of Theradon first
         - event: lore-helionscnq
           how: answered
           note: the Republic is answering a war its legions are losing to the city-states' mages
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
-            The Republic and the dragons reached an agreement, and the Dragon Riders broke the great mages of Heliónis where legions could not. What was promised in exchange is not recorded.
+            The Republic and the dragons reached an agreement, and the Dragon Riders broke the great mages of Helionis where legions could not. What was promised in exchange is not recorded.
           agrees: partly
           withholds: the terms, the object held, and the debt outstanding
         - by: affiliation-ordoarcanis

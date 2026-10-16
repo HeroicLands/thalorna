@@ -395,7 +395,7 @@ Frithgár yra Vithrúnd wur Falkenstein is a 42-year-old man who stands 6'2" tal
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Frithgár came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Frithgár came into the world of the huscarl through a combination of circumstance and aptitude.
 
 Frithgár has fought with Falkenstein’s war-band for many years. He is respected for his tactical knowledge and for teaching younger warriors to hold the palisade when a raiding party is away. He aims to pass on what he knows so the next generation can defend the village.
 
@@ -429,12 +429,12 @@ Few; respected in the community.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Frithgár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Huscarl's Dilemma**—Frithgár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 2. **Old Grudges**—Few; respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 3. **Echoes of the Past**—Something from Frithgár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Frithgár depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Frithgár depends upon. He must decide whether to adapt, resist, or flee.
 
 5. **The Opportunity**—A chance encounter offers Frithgár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

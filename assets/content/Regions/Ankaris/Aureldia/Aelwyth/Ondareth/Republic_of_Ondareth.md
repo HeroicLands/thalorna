@@ -34,7 +34,7 @@ data:
         description: >-
           Enrolled in the citizen body, voting in the assembly and serving in the levy. A citizen is not a member of the governing order.
       - level: 5
-        title: Gûlmâlênôs
+        title: Gulmen
         description: >-
           Of the propertied order that meets the census for office, and from which the magistracies are in practice filled.
       - level: 6
@@ -42,7 +42,7 @@ data:
         description: >-
           Of the ruling council itself, holding a seat for life and deliberating on war, treasury and law.
       - level: 7
-        title: Tâvâlênôs
+        title: Tavalen
         lore: formermagrnk
         description: >-
           Having held the chief magistracy and vacated it, and speaking with the weight that carries ever after.
@@ -53,19 +53,19 @@ data:
     offices:
       First Senator: >-
         Presiding officer of the senate, who calls it, sets its order and speaks first. Elected, and vacated at term's end.
-      Tâvândôs: >-
+      Tavos: >-
         Chief magistrate for the year, holding command in the field and presiding over the senate in the First Senator's absence.
-      Vôrnândôs: >-
+      Vornos: >-
         Magistrate of the courts, who declares the law for his year and hears what the lesser courts will not.
-      Thêrônândôs: >-
+      Theronos: >-
         Keeper of the citizen roll and of the census on which every rank depends; may strike a senator from his seat.
-      Târkhêlândôs: >-
+      Tarkelos: >-
         Officer of the treasury, answerable for revenue, disbursement and the accounts of the magistrates.
-      Pêlthrândôs: >-
+      Peltros: >-
         Officer of the city—its markets, its streets, its water, its games—and the usual first step in a public career.
-      Lûsândôs: >-
+      Lusos: >-
         Elected to speak for the citizen body and to interpose against a magistrate's act on its behalf.
-      Vandrax: Commander of a legion in the field, commissioned by the senate and answerable to it.
+      Vandraks: Commander of a legion in the field, commissioned by the senate and answerable to it.
       Prefect of the Fleet: Commander of the republic's ships and of the coasts they patrol.
       Ambassador: Envoy to a foreign power, instructed by the senate and reporting to it on return.
       Clerk of the Senate: Keeper of the senate's record, its decrees and its correspondence.
@@ -120,7 +120,7 @@ magistracies with Vylarian names, a civic calendar of processions and assemblies
 a self-consciously Vylarian manner, executed in local stone by masons working from descriptions.
 Senators wear the bordered mantle. The Senate house at [[place-thornbury|Thornbury]] has a portico.
 
-The magistracies carry the Empire's own words, in their Vylari spelling. Two _tâvândoi_ (consuls) give the year its name and hold command in the field, a _vôrnândôs_ declares the law, a _thêrônândôs_ keeps the citizen roll, a _târkhêlândôs_ answers for the treasury, a _pêlthrândôs_ keeps the markets and the streets, a _lûsândôs_ speaks for the citizens, and a Vandrax commands each legion in the field. A man who has held the year is _tâvâlênôs_ for life, and the propertied order that fills the magistracies is the _gûlmâlênoi_. The words are borrowed for the standing they carry. Vylarian diplomats treat the borrowed titles with diplomatic courtesy; in private, Vylarians take them as a mild insult.
+The magistracies carry the Empire's own words, in their Vylari spelling. Two _tavoi_ (consuls) give the year its name and hold command in the field, a _vornos_ declares the law, a _theronos_ keeps the citizen roll, a _tarkelos_ answers for the treasury, a _peltros_ keeps the markets and the streets, a _lusos_ speaks for the citizens, and a Vandraks commands each legion in the field. A man who has held the year is _tavalen_ for life, and the propertied order that fills the magistracies is the _gulmenoi_. The words are borrowed for the standing they carry. Vylarian diplomats treat the borrowed titles with diplomatic courtesy; in private, Vylarians take them as a mild insult.
 
 ## Rubbish, and Vanity
 
@@ -182,7 +182,7 @@ from the corruption rather than sitting beside it.
 ### The Black Flame
 
 The [[affiliation-blackflame|Black Flame]]—Ústaron's destructive aspect, suppressed across most of
-the Aurèldían world and reduced elsewhere to hidden shrines and secretive orders—has **enormous
+the Aureldian world and reduced elsewhere to hidden shrines and secretive orders—has **enormous
 influence** in Ondareth, and does not especially trouble to hide it.
 
 It does not need to. A faith is suppressed by magistrates, and in Ondareth magistracies are bought. The
@@ -192,7 +192,7 @@ houses are. Its doctrine—purification by fire, the strong over the weak—sits
 a republic where influence is openly for sale, and the [[affiliation-sacredforge|Sacred Forge]] has been
 saying so for fifty years to no effect whatever.
 
-The Flame's other western stronghold is across the water in [[place-provenzrgn|Provènzia]], where
+The Flame's other western stronghold is across the water in [[place-provenzrgn|Provenzia]], where
 [[place-harivrencity|Hárivren]]'s earl holds it openly. Whether the two are coordinated is a question
 the Forge asks loudly and cannot answer.
 
@@ -220,4 +220,4 @@ are careful to be seen at both temples.
 - [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]—Southeastern neighbor
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]]—East-central rival
 - [[affiliation-vylarinmpr|Vylarian Empire]]—The empire Ondareth models itself on and sends diplomats to
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—State pantheon
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]—State pantheon

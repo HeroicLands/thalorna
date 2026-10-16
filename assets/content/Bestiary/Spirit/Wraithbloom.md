@@ -164,7 +164,7 @@ The oldest bed in the shrine's garden is behind a wall of its own, and the garde
 
 # Dossier {#dossier}
 
-The Wraithbloom is the spirit of an ancient plant: a flower or vine from ground so long tended and so full of power that its death became only another kind of growth, and that now haunts its garden as a spectral bloom three to five feet across. It defends its garden with spectral vines, with pollen that brings waking dreams and sleep, and by drawing the life out of those it holds. It is not vicious, and it can be dealt with. It is found in old groves and sacred gardens where the veil between living and dead has worn thin, and the best known haunts a walled bed in one of the healing-shrines of [[place-garlutselat|Gar-Lût Selat]], the small, devout selat of the upper river of Aû'Khelâthu whose herb-gardens the rest of the empire knows it for.
+The Wraithbloom is the spirit of an ancient plant: a flower or vine from ground so long tended and so full of power that its death became only another kind of growth, and that now haunts its garden as a spectral bloom three to five feet across. It defends its garden with spectral vines, with pollen that brings waking dreams and sleep, and by drawing the life out of those it holds. It is not vicious, and it can be dealt with. It is found in old groves and sacred gardens where the veil between living and dead has worn thin, and the best known haunts a walled bed in one of the healing-shrines of [[place-garlutselat|Gar-Lut Selat]], the small, devout selat of the upper river of Au'Khelathu whose herb-gardens the rest of the empire knows it for.
 
 ## Presentation
 
@@ -172,7 +172,7 @@ A wraithbloom is a hovering assemblage of spectral plants: translucent petals, p
 
 ## In the Land
 
-The healing-shrines of Gar-Lût belong to [[lore-uzneradty|Uzn'êra]], the mother goddess of fertility, renewal and healing, and their gardens keep the plants the healers use; a herb-gardener tells a novice that everything in the beds is somebody's cure. The wraithbloom haunts the oldest bed of the oldest shrine's garden, walled off from the rest, where the plants have been tended in the same ground for longer than the temple's records go back. It does not leave the bed, and if it is taken far from it, it fades. Inside its bed the plants grow larger, stronger and more potent than anywhere else, and the bed spreads, slowly, year by year, into the beds round it.
+The healing-shrines of Gar-Lut belong to [[lore-uzneradty|Uzn'era]], the mother goddess of fertility, renewal and healing, and their gardens keep the plants the healers use; a herb-gardener tells a novice that everything in the beds is somebody's cure. The wraithbloom haunts the oldest bed of the oldest shrine's garden, walled off from the rest, where the plants have been tended in the same ground for longer than the temple's records go back. It does not leave the bed, and if it is taken far from it, it fades. Inside its bed the plants grow larger, stronger and more potent than anywhere else, and the bed spreads, slowly, year by year, into the beds round it.
 
 ## Key Behaviors
 

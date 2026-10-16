@@ -1,9 +1,9 @@
 ---
 shortcode: hlirthmyl
-name: {full: Hlirthmýl, aliases: [Lord Hlirthmýl]}
+name: {full: Hlirthmil, aliases: [Lord Hlirthmil]}
 type: being
 subType: npc
-description: A minor nobleman who has begun commissioning custom candles from Althynda Eldskari.
+description: A minor nobleman who has begun commissioning custom candles from Althinda Eldskari.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hlirthmýl is a 21-year-old man who stands 5'7" tall with a light build. He has light skin, freckled complexion, dark brown hair, and blue eyes.
+Hlirthmil is a 21-year-old man who stands 5'7" tall with a light build. He has light skin, freckled complexion, dark brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Hlirthmýl is a minor nobleman who has begun commissioning custom candles from [[being-althyndeldskr|Althynda Eldskari]]. He discovered Althynda's candles and has begun commissioning elaborate custom orders.
+Hlirthmil is a minor nobleman who has begun commissioning custom candles from [[being-althyndeldskr|Althinda Eldskari]]. He discovered Althinda's candles and has begun commissioning elaborate custom orders.

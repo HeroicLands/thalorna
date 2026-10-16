@@ -20,28 +20,28 @@ A priest who refused to let a hundred dead go keeps them on a stone platform whe
 
 ## Overview
 
-In the fifth year of the Breaking, when the Ātárzád took [[place-ashkarad|Ashkarad]], the Expositor **Yumelul** of the Tower of Silence on the bench north of the city faced a field of unreceived Tellumi dead and a spirit realm full of hunters. He did the one thing the rite of [[affiliation-azravan|Ázráván]] forbids. He bound the dead to their bodies so the hunters could not take them, and he has kept them bound for ninety years. The binding is the opening the [[lore-theshadow|Shadow]] needs. What he started in grief has become a corruption he cannot stop and will not admit to: the dead walk on the dark of the moon to bring him more, and the Shadow in him has turned his protection into a collection.
+In the fifth year of the Breaking, when the Atarzád took [[place-ashkarad|Ashkarad]], the Expositor **Yumelul** of the Tower of Silence on the bench north of the city faced a field of unreceived Tellumi dead and a spirit realm full of hunters. He did the one thing the rite of [[affiliation-azravan|Azravan]] forbids. He bound the dead to their bodies so the hunters could not take them, and he has kept them bound for ninety years. The binding is the opening the [[lore-theshadow|Shadow]] needs. What he started in grief has become a corruption he cannot stop and will not admit to: the dead walk on the dark of the moon to bring him more, and the Shadow in him has turned his protection into a collection.
 
-Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's water, which the craft councils entrusted to Yumelul in the fifth year of the war, and which the Ātárzád tax assessors have never seen.
+Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's water, which the craft councils entrusted to Yumelul in the fifth year of the war, and which the Atarzád tax assessors have never seen.
 
 ## Hooks
 
 - **The thief.** A craft council of Ashkarad needs a set of deeds back from a tower no priest will enter. The reward is a share in the water of a family shaft, which is worth more than silver. The council says nothing of the dead.
-- **The mercenary or common soldier.** A Tēghumōd factor needs the road north of Ashkarad made safe by dark of moon, when freshly buried corpses go missing from the caravan camps. He hires men to watch a camp from the rocks and to follow what takes the dead.
-- **The leader.** A Dēlkoshekh of Ázráván, **Nerire**, asks a trusted captain to escort her to the tower. She is the last living student of the Expositor's master and she believes she can end this. She cannot go alone.
+- **The mercenary or common soldier.** A Teghumod factor needs the road north of Ashkarad made safe by dark of moon, when freshly buried corpses go missing from the caravan camps. He hires men to watch a camp from the rocks and to follow what takes the dead.
+- **The leader.** A Delkoshekh of Azravan, **Nerire**, asks a trusted captain to escort her to the tower. She is the last living student of the Expositor's master and she believes she can end this. She cannot go alone.
 - **The lone wanderer.** The wanderer's own dead, a companion killed on the road, vanished from their grave in the night. The track of the carriers leads to the bench.
 
 ## Scene One: The Birds
 
 **Purpose.** Establish the wrongness of the place and force the party to decide how they will approach.
 
-**Situation.** The track from Ashkarad ends at the foot of the bench. The tower stands on it with the vultures in a row along its parapet. They do not move at the party's approach, and none of them takes to the air. A guide, **Voghalyemök** of the Sovidur, a lean man in a rider's wrappings who has walked this road a hundred times, will take the party this far and no nearer. He will tell them what he knows and sit at the marker-stone with the animals.
+**Situation.** The track from Ashkarad ends at the foot of the bench. The tower stands on it with the vultures in a row along its parapet. They do not move at the party's approach, and none of them takes to the air. A guide, **Voghalyemok** of the Sovidur, a lean man in a rider's wrappings who has walked this road a hundred times, will take the party this far and no nearer. He will tell them what he knows and sit at the marker-stone with the animals.
 
 **NPCs and threats.** The vultures are the first threat. They do not hunt, but if the party climbs they turn their heads in unison and rise as one, a cloud of black wings that is not an attack and is nonetheless blinding. The stair has a **doorward**, a dead man in an Expositor's robe who sits on the seventh step with a clay fire-pot between his knees. He is not hostile. He asks for the first line of the Prayer of Passage in the old hand and will not stand aside for a wrong answer.
 
-**Player choices.** Force: drive the vultures off with slings and fire and fight the doorward; it is slow and silent and does not die easily. Stealth: climb by night from the east side, where the wall has handholds. Guile: bring a Dēlkoshekh's robe and recite the prayer; the doorward recognises the form. Parley: sit with Voghalyemök and learn what he can offer, which is the track on the east side and the information that the tower empties when the moon is dark.
+**Player choices.** Force: drive the vultures off with slings and fire and fight the doorward; it is slow and silent and does not die easily. Stealth: climb by night from the east side, where the wall has handholds. Guile: bring a Delkoshekh's robe and recite the prayer; the doorward recognises the form. Parley: sit with Voghalyemok and learn what he can offer, which is the track on the east side and the information that the tower empties when the moon is dark.
 
-**Clues and rewards.** The first line of the prayer: _Ázráván, Lord of Horizons, accept this servant into your keeping_. Voghalyemök knows it from a priest he guided. The doorward carries a ring of keys and a seal of office, which is Yumelul's own.
+**Clues and rewards.** The first line of the prayer: _Azravan, Lord of Horizons, accept this servant into your keeping_. Voghalyemok knows it from a priest he guided. The doorward carries a ring of keys and a seal of office, which is Yumelul's own.
 
 **Consequences.** The vultures mark the party. If the doorward is attacked, the platform notices; the dead turn their heads on the stone.
 
@@ -83,17 +83,17 @@ Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's wate
 
 **Purpose.** Resolve the confrontation with Yumelul by force, argument or ritual.
 
-**Situation.** In the ring of chambers below the platform, in a round room hung with grey cloth, a thin old man in the robes of an Expositor sits at a bronze table with a roll of names open before him. He is not a corpse and he is not alive. He looks up and says that he has been expecting a Dēlkoshekh. He has the Prayer of Passage on his lips and a fire in the pit at his feet that gives no heat.
+**Situation.** In the ring of chambers below the platform, in a round room hung with grey cloth, a thin old man in the robes of an Expositor sits at a bronze table with a roll of names open before him. He is not a corpse and he is not alive. He looks up and says that he has been expecting a Delkoshekh. He has the Prayer of Passage on his lips and a fire in the pit at his feet that gives no heat.
 
 **NPCs and threats.** **Yumelul** is gentle, exact and fixed. He has not made a mistake in ninety years, and he cannot see that the rite he is performing is the mistake. He commands the dead on the platform with a gesture and the bones in the pit with a word. He fights without malice and without mercy, and he is merciful only toward his dead. The Shadow in him is visible as a stillness in the fire: where it falls, the flame goes out.
 
-**Player choices.** Force: kill him; the dead on the platform fall as one, and the bound spirits are loosed into the dark with no prayer to guide them and the hunters waiting, the very thing he feared. Stealth: take the roll from the table while he reads. Guile: persuade him that a Dēlkoshekh has come to relieve him and let him pass; Nerire's arrival is the key. Parley: argue that the hunters have not come in ninety years and the dead are suffering; he is not entirely wrong that they are safe, and the party must answer the case.
+**Player choices.** Force: kill him; the dead on the platform fall as one, and the bound spirits are loosed into the dark with no prayer to guide them and the hunters waiting, the very thing he feared. Stealth: take the roll from the table while he reads. Guile: persuade him that a Delkoshekh has come to relieve him and let him pass; Nerire's arrival is the key. Parley: argue that the hunters have not come in ninety years and the dead are suffering; he is not entirely wrong that they are safe, and the party must answer the case.
 
-**Clues and rewards.** The roll of names lists every one of the bound, with the day and hour of death and the prayer owed. It is the means of release: each name read aloud, with the prayer, frees one spirit. There are a hundred and twelve. A fire of the Sacred Flame, if the party has a Rōqeshekh or a Dēlkoshekh with a lamp kindled at an Ātáröš altar, burns where the Shadow is and makes him vulnerable.
+**Clues and rewards.** The roll of names lists every one of the bound, with the day and hour of death and the prayer owed. It is the means of release: each name read aloud, with the prayer, frees one spirit. There are a hundred and twelve. A fire of the Sacred Flame, if the party has a Roqeshekh or a Delkoshekh with a lamp kindled at an Ataros altar, burns where the Shadow is and makes him vulnerable.
 
 **Consequences.** If the party reads the names, the dead sink into themselves, the vultures eat for the first time in ninety years and the Shadow leaves the tower with a sound like a closing door. Yumelul dies in the reading. If the party kills him without the reading, the Shadow remains and the dead walk without a master.
 
-**If bypassed.** A party that cannot reach the chamber is sought out by the Expositor himself on the second night; he comes up the stair with the dead behind him and asks for a Dēlkoshekh by name.
+**If bypassed.** A party that cannot reach the chamber is sought out by the Expositor himself on the second night; he comes up the stair with the dead behind him and asks for a Delkoshekh by name.
 
 ## Scene Five: The Walls
 
@@ -101,26 +101,26 @@ Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's wate
 
 **Situation.** The records chamber has twelve panels, and behind the third is a niche in the stone. In it, in oiled leather, lie the shaft-deeds of Ashkarad: forty tablets of baked clay, each stamped with the seal of a craft council and the stamp of the city's last Tellumi prince. They name the families who hold the water of every shaft in the city, by hours and by right.
 
-**NPCs and threats.** The craft council that sent the party, or a rival council, waits at the foot of the bench with a dozen men. A **Tēghumōd patrol** under a lieutenant who has not been told what it is looking for rides up the track within the hour. If the party has Nerire, she is the only one who can speak for the tower.
+**NPCs and threats.** The craft council that sent the party, or a rival council, waits at the foot of the bench with a dozen men. A **Teghumod patrol** under a lieutenant who has not been told what it is looking for rides up the track within the hour. If the party has Nerire, she is the only one who can speak for the tower.
 
-**Player choices.** Force: carry the deeds out past the patrol. Stealth: leave them in the walls and send word. Guile: give a copy to the council and keep the original. Parley: make a bargain with the Tēghumōd lieutenant to keep the matter quiet.
+**Player choices.** Force: carry the deeds out past the patrol. Stealth: leave them in the walls and send word. Guile: give a copy to the council and keep the original. Parley: make a bargain with the Teghumod lieutenant to keep the matter quiet.
 
-**Clues and rewards.** The deeds are worth a share in a shaft: a lifetime of water for the party's patron and a hold over the Tēghumōd. Birvale's grave-goods, a band of silver and an indigo shawl, are a small kindness to return to her family. The tower's well of bones holds the Expositors' fees from three centuries, a few weights of silver and a handful of old Tellumi seals.
+**Clues and rewards.** The deeds are worth a share in a shaft: a lifetime of water for the party's patron and a hold over the Teghumod. Birvale's grave-goods, a band of silver and an indigo shawl, are a small kindness to return to her family. The tower's well of bones holds the Expositors' fees from three centuries, a few weights of silver and a handful of old Tellumi seals.
 
-**Consequences.** The Tēghumōd learn that deeds exist that they have never seen. The craft councils learn that someone knows. The dead are released or not.
+**Consequences.** The Teghumod learn that deeds exist that they have never seen. The craft councils learn that someone knows. The dead are released or not.
 
-**If bypassed.** A party that leaves the deeds in the walls hears of them within a year, when the Tēghumōd tear the tower down looking for them.
+**If bypassed.** A party that leaves the deeds in the walls hears of them within a year, when the Teghumod tear the tower down looking for them.
 
 ## Aftermath
 
-- **If the names are read.** The Tower of Silence returns to the rite. Dēlkoshekhs of Ázráván go back to the bench. The vultures feed, and the dead of Ashkarad are given to the sky again.
-- **If the deeds are brought out.** The craft councils gain a document the Ātárzád cannot refuse. The Tēghumōd are obliged to deal with them openly or move against them.
+- **If the names are read.** The Tower of Silence returns to the rite. Delkoshekhs of Azravan go back to the bench. The vultures feed, and the dead of Ashkarad are given to the sky again.
+- **If the deeds are brought out.** The craft councils gain a document the Atarzád cannot refuse. The Teghumod are obliged to deal with them openly or move against them.
 - **If the party fails.** The tower keeps its dead and widens its road. The caravans on the northern track begin to bury their dead at midday, deep.
 
 ## See Also
 
 - [[place-talbemsirvel|Tashbemsirvesh]]—the tower and what lies on it
 - [[place-ashkarad|Ashkarad]]—the city it serves and the water it holds
-- [[affiliation-azravan|Faith of Ázráván]]—the rite the Expositor broke
+- [[affiliation-azravan|Faith of Azravan]]—the rite the Expositor broke
 - [[lore-theshadow|The Shadow]]—what comes through a binding
 - [[lore-undead|Undead]]—the dead made to walk

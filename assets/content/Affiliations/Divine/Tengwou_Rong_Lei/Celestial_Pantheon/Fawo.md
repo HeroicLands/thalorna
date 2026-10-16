@@ -1,8 +1,8 @@
 ---
 shortcode: fawo
 name:
-  full: Fawō
-  aliases: [The Minister of Material Fortune, Falòu Séi, The Bureau of Allocation]
+  full: Fawo
+  aliases: [The Minister of Material Fortune, Falou Sei, The Bureau of Allocation]
 type: affiliation
 subType: faithtradition
 description: "Prosperity."
@@ -16,16 +16,16 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tānchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
         description: >-
-          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tāntsou consider worse.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tantsou consider worse.
       - level: 1
         title: Petitioner
         description: >-
-          Every Tāntsou: keeps a moral ledger, is observed by the household's Tsàikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -49,11 +49,11 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Téng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Fawō, The Minister of Material Fortune: >-
-        Téng Gui of the Falòu Séi, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Nouwō: >-
+      Fawo, The Minister of Material Fortune: >-
+        Teng Gui of the Falou Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Nouwo: >-
         Field Allocation Spirits, who distribute harvest quality to farming communities.
       Faléi: >-
         Coin Spirits, who influence the flow of trade and commercial fortune.
@@ -83,28 +83,28 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Fawō—The Minister of Material Fortune
+## Fawo—The Minister of Material Fortune
 
-- **Bureau:** Falòu Séi, The Bureau of Allocation
+- **Bureau:** Falou Sei, The Bureau of Allocation
 - **Domain:** Prosperity
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Léi]]
+- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Prosperity is allocated, not granted. Falòu Séi holds the schedules by which harvest quality and
+Prosperity is allocated, not granted. Falou Sei holds the schedules by which harvest quality and
 commercial fortune are distributed, and a merchant house's good years are its allocation rather than
-its luck—a distinction the Tāntsou consider obvious and foreigners find bleak.
+its luck—a distinction the Tantsou consider obvious and foreigners find bleak.
 
 The bureau is in perpetual conflict with the [[affiliation-nuowo|Bureau of Returns]] over whether
 a given resource should be distributed or reclaimed, and the two file counter-petitions against one
 another as a matter of routine. Merchants who understand this pay to have their filings timed for
-when Falòu Séi is winning.
+when Falou Sei is winning.
 
 ### Lesser Spirits
 
-- **Nouwō**—Field Allocation Spirits, who distribute harvest quality to farming communities.
+- **Nouwo**—Field Allocation Spirits, who distribute harvest quality to farming communities.
 - **Faléi**—Coin Spirits, who influence the flow of trade and commercial fortune.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Léi]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Téng Chou Script]]—the writing every petition is made in
+- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
+- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in

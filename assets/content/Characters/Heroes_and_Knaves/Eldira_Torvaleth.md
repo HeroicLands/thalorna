@@ -1,6 +1,6 @@
 ---
 shortcode: eldrtrvlth
-name: {full: Eldíra Torvaleth, given: Eldíra, clan: Torvaleth, aliases: []}
+name: {full: Eldira Torvaleth, given: Eldira, clan: Torvaleth, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -418,29 +418,29 @@ sohl:
 
 # Appearance {#appearance}
 
-![[eldrtrvlth|Eldíra Torvaleth]]{float=top-left}
+![[eldrtrvlth|Eldira Torvaleth]]{float=top-left}
 
-Eldíra stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, and dark brows. She has a tattoo of a wolf on her shoulder.
+Eldira stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, and dark brows. She has a tattoo of a wolf on her shoulder.
 
 # Dossier {#dossier}
 
-Eldíra Torvaleth was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Eldíra was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master Gérdan, begging him to teach her his craft.
+Eldira Torvaleth was born in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] to a family with established but not distinguished ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Eldira was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master Gerdan, begging him to teach her his craft.
 
-Gérdan, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Eldíra's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from ecclesiastical tradition, and pushed the boundaries of what glass could express.
+Gerdan, having no children of his own and recognizing unusual talent, agreed to take her on as an informal apprentice. For the next eight years, she learned traditional glasswork: cutting, leading, soldering, the practical creation of functional windows. However, even as a young apprentice, Eldira's inclinations diverged from the conventional. She experimented with color combinations that her mentor considered garish, designed patterns that deviated from ecclesiastical tradition, and pushed the boundaries of what glass could express.
 
-At twenty-three, following Gérdan's death, Eldíra established her own workshop in a smaller city within Tarvénia. Her work—bold, unconventional, sometimes verging on abstract—attracted a dedicated clientele of churches of unorthodox theology, wealthy collectors, and merchants seeking distinctive pieces. However, this success has come with significant friction from traditional glassworkers who view her work as a betrayal of the craft's fundamental purposes. She remains fiercely independent, refusing to compromise her artistic vision for commercial acceptance, a stance that has both built her reputation and created powerful enemies.
+At twenty-three, following Gerdan's death, Eldira established her own workshop in a smaller city within Tarvénia. Her work—bold, unconventional, sometimes verging on abstract—attracted a dedicated clientele of churches of unorthodox theology, wealthy collectors, and merchants seeking distinctive pieces. However, this success has come with significant friction from traditional glassworkers who view her work as a betrayal of the craft's fundamental purposes. She remains fiercely independent, refusing to compromise her artistic vision for commercial acceptance, a stance that has both built her reputation and created powerful enemies.
 
 ## Psyche
 
 ### Personality
 
-Eldíra is a creature of paradoxes: confident in her vision to the point of stubbornness, yet sensitive to criticism and sometimes paralyzed by doubt about her direction. She is intensely creative but can become obsessive about small details, sometimes losing sight of larger projects. She is reserved in personal matters, rarely discussing her inner life, yet deeply moved by others' struggles—she gives generously of her time and often takes commissions at reduced cost from those in real need.
+Eldira is a creature of paradoxes: confident in her vision to the point of stubbornness, yet sensitive to criticism and sometimes paralyzed by doubt about her direction. She is intensely creative but can become obsessive about small details, sometimes losing sight of larger projects. She is reserved in personal matters, rarely discussing her inner life, yet deeply moved by others' struggles—she gives generously of her time and often takes commissions at reduced cost from those in real need.
 
 She possesses a dry wit and surprising humor, though these emerge only in situations where she feels truly safe. She is spiritually inclined in a non-traditional way, viewing her glasswork as a form of meditation and spiritual expression rather than mere craft. She is independent to the point of isolation, having structured her life to minimize emotional entanglement, though she harbors deeper longings for connection that she rarely acknowledges.
 
 ### Motivation
 
-Eldíra is motivated by a drive to create beauty that expresses truth as she perceives it, regardless of whether that truth aligns with conventional understanding. She seeks to prove that glasswork need not be limited to functional windows or traditional ecclesiastical imagery, but can be a vehicle for personal and spiritual expression. She also has a quieter drive: to establish herself as an artist of the first rank, respected not because she conforms to tradition but because she has gone beyond it and transformed it.
+Eldira is motivated by a drive to create beauty that expresses truth as she perceives it, regardless of whether that truth aligns with conventional understanding. She seeks to prove that glasswork need not be limited to functional windows or traditional ecclesiastical imagery, but can be a vehicle for personal and spiritual expression. She also has a quieter drive: to establish herself as an artist of the first rank, respected not because she conforms to tradition but because she has gone beyond it and transformed it.
 
 ### Strengths
 
@@ -471,41 +471,41 @@ Eldíra is motivated by a drive to create beauty that expresses truth as she per
 ### Patrons
 
 Bishop Matthias of Riverside Cathedral
-: A reform-minded religious leader who commissioned Eldíra to create unconventional windows that express spiritual concepts beyond literal religious imagery. He has become her primary patron and most vocal advocate, defending her work against criticism from more conservative ecclesiastical figures.
+: A reform-minded religious leader who commissioned Eldira to create unconventional windows that express spiritual concepts beyond literal religious imagery. He has become her primary patron and most vocal advocate, defending her work against criticism from more conservative ecclesiastical figures.
 
-Merchant Collector Lady Oltréma Lizelándis
-: A wealthy widow with refined aesthetic tastes who has commissioned several major pieces for her private manor. She appreciates Eldíra's originality and has paid premium prices for original works.
+Merchant Collector Lady Oltrema Lizelis
+: A wealthy widow with refined aesthetic tastes who has commissioned several major pieces for her private manor. She appreciates Eldira's originality and has paid premium prices for original works.
 
 Artist-Patrons the Ravencroft Collective
-: A loose association of artists, musicians, and intellectual rebels who admire Eldíra's work and frequently commission pieces from her. They represent her artistic peer group and provide emotional support for her unconventional approach.
+: A loose association of artists, musicians, and intellectual rebels who admire Eldira's work and frequently commission pieces from her. They represent her artistic peer group and provide emotional support for her unconventional approach.
 
-Master Gérdan's Estate
-: Though her mentor passed years ago, his will established a small trust specifically to commission an annual work from Eldíra, giving her both financial stability and continuity of their artistic relationship.
+Master Gerdan's Estate
+: Though her mentor passed years ago, his will established a small trust specifically to commission an annual work from Eldira, giving her both financial stability and continuity of their artistic relationship.
 
 ### Enemies
 
 Master Glassworker Helmut Thorne
-: A traditionalist of great reputation who views Eldíra's work as a corruption of the glassmaker's craft. He has publicly criticized her work, called her a charlatan, and actively encourages clients and institutions to hire more "authentic" traditionalist glassworkers instead. He views her success as a personal threat to the integrity of his life's work.
+: A traditionalist of great reputation who views Eldira's work as a corruption of the glassmaker's craft. He has publicly criticized her work, called her a charlatan, and actively encourages clients and institutions to hire more "authentic" traditionalist glassworkers instead. He views her success as a personal threat to the integrity of his life's work.
 
 Rival Artisan Cassian Darkglass
-: A younger glassworker who initially studied under Eldíra but left her workshop in bitter circumstances, feeling inadequate compared to her natural talents. Cassian has adopted traditional methods specifically to distance himself from her influence and publicly portrays her as a fraud whose novelties are merely abandonment of proper technique.
+: A younger glassworker who initially studied under Eldira but left her workshop in bitter circumstances, feeling inadequate compared to her natural talents. Cassian has adopted traditional methods specifically to distance himself from her influence and publicly portrays her as a fraud whose novelties are merely abandonment of proper technique.
 
 ### Affiliations
 
 the Glassworkers' Guild of Tarvénia
-: Eldíra maintains formal membership but exists in uneasy relationship with the organization, which leans conservative and has several times suggested she adopt more traditional practices. She attends meetings sporadically and resists their authority.
+: Eldira maintains formal membership but exists in uneasy relationship with the organization, which leans conservative and has several times suggested she adopt more traditional practices. She attends meetings sporadically and resists their authority.
 
 the Ravencroft Artistic Circle
-: An informal community of forward-looking artists, philosophers, and others pushing at the bounds of custom, who see Eldíra as a key member and a voice for artistic freedom and new work.
+: An informal community of forward-looking artists, philosophers, and others pushing at the bounds of custom, who see Eldira as a key member and a voice for artistic freedom and new work.
 
 ## Plot Hooks
 
-1. **The Commission from Beyond**: A mysterious patron appears with an extraordinary commission—a massive window installation of dazzling technical complexity with imagery that Eldíra cannot quite decipher. The patron demands complete secrecy about the project, provides very generous payment, and insists on specific timing. As Eldíra works, she begins to suspect the imagery contains magical properties or hidden meaning, and questions emerge about who the patron truly is and what purpose this window will serve.
+1. **The Commission from Beyond**: A mysterious patron appears with an extraordinary commission—a massive window installation of dazzling technical complexity with imagery that Eldira cannot quite decipher. The patron demands complete secrecy about the project, provides very generous payment, and insists on specific timing. As Eldira works, she begins to suspect the imagery contains magical properties or hidden meaning, and questions emerge about who the patron truly is and what purpose this window will serve.
 
-2. **The Lost Master's Final Work**: While exploring an abandoned cathedral, Eldíra discovers fragmentary remains of glasswork by Master Gérdan that she has never encountered—work showing him experimenting with techniques that parallel her own discoveries, suggesting he was moving in similar directions before his death. Investigation reveals he may have destroyed some of his work to avoid criticism, and other pieces may still be hidden. She becomes obsessed with finding these missing works and understanding what her mentor was truly trying to achieve.
+2. **The Lost Master's Final Work**: While exploring an abandoned cathedral, Eldira discovers fragmentary remains of glasswork by Master Gerdan that she has never encountered—work showing him experimenting with techniques that parallel her own discoveries, suggesting he was moving in similar directions before his death. Investigation reveals he may have destroyed some of his work to avoid criticism, and other pieces may still be hidden. She becomes obsessed with finding these missing works and understanding what her mentor was truly trying to achieve.
 
-3. **The Architectural Opportunity**: Eldíra receives an invitation to submit designs for windows in a major civic building—a once-in-a-lifetime commission that could establish her as a major artist. However, the competition includes Master Helmut Thorne and other traditionalists, and the selection committee appears biased toward conventional work. She can compromise her artistic vision to compete on the committee's terms, or submit her true vision and risk rejection, potentially damaging her reputation.
+3. **The Architectural Opportunity**: Eldira receives an invitation to submit designs for windows in a major civic building—a once-in-a-lifetime commission that could establish her as a major artist. However, the competition includes Master Helmut Thorne and other traditionalists, and the selection committee appears biased toward conventional work. She can compromise her artistic vision to compete on the committee's terms, or submit her true vision and risk rejection, potentially damaging her reputation.
 
-4. **The Cursed Glass**: Eldíra acquires an unusual sample of glass—ancient, with unusual properties and coloration—from a collector's estate. When she begins working with it, creating extraordinary windows infused with the material, people who view the completed windows report disturbing dreams, visions, or compulsions. She has to find out whether the glass is truly cursed or whether something about her art is unlocking susceptibilities in viewers, and decide whether to destroy the completed work or reveal its effects.
+4. **The Cursed Glass**: Eldira acquires an unusual sample of glass—ancient, with unusual properties and coloration—from a collector's estate. When she begins working with it, creating extraordinary windows infused with the material, people who view the completed windows report disturbing dreams, visions, or compulsions. She has to find out whether the glass is truly cursed or whether something about her art is unlocking susceptibilities in viewers, and decide whether to destroy the completed work or reveal its effects.
 
-5. **The Rival's Accident**: Cassian Darkglass, her estranged former student, is seriously injured in a workshop accident—injuries so severe that he may never work again. Initially viewing this as his burden to bear, Eldíra gradually learns that his accident may not have been accidental and that multiple parties had reason to wish him harm. More troublingly, some evidence suggests the incident may have been meant for Eldíra herself. She must uncover who sought to harm whom and why, discovering conspiracy threads that implicate some she trusted.
+5. **The Rival's Accident**: Cassian Darkglass, her estranged former student, is seriously injured in a workshop accident—injuries so severe that he may never work again. Initially viewing this as his burden to bear, Eldira gradually learns that his accident may not have been accidental and that multiple parties had reason to wish him harm. More troublingly, some evidence suggests the incident may have been meant for Eldira herself. She must uncover who sought to harm whom and why, discovering conspiracy threads that implicate some she trusted.

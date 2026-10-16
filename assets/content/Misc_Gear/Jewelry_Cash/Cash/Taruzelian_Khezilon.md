@@ -1,6 +1,6 @@
 ---
 shortcode: tbit
-name: {full: Tarûzelian Ogdel, aliases: ["Tarûzelian Bit"]}
+name: {full: Taruzelian Ogdel, aliases: ["Taruzelian Bit"]}
 type: miscgear
 description: "Confederation eighth-piece of silver; small change across the Vylarian Sea trade."
 tags: [jewelry_cash]
@@ -11,6 +11,6 @@ sohl:
   system: {weightBase: 0.0004, valueBase: 0.125, qualityBase: 0, durabilityBase: 3}
 ---
 
-The Confederation's small change, an eighth of a Tarûzelian Ardin, cut or struck as the imperial equivalent is and holding the same standard.
+The Confederation's small change, an eighth of a Taruzelian Ardin, cut or struck as the imperial equivalent is and holding the same standard.
 
-It passes without question throughout the Confederation and among Tarûzelian-affiliated merchants around the Vylarian Sea, and at face anywhere that takes imperial small silver.
+It passes without question throughout the Confederation and among Taruzelian-affiliated merchants around the Vylarian Sea, and at face anywhere that takes imperial small silver.

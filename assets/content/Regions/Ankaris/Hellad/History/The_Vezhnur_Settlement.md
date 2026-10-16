@@ -1,9 +1,9 @@
 ---
 shortcode: heladvezhnur
-name: {full: The Vezhnûr Settlement, aliases: [The Cohort in the Passes]}
+name: {full: The Vezhnur Settlement, aliases: [The Cohort in the Passes]}
 type: lore
 subType: history
-description: "About 226 AF, six years after the Ústaran Schism, a cohort whose officers have gone over to the Black Flame is settled on the high passes above Órashion as frontier colonists under its centurion Vezhnûrikos by an Ôrzâs who will not proscribe the faith, marries into the pass villages and is never recalled."
+description: "About 226 AF, six years after the Ústaran Schism, a cohort whose officers have gone over to the Black Flame is settled on the high passes above Órashion as frontier colonists under its centurion Vezhnurikos by an Orzas who will not proscribe the faith, marries into the pass villages and is never recalled."
 tags: [history, hellad, peaceage]
 data:
   packFolder: byzaria
@@ -18,7 +18,7 @@ data:
         - affiliation-vylarinmpr
         - place-hekardesert
       summary: >-
-        Six years after the Ústaran Schism, a cohort whose officers have gone over to the Black Flame is settled on the high passes above Órashion as frontier colonists under its centurion, Vezhnûrikos. The Ôrzâs who will not proscribe the Black Flame finds the far passes a convenient place for men he will not discipline. The cohort marries into the pass villages and is never recalled.
+        Six years after the Ústaran Schism, a cohort whose officers have gone over to the Black Flame is settled on the high passes above Órashion as frontier colonists under its centurion, Vezhnurikos. The Orzas who will not proscribe the Black Flame finds the far passes a convenient place for men he will not discipline. The cohort marries into the pass villages and is never recalled.
       standing: reconstructed
       names: [{name: the Cohort in the Passes, by: place-eastrnmrch}]
       where:
@@ -26,7 +26,7 @@ data:
         reach:
           - place: place-hekardesert
             how: >-
-              the warriors of the holds raid down into the Hek'ar margin, and the Servants of Vezhnûrikos take their name from the centurion
+              the warriors of the holds raid down into the Hek'ar margin, and the Servants of Vezhnurikos take their name from the centurion
             knowledge: named
           - place: place-orashion2
             how: >-
@@ -41,7 +41,7 @@ data:
           note: the cohort's officers go over to the Black Flame after the schism
         - event: "lore-nartumrefuse#break"
           how: enabled
-          note: the Ôrzâs's refusal to proscribe the faith is what leaves the cohort undisciplined
+          note: the Orzas's refusal to proscribe the faith is what leaves the cohort undisciplined
         - event: lore-heladeastwar
           how: enabled
           note: the passes the cohort is settled on are the ones the war has just taken
@@ -62,25 +62,25 @@ The League tolerates the clans above Órashion as its eastern shield, and the cl
 
 ## The Cohort
 
-About 226, six years after the [[lore-ustaranschsm|Ústaran Schism]] split the Forge-Lord's faith, a cohort of the legions stationed in the east lost its officers to the Black Flame. The officers were the kind of men a general disciplines or a throne proscribes. The Ôrzâs Kàromphôs, who would not proscribe the faith ([[lore-nartumrefuse|Nartûn Refuses the Empire]]), would not discipline them either, and in the far passes above [[affiliation-orashion|Órashion]], at the edge of the province the legions had just won, he found a use for them.
+About 226, six years after the [[lore-ustaranschsm|Ústaran Schism]] split the Forge-Lord's faith, a cohort of the legions stationed in the east lost its officers to the Black Flame. The officers were the kind of men a general disciplines or a throne proscribes. The Orzas Karomfos, who would not proscribe the faith ([[lore-nartumrefuse|Nartun Refuses the Empire]]), would not discipline them either, and in the far passes above [[affiliation-orashion|Órashion]], at the edge of the province the legions had just won, he found a use for them.
 
-He settled the cohort on the high passes as frontier colonists under its centurion, **Vezhnûrikos**. The passes needed holding and the men needed a place, and no one in the capital asked how the two were being reconciled.
+He settled the cohort on the high passes as frontier colonists under its centurion, **Vezhnurikos**. The passes needed holding and the men needed a place, and no one in the capital asked how the two were being reconciled.
 
 ## The Holds
 
-The cohort married into the pass villages. Its sons were raised to arms and its warlords took the centurion's name, **Vezhnûr**, for the people they became. No one recalled the cohort, and the Empire's garrisons in the province left the high passes alone. The holds became a clan-country outside the charter of any city, and they have stayed outside it.
+The cohort married into the pass villages. Its sons were raised to arms and its warlords took the centurion's name, **Vezhnur**, for the people they became. No one recalled the cohort, and the Empire's garrisons in the province left the high passes alone. The holds became a clan-country outside the charter of any city, and they have stayed outside it.
 
 ## What the Settlement Left
 
-- **The Vezhnûr holds** and their warlords.
-- **The Black Flame** practiced openly there and nowhere else in Byzaría.
-- **The Servants of Vezhnûrikos**, the military order that raids down into the Hek'ar margin.
+- **The Vezhnur holds** and their warlords.
+- **The Black Flame** practiced openly there and nowhere else in Bizaria.
+- **The Servants of Vezhnurikos**, the military order that raids down into the Hek'ar margin.
 - **The eastern rite's absence.** No priest of the rite has ever reached the holds.
 
 ## See Also
 
 - [[lore-ustaranschsm|The Ústaran Schism]]—the schism the cohort's officers answered
-- [[lore-nartumrefuse|Nartûn Refuses the Empire]]—the refusal that left them undisciplined
+- [[lore-nartumrefuse|Nartun Refuses the Empire]]—the refusal that left them undisciplined
 - [[place-eastrnmrch|Eastern March]] · [[affiliation-orashion|Órashion]]
 - [[place-hekardesert|Desert of Hek'ar]]
 - [[affiliation-blackflame|The Black Flame]]

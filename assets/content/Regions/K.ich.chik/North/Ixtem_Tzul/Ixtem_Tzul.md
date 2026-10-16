@@ -1,6 +1,6 @@
 ---
 shortcode: ixtemtzul
-name: {full: Ixtem Tzul, aliases: []}
+name: {full: Ishtem Tsul, aliases: []}
 type: affiliation
 subType: polity
 description: Boreal forests, tundra, and caribou migrations—the subarctic homeland of the No'kin, the Bear People.
@@ -40,28 +40,28 @@ data:
           Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Tz'enmah's court.
+        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the Tz'enmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
       - level: 8
-        title: Tz'enmah
+        title: Ts'enmah
         description: >-
           Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
     offices:
-      Tz'enmah: >-
+      Ts'enmah: >-
         Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ix'kanmah: >-
+      Ish'kanmah: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
       Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
       K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Tz'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
+      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
       P'ilambal: >-
         Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Xok'almah: War-leader appointed for a campaign, and set aside when it ends.
+      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
       Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umtz'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
       P'ik'ulmah: >-
         Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
       Ballcourt Keeper: >-
@@ -76,31 +76,31 @@ data:
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
-# terran_analog: the ranks and offices are the Classic Maya court: Tz'enmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, Tz'enbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
 ---
 
 ## Overview
 
-Ixtem Tzul holds the land of [[place-ixtemtzulrgn|Ixtem Tzul Region]]. K'ich'chik scouts call the people here the No'kin Tz'omalil ("Bear People"), from the bear-imagery prominent in the few trade goods and war-trophies that have reached southern hands. What they call themselves is unknown. They are among the most reclusive of the northern peoples; even the border merchants who deal with the Xak'nal and Tz'okum report almost no direct contact with the No'kin, who seem to regard all outsiders—including the other northern nations—with deep suspicion.
+Ishtem Tsul holds the land of [[place-ixtemtzulrgn|Ishtem Tsul Region]]. K'ich'chik scouts call the people here the No'kin Ts'omalil ("Bear People"), from the bear-imagery prominent in the few trade goods and war-trophies that have reached southern hands. What they call themselves is unknown. They are among the most reclusive of the northern peoples; even the border merchants who deal with the Shak'nal and Ts'okum report almost no direct contact with the No'kin, who seem to regard all outsiders—including the other northern nations—with deep suspicion.
 
 From the little K'ich'chik observers have pieced together, the No'kin move with the great herds through merciless winters and forests where snow lies thick for half the year. The quality of the hides that occasionally reach southern markets—processed with extraordinary skill into leather of remarkable suppleness and strength—attests to practical mastery, whatever their other customs may be. K'ich'chik merchants who have attempted to penetrate No'kin territory directly have been turned back at the border, firmly and without negotiation.
 
-## The No'kin Tz'omalil
+## The No'kin Ts'omalil
 
 The Bear People are endurance hunters of extraordinary skill, capable of tracking prey across impossible terrain and in conditions that would break the spirit of outsiders. They follow caribou herds across hundreds of miles, moving with them through the seasons in a migration pattern refined by centuries of observation. Their hide-working techniques produce leather of remarkable quality—supple yet strong, water-resistant and warm. Furs processed by No'kin masters command premium prices in southern markets, and this trade generates wealth and influence despite the No'kin's generally modest material culture.
 
 The No'kin gather wild berries with systematic precision, knowing every patch of saskatoon, lingonberry, and cloudberry within their vast territory. These gatherings are seasonal events that draw extended families to ancestral sites; the berries are dried and stored, serving as both food and trade goods. The No'kin also possess deep knowledge of medicinal plants and poisons—a practical necessity in a harsh land where sickness or injury can mean death. This pharmacological expertise makes No'kin healers sought-after even by distant peoples, and several prominent medicinal compounds are known to originate in their territory and are guarded as trade secrets.
 
-K'ich'chik scholars speculate that the No'kin are organized into loose bands following extended family lines, each associated with a specific territory. Reports from the handful of captives and defectors who have provided accounts suggest that leadership may be spiritual in nature, with shamans and proven hunters wielding authority. The No'kin appear less inclined toward the elaborate display observed among the Xak'nal, though the rarity of direct contact makes any assessment of their internal governance unreliable. What is certain is that the No'kin present a unified front against outsiders; whatever disputes exist among their bands, they are invisible to K'ich'chik eyes.
+K'ich'chik scholars speculate that the No'kin are organized into loose bands following extended family lines, each associated with a specific territory. Reports from the handful of captives and defectors who have provided accounts suggest that leadership may be spiritual in nature, with shamans and proven hunters wielding authority. The No'kin appear less inclined toward the elaborate display observed among the Shak'nal, though the rarity of direct contact makes any assessment of their internal governance unreliable. What is certain is that the No'kin present a unified front against outsiders; whatever disputes exist among their bands, they are invisible to K'ich'chik eyes.
 
 ## Trade
 
-The isolation of Ixtem Tzul from direct access to the [[place-chakultzklrgn|Ch'akul Tza'kul]] barrier and the [[affiliation-itzanpnthn|Itzáni]] lands means that the No'kin rely heavily on intermediaries—particularly the Xak'nal and Tz'okum—for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
+The isolation of Ishtem Tsul from direct access to the [[place-chakultzklrgn|Ch'akul Tsa'kul]] barrier and the [[affiliation-itzanpnthn|Itsani]] lands means that the No'kin rely heavily on intermediaries—particularly the Shak'nal and Ts'okum—for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
 
 ## See Also
 
-- [[affiliation-ixbalkiahk|Ix'bal Ki'ahk]]—The Xak'nal domain to the west, separated by high passes and shared hunting territories
+- [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]—The Shak'nal domain to the west, separated by high passes and shared hunting territories
 - [[affiliation-penqalchakal|P'enqal Ch'akal]]—The Coyote People's grasslands to the south and east
-- [[affiliation-xikulchakl|Xik'ul Ch'akal]]—The Otter People's woodlands to the east, connected by river routes
-- [[affiliation-tzumanotun|Tz'uma No'tun]]—The Serpent People's distant southern territories, reached through intermediaries
-- [[place-ixtemtzulrgn|Ixtem Tzul Region]]—The land Ixtem Tzul holds
+- [[affiliation-xikulchakl|Shik'ul Ch'akal]]—The Otter People's woodlands to the east, connected by river routes
+- [[affiliation-tzumanotun|Ts'uma No'tun]]—The Serpent People's distant southern territories, reached through intermediaries
+- [[place-ixtemtzulrgn|Ishtem Tsul Region]]—The land Ishtem Tsul holds

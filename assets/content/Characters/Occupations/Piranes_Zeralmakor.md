@@ -1,6 +1,6 @@
 ---
 shortcode: pyrnszrlmkr
-name: {full: Pirânês Zêralmâkor, aliases: []}
+name: {full: Piranes Zeralmakor, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Pirânês Zêralmâkor is a 39-year-old man who stands 5'9" tall and is of moderate build. He has a square face with angular cheekbones, a wide forehead, and a strong jaw that leads to a strong chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and firm lips complete his features. He has olive skin with a weathered complexion. His brown hair is combed neatly to one side.
+Piranes Zeralmakor is a 39-year-old man who stands 5'9" tall and is of moderate build. He has a square face with angular cheekbones, a wide forehead, and a strong jaw that leads to a strong chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and firm lips complete his features. He has olive skin with a weathered complexion. His brown hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a noble family of Vylarian heritage, Pirânês Zêralmâkor came into the world of the cartographer/artist through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria]] region to a noble family of Vylarian heritage, Piranes Zeralmakor came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
-Pirânês hails from a wealthy family and pursued cartography out of a love for exploration. His maps are highly detailed and often feature embellishments that make them popular among collectors. However, his adventurous spirit sometimes gets him into dangerous situations, as he insists on personally surveying remote and uncharted areas.
+Piranes hails from a wealthy family and pursued cartography out of a love for exploration. His maps are highly detailed and often feature embellishments that make them popular among collectors. However, his adventurous spirit sometimes gets him into dangerous situations, as he insists on personally surveying remote and uncharted areas.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Prone to taking unnecessary risks during expeditions.
 
 ### Motivation
 
-Pirânês is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cartographer/artist work keep him vigilant and adaptable.
+Piranes is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cartographer/artist work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Skilled at combining art and practical cartography, adventurous spirit.
 
 ## Social
 
-Pirânês is affiliated with Royal Cartographers' Society.
+Piranes is affiliated with Royal Cartographers' Society.
 
-As a Vylarian cartographer/artist, Pirânês occupies a recognized social niche within Vylaria society.
+As a Vylarian cartographer/artist, Piranes occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Pirânês's primary patron is Wealthy collectors and explorers. This relationship provides both opportunity and obligation.
+Piranes's primary patron is Wealthy collectors and explorers. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ None, though some find his methods reckless.
 
 ## Plot Hooks
 
-1. **The Cartographer/Artist's Dilemma**—Pirânês faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Cartographer/Artist's Dilemma**—Piranes faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—None, though some find his methods reckless. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Pirânês's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Piranes's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Pirânês depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Piranes depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Pirânês the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Piranes the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -1,9 +1,9 @@
 ---
 shortcode: gronhond
-name: {full: "Grönhönd", aliases: []}
+name: {full: "Gronhond", aliases: []}
 type: affiliation
 subType: order
-description: "Herb-lore and healing in Fródvin's service."
+description: "Herb-lore and healing in Frodvin's service."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
-          Cast out of Grönhönd, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Gronhond, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
           Tends the sick and the sacred groves beside a valley infirmary's own clergy, learning its herb-lore.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Leads the order's herbalists and caretakers across the groves attached to Fródvin's infirmaries.
+          Leads the order's herbalists and caretakers across the groves attached to Frodvin's infirmaries.
     offices: {}
   seat: null
   population: null
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Come to one of [[affiliation-frodvin|Fródvin]]'s valley infirmaries in the growing season and you find the Green Hand in the herb-beds and the sacred groves as often as at a bedside.
+Come to one of [[affiliation-frodvin|Frodvin]]'s valley infirmaries in the growing season and you find the Green Hand in the herb-beds and the sacred groves as often as at a bedside.
 
-Grönhönd, the Order of the Green Hand, trains priests as herbalists and as caretakers of the groves attached to the infirmaries. A member tends the sick alongside the hof's own clergy and keeps the herb-lore that Fródvin's healing depends on, laboring in the fields as readily as at a bedside. The herbalists and caretakers of the infirmaries' groves are led by a Dróttstjóri, and a Dróttmadr tends the sick and the groves and learns the herb-lore.
+Gronhond, the Order of the Green Hand, trains priests as herbalists and as caretakers of the groves attached to the infirmaries. A member tends the sick alongside the hov's own clergy and keeps the herb-lore that Frodvin's healing depends on, laboring in the fields as readily as at a bedside. The herbalists and caretakers of the infirmaries' groves are led by a Dróttstjori, and a Drottmadr tends the sick and the groves and learns the herb-lore.

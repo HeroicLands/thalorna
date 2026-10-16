@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [sorvanda], population: 2100, packFolde
 ---
 
 **Elanmere** stands on the shore of the lake that gives it its name, in a glacial valley at the western
-foot of [[place-sorvanda|Sórvanda]] where the mountains give way to the [[place-ellive|Éllivë]] basin. Some
+foot of [[place-sorvanda|Sórvanda]] where the mountains give way to the [[place-ellive|Éllive]] basin. Some
 two thousand one hundred people live there year-round, and a great many more pass through.
 
 ## The Meeting Place
@@ -35,4 +35,4 @@ who make light of this are corrected once.
 
 ## See Also
 
-- [[place-sorvanda|Sórvanda]] · [[place-ellive|Éllivë]]
+- [[place-sorvanda|Sórvanda]] · [[place-ellive|Éllive]]

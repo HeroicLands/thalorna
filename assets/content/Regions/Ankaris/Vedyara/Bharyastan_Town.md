@@ -1,9 +1,9 @@
 ---
 shortcode: bharyastan2
-name: {full: Bharyastān, aliases: []}
+name: {full: Bharyastan, aliases: []}
 type: place
 subType: settlement
-description: "The one town of the mountain kingdom of Bharyastān—a palace, a horse-ground and a market week, on the shelf where the eight valleys meet."
+description: "The one town of the mountain kingdom of Bharyastan—a palace, a horse-ground and a market week, on the shelf where the eight valleys meet."
 tags: [town, capital, mountain, market]
 data:
   demonym: null
@@ -15,9 +15,9 @@ data:
   government: bharyastan
 ---
 
-**Bharyastān** (3,000, market 3) is the capital of [[affiliation-bharyastan|the kingdom of Bharyastān]] and the only town in it. It stands on a shelf of level ground where the tracks out of the eight valleys come together, two days above the plain and a day and a half from the gold mountain of [[affiliation-suvrgrjnpd|Suvarnagiri]].
+**Bharyastan** (3,000, market 3) is the capital of [[affiliation-bharyastan|the kingdom of Bharyastan]] and the only town in it. It stands on a shelf of level ground where the tracks out of the eight valleys come together, two days above the plain and a day and a half from the gold mountain of [[affiliation-suvrgrjnpd|Suvarnageri]].
 
-The town is the palace, the horse-ground below it, a temple of Mahājaya, and four streets of people who supply the first three. The palace is old, is built of the local gray stone, and is fortified in a way that would have been serious three centuries ago. It was fortified in the year of [[lore-hghlndwar|the Highland War]], when the kingdom's horse rode to Sharamukha, and has not been since.
+The town is the palace, the horse-ground below it, a temple of Mahajaya, and four streets of people who supply the first three. The palace is old, is built of the local gray stone, and is fortified in a way that would have been serious three centuries ago. It was fortified in the year of [[lore-hghlndwar|the Highland War]], when the kingdom's horse rode to Sharamukha, and has not been since.
 
 ## The Horse-Ground
 
@@ -27,6 +27,6 @@ Market week follows the spring muster. Walnut timber, hill barley, hides, a litt
 
 ## See Also
 
-- [[affiliation-bharyastan|The Kingdom of Bharyastān]]—the kingdom whose capital this is
-- [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—the treaty partner down the valley
+- [[affiliation-bharyastan|The Kingdom of Bharyastan]]—the kingdom whose capital this is
+- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the treaty partner down the valley
 - [[place-vedyarargn|Vedyara Region]]—the enclosing region

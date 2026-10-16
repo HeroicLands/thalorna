@@ -1,15 +1,15 @@
 ---
 shortcode: khezotontros
-name: {full: Khezoton Trosuskâr, aliases: [Hôlmârendândôs Khezoton Trosuskâr]}
+name: {full: Kezoton Trosuskar, aliases: [Holmarendos Kezoton Trosuskar]}
 type: being
 subType: npc
-description: Hôlmârendândôs (prelate) of the Zepharis Zûlêthâlon and the elderly senior master of the Plûmepistémion in Byzaris, named in Dókhéhran Fefês.
+description: Holmarendos (prelate) of the Zefaris Zulen and the elderly senior master of the Epistémion in Bizaris, named in Dókhehran Fefes.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mage, scholar]
-  occupation: Hôlmârendândôs of the Zepharis Zûlêthâlon
+  occupation: Holmarendos of the Zefaris Zulen
   lore: []
   culture: byzarianclt
   homes: [byzaris]
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Khezoton Trosuskâr is an 80-year-old man who stands 5'9" tall with a light build. He has light skin, sun-kissed complexion, dark brown hair, and brown eyes.
+Kezoton Trosuskar is an 80-year-old man who stands 5'9" tall with a light build. He has light skin, sun-kissed complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Khezoton Trosuskâr is _Hôlmârendândôs_ (prelate) of the Zepharis Zûlêthâlon (fellowship) and the elderly senior master of the Plûmepistémion (the Academy of Knowledge) in Byzaris. He mentored [[being-dkhhrnbsrn|Dókhéhran Fefês]] in her early years and defends her controversial theories against pressure from more conservative factions.
+Kezoton Trosuskar is _Holmarendos_ (prelate) of the Zefaris Zulen (fellowship) and the elderly senior master of the Epistémion (the Academy of Knowledge) in Bizaris. He mentored [[being-dkhhrnbsrn|Dókhehran Fefes]] in her early years and defends her controversial theories against pressure from more conservative factions.

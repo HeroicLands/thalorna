@@ -1,9 +1,9 @@
 ---
 shortcode: sevrunaisita
-name: {full: Sêvrûnai Sitákit, aliases: [Merchant-Master Sêvrûnai Sitákit]}
+name: {full: Sevrunai Sitakit, aliases: [Merchant-Master Sevrunai Sitakit]}
 type: being
 subType: npc
-description: A merchant-master who trusts Dôrashkâr Tredis completely on kitchen matters and has invested significantly in the kitchen.
+description: A merchant-master who trusts Dorashkar Tredis completely on kitchen matters and has invested significantly in the kitchen.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Sêvrûnai Sitákit is a 50-year-old woman who stands 5'5" tall with a light build. She has tanned skin, sun-kissed complexion, dark brown hair, and brown eyes.
+Sevrunai Sitakit is a 50-year-old woman who stands 5'5" tall with a light build. She has tanned skin, sun-kissed complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Sêvrûnai Sitákit is the merchant-master who employs [[being-drshkrplytms|Dôrashkâr Tredis]]. She trusts him completely on kitchen matters, has invested significantly in the kitchen and treats him almost as a partner.
+Sevrunai Sitakit is the merchant-master who employs [[being-drshkrplytms|Dorashkar Tredis]]. She trusts him completely on kitchen matters, has invested significantly in the kitchen and treats him almost as a partner.

@@ -1,6 +1,6 @@
 ---
 shortcode: thdrsndryth
-name: {full: Theódris yra Sundrýth wur Grimholt, aliases: []}
+name: {full: Theodris yra Sundreth wur Grimholt, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -389,13 +389,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Theódris yra Sundrýth wur Grimholt is a 29-year-old woman who stands 5'3" tall and is slender. She has a square face with defined cheekbones, a lined forehead, and a heavy jaw that leads to a broad chin. Her round blue eyes sit beneath heavy brows, lending her a candid gaze. A strong nose and full lips complete her features. She has light skin with a ruddy complexion. Her dark blonde hair is plaited in a single thick braid.
+Theodris yra Sundreth wur Grimholt is a 29-year-old woman who stands 5'3" tall and is slender. She has a square face with defined cheekbones, a lined forehead, and a heavy jaw that leads to a broad chin. Her round blue eyes sit beneath heavy brows, lending her a candid gaze. A strong nose and full lips complete her features. She has light skin with a ruddy complexion. Her dark blonde hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theódris came into the world of the beggar through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Theodris came into the world of the beggar through a combination of circumstance and aptitude.
 
-Theódris was left to fend for herself at a young age after her mother passed away. She learned to survive around Grimholt's landing, using her wits to find food and avoid trouble. Her singing voice has brought her occasional favor, though she still struggles to find a household willing to take her in.
+Theodris was left to fend for herself at a young age after her mother passed away. She learned to survive around Grimholt's landing, using her wits to find food and avoid trouble. Her singing voice has brought her occasional favor, though she still struggles to find a household willing to take her in.
 
 ## Psyche
 
@@ -405,7 +405,7 @@ Easily taken advantage of due to her trusting nature.
 
 ### Motivation
 
-Theódris is driven by the desire to master her craft and secure a stable future. The uncertainties of life in beggar work keep her vigilant and adaptable.
+Theodris is driven by the desire to master her craft and secure a stable future. The uncertainties of life in beggar work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -413,7 +413,7 @@ Charismatic and a talented singer.
 
 ## Social
 
-Theódris survives by song, favors and small gifts at Grimholt’s landing. She has no street circuit or performers’ association to protect her when a household turns her away.
+Theodris survives by song, favors and small gifts at Grimholt’s landing. She has no street circuit or performers’ association to protect her when a household turns her away.
 
 ## Companions
 
@@ -427,12 +427,12 @@ None, but has been targeted by pickpockets.
 
 ## Plot Hooks
 
-1. **The Beggar's Dilemma**—Theódris faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
+1. **The Beggar's Dilemma**—Theodris faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
 
 2. **Old Grudges**—None, but has been targeted by pickpockets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Theódris's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Theodris's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Theódris depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Theodris depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Theódris the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Theodris the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

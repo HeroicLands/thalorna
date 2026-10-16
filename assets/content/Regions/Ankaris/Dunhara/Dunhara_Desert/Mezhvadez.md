@@ -34,11 +34,11 @@ The vault is a tomb, which marks it as foreign. The Dunhari carry their dead dee
 
 Whatever the king's people believed, their dead are held to the world by the [[lore-theshadow|Shadow]], the chaos outside creation from which every undead thing stems. The retainers sealed in the alcoves are **dust-sworn**, bodies dried by the vault's air and kept moving by something that is not breath. They guard. They do not hunt. The keeper at the center of the vault is something more, because she was set there to keep a door, and the door is not a door into the earth.
 
-The [[affiliation-ashanpnthn|Āsháian]] priests of the cities say that the dead of Mezhvadez have taken the Druj in their mouths and that the bridge is a razor for them. The tribes say nothing and avoid the place.
+The [[affiliation-ashanpnthn|Ashaian]] priests of the cities say that the dead of Mezhvadez have taken the Druj in their mouths and that the bridge is a razor for them. The tribes say nothing and avoid the place.
 
 ## Who Wants It
 
-Sheikhs and poets avoid it. Others do not. Merchants of [[place-qarvelakhend|Qarvelakhend]] buy grave-goods from any guide willing to bring them out, and a _tâgemadêr_ of the Kingdom of [[affiliation-kngdmmrdd|Amradad]] is known to hunger for the king's seal, which would prove a line older than the Shêbaradêr's. The Warrior's Circle treats the vault as an outside enemy asleep and sends nobody.
+Sheikhs and poets avoid it. Others do not. Merchants of [[place-qarvelakhend|Qarvelakhend]] buy grave-goods from any guide willing to bring them out, and a _tagemader_ of the Kingdom of [[affiliation-kngdmmrdd|Amradad]] is known to hunger for the king's seal, which would prove a line older than the Shebarader's. The Warrior's Circle treats the vault as an outside enemy asleep and sends nobody.
 
 ## Reaching It
 
@@ -46,9 +46,9 @@ The vault moves with the dunes, and there is no road. A guide who has seen the D
 
 ## Hooks
 
-- **The seal.** A tâgemadêr of Amradad pays a thief to bring out the king's signet.
+- **The seal.** A tagemader of Amradad pays a thief to bring out the king's signet.
 - **The guide.** A caravan guard is paid to take two foreigners to a dune whose location was sold to them by a man who died of thirst.
-- **The Circle.** A bahâr is told that something has been walking from the Dry Stair toward the southern pastures.
+- **The Circle.** A bahar is told that something has been walking from the Dry Stair toward the southern pastures.
 
 [[scenario-kprdrystr|A Stair of Veiled Women]] gives these as a five-scene adventure.
 

@@ -12,9 +12,9 @@ data: {banner: packagebuild-none-image-mysticalabilitybnr}
 
 Arcane incantations are divided by tradition.
 
-- [[affiliation-hexhodai|Ksêmor Hodhîs]]
+- [[affiliation-hexhodai|Zemor Hodhis]]
 
-### Incantation Hydalis
+### Incantation Hidalis
 
 ```sql
 SELECT address.slug AS _ref,
@@ -40,7 +40,7 @@ WHERE type = 'mysticalability'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-### Incantation Neuménos
+### Incantation Neumenos
 
 ```sql
 SELECT address.slug AS _ref,
@@ -53,7 +53,7 @@ WHERE type = 'mysticalability'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-### Incantation Physéra
+### Incantation Fisera
 
 ```sql
 SELECT address.slug AS _ref,
@@ -66,7 +66,7 @@ WHERE type = 'mysticalability'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-### Incantation Pyréthos
+### Incantation Pirethos
 
 ```sql
 SELECT address.slug AS _ref,
@@ -79,7 +79,7 @@ WHERE type = 'mysticalability'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-### Incantation Sidéros
+### Incantation Sideris
 
 ```sql
 SELECT address.slug AS _ref,
@@ -92,7 +92,7 @@ WHERE type = 'mysticalability'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-### Incantation Zepharis
+### Incantation Zefaris
 
 ```sql
 SELECT address.slug AS _ref,

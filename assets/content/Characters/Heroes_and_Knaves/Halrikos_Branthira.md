@@ -471,7 +471,7 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 ### Patrons
 
-Magistrate Ilthéra
+Magistrate Ilthera
 : The current city magistrate relies heavily on Hálrikos's counsel and has protected him from several attempts to diminish his authority, knowing that his administration would collapse without Hálrikos's support.
 
 City Judge Thelessa
@@ -508,8 +508,8 @@ The Guild of Scribes
 The Archives of Tarvénia
 : He has effectively become the guardian of the city's historical records and legal documents.
 
-The Order of Brâzêmâs
-: Hálrikos is a pious if unemotional follower of Brâzêmâs, god of storms and order, attending temple services regularly.
+The Order of Brazemas
+: Hálrikos is a pious if unemotional follower of Brazemas, god of storms and order, attending temple services regularly.
 
 ## Plot Hooks
 

@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]
-  affiliations: {empireakhlth: {rank: 4}, rethsaar: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, rethsaar: {rank: 1}}
   gender: male
   species: humanflk
   born: "672.260"
@@ -424,11 +424,11 @@ Thotkar stands 5'10" tall with a heavy build. He has tawny skin, greying black h
 
 ### The Scholar's Path
 
-Born in 672 to a merchant family with modest social standing, Thotkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant [[being-aqenhophis|Aqenhophis]], a man of famed acumen and integrity, Thotkar studied the vast and involved legal codes that governed [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s empire, learning the rules and the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
+Born in 672 to a merchant family with modest social standing, Thotkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant [[being-aqenhophis|Aqenhofis]], a man of famed acumen and integrity, Thotkar studied the vast and involved legal codes that governed [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s empire, learning the rules and the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
 
 ### The Rise to Prominence
 
-For the past two decades, Thotkar has established himself as one of the Empire's most respected litigants—a name invoked with reverence by those seeking legal protection and viewed with healthy caution by opposing counselors. His reputation rests upon steadfast commitment to justice over profit, a willingness to take on cases others deem unwinnable, and a record of success so consistent that opposing litigants often attempt to negotiate settlements simply upon learning he will defend their adversary. His reputation extends beyond Aû'Khelâthu; scholars from distant lands have consulted with him, and his written interpretations of legal principles have begun to influence judicial thinking across multiple realms.
+For the past two decades, Thotkar has established himself as one of the Empire's most respected litigants—a name invoked with reverence by those seeking legal protection and viewed with healthy caution by opposing counselors. His reputation rests upon steadfast commitment to justice over profit, a willingness to take on cases others deem unwinnable, and a record of success so consistent that opposing litigants often attempt to negotiate settlements simply upon learning he will defend their adversary. His reputation extends beyond Au'Khelathu; scholars from distant lands have consulted with him, and his written interpretations of legal principles have begun to influence judicial thinking across multiple realms.
 
 ### The Burden of Knowledge
 
@@ -440,7 +440,7 @@ Yet Thotkar's success has come at personal cost. His deep feeling for his client
 
 Thotkar is a man of deep intellectual integrity whose personality is marked by unusual depth of feeling behind a composed, scholarly manner. He speaks deliberately, choosing words with precision, seemingly incapable of casual speech or superficial conversation. His mind is perpetually analytical, constantly examining situations for logical inconsistencies and hidden consequences. Yet this intellectual rigor masks real emotional sensitivity; he experiences his clients' suffering with an intensity that borders on overwhelming, and his commitment to their causes goes beyond the obligations of his trade.
 
-He possesses unusual humility for one of his accomplishment; he is acutely aware of law's limitations and the finitude of human knowledge. His faith in [[lore-rethsaardty|Reth'Sa'âr]], god of wisdom and knowledge, runs deep and somewhat austere—he sees in the divine pursuit of absolute truth a model for his own ethics in practice, yet also acknowledges humanity's perpetual failure to achieve that ideal. He is a man of ritual and discipline, maintaining daily practices of study and meditation, and he brings this same rigor to his practice.
+He possesses unusual humility for one of his accomplishment; he is acutely aware of law's limitations and the finitude of human knowledge. His faith in [[lore-rethsaardty|Reth'Sa'ar]], god of wisdom and knowledge, runs deep and somewhat austere—he sees in the divine pursuit of absolute truth a model for his own ethics in practice, yet also acknowledges humanity's perpetual failure to achieve that ideal. He is a man of ritual and discipline, maintaining daily practices of study and meditation, and he brings this same rigor to his practice.
 
 In company, he is warm but somewhat reserved, prone to lengthy silences while he considers his words. He maintains only a few intimate friendships, but those relationships are characterized by uncommon depth and loyalty. He is capable of surprising humor—dry, learned, and often emerging unexpectedly in serious conversations. His colleagues respect him deeply, though some find him daunting; his standards for legal practice are exacting, and he has little patience for procedural shortcuts or intellectual laziness.
 
@@ -450,7 +450,7 @@ Thotkar is driven by an almost religious commitment to justice and truth—not j
 
 ### Strengths
 
-- **Comprehensive Legal Mastery**: Possesses encyclopedic knowledge of Aû'Khelâthu's legal codes, the laws of multiple neighboring realms, and the philosophical principles underlying legal systems; his authority is uncontested and frequently sought as authoritative.
+- **Comprehensive Legal Mastery**: Possesses encyclopedic knowledge of Au'Khelathu's legal codes, the laws of multiple neighboring realms, and the philosophical principles underlying legal systems; his authority is uncontested and frequently sought as authoritative.
 
 - **Logical Brilliance**: A mind of extraordinary analytical power, capable of identifying logical inconsistencies and constructing arguments of devastating intellectual force; he rarely loses a case against opposing counselors of lesser caliber.
 
@@ -480,8 +480,8 @@ Thotkar is driven by an almost religious commitment to justice and truth—not j
 
 ### Patrons
 
-Priestess [[being-amqelitana2|Amqelitâna]]
-: High priestess of Reth'Sa'âr's temple and a fellow scholar of law and wisdom; she has become both spiritual advisor and patron, commissioning Thotkar to defend temple interests and consulting with him on matters of religious jurisprudence.
+Priestess [[being-amqelitana2|Amqelitana]]
+: High priestess of Reth'Sa'ar's temple and a fellow scholar of law and wisdom; she has become both spiritual advisor and patron, commissioning Thotkar to defend temple interests and consulting with him on matters of religious jurisprudence.
 
 The Widow Zabuia
 : A client whose case Thotkar defended without fee years ago, resulting in restoration of her family's property and dignity; she has become his patron and supporter, regularly bringing him additional cases and commending his work to others.
@@ -508,15 +508,15 @@ Litigant [[being-gezehutyu2|Balinta]]
 Litigant's Guild
 : A respected senior member who serves on the ethics committee and has been approached regarding leadership positions; his standards and reputation significantly influence Guild policy and standards of practice.
 
-[[affiliation-lemrethsaar|Lem'Reth'Sa'âr]]
+[[affiliation-lemrethsaar|Lem'Reth'Sa'ar]]
 : Committed lay member devoted to the pursuit of wisdom and truth; he participates in scholarly circles and has begun to develop written theological work exploring the intersection of divine wisdom and human justice.
 
 ## Plot Hooks
 
 1. **The Case of Impossible Innocence**: A young person convicted of murder through what appears to be airtight legal procedure approaches Thotkar requesting defense appeal—they claim absolute innocence, yet all evidence points to guilt, all testimony corroborates the conviction, and even Thotkar's initial investigation seems to confirm the verdict. Yet the young person's desperation rings true, and Thotkar becomes convinced that subtle but systematic deception has orchestrated a false conviction. His investigation threatens to expose corruption in the judicial system itself—evidence that the original magistrate conspired with prosecutors to manufacture guilt. As Thotkar works toward appeal, he uncovers evidence that the conviction may have been orchestrated to conceal far greater crimes by more powerful figures. Success would require public exposure of judicial corruption that the system is heavily invested in concealing.
 
-2. **The Scholar's Rival**: Another litigant arrives in the city—Thotkar's former mentor, the famed Master Aqenhophis, thought dead for over a decade. Aqê is now elderly and infirm, and he approaches Thotkar with a startling revelation: he has discovered that virtually his entire life's work has been subtly orchestrated by a powerful shadow organization using law as a vehicle for their own political purposes. He suspects Thotkar's practice may be similarly manipulated without his knowledge. Together they begin investigating, and the trail leads into shadowy politics involving multiple realms and suggests that some of Thotkar's greatest victories may have served the interests of those he would oppose if he knew. The revelation threatens to undermine his faith in his own judgment and his fundamental belief in the possibility of justice.
+2. **The Scholar's Rival**: Another litigant arrives in the city—Thotkar's former mentor, the famed Master Aqenhofis, thought dead for over a decade. Aqe is now elderly and infirm, and he approaches Thotkar with a startling revelation: he has discovered that virtually his entire life's work has been subtly orchestrated by a powerful shadow organization using law as a vehicle for their own political purposes. He suspects Thotkar's practice may be similarly manipulated without his knowledge. Together they begin investigating, and the trail leads into shadowy politics involving multiple realms and suggests that some of Thotkar's greatest victories may have served the interests of those he would oppose if he knew. The revelation threatens to undermine his faith in his own judgment and his fundamental belief in the possibility of justice.
 
 3. **The Contract with Consequences**: A desperate client—a woman whose daughter has been enslaved through legal machinery—approaches Thotkar with an extraordinary proposal: she has discovered a loophole in the legal code that would free her daughter, but it requires Thotkar to argue for an interpretation that would destabilize significant commercial practices and provoke violent opposition from wealthy merchants. The client is willing to pay an enormous fee and can provide evidence that her daughter's enslavement was technically illegal. Yet Thotkar recognizes that winning this case would likely trigger legal backlash and potentially create precedents that could be weaponized against those he typically represents.
 
-4. **The Revelation of Authorship**: Thotkar discovers that Master Litigant Aqenhophis—his revered mentor and the architect of much of Aû'Khelâthu's contemporary legal framework—may have perpetuated a false legal interpretation for decades, deliberately concealing a truth that would undermine a significant merchant dynasty's wealth and power. Aqenhophis may have done this because the merchant family's founder saved his life, and gratitude outweighed his commitment to truth. Exposing his mentor's deception would destroy a name and legacy he reveres while potentially destabilizing legal systems that depend on his interpretations.
+4. **The Revelation of Authorship**: Thotkar discovers that Master Litigant Aqenhofis—his revered mentor and the architect of much of Au'Khelathu's contemporary legal framework—may have perpetuated a false legal interpretation for decades, deliberately concealing a truth that would undermine a significant merchant dynasty's wealth and power. Aqenhofis may have done this because the merchant family's founder saved his life, and gratitude outweighed his commitment to truth. Exposing his mentor's deception would destroy a name and legacy he reveres while potentially destabilizing legal systems that depend on his interpretations.

@@ -3,7 +3,7 @@ shortcode: hvelmsnerv
 name: {full: Hvelmsnerv, aliases: [The Whale-Prophecy]}
 type: lore
 subType: literature
-description: "Völva Aldrhildr's foretelling from a Dvarnvík high seat on the first night of the winter the whales did not come, as the hall's skald gave it at the ting."
+description: "Velva Aldrhildr's foretelling from a Dvarnvík high seat on the first night of the winter the whales did not come, as the hall's skald gave it at the ting."
 tags: [draft, nordlands]
 data:
   packFolder: nordlands
@@ -19,21 +19,21 @@ data:
     - place-dvarnvik
 ---
 
-**Hvelmsnerv**, the Whale-Prophecy, is the name a [[place-dvarnvik|Dvarnvík]] hall gave to the _snerv_ (foretelling) that [[place-hnarvdal|Völva Aldrhildr]] spoke from its high seat at [[lore-vetrnaetr|Vetrnaetr]], on the first night of the last winter in which [[affiliation-kngdmvthgrd|Vithgard]]'s whaling failed. The name keeps the question the host asked and nothing of the answer he was given. [[lore-nordheimnclt|Nordmen]] halls along the whale-coast recite it while the bones of the slaughter-blót are read, in four-beat stanzas of uneven length that close on her _hnerv_ (refrain) about the hall's own fire. She passes over the fire and the wolf of [[lore-aldarlok|Aldarlok]] in a handful of lines, as a thing the hall's skald already has at [[lore-jol|Jól]], and spends her length on what the [[lore-aldarhringr|ring of ages]] leaves: a coal banked in the empty _gnúm_, the clay pot a household keeps waiting for its next death, and the three heirs of the [[lore-tvelgaett|Tvelgaett]] who inherit a morning in which nobody says a name from this age.
+**Hvelmsnerv**, the Whale-Prophecy, is the name a [[place-dvarnvik|Dvarnvík]] hall gave to the _snerv_ (foretelling) that [[place-hnarvdal|Velva Aldrhildr]] spoke from its high seat at [[lore-vetrnaetr|Vetrnetr]], on the first night of the last winter in which [[affiliation-kngdmvthgrd|Vithgard]]'s whaling failed. The name keeps the question the host asked and nothing of the answer he was given. [[lore-nordheimnclt|Nordmen]] halls along the whale-coast recite it while the bones of the slaughter-blet are read, in four-beat stanzas of uneven length that close on her _hnerv_ (refrain) about the hall's own fire. She passes over the fire and the wolf of [[lore-aldarlok|Aldarlok]] in a handful of lines, as a thing the hall's skald already has at [[lore-jol|Jel]], and spends her length on what the [[lore-aldarhringr|ring of ages]] leaves: a coal banked in the empty _gnum_, the clay pot a household keeps waiting for its next death, and the three heirs of the [[lore-tvelgaett|Tvelgaett]] who inherit a morning in which nobody says a name from this age.
 
-The text is the recital the hall's skald gives after the ting, as he gave it there under the truth of the recital. The ting sat at Dvarnvík in the spring, when the strand had stayed empty through the dark months, and it accused eleven people of working the winds; [[lore-vthgdhstry|the Vithgard histories]] keep the judgment. A [[affiliation-eidhond|Sworn Hand]] ruled there that foretelling alone is no working against a named person, and under that ruling the piece is still sung. The ting struck two kinds of name from the recital, the names the völva spoke down the benches and the one she named as the carrier of the pot, and the skald keeps them struck; those are the lacunae. Seven women, two plateau men who had sold wind-knots and two Dvarnvík men accused of _ergi_ were burned on the skerry of [[place-askholm|Askholm]]. Aldrhildr was accused and never tried. The whales did not come in.
+The text is the recital the hall's skald gives after the ting, as he gave it there under the truth of the recital. The ting sat at Dvarnvík in the spring, when the strand had stayed empty through the dark months, and it accused eleven people of working the winds; [[lore-vthgdhstry|the Vithgard histories]] keep the judgment. A [[affiliation-eidhond|Sworn Hand]] ruled there that foretelling alone is no working against a named person, and under that ruling the piece is still sung. The ting struck two kinds of name from the recital, the names the velva spoke down the benches and the one she named as the carrier of the pot, and the skald keeps them struck; those are the lacunae. Seven women, two plateau men who had sold wind-knots and two Dvarnvík men accused of _ergi_ were burned on the skerry of [[place-askholm|Askholm]]. Aldrhildr was accused and never tried. The whales did not come in.
 
 : Hvelmsnerv {#snerv}
 
 ```poetry {form=snerv lang=en}
 I am the hall's skald. I had the bench by the door.
-I had the end of the age at Jól that year, as I have it now.
+I had the end of the age at Jel that year, as I have it now.
 What I give you is hers. The ting has heard it once,
 and I give it the second time as I gave it the first.
 
 The ships were up. The strand was bare.
 The giant's blood lay gray to the skerries with nothing in it.
-The blót was done at the Winter Nights,
+The blet was done at the Winter Nights,
 the beasts hung bled in the smoke of the roof,
 and the bones lay by in a bowl, unread.
 That was the night. I say it as it was.
@@ -61,13 +61,13 @@ got up from the high seat and she sat in it.
 That is the custom. She did not thank him.
 
 She ate first. The host's wife served her
-the blót-meat, and barley, and the ale,
+the blet-meat, and barley, and the ale,
 and she ate as a woman eats who has walked all day,
 and when the bowl was empty she held it out,
 and it was filled, and she ate that.
 The hall watched her eat. Nobody spoke.
 A child asked what she was for. His mother
-put a hand over his mouth, and the völva
+put a hand over his mouth, and the velva
 looked at the child, and went on eating.
 Then she wiped the bowl with the heel of the loaf
 and set it down and said, "Ask."
@@ -102,7 +102,7 @@ The fire is low. Shall I go on?
 
 The host put driftwood on. Two pieces.
 
-Your skald has the end of the age at Jól.
+Your skald has the end of the age at Jel.
 He has it whole and he has it in order
 and he is fed for it, and I will not sing it for him.
 The gate opens. You know that.
@@ -190,7 +190,7 @@ wet, for the first thing the new sky does is rain,
 and it rains on the ash a long time, and the days go uncounted,
 and out of the corner of the pit where the floor was coldest,
 through the lid, through the thong, through the ash of her hearth,
-a shoot comes up. That is [[lore-tvelgaett|Grönvin]]. That is her name.
+a shoot comes up. That is [[lore-tvelgaett|Gronvin]]. That is her name.
 She has never heard of [[lore-frodvindty|the Healer]].
 She comes up through the ash because the warmth was there,
 and does not know whose warmth it was, and does not ask.
@@ -206,7 +206,7 @@ and when she was tired she set it down on the new ground,
 and the new ground had its first thunder, a small one,
 and the rain stopped for a while.
 
-And the one who walks. Aldvar, [[lore-odvardty|Ódvar]]'s son,
+And the one who walks. Aldvar, [[lore-odvardty|Odvar]]'s son,
 who tore the wolf's jaw open and said nothing about it,
 walks the first morning with his hands at his sides,
 and he says none of the old names. Not his father's.
@@ -217,7 +217,7 @@ And that is all of it: a shoot, a hammer,
 and a man who steps around the shoot.
 
 There are people in it. Do not ask me where from.
-The hofs have their answers, and the hofs are ash.
+The hovs have their answers, and the hovs are ash.
 There are people in it, and there is weather, and ground,
 and a woman is cutting turf for a roof
 before the rain comes back,
@@ -292,7 +292,7 @@ The fire is low.
 ## See Also
 
 - [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the burning at Askholm and the Sworn Hand's ruling
-- [[lore-tvelgaett|Tvelgaett]]—the three heirs the völva names
+- [[lore-tvelgaett|Tvelgaett]]—the three heirs the velva names
 - [[lore-aldarhringr|Aldarhringr]]—the ring of ages, and the remnant each age leaves
 - [[lore-aldarlok|Aldarlok]]—the close of the age she declines to sing
 - [[lore-nrdlndswhal|The Whale Strand]]—the autumn run, and the failed winter that ends at Askholm

@@ -1,6 +1,6 @@
 ---
 shortcode: kalidkrkss
-name: {full: Kalída Kourkásios, given: Kalída, clan: Kourkásios, aliases: []}
+name: {full: Kalida Kourkásios, given: Kalida, clan: Kourkásios, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -418,13 +418,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kalidkrkss|Kalída Kourkásios]]{float=top-left}
+![[kalidkrkss|Kalida Kourkásios]]{float=top-left}
 
-Kalída stands 5'7" tall with a light build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a aquiline nose, a pronounced chin, slightly pursed lips, strong brows.
+Kalida stands 5'7" tall with a light build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a aquiline nose, a pronounced chin, slightly pursed lips, strong brows.
 
 # Dossier {#dossier}
 
-Born to the Kourkásios family, prosperous wine merchants of the Byzarian League, Kalída was expected to marry advantageously and manage household affairs. Instead, at age sixteen, she became obsessed with the ancient pottery techniques of the Old Kingdom, studying under the aging master potter **Timolkâr the Glazemaster** against her family's wishes. Her early works were technically flawless but cold, perfect imitations of classical forms. The true breakthrough came when a kiln fire damaged a batch of her work, causing the glazes to run and blend in unexpected ways—what she initially saw as catastrophic failure became the seed of her revolutionary technique.
+Born to the Kourkásios family, prosperous wine merchants of the Bizarian League, Kalida was expected to marry advantageously and manage household affairs. Instead, at age sixteen, she became obsessed with the ancient pottery techniques of the Old Kingdom, studying under the aging master potter **Timolkar the Glazemaster** against her family's wishes. Her early works were technically flawless but cold, perfect imitations of classical forms. The true breakthrough came when a kiln fire damaged a batch of her work, causing the glazes to run and blend in unexpected ways—what she initially saw as catastrophic failure became the seed of her revolutionary technique.
 
 Within five years, her work had become known throughout the League and beyond. She established her own atelier, deliberately choosing a studio in the artisan quarter rather than accepting wealthy patronage that would have confined her. At twenty-nine, she has amassed a small fortune from commissions, though she pours most of her earnings back into experimentation and materials. Her greatest achievement is the development of a novel glaze formula that achieves unprecedented depth of color and a liquid-like quality that appears to move across the vessel's surface.
 
@@ -432,17 +432,17 @@ Within five years, her work had become known throughout the League and beyond. S
 
 ### Personality
 
-Kalída is animated and vivacious in social settings, with a charm that is entirely rather than calculated. She is quick to laugh, passionate in her enthusiasms, and interested in people—particularly in understanding what drives them. However, beneath this warmth lies an ambitious core; she carefully cultivates relationships with wealthy collectors and influential patrons, always conscious of how each connection might serve her artistic vision. She is not cold or manipulative, but rather pragmatically aware that artistic genius alone does not guarantee success or resources.
+Kalida is animated and vivacious in social settings, with a charm that is entirely rather than calculated. She is quick to laugh, passionate in her enthusiasms, and interested in people—particularly in understanding what drives them. However, beneath this warmth lies an ambitious core; she carefully cultivates relationships with wealthy collectors and influential patrons, always conscious of how each connection might serve her artistic vision. She is not cold or manipulative, but rather pragmatically aware that artistic genius alone does not guarantee success or resources.
 
 In her studio, she is a different person—intensely focused, sometimes to the point of losing track of time and neglecting sleep and meals. She can become frustrated when work does not match her mental vision, and her perfectionism occasionally manifests as harsh self-criticism. Yet these moments pass quickly, and she possesses a rare ability to laugh at her own failures and treat them as learning opportunities.
 
 ### Motivation
 
-Kalída is driven by a vision of pushing the boundaries of what pottery can be—transforming it from mere functional craft into high art that rivals painting and sculpture in emotional resonance. She seeks recognition not for vanity but because validation of her artistic vision will grant her the freedom and resources to pursue ever more ambitious projects. She is also deeply motivated by the desire to prove that a woman from a merchant family can achieve lasting legacy through her own talent and determination, independent of marriage or male patronage.
+Kalida is driven by a vision of pushing the boundaries of what pottery can be—transforming it from mere functional craft into high art that rivals painting and sculpture in emotional resonance. She seeks recognition not for vanity but because validation of her artistic vision will grant her the freedom and resources to pursue ever more ambitious projects. She is also deeply motivated by the desire to prove that a woman from a merchant family can achieve lasting legacy through her own talent and determination, independent of marriage or male patronage.
 
 ### Strengths
 
-- **Creativity**: With a Creativity score of 18, Kalída conceives of pottery forms and decorative techniques that others simply cannot imagine, allowing her to create revolutionary work.
+- **Creativity**: With a Creativity score of 18, Kalida conceives of pottery forms and decorative techniques that others simply cannot imagine, allowing her to create revolutionary work.
 - **Master Technician**: Her Ceramics skill at 14 (with 5 multipliers) combined with Glassworking at 14 makes her technically excellent, capable of executing even her most ambitious visions.
 - **Compelling Marketer**: Her Charm at 15 and Theatrics at 15 allow her to sell her work effectively, despite (or because of) the premium prices she commands.
 - **Refined Aesthetic**: Her Drawing at 16 and understanding of composition allow her to design vessels of visual harmony.
@@ -460,13 +460,13 @@ Kalída is driven by a vision of pushing the boundaries of what pottery can be�
 
 ### Patrons
 
-Lord Archon Krorighos Gharazûr
+Lord Arsir Krorighos Gharazur
 : A wealthy collector and patron of the arts who has commissioned several major pieces and provides her with occasional capital for experiments.
 
-The Byzarian Merchant Consortium
+The Bizarian Merchant Consortium
 : Her family's organization, which, despite initial disapproval, now takes pride in her success and occasionally sponsors commissions for diplomatic gifts.
 
-Master Timolkâr
+Master Timolkar
 : Though retired, her elderly teacher remains her confidant and advisor, and she still seeks his input on technically difficult glazing problems.
 
 ### Enemies
@@ -474,12 +474,12 @@ Master Timolkâr
 The Conservative Artisans' Guild Faction
 : Traditional potters view her revolutionary techniques as a threat to established standards and have worked to exclude her from certain prestigious exhibitions.
 
-Rival Artist Andrónash
-: A jealous sculptor who was once romantically involved with Kalída and now actively spreads rumors about her methods being "mere trickery" rather than true art.
+Rival Artist Andronash
+: A jealous sculptor who was once romantically involved with Kalida and now actively spreads rumors about her methods being "mere trickery" rather than true art.
 
 ### Affiliations
 
-The Artisans' Guild of Byzaría
+The Artisans' Guild of Bizaria
 : Despite occasional friction with traditionalists, she maintains official membership and participates in guild exhibitions.
 
 The Circle of Innovators
@@ -487,12 +487,12 @@ The Circle of Innovators
 
 ## Plot Hooks
 
-1. **The Stolen Formula**: A rival workshop in a neighboring city has somehow obtained Kalída's precise glazing formula and is now producing near-perfect copies of her work at significantly lower cost, flooding the market and destroying her competitive advantage. She must determine how the theft occurred while fighting to maintain her reputation and differentiate her work from the imitations.
+1. **The Stolen Formula**: A rival workshop in a neighboring city has somehow obtained Kalida's precise glazing formula and is now producing near-perfect copies of her work at significantly lower cost, flooding the market and destroying her competitive advantage. She must determine how the theft occurred while fighting to maintain her reputation and differentiate her work from the imitations.
 
-2. **Commission from the Shadow Court**: A mysterious patron offers an enormous commission—enough to fund her ambitions for years—to create a series of vessels with very specific, unusual properties. The patron is deliberately vague about the purpose, but the designs Kalída is asked to create suggest uses both mystical and potentially harmful. She must decide whether to accept the work and risk becoming entangled with forces she doesn't understand.
+2. **Commission from the Shadow Court**: A mysterious patron offers an enormous commission—enough to fund her ambitions for years—to create a series of vessels with very specific, unusual properties. The patron is deliberately vague about the purpose, but the designs Kalida is asked to create suggest uses both mystical and potentially harmful. She must decide whether to accept the work and risk becoming entangled with forces she doesn't understand.
 
-3. **The Rekindling**: **Andrónash**, her former lover, reappears with a proposal: collaborate on a joint project that would be revolutionary, combining sculpture and pottery into something entirely new. The work would make the name of both of them, but their romantic history is fraught with betrayal and heartbreak. She must decide whether artistic ambition can overcome personal wounds, or whether this is simply a trap designed to expose her vulnerabilities.
+3. **The Rekindling**: **Andronash**, her former lover, reappears with a proposal: collaborate on a joint project that would be revolutionary, combining sculpture and pottery into something entirely new. The work would make the name of both of them, but their romantic history is fraught with betrayal and heartbreak. She must decide whether artistic ambition can overcome personal wounds, or whether this is simply a trap designed to expose her vulnerabilities.
 
-4. **Clay from Beyond**: A trader arrives with an extraordinary clay discovered in far southern lands, claimed to possess unique properties. Sample pieces fired from it display iridescence and colors impossible with ordinary glazing. However, the clay is both rare and expensive, and the trader's questions about her work and methods feel probing. Kalída must obtain sufficient quantities to pursue a revolutionary line of work while uncovering whether there is something more to the trader's interest than art appreciation.
+4. **Clay from Beyond**: A trader arrives with an extraordinary clay discovered in far southern lands, claimed to possess unique properties. Sample pieces fired from it display iridescence and colors impossible with ordinary glazing. However, the clay is both rare and expensive, and the trader's questions about her work and methods feel probing. Kalida must obtain sufficient quantities to pursue a revolutionary line of work while uncovering whether there is something more to the trader's interest than art appreciation.
 
-5. **The Inheritance**: Kalída's elderly mentor **Timolkâr** dies, leaving her his private collection of classical pottery pieces and a personal journal revealing that many of his greatest works and techniques were actually developed in collaboration with a woman he could never publicly acknowledge due to social restrictions. The journal hints at techniques beyond even his magnificent achievements. Kalída must decide whether to use this knowledge to push her art forward while managing the ethical complications of claiming work that was not entirely her own.
+5. **The Inheritance**: Kalida's elderly mentor **Timolkar** dies, leaving her his private collection of classical pottery pieces and a personal journal revealing that many of his greatest works and techniques were actually developed in collaboration with a woman he could never publicly acknowledge due to social restrictions. The journal hints at techniques beyond even his magnificent achievements. Kalida must decide whether to use this knowledge to push her art forward while managing the ethical complications of claiming work that was not entirely her own.

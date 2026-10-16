@@ -3,7 +3,7 @@ shortcode: firstcrown
 name: {full: The First Crowning of Élavendre, aliases: [The Tree-Line Oath]}
 type: lore
 subType: history
-description: "About 560 BF the lowland houses of the Bérav basin acclaimed Táldoren of the house of Oréthan as king, and he went up to Ésalosa and swore that the crown's writ stops where the tribes' ground begins."
+description: "About 560 BF the lowland houses of the Berav basin acclaimed Táldoren of the house of Orethan as king, and he went up to Ésalosa and swore that the crown's writ stops where the tribes' ground begins."
 tags: [history]
 data:
   culture: elavendriclt
@@ -21,7 +21,7 @@ data:
         - place-eshalshldg
         - place-beravel
       summary: >-
-        The lowland houses of the Bérav basin, Áelendan by descent and long settled, acclaim Táldoren of the house of Oréthan as their king. His first act is to go up to Ésalosa on the Áelendan's invitation and swear that the crown's writ stops where the tribes' ground begins: no royal court hears a case against the tribes, no royal troops enter the mountains without leave, and the royal road ends where the Wardens' charge starts. The Bardic Circle and the Grove Council, already old, become the king's counsel.
+        The lowland houses of the Berav basin, Áelendan by descent and long settled, acclaim Táldoren of the house of Orethan as their king. His first act is to go up to Ésalosa on the Áelendan's invitation and swear that the crown's writ stops where the tribes' ground begins: no royal court hears a case against the tribes, no royal troops enter the mountains without leave, and the royal road ends where the Wardens' charge starts. The Bardic Circle and the Grove Council, already old, become the king's counsel.
       standing: attested
       names:
         - {name: the Tree-Line oath, by: affiliation-kngdmlvndr}
@@ -36,7 +36,7 @@ data:
             how: royal magistrates, troops and taxes stop at the tree line, and the Wardens hold the ground above it
             knowledge: named
           - place: place-ellive
-            how: the houses of the basin make their court at the crossing of the Bérav where the capital grows
+            how: the houses of the basin make their court at the crossing of the Berav where the capital grows
             knowledge: named
       who:
         - {ref: affiliation-kngdmlvndr, role: founder}
@@ -65,7 +65,7 @@ Every monarch of Élavendre swears at the crowning that the crown stops at the t
 
 ## The Houses of the Basin
 
-The people who came down out of the hills into the broad green basin of the [[place-beravriver|Bérav]] were Áelendan by descent, and they had long since stopped being Áelendan by habit. They farmed, they traded up and down the river, they built in stone, and they raised houses with names and genealogies that the bards of the day were glad to keep. By about 560 BF they wanted a king, and they acclaimed **Táldoren**, of the house of **Oréthan**, as king. He is the First Crowned.
+The people who came down out of the hills into the broad green basin of the [[place-beravriver|Berav]] were Áelendan by descent, and they had long since stopped being Áelendan by habit. They farmed, they traded up and down the river, they built in stone, and they raised houses with names and genealogies that the bards of the day were glad to keep. By about 560 BF they wanted a king, and they acclaimed **Táldoren**, of the house of **Orethan**, as king. He is the First Crowned.
 
 ## The Oath at Ésalosa
 
@@ -82,7 +82,7 @@ The [[affiliation-bardicolgs|Bardic Circle]] and the [[affiliation-groveconcl|Gr
 - **The Tree-Line oath,** sworn at every crowning, and the reason no royal magistrate, soldier or tax-collector enters Áelendan country without being asked ([[place-drenavrspn|The Drenavar Spine]]).
 - **The honor-song at Ésalosa.** The monarchs the Áelendan have invited to the Lodge are remembered in a song, and its list of kings does not match the Colleges' on one name ([[place-eshalshldg|Ésalosa Lodge]]).
 - **A crown that rules by descent.** The right to the throne is the right of a house to say it comes from the Áelendan, and the houses of the kingdom have been proving it since.
-- **Péravel.** The king's court grew at the crossing of the Bérav, and the capital grew around the court ([[place-beravel|Péravel]]).
+- **Péravel.** The king's court grew at the crossing of the Berav, and the capital grew around the court ([[place-beravel|Péravel]]).
 
 The kingdom is the oldest continuously governed realm in the west of Ankaris, older than the Empire by more than five centuries, and a good deal younger than the Pact.
 

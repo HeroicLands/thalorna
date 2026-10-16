@@ -3,7 +3,7 @@ shortcode: thefounding
 name: {full: The Founding, aliases: [Year One, The Making of the Vylarian Empire]}
 type: lore
 subType: history
-description: "A Vylarian kurthândôs backed by loyal legions and the newly chartered Arcane Order seizes supreme power and declares himself Emperor—Year 1 of the calendar most of western Ankaris still counts by."
+description: "A Vylarian kurthos backed by loyal legions and the newly chartered Arcane Order seizes supreme power and declares himself Emperor—Year 1 of the calendar most of western Ankaris still counts by."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [affiliation-vylarinmpr, place-ankrscntnnt]
       summary: >-
-        A Vylarian kurthândôs, backed by loyal legions and by the Thôrdimâlon, seizes supreme power and declares himself Emperor. The Senate survives and is reduced from a governing body to an advisory one. It is not a sudden revolution but the culmination of decades of erosion; the Emperor formalizes what has already become reality. Western Ankaris reckons its years from this moment, and everything before it is dated Before the Founding.
+        A Vylarian kurthos, backed by loyal legions and by the Thordimalon, seizes supreme power and declares himself Emperor. The Senate survives and is reduced from a governing body to an advisory one. It is not a sudden revolution but the culmination of decades of erosion; the Emperor formalizes what has already become reality. Western Ankaris reckons its years from this moment, and everything before it is dated Before the Founding.
       standing: attested
       names:
         - name: Year 1
@@ -28,7 +28,7 @@ data:
             knowledge: named
           - place: place-helionis
             how: >-
-              the Arcane Order's charter passes to an Ôrzâs who owes it a debt, rather than to a Senate that could vote it away
+              the Arcane Order's charter passes to an Orzas who owes it a debt, rather than to a Senate that could vote it away
             knowledge: named
           - place: place-aureldirgn
             how: >-
@@ -40,7 +40,7 @@ data:
             knowledge: named
           - place: place-aelwyth
             how: >-
-              an island that never saw a legion counts its years by a Vylarian kurthândôs's coup, because its neighbors across the water do
+              an island that never saw a legion counts its years by a Vylarian kurthos's coup, because its neighbors across the water do
             knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: actor}
@@ -59,16 +59,16 @@ data:
           agrees: partly
         - by: affiliation-empireakhlth
           says: >-
-            Nothing of it. The Khelâthi count from the Qet Telgu and give the western year as a conversion when they give it at all.
+            Nothing of it. The Khelathi count from the Qet Telgu and give the western year as a conversion when they give it at all.
           agrees: silent
         - by: affiliation-tantsouempr
           says: Nothing of it. The empire keeps its own reckoning and has since before this one existed.
           agrees: silent
-      unresolved: ["the kurthândôs's name, which no record gives"]
+      unresolved: ["the kurthos's name, which no record gives"]
 ---
 
-In what is now reckoned as **Year 1**, a powerful _kurthândôs_ (senator)—backed by loyal legions and by the newly
-chartered [[affiliation-ordoarcanis|Thôrdimâlon]]—seized supreme power and declared himself
+In what is now reckoned as **Year 1**, a powerful _kurthos_ (senator)—backed by loyal legions and by the newly
+chartered [[affiliation-ordoarcanis|Thordimalon]]—seized supreme power and declared himself
 Emperor. The Senate survived but was reduced from a governing body to an advisory one.
 
 The transformation was not a sudden revolution but the culmination of decades of political erosion.
@@ -78,9 +78,9 @@ reality.
 
 The calendar is the part of it that outlived the Empire. Events before this year are reckoned **Before
 the Founding**, events after it **After the Founding**, and the reckoning is the working calendar of
-Mídhalión, Aurèldía, Heliónis, Tarûzel, Provènzia, Tarvénia, Élavendre and Aelwyth—including the
+Mídhalión, Aureldia, Helionis, Taruzel, Provenzia, Tarvénia, Élavendre and Aelwyth—including the
 provinces that have long since gone their own way. Beyond that sphere other civilizations keep their
 own, and the Vylarian Calendar's reach is itself a visible measure of where the Empire's cultural
 gravity still holds even where its legions no longer do.
 
-The record does not give the _kurthândôs_'s name.
+The record does not give the _kurthos_'s name.

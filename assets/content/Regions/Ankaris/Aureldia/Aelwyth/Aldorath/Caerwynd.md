@@ -1,6 +1,6 @@
 ---
 shortcode: caerwynd
-name: {full: Caerwynd, aliases: []}
+name: {full: Kaerwynd, aliases: []}
 type: place
 subType: settlement
 description: "Aldorath's eastern fortress, watching the interior and the forest margin—a garrison town whose whole reason is the country beyond it."
@@ -14,7 +14,7 @@ data:
   government: kngdmldrth
 ---
 
-**Caerwynd** stands where Aldorath's settled country runs out and the interior forest begins, and it is a
+**Kaerwynd** stands where Aldorath's settled country runs out and the interior forest begins, and it is a
 fortress before it is anything else: a stone keep, a walled bailey, a garrison maintained at the crown's
 expense, and a town that exists because the garrison does.
 
@@ -22,7 +22,7 @@ expense, and a town that exists because the garrison does.
 
 The forest beyond holds tribal communities that the lowland realms call barbarians and that are markedly
 more warlike than the northern tribes of the [[place-pshtrwldrns|Peshtar Wilderness]]. They raid, they
-are raided, and they have long memories about which is owed. Caerwynd is where Aldorath's answer to that
+are raided, and they have long memories about which is owed. Kaerwynd is where Aldorath's answer to that
 is organized.
 
 It is also the kingdom's forward position in its long rivalry with

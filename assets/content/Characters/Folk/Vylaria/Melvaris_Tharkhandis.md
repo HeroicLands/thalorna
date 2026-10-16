@@ -1,15 +1,15 @@
 ---
 shortcode: melvaristhar
-name: {full: Mêlvaris Thârkhândis, aliases: [Mârendândôs Mêlvaris]}
+name: {full: Melvaris Tharkis, aliases: [Marendos Melvaris]}
 type: being
 subType: npc
-description: A veteran of the Zûlêthâlon Pyréthos and former Sekran operative who mentors Kallistratos Xarkhêdis.
+description: A veteran of the Zulen Pirethos and former Sekran operative who mentors Kalestratos Zarkedis.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mage]
-  occupation: Mârendândôs
+  occupation: Marendos
   lore: []
   culture: vylarianclt
   homes: []
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Mêlvaris Thârkhândis is a 69-year-old man who stands 5'10" tall with a light build. He has fair skin, ruddy complexion, dark brown hair, and green eyes.
+Melvaris Tharkis is a 69-year-old man who stands 5'10" tall with a light build. He has fair skin, ruddy complexion, dark brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Mêlvaris Thârkhândis is a veteran of the Zûlêthâlon Pyréthos, a former Sekran operative and a senior _mârendândôs_ (master) on the council of the Velysâra chapter. He was the mentor of [[being-klstrtsxrchds|Kallistratos Xarkhêdis]] during his years as a _gâlêthôs_ (student) and still guides his career. He encourages his research quietly and with plausible deniability.
+Melvaris Tharkis is a veteran of the Zulen Pirethos, a former Sekran operative and a senior _marendos_ (master) on the council of the Velisara chapter. He was the mentor of [[being-klstrtsxrchds|Kalestratos Zarkedis]] during his years as a _galethos_ (student) and still guides his career. He encourages his research quietly and with plausible deniability.

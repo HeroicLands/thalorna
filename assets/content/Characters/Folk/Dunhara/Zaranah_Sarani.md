@@ -1,9 +1,9 @@
 ---
 shortcode: zaranahsaran
-name: {full: Zaranâh Sârânî, aliases: [Lady Zaranâh Sârânî, Lady Zaranâh]}
+name: {full: Zaranah Sarani, aliases: [Lady Zaranah Sarani, Lady Zaranah]}
 type: being
 subType: npc
-description: A wealthy merchant and equestrian enthusiast who has contracted for the services of Rudâvah Farrud.
+description: A wealthy merchant and equestrian enthusiast who has contracted for the services of Rudavah Farrud.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zaranâh Sârânî is a 55-year-old woman who stands 5'9" tall with a massive build. She has tawny skin, ruddy complexion, black hair, and brown eyes.
+Zaranah Sarani is a 55-year-old woman who stands 5'9" tall with a massive build. She has tawny skin, ruddy complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Zaranâh Sârânî, styled Lady, is a wealthy merchant princess and equestrian enthusiast who has contracted for the services of [[being-rudavahfrd|Rudâvah Farrud]] for two decades. She provides Rudâvah with political protection when her stubbornness creates problems with authorities.
+Zaranah Sarani, styled Lady, is a wealthy merchant princess and equestrian enthusiast who has contracted for the services of [[being-rudavahfrd|Rudavah Farrud]] for two decades. She provides Rudavah with political protection when her stubbornness creates problems with authorities.

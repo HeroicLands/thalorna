@@ -1,6 +1,6 @@
 ---
 shortcode: xilanixlan
-name: {full: "Ritual: Xilan Ix'lan", aliases: [Xilan Ix'lan, The Walker of Paths]}
+name: {full: "Ritual: Shilan Ish'lan", aliases: [Shilan Ish'lan, The Walker of Paths]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-xilanixlan|Faith of Xilan Ix'lan]]
+See [[affiliation-xilanixlan|Faith of Shilan Ish'lan]]

@@ -3,7 +3,7 @@ shortcode: kenbeshay
 name: {full: Kenbeshay, aliases: [Priest Kenbeshay]}
 type: being
 subType: npc
-description: A fellow priest of Ātáröš at the Northern Temple who broke with orthodox teaching to advocate compassion and mercy, named in Sharmînah Tahvân.
+description: A fellow priest of Ataros at the Northern Temple who broke with orthodox teaching to advocate compassion and mercy, named in Sharminah Tahvan.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Kenbeshay is a 49-year-old man who stands 5'11" tall with a medium build. He has
 
 # Dossier {#dossier}
 
-Kenbeshay is a priest of Ātáröš at the Northern Temple. He broke with orthodox teaching to advocate compassion and mercy, which [[being-shrmnhthvn|Sharmînah Tahvân]] despises as weakness in faith; she would eagerly destroy him to keep his teachings from corrupting others.
+Kenbeshay is a priest of Ataros at the Northern Temple. He broke with orthodox teaching to advocate compassion and mercy, which [[being-shrmnhthvn|Sharminah Tahvan]] despises as weakness in faith; she would eagerly destroy him to keep his teachings from corrupting others.

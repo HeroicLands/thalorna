@@ -1,6 +1,6 @@
 ---
 shortcode: alykosmpsn
-name: {full: Alýkos Bridutis, given: Alýkos, clan: Bridutis, aliases: []}
+name: {full: Alikos Bridutis, given: Alikos, clan: Bridutis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -416,37 +416,37 @@ sohl:
 
 # Appearance {#appearance}
 
-![[alykosmpsn|Alýkos Bridutis]]{float=top-left}
+![[alykosmpsn|Alikos Bridutis]]{float=top-left}
 
-Alýkos stands 5'7" tall with a medium build. He has light tanned skin, grey hair, and dark hazel eyes. His features include a long face, a strong nose, a pronounced chin, full lips, and expressive brows.
+Alikos stands 5'7" tall with a medium build. He has light tanned skin, grey hair, and dark hazel eyes. His features include a long face, a strong nose, a pronounced chin, full lips, and expressive brows.
 
 # Dossier {#dossier}
 
-Alýkos was born into a merchant family of the [[affiliation-byzarianlg|Byzarian League]], the younger son of a silk trader who expected him to eventually manage family commerce. Yet from childhood, Alýkos demonstrated an obsessive fascination with the mechanisms of the body and the nature of disease. At sixteen, against his father's strong objections, he apprenticed himself to **Physician Theordos**, a respected healer whose small practice operated from a converted storehouse near the harbor district.
+Alikos was born into a merchant family of the [[affiliation-byzarianlg|Bizarian League]], the younger son of a silk trader who expected him to eventually manage family commerce. Yet from childhood, Alikos demonstrated an obsessive fascination with the mechanisms of the body and the nature of disease. At sixteen, against his father's strong objections, he apprenticed himself to **Physician Theordos**, a respected healer whose small practice operated from a converted storehouse near the harbor district.
 
-Theordos recognized immediately that Alýkos possessed, beyond intelligence, a rare combination of precise observation, logical reasoning, and compassion for the suffering. For twelve years, Alýkos worked as apprentice, then journeyman, absorbing medical knowledge both from formal study of inherited texts and from the relentless practice of treating diverse patients. At twenty-eight, he completed his training and established his own practice, which quickly became known throughout the League's merchant and noble circles.
+Theordos recognized immediately that Alikos possessed, beyond intelligence, a rare combination of precise observation, logical reasoning, and compassion for the suffering. For twelve years, Alikos worked as apprentice, then journeyman, absorbing medical knowledge both from formal study of inherited texts and from the relentless practice of treating diverse patients. At twenty-eight, he completed his training and established his own practice, which quickly became known throughout the League's merchant and noble circles.
 
-For the past fourteen years, Alýkos has maintained a thriving medical practice, training young physicians, consulting on difficult cases for other healers, and slowly building a comprehensive personal library of medical texts, herbal references, and anatomical illustrations. His reputation for accuracy in diagnosis and new methods of treatment has made him wealthy and respected, yet increasingly isolated by the dedication that created his success.
+For the past fourteen years, Alikos has maintained a thriving medical practice, training young physicians, consulting on difficult cases for other healers, and slowly building a comprehensive personal library of medical texts, herbal references, and anatomical illustrations. His reputation for accuracy in diagnosis and new methods of treatment has made him wealthy and respected, yet increasingly isolated by the dedication that created his success.
 
 ## Psyche
 
 ### Personality
 
-Alýkos is a man of passionate intellect, whose mind moves at velocities that leave most casual conversation behind. He speaks with precision, preferring clarity over social convention, and will interrupt pleasantries to engage in substantive discussion of his latest medical theories or observations. This directness, combined with his evident enjoyment of intellectual challenge, makes him fascinating to those who can match his pace but somewhat intimidating to those who cannot.
+Alikos is a man of passionate intellect, whose mind moves at velocities that leave most casual conversation behind. He speaks with precision, preferring clarity over social convention, and will interrupt pleasantries to engage in substantive discussion of his latest medical theories or observations. This directness, combined with his evident enjoyment of intellectual challenge, makes him fascinating to those who can match his pace but somewhat intimidating to those who cannot.
 
-Despite his devotion to reason, Alýkos possesses a deep wellspring of feeling for his patients. He listens to symptoms and to the circumstances behind illness, understanding that poverty, fear, and familial conflict are as much causes of disease as any contagion. His bedside manner is very gentle; even as he palpates an abdomen to test for inflammation or peers into an eye to assess clarity, he speaks with a soothing tone that inspires confidence.
+Despite his devotion to reason, Alikos possesses a deep wellspring of feeling for his patients. He listens to symptoms and to the circumstances behind illness, understanding that poverty, fear, and familial conflict are as much causes of disease as any contagion. His bedside manner is very gentle; even as he palpates an abdomen to test for inflammation or peers into an eye to assess clarity, he speaks with a soothing tone that inspires confidence.
 
 His composure covers a man struggling under accumulated grief. Each patient he cannot save, each illness he cannot master despite his knowledge and effort, accumulates as a small wound in him. He has become increasingly solitary, withdrawing from social engagement beyond what his practice demands, channeling his emotional energy into his work.
 
 ### Motivation
 
-Alýkos is driven by a consuming desire to advance medical knowledge itself, and not only to apply what is already understood. He believes that many of the diseases that plague humanity can be overcome if the fundamental mechanisms of illness are properly understood. He envisions a future in which physicians operate from a foundation of tested knowledge rather than inherited tradition and educated guesswork.
+Alikos is driven by a consuming desire to advance medical knowledge itself, and not only to apply what is already understood. He believes that many of the diseases that plague humanity can be overcome if the fundamental mechanisms of illness are properly understood. He envisions a future in which physicians operate from a foundation of tested knowledge rather than inherited tradition and educated guesswork.
 
-Privately, Alýkos is also motivated by a need for mastery and control—not of people, but of disease. His inability to save every patient, despite his growing skill, haunts him. He pursues difficult cases with almost obsessive intensity, driven by the conviction that the right knowledge, the right approach, the right insight will unlock the secrets of recovery. This motivation has become increasingly unhealthy; he drives himself toward exhaustion and sacrifices personal relationships in pursuit of medical breakthroughs.
+Privately, Alikos is also motivated by a need for mastery and control—not of people, but of disease. His inability to save every patient, despite his growing skill, haunts him. He pursues difficult cases with almost obsessive intensity, driven by the conviction that the right knowledge, the right approach, the right insight will unlock the secrets of recovery. This motivation has become increasingly unhealthy; he drives himself toward exhaustion and sacrifices personal relationships in pursuit of medical breakthroughs.
 
 ### Strengths
 
-- **Medical Expertise**: His physician skill, with four specializations, is mastery of the healing arts. There are few ailments within the Byzarian League that Alýkos cannot diagnose or treat with great effect. His knowledge encompasses herbalism, surgical technique, and the subtle signs of internal disease.
+- **Medical Expertise**: His physician skill, with four specializations, is mastery of the healing arts. There are few ailments within the Bizarian League that Alikos cannot diagnose or treat with great effect. His knowledge encompasses herbalism, surgical technique, and the subtle signs of internal disease.
 - **Perception**: His perception lets him notice minute signs—a discoloration of the lips suggesting anemia, a tremor indicating nerve damage, a subtle smell indicating certain infections. Few details escape his observation.
 - **Extensive Herbal and Alchemical Knowledge**: His herblore and brewing skills are considerable, allowing him to create medicines, tinctures, and remedies of great potency. His knowledge of mineral properties and their medicinal uses has few equals.
 - **Eloquence and Discourse**: His ability to communicate complex medical concepts clearly makes him an effective teacher and consultant. Patients understand his explanations; students grasp his lessons; other healers respect his reasoning.
@@ -455,7 +455,7 @@ Privately, Alýkos is also motivated by a need for mastery and control—not of 
 
 ### Weaknesses
 
-- **Emotional Burden**: The accumulated weight of patient deaths, incurable illnesses, and cases beyond his reach has left Alýkos emotionally fragile. He is prone to despondency, occasionally verging on despair when faced with particularly tragic cases.
+- **Emotional Burden**: The accumulated weight of patient deaths, incurable illnesses, and cases beyond his reach has left Alikos emotionally fragile. He is prone to despondency, occasionally verging on despair when faced with particularly tragic cases.
 - **Work Obsession**: His tendency to become entirely focused on the problems of his practice means he neglects personal relationships, his own health, and his own grief. Those close to him struggle with his absence even when physically present.
 - **Reduced Physical Capability**: His focus on intellectual pursuits has left his physical strength and endurance modest compared to those of more active lifestyles. He tires more easily than younger or more vigorous companions.
 - **Perfectionism**: His high standards and unwillingness to accept limitations in his own knowledge mean he is frequently frustrated with the gaps in medical knowledge, or with colleagues whose understanding falls short of his own expectations.
@@ -467,38 +467,38 @@ Privately, Alýkos is also motivated by a need for mastery and control—not of 
 ### Patrons
 
 House Tredis
-: A noble merchant family that has engaged Alýkos for decades as their personal physician, providing stable income and access to their extensive private library for research purposes.
+: A noble merchant family that has engaged Alikos for decades as their personal physician, providing stable income and access to their extensive private library for research purposes.
 
-The Physicians' Guild of the Byzarian League
-: Both as member and occasional consultant, the Guild provides Alýkos with referrals, research materials, and standing among his peers. However, his sometimes heterodox approaches occasionally create friction with more traditionalist guild members.
+The Physicians' Guild of the Bizarian League
+: Both as member and occasional consultant, the Guild provides Alikos with referrals, research materials, and standing among his peers. However, his sometimes heterodox approaches occasionally create friction with more traditionalist guild members.
 
-The Temple of Pôzêrâs
-: The religious institution has engaged Alýkos to advise on public health matters and the treatment of pilgrims afflicted with various ailments, providing both financial support and access to the temple's historical medical archives.
+The Temple of Pozeras
+: The religious institution has engaged Alikos to advise on public health matters and the treatment of pilgrims afflicted with various ailments, providing both financial support and access to the temple's historical medical archives.
 
 ### Enemies
 
 The Traditionalist Faction of the Physicians' Guild
-: Conservative healers who view Alýkos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician **Gekisash**, they regularly oppose his positions within the Guild and spread rumors that his new methods have resulted in patient deaths—a charge with just enough truth to be damaging.
+: Conservative healers who view Alikos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician **Gekisash**, they regularly oppose his positions within the Guild and spread rumors that his new methods have resulted in patient deaths—a charge with just enough truth to be damaging.
 
 Charlatan Healers
-: Various fraudulent practitioners throughout the League whom Alýkos has publicly exposed or reported to authorities, resulting in lost income for them. Some have threatened retaliation.
+: Various fraudulent practitioners throughout the League whom Alikos has publicly exposed or reported to authorities, resulting in lost income for them. Some have threatened retaliation.
 
 ### Affiliations
 
-The Physicians' Guild of the Byzarian League
-: A formal organization maintaining standards for medical practice and licensing. Alýkos holds high standing despite occasional controversy.
+The Physicians' Guild of the Bizarian League
+: A formal organization maintaining standards for medical practice and licensing. Alikos holds high standing despite occasional controversy.
 
 The Circle of Medical Scholars
 : An informal association of physicians and natural philosophers who share research and meet periodically to discuss advances in medical knowledge.
 
 ## Plot Hooks
 
-1. **The Plague**: A mysterious illness begins spreading through the League's port cities, bearing symptoms Alýkos has never encountered before. The disease progresses rapidly and proves resistant to standard treatments. As the affliction spreads, panic grows, and desperate patients flock to Alýkos seeking a cure. He becomes locked in an intellectual race against the disease itself, attempting to understand its nature before it claims thousands. The investigation reveals that the plague may not be natural—someone or something may have deliberately unleashed it.
+1. **The Plague**: A mysterious illness begins spreading through the League's port cities, bearing symptoms Alikos has never encountered before. The disease progresses rapidly and proves resistant to standard treatments. As the affliction spreads, panic grows, and desperate patients flock to Alikos seeking a cure. He becomes locked in an intellectual race against the disease itself, attempting to understand its nature before it claims thousands. The investigation reveals that the plague may not be natural—someone or something may have deliberately unleashed it.
 
-2. **The Unethical Experiment**: Alýkos discovers evidence that another physician, **Yenáze**, has been conducting unauthorized medical experiments on prison inmates and the desperately poor, seemingly attempting to replicate or understand the mechanisms of a rare disease. When Alýkos threatens to expose her, she counters that her work has advanced medical knowledge more than a century of conventional practice—and that some discoveries require sacrifices. She offers Alýkos the choice to join her research or watch as she uses her considerable influence to destroy his reputation.
+2. **The Unethical Experiment**: Alikos discovers evidence that another physician, **Yenaze**, has been conducting unauthorized medical experiments on prison inmates and the desperately poor, seemingly attempting to replicate or understand the mechanisms of a rare disease. When Alikos threatens to expose her, she counters that her work has advanced medical knowledge more than a century of conventional practice—and that some discoveries require sacrifices. She offers Alikos the choice to join her research or watch as she uses her considerable influence to destroy his reputation.
 
-3. **The Impossible Patient**: A patient is brought to Alýkos bearing a condition so bizarre, so contradictory to all medical knowledge, that he cannot begin to understand what he is observing. The patient is simultaneously fevered and hypothermic, displays symptoms of diseases that should not occur together, and seems to exist in a state of bodily contradiction. As Alýkos struggles to understand the case, he begins to suspect that conventional medicine will not provide answers—that something beyond the natural world may be involved.
+3. **The Impossible Patient**: A patient is brought to Alikos bearing a condition so bizarre, so contradictory to all medical knowledge, that he cannot begin to understand what he is observing. The patient is simultaneously fevered and hypothermic, displays symptoms of diseases that should not occur together, and seems to exist in a state of bodily contradiction. As Alikos struggles to understand the case, he begins to suspect that conventional medicine will not provide answers—that something beyond the natural world may be involved.
 
-4. **The Apprentice's Tragedy**: Alýkos's most promising student, **Young Kylis**, comes to him desperate for help after making a terrible mistake—a patient under the apprentice's care has been poisoned, and Kylis suspects his own preparation of medicine was at fault. The situation is complicated by the fact that the patient is the child of a powerful noble, and if the truth is discovered, Kylis will be executed. Alýkos can protect his student or investigate the truth, and may discover that the poisoning was deliberate—perhaps even intended to frame Kylis.
+4. **The Apprentice's Tragedy**: Alikos's most promising student, **Young Kylis**, comes to him desperate for help after making a terrible mistake—a patient under the apprentice's care has been poisoned, and Kylis suspects his own preparation of medicine was at fault. The situation is complicated by the fact that the patient is the child of a powerful noble, and if the truth is discovered, Kylis will be executed. Alikos can protect his student or investigate the truth, and may discover that the poisoning was deliberate—perhaps even intended to frame Kylis.
 
-5. **The Healer's Dilemma**: A wealthy merchant seeks Alýkos's care for a condition that, while treatable, will require months of expensive treatment and significant lifestyle changes. The merchant, however, is willing to pay triple Alýkos's normal fees for a "quicker solution"—poison disguised as medicine that will appear to be a natural death, allowing the merchant's heir to claim inheritance. The merchant reveals that he is terminally ill regardless, simply tired of lingering in pain, and offers the money not for himself but as compensation for Alýkos's trouble.
+5. **The Healer's Dilemma**: A wealthy merchant seeks Alikos's care for a condition that, while treatable, will require months of expensive treatment and significant lifestyle changes. The merchant, however, is willing to pay triple Alikos's normal fees for a "quicker solution"—poison disguised as medicine that will appear to be a natural death, allowing the merchant's heir to claim inheritance. The merchant reveals that he is terminally ill regardless, simply tired of lingering in pain, and offers the money not for himself but as compensation for Alikos's trouble.

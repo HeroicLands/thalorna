@@ -236,7 +236,7 @@ You take it for a stone until a pair of eyes swivel in different directions in t
 
 # Dossier {#dossier}
 
-The Horned Toad is a four-foot desert reptile armored in jagged plates, living in the stony badlands and gravel flats of the [[place-dunhardsrtrgn|Dunhara Desert]], the Desert of Hek'ar and the sand seas and mesas of [[place-chakultzklrgn|Ch'akul Tza'kul]]. It lies unseen against the ground and eats ants, beetles and small lizards. Its spines and its eyes make a stranger leave it alone.
+The Horned Toad is a four-foot desert reptile armored in jagged plates, living in the stony badlands and gravel flats of the [[place-dunhardsrtrgn|Dunhara Desert]], the Desert of Hek'ar and the sand seas and mesas of [[place-chakultzklrgn|Ch'akul Tsa'kul]]. It lies unseen against the ground and eats ants, beetles and small lizards. Its spines and its eyes make a stranger leave it alone.
 
 ## Presentation
 
@@ -244,7 +244,7 @@ A squat, heavy reptile on short, strong legs that carry it quickly over desert g
 
 ## In the Land
 
-Horned toads live in the stony badlands and gravel flats of the [[place-dunhardsrtrgn|Dunhara Desert]], the Desert of Hek'ar and the sand seas and mesas of [[place-chakultzklrgn|Ch'akul Tza'kul]]. A toad has a burrow under a rock or a bush and a small territory it patrols each day, and it eats ants, beetles and the smaller lizards. It stands motionless against the ground for hours, and its sand and gravel colors make it almost invisible.
+Horned toads live in the stony badlands and gravel flats of the [[place-dunhardsrtrgn|Dunhara Desert]], the Desert of Hek'ar and the sand seas and mesas of [[place-chakultzklrgn|Ch'akul Tsa'kul]]. A toad has a burrow under a rock or a bush and a small territory it patrols each day, and it eats ants, beetles and the smaller lizards. It stands motionless against the ground for hours, and its sand and gravel colors make it almost invisible.
 
 ## Key Behaviors
 

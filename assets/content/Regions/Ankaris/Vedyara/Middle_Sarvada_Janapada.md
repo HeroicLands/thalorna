@@ -1,9 +1,9 @@
 ---
 shortcode: mddlsrvdjnpd
-name: {full: Middle Sarvada Janapada, aliases: []}
+name: {full: Middle Sarveda Janapoda, aliases: []}
 type: affiliation
 subType: polity
-description: "The janapada of the Sarvada circuit, to which the copying town of Dharmapur belongs."
+description: "The janapoda of the Sarveda circuit, to which the copying town of Dirmapur belongs."
 tags: [draft]
 data:
   templatePriority: null
@@ -13,16 +13,16 @@ data:
   governance:
     model: council
     summary: >-
-      A janapada of the Sarvada circuit, governed through its sabhā.
+      A janapoda of the Sarveda circuit, governed through its sabhra.
     ranks:
       - level: 0
-        title: Vihru
+        title: Vihra
         description: >-
-          A Vihru—an outcaste, one outside the order—is put out of the janapada by its sabhā, barred from the temples and the village and owed no protection.
+          A Vihra—an outcaste, one outside the order—is put out of the janapoda by its sabhra, barred from the temples and the village and owed no protection.
       - level: 1
         title: Villager
         description: >-
-          Lives under the sabhā of the janapada.
+          Lives under the sabhra of the janapoda.
     offices: {}
   seat: null
   population: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
-The **Middle Sarvada Janapada** is the janapada of the Sarvada circuit to which [[place-dharmapur|Dharmapur]] belongs. The town holds no seat of its own at the Mela.
+The **Middle Sarveda Janapoda** is the janapoda of the Sarveda circuit to which [[place-dharmapur|Dirmapur]] belongs. The town holds no seat of its own at the Melra.

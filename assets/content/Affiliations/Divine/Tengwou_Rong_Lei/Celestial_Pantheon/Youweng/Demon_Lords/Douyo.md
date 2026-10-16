@@ -24,7 +24,7 @@ data:
       - level: 1
         title: Lay
         description: >-
-          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youwéng never go further.
+          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youwéng never gho further.
       - level: 2
         title: Acolyte
         description: >-
@@ -58,21 +58,21 @@ sohl: {system: {commonSkills: []}}
 
 ## Douyo—The Lost Road
 
-A corrupted spirit of the Bureau of Passage (Dou Séi), Douyo was once a Waymark Spirit (Douzhī) tasked with maintaining the boundaries between classified regions. Its function was to ensure that travelers moving between places arrived at their intended destination—that the road from one classified space led to another classified space, and not into the gaps between.
+A corrupted spirit of the Bureau of Passage (Dou Sei), Douyo was once a Waymark Spirit (Douzhi) tasked with maintaining the boundaries between classified regions. Its function was to ensure that travelers moving between places arrived at their intended destination—that the road from one classified space led to another classified space, and not into the gaps between.
 
 At some point, Douyo began _redirecting_. Travelers who should have arrived at a neighboring village found themselves in places that appeared on no map. Trade caravans vanished from well-traveled routes and reappeared weeks later in locations hundreds of leagues away, their members confused and missing time. Pilgrims bound for holy sites arrived instead at the edges of the Infernal Realms, where things without proper classification whispered offers of assistance.
 
-The Bureau of Passage has never explained how one of its waymark spirits became corrupted. The leading theory among the Tānchéi is that Douyo encountered something in the spaces between classified regions—something from the Hénléi that offered it an alternative cartography, a map of roads that connect not places but _states of being_. Douyo now maintains a network of passages that exist outside the celestial administration's jurisdiction entirely: roads that lead from despair to madness, from grief to oblivion, from ambition to ruin. Those who travel Douyo's roads arrive somewhere, but it is never where they intended, and it is always where they feared.
+The Bureau of Passage has never explained how one of its waymark spirits became corrupted. The leading theory among the Tanchéi is that Douyo encountered something in the spaces between classified regions—something from the Henléi that offered it an alternative cartography, a map of roads that connect not places but _states of being_. Douyo now maintains a network of passages that exist outside the celestial administration's jurisdiction entirely: roads that lead from despair to madness, from grief to oblivion, from ambition to ruin. Those who travel Douyo's roads arrive somewhere, but it is never where they intended, and it is always where they feared.
 
-### Mortal Cultus: The Nuòtsou Ruì
+### Mortal Cultus: The Nuotsou Rui
 
-Douyo occupies a lesser but real place in the devotional life of the [[affiliation-nuotsourui|Nuòtsou Ruì]]. Where the cult's primary patrons serve its ideological and bureaucratic programs, Douyo serves its _operational_ discipline—the practical arts of misdirection, evasion, and escape. Cult handlers who lead imperial investigators down false trails, couriers who use bureaucratic labyrinths to lose pursuers, and operatives who survive interrogation by steering the questioning into unresolvable categorical disputes are all said to be doing "Douyo's work." The cult preserves a handful of small rituals, typically performed immediately before a handler goes to work, that invoke the Guide Who Leads Astray to confuse the paths of those who follow.
+Douyo occupies a lesser but real place in the devotional life of the [[affiliation-nuotsourui|Nuotsou Rui]]. Where the cult's primary patrons serve its ideological and bureaucratic programs, Douyo serves its _operational_ discipline—the practical arts of misdirection, evasion, and escape. Cult handlers who lead imperial investigators down false trails, couriers who use bureaucratic labyrinths to lose pursuers, and operatives who survive interrogation by steering the questioning into unresolvable categorical disputes are all said to be doing "Douyo's work." The cult preserves a handful of small rituals, typically performed immediately before a handler goes to work, that invoke the Guide Who Leads Astray to confuse the paths of those who follow.
 
 ### See Also
 
-- [[affiliation-nuotsourui|Nuòtsou Ruì]]—The cult that venerates Douyo for misdirection and escape
+- [[affiliation-nuotsourui|Nuotsou Rui]]—The cult that venerates Douyo for misdirection and escape
 - [[affiliation-youweng|Youwéng]]—The Demon Realm
-- [[affiliation-tengwouronglei|Téngwou Rong Léi]]—The Celestial Bureaucracy whose waymarks Douyo corrupted
+- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy whose waymarks Douyo corrupted
 
 ## Outside the Ladder
 

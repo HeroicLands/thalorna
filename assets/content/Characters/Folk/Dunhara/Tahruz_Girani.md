@@ -1,9 +1,9 @@
 ---
 shortcode: tahruzgirani
-name: {full: Tahruz Gîrânî, aliases: [Captain Tahruz the Venerable, Captain Tahruz]}
+name: {full: Tahruz Girani, aliases: [Captain Tahruz the Venerable, Captain Tahruz]}
 type: being
 subType: npc
-description: An aging merchant captain and the closest friend of Venrâd Âzardan.
+description: An aging merchant captain and the closest friend of Venrad Azardan.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Tahruz Gîrânî is a 69-year-old man who stands 6'1" tall with a medium build. He has tawny skin, leathery complexion, black hair, and green eyes.
+Tahruz Girani is a 69-year-old man who stands 6'1" tall with a medium build. He has tawny skin, leathery complexion, black hair, and green eyes.
 
 # Dossier {#dossier}
 
-Tahruz Gîrânî, called the Venerable, is an aging merchant captain and the closest friend of [[being-venradzrdn|Venrâd Âzardan]]. He continues to offer Venrâd navigation contracts and is one of the few people Venrâd trusts.
+Tahruz Girani, called the Venerable, is an aging merchant captain and the closest friend of [[being-venradzrdn|Venrad Azardan]]. He continues to offer Venrad navigation contracts and is one of the few people Venrad trusts.

@@ -17,17 +17,17 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
           Cast out of Eidringr, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
           Witnesses the swearing of oaths and keeps their memory, holding no standing yet to mediate a quarrel alone.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
           Mediates a dispute that turns on a sworn word, trusted by both sides for answering to neither.
@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 An oath is only as good as the person who remembers it, and in [[affiliation-eidgar|Eidgar]]'s faith the person who remembers it is an Oathsworn.
 
-Eidringr, the Oathsworn, are priests who oversee the swearing of oaths and the keeping of honor, and who mediate wherever a dispute turns on a man's sworn word. A member witnesses the oath and keeps its memory. Either side of a quarrel can call on him, because he answers to neither. A Dróttmadr witnesses and remembers but does not yet mediate a quarrel alone; the mediating belongs to the Dróttstjóri.
+Eidringr, the Oathsworn, are priests who oversee the swearing of oaths and the keeping of honor, and who mediate wherever a dispute turns on a man's sworn word. A member witnesses the oath and keeps its memory. Either side of a quarrel can call on him, because he answers to neither. A Drottmadr witnesses and remembers but does not yet mediate a quarrel alone; the mediating belongs to the Dróttstjori.

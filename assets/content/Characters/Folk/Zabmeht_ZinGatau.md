@@ -36,4 +36,4 @@ Zabmeht Zin'Gatau is a 50-year-old man who stands 5'9" tall with a light build. 
 
 # Dossier {#dossier}
 
-Zabmeht Zin'Gatau works metal for the flooding-season clans out of [[place-anlaghzetun|Anlagh-Zetûn]], and is father to a smith besides. The trade passed to his third son rather than to an elder one. Whatever reasoning decided that order, the forge now answers to the choice that was made.
+Zabmeht Zin'Gatau works metal for the flooding-season clans out of [[place-anlaghzetun|Anlagh-Zetun]], and is father to a smith besides. The trade passed to his third son rather than to an elder one. Whatever reasoning decided that order, the forge now answers to the choice that was made.

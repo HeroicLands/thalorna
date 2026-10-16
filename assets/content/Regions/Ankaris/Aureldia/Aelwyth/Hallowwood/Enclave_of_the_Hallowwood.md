@@ -3,7 +3,7 @@ shortcode: nclvhllwwd
 name: {full: Enclave of the Hallowwood, aliases: []}
 type: affiliation
 subType: polity
-description: "The Sinalë of Aelwyth, who reside in the Hallowwood under their own lord and do not answer to Dúnavarre."
+description: "The Sinale of Aelwyth, who reside in the Hallowwood under their own lord and do not answer to Dúnavarre."
 tags: [draft]
 data:
   templatePriority: null
@@ -13,16 +13,16 @@ data:
   governance:
     model: autocracy
     summary: >-
-      The Sinalë of Aelwyth, who reside in the Hallowwood under their own lord and do not answer to Dúnavarre.
+      The Sinale of Aelwyth, who reside in the Hallowwood under their own lord and do not answer to Dúnavarre.
     ranks:
       - level: 0
         title: Vierka
         description: >-
-          A Vierka, the Sinalë word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
+          A Vierka, the Sinale word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
       - level: 1
         title: Member of the Enclave
         description: >-
-          Belongs to Enclave of the Hallowwood, a Sinalë enclave governed by its own lord.
+          Belongs to Enclave of the Hallowwood, a Sinale enclave governed by its own lord.
     offices: {}
   seat: hallowwood
   population: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Enclave of the Hallowwood** is the community of the [[lore-flksinale|Sinalë]] of Aelwyth, who reside in the [[place-hallowwood|Hallowwood]]. Sinalë have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It does not answer to [[affiliation-kingdmdnvr|Dúnavarre]], which sends embassies that are received and answered briefly.
+The **Enclave of the Hallowwood** is the community of the [[lore-flksinale|Sinale]] of Aelwyth, who reside in the [[place-hallowwood|Hallowwood]]. Sinale have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It does not answer to [[affiliation-kingdmdnvr|Dúnavarre]], which sends embassies that are received and answered briefly.

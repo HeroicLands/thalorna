@@ -3,7 +3,7 @@ shortcode: thrallrivers
 name: {full: The Thrall Rivers, aliases: [The Killing at the Waldburg Market, The First Frithmund]}
 type: lore
 subType: history
-description: "From 660 AF, when the Nordmen took Stormveld and needed thralls by the tens of thousands, captives went down Vrystwald's rivers by the boatload; Waldburg grew past every limit, and about 672 a killing at its crowded market gave the market peace its present form and its first Frithmund."
+description: "From 660 AF, when the Nordmen took Stormveld and needed thralls by the tens of thousands, captives went down Vristwald's rivers by the boatload; Waldburg grew past every limit, and about 672 a killing at its crowded market gave the market peace its present form and its first Frithmund."
 tags: [history]
 data:
   culture: varokhiclt
@@ -22,7 +22,7 @@ data:
         - affiliation-jrldmstrmvld
         - place-velanthrgn
       summary: >-
-        When the Nordmen take Stormveld they need thralls in numbers no coastal raid can supply. Within a decade captives taken on the Velanthian frontier and in the Moktur passes go down Vrystwald's rivers to Nordmen buyers by the boatload, the women who run the landings grow rich on it, and Waldburg grows past the size a village can govern.
+        When the Nordmen take Stormveld they need thralls in numbers no coastal raid can supply. Within a decade captives taken on the Velanthian frontier and in the Moktur passes go down Vristwald's rivers to Nordmen buyers by the boatload, the women who run the landings grow rich on it, and Waldburg grows past the size a village can govern.
       standing: attested
       names: [{name: the Thrall Rivers, by: lore-varokhiclt}]
       where:
@@ -58,7 +58,7 @@ data:
       stated: {calendar: wintertally, text: "13 TR"}
       sources: [place-waldburg, lore-varokhiclt, affiliation-vrystwldtrbs]
       summary: >-
-        At the crowded summer market a man of one village kills a man of another over a captive's price, and both war-bands arm. The women who run the landings shut the market, and every tribe present answers the killer together before his kin can shelter him. The market peace takes its present form from that day, and Edrilda yra Óthwald wur Waldburg is acclaimed its first Frithmund.
+        At the crowded summer market a man of one village kills a man of another over a captive's price, and both war-bands arm. The women who run the landings shut the market, and every tribe present answers the killer together before his kin can shelter him. The market peace takes its present form from that day, and Edrilda yra Othwald wur Waldburg is acclaimed its first Frithmund.
       standing: attested
       names: [{name: the Killing at the Waldburg Market, by: lore-varokhiclt}]
       where: {locus: [place-waldburg]}
@@ -88,7 +88,7 @@ Within a decade captives taken on the [[place-velanthrgn|Velanthian]] frontier a
 
 About 672, at the summer market, a man of one village killed a man of another over the price of a captive both claimed to have taken. Both war-bands were at the market, and both armed. The Waldburg women did what no one had done before. They shut the market, every landing at once, and sent word to every war-band present that there would be no more trade until the killing was answered. The war-bands came to the stone, every one of them, and answered the killer together before his own kin could take him home and shelter him. His kin struck his name from their tally, and the market never learned it.
 
-The market peace takes its present form from that day. A killing at Waldburg's market is answered at once by every tribe present, not by the dead man's kin alone, and the peace is held by a Frithmund the market acclaims. The first was **Edrilda yra Óthwald wur Waldburg**, who had kept the landing where the killing happened and had shut it first. The office is acclaimed and never inherited: **Hródila yra Óthwald wur Waldburg** held it after her, and **Arnhilda yra Grimwald wur Waldburg** holds it now. The Frithmund commands nobody and answers to no crown; she keeps the peace for the days of the market, and every war-band at it keeps the peace with her.
+The market peace takes its present form from that day. A killing at Waldburg's market is answered at once by every tribe present, not by the dead man's kin alone, and the peace is held by a Frithmund the market acclaims. The first was **Edrilda yra Othwald wur Waldburg**, who had kept the landing where the killing happened and had shut it first. The office is acclaimed and never inherited: **Hródila yra Othwald wur Waldburg** held it after her, and **Arnhilda yra Grimwald wur Waldburg** holds it now. The Frithmund commands nobody and answers to no crown; she keeps the peace for the days of the market, and every war-band at it keeps the peace with her.
 
 ## What It Left
 
@@ -100,5 +100,5 @@ The market peace takes its present form from that day. A killing at Waldburg's m
 
 - [[place-waldburg|Waldburg]]—the crossing, the market and the stone
 - [[lore-stormveldtkn|The Taking of Stormveld]]—the taking that made the buyers
-- [[place-vrystwldrvrs|Vrystwald Rivers]]—the water the captives went down
+- [[place-vrystwldrvrs|Vristwald Rivers]]—the water the captives went down
 - [[lore-wintertally|The Tally of Winters]]—the Thrall Rivers as the forest counts them

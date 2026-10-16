@@ -16,5 +16,5 @@ sohl:
 
 The simplest working in the House and the one that makes it necessary. A ward is an inscription;
 erase the inscription and the ward is not defeated but absent. Every practitioner of Gar-Zelgút
-learns it first, and every practitioner of Gar-Qar'quzu learns to detect its residue first, and the
+learns it first, and every practitioner of Gar-Qar'kuzu learns to detect its residue first, and the
 two lessons are taught in the same room by the same lector.

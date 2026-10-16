@@ -1,9 +1,9 @@
 ---
 shortcode: heladweighing
-name: {full: The Weighing at Khrýshteíkhos, aliases: [The Brass Standard]}
+name: {full: The Weighing at Krusteikhos, aliases: [The Brass Standard]}
 type: lore
 subType: history
-description: "About 455 AF the city weigher of Khrýshteíkhos weighs the tax-farmers' brass standard against the city's own in the Merchant Hall and proves it heavy, a riot burns the customs house, and the Ôrzâs's commissioners concede that customs in the five cities are weighed on the cities' own standards, kept by an officer each city elects."
+description: "About 455 AF the city weigher of Krusteikhos weighs the tax-farmers' brass standard against the city's own in the Merchant Hall and proves it heavy, a riot burns the customs house, and the Orzas's commissioners concede that customs in the five cities are weighed on the cities' own standards, kept by an officer each city elects."
 tags: [history, hellad, peaceage]
 data:
   packFolder: byzaria
@@ -18,7 +18,7 @@ data:
         - affiliation-tolvan
         - lore-byzarianclt
       summary: >-
-        A generation after the Tolvan put Byzaría's customs out to tax-farmers, the city weigher of Khrýshteíkhos, Dôkharash Harmôdákit, publicly weighs the tax-farmers' brass standard against the city's in the Merchant Hall and proves it heavy. The riot that follows burns the customs house. The Ôrzâs's commissioners concede that customs in the five cities are weighed on the cities' own standards, kept by an officer each city elects.
+        A generation after the Tolvan put Bizaria's customs out to tax-farmers, the city weigher of Krusteikhos, Dokharash Harmodakit, publicly weighs the tax-farmers' brass standard against the city's in the Merchant Hall and proves it heavy. The riot that follows burns the customs house. The Orzas's commissioners concede that customs in the five cities are weighed on the cities' own standards, kept by an officer each city elects.
       standing: attested
       names: [{name: the Brass Standard, by: affiliation-khryshteikhos}]
       where:
@@ -43,7 +43,7 @@ data:
           agrees: full
         - by: affiliation-tolvan
           says: >-
-            A Tolar's standard was found heavy in one city, and the Ôrzâs's commissioners corrected the error on the spot.
+            A Tolar's standard was found heavy in one city, and the Orzas's commissioners corrected the error on the spot.
           agrees: partly
           withholds: that the customs house burned and the correction was a concession
       unresolved:
@@ -54,24 +54,24 @@ The highest civic honor in any of the five cities is to be named Warden of the W
 
 ## The Standard
 
-A generation after [[lore-arzanasedict|the Edicts of Arzánas]] gave the [[affiliation-tolvan|Tolvan]] its charter, the customs of Byzaría were farmed out to Tolari. A Tolar paid the Tolvan for the right to collect and made his profit above his bid, and the surest way to profit above a bid was to weigh the merchants' goods on a heavy standard.
+A generation after [[lore-arzanasedict|the Edicts of Arzanas]] gave the [[affiliation-tolvan|Tolvan]] its charter, the customs of Bizaria were farmed out to Tolari. A Tolar paid the Tolvan for the right to collect and made his profit above his bid, and the surest way to profit above a bid was to weigh the merchants' goods on a heavy standard.
 
-The city weigher of [[place-khryshteikhos2|Khrýshteíkhos]], **Dôkharash Harmôdákit**, suspected the tax-farmers' standard was brass cast heavy. In about 455 he had it carried into the Merchant Hall, set the city's own standard on one pan of a balance and the Tolari's on the other, and weighed them in front of the council, the guilds and the whole of the floor. The standard was heavy.
+The city weigher of [[place-khryshteikhos2|Krusteikhos]], **Dokharash Harmodakit**, suspected the tax-farmers' standard was brass cast heavy. In about 455 he had it carried into the Merchant Hall, set the city's own standard on one pan of a balance and the Tolari's on the other, and weighed them in front of the council, the guilds and the whole of the floor. The standard was heavy.
 
 ## The Riot
 
-The merchants who had paid on that standard for a generation did not wait for the Tolvan to answer. They burned the customs house that night. The Ôrzâs's commissioners came east with the legions, found a province that had weighed its own truth in public, and conceded the point. Customs in the five cities would be weighed on the cities' own standards, and each city would keep its standard in its own Merchant Hall under an officer it elected.
+The merchants who had paid on that standard for a generation did not wait for the Tolvan to answer. They burned the customs house that night. The Orzas's commissioners came east with the legions, found a province that had weighed its own truth in public, and conceded the point. Customs in the five cities would be weighed on the cities' own standards, and each city would keep its standard in its own Merchant Hall under an officer it elected.
 
 ## What the Weighing Left
 
 - **The Warden of the Weights**, the elected officer who keeps each city's standard, and whose office is the highest civic honor in the League.
 - **The standards**, kept in each Merchant Hall.
 - **The first common act** of the five councils since the Compact, remembered whenever the councils swear the Compact.
-- **A conviction** that a reputation for keeping terms is infrastructure, which the Byzarians count from this afternoon.
+- **A conviction** that a reputation for keeping terms is infrastructure, which the Bizarians count from this afternoon.
 
 ## See Also
 
-- [[lore-arzanasedict|The Edicts of Arzánas]]—the edicts that created the Tolvan
+- [[lore-arzanasedict|The Edicts of Arzanas]]—the edicts that created the Tolvan
 - [[lore-heladcompact|The Compact of the Five]]—the pact whose councils acted together again
-- [[affiliation-khryshteikhos|Khrýshteíkhos]]
-- [[lore-byzarianclt|Byzarian]]—the culture of the bargain
+- [[affiliation-khryshteikhos|Krusteikhos]]
+- [[lore-byzarianclt|Bizarian]]—the culture of the bargain

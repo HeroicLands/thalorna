@@ -52,4 +52,4 @@ If you are offered a ledger, ask what is in it and not who wrote it. The second 
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the region it belongs to
+- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to

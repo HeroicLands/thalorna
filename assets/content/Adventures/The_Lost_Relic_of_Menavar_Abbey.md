@@ -16,18 +16,18 @@ data:
 
 ## The Lost Relic of Ménavar Abbey
 
-An ancient relic of the Aurèldían faith has been lost in the ruins of Ménavar Abbey, and both the Church and shadowy interests seek to recover it before the other.
+An ancient relic of the Aureldian faith has been lost in the ruins of Ménavar Abbey, and both the Church and shadowy interests seek to recover it before the other.
 
 ### Overview
 
-Ménavar Abbey, once a center of Aurèldían learning and spiritual practice in [[place-provenzrgn|Provènzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Thôrdimâlon]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
+Ménavar Abbey, once a center of Aureldian learning and spiritual practice in [[place-provenzrgn|Provenzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Thordimalon]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
 
 ### Stage One: The Commission
 
 The party is approached by one of several factions seeking the relic:
 
-- An Aurèldían bishop or abbott who believes the relic belongs to the Church
-- An agent of the [[affiliation-ordoarcanis|Thôrdimâlon]] tasked with "studying" the artifact
+- An Aureldian bishop or abbott who believes the relic belongs to the Church
+- An agent of the [[affiliation-ordoarcanis|Thordimalon]] tasked with "studying" the artifact
 - A noble house that claims historical custody of the relic
 - A mysterious collector who makes a substantial offer
 
@@ -87,13 +87,13 @@ The party must navigate the abbey to locate the relic's chamber. Challenges incl
 - Managing the abbey's structural hazards while under time pressure
 - Confrontation with a rival faction that has also reached the chamber
 
-**The Guardian:** A manifestation of the abbey's purpose—perhaps an oath-bound spirit of a high priest, a construct of Aurèldían magic, or a test woven into the very stones. It may be placated by piety, outsmarted by riddles, or overcome by force.
+**The Guardian:** A manifestation of the abbey's purpose—perhaps an oath-bound spirit of a high priest, a construct of Aureldian magic, or a test woven into the very stones. It may be placated by piety, outsmarted by riddles, or overcome by force.
 
 ### Stage Five: Aftermath & Complications
 
 - If the party succeeds, they must decide what to do with the relic
   - Return it to the hiring faction (creates enemies among rivals)
-  - Claim it (brings the [[affiliation-ordoarcanis|Thôrdimâlon]] and Church down on them)
+  - Claim it (brings the [[affiliation-ordoarcanis|Thordimalon]] and Church down on them)
   - Destroy or hide it (prevents anyone from misusing it, but angers the hiring authority)
 - The relic may be cursed, addictive, or carry unforeseen consequences
 - Previously hidden secrets of the abbey are revealed (historical knowledge, prophecies)
@@ -102,8 +102,8 @@ The party must navigate the abbey to locate the relic's chamber. Challenges incl
 
 ### See Also
 
-- [[place-provenzrgn|Provènzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
-- [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Thôrdimâlon]]
+- [[place-provenzrgn|Provenzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[affiliation-arldnpnthn|Aureldian]]
+- [[affiliation-ordoarcanis|Thordimalon]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]

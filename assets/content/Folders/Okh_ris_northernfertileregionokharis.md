@@ -1,8 +1,8 @@
 ---
 shortcode: northernfertileregionokharis
-name: {full: "Okháris"}
+name: {full: "Okharis"}
 type: folder
 data: {parent: xerathianorthernfertileregion, color: "#20B2AA"}
 ---
 
-This folder gathers the heroes and knaves of Okháris in the Northern Fertile Region of Xerathia. Its entries include Tákoro Zanethar, Kiroba of the Shókuma and Ashénda of the Magara.
+This folder gathers the heroes and knaves of Okharis in the Northern Fertile Region of Zerathia. Its entries include Tákoro Zanethar, Kiroba of the Shókuma and Ashenda of the Magara.

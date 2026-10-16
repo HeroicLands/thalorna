@@ -1,6 +1,6 @@
 ---
 shortcode: hvilgthanngl
-name: {full: Hvilgthann Glarvidrokh, aliases: []}
+name: {full: Hvilgthann Glarvidrok, aliases: []}
 type: being
 subType: npc
 description: The hersvald of Glarvey, a careful steward of what he can afford, whose roofs are his pride, named in Hrandrinna Drekanótt and Glarvey.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hvilgthann Glarvidrokh is a 50-year-old man who stands 5'8" tall with a medium build. He has fair skin, weathered complexion, dark blonde hair, and blue eyes.
+Hvilgthann Glarvidrok is a 50-year-old man who stands 5'8" tall with a medium build. He has fair skin, weathered complexion, dark blonde hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Hvilgthann Glarvidrokh is the hersvald of Glarvey, a careful steward of what he can afford, whose roofs are his pride. He has engaged Hrandrinna for all his holdings' thatching work for the past decade. Hvilgthann Glarvidrokh is named in [[being-hrndrndrknt|Hrandrinna Drekanótt]] and [[place-glarvey|Glarvey]].
+Hvilgthann Glarvidrok is the hersvald of Glarvey, a careful steward of what he can afford, whose roofs are his pride. He has engaged Hrandrinna for all his holdings' thatching work for the past decade. Hvilgthann Glarvidrok is named in [[being-hrndrndrknt|Hrandrinna Drekanótt]] and [[place-glarvey|Glarvey]].

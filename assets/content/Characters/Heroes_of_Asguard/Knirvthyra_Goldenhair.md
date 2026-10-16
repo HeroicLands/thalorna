@@ -1,6 +1,6 @@
 ---
 shortcode: knrvthyrgldnhr
-name: {full: Knirvthýra Goldenhair, given: Knirvthýra, aliases: [Goldenhair]}
+name: {full: Knirvthira Goldenhair, given: Knirvthira, aliases: [Goldenhair]}
 type: being
 subType: character
 tags: [hero, heroes-of-asguard, administration]
@@ -361,27 +361,27 @@ sohl:
 
 # Appearance {#appearance}
 
-Knirvthýra stands 5'8" with a medium, curvaceous frame, weighing about 150 pounds. Her fair skin is luminous and carefully tended, and her golden blonde hair—her most famous feature—cascades past her shoulders in shining waves that catch the light even in dim rooms. Her blue eyes are large, bright, and dangerously perceptive, missing nothing while revealing only what she chooses. Her features are beautiful in a way that stops conversations—high cheekbones, a straight nose, a full mouth, and delicate brows over eyes that can shift from inviting warmth to arctic coldness in an instant. Despite the hardship of her past, she carries herself with regal poise, every movement deliberate and assured. Knirvthýra dresses in rich fabrics—deep reds, golds, and midnight blue—cut to flatter and command attention. Gold rings and a choker of garnets accent her throat, and she wears a subtle perfume of rose and amber that lingers after she has left a room.
+Knirvthira stands 5'8" with a medium, curvaceous frame, weighing about 150 pounds. Her fair skin is luminous and carefully tended, and her golden blonde hair—her most famous feature—cascades past her shoulders in shining waves that catch the light even in dim rooms. Her blue eyes are large, bright, and dangerously perceptive, missing nothing while revealing only what she chooses. Her features are beautiful in a way that stops conversations—high cheekbones, a straight nose, a full mouth, and delicate brows over eyes that can shift from inviting warmth to arctic coldness in an instant. Despite the hardship of her past, she carries herself with regal poise, every movement deliberate and assured. Knirvthira dresses in rich fabrics—deep reds, golds, and midnight blue—cut to flatter and command attention. Gold rings and a choker of garnets accent her throat, and she wears a subtle perfume of rose and amber that lingers after she has left a room.
 
 # Dossier {#dossier}
 
-Knirvthýra was born into poverty, her family struggling to make ends meet in a small, barren village. Despite her humble beginnings, Knirvthýra possessed a radiant beauty that turned heads wherever she went. Her fortunes seemed to change when a wealthy merchant promised her a life of comfort and abundance, but his true intentions were far darker. Instead of luxury, Knirvthýra found herself sold to a brothel in the city of [[place-gnaldrholm|Gnaldrholm]]. Refusing to be broken, Knirvthýra saw this as a twisted opportunity to reshape her destiny. With determination and [[lore-solrundty|Sólrún]]'s blessing, she rose within the establishment, eventually taking control and transforming the Gilded Cage from a brothel into a luxurious salon where the city's most influential figures came for both pleasure and guidance.
+Knirvthira was born into poverty, her family struggling to make ends meet in a small, barren village. Despite her humble beginnings, Knirvthira possessed a radiant beauty that turned heads wherever she went. Her fortunes seemed to change when a wealthy merchant promised her a life of comfort and abundance, but his true intentions were far darker. Instead of luxury, Knirvthira found herself sold to a brothel in the city of [[place-gnaldrholm|Gnaldrholm]]. Refusing to be broken, Knirvthira saw this as a twisted opportunity to reshape her destiny. With determination and [[lore-solrundty|Solrún]]'s blessing, she rose within the establishment, eventually taking control and transforming the Gilded Cage from a brothel into a luxurious salon where the city's most influential figures came for both pleasure and guidance.
 
-The saga of Knirvthýra Goldenhair is one of resilience, transformation, and triumph. She learned the art of persuasion and business from **Snirvynda the Silver-Tongued**, the brothel's madam, and used her beauty and intelligence to captivate the city's elite. Her most famous achievement came when she orchestrated the downfall of **Vruldmýl**, the very merchant who had sold her. Using her network of clients, she uncovered his illicit dealings and ensured his disgrace. When the destitute merchant came to the brothel seeking solace, Knirvthýra offered him a place—not as a lover, but as a servant, a living testament to her rise from the ashes of her past. Under her guidance, powerful men like **Jarl Hrundvir Blackwood** and **Tvarnmýl Ironfist** prospered, while she accumulated wealth and influence that rivaled any noble house.
+The saga of Knirvthira Goldenhair is one of resilience, transformation, and triumph. She learned the art of persuasion and business from **Snirvinda the Silver-Tongued**, the brothel's madam, and used her beauty and intelligence to captivate the city's elite. Her most famous achievement came when she orchestrated the downfall of **Vruldmil**, the very merchant who had sold her. Using her network of clients, she uncovered his illicit dealings and ensured his disgrace. When the destitute merchant came to the brothel seeking solace, Knirvthira offered him a place—not as a lover, but as a servant, a living testament to her rise from the ashes of her past. Under her guidance, powerful men like **Jarl Hrundvir Blackwood** and **Tvarnmil Ironfist** prospered, while she accumulated wealth and influence that rivaled any noble house.
 
 ## Psyche
 
 ### Personality
 
-Knirvthýra is magnetic and dangerous, a woman who has transformed suffering into power. She is utterly pragmatic, having learned early that sentiment is a luxury the poor cannot afford. She is warm and charming when it serves her purpose and cold as northern steel when it does not. Despite the hardness that her experiences have forged in her, she retains a fierce protectiveness toward those who have been exploited and uses her power to shelter and empower women in circumstances similar to her own past. She never forgets a slight, and her patience in pursuing vengeance is famous.
+Knirvthira is magnetic and dangerous, a woman who has transformed suffering into power. She is utterly pragmatic, having learned early that sentiment is a luxury the poor cannot afford. She is warm and charming when it serves her purpose and cold as northern steel when it does not. Despite the hardness that her experiences have forged in her, she retains a fierce protectiveness toward those who have been exploited and uses her power to shelter and empower women in circumstances similar to her own past. She never forgets a slight, and her patience in pursuing vengeance is famous.
 
 ### Motivation
 
-Knirvthýra seeks to build an empire of influence that will protect her and those she cares about from ever being vulnerable again. She uses wealth, information, and strategic alliances to ensure that no one can threaten her position. Beneath her ambition, she is driven by a desire to prove that her worth was never defined by the circumstances of her birth or the cruelty of those who exploited her. She also quietly seeks the merchant Vruldmýl's network of contacts in the slave trade, working to dismantle it from within.
+Knirvthira seeks to build an empire of influence that will protect her and those she cares about from ever being vulnerable again. She uses wealth, information, and strategic alliances to ensure that no one can threaten her position. Beneath her ambition, she is driven by a desire to prove that her worth was never defined by the circumstances of her birth or the cruelty of those who exploited her. She also quietly seeks the merchant Vruldmil's network of contacts in the slave trade, working to dismantle it from within.
 
 ### Strengths
 
-Knirvthýra's network of informants and clients spans the highest levels of Gnaldrholm society, giving her access to secrets that can make or break fortunes. Her salon, the Gilded Cage, is the most exclusive gathering place in the city, and an invitation is worth more than gold. She is a master of reading people and situations, and her business acumen has turned her establishment into one of the most profitable enterprises in the north. Her personal guard, drawn from women she has rescued from exploitation, is fiercely loyal and surprisingly well-trained.
+Knirvthira's network of informants and clients spans the highest levels of Gnaldrholm society, giving her access to secrets that can make or break fortunes. Her salon, the Gilded Cage, is the most exclusive gathering place in the city, and an invitation is worth more than gold. She is a master of reading people and situations, and her business acumen has turned her establishment into one of the most profitable enterprises in the north. Her personal guard, drawn from women she has rescued from exploitation, is fiercely loyal and surprisingly well-trained.
 
 ## Social
 
@@ -389,20 +389,20 @@ Knirvthýra's network of informants and clients spans the highest levels of Gnal
 
 ### Patrons
 
-**Jarl Hrundvir Blackwood**—A powerful noble whose political fortunes Knirvthýra has guided for years. He provides political protection and legitimate business connections.
+**Jarl Hrundvir Blackwood**—A powerful noble whose political fortunes Knirvthira has guided for years. He provides political protection and legitimate business connections.
 
-**Tvarnmýl Ironfist**—A wealthy merchant who owes much of his success to Knirvthýra's counsel. He funds her operations and provides commercial intelligence.
+**Tvarnmil Ironfist**—A wealthy merchant who owes much of his success to Knirvthira's counsel. He funds her operations and provides commercial intelligence.
 
 ### Enemies
 
-**Vruldmýl's Surviving Allies**—The slave trader's former associates who fear Knirvthýra's growing power and the exposure of their own crimes.
+**Vruldmil's Surviving Allies**—The slave trader's former associates who fear Knirvthira's growing power and the exposure of their own crimes.
 
-**The Morality Council of [[place-gnaldrholm|Gnaldrholm]]**—A group of religious conservatives who view Knirvthýra's establishment as a den of sin and her influence as a corruption of the city's values. They seek to shut down the Gilded Cage and exile Knirvthýra.
+**The Morality Council of [[place-gnaldrholm|Gnaldrholm]]**—A group of religious conservatives who view Knirvthira's establishment as a den of sin and her influence as a corruption of the city's values. They seek to shut down the Gilded Cage and exile Knirvthira.
 
 ## Plot Hooks
 
-1. **The Slave Ring**—Knirvthýra has discovered that Vruldmýl's slave trading network is still operating under new management, and children are among the victims. She needs agents who can infiltrate the ring and destroy it from within.
+1. **The Slave Ring**—Knirvthira has discovered that Vruldmil's slave trading network is still operating under new management, and children are among the victims. She needs agents who can infiltrate the ring and destroy it from within.
 
-2. **The Gilded Cage's Secret**—One of Knirvthýra's most trusted allies has been turned by the Morality Council and is feeding them information. Knirvthýra must identify the traitor before her enemies have enough evidence to move against her.
+2. **The Gilded Cage's Secret**—One of Knirvthira's most trusted allies has been turned by the Morality Council and is feeding them information. Knirvthira must identify the traitor before her enemies have enough evidence to move against her.
 
-3. **The Noble's Proposal**—Jarl Hrundvir has proposed marriage, which would give Knirvthýra legitimate noble status but could also make her a target for his political enemies. The decision is complicated by the arrival of a figure from her past who offers a very different kind of future.
+3. **The Noble's Proposal**—Jarl Hrundvir has proposed marriage, which would give Knirvthira legitimate noble status but could also make her a target for his political enemies. The decision is complicated by the arrival of a figure from her past who offers a very different kind of future.

@@ -225,7 +225,7 @@ The leaf litter of the glade is churned and wet, and the saplings at its edge ar
 
 # Dossier {#dossier}
 
-The Stag is the mature male of the forest deer, four to five feet at the shoulder and six to seven feet long, with branching antlers and a powerful build. It lives in the woods of [[place-vrystwald|Vrystwald]], the woodland of [[place-aureldirgn|Aurèldía]] and the cool, temperate forests, where the trees give shelter and browse. It is peaceful outside the autumn rut, when it becomes territorial and dangerous.
+The Stag is the mature male of the forest deer, four to five feet at the shoulder and six to seven feet long, with branching antlers and a powerful build. It lives in the woods of [[place-vrystwald|Vristwald]], the woodland of [[place-aureldirgn|Aureldia]] and the cool, temperate forests, where the trees give shelter and browse. It is peaceful outside the autumn rut, when it becomes territorial and dangerous.
 
 ## Presentation
 
@@ -233,7 +233,7 @@ A muscular, compact animal with a reddish-brown to dark-brown coat, paler on the
 
 ## In the Land
 
-Stags live in the forests of [[place-vrystwald|Vrystwald]], the woodland of [[place-aureldirgn|Aurèldía]] and the temperate woods of the cool regions, where the trees give shelter and the browse is good. A stag in the autumn holds a few does and a stretch of woodland. He feeds on leaves, bark and shoots, lies up in a thicket by day and comes out to graze at dusk. Outside the rut stags keep apart in small groups.
+Stags live in the forests of [[place-vrystwald|Vristwald]], the woodland of [[place-aureldirgn|Aureldia]] and the temperate woods of the cool regions, where the trees give shelter and the browse is good. A stag in the autumn holds a few does and a stretch of woodland. He feeds on leaves, bark and shoots, lies up in a thicket by day and comes out to graze at dusk. Outside the rut stags keep apart in small groups.
 
 ## Key Behaviors
 

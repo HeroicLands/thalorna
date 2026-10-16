@@ -1,9 +1,9 @@
 ---
 shortcode: kiramostalot
-name: {full: Kirâmôs Talôthâtês, aliases: [Prince Kirâmôs, Merchant Prince Kirâmôs]}
+name: {full: Kiramos Talothates, aliases: [Prince Kiramos, Merchant Prince Kiramos]}
 type: being
 subType: npc
-description: An ambiguous figure who may be legitimate or criminal and who contracts Harkhîs Bàremydês.
+description: An ambiguous figure who may be legitimate or criminal and who contracts Harkis Baremides.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kirâmôs Talôthâtês is a 33-year-old man who stands 5'10" tall with a light build. He has tanned skin, sun-kissed complexion, brown hair, and brown eyes.
+Kiramos Talothates is a 33-year-old man who stands 5'10" tall with a light build. He has tanned skin, sun-kissed complexion, brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Kirâmôs Talôthâtês is a merchant prince and an ambiguous figure who may be legitimate or criminal. He contracts [[being-hrkhsbrmyds|Harkhîs Bàremydês]] for exotic poisons and antidotes, and moves easily between the legitimate and shadow economies.
+Kiramos Talothates is a merchant prince and an ambiguous figure who may be legitimate or criminal. He contracts [[being-hrkhsbrmyds|Harkis Baremides]] for exotic poisons and antidotes, and moves easily between the legitimate and shadow economies.

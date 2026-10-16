@@ -61,13 +61,13 @@ cause: [[lore-varkhadcnq|the Varkhad]] took the homelands, and generations of pr
 peoples ahead of them across half a continent.
 
 It stopped at the sea. That is why the Pelwar-descended peoples—Élavendri, Áelendan, Vylari,
-Nordmal, Varokhi, Tarvéni, Provenzal and the rest—are packed along the western coastline as densely
+Nordmal, Varokhi, Tarveni, Provenzal and the rest—are packed along the western coastline as densely
 as they are, and why a few communities did the only thing left and went across the water.
 
 **[[place-aelwyth|Aelwyth]] lies something like two hundred and thirty sea-miles off the coast.** That is
 not a distance barbarian peoples cross—not in the craft they had, not with families and stock
 aboard, not without pilots or charts. The ancestors of the Vardain had come to the island as passengers, carried in
-Khazári bottoms by people who knew the water. The ones who came around 1200 BF came in whatever would
+Khazari bottoms by people who knew the water. The ones who came around 1200 BF came in whatever would
 float, and most of them died.
 
 Tens of thousands arrived, which means something on the order of a hundred thousand set out. They were

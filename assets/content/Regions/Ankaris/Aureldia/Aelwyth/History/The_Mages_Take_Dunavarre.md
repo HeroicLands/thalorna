@@ -3,7 +3,7 @@ shortcode: dunavarresynod
 name: {full: The Mages Take Dúnavarre, aliases: [The Setting-Aside of the Crown]}
 type: lore
 subType: history
-description: "Between about 450 and 490 AF the Arcane Order's advisors at Ravenmoor took the offices of Dúnavarre from its kings one by one, until the last king, Yénral, was set aside without a blow and the Synod governed alone."
+description: "Between about 450 and 490 AF the Arcane Order's advisors at Ravenmoor took the offices of Dúnavarre from its kings one by one, until the last king, Yenral, was set aside without a blow and the Synod governed alone."
 tags: [history]
 data:
   culture: aelwythanclt
@@ -20,7 +20,7 @@ data:
         - place-ravenmoor
         - place-dunavarre
       summary: >-
-        Over three reigns the Arcane Order's advisors at Ravenmoor take one office after another from kings who cannot hold them: the treasury, the courts, the harbors, the command of the host. The last king, Yénral, is set aside about 490 without a blow and lives out his life in comfort at Ravenmoor. The Synod governs from then on, with the Order of the Just Blade as its arm.
+        Over three reigns the Arcane Order's advisors at Ravenmoor take one office after another from kings who cannot hold them: the treasury, the courts, the harbors, the command of the host. The last king, Yenral, is set aside about 490 without a blow and lives out his life in comfort at Ravenmoor. The Synod governs from then on, with the Order of the Just Blade as its arm.
       standing: attested
       where:
         locus: [place-ravenmoor]
@@ -51,11 +51,11 @@ data:
         - why the Arcane Order wanted a kingdom here when it already advised every court on the island
 ---
 
-The last king of **Dúnavarre** is remembered, in so far as he is remembered, for his chair. **Yénral** was set aside about 490 AF without a blow and lived out his life in comfort at [[place-ravenmoor|Ravenmoor]]. The chair he sat in at the head of the hall is still there, kept and dusted, and no one has sat in it since.
+The last king of **Dúnavarre** is remembered, in so far as he is remembered, for his chair. **Yenral** was set aside about 490 AF without a blow and lived out his life in comfort at [[place-ravenmoor|Ravenmoor]]. The chair he sat in at the head of the hall is still there, kept and dusted, and no one has sat in it since.
 
 ## Three Reigns
 
-The [[affiliation-ordoarcanis|Thôrdimâlon]] came to Dúnavarre as advisors, as it came to every Aelwythan court, and the advisors at Ravenmoor were more capable than the kings they served. The first king lost his treasury to an advisor who kept it solvent. The second lost the courts to a _mârendândôs_ (master) who kept them honest. The third lost the harbors and the host, each to a mage who held it better, and the last held nothing that had to be done. The crown became ceremonial a reign at a time, and the day it was set aside was a day on which nothing changed. The Synod governed the day before, and it governed the day after.
+The [[affiliation-ordoarcanis|Thordimalon]] came to Dúnavarre as advisors, as it came to every Aelwythan court, and the advisors at Ravenmoor were more capable than the kings they served. The first king lost his treasury to an advisor who kept it solvent. The second lost the courts to a _marendos_ (master) who kept them honest. The third lost the harbors and the host, each to a mage who held it better, and the last held nothing that had to be done. The crown became ceremonial a reign at a time, and the day it was set aside was a day on which nothing changed. The Synod governed the day before, and it governed the day after.
 
 The kingdom's own chronicles tell this as a natural evolution, and the account is consistent with the facts as far as they are recorded. [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]] tell it as a coercion, and the account is consistent with the same facts. The Synod's records do not decide between them and the Synod has never been asked to open them.
 
@@ -74,4 +74,4 @@ The Synod governs from Ravenmoor, with no head named outside its closed session.
 
 - [[affiliation-kingdmdnvr|The Kingdom of Dúnavarre]]—the realm the Synod governs
 - [[place-ravenmoor|Ravenmoor]]—the seat and the empty chair
-- [[affiliation-ordoarcanis|The Thôrdimâlon]]—the order whose advisors took the offices
+- [[affiliation-ordoarcanis|The Thordimalon]]—the order whose advisors took the offices

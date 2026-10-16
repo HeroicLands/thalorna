@@ -9,9 +9,9 @@ tags: [reference, currency, economy, barter]
 
 ## Overview
 
-The **barter economy** is the practice of direct goods-for-goods exchange without monetary intermediary. It is the predominant economic system in much of Thalorna—the tribal regions, the pastoral steppes, the frontier highlands, and the deep interiors of any region the formal currency systems do not reach. It is also a substantial _secondary_ economy in regions that have currency: most rural commerce in the Aurèldían kingdoms, most clan-level exchange in the Nordlands, most market-day transactions in Bethûan villages, and a substantial fraction of the daily commerce of every Thalornan polity operates in barter even where coined currency is technically available.
+The **barter economy** is the practice of direct goods-for-goods exchange without monetary intermediary. It is the predominant economic system in much of Thalorna—the tribal regions, the pastoral steppes, the frontier highlands, and the deep interiors of any region the formal currency systems do not reach. It is also a substantial _secondary_ economy in regions that have currency: most rural commerce in the Aureldian kingdoms, most clan-level exchange in the Nordlands, most market-day transactions in Bethuan villages, and a substantial fraction of the daily commerce of every Thalornan polity operates in barter even where coined currency is technically available.
 
-The barter economy is not unsophisticated. Long-established cultures of barter develop precise customary exchange rates (a sheep is worth so many measures of grain at a given season; a fine horse is worth so many bolts of fine cloth; an iron tool is worth so many days of skilled labor), formal protocols for negotiation and dispute resolution, and standardized "money goods"—durable commodities (grain, livestock, fine cloth, certain metals in non-coin form) that store and transport value reliably. A skilled barter merchant in the Khazryn steppe or the Vrystwald interior is no less commercially capable than a Vylarian moneylender; the medium of exchange is different, the institutional infrastructure is different, but the underlying commerce is just as substantive.
+The barter economy is not unsophisticated. Long-established cultures of barter develop precise customary exchange rates (a sheep is worth so many measures of grain at a given season; a fine horse is worth so many bolts of fine cloth; an iron tool is worth so many days of skilled labor), formal protocols for negotiation and dispute resolution, and standardized "money goods"—durable commodities (grain, livestock, fine cloth, certain metals in non-coin form) that store and transport value reliably. A skilled barter merchant in the Khazryn steppe or the Vristwald interior is no less commercially capable than a Vylarian moneylender; the medium of exchange is different, the institutional infrastructure is different, but the underlying commerce is just as substantive.
 
 ## Customary Exchange Rates
 
@@ -40,7 +40,7 @@ Across Thalornan barter economies, certain goods recur as the practical _stores 
 
 - **Grain** (wheat, barley, rye, oats—varies by region). The most universal money-good. Stored in granaries against future need, transported in standardized measures, accepted everywhere.
 - **Livestock** (sheep, goats, cattle, horses). Self-transporting, self-reproducing, accepted everywhere that animals can be kept. The dominant store of wealth in pastoral economies.
-- **Furs** (in the Nordlands, Vrystwald, and northern regions). High value-to-weight ratio; trade-grade furs (sable, ermine, fox, beaver) are essentially currency.
+- **Furs** (in the Nordlands, Vristwald, and northern regions). High value-to-weight ratio; trade-grade furs (sable, ermine, fox, beaver) are essentially currency.
 - **Sealskins and walrus-ivory** (Nordland coastal regions). Specialty money-goods of the northern coasts.
 - **Fine cloth** (linen, wool, silk where available). High value-to-weight; widely accepted in all sophisticated cultures.
 - **Iron tools** (axes, plowshares, knives). Durable; valuable; useful even when not used as money.
@@ -54,7 +54,7 @@ A trader operating in a deep barter economy carries some mix of these—typicall
 
 Barter is the dominant economic system in:
 
-- The **Nordlands** and **Vrystwald** for all commerce above coin-carryable amounts (Vylarian coin handles small transactions; barter handles large ones). See [[lore-vylrncrncy|Vylarian Currency]] for the Nordlands' coin-only situation.
+- The **Nordlands** and **Vristwald** for all commerce above coin-carryable amounts (Vylarian coin handles small transactions; barter handles large ones). See [[lore-vylrncrncy|Vylarian Currency]] for the Nordlands' coin-only situation.
 - The **steppe tribes of the Khazryn**, the [[lore-sowidesclt|Sovidur]], outside the few urbanized trading-cities; the tribal interior runs almost entirely on barter and tribal credit.
 - The **Dunhara Tribes** in their entirety; the pastoral economy has not monetized.
 - The **Southern Savannahs** including the **Nyáluba Tribal Nation**.
@@ -85,5 +85,5 @@ Where these limitations bite hard enough, cultures develop formal currency. Wher
 
 - [[lore-kinhalcrdt|Kin and Hall Credit]]—the credit-system extension of barter customs in clan- and tribal-based polities
 - [[lore-vylrncrncy|Vylarian Currency]]—the formal currency that operates in the Nordlands without script infrastructure
-- [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—the formal currency system that operates in the Northern Fertile Region
-- Polity-specific notes for barter-dominated regions: [[affiliation-dunhartrbs|Dunhara Tribes]], [[lore-sowidesclt|Sovidur]], [[affiliation-vrystwldtrbs|Vrystwald Tribes]], [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+- [[lore-aukhlthcrncy|Au'Khelathu Currency]]—the formal currency system that operates in the Northern Fertile Region
+- Polity-specific notes for barter-dominated regions: [[affiliation-dunhartrbs|Dunhara Tribes]], [[lore-sowidesclt|Sovidur]], [[affiliation-vrystwldtrbs|Vristwald Tribes]], [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]

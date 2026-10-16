@@ -68,7 +68,7 @@ sohl: {system: {commonSkills: [griot, nyalbdrm]}}
 ## The Nyáluba Way
 
 - **Pronunciation**: _n'YAH-loo-bah_
-- **Region:** [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] (southern [[place-xerathia|Xerathia]])
+- **Region:** [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] (southern [[place-xerathia|Zerathia]])
 - **Principal language:** [[skill-nyalbnlng|Nyáluban]]
 
 The religious tradition of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] is not a pantheon,
@@ -76,7 +76,7 @@ and the Nyáluba would not use the word. There is no council of named deities wi
 portfolios, no ordered hierarchy of gods, and no priesthood serving a unified creed. It is a
 **shamanic tradition**, and it is built in three layers.
 
-Above everything is a single diffuse source: [[lore-shorinyadty|Shorínya Ndáfo]], the Great
+Above everything is a single diffuse source: [[lore-shorinyadty|Shorinya Ndafo]], the Great
 Brightness, from which all spirits emerged and into which all will return. It receives nothing.
 No offering is made to it, no song is sung to it, and no shrine houses it. It is acknowledged,
 not venerated.
@@ -118,7 +118,7 @@ crossings and kin-lines without any cult at all.
 
 ### Specialists, Not Clergy
 
-The Nyáluba have no equivalent of an Aurèldían priest, and no rank above the council. Religious
+The Nyáluba have no equivalent of an Aureldian priest, and no rank above the council. Religious
 function is distributed across four roles, and individuals commonly hold more than one.
 
 - **Griots**—keepers of the spoken tradition: the genealogies, the lineages of the totems, the
@@ -142,29 +142,29 @@ religious one.
 
 ### Relationship to Other Faiths
 
-Northern contact with the Okháric worship of [[affiliation-nkaruthar|Nkaru'thar]] has produced
+Northern contact with the Okharik worship of [[affiliation-nkaruthar|Nkaru'thar]] has produced
 overlaps in the vocabulary of shamanism—the Spirit Hunt, the _kwendari zohiring_, the
-Ashmark-adjacent purification rites—but the foundations differ. Where the Okháric faith centers
+Ashmark-adjacent purification rites—but the foundations differ. Where the Okharik faith centers
 on a singular Eternal Flame whose aspects the city-states embody, the Nyáluba Way is plural,
 lineage-bound, and oriented to the specific territory of each clan.
 
-Contact with the major Ankarian pantheons—[[affiliation-khelathpnthn|Khelâthi Pantheon]] solar worship to
-the north, the [[affiliation-arldnpnthn|Aurèldían]] faith of the western trade cities—has
+Contact with the major Ankarian pantheons—[[affiliation-khelathpnthn|Khelathi Pantheon]] solar worship to
+the north, the [[affiliation-arldnpnthn|Aureldian]] faith of the western trade cities—has
 produced no syncretism. Nyáluba traders conduct themselves respectfully in foreign temples as
 courtesy demands, but do not take foreign gods into their own religious life. Those gods are
 understood as the spirits of other peoples, bound to other lands.
 
-The animistic traditions of the Xerathian interior share common ground with the Nyáluba system.
+The animistic traditions of the Zerathian interior share common ground with the Nyáluba system.
 The few scholars who have attempted to catalog them treat them as variants of a single
-underlying Xerathian substrate, with the Nyáluba Way the most elaborated and the most internally
+underlying Zerathian substrate, with the Nyáluba Way the most elaborated and the most internally
 coherent of the documented forms.
 
 ### See Also
 
 - [[lore-nyalbsprts|Nyáluba Spirits]]—the guides, the seven kinds, the three postures, the pacts
-- [[lore-shorinyadty|Shorínya Ndáfo]]—the source, which is acknowledged and never venerated
+- [[lore-shorinyadty|Shorinya Ndafo]]—the source, which is acknowledged and never venerated
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the five clans whose faith this is
 - [[skill-nyalbnlng|Nyáluban]]—the language of its songs, drums and oral tradition
-- [[affiliation-nkaruthar|Nkaru'thar]]—the Okháric Eternal Flame, kin-tradition to its shamanic line
+- [[affiliation-nkaruthar|Nkaru'thar]]—the Okharik Eternal Flame, kin-tradition to its shamanic line
 - [[affiliation-firstgods|The First Gods]]—the Áelendan pantheon whose Kindred most closely parallel the guides
 - [[lore-pnthnrgnlmp|Pantheon Regional Map]]—regional index of pantheons

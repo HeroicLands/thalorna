@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [garanlaghet]
-  affiliations: {empireakhlth: {rank: 3}, uznera: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, uznera: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.83
@@ -429,11 +429,11 @@ Linta stands 5'10" tall with a medium build. She has tawny skin, jet black hair,
 
 ### Early Life
 
-Born to the Zu'Zereketu clan in the fertile valleys of the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], Linta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of [[lore-uzneradty|Uzn'êra]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Linta early, though she would never serve in any temple—her calling lay elsewhere.
+Born to the Zu'Zereketu clan in the fertile valleys of the Empire of [[affiliation-empireakhlth|Au'Khelathu]], Linta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of [[lore-uzneradty|Uzn'era]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Linta early, though she would never serve in any temple—her calling lay elsewhere.
 
 ### Training and Path
 
-At thirteen, Linta convinced a weathered caravan master named **Lefta the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, [[being-meshaqawise|Meshaqa the Wise]], a hard woman in her late sixties who taught Linta everything about reconnaissance, evasion, and survival in wild country. Under Meshaqa's tutelage, Linta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Aû'Khelâthu.
+At thirteen, Linta convinced a weathered caravan master named **Lefta the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, [[being-meshaqawise|Meshaqa the Wise]], a hard woman in her late sixties who taught Linta everything about reconnaissance, evasion, and survival in wild country. Under Meshaqa's tutelage, Linta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Au'Khelathu.
 
 ### Current Situation
 
@@ -485,7 +485,7 @@ Merchant Prince [[being-walrthqltlft|Walrethu Qelt'Lefetu]]
 Caravan Master Lefta the Keen-Eyed
 : Her early mentor who first hired her as a porter, Lefta remains a friend and occasional employer. Though he rarely travels the trade routes himself anymore, managing a large operation from his warehouse in the capital, he recommends Linta to other caravan masters seeking reliable protection.
 
-[[affiliation-linqeztkhlth|Lin'Qeztu elu Aû'Khelâthu]]
+[[affiliation-linqeztkhlth|Lin'Qeztu elu Au'Khelathu]]
 : The formal institution that recognizes her as a guard and provides a steady stream of work. Guild contacts occasionally request her specifically for high-value or dangerous routes.
 
 ### Enemies
@@ -498,7 +498,7 @@ Scout Malachar
 
 ### Affiliations
 
-Mercenaries' Guild of Aû'Khelâthu
+Mercenaries' Guild of Au'Khelathu
 : The primary organization that regulates her work and provides access to jobs. She maintains good standing and is considered one of the guild's most valuable members.
 
 [[affiliation-linzwrtqltlf|Lin'Zuwaret elu Qelt'Lefetu]]

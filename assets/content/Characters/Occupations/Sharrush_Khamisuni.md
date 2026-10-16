@@ -1,6 +1,6 @@
 ---
 shortcode: shrrshkhmsn
-name: {full: Sharrûsh Khamîsûnî, aliases: []}
+name: {full: Sharrush Khamisuni, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Sharrûsh Khamîsûnî is a 51-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with sharp cheekbones, a lined forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows, lending him a measured gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a rough complexion. His gray hair is kept practical and short. A notable feature is rough, work-worn hands.
+Sharrush Khamisuni is a 51-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with sharp cheekbones, a lined forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows, lending him a measured gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a rough complexion. His gray hair is kept practical and short. A notable feature is rough, work-worn hands.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a guilded family of Tarûzelian heritage, Sharrûsh Khamîsûnî came into the world of the locksmith through a combination of circumstance and aptitude.
+Born in the Taruzel region to a guilded family of Taruzelian heritage, Sharrush Khamisuni came into the world of the locksmith through a combination of circumstance and aptitude.
 
-Sharrûsh has been a locksmith for over three decades, earning a reputation for his high-quality work and innovative designs. He has seen the trade change over the years and adapted by incorporating new techniques and materials. Sharrûsh is well-respected in the community and often shares his knowledge with young apprentices, believing in the importance of passing down skills. He has a strong sense of ethics and refuses to work with anyone associated with the Thieves Guild.
+Sharrush has been a locksmith for over three decades, earning a reputation for his high-quality work and innovative designs. He has seen the trade change over the years and adapted by incorporating new techniques and materials. Sharrush is well-respected in the community and often shares his knowledge with young apprentices, believing in the importance of passing down skills. He has a strong sense of ethics and refuses to work with anyone associated with the Thieves Guild.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Resistant to change, can be overly nostalgic.
 
 ### Motivation
 
-Sharrûsh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in locksmith work keep him vigilant and adaptable.
+Sharrush is driven by the desire to master his craft and secure a stable future. The uncertainties of life in locksmith work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Highly experienced, skilled craftsman, knowledgeable mentor.
 
 ## Social
 
-Sharrûsh is affiliated with Local Locksmiths' Guild.
+Sharrush is affiliated with Local Locksmiths' Guild.
 
-As a Tarûzelian locksmith, Sharrûsh occupies a recognized social niche within Tarûzel society.
+As a Taruzelian locksmith, Sharrush occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Sharrûsh's primary patron is Nobles and local businesses who value his craftsmanship. This relationship provides both opportunity and obligation.
+Sharrush's primary patron is Nobles and local businesses who value his craftsmanship. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ None; generally respected.
 
 ## Plot Hooks
 
-1. **The Locksmith's Dilemma**—Sharrûsh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Locksmith's Dilemma**—Sharrush faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—None; generally respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Sharrûsh's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Sharrush's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Sharrûsh depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Sharrush depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Sharrûsh the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Sharrush the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -20,9 +20,9 @@ The wind has uncovered the Dry Stair. [[place-mezhvadez|Mezhvadez]] is a vault t
 
 ## Hooks
 
-- **The thief.** A tâgemadêr of the Kingdom of [[affiliation-kngdmmrdd|Amradad]], a polished man named **Ghezrûn**, pays well for the king's signet and says he does not care how it is taken.
+- **The thief.** A tagemader of the Kingdom of [[affiliation-kngdmmrdd|Amradad]], a polished man named **Ghezrun**, pays well for the king's signet and says he does not care how it is taken.
 - **The mercenary or soldier.** A merchant's caravan is short a guard. The caravan-master wants an escort to the dune that covers the stair, and his two foreign clients carry a map.
-- **The leader.** A bahâr of the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] hears that something has been walking from the Dry Stair toward the southern pastures. The Circle gathers against an enemy none of the tribes could face alone, and the leader must see whether this is one.
+- **The leader.** A bahar of the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] hears that something has been walking from the Dry Stair toward the southern pastures. The Circle gathers against an enemy none of the tribes could face alone, and the leader must see whether this is one.
 - **The wanderer.** A desert mystic returning from a vigil speaks of a voice beneath the sand, calling in the speech of her mother. He asks the party to make it stop.
 
 ## Scene One: The Sealed Gate
@@ -133,10 +133,10 @@ The wind has uncovered the Dry Stair. [[place-mezhvadez|Mezhvadez]] is a vault t
 
 ## Aftermath
 
-- **The door sealed.** The southern pastures are quiet and the poets add a stanza to the recitation. A _tâgemadêr_ in Qarvelakhend stops paying anyone to dig.
+- **The door sealed.** The southern pastures are quiet and the poets add a stanza to the recitation. A _tagemader_ in Qarvelakhend stops paying anyone to dig.
 - **The Keeper laid to rest in the open.** Zirvash and the guides say her fire was seen across the dune sea. The tribes' account of what came before the Dunhara gets a new line.
 - **The door opened.** The Hollow King walks the southern pastures and the dead begin to stand. The Warrior's Circle meets in an extra gathering.
-- **The signet in Amradad.** The tâgemadêr has the proof he wanted and a debt he does not know about.
+- **The signet in Amradad.** The tagemader has the proof he wanted and a debt he does not know about.
 
 ## See Also
 

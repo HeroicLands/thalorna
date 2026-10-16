@@ -190,7 +190,7 @@ The old fort is half swallowed by the forest, its walls green with moss and spli
 
 # Dossier {#dossier}
 
-The Webcrawler is a dreadspawn in the shape of a great black spider, five to seven feet in the body with a leg-span of eight to twelve feet more, which fills dark, confined places with webs so fine they cannot be seen and so strong they cannot be broken by hand. It is inventive, patient and clever, and it designs its traps for the prey it expects. One holds an overgrown Vylarian fort in [[place-vandstein|Vandstein]], the stony southern edge of the Vrystwald toward Vylaria, where the posts of an older imperial reach survive under the trees. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Webcrawler is a dreadspawn in the shape of a great black spider, five to seven feet in the body with a leg-span of eight to twelve feet more, which fills dark, confined places with webs so fine they cannot be seen and so strong they cannot be broken by hand. It is inventive, patient and clever, and it designs its traps for the prey it expects. One holds an overgrown Vylarian fort in [[place-vandstein|Vandstein]], the stony southern edge of the Vristwald toward Vylaria, where the posts of an older imperial reach survive under the trees. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 

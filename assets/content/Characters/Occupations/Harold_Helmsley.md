@@ -1,6 +1,6 @@
 ---
 shortcode: hrldhlmsly
-name: {full: Harold Helmsley, aliases: []}
+name: {full: Harwald Helmsley, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Harold Helmsley is a 45-year-old man who stands 6'3" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a pointed chin. His round brown eyes sit beneath expressive brows, lending him a candid gaze. A slightly upturned nose and curved lips complete his features. He has pale skin with a clear complexion. His dark brown hair is shoulder-length and loose.
+Harwald Helmsley is a 45-year-old man who stands 6'3" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a pointed chin. His round brown eyes sit beneath expressive brows, lending him a candid gaze. A slightly upturned nose and curved lips complete his features. He has pale skin with a clear complexion. His dark brown hair is shoulder-length and loose.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a peasant family of Aelwythan heritage, Harold Helmsley is an animal trainer.
+Born in the [[place-aelwyth|Aelwyth]] region to a peasant family of Aelwythan heritage, Harwald Helmsley is an animal trainer.
 
-Harold grew up on a farm and has spent his life training draft animals. Known for his patience, he is called upon when unruly horses or oxen need breaking in.
+Harwald grew up on a farm and has spent his life training draft animals. Known for his patience, he is called upon when unruly horses or oxen need breaking in.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Stubborn, resistant to new techniques.
 
 ### Motivation
 
-Harold wants farmers to keep trusting him with unruly draft animals, the work he learned growing up on a farm.
+Harwald wants farmers to keep trusting him with unruly draft animals, the work he learned growing up on a farm.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ Calm demeanor, knowledgeable about farm animals.
 
 ## Social
 
-Harold is affiliated with Farmers' Cooperative.
+Harwald is affiliated with Farmers' Cooperative.
 
 ## Companions
 
 ### Patrons
 
-Local farmers call on Harold to train their draft animals.
+Local farmers call on Harwald to train their draft animals.
 
 ### Enemies
 
@@ -431,12 +431,12 @@ Town official who dislikes his methods.
 
 ## Plot Hooks
 
-1. **The Animal Trainer's Dilemma**—Harold faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Animal Trainer's Dilemma**—Harwald faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Town official who dislikes his methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Harold's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Harwald's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Harold depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Harwald depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Harold the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Harwald the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

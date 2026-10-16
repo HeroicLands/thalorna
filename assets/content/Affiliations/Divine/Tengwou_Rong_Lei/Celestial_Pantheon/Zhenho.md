@@ -1,6 +1,6 @@
 ---
 shortcode: zhenho
-name: {full: Zhénhò, aliases: [The Minister of Fire, Hò Séi, The Bureau of Transformation]}
+name: {full: Zhenho, aliases: [The Minister of Fire, Ho Sei, The Bureau of Transformation]}
 type: affiliation
 subType: faithtradition
 description: "Fire."
@@ -14,16 +14,16 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tānchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
         description: >-
-          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tāntsou consider worse.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tantsou consider worse.
       - level: 1
         title: Petitioner
         description: >-
-          Every Tāntsou: keeps a moral ledger, is observed by the household's Tsàikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -47,13 +47,13 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Téng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Zhénhò, The Minister of Fire: >-
-        Téng Gui of the Hò Séi, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Tsàikén: >-
-        The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsàikén not out of devotion but to ensure favorable reports.
-      Daohò Wō: >-
+      Zhenho, The Minister of Fire: >-
+        Teng Gui of the Ho Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Tsaikén: >-
+        The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsaikén not out of devotion but to ensure favorable reports.
+      Daoho Wo: >-
         Wildfire Spirits, the enforcement arm for fire-related punitive action.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -81,32 +81,32 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Zhénhò—The Minister of Fire
+## Zhenho—The Minister of Fire
 
-- **Bureau:** Hò Séi, The Bureau of Transformation
+- **Bureau:** Ho Sei, The Bureau of Transformation
 - **Domain:** Fire
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Léi]]
+- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Hò Séi administers transformation, and therefore administers the entire postal system of the
+Ho Sei administers transformation, and therefore administers the entire postal system of the
 cosmos: fire is the medium by which a document passes from the mortal plane to the celestial one,
 so every petition filed to every bureau is carried by this one. Burning a correctly addressed
 petition actually files it; burning spirit money actually credits an account; burning offerings for
 the dead actually provisions them.
 
-This makes Zhénhò structurally indispensable and personally unpopular. The other overseers resent
-depending on a colleague to deliver their own mail, and the Tānchéi note that no bureau has ever
+This makes Zhenho structurally indispensable and personally unpopular. The other overseers resent
+depending on a colleague to deliver their own mail, and the Tanchéi note that no bureau has ever
 successfully petitioned to have the arrangement changed.
 
-The bureau also seats the **Tsàikén** in every household in Tāntsou, which means it holds the raw
+The bureau also seats the **Tsaikén** in every household in Tantsou, which means it holds the raw
 observations on which every moral ledger is built.
 
 ### Lesser Spirits
 
-- **Tsàikén**—The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsàikén not out of devotion but to ensure favorable reports.
-- **Daohò Wō**—Wildfire Spirits, the enforcement arm for fire-related punitive action.
+- **Tsaikén**—The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsaikén not out of devotion but to ensure favorable reports.
+- **Daoho Wo**—Wildfire Spirits, the enforcement arm for fire-related punitive action.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Léi]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Téng Chou Script]]—the writing every petition is made in
+- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
+- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in

@@ -1,6 +1,6 @@
 ---
 shortcode: kysrkslmks
-name: {full: Kêsârâ Kâselmakîs, aliases: []}
+name: {full: Kesara Kaselmakis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -388,13 +388,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Kêsârâ Kâselmakîs is a 29-year-old woman who stands 5'4" tall and is slender. She has a long face with sharp cheekbones, a high forehead, and a strong jaw that leads to a strong chin. Her almond-shaped hazel eyes sit beneath arched brows, lending her a measured gaze. A strong nose and firm lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her brown hair is gathered in a practical bun.
+Kesara Kaselmakis is a 29-year-old woman who stands 5'4" tall and is slender. She has a long face with sharp cheekbones, a high forehead, and a strong jaw that leads to a strong chin. Her almond-shaped hazel eyes sit beneath arched brows, lending her a measured gaze. A strong nose and firm lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her brown hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Kêsârâ Kâselmakîs came into the world of the thespian through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Kesara Kaselmakis came into the world of the thespian through a combination of circumstance and aptitude.
 
-Kêsârâ began her acting career as a street performer before being discovered by a theater director. She quickly rose to prominence, known for her ability to shift seamlessly between comedic and dramatic roles. Her performances are marked by a raw intensity that draws audiences in, but offstage, she struggles with bouts of loneliness and self-doubt.
+Kesara began her acting career as a street performer before being discovered by a theater director. She quickly rose to prominence, known for her ability to shift seamlessly between comedic and dramatic roles. Her performances are marked by a raw intensity that draws audiences in, but offstage, she struggles with bouts of loneliness and self-doubt.
 
 ## Psyche
 
@@ -404,7 +404,7 @@ Prone to self-doubt, struggles with personal relationships.
 
 ### Motivation
 
-Kêsârâ is driven by the desire to master her craft and secure a stable future. The uncertainties of life in thespian work keep her vigilant and adaptable.
+Kesara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in thespian work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -412,15 +412,15 @@ Versatile actress, skilled at improvisation, strong emotional range.
 
 ## Social
 
-Kêsârâ is affiliated with City Theater Company.
+Kesara is affiliated with City Theater Company.
 
-As a Vylarian thespian, Kêsârâ occupies a recognized social niche within Vylaria society.
+As a Vylarian thespian, Kesara occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Kêsârâ's primary patron is Theater enthusiasts and local nobles who attend her performances. This relationship provides both opportunity and obligation.
+Kesara's primary patron is Theater enthusiasts and local nobles who attend her performances. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -428,12 +428,12 @@ Envious actresses who see her as a threat.
 
 ## Plot Hooks
 
-1. **The Thespian's Dilemma**—Kêsârâ faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Thespian's Dilemma**—Kesara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—Envious actresses who see her as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Kêsârâ's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Kesara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Kêsârâ depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Kesara depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Kêsârâ the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kesara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

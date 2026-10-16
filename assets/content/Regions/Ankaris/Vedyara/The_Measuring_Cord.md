@@ -31,9 +31,9 @@ data:
   packFolder: vedyara
 ---
 
-**The Measuring Cord** is the recitation of the beginning that a Vedyari temple school teaches its children first, before the letters and before the count, and the rendering here is the one the school of the great [[affiliation-vyalendra|Vyālendra]] temple at [[place-rajapur|Rājapur]] recites on the first morning of the year to the new children of every village of the janapada, standing before [[place-sandstonealtr|the sandstone altar]] with a knotted cord in the master's hands. It is a catechism in couplets, a long line answered by a short one: a child's question, fixed by long use, and the master's answer, and the children say the questions and the master says the rest. The schools of the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]], the tradition of the three forms, recite the same work with [[affiliation-mahajaya|Mahājaya]] and [[affiliation-rasikara|Rāsikara]] named as the shaper's equals, and the schools of the [[affiliation-vyalendravada|Vyālendravāda]] recite it with every god an aspect of the one shaper; the recitation carries both readings inside itself and says so; that is how a Vedyari work keeps a quarrel without settling it. The [[affiliation-agnipantha|Agnī-panthā]] holds that the schools recite the breaking too softly, and teaches its novices that section at the roadside in words of its own.
+**The Measuring Cord** is the recitation of the beginning that a Vedyari temple school teaches its children first, before the letters and before the count, and the rendering here is the one the school of the great [[affiliation-vyalendra|Vyalendra]] temple at [[place-rajapur|Rajepur]] recites on the first morning of the year to the new children of every village of the janapoda, standing before [[place-sandstonealtr|the sandstone altar]] with a knotted cord in the master's hands. It is a catechism in couplets, a long line answered by a short one: a child's question, fixed by long use, and the master's answer, and the children say the questions and the master says the rest. The schools of the [[affiliation-trimurtisampradaya|Triyanga-sampradeya]], the tradition of the three forms, recite the same work with [[affiliation-mahajaya|Mahajaya]] and [[affiliation-rasikara|Rasikara]] named as the shaper's equals, and the schools of the [[affiliation-vyalendravada|Vyalendravada]] recite it with every god an aspect of the one shaper; the recitation carries both readings inside itself and says so; that is how a Vedyari work keeps a quarrel without settling it. The [[affiliation-agnipantha|Agmi-pantra]] holds that the schools recite the breaking too softly, and teaches its novices that section at the roadside in words of its own.
 
-Where the work touches [[place-himashila|Himashilā]], it keeps the silence the [[place-suryatempl|Sūrya temple]] keeps: the slab is a footstool, and the recitation does not say whose. Where it touches the gap between the conch and the pyre it says what every Vedyari household holds, and where it touches the fields where the gap never closed it says what [[lore-bloodfield|every people says of a blood-field]] in the school's own terms. The count of the ages is the school's, and the children are told so. At the end of the recitation the master gives the cord to the smallest child, and the children measure the temple court with it, knot by knot, before they are allowed to eat.
+Where the work touches [[place-himashila|Himashila]], it keeps the silence the [[place-suryatempl|Surva temple]] keeps: the slab is a footstool, and the recitation does not say whose. Where it touches the gap between the conch and the pyre it says what every Vedyari household holds, and where it touches the fields where the gap never closed it says what [[lore-bloodfield|every people says of a blood-field]] in the school's own terms. The count of the ages is the school's, and the children are told so. At the end of the recitation the master gives the cord to the smallest child, and the children measure the temple court with it, knot by knot, before they are allowed to eat.
 
 : Before the Cord {#before}
 
@@ -49,7 +49,7 @@ because a count begins at one, and one
 
 Master, who tied the first knot?
   The shaper. Say his name.
-Vyālendra, who had the cord in his hands
+Vyalendra, who had the cord in his hands
   before there were hands,
 and tied one knot in it, and said: here.
   That was the first word.
@@ -103,13 +103,13 @@ When the wall was cut he laid the ice on it
 and in the ice he tied four knots, and where
   each knot lay a river came out.
 Chandraprabhava, the moon's source, the first,
-  where the Chandramahī comes out warm;
+  where the Chandramahi comes out warm;
 Sarvaprabhava, the source of all, the second,
-  where the priests read the Sarvada daily;
-Mahāprabhava, the great source, the third,
-  where the Mahānadī leaves the blue;
-Bhāravaprabhava, the fourth, the forest's,
-  where the Bhārava goes down to the trees.
+  where the priests read the Sarveda daily;
+Mahaprabhava, the great source, the third,
+  where the Mahanodi leaves the blue;
+Bharavaprabhava, the fourth, the forest's,
+  where the Bharava goes down to the trees.
 Four knots. Four doors. Four rivers. And the plain
   between them is the field,
 and every field you will ever plow or pay for
@@ -121,7 +121,7 @@ The temple at the moon's source washes it
   at the turn of every season,
 and calls it a footstool, and does not say whose,
   and this recitation does not say.
-The Ösket say it is the mountain's own. The temple says nothing.
+The Osket say it is the mountain's own. The temple says nothing.
   You will say what you are told, which is nothing.
 Under the stone the water does not freeze.
   That is all the school says of it.
@@ -132,7 +132,7 @@ Under the stone the water does not freeze.
 ```poetry {form=cosmogony lang=en}
 Master, when the measuring was done, who kept it?
   His sister. Say her name.
-Mahājaya, who had the scale in her hands
+Mahajaya, who had the scale in her hands
   before there was anything to weigh,
 and he gave her the cord's count, knot by knot,
   and she set it in the scale,
@@ -144,7 +144,7 @@ Say what the scale weighs, child. Measure. Not judgment.
   She does not ask whether a thing is good.
 She asks whether it is what it was measured to be,
   and if it is, she keeps it.
-That is why the sabhā counts the water at the gate
+That is why the sabhra counts the water at the gate
   and why the Weighing is done in daylight,
 and why a clerk who gives short measure has stolen
   from the sister, and not from you.
@@ -179,7 +179,7 @@ Everything was what it had been measured to be,
 
 Master, who broke it?
   His brother. Say his name.
-Rāsikara, who had the fire in his hands
+Rasikara, who had the fire in his hands
   before there was anything to burn,
 and he did not burn the field, child; mark that.
   He burned the wall the stones had grown into.
@@ -189,7 +189,7 @@ no more, no less, and that is the whole of his law,
   and the ash-mark is the sign that you have learned it.
 What yielded of itself he did not touch;
   the gentle one took that,
-Vyāhrati, with her bowl, the way your mother takes
+Vahrati, with her bowl, the way your mother takes
   the day's garland from the shrine.
 Everything else burned down to the knot,
   and the cord was still there under the ash,
@@ -219,7 +219,7 @@ he left one length of the cord untied,
   the length of one breath,
 and he gave that length to the one who had asked for nothing,
   the only one who had asked for nothing,
-Kālavrata, who has no face, because a face
+Kalavrata, who has no face, because a face
   would be a thing to measure,
 and said: this is yours. Keep the breath nobody keeps.
   And the Gatekeeper took it.
@@ -286,27 +286,27 @@ and a child will stand before a stone and ask
 Master, what do I do with the cord?
   Measure the court with it.
 Begin at the altar, which was cut to it,
-  and go knot by knot to the gate,
+  and gho knot by knot to the gate,
 and when you have the count, bring it to me,
   and I will tell you whether it is what the sister keeps.
 If it is not, you will measure it again,
   and you will not eat until it is.
 That is the school. That is the field. That is the whole of it.
-  Go and measure.
+  Gho and measure.
 ```
 
 ## See Also
 
-- [[affiliation-varakpnthn|Varnaka Pantheon]]—the gods the recitation names, and the schools that read them as three or as one
-- [[affiliation-vyalendra|Vyālendra]]—the shaper, his cord, compass and chisel
-- [[affiliation-mahajaya|Mahājaya]]—the sister whose scale weighs measure and not judgment
-- [[affiliation-rasikara|Rāsikara]]—the brother who breaks what has seized, with the fire proper to the task
-- [[affiliation-kalavrata|Kālavrata]]—the Gatekeeper, who asked for nothing and was given the breath
-- [[affiliation-vyahrati|Vyāhrati]]—the gentle one, whose bowl takes what yields of itself
-- [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] · [[affiliation-vyalendravada|Vyālendravāda]]—the two readings the work carries
+- [[affiliation-varakpnthn|Varnuka Pantheon]]—the gods the recitation names, and the schools that read them as three or as one
+- [[affiliation-vyalendra|Vyalendra]]—the shaper, his cord, compass and chisel
+- [[affiliation-mahajaya|Mahajaya]]—the sister whose scale weighs measure and not judgment
+- [[affiliation-rasikara|Rasikara]]—the brother who breaks what has seized, with the fire proper to the task
+- [[affiliation-kalavrata|Kalavrata]]—the Gatekeeper, who asked for nothing and was given the breath
+- [[affiliation-vyahrati|Vahrati]]—the gentle one, whose bowl takes what yields of itself
+- [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] · [[affiliation-vyalendravada|Vyalendravada]]—the two readings the work carries
 - [[place-sandstonealtr|The Sandstone Altar]]—the stone the children stand before, "cut to the cord"
-- [[place-mahaprbhva|Mahāprabhava]] · [[place-chandrprbh|Chandraprabhava]] · [[place-sarvaprbhv|Sarvaprabhava]] · [[place-bhrvprbhav|Bhāravaprabhava]]—the four doors
-- [[place-himashila|Himashilā]]—the footstool the recitation will not name an owner for
-- [[affiliation-osketguides|The Ösket]]—who hold the slab the mountain's own
+- [[place-mahaprbhva|Mahaprabhava]] · [[place-chandrprbh|Chandraprabhava]] · [[place-sarvaprbhv|Sarvaprabhava]] · [[place-bhrvprbhav|Bharavaprabhava]]—the four doors
+- [[place-himashila|Himashila]]—the footstool the recitation will not name an owner for
+- [[affiliation-osketguides|The Osket]]—who hold the slab the mountain's own
 - [[lore-bloodfield|Blood-fields]]—the gap that did not close
-- [[lore-mdhvndrcnt|The Madhusthāna Count]]—the reckoners who will give a nearer figure
+- [[lore-mdhvndrcnt|The Madustana Count]]—the reckoners who will give a nearer figure

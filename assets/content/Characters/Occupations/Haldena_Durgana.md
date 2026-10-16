@@ -1,6 +1,6 @@
 ---
 shortcode: hldndrgn
-name: {full: Haldéna Durgána, aliases: []}
+name: {full: Haldena Durgana, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]
@@ -370,25 +370,25 @@ sohl:
 
 # Appearance {#appearance}
 
-Haldéna is a tall woman—6'0"—with a medium build that has been hardened by twenty-one years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting—bright and sharp beneath sun-darkened brows—and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears the Ronétho gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
+Haldena is a tall woman—6'0"—with a medium build that has been hardened by twenty-one years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting—bright and sharp beneath sun-darkened brows—and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears the Ornetho gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
 
 # Dossier {#dossier}
 
-Haldéna was born in the Ronétho city to a family of gate keepers—her father managed the southern gates for thirty years, and his father before him. The position is not particularly prestigious but requires the kind of attention to detail and integrity that few people maintain. Haldéna inherited both the job and the work ethic. She joined the gate watch formally at nineteen and has served there for twenty-one years.
+Haldena was born in the Ornetho city to a family of gate keepers—her father managed the southern gates for thirty years, and his father before him. The position is not particularly prestigious but requires the kind of attention to detail and integrity that few people maintain. Haldena inherited both the job and the work ethic. She joined the gate watch formally at nineteen and has served there for twenty-one years.
 
-The work of the gate watch is different from street patrol. It requires the ability to make snap judgments about people crossing the gates—determining whether they represent threat, whether they are attempting to smuggle contraband, whether their papers are authentic. Haldéna developed an uncanny ability to read people and detect deception. The other guards say she can smell lies, though the truth is less mystical: she notices the flicker of a face, inconsistencies in stories, the physical signs of nervousness or concealment.
+The work of the gate watch is different from street patrol. It requires the ability to make snap judgments about people crossing the gates—determining whether they represent threat, whether they are attempting to smuggle contraband, whether their papers are authentic. Haldena developed an uncanny ability to read people and detect deception. The other guards say she can smell lies, though the truth is less mystical: she notices the flicker of a face, inconsistencies in stories, the physical signs of nervousness or concealment.
 
-At forty years old, she is the senior watch commander for the Ronétho gates and has trained most of the younger guards in current service. She is missing a tooth from a smuggler's elbow during a confrontation years ago—a physical reminder that gate work can become violent. She has not smiled broadly since the incident, a change born more from self-consciousness than pain.
+At forty years old, she is the senior watch commander for the Ornetho gates and has trained most of the younger guards in current service. She is missing a tooth from a smuggler's elbow during a confrontation years ago—a physical reminder that gate work can become violent. She has not smiled broadly since the incident, a change born more from self-consciousness than pain.
 
 ## Psyche
 
 ### Personality
 
-Haldéna is direct and skeptical, approaching most people with the assumption that they are attempting some form of deception. This outlook makes her seem cold to those who do not know her, but it is actually a refinement born from years of learning that almost everyone lies about something. She is fair and will adjust her skepticism if evidence warrants it, but initial assumption of guilt is her default. She is not cruel, but she is not friendly.
+Haldena is direct and skeptical, approaching most people with the assumption that they are attempting some form of deception. This outlook makes her seem cold to those who do not know her, but it is actually a refinement born from years of learning that almost everyone lies about something. She is fair and will adjust her skepticism if evidence warrants it, but initial assumption of guilt is her default. She is not cruel, but she is not friendly.
 
 ### Motivation
 
-What drives Haldéna first is keeping threats out of the city. She takes this responsibility seriously, perhaps more seriously than most, because her family's tradition of integrity is her own. What drives her second is proving that a woman can be as good at guard work as any man. She has met with contempt for her sex throughout her service and has worked deliberately to exceed expectations.
+What drives Haldena first is keeping threats out of the city. She takes this responsibility seriously, perhaps more seriously than most, because her family's tradition of integrity is her own. What drives her second is proving that a woman can be as good at guard work as any man. She has met with contempt for her sex throughout her service and has worked deliberately to exceed expectations.
 
 ### Strengths
 
@@ -396,26 +396,26 @@ Her ability to detect deception is rare. She is physically capable and experienc
 
 ## Social
 
-Haldéna is respected and feared alike. She has few friends outside her work family and prefers it that way. Her gender has been less of an obstacle than she anticipated, partially because she established competence early and refused to accept limitations.
+Haldena is respected and feared alike. She has few friends outside her work family and prefers it that way. Her gender has been less of an obstacle than she anticipated, partially because she established competence early and refused to accept limitations.
 
 ## Companions
 
 ### Patrons
 
-**City Governor Kekhebon Yegis**—The official administrator of Ronétho city. Kekhebon has held power for twelve years and has come to rely on Haldéna's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
+**City Governor Kekhebon Yegis**—The official administrator of Ornetho city. Kekhebon has held power for twelve years and has come to rely on Haldena's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
 
 ### Enemies
 
-**Smuggling Magnate Garrátsa Galtsurándis**—A merchant of questionable legitimacy who has been running contraband through Ronétho's gates for decades. Haldéna has prevented his operations repeatedly, seized contraband, even temporarily arrested his agents. But Galtsurándis is wealthy enough to work through the courts, and his seized property has been returned through appeals. The man is her direct rival, and they have come to respect and deeply resent each other in the same degree.
+**Smuggling Magnate Garrutsa Galtsuris**—A merchant of questionable legitimacy who has been running contraband through Ornetho's gates for decades. Haldena has prevented his operations repeatedly, seized contraband, even temporarily arrested his agents. But Galtsuris is wealthy enough to work through the courts, and his seized property has been returned through appeals. The man is her direct rival, and they have come to respect and deeply resent each other in the same degree.
 
 ## Plot Hooks
 
-1. **The Impossible Choice**—Haldéna detects a significant smuggling operation coming through the gates: weapons destined for what she later learns is a separatist faction. She has evidence to arrest the operatives and seize the weapons. But investigation reveals that the separatists are actually a group of refugees fleeing political persecution in a neighboring state, and the weapons are for self-defense against those pursuing them. Arresting them sends them back to execution. Allowing them through violates the city's neutrality policy. The law and her conscience point opposite ways.
+1. **The Impossible Choice**—Haldena detects a significant smuggling operation coming through the gates: weapons destined for what she later learns is a separatist faction. She has evidence to arrest the operatives and seize the weapons. But investigation reveals that the separatists are actually a group of refugees fleeing political persecution in a neighboring state, and the weapons are for self-defense against those pursuing them. Arresting them sends them back to execution. Allowing them through violates the city's neutrality policy. The law and her conscience point opposite ways.
 
-2. **The Traitor in Her Ranks**—Haldéna discovers that one of her trusted subordinates, **Guard Captain Zekúdi**, has been accepting bribes from Garrátsa Galtsurándis in exchange for allowing contraband through the gates. Zekúdi is skilled and has been praised for his work. The betrayal is personal as well as a breach of duty. Haldéna can arrest Zekúdi, ending his service in disgrace, or give him a chance to resign and disappear, which allows Galtsurándis to win this round but preserves the life of a man who made a terrible mistake.
+2. **The Traitor in Her Ranks**—Haldena discovers that one of her trusted subordinates, **Guard Captain Zekudi**, has been accepting bribes from Garrutsa Galtsuris in exchange for allowing contraband through the gates. Zekudi is skilled and has been praised for his work. The betrayal is personal as well as a breach of duty. Haldena can arrest Zekudi, ending his service in disgrace, or give him a chance to resign and disappear, which allows Galtsuris to win this round but preserves the life of a man who made a terrible mistake.
 
-3. **The Governor's Secret**—City Governor Kekhebon approaches Haldéna privately with a request: allow a specific individual to enter the city without inspection and with minimal documentation. The individual is a foreign agent with whom Kekhebon is secretly negotiating. Haldéna is being asked to compromise her integrity and position for the governor's political ends. Refusing means losing her patron and probably her position. Accepting makes her complicit in whatever political scheme Kekhebon is conducting.
+3. **The Governor's Secret**—City Governor Kekhebon approaches Haldena privately with a request: allow a specific individual to enter the city without inspection and with minimal documentation. The individual is a foreign agent with whom Kekhebon is secretly negotiating. Haldena is being asked to compromise her integrity and position for the governor's political ends. Refusing means losing her patron and probably her position. Accepting makes her complicit in whatever political scheme Kekhebon is conducting.
 
-4. **The Galtsurándis Escalation**—Garrátsa Galtsurándis makes a bold move: he approaches Haldéna and offers her a bribe to allow his next operation to pass. The bribe is substantial and the offer is explicitly disrespectful—Galtsurándis is wagering that even someone as incorruptible as Haldéna has a price. When she refuses, he becomes publicly hostile and spreads rumors that she is incompetent and allowing weapons into the city (the opposite of the truth). He uses his wealth to lodge formal complaints against her with the city council. Haldéna has to defend her name against someone wealthy enough to do political damage.
+4. **The Galtsuris Escalation**—Garrutsa Galtsuris makes a bold move: he approaches Haldena and offers her a bribe to allow his next operation to pass. The bribe is substantial and the offer is explicitly disrespectful—Galtsuris is wagering that even someone as incorruptible as Haldena has a price. When she refuses, he becomes publicly hostile and spreads rumors that she is incompetent and allowing weapons into the city (the opposite of the truth). He uses his wealth to lodge formal complaints against her with the city council. Haldena has to defend her name against someone wealthy enough to do political damage.
 
-5. **The Gate Captain's Illness**—A younger gate captain under Haldéna's command becomes severely ill and is unable to work. The illness is costly to treat and the captain cannot afford the expense. Haldéna has saved money throughout her life and offers to pay for the treatment. The captain gratefully accepts. Weeks later, Haldéna discovers that the captain is actually Garrátsa Galtsurándis's illegitimate son, and Galtsurándis has deliberately arranged the illness to place the young man in a position of debt to Haldéna. Now Galtsurándis is using the relationship to pressure Haldéna into allowing contraband. Haldéna has been manipulated into a position where refusing helps neither the captain nor herself.
+5. **The Gate Captain's Illness**—A younger gate captain under Haldena's command becomes severely ill and is unable to work. The illness is costly to treat and the captain cannot afford the expense. Haldena has saved money throughout her life and offers to pay for the treatment. The captain gratefully accepts. Weeks later, Haldena discovers that the captain is actually Garrutsa Galtsuris's illegitimate son, and Galtsuris has deliberately arranged the illness to place the young man in a position of debt to Haldena. Now Galtsuris is using the relationship to pressure Haldena into allowing contraband. Haldena has been manipulated into a position where refusing helps neither the captain nor herself.

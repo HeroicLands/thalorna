@@ -24,9 +24,9 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 ## Hooks
 
-- **The thief.** A Caerwynd quartermaster who has lost his nerve offers a purse for the crown strongbox the old reeves kept. He has a copy of the stage's plan from a surveyor's book and says it is under the tower.
-- **The mercenary or common soldier.** The commander at Caerwynd needs men to find the ninth patrol, which took the old road in the autumn and did not return. He cannot spare his own.
-- **The leader.** A Vardain elder from the valleys below the Ironfells wants the stage's ledger. The Khazári say it carries a list of the Vardain who passed the gate in the last year of the war, and the elder's family is on it.
+- **The thief.** A Kaerwynd quartermaster who has lost his nerve offers a purse for the crown strongbox the old reeves kept. He has a copy of the stage's plan from a surveyor's book and says it is under the tower.
+- **The mercenary or common soldier.** The commander at Kaerwynd needs men to find the ninth patrol, which took the old road in the autumn and did not return. He cannot spare his own.
+- **The leader.** A Vardain elder from the valleys below the Ironfells wants the stage's ledger. The Khazari say it carries a list of the Vardain who passed the gate in the last year of the war, and the elder's family is on it.
 - **The lone wanderer.** The wanderer is caught on the old road at dusk, with the forest dark on either side and a line of pale lamps showing the way.
 
 ## Scene One: The Lit Mile
@@ -39,7 +39,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Player choices.** Force: cut down the porters, who rise again at the next dusk. Stealth: slip past the gate through the stable court and avoid the lamps. Guile: give a false name, since the porters can only call a guest by what the guest says. Parley: ask the greeter what stage this is and who keeps it.
 
-**Clues and rewards.** The lamp-posts carry a mason's mark of the Khazári, and a crown stamp worn nearly smooth. A Vardain guide can read the stamp as a toll mark, the kind cut on a stage's wall to show that it was kept in good repair. A guest who takes the gate gets a bed, a fire and supper at no charge.
+**Clues and rewards.** The lamp-posts carry a mason's mark of the Khazari, and a crown stamp worn nearly smooth. A Vardain guide can read the stamp as a toll mark, the kind cut on a stage's wall to show that it was kept in good repair. A guest who takes the gate gets a bed, a fire and supper at no charge.
 
 **Consequences.** The porters remember every name. A party that gives true names is addressed by them for the rest of the night, and a false name is written on the board all the same.
 
@@ -55,7 +55,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Player choices.** Force: attack the Reeve in his chair. Stealth: take no food, take notes and slip away. Guile: tell the Reeve the war is over and the road is safe, in terms he will believe. Parley: ask what the Reeve needs to be released from his office.
 
-**Clues and rewards.** The Reeve will say what he owes the crown. The oath can be undone by a proper officer of the crown, by the king's writ or by a reeve of equal rank. No such person exists. The ledger records the names of the last night's guests in a clerk's hand: Khazári, Vardain and small Pelwar parties, with the sum paid. The rooms the Reeve will not enter are the north-west tower and the strong-room under it.
+**Clues and rewards.** The Reeve will say what he owes the crown. The oath can be undone by a proper officer of the crown, by the king's writ or by a reeve of equal rank. No such person exists. The ledger records the names of the last night's guests in a clerk's hand: Khazari, Vardain and small Pelwar parties, with the sum paid. The rooms the Reeve will not enter are the north-west tower and the strong-room under it.
 
 **Consequences.** A party that eats is held by the oath. A party that tells the Reeve the war is over wins his attention and his doubt, which is dangerous in its own way.
 
@@ -87,7 +87,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **Player choices.** Force: break the lamps and the board, which weakens the Reeve until dawn. Stealth: reach the horn and sound it, which brings the stage's dead out into the court and gives the party the tower. Guile: declare the road safe as the horn-keeper, using the horn's own call. Parley: kneel and ask to be released from his hospitality, as a guest may.
 
-**Clues and rewards.** The horn's call that closes a reeve's day is cut into its rim in Khazári letters. The first reeve's bones lie under the court, with the stage's seal ring. Whoever carries the bones out of the gate and sets them in the ground beyond the road gives the oath its end.
+**Clues and rewards.** The horn's call that closes a reeve's day is cut into its rim in Khazari letters. The first reeve's bones lie under the court, with the stage's seal ring. Whoever carries the bones out of the gate and sets them in the ground beyond the road gives the oath its end.
 
 **Consequences.** If the Reeve is released, he thanks the party and goes out of his chair as a sleeper does. If he is destroyed with the board standing, the stage keeps its lamps and the porters keep their post. If the horn is sounded wrongly, every dead thing in the house comes up the stair.
 
@@ -101,11 +101,11 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 **NPCs and threats.** None remain, unless the Reeve was destroyed with the board standing, in which case he is seated at the table in the strong-room's middle, waiting for a guest.
 
-**Player choices.** Force: break the box and carry the silver. Stealth: copy the ledgers and leave the silver. Guile: take the stage's seal ring, which every Crown Road gate will recognize. Parley: bring the ledgers to the Vardain and the Khazári.
+**Player choices.** Force: break the box and carry the silver. Stealth: copy the ledgers and leave the silver. Guile: take the stage's seal ring, which every Crown Road gate will recognize. Parley: bring the ledgers to the Vardain and the Khazari.
 
-**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that a Sinalë envoy had come down the road from the Hallowwood to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at the Hallowwood's edge was a road someone expected to be opened.
+**Clues and rewards.** The box holds a modest sum in silver bars stamped with the crown mark, worth a few dozen Ardin in all, and a roll of writs that once authorized a rider to take horses from any stage. The last ledger records the final entries of the war: the reeve of Wenlorne wrote, on the last night, that a Sinale envoy had come down the road from the Hallowwood to ask for the king's body and been turned away at the gate because the reeve would not open to anyone. The road that stops at the Hallowwood's edge was a road someone expected to be opened.
 
-**Consequences.** The ledger is wanted by the Vardain, who want their dead named, and by the Khazári of Vorgald, who want the list of who passed the gate. The envoy's entry is not wanted by anyone, and the Sinalë, if they learn it was written down, will want it least.
+**Consequences.** The ledger is wanted by the Vardain, who want their dead named, and by the Khazari of Vorgald, who want the list of who passed the gate. The envoy's entry is not wanted by anyone, and the Sinale, if they learn it was written down, will want it least.
 
 **If bypassed.** A party that leaves the strong-room unopened hears of the silver from a Wyndmarch drover within the year.
 
@@ -113,7 +113,7 @@ A relay house on a road older than any realm lights its lamps every dusk, takes 
 
 - **If the oath is ended.** The lamps go out and stay out. The road is open again, and drovers begin to use it. The Vardain bury the dead in the stage's court.
 - **If the Reeve is destroyed with the board standing.** The stage keeps its lamps and the road swallows another patrol within the year.
-- **If the ledger reaches Vorgald.** The Khazári learn what passed at the gate on the last night, and have more to say about the Sinalë than they did.
+- **If the ledger reaches Vorgald.** The Khazari learn what passed at the gate on the last night, and have more to say about the Sinale than they did.
 - **If the party fails.** The stage holds the party's names, and the lamps are lit for them.
 
 ## See Also

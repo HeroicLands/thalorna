@@ -1,9 +1,9 @@
 ---
 shortcode: genzetpalu
-name: {full: Genzet'Palu, aliases: [Council of the Nobles, Khelâthi Council of the Nobles]}
+name: {full: Genzet'Palu, aliases: [Council of the Nobles, Khelathi Council of the Nobles]}
 type: affiliation
 subType: governmental
-description: "(Council of the Nobles)—a formal assembly of the empire's most powerful aristocratic families, convened in the capital to advise the Gar-Aû on matters of internal policy, succession disputes, and inter-selat relations. The Genzet'Palu has no legislative authority—the Gar-Aû's word is law—but in practice no Gar-Aû governs effectively without its cooperation. Meetings are elaborate affairs conducted with full ceremonial protocol, and the council's de facto mediators wield enormous informal power."
+description: "(Council of the Nobles)—a formal assembly of the empire's most powerful aristocratic families, convened in the capital to advise the Gar-Au on matters of internal policy, succession disputes, and inter-selat relations. The Genzet'Palu has no legislative authority—the Gar-Au's word is law—but in practice no Gar-Au governs effectively without its cooperation. Meetings are elaborate affairs conducted with full ceremonial protocol, and the council's de facto mediators wield enormous informal power."
 tags: []
 data:
   culture: khelathiclt
@@ -15,21 +15,23 @@ data:
   governance:
     model: council
     summary: >-
-      A ceremonial assembly of the empire's greatest houses, convened in the capital to advise the Gar-Aû, holding no legislative authority and working instead through the informal power of its mediators.
+      A ceremonial assembly of the empire's greatest houses, convened in the capital to advise the Gar-Au, holding no legislative authority and working instead through the informal power of its mediators.
     ranks:
       - level: 0
         title: Unseated
         description: >-
-          A house put out of the assembly of the greatest houses, no longer called to advise the Gar-Aû.
+          A house put out of the assembly of the greatest houses, no longer called to advise the Gar-Au.
       - level: 1
-        title: Halzi'a
+        title: Zabu
         description: >-
-          Halzi'a of a selat, seated in the council for the house he heads and for the inter-selat business it settles.
+          A noble seated in the council for the house he heads and for the inter-selat business it settles.
       - level: 2
         title: Iru'palu
         description: >-
           Of the royal house and the most exalted families, the highest hereditary rank below the throne. The council's de facto mediators come from among them, and wield enormous informal power.
-    offices: {}
+    offices:
+      Halzi'a: >-
+        Governor of a selat, seated in the council for the house he heads. Held by a Zabu.
   seat: null
   population: null
   economy: []
@@ -39,7 +41,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The [[lore-garauu|Gar-Aû]]'s word is law, and the **Genzet'Palu** (**Council of the Nobles**) cannot pass a single one. It has no legislative authority, and no Gar-Aû governs well without it. The council is a formal assembly of the empire's most powerful aristocratic families, convened in the capital, in the council hall at [[place-garmedjatozo|Gar-Medjatozo]], to advise the Gar-Aû on internal policy, succession disputes and quarrels between selatu.
+The [[lore-garauu|Gar-Au]]'s word is law, and the **Genzet'Palu** (**Council of the Nobles**) cannot pass a single one. It has no legislative authority, and no Gar-Au governs well without it. The council is a formal assembly of the empire's most powerful aristocratic families, convened in the capital, in the council hall at [[place-garmedjatozo|Gar-Medjatozo]], to advise the Gar-Au on internal policy, succession disputes and quarrels between selatu.
 
 ## Character
 
@@ -51,6 +53,6 @@ A Halzi'a sits in the council for the house he heads, not for his province, whic
 
 ## See Also
 
-- [[lore-garauu|Gar-Aûu]]—the throne the council advises
+- [[lore-garauu|Gar-Auu]]—the throne the council advises
 - [[place-garmedjatozo|Gar-Medjatozo]]—the bureau district that holds its hall
 - [[affiliation-genzethalzia|Genzet'Halzi'a]]—the governors' council

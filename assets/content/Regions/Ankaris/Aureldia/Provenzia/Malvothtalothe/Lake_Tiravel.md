@@ -3,13 +3,13 @@ shortcode: tiravellake
 name: {full: Lake Tiravel, aliases: []}
 type: place
 subType: feature
-description: "The great upland lake of Talòthe, Provènzia's eastern march—settled, prosperous and orderly in a country otherwise given over to the Tarvénian frontier, with a blood-field on its shore that replays out over the water."
+description: "The great upland lake of Talote, Provenzia's eastern march—settled, prosperous and orderly in a country otherwise given over to the Tarvénian frontier, with a blood-field on its shore that replays out over the water."
 tags: [lakeside, mountain]
 data: {demonym: null, lore: [], parents: [talothe], population: null, packFolder: provenzia}
 ---
 
 **Lake Tiravel** lies in the eastern uplands, in a broad basin below the Tarvénian passes—a large,
-deep, cold mountain lake, and the one part of Talòthe, Provènzia's eastern march that is not principally about
+deep, cold mountain lake, and the one part of Talote, Provenzia's eastern march that is not principally about
 the frontier.
 
 ## The Basin
@@ -35,4 +35,4 @@ Which battle made it, the villages cannot say. The lake has been worth taking fo
 
 ## See Also
 
-- [[place-bldfldtiravlen|Blood-field of Tiravlen]] · [[lore-bloodfields|The Blood-fields of Provènzia]]
+- [[place-bldfldtiravlen|Blood-field of Tiravlen]] · [[lore-bloodfields|The Blood-fields of Provenzia]]

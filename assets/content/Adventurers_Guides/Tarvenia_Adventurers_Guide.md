@@ -8,13 +8,13 @@ tags: [draft]
 data: {packFolder: adventurersguides, culture: tarvenanclt}
 ---
 
-> It is barely past dawn in Valthári and already hot. The sun comes off the sea in a hard gold bar and lies along the harbor wall, and the stones of the quay are warm through the soles of your boots. Wine casks stand in ranks waiting for the lighters, oil jars sweat in the shade of a warehouse built of gray stone bound with black iron, and the whole waterfront smells of tar, olive pressings and fish frying in a cookshop doorway. Somewhere behind the customs house a crossbow string slaps, then another, and a man counts the hits aloud. Valthári talks loudly and all at once: a Tarûzeli factor bargains in two tongues, a woman in a black headscarf calls numbers to a clerk from a ledger she will not let him hold, and three young men in patched brigandines sit on an upturned boat oiling their swords and arguing about a contract they have not yet signed.
+> It is barely past dawn in Valthari and already hot. The sun comes off the sea in a hard gold bar and lies along the harbor wall, and the stones of the quay are warm through the soles of your boots. Wine casks stand in ranks waiting for the lighters, oil jars sweat in the shade of a warehouse built of gray stone bound with black iron, and the whole waterfront smells of tar, olive pressings and fish frying in a cookshop doorway. Somewhere behind the customs house a crossbow string slaps, then another, and a man counts the hits aloud. Valthari talks loudly and all at once: a Taruzeli factor bargains in two tongues, a woman in a black headscarf calls numbers to a clerk from a ledger she will not let him hold, and three young men in patched brigandines sit on an upturned boat oiling their swords and arguing about a contract they have not yet signed.
 >
-> The man they are waiting for comes down the steps from the hiring yard, gray at the temples, one ear notched, a buff coat open over a shirt the color of old wine. He stops in front of you, takes your right hand, turns it over and runs his thumb across the calluses before he lets it go. Then he grips your forearm, hard. "_Kóthren méro, ath prèdhen ést enthráth nós_," he says, loud enough for the young men to hear: my brother, peace is between us. "Tavíro, son of Gérdan, of the Gray Highlands. I captain the company you came to join." He nods at the upturned boat. "Show me what you can do with a crossbow before the sun gets up."
+> The man they are waiting for comes down the steps from the hiring yard, gray at the temples, one ear notched, a buff coat open over a shirt the color of old wine. He stops in front of you, takes your right hand, turns it over and runs his thumb across the calluses before he lets it go. Then he grips your forearm, hard. "_Kothren meru, ath predhen est enthráth nos_," he says, loud enough for the young men to hear: my brother, peace is between us. "Taviro, son of Gerdan, of the Gray Highlands. I captain the company you came to join." He nods at the upturned boat. "Show me what you can do with a crossbow before the sun gets up."
 
-[[place-tarvenirgn|Tarvénia]] is a standing argument that nobody intends to settle: three kingdoms, a free city, a free territory and a patchwork of fiefdoms in the southern mainland of [[place-aureldirgn|Aurèldía]], bound by the [[skill-tarvenlng|Tarvéni]] tongue, the Aurèldían faith and a shared conviction that nobody tells a Tarvénan what to do. A High King reigns at [[place-lezkora|Lezkóra]] in the mountains of [[affiliation-kngdmstrth|Astúrath]], elected by the great lords and kept weak enough to argue with. [[affiliation-vylarinmpr|Vylaria]] never held the mountains, and the people remember it.
+[[place-tarvenirgn|Tarvénia]] is a standing argument that nobody intends to settle: three kingdoms, a free city, a free territory and a patchwork of fiefdoms in the southern mainland of [[place-aureldirgn|Aureldia]], bound by the [[skill-tarvenlng|Tarveni]] tongue, the Aureldian faith and a shared conviction that nobody tells a Tarvenan what to do. A High King reigns at [[place-lezkora|Lezkora]] in the mountains of [[affiliation-kngdmstrth|Asturath]], elected by the great lords and kept weak enough to argue with. [[affiliation-vylarinmpr|Vylaria]] never held the mountains, and the people remember it.
 
-**The one thing to understand first: a Tarvénan is his word.** The mercenary trade that sends Tarvénan swordsmen and crossbowmen from Vylaria to [[affiliation-cnfdrtntrzlnstts|Tarûzel]] runs on the contract, and a company whose captain broke one does not get another. Contract-breaking is the worst thing a person here can be known for, worse than cowardice, because it shames everyone who marched under that captain. A lord is owed what was agreed and nothing more.
+**The one thing to understand first: a Tarvenan is his word.** The mercenary trade that sends Tarvenan swordsmen and crossbowmen from Vylaria to [[affiliation-cnfdrtntrzlnstts|Taruzel]] runs on the contract, and a company whose captain broke one does not get another. Contract-breaking is the worst thing a person here can be known for, worse than cowardice, because it shames everyone who marched under that captain. A lord is owed what was agreed and nothing more.
 
 ## What You Meet First
 
@@ -24,33 +24,22 @@ Honor is transacted in public. An insult given before witnesses is answered befo
 
 ## Where to Go
 
-[[place-valthari|Valthári]], the richest port, governs itself through the **Consejárath**, a council of merchant houses under a charter bought from the High King, and the mountain lords call it soft. [[place-olvestria|Ólvestra]] is a moneylenders' city behind the **Twin Gate**, where the [[affiliation-ordrsldwrd|Order of the Sealed Word]] keeps the register of every contested oath and the [[affiliation-twinbldrdr|Twinblade Order]] keeps the gate; it is also where the [[affiliation-ordershnvw|Order of the Ashen Vow]] keeps its largest cell. At [[place-polthamis|Polthámis]] the **Great Temple of Árdavon** trains priests who are taught law and the sword together. [[affiliation-kngdmglvrn|Galváren]] on the foggy west coast sends out the largest fishing fleets in the west, [[affiliation-kingdmlnrk|Liénrik]] holds the richest farmland and the most ambitious lords, and the [[affiliation-frtrtryskrth|Free Territory of Eskárath]] keeps a people older than the Tarvéni and their own law.
+[[place-valthari|Valthari]], the richest port, governs itself through the **Consejarath**, a council of merchant houses under a charter bought from the High King, and the mountain lords call it soft. [[place-olvestria|Ólvestra]] is a moneylenders' city behind the **Twin Gate**, where the [[affiliation-ordrsldwrd|Order of the Sealed Word]] keeps the register of every contested oath and the [[affiliation-twinbldrdr|Twinblade Order]] keeps the gate; it is also where the [[affiliation-ordershnvw|Order of the Ashen Vow]] keeps its largest cell. At [[place-polthamis|Polthamis]] the **Great Temple of Árdavon** trains priests who are taught law and the sword together. [[affiliation-kngdmglvrn|Galvaren]] on the foggy west coast sends out the largest fishing fleets in the west, [[affiliation-kingdmlnrk|Lienrik]] holds the richest farmland and the most ambitious lords, and the [[affiliation-frtrtryskrth|Free Territory of Eskarath]] keeps a people older than the Tarveni and their own law.
 
-The western border with [[place-provenzrgn|Provènzia]] is fought over every summer in raid and counter-raid that neither crown calls a war, and the passes close in winter. In the north, the [[place-toravarrange|Toravar Range]] is [[lore-aelendnppl|Áelendan]] high country, and a baron who pushes his herds or his loggers up into it can start a small mountain war.
+The western border with [[place-provenzrgn|Provenzia]] is fought over every summer in raid and counter-raid that neither crown calls a war, and the passes close in winter. In the north, the [[place-toravarrange|Toravar Range]] is [[lore-aelendnppl|Áelendan]] high country, and a baron who pushes his herds or his loggers up into it can start a small mountain war.
 
 ## Ways In
 
-A company signs you on for a season abroad, and the employer begins to bend the terms. A widow who has run her husband's holding for six years learns that his captain sold his contract, and she wants the captain found before witnesses. A brother of the Sealed Word needs riders to bring an oath-breaker to a hearing, and the oath-breaker is a baron with friends in the hills around Ólvestra. An Arcane Order factor in Valthári hires guards who will not ask why the town has gone quiet around him.
+A company signs you on for a season abroad, and the employer begins to bend the terms. A widow who has run her husband's holding for six years learns that his captain sold his contract, and she wants the captain found before witnesses. A brother of the Sealed Word needs riders to bring an oath-breaker to a hearing, and the oath-breaker is a baron with friends in the hills around Ólvestra. An Arcane Order factor in Valthari hires guards who will not ask why the town has gone quiet around him.
 
 ## Where to Read Next
 
 - [[place-tarvenirgn|Tarvénia Region]] and [[affiliation-kingdmtrvn|the Kingdom of Tarvénia]] for the five regions and the High King
-- [[lore-tarvenanclt|The Tarvénans]] for courage as a trade, honor and what a person owes
+- [[lore-tarvenanclt|The Tarvenans]] for courage as a trade, honor and what a person owes
 - [[affiliation-ordrsldwrd|The Order of the Sealed Word]] and [[affiliation-ardavon|the Faith of Árdavon]] for oaths and their keepers
-- [[affiliation-frctyvlthr|The Free City of Valthári]] and [[affiliation-kngdmstrth|Astúrath]] for the coast and the mountains
-- [[skill-tarvenlng|Tarvéni]] for the tongue and its names
+- [[affiliation-frctyvlthr|The Free City of Valthari]] and [[affiliation-kngdmstrth|Asturath]] for the coast and the mountains
+- [[skill-tarvenlng|Tarveni]] for the tongue and its names
 
 ## Glossary
 
-| Word              | Meaning                                                                                                               |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------- |
-| First Mârendândôs | The chair of the Order of the Sealed Word, chosen by the mârendândoi for fifteen years                                |
-| Mârendândôs       | The leader of a chapter house of the Sealed Word or the Twinblades                                                    |
-| oath-hearing      | A hearing on a broken oath, convened by the Sealed Word                                                               |
-| Senior Brother    | A brother of the Sealed Word elevated by chapter vote, who may hold hearings alone and sit on the Council of the Seal |
-| Sworn Brother     | A working knight of the Sealed Word who rides a circuit or answers petitions                                          |
-| Twinblade         | A knight of the Twinblade Order, keeper of gates and thresholds                                                       |
-
 Ardin, Solden and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
-
-The [[lore-tarvenanclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

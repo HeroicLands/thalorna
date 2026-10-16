@@ -1,9 +1,9 @@
 ---
 shortcode: unthmyl
-name: {full: Unthmýl, aliases: [Father Unthmýl]}
+name: {full: Unthmil, aliases: [Father Unthmil]}
 type: being
 subType: npc
-description: The new priest of Ralthýra Drekanótt's former monastery, a zealot who views her as a heretic.
+description: The new priest of Ralthira Drekanótt's former monastery, a zealot who views her as a heretic.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Unthmýl is a 21-year-old man who stands 5'11" tall with a medium build. He has fair skin, ruddy complexion, red hair, and grey eyes.
+Unthmil is a 21-year-old man who stands 5'11" tall with a medium build. He has fair skin, ruddy complexion, red hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Unthmýl is the new priest of [[being-rlthyrdrknt|Ralthýra Drekanótt]]'s former monastery, a zealot who views her as a heretic. He is the new priest of the monastery that was formerly Ralthýra's.
+Unthmil is the new priest of [[being-rlthyrdrknt|Ralthira Drekanótt]]'s former monastery, a zealot who views her as a heretic. He is the new priest of the monastery that was formerly Ralthira's.

@@ -3,7 +3,7 @@
 ---
 
 **A tenth god** — Mótefnir the Maker holds craft and invention among the Ten,
-with his own article, a faith on the ordinary blót ladder, and a faith skill. The
+with his own article, a faith on the ordinary blet ladder, and a faith skill. The
 Dreadspawn are his, he makes each living thing once, and he does not come back
 for any of it.
 

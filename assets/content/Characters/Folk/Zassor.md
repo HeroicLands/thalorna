@@ -36,4 +36,4 @@ Zassor is a 41-year-old man who stands 5'10" tall with a medium build. He has da
 
 # Dossier {#dossier}
 
-Zassor commissions ceremonial work at high visibility and high cost, home in [[place-anlaghzetun|Anlagh-Zetûn]]. The arrangement suits him and the craftsman he commissions about equally. Both reputations rise together with every piece finished in public view.
+Zassor commissions ceremonial work at high visibility and high cost, home in [[place-anlaghzetun|Anlagh-Zetun]]. The arrangement suits him and the craftsman he commissions about equally. Both reputations rise together with every piece finished in public view.

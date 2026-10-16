@@ -1,6 +1,6 @@
 ---
 shortcode: vyahrati
-name: {full: Vyāhrati, aliases: [The Keeper of Decay]}
+name: {full: Vahrati, aliases: [The Keeper of Decay]}
 type: affiliation
 subType: faithtradition
 description: "Religion of decay, endings, the release of what has reached its term, and the fertile compost from which new growth arises."
@@ -14,18 +14,18 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to decay as return, kept in the petal bowl that stands on almost every Varnakan windowsill whatever the household's primary devotion, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnuka ordains into a sampradeya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to decay as return, kept in the petal bowl that stands on almost every Varnakan windowsill whatever the household's primary devotion, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
-        title: Patita
+        title: Patuta
         description: >-
-          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradāya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
+          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradeya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
       - level: 1
-        title: Upāsaka
+        title: Upasoka
         description: >-
           The lay devotee, keeping the household observance of decay as return, kept in the petal bowl that stands on almost every Varnakan windowsill whatever the household's primary devotion. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2
-        title: Vratin
+        title: Vretin
         lore: vowdevoteernk
         description: >-
           "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
@@ -44,26 +44,26 @@ data:
 sohl: {system: {commonSkills: [vyahrati, sohl-sohl-skill-agri]}}
 ---
 
-## Vyāhrati—The Keeper of Decay
+## Vahrati—The Keeper of Decay
 
 - **Domain:** Decay, endings, the release of what has reached its term, the fertile compost from which new growth arises
 - **Symbol:** A wilting flower encased in dew
 - **Pronunciation:** _VYAH-hrah-tee_
-- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-"Not the whole garland. Just what has faded." A woman who keeps the alcove beside a louder god's temple says it to the child sent to empty the household's flowers into her bowl, and shows her where the faded ones begin. [[lore-vyahratidty|Vyāhrati]]'s veneration is small and quiet. Her shrines are modest alcoves beside the larger temples of other Varnakan gods, her formal priesthood is few, and her rites are kept in every household. She is venerated for her necessity.
+"Not the whole garland. Just what has faded." A woman who keeps the alcove beside a louder god's temple says it to the child sent to empty the household's flowers into her bowl, and shows her where the faded ones begin. [[lore-vyahratidty|Vahrati]]'s veneration is small and quiet. Her shrines are modest alcoves beside the larger temples of other Varnakan gods, her formal priesthood is few, and her rites are kept in every household. She is venerated for her necessity.
 
-Vyāhrati is the goddess of endings and of the quiet change by which what has reached its term gives itself back to the world. Without decay there is no soil, and without endings there are no beginnings. A house, a garden and a soul all turn stale when what must be released is not released. [[affiliation-rasikara|Rāsikara]] breaks what will not yield, and Vyāhrati receives what yields of itself.
+Vahrati is the goddess of endings and of the quiet change by which what has reached its term gives itself back to the world. Without decay there is no soil, and without endings there are no beginnings. A house, a garden and a soul all turn stale when what must be released is not released. [[affiliation-rasikara|Rasikara]] breaks what will not yield, and Vahrati receives what yields of itself.
 
 ### What You See at Her Alcoves
 
 She is pictured as a serene older woman crowned with wilting blossoms and not fresh ones, holding a shallow bowl into which petals and dew are gathered. Her presence is quiet and unhurried. Her colors are the bronze of autumn and the soft violet of deep twilight.
 
-Three objects carry the cult. **The Petal Bowl** is a small shallow bowl kept in every Vyāhratan household shrine, and the faded flowers of each day are placed in it. **The Dew-Phial** is a small glass phial of dew-water, gathered at the autumn equinox and used in the **Rite of Releasing**. The withered garland is deliberately wilted and worn at the rites of decay, as a sign of willing acceptance.
+Three objects carry the cult. **The Petal Bowl** is a small shallow bowl kept in every Vyahratan household shrine, and the faded flowers of each day are placed in it. **The Dew-Phial** is a small glass phial of dew-water, gathered at the autumn equinox and used in the **Rite of Releasing**. The withered garland is deliberately wilted and worn at the rites of decay, as a sign of willing acceptance.
 
 ### What the Devout Do
 
-Almost every Varnakan household keeps a petal bowl on the kitchen windowsill or at the garden door, whatever its chief devotion. The wilted flowers of the day's garland go into it, with any fallen leaf brought in on a sandal and the dry seed-head of a spent blossom. Once a month the bowl is emptied onto the household's compost-heap with the formula of release, and at the end of the season the bowl itself is emptied onto the compost-heap or the garden-bed.
+Almost every Varnakan household keeps a petal bowl on the kitchen windowsill or at the garden door, whatever its chief devotion. The wilted flowers of the day's garland gho into it, with any fallen leaf brought in on a sandal and the dry seed-head of a spent blossom. Once a month the bowl is emptied onto the household's compost-heap with the formula of release, and at the end of the season the bowl itself is emptied onto the compost-heap or the garden-bed.
 
 A household passing through a change of state sets out withered flowers at its threshold for a full day. The change might be a child grown and gone, a partnership dissolved or a business sold.
 
@@ -74,6 +74,6 @@ A household passing through a change of state sets out withered flowers at its t
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varnaka Pantheon]]
-- [[lore-vyahratidty|Vyāhrati]]—the goddess, and the theology of endings
-- [[affiliation-agnipantha|Agnī-panthā]]—whose kindest rites are Vyāhratan
+- [[affiliation-varakpnthn|Varnuka Pantheon]]
+- [[lore-vyahratidty|Vahrati]]—the goddess, and the theology of endings
+- [[affiliation-agnipantha|Agmi-pantra]]—whose kindest rites are Vyahratan

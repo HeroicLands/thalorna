@@ -1,15 +1,15 @@
 ---
 shortcode: lophiriaghal
-name: {full: Lôphirîa Ghalîrôs, aliases: [Archon Lôphirîa]}
+name: {full: Lofiria Ghaliros, aliases: [Arsir Lofiria]}
 type: being
 subType: npc
-description: A minor ruler on the empire's borders who turned against House Xarkhêdis in its moment of need, named in Kallistratos Xarkhêdis.
+description: A minor ruler on the empire's borders who turned against House Zarkedis in its moment of need, named in Kalestratos Zarkedis.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Archon
+  occupation: Arsir
   lore: []
   culture: helioniteclt
   homes: []
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Lôphirîa Ghalîrôs is a 47-year-old woman who stands 5'8" tall with a medium build. She has olive skin, weathered complexion, black hair, and green eyes.
+Lofiria Ghaliros is a 47-year-old woman who stands 5'8" tall with a medium build. She has olive skin, weathered complexion, black hair, and green eyes.
 
 # Dossier {#dossier}
 
-Lôphirîa Ghalîrôs is an archon, a minor ruler on the empire's borders. She was once an ally of House Xarkhêdis and turned against it in its moment of need, hastening its downfall. She views [[being-klstrtsxrchds|Kallistratos Xarkhêdis]] as the insignificant remnant of a dead house.
+Lofiria Ghaliros is an arsir, a minor ruler on the empire's borders. She was once an ally of House Zarkedis and turned against it in its moment of need, hastening its downfall. She views [[being-klstrtsxrchds|Kalestratos Zarkedis]] as the insignificant remnant of a dead house.

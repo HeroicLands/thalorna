@@ -1,6 +1,6 @@
 ---
 shortcode: erkhrsghnds
-name: {full: Érkhiros Ghânîdês, aliases: []}
+name: {full: Érkhiros Ghanides, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,11 +393,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Érkhiros Ghânîdês is a 51-year-old man who stands 5'11" tall and is of moderate build. He has a diamond face with prominent cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His almond-shaped amber eyes sit beneath prominent brows, lending him a measured gaze. A prominent nose and curved lips complete his features. He has olive skin with a weathered complexion. His white hair is tied in a low tail. A notable feature is crow's feet at the corners of sharp eyes.
+Érkhiros Ghanides is a 51-year-old man who stands 5'11" tall and is of moderate build. He has a diamond face with prominent cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His almond-shaped amber eyes sit beneath prominent brows, lending him a measured gaze. A prominent nose and curved lips complete his features. He has olive skin with a weathered complexion. His white hair is tied in a low tail. A notable feature is crow's feet at the corners of sharp eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Érkhiros Ghânîdês came into the world of the teamster through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Érkhiros Ghanides came into the world of the teamster through a combination of circumstance and aptitude.
 
 Érkhiros has been a teamster for over thirty years, traveling countless miles and weathering many storms. He is a familiar face on the trade routes and is often sought after for advice by younger teamsters. Known for his easygoing nature, he enjoys the freedom of the open road, but age is starting to catch up with him.
 
@@ -419,7 +419,7 @@ Experienced navigator, skilled in repairs, good with people.
 
 Érkhiros is affiliated with Teamsters' Guild.
 
-As a Helionite teamster, Érkhiros occupies a recognized social niche within Heliónis society.
+As a Helionite teamster, Érkhiros occupies a recognized social niche within Helionis society.
 
 ## Companions
 
@@ -433,12 +433,12 @@ None; generally well-liked among fellow teamsters.
 
 ## Plot Hooks
 
-1. **The Teamster's Dilemma**—Érkhiros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Teamster's Dilemma**—Érkhiros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—None; generally well-liked among fellow teamsters. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 3. **Echoes of the Past**—Something from Érkhiros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Érkhiros depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Érkhiros depends upon. He must decide whether to adapt, resist, or flee.
 
 5. **The Opportunity**—A chance encounter offers Érkhiros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -1,6 +1,6 @@
 ---
 shortcode: kenelmadwl
-name: {full: Kenelm Adwell, aliases: []}
+name: {full: Kenmund Adwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Kenelm Adwell is a 36-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with angular cheekbones, a high forehead, and a rounded jaw that leads to a firm chin. His narrow brown eyes sit beneath arched brows, lending him a keen gaze. A slightly upturned nose and curved lips complete his features. He has light skin with a lightly freckled complexion. His red hair is combed neatly to one side.
+Kenmund Adwell is a 36-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with angular cheekbones, a high forehead, and a rounded jaw that leads to a firm chin. His narrow brown eyes sit beneath arched brows, lending him a keen gaze. A slightly upturned nose and curved lips complete his features. He has light skin with a lightly freckled complexion. His red hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Kenelm Adwell is a caravan guard.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Kenmund Adwell is a caravan guard.
 
-Kenelm is a seasoned caravan guard with decades of experience. He has seen many dangers on the road and has learned to anticipate threats. His strong leadership skills make him an excellent choice for overseeing caravan security. Kenelm believes in camaraderie and often shares stories and strategies with younger guards to help them grow in their roles.
+Kenmund is a seasoned caravan guard with decades of experience. He has seen many dangers on the road and has learned to anticipate threats. His strong leadership skills make him an excellent choice for overseeing caravan security. Kenmund believes in camaraderie and often shares stories and strategies with younger guards to help them grow in their roles.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ Can be too protective, struggles with newer tactics.
 
 ### Motivation
 
-Kenelm wants younger guards to meet the dangers of the road prepared, so he shares the lessons he has gathered over decades.
+Kenmund wants younger guards to meet the dangers of the road prepared, so he shares the lessons he has gathered over decades.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ Highly experienced, good leader, skilled in close combat.
 
 ## Social
 
-Kenelm is affiliated with Local Mercenaries' Guild.
+Kenmund is affiliated with Local Mercenaries' Guild.
 
 ## Companions
 
 ### Patrons
 
-Caravan leaders and merchants hire Kenelm for his experience.
+Caravan leaders and merchants hire Kenmund for his experience.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Few; well-respected among peers.
 
 ## Plot Hooks
 
-1. **The Caravan Guard's Dilemma**—Kenelm faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Caravan Guard's Dilemma**—Kenmund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Few; well-respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Kenelm's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Kenmund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Kenelm depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Kenmund depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Kenelm the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kenmund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

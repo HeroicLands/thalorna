@@ -1,6 +1,6 @@
 ---
 shortcode: kdmrshrrds
-name: {full: Kadmeros Hârôrdîs, aliases: []}
+name: {full: Kadmeros Harordis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,11 +392,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Kadmeros Hârôrdîs is a 38-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a lined forehead, and a square jaw that leads to a prominent chin. His round dark brown eyes sit beneath arched brows, lending him a candid gaze. An aquiline nose and wide lips complete his features. He has olive skin with a smooth complexion. His auburn hair is kept practical and short.
+Kadmeros Harordis is a 38-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a lined forehead, and a square jaw that leads to a prominent chin. His round dark brown eyes sit beneath arched brows, lending him a candid gaze. An aquiline nose and wide lips complete his features. He has olive skin with a smooth complexion. His auburn hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Kadmeros Hârôrdîs came into the world of the woodcrafter through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Kadmeros Harordis came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
 Kadmeros has been working with wood since he was a boy, learning the craft from his father in a small village surrounded by forests. His skills lie in crafting furniture, tools, and decorative items from local hardwoods. Known for his carvings and quality craftsmanship, Kadmeros is proud of his trade, though he often struggles to find steady customers in a small community.
 

@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Clairvoyance perceives a place out of sight, as though the practitioner were standing in it. The practitioner stays where they are while their senses reach elsewhere. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.
+Clairvoyance perceives a place out of sight, as though the practitioner were standing in it. The practitioner stays where they are while their senses reach elsewhere. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

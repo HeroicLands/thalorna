@@ -1,6 +1,6 @@
 ---
 shortcode: nevarnhbls
-name: {full: Nêvarina Hàbîlês, aliases: []}
+name: {full: Nevarina Habiles, aliases: []}
 type: being
 subType: npc
 tags: [draft, underworld]
@@ -391,23 +391,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Nêvarina Hàbîlês is a 30-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with high cheekbones, a lined forehead, and a strong jaw that leads to a strong chin. Her deep-set blue eyes sit beneath straight brows and give her a watchful gaze. She has a strong nose and curved lips. She has olive-tanned skin with a clear complexion. Her brown hair is pinned in an elegant twist.
+Nevarina Habiles is a 30-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with high cheekbones, a lined forehead, and a strong jaw that leads to a strong chin. Her deep-set blue eyes sit beneath straight brows and give her a watchful gaze. She has a strong nose and curved lips. She has olive-tanned skin with a clear complexion. Her brown hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Nêvarina Hàbîlês is a widow of Therádon, in [[place-helionis|Heliónis]], who keeps herself and her two young children by prostitution. She is Helionite freeborn, of a family of no standing, and was widowed young.
+Nevarina Habiles is a widow of Theradon, in [[place-helionis|Helionis]], who keeps herself and her two young children by prostitution. She is Helionite freeborn, of a family of no standing, and was widowed young.
 
-The city has an honored place for women who sell their company: the hetairai, trained at the Academy of the Silver Veil and kept by the wealthy. Nêvarina is not one of them. She took to the trade in the year after her husband's death, when the alternatives were beggary or her husband's kin in the countryside, who offered to take the children and not her. She works from rented rooms below the market ward, takes the students and lesser citizens the hetairai do not, and is careful, sober and kind to the men who come to her. She is tired, and ashamed of the work in a city with strong opinions about proper living.
+The city has an honored place for women who sell their company: the hetairin, trained at the Academy of the Silver Veil and kept by the wealthy. Nevarina is not one of them. She took to the trade in the year after her husband's death, when the alternatives were beggary or her husband's kin in the countryside, who offered to take the children and not her. She works from rented rooms below the market ward, takes the students and lesser citizens the hetairin do not, and is careful, sober and kind to the men who come to her. She is tired, and ashamed of the work in a city with strong opinions about proper living.
 
 ## Psyche
 
 ### Personality
 
-Nêvarina is warm, patient and watchful, and gives more than she can afford to anyone who seems to need it.
+Nevarina is warm, patient and watchful, and gives more than she can afford to anyone who seems to need it.
 
 ### Motivation
 
-Nêvarina wants her children fed, clothed and clear of the trade that feeds them. Behind that is a smaller, fiercer hope of a way out for herself—a household to serve in, a shop to keep, anything that is not this.
+Nevarina wants her children fed, clothed and clear of the trade that feeds them. Behind that is a smaller, fiercer hope of a way out for herself—a household to serve in, a shop to keep, anything that is not this.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ Resilient, nurturing, good at making a little money go a long way.
 
 ## Social
 
-Nêvarina belongs to no guild or house and works independently.
+Nevarina belongs to no guild or house and works independently.
 
 ## Companions
 
 ### Patrons
 
-Nêvarina's patrons are the men who come to her rooms—students, clerks, minor tradesmen—and she offers them warmth and kindness as much as anything else. Two or three of the older ones pay for an evening's talk and a meal.
+Nevarina's patrons are the men who come to her rooms—students, clerks, minor tradesmen—and she offers them warmth and kindness as much as anything else. Two or three of the older ones pay for an evening's talk and a meal.
 
 ### Enemies
 
@@ -429,10 +429,10 @@ The decency officers of the market ward, who are paid to leave her alone and may
 
 ## Plot Hooks
 
-1. **A Place in a Household**—A hetaira of the Silver Veil has offered Nêvarina a place as housekeeper: honest work, a roof for the children, and a mistress whose own trade is the one Nêvarina is trying to leave.
+1. **A Place in a Household**—A hetairin of the Silver Veil has offered Nevarina a place as housekeeper: honest work, a roof for the children, and a mistress whose own trade is the one Nevarina is trying to leave.
 
-2. **The Kin**—Her husband's brother has petitioned the assembly for custody of the children, on the grounds of their mother's trade. Nêvarina has no one to speak for her.
+2. **The Kin**—Her husband's brother has petitioned the assembly for custody of the children, on the grounds of their mother's trade. Nevarina has no one to speak for her.
 
-3. **A Regular**—One of the men who pays for her evenings has begun to talk of marriage, and of the children as his. He is kind, he has a wife and household already in another city, and Nêvarina has begun to suspect it.
+3. **A Regular**—One of the men who pays for her evenings has begun to talk of marriage, and of the children as his. He is kind, he has a wife and household already in another city, and Nevarina has begun to suspect it.
 
-4. **The Purge**—The assembly has resolved to clear the market ward of vice before a festival. The decency officers have a list, Nêvarina is on it, and the fine is more than a year's rent.
+4. **The Purge**—The assembly has resolved to clear the market ward of vice before a festival. The decency officers have a list, Nevarina is on it, and the fine is more than a year's rent.

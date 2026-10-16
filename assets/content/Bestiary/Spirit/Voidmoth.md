@@ -232,7 +232,7 @@ The march road runs across the stony fan at the foot of the hills, and the barri
 
 # Dossier {#dossier}
 
-The Voidmoth is a spirit-being of solidified darkness, a moth the size of a horse with a twenty-foot wingspan, born of or touched by the spaces between worlds, which gathers where reality has torn and the barrier between the worlds is weak. It feeds on something that is not food, perhaps magic, perhaps the force of the tear itself. It makes darkness, suppresses magic, and breaks men's reason with its gaze. It is one of the hunters that cross onto [[place-lanthusthli|Lanthusthalī]], the thinnest blood-field in Vedyara, where the march kingdom of Marupāla died in 315 AF and nobody's rites were said for the dead. Like the other hunters that gather where the dead were never received, it takes on a half-material form on the field, and in that form it kills.
+The Voidmoth is a spirit-being of solidified darkness, a moth the size of a horse with a twenty-foot wingspan, born of or touched by the spaces between worlds, which gathers where reality has torn and the barrier between the worlds is weak. It feeds on something that is not food, perhaps magic, perhaps the force of the tear itself. It makes darkness, suppresses magic, and breaks men's reason with its gaze. It is one of the hunters that cross onto [[place-lanthusthli|Lantustali]], the thinnest blood-field in Vedyara, where the march kingdom of Marupala died in 315 AF and nobody's rites were said for the dead. Like the other hunters that gather where the dead were never received, it takes on a half-material form on the field, and in that form it kills.
 
 ## Presentation
 
@@ -240,7 +240,7 @@ The voidmoth's body is a long, heavy, segmented shape, furred and plated with so
 
 ## In the Land
 
-Lanthusthalī is the fan of stony ground where the foothills of the Western Descent open onto the march road, a day and a half west of [[place-ashvapada|Ashvapada]]. It is a dread: the overrun host's panic is still on the field and comes on anyone who lingers, by day as well as by night. On any night of the year, and worst in the dry season when the wind comes off the Descent, the hunters cross onto the field, and the voidmoth is one of them. It rises from the stones after dark and hunts the field and the road's edge, and it is gone before dawn. It does not leave the field, and it treats the field as its own.
+Lantustali is the fan of stony ground where the foothills of the Western Descent open onto the march road, a day and a half west of [[place-ashvapada|Ashvapada]]. It is a dread: the overrun host's panic is still on the field and comes on anyone who lingers, by day as well as by night. On any night of the year, and worst in the dry season when the wind comes off the Descent, the hunters cross onto the field, and the voidmoth is one of them. It rises from the stones after dark and hunts the field and the road's edge, and it is gone before dawn. It does not leave the field, and it treats the field as its own.
 
 ## Key Behaviors
 
@@ -248,7 +248,7 @@ A voidmoth is nocturnal and territorial, and it attacks anything that comes onto
 
 ## What the March Companies Do
 
-The march companies of [[affiliation-bhumipala|Bhūmipāla]] call the field the banner ground in daylight and nothing after dark, and the road across it is barred at dusk. A caravan that must pass goes by day, at a trot, with its animals blindfolded against the dread, and is across before the sun touches the hills. The march companies post their dusk watch behind the barrier with bright torches and a priest of the [[affiliation-agnipantha|Agnī-panthā]], whose sect claims the fields of Vedyara and burns the ground to end them. The priests say that the voidmoth is one reason the burning has not yet worked on Lanthusthalī: it drinks the fire's working as it drinks a lamp. They burn the edges anyway.
+The march companies of [[affiliation-bhumipala|Bhumipala]] call the field the banner ground in daylight and nothing after dark, and the road across it is barred at dusk. A caravan that must pass goes by day, at a trot, with its animals blindfolded against the dread, and is across before the sun touches the hills. The march companies post their dusk watch behind the barrier with bright torches and a priest of the [[affiliation-agnipantha|Agmi-pantra]], whose sect claims the fields of Vedyara and burns the ground to end them. The priests say that the voidmoth is one reason the burning has not yet worked on Lantustali: it drinks the fire's working as it drinks a lamp. They burn the edges anyway.
 
 ## Signs
 

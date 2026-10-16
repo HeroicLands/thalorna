@@ -1,6 +1,6 @@
 ---
 shortcode: drknsdlsns
-name: {full: Mivios Zapemês, given: Mivios, clan: Zapemês, aliases: []}
+name: {full: Mivios Zapemes, given: Mivios, clan: Zapemes, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -414,13 +414,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[drknsdlsns|Mivios Zapemês]]{float=top-left}
+![[drknsdlsns|Mivios Zapemes]]{float=top-left}
 
 Mivios stands 6'0" tall with a heavy build. He has tanned ruddy skin, greying brown hair, and green eyes. His features include a long face, a hawkish nose, a sharp jawline, well-defined lips, and greying brows.
 
 # Dossier {#dossier}
 
-Mivios emerged from the frontier regions of the [[affiliation-byzarianlg|Byzarian League]], born into a family of trappers and hunters who worked the wild edges where civilization met untamed wilderness. His early years were spent learning the languages of animals—the signs that indicate a predator's territory, the weight and pace of a creature's movement, the subtle variations in track patterns that reveal age and condition. By his teens, he was already recognized as unusually gifted, capable of reading landscapes others could not comprehend.
+Mivios emerged from the frontier regions of the [[affiliation-byzarianlg|Bizarian League]], born into a family of trappers and hunters who worked the wild edges where civilization met untamed wilderness. His early years were spent learning the languages of animals—the signs that indicate a predator's territory, the weight and pace of a creature's movement, the subtle variations in track patterns that reveal age and condition. By his teens, he was already recognized as unusually gifted, capable of reading landscapes others could not comprehend.
 
 At twenty-seven, Mivios ventured beyond the territories familiar to his family, seeking more dangerous prey and greater challenges. The wilderness accepted him, or perhaps more accurately, he learned to move through it with such attunement that he became barely an intruder. Over the next twenty-five years, he developed a reputation as the trapper to call when conventional methods had failed—when dangerous predators proved too intelligent or savage for ordinary hunters, when the wilderness itself seemed to be the adversary rather than merely the location of the hunt.
 
@@ -460,13 +460,13 @@ A more personal motivation underlies this: the wilderness is the only place wher
 
 ### Patrons
 
-Lord Belzûrion Vughash of the frontier
+Lord Belzurion Vughash of the frontier
 : A regional noble who maintains vast estates and regularly contracts Mivios to eliminate predators threatening livestock and hunting preserves; their relationship is one of business but carries unusual mutual respect.
 
 The Kozna Collective of Woodsmen
 : A loose association of trappers and hunters who, while maintaining distance from Mivios, regularly defer difficult contracts to him and pay extraordinary rates for his skill.
 
-Brother Lifizîn Kregokhash of Mârendâs's Monastery
+Brother Lifizin Kregokhash of Marendas's Monastery
 : A monk keeper who acknowledges that Mivios's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
 
 ### Enemies
@@ -477,8 +477,8 @@ Provincial Warden Tevik
 The Poacher's Syndicate
 : A criminal organization that controls illegal hunting operations and views Mivios as a threat to their profits; they have attempted to eliminate him multiple times.
 
-Merchant-Lord Pazhûrikos Plekolídek
-: A wealthy trader whose hunting party was decimated by a great predator; Pazhûrikos blames Mivios for failing to eliminate the beast beforehand and has sworn vendetta against him.
+Merchant-Lord Pazhurikos Plekolidek
+: A wealthy trader whose hunting party was decimated by a great predator; Pazhurikos blames Mivios for failing to eliminate the beast beforehand and has sworn vendetta against him.
 
 ### Affiliations
 
@@ -492,6 +492,6 @@ None (works only on his own account).
 
 3. **The Beast's Offspring**: Mivios is hired to eliminate a large predator, but upon killing it, discovers it is protecting offspring—multiple juvenile creatures of the same species. The contract specified total elimination, but Mivios finds himself unable to slaughter young animals who are not themselves threats. He attempts to smuggle them to safety, violating his contract and creating a vendetta from the client while simultaneously attracting attention from others who would study or capture the creatures themselves.
 
-4. **The Conservation Revelation**: **Brother Lifizîn** brings Mivios evidence suggesting that the dying of the Byzarian League's wilderness regions is not the result of too many predators but of systematic poaching and the clearing of wild land by a syndicate of wealthy merchants. The monk asks Mivios to help investigate and expose this conspiracy, a task that would require him to engage in civilized methods—documentation, political maneuvering, public revelation—that are entirely contrary to his nature. Yet the alternative is watching the wilderness he reveres destroyed through human greed.
+4. **The Conservation Revelation**: **Brother Lifizin** brings Mivios evidence suggesting that the dying of the Bizarian League's wilderness regions is not the result of too many predators but of systematic poaching and the clearing of wild land by a syndicate of wealthy merchants. The monk asks Mivios to help investigate and expose this conspiracy, a task that would require him to engage in civilized methods—documentation, political maneuvering, public revelation—that are entirely contrary to his nature. Yet the alternative is watching the wilderness he reveres destroyed through human greed.
 
 5. **The Great Bear's Return**: Mivios is hired to investigate sightings of a great bear matching the description of the beast that scarred him seventeen years ago—sightings that should be impossible, as he killed that creature himself, watched it die. Investigation suggests either the original bear somehow survived, or its offspring has inherited its size and power along with its intelligence and its apparent vendetta against Mivios specifically. As the evidence accumulates, Mivios becomes increasingly convinced that something spiritual is at play—that the bear is more than an animal, something that cannot be killed through conventional means, and that his conflict with it extends beyond the purely physical.

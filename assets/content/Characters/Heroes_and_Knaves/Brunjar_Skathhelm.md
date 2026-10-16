@@ -404,11 +404,11 @@ Brunjár yra Skathhelm wur Druthholt looks like what he is: a boy who ended up i
 
 # Dossier {#dossier}
 
-Brunjár grew up in a small Varokh village not far from Dágulf's own birthplace, the son of a herdsman and a weaver. His was an unremarkable childhood—poor but not desperate, with parents who tried their best and an older sister who looked out for him. He was never strong or brave, but he was observant, good with animals, and a fair hand with a sling from years of chasing crows out of the barley fields.
+Brunjár grew up in a small Varokh village not far from Dagbán's own birthplace, the son of a herdsman and a weaver. His was an unremarkable childhood—poor but not desperate, with parents who tried their best and an older sister who looked out for him. He was never strong or brave, but he was observant, good with animals, and a fair hand with a sling from years of chasing crows out of the barley fields.
 
-His trouble began when his father was accused of stealing a neighbor's ram—a charge that was true, as it happened, though born of desperation during a hard winter. The village's Other Chief ordered a beating that left his father crippled, and the family's small holding was forfeit. Brunjár's mother died of fever the following spring, and his sister married into another village to survive. At seventeen, alone and landless, Brunjár drifted into poaching, then petty theft, and finally stumbled into Dágulf's orbit when the gang raided a caravan Brunjár happened to be robbing at the same time.
+His trouble began when his father was accused of stealing a neighbor's ram—a charge that was true, as it happened, though born of desperation during a hard winter. The village's Other Chief ordered a beating that left his father crippled, and the family's small holding was forfeit. Brunjár's mother died of fever the following spring, and his sister married into another village to survive. At seventeen, alone and landless, Brunjár drifted into poaching, then petty theft, and finally stumbled into Dagbán's orbit when the gang raided a caravan Brunjár happened to be robbing at the same time.
 
-Dágulf kept him because he was useful—a good lookout, quiet on his feet, and too frightened to disobey. Brunjár has been with the Blackpine Wolves for two years now and hates every moment of it, but sees no way out. He has witnessed things that haunt him, and participated in acts he cannot undo.
+Dagbán kept him because he was useful—a good lookout, quiet on his feet, and too frightened to disobey. Brunjár has been with the Blackpine Wolves for two years now and hates every moment of it, but sees no way out. He has witnessed things that haunt him, and participated in acts he cannot undo.
 
 # Skills and Abilities
 
@@ -418,11 +418,11 @@ Brunjár is the gang's primary lookout and scout. His perception is good, he mov
 
 ### Personality
 
-Brunjár is anxious, guilt-ridden, and desperately unhappy. He is not a bad person—he has empathy, a functioning conscience, and the moral awareness to know that what the gang does is wrong. He simply lacks the will to leave and the courage to resist. He is eager to please and quick to obey, which makes him useful to Dágulf but contemptible to Skathilda. He talks too much when nervous, apologizes compulsively, and sleeps badly.
+Brunjár is anxious, guilt-ridden, and desperately unhappy. He is not a bad person—he has empathy, a functioning conscience, and the moral awareness to know that what the gang does is wrong. He simply lacks the will to leave and the courage to resist. He is eager to please and quick to obey, which makes him useful to Dagbán but contemptible to Skathilda. He talks too much when nervous, apologizes compulsively, and sleeps badly.
 
 ### Motivation
 
-Brunjár wants out. He dreams of a quiet life—a small farm, a wife, honest work—but cannot see how to get there from where he is. He fears Dágulf's retribution if he tries to leave, and he fears the law if he turns himself in. He is paralyzed between guilt and cowardice, and each day he stays makes the next departure harder.
+Brunjár wants out. He dreams of a quiet life—a small farm, a wife, honest work—but cannot see how to get there from where he is. He fears Dagbán's retribution if he tries to leave, and he fears the law if he turns himself in. He is paralyzed between guilt and cowardice, and each day he stays makes the next departure harder.
 
 ### Strengths
 
@@ -432,7 +432,7 @@ His perception and stealth make him a useful scout. His empathy, though it torme
 
 ## Companions
 
-The Blackpine Wolves, reluctantly. Thráwald ignores him. Skathilda openly despises him. Dágulf uses him. He finds the company of the gang's dogs and horses more tolerable than the company of its men.
+The Blackpine Wolves, reluctantly. Thrawald ignores him. Skathilda openly despises him. Dagbán uses him. He finds the company of the gang's dogs and horses more tolerable than the company of its men.
 
 ### Patrons
 
@@ -440,12 +440,12 @@ None.
 
 ### Enemies
 
-No personal enemies beyond those the gang has made collectively. His sister, Hildára, married into a village two days' walk south and does not know what her brother has become.
+No personal enemies beyond those the gang has made collectively. His sister, Hildara, married into a village two days' walk south and does not know what her brother has become.
 
 ## Plot Hooks
 
-1. **The Reluctant Informant**—Brunjár is captured during a botched ambush and, terrified, offers to lead the party to the Blackpine Wolves' camp in exchange for mercy. He is telling the truth and will cooperate fully, but his information may be incomplete—and if Dágulf learns of the betrayal before the party can act, Brunjár's life is forfeit.
+1. **The Reluctant Informant**—Brunjár is captured during a botched ambush and, terrified, offers to lead the party to the Blackpine Wolves' camp in exchange for mercy. He is telling the truth and will cooperate fully, but his information may be incomplete—and if Dagbán learns of the betrayal before the party can act, Brunjár's life is forfeit.
 
 2. **A Sister's Letter**—The party encounters a Varokh woman who is searching for her younger brother. She carries a scrap of cloth he'd recognize and asks strangers on the road if they've seen a young man with freckles and a sling. If the party has already dealt with the Blackpine Wolves, they must decide what to tell her about her brother's fate.
 
-3. **The Captive's Friend**—After a robbery, one of the gang's captives reports that a freckle-faced young bandit secretly loosened their bonds and whispered where to find help. The party can use this information to identify a potential ally within the gang—if they can reach Brunjár before Dágulf discovers his treachery.
+3. **The Captive's Friend**—After a robbery, one of the gang's captives reports that a freckle-faced young bandit secretly loosened their bonds and whispered where to find help. The party can use this information to identify a potential ally within the gang—if they can reach Brunjár before Dagbán discovers his treachery.

@@ -1,6 +1,6 @@
 ---
 shortcode: ashira
-name: {full: Ashíra, aliases: []}
+name: {full: Oshira, aliases: []}
 type: place
 subType: settlement
 description: "Town"
@@ -14,4 +14,4 @@ data:
   packFolder: bethua
 ---
 
-Ashíra is a town in the [[place-bethuargn|Bethûa]] region, the middle of Xerathia's northern shore between Okháris and Aû'Khelâthu, and the engineered interior behind it, held by the Matriarchy of Bethûa.
+Oshira is a town in the [[place-bethuargn|Bethua]] region, the middle of Zerathia's northern shore between Okharis and Au'Khelathu, and the engineered interior behind it, held by the Matriarchy of Bethua.

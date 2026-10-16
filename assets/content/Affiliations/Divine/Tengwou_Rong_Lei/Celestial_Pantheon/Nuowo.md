@@ -1,6 +1,6 @@
 ---
 shortcode: nuowo
-name: {full: Nuòwō, aliases: [The Minister of Dissolution, Nuò Séi, The Bureau of Returns]}
+name: {full: Nuowo, aliases: [The Minister of Dissolution, Nuo Sei, The Bureau of Returns]}
 type: affiliation
 subType: faithtradition
 description: "Dissolution."
@@ -14,16 +14,16 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tānchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
         description: >-
-          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tāntsou consider worse.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tantsou consider worse.
       - level: 1
         title: Petitioner
         description: >-
-          Every Tāntsou: keeps a moral ledger, is observed by the household's Tsàikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -47,13 +47,13 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Téng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Nuòwō, The Minister of Dissolution: >-
-        Téng Gui of the Nuò Séi, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Nuòléi: >-
+      Nuowo, The Minister of Dissolution: >-
+        Teng Gui of the Nuo Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Nuoléi: >-
         Dissolution Spirits, who break down expired classifications.
-      Zhawō: >-
+      Zhawo: >-
         Renewal Spirits, who feed recycled materials back into the Bureau of Creation's processes.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -81,29 +81,29 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Nuòwō—The Minister of Dissolution
+## Nuowo—The Minister of Dissolution
 
-- **Bureau:** Nuò Séi, The Bureau of Returns
+- **Bureau:** Nuo Sei, The Bureau of Returns
 - **Domain:** Dissolution
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Léi]]
+- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Nuò Séi is the reclamation office. What has finished being one thing is broken down here and
+Nuo Sei is the reclamation office. What has finished being one thing is broken down here and
 returned as material for something else, which is why it works so closely with the
 [[affiliation-neitsai|Bureau of Creation]] and quarrels so persistently with the
 [[affiliation-fawo|Bureau of Allocation]]—one wants resources distributed, the other wants them
 back.
 
-Mortals rarely petition it directly and are wary when they must. A request to Nuò Séi is a request
+Mortals rarely petition it directly and are wary when they must. A request to Nuo Sei is a request
 that something be ended, and the bureau is scrupulous about establishing that the petitioner
 understands what they have asked for.
 
 ### Lesser Spirits
 
-- **Nuòléi**—Dissolution Spirits, who break down expired classifications.
-- **Zhawō**—Renewal Spirits, who feed recycled materials back into the Bureau of Creation's processes.
+- **Nuoléi**—Dissolution Spirits, who break down expired classifications.
+- **Zhawo**—Renewal Spirits, who feed recycled materials back into the Bureau of Creation's processes.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Léi]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Téng Chou Script]]—the writing every petition is made in
+- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
+- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in

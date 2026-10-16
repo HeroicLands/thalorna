@@ -1,9 +1,9 @@
 ---
 shortcode: ruzhvelanakh
-name: {full: Rûzhvelána Khoríkot, aliases: [Captain-General Rûzhvelána Khoríkot]}
+name: {full: Ruzhvelana Korikot, aliases: [Captain-General Ruzhvelana Korikot]}
 type: being
 subType: npc
-description: Captain-General of the City Guard and supreme military commander of Chrysamar, named in Sedikôn Manedês.
+description: Captain-General of the City Guard and supreme military commander of Chrisamar, named in Sedikon Manedes.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Rûzhvelána Khoríkot is a 52-year-old woman who stands 5'11" tall with a light build. She has light skin, smooth complexion, black hair, and green eyes.
+Ruzhvelana Korikot is a 52-year-old woman who stands 5'11" tall with a light build. She has light skin, smooth complexion, black hair, and green eyes.
 
 # Dossier {#dossier}
 
-Rûzhvelána Khoríkot is Captain-General of the City Guard and supreme military commander of Chrysamar. The note on [[being-gvrlsnktrts|Sedikôn Manedês]] names her.
+Ruzhvelana Korikot is Captain-General of the City Guard and supreme military commander of Chrisamar. The note on [[being-gvrlsnktrts|Sedikon Manedes]] names her.

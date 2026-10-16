@@ -1,18 +1,18 @@
 ---
 shortcode: palnebris
-name: {full: Palnebrìs, aliases: []}
+name: {full: Palnebris, aliases: []}
 type: place
 subType: settlement
-description: "The great orchard manor of Zuravlèn's upper terraces—the richest holding in the barony, the most exposed to a single cold night, and the model of a demesne run for fruit."
+description: "The great orchard manor of Zuravlen's upper terraces—the richest holding in the barony, the most exposed to a single cold night, and the model of a demesne run for fruit."
 tags: [village, hill]
 data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 310, packFolder: provenzia}
 ---
 
-**Palnebrìs** holds the best of the upper terraces, and is the wealthiest manor in
-[[place-zuravlenrgn|Zuravlèn]] and the most precarious. Nearly its whole demesne is under peach. In a
+**Palnebris** holds the best of the upper terraces, and is the wealthiest manor in
+[[place-zuravlenrgn|Zuravlen]] and the most precarious. Nearly its whole demesne is under peach. In a
 good year its lord out-earns the baron; in a frost year he borrows, and everyone knows it.
 
-Use Palnebrìs as the model of a **manor run for a single high-value crop**.
+Use Palnebris as the model of a **manor run for a single high-value crop**.
 
 ## The Manor
 
@@ -20,15 +20,15 @@ Use Palnebrìs as the model of a **manor run for a single high-value crop**.
   harvest—by hired hands the manor cannot do without.
 - **Tenancies.** Around fifty holdings, most of them small terrace strips. Rent is paid in fruit,
   reckoned at the grading table's marks, which means a tenant's rent depends on a stranger's judgment
-  in Elthrembìs. This is the manor's standing grievance.
-- **Water.** Palnebrìs holds the earliest water-turns on the _règa_, granted before living memory and
+  in Eltrembis. This is the manor's standing grievance.
+- **Water.** Palnebris holds the earliest water-turns on the _reva_, granted before living memory and
   challenged roughly once a generation. The manor's charter is kept in the church rather than the hall,
   for reasons the family does not discuss.
-- **Banalities.** The lord's press and the lord's oven. Palnebrìs has its **own drying yard**—one of
+- **Banalities.** The lord's press and the lord's oven. Palnebris has its **own drying yard**—one of
   only three in the barony—so it does not pay the baron's share, and it takes a share from the
   holdings around it that use the yard instead.
 - **The graft-house.** A heated shed where winter grafting is done. The manor's grafters are the best
-  in Provènzia and are lent out, at a price, as far as the coast.
+  in Provenzia and are lent out, at a price, as far as the coast.
 
 ## Officers and Custom
 
@@ -41,7 +41,7 @@ straw when the bell rings, at any hour, on pain of a fine that has never once be
 
 ## The Difficulty
 
-Palnebrìs has no grain to speak of and buys its bread. It has too few sheep to dung its own terraces and
+Palnebris has no grain to speak of and buys its bread. It has too few sheep to dung its own terraces and
 must contract for folding with [[place-estivren|Estivren]], whose shepherds know exactly how badly it
 is needed. And it is the manor a late frost ruins first, being highest.
 

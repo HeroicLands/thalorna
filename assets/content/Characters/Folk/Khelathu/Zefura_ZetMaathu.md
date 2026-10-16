@@ -1,9 +1,9 @@
 ---
 shortcode: zefurazetmaa
-name: {full: Zefurâ Zet'Maâthu, aliases: [Master Zefurâ]}
+name: {full: Zefura Zet'Maathu, aliases: [Master Zefura]}
 type: being
 subType: npc
-description: A master perfumer of considerable reputation, father of Gatnefur Zet'Maâthu and a demanding teacher.
+description: A master perfumer of considerable reputation, father of Gatnefur Zet'Maathu and a demanding teacher.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zefurâ Zet'Maâthu is a 64-year-old man who stands 5'10" tall with a heavy build. He has dark brown skin, smooth complexion, dark brown hair, and amber eyes.
+Zefura Zet'Maathu is a 64-year-old man who stands 5'10" tall with a heavy build. He has dark brown skin, smooth complexion, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Zefurâ Zet'Maâthu is a master perfumer of considerable reputation of the Guild Quarter of Galezkara and the father of [[being-gatnefrztmth|Gatnefur Zet'Maâthu]]. He was a demanding teacher, but also a visionary one, who encouraged his son to experiment and to combine scents in ways that seemed almost heretical to the conservative guild masters.
+Zefura Zet'Maathu is a master perfumer of considerable reputation of the Guild Quarter of Galezkara and the father of [[being-gatnefrztmth|Gatnefur Zet'Maathu]]. He was a demanding teacher, but also a visionary one, who encouraged his son to experiment and to combine scents in ways that seemed almost heretical to the conservative guild masters.

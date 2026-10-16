@@ -75,7 +75,7 @@ sohl: {system: {commonSkills: []}}
 ---
 
 - **Type:** Underground professional network
-- **Region:** [[place-byzariargn|Byzaría]] principally, with active members in every League city and known correspondents in Provènzia, Heliónis, and Vylaria
+- **Region:** [[place-byzariargn|Bizaria]] principally, with active members in every League city and known correspondents in Provenzia, Helionis, and Vylaria
 - **Founded:** Informal in origin, perhaps two centuries old; never chartered
 
 ## Overview
@@ -101,7 +101,7 @@ Among working members, the principal informal distinction is between **cartograp
 
 - **Espionage cartography.** Detailed maps of fortifications, garrison positions, supply lines, and naval bases—produced for sale to foreign powers or to interested parties within the League itself.
 - **Smuggling charts.** Hidden coves, unpatrolled routes, secure storage locations, the timing of customs patrols. Standard product for the [[affiliation-crmsyndctsthlrn|crime syndicates]] and for any merchant lord with cargo that prefers not to be inspected.
-- **Forbidden territory.** Maps of regions that legitimate cartographers refuse on grounds of danger, taboo, or political sensitivity. Includes fae-touched lands in Élavendre, undead-incursion zones in eastern Vrystwald, and contested frontier territories where any official mapping would constitute a political claim.
+- **Forbidden territory.** Maps of regions that legitimate cartographers refuse on grounds of danger, taboo, or political sensitivity. Includes fae-touched lands in Élavendre, undead-incursion zones in eastern Vristwald, and contested frontier territories where any official mapping would constitute a political claim.
 - **The Cursed Maps.** A small specialty within the Ledger: maps commissioned by patrons who suspect the territory itself responds to being mapped. Cartographers who accept these commissions report consistent psychological effects—vivid dreams, premonitions, the sense of being watched by the territory itself. Most Ledger members refuse this work. Those who accept charge accordingly.
 - **Counterfeit guild maps.** Maps deliberately produced to be passed off as the work of named guild masters, complete with forged seals. The riskiest of all Ledger work, since it directly attacks the institution most of its members also belong to.
 

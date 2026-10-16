@@ -1,9 +1,9 @@
 ---
 shortcode: domirthahabi
-name: {full: Dómirtha Hàbînês, aliases: [Admiral Dómirtha Hàbînês]}
+name: {full: Dómirtha Habines, aliases: [Admiral Dómirtha Habines]}
 type: being
 subType: npc
-description: The senior naval commander overseeing Habìdon Ghânîdês's current detachment, an officer of long service.
+description: The senior naval commander overseeing Habidon Ghanides's current detachment, an officer of long service.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dómirtha Hàbînês is a 58-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, smooth complexion, black hair, and hazel eyes.
+Dómirtha Habines is a 58-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, smooth complexion, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Dómirtha Hàbînês is the senior naval commander overseeing the current detachment of [[being-habdnghnds|Habìdon Ghânîdês]]. An officer of long service, she recognizes his value and has explicitly protected him from promotion pressure.
+Dómirtha Habines is the senior naval commander overseeing the current detachment of [[being-habdnghnds|Habidon Ghanides]]. An officer of long service, she recognizes his value and has explicitly protected him from promotion pressure.

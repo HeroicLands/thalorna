@@ -3,7 +3,7 @@ shortcode: windstones
 name: {full: The Wind-Stones, aliases: ["Naothuri'sul"]}
 type: place
 subType: structure
-description: "The twelve works of the Ithári along the crest of Kalihara's Ring, on which the storms from the sea break and come down on the Bowl as rain; three have gone white and two work badly."
+description: "The twelve works of the Ithari along the crest of Kalihara's Ring, on which the storms from the sea break and come down on the Bowl as rain; three have gone white and two work badly."
 tags: [ithari-work, mountain, inland]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The wind-stones are twelve works of the [[lore-theithari|Ithári]] along the crest of [[place-klhrring|the Ring]], standing round [[place-klhrbowl|the Bowl]] at intervals: one at the head of each of the three passes, and the rest on the stretches of crest between them. Each is a smooth swelling of [[lore-itharisul|ithári'sul]] out of the rock or the turf, gray and seamless, with no mark on it anywhere. The custodians call them _naothuri'sul_ (green-wind stones).
+The wind-stones are twelve works of the [[lore-theithari|Ithari]] along the crest of [[place-klhrring|the Ring]], standing round [[place-klhrbowl|the Bowl]] at intervals: one at the head of each of the three passes, and the rest on the stretches of crest between them. Each is a smooth swelling of [[lore-itharisul|ithasul]] out of the rock or the turf, gray and seamless, with no mark on it anywhere. The custodians call them _naothuri'sul_ (green-wind stones).
 
 ## What They Do
 
@@ -53,4 +53,4 @@ The three stones at the passes stand on the roads, and the lineage that holds ea
 - [[place-kuomethei|Kuomethei]]—where their custodians winter
 - [[place-klhrcldpss|The Cloud Pass]], [[place-klhrwstsddl|the Western Saddle]] and [[place-klhrsthstr|the Southern Stair]]—the passes with a stone at their heads
 - [[place-klhrestrrc|The Eastern Terraces]]—the land their rain falls on
-- [[lore-itharisul|Ithári'sul]]—the substance of the works, and the states a work passes through
+- [[lore-itharisul|Ithasul]]—the substance of the works, and the states a work passes through

@@ -1,9 +1,9 @@
 ---
 shortcode: tenralsaltha
-name: {full: Ténral Sálthar, aliases: [Captain-Commander Ténral Sálthar]}
+name: {full: Tenral Salthar, aliases: [Captain-Commander Tenral Salthar]}
 type: being
 subType: npc
-description: The supreme naval commander of Élavendre's maritime forces, who employs Tárella Pélthal for predictions.
+description: The supreme naval commander of Élavendre's maritime forces, who employs Tárella Pelthal for predictions.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ténral Sálthar is a 50-year-old man who stands 6'2" tall with a light build. He has tanned skin, smooth complexion, blonde hair, and grey eyes.
+Tenral Salthar is a 50-year-old man who stands 6'2" tall with a light build. He has tanned skin, smooth complexion, blonde hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Ténral Sálthar is the captain-commander and supreme naval commander of Élavendre's maritime forces. He employs [[being-tarelblthl|Tárella Pélthal]] for predictions.
+Tenral Salthar is the captain-commander and supreme naval commander of Élavendre's maritime forces. He employs [[being-tarelblthl|Tárella Pelthal]] for predictions.

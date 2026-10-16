@@ -1,9 +1,9 @@
 ---
 shortcode: sturashtulva
-name: {full: Sturash Tûlvâzát, aliases: [Advocate Sturash Tûlvâzát]}
+name: {full: Sturash Tulvazát, aliases: [Advocate Sturash Tulvazát]}
 type: being
 subType: npc
-description: A younger, more charismatic advocate who is slowly taking Nômasáhr Paraklávos's clients and position.
+description: A younger, more charismatic advocate who is slowly taking Nomasáhr Paraklavos's clients and position.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Sturash Tûlvâzát is a 38-year-old man who stands 5'10" tall with a light build. He has tanned skin, sun-kissed complexion, brown hair, and hazel eyes.
+Sturash Tulvazát is a 38-year-old man who stands 5'10" tall with a light build. He has tanned skin, sun-kissed complexion, brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Sturash Tûlvâzát is a younger, more charismatic advocate who is slowly taking the clients and position of [[being-nmshrprklvs|Nômasáhr Paraklávos]]. He orchestrated the scandal that forced Nômasáhr's reduction.
+Sturash Tulvazát is a younger, more charismatic advocate who is slowly taking the clients and position of [[being-nmshrprklvs|Nomasáhr Paraklavos]]. He orchestrated the scandal that forced Nomasáhr's reduction.

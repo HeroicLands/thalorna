@@ -3,7 +3,7 @@ shortcode: greatburnng
 name: {full: The Great Burning, aliases: [The Six Days, The Burning of the Old Hill]}
 type: lore
 subType: history
-description: "About 403 AF the dole fails in Ôrzâra, the Circles riot, the Watch loses the valley wards and fire runs from the Warrens over Antel for six days; the Old Hill's families move to Selvin and do not go back."
+description: "About 403 AF the dole fails in Orzara, the Circles riot, the Watch loses the valley wards and fire runs from the Warrens over Antel for six days; the Old Hill's families move to Selvin and do not go back."
 tags: [history, vylaria, threeeagles]
 data:
   culture: vylarianclt
@@ -20,7 +20,7 @@ data:
         - place-antel
         - place-selvin
       summary: >-
-        With Hilen's harvest lost to the war, the dole fails in Ôrzâra. The Circles riot, the Watch cannot hold the valley wards, and fire runs from the Warrens over Antel for six days. The families of the Old Hill move to the newer slopes of Selvin and do not go back.
+        With Hilen's harvest lost to the war, the dole fails in Orzara. The Circles riot, the Watch cannot hold the valley wards, and fire runs from the Warrens over Antel for six days. The families of the Old Hill move to the newer slopes of Selvin and do not go back.
       standing: attested
       names:
         - {name: the Great Burning, by: affiliation-vylarinmpr}
@@ -38,7 +38,7 @@ data:
             knowledge: named
           - place: place-orzara
             how: >-
-              the Clearance ringing the city and the district law that banishes forges and the foul trades are the rebuilding's statutes, and every Ôrzâs fears a missed dole
+              the Clearance ringing the city and the district law that banishes forges and the foul trades are the rebuilding's statutes, and every Orzas fears a missed dole
             knowledge: named
       who: [{ref: affiliation-vylrnmltry, role: victim}]
       follows:
@@ -48,9 +48,9 @@ data:
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
-            A fire in the poor wards burned for six days in a lean year, and the Ôrzâs of the day rebuilt what he could.
+            A fire in the poor wards burned for six days in a lean year, and the Orzas of the day rebuilt what he could.
           agrees: partly
-          withholds: that no Ôrzâs of the day held the city, and that the rebuilding was the Senate's and the guild-masters'
+          withholds: that no Orzas of the day held the city, and that the rebuilding was the Senate's and the guild-masters'
       unresolved: [whether the first fire was set]
 ---
 
@@ -58,7 +58,7 @@ A Watch sergeant, showing a new recruit round the lanes of the Old Hill's lower 
 
 ## The Failed Dole
 
-[[place-orzara|Ôrzâra]] is fed from [[place-hylen|Hilen]], and Hilen's harvests were lost to the war ([[lore-olcassabtl|The Battle of Olkassâ]]). About 403 the dole did not come. A citizen's bread is the bargain at the heart of the Empire ([[lore-veteranslaw|The Veterans' Law]]), and the capital's poor had no other.
+[[place-orzara|Orzara]] is fed from [[place-hylen|Hilen]], and Hilen's harvests were lost to the war ([[lore-olcassabtl|The Battle of Olkassa]]). About 403 the dole did not come. A citizen's bread is the bargain at the heart of the Empire ([[lore-veteranslaw|The Veterans' Law]]), and the capital's poor had no other.
 
 ## The Fire
 
@@ -74,7 +74,7 @@ The Senate and the guild-masters rebuilt. They passed the decree of the Clearanc
 
 ## What It Left
 
-- **The fear of a missed dole.** Every Ôrzâs since has paid it before he paid anything else.
+- **The fear of a missed dole.** Every Orzas since has paid it before he paid anything else.
 - **The Old Hill's decay and the Laurel's rise.** The one hill empty and the other full, from the same six days.
 - **The Clearance and the district law.** Statutes that carve the city into wards a fire can gut without leaping.
 - **The cellars.** The foundations and cellars of the burned ward lie under three centuries of cheaper building, part of the Warrens now.
@@ -82,6 +82,6 @@ The Senate and the guild-masters rebuilt. They passed the decree of the Clearanc
 ## See Also
 
 - [[place-antel|Antel]] · [[place-selvin|Selvin]]—the hill that burned and the hill that rose
-- [[lore-olcassabtl|The Battle of Olkassâ]]—the war behind the failed dole
+- [[lore-olcassabtl|The Battle of Olkassa]]—the war behind the failed dole
 - [[lore-restorehouse|The Restoration]]—who took the city afterwards
-- [[place-orzara|Ôrzâra]]
+- [[place-orzara|Orzara]]

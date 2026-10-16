@@ -3,7 +3,7 @@ shortcode: lutithnet
 name: {full: Lut-Ithnet, aliases: [The House of Sealed Mouths, The Western Estate]}
 type: place
 subType: site
-description: "A white funerary estate under the desert cliffs west of the Zumélesh, at the end of a canal that has run dry, where the steward of a dwindled house keeps its dead and its servants with their mouths sewn shut."
+description: "A white funerary estate under the desert cliffs west of the Zumelesh, at the end of a canal that has run dry, where the steward of a dwindled house keeps its dead and its servants with their mouths sewn shut."
 tags: [draft, estate, tomb, undead]
 data:
   demonym: null
@@ -14,13 +14,13 @@ data:
   banner: khelathubnr
 ---
 
-West of the [[place-zumeleshrvr|Zumélesh]], where the black land stops and the cliffs of the high desert stand up out of the sand, a canal runs straight across the margin into a bay of the rock. At its end stands **Lut-Ithnet**, the western estate of the house of **Zu'Lemetu**: a walled house of whitewashed brick, a bronze water-gate on a stone basin, and behind it a row of tomb doors cut into the cliff face. Boatmen on the river call it the **House of Sealed Mouths**, and they say it under their breath.
+West of the [[place-zumeleshrvr|Zumelesh]], where the black land stops and the cliffs of the high desert stand up out of the sand, a canal runs straight across the margin into a bay of the rock. At its end stands **Lut-Ithnet**, the western estate of the house of **Zu'Lemetu**: a walled house of whitewashed brick, a bronze water-gate on a stone basin, and behind it a row of tomb doors cut into the cliff face. Boatmen on the river call it the **House of Sealed Mouths**, and they say it under their breath.
 
 ## What It Is
 
 Lut-Ithnet is a funerary estate, the kind of house a great family endows so that its dead are prepared, laid in their own ground and fed for as long as the endowment lasts. Zu'Lemetu built it when the house was rich. The dead came upriver by boat to the basin, were carried through the water-gate into the preparation hall and spent their seventy days there in washing-salt and linen, and were walled into the cliff galleries with their tablets beside them. A household of embalmers, bondsmen and offering-priests lived in the house to do the work, and the estate's fields at the canal's edge fed them and the offering tables both.
 
-The house dwindled, as houses do. The last _Zabet'lutu_ of the line, **Zabegulu**, died at the estate, and her heirs live downriver and have never seen it. Since then the estate has answered to its steward, the _lemzabu_ **Gezuhatî**, who has served it since before the old mistress was born and keeps its accounts in a careful hand.
+The house dwindled, as houses do. The last _Zabet'lutu_ of the line, **Zabegulu**, died at the estate, and her heirs live downriver and have never seen it. Since then the estate has answered to its steward, the _lemzabu_ **Gezuhati**, who has served it since before the old mistress was born and keeps its accounts in a careful hand.
 
 ## What Lies There
 
@@ -59,7 +59,7 @@ The steward sent a man downriver for a relief boat when the water dropped, by hi
 ## Who Knows of It, and What They Say
 
 - **River boatmen** know the canal and know the estate is a bad place to put in. The canal has failed this season, and they are not sorry.
-- **The temple scribes of [[lore-wethurdty|Weth'ûr]]** hold copies of the house's older burial records and have had no new tablets from the estate in years. They want the originals before the heirs go to law.
+- **The temple scribes of [[lore-wethurdty|Weth'ur]]** hold copies of the house's older burial records and have had no new tablets from the estate in years. They want the originals before the heirs go to law.
 - **The heirs of Zu'Lemetu**, a cousin line in a river town, have never visited. They have a claim on the estate and no proof of it, because the proof is in the record room.
 - **The herders of the western margin** graze nowhere near the cliff bay. They say the estate's lamps burn all night, every night.
 
@@ -73,8 +73,8 @@ The steward had the head-gate closed and sealed. The canal failed because he wan
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the valley and its desert margins
-- [[lore-khelathiclt|Khelâthi]]—the Weighing, the Reading, and why an open entry is feared
+- [[place-aukhelathrgq|Au'Khelathu Region]]—the valley and its desert margins
+- [[lore-khelathiclt|Khelathi]]—the Weighing, the Reading, and why an open entry is feared
 - [[lore-readingweigh|The Reading at the Weighing]]—the litany that asks the creditors
 - [[being-tereb|Tereb]]—the cloaked dead
 - [[being-damut|Damut]]—the driven dead
@@ -82,13 +82,13 @@ The steward had the head-gate closed and sealed. The canal failed because he wan
 
 # What Is Really There {#truth .secret}
 
-**The steward.** Gezuhatî kept the endowment for forty years and spent it, and let the offerings to the house's dead lapse one by one, which in the valley is a default against creditors who cannot chase it. Every dead member of Zu'Lemetu is his creditor. When a physician told him he was dying, the old mistress entered the finding in her own hand, and he saw what his Reading would hear: any one of the dead, or any servant who had seen the books, could stand and say no. He did not die. The estate's embalmer, **Lizulu**, a Lekhau of [[affiliation-garithnetau|Gar-Ithnetáu]], prepared him through the rite that makes a [[being-tereb|tereb]], and he went into it willing. He keeps to shade, does not eat, and feeds by drawing out the life of the living.
+**The steward.** Gezuhati kept the endowment for forty years and spent it, and let the offerings to the house's dead lapse one by one, which in the valley is a default against creditors who cannot chase it. Every dead member of Zu'Lemetu is his creditor. When a physician told him he was dying, the old mistress entered the finding in her own hand, and he saw what his Reading would hear: any one of the dead, or any servant who had seen the books, could stand and say no. He did not die. The estate's embalmer, **Lizulu**, a Lekhau of [[affiliation-garithnetau|Gar-Ithnetáu]], prepared him through the rite that makes a [[being-tereb|tereb]], and he went into it willing. He keeps to shade, does not eat, and feeds by drawing out the life of the living.
 
 **The household.** Then he silenced the creditors. Zabegulu was the first. Lizulu was the last who could have spoken for the house. One by one the household died in the preparation hall and rose again as [[being-damut|damutu]], and each had its lips sewn shut with resin-soaked cord before it rose. The stitches are the working: Lizulu bound the dead to answer their master _while the mouth is closed_, and the words are cut into the edge of the main table in the sacred hand. Cut a dead mouth open and the binding fails. The dead one screams with no breath behind it, says the refusal from the litany of the Reading, _no_, and falls. Seven of the dead attend the steward in the upper house, clean and dressed, with linen wrapping under their tunics. The rest lie bound on the shelves and beds of the hall, every mouth sewn, Zabegulu on the main table with her eyes open, and Lizulu on a shelf near the light-shaft, never woken.
 
-**The records.** In the record room Gezuhatî enters each death in the sacred hand and, beside it, a release in the people's hand: _I require no more of the steward._ A release closes an entry only when it is declared before witnesses, and every witness line beneath the household's releases stands empty, because a witness must be a living person and the steward has killed everyone with a tie to the house. The last release in the newest jar is for the man he says he sent downriver, and that man's death is entered a month before the day the steward names for his setting out. An earlier tablet in the old mistress's hand records the physician's finding that the steward was dying, and no death follows it.
+**The records.** In the record room Gezuhati enters each death in the sacred hand and, beside it, a release in the people's hand: _I require no more of the steward._ A release closes an entry only when it is declared before witnesses, and every witness line beneath the household's releases stands empty, because a witness must be a living person and the steward has killed everyone with a tie to the house. The last release in the newest jar is for the man he says he sent downriver, and that man's death is entered a month before the day the steward names for his setting out. An earlier tablet in the old mistress's hand records the physician's finding that the steward was dying, and no death follows it.
 
-**Who the visitors are for.** Strangers with no tie to the house are the proper witnesses to a release. Gezuhatî needs living names on the witness lines, and once he has them every account the household holds against him closes. He takes names wherever he can get them: from the receipt at the gate, from a request to witness set out with a reed pen, and from any letter a visitor carries that names its bearers. A temple letter serves best, because a temple's agents witness as the temple. A name copied from a letter onto a witness line is a false entry, and in the valley a false entry damns its witness along with its maker. A witness who signed and a witness whose name was copied stand alike: each is on the releases, and each needs to disown the witnessing to be clear of it.
+**Who the visitors are for.** Strangers with no tie to the house are the proper witnesses to a release. Gezuhati needs living names on the witness lines, and once he has them every account the household holds against him closes. He takes names wherever he can get them: from the receipt at the gate, from a request to witness set out with a reed pen, and from any letter a visitor carries that names its bearers. A temple letter serves best, because a temple's agents witness as the temple. A name copied from a letter onto a witness line is a false entry, and in the valley a false entry damns its witness along with its maker. A witness who signed and a witness whose name was copied stand alike: each is on the releases, and each needs to disown the witnessing to be clear of it.
 
 **Why the mouths come last.** A witness who can still speak can unsay. A release whose witness declares it false is no release, and the declaration counts where the parties to the entry can hear it, which means aloud in the preparation hall, before the dead of the house. So the steward keeps his witnesses alive and comfortable for as long as he can feed on them, and closes their mouths only at the end, with the same cord and needle as the household's, so that what rises can never disown anything. A witness who walks away instead leaves the releases standing: every entry against the steward closed, and a false entry in the witness's own account at the Weighing.
 

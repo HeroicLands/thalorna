@@ -1,6 +1,6 @@
 ---
 shortcode: fethardhrl
-name: {full: Fethàr Dhárel, given: Fethàr, clan: Dhárel, aliases: [Fèth]}
+name: {full: Fetar Darel, given: Fetar, clan: Darel, aliases: [Fet]}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]
@@ -401,9 +401,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fethardhrl|Fethàr Dhárel]]{float=top-left}
+![[fethardhrl|Fetar Darel]]{float=top-left}
 
-Fethàr Dhárel is a man who looks like he wandered off a Provenzian promenade and somehow ended up at the helm of a disreputable trading vessel. He is six feet tall with a mop of unruly red hair, a constellation of freckles, and blue eyes that perpetually carry the gleam of a man enjoying a private joke, and an infectious grin. His most notable feature is his wardrobe—he favors elaborately patterned tunics and embroidered tabards that clash spectacularly with the grimy reality of shipboard life. He is gangly and loose-limbed, without the hardened look of a fighter, but his hands on the helm are sure and steady as stone.
+Fetar Darel is a man who looks like he wandered off a Provenzian promenade and somehow ended up at the helm of a disreputable trading vessel. He is six feet tall with a mop of unruly red hair, a constellation of freckles, and blue eyes that perpetually carry the gleam of a man enjoying a private joke, and an infectious grin. His most notable feature is his wardrobe—he favors elaborately patterned tunics and embroidered tabards that clash spectacularly with the grimy reality of shipboard life. He is gangly and loose-limbed, without the hardened look of a fighter, but his hands on the helm are sure and steady as stone.
 
 # Dossier {#dossier}
 
@@ -411,29 +411,29 @@ Fethàr Dhárel is a man who looks like he wandered off a Provenzian promenade a
 
 ### Origin
 
-Fethàr grew up in a landlocked river town in northern [[place-provenzrgn|Provènzia]], the son of a dyer. From childhood he had an inexplicable fascination with water and boats, spending every spare hour messing about on the river in whatever craft he could borrow or build. He was an excellent fisherman, supplementing his family's income, but there was always something restless in him—a pull toward horizons he could not see from the riverbank.
+Fetar grew up in a landlocked river town in northern [[place-provenzrgn|Provenzia]], the son of a dyer. From childhood he had an inexplicable fascination with water and boats, spending every spare hour messing about on the river in whatever craft he could borrow or build. He was an excellent fisherman, supplementing his family's income, but there was always something restless in him—a pull toward horizons he could not see from the riverbank.
 
 ### Finding the Sea
 
-At seventeen, Fethàr left home with his family's reluctant blessing, traveling south to the Provenzian coast where he apprenticed himself to a pilot. He discovered that his river-born instincts translated magnificently to open water. He had an uncanny feel for wind, current, and tide—an intuitive understanding of how a vessel moved through water that his mentors found notable. Within five years he had earned a reputation as one of the finest pilots on the southern coast.
+At seventeen, Fetar left home with his family's reluctant blessing, traveling south to the Provenzian coast where he apprenticed himself to a pilot. He discovered that his river-born instincts translated magnificently to open water. He had an uncanny feel for wind, current, and tide—an intuitive understanding of how a vessel moved through water that his mentors found notable. Within five years he had earned a reputation as one of the finest pilots on the southern coast.
 
-### Aboard the Tamzîr
+### Aboard the Tamzir
 
-Fethàr joined the Tamzîr seven years ago, hired as a replacement pilot after the previous one was arrested for smuggling (independently of the Tamzîr's own smuggling). Bû was skeptical of the cheerful Provenzian with the ridiculous clothing, but Fethàr's first demonstration of his skills—threading the Tamzîr through a reef passage at night during a storm to escape an imperial patrol—ended all debate. He is, by any measure, a crackerjack pilot. If anyone can navigate the Tamzîr through impossible waters, it is Fethàr.
+Fetar joined the Tamzir seven years ago, hired as a replacement pilot after the previous one was arrested for smuggling (independently of the Tamzir's own smuggling). Bu was skeptical of the cheerful Provenzian with the ridiculous clothing, but Fetar's first demonstration of his skills—threading the Tamzir through a reef passage at night during a storm to escape an imperial patrol—ended all debate. He is, by any measure, a crackerjack pilot. If anyone can navigate the Tamzir through impossible waters, it is Fetar.
 
 ### Marriage
 
-Fethàr married [[being-slvrvlskyr|Sélvara Válskir]] three years ago, and their relationship is the ship's worst-kept secret turned open joy. He is besotted with his wife in a way that is both real and slightly comedic, and he is amusingly insecure about measuring up to the warrior woman he somehow convinced to marry him. The crew alternately finds this endearing and insufferable.
+Fetar married [[being-slvrvlskyr|Sélvara Valskir]] three years ago, and their relationship is the ship's worst-kept secret turned open joy. He is besotted with his wife in a way that is both real and slightly comedic, and he is amusingly insecure about measuring up to the warrior woman he somehow convinced to marry him. The crew alternately finds this endearing and insufferable.
 
 ## Psyche
 
 ### Personality
 
-Fethàr is the Tamzîr's emotional counterweight—warm, funny, and relentlessly optimistic in a crew that trends toward cynicism and brooding. He uses humor to defuse tension and deflects his own anxieties with jokes. He is kind, with an easy way about him that puts strangers at ease. But beneath the clowning is a sharp mind and a steel nerve—in a crisis at the helm, Fethàr becomes focused, making split-second decisions with a calm that surprises those who know only his lighter side.
+Fetar is the Tamzir's emotional counterweight—warm, funny, and relentlessly optimistic in a crew that trends toward cynicism and brooding. He uses humor to defuse tension and deflects his own anxieties with jokes. He is kind, with an easy way about him that puts strangers at ease. But beneath the clowning is a sharp mind and a steel nerve—in a crisis at the helm, Fetar becomes focused, making split-second decisions with a calm that surprises those who know only his lighter side.
 
 ### Motivation
 
-Fethàr is motivated by love—for his wife, for the sea, for the strange family he has found aboard the Tamzîr. He does not have grand ambitions or political grievances. He wants to sail, to be with the people he cares about, and to see what lies beyond the next horizon.
+Fetar is motivated by love—for his wife, for the sea, for the strange family he has found aboard the Tamzir. He does not have grand ambitions or political grievances. He wants to sail, to be with the people he cares about, and to see what lies beyond the next horizon.
 
 ### Strengths
 
@@ -441,26 +441,26 @@ He is arguably the finest pilot on the [[place-vylarianse|Vylarian Sea]], with a
 
 ### Weaknesses
 
-Fethàr is not a fighter. He can handle a dagger in self-defense, but he is outmatched by any trained combatant. His insecurity about his value to the crew beyond piloting sometimes leads him to take unnecessary risks to prove himself. He can be naïve about people's darker motivations, and his optimism occasionally prevents him from seeing danger until it is too late.
+Fetar is not a fighter. He can handle a dagger in self-defense, but he is outmatched by any trained combatant. His insecurity about his value to the crew beyond piloting sometimes leads him to take unnecessary risks to prove himself. He can be naïve about people's darker motivations, and his optimism occasionally prevents him from seeing danger until it is too late.
 
 ## Social
 
 ### Patrons
 
-None formally. Fethàr's family in Provènzia are respectable tradespeople who worry about him constantly.
+None formally. Fetar's family in Provenzia are respectable tradespeople who worry about him constantly.
 
 ### Enemies
 
-Fethàr has no personal enemies, but the Tamzîr's enemies are his enemies by association.
+Fetar has no personal enemies, but the Tamzir's enemies are his enemies by association.
 
 ### Affiliations
 
-Pilot of the **Tamzîr**. Husband of **Sélvara Válskir**. He maintains occasional correspondence with his family in Provènzia.
+Pilot of the **Tamzir**. Husband of **Sélvara Valskir**. He maintains occasional correspondence with his family in Provenzia.
 
 ## Plot Hooks
 
-1. **The Pilot's Price**: A wealthy Provenzian shipping magnate offers Fethàr a legitimate position as lead pilot for his fleet—good pay, respectability, and safety. Fethàr is torn between the security this would offer Sélvara and the life he has built aboard the Tamzîr. The offer may also not be as innocent as it appears.
+1. **The Pilot's Price**: A wealthy Provenzian shipping magnate offers Fetar a legitimate position as lead pilot for his fleet—good pay, respectability, and safety. Fetar is torn between the security this would offer Sélvara and the life he has built aboard the Tamzir. The offer may also not be as innocent as it appears.
 
-2. **River and Sea**: Fethàr receives word that his hometown is threatened by flooding after a dam collapse upriver. His family needs help, and his intimate knowledge of the river system could save lives—but reaching them means leaving the Tamzîr at a critical moment.
+2. **River and Sea**: Fetar receives word that his hometown is threatened by flooding after a dam collapse upriver. His family needs help, and his intimate knowledge of the river system could save lives—but reaching them means leaving the Tamzir at a critical moment.
 
-3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between Tarûzel and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.
+3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between Taruzel and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.

@@ -1,6 +1,6 @@
 ---
 shortcode: pyrethos
-name: {full: Incantation Pyréthos, aliases: []}
+name: {full: Incantation Pirethos, aliases: []}
 type: skill
 subType: mystical
 tags: [hex-hodai, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-pyrethos|Rhéshin Pyréthos]]
+See [[affiliation-pyrethos|Rhezin Pirethos]]

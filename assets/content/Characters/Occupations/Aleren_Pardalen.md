@@ -429,7 +429,7 @@ Traditionalist shamen of the interior who hold that his plainness is a want of r
 
 ## Plot Hooks
 
-1. **The Observance**—This year's observance at the Ûron Tékhi went wrong in a way Áleren cannot explain and will not dress up. The village wants to be told it was nothing.
+1. **The Observance**—This year's observance at the Uron Tekhi went wrong in a way Áleren cannot explain and will not dress up. The village wants to be told it was nothing.
 
 2. **The Birch**—A villager has felled a silver birch, which nobody in Sóurimel does, for any reason. The Moot wants a ritual answer and the Áelendan may want a different one.
 

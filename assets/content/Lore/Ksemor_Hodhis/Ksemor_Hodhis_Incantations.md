@@ -1,13 +1,13 @@
 ---
 shortcode: hxhdncnttns
-name: {full: Ksêmor Hodhîs Incantations, aliases: []}
+name: {full: Zemor Hodhis Incantations, aliases: []}
 type: lore
 subType: arcana
 tags: [lore, arcane, hex-hodai, draft]
 data: {packFolder: affiliationshexhodai, culture: vylarianclt}
 ---
 
-## Pyréthos (Fire)
+## Pirethos (Fire)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -21,7 +21,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-## Zepharis (Air)
+## Zefaris (Air)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -35,7 +35,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-## Physéra (Earth/Life)
+## Fisera (Earth/Life)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -49,7 +49,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-## Hydalis (Water)
+## Hidalis (Water)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -63,7 +63,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-## Sidéros (Metal)
+## Sideris (Metal)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -77,7 +77,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-## Neuménos (Spirit)
+## Neumenos (Spirit)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -107,4 +107,4 @@ ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 
 ## See Also
 
-- [[affiliation-hexhodai|Ksêmor Hodhîs]]
+- [[affiliation-hexhodai|Zemor Hodhis]]

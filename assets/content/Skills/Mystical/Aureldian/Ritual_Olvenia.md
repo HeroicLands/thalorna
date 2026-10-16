@@ -1,6 +1,6 @@
 ---
 shortcode: olvenia
-name: {full: "Ritual: Ólvenía", aliases: [Ólvenía, The Bountiful One]}
+name: {full: "Ritual: Ólvenia", aliases: [Ólvenia, The Bountiful One]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-olvenia|Faith of Ólvenía]]
+See [[affiliation-olvenia|Faith of Ólvenia]]

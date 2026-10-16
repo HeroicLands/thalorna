@@ -63,4 +63,4 @@ What draws the occasional expedition south is not trade but the ruins—and the 
 - [[place-worldthlrn|The World of Thalorna]]—World overview
 - [[place-arnscntnnt|Aurionis Continent]]—Northern neighbor across the southern ocean
 - [[affiliation-kalihara|Kalihara]]—Source of the only commentary anywhere that speculates about the ruins
-- [[lore-flksinale|Sinalë]], [[lore-flkkhazar|Khazári]]—Elder Races, whose relationship (if any) to the Iseronian ruins is unknown
+- [[lore-flksinale|Sinale]], [[lore-flkkhazar|Khazari]]—Elder Races, whose relationship (if any) to the Iseronian ruins is unknown

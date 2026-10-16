@@ -1,9 +1,9 @@
 ---
 shortcode: mahnrythlament
-name: {full: The Mahnrýth Lament, aliases: [Mahnrýth meldra]}
+name: {full: The Mahnreth Lament, aliases: [Mahnreth meldra]}
 type: lore
 subType: literature
-description: "The lament the women of Mahnrýth raise at the turning into deep winter over Mahnhróm, the mound that holds nobody: the taken of the Waking addressed one by one with the goods carried west for them, a question to the rabbit wesk stopped before it ends, and a child taken before her naming kept by the length of a name."
+description: "The lament the women of Mahnreth raise at the turning into deep winter over Mahnhrum, the mound that holds nobody: the taken of the Waking addressed one by one with the goods carried west for them, a question to the rabbit wesk stopped before it ends, and a child taken before her naming kept by the length of a name."
 tags: [draft, vrystwald]
 data:
   culture: varokhiclt
@@ -23,11 +23,11 @@ data:
 # terran_analog: "Karelian and Baltic lament-singing, with its address to the dead by name, its call and response, and its instructions for the road; the dirge Jordanes reports sung over a Gothic king; the cenotaph, a grave raised for a body that never came home. Departs: the lament is held word for word because its dead do not change, and it gives the dead no road."
 ---
 
-[[place-mahnryth|Mahnrýth]], a village of [[place-skathwald|Skathwald]] under the [[lore-rabbitttm|rabbit]] wesk, is a clearing cut by the survivors of three villages a [[lore-grukarfolk|Grukar]] tribe took in one winter of the Waking, and kept as a village because they stayed ([[lore-grimakburning|The Burning at Grimak]]). **The Mahnrýth Lament**, _Mahnrýth meldra_, is the _meldra_ its women raise over [[place-mahnhrom|Mahnhróm]], the kinsmen's mound at the edge of the grove that holds grave goods and nobody. A _meldra_ is raised once, over a body, before the burial or the pyre, and is made fresh for each of the dead. This one is raised every year at the turning into _grema_, in the first dry snow, because that is when the taking began, and it is the only lament in [[place-vrystwald|Vrystwald]] held word for word: the dead it is raised over are the same every year. It is held as it was first raised, so the snow-shoes are strung "last night" and the sister stands there with the comb in her hair in every year's singing.
+[[place-mahnryth|Mahnreth]], a village of [[place-skathwald|Skathwald]] under the [[lore-rabbitttm|rabbit]] wesk, is a clearing cut by the survivors of three villages a [[lore-grukarfolk|Grukar]] tribe took in one winter of the Waking, and kept as a village because they stayed ([[lore-grimakburning|The Burning at Grimak]]). **The Mahnreth Lament**, _Mahnreth meldra_, is the _meldra_ its women raise over [[place-mahnhrom|Mahnhrum]], the kinsmen's mound at the edge of the grove that holds grave goods and nobody. A _meldra_ is raised once, over a body, before the burial or the pyre, and is made fresh for each of the dead. This one is raised every year at the turning into _grema_, in the first dry snow, because that is when the taking began, and it is the only lament in [[place-vrystwald|Vristwald]] held word for word: the dead it is raised over are the same every year. It is held as it was first raised, so the snow-shoes are strung "last night" and the sister stands there with the comb in her hair in every year's singing.
 
 The women stand on the mound and keep the time with the heel on the frozen ground. The one who leads is the mistress of the household that carried the most goods west, and the seat passes with the house; the eldest woman present sings the two corrections in the words of the woman who first made them. The lament names five of the taken and a child who had no name. The rest of them went with the three villages, and nobody who walked west had their names. Which of the three villages fell first the lament does not say, since the reciters still argue it. The Weskár consented to the mound, closed it and stood at the rite as at any funeral, and will not go out to the wesk to ask where the taken went; the lament says so, and the one question it begins is stopped before it ends. The Grukar are named once in it and never again, and the thicket at [[place-grimak|Grimak]] a day's walk east, where the taken died, is named only to say why the women do not sing there.
 
-: Mahnrýth meldra {#mahnryth-meldra}
+: Mahnreth meldra {#mahnryth-meldra}
 
 ```poetry {form=meldra lang=en}
 _The one who leads:_
@@ -87,7 +87,7 @@ Where will you go, with no ground on you?
 
 _The one who leads:_
 
-The Theódár counted at the gate at first light,
+The Theodár counted at the gate at first light,
 every head, the way it is counted at a turning.
 Four lay at the gate and were counted where they lay.
 Five did not answer when their names were called,
@@ -173,14 +173,14 @@ Where will you go, with no ground on you?
 
 _The one who leads:_
 
-**Rádwin**.
+**Radwin**.
 There was a stag of yours over half the doors we left.
 Yours was over your own, and the knife marks were still white on it.
 This one you kept back. It was not finished.
 The near antler is done and the far one is a knob.
 We are not finishing it. Nobody here has the hand.
 Here it is as you left it, with the shavings in the bag.
-Rádwin, where will you go?
+Radwin, where will you go?
 
 _The women:_
 
@@ -188,15 +188,15 @@ Where will you go, with no ground on you?
 
 _The one who leads:_
 
-**Óthgar**.
+**Othgar**.
 Your name was a summer old.
 You took it at the spring hunt, and the band said it back to you.
-The Theódár called it at the gate, and no one answered to it.
+The Theodár called it at the gate, and no one answered to it.
 Now we say it.
 Your snow-shoes. You cut the frames and had not strung them.
 Your mother strung them last night by the banked fire, so you would have them.
 They are strung tight. She is here. She will not sing this part.
-Óthgar, where will you go?
+Othgar, where will you go?
 
 _The women:_
 
@@ -266,14 +266,14 @@ and asks to be helped, and the dead do not ask.
 We sing here, where nothing answers.
 The Weskár cut the turf and we carried it.
 We dug the chamber the length of a man and wide enough for six.
-Before witnesses the Theódár heard it:
+Before witnesses the Theodár heard it:
 the axe is Thornulf's, and nobody inherits it;
 the ash-wood comb is Sundilda's, and nobody inherits it;
-the stag is Rádwin's, and the shoes are Óthgar's,
+the stag is Radwin's, and the shoes are Othgar's,
 and the needle-case is Fródhilda's, and the four needles in it.
 They are not dug for. They are not inherited. They are given.
 We laid them in. The Weskár closed it.
-We called it Mahnhróm, the kinsmen's mound, and it holds nobody.
+We called it Mahnhrum, the kinsmen's mound, and it holds nobody.
 We have made you a door.
 A rabbit's house has many doors, and all of them go down into one ground.
 This is one more. Go in by it if you can.
@@ -320,7 +320,7 @@ We will say you, with no ground on you.
 
 _The one who leads:_
 
-Rádwin.
+Radwin.
 
 _The women:_
 
@@ -328,7 +328,7 @@ We will say you, with no ground on you.
 
 _The one who leads:_
 
-Óthgar.
+Othgar.
 
 _The women:_
 
@@ -362,10 +362,10 @@ _The heels go on for the length of a name. No one sings._
 
 ## See Also
 
-- [[place-mahnhrom|Mahnhróm]]—the empty mound the lament is raised over
+- [[place-mahnhrom|Mahnhrum]]—the empty mound the lament is raised over
 - [[lore-grimakburning|The Burning at Grimak]]—the Waking, the three villages taken and the walk west
 - [[place-grimak|Grimak]]—the thicket where the taken died, and the voice in it
 - [[lore-varokhiclt|Varokhi]]—the _meldra_, the mound, the naming at three months and the dead with the wesk
 - [[place-skathwald|Skathwald]]—the reach where Grukar nests thicken and a village watches its paths
 - [[lore-grukarfolk|Grukar Folk]]—why a person they take is not ransomed, bought back or kept
-- [[lore-rabbitttm|Rabbit]]—the wesk of Mahnrýth, and the ground the dead run in
+- [[lore-rabbitttm|Rabbit]]—the wesk of Mahnreth, and the ground the dead run in

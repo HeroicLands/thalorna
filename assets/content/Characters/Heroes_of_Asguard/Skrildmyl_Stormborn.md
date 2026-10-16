@@ -1,6 +1,6 @@
 ---
 shortcode: skrldmylstrmbrn
-name: {full: Skrildmýl Stormborn, given: Skrildmýl, aliases: [Stormborn]}
+name: {full: Skrilmil Stormborn, given: Skrilmil, aliases: [Stormborn]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, administration]
@@ -361,27 +361,27 @@ sohl:
 
 # Appearance {#appearance}
 
-Skrildmýl stands 6'1" with a heavy, solid frame, weighing around 220 pounds. His fair skin is weathered from decades of northern campaigning, and his dark blonde hair is worn long and braided in the fashion of a northern chieftain. His blue eyes carry quiet authority, and a faint haze of static seems to cling to him, causing his hair to rise slightly in dry weather. His features are strong and commanding, with a broad forehead, a straight nose, a heavy jaw shadowed with stubble, and deep-set eyes framed by crow's feet. His bearing is that of a man accustomed to being obeyed—not through bluster, but through the steady confidence of proven leadership. He wears a fine mail hauberk beneath a heavy fur cloak pinned with a silver thunderbolt brooch, and carries a warhammer and a round shield bearing his clan's emblem.
+Skrilmil stands 6'1" with a heavy, solid frame, weighing around 220 pounds. His fair skin is weathered from decades of northern campaigning, and his dark blonde hair is worn long and braided in the fashion of a northern chieftain. His blue eyes carry quiet authority, and a faint haze of static seems to cling to him, causing his hair to rise slightly in dry weather. His features are strong and commanding, with a broad forehead, a straight nose, a heavy jaw shadowed with stubble, and deep-set eyes framed by crow's feet. His bearing is that of a man accustomed to being obeyed—not through bluster, but through the steady confidence of proven leadership. He wears a fine mail hauberk beneath a heavy fur cloak pinned with a silver thunderbolt brooch, and carries a warhammer and a round shield bearing his clan's emblem.
 
 # Dossier {#dossier}
 
-Skrildmýl was born to a warrior clan that had long worshiped [[lore-thrunvalddty|Thrúnvald]] as their protector. From a young age, he was taught the ways of battle, learning to wield a hammer and shield in honor of the thunder god. Skrildmýl was known for his indomitable spirit and his ability to rally his fellow warriors even in the face of overwhelming odds. His connection to Thrúnvald was evident to all who knew him; lightning seemed to follow him wherever he went, and his war cry was said to echo like thunder across the battlefield.
+Skrilmil was born to a warrior clan that had long worshiped [[lore-thrunvalddty|Thrunvald]] as their protector. From a young age, he was taught the ways of battle, learning to wield a hammer and shield in honor of the thunder god. Skrilmil was known for his indomitable spirit and his ability to rally his fellow warriors even in the face of overwhelming odds. His connection to Thrunvald was evident to all who knew him; lightning seemed to follow him wherever he went, and his war cry was said to echo like thunder across the battlefield.
 
-The saga of Skrildmýl Stormborn is one of endurance and unwavering faith. During a brutal winter, Skrildmýl's village was beset by devastating storms that threatened to destroy everything they held dear. The people, fearing that Thrúnvald had forsaken them, turned to Skrildmýl for guidance. Skrildmýl, believing that Thrúnvald was testing their faith, led his people in a desperate journey to the sacred mountain of [[place-thrumufjall|Thrumufjall]], where it was said Thrúnvald had struck the earth with [[lore-thrunhamarr|Thrúnhamarr]]. Through blizzards and freezing winds, Skrildmýl led his people, never faltering in his belief that Thrúnvald would protect them. At the peak of the mountain, Skrildmýl called out to Thrúnvald, and in response, the storms ceased, and the skies cleared.
+The saga of Skrilmil Stormborn is one of endurance and unwavering faith. During a brutal winter, Skrilmil's village was beset by devastating storms that threatened to destroy everything they held dear. The people, fearing that Thrunvald had forsaken them, turned to Skrilmil for guidance. Skrilmil, believing that Thrunvald was testing their faith, led his people in a desperate journey to the sacred mountain of [[place-thrumufjall|Thrumufjall]], where it was said Thrunvald had struck the earth with [[lore-thrunhamarr|Thrúnhamarr]]. Through blizzards and freezing winds, Skrilmil led his people, never faltering in his belief that Thrunvald would protect them. At the peak of the mountain, Skrilmil called out to Thrunvald, and in response, the storms ceased, and the skies cleared.
 
 ## Psyche
 
 ### Personality
 
-Skrildmýl is the epitome of a northern leader—charismatic, decisive, and unyielding in adversity. He leads by example, always the first into danger and the last to retreat. He carries himself with a quiet confidence that inspires trust, though he can be stubborn to the point of recklessness when he believes he is right. He is deeply devoted to his clan and considers their welfare his sacred responsibility. In private moments, he worries constantly about living up to the expectations placed upon him.
+Skrilmil is the epitome of a northern leader—charismatic, decisive, and unyielding in adversity. He leads by example, always the first into danger and the last to retreat. He carries himself with a quiet confidence that inspires trust, though he can be stubborn to the point of recklessness when he believes he is right. He is deeply devoted to his clan and considers their welfare his sacred responsibility. In private moments, he worries constantly about living up to the expectations placed upon him.
 
 ### Motivation
 
-Skrildmýl seeks to unite the fractious northern clans under a common purpose, believing that their constant feuding weakens them all. He draws inspiration from the ancient alliance that Hnirvmýl's wisdom once forged and dreams of creating something lasting. He also struggles with the burden of leadership—every decision he makes affects his people's lives, and the weight of that responsibility grows heavier with each passing year.
+Skrilmil seeks to unite the fractious northern clans under a common purpose, believing that their constant feuding weakens them all. He draws inspiration from the ancient alliance that Hnirmil's wisdom once forged and dreams of creating something lasting. He also struggles with the burden of leadership—every decision he makes affects his people's lives, and the weight of that responsibility grows heavier with each passing year.
 
 ### Strengths
 
-Skrildmýl is a natural leader whose presence on the battlefield can turn the tide of a fight. His tactical skill in both open field and defensive warfare is widely respected. The lightning that accompanies him in battle is more than superstition—his strikes carry an electrical force that can stun and disorient opponents. His reputation as the man who walked to [[place-thrumufjall|Thrumufjall]] and brought back the sun makes him a legend among the common folk.
+Skrilmil is a natural leader whose presence on the battlefield can turn the tide of a fight. His tactical skill in both open field and defensive warfare is widely respected. The lightning that accompanies him in battle is more than superstition—his strikes carry an electrical force that can stun and disorient opponents. His reputation as the man who walked to [[place-thrumufjall|Thrumufjall]] and brought back the sun makes him a legend among the common folk.
 
 ## Social
 
@@ -389,24 +389,24 @@ Skrildmýl is a natural leader whose presence on the battlefield can turn the ti
 
 ### Patrons
 
-**The Council of Elders**—The governing body of his clan, who support Skrildmýl's leadership and provide him with warriors, resources, and political backing.
+**The Council of Elders**—The governing body of his clan, who support Skrilmil's leadership and provide him with warriors, resources, and political backing.
 
-[[being-hnirvmylwise|Hnirvmýl the Wise]]—The renowned seer is Skrildmýl's advisor, providing prophetic guidance and diplomatic counsel that complements Skrildmýl's martial approach.
+[[being-hnirvmylwise|Hnirmil the Wise]]—The renowned seer is Skrilmil's advisor, providing prophetic guidance and diplomatic counsel that complements Skrilmil's martial approach.
 
 ### Enemies
 
-**Jarl Vrathann Skalfidrokh**—A rival clan leader who views Skrildmýl's unification efforts as a threat to his own power. Vrathann has been building alliances with other jarls to oppose Skrildmýl.
+**Jarl Vrathann Skalfidrok**—A rival clan leader who views Skrilmil's unification efforts as a threat to his own power. Vrathann has been building alliances with other jarls to oppose Skrilmil.
 
-The Winter Witch—A mysterious sorceress who claims the storms that beset Skrildmýl's village were her doing, not Thrúnvald's test. She hints at darker plans for the northern lands.
+The Winter Witch—A mysterious sorceress who claims the storms that beset Skrilmil's village were her doing, not Thrunvald's test. She hints at darker plans for the northern lands.
 
 ## Plot Hooks
 
-1. **The Great Moot**—Skrildmýl has called a gathering of all the northern jarls to discuss unification. Political intrigue, assassination attempts, and old grudges threaten to derail the proceedings. The party must help navigate the dangerous politics and keep Skrildmýl alive.
+1. **The Great Moot**—Skrilmil has called a gathering of all the northern jarls to discuss unification. Political intrigue, assassination attempts, and old grudges threaten to derail the proceedings. The party must help navigate the dangerous politics and keep Skrilmil alive.
 
-2. **The Winter Witch**—The sorceress who claims responsibility for the devastating storms has issued a challenge to Skrildmýl. She offers peace in exchange for something Skrildmýl cannot give—and war if he refuses.
+2. **The Winter Witch**—The sorceress who claims responsibility for the devastating storms has issued a challenge to Skrilmil. She offers peace in exchange for something Skrilmil cannot give—and war if he refuses.
 
-3. **The Lightning Mark**—Skrildmýl's son has been born with a lightning-shaped birthmark, and both the Storm Temple and rival clans interpret this as an omen. Some see it as a sign of divine favor; others as a curse that must be eliminated.
+3. **The Lightning Mark**—Skrilmil's son has been born with a lightning-shaped birthmark, and both the Storm Temple and rival clans interpret this as an omen. Some see it as a sign of divine favor; others as a curse that must be eliminated.
 
 ## Epic Recital
 
-The [[lore-sagaskrildmyl|Saga of Skrildmýl Stormborn]] gives an attributed oral telling of this hero's central ordeal. Its verse preserves the legendary account without establishing it as history.
+The [[lore-sagaskrildmyl|Saga of Skrilmil Stormborn]] gives an attributed oral telling of this hero's central ordeal. Its verse preserves the legendary account without establishing it as history.

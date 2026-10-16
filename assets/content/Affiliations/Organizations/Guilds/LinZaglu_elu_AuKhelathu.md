@@ -1,6 +1,6 @@
 ---
 shortcode: linzaglkhlth
-name: {full: Lin'Zaglu elu Aû'Khelâthu, aliases: [The Toymakers' Guild of Aû'Khelâthu]}
+name: {full: Lin'Zaglu elu Au'Khelathu, aliases: [The Toymakers' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the makers of figures and mechanisms
@@ -42,7 +42,7 @@ data:
 
 ## Overview
 
-**Lin'Zaglu elu Aû'Khelâthu** is the chartered guild of the makers of figures and mechanisms across [[place-aukhelathrgq|Aû'Khelâthu]], who train in carving, jointing and the small clockwork that animates a figure's limbs. Every apprentice is raised to full membership on one piece, the funerary figure: the small attendant carved to be buried with the dead. The trade is thought slightly unlucky for it, and a toymaker who wants a customer's full confidence keeps the funerary side of the craft out of the shopfront display.
+**Lin'Zaglu elu Au'Khelathu** is the chartered guild of the makers of figures and mechanisms across [[place-aukhelathrgq|Au'Khelathu]], who train in carving, jointing and the small clockwork that animates a figure's limbs. Every apprentice is raised to full membership on one piece, the funerary figure: the small attendant carved to be buried with the dead. The trade is thought slightly unlucky for it, and a toymaker who wants a customer's full confidence keeps the funerary side of the craft out of the shopfront display.
 
 ## Character
 
@@ -62,5 +62,5 @@ Say a family orders a toy for a child's naming-day, and a different family, in t
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire the guild's charter covers
+- [[place-aukhelathrgq|Au'Khelathu]]—The empire the guild's charter covers
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

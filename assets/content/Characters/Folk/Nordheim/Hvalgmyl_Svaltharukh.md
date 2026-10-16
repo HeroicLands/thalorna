@@ -1,8 +1,8 @@
 ---
 shortcode: hvalgmylsval
 name:
-  full: Hvalgmýl Svaltharukh
-  aliases: [Captain Hvalgmýl Svaltharukh, Merchant Captain Hvalgmýl Svaltharukh]
+  full: Hvalgmil Svaltharuk
+  aliases: [Captain Hvalgmil Svaltharuk, Merchant Captain Hvalgmil Svaltharuk]
 type: being
 subType: npc
 description: A pirate captain operating in Thraldfjord waters under a thin veneer of legitimate merchant trade, named in Gnirthann Vetrdómr.
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Hvalgmýl Svaltharukh is a 43-year-old man who stands 6'1" tall with a medium build. He has pale skin, weathered complexion, dark blonde hair, and blue eyes.
+Hvalgmil Svaltharuk is a 43-year-old man who stands 6'1" tall with a medium build. He has pale skin, weathered complexion, dark blonde hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Hvalgmýl Svaltharukh is a pirate captain operating in Thraldfjord waters under a thin veneer of legitimate merchant trade. His vessel carries contraband that Gnirthann has documented numerous times but has been unable to intercept legally. Hvalgmýl Svaltharukh is named in [[being-gnrthnvtrdmr|Gnirthann Vetrdómr]].
+Hvalgmil Svaltharuk is a pirate captain operating in Thraldfjord waters under a thin veneer of legitimate merchant trade. His vessel carries contraband that Gnirthann has documented numerous times but has been unable to intercept legally. Hvalgmil Svaltharuk is named in [[being-gnrthnvtrdmr|Gnirthann Vetrdómr]].

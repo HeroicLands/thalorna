@@ -435,7 +435,7 @@ A cave troll hunts by sound and smell. It hears a pick on rock through a mountai
 
 ## What the Miners Do
 
-The mining camps of Norgaad treat a troll the way they treat bad air: as a danger of going deep, to be watched for and never argued with. A gallery that breaks into an open cavern is not worked further until a party with lamps has gone in and looked, and a camp that finds troll bones in a new working seals it with a wall of stone and earth and moves its digging. Every gallery has a fire-pot at its mouth and a bucket of pitch beside it, because fire is the one thing that stops a troll healing. When a troll does get into a working, the camp sends to the valley for men, and they go in with torches, burning pitch and long spears, in daylight, to drive it toward the surface; a troll driven into the sun is a dead troll. A troll's skull, cleaned and set over a hof door, is an offering the Mótefnir faith holds in honor.
+The mining camps of Norgaad treat a troll the way they treat bad air: as a danger of going deep, to be watched for and never argued with. A gallery that breaks into an open cavern is not worked further until a party with lamps has gone in and looked, and a camp that finds troll bones in a new working seals it with a wall of stone and earth and moves its digging. Every gallery has a fire-pot at its mouth and a bucket of pitch beside it, because fire is the one thing that stops a troll healing. When a troll does get into a working, the camp sends to the valley for men, and they go in with torches, burning pitch and long spears, in daylight, to drive it toward the surface; a troll driven into the sun is a dead troll. A troll's skull, cleaned and set over a hov door, is an offering the Mótefnir faith holds in honor.
 
 ## Signs
 

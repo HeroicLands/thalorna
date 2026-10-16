@@ -3,7 +3,7 @@ shortcode: sacredhand
 name: {full: The Fixing of the Sacred Hand, aliases: [The Fixing of the Signs]}
 type: lore
 subType: history
-description: "About 540 ST (1571 BF), in the reign of the fifth Gar-Aû, the priesthood of Reth'Sa'âr fixes the seven hundred signs of the sacred hand and the classical register of the language, and every temple inscription since is cut in them."
+description: "About 540 ST (1571 BF), in the reign of the fifth Gar-Au, the priesthood of Reth'Sa'ar fixes the seven hundred signs of the sacred hand and the classical register of the language, and every temple inscription since is cut in them."
 tags: [history, khelathu]
 data:
   culture: khelathiclt
@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [lore-garauu, skill-khelthzscrpt, skill-khelathlng, affiliation-rethsaar]
       summary: >-
-        Under Zab'Uzner, the fifth Gar-Aû of the First House, whose reign runs from 531 ST to 620 ST, the priesthood of Reth'Sa'âr fixes the sacred hand at about seven hundred signs and fixes the classical register of the language beside it. The king-list enters nothing of it, because it enters nothing of any reign in the First Tablets but a name, a length and the formula his deeds are the god's. The date comes from the age of the language itself, which the temple schools put at about twenty-three centuries before the present. Every temple inscription, tomb lintel and royal monument since is cut in the signs and the register this reign set.
+        Under Zab'Uzner, the fifth Gar-Au of the First House, whose reign runs from 531 ST to 620 ST, the priesthood of Reth'Sa'ar fixes the sacred hand at about seven hundred signs and fixes the classical register of the language beside it. The king-list enters nothing of it, because it enters nothing of any reign in the First Tablets but a name, a length and the formula his deeds are the god's. The date comes from the age of the language itself, which the temple schools put at about twenty-three centuries before the present. Every temple inscription, tomb lintel and royal monument since is cut in the signs and the register this reign set.
       standing: attested
       where:
         locus: [place-aukhelathrgq]
@@ -35,7 +35,7 @@ data:
       accounts:
         - by: affiliation-rethsaar
           says: >-
-            The signs are the god's own, given to the temple once in the reign of the fifth Gar-Aû and fixed so that nothing in them could drift. No reform since has touched one, and none will.
+            The signs are the god's own, given to the temple once in the reign of the fifth Gar-Au and fixed so that nothing in them could drift. No reform since has touched one, and none will.
           agrees: full
           withholds: how the signs were chosen, and what the hand looked like before the priesthood fixed it
         - by: affiliation-empireakhlth
@@ -48,13 +48,13 @@ data:
         - how many signs the hand held before it was fixed, and whether any were cut
 ---
 
-"Learn the sign and learn the reign it was fixed in," a master of the scribal schools at [[place-khelunu|Khelunu]] tells a boy copying a column of glyphs from a temple wall. "They are the same lesson." The reign is that of **Zab'Uzner**, the fifth Gar-Aû of the First House, and the lesson is the **Fixing of the Sacred Hand**.
+"Learn the sign and learn the reign it was fixed in," a master of the scribal schools at [[place-khelunu|Khelunu]] tells a boy copying a column of glyphs from a temple wall. "They are the same lesson." The reign is that of **Zab'Uzner**, the fifth Gar-Au of the First House, and the lesson is the **Fixing of the Sacred Hand**.
 
 ## The Hand Before It
 
-The temples hold that the sacred hand was always the god's, and they say nothing of what it looked like before the Fixing. What the priesthood of [[lore-rethsaardty|Reth'Sa'âr]] did in the reign of Zab'Uzner is plain from what came after: it stopped the signs and the register from moving as speech moves. In 531 ST (1580 BF) he stood upon the mound, and by the time his ninety years ended in 620 ST the signs had been counted, named and closed.
+The temples hold that the sacred hand was always the god's, and they say nothing of what it looked like before the Fixing. What the priesthood of [[lore-rethsaardty|Reth'Sa'ar]] did in the reign of Zab'Uzner is plain from what came after: it stopped the signs and the register from moving as speech moves. In 531 ST (1580 BF) he stood upon the mound, and by the time his ninety years ended in 620 ST the signs had been counted, named and closed.
 
-The [[lore-garauu|king-list]] enters nothing of it. The First Tablets enter a name, a length and the formula _his deeds are the god's_, and the Fixing is not a deed of the king's. The date rests on the language, not the list. The temple schools put the standardization of Classical Khelâthi about twenty-three centuries before the present, which falls in the reign of the fifth Gar-Aû and gives the event its date, about 540 ST.
+The [[lore-garauu|king-list]] enters nothing of it. The First Tablets enter a name, a length and the formula _his deeds are the god's_, and the Fixing is not a deed of the king's. The date rests on the language, not the list. The temple schools put the standardization of Classical Khelathi about twenty-three centuries before the present, which falls in the reign of the fifth Gar-Au and gives the event its date, about 540 ST.
 
 ## What Was Fixed
 
@@ -68,12 +68,12 @@ The [[lore-garauu|king-list]] enters nothing of it. The First Tablets enter a na
 
 - **The prestige register.** The classical register is still the language of temples, tombs and royal monuments, and the sacred script is read with it. The people's hand cut down from it ([[lore-peopleshand|the People's Hand]]) is the bureaus' tool and not the god's.
 - **The oldest inscriptions.** The records the earliest astrologers keep at [[place-chenosolis|Chenosolis]] and the star maps they cut into the stones of [[place-beshakan|Beshakan]] are written in the fixed hand.
-- **The scribal schools.** Khelunu and the temple of Reth'Sa'âr keep the signs, the king-lists and the calendar tables, and every scribe who rises takes his schooling in the signs as that reign closed them.
+- **The scribal schools.** Khelunu and the temple of Reth'Sa'ar keep the signs, the king-lists and the calendar tables, and every scribe who rises takes his schooling in the signs as that reign closed them.
 - **A warded script.** Because the working lives in the glyph, a robber who reads the lintel of a tomb is reading the ward as well.
 
 ## See Also
 
 - [[lore-akhfirsttab|The First Tablets]]—the age in which the signs were fixed
-- [[skill-khelthzscrpt|Khelâthi-zethu Script]] · [[skill-khelathlng|Khelâthi Language]]—the sacred hand and the register
-- [[lore-rethsaardty|Reth'Sa'âr]] · [[affiliation-rethsaar|Faith of Reth'Sa'âr]]—the god and the priesthood that fixed it
+- [[skill-khelthzscrpt|Khelathi-zethu Script]] · [[skill-khelathlng|Khelathi Language]]—the sacred hand and the register
+- [[lore-rethsaardty|Reth'Sa'ar]] · [[affiliation-rethsaar|Faith of Reth'Sa'ar]]—the god and the priesthood that fixed it
 - [[lore-peopleshand|The People's Hand]]—the cursive cut from it

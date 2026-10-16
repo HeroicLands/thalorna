@@ -1,6 +1,6 @@
 ---
 shortcode: arkhekrkss
-name: {full: Arkhêa Kourkásios, given: Arkhêa, clan: Kourkásios, aliases: []}
+name: {full: Arkhea Kourkásios, given: Arkhea, clan: Kourkásios, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -415,9 +415,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[arkhekrkss|Arkhêa Kourkásios]]{float=top-left}
+![[arkhekrkss|Arkhea Kourkásios]]{float=top-left}
 
-Arkhêa stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, grey hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.
+Arkhea stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, grey hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.
 
 # Dossier {#dossier}
 
@@ -425,35 +425,35 @@ Arkhêa stands 5'5" tall with a scant build. She has pale weathered and wrinkled
 
 ### A Woman of Property Lost
 
-Arkhêa was born into the merchant class of the [[affiliation-byzarianlg|Byzarian League]], daughter to a moderately successful fabric trader. Her early life held promise—education, musical training, the prospect of an advantageous marriage. That life ended abruptly when her father invested heavily in a trading venture that was destroyed by pirates. The family's social collapse was swift and thorough. Her mother, unable to survive the loss of status, withdrew into illness. Her father took his own life. By twenty-five, Arkhêa found herself without protection, resources, or a place in the world that once claimed to honor her.
+Arkhea was born into the merchant class of the [[affiliation-byzarianlg|Bizarian League]], daughter to a moderately successful fabric trader. Her early life held promise—education, musical training, the prospect of an advantageous marriage. That life ended abruptly when her father invested heavily in a trading venture that was destroyed by pirates. The family's social collapse was swift and thorough. Her mother, unable to survive the loss of status, withdrew into illness. Her father took his own life. By twenty-five, Arkhea found herself without protection, resources, or a place in the world that once claimed to honor her.
 
 ### The Long Descent
 
-The decades that followed were a gradual erosion of circumstance and dignity. First came the loss of housing, then employment became impossible—no merchant house would hire someone of her ruined status. The streets of the Byzarian League became her home. She learned the careful economics of survival: which bakeries discarded day-old bread in which alleys, which merchant wives might spare copper coins out of lingering conscience, which shelter houses might provide warmth on the coldest nights. She watched friends disappear into illness or despair. She survived through a combination of ruthless pragmatism and what some might call grace.
+The decades that followed were a gradual erosion of circumstance and dignity. First came the loss of housing, then employment became impossible—no merchant house would hire someone of her ruined status. The streets of the Bizarian League became her home. She learned the careful economics of survival: which bakeries discarded day-old bread in which alleys, which merchant wives might spare copper coins out of lingering conscience, which shelter houses might provide warmth on the coldest nights. She watched friends disappear into illness or despair. She survived through a combination of ruthless pragmatism and what some might call grace.
 
 ### Present Circumstances
 
-Now in her seventh decade, Arkhêa has achieved an almost monastic acceptance of her condition. She no longer rails against fate or harbors dreams of restoration. Instead, she has become something unexpected: a keeper of stories, a listening ear, a node in the network of the invisible poor. She knows secrets about the city that would shock the noble houses—things she has overheard while sitting unnoticed in doorways, things confessed to her by others living in the margins. This knowledge, though she would never weaponize it, grants her a peculiar form of power and protection.
+Now in her seventh decade, Arkhea has achieved an almost monastic acceptance of her condition. She no longer rails against fate or harbors dreams of restoration. Instead, she has become something unexpected: a keeper of stories, a listening ear, a node in the network of the invisible poor. She knows secrets about the city that would shock the noble houses—things she has overheard while sitting unnoticed in doorways, things confessed to her by others living in the margins. This knowledge, though she would never weaponize it, grants her a peculiar form of power and protection.
 
 ## Psyche
 
 ### Personality
 
-Arkhêa possesses a weary wisdom that comes only from surviving long enough to see cycles repeat. She speaks little, having learned that silence attracts less attention and consumes less energy than conversation. Yet when she does speak, her words carry unusual weight—the perspective of someone who has lost everything and found unexpected treasures in the ruins.
+Arkhea possesses a weary wisdom that comes only from surviving long enough to see cycles repeat. She speaks little, having learned that silence attracts less attention and consumes less energy than conversation. Yet when she does speak, her words carry unusual weight—the perspective of someone who has lost everything and found unexpected treasures in the ruins.
 
 Her humor is dark and subtle, finding ironic amusement in the cruelties and ironies of fate. She nurses no illusions about human nature but holds no general bitterness either—people are what they are, kind or cruel, and survival requires understanding both equally. Those who encounter her often remark on an unexpected peace in her presence, as though her acceptance of loss somehow frees others from their own anxiety about falling into similar circumstances.
 
 ### Motivation
 
-Arkhêa no longer operates from personal ambition; that luxury departed decades ago. Instead, she moves through the world driven by what might be called compassion, though she would disavow the term as too grand. She helps other street-dwellers because she understands their suffering intimately. She protects younger beggars from exploitation because she remembers being young and unguarded. She listens to the confessions of those in despair because she understands that sometimes being heard is the only remaining mercy. There is nothing aspirational in her motivation—she seeks no redemption, no restoration to lost status. She simply continues, surviving, witnessing, and offering small kindnesses that cost her but often mean everything to those who receive them.
+Arkhea no longer operates from personal ambition; that luxury departed decades ago. Instead, she moves through the world driven by what might be called compassion, though she would disavow the term as too grand. She helps other street-dwellers because she understands their suffering intimately. She protects younger beggars from exploitation because she remembers being young and unguarded. She listens to the confessions of those in despair because she understands that sometimes being heard is the only remaining mercy. There is nothing aspirational in her motivation—she seeks no redemption, no restoration to lost status. She simply continues, surviving, witnessing, and offering small kindnesses that cost her but often mean everything to those who receive them.
 
 ### Strengths
 
-- **Masterful Reader of Souls**: Arkhêa's decades on the streets have made her extraordinarily perceptive about human intention, motive, and character. She can discern truth from lies with uncanny accuracy.
+- **Masterful Reader of Souls**: Arkhea's decades on the streets have made her extraordinarily perceptive about human intention, motive, and character. She can discern truth from lies with uncanny accuracy.
 - **Resourceful Beyond Measure**: She understands how to survive on nothing, how to acquire necessities through non-monetary means, how to navigate bureaucratic systems designed to exclude people like her. Her Guile and Intrigue are refined to necessary art forms.
-- **Musical Talent**: Despite everything, Arkhêa maintains her training in music. Her voice, though aged, still carries unexpected beauty. Singing occasionally provides small income and more importantly, unexpected moments of transcendence.
+- **Musical Talent**: Despite everything, Arkhea maintains her training in music. Her voice, though aged, still carries unexpected beauty. Singing occasionally provides small income and more importantly, unexpected moments of transcendence.
 - **Brewing and Culinary Expertise**: From necessity and instinct, she has become skilled at creating remedies, herbal concoctions, and edible preparations from foraged materials and cast-off ingredients.
-- **Network Among the Invisible**: Arkhêa maintains connections throughout the city's beggar community, merchants' servants, and dock workers. She knows things that never reach the ears of the powerful.
+- **Network Among the Invisible**: Arkhea maintains connections throughout the city's beggar community, merchants' servants, and dock workers. She knows things that never reach the ears of the powerful.
 
 ### Weaknesses
 
@@ -467,39 +467,39 @@ Arkhêa no longer operates from personal ambition; that luxury departed decades 
 
 ### Patrons
 
-Mother Superior Hezogéze Sogipídek of the House of Lîzêlâs
-: The abbess of a local convent dedicated to fertility, growth, and mercy periodically provides shelter and food to Arkhêa. They share a spiritual understanding despite their vastly different circumstances.
+Mother Superior Hezogeze Sogipidek of the House of Lizelas
+: The abbess of a local convent dedicated to fertility, growth, and mercy periodically provides shelter and food to Arkhea. They share a spiritual understanding despite their vastly different circumstances.
 
 Merchant's Widow Kraria Margikos
-: A wealthy woman whose sense of guilt over her comfortable life occasionally manifests as support for street-dwellers. She knows Arkhêa by name and sometimes provides coin or shelter.
+: A wealthy woman whose sense of guilt over her comfortable life occasionally manifests as support for street-dwellers. She knows Arkhea by name and sometimes provides coin or shelter.
 
 Young Scholar Dmitris
-: A university student who trades philosophical conversation and occasional bread for Arkhêa's stories and hard-won wisdom about the human condition.
+: A university student who trades philosophical conversation and occasional bread for Arkhea's stories and hard-won wisdom about the human condition.
 
 ### Enemies
 
 The Brass Knuckles
-: A crew of street thugs led by a brutal enforcer named **Rahvárion** who run extortion rackets against beggars. They have beaten Arkhêa multiple times for "protection" money she could not pay.
+: A crew of street thugs led by a brutal enforcer named **Rahvárion** who run extortion rackets against beggars. They have beaten Arkhea multiple times for "protection" money she could not pay.
 
-Zerárzan
-: An official who views beggars as urban blight to be removed. He has had Arkhêa arrested multiple times for vagrancy, each arrest more brutal than the last.
+Zerarzan
+: An official who views beggars as urban blight to be removed. He has had Arkhea arrested multiple times for vagrancy, each arrest more brutal than the last.
 
 ### Affiliations
 
 The Unseen Community
-: Arkhêa is an elder figure among the city's street-dwellers, respected for her longevity and wisdom.
+: Arkhea is an elder figure among the city's street-dwellers, respected for her longevity and wisdom.
 
-The Order of Lîzêlâs (Fertility Aspect)
+The Order of Lizelas (Fertility Aspect)
 : Despite her poverty, she maintains spiritual practice and occasional participation in informal worship gatherings.
 
 ## Plot Hooks
 
-1. **The Hidden Child**: Arkhêa discovers an abandoned infant on a doorstep—a baby with unusual markings that suggest noble blood. She must protect this child from unknown pursuers while navigating a city that would exploit the child's origins. This act of protection forces her to move, to take risks, to engage with a world she has safely ignored for decades.
+1. **The Hidden Child**: Arkhea discovers an abandoned infant on a doorstep—a baby with unusual markings that suggest noble blood. She must protect this child from unknown pursuers while navigating a city that would exploit the child's origins. This act of protection forces her to move, to take risks, to engage with a world she has safely ignored for decades.
 
-2. **The Overheard Secret**: While sitting unnoticed in a merchant house vestibule, Arkhêa overhears a conspiracy involving poisoning of a city official. She knows enough to recognize the plot but is trapped in the terrible position of having evidence that no one would believe a beggar could possess. She must find a way to warn the target without exposing the conspiracy to those who would use it for their own purposes.
+2. **The Overheard Secret**: While sitting unnoticed in a merchant house vestibule, Arkhea overhears a conspiracy involving poisoning of a city official. She knows enough to recognize the plot but is trapped in the terrible position of having evidence that no one would believe a beggar could possess. She must find a way to warn the target without exposing the conspiracy to those who would use it for their own purposes.
 
-3. **The Lost Apprentice**: A young merchant's apprentice, **Shahrikos**, confides in Arkhêa that he has witnessed his master murdering a rival. The boy is paralyzed by fear—coming forward would mean losing his livelihood and possibly his life. Arkhêa must decide whether to help expose the crime, knowing that her involvement would never actually be believed, or help the boy escape with his conscience intact.
+3. **The Lost Apprentice**: A young merchant's apprentice, **Shahrikos**, confides in Arkhea that he has witnessed his master murdering a rival. The boy is paralyzed by fear—coming forward would mean losing his livelihood and possibly his life. Arkhea must decide whether to help expose the crime, knowing that her involvement would never actually be believed, or help the boy escape with his conscience intact.
 
-4. **The Curse in the Beggar's Market**: A strange illness begins spreading through the beggar community—victims fall into delirium and fever. Arkhêa, with her knowledge of herbalism and her network of invisible informants, begins to suspect the illness is no accident but deliberate poisoning. She must investigate without drawing the attention of authorities who would blame the victims rather than seek justice for them.
+4. **The Curse in the Beggar's Market**: A strange illness begins spreading through the beggar community—victims fall into delirium and fever. Arkhea, with her knowledge of herbalism and her network of invisible informants, begins to suspect the illness is no accident but deliberate poisoning. She must investigate without drawing the attention of authorities who would blame the victims rather than seek justice for them.
 
-5. **The Letter from the Past**: A well-dressed stranger approaches Arkhêa with a letter written in her deceased mother's hand, dated decades ago, containing revelations about Arkhêa's birth and family that suggest her fall into poverty was not accident but arranged. The revelation forces her to reconsider everything about her life, and offers the possibility of restoration—if she is willing to seek it.
+5. **The Letter from the Past**: A well-dressed stranger approaches Arkhea with a letter written in her deceased mother's hand, dated decades ago, containing revelations about Arkhea's birth and family that suggest her fall into poverty was not accident but arranged. The revelation forces her to reconsider everything about her life, and offers the possibility of restoration—if she is willing to seek it.

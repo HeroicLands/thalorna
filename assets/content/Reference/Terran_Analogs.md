@@ -15,7 +15,7 @@ _Private worldbuilding reference—not published to the website._
 | ---------------------------------------- | ---------------------------------------------- |
 | [[place-kchchkcntnnt\|K'ich'chik]]       | North and South America / Inca empire expanded |
 | [[place-ankrscntnnt\|Ankaris Continent]] | Eurasia                                        |
-| [[place-xerathia\|Xerathia Continent]]   | Africa                                         |
+| [[place-xerathia\|Zerathia Continent]]   | Africa                                         |
 | [[affiliation-kalihara\|Kalihara]]       | Atlantis / lost island civilizations           |
 | [[place-arnscntnnt\|Aurionis Continent]] | Australia                                      |
 | [[place-isrncntnnt\|Iseron Continent]]   | Antarctica                                     |
@@ -30,7 +30,7 @@ _Private worldbuilding reference—not published to the website._
 | [[place-tarvenirgn\|Tarvénia]]                                       | Northern Spain, southern France (Atlantic coast)                          |
 | [[place-elavendre\|Élavendre]]                                       | France (mythic Celtic / fae-influenced)                                   |
 | [[place-aelwyth\|Aelwyth Region]]                                    | Britain / Ireland (mythic, Arthurian)                                     |
-| [[affiliation-cnfdrtntrzlnstts\|Confederation of Tarûzelian States]] | Mesopotamian/Levantine maritime city-states (Phoenicia, Carthage, Venice) |
+| [[affiliation-cnfdrtntrzlnstts\|Confederation of Taruzelian States]] | Mesopotamian/Levantine maritime city-states (Phoenicia, Carthage, Venice) |
 | [[place-helionis\|Helionis Region]]                                  | Ancient Greece (classical Athens, philosophical schools)                  |
 
 ## Ankaris Regions—Northern
@@ -38,14 +38,14 @@ _Private worldbuilding reference—not published to the website._
 | Region                                          | Terran Analog                                             |
 | ----------------------------------------------- | --------------------------------------------------------- |
 | [[affiliation-kngdmnrdhm\|Kingdom of Nordheim]] | Scandinavia                                               |
-| [[place-grkrhlmrgn\|Grukarhölm]]                | Siberia / Central Asian steppe                            |
-| [[place-vrystwald\|Vrystwald Region]]           | Germanic/Central European forests (Black Forest, Bohemia) |
+| [[place-grkrhlmrgn\|Grukarholm]]                | Siberia / Central Asian steppe                            |
+| [[place-vrystwald\|Vristwald Region]]           | Germanic/Central European forests (Black Forest, Bohemia) |
 
 ## Ankaris Regions—Central & Eastern
 
 | Region                                         | Terran Analog                                       |
 | ---------------------------------------------- | --------------------------------------------------- |
-| [[place-byzariargn\|Byzaría Region]]           | Byzantine Empire / Eastern Mediterranean crossroads |
+| [[place-byzariargn\|Bizaria Region]]           | Byzantine Empire / Eastern Mediterranean crossroads |
 | [[place-khzryndsrtrgn\|Khazryn Desert Region]] | Central Asian steppe / Silk Road deserts            |
 
 ## Ankaris Regions—Southern
@@ -61,8 +61,8 @@ _Private worldbuilding reference—not published to the website._
 | ------------------------------- | ----------------------- |
 | [[place-midhalnrgn\|Mídhalión]] | The Mediterranean basin |
 
-## Xerathia
+## Zerathia
 
 | Region                                              | Terran Analog                                                                                       |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [[affiliation-empireakhlth\|Empire of Aû'Khelâthu]] | Ancient Egypt (New Kingdom through Ptolemaic—a civilization that reinvents itself across millennia) |
+| [[affiliation-empireakhlth\|Empire of Au'Khelathu]] | Ancient Egypt (New Kingdom through Ptolemaic—a civilization that reinvents itself across millennia) |

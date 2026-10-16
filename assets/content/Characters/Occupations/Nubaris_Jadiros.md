@@ -1,6 +1,6 @@
 ---
 shortcode: nubarsjdrs
-name: {full: Nûbàris Jâdîrôs, aliases: []}
+name: {full: Nubaris Jadiros, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -392,23 +392,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Nûbàris Jâdîrôs is a 36-year-old woman who stands 5'7" tall and is slender. She has a square face with prominent cheekbones, a prominent forehead, and a strong jaw that leads to a strong chin. Her bright blue eyes sit beneath heavy brows and give her a lively gaze. She has a strong nose and curved lips. She has tanned skin with an olive-toned complexion. Her black hair is gathered in a practical bun.
+Nubaris Jadiros is a 36-year-old woman who stands 5'7" tall and is slender. She has a square face with prominent cheekbones, a prominent forehead, and a strong jaw that leads to a strong chin. Her bright blue eyes sit beneath heavy brows and give her a lively gaze. She has a strong nose and curved lips. She has tanned skin with an olive-toned complexion. Her black hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 
-Nûbàris Jâdîrôs is a courtier of Therádon, in [[place-helionis|Heliónis]], a Helionite noblewoman of a minor house with a seat in the city's assembly, who has made herself the person the greater houses send for when they need something settled quietly.
+Nubaris Jadiros is a courtier of Theradon, in [[place-helionis|Helionis]], a Helionite noblewoman of a minor house with a seat in the city's assembly, who has made herself the person the greater houses send for when they need something settled quietly.
 
-The city is governed by an assembly of its wealthiest and most educated citizens. The Jâdîrôs seat is an old one and a small one, and Nûbàris inherited it with the debts attached. She mediates. When two houses fall out over a marriage, a tax farm or a philosopher's chair, Nûbàris is the one who knows what each side actually wants, carries the messages neither will send directly, and proposes the settlement both can accept. She takes a fee from both. Her contacts run through every house in Therádon and several in Thyrenae and she has never been caught telling anyone what she was told. That reputation for discretion is her whole capital.
+The city is governed by an assembly of its wealthiest and most educated citizens. The Jadiros seat is an old one and a small one, and Nubaris inherited it with the debts attached. She mediates. When two houses fall out over a marriage, a tax farm or a philosopher's chair, Nubaris is the one who knows what each side actually wants, carries the messages neither will send directly, and proposes the settlement both can accept. She takes a fee from both. Her contacts run through every house in Theradon and several in Thirenae and she has never been caught telling anyone what she was told. That reputation for discretion is her whole capital.
 
 ## Psyche
 
 ### Personality
 
-Nûbàris is composed, attentive and difficult to read, and likes it that way; she gives away nothing she has not decided to give. She has been called manipulative to her face and took it as a description.
+Nubaris is composed, attentive and difficult to read, and likes it that way; she gives away nothing she has not decided to give. She has been called manipulative to her face and took it as a description.
 
 ### Motivation
 
-Nûbàris wants influence—to be the one the great houses cannot do without—and she has it. Behind the fee and the favor is a plainer want, to be needed, since being liked was never on offer to a small house with debts.
+Nubaris wants influence—to be the one the great houses cannot do without—and she has it. Behind the fee and the favor is a plainer want, to be needed, since being liked was never on offer to a small house with debts.
 
 ### Strengths
 
@@ -416,13 +416,13 @@ Highly intelligent, skilled in diplomacy, a long and exact memory.
 
 ## Social
 
-Nûbàris holds the Jâdîrôs seat in the assembly of Therádon and speaks in it rarely, which is itself a tactic. She belongs to no faction and is invited by all of them.
+Nubaris holds the Jadiros seat in the assembly of Theradon and speaks in it rarely, which is itself a tactic. She belongs to no faction and is invited by all of them.
 
 ## Companions
 
 ### Patrons
 
-Nûbàris's patrons are the greater houses of the assembly, who use her when they need an alliance arranged, a dispute closed or a message delivered that cannot be seen to come from them.
+Nubaris's patrons are the greater houses of the assembly, who use her when they need an alliance arranged, a dispute closed or a message delivered that cannot be seen to come from them.
 
 ### Enemies
 
@@ -430,10 +430,10 @@ Rival courtiers who see a small house grown too useful and would like to prove h
 
 ## Plot Hooks
 
-1. **Both Sides Paying**—Two houses in a feud have each retained Nûbàris to settle it, and each has instructed her to see the other lose. Only a settlement that leaves both believing they won keeps her reputation.
+1. **Both Sides Paying**—Two houses in a feud have each retained Nubaris to settle it, and each has instructed her to see the other lose. Only a settlement that leaves both believing they won keeps her reputation.
 
-2. **A Secret of Her Own**—Something Nûbàris has kept from everyone—the true state of the Jâdîrôs debts, and who holds them—has reached a rival.
+2. **A Secret of Her Own**—Something Nubaris has kept from everyone—the true state of the Jadiros debts, and who holds them—has reached a rival.
 
-3. **The Envoy**—A Vylarian envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nûbàris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
+3. **The Envoy**—A Vylarian envoy wants to know which houses of the assembly would welcome a firmer imperial hand, and has heard that Nubaris knows every house's mind. He has offered a great deal, and the assembly would call the sale treason.
 
-4. **The Feud**—Two of the oldest houses in Therádon have quarreled past the point of mediation, and each has told Nûbàris that neutrality will be taken as enmity.
+4. **The Feud**—Two of the oldest houses in Theradon have quarreled past the point of mediation, and each has told Nubaris that neutrality will be taken as enmity.

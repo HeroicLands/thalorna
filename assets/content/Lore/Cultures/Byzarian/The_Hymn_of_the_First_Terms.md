@@ -1,6 +1,6 @@
 ---
 shortcode: firstterms
-name: {full: The Hymn of the First Terms, aliases: [Kûmêtin Arkhîdin]}
+name: {full: The Hymn of the First Terms, aliases: [Kumetin Arkhidin]}
 type: lore
 subType: literature
 description: "The hymn the monasteries of the eastern rite sing through the night before the Feast of Thresholds: the Unagreed before the world, the Twelve stating its terms, the eleven seals and the place the Wild Beast left empty, the takers made to be the second seal, the world's own term counted three times, and the renewal at every turning of the year, with the cantor's name sealed down the margin."
@@ -8,7 +8,7 @@ tags: [draft, byzaria]
 data:
   culture: byzarianclt
   packFolder: settinglore
-  form: kûmêtin
+  form: kumetin
   subjects:
     - lore-ardavondty
     - lore-lusiniadty
@@ -23,15 +23,15 @@ data:
 # terran_analog: "The kontakia of Romanos the Melodist, for the long hymn of stanzas sung by a cantor, the refrain the congregation answers and the acrostic that signs the author as 'the humble'; the Akathist hymn, for the closing litany of titles; Byzantine theology's love of paradox; and the Byzantine habit of dating the end of the world and dating it again when the year passed."
 ---
 
-**The Hymn of the First Terms**, _Kûmêtin Arkhîdin_, the hymn of the beginning, is the hymn the [[lore-byzarianclt|Byzarian]] monasteries of the eastern rite sing through the night before the Feast of Thresholds, when the year turns and every bond in the five cities is renewed. It is a _kûmêtin_, a hymn of the chorus: a monk who is the house's cantor sings the stanzas alone from the step below the sanctuary, and the whole church, monks and lay, answers each one with the refrain, _and we stand behind the seal_, the words a guarantor says over another man's bond. The lay half of the church is the merchants, factors, masters and brides who go in at morning to renew their papers before the temple's witness, and most of them know no other line of the hymn and need none.
+**The Hymn of the First Terms**, _Kumetin Arkhidin_, the hymn of the beginning, is the hymn the [[lore-byzarianclt|Bizarian]] monasteries of the eastern rite sing through the night before the Feast of Thresholds, when the year turns and every bond in the five cities is renewed. It is a _kumetin_, a hymn of the chorus: a monk who is the house's cantor sings the stanzas alone from the step below the sanctuary, and the whole church, monks and lay, answers each one with the refrain, _and we stand behind the seal_, the words a guarantor says over another man's bond. The lay half of the church is the merchants, factors, masters and brides who go in at morning to renew their papers before the temple's witness, and most of them know no other line of the hymn and need none.
 
-It is the rite's account of how the world was made and how it ends. Before the world was the Unagreed, in which nothing was owed. [[lore-ardavondty|Árdavon]], the Keeper of the Gates, said that nothing should be made until its terms were stated, and the Twelve stated them: [[lore-lusiniadty|Lúsinía]] spun the length of every thing, [[lore-ustarondty|Ústaron]] beat the first standard, and [[lore-marendasdty|Mârendâs]] wrote the clauses. Eleven gods sealed the book of the world and [[lore-karnavosdty|Karnavos]], the Wild Beast, would not, and the place left empty for his seal is the border at the edge of every page. The takers of the world were made last, to be its second seal, and [[lore-selmorosdty|Sélmoros]] closes each one's account at the term the Weaver spun. The world has a term of its own, and the hymn keeps the count of it that the fathers made three times, and what they found on the morning after the third.
+It is the rite's account of how the world was made and how it ends. Before the world was the Unagreed, in which nothing was owed. [[lore-ardavondty|Árdavon]], the Keeper of the Gates, said that nothing should be made until its terms were stated, and the Twelve stated them: [[lore-lusiniadty|Lusinia]] spun the length of every thing, [[lore-ustarondty|Ústaron]] beat the first standard, and [[lore-marendasdty|Marendas]] wrote the clauses. Eleven gods sealed the book of the world and [[lore-karnavosdty|Karnavos]], the Wild Beast, would not, and the place left empty for his seal is the border at the edge of every page. The takers of the world were made last, to be its second seal, and [[lore-selmorosdty|Sélmoros]] closes each one's account at the term the Weaver spun. The world has a term of its own, and the hymn keeps the count of it that the fathers made three times, and what they found on the morning after the third.
 
-The prelude stands outside the count. The first letters of the stanzas after it spell, in the Byzarian, _of the least, Lékhisash_: a cantor's way of sealing his work down the margin, where a scribe writes his mark small. The rendering keeps an acrostic of the same words in its own letters. **Lékhisash** is known from the acrostic alone. Three monasteries of the rite claim him, none of them keeps a record of him, and the hymn asks in its last stanza but one that his name not be kept, which the monasteries take as the reason no house can show a record of him. The god-names stand in the hymn by their epithets, as the rite sings them; the book the Twelve sealed is the hymn's own and is not a book the temples show.
+The prelude stands outside the count. The first letters of the stanzas after it spell, in the Bizarian, _of the least, Lékhisash_: a cantor's way of sealing his work down the margin, where a scribe writes his mark small. The rendering keeps an acrostic of the same words in its own letters. **Lékhisash** is known from the acrostic alone. Three monasteries of the rite claim him, none of them keeps a record of him, and the hymn asks in its last stanza but one that his name not be kept, which the monasteries take as the reason no house can show a record of him. The god-names stand in the hymn by their epithets, as the rite sings them; the book the Twelve sealed is the hymn's own and is not a book the temples show.
 
 : The Hymn of the First Terms {#hymn}
 
-```poetry {form=kûmêtin lang=en}
+```poetry {form=kumetin lang=en}
 The year stands on its threshold, and the door is in two leaves:
 one leaf is the year that is owed, and one is the year that is lent.
 Keeper of the Gates, of the two faces, serene to the giver, stern to the taker,
@@ -308,9 +308,9 @@ and we stand behind the seal.
 
 ## See Also
 
-- [[lore-byzarianclt|Byzarian]]—the culture of the bargain, its Feast of Thresholds and its keeping of the dead
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the Twelve, kept in Byzaría in an eastern rite
+- [[lore-byzarianclt|Bizarian]]—the culture of the bargain, its Feast of Thresholds and its keeping of the dead
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the Twelve, kept in Bizaria in an eastern rite
 - [[lore-ardavondty|Árdavon]]—the Keeper of the Gates, whose feast the hymn keeps vigil for
 - [[lore-karnavosdty|Karnavos]]—the Wild Beast, who would not seal
 - [[lore-selmorosdty|Sélmoros]]—the Silent Judge, who closes the account
-- [[lore-heladweighing|The Weighing at Khrýshteíkhos]]—the two weights on the balance before the floor
+- [[lore-heladweighing|The Weighing at Krusteikhos]]—the two weights on the balance before the floor

@@ -1,9 +1,9 @@
 ---
 shortcode: mandalikulan
-name: {full: Māndali Kulanaya, aliases: [Priestess Māndali]}
+name: {full: Manduli Kulanaya, aliases: [Priestess Manduli]}
 type: being
 subType: npc
-description: High priestess of Rāsikara's temple and a fellow devotee of the fire goddess, named in Vanika Ratnisena.
+description: High priestess of Rasikara's temple and a fellow devotee of the fire goddess, named in Vanika Ratnisena.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Māndali Kulanaya is a 49-year-old woman who stands 5'8" tall with a heavy build. She has brown skin, smooth complexion, black hair, and brown eyes.
+Manduli Kulanaya is a 49-year-old woman who stands 5'8" tall with a heavy build. She has brown skin, smooth complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Māndali Kulanaya is the high priestess of Rāsikara's temple and a fellow devotee of the fire goddess. She has commissioned [[being-vanikartns|Vanika Ratnisena]] to prepare ritual meals and has become something of a spiritual companion and advocate to her.
+Manduli Kulanaya is the high priestess of Rasikara's temple and a fellow devotee of the fire goddess. She has commissioned [[being-vanikartns|Vanika Ratnisena]] to prepare ritual meals and has become something of a spiritual companion and advocate to her.

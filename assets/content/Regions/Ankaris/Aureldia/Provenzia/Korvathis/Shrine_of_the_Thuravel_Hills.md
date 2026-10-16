@@ -1,15 +1,15 @@
 ---
 shortcode: shrinethuravelhills
-name: {full: Shrine of Thúravel Hills, aliases: []}
+name: {full: Shrine of Túravel Hills, aliases: []}
 type: place
 subType: site
-description: "An abandoned shrine hidden in the Thúravel Hills—a place of powerful pre-Aurèldían worship of the Old Gods, undisturbed for centuries and guarded still by fae spirits."
+description: "An abandoned shrine hidden in the Túravel Hills—a place of powerful pre-Aureldían worship of the Old Gods, undisturbed for centuries and guarded still by fae spirits."
 tags: [sacred, hill, woodland]
 data: {demonym: null, lore: [], parents: [thuravelhills], population: null, packFolder: provenzia}
 ---
 
-Somewhere in the [[place-thuravelhills|Thúravel Hills]] of southern
-[[place-provenzrgn|Provènzia Region]] stands a shrine that official history has forgotten and old songs
+Somewhere in the [[place-thuravelhills|Túravel Hills]] of southern
+[[place-provenzrgn|Provenzia Region]] stands a shrine that official history has forgotten and old songs
 have not. It was raised long before the [[affiliation-arldnpnthn|Twelve]] were worshipped here, for the
 worship of the [[affiliation-firstgods|Old Gods]], and it was a place of real power.
 
@@ -39,14 +39,14 @@ hill families who know how to speak to it have such a difficult, mutually suspic
 ## Why It Matters Now
 
 An abandoned sanctuary of a displaced faith is an obvious prize, and the interested parties are
-predictable: scholars after pre-Aurèldían knowledge, the [[affiliation-ordoarcanis|Thôrdimâlon]]
+predictable: scholars after pre-Aureldían knowledge, the [[affiliation-ordoarcanis|Thordimalon]]
 asserting its claim over arcane sites, nobles hoping old practices will yield personal power, and
 priests of the Twelve who would rather the whole question stayed closed.
 
 The shrine has survived because nobody could find it. That protection is wearing thin.
 
-See [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Thúravel Hills]].
+See [[scenario-frgtnshrnthrvlhls|The Forgotten Shrine of the Túravel Hills]].
 
 ## See Also
 
-- [[place-thuravelhills|Thúravel Hills]] · [[affiliation-firstgods|The First Gods]]
+- [[place-thuravelhills|Túravel Hills]] · [[affiliation-firstgods|The First Gods]]

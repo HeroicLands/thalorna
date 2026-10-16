@@ -54,35 +54,6 @@ test("drift protects only the membership title, not prose or another level or pa
     );
 });
 
-test("lexicon corpus exemptions do not rename or exempt other northern titles", async () => {
-    const { corpus, lexiconFrom, judge } = await import("./lexicons/nordmal-lexicon.mjs");
-    const rule = lexiconFrom(fs.readFileSync("assets/content/Skills/Languages/Nordmal.md", "utf8"));
-    const baseline = corpus(rule).names;
-    const current = corpus(rule, table).names;
-    for (const entry of entries)
-        for (const file of entry.paths) {
-            assert(
-                baseline.some(
-                    (n) => n.file === file && n.name === entry.literal && n.kind === "rank",
-                ),
-            );
-            assert(
-                !current.some(
-                    (n) => n.file === file && n.name === entry.literal && n.kind === "rank",
-                ),
-            );
-            for (const kind of ["rank", "given", "clan", "order"])
-                assert(judge(entry.literal, kind, rule).length > 0);
-        }
-    const stale = structuredClone(table);
-    for (const entry of stale.keep)
-        if (Number.isInteger(entry.membershipLevel)) entry.membershipLevel = 2;
-    const staleNames = corpus(rule, stale).names;
-    for (const entry of entries)
-        for (const file of entry.paths)
-            assert(staleNames.some((n) => n.file === file && n.name === entry.literal));
-});
-
 test("an invalid contextual level never becomes a whole-file drift exemption", () => {
     const source = entries.find((row) => row.literal === "Devotee");
     for (const level of [null, "1", 2]) {

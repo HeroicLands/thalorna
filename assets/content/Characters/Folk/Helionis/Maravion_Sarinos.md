@@ -1,9 +1,9 @@
 ---
 shortcode: maravionsari
-name: {full: Márâvíon Sarînos, aliases: [Captain Márâvíon Sarînos]}
+name: {full: Máravion Sarinos, aliases: [Captain Máravion Sarinos]}
 type: being
 subType: npc
-description: A younger officer commanding one of the merchant navy vessels that operate under the Helionite military, named in Habìdon Ghânîdês.
+description: A younger officer commanding one of the merchant navy vessels that operate under the Helionite military, named in Habidon Ghanides.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Márâvíon Sarînos is a 33-year-old man who stands 6'2" tall with a light build. He has medium skin, clear complexion, dark brown hair, and hazel eyes.
+Máravion Sarinos is a 33-year-old man who stands 6'2" tall with a light build. He has medium skin, clear complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Márâvíon Sarînos is a younger officer commanding one of the merchant navy vessels that operate under the Helionite military. Ambitious and politically connected, he views the refusal of promotion by [[being-habdnghnds|Habìdon Ghânîdês]] as an insult to military hierarchy.
+Máravion Sarinos is a younger officer commanding one of the merchant navy vessels that operate under the Helionite military. Ambitious and politically connected, he views the refusal of promotion by [[being-habdnghnds|Habidon Ghanides]] as an insult to military hierarchy.

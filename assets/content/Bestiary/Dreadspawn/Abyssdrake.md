@@ -277,7 +277,7 @@ The tide is at its lowest, and the stones of the drowned street are out of the w
 
 # Dossier {#dossier}
 
-The Abyssdrake is a dreadspawn made in the shape of a sea-drake: twenty to thirty feet of black-scaled, finned, serpentine body that hunts in lightless water and comes up out of it at night, with jaws, claws and a breath of corrosive vapor. It was made, like all dreadspawn, and it does not breed; this one, at least, was made to guard. Off the fog-bound coast of [[place-galvaren|Galváren]], where the fishing towns tell stories of drowned cities and take them seriously, the abyssdrake is the reason one of those stories is told as a warning. It keeps a sunken ruin under the cliffs and kills what comes into it, and it has done so for longer than any family on the coast can remember.
+The Abyssdrake is a dreadspawn made in the shape of a sea-drake: twenty to thirty feet of black-scaled, finned, serpentine body that hunts in lightless water and comes up out of it at night, with jaws, claws and a breath of corrosive vapor. It was made, like all dreadspawn, and it does not breed; this one, at least, was made to guard. Off the fog-bound coast of [[place-galvaren|Galvaren]], where the fishing towns tell stories of drowned cities and take them seriously, the abyssdrake is the reason one of those stories is told as a warning. It keeps a sunken ruin under the cliffs and kills what comes into it, and it has done so for longer than any family on the coast can remember.
 
 ## Presentation
 
@@ -293,7 +293,7 @@ The drake hunts alone, mostly at night and in deep, dark water, and lies up in t
 
 ## What the Fishing Towns Do
 
-The fishermen of the coast set their nets well wide of the ruin, sail home before dark in the dark of the moon, and do not anchor within sight of the sunken city. The harbor tellers of [[place-ornethe|Ornéthe]] say the drake keeps the gate of a city that the sea took for its pride, and that what lies at the bottom of the stair is the city's treasure, still waiting. Every generation some young man takes a boat out at the lowest spring tide to look, and most of them come back. The ones who do not are remembered by name at the harbor, and their names are told to the next young man. An [[affiliation-arldnpnthn|Aurèldían]] priest blesses the fleet each spring with lamps, because the drake shuns strong light.
+The fishermen of the coast set their nets well wide of the ruin, sail home before dark in the dark of the moon, and do not anchor within sight of the sunken city. The harbor tellers of [[place-ornethe|Ornethe]] say the drake keeps the gate of a city that the sea took for its pride, and that what lies at the bottom of the stair is the city's treasure, still waiting. Every generation some young man takes a boat out at the lowest spring tide to look, and most of them come back. The ones who do not are remembered by name at the harbor, and their names are told to the next young man. An [[affiliation-arldnpnthn|Aureldian]] priest blesses the fleet each spring with lamps, because the drake shuns strong light.
 
 ## Signs
 

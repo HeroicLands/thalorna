@@ -3,13 +3,13 @@ shortcode: germrytqltw2
 name: {full: Germeryt Qeltawes, aliases: []}
 type: being
 subType: npc
-description: "First Hunter of the Gar-Aû and chair of the Council of the Long Spear, holding the licences by which the empire's game is taken"
+description: "First Hunter of the Gar-Au and chair of the Council of the Long Spear, holding the licences by which the empire's game is taken"
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [woodsman, skirmisher, courtier]
-  occupation: "First Hunter of the Gar-Aû"
+  occupation: "First Hunter of the Gar-Au"
   lore: []
   culture: khelathiclt
   homes: [galezkara]
@@ -36,4 +36,4 @@ Germeryt Qeltawes is a 41-year-old woman who stands 6'0" tall with a medium buil
 
 # Dossier {#dossier}
 
-Germeryt Qeltawes holds the post of First Hunter of the Gar-Aû out of [[place-galezkara|Galezkara]], and chairs the [[affiliation-garnuw|Council of the Long Spear]] besides. The licences by which the empire's game is taken pass through this one office. Anyone wanting to hunt the Gar-Aû's preserves legally starts there and nowhere else.
+Germeryt Qeltawes holds the post of First Hunter of the Gar-Au out of [[place-galezkara|Galezkara]], and chairs the [[affiliation-garnuw|Council of the Long Spear]] besides. The licences by which the empire's game is taken pass through this one office. Anyone wanting to hunt the Gar-Au's preserves legally starts there and nowhere else.

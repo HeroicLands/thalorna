@@ -1,6 +1,6 @@
 ---
 shortcode: zabqarre2
-name: {full: Zabqarrê, aliases: []}
+name: {full: Zabqarre, aliases: []}
 type: being
 subType: npc
 description: "Halzi'a of Khelunu's selat, an administrator of the old school who governs by precedent and dislikes being surprised"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zabqarrê is a 47-year-old woman who stands 5'7" tall with a light build. She has dark brown skin, dark brown hair, and brown eyes.
+Zabqarre is a 47-year-old woman who stands 5'7" tall with a light build. She has dark brown skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Zabqarrê governs as Halzi'a of [[place-khelunu|Khelunu]]'s selat, home in [[place-anlaghzetun|Anlagh-Zetûn]], an administrator of the old school. Precedent decides most questions here, and surprises are not welcome regardless of how they arrive. Anyone petitioning this selat does better arriving with a precedent already in hand.
+Zabqarre governs as Halzi'a of [[place-khelunu|Khelunu]]'s selat, home in [[place-anlaghzetun|Anlagh-Zetun]], an administrator of the old school. Precedent decides most questions here, and surprises are not welcome regardless of how they arrive. Anyone petitioning this selat does better arriving with a precedent already in hand.

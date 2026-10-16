@@ -14,12 +14,12 @@ The Grukar are a brutal and prolific folk, feared wherever their guttural war-cr
 
 The Grukar have not always been on Thalorna.
 
-They are first recorded around **3000 BF**, and the record is Khazári—the Deep Folk having both the
+They are first recorded around **3000 BF**, and the record is Khazari—the Deep Folk having both the
 habit of writing things down and, at that date, the finest archive in the world at
-[[lore-khazarturn|Khazártúrn]]. Nothing written there in its first twenty-one centuries mentions them.
+[[lore-khazarturn|Khazartúrn]]. Nothing written there in its first twenty-one centuries mentions them.
 Then, within a generation, a great deal does.
 
-Where they came from is not known. The Khazári account, which is the only contemporary one, does not
+Where they came from is not known. The Khazari account, which is the only contemporary one, does not
 speculate; it describes what arrived, in the manner of a people setting down evidence, and leaves the
 question open. Human scholarship on the point is worth nothing at all, human records of the period
 being some two and a half thousand years in the future.
@@ -27,14 +27,14 @@ being some two and a half thousand years in the future.
 What is beyond dispute is the speed with which they spread. Within three thousand years they held a
 substantial share of a continent.
 
-Close to six centuries after they appeared, Grukar destroyed [[lore-khazarturn|Khazártúrn]]—and this is the
+Close to six centuries after they appeared, Grukar destroyed [[lore-khazarturn|Khazartúrn]]—and this is the
 most misunderstood fact about them. They did not do it and could not have: **Ahks do not cooperate**,
 which is the constraint that has always kept the Grukar a frontier nuisance rather than a conquest. A
-[[lore-flksinale|Sinalë]] outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of
+[[lore-flksinale|Sinale]] outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of
 thousands of them from their spawners and used them as a weapon. The tribes so emptied did not
 recover; an Ahk cannot follow its own spawn, and does not stop existing afterward.
 
-The [[lore-flkkhazar|Khazári]] know this, have it written down, and kill Grukar on sight regardless.
+The [[lore-flkkhazar|Khazari]] know this, have it written down, and kill Grukar on sight regardless.
 
 ## Biology and Reproduction
 

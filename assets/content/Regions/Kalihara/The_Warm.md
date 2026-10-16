@@ -3,7 +3,7 @@ shortcode: sulvaan
 name: {full: The Warm, aliases: ["Sul'vaan"]}
 type: place
 subType: structure
-description: "The great work of the Ithári on the summit of Kalihara's Massif, warm to the hand in every season and faintly lit after dark, which the custodians hold keeps the mountains of the Ring asleep."
+description: "The great work of the Ithari on the summit of Kalihara's Massif, warm to the hand in every season and faintly lit after dark, which the custodians hold keeps the mountains of the Ring asleep."
 tags: [ithari-work, sacred, mountain, inland]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Warm stands on the summit of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], above the sanctuary of [[place-veshvaan|Veshvaan]] on its shoulder. It is the greatest of the works the [[lore-theithari|Ithári]] left on [[place-klhrcntnnt|Kalihara]]: one body of [[lore-itharisul|ithári'sul]], gray and seamless like every work, warm to the hand in every season and faintly lit after dark. The custodians call it _sul'vaan_ (stone of the whole).
+The Warm stands on the summit of [[place-klhrmassif|the Massif]], the mount in the middle of [[place-klhrlake|the Bowl Lake]], above the sanctuary of [[place-veshvaan|Veshvaan]] on its shoulder. It is the greatest of the works the [[lore-theithari|Ithari]] left on [[place-klhrcntnnt|Kalihara]]: one body of [[lore-itharisul|ithasul]], gray and seamless like every work, warm to the hand in every season and faintly lit after dark. The custodians call it _sul'vaan_ (stone of the whole).
 
 ## What It Does
 
@@ -24,7 +24,7 @@ The custodians hold that the Warm keeps the mountains of [[place-klhrring|the Ri
 
 ## The Holding
 
-The summit is the custodians' ground, and the sílhari'kaan alone tend the Warm. The lineage Marivoel holds the Massif and its shores below, keeps the landings and the boats, and carries the custodians across the lake.
+The summit is the custodians' ground, and the silkan alone tend the Warm. The lineage Marivoel holds the Massif and its shores below, keeps the landings and the boats, and carries the custodians across the lake.
 
 ## The Failing
 
@@ -38,13 +38,13 @@ From the summit the whole of [[place-klhrbowl|the Bowl]] lies below: the lake on
 
 ## The Cost of Reaching It
 
-The summit lies above Veshvaan, and Veshvaan is reached only by water, half a day in the Marivoel's boats, and only by the custodians' leave. The climb from the sanctuary to the summit is the sílhari'kaan's, and no foreigner has seen the Warm.
+The summit lies above Veshvaan, and Veshvaan is reached only by water, half a day in the Marivoel's boats, and only by the custodians' leave. The climb from the sanctuary to the summit is the silkan's, and no foreigner has seen the Warm.
 
 ## See Also
 
 - [[place-klhrmassif|The Massif]]—the mount the Warm stands on
 - [[place-veshvaan|Veshvaan]]—the sanctuary on the Massif's shoulder, whose archive holds the oldest account of the Warm
 - [[place-klhrring|The Ring]]—the mountains the custodians hold the Warm keeps asleep
-- [[lore-itharisul|Ithári'sul]]—the substance of the works, and the states a work passes through
+- [[lore-itharisul|Ithasul]]—the substance of the works, and the states a work passes through
 - [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]—which sanctuary tends which work
 - [[affiliation-tharivaan|Thári'vaan]]—the custodians, their ranks and the Bearer of the Crisis

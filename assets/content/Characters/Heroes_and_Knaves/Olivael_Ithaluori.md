@@ -436,9 +436,9 @@ Olivael was born in [[place-ilovanu|Ilovanu]], the principal port of [[affiliati
 
 ### The Pilots' Observatory
 
-At fifteen she ran away to [[place-telvari|Telvári]], the pilots' islet off the eastern approaches, where the pilots keep an observatory to reckon tides, currents and the stars they steer by. Its keeper was an old scholar the port called **Olitelinei**, the star-reckoner, who had come out from the west half a lifetime before and never gone home. He took her in, and for twelve years she lived on the islet, learning the practical astronomy of navigation and timekeeping by day and, by night, the art he valued more: astrology, the conviction that the heavens move the affairs of people as surely as the moon moves the tide.
+At fifteen she ran away to [[place-telvari|Telvari]], the pilots' islet off the eastern approaches, where the pilots keep an observatory to reckon tides, currents and the stars they steer by. Its keeper was an old scholar the port called **Olitelinei**, the star-reckoner, who had come out from the west half a lifetime before and never gone home. He took her in, and for twelve years she lived on the islet, learning the practical astronomy of navigation and timekeeping by day and, by night, the art he valued more: astrology, the conviction that the heavens move the affairs of people as surely as the moon moves the tide.
 
-Where other astrologers memorized the traditional correspondences, Olivael understood the mechanics of the heavens by instinct and reasoned from them to their meanings. When Olitelinei died she was twenty-seven, and her name had already crossed the water. Foreign factors had their voyages charted by her, merchant houses timed their contracts by her, and the [[affiliation-panepistmm|Plûmepistémion]], the scholarly federation of western Ankaris, offered her membership by letter.
+Where other astrologers memorized the traditional correspondences, Olivael understood the mechanics of the heavens by instinct and reasoned from them to their meanings. When Olitelinei died she was twenty-seven, and her name had already crossed the water. Foreign factors had their voyages charted by her, merchant houses timed their contracts by her, and the [[affiliation-panepistmm|Epistémion]], the scholarly federation of western Ankaris, offered her membership by letter.
 
 ### Present Circumstances
 
@@ -483,21 +483,21 @@ Lately a darker motive has grown beside that one: the fear that something has go
 ### Patrons
 
 - **The Kubasari**: the eldest of the three merchant families of the [[affiliation-housefactors|House of Factors]], which has consulted Olivael before every great venture for thirty years and paid her well. Its present head, whom the port calls **Lord Mahitua**, presides at the House as Eldest Factor and counts her essential to his plans, and she thinks most of his plans foolish.
-- **The Council of the Plûmepistémion**: Olivael's relations with the federation's leadership are uneasy, but several senior scholars are devoted to her work and send her money, rare texts and instruments across the water.
-- **The Telvári observatory**: the pilots keep a chamber for her in the observatory where she studied, with the best instruments on the island and the quiet her work needs.
-- [[affiliation-brazemas|Faith of Brâzêmâs]]: the priests of the storm god's temple in Ilovanu's foreign quarter, who count her readings of the sky a help to their own and support her with money and counsel.
+- **The Council of the Epistémion**: Olivael's relations with the federation's leadership are uneasy, but several senior scholars are devoted to her work and send her money, rare texts and instruments across the water.
+- **The Telvari observatory**: the pilots keep a chamber for her in the observatory where she studied, with the best instruments on the island and the quiet her work needs.
+- [[affiliation-brazemas|Faith of Brazemas]]: the priests of the storm god's temple in Ilovanu's foreign quarter, who count her readings of the sky a help to their own and support her with money and counsel.
 
 ### Enemies
 
-- **Yalonei**: a rival astrologer of the foreign quarter, whom the port calls the gainsayer, who has spent twenty years trying to prove her predictions are luck, coincidence and careful vagueness. He has discredited a few of her failed predictions and is working to have her expelled from the Plûmepistémion (the Academy of Knowledge).
-- **The Ozeli of the quarter**: priests of [[affiliation-zunelas|Zûnêlâs]] in the foreign quarter's Aurèldían temple, who hold that what is to come is shown only in the goddess's dreams, so that reading it in the stars is impiety, and who campaign to have her work suppressed.
+- **Yalonei**: a rival astrologer of the foreign quarter, whom the port calls the gainsayer, who has spent twenty years trying to prove her predictions are luck, coincidence and careful vagueness. He has discredited a few of her failed predictions and is working to have her expelled from the Epistémion (the Academy of Knowledge).
+- **The Ozeli of the quarter**: priests of [[affiliation-zunelas|Zunelas]] in the foreign quarter's Aureldian temple, who hold that what is to come is shown only in the goddess's dreams, so that reading it in the stars is impiety, and who campaign to have her work suppressed.
 - **The ruined merchant**: a foreign merchant whom she warned against a venture thirty years ago. He went ahead and lost everything exactly as she foretold, and he has concluded that she caused the loss by sorcery. He is obsessed with having her brought before the harbor-wardens as a witch.
 
 ### Affiliations
 
 - [[affiliation-kalihara|Kalihara]]: she holds an islander's standing among the port Kaliharans, as a master of the reckoning the pilots depend on.
-- [[affiliation-brazemas|Faith of Brâzêmâs]]: not ordained, she serves the storm god's priests as an advisor on the heavens, and keeps the faith herself.
-- [[affiliation-panepistmm|Plûmepistémion]]: a senior member by correspondence, at odds with some of its factions.
+- [[affiliation-brazemas|Faith of Brazemas]]: not ordained, she serves the storm god's priests as an advisor on the heavens, and keeps the faith herself.
+- [[affiliation-panepistmm|Epistémion]]: a senior member by correspondence, at odds with some of its factions.
 
 ## Plot Hooks
 

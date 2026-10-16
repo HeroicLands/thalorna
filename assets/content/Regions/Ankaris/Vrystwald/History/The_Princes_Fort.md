@@ -1,6 +1,6 @@
 ---
 shortcode: princesfort
-name: {full: The Prince's Fort, aliases: [Theódburg, The Shared Fort]}
+name: {full: The Prince's Fort, aliases: [Theodburg, The Shared Fort]}
 type: lore
 subType: history
 description: "About 590 AF a Velanthian river-prince raised a fort on the Thornwald frontier for his soldiers and the Varokh war-bands to hold together against the Grukar; within a generation he asked tribute for it, Thornhaven's Other Chief refused to witness the bargain, the war-bands walked out, and the fort was left half-burned."
@@ -17,7 +17,7 @@ data:
       stated: {calendar: wintertally, text: "251 SR"}
       sources: [place-thornwald, place-thornhaven, place-velanthrgn, place-grkrhlmrgn]
       summary: >-
-        A Velanthian river-prince offers the frontier villages of Thornwald a shared fort against the Grukar, Theódburg, with his soldiers and their war-bands under one roof. Within a generation he asks tribute to keep it. Hródara yra Vandwald wur Thornhaven, its Other Chief, refuses to witness the bargain, the war-bands walk out, and the prince, who cannot hold the fort alone, abandons it half-burned.
+        A Velanthian river-prince offers the frontier villages of Thornwald a shared fort against the Grukar, Theodburg, with his soldiers and their war-bands under one roof. Within a generation he asks tribute to keep it. Hródara yra Vandwald wur Thornhaven, its Other Chief, refuses to witness the bargain, the war-bands walk out, and the prince, who cannot hold the fort alone, abandons it half-burned.
       standing: attested
       names: [{name: the Prince's Fort, by: lore-varokhiclt}]
       where:
@@ -42,7 +42,7 @@ The **Prince's Fort** is the reason a Velanthian agent at [[place-thornhaven|Tho
 
 ## The Shared Fort
 
-The [[place-velanthrgn|Velanthian]] frontier is the most permeable border the forest has: the families of [[place-thornwald|Thornwald]] and the river-folk beyond it have traded and married across it for generations, and the princes find the frontier tribes useful auxiliaries and unreliable subjects in about equal measure. About 590 one river-prince tried to make them less unreliable. Grukar raids out of the north-east were troubling his grain villages and the Varokh clearings alike, and he offered the frontier villages a fort to hold together: his soldiers and their war-bands under one roof, his stone and their timber, at a crossing both sides used. They built it, and called it **Theódburg**, the folk's stronghold, because it belonged to both.
+The [[place-velanthrgn|Velanthian]] frontier is the most permeable border the forest has: the families of [[place-thornwald|Thornwald]] and the river-folk beyond it have traded and married across it for generations, and the princes find the frontier tribes useful auxiliaries and unreliable subjects in about equal measure. About 590 one river-prince tried to make them less unreliable. Grukar raids out of the north-east were troubling his grain villages and the Varokh clearings alike, and he offered the frontier villages a fort to hold together: his soldiers and their war-bands under one roof, his stone and their timber, at a crossing both sides used. They built it, and called it **Theodburg**, the folk's stronghold, because it belonged to both.
 
 For a generation it worked. The Grukar raids along that stretch of the frontier fell off, the war-bands rotated through the fort by the season, and a Varokh warrior who had never left the forest learned enough of the river-folk's speech to be insulted in it.
 
@@ -52,9 +52,9 @@ The prince's son asked the villages for tribute to keep the fort: a tithe of fur
 
 ## What It Left
 
-- **Theódburg.** A half-burned timber fort on the Thornwald frontier with a stone gatehouse still standing, watched by Velanthian agents, Varokh scouts and the Grukar. A prince's heir wants it back, with Varokh war-bands in it, and has begun asking which village would send them.
+- **Theodburg.** A half-burned timber fort on the Thornwald frontier with a stone gatehouse still standing, watched by Velanthian agents, Varokh scouts and the Grukar. A prince's heir wants it back, with Varokh war-bands in it, and has begun asking which village would send them.
 - **Thornhaven's War Chief.** After Hródara, the princes' agents stopped asking the Other Chief for anything and went to the seat that was armed and awake. Thornhaven's War Chief has treated with outsiders ever since, and its Other Chief has had less to say to the world than any Other Chief in the forest.
-- **The season and the oath.** Varokh war-bands still hire out to Velanthian princes, by the season and for pay, and never by an oath to the prince; a captain who asks for the oath is told about Theódburg.
+- **The season and the oath.** Varokh war-bands still hire out to Velanthian princes, by the season and for pay, and never by an oath to the prince; a captain who asks for the oath is told about Theodburg.
 
 ## See Also
 

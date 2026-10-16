@@ -7,7 +7,7 @@ description: "The central sacred mountain range of Élavendre—heart of Áelend
 tags: [mountain, sacred]
 data: {demonym: null, lore: [], parents: [alndntrblnds], population: null, packFolder: elavendre}
 
-# terran_analog: "The Swiss Alps and adjacent Savoyard Alpine massifs—the great Pelwar-sacred high country of the Élavendren interior, distinct from the contested Cervaron Spine that forms the Vylarian frontier further east."
+# terran_analog: "The Swiss Alps and adjacent Savoyard Alpine massifs—the great Pelwar-sacred high country of the Élavendren interior, distinct from the contested Kervaron Spine that forms the Vylarian frontier further east."
 ---
 
 - **Type:** Sacred mountain range
@@ -19,7 +19,7 @@ data: {demonym: null, lore: [], parents: [alndntrblnds], population: null, packF
 
 The **Drenavar Spine** is the central sacred mountain range of [[place-elavendre|Élavendre]], lying in the interior of the kingdom beyond the settled farmlands and accessible foothills. It is the heart of [[lore-aelendnppl|Áelendan]] territory—the land in which the Kindred Pact is most deeply rooted and in which the greatest concentration of sacred sites is found. The [[affiliation-alndnwrdns|Áelendan Wardens]] maintain their heaviest presence here, and the crown of Élavendre recognizes Áelendan sovereignty over the mountains by ancient law.
 
-The Drenavar is part of a larger Áelendan sacred mountain country that extends east into the [[place-vylariargn#the-cervaron-spine|Cervaron Spine]]—the contested Vylarian frontier range—and south into the [[place-toravarrange|Toravar Range]] that runs along the northern Tarvénan border. To Áelendan reckoning these are not three separate ranges but a single continuous sacred uplift, the high spine of the western world. The Drenavar is the heart; the Cervaron and Toravar are its eastern and southern arms. Outsiders distinguish them; the Áelendan distinguish them only when speaking to outsiders.
+The Drenavar is part of a larger Áelendan sacred mountain country that extends east into the [[place-vylariargn#the-cervaron-spine|Kervaron Spine]]—the contested Vylarian frontier range—and south into the [[place-toravarrange|Toravar Range]] that runs along the northern Tarvenan border. To Áelendan reckoning these are not three separate ranges but a single continuous sacred uplift, the high spine of the western world. The Drenavar is the heart; the Kervaron and Toravar are its eastern and southern arms. Outsiders distinguish them; the Áelendan distinguish them only when speaking to outsiders.
 
 ## Geography
 
@@ -45,7 +45,7 @@ The [[place-silvrfrsts|Silver Forests]] lie at the edge of the Drenavar range, i
 
 Access to the Drenavar is governed by Áelendan custom and enforced by the Wardens. The lower approaches—the foothills and the outer valleys—are open to lowland travelers who behave respectfully, and Áelendan communities at the edge of their territory engage in limited trade and occasional hospitality with visitors. The deeper mountains are sacred territory, and entry requires Áelendan invitation or clear sanction from a tribal elder.
 
-Trespassers who venture into sacred territory are warned once and escorted out. Those who persist, who return uninvited, or who desecrate a site are dealt with according to the Wardens' graduated doctrine of response (see [[affiliation-alndnwrdns|Áelendan Wardens]]). In recent decades, [[affiliation-ordoarcanis|Thôrdimâlon]] agents have increasingly attempted to conduct clandestine research in the Drenavar range, with consequences that have become the subject of considerable private frustration within the Arcane Order.
+Trespassers who venture into sacred territory are warned once and escorted out. Those who persist, who return uninvited, or who desecrate a site are dealt with according to the Wardens' graduated doctrine of response (see [[affiliation-alndnwrdns|Áelendan Wardens]]). In recent decades, [[affiliation-ordoarcanis|Thordimalon]] agents have increasingly attempted to conduct clandestine research in the Drenavar range, with consequences that have become the subject of considerable private frustration within the Arcane Order.
 
 ## Relations with the Crown
 
@@ -58,5 +58,5 @@ The crown of Élavendre has recognized Áelendan sovereignty over the Drenavar S
 - [[place-eshalshldg|Ésalosa Lodge]]—The principal Áelendan settlement
 - [[place-silvrfrsts|The Silver Forests]]—The fae-touched woodland at the mountains' edge
 - [[place-elavendre|Élavendre]]—The kingdom whose interior contains the Drenavar
-- [[place-vylariargn#the-cervaron-spine|The Cervaron Spine]]—The contested eastern arm of the same Áelendan sacred uplift
+- [[place-vylariargn#the-cervaron-spine|The Kervaron Spine]]—The contested eastern arm of the same Áelendan sacred uplift
 - [[place-graznmntns|The Grazian Mountains]]—A separate, far-eastern range between Vedyara and Khazryn (no relation to the Drenavar despite occasional Tellumi folk-confusion)

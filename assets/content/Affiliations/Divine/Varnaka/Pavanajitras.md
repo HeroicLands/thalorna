@@ -14,18 +14,18 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the road itself, honored by gesture at every crossroads and waterway rather than at any fixed household shrine, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnuka ordains into a sampradeya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to the road itself, honored by gesture at every crossroads and waterway rather than at any fixed household shrine, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
-        title: Patita
+        title: Patuta
         description: >-
-          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradāya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
+          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradeya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
       - level: 1
-        title: Upāsaka
+        title: Upasoka
         description: >-
           The lay devotee, keeping the household observance of the road itself, honored by gesture at every crossroads and waterway rather than at any fixed household shrine. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2
-        title: Vratin
+        title: Vretin
         lore: vowdevoteernk
         description: >-
           "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
@@ -49,11 +49,11 @@ sohl: {system: {commonSkills: [pavanajitras, sohl-sohl-skill-srvl, sohl-sohl-ski
 - **Domain:** Travel, trade routes, favorable winds, the safety of the road and the sea-lane
 - **Symbol:** A wind-filled sail
 - **Pronunciation:** _PAH-vah-nah-jee-trahs_
-- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "A coin if you have one, a pinch of millet if you do not, and a scrap of cloth on the tree if you have neither." The keeper of a crossroads shrine says it to a carter who has pulled up only to ask the way. The [[lore-pvnjtrsdty|Pavanajitras]] are the **Wandering Wind**, a company of minor wind-spirits who guide travelers, carry merchant-ships before favorable gales and whisper the road's omens to those who have learned to listen.
 
-They are not gods in the full sense. They stand between the celestial deities of the Varnaka and the local spirits of the land, and the Varnaka revere them as exactly that. Their cult is wherever travelers meet: the crossroads shrine, the caravanserai altar, and the small chapels at harbor-mouths and at the passes of the high roads. The devotion is simple, widely observed and enormously popular. Few Vedyarans undertake a long journey without leaving a coin or a pinch of millet at a Pavanajitran shrine, and fewer still arrive safely without leaving one at the other end.
+They are not gods in the full sense. They stand between the celestial deities of the Varnuka and the local spirits of the land, and the Varnuka revere them as exactly that. Their cult is wherever travelers meet: the crossroads shrine, the caravanserai altar, and the small chapels at harbor-mouths and at the passes of the high roads. The devotion is simple, widely observed and enormously popular. Few Vedyarans undertake a long journey without leaving a coin or a pinch of millet at a Pavanajitran shrine, and fewer still arrive safely without leaving one at the other end.
 
 ### What You See at Their Shrines
 
@@ -72,5 +72,5 @@ The Pavanajitras are honored everywhere by gesture and at no fixed household shr
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varnaka Pantheon]]
+- [[affiliation-varakpnthn|Varnuka Pantheon]]
 - [[lore-pvnjtrsdty|Pavanajitras]]—the company, and where it sits between god and spirit

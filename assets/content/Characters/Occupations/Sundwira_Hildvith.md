@@ -1,6 +1,6 @@
 ---
 shortcode: sndwrhldvth
-name: {full: Sundwíra yra Hildvith wur Frithhaven, aliases: []}
+name: {full: Sundwira yra Hildvith wur Frithhaven, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Sundwíra yra Hildvith wur Frithhaven is a 26-year-old woman who stands 5'9" tall and is of moderate build. She has a long face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set gray eyes sit beneath thick brows, lending her an open gaze. A strong nose and curved lips complete her features. She has light skin with a ruddy complexion. Her brown hair is plaited in a single thick braid.
+Sundwira yra Hildvith wur Frithhaven is a 26-year-old woman who stands 5'9" tall and is of moderate build. She has a long face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set gray eyes sit beneath thick brows, lending her an open gaze. A strong nose and curved lips complete her features. She has light skin with a ruddy complexion. Her brown hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Sundwíra came into the world of the ostler through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Sundwira came into the world of the ostler through a combination of circumstance and aptitude.
 
-Sundwíra has worked as an ostler for many years, focusing on the health and well-being of horses. She is known for her ability to identify problems early, ensuring that horses remain in peak condition. Sundwíra often assists travelers in saddling their horses and provides advice on care and feeding. Her reputation for excellence has earned her the trust of both locals and visiting merchants.
+Sundwira has worked as an ostler for many years, focusing on the health and well-being of horses. She is known for her ability to identify problems early, ensuring that horses remain in peak condition. Sundwira often assists travelers in saddling their horses and provides advice on care and feeding. Her reputation for excellence has earned her the trust of both locals and visiting merchants.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ Can be stubborn, struggles with authority figures.
 
 ### Motivation
 
-Sundwíra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in ostler work keep her vigilant and adaptable.
+Sundwira is driven by the desire to master her craft and secure a stable future. The uncertainties of life in ostler work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ Knowledgeable about horse health, attentive, good at problem-solving.
 
 ## Social
 
-Sundwíra keeps the stable at [[place-frithhaven|Frithhaven]]'s landing, where Velanthian traders and Varokh boat crews leave their horses while the truce at the water holds. She makes each bargain herself and trains younger hands at the stable.
+Sundwira keeps the stable at [[place-frithhaven|Frithhaven]]'s landing, where Velanthian traders and Varokh boat crews leave their horses while the truce at the water holds. She makes each bargain herself and trains younger hands at the stable.
 
 ## Companions
 
 ### Patrons
 
-Traders of both sides of the frontier pay Sundwíra for stabling, feed and advice, and Frithhaven's Other Chief counts on her to notice a horse that has come too far too fast.
+Traders of both sides of the frontier pay Sundwira for stabling, feed and advice, and Frithhaven's Other Chief counts on her to notice a horse that has come too far too fast.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Few; respected by the community.
 
 ## Plot Hooks
 
-1. **The Ostler's Dilemma**—Sundwíra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
+1. **The Ostler's Dilemma**—Sundwira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vristwald.
 
 2. **Old Grudges**—Few; respected by the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Sundwíra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Sundwira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Sundwíra depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Sundwira depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Sundwíra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Sundwira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

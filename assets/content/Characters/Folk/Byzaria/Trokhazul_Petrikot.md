@@ -1,9 +1,9 @@
 ---
 shortcode: trokhazulpet
-name: {full: Trokhazul Petríkot, aliases: [Father Trokhazul Petríkot]}
+name: {full: Trokhazul Petrikot, aliases: [Father Trokhazul Petrikot]}
 type: being
 subType: npc
-description: The head priest, who shares Kûmêthâra Pissákit's conservation philosophy.
+description: The head priest, who shares Kumethara Pissakit's conservation philosophy.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Trokhazul Petríkot is a 62-year-old man who stands 5'11" tall with a medium build. He has light skin, weathered complexion, brown hair, and hazel eyes.
+Trokhazul Petrikot is a 62-year-old man who stands 5'11" tall with a medium build. He has light skin, weathered complexion, brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Trokhazul Petríkot is the head priest of a religious community in the forest. He shares the conservation philosophy of [[being-kmthrpsskt|Kûmêthâra Pissákit]], whom the community employs to manage its woodlands sustainably.
+Trokhazul Petrikot is the head priest of a religious community in the forest. He shares the conservation philosophy of [[being-kmthrpsskt|Kumethara Pissakit]], whom the community employs to manage its woodlands sustainably.

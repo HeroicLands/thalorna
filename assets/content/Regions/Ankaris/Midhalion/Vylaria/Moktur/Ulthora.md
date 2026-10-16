@@ -1,6 +1,6 @@
 ---
 shortcode: sanctara
-name: {full: Ulthôra, aliases: []}
+name: {full: Ulthora, aliases: []}
 type: place
 subType: settlement
 description: "Temple Town"
@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Most of Moktur's towns are garrisons, mines or timber camps. Ulthôra is a temple town, about two thousand people among the heights of [[place-moktur|Moktur]], the mountainous northern shield of the [[affiliation-vylarinmpr|Vylarian Empire]], a land of mines, timber and fortified valleys on the Vrystwald march.
+Most of Moktur's towns are garrisons, mines or timber camps. Ulthora is a temple town, about two thousand people among the heights of [[place-moktur|Moktur]], the mountainous northern shield of the [[affiliation-vylarinmpr|Vylarian Empire]], a land of mines, timber and fortified valleys on the Vristwald march.
 
-A watchtower sergeant on the high road, asked which of the province's towns he would choose to be posted to, names Ulthôra without hesitating. Everything else on his list is a place to hold or a place to dig, and Ulthôra is the one where a soldier's work is not the first thing anyone thinks of.
+A watchtower sergeant on the high road, asked which of the province's towns he would choose to be posted to, names Ulthora without hesitating. Everything else on his list is a place to hold or a place to dig, and Ulthora is the one where a soldier's work is not the first thing anyone thinks of.
 
 ## See Also
 

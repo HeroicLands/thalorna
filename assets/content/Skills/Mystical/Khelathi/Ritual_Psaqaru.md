@@ -1,6 +1,6 @@
 ---
 shortcode: ritualpsaqar
-name: {full: "Ritual: Psaq'âru", aliases: []}
+name: {full: "Ritual: Saq'aru", aliases: []}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-psaqaru|Faith of Psaq'âru]]
+See [[affiliation-psaqaru|Faith of Saq'aru]]

@@ -2,10 +2,10 @@
 shortcode: twelfthloss
 name:
   full: The Loss of the Twelfth
-  aliases: [The Doran Hilvan's Last Winter, The Cervaron Campaign]
+  aliases: [The Doran Hilvan's Last Winter, The Kervaron Campaign]
 type: lore
 subType: history
-description: "About 680 AF a regent's council sends the Doran Hilvan into the Cervaron to enforce the boundary stones on the Áelendan clans; the clans let the legion climb, close the passes behind it and wait for the snow, and the legion is struck from the rolls as destroyed with its eagle unreturned."
+description: "About 680 AF a regent's council sends the Doran Hilvan into the Kervaron to enforce the boundary stones on the Áelendan clans; the clans let the legion climb, close the passes behind it and wait for the snow, and the legion is struck from the rolls as destroyed with its eagle unreturned."
 tags: [history, vylaria, thecore]
 data:
   packFolder: vylaria
@@ -23,7 +23,7 @@ data:
         - place-alndntrblnds
         - place-twelfthcamp
       summary: >-
-        A regent's council sends the Doran Hilvan into the Cervaron to enforce the boundary stones on the clans. The Áelendan let it climb, close the passes behind it and wait for the snow. The legion is disbanded on the record as destroyed, and its eagle is never returned.
+        A regent's council sends the Doran Hilvan into the Kervaron to enforce the boundary stones on the clans. The Áelendan let it climb, close the passes behind it and wait for the snow. The legion is disbanded on the record as destroyed, and its eagle is never returned.
       standing: attested
       names:
         - {name: the Loss of the Twelfth, by: affiliation-vylrnmltry}
@@ -59,7 +59,7 @@ data:
       accounts:
         - by: affiliation-vylrnmltry
           says: >-
-            The Doran Hilvan was destroyed in a campaign in the Cervaron, and its eagle is lost.
+            The Doran Hilvan was destroyed in a campaign in the Kervaron, and its eagle is lost.
           agrees: partly
           withholds: that the legion was never beaten in the field
         - by: place-alndntrblnds
@@ -70,11 +70,11 @@ data:
       unresolved: [who raised the Twelfth's dead, where the Twelfth's eagle lies]
 ---
 
-A mule-train master at the first camp below a Cervaron pass, accepting the passage-gift from a factor's steward, checks the weight of the bag and does not count it. "The Twelfth is why," he says, if he is asked why the gift is never haggled. "Before it, the Senate sent men up to read the stones to us. After it, the Senate sent grain merchants, and we let them through."
+A mule-train master at the first camp below a Kervaron pass, accepting the passage-gift from a factor's steward, checks the weight of the bag and does not count it. "The Twelfth is why," he says, if he is asked why the gift is never haggled. "Before it, the Senate sent men up to read the stones to us. After it, the Senate sent grain merchants, and we let them through."
 
 ## A Council Tries the Range
 
-The chancery had said nothing to the clans of the Cervaron since the Settlement of the Crowns ([[lore-crownssettle|The Settlement of the Crowns]]). The boundary-stones the western expeditions had planted at the passes stood where the western expeditions had set them ([[lore-westernwars|The Western Wars]]), and the clans treated them as ritual objects of obscure meaning.
+The chancery had said nothing to the clans of the Kervaron since the Settlement of the Crowns ([[lore-crownssettle|The Settlement of the Crowns]]). The boundary-stones the western expeditions had planted at the passes stood where the western expeditions had set them ([[lore-westernwars|The Western Wars]]), and the clans treated them as ritual objects of obscure meaning.
 
 About 680, under a regency, the regent's council wanted a victory it could show the Senate. It chose the one boundary the Empire claimed and had never held, and it sent the Doran Hilvan to read the stones to the clans. The chancery was not asked. The legion marched in the thaw.
 
@@ -82,7 +82,7 @@ About 680, under a regency, the regent's council wanted a victory it could show 
 
 The Áelendan had met such columns before. They let the Twelfth climb deep into the range, as they had let the columns of the western wars, and they closed the passes behind it. They did not give battle. The legion left its rear cohorts in a fort it built at the foot of the passes and took the rest up through the summer, and it ran out of road when the snow came.
 
-The record the army keeps says the Twelfth was destroyed. The cohorts in the fort wintered there, and what became of them is not in any report ([[place-twelfthcamp|The Twelfth's Last Camp]]). The eagle never came back. The army struck the legion from the rolls, as the manual requires of a legion that loses its _ôrkhaimâ_, and the families whose sons were cashiered in the disbanding have not forgotten it.
+The record the army keeps says the Twelfth was destroyed. The cohorts in the fort wintered there, and what became of them is not in any report ([[place-twelfthcamp|The Twelfth's Last Camp]]). The eagle never came back. The army struck the legion from the rolls, as the manual requires of a legion that loses its _orkaima_, and the families whose sons were cashiered in the disbanding have not forgotten it.
 
 ## What It Left
 
@@ -95,5 +95,5 @@ The record the army keeps says the Twelfth was destroyed. The cohorts in the for
 - [[lore-westernwars|The Western Wars]]—the stones the Twelfth was sent to enforce
 - [[lore-crownssettle|The Settlement of the Crowns]]—the silence the regency broke
 - [[place-twelfthcamp|The Twelfth's Last Camp]]—the fort below the passes
-- [[place-vylariargn|Vylaría Region]]—the Cervaron Spine and its passage-gifts
+- [[place-vylariargn|Vylaria Region]]—the Kervaron Spine and its passage-gifts
 - [[place-alndntrblnds|Áelendan Tribal Lands]]—the clans who hold the range

@@ -278,7 +278,7 @@ The storm comes across the altiplano like a wall, black underneath and white whe
 
 # Dossier {#dossier}
 
-The Thunderhorn is a dreadspawn of storm and bulk: a horned beast fifteen to twenty-two feet long and ten to fourteen feet high, built like a buffalo or a rhinoceros, whose body carries a charge like a thundercloud. It gores and tramples with lightning crawling on its horns, throws shocks that scorch, feeds, as far as anyone can tell, on the lightning of storms, and grows stronger in them. It claims miles of open high country. One ranges the altiplano of [[place-kuxiixbalrgn|K'uxi Ix'bal]], the high, cold grassland at the threshold of Southern K'ich'chik's forsaken wastes, where storms sweep the plateau and the herders follow their flocks. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Thunderhorn is a dreadspawn of storm and bulk: a horned beast fifteen to twenty-two feet long and ten to fourteen feet high, built like a buffalo or a rhinoceros, whose body carries a charge like a thundercloud. It gores and tramples with lightning crawling on its horns, throws shocks that scorch, feeds, as far as anyone can tell, on the lightning of storms, and grows stronger in them. It claims miles of open high country. One ranges the altiplano of [[place-kuxiixbalrgn|K'ushi Ish'bal]], the high, cold grassland at the threshold of Southern K'ich'chik's forsaken wastes, where storms sweep the plateau and the herders follow their flocks. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -286,7 +286,7 @@ The thunderhorn is massive and deep-chested, with a high hump over the shoulders
 
 ## In the Land
 
-The altiplano of K'uxi Ix'bal is an immense high plateau of thin air and cold wind, sparse grass and hardy shrub, broken by isolated highlands and scattered with the outpost-cities of the Itzáni priesthood, and the great herds of the high grazing roam it with the pastoral peoples who tend them. The thunderhorn ranges the most exposed part of the plateau, the open grass and the bare rises where lightning strikes most often, several miles of it, and patrols that ground regularly. It grazes, and it goes out into every storm that crosses its range, and in storms it is fastest and fiercest. Between storms it is sluggish and short-tempered. It does not go down into the sheltered valleys or the gorges.
+The altiplano of K'ushi Ish'bal is an immense high plateau of thin air and cold wind, sparse grass and hardy shrub, broken by isolated highlands and scattered with the outpost-cities of the Itsani priesthood, and the great herds of the high grazing roam it with the pastoral peoples who tend them. The thunderhorn ranges the most exposed part of the plateau, the open grass and the bare rises where lightning strikes most often, several miles of it, and patrols that ground regularly. It grazes, and it goes out into every storm that crosses its range, and in storms it is fastest and fiercest. Between storms it is sluggish and short-tempered. It does not go down into the sheltered valleys or the gorges.
 
 ## Key Behaviors
 
@@ -294,7 +294,7 @@ The thunderhorn is solitary and territorial. It drives every large animal off it
 
 ## What the Herders Do
 
-The pastoral peoples of the plateau move their flocks with the seasons, and they move them off the thunderhorn's ground whenever a storm is coming, down into the sheltered gorges, as fast as they can. They have learned that it cannot follow them below the rim of a gorge, where the ground is wet and the rock is deep. A herder caught in the open by it lies flat in the wet grass, away from his staff and anything metal, and hopes. The priests of the Itzáni outposts, who attribute the cracked stones of the ceremonial roads to the wrath of [[lore-puqilchaqundty|P'uqil Ch'aqun]], master of storms, call the thunderhorn his beast, and they will not let it be hunted; a herder who has lost his flock to it is told that the god has taken his tithe.
+The pastoral peoples of the plateau move their flocks with the seasons, and they move them off the thunderhorn's ground whenever a storm is coming, down into the sheltered gorges, as fast as they can. They have learned that it cannot follow them below the rim of a gorge, where the ground is wet and the rock is deep. A herder caught in the open by it lies flat in the wet grass, away from his staff and anything metal, and hopes. The priests of the Itsani outposts, who attribute the cracked stones of the ceremonial roads to the wrath of [[lore-puqilchaqundty|P'uqil Ch'akun]], master of storms, call the thunderhorn his beast, and they will not let it be hunted; a herder who has lost his flock to it is told that the god has taken his tithe.
 
 ## Signs
 

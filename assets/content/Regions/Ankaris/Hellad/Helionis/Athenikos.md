@@ -14,9 +14,9 @@ data:
     summary: Oligarchy of wealthy patron families.
     ranks:
       - level: 0
-        title: Atimos
+        title: Átimor
         description: >-
-          Stripped of civic honor by the courts: barred from the assembly, the agora and the temples, though still living among those who barred him.
+          Stripped of civic honor by the courts: barred from the assembly, the agorin and the temples, though still living among those who barred him.
       - level: 1
         title: Slave
         description: Owned outright, with no standing before the law except through an owner.
@@ -39,23 +39,23 @@ data:
         description: >-
           Elected or allotted to an office of the city—its markets, its walls, its treasury, its courts—and audited at the end of the year.
       - level: 7
-        title: Strategos
+        title: Strátimor
         description: >-
           Elected to command the city's forces, the one office the citizens elect rather than allot, and re-elect without limit.
       - level: 8
-        title: Archon
+        title: Arsir
         description: >-
           Presiding magistrate of the year, who gives it his name and hands it back—the assembly remains sovereign throughout.
     offices:
-      Archon: >-
+      Arsir: >-
         Presiding magistrate for the year, who gives the year his name and surrenders the office at its end.
-      Strategos: >-
+      Strátimor: >-
         Elected commander of the city's forces by land and sea; the one office held by election and without term limit.
       Councilor: Member of the council that prepares business for the assembly, allotted for a single year.
       Treasurer: >-
         Keeper of the city's revenue and of the sacred treasuries, audited publicly at the end of his term.
-      Agoranomos: Warden of the market—its weights, its coin, its quality and its disputes.
-      Nomophylax: Guardian of the laws, who may halt a decree of the assembly that contradicts them.
+      Agóranir: Warden of the market—its weights, its coin, its quality and its disputes.
+      Nomasfilir: Guardian of the laws, who may halt a decree of the assembly that contradicts them.
       Secretary of the Council: Keeper of the council's record and of the decrees the assembly passes.
       Auditor: >-
         Examiner of every magistrate's accounts at the end of his year, without whose clearance he may not leave the city.
@@ -63,7 +63,7 @@ data:
         Voice of the assembly and of the city abroad, whose person is inviolable even between enemies.
       Ambassador: >-
         Elected to treat with another city or power, and answerable to the assembly for what he agrees.
-      Gymnasiarch: >-
+      Ghimarir: >-
         Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
   seat: athenikos2
   population: 560000
@@ -84,16 +84,16 @@ A magistrate of Athenikos cannot leave the city until the auditor says his accou
 
 ## Who Decides
 
-The patron families hold the city, and they hold it inside the forms the seven city-states share. The assembly of citizens stays sovereign. A council chosen by lot prepares its business and changes every year. The strategos, the one officer the citizens elect, commands the city's forces. The archon presides for a year and lends it his name, so every record in Athenikos is dated by whoever held the office.
+The patron families hold the city, and they hold it inside the forms the seven city-states share. The assembly of citizens stays sovereign. A council chosen by lot prepares its business and changes every year. The strátimor, the one officer the citizens elect, commands the city's forces. The arsir presides for a year and lends it his name, so every record in Athenikos is dated by whoever held the office.
 
 ## Standing and Relations
 
-Standing in Athenikos is the Helionite ladder. A citizen by descent votes and serves in the militia, a freedman works and trades without a vote for life, and a metic pays tax and stands the levy as a resident foreigner. Athenikos is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]] and shares the Helonic tongue, its gods and its festivals with the other six city-states, among which it competes in everything else.
+Standing in Athenikos is the Helionite ladder. A citizen by descent votes and serves in the militia, a freedman works and trades without a vote for life, and a metic pays tax and stands the levy as a resident foreigner. Athenikos is aligned with the [[affiliation-arldnpnthn|Aureldian pantheon]] and shares the Helonic tongue, its gods and its festivals with the other six city-states, among which it competes in everything else.
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Heliónis]]—the seven cities and how they are governed
-- [[place-helionis|Heliónis]]—the region
+- [[affiliation-ctysttshlns|City-States of Helionis]]—the seven cities and how they are governed
+- [[place-helionis|Helionis]]—the region
 - [[place-athenikos2|Athenikos]]—the city itself
-- [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]]—the three leading city-states
-- [[affiliation-theradon|Therádon]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]—the rest of the seven
+- [[affiliation-thyrenae|Thirenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalidria]]—the three leading city-states
+- [[affiliation-theradon|Theradon]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]—the rest of the seven

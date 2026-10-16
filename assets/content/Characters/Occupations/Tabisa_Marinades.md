@@ -1,6 +1,6 @@
 ---
 shortcode: tabismrnds
-name: {full: Tàbîsa Mârinadês, aliases: []}
+name: {full: Tabisa Marinades, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Tàbîsa Mârinadês is a 34-year-old woman who stands 5'9" tall and is of moderate build. She has an angular face with soft cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and wide lips complete her features. She has olive skin with a weathered complexion. Her black hair is gathered in a practical bun.
+Tabisa Marinades is a 34-year-old woman who stands 5'9" tall and is of moderate build. She has an angular face with soft cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and wide lips complete her features. She has olive skin with a weathered complexion. Her black hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Tàbîsa Mârinadês came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Tabisa Marinades came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Tàbîsa is a skilled huscarl who has fought alongside her comrades for years. Serving Lady Nìmaris, she is known for her bravery and determination in battle. Tàbîsa often leads scouting missions to ensure the safety of her lord's territory. While she is respected among her peers, she often faces challenges as a female warrior in a male-dominated field.
+Tabisa is a skilled huscarl who has fought alongside her comrades for years. Serving Lady Nimaris, she is known for her bravery and determination in battle. Tabisa often leads scouting missions to ensure the safety of her lord's territory. While she is respected among her peers, she often faces challenges as a female warrior in a male-dominated field.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Can be overly protective of her comrades, struggles with societal expectations.
 
 ### Motivation
 
-Tàbîsa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in huscarl work keep her vigilant and adaptable.
+Tabisa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in huscarl work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Strong warrior, tactical thinker, skilled in hand-to-hand combat.
 
 ## Social
 
-Tàbîsa is affiliated with Lady Nìmaris's retinue.
+Tabisa is affiliated with Lady Nimaris's retinue.
 
-As a Helionite huscarl, Tàbîsa occupies a recognized social niche within Heliónis society.
+As a Helionite huscarl, Tabisa occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Tàbîsa's primary patron is Lady Nìmaris and her household. This relationship provides both opportunity and obligation.
+Tabisa's primary patron is Lady Nimaris and her household. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Some traditionalists who doubt her abilities.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Tàbîsa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Huscarl's Dilemma**—Tabisa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
 
 2. **Old Grudges**—Some traditionalists who doubt her abilities. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Tàbîsa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Tabisa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Tàbîsa depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Tabisa depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Tàbîsa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Tabisa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

@@ -1,11 +1,11 @@
 ---
 shortcode: hezogezesogi
 name:
-  full: Hezogéze Sogipídek
-  aliases: [Mother Superior Hezogéze Sogipídek, Superior Hezogéze Sogipídek]
+  full: Hezogeze Sogipidek
+  aliases: [Mother Superior Hezogeze Sogipidek, Superior Hezogeze Sogipidek]
 type: being
 subType: npc
-description: Abbess of a local convent dedicated to fertility, growth and mercy, named in Arkhêa Kourkásios.
+description: Abbess of a local convent dedicated to fertility, growth and mercy, named in Arkhea Kourkásios.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Hezogéze Sogipídek is a 58-year-old woman who stands 5'9" tall with a medium build. She has light skin, smooth complexion, dark brown hair, and brown eyes.
+Hezogeze Sogipidek is a 58-year-old woman who stands 5'9" tall with a medium build. She has light skin, smooth complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Hezogéze Sogipídek is the Mother Superior of a local convent of the House of Lîzêlâs, dedicated to fertility, growth and mercy. The note on [[being-arkhekrkss|Arkhêa Kourkásios]] names her.
+Hezogeze Sogipidek is the Mother Superior of a local convent of the House of Lizelas, dedicated to fertility, growth and mercy. The note on [[being-arkhekrkss|Arkhea Kourkásios]] names her.

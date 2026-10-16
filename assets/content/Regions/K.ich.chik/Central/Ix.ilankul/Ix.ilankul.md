@@ -1,6 +1,6 @@
 ---
 shortcode: ixilankul
-name: {full: Ix'ilankul, aliases: []}
+name: {full: Ish'ilankul, aliases: []}
 type: affiliation
 subType: polity
 description: Paramount realm and beating heart of K'ich'chik civilization—a plateau of pyramid-temples, mathematics, and blood-priesthood.
@@ -40,28 +40,28 @@ data:
           Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Tz'enmah's court.
+        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the Tz'enmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
       - level: 8
-        title: Tz'enmah
+        title: Ts'enmah
         description: >-
           Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
     offices:
-      Tz'enmah: >-
+      Ts'enmah: >-
         Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ix'kanmah: >-
+      Ish'kanmah: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
       Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
       K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Tz'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
+      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
       P'ilambal: >-
         Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Xok'almah: War-leader appointed for a campaign, and set aside when it ends.
+      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
       Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umtz'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
       P'ik'ulmah: >-
         Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
       Ballcourt Keeper: >-
@@ -75,33 +75,33 @@ data:
   packFolder: ixilankul
 sohl: {system: {commonSkills: []}}
 
-# terran_analog: Central Mexico; Ix'ilankul (ix'ilan star + -kul seat, "Seat of the Stars") is kept clear of the Maya site Balamkú and of the near-identical form Balamkul
-# terran_analog: the ranks and offices are the Classic Maya court: Tz'enmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, Tz'enbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: Central Mexico; Ish'ilankul (ish'ilan star + -kul seat, "Seat of the Stars") is kept clear of the Maya site Balamkú and of the near-identical form Balamkul
+# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
 ---
 
 ## Overview
 
-Ix'ilankul (the Seat of the Stars) is the paramount realm of [[place-kchchkcntnnt|K'ich'chik]] civilization—the beating heart from which all other regions draw their spiritual and political authority. The land it holds is [[place-ixilankulrgn|Ix'ilankul Region]].
+Ish'ilankul (the Seat of the Stars) is the paramount realm of [[place-kchchkcntnnt|K'ich'chik]] civilization—the beating heart from which all other regions draw their spiritual and political authority. The land it holds is [[place-ixilankulrgn|Ish'ilankul Region]].
 
-The dominance of Ix'ilankul rests not merely on religious authority but on political and military might. Here, the greatest Tz'enmah (Sun Lords) command the largest tribute networks, ruling sprawling city-states that combine monumental architecture with sophisticated water management and agricultural innovation.
+The dominance of Ish'ilankul rests not merely on religious authority but on political and military might. Here, the greatest Ts'enmah (Sun Lords) command the largest tribute networks, ruling sprawling city-states that combine monumental architecture with sophisticated water management and agricultural innovation.
 
-Ix'ilankul's influence extends far beyond its borders. Tributary states in [[affiliation-kankul|K'ankul]], [[affiliation-neokbaate|Ne'ok Ba'ate]], and [[affiliation-xelem|Xelem]] pay homage and send young nobles to the great temples for ritual training and priestly initiation. Merchant caravans radiating from Ix'ilankul's markets carry obsidian, cacao, and sacred textiles to every corner of the known world. To be Ix'ilankul-born is to carry the weight of divine destiny.
+Ish'ilankul's influence extends far beyond its borders. Tributary states in [[affiliation-kankul|K'ankul]], [[affiliation-neokbaate|Ne'ok Ba'ate]], and [[affiliation-xelem|Shelem]] pay homage and send young nobles to the great temples for ritual training and priestly initiation. Merchant caravans radiating from Ish'ilankul's markets carry obsidian, cacao, and sacred textiles to every corner of the known world. To be Ish'ilankul-born is to carry the weight of divine destiny.
 
 ## City-States and Realms
 
-The political landscape of Ix'ilankul is one of competing Tz'enmah (Sun Lords), each ruling a network of satellite settlements and towns that acknowledge the supreme authority of whichever city-state currently holds the respect of the Ch'alix Tq'an and the great temples.
+The political landscape of Ish'ilankul is one of competing Ts'enmah (Sun Lords), each ruling a network of satellite settlements and towns that acknowledge the supreme authority of whichever city-state currently holds the respect of the Ch'alish Tq'an and the great temples.
 
-Every major city-state maintains a rival relationship with its neighbors, competing in displays of architecture, astronomical achievement, and the scale of their sacrificial ceremonies. The Tz'enmah are bound by an intricate code of honor that channels their ambitions into ritual warfare (the sacred captive-hunts known as ch'utik'at) rather than total warfare. A captured enemy noble is a prize of tremendous value—their blood, offered to the gods at the temple summit at the moment of the sun's zenith, is believed to carry far greater power than the blood of common prisoners. Thus, the greatest warriors of Ix'ilankul are athletes and priests simultaneously, trained from childhood in the rituals of combat and the theology of sacrifice.
+Every major city-state maintains a rival relationship with its neighbors, competing in displays of architecture, astronomical achievement, and the scale of their sacrificial ceremonies. The Ts'enmah are bound by an intricate code of honor that channels their ambitions into ritual warfare (the sacred captive-hunts known as ch'utik'at) rather than total warfare. A captured enemy noble is a prize of tremendous value—their blood, offered to the gods at the temple summit at the moment of the sun's zenith, is believed to carry far greater power than the blood of common prisoners. Thus, the greatest warriors of Ish'ilankul are athletes and priests simultaneously, trained from childhood in the rituals of combat and the theology of sacrifice.
 
-The Itzáni priesthood maintains strict hierarchical control within Ix'ilankul's cities, with the Ch'alix Tq'an wielding authority over spiritual matters and the Tz'enmah responsible for tribute, tribute-armies, and secular governance. In practice, the line between these powers is fluid and often contested. A particularly ambitious Ch'alix Tq'an may orchestrate the downfall of a Tz'enmah who fails to collect sufficient tribute or loses a key battle; conversely, a powerful Tz'enmah may attempt to install a more compliant high priest. These struggles are conducted with ritual formality and do not usually descend into open conflict, for to undermine the priesthood is to risk the anger of the gods themselves.
+The Itsani priesthood maintains strict hierarchical control within Ish'ilankul's cities, with the Ch'alish Tq'an wielding authority over spiritual matters and the Ts'enmah responsible for tribute, tribute-armies, and secular governance. In practice, the line between these powers is fluid and often contested. A particularly ambitious Ch'alish Tq'an may orchestrate the downfall of a Ts'enmah who fails to collect sufficient tribute or loses a key battle; conversely, a powerful Ts'enmah may attempt to install a more compliant high priest. These struggles are conducted with ritual formality and do not usually descend into open conflict, for to undermine the priesthood is to risk the anger of the gods themselves.
 
-Ix'ilankul is also the hub of the Ch'um Ix'lan, the great relay network of Ch'umbal runners that binds [[place-kchchkcntnnt|K'ich'chik]] civilization together. The Ch'um Ix'lan is administered entirely by the [[affiliation-itzanpnthn|Itzáni]] priesthood—not by any Tz'enmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[affiliation-itzanpnthn|Tz'en'ul Tq'an]] (god of order), and no secular lord may command, delay, or interfere with a runner on the Speaking Road. Kul'taq'an houses the central dispatch, where k'otzel (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the Ch'alix Tq'an's inner circle. No Tz'enmah—not even the most powerful Sun Lord in Ix'ilankul—receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ix'lan way-stations within Ix'ilankul is unmatched anywhere in the realm—a message can cross the entire plateau region in a single day, giving the Ch'alix Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
+Ish'ilankul is also the hub of the Ch'um Ish'lan, the great relay network of Ch'umbal runners that binds [[place-kchchkcntnnt|K'ich'chik]] civilization together. The Ch'um Ish'lan is administered entirely by the [[affiliation-itzanpnthn|Itsani]] priesthood—not by any Ts'enmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[affiliation-itzanpnthn|Ts'en'ul Tq'an]] (god of order), and no secular lord may command, delay, or interfere with a runner on the Speaking Road. Kul'taq'an houses the central dispatch, where k'otsel (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the Ch'alish Tq'an's inner circle. No Ts'enmah—not even the most powerful Sun Lord in Ish'ilankul—receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ish'lan way-stations within Ish'ilankul is unmatched anywhere in the realm—a message can cross the entire plateau region in a single day, giving the Ch'alish Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
 
 ## See Also
 
-- [[affiliation-kankul|K'ankul]]—The limestone lowlands to the east, tributary to Ix'ilankul's religious authority
+- [[affiliation-kankul|K'ankul]]—The limestone lowlands to the east, tributary to Ish'ilankul's religious authority
 - [[affiliation-neokbaate|Ne'ok Ba'ate]]—The isthmus gateway, where highland and coastal trade routes intersect
-- [[affiliation-xelem|Xelem]]—The eastern frontier, source of exotic goods and sacred materials
-- [[affiliation-itzanpnthn|Itzáni Pantheon]]—The divine framework that grants Ix'ilankul its religious authority
-- [[place-tzomalchalix|Tz'omal Ch'alix]]—The Sacred Foundation, holiest pilgrimage site in K'ich'chik
-- [[place-ixilankulrgn|Ix'ilankul Region]]—The land Ix'ilankul holds
+- [[affiliation-xelem|Shelem]]—The eastern frontier, source of exotic goods and sacred materials
+- [[affiliation-itzanpnthn|Itsani Pantheon]]—The divine framework that grants Ish'ilankul its religious authority
+- [[place-tzomalchalix|Ts'omal Ch'alish]]—The Sacred Foundation, holiest pilgrimage site in K'ich'chik
+- [[place-ixilankulrgn|Ish'ilankul Region]]—The land Ish'ilankul holds

@@ -272,7 +272,7 @@ A Grukar-Uk is short and wide, about four and a half feet tall and as heavy as a
 
 ## In the Land
 
-Uk are wherever Grukar are: in the nests of [[place-grkrhlmrgn|Grukarhölm]] and the eastern [[place-vrystwald|Vrystwald]], in the forest and tundra on [[place-targud|Targud]]'s eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]], where [[lore-grukaraelwyth|the island's Grukar]] have been for seven centuries. A tribe is a place with a spawner in it, and the Uk do the tribe's work round that place: they dig the chambers and the moats, gather the food, cut the wood, carry the loot home and die holding the pass. They go where they are driven. Raiding parties that come down on [[place-skathwald|Skathwald]]'s villages, [[place-auldalon|Áuldalon]]'s steadings and the forest-edge farms of the [[place-wyndmarch|Wyndmarch]] are mostly Uk.
+Uk are wherever Grukar are: in the nests of [[place-grkrhlmrgn|Grukarholm]] and the eastern [[place-vrystwald|Vristwald]], in the forest and tundra on [[place-targud|Targud]]'s eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]], where [[lore-grukaraelwyth|the island's Grukar]] have been for seven centuries. A tribe is a place with a spawner in it, and the Uk do the tribe's work round that place: they dig the chambers and the moats, gather the food, cut the wood, carry the loot home and die holding the pass. They go where they are driven. Raiding parties that come down on [[place-skathwald|Skathwald]]'s villages, [[place-auldalon|Áuldalon]]'s steadings and the forest-edge farms of the [[place-wyndmarch|Wyndmarch]] are mostly Uk.
 
 ## Key Behaviors
 

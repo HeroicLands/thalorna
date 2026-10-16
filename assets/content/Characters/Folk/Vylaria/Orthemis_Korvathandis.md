@@ -1,6 +1,6 @@
 ---
 shortcode: orthemiskorv
-name: {full: Ôrthêmis Kôrvâthândis, aliases: [Ûsândôs Ôrthêmis Kôrvâthândis]}
+name: {full: Orthemis Korvathandis, aliases: [Usos Orthemis Korvathandis]}
 type: being
 subType: npc
 description: A political appointee from the capital who arrived with orders to strengthen imperial authority in the province.
@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Ûsândôs
+  occupation: Usos
   lore: []
   culture: vylarianclt
   homes: []
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ôrthêmis Kôrvâthândis is a 33-year-old woman who stands 5'6" tall with a light build. She has medium skin, weathered complexion, auburn hair, and brown eyes.
+Orthemis Korvathandis is a 33-year-old woman who stands 5'6" tall with a light build. She has medium skin, weathered complexion, auburn hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Ôrthêmis Kôrvâthândis is an _ûsândôs_ (prefect) and a political appointee from the capital, sent with orders to strengthen imperial authority in the province. [[being-brakshrlns|Brákôs Hârlânis]] once submitted a report contradicting her claims about bandit activity. Since then Ôrthêmis has quietly obstructed his advancement and spread rumors that he is soft on dissidents.
+Orthemis Korvathandis is an _usos_ (prefect) and a political appointee from the capital, sent with orders to strengthen imperial authority in the province. [[being-brakshrlns|Brakos Harlanis]] once submitted a report contradicting her claims about bandit activity. Since then Orthemis has quietly obstructed his advancement and spread rumors that he is soft on dissidents.

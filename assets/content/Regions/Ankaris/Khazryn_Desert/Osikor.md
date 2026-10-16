@@ -3,7 +3,7 @@ shortcode: osikor
 name: {full: Oshiqor, aliases: [The Sunken Kings' Steps]}
 type: place
 subType: site
-description: "Rock-cut tombs in the ravines of the Diqraqor, the Basin Builders' highland burial ground, reached by stairs that descend into the cliff and forbidden to the Ātárzád."
+description: "Rock-cut tombs in the ravines of the Diqraqor, the Basin Builders' highland burial ground, reached by stairs that descend into the cliff and forbidden to the Atarzád."
 tags: []
 data: {demonym: null, lore: [], parents: [dkrqrrgn], population: 0, packFolder: khazryndesert}
 ---
@@ -16,7 +16,7 @@ The tombs are the burial ground of the rulers of the [[lore-basinbldrs|Basin Bui
 
 ## What the People Believe
 
-The Ātárzád, whose herds graze the southern edge of the Diqraqor, hold Oshiqor unclean. They forbid their young men to go within a bowshot of any of the eleven ravines, and a herdsman whose animals stray into one is cleansed with fire before he rejoins his tribe. The Flame, they say, burns where the dead lie unburnt. The tribes of the plateau say something shorter: the kings are not asleep, and they are kept in their houses by being left alone.
+The Atarzád, whose herds graze the southern edge of the Diqraqor, hold Oshiqor unclean. They forbid their young men to go within a bowshot of any of the eleven ravines, and a herdsman whose animals stray into one is cleansed with fire before he rejoins his tribe. The Flame, they say, burns where the dead lie unburnt. The tribes of the plateau say something shorter: the kings are not asleep, and they are kept in their houses by being left alone.
 
 ## Danger
 
@@ -28,11 +28,11 @@ The grave-goods are the prize: gold work in a style found nowhere else, beaded c
 
 ## A Hook
 
-The son of an Ātárzád elder has been robbing the tombs. A rival herd-chief found a bead of the blue stone in the boy's saddlebag and told the elder, who denied it, and the rivals now hold the proof. The elder will pay a party to bring his son out of the ravines before the tribe learns, and a party that finds him in the northernmost tomb sees what he found in its third chamber, which nobody else has seen.
+The son of an Atarzád elder has been robbing the tombs. A rival herd-chief found a bead of the blue stone in the boy's saddlebag and told the elder, who denied it, and the rivals now hold the proof. The elder will pay a party to bring his son out of the ravines before the tribe learns, and a party that finds him in the northernmost tomb sees what he found in its third chamber, which nobody else has seen.
 
 ## See Also
 
 - [[lore-basinbldrs|The Basin Builders]]—the people who cut the tombs
 - [[being-damut|Damut]]—the dead in the deepest chambers
-- [[place-ewod|Evöd]]—the lake bed they left
-- [[affiliation-tribestrzd|Tribes of Ātárzád]]—who graze the range's southern edge
+- [[place-ewod|Evod]]—the lake bed they left
+- [[affiliation-tribestrzd|Tribes of Atarzád]]—who graze the range's southern edge

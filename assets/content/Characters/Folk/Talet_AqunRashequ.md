@@ -1,6 +1,6 @@
 ---
 shortcode: taletaqnrshq
-name: {full: Talet Aqun'Râshequ, aliases: []}
+name: {full: Talet Akun'Rasheku, aliases: []}
 type: being
 subType: npc
 description: "Father to an architect, who taught his son to understand roofs as sculpture rather than shelter"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Talet Aqun'Râshequ is a 42-year-old man who stands 6'2" tall with a heavy build. He has dark brown skin, dark brown hair, and brown eyes.
+Talet Akun'Rasheku is a 42-year-old man who stands 6'2" tall with a heavy build. He has dark brown skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Talet Aqun'Râshequ is father to an architect, home in [[place-galezkara|Galezkara]]. He taught his son to see a roof as sculpture rather than as mere shelter. The buildings his son raises now carry that lesson forward whether or not a viewer knows where it came from.
+Talet Akun'Rasheku is father to an architect, home in [[place-galezkara|Galezkara]]. He taught his son to see a roof as sculpture rather than as mere shelter. The buildings his son raises now carry that lesson forward whether or not a viewer knows where it came from.

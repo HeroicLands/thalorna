@@ -59,6 +59,8 @@ test("the reader's languages are refused even where Earth names are exempt", () 
     assert.equal(findEarthNames(analogs, "English").length, 1);
     assert.deepEqual(findEarthNames("a.md", "# terran_analog: Japan"), []);
     assert.deepEqual(findEarthNames(analogs, "Rome"), []);
+    const guide = "assets/content/Lore/Pronouncing_Thalorna.md";
+    assert.deepEqual(findEarthNames(guide, "English, Roman and Scottish"), []);
 });
 
 test("Earth-Greek given and place names are found, accented or not", () => {
@@ -95,4 +97,22 @@ test("every exemption carries a reason", () => {
 
 test("no note, README or lexicon data file names Earth", () => {
     assert.deepEqual(scan(), []);
+});
+
+test("a retired entry's form is read past and its replacement is checked", () => {
+    const note = [
+        "---",
+        "data:",
+        "  retired:",
+        "    - {form: Scottish, instead: Scottish, why: x}",
+        "    - form: Scottish",
+        "      instead: Fine",
+        "  words: []",
+        "  other: Scottish",
+        "---",
+    ].join("\n");
+    assert.deepEqual(
+        findEarthNames("a.md", note).map((f) => f.split(": error")[0]),
+        ["a.md:4:33", "a.md:8:10"],
+    );
 });

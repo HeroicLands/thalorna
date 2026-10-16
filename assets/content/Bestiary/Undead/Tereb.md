@@ -399,7 +399,7 @@ As night falls the cold comes into the hall, and the darkness at its far end bec
 
 # Dossier {#dossier}
 
-**Tereb** (plural _terebu_; "terebs" at the table) is the learned name for the sentient undead, from the Khelâthi root _t-r-b_, to wear, to cloak: _the cloaked one_. A tereb is a powerful person who prepared in life, through deliberate ritual, to persist past death: a vampire, an undying lord, a dread-priest, a sorcerer-king who rules from beyond the grave. It wears its former self as a garment. The cloak holds for a short time and not too closely: across a room or through a brief exchange a tereb passes for a living person, and under close eyes and long company the cloak frays, because nothing wears it from inside but the will. Every tereb carries [[lore-theshadow|the Shadow]], and every tereb must harm the living to go on. See [[lore-undead|Undead]] for the learned terms and the folk names.
+**Tereb** (plural _terebu_; "terebs" at the table) is the learned name for the sentient undead, from the Khelathi root _t-r-b_, to wear, to cloak: _the cloaked one_. A tereb is a powerful person who prepared in life, through deliberate ritual, to persist past death: a vampire, an undying lord, a dread-priest, a sorcerer-king who rules from beyond the grave. It wears its former self as a garment. The cloak holds for a short time and not too closely: across a room or through a brief exchange a tereb passes for a living person, and under close eyes and long company the cloak frays, because nothing wears it from inside but the will. Every tereb carries [[lore-theshadow|the Shadow]], and every tereb must harm the living to go on. See [[lore-undead|Undead]] for the learned terms and the folk names.
 
 ## Presentation
 
@@ -407,7 +407,7 @@ A tereb looks like a person, and how much like one varies, because the cloak is 
 
 ## In the Land
 
-Terebu are rare and they are found where the traditions that make them are kept. In the [[place-nrdlndsrgn|Nordlands]] the [[affiliation-nahild|Faith of Náhild]] raises its favored terebu, the [[lore-nagengir|nágengir]], as warriors and sorcerers who guard her hidden hofs and command her legions of raised dead; the north's folk name for a tereb is the nightwight. In [[place-kchchkcntnnt|K'ich'chik]] the terebu are the Threshold-Held, whose souls [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] holds at the boundary of the underworld. Elsewhere they are the lords of hidden courts and the masters of old houses, keeping to cities where the living are many and a disappearance is one among many, or to remote halls where nobody asks. Every tereb keeps a Hallowed Ground, a single hidden place it returns to, and its range is the country round that place.
+Terebu are rare and they are found where the traditions that make them are kept. In the [[place-nrdlndsrgn|Nordlands]] the [[affiliation-nahild|Faith of Nahild]] raises its favored terebu, the [[lore-nagengir|nágengir]], as warriors and sorcerers who guard her hidden hovs and command her legions of raised dead; the north's folk name for a tereb is the nightwight. In [[place-kchchkcntnnt|K'ich'chik]] the terebu are the Threshold-Held, whose souls [[affiliation-pikultzumaq|Pik'ul Ts'umaq]] holds at the boundary of the underworld. Elsewhere they are the lords of hidden courts and the masters of old houses, keeping to cities where the living are many and a disappearance is one among many, or to remote halls where nobody asks. Every tereb keeps a Hallowed Ground, a single hidden place it returns to, and its range is the country round that place.
 
 ## Key Behaviors
 
@@ -437,7 +437,7 @@ Terebu have creators, and creators keep some hold over what they make; a tereb t
 
 ## What People Do
 
-Most of the world's faiths treat the undead as a deep disorder, souls that should have passed and arranged not to, and their adherents treat terebu with particular horror. The [[affiliation-ordoarcanis|Sekran]], the Thôrdimâlon's enforcement arm, hunts terebu wherever its writ runs, and accepts the loss of hunters as a cost of the work; some of its specialists have spent their lives following a single tereb across decades. Where the Arcane Order's reach is short, independent hunters work for pay or for vengeance, and in some districts particular families raise their children to the work. Hunters learn the same lessons: find the Hallowed Ground, because a tereb destroyed anywhere else rises there again; watch for a household or a district losing its people quietly; and do not accept an invitation to dine after dark. In the north, the hidden hofs of Náhild are hunted by the faithful of the other gods, and the tale of a traveler turned away from such a hof by a courteous, thinking guardian is told at hearths as a warning.
+Most of the world's faiths treat the undead as a deep disorder, souls that should have passed and arranged not to, and their adherents treat terebu with particular horror. The [[affiliation-ordoarcanis|Sekran]], the Thordimalon's enforcement arm, hunts terebu wherever its writ runs, and accepts the loss of hunters as a cost of the work; some of its specialists have spent their lives following a single tereb across decades. Where the Arcane Order's reach is short, independent hunters work for pay or for vengeance, and in some districts particular families raise their children to the work. Hunters learn the same lessons: find the Hallowed Ground, because a tereb destroyed anywhere else rises there again; watch for a household or a district losing its people quietly; and do not accept an invitation to dine after dark. In the north, the hidden hovs of Nahild are hunted by the faithful of the other gods, and the tale of a traveler turned away from such a hov by a courteous, thinking guardian is told at hearths as a warning.
 
 ## Signs
 
@@ -509,6 +509,6 @@ In daylight a tereb suffers −4 to all physical attributes and −2 to all ment
 
 - [[being-damut|Damut]]—the driven one: the mindless undead
 
-- [[lore-nagengir|Nágengir]]—the Faith of Náhild's favored terebu
+- [[lore-nagengir|Nágengir]]—the Faith of Nahild's favored terebu
 
 - [[lore-theshadow|The Shadow]]—the corrupting force from outside creation that every undead carries

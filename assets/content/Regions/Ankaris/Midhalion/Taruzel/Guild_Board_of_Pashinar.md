@@ -1,9 +1,9 @@
 ---
 shortcode: gldbrdpshnr
-name: {full: Guild Board of Pashînar, aliases: []}
+name: {full: Guild Board of Pashinar, aliases: []}
 type: affiliation
 subType: polity
-description: "The guild officials who govern the trading town of Pashînar on the largest island of Tarûzel."
+description: "The guild officials who govern the trading town of Pashinar on the largest island of Taruzel."
 data:
   templatePriority: null
   demonym: null
@@ -21,7 +21,7 @@ data:
       - level: 1
         title: Resident
         description: >-
-          Lives in Pashînar under its guild officials.
+          Lives in Pashinar under its guild officials.
     offices: {}
   seat: pashinar
   population: null
@@ -33,4 +33,4 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-The **Guild Board of Pashînar** is the body of guild officials among the permanent townsfolk of [[place-pashinar|Pashînar]], the trading town that faces the mainland crossing on the largest island of [[place-taruzelrgn|Tarûzel]].
+The **Guild Board of Pashinar** is the body of guild officials among the permanent townsfolk of [[place-pashinar|Pashinar]], the trading town that faces the mainland crossing on the largest island of [[place-taruzelrgn|Taruzel]].

@@ -1,6 +1,6 @@
 ---
 shortcode: thiryegezaqe
-name: {full: Thirye Gez'Aqêu, given: Thirye, clan: Gez'Aqêu, aliases: []}
+name: {full: Thirye Gez'Aqeu, given: Thirye, clan: Gez'Aqeu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]
-  affiliations: {empireakhlth: {rank: 3}, thubai: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, thubai: {rank: 1}}
   gender: female
   species: humanflk
   born: 691.253
@@ -411,7 +411,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thiryegezaqe|Thirye Gez'Aqêu]]{float=top-left}
+![[thiryegezaqe|Thirye Gez'Aqeu]]{float=top-left}
 
 Thirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, and elegantly curved brows. She has a tattoo of a dragonfly on her neck.
 
@@ -421,7 +421,7 @@ Thirye stands 5'4" tall with a light build. She has dark skin, black hair, and b
 
 ### The Daughter of Performance
 
-Born in 691 in one of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s greatest theatrical centers, Thirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of Khelâthi theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the Khelâthi Pantheon from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
+Born in 691 in one of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s greatest theatrical centers, Thirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of Khelathi theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the Khelathi Pantheon from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
 
 ### The Rising Star
 
@@ -437,7 +437,7 @@ Behind her luminous stage presence, Thirye battles inner demons that threaten to
 
 Thirye is both intense and fragile, confident on stage and uncertain in life. On the boards, she is commanding, magnetic, fully present—a presence that seems to enlarge to fill entire amphitheaters. Away from performance, she becomes noticeably quieter, more reserved, almost tentative in company. She is a sharp observer, constantly studying people, collecting mannerisms and speech patterns, always somewhat in performance even in ostensibly private moments.
 
-Her creativity is extraordinary and seems almost to drive her; she experiences the world through an artistic lens, constantly considering how situations might be portrayed, how emotions might be expressed through movement and voice. She is deeply spiritual, approaching her art as a sacred practice devoted to [[lore-thubaidty|Thubâ'i]] and the cosmic principle of transformation. Yet this same intensity can render her emotionally volatile—she experiences moods with theatrical extremity, swinging between exultant confidence and bottomless despair often without apparent external cause. Those close to her have learned to weather these emotional storms, understanding that they are intrinsic to the tempestuous genius that makes her such a compelling performer.
+Her creativity is extraordinary and seems almost to drive her; she experiences the world through an artistic lens, constantly considering how situations might be portrayed, how emotions might be expressed through movement and voice. She is deeply spiritual, approaching her art as a sacred practice devoted to [[lore-thubaidty|Thuba'i]] and the cosmic principle of transformation. Yet this same intensity can render her emotionally volatile—she experiences moods with theatrical extremity, swinging between exultant confidence and bottomless despair often without apparent external cause. Those close to her have learned to weather these emotional storms, understanding that they are intrinsic to the tempestuous genius that makes her such a compelling performer.
 
 She maintains careful control over her public image, always gracious to admirers and patrons, yet hoards her true friendships fiercely and guards her private self with almost paranoid vigilance. There is a loneliness at her core—a sense that to be truly known would be to be diminished, that her mystique is inseparable from her artistic power.
 
@@ -471,7 +471,7 @@ Thirye is driven by an insatiable hunger to create beauty and truthfulness in ar
 
 - **Physical Vulnerability**: Despite her grace and strength, she lacks combat training and possesses little physical resilience; she tires easily and cannot sustain intensive physical exertion.
 
-- **Spiritual Dependency**: Her connection to Thubâ'i and her mystical practices can become obsessive; she is vulnerable to spiritual charlatans and may make decisions based on superstition rather than reason.
+- **Spiritual Dependency**: Her connection to Thuba'i and her mystical practices can become obsessive; she is vulnerable to spiritual charlatans and may make decisions based on superstition rather than reason.
 
 ## Social
 
@@ -480,11 +480,11 @@ Thirye is driven by an insatiable hunger to create beauty and truthfulness in ar
 Lord Architect [[being-amqelenset2|Amqelenset]]
 : A powerful nobleman and principal patron of the City Theater Company who is captivated by Thirye's artistry; he has commissioned private performances and provided financial support for experimental theatrical productions she wishes to develop.
 
-Master Playwright Khelemûr
+Master Playwright Khelemur
 : Lin'Shelun elu Galezkara's head writer who has become something of a mentor figure and advocate; he deliberately writes roles showcasing Thirye's particular gifts and has begun to champion her for imperial commissions.
 
 Priestess [[being-lintayet2|Lintayet]]
-: A priestess of Thubâ'i in the temple district who has become Thirye's spiritual advisor, guiding her practice and helping her through the spiritual dimensions of her art.
+: A priestess of Thuba'i in the temple district who has become Thirye's spiritual advisor, guiding her practice and helping her through the spiritual dimensions of her art.
 
 The Merchant Prince Lahmes
 : A wealthy collector of fine art and patron of performers who has recently become fascinated with Thirye's work and has begun offering generous patronage and connections to elite audiences.
@@ -505,14 +505,14 @@ Critic [[being-gathamose2|Gathamose]]
 City Theater Company
 : A senior member of the ensemble, though not yet achieving official leadership status; she is the Company's most celebrated performer and acts as a subtle informal mentor to younger actresses.
 
-[[affiliation-linshelunthb|The Lin'Shelun elu Thubâ'i]]
-: A group of performers, painters, and musicians dedicated to exploring the spiritual dimensions of art and maintaining the Khelâthi artistic traditions; Thirye is a committed though sometimes erratic participant.
+[[affiliation-linshelunthb|The Lin'Shelun elu Thuba'i]]
+: A group of performers, painters, and musicians dedicated to exploring the spiritual dimensions of art and maintaining the Khelathi artistic traditions; Thirye is a committed though sometimes erratic participant.
 
 ## Plot Hooks
 
 1. **The Inheritance of Impossible Expectation**: Thirye receives word that her retired mother has fallen gravely ill and wishes to see her before death—but has also declared that she will disinherit Thirye unless the young woman agrees to abandon theater and marry a respectable merchant, settling into domestic life as is proper. Thirye must journey to her mother's home, facing family expectations, cultural pressures, and her own deep ambivalence. The situation grows complex when she discovers that her mother's illness may be financially motivated manipulation by relatives seeking to control the family estate, and that her mother may be using Thirye's stage work as leverage in family power struggles.
 
-2. **The Lost Script and the Dangerous Truth**: A mysterious collector approaches Thirye with a fragment of an ancient Khelâthi text—portions of a sacred theatrical cycle that was officially suppressed centuries ago. The script is extraordinary, a piece of artistic genius, and the role it contains seems written specifically for Thirye's gifts. Yet performing it would violate religious taboo and invite powerful clerical opposition. As Thirye researches the text's origins, she uncovers disturbing historical truths about why the script was suppressed—it allegedly contained critiques of the priesthood and revelations about divine corruption that threatened institutional power.
+2. **The Lost Script and the Dangerous Truth**: A mysterious collector approaches Thirye with a fragment of an ancient Khelathi text—portions of a sacred theatrical cycle that was officially suppressed centuries ago. The script is extraordinary, a piece of artistic genius, and the role it contains seems written specifically for Thirye's gifts. Yet performing it would violate religious taboo and invite powerful clerical opposition. As Thirye researches the text's origins, she uncovers disturbing historical truths about why the script was suppressed—it allegedly contained critiques of the priesthood and revelations about divine corruption that threatened institutional power.
 
 3. **The Doppelgänger**: Thirye begins encountering a woman who looks nearly identical to her in the streets of the city—same face, same bearing, yet something fundamentally wrong about the presentation. The woman performs in a rival theater, giving increasingly acclaimed performances in roles Thirye was passed over for. Investigation suggests the woman may actually be Thirye's previously unknown twin sister, separated at birth and raised in different circumstances. The reunion is complicated by competing ambitions and the revelation that the rival theater may have deliberately engineered the deception to exploit the theatrical intrigue. If an identical person can achieve equal success, Thirye's sense of a special artistic destiny is in question.
 

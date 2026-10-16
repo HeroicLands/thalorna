@@ -1,6 +1,6 @@
 ---
 shortcode: gnuldrthanni
-name: {full: Gnuldrthann Ilthumakh, aliases: [Captain Gnuldrthann Ilthumakh]}
+name: {full: Gnuldrthann Ilthumak, aliases: [Captain Gnuldrthann Ilthumak]}
 type: being
 subType: npc
 description: A grizzled merchant captain whose aging vessel is famous across the northern routes, named in Hvarnthann Stormrót.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Gnuldrthann Ilthumakh is a 25-year-old man who stands 5'10" tall with a medium build. He has tanned skin, ruddy complexion, dark brown hair, and hazel eyes.
+Gnuldrthann Ilthumak is a 25-year-old man who stands 5'10" tall with a medium build. He has tanned skin, ruddy complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Gnuldrthann Ilthumakh is a grizzled merchant captain whose aging vessel is famous across the northern routes. He brings Hvarnthann aboard whenever his schedule allows, calling Hvarnthann "the best navigator in Vithgard's service". Gnuldrthann Ilthumakh is named in [[being-hvrnthnstrmrt|Hvarnthann Stormrót]].
+Gnuldrthann Ilthumak is a grizzled merchant captain whose aging vessel is famous across the northern routes. He brings Hvarnthann aboard whenever his schedule allows, calling Hvarnthann "the best navigator in Vithgard's service". Gnuldrthann Ilthumak is named in [[being-hvrnthnstrmrt|Hvarnthann Stormrót]].

@@ -1,6 +1,6 @@
 ---
 shortcode: venradzrdn
-name: {full: Venrâd Âzardan, given: Venrâd, clan: Âzardan, aliases: []}
+name: {full: Venrad Azardan, given: Venrad, clan: Azardan, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -422,9 +422,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[venradzrdn|Venrâd Âzardan]]{float=top-left}
+![[venradzrdn|Venrad Azardan]]{float=top-left}
 
-Venrâd stands 5'7" tall with a light build. He has warm olive skin, dark black hair, and green eyes. His features include an oval face, a hawkish nose, a well-defined jawline, full lips, prominent brows, and hollow cheeks. He has a scar on his lower abdomen.
+Venrad stands 5'7" tall with a light build. He has warm olive skin, dark black hair, and green eyes. His features include an oval face, a hawkish nose, a well-defined jawline, full lips, prominent brows, and hollow cheeks. He has a scar on his lower abdomen.
 
 # Dossier {#dossier}
 
@@ -432,59 +432,59 @@ Venrâd stands 5'7" tall with a light build. He has warm olive skin, dark black 
 
 ### The Child of the Storm
 
-Venrâd was born in the coastal settlements of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] to a family of traders and minor pilots who navigated the treacherous waters between the kingdom and distant ports. His father, a respected merchant captain, intended that Venrâd would follow the family tradition of commerce and cautious navigation. From his earliest childhood, however, Venrâd displayed an unusual gift—an almost intuitive understanding of wind, water, and weather. He could sense approaching storms before they became visible, read the subtle changes in water color that indicated dangerous currents, and predict with startling accuracy the behavior of vessels in difficult conditions. His father recognized something rare: genius rather than mere competence.
+Venrad was born in the coastal settlements of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] to a family of traders and minor pilots who navigated the treacherous waters between the kingdom and distant ports. His father, a respected merchant captain, intended that Venrad would follow the family tradition of commerce and cautious navigation. From his earliest childhood, however, Venrad displayed an unusual gift—an almost intuitive understanding of wind, water, and weather. He could sense approaching storms before they became visible, read the subtle changes in water color that indicated dangerous currents, and predict with startling accuracy the behavior of vessels in difficult conditions. His father recognized something rare: genius rather than mere competence.
 
 ### The Pilot's Apprenticeship
 
-Rather than follow the merchant trade, Venrâd insisted upon becoming a pilot—a profession that demanded the ability to guide vessels through impossible circumstances and dangerous passages. He apprenticed under an aging master navigator named Tûlvesh Gorgaz, learning the practical techniques of piloting and the deeper understanding of weather and water that separated masters from competent technicians. The apprenticeship was brutal; Tûlvesh tested Venrâd constantly, often deliberately placing him in dangerous situations to see if his instinct would overcome his inexperience. By his early twenties, Venrâd had become one of the most requested pilots in the kingdom, able to navigate passages that other captains considered impassable.
+Rather than follow the merchant trade, Venrad insisted upon becoming a pilot—a profession that demanded the ability to guide vessels through impossible circumstances and dangerous passages. He apprenticed under an aging master navigator named Tulvesh Gorgaz, learning the practical techniques of piloting and the deeper understanding of weather and water that separated masters from competent technicians. The apprenticeship was brutal; Tulvesh tested Venrad constantly, often deliberately placing him in dangerous situations to see if his instinct would overcome his inexperience. By his early twenties, Venrad had become one of the most requested pilots in the kingdom, able to navigate passages that other captains considered impassable.
 
 ### The Present Zenith
 
-Now, at thirty-five, Venrâd has achieved the status of a famous pilot while remaining dangerously young for such fame. He has earned significant wealth through piloting fees, contracts with merchant consortiums, and the patronage of those who seek his talents for increasingly dangerous and exotic voyages. Yet his success has come at personal cost—his recklessness in taking dangerous contracts has earned him a reputation as much for audacity as for competence, and several competitors have attempted to discredit him or recruit him away from independent work. He maintains membership in the Local Mariners' Guild but operates largely independently, selecting only contracts that interest him and refusing far more than he accepts. In recent years, he has begun to accept commissions from adventurers and explorers seeking to venture into uncharted waters, suggesting that his thirst for challenge and danger may be evolving toward something more ambitious than merely excellent sailing.
+Now, at thirty-five, Venrad has achieved the status of a famous pilot while remaining dangerously young for such fame. He has earned significant wealth through piloting fees, contracts with merchant consortiums, and the patronage of those who seek his talents for increasingly dangerous and exotic voyages. Yet his success has come at personal cost—his recklessness in taking dangerous contracts has earned him a reputation as much for audacity as for competence, and several competitors have attempted to discredit him or recruit him away from independent work. He maintains membership in the Local Mariners' Guild but operates largely independently, selecting only contracts that interest him and refusing far more than he accepts. In recent years, he has begun to accept commissions from adventurers and explorers seeking to venture into uncharted waters, suggesting that his thirst for challenge and danger may be evolving toward something more ambitious than merely excellent sailing.
 
 ## Psyche
 
 ### Personality
 
-Venrâd is a creature of controlled intensity with a predisposition toward action rather than contemplation. He is quick-witted and capable of great charm when he chooses to employ it, though his charm often emerges as teasing or provocative rather than warm. He speaks with the directness of someone accustomed to barking orders aboard vessels where miscommunication means death, and he struggles with the niceties of formal conversation or diplomatic form. He is intensely competitive, capable of holding grudges with the intensity that others reserve for affection, and he measures his value by his accomplishments and the difficulty of the challenges he has overcome. His confidence covers a streak of fear—fear that the waters will eventually prove more powerful than his instinct and skill, fear that age will diminish the reflexes and sensitivity that define him. He addresses this fear by taking ever more dangerous contracts, as if proving again and again that he remains worthy of the reputation that precedes him.
+Venrad is a creature of controlled intensity with a predisposition toward action rather than contemplation. He is quick-witted and capable of great charm when he chooses to employ it, though his charm often emerges as teasing or provocative rather than warm. He speaks with the directness of someone accustomed to barking orders aboard vessels where miscommunication means death, and he struggles with the niceties of formal conversation or diplomatic form. He is intensely competitive, capable of holding grudges with the intensity that others reserve for affection, and he measures his value by his accomplishments and the difficulty of the challenges he has overcome. His confidence covers a streak of fear—fear that the waters will eventually prove more powerful than his instinct and skill, fear that age will diminish the reflexes and sensitivity that define him. He addresses this fear by taking ever more dangerous contracts, as if proving again and again that he remains worthy of the reputation that precedes him.
 
 ### Motivation
 
-Venrâd is driven by a need to prove that the combination of instinct, skill, and courage can overcome any obstacle the natural world can present. He seeks to be remembered as the greatest pilot to have ever lived, a figure so famous that his name becomes synonymous with impossible navigation and the triumph of human excellence over circumstance. He is also motivated by a desire for novelty and challenge—routine work bores him almost physically, and he will abandon profitable contracts if something more interesting emerges. There is also a darker motivation lurking beneath: a desperate belief that if he stops moving, stops challenging himself, he will confront truths about his isolation and the emptiness of a life devoted solely to accomplishment without connection.
+Venrad is driven by a need to prove that the combination of instinct, skill, and courage can overcome any obstacle the natural world can present. He seeks to be remembered as the greatest pilot to have ever lived, a figure so famous that his name becomes synonymous with impossible navigation and the triumph of human excellence over circumstance. He is also motivated by a desire for novelty and challenge—routine work bores him almost physically, and he will abandon profitable contracts if something more interesting emerges. There is also a darker motivation lurking beneath: a desperate belief that if he stops moving, stops challenging himself, he will confront truths about his isolation and the emptiness of a life devoted solely to accomplishment without connection.
 
 ### Strengths
 
-- **Piloting Skill**: Venrâd's intuitive understanding of wind, water, and weather is beyond that of any rival; he can navigate circumstances that would prove fatal to ordinary pilots.
+- **Piloting Skill**: Venrad's intuitive understanding of wind, water, and weather is beyond that of any rival; he can navigate circumstances that would prove fatal to ordinary pilots.
 - **Extraordinary Physical Reflexes**: His dexterity and agility are among his most notable attributes; he can move with precision and speed that borders on the supernatural.
-- **Resourcefulness Under Pressure**: When circumstances deteriorate and conventional solutions fail, Venrâd's mind remains clear; he improvises brilliant solutions to seemingly impossible problems.
+- **Resourcefulness Under Pressure**: When circumstances deteriorate and conventional solutions fail, Venrad's mind remains clear; he improvises brilliant solutions to seemingly impossible problems.
 - **Melee Combat**: Though no trained warrior, his speed and reflexes make him a dangerous fighter in close combat, particularly aboard vessels where space is limited.
 - **Climbing and Acrobatic Mastery**: His work aboard vessels has made him extraordinarily skilled at rapid movement through complex three-dimensional spaces, climbing rigging, and maintaining balance in difficult circumstances.
 
 ### Weaknesses
 
-- **Recklessness Bordering on Self-Destruction**: Venrâd consistently underestimates danger and overestimates his ability to overcome circumstances through pure skill and audacity.
+- **Recklessness Bordering on Self-Destruction**: Venrad consistently underestimates danger and overestimates his ability to overcome circumstances through pure skill and audacity.
 - **Difficulty with Authority**: He struggles with accepting direction from others, particularly in situations where he believes his judgment superior to that of whoever nominally commands.
 - **Emotional Unavailability**: His intense focus on accomplishment and danger-seeking has left him emotionally isolated; he struggles to maintain meaningful relationships or trust others with emotional vulnerability.
 - **Limited Combat Training**: While his physical reflexes make him dangerous in close quarters, he has received no formal martial training and can be overwhelmed by a truly skilled fighter.
-- **Inability to Surrender**: Venrâd cannot accept defeat or failure gracefully; a single reversed decision or unsuccessful venture can push him into reckless overcompensation.
+- **Inability to Surrender**: Venrad cannot accept defeat or failure gracefully; a single reversed decision or unsuccessful venture can push him into reckless overcompensation.
 
 ## Social
 
 ### Patrons
 
 Merchant Consortium of the Eastern Trade
-: A powerful merchant collective that has contracted Venrâd's services repeatedly for particularly difficult voyages between kingdom ports and distant trading partners.
+: A powerful merchant collective that has contracted Venrad's services repeatedly for particularly difficult voyages between kingdom ports and distant trading partners.
 
 Captain Tahruz the Venerable
-: An aging merchant captain and Venrâd's closest friend, who continues to offer him navigation contracts and is one of the few people Venrâd trusts.
+: An aging merchant captain and Venrad's closest friend, who continues to offer him navigation contracts and is one of the few people Venrad trusts.
 
 ### Enemies
 
-Bezdûn Vahdrak (The Cruel Tide)
-: A rival pilot of similar age whose jealousy of Venrâd's greater success has festered into open enmity. Bezdûn has begun spreading rumors regarding the safety of Venrâd's methods and competing for contracts to deliberately undermine his reputation.
+Bezdun Vahdrak (The Cruel Tide)
+: A rival pilot of similar age whose jealousy of Venrad's greater success has festered into open enmity. Bezdun has begun spreading rumors regarding the safety of Venrad's methods and competing for contracts to deliberately undermine his reputation.
 
 The Corsairs of the Burning Coast
-: A pirate collective that Venrâd humiliated several years ago by piloting a merchant vessel directly through their territory without allowing them a chance at plunder. The corsairs have placed a substantial bounty on Venrâd's head.
+: A pirate collective that Venrad humiliated several years ago by piloting a merchant vessel directly through their territory without allowing them a chance at plunder. The corsairs have placed a substantial bounty on Venrad's head.
 
 ### Affiliations
 
@@ -499,12 +499,12 @@ The Adventurers' Collective
 
 ## Plot Hooks
 
-1. **The Cursed Passage**: A wealthy merchant consortium approaches Venrâd with an extraordinary contract: navigate a vessel through a narrow passage of ocean that charts suggest should be impossible, where at least a dozen vessels have been lost in the past five years. The pay is extraordinary, but so is the danger. As Venrâd prepares the vessel and gathers crew, the party discovers through investigation that something actively malevolent inhabits the waters—not difficult conditions but something that hunts vessels. The journey becomes a race against an unknown supernatural force, with Venrâd's instinct for water and weather tested against something beyond natural law.
+1. **The Cursed Passage**: A wealthy merchant consortium approaches Venrad with an extraordinary contract: navigate a vessel through a narrow passage of ocean that charts suggest should be impossible, where at least a dozen vessels have been lost in the past five years. The pay is extraordinary, but so is the danger. As Venrad prepares the vessel and gathers crew, the party discovers through investigation that something actively malevolent inhabits the waters—not difficult conditions but something that hunts vessels. The journey becomes a race against an unknown supernatural force, with Venrad's instinct for water and weather tested against something beyond natural law.
 
-2. **The Lost Pilot's Map**: Venrâd discovers a weathered navigation map in the possession of an elderly sailor, supposedly drawn by a famous pilot from a century past. The map indicates a passage to a realm across the waters that no known navigator has reached—a place of legend and possibly impossible. The map's authenticity cannot be verified, but it offers exactly the sort of impossible challenge that Venrâd cannot resist. The party becomes his crew as he assembles a vessel to make the attempt. Along the way, they discover that the map's origin and purpose may be darker than a navigation challenge.
+2. **The Lost Pilot's Map**: Venrad discovers a weathered navigation map in the possession of an elderly sailor, supposedly drawn by a famous pilot from a century past. The map indicates a passage to a realm across the waters that no known navigator has reached—a place of legend and possibly impossible. The map's authenticity cannot be verified, but it offers exactly the sort of impossible challenge that Venrad cannot resist. The party becomes his crew as he assembles a vessel to make the attempt. Along the way, they discover that the map's origin and purpose may be darker than a navigation challenge.
 
-3. **The Pirate's Reckoning**: Bezdûn Vahdrak finally makes his move against Venrâd, publicly challenging him to a competitive navigation trial where the loser agrees to retire from piloting permanently. The competition draws massive gambling interest and intense attention from the maritime community. As the competition unfolds, the party discovers that Bezdûn has sabotaged the course itself, creating real danger beyond the competition. The trial becomes a test of whether skill and courage can overcome deliberate treachery.
+3. **The Pirate's Reckoning**: Bezdun Vahdrak finally makes his move against Venrad, publicly challenging him to a competitive navigation trial where the loser agrees to retire from piloting permanently. The competition draws massive gambling interest and intense attention from the maritime community. As the competition unfolds, the party discovers that Bezdun has sabotaged the course itself, creating real danger beyond the competition. The trial becomes a test of whether skill and courage can overcome deliberate treachery.
 
-4. **The Storm Born From Heaven**: An unprecedented storm emerges on the horizon—one that appears to defy natural meteorological explanation. As it approaches, Venrâd realizes that his instincts, always so reliable, are providing contradictory information. Whatever this phenomenon is, it appears to exceed even his extraordinary ability to predict and navigate weather. He must guide a fleet of vessels to safety while confronting the possibility that some forces exist beyond his capacity to overcome, and that surrender rather than stubborn persistence may be the only path to survival.
+4. **The Storm Born From Heaven**: An unprecedented storm emerges on the horizon—one that appears to defy natural meteorological explanation. As it approaches, Venrad realizes that his instincts, always so reliable, are providing contradictory information. Whatever this phenomenon is, it appears to exceed even his extraordinary ability to predict and navigate weather. He must guide a fleet of vessels to safety while confronting the possibility that some forces exist beyond his capacity to overcome, and that surrender rather than stubborn persistence may be the only path to survival.
 
-5. **The Corsairs' Bargain**: Bezdûn Vahdrak captures Venrâd and brings him before the Corsairs of the Burning Coast. Rather than execute him, they offer an extraordinary proposition: pilot a single vessel to complete a voyage so dangerous and complex that it has never been successfully attempted. If Venrâd succeeds, he is released and all debts are forgiven. If he fails, he becomes their permanent captive, forced to pilot their raiding expeditions for life. The party can help Venrâd in this impossible endeavor or negotiate his release by other means. The voyage itself becomes a crucible that will either cement Venrâd's legend or destroy him absolutely.
+5. **The Corsairs' Bargain**: Bezdun Vahdrak captures Venrad and brings him before the Corsairs of the Burning Coast. Rather than execute him, they offer an extraordinary proposition: pilot a single vessel to complete a voyage so dangerous and complex that it has never been successfully attempted. If Venrad succeeds, he is released and all debts are forgiven. If he fails, he becomes their permanent captive, forced to pilot their raiding expeditions for life. The party can help Venrad in this impossible endeavor or negotiate his release by other means. The voyage itself becomes a crucible that will either cement Venrad's legend or destroy him absolutely.

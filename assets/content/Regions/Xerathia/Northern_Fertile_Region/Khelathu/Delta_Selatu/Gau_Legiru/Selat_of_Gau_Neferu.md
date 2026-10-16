@@ -3,11 +3,11 @@ shortcode: selatgaulegr
 name: {full: The Selat of Gau-Legiru, aliases: []}
 type: affiliation
 subType: polity
-description: "The garden-coast selat of the Aû'Khelâthu delta—a wet, mild strip of citrus orchards, olive groves, vineyards, and date plantations along the Vylarian shore, dotted with the country villas of the delta merchant-princes and producing the empire's finest luxury crops."
+description: "The garden-coast selat of the Au'Khelathu delta—a wet, mild strip of citrus orchards, olive groves, vineyards, and date plantations along the Vylarian shore, dotted with the country villas of the delta merchant-princes and producing the empire's finest luxury crops."
 data:
   banner: khelathubnr
   templatePriority: null
-  demonym: Khelâthi
+  demonym: Khelathi
   epithet: null
   symbol: null
   governance:
@@ -24,49 +24,30 @@ data:
         description: >-
           Bound to an estate or a temple, owing labor on its fields and its works and holding nothing of his own.
       - level: 2
-        title: Farmer
+        title: Zelar
         description: >-
-          Working the floodplain under a lord or a temple, owing a share of the harvest and labor on the canals.
+          A commoner, the free rank of no house: farmer, artisan, merchant and scribe alike. A Zelar owes a share of the harvest, labor on the canals and tax on his work, and a talented child may enter the scribal schools, which are the empire's principal path upward.
       - level: 3
-        title: Artisan or Merchant
+        title: Zabu
         description: >-
-          Of the trades—potters, weavers, boatmen, traders—free of the fields and taxed on their work.
-      - level: 4
-        title: Scribe
-        description: >-
-          Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
-      - level: 5
-        title: Legha'lutu
-        description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
-      - level: 6
-        title: Halzi'a
-        description: >-
-          Halzi'a: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
-      - level: 7
-        title: Iru'palu
-        description: >-
-          Of the royal house and the most exalted families, the highest hereditary rank below the throne.
-      - level: 8
-        title: Gar-Aû
-        description: >-
-          The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
+          A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
-      Halzi'a: Halzi'a, governing a selat with armies, taxes and courts of his own.
-      Legha'lutu: Ruler of an estate—manor, fields and village—answerable to the Halzi'a.
-      Zabet'lutu: Mistress of an estate, holding the same authority in her own right.
-      Zabet: Lady of the court, whose standing comes from position rather than from land.
+      Halzi'a: >-
+        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+      Legha'lutu: >-
+        Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
+      Zabet'lutu: >-
+        Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
+      Zabet: >-
+        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
       Zemelu: >-
-        Companion of the Gar-Aû: a title of royal favor and access rather than territorial authority.
-      Thâz'Lekhau: >-
-        Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
-      Lem'Nelgir: >-
-        Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
-      Wazu: >-
-        Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
-      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
-      Halzi'a's Steward: Administrator of the selat's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
+        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
+      Halzi'a's Steward: >-
+        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
+      Canal-Warden: >-
+        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: gau
   population: 900000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
@@ -79,13 +60,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Gau-Legiru** holds the land of [[place-gaulegirunome|Gau-Legiru]], and it is the prettiest country in the empire. The merchant-princes of the [[affiliation-selatgrnlght|Selat of Gar-Anlaghet]] and the other ports keep their country villas here, so the selat is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[lore-uzneradty|Uzn'êra]], goddess of fertility and abundance, which suits a land that exists to grow good things.
+The **Selat of Gau-Legiru** holds the land of [[place-gaulegirunome|Gau-Legiru]], and it is the prettiest country in the empire. The merchant-princes of the [[affiliation-selatgrnlght|Selat of Gar-Anlaghet]] and the other ports keep their country villas here, so the selat is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[lore-uzneradty|Uzn'era]], goddess of fertility and abundance, which suits a land that exists to grow good things.
 
 "You will want to understand who is who before the first dinner," a villa steward tells the new secretary of a merchant house, while a boy sets out the cups on the terrace. "The family at the head of the table owns the villa. The family at the foot rents the orchard below it. The man pouring the wine is hired by the day. Nobody here will tell you any of that, and everybody will notice if you get it wrong."
 
 ## Character
 
-The working population is a broad class of orchard smallholders, tenant farmers, and the pressmen, coopers and carters who turn the harvest into oil and wine. Above them sits a leisured gentry of merchant-villa owners who treat the selat as a retreat from the noise of the ports. It is a devout, festival-loving country, with Uzn'êra's birth-shrines and the harvest-feasts of [[lore-thubaidty|Thubâ'i]] filling its calendar, and it has the lowest opinion of hard work and the highest opinion of a good vintage of any selat in the empire.
+The working population is a broad class of orchard smallholders, tenant farmers, and the pressmen, coopers and carters who turn the harvest into oil and wine. Above them sits a leisured gentry of merchant-villa owners who treat the selat as a retreat from the noise of the ports. It is a devout, festival-loving country, with Uzn'era's birth-shrines and the harvest-feasts of [[lore-thubaidty|Thuba'i]] filling its calendar, and it has the lowest opinion of hard work and the highest opinion of a good vintage of any selat in the empire.
 
 ## For the Worldbuilder
 
@@ -93,13 +74,13 @@ Run Gau-Legiru as the empire's pleasure-garden: wealth at rest, the country-esta
 
 ## Commerce and Currency
 
-Gau-Legiru uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. Its high-value export trade means its great estates deal readily in struck silver and gold and in the foreign coin that comes back from Gar-Anlaghet's harbor, banked and exchanged through the [[affiliation-garhalzi|Gár-Hálzi]] agents who serve the merchant villas. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Gau-Legiru uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. Its high-value export trade means its great estates deal readily in struck silver and gold and in the foreign coin that comes back from Gar-Anlaghet's harbor, banked and exchanged through the [[affiliation-garhalzi|Gar-Hálzi]] agents who serve the merchant villas. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
 ## See Also
 
 - [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
 - [[place-gau|Gau]]—Selat capital
 - [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]—Neighboring port-selat whose merchants summer here
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon
+- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon
 - [[place-gaulegirunome|Gau-Legiru]]—The land the selat holds

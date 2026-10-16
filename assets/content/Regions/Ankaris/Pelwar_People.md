@@ -8,7 +8,7 @@ data: {packFolder: ankaris}
 ---
 
 - **Type:** Ancestral people / language family
-- **Descendants:** [[place-elavendre|Élavendri]], [[lore-aelendnppl|Áelendan]], Vylari, Nordmal, Varokhi, Tarvéni, Provenzal, and related peoples of [[place-ankrscntnnt|Ankaris Continent]]
+- **Descendants:** [[place-elavendre|Élavendri]], [[lore-aelendnppl|Áelendan]], Vylari, Nordmal, Varokhi, Tarveni, Provenzal, and related peoples of [[place-ankrscntnnt|Ankaris Continent]]
 
 The **Pelwar** were ancient nomadic peoples who migrated across [[place-ankrscntnnt|Ankaris Continent]] in a great movement beginning **approximately 1400 BF**. They were not a single nation or polity but a loose cultural-linguistic grouping of related tribes that spread westward from an original homeland in the central or eastern interior of the continent. The westward movement ran roughly three centuries, to **approximately 1100 BF**, and over the centuries that followed the peoples it carried west settled their different regions and, in time, diverged into the distinct peoples and languages that today populate much of Ankaris.
 
@@ -19,14 +19,14 @@ The Pelwar no longer exist as a unified people. The name survives primarily as a
 The Migration is the movement everyone remembers, but it is not the first time Pelwar left their country,
 and the earlier movement was not flight.
 
-The [[lore-flkkhazar|Khazári]] have never been able to feed themselves—a hold grows nothing and will
+The [[lore-flkkhazar|Khazari]] have never been able to feed themselves—a hold grows nothing and will
 not depend on an outside larder—so wherever they settled they needed farmers at the gate, and the
 Pelwar were the people they took. Peaceful, agricultural, patient and numerous, Pelwar communities were
 **brought** to hold-country across Ankaris and beyond it, to work land for lords who did not farm.
 
 None of this was remembered by the Pelwar as an event. It is not in their traditions; it happened to
 particular villages over centuries and left no story. It is, however, why human communities turn up
-beside Khazári holds far earlier than any human migration accounts for—and the
+beside Khazari holds far earlier than any human migration accounts for—and the
 [[lore-vardain|Vardain]] of Aelwyth, who are not Pelwar but an older people, still farm for a hold and cannot say why they were taught to,
 and are the last such community.
 
@@ -43,7 +43,7 @@ lands as conquerors around **fourteen centuries before the Founding**.
 They did not exterminate anybody. Over generations the Varkhad **took the country and then merged into
 it**, marrying into the tribes they had beaten and adopting a good deal of what they found, until the two
 stocks could no longer be told apart. What came out of that mixture were the peoples who hold the north
-and north-east today: the **[[lore-varokhiclt|Varokh]] of [[place-vrystwald|Vrystwald]]** and the
+and north-east today: the **[[lore-varokhiclt|Varokh]] of [[place-vrystwald|Vristwald]]** and the
 **Nordmen of the [[place-nrdlndsrgn|Nordlands]]**, who share that double ancestry and share, notably,
 the temperament that came with the eastern half of it.
 
@@ -72,9 +72,9 @@ The languages of Pelwar descent share deep structural commonalities and a signif
 - [[skill-elvndrlng|Élavendri]]—The modern language of [[place-elavendre|Élavendre]], descended directly from Áelendan with simplifications and absorbed outside influences.
 - **Vylari**—The language of the [[affiliation-vylarinmpr|Vylarian Empire]], heavily modified by contact with pre-Pelwar substrate languages.
 - **Nordmal**—The tongue of the northern Nordmen kingdoms.
-- **Varokhi**—Spoken by the Varokh tribes of [[place-vrystwald|Vrystwald]], closely related to Nordmal but diverged significantly.
-- **Tarvéni**—The language of [[place-tarvenirgn|Tarvénia Region]].
-- **Provenzal**—The refined tongue of [[place-provenzrgn|Provènzia Region]].
+- **Varokhi**—Spoken by the Varokh tribes of [[place-vrystwald|Vristwald]], closely related to Nordmal but diverged significantly.
+- **Tarveni**—The language of [[place-tarvenirgn|Tarvénia Region]].
+- **Provenzal**—The refined tongue of [[place-provenzrgn|Provenzia Region]].
 
 ## The Pelwar Peoples Today
 
@@ -84,14 +84,14 @@ The major peoples descended from Pelwar migrations share certain cultural common
 - [[place-elavendre|Élavendri]]—Refined urban descendants of the Pelwar, whose nobility still trace lineage to Áelendan ancestors
 - **Vylari**—The imperial Pelwar, whose migrations laid the foundation for the later rise of the Vylarian Empire
 - **Nordmen** (of the northern kingdoms)—Pelwar migrants who settled the frozen north and developed warrior-seafarer cultures
-- **Varokh** (of [[place-vrystwald|Vrystwald]])—Forest-dwelling Pelwar descendants who preserved a more tribal, barbarian way of life
-- **Tarvéni, Provenzian**—Pelwar migrants who settled the western and southwestern regions, developing sophisticated mercantile and artistic cultures
+- **Varokh** (of [[place-vrystwald|Vristwald]])—Forest-dwelling Pelwar descendants who preserved a more tribal, barbarian way of life
+- **Tarveni, Provenzian**—Pelwar migrants who settled the western and southwestern regions, developing sophisticated mercantile and artistic cultures
 
-The Varokh of Vrystwald share Pelwar ancestry with both the Nordmen of the north and the Élavendri of the west, though the three peoples are now profoundly different in culture, language, and outlook.
+The Varokh of Vristwald share Pelwar ancestry with both the Nordmen of the north and the Élavendri of the west, though the three peoples are now profoundly different in culture, language, and outlook.
 
 ## See Also
 
 - [[skill-elvndrlng|Élavendri Language]]—The Pelwar descendant language with the deepest section on Áelendi and Proto-Pelwar
 - [[lore-aelendnppl|Áelendan]]—The most conservative Pelwar descendants
 - [[place-elavendre|Élavendre]]—Region where Pelwar heritage is most consciously preserved
-- [[place-vrystwald|Vrystwald]]—The forest villages of the Varokh tribes
+- [[place-vrystwald|Vristwald]]—The forest villages of the Varokh tribes

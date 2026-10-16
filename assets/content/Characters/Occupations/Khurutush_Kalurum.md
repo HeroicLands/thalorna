@@ -1,6 +1,6 @@
 ---
 shortcode: khrtshklrm
-name: {full: Khurûtûsh Kalûrûm, aliases: []}
+name: {full: Khurutush Kalurum, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, soldiery]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Khurûtûsh Kalûrûm is a 45-year-old man who stands 6'1" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His piercing brown eyes sit beneath prominent brows, lending him a penetrating gaze. A hawkish nose and expressive lips complete his features. He has tanned skin with a smooth complexion. His brown hair is cropped short.
+Khurutush Kalurum is a 45-year-old man who stands 6'1" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His piercing brown eyes sit beneath prominent brows, lending him a penetrating gaze. A hawkish nose and expressive lips complete his features. He has tanned skin with a smooth complexion. His brown hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a guilded family of Tarûzelian heritage, Khurûtûsh Kalûrûm came into the world of the swordmaster through a combination of circumstance and aptitude.
+Born in the Taruzel region to a guilded family of Taruzelian heritage, Khurutush Kalurum came into the world of the swordmaster through a combination of circumstance and aptitude.
 
-Khurûtûsh is a veteran swordsman who once was a guard captain for a prominent noble family. Now retired from active service, he earns his living by teaching swordsmanship to young nobles and aspiring warriors. Known for his strict discipline and precise techniques, Khurûtûsh takes great pride in his students' achievements. However, he struggles with the aches and pains of aging, which sometimes hinder his own movements.
+Khurutush is a veteran swordsman who once was a guard captain for a prominent noble family. Now retired from active service, he earns his living by teaching swordsmanship to young nobles and aspiring warriors. Known for his strict discipline and precise techniques, Khurutush takes great pride in his students' achievements. However, he struggles with the aches and pains of aging, which sometimes hinder his own movements.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Age has affected his stamina and flexibility; struggles with accepting that he i
 
 ### Motivation
 
-Khurûtûsh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in swordmaster work keep him vigilant and adaptable.
+Khurutush is driven by the desire to master his craft and secure a stable future. The uncertainties of life in swordmaster work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Expert in swordsmanship, experienced in combat tactics, skilled teacher.
 
 ## Social
 
-Khurûtûsh is affiliated with City Swordmasters' Guild.
+Khurutush is affiliated with City Swordmasters' Guild.
 
-As a Tarûzelian swordmaster, Khurûtûsh occupies a recognized social niche within Tarûzel society.
+As a Taruzelian swordmaster, Khurutush occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Khurûtûsh's primary patron is Wealthy nobles who hire him to train their children. This relationship provides both opportunity and obligation.
+Khurutush's primary patron is Wealthy nobles who hire him to train their children. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Rival swordmasters who challenge his reputation.
 
 ## Plot Hooks
 
-1. **The Swordmaster's Dilemma**—Khurûtûsh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Swordmaster's Dilemma**—Khurutush faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—Rival swordmasters who challenge his reputation. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Khurûtûsh's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Khurutush's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Khurûtûsh depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Khurutush depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Khurûtûsh the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Khurutush the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

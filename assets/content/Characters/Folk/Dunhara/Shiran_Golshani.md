@@ -1,9 +1,9 @@
 ---
 shortcode: shirangolsha
-name: {full: Shirân Golshanî, aliases: [Lady Shirân Golshanî, Lady Shirân]}
+name: {full: Shiran Golshani, aliases: [Lady Shiran Golshani, Lady Shiran]}
 type: being
 subType: npc
-description: A widow and collector of sacred objects who has commissioned three major pieces, named in Darzash Shavân.
+description: A widow and collector of sacred objects who has commissioned three major pieces, named in Darzash Shavan.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Shirân Golshanî is a 57-year-old woman who stands 6'0" tall with a heavy build. She has tawny skin, sun-kissed complexion, dark brown hair, and dark brown eyes.
+Shiran Golshani is a 57-year-old woman who stands 6'0" tall with a heavy build. She has tawny skin, sun-kissed complexion, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Shirân Golshanî, styled Lady, is a widow and collector of sacred objects who has commissioned three major pieces from [[being-darzshshvn|Darzash Shavân]]. She is Darzash's primary advocate in noble circles.
+Shiran Golshani, styled Lady, is a widow and collector of sacred objects who has commissioned three major pieces from [[being-darzshshvn|Darzash Shavan]]. She is Darzash's primary advocate in noble circles.

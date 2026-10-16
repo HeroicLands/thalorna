@@ -1,6 +1,6 @@
 ---
 shortcode: quztarqnrshq
-name: {full: Quztar Aqun'Râshequ, given: Quztar, clan: Aqun'Râshequ, aliases: []}
+name: {full: Kuztar Akun'Rasheku, given: Kuztar, clan: Akun'Rasheku, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {rank: 3}, uznera: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, uznera: {rank: 1}}
   gender: male
   species: humanflk
   born: "662.32"
@@ -419,9 +419,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[quztarqnrshq|Quztar Aqun'Râshequ]]{float=top-left}
+![[quztarqnrshq|Kuztar Akun'Rasheku]]{float=top-left}
 
-Quztar stands 5'9" tall with a medium build. He has dark brown skin, white hair, and green-brown eyes. His features include a prominent nose, a tapered chin, well-shaped lips, and dark brows.
+Kuztar stands 5'9" tall with a medium build. He has dark brown skin, white hair, and green-brown eyes. His features include a prominent nose, a tapered chin, well-shaped lips, and dark brows.
 
 # Dossier {#dossier}
 
@@ -429,83 +429,83 @@ Quztar stands 5'9" tall with a medium build. He has dark brown skin, white hair,
 
 ### The Inheritance of Craft
 
-Quztar Aqun'Râshequ was born into the reeds themselves. His family had been thatchers for generations, their knowledge passed down like liturgy from father to son and uncle to nephew, until it was part of the blood of Clan Aqun'Râshequ. His childhood was spent not in schooling houses but in marshes and on rooftops, learning first to identify the different grades of reed by touch and sound, then to bind them with the proper tension, and finally to read the angle of water flow and understand how to create roofs that were as much sculpture as shelter. His father, [[being-taletaqnrshq|Talet Aqun'Râshequ]], was known throughout the lower delta for his work on the great temples, and Quztar grew up in the shadow of that reputation, determined to surpass it.
+Kuztar Akun'Rasheku was born into the reeds themselves. His family had been thatchers for generations, their knowledge passed down like liturgy from father to son and uncle to nephew, until it was part of the blood of Clan Akun'Rasheku. His childhood was spent not in schooling houses but in marshes and on rooftops, learning first to identify the different grades of reed by touch and sound, then to bind them with the proper tension, and finally to read the angle of water flow and understand how to create roofs that were as much sculpture as shelter. His father, [[being-taletaqnrshq|Talet Akun'Rasheku]], was known throughout the lower delta for his work on the great temples, and Kuztar grew up in the shadow of that reputation, determined to surpass it.
 
 ### Years of Mastery
 
-By his thirtieth year, Quztar had established himself as the premier thatcher of his region. His roofs shed water and, the villagers claimed, sang in the rain, their many layers making harmonies said to have healing properties. His methods, refined by his own improvements upon centuries of family knowledge, became the standard by which other thatchers were measured. He traveled among the villages and farms of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] empire, his reputation preceding him, his fees among the highest but universally considered worth the price. Temples commissioned him, nobles competed for his availability, and young craftsmen apprenticed themselves to him, hoping to capture a fraction of his mastery.
+By his thirtieth year, Kuztar had established himself as the premier thatcher of his region. His roofs shed water and, the villagers claimed, sang in the rain, their many layers making harmonies said to have healing properties. His methods, refined by his own improvements upon centuries of family knowledge, became the standard by which other thatchers were measured. He traveled among the villages and farms of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] empire, his reputation preceding him, his fees among the highest but universally considered worth the price. Temples commissioned him, nobles competed for his availability, and young craftsmen apprenticed themselves to him, hoping to capture a fraction of his mastery.
 
 ### The Long Afternoon
 
-Now fifty-eight, Quztar has entered the last years of his working life, though his skills have not diminished. Rather, the world has begun to shift around him. Younger thatchers, many of them his own students, have begun experimenting with hybrid techniques, incorporating newer materials available through expanded trade routes, and charging substantially less than Quztar's traditional fees. While Quztar maintains that these new methods sacrifice durability for economy, the difference is subtle enough that many property owners can no longer justify the premium they once paid without hesitation. Yet the finest buildings in the land, and those whose owners understand the true value of work that lasts generations rather than decades, still seek him out. He moves more slowly now, and refuses work involving the steepest pitches, yet the work he does accept remains flawless.
+Now fifty-eight, Kuztar has entered the last years of his working life, though his skills have not diminished. Rather, the world has begun to shift around him. Younger thatchers, many of them his own students, have begun experimenting with hybrid techniques, incorporating newer materials available through expanded trade routes, and charging substantially less than Kuztar's traditional fees. While Kuztar maintains that these new methods sacrifice durability for economy, the difference is subtle enough that many property owners can no longer justify the premium they once paid without hesitation. Yet the finest buildings in the land, and those whose owners understand the true value of work that lasts generations rather than decades, still seek him out. He moves more slowly now, and refuses work involving the steepest pitches, yet the work he does accept remains flawless.
 
 ## Psyche
 
 ### Personality
 
-Quztar is a dignified, reserved man given to thoughtful pauses. He speaks rarely but with precision, every word weighted with intention. His long decades of observation have made him philosophical, prone to seeing in the patterns of reed and water the deeper truths of existence—resilience, adaptation, the beauty of form serving function. He has developed a wry, subtle humor that manifests more in knowing looks than in laughter, and his students learn to recognize the gentle mockery in his silences when they suggest approaches he views as inferior.
+Kuztar is a dignified, reserved man given to thoughtful pauses. He speaks rarely but with precision, every word weighted with intention. His long decades of observation have made him philosophical, prone to seeing in the patterns of reed and water the deeper truths of existence—resilience, adaptation, the beauty of form serving function. He has developed a wry, subtle humor that manifests more in knowing looks than in laughter, and his students learn to recognize the gentle mockery in his silences when they suggest approaches he views as inferior.
 
-Despite his masterful skill, Quztar remains humble about his reputation, often deflecting praise by insisting that he is merely a steward of knowledge passed down through generations. The modesty rests on a deep confidence: he knows he is among the greatest craftsmen of his age, and that knowledge has freed him from the need to defend or prove himself. His one passion these days is passing his knowledge to younger craftsmen, and he takes great pains to see that his most promising students develop the philosophical understanding that turns good work into great craftsmanship, and not technical skill alone.
+Despite his masterful skill, Kuztar remains humble about his reputation, often deflecting praise by insisting that he is merely a steward of knowledge passed down through generations. The modesty rests on a deep confidence: he knows he is among the greatest craftsmen of his age, and that knowledge has freed him from the need to defend or prove himself. His one passion these days is passing his knowledge to younger craftsmen, and he takes great pains to see that his most promising students develop the philosophical understanding that turns good work into great craftsmanship, and not technical skill alone.
 
 ### Motivation
 
-Quztar's primary motivation is the preservation of craft excellence in an age increasingly driven by economy and speed. He is determined that the knowledge accumulated by his family and refined through his own decades of practice should not perish with him. He sees each apprentice he teaches, each young thatcher he mentors, as a vessel carrying forward the legacy of generations. At the same time, he wrestles with the question of legacy itself—will the new methods of his students ultimately prove superior to the traditions he has spent a lifetime perfecting? This question troubles him more than he would admit to most.
+Kuztar's primary motivation is the preservation of craft excellence in an age increasingly driven by economy and speed. He is determined that the knowledge accumulated by his family and refined through his own decades of practice should not perish with him. He sees each apprentice he teaches, each young thatcher he mentors, as a vessel carrying forward the legacy of generations. At the same time, he wrestles with the question of legacy itself—will the new methods of his students ultimately prove superior to the traditions he has spent a lifetime perfecting? This question troubles him more than he would admit to most.
 
 ### Strengths
 
-- **Technical Mastery**: Quztar's thatch work is traditional technique at its highest. His roofs are engineered to last a century or more with only minimal maintenance, and the quality of his work is immediately apparent even to untrained eyes in the perfect slope and flawless finish.
+- **Technical Mastery**: Kuztar's thatch work is traditional technique at its highest. His roofs are engineered to last a century or more with only minimal maintenance, and the quality of his work is immediately apparent even to untrained eyes in the perfect slope and flawless finish.
 
-- **Mentorship and Teaching Skill**: Despite his reserve, or perhaps because of it, Quztar is an excellent teacher. He understands how to break down complex techniques into components that students can master progressively, and his patience with learners is matched only by his intolerance of carelessness.
+- **Mentorship and Teaching Skill**: Despite his reserve, or perhaps because of it, Kuztar is an excellent teacher. He understands how to break down complex techniques into components that students can master progressively, and his patience with learners is matched only by his intolerance of carelessness.
 
-- **Deep Knowledge of Materials**: Quztar understands reeds, grasses, and binding materials in their subtlest aspects. He can assess a reed bundle by sight and touch, determine its lifespan, and select from his suppliers so exactingly that only the finest materials arrive at his work sites.
+- **Deep Knowledge of Materials**: Kuztar understands reeds, grasses, and binding materials in their subtlest aspects. He can assess a reed bundle by sight and touch, determine its lifespan, and select from his suppliers so exactingly that only the finest materials arrive at his work sites.
 
-- **Innovative Problem-Solving**: Though traditional in his philosophy, Quztar is not rigid in his practice. When faced with unusual architectural challenges or environmental conditions, his deep understanding of principles allows him to devise solutions that preserve quality while addressing novel circumstances.
+- **Innovative Problem-Solving**: Though traditional in his philosophy, Kuztar is not rigid in his practice. When faced with unusual architectural challenges or environmental conditions, his deep understanding of principles allows him to devise solutions that preserve quality while addressing novel circumstances.
 
-- **Physical Endurance**: Despite his age, Quztar maintains the strength and balance necessary for roof work. His movements, though slightly slower than in youth, remain economical and safe, and he has never suffered a serious fall or injury in all his working years.
+- **Physical Endurance**: Despite his age, Kuztar maintains the strength and balance necessary for roof work. His movements, though slightly slower than in youth, remain economical and safe, and he has never suffered a serious fall or injury in all his working years.
 
 ### Weaknesses
 
-- **Resistance to Innovation**: Quztar's respect for tradition sometimes calcifies into an inability to accept that newer techniques might offer real advantages in certain contexts. This has caused some clients to seek younger thatchers for projects where speed or cost is a consideration.
+- **Resistance to Innovation**: Kuztar's respect for tradition sometimes calcifies into an inability to accept that newer techniques might offer real advantages in certain contexts. This has caused some clients to seek younger thatchers for projects where speed or cost is a consideration.
 
-- **Limited Physical Capacity for Heavy Labor**: As he ages, Quztar finds himself unable to undertake the most demanding jobs—those involving extremely steep pitches, complex multi-level roofs, or projects that demand extended periods of continuous labor. He must now decline work or hire younger craftsmen to handle the physically taxing components, diminishing his autonomy.
+- **Limited Physical Capacity for Heavy Labor**: As he ages, Kuztar finds himself unable to undertake the most demanding jobs—those involving extremely steep pitches, complex multi-level roofs, or projects that demand extended periods of continuous labor. He must now decline work or hire younger craftsmen to handle the physically taxing components, diminishing his autonomy.
 
 - **Economic Vulnerability**: His insistence on traditional, time-intensive methods means his rates are substantially higher than competitors. As economic pressure increases among property owners, fewer can afford his services, gradually eroding his opportunities and income.
 
-- **Emotional Distance from His Children**: Quztar's complete dedication to his craft left limited space for family relationships. His own children, who inherited his surname but not his passion for the trade, view him with respect but also distance. He has no close family relationships to sustain him in his later years.
+- **Emotional Distance from His Children**: Kuztar's complete dedication to his craft left limited space for family relationships. His own children, who inherited his surname but not his passion for the trade, view him with respect but also distance. He has no close family relationships to sustain him in his later years.
 
-- **Perfectionism That Borders on Obsession**: Quztar cannot accept work from his students that he considers substandard, even after they have become accomplished craftsmen themselves. This has created tensions with former apprentices who view his persistent criticism as undermining rather than educational.
+- **Perfectionism That Borders on Obsession**: Kuztar cannot accept work from his students that he considers substandard, even after they have become accomplished craftsmen themselves. This has created tensions with former apprentices who view his persistent criticism as undermining rather than educational.
 
 ## Social
 
 ### Patrons
 
-The Lut-Uzn'êra, High Priestess **Amqelitâna**
-: The great temple dedicated to the deity of fertility and renewal has commissioned Quztar for all major thatching work for the past three decades. Amqelitâna views Quztar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
+The Lut-Uzn'era, High Priestess **Amqelitana**
+: The great temple dedicated to the deity of fertility and renewal has commissioned Kuztar for all major thatching work for the past three decades. Amqelitana views Kuztar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
 
 [[affiliation-linzegarmglt|Lin'Zegaru elu Miglet]]
-: A consortium of the region's most successful farming families maintains a standing agreement with Quztar to maintain and repair the complex system of storage buildings, granaries, and shelters that form the backbone of their operation. They pay him an annual retainer that provides a measure of financial security.
+: A consortium of the region's most successful farming families maintains a standing agreement with Kuztar to maintain and repair the complex system of storage buildings, granaries, and shelters that form the backbone of their operation. They pay him an annual retainer that provides a measure of financial security.
 
 Lord [[being-gezhtymnkhz2|Gezehutyu Menkhezerre]]
-: A noble administrator of considerable influence, Gezehutyu commissions Quztar for all his various holdings and has been known to delay important projects waiting for Quztar's availability, trusting no other with such significant investments.
+: A noble administrator of considerable influence, Gezehutyu commissions Kuztar for all his various holdings and has been known to delay important projects waiting for Kuztar's availability, trusting no other with such significant investments.
 
 ### Enemies
 
 [[being-khelosuefu|Khelosuefu]] the Innovator
-: A former student of Quztar's who broke away to establish his own practice using hybrid techniques combining traditional and newer methods. Khelosuefu's work is adequate and his prices significantly lower, earning him the contracts Quztar once would have assumed were his by right. Though no open conflict exists, Quztar views Khelosuefu's success as a betrayal of the principles he taught, and Khelosuefu himself feels stung by Quztar's public criticism of his methods.
+: A former student of Kuztar's who broke away to establish his own practice using hybrid techniques combining traditional and newer methods. Khelosuefu's work is adequate and his prices significantly lower, earning him the contracts Kuztar once would have assumed were his by right. Though no open conflict exists, Kuztar views Khelosuefu's success as a betrayal of the principles he taught, and Khelosuefu himself feels stung by Kuztar's public criticism of his methods.
 
 ### Affiliations
 
 [[affiliation-linzemnglzk2|Lin'Zemnu elu Galezkara]]
-: A society of the finest skilled craftspeople in the Empire, Quztar is one of the guild elders and sits on the council that arbitrates disputes and maintains standards of quality throughout the trade.
+: A society of the finest skilled craftspeople in the Empire, Kuztar is one of the guild elders and sits on the council that arbitrates disputes and maintains standards of quality throughout the trade.
 
 ## Plot Hooks
 
-1. **The Temple's Silent Roof**: Quztar is commissioned for what should be a routine maintenance project on the great Lut-Uzn'êra, but he discovers subtle damage that suggests the structure has been subjected to forces far beyond normal settling or wear. Investigation reveals that someone has been deliberately weakening the roof from below, and discovering why—and for what purpose—becomes a matter of personal honor and concern for the hundreds of pilgrims who gather beneath that roof.
+1. **The Temple's Silent Roof**: Kuztar is commissioned for what should be a routine maintenance project on the great Lut-Uzn'era, but he discovers subtle damage that suggests the structure has been subjected to forces far beyond normal settling or wear. Investigation reveals that someone has been deliberately weakening the roof from below, and discovering why—and for what purpose—becomes a matter of personal honor and concern for the hundreds of pilgrims who gather beneath that roof.
 
-2. **The Apprentice's Betrayal and Redemption**: One of Quztar's most talented students, a young man named [[being-aqasi|Aqasi]], secretly takes a lucrative contract with a wealthy merchant known for cutting corners on quality. When one of Aqasi's roofs fails catastrophically in a storm, injuring multiple people, Quztar can distance himself from the scandal or risk his own reputation by publicly supporting his student through the consequences.
+2. **The Apprentice's Betrayal and Redemption**: One of Kuztar's most talented students, a young man named [[being-aqasi|Aqasi]], secretly takes a lucrative contract with a wealthy merchant known for cutting corners on quality. When one of Aqasi's roofs fails catastrophically in a storm, injuring multiple people, Kuztar can distance himself from the scandal or risk his own reputation by publicly supporting his student through the consequences.
 
-3. **The Architectural Secret**: While working on repairs to an ancient temple, Quztar discovers evidence that the original builders encoded mathematical and astronomical knowledge into the structure and angles of their roofwork. This discovery suggests that traditional thatch-making may have sacred or mystical dimensions lost to time. Quztar becomes obsessed with decoding this knowledge, believing it represents a direct connection to the masters who preceded him.
+3. **The Architectural Secret**: While working on repairs to an ancient temple, Kuztar discovers evidence that the original builders encoded mathematical and astronomical knowledge into the structure and angles of their roofwork. This discovery suggests that traditional thatch-making may have sacred or mystical dimensions lost to time. Kuztar becomes obsessed with decoding this knowledge, believing it represents a direct connection to the masters who preceded him.
 
-4. **The Trade War Over Resources**: A conflict between different reed suppliers in the delta threatens the supply of reed that has served Quztar for decades. When one supplier allies with younger thatchers to monopolize the finest reed stock, Quztar is drawn into the politics he has always avoided, and may have to take a side in a trade dispute to preserve his craft.
+4. **The Trade War Over Resources**: A conflict between different reed suppliers in the delta threatens the supply of reed that has served Kuztar for decades. When one supplier allies with younger thatchers to monopolize the finest reed stock, Kuztar is drawn into the politics he has always avoided, and may have to take a side in a trade dispute to preserve his craft.
 
-5. **The Final Masterwork**: A distant noble, hearing of Quztar's age and skill, offers him an extraordinary commission—to design and oversee the construction of the most ambitious thatched structure ever attempted, a hybrid temple-palace that would represent the apex of the art form. The project would occupy the last years of his life and cement his legacy forever—but success is not guaranteed, and failure could tarnish his reputation, while refusal means accepting that his greatest work has already been created.
+5. **The Final Masterwork**: A distant noble, hearing of Kuztar's age and skill, offers him an extraordinary commission—to design and oversee the construction of the most ambitious thatched structure ever attempted, a hybrid temple-palace that would represent the apex of the art form. The project would occupy the last years of his life and cement his legacy forever—but success is not guaranteed, and failure could tarnish his reputation, while refusal means accepting that his greatest work has already been created.

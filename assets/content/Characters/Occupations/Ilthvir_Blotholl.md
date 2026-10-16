@@ -1,6 +1,6 @@
 ---
 shortcode: ilthvrblthl
-name: {full: Ilthvir Blóthöll, aliases: []}
+name: {full: Ilthvir Bletholl, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -395,11 +395,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Ilthvir Blóthöll is a 32-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a broad chin. His sharp hazel eyes sit beneath heavy brows and give him an incisive gaze. He has a prominent nose and thin lips. He has fair skin with a weathered complexion. His dark blonde hair is pulled back in a warrior's knot.
+Ilthvir Bletholl is a 32-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a broad chin. His sharp hazel eyes sit beneath heavy brows and give him an incisive gaze. He has a prominent nose and thin lips. He has fair skin with a weathered complexion. His dark blonde hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Ilthvir Blóthöll is a yeoman archer.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Ilthvir Bletholl is a yeoman archer.
 
 Ilthvir has always had a knack for archery, learning to hunt with a bow from a young age. His skill with a longbow earned him a place among the local lord’s yeomen. Known for his accuracy and steady hand, he has made a name for himself as one of the best archers in the region. He often goes out as a scout and marksman, and prefers to keep his distance from the press of melee.
 

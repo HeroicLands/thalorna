@@ -1,6 +1,6 @@
 ---
 shortcode: sphrdrtbrs
-name: {full: Sphrâdira Tâbîrês, aliases: []}
+name: {full: Sfradira Tabires, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,23 +392,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Sphrâdira Tâbîrês is a 25-year-old woman who stands 5'11" tall and is of moderate build. She has a square face with sharp cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has an aquiline nose and firm lips. She has tanned skin with an olive-toned complexion. Her black hair is pinned in an elegant twist.
+Sfradira Tabires is a 25-year-old woman who stands 5'11" tall and is of moderate build. She has a square face with sharp cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has an aquiline nose and firm lips. She has tanned skin with an olive-toned complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Sphrâdira Tâbîrês is a scribe of Pelagora, the naval city of [[place-helionis|Heliónis]], the daughter of a Helionite house of standing who chose a trade over a marriage and holds a scribe's seal registered with the Imperial Scribal Guild.
+Sfradira Tabires is a scribe of Pelagora, the naval city of [[place-helionis|Helionis]], the daughter of a Helionite house of standing who chose a trade over a marriage and holds a scribe's seal registered with the Imperial Scribal Guild.
 
-Sphrâdira comes of a family that sits in the citizen assembly and owns two ships, and a daughter of such a house is expected to marry into another. She read instead, and at fifteen entered the Guild's chapterhouse for the seven-year course, which her father allowed on the understanding that she would not finish it. She finished it. She keeps an office off the harbor and writes for the shipowning families and the courts: contracts, wills, pleadings, and the fair copies of assembly decrees that are worth nothing in a Helionite court without a sealed hand at the foot of them. Her copies are exact, and they are also beautiful, which the Guild does not require and the families pay for. She reads the old poets at night, and she has begun a book of her own that nobody has seen.
+Sfradira comes of a family that sits in the citizen assembly and owns two ships, and a daughter of such a house is expected to marry into another. She read instead, and at fifteen entered the Guild's chapterhouse for the seven-year course, which her father allowed on the understanding that she would not finish it. She finished it. She keeps an office off the harbor and writes for the shipowning families and the courts: contracts, wills, pleadings, and the fair copies of assembly decrees that are worth nothing in a Helionite court without a sealed hand at the foot of them. Her copies are exact, and they are also beautiful, which the Guild does not require and the families pay for. She reads the old poets at night, and she has begun a book of her own that nobody has seen.
 
 ## Psyche
 
 ### Personality
 
-Sphrâdira is precise, proud and slow: she will recopy a page for a stroke she does not like, and she has never yet delivered a commission early. She is warmer on the page than in the room.
+Sfradira is precise, proud and slow: she will recopy a page for a stroke she does not like, and she has never yet delivered a commission early. She is warmer on the page than in the room.
 
 ### Motivation
 
-Sphrâdira wants every page that carries her seal to be exact and beautiful, and she wants to write a book that outlasts the contracts. The first eats the hours the second needs.
+Sfradira wants every page that carries her seal to be exact and beautiful, and she wants to write a book that outlasts the contracts. The first eats the hours the second needs.
 
 ### Strengths
 
@@ -416,13 +416,13 @@ Orderly and exact, skilled in the formal hands, able to follow a difficult text.
 
 ## Social
 
-Sphrâdira holds a scribe's seal registered with the Imperial Scribal Guild, which makes her copies good in any court of the empire.
+Sfradira holds a scribe's seal registered with the Imperial Scribal Guild, which makes her copies good in any court of the empire.
 
 ## Companions
 
 ### Patrons
 
-Sphrâdira's patrons are the shipowning families of Pelagora, who send their contracts and wills to her, and the clerks of the citizen assembly, who send her the decrees to be fair-copied and sealed.
+Sfradira's patrons are the shipowning families of Pelagora, who send their contracts and wills to her, and the clerks of the citizen assembly, who send her the decrees to be fair-copied and sealed.
 
 ### Enemies
 
@@ -430,10 +430,10 @@ A master scribe of the chapterhouse who was passed over for the assembly's work 
 
 ## Plot Hooks
 
-1. **The Decree**—A decree Sphrâdira fair-copied and sealed has been read in the assembly with a clause she did not write, and the demagogue who read it says the seal is hers. It is. The clause is not.
+1. **The Decree**—A decree Sfradira fair-copied and sealed has been read in the assembly with a clause she did not write, and the demagogue who read it says the seal is hers. It is. The clause is not.
 
-2. **The Forged Seal**—A will has surfaced in a court of Pelagora in a hand very like Sphrâdira's, under a seal that is hers to the last mark. The Guild's penalty for a counterfeited seal falls first on the seal's owner.
+2. **The Forged Seal**—A will has surfaced in a court of Pelagora in a hand very like Sfradira's, under a seal that is hers to the last mark. The Guild's penalty for a counterfeited seal falls first on the seal's owner.
 
-3. **The Thyrenae Text**—A philosopher of Thyrenae has asked Sphrâdira for a fair copy of a work on the founding of the Arcane Order, for private circulation. The chapterhouse's senior officer has asked her, the same week, to tell him of any such commission.
+3. **The Thirenae Text**—A philosopher of Thirenae has asked Sfradira for a fair copy of a work on the founding of the Arcane Order, for private circulation. The chapterhouse's senior officer has asked her, the same week, to tell him of any such commission.
 
-4. **The Late Commission**—A marriage contract must be sealed before the fleet sails in four days, and Sphrâdira has three days' work on it and a book that will not leave her alone.
+4. **The Late Commission**—A marriage contract must be sealed before the fleet sails in four days, and Sfradira has three days' work on it and a book that will not leave her alone.

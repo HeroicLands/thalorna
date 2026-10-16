@@ -1,9 +1,9 @@
 ---
 shortcode: anthorvdrisk
-name: {full: Anthorv Driskumakh, aliases: [Lord Anthorv Driskumakh]}
+name: {full: Anthorv Driskumak, aliases: [Lord Anthorv Driskumak]}
 type: being
 subType: npc
-description: A cold and exacting nobleman of moderate wealth who owns the household servant Dvilgthýra Skraldumakh.
+description: A cold and exacting nobleman of moderate wealth who owns the household servant Dvilgthira Skraldumak.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Anthorv Driskumakh is a 20-year-old man who stands 6'4" tall with a medium build. He has light skin, freckled complexion, dark brown hair, and brown eyes.
+Anthorv Driskumak is a 20-year-old man who stands 6'4" tall with a medium build. He has light skin, freckled complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Anthorv Driskumakh is a cold and exacting nobleman of moderate wealth who owns the household servant [[being-dvlgthyrskrldmkh|Dvilgthýra Skraldumakh]]. He bought [[being-dvlgthyrskrldmkh|Dvilgthýra Skraldumakh]] at age twelve, preferring competent staff to beautiful ones, and has come to rely on her more than he acknowledges.
+Anthorv Driskumak is a cold and exacting nobleman of moderate wealth who owns the household servant [[being-dvlgthyrskrldmkh|Dvilgthira Skraldumak]]. He bought [[being-dvlgthyrskrldmkh|Dvilgthira Skraldumak]] at age twelve, preferring competent staff to beautiful ones, and has come to rely on her more than he acknowledges.

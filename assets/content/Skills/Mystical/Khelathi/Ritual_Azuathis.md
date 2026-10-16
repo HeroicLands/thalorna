@@ -1,6 +1,6 @@
 ---
 shortcode: ritualazuths
-name: {full: "Ritual: Azu'âthis", aliases: []}
+name: {full: "Ritual: Azu'athis", aliases: []}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-azuathis|Faith of Azu'âthis]]
+See [[affiliation-azuathis|Faith of Azu'athis]]

@@ -3,7 +3,7 @@ shortcode: lamenthaulonna
 name: {full: The Lament of Haulonna, aliases: [Haulonnaren nelthava]}
 type: lore
 subType: literature
-description: "The Sinalë lament sung in the Hallowwood when word comes from the north: five of the dead of Haulonna called by their worn names, the night the runes were cut told plainly, the long-watcher left uncalled at his watch, and the line that ends every lament left unsung until the valley is loosed."
+description: "The Sinale lament sung in the Hallowwood when word comes from the north: five of the dead of Haulonna called by their worn names, the night the runes were cut told plainly, the long-watcher left uncalled at his watch, and the line that ends every lament left unsung until the valley is loosed."
 tags: [draft, sinale]
 data:
   culture: sinaleclt
@@ -20,7 +20,7 @@ data:
 # terran_analog: "Canu Heledd and the Llywarch Hen englynion, for the survivor's refrain over the empty hall; the Kalevala and the Kanteletar, for the line restated by the line that follows; Karelian lament-singing, which calls the dead by name and circumlocution; Finnic origin-charms, which tell how a harm was made so that it can be undone."
 ---
 
-**The Lament of Haulonna**, _Haulonnaren nelthava_, is the lament the [[lore-flksinale|Sinalë]] of the [[place-hallowwood|Hallowwood]] sing on the evening word comes from the north. Word comes seldom and by one person at a time: a Sinalo who went up alone to the valley of [[place-haulonna|Haulonna]], the hearth of the unfallen leaf, comes back down to the wood and says what stands there, and when what stands there is what stood the morning after its fall, the wood sings this that night. A _nelthava_ is a lament that calls the dead by name, and it keeps one shape wherever Sinalë sing: it opens on [[lore-goddreams|Aulveira]] coming for the one who has died, it calls each of the dead in turn, and it closes on one fixed line, known to every Sinalo, which says that the dead are gathered into **Ollevirno**, the god's hall, the gathering of the dead. The dead of Haulonna are not gathered. The runes cut into the valley hold their spirits in it, awake, and the god has not come for them, so the singers of the Hallowwood call five of them by name, tell plainly how the valley was shut, and stop where the closing line stands. A name spoken to its bearer wears in [[skill-sinalelng|Sinalë]], so the name in the call is not the name in the telling—Pelvaila spoken of is Velvaila called—and the rendering keeps both forms, because the difference between them is the whole of what a call is. The one who had the long watch of the valley, **Ansorudhe Lonvunto**, is never named in the verse: his name opens on a vowel and cannot wear, so to speak it is to call him, and the singers do not call him off his watch. An [[lore-aelendnppl|Áelendan]] embassy from across the water, received in the wood on a night word had come, heard the lament sung before anything else was said to it, and asked for it, and was given it together with the account of its shape; the Tradition Keepers hold it as it was given, with the stop where the Sinalë stop, and the roll of the paths reached them one line short, so the gap is kept where it fell. It is sung by no human voice anywhere but theirs.
+**The Lament of Haulonna**, _Haulonnaren nelthava_, is the lament the [[lore-flksinale|Sinale]] of the [[place-hallowwood|Hallowwood]] sing on the evening word comes from the north. Word comes seldom and by one person at a time: a Sinalo who went up alone to the valley of [[place-haulonna|Haulonna]], the hearth of the unfallen leaf, comes back down to the wood and says what stands there, and when what stands there is what stood the morning after its fall, the wood sings this that night. A _nelthava_ is a lament that calls the dead by name, and it keeps one shape wherever Sinale sing: it opens on [[lore-goddreams|Aulveira]] coming for the one who has died, it calls each of the dead in turn, and it closes on one fixed line, known to every Sinalo, which says that the dead are gathered into **Ollevirno**, the god's hall, the gathering of the dead. The dead of Haulonna are not gathered. The runes cut into the valley hold their spirits in it, awake, and the god has not come for them, so the singers of the Hallowwood call five of them by name, tell plainly how the valley was shut, and stop where the closing line stands. A name spoken to its bearer wears in [[skill-sinalelng|Sinale]], so the name in the call is not the name in the telling—Pelvaila spoken of is Velvaila called—and the rendering keeps both forms, because the difference between them is the whole of what a call is. The one who had the long watch of the valley, **Ansorudhe Lonvunto**, is never named in the verse: his name opens on a vowel and cannot wear, so to speak it is to call him, and the singers do not call him off his watch. An [[lore-aelendnppl|Áelendan]] embassy from across the water, received in the wood on a night word had come, heard the lament sung before anything else was said to it, and asked for it, and was given it together with the account of its shape; the Tradition Keepers hold it as it was given, with the stop where the Sinale stop, and the roll of the paths reached them one line short, so the gap is kept where it fell. It is sung by no human voice anywhere but theirs.
 
 : The Lament of Haulonna {#lament}
 
@@ -203,7 +203,7 @@ The wards of Haulonna were older than the trees that held them.
   They were in the roots. The roots were in them. There was no telling the one from the other.
 A man came in by the path over the saddle, the one that nobody used, and that was turned anyway.
   He came in at night. He was a man of the north, dead already, and walking.
-[[being-hlskmylsvrtrnr|Hluskmýl Svartrúnar]] is his name. It is said once.
+[[being-hlskmylsvrtrnr|Hlusmil Svartrunar]] is his name. It is said once.
   He came through the wards. We do not know how. We have gone up since and looked, and we do not know how.
 What he served put a hand under him. It is one of the ones we name Dark.
   He went in among the hearth-row in the dark, and he cut.
@@ -306,6 +306,6 @@ Here stands the line that ends a lament.
 
 ## See Also
 
-- [[place-haulonna|Haulonna]] · [[being-hlskmylsvrtrnr|Hluskmýl Svartrúnar]] · [[affiliation-nahild|Faith of Náhild]]
-- [[lore-goddreams|The God of Dreams]] · [[lore-flksinale|Sinalë]] · [[place-hallowwood|The Hallowwood]]
-- [[skill-sinalelng|Sinalë Language]] · [[doc-sinalelexcn|Sinalë Lexicon]] · [[lore-aelendnppl|Áelendan People]]
+- [[place-haulonna|Haulonna]] · [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]] · [[affiliation-nahild|Faith of Nahild]]
+- [[lore-goddreams|The God of Dreams]] · [[lore-flksinale|Sinale]] · [[place-hallowwood|The Hallowwood]]
+- [[skill-sinalelng|Sinale Language]] · [[skill-sinalelng#lexicon|Sinale Lexicon]] · [[lore-aelendnppl|Áelendan People]]

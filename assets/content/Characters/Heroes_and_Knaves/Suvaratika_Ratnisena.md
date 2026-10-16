@@ -449,7 +449,7 @@ Yet her success remains modest by the standards of larger merchants, and she has
 
 Suvaratika is a woman of few words and deep creative vision. She speaks only when she has something to communicate, and her thoughts tend toward the abstract and philosophical. She is fascinated by the nature of play, the relationship between form and function, and the ways in which objects can encode meaning and wisdom for those perceptive enough to receive it. She has a gentle sense of humor, often making dry observations about the ironies of her work—how the most valuable toys are often the simplest, how children often prefer boxes to the elaborate toys within them.
 
-She is spiritual in a personal way, devoted to Meghanātha, the storm-goddess, viewing the chaotic power of storms as metaphor for the creative force that flows through her work. She views her toys not as commercial products but as offerings—small pieces of intentional beauty released into the world to inspire wonder in those who receive them.
+She is spiritual in a personal way, devoted to Meghonata, the storm-goddess, viewing the chaotic power of storms as metaphor for the creative force that flows through her work. She views her toys not as commercial products but as offerings—small pieces of intentional beauty released into the world to inspire wonder in those who receive them.
 
 ### Motivation
 
@@ -475,7 +475,7 @@ As she approaches forty, she is increasingly aware that her vision could die wit
 
 ### Patrons
 
-Arghika Ghotranyāsa of a great house
+Arghika Ghotranyasa of a great house
 : A wealthy merchant's wife and dedicated patron of Vedyara's craftspeople who has commissioned numerous toys for her children and grandchildren. She has become Suvaratika's de facto advocate, recommending her work to other great houses and occasionally commissioning custom pieces.
 
 The House of Childhood Wisdom
@@ -486,15 +486,15 @@ The House of Childhood Wisdom
 The Merchant Collective of Mass Producers
 : Large-scale toy manufacturers who view Suvaratika's insistence on handcrafted quality as an obstacle to progress and quick sales. They have occasionally attempted to undercut her prices and capture her customers.
 
-Dhārīka Vyāvahārika
+Darika Vyavaharika
 : A competitive toymaker and a merchant-craftsperson who produces trendy, fashionable toys in high volume. She views Suvaratika's philosophical approach as pretentious and her resistance to mass production as economically naive. The two have engaged in passive-aggressive competition for the same elite clientele.
 
 ### Affiliations
 
-The City Artisans' Shrenī of Vedyara
-: Suvaratika holds full membership and is respected for her commitment to craft standards, though her resistance to shrenī efforts toward collective marketing and quicker output sometimes creates friction.
+The City Artisans' Shrena of Vedyara
+: Suvaratika holds full membership and is respected for her commitment to craft standards, though her resistance to shrena efforts toward collective marketing and quicker output sometimes creates friction.
 
-The Order of Meghanātha's Children
+The Order of Meghonata's Children
 : A spiritual organization devoted to the storm-goddess that Suvaratika maintains loose affiliation with, viewing her creative work as part of a larger spiritual practice of world-making.
 
 ## Plot Hooks
@@ -507,4 +507,4 @@ The Order of Meghanātha's Children
 
 4. **The Accident and Aftermath**: A child is injured while playing with one of Suvaratika's toys—not through any fault of design or craftsmanship, but through a unforeseen circumstance. The child's family sues for damages, and the city-states' legal system becomes involved. Suvaratika must defend both her work and her philosophy while confronting the reality that even the most carefully crafted object cannot prevent all harm. The trial becomes a referendum on the value of artisanship itself.
 
-5. **The Expansion Dilemma**: Arghika Ghotranyāsa proposes that Suvaratika license her designs to mass producers, allowing her vision to reach thousands of children while generating passive income that would allow her to focus entirely on her most ambitious creative work. This offers everything Suvaratika has claimed to want—broader impact and financial security—yet accepting would mean surrendering control of her designs to commercial interests, seeing them manufactured cheaply, and fundamentally compromising her principles. Her decision forces her to confront what she actually values most: purity of craft or authentic impact.
+5. **The Expansion Dilemma**: Arghika Ghotranyasa proposes that Suvaratika license her designs to mass producers, allowing her vision to reach thousands of children while generating passive income that would allow her to focus entirely on her most ambitious creative work. This offers everything Suvaratika has claimed to want—broader impact and financial security—yet accepting would mean surrendering control of her designs to commercial interests, seeing them manufactured cheaply, and fundamentally compromising her principles. Her decision forces her to confront what she actually values most: purity of craft or authentic impact.

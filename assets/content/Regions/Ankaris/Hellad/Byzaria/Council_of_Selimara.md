@@ -3,7 +3,7 @@ shortcode: cnclslmr
 name: {full: Council of Selímara, aliases: []}
 type: affiliation
 subType: polity
-description: "The governing council of the market town of Selímara on the inland roads of Byzaría."
+description: "The governing council of the market town of Selímara on the inland roads of Bizaria."
 tags: [draft]
 data:
   templatePriority: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The **Council of Selímara** governs the market town of [[place-selimara|Selímara]] on the inland roads of [[place-byzariargn|Byzaría]].
+The **Council of Selímara** governs the market town of [[place-selimara|Selímara]] on the inland roads of [[place-byzariargn|Bizaria]].

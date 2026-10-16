@@ -428,7 +428,7 @@ Despite the demands of her craft, Hrandrinna carries herself with an easy grace 
 
 ### The Wild Child
 
-Hrandrinna Drekanótt was born into a family of thatchers in the northern reaches of the [[affiliation-kingdomlgn|Kingdom of Malagna]], where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, Druskthann Drekanótt, was a skilled thatcher of considerable reputation, and her mother, Glarvynda, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Hrandrinna showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's eye for a better method and for money.
+Hrandrinna Drekanótt was born into a family of thatchers in the northern reaches of the [[affiliation-kingdomlgn|Kingdom of Malagna]], where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, Druskthann Drekanótt, was a skilled thatcher of considerable reputation, and her mother, Glarvinda, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Hrandrinna showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's eye for a better method and for money.
 
 Rather than being confined to the domestic tasks expected of a girl, Hrandrinna was permitted—and encouraged—by her father to work alongside him on roofs. By age twelve, she was already assisting on full contracts. By sixteen, she was working on significant projects largely independently, with her father supervising and providing guidance rather than doing the work himself. Her unusual path raised eyebrows in conservative communities, but her competence was undeniable, and in a trade where quality work was more valued than social convention, she gradually earned acceptance.
 
@@ -490,13 +490,13 @@ She is also motivated by the persistent fear that her leg injury will eventually
 
 ### Patrons
 
-**Hvilgthann Glarvidrokh**, Hersvald of [[place-glarvey|Glarvey]]
+**Hvilgthann Glarvidrok**, Hersvald of [[place-glarvey|Glarvey]]
 : The hersvald has engaged Hrandrinna for all his holdings' thatching work for the past decade, appreciating both her quality and her willingness to work within what he can pay. Hvilgthann has become one of her most consistent and reliable clients.
 
 The Farmers' Collective of the Northern Reach
 : A coalition of farming families who pool resources for major maintenance projects contracts with Hrandrinna for seasonal work. While individual projects are small, the aggregate volume provides steady income and allows her to employ her assistant team consistently.
 
-Bishop Rilthorv of the Thrúnvald Temple
+Bishop Rilthorv of the Thrunvald Temple
 : The religious institution dedicated to the storm deity commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The bishop values her skill and the quality of her work.
 
 ### Enemies

@@ -1,16 +1,16 @@
 ---
 shortcode: rathaunamelvar
-name: {full: Râthaunâ Mêlvar, aliases: [The Racecourse]}
+name: {full: Rathauna Melvar, aliases: [The Racecourse]}
 type: place
 subType: structure
-description: "Râthaunâ Mêlvar"
+description: "Rathauna Melvar"
 tags: [draft]
 data: {demonym: null, lore: [], parents: [orzara], population: null, packFolder: vylaria}
 ---
 
 ## Overview
 
-On a race day a veteran of the City Watch can tell where the Racecourse is without looking, because the roar carries across half of [[place-orzara|Ôrzâra]]. The Râthaunâ Mêlvar is a colossal oblong arena, the largest in the world, with tiers of seating rising in a vast U around a central spine. It lies along the valley between Antel and Nerval, and its crowd can reach a quarter-million.
+On a race day a veteran of the City Watch can tell where the Racecourse is without looking, because the roar carries across half of [[place-orzara|Orzara]]. The Rathauna Melvar is a colossal oblong arena, the largest in the world, with tiers of seating rising in a vast U around a central spine. It lies along the valley between Antel and Nerval, and its crowd can reach a quarter-million.
 
 A Watch veteran who has worked the Racecourse Circle on race days since his discharge teaches the new men what the day asks of them: "Know the colors. The racing factions wear them in the stands and in the streets, and the rivalry that begins on the track ends in a brawl by the third race. We do not take sides. We stand between the colors until the last chariot is home and the crowd turns toward the gates, and then we stand between them again."
 
@@ -26,6 +26,6 @@ The Racecourse is one half of "bread and games": the capital's dole includes the
 
 ## See Also
 
-- [[place-orzara|Ôrzâra]]—the city and its public life
+- [[place-orzara|Orzara]]—the city and its public life
 - [[place-sixhillsvyl|Six Hills]]—the hills either side of the valley it fills
 - [[place-magntheatredstr|Theatre District]]—the quieter quarter of pleasure

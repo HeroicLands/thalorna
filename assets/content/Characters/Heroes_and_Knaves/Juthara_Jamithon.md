@@ -1,6 +1,6 @@
 ---
 shortcode: juthrjmthn
-name: {full: Júthâra Jâmîthôn, given: Júthâra, clan: Jâmîthôn, aliases: []}
+name: {full: Júthara Jamithon, given: Júthara, clan: Jamithon, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -418,33 +418,33 @@ sohl:
 
 # Appearance {#appearance}
 
-![[juthrjmthn|Júthâra Jâmîthôn]]{float=top-left}
+![[juthrjmthn|Júthara Jamithon]]{float=top-left}
 
-Júthâra stands 5'11" tall with a medium build. She has warm amber skin, black hair, and brown eyes. Her features include a narrow face, a noble nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a scar running across the stomach.
+Júthara stands 5'11" tall with a medium build. She has warm amber skin, black hair, and brown eyes. Her features include a narrow face, a noble nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a scar running across the stomach.
 
 # Dossier {#dossier}
 
-Born into the Jâmîthôn family during the height of the Matriarchy's intellectual renaissance, Júthâra was destined for scholarly pursuits from birth. Her childhood was spent in vast libraries of the capital, where she devoured texts on mathematics, medicine, and the arcane arts with an insatiable hunger. Under the tutelage of the physician **Tabîra the Wise**, she mastered the complexities of herbal medicine and natural philosophy, earning her credentials as a healer by her early twenties.
+Born into the Jamithon family during the height of the Matriarchy's intellectual renaissance, Júthara was destined for scholarly pursuits from birth. Her childhood was spent in vast libraries of the capital, where she devoured texts on mathematics, medicine, and the arcane arts with an insatiable hunger. Under the tutelage of the physician **Tabira the Wise**, she mastered the complexities of herbal medicine and natural philosophy, earning her credentials as a healer by her early twenties.
 
 Her career took a darker turn when she accepted a commission from the ruling council to investigate a plague spreading through the outer provinces. During fieldwork in a remote village, she was attacked by infected victims who had turned feral—the source of her abdominal scar. She survived, but the experience transformed her from a clinical scholar into one obsessed with understanding the boundary between disease and corruption of the soul. For five years she disappeared from public life, conducting controversial experiments that earned her considerable censure.
 
-Now at thirty-four years of age, Júthâra has emerged as a controversial but respected voice in Bethuian scholarship. She maintains her own research laboratory in the capital and teaches select apprentices, blending traditional knowledge with radical new methodologies. Despite—or perhaps because of—her checkered past, she has become instrumental in advancing the Matriarchy's understanding of medicine and natural philosophy.
+Now at thirty-four years of age, Júthara has emerged as a controversial but respected voice in Bethuian scholarship. She maintains her own research laboratory in the capital and teaches select apprentices, blending traditional knowledge with radical new methodologies. Despite—or perhaps because of—her checkered past, she has become instrumental in advancing the Matriarchy's understanding of medicine and natural philosophy.
 
 ## Psyche
 
 ### Personality
 
-Júthâra is a woman of fierce intellect and equally fierce conviction. Her mind moves with the speed of lightning, grasping implications and connections that escape ordinary scholars. She speaks with precise eloquence, though her words often carry an edge of impatience with slower minds. There is a melancholy undertone to her demeanor, a sense that she carries knowledge of terrible truths the world would prefer to ignore. Yet this darkness is balanced by moments of unexpected warmth, particularly when teaching promising students or discussing theoretical breakthroughs with peers who can match her intellect.
+Júthara is a woman of fierce intellect and equally fierce conviction. Her mind moves with the speed of lightning, grasping implications and connections that escape ordinary scholars. She speaks with precise eloquence, though her words often carry an edge of impatience with slower minds. There is a melancholy undertone to her demeanor, a sense that she carries knowledge of terrible truths the world would prefer to ignore. Yet this darkness is balanced by moments of unexpected warmth, particularly when teaching promising students or discussing theoretical breakthroughs with peers who can match her intellect.
 
 She is deeply self-critical, often more harsh on herself than any external critic could be. This perfectionism drives her brilliance but also creates a tendency toward isolation and doubt. In social settings, she can be awkward and occasionally dismissive of pleasantries, though those who take time to know her discover a dry wit and real (if guarded) affection for those she trusts.
 
 ### Motivation
 
-Júthâra is driven by an almost obsessive need to understand the forces that corrupt flesh and spirit. She believes that knowledge—no matter how terrible or morally ambiguous—is preferable to ignorance. She seeks not merely academic advancement but actual breakthroughs that might prevent others from suffering the horrors she witnessed in that plague-struck village. Beneath her scholarly facade lies a woman determined to pierce the veil between the natural and supernatural, convinced that such understanding is humanity's best defense against the encroaching darkness.
+Júthara is driven by an almost obsessive need to understand the forces that corrupt flesh and spirit. She believes that knowledge—no matter how terrible or morally ambiguous—is preferable to ignorance. She seeks not merely academic advancement but actual breakthroughs that might prevent others from suffering the horrors she witnessed in that plague-struck village. Beneath her scholarly facade lies a woman determined to pierce the veil between the natural and supernatural, convinced that such understanding is humanity's best defense against the encroaching darkness.
 
 ### Strengths
 
-- **Brilliant Theorist**: A reasoning and creativity score of 17-18 makes Júthâra capable of formulating entirely new frameworks for understanding complex phenomena. She regularly publishes innovative works that reshape scholarly discourse.
+- **Brilliant Theorist**: A reasoning and creativity score of 17-18 makes Júthara capable of formulating entirely new frameworks for understanding complex phenomena. She regularly publishes innovative works that reshape scholarly discourse.
 - **Master of Medicine**: With Physician and multiple language skills at 17, combined with extensive training in Herbal Lore, she is among the finest healers in the Matriarchy, capable of diagnosing conditions others cannot recognize.
 - **Skilled Communicator**: Her Discourse and Theatrics at 17 allow her to present complex ideas with compelling eloquence, making her an effective teacher and public speaker.
 - **Disciplined Researcher**: High scores in Script, Mathematics, and Ritual reflection a methodical approach to investigation; she leaves no stone unturned in her scholarly pursuits.
@@ -465,11 +465,11 @@ Júthâra is driven by an almost obsessive need to understand the forces that co
 The Matriarch's Council
 : Officially, she serves the ruling body of [[affiliation-mtrrchybth|Bethua]], conducting investigations and providing medical consultation on matters of state health.
 
-Tabîra the Wise
+Tabira the Wise
 : Her elderly mentor and former primary teacher, though now retired, continues to provide guidance and occasionally supplies rare components for her experiments.
 
 Master Archivist Solene
-: The keeper of the Great Library, who has protected Júthâra's reputation and provided her with access to restricted texts in exchange for her discoveries.
+: The keeper of the Great Library, who has protected Júthara's reputation and provided her with access to restricted texts in exchange for her discoveries.
 
 ### Enemies
 
@@ -489,12 +489,12 @@ The Circle of Natural Philosophy
 
 ## Plot Hooks
 
-1. **The Plague Returns**: A messenger arrives at Júthâra's laboratory bearing news that symptoms matching the plague she once fought have appeared in three different settlements simultaneously—far too coordinated to be natural spread. Investigation suggests someone may be deliberately spreading the disease. Júthâra must decide whether to alert the authorities (risking her research being seized) or investigate covertly, which requires assistance from people of action she doesn't naturally trust.
+1. **The Plague Returns**: A messenger arrives at Júthara's laboratory bearing news that symptoms matching the plague she once fought have appeared in three different settlements simultaneously—far too coordinated to be natural spread. Investigation suggests someone may be deliberately spreading the disease. Júthara must decide whether to alert the authorities (risking her research being seized) or investigate covertly, which requires assistance from people of action she doesn't naturally trust.
 
-2. **The Forbidden Experiment**: A mysterious patron offers Júthâra unlimited resources and access to restricted subjects—criminals and beggars—to continue her most controversial research into the boundary between natural disease and supernatural corruption. The offer is tempting and the patron's motives initially seem purely scientific, but evidence gradually emerges that they are actually seeking a way to weaponize her discoveries. She must navigate whether to proceed for the sake of knowledge or step back from a project that could transform her into a tool of destruction.
+2. **The Forbidden Experiment**: A mysterious patron offers Júthara unlimited resources and access to restricted subjects—criminals and beggars—to continue her most controversial research into the boundary between natural disease and supernatural corruption. The offer is tempting and the patron's motives initially seem purely scientific, but evidence gradually emerges that they are actually seeking a way to weaponize her discoveries. She must navigate whether to proceed for the sake of knowledge or step back from a project that could transform her into a tool of destruction.
 
-3. **Tabîra's Secret**: Her beloved mentor **Tabîra the Wise** is dying from a condition Júthâra cannot diagnose. During a desperate attempt to understand the illness, she discovers evidence in Tabîra's private notes that her mentor was herself involved in the plague research thirty years ago—and may have caused the outbreak Júthâra spent five years investigating. Júthâra must choose between confronting Tabîra and potentially losing her final years together, or burying the truth and living with the knowledge that justice may never come.
+3. **Tabira's Secret**: Her beloved mentor **Tabira the Wise** is dying from a condition Júthara cannot diagnose. During a desperate attempt to understand the illness, she discovers evidence in Tabira's private notes that her mentor was herself involved in the plague research thirty years ago—and may have caused the outbreak Júthara spent five years investigating. Júthara must choose between confronting Tabira and potentially losing her final years together, or burying the truth and living with the knowledge that justice may never come.
 
-4. **The Alchemical Breakthrough**: A young alchemist from outside the Matriarchy arrives with evidence of a transmutation process that could revolutionize medicine. However, the process requires components Júthâra knows to be fundamentally corrupting—things that should not be mixed in the natural world. She must decide whether to suppress potentially world-changing knowledge or explore it despite her grave reservations about the consequences.
+4. **The Alchemical Breakthrough**: A young alchemist from outside the Matriarchy arrives with evidence of a transmutation process that could revolutionize medicine. However, the process requires components Júthara knows to be fundamentally corrupting—things that should not be mixed in the natural world. She must decide whether to suppress potentially world-changing knowledge or explore it despite her grave reservations about the consequences.
 
-5. **Invitation to Darkness**: The mysterious individual causing the plague deliberately sends Júthâra a message, revealing that they know about her five-year disappearance and her most shameful experiments. They offer her a choice: join them in exploring the true nature of the corruption she discovered, or watch as they reveal her secrets to the Council, destroying her life's work and reputation. Refusal is not really an option, forcing her into an alliance with forces she does not understand.
+5. **Invitation to Darkness**: The mysterious individual causing the plague deliberately sends Júthara a message, revealing that they know about her five-year disappearance and her most shameful experiments. They offer her a choice: join them in exploring the true nature of the corruption she discovered, or watch as they reveal her secrets to the Council, destroying her life's work and reputation. Refusal is not really an option, forcing her into an alliance with forces she does not understand.

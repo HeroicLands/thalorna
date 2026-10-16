@@ -1,6 +1,6 @@
 ---
 shortcode: swrnguardnrnk
-name: {full: "Sworn Guardian", aliases: [Grönvördr]}
+name: {full: "Sworn Guardian", aliases: [Gronvordr]}
 type: lore
 subType: law
 description: "The working warden of the Order of the Green Wardens, holding a station or riding circuit relief."

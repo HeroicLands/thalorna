@@ -11,11 +11,11 @@ data: {packFolder: lorespiritsokharic, culture: okharinclt}
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
 - **Domain:** Fertility
 - **Also called:** the Begetter of the Earth
-- **Met through:** [[skill-pembursprt|Pemburari Khutheling Spirit Power]], in the [[affiliation-yenorzhrng|Yénor Zohiring]]
+- **Met through:** [[skill-pembursprt|Pemburari Khutheling Spirit Power]], in the [[affiliation-yenorzhrng|Yenor Zohiring]]
 
 Pemburari Khutheling governs fertility without distinguishing its kinds: the sown field, the
 pregnant herd and the birthing-house are one domain, and the same cairn serves all three. This is
-the zohira most Okhárics deal with most often, and the one whose observances are most thoroughly
+the zohira most Okharics deal with most often, and the one whose observances are most thoroughly
 woven into ordinary life rather than reserved to shamans.
 
 A birth is attended by a shaman where one is available and by the household where one is not, and

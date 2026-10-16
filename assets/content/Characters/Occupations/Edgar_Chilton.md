@@ -1,6 +1,6 @@
 ---
 shortcode: edgarchltn
-name: {full: Edgar Chilton, aliases: []}
+name: {full: Hildmund Chilton, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Edgar Chilton is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a round face with broad cheekbones, a narrow forehead, and a narrow jaw that leads to a pointed chin. His deep-set brown eyes sit beneath arched brows and give him a watchful gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His blonde hair is short and swept back.
+Hildmund Chilton is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a round face with broad cheekbones, a narrow forehead, and a narrow jaw that leads to a pointed chin. His deep-set brown eyes sit beneath arched brows and give him a watchful gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His blonde hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edgar Chilton is an embalmer.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Hildmund Chilton is an embalmer.
 
-Edgar grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and careful nature, he has prepared many bodies for burial over the years. He takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, he is dedicated to his craft and carries out his duties with a solemn respect for the dead.
+Hildmund grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and careful nature, he has prepared many bodies for burial over the years. He takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, he is dedicated to his craft and carries out his duties with a solemn respect for the dead.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ He is socially distant, seen as morbid by some, and struggles to form close rela
 
 ### Motivation
 
-Edgar wants to do right by the dead who come to him and by the families who bring them.
+Hildmund wants to do right by the dead who come to him and by the families who bring them.
 
 ### Strengths
 
@@ -418,13 +418,13 @@ He is skilled in embalming, calm under pressure, and careful in everything he do
 
 ## Social
 
-Edgar belongs to the Morticians' Guild.
+Hildmund belongs to the Morticians' Guild.
 
 ## Companions
 
 ### Patrons
 
-Edgar's patrons are the local families who seek his services for funerals.
+Hildmund's patrons are the local families who seek his services for funerals.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ None, though some people are wary of him due to his profession.
 
 ## Plot Hooks
 
-1. **The Embalmer's Dilemma**—A body brought to Edgar for burial carries marks the family does not mention, and his respect for the dead sits badly with the silence they expect of him.
+1. **The Embalmer's Dilemma**—A body brought to Hildmund for burial carries marks the family does not mention, and his respect for the dead sits badly with the silence they expect of him.
 
-2. **Old Grudges**—Edgar has no enemies, though the people who are wary of his trade are quick to suspect him when a death is questioned.
+2. **Old Grudges**—Hildmund has no enemies, though the people who are wary of his trade are quick to suspect him when a death is questioned.
 
-3. **Echoes of the Past**—A family whose dead Edgar's father prepared years ago returns with questions about how it was done.
+3. **Echoes of the Past**—A family whose dead Hildmund's father prepared years ago returns with questions about how it was done.
 
-4. **Shifting Winds**—Political change in Aelwyth threatens the Morticians' Guild and the custom Edgar depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Aelwyth threatens the Morticians' Guild and the custom Hildmund depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A wealthy family offers Edgar the preparation of all its dead, and what that custom will cost him is not named up front.
+5. **The Opportunity**—A wealthy family offers Hildmund the preparation of all its dead, and what that custom will cost him is not named up front.

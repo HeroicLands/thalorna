@@ -1,6 +1,6 @@
 ---
 shortcode: kayikchalix
-name: {full: "Ritual: K'ayik Ch'alix", aliases: [K'ayik Ch'alix, The Sacred Flame]}
+name: {full: "Ritual: K'ayik Ch'alish", aliases: [K'ayik Ch'alish, The Sacred Flame]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-kayikchalix|Faith of K'ayik Ch'alix]]
+See [[affiliation-kayikchalix|Faith of K'ayik Ch'alish]]

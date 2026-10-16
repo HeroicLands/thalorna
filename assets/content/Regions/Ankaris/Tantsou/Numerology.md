@@ -3,17 +3,17 @@ shortcode: numerology
 name: {full: Numerology, aliases: []}
 type: lore
 subType: arcana
-description: "Which numbers the Tāntsou hold lucky and unlucky—eight, nine, five, three and one against four and six—and how they shape dates, buildings, seals and filings."
+description: "Which numbers the Tantsou hold lucky and unlucky—eight, nine, five, three and one against four and six—and how they shape dates, buildings, seals and filings."
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-A Tāntsou builder asked to add a fourth step to a temple stair adds a fifth instead, and the client pays gladly for the extra step. Numbers in the [[affiliation-tantsouempr|Empire of Tāntsou]] are classifications like everything else: each one belongs to a domain of the sorted order, and using a number brings what it touches under that domain's influence. Families choose wedding days by them, architects count stairs and pillars by them, and generals have delayed an advance to march on a better date.
+A Tantsou builder asked to add a fourth step to a temple stair adds a fifth instead, and the client pays gladly for the extra step. Numbers in the [[affiliation-tantsouempr|Empire of Tantsou]] are classifications like everything else: each one belongs to a domain of the sorted order, and using a number brings what it touches under that domain's influence. Families choose wedding days by them, architects count stairs and pillars by them, and generals have delayed an advance to march on a better date.
 
 ## The Auspicious Numbers
 
 **Eight** is the number of the complete social order, because there are eight castes, and of the endless cycle by which the celestial administration sorts, keeps and renews the world. It is the number of prosperity. Marriages, contracts and filings are set on days that carry an eight so that they will be processed favorably, and merchant houses open on them.
 
-**Nine** is the number of the throne. It is the highest single digit and the fullest expression of the sorted order, tied to the Téngwō, the [[lore-mandatehvn|Mandate of Heaven]], and to the appointment of the imperial line, and every rite of the Emperor and the [[lore-zhazho|Zhazhò]] is counted in nines. It is also a number of protection: the Tānchéi use it in rites that strengthen the boundary between the sorted world and the Hénléi, the unsorted chaos.
+**Nine** is the number of the throne. It is the highest single digit and the fullest expression of the sorted order, tied to the Tengwo, the [[lore-mandatehvn|Mandate of Heaven]], and to the appointment of the imperial line, and every rite of the Emperor and the [[lore-zhazho|Zhazho]] is counted in nines. It is also a number of protection: the Tanchéi use it in rites that strengthen the boundary between the sorted world and the Henléi, the unsorted chaos.
 
 **Five** is the number of the five material domains—Air, Fire, Earth, Metal and Water—that make up the physical world and are kept by the [[lore-fvlmntlrds|Five Elemental Lords]]. It stands for balance among them, and it is used in the rites that keep natural forces in proportion: the agricultural festivals, the healing ceremonies, and any undertaking meant to last.
 
@@ -23,13 +23,13 @@ A Tāntsou builder asked to add a fourth step to a temple stair adds a fifth ins
 
 ## The Inauspicious Numbers
 
-**Four** belongs to no domain at all. It is not the elements' five, the throne's nine or the Emperor's one, and the Tāntsou call it an unsorted number. It is kept out of official buildings, because a thing marked with four is held to slip a little out of its classification.
+**Four** belongs to no domain at all. It is not the elements' five, the throne's nine or the Emperor's one, and the Tantsou call it an unsorted number. It is kept out of official buildings, because a thing marked with four is held to slip a little out of its classification.
 
-**Six** is one short of the seven domains of the [[lore-phlsphyleiwo|Léiwō]] philosophy—the five material domains, Spirit and the Neutral—and so it is a number of unfinished sorting. It is not wholly unlucky, and in some contexts it is a good number, but families avoid it for a wedding or a long contract, where what is wanted is permanence.
+**Six** is one short of the seven domains of the [[lore-phlsphyleiwo|Leiwo]] philosophy—the five material domains, Spirit and the Neutral—and so it is a number of unfinished sorting. It is not wholly unlucky, and in some contexts it is a good number, but families avoid it for a wedding or a long contract, where what is wanted is permanence.
 
 ## Numbers in Daily Life
 
-- **Dates**: weddings, coronations and the dedication of buildings are set for days and hours that carry auspicious numbers, and a [[lore-tanchei|Tānchéi]] astrologer is paid to find one.
+- **Dates**: weddings, coronations and the dedication of buildings are set for days and hours that carry auspicious numbers, and a [[lore-tanchei|Tanchéi]] astrologer is paid to find one.
 - **Design**: a temple has nine steps to its door, a merchant house opens on an eighth day, and no official building has four of anything that can be counted.
 - **Seals and banners**: households and clans work auspicious numbers into their seals, their banners and the spirit documents they burn for their ancestors, so that the celestial bureaus will look on their business favorably.
 
@@ -37,5 +37,5 @@ A Tāntsou builder asked to add a fourth step to a temple stair adds a fifth ins
 
 - [[lore-marriage|Marriage]]—wedding dates chosen by number
 - [[lore-clndrstrlgy|Calendar and Astrology]]—the calendar the numbers are read against
-- [[lore-phlsphyleiwo|Philosophy of Léiwō]]—the domains that give the numbers their meaning
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—overview of imperial culture
+- [[lore-phlsphyleiwo|Philosophy of Leiwo]]—the domains that give the numbers their meaning
+- [[affiliation-tantsouempr|Empire of Tantsou]]—overview of imperial culture

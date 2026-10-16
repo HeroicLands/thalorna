@@ -1,6 +1,6 @@
 ---
 shortcode: asharhrrds
-name: {full: Ashârâ Hârôrdâs, aliases: []}
+name: {full: Ashara Harordas, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, soldiery]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Ashârâ Hârôrdâs is a 34-year-old woman who stands 6'0" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a square jaw that leads to a square chin. Her round brown eyes sit beneath prominent brows and give her a candid gaze. She has a prominent nose and thin lips. She has sun-tanned skin. Her dark brown hair is swept up and held with carved combs.
+Ashara Harordas is a 34-year-old woman who stands 6'0" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a square jaw that leads to a square chin. Her round brown eyes sit beneath prominent brows and give her a candid gaze. She has a prominent nose and thin lips. She has sun-tanned skin. Her dark brown hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a guilded family of Vylarian heritage, Ashârâ Hârôrdâs is a swordmaster.
+Born in the [[place-vylariargn|Vylaria]] region to a guilded family of Vylarian heritage, Ashara Harordas is a swordmaster.
 
-Ashârâ is a skilled duelist who made a name for herself in the city's fencing circles. After winning several prestigious tournaments, she opened her own fencing school, where she trains young nobles and skilled fighters alike. Her quick reflexes and sharp eye make her a dangerous opponent, but she can be overly competitive, sometimes letting her pride get the better of her.
+Ashara is a skilled duelist who made a name for herself in the city's fencing circles. After winning several prestigious tournaments, she opened her own fencing school, where she trains young nobles and skilled fighters alike. Her quick reflexes and sharp eye make her a dangerous opponent, but she can be overly competitive, sometimes letting her pride get the better of her.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ She is overly competitive and sometimes lets pride dictate her actions.
 
 ### Motivation
 
-Ashârâ wants her school to be the first in Vylaria and her own name to stay ahead of every rival's.
+Ashara wants her school to be the first in Vylaria and her own name to stay ahead of every rival's.
 
 ### Strengths
 
@@ -416,13 +416,13 @@ She has quick reflexes, is skilled in dueling, and is an adept teacher.
 
 ## Social
 
-Ashârâ belongs to the City Fencing Guild.
+Ashara belongs to the City Fencing Guild.
 
 ## Companions
 
 ### Patrons
 
-Ashârâ's patrons are the wealthy families who seek her instruction for their children.
+Ashara's patrons are the wealthy families who seek her instruction for their children.
 
 ### Enemies
 
@@ -434,8 +434,8 @@ Rival fencers challenge her for supremacy in the dueling circles.
 
 2. **Old Grudges**—A rival fencer she beat in a tournament challenges her to a duel she cannot decline without losing face.
 
-3. **Echoes of the Past**—A rival from Ashârâ's tournament years returns to Vylaria with an old score to settle.
+3. **Echoes of the Past**—A rival from Ashara's tournament years returns to Vylaria with an old score to settle.
 
-4. **Shifting Winds**—Political change in Vylaria threatens the standing Ashârâ's guild gives her, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vylaria threatens the standing Ashara's guild gives her, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—Ashârâ is offered the post of swordmaster to a noble house, and its price is not named up front.
+5. **The Opportunity**—Ashara is offered the post of swordmaster to a noble house, and its price is not named up front.

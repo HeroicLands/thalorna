@@ -215,7 +215,7 @@ Out on the open grass a loose file of lean, long-legged dogs is trotting steadil
 
 # Dossier {#dossier}
 
-The Painted Dog is the pack hunter of the open savanna, twenty-four to thirty inches at the shoulder and forty to seventy pounds, lean and built for endurance, running in packs of ten to thirty. It ranges the grass, light woodland and scrub of the [[place-sthrnsvnhs|Southern Savannahs]] and the south of [[place-okharisrgn|Okháris]], following the migratory herds over hundreds of square miles and sleeping in a different place each night. No single dog is a match for a lion, but a pack kills in about four hunts in five, against one in four for a lion pride.
+The Painted Dog is the pack hunter of the open savanna, twenty-four to thirty inches at the shoulder and forty to seventy pounds, lean and built for endurance, running in packs of ten to thirty. It ranges the grass, light woodland and scrub of the [[place-sthrnsvnhs|Southern Savannahs]] and the south of [[place-okharisrgn|Okharis]], following the migratory herds over hundreds of square miles and sleeping in a different place each night. No single dog is a match for a lion, but a pack kills in about four hunts in five, against one in four for a lion pride.
 
 ## Presentation
 
@@ -223,7 +223,7 @@ A lean, long-legged dog with a patchwork coat of black, brown, white and tawny g
 
 ## In the Land
 
-Painted dogs range the open savanna, light woodland and scrub of the [[place-sthrnsvnhs|Southern Savannahs]] and the grass of the south of [[place-okharisrgn|Okháris]] wherever the migrating herds pass. A pack of ten to thirty roams over hundreds of square miles, sleeps in a different place each night and denns only to raise pups. The pack arrives in a district without warning and leaves when the game is thin.
+Painted dogs range the open savanna, light woodland and scrub of the [[place-sthrnsvnhs|Southern Savannahs]] and the grass of the south of [[place-okharisrgn|Okharis]] wherever the migrating herds pass. A pack of ten to thirty roams over hundreds of square miles, sleeps in a different place each night and denns only to raise pups. The pack arrives in a district without warning and leaves when the game is thin.
 
 ## Key Behaviors
 

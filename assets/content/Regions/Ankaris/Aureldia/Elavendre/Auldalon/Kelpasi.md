@@ -20,12 +20,12 @@ the same period. Kélpasi has been reached twice in three hundred years, and bot
 talked about.
 
 The consequence is a village that is old, continuous and unusually intact—its families, its customs
-and its memory all older than the walls of [[place-valdun|Váldun]].
+and its memory all older than the walls of [[place-valdun|Valdun]].
 
 ## The Observances
 
 Kélpasi is named for the cold spring at its head, and what is done at that spring is not, strictly, part of
-the [[affiliation-arldnpnthn|Aurèldían]] calendar. The village keeps the Twelve properly and keeps
+the [[affiliation-arldnpnthn|Aureldian]] calendar. The village keeps the Twelve properly and keeps
 something else besides, and has never seen a contradiction in this.
 
 Priests sent up from the lowlands have generally reported the village devout and left it alone.
@@ -35,9 +35,9 @@ older acquaintance than either side discusses.
 ## Life
 
 Sheep, ponies, oats and barley on the valley floor, charcoal off the slopes, and a great deal of
-weaving through the winter. Kélpasi's cloth is good and reaches Váldun's fairs under other people's
+weaving through the winter. Kélpasi's cloth is good and reaches Valdun's fairs under other people's
 names.
 
 ## See Also
 
-- [[place-auldalon|Áuldalon]] · [[place-valdun|Váldun]]
+- [[place-auldalon|Áuldalon]] · [[place-valdun|Valdun]]

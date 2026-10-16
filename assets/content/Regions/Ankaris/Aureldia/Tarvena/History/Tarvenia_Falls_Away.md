@@ -3,7 +3,7 @@ shortcode: tarvfallsawy
 name: {full: Tarvénia Falls Away, aliases: [The First High King]}
 type: lore
 subType: history
-description: "From about 538 to about 545 AF the occupied lowlands of Tarvénia stopped paying the Empire, the mountain lords elected Garváneth of Astúrath the first High King to drive out the garrisons, and Valthári bought a charter of self-government."
+description: "From about 538 to about 545 AF the occupied lowlands of Tarvénia stopped paying the Empire, the mountain lords elected Garvaneth of Asturath the first High King to drive out the garrisons, and Valthari bought a charter of self-government."
 tags: [history]
 data:
   packFolder: tarvenia
@@ -20,7 +20,7 @@ data:
         - affiliation-kingdmlnrk
         - place-lezkora
       summary: >-
-        With the legions drawn north to the hunger raids and the soldiers' pay cut, the occupied lowlands stop paying. The mountain lords meet at Lezkóra and elect Garváneth of Astúrath the first High King to drive the garrisons out; Liénrik's watchtowers are turned to face the coast. Short of silver to pay the lords who elected him, Garváneth sells Valthári a charter of self-government for a yearly tribute.
+        With the legions drawn north to the hunger raids and the soldiers' pay cut, the occupied lowlands stop paying. The mountain lords meet at Lezkora and elect Garvaneth of Asturath the first High King to drive the garrisons out; Lienrik's watchtowers are turned to face the coast. Short of silver to pay the lords who elected him, Garvaneth sells Valthari a charter of self-government for a yearly tribute.
       standing: attested
       names:
         - {name: the First High King, by: affiliation-kngdmstrth}
@@ -32,7 +32,7 @@ data:
             how: the watchtowers built to warn of risings are turned to face the coast, and the families who keep them charge for the light
             knowledge: named
           - place: place-valthari
-            how: the port buys a charter and its council, the Consejárath, governs it ever after
+            how: the port buys a charter and its council, the Consejarath, governs it ever after
             knowledge: named
           - place: place-provenzrgn
             how: the Tarvénian hosts that follow the garrisons out press west on a province still imperial
@@ -63,10 +63,10 @@ data:
           says: >-
             The garrisons were withdrawn to meet the northern emergency, and the lowlands had stopped paying.
           agrees: partly
-      unresolved: [how many of the lords who voted for Garváneth had been paid in advance]
+      unresolved: [how many of the lords who voted for Garvaneth had been paid in advance]
 ---
 
-The election of a High King of Tarvénia is half ceremony and half brawl, and the first one set the pattern. The lords of the mountains met at Lezkóra, and the ones who voted for **Garváneth** of Astúrath voted for the man who would drive out the garrisons.
+The election of a High King of Tarvénia is half ceremony and half brawl, and the first one set the pattern. The lords of the mountains met at Lezkora, and the ones who voted for **Garvaneth** of Asturath voted for the man who would drive out the garrisons.
 
 ## The Coin Fixed
 
@@ -74,20 +74,20 @@ The lowlands had been paying the Empire since about 140 AF, in taxes and in the 
 
 ## The Election
 
-The mountain lords had never had a king over them, and now they had a reason to elect one: the lowlands were falling away from the Empire, and somebody would take them. They met at [[place-lezkora|Lezkóra]], elected Garváneth, an Astúrathi lord with the largest following, and pledged him their levies for as long as it took to drive the garrisons out. The Liénriki, who had kept the Empire's watchtowers for four centuries, turned them from the highlands to the coast.
+The mountain lords had never had a king over them, and now they had a reason to elect one: the lowlands were falling away from the Empire, and somebody would take them. They met at [[place-lezkora|Lezkora]], elected Garvaneth, an Astúrathi lord with the largest following, and pledged him their levies for as long as it took to drive the garrisons out. The Liénriki, who had kept the Empire's watchtowers for four centuries, turned them from the highlands to the coast.
 
-The garrisons were out within seven years, and the High King found he had no silver to pay the lords who had elected him. He sold **Valthári** a charter of self-government: the free city would pay him a yearly tribute and govern itself, with its own courts and its own council, the Consejárath. The port had been the Empire's, and it was now the High King's, on terms the merchants could live with.
+The garrisons were out within seven years, and the High King found he had no silver to pay the lords who had elected him. He sold **Valthari** a charter of self-government: the free city would pay him a yearly tribute and govern itself, with its own courts and its own council, the Consejarath. The port had been the Empire's, and it was now the High King's, on terms the merchants could live with.
 
 ## What It Left
 
 - **The elected High Kingship.** A crown that has no army, no bureaucracy and a vote that is rarely quiet ([[affiliation-kingdmtrvn|The Kingdom of Tarvénia]]).
-- **Valthári's charter.** The free city's independence, bought and paid for each year ([[affiliation-frctyvlthr|The Free City of Valthári]]).
-- **The turned watchtowers.** Liénrik's chain of towers facing the coast, still lit by the families who keep them.
-- **Tarvénian hosts pressing west.** The lords the garrisons had held down now looked at the province across the mountains ([[lore-malnebris|Malnebrìs]]).
+- **Valthari's charter.** The free city's independence, bought and paid for each year ([[affiliation-frctyvlthr|The Free City of Valthari]]).
+- **The turned watchtowers.** Lienrik's chain of towers facing the coast, still lit by the families who keep them.
+- **Tarvénian hosts pressing west.** The lords the garrisons had held down now looked at the province across the mountains ([[lore-malnebris|Malnebris]]).
 
 ## See Also
 
 - [[affiliation-kingdmtrvn|The Kingdom of Tarvénia]]—the elected crown
-- [[affiliation-frctyvlthr|The Free City of Valthári]]—the city that bought its charter
+- [[affiliation-frctyvlthr|The Free City of Valthari]]—the city that bought its charter
 - [[lore-lowlandstaken|The Lowlands Taken]]—the occupation the lowlands ended
 - [[lore-empirdclne|The Decline of the Vylarian Empire]]

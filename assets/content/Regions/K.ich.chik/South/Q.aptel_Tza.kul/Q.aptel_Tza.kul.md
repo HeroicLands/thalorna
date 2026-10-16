@@ -1,6 +1,6 @@
 ---
 shortcode: qapteltzakl
-name: {full: Q'aptel Tza'kul, aliases: []}
+name: {full: Q'aptel Tsa'kul, aliases: []}
 type: affiliation
 subType: polity
 description: Threshold country at the southern edge of K'ich'chik civilization—the last priestly order before the forsaken wastes.
@@ -40,28 +40,28 @@ data:
           Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Tz'enmah's court.
+        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the Tz'enmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
       - level: 8
-        title: Tz'enmah
+        title: Ts'enmah
         description: >-
           Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
     offices:
-      Tz'enmah: >-
+      Ts'enmah: >-
         Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ix'kanmah: >-
+      Ish'kanmah: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
       Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
       K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Tz'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
+      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
       P'ilambal: >-
         Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Xok'almah: War-leader appointed for a campaign, and set aside when it ends.
+      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
       Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umtz'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
       P'ik'ulmah: >-
         Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
       Ballcourt Keeper: >-
@@ -76,16 +76,16 @@ data:
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: ""
-# terran_analog: the ranks and offices are the Classic Maya court: Tz'enmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, Tz'enbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
 ---
 
 ## Overview
 
-Q'aptel Tza'kul holds the land of [[place-qapteltzaklrgn|Q'aptel Tza'kul Region]]. The priesthood here is intensely focused on two deities: [[affiliation-itzanpnthn|P'uqil Ch'aqun]], who commands the weather and the fury of storms, and [[affiliation-itzanpnthn|Tz'uqil Ix'bal]], mistress of death. Blood flows freely on these temples' altars, offered in hopes of safe passage through the horrors that lie beyond.
+Q'aptel Tsa'kul holds the land of [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]. The priesthood here is intensely focused on two deities: [[affiliation-itzanpnthn|P'uqil Ch'akun]], who commands the weather and the fury of storms, and [[affiliation-itzanpnthn|Ts'uqil Ish'bal]], mistress of death. Blood flows freely on these temples' altars, offered in hopes of safe passage through the horrors that lie beyond.
 
 ## Maritime Powers
 
-Control of the few passes through the region is maintained nominally by the [[affiliation-itzanpnthn|Itzáni]] priesthood, though enforcement is minimal—most who travel here are bound for the wastes by oath or doom, and the priesthood merely ensures that proper offerings are made before they depart.
+Control of the few passes through the region is maintained nominally by the [[affiliation-itzanpnthn|Itsani]] priesthood, though enforcement is minimal—most who travel here are bound for the wastes by oath or doom, and the priesthood merely ensures that proper offerings are made before they depart.
 
 ## Trade
 
@@ -93,8 +93,8 @@ The priesthood profits immensely from this transit trade, levying heavy fees and
 
 ## See Also
 
-- [[affiliation-kuxiixbal|K'uxi Ix'bal]]—The frontier lands to the north
-- [[place-xelemixbalrgn|Xelem Ix'bal]]—The forsaken wastes beyond
-- [[place-xelemchalix|Xelem Ch'alix]]—The last temple-fortress before the abyss
-- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that maintains order at the threshold
-- [[place-qapteltzaklrgn|Q'aptel Tza'kul Region]]—The land Q'aptel Tza'kul holds
+- [[affiliation-kuxiixbal|K'ushi Ish'bal]]—The frontier lands to the north
+- [[place-xelemixbalrgn|Shelem Ish'bal]]—The forsaken wastes beyond
+- [[place-xelemchalix|Shelem Ch'alish]]—The last temple-fortress before the abyss
+- [[affiliation-itzanpnthn|Itsani]]—The priesthood that maintains order at the threshold
+- [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]]—The land Q'aptel Tsa'kul holds

@@ -1,6 +1,6 @@
 ---
 shortcode: angaros
-name: {full: "Ritual: Ángáróš", aliases: [The Shadowed Serpent]}
+name: {full: "Ritual: Angaros", aliases: [The Shadowed Serpent]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-angaros|Faith of Ángáróš]]
+See [[affiliation-angaros|Faith of Angaros]]

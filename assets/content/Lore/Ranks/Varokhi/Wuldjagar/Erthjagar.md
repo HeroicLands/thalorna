@@ -3,12 +3,12 @@ shortcode: erthjagarrnk
 name: {full: "Erthjagár", aliases: []}
 type: lore
 subType: law
-description: "One of the company, carrying a charge and a share of the kill, in Wuldjagár erund Gárskald."
+description: "One of the company, carrying a charge and a share of the kill, in Wuljagar erund Garskald."
 tags: []
 data: {culture: varokhiclt}
 ---
 
-One of the company, carrying a charge and a share of the kill, in Wuldjagár erund Gárskald.
+One of the company, carrying a charge and a share of the kill, in Wuljagar erund Garskald.
 
 ## What This Standing Is
 
@@ -28,8 +28,8 @@ He keeps the company's discipline on the hunt, and answers for the charge he car
 
 ## Offices Open at This Standing
 
-The Wulfár's leadership of the company, the Erthrith's command of a party working its own line, the Sundmund's keeping of the wounded, the Brunjthúl's charge at the kill, the Ermmund's charge of the take, the Thrámund's wardship of the hounds, and the Dunkelrith's charge of unknown ground.
+The Wurlár's leadership of the company, the Erthrith's command of a party working its own line, the Sundmund's keeping of the wounded, the Brunjthúl's charge at the kill, the Ermmund's charge of the take, the Thramund's wardship of the hounds, and the Dunkelrith's charge of unknown ground.
 
 ## Where This Standing Is Held
 
-[[affiliation-wldjgrrndgrskld|Wuldjagár erund Gárskald]] alone.
+[[affiliation-wldjgrrndgrskld|Wuljagar erund Garskald]] alone.

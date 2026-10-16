@@ -3,7 +3,7 @@ shortcode: ralthann
 name: {full: Ralthann, aliases: [Father Ralthann]}
 type: being
 subType: npc
-description: A traveling priest of Eidgar who once stayed at the estate of Thraskorv Járnskel's master.
+description: A traveling priest of Eidgar who once stayed at the estate of Thraskorv Jarnskel's master.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Ralthann is a 48-year-old man who stands 6'2" tall with a medium build. He has l
 
 # Dossier {#dossier}
 
-Ralthann is a traveling priest of Eidgar who once stayed at the estate of [[being-thrskrvjrnskl|Thraskorv Járnskel]]'s master. He spoke with Thraskorv of divine justice and left him a hidden talisman and words of encouragement.
+Ralthann is a traveling priest of Eidgar who once stayed at the estate of [[being-thrskrvjrnskl|Thraskorv Jarnskel]]'s master. He spoke with Thraskorv of divine justice and left him a hidden talisman and words of encouragement.

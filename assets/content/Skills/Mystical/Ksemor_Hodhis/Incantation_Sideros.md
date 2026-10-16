@@ -1,6 +1,6 @@
 ---
 shortcode: sideros
-name: {full: Incantation Sidéros, aliases: []}
+name: {full: Incantation Sideris, aliases: []}
 type: skill
 subType: mystical
 tags: [hex-hodai, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-sideros|Rhéshin Sidéros]]
+See [[affiliation-sideros|Rhezin Sideris]]

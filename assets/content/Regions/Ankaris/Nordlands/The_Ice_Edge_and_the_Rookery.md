@@ -8,7 +8,7 @@ tags: [asguardian, draft]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-Ice gives warning before it goes, and the men who drown are the ones who were too busy to listen. The _dvön_ (seal) feeds more northern households than the whale does, because a whale comes when it chooses and a seal can be gone out and fetched. The hunt has two grounds and two seasons: the _skelfr_ (ice-edge) at the end of winter, and the _dvönvangr_ (rookery) in autumn.
+Ice gives warning before it goes, and the men who drown are the ones who were too busy to listen. The _dvon_ (seal) feeds more northern households than the whale does, because a whale comes when it chooses and a seal can be gone out and fetched. The hunt has two grounds and two seasons: the _skelfr_ (ice-edge) at the end of winter, and the _dvonvangr_ (rookery) in autumn.
 
 ## The Ice-Edge
 
@@ -18,13 +18,13 @@ The danger is the ice itself. A floe that breaks free carries its hunters out to
 
 ## The Rookery
 
-In autumn the seals come ashore on their rookeries—skerries, shingle beaches and rocky points they return to year after year—and the hunt moves to land. A rookery is ground, and ground is held: most belong to the holder of the shore they lie on, and the larger ones to a district, shared out among its households by a reckoning the hersvald keeps. A beach where the seals haul out is named for them before anyone thinks to name it for a man, and many shore names along the western coast begin with _dvön-_ for that reason.
+In autumn the seals come ashore on their rookeries—skerries, shingle beaches and rocky points they return to year after year—and the hunt moves to land. A rookery is ground, and ground is held: most belong to the holder of the shore they lie on, and the larger ones to a district, shared out among its households by a reckoning the hersvald keeps. A beach where the seals haul out is named for them before anyone thinks to name it for a man, and many shore names along the western coast begin with _dvon-_ for that reason.
 
 The rookery hunt is shorter and safer than the ice, and it is where a boy is first taken. Taking seals on another holder's rookery without leave is theft, the same as driving off his sheep; seals taken out on the ice belong to whoever took them, because the ice is nobody's ground and never stays where it was.
 
 ## What a Seal Is Worth
 
-Nothing on a seal is wasted. The meat is eaten fresh through the hungry end of winter, when the stored food is running out, and the ice-hunt comes exactly when a household needs it most. The _flöm_ (blubber) is rendered into _glerv_ (oil), a lesser grade than whale-oil but enough to light a hall that has no whale. The skins make boots, coats and the waterproof covers of boats and sledges, and the hide is cut in a single long spiral into the tough thong rope a ship's rigging uses.
+Nothing on a seal is wasted. The meat is eaten fresh through the hungry end of winter, when the stored food is running out, and the ice-hunt comes exactly when a household needs it most. The _flom_ (blubber) is rendered into _glerv_ (oil), a lesser grade than whale-oil but enough to light a hall that has no whale. The skins make boots, coats and the waterproof covers of boats and sledges, and the hide is cut in a single long spiral into the tough thong rope a ship's rigging uses.
 
 Sealskins are also money. Along the northern coasts a bundle of good skins is a standard of value in [[lore-bartercnmy|barter]], alongside walrus ivory, and a household's sealskins carry its debts through a winter in [[lore-kinhalcrdt|hall credit]] the way coin carries them in the south. What is not needed at home goes south with the whale-oil to [[place-midhalnrgn|Mídhalión]].
 

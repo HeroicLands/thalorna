@@ -1,9 +1,9 @@
 ---
 shortcode: venuvana
-name: {full: Venuvana, aliases: []}
+name: {full: Venivana, aliases: []}
 type: place
 subType: settlement
-description: "The bamboo village of the upper Sarvada, whose groves supply the staves every Dhanurkoti bow is made from."
+description: "The bamboo village of the upper Sarveda, whose groves supply the staves every Dhanurkoti bow is made from."
 tags: [village, river, inland]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   government: dhnrktjnpd
 ---
 
-**Venuvana** (890) holds three years of its own product in its drying sheds at any time, which is why it is the wealthiest of the cultivator villages and the most anxious. It grows the bamboo the Dhanurkoti bows are made from. Its groves run four miles along the north bank of the [[place-sarvadarivr|Sarvada]] and are cut on a seven-year rotation, which the village has kept without a break for as long as the academies have taught.
+**Venivana** (890) holds three years of its own product in its drying sheds at any time, which is why it is the wealthiest of the cultivator villages and the most anxious. It grows the bamboo the Dhanurkoti bows are made from. Its groves run four miles along the north bank of the [[place-sarvadarivr|Sarveda]] and are cut on a seven-year rotation, which the village has kept without a break for as long as the academies have taught.
 
 A stave is cut in the cold season, split, and seasoned three years under cover before a bowyer will look at it.
 
@@ -22,5 +22,5 @@ Fire in the sheds is the thing the village fears. It keeps its own watch through
 
 ## See Also
 
-- [[place-dhanurkotajnpd|Dhanurkota Janapada]]—the land
-- [[affiliation-dhnrktjnpd|Dhanurkota Janapada]]—the temple-republic that holds it
+- [[place-dhanurkotajnpd|Danurkota Janapoda]]—the land
+- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—the temple-republic that holds it

@@ -9,7 +9,7 @@ data: {packFolder: settinglore, culture: nyalubaclt}
 ---
 
 The spirits are the active substance of the [[affiliation-nyalbpnthn|Nyáluba Way]]. Beneath the
-single diffuse source—[[lore-shorinyadty|Shorínya Ndáfo]], which receives nothing—it is the
+single diffuse source—[[lore-shorinyadty|Shorinya Ndafo]], which receives nothing—it is the
 **guides** that Nyáluba religious life is directed at. They are not gods and they are not
 worshipped. In the language of the tradition they are **venerated, appeased, or warded against**,
 each according to its character and the need of the moment.
@@ -23,7 +23,7 @@ baobab-spirit that holds a village's gathering-tree keeps that village and no ot
 ancestor attends the descendants of the clan that remembers their name.
 
 They are not transcendent and do not preside over domains of existence in the manner of the
-Aurèldían or Khelâthi gods. They are of the world, and the Nyáluba deal with them as kinsmen—close or distant, beloved or feared—whose territories the clan shares. Every guide has its own
+Aureldian or Khelathi gods. They are of the world, and the Nyáluba deal with them as kinsmen—close or distant, beloved or feared—whose territories the clan shares. Every guide has its own
 temperament, its own protocols, and its own history of dealings with the clans whose lives it
 touches.
 
@@ -101,7 +101,7 @@ minimum reciprocity to respectful visitors. Those who transgress discover—some
 ## See Also
 
 - [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition of which the guides are the substance
-- [[lore-shorinyadty|Shorínya Ndáfo]]—the source, which is acknowledged and never venerated
+- [[lore-shorinyadty|Shorinya Ndafo]]—the source, which is acknowledged and never venerated
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the five clans whose pacts these are
 - [[lore-thekindred|The Kindred]]—the Áelendan parallel, structurally very similar
-- [[affiliation-nkaruthar|Nkaru'thar]]—the Okháric Eternal Flame, whose _zohira_ fulfill a comparable role
+- [[affiliation-nkaruthar|Nkaru'thar]]—the Okharik Eternal Flame, whose _zohira_ fulfill a comparable role

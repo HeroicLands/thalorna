@@ -16,9 +16,9 @@ The walls are the first thing, because they are not broken. A wall of mud-brick 
 
 ## How It Was Made
 
-About 548 AF the third of the great unions was raised, and its orqun rode south down the spur in the week of the autumn market. Qiimod was full: Tellumi horse-dealers, Vedyari spice factors, a Byzarian wine-agent, Tāntsou silk-brokers, a hundred Sovidur herdsmen come to sell. The gate stood open for the fair. By nightfall everyone in the walls was dead, and the host rode on at dawn with the stock and left the people where they lay in the square, because a town's dead are not the riders' dead and the riders had a road to take.
+About 548 AF the third of the great unions was raised, and its orkun rode south down the spur in the week of the autumn market. Qiimod was full: Tellumi horse-dealers, Vedyari spice factors, a Bizarian wine-agent, Tantsou silk-brokers, a hundred Sovidur herdsmen come to sell. The gate stood open for the fair. By nightfall everyone in the walls was dead, and the host rode on at dawn with the stock and left the people where they lay in the square, because a town's dead are not the riders' dead and the riders had a road to take.
 
-Each of the dead belonged to a people with a rite of its own, and none of those rites was performed. The Tellumi had no Dēlkoshekh, the Vedyari no conch, the Tāntsou no ancestor-shrine, and the Sovidur among them were not laid out and not named. A great many people died at once without any one of the ways home.
+Each of the dead belonged to a people with a rite of its own, and none of those rites was performed. The Tellumi had no Delkoshekh, the Vedyari no conch, the Tantsou no ancestor-shrine, and the Sovidur among them were not laid out and not named. A great many people died at once without any one of the ways home.
 
 ## What It Is Like
 
@@ -33,19 +33,19 @@ The hunters come into that, the [[being-yiqnotud|Yiqnotud]] of the steppe tribes
 ## How the Spur Lives with It
 
 - **The track goes round.** The spur bends a half-day east of the gap, and the detour crosses poor ground that the tribes charge for.
-- **The well is sold from outside.** The Shirzâri, a raiding tribe of the southern steppe, hold the well and draw it from beyond the gate. A caravan buys its water from them at the gap's mouth and is escorted past the town in daylight.
-- **The Shirzâri profit from the fear.** They have never put out a warning that was not for sale, and a rider of theirs who meets a party headed for the gate asks first whether anyone is paying.
+- **The well is sold from outside.** The Shirzari, a raiding tribe of the southern steppe, hold the well and draw it from beyond the gate. A caravan buys its water from them at the gap's mouth and is escorted past the town in daylight.
+- **The Shirzari profit from the fear.** They have never put out a warning that was not for sale, and a rider of theirs who meets a party headed for the gate asks first whether anyone is paying.
 - **Nobody sleeps within sight of the walls.** Tellumi caravans make the stage beyond the gap even when the beasts are spent.
 
 ## What Is Still There
 
-Everything. The counting-house on the square has a barred door and a stone vault below, and the vault was not opened. The shops stand stocked: brass lamps, bolts of cloth, sealed jars. The Shirzâri take nothing from the walls, because nothing they take has ever stayed theirs. The dead lie where they fell, in the square, in rows under a thin cover of drifted sand.
+Everything. The counting-house on the square has a barred door and a stone vault below, and the vault was not opened. The shops stand stocked: brass lamps, bolts of cloth, sealed jars. The Shirzari take nothing from the walls, because nothing they take has ever stayed theirs. The dead lie where they fell, in the square, in rows under a thin cover of drifted sand.
 
 ## Hooks
 
 - **The vault.** The counting-house vault held the fair's deposits: silver in bags, with a clerk's tally sealed in wax. A Tellumi house in exile at Amradad believes it holds the dowry of a daughter and wants the tally, not the silver. The vault door has not been tried since the sack.
-- **The well's owner.** A rival tribe has offered a party a share of the Shirzâri's tolls if it can draw the town's water from inside the walls, by day, and carry the proof out. The Shirzâri's right to charge rests on nobody having done it.
-- **The market day.** The riders of the spur say that on the fair's anniversary the stalls in the square are heard, faintly, haggling, from outside the gate. A priest of one of the faiths that lost people in the fair wants to hold a market there with a priest from each of the others, and thinks that a day of every rite performed at once might hold the silence back. The Shirzâri want to know what it costs them.
+- **The well's owner.** A rival tribe has offered a party a share of the Shirzari's tolls if it can draw the town's water from inside the walls, by day, and carry the proof out. The Shirzari's right to charge rests on nobody having done it.
+- **The market day.** The riders of the spur say that on the fair's anniversary the stalls in the square are heard, faintly, haggling, from outside the gate. A priest of one of the faiths that lost people in the fair wants to hold a market there with a priest from each of the others, and thinks that a day of every rite performed at once might hold the silence back. The Shirzari want to know what it costs them.
 
 ## See Also
 
@@ -53,4 +53,4 @@ Everything. The counting-house on the square has a barred door and a stone vault
 - [[place-hskrrgn|Khoshiqor]]—the sand country the spur leaves
 - [[place-qisomrktcmp|Qiiso]]—the market-camp the spur starts from
 - [[place-dkrqrrgn|Diqraqor]]—the stone range the spur crosses
-- [[affiliation-shrzrtrb|Shirzâri]]—the tribe that holds its well
+- [[affiliation-shrzrtrb|Shirzari]]—the tribe that holds its well

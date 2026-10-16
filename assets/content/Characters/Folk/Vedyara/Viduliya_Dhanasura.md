@@ -1,9 +1,9 @@
 ---
 shortcode: viduliyadhan
-name: {full: Vidūliya Dhanasura, aliases: [High Priestess Vidūliya]}
+name: {full: Viduliya Danasura, aliases: [High Priestess Viduliya]}
 type: being
 subType: npc
-description: High priestess of the Temple of Jñānasūra, the grand temple of the knowledge deity, which has commissioned the work of Nārava Sūryatejamahānanda.
+description: High priestess of the Temple of Jnanasura, the grand temple of the knowledge deity, which has commissioned the work of Narava Suryatejamahananda.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Vidūliya Dhanasura is a 61-year-old woman who stands 5'7" tall with a medium build. She has tawny skin, weathered complexion, black hair, and hazel eyes.
+Viduliya Danasura is a 61-year-old woman who stands 5'7" tall with a medium build. She has tawny skin, weathered complexion, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Vidūliya Dhanasura is the high priestess of the Temple of Jñānasūra, the grand temple of the knowledge deity. The temple has commissioned [[being-nrvsrytjmhnnd|Nārava Sūryatejamahānanda]] for its sacred stained glass installations; she views his work as a form of religious expression and provides him with a stipend that gives his workshop basic financial stability.
+Viduliya Danasura is the high priestess of the Temple of Jnanasura, the grand temple of the knowledge deity. The temple has commissioned [[being-nrvsrytjmhnnd|Narava Suryatejamahananda]] for its sacred stained glass installations; she views his work as a form of religious expression and provides him with a stipend that gives his workshop basic financial stability.

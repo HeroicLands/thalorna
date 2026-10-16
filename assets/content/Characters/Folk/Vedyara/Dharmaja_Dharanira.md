@@ -1,9 +1,9 @@
 ---
 shortcode: dharmajadhar
-name: {full: Dhārmāja Dharanīra, aliases: [Captain Dhārmāja]}
+name: {full: Darmeja Daranira, aliases: [Captain Darmeja]}
 type: being
 subType: npc
-description: Captain of the Crimson Sail, a merchant captain whom Senāpati Vikramada once refused to serve.
+description: Captain of the Crimson Sail, a merchant captain whom Senapavi Vikramada once refused to serve.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dhārmāja Dharanīra is a 44-year-old man who stands 6'1" tall with a medium build. He has tawny skin, smooth complexion, dark brown hair, and dark brown eyes.
+Darmeja Daranira is a 44-year-old man who stands 6'1" tall with a medium build. He has tawny skin, smooth complexion, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Dhārmāja Dharanīra is captain of the Crimson Sail, a merchant captain whom [[being-senptvkrmd|Senāpati Vikramada]] once refused to serve because of what he saw as grossly inadequate safety standards and crew abuse. He has since built his reputation for speed and profit and views Senāpati as a rival whose standards are outdated and cost-prohibitive.
+Darmeja Daranira is captain of the Crimson Sail, a merchant captain whom [[being-senptvkrmd|Senapavi Vikramada]] once refused to serve because of what he saw as grossly inadequate safety standards and crew abuse. He has since built his reputation for speed and profit and views Senapavi as a rival whose standards are outdated and cost-prohibitive.

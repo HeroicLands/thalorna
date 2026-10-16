@@ -212,7 +212,7 @@ The underground river opens into a lake, and the priest's torch cannot find its 
 
 # Dossier {#dossier}
 
-The Stygian Leviathan is a dreadspawn of the deep waters under the earth: forty to sixty feet long and as heavy as a whale, armed with grasping tentacles and jaws that bite a man in half, which lives in cold, lightless underground seas and lies dormant on the bottom for long stretches. Where it lives, everything else falls silent. One lives in the underground waters beneath [[place-kankulrgn|K'ankul]], the limestone country of Central K'ich'chik whose ground is hollow with rivers, chambers and the sacred pools that open them to the sky, and whose priests teach that those waters are the mouths of [[place-chaltzumaq|Ch'al Tz'umaq]], the underworld. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Stygian Leviathan is a dreadspawn of the deep waters under the earth: forty to sixty feet long and as heavy as a whale, armed with grasping tentacles and jaws that bite a man in half, which lives in cold, lightless underground seas and lies dormant on the bottom for long stretches. Where it lives, everything else falls silent. One lives in the underground waters beneath [[place-kankulrgn|K'ankul]], the limestone country of Central K'ich'chik whose ground is hollow with rivers, chambers and the sacred pools that open them to the sky, and whose priests teach that those waters are the mouths of [[place-chaltzumaq|Ch'al Ts'umaq]], the underworld. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -228,7 +228,7 @@ The leviathan spends most of its time dormant, barely moving on the bottom of it
 
 ## What the Priests Do
 
-The K'ankul priesthood holds that to descend into a sacred pool is to touch the boundary of the realm of [[lore-tzuqilixbaldty|Tz'uqil Ix'bal]], the death god, and the priests who go down into the deepest waters do so knowing that something lives there. They do not call the leviathan a god or a servant of a god. They do mark the passages that lead to its lake with carved stones, pour their offerings into it from the shore and never from a boat, and they go down by torchlight in numbers, because strong light pains it. Blood poured into its water draws it up. Sacrifices that are given to the deepest pools are given knowing what will take them, and the priests regard that as the god's business. Pilgrims are not told.
+The K'ankul priesthood holds that to descend into a sacred pool is to touch the boundary of the realm of [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], the death god, and the priests who go down into the deepest waters do so knowing that something lives there. They do not call the leviathan a god or a servant of a god. They do mark the passages that lead to its lake with carved stones, pour their offerings into it from the shore and never from a boat, and they go down by torchlight in numbers, because strong light pains it. Blood poured into its water draws it up. Sacrifices that are given to the deepest pools are given knowing what will take them, and the priests regard that as the god's business. Pilgrims are not told.
 
 ## Signs
 

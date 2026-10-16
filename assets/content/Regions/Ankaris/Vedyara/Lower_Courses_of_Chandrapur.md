@@ -1,14 +1,14 @@
 ---
 shortcode: lowercourses
-name: {full: The Lower Courses of Chandrapur, aliases: []}
+name: {full: The Lower Courses of Chendrapur, aliases: []}
 type: place
 subType: site
-description: "The heavier, plainer stonework of an older city that Chandrapur is built on, showing along the river stair in the dry months and under the cellars of the cutting quarters; the oldest court of the Moon House stands on it."
+description: "The heavier, plainer stonework of an older city that Chendrapur is built on, showing along the river stair in the dry months and under the cellars of the cutting quarters; the oldest court of the Moon House stands on it."
 tags: [city, river]
 data: {demonym: null, lore: [], parents: [chandrapur2], population: null, packFolder: vedyara}
 ---
 
-In the dry months the river drops along the quarter-mile stair of [[place-chandrapur2|Chandrapur]], and the lowest steps show a different stone. The **lower courses** are heavier and plainer than anything built above them, laid without mortar in blocks two men could not lift, and they belong to a city the present one was built on top of. No record in Chandrapur says whose.
+In the dry months the river drops along the quarter-mile stair of [[place-chandrapur2|Chendrapur]], and the lowest steps show a different stone. The **lower courses** are heavier and plainer than anything built above them, laid without mortar in blocks two men could not lift, and they belong to a city the present one was built on top of. No record in Chendrapur says whose.
 
 ## Where They Show
 
@@ -29,6 +29,6 @@ Nothing in the lower courses has harmed anyone. The cutters who work above them 
 
 ## See Also
 
-- [[place-chandrapur2|Chandrapur]] · [[place-moonhouse|The Moon House]]
+- [[place-chandrapur2|Chendrapur]] · [[place-moonhouse|The Moon House]]
 - [[lore-unnumbrdage|The Unnumbered Age]]—the age of stones nobody laid within memory
 - [[place-bowfort|The Bow-Fort]]—another work of unmortared courses

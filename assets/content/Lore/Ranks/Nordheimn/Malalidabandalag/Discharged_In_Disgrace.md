@@ -12,7 +12,7 @@ When the **Council of the Hall** votes a captain out of the Compact, the bronze 
 
 ## What This Standing Is
 
-A captain is expelled by vote of the Council for breaking one of the Compact's standing rules—walking off a contract without annulment, taking a contract against a signed company without declaring it at the Hall, or failing the Hall's due. The bandalagshringr, the bronze thumb-ring awarded at his swearing, is surrendered at expulsion.
+A captain is expelled by vote of the Council for breaking one of the Compact's standing rules—walking off a contract without annulment, taking a contract against a signed company without declaring it at the Hall, or failing the Hall's due. The bandlagshringr, the bronze thumb-ring awarded at his swearing, is surrendered at expulsion.
 
 ## How the Law Treats a Person Here
 

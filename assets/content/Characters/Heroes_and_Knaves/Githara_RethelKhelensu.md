@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [khelzuret]
-  affiliations: {empireakhlth: {rank: 3}, gewaatis: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, gewaatis: {rank: 1}}
   gender: female
   species: humanflk
   born: 689.171
@@ -430,11 +430,11 @@ Githara stands 6'0" tall with a medium build. She has rich copper skin, deep bla
 
 # Dossier {#dossier}
 
-Born in the teak-rich highlands of the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], Githara learned the language of trees before she learned to read. Her mother, Zaborêt the Elder, was the first woman admitted to the Timberwrights' Guild in three generations, and Githara followed naturally in those footsteps. As a girl, she spent seasons learning to identify every species by bark, leaf, and the sound of an axe's bite, earning her journeyman's marks before her twentieth year.
+Born in the teak-rich highlands of the Empire of [[affiliation-empireakhlth|Au'Khelathu]], Githara learned the language of trees before she learned to read. Her mother, Zaboret the Elder, was the first woman admitted to the Timberwrights' Guild in three generations, and Githara followed naturally in those footsteps. As a girl, she spent seasons learning to identify every species by bark, leaf, and the sound of an axe's bite, earning her journeyman's marks before her twentieth year.
 
-Over the past decade, Githara has established herself as the most discerning timber selector in the Aû'Khelâthu trade, known for rejecting logs that lesser wrights would accept without hesitation. Her reputation has made her useful to the finest carpenters and shipwrights, though this perfectionism has occasionally strained her relationships with merchants who measure success solely by quantity. She maintains a workshop in the sprawling timber yards of the central district, where she stores her collections of wood samples and her prized identification texts.
+Over the past decade, Githara has established herself as the most discerning timber selector in the Au'Khelathu trade, known for rejecting logs that lesser wrights would accept without hesitation. Her reputation has made her useful to the finest carpenters and shipwrights, though this perfectionism has occasionally strained her relationships with merchants who measure success solely by quantity. She maintains a workshop in the sprawling timber yards of the central district, where she stores her collections of wood samples and her prized identification texts.
 
-Her devotion to Gewa'âtis the Voyager flows naturally from her work—she sees in each tree a potential journey, each grain a path waiting to be carved. She has begun mentoring younger craftspeople, particularly other women seeking to prove themselves in a traditionally male-dominated field, though she extends this guidance with the same rigorous standards by which she measures timber.
+Her devotion to Gewa'atis the Voyager flows naturally from her work—she sees in each tree a potential journey, each grain a path waiting to be carved. She has begun mentoring younger craftspeople, particularly other women seeking to prove themselves in a traditionally male-dominated field, though she extends this guidance with the same rigorous standards by which she measures timber.
 
 ## Psyche
 
@@ -442,7 +442,7 @@ Her devotion to Gewa'âtis the Voyager flows naturally from her work—she sees 
 
 Githara possesses a contemplative nature, often found standing silently before a towering oak or pine, running her fingertips across its bark as though reading prophecy in its ridges. This meditative quality masks a passionate conviction about quality and craftsmanship. She speaks deliberately, choosing her words with the same precision she applies to her work, and harbors little patience for idle gossip or sloppy thinking. Yet beneath her austere exterior lies a dry wit that catches friends by surprise—her humor emerges like hidden grain revealed by a master carpenter's chisel.
 
-She is fiercely loyal to those she respects and unforgiving of incompetence or dishonesty. Her moral compass, guided by the voyager aspect of Gewa'âtis, points toward integrity and forward motion—she believes people, like wood, must constantly grow or risk becoming brittle and useless.
+She is fiercely loyal to those she respects and unforgiving of incompetence or dishonesty. Her moral compass, guided by the voyager aspect of Gewa'atis, points toward integrity and forward motion—she believes people, like wood, must constantly grow or risk becoming brittle and useless.
 
 ### Motivation
 
@@ -472,7 +472,7 @@ Master Therethu of Gar-Qelti
 : A shipwright who purchases premium timber exclusively from Githara and has publicly defended her expertise against skeptics.
 
 The Architect Imsazu
-: The lead designer for Aû'Khelâthu's new administrative complex, who insists on Githara's involvement in all timber specifications.
+: The lead designer for Au'Khelathu's new administrative complex, who insists on Githara's involvement in all timber specifications.
 
 Merchant-Prince [[being-lekhebu2|Lekhebu]]
 : A wealthy trader in fine furnishings who has built his reputation partly on using only materials vetted by Githara Reth'el'Khelensu.
@@ -482,7 +482,7 @@ Merchant-Prince [[being-lekhebu2|Lekhebu]]
 Gahkar the Dismissive
 : An aging master timberwright who refuses to acknowledge Githara's superior knowledge and spreads rumors that she succeeds only through her mother's connections rather than merit.
 
-[[affiliation-linlagrkhlth|Lin'Mazgaru elu Aû'Khelâthu]]
+[[affiliation-linlagrkhlth|Lin'Mazgaru elu Au'Khelathu]]
 : A loose coalition of timber dealers focused purely on volume, who view Githara's refusal to supply inferior wood as an affront to their profits.
 
 Guild Politics
@@ -490,10 +490,10 @@ Guild Politics
 
 ### Affiliations
 
-Timberwrights' Guild of Aû'Khelâthu
+Timberwrights' Guild of Au'Khelathu
 : A member in good standing, though she remains somewhat at odds with the old guard over admission standards and quality measures.
 
-[[affiliation-genzetgewats|Genzet'Gewa'âtis]]
+[[affiliation-genzetgewats|Genzet'Gewa'atis]]
 : A devotional society of the Voyager's followers, where Githara is one of the lay teachers on journeys, transitions, and transformation.
 
 The Craft Collective
@@ -501,12 +501,12 @@ The Craft Collective
 
 ## Plot Hooks
 
-1. **The Foreign Commission**: A mysterious agent from the distant [[place-velkhara|Kingdom of Vel'Khara]] arrives in Aû'Khelâthu seeking timbers of unprecedented rarity and size for an unnamed noble patron. The payment offered is astronomical, but Githara discovers the wood is being sought for weapons—massive siege equipment designed to breach the walls of Aû'Khelâthu's allies. She must decide whether to honor her craft above politics, and whether bringing this knowledge to the authorities will compromise her neutral reputation in the timber markets.
+1. **The Foreign Commission**: A mysterious agent from the distant [[place-velkhara|Kingdom of Vel'Khara]] arrives in Au'Khelathu seeking timbers of unprecedented rarity and size for an unnamed noble patron. The payment offered is astronomical, but Githara discovers the wood is being sought for weapons—massive siege equipment designed to breach the walls of Au'Khelathu's allies. She must decide whether to honor her craft above politics, and whether bringing this knowledge to the authorities will compromise her neutral reputation in the timber markets.
 
 2. **The Cursed Log**: A merchant brings Githara a single enormous log of wood so perfect, so ancient, and so radiantly beautiful that it seems to defy nature. However, it bears marks she cannot explain and emanates a faint wrongness that troubles her. Investigation reveals the log was harvested from a sacred grove protected by an ancient curse—and the merchant promises Githara a fortune if she'll work with it. The curse, if real, may pass to anyone who shapes the wood, but refusing means allowing an unscrupulous craftsperson to claim the prize instead.
 
 3. **The Student's Test**: Githara's most promising apprentice—a young woman named Qiya—is caught stealing inferior wood from the workshop and selling it to a competing merchant while telling customers it came from Githara's stock. Rather than simply expelling Qiya, Githara sees this as a test: of her principles, her teaching, and whether her mentorship has failed or merely been corrupted by desperation. She must uncover why Qiya did this—is it greed, coercion, or family hardship?—while deciding what redemption, if any, she can offer without betraying her own standards.
 
-4. **The Ancient Forest Initiative**: The Empire's new Minister of Resources announces plans to harvest an enormous stretch of ancient woodland to fuel Aû'Khelâthu's expansion. While many timberwrights celebrate the opportunity, Githara recognizes the grove contains several rare and magnificent tree species found nowhere else. She must handle the dangerous waters of standing against state policy, potentially forming unlikely alliances with priests, scholars, and conservationists—all while keeping her standing in her trade and proving that sometimes the greatest craftspeople are those wise enough to know when not to cut.
+4. **The Ancient Forest Initiative**: The Empire's new Minister of Resources announces plans to harvest an enormous stretch of ancient woodland to fuel Au'Khelathu's expansion. While many timberwrights celebrate the opportunity, Githara recognizes the grove contains several rare and magnificent tree species found nowhere else. She must handle the dangerous waters of standing against state policy, potentially forming unlikely alliances with priests, scholars, and conservationists—all while keeping her standing in her trade and proving that sometimes the greatest craftspeople are those wise enough to know when not to cut.
 
-5. **The Master's Gauntlet**: An aged master from a distant land arrives and challenges all the timberwrights of Aû'Khelâthu to a competition: craft the finest wooden object possible from identical raw materials within a lunar cycle. The winner gains renown, but more importantly, will secure royal patronage that guarantees prosperity for years. Githara must compete against both skilled rivals and the whispered skepticism of those who don't believe a woman can truly stand at the head of the craft. The competition becomes not just about creating a masterwork, but about forcing Aû'Khelâthu to finally acknowledge what Githara has always known: excellence goes beyond gender.
+5. **The Master's Gauntlet**: An aged master from a distant land arrives and challenges all the timberwrights of Au'Khelathu to a competition: craft the finest wooden object possible from identical raw materials within a lunar cycle. The winner gains renown, but more importantly, will secure royal patronage that guarantees prosperity for years. Githara must compete against both skilled rivals and the whispered skepticism of those who don't believe a woman can truly stand at the head of the craft. The competition becomes not just about creating a masterwork, but about forcing Au'Khelathu to finally acknowledge what Githara has always known: excellence goes beyond gender.

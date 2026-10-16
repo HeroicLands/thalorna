@@ -3,7 +3,7 @@ shortcode: pedunaybulam
 name: {full: Pedunay Bulamun, aliases: [Pedunay]}
 type: being
 subType: npc
-description: A longtime colleague and rival of Kayvonad Zârîd who published a paper showing mathematical errors in his foundational work and is now the favored elder statesman of alchemical research at the University; also named in Caldar.
+description: A longtime colleague and rival of Kayvonad Zarid who published a paper showing mathematical errors in his foundational work and is now the favored elder statesman of alchemical research at the University; also named in Kaldar.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Pedunay Bulamun is a 54-year-old man who stands 6'0" tall with a heavy build. He
 
 # Dossier {#dossier}
 
-Pedunay Bulamun is the favored elder statesman of alchemical research at the University of [[place-caldar|Caldar]]. A longtime colleague and rival of [[being-kayvondzrd|Kayvonad Zârîd]], he published a paper showing mathematical errors in Kayvonad's foundational work; Kayvonad answered with accusations of plagiarism, and the scandal divided the department and damaged both reputations.
+Pedunay Bulamun is the favored elder statesman of alchemical research at the University of [[place-caldar|Kaldar]]. A longtime colleague and rival of [[being-kayvondzrd|Kayvonad Zarid]], he published a paper showing mathematical errors in Kayvonad's foundational work; Kayvonad answered with accusations of plagiarism, and the scandal divided the department and damaged both reputations.

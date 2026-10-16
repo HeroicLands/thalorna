@@ -27,5 +27,5 @@ The War Chief holds the strongest of the village's three seats, but the other tw
 ## See Also
 
 - [[place-skathwald|Skathwald]]—the reach around the village
-- [[place-vethholt|Véthholt]] and [[place-wulfstein|Wulfstein]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—the wider web of independent villages
+- [[place-vethholt|Vethholt]] and [[place-wulfstein|Wulfstein]]—neighboring villages reached by forest tracks
+- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages

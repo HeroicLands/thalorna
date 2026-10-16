@@ -19,7 +19,7 @@ data:
       - level: 0
         title: Rite-Denied
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Khelâthi eventually requires—a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Khelathi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         description: >-
@@ -33,14 +33,14 @@ data:
         description: >-
           "Servant of the God"—the ordained priesthood and the working body of the temple.
       - level: 4
-        title: Thâz'Lekhau
+        title: Thaz'Lekhau
         description: >-
-          "Great of Sacred Power"—the High Priest or High Priestess, elevated from among the senior Lem'Nelgir. A selat god's Thâz'Lekhau carries real weight inside the selat and very little outside it.
+          "Great of Sacred Power"—the High Priest or High Priestess, elevated from among the senior Lem'Nelgir. A selat god's Thaz'Lekhau carries real weight inside the selat and very little outside it.
     offices:
       Priest of the River-Beast Cult: >-
         Keeps the cult in the eastern marsh, where the crocodile is venerated and the river-beast hunters live off it in the same breath.
       Sanctioner of the Cull: >-
-        The rite that permits the killing of a beast sacred to the god. Gar'Nuw's cullers answer when crocodiles threaten the villages along the Zumélesh, and the guild's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order—so the cull is a religious act before it is a commercial one.
+        The rite that permits the killing of a beast sacred to the god. Gar'Nuw's cullers answer when crocodiles threaten the villages along the Zumelesh, and the guild's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order—so the cull is a religious act before it is a commercial one.
   seat: null
   population: null
   economy: []
@@ -59,17 +59,17 @@ Tjelsur, the crocodile-god, keeps the great crocodile cult, seated in the easter
 
 The **Priest of the River-Beast Cult** keeps the cult in the eastern marsh, where the crocodile is venerated and the river-beast hunters live off it in the same breath. The **Sanctioner of the Cull** performs the rite that permits the killing of a beast sacred to the god.
 
-A cull therefore takes two parties: the cullers of [[affiliation-garnuw|Gar'Nuw]], who answer when crocodiles threaten the villages along the [[place-zumeleshrvr|Zumélesh]], and the Sanctioner, whose rite makes the killing lawful before the god. Gar'Nuw's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order, so the cull is a religious act before it is a commercial one.
+A cull therefore takes two parties: the cullers of [[affiliation-garnuw|Gar'Nuw]], who answer when crocodiles threaten the villages along the [[place-zumeleshrvr|Zumelesh]], and the Sanctioner, whose rite makes the killing lawful before the god. Gar'Nuw's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order, so the cull is a religious act before it is a commercial one.
 
 ## Where Else He Is Worshipped
 
 Two other selatu take Tjelsur as their patron, and neither is marsh. The [[affiliation-selatiaqetlq|Selat of Iaqet-Leqa]] is a dry, sun-burned garrison selat of desert wells and quarry-roads. The [[affiliation-selatyathlmt|Selat of Yath-Lemet]] is the narrow gorge-stretch where the valley pinches almost to nothing. The god belongs to dangerous water and dangerous ground alike.
 
-The cult keeps the shared temple ladder; a selat god's Thâz'Lekhau carries real weight inside the selat and very little outside it.
+The cult keeps the shared temple ladder; a selat god's Thaz'Lekhau carries real weight inside the selat and very little outside it.
 
 ## See Also
 
 - [[lore-tjelsukdty|Tjelsur]]—the god
 - [[affiliation-garnuw|Gar'Nuw]]—the cullers who answer when the beasts take people
 - [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the sacred hunt that culls under temple dispensation
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelâthi]] cult shares
+- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares

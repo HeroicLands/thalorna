@@ -1,9 +1,9 @@
 ---
 shortcode: lutrethsaar
-name: {full: Lut-Reth'Sa'âr, aliases: [The Temple of Reth'Sa'âr]}
+name: {full: Lut-Reth'Sa'ar, aliases: [The Temple of Reth'Sa'ar]}
 type: affiliation
 subType: faithtradition
-description: The house of Reth'Sa'âr, god of knowledge and of the written hand, holding the archives, the observatory and the schools that feed them
+description: The house of Reth'Sa'ar, god of knowledge and of the written hand, holding the archives, the observatory and the schools that feed them
 tags: [generated, draft]
 data:
   culture: khelathiclt
@@ -14,12 +14,12 @@ data:
   governance:
     model: theocracy
     summary: >-
-      The temple of Reth'Sa'âr, holding the archives, the observatory and the scribal schools, and served by the three-rank Khelâthi priesthood. What it has not catalogued is, for most purposes, lost.
+      The temple of Reth'Sa'ar, holding the archives, the observatory and the scribal schools, and served by the three-rank Khelathi priesthood. What it has not catalogued is, for most purposes, lost.
     ranks:
       - level: 0
         title: Name Struck
         description: >-
-          Struck from the record of the temple of Reth'Sa'âr, the heaviest sentence a temple passes short of death.
+          Struck from the record of the temple of Reth'Sa'ar, the heaviest sentence a temple passes short of death.
       - level: 1
         title: Wazu
         description: >-
@@ -29,9 +29,9 @@ data:
         description: >-
           "Servant of the God"—an ordained priest of the god of knowledge, cataloguing the records, tracking the stars or training scribes.
       - level: 3
-        title: Thâz'Lekhau
+        title: Thaz'Lekhau
         description: >-
-          "Great of Sacred Power"—the High Priest of Reth'Sa'âr, at the head of the archives, the observatory and the schools.
+          "Great of Sacred Power"—the High Priest of Reth'Sa'ar, at the head of the archives, the observatory and the schools.
     offices:
       Keeper of the Archives: >-
         Catalogues what the empire knows and answers for what the temple holds.
@@ -50,13 +50,13 @@ data:
 
 ## Overview
 
-Lut-Reth'Sa'âr is the temple of [[lore-rethsaardty|Reth'Sa'âr]], god of knowledge and of the written hand, and the physical seat of the archives, the observatory and the scribal schools that feed them. Its priests catalogue what the empire knows, track the stars for the calendar the whole administration runs on, and train the scribes who staff it. A scholar seeking a lost record starts here before anywhere else, because what the temple has not catalogued is, for most purposes, lost for good.
+Lut-Reth'Sa'ar is the temple of [[lore-rethsaardty|Reth'Sa'ar]], god of knowledge and of the written hand, and the physical seat of the archives, the observatory and the scribal schools that feed them. Its priests catalogue what the empire knows, track the stars for the calendar the whole administration runs on, and train the scribes who staff it. A scholar seeking a lost record starts here before anywhere else, because what the temple has not catalogued is, for most purposes, lost for good.
 
 ## Character
 
-"Before you ask for anything, learn the rule of the house," the archivist tells the scholar who has traveled a month to be here. "If we have not catalogued it, it is lost. If it is lost, we cannot find it for you, and nobody else can either." Lut-Reth'Sa'âr is the seat of the empire's archives, the observatory and the scribal schools that feed them, and a scholar hunting a vanished record starts here before anywhere else.
+"Before you ask for anything, learn the rule of the house," the archivist tells the scholar who has traveled a month to be here. "If we have not catalogued it, it is lost. If it is lost, we cannot find it for you, and nobody else can either." Lut-Reth'Sa'ar is the seat of the empire's archives, the observatory and the scribal schools that feed them, and a scholar hunting a vanished record starts here before anywhere else.
 
-The temple trains by long residence. A Wazu (acolyte) spends years among the archives learning the sacred hand, mathematics, geometry and several scripts, and many never take ordination but go out as scribes, administrators and scholars who keep a lifelong tie to the temple. The ordained Lem'Nelgir hold the offices: the Keeper of the Archives, who answers for what the temple holds; the Watcher of the Stars, who supplies the calendar the administration runs on; and the Teacher of Scribes. Priests who handle the records are known for scruple. Betraying the accuracy of a record is, to them, a betrayal of the god.
+The temple trains by long residence. A Wazu (acolyte) spends years among the archives learning the sacred hand, mathematics, geometry and several scripts, and many never take ordination but gho out as scribes, administrators and scholars who keep a lifelong tie to the temple. The ordained Lem'Nelgir hold the offices: the Keeper of the Archives, who answers for what the temple holds; the Watcher of the Stars, who supplies the calendar the administration runs on; and the Teacher of Scribes. Priests who handle the records are known for scruple. Betraying the accuracy of a record is, to them, a betrayal of the god.
 
 The house is meticulous and acquisitive, and it is generous in one direction only. At each new lunar cycle scribes come to share discoveries as offerings, and the temple holds contests in calligraphy and rhetoric with children brought to watch. Knowledge is the offering; secrecy is the vice.
 
@@ -64,11 +64,11 @@ The house is meticulous and acquisitive, and it is generous in one direction onl
 
 The temple stands at the center of a small constellation of bodies, each holding a part of what it does.
 
-- [[affiliation-lemrethsaar|Lem'Reth'Sa'âr]]—The priesthood of the same god, which keeps the archives and sets the disciplines of the written hand. A scribe who passes beyond the guild halls into the god's service joins it.
-- [[affiliation-linrethrthsr|Lin'Rethu elu Reth'Sa'âr]]—The scholars the temple has certified to handle its deeper texts. They hold those texts apart from the general archive, and the temple defers to them on who may read.
-- [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'âr]]—The scribal schools under the temple's patronage, which supply the scribes the administration depends on.
+- [[affiliation-lemrethsaar|Lem'Reth'Sa'ar]]—The priesthood of the same god, which keeps the archives and sets the disciplines of the written hand. A scribe who passes beyond the guild halls into the god's service joins it.
+- [[affiliation-linrethrthsr|Lin'Rethu elu Reth'Sa'ar]]—The scholars the temple has certified to handle its deeper texts. They hold those texts apart from the general archive, and the temple defers to them on who may read.
+- [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]—The scribal schools under the temple's patronage, which supply the scribes the administration depends on.
 
-The temple keeps a polite distance from the festivals of Thubâ'i, whom it regards as a lesser pursuit than truth, though a prosperous merchant's household often keeps a shrine to each. Pleasure rewards what knowledge builds, and the temple does not mind being thanked in that order.
+The temple keeps a polite distance from the festivals of Thuba'i, whom it regards as a lesser pursuit than truth, though a prosperous merchant's household often keeps a shrine to each. Pleasure rewards what knowledge builds, and the temple does not mind being thanked in that order.
 
 ## Commerce and Currency
 
@@ -78,5 +78,5 @@ The temple is paid in the god's own coin. Visitors leave fine papyrus, inks made
 
 ## See Also
 
-- [[lore-rethsaardty|Reth'Sa'âr]]—The god of knowledge the temple serves
+- [[lore-rethsaardty|Reth'Sa'ar]]—The god of knowledge the temple serves
 - [[affiliation-lutzethu|Lut-Zethu]]—The Imperial Library

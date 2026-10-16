@@ -1,9 +1,9 @@
 ---
 shortcode: mazhreliongh
-name: {full: Mâzhrelion Ghotídek, aliases: [Ser Mâzhrelion Ghotídek]}
+name: {full: Mazhrelion Ghotidek, aliases: [Ser Mazhrelion Ghotidek]}
 type: being
 subType: npc
-description: A lieutenant who served under Ághrazûr Pyrgíkot in the Black Serpent Company and survived its dissolution.
+description: A lieutenant who served under Ághrazur Pirgikot in the Black Serpent Company and survived its dissolution.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Mâzhrelion Ghotídek is a 40-year-old man who stands 6'0" tall with a heavy build. He has fair skin, weathered complexion, dark blonde hair, and hazel eyes.
+Mazhrelion Ghotidek is a 40-year-old man who stands 6'0" tall with a heavy build. He has fair skin, weathered complexion, dark blonde hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Mâzhrelion Ghotídek is a Byzarian officer, a lieutenant who served under [[being-aghrzrpyrgkt|Ághrazûr Pyrgíkot]] in the Black Serpent Company and survived its dissolution. He was reported killed in action five years ago and reappears claiming that the official report was false.
+Mazhrelion Ghotidek is a Bizarian officer, a lieutenant who served under [[being-aghrzrpyrgkt|Ághrazur Pirgikot]] in the Black Serpent Company and survived its dissolution. He was reported killed in action five years ago and reappears claiming that the official report was false.

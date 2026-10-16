@@ -1,6 +1,6 @@
 ---
 shortcode: xikulchakl2
-name: {full: Xik'ul Ch'akal, aliases: []}
+name: {full: Shik'ul Ch'akal, aliases: []}
 type: place
 subType: settlement
 description: "The K'ich'chik reckoning of the Otter People's seat among lakes and portages, where traders wait on authorities they never see."
@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [xikulchaklrgn], population: 2000, gove
 
 ## Overview
 
-A K'ich'chik trader who wants to deal with the Ha'ik waits, sometimes for days, while their representatives consult authorities he never sees. The seat of **Xik'ul Ch'akal**, the Water Path, is reckoned at about 2,000 people, in the lake-and-river country of the northeast, where the Ha'ik Tz'omalil, the Otter People, control the waterways and the portage routes between them with quiet, absolute authority. K'ich'chik traders who navigate Ha'ik rivers without permission vanish.
+A K'ich'chik trader who wants to deal with the Ha'ik waits, sometimes for days, while their representatives consult authorities he never sees. The seat of **Shik'ul Ch'akal**, the Water Path, is reckoned at about 2,000 people, in the lake-and-river country of the northeast, where the Ha'ik Ts'omalil, the Otter People, control the waterways and the portage routes between them with quiet, absolute authority. K'ich'chik traders who navigate Ha'ik rivers without permission vanish.
 
 ## What the Scouts See
 
@@ -22,6 +22,6 @@ The Ha'ik tolerate trade only at designated border sites, on their own schedule 
 
 ## See Also
 
-- [[affiliation-xikulchakl|Xik'ul Ch'akal]]—the Otter People and their nation
-- [[place-xikulchaklrgn|Xik'ul Ch'akal Region]]—the lakes and the portages
+- [[affiliation-xikulchakl|Shik'ul Ch'akal]]—the Otter People and their nation
+- [[place-xikulchaklrgn|Shik'ul Ch'akal Region]]—the lakes and the portages
 - [[place-nrthrnkchchk|Northern K'ich'chik]]—the northern nations

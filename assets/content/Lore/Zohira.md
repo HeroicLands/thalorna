@@ -3,7 +3,7 @@ shortcode: zohira
 name: {full: Zohira, aliases: [The Intermediary Spirits, The Emissaries of the Flame]}
 type: lore
 subType: spirit
-description: "The intermediary spirits of the Okháric world—emissaries of the Eternal Flame, tied to fertility, storms, rivers, death and the hunt, and dealt with at cairns rather than in temples."
+description: "The intermediary spirits of the Okharik world—emissaries of the Eternal Flame, tied to fertility, storms, rivers, death and the hunt, and dealt with at cairns rather than in temples."
 tags: [nkaruthar, religion]
 data: {packFolder: settinglore}
 ---
@@ -20,12 +20,12 @@ spirits, interpret their will, and intercede on behalf of their people.
 
 ## Two Traditions, One People
 
-An Okháric villager keeps both [[affiliation-nkaruthar|the Eternal Flame]] and the zohira, and
+An Okharik villager keeps both [[affiliation-nkaruthar|the Eternal Flame]] and the zohira, and
 sees no tension in it. But the two are not the same kind of thing, and the difference matters more
 than the coexistence does.
 
-**The spirits are what being Okháric is.** Nobody professes the zohira, converts to them, or is
-received among them; an Okháric is of the spirits from birth, the way they are of their mother's
+**The spirits are what being Okharik is.** Nobody professes the zohira, converts to them, or is
+received among them; an Okharik is of the spirits from birth, the way they are of their mother's
 kin. There is no membership, so there is nothing to leave.
 
 **The Flame is worshipped.** It is a deity, with doctrine to assent to, temples, an ordained
@@ -33,18 +33,18 @@ priesthood and a hierarchy—a religion that arrived among people who already ha
 did not displace them.
 
 The asymmetry has a sharp consequence: because the Flame is professed, it can be professed
-otherwise. An Okháric who takes up a foreign god has not left the zohira and has not stopped being
-Okháric—only declined the Flame. In the tribal country that is an eccentricity. In the
+otherwise. An Okharik who takes up a foreign god has not left the zohira and has not stopped being
+Okharik—only declined the Flame. In the tribal country that is an eccentricity. In the
 city-states, where the Overlord is titled Keeper of the Three Flames, it is close enough to treason
 that the distinction is rarely worth arguing. It is done. It is not often done twice.
 
 The city priesthoods acknowledge the zohira as part of Nkaru'thar's design, and the shamans of the
-[[affiliation-yenorzhrng|Yénor Zohiring]] recognize the Eternal Flame as the ultimate source. A
+[[affiliation-yenorzhrng|Yenor Zohiring]] recognize the Eternal Flame as the ultimate source. A
 person goes to the temple for the turning of the year and to the cairn when the river is wrong.
 Tension arises between the formalized hierarchy and the outlying tribes from time to time, but it
 is a tension about precedence and resources, never about whether the other is true.
 
-Foreign observers find this incomprehensible and record it as confusion. Okhárics find the
+Foreign observers find this incomprehensible and record it as confusion. Okharics find the
 confusion itself odd—to them it is not two beliefs held awkwardly together but the natural order
 of things, and the question of which one is _really_ believed has no answer because it has no
 purchase.
@@ -54,7 +54,7 @@ purchase.
 They do contradict each other, and often. The two spheres make overlapping claims about the same
 events, and neither defers.
 
-- **The dead.** The Spirit Flame of Zarhánis governs the passage of the soul after death, and the
+- **The dead.** The Spirit Flame of Zarhanis governs the passage of the soul after death, and the
   temple has a full doctrine of where a soul goes and what carries it. The
   [[lore-orclbonesspr|Oracle of Bones]] is a zohira of death, and Bone-Readers read what it has
   written in the body. A widow may have both rites performed over the same husband, a week apart,
@@ -66,13 +66,13 @@ events, and neither defers.
   the kingdom's soldiers. [[lore-shengelspr|Zohu Shéngeling]] is seated in the Magara Spirit Blades,
   which choose their own bearers. Where the temple would appoint, the blade decides, and the temple
   has never found a way to say the blade is wrong.
-- **Rank.** A High Pyremant outranks every priest in Okháris and does not outrank a shaman, because
+- **Rank.** A High Pyremant outranks every priest in Okharis and does not outrank a shaman, because
   they are not on the same ladder at all—which means there is no procedure for what happens when
   the two disagree in a frontier village, and there never has been.
 
 _"How can you possibly believe both? They contradict!"_ is the outsider's objection, and it is
-made with some force by Aû'Khelâthu priests, by Vylarian factors, and by every foreign scholar who
-has written the Okhárics up. It does not concern the people it is addressed to in the slightest.
+made with some force by Au'Khelathu priests, by Vylarian factors, and by every foreign scholar who
+has written the Okharics up. It does not concern the people it is addressed to in the slightest.
 
 The widow does not think she has a problem. She had the temple rite and she had the Bone-Reader,
 her husband is where the Flame takes him and also what the bones say of him, and the visitor
@@ -100,12 +100,12 @@ the shrine where it was made.
 ## The Named Zohira
 
 Innumerable local zohira are known only to the tribe whose cairn holds them. These are the ones
-known across the Okháric country.
+known across the Okharik country.
 
 | Zohira                                     | Domain             | Met through                                             |
 | ------------------------------------------ | ------------------ | ------------------------------------------------------- |
 | [[lore-yombelspr\|Yombel Ngoriring]]       | Rivers             | [[skill-yombelsprt\|Yombel Ngoriring Spirit Power]]     |
-| [[lore-gorombespr\|Gorómbe]]               | Storms             | [[skill-gorombesprt\|Gorómbe Spirit Power]]             |
+| [[lore-gorombespr\|Gorombe]]               | Storms             | [[skill-gorombesprt\|Gorombe Spirit Power]]             |
 | [[lore-zhimbalspr\|Zhimbalu Ombing]]       | The hunt           | [[skill-zhimbalsprt\|Zhimbalu Ombing Spirit Power]]     |
 | [[lore-orclbonesspr\|The Oracle of Bones]] | Death and prophecy | [[skill-orclbonessprt\|Oracle of Bones Spirit Power]]   |
 | [[lore-pemburspr\|Pemburari Khutheling]]   | Fertility          | [[skill-pembursprt\|Pemburari Khutheling Spirit Power]] |
@@ -113,6 +113,6 @@ known across the Okháric country.
 
 ## See Also
 
-- [[affiliation-yenorzhrng|Yénor Zohiring]]—the shamanic tradition that deals with them
+- [[affiliation-yenorzhrng|Yenor Zohiring]]—the shamanic tradition that deals with them
 - [[affiliation-nkaruthar|Nkaru'thar]]—the Eternal Flame whose emissaries they are
 - [[lore-thekindred|The Kindred]]—the Áelendan parallel, territorial where these are domanial

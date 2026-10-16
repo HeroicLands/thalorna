@@ -1,6 +1,6 @@
 ---
 shortcode: linzwrtkhlth
-name: {full: Lin'Zuwaret elu Aû'Khelâthu, aliases: [The Merchant Consortium]}
+name: {full: Lin'Zuwaret elu Au'Khelathu, aliases: [The Merchant Consortium]}
 type: affiliation
 subType: venture
 description: Wealthy traders across the empire who hire beast-trainers, assess stock moving on the routes, and consult on the transport of anything that has to arrive alive
@@ -38,7 +38,7 @@ data:
 
 A consortium factor, hiring a beast-trainer for a long haul, lays out the arithmetic before the wage: "A sack of barley that arrives late is a sack of barley. A camel that arrives late is a debt."
 
-**Lin'Zuwaret elu Aû'Khelâthu** is a consortium of wealthy traders across [[place-aukhelathrgq|Aû'Khelâthu]] who deal in goods that have to arrive alive rather than merely intact. It hires beast-trainers, assesses stock moving on the imperial routes, and advises on the transport of anything a bad journey would kill outright, which puts its factors in touch with every drover and stable-hand who handles a beast of value. Its counsel on how an animal should travel is what other traders buy. A trader who moves livestock or exotic beasts without asking for it is gambling with a cargo that cannot be repacked if it survives the trip in poor condition.
+**Lin'Zuwaret elu Au'Khelathu** is a consortium of wealthy traders across [[place-aukhelathrgq|Au'Khelathu]] who deal in goods that have to arrive alive rather than merely intact. It hires beast-trainers, assesses stock moving on the imperial routes, and advises on the transport of anything a bad journey would kill outright, which puts its factors in touch with every drover and stable-hand who handles a beast of value. Its counsel on how an animal should travel is what other traders buy. A trader who moves livestock or exotic beasts without asking for it is gambling with a cargo that cannot be repacked if it survives the trip in poor condition.
 
 ## Commerce and Currency
 
@@ -48,4 +48,4 @@ If you are hired as a trainer, expect the factor to ask about feeding, watering 
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the region it belongs to
+- [[place-aukhelathrgq|Au'Khelathu Region]]—the region it belongs to

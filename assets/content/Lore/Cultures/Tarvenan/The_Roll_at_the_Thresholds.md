@@ -15,9 +15,9 @@ data:
 # terran_analog: "The call-and-response of a military muster and of liturgy; the roll of the fallen answered by the living; the catalogue of the dead with a deed apiece; the oath renewed at the new year; and the blank kept in a list for a name erased, as on a monument where a name has been struck."
 ---
 
-**The Roll at the Thresholds** is said by a crossbow company of the valleys at its oath stone, the _goitsára_, on the first morning of the Feast of Thresholds at the turning of the year ([[affiliation-ardavon|Faith of Árdavon]]), when the lords and vassals of the pantheon's faith renew their bonds in the temples. The company keeps the feast the way its valley keeps it. The village priest stands by the stone as witness and says nothing until the end, and the captain calls the muster roll, the _theróna_, from memory, because a company's roll is a thing carried in the captain's head and in the company's, and not in a book.
+**The Roll at the Thresholds** is said by a crossbow company of the valleys at its oath stone, the _goitsara_, on the first morning of the Feast of Thresholds at the turning of the year ([[affiliation-ardavon|Faith of Árdavon]]), when the lords and vassals of the pantheon's faith renew their bonds in the temples. The company keeps the feast the way its valley keeps it. The village priest stands by the stone as witness and says nothing until the end, and the captain calls the muster roll, the _therona_, from memory, because a company's roll is a thing carried in the captain's head and in the company's, and not in a book.
 
-The words are fixed and the names change. Each company says the roll of its own year: the living who marched, the dead who are answered for by the man who marched beside them, the names earned since the last feast and the boys who join. The roll below is the one the valleys teach a new captain, with the names of one company's year in it. A company that has struck a name from its roll, the _nehárlo_, keeps the place where the name was and says nothing there, every year that anyone of the company who knew the name is still alive. The company in this roll had struck one.
+The words are fixed and the names change. Each company says the roll of its own year: the living who marched, the dead who are answered for by the man who marched beside them, the names earned since the last feast and the boys who join. The roll below is the one the valleys teach a new captain, with the names of one company's year in it. A company that has struck a name from its roll, the _neharlo_, keeps the place where the name was and says nothing there, every year that anyone of the company who knew the name is still alive. The company in this roll had struck one.
 
 At the end the captain and the company say the contract over before the stone, and the priest says the god's name over it, and the year begins. A contract renewed at the stone is the one the company holds to; the order of the Sealed Word ([[affiliation-ordrsldwrd|Order of the Sealed Word]]) hears a broken one, and the company's own roll is where a broken one is remembered.
 
@@ -58,30 +58,30 @@ THE COMPANY
 Call it.
 
 THE CAPTAIN
-Garrátsa, the Wolf.
-GARRÁTSA
+Garrutsa, the Wolf.
+GARRUTSA
 Here, and kept.
 THE CAPTAIN
-Oztúka, the Crag.
-OZTÚKA
+Oztuka, the Crag.
+OZTUKA
 Here, and kept.
 THE CAPTAIN
 Átseka, the ewe, as the company has it, who is not gentle.
 ÁTSEKA
 Here, and kept.
 THE CAPTAIN
-Tsaláza, the Bell.
-TSALÁZA
+Tsalaza, the Bell.
+TSALAZA
 Here. Kept. And loud.
 THE COMPANY
 And loud.
 THE CAPTAIN
-Ozkúra, the Wind off the Peaks.
-OZKÚRA
+Ozkura, the Wind off the Peaks.
+OZKURA
 Here, and kept.
 THE CAPTAIN
-Betsúra, the Cheese, who came home lighter than he went.
-BETSÚRA
+Betsura, the Cheese, who came home lighter than he went.
+BETSURA
 Here, and kept, and lighter.
 THE CAPTAIN
 The sergeant.
@@ -103,7 +103,7 @@ You are kept.
 
 THE CAPTAIN
 Now the ones who marched and are not here.
-Kolzárra, the Scree, who went first up the ladder at the wall in the summer, and came down it.
+Kolzarra, the Scree, who went first up the ladder at the wall in the summer, and came down it.
 HIS COMPANION
 I marched beside him. He is not here. He went up first. He kept it.
 THE COMPANY
@@ -115,13 +115,13 @@ I marched beside him. He is not here. He took nothing that was not the company's
 THE COMPANY
 He kept it.
 THE CAPTAIN
-Bortsúla, the Byre, who held the mule-line the night the camp burned, and the mules lived.
+Bortsula, the Byre, who held the mule-line the night the camp burned, and the mules lived.
 HIS COMPANION
 I marched beside him. He is not here. The mules lived. He kept it.
 THE COMPANY
 He kept it.
 THE CAPTAIN
-Ugúzta, the Goat, who carried me out of the river on his back in the spring,
+Uguzta, the Goat, who carried me out of the river on his back in the spring,
 and died of the river in the autumn, in his bed, of the cough he got there.
 HIS COMPANION
 I marched beside him. He is not here. He carried the captain. He kept it.
@@ -175,24 +175,24 @@ Now the names earned this year.
 The man who came over the wall second, behind the Scree.
 What do we call him?
 THE COMPANY
-Garrúnda. The Peak. He was the top of the wall.
+Garrunda. The Peak. He was the top of the wall.
 THE CAPTAIN
-Garrúnda. Say it to him.
+Garrunda. Say it to him.
 THE COMPANY
-Garrúnda.
-GARRÚNDA
+Garrunda.
+GARRUNDA
 I have it. It is the company's. I will keep it.
 THE CAPTAIN
 The boy who carried the bolts to the line under the arrows on the river bank,
 who was not on the roll, and was there.
 What do we call him?
 THE COMPANY
-Ekútsa. The Sheepdog. Up and down the bank all day, and never bit.
+Ekutsa. The Sheepdog. Up and down the bank all day, and never bit.
 THE CAPTAIN
-Then he is on the roll. Ekútsa. Say it to him.
+Then he is on the roll. Ekutsa. Say it to him.
 THE COMPANY
-Ekútsa.
-EKÚTSA
+Ekutsa.
+EKUTSA
 I have it. I will keep it.
 
 THE CAPTAIN
@@ -260,6 +260,6 @@ Kept.
 
 ## See Also
 
-- [[lore-tarvenanclt|Tarvénan]]—the muster roll, the earned name and the unnaming, the oath stone and the contract
+- [[lore-tarvenanclt|Tarvenan]]—the muster roll, the earned name and the unnaming, the oath stone and the contract
 - [[affiliation-ardavon|Faith of Árdavon]]—the Feast of Thresholds and the god of the two faces
 - [[affiliation-ordrsldwrd|Order of the Sealed Word]]—the hearing on a broken oath

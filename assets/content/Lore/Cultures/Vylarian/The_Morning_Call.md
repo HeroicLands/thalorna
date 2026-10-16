@@ -23,15 +23,15 @@ data:
 # terran_analog: "The verse satires of Juvenal and Horace and the epigrams of Martial on the Roman client's morning salutatio, the climb to the patron's door, the placing of the queue, the dinner at the bottom couch and the newly rich patron's purchased ancestors; Roman satire's own claim to be the one form the Romans did not borrow."
 ---
 
-**The Morning Call** is the third satire in the book of **Nîzêlar**, a client-poet of [[place-orzara|Ôrzâra]] who lived in the Warrens and attended a patron on the Heights, and who says so in every poem he wrote. He was a veteran's son, and so a citizen only until he was grown, and the satires never let a listener forget that his right to sleep inside the line was his patron's to sign each year. Satire is the one form of verse the Vylarian schools call their own and not a borrowing, and it is in a lighter line than the epic, quick and broken, with the speech of the street let into it. Nîzêlar's book is read aloud after dinner in the houses of [[place-selvin|the Laurel]] and the Coronal by the people it describes, and they laugh in the right places. The houses it names by their streets have argued for a long time about which of them it means, and each house holds that it means another.
+**The Morning Call** is the third satire in the book of **Nizelar**, a client-poet of [[place-orzara|Orzara]] who lived in the Warrens and attended a patron on the Heights, and who says so in every poem he wrote. He was a veteran's son, and so a citizen only until he was grown, and the satires never let a listener forget that his right to sleep inside the line was his patron's to sign each year. Satire is the one form of verse the Vylarian schools call their own and not a borrowing, and it is in a lighter line than the epic, quick and broken, with the speech of the street let into it. Nizelar's book is read aloud after dinner in the houses of [[place-selvin|the Laurel]] and the Coronal by the people it describes, and they laugh in the right places. The houses it names by their streets have argued for a long time about which of them it means, and each house holds that it means another.
 
-The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the Alêssâ street speech, with the worn-down _a'_ the schoolmasters correct: _a' thelmôs lôkhâtôr; a' daimêlâ phâlvâtôr_, "the client's come; the patron's out." The steward at the door says the same thing in High Vylari, with one vowel changed, and the poem turns on the vowel: the steward gives the patron's absence in the subjunctive, as a thing alleged, which is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
+The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the Alessa street speech, with the worn-down _a'_ the schoolmasters correct: _a' thelmos lokator; a' daimela falvator_, "the client's come; the patron's out." The steward at the door says the same thing in High Vylari, with one vowel changed, and the poem turns on the vowel: the steward gives the patron's absence in the subjunctive, as a thing alleged, which is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
 
 : The Morning Call {#call}
 
 ```poetry {form=satire lang=en}
 Up before the cocks, before the bakers, before the gods are dressed,
-up, Nîzêlar, in the dark, in the room at the top of the Warrens,
+up, Nizelar, in the dark, in the room at the top of the Warrens,
 ninety stairs above the street, and every one a different height,
 because the builder was paid by the stair and was not paid for the measure.
 Blow on the coals in the pot. That is the kept fire of my house.
@@ -43,12 +43,12 @@ at sixteen, as the law shuts it, and left the son the gown.
 It was white when the city gave it to my father,
 and it is white now in the way a winter sky in Moktur is white.
 Down the ninety stairs, mind the ninth, it is missing, mind the fortieth,
-it is there but it is a rumor. Out. The street. Ôrzâra. Morning.
+it is there but it is a rumor. Out. The street. Orzara. Morning.
 
 The client's come. The patron's out.
 
 Up from the River Hill to the Laurel, every street a stair,
-past the fountain that has not thrown water since the last Ôrzâs but one,
+past the fountain that has not thrown water since the last Orzas but one,
 which the ward-magistrate's clerk has entered in the roll as resting,
 past the colonnade whose columns are resting, and the arch,
 which is resting very hard on two of its legs and considering the third,
@@ -65,10 +65,10 @@ and he sets the line in order down the steps, as the Senate is set,
 the first client at the top step and the last at the bottom,
 and between them all the empire, step by step, measured to the hair.
 Twelve years ago I stood on the fourth step. That was a good year.
-Then the third son of the senator from Alêssar came, and I was on the fifth.
+Then the third son of the senator from Alessar came, and I was on the fifth.
 Then a freedman of the house, whose master had died and left him a vineyard
 and a seal and an opinion of himself, and I was on the sixth.
-Then a dealer in Tarûzelian silk, whose patron's patron sits in the Senate,
+Then a dealer in Taruzelian silk, whose patron's patron sits in the Senate,
 and I was on the seventh, and he looked at me, and I looked at the silk.
 This year a boy of fourteen who writes verses. His verses are bad.
 His uncle is the patron's physician. I am on the eighth step.
@@ -139,7 +139,7 @@ is a gift of ships, and the new house sits on the fourth step of the Senate.
 The client's come. The patron's out.
 
 Home, then. Down from the Laurel at evening, by the long way,
-the avenue, the Ôrzâs's Circle, the great one, and in the Circle
+the avenue, the Orzas's Circle, the great one, and in the Circle
 the Founder, the colossus, standing over the triumphs and the accessions,
 with the crowned mark cut on the plinth where the rule of the old letters says
 a god's name goes, or a founder's, and inside the mark the stone smoothed blank.
@@ -163,7 +163,7 @@ The client's come. The patron's out. The client will come in the morning.
 
 ## See Also
 
-- [[place-orzara|Ôrzâra]]—the city of the stairs, the Warrens and the Heights
+- [[place-orzara|Orzara]]—the city of the stairs, the Warrens and the Heights
 - [[place-selvin|Selvin]]—the Laurel, where the new houses are
 - [[place-sixhillsvyl|The Six Hills]]—the River Hill and the Heights
 - [[lore-eaglecityrse|The Raising of the Eagle City]]—the Founder's statue and the stone with no name in it

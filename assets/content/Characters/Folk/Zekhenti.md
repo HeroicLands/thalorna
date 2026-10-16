@@ -36,4 +36,4 @@ Zekhenti is a 44-year-old woman who stands 5'8" tall with a light build. She has
 
 # Dossier {#dossier}
 
-Zekhenti trades in arms out of [[place-anlaghzetun|Anlagh-Zetûn]], wealthy enough from it to ask few questions. The guard units are the known buyers; where the rest of the stock goes is not something Zekhenti volunteers. Anyone asking directly gets the same silence the rest of the trade gets.
+Zekhenti trades in arms out of [[place-anlaghzetun|Anlagh-Zetun]], wealthy enough from it to ask few questions. The guard units are the known buyers; where the rest of the stock goes is not something Zekhenti volunteers. Anyone asking directly gets the same silence the rest of the trade gets.

@@ -1,9 +1,9 @@
 ---
 shortcode: mirvirsnarvu
-name: {full: Mirvir Snarvumakh, aliases: []}
+name: {full: Mirvir Snarvumak, aliases: []}
 type: being
 subType: npc
-description: A retired tentmaker of considerable reputation, father of Glirvrinna Snarvumakh.
+description: A retired tentmaker of considerable reputation, father of Glirvrinna Snarvumak.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Mirvir Snarvumakh is a 31-year-old man who stands 6'1" tall with a massive build. He has medium skin, scarred complexion, brown hair, and blue eyes.
+Mirvir Snarvumak is a 31-year-old man who stands 6'1" tall with a massive build. He has medium skin, scarred complexion, brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Mirvir Snarvumakh is a retired tentmaker of considerable reputation, father of [[being-glrvrnstrmrt|Glirvrinna Snarvumakh]]. He occasionally makes critical comments about Glirvrinna's prioritization of artistry over durability.
+Mirvir Snarvumak is a retired tentmaker of considerable reputation, father of [[being-glrvrnstrmrt|Glirvrinna Snarvumak]]. He occasionally makes critical comments about Glirvrinna's prioritization of artistry over durability.

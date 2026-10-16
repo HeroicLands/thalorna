@@ -3,7 +3,7 @@ shortcode: antel
 name: {full: Antel, aliases: [The Old Hill]}
 type: place
 subType: feature
-description: "The Old Hill of Ôrzâra, where the Republic's city stood before the Founder walled Arvel; its early monuments weather unrepaired, its Circle has gone shabby, and its old Senate hall stands empty above its cellars."
+description: "The Old Hill of Orzara, where the Republic's city stood before the Founder walled Arvel; its early monuments weather unrepaired, its Circle has gone shabby, and its old Senate hall stands empty above its cellars."
 tags: [hill, vylaria, orzara]
 data:
   demonym: null
@@ -36,7 +36,7 @@ The old Senate hall stands on the crown of the hill, empty. The Seldan's clerks 
 
 ## See Also
 
-- [[place-sixhillsvyl|Six Hills]]—the hills of Ôrzâra
+- [[place-sixhillsvyl|Six Hills]]—the hills of Orzara
 - [[place-arvel|Arvel]]—the hill that took the Old Hill's place
 - [[lore-eaglecityrse|The Raising of the Eagle City]]—the move that left the Old Hill behind
 - [[lore-greatburnng|The Great Burning]]—the fire that emptied it

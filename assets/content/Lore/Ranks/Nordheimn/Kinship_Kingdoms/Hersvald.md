@@ -28,7 +28,7 @@ He answers to the men who hold him in his place: their consent placed him there 
 
 ## Offices Open at This Standing
 
-The Lawspeaker's seat at a kingdom's ting, the Hirdstjóri's command of the king's household troop, and the Landvördr's collection of a district's dues—none of which require a jarl's grant to hold.
+The Lawspeaker's seat at a kingdom's ting, the Hirvstjori's command of the king's household troop, and the Landvordr's collection of a district's dues—none of which require a jarl's grant to hold.
 
 ## Where This Standing Is Held
 

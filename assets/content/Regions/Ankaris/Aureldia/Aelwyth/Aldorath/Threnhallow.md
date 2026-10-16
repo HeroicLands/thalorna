@@ -63,7 +63,7 @@ The causeway runs out from the end of a sewer-bank, a long half-hour's walk acro
 
 - **The endowment chest.** The commission of sewers wants its chest and its rolls back from the mound, to settle a dispute, and pays well enough to tempt somebody.
 - **A pilot's son.** A pilot's son rowed a pair of travelers out to the mound at dusk and did not come back. His father heard the bell.
-- **The reliquary.** A Levels family left a jeweled reliquary of the healers of [[affiliation-lusinia|Lúsinía]] in the house's keeping, and wants it brought home.
+- **The reliquary.** A Levels family left a jeweled reliquary of the healers of [[affiliation-lusinia|Lusinia]] in the house's keeping, and wants it brought home.
 
 ## See Also
 
@@ -90,7 +90,7 @@ The causeway runs out from the end of a sewer-bank, a long half-hour's walk acro
 
 **The remedy.** The commission's endowment chest lies in a sealed niche of the crypt above the old flood line. It holds the deeds of the endowment, the rolls of the dispute and the coin of the years it was paid. Carried to the commission, the deeds settle what the commission owes the house, and the coin pays living hands for the gates while the commission argues about the rest.
 
-**The ways in.** The vestry passage runs down a wet stair to the bell-chamber, where the bell hangs from its oak beam over the shaft into the crypt. The bell-loft ladder comes down the same shaft to the beam, so the rope can be cut from above without entering the crypt. The landward door opens on the maintenance embankment, which reaches dry ground at any tide. In niches above the old flood line, sealed with lead and wax, lie the house's silver vessels, the endowment chest and the reliquary of Lúsinía's healers left in the house's keeping.
+**The ways in.** The vestry passage runs down a wet stair to the bell-chamber, where the bell hangs from its oak beam over the shaft into the crypt. The bell-loft ladder comes down the same shaft to the beam, so the rope can be cut from above without entering the crypt. The landward door opens on the maintenance embankment, which reaches dry ground at any tide. In niches above the old flood line, sealed with lead and wax, lie the house's silver vessels, the endowment chest and the reliquary of Lusinia's healers left in the house's keeping.
 
 > [!TIP]
 > Present the drowned as workers before they are hunters. Whenever the tide turns while they are in view, they break off whatever they are doing and go down toward the wheel, unhurried. Describe it each time and let the pattern build.

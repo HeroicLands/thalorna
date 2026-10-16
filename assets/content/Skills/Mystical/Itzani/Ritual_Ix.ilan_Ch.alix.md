@@ -1,6 +1,6 @@
 ---
 shortcode: ixilanchalix
-name: {full: "Ritual: Ix'ilan Ch'alix", aliases: [Ix'ilan Ch'alix, The Sacred Star]}
+name: {full: "Ritual: Ish'ilan Ch'alish", aliases: [Ish'ilan Ch'alish, The Sacred Star]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-ixilanchalix|Faith of Ix'ilan Ch'alix]]
+See [[affiliation-ixilanchalix|Faith of Ish'ilan Ch'alish]]

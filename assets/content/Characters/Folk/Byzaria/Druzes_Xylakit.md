@@ -1,9 +1,9 @@
 ---
 shortcode: druzesxylaki
-name: {full: Druzês Xylákit, aliases: [Prince Druzês, Merchant Prince Druzês Xylákit]}
+name: {full: Druzes Zilakit, aliases: [Prince Druzes, Merchant Prince Druzes Zilakit]}
 type: being
 subType: npc
-description: A canny trader of the Byzarian League who has secured access to Eichengrund's furs and amber, named in Athalwa yra Vithrúnd wur Eichengrund.
+description: A canny trader of the Bizarian League who has secured access to Eichengrund's furs and amber, named in Athalwa yra Vithrúnd wur Eichengrund.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Druzês Xylákit is a 56-year-old man who stands 6'3" tall with a medium build. He has olive skin, weathered complexion, dark brown hair, and brown eyes.
+Druzes Zilakit is a 56-year-old man who stands 6'3" tall with a medium build. He has olive skin, weathered complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Druzês Xylákit is a merchant prince of the Byzarian League and a canny trader. He has secured access to the furs and amber of Eichengrund through village trade agreements and his relationship with [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]], with whom he keeps a respectful commercial and diplomatic relationship.
+Druzes Zilakit is a merchant prince of the Bizarian League and a canny trader. He has secured access to the furs and amber of Eichengrund through village trade agreements and his relationship with [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]], with whom he keeps a respectful commercial and diplomatic relationship.

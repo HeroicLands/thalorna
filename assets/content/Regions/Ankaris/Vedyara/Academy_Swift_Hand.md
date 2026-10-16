@@ -16,9 +16,9 @@ The bow is short and recurved, made to be drawn and loosed from the saddle at a 
 
 ## What It Costs
 
-A student must be mounted, and the academy provides no horses. That single fact sets the Swift Hand apart from the other three halls and keeps its intake the smallest and the best-born of the four, whatever the janapada's rules about station say.
+A student must be mounted, and the academy provides no horses. That single fact sets the Swift Hand apart from the other three halls and keeps its intake the smallest and the best-born of the four, whatever the janapoda's rules about station say.
 
-The academy knows the contradiction. Its answer is that it has asked the sabhā twice for a stable on the common charge and been refused twice, and that the refusals are in the record.
+The academy knows the contradiction. Its answer is that it has asked the sabhra twice for a stable on the common charge and been refused twice, and that the refusals are in the record.
 
 ## Abroad
 
@@ -26,5 +26,5 @@ Swift Hand graduates serve in the horse of the western kingdoms and on the deser
 
 ## See Also
 
-- [[place-bowfort|The Bow-Fort]] · [[place-dhanurkota|Dhanurkota]]
+- [[place-bowfort|The Bow-Fort]] · [[place-dhanurkota|Danurkota]]
 - [[place-highdraw|The Academy of the High Draw]] · [[place-patienteye|The Academy of the Patient Eye]] · [[place-hiddenstring|The Academy of the Hidden String]]

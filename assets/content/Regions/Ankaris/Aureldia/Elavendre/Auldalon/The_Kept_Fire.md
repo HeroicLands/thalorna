@@ -14,11 +14,11 @@ data:
   culture: elavendriclt
 ---
 
-Where the [[place-auldalon|Áuldalon]] hills climb toward the mountains and the oak gives way to birch, a fold of ground holds a hill with a door in it. The door is fitted stone, cut square in the manner of the Vylarian legions, and behind it a hall is lit by a fire that has burned since the war at Váldun. The hill-drovers name it **the Kept Fire**, in [[skill-elvndrlng|Élavendri]] _Káralson_, the hearth of a hall. They drive their flocks round it by a half-day's detour and do not say why.
+Where the [[place-auldalon|Áuldalon]] hills climb toward the mountains and the oak gives way to birch, a fold of ground holds a hill with a door in it. The door is fitted stone, cut square in the manner of the Vylarian legions, and behind it a hall is lit by a fire that has burned since the war at Valdun. The hill-drovers name it **the Kept Fire**, in [[skill-elvndrlng|Élavendri]] _Káralson_, the hearth of a hall. They drive their flocks round it by a half-day's detour and do not say why.
 
 ## The Cohort
 
-When the Vylarian legions came north-west into the hills and [[lore-elvtribute|the war at Váldun]] was fought, a cohort that followed a path at the forest margin was not seen again. The hill levy tells it as a victory of the ground. The cohort's _Lusar_, **Sôlkimôs**, led it on a winter night into the fold, and found a hall with a lit door.
+When the Vylarian legions came north-west into the hills and [[lore-elvtribute|the war at Valdun]] was fought, a cohort that followed a path at the forest margin was not seen again. The hill levy tells it as a victory of the ground. The cohort's _Lusar_, **Solkimos**, led it on a winter night into the fold, and found a hall with a lit door.
 
 He did not ask. A Vylarian _Lusar_ with frostbitten men at his back and a legion's name behind him demanded shelter for the Sovereign's soldiers. The one within, whom the Áelendan name _dáimela_, the Giver, answered in the manner of its kind: exactly. It gave a hall, a fire and bread. The _Lusar_ swore that his cohort would hold the place against all comers for as long as the Sovereign's name stood, and the Giver took him at his word.
 
@@ -34,7 +34,7 @@ The _Lusar_ enforces the rule as a soldier does: with courtesy, with force when 
 
 - **The drovers** of the southern hills say the hall is full of old soldiers and that you do not accept bread from them. The older ones add that they are the ones who stayed.
 - **The Colleges** keep a bard's lament of a cohort lost in the forest margin, and the last verse is sung only to a bardic student who has asked to hear it.
-- **The phêlzândôs's house at Péravel** keeps a muster-roll showing the cohort as deserted, its banner unaccounted for and its pay-chest lost with it. A clerk there keeps the file open for reasons nobody cares to explain.
+- **The felzos's house at Péravel** keeps a muster-roll showing the cohort as deserted, its banner unaccounted for and its pay-chest lost with it. A clerk there keeps the file open for reasons nobody cares to explain.
 - **The Áelendan** call it _Dáimela's door_. They do not enter, and they do not forbid anyone else to.
 
 ## Reaching It
@@ -43,7 +43,7 @@ The fold lies a day's walk south of the last Áuldalon drove road, where the pon
 
 ## Hooks
 
-- **The muster-roll.** A clerk of the _phêlzândôs_'s house at Péravel wants proof the cohort held, not deserted. It is worth money to a family that carries the cohort's name.
+- **The muster-roll.** A clerk of the _felzos_'s house at Péravel wants proof the cohort held, not deserted. It is worth money to a family that carries the cohort's name.
 - **A drover's brother.** A boy followed a lamp into the fold and has been counted at the door for three years.
 - **The banner.** A Vylarian collector pays for a cohort's standard. A Bardic College pays for the lament's last verse.
 
@@ -51,5 +51,5 @@ The fold lies a day's walk south of the last Áuldalon drove road, where the pon
 
 - [[scenario-drkptfr|The Roll Beneath the Hill]]—a scenario set here
 - [[lore-elvtribute|The Tribute of Élavendre]]—the war the cohort fought in
-- [[place-auldalon|Áuldalon]] · [[place-valdun|Váldun]] · [[place-beravel|Péravel]]
+- [[place-auldalon|Áuldalon]] · [[place-valdun|Valdun]] · [[place-beravel|Péravel]]
 - [[affiliation-vylarinmpr|Vylarian Empire]] · [[affiliation-bardicolgs|The Bardic Colleges]]

@@ -219,7 +219,7 @@ The heat comes up off the rocks in waves, and the slope is loud with insects. On
 
 # Dossier {#dossier}
 
-The Nemespite is a small dreadspawn, four to six inches long, half wasp and half scorpion, banded in bright warning colors, with a sting that numbs, then paralyzes. One alone is a vicious insect. A hive of them is something else: a dozen to several hundred acting as one mind, herding prey, choosing the weakest and stinging it helpless. They live in warm, rocky highlands, and a great hive holds the lower slopes of the [[place-yandazhrng|Yánda Zohiring]], the high range on the Okháric frontier that the tribes say is the dwelling of the gods. Like every dreadspawn they were made and they cannot breed. A hive was made all at once; it does not grow, and every nemespite killed is gone for good.
+The Nemespite is a small dreadspawn, four to six inches long, half wasp and half scorpion, banded in bright warning colors, with a sting that numbs, then paralyzes. One alone is a vicious insect. A hive of them is something else: a dozen to several hundred acting as one mind, herding prey, choosing the weakest and stinging it helpless. They live in warm, rocky highlands, and a great hive holds the lower slopes of the [[place-yandazhrng|Yanda Zohiring]], the high range on the Okharik frontier that the tribes say is the dwelling of the gods. Like every dreadspawn they were made and they cannot breed. A hive was made all at once; it does not grow, and every nemespite killed is gone for good.
 
 ## Presentation
 
@@ -227,7 +227,7 @@ A nemespite is a narrow, segmented body sheathed in iridescent chitin, with two 
 
 ## In the Land
 
-The Yánda Zohiring rises beyond the settled Okháric country, and the shamans of the [[affiliation-yenorzhrng|Yénor Zohiring]] say it is where the spirit world lies closest to the mortal one. The nemespite hive holds the hot, broken lower slopes on its approaches: ravines, boulder-fields and sun-baked rock walls, full of crevices to shelter in. They hunt in the heat of the day, when they are fastest, taking lizards, birds, rock hyraxes and goats, and anything else that climbs through. In the cool of the night and the chill of the high slopes they are sluggish and stay in the rock. Above a certain height, where the cold comes, there are none.
+The Yanda Zohiring rises beyond the settled Okharik country, and the shamans of the [[affiliation-yenorzhrng|Yenor Zohiring]] say it is where the spirit world lies closest to the mortal one. The nemespite hive holds the hot, broken lower slopes on its approaches: ravines, boulder-fields and sun-baked rock walls, full of crevices to shelter in. They hunt in the heat of the day, when they are fastest, taking lizards, birds, rock hyraxes and goats, and anything else that climbs through. In the cool of the night and the chill of the high slopes they are sluggish and stay in the rock. Above a certain height, where the cold comes, there are none.
 
 ## Key Behaviors
 
@@ -235,7 +235,7 @@ Nemespites hunt by day. A few scouts range ahead, and when they find prey the hi
 
 ## What the Shamans Do
 
-Few of the Yénor Zohiring shamans go to the Yánda Zohiring at all, and the ones who do go up through the hive's slopes before dawn, in the cold, when the nemespites are torpid in the rock, and they are above the hive's ground by the time the sun warms the stone. A herder who loses goats on the lower slopes moves his herd and does not go after them. The accounts of shamans who claim to have reached the [[lore-orclbonesspr|Oracle of Bones]] do not agree on where it is, and the herders of the frontier say one reason is that every shaman takes a different way round the hive. Okháric healers buy the stingers of dead nemespites, ground fine, to deaden the pain of setting a bone.
+Few of the Yenor Zohiring shamans go to the Yanda Zohiring at all, and the ones who do go up through the hive's slopes before dawn, in the cold, when the nemespites are torpid in the rock, and they are above the hive's ground by the time the sun warms the stone. A herder who loses goats on the lower slopes moves his herd and does not go after them. The accounts of shamans who claim to have reached the [[lore-orclbonesspr|Oracle of Bones]] do not agree on where it is, and the herders of the frontier say one reason is that every shaman takes a different way round the hive. Okharik healers buy the stingers of dead nemespites, ground fine, to deaden the pain of setting a bone.
 
 ## Signs
 

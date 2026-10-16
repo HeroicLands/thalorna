@@ -1,6 +1,6 @@
 ---
 shortcode: althseldagla
-name: {full: Althselda Glarvidrokh, aliases: [Lady Althselda Glarvidrokh]}
+name: {full: Althselda Glarvidrok, aliases: [Lady Althselda Glarvidrok]}
 type: being
 subType: npc
 description: An explorer who has uncovered a fragment of a poem hinting at the location of a lost city and who seeks the finest tents ever made for an expedition, named in Dvarnvir Hrafnsvald and Hulavath.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Althselda Glarvidrokh is a 36-year-old woman who stands 5'10" tall with a light build. She has light skin, weathered complexion, brown hair, and hazel eyes.
+Althselda Glarvidrok is a 36-year-old woman who stands 5'10" tall with a light build. She has light skin, weathered complexion, brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Althselda Glarvidrokh is an explorer who has uncovered a fragment of a poem hinting at the location of a lost city and who seeks the finest tents ever made for an expedition. The manuscript is damaged by fire and by water; whole stretches are lost and most lines break off mid-phrase. Althselda Glarvidrokh is named in [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] and [[lore-valdum|Hulavath]].
+Althselda Glarvidrok is an explorer who has uncovered a fragment of a poem hinting at the location of a lost city and who seeks the finest tents ever made for an expedition. The manuscript is damaged by fire and by water; whole stretches are lost and most lines break off mid-phrase. Althselda Glarvidrok is named in [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] and [[lore-valdum|Hulavath]].

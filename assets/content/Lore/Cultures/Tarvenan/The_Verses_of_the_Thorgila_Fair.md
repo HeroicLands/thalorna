@@ -8,14 +8,14 @@ tags: [draft, tarvenia]
 data:
   culture: tarvenanclt
   packFolder: settinglore
-  form: gortsáda
+  form: gortsada
   subjects: [place-thorgila, lore-tarvenanclt, skill-tarvenlng]
   language: tarvenlng
 
 # terran_analog: "Basque bertsolaritza, the improvised sung verse of the fairs and festivals: two singers set against each other by a theme-setter who gives each a part to play and a measure to keep, the eight-line stanza with its sound held on the even lines, the audience as judge, and the verses of a good session remembered and sung again for years."
 ---
 
-**The Verses of the Thórgila Fair** are what the hill town of [[place-thorgila|Thórgila]] kept from a verse-duel, a _gortsáda_, sung at its autumn horse fair, the _ratháuna_, between two singers known at the fairs as **Lírkheza**, the Sling, and **Ozkárre**, the Hail. A _gortsáda_ is made on the spot and is not written down; what survives of one is what the fair could sing back the next day, and this one the valley could sing back almost whole. It is sung at the hearth in the winters since, each verse in the voice of the singer who made it, and the fairs of the Thórgila valleys take their measure from it.
+**The Verses of the Thórgila Fair** are what the hill town of [[place-thorgila|Thórgila]] kept from a verse-duel, a _gortsada_, sung at its autumn horse fair, the _arthauna_, between two singers known at the fairs as **Lírkeza**, the Sling, and **Ozkarre**, the Hail. A _gortsada_ is made on the spot and is not written down; what survives of one is what the fair could sing back the next day, and this one the valley could sing back almost whole. It is sung at the hearth in the winters since, each verse in the voice of the singer who made it, and the fairs of the Thórgila valleys take their measure from it.
 
 The duel has its rules, and every fair keeps them. A theme-giver sets each bout. At the Thórgila fair it is the **horse-judge**, the man who reads the horses' teeth and says their ages, because the fair holds that a man who can tell a nine-year-old mare from a seven can tell a good verse from a bad one. He gives each singer a part to play and gives the bout a vowel, and every second line of every verse in that bout must end on it. A verse is eight lines. A singer has the time it takes the other to finish to make the next one. The fair is the judge, and it judges by stamping, and the horse-judge only says which way the stamping went.
 
@@ -27,7 +27,7 @@ Each singer opens with a verse to the fair, on a vowel of the singer's choosing,
 
 : The Greeting {#greeting-verses}
 
-```poetry {form=gortsáda lang=en}
+```poetry {form=gortsada lang=en}
 THE SLING
 Good fair to Thórgila,
 and the horses in the row,
@@ -57,7 +57,7 @@ The horse-judge set the first bout: _Sling, you are a captain at the spring must
 
 : The Muster {#muster-verses}
 
-```poetry {form=gortsáda lang=en}
+```poetry {form=gortsada lang=en}
 THE HAIL
 Captain, I am fifteen.
 I have kept the flock each day
@@ -117,7 +117,7 @@ The second bout is the one the hill farms sing most. _Hail, you have come home f
 
 : The Mule in the Byre {#mule-verses}
 
-```poetry {form=gortsáda lang=en}
+```poetry {form=gortsada lang=en}
 THE HAIL
 Wife, I'm home. Here is the money.
 Six years. Count it. It is mine,
@@ -177,7 +177,7 @@ _Sling, you are the oath stone in the yard of this fair. Hail, you swore on it a
 
 : The Stone in the Yard {#stone-verses}
 
-```poetry {form=gortsáda lang=en}
+```poetry {form=gortsada lang=en}
 THE HAIL
 Stone, I swore on you in spring.
 I swore the horse was sound. Not so.
@@ -223,11 +223,11 @@ The fair gave the bout to the Hail, and the Sling stamped for him with the rest.
 
 ## The Last Word {#last-word}
 
-At the end of a duel the theme-giver may set one word, and each singer sings one verse on it, and neither answers. The horse-judge gave the word _revótho_, free, and the vowel of the word.
+At the end of a duel the theme-giver may set one word, and each singer sings one verse on it, and neither answers. The horse-judge gave the word _ervotho_, free, and the vowel of the word.
 
 : The Last Word {#last-word-verses}
 
-```poetry {form=gortsáda lang=en}
+```poetry {form=gortsada lang=en}
 THE HAIL
 Free is the man under contract.
 He chose the captain. So
@@ -254,5 +254,5 @@ The fair stamped, and the horse-judge listened, and said the word had not been g
 ## See Also
 
 - [[place-thorgila|Thórgila]]—the hill town and its autumn fair
-- [[lore-tarvenanclt|Tarvénan]]—the horse fair, the household run while the men are away, the oath stone and the word kept
-- [[skill-tarvenlng|Tarvéni]]—a language of assertion, in which a plain answer is the strong one
+- [[lore-tarvenanclt|Tarvenan]]—the horse fair, the household run while the men are away, the oath stone and the word kept
+- [[skill-tarvenlng|Tarveni]]—a language of assertion, in which a plain answer is the strong one

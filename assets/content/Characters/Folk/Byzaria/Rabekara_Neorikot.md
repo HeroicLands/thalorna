@@ -1,15 +1,15 @@
 ---
 shortcode: rabekaraneor
-name: {full: Rabekâra Neoríkot, aliases: [Archon Rabekâra Neoríkot]}
+name: {full: Rabekara Neorikot, aliases: [Arsir Rabekara Neorikot]}
 type: being
 subType: npc
-description: A senior political figure who guards Sedikôn Manedês jealously.
+description: A senior political figure who guards Sedikon Manedes jealously.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Archon
+  occupation: Arsir
   lore: []
   culture: byzarianclt
   homes: []
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Rabekâra Neoríkot is a 59-year-old woman who stands 5'10" tall with a medium build. She has tanned skin, ruddy complexion, dark brown hair, and dark brown eyes.
+Rabekara Neorikot is a 59-year-old woman who stands 5'10" tall with a medium build. She has tanned skin, ruddy complexion, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Rabekâra Neoríkot is a senior political figure, an archon, who guards [[being-gvrlsnktrts|Sedikôn Manedês]] jealously.
+Rabekara Neorikot is a senior political figure, an arsir, who guards [[being-gvrlsnktrts|Sedikon Manedes]] jealously.

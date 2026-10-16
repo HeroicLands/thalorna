@@ -56,4 +56,4 @@ A reformer who brings a proposal should take a long view. A hearing here is long
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to

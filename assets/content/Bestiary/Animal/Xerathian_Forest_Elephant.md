@@ -1,6 +1,6 @@
 ---
 shortcode: xrthnfrs
-name: {full: Xerathian Forest Elephant, aliases: []}
+name: {full: Zerathian Forest Elephant, aliases: []}
 type: being
 subType: creature
 description: "A smaller, elusive tropical-forest elephant that avoids humans and vanishes into dense jungle through camouflage and reclusive habits."
@@ -283,13 +283,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[xrthnfrs|Xerathian Forest Elephant]]{float=top-left}
+![[xrthnfrs|Zerathian Forest Elephant]]{float=top-left}
 
 The green wall beside the trail moves, and goes on moving after the wind has dropped. A gray-brown shape separates itself from the shadow under the trees, dark with wet, its ears round and close, its tusks straight and pointing down like a pair of pale stakes. It is smaller than you expected and much quieter: not a branch breaks as it steps out. It lifts its trunk toward you, tastes the air, and backs into the green again as smoothly as it came, and a moment later there is nothing to say it was ever there but a sway in the leaves and a smell of crushed fruit.
 
 # Dossier {#dossier}
 
-The Xerathian forest elephant is the elephant of the [[place-cntrlrnfrsts|Central Rainforests]]: eight or nine feet at the shoulder, four to five tons, dark gray-brown, with rounded ears and straight, down-pointing tusks made for pushing through undergrowth. It lives in small family groups in the deepest forest, eats leaves, bark, fruit and the mineral earth of the forest clearings, and avoids people as carefully as it can. The forest tribes see it seldom and hear it often. It is the quiet giant of the forest, and the danger of it is that a party pushing through thick growth can be on top of it before either knows the other is there.
+The Zerathian forest elephant is the elephant of the [[place-cntrlrnfrsts|Central Rainforests]]: eight or nine feet at the shoulder, four to five tons, dark gray-brown, with rounded ears and straight, down-pointing tusks made for pushing through undergrowth. It lives in small family groups in the deepest forest, eats leaves, bark, fruit and the mineral earth of the forest clearings, and avoids people as carefully as it can. The forest tribes see it seldom and hear it often. It is the quiet giant of the forest, and the danger of it is that a party pushing through thick growth can be on top of it before either knows the other is there.
 
 ## Presentation
 
@@ -305,7 +305,7 @@ A family is a few cows and their calves, led by the oldest cow; bulls go alone. 
 
 ## What the Forest Tribes Do
 
-The rainforest tribes walk the elephant trails as their own roads, and they walk them talking, so that the elephants hear them coming and step off. A village keeps its gardens fenced with thorn and its drums ready, because a family that finds a banana garden comes back to it. The tribes take a lone bull for its ivory only seldom, and with ceremony. Forest ivory, hard, straight and fine-grained, is the most valued ivory that comes out of Xerathia, and the tribes who trade with the north carry it to the cities of [[place-okharisrgn|Okháris]] and beyond along with the other goods of the forest, at a price the carriers set.
+The rainforest tribes walk the elephant trails as their own roads, and they walk them talking, so that the elephants hear them coming and step off. A village keeps its gardens fenced with thorn and its drums ready, because a family that finds a banana garden comes back to it. The tribes take a lone bull for its ivory only seldom, and with ceremony. Forest ivory, hard, straight and fine-grained, is the most valued ivory that comes out of Zerathia, and the tribes who trade with the north carry it to the cities of [[place-okharisrgn|Okharis]] and beyond along with the other goods of the forest, at a price the carriers set.
 
 ## Signs
 

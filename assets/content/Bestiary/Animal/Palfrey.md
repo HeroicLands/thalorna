@@ -246,7 +246,7 @@ The lady's horse waits at the inn door, a gray palfrey with a long neck and a fi
 
 # Dossier {#dossier}
 
-The Palfrey is the riding horse of comfort and distance, fourteen to fifteen hands high and eight hundred to a thousand pounds, bred by the nobility for a smooth, steady gait. Ladies, couriers and wealthy merchants ride it for steady progress and not for speed or war. It is kept in the stables of the noble houses of [[place-aureldirgn|Aurèldía]], on the post-roads of the Byzarian League and at the inns along the trade routes, where one can be hired by the stage.
+The Palfrey is the riding horse of comfort and distance, fourteen to fifteen hands high and eight hundred to a thousand pounds, bred by the nobility for a smooth, steady gait. Ladies, couriers and wealthy merchants ride it for steady progress and not for speed or war. It is kept in the stables of the noble houses of [[place-aureldirgn|Aureldia]], on the post-roads of the Bizarian League and at the inns along the trade routes, where one can be hired by the stage.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A horse of refined proportions with a long, graceful neck, sloping shoulders and
 
 ## In the Land
 
-Palfreys are kept in the stables of the noble houses of [[place-aureldirgn|Aurèldía]], on the post-roads of the Byzarian League and at the inns and posting-houses along the long trade routes. A palfrey is stabled in a town or at a manor and sent out on a road by the day. Merchants hire one by the stage, and the best are bred for their gait on the studs of the river valleys.
+Palfreys are kept in the stables of the noble houses of [[place-aureldirgn|Aureldia]], on the post-roads of the Bizarian League and at the inns and posting-houses along the long trade routes. A palfrey is stabled in a town or at a manor and sent out on a road by the day. Merchants hire one by the stage, and the best are bred for their gait on the studs of the river valleys.
 
 ## Key Behaviors
 

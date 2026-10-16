@@ -3,15 +3,15 @@ shortcode: wintertally
 name: {full: The Tally of Winters, aliases: [The Varokh Reckoning, The Ages of the Forest]}
 type: lore
 subType: calendar
-description: "How the Varokh of Vrystwald reckon time without writing: winters counted from the last thing every hearth remembers, the eldskorn recited at Weskskald, and the seven ages of the forest from the Taking of the Wood to the posts at Hrindstead."
+description: "How the Varokh of Vristwald reckon time without writing: winters counted from the last thing every hearth remembers, the eldskorn recited at Weskskald, and the seven ages of the forest from the Taking of the Wood to the posts at Hrindstead."
 tags: [reference, calendar, history]
 data:
   culture: varokhiclt
   epoch: "-1250.1"
   months:
-    - {name: Lúdra, abbreviation: Lúd, days: 91}
-    - {name: Lóvra, abbreviation: Lóv, days: 91}
-    - {name: Dróva, abbreviation: Dró, days: 91}
+    - {name: Ludra, abbreviation: Lud, days: 91}
+    - {name: Lovra, abbreviation: Lov, days: 91}
+    - {name: Drova, abbreviation: Dro, days: 91}
     - {name: Grema, abbreviation: Gre, days: 92}
   seasons:
     - {name: the thaw, abbreviation: Thaw, start: 1}
@@ -38,7 +38,7 @@ data:
   packFolder: vrystwald
 ---
 
-Ask a [[lore-varokhiclt|Varokh]] how old a feud is and the answer is a count of winters from something everyone remembers: "the fortieth winter since the posts burned", "the ninth winter since the rivers opened". The **Tally of Winters** is that count, and the reciters keep it. Nothing in [[place-vrystwald|Vrystwald]] is written down, so a year is a winter that somebody can name, and an age is the stretch of winters counted from one remembered thing before the next one starts the count again. The present winter is the thirteenth since the settlers planted their posts at [[place-hrindstead|Hrindstead]], written 13 PH.
+Ask a [[lore-varokhiclt|Varokh]] how old a feud is and the answer is a count of winters from something everyone remembers: "the fortieth winter since the posts burned", "the ninth winter since the rivers opened". The **Tally of Winters** is that count, and the reciters keep it. Nothing in [[place-vrystwald|Vristwald]] is written down, so a year is a winter that somebody can name, and an age is the stretch of winters counted from one remembered thing before the next one starts the count again. The present winter is the thirteenth since the settlers planted their posts at [[place-hrindstead|Hrindstead]], written 13 PH.
 
 ## How the Forest Counts
 
@@ -46,22 +46,22 @@ A Varokh dates an event three ways, and a reciter at Weskskald uses all three.
 
 - **By the winter's name.** Every village names a winter for what happened in it: the winter the whale came ashore at [[place-sundhaven|Sundhaven]], the winter the ice took the ford, the winter of the Waldburg killing. A village's own winters are what its old people argue about.
 - **By the count since.** When something happens that every hearth in the forest remembers, the reciters begin the count again from it, and a winter is "the twentieth since". That count is the Tally, and the seven stretches it divides into are the ages below.
-- **By the _eldskorn_ (ancestor tally).** At Weskskald a kindred recites its dead name by name, and an event is placed by how far back in the tally it falls: "it was in Hródmund's time, eleven names back." At about thirty winters to a name, the deeds a tally remembers reach some three centuries; beyond that the names run on bare, the ones who are the forest now.
+- **By the _eldskorn_ (ancestor tally).** At Weskskald a kindred recites its dead name by name, and an event is placed by how far back in the tally it falls: "it was in Hrodmund's time, eleven names back." At about thirty winters to a name, the deeds a tally remembers reach some three centuries; beyond that the names run on bare, the ones who are the forest now.
 
 The three do not always agree, and the reciters do not pretend they do. A named winter belongs to one village, the count since belongs to the forest, and the _eldskorn_ belongs to a kindred, and a dispute over ground is usually a dispute over which of the three to believe.
 
 ## The Year
 
-The year turns four times, and each turn is also the season that follows it. The Varokh reckon no months finer than that, because the forest's work does not divide finer: the rivers decide where people can go, and the rivers change four times a year. The year opens at the thaw, on the morning the [[lore-commoncal|Vylarian Calendar]] calls 1 Lîzêlândi, and runs the world's three hundred and sixty-five days.
+The year turns four times, and each turn is also the season that follows it. The Varokh reckon no months finer than that, because the forest's work does not divide finer: the rivers decide where people can go, and the rivers change four times a year. The year opens at the thaw, on the morning the [[lore-commoncal|Vylarian Calendar]] calls 1 Lizelandi, and runs the world's three hundred and sixty-five days.
 
 | Season | Days | What it holds                                                                                                           |
 | ------ | ---: | ----------------------------------------------------------------------------------------------------------------------- |
-| Lúdra  |   91 | the thaw: the rivers break and run high, the war-bands go out, and the first boats go down to the landings              |
-| Lóvra  |   91 | the leaf: the raiding and trading season, Weskmund at its end, and the markets at Waldburg                              |
-| Dróva  |   91 | the turning: the harvest, the slaughter, the last boats home and the dead carried in before the ground hardens          |
+| Ludra  |   91 | the thaw: the rivers break and run high, the war-bands go out, and the first boats go down to the landings              |
+| Lovra  |   91 | the leaf: the raiding and trading season, Weskmund at its end, and the markets at Waldburg                              |
+| Drova  |   91 | the turning: the harvest, the slaughter, the last boats home and the dead carried in before the ground hardens          |
 | Grema  |   92 | deep winter: the frozen rivers become roads, the trap-lines are walked, and the kindreds recite their dead at Weskskald |
 
-A date is given as the day of the season and the winter of the age: the elders broke the talisman at Waldburg in the first days of Lúdra, 173 LR.
+A date is given as the day of the season and the winter of the age: the elders broke the talisman at Waldburg in the first days of Ludra, 173 LR.
 
 ## The Ages of the Forest
 
@@ -77,7 +77,7 @@ A date is given as the day of the season and the winter of the age: the elders b
 
 ### Before the Kindreds (BK)
 
-The forest of the tellings: the _dorg_ (giants) who walked it before the clans, the stone circles beyond [[place-blackthornrdg|Blackthorn Ridge]] carved with marks that are neither Varokh nor Vylarian, and the paths in the deep wood that have led somewhere else since the Sinalë came. The [[lore-pelwarpepl|Pelwar]] lived in the clearings then, without walls. Nothing here is counted, and the reciters disagree about whether it happened to the Varokh at all or to somebody they replaced.
+The forest of the tellings: the _dorg_ (giants) who walked it before the clans, the stone circles beyond [[place-blackthornrdg|Blackthorn Ridge]] carved with marks that are neither Varokh nor Vylarian, and the paths in the deep wood that have led somewhere else since the Sinale came. The [[lore-pelwarpepl|Pelwar]] lived in the clearings then, without walls. Nothing here is counted, and the reciters disagree about whether it happened to the Varokh at all or to somebody they replaced.
 
 ### The Taking of the Wood (TW), from about 1250 BF
 
@@ -85,7 +85,7 @@ The mixed host the [[lore-varkhadcnq|Varkhad conquest]] made out of the eastern 
 
 ### The Mound Centuries (MC), from about 1100 BF
 
-Twelve centuries of villages, palisades, totems and mounds, and the longest age by far. The three seats took their shape in it, and so did the custom of splitting a village at five hundred, which the tellings give to [[place-vrystengrund|Vrystengrund]], a Deepwood village whose elders were offered a chief over them and walked out instead. Villages pushing into the eastern forest found the [[lore-grukarfolk|Grukar]] already there, sent parties to treat with them that never came back, and named that country [[place-skathwald|Skathwald]], the harm wood. The Nordmal kingdoms rose to the north, and Vylaria was a rumor of the south.
+Twelve centuries of villages, palisades, totems and mounds, and the longest age by far. The three seats took their shape in it, and so did the custom of splitting a village at five hundred, which the tellings give to [[place-vrystengrund|Vristengrund]], a Deepwood village whose elders were offered a chief over them and walked out instead. Villages pushing into the eastern forest found the [[lore-grukarfolk|Grukar]] already there, sent parties to treat with them that never came back, and named that country [[place-skathwald|Skathwald]], the harm wood. The Nordmal kingdoms rose to the north, and Vylaria was a rumor of the south.
 
 ### The Legions' Road (LR), from about 120 AF
 
@@ -101,7 +101,7 @@ The Nordmen took Stormveld and needed thralls by the tens of thousands, and the 
 
 ### The Posts at Hrindstead (PH), from 708 AF
 
-The present age. Nordheim settlers planted their hall-posts in the Eichthúl grove at Hrindstead and the Eichthúl burned the first stockade ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]). The Empire has drawn back to its core and Moktur's _thêrkhoi_ (governors) act on their own; Vylarian loggers fell sacred trees on the Moldún upstream of Skathhreth; and the Sons of Eldheim have come ashore on the western bay and burned a village ([[lore-westernshore|The Sons on the Western Shore]]). The reciters expect the next thing every hearth remembers to start a new count, and they cannot say whether it will be a muster.
+The present age. Nordheim settlers planted their hall-posts in the Eichthúl grove at Hrindstead and the Eichthúl burned the first stockade ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]). The Empire has drawn back to its core and Moktur's _therkoi_ (governors) act on their own; Vylarian loggers fell sacred trees on the Moldún upstream of Skathhreth; and the Sons of Eldheim have come ashore on the western bay and burned a village ([[lore-westernshore|The Sons on the Western Shore]]). The reciters expect the next thing every hearth remembers to start a new count, and they cannot say whether it will be a muster.
 
 ## Carrying a Winter to the Vylarian Calendar
 
@@ -120,5 +120,5 @@ No reciter counts a Mound Century winter, and nobody in the forest has ever need
 
 - [[lore-commoncal|The Vylarian Calendar]]—the count the forest's winters are carried to
 - [[lore-varokhiclt|Varokhi]]—Weskskald, the _eldskorn_ and the three seats
-- [[place-vrystwald|Vrystwald]]—the forest the ages belong to
+- [[place-vrystwald|Vristwald]]—the forest the ages belong to
 - [[lore-bloodfield|Blood-fields]]—Skathhreth and Grimak among the fields every people names

@@ -1,6 +1,6 @@
 ---
 shortcode: imrkszrznds
-name: {full: Îmarakîs Zêrâzêndis, aliases: []}
+name: {full: Imarakis Zerazendis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Îmarakîs Zêrâzêndis is a 31-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with broad cheekbones, a lined forehead, and an angular jaw that leads to a square chin. Her piercing brown eyes sit beneath prominent brows, lending her a penetrating gaze. A hawkish nose and full lips complete her features. She has tanned skin with a ruddy complexion. Her black hair is adorned with simple pins.
+Imarakis Zerazendis is a 31-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with broad cheekbones, a lined forehead, and an angular jaw that leads to a square chin. Her piercing brown eyes sit beneath prominent brows, lending her a penetrating gaze. A hawkish nose and full lips complete her features. She has tanned skin with a ruddy complexion. Her black hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Îmarakîs Zêrâzêndis came into the world of the musician (drums) through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Imarakis Zerazendis came into the world of the musician (drums) through a combination of circumstance and aptitude.
 
-Îmarakîs grew up in a traveling performers' troupe, learning to play various percussion instruments. She specializes in rhythmic drumming that accompanies dances and storytelling performances. Îmarakîs’s energetic and spirited playing has made her popular at festivals, though some consider her style to be too wild for refined tastes.
+Imarakis grew up in a traveling performers' troupe, learning to play various percussion instruments. She specializes in rhythmic drumming that accompanies dances and storytelling performances. Imarakis’s energetic and spirited playing has made her popular at festivals, though some consider her style to be too wild for refined tastes.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Unpolished, sometimes too loud for certain audiences, struggles with formal musi
 
 ### Motivation
 
-Îmarakîs is driven by the desire to master her craft and secure a stable future. The uncertainties of life in musician (drums) work keep her vigilant and adaptable.
+Imarakis is driven by the desire to master her craft and secure a stable future. The uncertainties of life in musician (drums) work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Skilled in various percussion techniques, energetic, captivating performer.
 
 ## Social
 
-Îmarakîs is affiliated with Minstrels' Guild.
+Imarakis is affiliated with Minstrels' Guild.
 
-As a Vylarian musician (drums), Îmarakîs occupies a recognized social niche within Vylaria society.
+As a Vylarian musician (drums), Imarakis occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Îmarakîs's primary patron is Traveling performers and festival organizers. This relationship provides both opportunity and obligation.
+Imarakis's primary patron is Traveling performers and festival organizers. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Some traditional musicians who dislike her unconventional style.
 
 ## Plot Hooks
 
-1. **The Musician (Drums)'s Dilemma**—Îmarakîs faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Musician (Drums)'s Dilemma**—Imarakis faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—Some traditional musicians who dislike her unconventional style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Îmarakîs's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Imarakis's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Îmarakîs depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Imarakis depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Îmarakîs the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Imarakis the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

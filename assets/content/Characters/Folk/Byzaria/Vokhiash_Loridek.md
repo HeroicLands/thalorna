@@ -1,6 +1,6 @@
 ---
 shortcode: vokhiashlori
-name: {full: Vokhiásh Lorídek, aliases: [Guild Master Vokhiásh Lorídek]}
+name: {full: Vokhiásh Loridek, aliases: [Guild Master Vokhiásh Loridek]}
 type: being
 subType: npc
 description: The current head of the Maritime Shipwrights' Guild, who acts as a political buffer between Trufios Veghekos and government bureaucracies.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Vokhiásh Lorídek is a 55-year-old woman who stands 6'0" tall with a heavy build. She has light skin, sun-kissed complexion, dark blonde hair, and amber eyes.
+Vokhiásh Loridek is a 55-year-old woman who stands 6'0" tall with a heavy build. She has light skin, sun-kissed complexion, dark blonde hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Vokhiásh Lorídek is the current head of the Maritime Shipwrights' Guild. She acts as a political buffer between [[being-grgrsfthympls|Trufios Veghekos]] and government bureaucracies, smoothing over the conflicts his abrasive manner causes.
+Vokhiásh Loridek is the current head of the Maritime Shipwrights' Guild. She acts as a political buffer between [[being-grgrsfthympls|Trufios Veghekos]] and government bureaucracies, smoothing over the conflicts his abrasive manner causes.

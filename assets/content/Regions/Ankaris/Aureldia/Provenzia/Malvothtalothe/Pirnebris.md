@@ -1,6 +1,6 @@
 ---
 shortcode: pirnebris
-name: {full: Pirnebrìs, aliases: []}
+name: {full: Pirnebris, aliases: []}
 type: place
 subType: settlement
 description: "The cherry town of the eastern uplands above Lake Tiravel—the last market before the Tarvénian passes, whose year is set by the blossom and the campaign season together."
@@ -8,14 +8,14 @@ tags: [town, hill, frontier]
 data: {demonym: null, lore: [], parents: [talothe], population: 1800, packFolder: provenzia}
 ---
 
-**Pirnebrìs**—the cherry vale—is a hill town of [[place-talothe|Talòthe]], standing above the
+**Pirnebris**—the cherry vale—is a hill town of [[place-talothe|Talote]], standing above the
 [[place-tiravellake|Lake Tiravel]] basin on the road that climbs toward the Tarvénian passes.
 
 Its orchards are the reason for the name and the reason anyone outside the march has heard of it. Sour
-cherries grow well in cold upland ground where softer fruit will not, and Pirnebrìs cherries—dried,
+cherries grow well in cold upland ground where softer fruit will not, and Pirnebris cherries—dried,
 and preserved in spirit—go down to [[place-harivrencity|Hárivren]] and across the kingdom. It is a
-smaller trade than [[place-zuravlenrgn|Zuravlèn]]'s and the two districts are not remotely comparable
-in wealth, a fact Pirnebrìs mentions more often than Zuravlèn does.
+smaller trade than [[place-zuravlenrgn|Zuravlen]]'s and the two districts are not remotely comparable
+in wealth, a fact Pirnebris mentions more often than Zuravlen does.
 
 ## Two Calendars
 
@@ -24,7 +24,7 @@ everywhere else on the frontier—and the two do not align comfortably. The pass
 is when the trees are in flower and the orchards need hands; raiding is heaviest in early summer, which
 is when the fruit is setting.
 
-So Pirnebrìs is a fruit town that has to be able to shut. Its houses are built to a pattern, walled
+So Pirnebris is a fruit town that has to be able to shut. Its houses are built to a pattern, walled
 yards facing inward; its market is inside the walls; its people can bring the flocks and the outlying
 families in within an afternoon and have done so, on average, about twice a decade for as long as the
 records run.
@@ -32,10 +32,10 @@ records run.
 ## The Last Market
 
 It is also the last place to buy anything before the frontier. Garrison supply, remounts, carts,
-salt, rope and boots pass through Pirnebrìs, and the town is a good deal richer than a cherry crop
+salt, rope and boots pass through Pirnebris, and the town is a good deal richer than a cherry crop
 would explain. Nobody there is under any illusion about which of its two trades pays, and nobody
 imagines a lasting peace would be good news.
 
 ## See Also
 
-- [[place-tiravellake|Lake Tiravel]] · [[place-provenzrgn|Provènzia Region]]
+- [[place-tiravellake|Lake Tiravel]] · [[place-provenzrgn|Provenzia Region]]

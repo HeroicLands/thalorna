@@ -1,9 +1,9 @@
 ---
 shortcode: gishurmathug
-name: {full: Gîshur Mathu'Gehru, aliases: [Prince Gîshur]}
+name: {full: Gishur Mathu'Gehru, aliases: [Prince Gishur]}
 type: being
 subType: npc
-description: A young warrior of extraordinary charisma and diplomatic skill, brought by a foreign ambassador seeking a truce, named in Sharmînah Tahvân.
+description: A young warrior of extraordinary charisma and diplomatic skill, brought by a foreign ambassador seeking a truce, named in Sharminah Tahvan.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Gîshur Mathu'Gehru is a 23-year-old man who stands 5'11" tall with a medium build. He has dark brown skin, weathered complexion, black hair, and dark brown eyes.
+Gishur Mathu'Gehru is a 23-year-old man who stands 5'11" tall with a medium build. He has dark brown skin, weathered complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Gîshur Mathu'Gehru is a prince and a young warrior of extraordinary charisma and diplomatic skill, brought to the temple by a foreign ambassador who seeks a truce. He is tasked with finding common ground between the desert kingdoms and the foreign power, and he specifically requests [[being-shrmnhthvn|Sharmînah Tahvân]] as the primary negotiator.
+Gishur Mathu'Gehru is a prince and a young warrior of extraordinary charisma and diplomatic skill, brought to the temple by a foreign ambassador who seeks a truce. He is tasked with finding common ground between the desert kingdoms and the foreign power, and he specifically requests [[being-shrmnhthvn|Sharminah Tahvan]] as the primary negotiator.

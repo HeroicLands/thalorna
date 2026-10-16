@@ -15,40 +15,40 @@ data:
   governance:
     model: theocracy
     summary: >-
-      What this faith confers is admission to the blót and the keeping of a forge-hof's rites, granted and withheld by that hof's godi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blót.
+      What this faith confers is admission to the blet and the keeping of a forge-hov's rites, granted and withheld by that hov's gudi alike: the organ that sets the ladder's floor as well as its ceiling, with no rank of the land inside it and nothing above the high priest. The titles are this faith's own; the shape is shared by every faith of the Ten that keeps a public blet.
     ranks:
       - level: 0
-        title: Blótlok
+        title: Bletlok
         lore: blotrefusedrnk
         description: >-
-          The sacrifice is closed to him: the hof declines his offering and grants him no standing. Declined the offering at a forge-hof during its Fire-Weeks by its own godi, cutting a man from Svartbrandr's clergy and from the ordeal that proves devotion there.
+          The sacrifice is closed to him: the hov declines his offering and grants him no standing. Declined the offering at a forge-hov during its Fire-Weeks by its own gudi, cutting a man from Svartbrandr's clergy and from the ordeal that proves devotion there.
       - level: 1
-        title: Blótmadr
+        title: Bletmadr
         lore: blotmadrrnk
         description: >-
-          Attends the blót at a forge-hof, sharing the ember-offering most of Svartbrandr's faithful hold without ever nearing the priesthood.
+          Attends the blet at a forge-hov, sharing the ember-offering most of Svartbrandr's faithful hold without ever nearing the priesthood.
       - level: 2
         title: Hofsmadr
         lore: hofsmadrrnk
         description: >-
-          Given to a forge-hof young, laboring at its bellows and its Fire-Weeks for years short of any claim to the priesthood.
+          Given to a forge-hov young, laboring at its bellows and its Fire-Weeks for years short of any claim to the priesthood.
       - level: 3
-        title: Godi / Gydja
+        title: Gudi / Gudja
         lore: godirnk
         description: >-
-          Ordained to keep a forge-hof's rites and its Fire-Weeks, the faith's master and level for level a clan member's equal.
+          Ordained to keep a forge-hov's rites and its Fire-Weeks, the faith's master and level for level a clan member's equal.
       - level: 4
-        title: Hofgodi / Hofgydja
+        title: Hofgudi / Hofgudja
         lore: hofgodirnk
         description: >-
-          Consecrates forge-hofs, ordains their godar, and performs the great blót and the Fire-Weeks at a season's turning; nothing of the land or any pontiff sits above this.
+          Consecrates forge-hovs, ordains their gudar, and performs the great blet and the Fire-Weeks at a season's turning; nothing of the land or any pontiff sits above this.
     offices:
-      Hofsfadir / Hofsmódir: >-
-        Founder of a hof, honored as its father or mother for life.
-      Landsgodi: >-
+      Hofsfadir / Hofmodir: >-
+        Founder of a hov, honored as its father or mother for life.
+      Landsgudi: >-
         Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
-      Hofsgodi: >-
-        Keeper of a named forge-hof and its Fire-Weeks, its stores and its blót.
+      Hofsgudi: >-
+        Keeper of a named forge-hov and its Fire-Weeks, its stores and its blet.
   seat: null
   population: null
   economy: []
@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A forge-hof keeps its altar as plain as its forge: a block of stone or metal, with an ember laid on it. A Blótmadr who forges nails for a living and shares the ember-offering at his hof's blót explains the bargain over his bench: "I give the fire a piece of itself and it gives me back one that has been blessed. Neither of us is pretending the other is tame."
+A forge-hov keeps its altar as plain as its forge: a block of stone or metal, with an ember laid on it. A Bletmadr who forges nails for a living and shares the ember-offering at his hov's blet explains the bargain over his bench: "I give the fire a piece of itself and it gives me back one that has been blessed. Neither of us is pretending the other is tame."
 
 [[lore-svartbrandrdty|Svartbrandr]] is the fire giant and god of savage battle, and he is the raw, destructive force of fire and the fury of war. He is a fearsome figure who towers over his enemies, his body wreathed in flames that consume what they touch. His presence is a harbinger of destruction, a sign of the end of worlds foretold in the prophecies of [[lore-aldarlok|Aldarlok]].
 
@@ -73,13 +73,13 @@ A worshipper carries an ember for the destructive power of fire, a charred bone 
 
 ## The Clergy
 
-Every rung belongs to a forge-hof:
+Every rung belongs to a forge-hov:
 
-- Refused the Blót: denied the offering at a forge-hof during its Fire-Weeks, and cut from the clergy and from the ordeal that proves devotion there.
-- Blótmadr: attends the blót at a forge-hof and shares its ember-offering.
-- Hofsmadr: given to a forge-hof young, laboring at its bellows and its Fire-Weeks before any claim to the priesthood.
-- Godi / Gydja: ordained to keep a forge-hof's rites and its Fire-Weeks.
-- Hofgodi / Hofgydja: consecrates forge-hofs, ordains their godar, and performs the great blót and the Fire-Weeks at a season's turning.
+- Refused the Blet: denied the offering at a forge-hov during its Fire-Weeks, and cut from the clergy and from the ordeal that proves devotion there.
+- Bletmadr: attends the blet at a forge-hov and shares its ember-offering.
+- Hofsmadr: given to a forge-hov young, laboring at its bellows and its Fire-Weeks before any claim to the priesthood.
+- Gudi / Gudja: ordained to keep a forge-hov's rites and its Fire-Weeks.
+- Hofgudi / Hofgudja: consecrates forge-hovs, ordains their gudar, and performs the great blet and the Fire-Weeks at a season's turning.
 
 The faith teaches fire manipulation and pyromancy, battle tactics and warfare, the rites of destruction and rebirth, and forge and metalworking. Two kinds of servant belong to the god: the **Fire Giants**, massive beings of flame and stone who serve as his warriors and guardians, and the **Infernal Hounds**, fierce, flame-breathing beasts that hunt down his enemies.
 
@@ -87,7 +87,7 @@ The faith teaches fire manipulation and pyromancy, battle tactics and warfare, t
 
 The low ceremony is the **Ash Offering**, in which the faithful give burned sacrifices to Svartbrandr and ask for strength and conquest of their enemies. The high ceremony is the **Ashen Walk**, where high priests cross hot coals or pass through flames to show their devotion and their immunity to fire.
 
-Three festivals mark the year. The [[lore-fireweeks|Fire-Weeks]] are the faith's defining ordeal, kept at a forge-hof and led at a season's turning by its Hofgodi or Hofgydja. The **Pyre's Awakening** is an annual celebration of fire and destruction, with great bonfires and spectacles of gladiatorial battle and ritual combat, sometimes involving wild beasts or captured thralls; enemies are often burned alive at these festivals. The **Forge's Fury** is dedicated to the making of weapons and armor, with competitions to see who can forge the finest pieces under Svartbrandr's guidance.
+Three festivals mark the year. The [[lore-fireweeks|Fire-Weeks]] are the faith's defining ordeal, kept at a forge-hov and led at a season's turning by its Hofgudi or Hofgudja. The **Pyre's Awakening** is an annual celebration of fire and destruction, with great bonfires and spectacles of gladiatorial battle and ritual combat, sometimes involving wild beasts or captured thralls; enemies are often burned alive at these festivals. The **Forge's Fury** is dedicated to the making of weapons and armor, with competitions to see who can forge the finest pieces under Svartbrandr's guidance.
 
 ## Ordeals for Favor
 
@@ -96,5 +96,5 @@ Two ordeals win his favor. In the **Firewalk** participants cross a bed of hot c
 ## See Also
 
 - [[affiliation-smideldr|Smideldr]]—the Order of the Inferno, priests who master fire as blacksmiths and forge-masters
-- [[affiliation-eldulfr|Eldúlfr]]—the Infernal Blades, elite warriors proven by the forge-hofs' own ordeals
-- [[affiliation-eldverdir|Eldverdir]]—the Flameguard, a militant order guarding Svartbrandr's forge-hofs with fire
+- [[affiliation-eldulfr|Eldúlfr]]—the Infernal Blades, elite warriors proven by the forge-hovs' own ordeals
+- [[affiliation-eldverdir|Eldverdir]]—the Flameguard, a militant order guarding Svartbrandr's forge-hovs with fire

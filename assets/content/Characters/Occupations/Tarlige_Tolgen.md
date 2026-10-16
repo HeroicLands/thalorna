@@ -1,6 +1,6 @@
 ---
 shortcode: tarligtlgn
-name: {full: Tarlìge Tolgèn, aliases: []}
+name: {full: Tarlige Tolgen, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Tarlìge Tolgèn is a 47-year-old man who stands 6'1" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and an angular jaw that leads to a pointed chin. His narrow blue eyes sit beneath expressive brows, lending him a keen gaze. An aquiline nose and wide lips complete his features. He has fair skin with a clear complexion. His graying brown hair is tied in a low tail.
+Tarlige Tolgen is a 47-year-old man who stands 6'1" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and an angular jaw that leads to a pointed chin. His narrow blue eyes sit beneath expressive brows, lending him a keen gaze. An aquiline nose and wide lips complete his features. He has fair skin with a clear complexion. His graying brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Tarlìge Tolgèn came into the world of the thatcher through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Tarlige Tolgen came into the world of the thatcher through a combination of circumstance and aptitude.
 
-Tarlìge has worked as a thatcher for most of his life, maintaining the roofs of cottages and barns throughout the countryside. He learned the craft from his father and has since taught his own sons. Known for his work and the durability of his roofs, Tarlìge is often in high demand, though his services come at a slower pace due to his attention to detail.
+Tarlige has worked as a thatcher for most of his life, maintaining the roofs of cottages and barns throughout the countryside. He learned the craft from his father and has since taught his own sons. Known for his work and the durability of his roofs, Tarlige is often in high demand, though his services come at a slower pace due to his attention to detail.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Slower-paced, struggles with the physical demands as he ages.
 
 ### Motivation
 
-Tarlìge is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thatcher work keep him vigilant and adaptable.
+Tarlige is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thatcher work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Skilled in thatching techniques, highly experienced, and meticulous.
 
 ## Social
 
-Tarlìge is affiliated with Rural Craftsmen's Guild.
+Tarlige is affiliated with Rural Craftsmen's Guild.
 
-As a Provenzian thatcher, Tarlìge occupies a recognized social niche within Provènzia society.
+As a Provenzian thatcher, Tarlige occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Tarlìge's primary patron is Local farmers and villagers who need sturdy roofs. This relationship provides both opportunity and obligation.
+Tarlige's primary patron is Local farmers and villagers who need sturdy roofs. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ None, though some younger craftsmen see him as outdated.
 
 ## Plot Hooks
 
-1. **The Thatcher's Dilemma**—Tarlìge faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Thatcher's Dilemma**—Tarlige faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
 
 2. **Old Grudges**—None, though some younger craftsmen see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Tarlìge's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Tarlige's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Tarlìge depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Tarlige depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Tarlìge the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Tarlige the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

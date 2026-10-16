@@ -22,15 +22,15 @@ data:
 # terran_analog: "Moldova, Ukraine, southern Russia, and the Pontic-Caspian steppe and forest-steppe out to the western shore of the Caspian Sea—the great east-European grain belt and forest-steppe transitional zone, historically home to Scythians, Sarmatians, Cumans, Slavs, and Cossack-style frontier confederations."
 ---
 
-Velanthia is the great transitional zone east of the [[place-nrdlndsrgn|Nordlands]] and [[place-vrystwald|Vrystwald]]—a forest-steppe belt and black-earth grain country between those forests and the open steppes of the [[place-khzryndsrtrgn|Khazryn]] to the east. The [[place-vylariargn|Vylarian]] and [[place-heladrgn|Helladic]] lands lie to the south. Mixed forest, river meadow, farmland, and horse-pasture interleave across the region.
+Velanthia is the great transitional zone east of the [[place-nrdlndsrgn|Nordlands]] and [[place-vrystwald|Vristwald]]—a forest-steppe belt and black-earth grain country between those forests and the open steppes of the [[place-khzryndsrtrgn|Khazryn]] to the east. The [[place-vylariargn|Vylarian]] and [[place-heladrgn|Helladic]] lands lie to the south. Mixed forest, river meadow, farmland, and horse-pasture interleave across the region.
 
-What Velanthia _has_ is rivers, soil, and a particular knack for surviving between predators. Its great river systems—the western, central, and eastern groups—are the trade arteries that carry Nordmal furs and ironwork south, Khazryn horses and steppe-goods west, and the region's own staggering grain surplus everywhere it can be sold. Its black-earth belt produces some of the finest cereal yields on the continent. And its political culture has been shaped, generation after generation, by the awkward fact that the great Nordmal kingdoms to the west and, now and then, an orqunoq of the steppe tribes to the east have both considered Velanthia a strategic prize worth taking.
+What Velanthia _has_ is rivers, soil, and a particular knack for surviving between predators. Its great river systems—the western, central, and eastern groups—are the trade arteries that carry Nordmal furs and ironwork south, Khazryn horses and steppe-goods west, and the region's own staggering grain surplus everywhere it can be sold. Its black-earth belt produces some of the finest cereal yields on the continent. And its political culture has been shaped, generation after generation, by the awkward fact that the great Nordmal kingdoms to the west and, now and then, an orkunoq of the steppe tribes to the east have both considered Velanthia a strategic prize worth taking.
 
 The Velanthians have not been taken. Not lastingly. The region has lost border districts more times than the chroniclers can count, has been raided and tributed and overrun in waves, and has emerged each time with its core river-kingdoms intact and its frontier confederations re-formed. The Velanthian explanation for this is partly geographic (no single conqueror controls enough of the region long enough to absorb it), partly cultural (the Velanthians fight defensively with extraordinary tenacity and are politically agile in ways their would-be conquerors rarely manage), and partly providential (every Velanthian church and shrine acknowledges, in its way, the patient endurance that has kept the region alive between hammer and anvil).
 
 ## Geography
 
-Velanthia stretches from the eastern margin of the Nordlands and Vrystwald forests to the western Khazryn frontier. Its northern coast faces the open sea; its southern edge meets the Vylarian and [[place-heladrgn|Helladic]] lands.
+Velanthia stretches from the eastern margin of the Nordlands and Vristwald forests to the western Khazryn frontier. Its northern coast faces the open sea; its southern edge meets the Vylarian and [[place-heladrgn|Helladic]] lands.
 
 The terrain transitions through three principal belts:
 
@@ -48,7 +48,7 @@ The climate is broadly continental: cold winters with significant snowfall, warm
 
 Velanthians are overwhelmingly human and are organized along a clear cultural gradient running east from the Nordlands border to the inland-sea shore.
 
-The **western and northern river-kingdoms** are the cultural heartland—settled, agricultural, urban around the river-junction capitals, with their own ancient liturgical-and-courtly language family that is unrelated to either Nordmal or Aurèldían tongues. Their princely houses are old and intermarried; their towns are wooden-and-stone; their courts maintain elaborate ceremonial that mixes Aurèldían courtly forms (absorbed via long contact with the western kingdoms) with older indigenous ritual that the priests have folded into the Aurèldían pantheon over the centuries. The Velanthian river-courts are reputed to be the most ceremonious in eastern Ankaris.
+The **western and northern river-kingdoms** are the cultural heartland—settled, agricultural, urban around the river-junction capitals, with their own ancient liturgical-and-courtly language family that is unrelated to either Nordmal or Aureldian tongues. Their princely houses are old and intermarried; their towns are wooden-and-stone; their courts maintain elaborate ceremonial that mixes Aureldian courtly forms (absorbed via long contact with the western kingdoms) with older indigenous ritual that the priests have folded into the Aureldian pantheon over the centuries. The Velanthian river-courts are reputed to be the most ceremonious in eastern Ankaris.
 
 The **central grain-belt towns** are more cosmopolitan than the river-courts—mercantile, polyglot, host to merchant communities from every neighbor. The grain trade pulls in buyers from Mídhalión and the Helladic city-states and produces a class of Velanthian merchants whose wealth and external connections sometimes rival the river-princes' political authority. The grain-belt monastic establishments are also distinctive—large endowed houses that combine religious function with massive agricultural management and (less openly) the storage of regional grain reserves against bad years and bad neighbors.
 
@@ -58,11 +58,11 @@ The **eastern oasis-and-river communities** along the inland-sea shore have abso
 
 ## Religion
 
-The Aurèldían Pantheon is the formal religion across all Velanthian populations, though with a heavy local emphasis on the harvest-and-fertility deities (especially [[affiliation-lizelas|Lîzêlâs]]) and on the storm-and-protection aspects of the warrior gods. Velanthian shrines often layer Aurèldían iconography over older indigenous symbols—sun-wheels, river-horses, sacred groves—that the priesthood has long since stopped trying to suppress.
+The Aureldian Pantheon is the formal religion across all Velanthian populations, though with a heavy local emphasis on the harvest-and-fertility deities (especially [[affiliation-lizelas|Lizelas]]) and on the storm-and-protection aspects of the warrior gods. Velanthian shrines often layer Aureldian iconography over older indigenous symbols—sun-wheels, river-horses, sacred groves—that the priesthood has long since stopped trying to suppress.
 
 The frontier Hosts maintain a more austere religious culture, with portable battle-shrines and traveling priests rather than fixed temples. Their religious practice has absorbed elements from the steppe peoples to the east—particularly an emphasis on sky-and-storm deities, oath-taking under the open sky, and the great seasonal gatherings where multiple Hosts assemble for joint religious observance and political consultation.
 
-A scattered but persistent population of Āsháian worshippers exists in the eastern hybrid communities, descended from intermarriage with Khazryn merchant families and oasis-belt refugees. Their shrines are tolerated and sometimes patronized by the eastern river-princes, who find it diplomatically useful to be seen accepting both faiths.
+A scattered but persistent population of Ashaian worshippers exists in the eastern hybrid communities, descended from intermarriage with Khazryn merchant families and oasis-belt refugees. Their shrines are tolerated and sometimes patronized by the eastern river-princes, who find it diplomatically useful to be seen accepting both faiths.
 
 ## Politics and Power
 
@@ -79,9 +79,9 @@ The system is fragile in theory and durable in practice. Foreign observers regul
 
 ## Trade
 
-Velanthia's economy is built on grain, furs, horses, and the trade-routes that move them. The river systems carry grain south to the Helladic city-states and to Mídhalión, where Velanthian wheat fills the granaries of the Hellád and beyond. Furs from the northern forest belt flow south through the same channels. Horses bred in the southern Host country are exported east to the Khazryn tribes (which prize Velanthian-bred crossbreeds) and west to the Aurèldían heavy cavalry market.
+Velanthia's economy is built on grain, furs, horses, and the trade-routes that move them. The river systems carry grain south to the Helladic city-states and to Mídhalión, where Velanthian wheat fills the granaries of the Hellád and beyond. Furs from the northern forest belt flow south through the same channels. Horses bred in the southern Host country are exported east to the Khazryn tribes (which prize Velanthian-bred crossbreeds) and west to the Aureldian heavy cavalry market.
 
-In return, Velanthia imports Aurèldían and Vylarian finished goods (textiles, glassware, fine metalwork, books), Mídhalion luxuries (wine, olive oil, citrus when shipping permits), Helladic philosophical-and-medical literature, Khazryn silver and salt, and the small steady trickle of distant Tāntsou silk and porcelain that reaches the eastern grain-belt through Khazryn intermediaries.
+In return, Velanthia imports Aureldian and Vylarian finished goods (textiles, glassware, fine metalwork, books), Midhalion luxuries (wine, olive oil, citrus when shipping permits), Helladic philosophical-and-medical literature, Khazryn silver and salt, and the small steady trickle of distant Tantsou silk and porcelain that reaches the eastern grain-belt through Khazryn intermediaries.
 
 The merchant houses of the grain-belt towns are the principal financial intermediaries; the river-princes maintain the mints; the monastic establishments hold the grain reserves; the Hosts collect tolls on the southern caravan routes. The whole system runs on overlapping authority, hand-to-mouth in any given year, and has never produced the great unified mercantile institutions of Mídhalión—but it sustains a population of perhaps four million people in a region that no single power has ever managed to govern.
 
@@ -89,7 +89,7 @@ The merchant houses of the grain-belt towns are the principal financial intermed
 
 Velanthian defense rests on three pillars: the river-prince levies of the heartland, the Velanthian Hosts of the southern frontier, and the difficulty of the terrain itself. The forest belt is hostile to steppe cavalry; the great rivers are defensible obstacles when properly garrisoned; the Hosts are world-class light cavalry on their home ground.
 
-Major external threats have come from two directions: the western Nordmal kingdoms (occasionally), and the great steppe orqwenoqs (rarely, but with far worse effect). The Nordmal incursions tend to be limited frontier wars that resolve into renegotiated borders within a generation. The steppe incursions are more dangerous: when an orqun forces the tribes of the central Khazryn into a great orqunoq, Velanthia is one of its first targets, and the region's eastern fringe has been overrun multiple times in recorded history. The pattern, well-understood by all parties, is that the heartland holds, the frontier is bled, the orqunoq eventually fragments, and Velanthian settlers slowly recolonize the lost ground over the next two generations.
+Major external threats have come from two directions: the western Nordmal kingdoms (occasionally), and the great steppe orqwenoqs (rarely, but with far worse effect). The Nordmal incursions tend to be limited frontier wars that resolve into renegotiated borders within a generation. The steppe incursions are more dangerous: when an orkun forces the tribes of the central Khazryn into a great orkunoq, Velanthia is one of its first targets, and the region's eastern fringe has been overrun multiple times in recorded history. The pattern, well-understood by all parties, is that the heartland holds, the frontier is bled, the orkunoq eventually fragments, and Velanthian settlers slowly recolonize the lost ground over the next two generations.
 
 ## Relations with Neighboring Regions
 
@@ -97,19 +97,19 @@ To the **northwest** lie the [[place-nrdlndsrgn|Nordlands]]. Relations are old, 
 
 Between Velanthia's northern belt and southeastern pocket lies the [[place-grkrhlmrgn|Grukarholm]] country, where Grukar nests are especially prevalent. Its extent has no fixed border. Velanthian-Grukar relations are minimal and cordial; the Velanthians treat the Grukar holds as a buffer between their settlements and more dangerous forest routes.
 
-To the **west** lies [[place-vrystwald|Vrystwald]]—the Varokh forest country between Velanthia and Aurèldía. The Vrystwald-Velanthian frontier is the most permeable border in the region: the Varokh tribes and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations. The Velanthian river-princes consider them useful auxiliaries and unreliable subjects in approximately equal measure.
+To the **west** lies [[place-vrystwald|Vristwald]]—the Varokh forest country between Velanthia and Aureldia. The Vristwald-Velanthian frontier is the most permeable border in the region: the Varokh tribes and the Velanthian river-prince and grain-belt populations have intermarried, traded, and shared frontier garrisons for many generations. The Velanthian river-princes consider them useful auxiliaries and unreliable subjects in approximately equal measure.
 
-To the **east** lies the vast [[place-khzryndsrtrgn|Khazryn]]. The relationship is the central strategic fact of Velanthian existence. Across a long, fluid frontier, Velanthian Hosts and Khazryn tribes conduct a continuous low-level commerce of trade, raid, alliance, and intermarriage. When a great orqun rises in the central Khazryn, the relationship turns dangerous; in the long stretches between, it is workable.
+To the **east** lies the vast [[place-khzryndsrtrgn|Khazryn]]. The relationship is the central strategic fact of Velanthian existence. Across a long, fluid frontier, Velanthian Hosts and Khazryn tribes conduct a continuous low-level commerce of trade, raid, alliance, and intermarriage. When a great orkun rises in the central Khazryn, the relationship turns dangerous; in the long stretches between, it is workable.
 
-To the **south** lie [[place-vylariargn|Vylaría]] and the [[place-heladrgn|Hellád]]. Velanthian grain feeds their cities; finished goods and scholarship flow north. Farther south, beyond the Hellád, lie the [[affiliation-kngdmmrdd|Kingdom of Amradad]] on the eastern shore of the Vylarian Sea and the broader [[place-dunharargn|Dunhara]].
+To the **south** lie [[place-vylariargn|Vylaria]] and the [[place-heladrgn|Hellád]]. Velanthian grain feeds their cities; finished goods and scholarship flow north. Farther south, beyond the Hellád, lie the [[affiliation-kngdmmrdd|Kingdom of Amradad]] on the eastern shore of the Vylarian Sea and the broader [[place-dunharargn|Dunhara]].
 
 ## See Also
 
 - [[place-nrdlndsrgn|Nordlands Region]]—western neighbor
-- [[place-vrystwald|Vrystwald]]—western neighbor across the most permeable frontier
+- [[place-vrystwald|Vristwald]]—western neighbor across the most permeable frontier
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—eastern frontier
 - [[place-heladrgn|Hellád Region]]—southern trading partner
 - [[place-grkrhlmrgn|Grukarholm Region]]—Grukar concentration between Velanthia's northern and southeastern reaches
 - [[affiliation-kngdmmrdd|Kingdom of Amradad]]—eastern-shore trading partner
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—formal religion
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]—formal religion
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent

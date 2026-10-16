@@ -1,9 +1,9 @@
 ---
 shortcode: kherzlkhmcmp
-name: {full: Kherzûlakhêm Camp, aliases: []}
+name: {full: Kherzulakhem Camp, aliases: []}
 type: affiliation
 subType: polity
-description: "The hunters' camp at the oasis of Kherzûlakhêm, where the Laws of the Well keep the peace between trackers of both deserts however their tribes stand."
+description: "The hunters' camp at the oasis of Kherzulakhem, where the Laws of the Well keep the peace between trackers of both deserts however their tribes stand."
 tags: [draft]
 data:
   templatePriority: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [dunharlng]}}
 ---
 
-**Kherzûlakhêm Camp** is the gathering of hunters and trackers at the oasis of [[place-kherzulakhem|Kherzûlakhêm]]. Nobody lives there the year round. The Laws of the Well keep the peace between those who water there, trade hides and sleep in the shade, however their tribes stand.
+**Kherzulakhem Camp** is the gathering of hunters and trackers at the oasis of [[place-kherzulakhem|Kherzulakhem]]. Nobody lives there the year round. The Laws of the Well keep the peace between those who water there, trade hides and sleep in the shade, however their tribes stand.

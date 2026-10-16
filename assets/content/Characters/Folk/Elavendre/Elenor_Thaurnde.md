@@ -1,9 +1,9 @@
 ---
 shortcode: elenorthaurn
-name: {full: Élenor Tháurndë, aliases: [Captain Élenor Tháurndë, Captain Élenor]}
+name: {full: Élenor Thaurnde, aliases: [Captain Élenor Thaurnde, Captain Élenor]}
 type: being
 subType: npc
-description: The commander of Élavendre's border militia, a professional soldier who has protected Mélrik Tárvenel from reassignment.
+description: The commander of Élavendre's border militia, a professional soldier who has protected Melrik Tárvenel from reassignment.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Élenor Tháurndë is a 45-year-old woman who stands 5'4" tall with a light build. She has fair skin, smooth complexion, chestnut hair, and amber eyes.
+Élenor Thaurnde is a 45-year-old woman who stands 5'4" tall with a light build. She has fair skin, smooth complexion, chestnut hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Élenor Tháurndë is a captain and the commander of Élavendre's border militia, a professional soldier. She respects the competence of [[being-belrktrvnl|Mélrik Tárvenel]] and has explicitly protected him from reassignment despite his social awkwardness.
+Élenor Thaurnde is a captain and the commander of Élavendre's border militia, a professional soldier. She respects the competence of [[being-belrktrvnl|Melrik Tárvenel]] and has explicitly protected him from reassignment despite his social awkwardness.

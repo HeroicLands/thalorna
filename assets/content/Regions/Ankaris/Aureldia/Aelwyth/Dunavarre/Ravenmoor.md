@@ -89,11 +89,11 @@ side of the island, obliged to send its shipping the long way round to be search
 
 **[[affiliation-jrldmstrmvld|Stormveld]] is outside the arrangement altogether**, and by the Synod's
 choice rather than in defiance of it. Its trade and its wars run north to the
-[[place-nrdlndsrgn|Nordlands]], not east to the Aurèldían mainland, and Nordmen hulls come into the
+[[place-nrdlndsrgn|Nordlands]], not east to the Aureldian mainland, and Nordmen hulls come into the
 north-east coast without troubling Ravenmoor.
 
 The Synod does not stop them because it **does not care**. The compulsory call was never really about
-customs; it is about the channel between Aelwyth and the Aurèldían world—what knowledge crosses it,
+customs; it is about the channel between Aelwyth and the Aureldian world—what knowledge crosses it,
 what relics cross it, and who arrives by it. Northern traffic carries iron, timber, thralls' produce and
 quarrels between jarls, none of which bears on any of that. So the Synod watches the eastern water
 closely, ignores the northern water entirely, and has never troubled to explain the distinction to

@@ -1,6 +1,6 @@
 ---
 shortcode: bourax
-name: {full: Dôlvêrâs, aliases: []}
+name: {full: Dolveras, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Ox: patient hands for field and workbench, slow of body, deaf to mysteries."
@@ -35,7 +35,7 @@ sohl:
       hydalis: 0
 ---
 
-Dôlvêrâs, the Ox, lends steadiness of hand and patience of mind. Its children take naturally to the growing field, the written word, and the maker's bench, though the deeper mysteries and feats of the body come to them only with labor.
+Dolveras, the Ox, lends steadiness of hand and patience of mind. Its children take naturally to the growing field, the written word, and the maker's bench, though the deeper mysteries and feats of the body come to them only with labor.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Dôlvêrâs, the Ox, lends steadiness of hand and patience of mind. Its children
 | Spirit  | Lore, Mystical            | −10 |
 | Water   | Language, Social          | —   |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

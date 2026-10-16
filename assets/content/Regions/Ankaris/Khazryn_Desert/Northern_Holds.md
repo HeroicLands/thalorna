@@ -16,7 +16,7 @@ The holds are reports, not sites. A sealer, working a sea-cliff in a bad summer,
 
 ## What Is Said
 
-Some of the bands say the holds are the work of the [[lore-flkkhazar|Khazár]], the Deep Folk, cut into the northern cliffs in the days when the Khazári raised cities in every high place. Others say they are older than any people, the work of the folk the old songs call [[lore-theithari|Those Who Came Before]]. The coast-hunters say simply that the holds were made by someone else and that the sea keeps what it is given. Nobody living can settle it: the Khazári say nothing of their own halls, and no one who could tell has seen a site.
+Some of the bands say the holds are the work of the [[lore-flkkhazar|Khazár]], the Deep Folk, cut into the northern cliffs in the days when the Khazari raised cities in every high place. Others say they are older than any people, the work of the folk the old songs call [[lore-theithari|Those Who Came Before]]. The coast-hunters say simply that the holds were made by someone else and that the sea keeps what it is given. Nobody living can settle it: the Khazari say nothing of their own halls, and no one who could tell has seen a site.
 
 ## Danger
 
@@ -34,4 +34,4 @@ A Targud fur-trader pays well for any word of the doorway under the tide line, a
 
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the region the forest bounds
 - [[lore-flkkhazar|Khazár Folk]]—the Deep Folk
-- [[lore-theithari|The Ithári]]—the people who came before
+- [[lore-theithari|The Ithari]]—the people who came before

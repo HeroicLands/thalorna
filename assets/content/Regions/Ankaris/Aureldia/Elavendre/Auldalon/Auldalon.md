@@ -15,7 +15,7 @@ data:
 ---
 
 **Áuldalon**—_the hill country_—is Élavendre's eastern march: some two hundred and forty thousand
-people in rolling wooded hills between the [[place-ellive|Éllivë]] basin and the borders beyond, rising
+people in rolling wooded hills between the [[place-ellive|Éllive]] basin and the borders beyond, rising
 southward into the mountains of [[place-sorvanda|Sórvanda]].
 
 It is good country and hard country at once. The hills are green, well watered and excellent for stock,
@@ -23,9 +23,9 @@ and they are also the road by which trouble arrives overland.
 
 ## The Raiding
 
-Where [[place-lisere|Líserë]] is raided from the sea, Áuldalon is raided by land. Bands of
+Where [[place-lisere|Lísere]] is raided from the sea, Áuldalon is raided by land. Bands of
 [[lore-grukarfolk|Grukar]] out of [[place-grkrhlmrgn|Grukarholm]], and Varokh war-parties ranging
-south out of [[place-vrystwald|Vrystwald]], come down through the eastern hills—not as armies, and
+south out of [[place-vrystwald|Vristwald]], come down through the eastern hills—not as armies, and
 not seasonally enough to plan around comfortably, but often enough that no generation of Áuldalon has
 been without it.
 
@@ -37,9 +37,9 @@ has never once arrived in time.
 ## The Economy
 
 - **Wool and cattle**, the region's staple and its bulk export. The great drove roads run west from the
-  hills down to the Éllivë markets, and the droving families are a power of their own.
+  hills down to the Éllive markets, and the droving families are a power of their own.
 - **Hill ponies**—small, sound and famously bad-tempered; Élavendre's baggage and border-patrol
-  animal, sold across Aurèldía.
+  animal, sold across Aureldia.
 - **Iron.** Áuldalon has no gold and no gems, and unlike [[place-sorvanda|Sórvanda]] it is permitted to dig.
   Its iron is ordinary, plentiful and entirely uncontested, and it arms the kingdom.
 - **Charcoal and timber** off the lower slopes, feeding the bloomeries.
@@ -57,9 +57,9 @@ Somewhere in the woods of the hills stands the ditched camp of the cohort that f
 
 ## Its Places
 
-- [[place-valdun|Váldun]]—the fortified inland town that anchors the march.
+- [[place-valdun|Valdun]]—the fortified inland town that anchors the march.
 - [[place-kelpasi|Kélpasi]]—a hill village of the interior.
 
 ## See Also
 
-- [[place-elavendre|Élavendre]] · [[place-sorvanda|Sórvanda]] · [[place-vrystwald|Vrystwald]]
+- [[place-elavendre|Élavendre]] · [[place-sorvanda|Sórvanda]] · [[place-vrystwald|Vristwald]]

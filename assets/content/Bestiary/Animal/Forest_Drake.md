@@ -299,7 +299,7 @@ The oak over the path has a branch as thick as a horse, and the branch has been 
 
 # Dossier {#dossier}
 
-The Forest Drake is the drake of the old forest of [[place-vrystwald|Vrystwald]] and its deepwood, [[place-vethwald|Véthwald]]: eight feet from snout to tail-tip, scaled in greens that match the canopy, with four taloned limbs, a prehensile tail and a pair of leathery wings on which it glides from crown to crown and makes short, heavy flights. It lives in the trees, holds a hunting range of several square miles of old growth, and takes birds, squirrels, martens, fawns and whatever else comes under its branch. It is clever enough to learn a hunter's habits and to lie up where he passes.
+The Forest Drake is the drake of the old forest of [[place-vrystwald|Vristwald]] and its deepwood, [[place-vethwald|Vethwald]]: eight feet from snout to tail-tip, scaled in greens that match the canopy, with four taloned limbs, a prehensile tail and a pair of leathery wings on which it glides from crown to crown and makes short, heavy flights. It lives in the trees, holds a hunting range of several square miles of old growth, and takes birds, squirrels, martens, fawns and whatever else comes under its branch. It is clever enough to learn a hunter's habits and to lie up where he passes.
 
 The Varokh count it among the beasts of the forest and give it a wide berth.
 
@@ -309,7 +309,7 @@ A sleek, long-bodied reptile built for climbing, with fine overlapping scales in
 
 ## In the Land
 
-Forest Drakes live in the central mixed-forest belt of Vrystwald, in the oldest timber, and are thickest in Véthwald, where the oaks are large enough to hold one along a branch. They are met along the rivers where the old forest comes down to the water and rarely in the northern taiga, where the trees are too thin. Each drake holds its range alone and drives out any other, and a range with a Varokh clearing in it is a range where goats and dogs go missing. In winter the drake dens in a hollow trunk and is seldom seen.
+Forest Drakes live in the central mixed-forest belt of Vristwald, in the oldest timber, and are thickest in Vethwald, where the oaks are large enough to hold one along a branch. They are met along the rivers where the old forest comes down to the water and rarely in the northern taiga, where the trees are too thin. Each drake holds its range alone and drives out any other, and a range with a Varokh clearing in it is a range where goats and dogs go missing. In winter the drake dens in a hollow trunk and is seldom seen.
 
 ## Key Behaviors
 

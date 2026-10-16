@@ -190,7 +190,7 @@ The pool at the bottom of the sinkhole is black and perfectly still, and the roc
 
 # Dossier {#dossier}
 
-The Abyssal Silt is a dreadspawn in the shape of a living pool: six to eight feet across when it spreads, about two hundred pounds of dark, corrosive slime that hunts by lying still in a dark place and dissolving whatever comes into it. It dwells in the flooded galleries of deep caverns and the black pools of poisoned country, and the place it is best known is [[place-qapteltzaklrgn|Q'aptel Tza'kul]], the threshold of the southern wastes of K'ich'chik, where the ground is stained by seeping minerals and the sinkholes hold pools no one drinks from. Like every dreadspawn it was made, and it cannot breed. It is clever after its fashion: it learns where prey comes, and waits there.
+The Abyssal Silt is a dreadspawn in the shape of a living pool: six to eight feet across when it spreads, about two hundred pounds of dark, corrosive slime that hunts by lying still in a dark place and dissolving whatever comes into it. It dwells in the flooded galleries of deep caverns and the black pools of poisoned country, and the place it is best known is [[place-qapteltzaklrgn|Q'aptel Tsa'kul]], the threshold of the southern wastes of K'ich'chik, where the ground is stained by seeping minerals and the sinkholes hold pools no one drinks from. Like every dreadspawn it was made, and it cannot breed. It is clever after its fashion: it learns where prey comes, and waits there.
 
 ## Presentation
 
@@ -198,7 +198,7 @@ The Abyssal Silt looks like a pool of dark water until it moves. A closer look s
 
 ## In the Land
 
-It holds the flooded galleries of the deep caverns and the black pools of the poisoned marshes, and it spreads along drains and seeps into ruins built over either. In Q'aptel Tza'kul that means the sinkholes and the mineral pools of the plateau's chaotic descent, the scalding springs where the vents have cooled, and the cisterns under the fortress-temples that guard the road south. A silt keeps to one pool or gallery for years, and can lie in it, unseen and unfed, for months. When it is hungry it roams, creeping along seeps and the damp floors of passages, and comes back. Silts are found apart from each other, never two in one pool.
+It holds the flooded galleries of the deep caverns and the black pools of the poisoned marshes, and it spreads along drains and seeps into ruins built over either. In Q'aptel Tsa'kul that means the sinkholes and the mineral pools of the plateau's chaotic descent, the scalding springs where the vents have cooled, and the cisterns under the fortress-temples that guard the road south. A silt keeps to one pool or gallery for years, and can lie in it, unseen and unfed, for months. When it is hungry it roams, creeping along seeps and the damp floors of passages, and comes back. Silts are found apart from each other, never two in one pool.
 
 ## Key Behaviors
 
@@ -206,7 +206,7 @@ It lies motionless for weeks, spreads under a victim's feet, and feeds on whatev
 
 ## What the Temple Guides Do
 
-The fortress-temples of Q'aptel Tza'kul sell passage south, and their guides know every water on the road. They mark the pools they have lost animals to with a ring of stakes and draw water only upstream of them, and a guide tests any still pool with a long pole before a caravan comes near it: a pole that comes out pitted and smoking means the caravan goes round. A pool marked by the stakes is never entered for any reason, and the guides charge more for a road that passes one. Alchemists who come to the plateau to study the poisons of the vents pay the temples well for a jar of silt taken alive, and the guides who fill one with a long-handled ladle of fired clay are paid more than for a season's guiding.
+The fortress-temples of Q'aptel Tsa'kul sell passage south, and their guides know every water on the road. They mark the pools they have lost animals to with a ring of stakes and draw water only upstream of them, and a guide tests any still pool with a long pole before a caravan comes near it: a pole that comes out pitted and smoking means the caravan goes round. A pool marked by the stakes is never entered for any reason, and the guides charge more for a road that passes one. Alchemists who come to the plateau to study the poisons of the vents pay the temples well for a jar of silt taken alive, and the guides who fill one with a long-handled ladle of fired clay are paid more than for a season's guiding.
 
 ## Signs
 

@@ -1,8 +1,8 @@
 ---
 shortcode: northernfertileregionaukhelathu
-name: {full: Aû'Khelâthu, aliases: []}
+name: {full: Au'Khelathu, aliases: []}
 type: folder
 data: {parent: xerathianorthernfertileregion, color: "#3CB371"}
 ---
 
-This folder gathers the characters of Aû'Khelâthu within the Northern Fertile Region folder of the Xerathian heroes and knaves.
+This folder gathers the characters of Au'Khelathu within the Northern Fertile Region folder of the Zerathian heroes and knaves.

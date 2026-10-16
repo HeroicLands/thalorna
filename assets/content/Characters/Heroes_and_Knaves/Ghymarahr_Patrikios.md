@@ -1,6 +1,6 @@
 ---
 shortcode: ghymrhrptrks
-name: {full: Ghymâráhr Rorês, given: Ghymâráhr, clan: Rorês, aliases: []}
+name: {full: Ghimaráhr Rores, given: Ghimaráhr, clan: Rores, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, soldiery]
@@ -417,9 +417,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ghymrhrptrks|Ghymâráhr Rorês]]{float=top-left}
+![[ghymrhrptrks|Ghimaráhr Rores]]{float=top-left}
 
-Ghymâráhr stands 6'0" tall with a heavy build. He has tanned weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, and expressive brows. He has a scar running down his back.
+Ghimaráhr stands 6'0" tall with a heavy build. He has tanned weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, and expressive brows. He has a scar running down his back.
 
 # Dossier {#dossier}
 
@@ -427,33 +427,33 @@ Ghymâráhr stands 6'0" tall with a heavy build. He has tanned weathered skin, g
 
 ### Early Life and the Mercenary Years
 
-Ghymâráhr was born in a small village on the margins of the Byzarian League to a blacksmith and a healer. His childhood was marked by poverty and the constant presence of war—his village changed hands between different powers repeatedly, and he learned early that survival meant adaptation and ruthlessness. When he was fourteen, mercenary recruiters came through looking for able-bodied youths, and desperate to escape the grinding hopelessness of village life, Ghymâráhr signed on. For thirty-five years, he served in mercenary companies across the known world, becoming eventually one of the deadliest warriors his employers had ever seen. He was not evil by nature—he was simply a hired soldier, following orders, collecting his pay, and trying to survive each contract with as few scars and as few nightmares as he could manage.
+Ghimaráhr was born in a small village on the margins of the Bizarian League to a blacksmith and a healer. His childhood was marked by poverty and the constant presence of war—his village changed hands between different powers repeatedly, and he learned early that survival meant adaptation and ruthlessness. When he was fourteen, mercenary recruiters came through looking for able-bodied youths, and desperate to escape the grinding hopelessness of village life, Ghimaráhr signed on. For thirty-five years, he served in mercenary companies across the known world, becoming eventually one of the deadliest warriors his employers had ever seen. He was not evil by nature—he was simply a hired soldier, following orders, collecting his pay, and trying to survive each contract with as few scars and as few nightmares as he could manage.
 
-The specific campaigns and battles of those years have faded into a blur of blood and fire. He fought in wars whose cause he never understood. He led charges into fortified positions. He held bridges against overwhelming odds. He killed hundreds of men, many of them levied men no more guilty than himself. He participated in atrocities that he has never fully forgiven himself for. He was wounded dozens of times. He watched comrades die. He had lovers and lost them. He betrayed people who trusted him. He was betrayed by those he trusted. The line between survival and monstrosity became increasingly blurred, until Ghymâráhr was no longer certain which side of that line he occupied.
+The specific campaigns and battles of those years have faded into a blur of blood and fire. He fought in wars whose cause he never understood. He led charges into fortified positions. He held bridges against overwhelming odds. He killed hundreds of men, many of them levied men no more guilty than himself. He participated in atrocities that he has never fully forgiven himself for. He was wounded dozens of times. He watched comrades die. He had lovers and lost them. He betrayed people who trusted him. He was betrayed by those he trusted. The line between survival and monstrosity became increasingly blurred, until Ghimaráhr was no longer certain which side of that line he occupied.
 
 ### Turning Point and Redemption
 
-At forty-five, while serving with the **Iron Wolves Company**, Ghymâráhr was hired, along with his company, to massacre the inhabitants of a village that had refused to submit to a local lord's authority. Something in him broke that day. He survived the massacre and was paid his standard rate, but he did not return to the company's camp. Instead, he made his way to the Byzarian League's heartland, seeking obscurity and the possibility of redemption that he suspected he no longer deserved. He settled in a small village on the periphery—deliberately choosing the kind of forgotten place he had once despised—and spent years in silence and isolation, working as a day laborer and attempting to become someone other than what he had been.
+At forty-five, while serving with the **Iron Wolves Company**, Ghimaráhr was hired, along with his company, to massacre the inhabitants of a village that had refused to submit to a local lord's authority. Something in him broke that day. He survived the massacre and was paid his standard rate, but he did not return to the company's camp. Instead, he made his way to the Bizarian League's heartland, seeking obscurity and the possibility of redemption that he suspected he no longer deserved. He settled in a small village on the periphery—deliberately choosing the kind of forgotten place he had once despised—and spent years in silence and isolation, working as a day laborer and attempting to become someone other than what he had been.
 
 ### Current Situation
 
-Over the past five years, the village has begun to recognize Ghymâráhr's rare martial skill and his implicit commitment to their defense. When bandits or wolves threatened, he stood against them. When young people wished to learn combat, he began teaching reluctantly, convinced he had nothing worth passing on. Yet slowly, almost despite himself, he became the village's protector and teacher—not the famed warrior he had been in his mercenary days, but a man trying to use his terrible skills to defend the innocent rather than to oppress them. He lives in a small cottage on the village's edge, maintains a small smithy, and passes his days teaching sword forms to villagers and young adventurers who occasionally come seeking instruction from the famed retired warrior whose true identity they rarely fully comprehend.
+Over the past five years, the village has begun to recognize Ghimaráhr's rare martial skill and his implicit commitment to their defense. When bandits or wolves threatened, he stood against them. When young people wished to learn combat, he began teaching reluctantly, convinced he had nothing worth passing on. Yet slowly, almost despite himself, he became the village's protector and teacher—not the famed warrior he had been in his mercenary days, but a man trying to use his terrible skills to defend the innocent rather than to oppress them. He lives in a small cottage on the village's edge, maintains a small smithy, and passes his days teaching sword forms to villagers and young adventurers who occasionally come seeking instruction from the famed retired warrior whose true identity they rarely fully comprehend.
 
 ## Psyche
 
 ### Personality
 
-Ghymâráhr is a man of deep silence and restraint. He speaks sparingly, choosing words with the care of someone who knows that words, carelessly deployed, can wound as deeply as blades. He is gruff with most people, not out of hostility but out of a conviction that he does not deserve their friendship or warmth. Yet he is committed to those under his protection. He will stand against overwhelming odds for people he barely knows, driven by a compulsion to atone that he will never fully accomplish. He is capable of dark humor—a habit from his mercenary years—but it surfaces rarely.
+Ghimaráhr is a man of deep silence and restraint. He speaks sparingly, choosing words with the care of someone who knows that words, carelessly deployed, can wound as deeply as blades. He is gruff with most people, not out of hostility but out of a conviction that he does not deserve their friendship or warmth. Yet he is committed to those under his protection. He will stand against overwhelming odds for people he barely knows, driven by a compulsion to atone that he will never fully accomplish. He is capable of dark humor—a habit from his mercenary years—but it surfaces rarely.
 
-His faith in **Ólvenía**, goddess of prosperity and abundance, was rekindled late in life through an unexpected source. He came to understand that Ólvenía stands for the abundance of a life lived with purpose and integrity as well as for material wealth, and that his journey from violence to attempted redemption was itself a form of prayer to that goddess. He does not attend temple regularly, but he makes small offerings and performs his duties as a teacher and protector with the reverence of spiritual practice.
+His faith in **Ólvenia**, goddess of prosperity and abundance, was rekindled late in life through an unexpected source. He came to understand that Ólvenia stands for the abundance of a life lived with purpose and integrity as well as for material wealth, and that his journey from violence to attempted redemption was itself a form of prayer to that goddess. He does not attend temple regularly, but he makes small offerings and performs his duties as a teacher and protector with the reverence of spiritual practice.
 
 ### Motivation
 
-Ghymâráhr is driven by a need to atone that he consciously recognizes can never be fully satisfied. He cannot unmake the deaths he caused or undo the harm he inflicted. But he can dedicate whatever years remain to him to protecting the innocent, teaching virtue to young warriors, and standing as a living warning against the seductions of mercenary life. He also seeks redemption through building something positive—he has recently begun collaborating with the village blacksmith to craft excellent weapons, not for hire but as a contribution to the village's defense. On a deeper level, he struggles with a desire for peace—the peace of conscience that he will likely never achieve—and with the related desire to find meaning in his remaining years beyond mere survival.
+Ghimaráhr is driven by a need to atone that he consciously recognizes can never be fully satisfied. He cannot unmake the deaths he caused or undo the harm he inflicted. But he can dedicate whatever years remain to him to protecting the innocent, teaching virtue to young warriors, and standing as a living warning against the seductions of mercenary life. He also seeks redemption through building something positive—he has recently begun collaborating with the village blacksmith to craft excellent weapons, not for hire but as a contribution to the village's defense. On a deeper level, he struggles with a desire for peace—the peace of conscience that he will likely never achieve—and with the related desire to find meaning in his remaining years beyond mere survival.
 
 ### Strengths
 
-- **Practical Combat Experience**: In the sword, the thrown weapon, and the weaponsmith's craft, Ghymâráhr possesses the kind of experience that comes only from three and a half decades of real warfare. He knows how to kill quickly, how to read an opponent's intentions, and how to maintain consciousness and function while wounded and exhausted.
+- **Practical Combat Experience**: In the sword, the thrown weapon, and the weaponsmith's craft, Ghimaráhr possesses the kind of experience that comes only from three and a half decades of real warfare. He knows how to kill quickly, how to read an opponent's intentions, and how to maintain consciousness and function while wounded and exhausted.
 - **Willpower**: His will, combined with his survival skills and his quickness to act, makes him nearly impossible to break mentally or physically. He can function under extreme stress, maintain focus when others would break, and push through pain that would incapacitate normal people.
 - **Strength and Endurance**: His strength and endurance mean he can still perform feats of physical power despite his age. He can wield weapons that younger fighters cannot and maintain exertion over extended periods.
 - **Battlefield Awareness**: His sharp awareness allows him to read situations quickly and understand what's happening around him with tactical clarity. He notices threats before others and can anticipate danger.
@@ -474,28 +474,28 @@ Ghymâráhr is driven by a need to atone that he consciously recognizes can neve
 
 ### Patrons
 
-Village Elder Mâria
-: The leader of the village that has become Ghymâráhr's home. She values his protection and guidance and acts as his primary connection to the village community, mediating between him and those who fear his past.
+Village Elder Maria
+: The leader of the village that has become Ghimaráhr's home. She values his protection and guidance and acts as his primary connection to the village community, mediating between him and those who fear his past.
 
 Young Warriors and Adventurers
-: Dozens of youths and adventurers seeking training have benefited from Ghymâráhr's instruction, and many maintain loyalty to him as their teacher.
+: Dozens of youths and adventurers seeking training have benefited from Ghimaráhr's instruction, and many maintain loyalty to him as their teacher.
 
 The Village Blacksmith
-: A collaborative partnership with **Master Thorne**, the village blacksmith, who has become something like a friend to Ghymâráhr. They work together to create quality weapons.
+: A collaborative partnership with **Master Thorne**, the village blacksmith, who has become something like a friend to Ghimaráhr. They work together to create quality weapons.
 
 ### Enemies
 
-Pârzhelion Trivídek
-: A former lieutenant from the Iron Wolves Company who was present at the massacre that broke Ghymâráhr. Pârzhelion has never forgiven Ghymâráhr for abandoning the company and suspects he's living in the very village they were hired to destroy. If Pârzhelion discovered Ghymâráhr's location, he would likely attempt to capture or kill him for his perceived betrayal.
+Parzhelion Trividek
+: A former lieutenant from the Iron Wolves Company who was present at the massacre that broke Ghimaráhr. Parzhelion has never forgiven Ghimaráhr for abandoning the company and suspects he's living in the very village they were hired to destroy. If Parzhelion discovered Ghimaráhr's location, he would likely attempt to capture or kill him for his perceived betrayal.
 
 [[affiliation-irnwlvscmpny|The Iron Wolves Company]]
-: The mercenary company views Ghymâráhr as a deserter who could reveal their operations and methods. There is likely a standing bounty on him, though few realize the old village instructor is worth finding.
+: The mercenary company views Ghimaráhr as a deserter who could reveal their operations and methods. There is likely a standing bounty on him, though few realize the old village instructor is worth finding.
 
-Lord Desuvîn Gharazûr
-: The regional noble who hired the Iron Wolves to massacre the village still rules the region. Ghymâráhr fears that if his identity were known, Desuvîn might move against him or the village he's come to protect.
+Lord Desuvin Gharazur
+: The regional noble who hired the Iron Wolves to massacre the village still rules the region. Ghimaráhr fears that if his identity were known, Desuvin might move against him or the village he's come to protect.
 
 His own conscience, an inner enemy
-: More than any external enemy, Ghymâráhr battles himself—his guilt, his memories, his conviction that he deserves punishment for what he has done.
+: More than any external enemy, Ghimaráhr battles himself—his guilt, his memories, his conviction that he deserves punishment for what he has done.
 
 ### Affiliations
 
@@ -504,12 +504,12 @@ The Village
 
 ## Plot Hooks
 
-1. **The Ghost from His Past**: One of Ghymâráhr's former comrades from the Iron Wolves Company, a warrior named **Anbaríkos**, tracks him down with seemingly friendly intentions—a reunion of old soldiers. Yet Anbaríkos carries orders from above to either recruit Ghymâráhr back into service or eliminate him as a liability. Ghymâráhr must get through the dangerous reunion without compromising the village and without becoming the killer he's spent five years trying to stop being.
+1. **The Ghost from His Past**: One of Ghimaráhr's former comrades from the Iron Wolves Company, a warrior named **Anbarikos**, tracks him down with seemingly friendly intentions—a reunion of old soldiers. Yet Anbarikos carries orders from above to either recruit Ghimaráhr back into service or eliminate him as a liability. Ghimaráhr must get through the dangerous reunion without compromising the village and without becoming the killer he's spent five years trying to stop being.
 
-2. **The Mercenary Company's Return**: The Iron Wolves Company, facing a decline in their fortunes, discovers that the massacre they conducted was illegal and the lord who hired them has disowned them to avoid scandal. Several company members recognize Ghymâráhr and believe he could be forced to testify against the lord, vindicating the company. They attempt to capture him to force his cooperation—or eliminate him if he refuses. The village becomes caught in crossfire between mercenary forces and local authorities investigating the ancient crime.
+2. **The Mercenary Company's Return**: The Iron Wolves Company, facing a decline in their fortunes, discovers that the massacre they conducted was illegal and the lord who hired them has disowned them to avoid scandal. Several company members recognize Ghimaráhr and believe he could be forced to testify against the lord, vindicating the company. They attempt to capture him to force his cooperation—or eliminate him if he refuses. The village becomes caught in crossfire between mercenary forces and local authorities investigating the ancient crime.
 
-3. **The Young Knight's Burden**: A young noble arrives in the village seeking training from the famed warrior Ghymâráhr, desperate to learn how to survive warfare. Yet Ghymâráhr recognizes in this youth a future version of himself—destined to become a mercenary unless something intervenes. He becomes invested in changing the youth's path, potentially putting himself in conflict with the youth's family, who view military service as the only honorable path.
+3. **The Young Knight's Burden**: A young noble arrives in the village seeking training from the famed warrior Ghimaráhr, desperate to learn how to survive warfare. Yet Ghimaráhr recognizes in this youth a future version of himself—destined to become a mercenary unless something intervenes. He becomes invested in changing the youth's path, potentially putting himself in conflict with the youth's family, who view military service as the only honorable path.
 
-4. **Redemption Through Skill**: An official from the Byzarian League's capital arrives with evidence that one of the major battles Ghymâráhr fought in, which he believed was a pointless atrocity, was actually essential to preventing a greater catastrophe. The official attempts to absolve Ghymâráhr of guilt for that campaign. Ghymâráhr has to face the possibility that some of his moral reckoning was wrong—that perhaps he's not as much a monster as he believes, which makes him question everything he's built his redemption around.
+4. **Redemption Through Skill**: An official from the Bizarian League's capital arrives with evidence that one of the major battles Ghimaráhr fought in, which he believed was a pointless atrocity, was actually essential to preventing a greater catastrophe. The official attempts to absolve Ghimaráhr of guilt for that campaign. Ghimaráhr has to face the possibility that some of his moral reckoning was wrong—that perhaps he's not as much a monster as he believes, which makes him question everything he's built his redemption around.
 
-5. **The Final Challenge**: A young, skilled warrior arrives seeking to challenge Ghymâráhr, hoping to defeat the famed retired mercenary and establish her own reputation. Ghymâráhr doesn't want to fight—he's trying to move beyond violence. Yet the young woman is relentless, and when he refuses repeatedly, she challenges him publicly, questioning his courage. The duel becomes inevitable, and Ghymâráhr must find whether he can still fight when he must, and whether he can do so without becoming the killer he was in his mercenary days.
+5. **The Final Challenge**: A young, skilled warrior arrives seeking to challenge Ghimaráhr, hoping to defeat the famed retired mercenary and establish her own reputation. Ghimaráhr doesn't want to fight—he's trying to move beyond violence. Yet the young woman is relentless, and when he refuses repeatedly, she challenges him publicly, questioning his courage. The duel becomes inevitable, and Ghimaráhr must find whether he can still fight when he must, and whether he can do so without becoming the killer he was in his mercenary days.

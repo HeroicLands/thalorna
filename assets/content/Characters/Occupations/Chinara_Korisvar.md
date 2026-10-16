@@ -1,6 +1,6 @@
 ---
 shortcode: chynrkrsvr
-name: {full: Chinàra Kórisvar, aliases: []}
+name: {full: Chinara Kórisvar, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,23 +394,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Chinàra Kórisvar is a 29-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath expressive brows and give her an expressive gaze. She has a narrow nose and firm lips. She has fair skin with a clear complexion. Her dark brown hair is twisted into an elaborate arrangement.
+Chinara Kórisvar is a 29-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath expressive brows and give her an expressive gaze. She has a narrow nose and firm lips. She has fair skin with a clear complexion. Her dark brown hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Chinàra Kórisvar is a salter of Durvalìs, the fortress town of the eastern march of [[place-provenzrgn|Provènzia]], a Provenzian freewoman who salts down the meat and fish that feed the garrison through the winter and the levies through the campaign season.
+Chinara Kórisvar is a salter of Durvalis, the fortress town of the eastern march of [[place-provenzrgn|Provenzia]], a Provenzian freewoman who salts down the meat and fish that feed the garrison through the winter and the levies through the campaign season.
 
-Chinàra learned the trade as a child in the salting-house inside the walls that her parents kept before her, packing fish from Lake Tiravel in brine and beef from the march's herds in coarse salt that comes up by cart through Pirnebrìs. From the thaw the town fills with soldiers and carters who must be fed on the road, and through the winter, when the passes close, everyone eats what was salted in the autumn. A salter who cuts her salt or hurries her cure kills people in the second month of the snow, and Chinàra has never done either. The garrison's victualers buy from her by preference and the lake fishermen sell to her first, because a Kórisvar barrel opens in spring the way it was closed.
+Chinara learned the trade as a child in the salting-house inside the walls that her parents kept before her, packing fish from Lake Tiravel in brine and beef from the march's herds in coarse salt that comes up by cart through Pirnebris. From the thaw the town fills with soldiers and carters who must be fed on the road, and through the winter, when the passes close, everyone eats what was salted in the autumn. A salter who cuts her salt or hurries her cure kills people in the second month of the snow, and Chinara has never done either. The garrison's victualers buy from her by preference and the lake fishermen sell to her first, because a Kórisvar barrel opens in spring the way it was closed.
 
 ## Psyche
 
 ### Personality
 
-Chinàra is hardworking, exact and single-minded to the point of neglecting herself. She is proud of the work in a plain way and impatient with anyone who treats salt as a trifle.
+Chinara is hardworking, exact and single-minded to the point of neglecting herself. She is proud of the work in a plain way and impatient with anyone who treats salt as a trifle.
 
 ### Motivation
 
-Chinàra wants every barrel that leaves her house to hold, because the march eats from them when nothing else is to be had. She wants the standing that comes with that, and has not noticed what it has cost her.
+Chinara wants every barrel that leaves her house to hold, because the march eats from them when nothing else is to be had. She wants the standing that comes with that, and has not noticed what it has cost her.
 
 ### Strengths
 
@@ -418,13 +418,13 @@ Knowledgeable about curing and salt, hardworking, resourceful.
 
 ## Social
 
-Chinàra belongs to no guild and works for herself, as her parents did. The garrison quartermaster knows her name and the Winter Assize has taken her word on a barrel.
+Chinara belongs to no guild and works for herself, as her parents did. The garrison quartermaster knows her name and the Winter Assize has taken her word on a barrel.
 
 ## Companions
 
 ### Patrons
 
-Chinàra's patrons are the victualers of the garrison, who buy her barrels for the winter stores and the campaign carts, and the fishermen of Lake Tiravel.
+Chinara's patrons are the victualers of the garrison, who buy her barrels for the winter stores and the campaign carts, and the fishermen of Lake Tiravel.
 
 ### Enemies
 
@@ -432,10 +432,10 @@ A victualer of the town who buys cheap salt and cheaper fish, sells his barrels 
 
 ## Plot Hooks
 
-1. **The Bad Barrels**—The garrison's winter store has begun to spoil, barrel by barrel, and the barrels are the rival victualer's with Chinàra's mark forged on them. The quartermaster has come to her first.
+1. **The Bad Barrels**—The garrison's winter store has begun to spoil, barrel by barrel, and the barrels are the rival victualer's with Chinara's mark forged on them. The quartermaster has come to her first.
 
-2. **The Short Store**—The autumn catch failed and the herds were raided, and Chinàra has salted half what the winter needs. The passes close in three weeks. What she has will feed the garrison or the town, not both.
+2. **The Short Store**—The autumn catch failed and the herds were raided, and Chinara has salted half what the winter needs. The passes close in three weeks. What she has will feed the garrison or the town, not both.
 
-3. **The Assize**—The rival victualer has brought a claim against Chinàra at the Winter Assize for a debt her mother never owed, and the court is snowed in with both of them until spring.
+3. **The Assize**—The rival victualer has brought a claim against Chinara at the Winter Assize for a debt her mother never owed, and the court is snowed in with both of them until spring.
 
-4. **The Passes Close Early**—The snow has come a month before its time with the salt carts still below Pirnebrìs. Chinàra has fish in the yard and no salt to cure it.
+4. **The Passes Close Early**—The snow has come a month before its time with the salt carts still below Pirnebris. Chinara has fish in the yard and no salt to cure it.

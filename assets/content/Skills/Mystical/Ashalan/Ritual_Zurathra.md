@@ -1,6 +1,6 @@
 ---
 shortcode: zurathra
-name: {full: "Ritual: Zúráthrä", aliases: [Mother of the Oasis]}
+name: {full: "Ritual: Zúrathra", aliases: [Mother of the Oasis]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-zurathra|Faith of Zúráthrä]]
+See [[affiliation-zurathra|Faith of Zúrathra]]

@@ -1,6 +1,6 @@
 ---
 shortcode: lekhauqarquz
-name: {full: "Lekhau: Qar'quzu", aliases: []}
+name: {full: "Lekhau: Qar'kuzu", aliases: []}
 type: skill
 subType: mystical
 tags: [gethunu-lekhau, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-garqarquzu|Gar-Qar'quzu]]
+See [[affiliation-garqarquzu|Gar-Qar'kuzu]]

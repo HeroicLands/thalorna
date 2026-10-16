@@ -3,7 +3,7 @@ shortcode: stonetongue
 name: {full: The Stone Tongue, aliases: []}
 type: lore
 subType: literature
-description: "How Lushéya nu Kolembozi came out of an Old Heto speaking the Stone Tongue, given twice: as the griots recite the Lubemo record, and as it is told at the fire."
+description: "How Lusheya nu Kolembozi came out of an Old Heto speaking the Stone Tongue, given twice: as the griots recite the Lubemo record, and as it is told at the fire."
 tags: [draft, nyaluba]
 data:
   packFolder: politiesnyaluba
@@ -17,13 +17,13 @@ data:
   language: nyalbnlng
 ---
 
-The Nyáluba hold the account of **Lushéya nu Kolembozi** and the Stone Tongue in two forms, and keep the two apart. The first is the griots' recital of what the Lobwezi griots entered into the record of the Great Lubemo. It is short, it states which clan holds each claim, and it is either right or wrong; a [[skill-griot|griot]] recites it before people who already know it. The second is the story told at the fire. It belongs to no record, it may be told well or badly, and every teller tells it differently. The tradition's rule that a griot is not a storyteller is the line between them. Neither form says what the Stone Tongue is for.
+The Nyáluba hold the account of **Lusheya nu Kolembozi** and the Stone Tongue in two forms, and keep the two apart. The first is the griots' recital of what the Lobwezi griots entered into the record of the Great Lubemo. It is short, it states which clan holds each claim, and it is either right or wrong; a [[skill-griot|griot]] recites it before people who already know it. The second is the story told at the fire. It belongs to no record, it may be told well or badly, and every teller tells it differently. The tradition's rule that a griot is not a storyteller is the line between them. Neither form says what the Stone Tongue is for.
 
 : As the griots recite it {#recital}
 
 > This is entered in the record of the Lubemo. The griots of the baobab received it. It is recited as it was received.
 >
-> Lushéya, of the Kolembozi, spirit-speaker of the crocodile. Her line is held by the griot of the Kolembozi. It is not recited here, because her line is not what was entered.
+> Lusheya, of the Kolembozi, spirit-speaker of the crocodile. Her line is held by the griot of the Kolembozi. It is not recited here, because her line is not what was entered.
 >
 > In her initiation she walked into an Old Heto, and she came out of it speaking the Stone Tongue.
 >
@@ -63,7 +63,7 @@ The Nyáluba hold the account of **Lushéya nu Kolembozi** and the Stone Tongue 
 
 ## See Also
 
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Old Hetos, the Great Lubemo and Lushéya nu Kolembozi
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Old Hetos, the Great Lubemo and Lusheya nu Kolembozi
 - [[affiliation-nyalbeagl|Eagle Totem]]—the Ngonzi, the guardians of the Old Hetos and the stone-builder dead
 - [[affiliation-nyalbcroc|Crocodile Totem]]—the Kolembozi and their spirit-speakers
 - [[skill-griot|Griot]]—why a recital is not a story

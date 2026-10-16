@@ -3,7 +3,7 @@ shortcode: vemunatamker
 name: {full: Vemuna Tamkerun, aliases: [High Artisan Vemuna Tamkerun, High Artisan Vemuna]}
 type: being
 subType: npc
-description: A gruff but brilliant master armorer, now retired, to whom Afzandah Parnâzar was apprenticed at twelve.
+description: A gruff but brilliant master armorer, now retired, to whom Afzandah Parnazar was apprenticed at twelve.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Vemuna Tamkerun is a 69-year-old woman who stands 5'6" tall with a medium build.
 
 # Dossier {#dossier}
 
-Vemuna Tamkerun is a gruff but brilliant master armorer, now retired, who recognized the dexterity and creative instinct of the twelve-year-old [[being-afzndhprnzr|Afzandah Parnâzar]] and took her as an apprentice. She takes pride in her former student's accomplishments and occasionally directs difficult technical problems to her for consultation.
+Vemuna Tamkerun is a gruff but brilliant master armorer, now retired, who recognized the dexterity and creative instinct of the twelve-year-old [[being-afzndhprnzr|Afzandah Parnazar]] and took her as an apprentice. She takes pride in her former student's accomplishments and occasionally directs difficult technical problems to her for consultation.

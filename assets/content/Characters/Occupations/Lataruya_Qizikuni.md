@@ -1,6 +1,6 @@
 ---
 shortcode: ltryqzkn
-name: {full: Latârûya Qizîkûnî, aliases: []}
+name: {full: Lataruya Qizikuni, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Latârûya Qizîkûnî is a 28-year-old woman who stands 5'8" tall and is slender. She has a long face with broad cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her wide-set dark brown eyes sit beneath arched brows and give her an open gaze. She has a strong nose and narrow lips. She has olive-tanned skin with a sun-tanned complexion. Her black hair is tucked beneath a kerchief.
+Lataruya Qizikuni is a 28-year-old woman who stands 5'8" tall and is slender. She has a long face with broad cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her wide-set dark brown eyes sit beneath arched brows and give her an open gaze. She has a strong nose and narrow lips. She has olive-tanned skin with a sun-tanned complexion. Her black hair is tucked beneath a kerchief.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a noble family of Tarûzelian heritage, Latârûya Qizîkûnî is a litigant.
+Born in the Taruzel region to a noble family of Taruzelian heritage, Lataruya Qizikuni is a litigant.
 
-Latârûya is a skilled litigant specializing in family law and inheritance disputes. As a respected member of the Litigant's Guild, she is known for her compassion and dedication to her clients. She understands the feelings in a case as well as the law, and handles difficult cases with care. She cares that justice is done and works tirelessly for her clients.
+Lataruya is a skilled litigant specializing in family law and inheritance disputes. As a respected member of the Litigant's Guild, she is known for her compassion and dedication to her clients. She understands the feelings in a case as well as the law, and handles difficult cases with care. She cares that justice is done and works tirelessly for her clients.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ She can feel too much for her clients, and takes on too much of the weight of he
 
 ### Motivation
 
-Latârûya wants justice done for the families who come to her.
+Lataruya wants justice done for the families who come to her.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ She deals well with people, is adept at mediation, and is compassionate.
 
 ## Social
 
-Latârûya belongs to the Litigant's Guild.
+Lataruya belongs to the Litigant's Guild.
 
 ## Companions
 
 ### Patrons
 
-Latârûya's patrons are the families seeking legal advice and representation.
+Lataruya's patrons are the families seeking legal advice and representation.
 
 ### Enemies
 
@@ -431,12 +431,12 @@ Few; respected in her field but occasionally faces skepticism from more traditio
 
 ## Plot Hooks
 
-1. **The Litigant's Dilemma**—An inheritance case turns on a will Latârûya knows to be forged, and she has to choose between her client and the truth.
+1. **The Litigant's Dilemma**—An inheritance case turns on a will Lataruya knows to be forged, and she has to choose between her client and the truth.
 
 2. **Old Grudges**—One of the traditional litigants who doubt her takes a case against her personally.
 
-3. **Echoes of the Past**—A family dispute Latârûya settled years ago resurfaces with a party she had forgotten.
+3. **Echoes of the Past**—A family dispute Lataruya settled years ago resurfaces with a party she had forgotten.
 
-4. **Shifting Winds**—Political change in Tarûzel threatens the courts Latârûya depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Taruzel threatens the courts Lataruya depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A noble house offers Latârûya its business beyond anything she has hoped for, and the price is not named up front.
+5. **The Opportunity**—A noble house offers Lataruya its business beyond anything she has hoped for, and the price is not named up front.

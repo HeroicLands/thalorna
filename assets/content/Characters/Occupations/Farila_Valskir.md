@@ -1,6 +1,6 @@
 ---
 shortcode: farlvlskyr
-name: {full: Farìla Valskìr, aliases: []}
+name: {full: Farila Valskir, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,11 +393,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Farìla Valskìr is a 31-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a pointed chin. Her round gray eyes sit beneath arched brows, lending her a candid gaze. A narrow nose and thin lips complete her features. She has fair skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
+Farila Valskir is a 31-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a pointed chin. Her round gray eyes sit beneath arched brows, lending her a candid gaze. A narrow nose and thin lips complete her features. She has fair skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Farìla Valskìr came into the world of the physician through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a noble family of Provenzian heritage, Farila Valskir came into the world of the physician through a combination of circumstance and aptitude.
 
 Lady Seraphina is a skilled physician with a specialization in herbal medicine. Having grown up in a noble family, she pursued her passion for healing by studying both conventional medicine and natural remedies. Seraphina is known for her holistic approach, often considering the emotional and social aspects of her patients' health. She is a strong advocate for women's health and often conducts workshops to educate the community.
 
@@ -409,7 +409,7 @@ Can be overly idealistic, struggles with bureaucratic constraints.
 
 ### Motivation
 
-Farìla is driven by the desire to master her craft and secure a stable future. The uncertainties of life in physician work keep her vigilant and adaptable.
+Farila is driven by the desire to master her craft and secure a stable future. The uncertainties of life in physician work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Knowledgeable about herbal remedies, empathetic, skilled in communication.
 
 ## Social
 
-Farìla is affiliated with Local Physicians' Guild.
+Farila is affiliated with Local Physicians' Guild.
 
-As a Provenzian physician, Farìla occupies a recognized social niche within Provènzia society.
+As a Provenzian physician, Farila occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Farìla's primary patron is Local families seeking her expertise in health and wellness. This relationship provides both opportunity and obligation.
+Farila's primary patron is Local families seeking her expertise in health and wellness. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Few; respected but sometimes challenged by traditional medical practitioners.
 
 ## Plot Hooks
 
-1. **The Physician's Dilemma**—Farìla faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Physician's Dilemma**—Farila faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
 2. **Old Grudges**—Few; respected but sometimes challenged by traditional medical practitioners. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Farìla's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Farila's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Farìla depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Farila depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Farìla the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Farila the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

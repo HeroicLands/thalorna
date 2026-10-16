@@ -1,6 +1,6 @@
 ---
 shortcode: daryanardh
-name: {full: Dárva Náreth, aliases: []}
+name: {full: Darva Nareth, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Dárva Náreth is a 28-year-old woman who stands 5'11" tall and is slender. She has an oval face with angular cheekbones, a prominent forehead, and a narrow jaw that leads to a delicate chin. Her narrow green eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and expressive lips complete her features. She has fair skin with a fair complexion. Her graying brown hair is flowing past her shoulders.
+Darva Nareth is a 28-year-old woman who stands 5'11" tall and is slender. She has an oval face with angular cheekbones, a prominent forehead, and a narrow jaw that leads to a delicate chin. Her narrow green eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and expressive lips complete her features. She has fair skin with a fair complexion. Her graying brown hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Dárva Náreth came into the world of the bard through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Darva Nareth came into the world of the bard through a combination of circumstance and aptitude.
 
-Dárva was trained in the bardic arts from a young age, and her talent for storytelling and song quickly became apparent. She travels from court to court, performing for nobility and commoners alike. Her songs often blend historical events with myth, and she has a talent for charming her audience. Though ambitious, Dárva is passionate about preserving history through her craft.
+Darva was trained in the bardic arts from a young age, and her talent for storytelling and song quickly became apparent. She travels from court to court, performing for nobility and commoners alike. Her songs often blend historical events with myth, and she has a talent for charming her audience. Though ambitious, Darva is passionate about preserving history through her craft.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Sometimes lets her ambition overshadow her sincerity, struggles with politics.
 
 ### Motivation
 
-Dárva is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bard work keep her vigilant and adaptable.
+Darva is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bard work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Skilled singer and storyteller, charismatic, knowledgeable in history.
 
 ## Social
 
-Dárva is affiliated with Bardic College.
+Darva is affiliated with Bardic College.
 
-As a Élavendri bard, Dárva occupies a recognized social niche within Élavendre society.
+As a Élavendri bard, Darva occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Dárva's primary patron is Nobles who appreciate her artistry and historical knowledge. This relationship provides both opportunity and obligation.
+Darva's primary patron is Nobles who appreciate her artistry and historical knowledge. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Rival bards who see her as a threat to their own fame.
 
 ## Plot Hooks
 
-1. **The Bard's Dilemma**—Dárva faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Bard's Dilemma**—Darva faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Rival bards who see her as a threat to their own fame. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Dárva's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Darva's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Dárva depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Darva depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Dárva the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Darva the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

@@ -205,7 +205,7 @@ The felling crew has stopped work, and you can hear why: a creaking, grinding so
 
 # Dossier {#dossier}
 
-The Titan Beetle is a giant beetle, six to eight feet long, armored in thick black chitin, with downcurved mandibles strong enough to snap a sapling or a man's leg. It eats bark, leaves and soft wood and does not hunt, and it is peaceable until something crowds it, touches it, or comes near its eggs, and then it charges and keeps charging. It lives in hot, dense forest and the broken country at its edges, and in the [[place-okharisrgn|Okháris Region]] it is the forest tribes' great nuisance and an occasional killer, because it lives in the same hardwood stands they fell for timber and charcoal.
+The Titan Beetle is a giant beetle, six to eight feet long, armored in thick black chitin, with downcurved mandibles strong enough to snap a sapling or a man's leg. It eats bark, leaves and soft wood and does not hunt, and it is peaceable until something crowds it, touches it, or comes near its eggs, and then it charges and keeps charging. It lives in hot, dense forest and the broken country at its edges, and in the [[place-okharisrgn|Okharis Region]] it is the forest tribes' great nuisance and an occasional killer, because it lives in the same hardwood stands they fell for timber and charcoal.
 
 ## Presentation
 
@@ -213,7 +213,7 @@ A titan beetle is long, broad and low, with a body plated in segments of thick, 
 
 ## In the Land
 
-Titan beetles live in the hot forest of western Okháris, where the rains keep the trees thick along the watercourses and the forest thickens southward toward the wall of the [[place-cntrlrnfrsts|Central Rainforests]]. They eat the bark of the great hardwoods, the leaves of the understory and the soft rotten wood of fallen trunks, and they keep to a few acres of forest round a stand of old trees for years. The females lay their eggs in the rotting heart of a fallen hardwood, and the grubs live in it for years before they come out. Beetles are found too in the broken, rocky country at the forest edge and in caves, where they shelter in the hottest weather. They do not go out onto the open grassland.
+Titan beetles live in the hot forest of western Okharis, where the rains keep the trees thick along the watercourses and the forest thickens southward toward the wall of the [[place-cntrlrnfrsts|Central Rainforests]]. They eat the bark of the great hardwoods, the leaves of the understory and the soft rotten wood of fallen trunks, and they keep to a few acres of forest round a stand of old trees for years. The females lay their eggs in the rotting heart of a fallen hardwood, and the grubs live in it for years before they come out. Beetles are found too in the broken, rocky country at the forest edge and in caves, where they shelter in the hottest weather. They do not go out onto the open grassland.
 
 ## Key Behaviors
 

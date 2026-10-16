@@ -254,7 +254,7 @@ Snow leopards live alone, each in a high range where prey is scarce and meetings
 
 ## What the Mountain People Do
 
-The Ösket herders of the high valleys, such as [[place-tsokhar|Tsökhar]], lose goats and young yaks to a snow leopard and watch the ledges at dusk. They are seen by few and are known by their tracks and kills. A pelt is a chief's gift, and the long tail is worn as a collar. Guides lead parties over the passes by day and camp below the cliffs. A hunter who follows a track into a ravine goes with others. The bones are sold to the healers of the lowland cities.
+The Osket herders of the high valleys, such as [[place-tsokhar|Tsokhar]], lose goats and young yaks to a snow leopard and watch the ledges at dusk. They are seen by few and are known by their tracks and kills. A pelt is a chief's gift, and the long tail is worn as a collar. Guides lead parties over the passes by day and camp below the cliffs. A hunter who follows a track into a ravine goes with others. The bones are sold to the healers of the lowland cities.
 
 ## Signs
 

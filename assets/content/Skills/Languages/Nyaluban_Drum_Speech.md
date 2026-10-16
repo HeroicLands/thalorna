@@ -30,3 +30,7 @@ It is a skill of the [[affiliation-nyalbpnthn|Nyáluba Way]] as much as of the l
 keep the ceremonial drumming without which the rites do not begin, summon a distant Spirit-Speaker
 when one is needed, and call a clan to assembly. The northern reach of the network, where it thins
 toward the rainforest, is held by the Sengala and is the least reliable stretch.
+
+## How Nyáluban Drum-Speech sounds
+
+The drum register has no written words of its own. It carries Nyáluban words as struck pitch, so it takes Nyáluban's palette.

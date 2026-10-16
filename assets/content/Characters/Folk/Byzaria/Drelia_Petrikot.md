@@ -1,9 +1,9 @@
 ---
 shortcode: dreliapetrik
-name: {full: Drelia Petríkot, aliases: [Captain Drelia Petríkot]}
+name: {full: Drelia Petrikot, aliases: [Captain Drelia Petrikot]}
 type: being
 subType: npc
-description: Captain and leader of a band that acts against violent criminals whom the official justice system refuses to prosecute, named in Fýléze Steníkot.
+description: Captain and leader of a band that acts against violent criminals whom the official justice system refuses to prosecute, named in Fileze Stenikot.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Drelia Petríkot is a 38-year-old woman who stands 5'9" tall with a medium build. She has light skin, sun-kissed complexion, brown hair, and green eyes.
+Drelia Petrikot is a 38-year-old woman who stands 5'9" tall with a medium build. She has light skin, sun-kissed complexion, brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Drelia Petríkot is the captain and leader of a band of former soldiers, women mostly, who act against violent criminals whom the official justice system refuses to prosecute. She asks [[being-fylzstnkt|Fýléze Steníkot]] to join the band formally or at least to train it.
+Drelia Petrikot is the captain and leader of a band of former soldiers, women mostly, who act against violent criminals whom the official justice system refuses to prosecute. She asks [[being-fylzstnkt|Fileze Stenikot]] to join the band formally or at least to train it.

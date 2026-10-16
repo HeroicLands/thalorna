@@ -1,6 +1,6 @@
 ---
 shortcode: kuxiixbal
-name: {full: K'uxi Ix'bal, aliases: []}
+name: {full: K'ushi Ish'bal, aliases: []}
 type: affiliation
 subType: polity
 description: High altiplano of sacred lakes, pastoral priesthood, and mountain passes—the southern frontier of K'ich'chik civilization.
@@ -40,28 +40,28 @@ data:
           Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Tz'enmah's court.
+        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the Tz'enmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
       - level: 8
-        title: Tz'enmah
+        title: Ts'enmah
         description: >-
           Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
     offices:
-      Tz'enmah: >-
+      Ts'enmah: >-
         Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ix'kanmah: >-
+      Ish'kanmah: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
       Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
       K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Tz'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
+      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
       P'ilambal: >-
         Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Xok'almah: War-leader appointed for a campaign, and set aside when it ends.
+      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
       Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umtz'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
       P'ik'ulmah: >-
         Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
       Ballcourt Keeper: >-
@@ -76,12 +76,12 @@ data:
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Bolivia, Southern Central Brazil
-# terran_analog: the ranks and offices are the Classic Maya court: Tz'enmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, Tz'enbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
 ---
 
 ## Overview
 
-K'uxi Ix'bal holds the land of [[place-kuxiixbalrgn|K'uxi Ix'bal Region]]. The Ch'um Ix'lan relay network thins here as well; Ch'umbal way-stations are spaced further apart, runners are harder to recruit for the harsh southern routes, and messages from [[affiliation-ixilankul|Ix'ilankul]] that arrive in two days at [[affiliation-kankul|K'ankul]] take five or six to reach K'uxi Ix'bal's outpost cities. Beyond K'uxi Ix'bal, the Speaking Road falls silent entirely—the last k'otzel cord to arrive is decoded at [[place-qptlulneok|Q'aptel'ul Ne'ok]], and what lies further south relies on the courage of individual messengers. Those who venture south from K'uxi Ix'bal do so with offerings and prayers heavy on their lips.
+K'ushi Ish'bal holds the land of [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]. The Ch'um Ish'lan relay network thins here as well; Ch'umbal way-stations are spaced further apart, runners are harder to recruit for the harsh southern routes, and messages from [[affiliation-ixilankul|Ish'ilankul]] that arrive in two days at [[affiliation-kankul|K'ankul]] take five or six to reach K'ushi Ish'bal's outpost cities. Beyond K'ushi Ish'bal, the Speaking Road falls silent entirely—the last k'otsel cord to arrive is decoded at [[place-qptlulneok|Q'aptel'ul Ne'ok]], and what lies further south relies on the courage of individual messengers. Those who venture south from K'ushi Ish'bal do so with offerings and prayers heavy on their lips.
 
 ## Maritime Powers
 
@@ -91,13 +91,13 @@ Control of the major passes and highland routes is contested between the great c
 
 ## Trade
 
-The priesthood maintains strict control over K'uxi Ix'bal's resources. Large portions of the pastoral herds and grain harvests are claimed as tribute or tithe, and little of true wealth leaves the region—most is hoarded in temple treasuries or consumed in ritual sacrifice. This has created a frontier mentality; the cities are garrison-like, their economies oriented toward survival and the provisioning of expeditions rather than the accumulation of luxury goods.
+The priesthood maintains strict control over K'ushi Ish'bal's resources. Large portions of the pastoral herds and grain harvests are claimed as tribute or tithe, and little of true wealth leaves the region—most is hoarded in temple treasuries or consumed in ritual sacrifice. This has created a frontier mentality; the cities are garrison-like, their economies oriented toward survival and the provisioning of expeditions rather than the accumulation of luxury goods.
 
 ## See Also
 
-- [[affiliation-ixbaltzaku|Ix'bal Tza'ku]]—The wealthier realm to the north
-- [[affiliation-qapteltzakl|Q'aptel Tza'kul]]—The boundary lands where civilization falters
-- [[place-ixkulchalix|Ixkul Ch'alix]]—The sacred lake and pilgrimage destination
+- [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]—The wealthier realm to the north
+- [[affiliation-qapteltzakl|Q'aptel Tsa'kul]]—The boundary lands where civilization falters
+- [[place-ixkulchalix|Ishkul Ch'alish]]—The sacred lake and pilgrimage destination
 - [[place-qptlulneok|Q'aptel'ul Ne'ok]]—The frontier garrison city
-- [[affiliation-itzanpnthn|Itzáni]]—The priesthood that commands these lands
-- [[place-kuxiixbalrgn|K'uxi Ix'bal Region]]—The land K'uxi Ix'bal holds
+- [[affiliation-itzanpnthn|Itsani]]—The priesthood that commands these lands
+- [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]—The land K'ushi Ish'bal holds

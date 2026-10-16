@@ -1,6 +1,6 @@
 ---
 shortcode: granaria
-name: {full: Kêlbôrâra, aliases: []}
+name: {full: Kelborara, aliases: []}
 type: place
 subType: settlement
 description: "Market Town"
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Kêlbôrâra is where Hilen's bread is counted. The chief grain-market of central [[affiliation-provnchyln|Hilen]], a town of seven thousand, is built around its granaries and weighing-yards, and the harvest of a hundred estates is gathered there, measured, and sent on toward the capital and the legions.
+Kelborara is where Hilen's bread is counted. The chief grain-market of central [[affiliation-provnchyln|Hilen]], a town of seven thousand, is built around its granaries and weighing-yards, and the harvest of a hundred estates is gathered there, measured, and sent on toward the capital and the legions.
 
 A weighing-yard clerk tells you he knows the state of the empire before the Senate does. In a good year the town overflows with sacked grain and there is nowhere to stand. In a lean year the granaries are empty, and that is the first warning that the empire's bread is short.
 

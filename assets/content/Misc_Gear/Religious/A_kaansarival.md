@@ -10,7 +10,7 @@ sohl:
   system: {weightBase: 0.1, valueBase: 0, qualityBase: 0, durabilityBase: 5}
 ---
 
-A _kaan'sari'val_ (the keepers' thread) is a cord of plaited palm fiber, dyed with set pigments and knotted in set patterns, that an Ithári'kaan receives on elevation to kaan'vaar. The knots name the wearer's teacher, and that teacher's teacher, back through the generations to one of the founding custodians whose name the oral record keeps.
+A _kaan'sari'val_ (the keepers' thread) is a cord of plaited palm fiber, dyed with set pigments and knotted in set patterns, that an Ithakan receives on elevation to kaan'vaar. The knots name the wearer's teacher, and that teacher's teacher, back through the generations to one of the founding custodians whose name the oral record keeps.
 
 ## What It Does
 

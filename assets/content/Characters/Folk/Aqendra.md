@@ -36,4 +36,4 @@ Akendra is a 44-year-old man who stands 5'10" tall with a heavy build. He has eb
 
 # Dossier {#dossier}
 
-Akendra cooks out of [[place-rajapur|Rājapur]], and the fashionable style travels from the kitchen to the capital's tables faster than the traditionalists can dismiss it. The traditionalists call it novelty dressed up; the capital keeps ordering it regardless. Anyone serving a formal table in the capital now reckons with Akendra's reputation, admired or not.
+Akendra cooks out of [[place-rajapur|Rajepur]], and the fashionable style travels from the kitchen to the capital's tables faster than the traditionalists can dismiss it. The traditionalists call it novelty dressed up; the capital keeps ordering it regardless. Anyone serving a formal table in the capital now reckons with Akendra's reputation, admired or not.

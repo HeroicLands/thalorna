@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]
-  affiliations: {empireakhlth: {rank: 3}, tjaqur: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, tjaqur: {rank: 1}}
   gender: female
   species: humanflk
   born: 686.143
@@ -418,7 +418,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-anlaghzetun|Anlagh-Zetûn]]
+**Home:** [[place-anlaghzetun|Anlagh-Zetun]]
 
 # Appearance {#appearance}
 
@@ -432,7 +432,7 @@ Shegas stands 5'7" tall with a light build. She has deep bronze skin, jet black 
 
 ### Early Life and Loss
 
-Shegas was born in the capital city of the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]] into the moderately wealthy Retha'Mogau family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shegas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shegas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
+Shegas was born in the capital city of the Empire of [[affiliation-empireakhlth|Au'Khelathu]] into the moderately wealthy Retha'Mogau family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shegas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shegas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
 
 After her brother's death, Shegas became obsessed with learning every remedy, every healing art, every herb that might have helped him. Her parents, grieving and indulgent, allowed her to apprentice with an elderly apothecary named [[being-meshaqawise|Meshaqa the Wise]], a woman of great skill who had served the city's poor for decades.
 
@@ -491,8 +491,8 @@ Shegas is fundamentally driven by a desire that no one should suffer as her brot
 The City's Poor and Laboring Classes
 : Shegas's primary patrons, though they rarely pay in conventional coin. They repay her kindness with loyalty, gratitude, and protection. If anyone threatened Shegas, they would respond with fierce devotion.
 
-The Temple of [[lore-tjaqurdty|Tjaq'ûr]]
-: Though Shegas worships Tjaq'ûr, the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
+The Temple of [[lore-tjaqurdty|Chaq'ur]]
+: Though Shegas worships Chaq'ur, the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
 
 Wealthy Merchants Seeking Discretion
 : A few affluent clients seek Shegas specifically because they trust her discretion and know she will never betray their confidences. These clients pay well and help sustain her practice.
@@ -513,7 +513,7 @@ The City Guard Commander
 Independent Apothecary
 : Shegas operates her own practice without formal affiliation to any larger institution, though she maintains good standing with the Apothecaries' Guild (which she pays dues to, even if she often disagrees with their practices).
 
-[[affiliation-lutnlgrkhlth|The Lut-Nelgir elu Aû'Khelâthu]]
+[[affiliation-lutnlgrkhlth|The Lut-Nelgir elu Au'Khelathu]]
 : While not a priestess, Shegas maintains relationships with multiple temples and shares knowledge with their healers.
 
 The Community of the Lower Quarters

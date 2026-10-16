@@ -1,6 +1,6 @@
 ---
 shortcode: kamdkhvndr
-name: {full: Kamîd Khâvandar, given: Kamîd, clan: Khâvandar, aliases: []}
+name: {full: Kamid Khavandar, given: Kamid, clan: Khavandar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -401,29 +401,29 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kamdkhvndr|Kamîd Khâvandar]]{float=top-left}
+![[kamdkhvndr|Kamid Khavandar]]{float=top-left}
 
-Kamîd stands 6'0" tall with a medium build. He has tanned ruddy skin, black hair, and dark brown eyes. His features include a narrow face, a prominent nose, a pointed chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a phoenix on the chest.
+Kamid stands 6'0" tall with a medium build. He has tanned ruddy skin, black hair, and dark brown eyes. His features include a narrow face, a prominent nose, a pointed chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a phoenix on the chest.
 
 # Dossier {#dossier}
 
-Kamîd was born to farming families in the borderlands of the [[place-khzryndsrtrgn|Khazryn Desert]], one of twelve children in a household where survival was never guaranteed. From childhood, he learned the hard work of coaxing sustenance from unforgiving soil, managing water resources, and reading the desert's moods. By his twenties, he had become the foreman of a productive farm, overseeing dozens of workers and managing the complex work of desert farming.
+Kamid was born to farming families in the borderlands of the [[place-khzryndsrtrgn|Khazryn Desert]], one of twelve children in a household where survival was never guaranteed. From childhood, he learned the hard work of coaxing sustenance from unforgiving soil, managing water resources, and reading the desert's moods. By his twenties, he had become the foreman of a productive farm, overseeing dozens of workers and managing the complex work of desert farming.
 
-At thirty-five, Kamîd's life changed irrevocably when a severe drought struck the region. For two seasons, the rains did not come, and water sources dried. His farm failed along with dozens of others. He attempted to hold the operation together, selling off livestock and equipment to maintain wages for his workers. By the time the drought broke and rains returned, he had nothing left—the farm was seized by creditors, and his workers were scattered.
+At thirty-five, Kamid's life changed irrevocably when a severe drought struck the region. For two seasons, the rains did not come, and water sources dried. His farm failed along with dozens of others. He attempted to hold the operation together, selling off livestock and equipment to maintain wages for his workers. By the time the drought broke and rains returned, he had nothing left—the farm was seized by creditors, and his workers were scattered.
 
-For the past thirteen years, Kamîd has lived as a vagrant, begging in the streets of various desert settlements, occasionally finding temporary work but never managing to accumulate enough to re-establish himself. He sleeps rough, keeps his few possessions in a canvas sack, and maintains a wooden charm carved by his now-deceased mother. The phoenix tattoo, applied during a brief period when he still harbored hope of rebirth, has become a cruel mockery of his actual circumstances.
+For the past thirteen years, Kamid has lived as a vagrant, begging in the streets of various desert settlements, occasionally finding temporary work but never managing to accumulate enough to re-establish himself. He sleeps rough, keeps his few possessions in a canvas sack, and maintains a wooden charm carved by his now-deceased mother. The phoenix tattoo, applied during a brief period when he still harbored hope of rebirth, has become a cruel mockery of his actual circumstances.
 
 ## Psyche
 
 ### Personality
 
-Kamîd is a man of few words and hard pride. He speaks little unless directly addressed, and his words are generally practical and unemotional. Despite his circumstances, he maintains dignity and refuses—sometimes violently—to be treated as less than human. He is capable of kindness, particularly toward other vagrants and those society has discarded, though his generosity comes from understanding their pain rather than from warmth.
+Kamid is a man of few words and hard pride. He speaks little unless directly addressed, and his words are generally practical and unemotional. Despite his circumstances, he maintains dignity and refuses—sometimes violently—to be treated as less than human. He is capable of kindness, particularly toward other vagrants and those society has discarded, though his generosity comes from understanding their pain rather than from warmth.
 
-Beneath the stoicism lies deep frustration and bitterness. He views his circumstances as a betrayal by the gods themselves, and his faith in **Báhrámiš** (god of storms) has become complicated—anger mixed with desperate hope that some storm will come to sweep away the current order and restore what he has lost. He is prone to bouts of dark introspection and has contemplated ending his suffering, though something—possibly the phoenix tattoo's symbolism—prevents final despair.
+Beneath the stoicism lies deep frustration and bitterness. He views his circumstances as a betrayal by the gods themselves, and his faith in **Báhramis** (god of storms) has become complicated—anger mixed with desperate hope that some storm will come to sweep away the current order and restore what he has lost. He is prone to bouts of dark introspection and has contemplated ending his suffering, though something—possibly the phoenix tattoo's symbolism—prevents final despair.
 
 ### Motivation
 
-Kamîd is driven by a desperate desire to re-establish himself, to prove that the desert has not truly broken him. He dreams of returning to farming, of accumulating enough capital to acquire land and laborers again. More fundamentally, he is driven by rage—at the drought, at the creditors, at a society that casts aside men who have given their lives to productive work. This rage is sometimes directed outward (at authorities and those he perceives as oppressors) and sometimes inward (manifesting as self-destructive behavior). He clings to the phoenix symbol as a reminder that rebirth is possible, even if his rational mind doubts it.
+Kamid is driven by a desperate desire to re-establish himself, to prove that the desert has not truly broken him. He dreams of returning to farming, of accumulating enough capital to acquire land and laborers again. More fundamentally, he is driven by rage—at the drought, at the creditors, at a society that casts aside men who have given their lives to productive work. This rage is sometimes directed outward (at authorities and those he perceives as oppressors) and sometimes inward (manifesting as self-destructive behavior). He clings to the phoenix symbol as a reminder that rebirth is possible, even if his rational mind doubts it.
 
 ### Strengths
 
@@ -446,7 +446,7 @@ Kamîd is driven by a desperate desire to re-establish himself, to prove that th
 ### Patrons
 
 Old Merchant Khalib
-: A spice trader who knew Kamîd's family decades ago, occasionally employs him for temporary work and sees that he doesn't starve, though he is careful not to patronize.
+: A spice trader who knew Kamid's family decades ago, occasionally employs him for temporary work and sees that he doesn't starve, though he is careful not to patronize.
 
 The Desert Monks
 : Wandering spiritual practitioners who sometimes provide shelter and accept him as fellow pilgrims in the desert's harshness.
@@ -454,7 +454,7 @@ The Desert Monks
 ### Enemies
 
 Captain Kireshay and the City Guard
-: The local garrison commander has made begging and vagrancy a personal crusade, and views Kamîd specifically as a troublemaker and vagrant to be driven out or arrested.
+: The local garrison commander has made begging and vagrancy a personal crusade, and views Kamid specifically as a troublemaker and vagrant to be driven out or arrested.
 
 The Creditor's Guild
 : The organization that seized his farm decades ago, though they no longer actively pursue him, he views them as the architects of his destruction and failure.
@@ -466,12 +466,12 @@ The Vagrant Collective
 
 ## Plot Hooks
 
-1. **The Land Returns**: A courier arrives in the settlement bearing a legal document indicating that Kamîd's original farm property has been seized for unpaid taxes from the current owners—and he has a legal claim to it. To exercise this claim, he must travel days to the provincial capital, produce evidence of original ownership, and pay substantial court fees. The opportunity is simultaneously a potential restoration of everything lost and an obvious trap where creditors might ambush or discredit him.
+1. **The Land Returns**: A courier arrives in the settlement bearing a legal document indicating that Kamid's original farm property has been seized for unpaid taxes from the current owners—and he has a legal claim to it. To exercise this claim, he must travel days to the provincial capital, produce evidence of original ownership, and pay substantial court fees. The opportunity is simultaneously a potential restoration of everything lost and an obvious trap where creditors might ambush or discredit him.
 
-2. **The Desert Oath**: A dying man Kamîd shelters reveals that he was commissioned by someone to find Kamîd specifically, and before dying, gives him a location in the deep desert where something of value is hidden—something the dying man claims belongs to Kamîd's past. The location is dangerous, the revelation cryptic, and Kamîd must decide whether to pursue this mystery or remain safe in his established routine of survival.
+2. **The Desert Oath**: A dying man Kamid shelters reveals that he was commissioned by someone to find Kamid specifically, and before dying, gives him a location in the deep desert where something of value is hidden—something the dying man claims belongs to Kamid's past. The location is dangerous, the revelation cryptic, and Kamid must decide whether to pursue this mystery or remain safe in his established routine of survival.
 
-3. **Recruitment for the Storm**: A mysterious figure appears claiming to represent a gathering of desert people planning a rebellion against the settled urban centers, particularly against the city authorities that have oppressed them. They want Kamîd to lead them, promising restoration of his dignity and station. Whether this is real opportunity or elaborate trap designed to eliminate a troublemaker remains unclear.
+3. **Recruitment for the Storm**: A mysterious figure appears claiming to represent a gathering of desert people planning a rebellion against the settled urban centers, particularly against the city authorities that have oppressed them. They want Kamid to lead them, promising restoration of his dignity and station. Whether this is real opportunity or elaborate trap designed to eliminate a troublemaker remains unclear.
 
-4. **The Stolen Farm**: Kamîd encounters evidence that his original farm failure may not have been entirely due to drought—that someone deliberately sabotaged water systems and spread false information about the drought's severity, profiting from the chaos while farming families lost everything. Pursuing this revelation would require resources he lacks and would make him dangerous to powerful interests.
+4. **The Stolen Farm**: Kamid encounters evidence that his original farm failure may not have been entirely due to drought—that someone deliberately sabotaged water systems and spread false information about the drought's severity, profiting from the chaos while farming families lost everything. Pursuing this revelation would require resources he lacks and would make him dangerous to powerful interests.
 
-5. **Phoenix Rising**: A wealthy investor approaches with a business proposition: reestablish a farm operation in a new location, with the investor providing capital and Kamîd providing expertise and labor. The terms are fair, the opportunity seems real, but Kamîd's suspicion and pride make him doubt whether it's real. Accepting requires trusting someone when trust has become a dangerous luxury.
+5. **Phoenix Rising**: A wealthy investor approaches with a business proposition: reestablish a farm operation in a new location, with the investor providing capital and Kamid providing expertise and labor. The terms are fair, the opportunity seems real, but Kamid's suspicion and pride make him doubt whether it's real. Accepting requires trusting someone when trust has become a dangerous luxury.

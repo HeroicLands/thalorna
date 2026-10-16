@@ -3,7 +3,7 @@ shortcode: zhikandetrb
 name: {full: Zhíkande Tribe, aliases: []}
 type: affiliation
 subType: polity
-description: A river tribe of the Okháris that grows flax and weaves linen.
+description: A river tribe of the Okharis that grows flax and weaves linen.
 tags: [draft]
 data:
   templatePriority: null
@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe owes fealty to Okháris, and its chieftain and elders attend the regular moots held in the temple-cities, where matters affecting the tribes are decided. Every member holds standing in Okháris as well as in the tribe: most as Villager/Townsman, the elders and the chieftain as Honored One.
+      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe owes fealty to Okharis, and its chieftain and elders attend the regular moots held in the temple-cities, where matters affecting the tribes are decided. Every member holds standing in Okharis as well as in the tribe: most as Villager/Townsman, the elders and the chieftain as Honored One.
     ranks:
       - level: 0
         title: Kinless
@@ -57,10 +57,10 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## The Zhíkande
 
-The **Zhíkande** are a tribe owing fealty to [[affiliation-okharis|Okháris]]. Their seat is
+The **Zhíkande** are a tribe owing fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-zhikandevlg|Zhíkande Village]], one of the settled villages of
-[[place-okharisrgn|Okháris]].
+[[place-okharisrgn|Okharis]].
 
 They grow flax in the river-watered fields, ret it in the shallows and weave it into linen prized for its fineness in the temple-cities.
 
-The tribe follows Okháris customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Zhíkande belongs to Okháris as well as to the tribe.
+The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Zhíkande belongs to Okharis as well as to the tribe.

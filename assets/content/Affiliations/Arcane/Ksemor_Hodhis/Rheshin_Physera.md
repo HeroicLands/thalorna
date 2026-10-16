@@ -1,6 +1,6 @@
 ---
 shortcode: physera
-name: {full: Physéra, aliases: [Rhéshin Physéra, Zûlêthâlon Physéra]}
+name: {full: Fisera, aliases: [Rhezin Fisera, Zulen Fisera]}
 type: affiliation
 subType: arcanetradition
 tags: [hex-hodai]
@@ -43,12 +43,12 @@ data:
     offices:
       First of the Tradition: Presiding elder, who speaks for the tradition where it must speak with one voice.
       Elder: Of the body that decides doctrine, admission and expulsion.
-      Mârendândôs: Master of a school, holding its teaching, its pupils and its reputation.
-      Lôrêzândôs: Charged with the instruction of initiates, and with judging when they are ready.
+      Marendos: Master of a school, holding its teaching, its pupils and its reputation.
+      Lorezos: Charged with the instruction of initiates, and with judging when they are ready.
       Keeper of the Grimoires: Warden of the tradition's written work, and of who may read which part of it.
       Warden of the Threshold: Examiner of aspirants, and the last check before an oath is taken.
-      Sêkhêrândôs: Investigator of the tradition's own—unlicensed practice, broken oaths, and worse.
-      Phrênkhândôs: Keeper of the tradition's endowment, its houses and its stipends.
+      Sekeros: Investigator of the tradition's own—unlicensed practice, broken oaths, and worse.
+      Frenkos: Keeper of the tradition's endowment, its houses and its stipends.
       Envoy: The tradition's representative to a court or a rival school.
   seat: null
   population: null
@@ -63,46 +63,46 @@ sohl: {system: {commonSkills: []}}
 #   school: earth
 ---
 
-**Physéra** is the current of stone, growth, endurance, the body, and all that is solid and rooted. It occupies the right vertex of the [[affiliation-hexhodai|Thîzâron]], directly opposite [[affiliation-pneumenos|Neuménos]]. Where Spirit reaches beyond the material, Earth insists on the primacy of what can be touched, tasted, grown, and built. Rhéshin Physéra is the largest of the six Zûlêthâlâr (fellowships) by membership—a fact its practitioners regard as entirely appropriate, since most of the world is, after all, made of earth.
+**Fisera** is the current of stone, growth, endurance, the body, and all that is solid and rooted. It occupies the right vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite [[affiliation-pneumenos|Neumenos]]. Where Spirit reaches beyond the material, Earth insists on the primacy of what can be touched, tasted, grown, and built. Rhezin Fisera is the largest of the six Zulethalar (fellowships) by membership—a fact its practitioners regard as entirely appropriate, since most of the world is, after all, made of earth.
 
 ## Philosophy
 
-The Physéra mage perceives reality as _material_—as substance, as body, as the weight and texture and grain of things that exist in the world rather than merely in the mind. A stone is not a symbol of endurance; it _is_ endurance, made manifest. A seed is not a metaphor for potential; it is a mechanism of extraordinary complexity that will, given soil and water and time, become a tree. The Physéra mage trusts what they can hold in their hands. They are suspicious of abstractions that cannot be demonstrated in matter, and they regard speculation about the immaterial with the patient skepticism of someone who has spent a lifetime watching things grow.
+The Fisera mage perceives reality as _material_—as substance, as body, as the weight and texture and grain of things that exist in the world rather than merely in the mind. A stone is not a symbol of endurance; it _is_ endurance, made manifest. A seed is not a metaphor for potential; it is a mechanism of extraordinary complexity that will, given soil and water and time, become a tree. The Fisera mage trusts what they can hold in their hands. They are suspicious of abstractions that cannot be demonstrated in matter, and they regard speculation about the immaterial with the patient skepticism of someone who has spent a lifetime watching things grow.
 
-This philosophy produces practitioners who are practical, conservative, and deeply rooted in tradition. Physéra mages tend to be the most grounded members of any chapter—the ones who remember that magical research requires funding, that chapter houses require maintenance, that apprentices require feeding, and that the world's problems are more often solved by a good harvest than by a brilliant theory. They are not incurious, but their curiosity runs toward the concrete: how things grow, how materials behave, how the body heals or fails, how the land shapes the lives of those who live on it.
+This philosophy produces practitioners who are practical, conservative, and deeply rooted in tradition. Fisera mages tend to be the most grounded members of any chapter—the ones who remember that magical research requires funding, that chapter houses require maintenance, that apprentices require feeding, and that the world's problems are more often solved by a good harvest than by a brilliant theory. They are not incurious, but their curiosity runs toward the concrete: how things grow, how materials behave, how the body heals or fails, how the land shapes the lives of those who live on it.
 
-The school's signature domains are correspondingly tangible. Alchemy—the transformation of materials through arcane and chemical processes—has its deepest roots in Physéra, and the [[affiliation-ordoarcanis|College of Alchemy]] draws heavily from this school. Herblore, the arcane study of plants and their properties, is almost exclusively a Physéra domain. The magic of bodily enhancement—strength, endurance, resistance to harm—is Physéra's contribution to combat, less spectacular than Fire but often more survivable. And the shaping of stone, earth, and growing things is the school's most characteristic art: Physéra mages built the walls of more than one chapter house, and the gardens that surround them are as much arcane laboratories as they are pleasant grounds.
+The school's signature domains are correspondingly tangible. Alchemy—the transformation of materials through arcane and chemical processes—has its deepest roots in Fisera, and the [[affiliation-ordoarcanis|College of Alchemy]] draws heavily from this school. Herblore, the arcane study of plants and their properties, is almost exclusively a Fisera domain. The magic of bodily enhancement—strength, endurance, resistance to harm—is Fisera's contribution to combat, less spectacular than Fire but often more survivable. And the shaping of stone, earth, and growing things is the school's most characteristic art: Fisera mages built the walls of more than one chapter house, and the gardens that surround them are as much arcane laboratories as they are pleasant grounds.
 
-The deeper principle of Physéra is _the power of what endures_. Fire burns out. Water evaporates. Wind dies. But the stone remains. The tree that survives the storm puts down deeper roots. The body that recovers from illness is stronger for having fought it. Physéra magic is patient magic—slow to build, slow to fade, and difficult to displace once established.
+The deeper principle of Fisera is _the power of what endures_. Fire burns out. Water evaporates. Wind dies. But the stone remains. The tree that survives the storm puts down deeper roots. The body that recovers from illness is stronger for having fought it. Fisera magic is patient magic—slow to build, slow to fade, and difficult to displace once established.
 
-## The Opposition: Neuménos
+## The Opposition: Neumenos
 
-Physéra stands directly opposite [[affiliation-pneumenos|Neuménos]] on the Thîzâron (the Seal), and their opposition is the oldest philosophical divide in the arcane tradition: matter versus spirit, body versus soul, the tangible versus the transcendent. An Earth mage attempting Spirit magic finds the experience bewildering—the magic has no _substance_, no weight, nothing to grip. It is like trying to plant seeds in fog. Everything Neuménos values—communion, transcendence, the dissolution of boundaries between self and other—strikes the Physéra practitioner as dangerously unmoored from the reality that keeps people alive.
+Fisera stands directly opposite [[affiliation-pneumenos|Neumenos]] on the Thizaron (the Seal), and their opposition is the oldest philosophical divide in the arcane tradition: matter versus spirit, body versus soul, the tangible versus the transcendent. An Earth mage attempting Spirit magic finds the experience bewildering—the magic has no _substance_, no weight, nothing to grip. It is like trying to plant seeds in fog. Everything Neumenos values—communion, transcendence, the dissolution of boundaries between self and other—strikes the Fisera practitioner as dangerously unmoored from the reality that keeps people alive.
 
-The rivalry between the two Zûlêthâlâr is less heated than some others but perhaps more fundamental. Physéra practitioners regard Spirit mages with deep wariness—not hostility, exactly, but the unease of someone watching a colleague walk too close to a cliff edge. The Spirit mage's willingness to open their mind to entities and forces beyond the material seems to the Earth mage like a kind of recklessness, a failure to respect the boundaries that keep the self intact. Neuménos practitioners, for their part, view Earth mages as limited—competent within their domain, certainly, but unable or unwilling to perceive the deeper realities that lie beneath the surface of matter.
+The rivalry between the two Zulethalar is less heated than some others but perhaps more fundamental. Fisera practitioners regard Spirit mages with deep wariness—not hostility, exactly, but the unease of someone watching a colleague walk too close to a cliff edge. The Spirit mage's willingness to open their mind to entities and forces beyond the material seems to the Earth mage like a kind of recklessness, a failure to respect the boundaries that keep the self intact. Neumenos practitioners, for their part, view Earth mages as limited—competent within their domain, certainly, but unable or unwilling to perceive the deeper realities that lie beneath the surface of matter.
 
-The tension is sharpest in the College of Alchemy, where Physéra's material science and Neuménos's interest in the spiritual properties of substances occasionally collide. Is an alchemical transformation a physical process that can be explained through material principles, or does it involve a change in the substance's spiritual nature? The debate is centuries old and shows no sign of resolution.
+The tension is sharpest in the College of Alchemy, where Fisera's material science and Neumenos's interest in the spiritual properties of substances occasionally collide. Is an alchemical transformation a physical process that can be explained through material principles, or does it involve a change in the substance's spiritual nature? The debate is centuries old and shows no sign of resolution.
 
 ## Adjacencies
 
-Physéra shares its edges of the Thîzâron with [[affiliation-zepharis|Zepharis]] and [[affiliation-hydalis|Hydalis]].
+Fisera shares its edges of the Thizaron with [[affiliation-zepharis|Zefaris]] and [[affiliation-hydalis|Hidalis]].
 
-The sympathy with Zepharis is the natural world itself. Earth and Air are the ground and the sky—inseparable in shaping the environments where life exists. A Physéra mage studying soil composition and a Zepharis mage studying rainfall patterns are examining the same ecological system from complementary angles. Their collaboration is most productive in agricultural magic, weather prediction, and the understanding of landscapes and natural hazards. The partnership is quietly one of the most practically valuable in the Order's repertoire, even if it lacks the dramatic flair of Fire-Air combinations.
+The sympathy with Zefaris is the natural world itself. Earth and Air are the ground and the sky—inseparable in shaping the environments where life exists. A Fisera mage studying soil composition and a Zefaris mage studying rainfall patterns are examining the same ecological system from complementary angles. Their collaboration is most productive in agricultural magic, weather prediction, and the understanding of landscapes and natural hazards. The partnership is quietly one of the most practically valuable in the Order's repertoire, even if it lacks the dramatic flair of Fire-Air combinations.
 
-The sympathy with Hydalis is one of _sustenance and growth_. Earth provides the medium in which things grow; Water provides the nourishment. Together they are the magic of fertility, healing, and the maintenance of living systems. Physéra and Hydalis practitioners work together more frequently and more comfortably than perhaps any other pair of adjacent schools—their temperaments align (both patient, both practical, both oriented toward maintenance rather than disruption) and their domains interlock. A sick patient benefits from Hydalis healing and Physéra herblore in combination; a failing crop needs both water and better soil. The two Zûlêthâlâr maintain a long-standing alliance that is the Order's most stable inter-school partnership.
+The sympathy with Hidalis is one of _sustenance and growth_. Earth provides the medium in which things grow; Water provides the nourishment. Together they are the magic of fertility, healing, and the maintenance of living systems. Fisera and Hidalis practitioners work together more frequently and more comfortably than perhaps any other pair of adjacent schools—their temperaments align (both patient, both practical, both oriented toward maintenance rather than disruption) and their domains interlock. A sick patient benefits from Hidalis healing and Fisera herblore in combination; a failing crop needs both water and better soil. The two Zulethalar maintain a long-standing alliance that is the Order's most stable inter-school partnership.
 
-## The Zûlêthâlon Physéra
+## The Zulen Fisera
 
-The **Zûlêthâlon Physéra**—the Fellowship of Earth—is the largest of the six Zûlêthâlâr by membership, and the most conservative. Its practitioners are practical, tradition-minded, and deeply embedded in the daily operations of their chapter houses. Where other Zûlêthâlâr produce scholars, warriors, or spies, Physéra produces the mages who keep the institution running: the alchemists who supply its materials, the herbalists who stock its infirmaries, the enchanters who maintain its physical infrastructure, and the agricultural advisors who ensure that the communities surrounding the chapter houses remain prosperous and grateful.
+The **Zulen Fisera**—the Fellowship of Earth—is the largest of the six Zulethalar by membership, and the most conservative. Its practitioners are practical, tradition-minded, and deeply embedded in the daily operations of their chapter houses. Where other Zulethalar produce scholars, warriors, or spies, Fisera produces the mages who keep the institution running: the alchemists who supply its materials, the herbalists who stock its infirmaries, the enchanters who maintain its physical infrastructure, and the agricultural advisors who ensure that the communities surrounding the chapter houses remain prosperous and grateful.
 
-The fellowship's internal culture prizes reliability, deep knowledge, and long service. Advancement is slow and seniority-weighted; the Zûlêthâlon (fellowship) has little patience for prodigies who have not yet demonstrated that their brilliance is matched by steadiness. A Physéra _mârendândôs_ (master) who has spent forty years perfecting the alchemical processes of a single chapter's laboratory commands immense respect within the fellowship—more, perhaps, than a younger mage of greater raw talent who has not yet proven their endurance.
+The fellowship's internal culture prizes reliability, deep knowledge, and long service. Advancement is slow and seniority-weighted; the Zulen (fellowship) has little patience for prodigies who have not yet demonstrated that their brilliance is matched by steadiness. A Fisera _marendos_ (master) who has spent forty years perfecting the alchemical processes of a single chapter's laboratory commands immense respect within the fellowship—more, perhaps, than a younger mage of greater raw talent who has not yet proven their endurance.
 
-Politically, the Zûlêthâlon Physéra is a stabilizing force within the Order. Its members instinctively resist sudden change, defend established practices, and prioritize institutional continuity over reform. This conservatism makes the fellowship a natural ally of Sidéros in most governance debates, and the Earth-Metal bloc is the Order's most formidable obstacle to any faction that proposes rapid institutional change. Critics describe this as reactionary; the fellowship's members describe it as responsible stewardship of an institution that has survived for centuries by not rushing into things.
+Politically, the Zulen Fisera is a stabilizing force within the Order. Its members instinctively resist sudden change, defend established practices, and prioritize institutional continuity over reform. This conservatism makes the fellowship a natural ally of Sideris in most governance debates, and the Earth-Metal bloc is the Order's most formidable obstacle to any faction that proposes rapid institutional change. Critics describe this as reactionary; the fellowship's members describe it as responsible stewardship of an institution that has survived for centuries by not rushing into things.
 
 ## See Also
 
-- [[affiliation-hexhodai|Ksêmor Hodhîs]]—The Ksêmor Hodhîs framework
-- [[affiliation-pneumenos|Rhéshin Neuménos]]—The opposing _rhéshin_
-- [[affiliation-zepharis|Rhéshin Zepharis]]—Adjacent _rhéshin_ (the natural world)
-- [[affiliation-hydalis|Rhéshin Hydalis]]—Adjacent _rhéshin_ (sustenance and growth)
-- [[affiliation-ordoarcanis|Thôrdimâlon]]—The institution that teaches and regulates Physéra magic
+- [[affiliation-hexhodai|Zemor Hodhis]]—The Zemor Hodhis framework
+- [[affiliation-pneumenos|Rhezin Neumenos]]—The opposing _rhezin_
+- [[affiliation-zepharis|Rhezin Zefaris]]—Adjacent _rhezin_ (the natural world)
+- [[affiliation-hydalis|Rhezin Hidalis]]—Adjacent _rhezin_ (sustenance and growth)
+- [[affiliation-ordoarcanis|Thordimalon]]—The institution that teaches and regulates Fisera magic

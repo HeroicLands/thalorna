@@ -1,6 +1,6 @@
 ---
 shortcode: shrzrtrb
-name: {full: Shirzâri, aliases: []}
+name: {full: Shirzari, aliases: []}
 type: affiliation
 subType: polity
 description: "A raiding tribe of the southern steppe that takes captives for ransom and measures its neighbors by what they cannot defend."
@@ -58,23 +58,23 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Shirzâri** hold the grass south of the [[affiliation-zrnshtrb|Zarnûsh]], and they take what the Zarnûsh cannot defend. They are the [[lore-sowidesclt|Sovidur]] tribe that the others point to as raiding done as a trade: a riding party strikes a distant graze, drives off the herds and takes the people who tend them, then sends a rider with the price. A captive among the Shirzâri is fed and not harmed, and a captive whose kin cannot pay is married into the tribe.
+The **Shirzari** hold the grass south of the [[affiliation-zrnshtrb|Zarnush]], and they take what the Zarnush cannot defend. They are the [[lore-sowidesclt|Sovidur]] tribe that the others point to as raiding done as a trade: a riding party strikes a distant graze, drives off the herds and takes the people who tend them, then sends a rider with the price. A captive among the Shirzari is fed and not harmed, and a captive whose kin cannot pay is married into the tribe.
 
 ## The Price
 
-The Shirzâri's demand on the Zarnûsh is fifty horses, a share of the central well at Shir-Vân and permanent grazing on the southern steppe, in return for eight people taken from a southern graze. The Zarnûsh dovaq has refused. The Shirzâri are in no hurry: each season the captives spend in a Shirzâri camp makes them more Shirzâri, and a price the Zarnûsh cannot pay today only rises as they have less left to lose.
+The Shirzari's demand on the Zarnush is fifty horses, a share of the central well at Shir-Van and permanent grazing on the southern steppe, in return for eight people taken from a southern graze. The Zarnush dovaq has refused. The Shirzari are in no hurry: each season the captives spend in a Shirzari camp makes them more Shirzari, and a price the Zarnush cannot pay today only rises as they have less left to lose.
 
 ## The Marriage Offer
 
-The Shirzâri have offered a captive girl, the daughter of the Zarnûsh war captain's blood-brother, in marriage to the son of their dovaq. They present it as generosity, and it is a way to end the quarrel without a ransom: the girl joins the dovaq's line, and the Zarnûsh have no claim to take her back. The offer expires on a day the Shirzâri have named, and the Zarnûsh are divided on whether to accept.
+The Shirzari have offered a captive girl, the daughter of the Zarnush war captain's blood-brother, in marriage to the son of their dovaq. They present it as generosity, and it is a way to end the quarrel without a ransom: the girl joins the dovaq's line, and the Zarnush have no claim to take her back. The offer expires on a day the Shirzari have named, and the Zarnush are divided on whether to accept.
 
 ## Caravans
 
-The Shirzâri sell passage to anyone who can pay and do not sell it twice. A caravan that crosses their grass uninvited pays the price in goods, and its guards pay in the trouble of being searched. The tribe takes caravan tolls as its right and the Zarnûsh's herds as its sport.
+The Shirzari sell passage to anyone who can pay and do not sell it twice. A caravan that crosses their grass uninvited pays the price in goods, and its guards pay in the trouble of being searched. The tribe takes caravan tolls as its right and the Zarnush's herds as its sport.
 
 ## See Also
 
 - [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
-- [[affiliation-zrnshtrb|Zarnûsh]]—the tribe whose people the Shirzâri hold
-- [[affiliation-zrdntrb|Âzardan]], [[affiliation-drmndtrb|Dûrmand]]—the other great tribes of the central steppe
+- [[affiliation-zrnshtrb|Zarnush]]—the tribe whose people the Shirzari hold
+- [[affiliation-zrdntrb|Azardan]], [[affiliation-drmndtrb|Durmand]]—the other great tribes of the central steppe
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the tribe grazes

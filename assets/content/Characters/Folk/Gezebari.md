@@ -1,6 +1,6 @@
 ---
 shortcode: gezebari2
-name: {full: Gezebari, aliases: [Gezê]}
+name: {full: Gezebari, aliases: [Geze]}
 type: being
 subType: npc
 description: "A merchant-prince dealing in fine goods, whose caravans move what the capital's houses want and cannot get elsewhere"

@@ -1,6 +1,6 @@
 ---
 shortcode: osmndwnwck
-name: {full: Osmund Winwick, aliases: []}
+name: {full: Hildstan Winwik, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -396,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Osmund Winwick is a 33-year-old man who stands 5'8" tall and is of moderate build. He has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a rounded chin. His piercing green eyes sit beneath expressive brows, lending him a penetrating gaze. A slightly upturned nose and expressive lips complete his features. He has light skin with a fair complexion. His auburn hair is short and swept back.
+Hildstan Winwik is a 33-year-old man who stands 5'8" tall and is of moderate build. He has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a rounded chin. His piercing green eyes sit beneath expressive brows, lending him a penetrating gaze. A slightly upturned nose and expressive lips complete his features. He has light skin with a fair complexion. His auburn hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Osmund Winwick is a mercantyler (supercargo).
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Hildstan Winwik is a mercantyler (supercargo).
 
-Osmund is a seasoned mercantyler specializing in ocean trade. As a supercargo, he oversees the cargo on ships, ensuring that goods are loaded, unloaded, and transported safely. With years of experience sailing between ports, Osmund has developed a understanding of maritime laws and trade routes. He is respected in the mercantile community for his negotiation skills and ability to resolve disputes.
+Hildstan is a seasoned mercantyler specializing in ocean trade. As a supercargo, he oversees the cargo on ships, ensuring that goods are loaded, unloaded, and transported safely. With years of experience sailing between ports, Hildstan has developed a understanding of maritime laws and trade routes. He is respected in the mercantile community for his negotiation skills and ability to resolve disputes.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ Can be overly cautious, struggles with paperwork and bureaucracy.
 
 ### Motivation
 
-Osmund wants the cargo entrusted to him delivered safely, and uses his knowledge of trade routes and maritime law to settle disputes.
+Hildstan wants the cargo entrusted to him delivered safely, and uses his knowledge of trade routes and maritime law to settle disputes.
 
 ### Strengths
 
@@ -420,13 +420,13 @@ Knowledgeable about maritime trade, excellent negotiator, good leadership skills
 
 ## Social
 
-Osmund is affiliated with Local Merchant's Guild.
+Hildstan is affiliated with Local Merchant's Guild.
 
 ## Companions
 
 ### Patrons
 
-Ship captains and trading companies hire Osmund to supervise their cargo.
+Ship captains and trading companies hire Hildstan to supervise their cargo.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Few; generally well-respected.
 
 ## Plot Hooks
 
-1. **The Mercantyler (Supercargo)'s Dilemma**—Osmund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Mercantyler (Supercargo)'s Dilemma**—Hildstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Osmund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Hildstan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Osmund depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Hildstan depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Osmund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Hildstan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -1,6 +1,6 @@
 ---
 shortcode: linzemnkhlth
-name: {full: Lin'Zemnu elu Aû'Khelâthu, aliases: [The Artisans' Guild of Aû'Khelâthu]}
+name: {full: Lin'Zemnu elu Au'Khelathu, aliases: [The Artisans' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the empire's artisans, which benefits from the prestige of its finest members and disapproves of most of what they do to earn it
@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Zemnu elu Aû'Khelâthu** is the chartered guild of the artisans of [[place-aukhelathrgq|Aû'Khelâthu]], a broad membership that takes in every craft with no guild of its own. Its prestige rests on the reputations of its finest members, and it claims their credit while disapproving of most of the methods that earned it.
+**Lin'Zemnu elu Au'Khelathu** is the chartered guild of the artisans of [[place-aukhelathrgq|Au'Khelathu]], a broad membership that takes in every craft with no guild of its own. Its prestige rests on the reputations of its finest members, and it claims their credit while disapproving of most of the methods that earned it.
 
 ## Character
 
@@ -56,5 +56,5 @@ Say a carver takes a commission that none of the guild's regulations would allow
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire the guild's membership spans
+- [[place-aukhelathrgq|Au'Khelathu]]—The empire the guild's membership spans
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

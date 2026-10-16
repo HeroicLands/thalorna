@@ -1,6 +1,6 @@
 ---
 shortcode: cardnchrns
-name: {full: Karedèn Charnìs, aliases: []}
+name: {full: Kareden Charnis, aliases: []}
 type: being
 subType: npc
 tags: [draft, clergy]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Karedèn Charnìs is a 62-year-old man who stands 5'6" tall and is of moderate build. He has a long face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His narrow brown eyes sit beneath straight brows, lending him a keen gaze. An aquiline nose and expressive lips complete his features. He has light skin with a bronzed complexion. His white hair is short and swept back.
+Kareden Charnis is a 62-year-old man who stands 5'6" tall and is of moderate build. He has a long face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His narrow brown eyes sit beneath straight brows, lending him a keen gaze. An aquiline nose and expressive lips complete his features. He has light skin with a bronzed complexion. His white hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Karedèn Charnìs came into the world of the shaman through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Kareden Charnis came into the world of the shaman through a combination of circumstance and aptitude.
 
-Karedèn is a respected shaman who has guided his tribe for decades, serving as a healer, spiritual advisor, and keeper of ancient traditions. He communicates with the spirits of nature and the ancestors, often leading rituals to ensure the tribe’s prosperity. While age has diminished his physical strength, his wisdom is highly valued, and his influence remains strong.
+Kareden is a respected shaman who has guided his tribe for decades, serving as a healer, spiritual advisor, and keeper of ancient traditions. He communicates with the spirits of nature and the ancestors, often leading rituals to ensure the tribe’s prosperity. While age has diminished his physical strength, his wisdom is highly valued, and his influence remains strong.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Physically frail due to age, occasionally struggles with more demanding tasks.
 
 ### Motivation
 
-Karedèn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shaman work keep him vigilant and adaptable.
+Kareden is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shaman work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Knowledgeable in herbal healing, rituals, and spiritual matters.
 
 ## Social
 
-Karedèn is affiliated with Tribal Spiritual Council.
+Kareden is affiliated with Tribal Spiritual Council.
 
-As a Provenzian shaman, Karedèn occupies a recognized social niche within Provènzia society.
+As a Provenzian shaman, Kareden occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Karedèn's primary patron is The tribe's chieftain, who seeks his counsel. This relationship provides both opportunity and obligation.
+Kareden's primary patron is The tribe's chieftain, who seeks his counsel. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Rival shamans who question his methods and beliefs.
 
 ## Plot Hooks
 
-1. **The Shaman's Dilemma**—Karedèn faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Shaman's Dilemma**—Kareden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
 
 2. **Old Grudges**—Rival shamans who question his methods and beliefs. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Karedèn's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Kareden's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Karedèn depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Kareden depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Karedèn the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kareden the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

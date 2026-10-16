@@ -1,9 +1,9 @@
 ---
 shortcode: thruldmyl
-name: {full: Thruldmýl, aliases: [Duke Thruldmýl]}
+name: {full: Thruldmil, aliases: [Duke Thruldmil]}
 type: being
 subType: npc
-description: Duke of Vithgard and the primary patron who employs Tvalgthann Blóthöll for court entertainment.
+description: Duke of Vithgard and the primary patron who employs Tvalgthann Bletholl for court entertainment.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Thruldmýl is a 52-year-old man who stands 5'11" tall with a medium build. He has fair skin, weathered complexion, dark brown hair, and hazel eyes.
+Thruldmil is a 52-year-old man who stands 5'11" tall with a medium build. He has fair skin, weathered complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Thruldmýl is the duke of Vithgard and the primary patron who employs [[being-tvlgthnblthl|Tvalgthann Blóthöll]] for court entertainment. He employs Tvalgthann's talents for court entertainment and subtle political messaging.
+Thruldmil is the duke of Vithgard and the primary patron who employs [[being-tvlgthnblthl|Tvalgthann Bletholl]] for court entertainment. He employs Tvalgthann's talents for court entertainment and subtle political messaging.

@@ -28,4 +28,4 @@ The Shaman holds the strongest of the village's three seats, but the other two e
 
 - [[place-falkhaven|Falkhaven]]—the reach around the village
 - [[place-falkensten|Falkenstein]] and [[place-edrhaven|Edrhaven]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—the wider web of independent villages
+- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages

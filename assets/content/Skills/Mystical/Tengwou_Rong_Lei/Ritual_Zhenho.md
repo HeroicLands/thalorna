@@ -1,6 +1,6 @@
 ---
 shortcode: zhenho
-name: {full: "Ritual: Zhénhò", aliases: [Zhénhò, The Minister of Fire]}
+name: {full: "Ritual: Zhenho", aliases: [Zhenho, The Minister of Fire]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-zhenho|Zhénhò]]
+See [[affiliation-zhenho|Zhenho]]

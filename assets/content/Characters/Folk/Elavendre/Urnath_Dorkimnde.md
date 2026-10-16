@@ -1,9 +1,9 @@
 ---
 shortcode: urnathdorkim
-name: {full: Úrnath Dórkimndë, aliases: [Lord Úrnath the Cruel, Lord Úrnath]}
+name: {full: Urnath Dórkimnde, aliases: [Lord Urnath the Cruel, Lord Urnath]}
 type: being
 subType: npc
-description: A nobleman whose cruelty toward servants and dependents violated every principle Ídrisè Kórisvar holds.
+description: A nobleman whose cruelty toward servants and dependents violated every principle Ídrise Kórisvar holds.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Úrnath Dórkimndë is a 44-year-old man who stands 5'10" tall with a light build. He has medium skin, weathered complexion, dark blonde hair, and green eyes.
+Urnath Dórkimnde is a 44-year-old man who stands 5'10" tall with a light build. He has medium skin, weathered complexion, dark blonde hair, and green eyes.
 
 # Dossier {#dossier}
 
-Úrnath Dórkimndë is a nobleman called the Cruel for his treatment of servants and dependents. His cruelty violated every principle that [[being-idriskrsvr|Ídrisè Kórisvar]] holds.
+Urnath Dórkimnde is a nobleman called the Cruel for his treatment of servants and dependents. His cruelty violated every principle that [[being-idriskrsvr|Ídrise Kórisvar]] holds.

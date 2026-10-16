@@ -1,9 +1,9 @@
 ---
 shortcode: siremalinthi
-name: {full: Sîrêmâ Lînthimândis, aliases: [Mother Sîrêmâ]}
+name: {full: Sirema Linthimis, aliases: [Mother Sirema]}
 type: being
 subType: npc
-description: An elderly priestess of Lîzêlâs in the Temple hierarchy who maintains institutional support for Rêvôthar Bàremzâtôr.
+description: An elderly priestess of Lizelas in the Temple hierarchy who maintains institutional support for Revothar Baremzator.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Sîrêmâ Lînthimândis is a 74-year-old woman who stands 5'6" tall with a heavy build. She has tanned skin, weathered complexion, black hair, and brown eyes.
+Sirema Linthimis is a 74-year-old woman who stands 5'6" tall with a heavy build. She has tanned skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Sîrêmâ Lînthimândis is an elderly priestess of Lîzêlâs in the Temple hierarchy. Sîrêmâ maintains institutional support for the circuit of [[being-rvthrbrmztr|Rêvôthar Bàremzâtôr]], despite private reservations about his radical sympathies.
+Sirema Linthimis is an elderly priestess of Lizelas in the Temple hierarchy. Sirema maintains institutional support for the circuit of [[being-rvthrbrmztr|Revothar Baremzator]], despite private reservations about his radical sympathies.

@@ -1,6 +1,6 @@
 ---
 shortcode: risksbrths
-name: {full: Rísàkós Ibârìthôs, aliases: []}
+name: {full: Rísakos Ibarithos, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Rísàkós Ibârìthôs is a 46-year-old man who stands 5'8" tall and is of moderate build. He has a long face with prominent cheekbones, a high forehead, and a square jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows, lending him a lively gaze. A straight nose and firm lips complete his features. He has olive skin with a clear complexion. His black hair is tied in a low tail.
+Rísakos Ibarithos is a 46-year-old man who stands 5'8" tall and is of moderate build. He has a long face with prominent cheekbones, a high forehead, and a square jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows, lending him a lively gaze. A straight nose and firm lips complete his features. He has olive skin with a clear complexion. His black hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Rísàkós Ibârìthôs came into the world of the apothecary through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Rísakos Ibarithos came into the world of the apothecary through a combination of circumstance and aptitude.
 
-Rísàkós began as an assistant to an apothecary who dealt with both legitimate medicine and more questionable practices. He learned a wide variety of skills, from crafting remedies to mixing poisons. He now runs a small apothecary shop on the outskirts of town, where he serves both the desperate and the morally dubious.
+Rísakos began as an assistant to an apothecary who dealt with both legitimate medicine and more questionable practices. He learned a wide variety of skills, from crafting remedies to mixing poisons. He now runs a small apothecary shop on the outskirts of town, where he serves both the desperate and the morally dubious.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Morally flexible and willing to bend the rules for the right price.
 
 ### Motivation
 
-Rísàkós is driven by the desire to master his craft and secure a stable future. The uncertainties of life in apothecary work keep him vigilant and adaptable.
+Rísakos is driven by the desire to master his craft and secure a stable future. The uncertainties of life in apothecary work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Extensive knowledge of toxins and antidotes.
 
 ## Social
 
-Rísàkós is affiliated with Underground Apothecaries.
+Rísakos is affiliated with Underground Apothecaries.
 
-As a Helionite apothecary, Rísàkós occupies a recognized social niche within Heliónis society.
+As a Helionite apothecary, Rísakos occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Rísàkós's primary patron is Criminals, mercenaries, and desperate people. This relationship provides both opportunity and obligation.
+Rísakos's primary patron is Criminals, mercenaries, and desperate people. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ The city watch, who are suspicious of his dealings.
 
 ## Plot Hooks
 
-1. **The Apothecary's Dilemma**—Rísàkós faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Apothecary's Dilemma**—Rísakos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—The city watch, who are suspicious of his dealings. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Rísàkós's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Rísakos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Rísàkós depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Rísakos depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Rísàkós the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Rísakos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

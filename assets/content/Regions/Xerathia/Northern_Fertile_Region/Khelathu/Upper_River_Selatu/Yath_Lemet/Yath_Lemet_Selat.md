@@ -3,7 +3,7 @@ shortcode: yathlemetslt
 name: {full: Yath-Lemet Selat, aliases: []}
 type: place
 subType: region
-description: "The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing—the land of the Selat of Yath-Lemet, one of the upper-river selatu of Aû'Khelâthu."
+description: "The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing—the land of the Selat of Yath-Lemet, one of the upper-river selatu of Au'Khelathu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -19,7 +19,7 @@ data:
 
 "Watch the banks, not the water," a river pilot tells a passenger entering the gorge of [[place-yathlemet|Yath-Lemet]]. "The cliffs come in until you could throw a stone across. The farms are on that thin strip under them, and so are the beasts."
 
-**Yath-Lemet Selat** is the land of the [[affiliation-selatyathlmt|Selat of Yath-Lemet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Yath-Lemet Selat** is the land of the [[affiliation-selatyathlmt|Selat of Yath-Lemet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -43,5 +43,5 @@ Yath-Lemet runs on the flood and the harvest on a smaller scale than any other u
 ## See Also
 
 - [[affiliation-selatyathlmt|The Selat of Yath-Lemet]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
 - [[place-yathlemet|Yath-Lemet]]—Selat capital

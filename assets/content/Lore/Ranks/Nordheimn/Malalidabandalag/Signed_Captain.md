@@ -3,7 +3,7 @@ shortcode: signedcaptnrnk
 name: {full: "Signed Captain", aliases: []}
 type: lore
 subType: law
-description: "Swears the Compact before the Council of the Hall and wears the bandalagshringr, in Málalidabandalag."
+description: "Swears the Compact before the Council of the Hall and wears the bandlagshringr, in Málalidabandalag."
 tags: []
 data: {culture: nordheimnclt}
 ---
@@ -12,7 +12,7 @@ A captain who swears a company into the Compact at [[place-hringstead|Hringstead
 
 ## What This Standing Is
 
-A signed captain swears his company into the Compact before the **Council of the Hall**, binding it to accept the Compact's rulings, honor sworn terms, declare any contract against another signed company, and pay the Hall's annual due. He wears the bandalagshringr, a bronze ring on the right thumb bearing the Compact's mark and his own sigil, awarded at the swearing.
+A signed captain swears his company into the Compact before the **Council of the Hall**, binding it to accept the Compact's rulings, honor sworn terms, declare any contract against another signed company, and pay the Hall's annual due. He wears the bandlagshringr, a bronze ring on the right thumb bearing the Compact's mark and his own sigil, awarded at the swearing.
 
 ## How the Law Treats a Person Here
 
@@ -28,7 +28,7 @@ He keeps the Compact's standing rules on his company's behalf, pays the Hall's a
 
 ## Offices Open at This Standing
 
-A seat on the Council of the Hall—one of the three for the longest-standing companies, one of the three rotating seats for junior signed companies, or, for a retired captain of particular standing, one of the three reserved for the _grákáppar_ ("gray champions")—and the Speaker of the Compact, elected by the Council for a five-year term.
+A seat on the Council of the Hall—one of the three for the longest-standing companies, one of the three rotating seats for junior signed companies, or, for a retired captain of particular standing, one of the three reserved for the _grákappar_ ("gray champions")—and the Speaker of the Compact, elected by the Council for a five-year term.
 
 ## Where This Standing Is Held
 

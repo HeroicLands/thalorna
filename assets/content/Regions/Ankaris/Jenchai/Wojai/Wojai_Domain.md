@@ -1,10 +1,10 @@
 ---
 shortcode: wojaidmn
-name: {full: Wōjai Domain, aliases: [House Wōjai]}
+name: {full: Wojai Domain, aliases: [House Wojai]}
 type: affiliation
 subType: polity
-description: "The domain of House Wōjai—Yūjai and the realm's best harbor, held from the trading town of Yūwū by an independent lord whose merchants carry Jénchài's goods to the Vedyaran coast."
-tags: [polity, Jénchài, domain, trading]
+description: "The domain of House Wojai—Yujai and the realm's best harbor, held from the trading town of Yuwu by an independent lord whose merchants carry Jenchai's goods to the Vedyaran coast."
+tags: [polity, Jenchai, domain, trading]
 data:
   icon: null
   templatePriority: null
@@ -14,7 +14,7 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held of the Emperor by patent by the Daozhuo Wōjai Dōja, who sits at Yūwū and governs the mountain through his retainers, the headmen of its villages and the Wōjū who keep its harbors.
+      Held of the Emperor by patent by the Daozhuo Wojai Doja, who sits at Yuwu and governs the mountain through his retainers, the headmen of its villages and the Woju who keep its harbors.
     ranks:
       - level: 0
         title: Outlaw
@@ -23,13 +23,13 @@ data:
       - level: 1
         title: Subject
         description: >-
-          Lives or holds land under the Daozhuo of Wōjai.
+          Lives or holds land under the Daozhuo of Wojai.
       - level: 2
         title: Retainer
         description: >-
           Serves the Daozhuo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and ships.
       - level: 3
-        title: Shuìzhuo
+        title: Shuizhuo
         description: >-
           Holds one to three villages of the domain and owes the Daozhuo men in war.
       - level: 4
@@ -39,9 +39,9 @@ data:
       - level: 5
         title: Daozhuo
         description: >-
-          Holds Yūjai by the Emperor's patent, with his own army, fleet, justice and taxes.
+          Holds Yujai by the Emperor's patent, with his own army, fleet, justice and taxes.
     offices:
-      Keeper of the Harbors: Held by the Wōjū, who keep the roll of the anchorages, moorings and tolls of the domain.
+      Keeper of the Harbors: Held by the Woju, who keep the roll of the anchorages, moorings and tolls of the domain.
   seat: yuwu
   population: 70000
   economy: []
@@ -53,42 +53,42 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-**House Wōjai** (Sea Place) holds **Yūjai** (Moon Peak), the mountain on the south coast of the great island and the site of the best harbor in the realm, by patent of the Emperor. Its lord is the Daozhuo **Wōjai Dōja** (Great Blade), fifty-six years old, who sits in the castle town of **Yūwū** (Moon Hall), population 9,000, the largest seat of the eight houses. The domain holds 70,000 people, is assessed at 52,000 bales a year, and musters 1,300 men and 40 hulls. Wōjai is independent of both blocs, and Dōja has named his price to nobody.
+**House Wojai** (Sea Place) holds **Yujai** (Moon Peak), the mountain on the south coast of the great island and the site of the best harbor in the realm, by patent of the Emperor. Its lord is the Daozhuo **Wojai Doja** (Great Blade), fifty-six years old, who sits in the castle town of **Yuwu** (Moon Hall), population 9,000, the largest seat of the eight houses. The domain holds 70,000 people, is assessed at 52,000 bales a year, and musters 1,300 men and 40 hulls. Wojai is independent of both blocs, and Doja has named his price to nobody.
 
 ## The Land
 
-Yūjai's south face opens on a deep bay. The harbor takes the ships of the domain, of the other mountains and of the foreign trade, and the lord's money comes from it before it comes from the land. Showō, the merchants' anchorage, pays the lord in tolls; Ronū pays the court in rice and silk.
+Yujai's south face opens on a deep bay. The harbor takes the ships of the domain, of the other mountains and of the foreign trade, and the lord's money comes from it before it comes from the land. Showo, the merchants' anchorage, pays the lord in tolls; Ronu pays the court in rice and silk.
 
 Of the 52,000 bales on the roll, the three villages below are named; the rest comes from smaller terraces and coastal holdings under their headmen.
 
 | Village | Meaning         | Kind         | Holder                                  | Livelihood                      | Assessed |
 | ------- | --------------- | ------------ | --------------------------------------- | ------------------------------- | -------: |
-| Showō   | Trade Sea       | Demesne      | The lord's granary at Yūwū              | The merchants' anchorage; tolls |      900 |
-| Ronū    | Flower Terraces | Court estate | The Emperor, through the lord's granary | Rice, mulberry and silk         |    1,700 |
-| Shodū   | Trade Road      | Fief         | The Wōjū                                | The pack road inland            |    1,200 |
+| Showo   | Trade Sea       | Demesne      | The lord's granary at Yuwu              | The merchants' anchorage; tolls |      900 |
+| Ronu    | Flower Terraces | Court estate | The Emperor, through the lord's granary | Rice, mulberry and silk         |    1,700 |
+| Shodu   | Trade Road      | Fief         | The Woju                                | The pack road inland            |    1,200 |
 
-The summit shrine of Yūjai is provisioned from the lord's villages, and its Tānchéi read the mountain for a lord whose standing rests on trade as much as on rice.
+The summit shrine of Yujai is provisioned from the lord's villages, and its Tanchéi read the mountain for a lord whose standing rests on trade as much as on rice.
 
 ## Retainers
 
-The **Wōjū** keep the harbors and hold Shodū as their fief; every berth, mooring and toll of the domain is entered in their roll. Dōja's judges, chosen from his retainers, hear the harbor disputes that the anchorage at Showō and the quays at Yūwū produce.
+The **Woju** keep the harbors and hold Shodu as their fief; every berth, mooring and toll of the domain is entered in their roll. Doja's judges, chosen from his retainers, hear the harbor disputes that the anchorage at Showo and the quays at Yuwu produce.
 
 ## Hulls and Muster
 
-The muster is 1,300 men and 40 hulls. A Wōjai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jénchài's blades, lacquer, silk and salt out through the bay to the Vedyaran coast, and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-suryasamdra|Sūrya-samudra]], which is closed to shipping for four months of the year, and the Shuonong merchants of Yūwū finance the voyages.
+The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the Vedyaran coast, and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-suryasamdra|Surva-samedra]], which is closed to shipping for four months of the year, and the Shuonong merchants of Yuwu finance the voyages.
 
 ## Relations
 
-Wōjai belongs to neither bloc, and Dōja's choice decides the balance: Wōjai joining either the Strait bloc or the loyalists ends the equilibrium of the Nine. In 709 AF Wōjai and Shuiwōjai pressed the court not to confer the office of Téng Ja on a regency, and the War of the Empty Seat followed.
+Wojai belongs to neither bloc, and Doja's choice decides the balance: Wojai joining either the Strait bloc or the loyalists ends the equilibrium of the Nine. In 709 AF Wojai and Shuiwojai pressed the court not to confer the office of Teng Ja on a regency, and the War of the Empty Seat followed.
 
 ## The Pawned Bell
 
-The court pawned the bronze bell of the Dawn Rite to a merchant house of Yūwū. The bell sounds at dawn on the first day of the year on Zojai's summit, and whoever redeems it before the New Year buys the Emperor's gratitude, which costs the Emperor nothing and is prized above silver. Dōja has the means to redeem it himself, and he is deciding whom among the houses to let do it.
+The court pawned the bronze bell of the Dawn Rite to a merchant house of Yuwu. The bell sounds at dawn on the first day of the year on Zojai's summit, and whoever redeems it before the New Year buys the Emperor's gratitude, which costs the Emperor nothing and is prized above silver. Doja has the means to redeem it himself, and he is deciding whom among the houses to let do it.
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jénchài Empire]]—the realm, the court and the eight houses
-- [[place-yujai|Yūjai]]—the mountain of the domain
-- [[place-yuwu|Yūwū]]—the castle town and seat
-- [[place-jenchairgn|Jénchài Region]]—the islands and the strait
-- [[place-suryasamdra|Sūrya-samudra]]—the eastern ocean the hulls cross
+- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
+- [[place-yujai|Yujai]]—the mountain of the domain
+- [[place-yuwu|Yuwu]]—the castle town and seat
+- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+- [[place-suryasamdra|Surva-samedra]]—the eastern ocean the hulls cross

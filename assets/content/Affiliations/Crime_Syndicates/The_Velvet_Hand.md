@@ -75,31 +75,31 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-Born from the intersection of Helionite mystery cults and the Vylarian court's insatiable appetite for intrigue, the Velvet Hand trades in the most valuable commodity of all: secrets. Where the Crimson Ledger follows the money and the Gray Tide follows the cargo, the Velvet Hand follows the whisper—the unguarded word in a bedchamber, the letter left unsealed on a _kurthândôs_'s desk, the confession extracted from a dying man by a sympathetic healer who happens to have a very good memory.
+Born from the intersection of Helionite mystery cults and the Vylarian court's insatiable appetite for intrigue, the Velvet Hand trades in the most valuable commodity of all: secrets. Where the Crimson Ledger follows the money and the Gray Tide follows the cargo, the Velvet Hand follows the whisper—the unguarded word in a bedchamber, the letter left unsealed on a _kurthos_'s desk, the confession extracted from a dying man by a sympathetic healer who happens to have a very good memory.
 
-The organization grew in Heliónis, where the Academy of the Silver Veil already trained sophisticated political agents—educated courtesans, philosophical companions, and social intermediaries. The Velvet Hand recruited from its graduates and dropouts alike, recognizing that the same skills that make an excellent hetaira also make an excellent spy. From Heliónis, the network spread to Vylaria's rigid, faction-ridden court, where information is currency and a _kurthândôs_'s valet hears more than the Senate itself. In Provènzia, theatrical troupes and artistic salons provide perfect cover for operatives who can adopt any persona.
+The organization grew in Helionis, where the Academy of the Silver Veil already trained sophisticated political agents—educated courtesans, philosophical companions, and social intermediaries. The Velvet Hand recruited from its graduates and dropouts alike, recognizing that the same skills that make an excellent hetairin also make an excellent spy. From Helionis, the network spread to Vylaria's rigid, faction-ridden court, where information is currency and a _kurthos_'s valet hears more than the Senate itself. In Provenzia, theatrical troupes and artistic salons provide perfect cover for operatives who can adopt any persona.
 
 ## Territory
 
-**Primary:** Vylarian cities (especially Ôrzâra and Alêssâ), Provenzian courts and cultural centers, Helionite city-states (Thyrenae, Pelagora, Kalydria)
+**Primary:** Vylarian cities (especially Orzara and Alessa), Provenzian courts and cultural centers, Helionite city-states (Thirenae, Pelagora, Kalidria)
 
-**Secondary:** The Velvet Hand maintains small cells in every major city where powerful people gather. A single agent in a Tarûzelian guild hall or a Ta.Khelâthi court can be worth more than a dozen enforcers.
+**Secondary:** The Velvet Hand maintains small cells in every major city where powerful people gather. A single agent in a Taruzelian guild hall or a Ta.Khelathi court can be worth more than a dozen enforcers.
 
 ## Operations
 
 **Espionage:** The core business. The Velvet Hand maintains networks of informants in the households of the powerful—servants, tutors, musicians, courtesans, personal physicians. These agents collect information passively, reporting on conversations overheard, visitors received, letters glimpsed, moods observed. The intelligence is collated by handlers and sold to interested parties: rival nobles, foreign governments, competing merchants, or the other syndicates.
 
-**Blackmail:** Information gathered through espionage is weaponized. A _kurthândôs_'s affair, a merchant's fraudulent books, a priest's crisis of faith—all become leverage. The Velvet Hand rarely makes crude threats; instead, a target receives a polite note suggesting that a "mutual friend" would appreciate a small favor. The implicit alternative is never stated but universally understood.
+**Blackmail:** Information gathered through espionage is weaponized. A _kurthos_'s affair, a merchant's fraudulent books, a priest's crisis of faith—all become leverage. The Velvet Hand rarely makes crude threats; instead, a target receives a polite note suggesting that a "mutual friend" would appreciate a small favor. The implicit alternative is never stated but universally understood.
 
-**Political assassination:** The Velvet Hand's most feared service. Kills are designed to look natural—poison in wine, a fall from a balcony, a sudden illness. Blade work is considered crude and is reserved for messages. The organization maintains a small cadre of specialist poisoners, some trained in Helionite pharmaceutical traditions, others in Ta.Khelâthi embalming arts.
+**Political assassination:** The Velvet Hand's most feared service. Kills are designed to look natural—poison in wine, a fall from a balcony, a sudden illness. Blade work is considered crude and is reserved for messages. The organization maintains a small cadre of specialist poisoners, some trained in Helionite pharmaceutical traditions, others in Ta.Khelathi embalming arts.
 
-**Theft of sensitive documents:** State secrets, trade agreements, military plans, Thôrdimâlon (the Arcane Order) research notes—anything written down can be copied or stolen. The Velvet Hand's document forgers are among the best in the world, capable of producing copies indistinguishable from originals.
+**Theft of sensitive documents:** State secrets, trade agreements, military plans, Thordimalon (the Arcane Order) research notes—anything written down can be copied or stolen. The Velvet Hand's document forgers are among the best in the world, capable of producing copies indistinguishable from originals.
 
 ## Organization
 
-The Velvet Hand operates in isolated cells, each knowing only its immediate handler. A pleasure house madam in Ôrzâra might manage six informants but knows nothing about operations in Provènzia. Handlers report to regional coordinators, who communicate through coded letters delivered via the Velvet Hand's own courier network—often traveling performers or itinerant scholars whose movements attract no suspicion.
+The Velvet Hand operates in isolated cells, each knowing only its immediate handler. A pleasure house madam in Orzara might manage six informants but knows nothing about operations in Provenzia. Handlers report to regional coordinators, who communicate through coded letters delivered via the Velvet Hand's own courier network—often traveling performers or itinerant scholars whose movements attract no suspicion.
 
-Leadership is deliberately opaque. The organization is rumored to be run by a council, possibly based in Heliónis, but no one outside the highest levels knows for certain. This ambiguity is intentional—you cannot betray what you do not know, and you cannot decapitate what you cannot find.
+Leadership is deliberately opaque. The organization is rumored to be run by a council, possibly based in Helionis, but no one outside the highest levels knows for certain. This ambiguity is intentional—you cannot betray what you do not know, and you cannot decapitate what you cannot find.
 
 Legitimate fronts include pleasure houses, theaters, art dealerships, and a handful of prestigious servant placement agencies. The last are particularly valuable: when a noble family hires a new chambermaid or cook through a Hand-controlled agency, the organization gains a permanent listening post inside that household.
 

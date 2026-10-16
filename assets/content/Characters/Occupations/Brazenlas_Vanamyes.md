@@ -1,6 +1,6 @@
 ---
 shortcode: brznlsvnmys
-name: {full: Brazenlâs Vânamyês, aliases: []}
+name: {full: Brazenlas Vanamyes, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -396,23 +396,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Brazenlâs Vânamyês is a 52-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and a square jaw that leads to a firm chin. His piercing brown eyes sit beneath straight brows and give him a penetrating gaze. He has a straight nose and expressive lips. He has olive-tanned skin with a weathered complexion. His gray hair is cropped short.
+Brazenlas Vanamyes is a 52-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and a square jaw that leads to a firm chin. His piercing brown eyes sit beneath straight brows and give him a penetrating gaze. He has a straight nose and expressive lips. He has olive-tanned skin with a weathered complexion. His gray hair is cropped short.
 
 # Dossier {#dossier}
 
-Brazenlâs Vânamyês is an embalmer of Korvênâra, the garrison town in the Alêssan heartland of [[place-vylariargn|Vylaría]], a Vylarian freeman and the third of his line in the trade, who has prepared the dead of the town and its garrison for thirty years by his grandfather's methods.
+Brazenlas Vanamyes is an embalmer of Korvenara, the garrison town in the Alessan heartland of [[place-vylariargn|Vylaria]], a Vylarian freeman and the third of his line in the trade, who has prepared the dead of the town and its garrison for thirty years by his grandfather's methods.
 
-Brazenlâs holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the guild, who use the quicker preparations from Ôrzâra, find him a reproach.
+Brazenlas holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the guild, who use the quicker preparations from Orzara, find him a reproach.
 
 ## Psyche
 
 ### Personality
 
-Brazenlâs is grave, exact and distant, and seems to prefer the dead, whose needs he understands, to the living.
+Brazenlas is grave, exact and distant, and seems to prefer the dead, whose needs he understands, to the living.
 
 ### Motivation
 
-Brazenlâs wants every corpse that comes to him prepared correctly, because the soul's passage depends on it. He wants the house to continue after him, and he has no son and has not chosen an apprentice.
+Brazenlas wants every corpse that comes to him prepared correctly, because the soul's passage depends on it. He wants the house to continue after him, and he has no son and has not chosen an apprentice.
 
 ### Strengths
 
@@ -420,24 +420,24 @@ Experienced, skilled in the traditional rites and preservations, wholly dedicate
 
 ## Social
 
-Brazenlâs is a master of the Morticians' Guild of Korvênâra and attends its meetings to vote against every change in method.
+Brazenlas is a master of the Morticians' Guild of Korvenara and attends its meetings to vote against every change in method.
 
 ## Companions
 
 ### Patrons
 
-Brazenlâs's patrons are the old families of Korvênâra, who want the rite their grandparents had, and the garrison's quartermaster, who sends him the legion's dead.
+Brazenlas's patrons are the old families of Korvenara, who want the rite their grandparents had, and the garrison's quartermaster, who sends him the legion's dead.
 
 ### Enemies
 
-The younger embalmers of the guild, who use the Ôrzâra preparations and would have the guild drop the old rite from its standard; their leader wants the garrison contract.
+The younger embalmers of the guild, who use the Orzara preparations and would have the guild drop the old rite from its standard; their leader wants the garrison contract.
 
 ## Plot Hooks
 
-1. **The Garrison's Dead**—A fever in the barracks has given Brazenlâs forty bodies in a week and the quartermaster wants them ready in three days, which the full rite will not allow.
+1. **The Garrison's Dead**—A fever in the barracks has given Brazenlas forty bodies in a week and the quartermaster wants them ready in three days, which the full rite will not allow.
 
-2. **A New Rite**—The daughter of an old family wants her father buried with a rite from the capital that Brazenlâs holds to be worthless and has asked him to perform it because her father trusted no one else.
+2. **A New Rite**—The daughter of an old family wants her father buried with a rite from the capital that Brazenlas holds to be worthless and has asked him to perform it because her father trusted no one else.
 
-3. **The Body That Should Not Be Embalmed**—A body has come from the garrison with a clerk's tally and a wound that no fever made, and Brazenlâs has been told to prepare it quickly. The quartermaster's clerk knows what he has seen.
+3. **The Body That Should Not Be Embalmed**—A body has come from the garrison with a clerk's tally and a wound that no fever made, and Brazenlas has been told to prepare it quickly. The quartermaster's clerk knows what he has seen.
 
-4. **No Heir**—Brazenlâs has no son and has turned away every apprentice as unfit. A young embalmer who uses the new preparations has asked to learn the old rite from him, and may be the only one who ever will.
+4. **No Heir**—Brazenlas has no son and has turned away every apprentice as unfit. A young embalmer who uses the new preparations has asked to learn the old rite from him, and may be the only one who ever will.

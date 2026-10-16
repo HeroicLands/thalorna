@@ -1,15 +1,15 @@
 ---
 shortcode: yulizehrankh
-name: {full: Yulizéhran Khalkákit, aliases: [Admiral Yulizéhran Khalkákit]}
+name: {full: Yulizehran Kalkakit, aliases: [Admiral Yulizehran Kalkakit]}
 type: being
 subType: npc
-description: Admiral of the Byzarian Fleet and supreme naval commander of the Byzarian League, named in Trufios Veghekos.
+description: Admiral of the Bizarian Fleet and supreme naval commander of the Bizarian League, named in Trufios Veghekos.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [mariner, warrior]
-  occupation: Admiral of the Byzarian Fleet
+  occupation: Admiral of the Bizarian Fleet
   lore: []
   culture: byzarianclt
   homes: []
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Yulizéhran Khalkákit is a 60-year-old woman who stands 5'10" tall with a heavy build. She has tanned skin, weathered complexion, brown hair, and hazel eyes.
+Yulizehran Kalkakit is a 60-year-old woman who stands 5'10" tall with a heavy build. She has tanned skin, weathered complexion, brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Yulizéhran Khalkákit is the Admiral of the Byzarian Fleet and supreme naval commander of the [[affiliation-byzarianlg|Byzarian League]]. She holds a permanent contract with [[being-grgrsfthympls|Trufios Veghekos]] for advanced warship design and construction and shields him from bureaucratic interference.
+Yulizehran Kalkakit is the Admiral of the Bizarian Fleet and supreme naval commander of the [[affiliation-byzarianlg|Bizarian League]]. She holds a permanent contract with [[being-grgrsfthympls|Trufios Veghekos]] for advanced warship design and construction and shields him from bureaucratic interference.

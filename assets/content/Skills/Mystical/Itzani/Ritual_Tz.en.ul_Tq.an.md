@@ -1,6 +1,6 @@
 ---
 shortcode: tzenultqan
-name: {full: "Ritual: Tz'en'ul Tq'an", aliases: [Tz'en'ul Tq'an, The Sun at the World's Edge]}
+name: {full: "Ritual: Ts'en'ul Tq'an", aliases: [Ts'en'ul Tq'an, The Sun at the World's Edge]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-tzenultqan|Faith of Tz'en'ul Tq'an]]
+See [[affiliation-tzenultqan|Faith of Ts'en'ul Tq'an]]

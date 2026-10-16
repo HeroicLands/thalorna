@@ -1,6 +1,6 @@
 ---
 shortcode: khelamose
-name: {full: Khelamose, aliases: [Khelâ]}
+name: {full: Khelamose, aliases: [Khela]}
 type: being
 subType: npc
 description: "A master smith and rival, who has taken on an apprentice he should not have and is teaching what he should not teach"
@@ -36,4 +36,4 @@ Khelamose is a 31-year-old man who stands 6'2" tall with a heavy build. He has d
 
 # Dossier {#dossier}
 
-Khelamose works as a master smith out of [[place-anlaghzetun|Anlagh-Zetûn]], with a rival's eye on everything a competitor does. He has taken on an apprentice he should not have, and is teaching that apprentice what he should not teach. The rival in question does not yet know what is being prepared against them.
+Khelamose works as a master smith out of [[place-anlaghzetun|Anlagh-Zetun]], with a rival's eye on everything a competitor does. He has taken on an apprentice he should not have, and is teaching that apprentice what he should not teach. The rival in question does not yet know what is being prepared against them.

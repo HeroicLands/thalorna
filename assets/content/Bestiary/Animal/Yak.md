@@ -260,9 +260,9 @@ Yaks graze the high plateau and mountain valleys of the [[place-graznmntns|Grazi
 
 Yaks live in herds from small family bands to several hundred on the open plateau, led by dominant bulls in the rut and by experienced cows on the move. They eat highland grasses, sedges, mosses and lichens. They tolerate cold well, show heat stress at temperatures others find mild and seek higher, colder ground in warm spells. They are sure-footed on narrow trails and moraines. Wild bulls are aggressive and territorial in the rut, and cows with calves charge without hesitation. Tame yaks are placid but stubborn: they refuse dangerous trails and cannot be forced along routes they dislike.
 
-## What the Ösket Do
+## What the Osket Do
 
-The Ösket of the high valleys, in villages such as [[place-tsokhar|Tsökhar]], raise yaks and the small mountain horses bred to their altitude. Yaks carry loads on the high roads, and the hereditary guides know what a yak-route will bear and how the weather ahead of a storm behaves. A yak gives milk, butter, cheese, wool, leather and dung for fuel. A bull in rut is dangerous, and a wild herd stampedes if approached. The long hair is spun into rope and tent-cloth. Yak butter is burned in lamps in the shrines.
+The Osket of the high valleys, in villages such as [[place-tsokhar|Tsokhar]], raise yaks and the small mountain horses bred to their altitude. Yaks carry loads on the high roads, and the hereditary guides know what a yak-route will bear and how the weather ahead of a storm behaves. A yak gives milk, butter, cheese, wool, leather and dung for fuel. A bull in rut is dangerous, and a wild herd stampedes if approached. The long hair is spun into rope and tent-cloth. Yak butter is burned in lamps in the shrines.
 
 ## Signs
 

@@ -3,7 +3,7 @@ shortcode: snarvfjord
 name: {full: Snarvfjord, aliases: []}
 type: place
 subType: settlement
-description: "A fjord seat of the Nordlands and court of the cautious Jarl Hvurnvir, who decides nothing of weight without Hnirvmýl the Wise."
+description: "A fjord seat of the Nordlands and court of the cautious Jarl Hvurnvir, who decides nothing of weight without Hnirmil the Wise."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 ---
@@ -14,7 +14,7 @@ Snarvfjord is a fjord seat of the [[place-nrdlndsrgn|Nordlands]], and the songs 
 
 ## A Cautious Court
 
-In the song, Jarl Hvurnvir is a cautious ruler who makes no major decision without first hearing [[being-hnirvmylwise|Hnirvmýl the Wise]], to whom he gives shelter, resources and access to his court in exchange for guidance on war and diplomacy. The jarls of Snarvfjord have kept a counselor's seat beside their own since, and the court still runs at the pace of that caution. A petitioner who wants an answer from Snarvfjord learns to put the case to whoever sits in Hnirvmýl's seat first.
+In the song, Jarl Hvurnvir is a cautious ruler who makes no major decision without first hearing [[being-hnirvmylwise|Hnirmil the Wise]], to whom he gives shelter, resources and access to his court in exchange for guidance on war and diplomacy. The jarls of Snarvfjord have kept a counselor's seat beside their own since, and the court still runs at the pace of that caution. A petitioner who wants an answer from Snarvfjord learns to put the case to whoever sits in Hnirmil's seat first.
 
 ## The Name
 
@@ -22,5 +22,5 @@ The name warns of the water: _snarv-_ is the hour before weather arrives, and th
 
 ## See Also
 
-- [[being-hnirvmylwise|Hnirvmýl the Wise]]—the counselor of the song, whose seat the court keeps
+- [[being-hnirvmylwise|Hnirmil the Wise]]—the counselor of the song, whose seat the court keeps
 - [[place-nrdlndsrgn|Nordlands]]—the region the fjord belongs to

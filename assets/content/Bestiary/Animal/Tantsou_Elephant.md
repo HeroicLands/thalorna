@@ -1,6 +1,6 @@
 ---
 shortcode: tantsouelp
-name: {full: Tāntsou Elephant, aliases: []}
+name: {full: Tantsou Elephant, aliases: []}
 type: being
 subType: creature
 description: "A massive, highly intelligent tusked megafauna often domesticated for labor and war, yet formidable and deadly in the wild."
@@ -283,15 +283,15 @@ sohl:
 
 # Appearance {#appearance}
 
-![[tantsouelp|Tāntsou Elephant]]{float=top-left}
+![[tantsouelp|Tantsou Elephant]]{float=top-left}
 
 The road of fitted stone is wide enough for two carts, and the elephant takes up all of it. It comes on at an easy walk with a load of timber chained across its back, gray and domed of head, its ears small and close to its skull, its trunk swinging and curling as it walks. A wooden tablet on a cord hangs from the harness at its shoulder, painted with a number. The keeper walking at its head in undyed hemp touches its leg with a cane and says a word, and the animal stops dead and stands aside for you, and turns one large, steady eye on you as you pass.
 
 # Dossier {#dossier}
 
-The Tāntsou elephant is the elephant of the far east of [[place-ankrscntnnt|Ankaris]]: eight to ten feet at the shoulder, five tons and more, domed of head and small of ear, with short tusks in the bulls and none to speak of in the cows. It is the heavy laborer of the [[affiliation-tantsouempr|Empire of Tāntsou]]—hauling timber and stone, turning great water-wheels, carrying the baggage of armies and the litters of the great—and wild herds still live in the forests and grasslands of the river basins and the hills beyond the terraces. A tame one is the most valuable animal a household can own; a wild one, or a tame one gone wrong, is the most dangerous animal in the empire's settled country. It is clever enough to learn many dozens of words and to remember a face for its whole life.
+The Tantsou elephant is the elephant of the far east of [[place-ankrscntnnt|Ankaris]]: eight to ten feet at the shoulder, five tons and more, domed of head and small of ear, with short tusks in the bulls and none to speak of in the cows. It is the heavy laborer of the [[affiliation-tantsouempr|Empire of Tantsou]]—hauling timber and stone, turning great water-wheels, carrying the baggage of armies and the litters of the great—and wild herds still live in the forests and grasslands of the river basins and the hills beyond the terraces. A tame one is the most valuable animal a household can own; a wild one, or a tame one gone wrong, is the most dangerous animal in the empire's settled country. It is clever enough to learn many dozens of words and to remember a face for its whole life.
 
-The empire's bureaus have classed it, as they class everything. To the [[lore-tanchei|Tānchéi]] it is a natural kind, a life-group of the sorted world, and every tame elephant in Tāntsou is entered in a register with its number, its keeper's lineage and its work.
+The empire's bureaus have classed it, as they class everything. To the [[lore-tanchei|Tanchéi]] it is a natural kind, a life-group of the sorted world, and every tame elephant in Tantsou is entered in a register with its number, its keeper's lineage and its work.
 
 ## Presentation
 
@@ -299,15 +299,15 @@ A huge gray animal, smaller and more compact than the elephants of [[place-vedya
 
 ## In the Land
 
-Wild herds range the forests and grasslands of the [[place-tantsouregin|Tāntsou]] heartland's river basins where the terraces have not reached, and the wooded hills toward the frontiers, moving between the river margins in the dry season and the high grass in the wet. They raid the terraced fields at the forest's edge, and a herd that has learned the taste of rice comes back. Tame elephants are everywhere there is heavy work: in the timber-yards along the rivers, in the quarries, in the stables of the Warlords, and in the baggage-trains of the armies that garrison the western passes.
+Wild herds range the forests and grasslands of the [[place-tantsouregin|Tantsou]] heartland's river basins where the terraces have not reached, and the wooded hills toward the frontiers, moving between the river margins in the dry season and the high grass in the wet. They raid the terraced fields at the forest's edge, and a herd that has learned the taste of rice comes back. Tame elephants are everywhere there is heavy work: in the timber-yards along the rivers, in the quarries, in the stables of the Warlords, and in the baggage-trains of the armies that garrison the western passes.
 
 ## Key Behaviors
 
 A wild herd is a family of cows and calves led by an old cow, and it lives by her memory of water, food and danger; bulls go alone or in small groups. Elephants are close to one another, mourn their dead and stand over the bones of their kin. A bull in musth is violent and unpredictable for weeks, and even a well-trained tame bull is chained in its season. Tame elephants learn complex work, follow spoken commands, and form bonds with their keepers that last their lives; an elephant that is mistreated remembers the man who did it, and some have killed him years later.
 
-## What the Tāntsou Do
+## What the Tantsou Do
 
-Elephant-keeping is a hereditary trade in Tāntsou, passed from father to son within a lineage, and a keeper raises a young elephant from the age of four or five and works it until one of them dies. The animals belong to whoever holds their register: a Warlord, a temple, a ministry, a great household. A wild herd raiding the terraces is reported to the district office, and the office sends men to drive it off with drums and fire, or to take its young for the stables; a farmer who kills a wild elephant without leave has destroyed something the register might have claimed. In war the [[lore-wohou|Wòhou]] use elephants to carry, to haul siege engines and to break gates, and some lords put armored archers on their backs. Elephant ivory is entered in the same ledgers as gold.
+Elephant-keeping is a hereditary trade in Tantsou, passed from father to son within a lineage, and a keeper raises a young elephant from the age of four or five and works it until one of them dies. The animals belong to whoever holds their register: a Warlord, a temple, a ministry, a great household. A wild herd raiding the terraces is reported to the district office, and the office sends men to drive it off with drums and fire, or to take its young for the stables; a farmer who kills a wild elephant without leave has destroyed something the register might have claimed. In war the [[lore-wohou|Wohou]] use elephants to carry, to haul siege engines and to break gates, and some lords put armored archers on their backs. Elephant ivory is entered in the same ledgers as gold.
 
 ## Signs
 

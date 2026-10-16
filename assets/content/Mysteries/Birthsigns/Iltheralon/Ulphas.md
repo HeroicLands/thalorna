@@ -1,6 +1,6 @@
 ---
 shortcode: opsar
-name: {full: Ûlphâs, aliases: []}
+name: {full: Ulfas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Fish: easy with living things and with people, frail of body, no stomach for war."
@@ -35,7 +35,7 @@ sohl:
       hydalis: 10
 ---
 
-Ûlphâs, the Fish, closes the wheel of the year. Its natives are attuned to living things and gifted in speech and society, yet the arts of war and the strength of the body are not the gifts this sign bestows.
+Ulfas, the Fish, closes the wheel of the year. Its natives are attuned to living things and gifted in speech and society, yet the arts of war and the strength of the body are not the gifts this sign bestows.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ sohl:
 | Spirit  | Lore, Mystical            | —   |
 | Water   | Language, Social          | +10 |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

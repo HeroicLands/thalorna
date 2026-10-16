@@ -1,6 +1,6 @@
 ---
 shortcode: drshrkhrds
-name: {full: Dôrashîa Râkhrîdês, aliases: []}
+name: {full: Dorasia Rakhrides, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Dôrashîa Râkhrîdês is a 30-year-old woman who stands 5'11" tall and is of moderate build. She has a diamond face with wide-set cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her round dark brown eyes sit beneath straight brows and give her a candid gaze. She has a strong nose and thin lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is flowing past her shoulders.
+Dorasia Rakhrides is a 30-year-old woman who stands 5'11" tall and is of moderate build. She has a diamond face with wide-set cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her round dark brown eyes sit beneath straight brows and give her a candid gaze. She has a strong nose and thin lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Dôrashîa Râkhrîdês is a mercantyler.
+Born in the [[place-helionis|Helionis]] region to a noble family of Helionite heritage, Dorasia Rakhrides is a mercantyler.
 
-Dôrashîa is a savvy mercantyler who specializes in the import of spices and exotic goods from distant lands. She has built a reputation for her skill in sourcing unique products and establishing fair trade agreements. She is well-connected in both local and foreign markets, which lets her handle the complexities of trade with ease.
+Dorasia is a savvy mercantyler who specializes in the import of spices and exotic goods from distant lands. She has built a reputation for her skill in sourcing unique products and establishing fair trade agreements. She is well-connected in both local and foreign markets, which lets her handle the complexities of trade with ease.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ She can be overly competitive, and her trade leaves her little time for anything
 
 ### Motivation
 
-Dôrashîa wants her spice trade to stay ahead of her competitors and her name to be the one buyers ask for.
+Dorasia wants her spice trade to stay ahead of her competitors and her name to be the one buyers ask for.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ She has a strong understanding of foreign trade, and is persuasive and well-conn
 
 ## Social
 
-Dôrashîa belongs to the local Merchant's Guild.
+Dorasia belongs to the local Merchant's Guild.
 
 ## Companions
 
 ### Patrons
 
-Dôrashîa's patrons are the cooks and fine eating-houses seeking unique ingredients.
+Dorasia's patrons are the cooks and fine eating-houses seeking unique ingredients.
 
 ### Enemies
 
@@ -431,12 +431,12 @@ Few; generally well-respected but has competitors in the spice trade.
 
 ## Plot Hooks
 
-1. **The Mercantyler's Dilemma**—A shipment of spices arrives adulterated, and Dôrashîa has to choose between her buyers' trust and the loss of a season's profit.
+1. **The Mercantyler's Dilemma**—A shipment of spices arrives adulterated, and Dorasia has to choose between her buyers' trust and the loss of a season's profit.
 
 2. **Old Grudges**—A competitor in the spice trade decides that undercutting her is no longer enough.
 
-3. **Echoes of the Past**—A trade agreement Dôrashîa made years ago is called in by a partner she had forgotten.
+3. **Echoes of the Past**—A trade agreement Dorasia made years ago is called in by a partner she had forgotten.
 
-4. **Shifting Winds**—Political change in Heliónis threatens the markets Dôrashîa depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Helionis threatens the markets Dorasia depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—A foreign trader offers Dôrashîa a partnership beyond anything she has hoped for, and its price is not named up front.
+5. **The Opportunity**—A foreign trader offers Dorasia a partnership beyond anything she has hoped for, and its price is not named up front.

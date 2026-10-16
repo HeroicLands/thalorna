@@ -1,12 +1,12 @@
 ---
 shortcode: besikar
-name: {full: Besîkar, aliases: []}
+name: {full: Besikar, aliases: []}
 type: affiliation
 subType: polity
-description: "Largest and wealthiest city-state of the Confederation of Tarûzelian States—de facto capital where the Grand Council meets and the most powerful merchant guilds command the harbor."
+description: "Largest and wealthiest city-state of the Confederation of Taruzelian States—de facto capital where the Grand Council meets and the most powerful merchant guilds command the harbor."
 data:
   templatePriority: null
-  demonym: Besîkarian
+  demonym: Besikarian
   epithet: null
   symbol: null
   governance:
@@ -70,21 +70,21 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-The constitution of the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] names no capital. The **Grand Council** meets in Besîkar all the same, the Arch-Consul keeps his residence here, and the headquarters of the most powerful merchant guilds line its harbor, so the largest and wealthiest of the five city-states is the Confederation's capital in everything but law. The city-state holds the city of [[place-besikar2|Besîkar]] and the country around it, some three million people in all.
+The constitution of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] names no capital. The **Grand Council** meets in Besikar all the same, the Arch-Consul keeps his residence here, and the headquarters of the most powerful merchant guilds line its harbor, so the largest and wealthiest of the five city-states is the Confederation's capital in everything but law. The city-state holds the city of [[place-besikar2|Besikar]] and the country around it, some three million people in all.
 
 ## Who Decides
 
-Two governments sit in Besîkar, and a newcomer with business here needs to know which one he is dealing with. The city's official government is a **Council of Elders**, elected by property-owning citizens; its First of the Council holds the city's seal for his term, and its Chancellor, Treasurer and Harbormaster keep the charters, the revenue and the port. That council serves largely at the pleasure of the three great guilds—the [[affiliation-auricompct|Auric Compact]], the [[affiliation-corsairleg|Corsair League]] and the [[affiliation-mrchntryvl|Merchantry of the Veil]]—whose representatives control the Grand Council as well.
+Two governments sit in Besikar, and a newcomer with business here needs to know which one he is dealing with. The city's official government is a **Council of Elders**, elected by property-owning citizens; its First of the Council holds the city's seal for his term, and its Chancellor, Treasurer and Harbormaster keep the charters, the revenue and the port. That council serves largely at the pleasure of the three great guilds—the [[affiliation-auricompct|Auric Compact]], the [[affiliation-corsairleg|Corsair League]] and the [[affiliation-mrchntryvl|Merchantry of the Veil]]—whose representatives control the Grand Council as well.
 
-The Compact is the one a visitor feels first. Its headquarters is the old Vylarian _thêrkhôs_'s palace, and from there it finances the ships in the harbor, insures their cargoes and lends to the Confederation that meets down the street. Standing in the city follows the register, as everywhere on the coast: a freeman is enrolled, trades in the markets and pleads in the courts, a resident works under the city's protection without a vote, and a house head's wealth is what sends him to the council.
+The Compact is the one a visitor feels first. Its headquarters is the old Vylarian _therkos_'s palace, and from there it finances the ships in the harbor, insures their cargoes and lends to the Confederation that meets down the street. Standing in the city follows the register, as everywhere on the coast: a freeman is enrolled, trades in the markets and pleads in the courts, a resident works under the city's protection without a vote, and a house head's wealth is what sends him to the council.
 
 ## Commerce and Currency
 
-Besîkar's harbor counts its dues in the [[lore-trzlncrncy|Tarûzelian currency]], whose treasury, the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]], has its strongroom here. The coins carry the Vylarian denominations (Solden, Ardin and Bit) on Tarûzelian reserves rather than on the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and the Tarûzelian Solden is slightly underweight by the Vylarian standard. Merâzûnî-affiliated moneylenders carry the city's banking; they refuse Vylarian script, and no Vylarian house takes theirs.
+Besikar's harbor counts its dues in the [[lore-trzlncrncy|Taruzelian currency]], whose treasury, the **Merazuni** of the [[affiliation-vezakuni|Vezakuni]], has its strongroom here. The coins carry the Vylarian denominations (Solden, Ardin and Bit) on Taruzelian reserves rather than on the Vylarian [[affiliation-tarmex|Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders carry the city's banking; they refuse Vylarian script, and no Vylarian house takes theirs.
 
 ## See Also
 
-- [[place-besikar2|Besîkar]]—the city itself
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the confederation whose Council meets here
+- [[place-besikar2|Besikar]]—the city itself
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the confederation whose Council meets here
 - [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—the great guilds
-- [[affiliation-yamuzel|Yamûzel]], [[affiliation-qudumel|Qudûmel]], [[affiliation-bazunel|Bazûnel]], [[affiliation-sazumun|Sazûmun]]—the sister city-states
+- [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]], [[affiliation-sazumun|Sazumun]]—the sister city-states

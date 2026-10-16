@@ -3,7 +3,7 @@ shortcode: wardensayings
 name: {full: The Sayings of the First Warden, aliases: [The Warden's Instruction]}
 type: lore
 subType: literature
-description: "The instruction the counting-houses of the League copy out for every apprentice, said to be what Dôkharash Harmôdákit, the first Warden of the Weights, told his son on the morning he was indentured: sayings on weights, terms, the defect declared, the guest, the master, the road, the arbitrator, the dead and the gods, in the order the copies keep, with the clauses that cannot be his left in."
+description: "The instruction the counting-houses of the League copy out for every apprentice, said to be what Dokharash Harmodakit, the first Warden of the Weights, told his son on the morning he was indentured: sayings on weights, terms, the defect declared, the guest, the master, the road, the arbitrator, the dead and the gods, in the order the copies keep, with the clauses that cannot be his left in."
 tags: [draft, byzaria]
 data:
   culture: byzarianclt
@@ -20,9 +20,9 @@ data:
 # terran_analog: "The instruction literature of the ancient Near East, a father's sayings to a son entering his office; the Byzantine Strategikon and the merchant manuals of the eastern Mediterranean for advice given as clauses; and the proverb collections that gather sayings under a famous name whether or not he said them."
 ---
 
-**The Sayings of the First Warden** are the instruction every counting-house of the [[affiliation-byzarianlg|Byzarian League]] has an apprentice copy out in his first month, and every master expects him to know without the copy by his examination. They are said to be what **Dôkharash Harmôdákit**, the city weigher of [[place-khryshteikhos2|Khrýshteíkhos]] who weighed the tax-farmers' brass standard against the city's in the Merchant Hall and was named the first Warden of the Weights for it ([[lore-heladweighing|The Weighing at Khrýshteíkhos]]), told his son on the morning the boy was indentured. The copies open on that morning and close on the boy's answer, and between the two they keep the sayings in groups under heads, as a ledger keeps its accounts.
+**The Sayings of the First Warden** are the instruction every counting-house of the [[affiliation-byzarianlg|Bizarian League]] has an apprentice copy out in his first month, and every master expects him to know without the copy by his examination. They are said to be what **Dokharash Harmodakit**, the city weigher of [[place-khryshteikhos2|Krusteikhos]] who weighed the tax-farmers' brass standard against the city's in the Merchant Hall and was named the first Warden of the Weights for it ([[lore-heladweighing|The Weighing at Krusteikhos]]), told his son on the morning the boy was indentured. The copies open on that morning and close on the boy's answer, and between the two they keep the sayings in groups under heads, as a ledger keeps its accounts.
 
-Some of the sayings cannot be his, and the copies keep them anyway. The group on the arbitrator speaks of the arbiter both sides name and the guilds' enforcement, which the League council made an ordinance of about 584 ([[lore-heladordinance|The Ordinance of Arbiters]]), more than a century after the Weighing. The monks who copy the sayings for the merchant houses mark that group as later; the clerks of the Merchant Hall hold that a Warden would have known the rule before the council wrote it, since it was the custom before it was the law. The sayings quote two proverbs of the bazaar in the bazaar's own Byzarian, the speech the counting-house writes, and answer one of them. The son is not named in any copy.
+Some of the sayings cannot be his, and the copies keep them anyway. The group on the arbitrator speaks of the arbiter both sides name and the guilds' enforcement, which the League council made an ordinance of about 584 ([[lore-heladordinance|The Ordinance of Arbiters]]), more than a century after the Weighing. The monks who copy the sayings for the merchant houses mark that group as later; the clerks of the Merchant Hall hold that a Warden would have known the rule before the council wrote it, since it was the custom before it was the law. The sayings quote two proverbs of the bazaar in the bazaar's own Bizarian, the speech the counting-house writes, and answer one of them. The son is not named in any copy.
 
 ## The Morning
 
@@ -80,7 +80,7 @@ When a term turns in your favor, keep it exactly.
 Be warm while you bargain. Warmth costs nothing and commits nothing.
   Commit nothing that is not on the page.
 
-The bazaar says: zhe danîzh, kérdanir vezh. Do not lend; there is no profit.
+The bazaar says: zhe danizh, kérdanir vezh. Do not lend; there is no profit.
   The bazaar is wrong. Lend on paper, at a rate, before witnesses, and there is profit.
   Lend on a handshake, and the bazaar is right.
 ```
@@ -157,7 +157,7 @@ The road is the reason the League exists. Pay the toll.
 Count three currencies before breakfast. Count them again after.
   The rate between them moved while you ate.
 
-The bazaar says: pêf fótamir, plûmâ réshir. By the rivers, all flows.
+The bazaar says: pef fótamir, pluma reshir. By the rivers, all flows.
   It is true. Stand on the bank, and count what goes by.
 
 Learn the eastern speech well enough to be cheated in it slowly.
@@ -189,7 +189,7 @@ Do not carry the quarrel out of the paper.
   The man who takes his own revenge loses his charter, and then he is not a man of the League.
 
 A feud is a cost. The arbitrator is cheaper. Count it.
-  The yards burned once in Nêsthiros. They are stone now.
+  The yards burned once in Nesthiros. They are stone now.
 
 When the ruling goes against you, pay.
   Then go home and read the clause you wrote, and see where it went against you.
@@ -254,14 +254,14 @@ My son, there is a weight in your life that is heavy, and you do not know it yet
 
 ## The Son's Answer
 
-The copies close on the boy's answer, which the clerks have him give in the bazaar's speech and the monks render in the schools'. Either way it is two words long, and the masters have each apprentice say it back to them on the day he finishes his copy: _tchaz, esh_. It is, indeed.
+The copies close on the boy's answer, which the clerks have him give in the bazaar's speech and the monks render in the schools'. Either way it is two words long, and the masters have each apprentice say it back to them on the day he finishes his copy: _chazh, esh_. It is, indeed.
 
 ## See Also
 
-- [[lore-heladweighing|The Weighing at Khrýshteíkhos]]—the afternoon the first Warden set the brass standard on the balance
+- [[lore-heladweighing|The Weighing at Krusteikhos]]—the afternoon the first Warden set the brass standard on the balance
 - [[lore-heladordinance|The Ordinance of Arbiters]]—the ordinance the group on the arbitrator anticipates
 - [[lore-fivedefects|The Five Defects]]—the commander of the springs and the five declarations
 - [[lore-firstterms|The Hymn of the First Terms]]—the Keeper's two faces, the Wild Beast who would not seal
-- [[place-khryshteikhos2|Khrýshteíkhos]]—the city of the Merchant Hall and its standard
-- [[lore-byzarianclt|Byzarian]]—the culture of the bargain
-- [[skill-byzarnlng|Byzarian]]—the bazaar's speech and its eastern particles
+- [[place-khryshteikhos2|Krusteikhos]]—the city of the Merchant Hall and its standard
+- [[lore-byzarianclt|Bizarian]]—the culture of the bargain
+- [[skill-byzarnlng|Bizarian]]—the bazaar's speech and its eastern particles

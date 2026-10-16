@@ -1,6 +1,6 @@
 ---
 shortcode: rkhmkhlthn
-name: {full: Ràkhîmêa Khalîthôn, aliases: []}
+name: {full: Rakhimea Khalithon, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Ràkhîmêa Khalîthôn is a 25-year-old woman who stands 6'1" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her piercing blue eyes sit beneath straight brows, lending her a penetrating gaze. A straight nose and curved lips complete her features. She has medium-toned skin with a sun-tanned complexion. Her chestnut hair is braided and coiled at the nape.
+Rakhimea Khalithon is a 25-year-old woman who stands 6'1" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her piercing blue eyes sit beneath straight brows, lending her a penetrating gaze. A straight nose and curved lips complete her features. She has medium-toned skin with a sun-tanned complexion. Her chestnut hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ràkhîmêa Khalîthôn came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Rakhimea Khalithon came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Ràkhîmêa has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady Lômâris, Ràkhîmêa aims to show that women can be just as strong as men on the battlefield. Her confidence and determination inspire those around her.
+Rakhimea has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady Lomaris, Rakhimea aims to show that women can be just as strong as men on the battlefield. Her confidence and determination inspire those around her.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Can be hot-headed, struggles with traditional gender roles.
 
 ### Motivation
 
-Ràkhîmêa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in huscarl work keep her vigilant and adaptable.
+Rakhimea is driven by the desire to master her craft and secure a stable future. The uncertainties of life in huscarl work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Skilled in combat and tactics, resilient, inspirational leader.
 
 ## Social
 
-Ràkhîmêa is affiliated with Lady Lômâris's retinue.
+Rakhimea is affiliated with Lady Lomaris's retinue.
 
-As a Helionite huscarl, Ràkhîmêa occupies a recognized social niche within Heliónis society.
+As a Helionite huscarl, Rakhimea occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Ràkhîmêa's primary patron is Lady Lômâris and her household. This relationship provides both opportunity and obligation.
+Rakhimea's primary patron is Lady Lomaris and her household. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Few; while respected, some traditionalists doubt her abilities.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Ràkhîmêa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Huscarl's Dilemma**—Rakhimea faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
 
 2. **Old Grudges**—Few; while respected, some traditionalists doubt her abilities. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Ràkhîmêa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Rakhimea's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Ràkhîmêa depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Rakhimea depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Ràkhîmêa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Rakhimea the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

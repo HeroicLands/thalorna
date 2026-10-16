@@ -1,9 +1,9 @@
 ---
 shortcode: nclvlrss
-name: {full: Enclave of Aelirossë, aliases: []}
+name: {full: Enclave of Aelirosse, aliases: []}
 type: affiliation
 subType: polity
-description: "A Sinalë enclave of the Silver Forests, governed by its own lord and answering to neither the crown of Élavendre nor the Áelendan Wardens."
+description: "A Sinale enclave of the Silver Forests, governed by its own lord and answering to neither the crown of Élavendre nor the Áelendan Wardens."
 tags: [draft]
 data:
   templatePriority: null
@@ -13,16 +13,16 @@ data:
   governance:
     model: autocracy
     summary: >-
-      A Sinalë enclave of the Silver Forests, governed by its own lord and answering to neither the crown of Élavendre nor the Áelendan Wardens.
+      A Sinale enclave of the Silver Forests, governed by its own lord and answering to neither the crown of Élavendre nor the Áelendan Wardens.
     ranks:
       - level: 0
         title: Vierka
         description: >-
-          A Vierka, the Sinalë word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
+          A Vierka, the Sinale word for an outlaw, is one driven out of the enclave by its lord and given no standing or shelter by it.
       - level: 1
         title: Member of the Enclave
         description: >-
-          Belongs to Enclave of Aelirossë, a Sinalë enclave governed by its own lord.
+          Belongs to Enclave of Aelirosse, a Sinale enclave governed by its own lord.
     offices: {}
   seat: aelirosse
   population: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Enclave of Aelirossë** is the Sinalë community of [[place-aelirosse|Aelirossë]], in the [[place-silvrfrsts|Silver Forests]] of [[place-sorvanda|Sórvanda]]. Sinalë have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It is neither the crown's nor the Wardens': its relationship with the surrounding [[lore-aelendnppl|Áelendan]] is cordial, not an alliance. [[lore-flksinale|Sinalë]] grow and craft their dwellings rather than build them in stone.
+The **Enclave of Aelirosse** is the Sinale community of [[place-aelirosse|Aelirosse]], in the [[place-silvrfrsts|Silver Forests]] of [[place-sorvanda|Sórvanda]]. Sinale have kings, queens and lords, but these do not work as human ones do, and the enclave is governed by its lord. It is neither the crown's nor the Wardens': its relationship with the surrounding [[lore-aelendnppl|Áelendan]] is cordial, not an alliance. [[lore-flksinale|Sinale]] grow and craft their dwellings rather than build them in stone.

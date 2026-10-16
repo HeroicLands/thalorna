@@ -237,7 +237,7 @@ High on the cliff, a hundred feet above the ledge you are climbing toward, a bla
 
 # Dossier {#dossier}
 
-The Condor is the great vulture of the high mountains, twenty to thirty-three pounds with a wingspan over ten feet. It nests on the cliff ledges and in the high canyons above [[place-ixilankulrgn|Ix'ilankul]] and in the snow-crowned ranges of [[place-ixbaltzakurgn|Ix'bal Tza'ku]]. It eats carrion and finds it from a great height. In the faith of the Itzáni it is the messenger between the world and the sun, its feathers are sacred, and killing a condor is punished by death.
+The Condor is the great vulture of the high mountains, twenty to thirty-three pounds with a wingspan over ten feet. It nests on the cliff ledges and in the high canyons above [[place-ixilankulrgn|Ish'ilankul]] and in the snow-crowned ranges of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]]. It eats carrion and finds it from a great height. In the faith of the Itsani it is the messenger between the world and the sun, its feathers are sacred, and killing a condor is punished by death.
 
 ## Presentation
 
@@ -245,7 +245,7 @@ A huge bird, black and glossy, with white panels on the upper wings seen in flig
 
 ## In the Land
 
-Condors nest on the cliff ledges and in the high canyons of the mountains above [[place-ixilankulrgn|Ix'ilankul]] and in the snow-crowned ranges of [[place-ixbaltzakurgn|Ix'bal Tza'ku]]. A pair uses the same ledge for decades. The birds roost in groups on the cliff and fly out at mid-morning, when the sun has warmed the rock and the air rises along the slope, and they sail for hours on a rising wind without a wingbeat. They descend to the lower valleys for carrion after a storm or a battle.
+Condors nest on the cliff ledges and in the high canyons of the mountains above [[place-ixilankulrgn|Ish'ilankul]] and in the snow-crowned ranges of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]]. A pair uses the same ledge for decades. The birds roost in groups on the cliff and fly out at mid-morning, when the sun has warmed the rock and the air rises along the slope, and they sail for hours on a rising wind without a wingbeat. They descend to the lower valleys for carrion after a storm or a battle.
 
 ## Key Behaviors
 
@@ -253,7 +253,7 @@ Condors roost together on cliff ledges and feed in groups at a carcass in order 
 
 ## What the Priests Do
 
-In the faith of the Itzáni a condor is the messenger between the world and the sun. The temples keep its feathers on altars and in the headdresses of high priests, and a condor is never killed, on pain of the death of the killer. A dead condor found on a mountain is carried to a temple by whoever finds it, with a prayer, and a feast is held. The mountain villages lay their dead out on high rock for the birds, and a body the condors leave alone is read as a bad sign. The weavers of the highlands work condor patterns into ceremonial cloth.
+In the faith of the Itsani a condor is the messenger between the world and the sun. The temples keep its feathers on altars and in the headdresses of high priests, and a condor is never killed, on pain of the death of the killer. A dead condor found on a mountain is carried to a temple by whoever finds it, with a prayer, and a feast is held. The mountain villages lay their dead out on high rock for the birds, and a body the condors leave alone is read as a bad sign. The weavers of the highlands work condor patterns into ceremonial cloth.
 
 ## Signs
 

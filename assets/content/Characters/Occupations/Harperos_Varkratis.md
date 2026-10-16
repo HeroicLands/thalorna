@@ -1,6 +1,6 @@
 ---
 shortcode: hrprsvrkrtys
-name: {full: Harpêros Vârkrâtis, aliases: []}
+name: {full: Harperos Varkratis, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Harpêros Vârkrâtis is a 39-year-old man who stands 5'11" tall and is of moderate build. He has a square face with prominent cheekbones, a wide forehead, and a strong jaw that leads to a square chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. An aquiline nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His auburn hair is receding at the temples.
+Harperos Varkratis is a 39-year-old man who stands 5'11" tall and is of moderate build. He has a square face with prominent cheekbones, a wide forehead, and a strong jaw that leads to a square chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. An aquiline nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His auburn hair is receding at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Harpêros Vârkrâtis came into the world of the yeoman archer through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Harperos Varkratis came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
-Harpêros has been a yeoman archer for most of his adult life. He has extensive experience in both hunting and military service, making him a valuable asset to the local militia. Harpêros prefers to stay out of the limelight, quietly doing his duty and teaching younger archers. His calm demeanor makes him a natural leader, though he rarely seeks the role.
+Harperos has been a yeoman archer for most of his adult life. He has extensive experience in both hunting and military service, making him a valuable asset to the local militia. Harperos prefers to stay out of the limelight, quietly doing his duty and teaching younger archers. His calm demeanor makes him a natural leader, though he rarely seeks the role.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Reluctant to take leadership roles, sometimes overly cautious.
 
 ### Motivation
 
-Harpêros's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
+Harperos's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Experienced archer, skilled tracker, calm under pressure.
 
 ## Social
 
-Harpêros is affiliated with Local Militia.
+Harperos is affiliated with Local Militia.
 
-As a Vylarian yeoman archer, Harpêros occupies a recognized social niche within Vylaria society.
+As a Vylarian yeoman archer, Harperos occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Harpêros's primary patron is The local lord who values his consistency and reliability. This relationship provides both opportunity and obligation.
+Harperos's primary patron is The local lord who values his consistency and reliability. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Rival soldiers who have lost to him in archery competitions.
 
 ## Plot Hooks
 
-1. **The Yeoman Archer's Dilemma**—Harpêros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Yeoman Archer's Dilemma**—Harperos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—Rival soldiers who have lost to him in archery competitions. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Harpêros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Harperos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Harpêros depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Harperos depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Harpêros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Harperos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

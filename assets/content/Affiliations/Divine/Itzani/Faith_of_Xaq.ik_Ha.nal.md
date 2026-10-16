@@ -1,6 +1,6 @@
 ---
 shortcode: xaqikhanal
-name: {full: "Faith of Xaq'ik Ha'nal", aliases: [The Blossom of Living Waters, "Xaq'ik Ha'nal"]}
+name: {full: "Faith of Shaq'ik Ha'nal", aliases: [The Blossom of Living Waters, "Shaq'ik Ha'nal"]}
 type: affiliation
 subType: faithtradition
 description: "Fertility, water and healing—the newest of the Ten, guardian of the sacred pools, whose almost entirely female priesthood are the finest physicians in Ki'ichek civilization."
@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Tz'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -39,32 +39,32 @@ data:
         description: >-
           "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
-        title: Ch'alixbal
+        title: Ch'alishbal
         description: >-
           "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
-        title: Ch'alix
+        title: Ch'alish
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alix Tq'an and contending with the other branches for resources, precedence and favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alish Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
-        title: Ch'alix Tq'an
+        title: Ch'alish Tq'an
         description: >-
           "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
-        title: Presiding Ch'alix Tq'an
+        title: Presiding Ch'alish Tq'an
         description: >-
-          The Ch'alix Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Tz'enmah's succession.
+          The Ch'alish Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Ts'enmah's succession.
     offices:
-      Ch'alix Ha'nal: >-
-        Keeper of Waters—head of the branch and chief healer of the city-state, consulted by the Tz'enmah on matters of sickness and water alike.
-      Ch'alixbal Tz'ab: >-
+      Ch'alish Ha'nal: >-
+        Keeper of Waters—head of the branch and chief healer of the city-state, consulted by the Ts'enmah on matters of sickness and water alike.
+      Ch'alishbal Tz'ab: >-
         Birth priestess—attends the significant births of the city, and is understood at the bedside to be the goddess's own hands.
-      Ch'alixbal Pul'ik: >-
+      Ch'alishbal Pul'ik: >-
         Healing priestess—treats the sick, and keeps the gardens of medicinal plants grown near the water sources.
       Warden of the Sacred Pools: >-
         Guards the sinkholes against contamination, which is the branch's gravest sacrilege, and rules who may draw and who may bathe.
       Master of the Moon Water: >-
-        Conducts Tz'uqal Ne' at the first full moon of the rains, when every water source in the city is blessed.
+        Conducts Ts'uqal Ne' at the first full moon of the rains, when every water source in the city is blessed.
       Speaker of the First Water: >-
         Sets the water on a newborn's lips before any food, consecrating the child to the goddess.
       Keeper of the Physic Gardens: >-
@@ -85,34 +85,34 @@ sohl: {system: {commonSkills: [xaqikhanal]}}
 
 **Domain:** Fertility, Water, Healing, Renewal, Birth, Life
 
-Xaq'ik Ha'nal is the newest major deity in the Itzáni faith, formally elevated to divine status within the last three centuries. She is the goddess who guards the sacred pools (_ch'uqil_)—the natural sinkholes where underground rivers break through to daylight, understood as literal portals to [[place-chaltzumaq|Ch'al Tz'umaq]]. The waters themselves are understood as the goddess's body, and any contamination is grave sacrilege. Where K'anix Ha'kan represents agricultural fertility and P'iqal Kul'qat the creative act of building, Xaq'ik Ha'nal represents biological fertility, healing, and the renewal that comes with water.
+Shaq'ik Ha'nal is the newest major deity in the Itsani faith, formally elevated to divine status within the last three centuries. She is the goddess who guards the sacred pools (_ch'uqil_)—the natural sinkholes where underground rivers break through to daylight, understood as literal portals to [[place-chaltzumaq|Ch'al Ts'umaq]]. The waters themselves are understood as the goddess's body, and any contamination is grave sacrilege. Where K'anish Ha'kan represents agricultural fertility and P'iqal Kul'qat the creative act of building, Shaq'ik Ha'nal represents biological fertility, healing, and the renewal that comes with water.
 
 ## Worship
 
 Her worship permeates Ki'ichek daily life. Every morning, mothers bring children to springs or sacred pools for anointing and prayers for health. Young women desiring to conceive make pilgrimages to sacred pools for ritual bathing. Healers perform cleansing rituals with blessed water before treating the sick.
 
-The most sacred moment of a child's life comes at birth, when a midwife—understood as an earthly representative of Xaq'ik Ha'nal—guides the new person into existence. The first thing a newborn receives is not food but water on the lips, consecrating the child to the goddess. This is the rite that makes a Ki'ichek Water-Marked and so a member of the faith, and it is the only Itzáni sacrament that cannot be delayed for an inauspicious day: the water is given when the child is born, whatever the calendar says, and the solar priesthood has never successfully argued otherwise.
+The most sacred moment of a child's life comes at birth, when a midwife—understood as an earthly representative of Shaq'ik Ha'nal—guides the new person into existence. The first thing a newborn receives is not food but water on the lips, consecrating the child to the goddess. This is the rite that makes a Ki'ichek Water-Marked and so a member of the faith, and it is the only Itsani sacrament that cannot be delayed for an inauspicious day: the water is given when the child is born, whatever the calendar says, and the solar priesthood has never successfully argued otherwise.
 
-The major ceremony is the **Tz'uqal Ne'** ("Moon Water"), during the first full moon of the rainy season, when all water sources are formally blessed by processions of women carrying flowers, incense, and jade. Every well, spring, reservoir and sacred pool in the city is visited in a single night, and the procession's route is itself a public statement of which waters the branch claims.
+The major ceremony is the **Ts'uqal Ne'** ("Moon Water"), during the first full moon of the rainy season, when all water sources are formally blessed by processions of women carrying flowers, incense, and jade. Every well, spring, reservoir and sacred pool in the city is visited in a single night, and the procession's route is itself a public statement of which waters the branch claims.
 
 The goddess is given little blood and a great deal of water. Offerings are flowers, incense, jade and clean water carried some distance to be poured; the branch teaches that to bring water to water is the plainest way of saying that the gift is the labor. Fouling a sacred pool, by contrast, is the gravest sacrilege the branch recognizes, and the **Warden of the Sacred Pools** may bar an offender's whole household from the water—a sentence of practical exile.
 
 ## Organization
 
-The priesthood is unique in being almost entirely female—the Ch'alix Ha'nal (Keeper of Waters) is chief healer of the city-state, the Ch'alixbal Tz'ab (birth priestesses) attend all significant births, and the Ch'alixbal Pul'ik (healing priestesses) maintain gardens of medicinal plants near water sources. Their accumulated archives of healing knowledge make them the most advanced practitioners of medicine in Ki'ichek civilization.
+The priesthood is unique in being almost entirely female—the Ch'alish Ha'nal (Keeper of Waters) is chief healer of the city-state, the Ch'alishbal Tz'ab (birth priestesses) attend all significant births, and the Ch'alishbal Pul'ik (healing priestesses) maintain gardens of medicinal plants near water sources. Their accumulated archives of healing knowledge make them the most advanced practitioners of medicine in Ki'ichek civilization.
 
-Those archives are the branch's answer to the observatories, and they are kept in the same spirit: treatments are recorded with their outcomes, including the failures, and a remedy that does not perform is struck. The **Keeper of the Healing Archives** is second in the branch only to the Ch'alix Ha'nal, and the two offices are frequently held in succession by the same woman.
+Those archives are the branch's answer to the observatories, and they are kept in the same spirit: treatments are recorded with their outcomes, including the failures, and a remedy that does not perform is struck. The **Keeper of the Healing Archives** is second in the branch only to the Ch'alish Ha'nal, and the two offices are frequently held in succession by the same woman.
 
-Being new—elevated only within the last three centuries—the branch is still consolidating its claims, and its rise is the great institutional story of recent Itzáni history. It has taken the sacred pools, the birthing chamber and the sickbed into its keeping, and each of those was previously somebody else's. It is also the branch most present in ordinary Ki'ichek life, since every household has water, children and illness, and that reach has translated steadily into standing within the priesthood.
+Being new—elevated only within the last three centuries—the branch is still consolidating its claims, and its rise is the great institutional story of recent Itsani history. It has taken the sacred pools, the birthing chamber and the sickbed into its keeping, and each of those was previously somebody else's. It is also the branch most present in ordinary Ki'ichek life, since every household has water, children and illness, and that reach has translated steadily into standing within the priesthood.
 
 Men serve, rarely, and chiefly in the physic gardens and the archives. The branch does not exclude them by doctrine and shows no sign of admitting them at the bedside.
 
 ## Relations
 
-Together with [[affiliation-kanixhakan|K'anix Ha'kan]] the goddess is invoked as one of the **Twin Givers**, the divine pair ensuring both agricultural and biological fertility. The two branches share a festival calendar, joint charitable distributions and, in smaller cities, their premises; it is the warmest standing relationship in the Itzáni priesthood.
+Together with [[affiliation-kanixhakan|K'anish Ha'kan]] the goddess is invoked as one of the **Twin Givers**, the divine pair ensuring both agricultural and biological fertility. The two branches share a festival calendar, joint charitable distributions and, in smaller cities, their premises; it is the warmest standing relationship in the Itsani priesthood.
 
-With [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]] the branch shares its holiest ground and very little else. Every sacred pool is at once the goddess's body and a portal to Ch'al Tz'umaq, and which waters serve which rite on which nights has been settled city by city, over centuries, and not without acrimony. Where the settlement has broken down it has broken down badly, and a sacred pool fought over is remembered for generations.
+With [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]] the branch shares its holiest ground and very little else. Every sacred pool is at once the goddess's body and a portal to Ch'al Ts'umaq, and which waters serve which rite on which nights has been settled city by city, over centuries, and not without acrimony. Where the settlement has broken down it has broken down badly, and a sacred pool fought over is remembered for generations.
 
-The branch buys graded ash from [[affiliation-kayikchalix|K'ayik Ch'alix]] for its healing paints and pays well for it, which funds a fire branch that owns no land. In return the healing priestesses attend the fire-keepers' burn scars, an arrangement both sides find slightly comic and neither will give up.
+The branch buys graded ash from [[affiliation-kayikchalix|K'ayik Ch'alish]] for its healing paints and pays well for it, which funds a fire branch that owns no land. In return the healing priestesses attend the fire-keepers' burn scars, an arrangement both sides find slightly comic and neither will give up.
 
-[[affiliation-naliktzuqal|Nal'ik Tz'uqal]] is the branch's natural ally, the two being those that ask least and give most; in many cities their temples adjoin and petitioners pass between them without ceremony. With [[affiliation-tzenultqan|Tz'en'ul Tq'an]] relations are correct and cool: the solar branch teaches that nothing is given freely, and here is a goddess whose first act toward every Ki'ichek is a gift of water to a child too young to owe anything.
+[[affiliation-naliktzuqal|Nal'ik Ts'uqal]] is the branch's natural ally, the two being those that ask least and give most; in many cities their temples adjoin and petitioners pass between them without ceremony. With [[affiliation-tzenultqan|Ts'en'ul Tq'an]] relations are correct and cool: the solar branch teaches that nothing is given freely, and here is a goddess whose first act toward every Ki'ichek is a gift of water to a child too young to owe anything.

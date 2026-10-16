@@ -1,9 +1,9 @@
 ---
 shortcode: khavarivarak
-name: {full: Khavârî Vârakan, aliases: [Warlord Khavârî the Sorcerer, Warlord Khavârî]}
+name: {full: Khavari Varakan, aliases: [Warlord Khavari the Sorcerer, Warlord Khavari]}
 type: being
 subType: npc
-description: A rival warrior who rules lands adjacent to the territory of Shâdezan Kamruz and uses magical power.
+description: A rival warrior who rules lands adjacent to the territory of Shadezan Kamruz and uses magical power.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Khavârî Vârakan is a 49-year-old woman who stands 5'9" tall with a light build. She has tawny skin, weathered complexion, black hair, and dark brown eyes.
+Khavari Varakan is a 49-year-old woman who stands 5'9" tall with a light build. She has tawny skin, weathered complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Khavârî Vârakan, called the Sorcerer, is a warlord and a rival warrior who rules lands adjacent to the territory of [[being-shadznkmrz|Shâdezan Kamruz]]. She uses magical power rather than pure physical strength, which Shâdezan views as cowardly, and their conflicting approaches to warfare have led to several bitter confrontations.
+Khavari Varakan, called the Sorcerer, is a warlord and a rival warrior who rules lands adjacent to the territory of [[being-shadznkmrz|Shadezan Kamruz]]. She uses magical power rather than pure physical strength, which Shadezan views as cowardly, and their conflicting approaches to warfare have led to several bitter confrontations.

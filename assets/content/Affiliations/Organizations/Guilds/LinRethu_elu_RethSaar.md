@@ -1,9 +1,9 @@
 ---
 shortcode: linrethrthsr
-name: {full: Lin'Rethu elu Reth'Sa'âr, aliases: [Scholars' Collective of the Temple of Reth'Sa'âr]}
+name: {full: Lin'Rethu elu Reth'Sa'ar, aliases: [Scholars' Collective of the Temple of Reth'Sa'ar]}
 type: affiliation
 subType: guild
-description: The scholars attached to the temple of Reth'Sa'âr, who hold the deeper texts and decide who may read them
+description: The scholars attached to the temple of Reth'Sa'ar, who hold the deeper texts and decide who may read them
 tags: [generated, draft]
 data:
   culture: khelathiclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      The scholars the temple of Reth'Sa'âr has certified to handle its deeper texts, holding those texts apart from the general archive and deciding together who may read them.
+      The scholars the temple of Reth'Sa'ar has certified to handle its deeper texts, holding those texts apart from the general archive and deciding together who may read them.
     ranks:
       - level: 0
         title: Certification Withdrawn
@@ -36,11 +36,11 @@ data:
 
 ## Overview
 
-**Lin'Rethu elu Reth'Sa'âr** is the collective of scholars attached to [[affiliation-lutrethsaar|the temple of Reth'Sa'âr]], drawn from those the temple has certified to handle its deeper texts. The collective keeps those texts apart from the temple's general archive and decides, case by case, who may read them. The temple defers to its judgment, so a scholar it refuses has nowhere else to ask.
+**Lin'Rethu elu Reth'Sa'ar** is the collective of scholars attached to [[affiliation-lutrethsaar|the temple of Reth'Sa'ar]], drawn from those the temple has certified to handle its deeper texts. The collective keeps those texts apart from the temple's general archive and decides, case by case, who may read them. The temple defers to its judgment, so a scholar it refuses has nowhere else to ask.
 
 ## Character
 
-The reading room has two doors, and you are admitted only to the first. Beyond the second are the temple's deeper texts, and the collective that guards them is the **Scholars' Collective of the Temple of Reth'Sa'âr**. A Certified Scholar is someone the temple has certified to handle those texts, and who sits with the others on each decision about who may read them.
+The reading room has two doors, and you are admitted only to the first. Beyond the second are the temple's deeper texts, and the collective that guards them is the **Scholars' Collective of the Temple of Reth'Sa'ar**. A Certified Scholar is someone the temple has certified to handle those texts, and who sits with the others on each decision about who may read them.
 
 The collective is guarded and deliberate. It keeps the deeper texts apart from the general archive and decides case by case who may read them. Nobody in it is a gatekeeper by temperament; each has simply learned, by reading, what some texts do to the careless. The decision is taken together, and so it is hard to bribe and hard to hurry.
 
@@ -48,7 +48,7 @@ Do not appeal over their heads. A scholar the collective refuses has no other ro
 
 ## Relations
 
-The collective has one relation: [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]], the temple that certifies its scholars and defers to them on access. The temple supplies the standing, and the collective supplies the judgment.
+The collective has one relation: [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]], the temple that certifies its scholars and defers to them on access. The temple supplies the standing, and the collective supplies the judgment.
 
 ## Commerce and Currency
 
@@ -56,5 +56,5 @@ Access is the collective's to grant. Say a [[lore-helioniteclt|Helionite]] schol
 
 ## See Also
 
-- [[lore-rethsaardty|Reth'Sa'âr]]—The god of knowledge the temple serves
-- [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]]—The temple the collective is attached to
+- [[lore-rethsaardty|Reth'Sa'ar]]—The god of knowledge the temple serves
+- [[affiliation-lutrethsaar|Lut-Reth'Sa'ar]]—The temple the collective is attached to

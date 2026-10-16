@@ -119,19 +119,19 @@ sohl: {system: {commonSkills: [aelwthlng, elvndrlng]}}
 
 ## Overview
 
-The heartland kingdom of [[place-aelwyth|Aelwyth]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement; the first of its kings, Dréthar of Kingshollow, was one of them, crowned by his peers about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The kingdom holds the land of [[place-aldorathrgn|Aldorath Region]].
+The heartland kingdom of [[place-aelwyth|Aelwyth]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement; the first of its kings, Drethar of Kingshollow, was one of them, crowned by his peers about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The kingdom holds the land of [[place-aldorathrgn|Aldorath Region]].
 
 ## Character
 
 Prophecy and questing are woven into the fabric of Aldorathian culture; knights ride out to fulfill visions, and the court seers wield as much influence as the military commanders. The kingdom's chronicles are as much mythology as history—tales of kings who drew a sword from a stone, of bargains struck with lake-spirits, and of a sacred vessel hidden in mist-shrouded ruins are told not as fables but as the deeds of ancestors whose bloodlines still rule.
 
-## The Sinalë Connection
+## The Sinale Connection
 
-The [[lore-flksinale|Sinalë]] enclaves in the southern forests maintain an ancient and cautious relationship with the Aldorathian crown—the most sustained contact between the elder race and any Aelwythan polity. This connection gives Aldorath a mystical legitimacy that its rivals cannot claim. The nature of this relationship is poorly understood by outsiders; the Sinalë do not explain their reasons, and the Aldorathian court knows better than to press them.
+The [[lore-flksinale|Sinale]] enclaves in the southern forests maintain an ancient and cautious relationship with the Aldorathian crown—the most sustained contact between the elder race and any Aelwythan polity. This connection gives Aldorath a mystical legitimacy that its rivals cannot claim. The nature of this relationship is poorly understood by outsiders; the Sinale do not explain their reasons, and the Aldorathian court knows better than to press them.
 
 ## Relations
 
-Aldorath's relationship with [[affiliation-kingdmdnvr|Dúnavarre]] is competitive—the two realms have long vied for influence over the island's interior. Where Dúnavarre looks outward to the mainland and the wider world, Aldorath looks inward to the lake, the forests, and the ancient mysteries of the island itself. Relations with the [[affiliation-repblcndrth|Republic of Ondareth]] to the southwest are generally cordial but distant; the republic's pragmatic civic culture has little patience for Aldorathian mysticism. The [[affiliation-jrldmstrmvld|Nordmen of Stormveld]] to the northeast are a persistent concern—raiding parties from the fjords have troubled Aldorath's northern borders for generations, and the [[lore-flkkhazar|Khazári]] holds in the mountains between the two polities are a source of tension, as both claim the ranges as their frontier.
+Aldorath's relationship with [[affiliation-kingdmdnvr|Dúnavarre]] is competitive—the two realms have long vied for influence over the island's interior. Where Dúnavarre looks outward to the mainland and the wider world, Aldorath looks inward to the lake, the forests, and the ancient mysteries of the island itself. Relations with the [[affiliation-repblcndrth|Republic of Ondareth]] to the southwest are generally cordial but distant; the republic's pragmatic civic culture has little patience for Aldorathian mysticism. The [[affiliation-jrldmstrmvld|Nordmen of Stormveld]] to the northeast are a persistent concern—raiding parties from the fjords have troubled Aldorath's northern borders for generations, and the [[lore-flkkhazar|Khazari]] holds in the mountains between the two polities are a source of tension, as both claim the ranges as their frontier.
 
 ## Commerce and Currency
 
@@ -143,8 +143,8 @@ Kingdom of Aldorath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ard
 - [[place-aldorathrgn|Aldorath Region]]—The land the kingdom holds
 - [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]—Southeastern rival
 - [[affiliation-repblcndrth|Republic of Ondareth]]—Southwestern republic
-- [[lore-flksinale|Sinalë]]—Elder race with southern forest enclaves
-- [[affiliation-arldnpnthn|Aurèldían]]—State pantheon
+- [[lore-flksinale|Sinale]]—Elder race with southern forest enclaves
+- [[affiliation-arldnpnthn|Aureldian]]—State pantheon
 
 ## Population and Society
 

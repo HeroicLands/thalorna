@@ -1,9 +1,9 @@
 ---
 shortcode: ankhelossath
-name: {full: Ânkhêlôs Sathêrândis, aliases: [Archimandrite Ânkhêlôs Sathêrândis]}
+name: {full: Ankelos Satheris, aliases: [Archimandrite Ankelos Satheris]}
 type: being
 subType: npc
-description: A senior Sacred Forge clergyman based in the capital, named in Mirênê Kalêthos.
+description: A senior Sacred Forge clergyman based in the capital, named in Mirene Kalethos.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ânkhêlôs Sathêrândis is a 23-year-old man who stands 6'0" tall with a medium build. He has light skin, weathered complexion, auburn hair, and brown eyes.
+Ankelos Satheris is a 23-year-old man who stands 6'0" tall with a medium build. He has light skin, weathered complexion, auburn hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Ânkhêlôs Sathêrândis is an archimandrite of the Sacred Forge, a senior clergyman based in the capital. He has made the growing influence of the Black Flame a personal crusade. He presses local authorities to restrict its preaching, discredit known sympathizers and fund counter-sermons, though Vylarian law keeps him from acting against [[being-myrnklypss|Mirênê Kalêthos]] directly.
+Ankelos Satheris is an archimandrite of the Sacred Forge, a senior clergyman based in the capital. He has made the growing influence of the Black Flame a personal crusade. He presses local authorities to restrict its preaching, discredit known sympathizers and fund counter-sermons, though Vylarian law keeps him from acting against [[being-myrnklypss|Mirene Kalethos]] directly.

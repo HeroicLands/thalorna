@@ -1,6 +1,6 @@
 ---
 shortcode: brnklnthrk
-name: {full: Barnèke Lanthrìke, aliases: []}
+name: {full: Barneke Lantrike, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Barnèke Lanthrìke is a 40-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a lined forehead, and a narrow jaw that leads to a firm chin. His large amber eyes sit beneath expressive brows, lending him an expressive gaze. A narrow nose and thin lips complete his features. He has warm-toned skin with an olive-toned complexion. His gray hair is shoulder-length and loose.
+Barneke Lantrike is a 40-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a lined forehead, and a narrow jaw that leads to a firm chin. His large amber eyes sit beneath expressive brows, lending him an expressive gaze. A narrow nose and thin lips complete his features. He has warm-toned skin with an olive-toned complexion. His gray hair is shoulder-length and loose.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a guilded family of Provenzian heritage, Barnèke Lanthrìke came into the world of the bard through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a guilded family of Provenzian heritage, Barneke Lantrike came into the world of the bard through a combination of circumstance and aptitude.
 
-Barnèke has been a bard for over twenty years, gaining a reputation for his adventurous spirit and compelling stories. He travels widely, seeking new tales and experiences to share in his performances. Barnèke often acts as a mediator or diplomat, using his skills in persuasion to resolve disputes. Though respected, he sometimes exaggerates his stories for effect.
+Barneke has been a bard for over twenty years, gaining a reputation for his adventurous spirit and compelling stories. He travels widely, seeking new tales and experiences to share in his performances. Barneke often acts as a mediator or diplomat, using his skills in persuasion to resolve disputes. Though respected, he sometimes exaggerates his stories for effect.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Prone to embellishment, can be overconfident in his abilities.
 
 ### Motivation
 
-Barnèke's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
+Barneke's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Charismatic, experienced traveler, skilled diplomat.
 
 ## Social
 
-Barnèke is affiliated with Bardic College.
+Barneke is affiliated with Bardic College.
 
-As a Provenzian bard, Barnèke occupies a recognized social niche within Provènzia society.
+As a Provenzian bard, Barneke occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Barnèke's primary patron is Nobles and merchants who appreciate his storytelling. This relationship provides both opportunity and obligation.
+Barneke's primary patron is Nobles and merchants who appreciate his storytelling. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Some who distrust him due to his tendency to embellish stories.
 
 ## Plot Hooks
 
-1. **The Bard's Dilemma**—Barnèke faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Bard's Dilemma**—Barneke faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
 
 2. **Old Grudges**—Some who distrust him due to his tendency to embellish stories. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Barnèke's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Barneke's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Barnèke depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Barneke depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Barnèke the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Barneke the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

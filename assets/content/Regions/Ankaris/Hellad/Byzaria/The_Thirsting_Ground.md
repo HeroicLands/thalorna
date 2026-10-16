@@ -20,19 +20,19 @@ The host's dead are fixed on water. A skin filled at dusk on the field is empty 
 
 ## The Jar and the Clans
 
-The jar at the field's edge is a custom of the nearest fort and not an office, set down by every garrison since the first. The steppe clans who winter under the League's truce will not camp within sight of the field. The monks of the eastern rite at [[place-argyrteikhos2|Argýrteíkhos]] have tried the settlement rite of [[lore-selmorosdty|Sélmoros]] twice and failed, and they say why: the dead are not theirs to place, and the rite the steppe dead needed was never said over them.
+The jar at the field's edge is a custom of the nearest fort and not an office, set down by every garrison since the first. The steppe clans who winter under the League's truce will not camp within sight of the field. The monks of the eastern rite at [[place-argyrteikhos2|Argirteikhos]] have tried the settlement rite of [[lore-selmorosdty|Sélmoros]] twice and failed, and they say why: the dead are not theirs to place, and the rite the steppe dead needed was never said over them.
 
 ## Who Goes
 
 - **The March garrisons**, who keep the jar and walk the edge on patrol.
 - **The monks** of the eastern rite, who come to try the rite again.
 - **Steppe elders** under truce, who come to look and leave quickly.
-- **The Servants of Vezhnûrikos**, who have been seen on the field at night.
+- **The Servants of Vezhnurikos**, who have been seen on the field at night.
 
 ## Hooks
 
 - **The best spring.** The field holds the best spring in the March, and the Lord Commander wants a fort on it. A fort needs the field settled, and a settlement needs a steppe rite that the League has never asked a steppe clan to perform.
-- **The Black Flame's night walks.** The Servants of Vezhnûrikos have been seen walking the field after dark, and a field the [[affiliation-blackflame|Black Flame]] works becomes thin.
+- **The Black Flame's night walks.** The Servants of Vezhnurikos have been seen walking the field after dark, and a field the [[affiliation-blackflame|Black Flame]] works becomes thin.
 
 ## See Also
 

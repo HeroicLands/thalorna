@@ -3,7 +3,7 @@ shortcode: pvnjtrsdty
 name: {full: Pavanajitras, aliases: []}
 type: lore
 subType: deity
-description: "The Wandering Wind of the Varnaka pantheon—travelers, and the sail that carries them."
+description: "The Wandering Wind of the Varnuka pantheon—travelers, and the sail that carries them."
 tags: []
 data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---

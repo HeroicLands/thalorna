@@ -1,8 +1,8 @@
 ---
 shortcode: affiliationshexhodai
-name: {full: "Ksêmor Hodhîs"}
+name: {full: "Zemor Hodhis"}
 type: folder
 data: {parent: {default: affiliations, journals: settinglore}, color: "#D2691E"}
 ---
 
-This folder gathers the Ksêmor Hodhîs arcane tradition. It holds the affiliation notes for Pyréthos, Sidéros, Zepharis, Hydalis, Neuménos, Physéra and Kentra, together with the Ksêmor Hodhîs lore note and its incantations.
+This folder gathers the Zemor Hodhis arcane tradition. It holds the affiliation notes for Pirethos, Sideris, Zefaris, Hidalis, Neumenos, Fisera and Kentra, together with the Zemor Hodhis lore note and its incantations.

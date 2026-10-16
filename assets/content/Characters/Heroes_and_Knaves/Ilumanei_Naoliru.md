@@ -430,7 +430,7 @@ Ilumanei stands 6'0" tall with a medium build. He has deep brown skin, dark clos
 
 ### Early Life
 
-Ilumanei was born in a poor street behind the quay of [[place-vashuran|Vashurán]], the port of [[affiliation-kalihara|Kalihara]] where the Tarûzelian captains trade, the son of a dock worker and a laundress. His parents saw that he was clever and scraped together every coin they could spare to send him to a temple school in the foreign quarter, where he learned his letters and his numbers. The other pupils came from merchant families; Ilumanei outworked all of them, and mastered five scripts in use on the quays—the island's own, the foreigners' and the merchant hands between them. At twelve his teachers sent him to a master scribe, **Vaelumo the Precise**, who took him as an apprentice.
+Ilumanei was born in a poor street behind the quay of [[place-vashuran|Vashurán]], the port of [[affiliation-kalihara|Kalihara]] where the Taruzelian captains trade, the son of a dock worker and a laundress. His parents saw that he was clever and scraped together every coin they could spare to send him to a temple school in the foreign quarter, where he learned his letters and his numbers. The other pupils came from merchant families; Ilumanei outworked all of them, and mastered five scripts in use on the quays—the island's own, the foreigners' and the merchant hands between them. At twelve his teachers sent him to a master scribe, **Vaelumo the Precise**, who took him as an apprentice.
 
 ### Training Under Vaelumo
 
@@ -480,7 +480,7 @@ Ilumanei believes the written word protects the weak. He has seen a careful cont
 
 - **Kalihara's High Registry**: the Registry still brings him its delicate and difficult work, in private, and takes care that his good name stays clean.
 - **Merchants' and Traders' Guild**: several powerful merchants of the ports hire him for their contracts. They pay well, and he annoys them by insisting on terms fair to both sides.
-- **Village Councils and Local Magistrates**: the quarter councils of the smaller ports and the wardens' magistrates at Nalurithan and Telvári hire him to record disputes and witness agreements, and they guard his reputation in their towns.
+- **Village Councils and Local Magistrates**: the quarter councils of the smaller ports and the wardens' magistrates at Nalurithan and Telvari hire him to record disputes and witness agreements, and they guard his reputation in their towns.
 - **Poor Farmers and Craftspeople**: the porters, boatmen and craftsmen of the quays pay him little and love him most, and would stand between him and any threat.
 
 ### Enemies
@@ -491,7 +491,7 @@ Ilumanei believes the written word protects the weak. He has seen a careful cont
 ### Affiliations
 
 - [[affiliation-kalihara|Kalihara]]: an islander's standing among the port Kaliharans. He is a member of the port's Scribes' Guild, upholding its standards and resisting its slide toward serving only those who can pay.
-- [[affiliation-lizelas|Faith of Lîzêlâs]]: he keeps the faith of the Nurturer that he learned in the temple school, and his office stands in the old archive of her temple, among the Temple Archive Cooperative of scholars who keep its records.
+- [[affiliation-lizelas|Faith of Lizelas]]: he keeps the faith of the Nurturer that he learned in the temple school, and his office stands in the old archive of her temple, among the Temple Archive Cooperative of scholars who keep its records.
 - **Free Scribes' Alliance**: a loose fellowship of scribes who have left the guild or the Registry to work for themselves, who share methods and help each other with hard commissions.
 
 ## Plot Hooks

@@ -13,6 +13,6 @@ sohl:
 
 An eighth of an Ardin, either cut from the parent coin along the eight-segment pattern struck into its reverse or produced ready-struck at the imperial and provincial mints. A cut Ogdel is a wedge, triangular in outline; a struck one is cleaner and more uniformly weighted.
 
-Cutting is done by moneylenders, shopkeepers, and anyone with a sharp blade and a need to make change. A coin with all eight wedges taken from it leaves a small central remnant, returned by convention to a moneylender or to the Tarmex for re-striking. The two forms pass interchangeably in casual use; formal contracts recognize only mint-struck pieces at face.
+Cutting is done by moneylenders, shopkeepers, and anyone with a sharp blade and a need to make change. A coin with all eight wedges taken from it leaves a small central remnant, returned by convention to a moneylender or to the Tarmeks for re-striking. The two forms pass interchangeably in casual use; formal contracts recognize only mint-struck pieces at face.
 
 This is the coin of ordinary days—a loaf, a tankard, a porter's tip.

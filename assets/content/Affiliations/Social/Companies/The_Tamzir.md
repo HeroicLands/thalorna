@@ -1,9 +1,9 @@
 ---
 shortcode: thetamzir
-name: {full: The Tamzîr, aliases: []}
+name: {full: The Tamzir, aliases: []}
 type: affiliation
 subType: venture
-description: "Weathered trading vessel and her crew of misfits operating in gray spaces of maritime law, carrying fugitive arcane talents hunted by the Thôrdimâlon."
+description: "Weathered trading vessel and her crew of misfits operating in gray spaces of maritime law, carrying fugitive arcane talents hunted by the Thordimalon."
 tags: [company, tamzir-crew]
 data:
   culture: taruzelianclt
@@ -70,41 +70,41 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Tamzîr is a weathered trading vessel that works the [[place-vylarianse|Vylarian Sea]]: she is named for the Battle of [[place-tamzirshoals|Tamzîr Shoals]], the decisive naval engagement of the Tarûzelian War of Independence, and her captain fought in it. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.
+The Tamzir is a weathered trading vessel that works the [[place-vylarianse|Vylarian Sea]]: she is named for the Battle of [[place-tamzirshoals|Tamzir Shoals]], the decisive naval engagement of the Taruzelian War of Independence, and her captain fought in it. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.
 
 ## Background
 
-Roughly twelve years ago, the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] fought a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]]. The war was won, but the victory was hollow. The merchant guilds seized power in the aftermath, and the freedom that veterans had bled for became a new oligarchy dressed in different clothes. Captain [[being-zbzmjkdn|Zabûzum Jakûdûnî]], disillusioned with what the revolution had become, took to the sea rather than serve the new masters.
+Roughly twelve years ago, the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] fought a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]]. The war was won, but the victory was hollow. The merchant guilds seized power in the aftermath, and the freedom that veterans had bled for became a new oligarchy dressed in different clothes. Captain [[being-zbzmjkdn|Zabuzum Jakuduni]], disillusioned with what the revolution had become, took to the sea rather than serve the new masters.
 
-The Tamzîr operates in the gray spaces of maritime law—legitimate trade when it pays, smuggling when it doesn't, and the occasional job that no respectable captain would touch. The crew are not pirates; they have a code, however flexible, and they choose their work. But they live outside the protection of any flag, which means they survive by their wits, their reputation, and each other.
+The Tamzir operates in the gray spaces of maritime law—legitimate trade when it pays, smuggling when it doesn't, and the occasional job that no respectable captain would touch. The crew are not pirates; they have a code, however flexible, and they choose their work. But they live outside the protection of any flag, which means they survive by their wits, their reputation, and each other.
 
 ## The Fugitive Siblings
 
-The crew's most dangerous entanglement is the Serênthis siblings. [[being-lucernsrnt|Lûkêros Serênthis]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Kivellâ]] from the [[affiliation-ordoarcanis|Thôrdimâlon]], who had been experimenting on her. Kivellâ is an arcane prodigy of great and erratic power—damaged by what the Order did to her, unpredictable, and desperately wanted back. The Order operates through [[affiliation-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzîr a target.
+The crew's most dangerous entanglement is the Serenthis siblings. [[being-lucernsrnt|Lukeros Serenthis]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Kivella]] from the [[affiliation-ordoarcanis|Thordimalon]], who had been experimenting on her. Kivella is an arcane prodigy of great and erratic power—damaged by what the Order did to her, unpredictable, and desperately wanted back. The Order operates through [[affiliation-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzir a target.
 
 ## Shared Enemies
 
-The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Thôrdimâlon]] hunts Kivellâ and will not stop. Tarûzelian guild enforcers hold old debts from the war—grudges that compound with interest. And Vylarian imperial agents, often manipulated by the Order, represent the long arm of an empire that has not forgotten the Tarûzelian rebellion or forgiven those who fought in it.
+The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Thordimalon]] hunts Kivella and will not stop. Taruzelian guild enforcers hold old debts from the war—grudges that compound with interest. And Vylarian imperial agents, often manipulated by the Order, represent the long arm of an empire that has not forgotten the Taruzelian rebellion or forgiven those who fought in it.
 
 ## Crew
 
-- [[being-zbzmjkdn|Zabûzum Jakûdûnî]] (Captain)
-- [[being-slvrvlskyr|Sélvara Válskir]] (First Mate)
-- [[being-fethardhrl|Fethàr Dhárel]] (Pilot)
-- [[being-blgnrskn|Belgina Rusâkûnî]] (Shipwright)
+- [[being-zbzmjkdn|Zabuzum Jakuduni]] (Captain)
+- [[being-slvrvlskyr|Sélvara Valskir]] (First Mate)
+- [[being-fethardhrl|Fetar Darel]] (Pilot)
+- [[being-blgnrskn|Belgina Rusakuni]] (Shipwright)
 - [[being-grlfdrthgr|Garulf yra Druthgar wur Edrgrund]] (Sellsword)
-- [[being-theldnkhldr|Théldina Khalîdra]] (Courtesan)
-- [[being-damsnghlrn|Dámàsûn Ghôlâron]] (Priest)
-- [[being-lucernsrnt|Lûkêros Serênthis]] (Physician)
-- [[being-cibelasrnt|Kivellâ Serênthis]] (Sister of Lûkêros)
+- [[being-theldnkhldr|Théldina Khalidra]] (Courtesan)
+- [[being-damsnghlrn|Dámasun Gholaron]] (Priest)
+- [[being-lucernsrnt|Lukeros Serenthis]] (Physician)
+- [[being-cibelasrnt|Kivella Serenthis]] (Sister of Lukeros)
 - [[being-svlthrnskrsdtr|Svalthrinna Skorrsdottir]] (Warrior)
 
 ## The Ship
 
-The Tamzîr is not fast, not pretty, and not young. She is a broad-beamed coastal trader built for the choppy waters of the Vylarian Sea, with a deep hold that has carried everything from grain to contraband. Her hull bears the scars of hard use and hard repair—[[being-blgnrskn|Belgina]] keeps her seaworthy through skill and devotion, but no amount of love can make her elegant. What the Tamzîr has is endurance: she can take a beating from weather or pursuit and keep moving when sleeker vessels would founder.
+The Tamzir is not fast, not pretty, and not young. She is a broad-beamed coastal trader built for the choppy waters of the Vylarian Sea, with a deep hold that has carried everything from grain to contraband. Her hull bears the scars of hard use and hard repair—[[being-blgnrskn|Belgina]] keeps her seaworthy through skill and devotion, but no amount of love can make her elegant. What the Tamzir has is endurance: she can take a beating from weather or pursuit and keep moving when sleeker vessels would founder.
 
 ## Plot Hooks
 
-1. **Ghosts of Tamzîr Shoals**: A survivor of the original battle contacts the captain with evidence that the Tarûzelian victory was engineered—that someone manipulated both sides of the war for their own purposes. The truth could destabilize the Confederation.
-2. **The Order Closes In**: A Thôrdimâlon (the Arcane Order) _sêkhêrândôs_ (inquirer) arrives in port with a writ of seizure for the Tamzîr itself, naming the ship as an instrument of arcane fugitive transport. The crew must decide whether to run, fight, or find a legal defense—and any of those options has consequences.
+1. **Ghosts of Tamzir Shoals**: A survivor of the original battle contacts the captain with evidence that the Taruzelian victory was engineered—that someone manipulated both sides of the war for their own purposes. The truth could destabilize the Confederation.
+2. **The Order Closes In**: A Thordimalon (the Arcane Order) _sekeros_ (inquirer) arrives in port with a writ of seizure for the Tamzir itself, naming the ship as an instrument of arcane fugitive transport. The crew must decide whether to run, fight, or find a legal defense—and any of those options has consequences.
 3. **A Paying Passenger**: A wealthy traveler offers an enormous sum for passage to a destination the crew would rather avoid. The money could solve half their problems, but the passenger is not what they seem.

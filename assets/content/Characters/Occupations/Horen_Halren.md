@@ -1,6 +1,6 @@
 ---
 shortcode: khornhalrn
-name: {full: Hóren Hálren, aliases: []}
+name: {full: Horen Halren, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -394,23 +394,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Hóren Hálren is a 36-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with defined cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. His almond-shaped hazel eyes sit beneath arched brows and give him a measured gaze. He has a straight nose and firm lips. He has light skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
+Horen Halren is a 36-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with defined cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. His almond-shaped hazel eyes sit beneath arched brows and give him a measured gaze. He has a straight nose and firm lips. He has light skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Hóren Hálren is a yeoman infantryman of Liranel, the forest town of the Lírvë coast of [[place-elavendre|Élavendre]], an Élavendri freeman who took the crown's coin in the coastal levy at eighteen and holds the crown's serjeanty at Liranel now.
+Horen Halren is a yeoman infantryman of Liranel, the forest town of the Lirve coast of [[place-elavendre|Élavendre]], an Élavendri freeman who took the crown's coin in the coastal levy at eighteen and holds the crown's serjeanty at Liranel now.
 
-Hóren was a haulier's son in a town that lives by timber, and he went to the Lírvë levy because a levy man is paid and a haulier's second son is not. He served for most of two decades wherever the kingdom's fighting was: on the Líserë shore when the Varokh and the Grukar came over the bay, and in the Áuldalon hills when the war-parties came overland. Four years ago the crown gave him the serjeanty at Liranel: he keeps the peace of the forest court and musters the town's yeomen when the Forester needs them. It is what he wanted, a post at home with a wife and a roof, and the peace of a forest town has turned out to be a different kind of fighting.
+Horen was a haulier's son in a town that lives by timber, and he went to the Lirve levy because a levy man is paid and a haulier's second son is not. He served for most of two decades wherever the kingdom's fighting was: on the Lísere shore when the Varokh and the Grukar came over the bay, and in the Áuldalon hills when the war-parties came overland. Four years ago the crown gave him the serjeanty at Liranel: he keeps the peace of the forest court and musters the town's yeomen when the Forester needs them. It is what he wanted, a post at home with a wife and a roof, and the peace of a forest town has turned out to be a different kind of fighting.
 
 ## Psyche
 
 ### Personality
 
-Hóren is loyal, patient and slow to change his mind about anything, including how a fight should be fought. The years on the shore have left him tired in a way that rest does not mend.
+Horen is loyal, patient and slow to change his mind about anything, including how a fight should be fought. The years on the shore have left him tired in a way that rest does not mend.
 
 ### Motivation
 
-Hóren wants to keep the post he was given and do it as he did the levy, exactly and without fuss, and he wants the quiet he was promised with it. The forest court keeps giving him reasons to draw the sword he came home to hang up.
+Horen wants to keep the post he was given and do it as he did the levy, exactly and without fuss, and he wants the quiet he was promised with it. The forest court keeps giving him reasons to draw the sword he came home to hang up.
 
 ### Strengths
 
@@ -418,13 +418,13 @@ Strong, experienced in close fighting, disciplined.
 
 ## Social
 
-Hóren holds the crown's serjeanty at Liranel, and his name stays on the roll of the Lírvë levy, which can call him back to the shore.
+Horen holds the crown's serjeanty at Liranel, and his name stays on the roll of the Lirve levy, which can call him back to the shore.
 
 ## Companions
 
 ### Patrons
 
-Hóren's patron is the crown's Forester at Liranel, who holds the forest court and relies on Hóren to make its judgments stick.
+Horen's patron is the crown's Forester at Liranel, who holds the forest court and relies on Horen to make its judgments stick.
 
 ### Enemies
 
@@ -432,10 +432,10 @@ The guides who take paying visitors past the edge the Wardens allow, and the tim
 
 ## Plot Hooks
 
-1. **The Seizure**—The forest court has condemned a haulier's whole season of timber as cut over license, and Hóren is to seize it. The haulier is his father's oldest friend.
+1. **The Seizure**—The forest court has condemned a haulier's whole season of timber as cut over license, and Horen is to seize it. The haulier is his father's oldest friend.
 
-2. **The Beacon**—A beacon has been lit on the Líserë headlands and the Lírvë levy is called. Hóren's name is on the roll, and the Forester has said the town cannot spare him.
+2. **The Beacon**—A beacon has been lit on the Lísere headlands and the Lirve levy is called. Horen's name is on the roll, and the Forester has said the town cannot spare him.
 
-3. **The Guide**—A guide's party went into the deep wood a fortnight ago and has not come out, and the family wants Hóren to go in after them. The Wardens have said nobody is to.
+3. **The Guide**—A guide's party went into the deep wood a fortnight ago and has not come out, and the family wants Horen to go in after them. The Wardens have said nobody is to.
 
-4. **The Old Comrade**—A man Hóren stood beside on the Líserë shore is now cutting unlicensed oak above Liranel, and he has asked Hóren, as a comrade, to look the other way once.
+4. **The Old Comrade**—A man Horen stood beside on the Lísere shore is now cutting unlicensed oak above Liranel, and he has asked Horen, as a comrade, to look the other way once.

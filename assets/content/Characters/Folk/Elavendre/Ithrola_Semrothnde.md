@@ -1,6 +1,6 @@
 ---
 shortcode: ithrolasemro
-name: {full: Íthrola Sémrothndë, aliases: [Countess Íthrola]}
+name: {full: Íthrola Sémrothnde, aliases: [Countess Íthrola]}
 type: being
 subType: npc
 description: A young countess whose domain lies three days' ride from Álira Kálmereth's cottage.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Íthrola Sémrothndë is a 24-year-old woman who stands 5'9" tall with a heavy build. She has pale skin, freckled complexion, dark brown hair, and grey eyes.
+Íthrola Sémrothnde is a 24-year-old woman who stands 5'9" tall with a heavy build. She has pale skin, freckled complexion, dark brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Íthrola Sémrothndë is a young countess whose domain lies three days' ride from the cottage of [[being-alyrklmrth|Álira Kálmereth]]. She has heard extraordinary tales of Álira's toymaking, and has a daughter whose nightmares she hopes the toymaker can capture.
+Íthrola Sémrothnde is a young countess whose domain lies three days' ride from the cottage of [[being-alyrklmrth|Álira Kálmereth]]. She has heard extraordinary tales of Álira's toymaking, and has a daughter whose nightmares she hopes the toymaker can capture.

@@ -3,7 +3,7 @@ shortcode: mavesha
 name: {full: Mavesha, aliases: [Prophet Mavesha]}
 type: being
 subType: npc
-description: The leader of a heretical sect hunted by Sharmînah Tahvân, who views her as an abomination and works to counter her influence.
+description: The leader of a heretical sect hunted by Sharminah Tahvan, who views her as an abomination and works to counter her influence.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Mavesha is a 51-year-old woman who stands 5'9" tall with a light build. She has 
 
 # Dossier {#dossier}
 
-Mavesha is the prophet who leads a heretical sect, one that [[being-shrmnhthvn|Sharmînah Tahvân]] has systematically hunted for its more moderate theology, which she counts a corruption of true faith. The prophet views Sharmînah as an abomination and works to counter her influence.
+Mavesha is the prophet who leads a heretical sect, one that [[being-shrmnhthvn|Sharminah Tahvan]] has systematically hunted for its more moderate theology, which she counts a corruption of true faith. The prophet views Sharminah as an abomination and works to counter her influence.

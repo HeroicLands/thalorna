@@ -1,9 +1,9 @@
 ---
 shortcode: venthelenkal
-name: {full: Vênthêlen Kâldrêmândis, aliases: [Captain Kâldrêmândis]}
+name: {full: Venthelen Kaldremis, aliases: [Captain Kaldremis]}
 type: being
 subType: npc
-description: A gruff but fair-minded captain of the merchant vessel Seaflower who trained Brânalenîs Bárkalâs.
+description: A gruff but fair-minded captain of the merchant vessel Seaflower who trained Branalenis Bárkalas.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Vênthêlen Kâldrêmândis is a 63-year-old woman who stands 5'9" tall with a heavy build. She has olive skin, weathered complexion, dark brown hair, and grey eyes.
+Venthelen Kaldremis is a 63-year-old woman who stands 5'9" tall with a heavy build. She has olive skin, weathered complexion, dark brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Vênthêlen Kâldrêmândis was the gruff but fair-minded captain of the merchant vessel _Seaflower_. Vênthêlen took in [[being-brnlnsbrkls|Brânalenîs Bárkalâs]] as a child, trained her in seamanship and kept her advancement informal to protect her from resentment among the men who held rank. Vênthêlen died of a wasting illness.
+Venthelen Kaldremis was the gruff but fair-minded captain of the merchant vessel _Seaflower_. Venthelen took in [[being-brnlnsbrkls|Branalenis Bárkalas]] as a child, trained her in seamanship and kept her advancement informal to protect her from resentment among the men who held rank. Venthelen died of a wasting illness.

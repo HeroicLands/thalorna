@@ -1,6 +1,6 @@
 ---
 shortcode: crsyhrvlnhng
-name: {full: The Curse of Yharvalen Henge, aliases: []}
+name: {full: The Curse of Yarvalen Henge, aliases: []}
 type: scenario
 subType: adventure
 data:
@@ -14,19 +14,19 @@ data:
   packFolder: adventures
 ---
 
-## The Curse of Yhârvalen Henge
+## The Curse of Yarvalen Henge
 
-Yhârvalen Henge, a megalithic monument destroyed during the Nordheim raids, has become a place of blood and death. A dark cult has awakened its curse, and the surrounding lands are dying. The party must uncover the cult's purposes and stop them before the blight spreads beyond the bloodfields.
+Yarvalen Henge, a megalithic monument destroyed during the Nordheim raids, has become a place of blood and death. A dark cult has awakened its curse, and the surrounding lands are dying. The party must uncover the cult's purposes and stop them before the blight spreads beyond the bloodfields.
 
 ### Overview
 
-In the far north of the [[place-provenzrgn|Provènzia Region]], in [[place-sathvothe|Sathvòthe]], on the low coast running inland from the [[place-batarengulf|Gulf of Batáren]] where the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]'s raiders came ashore, stands Yhârvalen Henge—or what remains of it. Once a sacred site of pre-Aurèldían traditions, the megalithic circle was destroyed approximately 200 years ago during the Nordheim raids that swept through northern [[place-provenzrgn|Provènzia Region]]. The land around the henge became known as the Blood-field of Yhârvalen, cursed and dying. For centuries, it lay dormant and avoided. Now, something has awakened the curse, and the lands surrounding the henge are withering. Crops fail, animals die, people sicken, and the very soil seems poisoned. Investigation reveals that a cult—the [[affiliation-blackflame|Cult of the Black Flame]]—has been deliberately awakening and magnifying the curse, drawing power from the destruction and death.
+In the far north of the [[place-provenzrgn|Provenzia Region]], in [[place-sathvothe|Satvote]], on the low coast running inland from the [[place-batarengulf|Gulf of Bataren]] where the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]'s raiders came ashore, stands Yarvalen Henge—or what remains of it. Once a sacred site of pre-Aureldían traditions, the megalithic circle was destroyed approximately 200 years ago during the Nordheim raids that swept through northern [[place-provenzrgn|Provenzia Region]]. The land around the henge became known as the Blood-field of Yarvalen, cursed and dying. For centuries, it lay dormant and avoided. Now, something has awakened the curse, and the lands surrounding the henge are withering. Crops fail, animals die, people sicken, and the very soil seems poisoned. Investigation reveals that a cult—the [[affiliation-blackflame|Cult of the Black Flame]]—has been deliberately awakening and magnifying the curse, drawing power from the destruction and death.
 
 ### Stage One: The Blight Discovered
 
 The party becomes aware of the curse through:
 
-- Traveling through northern [[place-provenzrgn|Provènzia Region]] and witnessing the blighted lands
+- Traveling through northern [[place-provenzrgn|Provenzia Region]] and witnessing the blighted lands
 - Being hired by a desperate lord or bishop to investigate the dying lands
 - Encountering refugees fleeing the blighted region
 - Finding villages at the curse's edge experiencing sickness and desperation
@@ -36,11 +36,11 @@ The party becomes aware of the curse through:
 
 - The blight has been spreading slowly over the past year
 - Affected lands suffer crop failure, animal death, and human sickness
-- The curse seems focused on the area around Yhârvalen Henge
+- The curse seems focused on the area around Yarvalen Henge
 - Local people remember old stories of the henge's destruction and the curse that followed
 - Some blame a returning [[affiliation-kngdmnrdhm|Nordheim curse]]; others suspect dark magic
-- Ancient records mention pre-Aurèldían traditions and forces bound to the henge
-- The [[affiliation-ordoarcanis|Thôrdimâlon]] has shown unusual interest in the region
+- Ancient records mention pre-Aureldían traditions and forces bound to the henge
+- The [[affiliation-ordoarcanis|Thordimalon]] has shown unusual interest in the region
 
 **NPCs:**
 
@@ -57,7 +57,7 @@ The party investigates the blight's source and discovers the Cult of the Black F
 **Research Reveals:**
 
 - The cult worships [[affiliation-blackflame|The Black Flame]], a creed of destruction and blood sacrifice
-- The cult has grown in secret within [[place-provenzrgn|Provènzia Region]] over decades, hidden among Ústaron's legitimate congregations
+- The cult has grown in secret within [[place-provenzrgn|Provenzia Region]] over decades, hidden among Ústaron's legitimate congregations
 - Members include renegade priests, disgraced nobles, and mercenaries drawn to its promise of power through destruction
 - The cult's goal appears to be awakening and expanding the curse as a prelude to larger plans
 - They perform dark rituals at the henge, drawing power from the blood-field to fuel their corrupted fire-magic
@@ -72,23 +72,23 @@ The party investigates the blight's source and discovers the Cult of the Black F
 
 **Possible Motives:**
 
-- Creating a nexus of dark power in [[place-provenzrgn|Provènzia Region]]
+- Creating a nexus of dark power in [[place-provenzrgn|Provenzia Region]]
 - Weakening the kingdom to seize power from within
 - Drawing power from destruction and death to fuel their corrupted fire-god's influence
 - Preparing for a larger ritual or summoning
-- Some members may have foreign connections—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders, [[affiliation-vylarinmpr|Vylarian]] agents, or the [[affiliation-ordoarcanis|Thôrdimâlon]]—but the cult's roots are Provenzian
+- Some members may have foreign connections—[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] raiders, [[affiliation-vylarinmpr|Vylarian]] agents, or the [[affiliation-ordoarcanis|Thordimalon]]—but the cult's roots are Provenzian
 
 **Complications:**
 
 - The cult has members in positions of authority (nobles, priests, merchants)
 - The party is recognized as a threat and becomes a target for assassination or sabotage
-- The [[affiliation-ordoarcanis|Thôrdimâlon]] may be investigating the site for their own purposes (cooperation or conflict)
+- The [[affiliation-ordoarcanis|Thordimalon]] may be investigating the site for their own purposes (cooperation or conflict)
 - The blight spreads faster as the cult accelerates their ritual schedule
 - A party member is revealed to have a connection to or be compromised by the cult
 
 ### Stage Three: The Blood-Field
 
-The party approaches Yhârvalen Henge and enters the cursed land:
+The party approaches Yarvalen Henge and enters the cursed land:
 
 **Environmental Hazards:**
 
@@ -104,7 +104,7 @@ The party approaches Yhârvalen Henge and enters the cursed land:
 - Manifestations of the curse itself: twisted creatures, spectral soldiers from the ancient destruction
 - The remnants of those slain in the Nordheim raids (restless spirits, undead)
 - Cult guardian constructs or summoned entities
-- A rival faction or the [[affiliation-ordoarcanis|Thôrdimâlon]] investigating the site
+- A rival faction or the [[affiliation-ordoarcanis|Thordimalon]] investigating the site
 
 ### Stage Four: Confronting the Cult
 
@@ -112,7 +112,7 @@ The party must locate and stop the Cult of the Black Flame's activities:
 
 **Possible Confrontations:**
 
-- The cult's primary ritual site at or near Yhârvalen Henge itself
+- The cult's primary ritual site at or near Yarvalen Henge itself
 - The cult leader or high priest performing dark rites
 - Multiple cult cells operating simultaneously across the region
 - A summoning or manifestation of a dark entity or demonic power
@@ -128,7 +128,7 @@ The party must locate and stop the Cult of the Black Flame's activities:
 **Breaking the Curse:** The party must decide how to stop the curse:
 
 - Destroy the cult and cease their rituals, weakening the curse naturally
-- Perform counter-rituals using Aurèldían magic or other power
+- Perform counter-rituals using Aureldian magic or other power
 - Negotiate with or banish the entity or force empowering the curse
 - Restore sanctity or peace to the blood-field through cleansing and memorial
 - Seal or bind the curse, preventing further awakening
@@ -137,21 +137,21 @@ The party must locate and stop the Cult of the Black Flame's activities:
 
 **If the party succeeds:**
 
-- The cult is destroyed or driven from [[place-provenzrgn|Provènzia Region]]
+- The cult is destroyed or driven from [[place-provenzrgn|Provenzia Region]]
 - The curse stabilizes and begins to fade
 - The blight-lands begin to recover (slowly)
 - The affected peoples are grateful and recover hope
-- The party gains renown as defenders of [[place-provenzrgn|Provènzia Region]]
-- The corrupted Ústaron cult is exposed, raising questions about what darkness hides within the Aurèldían faith
+- The party gains renown as defenders of [[place-provenzrgn|Provenzia Region]]
+- The corrupted Ústaron cult is exposed, raising questions about what darkness hides within the Aureldian faith
 
 **Complications:**
 
 - Some cult members escape and seek revenge
 - The curse's effects linger for years; complete recovery takes time
 - Surviving cult members may seek refuge with foreign powers sympathetic to their cause
-- The [[affiliation-ordoarcanis|Thôrdimâlon]] may attempt to monopolize knowledge of the site or claim authority over the remaining curse
+- The [[affiliation-ordoarcanis|Thordimalon]] may attempt to monopolize knowledge of the site or claim authority over the remaining curse
 - If the party failed to uncover all cult cells, the group may continue their work elsewhere
-- The party may be drawn into larger conflicts over arcane power and religious corruption in [[place-provenzrgn|Provènzia Region]]
+- The party may be drawn into larger conflicts over arcane power and religious corruption in [[place-provenzrgn|Provenzia Region]]
 
 **If the party fails:**
 
@@ -164,8 +164,8 @@ The party must locate and stop the Cult of the Black Flame's activities:
 
 ### See Also
 
-- [[place-provenzrgn|Provènzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
+- [[place-provenzrgn|Provenzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
-- [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Thôrdimâlon]]
+- [[affiliation-arldnpnthn|Aureldian]]
+- [[affiliation-ordoarcanis|Thordimalon]]

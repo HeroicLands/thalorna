@@ -24,20 +24,20 @@ A smugglers' landing lies behind the mound, where a creek still reaches the wate
 
 ## What the Temple Court Holds
 
-The raiders buried their own dead in the temple court, and they did it in a manner no Khelâthi recognizes. The graves are shallow, aligned to something other than the river, and furnished with goods of a make the delta's craftsmen cannot place. Nobody has dug them since the Halzi'a's officials closed the court and left the pylon standing as a mark.
+The raiders buried their own dead in the temple court, and they did it in a manner no Khelathi recognizes. The graves are shallow, aligned to something other than the river, and furnished with goods of a make the delta's craftsmen cannot place. Nobody has dug them since the Halzi'a's officials closed the court and left the pylon standing as a mark.
 
 ## Who Goes There
 
 - **Smugglers** use the landing behind the mound, and know every channel the patrol does not.
 - **Salt-cutters** work the pans along its edge and guard the paths to them.
 - **The customs patrol** of the weigh-houses, which would like the landing closed without a fight.
-- **Scholars** who want the raiders' origin, which the Khelâthi record does not hold, and who have come to dig in the temple court.
+- **Scholars** who want the raiders' origin, which the Khelathi record does not hold, and who have come to dig in the temple court.
 
 ## Hooks
 
 - **The graves.** A scholar offers to pay a party to guard a quiet dig in the temple court. The goods in the graves would name the raiders' country, and the Halzi'a's officials do not want them named.
 - **The ring at the landing.** A smuggling ring uses the ruin as a store, and the customs-house wants it closed without bloodshed. The ring's leader is a salt-cutter with a cousin in the weigh-house.
-- **The pylon.** Someone has been cutting new marks into the pylon's lower courses at night, in a hand that is not Khelâthi.
+- **The pylon.** Someone has been cutting new marks into the pylon's lower courses at night, in a hand that is not Khelathi.
 
 ## See Also
 

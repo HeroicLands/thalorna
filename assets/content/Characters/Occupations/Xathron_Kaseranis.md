@@ -1,6 +1,6 @@
 ---
 shortcode: xthrnksrns
-name: {full: Xâthrôn Kâserânis, aliases: []}
+name: {full: Zathron Kaseranis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Xâthrôn Kâserânis is a 44-year-old man who stands 5'9" tall and is of moderate build. He has an angular face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a square chin. His sharp brown eyes sit beneath prominent brows, lending him an incisive gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a weathered complexion. His chestnut hair is kept practical and short.
+Zathron Kaseranis is a 44-year-old man who stands 5'9" tall and is of moderate build. He has an angular face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a square chin. His sharp brown eyes sit beneath prominent brows, lending him an incisive gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a weathered complexion. His chestnut hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a noble family of Vylarian heritage, Xâthrôn Kâserânis came into the world of the physician through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria]] region to a noble family of Vylarian heritage, Zathron Kaseranis came into the world of the physician through a combination of circumstance and aptitude.
 
-Xâthrôn is a physician with a reputation for his innovative treatments and thorough approach to patient care. He has spent years researching various medical practices and is known for his willingness to experiment with new methods. Xâthrôn is passionate about advancing medical knowledge and often shares his findings with peers. Despite his serious demeanor, he has a kind heart and is dedicated to his patients' well-being.
+Zathron is a physician with a reputation for his innovative treatments and thorough approach to patient care. He has spent years researching various medical practices and is known for his willingness to experiment with new methods. Zathron is passionate about advancing medical knowledge and often shares his findings with peers. Despite his serious demeanor, he has a kind heart and is dedicated to his patients' well-being.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Can be too focused on experimentation, struggles with interpersonal relationship
 
 ### Motivation
 
-Xâthrôn's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
+Zathron's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Highly experienced, excellent researcher, skilled at complex diagnoses.
 
 ## Social
 
-Xâthrôn is affiliated with Local Physicians' Guild.
+Zathron is affiliated with Local Physicians' Guild.
 
-As a Vylarian physician, Xâthrôn occupies a recognized social niche within Vylaria society.
+As a Vylarian physician, Zathron occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Xâthrôn's primary patron is Local nobles and community members seeking advanced medical treatment. This relationship provides both opportunity and obligation.
+Zathron's primary patron is Local nobles and community members seeking advanced medical treatment. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ Few; generally well-respected but may face skepticism from traditionalists.
 
 ## Plot Hooks
 
-1. **The Physician's Dilemma**—Xâthrôn faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Physician's Dilemma**—Zathron faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—Few; generally well-respected but may face skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Xâthrôn's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Zathron's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Xâthrôn depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Zathron depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Xâthrôn the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Zathron the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

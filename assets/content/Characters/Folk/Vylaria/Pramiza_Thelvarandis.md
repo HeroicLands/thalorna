@@ -1,9 +1,9 @@
 ---
 shortcode: pramizathelv
-name: {full: Prâmizâ Thêlvarândis, aliases: [Lady Prâmizâ Thêlvarândis]}
+name: {full: Pramiza Thelvaris, aliases: [Lady Pramiza Thelvaris]}
 type: being
 subType: npc
-description: An immensely wealthy widow and patron of the arts who has championed the work of Màkîthos Vânardis.
+description: An immensely wealthy widow and patron of the arts who has championed the work of Makithos Vanardis.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Prâmizâ Thêlvarândis is a 64-year-old woman who stands 5'9" tall with a heavy build. She has olive skin, weathered complexion, dark brown hair, and brown eyes.
+Pramiza Thelvaris is a 64-year-old woman who stands 5'9" tall with a heavy build. She has olive skin, weathered complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Prâmizâ Thêlvarândis is an immensely wealthy widow and a patron of the arts. Prâmizâ has championed the work of [[being-mkthsvnrds|Màkîthos Vânardis]] despite critical controversy, commissioning his most ambitious productions and providing him with financial stability.
+Pramiza Thelvaris is an immensely wealthy widow and a patron of the arts. Pramiza has championed the work of [[being-mkthsvnrds|Makithos Vanardis]] despite critical controversy, commissioning his most ambitious productions and providing him with financial stability.

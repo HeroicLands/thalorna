@@ -1,6 +1,6 @@
 ---
 shortcode: astrokyklos
-name: {full: Ilthêrâlon, aliases: []}
+name: {full: Iltheron, aliases: []}
 type: affiliation
 subType: spirittradition
 tags: []
@@ -71,6 +71,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Vârthâs—Ram Dôlvêrâs—Ox Tâvemâs—Twins Dûlmêkâs—Tortoise Kâlpêzâs—Gate Vônthâs—Helm Thrâdinâs—Balance Prênkâs—Goad Ithrôlâs—Lamp Grêlthâs—Stag Sîrêthâs—River Ûlphâs—Fish
+Varthas—Ram Dolveras—Ox Tavemas—Twins Dulmekas—Tortoise Kalpezas—Gate Vonthas—Helm Thradinas—Balance Prenkas—Goad Ithrolas—Lamp Grelthas—Stag Sirethas—River Ulfas—Fish
 
-Ilthêrâlon—Star Circle
+Iltheron—Star Circle

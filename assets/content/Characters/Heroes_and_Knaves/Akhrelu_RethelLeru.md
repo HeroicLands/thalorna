@@ -1,6 +1,6 @@
 ---
 shortcode: akhrelrthllr
-name: {full: Akhrelu Reth'el'Lêru, given: Akhrelu, clan: Reth'el'Lêru, aliases: []}
+name: {full: Akhrelu Reth'el'Leru, given: Akhrelu, clan: Reth'el'Leru, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [garanlaghet]
-  affiliations: {empireakhlth: {rank: 3}, rethsaar: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, rethsaar: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.219
@@ -421,13 +421,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[akhrelrthllr|Akhrelu Reth'el'Lêru]]{float=top-left}
+![[akhrelrthllr|Akhrelu Reth'el'Leru]]{float=top-left}
 
 Akhrelu stands 6'1" tall with a heavy build. He has dark brown skin, jet black hair, and brown eyes. His features include a long face, a prominent nose, a narrow chin, full lips, dark brows, and sculpted cheeks. He has a scar on the back of his left arm.
 
 # Dossier {#dossier}
 
-Akhrelu was born in the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had been animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrelu displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
+Akhrelu was born in the Empire of [[affiliation-empireakhlth|Au'Khelathu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had been animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrelu displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
 
 At fifteen, he apprenticed formally to Master [[being-latari2|Latari]], the Empire's foremost animal trainer, learning not through books or doctrine but through intuition and practice. Latari taught him that animals respond to intention and respect, not dominance and cruelty. For twenty-three years, Akhrelu worked beside Latari, specializing in the training of exotic beasts for noble hunts, military campaigns, and ceremonial purposes. When Latari grew too aged to continue, Akhrelu inherited both his knowledge and his responsibilities.
 
@@ -476,7 +476,7 @@ Lord [[being-vaskan|Vaskan]] of the [[place-southrnmrch|Southern March]]
 The Temple of Sacred Beasts
 : A religious institution that occasionally seeks Akhrelu's skill for the training and care of sacred creatures used in ceremonies, offering both prestige and reasonable compensation.
 
-[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Aû'Khelâthu]]
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]]
 : Wealthy traders occasionally hire Akhrelu to train guard beasts, assess the condition of animals brought through the trade routes, or consult on the transport and care of exotic creatures destined for distant markets.
 
 ### Enemies
@@ -489,7 +489,7 @@ Khelarven the Brutal
 
 ### Affiliations
 
-[[affiliation-linzghtkhlth|Lin'Zeghet elu Aû'Khelâthu]]
+[[affiliation-linzghtkhlth|Lin'Zeghet elu Au'Khelathu]]
 : A formal organization of hunters and animal specialists. While Akhrelu maintains membership and respects the Guild's codes, he remains something of an outsider due to his unorthodox methods and preference for solitude.
 
 ## Plot Hooks
@@ -500,6 +500,6 @@ Khelarven the Brutal
 
 3. [[affiliation-zeghetqelunu|Zeghet'Qelunu]]: Akhrelu discovers evidence of an organized poaching operation targeting the rarest animals in the Empire. The operation is larger and better-organized than any he has encountered before, with military-style structure and significant resources. Following the trail leads him toward powerful figures in government and nobility, forcing him to choose between his loyalty to Lord Vaskan and his obligation to protect the creatures under threat.
 
-4. **The Stolen Beast**: One of Akhrelu's prized trained animals—a magnificent creature worth a fortune and irreplaceable to him—is stolen by persons unknown. The investigation leads him into the criminal underworld of Aû'Khelâthu's cities, where he must employ unfamiliar tactics of deception and information-gathering to track the theft. The trail suggests involvement of Khelarven, but the conspiracy appears far larger than personal rivalry.
+4. **The Stolen Beast**: One of Akhrelu's prized trained animals—a magnificent creature worth a fortune and irreplaceable to him—is stolen by persons unknown. The investigation leads him into the criminal underworld of Au'Khelathu's cities, where he must employ unfamiliar tactics of deception and information-gathering to track the theft. The trail suggests involvement of Khelarven, but the conspiracy appears far larger than personal rivalry.
 
 5. **The Sacred Charge**: The Temple of Sacred Beasts approaches Akhrelu with a desperate commission: a sacred creature, essential to maintaining the religious ceremonies that bind the Empire together, is dying of an unknown affliction. They believe Akhrelu's skills represent the only hope for the animal's recovery. Success would grant him influence and resources unprecedented in his life; failure would devastate both the creature and the social order itself. As Akhrelu works to understand the creature's illness, he uncovers evidence suggesting the affliction was deliberately induced—and the perpetrator is someone high within the Temple hierarchy.

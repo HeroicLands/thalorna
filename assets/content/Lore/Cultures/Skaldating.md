@@ -8,11 +8,11 @@ tags: [draft, nordlands, bardic]
 data: {packFolder: nordlands}
 ---
 
-The **Skaldating** is the yearly gathering of the [[affiliation-skaldscrcl|Skalds' Circle]]. The five Nordland kingdoms host it in rotation, and Aelwyth or Vrystwald occasionally does.
+The **Skaldating** is the yearly gathering of the [[affiliation-skaldscrcl|Skalds' Circle]]. The five Nordland kingdoms host it in rotation, and Aelwyth or Vristwald occasionally does.
 
-## The Gyldra
+## The Geldra
 
-An apprentice presents his first saga, the _gyldra_, to the assembled skalds. If the assembly accepts it, his master swears him into the Circle and he is a skald in his own right. If it is rejected he may try again the following year, and twice more after that; after three rejections the apprenticeship ends without recrimination and without rank.
+An apprentice presents his first saga, the _geldra_, to the assembled skalds. If the assembly accepts it, his master swears him into the Circle and he is a skald in his own right. If it is rejected he may try again the following year, and twice more after that; after three rejections the apprenticeship ends without recrimination and without rank.
 
 ## The Repertoire
 

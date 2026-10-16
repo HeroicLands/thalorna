@@ -240,7 +240,7 @@ The lamp on the porter's pole throws its light a few yards up the ridge path and
 
 # Dossier {#dossier}
 
-The Ember-eyed Cat, _naokalo_ in [[skill-kalihrlng|Kalihári]], "green ember", for the glow of its eyes in torchlight, is a heavy, dark-coated forest cat the size of a leopard. It lives in the steep forest between the lowland villages and the terraces and on the lower slopes of the ring of mountains, and it is the apex of the island's forest. It hunts pigs, deer and the lowland herds by dropping from low branches, and it takes the carcass of a [[being-mngbhmth|Mangrove Behemoth]]'s bitten victim if it finds it first. It is the one beast of the forest that takes grown people.
+The Ember-eyed Cat, _naokalo_ in [[skill-kalihrlng|Kalihari]], "green ember", for the glow of its eyes in torchlight, is a heavy, dark-coated forest cat the size of a leopard. It lives in the steep forest between the lowland villages and the terraces and on the lower slopes of the ring of mountains, and it is the apex of the island's forest. It hunts pigs, deer and the lowland herds by dropping from low branches, and it takes the carcass of a [[being-mngbhmth|Mangrove Behemoth]]'s bitten victim if it finds it first. It is the one beast of the forest that takes grown people.
 
 ## Presentation
 

@@ -1,6 +1,6 @@
 ---
 shortcode: dernklmrth
-name: {full: Déren Kálmereth, aliases: []}
+name: {full: Deren Kálmereth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Déren Kálmereth is a 25-year-old woman who stands 5'9" tall and is of moderate build. She has an oval face with high cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her hooded amber eyes sit beneath arched brows, lending her a guarded gaze. A delicate nose and narrow lips complete her features. She has light skin with a pale complexion. Her brown hair is loose and wavy.
+Deren Kálmereth is a 25-year-old woman who stands 5'9" tall and is of moderate build. She has an oval face with high cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her hooded amber eyes sit beneath arched brows, lending her a guarded gaze. A delicate nose and narrow lips complete her features. She has light skin with a pale complexion. Her brown hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Déren Kálmereth came into the world of the salter through a combination of circumstance and aptitude.
+Born in the Élavendre region to a freeman family of Élavendri heritage, Deren Kálmereth came into the world of the salter through a combination of circumstance and aptitude.
 
-Déren is a dedicated salter who works alongside her father in their family-run saltworks. She focuses on the delicate process of harvesting and packaging the salt for sale. Déren has an eye for quality and often interacts with customers at local markets. She takes pride in her family's tradition of salt production and is passionate about promoting the benefits of salt in cooking and preservation.
+Deren is a dedicated salter who works alongside her father in their family-run saltworks. She focuses on the delicate process of harvesting and packaging the salt for sale. Deren has an eye for quality and often interacts with customers at local markets. She takes pride in her family's tradition of salt production and is passionate about promoting the benefits of salt in cooking and preservation.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Can be overly perfectionistic, struggles with self-confidence.
 
 ### Motivation
 
-Déren is driven by the desire to master her craft and secure a stable future. The uncertainties of life in salter work keep her vigilant and adaptable.
+Deren is driven by the desire to master her craft and secure a stable future. The uncertainties of life in salter work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Attention to detail, skilled in customer relations, knowledgeable about salt's u
 
 ## Social
 
-Déren is affiliated with None; operates independently.
+Deren is affiliated with None; operates independently.
 
-As a Élavendri salter, Déren occupies a recognized social niche within Élavendre society.
+As a Élavendri salter, Deren occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Déren's primary patron is Local households and merchants seeking quality salt. This relationship provides both opportunity and obligation.
+Deren's primary patron is Local households and merchants seeking quality salt. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Few; generally well-liked, though some competitors may envy her success.
 
 ## Plot Hooks
 
-1. **The Salter's Dilemma**—Déren faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Salter's Dilemma**—Deren faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Few; generally well-liked, though some competitors may envy her success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Déren's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Deren's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Déren depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Deren depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Déren the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Deren the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

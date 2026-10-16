@@ -8,9 +8,8 @@
 /**
  * The guard for `utils/nordmal-concordance.json` itself.
  *
- * Two guards read that table and neither checks it: `nordmal-drift.mjs` takes
- * its pairs to sweep the corpus, and `nordmal-lexicon.mjs` takes its deity rows
- * to fill the theophoric clause. Both trust its contents whole.
+ * `nordmal-drift.mjs` takes the table's pairs to sweep the corpus and trusts
+ * its contents whole; this guard is what checks them.
  *
  * **A renamed note keeps no trace of what it was.** There is no `renamedFrom`
  * key, no alias holding a former name, no redirect, so the table is the only
@@ -79,8 +78,6 @@ import fs from "node:fs";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
 import YAML from "yaml";
-import { lexiconFrom } from "./lexicons/nordmal-lexicon.mjs";
-import { checkStandingCoinages } from "./nordmal-standing-coinages.mjs";
 
 /** The table this guard reads and judges. */
 const TABLE = "utils/nordmal-concordance.json";
@@ -925,12 +922,6 @@ function main() {
         ...checkCollisions(rows, raw),
         ...checkNothingLost(rows, table.keep),
     ];
-    const language = fs.readFileSync(`${CONTENT_DIR}/Skills/Languages/Nordmal.md`, "utf8");
-    out.push(
-        ...checkStandingCoinages(table.standingCoinages, lexiconFrom(language), (file) =>
-            YAML.parse(fs.readFileSync(file, "utf8").split("---")[1]),
-        ).map((error) => finding(TABLE, null, null, "error", error)),
-    );
     const coverage = checkCoverage(table, rows);
     out.push(...coverage.findings);
 

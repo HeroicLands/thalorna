@@ -1,6 +1,6 @@
 ---
 shortcode: chananhbls
-name: {full: Chánnâon Hàbîlês, aliases: []}
+name: {full: Chánnaon Habiles, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Chánnâon Hàbîlês is a 53-year-old man who stands 6'0" tall and is of moderate build. He has a square face with defined cheekbones, a lined forehead, and a square jaw that leads to a firm chin. His almond-shaped blue eyes sit beneath heavy brows, lending him a measured gaze. A strong nose and expressive lips complete his features. He has olive-tanned skin with a smooth complexion. His brown hair is falling in loose waves.
+Chánnaon Habiles is a 53-year-old man who stands 6'0" tall and is of moderate build. He has a square face with defined cheekbones, a lined forehead, and a square jaw that leads to a firm chin. His almond-shaped blue eyes sit beneath heavy brows, lending him a measured gaze. A strong nose and expressive lips complete his features. He has olive-tanned skin with a smooth complexion. His brown hair is falling in loose waves.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Chánnâon Hàbîlês came into the world of the timberwright through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Chánnaon Habiles came into the world of the timberwright through a combination of circumstance and aptitude.
 
-Chánnâon has been a timberwright for over three decades, providing wood for countless homes, bridges, and ships. Known for his storytelling as much as his woodwork, he often mentors younger timberwrights. Though age has slowed him down, his experience allows him to complete difficult tasks that others avoid. Chánnâon is stubborn about using traditional techniques and has little patience for newfangled methods.
+Chánnaon has been a timberwright for over three decades, providing wood for countless homes, bridges, and ships. Known for his storytelling as much as his woodwork, he often mentors younger timberwrights. Though age has slowed him down, his experience allows him to complete difficult tasks that others avoid. Chánnaon is stubborn about using traditional techniques and has little patience for newfangled methods.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Resistant to change, slower due to age.
 
 ### Motivation
 
-Chánnâon is driven by the desire to master his craft and secure a stable future. The uncertainties of life in timberwright work keep him vigilant and adaptable.
+Chánnaon is driven by the desire to master his craft and secure a stable future. The uncertainties of life in timberwright work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Vast experience, skilled in traditional techniques, good teacher.
 
 ## Social
 
-Chánnâon is affiliated with Timberwrights' Guild.
+Chánnaon is affiliated with Timberwrights' Guild.
 
-As a Helionite timberwright, Chánnâon occupies a recognized social niche within Heliónis society.
+As a Helionite timberwright, Chánnaon occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Chánnâon's primary patron is Builders and craftsmen who value his expertise. This relationship provides both opportunity and obligation.
+Chánnaon's primary patron is Builders and craftsmen who value his expertise. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Younger timberwrights who see his methods as outdated.
 
 ## Plot Hooks
 
-1. **The Timberwright's Dilemma**—Chánnâon faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Timberwright's Dilemma**—Chánnaon faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—Younger timberwrights who see his methods as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Chánnâon's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Chánnaon's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Chánnâon depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Chánnaon depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Chánnâon the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Chánnaon the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

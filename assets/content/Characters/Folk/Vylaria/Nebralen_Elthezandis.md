@@ -1,9 +1,9 @@
 ---
 shortcode: nebralenelth
-name: {full: Nêbrâlen Elthêzândis, aliases: [Captain Nêbrâlen Elthêzândis]}
+name: {full: Nebralen Elthezis, aliases: [Captain Nebralen Elthezis]}
 type: being
 subType: npc
-description: A kindly captain who found Goremadânis Hérendânis stealing bread from the docks and took her aboard his ship, the Tempest's Mercy.
+description: A kindly captain who found Goremadanis Hérendanis stealing bread from the docks and took her aboard his ship, the Tempest's Mercy.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Nêbrâlen Elthêzândis is a 54-year-old man who stands 5'7" tall with a heavy build. He has medium skin, weathered complexion, black hair, and green eyes.
+Nebralen Elthezis is a 54-year-old man who stands 5'7" tall with a heavy build. He has medium skin, weathered complexion, black hair, and green eyes.
 
 # Dossier {#dossier}
 
-Nêbrâlen Elthêzândis is the kindly captain of the merchant vessel _Tempest's Mercy_. He found [[being-grmdnshrndns|Goremadânis Hérendânis]] as a child stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his ship. He has refused several offers to purchase her contract and insists that she keep her freedom to choose her work.
+Nebralen Elthezis is the kindly captain of the merchant vessel _Tempest's Mercy_. He found [[being-grmdnshrndns|Goremadanis Hérendanis]] as a child stealing bread from the docks and, instead of turning her in to the city watch, offered her work aboard his ship. He has refused several offers to purchase her contract and insists that she keep her freedom to choose her work.

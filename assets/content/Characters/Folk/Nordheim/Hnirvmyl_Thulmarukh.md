@@ -1,9 +1,9 @@
 ---
 shortcode: hnirvmylthul
-name: {full: Hnirvmýl Thulmarukh, aliases: [Lord Hnirvmýl Thulmarukh]}
+name: {full: Hnirmil Thulmaruk, aliases: [Lord Hnirmil Thulmaruk]}
 type: being
 subType: npc
-description: A wealthy merchant prince with significant enemies who has employed Thraldorv Vörnheim as a bodyguard.
+description: A wealthy merchant prince with significant enemies who has employed Thraldorv Vornheim as a bodyguard.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hnirvmýl Thulmarukh is a 56-year-old man who stands 6'2" tall with a massive build. He has fair skin, ruddy complexion, dark brown hair, and green eyes.
+Hnirmil Thulmaruk is a 56-year-old man who stands 6'2" tall with a massive build. He has fair skin, ruddy complexion, dark brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Hnirvmýl Thulmarukh is a wealthy merchant prince with significant enemies who has employed [[being-thrldrvvrnhm|Thraldorv Vörnheim]] as a bodyguard. He has employed Thraldorv several times for extended contracts.
+Hnirmil Thulmaruk is a wealthy merchant prince with significant enemies who has employed [[being-thrldrvvrnhm|Thraldorv Vornheim]] as a bodyguard. He has employed Thraldorv several times for extended contracts.

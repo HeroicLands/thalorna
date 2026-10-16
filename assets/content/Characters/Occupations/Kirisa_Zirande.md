@@ -1,6 +1,6 @@
 ---
 shortcode: kiriszyrnd
-name: {full: Kirìsa Zirànde, aliases: []}
+name: {full: Kirisa Zire, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Kirìsa Zirànde is a 41-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set brown eyes sit beneath thin brows, lending her an open gaze. A narrow nose and thin lips complete her features. She has olive skin with a sun-tanned complexion. Her graying brown hair is flowing past her shoulders.
+Kirisa Zire is a 41-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set brown eyes sit beneath thin brows, lending her an open gaze. A narrow nose and thin lips complete her features. She has olive skin with a sun-tanned complexion. Her graying brown hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Kirìsa Zirànde came into the world of the cook through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Kirisa Zire came into the world of the cook through a combination of circumstance and aptitude.
 
-Kirìsa works in the kitchen of an inn, where she has become known for her flavorful soups and stews. She is practical and no-nonsense, having learned to cook out of necessity rather than passion. However, over the years, she has come to appreciate the art of cooking and takes pride in feeding the many travelers who pass through.
+Kirisa works in the kitchen of an inn, where she has become known for her flavorful soups and stews. She is practical and no-nonsense, having learned to cook out of necessity rather than passion. However, over the years, she has come to appreciate the art of cooking and takes pride in feeding the many travelers who pass through.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Can be dismissive of "fancy" cuisine, focusing instead on simple, hearty meals.
 
 ### Motivation
 
-Kirìsa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in cook work keep her vigilant and adaptable.
+Kirisa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in cook work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Practical cooking skills, good at managing large quantities of food.
 
 ## Social
 
-Kirìsa is affiliated with City Cooks' Guild.
+Kirisa is affiliated with City Cooks' Guild.
 
-As a Provenzian cook, Kirìsa occupies a recognized social niche within Provènzia society.
+As a Provenzian cook, Kirisa occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Kirìsa's primary patron is Inn guests and locals who enjoy her cooking. This relationship provides both opportunity and obligation.
+Kirisa's primary patron is Inn guests and locals who enjoy her cooking. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ A few chefs who look down on her simple style.
 
 ## Plot Hooks
 
-1. **The Cook's Dilemma**—Kirìsa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Cook's Dilemma**—Kirisa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
 2. **Old Grudges**—A few chefs who look down on her simple style. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Kirìsa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Kirisa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Kirìsa depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Kirisa depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Kirìsa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kirisa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

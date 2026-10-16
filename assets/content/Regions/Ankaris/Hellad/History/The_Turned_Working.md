@@ -3,7 +3,7 @@ shortcode: heladturnedwrk
 name: {full: The Turned Working, aliases: [The Afternoon on the Plain]}
 type: lore
 subType: history
-description: "In 327 BF, where the western road from Vylaria comes down to the plain of Heliónis, a Korinthean mage-warlord broke a legion with the war's greatest working, and when the Dragon Riders came over the field the working turned back on the Korinthean levy behind him, so that both armies died on one plain in one afternoon."
+description: "In 327 BF, where the western road from Vylaria comes down to the plain of Helionis, a Korinthean mage-warlord broke a legion with the war's greatest working, and when the Dragon Riders came over the field the working turned back on the Korinthean levy behind him, so that both armies died on one plain in one afternoon."
 tags: [history, hellad, federationage]
 data:
   packFolder: helionis
@@ -18,7 +18,7 @@ data:
         - place-korinthea2
         - affiliation-vylarinmpr
       summary: >-
-        On the western approach into Heliónis, where the road from Vylaria comes down to the plain, a Korinthean mage-warlord looses the war's greatest working on a legion and breaks it. A wing of the new Dragon Riders comes over the field within the hour, and near them the working turns back on its makers and runs through the Korinthean citizen levy drawn up behind the warlord, killing it in its ranks. Both armies die on one plain in one afternoon, and no herald can cross the ground to take the dead home for a generation. Korinthea opens its gates without a siege.
+        On the western approach into Helionis, where the road from Vylaria comes down to the plain, a Korinthean mage-warlord looses the war's greatest working on a legion and breaks it. A wing of the new Dragon Riders comes over the field within the hour, and near them the working turns back on its makers and runs through the Korinthean citizen levy drawn up behind the warlord, killing it in its ranks. Both armies die on one plain in one afternoon, and no herald can cross the ground to take the dead home for a generation. Korinthea opens its gates without a siege.
       standing: single-source
       names:
         - {name: the Turned Working, by: place-helionis}
@@ -55,7 +55,7 @@ data:
           agrees: disputes
         - by: affiliation-vylarinmpr
           says: >-
-            A legion was lost to a working on the Heliónis road, and the Riders arrived in time to prevent a worse result.
+            A legion was lost to a working on the Helionis road, and the Riders arrived in time to prevent a worse result.
           agrees: partly
           withholds: the Korinthean levy, which the Republic does not count among its own victories
       unresolved:
@@ -63,11 +63,11 @@ data:
         - what the working was, which no surviving record describes
 ---
 
-The carters who take the western road into Heliónis leave the highway at a cairn and rejoin it a day later on the far side of a long bend. The bend is the **Turned Working**, and what it goes round is [[place-sourplain|the Sour Plain]].
+The carters who take the western road into Helionis leave the highway at a cairn and rejoin it a day later on the far side of a long bend. The bend is the **Turned Working**, and what it goes round is [[place-sourplain|the Sour Plain]].
 
 ## The Road and the Plain
 
-In the eighth year of the war the legion that came down the western road into Heliónis met the army that [[affiliation-korinthea|Korinthea]] had put in its way. A Korinthean mage-warlord, one of the war's mage-warlords whom his own city could not fully control, stood on a rise behind the front of the city's citizen levy. He loosed on the legion the greatest working the war had seen, and the legion broke. The warlord is not named in any Helionite or Vylarian record.
+In the eighth year of the war the legion that came down the western road into Helionis met the army that [[affiliation-korinthea|Korinthea]] had put in its way. A Korinthean mage-warlord, one of the war's mage-warlords whom his own city could not fully control, stood on a rise behind the front of the city's citizen levy. He loosed on the legion the greatest working the war had seen, and the legion broke. The warlord is not named in any Helionite or Vylarian record.
 
 ## The Riders
 
@@ -81,12 +81,12 @@ No herald could cross the ground to take the dead home, for either army. The [[l
 
 - **The Sour Plain**, the region's worst [[lore-bloodfield|blood-field]], a withering that has spread a few yards in each bad decade.
 - **The bend in the western road**, which carters, couriers and the imperial post all follow.
-- **Korinthea's shame**, and with it the loss of standing of its assembly. The city's law has been kept at the [[place-korinthea2|Temple of Árdavon]] since, under a line of High Judges that begins with Nômashon in the year of the battle.
+- **Korinthea's shame**, and with it the loss of standing of its assembly. The city's law has been kept at the [[place-korinthea2|Temple of Árdavon]] since, under a line of High Judges that begins with Nomason in the year of the battle.
 - **The Helionite reading** that magic failing on a battlefield is exactly what a large working does, which the cities formed on this plain and still repeat.
 
 ## See Also
 
-- [[lore-helionscnq|The Conquest of Heliónis]]—the war this battle belongs to
-- [[lore-dragondead|The Dragon Dead at Therádon]]—the Riders' first year
+- [[lore-helionscnq|The Conquest of Helionis]]—the war this battle belongs to
+- [[lore-dragondead|The Dragon Dead at Theradon]]—the Riders' first year
 - [[place-sourplain|The Sour Plain]]
 - [[lore-heladpelagtrty|The Pelagoran Treaty]]—what Pelagora does after Korinthea falls

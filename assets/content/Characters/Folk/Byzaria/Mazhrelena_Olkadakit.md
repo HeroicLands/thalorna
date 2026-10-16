@@ -1,9 +1,9 @@
 ---
 shortcode: mazhrelenaol
-name: {full: Mâzhreléna Olkadákit, aliases: [Lady Merchant Mâzhreléna Olkadákit]}
+name: {full: Mazhrelena Olkadakit, aliases: [Lady Merchant Mazhrelena Olkadakit]}
 type: being
 subType: npc
-description: A wealthy merchant widow who provides supplies to the garrison, named in Árshazûr Gavios.
+description: A wealthy merchant widow who provides supplies to the garrison, named in Árshazur Gavios.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Mâzhreléna Olkadákit is a 52-year-old woman who stands 5'9" tall with a massive build. She has olive skin, sun-kissed complexion, dark brown hair, and brown eyes.
+Mazhrelena Olkadakit is a 52-year-old woman who stands 5'9" tall with a massive build. She has olive skin, sun-kissed complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Mâzhreléna Olkadákit is a wealthy merchant widow who provides supplies to the garrison. [[being-arshzrktkls|Árshazûr Gavios]] names her among his patrons.
+Mazhrelena Olkadakit is a wealthy merchant widow who provides supplies to the garrison. [[being-arshzrktkls|Árshazur Gavios]] names her among his patrons.

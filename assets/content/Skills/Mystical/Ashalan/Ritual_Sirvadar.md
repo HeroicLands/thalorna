@@ -1,6 +1,6 @@
 ---
 shortcode: sirvadar
-name: {full: "Ritual: Šírvádár", aliases: [The Wandering Guide]}
+name: {full: "Ritual: Sirvadar", aliases: [The Wandering Guide]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-sirvadar|Faith of Šírvádár]]
+See [[affiliation-sirvadar|Faith of Sirvadar]]

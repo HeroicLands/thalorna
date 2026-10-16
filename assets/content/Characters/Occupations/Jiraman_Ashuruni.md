@@ -1,6 +1,6 @@
 ---
 shortcode: jrmnashrn
-name: {full: Jirâman Ashûrûnî, aliases: []}
+name: {full: Jiraman Ashuruni, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Jirâman Ashûrûnî is a 43-year-old man who stands 5'10" tall and is of moderate build. He has an angular face with prominent cheekbones, a high forehead, and a narrow jaw that leads to a strong chin. His large hazel eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has medium-toned skin with an olive-toned complexion. His dark brown hair is cropped short.
+Jiraman Ashuruni is a 43-year-old man who stands 5'10" tall and is of moderate build. He has an angular face with prominent cheekbones, a high forehead, and a narrow jaw that leads to a strong chin. His large hazel eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has medium-toned skin with an olive-toned complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Jirâman Ashûrûnî came into the world of the skald through a combination of circumstance and aptitude.
+Born in the Taruzel region to a freeman family of Taruzelian heritage, Jiraman Ashuruni came into the world of the skald through a combination of circumstance and aptitude.
 
-Jirâman was raised in a warrior's family but found his true calling as a skald, weaving tales of valor and tragedy in the mead halls. He is known for his vivid storytelling and deep, resonant voice, often recounting the sagas of ancient heroes. Though he can wield a sword, he prefers to wield words and music to inspire others.
+Jiraman was raised in a warrior's family but found his true calling as a skald, weaving tales of valor and tragedy in the mead halls. He is known for his vivid storytelling and deep, resonant voice, often recounting the sagas of ancient heroes. Though he can wield a sword, he prefers to wield words and music to inspire others.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Sometimes perceived as aloof, struggles to adapt stories for different audiences
 
 ### Motivation
 
-Jirâman is driven by the desire to master his craft and secure a stable future. The uncertainties of life in skald work keep him vigilant and adaptable.
+Jiraman is driven by the desire to master his craft and secure a stable future. The uncertainties of life in skald work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Skilled storyteller, powerful voice, knowledgeable in Nordmen history.
 
 ## Social
 
-Jirâman is affiliated with Nordland Skalds' Guild.
+Jiraman is affiliated with Nordland Skalds' Guild.
 
-As a Tarûzelian skald, Jirâman occupies a recognized social niche within Tarûzel society.
+As a Taruzelian skald, Jiraman occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Jirâman's primary patron is Local chieftains and warriors who appreciate his tales of heroism. This relationship provides both opportunity and obligation.
+Jiraman's primary patron is Local chieftains and warriors who appreciate his tales of heroism. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Rival skalds who envy his skill and fame.
 
 ## Plot Hooks
 
-1. **The Skald's Dilemma**—Jirâman faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Skald's Dilemma**—Jiraman faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—Rival skalds who envy his skill and fame. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Jirâman's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Jiraman's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Jirâman depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Jiraman depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Jirâman the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Jiraman the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

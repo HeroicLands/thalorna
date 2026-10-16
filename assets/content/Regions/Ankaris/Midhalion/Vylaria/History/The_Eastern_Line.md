@@ -1,9 +1,9 @@
 ---
 shortcode: easternline
-name: {full: The Eastern Line, aliases: [The Hill Forts of Tarûzel]}
+name: {full: The Eastern Line, aliases: [The Hill Forts of Taruzel]}
 type: lore
 subType: history
-description: "From about 316 AF to about 330 AF the eastern legions answer the breaking of the Storm of the Hundred Banners by raising a line of hill forts and a military road across the interior of Tarûzel's larger islands, garrisoned by hill horsemen the Empire pays."
+description: "From about 316 AF to about 330 AF the eastern legions answer the breaking of the Storm of the Hundred Banners by raising a line of hill forts and a military road across the interior of Taruzel's larger islands, garrisoned by hill horsemen the Empire pays."
 tags: [history, vylaria, ageconquest]
 data:
   culture: vylarianclt
@@ -54,13 +54,13 @@ A hill-country mule-driver on the old military road, asked who built it, does no
 
 ## The Storm Breaks
 
-The Storm of the Hundred Banners came down the Western Descent in 315, crossed [[place-dunharargn|Dunhara]] and reached the eastern walls of [[affiliation-kngdmmrdd|Amradad]], and there it broke up when its khan died ([[lore-hndrdbnnrs|The Storm of the Hundred Banners]]). Its bands scattered over the Amradi shore. The eastern legions, garrisoned on the islands of [[place-taruzelrgn|Tarûzel]] across a strait forty to eighty miles wide, could not know which way they would go.
+The Storm of the Hundred Banners came down the Western Descent in 315, crossed [[place-dunharargn|Dunhara]] and reached the eastern walls of [[affiliation-kngdmmrdd|Amradad]], and there it broke up when its khan died ([[lore-hndrdbnnrs|The Storm of the Hundred Banners]]). Its bands scattered over the Amradi shore. The eastern legions, garrisoned on the islands of [[place-taruzelrgn|Taruzel]] across a strait forty to eighty miles wide, could not know which way they would go.
 
 ## The Line
 
 The legions held the islands' coasts first. In the decade after, they turned to the interior. The larger islands rise from narrow plains through rolling hills to arid scrub, and the hill tribes who lived there were as dangerous to a column as any landing. The legions raised a line of hill forts along the ridges and cut a military road between them, wide enough for a cohort and kept up by the garrisons.
 
-They manned the forts with the people who knew the hills. Hill horsemen, hired on the Empire's pay, held the line against the bands the Storm might scatter and against one another. The practice outlasted the Storm: Tarûzelian auxiliaries served in the imperial army for over a century, and many of them were the hill tribes' sons.
+They manned the forts with the people who knew the hills. Hill horsemen, hired on the Empire's pay, held the line against the bands the Storm might scatter and against one another. The practice outlasted the Storm: Taruzelian auxiliaries served in the imperial army for over a century, and many of them were the hill tribes' sons.
 
 ## What It Left
 
@@ -71,5 +71,5 @@ They manned the forts with the people who knew the hills. Hill horsemen, hired o
 ## See Also
 
 - [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the host the line was built against
-- [[place-taruzelrgn|Tarûzel Region]]—the islands the line crosses
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the state that inherited the ruins
+- [[place-taruzelrgn|Taruzel Region]]—the islands the line crosses
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the state that inherited the ruins

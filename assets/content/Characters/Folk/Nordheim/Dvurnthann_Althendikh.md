@@ -1,9 +1,9 @@
 ---
 shortcode: dvurnthannal
-name: {full: Dvurnthann Althendikh, aliases: [Lord Dvurnthann Althendikh, Lord Dvurnthann]}
+name: {full: Dvurnthann Althendik, aliases: [Lord Dvurnthann Althendik, Lord Dvurnthann]}
 type: being
 subType: npc
-description: An ambitious noble whose assassination attempt Thraldorv Vörnheim once thwarted.
+description: An ambitious noble whose assassination attempt Thraldorv Vornheim once thwarted.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dvurnthann Althendikh is a 43-year-old man who stands 6'5" tall with a medium build. He has pale skin, weathered complexion, red hair, and grey eyes.
+Dvurnthann Althendik is a 43-year-old man who stands 6'5" tall with a medium build. He has pale skin, weathered complexion, red hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Dvurnthann Althendikh is an ambitious noble whose assassination attempt [[being-thrldrvvrnhm|Thraldorv Vörnheim]] once thwarted. The attempt came while Thraldorv was protecting another client.
+Dvurnthann Althendik is an ambitious noble whose assassination attempt [[being-thrldrvvrnhm|Thraldorv Vornheim]] once thwarted. The attempt came while Thraldorv was protecting another client.

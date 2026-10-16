@@ -1,9 +1,9 @@
 ---
 shortcode: tzuqilixbal
-name: {full: "Faith of Tz'uqil Ix'bal", aliases: [The Death Jaguar, "Tz'uqil Ix'bal"]}
+name: {full: "Faith of Ts'uqil Ish'bal", aliases: [The Death Jaguar, "Ts'uqil Ish'bal"]}
 type: affiliation
 subType: faithtradition
-description: "Death, decay and the underworld—the jaguar who kills swiftly and the owl who watches the slow return to earth, and the codices that guide a soul through Ch'al Tz'umaq."
+description: "Death, decay and the underworld—the jaguar who kills swiftly and the owl who watches the slow return to earth, and the codices that guide a soul through Ch'al Ts'umaq."
 tags: [itzani, religion]
 data:
   banner: faithbnr
@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Tz'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -39,36 +39,36 @@ data:
         description: >-
           "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
-        title: Ch'alixbal
+        title: Ch'alishbal
         description: >-
           "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
-        title: Ch'alix
+        title: Ch'alish
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alix Tq'an and contending with the other branches for resources, precedence and favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alish Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
-        title: Ch'alix Tq'an
+        title: Ch'alish Tq'an
         description: >-
           "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
-        title: Presiding Ch'alix Tq'an
+        title: Presiding Ch'alish Tq'an
         description: >-
-          The Ch'alix Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Tz'enmah's succession.
+          The Ch'alish Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Ts'enmah's succession.
     offices:
-      Ch'alix Ix'bal: >-
+      Ch'alish Ish'bal: >-
         Keeper of the death-walkers—head of the funerary branch in a temple complex, and the priest who answers to the city when a burial goes wrong.
       Keeper of the Codices: >-
-        Holds the funerary texts and tests every Ix'bal'ob on them by recitation, since a misspoken prayer can strand a soul.
+        Holds the funerary texts and tests every Ish'bal'ob on them by recitation, since a misspoken prayer can strand a soul.
       Speaker of the Trials: >-
-        Recites the chambers and deceptions of Ch'al Tz'umaq over the newly dead, naming each in the order the soul will meet it.
+        Recites the chambers and deceptions of Ch'al Ts'umaq over the newly dead, naming each in the order the soul will meet it.
       Master of the Descent: >-
-        Keeps the descending stair and the pool chamber beneath it, and rules who may go down and on which night.
+        Keeps the descending stair and the pool chamber beneath it, and rules who may gho down and on which night.
       Warden of the Threshold: >-
-        Watches for souls that have come back out—the office the priesthood created after Pik'ul Tz'umaq's fall, and the one it least likes to discuss.
-      Ch'alix Pik'ob: >-
+        Watches for souls that have come back out—the office the priesthood created after Pik'ul Ts'umaq's fall, and the one it least likes to discuss.
+      Ch'alish Pik'ob: >-
         Keeper of the owls—head of the contemplative branch, who teaches the theology of dissolution and answers for its philosophers.
       Keeper of the Sacred Groves: >-
-        Maintains the Xik'tel K'anal, where decay is permitted to proceed without interference, and records what the forest takes.
+        Maintains the Shik'tel K'anal, where decay is permitted to proceed without interference, and records what the forest takes.
       Master of the Platforms: >-
         Oversees sky burial where it is practiced: the exposure of bodies, the reading of the birds, and the gathering of the bared bone.
   seat: null
@@ -80,39 +80,39 @@ data:
   packFolder: pantheonitzani
 sohl: {system: {commonSkills: [tzuqilixbal]}}
 
-# terran_analog: Ch'al Tz'umaq is Xibalba, the Maya underworld
+# terran_analog: Ch'al Ts'umaq is Xibalba, the Maya underworld
 ---
 
 **Domain:** Death, Decay, and the Underworld
 
-Tz'uqil Ix'bal is the master of death, the underworld, and the patient dissolution that returns all things to the earth. He is depicted as a massive jaguar with eyes that see in absolute darkness, his skull ringed with obsidian blades. Perched eternally on his brow sits an enormous owl, Pik'ik—his sacred companion and the embodiment of his patient aspect. Where the jaguar kills swiftly, the owl watches as the jungle slowly reclaims what death has taken. Together they represent the full cycle of death—the sudden strike and the slow return to earth, the moment of transition and the long dissolution that follows. Death is not punishment but transition, and decay is not waste but renewal. The jaguar does not hate the deer it hunts; it fulfills its nature. The owl does not grieve the fallen tree it nests in; it inhabits the space that death has made.
+Ts'uqil Ish'bal is the master of death, the underworld, and the patient dissolution that returns all things to the earth. He is depicted as a massive jaguar with eyes that see in absolute darkness, his skull ringed with obsidian blades. Perched eternally on his brow sits an enormous owl, Pik'ik—his sacred companion and the embodiment of his patient aspect. Where the jaguar kills swiftly, the owl watches as the jungle slowly reclaims what death has taken. Together they represent the full cycle of death—the sudden strike and the slow return to earth, the moment of transition and the long dissolution that follows. Death is not punishment but transition, and decay is not waste but renewal. The jaguar does not hate the deer it hunts; it fulfills its nature. The owl does not grieve the fallen tree it nests in; it inhabits the space that death has made.
 
 ## Worship
 
-The domain of Tz'uqil Ix'bal is [[place-chaltzumaq|Ch'al Tz'umaq]] ("beneath the night sky"), the vast subterranean realm that exists beneath every sinkhole, cave, and sacred spring. The underworld is not a place of punishment but of passage—a labyrinth of chambers, trials, and deceptions through which the soul must navigate to reach the celestial realm beyond. The soul that reaches the other side emerges reborn; the soul that is lost becomes one of the tz'uqilob, trapped in shadow. The Ix'bal'ob priesthood memorizes the funerary codices in extraordinary detail, for a soul whose family has engaged the priests to perform the correct rites has a far better chance of navigating the underworld. A misspoken prayer or a ritual performed at the wrong phase of the moon can delay a soul's passage or trap it permanently.
+The domain of Ts'uqil Ish'bal is [[place-chaltzumaq|Ch'al Ts'umaq]] ("beneath the night sky"), the vast subterranean realm that exists beneath every sinkhole, cave, and sacred spring. The underworld is not a place of punishment but of passage—a labyrinth of chambers, trials, and deceptions through which the soul must navigate to reach the celestial realm beyond. The soul that reaches the other side emerges reborn; the soul that is lost becomes one of the ts'uqilob, trapped in shadow. The Ish'bal'ob priesthood memorizes the funerary codices in extraordinary detail, for a soul whose family has engaged the priests to perform the correct rites has a far better chance of navigating the underworld. A misspoken prayer or a ritual performed at the wrong phase of the moon can delay a soul's passage or trap it permanently.
 
-This is the plainest transaction in Ki'ichek religion, and the priesthood does not pretend otherwise. A family that can afford a full recitation buys its dead a guided passage; a family that cannot buys a shortened one, and knows what it has bought. The fee is not framed as payment for divine favor but as payment for accuracy—the priests sell memory, not mercy—and it is the one temple charge that even the poorest households will beggar themselves to meet. Burial societies are common in the larger city-states, with neighbors paying into a common store against the day one of them dies, and the Ix'bal'ob keep the rolls.
+This is the plainest transaction in Ki'ichek religion, and the priesthood does not pretend otherwise. A family that can afford a full recitation buys its dead a guided passage; a family that cannot buys a shortened one, and knows what it has bought. The fee is not framed as payment for divine favor but as payment for accuracy—the priests sell memory, not mercy—and it is the one temple charge that even the poorest households will beggar themselves to meet. Burial societies are common in the larger city-states, with neighbors paying into a common store against the day one of them dies, and the Ish'bal'ob keep the rolls.
 
-The **Speaker of the Trials** attends the body through the night after death, naming each chamber of Ch'al Tz'umaq in the order the soul will meet it, each deception in the order it will be offered. The family listens and does not speak. At dawn the body is carried to the temple stair and taken down toward the pool chamber, and only the priests and the nearest kin go past the third landing. Where the water is deep and still, the dead are given to it; where it is not, they are interred in the chamber walls, in niches cut generation upon generation until the rock is a honeycomb of ancestors.
+The **Speaker of the Trials** attends the body through the night after death, naming each chamber of Ch'al Ts'umaq in the order the soul will meet it, each deception in the order it will be offered. The family listens and does not speak. At dawn the body is carried to the temple stair and taken down toward the pool chamber, and only the priests and the nearest kin gho past the third landing. Where the water is deep and still, the dead are given to it; where it is not, they are interred in the chamber walls, in niches cut generation upon generation until the rock is a honeycomb of ancestors.
 
-The most significant ceremonies occur during the turning of the Tz'uqal Cycle, when the Ix'bal'ob perform the **Taq'tzuqalil** ("The Calling of the Dead"), an elaborate nocturnal ceremony in which living communities gather at the mouths of the sacred pools to welcome the recently deceased into the underworld. The living bring food they will not eat, sit through the dark hours at the water's edge, and speak the names of everyone lost since the last turning. It is not a mournful occasion. Children are brought deliberately, so that they will grow up unafraid of the mouth of the world, and the ceremony ends at first light with a shared meal and, in most cities, a great deal of maize beer.
+The most significant ceremonies occur during the turning of the Ts'uqal Cycle, when the Ish'bal'ob perform the **Taq'tsuqalil** ("The Calling of the Dead"), an elaborate nocturnal ceremony in which living communities gather at the mouths of the sacred pools to welcome the recently deceased into the underworld. The living bring food they will not eat, sit through the dark hours at the water's edge, and speak the names of everyone lost since the last turning. It is not a mournful occasion. Children are brought deliberately, so that they will grow up unafraid of the mouth of the world, and the ceremony ends at first light with a shared meal and, in most cities, a great deal of maize beer.
 
 ## Organization
 
-The temples of Tz'uqil Ix'bal descend rather than ascend—great staircases lined with carvings of jaguars and ancestors lead downward to pool chambers, vast underground lakes with waters black and still. They are the only Itzáni temples built downward, and a city's death-temple is often older than the pyramid that overlooks it, since the sacred pool was there before the city was.
+The temples of Ts'uqil Ish'bal descend rather than ascend—great staircases lined with carvings of jaguars and ancestors lead downward to pool chambers, vast underground lakes with waters black and still. They are the only Itsani temples built downward, and a city's death-temple is often older than the pyramid that overlooks it, since the sacred pool was there before the city was.
 
-The branch is divided in two, and the division is theological rather than administrative. The **Ix'bal'ob**—the death-walkers—serve the jaguar: they attend the dying, recite the trials, conduct the descent and keep the codices. Their training is memorial above all, and an Ix'bal'ob who fumbles a recitation in public is not merely embarrassed but held to have done a family lasting harm. Their **Ch'alix Ix'bal** is one of the most consulted priests in any city, and the least ceremonial; he is expected to be reachable at any hour.
+The branch is divided in two, and the division is theological rather than administrative. The **Ish'bal'ob**—the death-walkers—serve the jaguar: they attend the dying, recite the trials, conduct the descent and keep the codices. Their training is memorial above all, and an Ish'bal'ob who fumbles a recitation in public is not merely embarrassed but held to have done a family lasting harm. Their **Ch'alish Ish'bal** is one of the most consulted priests in any city, and the least ceremonial; he is expected to be reachable at any hour.
 
-The [[affiliation-pikob|Pik'ob]]—the owl keepers—represent the contemplative branch of Tz'uqil Ix'bal's service. They maintain the **Xik'tel K'anal** ("Sacred Groves"), sanctuaries where the natural cycle of decay is allowed to proceed with minimal interference. In regions where the owl-aspect holds particular reverence, sky burial is practiced—bodies exposed on platforms where birds and insects reduce them to bare bone, accelerating the return to the earth. The Pik'ob teach that the proper way to live is to create beautiful things knowing they will decay, to build communities knowing they will crumble, and to love people knowing they will die—and to embrace this not as tragedy but as freedom.
+The [[affiliation-pikob|Pik'ob]]—the owl keepers—represent the contemplative branch of Ts'uqil Ish'bal's service. They maintain the **Shik'tel K'anal** ("Sacred Groves"), sanctuaries where the natural cycle of decay is allowed to proceed with minimal interference. In regions where the owl-aspect holds particular reverence, sky burial is practiced—bodies exposed on platforms where birds and insects reduce them to bare bone, accelerating the return to the earth. The Pik'ob teach that the proper way to live is to create beautiful things knowing they will decay, to build communities knowing they will crumble, and to love people knowing they will die—and to embrace this not as tragedy but as freedom.
 
 The Pik'ob take few initiates and take them late; a candidate is usually a person who has already lost a great deal, and the branch is frank that it recruits from grief. Their groves hold no images and their rites have no fixed hours. What they teach is taught by sitting in a place where things are rotting and being asked what one finds objectionable about it. The other branches regard them with a mixture of respect and unease, and the **Abandoned Temple** doctrine that some Pik'ob philosophers advance—that a sacred building should at some point be deliberately surrendered to the forest—is a standing quarrel with every priesthood that builds.
 
 ## Relations
 
-With [[affiliation-xaqikhanal|Xaq'ik Ha'nal]] the death branch shares its holiest ground and nearly nothing else. Every sacred pool is at once a portal to Ch'al Tz'umaq and the body of the goddess of living waters, and the two priesthoods have worked out, over centuries and not without acrimony, which waters belong to which rite and on which nights. In most city-states the arrangement holds; where it has broken down, it has broken down badly, and the memory of a sacred pool fought over is a long one.
+With [[affiliation-xaqikhanal|Shaq'ik Ha'nal]] the death branch shares its holiest ground and nearly nothing else. Every sacred pool is at once a portal to Ch'al Ts'umaq and the body of the goddess of living waters, and the two priesthoods have worked out, over centuries and not without acrimony, which waters belong to which rite and on which nights. In most city-states the arrangement holds; where it has broken down, it has broken down badly, and the memory of a sacred pool fought over is a long one.
 
-Toward [[affiliation-tzenultqan|Tz'en'ul Tq'an]] the branch keeps a scrupulous cooperation that conceals an unreconciled premise. The solar god insists the cycle must be held; the death jaguar teaches that everything inside it is meant to end. The death-walkers bury the solar priests with full honor and the solar priests sanction the Taq'tzuqalil without complaint, and neither branch has ever conceded a word of doctrine to the other.
+Toward [[affiliation-tzenultqan|Ts'en'ul Tq'an]] the branch keeps a scrupulous cooperation that conceals an unreconciled premise. The solar god insists the cycle must be held; the death jaguar teaches that everything inside it is meant to end. The death-walkers bury the solar priests with full honor and the solar priests sanction the Taq'tsuqalil without complaint, and neither branch has ever conceded a word of doctrine to the other.
 
-The branch's closest working partner is [[affiliation-naliktzuqal|Nal'ik Tz'uqal]]. Dreams of the dead are common and are taken seriously, and a dream-keeper who receives one refers the dreamer to the Ix'bal'ob rather than interpreting it alone. The dream-temples also supply the branch with something it badly needs—a place to send the bereaved who cannot be consoled by the doctrine that death is merely passage.
+The branch's closest working partner is [[affiliation-naliktzuqal|Nal'ik Ts'uqal]]. Dreams of the dead are common and are taken seriously, and a dream-keeper who receives one refers the dreamer to the Ish'bal'ob rather than interpreting it alone. The dream-temples also supply the branch with something it badly needs—a place to send the bereaved who cannot be consoled by the doctrine that death is merely passage.
 
-The whole tradition's most dangerous heresy came out of this god's own household. **Pik'ul Tz'umaq**, once the greatest of the Pik'ik spirits and warden of Ch'al Tz'umaq's threshold, concluded that the underworld was a trap rather than a passage and began pulling souls back out of it; Tz'uqil Ix'bal cast it out, and the other gods judged a minor functionary not worth destroying. It found the [[affiliation-tzumaqkalanil|Serpent Awakeners]] in the deep jungle, and gave their apocalyptic theology the one thing it had lacked—an explanation. The orthodox priesthood is uncomfortably aware that the Pik'ob's contemplative theology shares a root with that heresy: both grapple with dissolution, and the Pik'ob draw the line at acceptance where the Awakeners cross into acceleration. Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, where the Awakeners welcome them.
+The whole tradition's most dangerous heresy came out of this god's own household. **Pik'ul Ts'umaq**, once the greatest of the Pik'ik spirits and warden of Ch'al Ts'umaq's threshold, concluded that the underworld was a trap rather than a passage and began pulling souls back out of it; Ts'uqil Ish'bal cast it out, and the other gods judged a minor functionary not worth destroying. It found the [[affiliation-tzumaqkalanil|Serpent Awakeners]] in the deep jungle, and gave their apocalyptic theology the one thing it had lacked—an explanation. The orthodox priesthood is uncomfortably aware that the Pik'ob's contemplative theology shares a root with that heresy: both grapple with dissolution, and the Pik'ob draw the line at acceptance where the Awakeners cross into acceleration. Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, where the Awakeners welcome them.

@@ -1,6 +1,6 @@
 ---
 shortcode: gatnefrztmth
-name: {full: Gatnefur Zet'Maâthu, given: Gatnefur, clan: Zet'Maâthu, aliases: []}
+name: {full: Gatnefur Zet'Maathu, given: Gatnefur, clan: Zet'Maathu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {rank: 3}, uqaa: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, uqaa: {rank: 1}}
   gender: male
   species: humanflk
   born: 685.159
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[gatnefrztmth|Gatnefur Zet'Maâthu]]{float=top-left}
+![[gatnefrztmth|Gatnefur Zet'Maathu]]{float=top-left}
 
 Gatnefur stands 5'7" tall with a medium build. He has dark skin, black hair, and brown eyes. His features include an oval face, a long nose, a refined jawline, an expressive mouth, high-set brows, and sculpted cheeks. He has a scar on the left side of his neck.
 
@@ -427,17 +427,17 @@ Gatnefur stands 5'7" tall with a medium build. He has dark skin, black hair, and
 
 **A Child of the Guild Quarter**
 
-Gatnefur was born into the Guild Quarter of Galezkara, where craftsmen of every imaginable discipline plied their trades. His father, Zefurâ, was a master perfumer of considerable reputation, while his mother, Qelseta, worked as a dyer of great skill. From his earliest memories, young Gatnefur was surrounded by the interplay of scent and color, and his acute sensitivity to aromatic compounds became apparent by his fifth year. Where other children might smell nothing but "flower," Gatnefur could distinguish between the scents of a dozen different varieties of lotus, could detect the faint underlying notes of earth and sun in a simple rose petal.
+Gatnefur was born into the Guild Quarter of Galezkara, where craftsmen of every imaginable discipline plied their trades. His father, Zefura, was a master perfumer of considerable reputation, while his mother, Qelseta, worked as a dyer of great skill. From his earliest memories, young Gatnefur was surrounded by the interplay of scent and color, and his acute sensitivity to aromatic compounds became apparent by his fifth year. Where other children might smell nothing but "flower," Gatnefur could distinguish between the scents of a dozen different varieties of lotus, could detect the faint underlying notes of earth and sun in a simple rose petal.
 
-His training began at age seven in his father's workshop. Zefurâ was a demanding teacher, but also a visionary one. Rather than teaching the boy to merely replicate the great fragrances of the past, he encouraged Gatnefur to experiment, to combine scents in ways that seemed almost heretical to the conservative guild masters. By his teens, Gatnefur had already begun to revolutionize the perfumer's art, creating fragrances that seemed to tell stories—to evoke specific emotions, memories, or visions.
+His training began at age seven in his father's workshop. Zefura was a demanding teacher, but also a visionary one. Rather than teaching the boy to merely replicate the great fragrances of the past, he encouraged Gatnefur to experiment, to combine scents in ways that seemed almost heretical to the conservative guild masters. By his teens, Gatnefur had already begun to revolutionize the perfumer's art, creating fragrances that seemed to tell stories—to evoke specific emotions, memories, or visions.
 
 **The Scar and the Theft**
 
-At twenty-two years of age, Gatnefur achieved his first true triumph: a fragrance called "The Awakening of Uqa'â," a perfume of such extraordinary beauty and complexity that nobles from across the empire began to seek it. It was this very success that brought him his scar and the bitter lesson that jealousy wears many faces. A fellow perfumer—a man named Lekhûr, who had been passed over for the same commission that Gatnefur won—attacked him in the street with the intent to silence him permanently. Only the intervention of a temple guard and Gatnefur's own surprising agility prevented the wound from being fatal.
+At twenty-two years of age, Gatnefur achieved his first true triumph: a fragrance called "The Awakening of Uqa'a," a perfume of such extraordinary beauty and complexity that nobles from across the empire began to seek it. It was this very success that brought him his scar and the bitter lesson that jealousy wears many faces. A fellow perfumer—a man named Lekhur, who had been passed over for the same commission that Gatnefur won—attacked him in the street with the intent to silence him permanently. Only the intervention of a temple guard and Gatnefur's own surprising agility prevented the wound from being fatal.
 
 **Current Mastery**
 
-Now at the height of his powers, Gatnefur operates one of the most fashionable perfumeries in all of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking a scent that will mark them out. His creations are considered transformative, capable of altering mood and perception through the power of scent alone.
+Now at the height of his powers, Gatnefur operates one of the most fashionable perfumeries in all of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking a scent that will mark them out. His creations are considered transformative, capable of altering mood and perception through the power of scent alone.
 
 ## Psyche
 
@@ -471,7 +471,7 @@ Gatnefur is driven by a belief that he has not yet created his masterpiece—the
 
 - **Social Isolation**: His total dedication to his craft leaves little room for personal relationships or community engagement, making him seem cold and distant to many.
 
-- **Vulnerability to Jealousy**: As Lekhûr demonstrated, his successes generate dangerous envy in others. He maintains defensive security around his workshop but remains vulnerable to subtler forms of sabotage.
+- **Vulnerability to Jealousy**: As Lekhur demonstrated, his successes generate dangerous envy in others. He maintains defensive security around his workshop but remains vulnerable to subtler forms of sabotage.
 
 - **Philosophical Rigidity**: Once he has committed to a particular vision or approach, he is difficult to dissuade, even when evidence suggests he may be wrong.
 
@@ -479,19 +479,19 @@ Gatnefur is driven by a belief that he has not yet created his masterpiece—the
 
 ### Patrons
 
-Lord [[being-qeltiemhequ2|Qelti Emhequ]]
+Lord [[being-qeltiemhequ2|Qelti Emheku]]
 : A wealthy merchant lord with an obsession with rare fragrances. He has become Gatnefur's greatest patron and champion, commissioning custom fragrances and defending him against accusations from traditionalist guild members. There are rumors that their relationship is more intimate than mere patron and artisan.
 
 High Priestess [[being-legirtari|Legirtari]]
 : A spiritual leader who commissioned from Gatnefur a special fragrance intended to heighten participants' awareness during sacred rituals. She values his work and offers him access to rare and sacred ingredients.
 
-The Royal Perfumer of the Gar-Aû's Court
+The Royal Perfumer of the Gar-Au's Court
 : Though not a patron in the traditional sense, this court official has taken interest in Gatnefur's new fragrances and occasionally brings requests from the highest levels of society.
 
 ### Enemies
 
-Master Lekhûr (Scarred Perfumer)
-: Though he supposedly died from his wounds, whispers persist that Lekhûr survived and has been plotting his revenge from the shadows. Rumor has him acquiring rare poisons with which to compromise Gatnefur's formulations.
+Master Lekhur (Scarred Perfumer)
+: Though he supposedly died from his wounds, whispers persist that Lekhur survived and has been plotting his revenge from the shadows. Rumor has him acquiring rare poisons with which to compromise Gatnefur's formulations.
 
 [[affiliation-linqethar|Lin'Qethar]]
 : A loose alliance of older perfumers and guild conservatives who view Gatnefur as a threat to the established order and the sanctity of their craft. They have been known to attempt to restrict his access to rare ingredients and materials.
@@ -501,15 +501,15 @@ Shelti the Alchemist
 
 ### Affiliations
 
-[[affiliation-linzemnkhlth|Lin'Zemnu elu Aû'Khelâthu]]
+[[affiliation-linzemnkhlth|Lin'Zemnu elu Au'Khelathu]]
 : Though technically a member in good standing, his relationship with the Guild is contentious. They benefit from his prestige but disapprove of his methods.
 
-[[affiliation-linrethrthsr|The Lin'Rethu elu Reth'Sa'âr]]
+[[affiliation-linrethrthsr|The Lin'Rethu elu Reth'Sa'ar]]
 : A loose network of researchers and academics with whom Gatnefur exchanges information about rare substances and ancient texts.
 
 ## Plot Hooks
 
-1. **The Formulary of Divine Scents**: A dying scholar approaches Gatnefur with a fragment of an ancient papyrus—a mere scrap, but bearing unmistakable symbols associated with the Age of Divine Kings, the age of the First Tablets. The scholar claims to have spent decades researching references to a fabled formulary containing recipes for fragrances of impossible power. Before the scholar succumbs to his illness, he reveals that he believes the complete formulary is hidden in a sealed chamber beneath the Great Temple of Uqa'â, protected by wards and guardians that have remained undisturbed for millennia. He asks Gatnefur to complete the work he could not, and leaves him a cryptic map and a single vial of an extraordinary fragrance that may be the key to the chamber. The problem: the Temple authorities have forbidden any excavation or research that might disturb the sanctity of the site, and powerful figures within the priesthood seem determined to prevent the formulary from being found.
+1. **The Formulary of Divine Scents**: A dying scholar approaches Gatnefur with a fragment of an ancient papyrus—a mere scrap, but bearing unmistakable symbols associated with the Age of Divine Kings, the age of the First Tablets. The scholar claims to have spent decades researching references to a fabled formulary containing recipes for fragrances of impossible power. Before the scholar succumbs to his illness, he reveals that he believes the complete formulary is hidden in a sealed chamber beneath the Great Temple of Uqa'a, protected by wards and guardians that have remained undisturbed for millennia. He asks Gatnefur to complete the work he could not, and leaves him a cryptic map and a single vial of an extraordinary fragrance that may be the key to the chamber. The problem: the Temple authorities have forbidden any excavation or research that might disturb the sanctity of the site, and powerful figures within the priesthood seem determined to prevent the formulary from being found.
 
 2. **The Counterfeit Creations**: Gatnefur's fragrances are so valuable that they have become targets for skilled counterfeiters. Someone is producing excellent imitations of his most popular creations—good enough to fool casual observers but inferior enough to damage his reputation when disappointed customers complain. Worse, the counterfeiter seems to have intimate knowledge of his formulations and his workshop's layout. Gatnefur suspects a former apprentice or collaborator, but the perpetrator has covered their tracks with great skill. He must track down the source of these counterfeits before his reputation is irreparably damaged, and when he does, he may discover a conspiracy far larger than simple commercial fraud.
 

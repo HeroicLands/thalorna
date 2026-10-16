@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-**Grimak**, the fierce thicket, is a ring of burned stumps around a black hollow in a marsh of [[place-skathwald|Skathwald]], a day's walk east of the village of [[place-mahnryth|Mahnrýth]]. Thorn has grown back over the stumps and the hollow stands full of black water, and no bird nests in any of it. A Grukar tribe woke a nest here about 532 AF and took three Varokh villages in a winter; in 536 the Skathwald villages came in over the ice and burned the nest with its spawner in it ([[lore-grimakburning|The Burning at Grimak]]). The muster's own dead were carried out and named. The people the Grukar had taken in the four winters before were never buried, because nothing of them was left, and nobody knows what received them.
+**Grimak**, the fierce thicket, is a ring of burned stumps around a black hollow in a marsh of [[place-skathwald|Skathwald]], a day's walk east of the village of [[place-mahnryth|Mahnreth]]. Thorn has grown back over the stumps and the hollow stands full of black water, and no bird nests in any of it. A Grukar tribe woke a nest here about 532 AF and took three Varokh villages in a winter; in 536 the Skathwald villages came in over the ice and burned the nest with its spawner in it ([[lore-grimakburning|The Burning at Grimak]]). The muster's own dead were carried out and named. The people the Grukar had taken in the four winters before were never buried, because nothing of them was left, and nobody knows what received them.
 
 ## What Crosses
 
@@ -25,7 +25,7 @@ What crosses there calls. A voice comes out of the thorn by name, a Varokh name,
 
 ## How the Varokh Keep Their Distance
 
-Mahnrýth raises its lament at the empty mound, Mahnhróm, and never at the thicket. The grove council at [[place-radholt|Rádholt]] sounds its alarm the moment anyone is missing near Grimak, and the whole village goes out with torches before dark, because a person who has answered the voice walks toward the hollow and does not stop. Nobody has ever tried to call the taken home. A Shaman can only call home the dead whose names are known and whose bodies were given a rite, and the taken had neither.
+Mahnreth raises its lament at the empty mound, Mahnhrum, and never at the thicket. The grove council at [[place-radholt|Radholt]] sounds its alarm the moment anyone is missing near Grimak, and the whole village goes out with torches before dark, because a person who has answered the voice walks toward the hollow and does not stop. Nobody has ever tried to call the taken home. A Shaman can only call home the dead whose names are known and whose bodies were given a rite, and the taken had neither.
 
 ## Who Goes There
 
@@ -34,7 +34,7 @@ Mahnrýth raises its lament at the empty mound, Mahnhróm, and never at the thic
 
 ## Hooks
 
-- A Mahnrýth girl answers the voice and walks into the thicket. Her mother wants her brought back before dark, and the Shaman wants nobody else going in after her.
+- A Mahnreth girl answers the voice and walks into the thicket. Her mother wants her brought back before dark, and the Shaman wants nobody else going in after her.
 - A new nest is found inside the old ring of burned stumps. Skathwald must decide whether to muster again, and the elders who must agree on it are the grandchildren of the villages that argued last time.
 
 ## See Also

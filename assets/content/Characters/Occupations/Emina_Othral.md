@@ -1,6 +1,6 @@
 ---
 shortcode: emynaothrl
-name: {full: Émina Óthral, aliases: []}
+name: {full: Émina Othral, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -392,11 +392,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Émina Óthral is a 36-year-old woman who stands 5'3" tall and is slender. She has a heart-shaped face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a narrow chin. Her narrow gray eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and thin lips complete her features. She has fair skin with a pale complexion. Her blonde hair is twisted into an elaborate arrangement.
+Émina Othral is a 36-year-old woman who stands 5'3" tall and is slender. She has a heart-shaped face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a narrow chin. Her narrow gray eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and thin lips complete her features. She has fair skin with a pale complexion. Her blonde hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a noble family of Élavendri heritage, Émina Óthral came into the world of the courtesan through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a noble family of Élavendri heritage, Émina Othral came into the world of the courtesan through a combination of circumstance and aptitude.
 
 Émina is the daughter of a minor noble, but scandal forced her to leave her family and seek a living on her own terms. She became a courtesan, known for her grace and intellect, often entertaining clients who appreciate her conversation as much as her beauty. Émina maintains connections with high society, though she is cautious not to overstep boundaries that could reignite the scandal.
 

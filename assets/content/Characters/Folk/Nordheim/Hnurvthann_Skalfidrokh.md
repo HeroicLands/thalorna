@@ -1,6 +1,6 @@
 ---
 shortcode: hnurvthannsk
-name: {full: Hnurvthann Skalfidrokh, aliases: [Captain Hnurvthann Skalfidrokh]}
+name: {full: Hnurvthann Skalfidrok, aliases: [Captain Hnurvthann Skalfidrok]}
 type: being
 subType: npc
 description: A decorated military officer who is Dvarnvir Hrafnsvald's best customer and closest friend.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hnurvthann Skalfidrokh is a 56-year-old man who stands 6'0" tall with a heavy build. He has pale skin, ruddy complexion, brown hair, and blue eyes.
+Hnurvthann Skalfidrok is a 56-year-old man who stands 6'0" tall with a heavy build. He has pale skin, ruddy complexion, brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Hnurvthann Skalfidrokh is a decorated military officer who is [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]]'s best customer and closest friend. He purchases tents for his unit and regularly refers other soldiers and adventurers to Dvarnvir's work.
+Hnurvthann Skalfidrok is a decorated military officer who is [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]]'s best customer and closest friend. He purchases tents for his unit and regularly refers other soldiers and adventurers to Dvarnvir's work.

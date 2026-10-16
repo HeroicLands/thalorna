@@ -1,6 +1,6 @@
 ---
 shortcode: vargenhalmes
-name: {full: Várgen Hálmesndë, aliases: [Lord Várgen]}
+name: {full: Vargen Hálmesnde, aliases: [Lord Vargen]}
 type: being
 subType: npc
 description: An ambitious noble of the Obsidian Order with ties to dark magic and military ambition.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Várgen Hálmesndë is a 44-year-old man who stands 5'11" tall with a light build. He has light skin, smooth complexion, brown hair, and brown eyes.
+Vargen Hálmesnde is a 44-year-old man who stands 5'11" tall with a light build. He has light skin, smooth complexion, brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Várgen Hálmesndë is an ambitious noble of the Obsidian Order, with ties to dark magic and to military ambition. He treats the peace-brokering of [[being-rnthrprdln|Ránthor Párdalen]] as an obstacle to his plans for territorial expansion, and has twice tried to have him discredited or eliminated.
+Vargen Hálmesnde is an ambitious noble of the Obsidian Order, with ties to dark magic and to military ambition. He treats the peace-brokering of [[being-rnthrprdln|Ranthor Párdalen]] as an obstacle to his plans for territorial expansion, and has twice tried to have him discredited or eliminated.

@@ -433,7 +433,7 @@ Snurvthann was born in a small village in the Kingdom of Malagna to Hrindthann V
 
 Apprenticed at ten years old—when many would consider him too young—Snurvthann spent ten years training under his father, gradually building the strength, balance, and nerve required to work confidently at height. At twenty, Snurvthann took his first solo commission, and by thirty, had established himself as a master craftsperson whose work outlasted anyone else's in the region. His roofs last decades longer than typical—not through superior materials but through careful craftsmanship and understanding of the craft's finer points.
 
-At thirty-five, Snurvthann married Unthynda, a farmer's daughter, and they had two children before she died in childbirth bearing a third five years into their marriage. Rather than withdraw into grief, Snurvthann threw himself into his work, eventually raising his two surviving children while maintaining his reputation. His daughter **Snarvselda** (named from his mother's stem) left the village at twenty to seek opportunities in the capital; his son Hlarthann initially worked alongside him but eventually chose the trade of shipwright instead, a disappointment Snurvthann has never entirely overcome. Now a widower of twelve years with adult children pursuing their own paths, Snurvthann works with undiminished dedication, though the physical demands are beginning to visibly weigh upon him.
+At thirty-five, Snurvthann married Unthinda, a farmer's daughter, and they had two children before she died in childbirth bearing a third five years into their marriage. Rather than withdraw into grief, Snurvthann threw himself into his work, eventually raising his two surviving children while maintaining his reputation. His daughter **Snarvselda** (named from his mother's stem) left the village at twenty to seek opportunities in the capital; his son Hlarthann initially worked alongside him but eventually chose the trade of shipwright instead, a disappointment Snurvthann has never entirely overcome. Now a widower of twelve years with adult children pursuing their own paths, Snurvthann works with undiminished dedication, though the physical demands are beginning to visibly weigh upon him.
 
 ## Psyche
 
@@ -470,7 +470,7 @@ Snurvthann seeks to maintain the highest standards of his craft, so that knowled
 The Farmer's Collective of Malagna's Outer Reaches
 : Agricultural families throughout the region contract Snurvthann for roof work, often waiting months for his availability. They consider his work worth the wait and the expense, trusting him implicitly with their family's primary shelter.
 
-Snilthmýl, Local Hersvald
+Snilthmil, Local Hersvald
 : The district leader maintains Snurvthann on semi-retainer, so that the Hersvald's hall and outlying buildings receive maintenance from the finest craftsperson available. This provides Snurvthann with steady work and prestige.
 
 The Temple of Mótefnir
@@ -481,8 +481,8 @@ Wealthy Merchants Traveling to the Capital
 
 ### Enemies
 
-Master Thatcher Skalfmýl
-: A younger, more forward-looking competitor operating in the region who uses newer materials and quicker methods that undercut Snurvthann's both in cost and speed. Skalfmýl views Snurvthann as an obstacle to his own advancement and has deliberately sought to replace him on certain contracts.
+Master Thatcher Skalfmil
+: A younger, more forward-looking competitor operating in the region who uses newer materials and quicker methods that undercut Snurvthann's both in cost and speed. Skalfmil views Snurvthann as an obstacle to his own advancement and has deliberately sought to replace him on certain contracts.
 
 The Merchant Synod of Progress
 : A loose organization of traders and merchants pushing for faster and cheaper building. They view traditional craftspeople like Snurvthann as slow and costly and are paying for attempts to make roofing that can be turned out in quantity.

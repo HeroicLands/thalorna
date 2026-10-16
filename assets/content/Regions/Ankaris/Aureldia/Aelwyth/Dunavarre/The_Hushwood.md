@@ -3,12 +3,12 @@ shortcode: hushwood
 name: {full: The Hushwood, aliases: [The Saelvri Wood]}
 type: place
 subType: site
-description: "The blood-field of the Saelvri crusade, a silence in the wooded foothills above Dúnavarre where the last of a forest people were killed about 703 AF, and the newest field in Aurèldía."
+description: "The blood-field of the Saelvri crusade, a silence in the wooded foothills above Dúnavarre where the last of a forest people were killed about 703 AF, and the newest field in Aureldia."
 tags: [forest, haunted]
 data: {demonym: null, lore: [], parents: [dunavarre], population: null, packFolder: aelwyth}
 ---
 
-In the wooded foothills where the Ironfells break up above [[place-dunavarre|Dúnavarre]] lies the **Hushwood**, a stand of old forest in which nothing sings. It is the newest of Aurèldía's [[lore-bloodfield|blood-fields]], made in three days at the turn of the year about 703 AF, and the only one in living memory.
+In the wooded foothills where the Ironfells break up above [[place-dunavarre|Dúnavarre]] lies the **Hushwood**, a stand of old forest in which nothing sings. It is the newest of Aureldia's [[lore-bloodfield|blood-fields]], made in three days at the turn of the year about 703 AF, and the only one in living memory.
 
 ## A Silence
 

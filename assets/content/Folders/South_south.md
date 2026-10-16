@@ -5,4 +5,4 @@ type: folder
 data: {parent: kichchik, color: "#4CAF50"}
 ---
 
-This folder gathers the places of the south of K'ich'chik, among them Tz’alam Ne’, Ixkul Ch’alix and Tz’alam Tz'ultel, and has subfolders beneath it.
+This folder gathers the places of the south of K'ich'chik, among them Ts’alam Ne’, Ishkul Ch’alish and Ts’alam Ts'ultel, and has subfolders beneath it.

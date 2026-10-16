@@ -1,6 +1,6 @@
 ---
 shortcode: wthrnthrnhvn
-name: {full: Wíthrún yra Óthvith wur Thornhaven, given: Wíthrún, clan: Óthvith, aliases: []}
+name: {full: Withrún yra Othvith wur Thornhaven, given: Withrún, clan: Othvith, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]
@@ -391,15 +391,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Wíthrún has a riverboat crew member’s powerful shoulders, close-braided black hair and steady brown eyes. A burn has puckered the skin beside her left ear. She dresses in stout wool and patched leather, with an axe at her belt and a spear within reach. Her small ox token is worn smooth by her thumb. She tests a knot before leaning her weight on it and offers the same patient scrutiny to a stranger’s promise.
+Withrún has a riverboat crew member’s powerful shoulders, close-braided black hair and steady brown eyes. A burn has puckered the skin beside her left ear. She dresses in stout wool and patched leather, with an axe at her belt and a spear within reach. Her small ox token is worn smooth by her thumb. She tests a knot before leaning her weight on it and offers the same patient scrutiny to a stranger’s promise.
 
 # Dossier {#dossier}
 
 ## The Rope Across the Water
 
-Wíthrún knew the river before she knew the spear. At [[place-thornhaven|Thornhaven]] her family bought furs, carried grain and kept the household reckoning. She could judge a boat's load by the sound it made against the landing. She thought she would grow old there, hearing that sound.
+Withrún knew the river before she knew the spear. At [[place-thornhaven|Thornhaven]] her family bought furs, carried grain and kept the household reckoning. She could judge a boat's load by the sound it made against the landing. She thought she would grow old there, hearing that sound.
 
-The raiders came before dawn. Their boat approached like a trader's boat, and the household opened to receive it. Fire took the roof. Her parents and brothers died before neighbors could reach them. Wíthrún escaped through smoke with a rope around her waist, pulled from the water by hands she could not see.
+The raiders came before dawn. Their boat approached like a trader's boat, and the household opened to receive it. Fire took the roof. Her parents and brothers died before neighbors could reach them. Withrún escaped through smoke with a rope around her waist, pulled from the water by hands she could not see.
 
 Her kin could not provide another roof. The Other Chief arranged one within the clan, and households contributed food and clothing. The Shaman guided her family's funeral. She was fed even on the days she would not speak. Anyone telling this tale must remember the hands that pulled and the household that made room.
 
@@ -407,17 +407,17 @@ She asked to train with the warband. Some said the boats needed her more. A vete
 
 She took escort work and followed reports of the raiders from landing to landing. Every rumor became a weight she tried to carry herself. Companions learned to stop her taking the heaviest pack as well as the longest watch. She thanked them and did it again.
 
-At last she recognized a raider at a narrow reach upriver. He wore the brass fastening her mother had used on a river cloak. Wíthrún followed him along the bank until he leapt into a waiting boat. A little farther ahead a crowded ferry struck submerged timber and turned across the current. Its passengers cried out. The raider's boat was already moving past them.
+At last she recognized a raider at a narrow reach upriver. He wore the brass fastening her mother had used on a river cloak. Withrún followed him along the bank until he leapt into a waiting boat. A little farther ahead a crowded ferry struck submerged timber and turned across the current. Its passengers cried out. The raider's boat was already moving past them.
 
 She could take the near path and gain a bowshot at him. The ferry's rope had parted. She looked once at the brass fastening and then at the faces on the ferry. She cast her own rope.
 
 The first pull dragged her to her knees. She wrapped the rope around a tree, called to her companions and put her shoulder against it. People who had never held a weapon came to pull beside them. They brought the ferry against the bank a hand's breadth at a time. Its passengers climbed ashore. The raider disappeared around the bend.
 
-Wíthrún wept after the last passenger was safe. No one told her the rescue should have made her happy. A child sat beside her until she could stand. She had lost the fastening and the man who wore it; she had kept a boatful of people from becoming another burned household's grief.
+Withrún wept after the last passenger was safe. No one told her the rescue should have made her happy. A child sat beside her until she could stand. She had lost the fastening and the man who wore it; she had kept a boatful of people from becoming another burned household's grief.
 
 Thornhaven's reciters end with the rope drying above her receiving household's door. They say she still asks who ordered the raid and still seeks a witnessed settlement. They also say that when she takes a load now, she leaves a place for another pair of hands.
 
-## Playing Wíthrún
+## Playing Withrún
 
 Tellings disagree about the season and the raiders' origin. This sheet portrays her after the ferry rescue, an accomplished defender still seeking evidence of the attack. Her clan survives and continues to support her; the destruction was of her family household. Her training took sustained work. Her grief supplies neither instant skill nor authority over the warband.
 
@@ -425,7 +425,7 @@ Tellings disagree about the season and the raiders' origin. This sheet portrays 
 
 ### Personality and Motivation
 
-Wíthrún is dependable, patient under hardship and reluctant to admit when a burden is too heavy. Her Ox bond expresses those qualities. She wants other households to receive the protection her family lacked and wants a truthful reckoning of the raid. She is learning to let care reach her as readily as she gives it.
+Withrún is dependable, patient under hardship and reluctant to admit when a burden is too heavy. Her Ox bond expresses those qualities. She wants other households to receive the protection her family lacked and wants a truthful reckoning of the raid. She is learning to let care reach her as readily as she gives it.
 
 ### Strengths and Limits
 
@@ -437,6 +437,6 @@ Her receiving household and companions are continuing relationships, not a debt 
 
 ## Plot Hooks
 
-1. **The Brass Fastening**—A trader offers a family possession and an account of the raiders. Help establish its provenance before Wíthrún mistakes a stolen object for proof of its current owner's guilt.
-2. **Room in the Boat**—Escort displaced households through a disputed landing. Wíthrún needs companions who can negotiate passage and share the work while she guards the vulnerable.
-3. **A Pledge Already Given**—A suspected raider is held under a ransom pledge. Keep the captive safe, find witnesses and bring a claim to the living chiefs while others urge Wíthrún to break the promise.
+1. **The Brass Fastening**—A trader offers a family possession and an account of the raiders. Help establish its provenance before Withrún mistakes a stolen object for proof of its current owner's guilt.
+2. **Room in the Boat**—Escort displaced households through a disputed landing. Withrún needs companions who can negotiate passage and share the work while she guards the vulnerable.
+3. **A Pledge Already Given**—A suspected raider is held under a ransom pledge. Keep the captive safe, find witnesses and bring a claim to the living chiefs while others urge Withrún to break the promise.

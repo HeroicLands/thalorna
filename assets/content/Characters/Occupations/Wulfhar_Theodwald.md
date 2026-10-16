@@ -1,6 +1,6 @@
 ---
 shortcode: wlfhrthdwld
-name: {full: Wulfhár yra Theódwald wur Thornhaven, aliases: []}
+name: {full: Dorghár yra Theodwald wur Thornhaven, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -388,13 +388,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Wulfhár yra Theódwald wur Thornhaven is a 26-year-old man who stands 6'1" tall and is broad and solidly built. He has a broad face with defined cheekbones, a lined forehead, and a square jaw that leads to a broad chin. His bright brown eyes sit beneath furrowed brows, lending him a lively gaze. A straight nose and firm lips complete his features. He has light skin with a sun-tanned complexion. His dark brown hair is pulled back in a warrior's knot.
+Dorghár yra Theodwald wur Thornhaven is a 26-year-old man who stands 6'1" tall and is broad and solidly built. He has a broad face with defined cheekbones, a lined forehead, and a square jaw that leads to a broad chin. His bright brown eyes sit beneath furrowed brows, lending him a lively gaze. A straight nose and firm lips complete his features. He has light skin with a sun-tanned complexion. His dark brown hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Wulfhár came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Dorghár came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Wulfhár is known for his intimidating presence and fearlessness in battle. He guards Thornhaven with its war-band and has built a reputation as a reliable protector. He trains younger fighters beside the people who have fought with him for years. While he thrives in battle, he struggles to express his emotions outside it.
+Dorghár is known for his intimidating presence and fearlessness in battle. He guards Thornhaven with its war-band and has built a reputation as a reliable protector. He trains younger fighters beside the people who have fought with him for years. While he thrives in battle, he struggles to express his emotions outside it.
 
 ## Psyche
 
@@ -404,7 +404,7 @@ Struggles with emotional expression, sometimes overly aggressive.
 
 ### Motivation
 
-Wulfhár is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huscarl work keep him vigilant and adaptable.
+Dorghár is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huscarl work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -412,7 +412,7 @@ Physically strong, experienced in hand-to-hand combat, a natural leader.
 
 ## Social
 
-Wulfhár stands with Thornhaven’s war-band and guards its households when danger comes. He follows the War Chief for a muster, not a lord for a lifetime.
+Dorghár stands with Thornhaven’s war-band and guards its households when danger comes. He follows the War Chief for a muster, not a lord for a lifetime.
 
 ## Companions
 
@@ -426,12 +426,12 @@ Few; generally well-respected.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Wulfhár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Huscarl's Dilemma**—Dorghár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 2. **Old Grudges**—Few; generally well-respected. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Wulfhár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Dorghár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Wulfhár depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Dorghár depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Wulfhár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Dorghár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

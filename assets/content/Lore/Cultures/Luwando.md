@@ -3,7 +3,7 @@ shortcode: luwandoclt
 name: {full: Luwando, aliases: [River-keepers]}
 type: lore
 subType: culture
-description: "The river-keepers of the central Xerathian forest: fishers, foragers and hosts along the great rivers, and the forest's door for northern trade."
+description: "The river-keepers of the central Zerathian forest: fishers, foragers and hosts along the great rivers, and the forest's door for northern trade."
 tags: [draft]
 data:
   language: skill-ekpelulng
@@ -22,7 +22,7 @@ The **Luwando** are the river-keepers, one of the four traditions of the [[lore-
 
 ## Where They Live
 
-Luwando tribes live along the great rivers of the [[place-cntrlrnfrsts|Central Rainforests]], both the ones that run north to the Vylarian Sea and the ones that run south into the flooded wetlands. Each tribe holds a stretch of one river, a few days by dugout from end to end, and its bands camp on the high banks where the water does not reach in the rains. The northernmost Luwando are the tribes nearest the river-posts of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]].
+Luwando tribes live along the great rivers of the [[place-cntrlrnfrsts|Central Rainforests]], both the ones that run north to the Vylarian Sea and the ones that run south into the flooded wetlands. Each tribe holds a stretch of one river, a few days by dugout from end to end, and its bands camp on the high banks where the water does not reach in the rains. The northernmost Luwando are the tribes nearest the river-posts of the [[affiliation-empireakhlth|Empire of Au'Khelathu]].
 
 ## How They Live
 

@@ -22,7 +22,7 @@ The Cloud Pass carries the road from the eastern coast of [[place-klhrcntnnt|Kal
 
 The Avoluthei keep the road: its cut steps, its rope bridges over the ravines and its shelters below the crest. They walk every traveler over the top, and they turn back anyone who comes up from the coast without a lineage's word for him. A port Kaliharan seldom goes up the road, and a foreigner almost never does.
 
-A wind-stone stands at the crest, one of the works of the [[lore-theithari|Ithári]] along the top of the Ring: a smooth gray swelling out of the wet rock, without a seam or a mark on it. Storms that come in from the sea break on the crest above the pass and reach the Bowl as rain. Custodians out of [[place-mirthaan|Mirthaan]] tend the stone, and the Avoluthei walk it with them.
+A wind-stone stands at the crest, one of the works of the [[lore-theithari|Ithari]] along the top of the Ring: a smooth gray swelling out of the wet rock, without a seam or a mark on it. Storms that come in from the sea break on the crest above the pass and reach the Bowl as rain. Custodians out of [[place-mirthaan|Mirthaan]] tend the stone, and the Avoluthei walk it with them.
 
 ## The Blindfolded Walk
 
@@ -30,7 +30,7 @@ The Cloud Pass is the one way an outsider is ever brought inland. The custodians
 
 ## What Is Seen from It
 
-Most days the crest shows nothing but cloud. On a clear morning in the dry months, the ridges fall away eastward under unbroken canopy to the coast, the harbor of Ilovanu and the sea as far as the reefs off [[place-telvari|Telvári]]. Westward the whole Bowl opens below: the terraces stepping down to [[place-klhrlake|the lake]], and [[place-klhrmassif|the Massif]] standing in the water. Herds of [[being-cldgt|Cloud Goats]] keep to the cliffs on either side of the notch.
+Most days the crest shows nothing but cloud. On a clear morning in the dry months, the ridges fall away eastward under unbroken canopy to the coast, the harbor of Ilovanu and the sea as far as the reefs off [[place-telvari|Telvari]]. Westward the whole Bowl opens below: the terraces stepping down to [[place-klhrlake|the lake]], and [[place-klhrmassif|the Massif]] standing in the water. Herds of [[being-cldgt|Cloud Goats]] keep to the cliffs on either side of the notch.
 
 ## The Cost of Crossing
 

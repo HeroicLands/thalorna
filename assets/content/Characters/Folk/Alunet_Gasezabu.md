@@ -1,6 +1,6 @@
 ---
 shortcode: alunetgasezb
-name: {full: Alûnet Gasezabu, aliases: []}
+name: {full: Alunet Gasezabu, aliases: []}
 type: being
 subType: npc
 description: "A lord of the capital, dead some years, whose line produced centuries of administrators, generals and patrons of the arts"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Alûnet Gasezabu is a 41-year-old man who stands 6'2" tall with a heavy build. He has dark brown skin, dark brown hair, and brown eyes.
+Alunet Gasezabu is a 41-year-old man who stands 6'2" tall with a heavy build. He has dark brown skin, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Alûnet Gasezabu was a lord of [[place-galezkara|Galezkara]], dead some years now. His line did not end with him: it has produced generations of administrators, generals and patrons of the arts who still answer for the name. Anyone establishing a family's credentials in the capital eventually traces them back to him.
+Alunet Gasezabu was a lord of [[place-galezkara|Galezkara]], dead some years now. His line did not end with him: it has produced generations of administrators, generals and patrons of the arts who still answer for the name. Anyone establishing a family's credentials in the capital eventually traces them back to him.

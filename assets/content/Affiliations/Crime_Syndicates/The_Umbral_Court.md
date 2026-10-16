@@ -3,7 +3,7 @@ shortcode: umbralcourt
 name: {full: The Umbral Court, aliases: [The Shadow Court, The Set-Aside Crown, The Second Face]}
 type: affiliation
 subType: criminal
-description: "The shadow court of Dúnavarre—the household of a crown the Thôrdimâlon set aside, kept alive by the dispossessed nobility as a criminal enterprise, a court of petition for subjects the Synod will not hear, and the one power on the island that has learned how not to be seen."
+description: "The shadow court of Dúnavarre—the household of a crown the Thordimalon set aside, kept alive by the dispossessed nobility as a criminal enterprise, a court of petition for subjects the Synod will not hear, and the one power on the island that has learned how not to be seen."
 tags: [organization, crime, underworld, dunavarre, aelwyth]
 data:
   culture: aelwythanclt
@@ -77,7 +77,7 @@ what it is the remains of.
 ## The Set-Aside Crown
 
 Dúnavarre is the only polity in Ankaris governed directly by mages: the Synod of the
-[[affiliation-ordoarcanis|Thôrdimâlon]] sets policy, administers justice and commands the kingdom's
+[[affiliation-ordoarcanis|Thordimalon]] sets policy, administers justice and commands the kingdom's
 forces. The kingdom's own chronicles describe how this came about gently—generations of mage-advisors
 assuming duties that incompetent kings could not, until the crown was ceremonial and was at length set
 aside. Its critics in [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]] tell
@@ -177,34 +177,34 @@ position that it does not exist is the least embarrassing one available.
   intermittently, which is the single greatest threat to the Court's standing at home.
 - **[[affiliation-velvethand|The Velvet Hand]].** The mainland counterpart, and a buyer. Arcane Order secrets
   command extraordinary prices, and the Court is one of very few sellers.
-- **[[affiliation-adanasreni|The Ādānashrenī]].** No contact to speak of, and a certain professional
+- **[[affiliation-adanasreni|The Adanashreni]].** No contact to speak of, and a certain professional
   curiosity: both are criminal bodies that survive by being institutions rather than gangs, and each
   regards the other's solution to the problem as unworkable.
 
 ## The Second Face
 
-Dúnavarre is devoutly [[affiliation-arldnpnthn|Aurèldían]] and honors **Árdavon** above the rest—Keeper of the Gates, whose symbol is a mask with two faces, one serene and one stern. The Court has
+Dúnavarre is devoutly [[affiliation-arldnpnthn|Aureldian]] and honors **Árdavon** above the rest—Keeper of the Gates, whose symbol is a mask with two faces, one serene and one stern. The Court has
 taken this for its own with some relish. It calls itself the **Second Face**: the argument being that
 Árdavon's stern aspect looks upon a kingdom whose rulers were never granted their office, and that the
 Court is what order looks like when the lawful form of it has been set aside.
 
 Every priest of Árdavon in Dúnavarre has denounced this. Not all of them have denounced it convincingly.
 
-## The Embassy to Tāntsou
+## The Embassy to Tantsou
 
-The Court holds [[being-laradhluavel|Laradh Lúavel]], Steward of the mission to the
-[[affiliation-tantsouempr|Empire of Tāntsou]], through gambling debts and the embezzlement he committed
+The Court holds [[being-laradhluavel|Larad Lúavel]], Steward of the mission to the
+[[affiliation-tantsouempr|Empire of Tantsou]], through gambling debts and the embezzlement he committed
 to cover them—and through his daughter [[being-ilaraluavel|Ilara]], whose safety is his first
 concern and the Court's best instrument.
 
 The motive is not money. The embassy is the Synod's boldest assertion of Dúnavarren independence, and a
 mission that fails badly and publicly is a Synod humiliation on the international stage—worth far
-more to the Court than anything Laradh could repay. Whether the Court wants the mission steered or
-wrecked is a question its own officers disagree about, and Laradh has not been told which.
+more to the Court than anything Larad could repay. Whether the Court wants the mission steered or
+wrecked is a question its own officers disagree about, and Larad has not been told which.
 
 ## Adventure Hooks
 
-- **The Steward's daughter.** Someone works out what has been done to Laradh. Exposing him destroys
+- **The Steward's daughter.** Someone works out what has been done to Larad. Exposing him destroys
   the mission the Court wants destroyed; protecting him means dealing with the Court on its terms.
 - **A petition.** Somebody the party cares about has no remedy in law, and the Court will hear them.
   It will also enter the favor in the Rolls, and collect it at the worst possible moment.
@@ -221,5 +221,5 @@ wrecked is a question its own officers disagree about, and Laradh has not been t
 ## See Also
 
 - [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] · [[place-ravenmoor|Ravenmoor]] · [[place-aelwyth|Aelwyth]]
-- [[affiliation-ordoarcanis|Thôrdimâlon]] · [[affiliation-justbladeordr|Order of the Just Blade]]
+- [[affiliation-ordoarcanis|Thordimalon]] · [[affiliation-justbladeordr|Order of the Just Blade]]
 - [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] · [[affiliation-velvethand|The Velvet Hand]]

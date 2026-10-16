@@ -36,4 +36,4 @@ Lahmes is a 37-year-old man who stands 6'5" tall with a massive build. He has eb
 
 # Dossier {#dossier}
 
-Lahmes trades as a merchant of [[place-galezkara|Galezkara]] who funds the theatre and steers the spiritual side of the work his money pays for. The players tolerate his guidance because the money is good and the advice occasionally is too. He has lately turned that patronage toward the performer [[being-thiryegezaqe|Thirye Gez'Aqêu]], offering her connections to audiences his money alone could not reach.
+Lahmes trades as a merchant of [[place-galezkara|Galezkara]] who funds the theatre and steers the spiritual side of the work his money pays for. The players tolerate his guidance because the money is good and the advice occasionally is too. He has lately turned that patronage toward the performer [[being-thiryegezaqe|Thirye Gez'Aqeu]], offering her connections to audiences his money alone could not reach.

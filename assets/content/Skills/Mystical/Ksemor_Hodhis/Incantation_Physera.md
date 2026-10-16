@@ -1,6 +1,6 @@
 ---
 shortcode: physera
-name: {full: Incantation Physéra, aliases: []}
+name: {full: Incantation Fisera, aliases: []}
 type: skill
 subType: mystical
 tags: [hex-hodai, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-physera|Rhéshin Physéra]]
+See [[affiliation-physera|Rhezin Fisera]]

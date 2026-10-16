@@ -1,6 +1,6 @@
 ---
 shortcode: urnelspr
-name: {full: "Úrnel, the Bear of the High Corries", aliases: []}
+name: {full: "Urnel, the Bear of the High Corries", aliases: []}
 type: lore
 subType: spirit
 description: "Bear-spirit of the high corries—warded against in winter and venerated in summer, the same spirit both times."
@@ -12,9 +12,9 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 - **Seat:** [[place-drenavrspn|the Drenavar Spine]]
 - **Territory:** the high corries and the winter dens beneath them
 - **Posture:** Warded, then venerated
-- **Met through:** [[skill-urnelsprt|Úrnel Spirit Power]]
+- **Met through:** [[skill-urnelsprt|Urnel Spirit Power]]
 
-Úrnel is the clearest case in Áelendan practice of a single Kindred requiring two postures, and
+Urnel is the clearest case in Áelendan practice of a single Kindred requiring two postures, and
 shamen use him to teach it. Between the first hard frost and the thaw he is warded against: the
 corries are not entered, the protective songs are carried by anyone who must pass below them, and
 a tribe that loses someone up there in winter does not go to look.

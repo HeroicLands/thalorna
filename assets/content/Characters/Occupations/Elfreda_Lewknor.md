@@ -1,6 +1,6 @@
 ---
 shortcode: elfrdlwknr
-name: {full: Elfreda Lewknor, aliases: []}
+name: {full: Kenrith Lewknor, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Elfreda Lewknor is a 28-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a pointed chin. Her deep-set brown eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and expressive lips complete her features. She has light skin with a lightly freckled complexion. Her auburn hair is loose and wavy.
+Kenrith Lewknor is a 28-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a pointed chin. Her deep-set brown eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and expressive lips complete her features. She has light skin with a lightly freckled complexion. Her auburn hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Elfreda Lewknor is a farmer.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Kenrith Lewknor is a farmer.
 
-Elfreda grew up on her family's farm, where she learned to tend to animals and grow vegetables. After her parents passed away, she took over the management of the farm and has worked hard to maintain its productivity. Elfreda is innovative and open to new agricultural practices, often experimenting with different crops and techniques to improve yields.
+Kenrith grew up on her family's farm, where she learned to tend to animals and grow vegetables. After her parents passed away, she took over the management of the farm and has worked hard to maintain its productivity. Kenrith is innovative and open to new agricultural practices, often experimenting with different crops and techniques to improve yields.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ Sometimes takes on too many projects, struggles to ask for help.
 
 ### Motivation
 
-Elfreda wants the farm to stay productive, and tests new crops and methods to improve its yields.
+Kenrith wants the farm to stay productive, and tests new crops and methods to improve its yields.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ Resourceful, skilled in animal care and crop rotation, adaptable.
 
 ## Social
 
-Elfreda is affiliated with Rural Farmers' Cooperative.
+Kenrith is affiliated with Rural Farmers' Cooperative.
 
 ## Companions
 
 ### Patrons
 
-Local villagers buy Elfreda's fresh produce.
+Local villagers buy Kenrith's fresh produce.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ A rival farmer who often competes for the same markets.
 
 ## Plot Hooks
 
-1. **The Farmer's Dilemma**—Elfreda faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Farmer's Dilemma**—Kenrith faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Old Grudges**—A rival farmer who often competes for the same markets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Elfreda's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Kenrith's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Elfreda depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Kenrith depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Elfreda the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kenrith the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

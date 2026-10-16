@@ -1,6 +1,6 @@
 ---
 shortcode: xaqikhanal
-name: {full: "Ritual: Xaq'ik Ha'nal", aliases: [Xaq'ik Ha'nal, The Blossom of Living Waters]}
+name: {full: "Ritual: Shaq'ik Ha'nal", aliases: [Shaq'ik Ha'nal, The Blossom of Living Waters]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-xaqikhanal|Faith of Xaq'ik Ha'nal]]
+See [[affiliation-xaqikhanal|Faith of Shaq'ik Ha'nal]]

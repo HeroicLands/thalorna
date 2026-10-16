@@ -1,6 +1,6 @@
 ---
 shortcode: grlndrskrzns
-name: {full: Garlîndris Korâzênis, aliases: []}
+name: {full: Garlindris Korazenis, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -396,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Garlîndris Korâzênis is a 45-year-old man who stands 5'9" tall and is of moderate build. He has a square face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath heavy brows, lending him an expressive gaze. A hawkish nose and thin lips complete his features. He has fair skin with a weathered complexion. His black hair is receding at the temples.
+Garlindris Korazenis is a 45-year-old man who stands 5'9" tall and is of moderate build. He has a square face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath heavy brows, lending him an expressive gaze. A hawkish nose and thin lips complete his features. He has fair skin with a weathered complexion. His black hair is receding at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a minor noble family of Vylarian heritage, Garlîndris Korâzênis came into the world of the herald through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria]] region to a minor noble family of Vylarian heritage, Garlindris Korazenis came into the world of the herald through a combination of circumstance and aptitude.
 
-Garlîndris comes from a long line of minor nobility who have been heralds for generations. Trained from a young age in the intricacies of heraldry, he is known for his commanding voice and attention to the details of ceremony. He takes great pride in upholding the dignity of his family’s legacy and is often tasked with announcing important decrees and leading ceremonial events for the city’s nobility. His adherence to tradition sometimes makes him appear rigid, but his dedication to his craft is unquestionable.
+Garlindris comes from a long line of minor nobility who have been heralds for generations. Trained from a young age in the intricacies of heraldry, he is known for his commanding voice and attention to the details of ceremony. He takes great pride in upholding the dignity of his family’s legacy and is often tasked with announcing important decrees and leading ceremonial events for the city’s nobility. His adherence to tradition sometimes makes him appear rigid, but his dedication to his craft is unquestionable.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ Inflexible, struggles to adapt to informal or modern events.
 
 ### Motivation
 
-Garlîndris is driven by the desire to master his craft and secure a stable future. The uncertainties of life in herald work keep him vigilant and adaptable.
+Garlindris is driven by the desire to master his craft and secure a stable future. The uncertainties of life in herald work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -420,15 +420,15 @@ Strong, clear voice, knowledgeable in heraldry, experienced in formal ceremonies
 
 ## Social
 
-Garlîndris is affiliated with City Heralds' Guild.
+Garlindris is affiliated with City Heralds' Guild.
 
-As a Vylarian herald, Garlîndris occupies a recognized social niche within Vylaria society.
+As a Vylarian herald, Garlindris occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Garlîndris's primary patron is High-ranking nobles who value his skill and adherence to tradition. This relationship provides both opportunity and obligation.
+Garlindris's primary patron is High-ranking nobles who value his skill and adherence to tradition. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,12 +436,12 @@ Younger, more modern heralds who see him as outdated.
 
 ## Plot Hooks
 
-1. **The Herald's Dilemma**—Garlîndris faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Herald's Dilemma**—Garlindris faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—Younger, more modern heralds who see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Garlîndris's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Garlindris's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Garlîndris depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Garlindris depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Garlîndris the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Garlindris the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

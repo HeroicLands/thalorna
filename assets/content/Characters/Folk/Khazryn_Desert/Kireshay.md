@@ -3,7 +3,7 @@ shortcode: kireshay
 name: {full: Kireshay, aliases: [Captain Kireshay]}
 type: being
 subType: npc
-description: The local garrison commander of the City Guard, who has made begging and vagrancy a personal crusade, named in Kamîd Khâvandar.
+description: The local garrison commander of the City Guard, who has made begging and vagrancy a personal crusade, named in Kamid Khavandar.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Kireshay is a 44-year-old man who stands 6'1" tall with a light build. He has ta
 
 # Dossier {#dossier}
 
-Kireshay is a captain of the City Guard and the local garrison commander. He has made begging and vagrancy a personal crusade, and views [[being-kamdkhvndr|Kamîd Khâvandar]] specifically as a troublemaker and vagrant to be driven out or arrested.
+Kireshay is a captain of the City Guard and the local garrison commander. He has made begging and vagrancy a personal crusade, and views [[being-kamdkhvndr|Kamid Khavandar]] specifically as a troublemaker and vagrant to be driven out or arrested.

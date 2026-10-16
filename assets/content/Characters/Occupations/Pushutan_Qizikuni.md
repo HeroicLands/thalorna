@@ -1,6 +1,6 @@
 ---
 shortcode: pshtnqzkn
-name: {full: Pushûtan Qizîkûnî, aliases: []}
+name: {full: Pushutan Qizikuni, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Pushûtan Qizîkûnî is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a pointed chin. His large dark brown eyes sit beneath heavy brows, lending him an expressive gaze. A strong nose and curved lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is kept practical and short.
+Pushutan Qizikuni is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a pointed chin. His large dark brown eyes sit beneath heavy brows, lending him an expressive gaze. A strong nose and curved lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a noble family of Tarûzelian heritage, Pushûtan Qizîkûnî came into the world of the litigant through a combination of circumstance and aptitude.
+Born in the Taruzel region to a noble family of Taruzelian heritage, Pushutan Qizikuni came into the world of the litigant through a combination of circumstance and aptitude.
 
-Pushûtan has spent decades as a litigator, focusing on commercial law and trade disputes. His extensive experience and sharp legal mind have earned him a prominent position within the Litigant's Guild. Pushûtan is respected for his analytical approach and ability to handle complex legal systems. He is known to mentor young litigants and is passionate about upholding the law.
+Pushutan has spent decades as a litigator, focusing on commercial law and trade disputes. His extensive experience and sharp legal mind have earned him a prominent position within the Litigant's Guild. Pushutan is respected for his analytical approach and ability to handle complex legal systems. He is known to mentor young litigants and is passionate about upholding the law.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Can be overly critical, sometimes dismisses unconventional methods.
 
 ### Motivation
 
-Pushûtan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in litigant work keep him vigilant and adaptable.
+Pushutan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in litigant work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Highly knowledgeable in commercial law, good strategist, respected mentor.
 
 ## Social
 
-Pushûtan is affiliated with Litigant's Guild.
+Pushutan is affiliated with Litigant's Guild.
 
-As a Tarûzelian litigant, Pushûtan occupies a recognized social niche within Tarûzel society.
+As a Taruzelian litigant, Pushutan occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Pushûtan's primary patron is Merchants and business owners seeking legal representation. This relationship provides both opportunity and obligation.
+Pushutan's primary patron is Merchants and business owners seeking legal representation. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Few; generally respected but occasionally challenged by ambitious newcomers.
 
 ## Plot Hooks
 
-1. **The Litigant's Dilemma**—Pushûtan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Litigant's Dilemma**—Pushutan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—Few; generally respected but occasionally challenged by ambitious newcomers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Pushûtan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Pushutan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Pushûtan depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Pushutan depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Pushûtan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Pushutan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

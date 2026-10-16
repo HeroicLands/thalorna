@@ -1,36 +1,36 @@
 ---
 shortcode: khazarturn
-name: {full: The Fall of Khazártúrn, aliases: [Khazártúrn, The Valley of Seven Towers]}
+name: {full: The Fall of Khazartúrn, aliases: [Khazartúrn, The Valley of Seven Towers]}
 type: lore
 subType: history
-description: "The destruction of the Khazári's greatest city and every soul in it in 2427 BF—Grukar driven by a renegade Sinalë, the worst calamity the Deep Folk have known on Thalorna, and the sealing of the city afterward as a single tomb for thirty thousand."
+description: "The destruction of the Khazari's greatest city and every soul in it in 2427 BF—Grukar driven by a renegade Sinale, the worst calamity the Deep Folk have known on Thalorna, and the sealing of the city afterward as a single tomb for thirty thousand."
 tags: []
 data: {packFolder: settinglore}
 ---
 
-**Khazártúrn** was the greatest city the [[lore-flkkhazar|Khazári]] ever built. In **2427 BF** it was
+**Khazartúrn** was the greatest city the [[lore-flkkhazar|Khazari]] ever built. In **2427 BF** it was
 destroyed with every soul in it, and nothing before or since has come near it in the reckoning of the
 Deep Folk. It is **the worst thing that has ever happened to them on Thalorna**.
 
-They reached this world about 5300 BF. By **5123 BF** Khazártúrn stood: not a hold among holds
+They reached this world about 5300 BF. By **5123 BF** Khazartúrn stood: not a hold among holds
 but the work all their other work was measured against, home to some thirty thousand, and the seat of an
 entire people's craft-records.
 
 It stood close to twenty-seven centuries.
 
 It also fell about **seventy years after the first human empire began keeping a record anyone can still
-read**. The [[affiliation-tantsouempr|Empire of Tāntsou]] dates its oldest documented dynasty to around
-2500 BF; Khazártúrn was destroyed in 2427 BF. The greatest work of the elder races and the oldest human
-archive overlap by a single lifetime—and neither one notices the other. No Tāntsou document of that
-century names Khazártúrn or the Khazári, and the Khazári account of the fall names no human polity at
+read**. The [[affiliation-tantsouempr|Empire of Tantsou]] dates its oldest documented dynasty to around
+2500 BF; Khazartúrn was destroyed in 2427 BF. The greatest work of the elder races and the oldest human
+archive overlap by a single lifetime—and neither one notices the other. No Tantsou document of that
+century names Khazartúrn or the Khazari, and the Khazari account of the fall names no human polity at
 all. There is nothing in either record to suggest that anybody involved knew the other existed.
 
 ## What It Was Like
 
-No human has ever seen Khazártúrn. Everything said of it in the human world is **story**—and the
-stories do not come from the Khazári, who never speak of it at all.
+No human has ever seen Khazartúrn. Everything said of it in the human world is **story**—and the
+stories do not come from the Khazari, who never speak of it at all.
 
-They come from the [[lore-flksinale|Sinalë]], who saw the city while it lived and who will, very
+They come from the [[lore-flksinale|Sinale]], who saw the city while it lived and who will, very
 occasionally, let something out: a snippet, an aside, a phrase in one of their ancient songs that turns
 out to be about a place rather than an idea. Sometimes to an [[lore-aelendnppl|Áelendan]]. From there it
 travels, at three and four removes, into human hands.
@@ -39,7 +39,7 @@ So everything below is what the songs say, and nobody can check any of it.
 
 ## The Valley of Seven Towers
 
-Khazártúrn's other name describes its shape, and it is a name that could only ever have been used by
+Khazartúrn's other name describes its shape, and it is a name that could only ever have been used by
 someone who had been told what they were looking at.
 
 It was not a buried hold. It was cut into the **cliff face of a mountain valley**—a city in a wall of
@@ -47,13 +47,13 @@ rock, with the valley open in front of it, which is why its halls could take day
 anyone thought to try. And standing out from that cliff were **seven great towers**.
 
 The towers were not built up from the valley floor. They were **spurs the cliff already held**, seven
-ribs of rock standing out from the face, and the Khazári finished them until they could not be told from
+ribs of rock standing out from the face, and the Khazari finished them until they could not be told from
 the rock they had always been. The cliff offered the seven; the clans made them towers.
 
 There were seven because there were **seven clans**—Summágh, Dullák, Rummák, Gullád, Vurrán, Gurráz
 and Lummáv, the seven that fled to Thalorna together around 5300 BF (see
-[[lore-khazararrv|The Coming of the Khazári]])—and each tower was that clan's, and the city was theirs jointly and severally in a way the
-Khazári have never bothered to explain to anyone else.
+[[lore-khazararrv|The Coming of the Khazari]])—and each tower was that clan's, and the city was theirs jointly and severally in a way the
+Khazari have never bothered to explain to anyone else.
 
 A **lake** lies on the valley floor below the cliff, so still that the songs see the towers twice, and
 at noon it shines like worked silver. The seven looked down on it day and night, because each tower
@@ -66,10 +66,10 @@ which tower and when.
 Every one of the seven was built to be **indistinguishable, from outside, from a natural feature of the
 valley**—and it is worth being careful about why, because outsiders almost always get it wrong.
 
-It was not concealment. The Khazári were not hiding Khazártúrn from anyone; there was nobody to hide it
+It was not concealment. The Khazari were not hiding Khazartúrn from anyone; there was nobody to hide it
 from in 5123 BF, and they have never behaved as though they thought there was.
 
-It is **their aesthetic**, and it is consistent across everything they make. A Khazári work is finished
+It is **their aesthetic**, and it is consistent across everything they make. A Khazari work is finished
 to belong to the ground it stands in. The towers were not screened or camouflaged; they were spurs of the
 cliff _finished as rock_—bedded, weathered, faulted, jointed, stained, carrying the same strata as the
 cliff they stand out from—because that is what a well-made thing looks like from outside. The exterior is
@@ -81,12 +81,12 @@ Which is the same principle as the halls, stated twice. A people who finish the 
 greatest work so that it cannot be told from a cliff, and then spend twenty-seven centuries raising vaults
 hundreds of feet high and painting the ceilings as open sky, are not being secretive and are not being
 modest. They are being consistent: **the wonder is for those within it**, and there is no version of a
-Khazári building where the point of it is visible from the valley floor.
+Khazari building where the point of it is visible from the valley floor.
 
 Humans, who build to be seen, read this as hiding and cannot easily be talked out of it.
 
 The relevant consequence for the present day is real all the same, whatever the intention behind it. When
-the Khazári sealed the city they dressed the granite to the rock and left no seam—and they were not
+the Khazari sealed the city they dressed the granite to the rock and left no seam—and they were not
 inventing that technique for the occasion. **They were doing what they had done from the first spur they finished.**
 The valley today looks exactly as it has always looked.
 
@@ -99,7 +99,7 @@ The whole design was an argument against being underground. Every choice in it�
 the water, the painted vaults—was made to produce the feeling of standing **outside**, in the open air,
 under weather. Bright, airy, and magnificent, in the middle of a mountain, on purpose.
 
-Khazártúrn was a city of **light**. Its great halls stood hundreds of feet from floor to vault, and
+Khazartúrn was a city of **light**. Its great halls stood hundreds of feet from floor to vault, and
 **skylights** cut through the mountain above them dropped daylight into the interior in shafts that moved
 across the floors as the sun went over—worked so that the halls were lit, genuinely lit, at depths where
 there should have been no day at all. The stone was cut and finished until it read as something else
@@ -114,16 +114,16 @@ business stood under weather that had been put there on purpose.
 And **songbirds flew about inside**.
 
 That is the detail the songs keep returning to, and it settles the question better than any measurement
-could. Birds came in at the skylights, and stayed, and nested in the high galleries, and were left alone—because a hall that a bird will live in is not a room. Whatever the Khazári had been trying to build,
+could. Birds came in at the skylights, and stayed, and nested in the high galleries, and were left alone—because a hall that a bird will live in is not a room. Whatever the Khazari had been trying to build,
 the birds are the proof they achieved it.
 
-The Deep Folk are not, by reputation, a people given to display. Khazártúrn is the exception and was always
+The Deep Folk are not, by reputation, a people given to display. Khazartúrn is the exception and was always
 understood to be. It was the thing they made when they were doing their best.
 
-It is the exception in a stricter sense as well. Every other Khazári work follows what the stone offers:
+It is the exception in a stricter sense as well. Every other Khazari work follows what the stone offers:
 a hold keeps its daylight on the face and its depths for what is serious, takes its light through the
 rock's own fractures, leads its water along the courses water already runs, and cuts as little as it
-can. Khazártúrn is **the one work in which what the Khazári wanted led over what the stone offered**.
+can. Khazartúrn is **the one work in which what the Khazari wanted led over what the stone offered**.
 They cut down through the mountain to bring daylight into the depths, so that the deep places stopped
 being deep. They made water run in the thoroughfares because they could. They ran colonnades straight
 along the great ways, and stood seven towers out from the cliff. And they fed it from a hinterland that
@@ -133,8 +133,8 @@ knows it as the finest thing their people ever made and as the thing no hold has
 
 ## The Quarrel
 
-The city was not always held by seven equals. This part comes from the Khazári record, and the
-holds keep it for themselves: in Khazártúrn's early centuries one clan held the
+The city was not always held by seven equals. This part comes from the Khazari record, and the
+holds keep it for themselves: in Khazartúrn's early centuries one clan held the
 **leadership of the city**, and the other six contested it. The quarrel was over three things a city
 inside a mountain never has enough of—the farmland of the valley and the country around it, the
 mines in the mountain, and a fair share of what both produced. Which of the seven held the
@@ -150,12 +150,12 @@ sea, is a late one.
 What stayed behind was the city as the account knows it: seven towers held jointly by seven clans,
 with no clan over the others, from the quarrel's settling until the city fell in 2427 BF. Every hold
 on Thalorna governs itself on the lesson. A hold answers to the council of its elders, no single
-house leads it, and the Khazári put the rule in one phrase: there is no lord inside the rock (see [[lore-khazariclt|Khazári]]).
+house leads it, and the Khazari put the rule in one phrase: there is no lord inside the rock (see [[lore-khazariclt|Khazari]]).
 
 ## The Judgment
 
-Around **3000 BF** the [[lore-grukarfolk|Grukar]] appeared—new in the world, and the Khazári were the
-only people on Thalorna keeping records when it happened. Nothing written at Khazártúrn in its first
+Around **3000 BF** the [[lore-grukarfolk|Grukar]] appeared—new in the world, and the Khazari were the
+only people on Thalorna keeping records when it happened. Nothing written at Khazartúrn in its first
 twenty-one centuries mentions them; within a generation, a great deal does.
 
 They studied the new species with their customary thoroughness and set down the conclusion: Grukar were
@@ -164,24 +164,24 @@ concentration, permanently limited by the fact that **Ahks do not cooperate** an
 into anything resembling an army.
 
 Every word of that was **correct**. It is still correct. It was in the archive, in their own hand, when
-the city fell—and it did not matter, which is the part the Khazári have never been able to put down.
+the city fell—and it did not matter, which is the part the Khazari have never been able to put down.
 
 ## The Calamity
 
-In 2427 BF Khazártúrn was destroyed by Grukar, in numbers and under a coordination that should not have
-been possible, **driven by a renegade of the [[lore-flksinale|Sinalë]]** who had taken up the
+In 2427 BF Khazartúrn was destroyed by Grukar, in numbers and under a coordination that should not have
+been possible, **driven by a renegade of the [[lore-flksinale|Sinale]]** who had taken up the
 [[miscgear-secondvoice|Second Voice]]—a relic that speaks over Ahks and commands the hatched
 directly.
 
 It was not a war and it was not a siege. It was **a single act of genocide**, carried out on a city that
 had been built against every threat anyone had ever imagined, and it killed **everyone**.
 
-Khazártúrn **had a refuge**, as every hold has, deep in the rock and provisioned to hold out for a long
+Khazartúrn **had a refuge**, as every hold has, deep in the rock and provisioned to hold out for a long
 time. It was built for an enemy that tires and breaks, as Grukar always do. The compelled horde did neither.
 
 The renegade's quarrel was with the hinterland: a city that could not feed itself, reshaping the living
 world to keep itself fed (see [[miscgear-secondvoice|The Second Voice]]). That is the whole of the link
-between what Khazártúrn was and how it ended. The fall was not a judgment on the city, and the Khazári
+between what Khazartúrn was and how it ended. The fall was not a judgment on the city, and the Khazari
 account does not treat it as one. Thirty
 thousand, or near enough that the difference is a few hundred names the record could not confirm: the
 whole population, the craftsmen and the archivists and the young, the entire seat of a people's
@@ -189,10 +189,10 @@ knowledge, in one act.
 
 ## The Sealing
 
-The Grukar were destroyed afterward and the renegade was taken. Then the Khazári went back in, and what
+The Grukar were destroyed afterward and the renegade was taken. Then the Khazari went back in, and what
 they did there is the part of the account that is read aloud.
 
-There were not remotely enough tombs. A city prepares graves at the rate a city dies, and Khazártúrn had
+There were not remotely enough tombs. A city prepares graves at the rate a city dies, and Khazartúrn had
 lost thirty thousand in a matter of days. So they did not attempt to bury them in the ordinary way.
 **They laid the dead in their own chambers**—each in the rooms where they had lived and worked, the
 smiths in their shops, the archivists among the records, the households in their halls—and did it one
@@ -205,30 +205,30 @@ going to be left in disorder.
 
 And then they **sealed it, for all generations**.
 
-Khazártúrn is not a ruin, not a wreck and not an abandoned place. It is intact, in good order, closed,
-and full of its people. It is **the tomb of thirty thousand**, and the greatest single work of Khazári
+Khazartúrn is not a ruin, not a wreck and not an abandoned place. It is intact, in good order, closed,
+and full of its people. It is **the tomb of thirty thousand**, and the greatest single work of Khazari
 hands is now the greatest grave in the world.
 
 ## The Closing
 
-They sealed it properly, which for the Khazári means what it says.
+They sealed it properly, which for the Khazari means what it says.
 
 The **skylights** were the difficulty, and they solved it the way they solve everything. Each was
 unmade—the old window-work lifted out entire—and replaced with cut blocks of granite dressed to the
-surrounding rock and set flush, so that the mountain above Khazártúrn reads as mountain. There is no
+surrounding rock and set flush, so that the mountain above Khazartúrn reads as mountain. There is no
 seam to find. From outside there is nothing to see, and that was the intention: the city was not to be
 marked, and it was not to be findable by anyone looking for the way in.
 
 The **fountains were shut off** at their source. Not from any feeling about silence—because water left
 running in a closed city with no one to tend it floods the closed city, in time, and the last thing they
-did for Khazártúrn was to make certain it would keep.
+did for Khazartúrn was to make certain it would keep.
 
 The **birds went out with the light**. They were put out first, before the last of the work, which the
 account records in one line and does not enlarge upon.
 
 The closing gave the mountain back to itself. The light that had been cut down into it is gone, the deep
 places are dark as the deep places of every other hold are dark, and the city has become the deepest
-and most serious kind of space the Khazári keep: a tomb.
+and most serious kind of space the Khazari keep: a tomb.
 
 ## What Is In There Now
 
@@ -236,7 +236,7 @@ Everything, unaltered, in the dark.
 
 Nothing is ruined and nothing is disordered. The colonnades stand, the galleries stand, the painted market
 skies are overhead exactly as they were painted, the stone still finished like spun glass, and thirty
-thousand Khazári lie in the rooms where they lived. It is all perfectly kept and it has been perfectly
+thousand Khazari lie in the rooms where they lived. It is all perfectly kept and it has been perfectly
 kept for three thousand years.
 
 And it is **completely dark, and completely silent.**
@@ -247,22 +247,22 @@ holding none. Market circles painted as open sky, under torchlight. Vaults hundr
 reach of any lamp, so that the greatest rooms ever made would register only as a cold draft and an echo
 and no ceiling at all.
 
-Bright and airy, made dim and vast. That is the whole of what the Khazári did to Khazártúrn in order to
+Bright and airy, made dim and vast. That is the whole of what the Khazari did to Khazartúrn in order to
 keep it, and they did it deliberately, and they would do it again.
 
 ## Nothing Is To Disturb It
 
 Ever. This is not a preference and it is not sentiment. It is the settled, permanent and unnegotiable
-position of every Khazári hold on Thalorna, and it is the shortest way to understand what the Deep Folk
+position of every Khazari hold on Thalorna, and it is the shortest way to understand what the Deep Folk
 will and will not do.
 
 They are patient with almost everything. They tolerate human kingdoms, ignore human wars, decline human
 embassies and let six thousand years pass without troubling anyone. There are exactly two things that
-will move them: **Grukar**, and **Khazártúrn**.
+will move them: **Grukar**, and **Khazartúrn**.
 
 Their **silence about the location** is a defense, and that one is deliberate—no marker, no monument,
 no name on any map they have ever let out of their hands. The invisibility of the place itself is not: the
-valley looked like a valley from the day the first tower was finished, because that is how the Khazári
+valley looked like a valley from the day the first tower was finished, because that is how the Khazari
 build. But they have understood the value of it since 2427 BF, and they guard the knowledge accordingly.
 
 A tomb that cannot be found is a tomb that cannot be entered, and they would far rather it were never
@@ -270,17 +270,17 @@ located than have to do anything about somebody who located it.
 
 They have not, however, left the second part to chance.
 
-Nothing about this is announced. The Khazári issue no warnings, post no notices and make no threats,
+Nothing about this is announced. The Khazari issue no warnings, post no notices and make no threats,
 because a warning is an invitation to negotiate and there is nothing here to negotiate. Anyone who
-searches for Khazártúrn, finds it, speaks credibly of having found it, or is understood to be assembling
+searches for Khazartúrn, finds it, speaks credibly of having found it, or is understood to be assembling
 the means to open it, is a problem the Deep Folk will solve, quietly and completely, without reference to
 who they are or what they intended.
 
 That is the whole of it, and it is not to be disturbed.
 
-## What the Khazári Say
+## What the Khazari Say
 
-Nothing. They **never speak of Khazártúrn**—not to humans, not to the
+Nothing. They **never speak of Khazartúrn**—not to humans, not to the
 [[lore-vardain|Vardain]] who have lived beneath a hold for millennia, not, so far as anyone can tell,
 much among themselves outside the reading of the account.
 
@@ -289,7 +289,7 @@ the people in it, and that is an affront to their own ancestors which no Khazár
 convenience of ending a conversation. Pressed, one will decline to answer. None has ever said it did not
 happen.
 
-So the shape of what is known is set entirely by what the Sinalë have let slip and what the Khazári have
+So the shape of what is known is set entirely by what the Sinale have let slip and what the Khazari have
 declined to contradict—and everything else is open:
 
 - **Where it stands.** No comment, and no name on any map they have let out of their hands.
@@ -301,7 +301,7 @@ declined to contradict—and everything else is open:
 
 Three thousand years of that, and it has never once slipped.
 
-## What the Sinalë Say
+## What the Sinale Say
 
 Two things, and no more.
 
@@ -331,12 +331,12 @@ They do not say the renegade was **one of their own**.
 
 They never have. The word is left standing on its own with no people attached to it, in every telling, in
 every song, without exception—and this is not carelessness in a race with memory like theirs. Pressed
-on the point, a Sinalë does not deny it. They stop, and the stopping is unmistakable, and everyone who
+on the point, a Sinale does not deny it. They stop, and the stopping is unmistakable, and everyone who
 has ever pushed that far has come away certain of the answer and without having been given it.
 
 So nobody has been _told_. It has been **inferred**—by the handful who noticed the shape of the
 silence, and corroborated by the other silence beside it, which is that the Deep Folk have not spoken to
-the Sinalë about anything at all in three thousand years and will not say why.
+the Sinale about anything at all in three thousand years and will not say why.
 
 Everything else remains closed. The renegade's name, never given. What became of him, never described.
 What drove him, never offered, defended or disputed. Where the [[miscgear-secondvoice|Second Voice]] came
@@ -349,7 +349,7 @@ never explained that either.
 
 ## The Account
 
-A remnant survived and, being Khazári, wrote it down: precisely, without adornment, with every name lost
+A remnant survived and, being Khazari, wrote it down: precisely, without adornment, with every name lost
 and the exact order of what happened.
 
 **Every hold keeps that record.** Not as history, which is a human use for the past—it sits in the
@@ -363,8 +363,8 @@ entire, correct in every particular, dated close to six centuries before it stop
 
 The record exists to transmit a conclusion, and the conclusion is not revenge.
 
-The Khazári know the Grukar were compelled. It is written down. They know the tribes were broken to make
-the thing that killed Khazártúrn, and that no Grukar chose any part of it.
+The Khazari know the Grukar were compelled. It is written down. They know the tribes were broken to make
+the thing that killed Khazartúrn, and that no Grukar chose any part of it.
 
 They kill them on sight anyway—everywhere, immediately, without negotiation and without the enormous
 patience they extend to every other living thing in the world. Not because Grukar are wicked, but because
@@ -377,5 +377,5 @@ years against a species they know to be innocent, and never once revisited.
 
 ## See Also
 
-- [[miscgear-secondvoice|The Second Voice]] · [[lore-flkkhazar|Khazári]] · [[lore-flksinale|Sinalë]]
+- [[miscgear-secondvoice|The Second Voice]] · [[lore-flkkhazar|Khazari]] · [[lore-flksinale|Sinale]]
 - [[lore-grukarfolk|Grukar Folk]] · [[lore-grukaraelwyth|The Grukar of Aelwyth]]

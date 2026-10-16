@@ -1,6 +1,6 @@
 ---
 shortcode: prthnblthl
-name: {full: Párthun Pélthal, given: Párthun, clan: Pélthal, aliases: []}
+name: {full: Parthun Pelthal, given: Parthun, clan: Pelthal, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -417,45 +417,45 @@ sohl:
 
 # Appearance {#appearance}
 
-![[prthnblthl|Párthun Pélthal]]{float=top-left}
+![[prthnblthl|Parthun Pelthal]]{float=top-left}
 
-Párthun stands 5'9" tall with a medium build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a heart-shaped face, a small nose, a gentle jawline, dark brows. A distinguishing mark is a scar on the left foot.
+Parthun stands 5'9" tall with a medium build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a heart-shaped face, a small nose, a gentle jawline, dark brows. A distinguishing mark is a scar on the left foot.
 
 # Dossier {#dossier}
 
 **Birth in the Shadow of Law**
 
-Párthun was born in the city of [[place-valdun|Váldun]], a major administrative center in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], to parents of modest means. His father, Séthun, was a minor clerk in the Royal Treasury, while his mother, Élina, took in washing and mending to supplement the family income. From his earliest years, Párthun watched his father navigate the hierarchies and procedures of the kingdom's bureaucratic apparatus, and he learned that behind every law, behind every official edict, lay opportunities for those clever enough to exploit them. His father taught him that the power in any system rests not with those who make the laws but with those who interpret them and control their application.
+Parthun was born in the city of [[place-valdun|Valdun]], a major administrative center in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], to parents of modest means. His father, Sethun, was a minor clerk in the Royal Treasury, while his mother, Élina, took in washing and mending to supplement the family income. From his earliest years, Parthun watched his father navigate the hierarchies and procedures of the kingdom's bureaucratic apparatus, and he learned that behind every law, behind every official edict, lay opportunities for those clever enough to exploit them. His father taught him that the power in any system rests not with those who make the laws but with those who interpret them and control their application.
 
-His youth was marked by careful observation. While other children played games of military conquest or heroic adventure, Párthun studied the local administrative structures. He became friends with the clerks who worked in the assessor's office, learned the schedules of judges and magistrates, and discovered which officials could be made sympathetic to requests if approached correctly. By his late teens, he had begun to actively use this knowledge, helping neighbors navigate disputes over property boundaries, taxes, and permits—always with a subtle understanding that such favors would eventually be repaid.
+His youth was marked by careful observation. While other children played games of military conquest or heroic adventure, Parthun studied the local administrative structures. He became friends with the clerks who worked in the assessor's office, learned the schedules of judges and magistrates, and discovered which officials could be made sympathetic to requests if approached correctly. By his late teens, he had begun to actively use this knowledge, helping neighbors navigate disputes over property boundaries, taxes, and permits—always with a subtle understanding that such favors would eventually be repaid.
 
 **Rise Through Administration**
 
-At twenty years of age, Párthun secured a position in the City Administration of Váldun through a combination of legitimate qualification and the intervention of **Lord Lótren Íltherndë**, a city councilor who recognized in the young man a useful tool. For the past seventeen years, Párthun has risen steadily through the administrative ranks, always careful to maintain the appearance of loyalty while carefully building his own network of informants, allies, and people deeply indebted to him. He now holds the position of Assistant Commissioner of Records—a title that sounds minor but grants him access to nearly every official document in the city's archives and considerable influence over how those documents are filed, retrieved, and interpreted.
+At twenty years of age, Parthun secured a position in the City Administration of Valdun through a combination of legitimate qualification and the intervention of **Lord Lotren Ílthernde**, a city councilor who recognized in the young man a useful tool. For the past seventeen years, Parthun has risen steadily through the administrative ranks, always careful to maintain the appearance of loyalty while carefully building his own network of informants, allies, and people deeply indebted to him. He now holds the position of Assistant Commissioner of Records—a title that sounds minor but grants him access to nearly every official document in the city's archives and considerable influence over how those documents are filed, retrieved, and interpreted.
 
 **The Foot's Mark**
 
-The scar on his foot dates to a pivotal moment in his career. Five years ago, Párthun began to recognize that his patron, Lord Lótren, was becoming a liability. The councilor's appetites were growing more expensive, his demands more unreasonable, and his patience with Párthun's careful approach was wearing thin. Rather than continue as a subordinate in Lótren's shadow, Párthun resolved to eliminate the problem. What might have been a simple poisoning or arranged accident was interrupted by an unexpected guest—a rival administrator who discovered Párthun in the act of preparation. The two men fought in Lótren's private study, and though Párthun emerged victorious, he sustained a knife wound to his foot. More importantly, he learned a crucial lesson: sometimes the most careful plans are disrupted by chaos, and the wise operator must have contingencies for unexpected interference.
+The scar on his foot dates to a pivotal moment in his career. Five years ago, Parthun began to recognize that his patron, Lord Lotren, was becoming a liability. The councilor's appetites were growing more expensive, his demands more unreasonable, and his patience with Parthun's careful approach was wearing thin. Rather than continue as a subordinate in Lotren's shadow, Parthun resolved to eliminate the problem. What might have been a simple poisoning or arranged accident was interrupted by an unexpected guest—a rival administrator who discovered Parthun in the act of preparation. The two men fought in Lotren's private study, and though Parthun emerged victorious, he sustained a knife wound to his foot. More importantly, he learned a crucial lesson: sometimes the most careful plans are disrupted by chaos, and the wise operator must have contingencies for unexpected interference.
 
 **Current Position and Agenda**
 
-At present, Párthun is effectively the most powerful unelected official in Váldun's administration. He controls the flow of documents, manipulates the interpretation of regulations, and has built a network of subordinates who are loyal to him either through belief in his ability or through fear and obligation. He has become moderately wealthy through entirely legal means—though the methods by which he achieved that wealth would scandalize those unfamiliar with administrative practice. His ambition continues to grow. He speaks openly of seeking legitimate election to the city council, a position that would formalize the power he already wields in the shadows.
+At present, Parthun is effectively the most powerful unelected official in Valdun's administration. He controls the flow of documents, manipulates the interpretation of regulations, and has built a network of subordinates who are loyal to him either through belief in his ability or through fear and obligation. He has become moderately wealthy through entirely legal means—though the methods by which he achieved that wealth would scandalize those unfamiliar with administrative practice. His ambition continues to grow. He speaks openly of seeking legitimate election to the city council, a position that would formalize the power he already wields in the shadows.
 
 ## Psyche
 
 ### Personality
 
-Párthun is a student of human nature, endlessly fascinated by the mechanisms of motivation and control. In conversation, he is careful and measured, asking probing questions and revealing little about himself unless there is clear advantage to doing so. He maintains the public persona of a dedicated servant of the realm, a man committed to the proper functioning of government and the fair application of law. Those who work closely with him, however, recognize his capacity for ruthlessness and his willingness to sacrifice allies if they become inconvenient.
+Parthun is a student of human nature, endlessly fascinated by the mechanisms of motivation and control. In conversation, he is careful and measured, asking probing questions and revealing little about himself unless there is clear advantage to doing so. He maintains the public persona of a dedicated servant of the realm, a man committed to the proper functioning of government and the fair application of law. Those who work closely with him, however, recognize his capacity for ruthlessness and his willingness to sacrifice allies if they become inconvenient.
 
 He is not cruel for cruelty's sake, nor does he act out of simple greed or ambition. Rather, he is a pragmatist who has developed a personal philosophy in which morality is subservient to utility. If a rule serves the functioning of society, he will uphold it scrupulously; if a rule hinders the goals he has deemed important, he will work to circumvent it. This makes him both reliable in certain contexts and deeply untrustworthy in others. His rare moments of warmth emerge when he is discussing the elegant logic of administrative systems or when he is sharing quiet hours with people he considers to have truly understood him—such moments are rare indeed.
 
 ### Motivation
 
-Párthun seeks to consolidate his power and expand his influence to the highest levels of government. He believes that most people are fundamentally incompetent or corrupt, and that his role is to be the hidden architect directing the machinery of government in ways that prevent catastrophic failure. While he would claim that his ultimate goal is the good of the kingdom, his actual priority is the advancement of his own position and the security of his power base. He is increasingly fascinated by the possibility of influence at the regional level, and has begun to consider whether a position as aide to a high-ranking noble might not afford him even greater leverage than a seat on the city council.
+Parthun seeks to consolidate his power and expand his influence to the highest levels of government. He believes that most people are fundamentally incompetent or corrupt, and that his role is to be the hidden architect directing the machinery of government in ways that prevent catastrophic failure. While he would claim that his ultimate goal is the good of the kingdom, his actual priority is the advancement of his own position and the security of his power base. He is increasingly fascinated by the possibility of influence at the regional level, and has begun to consider whether a position as aide to a high-ranking noble might not afford him even greater leverage than a seat on the city council.
 
 ### Strengths
 
-- **Master of Administrative Systems**: Párthun possesses an encyclopedic knowledge of regulations, precedents, and procedures. He can cite obscure clauses, discover loopholes, and manipulate bureaucratic structures in ways that accomplish his objectives while remaining technically legal.
+- **Master of Administrative Systems**: Parthun possesses an encyclopedic knowledge of regulations, precedents, and procedures. He can cite obscure clauses, discover loopholes, and manipulate bureaucratic structures in ways that accomplish his objectives while remaining technically legal.
 
 - **Strategic Patience**: He is willing to invest years of preparation for advantage that may not be realized for a decade. This long-term perspective allows him to position himself far ahead of more impulsive competitors.
 
@@ -471,7 +471,7 @@ Párthun seeks to consolidate his power and expand his influence to the highest 
 
 - **Reliance on Systems**: Outside of formal bureaucratic structures, his advantages largely disappear. He is at a loss in situations where authority derives from force, lineage, or personal charisma rather than administrative position.
 
-- **Inability to Inspire Loyalty**: Those who work with Párthun serve him out of fear, obligation, or pragmatic self-interest rather than loyalty or affection. This makes his network fragile if circumstances change.
+- **Inability to Inspire Loyalty**: Those who work with Parthun serve him out of fear, obligation, or pragmatic self-interest rather than loyalty or affection. This makes his network fragile if circumstances change.
 
 - **Visible Advancement Creates Enemies**: As he rises in power, he necessarily displaces others and creates rivals. These displaced people understand how the bureaucratic system works and can potentially use it against him.
 
@@ -481,26 +481,26 @@ Párthun seeks to consolidate his power and expand his influence to the highest 
 
 ### Patrons
 
-Lord Lótren Íltherndë
-: Despite the complications between them, Lótren remains technically Párthun's patron and the relationship continues, though now on more equal terms. Lótren values Párthun's continued assistance and has become dependent on his problem-solving abilities, even as he suspects the young man may be manipulating him.
+Lord Lotren Ílthernde
+: Despite the complications between them, Lotren remains technically Parthun's patron and the relationship continues, though now on more equal terms. Lotren values Parthun's continued assistance and has become dependent on his problem-solving abilities, even as he suspects the young man may be manipulating him.
 
 The Lord Chancellor of Élavendre
-: At the highest level of government, Párthun has begun to attract the attention of the realm's ultimate administrative authority. Whether this represents patronage or merely the normal monitoring of an unusually capable official is unclear.
+: At the highest level of government, Parthun has begun to attract the attention of the realm's ultimate administrative authority. Whether this represents patronage or merely the normal monitoring of an unusually capable official is unclear.
 
 ### Enemies
 
-Magistrate Ílsevilë Tírvalndë
-: A judge who has clashed with Párthun on numerous occasions over the interpretation of law and regulation. She views him as a dangerous influence on the administrative system and would gladly see him removed from his position.
+Magistrate Ílsevile Tírvalnde
+: A judge who has clashed with Parthun on numerous occasions over the interpretation of law and regulation. She views him as a dangerous influence on the administrative system and would gladly see him removed from his position.
 
 The Office of Civic Integrity
-: An official body tasked with investigating corruption in government. Párthun has managed to stay ahead of their inquiries so far, but the office has begun to focus attention on his affairs with increasing intensity.
+: An official body tasked with investigating corruption in government. Parthun has managed to stay ahead of their inquiries so far, but the office has begun to focus attention on his affairs with increasing intensity.
 
 Displaced Administrators
-: Those who have been forced out of positions by Párthun's machinations nurse considerable resentment. Some have enough knowledge of his methods to pose threats.
+: Those who have been forced out of positions by Parthun's machinations nurse considerable resentment. Some have enough knowledge of his methods to pose threats.
 
 ### Affiliations
 
-The City Administration of Váldun
+The City Administration of Valdun
 : His official position and the primary source of his power, though his actual loyalty is to himself rather than the institution.
 
 The Bureaucrats' Guilds
@@ -508,12 +508,12 @@ The Bureaucrats' Guilds
 
 ## Plot Hooks
 
-1. **The Auditor from the Capital**: A representative from the Lord Chancellor's office arrives in Váldun announcing a comprehensive audit of all municipal administrative functions. The auditor, a sharp-eyed woman named **Thecia Rothel**, seems to take unusual interest in the Records department and Párthun's particular domain. He becomes increasingly aware that she is asking questions that are far more specific than a routine audit would warrant—she appears to be investigating him personally. Worse, she has begun to examine transactions that Párthun was quite certain he had successfully obscured. Now he must determine whether she is acting on actual evidence, whether her investigation is a political maneuver by his enemies, or whether she might be someone he can turn to his advantage before she uncovers something that could destroy him.
+1. **The Auditor from the Capital**: A representative from the Lord Chancellor's office arrives in Valdun announcing a comprehensive audit of all municipal administrative functions. The auditor, a sharp-eyed woman named **Thecia Rothel**, seems to take unusual interest in the Records department and Parthun's particular domain. He becomes increasingly aware that she is asking questions that are far more specific than a routine audit would warrant—she appears to be investigating him personally. Worse, she has begun to examine transactions that Parthun was quite certain he had successfully obscured. Now he must determine whether she is acting on actual evidence, whether her investigation is a political maneuver by his enemies, or whether she might be someone he can turn to his advantage before she uncovers something that could destroy him.
 
-2. **The Blackmail That Cannot Be Refused**: A figure approaches Párthun with documents that detail some of his more legally questionable activities over the years. The person claims not to be interested in exposing him; instead, they want him to use his administrative influence to accomplish something specific: the release of a person currently imprisoned for a serious crime, the alteration of property records to favor a particular buyer, or perhaps the blocking of an investigation into one of their business ventures. The blackmailer has taken precautions so that if anything happens to them, the documentation will be released. Párthun must decide whether to comply, to attempt to discredit or eliminate the threat, or to somehow turn the situation to his own advantage—all while being aware that blackmailers rarely accept a single payment and tend to return for more.
+2. **The Blackmail That Cannot Be Refused**: A figure approaches Parthun with documents that detail some of his more legally questionable activities over the years. The person claims not to be interested in exposing him; instead, they want him to use his administrative influence to accomplish something specific: the release of a person currently imprisoned for a serious crime, the alteration of property records to favor a particular buyer, or perhaps the blocking of an investigation into one of their business ventures. The blackmailer has taken precautions so that if anything happens to them, the documentation will be released. Parthun must decide whether to comply, to attempt to discredit or eliminate the threat, or to somehow turn the situation to his own advantage—all while being aware that blackmailers rarely accept a single payment and tend to return for more.
 
-3. **Conspiracy Among the Bureaucrats**: Párthun discovers evidence that suggests a faction within the city government is planning to use a legal mechanism (possibly an inspection, regulation change, or formal complaint) to discredit and remove him from his position. The conspiracy involves several people he has worked with for years, which suggests either that his network is less reliable than he believed or that someone is impersonating his associates to frame them. He must identify the actual conspirators while maintaining his own cover and position, all while navigating the legal system he knows so well being used against him in unexpected ways.
+3. **Conspiracy Among the Bureaucrats**: Parthun discovers evidence that suggests a faction within the city government is planning to use a legal mechanism (possibly an inspection, regulation change, or formal complaint) to discredit and remove him from his position. The conspiracy involves several people he has worked with for years, which suggests either that his network is less reliable than he believed or that someone is impersonating his associates to frame them. He must identify the actual conspirators while maintaining his own cover and position, all while navigating the legal system he knows so well being used against him in unexpected ways.
 
-4. **The Inheritance Dispute That Conceals Darker Secrets**: A prominent merchant family approaches Párthun requesting his assistance in a complex inheritance dispute. The ostensible issue is the interpretation of a will and the application of property law, matters well within his expertise. However, as Párthun investigates, he begins to uncover evidence that suggests the dispute may be a cover for something far darker—potentially murder, magical manipulation, or a crime significant enough that powerful people are willing to spend considerable resources to keep it hidden. Helping either faction could place him in danger, but refusing to assist may make enemies of people capable of causing him serious harm.
+4. **The Inheritance Dispute That Conceals Darker Secrets**: A prominent merchant family approaches Parthun requesting his assistance in a complex inheritance dispute. The ostensible issue is the interpretation of a will and the application of property law, matters well within his expertise. However, as Parthun investigates, he begins to uncover evidence that suggests the dispute may be a cover for something far darker—potentially murder, magical manipulation, or a crime significant enough that powerful people are willing to spend considerable resources to keep it hidden. Helping either faction could place him in danger, but refusing to assist may make enemies of people capable of causing him serious harm.
 
-5. **The Secret Archive Beneath the Archives**: While conducting maintenance or repairs in the deep sections of the city's records archive, workers discover evidence of a hidden chamber sealed for decades. When it is opened, it is found to contain an archive of documents that predate the current administration—records from a previous regime that were supposed to have been destroyed. The documents contain information that could expose historical crimes, political conspiracies, or powerful secrets that certain people would go to great lengths to keep hidden. Párthun becomes aware that he is now custodian of information that multiple factions desperately want, and he must decide whether to suppress it, leverage it for power, or find some way to use it as insurance against future threats.
+5. **The Secret Archive Beneath the Archives**: While conducting maintenance or repairs in the deep sections of the city's records archive, workers discover evidence of a hidden chamber sealed for decades. When it is opened, it is found to contain an archive of documents that predate the current administration—records from a previous regime that were supposed to have been destroyed. The documents contain information that could expose historical crimes, political conspiracies, or powerful secrets that certain people would go to great lengths to keep hidden. Parthun becomes aware that he is now custodian of information that multiple factions desperately want, and he must decide whether to suppress it, leverage it for power, or find some way to use it as insurance against future threats.

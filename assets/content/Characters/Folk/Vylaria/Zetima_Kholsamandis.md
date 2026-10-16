@@ -1,9 +1,9 @@
 ---
 shortcode: zetimakholsa
-name: {full: Zêtimâ Khôlsâmândis, aliases: [Priestess Zêtimâ]}
+name: {full: Zetima Kolsamis, aliases: [Priestess Zetima]}
 type: being
 subType: npc
-description: The keeper of the temple of Árdavon, who views the work of Dómrithâs Vîshârdâs as corruption.
+description: The keeper of the temple of Árdavon, who views the work of Dómrithas Vishardas as corruption.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zêtimâ Khôlsâmândis is a 31-year-old woman who stands 5'8" tall with a light build. She has light skin, sun-kissed complexion, brown hair, and grey eyes.
+Zetima Kolsamis is a 31-year-old woman who stands 5'8" tall with a light build. She has light skin, sun-kissed complexion, brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Zêtimâ Khôlsâmândis is a priestess and the keeper of the temple of Árdavon. Zêtimâ views the work of [[being-dmrthsvshrds|Dómrithâs Vîshârdâs]] as corruption of the natural order and has declared his pursuit of immortality heretical. She works to discredit him and to protect innocents from his experiments.
+Zetima Kolsamis is a priestess and the keeper of the temple of Árdavon. Zetima views the work of [[being-dmrthsvshrds|Dómrithas Vishardas]] as corruption of the natural order and has declared his pursuit of immortality heretical. She works to discredit him and to protect innocents from his experiments.

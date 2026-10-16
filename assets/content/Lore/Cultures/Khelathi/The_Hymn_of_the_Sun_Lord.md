@@ -1,9 +1,9 @@
 ---
 shortcode: zamletuqaa
-name: {full: The Hymn of the Sun-Lord, aliases: [Zamlet elu Uqa'â]}
+name: {full: The Hymn of the Sun-Lord, aliases: [Zamlet elu Uqa'a]}
 type: lore
 subType: literature
-description: "The Khelâthi dawn hymn of the Coming-Forth as it is cut on the wall of the tomb of Khelansi under the Zelnut: one day of the sun from the eastern road to the night road and back, with the god's rest kept at every naming and a scribe's graffito beneath it."
+description: "The Khelathi dawn hymn of the Coming-Forth as it is cut on the wall of the tomb of Khelansi under the Zelnut: one day of the sun from the eastern road to the night road and back, with the god's rest kept at every naming and a scribe's graffito beneath it."
 tags: [draft, khelathu]
 data:
   packFolder: settinglore
@@ -29,7 +29,7 @@ data:
 # terran_analog: "The Great Hymn to the Aten and the hymns of the solar cycle, for one day of the sun told hour by hour and the catalogue of everything it lights; the Amduat's hours of the night, for the sun's passage under the earth counted out; tomb-wall copies of temple texts with the owner's name set into them; and the graffiti later scribes left in older tombs. Departs: no solar boat, the sun walks the night road on foot, the serpent is never named, and the god's name is sung with its rest held."
 ---
 
-The priesthood of [[lore-uqaadty|Uqa'â]] sings the **Hymn of the Sun-Lord**, _Zamlet elu Uqa'â_, at the eastern face of the Great Temple on [[place-yathtelgu|Yath-Telgu]], the island at the heart of [[place-galezkara|Galezkara]]. It is sung in the dark before the Coming-Forth, when the sun of the longest day comes up [[place-waluqaa|the Sun's Road]] straight at the temple door. It is a _zamlet_, a hymn of the [[lore-khelathiclt|Khelâthi]] temple kind: chains of the god's names, lines sung in pairs, a long count of what the god lights, and a refrain at each turn of his circuit, with the rubrics the singers keep. The god is one of the Twelve, so his name is sung in two breaths with a rest held between them, and the first rubric says how the rest is kept and what it is not.
+The priesthood of [[lore-uqaadty|Uqa'a]] sings the **Hymn of the Sun-Lord**, _Zamlet elu Uqa'a_, at the eastern face of the Great Temple on [[place-yathtelgu|Yath-Telgu]], the island at the heart of [[place-galezkara|Galezkara]]. It is sung in the dark before the Coming-Forth, when the sun of the longest day comes up [[place-waluqaa|the Sun's Road]] straight at the temple door. It is a _zamlet_, a hymn of the [[lore-khelathiclt|Khelathi]] temple kind: chains of the god's names, lines sung in pairs, a long count of what the god lights, and a refrain at each turn of his circuit, with the rubrics the singers keep. The god is one of the Twelve, so his name is sung in two breaths with a rest held between them, and the first rubric says how the rest is kept and what it is not.
 
 The hymn belongs to the age of [[lore-akhsunroad|the Sun's Road]]. The king in it is the one who laid the road, Anlagh'el'Qar I of the house of Zu'Amqeletu ([[lore-crossmound|the Crossing to the Mound]]). He stretched it on the solstice line from the edge of the living city, across the water and through the temple, to the desert shelf across the river, where [[place-zugezer|Zu-Gezer]] is only opening as the city of the dead and no king lies yet, and he proclaimed that nothing may stand in the sightline between the temple and either horizon. The sun of the hymn goes down into the ground at the western end of that road and walks the night on his feet to the fight. The hymn sings the god's names and leaves the other's out.
 
@@ -37,14 +37,14 @@ The copy given here is cut in the sacred hand on the wall of the tomb of **Khela
 
 : The Dedication {#dedication}
 
-> Cut for the Zemelu Khelansi Zu'Amqeletu, Overseer of the Granaries of the God, Keeper of the Seal on the Doors of the God, Counter of the Measure at the Height, Reader of the Tally at the Coming-Forth, kinsman of the Gar-Aû Anlagh'el'Qar: the hymn of the eastern face, whole, as the temple sings it, so that it is sung over him at every dawn while the wall stands and the name on it is said.
+> Cut for the Zemelu Khelansi Zu'Amqeletu, Overseer of the Granaries of the God, Keeper of the Seal on the Doors of the God, Counter of the Measure at the Height, Reader of the Tally at the Coming-Forth, kinsman of the Gar-Au Anlagh'el'Qar: the hymn of the eastern face, whole, as the temple sings it, so that it is sung over him at every dawn while the wall stands and the name on it is said.
 
-: Zamlet elu Uqa'â {#hymn}
+: Zamlet elu Uqa'a {#hymn}
 
 ```poetry {form=zamlet lang=en}
 _\[Sung at the eastern face of the Great Temple before the sun is up the road. The fire-tender keeps the count with a rod on the altar step. The name of the god is sung in two breaths, and between the breaths the singers stop. The rest is held for three strokes of the rod, and nothing is sung in it. This is the god's rest, and it is kept at every naming, at the first and at the last, and at the names of the others of the Twelve where the hymn sings them. It is not the other silence. The other silence comes on the road at night, and it is a name not given.\]_
 
-Uqa'â.
+Uqa'a.
 Fire on the first ground.
 Fire over the mound when the mound was the whole of the world,
 and the water had no bank, and nothing stood in it to be counted.
@@ -58,8 +58,8 @@ and at the end of it the sky is the color of a potter's clay before the kiln.
 Nothing stands in the line.
 Come up the road.
 
-Uqa'â,
-who was in the first Gar-Aû when he stood upon the mound,
+Uqa'a,
+who was in the first Gar-Au when he stood upon the mound,
 who was in Anlagh'el'Qar when he walked the road out,
 who was in the cord he stretched from the dawn edge to the dusk edge,
 who was in the two stakes, the one for the longest day and the one for the shortest,
@@ -84,7 +84,7 @@ Who burns the lie out of the mouth before the mouth has finished it.
 Who dries the brick, who dries the ink,
 who dries the dead of the poor in the pit-graves for nothing, better than natron.
 Who makes the entry readable.
-Who is in the Gar-Aû.
+Who is in the Gar-Au.
 Who is on the altar at the height.
 Who goes out of the western face.
 Who goes down on foot.
@@ -92,7 +92,7 @@ Who goes under the floor.
 Who is struck at and not swallowed.
 Who comes up the road.
 Who is called by all of these, and is none of them, and is the fire, and is
-Uqa'â.
+Uqa'a.
 
 You come up.
 The first of you is on the electrum of the obelisk tips,
@@ -147,14 +147,14 @@ and the hill people of the east, and the sea people of the north who do not know
 in their own countries, in the same hour, with the same fire, as if they were ours.
 You light the bread set out on the tables in the kin-tombs among the streets,
 set there before you came, so that it is there when you come.
-You light the Gar-Aû at the head of the road with the first grain in his two hands,
+You light the Gar-Au at the head of the road with the first grain in his two hands,
 in whom your fire is, who waits for you as the rest of us wait.
 You light all of it in one breath, as the road was drawn.
 
     The road turns here, and a name would stand here.
     It is not written at the head of the chronicle. It is not sung at the turn of the road.
     We sing yours, with the rest in it.
-    Uqa'â.
+    Uqa'a.
 
 You are at the height.
 You stand over the court and there is nothing in it with a shadow:
@@ -164,7 +164,7 @@ Every door in the city says the denials now, with you overhead.
 "I have left open no entry I could close."
 "I have taken no stranger's word without a witness."
 "I have not let the dead go hungry at the shrine."
-Qe'âret keeps the scale. You keep the light the scale is read by.
+Qe'aret keeps the scale. You keep the light the scale is read by.
 What the scribe wrote, you light.
 What the scribe did not write, the gods keep, and we do not ask you for it on the eastern face.
 
@@ -181,28 +181,28 @@ Your names at the height, as the court sings them with no shadow in it:
 Who stands over the measure.
 Who stands over the witness.
 Who stands over the scale, and does not touch it.
-Who stands over the Gar-Aû, who is yours.
+Who stands over the Gar-Au, who is yours.
 Who stands over the herders and the hill people and the sea people, and over us, the same.
 Who stands over the river, and the river goes brown under you and does not stop.
 Who stands over the one not written, who is in the deep at this hour and cannot look up.
 Who is at the height, and does not stay there, and is
-Uqa'â.
+Uqa'a.
 
 […]
 
     The road turns here, and a name would stand here.
     It is not written at the head of the chronicle. It is not sung at the turn of the road.
     We sing yours, with the rest in it.
-    Uqa'â.
+    Uqa'a.
 
 You go down.
 The shadows come back into the court from the west side first.
-The Thâz'Lekhau goes in to the small dark room and shuts the door on your image.
+The Thaz'Lekhau goes in to the small dark room and shuts the door on your image.
 Sun-lord, hidden in the sanctuary.
 Hidden there, you are on the road.
 You go out of the western face, over the water, up onto the shelf,
 down the road on the shelf, which is new, and nobody lies beside it yet.
-The first Way is cut across it near the water, and off the Way the masons are cutting the Gar-Aû's house,
+The first Way is cut across it near the water, and off the Way the masons are cutting the Gar-Au's house,
 and he is alive, and his house waits for him beside the road and not across it.
 You go to the end of the road, and into the ground at the end of it.
 On the shortest day you go down the middle of it.
@@ -223,7 +223,7 @@ which is what you fight with.
 They stand while you pass and they sit when you have passed,
 and the bread on their tables is counted to them in the dark.
 
-Reth'Sa'âr walks with you to the first gate and no farther.
+Reth'Sa'ar walks with you to the first gate and no farther.
 He has the names of the gates on his tablet, and he gives them to you one by one,
 and you say them, and the gates stand open, and he goes back to his library.
 The dead who went down this year are on the road ahead of you with their tablets under their arms.
@@ -249,10 +249,10 @@ Across the road, in the deepest of it, the other lies.
     The road turns here, and a name would stand here.
     It is not written at the head of the chronicle. It is not sung at the turn of the road.
     We sing yours, with the rest in it.
-    Uqa'â.
+    Uqa'a.
 
 You do not go round. There is no round.
-You go at it on your feet, with the fire in your two hands as the Gar-Aû carries the grain.
+You go at it on your feet, with the fire in your two hands as the Gar-Au carries the grain.
 It opens. It is longer than the road. It is darker than the road.
 It has you in its mouth to the shoulders,
 and the fire is in its mouth with you, and it cannot close on the fire.
@@ -284,7 +284,7 @@ He is at the dawn edge.
 The sky at the end of the road is the color of a potter's clay before the kiln.
 The fire-tender puts out his rod. The first of him is on the electrum.
 He was in the ground, and he is on the road. Nothing stands in the line.
-Uqa'â.
+Uqa'a.
 Fire on the first ground.
 Fire over the mound when the mound was the whole of the world.
 Lord of the dry brick, lord of the dry ink.
@@ -296,15 +296,15 @@ _\[At the last naming the rest is held as at the first. The singers go in to the
 
 : The Graffito {#graffito}
 
-> Year 9 of Gar-Aû Meqes II, the second month of Shelu. **Qedût ez [[place-garlegulu|Gar-Legulu]]**, scribe of the tally for the granary of the god, came into this storeroom to take the brewer's tally and found this wall. It is in the sacred hand, which I have, and I read what is on it aloud from the beginning to the end. Where the door is cut through it I read on the far side of the door. The brewer's father cut the door; the brewer says so. I said the name of Khelansi, Overseer of the Granaries of the God, so that it is said. Nobody in this house knew it. I asked them. The brewer took two qelu for the lamp. I have written my name under Khelansi's, and my town. Qedût ez Gar-Legulu. Gar-Legulu.
+> Year 9 of Gar-Au Meqes II, the second month of Shelu. **Qedut ez [[place-garlegulu|Gar-Legulu]]**, scribe of the tally for the granary of the god, came into this storeroom to take the brewer's tally and found this wall. It is in the sacred hand, which I have, and I read what is on it aloud from the beginning to the end. Where the door is cut through it I read on the far side of the door. The brewer's father cut the door; the brewer says so. I said the name of Khelansi, Overseer of the Granaries of the God, so that it is said. Nobody in this house knew it. I asked them. The brewer took two qelu for the lamp. I have written my name under Khelansi's, and my town. Qedut ez Gar-Legulu. Gar-Legulu.
 
 ## See Also
 
-- [[lore-uqaadty|Uqa'â]]—the god of the hymn, and his night road
-- [[affiliation-uqaa|Faith of Uqa'â]]—the priesthood that sings it, and the solstice rites it belongs to
-- [[place-waluqaa|Wal-Uqa'â]]—the Sun's Road, laid on the solstice line
+- [[lore-uqaadty|Uqa'a]]—the god of the hymn, and his night road
+- [[affiliation-uqaa|Faith of Uqa'a]]—the priesthood that sings it, and the solstice rites it belongs to
+- [[place-waluqaa|Wal-Uqa'a]]—the Sun's Road, laid on the solstice line
 - [[lore-crossmound|The Crossing to the Mound]]—the king who laid the road, and the law of the sightline
 - [[place-zelnut|The Zelnut]]—the quarter over the tomb that carries the copy
-- [[affiliation-qearet|Faith of Qe'âret]]—the Halzunet, the noon denials every door says at the height
+- [[affiliation-qearet|Faith of Qe'aret]]—the Halzunet, the noon denials every door says at the height
 - [[place-zulaten|Zulaten]]—the night road the dead walk without the sun
 - [[lore-firstoccasion|The First Occasion]]—the mound, the water without a bank, and the one not written at the head of the chronicle

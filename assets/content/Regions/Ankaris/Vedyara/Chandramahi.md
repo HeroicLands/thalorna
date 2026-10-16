@@ -1,14 +1,14 @@
 ---
 shortcode: chandrmahi
-name: {full: The Chandramahī, aliases: []}
+name: {full: The Chandramahi, aliases: []}
 type: place
 subType: feature
-description: "The westernmost of the four great rivers—from the ice under Sūryashikhara through the gem-road valleys to the delta and the city-state that lives off it."
+description: "The westernmost of the four great rivers—from the ice under Suryashikhara through the gem-road valleys to the delta and the city-state that lives off it."
 tags: [river, trading, inland]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
-The **Chandramahī** rises at [[place-chandrprbh|Chandraprabhava]], under [[place-suryashkhr|Sūryashikhara]], and runs some twelve hundred miles south and west to a delta on the southern sea. It is the shortest of the four great rivers and the richest. The country it crosses is the gem country, and the city at its mouth has spent four centuries making sure nothing else is.
+The **Chandramahi** rises at [[place-chandrprbh|Chandraprabhava]], under [[place-suryashkhr|Suryashikhara]], and runs some twelve hundred miles south and west to a delta on the southern sea. It is the shortest of the four great rivers and the richest. The country it crosses is the gem country, and the city at its mouth has spent four centuries making sure nothing else is.
 
 Boats work the river from the delta up to the last of the terraces below the highland kingdom. Above that it is a mountain water and carries nothing but log-rafts.
 
@@ -20,10 +20,10 @@ Its lower valley carries the gem-road, the traffic of worked stone, gold and fin
 
 ## Circuits
 
-The river is one of the four pilgrim-circuits by which the janapadas are seated at the great assembly. A janapada of the Chandramahī circuit speaks at the gathering through the circuit's speaker, unless it is one of the forty that hold a seat in their own right. Which circuit a border janapada belongs to is a question that has gone to litigation, in one case for two hundred and ten years.
+The river is one of the four pilgrim-circuits by which the janapadas are seated at the great assembly. A janapoda of the Chandramahi circuit speaks at the gathering through the circuit's speaker, unless it is one of the forty that hold a seat in their own right. Which circuit a border janapoda belongs to is a question that has gone to litigation, in one case for two hundred and ten years.
 
 ## See Also
 
 - [[place-chandrprbh|Chandraprabhava]] · [[place-sthrnwall|The Southern Wall]] · [[place-vedyarargn|Vedyara Region]]
-- [[place-chandrapur2|Chandrapur]] · [[place-chandrmukha|Chandramukha]]
-- [[place-sarvadarivr|The Sarvada]] · [[place-mahanadi|The Mahānadī]] · [[place-bharavarivr|The Bhārava]]
+- [[place-chandrapur2|Chendrapur]] · [[place-chandrmukha|Chandramukha]]
+- [[place-sarvadarivr|The Sarveda]] · [[place-mahanadi|The Mahanodi]] · [[place-bharavarivr|The Bharava]]

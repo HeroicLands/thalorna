@@ -1,9 +1,9 @@
 ---
 shortcode: aurentheorth
-name: {full: Aurènthe Orthemandìs, aliases: [Lord Aurènthe Orthemandìs, Lord Aurènthe]}
+name: {full: Aurente Ortemandis, aliases: [Lord Aurente Ortemandis, Lord Aurente]}
 type: being
 subType: npc
-description: Head of one of Lizèla's older noble families and a staunch traditionalist, named in Ârnela Kórisvar.
+description: Head of one of Lizela's older noble families and a staunch traditionalist, named in Arnela Kórisvar.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Aurènthe Orthemandìs is a 37-year-old man who stands 5'7" tall with a light build. He has olive skin, smooth complexion, red hair, and grey eyes.
+Aurente Ortemandis is a 37-year-old man who stands 5'7" tall with a light build. He has olive skin, smooth complexion, red hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Aurènthe Orthemandìs is the head of one of Lizèla's older noble families and a staunch traditionalist. He views the academy of [[being-arnelkrsvr|Ârnela Kórisvar]] as an insult to the proper order and has blocked several of her proposals on the charter council. The rivalry is conducted with impeccable Provenzian courtesy.
+Aurente Ortemandis is the head of one of Lizela's older noble families and a staunch traditionalist. He views the academy of [[being-arnelkrsvr|Arnela Kórisvar]] as an insult to the proper order and has blocked several of her proposals on the charter council. The rivalry is conducted with impeccable Provenzian courtesy.

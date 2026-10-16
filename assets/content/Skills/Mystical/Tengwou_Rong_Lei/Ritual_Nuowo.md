@@ -1,6 +1,6 @@
 ---
 shortcode: nuowo
-name: {full: "Ritual: Nuòwō", aliases: [Nuòwō, The Minister of Dissolution]}
+name: {full: "Ritual: Nuowo", aliases: [Nuowo, The Minister of Dissolution]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-nuowo|Nuòwō]]
+See [[affiliation-nuowo|Nuowo]]

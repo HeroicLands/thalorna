@@ -1,11 +1,11 @@
 ---
 shortcode: dalveshikosb
 name:
-  full: Dâlveshikos Brirorash
-  aliases: [Commander Dâlveshikos Brirorash, Lord Commander Dâlveshikos Brirorash]
+  full: Dalveshikos Brirorash
+  aliases: [Commander Dalveshikos Brirorash, Lord Commander Dalveshikos Brirorash]
 type: being
 subType: npc
-description: A lord commander and military leader who has commissioned numerous military maps and occasionally funds expeditions, named in Bazebos Porfyrákit.
+description: A lord commander and military leader who has commissioned numerous military maps and occasionally funds expeditions, named in Bazebos Porfirakit.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Dâlveshikos Brirorash is a 57-year-old man who stands 5'9" tall with a massive build. He has tanned skin, sun-kissed complexion, dark brown hair, and hazel eyes.
+Dalveshikos Brirorash is a 57-year-old man who stands 5'9" tall with a massive build. He has tanned skin, sun-kissed complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Dâlveshikos Brirorash is a lord commander and military leader who has commissioned numerous military maps and occasionally funds expeditions. He is a patron of [[being-klnksprfrkt|Bazebos Porfyrákit]], who gathers information on potential threats and expansion opportunities.
+Dalveshikos Brirorash is a lord commander and military leader who has commissioned numerous military maps and occasionally funds expeditions. He is a patron of [[being-klnksprfrkt|Bazebos Porfirakit]], who gathers information on potential threats and expansion opportunities.

@@ -3,7 +3,7 @@ shortcode: eleventhgran
 name: {full: The Eleventh Granary, aliases: []}
 type: place
 subType: site
-description: "The sealed granary of Anlagh-Zetûn where the dead of the granary rising lie without rites since 268 AF: a withering, contained blood-field of moderate thinness that is worse in lean years, and the reason a festival throws bread over a wall."
+description: "The sealed granary of Anlagh-Zetun where the dead of the granary rising lie without rites since 268 AF: a withering, contained blood-field of moderate thinness that is worse in lean years, and the reason a festival throws bread over a wall."
 tags: [granary, haunted, sacred]
 data:
   banner: khelathubnr
@@ -16,7 +16,7 @@ data:
 
 "Ten you open and one you do not," a granary steward tells a new tally-clerk as they walk the row of domes. "Count them all the same, and when the sum will not close, do not look for the error in the eleventh."
 
-The **Eleventh Granary** stands at the end of the granary row of [[place-anlaghzetun|Anlagh-Zetûn]], a dome like the others, with its door bricked and plastered over. It is a _zelqezat_ (a blood-field, "the place of a battle left unread"), the second in Khelâthi memory, and it is a withering one: the grain around it spoils.
+The **Eleventh Granary** stands at the end of the granary row of [[place-anlaghzetun|Anlagh-Zetun]], a dome like the others, with its door bricked and plastered over. It is a _zelqezat_ (a blood-field, "the place of a battle left unread"), the second in Khelathi memory, and it is a withering one: the grain around it spoils.
 
 ## How It Was Made
 
@@ -50,5 +50,5 @@ A Reading held for the unnamed at the edge quiets the field for the night it is 
 ## See Also
 
 - [[lore-sealedgran|The Battle of the Sealed Granaries]]—the battle that made it
-- [[place-anlaghzetun|Anlagh-Zetûn]] · [[affiliation-selatnlghztn|The Selat of Anlagh-Zetûn]]—the city and the selat that keep it shut
+- [[place-anlaghzetun|Anlagh-Zetun]] · [[affiliation-selatnlghztn|The Selat of Anlagh-Zetun]]—the city and the selat that keep it shut
 - [[lore-bloodfield|Blood-fields]]—what a _zelqezat_ is

@@ -1,9 +1,9 @@
 ---
 shortcode: ilthyra
-name: {full: Ilthýra, aliases: []}
+name: {full: Ilthira, aliases: []}
 type: being
 subType: npc
-description: A woman known for her excellence in textile dying and pattern design, mother of Glirvrinna Snarvumakh.
+description: A woman known for her excellence in textile dying and pattern design, mother of Glirvrinna Snarvumak.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ilthýra is a 54-year-old woman who stands 5'9" tall with a heavy build. She has medium skin, ruddy complexion, brown hair, and blue eyes.
+Ilthira is a 54-year-old woman who stands 5'9" tall with a heavy build. She has medium skin, ruddy complexion, brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Ilthýra is a woman known for her excellence in textile dying and pattern design, mother of [[being-glrvrnstrmrt|Glirvrinna Snarvumakh]]. She is artistic, and made patterns that made functional items beautiful.
+Ilthira is a woman known for her excellence in textile dying and pattern design, mother of [[being-glrvrnstrmrt|Glirvrinna Snarvumak]]. She is artistic, and made patterns that made functional items beautiful.

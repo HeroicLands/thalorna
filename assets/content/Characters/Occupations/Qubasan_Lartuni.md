@@ -1,6 +1,6 @@
 ---
 shortcode: qbsnlrtn
-name: {full: Qubâsan Lartûnî, aliases: []}
+name: {full: Kubasan Lartuni, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Qubâsan Lartûnî is a 30-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His bright brown eyes sit beneath straight brows, lending him a lively gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His brown hair is tied in a low tail.
+Kubasan Lartuni is a 30-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His bright brown eyes sit beneath straight brows, lending him a lively gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Qubâsan Lartûnî came into the world of the scribe through a combination of circumstance and aptitude.
+Born in the Taruzel region to a freeman family of Taruzelian heritage, Kubasan Lartuni came into the world of the scribe through a combination of circumstance and aptitude.
 
-Qubâsan is a humble scribe who works in a small village, transcribing important documents and maintaining records for the local community. He is known for his friendly demeanor and willingness to help others, often offering his services to those who cannot afford them. Qubâsan values the preservation of knowledge and is dedicated to ensuring that important information is recorded accurately for future generations.
+Kubasan is a humble scribe who works in a small village, transcribing important documents and maintaining records for the local community. He is known for his friendly demeanor and willingness to help others, often offering his services to those who cannot afford them. Kubasan values the preservation of knowledge and is dedicated to ensuring that important information is recorded accurately for future generations.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Can be too generous, struggles with asserting himself in business matters.
 
 ### Motivation
 
-Qubâsan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in scribe work keep him vigilant and adaptable.
+Kubasan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in scribe work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Friendly and approachable, skilled in transcription, community-oriented.
 
 ## Social
 
-Qubâsan is affiliated with Local Scribes' Guild.
+Kubasan is affiliated with Local Scribes' Guild.
 
-As a Tarûzelian scribe, Qubâsan occupies a recognized social niche within Tarûzel society.
+As a Taruzelian scribe, Kubasan occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Qubâsan's primary patron is Local villagers, farmers, and tradespeople seeking documentation. This relationship provides both opportunity and obligation.
+Kubasan's primary patron is Local villagers, farmers, and tradespeople seeking documentation. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Few; generally well-liked, though some may take advantage of his generosity.
 
 ## Plot Hooks
 
-1. **The Scribe's Dilemma**—Qubâsan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Scribe's Dilemma**—Kubasan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—Few; generally well-liked, though some may take advantage of his generosity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Qubâsan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Kubasan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Qubâsan depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Kubasan depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Qubâsan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kubasan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

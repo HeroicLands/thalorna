@@ -1,15 +1,15 @@
 ---
 shortcode: aqenmose2
-name: {full: Aqenmose, aliases: [Aqê]}
+name: {full: Aqenmose, aliases: [Aqe]}
 type: being
 subType: npc
-description: "A cleric of middling rank in the house of Psaq'âru, competent and unremarkable, and content to be both"
+description: "A cleric of middling rank in the house of Saq'aru, competent and unremarkable, and content to be both"
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric]
-  occupation: "Cleric in the House of Psaq'âru"
+  occupation: "Cleric in the House of Saq'aru"
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]
@@ -36,4 +36,4 @@ Aqenmose is a 37-year-old man who stands 5'10" tall with a medium build. He has 
 
 # Dossier {#dossier}
 
-Aqenmose is a cleric of middling rank in the house of [[lore-psaqarudty|Psaq'âru]], out of [[place-anlaghzetun|Anlagh-Zetûn]]. Competence without distinction describes the service, and Aqenmose is content with both halves of that description. Nobody expects advancement here, least of all the cleric holding the post.
+Aqenmose is a cleric of middling rank in the house of [[lore-psaqarudty|Saq'aru]], out of [[place-anlaghzetun|Anlagh-Zetun]]. Competence without distinction describes the service, and Aqenmose is content with both halves of that description. Nobody expects advancement here, least of all the cleric holding the post.

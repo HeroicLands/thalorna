@@ -1,9 +1,9 @@
 ---
 shortcode: cndrthrchrymkhysvr
 name:
-  full: Chandrathar Āchāryamukhyeshvara
-  given: Chandrathar
-  clan: Āchāryamukhyeshvara
+  full: Chandratar Acharyamukhyeshvara
+  given: Chandratar
+  clan: Acharyamukhyeshvara
   aliases: []
 type: being
 subType: character
@@ -423,34 +423,34 @@ sohl:
 
 # Appearance {#appearance}
 
-![[cndrthrchrymkhysvr|Chandrathar Āchāryamukhyeshvara]]{float=top-left}
+![[cndrthrchrymkhysvr|Chandratar Acharyamukhyeshvara]]{float=top-left}
 
-Chandrathar stands 5'7" tall with a medium build. He has tawny brown skin, greying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
+Chandratar stands 5'7" tall with a medium build. He has tawny brown skin, greying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
 
 # Dossier {#dossier}
 
-Born to the merchant shrenī families of [[place-vedyarargn|Vedyara]]'s merchant quarter, Chandrathar was marked early for the apothecary's art. His family had connections to the ancient knowledge-keepers, and as a youth he apprenticed under the famed **Master Karī Dharmendra**, learning which herbs heal and which kill, and the deeper principles of their essences and how they act together. The fires of the Apothecaries' Shrenī burned brightly in his spirit then—a desire to ease suffering, to preserve life. He rose swiftly through the shrenī ranks, his sharp perception and extraordinary skill with Herblore setting him apart.
+Born to the merchant shrena families of [[place-vedyarargn|Vedyara]]'s merchant quarter, Chandratar was marked early for the apothecary's art. His family had connections to the ancient knowledge-keepers, and as a youth he apprenticed under the famed **Master Kari Dharmendra**, learning which herbs heal and which kill, and the deeper principles of their essences and how they act together. The fires of the Apothecaries' Shrena burned brightly in his spirit then—a desire to ease suffering, to preserve life. He rose swiftly through the shrena ranks, his sharp perception and extraordinary skill with Herblore setting him apart.
 
-Yet prosperity and renown drew attention of a different sort. Kulinas with poisoned rivals, merchants seeking to dissolve inconvenient competitors, and the shadowed folk who dwell in the margins of respectable society all began to find their way to his door. Chandrathar discovered that the coin paid for a cure could be matched—and often exceeded—by coin paid for a bane. For the last two decades, he has walked an increasingly precarious line between healer and harbinger of death, his hands as likely to wield salvation as damnation. He maintains his legitimate apothecary practice, and indeed his remedies are among the finest in Vedyara, but whispers follow him through the shrenī halls like smoke.
+Yet prosperity and renown drew attention of a different sort. Kulinas with poisoned rivals, merchants seeking to dissolve inconvenient competitors, and the shadowed folk who dwell in the margins of respectable society all began to find their way to his door. Chandratar discovered that the coin paid for a cure could be matched—and often exceeded—by coin paid for a bane. For the last two decades, he has walked an increasingly precarious line between healer and harbinger of death, his hands as likely to wield salvation as damnation. He maintains his legitimate apothecary practice, and indeed his remedies are among the finest in Vedyara, but whispers follow him through the shrena halls like smoke.
 
 ## Psyche
 
 ### Personality
 
-Chandrathar is a man hollowed by compromise, his once-idealistic spirit eroded by pragmatism and moral convenience. He speaks in measured tones, each word weighed carefully—the habit of one who has learned that careless speech can cost lives. A sharp wit and a dark humor emerge only in private company, and his laughter, when it comes, carries an edge of bitterness. He is courteous to patrons and peers alike, but always with a certain distance, as though holding the world at arm's length. His composure covers a cynicism that has hardened into something approaching misanthropy; he assumes the worst of people because, in his experience, people are capable of much worse than he imagines.
+Chandratar is a man hollowed by compromise, his once-idealistic spirit eroded by pragmatism and moral convenience. He speaks in measured tones, each word weighed carefully—the habit of one who has learned that careless speech can cost lives. A sharp wit and a dark humor emerge only in private company, and his laughter, when it comes, carries an edge of bitterness. He is courteous to patrons and peers alike, but always with a certain distance, as though holding the world at arm's length. His composure covers a cynicism that has hardened into something approaching misanthropy; he assumes the worst of people because, in his experience, people are capable of much worse than he imagines.
 
-The paranoia is earned. **Master Karī Dharmendra**, his mentor, was found dead under circumstances Chandrathar knows were no accident—and many whisper that Chandrathar himself had supplied the instrument of her demise. True or false, the accusation poisoned his spirit. Now he trusts no one completely, always keeping contingencies and escape routes mentally mapped, always aware of who enters his shop and what they might truly seek.
+The paranoia is earned. **Master Kari Dharmendra**, his mentor, was found dead under circumstances Chandratar knows were no accident—and many whisper that Chandratar himself had supplied the instrument of her demise. True or false, the accusation poisoned his spirit. Now he trusts no one completely, always keeping contingencies and escape routes mentally mapped, always aware of who enters his shop and what they might truly seek.
 
 ### Motivation
 
-Chandrathar is driven by survival—his own, and that of his reputation and independence within the Apothecaries' Shrenī and the city-states. The knowledge that his name is whispered in dark corners both energizes and terrifies him. He continues his darker work partly from lucrative necessity (the coin pays exceedingly well), partly from fear of refusing dangerous patrons, and partly from a defiant pride: he will not be judged or controlled by the moral pretensions of others. He seeks to accumulate enough wealth and enough secrets about powerful people that no one will dare move against him, making himself too dangerous to destroy.
+Chandratar is driven by survival—his own, and that of his reputation and independence within the Apothecaries' Shrena and the city-states. The knowledge that his name is whispered in dark corners both energizes and terrifies him. He continues his darker work partly from lucrative necessity (the coin pays exceedingly well), partly from fear of refusing dangerous patrons, and partly from a defiant pride: he will not be judged or controlled by the moral pretensions of others. He seeks to accumulate enough wealth and enough secrets about powerful people that no one will dare move against him, making himself too dangerous to destroy.
 
 ### Strengths
 
 - **Herbal Mastery**: Unsurpassed skill in the identification, cultivation, preparation, and administration of medicinal plants. He knows their virtues and their vices, their healing properties and their capacity to induce suffering.
 - **Alchemical Knowledge**: His understanding of mineral compounds, distillation, and chemical reactions allows him to craft remedies and poisons of devastating subtlety—agents that mimic natural illness or wear down slowly without detection.
-- **Perception and Insight**: With perception as his highest attribute, Chandrathar reads people with precision. He discerns truth from falsehood, desperation from casual interest, and the hidden motives behind polite requests.
-- **Discourse and Reasoning**: His skill in reasoned argument and articulate discourse makes him a difficult person to accuse or condemn—he can talk his way through almost any confrontation with the shrenī or with authorities.
+- **Perception and Insight**: With perception as his highest attribute, Chandratar reads people with precision. He discerns truth from falsehood, desperation from casual interest, and the hidden motives behind polite requests.
+- **Discourse and Reasoning**: His skill in reasoned argument and articulate discourse makes him a difficult person to accuse or condemn—he can talk his way through almost any confrontation with the shrena or with authorities.
 - **Discretion**: An absolute master of keeping secrets. His clients know that he will never speak of their patronage, and he extends the same silence to those who come seeking protection or allies.
 
 ### Weaknesses
@@ -459,51 +459,51 @@ Chandrathar is driven by survival—his own, and that of his reputation and inde
 - **Moral Erosion**: The line between justified self-preservation and casual wickedness has become so blurred that he can no longer clearly distinguish right from wrong, making him increasingly reckless with darker commissions.
 - **Physical Fragility**: Years of exposure to toxic fumes, poisons, and concentrated herbal compounds have weakened his endurance. He is not a fighter; direct physical confrontation is beyond his capability.
 - **Growing Notoriety**: The more successful his darker work, the more dangerous his visibility becomes. Powerful enemies accumulate, and the day may come when his accumulated secrets are insufficient shield against determined revenge.
-- **Dependence on Shrenī Protection**: His continued operation depends on the Apothecaries' Shrenī's willingness to defend him from accusation. Should the shrenī turn against him, he would be vulnerable and exposed.
+- **Dependence on Shrena Protection**: His continued operation depends on the Apothecaries' Shrena's willingness to defend him from accusation. Should the shrena turn against him, he would be vulnerable and exposed.
 
 ## Social
 
 ### Patrons
 
-Serāthis of the great house Velyara
-: A widow of a great house whose husband died under mysterious circumstances. She sees to Chandrathar's material comfort and protection within circles of the great houses in exchange for his discretion and the occasional remedy that addresses her more pressing inconveniences.
+Serathis of the great house Velyara
+: A widow of a great house whose husband died under mysterious circumstances. She sees to Chandratar's material comfort and protection within circles of the great houses in exchange for his discretion and the occasional remedy that addresses her more pressing inconveniences.
 
-Shreshthin Divocheus
-: A ruthless trader who controls shipping interests throughout Vedyara. He occasionally requires Chandrathar's talents to see that troublesome competitors or dishonest agents do not live to cause further problems.
+Shroshtin Divocheus
+: A ruthless trader who controls shipping interests throughout Vedyara. He occasionally requires Chandratar's talents to see that troublesome competitors or dishonest agents do not live to cause further problems.
 
 The Silk Merchants' Consortium
-: A coalition of powerful merchant families who value Chandrathar's ability to make particularly troublesome slaves, witnesses, or creditors vanish quietly from their enterprises.
+: A coalition of powerful merchant families who value Chandratar's ability to make particularly troublesome slaves, witnesses, or creditors vanish quietly from their enterprises.
 
 ### Enemies
 
-Apothecary Mandāvar the Accuser
-: The most vocal critic within the Apothecaries' Shrenī, Mandāvar has been attempting for years to prove that Chandrathar engages in poison-craft and murder-for-hire. His investigations have come dangerously close to truth on several occasions, and Chandrathar lives in constant fear of what evidence Mandāvar might uncover—or manufacture.
+Apothecary Mandavar the Accuser
+: The most vocal critic within the Apothecaries' Shrena, Mandavar has been attempting for years to prove that Chandratar engages in poison-craft and murder-for-hire. His investigations have come dangerously close to truth on several occasions, and Chandratar lives in constant fear of what evidence Mandavar might uncover—or manufacture.
 
 The Crimson Sisters (Assassins' Collective)
-: A loose confederacy of hired killers who view Chandrathar's poison-work as encroachment on their exclusive domain. There is unspoken war between them; each has attempted to frame the other for high-profile murders.
+: A loose confederacy of hired killers who view Chandratar's poison-work as encroachment on their exclusive domain. There is unspoken war between them; each has attempted to frame the other for high-profile murders.
 
-Temple of Rāsikara's Court
-: The priests of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of Rāsikara through his abuse of divine knowledge for profane ends.
+Temple of Rasikara's Court
+: The priests of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of Rasikara through his abuse of divine knowledge for profane ends.
 
 ### Affiliations
 
-Apothecaries' Shrenī of Vedyara
-: His most legitimate and valued affiliation, though increasingly precarious. He maintains his position through careful politicking and significant contributions to the shrenī's coffers.
+Apothecaries' Shrena of Vedyara
+: His most legitimate and valued affiliation, though increasingly precarious. He maintains his position through careful politicking and significant contributions to the shrena's coffers.
 
 The Sealed Ledger (Underground Network)
 : A loose confederation of individuals involved in morally questionable commerce who value discretion and skill. Membership is by reputation alone.
 
-Rāsikara's Temple
+Rasikara's Temple
 : Officially a devotee and sometime patron of healing rituals, though his relationship with the priesthood has grown strained.
 
 ## Plot Hooks
 
-1. **The Poisoned Well**: A mysterious plague begins spreading through Vedyara's lower districts, killing indiscriminately. The city guard suspects foul play and turns to Chandrathar for analysis—but he recognizes the signature of the poison immediately. It is one of his own creations, stolen from his workshop months ago. He can confess, thereby admitting its creation, or lie and help track whoever stole it while hoping they do not use it against him or reveal his involvement to the authorities. The thief, it transpires, is **Apprentice Somnari**, a young healer from the temple who discovered what Chandrathar truly does and stole the poison to prevent future murders. She plans to use it to assassinate Serāthis, whom she believes Chandrathar poisoned.
+1. **The Poisoned Well**: A mysterious plague begins spreading through Vedyara's lower districts, killing indiscriminately. The city guard suspects foul play and turns to Chandratar for analysis—but he recognizes the signature of the poison immediately. It is one of his own creations, stolen from his workshop months ago. He can confess, thereby admitting its creation, or lie and help track whoever stole it while hoping they do not use it against him or reveal his involvement to the authorities. The thief, it transpires, is **Apprentice Somnari**, a young healer from the temple who discovered what Chandratar truly does and stole the poison to prevent future murders. She plans to use it to assassinate Serathis, whom she believes Chandratar poisoned.
 
-2. **The Mentor's Ghost**: A group of investigators arrives from the outer provinces seeking information about the death of **Master Karī Dharmendra** thirty years prior. They are building a case against an unnamed apothecary whom they believe poisoned her out of jealousy or rivalry in the craft. Chandrathar realizes with horror that they have found witnesses, documentation, and evidence that will inevitably point to him. Worse, he is no longer certain whether he actually did poison her or whether the guilt has become so deep in him that he has constructed false memories. His former apprentices are being interviewed; his ledgers are being subpoenaed. He must either flee Vedyara or orchestrate a counter-investigation that casts suspicion elsewhere—but every move risks revealing more truth than he wishes exposed.
+2. **The Mentor's Ghost**: A group of investigators arrives from the outer provinces seeking information about the death of **Master Kari Dharmendra** thirty years prior. They are building a case against an unnamed apothecary whom they believe poisoned her out of jealousy or rivalry in the craft. Chandratar realizes with horror that they have found witnesses, documentation, and evidence that will inevitably point to him. Worse, he is no longer certain whether he actually did poison her or whether the guilt has become so deep in him that he has constructed false memories. His former apprentices are being interviewed; his ledgers are being subpoenaed. He must either flee Vedyara or orchestrate a counter-investigation that casts suspicion elsewhere—but every move risks revealing more truth than he wishes exposed.
 
-3. **The Collector's Commission**: A wealthy and eccentric collector approaches him with an extraordinary request: craft a poison so subtle and slow-acting that it will take precisely seventeen months to kill the recipient, and that will mimic the effects of aging and natural decay so perfectly that even the most skilled physician will identify no cause of death. The payment is astronomical, enough to secure his escape from Vedyara and establishment elsewhere should things collapse. But the commission carries a terrible price: the target is a child, the illegitimate heir to a merchant fortune. Refusing seems likely to result in violence from the collector's hired blades; accepting makes him complicit in the murder of an innocent. The child in question is the young daughter of **Herald [[being-carengrvth|Kárenna Gráveth]]**, who will stop at nothing to protect her if she learns of the plot.
+3. **The Collector's Commission**: A wealthy and eccentric collector approaches him with an extraordinary request: craft a poison so subtle and slow-acting that it will take precisely seventeen months to kill the recipient, and that will mimic the effects of aging and natural decay so perfectly that even the most skilled physician will identify no cause of death. The payment is astronomical, enough to secure his escape from Vedyara and establishment elsewhere should things collapse. But the commission carries a terrible price: the target is a child, the illegitimate heir to a merchant fortune. Refusing seems likely to result in violence from the collector's hired blades; accepting makes him complicit in the murder of an innocent. The child in question is the young daughter of **Herald [[being-carengrvth|Kárenna Graveth]]**, who will stop at nothing to protect her if she learns of the plot.
 
-4. **The Shrenī's Reckoning**: The Apothecaries' Shrenī votes to conduct a formal inspection of all its members' workshops and ledgers, ostensibly to check compliance with new rules on dangerous substances. Chandrathar realizes this is his death knell—his workshop contains ample evidence of his darker work, and Mandāvar has been orchestrating this inspection specifically to expose him. He has mere days to destroy evidence, move his most incriminating materials, and either disappear or compromise Mandāvar and the shrenī leadership through revelation of their own secrets and complicity in his crimes.
+4. **The Shrena's Reckoning**: The Apothecaries' Shrena votes to conduct a formal inspection of all its members' workshops and ledgers, ostensibly to check compliance with new rules on dangerous substances. Chandratar realizes this is his death knell—his workshop contains ample evidence of his darker work, and Mandavar has been orchestrating this inspection specifically to expose him. He has mere days to destroy evidence, move his most incriminating materials, and either disappear or compromise Mandavar and the shrena leadership through revelation of their own secrets and complicity in his crimes.
 
-5. **The Healer's Redemption**: A desperate family arrives bearing a poisoned family member—but the poison is no work of a skilled hand. It is clumsy, obvious, and wrong in nearly every way. Yet it is poison that Chandrathar is known to have created and sold. He is certain the poisoning was committed by someone else, likely an ambitious apprentice or a copycat, yet proof will be nearly impossible to establish. The family's patriarch is powerful and politically connected; he is already spreading word that Chandrathar attempted to murder him. Chandrathar must either identify the true poisoner and prove his own innocence, or accept that his darker trade is about to consume his legitimate reputation and freedom in Vedyara.
+5. **The Healer's Redemption**: A desperate family arrives bearing a poisoned family member—but the poison is no work of a skilled hand. It is clumsy, obvious, and wrong in nearly every way. Yet it is poison that Chandratar is known to have created and sold. He is certain the poisoning was committed by someone else, likely an ambitious apprentice or a copycat, yet proof will be nearly impossible to establish. The family's patriarch is powerful and politically connected; he is already spreading word that Chandratar attempted to murder him. Chandratar must either identify the true poisoner and prove his own innocence, or accept that his darker trade is about to consume his legitimate reputation and freedom in Vedyara.

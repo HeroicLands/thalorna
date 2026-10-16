@@ -1,9 +1,9 @@
 ---
 shortcode: lordhemekoris
-name: {full: Lordhème Kórisvar, aliases: [Lord Lordhème Kórisvar]}
+name: {full: Lordeme Kórisvar, aliases: [Lord Lordeme Kórisvar]}
 type: being
 subType: npc
-description: The father of Ârnela Kórisvar, a cautious lord who kept his head down.
+description: The father of Arnela Kórisvar, a cautious lord who kept his head down.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Lordhème Kórisvar is a 74-year-old man who stands 6'0" tall with a heavy build. He has olive skin, sun-kissed complexion, red hair, and green eyes.
+Lordeme Kórisvar is a 74-year-old man who stands 6'0" tall with a heavy build. He has olive skin, sun-kissed complexion, red hair, and green eyes.
 
 # Dossier {#dossier}
 
-Lordhème Kórisvar was the father of [[being-arnelkrsvr|Ârnela Kórisvar]], a lord and a cautious man who kept his head down during the political maneuvering between the crown and the Council of Peers. A merchant from Tarûzel suggests in documents that he borrowed heavily near the end of his life to cover losses, and that the debts were sold and resold.
+Lordeme Kórisvar was the father of [[being-arnelkrsvr|Arnela Kórisvar]], a lord and a cautious man who kept his head down during the political maneuvering between the crown and the Council of Peers. A merchant from Taruzel suggests in documents that he borrowed heavily near the end of his life to cover losses, and that the debts were sold and resold.

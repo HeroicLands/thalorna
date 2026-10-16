@@ -1,6 +1,6 @@
 ---
 shortcode: prthncrdth
-name: {full: Párthun Kárdeth, aliases: []}
+name: {full: Parthun Kardeth, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -389,13 +389,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Párthun Kárdeth is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a delicate chin. His sharp amber eyes sit beneath expressive brows, lending him an incisive gaze. A slightly upturned nose and expressive lips complete his features. He has pale skin with a flawless complexion. His black hair is tied in a low tail.
+Parthun Kardeth is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a delicate chin. His sharp amber eyes sit beneath expressive brows, lending him an incisive gaze. A slightly upturned nose and expressive lips complete his features. He has pale skin with a flawless complexion. His black hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Párthun Kárdeth came into the world of the thespian through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Parthun Kardeth came into the world of the thespian through a combination of circumstance and aptitude.
 
-Párthun is an actor and playwright who has spent much of his life on the stage. He is known for his powerful voice and his ability to portray complex characters. Párthun's writing often draws from his own experiences, and his plays are filled with rich dialogue and plots. However, he struggles with perfectionism, often rewriting scenes endlessly before he's satisfied.
+Parthun is an actor and playwright who has spent much of his life on the stage. He is known for his powerful voice and his ability to portray complex characters. Parthun's writing often draws from his own experiences, and his plays are filled with rich dialogue and plots. However, he struggles with perfectionism, often rewriting scenes endlessly before he's satisfied.
 
 ## Psyche
 
@@ -405,7 +405,7 @@ Perfectionist tendencies, prone to overworking himself.
 
 ### Motivation
 
-Párthun is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thespian work keep him vigilant and adaptable.
+Parthun is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thespian work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -413,15 +413,15 @@ Talented actor and writer, skilled in crafting compelling dialogue, strong stage
 
 ## Social
 
-Párthun is affiliated with City Theater Company, Writers' Guild.
+Parthun is affiliated with City Theater Company, Writers' Guild.
 
-As a Élavendri thespian, Párthun occupies a recognized social niche within Élavendre society.
+As a Élavendri thespian, Parthun occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Párthun's primary patron is Wealthy patrons who commission his plays. This relationship provides both opportunity and obligation.
+Parthun's primary patron is Wealthy patrons who commission his plays. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Critics who believe his work is overly complicated.
 
 ## Plot Hooks
 
-1. **The Thespian's Dilemma**—Párthun faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
+1. **The Thespian's Dilemma**—Parthun faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 
 2. **Old Grudges**—Critics who believe his work is overly complicated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Párthun's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Parthun's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Párthun depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Parthun depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Párthun the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Parthun the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

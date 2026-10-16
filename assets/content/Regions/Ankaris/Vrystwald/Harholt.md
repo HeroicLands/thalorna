@@ -1,6 +1,6 @@
 ---
 shortcode: harholt
-name: {full: Hárholt, aliases: []}
+name: {full: Harholt, aliases: []}
 type: place
 subType: settlement
 description: "A Varokh village in Falkhaven whose old pines are where the western musters gather each thaw."
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Hárholt** (350 people) is a Varokh village of [[place-falkhaven|Falkhaven]] under the [[lore-wolfttm|wolf]], and its War Chief holds the leading seat. A muster gathers beneath its old pines each thaw, and Falkhaven's musters assemble there.
+**Harholt** (350 people) is a Varokh village of [[place-falkhaven|Falkhaven]] under the [[lore-wolfttm|wolf]], and its War Chief holds the leading seat. A muster gathers beneath its old pines each thaw, and Falkhaven's musters assemble there.
 
 When the Stormhand Brotherhood marched on the hill fort of Falkenstein, the western villages' elders met under these pines, agreed that the danger was common to all of them and raised a common muster; [[lore-stormhandfld|The Stormhand's Field]] tells the fight that followed.
 

@@ -1,13 +1,13 @@
 ---
 shortcode: upperrivrslt
-name: {full: The Upper River Selatu, aliases: [The Upper River Selatu of Aû'Khelâthu]}
+name: {full: The Upper River Selatu, aliases: [The Upper River Selatu of Au'Khelathu]}
 type: affiliation
 subType: polity
-description: "The agricultural heartland of Aû'Khelâthu—eighteen river-valley selatu upstream of the delta whose flood-fed fields grow the empire's grain, whose conservative landowning Halzi'a guard their ancient privileges, and whose temple-cities hold the oldest cults in the realm."
+description: "The agricultural heartland of Au'Khelathu—eighteen river-valley selatu upstream of the delta whose flood-fed fields grow the empire's grain, whose conservative landowning Halzi'a guard their ancient privileges, and whose temple-cities hold the oldest cults in the realm."
 data:
   banner: khelathubnr
   templatePriority: null
-  demonym: Khelâthi
+  demonym: Khelathi
   epithet: null
   symbol: null
   governance:
@@ -24,49 +24,30 @@ data:
         description: >-
           Bound to an estate or a temple, owing labor on its fields and its works and holding nothing of his own.
       - level: 2
-        title: Farmer
+        title: Zelar
         description: >-
-          Working the floodplain under a lord or a temple, owing a share of the harvest and labor on the canals.
+          A commoner, the free rank of no house: farmer, artisan, merchant and scribe alike. A Zelar owes a share of the harvest, labor on the canals and tax on his work, and a talented child may enter the scribal schools, which are the empire's principal path upward.
       - level: 3
-        title: Artisan or Merchant
+        title: Zabu
         description: >-
-          Of the trades—potters, weavers, boatmen, traders—free of the fields and taxed on their work.
-      - level: 4
-        title: Scribe
-        description: >-
-          Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
-      - level: 5
-        title: Legha'lutu
-        description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
-      - level: 6
-        title: Halzi'a
-        description: >-
-          Halzi'a: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
-      - level: 7
-        title: Iru'palu
-        description: >-
-          Of the royal house and the most exalted families, the highest hereditary rank below the throne.
-      - level: 8
-        title: Gar-Aû
-        description: >-
-          The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
+          A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
-      Halzi'a: Halzi'a, governing a selat with armies, taxes and courts of his own.
-      Legha'lutu: Ruler of an estate—manor, fields and village—answerable to the Halzi'a.
-      Zabet'lutu: Mistress of an estate, holding the same authority in her own right.
-      Zabet: Lady of the court, whose standing comes from position rather than from land.
+      Halzi'a: >-
+        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+      Legha'lutu: >-
+        Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
+      Zabet'lutu: >-
+        Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
+      Zabet: >-
+        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
       Zemelu: >-
-        Companion of the Gar-Aû: a title of royal favor and access rather than territorial authority.
-      Thâz'Lekhau: >-
-        Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
-      Lem'Nelgir: >-
-        Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
-      Wazu: >-
-        Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
-      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
-      Halzi'a's Steward: Administrator of the selat's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
+        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
+      Halzi'a's Steward: >-
+        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
+      Canal-Warden: >-
+        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: null
   population: 8000000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
@@ -79,15 +60,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Above the delta the [[place-zumeleshrvr|Zumélesh]] runs for hundreds of leagues through a narrow, fertile valley walled by dry upland on either side, and the eighteen **Upper River Selatu** hold it. They are the most numerous of the four classes of selat and the agricultural heartland of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: every year the flood drowns and renews their fields, and every harvest fills the granaries that feed the cities and the army. This is the oldest-settled, most thickly templed and most stubbornly traditional country in the realm, and its Halzi'a are the conscience of the empire and its dead weight in equal measure.
+Above the delta the [[place-zumeleshrvr|Zumelesh]] runs for hundreds of leagues through a narrow, fertile valley walled by dry upland on either side, and the eighteen **Upper River Selatu** hold it. They are the most numerous of the four classes of selat and the agricultural heartland of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: every year the flood drowns and renews their fields, and every harvest fills the granaries that feed the cities and the army. This is the oldest-settled, most thickly templed and most stubbornly traditional country in the realm, and its Halzi'a are the conscience of the empire and its dead weight in equal measure.
 
-"Count the granaries before you count the gold," a temple steward at [[place-anlaghzetun|Anlagh-Zetûn]] tells a young scribe on his first posting upriver. "Down in the Delta a man is worth his ships. Here he is worth his fields and the god whose estate is next to them, and the god's estate is usually bigger."
+"Count the granaries before you count the gold," a temple steward at [[place-anlaghzetun|Anlagh-Zetun]] tells a young scribe on his first posting upriver. "Down in the Delta a man is worth his ships. Here he is worth his fields and the god whose estate is next to them, and the god's estate is usually bigger."
 
 ## Character
 
 If the [[affiliation-deltaselatu|Delta Selatu]] are the empire's purse, the upper river is its backbone and its anchor. Its Halzi'a are conservative landowners, hereditary to the bone, who measure wealth in fields and granaries rather than ships and margins and who guard their traditional privileges against the capital and the Delta alike. They resist innovation on principle, fund the great temples out of piety, and regard the cosmopolitan Delta with the suspicion of men who have never needed a foreigner for anything. When a dynasty weakens, a coalition of upper-river Halzi'a and temple priesthoods often decides who sits the throne next.
 
-The valley is dense with temple-cities, cult centers whose gods are older than the dynasties and whose high priests command estates to rival a Halzi'a's. Here are the great necropolises, the embalming towns, the scribal schools and the oldest shrines of the [[affiliation-khelathpnthn|Khelâthi Pantheon]].
+The valley is dense with temple-cities, cult centers whose gods are older than the dynasties and whose high priests command estates to rival a Halzi'a's. Here are the great necropolises, the embalming towns, the scribal schools and the oldest shrines of the [[affiliation-khelathpnthn|Khelathi Pantheon]].
 
 Daily life follows the flood. In the **Season of Inundation** the fields drown and the work-gangs go to the monuments; in the **Season of Emergence** the valley is planted; in the **Season of Harvest** the granaries fill. A village knows which month it is by looking at the river.
 
@@ -109,23 +90,23 @@ Eighteen selatu make up the upper-river class, each under its hereditary [[affil
 
 | Selat                                                     | Seat                                | Patron                                                        | Population | Character                                                                                                                                   |
 | --------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[affiliation-selatnlghztn\|The Selat of Anlagh-Zetûn]]   | [[place-anlaghzetun\|Anlagh-Zetûn]] | [[lore-qearetdty\|Qe'âret]]                                   | ~800,000   | The great granary selat; flood-silt wheatlands, the empire's fullest storehouses, and the river-port of [[place-amqelulegez\|Amqelu-Legez]] |
-| [[affiliation-selatkhelzrt\|The Selat of Khelzuret]]      | [[place-khelzuret\|Khelzuret]]      | [[lore-wethurdty\|Weth'ûr]] / [[lore-hezmuiridty\|Hezmu'îri]] | ~700,000   | The temple-and-necropolis selat; embalming, tomb-building, and the empire's greatest pilgrimage to the lords of the dead                    |
-| [[affiliation-selatgrrthsr\|The Selat of Gar-Reth'Sa'âr]] | [[place-khelunu\|Khelunu]]          | [[lore-rethsaardty\|Reth'Sa'âr]]                              | ~700,000   | The scribal selat; the foremost temple of Reth'Sa'âr, the finest scribal schools, and the keepers of the king-lists                         |
-| [[affiliation-selatiuthnet\|The Selat of Iuthnet]]        | [[place-iuthnet\|Iuthnet]]          | [[lore-uzneradty\|Uzn'êra]]                                   | ~560,000   | Healing-temples and birth-shrines; the great cult of the mother-goddess                                                                     |
-| [[affiliation-selatzuger\|The Selat of Zu-Ger]]           | [[place-tjegu\|Tjegu]]              | [[lore-hezmuiridty\|Hezmu'îri]]                               | ~520,000   | "The **Great Land**"—an ancient royal selat and old burial-ground of the first dynasties                                                    |
-| [[affiliation-selatlegirus\|The Selat of Legirusi]]       | [[place-legirusi\|Legirusi]]        | [[lore-psaqarudty\|Psaq'âru]]                                 | ~500,000   | Stone-quarries and master masons; the temple-workshops that carve the monuments                                                             |
-| [[affiliation-selatltgthzl\|The Selat of Lut-Getha-Zalu]] | [[place-lutgetha\|Lut-Getha]]       | [[lore-psaqarudty\|Psaq'âru]]                                 | ~480,000   | Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility                                                        |
-| [[affiliation-selatsltplgn\|The Selat of Selat-Pelgun]]   | [[place-iqu\|Iqu]]                  | [[affiliation-pelgun\|Faith of Pelgun]] (fertility-god)       | ~460,000   | Caravan-head for the eastern desert roads; harvest-festivals and virility cults                                                             |
-| [[affiliation-selatiqeru\|The Selat of Iqeru]]            | [[place-iqeru\|Iqeru]]              | [[lore-uqaadty\|Uqa'â]]                                       | ~440,000   | Sun-temples and wide irrigated wheatland                                                                                                    |
-| [[affiliation-selatkhelntz\|The Selat of Khelenet-Zu]]    | [[place-khelenetzu\|Khelenet-Zu]]   | [[lore-qearetdty\|Qe'âret]]                                   | ~420,000   | Old assize-courts; a selat famous for its lawyer-priests and land-survey scribes                                                            |
-| [[affiliation-selatgekhenu\|The Selat of Gekhenu]]        | [[place-gekhenu\|Gekhenu]]          | [[lore-rethsaardty\|Reth'Sa'âr]]                              | ~400,000   | Library-temples and astronomers; the calendar-keepers of the middle river                                                                   |
-| [[affiliation-selatzbtrlpt\|The Selat of Zebt-Relepet]]   | [[place-zebtrelepet\|Zebt-Relepet]] | [[lore-wethurdty\|Weth'ûr]]                                   | ~380,000   | Cavern-tombs and natron; a workmanlike mortuary selat                                                                                       |
-| [[affiliation-selatgadjuml\|The Selat of Gadju-Mûlu]]     | [[place-gadjumulu\|Gadju-Mûlu]]     | [[lore-thubaidty\|Thubâ'i]]                                   | ~360,000   | "**Green Waters**"—marshy floodbasin, flax and waterfowl, the wettest of the upper selatu                                                   |
-| [[affiliation-selatlennnzt\|The Selat of Lenen-Nezut]]    | [[place-lenennezut\|Lenen-Nezut]]   | [[lore-uqaadty\|Uqa'â]]                                       | ~340,000   | An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture                                                             |
-| [[affiliation-selatanztqlt\|The Selat of Anzet-Qelt]]     | [[place-anzet\|Anzet]]              | [[lore-hezmuiridty\|Hezmu'îri]]                               | ~320,000   | Jackal-cult and desert-edge tombs; embalmers and tomb-guards                                                                                |
-| [[affiliation-selatmaguthn\|The Selat of Magu-Thelqen]]   | [[place-maguathen\|Magu-Thelqen]]   | [[lore-uqaadty\|Uqa'â]]                                       | ~300,000   | A planned temple-city of one zealous dynasty, half-abandoned, still inhabited                                                               |
-| [[affiliation-selatgarlut\|The Selat of Gar-Lût]]         | [[place-garlut\|Gar-Lût]]           | [[lore-uzneradty\|Uzn'êra]]                                   | ~240,000   | A small, devout selat of healing-shrines and herb-gardens                                                                                   |
+| [[affiliation-selatnlghztn\|The Selat of Anlagh-Zetun]]   | [[place-anlaghzetun\|Anlagh-Zetun]] | [[lore-qearetdty\|Qe'aret]]                                   | ~800,000   | The great granary selat; flood-silt wheatlands, the empire's fullest storehouses, and the river-port of [[place-amqelulegez\|Amqelu-Legez]] |
+| [[affiliation-selatkhelzrt\|The Selat of Khelzuret]]      | [[place-khelzuret\|Khelzuret]]      | [[lore-wethurdty\|Weth'ur]] / [[lore-hezmuiridty\|Hezmu'iri]] | ~700,000   | The temple-and-necropolis selat; embalming, tomb-building, and the empire's greatest pilgrimage to the lords of the dead                    |
+| [[affiliation-selatgrrthsr\|The Selat of Gar-Reth'Sa'ar]] | [[place-khelunu\|Khelunu]]          | [[lore-rethsaardty\|Reth'Sa'ar]]                              | ~700,000   | The scribal selat; the foremost temple of Reth'Sa'ar, the finest scribal schools, and the keepers of the king-lists                         |
+| [[affiliation-selatiuthnet\|The Selat of Iuthnet]]        | [[place-iuthnet\|Iuthnet]]          | [[lore-uzneradty\|Uzn'era]]                                   | ~560,000   | Healing-temples and birth-shrines; the great cult of the mother-goddess                                                                     |
+| [[affiliation-selatzuger\|The Selat of Zu-Ger]]           | [[place-tjegu\|Tjegu]]              | [[lore-hezmuiridty\|Hezmu'iri]]                               | ~520,000   | "The **Great Land**"—an ancient royal selat and old burial-ground of the first dynasties                                                    |
+| [[affiliation-selatlegirus\|The Selat of Legirusi]]       | [[place-legirusi\|Legirusi]]        | [[lore-psaqarudty\|Saq'aru]]                                  | ~500,000   | Stone-quarries and master masons; the temple-workshops that carve the monuments                                                             |
+| [[affiliation-selatltgthzl\|The Selat of Lut-Getha-Zalu]] | [[place-lutgetha\|Lut-Getha]]       | [[lore-psaqarudty\|Saq'aru]]                                  | ~480,000   | Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility                                                        |
+| [[affiliation-selatsltplgn\|The Selat of Selat-Pelgun]]   | [[place-iqu\|Iku]]                  | [[affiliation-pelgun\|Faith of Pelgun]] (fertility-god)       | ~460,000   | Caravan-head for the eastern desert roads; harvest-festivals and virility cults                                                             |
+| [[affiliation-selatiqeru\|The Selat of Iqeru]]            | [[place-iqeru\|Iqeru]]              | [[lore-uqaadty\|Uqa'a]]                                       | ~440,000   | Sun-temples and wide irrigated wheatland                                                                                                    |
+| [[affiliation-selatkhelntz\|The Selat of Khelenet-Zu]]    | [[place-khelenetzu\|Khelenet-Zu]]   | [[lore-qearetdty\|Qe'aret]]                                   | ~420,000   | Old assize-courts; a selat famous for its lawyer-priests and land-survey scribes                                                            |
+| [[affiliation-selatgekhenu\|The Selat of Gekhenu]]        | [[place-gekhenu\|Gekhenu]]          | [[lore-rethsaardty\|Reth'Sa'ar]]                              | ~400,000   | Library-temples and astronomers; the calendar-keepers of the middle river                                                                   |
+| [[affiliation-selatzbtrlpt\|The Selat of Zebt-Relepet]]   | [[place-zebtrelepet\|Zebt-Relepet]] | [[lore-wethurdty\|Weth'ur]]                                   | ~380,000   | Cavern-tombs and natron; a workmanlike mortuary selat                                                                                       |
+| [[affiliation-selatgadjuml\|The Selat of Gadju-Mulu]]     | [[place-gadjumulu\|Gadju-Mulu]]     | [[lore-thubaidty\|Thuba'i]]                                   | ~360,000   | "**Green Waters**"—marshy floodbasin, flax and waterfowl, the wettest of the upper selatu                                                   |
+| [[affiliation-selatlennnzt\|The Selat of Lenen-Nezut]]    | [[place-lenennezut\|Lenen-Nezut]]   | [[lore-uqaadty\|Uqa'a]]                                       | ~340,000   | An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture                                                             |
+| [[affiliation-selatanztqlt\|The Selat of Anzet-Qelt]]     | [[place-anzet\|Anzet]]              | [[lore-hezmuiridty\|Hezmu'iri]]                               | ~320,000   | Jackal-cult and desert-edge tombs; embalmers and tomb-guards                                                                                |
+| [[affiliation-selatmaguthn\|The Selat of Magu-Thelqen]]   | [[place-maguathen\|Magu-Thelqen]]   | [[lore-uqaadty\|Uqa'a]]                                       | ~300,000   | A planned temple-city of one zealous dynasty, half-abandoned, still inhabited                                                               |
+| [[affiliation-selatgarlut\|The Selat of Gar-Lut]]         | [[place-garlut\|Gar-Lut]]           | [[lore-uzneradty\|Uzn'era]]                                   | ~240,000   | A small, devout selat of healing-shrines and herb-gardens                                                                                   |
 | [[affiliation-selatyathlmt\|The Selat of Yath-Lemet]]     | [[place-yathlemet\|Yath-Lemet]]     | [[affiliation-tjelsuk\|Faith of Tjelsur]] (crocodile-god)     | ~80,000    | The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing                                                 |
 
 Upper-river total: about 8,000,000.
@@ -134,16 +115,16 @@ Upper-river total: about 8,000,000.
 
 Run the upper river as the empire's deep, conservative interior—temple-bound, hereditary and slow to change, a country of granaries and gods. The real powers are the landowning Halzi'a and the high priests of the great cult-temples, and the capital's writ runs only as far as the Halzi'a allow.
 
-Adventure here is older and stranger than in the Delta: tomb robbery and the curses that guard against it, temple politics and cult rivalries, succession intrigue among hereditary houses, the embalmers' guilds and their secrets, flood failure and famine, banditry among the desert-edge tombs, and the slow, grinding feud between the river traditionalists and the [[lore-garauu|Gar-Aû]]'s reformers. Grain, stone, linen and faith are abundant. Coin, foreign news and any appetite for novelty are scarce.
+Adventure here is older and stranger than in the Delta: tomb robbery and the curses that guard against it, temple politics and cult rivalries, succession intrigue among hereditary houses, the embalmers' guilds and their secrets, flood failure and famine, banditry among the desert-edge tombs, and the slow, grinding feud between the river traditionalists and the [[lore-garauu|Gar-Au]]'s reformers. Grain, stone, linen and faith are abundant. Coin, foreign news and any appetite for novelty are scarce.
 
 ## Commerce and Currency
 
-The Upper River Selatu use the [[lore-aukhlthcrncy|Aû'Khelâthu currency]], but much of the valley's economy runs on grain-render and temple account rather than weighed metal. The [[affiliation-garhalzi|Gár-Hálzi]] treasuries hold tax-grain as readily as silver, and a Halzi'a's wealth is reckoned in granaries as much as in gezan. A tenant pays his share in sacks, and the scribe who receives it enters the sacks.
+The Upper River Selatu use the [[lore-aukhlthcrncy|Au'Khelathu currency]], but much of the valley's economy runs on grain-render and temple account rather than weighed metal. The [[affiliation-garhalzi|Gar-Hálzi]] treasuries hold tax-grain as readily as silver, and a Halzi'a's wealth is reckoned in granaries as much as in gezan. A tenant pays his share in sacks, and the scribe who receives it enters the sacks.
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the empire
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the empire
 - [[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]—the other classes of selat
-- [[place-zumeleshrvr|The Zumélesh]]—the river that floods these fields
+- [[place-zumeleshrvr|The Zumelesh]]—the river that floods these fields
 - [[place-zelgeru|The Zelgeru]]—the great temple-estates
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the gods · [[skill-khelathlng|Khelâthi Language]]—naming
+- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the gods · [[skill-khelathlng|Khelathi Language]]—naming

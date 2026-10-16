@@ -1,6 +1,6 @@
 ---
 shortcode: draskseldath
-name: {full: Draskselda Thraldidrokh, aliases: [Captain Draskselda Thraldidrokh]}
+name: {full: Draskselda Thraldidrok, aliases: [Captain Draskselda Thraldidrok]}
 type: being
 subType: npc
 description: A rival sailor who captains a merchant vessel and views Hvarnthann Stormrót as competition.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Draskselda Thraldidrokh is a 51-year-old woman who stands 5'10" tall with a medium build. She has tanned skin, scarred complexion, dark brown hair, and blue eyes.
+Draskselda Thraldidrok is a 51-year-old woman who stands 5'10" tall with a medium build. She has tanned skin, scarred complexion, dark brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Draskselda Thraldidrokh is a rival sailor who captains a merchant vessel and views [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] as competition. The two captains are rivals at sea.
+Draskselda Thraldidrok is a rival sailor who captains a merchant vessel and views [[being-hvrnthnstrmrt|Hvarnthann Stormrót]] as competition. The two captains are rivals at sea.

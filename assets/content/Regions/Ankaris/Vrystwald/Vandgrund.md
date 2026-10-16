@@ -27,5 +27,5 @@ The Other Chief holds the strongest of the village's three seats, but the other 
 ## See Also
 
 - [[place-vandstein|Vandstein]]—the reach around the village
-- [[place-hildholt|Hildholt]] and [[place-thrastein|Thrástein]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—the wider web of independent villages
+- [[place-hildholt|Hildholt]] and [[place-thrastein|Thrastein]]—neighboring villages reached by forest tracks
+- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages

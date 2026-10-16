@@ -3,14 +3,14 @@ shortcode: selvin
 name: {full: Selvin, aliases: [the Laurel]}
 type: place
 subType: feature
-description: "The greener and newer of the twin patrician hills of Ôrzâra, its gardens and great houses the address of the rising, with the Gilded Quarter on its lower slopes."
+description: "The greener and newer of the twin patrician hills of Orzara, its gardens and great houses the address of the rising, with the Gilded Quarter on its lower slopes."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [sixhillsvyl], population: 0, packFolder: vylaria}
 ---
 
 ## Overview
 
-Selvin is the hill a family builds on when it is rising. The Laurel is one of the [[place-sixhillsvyl|Six Hills]] of [[place-orzara|Ôrzâra]], and with **Torvel** (the Coronal) it makes **the Heights**: the twin patrician hills of walled villas, terraced gardens and city-houses of _kurthândoi_ (senators) and great families who do not lodge in the Inner City. Both are prized for their air and their views, and both are reached only on foot.
+Selvin is the hill a family builds on when it is rising. The Laurel is one of the [[place-sixhillsvyl|Six Hills]] of [[place-orzara|Orzara]], and with **Torvel** (the Coronal) it makes **the Heights**: the twin patrician hills of walled villas, terraced gardens and city-houses of _kurthoi_ (senators) and great families who do not lodge in the Inner City. Both are prized for their air and their views, and both are reached only on foot.
 
 ## The Newer Hill
 
@@ -18,5 +18,5 @@ Torvel is the older and prouder of the two, ringed with the ancestral villas of 
 
 ## See Also
 
-- [[place-sixhillsvyl|Six Hills]]—the hills of Ôrzâra
-- [[place-orzara|Ôrzâra]]—the city
+- [[place-sixhillsvyl|Six Hills]]—the hills of Orzara
+- [[place-orzara|Orzara]]—the city

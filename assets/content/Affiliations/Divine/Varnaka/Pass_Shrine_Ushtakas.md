@@ -3,7 +3,7 @@ shortcode: passshrineushtakas
 name: {full: The Pass-Shrine Ushtakas, aliases: [The Altitude Ushtakas]}
 type: affiliation
 subType: faithtradition
-description: "The hereditary line of Ritūja ushtakas who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."
+description: "The hereditary line of Retuja ushtakas who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."
 tags: [varnaka, arcane, mountain]
 data:
   banner: faithbnr
@@ -73,32 +73,32 @@ sohl:
 
 - **Practice:** Weather-rite and road-rite, worked at altitude
 - **Seat:** [[place-pssshrines|The Pass-Shrines]]
-- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-The **Pass-Shrine Ushtakas** are a hereditary line of **Ritūja** who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the line, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
+The **Pass-Shrine Ushtakas** are a hereditary line of **Retuja** who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the line, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
 
-They are the only body in [[place-vedyarargn|Vedyara]] that works a Varnaka rite where a lowland priest cannot breathe, and that fact settles almost everything else about them.
+They are the only body in [[place-vedyarargn|Vedyara]] that works a Varnuka rite where a lowland priest cannot breathe, and that fact settles almost everything else about them.
 
 ### The Two Rites
 
-The weather-rite is [[affiliation-meghanatha|Meghanātha]]'s, worked for what the mountain does rather than for what the monsoon does: the shift in the wind at the col, the hour the cloud comes up the valley, the night the snow begins in earnest. It is petition and not command, and a shrine that has worked it and been wrong says so in the register.
+The weather-rite is [[affiliation-meghanatha|Meghonata]]'s, worked for what the mountain does rather than for what the monsoon does: the shift in the wind at the col, the hour the cloud comes up the valley, the night the snow begins in earnest. It is petition and not command, and a shrine that has worked it and been wrong says so in the register.
 
-The road-rite is the [[affiliation-pavanajitras|Pavanajitras]]', worked at a height where the [[affiliation-pavanajitras|Wandering Wind]] is not a figure of speech. A caravan takes it at the summit before it begins the descent and pays what it chooses. This is the one Varnaka practice the [[affiliation-osketguides|Ösket]] and the [[affiliation-hvarnguides|Hvarn]] respect, and they respect it because they have watched it work in weather they know better than anyone alive.
+The road-rite is the [[affiliation-pavanajitras|Pavanajitras]]', worked at a height where the [[affiliation-pavanajitras|Wandering Wind]] is not a figure of speech. A caravan takes it at the summit before it begins the descent and pays what it chooses. This is the one Varnuka practice the [[affiliation-osketguides|Osket]] and the [[affiliation-hvarnguides|Hvarn]] respect, and they respect it because they have watched it work in weather they know better than anyone alive.
 
 ### The Refusal
 
 A shrine may withhold the summit blessing. A refusal is rare, is never explained, and cannot be appealed to any court below the cols. A caravan that goes down unblessed finds the guide-peoples unwilling to take it, and no lowland authority has ever found a way to compel either party.
 
-The shrines also refuse to bless certain days that no almanac marks, and they will not say which days or why. That refusal is the one point on which the [[affiliation-ganakashala|Ganaka-shala]] and the shrines are flatly at odds: a reckoner's objection is that the days are not in the tables, and a shrine's answer is that the tables were not computed on the col.
+The shrines also refuse to bless certain days that no almanac marks, and they will not say which days or why. That refusal is the one point on which the [[affiliation-ganakashala|Ganoka-shalda]] and the shrines are flatly at odds: a reckoner's objection is that the days are not in the tables, and a shrine's answer is that the tables were not computed on the col.
 
 ### Orthodoxy, and What Is Done Anyway
 
-Their orthodoxy is exact and their practice is not. A great deal of what is done at a Pass-Shrine has no warrant in any text a lowland academy would accept—the fire-watch through the closed months, the count of the dead kept by name on the cistern wall, the refusals. The [[affiliation-trimurtisampradaya|Council of the Triyāchāryas]] has never pressed the point, and the reason is the reason it always is: these are the only priests willing to do the job.
+Their orthodoxy is exact and their practice is not. A great deal of what is done at a Pass-Shrine has no warrant in any text a lowland academy would accept—the fire-watch through the closed months, the count of the dead kept by name on the cistern wall, the refusals. The [[affiliation-trimurtisampradaya|Council of the Triyacharyas]] has never pressed the point, and the reason is the reason it always is: these are the only priests willing to do the job.
 
 ### See Also
 
 - [[place-pssshrines|The Pass-Shrines]]—the five temples themselves
-- [[affiliation-varakpnthn|Varnaka Pantheon]]—the cycle-gods
-- [[affiliation-meghanatha|Meghanātha]]—the weather-rite's god
+- [[affiliation-varakpnthn|Varnuka Pantheon]]—the cycle-gods
+- [[affiliation-meghanatha|Meghonata]]—the weather-rite's god
 - [[affiliation-pavanajitras|Pavanajitras]]—the road-rite's
-- [[affiliation-osketguides|The Ösket]] · [[affiliation-hvarnguides|The Hvarn]]—the guide-peoples who take the blessing seriously
+- [[affiliation-osketguides|The Osket]] · [[affiliation-hvarnguides|The Hvarn]]—the guide-peoples who take the blessing seriously

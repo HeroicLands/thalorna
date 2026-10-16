@@ -97,7 +97,7 @@ sohl:
     - name: Inkwell and quills
       type: miscgear
       system: {shortcode: inkwellandquills, weight: 1, value: 100, durability: 3}
-    - name: Silver crescent-moon amulet (Lîzêlâs cult token)
+    - name: Silver crescent-moon amulet (Lizelas cult token)
       type: miscgear
       system: {shortcode: silvercrescentmoon, weight: 1, value: 100, durability: 3}
     - {model: sohl-sohl-containergear-backpk}
@@ -427,11 +427,11 @@ Damáklios stands 5'6" tall with a medium build. He has light tanned skin, greyi
 
 # Dossier {#dossier}
 
-Damáklios Bridutis was born in the [[affiliation-byzarianlg|Byzarian League]] to a family of skilled artisans—his father a mapmaker of modest renown, his mother a weaver of great ability. He showed early talent for drawing and composition, and by his teens, he had begun apprenticing formally with the **Cartographers' Guild**. His training under **Master Cartographer Khelilazul Frizipáhr** was rigorous and exacting; Khelilazul demanded precision to the point of obsession, absolute fidelity to source material, and the integration of artistic sensibility with mathematical accuracy. By his twenties, Damáklios had become a skilled cartographer, creating maps commissioned by merchant houses, the League's administrative bodies, and wealthy collectors.
+Damáklios Bridutis was born in the [[affiliation-byzarianlg|Bizarian League]] to a family of skilled artisans—his father a mapmaker of modest renown, his mother a weaver of great ability. He showed early talent for drawing and composition, and by his teens, he had begun apprenticing formally with the **Cartographers' Guild**. His training under **Master Cartographer Kelilazul Frizipáhr** was rigorous and exacting; Kelilazul demanded precision to the point of obsession, absolute fidelity to source material, and the integration of artistic sensibility with mathematical accuracy. By his twenties, Damáklios had become a skilled cartographer, creating maps commissioned by merchant houses, the League's administrative bodies, and wealthy collectors.
 
-Yet as his capabilities increased, so did his appetite. He began to recognize that maps were instruments of power as well as documents: they revealed trade routes, revealed the locations of resources, revealed vulnerabilities in defensive positions. Fifteen years ago, facing financial pressures and an opportunity for very high pay, he began accepting commissions from less scrupulous sources—merchant lords engaged in smuggling, foreign powers interested in Byzarian military positions, organized crime syndicates seeking to understand territorial control and opportunity. The money was extraordinary, far exceeding what legitimate cartography could provide. He constructed an elaborate mental framework to justify these sales: he was simply providing accurate information; he was not responsible for how others chose to use his maps; merchants and nations acted as they always had, maps merely making their actions easier.
+Yet as his capabilities increased, so did his appetite. He began to recognize that maps were instruments of power as well as documents: they revealed trade routes, revealed the locations of resources, revealed vulnerabilities in defensive positions. Fifteen years ago, facing financial pressures and an opportunity for very high pay, he began accepting commissions from less scrupulous sources—merchant lords engaged in smuggling, foreign powers interested in Bizarian military positions, organized crime syndicates seeking to understand territorial control and opportunity. The money was extraordinary, far exceeding what legitimate cartography could provide. He constructed an elaborate mental framework to justify these sales: he was simply providing accurate information; he was not responsible for how others chose to use his maps; merchants and nations acted as they always had, maps merely making their actions easier.
 
-Over the past decade, however, the machinery of his justification has begun to crack. The Byzarian League's city guard suspects him of espionage and possible treason. His relationship with the Cartographers' Guild has become strained. Rival cartographers have begun openly questioning his integrity. He has made powerful enemies among the criminal syndicates by occasionally providing information to authorities in attempts to mitigate his own culpability, while simultaneously becoming more dependent on criminal patronage as his legitimate commissions have dried up.
+Over the past decade, however, the machinery of his justification has begun to crack. The Bizarian League's city guard suspects him of espionage and possible treason. His relationship with the Cartographers' Guild has become strained. Rival cartographers have begun openly questioning his integrity. He has made powerful enemies among the criminal syndicates by occasionally providing information to authorities in attempts to mitigate his own culpability, while simultaneously becoming more dependent on criminal patronage as his legitimate commissions have dried up.
 
 ## Psyche
 
@@ -445,7 +445,7 @@ He is haunted by guilt he does not wish to acknowledge—he drinks more than he 
 
 ### Motivation
 
-Damáklios is driven by a complex tangle of motivations. Primarily, he seeks to accumulate sufficient wealth to retire from his current life, to purchase a property in a remote location far from the Byzarian League, and to spend his remaining years engaged in pure cartographic work focused on mapping regions of the world poorly understood—work with no apparent commercial or military application. This dream of escape and redemption through isolation keeps him engaged in darker work even as it repels him morally. Secondarily, he harbors a petty desire for recognition and respect within the Cartographers' Guild, a status that seems increasingly impossible as his espionage becomes more widely suspected. Beyond these surface motivations, he seeks to prove that his understanding of the world—expressed through maps—is superior to that of politicians, generals, and philosophers; he wishes for his work to be recognized as the truest representation of reality.
+Damáklios is driven by a complex tangle of motivations. Primarily, he seeks to accumulate sufficient wealth to retire from his current life, to purchase a property in a remote location far from the Bizarian League, and to spend his remaining years engaged in pure cartographic work focused on mapping regions of the world poorly understood—work with no apparent commercial or military application. This dream of escape and redemption through isolation keeps him engaged in darker work even as it repels him morally. Secondarily, he harbors a petty desire for recognition and respect within the Cartographers' Guild, a status that seems increasingly impossible as his espionage becomes more widely suspected. Beyond these surface motivations, he seeks to prove that his understanding of the world—expressed through maps—is superior to that of politicians, generals, and philosophers; he wishes for his work to be recognized as the truest representation of reality.
 
 ### Strengths
 
@@ -461,13 +461,13 @@ Damáklios is driven by a complex tangle of motivations. Primarily, he seeks to 
 - **Physical Fragility**: He is not physically strong or particularly athletic. His endurance is moderate, and extended physical exertion exhausts him. In any physical confrontation, he would be at severe disadvantage and dependent on others for protection.
 - **Social Dysfunction and Isolation**: His inability to connect with people leaves him isolated and vulnerable to manipulation. He has no true allies, only transactional relationships based on commerce.
 - **Alcoholism and Psychological Deterioration**: He drinks heavily to manage the anxiety and guilt he will not openly acknowledge. His thinking is increasingly clouded by drink, though he believes himself still clear-thinking.
-- **Notoriety and Legal Vulnerability**: The Byzarian League's authorities suspect him of espionage, and his name appears in investigations. Should evidence of his intelligence-selling become conclusive, he faces execution for treason.
+- **Notoriety and Legal Vulnerability**: The Bizarian League's authorities suspect him of espionage, and his name appears in investigations. Should evidence of his intelligence-selling become conclusive, he faces execution for treason.
 
 ## Social
 
 ### Patrons
 
-Military Intelligence Operatives of the Byzarian League
+Military Intelligence Operatives of the Bizarian League
 : The League's military establishment remains his primary legitimate patron, even as they suspect him of selling maps to their enemies. The contradiction remains unresolved because Damáklios's maps are so valuable that the military continues to commission them while simultaneously investigating him.
 
 Merchant-Lord Davos the Uncouth
@@ -478,8 +478,8 @@ Unknown Foreign Power
 
 ### Enemies
 
-The Byzarian League's City Guard (Official)
-: Suspicion of espionage has created an official enmity. Damáklios is being watched, and they have commissioned rival **Cartographer Fruzukáz Selvâzhazát** to produce competing maps to verify whether Damáklios's accuracy is skill or potentially involves access to classified information.
+The Bizarian League's City Guard (Official)
+: Suspicion of espionage has created an official enmity. Damáklios is being watched, and they have commissioned rival **Cartographer Fruzukáz Selvazhazát** to produce competing maps to verify whether Damáklios's accuracy is skill or potentially involves access to classified information.
 
 Rival Cartographer Fruzukáz
 : A talented but jealous competitor who suspects Damáklios of receiving commissions through underhanded means. Fruzukáz has been cultivating relationships with city guard officials and spreading insinuations about Damáklios's integrity.
@@ -489,10 +489,10 @@ The Theft Syndicate of the Eastern Docks
 
 ### Affiliations
 
-Cartographers' Guild of the Byzarian League
+Cartographers' Guild of the Bizarian League
 : His official affiliation, though increasingly tenuous. The guild knows of suspicions against him but maintains his membership pending formal charges.
 
-Lîzêlâs's Mystery Cults
+Lizelas's Mystery Cults
 : His crescent moon tattoo marks him as formally initiated into one of the fertility mystery cults. The cult provides some spiritual comfort and occult understanding, though his involvement has become more distant over the years.
 
 The Black Ledger (Underground Cartography Network)
@@ -500,9 +500,9 @@ The Black Ledger (Underground Cartography Network)
 
 ## Plot Hooks
 
-1. **The Compromised Archives**: The Byzarian League's Cartographic Archive—the repository of the League's most valuable and sensitive maps, some dating back centuries—is discovered to have been compromised. Several maps have been stolen; others have been copied. The city guard's investigation leads inevitably to Damáklios, who had access to the archive as a commissioned artist tasked with creating updated versions of classical maps. He is arrested and brought in for interrogation, even though the actual theft was orchestrated by agents of a foreign power. Damáklios must either confess to espionage work that he theoretically did not commit, thereby becoming scapegoat for a crime beyond his involvement, or maintain innocence while evidence circumstantially connects him to the theft. His actual espionage work—selling maps to foreign powers—remains undiscovered but vulnerable to exposure during investigation.
+1. **The Compromised Archives**: The Bizarian League's Cartographic Archive—the repository of the League's most valuable and sensitive maps, some dating back centuries—is discovered to have been compromised. Several maps have been stolen; others have been copied. The city guard's investigation leads inevitably to Damáklios, who had access to the archive as a commissioned artist tasked with creating updated versions of classical maps. He is arrested and brought in for interrogation, even though the actual theft was orchestrated by agents of a foreign power. Damáklios must either confess to espionage work that he theoretically did not commit, thereby becoming scapegoat for a crime beyond his involvement, or maintain innocence while evidence circumstantially connects him to the theft. His actual espionage work—selling maps to foreign powers—remains undiscovered but vulnerable to exposure during investigation.
 
-2. **The Mapmaker's Betrayal**: One of the maps Damáklios created and sold to criminal interests is now being used to coordinate what appears to be a major organized crime operation within the city—one involving slavery, exploitation, and political manipulation. **Herald [[being-carengrvth|Kárenna Gráveth]]** discovers the conspiracy and—while investigating—discovers that the map documenting the operation was created by Damáklios. She approaches him with an ultimatum: either he provides detailed information about his espionage network, his patrons, and the maps he has sold to hostile interests, thereby assisting in dismantling the criminal operation, or she delivers evidence of his involvement to the city guard, resulting in his execution.
+2. **The Mapmaker's Betrayal**: One of the maps Damáklios created and sold to criminal interests is now being used to coordinate what appears to be a major organized crime operation within the city—one involving slavery, exploitation, and political manipulation. **Herald [[being-carengrvth|Kárenna Graveth]]** discovers the conspiracy and—while investigating—discovers that the map documenting the operation was created by Damáklios. She approaches him with an ultimatum: either he provides detailed information about his espionage network, his patrons, and the maps he has sold to hostile interests, thereby assisting in dismantling the criminal operation, or she delivers evidence of his involvement to the city guard, resulting in his execution.
 
 3. **The Perfect Map**: A mysterious patron commissions Damáklios to create a map of extraordinary specificity and detail—they want him to chart every significant location, building, and structure in the city, along with notations about security, value, and movement patterns. The commission is extraordinarily lucrative, but Damáklios recognizes that such a map could be used to coordinate a systematic robbery of the entire city's wealth, or worse, to stage a coup. Yet the patron hints that refusing the commission will result in catastrophic consequences for people Damáklios cares about (his elderly mother, his former mentor in the Cartographers' Guild). He must either refuse and face uncertain retaliation, create a falsified version of the map, or commit to participation in what may become a coordinated crime/rebellion of unprecedented scale.
 

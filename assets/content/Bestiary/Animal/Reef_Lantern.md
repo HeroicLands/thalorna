@@ -161,7 +161,7 @@ On a dark night the water over the shallow reef is lit from below. A pale glow d
 
 # Dossier {#dossier}
 
-The Reef Lantern, _vaelvanu_ in [[skill-kalihrlng|Kalihári]], "gleam on the water", is a drifting, bell-shaped sea animal two to three feet across with trailing filaments, that gives back a pale glow when disturbed. It lives in the shoals and reefs of the eastern approaches and along the islet coasts. A shoal gathers over the shallowest reefs at night and lights the water. Its filaments sting hard, and swimmers are advised to leave it alone. It is a hazard to a swimmer and a mark to a pilot, and it is not an opponent in the way an animal with a mouth is.
+The Reef Lantern, _vaelvanu_ in [[skill-kalihrlng|Kalihari]], "gleam on the water", is a drifting, bell-shaped sea animal two to three feet across with trailing filaments, that gives back a pale glow when disturbed. It lives in the shoals and reefs of the eastern approaches and along the islet coasts. A shoal gathers over the shallowest reefs at night and lights the water. Its filaments sting hard, and swimmers are advised to leave it alone. It is a hazard to a swimmer and a mark to a pilot, and it is not an opponent in the way an animal with a mouth is.
 
 ## Presentation
 
@@ -177,7 +177,7 @@ By day a lantern sinks to the reef and hangs in the shade. At night it rises and
 
 ## What the Islanders Do
 
-The pilots of [[place-telvari|Telvári]] read the lanterns as a reef marker: the reefs that show nothing on the surface are shown by a glow on dark nights, and a pilot who knows the shoals brings a hull through on that and the current. Fishermen net round a shoal and leave it. A lantern the sea throws up on the beach is left for the tide.
+The pilots of [[place-telvari|Telvari]] read the lanterns as a reef marker: the reefs that show nothing on the surface are shown by a glow on dark nights, and a pilot who knows the shoals brings a hull through on that and the current. Fishermen net round a shoal and leave it. A lantern the sea throws up on the beach is left for the tide.
 
 ## Signs
 

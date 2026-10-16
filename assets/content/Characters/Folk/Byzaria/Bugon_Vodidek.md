@@ -1,9 +1,9 @@
 ---
 shortcode: bugonvodidek
-name: {full: Bugon Vodídek, aliases: []}
+name: {full: Bugon Vodidek, aliases: []}
 type: being
 subType: npc
-description: The deceased uncle of Stemios Hodíkot, proprietor of the celebrated inn called the Starlight Crown.
+description: The deceased uncle of Stemios Hodikot, proprietor of the celebrated inn called the Starlight Crown.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Bugon Vodídek was a 52-year-old man who stood 5'11" tall with a massive build. He had tanned skin, sun-kissed complexion, black hair, and dark brown eyes.
+Bugon Vodidek was a 52-year-old man who stood 5'11" tall with a massive build. He had tanned skin, sun-kissed complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Bugon Vodídek was the proprietor of the celebrated inn called the Starlight Crown. He was the mother's brother of [[being-ftnshdkt|Stemios Hodíkot]], who apprenticed with him and inherited the inn at his death.
+Bugon Vodidek was the proprietor of the celebrated inn called the Starlight Crown. He was the mother's brother of [[being-ftnshdkt|Stemios Hodikot]], who apprenticed with him and inherited the inn at his death.

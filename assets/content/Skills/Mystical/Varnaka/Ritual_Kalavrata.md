@@ -1,6 +1,6 @@
 ---
 shortcode: kalavrata
-name: {full: "Ritual: Kālavrata", aliases: [Kālavrata, The Gatekeeper of Death]}
+name: {full: "Ritual: Kalavrata", aliases: [Kalavrata, The Gatekeeper of Death]}
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]
@@ -15,13 +15,13 @@ sohl:
     initSkillMult: 0
 ---
 
-## Ritual: Kālavrata
+## Ritual: Kalavrata
 
-- **Rite:** One of Kālavrata's Ordeals for Favor, undertaken beside the dying or the dead. The god grants nothing for it. A person keeps the Ordeal _for_ the threshold
+- **Rite:** One of Kalavrata's Ordeals for Favor, undertaken beside the dying or the dead. The god grants nothing for it. A person keeps the Ordeal _for_ the threshold
 - **Cost:** A stranger's death-bed vigil kept without sleep, speech or flinching; a night alone walking between three villages' cremation grounds; or a year of total silence broken only for the rites of passage
-- **Performed by:** Any Upāsaka; the standing of Vratin, once earned, is held for life and marks the only devotion this god's austerity confers
-- **Licensed by:** No one. Kālavrata has no priesthood of his own, and answers no petition undertaken in hope of one
+- **Performed by:** Any Upasoka; the standing of Vretin, once earned, is held for life and marks the only devotion this god's austerity confers
+- **Licensed by:** No one. Kalavrata has no priesthood of his own, and answers no petition undertaken in hope of one
 
 **The Vigil of Final Breath** attends a dying stranger from the lighting of the threshold lamp to the sounding of the black conch, without sleep, speech or flinching. **The Walk Between Fires** is a night walk, alone, between the cremation grounds of three villages, meditating on what each fire has released. **The Silent Year** is a year of total silence, broken only to speak the rites of passage for the dying. Those are the rites that place the coin of Passage in a hand at cremation.
 
-See [[affiliation-kalavrata|Kālavrata]].
+See [[affiliation-kalavrata|Kalavrata]].

@@ -3,7 +3,7 @@ shortcode: vardainvalleys
 name: {full: The Vardain Valleys, aliases: []}
 type: place
 subType: region
-description: "The high valleys beneath Vorgald—a town, eight villages and some eight and a half thousand people, held by the Khazári and belonging to no Aelwythan realm."
+description: "The high valleys beneath Vorgald—a town, eight villages and some eight and a half thousand people, held by the Khazari and belonging to no Aelwythan realm."
 tags: [region, mountain, valley]
 data:
   demonym: null
@@ -19,7 +19,7 @@ system of high valleys runs down toward the sea cliffs. They hold about **eight 
 kingdom.
 
 No map made at [[place-dunmere|Dunmere]] or [[place-ravenmoor|Ravenmoor]] shows a border here, because
-neither realm has ever been in a position to draw one. The valleys are the Khazári's, and everyone
+neither realm has ever been in a position to draw one. The valleys are the Khazari's, and everyone
 concerned has found it easier not to raise the question.
 
 They are also all that is left free of [[place-vardanreach|Vardanreach]]—and the valleys were part of it. The Vardain
@@ -29,7 +29,7 @@ enslaved the people; a hundred and twenty thousand Vardain are thralls down ther
 the high valleys was a remnant of a remnant.
 
 Eight thousand five hundred people is what is left free of a nation that held a fifth of the island. The valleys
-survived because the Khazári are in them, and the valley folk are entirely clear that this is the only
+survived because the Khazari are in them, and the valley folk are entirely clear that this is the only
 reason.
 
 ## The Country
@@ -75,7 +75,7 @@ Farming this basin should not be possible. At six thousand feet, in a cool marit
 months of season and frost possible in any of them, an unaided human community would starve here inside
 a decade.
 
-It works because the [[lore-flkkhazar|Khazári]] have **engineered the valley**, and the scale of what
+It works because the [[lore-flkkhazar|Khazari]] have **engineered the valley**, and the scale of what
 they have done has no match among human works.
 
 ### The Water
@@ -92,18 +92,18 @@ drained by the valley's own falls, led off along gradients no human surveyor on 
 ### The Heat
 
 This is the work that actually buys the harvest. The growing season is short because the nights are
-cold, so the Khazári built for the nights.
+cold, so the Khazari built for the nights.
 
 The terrace walls are not merely retaining walls. They are **thermal mass**, sited, faced and angled to
 take the day's sun and give it back after dark, and the difference across a walled terrace is enough to
 carry a crop through frosts that would otherwise take it. On the highest and most exposed ground the
-Khazári went further, and there are fields whose ground is warmed from beneath by **air drawn off the
+Khazari went further, and there are fields whose ground is warmed from beneath by **air drawn off the
 deep workings** and carried under them in flues—which is why the upper terraces of
 [[place-highfold|Highfold]] and [[place-dorrin|Dorrin]] ripen anything at all.
 
 ### The Granaries
 
-Four months of growing must feed twelve, four of them snowbound. Every village has a Khazári-adapted
+Four months of growing must feed twelve, four of them snowbound. Every village has a Khazari-adapted
 **granary**: sealed chambers in the rock, dry, vermin-proof, and held at an even temperature by
 ventilation shafts that are still open and still working after an unrecorded number of centuries.
 
@@ -112,14 +112,14 @@ do not.
 
 ### Who Keeps It Working
 
-Not the Vardain. **The Khazári maintain their own works**, and always have.
+Not the Vardain. **The Khazari maintain their own works**, and always have.
 
 Their engineers come down to do it—dredging the channels, clearing the ventilation shafts, re-facing
 the terrace walls, adjusting the gates, opening and closing the flues by the season. They come when the
 work requires it and not when anybody asks, they do not announce themselves, and they go back up when
 they are finished.
 
-This suits both sides exactly. **Engineering is the Khazári trade**, in the way farming is not: they are
+This suits both sides exactly. **Engineering is the Khazari trade**, in the way farming is not: they are
 good at it, they take evident satisfaction in it, and they are deeply unwilling to teach any of it to
 humans. Maintaining a water system for a valley of farmers costs them nothing they mind spending and
 keeps the knowledge where they want it—with them. What they will not do, and have no intention of ever
@@ -144,7 +144,7 @@ happen if it did not. When something breaks they do not attempt it: they report 
 [[place-barakth|Hudhakal]] and wait, and an engineer comes down in a day or a week and it is dealt with.
 
 **And it is dealt with**, which is the part outsiders get wrong when they hear how dependent these
-people are. The dependence runs both ways and the [[lore-flkkhazar|Khazári]] have no more margin than
+people are. The dependence runs both ways and the [[lore-flkkhazar|Khazari]] have no more margin than
 the Vardain do: a failed conduit means a failed harvest, a failed harvest means an empty granary, and an
 empty granary in this basin means **nobody eats—Deep Folk included**. Vorgald cannot import its food
 and will not try. A request for repair is therefore not a petition to a lord who may or may not feel
@@ -154,7 +154,7 @@ Requests are refused only for a reason, and reasons are rare enough that the val
 occasions. What such a reason might be, the Vardain do not speculate about in front of strangers.
 
 The consequence for the Vardain is that they are the only humans in the world for whom the
-[[lore-flkkhazar|Khazári]] are an **ordinary sight**. Children in these valleys grow up seeing Deep Folk
+[[lore-flkkhazar|Khazari]] are an **ordinary sight**. Children in these valleys grow up seeing Deep Folk
 at work in the channels and on the walls. They are taught not to interrupt, not to follow, and not to
 ask what anything is for—and they mostly do not, because it has never occurred to them that a person
 might.
@@ -165,19 +165,19 @@ the tops, with timber, peat and fish besides. The crafts each village is known f
 smithy, the quarry, the mills—are what its people do in the winter and between harvests, not instead
 of farming.
 
-It is enough to feed themselves and to send the Khazári what the Khazári require, which is the whole
+It is enough to feed themselves and to send the Khazari what the Khazari require, which is the whole
 economic purpose of the district.
 
 ## The Settlements
 
 - [[place-vargate|Vargate]]—the town at the foot of the road to the Gate; fifteen hundred people, and
-  the only place where Khazári goods enter human hands.
+  the only place where Khazari goods enter human hands.
 - [[place-barakth|Hudhakal]], the oldest village and the tally-keepers.
-- [[place-vellick|Vellick]], where the smiths are.
+- [[place-vellick|Vellik]], where the smiths are.
 - [[place-stonyhaugh|Stonyhaugh]], the quarry.
 - [[place-highfold|Highfold]], the summer pasture.
 - [[place-kalm|Kalm]], the grain valley.
-- [[place-coldbeck|Coldbeck]], the mills.
+- [[place-coldbeck|Koldbek]], the mills.
 - [[place-dorrin|Dorrin]], the highest, which watches the eastern approaches.
 - [[place-threndale|Threndale]], where the dead go.
 
@@ -186,7 +186,7 @@ economic purpose of the district.
 The Vardain pay no tax to Aldorath, send no levy to anyone, and appear in no realm's population. The
 Synod at Ravenmoor knows exactly how many of them there are and has never published the figure.
 
-On rare occasions—a handful of times in a century—the Khazári deal directly with
+On rare occasions—a handful of times in a century—the Khazari deal directly with
 [[affiliation-kngdmldrth|Aldorath]] or [[affiliation-kingdmdnvr|Dúnavarre]]. Every other transaction in
 the history of the two realms with the Deep Folk has gone through Vardain hands.
 

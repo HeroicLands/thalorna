@@ -3,7 +3,7 @@ shortcode: ironfells
 name: {full: The Ironfells, aliases: []}
 type: place
 subType: feature
-description: "The great eastern range of Aelwyth—running west to east across Stormveld's southern border, then south down the coast to break into the foothills above Dúnavarre, and holding the island's Khazári."
+description: "The great eastern range of Aelwyth—running west to east across Stormveld's southern border, then south down the coast to break into the foothills above Dúnavarre, and holding the island's Khazari."
 tags: [mountain, inland, coastal]
 data:
   demonym: null
@@ -30,7 +30,7 @@ wilderness on either approach. They are the reason the Jarldom's expansion south
 and the reason Aldorath has never seriously attempted to take the north-east back: an army can get
 through, but only in single file, only in summer, and only if nobody is holding the far end.
 
-The passes are watched from the south at [[place-caerwynd|Caerwynd]] and from the north by whichever
+The passes are watched from the south at [[place-caerwynd|Kaerwynd]] and from the north by whichever
 of the jarl's men has currently displeased him.
 
 ## The Rain-Shadow
@@ -43,23 +43,23 @@ driest and warmest ground on Aelwyth**.
 That is why [[place-sunnerslade|Sunnerslade]] grows vines at a latitude that has no business growing
 them, and why Aldorath's wine is worth carrying to the mainland.
 
-## The Khazári
+## The Khazari
 
 Somewhere in the eastern heights, where the range meets the sea cliffs, is
-[[place-vorgald|Vorgald]]—a hold of the [[lore-flkkhazar|Khazári]], the Deep Folk. That it exists
+[[place-vorgald|Vorgald]]—a hold of the [[lore-flkkhazar|Khazari]], the Deep Folk. That it exists
 is known. Very little else is.
 
-They came to this range **around 3100 BF**, while [[lore-khazarturn|Khazártúrn]] still stood and its
+They came to this range **around 3100 BF**, while [[lore-khazarturn|Khazartúrn]] still stood and its
 people were still carrying holds outward from it. Vorgald is the far western end of that reach: a hold
 on an island, across open water, at the edge of the country its founders knew. A hold cannot import
 what it eats, so making one here meant first making farmers beneath it, and the [[lore-vardain|Vardain]]
 of the valleys below have fed this mountain ever since.
 
-The date is approximate and it is the Khazári's; no Aelwythan record goes anywhere near it. What it
-settles is the ground everything else in the island's elder history stands on. Khazártúrn fell seven
+The date is approximate and it is the Khazari's; no Aelwythan record goes anywhere near it. What it
+settles is the ground everything else in the island's elder history stands on. Khazartúrn fell seven
 centuries later and the two elder races stopped dealing with one another everywhere in the world—except here, where they had been living on the same ground for seven hundred years already. That is why
 the [[miscgear-secondvoice|Second Voice]] was to be held in trust on Aelwyth by both races together,
-and why the [[lore-flksinale|Sinalë]] and Khazári of this island attempted a joint kingdom that no
+and why the [[lore-flksinale|Sinale]] and Khazari of this island attempted a joint kingdom that no
 others of their kind have ever tried.
 
 ## See Also

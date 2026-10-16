@@ -1,6 +1,6 @@
 ---
 shortcode: khelamasamuq
-name: {full: Khelama Sa'Muqu, aliases: [Lord Magistrate Khelama]}
+name: {full: Khelama Sa'Muku, aliases: [Lord Magistrate Khelama]}
 type: being
 subType: npc
 description: The city's principal judicial authority, who respects Thotkar Let'Gerau deeply.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Khelama Sa'Muqu is a 59-year-old woman who stands 5'8" tall with a medium build. She has dark brown skin, weathered complexion, black hair, and brown eyes.
+Khelama Sa'Muku is a 59-year-old woman who stands 5'8" tall with a medium build. She has dark brown skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Khelama Sa'Muqu is the lord magistrate and the city's principal judicial authority, who respects [[being-thotkarletgr|Thotkar Let'Gerau]] deeply. Though officially neutral, she consistently favors Thotkar in scheduling and procedural matters and regularly consults him on questions of legal interpretation.
+Khelama Sa'Muku is the lord magistrate and the city's principal judicial authority, who respects [[being-thotkarletgr|Thotkar Let'Gerau]] deeply. Though officially neutral, she consistently favors Thotkar in scheduling and procedural matters and regularly consults him on questions of legal interpretation.

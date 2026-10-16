@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Prescience warns of what is about to happen, moments or days before it does. It is foreknowledge of events close at hand. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.
+Prescience warns of what is about to happen, moments or days before it does. It is foreknowledge of events close at hand. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

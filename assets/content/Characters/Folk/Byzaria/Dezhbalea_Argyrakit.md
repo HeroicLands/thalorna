@@ -1,11 +1,11 @@
 ---
 shortcode: dezhbaleaarg
 name:
-  full: Dezhbâléa Argyrákit
-  aliases: [Lady Investress Dezhbâléa Argyrákit, Investress Dezhbâléa Argyrákit]
+  full: Dezhbalea Argirakit
+  aliases: [Lady Investress Dezhbalea Argirakit, Investress Dezhbalea Argirakit]
 type: being
 subType: npc
-description: A wealthy collector of fine maps and geographical art, named in Bazebos Porfyrákit.
+description: A wealthy collector of fine maps and geographical art, named in Bazebos Porfirakit.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Dezhbâléa Argyrákit is a 55-year-old woman who stands 5'10" tall with a light build. She has light skin, weathered complexion, brown hair, and green eyes.
+Dezhbalea Argirakit is a 55-year-old woman who stands 5'10" tall with a light build. She has light skin, weathered complexion, brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Dezhbâléa Argyrákit is a wealthy collector of fine maps and geographical art. She has become increasingly invested in funding the expeditions of [[being-klnksprfrkt|Bazebos Porfyrákit]], ostensibly for the beauty of his work.
+Dezhbalea Argirakit is a wealthy collector of fine maps and geographical art. She has become increasingly invested in funding the expeditions of [[being-klnksprfrkt|Bazebos Porfirakit]], ostensibly for the beauty of his work.

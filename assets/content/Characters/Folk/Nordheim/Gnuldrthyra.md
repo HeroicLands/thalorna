@@ -1,9 +1,9 @@
 ---
 shortcode: gnuldrthyra
-name: {full: Gnuldrthýra, aliases: [Priest Gnuldrthýra]}
+name: {full: Gnuldrthira, aliases: [Priest Gnuldrthira]}
 type: being
 subType: npc
-description: A priest of Fródvin's Temple who has taken an interest in Svulthýra Sólvargr.
+description: A priest of Frodvin's Temple who has taken an interest in Svulthira Solvargr.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Gnuldrthýra is an 18-year-old woman who stands 5'6" tall with a medium build. She has pale skin, ruddy complexion, red hair, and brown eyes.
+Gnuldrthira is an 18-year-old woman who stands 5'6" tall with a medium build. She has pale skin, ruddy complexion, red hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Gnuldrthýra is a priest of Fródvin's Temple who has taken an interest in [[being-svlthyrslvrgr|Svulthýra Sólvargr]]. She takes an interest in Svulthýra's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings.
+Gnuldrthira is a priest of Frodvin's Temple who has taken an interest in [[being-svlthyrslvrgr|Svulthira Solvargr]]. She takes an interest in Svulthira's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings.

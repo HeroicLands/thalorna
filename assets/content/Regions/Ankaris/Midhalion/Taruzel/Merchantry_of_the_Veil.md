@@ -38,17 +38,17 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The agent wears a ring with a sigil cut into it and says a phrase that sounds like small talk, and if you know the answering phrase, you are doing business with the Merchantry of the Veil. It is the least understood and most whispered-about of Tarûzel's great guilds. Officially it is a trade association of dealers in luxury goods: silks, spices, rare alchemical ingredients, exotic animals and fine art. Unofficially it deals in something worth more, which is information, and where the information trade meets the goods trade it will move cargo the other guilds will not touch.
+The agent wears a ring with a sigil cut into it and says a phrase that sounds like small talk, and if you know the answering phrase, you are doing business with the Merchantry of the Veil. It is the least understood and most whispered-about of Taruzel's great guilds. Officially it is a trade association of dealers in luxury goods: silks, spices, rare alchemical ingredients, exotic animals and fine art. Unofficially it deals in something worth more, which is information, and where the information trade meets the goods trade it will move cargo the other guilds will not touch.
 
 - **Kind:** trade guild in luxury goods, information brokerage and smuggling
-- **Reach:** the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]], with shadow networks across [[place-midhalnrgn|Mídhalión Region]]
-- **Headquarters:** [[affiliation-besikar|Besîkar]] in name; in practice everywhere and nowhere
+- **Reach:** the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], with shadow networks across [[place-midhalnrgn|Mídhalión Region]]
+- **Headquarters:** [[affiliation-besikar|Besikar]] in name; in practice everywhere and nowhere
 
 ## The Veil
 
 The Merchantry cultivates mystery. Its membership rolls are not public, its meetings are private, and its agents identify themselves by sigil rings and coded phrases instead of guild badges. The secrecy is partly affectation, since the luxury trade has always traded on exclusivity, and partly necessity. The Merchantry's real business is brokering connections between people who cannot afford to be seen dealing with each other.
 
-Its clients show what that means. A Vylarian _kurthândôs_ (senator) who needs a message carried to a Tarûzelian rival without either government knowing comes to the Merchantry. So does an [[affiliation-ordoarcanis|Thôrdimâlon]] mage who needs alchemical ingredients banned under imperial law, and so does a fugitive who needs passage out of a Tarûzelian port with no questions asked: the Merchantry knows which captains do not check manifests.
+Its clients show what that means. A Vylarian _kurthos_ (senator) who needs a message carried to a Taruzelian rival without either government knowing comes to the Merchantry. So does an [[affiliation-ordoarcanis|Thordimalon]] mage who needs alchemical ingredients banned under imperial law, and so does a fugitive who needs passage out of a Taruzelian port with no questions asked: the Merchantry knows which captains do not check manifests.
 
 ## Agents
 
@@ -58,10 +58,10 @@ The Merchantry works through agents placed in every port city, caravan stop and 
 
 The other great guilds live with the Merchantry as a tolerated parasite. The [[affiliation-auricompct|Auric Compact]] officially disapproves of its shadowy dealings and quietly buys its information. The [[affiliation-corsairleg|Corsair League]] calls it a pack of spies and smugglers and accepts that some cargoes are more profitably moved in the dark.
 
-Of the three, the Merchantry is the one most likely to approach the crew of the [[affiliation-thetamzir|Tamzîr]] with an offer of work instead of a threat, because a vessel that sails outside the normal guild channels is exactly what its less conventional shipments need.
+Of the three, the Merchantry is the one most likely to approach the crew of the [[affiliation-thetamzir|Tamzir]] with an offer of work instead of a threat, because a vessel that sails outside the normal guild channels is exactly what its less conventional shipments need.
 
 ## See Also
 
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the parent polity
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
 - [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]]—the rival guilds
-- [[affiliation-ordoarcanis|Thôrdimâlon]]—an occasional, unwilling client
+- [[affiliation-ordoarcanis|Thordimalon]]—an occasional, unwilling client

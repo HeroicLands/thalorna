@@ -400,7 +400,7 @@ Vithár yra Hildvith wur Waldburg is a 47-year-old man who stands 6'3" tall and 
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Vithár came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Vithár came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
 
 Vithár grew up in a small village, where he learned the basics of blacksmithing from his father. He later ventured into weaponcrafting and developed a reputation for crafting sturdy, reliable weapons. Vithár focuses on creating functional weapons with no frills, catering mainly to soldiers and mercenaries. He is practical and down-to-earth but often clashes with weaponcrafters who emphasize aesthetics over durability.
 
@@ -434,12 +434,12 @@ Blacksmiths who specialize in decorative weapons.
 
 ## Plot Hooks
 
-1. **The Weaponcrafter (Armorer)'s Dilemma**—Vithár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Weaponcrafter (Armorer)'s Dilemma**—Vithár faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 2. **Old Grudges**—Blacksmiths who specialize in decorative weapons. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 3. **Echoes of the Past**—Something from Vithár's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Vithár depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Vithár depends upon. He must decide whether to adapt, resist, or flee.
 
 5. **The Opportunity**—A chance encounter offers Vithár the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

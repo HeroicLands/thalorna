@@ -212,7 +212,7 @@ The ruin is a ring of fallen stones on a rise in the desert, and on the largest 
 
 # Dossier {#dossier}
 
-The Starcrawler is a rare and strange spirit-being of the night sky: a small, many-legged creature with a clear body full of points of light, that appears where earth and sky come close and watches the stars with a purpose no one has fathomed. It is harmless unless threatened, and it is wholly alien. It does not breed; each is single, and perhaps very old. The place it is met is [[place-beshakan|Beshakan]], the desert of Aû'Khelâthu whose ruins hold the star maps the empire's earliest astronomers carved in the age of the First Tablets, and whose ruins, the astrologers say, hold spirits of the desert and creatures bound to the stars.
+The Starcrawler is a rare and strange spirit-being of the night sky: a small, many-legged creature with a clear body full of points of light, that appears where earth and sky come close and watches the stars with a purpose no one has fathomed. It is harmless unless threatened, and it is wholly alien. It does not breed; each is single, and perhaps very old. The place it is met is [[place-beshakan|Beshakan]], the desert of Au'Khelathu whose ruins hold the star maps the empire's earliest astronomers carved in the age of the First Tablets, and whose ruins, the astrologers say, hold spirits of the desert and creatures bound to the stars.
 
 ## Presentation
 
@@ -220,7 +220,7 @@ A starcrawler is the size of a cat or a small dog, with a long segmented body on
 
 ## In the Land
 
-Beshakan is desert, and the astrologers of Aû'Khelâthu count its deep reaches among the sacred places of their craft: an astrologer who wants to see the sky as the first astronomers recorded it goes deep into Beshakan to read the stones. The starcrawlers are found at those ruins and on the high points round them, the ridges, the standing stones, the tops of ruined walls, and nowhere else that anyone knows. They come out at night and crawl over the carved star maps, matching the lights in their bodies to the carvings and to the sky, and they go into crevices in the stones at dawn. They do not eat that anyone has seen.
+Beshakan is desert, and the astrologers of Au'Khelathu count its deep reaches among the sacred places of their craft: an astrologer who wants to see the sky as the first astronomers recorded it goes deep into Beshakan to read the stones. The starcrawlers are found at those ruins and on the high points round them, the ridges, the standing stones, the tops of ruined walls, and nowhere else that anyone knows. They come out at night and crawl over the carved star maps, matching the lights in their bodies to the carvings and to the sky, and they go into crevices in the stones at dawn. They do not eat that anyone has seen.
 
 ## Key Behaviors
 

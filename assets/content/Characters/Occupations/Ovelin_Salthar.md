@@ -1,6 +1,6 @@
 ---
 shortcode: ovlynslthr
-name: {full: Óvelin Sálthar, aliases: []}
+name: {full: Óvelin Salthar, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -395,11 +395,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Óvelin Sálthar is a 29-year-old woman who stands 5'3" tall and is slender. She has a diamond face with wide-set cheekbones, a narrow forehead, and a sharp jaw that leads to a narrow chin. Her round brown eyes sit beneath thin brows, lending her a candid gaze. A delicate nose and thin lips complete her features. She has fair skin with a smooth complexion. Her blonde hair is swept up and held with carved combs.
+Óvelin Salthar is a 29-year-old woman who stands 5'3" tall and is slender. She has a diamond face with wide-set cheekbones, a narrow forehead, and a sharp jaw that leads to a narrow chin. Her round brown eyes sit beneath thin brows, lending her a candid gaze. A delicate nose and thin lips complete her features. She has fair skin with a smooth complexion. Her blonde hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Óvelin Sálthar came into the world of the chandler through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Óvelin Salthar came into the world of the chandler through a combination of circumstance and aptitude.
 
 Óvelin is a young chandler who recently started her own business after apprenticing with a skilled candle maker. She specializes in creating decorative and scented candles for special occasions and religious ceremonies. Her unique designs have begun attracting attention, though she still struggles to gain a foothold in the market.
 

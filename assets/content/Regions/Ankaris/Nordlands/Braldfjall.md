@@ -16,7 +16,7 @@ Braldfjall is a mountain of the [[place-nrdlndsrgn|Nordlands]] sacred to Svartbr
 
 The temple's high priests decide whom the god has blessed, and they back that judgment with arms, provisions and spiritual guidance. They recognize [[being-vrthrvflmhrt|Vrithorv Flameheart]] as blessed by Svartbrandr and supply him accordingly, so the champion who carries the god's name into a fight is one the temple has chosen to arm.
 
-The ranking priest, **Hofgodi Brildmýl of Braldfjall**, regards [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]] as a potential successor and protects her from political enemies within the faith. That protection is the clearest sign that the faith at Braldfjall has politics of its own.
+The ranking priest, **Hofgudi Brildmil of Braldfjall**, regards [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]] as a potential successor and protects her from political enemies within the faith. That protection is the clearest sign that the faith at Braldfjall has politics of its own.
 
 ## The Name
 

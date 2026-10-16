@@ -11,7 +11,7 @@ A [[place-nrdlndsrgn|Nordlands]] longship carries the work of the people who bui
 
 ## The Crew
 
-The _skipstjóri_ (shipmaster) commands a ship at sea and answers for her in a kingdom's levy. The hands aboard must row, sail, land and fight together, and the shipmaster's skill cannot replace the crew's labor. A jarl's sworn followers may sail beside free people whose fields, crafts and households call them home. Shield-maidens are respected warriors, though uncommon. What a crew member owes and is owed comes from the work done aboard and the promises made for it.
+The _skipstjori_ (shipmaster) commands a ship at sea and answers for her in a kingdom's levy. The hands aboard must row, sail, land and fight together, and the shipmaster's skill cannot replace the crew's labor. A jarl's sworn followers may sail beside free people whose fields, crafts and households call them home. Shield-maidens are respected warriors, though uncommon. What a crew member owes and is owed comes from the work done aboard and the promises made for it.
 
 The hall makes a voyage possible. It supplies stores and shelter, and a jarl's standing can secure goods through [[lore-kinhalcrdt|hall credit]] before the ship returns. The household that tends a holding while its sailors are away bears part of the voyage's cost. An oath of service binds the person who speaks it; it does not erase the obligations owed to dependents ashore.
 
@@ -25,9 +25,9 @@ To a raider, a captive may be a ransom claim or someone to sell. To the person t
 
 ## The Sailing Season
 
-At [[lore-sumarmal|Sumarmál]], ships return to the water and offerings seek a good growing and sailing year. The open season gives crews a chance to trade, raid or carry service along the same routes. It also leaves households to tend fields, stores and the people who depend on them. [[lore-vetrnaetr|Vetrnaetr]] turns attention to preserved food and the coming scarcity. A voyage's gain matters most when the hall must feed those who stayed.
+At [[lore-sumarmal|Somarmál]], ships return to the water and offerings seek a good growing and sailing year. The open season gives crews a chance to trade, raid or carry service along the same routes. It also leaves households to tend fields, stores and the people who depend on them. [[lore-vetrnaetr|Vetrnetr]] turns attention to preserved food and the coming scarcity. A voyage's gain matters most when the hall must feed those who stayed.
 
-Raids from the Nordlands to [[place-aelwyth|Aelwyth]] and [[place-elavendre|Élavendre]], and as far south as [[place-provenzrgn|Provènzia]], happen. Such voyages take stores and time that the hall must reckon against the work left to those ashore.
+Raids from the Nordlands to [[place-aelwyth|Aelwyth]] and [[place-elavendre|Élavendre]], and as far south as [[place-provenzrgn|Provenzia]], happen. Such voyages take stores and time that the hall must reckon against the work left to those ashore.
 
 The north's thin fields and long winters explain the pressure to sail south. They do not turn every voyage into a raid, and they do not excuse what a crew does when it lands. Malagnan sailors trade and negotiate as well as fight; [[place-targud|Targud]]'s frontier calls people to defend forts and settlements. A longship can bring food home by exchange as readily as by force.
 
@@ -35,7 +35,7 @@ The north's thin fields and long winters explain the pressure to sail south. The
 
 On land, the shield-wall asks each fighter to keep a place beside others. The rank depends on people holding together when a neighbor is struck, not on one person's boast of courage. Nordmen also honor rescue and sound judgment; a fighter who breaks a promise to those beside them cannot repair it by taking spoil.
 
-The levy is a public obligation, distinct from a crew's chosen raid. A [[lore-bondirnk|bóndi]] answers the muster and pays the kingdom's dues. A [[lore-hersvaldrnk|hersvald]] leads a district's people to war, while the skipstjóri answers for its ships at sea. The king's _Hirdstjóri_ (marshal) masters the wider muster. In Targud, rotating fort duty is a form of that obligation; on the coast it can call ships and crews away from their ordinary work. A raid can seek gain for those who sail, but a levy claims service under the kingdom's law and the leaders accountable for it.
+The levy is a public obligation, distinct from a crew's chosen raid. A [[lore-bondirnk|bundi]] answers the muster and pays the kingdom's dues. A [[lore-hersvaldrnk|hersvald]] leads a district's people to war, while the skipstjori answers for its ships at sea. The king's _Hirvstjori_ (marshal) masters the wider muster. In Targud, rotating fort duty is a form of that obligation; on the coast it can call ships and crews away from their ordinary work. A raid can seek gain for those who sail, but a levy claims service under the kingdom's law and the leaders accountable for it.
 
 ## See Also
 

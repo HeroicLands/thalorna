@@ -1,9 +1,9 @@
 ---
 shortcode: vylndrkngs
-name: {full: The End of the Vyālendri Kingship, aliases: []}
+name: {full: The End of the Vyalendri Kingship, aliases: []}
 type: lore
 subType: history
-description: "By tradition about 150 AF the line of the eleventh and last Mahārāja of Vyālendra ended, and the Loom-Council took the kings' audience hall and has governed the city from it since."
+description: "By tradition about 150 AF the line of the eleventh and last Maharava of Vyalendra ended, and the Loom-Council took the kings' audience hall and has governed the city from it since."
 tags: [history, vedyara]
 data:
   culture: vedyariclt
@@ -19,7 +19,7 @@ data:
         - affiliation-twilighths
         - place-vyalendraland
       summary: >-
-        The line of the eleventh and last Mahārāja of Vyālendra ends, and the Loom-Council of the chartered shrenīs takes the audience hall of the kings, sets sixty-one seats in a ring where the dais stood, and governs the city-state from it. The king's pleasure-house passes to the Twilight House by a grant it holds and shows to nobody.
+        The line of the eleventh and last Maharava of Vyalendra ends, and the Loom-Council of the chartered shrenis takes the audience hall of the kings, sets sixty-one seats in a ring where the dais stood, and governs the city-state from it. The king's pleasure-house passes to the Twilight House by a grant it holds and shows to nobody.
       standing: single-source
       where:
         locus: [place-vyalendra3]
@@ -46,18 +46,18 @@ data:
           agrees: partly
           withholds: the deed, which the House shows to nobody
       unresolved:
-        - how the last Mahārāja's line ended, which no Loom-Master wants read aloud in the cloth-court
+        - how the last Maharava's line ended, which no Loom-Master wants read aloud in the cloth-court
         - the date, which tradition places in the second century AF and no record fixes
 ---
 
-The guide who takes a visitor up to the palace quarter of [[place-vyalendra3|Vyālendra]] stops at the door of the audience hall and points at the floor. "The dais stood there. They took it out. They left the step." Inside, sixty-one seats stand in a ring, one to each chartered shrenī, and the Speaker of the [[affiliation-vyalendra2|Loom-Council]] addresses them from beside the step and never from on it.
+The guide who takes a visitor up to the palace quarter of [[place-vyalendra3|Vyalendra]] stops at the door of the audience hall and points at the floor. "The dais stood there. They took it out. They left the step." Inside, sixty-one seats stand in a ring, one to each chartered shrena, and the Speaker of the [[affiliation-vyalendra2|Loom-Council]] addresses them from beside the step and never from on it.
 
-The **End of the Vyālendri Kingship** is that hall. The city-state had Mahārājas once, and the line of the eleventh and last of them ended—by tradition about 150 AF, which no record fixes more closely. The Council of the shrenīs took the kings' hall and has governed from it since. The loom villages of [[place-vyalendraland|Vyālendra Land]] have had no king above them for a long age; each answers to the house of the Loom-Master whose shrenī has worked there since anyone can name.
+The **End of the Vyalendri Kingship** is that hall. The city-state had Mahārājas once, and the line of the eleventh and last of them ended—by tradition about 150 AF, which no record fixes more closely. The Council of the shrenis took the kings' hall and has governed from it since. The loom villages of [[place-vyalendraland|Vyalendra Land]] have had no king above them for a long age; each answers to the house of the Loom-Master whose shrena has worked there since anyone can name.
 
-How the line ended is the thing nobody says. The last king laid out a pleasure-house four streets from the hall, and when his line ended it passed to [[affiliation-twilighths|the Twilight House]] by a grant the House holds and shows to nobody. The House is traditionally dated to that same reign, and its principal house, [[place-sandhyagrha|Sandhyāgriha]], is a royal foundation that outlived the court that founded it. The Council has never tested the grant. The reason given is that the deed is sound; the reason understood is that testing it would require an accounting of how the line ended, and no Loom-Master wants that accounting read aloud in the cloth-court.
+How the line ended is the thing nobody says. The last king laid out a pleasure-house four streets from the hall, and when his line ended it passed to [[affiliation-twilighths|the Twilight House]] by a grant the House holds and shows to nobody. The House is traditionally dated to that same reign, and its principal house, [[place-sandhyagrha|Sandyagriha]], is a royal foundation that outlived the court that founded it. The Council has never tested the grant. The reason given is that the deed is sound; the reason understood is that testing it would require an accounting of how the line ended, and no Loom-Master wants that accounting read aloud in the cloth-court.
 
 ## See Also
 
-- [[affiliation-vyalendra2|Vyālendra]]—the city-state the Council governs
-- [[place-vyalendra3|Vyālendra]]—the city and its palace quarter
-- [[affiliation-twilighths|The Twilight House]] · [[place-sandhyagrha|Sandhyāgriha]]—the House and the king's pleasure-house
+- [[affiliation-vyalendra2|Vyalendra]]—the city-state the Council governs
+- [[place-vyalendra3|Vyalendra]]—the city and its palace quarter
+- [[affiliation-twilighths|The Twilight House]] · [[place-sandhyagrha|Sandyagriha]]—the House and the king's pleasure-house

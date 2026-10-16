@@ -1,6 +1,6 @@
 ---
 shortcode: vrldrvdrtgr
-name: {full: Vruldorv Dróttgar, given: Vruldorv, clan: Dróttgar, aliases: []}
+name: {full: Vruldorv Drottgar, given: Vruldorv, clan: Drottgar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, soldiery]
@@ -412,7 +412,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vrldrvdrtgr|Vruldorv Dróttgar]]{float=top-left}
+![[vrldrvdrtgr|Vruldorv Drottgar]]{float=top-left}
 
 Vruldorv stands 5'11" tall with a medium build. He has light fair skin, red hair, and hazel eyes. His features include an angular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and thick brows. He has a scar on his left shoulder.
 
@@ -422,7 +422,7 @@ Vruldorv stands 5'11" tall with a medium build. He has light fair skin, red hair
 
 ### The Boy from Nordheim
 
-Vruldorv was born in the remote northern settlements of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], where the winters are merciless and survival itself is victory. His father, **Inthvir Dróttgar**, was a militia captain; his mother, **Snilthrinna Ironhand**, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Vruldorv began his formal training with the city guard, apprenticed under the stern but capable **Commander Gnurthmýl**, learning the mechanics of combat and the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
+Vruldorv was born in the remote northern settlements of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], where the winters are merciless and survival itself is victory. His father, **Inthvir Drottgar**, was a militia captain; his mother, **Snilthrinna Ironhand**, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Vruldorv began his formal training with the city guard, apprenticed under the stern but capable **Commander Gnurthmil**, learning the mechanics of combat and the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
 
 ### The Long Wars
 
@@ -467,24 +467,24 @@ Vruldorv seeks meaningful work—a cause or purpose greater than the mere accumu
 ### Patrons
 
 The Nordheim Mercenaries' Guild
-: His official employer and the organization that provides most of his contracts; the guild master, **Arnthor Knalthumakh**, values his reliability and occasionally consults him on matters of planning
+: His official employer and the organization that provides most of his contracts; the guild master, **Arnthor Knalthumak**, values his reliability and occasionally consults him on matters of planning
 
 Merchant House Alderthor
 : A prominent trading company that specifically requests Vruldorv for major caravans; their agent, **Lady Hlarthrinna**, has developed respect for his workmanlike approach
 
-Commander Gnurthmýl
+Commander Gnurthmil
 : His aging former mentor, now retired from active service, whom Vruldorv visits regularly and whose counsel he seeks on matters of honor and purpose
 
 ### Enemies
 
-Jarl Snalthselda Gnarthidrokh
+Jarl Snalthselda Gnarthidrok
 : A rival warrior within the guild who views Vruldorv's success as a personal affront and spreads rumors that his reputation is exaggerated; they have not yet come to open conflict
 
 The Blackthorn Bandits
 : An organized band of mountain raiders whose operations Vruldorv has disrupted multiple times, causing significant losses; they have sworn vengeance against the "Northern Ox"
 
-Merchant Lord Snalthmýl the Greedy
-: A crooked trader whose smuggling operations Vruldorv once refused to protect; Snalthmýl now uses his considerable wealth to undermine Vruldorv's reputation
+Merchant Lord Snalthmil the Greedy
+: A crooked trader whose smuggling operations Vruldorv once refused to protect; Snalthmil now uses his considerable wealth to undermine Vruldorv's reputation
 
 ### Affiliations
 
@@ -500,7 +500,7 @@ Nordheim Mercenaries' Guild
 
 2. **The Broken Oath** - A man matching the description of a merchant Vruldorv once failed to protect—someone he believed dead in a bandit attack he couldn't prevent—suddenly appears in a distant town. The man is alive, but bitterness fills his voice; he claims Vruldorv abandoned him for insufficient payment, that the guard captain's failure to pursue bandits deeper was due to mercenary calculations rather than military judgment. Vruldorv must investigate whether he failed this man years ago, and whether his current guilt is justified or manipulated.
 
-3. **The Rival's Downfall** - Jarl Snalthselda Gnarthidrokh is found brutally murdered, and circumstantial evidence points directly at Vruldorv: weapons matching his style, witnesses who swear they saw "the Northern Ox" fleeing the scene. The guild investigates, and Vruldorv must find the true killer while defending himself against guild scrutiny and possible execution. The conspiracy runs deeper than mere rivalry.
+3. **The Rival's Downfall** - Jarl Snalthselda Gnarthidrok is found brutally murdered, and circumstantial evidence points directly at Vruldorv: weapons matching his style, witnesses who swear they saw "the Northern Ox" fleeing the scene. The guild investigates, and Vruldorv must find the true killer while defending himself against guild scrutiny and possible execution. The conspiracy runs deeper than mere rivalry.
 
 4. **The Child of the Frontier** - A desperate refugee from the Wastes arrives seeking Vruldorv's protection, claiming to be his illegitimate daughter from a relationship during the Frontier Conflicts. She is gifted with weapons but emotionally broken, seeking guidance and safety Vruldorv isn't sure how to provide. Her arrival complicates his solitary life and forces him to confront his past, while powerful enemies pursue her for reasons she doesn't fully understand.
 

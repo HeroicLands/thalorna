@@ -3,7 +3,7 @@ shortcode: gnarthorv
 name: {full: Gnarthorv, aliases: [Magistrate Gnarthorv, Lord Magistrate Gnarthorv]}
 type: being
 subType: npc
-description: A lord magistrate and corrupt official who orchestrated Ulthorv Nalthendikh's enslavement.
+description: A lord magistrate and corrupt official who orchestrated Ulthorv Nalthendik's enslavement.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Gnarthorv is a 30-year-old man who stands 6'4" tall with a light build. He has p
 
 # Dossier {#dossier}
 
-Gnarthorv is a lord magistrate and corrupt official who orchestrated [[being-ulthrvnlthndkh|Ulthorv Nalthendikh]]'s enslavement. The enslavement was meant at first to silence Ulthorv about the tunnel collapse, and he now has a financial interest in keeping Ulthorv enslaved and controllable.
+Gnarthorv is a lord magistrate and corrupt official who orchestrated [[being-ulthrvnlthndkh|Ulthorv Nalthendik]]'s enslavement. The enslavement was meant at first to silence Ulthorv about the tunnel collapse, and he now has a financial interest in keeping Ulthorv enslaved and controllable.

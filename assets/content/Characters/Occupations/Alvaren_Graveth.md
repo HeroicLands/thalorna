@@ -1,6 +1,6 @@
 ---
 shortcode: alvrngrvth
-name: {full: Alváren Gráveth, aliases: []}
+name: {full: Alvaren Graveth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Alváren Gráveth is a 36-year-old man who stands 6'2" tall and is broad and solidly built. He has a diamond face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows and give him a guarded gaze. He has a prominent nose and wide lips. He has warm-toned skin with a bronzed complexion. His dark brown hair is cropped short.
+Alvaren Graveth is a 36-year-old man who stands 6'2" tall and is broad and solidly built. He has a diamond face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows and give him a guarded gaze. He has a prominent nose and wide lips. He has warm-toned skin with a bronzed complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Alváren Gráveth is a salter.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Alvaren Graveth is a salter.
 
-Alváren is a seasoned salter who has spent decades perfecting his craft. He runs a large saltworks that supplies salt to several coastal towns. Known for his knowledge of the trade, he often tries different ways of evaporating the brine to produce salts of his own, including flavored varieties. He is respected in the community for his knowledge and often mentors younger salt workers.
+Alvaren is a seasoned salter who has spent decades perfecting his craft. He runs a large saltworks that supplies salt to several coastal towns. Known for his knowledge of the trade, he often tries different ways of evaporating the brine to produce salts of his own, including flavored varieties. He is respected in the community for his knowledge and often mentors younger salt workers.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ He can be set in his ways and struggles with new methods.
 
 ### Motivation
 
-Alváren wants his saltworks to keep supplying the coastal towns, and his knowledge of the craft to pass to the younger salt workers he mentors.
+Alvaren wants his saltworks to keep supplying the coastal towns, and his knowledge of the craft to pass to the younger salt workers he mentors.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ He is highly experienced, skilled in the making of salt, and a good mentor.
 
 ## Social
 
-Alváren belongs to no guild and works on his own.
+Alvaren belongs to no guild and works on his own.
 
 ## Companions
 
 ### Patrons
 
-Alváren's patrons are the merchants and local businesses that buy salt from him in bulk.
+Alvaren's patrons are the merchants and local businesses that buy salt from him in bulk.
 
 ### Enemies
 
@@ -431,12 +431,12 @@ Few; he is generally well respected, though he has competitors in the trade.
 
 ## Plot Hooks
 
-1. **The Salter's Dilemma**—A merchant offers to take Alváren's whole output at a price that would mean cutting off the coastal towns he supplies.
+1. **The Salter's Dilemma**—A merchant offers to take Alvaren's whole output at a price that would mean cutting off the coastal towns he supplies.
 
-2. **Old Grudges**—A competing salter undercuts Alváren's prices with salt he suspects is adulterated.
+2. **Old Grudges**—A competing salter undercuts Alvaren's prices with salt he suspects is adulterated.
 
-3. **Echoes of the Past**—A younger salt worker Alváren once mentored returns with a saltworks of his own and his old master's methods.
+3. **Echoes of the Past**—A younger salt worker Alvaren once mentored returns with a saltworks of his own and his old master's methods.
 
-4. **Shifting Winds**—Political change in Tarvénia threatens the trade Alváren depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Tarvénia threatens the trade Alvaren depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Alváren is offered the salt contract for a whole town, and its price is not named up front.
+5. **The Opportunity**—Alvaren is offered the salt contract for a whole town, and its price is not named up front.

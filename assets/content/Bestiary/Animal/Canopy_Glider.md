@@ -418,7 +418,7 @@ A bough high in the canopy shivers and something pale-bellied lets go of it. It 
 
 # Dossier {#dossier}
 
-The Canopy Glider, _luorithuri_ in [[skill-kalihrlng|Kalihári]], "canopy wind", is a cat-sized, long-limbed mammal of the unbroken canopy over the ridgelines and the lower forest of [[place-klhrcntnnt|Kalihara]]. A loose fold of skin runs from wrist to ankle on each side, and with it the animal launches from a high bough and crosses a hundred yards of forest between trees, steering with a flat tail. It feeds at night on fruit, flower-nectar and insects. It is solitary and silent except in Stillwater, when pairs call across the canopy. It is no danger to anyone, and a traveler on the ridge paths is more likely to hear one land than to see it.
+The Canopy Glider, _luorithuri_ in [[skill-kalihrlng|Kalihari]], "canopy wind", is a cat-sized, long-limbed mammal of the unbroken canopy over the ridgelines and the lower forest of [[place-klhrcntnnt|Kalihara]]. A loose fold of skin runs from wrist to ankle on each side, and with it the animal launches from a high bough and crosses a hundred yards of forest between trees, steering with a flat tail. It feeds at night on fruit, flower-nectar and insects. It is solitary and silent except in Stillwater, when pairs call across the canopy. It is no danger to anyone, and a traveler on the ridge paths is more likely to hear one land than to see it.
 
 ## Presentation
 

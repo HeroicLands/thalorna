@@ -1,9 +1,9 @@
 ---
 shortcode: zarvashkaver
-name: {full: Zarvash Kâveran, aliases: [Tribal Elder Zarvash Kâveran, Tribal Elder Zarvash]}
+name: {full: Zarvash Kaveran, aliases: [Tribal Elder Zarvash Kaveran, Tribal Elder Zarvash]}
 type: being
 subType: npc
-description: A pure-blood Dunhari tribal leader who views the fortress's advancement by merit as a threat to tradition, named in Delânash Ferudân.
+description: A pure-blood Dunhari tribal leader who views the fortress's advancement by merit as a threat to tradition, named in Delanash Ferudan.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zarvash Kâveran is a 59-year-old man who stands 6'1" tall with a light build. He has olive skin, sun-kissed complexion, dark brown hair, and amber eyes.
+Zarvash Kaveran is a 59-year-old man who stands 6'1" tall with a light build. He has olive skin, sun-kissed complexion, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Zarvash Kâveran is a pure-blood Dunhari tribal elder who views the fortress's advancement by merit as a threat to traditional tribal hierarchy. He has begun spreading rumors that [[being-delnshfrdn|Delânash Ferudân]] is an outsider unfit for command and is being used by foreign interests to weaken Dunhari warrior culture, and his campaign has gained traction with conservative tribal factions.
+Zarvash Kaveran is a pure-blood Dunhari tribal elder who views the fortress's advancement by merit as a threat to traditional tribal hierarchy. He has begun spreading rumors that [[being-delnshfrdn|Delanash Ferudan]] is an outsider unfit for command and is being used by foreign interests to weaken Dunhari warrior culture, and his campaign has gained traction with conservative tribal factions.

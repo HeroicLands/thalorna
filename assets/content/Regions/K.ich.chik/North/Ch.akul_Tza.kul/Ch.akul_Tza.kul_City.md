@@ -1,6 +1,6 @@
 ---
 shortcode: chakultzkl2
-name: {full: Ch'akul Tza'kul, aliases: []}
+name: {full: Ch'akul Tsa'kul, aliases: []}
 type: place
 subType: settlement
 description: "The central settlement of the desert barrier, a water-and-trade stop between the tribal north and K'ich'chik."
@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 700}
 
 ## Overview
 
-Water decides everything in **Ch'akul Tza'kul**, the Thirsty Land, and the region's central settlement, about 700 people, lives by that rule. The desert is a barrier of sand seas, mesas and salt flats between the tribal north and K'ich'chik civilization, held by neither wall nor garrison, and claimed by no nation. A caravan crossing it from the northern trading posts to the southern markets takes several weeks.
+Water decides everything in **Ch'akul Tsa'kul**, the Thirsty Land, and the region's central settlement, about 700 people, lives by that rule. The desert is a barrier of sand seas, mesas and salt flats between the tribal north and K'ich'chik civilization, held by neither wall nor garrison, and claimed by no nation. A caravan crossing it from the northern trading posts to the southern markets takes several weeks.
 
 ## Posts and Oases
 
@@ -22,5 +22,5 @@ A few hardy guides make a living combining knowledge of desert routes with learn
 
 ## See Also
 
-- [[place-chakultzklrgn|Ch'akul Tza'kul Region]]—the desert
+- [[place-chakultzklrgn|Ch'akul Tsa'kul Region]]—the desert
 - [[place-nrthrnkchchk|Northern K'ich'chik]]—the northern frontier it separates from the south

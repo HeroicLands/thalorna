@@ -1,6 +1,6 @@
 ---
 shortcode: wilfrednwl
-name: {full: Wilfred Dunwell, aliases: []}
+name: {full: Mildmund Dunwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Wilfred Dunwell is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has a long face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. His piercing green eyes sit beneath arched brows and give him a penetrating gaze. He has a rounded nose and curved lips. He has fair skin with a weathered complexion. His brown hair is short and swept back.
+Mildmund Dunwell is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has a long face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. His piercing green eyes sit beneath arched brows and give him a penetrating gaze. He has a rounded nose and curved lips. He has fair skin with a weathered complexion. His brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wilfred Dunwell is a herder.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Mildmund Dunwell is a herder.
 
-Wilfred comes from a family of herders, and has spent his life tending cattle and sheep. Known for his strength and resilience, he can handle the hardest work that herding brings. He has a deep understanding of the weather and what it does to livestock, and lets it guide his practice. For all his ruggedness he has a soft spot for his animals, and often talks to them as if they were companions.
+Mildmund comes from a family of herders, and has spent his life tending cattle and sheep. Known for his strength and resilience, he can handle the hardest work that herding brings. He has a deep understanding of the weather and what it does to livestock, and lets it guide his practice. For all his ruggedness he has a soft spot for his animals, and often talks to them as if they were companions.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ He is stubborn about traditional methods, and can be overly protective of his fl
 
 ### Motivation
 
-Wilfred wants his animals brought through every winter, and the herding done as his family has always done it.
+Mildmund wants his animals brought through every winter, and the herding done as his family has always done it.
 
 ### Strengths
 
@@ -417,13 +417,13 @@ He is strong and resilient, knows the weather, and is an excellent problem solve
 
 ## Social
 
-Wilfred belongs to no guild and works independently.
+Mildmund belongs to no guild and works independently.
 
 ## Companions
 
 ### Patrons
 
-Wilfred's patrons are the local farmers who value his skill in livestock care.
+Mildmund's patrons are the local farmers who value his skill in livestock care.
 
 ### Enemies
 
@@ -431,12 +431,12 @@ None; he is respected in his community for his dedication.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma**—A farmer who pays for Wilfred's help asks him to drive his beasts through weather Wilfred can read as deadly, and the man will not wait.
+1. **The Herder's Dilemma**—A farmer who pays for Mildmund's help asks him to drive his beasts through weather Mildmund can read as deadly, and the man will not wait.
 
-2. **Old Grudges**—Wilfred has no enemies, though a farmer whose stock died in a storm he foretold has found it easier to blame the herder than the weather.
+2. **Old Grudges**—Mildmund has no enemies, though a farmer whose stock died in a storm he foretold has found it easier to blame the herder than the weather.
 
-3. **Echoes of the Past**—A calf Wilfred raised by hand and sold years ago is found among stolen cattle, and its mark is his.
+3. **Echoes of the Past**—A calf Mildmund raised by hand and sold years ago is found among stolen cattle, and its mark is his.
 
-4. **Shifting Winds**—Political change in Aelwyth threatens the common grazing Wilfred's herds depend on, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Aelwyth threatens the common grazing Mildmund's herds depend on, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A lord offers Wilfred the mastery of all his herds, and the methods the lord wants used are not the ones Wilfred's family has always used.
+5. **The Opportunity**—A lord offers Mildmund the mastery of all his herds, and the methods the lord wants used are not the ones Mildmund's family has always used.

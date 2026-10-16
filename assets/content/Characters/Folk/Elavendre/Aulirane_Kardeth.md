@@ -1,9 +1,9 @@
 ---
 shortcode: auliranekard
-name: {full: Áuliranë Kárdeth, aliases: [Lady Áuliranë of Kárdeth, Lady Áuliranë]}
+name: {full: Áulirane Kardeth, aliases: [Lady Áulirane of Kardeth, Lady Áulirane]}
 type: being
 subType: npc
-description: A young noblewoman of Áelendan ancestry who holds the noble seat of Kárdeth near Liranel, and who seeks out Mélrik Sálvin for discreet remedies.
+description: A young noblewoman of Áelendan ancestry who holds the noble seat of Kardeth near Liranel, and who seeks out Melrik Salvin for discreet remedies.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Áuliranë Kárdeth is a 21-year-old woman who stands 5'5" tall with a medium build. She has light skin, smooth complexion, brown hair, and blue eyes.
+Áulirane Kardeth is a 21-year-old woman who stands 5'5" tall with a medium build. She has light skin, smooth complexion, brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Áuliranë Kárdeth is a young noblewoman of Áelendan ancestry who holds the noble seat of Kárdeth near Liranel. She is intelligent and ambitious, and she seeks out the alchemist [[being-belrkflwyn|Mélrik Sálvin]] for discreet remedies.
+Áulirane Kardeth is a young noblewoman of Áelendan ancestry who holds the noble seat of Kardeth near Liranel. She is intelligent and ambitious, and she seeks out the alchemist [[being-belrkflwyn|Melrik Salvin]] for discreet remedies.

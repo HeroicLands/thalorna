@@ -1,9 +1,9 @@
 ---
 shortcode: trupaziosdra
-name: {full: Trupazios Dragídek, aliases: [Bishop Trupazios Dragídek]}
+name: {full: Trupazios Dragidek, aliases: [Bishop Trupazios Dragidek]}
 type: being
 subType: npc
-description: A conservative religious figure who views Bazîa Lokios's changes to ritual as heretical.
+description: A conservative religious figure who views Bazia Lokios's changes to ritual as heretical.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Trupazios Dragídek is a 60-year-old man who stands 5'11" tall with a light build. He has light skin, weathered complexion, dark brown hair, and green eyes.
+Trupazios Dragidek is a 60-year-old man who stands 5'11" tall with a light build. He has light skin, weathered complexion, dark brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Trupazios Dragídek is a conservative bishop. He views the changes that [[being-helnmystks|Bazîa Lokios]] has made to ritual as heretical departures from proper practice and works to limit her authority and influence.
+Trupazios Dragidek is a conservative bishop. He views the changes that [[being-helnmystks|Bazia Lokios]] has made to ritual as heretical departures from proper practice and works to limit her authority and influence.

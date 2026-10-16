@@ -3,7 +3,7 @@ shortcode: karvashion
 name: {full: Karvashion, aliases: []}
 type: affiliation
 subType: polity
-description: "Green-land city-state of the Byzarian League at the junction of the eastern and southern caravan roads—an inland caravanserai city with a reputation for gardeners, merchants, and peaceful culture."
+description: "Green-land city-state of the Bizarian League at the junction of the eastern and southern caravan roads—an inland caravanserai city with a reputation for gardeners, merchants, and peaceful culture."
 data:
   templatePriority: null
   demonym: Karvashian
@@ -82,7 +82,7 @@ The Dunhari and Khazryni merchants who keep permanent trading quarters in the ci
 
 ## Relations
 
-Karvashion has a stronger eastern character than the other League cities, and [[affiliation-ashanpnthn|Āsháian]] worship has a significant following in it, above all among the Dunhari and Khazryni merchants. The city-state is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon]]; its reputation is for gardeners, merchants and a peaceful culture.
+Karvashion has a stronger eastern character than the other League cities, and [[affiliation-ashanpnthn|Ashaian]] worship has a significant following in it, above all among the Dunhari and Khazryni merchants. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]; its reputation is for gardeners, merchants and a peaceful culture.
 
 Its closest tie is to the [[place-southrnmrch|Southern March]], whose lord holds the Dunhara road. The caravansary masters depend on the March to keep that road open and its wells clean, and they pay for it in tolls and in gifts to the lord. The lord in turn depends on Karvashion for grain, coin and a market for the March's wool, and both would rather the League council did not look closely at how the road's revenue is divided.
 
@@ -92,8 +92,8 @@ Karvashion uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogde
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—the confederation
-- [[place-byzariargn|Byzaría Region]]—the League's country
+- [[affiliation-byzarianlg|Bizarian League]]—the confederation
+- [[place-byzariargn|Bizaria Region]]—the League's country
 - [[place-karvashion2|Karvashion]]—the city and its bazaars
 - [[place-southrnmrch|Southern March]]—the dry upland on its road to Dunhara
-- [[affiliation-khryshteikhos|Khrýshteíkhos]], [[affiliation-nesthiros|Nêsthiros]], [[affiliation-argyrteikhos|Argýrteíkhos]], [[affiliation-orashion|Órashion]]—the other four city-states
+- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]—the other four city-states

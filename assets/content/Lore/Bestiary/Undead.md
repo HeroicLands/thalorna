@@ -20,21 +20,21 @@ A ghost is not one of the undead. The soul of someone who has died sometimes sta
 
 ## The Learned Terms
 
-Wherever the dead are studied—by scholars, priests, physicians and arcanists, on [[place-ankrscntnnt|Ankaris]] and on [[place-xerathia|Xerathia]] alike—the two kinds of undead are named in two Khelâthi words, used unglossed and set against whatever the local folklore calls them. The words are Khelâthi because [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] is the oldest of the cultures and its funerary texts are the oldest writing on the dead: every later scholarly tradition learned to classify the dead from copies of them, and took the classification's vocabulary along with it.
+Wherever the dead are studied—by scholars, priests, physicians and arcanists, on [[place-ankrscntnnt|Ankaris]] and on [[place-xerathia|Zerathia]] alike—the two kinds of undead are named in two Khelathi words, used unglossed and set against whatever the local folklore calls them. The words are Khelathi because [[affiliation-empireakhlth|Empire of Au'Khelathu]] is the oldest of the cultures and its funerary texts are the oldest writing on the dead: every later scholarly tradition learned to classify the dead from copies of them, and took the classification's vocabulary along with it.
 
 - **Tereb** ("TEH-reb"; plural _terebu_), from the root _t-r-b_, to wear, to cloak: _the cloaked one_. The sentient, self-directed and relatively powerful undead, which wears its former self as a garment and can pass for a living person for a short time and not too closely. The cloak frays under close eyes and long company, because nothing wears it from inside but the will. See [[being-tereb|Tereb]].
 - **Damut** ("dah-MOOT"; plural _damutu_), from the root _d-m-t_, to drive, to goad: _the driven one_. The mindless undead. Nothing in it moves itself; it goes as it is driven, by the one who raised it or by the last hunger left in the meat. No will, so no cloak, so it cannot pass for anything. See [[being-damut|Damut]].
 
 The pairing is the lesson in two words: the one that _wears_, the one that is _driven_.
 
-In Aû'Khelâthu itself the words keep their temple spelling, _terebu_ and _damutu_, with the emphatic consonants the rest of the world dropped; the temple form is the word as Khelâthi speak and write it, and it is invariant in number—one _terebu_, many _terebu_. _Tereb_ and _damut_ are what the rest of the world made of it: the world's plural, _terebu_ and _damutu_, is the Khelâthi word heard without its emphatics, and the world's singular is a back-formation from that plural. At the table the vernacular plurals "terebs" and "damuts" are as correct as anyone needs them to be. The [[skill-khelathlng|Khelâthi Language]] note carries both forms.
+In Au'Khelathu itself the words keep their temple spelling, _terebu_ and _damutu_, with the emphatic consonants the rest of the world dropped; the temple form is the word as Khelathi speak and write it, and it is invariant in number—one _terebu_, many _terebu_. _Tereb_ and _damut_ are what the rest of the world made of it: the world's plural, _terebu_ and _damutu_, is the Khelathi word heard without its emphatics, and the world's singular is a back-formation from that plural. At the table the vernacular plurals "terebs" and "damuts" are as correct as anyone needs them to be. The [[skill-khelathlng|Khelathi Language]] note carries both forms.
 
 ### Folk names
 
 Every region has its own words for the dead that walk, and a scholar sets the learned term beside them rather than replacing them.
 
-- **The [[place-nrdlndsrgn|Nordlands]]** and the [[affiliation-asguardian|Asguardian]] faiths: _Helspawn_ for the undead as a class, from the goddess [[affiliation-nahild|Náhild]]; _nightwight_ for the tereb and _hélthrall_ for the damut. The Faith of Náhild's own liturgy calls its favored terebu [[lore-nagengir|nágengir]] and its damutu [[lore-haugverdir|hrúmverdir]], a word the folk also give to the dead said to keep their own mounds.
-- [[place-kchchkcntnnt|K'ich'chik]]: the _Threshold-Held_, the terebu whose souls [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] holds at the boundary of [[place-chaltzumaq|Ch'al Tz'umaq]].
+- **The [[place-nrdlndsrgn|Nordlands]]** and the [[affiliation-asguardian|Asguardian]] faiths: _Helspawn_ for the undead as a class, from the goddess [[affiliation-nahild|Nahild]]; _nightwight_ for the tereb and _helthrall_ for the damut. The Faith of Nahild's own liturgy calls its favored terebu [[lore-nagengir|nágengir]] and its damutu [[lore-haugverdir|hrúmverdir]], a word the folk also give to the dead said to keep their own mounds.
+- [[place-kchchkcntnnt|K'ich'chik]]: the _Threshold-Held_, the terebu whose souls [[affiliation-pikultzumaq|Pik'ul Ts'umaq]] holds at the boundary of [[place-chaltzumaq|Ch'al Ts'umaq]].
 
 ## The Undead Hierarchy
 

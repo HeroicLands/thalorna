@@ -17,9 +17,9 @@ data:
 
 At Weskskald, the deep-winter evening of family memory, every [[lore-varokhiclt|Varokh]] kindred says its dead, and the saying is the _eldskorn_, the ancestor-tally: one name to a line and one deed to a name, struck out on the hall floor with the butt of a staff by the eldest of each hearth in turn, one stroke to a name, while the hall keeps time with its feet. The tally runs backward, so an event is placed by how far back in it a name falls, and beyond the names whose deeds are remembered the names run on bare ([[lore-wintertally|The Tally of Winters]]).
 
-**The Tally of the Oak Wardens**, _Eichthúl eldskorn_, is the tally of the Eichthúl, the Oak Wardens, whose grove holds the hall-posts of [[place-hrindstead|Hrindstead]]. Settlers out of [[place-nordheim|Nordheim]] planted them there in the first winter of the present age; Mahnulf yra Eichthúl wur Eichrýth, the kindred's War Chief, burned the first stockade, and the second stands on the same posts ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]). The clan's oldest _hróm_ lies under those oaks, inside the ground the settlers walked with fire. No Eichthúl has tended it at Weskmund since, and Erthilda yra Eichthúl wur Eichrýth, the kindred's Shaman, will not cross the settlers' bounds to call its dead home while the posts stand. She keeps their count instead, and says it at Weskskald with nothing after it.
+**The Tally of the Oak Wardens**, _Eichthúl eldskorn_, is the tally of the Eichthúl, the Oak Wardens, whose grove holds the hall-posts of [[place-hrindstead|Hrindstead]]. Settlers out of [[place-nordheim|Nordheim]] planted them there in the first winter of the present age; Mahnulf yra Eichthúl wur Eichreth, the kindred's War Chief, burned the first stockade, and the second stands on the same posts ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]). The clan's oldest _hrum_ lies under those oaks, inside the ground the settlers walked with fire. No Eichthúl has tended it at Weskmund since, and Erthilda yra Eichthúl wur Eichreth, the kindred's Shaman, will not cross the settlers' bounds to call its dead home while the posts stand. She keeps their count instead, and says it at Weskskald with nothing after it.
 
-The tally runs from the four who died since the thaw, through the dead with deeds and the dead whose deeds are lost, to the bare names, "the ones who are the wood", and then turns and says the year's children for the first time. This is the tally as the households of Eichrýth said it in the thirteenth winter of the posts, with the stanza wherever a death earned one, the line the far hearth adds every winter, and the two hearths' disagreement over the dead under the oaks kept as it was spoken.
+The tally runs from the four who died since the thaw, through the dead with deeds and the dead whose deeds are lost, to the bare names, "the ones who are the wood", and then turns and says the year's children for the first time. This is the tally as the households of Eichreth said it in the thirteenth winter of the posts, with the stanza wherever a death earned one, the line the far hearth adds every winter, and the two hearths' disagreement over the dead under the oaks kept as it was spoken.
 
 : Eichthúl eldskorn {#eichthuleldskorn}
 
@@ -41,7 +41,7 @@ Thalrún, who said these forty winters, and is said.
     so that the words would be ours whatever the gate did. She was dead by the long days.
     The posts are standing.
 
-**Erthric**.
+**Erthrik**.
 
     There is no deed. He was sixteen. He is said.
 
@@ -56,7 +56,7 @@ Those are the four from thaw to thaw. The staff goes back.
     The river fever had him before the leaves.
     The posts are standing.
 
-**Hárskald**, who was Hildskald and recited the burning to the _frath_ every winter after, in the same words,
+**Harskald**, who was Hildskald and recited the burning to the _frath_ every winter after, in the same words,
 and the burning as we have it is in his words.
 **Frithrád**, who brought the _frath_ home.
 
@@ -64,14 +64,14 @@ _The far hearth, every winter:_ Late.
 
 _The eldest:_
 
-**Sundric**, who ate for three and fought for two, and the hall called it a fair bargain.
-**Erthmund**, who carried **Grimric** four miles with an arrow in his own leg and set him down at the wrong hall,
+**Sundrik**, who ate for three and fought for two, and the hall called it a fair bargain.
+**Erthmund**, who carried **Grimrik** four miles with an arrow in his own leg and set him down at the wrong hall,
 
-    and Grimric was fed there a week before anybody came for him, and came home fatter.
+    and Grimrik was fed there a week before anybody came for him, and came home fatter.
 
-**Gárstein**, who left the crossing before the man who was to take it came.
-**Dómrún**, who kept three feuds in her head and untied two, and said the third aloud at the moot so it would not go into the ground with her.
-**Dorgulf**, who swore a _vóra_ before the _frath_ and did not keep it.
+**Garstein**, who left the crossing before the man who was to take it came.
+**Domrún**, who kept three feuds in her head and untied two, and said the third aloud at the moot so it would not go into the ground with her.
+**Dorgulf**, who swore a _vora_ before the _frath_ and did not keep it.
 
 _From the children's bench:_ Is he said?
 
@@ -79,41 +79,41 @@ _The eldest:_
 
 He is said. What the ancestors made of him is theirs. Keep your feet going.
 
-**Edrígar**, who was Other Chief, and heard the cow that two doors claimed, and gave the calf to a third.
+**Edrigar**, who was Other Chief, and heard the cow that two doors claimed, and gave the calf to a third.
 **Arnmund**. **Arnrád**. **Arnhilda**.
 
     Three from one door in one winter, of the cough that came up the river with the grain boats.
     The door stood empty two years. It is not empty now; wait for it.
 
-**Thornwyn**, who came up the river in the bottom of a grain boat and was bought, and is said.
+**Thornwin**, who came up the river in the bottom of a grain boat and was bought, and is said.
 The name she came with went back down the river with the boat.
 
-    The _óthrún_ paid two _skurth_ and an axe for her at the landing, and the boatman wanted three.
-    She had the hall's tongue in a year and the boats in three, and the keys when the _óthrún_ died.
+    The _othrún_ paid two _skurth_ and an axe for her at the landing, and the boatman wanted three.
+    She had the hall's tongue in a year and the boats in three, and the keys when the _othrún_ died.
     Her sons are at this fire, and their sons.
 
 _The far hearth takes the staff._
 
-**Fródwyn**, who was _óthrún_ in the **Winter of the Split Oak**, and portioned.
+**Frodwin**, who was _othrún_ in the **Winter of the Split Oak**, and portioned.
 
     The cold came down in the deep of _grema_ and stayed.
     The great oak at the edge of the grove split from the crown to the root
     with a sound the children took for a shield going, and the men went out armed to it.
-    Fródwyn had the stores. She measured barley by the hand, one hand to each,
+    Frodwin had the stores. She measured barley by the hand, one hand to each,
     the same hand to the hall's slaves, because a slave starved in winter is a hand lost in spring.
     The three seats sat with her and counted, and nobody ate out of turn,
     and she let it be known at the thaw who had asked to.
     Her hand is cut on the store-post. We measure by it still.
     The oak is standing. It leafs on both halves. It is inside their fence.
 
-**Theódmund**, who stopped eating that winter and said so before the hearth first, so that nobody could say afterward he had been made to.
-**Wíthilda**, who kept the _glóth_, and through every night of that cold it did not go out once.
+**Theodmund**, who stopped eating that winter and said so before the hearth first, so that nobody could say afterward he had been made to.
+**Wíthilda**, who kept the _gloth_, and through every night of that cold it did not go out once.
 **Hildris**, who crossed the ice to the Nordmen's farms with _skurth_ and came back with grain, and never said what else she paid.
-**Sundwyn**, who was Skathár, and reckoned the Nordmen's grain against what Hildris carried, and said the sum at the moot, and it was paid.
+**Sundwin**, who was Skathár, and reckoned the Nordmen's grain against what Hildris carried, and said the sum at the moot, and it was paid.
 **Garulf**, and **Hildrún**, and **Skaldár**, who died of the cold and of the hand measure,
 and lay in the hides at the cold end of the hall till the ground gave, and went in together.
 
-**Grimbán**. Grimric. **Grimhilda**. **Grimwyn**.
+**Grimbán**. Grimrik. **Grimhilda**. **Grimwin**.
 
     One door, one opening, four names. They had the far end of the hall.
     The far end is cold now and the hides are kept there.
@@ -124,23 +124,23 @@ _The far hearth:_
 
 Nobody counts them. A number is for furs.
 
-**Thalwyn**, who had the boats.
-**Ríkwyn**.
+**Thalwen**, who had the boats.
+**Rikwin**.
 
-**Hródila**, who came out of the **Eichwern** with the furs and without **Falkwyn**.
-Falkwyn.
+**Hródila**, who came out of the **Eichwern** with the furs and without **Falkwen**.
+Falkwen.
 
     This is the **Drowned Boat at the Eichwern**. The autumn wind came across the lake
     with the year's _skurth_ in the boat, three bales, and the boat went over off the stones.
     Hródila got one bale to the stones. Some say she went back for the second.
-    Some say she went back for Falkwyn, and the lake had her already, and she took the bale because it was there.
+    Some say she went back for Falkwen, and the lake had her already, and she took the bale because it was there.
     The bale fed the hall that winter. That much is not said two ways.
 
 **Waldulf**, who built the boats, and after the Eichwern built them wider.
-**Ermína**, who was Weskár, and named **Athalwin** her apprentice over her own daughter, and said why before the hall.
+**Ermina**, who was Weskár, and named **Athalwin** her apprentice over her own daughter, and said why before the hall.
 Athalwin, who was Weskár after her, and went out to the wesk nine times, and was asked nine times what the dead had said, and nine times said: nothing you may hear.
-**Balthulf**, who was War Chief, and lost the seat at the moot to **Dágrith**, and kept his bench, and ate at Dágrith's fire till he died.
-Dágrith.
+**Balthulf**, who was War Chief, and lost the seat at the moot to **Dagrith**, and kept his bench, and ate at Dagrith's fire till he died.
+Dagrith.
 **Wulfrád**, who raised the first post of this hall the summer the mother village split,
 
     and the feud with the mother village that the split gave us he carried till his death,
@@ -151,7 +151,7 @@ _The far hearth:_
 Now the ones under the oaks. I do not say them.
 
     Every Weskmund since the posts the ground has gone untended.
-    Twelve winters we have not cut the grass off the _hróm_ or taken the dead wood off it,
+    Twelve winters we have not cut the grass off the _hrum_ or taken the dead wood off it,
     and their hall-posts stand where our mothers walked up to the mound with the goods.
     A name said over ground we cannot walk is a name said at a fence.
     When the posts are pulled I will say them, all of them, and the twelve winters they missed, in one night.
@@ -160,7 +160,7 @@ _The eldest:_
 
 Give me the staff.
 
-    Twelve winters unsaid is twelve winters for the _hrág_ to find them.
+    Twelve winters unsaid is twelve winters for the _hrag_ to find them.
     The ones who are the wood already are the wood. A fence does not move a wood.
     It is the near ones, the ones still in their own shape, that a fence can lose,
     because the wesk keeps what is said to it, and what else it keeps we were never told.
@@ -172,18 +172,18 @@ Say them, then. Our feet are still.
 
 _The far hearth keeps its feet still through these._
 
-**Athalric**, who turned the first sod of the _hróm_ under the oaks, and is in it.
+**Athalrik**, who turned the first sod of the _hrum_ under the oaks, and is in it.
 **Athalrún**.
-**Dágwyn**, who carried the goods up to the mound for every funeral of her life and chose them.
+**Dagwin**, who carried the goods up to the mound for every funeral of her life and chose them.
 **Vithmund**, who held the Nordmen at the old ford, in the years of the raiding.
 
     They came up the river at the thaw, for cattle, and he met them at the ford with eleven.
     Six of the eleven are in the mound with him. The Nordmen went home.
     Their grandsons' grandsons came down the road instead, with posts, and did not go home.
 
-**Skaldrún**. **Druthwyn**. **Vrystmund**.
-**Theódric**, who was War Chief for nineteen years and died in his bed, which he said was the deed.
-**Ermawyn**. **Vandhelm**.
+**Skaldrún**. **Druthwin**. **Vristmund**.
+**Theodbán**, who was War Chief for nineteen years and died in his bed, which he said was the deed.
+**Ermawin**. **Vandhelm**.
 **Frithgár**, who was the last laid there, the summer before the posts.
 The posts are standing.
 
@@ -195,51 +195,51 @@ _Nothing is said after it. No feet go while the length of a calling passes, and 
 
 Now the ones whose deeds we have lost. Strike slower. There is nothing to say between.
 
-**Ríkmund**, who did a thing at the ford. The ford is known. The thing is not.
+**Rikmund**, who did a thing at the ford. The ford is known. The thing is not.
 **Brunjara**, whose deed went with the hearth that had it.
 
     That hearth burned in Grimbán's grandmother's time,
     and the names came over to this end of the hall without their lines.
     We have the names. Nobody has gone and got the lines back.
 
-**Hárwyn**, who was at the Eichwern, on the stones or in the boat.
+**Harwen**, who was at the Eichwern, on the stones or in the boat.
 The hearth that knew which is the hearth that burned.
-**Druthulf**. **Thráwyn**. **Frithwyn**. **Garwyn**.
+**Druthulf**. **Thrawin**. **Frithwen**. **Garwin**.
 **Gárhilda**, who had a horse.
-**Erthwyn**.
-**Rádhilda**, who was _óthrún_, or her mother was.
+**Erthwin**.
+**Rádhilda**, who was _othrún_, or her mother was.
 
 Now the ones who are the wood.
 
 **Balthrith**. **Hildwin**.
-**Dómric**. **Dómrica**.
+**Domrik**. **Dómrika**.
 **Vithár**. **Vithilda**.
 **Waldrún**. **Skathrún**.
-**Thráwald**. **Thrárún**. **Wulfstein**. **Thrágrim**.
+**Thrawald**. **Thrarún**. **Wulfstein**. **Thragrim**.
 
-    Before Thrágrim the staff has nothing.
+    Before Thragrim the staff has nothing.
     The names went into the oaks before there was a staff to strike them,
     and whoever first kept the oaks, and was called for it, we say by the keeping: Eichthúl.
 
 Now the staff turns.
 
-**Arnwyn**, born at the thaw, said for the first time.
-**Rádulf**, born in the long days, said for the first time.
-**Fródric**, born at Weskmund, who has the door the cough emptied, said for the first time.
-**Dágrún**, named three nights before this one.
+**Arnwin**, born at the thaw, said for the first time.
+**Skathulf**, born in the long days, said for the first time.
+**Frodrik**, born at Weskmund, who has the door the cough emptied, said for the first time.
+**Dagrún**, named three nights before this one.
 
 Who has them after me?
 
-_**Óthwyn**:_ I have them.
+_**Othwen**:_ I have them.
 
 _The eldest:_ Say the first.
 
-_Óthwyn:_ Thalrún, who said these forty winters, and is said.
+_Othwen:_ Thalrún, who said these forty winters, and is said.
 
 _The eldest:_
 
 That is the first. Where you go wrong, the hall stops its feet.
-The far hearth kept the fire. The children's bench kept the feet. Óthwyn has the names.
+The far hearth kept the fire. The children's bench kept the feet. Othwen has the names.
 Vithskorn cut this staff. Thalrún struck it forty winters. I have struck it one.
 Set it by the fire. Cover the fire. Keep it till morning.
 ```

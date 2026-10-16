@@ -1,6 +1,6 @@
 ---
 shortcode: akhoqu
-name: {full: Akhoqu, aliases: []}
+name: {full: Akhoku, aliases: []}
 type: being
 subType: npc
 description: "A household steward of the capital who competes for the same posts as Githiya Zab'Anlethu, and spreads what he can about her temper"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Akhoqu is a 40-year-old man who stands 6'0" tall with a medium build. He has dark brown skin, black hair, and brown eyes.
+Akhoku is a 40-year-old man who stands 6'0" tall with a medium build. He has dark brown skin, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Akhoqu keeps a household steward's post in the capital while his home stays in [[place-amqelulegez|Amqelu-Legez]]. He competes for the same appointments as Githiya Zab'Anlethu, and the competition is not entirely professional. Anyone who asks him about her hears more about her temper than about the post in question.
+Akhoku keeps a household steward's post in the capital while his home stays in [[place-amqelulegez|Amqelu-Legez]]. He competes for the same appointments as Githiya Zab'Anlethu, and the competition is not entirely professional. Anyone who asks him about her hears more about her temper than about the post in question.

@@ -1,6 +1,6 @@
 ---
 shortcode: akhrethuazar
-name: {full: Akhrethu Azâri, aliases: []}
+name: {full: Akhrethu Azari, aliases: []}
 type: being
 subType: npc
 description: "A hunter of the Zeghet'Nelgu, skilled and a little too sure of it"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Akhrethu Azâri is a 50-year-old man who stands 5'5" tall with a light build. He has dark brown skin, weathered complexion, grey hair, and brown eyes.
+Akhrethu Azari is a 50-year-old man who stands 5'5" tall with a light build. He has dark brown skin, weathered complexion, grey hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Akhrethu Azâri hunts with the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] out of [[place-galezkara|Galezkara]], and the kills bear the skill out. The confidence runs a little ahead of the skill, all the same. Anyone hunting alongside them learns to watch for the gap between what they can do and what they believe they can do.
+Akhrethu Azari hunts with the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] out of [[place-galezkara|Galezkara]], and the kills bear the skill out. The confidence runs a little ahead of the skill, all the same. Anyone hunting alongside them learns to watch for the gap between what they can do and what they believe they can do.

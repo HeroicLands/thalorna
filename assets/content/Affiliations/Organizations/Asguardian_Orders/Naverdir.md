@@ -3,7 +3,7 @@ shortcode: naverdir
 name: {full: "Náverdir", aliases: []}
 type: affiliation
 subType: order
-description: "Guardians and inquisitors of Náhild's hidden hofs."
+description: "Guardians and inquisitors of Nahild's hidden hovs."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
           Cast out of Náverdir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
-          Guards a hidden hof and its rituals, protecting the cult's secrecy without yet standing as its inquisitor.
+          Guards a hidden hov and its rituals, protecting the cult's secrecy without yet standing as its inquisitor.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Leads the order's guard over Náhild's hidden hofs and acts as the cult's own inquisitor.
+          Leads the order's guard over Nahild's hidden hovs and acts as the cult's own inquisitor.
     offices: {}
   seat: null
   population: null
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-What outsiders fear most about a hidden hof of [[lore-nahilddty|Náhild]] is the person who guards it.
+What outsiders fear most about a hidden hov of [[lore-nahilddty|Nahild]] is the person who guards it.
 
-Náverdir, the Keepers of the Abyss, guard the hidden hofs and the rituals kept inside them, and serve as the cult's own inquisitors against anyone who threatens its secrecy. A member protects a sacred site first and its congregation second, and treats the two duties as inseparable.
+Náverdir, the Keepers of the Abyss, guard the hidden hovs and the rituals kept inside them, and serve as the cult's own inquisitors against anyone who threatens its secrecy. A member protects a sacred site first and its congregation second, and treats the two duties as inseparable.

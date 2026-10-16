@@ -22,7 +22,7 @@ The watch at Skraldborg looks at the headland, not the water, and knows the sail
 
 The fort's hersvald holds no district beyond the height and the cove beneath it. His whole claim to the office rests on keeping the watch fires laid and the horn-blower sober, a narrower charge than most hersvaldar carry and no less jealously held.
 
-The cove is deep enough to hide a hull under repair from the open water, which is why [[being-glrvyndhrfnsvld|Glirvynda Hrafnsvald]] keeps her shipwright's yard there and not at a more convenient landing. A damaged ship is a secret worth keeping from anyone who might profit by knowing that a hall's fleet is short a vessel.
+The cove is deep enough to hide a hull under repair from the open water, which is why [[being-glrvyndhrfnsvld|Glirvinda Hrafnsvald]] keeps her shipwright's yard there and not at a more convenient landing. A damaged ship is a secret worth keeping from anyone who might profit by knowing that a hall's fleet is short a vessel.
 
 Skraldborg's tension is the one every watch-post meets. A cry raised too often for a sail that proves friendly costs the hersvald his hearing the one time it matters, and a cry raised too late is not survived to be argued about.
 

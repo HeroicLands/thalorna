@@ -37,7 +37,7 @@ data:
           withholds: that the fire-walking shows what the settlers believe and not that the grove was theirs to take
         - by: lore-varokhiclt
           says: >-
-            The grove is the Eichthúl's, its oldest oaks hold the kindred's spirits and its ground holds the kindred's dead, and no fire walked around it by strangers makes it anybody else's. Mahnulf yra Eichthúl wur Eichrýth burned the first stockade, and Erthilda yra Eichthúl wur Eichrýth, the kindred's Shaman, keeps the count of the dead under the settlers' posts.
+            The grove is the Eichthúl's, its oldest oaks hold the kindred's spirits and its ground holds the kindred's dead, and no fire walked around it by strangers makes it anybody else's. Mahnulf yra Eichthúl wur Eichreth burned the first stockade, and Erthilda yra Eichthúl wur Eichreth, the kindred's Shaman, keeps the count of the dead under the settlers' posts.
           agrees: disputes
           withholds: that the Eichthúl dead have lain unvisited since, because the Shaman will not cross the settlers' bounds to call them
       unresolved:
@@ -49,7 +49,7 @@ The last fenced farm on the [[place-nalthmark|Nalthmark]] road is a day from the
 
 ## The Posts
 
-In 708 a company of Nordheim settlers, younger sons and landless households from halls in the interior that had more people than odal, took down the hall-posts of the halls they were leaving and carried them south down the Nalthmark road, past the last farms of [[place-nordheim|Nordheim]] and into the oak country at the forest's edge. A hall-post carried from an old hall to a new one carries the old hall's luck with it, and a settler who plants it has not left home so much as moved it. They planted their posts in a grove of old oaks a day beyond the last fence, and walked the bounds of the ground with fire, as the faith teaches: the land inside the fire is claimed, and the gods have seen it claimed. The settlers named the place for what they had done, _hrind-_, a thing set down that will not be moved.
+In 708 a company of Nordheim settlers, younger sons and landless households from halls in the interior that had more people than odel, took down the hall-posts of the halls they were leaving and carried them south down the Nalthmark road, past the last farms of [[place-nordheim|Nordheim]] and into the oak country at the forest's edge. A hall-post carried from an old hall to a new one carries the old hall's luck with it, and a settler who plants it has not left home so much as moved it. They planted their posts in a grove of old oaks a day beyond the last fence, and walked the bounds of the ground with fire, as the faith teaches: the land inside the fire is claimed, and the gods have seen it claimed. The settlers named the place for what they had done, _hrind-_, a thing set down that will not be moved.
 
 The grove was not empty ground. It belonged, in the only sense the forest knows, to the **Eichthúl**, a [[lore-varokhiclt|Varokh]] clan, because a Varokh clan's grove holds its shared identity, its oldest trees house its spirits, and no one takes from a protected grove without the shaman's consent. The Eichthúl burned the first stockade. The settlers raised a second on the same posts, which is the Hrindstead a traveler sees today: new timber on old posts, inside a ring of oaks older than either people's claim to them.
 
@@ -61,7 +61,7 @@ Nordheim's account is the settlers' own. The bounds were walked with fire before
 
 The Eichthúl tell it as a theft and a desecration in one. The grove at Hrindstead is the [[lore-varokhiclt|Varokh]] kindred's own: its oldest oaks house the kindred's spirits, its ground holds the kindred's dead, and the Eichthúl kept it with the Shaman's leave for longer than their _eldskorn_ (ancestor tally) remembers names. In 708 strangers planted posts in it and walked fire around it, which in the forest is how a man shows he means to burn something.
 
-**Mahnulf yra Eichthúl wur Eichrýth**, War Chief of the kindred's village, burned the first stockade within the month. The settlers raised the second on the same posts, and Mahnulf has not yet been given the muster he would need to burn it, because the danger is the Eichthúl's and the neighboring villages' elders have not agreed it is theirs. **Erthilda yra Eichthúl wur Eichrýth**, the kindred's Shaman, keeps the count of the Eichthúl dead who lie under the settlers' floors. She will not cross the settlers' bounds to call them home while the posts stand, and she has not called them since 708, so every winter the count is recited at Weskskald with nothing after it. That is the grievance the Eichthúl state first, before the trees and before the ground.
+**Mahnulf yra Eichthúl wur Eichreth**, War Chief of the kindred's village, burned the first stockade within the month. The settlers raised the second on the same posts, and Mahnulf has not yet been given the muster he would need to burn it, because the danger is the Eichthúl's and the neighboring villages' elders have not agreed it is theirs. **Erthilda yra Eichthúl wur Eichreth**, the kindred's Shaman, keeps the count of the Eichthúl dead who lie under the settlers' floors. She will not cross the settlers' bounds to call them home while the posts stand, and she has not called them since 708, so every winter the count is recited at Weskskald with nothing after it. That is the grievance the Eichthúl state first, before the trees and before the ground.
 
 ## What It Left
 
@@ -69,7 +69,7 @@ The Eichthúl tell it as a theft and a desecration in one. The grove at Hrindste
 - **The dead in the grove.** Eichthúl dead lie in the ground under the settlers' posts, and Nordmen have died in the grove since; neither people's rite has been performed for the other's dead, and both know what that leaves.
 - **The road.** The crying child between the last farm and the forest, which settlers and Varokh each blame on the other.
 
-A party on the Nalthmark road can be hired by either side, and the hire will be the same on both: find out what the other side means to do at the next Sumarmál, when the settlers walk their bounds again with fire on ground the Eichthúl have already burned once.
+A party on the Nalthmark road can be hired by either side, and the hire will be the same on both: find out what the other side means to do at the next Somarmál, when the settlers walk their bounds again with fire on ground the Eichthúl have already burned once.
 
 ## See Also
 
@@ -77,4 +77,4 @@ A party on the Nalthmark road can be hired by either side, and the hire will be 
 - [[place-nalthmark|Nalthmark]]—the head of the road
 - [[lore-nrdhmhstry|Histories and Legends of Nordheim]]—Nordheim's telling, and the voice on the road
 - [[lore-varokhiclt|Varokhi]]—the people whose clan claims the grove
-- [[lore-domseycount|The Dómsey Count]]—the Present Reckoning
+- [[lore-domseycount|The Domsey Count]]—the Present Reckoning

@@ -1,6 +1,6 @@
 ---
 shortcode: vszzpm
-name: {full: Visîza Zupûmî, aliases: []}
+name: {full: Visiza Zupumi, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Visîza Zupûmî is a 25-year-old woman who stands 6'3" tall and is of moderate build. She has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a prominent chin. Her round brown eyes sit beneath heavy brows, lending her a candid gaze. A hawkish nose and curved lips complete her features. She has golden skin with a sun-tanned complexion. Her dark brown hair is falling in dark cascades.
+Visiza Zupumi is a 25-year-old woman who stands 6'3" tall and is of moderate build. She has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a prominent chin. Her round brown eyes sit beneath heavy brows, lending her a candid gaze. A hawkish nose and curved lips complete her features. She has golden skin with a sun-tanned complexion. Her dark brown hair is falling in dark cascades.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Visîza Zupûmî came into the world of the bodyguard through a combination of circumstance and aptitude.
+Born in the Taruzel region to a freeman family of Taruzelian heritage, Visiza Zupumi came into the world of the bodyguard through a combination of circumstance and aptitude.
 
-Visîza has spent several years as a bodyguard, specializing in protecting merchants and minor nobility during travel and public appearances. Known for her keen instincts and outstanding combat skills, she has earned a reputation for being a reliable protector. Visîza values loyalty and dedication, often forming close bonds with those she protects. She is trained in both combat and negotiation, ensuring the safety of her clients while maintaining their dignity.
+Visiza has spent several years as a bodyguard, specializing in protecting merchants and minor nobility during travel and public appearances. Known for her keen instincts and outstanding combat skills, she has earned a reputation for being a reliable protector. Visiza values loyalty and dedication, often forming close bonds with those she protects. She is trained in both combat and negotiation, ensuring the safety of her clients while maintaining their dignity.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ Can be overly protective, struggles with vulnerability.
 
 ### Motivation
 
-Visîza is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bodyguard work keep her vigilant and adaptable.
+Visiza is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bodyguard work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -415,15 +415,15 @@ Skilled fighter, observant, good at reading situations.
 
 ## Social
 
-Visîza is affiliated with Local Mercenaries Guild.
+Visiza is affiliated with Local Mercenaries Guild.
 
-As a Tarûzelian bodyguard, Visîza occupies a recognized social niche within Tarûzel society.
+As a Taruzelian bodyguard, Visiza occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Visîza's primary patron is Merchants and minor nobles seeking reliable protection. This relationship provides both opportunity and obligation.
+Visiza's primary patron is Merchants and minor nobles seeking reliable protection. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -431,12 +431,12 @@ Few; respected among peers.
 
 ## Plot Hooks
 
-1. **The Bodyguard's Dilemma**—Visîza faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarûzel.
+1. **The Bodyguard's Dilemma**—Visiza faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Taruzel.
 
 2. **Old Grudges**—Few; respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Visîza's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Visiza's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Visîza depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Visiza depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Visîza the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Visiza the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

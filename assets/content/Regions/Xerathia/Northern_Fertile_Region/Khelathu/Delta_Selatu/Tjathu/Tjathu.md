@@ -17,9 +17,9 @@ data:
 
 ## Overview
 
-"We dry the dead here, in a manner of speaking," says a priest of [[affiliation-wethur|Weth'ûr]] to a visitor who has asked about the white flats at the edge of town. "The natron is ours, and the embalmers of the whole empire buy it." **Tjathu** is the capital of the [[affiliation-selattjathu|Selat of Tjathu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 41,000 on the sea-margin of the delta.
+"We dry the dead here, in a manner of speaking," says a priest of [[affiliation-wethur|Weth'ur]] to a visitor who has asked about the white flats at the edge of town. "The natron is ours, and the embalmers of the whole empire buy it." **Tjathu** is the capital of the [[affiliation-selattjathu|Selat of Tjathu]] and the seat of its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], a town of about 41,000 on the sea-margin of the delta.
 
-It holds the selat's chief temple of Weth'ûr, the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: salt-pans, natron flats, and the curing of the lesser villages' catch.
+It holds the selat's chief temple of Weth'ur, the Halzi'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the selat's: salt-pans, natron flats, and the curing of the lesser villages' catch.
 
 The selat's coast is where the sea-raiders landed in 1960 ST (151 BF); the port they burned lies in the reeds as [[place-zelamqelu|Zel-Amqelu]], and the town's customs patrol still watches that shore ([[lore-searaiders|the Sea-Raiders' Throne]]).
 
@@ -27,6 +27,6 @@ The selat's coast is where the sea-raiders landed in 1960 ST (151 BF); the port 
 
 - [[affiliation-selattjathu|The Selat of Tjathu]]—Parent selat
 - [[affiliation-deltaselatu|The Delta Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
-- [[affiliation-wethur|Faith of Weth'ûr]]—Patron cult
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
+- [[affiliation-wethur|Faith of Weth'ur]]—Patron cult
 - [[place-zelamqelu|Zel-Amqelu]]—the port the sea-raiders burned

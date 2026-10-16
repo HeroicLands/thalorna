@@ -432,7 +432,7 @@ Five years ago, after the death of his father, Hvarnthann briefly returned to Hr
 
 ### Personality
 
-Hvarnthann possesses the easy confidence of a man comfortable in his domain and secure in his competence. He is neither arrogant nor boastful; simply untroubled by doubt. In crisis, he becomes crystalline in focus, his mind operating with preternatural clarity. Outside of emergencies, he is gregarious and quick to laugh, entertaining crew with tales of impossible catches and narrow escapes told with theatrical flair. He views himself as servant of **Sólrún**, goddess of prosperity, and attributes his survival of multiple storms to her grace.
+Hvarnthann possesses the easy confidence of a man comfortable in his domain and secure in his competence. He is neither arrogant nor boastful; simply untroubled by doubt. In crisis, he becomes crystalline in focus, his mind operating with preternatural clarity. Outside of emergencies, he is gregarious and quick to laugh, entertaining crew with tales of impossible catches and narrow escapes told with theatrical flair. He views himself as servant of **Solrún**, goddess of prosperity, and attributes his survival of multiple storms to her grace.
 
 His philosophy is fundamentally practical. He sees little point in unnecessary worry or elaborate planning when experience has taught him the sea's true nature—unpredictable, dangerous, beautiful, and ultimately indifferent to human pretense. This makes him seem cavalier to those who don't understand him, though in reality, he has absorbed decades of sea knowledge into instinct that appears intuitive but is grounded in close observation.
 
@@ -460,7 +460,7 @@ Hvarnthann sails because it is what he is—the sea is his whole self as well as
 
 ### Patrons
 
-Captain Gnuldrthann Ilthumakh
+Captain Gnuldrthann Ilthumak
 : A grizzled merchant captain whose aging vessel has become famous across the northern routes. He brings Hvarnthann aboard whenever his schedule allows, calling him "the best navigator in Vithgard's service." Gnuldrthann has twice promoted Hvarnthann to first mate, though Hvarnthann has refused permanent rank.
 
 Merchant Princess Thruldselda
@@ -474,10 +474,10 @@ The Lighthouse Order
 
 ### Enemies
 
-Harbormaster Hrindvir Hvalgendikh
+Harbormaster Hrindvir Hvalgendik
 : An official charged with the ordering of the port in Vithgard's capital. Hrindvir views Hvarnthann as a troublemaker who flouts maritime law and encourages crew insubordination. Their conflicts are frequent and bitter.
 
-Captain Draskselda Thraldidrokh
+Captain Draskselda Thraldidrok
 : A rival sailor who captains a merchant vessel and views Hvarnthann as competition for the most prestigious contracts. Draskselda has twice maneuvered to undercut Hvarnthann's negotiations through lies and political leverage.
 
 The Smugglers' Network
@@ -493,9 +493,9 @@ The Crew of the _Stormrider_
 
 ## Plot Hooks
 
-1. **The Lost Expedition**: A wealthy scholar approaches Hvarnthann with a commission to sail to the Shattered Archipelago in search of **ancient ruins of the Old Kingdom**, believed to hold libraries of lost knowledge. The last expedition to find them vanished seven years ago without sending word. The scholar, **Master Hvirnynda**, is willing to pay extraordinary sums, but Hvarnthann discovers through cautious inquiry that the last crew encountered something in the deep caves that drove survivors mad. The archipelago itself seems to resist mapping—charts reveal contradictory information, and sailors report islands that weren't where they should be. The astronomical pay is set against investigating something that suggests the islands themselves are concealed by magic or a living intelligence.
+1. **The Lost Expedition**: A wealthy scholar approaches Hvarnthann with a commission to sail to the Shattered Archipelago in search of **ancient ruins of the Old Kingdom**, believed to hold libraries of lost knowledge. The last expedition to find them vanished seven years ago without sending word. The scholar, **Master Hvirninda**, is willing to pay extraordinary sums, but Hvarnthann discovers through cautious inquiry that the last crew encountered something in the deep caves that drove survivors mad. The archipelago itself seems to resist mapping—charts reveal contradictory information, and sailors report islands that weren't where they should be. The astronomical pay is set against investigating something that suggests the islands themselves are concealed by magic or a living intelligence.
 
-2. **The Mutiny Prophecy**: Hvarnthann joins the crew of the merchant vessel _Gyllir's Fortune_ under a captain he's worked with before, **Captain Thraskvir Draskendikh**. Everything seems standard until the ship's seer, an ancient woman named **Völva Mervsnerv**, pulls Hvarnthann aside and describes a vivid vision: him standing over Thraskvir's corpse, sword in hand, crew watching in horror. She insists this future is "written in bone and blood" and that it will come to pass within the next lunar cycle. Hvarnthann initially dismisses this as superstition, but when he begins witnessing small events that align with the prophecy's details, doubt creeps in. Meanwhile, tensions simmer among the crew due to Thraskvir's increasingly erratic and brutal leadership. Hvarnthann has to steer between accepting a destiny he doesn't wish to fulfill and preventing a real tragedy born from poor captaincy.
+2. **The Mutiny Prophecy**: Hvarnthann joins the crew of the merchant vessel _Gyllir's Fortune_ under a captain he's worked with before, **Captain Thraskvir Draskendik**. Everything seems standard until the ship's seer, an ancient woman named **Velva Mervsnerv**, pulls Hvarnthann aside and describes a vivid vision: him standing over Thraskvir's corpse, sword in hand, crew watching in horror. She insists this future is "written in bone and blood" and that it will come to pass within the next lunar cycle. Hvarnthann initially dismisses this as superstition, but when he begins witnessing small events that align with the prophecy's details, doubt creeps in. Meanwhile, tensions simmer among the crew due to Thraskvir's increasingly erratic and brutal leadership. Hvarnthann has to steer between accepting a destiny he doesn't wish to fulfill and preventing a real tragedy born from poor captaincy.
 
 3. **The Leviathan's Wake**: Fishing vessels across the northern routes report unprecedented losses—ships returning with massive holes in their hulls, survivors speaking of something colossal moving beneath the waves. Merchant Princess Thruldselda commissions Hvarnthann to investigate and locate this creature before it destroys commerce in her waters. The deeper the investigation goes, the more Hvarnthann realizes this is not a natural creature: ancient texts recovered from sunken ships reference a being of living water called **Maelstrom**, bound by ritual into the depths centuries ago. Its binding appears to be failing, and its awakening could devastate all coastal civilizations. Hvarnthann can attempt the nearly suicidal task of re-binding the creature, seek out the scholar who might know the original ritual, or accept that some forces cannot be stopped.
 

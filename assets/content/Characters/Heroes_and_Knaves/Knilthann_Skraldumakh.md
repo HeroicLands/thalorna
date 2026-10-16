@@ -1,6 +1,6 @@
 ---
 shortcode: knlthnskrldmkh
-name: {full: Knilthann Skraldumakh, given: Knilthann, clan: Skraldumakh, aliases: []}
+name: {full: Knilthann Skraldumak, given: Knilthann, clan: Skraldumak, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -413,7 +413,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[knlthnskrldmkh|Knilthann Skraldumakh]]{float=top-left}
+![[knlthnskrldmkh|Knilthann Skraldumak]]{float=top-left}
 
 Knilthann stands 5'10" tall with a medium build. He has light fair skin, dark blonde hair, and blue eyes. His features include a rectangular face, a prominent nose, a heavy jawline, a small mouth, and heavy brows. He has a scar on his right hand.
 
@@ -421,7 +421,7 @@ Knilthann stands 5'10" tall with a medium build. He has light fair skin, dark bl
 
 **The Wandering Years**
 
-Knilthann was born into the Skraldumakh clan during an age when the old ways still held dominion over the hearts of the northern peoples. His father, a respected warrior-poet, recognized early the boy's gift for memorization and the peculiar cadence of his voice—a voice that could carry across mead-halls and mountainous valleys alike. At seven years, Knilthann was apprenticed to the Master Skald Hvarnmýl Hrafnsbane, a famed storyteller whose repertoire encompassed the entire history of the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the exploits of its greatest heroes. For thirty years, he learned the words of the ancient sagas and their spirit—the pauses that make hearts quicken, the inflections that bring tears to hardened warriors' eyes, the rhythms that echo in memory long after the final verse.
+Knilthann was born into the Skraldumak clan during an age when the old ways still held dominion over the hearts of the northern peoples. His father, a respected warrior-poet, recognized early the boy's gift for memorization and the peculiar cadence of his voice—a voice that could carry across mead-halls and mountainous valleys alike. At seven years, Knilthann was apprenticed to the Master Skald Hvarnmil Hrafnsbane, a famed storyteller whose repertoire encompassed the entire history of the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the exploits of its greatest heroes. For thirty years, he learned the words of the ancient sagas and their spirit—the pauses that make hearts quicken, the inflections that bring tears to hardened warriors' eyes, the rhythms that echo in memory long after the final verse.
 
 **The Skald's Mastery**
 
@@ -496,4 +496,4 @@ Nordland Skalds' Guild
 
 4. **The Lost Archive**: Knilthann receives word that a destroyed monastery once housed an archive of ancient sagas that predates his own understanding, and the fragments have been discovered in the possession of a reclusive scholar in the mountains. Despite his assertions that he possesses all authentic tales, his hunger for knowledge and fear that significant narratives may have been lost drives him to hire adventurers to locate and retrieve these fragments. The journey becomes complicated when they discover that the "lost sagas" tell stories that contradict the great houses' official histories, and multiple factions begin hunting the archive to either preserve or destroy it.
 
-5. **The Imposter's Gambit**: A skilled performer emerges in a distant city, performing "ancient sagas" that are actually Knilthann's own compositions and interpretations, claiming to be an unrecorded cousin of the famous skald. The imposter gathers significant fame and patronage, and Knilthann's attempts to expose the fraud are thwarted when the imposter produces documents suggesting Knilthann himself may be the false claimant to the Skraldumakh name. Caught in a web of authentication and identity, Knilthann must work with the party to uncover the truth, all while his reputation hangs by a thread and younger skalds circle like vultures, sensing weakness in their elder.
+5. **The Imposter's Gambit**: A skilled performer emerges in a distant city, performing "ancient sagas" that are actually Knilthann's own compositions and interpretations, claiming to be an unrecorded cousin of the famous skald. The imposter gathers significant fame and patronage, and Knilthann's attempts to expose the fraud are thwarted when the imposter produces documents suggesting Knilthann himself may be the false claimant to the Skraldumak name. Caught in a web of authentication and identity, Knilthann must work with the party to uncover the truth, all while his reputation hangs by a thread and younger skalds circle like vultures, sensing weakness in their elder.

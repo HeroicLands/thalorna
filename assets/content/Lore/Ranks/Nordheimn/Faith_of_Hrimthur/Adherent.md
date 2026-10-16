@@ -3,16 +3,16 @@ shortcode: adherentrnk
 name: {full: "Adherent", aliases: []}
 type: lore
 subType: law
-description: "Attached to one of Hrímthur's scattered factions and doing its work, in the faith of Hrímthur."
+description: "Attached to one of Hrimthur's scattered factions and doing its work, in the faith of Hrimthur."
 tags: []
 data: {culture: nordheimnclt}
 ---
 
-Nobody gives an adherent of one of [[lore-hrimthurspr|Hrímthur]]'s scattered factions his standing: he holds it for what he has made or understood, and his faction lets him keep it for as long as it agrees. There is nobody above a faction to say otherwise, because there is nobody above any of them.
+Nobody gives an adherent of one of [[lore-hrimthurspr|Hrimthur]]'s scattered factions his standing: he holds it for what he has made or understood, and his faction lets him keep it for as long as it agrees. There is nobody above a faction to say otherwise, because there is nobody above any of them.
 
 ## What This Standing Is
 
-An adherent is attached to one of the scattered factions that keep Hrímthur's worship, each tied to a different hof and to the wound it keeps, and does that faction's work. Standing within a faction is a matter of what a person has made or understood, and is claimed rather than conferred by any officer of it.
+An adherent is attached to one of the scattered factions that keep Hrimthur's worship, each tied to a different hov and to the wound it keeps, and does that faction's work. Standing within a faction is a matter of what a person has made or understood, and is claimed rather than conferred by any officer of it.
 
 ## How the Law Treats a Person Here
 
@@ -32,4 +32,4 @@ Whatever role a faction has claimed for its own work, informally and without a c
 
 ## Where This Standing Is Held
 
-The [[affiliation-hrimthur|Faith of Hrímthur]] alone.
+The [[affiliation-hrimthur|Faith of Hrimthur]] alone.

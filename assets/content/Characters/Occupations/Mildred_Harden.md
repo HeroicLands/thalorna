@@ -1,6 +1,6 @@
 ---
 shortcode: mildrdhrdn
-name: {full: Mildred Harden, aliases: []}
+name: {full: Mildrun Harden, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Mildred Harden is a 41-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with broad cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. Her bright gray eyes sit beneath thin brows, lending her a lively gaze. A narrow nose and expressive lips complete her features. She has tanned skin with a weathered complexion. Her blonde hair is adorned with simple pins.
+Mildrun Harden is a 41-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with broad cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. Her bright gray eyes sit beneath thin brows, lending her a lively gaze. A narrow nose and expressive lips complete her features. She has tanned skin with a weathered complexion. Her blonde hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
-Mildred Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage.
+Mildrun Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage.
 
-Mildred has run the Harden Inn for more than twenty years. She takes pride in her ale and offers travelers a meal and a bed. Locals and travelers gather at the inn, where she often shares stories from her own travels.
+Mildrun has run the Harden Inn for more than twenty years. She takes pride in her ale and offers travelers a meal and a bed. Locals and travelers gather at the inn, where she often shares stories from her own travels.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ Can be overwhelmed during busy periods, sometimes too trusting of strangers.
 
 ### Motivation
 
-Mildred takes pride in making guests feel at home at the Harden Inn.
+Mildrun takes pride in making guests feel at home at the Harden Inn.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ Excellent cook, skilled brewer, great communicator.
 
 ## Social
 
-Mildred is affiliated with Local Innkeepers' Association.
+Mildrun is affiliated with Local Innkeepers' Association.
 
 ## Companions
 
 ### Patrons
 
-Local regulars and travelers are Mildred's patrons.
+Local regulars and travelers are Mildrun's patrons.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Few; well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma**—Mildred faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
+1. **The Innkeeper's Dilemma**—Mildrun faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
 2. **Old Grudges**—Few; well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Mildred's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Mildrun's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Mildred depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Mildrun depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Mildred the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Mildrun the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

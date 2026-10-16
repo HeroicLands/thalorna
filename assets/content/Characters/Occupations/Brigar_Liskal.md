@@ -1,6 +1,6 @@
 ---
 shortcode: brygrlyskl
-name: {full: Brigàr Liskàl, aliases: []}
+name: {full: Brigar Liskal, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]
@@ -370,11 +370,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Brigàr stands 5'9" with a heavy, stocky frame—broad in the chest and thick in the arms, built like a man who has lifted barrels since childhood. His blonde hair is thick and slightly unkempt, and his blue eyes are bright and friendly in a ruddy, dark-complexioned face that flushes easily when he laughs, which is often. His features are round and open, with a broad nose and a wide mouth that seems built for smiling. He is not a handsome man in any refined sense, but there is a warmth to his appearance that puts people at ease. He wears the [[place-durvalis|Durvalìs]] merchant-quarter guard uniform—padded tunic, leather bracers, short sword and cudgel at his belt—and has a habit of rolling his sleeves up regardless of weather, exposing thick forearms tanned dark from years of outdoor patrol.
+Brigar stands 5'9" with a heavy, stocky frame—broad in the chest and thick in the arms, built like a man who has lifted barrels since childhood. His blonde hair is thick and slightly unkempt, and his blue eyes are bright and friendly in a ruddy, dark-complexioned face that flushes easily when he laughs, which is often. His features are round and open, with a broad nose and a wide mouth that seems built for smiling. He is not a handsome man in any refined sense, but there is a warmth to his appearance that puts people at ease. He wears the [[place-durvalis|Durvalis]] merchant-quarter guard uniform—padded tunic, leather bracers, short sword and cudgel at his belt—and has a habit of rolling his sleeves up regardless of weather, exposing thick forearms tanned dark from years of outdoor patrol.
 
 # Dossier {#dossier}
 
-Brigàr was born and raised in the Durvalìs's merchant quarter, the son of a cloth merchant of modest success. He knows every street, every business, every family in his assigned patrol area because they are literally his neighborhood. He joined the guard at twenty-two not out of ambition but out of practical recognition that his community needed functional policing and he could provide it. He is suited for the work by temperament and by knowledge rather than by any sense of calling.
+Brigar was born and raised in the Durvalis's merchant quarter, the son of a cloth merchant of modest success. He knows every street, every business, every family in his assigned patrol area because they are literally his neighborhood. He joined the guard at twenty-two not out of ambition but out of practical recognition that his community needed functional policing and he could provide it. He is suited for the work by temperament and by knowledge rather than by any sense of calling.
 
 At twenty-seven, he has been working the merchant quarter for five years. He is liked by the business owners because he grew up among them and understands their concerns. He is respected by younger people because he does not act superior to them. He knows approximately who is breaking what laws and has developed a careful practice of managing minor crime while preventing serious violence. He has learned which merchants are skimming taxes (which he ignores), which are engaging in deception (which he addresses), and which represent actual threats to community stability (which he works to eliminate).
 
@@ -384,11 +384,11 @@ His frame is heavy but not weak—he moves like a man comfortable in his own bod
 
 ### Personality
 
-Brigàr is friendly and interested in the people in his patrol area. He knows the names of merchants, their families, their current struggles. This makes him seem soft to more aggressive guards, but it is actually careful keeping of the peace. He is not easily angered and will engage in lengthy conversation to resolve issues rather than resorting to physical enforcement. He has a good-natured sense of humor and is well-liked.
+Brigar is friendly and interested in the people in his patrol area. He knows the names of merchants, their families, their current struggles. This makes him seem soft to more aggressive guards, but it is actually careful keeping of the peace. He is not easily angered and will engage in lengthy conversation to resolve issues rather than resorting to physical enforcement. He has a good-natured sense of humor and is well-liked.
 
 ### Motivation
 
-Brigàr's primary motivation is simply maintaining his community's stability and safety. He has no ambitions for advancement or external validation. His secondary motivation is proving that effective policing is possible without authoritarianism or corruption. He believes that knowing people and treating them with dignity is more effective than force.
+Brigar's primary motivation is simply maintaining his community's stability and safety. He has no ambitions for advancement or external validation. His secondary motivation is proving that effective policing is possible without authoritarianism or corruption. He believes that knowing people and treating them with dignity is more effective than force.
 
 ### Strengths
 
@@ -396,26 +396,26 @@ His knowledge of his patrol area is absolutely comprehensive. His ability to de-
 
 ## Social
 
-Brigàr is fully integrated into his community in ways that other guards are not. He is neighbor, friend, and authority figure all at once—a role that is easier to perform for him than for people outside his community.
+Brigar is fully integrated into his community in ways that other guards are not. He is neighbor, friend, and authority figure all at once—a role that is easier to perform for him than for people outside his community.
 
 ## Companions
 
 ### Patrons
 
-**Merchant Councilor Tulème Serdalandìs**—The senior merchant representative on the city council. Tulème's business is in the merchant quarter and he knows Brigàr well. He has become a patron, using his political influence to ensure Brigàr's assignment remains stable and that the merchant quarter receives adequate resources.
+**Merchant Councilor Tuleme Serdalis**—The senior merchant representative on the city council. Tuleme's business is in the merchant quarter and he knows Brigar well. He has become a patron, using his political influence to ensure Brigar's assignment remains stable and that the merchant quarter receives adequate resources.
 
 ### Enemies
 
-**Loan Merchant Kessian**—A wealthy financier who moved into the merchant quarter two years ago and has begun operating a predatory lending operation. Kessian's loans are technically legal but designed to fail, allowing him to seize properties and businesses when debtors cannot pay. Brigàr has watched Kessian systematically destroy established merchants, including families Brigàr has known his entire life. Kessian's operation is technically legal, which makes Brigàr's opposition to him ineffective. Kessian is aware of Brigàr's hostility and views him as an irrelevant nuisance.
+**Loan Merchant Kessian**—A wealthy financier who moved into the merchant quarter two years ago and has begun operating a predatory lending operation. Kessian's loans are technically legal but designed to fail, allowing him to seize properties and businesses when debtors cannot pay. Brigar has watched Kessian systematically destroy established merchants, including families Brigar has known his entire life. Kessian's operation is technically legal, which makes Brigar's opposition to him ineffective. Kessian is aware of Brigar's hostility and views him as an irrelevant nuisance.
 
 ## Plot Hooks
 
-1. **The Predator's Trap**—Brigàr realizes that Kessian is targeting merchant families specifically and has learned to use his knowledge of their personal circumstances to craft loans that will inevitably fail. Kessian will own half the merchant quarter within a year. Brigàr attempts to warn the merchants, but they are often desperate enough that Kessian's loans appear to be their only option. Brigàr discovers that Kessian's methods are technically legal, though obviously immoral. He can attempt to lobby the city council for new regulations, but that will take months while Kessian continues destroying lives. He can warn merchants more aggressively, but risks seeming biased or interfering with legitimate business. He can attempt to discredit Kessian through investigation, but Kessian has left no clear legal violations.
+1. **The Predator's Trap**—Brigar realizes that Kessian is targeting merchant families specifically and has learned to use his knowledge of their personal circumstances to craft loans that will inevitably fail. Kessian will own half the merchant quarter within a year. Brigar attempts to warn the merchants, but they are often desperate enough that Kessian's loans appear to be their only option. Brigar discovers that Kessian's methods are technically legal, though obviously immoral. He can attempt to lobby the city council for new regulations, but that will take months while Kessian continues destroying lives. He can warn merchants more aggressively, but risks seeming biased or interfering with legitimate business. He can attempt to discredit Kessian through investigation, but Kessian has left no clear legal violations.
 
-2. **The Daughter's Mistake**—Brigàr's childhood friend, **Merchant Torvin**, approaches him privately with a desperate problem. Torvin's daughter has fallen in love with Kessian and plans to marry him. Torvin has recognized that the marriage is Kessian's plan to absorb Torvin's business entirely by becoming family. Torvin begs Brigàr to prevent the marriage. Brigàr is being asked to interfere in personal relationships and family business, which violates his principles about community policing. But he also knows that Torvin is right about Kessian's intentions, and that the marriage will destroy both the daughter and the business.
+2. **The Daughter's Mistake**—Brigar's childhood friend, **Merchant Torvin**, approaches him privately with a desperate problem. Torvin's daughter has fallen in love with Kessian and plans to marry him. Torvin has recognized that the marriage is Kessian's plan to absorb Torvin's business entirely by becoming family. Torvin begs Brigar to prevent the marriage. Brigar is being asked to interfere in personal relationships and family business, which violates his principles about community policing. But he also knows that Torvin is right about Kessian's intentions, and that the marriage will destroy both the daughter and the business.
 
-3. **The Blackmail**—Kessian approaches Brigàr with an offer: he will stop his predatory operations in the merchant quarter if Brigàr will use his position to harass a specific rival merchant out of the district—someone Kessian wants access to the business of. The offer is explicit corruption. But Brigàr recognizes that accepting would stop Kessian's predation against people he cares about. The rival merchant that Kessian wants removed is actually engaged in minor tax evasion that Brigàr has overlooked. Removing him would not destroy lives the way Kessian's lending has.
+3. **The Blackmail**—Kessian approaches Brigar with an offer: he will stop his predatory operations in the merchant quarter if Brigar will use his position to harass a specific rival merchant out of the district—someone Kessian wants access to the business of. The offer is explicit corruption. But Brigar recognizes that accepting would stop Kessian's predation against people he cares about. The rival merchant that Kessian wants removed is actually engaged in minor tax evasion that Brigar has overlooked. Removing him would not destroy lives the way Kessian's lending has.
 
-4. **The Community Betrayal**—Brigàr discovers that Merchant Councilor Tulème, his patron, has been secretly working with Kessian. Tulème's business was struggling, and Kessian provided financial support in exchange for Tulème's use of political influence to keep regulations loose. Tulème has literally been enabling the predator. Brigàr is devastated and feels betrayed. But publicly exposing Tulème will destroy him professionally and politically, which would weaken Brigàr's ability to actually help the merchant quarter.
+4. **The Community Betrayal**—Brigar discovers that Merchant Councilor Tuleme, his patron, has been secretly working with Kessian. Tuleme's business was struggling, and Kessian provided financial support in exchange for Tuleme's use of political influence to keep regulations loose. Tuleme has literally been enabling the predator. Brigar is devastated and feels betrayed. But publicly exposing Tuleme will destroy him professionally and politically, which would weaken Brigar's ability to actually help the merchant quarter.
 
-5. **The Accidental Leverage**—Brigàr discovers something about Kessian's personal life—a secret relationship, hidden illegitimate children, something that would cause him personal damage if exposed. Brigàr is suddenly in possession of leverage that could force Kessian out of the merchant quarter. But using it would make Brigàr into the kind of officer he has always opposed—someone willing to manipulate personal secrets for political advantage.
+5. **The Accidental Leverage**—Brigar discovers something about Kessian's personal life—a secret relationship, hidden illegitimate children, something that would cause him personal damage if exposed. Brigar is suddenly in possession of leverage that could force Kessian out of the merchant quarter. But using it would make Brigar into the kind of officer he has always opposed—someone willing to manipulate personal secrets for political advantage.

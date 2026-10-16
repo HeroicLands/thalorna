@@ -1,6 +1,6 @@
 ---
 shortcode: nalos
-name: {full: Sîrêthâs, aliases: []}
+name: {full: Sirethas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The River: welcome in any company and persuasive in every tongue, no one's idea of a fighter."
@@ -35,7 +35,7 @@ sohl:
       hydalis: 15
 ---
 
-Sîrêthâs, the River, carries its children toward company and speech. Persuasive and worldly, at home in field and gathering, they are ill-starred for the martial disciplines and the labors of the maker's hand.
+Sirethas, the River, carries its children toward company and speech. Persuasive and worldly, at home in field and gathering, they are ill-starred for the martial disciplines and the labors of the maker's hand.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Sîrêthâs, the River, carries its children toward company and speech. Persuasi
 | Spirit  | Lore, Mystical            | +5  |
 | Water   | Language, Social          | +15 |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

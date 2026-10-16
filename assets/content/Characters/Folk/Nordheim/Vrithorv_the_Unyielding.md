@@ -3,7 +3,7 @@ shortcode: vrithorvtheu
 name: {full: Vrithorv the Unyielding, aliases: [Jarl Vrithorv the Unyielding, Jarl Vrithorv]}
 type: being
 subType: npc
-description: A provincial ruler who views Knilthann Skraldumakh as the keeper of his family's honor.
+description: A provincial ruler who views Knilthann Skraldumak as the keeper of his family's honor.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Vrithorv the Unyielding is a 48-year-old man who stands 5'10" tall with a medium
 
 # Dossier {#dossier}
 
-Vrithorv the Unyielding is a provincial ruler who views [[being-knlthnskrldmkh|Knilthann Skraldumakh]] as the keeper of his family's honor. He commissions performances that serve to elevate his status among rival jarls.
+Vrithorv the Unyielding is a provincial ruler who views [[being-knlthnskrldmkh|Knilthann Skraldumak]] as the keeper of his family's honor. He commissions performances that serve to elevate his status among rival jarls.

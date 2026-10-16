@@ -1,6 +1,6 @@
 ---
 shortcode: ixbaltzaku
-name: {full: Ix'bal Tza'ku, aliases: []}
+name: {full: Ish'bal Tsa'ku, aliases: []}
 type: affiliation
 subType: polity
 description: "Jewel of the southern K'ich'chik: volcanic peaks, terraced valleys, and a coast of metals, cacao, and feathered luxury."
@@ -40,28 +40,28 @@ data:
           Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Tz'enmah's court.
+        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the Tz'enmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
       - level: 8
-        title: Tz'enmah
+        title: Ts'enmah
         description: >-
           Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
     offices:
-      Tz'enmah: >-
+      Ts'enmah: >-
         Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ix'kanmah: >-
+      Ish'kanmah: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
       Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
       K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Tz'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
+      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
       P'ilambal: >-
         Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Xok'almah: War-leader appointed for a campaign, and set aside when it ends.
+      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
       Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umtz'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
       P'ik'ulmah: >-
         Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
       Ballcourt Keeper: >-
@@ -76,20 +76,20 @@ data:
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Equador, Peru, western Brazil
-# terran_analog: the ranks and offices are the Classic Maya court: Tz'enmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, Tz'enbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
 ---
 
 ## Overview
 
-Ix'bal Tza'ku holds the land of [[place-ixbaltzakurgn|Ix'bal Tza'ku Region]]. The region is home to some of the most powerful city-states in all of [[place-kchchkcntnnt|K'ich'chik]], rivals in grandeur and influence even to the great cities of [[affiliation-ixilankul|Ix'ilankul]]. The name itself means "Jaguar's House" in the high speech, and the region's peoples have long revered the spotted predator as an emblem of divine power and earthly dominion.
+Ish'bal Tsa'ku holds the land of [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]. The region is home to some of the most powerful city-states in all of [[place-kchchkcntnnt|K'ich'chik]], rivals in grandeur and influence even to the great cities of [[affiliation-ixilankul|Ish'ilankul]]. The name itself means "Jaguar's House" in the high speech, and the region's peoples have long revered the spotted predator as an emblem of divine power and earthly dominion.
 
-The region stands as the uppermost reach of [[place-kchchkcntnnt|K'ich'chik]]'s southern expansion, fully integrated into the unified priesthood of the [[affiliation-itzanpnthn|Itzáni]] and bound by the sacred _ix'lan ch'upul_ (white roads) that connect its greatest cities. The Ch'um Ix'lan relay network reaches Ix'bal Tza'ku in three to four days from [[affiliation-ixilankul|Ix'ilankul]], routing through [[affiliation-neokbaate|Ne'ok Ba'ate]] along the great southern white road; the priesthood maintains well-staffed way-stations along the highland road, ensuring that the Ch'alix Tq'an's decrees and intelligence from the heartland arrive with regularity. Here, the celestial calendar governs all—planting and harvest, pilgrimage and sacrifice. The great pyramid temples cast long shadows across terraced highlands, and blood spilled on their altars waters the cosmic order itself.
+The region stands as the uppermost reach of [[place-kchchkcntnnt|K'ich'chik]]'s southern expansion, fully integrated into the unified priesthood of the [[affiliation-itzanpnthn|Itsani]] and bound by the sacred _ish'lan ch'upul_ (white roads) that connect its greatest cities. The Ch'um Ish'lan relay network reaches Ish'bal Tsa'ku in three to four days from [[affiliation-ixilankul|Ish'ilankul]], routing through [[affiliation-neokbaate|Ne'ok Ba'ate]] along the great southern white road; the priesthood maintains well-staffed way-stations along the highland road, ensuring that the Ch'alish Tq'an's decrees and intelligence from the heartland arrive with regularity. Here, the celestial calendar governs all—planting and harvest, pilgrimage and sacrifice. The great pyramid temples cast long shadows across terraced highlands, and blood spilled on their altars waters the cosmic order itself.
 
 ## Maritime Powers
 
-These coastal powers are nominally part of the [[affiliation-itzanpnthn|Itzáni]] unified priesthood, but they guard their maritime autonomy jealously, and the ocean itself remains a boundary that even the highest priest-kings approach with caution.
+These coastal powers are nominally part of the [[affiliation-itzanpnthn|Itsani]] unified priesthood, but they guard their maritime autonomy jealously, and the ocean itself remains a boundary that even the highest priest-kings approach with caution.
 
-The river systems themselves are carefully controlled by the highland city-states. [[place-nepaxel|Ne' P'axel]] stands at the critical junction where mountain and jungle trade routes meet, and its rulers exact tribute and control from merchants passing through to the coast.
+The river systems themselves are carefully controlled by the highland city-states. [[place-nepaxel|Ne' P'ashel]] stands at the critical junction where mountain and jungle trade routes meet, and its rulers exact tribute and control from merchants passing through to the coast.
 
 ## Trade
 
@@ -97,10 +97,10 @@ Tribute flows constantly to the temples: the finest goods, the most precious off
 
 ## See Also
 
-- [[affiliation-kuxiixbal|K'uxi Ix'bal]]—The transitional realm to the south
-- [[place-nepaxel|Ne' P'axel]]—The great river-junction city
+- [[affiliation-kuxiixbal|K'ushi Ish'bal]]—The transitional realm to the south
+- [[place-nepaxel|Ne' P'ashel]]—The great river-junction city
 - [[place-nekiahkul|Ne' Ki'ahkul]]—Volcanic highlands and metalwork center
-- [[place-tzalamne|Tz'alam Ne']]—Coastal port and maritime power
-- [[place-tzalamtzltl|Tz'alam Tz'ultel]]—Mountain fortress defending the passes
-- [[affiliation-itzanpnthn|Itzáni]]—The unified priesthood binding the realm
-- [[place-ixbaltzakurgn|Ix'bal Tza'ku Region]]—The land Ix'bal Tza'ku holds
+- [[place-tzalamne|Ts'alam Ne']]—Coastal port and maritime power
+- [[place-tzalamtzltl|Ts'alam Ts'ultel]]—Mountain fortress defending the passes
+- [[affiliation-itzanpnthn|Itsani]]—The unified priesthood binding the realm
+- [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]]—The land Ish'bal Tsa'ku holds

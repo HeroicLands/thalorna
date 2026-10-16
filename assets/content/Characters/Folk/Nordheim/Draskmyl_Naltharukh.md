@@ -1,14 +1,14 @@
 ---
 shortcode: draskmylnalt
 name:
-  full: Draskmýl Naltharukh
+  full: Draskmil Naltharuk
   aliases:
-    - Commander Draskmýl Naltharukh
-    - Lord Commander Draskmýl Naltharukh
-    - Lord Commander Draskmýl
+    - Commander Draskmil Naltharuk
+    - Lord Commander Draskmil Naltharuk
+    - Lord Commander Draskmil
 type: being
 subType: npc
-description: The highest-ranking military officer in the region, a lord commander on whom Gnaldrthann Sólvargr has repeatedly relied.
+description: The highest-ranking military officer in the region, a lord commander on whom Gnaldrthann Solvargr has repeatedly relied.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -37,8 +37,8 @@ data:
 
 # Appearance {#appearance}
 
-Draskmýl Naltharukh is a 45-year-old man who stands 5'7" tall with a heavy build. He has pale skin, smooth complexion, dark brown hair, and blue eyes.
+Draskmil Naltharuk is a 45-year-old man who stands 5'7" tall with a heavy build. He has pale skin, smooth complexion, dark brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Draskmýl Naltharukh is a lord commander and the highest-ranking military officer in the region. He respects [[being-gnldrthnslvrgr|Gnaldrthann Sólvargr]], has repeatedly relied on his counsel and experience, and has sheltered him from some of the more politically motivated aspects of military service.
+Draskmil Naltharuk is a lord commander and the highest-ranking military officer in the region. He respects [[being-gnldrthnslvrgr|Gnaldrthann Solvargr]], has repeatedly relied on his counsel and experience, and has sheltered him from some of the more politically motivated aspects of military service.

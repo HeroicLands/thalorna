@@ -209,7 +209,7 @@ The verdantcoil waits, for weeks if need be, coiled on a branch above a trail, a
 
 ## What the Áelendan and the Barons Do
 
-The Áelendan clans of the Toravar know the verdantcoil's ground and walk round it, or walk it in company, with the oldest of them watching the branches overhead. The [[affiliation-alndnwrdns|Wardens]] do not hunt it. Tarvénan foresters who come up into the range with a baron's logging concession, against the clans' wishes, are told by the clans which slopes to keep off, and do not always listen. One of the frictions over logging concessions that the local Wardens settle with the local baron, without troubling the crown, ended when a felling crew went up onto the verdantcoil's slope against the Wardens' warning and three of them did not come down. The clans did not need to say anything after that, and did not.
+The Áelendan clans of the Toravar know the verdantcoil's ground and walk round it, or walk it in company, with the oldest of them watching the branches overhead. The [[affiliation-alndnwrdns|Wardens]] do not hunt it. Tarvenan foresters who come up into the range with a baron's logging concession, against the clans' wishes, are told by the clans which slopes to keep off, and do not always listen. One of the frictions over logging concessions that the local Wardens settle with the local baron, without troubling the crown, ended when a felling crew went up onto the verdantcoil's slope against the Wardens' warning and three of them did not come down. The clans did not need to say anything after that, and did not.
 
 ## Signs
 

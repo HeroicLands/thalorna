@@ -1,6 +1,6 @@
 ---
 shortcode: skaldrnk
-name: {full: "Skáld", aliases: []}
+name: {full: "Skald", aliases: []}
 type: lore
 subType: law
 description: "Sworn keeper of a hall's record, entitled to food, shelter and safe passage at any hall, in the Skalds' Circle."
@@ -12,7 +12,7 @@ When an inheritance, a contested oath or a tribute owed three winters ago is in 
 
 ## What This Standing Is
 
-A skald is sworn into the Circle by his own master once his first saga, the _gyldra_, is accepted at the [[lore-skaldating|Skaldating]], and wears the silver arm-ring, the _skaldhringr_, forged at his swearing and bearing the marks of his master and his master's master. He is the trained, sworn keeper of his hall's record, his kingdom's history, and the impartial witness the Asguardian courts summon when a dispute turns on what was said or owed.
+A skald is sworn into the Circle by his own master once his first saga, the _geldra_, is accepted at the [[lore-skaldating|Skaldating]], and wears the silver arm-ring, the _skaldhringr_, forged at his swearing and bearing the marks of his master and his master's master. He is the trained, sworn keeper of his hall's record, his kingdom's history, and the impartial witness the Asguardian courts summon when a dispute turns on what was said or owed.
 
 ## How the Law Treats a Person Here
 
@@ -28,7 +28,7 @@ He must perform if asked, in exchange for the hospitality every hall owes him, a
 
 ## Offices Open at This Standing
 
-The Hirdskáld, a court skald in formal service to a jarl or king, and the Lögskáld, specialized in the recitation of legal precedents and the witnessing of formal proceedings.
+The Hirvskáld, a court skald in formal service to a jarl or king, and the Logskáld, specialized in the recitation of legal precedents and the witnessing of formal proceedings.
 
 ## Where This Standing Is Held
 

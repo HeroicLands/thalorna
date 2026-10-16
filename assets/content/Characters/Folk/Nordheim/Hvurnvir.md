@@ -3,7 +3,7 @@ shortcode: hvurnvir
 name: {full: Hvurnvir, aliases: [Jarl Hvurnvir]}
 type: being
 subType: npc
-description: The cautious jarl of Snarvfjord, who decides nothing of weight without Hnirvmýl the Wise; also named in Snarvfjord.
+description: The cautious jarl of Snarvfjord, who decides nothing of weight without Hnirmil the Wise; also named in Snarvfjord.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Hvurnvir is a 43-year-old man who stands 5'11" tall with a medium build. He has 
 
 # Dossier {#dossier}
 
-Hvurnvir is the cautious jarl of Snarvfjord, who decides nothing of weight without [[being-hnirvmylwise|Hnirvmýl the Wise]]. He provides Hnirvmýl with shelter, resources and access to his court in exchange for guidance on matters of war and diplomacy. Hvurnvir is named in [[place-snarvfjord|Snarvfjord]].
+Hvurnvir is the cautious jarl of Snarvfjord, who decides nothing of weight without [[being-hnirvmylwise|Hnirmil the Wise]]. He provides Hnirmil with shelter, resources and access to his court in exchange for guidance on matters of war and diplomacy. Hvurnvir is named in [[place-snarvfjord|Snarvfjord]].

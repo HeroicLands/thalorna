@@ -3,7 +3,7 @@ shortcode: therecall
 name: {full: The Recall, aliases: []}
 type: lore
 subType: literature
-description: "The verse dialogue read at Dhanurkota's Festival of the Returning: two bowmen of one kula in Dhaunapur's pay argue through the night the four masters' recall reaches the camp, and one of them stands on each side of the gorge at Sharamukha."
+description: "The verse dialogue read at Danurkota's Festival of the Returning: two bowmen of one kulra in Dhaunapur's pay argue through the night the four masters' recall reaches the camp, and one of them stands on each side of the gorge at Sharamukha."
 tags: [draft]
 data:
   culture: vedyariclt
@@ -20,9 +20,9 @@ data:
   packFolder: vedyara
 ---
 
-**The Recall** is the verse dialogue read at the **Festival of the Returning** in [[affiliation-dhnrktjnpd|Dhanurkota]] every autumn, in the court of [[place-dhnrktemple|the Mahājaya temple]] inside [[place-bowfort|the Bow-Fort]], where the graduates back from a year's service abroad stand with their bows before the scale of [[affiliation-mahajaya|Mahājaya]] and the inner gate until the reading ends and the gate is opened to them. The master of [[place-highdraw|the High Draw]] reads it, by the same unwritten convention that gives him the first word among the four on any question of war. It tells the night of [[lore-hghlndwar|the Highland War]] on which the four masters' recall reached the camp of **Dhaunapur**, the mountain kingdom that had marched on [[affiliation-suvrgrjnpd|Suvarnagiri]] with Dhanurkoti graduates in its companies, through two bowmen of one kula at one fire: **Sharavīra** of the clan **Sharavanakīrti**, of the reed village of [[place-sharavana|Sharavana]], and his elder brother, who argue until first light which duty binds a graduate whose janapada has called his bow home. It follows Sharavīra down to [[affiliation-bharyastan|Bharyastān]]'s four hundred horse and to the gorge-mouth of [[place-sharamukha|Sharamukha]], the mouth of arrows (_shara_, a reed or an arrow, is the first word of the clan's name and the village's too), where he stands on the slope above a road two carts wide and his brother, as he believes, stands in the host below it. The elder brother has no name anywhere in the work. The academies struck from their rolls every graduate who stayed in Dhaunapur's service, keep the struck names and do not read them, and the work keeps the same silence: where a name would fall, the reader stops for its length and goes on.
+**The Recall** is the verse dialogue read at the **Festival of the Returning** in [[affiliation-dhnrktjnpd|Danurkota]] every autumn, in the court of [[place-dhnrktemple|the Mahajaya temple]] inside [[place-bowfort|the Bow-Fort]], where the graduates back from a year's service abroad stand with their bows before the scale of [[affiliation-mahajaya|Mahajaya]] and the inner gate until the reading ends and the gate is opened to them. The master of [[place-highdraw|the High Draw]] reads it, by the same unwritten convention that gives him the first word among the four on any question of war. It tells the night of [[lore-hghlndwar|the Highland War]] on which the four masters' recall reached the camp of **Dhaunapur**, the mountain kingdom that had marched on [[affiliation-suvrgrjnpd|Suvarnageri]] with Dhanurkoti graduates in its companies, through two bowmen of one kulra at one fire: **Sharavira** of the clan **Sharavanakirti**, of the reed village of [[place-sharavana|Shiravana]], and his elder brother, who argue until first light which duty binds a graduate whose janapoda has called his bow home. It follows Sharavira down to [[affiliation-bharyastan|Bharyastan]]'s four hundred horse and to the gorge-mouth of [[place-sharamukha|Sharamukha]], the mouth of arrows (_shirva_, a reed or an arrow, is the first word of the clan's name and the village's too), where he stands on the slope above a road two carts wide and his brother, as he believes, stands in the host below it. The elder brother has no name anywhere in the work. The academies struck from their rolls every graduate who stayed in Dhaunapur's service, keep the struck names and do not read them, and the work keeps the same silence: where a name would fall, the reader stops for its length and goes on.
 
-The form is the Vedyari dialogue in couplets (_pākha_), a long line answered by a short one, each speaker's turns set under his name, in four parts the fort reads without a break; the rendering keeps the pair of lines and the speakers and does not rhyme, since the original does not. The first and last parts are in the reader's own voice, the camp is told with the brothers' speech inside it, and the gorge is given entirely in Sharavīra's mouth, which is where the record and the work part. The academy roll of that year carries Sharavīra Sharavanakīrti of Sharavana among those who came home and says nothing else of him. The fort's record holds the recall, the ride with Bharyastān's horse and the stopping of the host at the mouth, and holds no account of what any struck man did at Sharamukha, nor of how many stayed with the valley king's companies, whom nobody has counted. That Sharavīra knew his brother's draw across the gorge is the work's claim and his own: the cairn is the only witness, and nobody has looked under it. No telling from Dhaunapur's side has come down the gold road.
+The form is the Vedyari dialogue in couplets (_pakha_), a long line answered by a short one, each speaker's turns set under his name, in four parts the fort reads without a break; the rendering keeps the pair of lines and the speakers and does not rhyme, since the original does not. The first and last parts are in the reader's own voice, the camp is told with the brothers' speech inside it, and the gorge is given entirely in Sharavira's mouth, which is where the record and the work part. The academy roll of that year carries Sharavira Sharavanakirti of Shiravana among those who came home and says nothing else of him. The fort's record holds the recall, the ride with Bharyastan's horse and the stopping of the host at the mouth, and holds no account of what any struck man did at Sharamukha, nor of how many stayed with the valley king's companies, whom nobody has counted. That Sharavira knew his brother's draw across the gorge is the work's claim and his own: the cairn is the only witness, and nobody has looked under it. No telling from Dhaunapur's side has come down the gold road.
 
 : The Reading {#reading}
 
@@ -55,9 +55,9 @@ Below the gold road the valley king's fires
 His companies of the bow slept by their staves,
   and the mark on the grips was ours.
 Two of the reed village lay at one fire,
-  one mother, one kula:
+  one mother, one kulra:
 the elder, eleven years drawn for the king's pay,
-  and Sharavīra, two.
+  and Sharavira, two.
 
 At the third watch a runner came up the road
   with no lamp and four seals.
@@ -68,15 +68,15 @@ He did not ask for the king. He asked for the grips
 and the bowmen came out of their blankets to the fire,
   and he spoke it standing:
 
-"Dhanurpāla of the High Draw says it,
+"Dhanurpala of the High Draw says it,
   and the three say it with him.
 The bow was given at the gate. It was not sold.
   The mark on the grip is ours.
-Dhanurkota has no quarrel with the gold mountain
+Danurkota has no quarrel with the gold mountain
   and none with any neighbor.
-What the janapada gave, the janapada calls home.
+What the janapoda gave, the janapoda calls home.
   Every bow in the valley king's hand:
-come down to the horse at Bharyastān
+come down to the horse at Bharyastan
   and stand with them at the mouth.
 Who comes is ours. Who stays—"
   and the runner stopped,
@@ -94,7 +94,7 @@ I have eaten the valley king's salt eleven years.
 It is in the blood. You cannot hand it back
   at a gate, at night, to a boy with his feet open.
 
-Sharavīra:
+Sharavira:
 Salt he guaranteed, and bread, and silver at the new moon,
   and we have had them.
 A king is owed what he guaranteed and nothing past it.
@@ -112,12 +112,12 @@ Who hires a bow that reads its contract by firelight
 The fort lives on hire. The reed village lives on hire.
   Our mother's roof is hire.
 
-Sharavīra:
+Sharavira:
 The fort lives on the bow being the fort's.
   That is the thing hired.
 A bow that goes where the salt goes is a bow any man can buy
   and no king pays for.
-The valley king hired Dhanurkota's word in us.
+The valley king hired Danurkota's word in us.
   The word has come up the road.
 
 The elder:
@@ -125,30 +125,30 @@ I cut an oath with the company on the stone at the valley gate,
   a _korvu_, before witnesses:
 to stand where they stand. Forty men know my face.
   The man on my left is from the valley.
-He cannot shoot. I shoot for him. If I go down the road
+He cannot shoot. I shoot for him. If I gho down the road
   the arrow that was mine comes to him.
 Tell me the duty that lets that arrow through.
   Name it in its order.
 
-Sharavīra:
-In order: the household, the kula, the village and its sabhā,
+Sharavira:
+In order: the household, the kulra, the village and its sabhra,
   the temple, and the king.
 Your company is in the king's place. It is last.
   You swore it under his salt.
 The man on your left has a king. Let the king stand on his left.
-  I am not his kula.
+  I am not his kulra.
 
 The elder:
 Four old men in a fort wrote on a leaf.
   No god spoke.
-Mahājaya did not come up the gold road with a lamp;
+Mahajaya did not come up the gold road with a lamp;
   a runner came, with his feet open.
 Her scale is in the temple. Nobody put a thumb on it tonight.
   Show me the god in the leaf.
 
-Sharavīra:
+Sharavira:
 The four sit together and answer together on war.
-  That is the janapada's mouth.
+  That is the janapoda's mouth.
 No god spoke when the master put the bow in my hand;
   the master spoke, and it was given.
 And her scale is at the mountain. Her gold is weighed on it
@@ -166,30 +166,30 @@ and goes into the temple chest, and the four sit on the chest.
 to tell me to spit his salt in the fire.
   Answer that.
 
-Sharavīra:
+Sharavira:
 The retainer bought him officers out of the halls.
   It did not buy him the mountain.
 What the fort owes him for it, the fort will say to his face
-  at the Mela, and pay.
+  at the Melra, and pay.
 What I owe him is paid to the new moon.
   I owe him the next moon nothing.
 
 The elder:
-The manuals say a Senāja who refuses the host's call
-  is not a Senāja.
-We stand as Senāja by the fort's own grant, you and I,
+The manuals say a Senaja who refuses the host's call
+  is not a Senaja.
+We stand as Senaja by the fort's own grant, you and I,
   reed-cutters' sons.
-The host is called. Go down the road, and by the fort's own law
+The host is called. Gho down the road, and by the fort's own law
   you are a reed-cutter with a bow.
 
-Sharavīra:
-The host the manuals mean is the janapada's host,
-  the one the sabhā raises.
+Sharavira:
+The host the manuals mean is the janapoda's host,
+  the one the sabhra raises.
 The valley king's companies are a contract and a sack of salt.
   The grant was the fort's.
 What the fort's law gave, the fort's law can call back.
   That is what the leaf says.
-A Dhanurkoti does not shoot at Dhanurkota's neighbor.
+A Dhanurkoti does not shoot at Danurkota's neighbor.
   That is all it says.
 
 The elder:
@@ -200,11 +200,11 @@ The roof in the marsh is a contract roof. Strike my name.
 The household first, you said. Say it again,
   and then say who feeds it.
 
-Sharavīra:
+Sharavira:
 The household first. Here is my silver. Two years.
   It was earned under his salt until tonight.
-Take it down to her with yours. The kula feeds her after;
-  that is what a kula is for.
+Take it down to her with yours. The kulra feeds her after;
+  that is what a kulra is for.
 The silver stays with you. The name goes home with me.
   Both are hers.
 
@@ -214,7 +214,7 @@ Men were coming out of blankets with staves in their hands
   and going down past the pickets
 without a word to the pickets, and the pickets let them,
   because their grips had the mark too.
-The elder watched them go. He did not count them.
+The elder watched them gho. He did not count them.
   Then he said the name.
 
 The elder:
@@ -225,8 +225,8 @@ Let them cut us both out of the roll, two names in one place,
 I have not said that name since the marsh.
   I am saying it.
 
-Sharavīra:
-The roll says Sharavīra Sharavanakīrti of Sharavana.
+Sharavira:
+The roll says Sharavira Sharavanakirti of Shiravana.
   Say what the roll says.
 
 He took the bow from the rack and the string from his neck
@@ -247,10 +247,10 @@ The rest stayed by the fires. The fort does not count them.
 : The Gorge {#gorge}
 
 ```poetry {form=dialogue meter="a long line answered by a short one" lang=en}
-Sharavīra:
+Sharavira:
 Three days down with the staves on our backs and no fires,
   and the reed kept dry.
-At Bharyastān the horse were already in the yard,
+At Bharyastan the horse were already in the yard,
   four hundred, saddled, barley-fed,
 because the gold had called them under the old treaty
   as it had called their fathers.
@@ -293,7 +293,7 @@ at the spears, at the man who had looked up,
   and he did not look again.
 The gorge did the rest. It is two carts wide.
   Nobody turns in it.
-The front could not go back and the back came on,
+The front could not gho back and the back came on,
   and the shelves were ours.
 It was short. The chronicle says short, and it is right.
   It was eleven arrows long.
@@ -365,8 +365,8 @@ and stand before the scale, and the roll is read.
 The master of the High Draw reads it from the leaf,
   name and clan and village,
 and the court answers for each who came home: Home.
-  It comes to Sharavīra
-Sharavanakīrti of Sharavana, and the court says: Home.
+  It comes to Sharavira
+Sharavanakirti of Shiravana, and the court says: Home.
   It comes to a place
 where a line has been cut through the name with a knife,
   and the name is under the line,
@@ -376,7 +376,7 @@ That silence is in the roll. It is not a gap in it.
   The leaf keeps the place.
 As long as a master reads the leaf, the place is read,
   and nothing is said at it.
-Then this year's roll, and the gate, and the bows go in by it
+Then this year's roll, and the gate, and the bows gho in by it
   one by one, and the fort has them.
 
 He came round by the mouth every autumn after, from wherever he had served,
@@ -394,14 +394,14 @@ In this court, before the scale of the goddess,
 
 - [[lore-hghlndwar|The Highland War]]—the recall, the ride and the stopping of the host, as the record enters them
 - [[place-sharamukha|Sharamukha]]—the gorge-mouth, the cairn of broken arrows and the shrine with the lamp-ledge
-- [[affiliation-dhnrktjnpd|Dhanurkota Janapada]]—the janapada whose four masters called the bows home, and its Festival of the Returning
-- [[place-dhnrktemple|The Mahājaya Temple at Dhanurkota]]—the court the work is read in, and the Watch of the Bow-String
+- [[affiliation-dhnrktjnpd|Danurkota Janapoda]]—the janapoda whose four masters called the bows home, and its Festival of the Returning
+- [[place-dhnrktemple|The Mahajaya Temple at Danurkota]]—the court the work is read in, and the Watch of the Bow-String
 - [[place-bowfort|The Bow-Fort]]—where the four masters met
 - [[place-highdraw|The Academy of the High Draw]]—the bow drawn to the ear, and the master who reads
-- [[place-sharavana|Sharavana]]—the reed village the brothers' kula is of
-- [[affiliation-bharyastan|The Kingdom of Bharyastān]]—the four hundred horse the gold treaty called
-- [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—the gold mountain the host marched on, and the Weighing
-- [[affiliation-mahajaya|Mahājaya]]—the scale that weighs measure and not judgment
-- [[affiliation-jnanasura|Jñānasūra]]—the sun-medallion a warrior touches before a battle
+- [[place-sharavana|Shiravana]]—the reed village the brothers' kulra is of
+- [[affiliation-bharyastan|The Kingdom of Bharyastan]]—the four hundred horse the gold treaty called
+- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the gold mountain the host marched on, and the Weighing
+- [[affiliation-mahajaya|Mahajaya]]—the scale that weighs measure and not judgment
+- [[affiliation-jnanasura|Jnanasura]]—the sun-medallion a warrior touches before a battle
 - [[lore-compactpeace|The Compact Peace]]—the age the war falls in
 - [[lore-vedyariclt|Vedyari]]—what a person owes, in order, and the two names

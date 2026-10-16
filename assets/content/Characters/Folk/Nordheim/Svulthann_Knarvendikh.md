@@ -1,6 +1,6 @@
 ---
 shortcode: svulthannkna
-name: {full: Svulthann Knarvendikh, aliases: [Magistrate-Commander Svulthann Knarvendikh]}
+name: {full: Svulthann Knarvendik, aliases: [Magistrate-Commander Svulthann Knarvendik]}
 type: being
 subType: npc
 description: Magistrate-Commander and military quartermaster of the Nordheim garrison, who places annual orders for campaign tents, named in Braldthann Vetrdómr.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Svulthann Knarvendikh is a 52-year-old man who stands 6'1" tall with a light build. He has tanned skin, weathered complexion, red hair, and blue eyes.
+Svulthann Knarvendik is a 52-year-old man who stands 6'1" tall with a light build. He has tanned skin, weathered complexion, red hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Svulthann Knarvendikh is the magistrate-commander and military quartermaster of the Nordheim garrison, who places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives. Svulthann Knarvendikh is named in [[being-brldthnvtrdmr|Braldthann Vetrdómr]].
+Svulthann Knarvendik is the magistrate-commander and military quartermaster of the Nordheim garrison, who places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives. Svulthann Knarvendik is named in [[being-brldthnvtrdmr|Braldthann Vetrdómr]].

@@ -1,6 +1,6 @@
 ---
 shortcode: alyksdrymkt
-name: {full: Alýkos Drymíkot, given: Alýkos, clan: Drymíkot, aliases: []}
+name: {full: Alikos Drimikot, given: Alikos, clan: Drimikot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -421,33 +421,33 @@ sohl:
 
 # Appearance {#appearance}
 
-![[alyksdrymkt|Alýkos Drymíkot]]{float=top-left}
+![[alyksdrymkt|Alikos Drimikot]]{float=top-left}
 
-Alýkos stands 6'0" tall with a medium build. He has light weathered skin, greying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, and greying brows.
+Alikos stands 6'0" tall with a medium build. He has light weathered skin, greying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, and greying brows.
 
 # Dossier {#dossier}
 
-Alýkos was born into the timber-working tradition of the [[affiliation-byzarianlg|Byzarian League]], son of a master craftsman whose reputation was built on the quality of ships' frames and architectural beams. From age eight, Alýkos worked alongside his father **Drymíkot the Elder**, learning to read the grain of timber as one reads text, understanding which trees would yield which properties of wood, and mastering the traditional techniques passed through generations of his family line.
+Alikos was born into the timber-working tradition of the [[affiliation-byzarianlg|Bizarian League]], son of a master craftsman whose reputation was built on the quality of ships' frames and architectural beams. From age eight, Alikos worked alongside his father **Drimikot the Elder**, learning to read the grain of timber as one reads text, understanding which trees would yield which properties of wood, and mastering the traditional techniques passed through generations of his family line.
 
 At twenty-two, he completed his formal apprenticeship and became a journeyman, traveling throughout the League to work on prestigious projects—the reinforced beams of merchant halls, the masts of noble vessels, the ornamental woodwork of temple interiors. At thirty, he established his own workshop and took the title of Master when his improvements in joinery earned recognition from the Timberwrights' Guild. For the next twenty-three years, he built a reputation as a craftsman of the first skill, his work commissioned by the most demanding clients, his designs influencing standards throughout the trade.
 
-Now, at fifty-three, Alýkos operates a successful workshop while increasingly training apprentices and consulting on major projects. Yet the passing decades have made him aware that his way of working—the traditional methods that have served him well—may not survive into the next generation. Younger timberwrights increasingly employ new techniques, newer tools, and ever faster methods that put speed before the patience of masterful craft.
+Now, at fifty-three, Alikos operates a successful workshop while increasingly training apprentices and consulting on major projects. Yet the passing decades have made him aware that his way of working—the traditional methods that have served him well—may not survive into the next generation. Younger timberwrights increasingly employ new techniques, newer tools, and ever faster methods that put speed before the patience of masterful craft.
 
 ## Psyche
 
 ### Personality
 
-Alýkos is a man of few words but great presence. He speaks deliberately, with precision born of decades spent communicating through work rather than words. When he does speak, his observations carry weight; he sees solutions where others see problems. There is a contemplative quality to him; he is someone who thinks best while working, whose understanding emerges through doing rather than discussion.
+Alikos is a man of few words but great presence. He speaks deliberately, with precision born of decades spent communicating through work rather than words. When he does speak, his observations carry weight; he sees solutions where others see problems. There is a contemplative quality to him; he is someone who thinks best while working, whose understanding emerges through doing rather than discussion.
 
-Despite his outward gravity, Alýkos possesses a dry, understated wit that surfaces occasionally among those he trusts. He appreciates humor that reflects truth, and dismisses empty flattery or social performance. With apprentices who show real commitment, he becomes a patient, almost grandfatherly figure, willing to take time explaining principles and teaching the why behind techniques and not the how alone.
+Despite his outward gravity, Alikos possesses a dry, understated wit that surfaces occasionally among those he trusts. He appreciates humor that reflects truth, and dismisses empty flattery or social performance. With apprentices who show real commitment, he becomes a patient, almost grandfatherly figure, willing to take time explaining principles and teaching the why behind techniques and not the how alone.
 
 His calm covers a man struggling with the recognition of mortality and obsolescence. The changes sweeping through his craft feel like a personal rejection—not of him specifically, but of the values and methods that define who he is. He masks this concern with studied indifference, but those close to him recognize the weight he carries.
 
 ### Motivation
 
-Alýkos is motivated by a desire to preserve and transmit the traditional craftsmanship of his lineage before it disappears entirely. He believes that in rushing toward novelty and speed, the League risks losing knowledge and artistry that took centuries to develop. He seeks an apprentice or successor who can truly understand that timber-working is a form of expression as well as a utility—a way of imposing beauty and functionality into material that will outlast its creator.
+Alikos is motivated by a desire to preserve and transmit the traditional craftsmanship of his lineage before it disappears entirely. He believes that in rushing toward novelty and speed, the League risks losing knowledge and artistry that took centuries to develop. He seeks an apprentice or successor who can truly understand that timber-working is a form of expression as well as a utility—a way of imposing beauty and functionality into material that will outlast its creator.
 
-Secondarily, Alýkos is driven by pride in his craft. He wants to complete significant works that demonstrate that traditional methods produce results equal or superior to the newer approaches. If he can secure one major commission that showcases the value of his craftsmanship, it might influence the direction of his trade.
+Secondarily, Alikos is driven by pride in his craft. He wants to complete significant works that demonstrate that traditional methods produce results equal or superior to the newer approaches. If he can secure one major commission that showcases the value of his craftsmanship, it might influence the direction of his trade.
 
 ### Strengths
 
@@ -460,7 +460,7 @@ Secondarily, Alýkos is driven by pride in his craft. He wants to complete signi
 
 ### Weaknesses
 
-- **Age-Related Limitations**: At fifty-three, Alýkos is beginning to experience the physical consequences of a lifetime of demanding labor. His endurance is adequate but declining; he tires more easily than younger workers and recovers more slowly from injury.
+- **Age-Related Limitations**: At fifty-three, Alikos is beginning to experience the physical consequences of a lifetime of demanding labor. His endurance is adequate but declining; he tires more easily than younger workers and recovers more slowly from injury.
 - **Resistance to Innovation**: His deeply ingrained respect for traditional methods makes him skeptical of new techniques and tools, sometimes to the point of actively dismissing improvements that could save labor or extend what he can do.
 - **Limited Agility**: His dexterity and agility are modest, making delicate work and physical tasks requiring quick reflexes increasingly challenging.
 - **Philosophical Rigidity**: His belief that traditional methods are inherently superior sometimes blinds him to real value in newer approaches, limiting his ability to adapt to changing circumstances or needs.
@@ -474,8 +474,8 @@ Secondarily, Alýkos is driven by pride in his craft. He wants to complete signi
 The Timberwrights' Guild
 : His guild affiliation provides him with regular commissions, referrals, and standing. However, his occasional criticism of newer techniques creates some tension with the guild's forward-looking members.
 
-The Noble House of Theodákis
-: A merchant-noble family that has commissioned Alýkos for three major projects over two decades, including the beams for their primary residence. They value his reliability and quality.
+The Noble House of Theodakis
+: A merchant-noble family that has commissioned Alikos for three major projects over two decades, including the beams for their primary residence. They value his reliability and quality.
 
 The Master Builders' Association
 : An informal group of architects and master craftspeople who value his consultation on projects requiring skill with timber, particularly those where traditional aesthetics are desired.
@@ -483,27 +483,27 @@ The Master Builders' Association
 ### Enemies
 
 The Modernist Faction
-: A loosely organized group of younger timberwrights and craftspeople who view traditional methods as wasteful and who actively undercut Alýkos's commissions by offering faster, cheaper alternatives. Their leader, **Vektor the Innovator**, has directly challenged Alýkos's design choices on several projects.
+: A loosely organized group of younger timberwrights and craftspeople who view traditional methods as wasteful and who actively undercut Alikos's commissions by offering faster, cheaper alternatives. Their leader, **Vektor the Innovator**, has directly challenged Alikos's design choices on several projects.
 
-His Own Son, Tchârzilikon Drymíkot
-: Once apprenticed to Alýkos, Tchârzilikon rejected his father's teachings and became a champion of faster, newer techniques. The two have been estranged for fifteen years, a source of deep private pain for Alýkos. Tchârzilikon's success with the new methods feels like a personal repudiation of everything Alýkos values.
+His Own Son, Charzilikon Drimikot
+: Once apprenticed to Alikos, Charzilikon rejected his father's teachings and became a champion of faster, newer techniques. The two have been estranged for fifteen years, a source of deep private pain for Alikos. Charzilikon's success with the new methods feels like a personal repudiation of everything Alikos values.
 
 ### Affiliations
 
-The Timberwrights' Guild of the Byzarian League
-: A formal organization maintaining standards for timber-working and managing guild commissions. Alýkos holds status as a Master, the highest rank.
+The Timberwrights' Guild of the Bizarian League
+: A formal organization maintaining standards for timber-working and managing guild commissions. Alikos holds status as a Master, the highest rank.
 
 The Master Craftspeople's Association
 : An informal group meeting quarterly to share techniques and discuss the future of craft trades in the League.
 
 ## Plot Hooks
 
-1. **The Ancient Wood**: A mysterious merchant brings a single log of timber of extraordinary beauty and unknown origin to Alýkos, requesting consultation on its properties and potential uses. The wood appears impossibly old, yet shows no signs of rot; its grain patterns seem to shift in different light; and it carries a faint aroma Alýkos cannot identify. Investigation into the wood's origin leads him into contact with ancient traditions and forces that suggest timber-working may be far more significant than he ever imagined.
+1. **The Ancient Wood**: A mysterious merchant brings a single log of timber of extraordinary beauty and unknown origin to Alikos, requesting consultation on its properties and potential uses. The wood appears impossibly old, yet shows no signs of rot; its grain patterns seem to shift in different light; and it carries a faint aroma Alikos cannot identify. Investigation into the wood's origin leads him into contact with ancient traditions and forces that suggest timber-working may be far more significant than he ever imagined.
 
-2. **The Apprentice's Secret**: A talented young apprentice, **Elara**, seeks training under Alýkos specifically, impressing him with a real understanding of traditional methods. However, Alýkos gradually discovers that Elara has a hidden purpose—she has been sent by the Modernist Faction to sabotage his reputation by learning his techniques and then publicly demonstrating that newer tools and methods can replicate his results in a fraction of the time. Alýkos can expose her, keep her as an apprentice and hope to turn her, or allow her deception to continue while using the situation to his advantage.
+2. **The Apprentice's Secret**: A talented young apprentice, **Elara**, seeks training under Alikos specifically, impressing him with a real understanding of traditional methods. However, Alikos gradually discovers that Elara has a hidden purpose—she has been sent by the Modernist Faction to sabotage his reputation by learning his techniques and then publicly demonstrating that newer tools and methods can replicate his results in a fraction of the time. Alikos can expose her, keep her as an apprentice and hope to turn her, or allow her deception to continue while using the situation to his advantage.
 
-3. **The Impossible Commission**: A wealthy noble approaches Alýkos with a commission unlike any he has encountered: construct a building frame that can be rapidly assembled and disassembled for multiple relocations, matching the aesthetics and durability of a permanent structure. The design challenges everything he believes about timber-working—speed and portability contradicting his philosophy of permanent craftsmanship. Yet the commission would be his largest payday, potentially securing his workshop's future and proving to younger craftspeople that traditional methods can answer present needs.
+3. **The Impossible Commission**: A wealthy noble approaches Alikos with a commission unlike any he has encountered: construct a building frame that can be rapidly assembled and disassembled for multiple relocations, matching the aesthetics and durability of a permanent structure. The design challenges everything he believes about timber-working—speed and portability contradicting his philosophy of permanent craftsmanship. Yet the commission would be his largest payday, potentially securing his workshop's future and proving to younger craftspeople that traditional methods can answer present needs.
 
-4. **The Haunted Workshop**: Several of Alýkos's competitors and younger timberwrights who worked in his workshop decades past have begun to die under mysterious circumstances—injuries that seemed minor, deaths that seemed natural, yet all connected to people who worked in his workshop. Alýkos becomes convinced that either his workshop is truly haunted or someone is deliberately targeting those connected to his lineage. Investigation reveals a connection to a timber harvest from thirty years past, and possibly an ancient curse connected to the wood itself.
+4. **The Haunted Workshop**: Several of Alikos's competitors and younger timberwrights who worked in his workshop decades past have begun to die under mysterious circumstances—injuries that seemed minor, deaths that seemed natural, yet all connected to people who worked in his workshop. Alikos becomes convinced that either his workshop is truly haunted or someone is deliberately targeting those connected to his lineage. Investigation reveals a connection to a timber harvest from thirty years past, and possibly an ancient curse connected to the wood itself.
 
-5. **The Reconciliation**: Alýkos receives word that his estranged son, **Tchârzilikon**, has been gravely injured in a workshop accident and requests his father's presence. Though their relationship remains broken, Alýkos finds himself standing over his son's sickbed, realizing that time is running out. As he tends to Tchârzilikon, the younger man reveals that his adoption of the new methods was not rejection of his father but an attempt to compete with his shadow—to prove himself different. Now, facing his own mortality, Tchârzilikon wants reconciliation, but Alýkos has to face his own tangled feelings about the choices both have made and whether they can bridge the gulf between them.
+5. **The Reconciliation**: Alikos receives word that his estranged son, **Charzilikon**, has been gravely injured in a workshop accident and requests his father's presence. Though their relationship remains broken, Alikos finds himself standing over his son's sickbed, realizing that time is running out. As he tends to Charzilikon, the younger man reveals that his adoption of the new methods was not rejection of his father but an attempt to compete with his shadow—to prove himself different. Now, facing his own mortality, Charzilikon wants reconciliation, but Alikos has to face his own tangled feelings about the choices both have made and whether they can bridge the gulf between them.

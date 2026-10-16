@@ -205,7 +205,7 @@ The leaf litter ahead of you is moving. It takes a moment to see that the moveme
 
 # Dossier {#dossier}
 
-The Giant Ant is a soldier ant three to five feet long, bronze-shelled, one of a colony of dozens to hundreds that nests under the floor of the [[place-cntrlrnfrsts|Central Rainforests]] and in the hot forest and river valleys of [[place-okharisrgn|Okháris]], and it exists to feed and defend a queen it never sees. A single soldier is a dangerous animal. A column of them is the reason the forest peoples move a village when the ground over a nest begins to hum.
+The Giant Ant is a soldier ant three to five feet long, bronze-shelled, one of a colony of dozens to hundreds that nests under the floor of the [[place-cntrlrnfrsts|Central Rainforests]] and in the hot forest and river valleys of [[place-okharisrgn|Okharis]], and it exists to feed and defend a queen it never sees. A single soldier is a dangerous animal. A column of them is the reason the forest peoples move a village when the ground over a nest begins to hum.
 
 It is met on its foraging trails, in the old stone enclosures of the savanna margin where a colony has dug in under the paving, and underground wherever a cave or a ruin is warm and damp enough.
 
@@ -215,7 +215,7 @@ A segmented body in dark brown to red-bronze chitin, with a large head, two comp
 
 ## In the Land
 
-Colonies are thickest in the equatorial forest, where the floor is warm and wet the year round, and in the rain-fed western forests and river valleys of Okháris, where the village tribes know every nest within a day's walk of their fields. A nest is a mound and the galleries under it, going down forty feet or more, with foraging trails cleared through the litter in every direction and worn to bare earth by use. The old ruins on the forest's southern edge, with their paved courts and dry chambers, are taken over by colonies that dig through the floors, and a party that enters one is in the nest.
+Colonies are thickest in the equatorial forest, where the floor is warm and wet the year round, and in the rain-fed western forests and river valleys of Okharis, where the village tribes know every nest within a day's walk of their fields. A nest is a mound and the galleries under it, going down forty feet or more, with foraging trails cleared through the litter in every direction and worn to bare earth by use. The old ruins on the forest's southern edge, with their paved courts and dry chambers, are taken over by colonies that dig through the floors, and a party that enters one is in the nest.
 
 ## Key Behaviors
 
@@ -223,7 +223,7 @@ A colony lives by scent. The queen's smell holds it together, the workers lay tr
 
 ## What the Villages Do
 
-The Okhárin village tribes dig no field within a long bowshot of a mound and burn a trail that comes too close to a house. A nest that has grown large enough to send columns into the village is burned out, which takes the whole village a day, with brush piled on the mound and the galleries smoked, and the soldiers that come out of the smoke killed with long-handled hoes; people die at it. The eggs, dug from a small nest in the dry season, are eaten and traded as a delicacy to the temple-cities, and the men who dig them work fast and lose fingers. The shell of a soldier is worked into light plates for a hunter's forearms and shins.
+The Okharin village tribes dig no field within a long bowshot of a mound and burn a trail that comes too close to a house. A nest that has grown large enough to send columns into the village is burned out, which takes the whole village a day, with brush piled on the mound and the galleries smoked, and the soldiers that come out of the smoke killed with long-handled hoes; people die at it. The eggs, dug from a small nest in the dry season, are eaten and traded as a delicacy to the temple-cities, and the men who dig them work fast and lose fingers. The shell of a soldier is worked into light plates for a hunter's forearms and shins.
 
 ## Signs
 

@@ -1,6 +1,6 @@
 ---
 shortcode: ghststrvln
-name: {full: The Ghosts of Tîravlen, aliases: []}
+name: {full: The Ghosts of Tiravlen, aliases: []}
 type: scenario
 subType: adventure
 data:
@@ -14,17 +14,17 @@ data:
   packFolder: adventures
 ---
 
-Lake Tîravel is haunted by the spirits of ancient warriors and a fallen king. The party must investigate the ghosts at the Blood-field of Tîravlen, where King Vélarik III fell centuries before the Founding, and uncover why the dead refuse to rest.
+Lake Tiravel is haunted by the spirits of ancient warriors and a fallen king. The party must investigate the ghosts at the Blood-field of Tiravlen, where King Vélarik III fell centuries before the Founding, and uncover why the dead refuse to rest.
 
 ## Overview
 
-Lake Tîravel, in central [[place-provenzrgn|Provènzia Region]], sits upon a battlefield of immense historical significance. Centuries before the Founding, the fierce warrior-king Vélarik III fought his final battle against invaders at the blood-field of Tîravlen. Though Vélarik fell and his kingdom fragmented, the victory he secured shaped the course of Provenzian history. The lake's waters have long been troubled by strange phenomena: unexplained mists, the sounds of clashing weapons at night, and visions of ancient battles. Now, the haunting has intensified, and the spirits of long-dead warriors walk the shores, trapped between worlds. The party must discover why the dead have awakened and what will allow them final rest.
+Lake Tiravel, in central [[place-provenzrgn|Provenzia Region]], sits upon a battlefield of immense historical significance. Centuries before the Founding, the fierce warrior-king Vélarik III fought his final battle against invaders at the blood-field of Tiravlen. Though Vélarik fell and his kingdom fragmented, the victory he secured shaped the course of Provenzian history. The lake's waters have long been troubled by strange phenomena: unexplained mists, the sounds of clashing weapons at night, and visions of ancient battles. Now, the haunting has intensified, and the spirits of long-dead warriors walk the shores, trapped between worlds. The party must discover why the dead have awakened and what will allow them final rest.
 
 ## Stage One: The Haunting
 
 The party becomes aware of the haunting through:
 
-- Traveling near Lake Tîravel and witnessing supernatural phenomena
+- Traveling near Lake Tiravel and witnessing supernatural phenomena
 - Being hired by a local authority or scholar to investigate
 - Encountering survivors of ghostly encounters
 - Meeting travelers who share stories of terror at the lake's shores
@@ -55,8 +55,8 @@ The party must gather information about King Vélarik III, the ancient battle, a
 
 - Records and chronicles describing Vélarik III's reign and final battle
 - Poetry and legend surrounding the king and the blood-field
-- Archaeological knowledge about burial customs and monuments at Tîravlen
-- Pre-Aurèldían traditions and beliefs about death and the afterlife
+- Archaeological knowledge about burial customs and monuments at Tiravlen
+- Pre-Aureldían traditions and beliefs about death and the afterlife
 - Records of what happened to Vélarik's body, his legendary artifacts, or his family
 
 **Physical Investigation:**
@@ -87,7 +87,7 @@ The party must gather information about King Vélarik III, the ancient battle, a
 - Someone actively prevents investigation (protecting a secret or desecration)
 - A party member experiences profound visions or possession attempts
 - The ghosts become more aggressive as the party's investigation advances
-- The [[affiliation-ordoarcanis|Thôrdimâlon]] or another faction shows interest in the site
+- The [[affiliation-ordoarcanis|Thordimalon]] or another faction shows interest in the site
 
 ## Stage Three: Communing with the Ghosts
 
@@ -108,7 +108,7 @@ The party must make direct contact with the spirits:
 - A sacred oath that was broken or abandoned
 - A treasure, artifact, or body that was lost and not properly honored
 - A descendant or heir who should inherit Vélarik's legacy
-- A warning about a future threat to [[place-provenzrgn|Provènzia Region]]
+- A warning about a future threat to [[place-provenzrgn|Provenzia Region]]
 - The identity of a ghost that holds particular power or authority
 
 **The Ghostly King:**
@@ -133,7 +133,7 @@ The party must undertake a quest to fulfill the spirits' wishes:
 
 **Challenges:**
 
-- The quest may take the party far from Lake Tîravel
+- The quest may take the party far from Lake Tiravel
 - Powerful interests may oppose the party's success
 - The artifact or goal may be protected by magical wards or guardians
 - Modern Provenzian authority may conflict with the party's quest
@@ -144,7 +144,7 @@ The party must undertake a quest to fulfill the spirits' wishes:
 **When the Quest is Fulfilled:**
 
 - The ghosts are satisfied and fade peacefully into rest
-- The blood-field of Tîravlen becomes peaceful, no longer haunted
+- The blood-field of Tiravlen becomes peaceful, no longer haunted
 - The party gains gratitude from both spirits and the living
 - Knowledge of the ancient past is preserved or revealed
 - Vélarik's legacy is honored or restored
@@ -161,8 +161,8 @@ The party must undertake a quest to fulfill the spirits' wishes:
 - The party may be bound by oath to protect Vélarik's legacy
 - If a descendant was restored, they may become an ally or complication
 - The party's reputation grows as defenders and restorers of history
-- Ancient knowledge about [[place-provenzrgn|Provènzia Region]]'s past is revealed, affecting regional politics or religion
-- The [[affiliation-arldnpnthn|Aurèldían]] Church may seek to reconsecrate the site or claim authority over it
+- Ancient knowledge about [[place-provenzrgn|Provenzia Region]]'s past is revealed, affecting regional politics or religion
+- The [[affiliation-arldnpnthn|Aureldian]] Church may seek to reconsecrate the site or claim authority over it
 
 **If the party fails or refuses the quest:**
 
@@ -174,7 +174,7 @@ The party must undertake a quest to fulfill the spirits' wishes:
 
 ## See Also
 
-- [[place-provenzrgn|Provènzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
-- [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Thôrdimâlon]]
+- [[place-provenzrgn|Provenzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[affiliation-arldnpnthn|Aureldian]]
+- [[affiliation-ordoarcanis|Thordimalon]]

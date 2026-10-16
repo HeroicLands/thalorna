@@ -1,6 +1,6 @@
 ---
 shortcode: kayvondzrd
-name: {full: Kayvonad Zârîd, given: Kayvonad, clan: Zârîd, aliases: []}
+name: {full: Kayvonad Zarid, given: Kayvonad, clan: Zarid, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kayvondzrd|Kayvonad Zârîd]]{float=top-left}
+![[kayvondzrd|Kayvonad Zarid]]{float=top-left}
 
 Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, and high cheeks.
 
@@ -428,7 +428,7 @@ Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved
 
 ### The Promising Scholar
 
-Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazryn Desert]], Kayvonad demonstrated early aptitude for mathematics and the theory of matter. He studied at the University of [[place-caldar|Caldar]] from age fifteen, where he rapidly became the favored student of the famous alchemist Master Aldrin Kovoss. Under Kovoss's tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His thesis on the principles of heat underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
+Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazryn Desert]], Kayvonad demonstrated early aptitude for mathematics and the theory of matter. He studied at the University of [[place-caldar|Kaldar]] from age fifteen, where he rapidly became the favored student of the famous alchemist Master Aldrin Kovoss. Under Kovoss's tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His thesis on the principles of heat underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
 
 ### The Fall from Grace
 
@@ -436,7 +436,7 @@ For nearly two decades, Kayvonad published extensively and achieved considerable
 
 ### Present Isolation
 
-Now in his fifties, Kayvonad continues his research in a state of dignified isolation, convinced that he was wronged and that history will vindicate him. He maintains the title of Senior Researcher at the University of Caldar, though he now deals with his colleagues seldom and only as business requires. His laboratory is a marvel of arcane equipment and alchemical apparatus, filled with bubbling retorts and shimmering essences, yet it is more a monument to past glory than a working center of discovery. He has become increasingly bitter about the "mediocrity" that runs his field, dismissive of younger scholars, and obsessively focused on proving his theories through whatever means necessary.
+Now in his fifties, Kayvonad continues his research in a state of dignified isolation, convinced that he was wronged and that history will vindicate him. He maintains the title of Senior Researcher at the University of Kaldar, though he now deals with his colleagues seldom and only as business requires. His laboratory is a marvel of arcane equipment and alchemical apparatus, filled with bubbling retorts and shimmering essences, yet it is more a monument to past glory than a working center of discovery. He has become increasingly bitter about the "mediocrity" that runs his field, dismissive of younger scholars, and obsessively focused on proving his theories through whatever means necessary.
 
 ## Psyche
 
@@ -470,7 +470,7 @@ Kayvonad is motivated primarily by a need for vindication. He is convinced that 
 
 ### Patrons
 
-University of Caldar Administration
+University of Kaldar Administration
 : The institution that employs him, though their support is increasingly perfunctory and administrative rather than real intellectual backing.
 
 The Mineral Consortium of Khazryn
@@ -486,7 +486,7 @@ The Cabal of New Theorists
 
 ### Affiliations
 
-University of Caldar
+University of Kaldar
 : His institutional home, though his status has diminished considerably over the years.
 
 The Alchemists' Society

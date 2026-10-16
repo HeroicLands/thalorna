@@ -42,5 +42,5 @@ A smuggling ring is a stranger-trade. The man who lands the cargo has never met 
 
 ## See Also
 
-- [[lore-khelathiclt|Khelâthi]]—why a record of what strangers owe is the temple's business alone
+- [[lore-khelathiclt|Khelathi]]—why a record of what strangers owe is the temple's business alone
 - [[place-galezkara|Galezkara]]—the capital and its harbor

@@ -18,22 +18,22 @@ data:
 
 ## The Toll You Will Not Miss
 
-A ford behind the Líserë shore stands for the length of a dusk, and its keeper asks what a traveler will give that he will not miss until he is across. On the far bank lie the ships of crews who gave their names, a house of forfeits, and a hoard of raiders' silver. A man named Wárlan Gáranth has found out that forfeits can be sold. The party can bring something out, give something up, or be asked the toll twice.
+A ford behind the Lísere shore stands for the length of a dusk, and its keeper asks what a traveler will give that he will not miss until he is across. On the far bank lie the ships of crews who gave their names, a house of forfeits, and a hoard of raiders' silver. A man named Warlan Garanth has found out that forfeits can be sold. The party can bring something out, give something up, or be asked the toll twice.
 
 ### Hook
 
 Pick the entry that suits the hero. Each leads to [[place-dskfrd|The Dusk Ford]].
 
-- **The thief.** A Calypsa fence tells a story over wine: a Nordmen captain's sword, a chest of arm-rings and a ship's worth of amber lie unguarded on a far bank behind the shore, with a single toll to pay. The fence would like a tenth.
+- **The thief.** A Kalipsa fence tells a story over wine: a Nordmen captain's sword, a chest of arm-rings and a ship's worth of amber lie unguarded on a far bank behind the shore, with a single toll to pay. The fence would like a tenth.
 - **The mercenary or common soldier.** A beacon-station captain on the northern shore says his neighbors' stations are raided less than his own and cannot say why, and he wants to know whether it is the Ford. He pays a month's wages to find out.
-- **The leader.** A College master wants his student **Fálena Brýndal**, who crossed three nights ago looking for the last verse of the ballad of the Forfeit-Men, and has not come back. The Colleges pay in a patron's debt.
+- **The leader.** A College master wants his student **Fálena Bryndal**, who crossed three nights ago looking for the last verse of the ballad of the Forfeit-Men, and has not come back. The Colleges pay in a patron's debt.
 - **The lone wanderer.** A boy of the shore lost his father to the Ford. His mother does not remember she had a husband. The boy asks the wanderer what they might do.
 
 ### Overview
 
 A beacon-keeper of the shore asked the thing of the reeds to hold the raiders back, and the thing answered with a ford that takes a toll. Raiders who cross pay their names and sit forever on the benches of their ships. The line of the beacon-keeper crosses free.
 
-**Wárlan Gáranth**, the last of that line, has learned that the forfeits in the tally-house can be held. A man who holds a name commands the man it came from. He keeps a satchel of knotted cords, and a company of Forfeit-Men follow him, and he sells the rest to buyers on the Calypsa run.
+**Warlan Garanth**, the last of that line, has learned that the forfeits in the tally-house can be held. A man who holds a name commands the man it came from. He keeps a satchel of knotted cords, and a company of Forfeit-Men follow him, and he sells the rest to buyers on the Kalipsa run.
 
 ### Scene One: The First Stone
 
@@ -60,7 +60,7 @@ A beacon-keeper of the shore asked the thing of the reeds to hold the raiders ba
 
 **Purpose.** The puzzle: find what was lost, and learn how to name it.
 
-**Situation.** The causeway ends in grey mud, the black stakes and the rotted ships with their silent crews. Behind the ships stands a long house of stakes and reed. Inside, on shelves, hang the forfeits: cords, tokens, braided straw. Every one hums faintly when the hand nears it. Fálena Brýndal, the bard, sits on a bench by the door with her harp across her knees. She cannot tell the party her name.
+**Situation.** The causeway ends in grey mud, the black stakes and the rotted ships with their silent crews. Behind the ships stands a long house of stakes and reed. Inside, on shelves, hang the forfeits: cords, tokens, braided straw. Every one hums faintly when the hand nears it. Fálena Bryndal, the bard, sits on a bench by the door with her harp across her knees. She cannot tell the party her name.
 
 **NPCs and threats.** **Fálena** gave her memory of the last verse, the thing she crossed to learn, and has lost the memory of who she is. She is gentle, puzzled, and certain of nothing but that she was looking for something. The Forfeit-Men on the benches turn their heads toward the party as it passes, and one of them, a **steersman**, rises and walks to the house door without being told.
 
@@ -75,7 +75,7 @@ A beacon-keeper of the shore asked the thing of the reeds to hold the raiders ba
 
 **Consequences.** Reclaiming a forfeit gives the owner back a piece of themselves. The Keeper knows, and notes it.
 
-**If bypassed.** A party that skips the house sees the Forfeit-Men and the heaped plunder, and not the forfeits. They do not know what Wárlan holds.
+**If bypassed.** A party that skips the house sees the Forfeit-Men and the heaped plunder, and not the forfeits. They do not know what Warlan holds.
 
 ### Scene Three: The Weight of Silver
 
@@ -96,28 +96,28 @@ A beacon-keeper of the shore asked the thing of the reeds to hold the raiders ba
 
 **Consequences.** The dusk is shorter on the far bank than on the near, and every heap handled costs time. The party must be at the stones before the first star clears the trees.
 
-**If bypassed.** If the party takes nothing, they reach the causeway early, and Wárlan is waiting for them rather than catching them.
+**If bypassed.** If the party takes nothing, they reach the causeway early, and Warlan is waiting for them rather than catching them.
 
 ### Scene Four: The Satchel
 
 **Purpose.** The confrontation.
 
-**Situation.** Where the causeway meets the stones, a man stands holding a lamp and a leather satchel. **Wárlan Gáranth** is a lean, dry man in a shore-cloak, with a beacon-keeper's signet on his thumb and a smile that has learned to fit his face. He crosses free, as his line does, and has been taking the forfeits for years.
+**Situation.** Where the causeway meets the stones, a man stands holding a lamp and a leather satchel. **Warlan Garanth** is a lean, dry man in a shore-cloak, with a beacon-keeper's signet on his thumb and a smile that has learned to fit his face. He crosses free, as his line does, and has been taking the forfeits for years.
 
-**NPCs and threats.** Wárlan holds forfeits in the satchel, knotted cords that each hold a Forfeit-Man's name. A man who holds a name commands the man. Four Forfeit-Men rise from the benches at Wárlan's word and walk the causeway to stand by him. They are slow, strong, and perfectly obedient. Wárlan does not fight. He bargains, and when bargaining fails he sends the Forfeit-Men.
+**NPCs and threats.** Warlan holds forfeits in the satchel, knotted cords that each hold a Forfeit-Man's name. A man who holds a name commands the man. Four Forfeit-Men rise from the benches at Warlan's word and walk the causeway to stand by him. They are slow, strong, and perfectly obedient. Warlan does not fight. He bargains, and when bargaining fails he sends the Forfeit-Men.
 
 **Player choices.**
 
-- _Force:_ kill Wárlan, and the satchel's cords fall into the mud. A forfeit left lying is free to be taken by anyone, and the Forfeit-Men sit down.
+- _Force:_ kill Warlan, and the satchel's cords fall into the mud. A forfeit left lying is free to be taken by anyone, and the Forfeit-Men sit down.
 - _Stealth:_ cut the satchel's strap in the dark. The lamp dies if its flame is shaded.
 - _Guile:_ offer a trade he cannot refuse: a forfeit of his own, a name he lost in his youth. The satchel opens.
-- _Parley:_ Wárlan is not a fool, and he is not happy. He has lived by selling the shore's secret and does not sleep well. Offered a way to stop, he considers it.
+- _Parley:_ Warlan is not a fool, and he is not happy. He has lived by selling the shore's secret and does not sleep well. Offered a way to stop, he considers it.
 
-**Clues and rewards.** The satchel. The signet, which marks the pact's line. Wárlan's account of the buyers on the Calypsa run.
+**Clues and rewards.** The satchel. The signet, which marks the pact's line. Warlan's account of the buyers on the Kalipsa run.
 
-**Consequences.** If Wárlan is spared, he gives the satchel or trades it, and the party owes the beacon family a favor. If he dies, the signet is the proof of the family's line.
+**Consequences.** If Warlan is spared, he gives the satchel or trades it, and the party owes the beacon family a favor. If he dies, the signet is the proof of the family's line.
 
-**If bypassed.** If the party takes another way back, the stones are laid longer, and Wárlan is on the near bank.
+**If bypassed.** If the party takes another way back, the stones are laid longer, and Warlan is on the near bank.
 
 ### Scene Five: The Return
 
@@ -143,14 +143,14 @@ A beacon-keeper of the shore asked the thing of the reeds to hold the raiders ba
 ### Aftermath
 
 - **If the satchel was returned,** the Forfeit-Men rest, Fálena recovers her verse, and the Colleges owe the party a debt. The shore behind the Ford is raided as often as its neighbors.
-- **If the satchel was kept,** the party holds a hundred names and the knowledge of how to use them. Wárlan's buyers come looking.
+- **If the satchel was kept,** the party holds a hundred names and the knowledge of how to use them. Warlan's buyers come looking.
 - **If the hoard was taken,** a sword with a chieftain's debt is in someone's hands.
 - **If the party left without crossing,** the Ford stands every dusk, and the boy is still forgotten.
 
 ### See Also
 
 - [[place-dskfrd|The Dusk Ford]]
-- [[place-lisere|Líserë]]
+- [[place-lisere|Lísere]]
 - [[lore-theasking|The Asking]]
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|The Grove Council]]
 - [[lore-vylrncrncy|Vylarian Currency]]

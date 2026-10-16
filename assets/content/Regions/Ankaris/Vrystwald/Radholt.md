@@ -1,6 +1,6 @@
 ---
 shortcode: radholt
-name: {full: Rádholt, aliases: []}
+name: {full: Radholt, aliases: []}
 type: place
 subType: settlement
 description: "A Varokh village in Skathwald whose grove council sounds the alarm when anyone goes missing near the Grimak thicket."
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Rádholt** (320 people) is a Varokh village of [[place-skathwald|Skathwald]] under the [[lore-crowttm|crow]], and its Shaman holds the leading seat. A grove council there chooses when to sound the alarm.
+**Radholt** (320 people) is a Varokh village of [[place-skathwald|Skathwald]] under the [[lore-crowttm|crow]], and its Shaman holds the leading seat. A grove council there chooses when to sound the alarm.
 
 The alarm sounds the moment anyone is missing near [[place-grimak|Grimak]]. The whole village goes out with torches before dark, because a person who has answered the voice from the thicket walks toward the hollow and does not stop. The custom dates from [[lore-grimakburning|The Burning at Grimak]].
 

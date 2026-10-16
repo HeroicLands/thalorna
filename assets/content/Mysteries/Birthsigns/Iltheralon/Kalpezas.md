@@ -1,6 +1,6 @@
 ---
 shortcode: thyron
-name: {full: Kâlpêzâs, aliases: []}
+name: {full: Kalpezas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Gate: born to the blade and hard to unnerve, blunt company in hall or market."
@@ -35,7 +35,7 @@ sohl:
       hydalis: -15
 ---
 
-Kâlpêzâs, the Gate, is the warrior's star. Its natives are born to the blade and the martial disciplines, hardy of body, though the sign grants them little gift for tongues, courts, or the study of wild places.
+Kalpezas, the Gate, is the warrior's star. Its natives are born to the blade and the martial disciplines, hardy of body, though the sign grants them little gift for tongues, courts, or the study of wild places.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Kâlpêzâs, the Gate, is the warrior's star. Its natives are born to the blade 
 | Spirit  | Lore, Mystical            | −5  |
 | Water   | Language, Social          | −15 |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

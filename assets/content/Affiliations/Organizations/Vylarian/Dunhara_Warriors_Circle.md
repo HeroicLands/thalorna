@@ -3,14 +3,14 @@ shortcode: wrrscrcldnhrtrbs
 name:
   full: The Warrior's Circle of the Dunhara Tribes
   aliases:
-    - Tîgh'Bahârân
+    - Tigh'Baharan
     - The Circle of the Mighty
     - The Quarterly Hall
     - Dunhara Warrior's Circle
     - The Warrior's Circle
 type: affiliation
 subType: governmental
-description: "The ancient circle of acclaimed Dunhari warriors, meeting at the season-turns at the Stone of Ranâz to keep the peace among the tribes and to gather them against an enemy no tribe could face alone."
+description: "The ancient circle of acclaimed Dunhari warriors, meeting at the season-turns at the Stone of Ranaz to keep the peace among the tribes and to gather them against an enemy no tribe could face alone."
 tags: []
 data:
   culture: vylarianclt
@@ -21,20 +21,20 @@ data:
   governance:
     model: council
     summary: >-
-      A pan-tribal circle of acclaimed warriors, meeting quarterly at the Stone of Ranâz with no captain over it, its rulings made by whoever comes and its order kept by a Voice drawn each meeting by lot.
+      A pan-tribal circle of acclaimed warriors, meeting quarterly at the Stone of Ranaz with no captain over it, its rulings made by whoever comes and its order kept by a Voice drawn each meeting by lot.
     ranks:
       - level: 0
         title: Cast Out
         description: >-
           A warrior put out of the Circle, denied its acclamation and the shelter of the pan-tribal peace.
       - level: 1
-        title: Bahâr
+        title: Bahar
         description: >-
-          Named to the Circle by acclamation of the existing members, never by application and never by tribal appointment; one of the hundred and eight, wearing the indigo vâst-bahâr renewed at the Stone.
+          Named to the Circle by acclamation of the existing members, never by application and never by tribal appointment; one of the hundred and eight, wearing the indigo vast-bahar renewed at the Stone.
       - level: 2
-        title: Vâst
+        title: Vast
         description: >-
-          Of the Tîgh'Vâst, the informal inner body of those whose service has been longest. It does not vote separately, but a question on which it is united is rarely opposed by the full Circle.
+          Of the Tigh'Vast, the informal inner body of those whose service has been longest. It does not vote separately, but a question on which it is united is rarely opposed by the full Circle.
     offices:
       Voice of the Quarter: >-
         Calls the meeting to order, frames the questions and announces the rulings. Chosen by lot from among those present and rotating each meeting, from marked stones the Storm Cults keep in trust between sittings.
@@ -47,12 +47,12 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Dunhari: Tîgh'Bahârân, "Circle of the Mighty"_
+_Dunhari: Tigh'Baharan, "Circle of the Mighty"_
 
-A Dunhari boy learns to recognize the strip of deep-blue leather on a warrior's left arm before he learns his own genealogy, and he learns the rule that goes with it: a man who wears the strip has sworn never to draw on another Dunhari while an outside enemy is in the desert. The **Warrior's Circle** is the body that keeps that oath, a gathering of the most respected warriors of every tribe that meets four times a year, at the season-turns, at the [[place-stoneofranaz|Stone of Ranâz]], and gathers the tribes against a threat none of them could meet alone.
+A Dunhari boy learns to recognize the strip of deep-blue leather on a warrior's left arm before he learns his own genealogy, and he learns the rule that goes with it: a man who wears the strip has sworn never to draw on another Dunhari while an outside enemy is in the desert. The **Warrior's Circle** is the body that keeps that oath, a gathering of the most respected warriors of every tribe that meets four times a year, at the season-turns, at the [[place-stoneofranaz|Stone of Ranaz]], and gathers the tribes against a threat none of them could meet alone.
 
 - **Type:** a circle of warriors drawn from every tribe, with no captain over it
-- **Region:** the [[place-dunhardsrtrgn|Dunhara Desert]], meeting at the Stone of Ranâz, the hill-shrine where three tribal territories meet
+- **Region:** the [[place-dunhardsrtrgn|Dunhara Desert]], meeting at the Stone of Ranaz, the hill-shrine where three tribal territories meet
 - **Convenes:** four times a year, at the season-turns; a calling between turns is rare and solemn
 
 ## Overview
@@ -65,15 +65,15 @@ The Circle's authority is moral. It levies nothing and judges no quarrel between
 
 ## Membership
 
-The Circle's full number is one hundred and eight warriors, the _bahârân_, though some seventy usually attend a meeting. A member who stays away sends no one in his place; the rulings are made by those who come. Nobody is expelled, but a member who misses three meetings in a row is understood to have stepped aside.
+The Circle's full number is one hundred and eight warriors, the _baharan_, though some seventy usually attend a meeting. A member who stays away sends no one in his place; the rulings are made by those who come. Nobody is expelled, but a member who misses three meetings in a row is understood to have stepped aside.
 
-The longest-serving members form an informal inner body, the **Council of Scars** (_Tîgh'Vâst_), perhaps a dozen in any year. It does not vote separately, and when it is united the full Circle seldom goes against it.
+The longest-serving members form an informal inner body, the **Council of Scars** (_Tigh'Vast_), perhaps a dozen in any year. It does not vote separately, and when it is united the full Circle seldom goes against it.
 
 The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, frames the questions and announces the rulings, is drawn by lot from those present and changes every meeting. The lot is drawn with marked stones, and between meetings the [[affiliation-strmcltsbhrms|Storm Cults]] keep the stones in trust, a small office of religious authority that has lasted centuries.
 
 ## Notable Members
 
-- [[being-shadznkmrz|Shâdezan Kamrûz]]: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of Báhrámiš, so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
+- [[being-shadznkmrz|Shadezan Kamruz]]: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of Báhramis, so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
 - **The Council of Scars**: a dozen old warriors whose agreement settles most questions before they are put.
 
 ## The Two Principles
@@ -86,14 +86,14 @@ When the Circle rides, its host is its own members and whatever warriors their t
 
 ## Relations
 
-- **The common council of the tribes**: the chieftains' council at [[place-ghavulavad|Ghavûlâvad]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
+- **The common council of the tribes**: the chieftains' council at [[place-ghavulavad|Ghavulavad]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
 - **The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]**: the two are woven together. Many members are storm-cult initiates, the cults' practitioners open and close every meeting, and the cults' standing rests partly on the Circle's respect.
 - **The Sovidur**: the herding tribes of the [[place-khzryndsrtrgn|Khazryn]] steppe to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sovidur]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
 - **Foreign powers**: the Circle does not treat with any power outside the desert. Foreign envoys who reach the Stone uninvited are received with formal courtesy and sent away with nothing.
 
 ## The Mark
 
-A member wears a narrow strip of dyed leather around the upper left arm, the _vâst-bahâr_ ("scar of the mighty"), given at acclamation and never replaced. The dye is a deep indigo from a desert plant, and the strip is renewed only by dipping it again in the vat kept at the Stone of Ranâz, at a meeting of the Circle. A strip left unrenewed for three meetings fades to a paler blue and marks its wearer as having stepped aside.
+A member wears a narrow strip of dyed leather around the upper left arm, the _vast-bahar_ ("scar of the mighty"), given at acclamation and never replaced. The dye is a deep indigo from a desert plant, and the strip is renewed only by dipping it again in the vat kept at the Stone of Ranaz, at a meeting of the Circle. A strip left unrenewed for three meetings fades to a paler blue and marks its wearer as having stepped aside.
 
 ## Plot Hooks
 
@@ -104,7 +104,7 @@ A member wears a narrow strip of dyed leather around the upper left arm, the _v�
 
 ## See Also
 
-- [[place-stoneofranaz|Stone of Ranâz]]—the hill-shrine where the Circle meets
+- [[place-stoneofranaz|Stone of Ranaz]]—the hill-shrine where the Circle meets
 - [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations and their common council
 - [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the keepers of the marked stones
 - [[lore-dunhariclt|Dunhari]]—the people whose code the Circle keeps

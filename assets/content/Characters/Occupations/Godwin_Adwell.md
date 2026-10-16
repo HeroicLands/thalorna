@@ -1,6 +1,6 @@
 ---
 shortcode: godwinadwl
-name: {full: Godwin Adwell, aliases: []}
+name: {full: Kenstan Adwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Godwin Adwell is a 38-year-old man who stands 6'1" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows and give him a lively gaze. He has a straight nose and thin lips. He has pale skin with a ruddy complexion. His gray hair is combed neatly to one side.
+Kenstan Adwell is a 38-year-old man who stands 6'1" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows and give him a lively gaze. He has a straight nose and thin lips. He has pale skin with a ruddy complexion. His gray hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Godwin Adwell is a herder.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Kenstan Adwell is a herder.
 
-Godwin comes from a long line of herders, and has spent his life tending sheep and goats in the hills. He knows the land like the back of his hand and can find his way over even the most treacherous paths. His quiet, calm manner suits him to the solitary life of a herder, though he can be protective when he needs to be. He is deeply attached to his animals and believes in treating them with care and respect.
+Kenstan comes from a long line of herders, and has spent his life tending sheep and goats in the hills. He knows the land like the back of his hand and can find his way over even the most treacherous paths. His quiet, calm manner suits him to the solitary life of a herder, though he can be protective when he needs to be. He is deeply attached to his animals and believes in treating them with care and respect.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ He prefers solitude, is awkward in company, and is stubborn about traditional me
 
 ### Motivation
 
-Godwin wants his flock kept safe on the hills and the grazing his family has always used left to him.
+Kenstan wants his flock kept safe on the hills and the grazing his family has always used left to him.
 
 ### Strengths
 
@@ -419,13 +419,13 @@ He is skilled in animal husbandry, knows the local terrain, and is calm under pr
 
 ## Social
 
-Godwin belongs to no guild and works independently.
+Kenstan belongs to no guild and works independently.
 
 ## Companions
 
 ### Patrons
 
-Godwin's patrons are the local farmers who buy his wool and cheese.
+Kenstan's patrons are the local farmers who buy his wool and cheese.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Few, though some nearby farmers dispute his grazing rights.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma**—A dispute over grazing comes to the point where Godwin can keep his flock on the hill and lose the farmers who buy his wool and cheese, or give up the hill and keep them.
+1. **The Herder's Dilemma**—A dispute over grazing comes to the point where Kenstan can keep his flock on the hill and lose the farmers who buy his wool and cheese, or give up the hill and keep them.
 
-2. **Old Grudges**—A nearby farmer who disputes Godwin's grazing rights has fenced a path his flock has always used.
+2. **Old Grudges**—A nearby farmer who disputes Kenstan's grazing rights has fenced a path his flock has always used.
 
-3. **Echoes of the Past**—A boundary stone Godwin's family set generations ago is found moved, and the hill it marked is claimed by another.
+3. **Echoes of the Past**—A boundary stone Kenstan's family set generations ago is found moved, and the hill it marked is claimed by another.
 
-4. **Shifting Winds**—Political change in Aelwyth threatens the common grazing Godwin's flock depends on, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Aelwyth threatens the common grazing Kenstan's flock depends on, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A lord offers Godwin the keeping of his own flocks, with a cottage and wages, and what would become of Godwin's animals is not said.
+5. **The Opportunity**—A lord offers Kenstan the keeping of his own flocks, with a cottage and wages, and what would become of Kenstan's animals is not said.

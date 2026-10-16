@@ -1,11 +1,11 @@
 ---
 shortcode: knalthyrathe
 name:
-  full: Knalthýra the Merciless
-  aliases: [Overseer Knalthýra the Merciless, Overseer Knalthýra]
+  full: Knalthira the Merciless
+  aliases: [Overseer Knalthira the Merciless, Overseer Knalthira]
 type: being
 subType: npc
-description: The brutal overseer directly responsible for most of Ulthorv Nalthendikh's torments.
+description: The brutal overseer directly responsible for most of Ulthorv Nalthendik's torments.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Knalthýra the Merciless is a 44-year-old woman who stands 5'7" tall with a medium build. She has light skin, weathered complexion, red hair, and green eyes.
+Knalthira the Merciless is a 44-year-old woman who stands 5'7" tall with a medium build. She has light skin, weathered complexion, red hair, and green eyes.
 
 # Dossier {#dossier}
 
-Knalthýra the Merciless is the brutal overseer directly responsible for most of [[being-ulthrvnlthndkh|Ulthorv Nalthendikh]]'s torments. She takes personal pleasure in crushing the spirit of the enslaved, and has specifically targeted Ulthorv for additional punishment because of his refusal to break.
+Knalthira the Merciless is the brutal overseer directly responsible for most of [[being-ulthrvnlthndkh|Ulthorv Nalthendik]]'s torments. She takes personal pleasure in crushing the spirit of the enslaved, and has specifically targeted Ulthorv for additional punishment because of his refusal to break.

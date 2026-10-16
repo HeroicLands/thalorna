@@ -30,7 +30,7 @@ south because pushing south means the passes; Aldorath has never seriously tried
 north-east for the same reason. Sixty years of mutual hostility have produced skirmishes at the pass-heads
 and nothing else whatever.
 
-The southern ends are watched from [[place-caerwynd|Caerwynd]]; the northern ends are garrisoned by
+The southern ends are watched from [[place-caerwynd|Kaerwynd]]; the northern ends are garrisoned by
 whichever of the jarl's men is currently out of favor, which tells you what the posting is thought
 to be worth.
 
@@ -43,4 +43,4 @@ outside world comes over these mountains on a pack-pony.
 
 ## See Also
 
-- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-ironfells|The Ironfells]] · [[place-caerwynd|Caerwynd]]
+- [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] · [[place-ironfells|The Ironfells]] · [[place-caerwynd|Kaerwynd]]

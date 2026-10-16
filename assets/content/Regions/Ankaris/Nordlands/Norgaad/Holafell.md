@@ -3,14 +3,14 @@ shortcode: holafell
 name: {full: Holafell, aliases: []}
 type: place
 subType: site
-description: "The oldest hof of Hrímthur, a sanctuary cut into the rock of a Norgaad fell, where the Wound is renewed at the turn of every winter."
+description: "The oldest hov of Hrimthur, a sanctuary cut into the rock of a Norgaad fell, where the Wound is renewed at the turn of every winter."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [norgaad], population: 0, packFolder: norgaad}
 ---
 
 ## Overview
 
-Once a year, at the turn of winter, someone cuts into the rock at Holafell, and nobody mends the cut before the next one. Holafell is a bare hill in [[place-norgaad|Norgaad]] with a sanctuary cut into its stone, and it is the oldest hof of [[lore-hrimthurspr|Hrímthur]], the Rime-Giant whose faithful teach that the world was cut from a living body by a violence nobody has stopped committing. The [[affiliation-hrimthur|Faith of Hrímthur]] has few hofs and all of them are hard to reach. Holafell is the eldest, and the [[affiliation-thursborn|Northern Hall in Targud]] is the largest. The name is the description: _hola-_ is a sanctuary cut into the rock, set before the generic for a bare hill.
+Once a year, at the turn of winter, someone cuts into the rock at Holafell, and nobody mends the cut before the next one. Holafell is a bare hill in [[place-norgaad|Norgaad]] with a sanctuary cut into its stone, and it is the oldest hov of [[lore-hrimthurspr|Hrimthur]], the Rime-Giant whose faithful teach that the world was cut from a living body by a violence nobody has stopped committing. The [[affiliation-hrimthur|Faith of Hrimthur]] has few hovs and all of them are hard to reach. Holafell is the eldest, and the [[affiliation-thursborn|Northern Hall in Targud]] is the largest. The name is the description: _hola-_ is a sanctuary cut into the rock, set before the generic for a bare hill.
 
 ## The Renewal of the Wound
 
@@ -24,6 +24,6 @@ The Giant's Children at Holafell tell the famine of the [[lore-threewinters|Thre
 
 ## See Also
 
-- [[affiliation-hrimthur|Faith of Hrímthur]]—the faith whose oldest hof this is
+- [[affiliation-hrimthur|Faith of Hrimthur]]—the faith whose oldest hov this is
 - [[affiliation-thursborn|Giant's Children]]—the order whose senior rites are held here
 - [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the Three Winters and Holafell's Wound

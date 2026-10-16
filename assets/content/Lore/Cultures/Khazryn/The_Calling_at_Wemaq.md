@@ -1,9 +1,9 @@
 ---
 shortcode: wemaqcalling
-name: {full: The Calling at Vömek, aliases: [Vömekoqod]}
+name: {full: The Calling at Vomek, aliases: [Vomekoqod]}
 type: lore
 subType: literature
-description: "The names of the tribe killed at the Green Oasis, as the elders of the tribe that took in its survivors speak them to the four winds in their own camp and refuse to speak them at the water: a Sovidur calling, with the dovaq's refusal of the banner kept word for word and the orqun given no name."
+description: "The names of the tribe killed at the Green Oasis, as the elders of the tribe that took in its survivors speak them to the four winds in their own camp and refuse to speak them at the water: a Sovidur calling, with the dovaq's refusal of the banner kept word for word and the orkun given no name."
 tags: [draft, khazryn]
 data:
   packFolder: settinglore
@@ -19,15 +19,15 @@ data:
   language: sowideslng
 ---
 
-**The Calling at Vömek**, _Vömekoqod_, is a calling (_oqod_) of the [[lore-sowidesclt|Sovidur]], the form in which the steppe speaks the names of its dead to the four winds at a laying-out, enlarged here from one body to a tribe. The tribe is the **Khuvanur**, the deer people, the last tribe that refused the banner of the second orqun and was killed at [[place-wemaq|Vömek]] over a morning, some four thousand people with their herds, and forbidden the laying-out; the dovaq made to watch was **Görentoliz**, storm-spear. The few who got away over the dunes were taken in by the **Kesükür**, the eagle people, whose range lies a day's ride from the oasis, and the Kesükür elders have held the names by heart ever since and teach them to their children. They have never agreed to speak them at the water, because a name spoken at Vömek is spoken before every tribe on the road, and the calling cannot name the dead without naming what was done to them, and the Kesükür sell passage to every tribe that rode under the banner. So the calling is spoken in the Kesükür camp with the oasis a day away, in the first days of the grass, by the eldest, with the children answering.
+**The Calling at Vomek**, _Vomekoqod_, is a calling (_oqod_) of the [[lore-sowidesclt|Sovidur]], the form in which the steppe speaks the names of its dead to the four winds at a laying-out, enlarged here from one body to a tribe. The tribe is the **Khuvanur**, the deer people, the last tribe that refused the banner of the second orkun and was killed at [[place-wemaq|Vomek]] over a morning, some four thousand people with their herds, and forbidden the laying-out; the dovaq made to watch was **Gorentoliz**, storm-spear. The few who got away over the dunes were taken in by the **Kesukur**, the eagle people, whose range lies a day's ride from the oasis, and the Kesukur elders have held the names by heart ever since and teach them to their children. They have never agreed to speak them at the water, because a name spoken at Vomek is spoken before every tribe on the road, and the calling cannot name the dead without naming what was done to them, and the Kesukur sell passage to every tribe that rode under the banner. So the calling is spoken in the Kesukur camp with the oasis a day away, in the first days of the grass, by the eldest, with the children answering.
 
-The steppe holds that a soul nobody names is not found by the sky-father and is found first by the hunters; the oasis, where the dates fall on grass that has never been less than knee-high and every sleeper dreams the morning, is what that belief points at. The rendering below is one elder's calling as a rider of the Kesükür gave it to a factor at [[place-qisomrktcmp|Qiiso]] for a price, with the children's answers set in italics. It keeps the steppe's custom in two things: the orqun has no name anywhere in it, and the dovaq's refusal is repeated in the same words each time, because a witnessed word is held exactly or not at all. The calling names a few dozen of the dead; the elders hold the rest, and the piece says so.
+The steppe holds that a soul nobody names is not found by the sky-father and is found first by the hunters; the oasis, where the dates fall on grass that has never been less than knee-high and every sleeper dreams the morning, is what that belief points at. The rendering below is one elder's calling as a rider of the Kesukur gave it to a factor at [[place-qisomrktcmp|Qiiso]] for a price, with the children's answers set in italics. It keeps the steppe's custom in two things: the orkun has no name anywhere in it, and the dovaq's refusal is repeated in the same words each time, because a witnessed word is held exactly or not at all. The calling names a few dozen of the dead; the elders hold the rest, and the piece says so.
 
-: The Calling at Vömek {#calling}
+: The Calling at Vomek {#calling}
 
 ```poetry {form=oqod lang=en}
 Wind off the grass. First wind. The one that comes green.
-We are the Kesükür, and these are not our dead,
+We are the Kesukur, and these are not our dead,
 and we call them, because the ones whose dead they are
 are the dead. Take the names up. Take them where the sky is.
 We call them here, on our own ground, a day from the water.
@@ -68,7 +68,7 @@ and that was not the thing to have read. He was not spared.
 Shamans are not killed. Children are not killed. Women are not killed.
 That is the custom of a raid. It was not a raid. We say what it was.
   _It was not a raid._
-Vööyerlün, who was the dovaq's second wife, who was carrying,
+Vooyerlun, who was the dovaq's second wife, who was carrying,
 and who was found in the grass with her hands over the child under her heart,
 and who is one name, and the child is no name, and we call the one.
 A boy of the Khuvanur, fifteen, who had his first spear that year
@@ -112,8 +112,8 @@ who held the dune. The youngest, who was eleven, and held the horses,
 and held them, the song says, until there were no men left to ride them,
 and then let them go, so that the banner would not have them, and the mares ran,
 and were caught, and that is where the long-legged horses of the second union came from.
-Some of them. The mares at Vömek. Say it.
-  _The mares at Vömek._
+Some of them. The mares at Vomek. Say it.
+  _The mares at Vomek._
 Wind off the stone, take these. There is one more
 whom we do not say under this wind. Not here.
   _Not here._
@@ -123,7 +123,7 @@ Take these up and do not hurry, because there is nothing waiting for them
 at the water but grass, and the grass does not hurry.
 It has not been less than knee-high since that spring. The palms fruit twice.
 Seeds thrown from the saddle at dusk are green by the morning.
-Everything grows at Vömek. That is what the four thousand are doing there.
+Everything grows at Vomek. That is what the four thousand are doing there.
   _That is what they are doing._
 
 The ones whose names the elders hold and this calling does not reach:
@@ -141,7 +141,7 @@ That is the thing. That is the whole of the thing. Say it.
 Wind off the cold, take these. There is one more.
 Now we say him. Not at the water. Here.
 
-Görentoliz. Storm-spear. Dovaq of the Khuvanur.
+Gorentoliz. Storm-spear. Dovaq of the Khuvanur.
 He was asked at the pool, before the sworn tribes, with the banners in the palms,
 by the one we do not name, to swear under the open sky.
 And he said this, and we say it as he said it, and you will say it after:
@@ -155,7 +155,7 @@ Foul the wells. We will dig others. We refuse._
   Foul the wells. We will dig others. We refuse._
 And the one we do not name did not foul the wells.
 The one we do not name killed the Khuvanur over a morning
-and had Görentoliz held at the pool's edge with his face toward it
+and had Gorentoliz held at the pool's edge with his face toward it
 and made him watch, and when it was done, let him go,
 on foot, with no horse, no water, no token and no tribe,
 and he walked a day to our wells, which were a day away, and we took him in.
@@ -166,10 +166,10 @@ We held them as he said them. Then he went out to our laying-out ground
 and lay down with his face to the sky, and that is where he is,
 and we said his name to the four winds, because he died of nothing but the names,
 and a man who dies of nothing is laid out like any man.
-Görentoliz. Storm-spear. Taken up. Say it.
-  _Görentoliz. Storm-spear. Taken up._
+Gorentoliz. Storm-spear. Taken up. Say it.
+  _Gorentoliz. Storm-spear. Taken up._
 
-Now this is the witnessed word of the elders of the Kesükür,
+Now this is the witnessed word of the elders of the Kesukur,
 spoken at the central well before the moot, in the first year of the Hundred Banners,
 and spoken again by every eldest since, in these words, under the open sky:
 _We hold the names of the Khuvanur. We say them in our camp.
@@ -191,9 +191,9 @@ We have told you for a price, and the price is paid, and that is the custom too.
 
 ## See Also
 
-- [[place-wemaq|Vömek]]—the oasis, the field, and the dream
-- [[lore-wemaqbattle|The Battle of Vömek]]—the morning the calling names
+- [[place-wemaq|Vomek]]—the oasis, the field, and the dream
+- [[lore-wemaqbattle|The Battle of Vomek]]—the morning the calling names
 - [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the union that began there
 - [[lore-bloodfield|Blood-fields]]—what a quickening field is, and what a late laying-out does to one
-- [[lore-sowidesclt|The Sovidur]]—the laying-out, the four winds and the orqun
+- [[lore-sowidesclt|The Sovidur]]—the laying-out, the four winds and the orkun
 - [[place-hskrrgn|Khoshiqor]]—the sand country the oasis lies in

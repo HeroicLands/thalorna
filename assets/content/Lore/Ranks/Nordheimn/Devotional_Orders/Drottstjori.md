@@ -1,6 +1,6 @@
 ---
 shortcode: drottstjorirnk
-name: {full: "Dróttstjóri", aliases: []}
+name: {full: "Dróttstjori", aliases: []}
 type: lore
 subType: law
 description: "The leading standing of a devotional order of the faiths of the Ten, holding its fullest claim on what it confers."
@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Each devotional order has a leader, and in every one the leader's standing is the last the order records. A dróttstjóri carries the order's purpose furthest and speaks or acts for it where a devotee cannot.
+Each devotional order has a leader, and in every one the leader's standing is the last the order records. A dróttstjori carries the order's purpose furthest and speaks or acts for it where a devotee cannot.
 
 ## What This Standing Is
 
@@ -24,7 +24,7 @@ He holds the order's full claim on what it confers, and leads its work in whatev
 
 ## Obligations
 
-He answers for the order's standing as a devotee does not, and bears whatever a hof's godi or a senior member expects of him beyond ordinary membership.
+He answers for the order's standing as a devotee does not, and bears whatever a hov's gudi or a senior member expects of him beyond ordinary membership.
 
 ## Offices Open at This Standing
 

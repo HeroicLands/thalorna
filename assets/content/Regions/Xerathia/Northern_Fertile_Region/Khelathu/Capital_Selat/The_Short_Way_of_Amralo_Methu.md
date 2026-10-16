@@ -3,7 +3,7 @@ shortcode: shortway
 name: {full: The Short Way of Amralo'Methu, aliases: []}
 type: place
 subType: site
-description: "The stub of a Way off the death-road at Zu-Gezer where the Vylarian house of the occupation lies: two royal tombs, the commander's sealed in the Khelâthi manner over Vylarian grave-goods, and bare ground beyond them."
+description: "The stub of a Way off the death-road at Zu-Gezer where the Vylarian house of the occupation lies: two royal tombs, the commander's sealed in the Khelathi manner over Vylarian grave-goods, and bare ground beyond them."
 tags: [necropolis, tomb]
 data:
   banner: khelathubnr
@@ -20,11 +20,11 @@ It is the Way of the Vylarian house, the one the king-list enters by its throne 
 
 ## How It Was Made
 
-The commander the priesthood crowned as Zab'el'Qar ([[lore-vylconquest|the Vylarian Conquest]]) died after twelve years on the throne, and the priesthood buried him as it buries any Gar-Aû. His body was embalmed in the Khelâthi manner, and his tomb was sealed over the grave-goods of a Vylarian general: the arms, the armor and the standard-bearer's staff that a Khelâthi tomb-maker had no pattern for. His son, Zab'el'Qar II, lies beside him in a tomb of the ordinary kind. The Way was never lengthened, because the house closed with the son ([[lore-foreignhs|the Closing of the Foreign House]]).
+The commander the priesthood crowned as Zab'el'Qar ([[lore-vylconquest|the Vylarian Conquest]]) died after twelve years on the throne, and the priesthood buried him as it buries any Gar-Au. His body was embalmed in the Khelathi manner, and his tomb was sealed over the grave-goods of a Vylarian general: the arms, the armor and the standard-bearer's staff that a Khelathi tomb-maker had no pattern for. His son, Zab'el'Qar II, lies beside him in a tomb of the ordinary kind. The Way was never lengthened, because the house closed with the son ([[lore-foreignhs|the Closing of the Foreign House]]).
 
 ## What Is There
 
-Two tombs, side by side, on a raised platform. The commander's is plain stone with a Khelâthi facade and a Vylarian eagle cut into the lintel, the single place in the necropolis where a Vylarian symbol stands over a Khelâthi door. The son's is smaller and wholly Khelâthi. The ground beyond them was marked out for a long Way and left bare.
+Two tombs, side by side, on a raised platform. The commander's is plain stone with a Khelathi facade and a Vylarian eagle cut into the lintel, the single place in the necropolis where a Vylarian symbol stands over a Khelathi door. The son's is smaller and wholly Khelathi. The ground beyond them was marked out for a long Way and left bare.
 
 The necropolis keeps the offerings made, because a Way is a Way. No restoration guild has been paid to reface the two tombs, and the plaster of the commander's is going.
 
@@ -32,7 +32,7 @@ The Short Way is not a blood-field. It holds two bodies, buried with rites, and 
 
 ## Who Goes
 
-- **Vylarian scholars,** who want the commander's birth name, which no Khelâthi record gives and which the tomb may hold.
+- **Vylarian scholars,** who want the commander's birth name, which no Khelathi record gives and which the tomb may hold.
 - **Robbers,** who think a foreigner's tomb is lightly warded.
 - **The necropolis-guard,** who walk the avenue each dusk and have never had to do more.
 
@@ -47,4 +47,4 @@ The Short Way is not a blood-field. It holds two bodies, buried with rites, and 
 - [[lore-vylconquest|The Vylarian Conquest]] · [[lore-foreignhs|The Closing of the Foreign House]]—the house and its end
 - [[place-zugezer|Zu-Gezer]]—the necropolis, with the cursed road and the Ways of the other houses
 - [[place-chariotfld|The Chariot Field]]—the field the occupation began on
-- [[lore-garauu|Gar-Aûu]]—the king-list that enters the house
+- [[lore-garauu|Gar-Auu]]—the king-list that enters the house

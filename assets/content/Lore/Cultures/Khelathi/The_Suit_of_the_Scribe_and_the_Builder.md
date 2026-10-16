@@ -1,9 +1,9 @@
 ---
 shortcode: suitscribe
-name: {full: The Suit of the Scribe and the Builder, aliases: [Genzat Reth'Sa'âr ez Psaq'âru]}
+name: {full: The Suit of the Scribe and the Builder, aliases: [Genzat Reth'Sa'ar ez Saq'aru]}
 type: lore
 subType: literature
-description: "The players' comedy of the first house on the mound, which the Builder raised and the Scribe entered as his own, and of the first lease Qe'âret made to be rid of them both."
+description: "The players' comedy of the first house on the mound, which the Builder raised and the Scribe entered as his own, and of the first lease Qe'aret made to be rid of them both."
 tags: [draft, khelathu]
 data:
   packFolder: settinglore
@@ -26,19 +26,19 @@ data:
 # terran_analog: "The Contendings of Horus and Seth, for gods quarrelling before a divine tribunal that cannot settle the case; the court records and land-tenure suits of the Nile valley, for the procedure; and the festival farce of any temple town, for the players, the drinking song and the actor's note in the margin. Departs: the quarrel is a property suit between brothers, nothing in it is violent or obscene, and it ends in a lease."
 ---
 
-The players of [[affiliation-linshelunthb|Lin'Shelun elu Thubâ'i]] play the _Genzat Reth'Sa'âr ez Psaq'âru_ at the feasts [[affiliation-lutthubai|Lut-Thubâ'i]] gives in [[lore-sheluessn|Shelu]], when the grain has been weighed into the temple's granaries and the hall is full of the people who carted it. It is a _genzat_, a suit at law told as a tale. The title names it as a suit is named, from the one who brings it toward the one it is brought against: the suit of [[lore-rethsaardty|Reth'Sa'âr]] toward [[lore-psaqarudty|Psaq'âru]]. Which of the two brought it is the first thing the play cannot settle.
+The players of [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]] play the _Genzat Reth'Sa'ar ez Saq'aru_ at the feasts [[affiliation-lutthubai|Lut-Thuba'i]] gives in [[lore-sheluessn|Shelu]], when the grain has been weighed into the temple's granaries and the hall is full of the people who carted it. It is a _genzat_, a suit at law told as a tale. The title names it as a suit is named, from the one who brings it toward the one it is brought against: the suit of [[lore-rethsaardty|Reth'Sa'ar]] toward [[lore-psaqarudty|Saq'aru]]. Which of the two brought it is the first thing the play cannot settle.
 
-The suit is the gods' own. Psaq'âru raised the first house on [[place-yathtelgu|Yath-Telgu]] before there was anyone to live in it, Reth'Sa'âr entered it as his, and [[lore-qearetdty|Qe'âret]] heard the two of them. The players hold the two gods to be brothers, where the temples call them complements in constant and productive argument, and the whole of the comedy is procedure: who may witness, which hand, the weight of a brick against the weight of a tablet, and the four doors through which an entry closes.
+The suit is the gods' own. Saq'aru raised the first house on [[place-yathtelgu|Yath-Telgu]] before there was anyone to live in it, Reth'Sa'ar entered it as his, and [[lore-qearetdty|Qe'aret]] heard the two of them. The players hold the two gods to be brothers, where the temples call them complements in constant and productive argument, and the whole of the comedy is procedure: who may witness, which hand, the weight of a brick against the weight of a tablet, and the four doors through which an entry closes.
 
-The text below is the collective's working roll, cues and all, with the drum's rests marked at the stop in each name of the Twelve, a scene cut and marked as not to be played before the Thâz'Lekhau of Thubâ'i, and a note in a player's hand. The suit dates nothing and belongs to no reign. The roll is of this age, [[lore-akhhsmeqes|the House of Meqes]], and the suit is played every Harvest in it.
+The text below is the collective's working roll, cues and all, with the drum's rests marked at the stop in each name of the Twelve, a scene cut and marked as not to be played before the Thaz'Lekhau of Thuba'i, and a note in a player's hand. The suit dates nothing and belongs to no reign. The roll is of this age, [[lore-akhhsmeqes|the House of Meqes]], and the suit is played every Harvest in it.
 
-_\[The roll of the players of Lin'Shelun elu Thubâ'i, for the Harvest feasts. The drum rests at the stop in every name of the Twelve, here and throughout, and the players do not hurry it. The beer goes to the front benches before the Speaker stands. The song is at the end, so nobody leaves.\]_
+_\[The roll of the players of Lin'Shelun elu Thuba'i, for the Harvest feasts. The drum rests at the stop in every name of the Twelve, here and throughout, and the players do not hurry it. The beer goes to the front benches before the Speaker stands. The song is at the end, so nobody leaves.\]_
 
 ## The Speaker
 
 _\[The Speaker stands on a bench with a cup in his hand and reads from the roll. He does not sit until the Scale has been carried out.\]_
 
-_Shelmu zetem._ Let those who have eaten hear, and let those still eating chew quietly. This is a _genzat_, a suit, and the parties are gods, so nobody here need stand for them; they can stand for themselves, and tonight they will stand a long time. Psaq'âru, who shapes a thing. Reth'Sa'âr, who writes down that it was shaped. Between them Qe'âret, who does the scale. It is the first suit there ever was, and it was heard on the first ground, on the mound in the river at [[place-galezkara|Galezkara]] before there was a Galezkara to put round it, and before there was anybody in the valley to lose it. Every one of you has lost a suit. Tonight you will watch two gods lose the same one. _\[Wait for it.\]_
+_Shelmu zetem._ Let those who have eaten hear, and let those still eating chew quietly. This is a _genzat_, a suit, and the parties are gods, so nobody here need stand for them; they can stand for themselves, and tonight they will stand a long time. Saq'aru, who shapes a thing. Reth'Sa'ar, who writes down that it was shaped. Between them Qe'aret, who does the scale. It is the first suit there ever was, and it was heard on the first ground, on the mound in the river at [[place-galezkara|Galezkara]] before there was a Galezkara to put round it, and before there was anybody in the valley to lose it. Every one of you has lost a suit. Tonight you will watch two gods lose the same one. _\[Wait for it.\]_
 
 The song is at the end. The beer is already here. Nobody gets the one without sitting through the other.
 
@@ -46,7 +46,7 @@ The song is at the end. The beer is already here. Nobody gets the one without si
 
 _\[The mound: three steps and a plank, with the water painted on cloth around it. The Builder enters up the steps with a brick under each arm and a third in his teeth. The drum, and the drum rests at his name.\]_
 
-Psaq'âru came up out of the water onto the new ground, and the ground was wet, and there was nothing on it, and he did not like that. He walked the mound end to end. He measured it with his arm from the elbow to the end of the middle finger, there being no other cubit, so that his arm is the cubit and every survey rod in the valley is a copy of his forearm. He took the mud of the bank and pressed it in a frame he made of his two hands, and set it in the sun, and the sun dried it, and that was a brick. He made another. He made thirty, and thirty, and thirty on those, and he counted them as he went, because a builder who does not count is a man with a heap.
+Saq'aru came up out of the water onto the new ground, and the ground was wet, and there was nothing on it, and he did not like that. He walked the mound end to end. He measured it with his arm from the elbow to the end of the middle finger, there being no other cubit, so that his arm is the cubit and every survey rod in the valley is a copy of his forearm. He took the mud of the bank and pressed it in a frame he made of his two hands, and set it in the sun, and the sun dried it, and that was a brick. He made another. He made thirty, and thirty, and thirty on those, and he counted them as he went, because a builder who does not count is a man with a heap.
 
 _\[He lays the bricks as he speaks. The wall is a painted cloth on a frame, raised from behind by the boys as the count goes up. The door is a real door in a real frame, carried on by a man who stays inside it for the whole play.\]_
 
@@ -76,7 +76,7 @@ The door stuck, because he hung it before the lintel had dried, and that was the
 
 _\[The Scribe has been sitting on the edge of the mound the whole time, with his feet over the side in the painted water and a tablet on his knee, writing. He does not look up until the Builder shouts.\]_
 
-Reth'Sa'âr was sitting on the edge of the mound with his feet in the water, writing. He had been there since the ground came up. He had a satchel of tablets, a palette, and a reed, and he had made one entry, and it said: _Ground. Empty._
+Reth'Sa'ar was sitting on the edge of the mound with his feet in the water, writing. He had been there since the ground came up. He had a satchel of tablets, a palette, and a reed, and he had made one entry, and it said: _Ground. Empty._
 
 "Write it down," said the Builder.
 
@@ -138,7 +138,7 @@ The Builder sat on his own step. He thought about it as a builder thinks, which 
 
 _\[The Scale's chair is carried in: two boys with the beam on a pole between them, who set it down and then stand either side of the chair for the whole hearing and do not move. The Scale does not move either. Whoever plays the Scale does not drink until the song. The drum rests at her name, and rests longer than at the others.\]_
 
-Qe'âret came and sat on the mound with the scale before her and the feather on it. She had laid law on the dark before there was ground to lay it on, and a mound was ground, and ground would do. The two brothers came before her, and the door came too, because the man was still in it.
+Qe'aret came and sat on the mound with the scale before her and the feather on it. She had laid law on the dark before there was ground to lay it on, and a mound was ground, and ground would do. The two brothers came before her, and the door came too, because the man was still in it.
 
 "Who is the plaintiff?"
 
@@ -262,9 +262,9 @@ and see which way it goes.
 
 ## The Beer
 
-_\[Thubâ'i enters from the kitchen side with a jar on each hip and a boy behind him with a third. He is the fattest player the collective has, and if he is not fat he is padded. He speaks to the benches as much as to the court. The drum rests at his name, and he waits for it, because he likes it.\]_
+_\[Thuba'i enters from the kitchen side with a jar on each hip and a boy behind him with a third. He is the fattest player the collective has, and if he is not fat he is padded. He speaks to the benches as much as to the court. The drum rests at his name, and he waits for it, because he likes it.\]_
 
-[[lore-thubaidty|Thubâ'i]] had heard the pleading from the kitchen, where he was, and he came out to see what was being bought.
+[[lore-thubaidty|Thuba'i]] had heard the pleading from the kitchen, where he was, and he came out to see what was being bought.
 
 "Is this a hearing? I can hear it from the kitchen. Nobody pleads dry; the throat closes and the case goes with it. Builder, a jar. It is on account. Scribe, a jar. On account. You will know how to enter it."
 
@@ -284,7 +284,7 @@ _\[Laughter here. Let the Scale look at him until it stops. She does not do the 
 
 _\[In another hand, in the margin here: Whoever plays the Scale, she does not do mercy and she does not do laughing. They will try you at the brick, and here at the lid, and worst at the wall; look at the beam. Let the beam-boys laugh; nobody is watching them. **Lemjen ez Galezkara**, who played her nine Harvests.\]_
 
-He turned to the Scribe, and he lowered his voice, which in Thubâ'i is a thing everyone in the hall can hear.
+He turned to the Scribe, and he lowered his voice, which in Thuba'i is a thing everyone in the hall can hear.
 
 "Enter the beer however you like, brother of the man with the wall. It goes out the same way whatever the tablet says, and when it does you will not want a tablet; you will want a wall. His wall. Round the back, where there is no door. The first use anybody ever found for a wall, and he thinks it was for keeping the rain off."
 
@@ -320,15 +320,15 @@ and you have brought me a house whose one door sticks.
 
 "You are the scribe first. You were the scribe before you were a party, and entries are dated, and seniority runs by date. Who witnesses?"
 
-"I do," said Thubâ'i, "I have seen everything, from the bottom of a cup, which is where most things are seen from."
+"I do," said Thuba'i, "I have seen everything, from the bottom of a cup, which is where most things are seen from."
 
 "He is not a party," said the Scale. "He has been paid by both, so he stands on neither side, and that is as near as this court will get to a witness today. Now. Between brothers nothing is written, and I am going to write. So for the length of the entry you are strangers. Turn your backs on one another. Say your names to each other as if you had not heard them."
 
 _\[They turn their backs and bow to one another over their shoulders. Each says his own name with its stop in it, and the drum rests on it. The Builder hurries his and runs it together, and the Scribe makes him say it again, with the rest in it, because the entry carries the name as it is said. Laughter here, and it is at the Builder, who cannot say a thing slowly; it is never at the name.\]_
 
-"Psaq'âru," said the Builder, the second time, with the rest in it. "A stranger. I have a house."
+"Saq'aru," said the Builder, the second time, with the rest in it. "A stranger. I have a house."
 
-"Reth'Sa'âr," said the Scribe. "A stranger. I am in it."
+"Reth'Sa'ar," said the Scribe. "A stranger. I am in it."
 
 ## The Lease
 
@@ -340,7 +340,7 @@ _\[The Scale speaks. The Scribe writes on a brick, because the tablets are mud.\
 Entered on the first ground, on the day there was one house.
 Parties: the Builder, who is a stranger; the Scribe, who is a stranger;
 and I, who do the scale.
-Witness: Thubâ'i, who was paid by both, and is therefore on neither side.
+Witness: Thuba'i, who was paid by both, and is therefore on neither side.
 Of the house on the mound, which no one witnessed and no one entered:
 it goes to the one who lives in it and keeps it up, for a term,
 and the term is from this water to the next water, and no longer,
@@ -349,7 +349,7 @@ The one who lives in it keeps the roof on, and keeps the door.
 The one who built it is owed for the building, and is paid in the keeping.
 The ground under it is entered as not empty, which is what a house is for.
 Scribe, write it. Builder, make your mark.
-Thubâ'i, make yours, if you can hold the reed.
+Thuba'i, make yours, if you can hold the reed.
 The scale is level. Take your mud and go.
 ```
 
@@ -367,7 +367,7 @@ The scale is level. Take your mud and go.
 
 "Then it is in that one, and whoever cannot read it can ask, and that will give them something to do."
 
-The Scribe wrote the lease on the brick in the sacred hand, which was the only hand, with the reed, small, and ran out of brick at _the next water_ and finished it on the side. The Builder made his mark, which was a square, because he had just invented it. Thubâ'i made his, which was round, and wet. The Scale looked at the brick and said nothing about the writing on the side, and she said nothing about the mark being wet.
+The Scribe wrote the lease on the brick in the sacred hand, which was the only hand, with the reed, small, and ran out of brick at _the next water_ and finished it on the side. The Builder made his mark, which was a square, because he had just invented it. Thuba'i made his, which was round, and wet. The Scale looked at the brick and said nothing about the writing on the side, and she said nothing about the mark being wet.
 
 _\[The Speaker stops here and drinks, and lets the hall take it for the end. It is not the end.\]_
 
@@ -391,11 +391,11 @@ They went off the mound and down into the water, arguing about the door, and the
 
 _\[The Scale is carried out as she came, the beam-boys with the pole and the chair after. Whoever plays her does not laugh until the chair is through the kitchen door.\]_
 
-_\[Here stood the scene of the Library, which is the Scribe's. It is not to be played before the Thâz'Lekhau of Thubâ'i, and it is not played at the Harvest. Cut. Go straight to the song.\]_
+_\[Here stood the scene of the Library, which is the Scribe's. It is not to be played before the Thaz'Lekhau of Thuba'i, and it is not played at the Harvest. Cut. Go straight to the song.\]_
 
 ## The Song
 
-_\[Thubâ'i, to the benches, the jar up. The benches answer every line with the shoulder-line, which they have from the door, and the players sing the two answers that differ so that the hall has them by the second Harvest. The drum keeps the shoulder-line.\]_
+_\[Thuba'i, to the benches, the jar up. The benches answer every line with the shoulder-line, which they have from the door, and the players sing the two answers that differ so that the hall has them by the second Harvest. The drum keeps the shoulder-line.\]_
 
 : The Song of the First Rent {#song}
 
@@ -424,12 +424,12 @@ _\[The jars go round. Nobody speaks after the song. The Scale's player may drink
 
 ## See Also
 
-- [[lore-rethsaardty|Reth'Sa'âr]]—the Scribe, the divine record and the Eternal Library
-- [[lore-psaqarudty|Psaq'âru]]—the Builder, whose priests are the builders of the valley
-- [[lore-qearetdty|Qe'âret]]—the Scale, and the doctrine of the Weighing
-- [[lore-thubaidty|Thubâ'i]]—the god of the feast the suit is played at
-- [[affiliation-linshelunthb|Lin'Shelun elu Thubâ'i]]—the players who keep the roll
-- [[lore-khelathiclt|Khelâthi]]—entries, witnesses, the four doors and what is written between brothers
+- [[lore-rethsaardty|Reth'Sa'ar]]—the Scribe, the divine record and the Eternal Library
+- [[lore-psaqarudty|Saq'aru]]—the Builder, whose priests are the builders of the valley
+- [[lore-qearetdty|Qe'aret]]—the Scale, and the doctrine of the Weighing
+- [[lore-thubaidty|Thuba'i]]—the god of the feast the suit is played at
+- [[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]—the players who keep the roll
+- [[lore-khelathiclt|Khelathi]]—entries, witnesses, the four doors and what is written between brothers
 - [[lore-firstoccasion|The First Occasion]]—the temple's own account of the mound and the gods' order upon it
 - [[lore-readingweigh|The Reading at the Weighing]]—the litany the pleadings parody
 - [[lore-zamletuqaa|The Hymn of the Sun-Lord]]—the god whose walk down the west road the play leaves unplayed

@@ -1,6 +1,6 @@
 ---
 shortcode: rasikara
-name: {full: Rāsikara, aliases: [The Flame of Renewal]}
+name: {full: Rasikara, aliases: [The Flame of Renewal]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the god of fire and of the change fire compels."
@@ -14,18 +14,18 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to purgation by fire, served by the Agni-Pralayas, the spirits of purging flame, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnuka ordains into a sampradeya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to purgation by fire, served by the Agmi-Pralayas, the spirits of purging flame, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
-        title: Patita
+        title: Patuta
         description: >-
-          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradāya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
+          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradeya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
       - level: 1
-        title: Upāsaka
+        title: Upasoka
         description: >-
-          The lay devotee, keeping the household observance of purgation by fire, served by the Agni-Pralayas, the spirits of purging flame. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
+          The lay devotee, keeping the household observance of purgation by fire, served by the Agmi-Pralayas, the spirits of purging flame. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2
-        title: Vratin
+        title: Vretin
         lore: vowdevoteernk
         description: >-
           "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
@@ -46,16 +46,16 @@ data:
 sohl: {system: {commonSkills: [rasikara, sohl-sohl-skill-srvl]}}
 ---
 
-## Rāsikara—The Flame of Renewal
+## Rasikara—The Flame of Renewal
 
 - **Domain:** Fire, transformation, purging destruction, the rebirth that follows ruin
 - **Symbol:** A flame rising from a broken circle
 - **Pronunciation:** _RAH-see-kah-rah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to go." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. [[lore-rasikaradty|Rāsikara]]'s cult is not comfortable, and its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
+"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to gho." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. [[lore-rasikaradty|Rasikara]]'s cult is not comfortable, and its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
 
-Rāsikara is the god of fire and of the change fire compels, the burning that strips away corruption and the kindling that starts new growth. [[affiliation-mahajaya|Mahājaya]] preserves and [[affiliation-vyalendra|Vyālendra]] shapes; Rāsikara breaks. The Varnakan faith holds the breaking sacred, and he is venerated for courage: the courage to meet what must be destroyed with the fire proper to the task. The [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] keeps him in balance with the other two forms, and the [[affiliation-agnipantha|Agnī-panthā]] carries his purification onto the road.
+Rasikara is the god of fire and of the change fire compels, the burning that strips away corruption and the kindling that starts new growth. [[affiliation-mahajaya|Mahajaya]] preserves and [[affiliation-vyalendra|Vyalendra]] shapes; Rasikara breaks. The Varnakan faith holds the breaking sacred, and he is venerated for courage: the courage to meet what must be destroyed with the fire proper to the task. The [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] keeps him in balance with the other two forms, and the [[affiliation-agnipantha|Agmi-pantra]] carries his purification onto the road.
 
 ### What You See at His Shrines
 
@@ -63,11 +63,11 @@ The image is a lean, burning figure standing within a ring of broken chains or f
 
 Three objects carry the cult. The fire-brand is a torch of consecrated wood, used in rites of purgation. The **Fragment of the Ring** is a broken metal circle worn at the neck, signifying the worshipper's willingness to be broken and remade. The ash-mark is a smear of consecrated ash applied to the brow in rites of purging.
 
-The **Agni-Pralayas**, his spirits of purging fire, come in wildfire, in volcanic eruption and in fever-epidemic, and in the renewal-fires the devout kindle on purpose. The faithful regard them with awe and with dread.
+The **Agmi-Pralayas**, his spirits of purging fire, come in wildfire, in volcanic eruption and in fever-epidemic, and in the renewal-fires the devout kindle on purpose. The faithful regard them with awe and with dread.
 
 ### What the Devout Do
 
-Rāsikaran households keep an unbroken hearth-flame, carried forward from parent to child at each marriage, and letting the family fire go out is a grave omen. Before any work that destroys what came before, the devout trace an ash-mark on the brow and speak the formula of purging. The work might be the razing of a condemned house, the felling of a diseased tree or the cutting of a blighted harvest. At the death of a family member an ember from the hearth is carried to the cremation ground to light the pyre.
+Rasikaran households keep an unbroken hearth-flame, carried forward from parent to child at each marriage, and letting the family fire gho out is a grave omen. Before any work that destroys what came before, the devout trace an ash-mark on the brow and speak the formula of purging. The work might be the razing of a condemned house, the felling of a diseased tree or the cutting of a blighted harvest. At the death of a family member an ember from the hearth is carried to the cremation ground to light the pyre.
 
 ### Ordeals for Favor
 
@@ -77,7 +77,7 @@ Rāsikaran households keep an unbroken hearth-flame, carried forward from parent
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varnaka Pantheon]]
-- [[lore-rasikaradty|Rāsikara]]—the god, and the theology of the sacred breaking
-- [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]—the orthodox tri-form tradition, which venerates Rāsikara as destroyer-renewer alongside Vyālendra and Mahājaya
-- [[affiliation-agnipantha|Agnī-panthā]]—the ascetic Rāsikara-focused reformist path
+- [[affiliation-varakpnthn|Varnuka Pantheon]]
+- [[lore-rasikaradty|Rasikara]]—the god, and the theology of the sacred breaking
+- [[affiliation-trimurtisampradaya|Triyanga-sampradeya]]—the orthodox tri-form tradition, which venerates Rasikara as destroyer-renewer alongside Vyalendra and Mahajaya
+- [[affiliation-agnipantha|Agmi-pantra]]—the ascetic Rasikara-focused reformist path

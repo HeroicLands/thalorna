@@ -1,9 +1,9 @@
 ---
 shortcode: olcassabtl
-name: {full: The Battle of Olkassâ, aliases: [Olkassâ, The Field of Both Eagles]}
+name: {full: The Battle of Olkassa, aliases: [Olkassa, The Field of Both Eagles]}
 type: lore
 subType: history
-description: "About 401 AF the Senate's army and the Moktur legions meet on the Olkassâ estate in Hilen, legions fighting legions under the same eagle with no quarter given; Makândas wins the field and loses half his army on it."
+description: "About 401 AF the Senate's army and the Moktur legions meet on the Olkassa estate in Hilen, legions fighting legions under the same eagle with no quarter given; Makandas wins the field and loses half his army on it."
 tags: [history, vylaria, threeeagles]
 data:
   culture: vylarianclt
@@ -20,10 +20,10 @@ data:
         - place-hylen
         - place-olcassafld
       summary: >-
-        The Senate's army and the legions of Moktur meet on the Olkassâ estate in Hilen, because whoever holds Hilen's granaries holds the capital's bread. Legions fight legions under the same eagle and neither side gives quarter. Makândas wins the field and loses half his army on it.
+        The Senate's army and the legions of Moktur meet on the Olkassa estate in Hilen, because whoever holds Hilen's granaries holds the capital's bread. Legions fight legions under the same eagle and neither side gives quarter. Makandas wins the field and loses half his army on it.
       standing: attested
       names:
-        - {name: the Battle of Olkassâ, by: affiliation-vylarinmpr}
+        - {name: the Battle of Olkassa, by: affiliation-vylarinmpr}
         - name: the field of both eagles
           by: place-hylen
           gloss: the estate's tenants' name for the ground, from the eagles that stood on it
@@ -48,38 +48,38 @@ data:
       follows:
         - event: "lore-brkensuccsn#succession"
           how: caused
-          note: the claims of the three Ôrzândoi are settled by the sword
+          note: the claims of the three Orzoi are settled by the sword
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
-            The Moktur legions won the field at Olkassâ, and the Empire was reunited because they did.
+            The Moktur legions won the field at Olkassa, and the Empire was reunited because they did.
           agrees: partly
           withholds: that half the winning army lay on the field
         - by: place-hylen
           says: >-
-            Olkassâ was a harvest field before it was a battlefield, and it is a harvest field now.
+            Olkassa was a harvest field before it was a battlefield, and it is a harvest field now.
           agrees: partly
           withholds: what the field has grown since
       unresolved: [how many of the dead on the field were never buried by anyone]
 ---
 
-A steward on the Olkassâ estate, walking a grain factor's mule along the headland on a May evening, stops where the track meets the wheat and does not step into it. "We cut round," he says. "Everyone cuts round. It is the best wheat in Hilen, and I have never seen the factor's mule go into it."
+A steward on the Olkassa estate, walking a grain factor's mule along the headland on a May evening, stops where the track meets the wheat and does not step into it. "We cut round," he says. "Everyone cuts round. It is the best wheat in Hilen, and I have never seen the factor's mule go into it."
 
 ## The Field
 
-[[place-hylen|Hilen]] feeds the capital. Its estates grow the grain that is milled into the dole, and whoever holds the granaries of Hilen holds Ôrzâra's bread. The Senate knew it, and so did Makândas ([[lore-brkensuccsn|The Broken Succession]]). About 401 the Senate sent its army to hold the estates, and the Moktur legions came south to take them.
+[[place-hylen|Hilen]] feeds the capital. Its estates grow the grain that is milled into the dole, and whoever holds the granaries of Hilen holds Orzara's bread. The Senate knew it, and so did Makandas ([[lore-brkensuccsn|The Broken Succession]]). About 401 the Senate sent its army to hold the estates, and the Moktur legions came south to take them.
 
-The two armies met on the **Olkassâ** estate, one of the great holdings of the province. Both carried the same eagle, cast to the same pattern in the same arsenal, and men who had served in the same garrisons stood in the opposing lines. Neither side gave quarter. The Senate's army had the better ground and the Moktur legions had the better discipline, and by dusk the Senate's army lay in the standing grain and the Moktur line was half what it had been at dawn.
+The two armies met on the **Olkassa** estate, one of the great holdings of the province. Both carried the same eagle, cast to the same pattern in the same arsenal, and men who had served in the same garrisons stood in the opposing lines. Neither side gave quarter. The Senate's army had the better ground and the Moktur legions had the better discipline, and by dusk the Senate's army lay in the standing grain and the Moktur line was half what it had been at dawn.
 
-## What Olkassâ Meant
+## What Olkassa Meant
 
-Makândas won the field and could not use it. He had half his army, the estates' granaries were burned or taken and the harvest was lost. The war went on two years more, and the dole failed in the capital before it was over ([[lore-greatburnng|The Great Burning]]).
+Makandas won the field and could not use it. He had half his army, the estates' granaries were burned or taken and the harvest was lost. The war went on two years more, and the dole failed in the capital before it was over ([[lore-greatburnng|The Great Burning]]).
 
-Hilen has not forgotten. The province's great houses, whose estates the armies marched across, say that no Vylarian should draw a sword on another, and the conservatism that marks the province's politics owes a good deal to the field. The ground itself is farmed ([[place-olcassafld|The Blood-field of Olkassâ]]).
+Hilen has not forgotten. The province's great houses, whose estates the armies marched across, say that no Vylarian should draw a sword on another, and the conservatism that marks the province's politics owes a good deal to the field. The ground itself is farmed ([[place-olcassafld|The Blood-field of Olkassa]]).
 
 ## What It Left
 
-- **The Blood-field of Olkassâ.** A quickening in the province's breadbasket.
+- **The Blood-field of Olkassa.** A quickening in the province's breadbasket.
 - **Hilen's horror of civil war.** The estates' lasting dread of any claimant who marches on another.
 - **The estate's grain in the dole.** The best wheat of the province goes to the state granaries, and nobody says where it grew.
 
@@ -87,5 +87,5 @@ Hilen has not forgotten. The province's great houses, whose estates the armies m
 
 - [[lore-brkensuccsn|The Broken Succession]]—the claims the battle settled
 - [[lore-greatburnng|The Great Burning]]—what the lost harvest led to
-- [[place-olcassafld|The Blood-field of Olkassâ]]—the ground itself
+- [[place-olcassafld|The Blood-field of Olkassa]]—the ground itself
 - [[place-hylen|Hilen]]

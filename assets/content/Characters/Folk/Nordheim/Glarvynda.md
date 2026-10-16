@@ -1,9 +1,9 @@
 ---
 shortcode: glarvynda
-name: {full: Glarvynda, aliases: [High Priestess Glarvynda]}
+name: {full: Glarvinda, aliases: [High Priestess Glarvinda]}
 type: being
 subType: npc
-description: High Priestess of the Asguardian Temple, who hires Thraldorv Vörnheim for sacred protection work.
+description: High Priestess of the Asguardian Temple, who hires Thraldorv Vornheim for sacred protection work.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Glarvynda is a 22-year-old woman who stands 5'9" tall with a heavy build. She has light skin, scarred complexion, dark brown hair, and grey eyes.
+Glarvinda is a 22-year-old woman who stands 5'9" tall with a heavy build. She has light skin, scarred complexion, dark brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Glarvynda is the high priestess of the Asguardian Temple, who hires [[being-thrldrvvrnhm|Thraldorv Vörnheim]] for sacred protection work. She is a spiritual authority at the Asguardian Temple.
+Glarvinda is the high priestess of the Asguardian Temple, who hires [[being-thrldrvvrnhm|Thraldorv Vornheim]] for sacred protection work. She is a spiritual authority at the Asguardian Temple.

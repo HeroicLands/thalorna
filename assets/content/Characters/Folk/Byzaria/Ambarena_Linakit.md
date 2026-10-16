@@ -1,9 +1,9 @@
 ---
 shortcode: ambarenalina
-name: {full: Ambâréna Linákit, aliases: [Lady Ambâréna Linákit]}
+name: {full: Ambarena Linakit, aliases: [Lady Ambarena Linakit]}
 type: being
 subType: npc
-description: An aging widow of minor noble standing who became enchanted with Fritia Manedês's playing.
+description: An aging widow of minor noble standing who became enchanted with Fritia Manedes's playing.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ambâréna Linákit is a 62-year-old woman who stands 5'9" tall with a heavy build. She has tanned skin, ruddy complexion, brown hair, and green eyes.
+Ambarena Linakit is a 62-year-old woman who stands 5'9" tall with a heavy build. She has tanned skin, ruddy complexion, brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Ambâréna Linákit is an aging widow of minor noble standing. She became enchanted with the playing of [[being-flthnktrts|Fritia Manedês]], and the musician's note names her.
+Ambarena Linakit is an aging widow of minor noble standing. She became enchanted with the playing of [[being-flthnktrts|Fritia Manedes]], and the musician's note names her.

@@ -1,6 +1,6 @@
 ---
 shortcode: banrkcrsld
-name: {full: Bánrik Káriselda, aliases: []}
+name: {full: Banrik Káriselda, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -393,23 +393,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Bánrik Káriselda is a 29-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a square chin. His piercing gray eyes sit beneath prominent brows and give him a penetrating gaze. He has a prominent nose and full lips. He has olive skin with a sun-tanned complexion. His graying brown hair is short and swept back.
+Banrik Káriselda is a 29-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a square chin. His piercing gray eyes sit beneath prominent brows and give him a penetrating gaze. He has a prominent nose and full lips. He has olive skin with a sun-tanned complexion. His graying brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Bánrik Káriselda is a bodyguard of Herthéma, in [[place-tarvenirgn|Tarvénia]], a Tarvénan of the town's back streets who has made himself the man its merchants hire when they want to arrive somewhere alive.
+Banrik Káriselda is a bodyguard of Herthema, in [[place-tarvenirgn|Tarvénia]], a Tarvenan of the town's back streets who has made himself the man its merchants hire when they want to arrive somewhere alive.
 
-Bánrik grew up without a father in the lanes below Herthéma's walls, and learned there what he still trades on: how to read a room, which men to watch, and when a door is about to open. He is not strong, and in a town that breeds sellswords that ought to have kept him out of the trade. He keeps his clients safe by seeing trouble before it arrives—a hired knife in a crowd, a contract with a bad clause, a host who has seated the wrong men together—and by talking his way through what he cannot fight.
+Banrik grew up without a father in the lanes below Herthema's walls, and learned there what he still trades on: how to read a room, which men to watch, and when a door is about to open. He is not strong, and in a town that breeds sellswords that ought to have kept him out of the trade. He keeps his clients safe by seeing trouble before it arrives—a hired knife in a crowd, a contract with a bad clause, a host who has seated the wrong men together—and by talking his way through what he cannot fight.
 
 ## Psyche
 
 ### Personality
 
-Bánrik is watchful, dry and over-careful; he has canceled a client's evening on a suspicion more than once and been right often enough to get away with it.
+Banrik is watchful, dry and over-careful; he has canceled a client's evening on a suspicion more than once and been right often enough to get away with it.
 
 ### Motivation
 
-Bánrik wants every client he takes to walk home, because his living is the record of clients who have. He also wants to keep the standing a street boy was never meant to have.
+Banrik wants every client he takes to walk home, because his living is the record of clients who have. He also wants to keep the standing a street boy was never meant to have.
 
 ### Strengths
 
@@ -417,24 +417,24 @@ Quick and agile, good at reading people and rooms, excellent at spotting a threa
 
 ## Social
 
-Bánrik is on the sellswords' roll at Herthéma, which lets him take hire lawfully, and belongs to no company.
+Banrik is on the sellswords' roll at Herthema, which lets him take hire lawfully, and belongs to no company.
 
 ## Companions
 
 ### Patrons
 
-Bánrik's patrons are the merchants and minor nobility of Herthéma who want protection that does not look like protection—a quiet man beside them at the table rather than a wall of hired steel.
+Banrik's patrons are the merchants and minor nobility of Herthema who want protection that does not look like protection—a quiet man beside them at the table rather than a wall of hired steel.
 
 ### Enemies
 
-The bigger bodyguards of Herthéma who have lost work to him and say a man who cannot lift a shield has no business in the trade.
+The bigger bodyguards of Herthema who have lost work to him and say a man who cannot lift a shield has no business in the trade.
 
 ## Plot Hooks
 
-1. **Hired Away**—A client's chief rival has offered Bánrik three times his rate to change sides, the day before a meeting between the two. Taking it would be lawful, and would tell the whole quarter what his loyalty costs.
+1. **Hired Away**—A client's chief rival has offered Banrik three times his rate to change sides, the day before a meeting between the two. Taking it would be lawful, and would tell the whole quarter what his loyalty costs.
 
-2. **What He Cannot Prove**—Bánrik is certain that a client's steward is arranging to have him killed, and has nothing but the steward's manner to show for it.
+2. **What He Cannot Prove**—Banrik is certain that a client's steward is arranging to have him killed, and has nothing but the steward's manner to show for it.
 
-3. **A Face from the Lanes**—A companion from his boyhood, now a thief, has asked Bánrik for the hour at which his client's house is unwatched. He has refused.
+3. **A Face from the Lanes**—A companion from his boyhood, now a thief, has asked Banrik for the hour at which his client's house is unwatched. He has refused.
 
-4. **The Fight He Cannot Win**—A rival has arranged a challenge that Bánrik cannot talk his way out of: a public bout, sellsword to sellsword, in front of the men who hire him. He will lose it on strength.
+4. **The Fight He Cannot Win**—A rival has arranged a challenge that Banrik cannot talk his way out of: a public bout, sellsword to sellsword, in front of the men who hire him. He will lose it on strength.

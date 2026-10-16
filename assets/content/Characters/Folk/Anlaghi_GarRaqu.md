@@ -1,6 +1,6 @@
 ---
 shortcode: anlaghigarr2
-name: {full: Anlaghi Gar'Râqu, aliases: []}
+name: {full: Anlaghi Gar'Raku, aliases: []}
 type: being
 subType: npc
 description: "A young Wazu attached to the great hunt, learning the rites that attend the taking of sacred beasts"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Anlaghi Gar'Râqu is a 45-year-old man who stands 5'6" tall with a light build. He has ebony skin, weathered complexion, dark brown hair, and hazel eyes.
+Anlaghi Gar'Raku is a 45-year-old man who stands 5'6" tall with a light build. He has ebony skin, weathered complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Anlaghi Gar'Râqu is a young Wazu attached to the great hunt out of [[place-galezkara|Galezkara]]. The rites that attend the taking of a sacred beast are still being learned, under those who have performed them for decades. A hunter uncertain the rites were kept correctly looks to Anlaghi Gar'Râqu to set it right afterward.
+Anlaghi Gar'Raku is a young Wazu attached to the great hunt out of [[place-galezkara|Galezkara]]. The rites that attend the taking of a sacred beast are still being learned, under those who have performed them for decades. A hunter uncertain the rites were kept correctly looks to Anlaghi Gar'Raku to set it right afterward.

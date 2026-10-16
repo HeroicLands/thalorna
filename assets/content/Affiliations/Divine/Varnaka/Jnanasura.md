@@ -1,6 +1,6 @@
 ---
 shortcode: jnanasura
-name: {full: Jñānasūra, aliases: [The Radiant Sage]}
+name: {full: Jnanasura, aliases: [The Radiant Sage]}
 type: affiliation
 subType: faithtradition
 description: "Religion of the god of wisdom and of the work of the mind."
@@ -14,18 +14,18 @@ data:
   governance:
     model: council
     summary: >-
-      This god has no priesthood of its own. Varnaka ordains into a sampradāya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to learning and the moment of intellectual breakthrough, attended by the Vidyā-Karanas, the scribes of divine knowledge, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
+      This god has no priesthood of its own. Varnuka ordains into a sampradeya—a school—not to a god, so what structure exists here is the household observance and the ordeal: devotion to learning and the moment of intellectual breakthrough, attended by the Vidsa-Karanas, the scribes of divine knowledge, and beyond that the Ordeals for Favor, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
-        title: Patita
+        title: Patuta
         description: >-
-          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradāya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
+          "Fallen"—put out of Varnakan observance, and marked by a brand on the face that every house and sampradeya recognizes. The sentence can be forgiven; the forgiven person carries proof of the forgiveness for life.
       - level: 1
-        title: Upāsaka
+        title: Upasoka
         description: >-
-          The lay devotee, keeping the household observance of learning and the moment of intellectual breakthrough, attended by the Vidyā-Karanas, the scribes of divine knowledge. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
+          The lay devotee, keeping the household observance of learning and the moment of intellectual breakthrough, attended by the Vidsa-Karanas, the scribes of divine knowledge. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2
-        title: Vratin
+        title: Vretin
         lore: vowdevoteernk
         description: >-
           "One under vow"—has undertaken and completed one of the god's Ordeals for Favor. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
@@ -48,28 +48,28 @@ sohl:
     commonSkills: [jnanasura, sohl-sohl-skill-math, sohl-sohl-skill-folklr, sohl-sohl-skill-dscr]
 ---
 
-## Jñānasūra—The Radiant Sage
+## Jnanasura—The Radiant Sage
 
 - **Domain:** Knowledge, learning, enlightenment, the discipline of study, the clarity granted before battle
 - **Symbol:** A radiant sun with an open book
 - **Pronunciation:** _GYAH-nah-soo-rah_
-- **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
+- **Pantheon:** [[affiliation-varakpnthn|Varnuka Pantheon]]
 
 "Touch the medallion before you sit down, not after, and read one line aloud from the stand by the door." The keeper of a school's shrine says it to a first-year on the evening before the examination. The line is whichever one the book lies open to, and nobody is excused it, scholar or soldier.
 
-[[lore-jnanasuradty|Jñānasūra]] is the god of wisdom and of the work of the mind, and his cult is the most widely housed in [[place-vedyarargn|Vedyara]]. Every major Vedyaran school, library and academy keeps a shrine to him. Those who serve there are among the most learned people in the world, trained as deeply in the sciences and the poetic arts as in theology, and they teach and advise at royal courts, in temple hierarchies and on shrenī councils. He is also the patron of warriors, because clarity of thought before the blow counts as much as strength of arm.
+[[lore-jnanasuradty|Jnanasura]] is the god of wisdom and of the work of the mind, and his cult is the most widely housed in [[place-vedyarargn|Vedyara]]. Every major Vedyaran school, library and academy keeps a shrine to him. Those who serve there are among the most learned people in the world, trained as deeply in the sciences and the poetic arts as in theology, and they teach and advise at royal courts, in temple hierarchies and on shrena councils. He is also the patron of warriors, because clarity of thought before the blow counts as much as strength of arm.
 
 ### The Shrine
 
-The image at a school shrine is a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book. A golden sun blazes behind him, and the whole image is the gold of morning light. Stand before it and you feel a quiet radiance, the steady light by which a page can be read, with none of the heat of [[affiliation-rasikara|Rāsikara]]'s fire.
+The image at a school shrine is a serene figure seated in the posture of teaching, one hand raised in the gesture of instruction and the other holding the open book. A golden sun blazes behind him, and the whole image is the gold of morning light. Stand before it and you feel a quiet radiance, the steady light by which a page can be read, with none of the heat of [[affiliation-rasikara|Rasikara]]'s fire.
 
-Three objects furnish the shrine. The **Open Book** is its central relic, and households and temples compete to produce the finest illuminated and bound sacred texts. The **Sun-medallion** is a small golden disc incised with the opening lines of a chosen sutra, worn by scholars and teachers. The **Reading-stand** is a carved wooden lectern, often a work of art in its own right, on which the day's sacred text is placed.
+Three objects furnish the shrine. The **Open Book** is its central relic, and households and temples compete to produce the finest illuminated and bound sacred texts. The **Sun-medallion** is a small golden disc incised with the opening lines of a chosen sutva, worn by scholars and teachers. The **Reading-stand** is a carved wooden lectern, often a work of art in its own right, on which the day's sacred text is placed.
 
-The **Vidyā-Karanas**, the scribes of divine knowledge, are the celestial spirits who inspire mortals in moments of intellectual breakthrough. A scholar thanks them when a difficult passage suddenly yields its sense.
+The **Vidsa-Karanas**, the scribes of divine knowledge, are the celestial spirits who inspire mortals in moments of intellectual breakthrough. A scholar thanks them when a difficult passage suddenly yields its sense.
 
 ### What the Devout Do
 
-A Jñānasūran household keeps a reading-stand in its main room, with a book lying open on it from dawn until sunset. Anyone in the house who pauses beside it reads a line aloud. Students touch the sun-medallion before sitting an examination, and warriors touch it before taking the field. Before a hard decision, a lawsuit, a marriage settlement or a large commercial venture, the devout read three passages chosen at random from a sacred text and meditate on the thread between them.
+A Jnanasuran household keeps a reading-stand in its main room, with a book lying open on it from dawn until sunset. Anyone in the house who pauses beside it reads a line aloud. Students touch the sun-medallion before sitting an examination, and warriors touch it before taking the field. Before a hard decision, a lawsuit, a marriage settlement or a large commercial venture, the devout read three passages chosen at random from a sacred text and meditate on the thread between them.
 
 ### Ordeals for Favor
 
@@ -79,5 +79,5 @@ A Jñānasūran household keeps a reading-stand in its main room, with a book ly
 
 ### See Also
 
-- [[affiliation-varakpnthn|Varnaka Pantheon]]
-- [[lore-jnanasuradty|Jñānasūra]]—the god, and the theology of knowledge arriving
+- [[affiliation-varakpnthn|Varnuka Pantheon]]
+- [[lore-jnanasuradty|Jnanasura]]—the god, and the theology of knowledge arriving

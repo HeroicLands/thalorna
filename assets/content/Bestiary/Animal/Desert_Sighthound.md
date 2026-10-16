@@ -222,7 +222,7 @@ A long-legged, deep-chested hound with a narrow waist and a tucked belly, all cu
 
 ## In the Land
 
-Desert sighthounds belong to the tent-camps of the [[place-khzryndsrtrgn|Khazryn]] and the tribal confederations of [[place-dunhardsrtrgn|Dunhara]], and are kept by the Byzarian lords of the plateau. A hound lives with its master's family, sleeps in the tent and rides on a camel in the hunt. A few escaped hounds live as strays along the desert margin and hunt hare and scavenge at the edge of the camps. The hounds are slow to breed and the tribes keep the lines of the best ones in memory.
+Desert sighthounds belong to the tent-camps of the [[place-khzryndsrtrgn|Khazryn]] and the tribal confederations of [[place-dunhardsrtrgn|Dunhara]], and are kept by the Bizarian lords of the plateau. A hound lives with its master's family, sleeps in the tent and rides on a camel in the hunt. A few escaped hounds live as strays along the desert margin and hunt hare and scavenge at the edge of the camps. The hounds are slow to breed and the tribes keep the lines of the best ones in memory.
 
 ## Key Behaviors
 

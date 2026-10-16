@@ -1,6 +1,6 @@
 ---
 shortcode: sklfvrasgrnd
-name: {full: Skilfvir Ásgrind, aliases: []}
+name: {full: Skilfvir Asgrind, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Skilfvir Ásgrind is a 30-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a heavy jaw that leads to a strong chin. His deep-set blue eyes sit beneath thick brows and give him a watchful gaze. He has a strong nose and firm lips. He has pale skin with a rough complexion. His auburn hair is long and gathered with a leather thong. He has a web of fine scars on his knuckles.
+Skilfvir Asgrind is a 30-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a heavy jaw that leads to a strong chin. His deep-set blue eyes sit beneath thick brows and give him a watchful gaze. He has a strong nose and firm lips. He has pale skin with a rough complexion. His auburn hair is long and gathered with a leather thong. He has a web of fine scars on his knuckles.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Skilfvir Ásgrind is a huntsman.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Skilfvir Asgrind is a huntsman.
 
-Skilfvir is the head huntsman for Lord Gnildrmýl of [[place-ashenwoodmnr|Ashenwood Manor]]. He manages the lord's hunting grounds and sees that the game is not hunted out. He is a fine tracker with a deep knowledge of the local wildlife. His loyalty to the lord is unquestioned, and he is often called upon to lead hunting parties during the lord's feasts.
+Skilfvir is the head huntsman for Lord Gnildrmil of [[place-ashenwoodmnr|Ashenwood Manor]]. He manages the lord's hunting grounds and sees that the game is not hunted out. He is a fine tracker with a deep knowledge of the local wildlife. His loyalty to the lord is unquestioned, and he is often called upon to lead hunting parties during the lord's feasts.
 
 ## Psyche
 
@@ -418,13 +418,13 @@ He is an excellent tracker, knowledgeable about the local fauna, and a strong le
 
 ## Social
 
-Skilfvir belongs to Lord Gnildrmýl’s retinue.
+Skilfvir belongs to Lord Gnildrmil’s retinue.
 
 ## Companions
 
 ### Patrons
 
-Skilfvir's patrons are Lord Gnildrmýl and the other members of the manor's household.
+Skilfvir's patrons are Lord Gnildrmil and the other members of the manor's household.
 
 ### Enemies
 
@@ -440,4 +440,4 @@ None; respected by the local community.
 
 4. **Shifting Winds**—Political change in Nordheim threatens the manor Skilfvir depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—Another lord offers Skilfvir the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gnildrmýl is not named up front.
+5. **The Opportunity**—Another lord offers Skilfvir the mastery of a greater hunt than Ashenwood's, and the price of leaving Lord Gnildrmil is not named up front.

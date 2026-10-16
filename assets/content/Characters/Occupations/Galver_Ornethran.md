@@ -1,6 +1,6 @@
 ---
 shortcode: glvrrnthrn
-name: {full: Gálver Ornéthran, aliases: []}
+name: {full: Galver Ornethran, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Gálver Ornéthran is a 46-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a square chin. His piercing brown eyes sit beneath straight brows, lending him a penetrating gaze. A straight nose and narrow lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is tied in a low tail.
+Galver Ornethran is a 46-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a square chin. His piercing brown eyes sit beneath straight brows, lending him a penetrating gaze. A straight nose and narrow lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Gálver Ornéthran came into the world of the mason through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Galver Ornethran came into the world of the mason through a combination of circumstance and aptitude.
 
-Gálver is a veteran mason with over thirty years of experience. He has worked on countless projects, from simple homes to grand cathedrals. Known for his strength and expertise, Gálver often takes on leadership roles in construction projects and is respected for his ability to train younger workers. He believes in the importance of craftsmanship and integrity in his work.
+Galver is a veteran mason with over thirty years of experience. He has worked on countless projects, from simple homes to grand cathedrals. Known for his strength and expertise, Galver often takes on leadership roles in construction projects and is respected for his ability to train younger workers. He believes in the importance of craftsmanship and integrity in his work.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Can be resistant to change, sometimes too strict with apprentices.
 
 ### Motivation
 
-Gálver is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mason work keep him vigilant and adaptable.
+Galver is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mason work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Highly experienced, strong leadership skills, excellent craftsmanship.
 
 ## Social
 
-Gálver is affiliated with Local Masons' Guild.
+Galver is affiliated with Local Masons' Guild.
 
-As a Tarvénan mason, Gálver occupies a recognized social niche within Tarvénia society.
+As a Tarvenan mason, Galver occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 
 ### Patrons
 
-Gálver's primary patron is Architects and builders seeking experienced masons. This relationship provides both opportunity and obligation.
+Galver's primary patron is Architects and builders seeking experienced masons. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ Few; respected in the community.
 
 ## Plot Hooks
 
-1. **The Mason's Dilemma**—Gálver faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Mason's Dilemma**—Galver faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 
 2. **Old Grudges**—Few; respected in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Gálver's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Galver's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Gálver depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Galver depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Gálver the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Galver the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

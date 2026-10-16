@@ -426,7 +426,7 @@ Skraldthann stands 5'9" tall with a medium build. He has light ruddy skin, grey 
 
 # Dossier {#dossier}
 
-Skraldthann was born into a merchant family of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], with modest connections but substantial ambition. His father, a trader in fabrics, recognized his son's unusual eye for color and design early. Rather than follow traditional merchant paths, Skraldthann was apprenticed to **Master Tailor Tvirnmýl Ashstrider**, one of the finest clothiers in Norgaard's history. For fifteen years, he learned not merely to sew but to understand the subtleties of how fabric moved, how color interacted with skin, how a perfectly fitted garment could transform not just appearance but bearing and confidence.
+Skraldthann was born into a merchant family of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], with modest connections but substantial ambition. His father, a trader in fabrics, recognized his son's unusual eye for color and design early. Rather than follow traditional merchant paths, Skraldthann was apprenticed to **Master Tailor Tvirnmil Ashstrider**, one of the finest clothiers in Norgaard's history. For fifteen years, he learned not merely to sew but to understand the subtleties of how fabric moved, how color interacted with skin, how a perfectly fitted garment could transform not just appearance but bearing and confidence.
 
 After earning his mastership at thirty, Skraldthann established his own workshop in the city's elite district. His designs caught the attention of nobility and high merchants, and within a decade he had become the clothier of choice for anyone of consequence. His garments became status symbols—statements that one was wealthy and discriminating enough to afford Skraldthann's services.
 
@@ -464,10 +464,10 @@ Skraldthann is motivated by a desire for recognition and immortality through his
 
 ### Patrons
 
-Lady Viscontess Thraskrinna Gnuldrthanndóttir
+Lady Viscountess Thraskrinna Gnuldrthanndottir
 : A powerful noblewoman who has been Skraldthann's most consistent and influential patron for twenty years. She wears his designs to every significant event and has championed his work in the highest circles.
 
-Duke Svalthvir Hnarvarukh
+Duke Svalthvir Hnarvaruk
 : A wealthy warrior nobleman who commissions formal garments for official functions. He trusts Skraldthann's judgment completely and has introduced him to numerous high-ranking patrons.
 
 The Court of the Kingdom of Norgaad
@@ -475,7 +475,7 @@ The Court of the Kingdom of Norgaad
 
 ### Enemies
 
-Master Tailor Knarvthann Vraldumakh
+Master Tailor Knarvthann Vraldumak
 : Skraldthann's primary rival, whose more accessible and commercially successful designs have challenged Skraldthann's market dominance. Their competition is a matter of trade but venomous.
 
 The Tailors' Guild
@@ -495,14 +495,14 @@ Elite Social Circles of Norgaad
 [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] (Brother)
 : Skraldthann's younger brother by eight years, a tentmaker in Vithgard. The two share the Hrafnsvald name and a talent for working with fabric, but that is where the similarities end. Skraldthann considers tentmaking a waste of skill—[[being-dvrnvrhrfnsvld|Dvarnvir]] could have been a fine clothier if he hadn't squandered his youth soldiering. [[being-dvrnvrhrfnsvld|Dvarnvir]], for his part, views his brother's vanity and elitism with weary amusement. They correspond infrequently but with real affection, each quietly convinced the other chose the wrong life.
 
-[[being-vrldmylhrfnsvld|Vrildmýl Hrafnsvald]] (Nephew)
-: Skraldthann's nephew, the son of [[being-dvrnvrhrfnsvld|Dvarnvir]], a young militia sergeant in Vithgard. Skraldthann finds [[being-vrldmylhrfnsvld|Vrildmýl]]'s martial lifestyle coarse and unglamorous, yet feels a familial pride in the young man's courage and rising reputation. He has been known to send finely crafted garments to his nephew—gifts [[being-vrldmylhrfnsvld|Vrildmýl]] wears awkwardly but with quiet appreciation.
+[[being-vrldmylhrfnsvld|Vrildmil Hrafnsvald]] (Nephew)
+: Skraldthann's nephew, the son of [[being-dvrnvrhrfnsvld|Dvarnvir]], a young militia sergeant in Vithgard. Skraldthann finds [[being-vrldmylhrfnsvld|Vrildmil]]'s martial lifestyle coarse and unglamorous, yet feels a familial pride in the young man's courage and rising reputation. He has been known to send finely crafted garments to his nephew—gifts [[being-vrldmylhrfnsvld|Vrildmil]] wears awkwardly but with quiet appreciation.
 
 ## Plot Hooks
 
 1. **The Mysterious Benefactor**: A cloaked figure offers Skraldthann an astronomical sum to design a single garment with very specific requirements: it must include fabric the client provides (unusual material with strange properties), must be completed in secret, and must never be worn publicly. The client hints that the garment has supernatural significance. Skraldthann must decide whether artistic pride allows him to create something that will never be seen and whether taking the job involves deeper conspiracies.
 
-2. **The Apprentice's Secret**: A brilliant young apprentice, **Althmýl Skrildendikh**, shows extraordinary talent and potential as a designer. Skraldthann begins mentoring him intensively, planning to eventually name him successor. Then Skraldthann discovers that **Althmýl** is secretly selling designs to **Knarvthann Vraldumakh**. The betrayal forces Skraldthann to confront whether his isolation and elitism created this outcome, and whether his legacy has already begun to fail.
+2. **The Apprentice's Secret**: A brilliant young apprentice, **Althmil Skrildendik**, shows extraordinary talent and potential as a designer. Skraldthann begins mentoring him intensively, planning to eventually name him successor. Then Skraldthann discovers that **Althmil** is secretly selling designs to **Knarvthann Vraldumak**. The betrayal forces Skraldthann to confront whether his isolation and elitism created this outcome, and whether his legacy has already begun to fail.
 
 3. **The Fashion Revolution**: A movement emerges claiming that fashion should serve all people, not just the wealthy, and that tailors like Skraldthann perpetuate inequality. Charismatic advocates for functional, egalitarian clothing begin gaining traction among common people. Skraldthann's designs are mocked as elitist excess. He must decide whether to fight this movement, adapt to it, or find some synthesis that preserves his artistic integrity.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: diplos
-name: {full: Tâvemâs, aliases: []}
+name: {full: Tavemas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Twins: clever, quick fingers for pen and craft, with no patience for old mysteries."
@@ -35,7 +35,7 @@ sohl:
       hydalis: -5
 ---
 
-Tâvemâs, the Twins, is a sign of quick wit and quicker fingers. Scribes, artisans, and duelists born beneath it prosper, but the arcane and the antiquarian find its natives distracted and ill-suited to long contemplation.
+Tavemas, the Twins, is a sign of quick wit and quicker fingers. Scribes, artisans, and duelists born beneath it prosper, but the arcane and the antiquarian find its natives distracted and ill-suited to long contemplation.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Tâvemâs, the Twins, is a sign of quick wit and quicker fingers. Scribes, artis
 | Spirit  | Lore, Mystical            | −15 |
 | Water   | Language, Social          | −5  |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

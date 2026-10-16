@@ -1,6 +1,6 @@
 ---
 shortcode: edrgrsndryth
-name: {full: Edrígar yra Sundrýth wur Falkenstein, aliases: []}
+name: {full: Edrigar yra Sundreth wur Falkenstein, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Edrígar yra Sundrýth wur Falkenstein is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His bright brown eyes sit beneath prominent brows, lending him a lively gaze. A straight nose and wide lips complete his features. He has light skin with a rough complexion. His auburn hair is pulled back in a warrior's knot.
+Edrigar yra Sundreth wur Falkenstein is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His bright brown eyes sit beneath prominent brows, lending him a lively gaze. A straight nose and wide lips complete his features. He has light skin with a rough complexion. His auburn hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Edrígar came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Edrigar came into the world of the miner through a combination of circumstance and aptitude.
 
-Edrígar is a veteran miner with decades of experience in the field. He has worked in various mines and has a deep understanding of geology and extraction methods. Known for his wisdom and mentoring abilities, Edrígar often trains younger miners and shares his knowledge of the trade. He values the importance of safety and has fought for better conditions in the mines.
+Edrigar is a veteran miner with decades of experience in the field. He has worked in various mines and has a deep understanding of geology and extraction methods. Known for his wisdom and mentoring abilities, Edrigar often trains younger miners and shares his knowledge of the trade. He values the importance of safety and has fought for better conditions in the mines.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Can be resistant to change, struggles with the physical demands of mining due to
 
 ### Motivation
 
-Edrígar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
+Edrigar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,7 +417,7 @@ Highly knowledgeable, excellent mentor, strong work ethic.
 
 ## Social
 
-Edrígar works the stony ground near Falkenstein with a few relatives and neighbors. A promising seam draws help by bargain, not by orders from a miners’ union.
+Edrigar works the stony ground near Falkenstein with a few relatives and neighbors. A promising seam draws help by bargain, not by orders from a miners’ union.
 
 ## Companions
 
@@ -431,12 +431,12 @@ Few; generally respected but sometimes viewed as old-fashioned.
 
 ## Plot Hooks
 
-1. **The Miner's Dilemma**—Edrígar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Miner's Dilemma**—Edrigar faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 2. **Old Grudges**—Few; generally respected but sometimes viewed as old-fashioned. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Edrígar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Edrigar's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Edrígar depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Edrigar depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Edrígar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Edrigar the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

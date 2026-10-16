@@ -1,9 +1,9 @@
 ---
 shortcode: sirethoskhol
-name: {full: Sîrêthôs Khôlsâmândis, aliases: [Blazewarden Sîrêthôs]}
+name: {full: Sirethos Kolsamis, aliases: [Blazewarden Sirethos]}
 type: being
 subType: npc
-description: Blazewarden of the Black Flame's military bands, who leads the campaign against the Varokh, named in Thornak Blodtusc Bar.
+description: Blazewarden of the Black Flame's military bands, who leads the campaign against the Varokh, named in Thornak Bludtusk Barsk.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Sîrêthôs Khôlsâmândis is a 38-year-old man who stands 5'9" tall with a medium build. He has tanned skin, smooth complexion, black hair, and brown eyes.
+Sirethos Kolsamis is a 38-year-old man who stands 5'9" tall with a medium build. He has tanned skin, smooth complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Sîrêthôs Khôlsâmândis is the Blazewarden of the Sons of Eldheim, a military order of the Black Flame, and leads its campaign against the Varokh. He has sworn to burn the Varokhi forest and to sacrifice its Shamans to Ústaron, and has fought [[being-thrnkbldtscbr|Thornak Blodtusc Bar]]'s forces on several occasions.
+Sirethos Kolsamis is the Blazewarden of the Sons of Eldheim, a military order of the Black Flame, and leads its campaign against the Varokh. He has sworn to burn the Varokhi forest and to sacrifice its Shamans to Ústaron, and has fought [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]'s forces on several occasions.

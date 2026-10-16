@@ -3,7 +3,7 @@ shortcode: vesazahrbrir
 name: {full: Vesazáhr Brirorash, aliases: [Swordmaster Vesazáhr Brirorash, Swordmaster Vesazáhr]}
 type: being
 subType: npc
-description: An ambitious rival twenty years Sedikôn Manedês's junior.
+description: An ambitious rival twenty years Sedikon Manedes's junior.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Vesazáhr Brirorash is a 25-year-old man who stands 6'0" tall with a heavy build
 
 # Dossier {#dossier}
 
-Vesazáhr Brirorash is an ambitious swordmaster twenty years the junior of [[being-gvrlsnktrts|Sedikôn Manedês]]. He has cultivated alliances among newer swordmasters and has won several public bouts against Sedikôn's former students.
+Vesazáhr Brirorash is an ambitious swordmaster twenty years the junior of [[being-gvrlsnktrts|Sedikon Manedes]]. He has cultivated alliances among newer swordmasters and has won several public bouts against Sedikon's former students.

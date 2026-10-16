@@ -1,6 +1,6 @@
 ---
 shortcode: ulthrvnlthndkh
-name: {full: Ulthorv Nalthendikh, given: Ulthorv, clan: Nalthendikh, aliases: []}
+name: {full: Ulthorv Nalthendik, given: Ulthorv, clan: Nalthendik, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -424,7 +424,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ulthrvnlthndkh|Ulthorv Nalthendikh]]{float=top-left}
+![[ulthrvnlthndkh|Ulthorv Nalthendik]]{float=top-left}
 
 Ulthorv stands 6'1" tall with a medium build. He has tanned ruddy skin, grey hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, and hollow cheeks. He has a tattoo of a tiger on his forearm.
 
@@ -442,7 +442,7 @@ At thirty, Ulthorv made the critical error of witnessing something he shouldn't 
 
 ### Years of Captivity
 
-Eight years have passed since that judgment. Ulthorv has survived the mines through sheer physical resilience and an unbreakable will, though his spirit has been beaten down repeatedly by the overseer's lashes and the grinding monotony of extraction labor. He has attempted escape six times—each attempt more desperate than the last, each foiled and punished with increasing severity. The scars on his back tell the story of his resistance. Yet something in him refuses to break completely. His fellow workers whisper that Ulthorv Nalthendikh still dreams of freedom, though such dreams are considered dangerous luxuries in the mines.
+Eight years have passed since that judgment. Ulthorv has survived the mines through sheer physical resilience and an unbreakable will, though his spirit has been beaten down repeatedly by the overseer's lashes and the grinding monotony of extraction labor. He has attempted escape six times—each attempt more desperate than the last, each foiled and punished with increasing severity. The scars on his back tell the story of his resistance. Yet something in him refuses to break completely. His fellow workers whisper that Ulthorv Nalthendik still dreams of freedom, though such dreams are considered dangerous luxuries in the mines.
 
 ## Psyche
 
@@ -482,8 +482,8 @@ None formally, though older miners and fellow laborers view him as a de facto le
 
 ### Enemies
 
-Overseer Knalthýra the Merciless
-: The brutal taskmaster directly responsible for most of Ulthorv's torments. Knalthýra takes personal pleasure in crushing the spirit of the enslaved and has specifically targeted Ulthorv for additional punishment because of his refusal to break.
+Overseer Knalthira the Merciless
+: The brutal taskmaster directly responsible for most of Ulthorv's torments. Knalthira takes personal pleasure in crushing the spirit of the enslaved and has specifically targeted Ulthorv for additional punishment because of his refusal to break.
 
 Lord Magistrate Gnarthorv
 : The corrupt official who orchestrated Ulthorv's enslavement, initially to silence him about the tunnel collapse, and who now maintains vested financial interest in keeping him enslaved and controllable.

@@ -3,7 +3,7 @@ shortcode: sorvandaclose
 name: {full: The Sórvanda Closing, aliases: [The King's Cut]}
 type: lore
 subType: history
-description: "About 320 AF King Hóuradhel opened mine workings above the tree line in Sórvanda to meet the Empire's tribute, the Wardens closed them in a single season, and the crown learned that it rules the interior only through the people who live in it."
+description: "About 320 AF King Hóuradel opened mine workings above the tree line in Sórvanda to meet the Empire's tribute, the Wardens closed them in a single season, and the crown learned that it rules the interior only through the people who live in it."
 tags: [history]
 data:
   culture: elavendriclt
@@ -21,7 +21,7 @@ data:
         - place-eshalshldg
         - place-elanmere
       summary: >-
-        After a run of bad harvests King Hóuradhel of the house of Kírethel opens workings above the tree line in Sórvanda to find the silver the tribute asks of him. The Wardens close them in a single season: there is no battle, but there are miners dead at the adits, and the tribes withdraw their guides from the whole interior. The king goes up to Ésalosa uninvited and is turned back at the outer ridge. He closes the workings and renews the Tree-Line oath on the Lodge's terms, and the crown learns that it rules the interior only through the people who live there.
+        After a run of bad harvests King Hóuradel of the house of Kírethel opens workings above the tree line in Sórvanda to find the silver the tribute asks of him. The Wardens close them in a single season: there is no battle, but there are miners dead at the adits, and the tribes withdraw their guides from the whole interior. The king goes up to Ésalosa uninvited and is turned back at the outer ridge. He closes the workings and renews the Tree-Line oath on the Lodge's terms, and the crown learns that it rules the interior only through the people who live there.
       standing: reconstructed
       names:
         - {name: the Sórvanda Closing, by: affiliation-kngdmlvndr}
@@ -76,7 +76,7 @@ The first Warden a prospector meets in Sórvanda takes his map of the old workin
 
 ## The Bad Harvests
 
-The tribute that Queen Réidhanë agreed at [[lore-elvtribute|Váldun]] was a yearly sum in silver, and the crown paid it for generations without trouble. Then came a run of bad harvests in the basin and the hills, and the crown could not meet the sum from its own revenue. King **Hóuradhel**, of the house of **Kírethel**, the Circle's choice when the line of Oréthan ended without an heir, looked at the mountains. Sórvanda was rich in silver, gold and stone, and the tribes were not mining it.
+The tribute that Queen Réidane agreed at [[lore-elvtribute|Valdun]] was a yearly sum in silver, and the crown paid it for generations without trouble. Then came a run of bad harvests in the basin and the hills, and the crown could not meet the sum from its own revenue. King **Hóuradel**, of the house of **Kírethel**, the Circle's choice when the line of Orethan ended without an heir, looked at the mountains. Sórvanda was rich in silver, gold and stone, and the tribes were not mining it.
 
 He sent miners and engineers above the tree line and opened workings in the Spine. They were royal workings, ordered by a king acting inside his rights in the lowlands and outside his oath in the mountains.
 
@@ -84,7 +84,7 @@ He sent miners and engineers above the tree line and opened workings in the Spin
 
 The Wardens did not fight. They closed the workings in a single season, adit by adit. Some of the miners did not come out. The tribes withdrew their guides from the whole interior, and the withdrawal did the rest. The royal surveyors could not find a ford, a trail or a pass without a guide. No road in the mountains was the crown's own.
 
-Hóuradhel went up to [[place-eshalshldg|Ésalosa]] himself, uninvited. He was turned back at the outer ridge. No monarch has come to the Lodge unasked, and the Lodge did not make an exception for the king who had asked least.
+Hóuradel went up to [[place-eshalshldg|Ésalosa]] himself, uninvited. He was turned back at the outer ridge. No monarch has come to the Lodge unasked, and the Lodge did not make an exception for the king who had asked least.
 
 He came down, closed the workings, and renewed the Tree-Line oath on the Lodge's terms ([[lore-firstcrown|The First Crowning of Élavendre]]). The crown learned what it rules. It rules the interior only through the people who live there.
 

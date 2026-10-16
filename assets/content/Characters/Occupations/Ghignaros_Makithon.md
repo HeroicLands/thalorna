@@ -1,6 +1,6 @@
 ---
 shortcode: ghgnrsmkthn
-name: {full: Ghígnaros Mâkîthôn, aliases: []}
+name: {full: Ghígnaros Makithon, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -395,11 +395,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Ghígnaros Mâkîthôn is a 50-year-old man who stands 5'10" tall and is of moderate build. He has an oval face with high cheekbones, a smooth forehead, and a sharp jaw that leads to a firm chin. His piercing blue eyes sit beneath prominent brows, lending him a penetrating gaze. A straight nose and expressive lips complete his features. He has fair skin with a bronzed complexion. His white hair is combed neatly to one side.
+Ghígnaros Makithon is a 50-year-old man who stands 5'10" tall and is of moderate build. He has an oval face with high cheekbones, a smooth forehead, and a sharp jaw that leads to a firm chin. His piercing blue eyes sit beneath prominent brows, lending him a penetrating gaze. A straight nose and expressive lips complete his features. He has fair skin with a bronzed complexion. His white hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a minor noble family of Helionite heritage, Ghígnaros Mâkîthôn came into the world of the herald through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a minor noble family of Helionite heritage, Ghígnaros Makithon came into the world of the herald through a combination of circumstance and aptitude.
 
 Ghígnaros is a seasoned herald with over thirty years of service. As a member of minor nobility, he carries the weight of his family's long-standing tradition of serving the court. He is known for his authoritative presence and ability to capture the attention of even the most unruly crowds. While he adheres to the traditional styles of heraldry, he understands the need for subtle adaptation when dealing with different audiences. His experience makes him a trusted figure among the nobility, though he is not without his detractors.
 
@@ -421,7 +421,7 @@ Authoritative, experienced, respected for his deep understanding of heraldic tra
 
 Ghígnaros is affiliated with City Heralds' Guild.
 
-As a Helionite herald, Ghígnaros occupies a recognized social niche within Heliónis society.
+As a Helionite herald, Ghígnaros occupies a recognized social niche within Helionis society.
 
 ## Companions
 
@@ -435,12 +435,12 @@ Ambitious young heralds who see him as a barrier to their own advancement.
 
 ## Plot Hooks
 
-1. **The Herald's Dilemma**—Ghígnaros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Herald's Dilemma**—Ghígnaros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—Ambitious young heralds who see him as a barrier to their own advancement. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 3. **Echoes of the Past**—Something from Ghígnaros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Ghígnaros depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Ghígnaros depends upon. He must decide whether to adapt, resist, or flee.
 
 5. **The Opportunity**—A chance encounter offers Ghígnaros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

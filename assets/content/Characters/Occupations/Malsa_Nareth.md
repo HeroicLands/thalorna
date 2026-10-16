@@ -1,6 +1,6 @@
 ---
 shortcode: malianardh
-name: {full: Málsa Náreth, aliases: []}
+name: {full: Malsa Nareth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Málsa Náreth is a 28-year-old woman who stands 5'10" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. A delicate nose and expressive lips complete her features. She has light skin with a smooth complexion. Her auburn hair is loose and wavy.
+Malsa Nareth is a 28-year-old woman who stands 5'10" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. A delicate nose and expressive lips complete her features. She has light skin with a smooth complexion. Her auburn hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Málsa Náreth came into the world of the herder through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Malsa Nareth came into the world of the herder through a combination of circumstance and aptitude.
 
-Málsa grew up on a small farm, learning the art of herding from her father. She specializes in caring for a large flock of sheep, guiding them to the best pastures and ensuring their health. Known for her gentle touch and patience, Málsa has a knack for understanding animal behavior. While she loves her work, she dreams of one day owning her own land and expanding her flock.
+Malsa grew up on a small farm, learning the art of herding from her father. She specializes in caring for a large flock of sheep, guiding them to the best pastures and ensuring their health. Known for her gentle touch and patience, Malsa has a knack for understanding animal behavior. While she loves her work, she dreams of one day owning her own land and expanding her flock.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Inexperienced in dealing with disputes over land, can be overly cautious.
 
 ### Motivation
 
-Málsa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in herder work keep her vigilant and adaptable.
+Malsa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in herder work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Empathetic toward animals, skilled in herding techniques, quick learner.
 
 ## Social
 
-Málsa is affiliated with None; works independently.
+Malsa is affiliated with None; works independently.
 
-As a Élavendri herder, Málsa occupies a recognized social niche within Élavendre society.
+As a Élavendri herder, Malsa occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Málsa's primary patron is Local families who purchase her wool and lambs. This relationship provides both opportunity and obligation.
+Malsa's primary patron is Local families who purchase her wool and lambs. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Few, though some neighboring farmers see her as inexperienced.
 
 ## Plot Hooks
 
-1. **The Herder's Dilemma**—Málsa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Herder's Dilemma**—Malsa faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Few, though some neighboring farmers see her as inexperienced. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Málsa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Malsa's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Málsa depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Malsa depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Málsa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Malsa the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

@@ -1,6 +1,6 @@
 ---
 shortcode: hrndmylsnrvrkh
-name: {full: Hrundmýl Snarvarukh, aliases: []}
+name: {full: Hrundmil Snarvaruk, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -391,23 +391,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Hrundmýl Snarvarukh is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His round green eyes sit beneath heavy brows and give him a candid gaze. He has a strong nose and narrow lips. He has fair skin with a fair complexion. His white hair is thick and unkempt.
+Hrundmil Snarvaruk is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His round green eyes sit beneath heavy brows and give him a candid gaze. He has a strong nose and narrow lips. He has fair skin with a fair complexion. His white hair is thick and unkempt.
 
 # Dossier {#dossier}
 
-Hrundmýl Snarvarukh is head gaoler of the king's prison at Knalthstead, the seat of [[affiliation-kngdmnrdhm|Nordheim]], a Nordman freeman who has spent thirty years inside its walls and now runs them.
+Hrundmil Snarvaruk is head gaoler of the king's prison at Knalthstead, the seat of [[affiliation-kngdmnrdhm|Nordheim]], a Nordman freeman who has spent thirty years inside its walls and now runs them.
 
-Hrundmýl came to the prison as a young guard because the Tingward was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
+Hrundmil came to the prison as a young guard because the Tingward was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
 
 ## Psyche
 
 ### Personality
 
-Hrundmýl is stern, fair and immovable, and takes any suggestion that he bend the rules as an insult, which it usually is.
+Hrundmil is stern, fair and immovable, and takes any suggestion that he bend the rules as an insult, which it usually is.
 
 ### Motivation
 
-Hrundmýl wants order inside his walls—the staff safe, the prisoners alive, the feuds outside—and he holds that the rules, kept for everyone, are the only thing that delivers it.
+Hrundmil wants order inside his walls—the staff safe, the prisoners alive, the feuds outside—and he holds that the rules, kept for everyone, are the only thing that delivers it.
 
 ### Strengths
 
@@ -415,24 +415,24 @@ Experienced, authoritative, strong sense of duty.
 
 ## Social
 
-Hrundmýl holds his post under the Tingward, the _Tingvördr_, the sworn men who keep the ting-peace within Knalthstead's walls, and answers to the Landvördr, the king's reeve.
+Hrundmil holds his post under the Tingward, the _Tingvordr_, the sworn men who keep the ting-peace within Knalthstead's walls, and answers to the Landvordr, the king's reeve.
 
 ## Companions
 
 ### Patrons
 
-Hrundmýl's patrons are the reeve at Knalthstead and the senior officers of the Tingward, who trust his judgment because it has never once been bought.
+Hrundmil's patrons are the reeve at Knalthstead and the senior officers of the Tingward, who trust his judgment because it has never once been bought.
 
 ### Enemies
 
-Inmates who have been through his hands more than once; and a jarl of the fjord whose kinsman Hrundmýl will not release before the king has heard the case, whatever the jarl offers.
+Inmates who have been through his hands more than once; and a jarl of the fjord whose kinsman Hrundmil will not release before the king has heard the case, whatever the jarl offers.
 
 ## Plot Hooks
 
-1. **The Jarl's Kinsman**—A jarl's nephew is inside for a killing, his clan is outside demanding him, and the dead man's clan is outside demanding him too. Hrundmýl will give him to nobody but the king.
+1. **The Jarl's Kinsman**—A jarl's nephew is inside for a killing, his clan is outside demanding him, and the dead man's clan is outside demanding him too. Hrundmil will give him to nobody but the king.
 
-2. **New Methods**—The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Hrundmýl to work under him.
+2. **New Methods**—The reeve has appointed a younger warden over the prison, a man with ideas about informers and separate cells, and told Hrundmil to work under him.
 
-3. **The Freed Man**—A prisoner Hrundmýl held for five years and treated exactly like everyone else has come back to Knalthstead a rich man, and has asked to see him. He has not said why.
+3. **The Freed Man**—A prisoner Hrundmil held for five years and treated exactly like everyone else has come back to Knalthstead a rich man, and has asked to see him. He has not said why.
 
-4. **The Ting**—With the clans assembled for the ting, a purse has reached Hrundmýl through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.
+4. **The Ting**—With the clans assembled for the ting, a purse has reached Hrundmil through his own steward: an hour's carelessness with one door on one night. He has not touched it and he knows which of his guards it came through.

@@ -1,6 +1,6 @@
 ---
 shortcode: khaurenilthe
-name: {full: Khauren Ilthêrândis, aliases: [Captain Khauren Ilthêrândis]}
+name: {full: Kauren Iltheris, aliases: [Captain Kauren Iltheris]}
 type: being
 subType: npc
 description: The garrison's senior irregular-war officer, a grizzled professional who values competence above all.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Khauren Ilthêrândis is a 51-year-old man who stands 5'7" tall with a medium build. He has medium skin, sun-kissed complexion, dark brown hair, and hazel eyes.
+Kauren Iltheris is a 51-year-old man who stands 5'7" tall with a medium build. He has medium skin, sun-kissed complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Khauren Ilthêrândis is the garrison's senior irregular-war officer, a grizzled professional who values competence above all. He has said that he will protect [[being-brakshrlns|Brákôs Hârlânis]] from court-martial as long as [[being-brakshrlns|Brákôs Hârlânis]] delivers accurate intelligence. He sees the empire's decline clearly and treats it as fact rather than heresy.
+Kauren Iltheris is the garrison's senior irregular-war officer, a grizzled professional who values competence above all. He has said that he will protect [[being-brakshrlns|Brakos Harlanis]] from court-martial as long as [[being-brakshrlns|Brakos Harlanis]] delivers accurate intelligence. He sees the empire's decline clearly and treats it as fact rather than heresy.

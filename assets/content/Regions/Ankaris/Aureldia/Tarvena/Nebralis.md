@@ -1,6 +1,6 @@
 ---
 shortcode: nebralis
-name: {full: Nebrális, aliases: []}
+name: {full: Nebralis, aliases: []}
 type: place
 subType: settlement
 description: "Port Town"
@@ -14,4 +14,4 @@ data:
   packFolder: tarvenia
 ---
 
-Nebrális is a port town in the [[place-tarvenirgn|Tarvénia]] region of Aurèldía, where the fiefdoms and free territories of the Tarvéni heartland reach the sea. It is a mid-sized town among Tarvénia's settlements, and a number of its residents appear in the character notes.
+Nebralis is a port town in the [[place-tarvenirgn|Tarvénia]] region of Aureldia, where the fiefdoms and free territories of the Tarveni heartland reach the sea. It is a mid-sized town among Tarvénia's settlements, and a number of its residents appear in the character notes.

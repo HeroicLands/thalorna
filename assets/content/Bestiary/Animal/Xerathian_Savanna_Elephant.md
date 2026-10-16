@@ -1,9 +1,9 @@
 ---
 shortcode: xrthnsvn
-name: {full: Xerathian Savanna Elephant, aliases: []}
+name: {full: Zerathian Savanna Elephant, aliases: []}
 type: being
 subType: creature
-description: "The largest land creature alive, a towering savanna elephant living in matriarch-led herds across the Xerathian grasslands."
+description: "The largest land creature alive, a towering savanna elephant living in matriarch-led herds across the Zerathian grasslands."
 tags: [animal]
 data:
   packFolder: animals
@@ -283,13 +283,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[xrthnsvn|Xerathian Savanna Elephant]]{float=top-left}
+![[xrthnsvn|Zerathian Savanna Elephant]]{float=top-left}
 
 You feel them through the ground before you see them, a slow drumming that comes up through the soles of your feet. Then the herd comes over the rise in a long gray line: cows with calves walking under their bellies, and at the front an old cow taller than any animal you have seen, her ears spread like the sails of a boat, her tusks long and curved and yellowed at the tips. She stops. The whole line stops behind her. She lifts her trunk and tastes the wind in your direction, and the drumming goes on under your feet, deeper than sound, though no elephant is moving.
 
 # Dossier {#dossier}
 
-The Xerathian savanna elephant is the largest animal that walks anywhere in the world: ten to thirteen feet at the shoulder, five tons and more, with great fanning ears and long curved tusks in both bulls and cows. It lives in herds led by the oldest cows across the open grassland of the [[place-sthrnsvnhs|Southern Savannahs]] of [[place-xerathia|Xerathia]], and it moves with the seasons as the other great herds do: north into the wet belt below the [[place-cntrlrnfrsts|Central Rainforests]] to calve in the rains, and south through the central grass in the dry. It is peaceful when it is left alone and very dangerous when it is not. The herding clans of the savanna share their country with it, give it room, and count it among the things a sensible clan does not quarrel with.
+The Zerathian savanna elephant is the largest animal that walks anywhere in the world: ten to thirteen feet at the shoulder, five tons and more, with great fanning ears and long curved tusks in both bulls and cows. It lives in herds led by the oldest cows across the open grassland of the [[place-sthrnsvnhs|Southern Savannahs]] of [[place-xerathia|Zerathia]], and it moves with the seasons as the other great herds do: north into the wet belt below the [[place-cntrlrnfrsts|Central Rainforests]] to calve in the rains, and south through the central grass in the dry. It is peaceful when it is left alone and very dangerous when it is not. The herding clans of the savanna share their country with it, give it room, and count it among the things a sensible clan does not quarrel with.
 
 ## Presentation
 

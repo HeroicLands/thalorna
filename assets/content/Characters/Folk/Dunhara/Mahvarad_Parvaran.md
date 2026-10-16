@@ -3,7 +3,7 @@ shortcode: mahvaradparv
 name: {full: Mahvarad Parvaran, aliases: [Chieftain Mahvarad]}
 type: being
 subType: npc
-description: Leader of one of the clans that Shâdezan Kamruz defeated, who plots constant rebellion.
+description: Leader of one of the clans that Shadezan Kamruz defeated, who plots constant rebellion.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Mahvarad Parvaran is a 44-year-old man who stands 6'1" tall with a medium build.
 
 # Dossier {#dossier}
 
-Mahvarad Parvaran is the chieftain of the Soltrev Clan, one of the clans that [[being-shadznkmrz|Shâdezan Kamruz]] defeated. He harbors deep resentment and plots constant rebellion, seeking alliances with other displaced chieftains to overthrow Shâdezan's rule.
+Mahvarad Parvaran is the chieftain of the Soltrev Clan, one of the clans that [[being-shadznkmrz|Shadezan Kamruz]] defeated. He harbors deep resentment and plots constant rebellion, seeking alliances with other displaced chieftains to overthrow Shadezan's rule.

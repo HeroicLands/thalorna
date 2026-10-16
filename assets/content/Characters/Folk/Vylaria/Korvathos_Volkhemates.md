@@ -1,9 +1,9 @@
 ---
 shortcode: korvathosvol
-name: {full: Kôrvâthôs Vôlkhêmâtês, aliases: [Lord Kôrvâthôs]}
+name: {full: Korvathos Volkemates, aliases: [Lord Korvathos]}
 type: being
 subType: npc
-description: The lord of a border house in the Moktur march, whose household Arzânalàs Bâredâs serves as a huscarl.
+description: The lord of a border house in the Moktur march, whose household Arzanalas Baredas serves as a huscarl.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kôrvâthôs Vôlkhêmâtês is a 47-year-old man who stands 5'7" tall with a medium build. He has tanned skin, sun-kissed complexion, black hair, and blue eyes.
+Korvathos Volkemates is a 47-year-old man who stands 5'7" tall with a medium build. He has tanned skin, sun-kissed complexion, black hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Kôrvâthôs Vôlkhêmâtês is the lord of a border house in the Moktur march of [[place-vylariargn|Vylaría]]. His household keeps sworn fighting men against the Varokh raids that come over the march every summer. [[being-arznlsbrds|Arzânalàs Bâredâs]] is a huscarl of that household.
+Korvathos Volkemates is the lord of a border house in the Moktur march of [[place-vylariargn|Vylaria]]. His household keeps sworn fighting men against the Varokh raids that come over the march every summer. [[being-arznlsbrds|Arzanalas Baredas]] is a huscarl of that household.

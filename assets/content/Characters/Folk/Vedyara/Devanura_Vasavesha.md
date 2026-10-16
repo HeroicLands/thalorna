@@ -1,15 +1,15 @@
 ---
 shortcode: devanuravasa
-name: {full: Devānūra Vasavesha, aliases: [Maharaja Devānūra]}
+name: {full: Devanura Vasavesha, aliases: [Maharava Devanura]}
 type: being
 subType: npc
-description: A maharaja whose heirs, after his death, demand that Prthīmāja Kāyadara return or compensate for a commissioned piece.
+description: A maharava whose heirs, after his death, demand that Prtimaja Kayadara return or compensate for a commissioned piece.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier]
-  occupation: Maharaja
+  occupation: Maharava
   lore: []
   culture: vedyariclt
   homes: []
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Devānūra Vasavesha was a 60-year-old man who stood 5'10" tall with a medium build. He had medium skin, weathered complexion, black hair, and dark brown eyes.
+Devanura Vasavesha was a 60-year-old man who stood 5'10" tall with a medium build. He had medium skin, weathered complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Devānūra Vasavesha was a maharaja who commissioned an extraordinary piece from [[being-prthmjkydr|Prthīmāja Kāyadara]]. After his death his heirs demanded that Prthīmāja return or compensate for it, and the administrators of his estate are pursuing legal action, claiming Prthīmāja stole materials and payment without delivering the promised work.
+Devanura Vasavesha was a maharava who commissioned an extraordinary piece from [[being-prthmjkydr|Prtimaja Kayadara]]. After his death his heirs demanded that Prtimaja return or compensate for it, and the administrators of his estate are pursuing legal action, claiming Prtimaja stole materials and payment without delivering the promised work.

@@ -436,7 +436,7 @@ In his early twenties he began to experiment beyond his father's ways, learning 
 
 ### The God of the Forge
 
-Like many port Kaliharans, Kalonei keeps the faith of the foreigners he grew up among. His devotion to Ústaron, the fire-god of [[affiliation-sacredforge|the Sacred Forge]] in the [[affiliation-arldnpnthn|Aurèldían Pantheon]], is less a duty than a part of his work: in a well-tended kiln he sees a small, holy act of transformation, an echo of the god's own fire.
+Like many port Kaliharans, Kalonei keeps the faith of the foreigners he grew up among. His devotion to Ústaron, the fire-god of [[affiliation-sacredforge|the Sacred Forge]] in the [[affiliation-arldnpnthn|Aureldian Pantheon]], is less a duty than a part of his work: in a well-tended kiln he sees a small, holy act of transformation, an echo of the god's own fire.
 
 ## Psyche
 

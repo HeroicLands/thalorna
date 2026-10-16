@@ -480,7 +480,7 @@ Razanash is motivated primarily by her commitment to her spiritual vows and to t
 
 ### Patrons
 
-Elder Shaman Tijoodorqun
+Elder Shaman Tijoodorkun
 : The oldest and most respected shaman in the tribe; he has mentored Razanash in the tribe's own ways since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.
 
 Chief Khilodlun
@@ -491,7 +491,7 @@ The Serpent Spirit
 
 ### Enemies
 
-Shaman Kesükyemök
+Shaman Kesukyemok
 : A rival shamanic practitioner who views Razanash as an upstart and challenges her interpretations publicly; he represents the traditionalist faction that questions her unconventional methods.
 
 The Shadow Collective
@@ -518,4 +518,4 @@ The Desert Heralists' Collective
 
 4. **The Spirit Debt:** Razanash is approached by a desperate individual who claims a hostile spirit has enslaved them and made them a vehicle for its will; they commit terrible acts but experience them as if watching themselves from outside their own body. Razanash attempts a standard spiritual exorcism, but the entity is far more powerful and resilient than she expected. In attempting to free the person, she herself becomes partially possessed, creating a dangerous situation where Razanash becomes a conduit for the entity's manifestation. The party must help her reclaim her body and mind while discovering what the entity wants and why it has become so entrenched.
 
-5. **The Hidden Knowledge:** Razanash's teacher in the water-shrine lore of Kethramír, the Tellumi elder [[being-zevaradthvrn|Zevârad Dathvarûn]], reveals on his deathbed that the official shamanic teachings handed down at the shrine and in the tribe for generations are incomplete—that there are deeper, more dangerous spiritual practices and connections that have been deliberately hidden from younger shamans because they are considered too dangerous or too morally ambiguous for those lacking sufficient wisdom and spiritual development. He gives her cryptic instructions to seek out a hidden library or location where these teachings are preserved, and suggests that she may need to decide whether to let this knowledge remain hidden or to master it and decide its use. The party becomes involved in the quest to locate this hidden knowledge while Razanash wrestles with whether some knowledge is too dangerous to possess.
+5. **The Hidden Knowledge:** Razanash's teacher in the water-shrine lore of Kethramír, the Tellumi elder [[being-zevaradthvrn|Zevarad Dathvarun]], reveals on his deathbed that the official shamanic teachings handed down at the shrine and in the tribe for generations are incomplete—that there are deeper, more dangerous spiritual practices and connections that have been deliberately hidden from younger shamans because they are considered too dangerous or too morally ambiguous for those lacking sufficient wisdom and spiritual development. He gives her cryptic instructions to seek out a hidden library or location where these teachings are preserved, and suggests that she may need to decide whether to let this knowledge remain hidden or to master it and decide its use. The party becomes involved in the quest to locate this hidden knowledge while Razanash wrestles with whether some knowledge is too dangerous to possess.

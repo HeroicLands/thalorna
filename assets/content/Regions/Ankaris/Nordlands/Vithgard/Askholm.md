@@ -14,7 +14,7 @@ Askholm is a bare skerry in the waters off [[place-dvarnvik|Dvarnvík]] in [[pla
 
 ## The Judgment That Survived
 
-[[place-hnarvdal|Völva Aldrhildr]] was accused with the eleven but never tried. A Sworn Hand of the [[affiliation-eidhond|Order of the Sworn Hand]] ruled that foretelling alone is no working against a named person, and that ruling is the reason a seer's prophecy in Vithgard is not treated as proof of sorcery. The precedent survives in every ting of the kingdom; it does not vindicate the burning of those who were tried, and the deaths remain a grievance. Some plateau clans still avoid Dvarnvík, and the descendants of the accused keep their own accounts of who spoke against whom.
+[[place-hnarvdal|Velva Aldrhildr]] was accused with the eleven but never tried. A Sworn Hand of the [[affiliation-eidhond|Order of the Sworn Hand]] ruled that foretelling alone is no working against a named person, and that ruling is the reason a seer's prophecy in Vithgard is not treated as proof of sorcery. The precedent survives in every ting of the kingdom; it does not vindicate the burning of those who were tried, and the deaths remain a grievance. Some plateau clans still avoid Dvarnvík, and the descendants of the accused keep their own accounts of who spoke against whom.
 
 ## See Also
 

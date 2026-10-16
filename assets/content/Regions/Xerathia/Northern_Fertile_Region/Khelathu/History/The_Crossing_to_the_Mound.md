@@ -3,7 +3,7 @@ shortcode: crossmound
 name: {full: The Crossing to the Mound, aliases: []}
 type: lore
 subType: history
-description: "In 1006 ST (1105 BF) the house of Azlet'Qûtu closes, and the house of Zu'Amqeletu carries the court from the Great Land of Zu-Ger to the mound at Galezkara, lays the Sun's Road on the solstice line, proclaims the law of the sightline and opens the royal necropolis of Zu-Gezer."
+description: "In 1006 ST (1105 BF) the house of Azlet'Kutu closes, and the house of Zu'Amqeletu carries the court from the Great Land of Zu-Ger to the mound at Galezkara, lays the Sun's Road on the solstice line, proclaims the law of the sightline and opens the royal necropolis of Zu-Gezer."
 tags: [history, khelathu]
 data:
   culture: khelathiclt
@@ -15,7 +15,7 @@ data:
       depth: region
       sources: [lore-garauu, place-galezkara, place-yathtelgu, place-zugezer, place-waluqaa]
       summary: >-
-        Lin'Uzner, the last Gar-Aû of Azlet'Qûtu, dies in 1006 ST after twenty-six years, the first reign of a length a man can live, and the list closes the house. The house that follows, Zu'Amqeletu, does not keep its court in the Great Land of Zu-Ger as the first eleven kings did. Its first Gar-Aû, Anlagh'el'Qar I, carries the court to the mound at Galezkara, lays out the Sun's Road on the solstice line, proclaims that nothing may stand in the sightline between the temple and the horizon, and opens the first crossing-road of the necropolis at Zu-Gezer. Every house that rules from the mound after him lies on the western shore, and no house has ruled from the Great Land since.
+        Lin'Uzner, the last Gar-Au of Azlet'Kutu, dies in 1006 ST after twenty-six years, the first reign of a length a man can live, and the list closes the house. The house that follows, Zu'Amqeletu, does not keep its court in the Great Land of Zu-Ger as the first eleven kings did. Its first Gar-Au, Anlagh'el'Qar I, carries the court to the mound at Galezkara, lays out the Sun's Road on the solstice line, proclaims that nothing may stand in the sightline between the temple and the horizon, and opens the first crossing-road of the necropolis at Zu-Gezer. Every house that rules from the mound after him lies on the western shore, and no house has ruled from the Great Land since.
       standing: attested
       where:
         locus: [place-galezkara]
@@ -40,7 +40,7 @@ data:
       accounts:
         - by: affiliation-uqaa
           says: >-
-            The road is the god's. It runs where the sun rises on the longest day and sets on the shortest, and the Gar-Aû only walked it out and cleared the way.
+            The road is the god's. It runs where the sun rises on the longest day and sets on the shortest, and the Gar-Au only walked it out and cleared the way.
           agrees: full
           withholds: why the court moved in the year it did
         - by: place-zugernome
@@ -49,21 +49,21 @@ data:
           agrees: partly
           withholds: any reason the Great Land gave up the court
       unresolved:
-        - why the court left the Great Land when the house of Azlet'Qûtu closed, which the list does not say
+        - why the court left the Great Land when the house of Azlet'Kutu closed, which the list does not say
         - whether the road was laid in the first year of the reign or over the whole of it
 ---
 
-For the first thousand years of the count the kings were crowned on the mound and went home. In 1006 ST (1105 BF) a Gar-Aû stayed, and the valley has been ruled from the river-front of [[place-galezkara|Galezkara]] ever since.
+For the first thousand years of the count the kings were crowned on the mound and went home. In 1006 ST (1105 BF) a Gar-Au stayed, and the valley has been ruled from the river-front of [[place-galezkara|Galezkara]] ever since.
 
 ## The Last of the Great Land
 
-The First House and **Azlet'Qûtu** kept their court in [[place-zugernome|Zu-Ger]], the Great Land, and went downstream to the island of [[place-yathtelgu|Yath-Telgu]] to stand upon the mound at each crowning. The list gives their reigns as 150, 120 and 110 years and enters nothing else of them. The last reign of Azlet'Qûtu is **Lin'Uzner**'s twenty-six years, the first of a length a man can live, and the list enters his house as closed.
+The First House and **Azlet'Kutu** kept their court in [[place-zugernome|Zu-Ger]], the Great Land, and went downstream to the island of [[place-yathtelgu|Yath-Telgu]] to stand upon the mound at each crowning. The list gives their reigns as 150, 120 and 110 years and enters nothing else of them. The last reign of Azlet'Kutu is **Lin'Uzner**'s twenty-six years, the first of a length a man can live, and the list enters his house as closed.
 
 ## The Crossing
 
-The next house is **Zu'Amqeletu**, and its first Gar-Aû is **Anlagh'el'Qar I**. The list enters him by the formula for a crowning and no more. What he did is what the city shows.
+The next house is **Zu'Amqeletu**, and its first Gar-Au is **Anlagh'el'Qar I**. The list enters him by the formula for a crowning and no more. What he did is what the city shows.
 
-He did not return to the Great Land. The court crossed to the mound and settled on the island where the first Gar-Aû had stood, beside the temple of [[lore-uqaadty|Uqa'â]]. He laid a road through them on the solstice line: from the eastern edge of the living city, across the water to the island, through the temple and out of its western face to the desert shelf ([[place-waluqaa|Wal-Uqa'â]], the Sun's Road). At midsummer dawn the sun comes up straight down the eastern road. At midwinter dusk it sets straight down the western one, into the ground that was about to become the city of the dead.
+He did not return to the Great Land. The court crossed to the mound and settled on the island where the first Gar-Au had stood, beside the temple of [[lore-uqaadty|Uqa'a]]. He laid a road through them on the solstice line: from the eastern edge of the living city, across the water to the island, through the temple and out of its western face to the desert shelf ([[place-waluqaa|Wal-Uqa'a]], the Sun's Road). At midsummer dawn the sun comes up straight down the eastern road. At midwinter dusk it sets straight down the western one, into the ground that was about to become the city of the dead.
 
 ## The Law of the Sightline
 
@@ -85,4 +85,4 @@ The western shore became the burial-ground of the houses that ruled from the mou
 
 - [[lore-akhfirsttab|The First Tablets]] · [[lore-akhsunroad|The Sun's Road]]—the ages this crossing closes and opens
 - [[place-galezkara|Galezkara]] · [[place-yathtelgu|Yath-Telgu]] · [[place-zugezer|Zu-Gezer]]—the mound, the island and the necropolis
-- [[lore-garauu|Gar-Aûu]]—the king-list that enters the crossing
+- [[lore-garauu|Gar-Auu]]—the king-list that enters the crossing

@@ -1,6 +1,6 @@
 ---
 shortcode: elsrdrgn
-name: {full: Élsaro Durgána, aliases: []}
+name: {full: Élsaro Durgana, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -392,11 +392,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Élsaro Durgána is a 27-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with high cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His narrow dark brown eyes sit beneath heavy brows, lending him a keen gaze. An aquiline nose and curved lips complete his features. He has tanned skin with a weathered complexion. His graying brown hair is tied in a low tail.
+Élsaro Durgana is a 27-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with high cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His narrow dark brown eyes sit beneath heavy brows, lending him a keen gaze. An aquiline nose and curved lips complete his features. He has tanned skin with a weathered complexion. His graying brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Élsaro Durgána came into the world of the mercenary through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Élsaro Durgana came into the world of the mercenary through a combination of circumstance and aptitude.
 
 Élsaro is a skilled assassin-for-hire, known for his stealth and precision. He operates in the shadows, taking on contracts from those willing to pay for his services. Élsaro has a reputation for being quick and discreet, often using his skills to eliminate targets without a trace. He values his independence and often works alone but is also willing to collaborate when the job requires it.
 
@@ -418,7 +418,7 @@ Highly skilled in stealth and assassination, adaptable, sharp-minded.
 
 Élsaro is affiliated with None; operates independently.
 
-As a Tarvénan mercenary, Élsaro occupies a recognized social niche within Tarvénia society.
+As a Tarvenan mercenary, Élsaro occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 

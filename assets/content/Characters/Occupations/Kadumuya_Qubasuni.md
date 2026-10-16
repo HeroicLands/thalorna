@@ -1,6 +1,6 @@
 ---
 shortcode: kdmyqbsn
-name: {full: Kadûmûya Qubâsûnî, aliases: []}
+name: {full: Kadumuya Kubasuni, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,23 +392,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Kadûmûya Qubâsûnî is a 26-year-old woman who stands 5'11" tall and is slender. She has a long face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her large hazel eyes sit beneath straight brows and give her an expressive gaze. She has a prominent nose and curved lips. She has olive skin with a sun-kissed complexion. Her dark brown hair is braided and coiled at the nape.
+Kadumuya Kubasuni is a 26-year-old woman who stands 5'11" tall and is slender. She has a long face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her large hazel eyes sit beneath straight brows and give her an expressive gaze. She has a prominent nose and curved lips. She has olive skin with a sun-kissed complexion. Her dark brown hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Kadûmûya Qubâsûnî is a perfumer of Shamûlar, in Tarûzel, born to a Tarûzelian family of old standing whose money is mostly gone and whose perfume shop on the market square is what remains of it.
+Kadumuya Kubasuni is a perfumer of Shamular, in Taruzel, born to a Taruzelian family of old standing whose money is mostly gone and whose perfume shop on the market square is what remains of it.
 
-Kadûmûya grew up in the shop's back room among the stills and the oils. She has the finest nose in Shamûlar and spends her days blending—attar of rose from the inland valleys, resins off the Khelâthi ships, ambergris when the corsairs have some—in combinations nobody has tried. The guild families of Shamûlar come to her for scents made for one wearer. What she does not do is keep the books: her guild dues are late, her suppliers are paid when she remembers, and the shop lives on the reputation of the scents. She teaches anyone with a nose who asks.
+Kadumuya grew up in the shop's back room among the stills and the oils. She has the finest nose in Shamular and spends her days blending—attar of rose from the inland valleys, resins off the Khelathi ships, ambergris when the corsairs have some—in combinations nobody has tried. The guild families of Shamular come to her for scents made for one wearer. What she does not do is keep the books: her guild dues are late, her suppliers are paid when she remembers, and the shop lives on the reputation of the scents. She teaches anyone with a nose who asks.
 
 ## Psyche
 
 ### Personality
 
-Kadûmûya is absorbed, generous and hard on her own work; a scent she has spent a month on she will call a failure over one note.
+Kadumuya is absorbed, generous and hard on her own work; a scent she has spent a month on she will call a failure over one note.
 
 ### Motivation
 
-Kadûmûya wants to make scents nobody has made before, and to teach what she knows to anyone who cares to learn it. Keeping the shop solvent is a means to those ends and she treats it as one.
+Kadumuya wants to make scents nobody has made before, and to teach what she knows to anyone who cares to learn it. Keeping the shop solvent is a means to those ends and she treats it as one.
 
 ### Strengths
 
@@ -416,13 +416,13 @@ Highly creative, skilled in fragrance blending, a patient teacher.
 
 ## Social
 
-Kadûmûya holds her license from the perfumers' guild of Shamûlar, under the guild-wardens, and is a term behind on her dues.
+Kadumuya holds her license from the perfumers' guild of Shamular, under the guild-wardens, and is a term behind on her dues.
 
 ## Companions
 
 ### Patrons
 
-Kadûmûya's patrons are the guild families of Shamûlar, who commission scents made for one wearer and pay well for the exclusivity.
+Kadumuya's patrons are the guild families of Shamular, who commission scents made for one wearer and pay well for the exclusivity.
 
 ### Enemies
 
@@ -430,10 +430,10 @@ A rival house on the same square, better run and less gifted, which would like h
 
 ## Plot Hooks
 
-1. **The Dues**—The guild has given Kadûmûya a term to pay what she owes or surrender her license. The rival house has offered to pay it for her, in exchange for a partnership that would give them her formulas.
+1. **The Dues**—The guild has given Kadumuya a term to pay what she owes or surrender her license. The rival house has offered to pay it for her, in exchange for a partnership that would give them her formulas.
 
-2. **One Wearer Only**—A guild family has commissioned a signature scent and wants Kadûmûya's oath that no one else will ever wear it. A second family has asked for the same scent, having smelled it at a wedding, and will pay more.
+2. **One Wearer Only**—A guild family has commissioned a signature scent and wants Kadumuya's oath that no one else will ever wear it. A second family has asked for the same scent, having smelled it at a wedding, and will pay more.
 
-3. **A Pupil's Bottle**—A scent from Kadûmûya's back room is being sold under another name across the square. One of the apprentices she taught for nothing wrote the formula down.
+3. **A Pupil's Bottle**—A scent from Kadumuya's back room is being sold under another name across the square. One of the apprentices she taught for nothing wrote the formula down.
 
-4. **Past the Customs House**—A consignment of ambergris has reached Kadûmûya without passing the guild customs house, and the corsair who brought it wants a favor rather than money.
+4. **Past the Customs House**—A consignment of ambergris has reached Kadumuya without passing the guild customs house, and the corsair who brought it wants a favor rather than money.

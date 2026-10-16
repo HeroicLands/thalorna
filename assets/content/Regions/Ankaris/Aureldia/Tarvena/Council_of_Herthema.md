@@ -1,9 +1,9 @@
 ---
 shortcode: cnclhrthm
-name: {full: Council of Herthéma, aliases: []}
+name: {full: Council of Herthema, aliases: []}
 type: affiliation
 subType: polity
-description: "The governing council of Herthéma, a fortified town in Tarvénia."
+description: "The governing council of Herthema, a fortified town in Tarvénia."
 tags: [draft]
 data:
   templatePriority: null
@@ -13,16 +13,16 @@ data:
   governance:
     model: council
     summary: >-
-      The governing council of Herthéma.
+      The governing council of Herthema.
     ranks:
       - level: 0
         title: Outlaw
         description: >-
-          One put out of Herthéma by its council, without protection of its law and unwelcome inside its walls.
+          One put out of Herthema by its council, without protection of its law and unwelcome inside its walls.
       - level: 1
         title: Resident
         description: >-
-          Lives in Herthéma under its council.
+          Lives in Herthema under its council.
     offices: {}
   seat: herthema
   population: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
-The **Council of Herthéma** governs [[place-herthema|Herthéma]], a fortified town in [[place-tarvenirgn|Tarvénia]].
+The **Council of Herthema** governs [[place-herthema|Herthema]], a fortified town in [[place-tarvenirgn|Tarvénia]].

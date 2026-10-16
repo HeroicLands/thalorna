@@ -14,4 +14,4 @@ data:
   government: dhnrktjnpd
 ---
 
-**Ikshukshetra** (870) is the sugarcane village, on the wet ground inside the river bend, and when the cane stands high a visitor walking the paths between the fields cannot see over it. It is one of the villages of the [[place-dhanurkotajnpd|Dhanurkota Janapada]], and its cane is part of the janapada's modest surplus for export.
+**Ikshukshetra** (870) is the sugarcane village, on the wet ground inside the river bend, and when the cane stands high a visitor walking the paths between the fields cannot see over it. It is one of the villages of the [[place-dhanurkotajnpd|Danurkota Janapoda]], and its cane is part of the janapoda's modest surplus for export.

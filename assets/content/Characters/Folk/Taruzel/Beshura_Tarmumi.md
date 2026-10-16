@@ -1,9 +1,9 @@
 ---
 shortcode: beshuratarmu
-name: {full: Bêshûra Tarmûmî, aliases: [Captain Bêshûra Tarmûmî, Captain Bêshûra]}
+name: {full: Beshura Tarmumi, aliases: [Captain Beshura Tarmumi, Captain Beshura]}
 type: being
 subType: npc
-description: A corsair captain with an old wound that Yutâlûsh Pushûtûm healed years ago.
+description: A corsair captain with an old wound that Yutalush Pushutum healed years ago.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Bêshûra Tarmûmî is a 43-year-old woman who stands 5'10" tall with a medium build. She has golden skin, sun-kissed complexion, brown hair, and hazel eyes.
+Beshura Tarmumi is a 43-year-old woman who stands 5'10" tall with a medium build. She has golden skin, sun-kissed complexion, brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Bêshûra Tarmûmî is a corsair captain with an old wound that [[being-ytlshpshtm|Yutâlûsh Pushûtûm]] healed years ago. Bêshûra considers him a friend and owes him a life-debt, though the association is dangerous if the oligarchs discover it.
+Beshura Tarmumi is a corsair captain with an old wound that [[being-ytlshpshtm|Yutalush Pushutum]] healed years ago. Beshura considers him a friend and owes him a life-debt, though the association is dangerous if the oligarchs discover it.

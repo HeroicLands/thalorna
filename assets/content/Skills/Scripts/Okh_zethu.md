@@ -3,7 +3,7 @@ shortcode: okhthztscrpt
 name: {full: Okhatha-zethu Script, aliases: []}
 type: skill
 subType: script
-description: "The twenty-three sacred characters of Okháris, and the voweled hybrid the merchants made of them."
+description: "The twenty-three sacred characters of Okharis, and the voweled hybrid the merchants made of them."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: regkhskl}
 sohl:
@@ -17,9 +17,9 @@ sohl:
   flags: {"thalorna": {script_family: Abjad}}
 ---
 
-Okh-zethu—the name borrows the Khelâthi word _zethu_, "writing," an old debt the Okhári acknowledge and resent—is the consonantal script of the three city-states: twenty-three characters, vowels supplied by diacritic where they are supplied at all. It carries [[skill-okharclng|Okháric]] and nothing else, which is unusual among the scripts of the west and is very much the point.
+Okh-zethu—the name borrows the Khelathi word _zethu_, "writing," an old debt the Okhari acknowledge and resent—is the consonantal script of the three city-states: twenty-three characters, vowels supplied by diacritic where they are supplied at all. It carries [[skill-okharclng|Okharik]] and nothing else, which is unusual among the scripts of the west and is very much the point.
 
-A character needs **both** Okh-zethu and [[skill-okharclng|Okháric]] to read it; see [[sohl-none-docskill-script|Script]] for the general rules.
+A character needs **both** Okh-zethu and [[skill-okharclng|Okharik]] to read it; see [[sohl-none-docskill-script|Script]] for the general rules.
 
 ## Two systems, one alphabet
 
@@ -29,11 +29,11 @@ A character needs **both** Okh-zethu and [[skill-okharclng|Okháric]] to read it
 
 ## The letters themselves
 
-Blocky and separated, sized to be cut as easily as painted—Okhári monumental practice runs to carved and painted mural registers on pyramid faces, so the letterforms have to survive both a chisel and a brush. There is no case distinction. Sacred inscriptions add a bounding line above the text, and a name of the god within it receives a stroke through the ascender that no secular name may carry.
+Blocky and separated, sized to be cut as easily as painted—Okhari monumental practice runs to carved and painted mural registers on pyramid faces, so the letterforms have to survive both a chisel and a brush. There is no case distinction. Sacred inscriptions add a bounding line above the text, and a name of the god within it receives a stroke through the ascender that no secular name may carry.
 
 ## Who has it
 
-Priesthood, professional scribes, about one in six of the [[affiliation-okharis|Okhári]] nobility. Urban guildsmen recognize trade marks, numerals and standing abbreviations. Rural literacy is effectively nil.
+Priesthood, professional scribes, about one in six of the [[affiliation-okharis|Okhari]] nobility. Urban guildsmen recognize trade marks, numerals and standing abbreviations. Rural literacy is effectively nil.
 
 ## In play
 

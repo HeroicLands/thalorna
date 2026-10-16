@@ -3,7 +3,7 @@ shortcode: sthrnsvnhs
 name: {full: Southern Savannahs, aliases: [Southern Savannah, The Deep South]}
 type: place
 subType: region
-description: The vast subtropical grasslands of southern Xerathia—open herd-country, scattered hunter-pastoralist peoples, and ruined stonework whose builders no one remembers. Known to the north only through the rainforest peoples who trade with its inhabitants.
+description: The vast subtropical grasslands of southern Zerathia—open herd-country, scattered hunter-pastoralist peoples, and ruined stonework whose builders no one remembers. Known to the north only through the rainforest peoples who trade with its inhabitants.
 tags: [region]
 data:
   demonym: null
@@ -15,7 +15,7 @@ data:
 # terran_analog: Southern Africa—Namibia + Botswana + Zimbabwe + South Africa
 ---
 
-The Southern Savannahs are the vast subtropical grasslands of southern [[place-xerathia|Xerathia]]—open herd-country that stretches from the southern edge of the [[place-cntrlrnfrsts|Central Rainforests]] to the continent's southern coasts. Where the northern crescent teems with irrigated cities and the central rainforests choke with jungle, the deep south is spare: wide skies, long horizons, great herds moving with the seasons, and scattered peoples who follow them.
+The Southern Savannahs are the vast subtropical grasslands of southern [[place-xerathia|Zerathia]]—open herd-country that stretches from the southern edge of the [[place-cntrlrnfrsts|Central Rainforests]] to the continent's southern coasts. Where the northern crescent teems with irrigated cities and the central rainforests choke with jungle, the deep south is spare: wide skies, long horizons, great herds moving with the seasons, and scattered peoples who follow them.
 
 To the civilizations of the [[place-nrthrnfrtlrgn|Northern Fertile Region]], the savannahs are less a place than a rumor. Almost everything those civilizations know about the deep south comes second-hand through the [[place-cntrlrnfrsts|rainforest tribes]], who maintain seasonal trade relationships with the savannah herders along the long southern margin where jungle gives way to grassland. Direct expeditions from the north have been rare, ill-advised, and mostly did not return.
 
@@ -69,13 +69,13 @@ Savannah-internal trade is largely through **cattle exchange**, marriage-gifts, 
 
 To the **north** lies the [[place-cntrlrnfrsts|Central Rainforests]]. The savannah peoples and the forest peoples meet along a long, messy, ecologically transitional margin where jungle gives way to grassland. Contact is generally peaceful—long generations of seasonal overlap have produced a dense web of trading relationships, intermarriage, and ritualized exchanges. The forest tribes are the savannah peoples' principal contact with the wider world and vice versa.
 
-The [[place-nrthrnfrtlrgn|Northern Fertile Region]] civilizations—Bethua, Aû'Khelâthu, Okháris—are known to the savannah peoples only through forest intermediaries and through secondhand goods that reach the northern margins via trade. Most savannah peoples have never met a Khelâthi, Bethuan, or Okhári in person; the northern civilizations are a distant rumor of strangely dressed people who live in places where buildings do not move. Savannah opinion of these northerners, insofar as it is formed, tends to range from amused curiosity to wary respect to frank disinterest.
+The [[place-nrthrnfrtlrgn|Northern Fertile Region]] civilizations—Bethua, Au'Khelathu, Okharis—are known to the savannah peoples only through forest intermediaries and through secondhand goods that reach the northern margins via trade. Most savannah peoples have never met a Khelathi, Bethuan, or Okhari in person; the northern civilizations are a distant rumor of strangely dressed people who live in places where buildings do not move. Savannah opinion of these northerners, insofar as it is formed, tends to range from amused curiosity to wary respect to frank disinterest.
 
 To the **far south** lie the coasts of an unnamed ocean and whatever exists beyond it. Savannah knowledge of the southern coast is incomplete—different lineages know different stretches, and no unified picture has ever been assembled. Whatever lies beyond the southern coast is, for the savannah peoples, as mysterious as the savannah itself is to the north.
 
 ## See Also
 
-- [[place-xerathia|Xerathia Continent]]—parent continent
+- [[place-xerathia|Zerathia Continent]]—parent continent
 - [[place-cntrlrnfrsts|Central Rainforests]]—northern boundary
 - [[place-ekundavlg|Ékunda]]—savannah settlement
 - [[place-nrthrnfrtlrgn|Northern Fertile Region]]—distant northern civilizations, known only by rumor

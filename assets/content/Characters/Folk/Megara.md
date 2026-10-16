@@ -36,4 +36,4 @@ Megara is a 52-year-old woman who stands 5'11" tall with a heavy build. She has 
 
 # Dossier {#dossier}
 
-Megara is wife to a metalworker, home in [[place-anlaghzetun|Anlagh-Zetûn]], and mother to two stepchildren from that marriage. She is the steadier half of the household, the one the arrangement depends on more than either stepchild realizes. The household runs on that steadiness more than on the metalworker's trade.
+Megara is wife to a metalworker, home in [[place-anlaghzetun|Anlagh-Zetun]], and mother to two stepchildren from that marriage. She is the steadier half of the household, the one the arrangement depends on more than either stepchild realizes. The household runs on that steadiness more than on the metalworker's trade.

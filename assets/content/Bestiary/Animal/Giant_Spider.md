@@ -170,7 +170,7 @@ The cords across the trail are as thick as your little finger and gray with dust
 
 # Dossier {#dossier}
 
-The Giant Spider is a web-building spider with a body four feet across and legs that span twenty, which strings a maze of silk through the forests and marsh-woods of [[place-grkrhlmrgn|Grukarhölm]] and the eastern reaches of [[place-vrystwald|Vrystwald]] toward it, and waits at the heart of the maze for something to touch a line. It takes deer, boar, Grukar and men, binds them, and drains them, and it is the one thing in those woods the [[lore-grukarfolk|Grukar]] themselves walk round. A web-ground is a stretch of forest with cords across every path and husks hanging in the branches, and the Varokh of the frontier villages mark the edges of them with blazes and do not cross.
+The Giant Spider is a web-building spider with a body four feet across and legs that span twenty, which strings a maze of silk through the forests and marsh-woods of [[place-grkrhlmrgn|Grukarholm]] and the eastern reaches of [[place-vrystwald|Vristwald]] toward it, and waits at the heart of the maze for something to touch a line. It takes deer, boar, Grukar and men, binds them, and drains them, and it is the one thing in those woods the [[lore-grukarfolk|Grukar]] themselves walk round. A web-ground is a stretch of forest with cords across every path and husks hanging in the branches, and the Varokh of the frontier villages mark the edges of them with blazes and do not cross.
 
 ## Presentation
 
@@ -178,7 +178,7 @@ A huge spider with a bulbous, heavily muscled body in glossy black, dark brown o
 
 ## In the Land
 
-Giant Spiders live in the dense mixed forest and the drowned woods of the Grukarhölm marshes, where the trees stand close enough to carry a web from trunk to trunk for a hundred yards, and in the Skathwald reach of Vrystwald where the Grukar nests thicken. Each spider holds a web-ground of a few acres with its own body at the center, and the webs of neighbors meet at the edges. They are thickest along the game trails and the river landings, where the deer come down and the Grukar war-canoes put in, and absent from the open taiga and the cleared ground round a village.
+Giant Spiders live in the dense mixed forest and the drowned woods of the Grukarholm marshes, where the trees stand close enough to carry a web from trunk to trunk for a hundred yards, and in the Skathwald reach of Vristwald where the Grukar nests thicken. Each spider holds a web-ground of a few acres with its own body at the center, and the webs of neighbors meet at the edges. They are thickest along the game trails and the river landings, where the deer come down and the Grukar war-canoes put in, and absent from the open taiga and the cleared ground round a village.
 
 ## Key Behaviors
 

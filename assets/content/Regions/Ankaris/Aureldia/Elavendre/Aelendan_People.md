@@ -8,7 +8,7 @@ data: {packFolder: elavendre, culture: sinaleclt}
 ---
 
 - **Parent realm:** [[place-elavendre|Élavendre]]
-- **Related peoples:** [[lore-pelwarpepl|Pelwar People]] (ancestral), [[lore-flksinale|Sinalë]] (neighbors)
+- **Related peoples:** [[lore-pelwarpepl|Pelwar People]] (ancestral), [[lore-flksinale|Sinale]] (neighbors)
 - **Language:** [[skill-aelendlng|Áelendi]]
 - **Pantheon:** [[affiliation-firstgods|The First Gods]] (via [[affiliation-theoldway|the Old Way]]; with strong fae/nature spirit traditions)
 
@@ -16,7 +16,7 @@ The **Áelendan People**—also known as the **People of the Pact**—are a sub-
 
 ## The Kindred Pact
 
-The name "People of the Pact" refers to an ancient compact that the Áelendan believe binds them to the land itself—a sacred relationship with the forests, mountains, and waters of central Élavendre that their forebears entered into at the dawn of Pelwar settlement. The specifics of the Kindred Pact are not written down; they are transmitted through oral tradition, sung across generations, and enacted through the seasonal rituals that mark Áelendan life. To the Áelendan, the Kindred Pact is not metaphor. It is the operating agreement by which their communities remain in good standing with the land and its spirits. The people came over the eastern pass in the snow ([[lore-nelgancross|The Crossing of Nélgan]]), and the pact was first sung at the lowest pool of the Long Stair in the generation that followed ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]).
+The name "People of the Pact" refers to an ancient compact that the Áelendan believe binds them to the land itself—a sacred relationship with the forests, mountains, and waters of central Élavendre that their forebears entered into at the dawn of Pelwar settlement. The specifics of the Kindred Pact are not written down; they are transmitted through oral tradition, sung across generations, and enacted through the seasonal rituals that mark Áelendan life. To the Áelendan, the Kindred Pact is not metaphor. It is the operating agreement by which their communities remain in good standing with the land and its spirits. The people came over the eastern pass in the snow ([[lore-nelgancross|The Crossing of Nelgan]]), and the pact was first sung at the lowest pool of the Long Stair in the generation that followed ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]).
 
 ## Culture and Society
 
@@ -30,9 +30,9 @@ The relationship between the Áelendan and the settled [[place-elavendre|Élaven
 
 Élavendri noble houses go to great lengths to trace their ancestry back to the Áelendan, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter entirely.
 
-## Relationship with the Sinalë
+## Relationship with the Sinale
 
-The Áelendan maintain a uniquely close neighborly relationship with the [[lore-flksinale|Sinalë]] enclaves of the deep forests. This is not an alliance in any formal sense—the Sinalë have kings, queens and lords of their own, who do not work as human ones do—but a relationship of shared land and mutual tolerance built over many generations. The Áelendan fae traditions are not superstition; they reflect genuine contact with the Sinalë and with the other fae beings that inhabit the ancient forests. Áelendan druids practice forms of magic that bear a distant, diluted resemblance to Sinalëan arts. Why the Sinalë have opened themselves to the Áelendan in a way they do not to other peoples is a question the Sinalë have never explained, and that the Áelendan do not discuss.
+The Áelendan maintain a uniquely close neighborly relationship with the [[lore-flksinale|Sinale]] enclaves of the deep forests. This is not an alliance in any formal sense—the Sinale have kings, queens and lords of their own, who do not work as human ones do—but a relationship of shared land and mutual tolerance built over many generations. The Áelendan fae traditions are not superstition; they reflect genuine contact with the Sinale and with the other fae beings that inhabit the ancient forests. Áelendan druids practice forms of magic that bear a distant, diluted resemblance to Sinalean arts. Why the Sinale have opened themselves to the Áelendan in a way they do not to other peoples is a question the Sinale have never explained, and that the Áelendan do not discuss.
 
 ## Institutions
 
@@ -49,7 +49,7 @@ The Áelendan maintain a uniquely close neighborly relationship with the [[lore-
 
 ## The Order
 
-The Áelendan **do not trust the [[affiliation-ordoarcanis|Thôrdimâlon]] at all**, and do not pretend
+The Áelendan **do not trust the [[affiliation-ordoarcanis|Thordimalon]] at all**, and do not pretend
 to. Where the Élavendri court treats the Order as a rival institution to be balanced, licensed and
 argued with, the Áelendan regard it as a body of meddlesome intruders—outsiders who arrive to
 _study_ what the tribes exist to _keep_, who mistake a sacred site for a subject, and who have never
@@ -74,5 +74,5 @@ records of the northern interior are notably thin on what became of several of t
 - [[skill-aelendlng|Áelendi]]—The ancestral Pelwar tongue of the Áelendan
 - [[lore-pelwarpepl|Pelwar People]]—The ancestral people from whom the Áelendan descend
 - [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects sacred sites
-- [[lore-flksinale|Sinalë]]—The elder race with whom the Áelendan maintain neighborly relations
-- [[lore-theasking|The Asking]]—The Sinalëan lay of the Pelwar band, held by the Tradition Keepers
+- [[lore-flksinale|Sinale]]—The elder race with whom the Áelendan maintain neighborly relations
+- [[lore-theasking|The Asking]]—The Sinalean lay of the Pelwar band, held by the Tradition Keepers

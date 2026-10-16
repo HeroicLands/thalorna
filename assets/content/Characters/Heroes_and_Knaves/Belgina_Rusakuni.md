@@ -1,6 +1,6 @@
 ---
 shortcode: blgnrskn
-name: {full: Belgina Rusâkûnî, given: Belgina, clan: Rusâkûnî, aliases: []}
+name: {full: Belgina Rusakuni, given: Belgina, clan: Rusakuni, aliases: []}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]
@@ -402,9 +402,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[blgnrskn|Belgina Rusâkûnî]]{float=top-left}
+![[blgnrskn|Belgina Rusakuni]]{float=top-left}
 
-Belgina Rusâkûnî is a young woman whose appearance perfectly reflects her profession. Her brown hair is usually pulled into a haphazard knot, secured with whatever is handy—a nail, a dowel, once a fish bone. Her hazel eyes are bright and curious, set in an open, expressive face that smiles easily and often. Her hands are her most notable feature: strong, callused, and perpetually stained with pitch, sawdust, and oil. She dresses in practical work clothes—a leather vest over a cloth tunic, both bearing the marks of a hundred repairs—and she moves with the unselfconscious grace of someone completely at home in their own body. She is not tall, but she fills a room with sheer vitality.
+Belgina Rusakuni is a young woman whose appearance perfectly reflects her profession. Her brown hair is usually pulled into a haphazard knot, secured with whatever is handy—a nail, a dowel, once a fish bone. Her hazel eyes are bright and curious, set in an open, expressive face that smiles easily and often. Her hands are her most notable feature: strong, callused, and perpetually stained with pitch, sawdust, and oil. She dresses in practical work clothes—a leather vest over a cloth tunic, both bearing the marks of a hundred repairs—and she moves with the unselfconscious grace of someone completely at home in their own body. She is not tall, but she fills a room with sheer vitality.
 
 # Dossier {#dossier}
 
@@ -412,15 +412,15 @@ Belgina Rusâkûnî is a young woman whose appearance perfectly reflects her pro
 
 ### Origin
 
-Belgina was born in the port of [[place-pashinar|Pashînar]], a harbor in the [[affiliation-cnfdrtntrzlnstts|Tarûzelian Confederation]], the daughter of a master shipwright. She grew up in his yard, surrounded by the smell of fresh-cut timber and hot pitch, and from the time she could walk she was underfoot—watching, touching, learning. Her father never formally apprenticed her (the shipwrights' guild resists women in the craft, and Belgina is the exception), but she shadowed him so constantly and so eagerly that by twelve she could identify any wood by touch and tell you where it should go in a hull.
+Belgina was born in the port of [[place-pashinar|Pashinar]], a harbor in the [[affiliation-cnfdrtntrzlnstts|Taruzelian Confederation]], the daughter of a master shipwright. She grew up in his yard, surrounded by the smell of fresh-cut timber and hot pitch, and from the time she could walk she was underfoot—watching, touching, learning. Her father never formally apprenticed her (the shipwrights' guild resists women in the craft, and Belgina is the exception), but she shadowed him so constantly and so eagerly that by twelve she could identify any wood by touch and tell you where it should go in a hull.
 
 ### The Gift
 
 Belgina possesses something she cannot easily explain—an intuitive sense for how things work. She can lay her hand on a hull and _feel_ where the stress is wrong, sense the grain of wood and know how it wants to bend. Her father called it a gift from the sea itself. Others have whispered that it borders on the arcane, though Belgina has no formal training in any mystical tradition. This instinct has allowed her to learn shipwright skills with astonishing speed, and she can diagnose and repair problems that baffle more experienced craftsmen.
 
-### Joining the Tamzîr
+### Joining the Tamzir
 
-Belgina came aboard the Tamzîr two years ago when the ship limped into Pashînar with a cracked keel and her previous carpenter dead of fever. Bû was desperate—the Tamzîr needed repairs he could not afford, in a yard that would ask too many questions. Belgina's father owed debts to men who owed debts to Bû, and through that chain of obligation, Belgina was offered up as a temporary carpenter. She took one look at the Tamzîr's battered hull, fell in love with the old ship's stubborn refusal to sink, and never left. She has since performed miracles of repair that have kept the vessel seaworthy far beyond any reasonable expectation.
+Belgina came aboard the Tamzir two years ago when the ship limped into Pashinar with a cracked keel and her previous carpenter dead of fever. Bu was desperate—the Tamzir needed repairs he could not afford, in a yard that would ask too many questions. Belgina's father owed debts to men who owed debts to Bu, and through that chain of obligation, Belgina was offered up as a temporary carpenter. She took one look at the Tamzir's battered hull, fell in love with the old ship's stubborn refusal to sink, and never left. She has since performed miracles of repair that have kept the vessel seaworthy far beyond any reasonable expectation.
 
 ## Psyche
 
@@ -430,7 +430,7 @@ Belgina is sunny, enthusiastic, and has an optimism that the cynicism around her
 
 ### Motivation
 
-Belgina loves the Tamzîr. Not as an abstraction—she loves the ship itself, the way its hull moves through water, the particular creak of its timbers, the character of its repairs. She also loves the crew who have become her family, and the freedom of a life at sea. She wants to see the world, fix things that are broken, and build something that lasts.
+Belgina loves the Tamzir. Not as an abstraction—she loves the ship itself, the way its hull moves through water, the particular creak of its timbers, the character of its repairs. She also loves the crew who have become her family, and the freedom of a life at sea. She wants to see the world, fix things that are broken, and build something that lasts.
 
 ### Strengths
 
@@ -444,20 +444,20 @@ Belgina is naïve about the darker aspects of the crew's work. She knows they sm
 
 ### Patrons
 
-Her father, **Jirâman Rusâkûnî**, remains in Pashînar and worries about her constantly. He is a respected shipwright with connections in the Tarûzelian maritime guilds.
+Her father, **Jiraman Rusakuni**, remains in Pashinar and worries about her constantly. He is a respected shipwright with connections in the Taruzelian maritime guilds.
 
 ### Enemies
 
-Belgina has no personal enemies, though the Tamzîr's enemies are by extension hers.
+Belgina has no personal enemies, though the Tamzir's enemies are by extension hers.
 
 ### Affiliations
 
-Shipwright of the **Tamzîr**. Daughter of a Tarûzelian master shipwright. She has formed a particularly close bond with [[being-cibelasrnt|Kivellâ Serênthis]], the troubled young woman aboard the ship, finding in her a kindred spirit despite their vastly different circumstances.
+Shipwright of the **Tamzir**. Daughter of a Taruzelian master shipwright. She has formed a particularly close bond with [[being-cibelasrnt|Kivella Serenthis]], the troubled young woman aboard the ship, finding in her a kindred spirit despite their vastly different circumstances.
 
 ## Plot Hooks
 
-1. **The Ship's Secret**: During a major repair, Belgina discovers something hidden in the Tamzîr's hull—a sealed compartment containing documents or artifacts that predate Bû's ownership by decades. The contents could be valuable, dangerous, or both, and they suggest the Tamzîr has a history far more interesting than anyone aboard suspected.
+1. **The Ship's Secret**: During a major repair, Belgina discovers something hidden in the Tamzir's hull—a sealed compartment containing documents or artifacts that predate Bu's ownership by decades. The contents could be valuable, dangerous, or both, and they suggest the Tamzir has a history far more interesting than anyone aboard suspected.
 
-2. **Guild Pressure**: The Tarûzelian Shipwrights' Guild learns that an unguilded woman is practicing the craft aboard a known smuggling vessel. They send an agent to Belgina's father, threatening his livelihood unless he recalls his daughter. Belgina must choose between protecting her father and the life she has built at sea.
+2. **Guild Pressure**: The Taruzelian Shipwrights' Guild learns that an unguilded woman is practicing the craft aboard a known smuggling vessel. They send an agent to Belgina's father, threatening his livelihood unless he recalls his daughter. Belgina must choose between protecting her father and the life she has built at sea.
 
-3. **The Impossible Commission**: A wealthy patron offers a staggering sum if the Tamzîr can be refitted for a specific dangerous voyage. The modifications Belgina would need to make are technically possible but would fundamentally change the ship she loves. She must weigh the crew's financial needs against her own instincts about what the Tamzîr can and should be.
+3. **The Impossible Commission**: A wealthy patron offers a staggering sum if the Tamzir can be refitted for a specific dangerous voyage. The modifications Belgina would need to make are technically possible but would fundamentally change the ship she loves. She must weigh the crew's financial needs against her own instincts about what the Tamzir can and should be.

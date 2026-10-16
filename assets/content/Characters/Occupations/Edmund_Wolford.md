@@ -1,6 +1,6 @@
 ---
 shortcode: edmndwlfrd
-name: {full: Edmund Wolford, aliases: []}
+name: {full: Harred Wolford, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -396,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Edmund Wolford is a 44-year-old man who stands 5'8" tall and is of moderate build. He has an oval face with prominent cheekbones, a wide forehead, and a strong jaw that leads to a delicate chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A straight nose and full lips complete his features. He has light skin with a clear complexion. His graying brown hair is kept practical and short.
+Harred Wolford is a 44-year-old man who stands 5'8" tall and is of moderate build. He has an oval face with prominent cheekbones, a wide forehead, and a strong jaw that leads to a delicate chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A straight nose and full lips complete his features. He has light skin with a clear complexion. His graying brown hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Edmund Wolford is a clothier.
+Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Harred Wolford is a clothier.
 
-Edmund has been a clothier for over twenty years, running a small but reputable shop in the city that caters to both the nobility and common folk. His expertise lies in fine tailoring and embroidery, and he is known for his skill in creating custom garments for special occasions. Edmund is meticulous about his work, often taking on fewer clients to ensure the highest quality.
+Harred has been a clothier for over twenty years, running a small but reputable shop in the city that caters to both the nobility and common folk. His expertise lies in fine tailoring and embroidery, and he is known for his skill in creating custom garments for special occasions. Harred is meticulous about his work, often taking on fewer clients to ensure the highest quality.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ Perfectionist tendencies can delay completion of garments.
 
 ### Motivation
 
-Edmund wants each custom garment to meet his standard, even when a shorter client list costs him work.
+Harred wants each custom garment to meet his standard, even when a shorter client list costs him work.
 
 ### Strengths
 
@@ -420,13 +420,13 @@ Highly skilled in tailoring, embroidery, and working with fine fabrics.
 
 ## Social
 
-Edmund is affiliated with City Tailors' Guild.
+Harred is affiliated with City Tailors' Guild.
 
 ## Companions
 
 ### Patrons
 
-Local nobles commission Edmund's formal garments.
+Local nobles commission Harred's formal garments.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Competing clothiers who view his reputation as a threat.
 
 ## Plot Hooks
 
-1. **The Clothier's Dilemma**—Edmund faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Clothier's Dilemma**—Harred faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Competing clothiers who view his reputation as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Edmund's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Harred's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Edmund depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Harred depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Edmund the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Harred the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

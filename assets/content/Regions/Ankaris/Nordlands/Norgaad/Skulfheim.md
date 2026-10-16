@@ -18,7 +18,7 @@ The knock is the first thing a new hand learns at Skulfheim and the last thing a
 
 ## The Cloaked Stone
 
-The same lore reaches the saddle on the upper road from [[place-tvarnmark|Tvarnmark]] toward the [[place-shtrdpks|Shattered Peaks]]. A great stone there has gathered cloaks, left for travelers the mountains took. Some are for men of the king's brother's expedition, which went up that road thirty-two years ago seeking mithral. The king's brother and most of his forty companions never came back, and memorial stones on the upper road name some of the lost. Mountain lore holds that the great stones are the walking remnants of [[lore-hrimthurspr|Hrímthur]], the Rime-Giant. The memorials and the miners' caution stand without proving it.
+The same lore reaches the saddle on the upper road from [[place-tvarnmark|Tvarnmark]] toward the [[place-shtrdpks|Shattered Peaks]]. A great stone there has gathered cloaks, left for travelers the mountains took. Some are for men of the king's brother's expedition, which went up that road thirty-two years ago seeking mithral. The king's brother and most of his forty companions never came back, and memorial stones on the upper road name some of the lost. Mountain lore holds that the great stones are the walking remnants of [[lore-hrimthurspr|Hrimthur]], the Rime-Giant. The memorials and the miners' caution stand without proving it.
 
 ## See Also
 

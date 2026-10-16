@@ -1,9 +1,9 @@
 ---
 shortcode: bakionjamiro
-name: {full: Bákîon Jâmîrôs, aliases: [Captain Bákîon Jâmîrôs]}
+name: {full: Bákion Jamiros, aliases: [Captain Bákion Jamiros]}
 type: being
 subType: npc
-description: A seagoing merchant and explorer of Pelagora who brings rare herbs and unusual specimens back from coastal expeditions, named in Tàlîra Bâshirôn.
+description: A seagoing merchant and explorer of Pelagora who brings rare herbs and unusual specimens back from coastal expeditions, named in Talira Basiron.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Bákîon Jâmîrôs is a 46-year-old man who stands 6'0" tall with a medium build. He has olive skin, smooth complexion, brown hair, and blue eyes.
+Bákion Jamiros is a 46-year-old man who stands 6'0" tall with a medium build. He has olive skin, smooth complexion, brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Bákîon Jâmîrôs is a seagoing merchant and explorer of Pelagora. He brings rare herbs and unusual specimens back from coastal expeditions and contracts with [[being-talirbshrn|Tàlîra Bâshirôn]] for custom remedies.
+Bákion Jamiros is a seagoing merchant and explorer of Pelagora. He brings rare herbs and unusual specimens back from coastal expeditions and contracts with [[being-talirbshrn|Talira Basiron]] for custom remedies.

@@ -1,8 +1,8 @@
 ---
 shortcode: ankarisjenchai
-name: {full: "Jénchài"}
+name: {full: "Jenchai"}
 type: folder
 data: {parent: heroesandknavesankaris, color: "#483D8B"}
 ---
 
-This folder gathers the Heroes and Knaves characters of the Jénchài polity in Ankaris. It sits within the Ankaris folder of the Heroes and Knaves characters.
+This folder gathers the Heroes and Knaves characters of the Jenchai polity in Ankaris. It sits within the Ankaris folder of the Heroes and Knaves characters.

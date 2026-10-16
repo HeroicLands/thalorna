@@ -258,7 +258,7 @@ The cave runs back from the hillside, and your torch shows its walls slick and g
 
 # Dossier {#dossier}
 
-The Cave Goblin is a [[lore-goblinfolk|goblin]] of the underground: a small, hunched, sapient creature, three to four feet tall, with huge pale eyes that see in near-darkness, which lives in caves and tunnels as a solitary hunter or in loose communities when food and room allow. It is highly intelligent and amoral, neither wicked nor good: it pursues its own self-interest and the customs of its kind with perfect consistency, follows a trickster god, lies as easily as it breathes, and poisons its weapons with fungal toxins. Goblins hold their own territories in the marginal lands between the settled kingdoms, and the cave goblins of the [[place-vandstein|Vandstein]], the stony southern edge of the [[place-vrystwald|Vrystwald]] facing the Vylarian Empire, are the ones the empire's frontier knows best.
+The Cave Goblin is a [[lore-goblinfolk|goblin]] of the underground: a small, hunched, sapient creature, three to four feet tall, with huge pale eyes that see in near-darkness, which lives in caves and tunnels as a solitary hunter or in loose communities when food and room allow. It is highly intelligent and amoral, neither wicked nor good: it pursues its own self-interest and the customs of its kind with perfect consistency, follows a trickster god, lies as easily as it breathes, and poisons its weapons with fungal toxins. Goblins hold their own territories in the marginal lands between the settled kingdoms, and the cave goblins of the [[place-vandstein|Vandstein]], the stony southern edge of the [[place-vrystwald|Vristwald]] facing the Vylarian Empire, are the ones the empire's frontier knows best.
 
 ## Presentation
 

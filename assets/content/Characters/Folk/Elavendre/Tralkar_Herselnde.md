@@ -1,9 +1,9 @@
 ---
 shortcode: tralkarherse
-name: {full: Trálkar Hérselndë, aliases: [Captain Trálkar Hérselndë, Captain Trálkar]}
+name: {full: Tralkar Hérselnde, aliases: [Captain Tralkar Hérselnde, Captain Tralkar]}
 type: being
 subType: npc
-description: A successful merchant captain who publicly blamed Tárella Pélthal for a naval disaster.
+description: A successful merchant captain who publicly blamed Tárella Pelthal for a naval disaster.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Trálkar Hérselndë is a 43-year-old man who stands 6'0" tall with a heavy build. He has light skin, smooth complexion, auburn hair, and green eyes.
+Tralkar Hérselnde is a 43-year-old man who stands 6'0" tall with a heavy build. He has light skin, smooth complexion, auburn hair, and green eyes.
 
 # Dossier {#dossier}
 
-Trálkar Hérselndë is a successful merchant captain whose ship ignored the warnings of [[being-tarelblthl|Tárella Pélthal]] and met disaster. An investigation absolved her, but he still holds her responsible for his lost crew and missing cargo, and spreads the story that her predictions are unreliable.
+Tralkar Hérselnde is a successful merchant captain whose ship ignored the warnings of [[being-tarelblthl|Tárella Pelthal]] and met disaster. An investigation absolved her, but he still holds her responsible for his lost crew and missing cargo, and spreads the story that her predictions are unreliable.

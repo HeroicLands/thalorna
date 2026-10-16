@@ -38,7 +38,7 @@ data:
 
 ## Overview
 
-The **Zeglar**, chief minister and supreme judge, runs the civil administration of [[affiliation-empireakhlth|Aû'Khelâthu]] through **Gar-Zeglar**, the ministry whose bureaus in [[place-garmedjatozo|Gar-Medjatozo]] hold the paperwork of the realm: tax rolls, land grants, appointments and the countless records a state this old accumulates. Its ministers file, retrieve and occasionally lose what that paperwork says, and losing a particular record is sometimes as useful to a minister as keeping it. The ministry dislikes anyone who exposes what its files actually contain, and a petitioner who goes looking for an inconvenient record finds the search taking far longer than it should.
+The **Zeglar**, chief minister and supreme judge, runs the civil administration of [[affiliation-empireakhlth|Au'Khelathu]] through **Gar-Zeglar**, the ministry whose bureaus in [[place-garmedjatozo|Gar-Medjatozo]] hold the paperwork of the realm: tax rolls, land grants, appointments and the countless records a state this old accumulates. Its ministers file, retrieve and occasionally lose what that paperwork says, and losing a particular record is sometimes as useful to a minister as keeping it. The ministry dislikes anyone who exposes what its files actually contain, and a petitioner who goes looking for an inconvenient record finds the search taking far longer than it should.
 
 ## Character
 
@@ -48,7 +48,7 @@ Gar-Zeglar is secretive and slow, and it is the institution that holds the realm
 
 ## Relations
 
-Gar-Zeglar is the administrative arm of [[affiliation-empireakhlth|Aû'Khelâthu]]'s government, and each of its ministers holds a portion of the realm's records. The temples keep archives of their own, and a petitioner with a choice of books asks which one the judge will read.
+Gar-Zeglar is the administrative arm of [[affiliation-empireakhlth|Au'Khelathu]]'s government, and each of its ministers holds a portion of the realm's records. The temples keep archives of their own, and a petitioner with a choice of books asks which one the judge will read.
 
 ## Commerce and Currency
 
@@ -58,5 +58,5 @@ A record entered at a temple archive can be read back for a fee. A record in the
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—The government it administers
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—The government it administers
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to

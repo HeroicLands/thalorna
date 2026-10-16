@@ -1,6 +1,6 @@
 ---
 shortcode: jubensfths
-name: {full: Júbênós Safîthês, aliases: []}
+name: {full: Júbenos Safithes, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, administration]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Júbênós Safîthês is a 32-year-old man who stands 5'7" tall and is of moderate build. He has a diamond face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His hooded hazel eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and curved lips complete his features. He has medium-toned skin with a bronzed complexion. His dark brown hair is cropped short.
+Júbenos Safithes is a 32-year-old man who stands 5'7" tall and is of moderate build. He has a diamond face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His hooded hazel eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and curved lips complete his features. He has medium-toned skin with a bronzed complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a guilded family of Helionite heritage, Júbênós Safîthês came into the world of the courtesan through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a guilded family of Helionite heritage, Júbenos Safithes came into the world of the courtesan through a combination of circumstance and aptitude.
 
-Júbênós began his career as an actor, but his good looks and silver tongue eventually led him to a more lucrative path as a courtesan. He is known for his charm and wit, often accompanying wealthy clients to social events where his conversation skills shine. Júbênós enjoys the finer things in life but keeps his true feelings guarded, never allowing himself to become too attached.
+Júbenos began his career as an actor, but his good looks and silver tongue eventually led him to a more lucrative path as a courtesan. He is known for his charm and wit, often accompanying wealthy clients to social events where his conversation skills shine. Júbenos enjoys the finer things in life but keeps his true feelings guarded, never allowing himself to become too attached.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Keeps emotional distance, can be overly self-indulgent.
 
 ### Motivation
 
-Júbênós is driven by the desire to master his craft and secure a stable future. The uncertainties of life in courtesan work keep him vigilant and adaptable.
+Júbenos is driven by the desire to master his craft and secure a stable future. The uncertainties of life in courtesan work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Charismatic, skilled in conversation, understands high society etiquette.
 
 ## Social
 
-Júbênós is affiliated with Formerly associated with a theater troupe.
+Júbenos is affiliated with Formerly associated with a theater troupe.
 
-As a Helionite courtesan, Júbênós occupies a recognized social niche within Heliónis society.
+As a Helionite courtesan, Júbenos occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Júbênós's primary patron is Nobles and wealthy socialites who seek his company. This relationship provides both opportunity and obligation.
+Júbenos's primary patron is Nobles and wealthy socialites who seek his company. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Jealous rivals in the entertainment and social scenes.
 
 ## Plot Hooks
 
-1. **The Courtesan's Dilemma**—Júbênós faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Courtesan's Dilemma**—Júbenos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—Jealous rivals in the entertainment and social scenes. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Júbênós's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Júbenos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Júbênós depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Júbenos depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Júbênós the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Júbenos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

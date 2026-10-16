@@ -440,7 +440,7 @@ The pass is a notch in the ridge, and beyond it the next valley is full of mist.
 
 # Dossier {#dossier}
 
-The Lithogiant is an earth elemental of titanic size: a spirit of the earth-aspect manifested as a man-shaped mass of stone and soil twenty-five to thirty feet tall and of a weight past measuring, which wanders the high mountain ranges along paths only it understands. It is usually solitary and usually indifferent to anything as small as a man, and when it is angered or something stands in its way, it is a disaster. One walks the [[place-vylariargn#the-cervaron-spine|Cervaron Spine]], the great arc of high mountains between the Vylarian peninsula and the eastern reaches of Élavendre, which the empire lists as its territory and the Áelendan hold as sacred country. Like every elemental it can be destroyed in the material world, and it comes back, after a very long time.
+The Lithogiant is an earth elemental of titanic size: a spirit of the earth-aspect manifested as a man-shaped mass of stone and soil twenty-five to thirty feet tall and of a weight past measuring, which wanders the high mountain ranges along paths only it understands. It is usually solitary and usually indifferent to anything as small as a man, and when it is angered or something stands in its way, it is a disaster. One walks the [[place-vylariargn#the-cervaron-spine|Kervaron Spine]], the great arc of high mountains between the Vylarian peninsula and the eastern reaches of Élavendre, which the empire lists as its territory and the Áelendan hold as sacred country. Like every elemental it can be destroyed in the material world, and it comes back, after a very long time.
 
 ## Presentation
 
@@ -448,7 +448,7 @@ The lithogiant has the rough shape of a man, two legs, a body, two arms and a he
 
 ## In the Land
 
-The Cervaron is snow on the peaks, forest in the deep valleys, glacier-fed rivers and high pastures that bloom for two months of the year, and its dozen narrow passes are the only practicable crossings from east to west. The lithogiant walks the length of the range, slowly, over years, from one end to the other and back. It seems drawn to places where the earth's power shows: old standing stones, sites of past earthquakes, glacier springs, places where the rock is strange. It goes over ridges and through valleys alike, and it does not go round anything. Where it has stood for a season, the ground is unstable for years afterward, and landslips and small quakes follow its track.
+The Kervaron is snow on the peaks, forest in the deep valleys, glacier-fed rivers and high pastures that bloom for two months of the year, and its dozen narrow passes are the only practicable crossings from east to west. The lithogiant walks the length of the range, slowly, over years, from one end to the other and back. It seems drawn to places where the earth's power shows: old standing stones, sites of past earthquakes, glacier springs, places where the rock is strange. It goes over ridges and through valleys alike, and it does not go round anything. Where it has stood for a season, the ground is unstable for years afterward, and landslips and small quakes follow its track.
 
 ## Key Behaviors
 
@@ -456,7 +456,7 @@ The lithogiant walks its paths and stands still at its stopping places, sometime
 
 ## What the Clans and the Caravans Do
 
-The [[place-alndntrblnds|Áelendan]] of the Cervaron, whose religion holds the high peaks to be the dwellings of the First Gods, know the lithogiant's paths, and they watch it as they watch the weather. When it comes toward a pass, the clan that holds the pass closes it to caravans and moves its herds off the high pastures, and the passage-gift that Vylarian mule-trains pay at the first camp buys, among other things, the news of where the walker is. The clans do not fight it; one elder says that a people who live on a mountain do not quarrel with it. Vylarian chancery maps mark the range as imperial territory with boundary-stones at the principal passes, and the lithogiant has walked through two of those stones and left nothing standing. The clans regard this as a comment.
+The [[place-alndntrblnds|Áelendan]] of the Kervaron, whose religion holds the high peaks to be the dwellings of the First Gods, know the lithogiant's paths, and they watch it as they watch the weather. When it comes toward a pass, the clan that holds the pass closes it to caravans and moves its herds off the high pastures, and the passage-gift that Vylarian mule-trains pay at the first camp buys, among other things, the news of where the walker is. The clans do not fight it; one elder says that a people who live on a mountain do not quarrel with it. Vylarian chancery maps mark the range as imperial territory with boundary-stones at the principal passes, and the lithogiant has walked through two of those stones and left nothing standing. The clans regard this as a comment.
 
 ## Signs
 

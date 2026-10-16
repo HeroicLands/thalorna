@@ -3,7 +3,7 @@ shortcode: khelenetzslt
 name: {full: Khelenet-Zu Selat, aliases: []}
 type: place
 subType: region
-description: "Old assize-courts; a selat famous for its lawyer-priests and land-survey scribes—the land of the Selat of Khelenet-Zu, one of the upper-river selatu of Aû'Khelâthu."
+description: "Old assize-courts; a selat famous for its lawyer-priests and land-survey scribes—the land of the Selat of Khelenet-Zu, one of the upper-river selatu of Au'Khelathu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -21,7 +21,7 @@ Every spring the flood goes down and takes the boundary stones with it, and the 
 
 "Hold the cord and keep still while I sight along it," a land-survey scribe tells the boy carrying his rod, on a dyke above a field whose owner and whose neighbor have each walked out to watch. "The water leaves a hand of silt and no opinions about whose barley it was. All we have is last year's entry, so that is what we measure from."
 
-**Khelenet-Zu Selat** is the land of the [[affiliation-selatkhelntz|Selat of Khelenet-Zu]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Khelenet-Zu Selat** is the land of the [[affiliation-selatkhelntz|Selat of Khelenet-Zu]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -29,12 +29,12 @@ The land is the river valley at its working best: a green strip of flood-silt fi
 
 ## Economy
 
-The selat runs on the flood, the harvest and the render like every [[lore-khelathiclt|Khelâthi]] selat: grain to the granaries, labor to the canals and the works of the flood season, and a share of everything to the temples and the crown. What it adds for the empire is the work of its lawyer-priests and survey scribes, who settle the lines the flood has wiped out and carry the verdicts into the rolls.
+The selat runs on the flood, the harvest and the render like every [[lore-khelathiclt|Khelathi]] selat: grain to the granaries, labor to the canals and the works of the flood season, and a share of everything to the temples and the crown. What it adds for the empire is the work of its lawyer-priests and survey scribes, who settle the lines the flood has wiped out and carry the verdicts into the rolls.
 
 ## Notable Features
 
 - [[place-khelenetzu|Khelenet-Zu]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-qearet|Faith of Qe'âret]] and its estates
+- The chief temple of [[affiliation-qearet|Faith of Qe'aret]] and its estates
 - The old assize-courts and the survey scribes' rolls they judge by
 
 ## Settlements
@@ -45,5 +45,5 @@ The selat runs on the flood, the harvest and the render like every [[lore-khelat
 ## See Also
 
 - [[affiliation-selatkhelntz|The Selat of Khelenet-Zu]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
 - [[place-khelenetzu|Khelenet-Zu]]—Selat capital

@@ -1,6 +1,6 @@
 ---
 shortcode: volkhemara
-name: {full: Vôlkhêmâra, aliases: []}
+name: {full: Volkemara, aliases: []}
 type: place
 subType: settlement
 description: "Fishing Town"
@@ -16,12 +16,12 @@ data:
 
 ## Overview
 
-Vôlkhêmâra, the harbor town, is one of [[affiliation-provincvld|Sâlkhâlon]]'s four great fishing towns, with about eight thousand people, and its harbor is crowded with the boats and the curing-sheds that supply fresh and salted fish to the capital and the interior provinces. It lives by the catch and the fickle sea, and its people keep to the old coastal customs and a wary devotion to the sea's moods.
+Volkemara, the harbor town, is one of [[affiliation-provincvld|Salkalon]]'s four great fishing towns, with about eight thousand people, and its harbor is crowded with the boats and the curing-sheds that supply fresh and salted fish to the capital and the interior provinces. It lives by the catch and the fickle sea, and its people keep to the old coastal customs and a wary devotion to the sea's moods.
 
-In a hard winter the price of Vôlkhêmâra's salt fish is felt as far inland as the capital's markets, and the town's net-masters and curing-houses wield quiet weight in the provincial fish trade. A net-master explains the weather to a newcomer in terms of money: "A good month at sea is a cheap month in Ôrzâra. A bad one, and the capital pays us for the sea's temper."
+In a hard winter the price of Volkemara's salt fish is felt as far inland as the capital's markets, and the town's net-masters and curing-houses wield quiet weight in the provincial fish trade. A net-master explains the weather to a newcomer in terms of money: "A good month at sea is a cheap month in Orzara. A bad one, and the capital pays us for the sea's temper."
 
 ## See Also
 
-- [[affiliation-provincvld|Province of Sâlkhâlon]]—parent province
-- [[place-salkhalon|Sâlkhâlon]]—the coast it fishes
+- [[affiliation-provincvld|Province of Salkalon]]—parent province
+- [[place-salkhalon|Salkalon]]—the coast it fishes
 - [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview

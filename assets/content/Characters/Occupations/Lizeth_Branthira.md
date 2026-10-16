@@ -398,7 +398,7 @@ Lizéth Bránthira is a 41-year-old man who stands 6'4" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Lizéth Bránthira came into the world of the laborer (semi-skilled) through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Lizéth Bránthira came into the world of the laborer (semi-skilled) through a combination of circumstance and aptitude.
 
 Lizéth has spent his life working in construction and manual labor. Known for his strength and stamina, he has taken on various roles, from bricklaying to heavy lifting. Lizéth takes pride in his work and often leads teams of laborers. While he has a tough exterior, he is known for his sense of humor and willingness to lend a hand to those in need.
 
@@ -420,7 +420,7 @@ Physically strong, experienced in various labor roles, good leadership skills.
 
 Lizéth is affiliated with Local Laborers' Union.
 
-As a Tarvénan laborer (semi-skilled), Lizéth occupies a recognized social niche within Tarvénia society.
+As a Tarvenan laborer (semi-skilled), Lizéth occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 

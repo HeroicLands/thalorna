@@ -3,7 +3,7 @@ shortcode: veitharikuet
 name: {full: Veithari Kuethori, aliases: [Merchant Prince Veithari]}
 type: being
 subType: npc
-description: A wealthy foreign trader who visits Aû'Khelâthu regularly for business, named in Thamiyra Gezâ'Uzu.
+description: A wealthy foreign trader who visits Au'Khelathu regularly for business, named in Thamiyra Geza'Uzu.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Veithari Kuethori is a 51-year-old man who stands 5'10" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Veithari Kuethori is a wealthy foreign trader and merchant prince who visits Aû'Khelâthu regularly for business. He pays handsomely for the companionship of [[being-thamiyragezz|Thamiyra Gezâ'Uzu]] and, more importantly, for her intelligence about imperial politics and trade agreements, and he believes she holds the key to expanding his influence.
+Veithari Kuethori is a wealthy foreign trader and merchant prince who visits Au'Khelathu regularly for business. He pays handsomely for the companionship of [[being-thamiyragezz|Thamiyra Geza'Uzu]] and, more importantly, for her intelligence about imperial politics and trade agreements, and he believes she holds the key to expanding his influence.

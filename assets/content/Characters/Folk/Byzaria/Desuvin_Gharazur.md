@@ -1,9 +1,9 @@
 ---
 shortcode: desuvinghara
-name: {full: Desuvîn Gharazûr, aliases: [Lord Desuvîn Gharazûr]}
+name: {full: Desuvin Gharazur, aliases: [Lord Desuvin Gharazur]}
 type: being
 subType: npc
-description: The regional noble who hired the Iron Wolves to massacre the village and still rules the region, named in Ghymâráhr Rorês.
+description: The regional noble who hired the Iron Wolves to massacre the village and still rules the region, named in Ghimaráhr Rores.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Desuvîn Gharazûr is a 58-year-old man who stands 5'9" tall with a medium build. He has olive skin, sun-kissed complexion, black hair, and green eyes.
+Desuvin Gharazur is a 58-year-old man who stands 5'9" tall with a medium build. He has olive skin, sun-kissed complexion, black hair, and green eyes.
 
 # Dossier {#dossier}
 
-Desuvîn Gharazûr is the regional noble who hired the Iron Wolves to massacre a village and still rules the region. [[being-ghymrhrptrks|Ghymâráhr Rorês]] fears that he might move against him or the village he has come to protect.
+Desuvin Gharazur is the regional noble who hired the Iron Wolves to massacre a village and still rules the region. [[being-ghymrhrptrks|Ghimaráhr Rores]] fears that he might move against him or the village he has come to protect.

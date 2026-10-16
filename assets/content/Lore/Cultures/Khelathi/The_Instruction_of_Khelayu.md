@@ -25,15 +25,15 @@ data:
 # terran_analog: "The Instructions of Ptahhotep and of Any, for a father's maxims to a son entering office; the Satire of the Trades and the school copies on potsherds, for the pupil's errors, the teacher's corrections and the colophon that complains. Departs: the father is a Keeper of the King-Lists, and the maxims teach how to read the list's formulas and the two accounts."
 ---
 
-The schools of [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'âr]] set this _rethet_ before a pupil in his first year, after the sign-lists and before anything the temple would miss if he spoiled it. He copies it on potsherds until his hand is steady and then once on a roll, which the teacher corrects in the margin and keeps.
+The schools of [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]] set this _rethet_ before a pupil in his first year, after the sign-lists and before anything the temple would miss if he spoiled it. He copies it on potsherds until his hand is steady and then once on a roll, which the teacher corrects in the margin and keeps.
 
-It is the instruction of **Khelayu**, Keeper of the King-Lists in the precinct of [[lore-rethsaardty|Reth'Sa'âr]] beside the Great Temple on [[place-yathtelgu|Yath-Telgu]]. He kept the list under Gez'el'Retha III, the Gar-Aû whose crowning opens the age the Keepers call [[lore-akhrestcrown|the Restored Crown]] ([[lore-hillhouse|the Closing of the Hill House]]), and he wrote it in that reign's thirtieth year. It has a prologue giving the father's titles, maxims for his son **Zînuri** on the day of the son's ordination as a copyist, and a passage near the end that the schools copy and do not explain.
+It is the instruction of **Khelayu**, Keeper of the King-Lists in the precinct of [[lore-rethsaardty|Reth'Sa'ar]] beside the Great Temple on [[place-yathtelgu|Yath-Telgu]]. He kept the list under Gez'el'Retha III, the Gar-Au whose crowning opens the age the Keepers call [[lore-akhrestcrown|the Restored Crown]] ([[lore-hillhouse|the Closing of the Hill House]]), and he wrote it in that reign's thirtieth year. It has a prologue giving the father's titles, maxims for his son **Zinuri** on the day of the son's ordination as a copyist, and a passage near the end that the schools copy and do not explain.
 
 The copy given here is a school roll of the age of [[lore-akhhsmeqes|the House of Meqes]], in the hand of a boy of [[place-tjegu|Tjegu]] named **Gari**, with the teacher's corrections where he made them and the colophon the boy wrote when he was done. The rendering keeps the pupil's errors where the teacher marked them.
 
 ## The Prologue
 
-Keeper of the King-Lists Khelayu, Lem'Nelgir of Reth'Sa'âr, who copied the list for twenty-six years and has kept it for seven, who holds the master copy in the god's precinct on Yath-Telgu and answers for the second copy at [[place-khelunu|Khelunu]], who entered [[lore-hillhouse|the closing of the hill house]] in the year the house closed, says this to his son Zînuri, Lem'Nelgir of Reth'Sa'âr, ordained copyist, on the day of his ordination, in Year 30 of Gar-Aû Gez'el'Retha III, in the first month of Shelu, with the roads open.
+Keeper of the King-Lists Khelayu, Lem'Nelgir of Reth'Sa'ar, who copied the list for twenty-six years and has kept it for seven, who holds the master copy in the god's precinct on Yath-Telgu and answers for the second copy at [[place-khelunu|Khelunu]], who entered [[lore-hillhouse|the closing of the hill house]] in the year the house closed, says this to his son Zinuri, Lem'Nelgir of Reth'Sa'ar, ordained copyist, on the day of his ordination, in Year 30 of Gar-Au Gez'el'Retha III, in the first month of Shelu, with the roads open.
 
 Sit, and do not copy anything yet. I said that to you this morning in front of the others, because it is what the Keeper says, and I say it again here, with the door shut. You will copy this list for forty years. First learn to read it. It does not say what it means, and the house has never once corrected it.
 
@@ -55,8 +55,8 @@ Foreigners come to Khelunu and count them on their fingers.
 Let them count. The fingers are theirs.
 _\[In the margin, the teacher's hand: Gari has written "the house corrects the god." Scrape it out. The house does not correct the god. Ten times, on the sherd.\]_
 
-The foreign scholars read the list at Khelunu and ask what the first Gar-Aû was called.
-Tell them: the first Gar-Aû, by his title.
+The foreign scholars read the list at Khelunu and ask what the first Gar-Au was called.
+Tell them: the first Gar-Au, by his title.
 They ask again. Tell them again, in the same words.
 The third time, give them beer. They have come a long way, and the answer is not going to change.
 
@@ -87,7 +87,7 @@ The roll is for what is so.
 The tablets lie in the order the tablets keep.
 The first are on the left, at the back, where the lamp does not reach, because nobody needs to read them.
 The reigning house is on the right, by the door,
-where the messenger of the Thâz'Lekhau can be handed it without walking past the rest.
+where the messenger of the Thaz'Lekhau can be handed it without walking past the rest.
 Put every tablet back where it lay, with the edge to the wall.
 Put every tablet back where it lay, with the edge to the wall.
 _\[In the margin, the teacher's hand: Twice. Gari went to eat.\]_
@@ -131,9 +131,9 @@ _\[In the margin, the teacher's hand: Gari has left out "Read the line above it.
 I have seen these things in copies, and corrected them:
 a reign of nine years written as ninety, because a boy breathed in the wrong place;
 a house closed twice, because the copyist went to eat and came back and did not read;
-a throne name with the seam left out, so that a Gar-Aû became a goatherd;
+a throne name with the seam left out, so that a Gar-Au became a goatherd;
 the cubit of a flood written in the column of a reign;
-a Gar-Aû crowned in the year his father died, which is so,
+a Gar-Au crowned in the year his father died, which is so,
 corrected by a careful boy to the year after, which is not;
 a line of the First Tablets with a comment under it, in a small hand, beginning "but";
 and my own hand, at twenty, rounding.
@@ -144,12 +144,12 @@ Copy from the exemplar, never from your own copy.
 A copy of a copy is a boy's memory of a boy's memory.
 
 If the priesthood ever strikes a name, the Keeper scrapes it from the copy,
-with the Thâz'Lekhau of [[lore-uqaadty|Uqa'â]] standing at his shoulder, and nobody else.
+with the Thaz'Lekhau of [[lore-uqaadty|Uqa'a]] standing at his shoulder, and nobody else.
 If the scraper is ever put in your hand, hold it for the time it takes to say the denials.
 Then use it. The priesthood has judged. You are the hand, and the hand does not judge twice.
 
 A throne name is the first thing a reign says, and it is said to you.
-Gez'el'Retha, the third. The second wore it in Azlet'Qûtu,
+Gez'el'Retha, the third. The second wore it in Azlet'Kutu,
 and between the second and the third lie nearly seven hundred years of tablets.
 The name said: the crown is the old crown.
 It did not say what the sixty years before it were.
@@ -161,7 +161,7 @@ Write it, and let it say what it says.
 I entered the closing of the hill house. I was in my fourth year at the desk.
 The Keeper put the tablet in front of me and said, "The house is closed. Enter it."
 I entered it: four reigns, fifty-nine years, and the formula.
-The first of them was crowned Quz'Uqa. The fourth was crowned Legir'Uzner, the first,
+The first of them was crowned Kuz'Uqa. The fourth was crowned Legir'Uzner, the first,
 fair of the healer, a name no hill-man would have chosen. It was chosen for him.
 Enter the name. The name was worn, and a worn name is so.
 Nobody struck the house. I was not told why, and I did not ask,
@@ -172,7 +172,7 @@ closed. Write it shut. Do not write it wondering.
 Write it, and let it say what it says.
 
 When you write the god's name, stop where the god stops.
-Reth'Sa'âr: the reed lifts twice. The pause is his, and you do not own it.
+Reth'Sa'ar: the reed lifts twice. The pause is his, and you do not own it.
 A boy who hurries through it has written somebody's clerk.
 Say it as you write it, every time, for fourteen years. The mouth teaches the hand.
 _\[In the margin, the teacher's hand: Fourteen. The Keeper wrote forty. So does Gari, ten times, on the sherd.\]_
@@ -193,7 +193,7 @@ Pay the club. Pay it before the beer.
 A copyist of the god's precinct goes to the West wrapped, and the precinct sees to it.
 Pay the club anyway. Your mother did not copy for the god.
 
-Drink at the god's feast. Pleasure is gratitude; the priests of Thubâ'i say so.
+Drink at the god's feast. Pleasure is gratitude; the priests of Thuba'i say so.
 Do not drink on a copying day.
 
 Buy your zaglu early, and buy them plain.
@@ -228,7 +228,7 @@ and the one who enters them does not hurry through a name.
 
 In Azlet, when the labor goes to the works and the water stands at the wall,
 the precinct is quiet, and the lamps are lit at the fourth hour.
-Copy by lamp. Uqa'â is under the ground tonight, on the road, fighting.
+Copy by lamp. Uqa'a is under the ground tonight, on the road, fighting.
 You are not fighting. You are copying. Copy.
 Stop at the hour when your hand begins to round the signs.
 A rounded sign is a tired boy's sign, and the next copyist copies the tired boy.
@@ -248,7 +248,7 @@ Close what you owe; leave open what is owed to you.
 Go down owed. It is the shape of a life, and they taught you the shape at seven.
 
 At a Halzi'a's table sit where the steward puts you, and do not look at the seat above.
-If he tells you his grandfather was a Gar-Aû, say that the list says so.
+If he tells you his grandfather was a Gar-Au, say that the list says so.
 The list says so. Do not say what else the list says. He has not read it. You have.
 At Lenen-Nezut the forecourt is long and the town is small.
 Walk the forecourt as a guest walks it. Do not count the paces aloud.
@@ -268,7 +268,7 @@ A document dated "Year 9 of" a name with no numeral is dated to nobody.
 Write the numeral. The numeral is the whole of a name's use.
 
 Keep the Twelve at the festivals, the selat's god at his temple, the house's dead at the shrine,
-and Reth'Sa'âr at the desk. The desk is the temple you are in most.
+and Reth'Sa'ar at the desk. The desk is the temple you are in most.
 
 Now the thing I said I would put here.
 Thirty years ago, in the year before I entered the closing, I stood at a Reading.
@@ -287,25 +287,25 @@ I have put it here so that it is somewhere. The list has enough in it that nobod
 Enough. Cut your reed.
 When the Keeper after me puts a tablet in front of you and says "Enter it," enter it.
 When he says "The house is closed," write it shut.
-When the Thâz'Lekhau of Uqa'â sends across the court for the list,
+When the Thaz'Lekhau of Uqa'a sends across the court for the list,
 send the copy and go with it, and stand while he reads,
 and say nothing of what the list does not say.
 Write it, and let it say what it says.
 When a Halzi'a's steward offers you a goat for a line, […]
 
 _\[Below the break, the pupil's hand:\]_
-Finished, in good order, by Gari ez [[place-tjegu|Tjegu]], pupil, in Year 10 of Gar-Aû [[being-garaumeqesxv|Meqes XVI]],
+Finished, in good order, by Gari ez [[place-tjegu|Tjegu]], pupil, in Year 10 of Gar-Au [[being-garaumeqesxv|Meqes XVI]],
 the third month of Azlet, whose hand is tired, who would rather herd goats.
 _\[Beneath it, the teacher's hand: Not in good order. Copy it again after the flood.\]_
 ```
 
 ## See Also
 
-- [[lore-garauu|Gar-Aûu]]—the king-list and the formulas the Keeper teaches his son to read
-- [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'âr]]—the schools that copy the instruction
-- [[lore-rethsaardty|Reth'Sa'âr]]—the god whose precinct keeps the list
-- [[lore-khelathiclt|Khelâthi]]—the two ledgers, the near name, the Closing and the Reading
+- [[lore-garauu|Gar-Auu]]—the king-list and the formulas the Keeper teaches his son to read
+- [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]]—the schools that copy the instruction
+- [[lore-rethsaardty|Reth'Sa'ar]]—the god whose precinct keeps the list
+- [[lore-khelathiclt|Khelathi]]—the two ledgers, the near name, the Closing and the Reading
 - [[lore-readingweigh|The Reading at the Weighing]]—the litany and the Asking, which the father once answered with a no
 - [[place-lenennezut|Lenen-Nezut]]—the town whose forecourt is long
 - [[place-zelhalzi|Zel-Halzi]]—the field below Lenen-Nezut that has no line in the roll
-- [[lore-stelaquzuqa|The Stela of Quz'Uqa at Zel-Halzi]]—the stone the hill house set on that field
+- [[lore-stelaquzuqa|The Stela of Kuz'Uqa at Zel-Halzi]]—the stone the hill house set on that field

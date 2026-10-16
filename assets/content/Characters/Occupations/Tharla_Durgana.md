@@ -1,6 +1,6 @@
 ---
 shortcode: thrdrgn
-name: {full: Thárla Durgána, aliases: []}
+name: {full: Tharla Durgana, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Thárla Durgána is a 27-year-old woman who stands 5'8" tall and is slender. She has an angular face with angular cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. She has olive, battle-scarred skin. Her gray hair is braided and coiled at the nape.
+Tharla Durgana is a 27-year-old woman who stands 5'8" tall and is slender. She has an angular face with angular cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a hawkish nose and thin lips. She has olive, battle-scarred skin. Her gray hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Thárla Durgána is a domestic servant.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Tharla Durgana is a domestic servant.
 
-Thárla was captured during a raid on her village and sold into slavery in the city, where she works as a housemaid for a wealthy family. Although her tasks are not as grueling as a field laborer's, being treated as property wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
+Tharla was captured during a raid on her village and sold into slavery in the city, where she works as a housemaid for a wealthy family. Although her tasks are not as grueling as a field laborer's, being treated as property wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ She tends to be anxious and fearful of punishment, and thinks little of herself.
 
 ### Motivation
 
-Thárla wants her freedom, and until she has it, to avoid punishment.
+Tharla wants her freedom, and until she has it, to avoid punishment.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ She is quick-witted, resourceful, and skilled in the work of a household.
 
 ## Social
 
-Thárla belongs to no group; she has no freedom to join one.
+Tharla belongs to no group; she has no freedom to join one.
 
 ## Companions
 
 ### Patrons
 
-Thárla has no patron; her masters regard her only as a servant.
+Tharla has no patron; her masters regard her only as a servant.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Other servants resent her for trying to gain favor with the masters.
 
 ## Plot Hooks
 
-1. **The Domestic Servant's Dilemma**—Thárla learns of a way out of the household, and taking it means leaving behind the servants who would be punished for her flight.
+1. **The Domestic Servant's Dilemma**—Tharla learns of a way out of the household, and taking it means leaving behind the servants who would be punished for her flight.
 
-2. **Old Grudges**—A servant who resents Thárla's favor with the masters plants a theft on her.
+2. **Old Grudges**—A servant who resents Tharla's favor with the masters plants a theft on her.
 
-3. **Echoes of the Past**—Someone from the village Thárla was taken from is brought into the household as a slave.
+3. **Echoes of the Past**—Someone from the village Tharla was taken from is brought into the household as a slave.
 
-4. **Shifting Winds**—Political change in Tarvénia threatens the household Thárla serves, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Tarvénia threatens the household Tharla serves, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—Thárla is offered her freedom by a stranger to the household, and its price is not named up front.
+5. **The Opportunity**—Tharla is offered her freedom by a stranger to the household, and its price is not named up front.

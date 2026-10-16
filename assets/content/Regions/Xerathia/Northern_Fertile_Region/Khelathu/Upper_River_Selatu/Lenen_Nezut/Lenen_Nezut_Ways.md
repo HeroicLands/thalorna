@@ -18,11 +18,11 @@ data:
 
 ## The Ways
 
-A single short road climbs from the cultivated edge to a shelf of pale rock above [[place-lenennezut|Lenen-Nezut]]. It crosses the shelf once, and the three royal tombs of the house of **Geze'el'Anlaghu** stand along it, each cut into the rock of the scarp and fronted with a chapel of mud-brick. The road is laid out in imitation of a dynasty's Way at [[place-zugezer|Zu-Gezer]]: a crossing-road off a spine, with the tombs of the Gar-Aûu ranked along it. There is no spine and no necropolis for it to cross; the Way is the whole of the place.
+A single short road climbs from the cultivated edge to a shelf of pale rock above [[place-lenennezut|Lenen-Nezut]]. It crosses the shelf once, and the three royal tombs of the house of **Geze'el'Anlaghu** stand along it, each cut into the rock of the scarp and fronted with a chapel of mud-brick. The road is laid out in imitation of a dynasty's Way at [[place-zugezer|Zu-Gezer]]: a crossing-road off a spine, with the tombs of the Gar-Auu ranked along it. There is no spine and no necropolis for it to cross; the Way is the whole of the place.
 
 ## How It Was Made
 
-The three tombs are those of the Gar-Aûu who reigned from Lenen-Nezut for sixty-nine years and were buried at home, outside the row at the capital ([[lore-thronelnz|the Throne at Lenen-Nezut]]). The first was cut for Zab'el'Psaqa I, crowned in 1462 ST (649 BF), and the last holds Zab'el'Psaqa III, killed in the wheat at Iqeru in 1531 ST (580 BF) ([[lore-twothrones|the War of the Two Thrones]]). The road was meant to be the first of a long row, and it is the whole of it, because the house that built it lost its throne before it could lay a fourth tomb.
+The three tombs are those of the Gar-Auu who reigned from Lenen-Nezut for sixty-nine years and were buried at home, outside the row at the capital ([[lore-thronelnz|the Throne at Lenen-Nezut]]). The first was cut for Zab'el'Psaqa I, crowned in 1462 ST (649 BF), and the last holds Zab'el'Psaqa III, killed in the wheat at Iqeru in 1531 ST (580 BF) ([[lore-twothrones|the War of the Two Thrones]]). The road was meant to be the first of a long row, and it is the whole of it, because the house that built it lost its throne before it could lay a fourth tomb.
 
 ## What Is There Now
 
@@ -32,8 +32,8 @@ The crown keeps no endowment here. The mortuary priests of the capital's necropo
 
 - **The house itself,** on its ancestors' feasts, with the Halzi'a at its head and a procession of the household behind him.
 - **Agents from the capital,** who come to see whether the house is restoring its tombs, because a house that restores its tombs may be preparing a claim.
-- **Robbers,** who find the Ways less guarded than any royal tomb in the empire and less rich than they hope, since the three Gar-Aûu were buried with what a selat could afford.
-- **Scholars,** from the bureaus and from abroad, who ask to see where a Gar-Aû was laid outside the necropolis.
+- **Robbers,** who find the Ways less guarded than any royal tomb in the empire and less rich than they hope, since the three Gar-Auu were buried with what a selat could afford.
+- **Scholars,** from the bureaus and from abroad, who ask to see where a Gar-Au was laid outside the necropolis.
 
 ## Hooks
 

@@ -1,9 +1,9 @@
 ---
 shortcode: heltankardet
-name: {full: Héltan Kárdeth, aliases: [Lord Héltan Kárdeth, Lord Héltan]}
+name: {full: Heltan Kardeth, aliases: [Lord Heltan Kardeth, Lord Heltan]}
 type: being
 subType: npc
-description: A young nobleman, cousin of Kénrel Kárdeth, who has returned from service abroad and begun asking pointed questions, named in Lýenna Kárdeth.
+description: A young nobleman, cousin of Kenrel Kardeth, who has returned from service abroad and begun asking pointed questions, named in Lyenna Kardeth.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Héltan Kárdeth is a 27-year-old man who stands 5'11" tall with a light build. He has medium skin, clear complexion, black hair, and blue eyes.
+Heltan Kardeth is a 27-year-old man who stands 5'11" tall with a light build. He has medium skin, clear complexion, black hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Héltan Kárdeth is a young nobleman and the cousin of Kénrel Kárdeth, newly returned from service abroad. He asks pointed questions about the circumstances of his cousin's death, with a soldier's eye for details that do not add up. His inquiries are social rather than formal, in conversation at gatherings and in letters to relatives, and they trouble [[being-glyencrdth|Lýenna Kárdeth]].
+Heltan Kardeth is a young nobleman and the cousin of Kenrel Kardeth, newly returned from service abroad. He asks pointed questions about the circumstances of his cousin's death, with a soldier's eye for details that do not add up. His inquiries are social rather than formal, in conversation at gatherings and in letters to relatives, and they trouble [[being-glyencrdth|Lyenna Kardeth]].

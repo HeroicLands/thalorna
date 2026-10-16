@@ -21,5 +21,5 @@ data:
 ## See Also
 
 - [[place-skathwald|Skathwald]]—the reach around the village
-- [[place-mahnryth|Mahnrýth]]—the refugee clearing that became a village
+- [[place-mahnryth|Mahnreth]]—the refugee clearing that became a village
 - [[lore-grimakburning|The Burning at Grimak]]—the war behind the custom

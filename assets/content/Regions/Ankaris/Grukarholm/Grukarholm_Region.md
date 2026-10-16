@@ -3,7 +3,7 @@ shortcode: grkrhlmrgn
 name: {full: Grukarholm Region, aliases: []}
 type: place
 subType: region
-description: A landlocked concentration of Grukar nests amid dense mixed forest, vast marshlands and slow rivers, between the Vrystwald and Velanthian reaches.
+description: A landlocked concentration of Grukar nests amid dense mixed forest, vast marshlands and slow rivers, between the Vristwald and Velanthian reaches.
 tags: [region]
 data:
   demonym: Grukari
@@ -15,11 +15,11 @@ data:
 # terran_analog: "Belarus—a forest-and-marsh enclave at the eastern margin of the Nordlands, distinct in people and polity from its Norse/Germanic neighbors."
 ---
 
-Grukarhölm names a landlocked concentration of [[lore-grukarfolk|Grukar]] nests amid dense mixed and coniferous forest, roadless marshland, slow brown rivers, and shallow lakes. [[place-vrystwald|Vrystwald]] and [[place-velanthrgn|Velanthia]] curve around it, while no coast or drawn border fixes its extent. Its forests and swamps impede organized armies for most of the year. The place is a shifting mosaic of Grukar tribal ground, not a confederation or a kingdom.
+Grukarholm names a landlocked concentration of [[lore-grukarfolk|Grukar]] nests amid dense mixed and coniferous forest, roadless marshland, slow brown rivers, and shallow lakes. [[place-vrystwald|Vristwald]] and [[place-velanthrgn|Velanthia]] curve around it, while no coast or drawn border fixes its extent. Its forests and swamps impede organized armies for most of the year. The place is a shifting mosaic of Grukar tribal ground, not a confederation or a kingdom.
 
 ## Geography
 
-Grukarhölm is an area of prevalence rather than a bounded territory. Vrystwald's forest reaches around one side; Velanthia lies north of it and in a pocket to the southeast. The terrain where Grukar are thickest has three interlocking landscapes:
+Grukarholm is an area of prevalence rather than a bounded territory. Vristwald's forest reaches around one side; Velanthia lies north of it and in a pocket to the southeast. The terrain where Grukar are thickest has three interlocking landscapes:
 
 The **deep forest belt** covers most of the region—dense mixed and coniferous woodland (spruce, pine, oak, birch) interspersed with clearings and old fields long since reclaimed by trees. The forest is the principal Grukar habitat: the longhouses, the war-camps, the spawn-chambers of the [[being-grkrahk|Grukar-ahk]], and the hunting-grounds all sit within forest cover. Roads through the forest belt are few, narrow, and easily blocked.
 
@@ -27,7 +27,7 @@ The **marshlands** of the central and southern lowlands are the region's most di
 
 The **river systems**—the slow brown rivers that wind across the country toward Velanthian reaches—provide what long-distance transport the region has. Grukar war-canoes move warriors and goods along these rivers in summer; in winter the frozen rivers become the highways of overland movement. The rivers also carry raiding parties toward the Velanthian reaches. A landing can be watched or attacked, but it is no meeting place for an agreed exchange.
 
-The climate is continental: cold snowy winters, warm humid summers, distinct spring thaw and autumn freeze. It is not the killing extreme of the far-northern taiga—Grukarhölm's winters are survivable, by Grukar standards even comfortable—but the marshlands' summer mosquitoes are legendary, and the spring thaw turns the country into an impassable mire for weeks every year.
+The climate is continental: cold snowy winters, warm humid summers, distinct spring thaw and autumn freeze. It is not the killing extreme of the far-northern taiga—Grukarholm's winters are survivable, by Grukar standards even comfortable—but the marshlands' summer mosquitoes are legendary, and the spring thaw turns the country into an impassable mire for weeks every year.
 
 ## There Is No Kingdom
 
@@ -37,7 +37,7 @@ to a country from outside, by people describing where the [[lore-grukarfolk|Gruk
 The land came by the name honestly enough. Nobody else wanted it—cold, wet, forested, marshy,
 agriculturally worthless—so nobody else took it, and over a long time it filled up with Grukar. Naming
 it after them is simple accuracy on a chart. It is not a statement about how they are organized, and
-Nordmen and Vrystwaldic usage that speaks of "the Grukar king" is a convenience of grammar with nothing
+Nordmen and Vristwaldic usage that speaks of "the Grukar king" is a convenience of grammar with nothing
 behind it.
 
 **Ahks do not cooperate.** Every tribe is its own thing, centered on its own spawner, and there is no
@@ -81,9 +81,9 @@ The result is a costly frontier without the returns other frontiers offer. No ca
 
 ## Relations with Neighboring Regions
 
-The [[place-nrdlndsrgn|Nordlands]] lie farther west and north, beyond the western Vrystwald reaches. Nordmal accounts remember Grukar raids and punitive expeditions, but no Nordmal kingdom draws a line around the Grukar nests. The worst raid in their memory was one tribe and not a league: from 604 to 614 a tribe whose Sha had watched Targud's frontier for seasons spawned for war, burned the kingdom's east and then spent itself in its own quarrels ([[lore-burningeast|The Burning of the East]]).
+The [[place-nrdlndsrgn|Nordlands]] lie farther west and north, beyond the western Vristwald reaches. Nordmal accounts remember Grukar raids and punitive expeditions, but no Nordmal kingdom draws a line around the Grukar nests. The worst raid in their memory was one tribe and not a league: from 604 to 614 a tribe whose Sha had watched Targud's frontier for seasons spawned for war, burned the kingdom's east and then spent itself in its own quarrels ([[lore-burningeast|The Burning of the East]]).
 
-[[place-vrystwald|Vrystwald]] curls around this area on its way east. The stretch called [[place-skathwald|Skathwald]] is where Grukar nests become more prevalent within Varokh forest, with no border to cross. Grukar-Varokh relations are uniformly hostile. Villages there endure repeated small incursions rather than a war with a single front, and a person taken cannot be recovered through ransom.
+[[place-vrystwald|Vristwald]] curls around this area on its way east. The stretch called [[place-skathwald|Skathwald]] is where Grukar nests become more prevalent within Varokh forest, with no border to cross. Grukar-Varokh relations are uniformly hostile. Villages there endure repeated small incursions rather than a war with a single front, and a person taken cannot be recovered through ransom.
 
 [[place-velanthrgn|Velanthia]] lies north of the thickest Grukar country and in the pocket to its southeast. Velanthian villages watch the same raiding paths as the Varokh. A Sha may understand a warning, but no Velanthian prince can make an agreement that binds a nest or the other tribes behind it.
 
@@ -93,6 +93,6 @@ The [[place-nrdlndsrgn|Nordlands]] lie farther west and north, beyond the wester
 - [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], [[being-grkrhshk|Grukar-Hushk]]—the three subspecies
 - [[skill-grukarlng|Grukar Language]]—the Grukar tongue
 - [[place-nrdlndsrgn|Nordlands Region]]—farther west and north
-- [[place-vrystwald|Vrystwald]]—Varokh forest curving around the area
+- [[place-vrystwald|Vristwald]]—Varokh forest curving around the area
 - [[place-velanthrgn|Velanthia Region]]—the northern and southeastern reaches around it
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent

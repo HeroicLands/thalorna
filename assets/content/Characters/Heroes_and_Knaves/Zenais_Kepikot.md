@@ -1,6 +1,6 @@
 ---
 shortcode: zenskpkt
-name: {full: Ghofa Kepíkot, given: Ghofa, clan: Kepíkot, aliases: []}
+name: {full: Ghofa Kepikot, given: Ghofa, clan: Kepikot, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -416,7 +416,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[zenskpkt|Ghofa Kepíkot]]{float=top-left}
+![[zenskpkt|Ghofa Kepikot]]{float=top-left}
 
 Ghofa stands 5'7" tall with a light build. She has fair freckled skin, auburn hair, and green eyes. Her features include a narrow face, a hawkish nose, a sharp jawline, full lips, expressive brows, and sculpted cheeks. She has a tattoo of a bird on her forearm.
 
@@ -426,13 +426,13 @@ Ghofa stands 5'7" tall with a light build. She has fair freckled skin, auburn ha
 
 ### The Merchant's Daughter and the Silent Language
 
-Ghofa was born in the busy ports of the [[affiliation-byzarianlg|Byzarian League]], daughter of a merchant family with vast trading interests spanning three continents. Her father, **Grolazul Kepíkot**, was a prosperous spice merchant whose ships regularly departed for distant lands; her mother, **Futonéze**, was known for her cultivation of exotic plants in the family's famous gardens. From her earliest childhood, Ghofa demonstrated an inexplicable affinity for animals, particularly birds—she could calm panicked falcons with a whisper, encourage reluctant songbirds to perform, and read the subtle languages of body and feather that others found inscrutable.
+Ghofa was born in the busy ports of the [[affiliation-byzarianlg|Bizarian League]], daughter of a merchant family with vast trading interests spanning three continents. Her father, **Grolazul Kepikot**, was a prosperous spice merchant whose ships regularly departed for distant lands; her mother, **Futoneze**, was known for her cultivation of exotic plants in the family's famous gardens. From her earliest childhood, Ghofa demonstrated an inexplicable affinity for animals, particularly birds—she could calm panicked falcons with a whisper, encourage reluctant songbirds to perform, and read the subtle languages of body and feather that others found inscrutable.
 
-Rather than follow her family into mercantilism, Ghofa apprenticed with **Master Badvárion**, the great animal trainer of the Byzarian League, whose methods were new for his time. Badvárion taught her that training animals was not domination but conversation—a learning of the creature's nature, desires, and fears, and a mutual agreement to work in harmony. This philosophy shaped everything about Ghofa's approach to her craft.
+Rather than follow her family into mercantilism, Ghofa apprenticed with **Master Badvárion**, the great animal trainer of the Bizarian League, whose methods were new for his time. Badvárion taught her that training animals was not domination but conversation—a learning of the creature's nature, desires, and fears, and a mutual agreement to work in harmony. This philosophy shaped everything about Ghofa's approach to her craft.
 
 ### The Rise of the Trainer
 
-By her early twenties, Ghofa had established herself as perhaps the finest animal trainer in the Byzarian League, particularly known for her work with birds. Nobles competed for her services, offering exorbitant sums to have her train exotic falcons and eagles for hunting expeditions. She worked with creatures from across the known world—birds brought by merchants from distant lands, animals recovered from the markets and restored to health and dignity. Her reputation grew such that major trading houses began seeking her counsel on the care and training of animals used in their operations.
+By her early twenties, Ghofa had established herself as perhaps the finest animal trainer in the Bizarian League, particularly known for her work with birds. Nobles competed for her services, offering exorbitant sums to have her train exotic falcons and eagles for hunting expeditions. She worked with creatures from across the known world—birds brought by merchants from distant lands, animals recovered from the markets and restored to health and dignity. Her reputation grew such that major trading houses began seeking her counsel on the care and training of animals used in their operations.
 
 Her family wealth meant she never needed to rely on commissions for survival, which freed her to be selective in her work—she refused contracts where animals would be mistreated and developed a quiet reputation for being incorruptible in her standards. This independence, rare for women in her society, earned her both admiration and resentment.
 
@@ -476,18 +476,18 @@ Ghofa is driven by a sense that her understanding of animals might represent som
 
 ### Patrons
 
-House Ambârzát
-: A prominent noble family of the Byzarian League who employ her regularly to train and maintain their falconry birds; **Lady Kiladéhran Ambârzát** has become something of a mentor figure
+House Ambarzát
+: A prominent noble family of the Bizarian League who employ her regularly to train and maintain their falconry birds; **Lady Kiladehran Ambarzát** has become something of a mentor figure
 
 Master Badvárion
 : Her former teacher, now elderly and semi-retired, who continues to advise her and vouches for her methods and integrity
 
-The Byzarian Merchants' Consortium
+The Bizarian Merchants' Consortium
 : A powerful trading organization that occasionally contracts her services for managing animals used in commercial expeditions
 
 ### Enemies
 
-Kezvûnikos the Cruel
+Kezvunikos the Cruel
 : A brutal animal trader who views Ghofa's ethical standards as threats to his profit margins; he has spread rumors that her methods are ineffective and that she is unreliable for serious work
 
 The Feathered Syndicate
@@ -501,7 +501,7 @@ Gohárikos the Beast Master
 Urban Animal Trainers' Guild
 : - Her guild, where she sits on the committee that sets standards of care for trained animals
 
-The Sanctuary of Ólvenía
+The Sanctuary of Ólvenia
 : - A spiritual fellowship devoted to the goddess of prosperity and natural harmony, which sponsors rehabilitation work with injured and mistreated animals
 
 ## Plot Hooks
@@ -514,4 +514,4 @@ The Sanctuary of Ólvenía
 
 4. **The Bridge Between Worlds** - Ghofa experiences a spiritual awakening in which she begins to hear not just birds but all animals—the voices of the natural world manifesting through creatures in her presence. An ancient order of druids or shamans discovers her gift and approaches her with an urgent plea: the balance between human civilization and the natural world is failing, and her unique abilities make her key to preventing the collapse of the wild. Devoting herself to this cause, with all its unknowns and dangers, is a choice she must make.
 
-5. **The Lost Feather** - A fabled bird—perhaps sacred to ancient traditions or truly magical—arrives in the Byzarian League, and multiple powerful factions seek to control it. Ghofa is contracted to train it, but soon discovers that the bird's presence attracts danger from nobility, merchants, religious orders, and worse. She can fulfill her contract, help the bird escape, or use it as leverage against those who would exploit it, all while discovering what the bird's arrival truly portends.
+5. **The Lost Feather** - A fabled bird—perhaps sacred to ancient traditions or truly magical—arrives in the Bizarian League, and multiple powerful factions seek to control it. Ghofa is contracted to train it, but soon discovers that the bird's presence attracts danger from nobility, merchants, religious orders, and worse. She can fulfill her contract, help the bird escape, or use it as leverage against those who would exploit it, all while discovering what the bird's arrival truly portends.

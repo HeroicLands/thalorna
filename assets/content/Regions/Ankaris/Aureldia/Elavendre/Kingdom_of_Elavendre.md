@@ -3,7 +3,7 @@ shortcode: kngdmlvndr
 name: {full: Kingdom of Élavendre, aliases: []}
 type: affiliation
 subType: polity
-description: "Woodland kingdom of forests, music, and ancient magic—center of Elavendri culture where Sinalë and humans coexist as equals in a land apart."
+description: "Woodland kingdom of forests, music, and ancient magic—center of Elavendri culture where Sinale and humans coexist as equals in a land apart."
 data:
   templatePriority: null
   demonym: Élavendren
@@ -118,7 +118,7 @@ data:
   packFolder: elavendre
 sohl: {system: {commonSkills: [elvndrlng]}}
 
-# terran_analog: "Northern France and Switzerland—the Pelwar kingdom proper, with Sinalë diplomatic relations."
+# terran_analog: "Northern France and Switzerland—the Pelwar kingdom proper, with Sinale diplomatic relations."
 ---
 
 ## Overview
@@ -135,9 +135,9 @@ This system produces governance that is slow, deliberate, and deeply attuned to 
 
 Élavendre's culture is saturated with the magical and the mythic. Encounters with fae beings are not legend in Élavendre; they are a routine hazard (and occasional blessing) of daily life.
 
-## The Thôrdimâlon in Élavendre
+## The Thordimalon in Élavendre
 
-The [[affiliation-ordoarcanis|Thôrdimâlon]] maintains a substantial and deeply entrenched presence in Élavendre—far more than many outsiders realize. The **University of Péravel**, the largest [[affiliation-panepistmm|Plûmepistémion]] campus outside of [[affiliation-vylarinmpr|Vylaria]] itself, dominates the intellectual life of the capital. Multiple Zûlêthâlon (fellowship) chapterhouses stand on the university grounds, and the Order's scholars, administrators, and agents have woven themselves into the fabric of urban Élavendri society over centuries. In Péravel and the kingdom's other major towns, the Order wields influence that equals or exceeds that of the Bardic Circle and Grove Council—its schools educate the children of the nobility, its scholars advise the courts, and its patron networks reach into every significant merchant house and noble family.
+The [[affiliation-ordoarcanis|Thordimalon]] maintains a substantial and deeply entrenched presence in Élavendre—far more than many outsiders realize. The **University of Péravel**, the largest [[affiliation-panepistmm|Epistémion]] campus outside of [[affiliation-vylarinmpr|Vylaria]] itself, dominates the intellectual life of the capital. Multiple Zulen (fellowship) chapterhouses stand on the university grounds, and the Order's scholars, administrators, and agents have woven themselves into the fabric of urban Élavendri society over centuries. In Péravel and the kingdom's other major towns, the Order wields influence that equals or exceeds that of the Bardic Circle and Grove Council—its schools educate the children of the nobility, its scholars advise the courts, and its patron networks reach into every significant merchant house and noble family.
 
 This was not achieved by conquest. The Vylarian legions that failed to subdue the deep forests nevertheless established the tributary relationship that opened a diplomatic channel, and the Order exploited it with characteristic patience. Where soldiers could not go, scholars could. The Epistémion (the Academy) offered education, administrative expertise, and the prestige of association with the most sophisticated intellectual institution in western [[place-ankrscntnnt|Ankaris Continent]]. Noble houses that traded with the Empire, that sought imperial favor, that wanted their children educated to the highest standard—these became the Order's natural allies. Over generations, the chapter houses grew from modest scholarly outposts into the institutional pillars they are today.
 
@@ -171,4 +171,4 @@ Kingdom of Élavendre uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / A
 
 - [[place-elavendre|Élavendre]]—Regional overview
 - [[place-aelwyth|Aelwyth]]—Cultural cousin across the water
-- [[affiliation-arldnpnthn|Aurèldían]]—Formal pantheon (layered with older traditions)
+- [[affiliation-arldnpnthn|Aureldian]]—Formal pantheon (layered with older traditions)

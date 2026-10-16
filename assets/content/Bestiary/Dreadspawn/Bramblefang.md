@@ -252,7 +252,7 @@ The path into the coppice narrows between two banks of bramble, and then it stop
 
 # Dossier {#dossier}
 
-The Bramblefang is a dreadspawn made of living wood and thorn: a low, heavy, badger-shaped hunter about a hundred pounds in weight, its whole body a mesh of thorned vine and black bark, which grows thickets round itself and hunts from inside them. It is cunning, patient and territorial, and it eats meat. The one the river villages of [[place-thornwald|Thornwald]] know lives in the eastern [[place-vrystwald|Vrystwald]] where the forest gives way to the grain country of [[place-velanthrgn|Velanthia]], and it has turned a stretch of the forest edge into a bramble maze that the villagers will not enter. It was made, as all dreadspawn are; it is alive, and it does not breed.
+The Bramblefang is a dreadspawn made of living wood and thorn: a low, heavy, badger-shaped hunter about a hundred pounds in weight, its whole body a mesh of thorned vine and black bark, which grows thickets round itself and hunts from inside them. It is cunning, patient and territorial, and it eats meat. The one the river villages of [[place-thornwald|Thornwald]] know lives in the eastern [[place-vrystwald|Vristwald]] where the forest gives way to the grain country of [[place-velanthrgn|Velanthia]], and it has turned a stretch of the forest edge into a bramble maze that the villagers will not enter. It was made, as all dreadspawn are; it is alive, and it does not breed.
 
 ## Presentation
 

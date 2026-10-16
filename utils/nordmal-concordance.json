@@ -30,166 +30,10 @@
         ],
         "homes": ["nrdlndsrgn", "vrystwald"]
     },
-    "romanisation": {
-        "note": "assets/content/Skills/Languages/Nordmal.md",
-        "section": "Romanizing Nordmal",
-        "assembly": "ting",
-        "foreign": [
-            {
-                "word": "Aurèldía",
-                "tongue": "Aurèldían"
-            },
-            {
-                "word": "Aurèldían",
-                "tongue": "Aurèldían"
-            },
-            {
-                "word": "Aurèldíans",
-                "tongue": "Aurèldían"
-            },
-            {
-                "word": "Provènzia",
-                "tongue": "Provenzal"
-            },
-            {
-                "word": "Provènzian",
-                "tongue": "Provenzal"
-            },
-            {
-                "word": "Yhârvalen",
-                "tongue": "Provenzal"
-            },
-            {
-                "word": "Tāntsou",
-                "tongue": "Tantsou"
-            },
-            {
-                "word": "Aû",
-                "tongue": "Khelâthi"
-            },
-            {
-                "word": "Khelâthu",
-                "tongue": "Khelâthi"
-            },
-            {
-                "word": "Sêmarion",
-                "tongue": "Sinalëan"
-            },
-            {
-                "word": "Tamzîr",
-                "tongue": "Tarûzeli"
-            },
-            {
-                "word": "Belgina",
-                "tongue": "Tarûzeli"
-            },
-            {
-                "word": "Rusâkûnî",
-                "tongue": "Tarûzeli"
-            },
-            {
-                "word": "Zabûzum",
-                "tongue": "Tarûzeli"
-            },
-            {
-                "word": "Jakûdûnî",
-                "tongue": "Tarûzeli"
-            },
-            {
-                "word": "Bû",
-                "tongue": "Tarûzeli"
-            },
-            {
-                "word": "Tarûzelian",
-                "tongue": "Tarûzeli"
-            },
-            {
-                "word": "Mahājaya",
-                "tongue": "Vedyari"
-            },
-            {
-                "word": "Rāsikara",
-                "tongue": "Vedyari"
-            },
-            {
-                "word": "ankhrâ",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Brâzêmâs",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "elthêzâs",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Lîzêlândi",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Mârendâs",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Ôrzâs",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Sîrêmôs",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Sâlkhênôs",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Mârendâtês",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Ilthêrâ",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Vârêlândis",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Hôlvêthôs",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Zênôthâs",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Sôrimâ",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Zûnêlâs",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Sâlkhâlon",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Thôlkezôra",
-                "tongue": "Vylari"
-            },
-            {
-                "word": "Bethûan",
-                "tongue": "Bethûan"
-            }
-        ]
-    },
     "keep": [
         {
             "literal": "Haulonna",
-            "why": "the Sinalë name for the valley (\"the hearth of the unfallen leaf\"), kept as an alias beside the Nordmen's own Thalmdal; an elvish name in an elvish context, never a Nordmal survivor",
-            "kinds": []
+            "why": "the Sinalë name for the valley (\"the hearth of the unfallen leaf\"), kept as an alias beside the Nordmen's own Thalmdal; an elvish name in an elvish context, never a Nordmal survivor"
         },
         {
             "literal": "Devotee",
@@ -198,35 +42,29 @@
                 "assets/content/Affiliations/Divine/Khelathi/Faith_of_Azuathis.md",
                 "assets/content/Lore/Ranks/Vow_Bound_Devotee.md",
                 "assets/content/Affiliations/Divine/Varnaka/Varnaka_Pantheon.md"
-            ],
-            "kinds": []
+            ]
         },
         {
             "literal": "Wild Hunt",
             "why": "this is the translated alias of a Varokhi hunting company, not the retired name of the Asguardian Jól-Ride",
-            "paths": ["assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md"],
-            "kinds": []
+            "paths": ["assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md"]
         },
         {
             "literal": "Ragnar",
             "why": "Edwin_Garmon is an Aelwythan being, and his patron Lord Ragnar is named under Aelwyth's own rule rather than Nordmal's; not Ragnar the Reforged",
-            "kinds": [],
             "paths": ["assets/content/Characters/Occupations/Edwin_Garmon.md"]
         },
         {
             "literal": "Thórir",
-            "why": "Thorir_Eldskari is a being of Aelwyth culture, outside Nordmal's rule entirely; not Thórir Járnskel, and #605 does not extend to him",
-            "kinds": []
+            "why": "Thorir_Eldskari is a being of Aelwyth culture, outside Nordmal's rule entirely; not Thórir Járnskel, and #605 does not extend to him"
         },
         {
             "literal": "Hármund",
-            "why": "Harmund_Garwald is a being of Varokhi heritage, governed by that language's own rule rather than Nordmal's; not Hármund Vetrdómr, and #605 does not extend to him",
-            "kinds": []
+            "why": "Harmund_Garwald is a being of Varokhi heritage, governed by that language's own rule rather than Nordmal's; not Hármund Vetrdómr, and #605 does not extend to him"
         },
         {
             "literal": "Torvald",
-            "why": "the language note's own illustrative prose about the ting-derived hard-t spelling convention, not a character; not Torvald Greenshield",
-            "kinds": []
+            "why": "the language note's own illustrative prose about the ting-derived hard-t spelling convention, not a character; not Torvald Greenshield"
         },
         {
             "literal": "Helspawn",
@@ -286,163 +124,131 @@
         },
         {
             "literal": "Lögstadar",
-            "why": "the genitive of the place name Lögstead, inflected on its generic under § _Place names_; it stands as its own word in _Lögstadar Mál_ and in Knilthvir Lögstadar",
-            "kinds": ["place"]
+            "why": "the genitive of the place name Lögstead, inflected on its generic under § _Place names_; it stands as its own word in _Lögstadar Mál_ and in Knilthvir Lögstadar"
         },
         {
             "literal": "Elder's Voice",
-            "why": "Aldarmál keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Aldarmál keeps the glossed phrase as its alias"
         },
         {
             "literal": "Order of the Radiant Hand",
-            "why": "Bjarthönd keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Bjarthönd keeps the glossed phrase as its alias"
         },
         {
             "literal": "Oathkeepers",
-            "why": "Eidverdir keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Eidverdir keeps the glossed phrase as its alias"
         },
         {
             "literal": "Oathsworn",
-            "why": "Eidringr keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Eidringr keeps the glossed phrase as its alias"
         },
         {
             "literal": "Order of the Sword",
-            "why": "Lögbrandr keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Lögbrandr keeps the glossed phrase as its alias"
         },
         {
             "literal": "Sword of Eidgar",
-            "why": "Eidkáppar keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Eidkáppar keeps the glossed phrase as its alias"
         },
         {
             "literal": "Healers of the Hearth",
-            "why": "Hallarvinir keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Hallarvinir keeps the glossed phrase as its alias"
         },
         {
             "literal": "Heralds of Peace",
-            "why": "Fródberi keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Fródberi keeps the glossed phrase as its alias"
         },
         {
             "literal": "Order of the Green Hand",
-            "why": "Grönhönd keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Grönhönd keeps the glossed phrase as its alias"
         },
         {
             "literal": "Harbingers of Despair",
-            "why": "Námaelendir keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Námaelendir keeps the glossed phrase as its alias"
         },
         {
             "literal": "Keepers of the Abyss",
-            "why": "Náverdir keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Náverdir keeps the glossed phrase as its alias"
         },
         {
             "literal": "Nightstalkers",
-            "why": "Nóttgengir keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Nóttgengir keeps the glossed phrase as its alias"
         },
         {
             "literal": "Order of the Void",
-            "why": "Nálok keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Nálok keeps the glossed phrase as its alias"
         },
         {
             "literal": "Order of the All-Seeing Eye",
-            "why": "Hugaett keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Hugaett keeps the glossed phrase as its alias"
         },
         {
             "literal": "Order of the Raven",
-            "why": "Hrafnrún keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Hrafnrún keeps the glossed phrase as its alias"
         },
         {
             "literal": "Gilded Voices",
-            "why": "Gullmál keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Gullmál keeps the glossed phrase as its alias"
         },
         {
             "literal": "Keepers of the Golden Veil",
-            "why": "Gullverdir keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Gullverdir keeps the glossed phrase as its alias"
         },
         {
             "literal": "Order of the Enchanted Rose",
-            "why": "Sólvinir keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Sólvinir keeps the glossed phrase as its alias"
         },
         {
             "literal": "Flameguard",
-            "why": "Eldverdir keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Eldverdir keeps the glossed phrase as its alias"
         },
         {
             "literal": "Infernal Blades",
-            "why": "Eldúlfr keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Eldúlfr keeps the glossed phrase as its alias"
         },
         {
             "literal": "Order of the Inferno",
-            "why": "Smideldr keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Smideldr keeps the glossed phrase as its alias"
         },
         {
             "literal": "Hammer of Thrúnvald",
-            "why": "Hamardrengir keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Hamardrengir keeps the glossed phrase as its alias"
         },
         {
             "literal": "Order of the Hammer",
-            "why": "Thrumuskjöldr keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Thrumuskjöldr keeps the glossed phrase as its alias"
         },
         {
             "literal": "Seaforged",
-            "why": "Hafskel keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Hafskel keeps the glossed phrase as its alias"
         },
         {
             "literal": "Knights of the Shifting Shadow",
-            "why": "Vélskari keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Vélskari keeps the glossed phrase as its alias"
         },
         {
             "literal": "Order of the Shifting Veil",
-            "why": "Skýgrímr keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Skýgrímr keeps the glossed phrase as its alias"
         },
         {
             "literal": "Serpentfangs",
-            "why": "Ormgeir keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Ormgeir keeps the glossed phrase as its alias"
         },
         {
             "literal": "Cast Out of the Order",
-            "why": "Dróttvargr keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Dróttvargr keeps the glossed phrase as its alias"
         },
         {
             "literal": "Expelled",
-            "why": "the name of the wider corpus's level-0 standing at Lore/Ranks/Expelled.md, an alias of Put from the Order, and the bare plain word in the prose of other cultures; none of them is the gloss Dróttvargr retires",
-            "kinds": []
+            "why": "the name of the wider corpus's level-0 standing at Lore/Ranks/Expelled.md, an alias of Put from the Order, and the bare plain word in the prose of other cultures; none of them is the gloss Dróttvargr retires"
         },
         {
             "literal": "Devotee of the Order",
-            "why": "Dróttmadr keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Dróttmadr keeps the glossed phrase as its alias"
         },
         {
             "literal": "Leader of the Order",
-            "why": "Dróttstjóri keeps the glossed phrase as its alias",
-            "kinds": []
+            "why": "Dróttstjóri keeps the glossed phrase as its alias"
         },
         {
             "literal": "Member of the Polity",
@@ -451,14 +257,12 @@
                 "assets/content/Regions/Ankaris/Nordlands/Malagna/Grimvar.md",
                 "assets/content/Regions/Ankaris/Nordlands/Malagna/Hrafnvar.md"
             ],
-            "kinds": [],
             "membershipLevel": 1
         },
         {
             "literal": "Devotee",
             "why": "The spirit cult's generic membership title in the reader's tongue, distinct from a devotional order of the Ten.",
             "paths": ["assets/content/Regions/Ankaris/Nordlands/Njorvens_Cult.md"],
-            "kinds": [],
             "membershipLevel": 1
         },
         {
@@ -466,30 +270,25 @@
             "why": "Sigrun_Hafringr is an Aelwythan guard named under Aelwyth's own rule rather than Nordmal's; not Skilfrinna Eldhrund of the Storm-Speakers",
             "paths": [
                 "assets/content/Characters/Occupations/Sigrun_Hafringr.md",
-                "assets/content/Lore/Aelwythi_Lexicon.md"
-            ],
-            "kinds": []
+                "assets/content/Skills/Languages/Aelwythi.md"
+            ]
         },
         {
             "literal": "Askholm",
-            "why": "admitted by the place rule as the islet of the ash-tree, so the name stands; the pairing with Brildholm is withdrawn",
-            "kinds": []
+            "why": "admitted by the place rule as the islet of the ash-tree, so the name stands; the pairing with Brildholm is withdrawn"
         },
         {
             "literal": "Ísdal",
-            "why": "admitted by the place rule as the dale of ice, so the name stands; the pairing with Hluskdal is withdrawn",
-            "kinds": []
+            "why": "admitted by the place rule as the dale of ice, so the name stands; the pairing with Hluskdal is withdrawn"
         },
         {
             "literal": "Halvar",
             "why": "Arzanalas_Baredas is a Vylarian being, and Lord Halvar is named under Vylaría's own rule rather than Nordmal's; not the tentmaker Snurvmýl",
-            "kinds": [],
             "paths": ["assets/content/Characters/Occupations/Arzanalas_Baredas.md"]
         },
         {
             "literal": "Aldrin",
             "why": "Kayvonad_Zarid and Caldar are Khazryn, and the alchemist Aldrin Kovoss is named under that culture's own rule rather than Nordmal's; not Nilthorv, the former monk of Ralthýra's monastery",
-            "kinds": [],
             "paths": [
                 "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
                 "assets/content/Regions/Ankaris/Khazryn_Desert/Caldar.md"
@@ -498,34 +297,28 @@
         {
             "literal": "Erik",
             "why": "Hawise_Ashby is an Aelwythan being, and her patron Lord Erik is named under Aelwyth's own rule rather than Nordmal's; not Snirvthann of the Stormrót succession",
-            "kinds": [],
             "paths": ["assets/content/Characters/Occupations/Hawise_Ashby.md"]
         },
         {
             "literal": "Kára",
             "why": "Okharic.md lists Kára among the Okháran given names, which are not Nordmal; not Snilthrinna, Vruldorv's mother",
-            "kinds": [],
             "paths": ["assets/content/Skills/Languages/Okharic.md"]
         },
         {
             "literal": "Elder",
-            "why": "the plain rank title in the reader's tongue that stands for the standing of Fródrád and appears wherever a culture's elders are named; not a gloss that Fródrád retires",
-            "kinds": []
+            "why": "the plain rank title in the reader's tongue that stands for the standing of Fródrád and appears wherever a culture's elders are named; not a gloss that Fródrád retires"
         },
         {
             "literal": "Hunter",
-            "why": "the plain word for an Erthjagár and for hunters of every culture; not a gloss that Erthjagár retires",
-            "kinds": []
+            "why": "the plain word for an Erthjagár and for hunters of every culture; not a gloss that Erthjagár retires"
         },
         {
             "literal": "Kinsman",
-            "why": "the plain word for kin in every culture's prose; not a gloss that Druthmund retires",
-            "kinds": []
+            "why": "the plain word for kin in every culture's prose; not a gloss that Druthmund retires"
         },
         {
             "literal": "Eye of the Void",
-            "why": "a phrase of the wider corpus's prose and of other cultures' lore; not a gloss that Ginnauga retires",
-            "kinds": []
+            "why": "a phrase of the wider corpus's prose and of other cultures' lore; not a gloss that Ginnauga retires"
         }
     ],
     "entries": [
@@ -2802,8 +2595,7 @@
                 "e51d35186:assets/content/Characters/Heroes_and_Knaves/Dagmar_the_Wanderer.md:6:10",
                 "e7259c08d:assets/content/Characters/Heroes_and_Knaves/Tvirnvir_the_Wanderer.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Dek",
@@ -2904,8 +2696,7 @@
                 "b29be50fd:assets/content/Characters/Heroes_and_Knaves/Groa_the_Seidr_of_Norgaad.md:6:10",
                 "fc42947aa:assets/content/Characters/Heroes_and_Knaves/Tvarnynda_the_Seidr_of_Norgaad.md:4:9"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Gunnsteinn",
@@ -6112,8 +5903,7 @@
                 "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Lore/Ranks/Nordheimn/Faith_of_Bjartr/Calathir.md:14:139",
                 "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Lore/Ranks/Nordheimn/Faith_of_Bjartr/Calathir.md:3:36"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -6136,8 +5926,7 @@
             "note": "the reader's tongue: Bjartr's laity are named for what they come for rather than by a station word",
             "prose": "Level 1 in the faith of Bjartr: those who come for the Blessing of Light and the Night of Dreams.",
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Tindësar",
@@ -6163,8 +5952,7 @@
                 "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Lore/Ranks/Nordheimn/Faith_of_Bjartr/Tindesar.md:3:15",
                 "9e67f789de14997932b1fd4f23ddd03e2b46fdea:assets/content/Lore/Ranks/Nordheimn/Faith_of_Bjartr/Tindesar.md:3:36"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -6187,8 +5975,7 @@
             "note": "the reader's tongue: the condition is the withholding of the Aulirarno's accord, and the Sinalëan structure Bjartr's clergy keep has no Nordmal word for it",
             "prose": "Level 0 in the faith of Bjartr: withheld the Aulirarno's accord.",
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -6211,8 +5998,7 @@
             "note": "the reader's tongue, on the same pattern: the standing is attachment to a faction and the work it sets",
             "prose": "Level 3 in the faith of Hrímthur: attached to one of his scattered factions and doing its work.",
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -6235,8 +6021,7 @@
             "note": "the reader's tongue: Hrímthur's scattered factions keep no priesthood and no station words, so the standing is named by the attitude that defines it",
             "prose": "Level 1 in the faith of Hrímthur: holds his work in awe without attaching to any faction.",
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -6259,8 +6044,7 @@
             "note": "the reader's tongue: the cult names the condition by what the man did to it, and no Nordmal word is coined for a standing the cult refuses to dignify",
             "prose": "Level 0 of Náhild's cult ladder: what the cult does to a man who gives away its hidden rites.",
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -6743,8 +6527,7 @@
             "note": "the reader's tongue around the ring the Circle gives: the condition is named by the breaking, which is what the Skaldating does",
             "prose": "Level 0 of the Skalds' Circle: convicted of breaking the truth of the recital, the arm-ring broken at the next Skaldating.",
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -6790,8 +6573,7 @@
             "note": "_skald_ — a kept word of the tongue, named among the setting's own; the sworn keeper of a hall's record",
             "prose": "Level 3 of the Skalds' Circle: sworn keeper of a hall's record, entitled to food, shelter and safe passage at any hall.",
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -6814,8 +6596,7 @@
             "note": "the reader's tongue: the standing is a pupillage of ten to fifteen years, and the Circle names it plainly",
             "prose": "Level 1 of the Skalds' Circle: a master's pupil for ten to fifteen years, entitled to present a gyldra.",
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Of the Band",
@@ -6840,8 +6621,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Blackpine_Wolves/Of_The_Band.md:3:15"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Bondservant",
@@ -6866,8 +6646,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Bondservant.md:3:15"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Kinless",
@@ -6892,8 +6671,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Kinless.md:3:15"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Kinsman",
@@ -6918,8 +6696,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Kinsman.md:3:15"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Elder",
@@ -6945,8 +6722,7 @@
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Lineage_Elder.md:3:15",
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Chieftain.md:3:15"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -6969,8 +6745,7 @@
             "note": "_hród-_ (renown) + `-thúl` (one who endures and bears a charge) — the one who bears a charge on their renown.",
             "prose": "Level 4 of the Vrystwald Tribes: bears a charge on the renown a deed has already won, assisting the elders in everyday duties.",
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Taken-In",
@@ -6996,8 +6771,7 @@
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Taken_In.md:3:15",
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Vrystwald_Tribes/Taken_In.md:3:36"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Hunter",
@@ -7020,8 +6794,7 @@
             "note": "_erth-_ (the earth, the ground underfoot) + `-jagár` (the one who hunts a ground) — hunts the clan's ground and carries a charge on it.",
             "prose": "Level 3 of Wuldjagár erund Gárskald: one of the company, carrying a charge and a share of the kill.",
             "oldRefPaths": ["b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Wuldjagar/Hunter.md:3:15"],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "New Hunter",
@@ -7046,8 +6819,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Lore/Ranks/Varokhi/Wuldjagar/New_Hunter.md:3:15"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Málaliðabandalag",
@@ -8131,8 +7903,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:47:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "War-chief",
@@ -8157,8 +7928,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:48:126"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Lawkeeper",
@@ -8183,8 +7953,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:51:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Host-Caller",
@@ -8209,8 +7978,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:53:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Truce-Warden",
@@ -8235,8 +8003,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:54:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Water-Warden",
@@ -8261,8 +8028,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:55:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Guide",
@@ -8287,8 +8053,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:57:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Envoy",
@@ -8313,8 +8078,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:59:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Keeper of the Feud",
@@ -8339,8 +8103,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Regions/Ankaris/Vrystwald/Vrystwald_Tribes.md:60:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Huntmaster",
@@ -8365,8 +8128,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:32:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Track-Leader",
@@ -8391,8 +8153,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:34:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Healer",
@@ -8417,8 +8178,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:35:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Spear-Bearer",
@@ -8443,8 +8203,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:36:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Skinner",
@@ -8469,8 +8228,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:38:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Dog-Keeper",
@@ -8495,8 +8253,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:40:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Scout",
@@ -8521,8 +8278,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/Wuldjagar_erund_Garskald.md:41:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Leader",
@@ -8547,8 +8303,7 @@
             "oldRefPaths": [
                 "b7a3cbe7c:assets/content/Affiliations/Social/Companies/The_Blackpine_Wolves.md:25:7"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Thornak Blodtūsc Bār",
@@ -8576,8 +8331,7 @@
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Thornak_Mahnlin.md:7:51",
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Thornak_Mahnlin.md:7:72"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Ermina Froban",
@@ -8603,8 +8357,7 @@
                 "7d6ca371c:assets/content/Characters/Occupations/Ermina_Frodban.md:3:40",
                 "6b48f77ec:assets/content/Characters/Occupations/Ermina_Frodban.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Theodric Froban",
@@ -8630,8 +8383,7 @@
                 "7d6ca371c:assets/content/Characters/Occupations/Theodric_Frodban.md:3:42",
                 "6b48f77ec:assets/content/Characters/Occupations/Theodric_Frodban.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Skathilda Frodban",
@@ -8657,8 +8409,7 @@
                 "7d6ca371c:assets/content/Characters/Heroes_and_Knaves/Skathilda_Frodban.md:7:25",
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Skathilda_Frodban.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Thalia Hart",
@@ -8684,8 +8435,7 @@
                 "7d6ca371c:assets/content/Characters/Occupations/Thaldra_Druthgar.md:3:43",
                 "6b48f77ec:assets/content/Characters/Occupations/Thaldra_Druthgar.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Athalwa Vithrúnd",
@@ -8712,8 +8462,7 @@
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Athalwa_Vithrund.md:3:14",
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Athalwa_Vithrund.md:3:80"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Brunjár Skathhelm",
@@ -8738,8 +8487,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Brunjar_Skathhelm.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Dágulf Véthar",
@@ -8764,8 +8512,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Dagulf_Vethar.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Garulf Druthgar",
@@ -8790,8 +8537,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Garulf_Druthgar.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Hródar Arnthúl",
@@ -8816,8 +8562,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Hrodar_Arnthul.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Thráwald Hildskorn",
@@ -8842,8 +8587,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Thrawald_Hildskorn.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Vandaric Garwald",
@@ -8868,8 +8612,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Heroes_and_Knaves/Vandaric_Garwald.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Ármund Hildskorn",
@@ -8894,8 +8637,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Armund_Hildskorn.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Edrígar Sundrýth",
@@ -8920,8 +8662,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Edrigar_Sundryth.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Erthran Hildvith",
@@ -8946,8 +8687,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Erthran_Hildvith.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Frithgár Vithrúnd",
@@ -8972,8 +8712,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Frithgar_Vithrund.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Fródwyn Dómhár",
@@ -8998,8 +8737,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Frodwyn_Domhar.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Hármund Garwald",
@@ -9024,8 +8762,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Harmund_Garwald.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Hródar Skáldrith",
@@ -9050,8 +8787,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Hrodar_Skaldrith.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Óthwin Dómhár",
@@ -9078,8 +8814,7 @@
                 "6b48f77ec:assets/content/Characters/Occupations/Othwin_Domhar.md:3:14",
                 "6b48f77ec:assets/content/Characters/Occupations/Othwin_Domhar.md:3:44"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Rádrún Vithrúnd",
@@ -9104,8 +8839,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Radrun_Vithrund.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Skaldár Balthhelm",
@@ -9130,8 +8864,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Skaldar_Balthhelm.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Sundwíra Hildvith",
@@ -9158,8 +8891,7 @@
                 "6b48f77ec:assets/content/Characters/Occupations/Sundwira_Hildvith.md:3:14",
                 "6b48f77ec:assets/content/Characters/Occupations/Sundwira_Hildvith.md:3:46"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Theódris Sundrýth",
@@ -9184,8 +8916,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Theodris_Sundryth.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Thornila Ríkhild",
@@ -9210,8 +8941,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Thornila_Rikhild.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Thrágrim Ríkhild",
@@ -9236,8 +8966,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Thragrim_Rikhild.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Vandaric Gárskald",
@@ -9262,8 +8991,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Vandaric_Garskald.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Véthar Balthhelm",
@@ -9288,8 +9016,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Vethar_Balthhelm.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Vithár Hildvith",
@@ -9314,8 +9041,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Vithar_Hildvith.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Waldaric Ríkhild",
@@ -9340,8 +9066,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Waldaric_Rikhild.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Wítharic Druthgar",
@@ -9366,8 +9091,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Witharic_Druthgar.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Wulfhár Theódwald",
@@ -9392,8 +9116,7 @@
             "oldRefPaths": [
                 "6b48f77ec:assets/content/Characters/Occupations/Wulfhar_Theodwald.md:3:14"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Wulfrád Hildvith",
@@ -9420,8 +9143,7 @@
                 "6b48f77ec:assets/content/Characters/Occupations/Wulfrad_Hildvith.md:3:14",
                 "6b48f77ec:assets/content/Characters/Occupations/Wulfrad_Hildvith.md:3:45"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9444,8 +9166,7 @@
             "note": "oldName: null — coined outright, nothing retired; _athal-_ \"noble descent, what a kindred inherits\" + `-wa` \"a woman born to what the opening names\" — a woman born to noble descent",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9468,8 +9189,7 @@
             "note": "oldName: null — coined outright, nothing retired; _brunj-_ \"a mail coat, war-gear burnished bright\" + `-ár` \"the one who bears what the opening names\" — the one who bears bright war-gear",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9492,8 +9212,7 @@
             "note": "oldName: null — coined outright, nothing retired; _dág-_ \"daylight\" + `-ulf` \"a wolf\" — a wolf abroad in daylight rather than skulking",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9516,8 +9235,7 @@
             "note": "oldName: null — coined outright, nothing retired; _gar-_ \"a spear\" + `-ulf` \"a wolf\" — a wolf among spears, read from the names behind both elements",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9540,8 +9258,7 @@
             "note": "oldName: null — coined outright, nothing retired; _hród-_ \"renown\" + `-ar` \"the one who bears what the opening names\" — the one who bears renown",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9564,8 +9281,7 @@
             "note": "oldName: null — coined outright, nothing retired; _skath-_ \"harm, the injury a feud answers\" + `-hild` \"battle\", with the woman's `-a` added to the name otherwise complete, as `Hródar`/`Hródara` stand in the lists as one name twice",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9588,8 +9304,7 @@
             "note": "oldName: null — coined outright, nothing retired; _thorn-_ \"a thorn, and the thicket of them\" + `-ak` \"a stand of the thing named, a thicket of it\" — both elements read from this same name in the published lexicon",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9612,8 +9327,7 @@
             "note": "oldName: null — coined outright, nothing retired; _thrá-_ \"unyielding, refusing to be moved\" + `-wald` \"rule, in a person's name\" — an unyielding holder of rule",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9636,8 +9350,7 @@
             "note": "oldName: null — coined outright, nothing retired; _vand-_ \"exacting, hard to satisfy\" + `-ric` \"a ruler\" — an exacting ruler",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9660,8 +9373,7 @@
             "note": "oldName: null — coined outright, nothing retired; _vith-_ \"valor, what withstands\" + `-rúnd` \"a shield's rim, and the shield\" — the clan's own published gloss is \"Shields of Valor\"",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9684,8 +9396,7 @@
             "note": "oldName: null — coined outright, nothing retired; _skath-_ \"harm, the injury a feud answers\" + `-helm` \"a helm\", with the seam writing both pieces whole (`thh`) — the clan's own published gloss is \"Harm Helms\"",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9708,8 +9419,7 @@
             "note": "oldName: null — coined outright, nothing retired; _véth-_ \"hallowed, set apart\" + `-ar` \"the one who bears what the opening names\" — the language note's own worked example of one name standing in a given-name list and a clan list both; the clan's own published gloss is \"The Hallowed\"",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9732,8 +9442,7 @@
             "note": "oldName: null — coined outright, nothing retired; _druth-_ \"what is trusted\" + `-gar` \"a spear\" — the clan's own published gloss is \"Trusted Spears\"",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9756,8 +9465,7 @@
             "note": "oldName: null — coined outright, nothing retired; _arn-_ \"an eagle\" + `-thúl` \"one who endures and bears a charge\" — the clan's own published gloss is \"Eagle Bearers\"",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9780,8 +9488,7 @@
             "note": "oldName: null — coined outright, nothing retired; _fród-_ \"wise, seasoned by years\" + `-bán` \"a slayer, one who deals a death\" — the clan's own published gloss is \"Wise Slayers\"",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9804,8 +9511,7 @@
             "note": "oldName: null — coined outright, nothing retired; _mahn-_ \"a man of the kindred\" + `-lin` \"the younger or the lesser of a kindred\" — the clan's own published gloss is \"Younger Kinsmen\"",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9828,8 +9534,7 @@
             "note": "oldName: null — coined outright, nothing retired; _hild-_ \"battle\" + `-skorn` \"a notch cut, a tally of blows\" — the clan's own published gloss is \"Battle Tallies\"",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -9852,8 +9557,7 @@
             "note": "oldName: null — coined outright, nothing retired; _gar-_ \"a spear\" + `-wald` \"rule, in a person's name\" — the clan's own published gloss is \"Spear Holders\"",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -11764,8 +11468,7 @@
             "note": "the falcon haven: falk- “falcon” and -haven “sheltering ground”; the western trade shore",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -11788,8 +11491,7 @@
             "note": "the bounded wood: edr- “a hedge or holding boundary” and -wald “wood”; the bayward reach",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -11812,8 +11514,7 @@
             "note": "the thorn wood: thorn- “thorn” and -wald “wood”; the mixed Velanthian frontier",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -11836,8 +11537,7 @@
             "note": "the harmed wood: skath- “harm” and -wald “wood”; the Grukar concentration shades into it without a boundary",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -11860,8 +11560,7 @@
             "note": "the exacting crag: vand- “exacting” and -stein “crag”; the mountainward end",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -11884,8 +11583,7 @@
             "note": "the hallowed wood: véth- “hallowed” and -wald “wood”; Deepwood is its reader-tongue alias",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -11908,8 +11606,7 @@
             "note": "a reader-tongue collective title for the waterways crossing the forest; no single river is named or bounded by this entry",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -11932,8 +11629,7 @@
             "note": "the falcon copse: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -11956,8 +11652,7 @@
             "note": "the eagle crag: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -11980,8 +11675,7 @@
             "note": "the sheltered boundary: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12004,8 +11698,7 @@
             "note": "the oak copse: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12028,8 +11721,7 @@
             "note": "the dale bottom: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12052,8 +11744,7 @@
             "note": "the thorn clearing: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12076,8 +11767,7 @@
             "note": "the kindred haven: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12100,8 +11790,7 @@
             "note": "the hallowed copse: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12124,8 +11813,7 @@
             "note": "the stronghold against harm: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12148,8 +11836,7 @@
             "note": "the wolf crag: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12172,8 +11859,7 @@
             "note": "the battle copse: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12196,8 +11882,7 @@
             "note": "the exacting valley floor: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12220,8 +11905,7 @@
             "note": "the unyielding crag: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12244,8 +11928,7 @@
             "note": "the earth shelter: an opening element with a published Varokhi ground-closing",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12268,8 +11951,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12292,8 +11974,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12316,8 +11997,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12340,8 +12020,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12364,8 +12043,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12388,8 +12066,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12412,8 +12089,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12436,8 +12112,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12460,8 +12135,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12484,8 +12158,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12508,8 +12181,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12532,8 +12204,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12556,8 +12227,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12580,8 +12250,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12604,8 +12273,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12628,8 +12296,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12652,8 +12319,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12676,8 +12342,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12700,8 +12365,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12724,8 +12388,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12748,8 +12411,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12772,8 +12434,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12796,8 +12457,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12820,8 +12480,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12844,8 +12503,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12868,8 +12526,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12892,8 +12549,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12916,8 +12572,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12940,8 +12595,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12964,8 +12618,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -12988,8 +12641,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13012,8 +12664,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13036,8 +12687,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13060,8 +12710,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13084,8 +12733,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13108,8 +12756,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13132,8 +12779,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13156,8 +12802,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13180,8 +12825,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13204,8 +12848,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13228,8 +12871,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13252,8 +12894,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13276,8 +12917,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13300,8 +12940,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13324,8 +12963,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13348,8 +12986,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13372,8 +13009,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13396,8 +13032,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13420,8 +13055,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13444,8 +13078,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13468,8 +13101,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13492,8 +13124,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13516,8 +13147,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13540,8 +13170,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13564,8 +13193,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13588,8 +13216,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13612,8 +13239,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13636,8 +13262,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13660,8 +13285,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -13684,8 +13308,7 @@
             "note": "A coined village in the Vrystwald Region roster; no standalone note or address yet.",
             "prose": null,
             "oldRefPaths": [],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -14262,8 +13885,7 @@
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Vithgard/History/Vithgard_Histories.md:18:65"
             ],
-            "boldKind": "none",
-            "kinds": ["seeress"]
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -14488,8 +14110,7 @@
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Nordheim/History/Nordheim_Histories.md:33:49"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": "Drékhar",
@@ -14893,8 +14514,7 @@
                 "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Affiliations/Organizations/Skalds_Circle.md:18:83",
                 "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Lore/Ranks/Nordheimn/Skalds_Circle/Skald.md:14:61"
             ],
-            "boldKind": "none",
-            "kinds": []
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -15643,8 +15263,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Bruldorv_Greenshield.md:395:18"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Skarnholme",
@@ -15669,8 +15288,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Dvirnmyl_the_Deceiver.md:393:27"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Ravenspeak",
@@ -15695,8 +15313,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Hvilgthyra_Knalthannsdottir.md:398:26"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Heartwood",
@@ -15721,8 +15338,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Hlarthvir_Oakheart.md:393:21"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Fjallheim",
@@ -15747,8 +15363,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Rilthorv_Runaskald.md:371:146"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Vinterheim",
@@ -15773,8 +15388,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Rilthorv_Runaskald.md:393:23"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Stormsfjord",
@@ -15799,8 +15413,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Hnirvmyl_the_Wise.md:393:18"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Vidarrholt",
@@ -15825,8 +15438,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Knalthann_Lawgiver.md:371:103"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Hornburg",
@@ -15851,8 +15463,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Krildthann_Shieldbearer.md:407:19"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Hjartaland",
@@ -15877,8 +15488,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Mirvrinna_Harvest_Blessed.md:371:228"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Ashenmount",
@@ -15903,8 +15513,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Vrithorv_Flameheart.md:393:23"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Kystvik",
@@ -15929,8 +15538,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Skalforv_Thunderstrike.md:395:20"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Skogholt",
@@ -15955,8 +15563,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Skulfmyl_Fire_Tongue.md:371:70"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Blómstjarna",
@@ -15981,8 +15588,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Brildselda_Sunnas_Blessing.md:365:835"
-            ],
-            "kinds": ["place"]
+            ]
         },
         {
             "oldName": "Althing",
@@ -16007,8 +15613,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Characters/Heroes_of_Asguard/Knalthann_Lawgiver.md:395:7"
-            ],
-            "kinds": []
+            ]
         },
         {
             "oldName": "Thorgrímr",
@@ -16252,8 +15857,7 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "05a1d15aa7a754b26d3139e7bb37dee2303e3ad4:assets/content/Affiliations/Organizations/Asguardian_Orders/The_Giants_Children.md:74:27"
-            ],
-            "kinds": ["compound"]
+            ]
         },
         {
             "oldName": null,
@@ -16275,8 +15879,7 @@
             "description": null,
             "note": "`storm-`, a storm, + `-höfdingi`, a chieftain: the charge an Eidhöfdingi of the Storm-Speakers holds while he leads the storm-speech. An office named by the order's own word, beside the shared standing coinage. `oldName: null` — nothing is retired.",
             "prose": null,
-            "boldKind": "none",
-            "kinds": ["compound"]
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -16408,8 +16011,7 @@
             "description": null,
             "note": "`ald-`, an age, + `-var`, a ward: the ward of the age, Ódvar's silent son, who kills Vetrúlfr and comes through the fire, alliterating with his father on the vowel.. One of the Tvelgaett, the gods' heirs. `oldName: null` — nothing is retired; coined for the Nordlands canon.",
             "prose": null,
-            "boldKind": "none",
-            "kinds": ["compound"]
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -16431,8 +16033,7 @@
             "description": null,
             "note": "`hamar-`, a hammer, + `-beri`, one who bears a thing: Thrúnvald's daughter, who lifts Thrúnhamarr from the field. One of the Tvelgaett, the gods' heirs. `oldName: null` — nothing is retired; coined for the Nordlands canon.",
             "prose": null,
-            "boldKind": "none",
-            "kinds": ["compound"]
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -16454,8 +16055,7 @@
             "description": null,
             "note": "`grön-`, green and growing, + `-vin`, a friend: Fródvin's heir, the first shoot through the ash. One of the Tvelgaett, the gods' heirs. `oldName: null` — nothing is retired; coined for the Nordlands canon.",
             "prose": null,
-            "boldKind": "none",
-            "kinds": ["compound"]
+            "boldKind": "none"
         },
         {
             "oldName": null,
@@ -18697,8 +18297,7 @@
             "oldRefPaths": [
                 "a90e493956e31b0a60a13cce55bec0e50f8eae68:assets/content/Characters/Occupations/Gnildrselda_Stormrot.md:405:130"
             ],
-            "boldKind": "none",
-            "kinds": ["seeress"]
+            "boldKind": "none"
         },
         {
             "oldName": "Eydís",
@@ -18920,7 +18519,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_thrask-_ (hard grade) + `-selda` (a woman) — a viscontess whose patronymic names a father of the deep grade, so hers is the hard grade after it; thrask 'a keel taking shingle' fits a woman of a seafaring house. replaces an Earth name in a Nordland character's prose",
+            "note": "_thrask-_ (hard grade) + `-selda` (a woman) — a viscountess whose patronymic names a father of the deep grade, so hers is the hard grade after it; thrask 'a keel taking shingle' fits a woman of a seafaring house. replaces an Earth name in a Nordland character's prose",
             "prose": null,
             "oldRefPaths": [
                 "a90e493956e31b0a60a13cce55bec0e50f8eae68:assets/content/Characters/Heroes_and_Knaves/Skraldthann_Hrafnsvald.md:467:17"
@@ -18976,8 +18575,7 @@
             "oldRefPaths": [
                 "a90e493956e31b0a60a13cce55bec0e50f8eae68:assets/content/Characters/Heroes_and_Knaves/Hvarnthann_Stormrot.md:498:253"
             ],
-            "boldKind": "none",
-            "kinds": ["seeress"]
+            "boldKind": "none"
         },
         {
             "oldName": "Kolbeinn",
@@ -20387,188 +19985,5 @@
             "oldRefPaths": [],
             "boldKind": "none"
         }
-    ],
-    "standingCoinages": {
-        "rungs": [
-            {
-                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md",
-                "level": 0,
-                "oldTitle": "Put from the Order",
-                "title": "Eidvargr"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Green_Wardens.md",
-                "level": 0,
-                "oldTitle": "Put from the Order",
-                "title": "Eidvargr"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
-                "level": 0,
-                "oldTitle": "Put from the Order",
-                "title": "Eidvargr"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Giants_Children.md",
-                "level": 0,
-                "oldTitle": "Put from the Order",
-                "title": "Eidvargr"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md",
-                "level": 1,
-                "oldTitle": "Hand-Squire",
-                "title": "Eidefnir"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
-                "level": 1,
-                "oldTitle": "Storm-Aspirant",
-                "title": "Eidefnir"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Giants_Children.md",
-                "level": 1,
-                "oldTitle": "The Frost-Touched",
-                "title": "Eidefnir"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Order_of_the_Sworn_Hand.md",
-                "level": 4,
-                "oldTitle": "Elder Hand",
-                "title": "Eidhöfdingi"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/The_Green_Wardens.md",
-                "level": 4,
-                "oldTitle": "Elder Guardian",
-                "title": "Eidhöfdingi"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
-                "level": 4,
-                "oldTitle": "Storm-Captain",
-                "title": "Eidhöfdingi"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Skalds_Circle.md",
-                "level": 1,
-                "oldTitle": "Apprentice",
-                "title": "Skaldefnir"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Skalds_Circle.md",
-                "level": 0,
-                "oldTitle": "Ring-Broken",
-                "title": "Skaldavargr"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
-                "level": 1,
-                "oldTitle": "Sworn of a Signed Company",
-                "title": "Bandalagsmadr"
-            },
-            {
-                "path": "assets/content/Affiliations/Organizations/Malalidabandalag.md",
-                "level": 0,
-                "oldTitle": "Discharged in Disgrace",
-                "title": "Bandalagsvargr"
-            },
-            {
-                "path": "assets/content/Regions/Ankaris/Aureldia/Aelwyth/Stormveld/Jarldom_of_Stormveld.md",
-                "level": 7,
-                "oldTitle": "High Jarl",
-                "title": "Höfudvald"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Hrimthur.md",
-                "level": 1,
-                "oldTitle": "Admirer",
-                "title": "Hrímvin"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Hrimthur.md",
-                "level": 3,
-                "oldTitle": "Adherent",
-                "title": "Hrímmadr"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Frodvin.md",
-                "level": 0,
-                "oldTitle": "Refused the Blót",
-                "title": "Blótlok"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Eidgar.md",
-                "level": 0,
-                "oldTitle": "Refused the Blót",
-                "title": "Blótlok"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Motefnir.md",
-                "level": 0,
-                "oldTitle": "Refused the Blót",
-                "title": "Blótlok"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Svartbrandr.md",
-                "level": 0,
-                "oldTitle": "Refused the Blót",
-                "title": "Blótlok"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Solrun.md",
-                "level": 0,
-                "oldTitle": "Refused the Blót",
-                "title": "Blótlok"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Velgrimr.md",
-                "level": 0,
-                "oldTitle": "Refused the Blót",
-                "title": "Blótlok"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Thrunvald.md",
-                "level": 0,
-                "oldTitle": "Refused the Blót",
-                "title": "Blótlok"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Odvar.md",
-                "level": 0,
-                "oldTitle": "Refused the Blót",
-                "title": "Blótlok"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Nahild.md",
-                "level": 0,
-                "oldTitle": "The Betrayer",
-                "title": "Návargr"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Bjartr.md",
-                "level": 1,
-                "oldTitle": "The Faithful",
-                "title": "Bjartgengir"
-            },
-            {
-                "path": "assets/content/Affiliations/Divine/Asguardian/Faith_of_Bjartr.md",
-                "level": 0,
-                "oldTitle": "Unaccorded",
-                "title": "Bjartlok"
-            }
-        ],
-        "deliberatelyUnused": [
-            {
-                "title": "Lidstjóri",
-                "elements": ["lid-", "-stjóri"],
-                "reason": "Master of a company names an office. The Compact confers Signed Captain standing and elects a Speaker; neither is the one office of a company master."
-            }
-        ],
-        "limits": [
-            "Eidefnir names only existing candidate standings; the Green Wardens admit candidates directly to their sworn standing.",
-            "Eidhöfdingi names senior peers who choose the chair; the Giant's Children entrust that choice to Fathers of the Halls, an office distinct from their senior rung."
-        ]
-    }
+    ]
 }

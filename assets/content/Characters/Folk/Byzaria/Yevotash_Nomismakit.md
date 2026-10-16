@@ -1,9 +1,9 @@
 ---
 shortcode: yevotashnomi
-name: {full: Yevotash Nomismákit, aliases: [Lord Merchant Yevotash Nomismákit]}
+name: {full: Yevotash Nomismakit, aliases: [Lord Merchant Yevotash Nomismakit]}
 type: being
 subType: npc
-description: A major trader whose commercial interests Nômasáhr Paraklávos has protected through countless suits at law.
+description: A major trader whose commercial interests Nomasáhr Paraklavos has protected through countless suits at law.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Yevotash Nomismákit is a 56-year-old man who stands 5'11" tall with a medium build. He has light skin, weathered complexion, black hair, and brown eyes.
+Yevotash Nomismakit is a 56-year-old man who stands 5'11" tall with a medium build. He has light skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Yevotash Nomismákit is a major trader whose commercial interests [[being-nmshrprklvs|Nômasáhr Paraklávos]] has protected through countless suits at law.
+Yevotash Nomismakit is a major trader whose commercial interests [[being-nmshrprklvs|Nomasáhr Paraklavos]] has protected through countless suits at law.

@@ -237,7 +237,7 @@ At the edge of the field, where the stubble meets the hedge, a red shape is sitt
 
 # Dossier {#dossier}
 
-The Fox is the small red hunter of the woods, hedges and field margins, twelve to fifteen inches at the shoulder and up to thirteen pounds. It lives in the clearings of [[place-vrystwald|Vrystwald]], the forest-steppe of [[place-velanthrgn|Velanthia]], the Silver Forests of Élavendre, the Nordlands coast and the northern tundra of Ixtem Tzul, and it raids hen-houses, escapes traps and leads dogs astray. It is the wesk of several Varokh villages.
+The Fox is the small red hunter of the woods, hedges and field margins, twelve to fifteen inches at the shoulder and up to thirteen pounds. It lives in the clearings of [[place-vrystwald|Vristwald]], the forest-steppe of [[place-velanthrgn|Velanthia]], the Silver Forests of Élavendre, the Nordlands coast and the northern tundra of Ishtem Tsul, and it raids hen-houses, escapes traps and leads dogs astray. It is the wesk of several Varokh villages.
 
 ## Presentation
 
@@ -245,7 +245,7 @@ A small, lean, muscular animal with a russet or rust-orange coat and a white und
 
 ## In the Land
 
-Foxes live in the woods, hedges and field margins of nearly every settled country: the clearings of [[place-vrystwald|Vrystwald]], the forest-steppe of [[place-velanthrgn|Velanthia]], the Silver Forests of Élavendre, the cold coast of the Nordlands and the northern tundra of Ixtem Tzul, where the arctic fox grows its white winter coat. A fox digs an earth in a bank or a hollow under roots, ranges several miles at night around the farms, and eats mice, voles, hens, eggs and windfalls.
+Foxes live in the woods, hedges and field margins of nearly every settled country: the clearings of [[place-vrystwald|Vristwald]], the forest-steppe of [[place-velanthrgn|Velanthia]], the Silver Forests of Élavendre, the cold coast of the Nordlands and the northern tundra of Ishtem Tsul, where the arctic fox grows its white winter coat. A fox digs an earth in a bank or a hollow under roots, ranges several miles at night around the farms, and eats mice, voles, hens, eggs and windfalls.
 
 ## Key Behaviors
 
@@ -253,7 +253,7 @@ Foxes are active at dawn, dusk and night. They live alone except in the mating s
 
 ## What the Farmers Do
 
-A farmer keeps hens shut in at night and the hen-house door barred, and sets a snare at a gap in the hedge where a fox has been. Hunters of Vrystwald ride after a fox with hounds, and trappers sell the fur through the Nordlands trade. The fox is the wesk of Vrystwald villages such as Balthhaven and Thornholt. In the Silver Forests the Sinalë tell of Kíltas, the Red Fox of the Lower Wood, a thief and bargainer among the Kindred; [[lore-kiltasspr|Kíltas]] is the one spirit there that will renegotiate its terms. Fox pelts are among the furs traded as currency.
+A farmer keeps hens shut in at night and the hen-house door barred, and sets a snare at a gap in the hedge where a fox has been. Hunters of Vristwald ride after a fox with hounds, and trappers sell the fur through the Nordlands trade. The fox is the wesk of Vristwald villages such as Balthhaven and Thornholt. In the Silver Forests the Sinale tell of Kiltas, the Red Fox of the Lower Wood, a thief and bargainer among the Kindred; [[lore-kiltasspr|Kiltas]] is the one spirit there that will renegotiate its terms. Fox pelts are among the furs traded as currency.
 
 ## Signs
 

@@ -1,9 +1,9 @@
 ---
 shortcode: hallarvinir
-name: {full: "Hallarvinir", aliases: []}
+name: {full: "Hallvinir", aliases: []}
 type: affiliation
 subType: order
-description: "Body and soul tended at Fródvin's infirmaries."
+description: "Body and soul tended at Frodvin's infirmaries."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
-          Cast out of Hallarvinir, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Hallvinir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
           Cares for the sick and the distressed at a valley infirmary, indoor work set beside the Green Hand's own in the fields.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Leads the order's care of body and soul at Fródvin's infirmaries.
+          Leads the order's care of body and soul at Frodvin's infirmaries.
     offices: {}
   seat: null
   population: null
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Say you are carried into a valley infirmary of [[affiliation-frodvin|Fródvin]] with a fever. The one who sits with you tends your body and your fear together, and does not distinguish between them.
+Say you are carried into a valley infirmary of [[affiliation-frodvin|Frodvin]] with a fever. The one who sits with you tends your body and your fear together, and does not distinguish between them.
 
-Hallarvinir, the Healers of the Hearth, are priests devoted to the body and the soul at once, caring for the sick and comforting the distressed at the infirmaries the faith keeps. Their work is indoor and constant, set beside the outdoor work of [[affiliation-gronhond|Grönhönd]] in the fields and groves.
+Hallvinir, the Healers of the Hearth, are priests devoted to the body and the soul at once, caring for the sick and comforting the distressed at the infirmaries the faith keeps. Their work is indoor and constant, set beside the outdoor work of [[affiliation-gronhond|Gronhond]] in the fields and groves.

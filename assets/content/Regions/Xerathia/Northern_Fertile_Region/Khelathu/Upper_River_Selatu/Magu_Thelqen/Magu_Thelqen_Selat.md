@@ -3,7 +3,7 @@ shortcode: maguathenslt
 name: {full: Magu-Thelqen Selat, aliases: []}
 type: place
 subType: region
-description: "A planned temple-city of one zealous dynasty, half-abandoned, still inhabited—the land of the Selat of Magu-Thelqen, one of the upper-river selatu of Aû'Khelâthu."
+description: "A planned temple-city of one zealous dynasty, half-abandoned, still inhabited—the land of the Selat of Magu-Thelqen, one of the upper-river selatu of Au'Khelathu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -19,20 +19,20 @@ data:
 
 "The water doesn't care whose dynasty built the road," a farmer of [[place-maguathen|Magu-Thelqen]] says, leaning on his hoe at the edge of a canal that runs straight for a mile beside an empty avenue.
 
-**Magu-Thelqen Selat** is the land of the [[affiliation-selatmaguthn|Selat of Magu-Thelqen]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Magu-Thelqen Selat** is the land of the [[affiliation-selatmaguthn|Selat of Magu-Thelqen]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
-The land is ordinary valley country with an extraordinary town at its center. Flood-silt fields, canals and villages fill the strip between the river and the dry uplands, with high desert and chaparral beyond, and over it all stands a planned temple-city, built by one zealous dynasty and left half-abandoned. The farmers work their fields and keep the estates running while the city stands half empty. The city is the work of the house of Thelqen'Rêlu, the house of the sun, and its half emptied when the temples refused the house's doctrine and the court returned to Galezkara ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
+The land is ordinary valley country with an extraordinary town at its center. Flood-silt fields, canals and villages fill the strip between the river and the dry uplands, with high desert and chaparral beyond, and over it all stands a planned temple-city, built by one zealous dynasty and left half-abandoned. The farmers work their fields and keep the estates running while the city stands half empty. The city is the work of the house of Thelqen'Relu, the house of the sun, and its half emptied when the temples refused the house's doctrine and the court returned to Galezkara ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
 
 ## Economy
 
-The selat runs on the flood, the harvest and the render like every [[lore-khelathiclt|Khelâthi]] selat: grain to the granaries, labor to the canals and the works of the flood season, and a share of everything to the temples and the crown. The temple-city is still inhabited, and its chief temple of [[lore-uqaadty|Uqa'â]] still holds its estates.
+The selat runs on the flood, the harvest and the render like every [[lore-khelathiclt|Khelathi]] selat: grain to the granaries, labor to the canals and the works of the flood season, and a share of everything to the temples and the crown. The temple-city is still inhabited, and its chief temple of [[lore-uqaadty|Uqa'a]] still holds its estates.
 
 ## Notable Features
 
 - [[place-maguathen|Magu-Thelqen]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-uqaa|Faith of Uqa'â]] and its estates
+- The chief temple of [[affiliation-uqaa|Faith of Uqa'a]] and its estates
 - The planned temple-city, half-abandoned and still inhabited
 
 ## Settlements
@@ -43,5 +43,5 @@ The selat runs on the flood, the harvest and the render like every [[lore-khelat
 ## See Also
 
 - [[affiliation-selatmaguthn|The Selat of Magu-Thelqen]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
 - [[place-maguathen|Magu-Thelqen]]—Selat capital

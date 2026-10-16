@@ -1,6 +1,6 @@
 ---
 shortcode: wodou
-name: {full: Wōdou, aliases: [The Minister of Roads, Dou Séi, The Bureau of Passage]}
+name: {full: Wodou, aliases: [The Minister of Roads, Dou Sei, The Bureau of Passage]}
 type: affiliation
 subType: faithtradition
 description: "Transit."
@@ -14,16 +14,16 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tānchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
         description: >-
-          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tāntsou consider worse.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tantsou consider worse.
       - level: 1
         title: Petitioner
         description: >-
-          Every Tāntsou: keeps a moral ledger, is observed by the household's Tsàikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -47,13 +47,13 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Téng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Wōdou, The Minister of Roads: >-
-        Téng Gui of the Dou Séi, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Douzhī: >-
+      Wodou, The Minister of Roads: >-
+        Teng Gui of the Dou Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Douzhi: >-
         Waymark Spirits, who maintain the boundaries between classified regions.
-      Zhòwō: >-
+      Zhowo: >-
         River Passage Spirits, who govern safe transit on waterways.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -81,28 +81,28 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Wōdou—The Minister of Roads
+## Wodou—The Minister of Roads
 
-- **Bureau:** Dou Séi, The Bureau of Passage
+- **Bureau:** Dou Sei, The Bureau of Passage
 - **Domain:** Transit
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Léi]]
+- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Dou Séi administers movement between classified regions—which, in a cosmos where a boundary is a
-real administrative object, means it administers the boundaries themselves. Its Douzhī keep the
+Dou Sei administers movement between classified regions—which, in a cosmos where a boundary is a
+real administrative object, means it administers the boundaries themselves. Its Douzhi keep the
 waymarks that say where one classification ends and the next begins.
 
 Travelers and merchants petition it for safe passage, and its filings are the cheapest routine
 business in the empire because so many are made. It is also the bureau most damaged by the
-Youwéng's Gap-Makers: every forged boundary is a waymark that no longer marks anything, and Dou Séi
+Youwéng's Gap-Makers: every forged boundary is a waymark that no longer marks anything, and Dou Sei
 is the office that has to discover this, usually when somebody fails to arrive.
 
 ### Lesser Spirits
 
-- **Douzhī**—Waymark Spirits, who maintain the boundaries between classified regions.
-- **Zhòwō**—River Passage Spirits, who govern safe transit on waterways.
+- **Douzhi**—Waymark Spirits, who maintain the boundaries between classified regions.
+- **Zhowo**—River Passage Spirits, who govern safe transit on waterways.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Léi]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Téng Chou Script]]—the writing every petition is made in
+- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
+- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in

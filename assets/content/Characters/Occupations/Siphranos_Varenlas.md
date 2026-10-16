@@ -1,6 +1,6 @@
 ---
 shortcode: syphrnsvrnls
-name: {full: Siphrânôs Vârênlâs, aliases: []}
+name: {full: Sifranos Varenlas, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Siphrânôs Vârênlâs is a 37-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His hooded dark brown eyes sit beneath prominent brows and give him a guarded gaze. He has a straight nose and full lips. He has light skin with a sun-tanned complexion. His black hair is short and swept back.
+Sifranos Varenlas is a 37-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His hooded dark brown eyes sit beneath prominent brows and give him a guarded gaze. He has a straight nose and full lips. He has light skin with a sun-tanned complexion. His black hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a poor family of Vylarian heritage, Siphrânôs Vârênlâs is a gladiator.
+Born in the [[place-vylariargn|Vylaria]] region to a poor family of Vylarian heritage, Sifranos Varenlas is a gladiator.
 
-Siphrânôs was born into poverty and sold into slavery at a young age. He was trained as a gladiator and quickly rose to prominence in the arena, earning the name "Vârênlâs" for his ferocity in combat. He has fought countless opponents and won his freedom through his victories, but he continues to fight for glory and coin. For all the brutality of his fighting style, he is honorable, and keeps a strict code of conduct in the arena.
+Sifranos was born into poverty and sold into slavery at a young age. He was trained as a gladiator and quickly rose to prominence in the arena, earning the name "Varenlas" for his ferocity in combat. He has fought countless opponents and won his freedom through his victories, but he continues to fight for glory and coin. For all the brutality of his fighting style, he is honorable, and keeps a strict code of conduct in the arena.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ He is haunted by his past, and struggles to adapt to life outside the arena.
 
 ### Motivation
 
-Siphrânôs wants glory and coin enough that no one can sell him again.
+Sifranos wants glory and coin enough that no one can sell him again.
 
 ### Strengths
 
@@ -415,13 +415,13 @@ He is physically powerful, skilled in several styles of combat, and experienced 
 
 ## Social
 
-Siphrânôs belongs to the Gladiators' Guild.
+Sifranos belongs to the Gladiators' Guild.
 
 ## Companions
 
 ### Patrons
 
-Siphrânôs's patrons are the wealthy sponsors who bet on his matches.
+Sifranos's patrons are the wealthy sponsors who bet on his matches.
 
 ### Enemies
 
@@ -429,12 +429,12 @@ Rival gladiators seek to surpass his reputation.
 
 ## Plot Hooks
 
-1. **The Gladiator's Dilemma**—A sponsor who bets on Siphrânôs wants a bout thrown, and his code in the arena and the coin he fights for cannot both be kept.
+1. **The Gladiator's Dilemma**—A sponsor who bets on Sifranos wants a bout thrown, and his code in the arena and the coin he fights for cannot both be kept.
 
-2. **Old Grudges**—A rival gladiator who means to surpass Siphrânôs has challenged him to a bout outside the guild's rules.
+2. **Old Grudges**—A rival gladiator who means to surpass Sifranos has challenged him to a bout outside the guild's rules.
 
-3. **Echoes of the Past**—The man who bought Siphrânôs as a boy is in the stands, and claims the sale was never properly undone.
+3. **Echoes of the Past**—The man who bought Sifranos as a boy is in the stands, and claims the sale was never properly undone.
 
-4. **Shifting Winds**—Political change in Vylaria threatens the arena Siphrânôs lives by, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Vylaria threatens the arena Sifranos lives by, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A sponsor offers Siphrânôs a bout against a champion from another city, for a purse that would end his fighting days, and the champion's record is not what the sponsor says.
+5. **The Opportunity**—A sponsor offers Sifranos a bout against a champion from another city, for a purse that would end his fighting days, and the champion's record is not what the sponsor says.

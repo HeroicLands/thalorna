@@ -235,7 +235,7 @@ Two big black birds are sitting on the broken wall above the ford. Everything ab
 
 # Dossier {#dossier}
 
-The Raven is the large black bird of the north, twenty to twenty-five inches tall with a wingspan of three and a half to four feet, living in the cliffs and fjords of the [[place-nrdlndsrgn|Nordlands]], the forests of [[place-vrystwald|Vrystwald]] and the mountains of the Grazian range. It is clever, curious and a scavenger, and follows armies, hunts and caravans. Ódvar's two ravens, [[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]], are read as messengers and teaching figures.
+The Raven is the large black bird of the north, twenty to twenty-five inches tall with a wingspan of three and a half to four feet, living in the cliffs and fjords of the [[place-nrdlndsrgn|Nordlands]], the forests of [[place-vrystwald|Vristwald]] and the mountains of the Grazian range. It is clever, curious and a scavenger, and follows armies, hunts and caravans. Odvar's two ravens, [[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]], are read as messengers and teaching figures.
 
 ## Presentation
 
@@ -243,7 +243,7 @@ A big bird, entirely black, in feathers that seem to take in the light. The head
 
 ## In the Land
 
-Ravens live across the cold north: the cliffs and fjords of the [[place-nrdlndsrgn|Nordlands]], the forests of [[place-vrystwald|Vrystwald]] and the mountains of the Grazian range, and they follow armies, hunts and herds for what is left. A pair holds a crag or a tall tree for life and adds to the nest each year. In winter they gather in flocks at carcasses, dumps and the edges of villages.
+Ravens live across the cold north: the cliffs and fjords of the [[place-nrdlndsrgn|Nordlands]], the forests of [[place-vrystwald|Vristwald]] and the mountains of the Grazian range, and they follow armies, hunts and herds for what is left. A pair holds a crag or a tall tree for life and adds to the nest each year. In winter they gather in flocks at carcasses, dumps and the edges of villages.
 
 ## Key Behaviors
 
@@ -251,7 +251,7 @@ Ravens learn commands, recognize individual people, remember food-places for mon
 
 ## What the Nordmen Do
 
-Ódvar keeps two ravens, [[lore-hugvin|Hugvin]] for thought and [[lore-munvin|Munvin]] for memory, and the Nordmen read the black birds that follow the host as a sign. A raven over a field of battle is a welcome sight, since it shows the dead will be seen to. Farmers dislike the flocks, and shepherds watch for them at lambing, when they take the eyes of a weak lamb. Ravens learn the faces of people who have wronged them, and can be taught to speak a few words. The black feathers are used in fletching and as charms.
+Odvar keeps two ravens, [[lore-hugvin|Hugvin]] for thought and [[lore-munvin|Munvin]] for memory, and the Nordmen read the black birds that follow the host as a sign. A raven over a field of battle is a welcome sight, since it shows the dead will be seen to. Farmers dislike the flocks, and shepherds watch for them at lambing, when they take the eyes of a weak lamb. Ravens learn the faces of people who have wronged them, and can be taught to speak a few words. The black feathers are used in fletching and as charms.
 
 ## Signs
 

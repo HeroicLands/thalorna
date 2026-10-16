@@ -24,22 +24,22 @@ data:
 # terran_analog: "Virgil's Aeneid and the court epic of Augustan Rome, for the long six-beat line, the proem, the founder who gives up his own happiness for the city, the prophecy of a nation's whole history put in a god's mouth after the fact, and the praise of a living patron folded into it; Livy and Ovid's Fasti for the walking of a city's sacred boundary; and the Roman rule that the dead lie outside the city's sacred boundary."
 ---
 
-**The Walking of the Line** is the sixth book of the **Thîrûthrimâ**, _The Hallowed Boundary_, the long poem **Mêlvaren Thûlêmênôs** made for the house of Makândas in the years the house rebuilt [[place-orzara|Ôrzâra]] ([[lore-restorehouse|The Restoration]]). Mêlvaren read it aloud book by book in the halls of his patron's friends, as a court poet does, and the copies went out from there. The sixth book tells the morning the first Ôrzâs walked and consecrated the thîrûthrimâ around the [[place-sixhillsvyl|Six Hills]] ([[lore-eaglecityrse|The Raising of the Eagle City]]). It is in the long line of the imperial epic, six beats falling at the end, and the grammar schools set it before any other book of the poem, so that a boy of good family knows its catalogue of the hills before he has climbed all six.
+**The Walking of the Line** is the sixth book of the **Thrima**, _The Hallowed Boundary_, the long poem **Melvaren Thulemenos** made for the house of Makandas in the years the house rebuilt [[place-orzara|Orzara]] ([[lore-restorehouse|The Restoration]]). Melvaren read it aloud book by book in the halls of his patron's friends, as a court poet does, and the copies went out from there. The sixth book tells the morning the first Orzas walked and consecrated the thrima around the [[place-sixhillsvyl|Six Hills]] ([[lore-eaglecityrse|The Raising of the Eagle City]]). It is in the long line of the imperial epic, six beats falling at the end, and the grammar schools set it before any other book of the poem, so that a boy of good family knows its catalogue of the hills before he has climbed all six.
 
-The poem does not name the Founder. It calls him the Senator until the line closes and the Walker of the Line after, and it declines him in the hallowed endings from its first line to its last, so that in the old tongue the Founder is never "he" at all. The rendering gives him a pronoun the poem withholds. Mêlvaren says in the proem why he gives no name: the record gives none ([[lore-thefounding|The Founding]]), and he will not write what the record keeps back. The book then gives a reason of its own for the smoothed patch on the Founder's plinth, and the schools teach it as the poem's reason and not the record's. The clerks of the [[affiliation-seldan|Seldan]], asked whose name the patch was meant to hold, still refer the question to the record.
+The poem does not name the Founder. It calls him the Senator until the line closes and the Walker of the Line after, and it declines him in the hallowed endings from its first line to its last, so that in the old tongue the Founder is never "he" at all. The rendering gives him a pronoun the poem withholds. Melvaren says in the proem why he gives no name: the record gives none ([[lore-thefounding|The Founding]]), and he will not write what the record keeps back. The book then gives a reason of its own for the smoothed patch on the Founder's plinth, and the schools teach it as the poem's reason and not the record's. The clerks of the [[affiliation-seldan|Seldan]], asked whose name the patch was meant to hold, still refer the question to the record.
 
 The book was written after [[lore-greatburnng|the Great Burning]], and the prophecy [[lore-ardavondty|Árdavon]] gives in it knows what its poet knew. A boy who recites it learns [[lore-vylariages|the ages of the Empire]] in the god's mouth, in the order the historians teach them, with the six days of fire and the three eagles in their places, and the prophecy ends with the restorer coming down from the north. The masters who teach the book point out what it does with that praise. It sets the house that cut its name along every colonnade of the rebuilt city beside a founder who left his own stone blank, and it says nothing about the comparison.
 
 Three lines of the stern face's speech are in no copy made before the Core: the eagle carried into the forest and brought out of the reeds ([[lore-blackmarshbtl|The Battle of the Black Marsh]]), the eagle that stays under the snow ([[lore-twelfthloss|The Loss of the Twelfth]]), and the provinces that stop obeying one at a time. The masters mark the three as later, and the boys recite them anyway, because the boys learn the book from the masters' copies.
 
-The poem opens on the two words every schoolboy can say: _Thîrûthrimân sôrimâmên_, "the hallowed boundary I sing."
+The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen_, "the hallowed boundary I sing."
 
 : The Walking of the Line {#line}
 
 ```poetry {form=epic lang=en}
 The hallowed boundary I sing, and the one who walked it, and the stones
 set down in the grass of the six hills before a wall stood on any of them.
-Keeper of the open book, Mârendâs, who hold what was written and what was not,
+Keeper of the open book, Marendas, who hold what was written and what was not,
 open the page at that morning and read it to me, and I will say it after you.
 And let me say first why I give no name. The record gives none. I give none.
 Let the setters of the stones be sung, and the priests who carried the cords;
@@ -168,7 +168,7 @@ each house for its own, all day, and the road below was white with the chests of
 and the wives of the old houses stood on the road by the chests and lamented,
 and the Senator's wife stood there among them, whom the poem does not name either,
 and she did not lament, but stood by the mother's chest with her hand on it.
-And that is why the tombs of Ôrzâra stand along the roads outside the city,
+And that is why the tombs of Orzara stand along the roads outside the city,
 from the meanest pauper's trench to the house of the highest line:
 because on the morning of the line the Senator carried out the fathers first.
 Remember it, sons of the houses, when you pour the wine at the roadside tombs.
@@ -211,8 +211,8 @@ The hallowed boundary I have sung. Keeper of the open book, close the page.
 
 ## See Also
 
-- [[lore-eaglecityrse|The Raising of the Eagle City]]—the walling of the crown and the walking of the thîrûthrimâ
-- [[lore-thefounding|The Founding]]—the Senator who became the first Ôrzâs, and the name the record does not give
+- [[lore-eaglecityrse|The Raising of the Eagle City]]—the walling of the crown and the walking of the thrima
+- [[lore-thefounding|The Founding]]—the Senator who became the first Orzas, and the name the record does not give
 - [[place-sixhillsvyl|The Six Hills]]—the hills the line goes round
 - [[lore-ardavondty|Árdavon]]—the Keeper of the Gates and the two faces
 - [[lore-restorehouse|The Restoration]]—the house the poem was made for

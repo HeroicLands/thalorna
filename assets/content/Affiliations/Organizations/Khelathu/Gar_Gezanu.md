@@ -14,12 +14,12 @@ data:
   governance:
     model: bureaucracy
     summary: >-
-      The imperial service that collects the Gar-Aû's dues and enforces the law of trade, its assessors weighing and taxing goods at the point of sale or transit. It treats the taking of anything unweighed as theft.
+      The imperial service that collects the Gar-Au's dues and enforces the law of trade, its assessors weighing and taxing goods at the point of sale or transit. It treats the taking of anything unweighed as theft.
     ranks:
       - level: 0
         title: Dismissed the Service
         description: >-
-          An assessor stripped of the power to weigh and tax goods, and answerable for what was taken in the Gar-Aû's name.
+          An assessor stripped of the power to weigh and tax goods, and answerable for what was taken in the Gar-Au's name.
       - level: 1
         title: Assessor
         description: >-
@@ -38,7 +38,7 @@ data:
 
 ## Overview
 
-Anything taken unweighed is stolen. That is the whole law of **Gar-Gezanu**, the imperial service that collects the [[lore-garauu|Gar-Aû]]'s dues and enforces the law of trade across [[place-aukhelathrgq|Aû'Khelâthu]], and its assessors apply it at the point of sale or transit, with no regard for the taker's reasons. A weighmaster is therefore a fixture at every market and ford worth taxing, and a merchant who moves goods around the assessors rather than through them is, by the service's own definition, already a thief.
+Anything taken unweighed is stolen. That is the whole law of **Gar-Gezanu**, the imperial service that collects the [[lore-garauu|Gar-Au]]'s dues and enforces the law of trade across [[place-aukhelathrgq|Au'Khelathu]], and its assessors apply it at the point of sale or transit, with no regard for the taker's reasons. A weighmaster is therefore a fixture at every market and ford worth taxing, and a merchant who moves goods around the assessors rather than through them is, by the service's own definition, already a thief.
 
 ## Character
 
@@ -48,7 +48,7 @@ Treat the scale as a gate. Goods go through it, never around it.
 
 ## Relations
 
-For most merchants the weighmaster is the face of the throne. Gar-Gezanu collects the Gar-Aû's dues across [[place-aukhelathrgq|Aû'Khelâthu]], and it does so at the places where goods change hands or cross water, which is why a weighmaster keeps the service's weights at every market and ford worth taxing. A trader who argues with an assessor is arguing with the sovereign's own accounts.
+For most merchants the weighmaster is the face of the throne. Gar-Gezanu collects the Gar-Au's dues across [[place-aukhelathrgq|Au'Khelathu]], and it does so at the places where goods change hands or cross water, which is why a weighmaster keeps the service's weights at every market and ford worth taxing. A trader who argues with an assessor is arguing with the sovereign's own accounts.
 
 ## Commerce and Currency
 
@@ -58,6 +58,6 @@ The business of the service is weighing and taxing goods at the point of sale or
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—The empire it collects for
-- [[lore-garauu|Gar-Aûu]]—The sovereigns whose dues it collects
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—The empire it collects for
+- [[lore-garauu|Gar-Auu]]—The sovereigns whose dues it collects

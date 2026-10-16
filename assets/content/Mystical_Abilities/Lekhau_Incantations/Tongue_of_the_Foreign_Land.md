@@ -15,6 +15,6 @@ sohl:
 ---
 
 Works on the living speaker's meaning rather than on the language, so it fails on writing, on
-recordings and on anything said by someone who does not know what they are saying. Khelâthi envoys
+recordings and on anything said by someone who does not know what they are saying. Khelathi envoys
 use it and are trained never to rely on it in a negotiation, on the reasoning that a treaty is a
 document and the working does not read.

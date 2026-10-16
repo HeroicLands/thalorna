@@ -1,6 +1,6 @@
 ---
 shortcode: giantslayers
-name: {full: The Lay of the Giant Slayers, aliases: [Dorgbán drúnga]}
+name: {full: The Lay of the Giant Slayers, aliases: [Dorgbán drunga]}
 type: lore
 subType: literature
 description: "The lay a landing kindred recites at Waldburg under the market peace: the people coming out of the east over the grass to a wood the giants held, Brunjulf's vow and the crossing on the ice, the last giant brought down at the ford and given a mound, and the Deepwood's answer that the people came out of the oaks as well."
@@ -8,7 +8,7 @@ tags: [draft, vrystwald]
 data:
   culture: varokhiclt
   packFolder: settinglore
-  form: drúnga
+  form: drunga
   subjects:
     - lore-takingwood
     - lore-wintertally
@@ -22,13 +22,13 @@ data:
 # terran_analog: "The Hildebrandslied's long line and its foreboding; the ancestor-songs of the Goths that Jordanes reports; Hlöðskviða's battle at the edge of the wood; the contest of two poets answering each other in public, from the legend of Hesiod and Homer at the funeral games of Amphidamas. Departs: the conquered are never named, and the rival does not deny the lay but sets a second account beside it."
 ---
 
-**The Lay of the Giant Slayers**, _Dorgbán drúnga_, is the lay of a landing kindred that calls itself the **Dorgbán**, the Giant Slayers. Its reciter gives it at [[place-waldburg|Waldburg]] under the market peace, standing on the landing boards between the boat-sheds with a staff to keep the time, to whoever has furs or grain to wait over. Its giants belong to the age the reciters call Before the Kindreds and its crossing to the age that follows it ([[lore-wintertally|The Tally of Winters]]). It tells how the people came out of the east over open grass to a forest the _dorg_ (giants) held, how a boy with no name yet vowed before the war-band to win the giants' ford, how the band crossed the river on the ice in _grema_ (deep winter) and he brought the last giant down at the ford, and why the Dorgbán say a giant at the head of their dead every Weskskald, before the oldest name of their own. The reciter holds it word for word from the man who held it before him, claims the line of reciters back to one who stood at the ford, and points to the kindred's mound at that ford as the lay's proof.
+**The Lay of the Giant Slayers**, _Dorgbán drunga_, is the lay of a landing kindred that calls itself the **Dorgbán**, the Giant Slayers. Its reciter gives it at [[place-waldburg|Waldburg]] under the market peace, standing on the landing boards between the boat-sheds with a staff to keep the time, to whoever has furs or grain to wait over. Its giants belong to the age the reciters call Before the Kindreds and its crossing to the age that follows it ([[lore-wintertally|The Tally of Winters]]). It tells how the people came out of the east over open grass to a forest the _dorg_ (giants) held, how a boy with no name yet vowed before the war-band to win the giants' ford, how the band crossed the river on the ice in _grema_ (deep winter) and he brought the last giant down at the ford, and why the Dorgbán say a giant at the head of their dead every Weskskald, before the oldest name of their own. The reciter holds it word for word from the man who held it before him, claims the line of reciters back to one who stood at the ford, and points to the kindred's mound at that ford as the lay's proof.
 
 The lay names no people but its own and the giants. [[lore-takingwood|The Taking of the Wood]] gives the history the tellings keep in two accounts at once, one in which the people came out of the east and one in which they came out of the oaks, and the market custom lets a rival answer a lay. Where this one reaches the giant at the head of the dead, a reciter of [[place-dunkelwald|Dunkelwald]] in the [[place-vethwald|Deepwood]], whenever one is at the market, stands up by custom and gives the other account, and the Dorgbán reciter finishes his stanza after it. The objection is given below in full where it falls.
 
-: Dorgbán drúnga {#dorgbandrunga}
+: Dorgbán drunga {#dorgbandrunga}
 
-```poetry {form=drúnga lang=en}
+```poetry {form=drunga lang=en}
 _The reciter of the Dorgbán:_
 
 Stand off from the boats.    Let the staff have the boards.
@@ -118,15 +118,15 @@ is a thing every man who heard it    has to carry down the bank.
 
 **Balthgar** said: you are young for it.    And then: the band goes too.
 Nobody said the ford was not worth it.    The children were eating the horses.
-**Fródhelm** struck the ground once    and said he would keep the words,
+**Frodhelm** struck the ground once    and said he would keep the words,
 and from that strike the count begins,    the first fall of the staff.
 
 These went down the bank with him.    I give them as I have them.
-**Arnulf** went, who had killed a bear    with a spear that broke
+**Erthulf** went, who had killed a bear    with a spear that broke
 and finished it with the half.    Balthgar went, the eldest,
 who had buried three wives and said    he would not bury a fourth.
 
-**Dómwin** went, and **Druthric**,    who were one mother's
+**Domwin** went, and **Druthrik**,    who were one mother's
 and did not speak to each other    and were never apart.
 **Erthran** went, who read the signs,    the birds and the wind turning,
 and read them wrong once,    and the once was on the ice.
@@ -136,12 +136,12 @@ two spears because he threw one    and liked to have another.
 **Grimhár** went in a war-mask    he was never seen out of.
 Some said there was no face under it.    He never said.
 
-**Hildric** went, who laughed.    Mark him. He laughed at the river,
+**Hildrik** went, who laughed.    Mark him. He laughed at the river,
 he laughed at the cold, he laughed    at the dark under the trees,
 and the band was glad of his laughing    for the most of the way,
 and there came a night    they were not glad of it.
 
-**Mahnrád** went, and **Sundgar**,    and **Wulfhár** with the dogs,
+**Mahnrád** went, and **Sundgar**,    and **Dorghár** with the dogs,
 three dogs that would not go in the wood    and were left on the grass,
 and he went in without them    and never kept dogs again.
 **Thalwin** went.    Thalwin carried the water.
@@ -156,7 +156,7 @@ he had the dogs' meat in his pack    and he shared it on the ice.
 The eldest say him in the dark    as "the one with the meat",
 and he answers to that, if he answers,    and it has had to do.
 
-And Fródhelm went, the old reciter,    who went to see,
+And Frodhelm went, the old reciter,    who went to see,
 because a lay is not made    by a man who stayed at the fire;
 and he did not fight, and he did not carry,    and he came back,
 and what he came back with    is what I am giving you.
@@ -176,9 +176,9 @@ There was no helm.    He went bare-headed,
 and Erthran cut his hair close    so a hand would find less,
 and Grimhár looked at him a long while    through the mask and said nothing.
 
-Wulfhár gave him a strip of dog-hide    to bind the spear-hand.
-Hildric gave him a laugh    and a shove toward the fire.
-Thalwin gave him water.    Fródhelm gave him nothing,
+Dorghár gave him a strip of dog-hide    to bind the spear-hand.
+Hildrik gave him a laugh    and a shove toward the fire.
+Thalwin gave him water.    Frodhelm gave him nothing,
 and watched where he put his feet,    and kept the count of them.
 
 They did not go at the ford.    The ford never froze across;
@@ -188,20 +188,20 @@ and lay down in _grema_    under a lid a man could walk on.
 
 Erthran read the ice.    He walked it first alone
 and came back, and led them out onto it    one behind the other,
-Dómwin at his heel    and the rest in his steps,
+Domwin at his heel    and the rest in his steps,
 and in the middle of the river    the ice went off like a split tree.
 
-It went off under Dómwin.    He went in to the chest.
-Druthric had him by the hair    before the water had him,
+It went off under Domwin.    He went in to the chest.
+Druthrik had him by the hair    before the water had him,
 and they lay on the gray ice    the two of them, side by side,
 and that was the one time, first to last,    that the two of them touched.
 
 Erthran had read it wrong.    He said so on the far bank
 in front of the band, as a wrong is said,    and nobody answered him,
-because Dómwin was alive    and his clothes were freezing on him,
+because Domwin was alive    and his clothes were freezing on him,
 and a wrong that is said aloud    is a wrong that is half carried.
 
-They made no fire on the bank.    They put Dómwin in the middle
+They made no fire on the bank.    They put Domwin in the middle
 of all of them, lying close,    the way cattle lie in snow,
 and Thalwin's water froze in the skin    and he kept it under his coat,
 and over them the giants' trees,    and not a man slept under them.
@@ -212,7 +212,7 @@ and they walked into the long night    with the river on their left hand,
 and every tree they passed    was a thing that might turn and look.
 
 The cold was the kind that is quiet.    They walked in it without talk.
-Dómwin walked with his clothes frozen    in the shape of the river,
+Domwin walked with his clothes frozen    in the shape of the river,
 and Mahnrád walked behind him    and broke the ice off him as it formed,
 and it formed again    before the next tree.
 
@@ -222,7 +222,7 @@ asleep on its feet by the herd,    leaning like a dead pine.
 The third time he said nothing,    and showed them his hand, and it was shaking.
 
 They came on the first in the dark.    It did not wake quickly.
-Arnulf's spear went in under the arm    and it did not wake then,
+Erthulf's spear went in under the arm    and it did not wake then,
 and Garbán's went in beside it    and it woke, and looked at them,
 and the looking took so long    that Garbán had time to throw the other.
 
@@ -252,9 +252,9 @@ and it did not come up out of the water,    it stood in it and waited,
 and Brunjulf went down the bank alone,    because that was the vow.
 
 He went down the bank alone.    The band stood in the trees.
-Hildric did not laugh.    Grimhár's mask was turned to it.
-Fródhelm counted the steps    from the trees to the water,
-and the lay says thirty,    and Fródhelm counted them.
+Hildrik did not laugh.    Grimhár's mask was turned to it.
+Frodhelm counted the steps    from the trees to the water,
+and the lay says thirty,    and Frodhelm counted them.
 
 The coat was long on him.    It came to the knee,
 and the rings gave back the gray    there was of the morning.
@@ -263,7 +263,7 @@ and the thing in the water    put out a hand the width of a door.
 
 He went under the hand.    That is the deed. Mark it.
 He did not go round it and he did not stand,    he went in under it,
-in under the arm where Arnulf's spear    had found the first one,
+in under the arm where Erthulf's spear    had found the first one,
 and the spear went in there,    and the rings on his back took the hand.
 
 The hand closed on the coat.    The coat held. The rings held.
@@ -301,7 +301,7 @@ nothing said before a witness,    nothing taken or given.
 It had killed his father on the bank,    or one like it had,
 and it was in the water on its knees    asking for a mound.
 
-Hildric laughed. He laughed first.    Then Garbán, then the rest,
+Hildrik laughed. He laughed first.    Then Garbán, then the rest,
 and it was a good laugh, there in the gray,    with the thing kneeling
 and the cattle coming down to look    and the ford won,
 and before the sun was up    they would have given the ford back not to have laughed.
@@ -314,7 +314,7 @@ into the water, and the water took it    down to the ice.
 The cattle on the far bank    stood and looked at the place
 and did not go away,    and did not go away the next day either.
 The band made a fire on the bank at last    and banked it for the night,
-and the _glóth_ went out.    Thalwin banked it twice,
+and the _gloth_ went out.    Thalwin banked it twice,
 
 and twice the ash went cold    with the coals under it,
 and the third time nobody banked it,    and they sat in the dark.
@@ -328,7 +328,7 @@ and this time he read them right,    and would have had the ice back.
 
 What came up the bank in the night    the lay does not give a shape.
 It gives the fire that would not bank,    and the horses, and the cattle looking,
-and it gives Hildric, who got up    in the dark and walked to the water,
+and it gives Hildrik, who got up    in the dark and walked to the water,
 and in the first gray they found him there    on the ice, face down, dry, not a mark on him.
 
 Not a mark. Not a wound. Not a wet hair.    He had walked to the edge of the ice
@@ -352,11 +352,11 @@ and the hand that had held him    they laid across its chest
 the way it had laid it itself    when it asked.
 
 And they went back for Balthgar    and burned him on the bank
-with his axe, as a warrior is burned,    and Hildric they burned beside him,
+with his axe, as a warrior is burned,    and Hildrik they burned beside him,
 and the two fires and the one mound    were the first of ours in the wood,
 and that is the **Dorghróm**,    and the ford has had it since.
 
-They named him on the bank.    Fródhelm gave the name
+They named him on the bank.    Frodhelm gave the name
 as a reciter gives it, aloud,    and the band said it after him:
 Brunjulf. The coat, and what was in it.    The rings, and the wolf in the rings.
 He went down the bank without a name    and came up with that one, and the ford.
@@ -373,7 +373,7 @@ the eldest says first, before any name,    before his own father's:
 
 Brunjulf said it first that winter    on the bank, in the snow,
 and his father's name after it,    **Brunjár**, who had come back on the cloak,
-and Balthgar after him, and Hildric,    and the band said them after him,
+and Balthgar after him, and Hildrik,    and the band said them after him,
 and the fire banked that night,    and the coals were there at morning.
 
 The cattle came over in the thaw.    Nobody drove them.
@@ -446,5 +446,5 @@ Hear it next year who will.    I will have it the same.
 - [[lore-takingwood|The Taking of the Wood]]—the history the lay and its answer keep in two accounts
 - [[lore-wintertally|The Tally of Winters]]—Before the Kindreds, the age of the _dorg_
 - [[place-waldburg|Waldburg]]—the market whose peace lets a rival answer a lay
-- [[place-vethhrom|Véthhróm]]—the Deepwood's oldest mound, which the answer calls on
+- [[place-vethhrom|Vethhrum]]—the Deepwood's oldest mound, which the answer calls on
 - [[lore-varokhiclt|Varokhi]]—the vow before the war-band, the mounds and Weskskald

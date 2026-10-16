@@ -1,9 +1,9 @@
 ---
 shortcode: flirnynda
-name: {full: Flirnynda, aliases: [Master Flirnynda]}
+name: {full: Flirninda, aliases: [Master Flirninda]}
 type: being
 subType: npc
-description: An elderly healer and philosopher who claims to train broken warriors in methods of meditation and honor, named in Thraldorv Vörnheim.
+description: An elderly healer and philosopher who claims to train broken warriors in methods of meditation and honor, named in Thraldorv Vornheim.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Flirnynda is a 49-year-old woman who stands 5'8" tall with a heavy build. She has fair skin, scarred complexion, dark blonde hair, and blue eyes.
+Flirninda is a 49-year-old woman who stands 5'8" tall with a heavy build. She has fair skin, scarred complexion, dark blonde hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Flirnynda is an elderly healer and philosopher who claims to train broken warriors in methods of meditation and honor. She offers Thraldorv a path to spiritual redemption. Flirnynda is named in [[being-thrldrvvrnhm|Thraldorv Vörnheim]].
+Flirninda is an elderly healer and philosopher who claims to train broken warriors in methods of meditation and honor. She offers Thraldorv a path to spiritual redemption. Flirninda is named in [[being-thrldrvvrnhm|Thraldorv Vornheim]].

@@ -20,10 +20,10 @@ data:
 
 The [[lore-legionsroad|Legions' Road]] went where its engineers wanted except at Fródhaven, where it bends around the village's sacred shelter, and the bend is still in the ruts. The village tells it as the one time the legions were made to ask, and the tellings disagree about what the village was paid.
 
-[[being-vndrcgrwld|Vandaric yra Garwald wur Fródhaven]] of the [[affiliation-blckpnwlvs|Blackpine Wolves]] bears the village's name.
+[[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]] of the [[affiliation-blckpnwlvs|Blackpine Wolves]] bears the village's name.
 
 ## See Also
 
 - [[place-vandstein|Vandstein]]—the reach around the village
 - [[lore-legionsroad|The Legions' Road]]—the road that bends around it
-- [[being-vndrcgrwld|Vandaric yra Garwald wur Fródhaven]]—a confidence man of the Blackpine Wolves
+- [[being-vndrcgrwld|Vandarik yra Garwald wur Fródhaven]]—a confidence man of the Blackpine Wolves

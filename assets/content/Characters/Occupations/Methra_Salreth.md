@@ -1,6 +1,6 @@
 ---
 shortcode: methrzlrth
-name: {full: Méthra Sálreth, aliases: []}
+name: {full: Methra Salreth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Méthra Sálreth is a 22-year-old woman who stands 5'11" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a rounded jaw that leads to a delicate chin. Her round green eyes sit beneath expressive brows, lending her a candid gaze. A slightly upturned nose and expressive lips complete her features. She has pale skin with a fair complexion. Her brown hair is swept up and held with carved combs.
+Methra Salreth is a 22-year-old woman who stands 5'11" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a rounded jaw that leads to a delicate chin. Her round green eyes sit beneath expressive brows, lending her a candid gaze. A slightly upturned nose and expressive lips complete her features. She has pale skin with a fair complexion. Her brown hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Méthra Sálreth came into the world of the laborer (unskilled) through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Methra Salreth came into the world of the laborer (unskilled) through a combination of circumstance and aptitude.
 
-Méthra is a hardworking young woman who assists in various labor jobs around her village. She enjoys working with her hands and has developed skills in farming and crafting. Despite her lighter frame, she is determined and has a strong work ethic. Méthra is known for her friendly disposition and ability to uplift those around her, making her popular among her peers.
+Methra is a hardworking young woman who assists in various labor jobs around her village. She enjoys working with her hands and has developed skills in farming and crafting. Despite her lighter frame, she is determined and has a strong work ethic. Methra is known for her friendly disposition and ability to uplift those around her, making her popular among her peers.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Lacks physical strength compared to others, sometimes takes on too much work.
 
 ### Motivation
 
-Méthra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in laborer (unskilled) work keep her vigilant and adaptable.
+Methra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in laborer (unskilled) work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Skilled in various tasks, positive attitude, adaptable.
 
 ## Social
 
-Méthra is affiliated with Local Laborers' Union.
+Methra is affiliated with Local Laborers' Union.
 
-As a Élavendri laborer (unskilled), Méthra occupies a recognized social niche within Élavendre society.
+As a Élavendri laborer (unskilled), Methra occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Méthra's primary patron is Local farmers and artisans who appreciate her help. This relationship provides both opportunity and obligation.
+Methra's primary patron is Local farmers and artisans who appreciate her help. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Few; generally well-liked in the community.
 
 ## Plot Hooks
 
-1. **The Laborer (unskilled)'s Dilemma**—Méthra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
+1. **The Laborer (unskilled)'s Dilemma**—Methra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 
 2. **Old Grudges**—Few; generally well-liked in the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Méthra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Methra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Méthra depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Élavendre threaten to upend the social order that Methra depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Méthra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Methra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

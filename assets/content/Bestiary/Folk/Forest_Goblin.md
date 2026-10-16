@@ -258,7 +258,7 @@ A branch moves overhead that the wind did not move. Then it is still, and there 
 
 # Dossier {#dossier}
 
-The Forest Goblin is a [[lore-goblinfolk|goblin]] of the deep woods: a small, wiry, sapient hunter, three to four feet tall, quick, clever and fiercely individualistic, which follows its own hunger, its own amusement and its own standing among its kind, and a trickster god. Forest goblins live as solitary hunters and in loose, short-lived bands, hunt everything, set traps for everything, lie easily, poison their arrows and blades, and treat outsiders as prey, entertainment or trade goods, as the moment suits. The goblin clans keep their own territories in the deep [[place-vrystwald|Vrystwald]], and the deepest of them is the [[place-vethwald|Véthwald]], the densely canopied Deepwood in the forest's interior.
+The Forest Goblin is a [[lore-goblinfolk|goblin]] of the deep woods: a small, wiry, sapient hunter, three to four feet tall, quick, clever and fiercely individualistic, which follows its own hunger, its own amusement and its own standing among its kind, and a trickster god. Forest goblins live as solitary hunters and in loose, short-lived bands, hunt everything, set traps for everything, lie easily, poison their arrows and blades, and treat outsiders as prey, entertainment or trade goods, as the moment suits. The goblin clans keep their own territories in the deep [[place-vrystwald|Vristwald]], and the deepest of them is the [[place-vethwald|Vethwald]], the densely canopied Deepwood in the forest's interior.
 
 ## Presentation
 
@@ -266,7 +266,7 @@ A forest goblin stands three to four feet tall, wiry and long-limbed, built for 
 
 ## In the Land
 
-The Vrystwald is the forest-and-river belt between the Nordlands, Aurèldía and Velanthia, taiga and mixed woodland and slow rivers, and the [[lore-varokhiclt|Varokh]] hold most of it. The goblins hold the parts nobody else wants: the Véthwald's interior, where the canopy shuts out the sun, the deep hollows and the bogs, and the marginal woods between the settled districts. Each goblin hunts its own ground through the trees and keeps its own lairs, a hollow trunk here, a platform in a canopy there, and bands form and dissolve with the hunting. They take deer, pigs, birds, the Varokh villages' stock and the travelers on the rivers, and they trade with anyone who has something they want and is not stupid.
+The Vristwald is the forest-and-river belt between the Nordlands, Aureldia and Velanthia, taiga and mixed woodland and slow rivers, and the [[lore-varokhiclt|Varokh]] hold most of it. The goblins hold the parts nobody else wants: the Vethwald's interior, where the canopy shuts out the sun, the deep hollows and the bogs, and the marginal woods between the settled districts. Each goblin hunts its own ground through the trees and keeps its own lairs, a hollow trunk here, a platform in a canopy there, and bands form and dissolve with the hunting. They take deer, pigs, birds, the Varokh villages' stock and the travelers on the rivers, and they trade with anyone who has something they want and is not stupid.
 
 ## Key Behaviors
 
@@ -274,7 +274,7 @@ A forest goblin hunts constantly and enjoys it as much as the food. It is opport
 
 ## What the Varokh Do
 
-The Varokh villages of the Vrystwald share their forest with the goblins and have done so as long as anyone remembers. They do not try to clear them out, because nobody has ever found all of them; they keep their stock penned, walk the paths near the Deepwood in company, and look up. A Varokh hunter crossing goblin ground leaves a small gift at a tree where a goblin can see it, a twist of salt, a bright button, a bit of honeycomb, and is usually let through, and a hunter who forgets is usually robbed and occasionally found dead in a pit. River traders buy goblin-taken furs at the forest landings from goblin middlemen, and count their coins twice. The Varokh say that a goblin's word is good until it gets bored.
+The Varokh villages of the Vristwald share their forest with the goblins and have done so as long as anyone remembers. They do not try to clear them out, because nobody has ever found all of them; they keep their stock penned, walk the paths near the Deepwood in company, and look up. A Varokh hunter crossing goblin ground leaves a small gift at a tree where a goblin can see it, a twist of salt, a bright button, a bit of honeycomb, and is usually let through, and a hunter who forgets is usually robbed and occasionally found dead in a pit. River traders buy goblin-taken furs at the forest landings from goblin middlemen, and count their coins twice. The Varokh say that a goblin's word is good until it gets bored.
 
 ## Signs
 

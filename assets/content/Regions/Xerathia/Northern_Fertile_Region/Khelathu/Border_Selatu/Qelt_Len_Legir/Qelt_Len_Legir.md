@@ -3,7 +3,7 @@ shortcode: qeltlenlegirnome
 name: {full: Qelt-Len-Legir, aliases: []}
 type: place
 subType: region
-description: "Forward southern forts beyond the first cataract; the empire's hardest postings—the land of the Selat of Qelt-Len-Legir, one of the border selatu of Aû'Khelâthu."
+description: "Forward southern forts beyond the first cataract; the empire's hardest postings—the land of the Selat of Qelt-Len-Legir, one of the border selatu of Au'Khelathu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -17,11 +17,11 @@ data:
 
 ## Overview
 
-**Qelt-Len-Legir** is the empire's farthest forward country, and the land of the [[affiliation-seltqltlnlgr|Selat of Qelt-Len-Legir]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Qelt-Len-Legir** is the empire's farthest forward country, and the land of the [[affiliation-seltqltlnlgr|Selat of Qelt-Len-Legir]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
-The forts stand beyond the first cataract and the fortress of [[place-balehen|Balehen]], and an officer sent here has been sent as far from the heartland as the empire reaches. Among them lie the ordinary [[lore-khelathiclt|Khelâthi]] villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals; they are the people the forts exist to cover.
+The forts stand beyond the first cataract and the fortress of [[place-balehen|Balehen]], and an officer sent here has been sent as far from the heartland as the empire reaches. Among them lie the ordinary [[lore-khelathiclt|Khelathi]] villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals; they are the people the forts exist to cover.
 
 ## Settlements
 
@@ -31,5 +31,5 @@ The forts stand beyond the first cataract and the fortress of [[place-balehen|Ba
 ## See Also
 
 - [[affiliation-seltqltlnlgr|The Selat of Qelt-Len-Legir]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
 - [[place-qeltlen|Qelt-Len]]—Selat capital

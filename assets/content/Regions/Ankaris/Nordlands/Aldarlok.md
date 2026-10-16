@@ -8,17 +8,17 @@ tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-"The gods know how it ends," a skald tells the hall on the last night of [[lore-jol|Jól]] before she begins the telling, "and they stand anyway." She means Aldarlok, the close of the age. The word is built plainly—_aldar_, the age's, and _lok_, a close—and what it names is the end of this age, not the end of everything. The ages turn in a ring, the [[lore-aldarhringr|Aldarhringr]], and the north keeps that distinction exact. The skalds' kenning is the Fall of the Ash, after [[lore-heimsask|Heimsask]], the world-ash rooted in [[place-asguard|Asguard]] and crowned over [[place-worldthlrn|Mannguard]], whose burning takes both worlds down together.
+"The gods know how it ends," a skald tells the hall on the last night of [[lore-jol|Jel]] before she begins the telling, "and they stand anyway." She means Aldarlok, the close of the age. The word is built plainly—_aldar_, the age's, and _lok_, a close—and what it names is the end of this age, not the end of everything. The ages turn in a ring, the [[lore-aldarhringr|Aldarhringr]], and the north keeps that distinction exact. The skalds' kenning is the Fall of the Ash, after [[lore-heimsask|Heimsask]], the world-ash rooted in [[place-asguard|Asguard]] and crowned over [[place-worldthlrn|Mannguard]], whose burning takes both worlds down together.
 
-The claim the whole faith rests on is that the gods know. This is not a doom concealed from the Ten and revealed to their priests; it is a thing [[affiliation-odvar|Ódvar]] went to considerable lengths to learn, and what he learned is that he dies. The gods keep their halls, take their blót, hold their oaths and gather the honored dead knowing the muster fails. The Asguardian answer to this is not despair and is not resignation. It is defiance, and the north's highest estimate of a man is reserved for one who fights well in a cause already lost. A Nordman's funeral praise turns on how a man met a thing and not on what he won by it.
+The claim the whole faith rests on is that the gods know. This is not a doom concealed from the Ten and revealed to their priests; it is a thing [[affiliation-odvar|Odvar]] went to considerable lengths to learn, and what he learned is that he dies. The gods keep their halls, take their blet, hold their oaths and gather the honored dead knowing the muster fails. The Asguardian answer to this is not despair and is not resignation. It is defiance, and the north's highest estimate of a man is reserved for one who fights well in a cause already lost. A Nordman's funeral praise turns on how a man met a thing and not on what he won by it.
 
-The standard telling is fixed in its order and is sung whole at [[lore-jol|Jól]]. The gate of [[place-eldheim|Eldheim]] opens and [[affiliation-svartbrandr|Svartbrandr]] rides out with his fire-kin; [[lore-vetrulfr|Vetrúlfr]] the Winter-Wolf slips his chain and the wolf-winter comes down; [[place-valsal|Valsal]] and [[place-solvangr|Sólvangr]] empty and the [[lore-valdrengir|Valdrengir]] draw up on the plain of [[place-vigvoll|Vígvöll]] beside the defending gods. [[lore-odvardty|Ódvar]] falls to the wolf and the wolf falls to his son, [[lore-tvelgaett|Aldvar]]. [[affiliation-thrunvald|Thrúnvald]] strikes [[lore-heimsormr|Heimsormr]] the World-Wyrm, walks nine steps and dies of its venom. [[affiliation-eidgar|Eidgar]] and his long-chained adversary, the hound [[lore-dulmvargr|Dulmvargr]], destroy each other together, [[affiliation-frodvin|Fródvin]] goes down to [[lore-svartbrandrdty|Svartbrandr]], and Svartbrandr burns what is left. The ash falls last.
+The standard telling is fixed in its order and is sung whole at [[lore-jol|Jel]]. The gate of [[place-eldheim|Eldheim]] opens and [[affiliation-svartbrandr|Svartbrandr]] rides out with his fire-kin; [[lore-vetrulfr|Vetrúlfr]] the Winter-Wolf slips his chain and the wolf-winter comes down; [[place-valsal|Valsal]] and [[place-solvangr|Solvangr]] empty and the [[lore-valdrengir|Valdrengir]] draw up on the plain of [[place-vigvoll|Vigvoll]] beside the defending gods. [[lore-odvardty|Odvar]] falls to the wolf and the wolf falls to his son, [[lore-tvelgaett|Aldvar]]. [[affiliation-thrunvald|Thrunvald]] strikes [[lore-heimsormr|Heimsormr]] the World-Wyrm, walks nine steps and dies of its venom. [[affiliation-eidgar|Eidgar]] and his long-chained adversary, the hound [[lore-dulmvargr|Dulmvargr]], destroy each other together, [[affiliation-frodvin|Frodvin]] goes down to [[lore-svartbrandrdty|Svartbrandr]], and Svartbrandr burns what is left. The ash falls last.
 
 The telling does not stop at the fire. Out of the ashes a remnant rises, and a remade world is kindled from the coals—a world with ground, weather, people and gods in it, and the tellings are unhurried and domestic about the first morning of it. The remnant does not include the Ten. What inherits the new age is the gods' heirs, the [[lore-tvelgaett|Tvelgaett]], which is the whole of the comfort the doctrine offers and is not offered as comfort at all: the pantheon that now stands ends, and something of its making does not.
 
 The rune-priests hold that the great nelth is not a script. Fate is layered rather than written, several of its branchings are choices nobody has yet made, and some part of the outcome may still be shifted by the conduct of those alive in the final age. What may be shifted is never stated—whether a god is spared, whether the fire stops short of some corner of the world, whether the remnant is larger—and the priesthood declines to narrow it, holding that a promised reward would corrupt the conduct the doctrine is asking for. The practical effect is that the north treats the end as a thing worth behaving well in front of, and the doctrine is a call to action rather than a schedule to wait out.
 
-The whole of it gives the faith its gravity and its particular cheerfulness. A people expecting the world to end are grave rather than cynical, the feast is sweeter for being temporary, and the oath is heavier for being sworn under the last fire. It also decides what the north counts as wickedness. The corruption of Svartbrandr's extreme adherents, the appetites [[affiliation-nahild|Náhild]] feeds on, and the slow rot of broken oaths count in this reckoning as sins and as accelerations, and what they cut away at is the time the defending gods have left.
+The whole of it gives the faith its gravity and its particular cheerfulness. A people expecting the world to end are grave rather than cynical, the feast is sweeter for being temporary, and the oath is heavier for being sworn under the last fire. It also decides what the north counts as wickedness. The corruption of Svartbrandr's extreme adherents, the appetites [[affiliation-nahild|Nahild]] feeds on, and the slow rot of broken oaths count in this reckoning as sins and as accelerations, and what they cut away at is the time the defending gods have left.
 
 : While the Ash Stands
 
@@ -44,7 +44,7 @@ this age has a close.
 
 The gods know doom;
 the gods go onward.
-Ódvar sought wisdom,
+Odvar sought wisdom,
 and saw his dying.
 Still stands his high seat;
 still guests are gathered.
@@ -84,7 +84,7 @@ Broken oaths bite
 at the years remaining.
 Trust rots slowly;
 the roof beam weakens.
-Náhild's appetites
+Nahild's appetites
 nourish the darkness.
 The cruel fire faithful
 feed ruin's hunger.
@@ -141,8 +141,8 @@ on the last muster.
 
 From Valsal go forth
 the worthy together.
-From Sólvangr come
-those Sólrún gathered.
+From Solvangr come
+those Solrún gathered.
 Tables stand empty;
 the benches are silent.
 Hands leave cups
@@ -151,14 +151,14 @@ Warriors, oath-keepers,
 mothers and makers:
 honor held dear
 at the cost of dying.
-Vígvöll waits;
+Vigvoll waits;
 the defenders draw up.
 The gods hide nothing;
 the dead stand firm.
 Their feet make the field
 a witness of choosing.
 
-Ódvar goes forward;
+Odvar goes forward;
 the Winter-Wolf meets him.
 Wisdom goes down
 in the wolf's great mouth.
@@ -166,7 +166,7 @@ The son meets Vetrúlfr;
 the wolf falls after.
 Death follows death;
 the hall must hear both.
-Thrúnvald lifts hammer;
+Thrunvald lifts hammer;
 Heimsormr rises.
 The World-Wyrm falls
 to the Thunderer's striking.
@@ -181,7 +181,7 @@ Eidgar goes onward,
 the oath god armed,
 to his long-chained foe;
 both fall together.
-Fródvin goes forth,
+Frodvin goes forth,
 the field's healing promise,
 where Svartbrandr comes
 with the fire blade burning.

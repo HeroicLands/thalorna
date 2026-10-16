@@ -396,7 +396,7 @@ The papyrus closes over the channel so that the reed-boat moves through a green 
 
 # Dossier {#dossier}
 
-The Swampgolem is a dreadspawn made of the marsh itself: a giant twelve to sixteen feet tall and many tons in weight, built of mud, clay, rotting reed and the bones of drowned things, which holds a stretch of swamp and crushes and drowns whatever threatens it. It is not quick and not clever, but it is very strong, it heals while it stands in water, and the marsh fights for it. One holds a part of the papyrus marshes of [[place-garshebztslt|Gar-Shebazet Selat]] in the delta of Aû'Khelâthu, where the fowlers work the open water and the reed-cutters cut the stems that become the empire's paper. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Swampgolem is a dreadspawn made of the marsh itself: a giant twelve to sixteen feet tall and many tons in weight, built of mud, clay, rotting reed and the bones of drowned things, which holds a stretch of swamp and crushes and drowns whatever threatens it. It is not quick and not clever, but it is very strong, it heals while it stands in water, and the marsh fights for it. One holds a part of the papyrus marshes of [[place-garshebztslt|Gar-Shebazet Selat]] in the delta of Au'Khelathu, where the fowlers work the open water and the reed-cutters cut the stems that become the empire's paper. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 

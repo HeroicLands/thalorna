@@ -251,7 +251,7 @@ The sound of the colony is the first warning. A roost in the daytime gives off a
 
 ## In the Land
 
-The Numaq lives wherever the old [[lore-towercities|light-towers]] stand in numbers, which is to say along the road from the Völketör to the Idvaqor, and above all in the central sands, where a hundred miles of road are lined with fallen towers. A tower is a good roost: tall, hollow, dark inside, with a stairwell that draws air and a wall too sheer for a predator to climb. The lamp-chamber at the crown, where the league's glass lenses once stood, is the heart of the roost. A tower may hold from a few hundred to several thousand animals, and the floor beneath it is a gray drift of old droppings, knee-deep and as light as ash.
+The Numaq lives wherever the old [[lore-towercities|light-towers]] stand in numbers, which is to say along the road from the Volketor to the Idvaqor, and above all in the central sands, where a hundred miles of road are lined with fallen towers. A tower is a good roost: tall, hollow, dark inside, with a stairwell that draws air and a wall too sheer for a predator to climb. The lamp-chamber at the crown, where the league's glass lenses once stood, is the heart of the roost. A tower may hold from a few hundred to several thousand animals, and the floor beneath it is a gray drift of old droppings, knee-deep and as light as ash.
 
 They feed over the open waste on moths, beetles and flying insects, on small birds that are caught asleep, and on the rodents of the sand. A colony will range twenty miles from its tower on a night. At the end of the night, before dawn, the animals stream back, and the dark mass of the colony pours into the tower from every side.
 
@@ -330,4 +330,4 @@ A Numaq is dazzled by strong light. A bright lamp or a torch in the face turns i
 
 ## A Hook
 
-A Byzarian factor will pay for one intact lens from the crown of a light-tower, and the tower on the nearest ridge still has its glass. The lamp-chamber is the heart of the Numaq roost. The tribe whose range holds the tower will let a party climb it only by day, in the two hours after noon, when the colony is deepest in sleep, and it will send a boy to watch the sky from the foot. A party that stays in the chamber past the middle of the afternoon is in a dark room with a colony of thousands, and a torch lit on the stair brings the whole roost down the stairwell.
+A Bizarian factor will pay for one intact lens from the crown of a light-tower, and the tower on the nearest ridge still has its glass. The lamp-chamber is the heart of the Numaq roost. The tribe whose range holds the tower will let a party climb it only by day, in the two hours after noon, when the colony is deepest in sleep, and it will send a boy to watch the sky from the foot. A party that stays in the chamber past the middle of the afternoon is in a dark room with a colony of thousands, and a torch lit on the stair brings the whole roost down the stairwell.

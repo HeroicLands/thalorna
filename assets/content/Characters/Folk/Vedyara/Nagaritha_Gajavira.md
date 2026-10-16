@@ -1,9 +1,9 @@
 ---
 shortcode: nagarithagaj
-name: {full: Nāgarītha Gajavīra, aliases: [Captain Nāgarītha]}
+name: {full: Nagarita Gajavira, aliases: [Captain Nagarita]}
 type: being
 subType: npc
-description: Captain of the City Guard, a corrupt official who pursues Dharmapāla Vimuktana with vendetta-like intensity.
+description: Captain of the City Guard, a corrupt official who pursues Darmapalda Vimuktana with vendetta-like intensity.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Nāgarītha Gajavīra is a 47-year-old man who stands 6'0" tall with a medium build. He has tawny skin, clear complexion, black hair, and brown eyes.
+Nagarita Gajavira is a 47-year-old man who stands 6'0" tall with a medium build. He has tawny skin, clear complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Nāgarītha Gajavīra is the captain of the City Guard, a corrupt official who views the independence of [[being-dhrmplvmkt|Dharmapāla Vimuktana]] from his authority as an insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
+Nagarita Gajavira is the captain of the City Guard, a corrupt official who views the independence of [[being-dhrmplvmkt|Darmapalda Vimuktana]] from his authority as an insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.

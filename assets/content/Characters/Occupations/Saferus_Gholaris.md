@@ -1,6 +1,6 @@
 ---
 shortcode: safrsghlrs
-name: {full: Sáfêrús Ghôlâris, aliases: []}
+name: {full: Sáferus Gholaris, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Sáfêrús Ghôlâris is a 52-year-old man who stands 5'9" tall and is of moderate build. He has a square face with sharp cheekbones, a lined forehead, and a square jaw that leads to a strong chin. His round dark brown eyes sit beneath prominent brows, lending him a candid gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a weathered complexion. His graying brown hair is short and swept back.
+Sáferus Gholaris is a 52-year-old man who stands 5'9" tall and is of moderate build. He has a square face with sharp cheekbones, a lined forehead, and a square jaw that leads to a strong chin. His round dark brown eyes sit beneath prominent brows, lending him a candid gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a weathered complexion. His graying brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Sáfêrús Ghôlâris came into the world of the clothier through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a noble family of Helionite heritage, Sáferus Gholaris came into the world of the clothier through a combination of circumstance and aptitude.
 
-Sáfêrús is a master clothier whose shop has served the city’s nobility for decades. He is known for crafting luxurious garments and keeps up with the latest fashions from the capital. Sáfêrús's skills have earned him a reputation, but his demanding personality and high prices have also made him few friends among his peers.
+Sáferus is a master clothier whose shop has served the city’s nobility for decades. He is known for crafting luxurious garments and keeps up with the latest fashions from the capital. Sáferus's skills have earned him a reputation, but his demanding personality and high prices have also made him few friends among his peers.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Arrogant and demanding, often dismisses potential customers who can't afford his
 
 ### Motivation
 
-Sáfêrús is driven by the desire to master his craft and secure a stable future. The uncertainties of life in clothier work keep him vigilant and adaptable.
+Sáferus is driven by the desire to master his craft and secure a stable future. The uncertainties of life in clothier work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Expertise in luxury fabrics, knowledge of fashion trends.
 
 ## Social
 
-Sáfêrús is affiliated with City Tailors' Guild, Upper-class social circles.
+Sáferus is affiliated with City Tailors' Guild, Upper-class social circles.
 
-As a Helionite clothier, Sáfêrús occupies a recognized social niche within Heliónis society.
+As a Helionite clothier, Sáferus occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Sáfêrús's primary patron is Wealthy nobles who seek the finest garments. This relationship provides both opportunity and obligation.
+Sáferus's primary patron is Wealthy nobles who seek the finest garments. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Competitors who dislike his elitist attitude.
 
 ## Plot Hooks
 
-1. **The Clothier's Dilemma**—Sáfêrús faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Clothier's Dilemma**—Sáferus faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—Competitors who dislike his elitist attitude. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Sáfêrús's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Sáferus's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Sáfêrús depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Sáferus depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Sáfêrús the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Sáferus the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -1,6 +1,6 @@
 ---
 shortcode: grthnjthrn
-name: {full: Gérthan Gútharen, aliases: []}
+name: {full: Gerthan Gútharen, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -396,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Gérthan Gútharen is a 53-year-old man who stands 6'0" tall and is of moderate build. He has a square face with sharp cheekbones, a high forehead, and a square jaw that leads to a firm chin. His sharp hazel eyes sit beneath thick brows, lending him an incisive gaze. A hawkish nose and expressive lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is kept practical and short. A notable feature is laugh lines around the eyes.
+Gerthan Gútharen is a 53-year-old man who stands 6'0" tall and is of moderate build. He has a square face with sharp cheekbones, a high forehead, and a square jaw that leads to a firm chin. His sharp hazel eyes sit beneath thick brows, lending him an incisive gaze. A hawkish nose and expressive lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is kept practical and short. A notable feature is laugh lines around the eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Gérthan Gútharen came into the world of the tentmaker through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Gerthan Gútharen came into the world of the tentmaker through a combination of circumstance and aptitude.
 
-Gérthan has been crafting tents and tarps for the military for over thirty years, earning a reputation for producing durable and weather-resistant products. He runs a busy workshop in the city, often employing apprentices to keep up with demand. Although Gérthan is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
+Gerthan has been crafting tents and tarps for the military for over thirty years, earning a reputation for producing durable and weather-resistant products. He runs a busy workshop in the city, often employing apprentices to keep up with demand. Although Gerthan is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ Resistant to change, slow to adopt new methods.
 
 ### Motivation
 
-Gérthan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in tentmaker work keep him vigilant and adaptable.
+Gerthan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in tentmaker work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -420,15 +420,15 @@ Experienced in making durable tents for harsh conditions, strong work ethic.
 
 ## Social
 
-Gérthan is affiliated with Tentmakers' Guild.
+Gerthan is affiliated with Tentmakers' Guild.
 
-As a Tarvénan tentmaker, Gérthan occupies a recognized social niche within Tarvénia society.
+As a Tarvenan tentmaker, Gerthan occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 
 ### Patrons
 
-Gérthan's primary patron is Military officials and merchants who value his sturdy products. This relationship provides both opportunity and obligation.
+Gerthan's primary patron is Military officials and merchants who value his sturdy products. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -436,12 +436,12 @@ Younger tentmakers who see him as outdated.
 
 ## Plot Hooks
 
-1. **The Tentmaker's Dilemma**—Gérthan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Tentmaker's Dilemma**—Gerthan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 
 2. **Old Grudges**—Younger tentmakers who see him as outdated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Gérthan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Gerthan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Gérthan depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Gerthan depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Gérthan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Gerthan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

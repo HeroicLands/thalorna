@@ -1,6 +1,6 @@
 ---
 shortcode: lizela
-name: {full: Lizèla, aliases: []}
+name: {full: Lizela, aliases: []}
 type: place
 subType: settlement
 description: "A southern coastal town living on shipping and the great salt flats to its east—modest, wealthy for its size, and home to minor houses whose fortunes rest on salt rather than on land."
@@ -8,26 +8,26 @@ tags: [town, coastal]
 data: {demonym: null, lore: [], parents: [korvathis], population: 6000, packFolder: provenzia}
 ---
 
-**Lizèla** lies on the warm southern coast between the great ports, a town of some six thousand
+**Lizela** lies on the warm southern coast between the great ports, a town of some six thousand
 that would be unremarkable but for what lies immediately east of it: the **salt flats**.
 
 ## The Salt
 
 The southern shore here is low, hot and shallowly tidal—the conditions that make salt—and
-Lizèla's pans are the largest in Provènzia by a wide margin. This is Vylarian-style salt-making,
+Lizela's pans are the largest in Provenzia by a wide margin. This is Vylarian-style salt-making,
 worked by sun and patience on flat ground, and it is an entirely different industry from the
-wind-scoured pans above [[place-volsather|Volsathèr]] on the cold western coast, which produce a
+wind-scoured pans above [[place-volsather|Volsater]] on the cold western coast, which produce a
 fraction as much and are worked as a sideline to fishing.
 
-Salt from Lizèla preserves the fish of two coasts, cures the hams of the southern hills, and is
-carried inland as far as [[place-talothe|Talòthe]]. It is dull, indispensable and extremely profitable, and it
+Salt from Lizela preserves the fish of two coasts, cures the hams of the southern hills, and is
+carried inland as far as [[place-talothe|Talote]]. It is dull, indispensable and extremely profitable, and it
 has made the town's fortunes without ever making it fashionable.
 
 ## The Houses
 
-Lizèla's nobility are minor houses whose wealth rests on coastal trade and the pans rather than on
+Lizela's nobility are minor houses whose wealth rests on coastal trade and the pans rather than on
 broad land—the **Kórisvars** among them—and they occupy an awkward rank: rich enough to matter in
-the district, not landed enough to matter at [[place-jalnazdal|Jalnazdàl]], and acutely conscious of
+the district, not landed enough to matter at [[place-jalnazdal|Jalnasdal]], and acutely conscious of
 the difference.
 
 Such houses have generally survived the long contest between the Crown and the Council of Peers by
@@ -36,4 +36,4 @@ her father inherits.
 
 ## See Also
 
-- [[place-provenzrgn|Provènzia Region]] · [[place-jalnazdal|Jalnazdàl]]
+- [[place-provenzrgn|Provenzia Region]] · [[place-jalnazdal|Jalnasdal]]

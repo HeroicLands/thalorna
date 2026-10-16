@@ -1,9 +1,9 @@
 ---
 shortcode: skygrimr
-name: {full: "Skýgrímr", aliases: []}
+name: {full: "Skigrimr", aliases: []}
 type: affiliation
 subType: order
-description: "Illusion and disguise in Vélgrímr's service."
+description: "Illusion and disguise in Velgrímr's service."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
-          Cast out of Skýgrímr, forfeiting whatever counsel, shelter or standing membership gave him.
+          Cast out of Skigrimr, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
-          Trains in illusion and disguise at one of Malagna's hidden hofs, holding no standing yet as a trusted infiltrator.
+          Trains in illusion and disguise at one of Malagna's hidden hovs, holding no standing yet as a trusted infiltrator.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Leads the order's spies and infiltrators and alone may be trusted with a hof's location.
+          Leads the order's spies and infiltrators and alone may be trusted with a hov's location.
     offices: {}
   seat: null
   population: null
@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 If the Order of the Shifting Veil does its work well, you never learn that you met it.
 
-Skýgrímr trains priests of [[affiliation-velgrimr|Vélgrímr]] in illusion and disguise, and serves his hidden hofs in [[place-malagna|Malagna]]'s ports as spies and infiltrators. A member moves through a port city under a face not his own and reports to a hof whose location he alone may be trusted to know. Spies and infiltrators are led by a Dróttstjóri; a Dróttmadr still trains in illusion and disguise and is not yet trusted as an infiltrator.
+Skigrimr trains priests of [[affiliation-velgrimr|Velgrímr]] in illusion and disguise, and serves his hidden hovs in [[place-malagna|Malagna]]'s ports as spies and infiltrators. A member moves through a port city under a face not his own and reports to a hov whose location he alone may be trusted to know. Spies and infiltrators are led by a Dróttstjori; a Drottmadr still trains in illusion and disguise and is not yet trusted as an infiltrator.

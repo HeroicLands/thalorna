@@ -15,5 +15,5 @@ sohl:
 ---
 
 Worked on the dead between death and the embalming house, on documents, and on anything that must
-survive a journey. Gar-Qelt'nu and the embalmers of Hezmu'îri work side by side constantly and are not
+survive a journey. Gar-Qelt'nu and the embalmers of Hezmu'iri work side by side constantly and are not
 the same people, a distinction both are tired of explaining.

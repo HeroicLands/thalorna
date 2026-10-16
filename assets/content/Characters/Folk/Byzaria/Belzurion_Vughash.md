@@ -1,9 +1,9 @@
 ---
 shortcode: belzurionvug
-name: {full: Belzûrion Vughash, aliases: [Lord Belzûrion Vughash]}
+name: {full: Belzurion Vughash, aliases: [Lord Belzurion Vughash]}
 type: being
 subType: npc
-description: A regional noble of the frontier who maintains vast estates, named in Mivios Zapemês.
+description: A regional noble of the frontier who maintains vast estates, named in Mivios Zapemes.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Belzûrion Vughash is a 55-year-old man who stands 5'11" tall with a heavy build. He has golden skin, sun-kissed complexion, black hair, and green eyes.
+Belzurion Vughash is a 55-year-old man who stands 5'11" tall with a heavy build. He has golden skin, sun-kissed complexion, black hair, and green eyes.
 
 # Dossier {#dossier}
 
-Belzûrion Vughash is a regional noble of the frontier who maintains vast estates. The note on [[being-drknsdlsns|Mivios Zapemês]] names him.
+Belzurion Vughash is a regional noble of the frontier who maintains vast estates. The note on [[being-drknsdlsns|Mivios Zapemes]] names him.

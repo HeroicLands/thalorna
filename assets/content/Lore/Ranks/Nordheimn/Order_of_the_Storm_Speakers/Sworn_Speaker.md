@@ -1,6 +1,6 @@
 ---
 shortcode: swornspkrrnk
-name: {full: "Sworn Speaker", aliases: [Stormmaelir]}
+name: {full: "Sworn Speaker", aliases: [Stormmelir]}
 type: lore
 subType: law
 description: "The full member of the Order of the Storm-Speakers, acting on the order's behalf across the Nordlands."
@@ -20,7 +20,7 @@ He carries a standing the order's own hospitality and coastal arrangements answe
 
 ## Privileges
 
-He acts on the order's behalf, draws its hospitality anywhere in the Nordlands, and may call wind, read storms, and in certain circumstances draw down a localized lightning-strike within the limits Thrúnvald's faith permits.
+He acts on the order's behalf, draws its hospitality anywhere in the Nordlands, and may call wind, read storms, and in certain circumstances draw down a localized lightning-strike within the limits Thrunvald's faith permits.
 
 ## Obligations
 

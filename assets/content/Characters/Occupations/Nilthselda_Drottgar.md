@@ -1,6 +1,6 @@
 ---
 shortcode: nlthslddrtgr
-name: {full: Nilthselda Dróttgar, aliases: []}
+name: {full: Nilthselda Drottgar, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -395,11 +395,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Nilthselda Dróttgar is a 34-year-old woman who stands 5'7" tall and is slender. She has an oval face with sharp cheekbones, a broad forehead, and a heavy jaw that leads to a broad chin. Her deep-set gray eyes sit beneath straight brows, lending her a watchful gaze. A broad nose and wide lips complete her features. She has fair skin with a weathered complexion. Her blonde hair is braided and coiled at the nape.
+Nilthselda Drottgar is a 34-year-old woman who stands 5'7" tall and is slender. She has an oval face with sharp cheekbones, a broad forehead, and a heavy jaw that leads to a broad chin. Her deep-set gray eyes sit beneath straight brows, lending her a watchful gaze. A broad nose and wide lips complete her features. She has fair skin with a weathered complexion. Her blonde hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Nilthselda Dróttgar came into the world of the apothecary through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Nilthselda Drottgar came into the world of the apothecary through a combination of circumstance and aptitude.
 
 Nilthselda grew up in a small village where her mother was a healer. She learned the basics of herbal medicine at an early age and later moved to the city to expand her knowledge and practice. She works out of a modest shop, providing simple remedies and salves for common ailments. Nilthselda is passionate about treating the poor and often gives away medicines for free.
 

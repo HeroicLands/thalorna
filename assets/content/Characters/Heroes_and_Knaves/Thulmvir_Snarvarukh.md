@@ -1,6 +1,6 @@
 ---
 shortcode: thlmvrsnrvrkh
-name: {full: Thulmvir Snarvarukh, given: Thulmvir, clan: Snarvarukh, aliases: []}
+name: {full: Thulmvir Snarvaruk, given: Thulmvir, clan: Snarvaruk, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -414,7 +414,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thlmvrsnrvrkh|Thulmvir Snarvarukh]]{float=top-left}
+![[thlmvrsnrvrkh|Thulmvir Snarvaruk]]{float=top-left}
 
 Thulmvir stands 6'1" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a prominent chin, a small mouth, straight brows.
 
@@ -450,7 +450,7 @@ At forty, Thulmvir is primarily motivated by the desire to preserve authentic cr
 
 - **Masterful Ceramics Technique** - Thulmvir's hands have shaped thousands of pots. His touch is instinctive; he can feel when clay is at exactly the right consistency and can sense a kiln's temperature through subtle environmental cues. His firing success rate is among the highest in the region.
 - **Deep Knowledge of Materials** - He understands clay types, mineral content, and how different sources of raw material behave under various conditions. He can identify quality clay by touch and sight, and he knows precisely how to prepare and condition different earth sources.
-- **Excellence in Functional Design** - His vessels are not merely beautiful; they're engineered for use. They have the correct weight distribution, the right wall thickness for the intended function, glazes that are food-safe and durable. A **Thulmvir Snarvarukh** pot doesn't just work—it works beautifully.
+- **Excellence in Functional Design** - His vessels are not merely beautiful; they're engineered for use. They have the correct weight distribution, the right wall thickness for the intended function, glazes that are food-safe and durable. A **Thulmvir Snarvaruk** pot doesn't just work—it works beautifully.
 - **Patient Mentor** - Despite his rigidity in some areas, Thulmvir is gifted at teaching those willing to learn properly. He breaks down complex processes into manageable components and has the patience to repeat lessons until understanding settles in.
 - **Perceptive Understanding of Material Properties** - He can read clay, glaze, and fire in ways that border on intuitive. He rarely makes mistakes, and when he does, he quickly diagnoses the problem and adjusts.
 - **Respected Reputation** - His name carries weight in Vithgard and surrounding regions. Families commission his work for special occasions, and his pieces hold resale value.
@@ -468,13 +468,13 @@ At forty, Thulmvir is primarily motivated by the desire to preserve authentic cr
 
 ### Patrons
 
-The Merchant House Vraldendikh
-: A wealthy merchant family that has commissioned custom tableware and storage vessels from Thulmvir for the past fifteen years. The patriarch, **Lord Althmýl Vraldendikh**, respects traditional craftsmanship and keeps **Thulmvir's** work in demand among the upper classes.
+The Merchant House Vraldendik
+: A wealthy merchant family that has commissioned custom tableware and storage vessels from Thulmvir for the past fifteen years. The patriarch, **Lord Althmil Vraldendik**, respects traditional craftsmanship and keeps **Thulmvir's** work in demand among the upper classes.
 
 The Miller's Cooperatives
 : Multiple miller families depend on Thulmvir's storage and measurement vessels, which are prized for their durability and accuracy of form.
 
-Herbalist Magga Hvalgumakh
+Herbalist Magga Hvalgumak
 : A respected healer who commissioned a series of specialized vessels for preserving medicines and herbs, and who has become a friend despite their generational difference.
 
 ### Enemies
@@ -482,7 +482,7 @@ Herbalist Magga Hvalgumakh
 The Merchants' Collective of New Fashion
 : A coalition of younger merchants and traders who have begun importing cheaper, mass-produced ceramics from distant lands, undercutting Thulmvir's prices and promoting contemporary aesthetic values that directly contrast with his traditional work.
 
-Artisan Ilthann Vrathumakh
+Artisan Ilthann Vrathumak
 : A younger potter of considerable talent who studied under Thulmvir for three years before breaking away to establish a rival workshop. Ilthann champions innovative glazing techniques and contemporary form, directly challenging Thulmvir's hold on the market. The ideological conflict between them runs deep.
 
 ### Affiliations
@@ -497,7 +497,7 @@ The Traditionalists' Circle
 
 1. **The Apprentice's Dilemma**: - **Thulmvir's** most talented current apprentice, a young woman named **Lyra Stonecraft**, has been offered a substantial position with **Artisan Ilthann**, involving travel to distant centers of the potter's art and the opportunity to experiment with new techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thulmvir refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thulmvir's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
 
-2. **The Crisis of the Kiln**: - Thulmvir's primary kiln, a structure he's rebuilt and maintained for twenty years, develops catastrophic structural damage during firing. Reconstruction would be expensive and time-consuming, potentially leaving him unable to work for weeks or months. He's offered a partnership by the wealthy merchant **Lord Althmýl Vraldendikh** to use a new, hotter kiln in exchange for exclusive production rights. Accepting would secure his future but would compromise his independence and force him to adapt to machinery he doesn't trust. Refusing risks his livelihood.
+2. **The Crisis of the Kiln**: - Thulmvir's primary kiln, a structure he's rebuilt and maintained for twenty years, develops catastrophic structural damage during firing. Reconstruction would be expensive and time-consuming, potentially leaving him unable to work for weeks or months. He's offered a partnership by the wealthy merchant **Lord Althmil Vraldendik** to use a new, hotter kiln in exchange for exclusive production rights. Accepting would secure his future but would compromise his independence and force him to adapt to machinery he doesn't trust. Refusing risks his livelihood.
 
 3. **The Competition of Prestige**: - The King's court announces a grand competition for artisans across the realm—the winner will be commissioned to create the ceremonial vessels for a royal wedding, earning both significant payment and extraordinary prestige. Despite his reservations, Thulmvir's peers urge him to enter, and he's uncertain whether his traditional work can compete against younger, more innovative potters. The preparation process becomes an internal struggle between staying true to his principles and the temptation to compromise them for validation.
 

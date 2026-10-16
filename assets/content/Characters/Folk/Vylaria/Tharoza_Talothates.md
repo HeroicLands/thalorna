@@ -1,9 +1,9 @@
 ---
 shortcode: tharozatalot
-name: {full: Thârôzâ Talôthâtês, aliases: [Commander Thârôzâ]}
+name: {full: Tharoza Talothates, aliases: [Commander Tharoza]}
 type: being
 subType: npc
-description: The highest official in the law enforcement structure of Moktur, named in Xerôphôn Kâlmâkanês.
+description: The highest official in the law enforcement structure of Moktur, named in Zerofon Kalmakanes.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Thârôzâ Talôthâtês is a 21-year-old woman who stands 5'7" tall with a medium build. She has light skin, weathered complexion, black hair, and brown eyes.
+Tharoza Talothates is a 21-year-old woman who stands 5'7" tall with a medium build. She has light skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Thârôzâ Talôthâtês is the commander of the City Watch and the highest official in the law enforcement structure of Moktur. Thârôzâ values the judgment of [[being-xrphnklmkns|Xerôphôn Kâlmâkanês]] and regularly defers to his recommendations on prison management.
+Tharoza Talothates is the commander of the City Watch and the highest official in the law enforcement structure of Moktur. Tharoza values the judgment of [[being-xrphnklmkns|Zerofon Kalmakanes]] and regularly defers to his recommendations on prison management.

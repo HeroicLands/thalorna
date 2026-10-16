@@ -1,9 +1,9 @@
 ---
 shortcode: drzhvzhnr
 name:
-  full: Drazha Vezhnûr, Knight of the Black Flame
+  full: Drazha Vezhnur, Knight of the Black Flame
   given: Drazha
-  clan: Vezhnûr
+  clan: Vezhnur
   aliases: [Knight of the Black Flame]
 type: being
 subType: character
@@ -422,33 +422,33 @@ sohl:
 
 # Appearance {#appearance}
 
-![[drzhvzhnr|Drazha Vezhnûr, Knight of the Black Flame]]{float=top-left}
+![[drzhvzhnr|Drazha Vezhnur, Knight of the Black Flame]]{float=top-left}
 
 Drazhan is a towering figure at 6'4" with a heavily muscled frame, weighing around 235 pounds. His skin is a deep brown, and his body bears many scars from battles fought. His black hair is shaved close to his scalp, and his piercing dark eyes give him a predatory air. His face is hardened, with a broad nose, full lips, and a square jaw, often set in a grim expression. A tattoo of a flaming sword adorns his right arm, signifying his devotion to [[affiliation-blackflame|The Black Flame]]. Drazhan wears heavy, blackened steel armor engraved with Black Flame symbols, and his weapon of choice is a wickedly curved greatsword that he wields with ease.
 
 # Dossier {#dossier}
 
-Drazha Vezhnûr is from the **Vezhnûr holds**, a clan-country in the high passes above [[place-orashion2|Órashion]], on the desert side of [[place-byzariargn|Byzaría]]. The holds answer to no city's charter; the [[affiliation-byzarianlg|Byzarian League]] tolerates them as its eastern shield, because the clans fight the desert raiders so the League need not. No priest of the established faiths has ever reached them, and the Black Flame is practiced there openly. The holds are shaped by the austere values of their people, hard mountain folk who measure a man by what he can hold.
+Drazha Vezhnur is from the **Vezhnur holds**, a clan-country in the high passes above [[place-orashion2|Órashion]], on the desert side of [[place-byzariargn|Bizaria]]. The holds answer to no city's charter; the [[affiliation-byzarianlg|Bizarian League]] tolerates them as its eastern shield, because the clans fight the desert raiders so the League need not. No priest of the established faiths has ever reached them, and the Black Flame is practiced there openly. The holds are shaped by the austere values of their people, hard mountain folk who measure a man by what he can hold.
 
-Drazhan was born into the Vezhnûr, a powerful warrior clan, his father a fierce warlord and his mother a devoted priestess of the Black Flame. From his earliest years, Drazhan was trained to embrace the tenets of the Black Flame, which glorifies pain and suffering as paths to strength and transcendence. He was taught that strength and dominance are the measures of a person’s worth, and the weak should be crushed beneath the weight of their betters. His childhood was a brutal series of trials designed to harden him into an unrelenting warrior. The sacred **Trial of the Flames**, which every aspiring Black Flame must endure, left Drazhan’s body scarred but his spirit unbroken.
+Drazhan was born into the Vezhnur, a powerful warrior clan, his father a fierce warlord and his mother a devoted priestess of the Black Flame. From his earliest years, Drazhan was trained to embrace the tenets of the Black Flame, which glorifies pain and suffering as paths to strength and transcendence. He was taught that strength and dominance are the measures of a person’s worth, and the weak should be crushed beneath the weight of their betters. His childhood was a brutal series of trials designed to harden him into an unrelenting warrior. The sacred **Trial of the Flames**, which every aspiring Black Flame must endure, left Drazhan’s body scarred but his spirit unbroken.
 
 ## Background
 
 ### The Black Flame Order and Rise to Power
 
-By the age of 16, Drazhan had joined the **Servants of Vezhnûrikos**, one of the most feared military orders of Black Flame knights. The order is notorious for its ruthlessness, and Drazhan quickly rose through the ranks by excelling in battle, particularly during campaigns against neighboring regions. His ferocity in combat and willingness to embrace pain as a means of glorifying Ústaron earned him the title of **Blazewarden**, a position of honor within the order.
+By the age of 16, Drazhan had joined the **Servants of Vezhnurikos**, one of the most feared military orders of Black Flame knights. The order is notorious for its ruthlessness, and Drazhan quickly rose through the ranks by excelling in battle, particularly during campaigns against neighboring regions. His ferocity in combat and willingness to embrace pain as a means of glorifying Ústaron earned him the title of **Blazewarden**, a position of honor within the order.
 
-As a Blazewarden, Drazhan became known for leading punitive raids down out of the passes into the Khazryn margin beyond the Eastern March, particularly into the [[place-hekardesert|Desert of Hek'ar]], a barren tract at the desert's edge. These raids were intended to spread terror and reinforce the dominance of the Black Flame. Drazhan’s ability to inspire fear and loyalty among his troops made him a rising star within the Servants of Vezhnûrikos.
+As a Blazewarden, Drazhan became known for leading punitive raids down out of the passes into the Khazryn margin beyond the Eastern March, particularly into the [[place-hekardesert|Desert of Hek'ar]], a barren tract at the desert's edge. These raids were intended to spread terror and reinforce the dominance of the Black Flame. Drazhan’s ability to inspire fear and loyalty among his troops made him a rising star within the Servants of Vezhnurikos.
 
 ### The Blazing Oath and the Search for the Eye of Velok
 
-Drazhan’s most dangerous and ambitious mission began when he was chosen to lead a group of elite knights known as the **Blazing Oath**. This secretive faction within the Servants of Vezhnûrikos is dedicated to seeking out ancient relics of Ústaron, said to contain immense destructive power. Drazhan’s mission is to retrieve the **Eye of Velok**, a gem rumored to hold the essence of a powerful fire demon bound to Ústaron.
+Drazhan’s most dangerous and ambitious mission began when he was chosen to lead a group of elite knights known as the **Blazing Oath**. This secretive faction within the Servants of Vezhnurikos is dedicated to seeking out ancient relics of Ústaron, said to contain immense destructive power. Drazhan’s mission is to retrieve the **Eye of Velok**, a gem rumored to hold the essence of a powerful fire demon bound to Ústaron.
 
 The Eye is believed to be hidden within the [[place-ruinsarkor|Ruins of Arkor]], an ancient city buried beneath the sands of the Desert of Hek'ar. If recovered, the Eye could grant its bearer the ability to command fire on a massive scale, a power that Drazhan believes could fulfill Ústaron’s vision of a world engulfed in flames. However, many dangers stand in his way, including rival factions within the Black Flame, foreign mercenaries, and the harsh environment of the desert itself.
 
 ### End Goal
 
-Drazhan’s primary goal is to retrieve the **Eye of Velok** and unleash its destructive power in Ústaron’s name. However, as he journeys deeper into the Desert of Hek'ar and faces opposition from enemies both external and within the Ústaran order **Nakarys the Scourge**, Drazhan begins to realize that the path to true power may not be as straightforward as he believed. Whether he succeeds or falls may well determine the future of the Vezhnûr holds and the broader Black Flame movement.
+Drazhan’s primary goal is to retrieve the **Eye of Velok** and unleash its destructive power in Ústaron’s name. However, as he journeys deeper into the Desert of Hek'ar and faces opposition from enemies both external and within the Ústaran order **Nakarys the Scourge**, Drazhan begins to realize that the path to true power may not be as straightforward as he believed. Whether he succeeds or falls may well determine the future of the Vezhnur holds and the broader Black Flame movement.
 
 ### Skills and Abilities
 
@@ -485,18 +485,18 @@ Despite his faith, Drazhan is not without doubt. The further he goes into his mi
 ### Patrons
 
 High Blazewarden Hadrik
-: The leader of the Servants of Vezhnûrikos, Hadrik is both Drazhan’s mentor and rival. While Hadrik respects Drazhan’s abilities, he is wary of his growing influence within the order. Hadrik secretly hopes that Drazhan’s quest for the Eye of Velok will either elevate him to new heights or end in his destruction, eliminating him as a potential threat.
+: The leader of the Servants of Vezhnurikos, Hadrik is both Drazhan’s mentor and rival. While Hadrik respects Drazhan’s abilities, he is wary of his growing influence within the order. Hadrik secretly hopes that Drazhan’s quest for the Eye of Velok will either elevate him to new heights or end in his destruction, eliminating him as a potential threat.
 
 Zirael Aimapyrós
 : A high-ranking priestess of the Black Flame and a member of the Blazing Oath, Zirael is a sexual partner and one of Drazhan’s closest allies. She provides spiritual guidance and leads the dark rituals that invoke Ústaron’s favor before battle. Zirael is fiercely loyal to Drazhan, though she has her own ambitions within the church.
 
 ### Enemies
 
-Sir Nebrálo Ozkurándis
-: A Árdavonian knight of the **Order of the Righteous Path**, sworn to protect the weak and uphold justice, Nebrálo has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred a Árdavonian outpost, and Nebrálo has since sworn to bring him to justice. The two are destined to clash again, as Nebrálo sees in Drazhan everything he stands against.
+Sir Nebralo Ozkuris
+: A Árdavonian knight of the **Order of the Righteous Path**, sworn to protect the weak and uphold justice, Nebralo has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred a Árdavonian outpost, and Nebralo has since sworn to bring him to justice. The two are destined to clash again, as Nebralo sees in Drazhan everything he stands against.
 
-Sir Zekáz Trosuskâr of Nakarys the Scourge
-: Once a fellow knight of the Blazing Oath, Sir Zekáz turned traitor and now leads a faction within the **Nakarys the Scourge**, a rival Black Flame fighting order. Drazhan sees Zekáz’s defection as the ultimate betrayal and has vowed to hunt him down. However, Zekáz has proven elusive, and members of his order continue to disrupt Servants of Vezhnûrikos operations throughout the Desert of Hek'ar.
+Sir Zekáz Trosuskar of Nakarys the Scourge
+: Once a fellow knight of the Blazing Oath, Sir Zekáz turned traitor and now leads a faction within the **Nakarys the Scourge**, a rival Black Flame fighting order. Drazhan sees Zekáz’s defection as the ultimate betrayal and has vowed to hunt him down. However, Zekáz has proven elusive, and members of his order continue to disrupt Servants of Vezhnurikos operations throughout the Desert of Hek'ar.
 
 ## Plot Hooks
 
@@ -504,4 +504,4 @@ Sir Zekáz Trosuskâr of Nakarys the Scourge
 
 2. **Black Flame Politics**: As Drazhan’s power grows, so too does the opposition within the Black Flame, particularly the order of **Nakarys the Scourge**. Players could be hired to protect or sabotage Drazhan’s mission, depending on their allegiance.
 
-3. **Clash with Sir Nebrálo**: Drazhan’s ongoing conflict with the Árdavonian knight Sir Nebrálo could lead to a dramatic showdown, with players taking sides in the battle between two ideologically opposed orders.
+3. **Clash with Sir Nebralo**: Drazhan’s ongoing conflict with the Árdavonian knight Sir Nebralo could lead to a dramatic showdown, with players taking sides in the battle between two ideologically opposed orders.

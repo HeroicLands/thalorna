@@ -259,7 +259,7 @@ The stoneclimber is long and low, with a broad, flat, powerful body, short thick
 
 ## In the Land
 
-The Silver Gorges are steep, narrow valleys carrying lapis, silver and a little tin, and the road up them is also the road to [[place-tamradvara|Tāmradvāra]], the copper-door to the Khazryn. The stoneclimber holds a few miles of one gorge above the workings, from the river up to the rim, and patrols its walls along routes it marks with scratches and scent. It hunts the wild goats and sheep of the gorge walls, the eagles and vultures on their ledges, and the mules and men on the road below, and it lies up in a crevice high on a sunlit face. It does not come out onto the open uplands above the rim, where there is nothing to climb.
+The Silver Gorges are steep, narrow valleys carrying lapis, silver and a little tin, and the road up them is also the road to [[place-tamradvara|Tamradvara]], the copper-door to the Khazryn. The stoneclimber holds a few miles of one gorge above the workings, from the river up to the rim, and patrols its walls along routes it marks with scratches and scent. It hunts the wild goats and sheep of the gorge walls, the eagles and vultures on their ledges, and the mules and men on the road below, and it lies up in a crevice high on a sunlit face. It does not come out onto the open uplands above the rim, where there is nothing to climb.
 
 ## Key Behaviors
 

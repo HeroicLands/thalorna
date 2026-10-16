@@ -1,6 +1,6 @@
 ---
 shortcode: brnksksrns
-name: {full: Branakis Kâserânis, given: Branakis, clan: Kâserânis, aliases: []}
+name: {full: Branakis Kaseranis, given: Branakis, clan: Kaseranis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, common-folk]
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[brnksksrns|Branakis Kâserânis]]{float=top-left}
+![[brnksksrns|Branakis Kaseranis]]{float=top-left}
 
 Branakis stands 6'2" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a prominent chin, a small mouth, and dark brows. He has a tattoo of a tree on his forearm.
 
@@ -430,7 +430,7 @@ Most striking is the tattoo adorning his left forearm: a great tree with roots s
 
 ### The Forest's Gift
 
-Branakis was born in the remote lumber settlements at the edge of the great forests that define the borderlands of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûn]]. His father was a timber harvester, and his mother the daughter of a charcoal maker—the trade seemed almost hereditary. From his earliest memories, Branakis was surrounded by the smell of wood smoke, the sound of saws cutting through living timber, and the essential knowledge that from fire and ash came the materials that civilization required to survive and flourish.
+Branakis was born in the remote lumber settlements at the edge of the great forests that define the borderlands of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]]. His father was a timber harvester, and his mother the daughter of a charcoal maker—the trade seemed almost hereditary. From his earliest memories, Branakis was surrounded by the smell of wood smoke, the sound of saws cutting through living timber, and the essential knowledge that from fire and ash came the materials that civilization required to survive and flourish.
 
 Unlike many born to humble trades, Branakis received a real education—the Holy Kingdom's temples were unusually generous in extending basic literacy and knowledge to children of the lower orders. His mother, in particular, saw that he could read and calculate, understanding that such skills would elevate his craft beyond mere physical labor.
 
@@ -438,7 +438,7 @@ Unlike many born to humble trades, Branakis received a real education—the Holy
 
 At age fifteen, Branakis' father died when a great tree he was cutting failed to fall as intended, crushing him beneath its immense weight. Rather than scaring Branakis away from the forest, the tragedy crystallized his commitment to the work—he vowed to master the craft so completely that such accidents would never take another family member. He spent the next two decades in an almost ascetic pursuit of perfection, learning every aspect of charcoal making from raw timber selection through the precise control of kiln temperatures that determine the quality of the final product.
 
-His devotion earned him a place in the Woodworkers' Guild by his thirty-second year, an unusual achievement for someone of his humble birth. His charcoal became famous throughout Nartûn—blacksmiths specifically requested his product because it burned hotter and cleaner than any other source. He developed his own methods for creating specific grades of charcoal for different purposes, guarding these techniques with the possessiveness of a dragon protecting its hoard.
+His devotion earned him a place in the Woodworkers' Guild by his thirty-second year, an unusual achievement for someone of his humble birth. His charcoal became famous throughout Nartun—blacksmiths specifically requested his product because it burned hotter and cleaner than any other source. He developed his own methods for creating specific grades of charcoal for different purposes, guarding these techniques with the possessiveness of a dragon protecting its hoard.
 
 ### The Aging Craftsman
 
@@ -482,18 +482,18 @@ Branakis is driven by a commitment to excellence that borders on obsession, and 
 
 ### Patrons
 
-Master Blacksmith Torvin Arkálmanês
+Master Blacksmith Torvin Arkálmanes
 : The region's most famous blacksmith who specifically seeks out Branakis' charcoal for his most important commissions. Torvin is perhaps the only person Branakis considers a true peer.
 
 The Abbey of Ústaron's Flame
 : A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Branakis within the religious community.
 
-Guild Master Sôrimar Rônêthênôs
+Guild Master Sorimar Ronethen
 : The head of the Woodworkers' Guild, who has maintained Branakis' membership despite pressure from younger, more pliable members.
 
 ### Enemies
 
-Merchant Prince Vôlkhêmar Zûrmelâtês
+Merchant Prince Volkemar Zurmelates
 : A wealthy trader who has begun running charcoal works on a great scale with lower standards. He has undercut Branakis' prices and reputation systematically.
 
 The Timber Consortium
@@ -504,7 +504,7 @@ Charcoaler Silas Ashbringer
 
 ### Affiliations
 
-The Woodworkers' Guild of Nartûn
+The Woodworkers' Guild of Nartun
 : A formal trade organization providing standards, protection, and mutual support for those in timber-related crafts.
 
 The Keepers of the Forest
@@ -517,7 +517,7 @@ The Abbey of Ústaron's Flame
 
 1. **The Dying Forest**: Branakis discovers that the great forests are being deliberately poisoned through a cunning scheme involving a fungal blight deliberately introduced by the Timber Consortium to destroy old-growth timber, forcing landowners to accept forced sales. As a man devoted to the forest, he can expose the conspiracy—which would require breaking his code of staying out of larger political matters—or remain silent as one of his most beloved natural spaces dies before his eyes.
 
-2. **The Apprentice's Secret**: A talented young apprentice comes to Branakis seeking to learn the craft, but Branakis gradually discovers that the apprentice is actually a spy sent by Merchant Prince Vôlkhêmar Zûrmelâtês to steal his methods. Rather than simply expelling the youth, Branakis becomes convinced that the apprentice is a talented craftsperson being exploited by Vôlkhêmar. Protecting the youth will create a permanent enemy in a powerful merchant.
+2. **The Apprentice's Secret**: A talented young apprentice comes to Branakis seeking to learn the craft, but Branakis gradually discovers that the apprentice is actually a spy sent by Merchant Prince Volkemar Zurmelates to steal his methods. Rather than simply expelling the youth, Branakis becomes convinced that the apprentice is a talented craftsperson being exploited by Volkemar. Protecting the youth will create a permanent enemy in a powerful merchant.
 
 3. **The Ancient Formula**: While excavating near an old kiln site, Branakis discovers evidence of charcoal-making techniques used centuries ago, seemingly abandoned and forgotten. Research reveals these techniques produce charcoal with properties that seem almost magical—superior in ways that shouldn't be possible according to anything known of the craft. He must find the remaining archives or texts describing the method while competing against others who recognize its value.
 

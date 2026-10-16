@@ -1,9 +1,9 @@
 ---
 shortcode: zhevranikosn
-name: {full: Zhevrânikos Nêshârzát, aliases: [Herald Zhevrânikos Nêshârzát]}
+name: {full: Zhevranikos Nesharzát, aliases: [Herald Zhevranikos Nesharzát]}
 type: being
 subType: npc
-description: A younger, reform-minded herald who has begun to introduce informal elements into ceremonial conduct, named in Sakozês Bûlîdês.
+description: A younger, reform-minded herald who has begun to introduce informal elements into ceremonial conduct, named in Sakozes Bulides.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zhevrânikos Nêshârzát is a 29-year-old man who stands 6'3" tall with a medium build. He has tanned skin, smooth complexion, dark blonde hair, and green eyes.
+Zhevranikos Nesharzát is a 29-year-old man who stands 6'3" tall with a medium build. He has tanned skin, smooth complexion, dark blonde hair, and green eyes.
 
 # Dossier {#dossier}
 
-Zhevrânikos Nêshârzát is a younger, reform-minded herald who has begun to introduce informal elements into ceremonial conduct and publicly advocates changing heraldic traditions. [[being-flndrsbldds|Sakozês Bûlîdês]] views him as a threat to the order of society.
+Zhevranikos Nesharzát is a younger, reform-minded herald who has begun to introduce informal elements into ceremonial conduct and publicly advocates changing heraldic traditions. [[being-flndrsbldds|Sakozes Bulides]] views him as a threat to the order of society.

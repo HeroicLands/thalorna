@@ -101,7 +101,7 @@ The two figures beside the inner door look like statues: eight feet of gray-brow
 
 The Terrakith Sentinel is a construct: an eight-foot figure of dense, always-damp clay, carved with binding signs, that a mage made to stand at a door and keep it. It is not alive and has no will; it does what it was set to do, for as long as the working holds, and many have held far longer than whoever set them. They are met as guardians of temples, tombs and the private chambers of mages, and in the [[place-khzryndsrtrgn|Khazryn]] they stand in the ruins of the dead cities, at doors that the sand has buried and uncovered again. The tribes call the ruins that hold them shut, and leave them so. Every sentinel stops where its orders stop: at a threshold, a stair or a ring of carved stones, and a party that stays outside that line is not touched.
 
-Who made the Khazryn's sentinels is not known. The scholars of [[place-caldar|Caldar]] point out that their clay is the gray lake-clay of [[place-ewod|Evöd]] and that the signs on them are close to the script over the doorways of [[place-osikor|Oshiqor]], and they credit the sentinels to the [[lore-basinbldrs|Basin Builders]]; the tribes say only that they were there before anyone.
+Who made the Khazryn's sentinels is not known. The scholars of [[place-caldar|Kaldar]] point out that their clay is the gray lake-clay of [[place-ewod|Evod]] and that the signs on them are close to the script over the doorways of [[place-osikor|Oshiqor]], and they credit the sentinels to the [[lore-basinbldrs|Basin Builders]]; the tribes say only that they were there before anyone.
 
 ## Presentation
 
@@ -117,7 +117,7 @@ A sentinel stands without moving for as long as its post is undisturbed, for cen
 
 ## What the Tribes Do
 
-The tribes leave a ruin with a sentinel in it alone and say so to anyone who asks the way. Tomb-robbers and scholars do not, and the ones who come back have learned three things: the sentinel's line can be found by watching where it turns back, water softens it and fire cracks it, and the signs cut into it are the life of it. A sentinel whose signs are scored through stops. The difficulty is getting close enough to score them. Caldar pays well for the clay of a stopped sentinel, which stays wet in a sealed jar for years.
+The tribes leave a ruin with a sentinel in it alone and say so to anyone who asks the way. Tomb-robbers and scholars do not, and the ones who come back have learned three things: the sentinel's line can be found by watching where it turns back, water softens it and fire cracks it, and the signs cut into it are the life of it. A sentinel whose signs are scored through stops. The difficulty is getting close enough to score them. Kaldar pays well for the clay of a stopped sentinel, which stays wet in a sealed jar for years.
 
 ## Signs
 

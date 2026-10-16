@@ -1,9 +1,9 @@
 ---
 shortcode: kiladehranam
-name: {full: Kiladéhran Ambârzát, aliases: [Lady Kiladéhran Ambârzát]}
+name: {full: Kiladehran Ambarzát, aliases: [Lady Kiladehran Ambarzát]}
 type: being
 subType: npc
-description: A lady of House Genumáhr who has become something of a mentor to Ghofa Kepíkot.
+description: A lady of House Genumáhr who has become something of a mentor to Ghofa Kepikot.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kiladéhran Ambârzát is a 60-year-old woman who stands 5'10" tall with a heavy build. She has tanned skin, weathered complexion, dark brown hair, and amber eyes.
+Kiladehran Ambarzát is a 60-year-old woman who stands 5'10" tall with a heavy build. She has tanned skin, weathered complexion, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Kiladéhran Ambârzát is a lady of House Ambârzát, a prominent noble family of the Byzarian League. She has become something of a mentor to [[being-zenskpkt|Ghofa Kepíkot]], whom the family employs regularly to train and maintain its falconry birds.
+Kiladehran Ambarzát is a lady of House Ambarzát, a prominent noble family of the Bizarian League. She has become something of a mentor to [[being-zenskpkt|Ghofa Kepikot]], whom the family employs regularly to train and maintain its falconry birds.

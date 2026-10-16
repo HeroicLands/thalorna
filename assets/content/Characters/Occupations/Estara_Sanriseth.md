@@ -1,6 +1,6 @@
 ---
 shortcode: estrsnrcth
-name: {full: Estára Sánriseth, aliases: []}
+name: {full: Estara Sánriseth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -392,23 +392,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Estára Sánriseth is a 29-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a prominent chin. Her hooded amber eyes sit beneath heavy brows and give her a guarded gaze. She has a prominent nose and wide lips. She has tanned skin with an olive-toned complexion. Her black hair is plaited in a single thick braid.
+Estara Sánriseth is a 29-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a prominent chin. Her hooded amber eyes sit beneath heavy brows and give her a guarded gaze. She has a prominent nose and wide lips. She has tanned skin with an olive-toned complexion. Her black hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Estára Sánriseth is a teamster of Nebrális, a port town of [[place-tarvenirgn|Tarvénia]], a Tarvénan freewoman who took over her father's carts and teams when he died and hauls between the quays, the warehouses and the market for anyone with a load and a deadline.
+Estara Sánriseth is a teamster of Nebralis, a port town of [[place-tarvenirgn|Tarvénia]], a Tarvenan freewoman who took over her father's carts and teams when he died and hauls between the quays, the warehouses and the market for anyone with a load and a deadline.
 
-Estára grew up on the box of her father's cart, and she could back a loaded wain through a market crowd before she could read. When her father died she was twenty-three and the trade expected the teams to go to a man; she kept them, kept his customers, and has added to both. She hauls whatever the port moves, and she hauls it when it is promised, which in a port where the tide sets the hour is what a warehouseman pays for. She takes risks with a load and a team when the hour is short that the older teamsters shake their heads at and could not do themselves. They respect her. They do not like that they have to.
+Estara grew up on the box of her father's cart, and she could back a loaded wain through a market crowd before she could read. When her father died she was twenty-three and the trade expected the teams to go to a man; she kept them, kept his customers, and has added to both. She hauls whatever the port moves, and she hauls it when it is promised, which in a port where the tide sets the hour is what a warehouseman pays for. She takes risks with a load and a team when the hour is short that the older teamsters shake their heads at and could not do themselves. They respect her. They do not like that they have to.
 
 ## Psyche
 
 ### Personality
 
-Estára is quick, decided and impatient with anything slower than she is, which is nearly everything; she drives a hard bargain, a hard team and herself hardest. Pressed, she takes the risk rather than the delay.
+Estara is quick, decided and impatient with anything slower than she is, which is nearly everything; she drives a hard bargain, a hard team and herself hardest. Pressed, she takes the risk rather than the delay.
 
 ### Motivation
 
-Estára wants her father's business kept and grown under her name, and she wants every load where it was promised when it was promised. One day the corner she cuts will have something behind it.
+Estara wants her father's business kept and grown under her name, and she wants every load where it was promised when it was promised. One day the corner she cuts will have something behind it.
 
 ### Strengths
 
@@ -416,13 +416,13 @@ Resourceful, skilled at working a team through crowded streets, good with horses
 
 ## Social
 
-Estára holds her father's seat in the Teamsters' Guild of Nebrális, chartered under the Tevran Maldor, which licenses the carters and shares out the harbor's work.
+Estara holds her father's seat in the Teamsters' Guild of Nebralis, chartered under the Tevran Maldor, which licenses the carters and shares out the harbor's work.
 
 ## Companions
 
 ### Patrons
 
-Estára's patrons are the warehousemen of the Nebrális quays, who send for her when a cargo must make the tide, and the ship-victualers.
+Estara's patrons are the warehousemen of the Nebralis quays, who send for her when a cargo must make the tide, and the ship-victualers.
 
 ### Enemies
 
@@ -432,8 +432,8 @@ The older teamsters of the guild, who have lost the harbor's best work to her an
 
 1. **The Tide**—A warehouseman has a cargo that must be aboard before the evening tide, and the only road from his store to the quay is through the market on market day.
 
-2. **The Overturned Wain**—One of Estára's carts has gone over in a lane with a load of stone, and a child was under it. The child will live, and the guild has called her before it.
+2. **The Overturned Wain**—One of Estara's carts has gone over in a lane with a load of stone, and a child was under it. The child will live, and the guild has called her before it.
 
-3. **The Cut Trace**—Estára's best team bolted on the quay road with a cut trace, and the carter who went into the harbor last year has been seen near her yard.
+3. **The Cut Trace**—Estara's best team bolted on the quay road with a cut trace, and the carter who went into the harbor last year has been seen near her yard.
 
 4. **The Seat**—The older teamsters have proposed at the guild that a seat may not pass to a daughter, and the vote is next month. If it carries, her seat, her license and the harbor work go together.

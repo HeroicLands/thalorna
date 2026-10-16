@@ -1,6 +1,6 @@
 ---
 shortcode: qsdnyshdm
-name: {full: Qusâdan Yushûdûm, aliases: []}
+name: {full: Kusadan Yushudum, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -398,23 +398,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Qusâdan Yushûdûm is a 38-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and a sharp jaw that leads to a strong chin. His piercing amber eyes sit beneath straight brows and give him a penetrating gaze. He has a strong nose and narrow lips. He has medium-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side. A notable feature is calloused hands from years of hard work.
+Kusadan Yushudum is a 38-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and a sharp jaw that leads to a strong chin. His piercing amber eyes sit beneath straight brows and give him a penetrating gaze. He has a strong nose and narrow lips. He has medium-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side. A notable feature is calloused hands from years of hard work.
 
 # Dossier {#dossier}
 
-Qusâdan Yushûdûm is a glassworker of Sharîmun, in Tarûzel, a Tarûzelian freeman who has worked his father's furnace-house since he was a boy.
+Kusadan Yushudum is a glassworker of Sharimun, in Taruzel, a Taruzelian freeman who has worked his father's furnace-house since he was a boy.
 
-Qusâdan learned window panes and bottles from his father and then went past them, into blown vessels, figured lamps and the glass sculptures—birds, ships, a hand—that the guild families of Sharîmun buy to stand in their halls. He loves the making and is bad at everything else about a shop. The books are behind, the apprentices are paid late, and the price he names is usually less than the work is worth. The furnace has burned him a dozen times and his hands are scarred from wrist to fingertip; a bad burn costs the shop a month, and the shop cannot always afford a month.
+Kusadan learned window panes and bottles from his father and then went past them, into blown vessels, figured lamps and the glass sculptures—birds, ships, a hand—that the guild families of Sharimun buy to stand in their halls. He loves the making and is bad at everything else about a shop. The books are behind, the apprentices are paid late, and the price he names is usually less than the work is worth. The furnace has burned him a dozen times and his hands are scarred from wrist to fingertip; a bad burn costs the shop a month, and the shop cannot always afford a month.
 
 ## Psyche
 
 ### Personality
 
-Qusâdan is absorbed, driven and impractical, and hard on any piece of his own that falls short of what he saw before he started it. He is careless of his hands and his money in exactly the same way.
+Kusadan is absorbed, driven and impractical, and hard on any piece of his own that falls short of what he saw before he started it. He is careless of his hands and his money in exactly the same way.
 
 ### Motivation
 
-Qusâdan wants to make glass better than any he has made, and each finished piece is only the measure for the next. Under that is the need to keep his father's furnace-house lit, which he manages by luck and the patience of his creditors.
+Kusadan wants to make glass better than any he has made, and each finished piece is only the measure for the next. Under that is the need to keep his father's furnace-house lit, which he manages by luck and the patience of his creditors.
 
 ### Strengths
 
@@ -422,24 +422,24 @@ Skilled in glassblowing and sculpture, inventive, painstaking with a piece once 
 
 ## Social
 
-Qusâdan holds his license from the Glassworkers' Guild of Sharîmun and is behind on its dues.
+Kusadan holds his license from the Glassworkers' Guild of Sharimun and is behind on its dues.
 
 ## Companions
 
 ### Patrons
 
-Qusâdan's patrons are the guild houses of Sharîmun, who commission glass for their halls and their gifts and pay handsomely when he remembers to ask. Two of them send a steward to settle his suppliers directly, so that the piece they want is finished.
+Kusadan's patrons are the guild houses of Sharimun, who commission glass for their halls and their gifts and pay handsomely when he remembers to ask. Two of them send a steward to settle his suppliers directly, so that the piece they want is finished.
 
 ### Enemies
 
-Rival glassworkers of the port who want the guild houses' commissions and are better at asking for them; one of them keeps an account of Qusâdan's late dues and mentions it where guild-wardens can hear.
+Rival glassworkers of the port who want the guild houses' commissions and are better at asking for them; one of them keeps an account of Kusadan's late dues and mentions it where guild-wardens can hear.
 
 ## Plot Hooks
 
-1. **The Burned Hand**—Qusâdan has taken a commission for a guild-warden's wedding, the largest of his life, and put his right hand in the furnace mouth a month before it is due. The piece is half-made and only he can finish it.
+1. **The Burned Hand**—Kusadan has taken a commission for a guild-warden's wedding, the largest of his life, and put his right hand in the furnace mouth a month before it is due. The piece is half-made and only he can finish it.
 
-2. **The Rival's Bid**—The house that has bought from Qusâdan for ten years is being courted by a rival with a better ledger and a copy of Qusâdan's best design. The house has asked him to match a price he cannot make glass at.
+2. **The Rival's Bid**—The house that has bought from Kusadan for ten years is being courted by a rival with a better ledger and a copy of Kusadan's best design. The house has asked him to match a price he cannot make glass at.
 
 3. **The Partner**—A merchant of the port has offered to take over the shop's books and its debts for a half share, which would keep the furnace lit and put a stranger's name on his father's door.
 
-4. **A Piece for the Compact**—An officer of the Auric Compact has commissioned a glass ship from Qusâdan as a gift for the Grand Council and has made clear that the Compact does not accept excuses.
+4. **A Piece for the Compact**—An officer of the Auric Compact has commissioned a glass ship from Kusadan as a gift for the Grand Council and has made clear that the Compact does not accept excuses.

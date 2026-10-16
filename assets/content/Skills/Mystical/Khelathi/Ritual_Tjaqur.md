@@ -1,6 +1,6 @@
 ---
 shortcode: ritualtjaqur
-name: {full: "Ritual: Tjaq'ûr", aliases: [Bringer of Tempests]}
+name: {full: "Ritual: Chaq'ur", aliases: [Bringer of Tempests]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-tjaqur|Faith of Tjaq'ûr]]
+See [[affiliation-tjaqur|Faith of Chaq'ur]]

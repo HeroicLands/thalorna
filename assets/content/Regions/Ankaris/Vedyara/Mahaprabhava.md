@@ -1,9 +1,9 @@
 ---
 shortcode: mahaprbhva
-name: {full: Mahāprabhava, aliases: []}
+name: {full: Mahaprabhava, aliases: []}
 type: place
 subType: site
-description: "The source of the Mahānadī—the widest of the four glacier-mouths, the easiest to reach, and the one the great pilgrimage actually goes to."
+description: "The source of the Mahanodi—the widest of the four glacier-mouths, the easiest to reach, and the one the great pilgrimage actually goes to."
 tags: [sacred, pilgrimage, inland]
 data:
   culture: osketclt
@@ -15,7 +15,7 @@ data:
   government: varakpnthn
 ---
 
-**Mahāprabhava** is where the [[place-mahanadi|Mahānadī]] leaves the ice, in a broad cirque at the head of the central valleys where [[place-sthrnwall|the Southern Wall]] stands back a little from the plain. The road to it is a road and not a track. A fit person walks up from the last town in six days, and this is accordingly the source-pilgrimage the ordinary devout make. Above the last fields it passes [[place-puranasthana|Purānasthāna]], the terraced hill the upper river calls the old seat of its first kings.
+**Mahaprabhava** is where the [[place-mahanadi|Mahanodi]] leaves the ice, in a broad cirque at the head of the central valleys where [[place-sthrnwall|the Southern Wall]] stands back a little from the plain. The road to it is a road and not a track. A fit person walks up from the last town in six days, and this is accordingly the source-pilgrimage the ordinary devout make. Above the last fields it passes [[place-puranasthana|Puranastana]], the terraced hill the upper river calls the old seat of its first kings.
 
 In a good year a quarter of a million people come up. The valley below the cirque holds a seasonal town of tents, kitchens, water-sellers, barbers, clerks, thieves and physicians that exists for eleven weeks and is gone by the twelfth, and the janapadas whose land it stands on have a standing arrangement about the rubbish which is the longest-running piece of inter-janapada administration anybody can name.
 
@@ -27,5 +27,5 @@ The rite is simple to the point of bareness: a pilgrim goes to the water, says n
 
 ## See Also
 
-- [[place-mahanadi|The Mahānadī]] · [[place-sthrnwall|The Southern Wall]]
-- [[place-chandrprbh|Chandraprabhava]] · [[place-sarvaprbhv|Sarvaprabhava]] · [[place-bhrvprbhav|Bhāravaprabhava]]
+- [[place-mahanadi|The Mahanodi]] · [[place-sthrnwall|The Southern Wall]]
+- [[place-chandrprbh|Chandraprabhava]] · [[place-sarvaprbhv|Sarvaprabhava]] · [[place-bhrvprbhav|Bharavaprabhava]]

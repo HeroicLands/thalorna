@@ -1,20 +1,20 @@
 ---
 shortcode: aukhlthcrncy
-name: {full: Aû'Khelâthu Currency, aliases: [The Khelâthi Weight System]}
+name: {full: Au'Khelathu Currency, aliases: [The Khelathi Weight System]}
 type: lore
 subType: economy
-description: "Standard currency system of the Northern Fertile Region of Xerathia—temple-attested weight-pieces of copper, silver, and gold organized in gezan and qelu units; backed by the Khelâthi temple banking system (Gár-Hálzi); used across Aû'Khelâthu, Bethûa, and Okháris."
+description: "Standard currency system of the Northern Fertile Region of Zerathia—temple-attested weight-pieces of copper, silver, and gold organized in gezan and qelu units; backed by the Khelathi temple banking system (Gar-Hálzi); used across Au'Khelathu, Bethua, and Okharis."
 tags: [reference, currency, khelathu, xerathia, economy]
 data: {packFolder: regkhecon, culture: khelathiclt}
 ---
 
-[[affiliation-empireakhlth|Aû'Khelâthu]] strikes no round coin, and every price in it is a weight. "A piece you know passes at its face," an assayer of the [[affiliation-garhalzi|Gár-Hálzi]] tells the apprentice who has just been given a balance of his own. "A piece you do not know goes on the scale, and you take what the scale says, whatever the seller tells you." The rest of the money follows from that rule: sealed weight-pieces that pass without a second look, and a temple-treasury behind them that will weigh anything else.
+[[affiliation-empireakhlth|Au'Khelathu]] strikes no round coin, and every price in it is a weight. "A piece you know passes at its face," an assayer of the [[affiliation-garhalzi|Gar-Hálzi]] tells the apprentice who has just been given a balance of his own. "A piece you do not know goes on the scale, and you take what the scale says, whatever the seller tells you." The rest of the money follows from that rule: sealed weight-pieces that pass without a second look, and a temple-treasury behind them that will weigh anything else.
 
-The Aû'Khelâthu currency is the standard currency of the **Northern Fertile Region of Xerathia**—the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] itself, the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], and the kingdom of [[affiliation-okharis|Okháris]]. Outside the [[place-nrthrnfrtlrgn|Northern Fertile Region]] it is exchangeable as foreign currency, principally against the [[lore-vylrncrncy|Vylarian system]] through moneylenders at the trading ports of the [[place-vylarianse|Vylarian Sea]].
+The Au'Khelathu currency is the standard currency of the **Northern Fertile Region of Zerathia**—the [[affiliation-empireakhlth|Empire of Au'Khelathu]] itself, the [[affiliation-mtrrchybth|Matriarchy of Bethua]], and the kingdom of [[affiliation-okharis|Okharis]]. Outside the [[place-nrthrnfrtlrgn|Northern Fertile Region]] it is exchangeable as foreign currency, principally against the [[lore-vylrncrncy|Vylarian system]] through moneylenders at the trading ports of the [[place-vylarianse|Vylarian Sea]].
 
-The system is _weight-based rather than coined_. Where the Vylarian [[affiliation-tarmex|Tarmex Orzan]] strikes named coins (Solden, Ardin, Ogdel) bearing the **Ôrzâs**'s image and the imperial _ôrkhaimâ_, the [[lore-khelathiclt|Khelâthi]] temples attest standardized weight-pieces of copper, silver, and gold—small ingots, rings, or stamped wedges of fixed mass, marked with the issuing temple's seal certifying their weight and metal purity. The pieces are not called coins. The gold and silver pieces are _attested metal of known weight_, worth the metal in them; the copper pieces are temple tokens, worth the face their seal attests rather than their bronze. All of them are accepted at face value in commerce throughout the Northern Fertile Region without need for re-weighing.
+The system is _weight-based rather than coined_. Where the Vylarian [[affiliation-tarmex|Tarmeks Orzan]] strikes named coins (Solden, Ardin, Ogdel) bearing the **Orzas**'s image and the imperial _orkaima_, the [[lore-khelathiclt|Khelathi]] temples attest standardized weight-pieces of copper, silver, and gold—small ingots, rings, or stamped wedges of fixed mass, marked with the issuing temple's seal certifying their weight and metal purity. The pieces are not called coins. The gold and silver pieces are _attested metal of known weight_, worth the metal in them; the copper pieces are temple tokens, worth the face their seal attests rather than their bronze. All of them are accepted at face value in commerce throughout the Northern Fertile Region without need for re-weighing.
 
-The system is administered by the [[affiliation-garhalzi|Gár-Hálzi]]—the temple-treasury institution of the Khelâthi priesthood—which maintains the reference weights against which any piece can be checked, issues and redeems the token copper, holds the great granaries that anchor the empire's grain-based credit system, and issues the temple chits that serve as the Northern Fertile Region's equivalent of paper script. [[affiliation-mtrrchybth|Bethûa]] and [[affiliation-okharis|Okháris]] do not maintain native monetary systems; they use the Khelâthi system through commercial institutions (the [[affiliation-bthntrdhss|matriarchal trade-houses]] of Bethûa, the [[affiliation-crwntrdskhrs|crown-chartered trades]] of Okháris) whose credit is ultimately backed by correspondent relationships with specific Khelâthi temples.
+The system is administered by the [[affiliation-garhalzi|Gar-Hálzi]]—the temple-treasury institution of the Khelathi priesthood—which maintains the reference weights against which any piece can be checked, issues and redeems the token copper, holds the great granaries that anchor the empire's grain-based credit system, and issues the temple chits that serve as the Northern Fertile Region's equivalent of paper script. [[affiliation-mtrrchybth|Bethua]] and [[affiliation-okharis|Okharis]] do not maintain native monetary systems; they use the Khelathi system through commercial institutions (the [[affiliation-bthntrdhss|matriarchal trade-houses]] of Bethua, the [[affiliation-crwntrdskhrs|crown-chartered trades]] of Okharis) whose credit is ultimately backed by correspondent relationships with specific Khelathi temples.
 
 ## The Three Metals and Two Units
 
@@ -27,24 +27,24 @@ The system is administered by the [[affiliation-garhalzi|Gár-Hálzi]]—the tem
 | Copper | Gezan          | ~22.7 g | bronze; a token worth its face        | 1 copper gezan = 10 copper qelu                    |
 | Copper | Qelu (Qezelet) | ~2.27 g | bronze; a token worth its face        | 1 copper qelu = 1/10 copper gezan                  |
 
-The gezan is one weight for all three metals, about 22.7 grams, and the qelu is a tenth of it. The three metals interconvert at fixed temple-attested ratios—1 gold gezan = 10 silver gezan = 100 copper gezan—which is to say that a gold piece is worth ten silver pieces of the same weight, and a silver piece ten copper pieces of the same weight. Silver is the standard: a silver gezan is a gezan of fine silver, and every Khelâthi price is reckoned against it. Gold is attested at five parts in six fine, which makes the gold in a gold gezan worth exactly ten silver gezan at the ratio gold and silver hold in every market around the Vylarian Sea—one weight of gold for twelve of silver—so that the temple ratio and the metal agree. Copper is token money, described below. The ratios are reaffirmed annually by the [[lore-garauu|Gar-Aû]]'s seal at the New Year's festival and are inviolable across the empire. Where rare market conditions cause the ratios to drift in informal trade, the temples re-attest by edict, and the ratios snap back to canonical.
+The gezan is one weight for all three metals, about 22.7 grams, and the qelu is a tenth of it. The three metals interconvert at fixed temple-attested ratios—1 gold gezan = 10 silver gezan = 100 copper gezan—which is to say that a gold piece is worth ten silver pieces of the same weight, and a silver piece ten copper pieces of the same weight. Silver is the standard: a silver gezan is a gezan of fine silver, and every Khelathi price is reckoned against it. Gold is attested at five parts in six fine, which makes the gold in a gold gezan worth exactly ten silver gezan at the ratio gold and silver hold in every market around the Vylarian Sea—one weight of gold for twelve of silver—so that the temple ratio and the metal agree. Copper is token money, described below. The ratios are reaffirmed annually by the [[lore-garauu|Gar-Au]]'s seal at the New Year's festival and are inviolable across the empire. Where rare market conditions cause the ratios to drift in informal trade, the temples re-attest by edict, and the ratios snap back to canonical.
 
 ### Token Copper
 
-The copper pieces are not worth their metal. They are struck in bronze by the [[affiliation-garmelnu|Gar'Melnu]] under [[affiliation-garhalzi|Gár-Hálzi]] supervision, and the bronze in a copper gezan is worth little more than a twentieth of its face. The face is what the temple's seal guarantees, and the guarantee is backed by silver:
+The copper pieces are not worth their metal. They are struck in bronze by the [[affiliation-garmelnu|Gar'Melnu]] under [[affiliation-garhalzi|Gar-Hálzi]] supervision, and the bronze in a copper gezan is worth little more than a twentieth of its face. The face is what the temple's seal guarantees, and the guarantee is backed by silver:
 
-- Issue. Only the Gár-Hálzi issues copper pieces, and only in exchange for silver at face—ten copper qelu for a silver qelu, ten copper gezan for a silver gezan. The silver taken in is held at the issuing chapter against the copper outstanding.
-- Redemption. Any Gár-Hálzi chapter redeems copper pieces for silver at the same face, on demand, so a purse of copper is always worth its face in silver. The [[lore-bethuanclt|Bethûan]] trade-houses and **Okhárian** crown-trade offices with correspondent accounts take copper at face and return it through those accounts.
+- Issue. Only the Gar-Hálzi issues copper pieces, and only in exchange for silver at face—ten copper qelu for a silver qelu, ten copper gezan for a silver gezan. The silver taken in is held at the issuing chapter against the copper outstanding.
+- Redemption. Any Gar-Hálzi chapter redeems copper pieces for silver at the same face, on demand, so a purse of copper is always worth its face in silver. The [[lore-bethuanclt|Bethuan]] trade-houses and **Okhárian** crown-trade offices with correspondent accounts take copper at face and return it through those accounts.
 - Raw copper. Copper without a temple seal—foreign ingots, hack-copper, foreign copper coin, a melted piece—is metal, not money. The chapters and the Gar'Melnu buy it by weight at the market price of copper, about one copper gezan of face for a pound of metal, which is what the same pound fetches abroad. Importing raw copper buys nothing it would not buy at home; only the seal turns bronze into face value, and the seal is not for sale.
 - Melting. Melting copper pieces down returns little more than a twentieth of their face, so they stay in circulation as money.
 
 Counterfeiting the copper is the one way to profit from the gap between face and metal, and the temples treat it accordingly (see _Counterfeit and Debasement_ below).
 
-The Khelâthi people speak in _gezan_ and _qelu_ with the metal specified by context: "the field cost twelve gold gezan" or "the loaf was three copper qelu." The unit _qezelet_ is the formal liturgical form of _qelu_; everyday speech uses qelu, formal documents and temple records use qezelet. The distinction parallels the Vylarian distinction between Ogdel (formal) and Bit (colloquial).
+The Khelathi people speak in _gezan_ and _qelu_ with the metal specified by context: "the field cost twelve gold gezan" or "the loaf was three copper qelu." The unit _qezelet_ is the formal liturgical form of _qelu_; everyday speech uses qelu, formal documents and temple records use qezelet. The distinction parallels the Vylarian distinction between Ogdel (formal) and Bit (colloquial).
 
 ## The Standardized Pieces
 
-The temples produce, attest, and circulate pieces of metal in standardized weights. The pieces are small ingots, rings, or wedge-stamped fragments—never round coins (the round-coin form is a Vylarian and [[lore-helioniteclt|Helionite]] convention that the Khelâthi consider foreign). Each piece bears the issuing temple's seal, an indication of metal and weight, and (on the larger pieces) the regnal cypher of the Gar-Aû in whose reign it was attested.
+The temples produce, attest, and circulate pieces of metal in standardized weights. The pieces are small ingots, rings, or wedge-stamped fragments—never round coins (the round-coin form is a Vylarian and [[lore-helioniteclt|Helionite]] convention that the Khelathi consider foreign). Each piece bears the issuing temple's seal, an indication of metal and weight, and (on the larger pieces) the regnal cypher of the Gar-Au in whose reign it was attested.
 
 | Denomination       | Mass    | Ardin-equivalent value | Typical use                                                                               |
 | ------------------ | ------- | ---------------------- | ----------------------------------------------------------------------------------------- |
@@ -61,9 +61,9 @@ For "making change," the temples and most market stalls maintain small balances 
 
 ## Conversion with Vylarian Currency
 
-The conversion ratio between the Vylarian and Khelâthi systems is fixed by the metal in the pieces. An Ardin carries the silver of half a silver qelu, and an Solden the gold of eight-tenths of a gold gezan, so the par of exchange is:
+The conversion ratio between the Vylarian and Khelathi systems is fixed by the metal in the pieces. An Ardin carries the silver of half a silver qelu, and an Solden the gold of eight-tenths of a gold gezan, so the par of exchange is:
 
-| Vylarian | Khelâthi                                           |
+| Vylarian | Khelathi                                           |
 | -------- | -------------------------------------------------- |
 | 1 Bit    | 1/16 silver qelu (5/8 copper qelu)                 |
 | 1 Ardin  | ½ silver qelu (5 copper qelu)                      |
@@ -71,7 +71,7 @@ The conversion ratio between the Vylarian and Khelâthi systems is fixed by the 
 
 Working the other way:
 
-| Khelâthi       | Vylarian                |
+| Khelathi       | Vylarian                |
 | -------------- | ----------------------- |
 | 1 copper qelu  | 0.2 Ardin (~1½ Bits)    |
 | 1 copper gezan | 2 Ardin                 |
@@ -80,9 +80,9 @@ Working the other way:
 | 1 gold qelu    | 20 Ardin                |
 | 1 gold gezan   | 200 Ardin (= 1¼ Solden) |
 
-A SoHL item priced at _X_ Ardin costs X × 0.5 silver qelu, or X ÷ 20 silver gezan (or the equivalent in any other metal). A 6 Ardin dagger is 3 silver qelu; a 240 Ardin Mail Shirt is 120 silver qelu—12 silver gezan, or 1.2 gold gezan, or any equivalent combination. The conversion is mechanical: no SoHL item's value field needs to change for a Khelâthi campaign.
+A SoHL item priced at _X_ Ardin costs X × 0.5 silver qelu, or X ÷ 20 silver gezan (or the equivalent in any other metal). A 6 Ardin dagger is 3 silver qelu; a 240 Ardin Mail Shirt is 120 silver qelu—12 silver gezan, or 1.2 gold gezan, or any equivalent combination. The conversion is mechanical: no SoHL item's value field needs to change for a Khelathi campaign.
 
-The Vylarian Ardin trades within the Northern Fertile Region at a small discount against its theoretical silver-content value—typically 3–5%—because of the friction of accepting foreign coin in a system that prefers temple-attested local pieces. Conversely, a Vylarian moneylender at a frontier port honors Khelâthi silver and gold pieces at their metal value minus a similar 3–5% spread. Copper pieces hold their face only for someone who can return them to a Gár-Hálzi chapter: the changers at the ports take them at face less the same spread, and beyond the ports they are bronze, taken by weight. The spread is the basic income of the changers—the specialist moneylenders who operate at the conversion boundaries.
+The Vylarian Ardin trades within the Northern Fertile Region at a small discount against its theoretical silver-content value—typically 3–5%—because of the friction of accepting foreign coin in a system that prefers temple-attested local pieces. Conversely, a Vylarian moneylender at a frontier port honors Khelathi silver and gold pieces at their metal value minus a similar 3–5% spread. Copper pieces hold their face only for someone who can return them to a Gar-Hálzi chapter: the changers at the ports take them at face less the same spread, and beyond the ports they are bronze, taken by weight. The spread is the basic income of the changers—the specialist moneylenders who operate at the conversion boundaries.
 
 ## Sample Prices
 
@@ -174,8 +174,8 @@ These prices align with the canonical SoHL gear data via the 1 Ardin = 0.5 silve
 | A small village cottage                   | ~1½–4 gold gezan                            |
 | A modest urban house in a provincial city | ~10–100 gold gezan                          |
 | A merchant's townhouse in a major city    | ~250–1,250 gold gezan                       |
-| A noble villa, Khelâthi selat-grade       | ~5,000+ gold gezan                          |
-| An ancestral Khelâthi selat estate        | beyond ordinary commerce; valuation nominal |
+| A noble villa, Khelathi selat-grade       | ~5,000+ gold gezan                          |
+| An ancestral Khelathi selat estate        | beyond ordinary commerce; valuation nominal |
 
 ## Wages and Asset Scale
 
@@ -183,7 +183,7 @@ These prices align with the canonical SoHL gear data via the 1 Ardin = 0.5 silve
 | ------------------------------- | ------------------------------- | ---------------------------------------------------------------------------------------- |
 | Common laborer                  | 2–4 copper qelu                 | ~100–150 silver qelu (~10–15 silver gezan)                                               |
 | Skilled craftsman               | 1–2 silver qelu                 | ~300–600 silver qelu (~30–60 silver gezan)                                               |
-| Common soldier (Khelâthi)       | 1–1½ silver qelu + provisions   | ~400 silver qelu plus rations (~40 silver gezan)                                         |
+| Common soldier (Khelathi)       | 1–1½ silver qelu + provisions   | ~400 silver qelu plus rations (~40 silver gezan)                                         |
 | Temple scribe (mid-career)      | 2½–4 silver qelu + offerings    | ~1,000–2,000 silver qelu (~100–200 silver gezan)                                         |
 | Selat administrator             | 7½–12 silver qelu + perquisites | ~2,500–5,000 silver qelu (~250–500 silver gezan)                                         |
 | Senior priestly officer         | —                               | ~500–2,500 gold gezan                                                                    |
@@ -191,39 +191,39 @@ These prices align with the canonical SoHL gear data via the 1 Ardin = 0.5 silve
 | Wealthy merchant                | —                               | total assets 2,500–25,000 gold gezan                                                     |
 | Senior noble household          | —                               | total assets 12,500–75,000 gold gezan                                                    |
 | Senior priestly noble house     | —                               | total assets 250,000–1,000,000 gold gezan                                                |
-| Gar-Aû's personal household     | —                               | total assets in the tens of millions of gold gezan, mostly in land and temple endowments |
+| Gar-Au's personal household     | —                               | total assets in the tens of millions of gold gezan, mostly in land and temple endowments |
 
 (Ardin-equivalents: multiply silver qelu by 2, silver gezan by 20, and gold gezan by 200 for Ardin; a gold gezan is 1¼ Solden. A laborer's year of 10–15 silver gezan is 200–300 Ardin (~1¼–2 Solden), the Vylarian laborer's figure; a senior priestly house at 250,000–1,000,000 gold gezan holds 50–200 million Ardin (~310,000–1,250,000 Solden). Wages match the Vylarian scale once converted.)
 
 ## Grain Credit and the Temple Granaries
 
-In addition to the metal-piece system, Aû'Khelâthu maintains a parallel grain-credit economy administered through the temple granaries. Every selat's principal temples hold great granaries—vast clay-walled silos of wheat, barley, and other staples—and serve as the empire's grain banks. Workers' wages, soldiers' rations, and tax payments often pass through the granaries as mazgar of grain (one mazgar ≈ 76 liters, roughly a quarter of a year's grain ration for an adult).
+In addition to the metal-piece system, Au'Khelathu maintains a parallel grain-credit economy administered through the temple granaries. Every selat's principal temples hold great granaries—vast clay-walled silos of wheat, barley, and other staples—and serve as the empire's grain banks. Workers' wages, soldiers' rations, and tax payments often pass through the granaries as mazgar of grain (one mazgar ≈ 76 liters, roughly a quarter of a year's grain ration for an adult).
 
 The granaries maintain ledger accounts for individuals, families, businesses, and noble houses; a depositor brings grain at harvest and receives credit in his account, drawing against it through the year for daily rations or for conversion to silver-qelu payment when needed. The exchange rate of grain to silver fluctuates seasonally—grain is cheap at harvest, expensive in the late dry season before the next flood—but is publicly posted at every major granary and is generally honored across the empire on the day of transaction.
 
-For the Northern Fertile Region as a whole, grain-credit accounts are _Khelâthi_—held at Khelâthi temples and convertible only through Khelâthi granaries. Bethûan and Okhárian merchants doing substantial business with Aû'Khelâthu often maintain grain accounts at temples in cities they trade with regularly; this is a practical commercial arrangement, not a religious one, and the temple priesthood is comfortable serving foreign clients as long as the relationship is correct.
+For the Northern Fertile Region as a whole, grain-credit accounts are _Khelathi_—held at Khelathi temples and convertible only through Khelathi granaries. Bethuan and Okhárian merchants doing substantial business with Au'Khelathu often maintain grain accounts at temples in cities they trade with regularly; this is a practical commercial arrangement, not a religious one, and the temple priesthood is comfortable serving foreign clients as long as the relationship is correct.
 
 For game purposes, grain credit is unlikely to be a routine player concern—characters carrying physical coin and using temple chits will handle most transactions. Grain credit becomes relevant for substantial commercial play (a player merchant character) or for stories involving the granary system (famines, granary robberies, harvest-festival politics).
 
 ## Temple Chits
 
-For transactions too large to carry as metal—multi-gezan deals, cross-territory remittance, large credit extensions—the Northern Fertile Region uses temple chits, issued by the [[affiliation-garhalzi|Gár-Hálzi]] and honored at any Gár-Hálzi chapter across Aû'Khelâthu (and, by correspondent arrangement, at any associated Bethûan trade-house or Okhárian crown-trade office).
+For transactions too large to carry as metal—multi-gezan deals, cross-territory remittance, large credit extensions—the Northern Fertile Region uses temple chits, issued by the [[affiliation-garhalzi|Gar-Hálzi]] and honored at any Gar-Hálzi chapter across Au'Khelathu (and, by correspondent arrangement, at any associated Bethuan trade-house or Okhárian crown-trade office).
 
-A chit is a small clay-sealed clay tablet (for small chits) or a sealed papyrus letter (for larger ones), bearing the issuing temple's seal, the value (in silver or gold gezan), the recipient's name or "to bearer," and the temple's registered serial mark. Functionally similar to a Vylarian traveler's note. Theologically different: the chit is an act of the temple, and the small fee the temple charges (typically 2–3% on issuance, comparable to the [[affiliation-tarmex|Tarmex]]'s 2%) is framed as a votive offering rather than as a commercial commission.
+A chit is a small clay-sealed clay tablet (for small chits) or a sealed papyrus letter (for larger ones), bearing the issuing temple's seal, the value (in silver or gold gezan), the recipient's name or "to bearer," and the temple's registered serial mark. Functionally similar to a Vylarian traveler's note. Theologically different: the chit is an act of the temple, and the small fee the temple charges (typically 2–3% on issuance, comparable to the [[affiliation-tarmex|Tarmeks]]'s 2%) is framed as a votive offering rather than as a commercial commission.
 
-The chit system extends across the Northern Fertile Region through correspondent arrangements between specific Khelâthi temples and specific commercial institutions in Bethûa and Okháris. A Bethûan matriarchal trade-house holding a correspondent account with the great temple at [[place-galezkara|Galezkara]] can honor Gár-Hálzi chits drawn on that temple, and can issue its own local chits backed by its Galezkara account. The arrangement is private and varies by relationship; the trade-houses with the strongest Khelâthi correspondent networks become the principal banking institutions in Bethûan commercial life, despite holding no formal "banking" charter.
+The chit system extends across the Northern Fertile Region through correspondent arrangements between specific Khelathi temples and specific commercial institutions in Bethua and Okharis. A Bethuan matriarchal trade-house holding a correspondent account with the great temple at [[place-galezkara|Galezkara]] can honor Gar-Hálzi chits drawn on that temple, and can issue its own local chits backed by its Galezkara account. The arrangement is private and varies by relationship; the trade-houses with the strongest Khelathi correspondent networks become the principal banking institutions in Bethuan commercial life, despite holding no formal "banking" charter.
 
-For travelers, the practical rule is: large sums move on temple chits; small sums move as physical metal pieces; the conversion happens at the nearest Gár-Hálzi chapter, correspondent trade-house, or correspondent crown-trade office.
+For travelers, the practical rule is: large sums move on temple chits; small sums move as physical metal pieces; the conversion happens at the nearest Gar-Hálzi chapter, correspondent trade-house, or correspondent crown-trade office.
 
 ## Where Used
 
 | Status                                       | Regions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Native standard currency                     | [[affiliation-empireakhlth\|Empire of Aû'Khelâthu]] (with full Gár-Hálzi infrastructure); [[affiliation-mtrrchybth\|Bethûa]] (no native coinage; uses Khelâthi pieces; credit through [[affiliation-bthntrdhss\|matriarchal trade-houses]]); [[affiliation-okharis\|Okháris]] (no native coinage; credit through [[affiliation-crwntrdskhrs\|crown-chartered trades]])                                                                                                                                                 |
-| Foreign currency, exchanged through changers | [[affiliation-vylarinmpr\|Vylaria]] and [[place-helionis\|Heliónis]] (Vylarian Sea trading ports); [[place-aureldirgn\|Aurèldían kingdoms]]; [[place-byzariargn\|Byzaría]]; **Tarûzel** (through [[lore-trzlncrncy\|Merâzûnî]]-affiliated moneylenders)                                                                                                                                                                                                                                                                |
-| Effectively absent                           | Other **Xerathian** regions ([[place-sthrnsvnhs\|Southern Savannahs]], [[place-cntrlrnfrsts\|Central Rainforests]], [[affiliation-nylbtrblntn\|Nyáluba]]); [[place-nrdlndsrgn\|Nordlands]]; [[place-vrystwald\|Vrystwald]]; [[place-vedyarargn\|Vedyara]]; [[place-khzryndsrtrgn\|Khazryn]]; [[place-dunharargn\|Dunhara]]; [[place-tantsouregin\|Tāntsou]]; distant continents ([[place-kchchkcntnnt\|K'ich'chik]], [[place-isrncntnnt\|Iseron]], [[place-arnscntnnt\|Aurionis]], [[affiliation-kalihara\|Kalihara]]) |
+| Native standard currency                     | [[affiliation-empireakhlth\|Empire of Au'Khelathu]] (with full Gar-Hálzi infrastructure); [[affiliation-mtrrchybth\|Bethua]] (no native coinage; uses Khelathi pieces; credit through [[affiliation-bthntrdhss\|matriarchal trade-houses]]); [[affiliation-okharis\|Okharis]] (no native coinage; credit through [[affiliation-crwntrdskhrs\|crown-chartered trades]])                                                                                                                                                 |
+| Foreign currency, exchanged through changers | [[affiliation-vylarinmpr\|Vylaria]] and [[place-helionis\|Helionis]] (Vylarian Sea trading ports); [[place-aureldirgn\|Aureldian kingdoms]]; [[place-byzariargn\|Bizaria]]; **Taruzel** (through [[lore-trzlncrncy\|Merazuni]]-affiliated moneylenders)                                                                                                                                                                                                                                                                |
+| Effectively absent                           | Other **Zerathian** regions ([[place-sthrnsvnhs\|Southern Savannahs]], [[place-cntrlrnfrsts\|Central Rainforests]], [[affiliation-nylbtrblntn\|Nyáluba]]); [[place-nrdlndsrgn\|Nordlands]]; [[place-vrystwald\|Vristwald]]; [[place-vedyarargn\|Vedyara]]; [[place-khzryndsrtrgn\|Khazryn]]; [[place-dunharargn\|Dunhara]]; [[place-tantsouregin\|Tantsou]]; distant continents ([[place-kchchkcntnnt\|K'ich'chik]], [[place-isrncntnnt\|Iseron]], [[place-arnscntnnt\|Aurionis]], [[affiliation-kalihara\|Kalihara]]) |
 
-The most important friction-point for travel and commerce is the Vylarian–Khelâthi exchange at the trading ports of the Vylarian Sea. The **Heliónite**, Bethûan, and Khelâthi merchant houses that operate at these ports—the changers—make substantial livings facilitating conversion between the two systems at a 3–5% spread.
+The most important friction-point for travel and commerce is the Vylarian–Khelathi exchange at the trading ports of the Vylarian Sea. The **Heliónite**, Bethuan, and Khelathi merchant houses that operate at these ports—the changers—make substantial livings facilitating conversion between the two systems at a 3–5% spread.
 
 For polity-specific usage details, see the individual polity notes; each polity's "Commerce and Currency" section describes its specific monetary situation.
 
@@ -231,9 +231,9 @@ For polity-specific usage details, see the individual polity notes; each polity'
 
 ### The Cultural Significance of Metal
 
-The choice of metal in a Khelâthi payment carries social meaning that has no equivalent in the Vylarian coin system. Copper is the metal of ordinary commerce, daily life, and small transactions—paying in copper is unremarkable. Silver is the metal of significant transactions and respectful dealing—paying in silver dignifies the recipient and acknowledges the transaction's importance. Gold is the metal of high commerce, ceremonial gift-giving, temple offering, and noble-to-noble exchange—paying in gold for a small purchase is conspicuous (and possibly insulting, suggesting that the recipient cannot make change), while paying in copper for a large purchase is contemptuous.
+The choice of metal in a Khelathi payment carries social meaning that has no equivalent in the Vylarian coin system. Copper is the metal of ordinary commerce, daily life, and small transactions—paying in copper is unremarkable. Silver is the metal of significant transactions and respectful dealing—paying in silver dignifies the recipient and acknowledges the transaction's importance. Gold is the metal of high commerce, ceremonial gift-giving, temple offering, and noble-to-noble exchange—paying in gold for a small purchase is conspicuous (and possibly insulting, suggesting that the recipient cannot make change), while paying in copper for a large purchase is contemptuous.
 
-A Khelâthi merchant negotiating a substantial deal will often discuss the _metal_ of the payment as well as the _amount_—"twelve silver gezan paid in gold qelu" is a different transaction from "twelve silver gezan paid in copper gezan pieces," even though the face value is identical. The first signals respect and continuing relationship; the second signals reluctance, low expectation, and possibly final settlement of a strained partnership.
+A Khelathi merchant negotiating a substantial deal will often discuss the _metal_ of the payment as well as the _amount_—"twelve silver gezan paid in gold qelu" is a different transaction from "twelve silver gezan paid in copper gezan pieces," even though the face value is identical. The first signals respect and continuing relationship; the second signals reluctance, low expectation, and possibly final settlement of a strained partnership.
 
 ### Hack-Metal and Unattested Pieces
 
@@ -241,17 +241,17 @@ Pieces of metal of unknown provenance—hack-silver, hack-gold, irregular pieces
 
 ### Counterfeit and Debasement
 
-Counterfeiting an attested temple piece is a sacrilegious crime under Khelâthi religious law and an ordinary crime under Bethûan and Okhárian civil law. The copper pieces, whose face far exceeds their bronze, are the commonest target. Penalties are severe—the Khelâthi convict counterfeiters of attested pieces are ritually executed at the New Year's festival. The temples maintain assay specialists who can detect debased metal in a piece by weight, sound, and (for the most experienced) by visual inspection of the cut edge. Large counterfeit operations are typically detected within months and prosecuted vigorously; small individual counterfeiters operate longer in marginal regions but rarely produce pieces convincing enough to pass repeated assay.
+Counterfeiting an attested temple piece is a sacrilegious crime under Khelathi religious law and an ordinary crime under Bethuan and Okhárian civil law. The copper pieces, whose face far exceeds their bronze, are the commonest target. Penalties are severe—the Khelathi convict counterfeiters of attested pieces are ritually executed at the New Year's festival. The temples maintain assay specialists who can detect debased metal in a piece by weight, sound, and (for the most experienced) by visual inspection of the cut edge. Large counterfeit operations are typically detected within months and prosecuted vigorously; small individual counterfeiters operate longer in marginal regions but rarely produce pieces convincing enough to pass repeated assay.
 
 ### Carrying Weight
 
-Like the Vylarian system, large sums of physical metal are heavy. 100 silver gezan (2,000 Ardin) weighs about 2.3 kg (5 lb); 1,000 silver gezan weighs nearly 23 kg (50 lb), a burden for a single traveler. Gold carries the same value in a tenth of the weight, but gold pieces are few and conspicuous. Wealth above the carryable threshold moves on temple chits or trade-house correspondent arrangements. A Khelâthi merchant's purse in serious commerce typically contains: a handful of gold pieces (qelu or gezan) for emergency liquidity, perhaps 20–50 silver qelu for ordinary transactions, a small bag of copper for daily small purchases, and a sealed temple chit for the bulk of his working capital.
+Like the Vylarian system, large sums of physical metal are heavy. 100 silver gezan (2,000 Ardin) weighs about 2.3 kg (5 lb); 1,000 silver gezan weighs nearly 23 kg (50 lb), a burden for a single traveler. Gold carries the same value in a tenth of the weight, but gold pieces are few and conspicuous. Wealth above the carryable threshold moves on temple chits or trade-house correspondent arrangements. A Khelathi merchant's purse in serious commerce typically contains: a handful of gold pieces (qelu or gezan) for emergency liquidity, perhaps 20–50 silver qelu for ordinary transactions, a small bag of copper for daily small purchases, and a sealed temple chit for the bulk of his working capital.
 
 ## See Also
 
-- [[affiliation-garhalzi|Gár-Hálzi]]—the temple-treasury institution that issues and backs the system
-- [[affiliation-bthntrdhss|The Bethûan Trade-Houses]]—Bethûan commercial institutions using the system through Khelâthi correspondents
-- [[affiliation-crwntrdskhrs|The Crown Trades of Okháris]]—Okhárian commercial institutions using the system through Khelâthi correspondents
-- [[lore-vylrncrncy|Vylarian Currency]]—the parallel currency system used in the western and central **Ankaris** commonwealth; exchanged with Khelâthi currency through changers at the trading ports
-- [[affiliation-garmelnu|Gar'Melnu]]—the Khelâthi smiths' guild (which mints the temple-attested pieces under Gár-Hálzi's supervision)
-- [[affiliation-tarmex|The Tarmex Orzan]]—the Vylarian central treasury; the institutional counterpart whose existence the Gár-Hálzi system is structurally distinct from
+- [[affiliation-garhalzi|Gar-Hálzi]]—the temple-treasury institution that issues and backs the system
+- [[affiliation-bthntrdhss|The Bethuan Trade-Houses]]—Bethuan commercial institutions using the system through Khelathi correspondents
+- [[affiliation-crwntrdskhrs|The Crown Trades of Okharis]]—Okhárian commercial institutions using the system through Khelathi correspondents
+- [[lore-vylrncrncy|Vylarian Currency]]—the parallel currency system used in the western and central **Ankaris** commonwealth; exchanged with Khelathi currency through changers at the trading ports
+- [[affiliation-garmelnu|Gar'Melnu]]—the Khelathi smiths' guild (which mints the temple-attested pieces under Gar-Hálzi's supervision)
+- [[affiliation-tarmex|The Tarmeks Orzan]]—the Vylarian central treasury; the institutional counterpart whose existence the Gar-Hálzi system is structurally distinct from

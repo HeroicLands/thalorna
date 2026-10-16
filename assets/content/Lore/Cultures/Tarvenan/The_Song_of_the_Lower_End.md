@@ -3,12 +3,12 @@ shortcode: lowerendsong
 name: {full: The Song of the Lower End, aliases: [The Long Poem of the Gorge]}
 type: lore
 subType: literature
-description: "The long poem Astúrath sings after supper of the Horn Gorge, in the voice of the herd boy who carried stone there: the man struck from Tórsaro's roll on three witnesses' word, the lower end he asked for and the stone he swore on, the legion's recall blown a night too late, and the name the company gave him on the stone when there was nobody left to give it to."
+description: "The long poem Asturath sings after supper of the Horn Gorge, in the voice of the herd boy who carried stone there: the man struck from Tórsaro's roll on three witnesses' word, the lower end he asked for and the stone he swore on, the legion's recall blown a night too late, and the name the company gave him on the stone when there was nobody left to give it to."
 tags: [draft, tarvenia]
 data:
   culture: tarvenanclt
   packFolder: settinglore
-  form: oldémo
+  form: oldemo
   subjects:
     - lore-horngorgebtl
     - place-horngorge
@@ -21,7 +21,7 @@ data:
 # terran_analog: "The chanson de geste, above all the Song of Roland and the Cantar de mio Cid: verse paragraphs of uneven length held on one assonant vowel, the same moment told in successive paragraphs from different sides, the horn sounded too late, the rearguard that holds the pass and dies, and the vassal exiled on a false word who stays loyal to the lord who exiled him."
 ---
 
-**The Song of the Lower End** is the long poem, the _oldémo_, that the high valleys of [[place-asturath|Astúrath]] sing of the Horn Gorge ([[lore-horngorgebtl|The Battle of the Horn Gorge]]). It does not sing the closing of the upper end, which belongs to the lord **Tórsaro** and to the plateau of [[place-lezkora|Lezkóra]] above it. It sings the lower end, where the gorge opens on the valley and the legion, when it turned, had to come through: the twelve masterless men who held it for two days, and the man who led them, whose name had been struck from Tórsaro's roll before the legion came, and who was given the earned name **Belártsa**, the Threshold, on the stone where he died.
+**The Song of the Lower End** is the long poem, the _oldemo_, that the high valleys of [[place-asturath|Asturath]] sing of the Horn Gorge ([[lore-horngorgebtl|The Battle of the Horn Gorge]]). It does not sing the closing of the upper end, which belongs to the lord **Tórsaro** and to the plateau of [[place-lezkora|Lezkora]] above it. It sings the lower end, where the gorge opens on the valley and the legion, when it turned, had to come through: the twelve masterless men who held it for two days, and the man who led them, whose name had been struck from Tórsaro's roll before the legion came, and who was given the earned name **Belartsa**, the Threshold, on the stone where he died.
 
 A long poem is sung after supper by someone who was there, and this one keeps the rule by keeping its first singer. Every singer of it sings as **the herd boy with the sling**, who followed the masterless men down to the lower end, went up the gorge wall with their word and came back down with Tórsaro's, and who saw at the horse fair what the three witnesses swore they saw. He is never named; the poem calls him what he was. The singer takes his voice and his age with it, so that the old man by the fire who says _I carried stone_ is saying the song's line and not his own.
 
@@ -29,7 +29,7 @@ The poem is in verse paragraphs of uneven length, each held on one vowel at the 
 
 : The Song of the Lower End {#oldemo}
 
-```poetry {form=oldémo lang=en}
+```poetry {form=oldemo lang=en}
 I was there. I carried stone.
 I was a herd boy with a sling, and the sling was all I owned.
 Sit. The meat is eaten, and the fire is burning low.
@@ -45,7 +45,7 @@ on the great stone, when he said: You are the one who goes.
 Three times the legions climbed the ranges from the plain,
 and three times the ranges sent them back the way they came.
 They held the lowlands then, the harbor and the grain,
-the walled towns and the towers that watched the lords of Liénrik by day.
+the walled towns and the towers that watched the lords of Lienrik by day.
 The mountains they could not take.
 The fourth time a legion came, and it brought its road along the way:
 it cut the road in front of it, and walked on what it made.
@@ -90,7 +90,7 @@ He kept the passes there. He took no ewe from the plateau's flocks, not one,
 and none from the next valley's. Eleven men came up to him, one by one:
 a man whose company was dead, a man whose captain ran,
 a man from the coast with a reason he would not say, a smith's second son,
-two brothers from Eskárath, four from the low country with their painted shields, and one
+two brothers from Eskarath, four from the low country with their painted shields, and one
 who was only a man with a bow. He kept them as a captain keeps his own,
 on no contract, for no sum.
 His wife kept the holding in the third valley seven years without his name on it, and she was the one
@@ -136,7 +136,7 @@ in the meadows, with the snow-stain on the shoulder. The smith's son had a hamme
 The man whose company was dead had his company's horn. He would not blow it, and he swore
 he never would until his company had someone left to hear it. The man from the coast had a sword too good for him, and wore
 it as a man wears a thing he has to answer for.
-The brothers from Eskárath had slings like mine and a bag of stones apiece, and they spoke no more
+The brothers from Eskarath had slings like mine and a bag of stones apiece, and they spoke no more
 than they had to, and were quick at all the rest. The four from the low country had their own shields, painted, and a bow, and the plateau's spears. The bowman had his bow.
 I had my sling, and a cheese his wife sent up, and my coat, and the wind off the peaks, and that was my store.
 We lay behind the stone in the dark and lit no fire. The gorge below was empty. The legion's fires were on the slope below the gorge, far below.
@@ -191,7 +191,7 @@ That is the recall. Every autumn it blows down the gorge at that stone. The shep
 
 They came to the stone in the dark, and we killed them at the stone.
 They came up the face of it with their shields on their backs, and the crossbows took them as they rose.
-The brothers from Eskárath slung stones into the faces under the helms. The smith's son broke the hands on the stone's top with his bar, and the men went down, and more rose.
+The brothers from Eskarath slung stones into the faces under the helms. The smith's son broke the hands on the stone's top with his bar, and the men went down, and more rose.
 They brought ladders off the carts and set them to the stone. We threw down the ladders and the men on them, and more rose.
 The man from the coast fought with the sword too good for him, and it was not too good for him. He was killed by a spear thrown from below, a long throw,
 and he said nothing at all, the man with the reason. He fell down the back of the stone, the side toward home.
@@ -215,7 +215,7 @@ I told him the rest, that I had said the thing about the fair to Tórsaro. He st
 he said: Well. He has heard four now. And he turned back to the gorge again.
 The legion was coming down. It came all that day. It came in the morning, at noon, in the afternoon, and every time it came to the stone, it came with fewer men,
 and fewer of us met it, and it came again.
-The brothers from Eskárath died at noon, side by side. They had said nothing those three days. They said nothing at the end.
+The brothers from Eskarath died at noon, side by side. They had said nothing those three days. They said nothing at the end.
 The smith's son died at the top of a ladder with his bar in both his hands. The ladder went over with him and three of theirs. The man whose company was dead took a spear in the side and sat down on the stone with his horn on his knees, and did not get up again.
 The bowman was shot from below in the afternoon, and lay where he fell, at the edge, with his bow, and the arrows spent.
 
@@ -255,12 +255,12 @@ the way a shepherd looks to count a flock he cannot see in the fog below.
 Tórsaro stood a long while on the stone. Then he spoke.
 
 Tórsaro said: I heard three, and I heard one. I did what the law does. Yesterday on the plateau's lip I heard four, from a herd boy, and I would hear it again. I struck your name. A struck name does not come back. The roll does not run backward, for me or for you. That is the law, and I keep it. I have no name of yours to give you. Then he said: Boy. You were there. Your mouth is the roll now. Say what we call him.
-And I said the first thing I saw. I said what he was sitting on. I said: Belártsa. The Threshold.
+And I said the first thing I saw. I said what he was sitting on. I said: Belartsa. The Threshold.
 Tórsaro said it after me. His sworn men on the gorge side of the stone said it after him, and the bowmen at its foot on the valley side said it. That is the earned name, and a company gave it. The company was twelve men dead, and a boy, and a plain lord, and the plateau.
 And Tórsaro took the sword from his knees and laid it on the stone and said: That is yours too. And he left it there, and it is there. Ask the stone.
 
 Then they took the stones the legion's baggage lay under and carried them up the gorge to the upper end,
-every stone, a man to a stone, the whole length of the gorge, past the dead, and raised the cairn under the plateau, where the gorge comes up toward home. The twelve are under it: the man from the coast, the man whose captain ran, the low-country four, the bowman, the brothers from Eskárath, the smith's son with his bar, the man whose company was dead with his company's horn. Nobody blew it. Nobody will. It is under the cairn with him, the horn, and the company, and the end.
+every stone, a man to a stone, the whole length of the gorge, past the dead, and raised the cairn under the plateau, where the gorge comes up toward home. The twelve are under it: the man from the coast, the man whose captain ran, the low-country four, the bowman, the brothers from Eskarath, the smith's son with his bar, the man whose company was dead with his company's horn. Nobody blew it. Nobody will. It is under the cairn with him, the horn, and the company, and the end.
 They carried the Threshold up last, on his shield, and laid him at the top of the cairn. I walked in front with nothing in my hands, because I was the one who goes, and that was my place, and that was the end
 of the carrying. Of what lay under the stones that were carried, I do not sing. Ask the cairn.
 Then I went down to the third valley, to the holding his wife had kept seven years without his name, and I said at her threshold: He is called the Threshold now. And she said it after me. And she put that name on the holding, then.
@@ -280,5 +280,5 @@ Of what lay under the stones, I do not sing. Ask the cairn. Now you know.
 
 - [[lore-horngorgebtl|The Battle of the Horn Gorge]]—the closing of both ends and the two days
 - [[place-horngorge|The Horn Gorge]]—the recall on autumn nights, and the cairn at the upper end
-- [[place-lezkora|Lezkóra]] · [[place-asturath|Astúrath]] · [[affiliation-kngdmstrth|Kingdom of Astúrath]]
-- [[lore-tarvenanclt|Tarvénan]]—the long poem, the roll and the unnaming, the earned name, and the oath stone
+- [[place-lezkora|Lezkora]] · [[place-asturath|Asturath]] · [[affiliation-kngdmstrth|Kingdom of Asturath]]
+- [[lore-tarvenanclt|Tarvenan]]—the long poem, the roll and the unnaming, the earned name, and the oath stone

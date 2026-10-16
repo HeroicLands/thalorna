@@ -36,5 +36,5 @@ A temple clerk learning to recognize bodies by their names is told to read this 
 
 ## See Also
 
-- [[lore-khelathiclt|Khelâthi]]—who may hold a stranger's word
+- [[lore-khelathiclt|Khelathi]]—who may hold a stranger's word
 - [[place-galezkara|Galezkara]]—the capital and its underworld

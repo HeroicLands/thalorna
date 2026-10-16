@@ -3,7 +3,7 @@ shortcode: zuqeztunome
 name: {full: Zu-Qeztu, aliases: []}
 type: place
 subType: region
-description: "The western grazing margin; horse-pasture and the watch against raiders—the land of the Selat of Zu-Qeztu, one of the border selatu of Aû'Khelâthu."
+description: "The western grazing margin; horse-pasture and the watch against raiders—the land of the Selat of Zu-Qeztu, one of the border selatu of Au'Khelathu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Zu-Qeztu** is the western grazing country at the edge of the empire's fields, and the land of the [[affiliation-selatzuqeztu|Selat of Zu-Qeztu]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Zu-Qeztu** is the western grazing country at the edge of the empire's fields, and the land of the [[affiliation-selatzuqeztu|Selat of Zu-Qeztu]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -25,12 +25,12 @@ West of the last canal the farmland gives way to dry pasture, and Zu-Qeztu is th
 
 ## Settlements
 
-- [[place-zileti|Zileti]] (~12,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-uqaadty|Uqa'â]].
+- [[place-zileti|Zileti]] (~12,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-uqaadty|Uqa'a]].
 - The villages and estate-towns: a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
 - [[affiliation-selatzuqeztu|The Selat of Zu-Qeztu]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
 - [[place-zileti|Zileti]]—Selat capital
 - [[place-horsebarrows|The Horse Barrows]]—The graves of the first Tha'Ulgau

@@ -20,13 +20,13 @@ A temple scribe needs the burial records of a dwindled house, and the records ar
 
 ## Overview
 
-Read [[place-lutithnet|Lut-Ithnet]] first, and read [[place-lutithnet#truth|what is really there]] before running any scene: who the steward is, what the stitches do, why the house needs witnesses, and why a witness who can speak is a danger to him. The adventure assumes the [[lore-khelathiclt|Khelâthi]] ledger-ethic: an entry left open follows a person to the Weighing, a release closes an entry only when it is declared before witnesses, and at a dead person's [[lore-readingweigh|Reading]] anyone the dead owes may stand and refuse to release him. That refusal is the thing the steward has sewn shut.
+Read [[place-lutithnet|Lut-Ithnet]] first, and read [[place-lutithnet#truth|what is really there]] before running any scene: who the steward is, what the stitches do, why the house needs witnesses, and why a witness who can speak is a danger to him. The adventure assumes the [[lore-khelathiclt|Khelathi]] ledger-ethic: an entry left open follows a person to the Weighing, a release closes an entry only when it is declared before witnesses, and at a dead person's [[lore-readingweigh|Reading]] anyone the dead owes may stand and refuse to release him. That refusal is the thing the steward has sewn shut.
 
 The adventure runs in five scenes. Each can be met with force, stealth, talk, cleverness with the house itself or a sacrifice, and each states how play carries on if the party skips it, fails it or cuts it short.
 
 **The story as the party first meets it.** A steward who keeps to the shade and will not eat, a household of the sewn dead, a ledger that counts the party, a needle at the keyhole: the party reads a house that means to kill it and raise it, and every sentence of that holds.
 
-**The story as it is.** The party is the villain of someone else's story. Gezuhatî needs living strangers on the witness lines beneath the releases he forged for the dead of Zu'Lemetu, and the party's names are on them by the end of the first night, from the receipt signed at the gate or copied from the temple's letter. To the dead of the house, the party are the witnesses who closed their mouths for good. The needle at the keyhole is for the party's own mouths, so that it can never disown the witnessing.
+**The story as it is.** The party is the villain of someone else's story. Gezuhati needs living strangers on the witness lines beneath the releases he forged for the dead of Zu'Lemetu, and the party's names are on them by the end of the first night, from the receipt signed at the gate or copied from the temple's letter. To the dead of the house, the party are the witnesses who closed their mouths for good. The needle at the keyhole is for the party's own mouths, so that it can never disown the witnessing.
 
 > [!IMPORTANT]
 > The reversal changes what the party wants. Before it, the party wants to get out. After it, walking out is the worst thing the party can do: it leaves every release standing, the steward's accounts closed, and a false entry in each character's own account at the Weighing. What the party wants now is to go down into the hall and unsay its witnessing aloud before the dead.
@@ -85,7 +85,7 @@ Leaving no longer saves anyone. Walking out with the party's names on the releas
 
 ## Hooks
 
-A temple scribe of [[lore-wethurdty|Weth'ûr]], **Gezedafu**, holds the older burial records of Zu'Lemetu and has received no new tablets from its estate in years. The house's heirs, a cousin line in a river town, mean to go to law over the estate, and the court wants the estate's own records. Gezedafu hires the party to go up the canal, collect the tablets and bring them back, and he pays a share of whatever salvage the heirs grant on the recovered estate. He gives them a reed skiff and a letter under the temple's seal that names each of them as the temple's agents for the records, and he warns them that the canal is failing.
+A temple scribe of [[lore-wethurdty|Weth'ur]], **Gezedafu**, holds the older burial records of Zu'Lemetu and has received no new tablets from its estate in years. The house's heirs, a cousin line in a river town, mean to go to law over the estate, and the court wants the estate's own records. Gezedafu hires the party to go up the canal, collect the tablets and bring them back, and he pays a share of whatever salvage the heirs grant on the recovered estate. He gives them a reed skiff and a letter under the temple's seal that names each of them as the temple's agents for the records, and he warns them that the canal is failing.
 
 Other entries suit other heroes:
 
@@ -117,7 +117,7 @@ Read or paraphrase this as the skiff grounds:
 
 **NPCs and threats.**
 
-- **Gezuhatî.** A very old man, upright, with a scribe's ink-stained fingers and a voice like a well-kept ledger. He wears the linen of a great house's steward and a seal-cord at his belt. He apologizes for the household's condition at once and gracefully: the servants have taken a vow of silence in mourning for their mistress, and they sewed their own lips at her burial, as the old families sometimes do. Nobody does, but it sounds as though somebody might. He offers shelter, water and food until the relief boat comes. He sent a man downriver when the water dropped. Asked when that was, he begins to answer, stops and says that the days run together in a house of mourning.
+- **Gezuhati.** A very old man, upright, with a scribe's ink-stained fingers and a voice like a well-kept ledger. He wears the linen of a great house's steward and a seal-cord at his belt. He apologizes for the household's condition at once and gracefully: the servants have taken a vow of silence in mourning for their mistress, and they sewed their own lips at her burial, as the old families sometimes do. Nobody does, but it sounds as though somebody might. He offers shelter, water and food until the relief boat comes. He sent a man downriver when the water dropped. Asked when that was, he begins to answer, stops and says that the days run together in a house of mourning.
 - **The seven attendants.** Men and women of the household, clean and well dressed, with stitched mouths and eyes that follow movement a beat late. They smell faintly of washing-salt and resin. Under their tunics, at the wrist and throat, is linen wrapping. They obey the steward's least gesture and do nothing else. They do not attack anyone in this scene.
 
 > [!TIP]
@@ -153,12 +153,12 @@ Read or paraphrase this as the skiff grounds:
 
 **NPCs and threats.**
 
-- **Gezuhatî.** Before he leaves, he asks a favor of the party. A few household releases want a witness, and a stranger with no tie to the house is the proper witness for them. He sets the tablets out, with a reed pen, and asks a character who reads the people's hand to set his name beneath them. He is patient about it and comes back to it more than once.
+- **Gezuhati.** Before he leaves, he asks a favor of the party. A few household releases want a witness, and a stranger with no tie to the house is the proper witness for them. He sets the tablets out, with a reed pen, and asks a character who reads the people's hand to set his name beneath them. He is patient about it and comes back to it more than once.
 - **Thakete.** A young bondswoman of the household, alive, gray-faced and thin, hidden among the wrapped bodies on the preparation room's shelves with a bundle of linen pulled over her. She has not been sewn. She has been fed on: she tires walking across a room. She is terrified of the steward and of being heard.
 - **The attendant in the doorway.** It watches. It does not stop anyone reading. It turns its head to follow any character who goes into the passage.
 
 > [!TIP]
-> Play Thakete with almost no words. She whispers the steward's near name, _Gezû_, as the household always called him, and her brother's name, and she points down. Asked about the stitches, she touches her own mouth and shakes her head. Asked where the steward sleeps, she points down again. Everything else the party learns by looking.
+> Play Thakete with almost no words. She whispers the steward's near name, _Gezu_, as the household always called him, and her brother's name, and she points down. Asked about the stitches, she touches her own mouth and shakes her head. Asked where the steward sleeps, she points down again. Everything else the party learns by looking.
 
 **Player choices.**
 
@@ -198,7 +198,7 @@ Read or paraphrase this as the skiff grounds:
 
 - **The attendants.** Tireless, silent and strong as the dead are strong. They do not strike first. They stand in the way, they take hold, and they carry a struggling person below if enough of them get a grip.
 - **The one that tears.** When challenged, the oldest of them, a big man in a cook's apron, raises his hands to his own face and rips the stitches out. His mouth opens wide and he screams with no breath behind it, a sound like wind in a jar. Then he turns his head, looks at the character who signed the receipt or the releases, or at the one who carried the temple's letter if nobody signed, and his mouth shapes the refusal from the litany of the Reading: _no_. He falls, and he does not get up.
-- **Gezuhatî.** He arrives at the end of the passage with a lamp, as courteous as at the gate. He regrets the noise. He explains, as a host explains a house rule, that the canal is closed, that the house has entered its guests, and that guests of the house remain with the household. He does not lie about any of it now. He says the party will be very comfortable, and that their mouths will be closed only at the very end.
+- **Gezuhati.** He arrives at the end of the passage with a lamp, as courteous as at the gate. He regrets the noise. He explains, as a host explains a house rule, that the canal is closed, that the house has entered its guests, and that guests of the house remain with the household. He does not lie about any of it now. He says the party will be very comfortable, and that their mouths will be closed only at the very end.
 
 > [!IMPORTANT]
 > This scene must put the second look in the party's hands: its own names on the witness lines. Through the jar in the room, through the steward's answer, or through Thakete at the skiff, the reveal lands here, before anyone goes below.
@@ -232,13 +232,13 @@ Read or paraphrase this as the skiff grounds:
 
 > The hall is long and low, and it goes back into the cliff further than the lamps reach. Natron beds run down one side, tables down the middle, and on every bed and every shelf lies a wrapped body with its mouth sewn. On the main table an old woman lies wrapped to the throat. Her lips are stitched shut, and her eyes are open, and they are turned toward the stair you came down.
 
-**Situation.** The preparation hall is long, low and cut back into the cliff. Natron beds run down one side and embalming tables down the middle, with gutters in the floor that drain into the dark mouths of the drains. Bronze partitions hang on tracks from the roof beams, so that the hall can be closed into bays for the seventy days of the first grade. At the far end is a stone niche, freshly cut, with a lamp in it and a name above it: Gezuhatî's own. Above the main table is a light-shaft, closed with a new bronze shutter bolted from below. On the shelves and the beds lie the bound dead of the household who have not risen yet, every mouth sewn. On the main table lies Zabegulu, the old mistress.
+**Situation.** The preparation hall is long, low and cut back into the cliff. Natron beds run down one side and embalming tables down the middle, with gutters in the floor that drain into the dark mouths of the drains. Bronze partitions hang on tracks from the roof beams, so that the hall can be closed into bays for the seventy days of the first grade. At the far end is a stone niche, freshly cut, with a lamp in it and a name above it: Gezuhati's own. Above the main table is a light-shaft, closed with a new bronze shutter bolted from below. On the shelves and the beds lie the bound dead of the household who have not risen yet, every mouth sewn. On the main table lies Zabegulu, the old mistress.
 
 The steward stands at the second table with a curved needle in his hand, finishing Wenlegir. Wenlegir lies in the salt to the chest, alive, his mouth sewn halfway.
 
 **NPCs and threats.**
 
-- **Gezuhatî.** In his own hall he lets the cloak slip. He is taller than he was upstairs, very pale, and the shadow round him is deeper than the lamps account for. He has the strength of his kind and the old steward's patience, and he would rather never fight. He sends the attendants and the risen dead between himself and anyone who comes at him, and works on. He has cord and needles enough for the party. Destroyed anywhere else, he gathers again here after a season or a year. Destroyed here, he is ended.
+- **Gezuhati.** In his own hall he lets the cloak slip. He is taller than he was upstairs, very pale, and the shadow round him is deeper than the lamps account for. He has the strength of his kind and the old steward's patience, and he would rather never fight. He sends the attendants and the risen dead between himself and anyone who comes at him, and works on. He has cord and needles enough for the party. Destroyed anywhere else, he gathers again here after a season or a year. Destroyed here, he is ended.
 - **The attendants and the risen dead.** Whatever is left of the seven, and as many of the bound household as he wakes. He wakes them by touching their stitches, one at a time, and it takes him a breath for each.
 - **Lizulu.** The embalmer who made him, bound on a shelf near the light-shaft, sewn like the rest. Lizulu does not move at the steward's touch, because the steward never woke him. His working is cut into the edge of the main table in the sacred hand: _the servant answers his master while the mouth is closed._
 
@@ -289,7 +289,7 @@ The steward stands at the second table with a curved needle in his hand, finishi
 - _Take the true accounts._ The endowment's books in Zabegulu's hand identify the rightful heirs and show what the steward spent. They are what the temple scribe wanted, and they are worth more to the heirs than the gold.
 - _Open the head-gate._ The steward's seal-cord breaks the estate's seal on the canal head. Water comes down the channel in a day and floats the skiff.
 - _Walk out._ The provision store holds water jars and dried food enough to carry the party, Thakete and Wenlegir along the canal bank to the river in a day.
-- _Release the dead._ Every stitch cut in the house and the galleries lets one of the household refuse its master and lie down. A priest of Weth'ûr can be brought later to say the words; until then the dead lie unread.
+- _Release the dead._ Every stitch cut in the house and the galleries lets one of the household refuse its master and lie down. A priest of Weth'ur can be brought later to say the words; until then the dead lie unread.
 
 **Clues and rewards.** The treasure and the accounts. The tablets with the party's names on them, which the party can break or carry home; breaking one does not unsay it, and only a disowning made in the hall does. If the steward is ended, the house is silent, and its lamps go out one at a time over the first night, though nobody puts them out.
 
@@ -311,5 +311,5 @@ The steward stands at the second table with a curved needle in his hand, finishi
 - [[being-tereb|Tereb]]—what the steward is, and why his Hallowed Ground matters
 - [[being-damut|Damut]]—what the household has become
 - [[lore-readingweigh|The Reading at the Weighing]]—the Asking the steward has sewn shut
-- [[lore-khelathiclt|Khelâthi]]—the ledger-ethic, releases and false entries
+- [[lore-khelathiclt|Khelathi]]—the ledger-ethic, releases and false entries
 - [[lore-khelunulekha|Khelunu Lekhau]]—the Houses, and Gar-Ithnetáu's road for the dead

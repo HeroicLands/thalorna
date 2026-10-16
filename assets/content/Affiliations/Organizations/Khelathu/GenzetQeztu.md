@@ -58,4 +58,4 @@ If you serve under the council's commanders, learn whose students they are. The 
 
 ## See Also
 
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—The empire it serves
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—The empire it serves

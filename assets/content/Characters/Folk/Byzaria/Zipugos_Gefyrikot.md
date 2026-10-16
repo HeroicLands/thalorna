@@ -1,9 +1,9 @@
 ---
 shortcode: zipugosgefyr
-name: {full: Zipugos Gefyríkot, aliases: [Lord Zipugos]}
+name: {full: Zipugos Gefirikot, aliases: [Lord Zipugos]}
 type: being
 subType: npc
-description: An aging administrator who conducts much of his actual governance from a corner table, named in Stemios Hodíkot.
+description: An aging administrator who conducts much of his actual governance from a corner table, named in Stemios Hodikot.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zipugos Gefyríkot is a 68-year-old man who stands 5'10" tall with a heavy build. He has fair skin, ruddy complexion, dark brown hair, and dark brown eyes.
+Zipugos Gefirikot is a 68-year-old man who stands 5'10" tall with a heavy build. He has fair skin, ruddy complexion, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Zipugos Gefyríkot is the city magistrate, an aging administrator who conducts much of his actual governance from a corner table. The note on [[being-ftnshdkt|Stemios Hodíkot]] names him.
+Zipugos Gefirikot is the city magistrate, an aging administrator who conducts much of his actual governance from a corner table. The note on [[being-ftnshdkt|Stemios Hodikot]] names him.

@@ -213,7 +213,7 @@ A Bone Scorpion spends the day buried in a burrow under a rock or a drift, fifte
 
 The Sovidur do not kill a scorpion that keeps to its wall. A string waters on the sunlit side of a well and nobody sits in a strip of shade he has not looked at. A camp is pitched two hundred paces from the water, and the night-herd keeps the animals from drifting back to drink.
 
-The venom sells. A full sac, taken fresh and sealed in wax, is bought at [[place-qisomrktcmp|Qiiso]] by factors who carry it south to the alchemical faculty at [[place-caldar|Caldar]], where it is a paralytic in small doses and a poison in large ones. A scorpion is taken for its venom by a hunter working alone with a long forked pole and a sack, in the last hour before dawn when the animal is slowest, and most of the men who do it have been stung once.
+The venom sells. A full sac, taken fresh and sealed in wax, is bought at [[place-qisomrktcmp|Qiiso]] by factors who carry it south to the alchemical faculty at [[place-caldar|Kaldar]], where it is a paralytic in small doses and a poison in large ones. A scorpion is taken for its venom by a hunter working alone with a long forked pole and a sack, in the last hour before dawn when the animal is slowest, and most of the men who do it have been stung once.
 
 ## Signs
 

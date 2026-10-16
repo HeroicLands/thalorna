@@ -1,6 +1,6 @@
 ---
 shortcode: crsmnthydrvn
-name: {full: The Curse of Mount Hydraven, aliases: []}
+name: {full: The Curse of Mount Hidraven, aliases: []}
 type: scenario
 subType: adventure
 data:
@@ -14,22 +14,22 @@ data:
   packFolder: adventures
 ---
 
-## The Curse of Mount Hýdraven
+## The Curse of Mount Hidraven
 
-Mount Hýdraven, a peak in the Provenzian highlands, has become a place of dread. Travelers vanish, livestock sicken, and villages at its base report terrible dreams and ill fortune. The party must investigate the curse and uncover its source.
+Mount Hidraven, a peak in the Provenzian highlands, has become a place of dread. Travelers vanish, livestock sicken, and villages at its base report terrible dreams and ill fortune. The party must investigate the curse and uncover its source.
 
 ### Overview
 
-Mount Hýdraven looms over the southern highlands of [[place-provenzrgn|Provènzia Region]], a dramatic and beautiful peak that has been a sacred site since pre-Aurèldían times. For the past year, a creeping curse has settled over the mountain and the lands surrounding it. Villagers in the foothills experience nightmares, livestock dies of inexplicable ailments, and anyone who ventures onto the mountain either does not return or returns broken and mad. The local priesthood is divided: some believe the mountain itself is angered by disrespect, others suspect dark magic or demonic influence. The party is hired to investigate and lift the curse.
+Mount Hidraven looms over the southern highlands of [[place-provenzrgn|Provenzia Region]], a dramatic and beautiful peak that has been a sacred site since pre-Aureldían times. For the past year, a creeping curse has settled over the mountain and the lands surrounding it. Villagers in the foothills experience nightmares, livestock dies of inexplicable ailments, and anyone who ventures onto the mountain either does not return or returns broken and mad. The local priesthood is divided: some believe the mountain itself is angered by disrespect, others suspect dark magic or demonic influence. The party is hired to investigate and lift the curse.
 
 ### Stage One: The Commission & Initial Signs
 
 The party is approached by:
 
-- The abbot or priestess of a local Aurèldían shrine
+- The abbot or priestess of a local Aureldian shrine
 - A noble lord whose lands border the cursed mountain
 - A desperate villager whose family has been affected
-- The [[affiliation-ordoarcanis|Thôrdimâlon]], claiming the curse is magical and their concern
+- The [[affiliation-ordoarcanis|Thordimalon]], claiming the curse is magical and their concern
 
 **Initial Information:**
 
@@ -37,7 +37,7 @@ The party is approached by:
 - Those affected report shared symptoms: nightmares, visions, weakness, dread
 - The mountain's peak is shrouded in unnatural mist
 - Local guides refuse to approach the mountain
-- Old records hint at pre-Aurèldían traditions and sacred sites on the peak
+- Old records hint at pre-Aureldían traditions and sacred sites on the peak
 - Some blame the desecration of an ancient shrine or the disturbing of something that should not be disturbed
 
 **NPCs:**
@@ -52,9 +52,9 @@ The party is approached by:
 The party gathers information about the mountain, the curse, and its potential sources:
 
 - Interview survivors and those affected by the curse
-- Consult historical records and religious texts about Mount Hýdraven
+- Consult historical records and religious texts about Mount Hidraven
 - Discover what expedition triggered the curse
-- Learn about pre-Aurèldían traditions and sites on the peak
+- Learn about pre-Aureldían traditions and sites on the peak
 - Identify possible sources: a desecrated shrine, awakened entity, unleashed magic, or ancient trap
 - Investigate whether the curse benefits anyone (pointing to possible human agency)
 
@@ -64,11 +64,11 @@ The party gathers information about the mountain, the curse, and its potential s
 - The priesthood is divided and may hinder or help based on their theories
 - A party member becomes affected by the curse (nightmares, visions, weakness)
 - Someone in the village actively works to prevent investigation (protecting a secret)
-- The [[affiliation-ordoarcanis|Thôrdimâlon]] may attempt to monopolize the investigation
+- The [[affiliation-ordoarcanis|Thordimalon]] may attempt to monopolize the investigation
 
 ### Stage Three: Approaching the Mountain
 
-The party begins the ascent of Mount Hýdraven. Environmental and magical hazards mount:
+The party begins the ascent of Mount Hidraven. Environmental and magical hazards mount:
 
 - Unnatural weather: fog that obscures paths, sudden storms, temperature extremes
 - Wildlife is absent or hostile
@@ -89,7 +89,7 @@ As the party reaches higher elevations, they discover the curse's origin:
 
 **Possible Sources:**
 
-- **Desecrated Pre-Aurèldían Shrine:** A sacred site was disturbed or destroyed, angering the spiritual essence or power bound within
+- **Desecrated Pre-Aureldían Shrine:** A sacred site was disturbed or destroyed, angering the spiritual essence or power bound within
 - **Awakened Entity:** An ancient being (demon, spirit, forgotten god, nature entity) was released or disturbed and now lashes out
 - **Cursed Artifact:** An object of power was brought down the mountain by a previous expedition, and the curse is an effect of its disturbance or theft
 - **Human Conspiracy:** Someone deliberately cursed the mountain to achieve a goal (power, control, revenge)
@@ -120,10 +120,10 @@ The party must resolve the curse by addressing its root cause. Options include:
 
 - The curse is lifted; nightmares cease, livestock recovers, the mountain becomes safe again
 - The priesthood gains renewed faith (or is humbled if their theology was wrong)
-- The party discovers knowledge about pre-Aurèldían traditions or the true nature of the mountain
+- The party discovers knowledge about pre-Aureldían traditions or the true nature of the mountain
 - Gratitude and rewards flow from affected villages and the hiring authority
 - The mountain may become a site of pilgrimage or renewed sanctity
-- The [[affiliation-ordoarcanis|Thôrdimâlon]] may be interested in studying what was found or learned
+- The [[affiliation-ordoarcanis|Thordimalon]] may be interested in studying what was found or learned
 
 **Complications:**
 
@@ -134,7 +134,7 @@ The party must resolve the curse by addressing its root cause. Options include:
 
 ### See Also
 
-- [[place-provenzrgn|Provènzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
-- [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Thôrdimâlon]]
+- [[place-provenzrgn|Provenzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
+- [[affiliation-arldnpnthn|Aureldian]]
+- [[affiliation-ordoarcanis|Thordimalon]]

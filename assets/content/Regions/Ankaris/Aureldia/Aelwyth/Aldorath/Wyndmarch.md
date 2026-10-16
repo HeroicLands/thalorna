@@ -16,7 +16,7 @@ military attention.
 ## The Passes
 
 Everything here is arranged around the two passes over the [[place-sunderfells|Sunderfells]] into
-[[affiliation-jrldmstrmvld|Stormveld]]. [[place-caerwynd|Caerwynd]] is the march's fortress and watches
+[[affiliation-jrldmstrmvld|Stormveld]]. [[place-caerwynd|Kaerwynd]] is the march's fortress and watches
 the southern pass-heads; the garrisons, the levies and the beacon chain all exist for the possibility
 that something comes down out of the north.
 
@@ -44,4 +44,4 @@ and the frontier is precisely where it was. Nobody at [[place-dunmere|Dunmere]] 
 
 ## See Also
 
-- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-caerwynd|Caerwynd]] · [[place-sunderfells|The Sunderfells]]
+- [[affiliation-kngdmldrth|Kingdom of Aldorath]] · [[place-caerwynd|Kaerwynd]] · [[place-sunderfells|The Sunderfells]]

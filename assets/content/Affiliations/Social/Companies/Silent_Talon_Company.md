@@ -87,25 +87,25 @@ The Silent Talon’s mixed composition allows us to excel in a variety of specia
 
 ## Meet the Team
 
-- [[being-branwldrgr|Branvàl Dorgàl]] --- _Captain_
+- [[being-branwldrgr|Branval Dorgal]] --- _Captain_
 
-With a sharp mind for strategy and command, Branvàl has led men through some of the most dangerous conflicts in the Blood Lands. He brings unparalleled leadership and tactical insight to the group, ensuring that every mission is executed with precision. His focus is on calculated decisions, ensuring the safety and success of his team.
+With a sharp mind for strategy and command, Branval has led men through some of the most dangerous conflicts in the Blood Lands. He brings unparalleled leadership and tactical insight to the group, ensuring that every mission is executed with precision. His focus is on calculated decisions, ensuring the safety and success of his team.
 
-- [[being-dornsyndlr|Dorèn Sindàlre]] --- _Assault Specialist_
+- [[being-dornsyndlr|Doren Sindalre]] --- _Assault Specialist_
 
-A formidable force on the battlefield, Dorèn is the heavy hitter of the Silent Talon. Towering in stature and wielding his axe with deadly efficiency, he’s a warrior who knows how to get the job done. When combat is needed, Dorèn is the first to charge in and the last to back down.
+A formidable force on the battlefield, Doren is the heavy hitter of the Silent Talon. Towering in stature and wielding his axe with deadly efficiency, he’s a warrior who knows how to get the job done. When combat is needed, Doren is the first to charge in and the last to back down.
 
-- [[being-chlbrhydyn|Chelèbe Riddìn]] --- _Scout_
+- [[being-chlbrhydyn|Chelebe Riddin]] --- _Scout_
 
-A master of the wilderness, Chelèbe hails from the Jerinálian Mountains, where he honed his skills in tracking, survival, and archery. His keen senses and deep knowledge of nature make him the group’s go-to for scouting missions and reconnaissance. Chelèbe can blend seamlessly into the terrain, uncovering vital information with ease.
+A master of the wilderness, Chelebe hails from the Jerinálian Mountains, where he honed his skills in tracking, survival, and archery. His keen senses and deep knowledge of nature make him the group’s go-to for scouting missions and reconnaissance. Chelebe can blend seamlessly into the terrain, uncovering vital information with ease.
 
-- [[being-torniskbry|Tórnis Kúbri]] --- _Intelligence Operative_
+- [[being-torniskbry|Tornis Kubri]] --- _Intelligence Operative_
 
-Silent, adaptable, and resourceful, Tórnis is the man you call when you need to get into places no one else can. With an unrivaled talent for blending in, he excels in espionage, gathering intelligence, and handling missions that require discretion. Tórnis’ ability to operate covertly makes him an indispensable part of the Silent Talon.
+Silent, adaptable, and resourceful, Tornis is the man you call when you need to get into places no one else can. With an unrivaled talent for blending in, he excels in espionage, gathering intelligence, and handling missions that require discretion. Tornis’ ability to operate covertly makes him an indispensable part of the Silent Talon.
 
-- [[being-elyseskyrn|Élithë Sárneth]] --- _Field Medic_
+- [[being-elyseskyrn|Élithe Sarneth]] --- _Field Medic_
 
-Every team needs someone who can keep them going, and Élithë is the heart of Silent Talon’s support. A skilled healer and apothecary, Élithë ensures that no injury goes untreated and no poison goes unpurged. Her knowledge of herbs and remedies allows the team to recover quickly, no matter how dangerous the mission.
+Every team needs someone who can keep them going, and Élithe is the heart of Silent Talon’s support. A skilled healer and apothecary, Élithe ensures that no injury goes untreated and no poison goes unpurged. Her knowledge of herbs and remedies allows the team to recover quickly, no matter how dangerous the mission.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 shortcode: dvalgmyl
-name: {full: Dvalgmýl, aliases: [Captain Dvalgmýl]}
+name: {full: Dvalgmil, aliases: [Captain Dvalgmil]}
 type: being
 subType: npc
-description: Captain of the City Watch, a dogged lawman who has pursued Dvirnmýl the Deceiver for years.
+description: Captain of the City Watch, a dogged lawman who has pursued Dvirnmil the Deceiver for years.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dvalgmýl is a 46-year-old man who stands 5'11" tall with a heavy build. He has tanned skin, weathered complexion, brown hair, and brown eyes.
+Dvalgmil is a 46-year-old man who stands 5'11" tall with a heavy build. He has tanned skin, weathered complexion, brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Dvalgmýl is the captain of the City Watch, a dogged lawman who has pursued [[being-dvrnmyldcvr|Dvirnmýl the Deceiver]] for years. He has come closer to catching [[being-dvrnmyldcvr|Dvirnmýl the Deceiver]] than anyone else.
+Dvalgmil is the captain of the City Watch, a dogged lawman who has pursued [[being-dvrnmyldcvr|Dvirnmil the Deceiver]] for years. He has come closer to catching [[being-dvrnmyldcvr|Dvirnmil the Deceiver]] than anyone else.

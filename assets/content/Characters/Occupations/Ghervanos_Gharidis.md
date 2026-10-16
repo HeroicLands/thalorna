@@ -1,6 +1,6 @@
 ---
 shortcode: ghrvnsghrds
-name: {full: Ghérvanos Gharîdís, aliases: []}
+name: {full: Ghérvanos Gharidís, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -396,11 +396,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Ghérvanos Gharîdís is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with broad cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His wide-set dark brown eyes sit beneath arched brows and give him an open gaze. He has an aquiline nose and expressive lips. He has medium-toned skin with a smooth complexion. His graying brown hair is tied in a low tail. He has crow's feet at the corners of his sharp eyes.
+Ghérvanos Gharidís is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with broad cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His wide-set dark brown eyes sit beneath arched brows and give him an open gaze. He has an aquiline nose and expressive lips. He has medium-toned skin with a smooth complexion. His graying brown hair is tied in a low tail. He has crow's feet at the corners of his sharp eyes.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ghérvanos Gharîdís is a hideworker.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Ghérvanos Gharidís is a hideworker.
 
 Ghérvanos has been a hideworker for decades and is known for his skill with the tougher hides of larger animals. He mostly makes durable leather goods, such as armor and heavy bags. His experience keeps him in demand, though his blunt manner can be intimidating. He takes pride in his work and knows a great deal about the different methods of tanning.
 
@@ -440,6 +440,6 @@ Few; his peers respect him, but some younger craftsmen see him as old-fashioned.
 
 3. **Echoes of the Past**—A suit of armor Ghérvanos made decades ago comes back to his shop, and the man wearing it is not the one he made it for.
 
-4. **Shifting Winds**—Political change in Heliónis threatens the trade Ghérvanos depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Helionis threatens the trade Ghérvanos depends upon, and he can adapt, resist, or leave.
 
 5. **The Opportunity**—Ghérvanos is offered the leatherwork for a whole company of warriors, and its price is not named up front.

@@ -1,11 +1,11 @@
 ---
 shortcode: bashvarddarv
 name:
-  full: Bashvard Darvâni
-  aliases: [Fortress Commander Bashvard Darvâni, Fortress Commander Bashvard]
+  full: Bashvard Darvani
+  aliases: [Fortress Commander Bashvard Darvani, Fortress Commander Bashvard]
 type: being
 subType: npc
-description: The garrison's senior officer, who respects Delânash Ferudân completely.
+description: The garrison's senior officer, who respects Delanash Ferudan completely.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Bashvard Darvâni is a 61-year-old man who stands 6'2" tall with a medium build. He has tawny skin, weathered complexion, dark brown hair, and brown eyes.
+Bashvard Darvani is a 61-year-old man who stands 6'2" tall with a medium build. He has tawny skin, weathered complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Bashvard Darvâni is the fortress commander and the garrison's senior officer. He respects [[being-delnshfrdn|Delânash Ferudân]] completely and has made her his effective second-in-command; aging and increasingly aware that his time is ending, he has made quiet arrangements to recommend her as his successor, which would be unprecedented.
+Bashvard Darvani is the fortress commander and the garrison's senior officer. He respects [[being-delnshfrdn|Delanash Ferudan]] completely and has made her his effective second-in-command; aging and increasingly aware that his time is ending, he has made quiet arrangements to recommend her as his successor, which would be unprecedented.

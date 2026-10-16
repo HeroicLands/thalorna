@@ -1,11 +1,11 @@
 ---
 shortcode: kemiashthala
 name:
-  full: Kemiásh Thalassíkot
-  aliases: [Captain Kemiásh Thalassíkot, Merchant Captain Kemiásh Thalassíkot]
+  full: Kemiásh Thalassikot
+  aliases: [Captain Kemiásh Thalassikot, Merchant Captain Kemiásh Thalassikot]
 type: being
 subType: npc
-description: A merchant captain and new crime boss moving into the bazaar and encroaching on Khasrikon Damakláhr's territory, named in Ghorigios Pediníkot.
+description: A merchant captain and new crime boss moving into the bazaar and encroaching on Khasrikon Damakláhr's territory, named in Ghorigios Pedinikot.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Kemiásh Thalassíkot is a 47-year-old woman who stands 5'5" tall with a medium build. She has light skin, sun-kissed complexion, dark blonde hair, and green eyes.
+Kemiásh Thalassikot is a 47-year-old woman who stands 5'5" tall with a medium build. She has light skin, sun-kissed complexion, dark blonde hair, and green eyes.
 
 # Dossier {#dossier}
 
-Kemiásh Thalassíkot is a merchant captain and new crime boss moving into the bazaar and encroaching on the territory of Khasrikon Damakláhr. The result is an escalating war that threatens legitimate merchants, as the note on [[being-dmtrnpdnkt|Ghorigios Pediníkot]] records.
+Kemiásh Thalassikot is a merchant captain and new crime boss moving into the bazaar and encroaching on the territory of Khasrikon Damakláhr. The result is an escalating war that threatens legitimate merchants, as the note on [[being-dmtrnpdnkt|Ghorigios Pedinikot]] records.

@@ -1,9 +1,9 @@
 ---
 shortcode: kalmethartha
-name: {full: Kalmêthar Thârkhândis, aliases: [Baron Kalmêthar]}
+name: {full: Kalmethar Tharkis, aliases: [Baron Kalmethar]}
 type: being
 subType: npc
-description: An elderly baron afraid of death, who is the patron of Dómrithâs Vîshârdâs.
+description: An elderly baron afraid of death, who is the patron of Dómrithas Vishardas.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kalmêthar Thârkhândis is a 79-year-old man who stands 5'6" tall with a light build. He has tanned skin, weathered complexion, dark brown hair, and blue eyes.
+Kalmethar Tharkis is a 79-year-old man who stands 5'6" tall with a light build. He has tanned skin, weathered complexion, dark brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Kalmêthar Thârkhândis is a baron, elderly and afraid of death, and the patron of [[being-dmrthsvshrds|Dómrithâs Vîshârdâs]]. He supplies resources, protection from guild scrutiny and test subjects from the servile population of his estate. He sees the work of [[being-dmrthsvshrds|Dómrithâs Vîshârdâs]] as his best hope for extended life or immortality.
+Kalmethar Tharkis is a baron, elderly and afraid of death, and the patron of [[being-dmrthsvshrds|Dómrithas Vishardas]]. He supplies resources, protection from guild scrutiny and test subjects from the servile population of his estate. He sees the work of [[being-dmrthsvshrds|Dómrithas Vishardas]] as his best hope for extended life or immortality.

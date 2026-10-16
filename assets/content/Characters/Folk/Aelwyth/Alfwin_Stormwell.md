@@ -1,9 +1,9 @@
 ---
 shortcode: alfwinstormw
-name: {full: Alfwin Stormwell, aliases: [Ser Alfwin]}
+name: {full: Mildwin Stormwell, aliases: [Ser Mildwin]}
 type: being
 subType: npc
-description: A younger guard under Thórir Eldskari's command who is diagnosed with a wasting illness.
+description: A younger guard under Thorir Eldskari's command who is diagnosed with a wasting illness.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Alfwin Stormwell is a 31-year-old man who stands 6'1" tall with a massive build. He has light skin, freckled complexion, red hair, and grey eyes.
+Mildwin Stormwell is a 31-year-old man who stands 6'1" tall with a massive build. He has light skin, freckled complexion, red hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Alfwin Stormwell is a younger guard under the command of [[being-thorrldskr|Thórir Eldskari]], addressed as Ser. He is married with children and is diagnosed with a wasting illness, and his military pension will not support his family after his death.
+Mildwin Stormwell is a younger guard under the command of [[being-thorrldskr|Thorir Eldskari]], addressed as Ser. He is married with children and is diagnosed with a wasting illness, and his military pension will not support his family after his death.

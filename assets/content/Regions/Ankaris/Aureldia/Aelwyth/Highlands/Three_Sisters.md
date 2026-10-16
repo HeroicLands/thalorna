@@ -3,7 +3,7 @@ shortcode: threesisters
 name: {full: The Three Sisters, aliases: [Battle of Three Sisters]}
 type: place
 subType: site
-description: "Three peaks above the Central Highlands, and the battlefield where the Sinalë king of Aelwyth was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
+description: "Three peaks above the Central Highlands, and the battlefield where the Sinale king of Aelwyth was killed in 984 BF—ending the Great War, the joint kingdom of the elder races, and six centuries of deliberate reconciliation."
 tags: [sacred, mountain, inland]
 data: {demonym: null, lore: [], parents: [cntrlhghlnds], population: null, packFolder: aelwyth}
 ---
@@ -13,28 +13,28 @@ the middle of Aelwyth. They are unremarkable mountains and the most important pl
 
 ## The Battle
 
-In **984 BF** the armies of the elder kingdom met the Pelwar and their Varkhad masters beneath them, and the **Sinalë king of
+In **984 BF** the armies of the elder kingdom met the Pelwar and their Varkhad masters beneath them, and the **Sinale king of
 Aelwyth was killed** by the Varkhad.
 
 It was the decisive engagement of the **Great War**, and its consequences went far past who held the
-field. With the king dead the surviving [[lore-flksinale|Sinalë]] **withdrew**—out of the war, out of
+field. With the king dead the surviving [[lore-flksinale|Sinale]] **withdrew**—out of the war, out of
 the kingdom, and into the deep forest of the south that is now the [[place-hallowwood|Hallowwood]]—and
-left the [[lore-flkkhazar|Khazári]] to finish it.
+left the [[lore-flkkhazar|Khazari]] to finish it.
 
-The Khazári finished it. They have never forgiven the withdrawal, and the two elder races of Aelwyth
+The Khazari finished it. They have never forgiven the withdrawal, and the two elder races of Aelwyth
 have had nothing whatever to do with one another since.
 
 ## What Was Lost There
 
 More than a king and more than a war.
 
-The joint kingdom had been **a deliberate attempt at reconciliation**. Khazártúrn had fallen in 2427 BF
+The joint kingdom had been **a deliberate attempt at reconciliation**. Khazartúrn had fallen in 2427 BF
 and the sundering with it, and the two peoples on this island—alone among their kind—had decided
 that would not be the end of it. In time they united under a single crown, governed Aelwyth together, and kept
 it up for six centuries; the [[lore-jointcrown|Joint Crown]] was founded about 1585 BF. It is the only such attempt either race has ever made.
 
 The Three Sisters is where that ended, and it ended in the way most calculated to make it
-irrecoverable: not in a quarrel, but with the Sinalë walking away from the Khazári in a crisis, for the
+irrecoverable: not in a quarrel, but with the Sinale walking away from the Khazari in a crisis, for the
 second time, having spent six hundred years persuading them it would not happen again.
 
 ## How It Came About
@@ -42,7 +42,7 @@ second time, having spent six hundred years persuading them it would not happen 
 The Pelwar were not invaders, and Aelwyth already knew them.
 
 There had been humans on Aelwyth for a very long time, and it was the
-[[lore-flkkhazar|Khazári]] who put them there.
+[[lore-flkkhazar|Khazari]] who put them there.
 
 A hold grows nothing and cannot be supplied from outside, so the Deep Folk have always needed farmers
 within reach of the gate—and when they settled this island they did what they had done everywhere
@@ -51,7 +51,7 @@ people than the Pelwar, whose descendants are the [[lore-vardain|Vardain]]. Peac
 agricultural, and willing; the arrangement worked here for a very long time.
 
 Pelwar came afterward on their own account, in **small numbers**, and were **accepted**—given ground,
-taken into the kingdom, and dealt with as subjects rather than intruders. The Khazári in particular
+taken into the kingdom, and dealt with as subjects rather than intruders. The Khazari in particular
 took to them, for reasons that were entirely practical and not at all secret.
 
 So when the flood arrived, many of the humans already on Aelwyth were **the newcomers' own kin**, settled
@@ -70,7 +70,7 @@ It should be understood what that means.
 Aelwyth lies something like two hundred and thirty sea-miles off the coast. That is not a distance
 barbarian peoples cross—not in the craft they had, not with families and stock aboard, not without
 pilots or charts or any notion of what the weather does out there. The ancestors of the Vardain had come as
-**passengers**, carried in Khazári bottoms by people who knew the water. The ones who came in 1200 BF
+**passengers**, carried in Khazari bottoms by people who knew the water. The ones who came in 1200 BF
 came in whatever would float.
 
 Most of them died. The traditions do not give a figure and the figure has been guessed at ever since,
@@ -98,23 +98,23 @@ them. They had nowhere to go. Both of those were true at once for two hundred ye
 The Varkhad among the settlers killed him, and how they did it is the part of the account that is vague in every telling and has never been
 filled in.
 
-A Sinalë king of that age was not a thing that mortals killed. Whatever met him beneath the Three
+A Sinale king of that age was not a thing that mortals killed. Whatever met him beneath the Three
 Sisters, the tradition is consistent that it was **not merely an army**—that some other force was at
 work, spiritual in nature, and that it was present on that field for a reason nobody has ever explained.
 
-The Sinalë do not discuss it. The Khazári were not told. What is agreed is only the outcome: the king
+The Sinale do not discuss it. The Khazari were not told. What is agreed is only the outcome: the king
 died, and the effect on his people was not defeat but **heart-failure**—they simply stopped.
 
 ## What They Did Next
 
 They did not withdraw from the war. They **abandoned everything**.
 
-The Sinalë gave up the crown, the kingdom, the settled country, the coasts, the works of six hundred
+The Sinale gave up the crown, the kingdom, the settled country, the coasts, the works of six hundred
 years of joint rule, and every claim of any kind outside the deep forest of the south—and they went
 into [[place-hallowwood|the wood]], and they have not come out.
 
-Everything they left, they left **to the other races**: to the Khazári who had been fighting beside them,
-and to the humans they had been fighting. The Khazári finished the war alone, as [[lore-endgreatwar|the Ending of the Great War]] tells it. What the Sinalë handed over
+Everything they left, they left **to the other races**: to the Khazari who had been fighting beside them,
+and to the humans they had been fighting. The Khazari finished the war alone, as [[lore-endgreatwar|the Ending of the Great War]] tells it. What the Sinale handed over
 by walking away is, in a straightforward sense, the reason Aelwyth has human kingdoms on it at all.
 
 ## Now
@@ -126,4 +126,4 @@ the name means anything.
 ## See Also
 
 - [[place-hallowwood|The Hallowwood]] · [[place-vorgald|Vorgald]] · [[place-aelwyth|Aelwyth]]
-- [[lore-khazarturn|The Fall of Khazártúrn]]
+- [[lore-khazarturn|The Fall of Khazartúrn]]

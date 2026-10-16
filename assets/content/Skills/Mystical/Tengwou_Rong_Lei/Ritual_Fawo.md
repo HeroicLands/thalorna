@@ -1,6 +1,6 @@
 ---
 shortcode: fawo
-name: {full: "Ritual: Fawō", aliases: [Fawō, The Minister of Material Fortune]}
+name: {full: "Ritual: Fawo", aliases: [Fawo, The Minister of Material Fortune]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-fawo|Fawō]]
+See [[affiliation-fawo|Fawo]]

@@ -1,9 +1,9 @@
 ---
 shortcode: chandrapurland
-name: {full: Chandrapur Land, aliases: []}
+name: {full: Chendrapur Land, aliases: []}
 type: place
 subType: region
-description: "The land of the city-state of Chandrapur—the lower Chandramahī and its delta, the gem-road up the valley behind it, and the roadstead at the river mouth where the galleys lie."
+description: "The land of the city-state of Chendrapur—the lower Chandramahi and its delta, the gem-road up the valley behind it, and the roadstead at the river mouth where the galleys lie."
 tags: [region, held]
 data:
   demonym: Chandrapuri
@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Go up the [[place-chandrmahi|Chandramahī]] from the sea and the country changes three times before you reach the rapids: a shore of salt-pans and fishing beaches, a floodplain of rice and cotton, and above the city a valley of workshops. All three belong to the city-state of [[affiliation-chandrapur|Chandrapur]], which holds the lower river from the last of the rapids down to the sea, the delta the river builds there, and the roadstead outside the bar where deep-water hulls wait out the monsoon. The city stands at the head of the delta, and everything in the land is arranged with reference to it, from the gem-road that climbs the valley to the cutting-villages to the boat-timber the shore sends down to the yards.
+Gho up the [[place-chandrmahi|Chandramahi]] from the sea and the country changes three times before you reach the rapids: a shore of salt-pans and fishing beaches, a floodplain of rice and cotton, and above the city a valley of workshops. All three belong to the city-state of [[affiliation-chandrapur|Chendrapur]], which holds the lower river from the last of the rapids down to the sea, the delta the river builds there, and the roadstead outside the bar where deep-water hulls wait out the monsoon. The city stands at the head of the delta, and everything in the land is arranged with reference to it, from the gem-road that climbs the valley to the cutting-villages to the boat-timber the shore sends down to the yards.
 
 ## How the land is held
 
-The land is _held_, not endowed, and that is the first thing a traveler up from the janapadas notices. Away from the city the villages answer to a person. In the valley quarters a house has kept for generations, that person is a **Kulina**, the head of one of the **Nine Houses**. On the crown's fields at the river mouth it is the Mahārāja's own people. It is a temple only where a temple has been endowed with ground outright, and in this land that is uncommon. A cultivator here works under a holder as he works under a sabhā fifty miles inland, but he knows the holder's name, and the holder's name is a man's.
+The land is _held_, not endowed, and that is the first thing a traveler up from the janapadas notices. Away from the city the villages answer to a person. In the valley quarters a house has kept for generations, that person is a **Kulena**, the head of one of the **Nine Houses**. On the crown's fields at the river mouth it is the Maharava's own people. It is a temple only where a temple has been endowed with ground outright, and in this land that is uncommon. A cultivator here works under a holder as he works under a sabhra fifty miles inland, but he knows the holder's name, and the holder's name is a man's.
 
 The seats descend by house and not by turn, so a Chandrapuri village changes hands at a marriage or a bankruptcy and never at an election. The Houses' rise and fall is read off the map of the valley as much as off the court's seating.
 
@@ -53,11 +53,11 @@ The query names the city and the port. The rest of the land lives in the cutting
 
 ## The Valley, the Floodplain and the Shore
 
-The valley is the gem-road. It climbs behind the city along the last hundred miles of the Chandramahī, and its villages are workshops with fields attached rather than the other way about. A village that saws and a village that polishes may be an hour apart and will not do each other's work.
+The valley is the gem-road. It climbs behind the city along the last hundred miles of the Chandramahi, and its villages are workshops with fields attached rather than the other way about. A village that saws and a village that polishes may be an hour apart and will not do each other's work.
 
 The floodplain is the delta itself, two rice crops a year on ground the river remakes, with cotton on the drier back-country. It is the most productive land in the city-state and the least regarded, because nothing that grows on it is worth what a cut stone is worth.
 
-The shore runs east and west from the river mouth: salt-pans behind the dunes, fishing beaches, and the boat-timber the yards at [[place-chandrmukha|Chandramukha]] consume. The shore villages are the poorest in the land and the least attached to it, because a man on that coast can always go to sea.
+The shore runs east and west from the river mouth: salt-pans behind the dunes, fishing beaches, and the boat-timber the yards at [[place-chandrmukha|Chandramukha]] consume. The shore villages are the poorest in the land and the least attached to it, because a man on that coast can always gho to sea.
 
 ## Economy
 
@@ -67,9 +67,9 @@ The river mouth is the other half of it. The fleet lies at [[place-chandrmukha|C
 
 ## See Also
 
-- [[affiliation-chandrapur|Chandrapur]]—the city-state that holds this land
-- [[place-chandrapur2|Chandrapur]]—the city itself
+- [[affiliation-chandrapur|Chendrapur]]—the city-state that holds this land
+- [[place-chandrapur2|Chendrapur]]—the city itself
 - [[place-chandrmukha|Chandramukha]]—the port at the river's mouth
-- [[place-chandrmahi|The Chandramahī]]—the river the land is built along
+- [[place-chandrmahi|The Chandramahi]]—the river the land is built along
 - [[place-vedyarargn|Vedyara Region]]—the enclosing region
 - [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]—the caravan and credit network the gem trade runs on

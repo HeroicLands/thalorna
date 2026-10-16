@@ -1,6 +1,6 @@
 ---
 shortcode: gwirador
-name: {full: Güredör, aliases: [The Wild Bull Camel]}
+name: {full: Guredor, aliases: [The Wild Bull Camel]}
 type: being
 subType: creature
 description: "The feral two-humped bull camel of the deep sands, a placid grazer for ten months of the year and a killer of riders in the cold months of rut."
@@ -256,9 +256,9 @@ You hear him before you see him: a deep, gargling roar from beyond the dune, lik
 
 # Dossier {#dossier}
 
-The Güredör is the wild bull camel of the deep sands, descended from strings that escaped or were abandoned in the waste and bred true to the desert over a thousand years. It is bigger, leaner and far fiercer than any beast a caravan has led, and in the rutting season the bulls lose all fear of men. A Güredör in rut kills riders, breaks the lead lines of strings and scatters a caravan across a dozen miles of dune, and the tribes number it with the sand wurm among the reasons the road is crossed in force. Its name is the word for a camel of the open range, "the range-camel", and the tribes use it for the bull alone: a cow with her herd is only a wild camel, and she is no danger unless she is cornered.
+The Guredor is the wild bull camel of the deep sands, descended from strings that escaped or were abandoned in the waste and bred true to the desert over a thousand years. It is bigger, leaner and far fiercer than any beast a caravan has led, and in the rutting season the bulls lose all fear of men. A Guredor in rut kills riders, breaks the lead lines of strings and scatters a caravan across a dozen miles of dune, and the tribes number it with the sand wurm among the reasons the road is crossed in force. Its name is the word for a camel of the open range, "the range-camel", and the tribes use it for the bull alone: a cow with her herd is only a wild camel, and she is no danger unless she is cornered.
 
-It is also the origin of the finest camels on the road. The tribes of the sands take young from the wild herds, and the hardiest strings of the Khoshiqor carry the Güredör's blood.
+It is also the origin of the finest camels on the road. The tribes of the sands take young from the wild herds, and the hardiest strings of the Khoshiqor carry the Guredor's blood.
 
 ## Presentation
 
@@ -268,13 +268,13 @@ The broad, two-toed foot spreads on the sand like a plate. A bull's track is hal
 
 ## In the Land
 
-The Güredör lives in the deep sands of the Khoshiqor, where the dunes are too high and the wells too far apart for a tribe to settle, and in the stony pastures of the Diqraqor. A herd keeps to a range of a hundred miles and moves from one hidden seep to the next, and the best of the Uruvolur say that the herds know waters the guides do not. They are the only large animals that live in the sand year-round, and the herd-bulls of one range know one another by sight, since each season's fights settle which bull holds which waters.
+The Guredor lives in the deep sands of the Khoshiqor, where the dunes are too high and the wells too far apart for a tribe to settle, and in the stony pastures of the Diqraqor. A herd keeps to a range of a hundred miles and moves from one hidden seep to the next, and the best of the Uruvolur say that the herds know waters the guides do not. They are the only large animals that live in the sand year-round, and the herd-bulls of one range know one another by sight, since each season's fights settle which bull holds which waters.
 
 A herd drinks at a seep for a day and moves on. The tribes that own the seeps watch for the bulls in autumn, as the cold comes in, and move their own camels away from the trails to the water.
 
 ## Key Behaviors
 
-For ten months the Güredör is a placid grazer, browsing thorn and saltbush in the early morning and evening and lying up in the shade of a dune through the heat. For the other two, the cold months, the bulls are in rut. A rutting bull stops eating and loses weight, he patrols the edge of his herd night and day, and he treats every male camel he sees as a rival, whether wild or tame, loose or in a string, and a tame bull carrying a load is a challenger like any other.
+For ten months the Guredor is a placid grazer, browsing thorn and saltbush in the early morning and evening and lying up in the shade of a dune through the heat. For the other two, the cold months, the bulls are in rut. A rutting bull stops eating and loses weight, he patrols the edge of his herd night and day, and he treats every male camel he sees as a rival, whether wild or tame, loose or in a string, and a tame bull carrying a load is a challenger like any other.
 
 He screams a challenge from a distance, circles, and charges. The fight is wrestling and biting: neck against neck, the bulls trying to throw each other to the sand and bite the legs. A rutting bull reaches a tame bull in the same way, and the rider on the tame bull is part of the fight.
 
@@ -282,11 +282,11 @@ A rutting bull's attention is single and total. He ignores spears thrown at him 
 
 ## What the Tribes Do
 
-The tribes geld every male camel they do not breed, and most strings are all geldings and cows. A caravan that crosses in autumn takes this seriously, because the lead animal of a string, which is usually an entire male, is the animal a Güredör will charge. A careful master swaps his lead bull for a gelding at the last well before the deep sands.
+The tribes geld every male camel they do not breed, and most strings are all geldings and cows. A caravan that crosses in autumn takes this seriously, because the lead animal of a string, which is usually an entire male, is the animal a Guredor will charge. A careful master swaps his lead bull for a gelding at the last well before the deep sands.
 
-Drivers watch for the sac. A bull showing it is a day from a fight, and a string that sees one at a distance turns at once, downwind, putting the cows between the string and the herd. If the bull comes anyway, the drovers cut loose the lead bull and let the Güredör have him, because a bull that has beaten a rival is satisfied for the day and a bull that has not follows the string for a week. A tame bull that is cut loose is the price of the crossing. Some masters carry an old bull for the purpose.
+Drivers watch for the sac. A bull showing it is a day from a fight, and a string that sees one at a distance turns at once, downwind, putting the cows between the string and the herd. If the bull comes anyway, the drovers cut loose the lead bull and let the Guredor have him, because a bull that has beaten a rival is satisfied for the day and a bull that has not follows the string for a week. A tame bull that is cut loose is the price of the crossing. Some masters carry an old bull for the purpose.
 
-The tribes also stalk the herds for young and for hides. A hunter who goes after a Güredör wears the oldest clothes he owns and carries a rope, a net of braided hair and a long spear, and he does it in the warm months, when the bulls are quiet.
+The tribes also stalk the herds for young and for hides. A hunter who goes after a Guredor wears the oldest clothes he owns and carries a rope, a net of braided hair and a long spear, and he does it in the warm months, when the bulls are quiet.
 
 ## Signs
 
@@ -299,9 +299,9 @@ The tribes also stalk the herds for young and for hides. A hunter who goes after
 
 ## Combat Strategy
 
-A rutting Güredör attacks to bite and to bowl over. He closes at a run, lowers his head and slams the shoulder into the opposing animal, and when the opponent falls he bites at the legs and the neck. Against a mounted man he knocks the mount down, then goes for the rider on the ground. Trampling and biting follow the first charge, and a bull is hard to dislodge once he has hold of a limb.
+A rutting Guredor attacks to bite and to bowl over. He closes at a run, lowers his head and slams the shoulder into the opposing animal, and when the opponent falls he bites at the legs and the neck. Against a mounted man he knocks the mount down, then goes for the rider on the ground. Trampling and biting follow the first charge, and a bull is hard to dislodge once he has hold of a limb.
 
-Out of rut he flees the sight of people and will not turn on a party that keeps its distance. The Güredör's weakness is its single-mindedness. A rutting bull follows the nearest rival and pays little attention to a party that stays out of the line, and a bull led off after a loose gelding can be separated from a string by a rider who can ride.
+Out of rut he flees the sight of people and will not turn on a party that keeps its distance. The Guredor's weakness is its single-mindedness. A rutting bull follows the nearest rival and pays little attention to a party that stays out of the line, and a bull led off after a loose gelding can be separated from a string by a rider who can ride.
 
 ## Attack Methods
 
@@ -321,7 +321,7 @@ In the cold months a bull cannot be frightened off. He disregards pain, noise an
 
 ### Sand Runner
 
-The broad foot holds on loose sand, and the Güredör crosses dunes at a speed a tame camel cannot sustain. A rider on a tame mount cannot outrun one over open sand.
+The broad foot holds on loose sand, and the Guredor crosses dunes at a speed a tame camel cannot sustain. A rider on a tame mount cannot outrun one over open sand.
 
 ### Desert Endurance
 
@@ -349,4 +349,4 @@ It goes a week without drinking and lives on dry thorn. A herd in a dry year thi
 
 ## A Hook
 
-A caravan master in the market-camp of Qiiso has bought a young cow in season at an extravagant price, a wild-blood animal from the finest herd in the sands, to be delivered to a court in the east. The cow is in a closed pen, and every Güredör for twenty miles has smelled her. The master needs the party to guard the pen through the next week, and the master's own men are already deserting. The bulls begin to gather at dusk on the ridge, and the old lead bull of the string, the master's pride, is screaming back.
+A caravan master in the market-camp of Qiiso has bought a young cow in season at an extravagant price, a wild-blood animal from the finest herd in the sands, to be delivered to a court in the east. The cow is in a closed pen, and every Guredor for twenty miles has smelled her. The master needs the party to guard the pen through the next week, and the master's own men are already deserting. The bulls begin to gather at dusk on the ridge, and the old lead bull of the string, the master's pride, is screaming back.

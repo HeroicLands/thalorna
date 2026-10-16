@@ -3,7 +3,7 @@ shortcode: shokumatrb
 name: {full: Shókuma Tribe, aliases: []}
 type: affiliation
 subType: polity
-description: A forest and river tribe of the Okháris that gathers wild honey and beeswax and keeps a tradition of spirit communion.
+description: A forest and river tribe of the Okharis that gathers wild honey and beeswax and keeps a tradition of spirit communion.
 tags: [draft]
 data:
   templatePriority: null
@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe owes fealty to Okháris, and its chieftain and elders attend the regular moots held in the temple-cities, where matters affecting the tribes are decided. Every member holds standing in Okháris as well as in the tribe: most as Villager/Townsman, the elders and the chieftain as Honored One.
+      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe owes fealty to Okharis, and its chieftain and elders attend the regular moots held in the temple-cities, where matters affecting the tribes are decided. Every member holds standing in Okharis as well as in the tribe: most as Villager/Townsman, the elders and the chieftain as Honored One.
     ranks:
       - level: 0
         title: Kinless
@@ -57,10 +57,10 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## The Shókuma
 
-The **Shókuma** are a tribe owing fealty to [[affiliation-okharis|Okháris]]. Their seat is
+The **Shókuma** are a tribe owing fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-shokumavlg|Shókuma Village]], one of the settled villages of
-[[place-okharisrgn|Okháris]].
+[[place-okharisrgn|Okharis]].
 
 They travel the rivers that wind through the forest toward the rainforests, climb for wild honey in the canopy, and render the comb into the beeswax the temples burn at their rites. Their shamans commune with the [[lore-zohira|zohira]] of the winds, rivers and wildlife.
 
-The tribe follows Okháris customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Shókuma belongs to Okháris as well as to the tribe.
+The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Shókuma belongs to Okharis as well as to the tribe.

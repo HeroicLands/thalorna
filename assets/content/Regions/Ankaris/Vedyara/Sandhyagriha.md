@@ -1,17 +1,17 @@
 ---
 shortcode: sandhyagrha
-name: {full: Sandhyāgriha, aliases: [The House of the Long Evening]}
+name: {full: Sandyagriha, aliases: [The House of the Long Evening]}
 type: place
 subType: structure
 description: >-
-  The principal house of the Twilight House, four streets from the Loom-Council's hall in Vyālendra's palace quarter—a royal foundation that outlived the court that founded it, and the one building in the city with two doors.
+  The principal house of the Twilight House, four streets from the Loom-Council's hall in Vyalendra's palace quarter—a royal foundation that outlived the court that founded it, and the one building in the city with two doors.
 tags: [vedyara, inland]
 data: {demonym: null, lore: [], parents: [vyalendra3], population: null, packFolder: vedyara}
 ---
 
-**Sandhyāgriha** stands in the palace quarter of [[place-vyalendra3|Vyālendra]], four streets from the hall where the [[affiliation-vyalendra2|Loom-Council]] sits. It is the principal house of [[affiliation-twilighths|the Twilight House]], and satellite houses stand under it in each of the major Vedyaran cities. What a client buys here is an evening's company, a room his rivals also enter, and a room his servants do not follow him into.
+**Sandyagriha** stands in the palace quarter of [[place-vyalendra3|Vyalendra]], four streets from the hall where the [[affiliation-vyalendra2|Loom-Council]] sits. It is the principal house of [[affiliation-twilighths|the Twilight House]], and satellite houses stand under it in each of the major Vedyaran cities. What a client buys here is an evening's company, a room his rivals also enter, and a room his servants do not follow him into.
 
-The building is four courts deep and was laid out as a royal pleasure-house by the eleventh and last Mahārāja of Vyālendra. It passed to the House when his line ended, by a grant the House holds and shows to nobody. The Council has never tested the grant. The reason given is that the deed is sound; the reason understood is that testing it would require an accounting of how the line ended, and no Loom-Master wants that accounting read aloud in the cloth-court.
+The building is four courts deep and was laid out as a royal pleasure-house by the eleventh and last Maharava of Vyalendra. It passed to the House when his line ended, by a grant the House holds and shows to nobody. The Council has never tested the grant. The reason given is that the deed is sound; the reason understood is that testing it would require an accounting of how the line ended, and no Loom-Master wants that accounting read aloud in the cloth-court.
 
 ## The Two Doors
 
@@ -29,6 +29,6 @@ The Mistress of the Long Evening is dying, and the succession is being contested
 
 ## See Also
 
-- [[affiliation-twilighths|The Twilight House]]—the shrenī that keeps the house
-- [[place-vyalendra3|Vyālendra]]—the city it stands in
-- [[affiliation-vyalendra2|Vyālendra]]—the city-state, whose Council is four streets away
+- [[affiliation-twilighths|The Twilight House]]—the shrena that keeps the house
+- [[place-vyalendra3|Vyalendra]]—the city it stands in
+- [[affiliation-vyalendra2|Vyalendra]]—the city-state, whose Council is four streets away

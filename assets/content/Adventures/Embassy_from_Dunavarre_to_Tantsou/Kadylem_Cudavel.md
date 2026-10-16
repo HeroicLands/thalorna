@@ -1,6 +1,6 @@
 ---
 shortcode: kadylemcudavel
-name: {full: Kadylem Cúdavel, given: Kadylem, clan: Cúdavel, aliases: []}
+name: {full: Kadilem Kúdavel, given: Kadilem, clan: Kúdavel, aliases: []}
 type: being
 subType: character
 tags: [draft, embassy-to-tantsou]

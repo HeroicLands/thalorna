@@ -1,6 +1,6 @@
 ---
 shortcode: vuthraka
-name: {full: Vuthráka, aliases: [The Wild Flame]}
+name: {full: Vuthraka, aliases: [The Wild Flame]}
 type: place
 subType: settlement
 description: "Garrison Town"
@@ -16,5 +16,5 @@ data:
 
 **meaning:** _The Wild Flame_
 
-- The military stronghold, Vuthráka guards the southern frontier of Okháris. Its temple complex features intricate statues of the demi-gods of war and chaos, believed to protect the city from outside threats.
-- The **Warden of the Flame**, its ruler, is a warrior-priest who commands Okháris’s armies during times of conflict.
+- The military stronghold, Vuthraka guards the southern frontier of Okharis. Its temple complex features intricate statues of the demi-gods of war and chaos, believed to protect the city from outside threats.
+- The **Warden of the Flame**, its ruler, is a warrior-priest who commands Okharis’s armies during times of conflict.

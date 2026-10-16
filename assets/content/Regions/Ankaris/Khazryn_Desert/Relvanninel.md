@@ -22,14 +22,14 @@ The palace is built of the sand it stands on. The craft of the house was to fuse
 
 ## The Household
 
-Twelve people live in the palace, and they have lived there for ninety years. They are the last prince, **Garmelul**, his wife, his daughter **Yelhule**, his brother, his steward, a physician, a lamp-maker and five servants. They sit at a long table in the great hall in the clothes they wore when the Ātárzád came, and they have not aged a day. Their skin is clear and cold, with the faint green translucence of the glass the house worked. They breathe. They eat what they are given. They are polite, curious and very hungry for news.
+Twelve people live in the palace, and they have lived there for ninety years. They are the last prince, **Garmelul**, his wife, his daughter **Yelhule**, his brother, his steward, a physician, a lamp-maker and five servants. They sit at a long table in the great hall in the clothes they wore when the Atarzád came, and they have not aged a day. Their skin is clear and cold, with the faint green translucence of the glass the house worked. They breathe. They eat what they are given. They are polite, curious and very hungry for news.
 
 A traveler who enters the gate is welcomed by the steward, given water to wash and a seat at the table, and asked nothing, as the law of the guest requires. The Tellumi rule of hospitality is absolute, and the house keeps it with an exactness no other house has ever managed.
 
 ## What the Tribes Say
 
 - **The edge-tribes.** The Sovidur who graze the failed ground say the house was taken by a bargain, that the sand under it is awake and that a stranger who stays three nights does not leave with the years he came with. They bury animals that wander near.
-- **The Tēghumōd.** The merchant tribe that took Ashkarad has a caravan road that bends three days around the hill. An old factor will say that a Tēghumōd column rode up in the fifth year and was seen to ride away again at once, burned the wells and said nothing of what it found.
+- **The Teghumod.** The merchant tribe that took Ashkarad has a caravan road that bends three days around the hill. An old factor will say that a Teghumod column rode up in the fifth year and was seen to ride away again at once, burned the wells and said nothing of what it found.
 - **The craft quarter.** The families of Ashkarad whose grandfathers made glass for the house say the princes were good lords and bad at bargains. A woman in the quarter keeps a silvered mirror from the palace, and it shows nothing of the room it hangs in.
 - **The exile house.** The House of Ashkarad at Amradad is kin to the line, and does not discuss it.
 
@@ -50,4 +50,4 @@ The palace stands on a hill in open ground. There is no shade and no water withi
 - [[place-ashkarad|Ashkarad]]—the craft city of which the house is a cadet line
 - [[lore-khazrynclt|The Tellumi]]—the law of the guest the house keeps
 - [[lore-theshadow|The Shadow]]—the outside stuff the Tenant is made of
-- [[affiliation-tribestrzd|Tribes of Ātárzád]]—the conquerors who found the household at table
+- [[affiliation-tribestrzd|Tribes of Atarzád]]—the conquerors who found the household at table

@@ -31,7 +31,7 @@ data:
             how: a frontier post is raised to a legion fortress-town to stop the war-bands at the passes
             knowledge: named
           - place: place-vylariargn
-            how: the northern revenue fails, and the Empire's own account names barbarian pressure from Vrystwald among the causes of its decline
+            how: the northern revenue fails, and the Empire's own account names barbarian pressure from Vristwald among the causes of its decline
             knowledge: named
       who:
         - {ref: affiliation-vrystwldtrbs, role: actor}
@@ -59,7 +59,7 @@ data:
       stated: {calendar: wintertally, text: "179 SR"}
       sources: [affiliation-vylrnmltry, place-moktur, place-vandstein]
       summary: >-
-        A war-band under Skathric yra Wulfskorn wur Gargrund falls on the camp of the Pelsan Hilvan in a Mokturan valley at night, burns its granary and carries off its eagle, which no Varokh has ever taken before or since. The legion is not disbanded at once, because the eagle is known to be in the forest and might be recovered.
+        A war-band under Skathrik yra Wulfskorn wur Gargrund falls on the camp of the Pelsan Hilvan in a Mokturan valley at night, burns its granary and carries off its eagle, which no Varokh has ever taken before or since. The legion is not disbanded at once, because the eagle is known to be in the forest and might be recovered.
       standing: attested
       names: [{name: the Taking of the Eagle, by: lore-varokhiclt}]
       where:
@@ -88,7 +88,7 @@ Every watchtower in [[place-moktur|Moktur]] keeps the custom of counting smoke. 
 
 ## The Famine in the Forest
 
-The [[lore-threewinters|Three Winters]] of 512 to 514 fell on [[place-vrystwald|Vrystwald]] as hard as on the Nordlands. The rivers froze to the bed and stayed frozen past the thaw, the clearings gave nothing two summers running, and the stores the household mistresses keep against a lean year ran out in the second winter. The old stopped eating so the young could, which Varokh custom permits and does not ask of anyone, and in a failed winter the three elders of each village apportioned what was left with the kindreds. At [[place-sundhaven|Sundhaven]] on the western shore a whale came ashore in the worst of it and fed the village until the thaw, and its ribs stand over the village gate.
+The [[lore-threewinters|Three Winters]] of 512 to 514 fell on [[place-vrystwald|Vristwald]] as hard as on the Nordlands. The rivers froze to the bed and stayed frozen past the thaw, the clearings gave nothing two summers running, and the stores the household mistresses keep against a lean year ran out in the second winter. The old stopped eating so the young could, which Varokh custom permits and does not ask of anyone, and in a failed winter the three elders of each village apportioned what was left with the kindreds. At [[place-sundhaven|Sundhaven]] on the western shore a whale came ashore in the worst of it and fed the village until the thaw, and its ribs stand over the village gate.
 
 The villages of the southern forest had one thing the northern ones did not. Over the [[place-vandstein|Vandstein]] passes lay Moktur's valleys, full of cattle and grain the famine had touched less, and nothing between the forest and the valleys but the mountains and the watch.
 
@@ -98,13 +98,13 @@ From 515 the war-bands went south in numbers Moktur had never met. They wanted c
 
 ## The Taking of the Eagle
 
-In 518 a war-band under **Skathric yra Wulfskorn wur Gargrund**, War Chief of Gargrund in Vandstein, came down on the camp of the Pelsan Hilvan in a Mokturan valley on a moonless night. It wanted the legion's granary and burned it. It found the eagle standard in the camp's shrine with two men guarding it, killed them, and carried the eagle north over the passes, where it hung in Skathric's hall at Gargrund for two winters. No Varokh had taken a legion's eagle before, and none has since. The Empire did not disband the Pelsan Hilvan at once, because the eagle was known to be in the forest and the legion meant to have it back.
+In 518 a war-band under **Skathrik yra Wulfskorn wur Gargrund**, War Chief of Gargrund in Vandstein, came down on the camp of the Pelsan Hilvan in a Mokturan valley on a moonless night. It wanted the legion's granary and burned it. It found the eagle standard in the camp's shrine with two men guarding it, killed them, and carried the eagle north over the passes, where it hung in Skathrik's hall at Gargrund for two winters. No Varokh had taken a legion's eagle before, and none has since. The Empire did not disband the Pelsan Hilvan at once, because the eagle was known to be in the forest and the legion meant to have it back.
 
 ## The Black Marsh, as the Forest Tells It
 
 The Black Marsh is a Mokturan battle and its dead lie in Mokturan ground, and the Empire's own account of it belongs to Moktur. The forest keeps a different one, and it runs like this.
 
-In the spring of 520 Skathric took the eagle south again, at the head of the largest host the hunger had yet sent over the passes, war-bands from a dozen villages that had agreed to go together. The reciters say he carried it to shame the legions, and the elders of Gargrund say he carried it because he could not bear to leave it behind. The legions met the host in a valley with a marsh at its foot. They did not attack it; they closed the valley above it and waited, and when the host tried to break out it was driven down into the marsh, where a man in mail sinks to the waist and a war-band cannot stand together. It died there to the last man, and the Karsan Soldan took the eagle out of the reeds.
+In the spring of 520 Skathrik took the eagle south again, at the head of the largest host the hunger had yet sent over the passes, war-bands from a dozen villages that had agreed to go together. The reciters say he carried it to shame the legions, and the elders of Gargrund say he carried it because he could not bear to leave it behind. The legions met the host in a valley with a marsh at its foot. They did not attack it; they closed the valley above it and waited, and when the host tried to break out it was driven down into the marsh, where a man in mail sinks to the waist and a war-band cannot stand together. It died there to the last man, and the Karsan Soldan took the eagle out of the reeds.
 
 No Shaman went south with the host, because no Shaman goes raiding, and nobody called any of its dead home to their totems. The Varokh hold that they are still in the marsh, a dozen villages' sons who cannot find their way north, and that the dread on that ground is theirs: the thing a man feels there is what a war-band feels when the ground gives way under it and there is nowhere to go. Gargrund has never sent its Shaman to call them, because the marsh is in Moktur and a Varokh Shaman at the edge of it would be taken for a raider and killed. The village keeps an empty place at Weskskald for each of its dead, and recites their names every year with nothing after them.
 
@@ -113,7 +113,7 @@ No Shaman went south with the host, because no Shaman goes raiding, and nobody c
 - **The smoke-counting.** Every tower on the Moktur frontier counts the forest's columns at dusk, and the Black Marsh is the most famous night the count was right.
 - **[[place-dolvar|Dolvar]].** A legion fortress-town of six thousand built to stop the Grain Summers, and still manned against the raids that followed.
 - **Gargrund's empty places.** A village in Vandstein that recites forty names at Weskskald with no rite after them, and asks every party bound south whether they will carry a Shaman.
-- **The decline.** The Empire's own account of its losses names barbarian pressure from Vrystwald, and this is what it means.
+- **The decline.** The Empire's own account of its losses names barbarian pressure from Vristwald, and this is what it means.
 
 ## See Also
 

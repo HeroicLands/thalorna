@@ -1,9 +1,9 @@
 ---
 shortcode: gulmenwati2
-name: {full: Gulmenwati, aliases: [Gulmê]}
+name: {full: Gulmenwati, aliases: [Gulme]}
 type: being
 subType: npc
-description: "A junior priest at the temple of Qe'âret, young enough to still believe the order works as it is described"
+description: "A junior priest at the temple of Qe'aret, young enough to still believe the order works as it is described"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Gulmenwati is a 53-year-old man who stands 5'6" tall with a light build. He has 
 
 # Dossier {#dossier}
 
-Gulmenwati is a junior priest at the temple of [[lore-qearetdty|Qe'âret]] in [[place-anlaghzetun|Anlagh-Zetûn]]. He is young enough still to believe the order runs exactly as described to him. Those further up the hierarchy let him go on believing it, for now.
+Gulmenwati is a junior priest at the temple of [[lore-qearetdty|Qe'aret]] in [[place-anlaghzetun|Anlagh-Zetun]]. He is young enough still to believe the order runs exactly as described to him. Those further up the hierarchy let him go on believing it, for now.

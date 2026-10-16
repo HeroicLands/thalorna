@@ -23,7 +23,7 @@ everyone in general and to nobody in particular. There is no charter. There is n
 
 What the villagers give in return is a matter of quiet local certainty and no evidence. The usual
 account is that Sóurimel keeps something—a watch, an observance, a duty at the
-[[place-urontekhi|Ûron Tékhi]]—and that the arrangement lapses the day it stops. Villagers asked
+[[place-urontekhi|Uron Tekhi]]—and that the arrangement lapses the day it stops. Villagers asked
 directly will say that they live there, which is true, and change the subject.
 
 ## Life
@@ -31,9 +31,9 @@ directly will say that they live there, which is true, and change the subject.
 Charcoal, honey, hazel and withy, and the gathering of the herbs that the physicians of Péravel will
 pay absurd prices for. No felling of standing silver birch, ever, by anyone, for any reason ([[lore-blacksnow|The Black Snow]]).
 
-The village keeps the old festivals rather than the Aurèldían calendar, and outsiders who arrive for
+The village keeps the old festivals rather than the Aureldian calendar, and outsiders who arrive for
 one are made welcome and watched.
 
 ## See Also
 
-- [[place-silvrfrsts|The Silver Forests]] · [[place-sorvanda|Sórvanda]] · [[place-urontekhi|The Ûron Tékhi]]
+- [[place-silvrfrsts|The Silver Forests]] · [[place-sorvanda|Sórvanda]] · [[place-urontekhi|The Uron Tekhi]]

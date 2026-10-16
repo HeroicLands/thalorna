@@ -1,6 +1,6 @@
 ---
 shortcode: vruthvirhrun
-name: {full: Vruthvir Hrundendikh, aliases: [Jarl Vruthvir Hrundendikh, Jarl Vruthvir]}
+name: {full: Vruthvir Hrundendik, aliases: [Jarl Vruthvir Hrundendik, Jarl Vruthvir]}
 type: being
 subType: npc
 description: The jarl who commands the Thraldfjord fortress, named in Gnurthselda Hafringr.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Vruthvir Hrundendikh is a 30-year-old man who stands 5'9" tall with a light build. He has tanned skin, smooth complexion, black hair, and hazel eyes.
+Vruthvir Hrundendik is a 30-year-old man who stands 5'9" tall with a light build. He has tanned skin, smooth complexion, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Vruthvir Hrundendikh is the jarl who commands the Thraldfjord fortress. He is in his sixties and increasingly aware that his time is ending, and has come to rely on Gnurthselda as his personal guard and occasional scout. Vruthvir Hrundendikh is named in [[being-gnrthsldhfrngr|Gnurthselda Hafringr]].
+Vruthvir Hrundendik is the jarl who commands the Thraldfjord fortress. He is in his sixties and increasingly aware that his time is ending, and has come to rely on Gnurthselda as his personal guard and occasional scout. Vruthvir Hrundendik is named in [[being-gnrthsldhfrngr|Gnurthselda Hafringr]].

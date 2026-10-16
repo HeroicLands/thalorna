@@ -1,9 +1,9 @@
 ---
 shortcode: anthyndathra
-name: {full: Anthynda Thraskarukh, aliases: [Captain Anthynda Thraskarukh]}
+name: {full: Anthinda Thraskaruk, aliases: [Captain Anthinda Thraskaruk]}
 type: being
 subType: npc
-description: A merchant captain who has become entangled with Svaltharukh's operation through trading partnerships, named in Gnirthann Vetrdómr.
+description: A merchant captain who has become entangled with Svaltharuk's operation through trading partnerships, named in Gnirthann Vetrdómr.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Anthynda Thraskarukh is a 31-year-old woman who stands 5'6" tall with a medium build. She has light skin, ruddy complexion, black hair, and hazel eyes.
+Anthinda Thraskaruk is a 31-year-old woman who stands 5'6" tall with a medium build. She has light skin, ruddy complexion, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Anthynda Thraskarukh is a merchant captain who has become entangled with Svaltharukh's operation through trading partnerships. She did not realize that the trading partnerships were connected to slavery. Anthynda Thraskarukh is named in [[being-gnrthnvtrdmr|Gnirthann Vetrdómr]].
+Anthinda Thraskaruk is a merchant captain who has become entangled with Svaltharuk's operation through trading partnerships. She did not realize that the trading partnerships were connected to slavery. Anthinda Thraskaruk is named in [[being-gnrthnvtrdmr|Gnirthann Vetrdómr]].

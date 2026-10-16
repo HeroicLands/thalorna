@@ -3,11 +3,11 @@ shortcode: selatzuzlqtt
 name: {full: The Selat of Zu-Zel-Iaqtet, aliases: []}
 type: affiliation
 subType: polity
-description: "The eastern mining march of Aû'Khelâthu—a rugged hill-and-desert border selat whose gold, copper, and turquoise mines and stone quarries supply the empire's metal and monument-stone, held by a soldier-Halzi'a who guards the diggings and the desert roads against eastern raiders."
+description: "The eastern mining march of Au'Khelathu—a rugged hill-and-desert border selat whose gold, copper, and turquoise mines and stone quarries supply the empire's metal and monument-stone, held by a soldier-Halzi'a who guards the diggings and the desert roads against eastern raiders."
 data:
   banner: khelathubnr
   templatePriority: null
-  demonym: Khelâthi
+  demonym: Khelathi
   epithet: null
   symbol: null
   governance:
@@ -24,49 +24,30 @@ data:
         description: >-
           Bound to an estate or a temple, owing labor on its fields and its works and holding nothing of his own.
       - level: 2
-        title: Farmer
+        title: Zelar
         description: >-
-          Working the floodplain under a lord or a temple, owing a share of the harvest and labor on the canals.
+          A commoner, the free rank of no house: farmer, artisan, merchant and scribe alike. A Zelar owes a share of the harvest, labor on the canals and tax on his work, and a talented child may enter the scribal schools, which are the empire's principal path upward.
       - level: 3
-        title: Artisan or Merchant
+        title: Zabu
         description: >-
-          Of the trades—potters, weavers, boatmen, traders—free of the fields and taxed on their work.
-      - level: 4
-        title: Scribe
-        description: >-
-          Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
-      - level: 5
-        title: Legha'lutu
-        description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
-      - level: 6
-        title: Halzi'a
-        description: >-
-          Halzi'a: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
-      - level: 7
-        title: Iru'palu
-        description: >-
-          Of the royal house and the most exalted families, the highest hereditary rank below the throne.
-      - level: 8
-        title: Gar-Aû
-        description: >-
-          The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
+          A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
-      Halzi'a: Halzi'a, governing a selat with armies, taxes and courts of his own.
-      Legha'lutu: Ruler of an estate—manor, fields and village—answerable to the Halzi'a.
-      Zabet'lutu: Mistress of an estate, holding the same authority in her own right.
-      Zabet: Lady of the court, whose standing comes from position rather than from land.
+      Halzi'a: >-
+        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+      Legha'lutu: >-
+        Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
+      Zabet'lutu: >-
+        Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
+      Zabet: >-
+        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
       Zemelu: >-
-        Companion of the Gar-Aû: a title of royal favor and access rather than territorial authority.
-      Thâz'Lekhau: >-
-        Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
-      Lem'Nelgir: >-
-        Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
-      Wazu: >-
-        Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
-      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
-      Halzi'a's Steward: Administrator of the selat's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
+        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
+      Halzi'a's Steward: >-
+        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
+      Canal-Warden: >-
+        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: balqu
   population: 350000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
@@ -81,13 +62,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 The **Selat of Zu-Zel-Iaqtet** holds the land of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]], the empire's strongbox and its anvil. It is a [[affiliation-borderselatu|Border Selatu]] in the fullest sense: thinly peopled, harsh and held by a soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who is as much a military governor as a lord. His charge is the mines, the smelter-towns and the long desert quarry-roads, and he guards them against the raiders of the eastern wastes.
 
-Its patron is [[lore-psaqarudty|Psaq'âru]], god of craft and the working of metal and stone, whom the miners and smiths worship with a directness the soft valley cults lack.
+Its patron is [[lore-psaqarudty|Saq'aru]], god of craft and the working of metal and stone, whom the miners and smiths worship with a directness the soft valley cults lack.
 
 ## Character
 
 A mine-captain describes his workforce to a new engineer in three groups: "Wage-gangs who chose it, convicts who did not, and levies who come for a season and count the days." The selat's people are a rough mix of miners and quarrymen, free wage-gangs, convict-labor sent east as punishment and seasonal levies, overseen by mine-captains, engineers and the garrison troops who keep order and watch the desert.
 
-There is little of the temple-bound gentility of the valley here. Status is measured in the output of a diggings and the strength of a fort. Psaq'âru the craftsman is the dominant cult, with the war-god [[lore-qeztudty|Qeztu]] close behind among the soldiers, and the festivals are the rougher, harder-drinking kind of a frontier where men do dangerous work far from home.
+There is little of the temple-bound gentility of the valley here. Status is measured in the output of a diggings and the strength of a fort. Saq'aru the craftsman is the dominant cult, with the war-god [[lore-qeztudty|Qeztu]] close behind among the soldiers, and the festivals are the rougher, harder-drinking kind of a frontier where men do dangerous work far from home.
 
 ## Economy
 
@@ -107,13 +88,13 @@ Adventure here is the roughest kind: convoy-guarding and convoy-robbing, a mine 
 
 ## Commerce and Currency
 
-Zu-Zel-Iaqtet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and as the source of much of the empire's gold and copper it sits at the head of the coined economy, though its own daily life runs on garrison pay and rationed supply rather than open markets. The assay-house at [[place-balqu|Balqu]] weighs and seals the crown's metal, and [[affiliation-garhalzi|Gár-Hálzi]] agents travel with the gold-convoys. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Zu-Zel-Iaqtet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and as the source of much of the empire's gold and copper it sits at the head of the coined economy, though its own daily life runs on garrison pay and rationed supply rather than open markets. The assay-house at [[place-balqu|Balku]] weighs and seals the crown's metal, and [[affiliation-garhalzi|Gar-Hálzi]] agents travel with the gold-convoys. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
 ## See Also
 
 - [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
-- [[place-balqu|Balqu]]—Selat capital
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon (Psaq'âru)
-- [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
+- [[place-balqu|Balku]]—Selat capital
+- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon (Saq'aru)
+- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
 - [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]]—The land the selat holds

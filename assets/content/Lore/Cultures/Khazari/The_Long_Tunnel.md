@@ -15,7 +15,7 @@ data:
 # terran_analog: "The Siloam tunnel inscription, for a winding water tunnel cut through rock and the record of the day the cut broke through; Mesopotamian building inscriptions, for the claim of work that counts what was done and warrants it."
 ---
 
-**The Long Tunnel**, _Narvavutám_, is the account, the _filnath_ (a telling written and kept), of the water-line of **Magharathubád**, a [[lore-khazariclt|Khazári]] hold in a limestone range that no record outside its own locates, and of **Dulkun of Khalvagunáv**, the master who cut it. The keeper of the hold's archive, **Lokamo of Lakamamulán**, wrote it in the order the things happened, with the day, the measure and the name in every entry, and warranted it, and copies of it stand in the archives of other holds. It is told in the workshops, by a master to apprentices in their years of listening, and most often to an apprentice who has asked for the hammer. The claim of work that closes it, the _mazadh_, is recited at the turning of the year in the holds that keep it, and [[lore-vazanez|the chain of sayings]] keeps one saying of Dulkun's beside it. The reading given here is the workshops' reading, which keeps every entry the record keeps and passes over the tallies of water and measure between them.
+**The Long Tunnel**, _Narvavutám_, is the account, the _filnath_ (a telling written and kept), of the water-line of **Magharathubád**, a [[lore-khazariclt|Khazari]] hold in a limestone range that no record outside its own locates, and of **Dulkun of Khalvagunáv**, the master who cut it. The keeper of the hold's archive, **Lokamo of Lakamamulán**, wrote it in the order the things happened, with the day, the measure and the name in every entry, and warranted it, and copies of it stand in the archives of other holds. It is told in the workshops, by a master to apprentices in their years of listening, and most often to an apprentice who has asked for the hammer. The claim of work that closes it, the _mazadh_, is recited at the turning of the year in the holds that keep it, and [[lore-vazanez|the chain of sayings]] keeps one saying of Dulkun's beside it. The reading given here is the workshops' reading, which keeps every entry the record keeps and passes over the tallies of water and measure between them.
 
 ## The Account
 
@@ -179,8 +179,8 @@ In the record of the year of the finding 309, Dulkun of Khalvagunáv's name stan
 
 ## See Also
 
-- [[lore-khazariclt|Khazári]]—the light hand, the prop as shame, and the long tunnel as the miner's masterpiece
+- [[lore-khazariclt|Khazari]]—the light hand, the prop as shame, and the long tunnel as the miner's masterpiece
 - [[lore-flkkhazar|Khazár Folk]]—the people and their holds
 - [[lore-vazanez|The Sayings of the Masters]]—the chain that keeps one saying of Dulkun of Khalvagunáv
-- [[skill-khazarlng|Khazári Language]]—names as charges, and the count in sixteens
-- [[doc-khazarilex|Khazári Lexicon]]—the words for stone, water and the cut
+- [[skill-khazarlng|Khazari Language]]—names as charges, and the count in sixteens
+- [[skill-khazarlng#lexicon|Khazari Lexicon]]—the words for stone, water and the cut

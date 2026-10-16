@@ -1,6 +1,6 @@
 ---
 shortcode: kheladenthlt
-name: {full: Khelâden Itha'Letu, aliases: []}
+name: {full: Kheladen Itha'Letu, aliases: []}
 type: being
 subType: npc
 description: "A scholar-collector who funds craftsmen of the first rank and expects the results to be worth what he has paid"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Khelâden Itha'Letu is a 46-year-old man who stands 5'7" tall with a light build. He has brown skin, greying black hair, and hazel eyes.
+Kheladen Itha'Letu is a 46-year-old man who stands 5'7" tall with a light build. He has brown skin, greying black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Khelâden Itha'Letu collects and funds craftsmen of the first rank out of [[place-anlaghzetun|Anlagh-Zetûn]]. He expects the results to be worth exactly what he has paid for them, and says so when they are not. Craftsmen working for Khelâden deliver before being asked twice.
+Kheladen Itha'Letu collects and funds craftsmen of the first rank out of [[place-anlaghzetun|Anlagh-Zetun]]. He expects the results to be worth exactly what he has paid for them, and says so when they are not. Craftsmen working for Kheladen deliver before being asked twice.

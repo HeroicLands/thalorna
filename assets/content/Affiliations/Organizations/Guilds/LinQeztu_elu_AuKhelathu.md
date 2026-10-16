@@ -1,6 +1,6 @@
 ---
 shortcode: linqeztkhlth
-name: {full: Lin'Qeztu elu Aû'Khelâthu, aliases: [The Mercenaries' Guild of Aû'Khelâthu]}
+name: {full: Lin'Qeztu elu Au'Khelathu, aliases: [The Mercenaries' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered body that regulates paid soldiering in the empire, provides access to work, and vouches for a member's standing to those hiring
@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Qeztu elu Aû'Khelâthu** is the chartered body that regulates paid soldiering across [[place-aukhelathrgq|Aû'Khelâthu]], open to any fighter willing to accept its terms of hire. It places members with employers who want soldiers on contract rather than levied troops, and it vouches for a member's standing and conduct to whoever is hiring.
+**Lin'Qeztu elu Au'Khelathu** is the chartered body that regulates paid soldiering across [[place-aukhelathrgq|Au'Khelathu]], open to any fighter willing to accept its terms of hire. It places members with employers who want soldiers on contract rather than levied troops, and it vouches for a member's standing and conduct to whoever is hiring.
 
 ## Character
 
@@ -56,5 +56,5 @@ Say a caravan-owner needs a dozen guards for the road to the delta. He goes to t
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire whose paid soldiering the guild regulates
+- [[place-aukhelathrgq|Au'Khelathu]]—The empire whose paid soldiering the guild regulates
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

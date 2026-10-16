@@ -1,6 +1,6 @@
 ---
 shortcode: zbzmjkdn
-name: {full: Zabûzum Jakûdûnî, given: Zabûzum, clan: Jakûdûnî, aliases: [Bû]}
+name: {full: Zabuzum Jakuduni, given: Zabuzum, clan: Jakuduni, aliases: [Bu]}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]
@@ -407,9 +407,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[zbzmjkdn|Zabûzum Jakûdûnî]]{float=top-left}
+![[zbzmjkdn|Zabuzum Jakuduni]]{float=top-left}
 
-Zabûzum Jakûdûnî is a tall, rangy man with the sun-darkened skin and salt-roughened hands of a lifelong sailor. His brown hair is streaked prematurely gray at the temples and hangs to his collar, usually tied back with a leather cord. His blue eyes are striking against his weathered complexion—sharp, watchful, and carrying the weight of things he does not discuss. A long scar traces his left jaw from ear to chin, a souvenir of the Battle of Tamzîr. He moves with the easy economy of a man accustomed to rolling decks, and his lean, hard-bitten frame carries more strength than it advertises. He favors a long brown oiled-canvas coat over practical clothing, with his broadsword belted at his hip and a dagger in his boot.
+Zabuzum Jakuduni is a tall, rangy man with the sun-darkened skin and salt-roughened hands of a lifelong sailor. His brown hair is streaked prematurely gray at the temples and hangs to his collar, usually tied back with a leather cord. His blue eyes are striking against his weathered complexion—sharp, watchful, and carrying the weight of things he does not discuss. A long scar traces his left jaw from ear to chin, a souvenir of the Battle of Tamzir. He moves with the easy economy of a man accustomed to rolling decks, and his lean, hard-bitten frame carries more strength than it advertises. He favors a long brown oiled-canvas coat over practical clothing, with his broadsword belted at his hip and a dagger in his boot.
 
 # Dossier {#dossier}
 
@@ -417,25 +417,25 @@ Zabûzum Jakûdûnî is a tall, rangy man with the sun-darkened skin and salt-ro
 
 ### Early Life
 
-Zabûzum was born in the port of [[place-sazumun2|Sazûmun]], one of the lesser harbors of the [[affiliation-cnfdrtntrzlnstts|Tarûzelian Confederation]], to a family of modest cattle herders who worked the scrublands east of the city. His father died of a wasting sickness when Bû was eleven, leaving his mother to raise him alone. The boy grew up hard, learning self-reliance early. By fourteen he was working the docks for coin, and by sixteen he had signed onto a merchant vessel as a deckhand, desperate to escape the grinding poverty of the hinterland.
+Zabuzum was born in the port of [[place-sazumun2|Sazumun]], one of the lesser harbors of the [[affiliation-cnfdrtntrzlnstts|Taruzelian Confederation]], to a family of modest cattle herders who worked the scrublands east of the city. His father died of a wasting sickness when Bu was eleven, leaving his mother to raise him alone. The boy grew up hard, learning self-reliance early. By fourteen he was working the docks for coin, and by sixteen he had signed onto a merchant vessel as a deckhand, desperate to escape the grinding poverty of the hinterland.
 
-### The Tarûzelian War of Independence
+### The Taruzelian War of Independence
 
-When the Confederation of Tarûzelian States rose in rebellion against Vylarian imperial rule, Bû was twenty-two and already a seasoned sailor. He joined the rebel fleet without hesitation, driven by a fierce belief that Tarûzel's people deserved to chart their own course. He proved himself a natural leader—calm under fire, tactically sharp, and ferociously loyal to those who fought beside him. He rose to command a raiding vessel, leading boarding actions against imperial warships in the narrow straits. The Battle of [[place-tamzirshoals|Tamzîr Shoals]] was his defining moment. The Vylarian imperial fleet had blockaded the Tarûzelian coast, choking the rebellion's supply lines. Bû led a squadron of rebel vessels through the treacherous shoals at dawn, where the shallow reef-studded waters negated the imperials' advantage in size and firepower. The battle was brutal—fought at close quarters among the breaking waves—and Bû took the scar he still carries when an imperial marine's blade found his jaw during a boarding action. But the blockade broke, and the rebellion gained its symbolic victory.
+When the Confederation of Taruzelian States rose in rebellion against Vylarian imperial rule, Bu was twenty-two and already a seasoned sailor. He joined the rebel fleet without hesitation, driven by a fierce belief that Taruzel's people deserved to chart their own course. He proved himself a natural leader—calm under fire, tactically sharp, and ferociously loyal to those who fought beside him. He rose to command a raiding vessel, leading boarding actions against imperial warships in the narrow straits. The Battle of [[place-tamzirshoals|Tamzir Shoals]] was his defining moment. The Vylarian imperial fleet had blockaded the Taruzelian coast, choking the rebellion's supply lines. Bu led a squadron of rebel vessels through the treacherous shoals at dawn, where the shallow reef-studded waters negated the imperials' advantage in size and firepower. The battle was brutal—fought at close quarters among the breaking waves—and Bu took the scar he still carries when an imperial marine's blade found his jaw during a boarding action. But the blockade broke, and the rebellion gained its symbolic victory.
 
 ### Disillusionment
 
-The war ended in Tarûzelian independence—on paper. But the merchant guilds who had bankrolled the rebellion seized power almost immediately, installing themselves as a new oligarchy. The freedom that Bû and his comrades had bled for became a commodity, traded and taxed by men who had never held a sword. Veterans were discarded. The poor remained poor. Bû watched old friends drift into beggary or drink, and something in him went cold. He had no interest in fighting another war, but he refused to serve the guilds. Instead, he scraped together enough coin to purchase a battered sixty-foot merchant vessel, named her the _Tamzîr_ after the shoals where he had nearly died, and set sail.
+The war ended in Taruzelian independence—on paper. But the merchant guilds who had bankrolled the rebellion seized power almost immediately, installing themselves as a new oligarchy. The freedom that Bu and his comrades had bled for became a commodity, traded and taxed by men who had never held a sword. Veterans were discarded. The poor remained poor. Bu watched old friends drift into beggary or drink, and something in him went cold. He had no interest in fighting another war, but he refused to serve the guilds. Instead, he scraped together enough coin to purchase a battered sixty-foot merchant vessel, named her the _Tamzir_ after the shoals where he had nearly died, and set sail.
 
-### Captain of the Tamzîr
+### Captain of the Tamzir
 
-For the last twelve years, Bû has worked the [[place-vylarianse|Vylarian Sea]] as a freelance trader, smuggler, and occasional thief. He takes the jobs that respectable captains refuse—running cargo past imperial patrols, hauling passengers who need to disappear, delivering goods to ports where no questions are asked. He has assembled a crew of misfits, outcasts, and fugitives who are loyal to him because he is loyal to them. The Tamzîr is not much to look at—a patched and weatherbeaten vessel that smells of tar and old fish—but she is fast, nimble, and home.
+For the last twelve years, Bu has worked the [[place-vylarianse|Vylarian Sea]] as a freelance trader, smuggler, and occasional thief. He takes the jobs that respectable captains refuse—running cargo past imperial patrols, hauling passengers who need to disappear, delivering goods to ports where no questions are asked. He has assembled a crew of misfits, outcasts, and fugitives who are loyal to him because he is loyal to them. The Tamzir is not much to look at—a patched and weatherbeaten vessel that smells of tar and old fish—but she is fast, nimble, and home.
 
 ## Psyche
 
 ### Personality
 
-Bû presents a dry, sardonic front to the world. He deflects with humor, commands with authority, and trusts slowly. Beneath the cynicism is a man who still believes in something—he just cannot articulate what it is anymore. He is fiercely protective of his crew and will risk everything to bring them home, though he frames every act of decency as pragmatism. He has a stubborn streak that borders on self-destructive, and he would rather die than kneel to anyone who claims authority they have not earned.
+Bu presents a dry, sardonic front to the world. He deflects with humor, commands with authority, and trusts slowly. Beneath the cynicism is a man who still believes in something—he just cannot articulate what it is anymore. He is fiercely protective of his crew and will risk everything to bring them home, though he frames every act of decency as pragmatism. He has a stubborn streak that borders on self-destructive, and he would rather die than kneel to anyone who claims authority they have not earned.
 
 ### Motivation
 
@@ -443,7 +443,7 @@ Freedom. Not the abstract political kind that the guilds sell—the real kind. T
 
 ### Strengths
 
-Bû is a gifted tactician and a natural leader of small groups. He inspires loyalty not through speeches but through consistent action—he never asks his crew to take a risk he will not take himself. He is an excellent swordsman, a skilled navigator and pilot, and a shrewd judge of people and situations. His wartime experience makes him dangerous in a fight and cool under pressure.
+Bu is a gifted tactician and a natural leader of small groups. He inspires loyalty not through speeches but through consistent action—he never asks his crew to take a risk he will not take himself. He is an excellent swordsman, a skilled navigator and pilot, and a shrewd judge of people and situations. His wartime experience makes him dangerous in a fight and cool under pressure.
 
 ### Weaknesses
 
@@ -453,22 +453,22 @@ His disillusionment has curdled into a reflexive distrust of institutions, autho
 
 ### Patrons
 
-Bû has no formal patrons. He works freelance and prefers it that way. He maintains a loose network of contacts in Tarûzelian port cities—old war comrades, sympathetic merchants, and dockside fixers who can find work or provide safe harbor when things get hot.
+Bu has no formal patrons. He works freelance and prefers it that way. He maintains a loose network of contacts in Taruzelian port cities—old war comrades, sympathetic merchants, and dockside fixers who can find work or provide safe harbor when things get hot.
 
 ### Enemies
 
-The **Tarûzelian Guild Enforcers** have a long memory for debts and slights. Bû's wartime activities embarrassed several guild families who collaborated with the Vylarian occupiers, and his refusal to fall in line after the war has made him a persistent irritant. **Vylarian Imperial Agents**, manipulated by the [[affiliation-ordoarcanis|Thôrdimâlon]], have taken an interest in the Tamzîr since the Tamaro siblings came aboard. Bû does not yet fully understand how dangerous the forces arrayed against his passengers truly are.
+The **Taruzelian Guild Enforcers** have a long memory for debts and slights. Bu's wartime activities embarrassed several guild families who collaborated with the Vylarian occupiers, and his refusal to fall in line after the war has made him a persistent irritant. **Vylarian Imperial Agents**, manipulated by the [[affiliation-ordoarcanis|Thordimalon]], have taken an interest in the Tamzir since the Tamaro siblings came aboard. Bu does not yet fully understand how dangerous the forces arrayed against his passengers truly are.
 
 ### Affiliations
 
-Bû is captain of the **Tamzîr** and the unquestioned leader of her crew. He maintains loose ties to the **Tarûzelian Veterans' Brotherhood**, a mutual aid society for war veterans, though he rarely attends their gatherings. He has no guild membership, no noble connections, and no interest in acquiring either.
+Bu is captain of the **Tamzir** and the unquestioned leader of her crew. He maintains loose ties to the **Taruzelian Veterans' Brotherhood**, a mutual aid society for war veterans, though he rarely attends their gatherings. He has no guild membership, no noble connections, and no interest in acquiring either.
 
 ## Plot Hooks
 
-1. **The War That Never Ended**: A former comrade from the Tarûzelian rebellion contacts Bû with evidence that a powerful guild family actively betrayed rebel forces during the Battle of Tamzîr, resulting in the deaths of sailors Bû commanded. The evidence is real, but pursuing it would mean returning to Tarûzel and confronting enemies with far more resources than a freelance ship captain can muster.
+1. **The War That Never Ended**: A former comrade from the Taruzelian rebellion contacts Bu with evidence that a powerful guild family actively betrayed rebel forces during the Battle of Tamzir, resulting in the deaths of sailors Bu commanded. The evidence is real, but pursuing it would mean returning to Taruzel and confronting enemies with far more resources than a freelance ship captain can muster.
 
-2. **The Price of Passage**: A wealthy Vylarian merchant offers Bû an enormous sum to transport a sealed cargo container to a remote island. The money would cover the Tamzîr's debts for years. But the merchant is evasive about the cargo's contents, the destination is deep in waters patrolled by imperial warships, and one of Bû's contacts warns him that the merchant has ties to the Thôrdimâlon (the Arcane Order).
+2. **The Price of Passage**: A wealthy Vylarian merchant offers Bu an enormous sum to transport a sealed cargo container to a remote island. The money would cover the Tamzir's debts for years. But the merchant is evasive about the cargo's contents, the destination is deep in waters patrolled by imperial warships, and one of Bu's contacts warns him that the merchant has ties to the Thordimalon (the Arcane Order).
 
-3. **Crew Fractures**: When a lucrative but morally repugnant job is offered—transporting enslaved laborers for a Vylarian noble—Bû must navigate a crew divided between those who need the coin and those who will not compromise. The decision he makes will define what the Tamzîr stands for, and whether his crew holds together or fractures.
+3. **Crew Fractures**: When a lucrative but morally repugnant job is offered—transporting enslaved laborers for a Vylarian noble—Bu must navigate a crew divided between those who need the coin and those who will not compromise. The decision he makes will define what the Tamzir stands for, and whether his crew holds together or fractures.
 
-4. **Ghost of Tamzîr**: Bû begins receiving anonymous messages referencing events from the Battle of Tamzîr that only someone who fought there could know. The messages suggest that a betrayal from within the rebel fleet led to the death of Bû's closest friend during the engagement—and that the betrayer is still alive, prosperous, and operating within the Tarûzelian merchant guilds.
+4. **Ghost of Tamzir**: Bu begins receiving anonymous messages referencing events from the Battle of Tamzir that only someone who fought there could know. The messages suggest that a betrayal from within the rebel fleet led to the death of Bu's closest friend during the engagement—and that the betrayer is still alive, prosperous, and operating within the Taruzelian merchant guilds.

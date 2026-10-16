@@ -1,9 +1,9 @@
 ---
 shortcode: sazumun
-name: {full: Sazûmun, aliases: []}
+name: {full: Sazumun, aliases: []}
 type: affiliation
 subType: polity
-description: "The river-mouth city-state of Tarûzel whose merchant guilds, meeting in the House of Factors, govern the flow of goods between the Dunhari desert and the sea."
+description: "The river-mouth city-state of Taruzel whose merchant guilds, meeting in the House of Factors, govern the flow of goods between the Dunhari desert and the sea."
 data:
   templatePriority: null
   demonym: null
@@ -70,30 +70,30 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-The **House of Factors** stands above Sazûmun's harbor, and the merchant guilds that meet in it hold absolute power in the city-state. Sazûmun is one of the five island city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]], some 2.5 million people around the city of [[place-sazumun2|Sazûmun]] at the mouth of the [[place-alzriver|Alz River]], and it is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect Tarûzel to the western realms.
+The **House of Factors** stands above Sazumun's harbor, and the merchant guilds that meet in it hold absolute power in the city-state. Sazumun is one of the five island city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], some 2.5 million people around the city of [[place-sazumun2|Sazumun]] at the mouth of the [[place-alzriver|Alz River]], and it is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect Taruzel to the western realms.
 
 - **Kind:** port city-state, governed by its merchant guilds
-- **Language:** [[skill-taruzelilng|Tarûzeli]], which also governs its naming
-- **Faiths:** the [[affiliation-arldnpnthn|Aurèldían Pantheon]] and the [[affiliation-ashanpnthn|Āsháian Pantheon]]
+- **Language:** [[skill-taruzelilng|Taruzeli]], which also governs its naming
+- **Faiths:** the [[affiliation-arldnpnthn|Aureldian Pantheon]] and the [[affiliation-ashanpnthn|Ashaian Pantheon]]
 
 ## Who Decides
 
-The guilds' councils decide, and nothing else in Sazûmun does. Competition between the guilds is fierce and disciplined: they keep an elaborate system of tariffs, trading monopolies and agreements that regulates commerce with surgical precision. The guilds have learned that stability, however rigidly kept, yields more wealth than chaos, and their means of keeping it are simple. A ship's captain who breaks guild protocol finds no harbor master willing to accept her vessel and no crew willing to work for her.
+The guilds' councils decide, and nothing else in Sazumun does. Competition between the guilds is fierce and disciplined: they keep an elaborate system of tariffs, trading monopolies and agreements that regulates commerce with surgical precision. The guilds have learned that stability, however rigidly kept, yields more wealth than chaos, and their means of keeping it are simple. A ship's captain who breaks guild protocol finds no harbor master willing to accept her vessel and no crew willing to work for her.
 
 ## Who Lives Here
 
-Sazûmun's people are a polyglot mixture of Tarûzeli merchants, Dunhari traders, Āsháian priests and adventurers from every corner of the known world. The city keeps an uneasy religious balance, with temples of the Aurèldían gods standing near shrines of the Āsháian ones, and the merchant councils recognize both as legitimate paths.
+Sazumun's people are a polyglot mixture of Taruzeli merchants, Dunhari traders, Ashaian priests and adventurers from every corner of the known world. The city keeps an uneasy religious balance, with temples of the Aureldian gods standing near shrines of the Ashaian ones, and the merchant councils recognize both as legitimate paths.
 
 ## Commerce and Currency
 
-The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Tarûzelian currency]], issued under the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. Its denominations are the Vylarian ones—Solden, Ardin and Bit—on Tarûzelian reserves rather than the Vylarian [[affiliation-tarmex|Tarmex Orzan]], and the Tarûzelian Solden is slightly underweight by the Vylarian standard. The Merâzûnî's moneylenders carry the banking; Vylarian script goes unhonored on Sazûmun's quays, as Tarûzelian script does in Vylarian territory.
+The tariffs the House of Factors sets are paid in the [[lore-trzlncrncy|Taruzelian currency]], issued under the **Merazuni** of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones—Solden, Ardin and Bit—on Taruzelian reserves rather than the Vylarian [[affiliation-tarmex|Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. The Merazuni's moneylenders carry the banking; Vylarian script goes unhonored on Sazumun's quays, as Taruzelian script does in Vylarian territory.
 
 ## See Also
 
-- [[place-sazumun2|Sazûmun]]—the city itself
+- [[place-sazumun2|Sazumun]]—the city itself
 - [[place-alzriver|Alz River]]—the river whose mouth makes the harbor
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the parent polity
-- [[skill-taruzelilng|Tarûzeli]]—the naming tradition
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the western religious tradition
-- [[affiliation-ashanpnthn|Āsháian Pantheon]]—the eastern religious tradition
-- [[affiliation-besikar|Besîkar]], [[affiliation-yamuzel|Yamûzel]], [[affiliation-qudumel|Qudûmel]], [[affiliation-bazunel|Bazûnel]]—the sister city-states
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
+- [[skill-taruzelilng|Taruzeli]]—the naming tradition
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the western religious tradition
+- [[affiliation-ashanpnthn|Ashaian Pantheon]]—the eastern religious tradition
+- [[affiliation-besikar|Besikar]], [[affiliation-yamuzel|Yamuzel]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]]—the sister city-states

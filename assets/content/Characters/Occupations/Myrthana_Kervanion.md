@@ -1,6 +1,6 @@
 ---
 shortcode: myrthnkrvnn
-name: {full: Mýrthana Kêrvanion, aliases: []}
+name: {full: Mirthana Kervanion, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Mýrthana Kêrvanion is a 22-year-old woman who stands 5'8" tall and is slender. She has an oval face with wide-set cheekbones, a wide forehead, and a strong jaw that leads to a square chin. Her hooded green eyes sit beneath heavy brows, lending her a guarded gaze. A prominent nose and expressive lips complete her features. She has medium-toned skin with a weathered complexion. Her black hair is pinned in an elegant twist.
+Mirthana Kervanion is a 22-year-old woman who stands 5'8" tall and is slender. She has an oval face with wide-set cheekbones, a wide forehead, and a strong jaw that leads to a square chin. Her hooded green eyes sit beneath heavy brows, lending her a guarded gaze. A prominent nose and expressive lips complete her features. She has medium-toned skin with a weathered complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Mýrthana Kêrvanion came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Mirthana Kervanion came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
-Mýrthana grew up in the city and was drawn to the art of engineering. She has trained as a sapper and quickly gained a reputation for her skills in tunnel construction and demolition. Known for her quick thinking and resourcefulness, Mýrthana often devises creative solutions to challenges. She aspires to become a master sapper and help design fortifications.
+Mirthana grew up in the city and was drawn to the art of engineering. She has trained as a sapper and quickly gained a reputation for her skills in tunnel construction and demolition. Known for her quick thinking and resourcefulness, Mirthana often devises creative solutions to challenges. She aspires to become a master sapper and help design fortifications.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Sometimes overconfident, struggles with heavy lifting.
 
 ### Motivation
 
-Mýrthana is driven by the desire to master her craft and secure a stable future. The uncertainties of life in man-at-arms (sapper) work keep her vigilant and adaptable.
+Mirthana is driven by the desire to master her craft and secure a stable future. The uncertainties of life in man-at-arms (sapper) work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Creative problem solver, skilled in demolition, agile.
 
 ## Social
 
-Mýrthana is affiliated with Local Engineers' Guild.
+Mirthana is affiliated with Local Engineers' Guild.
 
-As a Helionite man-at-arms (sapper), Mýrthana occupies a recognized social niche within Heliónis society.
+As a Helionite man-at-arms (sapper), Mirthana occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Mýrthana's primary patron is Local military leaders and builders. This relationship provides both opportunity and obligation.
+Mirthana's primary patron is Local military leaders and builders. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Few; generally well-liked.
 
 ## Plot Hooks
 
-1. **The Man-at-Arms (Sapper)'s Dilemma**—Mýrthana faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Man-at-Arms (Sapper)'s Dilemma**—Mirthana faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
 
 2. **Old Grudges**—Few; generally well-liked. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Mýrthana's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Mirthana's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Mýrthana depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Mirthana depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Mýrthana the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Mirthana the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

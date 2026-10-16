@@ -1,9 +1,9 @@
 ---
 shortcode: hrandorvhlir
-name: {full: Hrandorv Hlirthendikh, aliases: [Jarl Hrandorv Hlirthendikh, Jarl Hrandorv]}
+name: {full: Hrandorv Hlirthendik, aliases: [Jarl Hrandorv Hlirthendik, Jarl Hrandorv]}
 type: being
 subType: npc
-description: A minor jarl whose estate holds Thraskorv Járnskel's parents as thralls.
+description: A minor jarl whose estate holds Thraskorv Jarnskel's parents as thralls.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hrandorv Hlirthendikh is a 40-year-old man who stands 5'8" tall with a light build. He has pale skin, smooth complexion, blonde hair, and hazel eyes.
+Hrandorv Hlirthendik is a 40-year-old man who stands 5'8" tall with a light build. He has pale skin, smooth complexion, blonde hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Hrandorv Hlirthendikh is a minor jarl of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] whose lands produce little but grain and suffering. His estate holds the parents of [[being-thrskrvjrnskl|Thraskorv Járnskel]] as thralls.
+Hrandorv Hlirthendik is a minor jarl of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] whose lands produce little but grain and suffering. His estate holds the parents of [[being-thrskrvjrnskl|Thraskorv Jarnskel]] as thralls.

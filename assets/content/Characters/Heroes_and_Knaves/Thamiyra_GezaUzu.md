@@ -1,6 +1,6 @@
 ---
 shortcode: thamiyragezz
-name: {full: Thamiyra Gezâ'Uzu, given: Thamiyra, clan: Gezâ'Uzu, aliases: []}
+name: {full: Thamiyra Geza'Uzu, given: Thamiyra, clan: Geza'Uzu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [garanlaghet]
-  affiliations: {empireakhlth: {rank: 3}, thubai: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, thubai: {rank: 1}}
   gender: female
   species: humanflk
   born: 684.261
@@ -418,13 +418,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thamiyragezz|Thamiyra Gezâ'Uzu]]{float=top-left}
+![[thamiyragezz|Thamiyra Geza'Uzu]]{float=top-left}
 
 Thamiyra stands 5'3" tall with a light build. She has warm bronze skin, jet black hair, and black eyes. Her features include a diamond-shaped face, a tapered chin, and fine brows. She has a faint scar on the left side of her neck.
 
 # Dossier {#dossier}
 
-Thamiyra was born into the house of a minor imperial scribe during the reign of prosperity in the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]]. Her childhood was spent among ledgers and ceremonial robes, learning the unspoken language of power before she could read formal script. At fourteen, her family's fortunes shifted when her father's loyalty to a disgraced official was discovered. Rather than accept ruin, her mother positioned young Thamiyra in the household of a wealthy merchant lord, where she learned the arts of charm, conversation, and influence. What was meant as a temporary refuge became permanent when Thamiyra discovered she possessed a talent far exceeding expectation—she could make men and women alike believe she understood their deepest desires.
+Thamiyra was born into the house of a minor imperial scribe during the reign of prosperity in the Empire of [[affiliation-empireakhlth|Au'Khelathu]]. Her childhood was spent among ledgers and ceremonial robes, learning the unspoken language of power before she could read formal script. At fourteen, her family's fortunes shifted when her father's loyalty to a disgraced official was discovered. Rather than accept ruin, her mother positioned young Thamiyra in the household of a wealthy merchant lord, where she learned the arts of charm, conversation, and influence. What was meant as a temporary refuge became permanent when Thamiyra discovered she possessed a talent far exceeding expectation—she could make men and women alike believe she understood their deepest desires.
 
 By twenty-eight, Thamiyra had become the most prized courtesan in the imperial capital, not for beauty alone but for an intelligence that rivaled scribes and a wit that could wound or heal with equal precision. She collected patrons like scholars collect texts, each relationship carefully cultivated and maintained. Her apparent scandal—a messy affair involving a high-ranking military officer and forged diplomatic correspondence that nearly destabilized a trade agreement—nearly destroyed her reputation, though careful maneuvering and well-placed allies saw her emerge, if cautiously, intact.
 
@@ -473,11 +473,11 @@ Thamiyra's primary motivation is survival combined with the acquisition of secur
 Lord [[being-uqetirakugz2|Uqetiraku Gazemu]]
 : A wealthy master of many workshops and collector of fine arts who values Thamiyra as both companion and intellectual equal. He provides her with significant financial support and protection from those who might exploit her former scandal. Their relationship is perhaps her most stable, built on mutual respect rather than mere attraction.
 
-Lady [[being-themeritshl2|Themerît Shalûqu]]
-: An aging widow and powerful political matriarch who has taken Thamiyra under her wing as a protégée and potential heir to her network of influence. Lady Shalûqu sees in Thamiyra the ambitious mind she once possessed.
+Lady [[being-themeritshl2|Themerit Shaluku]]
+: An aging widow and powerful political matriarch who has taken Thamiyra under her wing as a protégée and potential heir to her network of influence. Lady Shaluku sees in Thamiyra the ambitious mind she once possessed.
 
 Merchant Prince Veithari Kuethori
-: A wealthy foreign trader who visits Aû'Khelâthu regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
+: A wealthy foreign trader who visits Au'Khelathu regularly for business. He pays handsomely for her companionship and, more importantly, for intelligence about imperial politics and trade agreements. He believes she holds the key to expanding his influence.
 
 High Scribe [[being-zentikhlmgth|Zenti Khelemu'Gathau]]
 : A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares a true meeting of minds rather than merely performing companionship.
@@ -493,7 +493,7 @@ Merchant Rival Selena Moros
 ### Affiliations
 
 [[affiliation-genzetqelunu|Genzet'Qelunu]]
-: An informal network of courtesans, companions, and women of influence throughout Aû'Khelâthu who exchange information, provide mutual protection, and maintain standards for their profession. Thamiyra is an unofficial advisor to this network.
+: An informal network of courtesans, companions, and women of influence throughout Au'Khelathu who exchange information, provide mutual protection, and maintain standards for their profession. Thamiyra is an unofficial advisor to this network.
 
 [[affiliation-linzethglzkr|Lin'Zethu elu Galezkara]]
 : A loose association of scholars, historians, and learned individuals who commission her transcription work and include her in their intellectual circles, giving her access to knowledge and protected status as a patron of learning.
@@ -504,7 +504,7 @@ Merchant Rival Selena Moros
 
 2. **The Daughter's Claim**: A young woman arrives claiming to be Thamiyra's illegitimate daughter from a long-ago affair with a powerful noble, born shortly after he died. The woman seeks to establish her claim to his substantial inheritance, which would require Thamiyra to testify about the relationship. The complication: Thamiyra has no memory of being pregnant or bearing a child. Someone may have carefully orchestrated an elaborate deception, or she may have been deliberately made to forget through mystical means. Either way, this revelation threatens to unravel everything.
 
-3. **The Competitor's Peril**: A wealthy patron who has recently begun shifting his attention from Thamiyra to her rival Selena Moros asks Thamiyra to help him understand why Selena is suddenly refusing his advances. When Thamiyra investigates, she discovers Selena has been captured and imprisoned by persons unknown, forced into servitude far from Aû'Khelâthu. Despite their rivalry, Thamiyra can risk her own position attempting a rescue, or use the situation to eliminate her competition permanently.
+3. **The Competitor's Peril**: A wealthy patron who has recently begun shifting his attention from Thamiyra to her rival Selena Moros asks Thamiyra to help him understand why Selena is suddenly refusing his advances. When Thamiyra investigates, she discovers Selena has been captured and imprisoned by persons unknown, forced into servitude far from Au'Khelathu. Despite their rivalry, Thamiyra can risk her own position attempting a rescue, or use the situation to eliminate her competition permanently.
 
 4. **The Encrypted Archive**: While researching a potential new patron's background, Thamiyra discovers references to a secret archive hidden within the imperial archives—a collection of forbidden documents, love letters, and political intelligence gathered over centuries. Multiple factions are searching for it, and they believe she has knowledge of its location because her father worked in the archives. She must pick her way between those who would kill for the information and those who would pay kingdoms to suppress it.
 

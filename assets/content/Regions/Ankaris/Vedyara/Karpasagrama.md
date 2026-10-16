@@ -1,9 +1,9 @@
 ---
 shortcode: karpasagrama
-name: {full: Kārpāsagrāma, aliases: []}
+name: {full: Karpasagrama, aliases: []}
 type: place
 subType: settlement
-description: "Cotton village of the lower curve, whose Karmāja weaver workshops clothe most of the janapada."
+description: "Cotton village of the lower curve, whose Karmija weaver workshops clothe most of the janapoda."
 tags: [village, river, inland, draft]
 data:
   demonym: null
@@ -14,4 +14,4 @@ data:
   government: dhnrktjnpd
 ---
 
-**Kārpāsagrāma** (930) is the cotton village of the lower curve, and in the picking weeks the lint drifts across the lanes like late snow. Its workshops, kept by **Karmāja** weaving households, clothe most of the [[place-dhanurkotajnpd|Dhanurkota Janapada]]. The indigo grown and dyed at [[place-nilavana|Nīlavana]] comes to its looms, so the blue cloth of the valley is made by the two villages together.
+**Karpasagrama** (930) is the cotton village of the lower curve, and in the picking weeks the lint drifts across the lanes like late snow. Its workshops, kept by **Karmija** weaving households, clothe most of the [[place-dhanurkotajnpd|Danurkota Janapoda]]. The indigo grown and dyed at [[place-nilavana|Nilavana]] comes to its looms, so the blue cloth of the valley is made by the two villages together.

@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [wlqtrrgn], population: 0, packFolder: 
 
 ## Overview
 
-A square of dressed stone stands on the grass-and-dust country of the Völketör, the grass range, a hundred miles beyond the last caravanserai of Byzaría's [[place-eastrnmrch|Eastern March]]: four walls twenty feet high, a tower at each corner, a single gate facing west. It is the work of the [[affiliation-vylarinmpr|Vylarian Empire]], which in its height drove a handful of such forts into the western margin to watch the grass road east. The tribes call it Oroqid, the camp, as they would any place a force of strangers halted, and they never found a reason to rename it.
+A square of dressed stone stands on the grass-and-dust country of the Volketor, the grass range, a hundred miles beyond the last caravanserai of Bizaria's [[place-eastrnmrch|Eastern March]]: four walls twenty feet high, a tower at each corner, a single gate facing west. It is the work of the [[affiliation-vylarinmpr|Vylarian Empire]], which in its height drove a handful of such forts into the western margin to watch the grass road east. The tribes call it Oroqid, the camp, as they would any place a force of strangers halted, and they never found a reason to rename it.
 
 Inside, the plan is the one every legion builds: a parade ground, a headquarters at its center with a strongroom below, barrack blocks along the walls, and a cistern under the courtyard that is fed by a spring the engineers found and the garrison never lost. The roofs are gone and the timbers with them. The walls are whole, and over the gate a square of plaster still carries the painted number of a legion.
 
@@ -20,7 +20,7 @@ The tribes hold that the Vylarians will come back for it. They were not driven o
 
 ## Danger
 
-The danger is the tribe that holds the water. The cistern is the best on the Völketör's southern road, and the tribe that holds it charges a price for every skin, charges a larger one to anyone who is not a friend of the tribe, and charges a larger one still to anyone who goes into the headquarters. A party that refuses to pay may camp outside the walls and take its chances with the riders who sit on the ridge. The strongroom below the headquarters is shut by an iron door, and a deadfall of dressed stone waits on its stair for the first person to step wrongly.
+The danger is the tribe that holds the water. The cistern is the best on the Volketor's southern road, and the tribe that holds it charges a price for every skin, charges a larger one to anyone who is not a friend of the tribe, and charges a larger one still to anyone who goes into the headquarters. A party that refuses to pay may camp outside the walls and take its chances with the riders who sit on the ridge. The strongroom below the headquarters is shut by an iron door, and a deadfall of dressed stone waits on its stair for the first person to step wrongly.
 
 ## Treasure
 
@@ -28,7 +28,7 @@ The strongroom holds the fort's pay-chests, sealed and never opened, and the leg
 
 ## A Hook
 
-A Vylarian official arrives in a Byzarian port with money and no explanation. He wants one of the standards back, a specific one, and he will not say why. He is willing to pay for a party to bring it out and willing to see to it that no one else does, and the tribe that holds the cistern has been told he is coming.
+A Vylarian official arrives in a Bizarian port with money and no explanation. He wants one of the standards back, a specific one, and he will not say why. He is willing to pay for a party to bring it out and willing to see to it that no one else does, and the tribe that holds the cistern has been told he is coming.
 
 ## See Also
 

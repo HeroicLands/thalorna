@@ -1,6 +1,6 @@
 ---
 shortcode: domricyravit
-name: {full: Dómric yra Vithrúnd wur Eichengrund, aliases: []}
+name: {full: Domrik yra Vithrúnd wur Eichengrund, aliases: []}
 type: being
 subType: npc
 description: The older brother of Athalwa yra Vithrúnd wur Eichengrund, who showed early aptitude for a War Chief's role and died while hunting at thirty-eight.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dómric yra Vithrúnd wur Eichengrund was a 38-year-old man who stood 6'3" tall with a medium build. He had fair skin, weathered complexion, dark brown hair, and grey eyes.
+Domrik yra Vithrúnd wur Eichengrund was a 38-year-old man who stood 6'3" tall with a medium build. He had fair skin, weathered complexion, dark brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Dómric yra Vithrúnd wur Eichengrund was the older brother of [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]]. He showed early aptitude for a War Chief's role and died mysteriously while hunting at the age of thirty-eight, which left the succession to leadership complicated.
+Domrik yra Vithrúnd wur Eichengrund was the older brother of [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]]. He showed early aptitude for a War Chief's role and died mysteriously while hunting at the age of thirty-eight, which left the succession to leadership complicated.

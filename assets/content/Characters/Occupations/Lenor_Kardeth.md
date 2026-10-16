@@ -1,6 +1,6 @@
 ---
 shortcode: lenarcrdth
-name: {full: Lénor Kárdeth, aliases: []}
+name: {full: Lenor Kardeth, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -395,23 +395,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Lénor Kárdeth is a 41-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. His large blue eyes sit beneath straight brows and give him an expressive gaze. He has a straight nose and full lips. He has medium-toned skin with a smooth complexion. His silver hair is combed neatly to one side.
+Lenor Kardeth is a 41-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. His large blue eyes sit beneath straight brows and give him an expressive gaze. He has a straight nose and full lips. He has medium-toned skin with a smooth complexion. His silver hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Lénor Kárdeth is a ratter of Sóurimel, the Élavendri village inside the Silver Forests of [[place-elavendre|Élavendre]], a freeman who has kept the village's stores clear of rats for twenty-five years.
+Lenor Kardeth is a ratter of Sóurimel, the Élavendri village inside the Silver Forests of [[place-elavendre|Élavendre]], a freeman who has kept the village's stores clear of rats for twenty-five years.
 
-The village lives on charcoal, honey, hazel and the gathered herbs that the physicians of Péravel pay so well for, and all of it is stored over a winter and draws rats. Lénor learned the trade from an old man of the village and has improved on it since: traps of his own pattern, ferrets, a knowledge of where a rat runs and why, and no poison, ever, because poison kills the dogs and cats that do half the work. His dog, Scout, a rough-coated terrier, has worked with him for nine years. He takes the farms of Sórvanda beyond the wood as well, and passes what he knows to any young ratter who will listen.
+The village lives on charcoal, honey, hazel and the gathered herbs that the physicians of Péravel pay so well for, and all of it is stored over a winter and draws rats. Lenor learned the trade from an old man of the village and has improved on it since: traps of his own pattern, ferrets, a knowledge of where a rat runs and why, and no poison, ever, because poison kills the dogs and cats that do half the work. His dog, Scout, a rough-coated terrier, has worked with him for nine years. He takes the farms of Sórvanda beyond the wood as well, and passes what he knows to any young ratter who will listen.
 
 ## Psyche
 
 ### Personality
 
-Lénor is exacting, blunt with beginners and slow to praise. He has no time for anyone who reaches for a poison bottle because a trap takes patience.
+Lenor is exacting, blunt with beginners and slow to praise. He has no time for anyone who reaches for a poison bottle because a trap takes patience.
 
 ### Motivation
 
-Lénor wants the work done properly—every loft clear, every dog alive—and he wants the trade passed on the way he had it, so that it outlasts him.
+Lenor wants the work done properly—every loft clear, every dog alive—and he wants the trade passed on the way he had it, so that it outlasts him.
 
 ### Strengths
 
@@ -419,24 +419,24 @@ Highly experienced, skilled with traps and ferrets, a good teacher of those who 
 
 ## Social
 
-Lénor belongs to no guild and works for whoever calls him. In Sóurimel he is one of the village's own, and outside it he is known at every farm in Sórvanda.
+Lenor belongs to no guild and works for whoever calls him. In Sóurimel he is one of the village's own, and outside it he is known at every farm in Sórvanda.
 
 ## Companions
 
 ### Patrons
 
-Lénor's patrons are the households of Sóurimel with honey-stores and herb-lofts to keep, and the farmers of Sórvanda beyond the wood.
+Lenor's patrons are the households of Sóurimel with honey-stores and herb-lofts to keep, and the farmers of Sórvanda beyond the wood.
 
 ### Enemies
 
-A younger ratter from Péravel who works the Sórvanda farms with compounds bought from the physicians, and undercuts Lénor's price. Two farm dogs have died of his baits.
+A younger ratter from Péravel who works the Sórvanda farms with compounds bought from the physicians, and undercuts Lenor's price. Two farm dogs have died of his baits.
 
 ## Plot Hooks
 
 1. **The Poisoner**—The Péravel ratter's baits have killed a third dog, this time in Sóurimel itself, and the village wants him gone. He has a paper from the physicians that says the compound is safe.
 
-2. **Scout**—Scout is nine and slowing, and Lénor has not trained a dog to follow him because he did not want to admit the need. A litter has been offered.
+2. **Scout**—Scout is nine and slowing, and Lenor has not trained a dog to follow him because he did not want to admit the need. A litter has been offered.
 
-3. **Rats Before Winter**—Rats have come into the herb-lofts of Sóurimel in numbers Lénor has never seen, weeks before the first snow. He is beginning to think the rats did not come on their own.
+3. **Rats Before Winter**—Rats have come into the herb-lofts of Sóurimel in numbers Lenor has never seen, weeks before the first snow. He is beginning to think the rats did not come on their own.
 
-4. **The Apprentice Who Watches**—A young man has come to Sóurimel asking to learn the trade from Lénor, and learns it well. He also asks a great many questions about the village, and Sóurimel is careful about questions.
+4. **The Apprentice Who Watches**—A young man has come to Sóurimel asking to learn the trade from Lenor, and learns it well. He also asks a great many questions about the village, and Sóurimel is careful about questions.

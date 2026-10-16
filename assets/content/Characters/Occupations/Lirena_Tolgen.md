@@ -1,6 +1,6 @@
 ---
 shortcode: lyrenatlgn
-name: {full: Lirèna Tolgèn, aliases: []}
+name: {full: Lirena Tolgen, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -390,13 +390,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Lirèna Tolgèn is a 30-year-old woman who stands 5'8" tall and is slender. She has a heart-shaped face with defined cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. Her almond-shaped hazel eyes sit beneath thin brows, lending her a measured gaze. A narrow nose and curved lips complete her features. She has medium-toned skin with a bronzed complexion. Her dark blonde hair is hanging in ringlets.
+Lirena Tolgen is a 30-year-old woman who stands 5'8" tall and is slender. She has a heart-shaped face with defined cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. Her almond-shaped hazel eyes sit beneath thin brows, lending her a measured gaze. A narrow nose and curved lips complete her features. She has medium-toned skin with a bronzed complexion. Her dark blonde hair is hanging in ringlets.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Lirèna Tolgèn came into the world of the skald through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Lirena Tolgen came into the world of the skald through a combination of circumstance and aptitude.
 
-Lirèna is known as "Tolgèn" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old Nordmen mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Lirèna sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
+Lirena is known as "Tolgen" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old Nordmen mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Lirena sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
 
 ## Psyche
 
@@ -406,7 +406,7 @@ Prone to emotional outbursts, can be too intense for some audiences.
 
 ### Motivation
 
-Lirèna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in skald work keep her vigilant and adaptable.
+Lirena is driven by the desire to master her craft and secure a stable future. The uncertainties of life in skald work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -414,15 +414,15 @@ Charismatic, skilled in poetry and oral storytelling, expressive.
 
 ## Social
 
-Lirèna is affiliated with Nordland Skalds' Guild.
+Lirena is affiliated with Nordland Skalds' Guild.
 
-As a Provenzian skald, Lirèna occupies a recognized social niche within Provènzia society.
+As a Provenzian skald, Lirena occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Lirèna's primary patron is Nordland leaders and wealthy families who value her craft. This relationship provides both opportunity and obligation.
+Lirena's primary patron is Nordland leaders and wealthy families who value her craft. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -430,12 +430,12 @@ More conservative skalds who disapprove of her modern influences.
 
 ## Plot Hooks
 
-1. **The Skald's Dilemma**—Lirèna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Skald's Dilemma**—Lirena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
 2. **Old Grudges**—More conservative skalds who disapprove of her modern influences. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Lirèna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Lirena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Lirèna depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Lirena depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Lirèna the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Lirena the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

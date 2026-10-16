@@ -3,7 +3,7 @@ shortcode: izetgenome
 name: {full: Izet-Ge, aliases: []}
 type: place
 subType: region
-description: "Date-palm plantations and the sweet delta wines—the land of the Selat of Izet-Ge, one of the delta selatu of Aû'Khelâthu."
+description: "Date-palm plantations and the sweet delta wines—the land of the Selat of Izet-Ge, one of the delta selatu of Au'Khelathu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -17,13 +17,13 @@ data:
 
 ## Overview
 
-**Izet-Ge** is the land of the [[affiliation-selatizetge|Selat of Izet-Ge]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. Its date-palm plantations and the sweet delta wines are what the empire knows it for.
+**Izet-Ge** is the land of the [[affiliation-selatizetge|Selat of Izet-Ge]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. Its date-palm plantations and the sweet delta wines are what the empire knows it for.
 
 "A good palm is a long climb and a bad rope," says a man pulling himself up a trunk on a loop of rope, a knife at his belt and a basket on his back. The palms carry dates in heavy clusters under the crown, and the harvest is work for the climbers; the sweet wine follows from the fruit.
 
 ## Character
 
-Away from the palms, the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-thubai|Thubâ'i]] and its estates hold much of the palm country.
+Away from the palms, the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-thubai|Thuba'i]] and its estates hold much of the palm country.
 
 ## Settlements
 
@@ -33,5 +33,5 @@ Away from the palms, the villages and temple estates grow grain on the usual ter
 ## See Also
 
 - [[affiliation-selatizetge|The Selat of Izet-Ge]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The enclosing region
 - [[place-izet|Izet]]—Selat capital

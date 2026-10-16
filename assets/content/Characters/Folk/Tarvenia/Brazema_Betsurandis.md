@@ -1,9 +1,9 @@
 ---
 shortcode: brazemabetsu
-name: {full: Brazéma Betsurándis, aliases: [Captain-Admiral Brazéma]}
+name: {full: Brazema Betsuris, aliases: [Captain-Admiral Brazema]}
 type: being
 subType: npc
-description: A celebrated naval commander who has commissioned multiple vessels from Dómeth Gráveth over two decades.
+description: A celebrated naval commander who has commissioned multiple vessels from Dometh Graveth over two decades.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Brazéma Betsurándis is a 57-year-old woman who stands 5'7" tall with a medium build. She has olive skin, sun-kissed complexion, black hair, and amber eyes.
+Brazema Betsuris is a 57-year-old woman who stands 5'7" tall with a medium build. She has olive skin, sun-kissed complexion, black hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Brazéma Betsurándis is a celebrated naval commander, a captain-admiral. She has commissioned multiple vessels from [[being-domthgrvth|Dómeth Gráveth]] over two decades.
+Brazema Betsuris is a celebrated naval commander, a captain-admiral. She has commissioned multiple vessels from [[being-domthgrvth|Dometh Graveth]] over two decades.

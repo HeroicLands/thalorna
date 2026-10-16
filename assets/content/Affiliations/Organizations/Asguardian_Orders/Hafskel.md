@@ -3,7 +3,7 @@ shortcode: hafskel
 name: {full: "Hafskel", aliases: []}
 type: affiliation
 subType: order
-description: "Naval combat trained at sea for Thrúnvald."
+description: "Naval combat trained at sea for Thrunvald."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,17 +17,17 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
           Cast out of Hafskel, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
           Trains aboard ship in naval combat and a vessel's defense, ranking under the order's own before the crew's.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
           Leads the order's work aboard ship, its standing counting for more than any rank but the captain's.
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Aboard a ship that carries [[affiliation-thrunvald|Thrúnvald]]'s faithful, nobody outranks the captain, and no one else in the crew outranks a Seaforged.
+Aboard a ship that carries [[affiliation-thrunvald|Thrunvald]]'s faithful, nobody outranks the captain, and no one else in the crew outranks a Seaforged.
 
 Hafskel, the Seaforged, trains fighters of the faith at sea rather than ashore, drilling them into masters of naval combat and of a ship's defense under way. A member serves aboard the vessels that carry the faithful, where the order's own standing counts for more than any crew rank but the captain's.

@@ -1,6 +1,6 @@
 ---
 shortcode: hlaskynda
-name: {full: Hlaskynda, aliases: [Jarl Hlaskynda]}
+name: {full: Hlaskinda, aliases: [Jarl Hlaskinda]}
 type: being
 subType: npc
 description: Jarl of Hvulgdal, a farming dale of the Nordlands, known as a wise ruler, named in Bruldorv Greenshield and Hvulgdal.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hlaskynda is a 55-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, scarred complexion, blonde hair, and hazel eyes.
+Hlaskinda is a 55-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, scarred complexion, blonde hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Hlaskynda is the jarl of Hvulgdal, a farming dale of the Nordlands, known as a wise ruler. She has given Bruldorv authority over the management of her lands' harvests. Hlaskynda is named in [[being-brldrvgrnshld|Bruldorv Greenshield]] and [[place-hvulgdal|Hvulgdal]].
+Hlaskinda is the jarl of Hvulgdal, a farming dale of the Nordlands, known as a wise ruler. She has given Bruldorv authority over the management of her lands' harvests. Hlaskinda is named in [[being-brldrvgrnshld|Bruldorv Greenshield]] and [[place-hvulgdal|Hvulgdal]].

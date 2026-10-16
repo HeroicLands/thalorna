@@ -1,6 +1,6 @@
 ---
 shortcode: hrimthur
-name: {full: "Ritual: Hrímthur", aliases: [The Path of the First Wound]}
+name: {full: "Ritual: Hrimthur", aliases: [The Path of the First Wound]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-hrimthur|Faith of Hrímthur]]
+See [[affiliation-hrimthur|Faith of Hrimthur]]

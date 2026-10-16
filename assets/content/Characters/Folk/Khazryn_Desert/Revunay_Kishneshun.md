@@ -3,7 +3,7 @@ shortcode: revunaykishn
 name: {full: Revunay Kishneshun, aliases: [Duke Revunay]}
 type: being
 subType: npc
-description: An unscrupulous collector assembling an expedition to find a lost formula, named in Khârânah Khafûr.
+description: An unscrupulous collector assembling an expedition to find a lost formula, named in Kharanah Khafur.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Revunay Kishneshun is a 57-year-old man who stands 5'10" tall with a medium buil
 
 # Dossier {#dossier}
 
-Revunay Kishneshun is a duke and an unscrupulous collector who is assembling an expedition to a crumbling monastery in the Kûrân Mountains to find the lost formula of a perfumer of the ancient age. [[being-kharnhkhfr|Khârânah Khafûr]] learns of the expedition and can let the formula remain lost or seek it first.
+Revunay Kishneshun is a duke and an unscrupulous collector who is assembling an expedition to a crumbling monastery in the Kuran Mountains to find the lost formula of a perfumer of the ancient age. [[being-kharnhkhfr|Kharanah Khafur]] learns of the expedition and can let the formula remain lost or seek it first.

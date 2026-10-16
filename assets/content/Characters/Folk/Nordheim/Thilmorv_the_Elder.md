@@ -5,7 +5,7 @@ name:
   aliases: [Merchant-Lord Thilmorv the Elder, Merchant-Lord Thilmorv]
 type: being
 subType: npc
-description: A wealthy trader and merchant-lord who has commissioned five major pieces from Flarnthýra Steinblót.
+description: A wealthy trader and merchant-lord who has commissioned five major pieces from Flarnthira Steinblet.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -38,4 +38,4 @@ Thilmorv the Elder is a 49-year-old man who stands 5'9" tall with a medium build
 
 # Dossier {#dossier}
 
-Thilmorv the Elder is a wealthy trader and merchant-lord who has commissioned five major pieces from [[being-flrnthyrstnblt|Flarnthýra Steinblót]]. He pays handsomely.
+Thilmorv the Elder is a wealthy trader and merchant-lord who has commissioned five major pieces from [[being-flrnthyrstnblt|Flarnthira Steinblet]]. He pays handsomely.

@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Telekinesis moves an object at a distance, within a weight the practitioner could lift by hand. It extends the practitioner's reach, not their strength. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.
+Telekinesis moves an object at a distance, within a weight the practitioner could lift by hand. It extends the practitioner's reach, not their strength. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

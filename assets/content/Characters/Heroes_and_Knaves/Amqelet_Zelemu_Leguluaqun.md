@@ -1,6 +1,6 @@
 ---
 shortcode: amqltzlmlglq
-name: {full: Amqelet-Zelemu Legulu’aqun, given: Amqelet-Zelemu, clan: Legulu’aqun, aliases: [Amqê]}
+name: {full: Amqelet-Zelemu Legulu’akun, given: Amqelet-Zelemu, clan: Legulu’akun, aliases: [Amqe]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, mages]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]
-  affiliations: {empireakhlth: {rank: 4}, rethsaar: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, rethsaar: {rank: 1}}
   gender: male
   species: humanflk
   born: 677.195
@@ -86,7 +86,7 @@ sohl:
     - name: Astrological instruments (astrolabe, quadrant)
       type: miscgear
       system: {shortcode: astrological, weight: 1, value: 100, durability: 3}
-    - name: Sacred texts of Reth'Sa'âr (god of wisdom)
+    - name: Sacred texts of Reth'Sa'ar (god of wisdom)
       type: miscgear
       system: {shortcode: sacredtextsofthoth, weight: 1, value: 100, durability: 3}
     - name: Parchment and writing materials
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]{float=top-left}
+![[amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]{float=top-left}
 
 Amqelet-Zelemu stands 5'9\" tall with a medium build. He has dark skin, dark hair, and brown eyes. His features include a long nose, a pointed chin, generous lips, and elegantly curved brows.
 
@@ -433,33 +433,33 @@ Amqelet-Zelemu stands 5'9\" tall with a medium build. He has dark skin, dark hai
 
 ### Origin and Early Life
 
-Amqelet-Zelemu was born into a respected family of scholars and astrologers in the grand city of [[place-khelunu|Khelunu]], a cultural and scholarly center of the **Empire of [[affiliation-empireakhlth|Aû'Khelâthu]]**. The Empire, with traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in its governance and daily life. The empire’s priests and astrologers are key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
+Amqelet-Zelemu was born into a respected family of scholars and astrologers in the grand city of [[place-khelunu|Khelunu]], a cultural and scholarly center of the **Empire of [[affiliation-empireakhlth|Au'Khelathu]]**. The Empire, with traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in its governance and daily life. The empire’s priests and astrologers are key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
 
-Amqelet-Zelemu, from a young age, showed a rare affinity for reading the stars. His family, who had long served the high courts of Aû'Khelâthu, saw that he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Aû'Khelâthu.
+Amqelet-Zelemu, from a young age, showed a rare affinity for reading the stars. His family, who had long served the high courts of Au'Khelathu, saw that he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Au'Khelathu.
 
 ### Astrological Discoveries and Vision
 
 When Amqelet-Zelemu reached his early thirties, he began experiencing disturbing visions during his astrological readings. Unusual alignments of stars and planets foretold the arrival of a significant celestial event, one that could reshape the very balance of power in the known world. After months of intense study, he concluded that this event, which he referred to as “The Convergence of the Nine Moons,” was not a simple astronomical occurrence, but a mystical one with divine consequences.
 
-His readings indicated that this event was tied to the fate of the **Court of the Nine Moons**, the council of the nine most powerful clans in Aû'Khelâthu. His predictions warned that if the empire did not take action, the Convergence would bring about disaster, either in the form of internal strife or an invasion from external powers. The stars, however, did not reveal the full extent of the threat—only that it was imminent and inevitable.
+His readings indicated that this event was tied to the fate of the **Court of the Nine Moons**, the council of the nine most powerful clans in Au'Khelathu. His predictions warned that if the empire did not take action, the Convergence would bring about disaster, either in the form of internal strife or an invasion from external powers. The stars, however, did not reveal the full extent of the threat—only that it was imminent and inevitable.
 
-### The Gar-Aû’s Response
+### The Gar-Au’s Response
 
-Amqelet-Zelemu presented his findings to [[being-garaumeqesxv|Gar-Aû Meqes XVI]], who ruled the empire from the capital city of [[place-galezkara|Galezkara]]. The Gar-Aû was a practical woman, but she had learned to trust the warnings of astrologers. Yet, the ambiguity of Amqelet-Zelemu’s predictions frustrated the court. While some powerful lords demanded immediate action, others dismissed it as a misreading of the stars.
+Amqelet-Zelemu presented his findings to [[being-garaumeqesxv|Gar-Au Meqes XVI]], who ruled the empire from the capital city of [[place-galezkara|Galezkara]]. The Gar-Au was a practical woman, but she had learned to trust the warnings of astrologers. Yet, the ambiguity of Amqelet-Zelemu’s predictions frustrated the court. While some powerful lords demanded immediate action, others dismissed it as a misreading of the stars.
 
 Faced with skepticism from the court and the increasing pressure of the imperial council, Amqelet-Zelemu decided he could no longer wait for the empire’s leaders to act. His readings indicated that the truth behind the Convergence could only be found by traveling to key sacred sites scattered throughout the empire, where ancient celestial knowledge was hidden.
 
 ### The Sacred Journey
 
-Amqelet-Zelemu embarked on a **pilgrimage** to these ancient locations, which were sacred to the early astrologers of Aû'Khelâthu. His journey would take him deep into the deserts of [[place-beshakan|Beshakan]], across the [[place-venariasea|Venâria Sea]], and through forgotten ruins where ancient star maps were carved into the stones by the earliest astronomers.
+Amqelet-Zelemu embarked on a **pilgrimage** to these ancient locations, which were sacred to the early astrologers of Au'Khelathu. His journey would take him deep into the deserts of [[place-beshakan|Beshakan]], across the [[place-venariasea|Venaria Sea]], and through forgotten ruins where ancient star maps were carved into the stones by the earliest astronomers.
 
-His first stop was the [[place-anlaghura|Obelisk of Anlaghura]], an ancient monolithic structure standing in the middle of the Târga River Valley. There, Amqelet-Zelemu discovered fragments of a lost prophecy inscribed in ancient runes, pointing him to a mountain shrine in the highlands of [[place-chenosolis|Chenosolis]], where the oldest records of the empire’s astrologers were kept.
+His first stop was the [[place-anlaghura|Obelisk of Anlaghura]], an ancient monolithic structure standing in the middle of the Targa River Valley. There, Amqelet-Zelemu discovered fragments of a lost prophecy inscribed in ancient runes, pointing him to a mountain shrine in the highlands of [[place-chenosolis|Chenosolis]], where the oldest records of the empire’s astrologers were kept.
 
 ### Mystical Challenges and Allies
 
 Amqelet-Zelemu’s journey is fraught with challenges. Rival astrologers and priests who either do not believe in the prophecy or seek to use the event for their own ends send agents to stop him. His journey into the ruins also reveals ancient powers long forgotten—spirits of the desert, creatures bound to the stars, and followers of ancient cults who view the Convergence as an opportunity to usher in a new age of chaos.
 
-Despite these dangers, Amqelet-Zelemu finds unlikely allies along his path. He meets a wandering desert ranger named **“The Silent Jackal”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Amqelet-Zelemu also encounters a scholar, **[[being-legiretilmyz|Legiret Ilmy-Zâ]] Ilmy-Zâ**, and an exiled priest, **[[being-legezaqu|Legez Aqu]] Anu**, who together join him in his quest to unlock the true power of the Convergence.
+Despite these dangers, Amqelet-Zelemu finds unlikely allies along his path. He meets a wandering desert ranger named **“The Silent Jackal”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Amqelet-Zelemu also encounters a scholar, **[[being-legiretilmyz|Legiret Ilmy-Za]] Ilmy-Za**, and an exiled priest, **[[being-legezaqu|Legez Aqu]] Anva**, who together join him in his quest to unlock the true power of the Convergence.
 
 ### End Goal
 
@@ -476,7 +476,7 @@ The culmination of his journey will lead to a dramatic confrontation with the fo
 ### Companions
 
 - [[being-atenhershr|Atazkharu Sahri]]
-- [[being-legiretilmyz|Legiret Ilmy-Zâ]]
+- [[being-legiretilmyz|Legiret Ilmy-Za]]
 - [[being-legezaqu|Legez Aqu]]
 
 ### Skills and Abilities

@@ -1,12 +1,12 @@
 ---
 shortcode: khryshteikhos
-name: {full: Khrýshteíkhos, aliases: []}
+name: {full: Krusteikhos, aliases: []}
 type: affiliation
 subType: polity
-description: "Wealthiest city-state of the Byzarian League at the crossroads of eastern and western trade—a merchant-ruled fortress commanding half the League's wealth and two-thirds of its political will."
+description: "Wealthiest city-state of the Bizarian League at the crossroads of eastern and western trade—a merchant-ruled fortress commanding half the League's wealth and two-thirds of its political will."
 data:
   templatePriority: null
-  demonym: Khrýshteíkhian
+  demonym: Krusteíkhian
   epithet: null
   symbol: null
   governance:
@@ -70,34 +70,34 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Do not mistake the council that meets in Khrýshteíkhos for the council of Khrýshteíkhos. The first belongs to the whole [[affiliation-byzarianlg|Byzarian League]]: it sits in the **Merchant Hall**, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about two million people from [[place-khryshteikhos2|Khrýshteíkhos]], the Golden Fortress on the edge of the plateau. Khrýshteíkhos is the wealthiest and most influential of the five cities and the League's capital in all but name, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
+Do not mistake the council that meets in Krusteikhos for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the **Merchant Hall**, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about two million people from [[place-khryshteikhos2|Krusteikhos]], the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five cities and the League's capital in all but name, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
 
 ## Who Decides
 
-A council of merchant-princes governs the city-state, and the same families have held their seats for generations. Seats are weighed by the house behind the councillor, so the first thing to learn in Khrýshteíkhos is whose house stands behind whom; politics here is a long exchange of alliances, marriages and loans. The council elects its presiding officer, the First of the Council, for a fixed term, and he holds the city's seal while he presides.
+A council of merchant-princes governs the city-state, and the same families have held their seats for generations. Seats are weighed by the house behind the councillor, so the first thing to learn in Krusteikhos is whose house stands behind whom; politics here is a long exchange of alliances, marriages and loans. The council elects its presiding officer, the First of the Council, for a fixed term, and he holds the city's seal while he presides.
 
 The offices are the ones every League city keeps, and in a city of bankers three of them matter to anyone doing business. The Treasurer keeps the customs, the tolls and the loans raised against them. The Chancellor keeps the charters, treaties and correspondence on which those loans rest. The Warden of the Weights inspects measures, coin and quality in the markets, and his is the office that makes the city's word good.
 
 ## Standing
 
-Standing in Khrýshteíkhos runs outward from the city's register. Say a porter has worked the Merchant Hall's loading yards for twenty years without being enrolled: he is a resident, so the city protects him and does not count him, and he has no vote and no freedom of its markets. Enrolled, he would be a freeman, who trades in the markets and pleads in the courts. Below the resident are the unfree, bound by service or debt with no property and no right to contract, and below them the man struck from the roll, whose contracts are void and whom no court will hear.
+Standing in Krusteikhos runs outward from the city's register. Say a porter has worked the Merchant Hall's loading yards for twenty years without being enrolled: he is a resident, so the city protects him and does not count him, and he has no vote and no freedom of its markets. Enrolled, he would be a freeman, who trades in the markets and pleads in the courts. Below the resident are the unfree, bound by service or debt with no property and no right to contract, and below them the man struck from the roll, whose contracts are void and whom no court will hear.
 
 Above the freeman the rungs are earned by weight. A guild master speaks for a chartered trade before the council. A house factor runs a great house's warehouses, ships and agents abroad. A house head masters the house's capital and its name and helps elect the council. A councillor sits by the weight of his house, and the First of the Council presides over them all.
 
 ## Relations
 
-Inside the League, Khrýshteíkhos's weight is money; Nêsthiros's is ships and Argýrteíkhos's is the garrison, and the three together decide more than any vote. The north is Khrýshteíkhos's own concern. The grain road leaves the city for Velanthia, Khrýshteíkhos's bankers hold the grain contracts and its merchants own the wagons, and the Lord of the Northern March is by custom a younger son of an Khrýshteíkhian house. The other four cities accept this because the council's commission can be revoked, which would not be true if the March were simply Khrýshteíkhos's.
+Inside the League, Krusteikhos's weight is money; Nesthiros's is ships and Argirteikhos's is the garrison, and the three together decide more than any vote. The north is Krusteikhos's own concern. The grain road leaves the city for Velanthia, Krusteikhos's bankers hold the grain contracts and its merchants own the wagons, and the Lord of the Northern March is by custom a younger son of an Krusteíkhian house. The other four cities accept this because the council's commission can be revoked, which would not be true if the March were simply Krusteikhos's.
 
-The city-state is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon]], the civic faith of the League.
+The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]], the civic faith of the League.
 
 ## Commerce and Currency
 
-Khrýshteíkhos uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Khrýshteíkhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Krusteikhos uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Krusteikhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—the confederation whose council meets in Khrýshteíkhos's hall
-- [[place-byzariargn|Byzaría Region]]—the League's country
-- [[place-khryshteikhos2|Khrýshteíkhos]]—the city itself
-- [[place-northrnmrch|Northern March]]—the frontier district Khrýshteíkhos's houses hold by custom
-- [[affiliation-nesthiros|Nêsthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argýrteíkhos]], [[affiliation-orashion|Órashion]]—the other four city-states
+- [[affiliation-byzarianlg|Bizarian League]]—the confederation whose council meets in Krusteikhos's hall
+- [[place-byzariargn|Bizaria Region]]—the League's country
+- [[place-khryshteikhos2|Krusteikhos]]—the city itself
+- [[place-northrnmrch|Northern March]]—the frontier district Krusteikhos's houses hold by custom
+- [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]—the other four city-states

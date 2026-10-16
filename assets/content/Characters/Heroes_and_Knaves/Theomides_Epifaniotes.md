@@ -1,6 +1,6 @@
 ---
 shortcode: thmdspfnts
-name: {full: Vusukês Govabês, given: Vusukês, clan: Govabês, aliases: []}
+name: {full: Vusukes Govabes, given: Vusukes, clan: Govabes, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -420,82 +420,82 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thmdspfnts|Vusukês Govabês]]{float=top-left}
+![[thmdspfnts|Vusukes Govabes]]{float=top-left}
 
-Vusukês stands 6'0" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include a narrow face, a hawkish nose, a strong jawline, full lips, strong brows, angular cheeks.
+Vusukes stands 6'0" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include a narrow face, a hawkish nose, a strong jawline, full lips, strong brows, angular cheeks.
 
 # Dossier {#dossier}
 
-Vusukês was born in the mountain villages of the [[affiliation-byzarianlg|Byzarian League]], the fifth son of a merchant-turned-shepherd. While his older brothers pursued trade and politics, young Vusukês showed no interest in crowded markets or civic affairs. Instead, he spent his youth stalking the high passes and dense forests, learning the language of paw prints and scat, of wind direction and animal behavior. His father, initially disappointed, eventually recognized his son's singular gift and apprenticed him to **Master Iskandor the Gray**, a trapper whose name was whispered with reverence in hunting lodges.
+Vusukes was born in the mountain villages of the [[affiliation-byzarianlg|Bizarian League]], the fifth son of a merchant-turned-shepherd. While his older brothers pursued trade and politics, young Vusukes showed no interest in crowded markets or civic affairs. Instead, he spent his youth stalking the high passes and dense forests, learning the language of paw prints and scat, of wind direction and animal behavior. His father, initially disappointed, eventually recognized his son's singular gift and apprenticed him to **Master Iskandor the Gray**, a trapper whose name was whispered with reverence in hunting lodges.
 
-Under Iskandor's guidance, Vusukês mastered every aspect of the hunter's craft. He learned to set snares that would catch even the wariest creature, to read the subtle signs that revealed which animals moved through a forest, to predict the migrations of game before they began. When Iskandor died—peacefully, in his sleep, in a hunter's lodge in the high country—Vusukês inherited not gold or land, but something far more valuable: thirty years of accumulated knowledge and a reputation beyond reproach.
+Under Iskandor's guidance, Vusukes mastered every aspect of the hunter's craft. He learned to set snares that would catch even the wariest creature, to read the subtle signs that revealed which animals moved through a forest, to predict the migrations of game before they began. When Iskandor died—peacefully, in his sleep, in a hunter's lodge in the high country—Vusukes inherited not gold or land, but something far more valuable: thirty years of accumulated knowledge and a reputation beyond reproach.
 
-Since then, Vusukês has made his living as an independent trapper and hunter, supplying furs to merchants and solving problems for farmers plagued by predators. He maintains a modest lodge in the foothills, spending winters processing his catch and summers ranging far into remote territories. He has never married, never taken on an apprentice, and never shown interest in settling into civilization. His life is the forest, and the forest is his life.
+Since then, Vusukes has made his living as an independent trapper and hunter, supplying furs to merchants and solving problems for farmers plagued by predators. He maintains a modest lodge in the foothills, spending winters processing his catch and summers ranging far into remote territories. He has never married, never taken on an apprentice, and never shown interest in settling into civilization. His life is the forest, and the forest is his life.
 
 ## Psyche
 
 ### Personality
 
-Vusukês is a man of few words and fewer pretenses. He speaks when silence would suffice, and his silences are purposeful, not awkward. There is no malice in his taciturn nature—merely an honest assessment that most conversation wastes breath that could be better spent observing. With those who respect the wild as he does, he can be surprisingly warm, sharing stories of hunts and near-misses with the gentle humor of one who has made peace with danger.
+Vusukes is a man of few words and fewer pretenses. He speaks when silence would suffice, and his silences are purposeful, not awkward. There is no malice in his taciturn nature—merely an honest assessment that most conversation wastes breath that could be better spent observing. With those who respect the wild as he does, he can be surprisingly warm, sharing stories of hunts and near-misses with the gentle humor of one who has made peace with danger.
 
 His values are straightforward: respect the animals you kill, waste nothing from their bodies, and leave the forest better than you found it. He has no patience for poachers or commercial hunters who strip landscapes bare, and he will speak bluntly—one of the few topics that can draw sharp words from his usually measured tongue—about the moral failings of those who desecrate the wild.
 
 ### Motivation
 
-Vusukês is motivated by a desire to preserve the balance of the wild places he has come to love. The encroachment of civilization weighs on him, but rather than resist or flee entirely, he works to see that those who use the forest—hunters, farmers, merchants—do so responsibly. He also harbors a quiet determination to mentor a worthy successor to carry on Iskandor's legacy, though he has yet to find someone with the patience and humility required.
+Vusukes is motivated by a desire to preserve the balance of the wild places he has come to love. The encroachment of civilization weighs on him, but rather than resist or flee entirely, he works to see that those who use the forest—hunters, farmers, merchants—do so responsibly. He also harbors a quiet determination to mentor a worthy successor to carry on Iskandor's legacy, though he has yet to find someone with the patience and humility required.
 
 ### Strengths
 
-- **Master Tracker**: Vusukês can follow a trail through brush and stone that others would deem impossible. His understanding of animal behavior is encyclopedic, allowing him to predict movement and location with uncanny accuracy.
+- **Master Tracker**: Vusukes can follow a trail through brush and stone that others would deem impossible. His understanding of animal behavior is encyclopedic, allowing him to predict movement and location with uncanny accuracy.
 - **Awareness**: Years of reading subtle environmental clues have honed his senses to near-supernatural levels. He notices what others miss—the snap of a twig, the shift of wind, the displacement of undergrowth.
 - **Expert Craftsman**: His knowledge of trapping, snare-craft, and leatherworking is extensive. He can fashion specialized tools and equipment for specific hunting challenges.
-- **Survival Mastery**: Vusukês can sustain himself indefinitely in wilderness. He knows which plants nourish and which poison, how to find water, how to predict weather.
+- **Survival Mastery**: Vusukes can sustain himself indefinitely in wilderness. He knows which plants nourish and which poison, how to find water, how to predict weather.
 - **Physical Endurance**: Decades of work have made him resilient, capable of forced marches and back-breaking labor without complaint.
 
 ### Weaknesses
 
-- **Social Isolation**: Vusukês struggles in urban environments and with the elaborate courtesies of city society. He finds small talk exhausting and formal negotiations almost unbearable.
+- **Social Isolation**: Vusukes struggles in urban environments and with the elaborate courtesies of city society. He finds small talk exhausting and formal negotiations almost unbearable.
 - **Commercial Inexperience**: His lack of bargaining skill has cost him dearly. He often accepts the first price offered, unable to handle the politics of trade.
 - **Emotional Distance**: His reserve can be mistaken for coldness. He finds it difficult to express affection, concern, or gratitude in ways others readily understand.
-- **Prejudice Against Change**: Vusukês resists innovations and prefers the methods he knows. He can be stubborn about adopting new techniques, even when they might prove useful.
-- **Vulnerability to Civilization**: While supreme in the wild, Vusukês is somewhat helpless in urban settings, making him uncomfortable and slightly suspicious in cities.
+- **Prejudice Against Change**: Vusukes resists innovations and prefers the methods he knows. He can be stubborn about adopting new techniques, even when they might prove useful.
+- **Vulnerability to Civilization**: While supreme in the wild, Vusukes is somewhat helpless in urban settings, making him uncomfortable and slightly suspicious in cities.
 
 ## Social
 
 ### Patrons
 
 The Merchant House of Pelios
-: A family of fur traders who have purchased Vusukês' pelts for two decades. **Kuhánikos Pelios**, the patriarch, trusts his judgment implicitly and often seeks his advice on which furs will command premium prices.
+: A family of fur traders who have purchased Vusukes' pelts for two decades. **Kuhánikos Pelios**, the patriarch, trusts his judgment implicitly and often seeks his advice on which furs will command premium prices.
 
-Farmer Meydánikos Fikazûr
-: A desperate man whose lands were plagued by a massive bear until Vusukês tracked and relocated it. Meydánikos now sends urgent requests whenever predators menace his herds.
+Farmer Meydánikos Fikazur
+: A desperate man whose lands were plagued by a massive bear until Vusukes tracked and relocated it. Meydánikos now sends urgent requests whenever predators menace his herds.
 
-Master Leatherworker Sipehríkos Vanazûr
-: Uses only the finest hides, prepared by Vusukês himself. He values the trapper's expertise and treats him as a partner rather than a supplier.
+Master Leatherworker Sipehrikos Vanazur
+: Uses only the finest hides, prepared by Vusukes himself. He values the trapper's expertise and treats him as a partner rather than a supplier.
 
 ### Enemies
 
-The Poacher Cartel led by Shabríkos the Scarred
-: A network of commercial hunters who strip forests bare and sell inferior pelts under false names. Vusukês has actively worked against them, sometimes preventing their hunts and always warning villages of their approach.
+The Poacher Cartel led by Shabrikos the Scarred
+: A network of commercial hunters who strip forests bare and sell inferior pelts under false names. Vusukes has actively worked against them, sometimes preventing their hunts and always warning villages of their approach.
 
-The Logging Consortium of the Byzarian League
-: Merchants who push for ever-deeper cutting into forests Vusukês considers sacred. He has not acted against them openly but harbors deep resentment.
+The Logging Consortium of the Bizarian League
+: Merchants who push for ever-deeper cutting into forests Vusukes considers sacred. He has not acted against them openly but harbors deep resentment.
 
 ### Affiliations
 
-Vusukês operates entirely independently and mistrusts formal organizations, but he is loosely connected to:
+Vusukes operates entirely independently and mistrusts formal organizations, but he is loosely connected to:
 
 The Hunters' Fraternity
 : An informal network of skilled hunters and trappers who share information and occasionally band together against threats to game populations.
 
 ## Plot Hooks
 
-1. **The Disappearing Animals**: Over the past season, the normal migrations have ceased entirely. Herds that should pass through the foothills never arrive. Vusukês begins to suspect something far larger than poaching—perhaps a territorial shift among apex predators, or the influence of something unnatural. **Master Iskandor's** old journals contain fragmented references to a previous occurrence three centuries past, hinting at catastrophe. Investigating the cause would require venturing into territories Vusukês has never explored, following signs only he can read.
+1. **The Disappearing Animals**: Over the past season, the normal migrations have ceased entirely. Herds that should pass through the foothills never arrive. Vusukes begins to suspect something far larger than poaching—perhaps a territorial shift among apex predators, or the influence of something unnatural. **Master Iskandor's** old journals contain fragmented references to a previous occurrence three centuries past, hinting at catastrophe. Investigating the cause would require venturing into territories Vusukes has never explored, following signs only he can read.
 
-2. **The Mysterious Commission**: A well-dressed stranger arrives at Vusukês' lodge with an extraordinary offer: track a specific person moving through the wild lands, report their location, and receive a sum of gold that would secure his retirement. The description is vague—a young scholar in dark robes, possibly injured. Vusukês' pursuit leads him to discover the target is fleeing the **Byzarian Inquisition**, forcing him to decide whether to collect a fortune or protect an innocent from persecution.
+2. **The Mysterious Commission**: A well-dressed stranger arrives at Vusukes' lodge with an extraordinary offer: track a specific person moving through the wild lands, report their location, and receive a sum of gold that would secure his retirement. The description is vague—a young scholar in dark robes, possibly injured. Vusukes' pursuit leads him to discover the target is fleeing the **Bizarian Inquisition**, forcing him to decide whether to collect a fortune or protect an innocent from persecution.
 
-3. **The Beast in the Deep Forest**: A farmer's entire flock vanishes without blood or struggle. Vusukês' investigation reveals traces of something that should not exist—a predator unlike any in the natural order, leaving spoor that confounds his understanding. Tracking it leads into the deepest, most ancient parts of the forest, where **old magic** may still linger and forgotten dangers lurk.
+3. **The Beast in the Deep Forest**: A farmer's entire flock vanishes without blood or struggle. Vusukes' investigation reveals traces of something that should not exist—a predator unlike any in the natural order, leaving spoor that confounds his understanding. Tracking it leads into the deepest, most ancient parts of the forest, where **old magic** may still linger and forgotten dangers lurk.
 
-4. **The Apprentice**: A young, idealistic ranger named **Faridéna Kassandazûr** seeks Vusukês out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is real mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Vusukês' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
+4. **The Apprentice**: A young, idealistic ranger named **Faridena Kassandazur** seeks Vusukes out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is real mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Vusukes' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
 
-5. **The Poacher's Betrayal**: **Shabríkos the Scarred** approaches with an unlikely proposition: join forces against a mutual enemy—a mysterious lord buying up forests to convert them to farmland. Vusukês must decide whether a temporary alliance is possible, and whether his methods can work alongside such morally questionable partners. The conspiracy runs deeper than mere logging, reaching into the highest levels of **Byzarian League** politics.
+5. **The Poacher's Betrayal**: **Shabrikos the Scarred** approaches with an unlikely proposition: join forces against a mutual enemy—a mysterious lord buying up forests to convert them to farmland. Vusukes must decide whether a temporary alliance is possible, and whether his methods can work alongside such morally questionable partners. The conspiracy runs deeper than mere logging, reaching into the highest levels of **Bizarian League** politics.

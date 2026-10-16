@@ -1,6 +1,6 @@
 ---
 shortcode: raiyaqugstzb
-name: {full: Raiyaqu Gaset'Zabu, given: Raiyaqu, clan: Gaset'Zabu, aliases: []}
+name: {full: Raiyaku Gaset'Zabu, given: Raiyaku, clan: Gaset'Zabu, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {rank: 7}, uznera: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 4}, uznera: {rank: 1}}
   socialTies:
     affiliation-genzetuznera: patron
     affiliation-linzuwaretgl: rival
@@ -93,7 +93,7 @@ sohl:
     - name: Silk cosmetics pouch
       type: miscgear
       system: {shortcode: silkcosmeticspouch, weight: 1, value: 100, durability: 3}
-    - name: Golden hand mirror (Uzn'êra cult devotional)
+    - name: Golden hand mirror (Uzn'era cult devotional)
       type: miscgear
       system: {shortcode: goldenhandmirr, weight: 0.3, value: 100, durability: 3}
     - name: Ink and quills
@@ -423,51 +423,51 @@ sohl:
 
 # Appearance {#appearance}
 
-![[raiyaqugstzb|Raiyaqu Gaset'Zabu]]{float=top-left}
+![[raiyaqugstzb|Raiyaku Gaset'Zabu]]{float=top-left}
 
-Raiyaqu stands 5'8" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a noble nose, a smooth jawline, dark brows, and prominent cheeks.
+Raiyaku stands 5'8" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a noble nose, a smooth jawline, dark brows, and prominent cheeks.
 
 # Dossier {#dossier}
 
 **A Daughter of Privilege**
 
-Raiyaqu was born into the House of Gasezabu, one of the oldest and most respected noble families in the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], with ancestry tracing back through two centuries of administrators, generals, and patrons of the arts. Her father, the deceased Lord Alûnet Gasezabu, was a celebrated diplomat and scholar who served the Empire in diplomatic missions to neighboring realms. Her mother, Lady Zezabu Gasezabu (née Qelti), brought connections to the military elite through her own lineage. From childhood, Raiyaqu was groomed for the courtier's life: trained in languages, the arts, diplomatic forms, and the arithmetic of noble alliance-building.
+Raiyaku was born into the House of Gasezabu, one of the oldest and most respected noble families in the Empire of [[affiliation-empireakhlth|Au'Khelathu]], with ancestry tracing back through two centuries of administrators, generals, and patrons of the arts. Her father, the deceased Lord Alunet Gasezabu, was a celebrated diplomat and scholar who served the Empire in diplomatic missions to neighboring realms. Her mother, Lady Zezabu Gasezabu (née Qelti), brought connections to the military elite through her own lineage. From childhood, Raiyaku was groomed for the courtier's life: trained in languages, the arts, diplomatic forms, and the arithmetic of noble alliance-building.
 
 **Cultivation of Influence Through Compassion**
 
-Where many young nobles of her station view their position primarily as privilege to be enjoyed, Raiyaqu early developed a real concern for the artisans, merchants, and common people whose talents and labor sustain the empire's cultural and economic life. By her early twenties, she had begun hosting salons where talented artists, musicians, and craftspeople could exhibit their work to influential nobles, often using her personal fortune to commission new works or subsidize promising talents. Unlike patronage given only for return, Raiyaqu's support comes with authentic interest in the creators' vision and well-being. This unusual combination of compassion with aristocratic influence has made her beloved among the creative classes and respected (if sometimes with envy) among her noble peers.
+Where many young nobles of her station view their position primarily as privilege to be enjoyed, Raiyaku early developed a real concern for the artisans, merchants, and common people whose talents and labor sustain the empire's cultural and economic life. By her early twenties, she had begun hosting salons where talented artists, musicians, and craftspeople could exhibit their work to influential nobles, often using her personal fortune to commission new works or subsidize promising talents. Unlike patronage given only for return, Raiyaku's support comes with authentic interest in the creators' vision and well-being. This unusual combination of compassion with aristocratic influence has made her beloved among the creative classes and respected (if sometimes with envy) among her noble peers.
 
 **Current Position**
 
-Now at twenty-seven, Raiyaqu serves on the Local Nobility Council, where she speaks for the support of the arts and the protection of artisan guilds. She maintains a palatial residence that doubles as a venue for cultural events, and her guest lists are among the most coveted in the empire. She has thus far resisted pressure to marry, preferring to remain independent and focused on her works of cultural patronage. Her reputation for integrity is such that even those who might not appreciate her reforming values understand that her word is absolute and her loyalty steadfast.
+Now at twenty-seven, Raiyaku serves on the Local Nobility Council, where she speaks for the support of the arts and the protection of artisan guilds. She maintains a palatial residence that doubles as a venue for cultural events, and her guest lists are among the most coveted in the empire. She has thus far resisted pressure to marry, preferring to remain independent and focused on her works of cultural patronage. Her reputation for integrity is such that even those who might not appreciate her reforming values understand that her word is absolute and her loyalty steadfast.
 
 ## Psyche
 
 ### Personality
 
-Raiyaqu is defined by an almost radical authenticity unusual in courtly circles—she does care about the people she meets, remembers their names and concerns, and follows up with meaningful support. It is a mature choice, not naïveté, to live according to her values despite considerable pressure to view others as tools for advancement. She possesses a natural charisma that draws people into her orbit, yet she uses this magnetism not for personal aggrandizement but to elevate those around her.
+Raiyaku is defined by an almost radical authenticity unusual in courtly circles—she does care about the people she meets, remembers their names and concerns, and follows up with meaningful support. It is a mature choice, not naïveté, to live according to her values despite considerable pressure to view others as tools for advancement. She possesses a natural charisma that draws people into her orbit, yet she uses this magnetism not for personal aggrandizement but to elevate those around her.
 
-Yet for all her grace and warmth, Raiyaqu is no mere pleasant decoration. Her mind is sharp, her perception keen, and her understanding of political currents is deep. She simply chooses to deploy these talents in service of her idealistic vision rather than petty personal advancement. She has a gift for finding common ground between opposing factions and convincing people of the value of compromise—not through manipulation, but through helping each side see the humanity in their opponents. She is given to moments of enthusiasm about ideas, art, and human potential that can seem almost naive to the more cynical, but which speak to a kind of wisdom that surpasses cynicism.
+Yet for all her grace and warmth, Raiyaku is no mere pleasant decoration. Her mind is sharp, her perception keen, and her understanding of political currents is deep. She simply chooses to deploy these talents in service of her idealistic vision rather than petty personal advancement. She has a gift for finding common ground between opposing factions and convincing people of the value of compromise—not through manipulation, but through helping each side see the humanity in their opponents. She is given to moments of enthusiasm about ideas, art, and human potential that can seem almost naive to the more cynical, but which speak to a kind of wisdom that surpasses cynicism.
 
 ### Motivation
 
-Raiyaqu Gasezabu is driven by a vision of the Empire of Aû'Khelâthu as a place where talent, merit, and creativity are recognized and nurtured regardless of birth. She believes that the greatest cultural achievements of her society have emerged from the contributions of humble artisans, and she sees her patronage and advocacy as both a moral obligation and an investment in the empire's future. She is motivated equally by a personal hunger for beauty, learning, and authentic connection—she surrounds herself with talented and interesting people because she enjoys their company and conversation. Beyond personal satisfaction, Raiyaqu seeks to prove that privilege, when wielded with conscience, becomes a means for others to flourish rather than for her own gain.
+Raiyaku Gasezabu is driven by a vision of the Empire of Au'Khelathu as a place where talent, merit, and creativity are recognized and nurtured regardless of birth. She believes that the greatest cultural achievements of her society have emerged from the contributions of humble artisans, and she sees her patronage and advocacy as both a moral obligation and an investment in the empire's future. She is motivated equally by a personal hunger for beauty, learning, and authentic connection—she surrounds herself with talented and interesting people because she enjoys their company and conversation. Beyond personal satisfaction, Raiyaku seeks to prove that privilege, when wielded with conscience, becomes a means for others to flourish rather than for her own gain.
 
 ### Strengths
 
-- **Charisma and Social Grace:** Raiyaqu's presence immediately puts people at ease; her interest in others makes even minor encounters feel meaningful. This translates to extraordinary influence in courtly and social contexts.
+- **Charisma and Social Grace:** Raiyaku's presence immediately puts people at ease; her interest in others makes even minor encounters feel meaningful. This translates to extraordinary influence in courtly and social contexts.
 - **Keen Perception and Political Acumen:** She has a sharp and analytical mind; she reads social situations with precision and understands the currents of power and loyalty that move through noble society.
 - **Eloquent and Persuasive Speech:** When she chooses to advocate for a position, her combination of rhetorical skill and authentic conviction proves nearly irresistible; even opponents find themselves moved by her arguments.
 - **Vast Network of Talented Allies:** Her years of patronage have created a web of artisans, musicians, scholars, and craftspeople across multiple cities who owe her their success and maintain deep loyalty to her.
-- **Financial Resources and Access:** As a noble of significant independent wealth, Raiyaqu can fund ventures, commission services, and open doors that would be closed to others of lesser station.
+- **Financial Resources and Access:** As a noble of significant independent wealth, Raiyaku can fund ventures, commission services, and open doors that would be closed to others of lesser station.
 - **Creative Problem-Solving:** Her exposure to artists' and creators' perspectives has given her unconventional ways of approaching difficult problems; she often sees solutions others overlook.
 
 ### Weaknesses
 
-- **Idealism Outpacing Reality:** Raiyaqu's fundamental belief in people's essential goodness and capacity for growth sometimes blinds her to malice or deep-rooted corruption; she can be taken advantage of by those who exploit her trust.
+- **Idealism Outpacing Reality:** Raiyaku's fundamental belief in people's essential goodness and capacity for growth sometimes blinds her to malice or deep-rooted corruption; she can be taken advantage of by those who exploit her trust.
 - **Privileged Blind Spots:** For all her compassion, there are realities of struggle and desperation that her comfortable life has not made viscerally real to her; her proposed solutions sometimes lack the practical grounding that hardship provides.
 - **Vulnerability to Emotional Manipulation:** Because she cares about people's well-being, those skilled in exploiting her sympathy can sway her judgment, particularly if they present themselves as artists or creative talents in need.
-- **Insufficient Political Ruthlessness:** In a nobility where alliances shift on advantage, Raiyaqu's reluctance to play cutthroat politics puts her at disadvantage against more pragmatic rivals who take it as natural that one house's gain is another's loss.
+- **Insufficient Political Ruthlessness:** In a nobility where alliances shift on advantage, Raiyaku's reluctance to play cutthroat politics puts her at disadvantage against more pragmatic rivals who take it as natural that one house's gain is another's loss.
 - **Overextension Through Generosity:** Her tendency to commit resources to worthy causes without fully reckoning the sum can leave her financially strained or unable to deliver promised support.
 - **Inexperience with Hardship:** She has never truly suffered loss, failure, or deprivation, leaving her emotionally unprepared for the kinds of betrayals and cruelties that may come if her idealism is tested severely.
 
@@ -476,44 +476,44 @@ Raiyaqu Gasezabu is driven by a vision of the Empire of Aû'Khelâthu as a place
 ### Patrons
 
 Lady [[being-qeketqeltag2|Qeket Qelt'Agetu]]
-: An elder noblewoman of celebrated taste who has been Raiyaqu's mentor in artistic patronage and cultural politics. She provides counsel on the shifting alliances of the factions.
+: An elder noblewoman of celebrated taste who has been Raiyaku's mentor in artistic patronage and cultural politics. She provides counsel on the shifting alliances of the factions.
 
-Master Architect Lâraket
-: A celebrated designer and builder who has benefited tremendously from Raiyaqu's commissions and patronage; he is devoted to her vision of elevating artisan crafts and advises her on building and public works.
+Master Architect Laraket
+: A celebrated designer and builder who has benefited tremendously from Raiyaku's commissions and patronage; he is devoted to her vision of elevating artisan crafts and advises her on building and public works.
 
-[[affiliation-genzetuznera|Genzet'Uzn'êra]]
-: The priesthood of the fertility goddess that shares Raiyaqu's values concerning growth and renewal. They provide her with spiritual counsel and, occasionally, practical support for her endeavors.
+[[affiliation-genzetuznera|Genzet'Uzn'era]]
+: The priesthood of the fertility goddess that shares Raiyaku's values concerning growth and renewal. They provide her with spiritual counsel and, occasionally, practical support for her endeavors.
 
 ### Enemies
 
 Lord [[being-zelegezu2|Zelegezu]]
-: A calculating noble of middling talent and significant wealth who views Raiyaqu's influence over the artistic community as a threat to his own status. He has spread insinuations that her patronage of common-born artisans is unseemly, and he quietly funds rival patrons to dilute her influence.
+: A calculating noble of middling talent and significant wealth who views Raiyaku's influence over the artistic community as a threat to his own status. He has spread insinuations that her patronage of common-born artisans is unseemly, and he quietly funds rival patrons to dilute her influence.
 
 [[affiliation-linzuwaretgl|Lin'Zuwaret elu Igelu]]
-: An organization of wealthy traders who view Raiyaqu's advocacy for artisan rights and protections as interference in free trade; they resent her efforts on the council to fix minimum prices and conditions of work.
+: An organization of wealthy traders who view Raiyaku's advocacy for artisan rights and protections as interference in free trade; they resent her efforts on the council to fix minimum prices and conditions of work.
 
 Faction of Conservative Traditionalists
-: A loose coalition of older nobles who view Raiyaqu's reforming ideas about advancement by merit and the arts for all as threats to the proper order of society; they mock her behind her back as naïve and dangerous.
+: A loose coalition of older nobles who view Raiyaku's reforming ideas about advancement by merit and the arts for all as threats to the proper order of society; they mock her behind her back as naïve and dangerous.
 
 ### Affiliations
 
 Local Nobility Council
-: Raiyaqu is an active member, though her reform-minded positions often put her at odds with the council's traditional conservative faction.
+: Raiyaku is an active member, though her reform-minded positions often put her at odds with the council's traditional conservative faction.
 
 Artisans' and Craftspeople's Alliance
-: While not formally a member, Raiyaqu works closely with this organization, speaking within noble circles for the alliance's interests.
+: While not formally a member, Raiyaku works closely with this organization, speaking within noble circles for the alliance's interests.
 
 [[affiliation-genzetzabqar|Genzet'Zabqar]]
-: An informal network of noble families and wealthy individuals committed to cultural patronage; Raiyaqu is among the most active and influential members.
+: An informal network of noble families and wealthy individuals committed to cultural patronage; Raiyaku is among the most active and influential members.
 
 ## Plot Hooks
 
-1. **The Forged Masterpiece:**: A young artist whom Raiyaqu has championed and funded produces a work of such staggering beauty that it causes a sensation throughout the city and attracts the attention of the empire's highest patrons. Yet an envious rival claims to have evidence that the work is not the artist's own—that it was actually created by a mysterious master who allowed the young protégé to take credit. Raiyaqu must investigate the truth while protecting her protégé's reputation and determining whether her judgment in recognizing talent has been compromised by her desire to believe in people.
+1. **The Forged Masterpiece:**: A young artist whom Raiyaku has championed and funded produces a work of such staggering beauty that it causes a sensation throughout the city and attracts the attention of the empire's highest patrons. Yet an envious rival claims to have evidence that the work is not the artist's own—that it was actually created by a mysterious master who allowed the young protégé to take credit. Raiyaku must investigate the truth while protecting her protégé's reputation and determining whether her judgment in recognizing talent has been compromised by her desire to believe in people.
 
-2. **The Hidden Library:**: Raiyaqu discovers that one of her fellow patrons has been secretly commissioning the theft and preservation of banned texts—works of philosophy, art, and history that the temple authorities and conservative nobility have deemed dangerous. She is confronted with a choice: expose her colleague and potentially face backlash from the conservative faction, or become complicit in an underground resistance to censorship. The party is drawn in, uncovering what these texts actually contain and why they threaten the established order.
+2. **The Hidden Library:**: Raiyaku discovers that one of her fellow patrons has been secretly commissioning the theft and preservation of banned texts—works of philosophy, art, and history that the temple authorities and conservative nobility have deemed dangerous. She is confronted with a choice: expose her colleague and potentially face backlash from the conservative faction, or become complicit in an underground resistance to censorship. The party is drawn in, uncovering what these texts actually contain and why they threaten the established order.
 
-3. **The Artisan's Curse:**: Several of the talented creators whom Raiyaqu has patronized fall mysteriously ill with a strange affliction that attacks their ability to create—musicians lose their hearing, painters develop shaking hands, sculptors become paralyzed. Raiyaqu suspects dark magic or deliberate poisoning and hires the party to investigate. The investigation reveals connections to a jealous rival patron or a mystical curse placed by a scorned artist, forcing Raiyaqu to reckon with darker aspects of the competitive artistic world she has insulated herself from.
+3. **The Artisan's Curse:**: Several of the talented creators whom Raiyaku has patronized fall mysteriously ill with a strange affliction that attacks their ability to create—musicians lose their hearing, painters develop shaking hands, sculptors become paralyzed. Raiyaku suspects dark magic or deliberate poisoning and hires the party to investigate. The investigation reveals connections to a jealous rival patron or a mystical curse placed by a scorned artist, forcing Raiyaku to reckon with darker aspects of the competitive artistic world she has insulated herself from.
 
-4. **The Diplomat's Daughter Takes Action:**: When political tensions between factions within Aû'Khelâthu threaten to erupt into violence, Raiyaqu (drawing on her father's diplomatic legacy) attempts to broker a peace between the warring sides by commissioning a great collaborative artwork that requires both factions' cooperation. The party is tasked with convincing hostile faction leaders to participate in the project, discovering that Raiyaqu's naive optimism about art's power to unite may have dangerously underestimated the depth of the conflict. As tensions mount, the party can support Raiyaqu's idealistic vision or push for more pragmatic solutions.
+4. **The Diplomat's Daughter Takes Action:**: When political tensions between factions within Au'Khelathu threaten to erupt into violence, Raiyaku (drawing on her father's diplomatic legacy) attempts to broker a peace between the warring sides by commissioning a great collaborative artwork that requires both factions' cooperation. The party is tasked with convincing hostile faction leaders to participate in the project, discovering that Raiyaku's naive optimism about art's power to unite may have dangerously underestimated the depth of the conflict. As tensions mount, the party can support Raiyaku's idealistic vision or push for more pragmatic solutions.
 
-5. **The Rebellion of Created Things:**: After years of commissioning art, Raiyaqu begins to notice patterns suggesting that many of the works she has funded share subtle recurring motifs and hidden messages—messages that, when decoded, speak of revolution and resistance against the existing order. Either Raiyaqu has unwittingly funded a revolutionary movement, or someone has been secretly manipulating her patronage as a cover for sedition. The party must help her determine which is true and what her responsibility is in either case. She can protect the artists she loves, expose the conspiracy to the authorities, or quietly support a cause she secretly believes in.
+5. **The Rebellion of Created Things:**: After years of commissioning art, Raiyaku begins to notice patterns suggesting that many of the works she has funded share subtle recurring motifs and hidden messages—messages that, when decoded, speak of revolution and resistance against the existing order. Either Raiyaku has unwittingly funded a revolutionary movement, or someone has been secretly manipulating her patronage as a cover for sedition. The party must help her determine which is true and what her responsibility is in either case. She can protect the artists she loves, expose the conspiracy to the authorities, or quietly support a cause she secretly believes in.

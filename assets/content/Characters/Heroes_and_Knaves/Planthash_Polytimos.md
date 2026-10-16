@@ -1,6 +1,6 @@
 ---
 shortcode: plnthshplytms
-name: {full: Plánthash Tredis, given: Plánthash, clan: Tredis, aliases: []}
+name: {full: Planthash Tredis, given: Planthash, clan: Tredis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -413,15 +413,15 @@ sohl:
 
 # Appearance {#appearance}
 
-![[plnthshplytms|Plánthash Tredis]]{float=top-left}
+![[plnthshplytms|Planthash Tredis]]{float=top-left}
 
-Plánthash stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, a wide mouth, dark brows, sculpted cheeks.
+Planthash stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, a wide mouth, dark brows, sculpted cheeks.
 
 # Dossier {#dossier}
 
-Plánthash was born a tradesman's son in the port districts of the [[affiliation-byzarianlg|Byzarian League]], where the smell of tar and hemp was his first scent. At twelve, his father apprenticed him to **Captain Krozerazûr Pazhûrzát**, a gruff merchant vessel commander who saw potential in the lean boy's willingness to work beyond his strength. For fourteen years, Plánthash learned every aspect of seamanship—rigging sails in shrieking gales, navigating by stars when compasses failed, coaxing damaged hulls to stay afloat through sheer determination.
+Planthash was born a tradesman's son in the port districts of the [[affiliation-byzarianlg|Bizarian League]], where the smell of tar and hemp was his first scent. At twelve, his father apprenticed him to **Captain Krozerazur Pazhurzát**, a gruff merchant vessel commander who saw potential in the lean boy's willingness to work beyond his strength. For fourteen years, Planthash learned every aspect of seamanship—rigging sails in shrieking gales, navigating by stars when compasses failed, coaxing damaged hulls to stay afloat through sheer determination.
 
-By his twenty-fourth year, Plánthash had become a specialist in ship repair and fishing harvest management, taking charge of preservation techniques and crew victuals. His reputation for tireless work and honest dealing spread through the port, making captains and merchants want him; his name was known to captains and merchants alike. He has never taken command of his own vessel, content instead to remain the reliable hand upon whom others depend, though whispers suggest he possesses the capability for greater things.
+By his twenty-fourth year, Planthash had become a specialist in ship repair and fishing harvest management, taking charge of preservation techniques and crew victuals. His reputation for tireless work and honest dealing spread through the port, making captains and merchants want him; his name was known to captains and merchants alike. He has never taken command of his own vessel, content instead to remain the reliable hand upon whom others depend, though whispers suggest he possesses the capability for greater things.
 
 Currently, he moves between commissions along the League's coastal routes, taking seasonal work with various crews while maintaining a small savings toward an ambiguous future. Those who know him speak of an inner restlessness beneath his dependable exterior, as though something calls to him from beyond the familiar waters of home.
 
@@ -429,13 +429,13 @@ Currently, he moves between commissions along the League's coastal routes, takin
 
 ### Personality
 
-Plánthash carries the straightforward temperament of a man whose livelihood depends upon clear communication and honest effort. He speaks plainly, sometimes to the point of bluntness, and has little patience for deception or performative speech. Yet this directness is paired with respect for competence and loyalty—he judges others by their work, not their station or eloquence. Among crew mates, he is known as steady and reliable, the man who will stay awake during the night watch, teach younger sailors their knots with infinite patience, and share his rations without complaint.
+Planthash carries the straightforward temperament of a man whose livelihood depends upon clear communication and honest effort. He speaks plainly, sometimes to the point of bluntness, and has little patience for deception or performative speech. Yet this directness is paired with respect for competence and loyalty—he judges others by their work, not their station or eloquence. Among crew mates, he is known as steady and reliable, the man who will stay awake during the night watch, teach younger sailors their knots with infinite patience, and share his rations without complaint.
 
-This dependability masks a subtle dissatisfaction. Plánthash enjoys the rhythm of labor but struggles with its limitations. He enjoys the camaraderie of crews but remains solitary by nature, keeping his inner thoughts guarded. Those close enough to observe note that he keeps a leather journal where he sketches ship designs—variations on existing vessels, modifications for greater speed or stability. He has never shared these designs with anyone.
+This dependability masks a subtle dissatisfaction. Planthash enjoys the rhythm of labor but struggles with its limitations. He enjoys the camaraderie of crews but remains solitary by nature, keeping his inner thoughts guarded. Those close enough to observe note that he keeps a leather journal where he sketches ship designs—variations on existing vessels, modifications for greater speed or stability. He has never shared these designs with anyone.
 
 ### Motivation
 
-Plánthash is driven by a desire to leave a mark upon his craft that goes beyond a single voyage or season. He has grown skilled enough to know that mastery of existing techniques represents merely the foundation of greater accomplishment. Deep within, he harbors an ambition to create something new—a ship design that combines the stability of merchant vessels with the speed of warships, or perhaps a novel approach to oceanic navigation. He takes work readily because each commission teaches him something, expands his understanding, and brings him closer to the knowledge he would need to realize his private vision. Whether that vision will ever manifest remains uncertain, even to him.
+Planthash is driven by a desire to leave a mark upon his craft that goes beyond a single voyage or season. He has grown skilled enough to know that mastery of existing techniques represents merely the foundation of greater accomplishment. Deep within, he harbors an ambition to create something new—a ship design that combines the stability of merchant vessels with the speed of warships, or perhaps a novel approach to oceanic navigation. He takes work readily because each commission teaches him something, expands his understanding, and brings him closer to the knowledge he would need to realize his private vision. Whether that vision will ever manifest remains uncertain, even to him.
 
 ### Strengths
 
@@ -450,7 +450,7 @@ Plánthash is driven by a desire to leave a mark upon his craft that goes beyond
 
 - **Limited Dexterity**: His large frame was not built for delicate work; fine manipulation of small objects or craftwork frustrates him, and he is prone to accidents in such tasks.
 - **Blunt Communication**: While his straightforward manner builds trust with those who appreciate honesty, it alienates those accustomed to social subtlety or diplomacy. He sometimes offends without realizing it.
-- **Resistance to Authority**: Plánthash respects competence and follows those who prove themselves through demonstrated skill, but he chafes under arbitrary orders or leadership he considers undeserved.
+- **Resistance to Authority**: Planthash respects competence and follows those who prove themselves through demonstrated skill, but he chafes under arbitrary orders or leadership he considers undeserved.
 - **Limited Book Learning**: His education centered on practical knowledge; he reads and writes adequately but possesses minimal formal knowledge of history, mathematics, or philosophy.
 - **Emotional Reticence**: His tendency to keep feelings private means he rarely seeks help, confides in others, or expresses vulnerability, which can isolate him even among friends.
 
@@ -458,36 +458,36 @@ Plánthash is driven by a desire to leave a mark upon his craft that goes beyond
 
 ### Patrons
 
-Captain Krozerazûr
-: The merchant captain who trained him in youth and remains his closest contact in the trade, regularly requesting Plánthash for important commissions and vouching for his reliability to other vessel owners.
+Captain Krozerazur
+: The merchant captain who trained him in youth and remains his closest contact in the trade, regularly requesting Planthash for important commissions and vouching for his reliability to other vessel owners.
 
 Merchant House Tredis
 : A trading concern that occasionally employs him for high-value cargo transport, respecting the family name connection and the competence he represents.
 
-The Harbor Master of [[place-thessalon|Thessálon]]
-: A bureaucrat who values Plánthash's honest assessments of vessel condition and occasionally redirects ship repair contracts his way.
+The Harbor Master of [[place-thessalon|Thessalon]]
+: A bureaucrat who values Planthash's honest assessments of vessel condition and occasionally redirects ship repair contracts his way.
 
 ### Enemies
 
 Pirate Captain Vorios
-: A former rival from years past who commands a small corsair band preying on League merchant vessels. Vorios views Plánthash as the one who got away from his crew, and harbors resentment over a failed recruitment attempt.
+: A former rival from years past who commands a small corsair band preying on League merchant vessels. Vorios views Planthash as the one who got away from his crew, and harbors resentment over a failed recruitment attempt.
 
 The Shipwright's Consortium
-: A loosely organized group of established timber workers and shipwrights who view independent specialists like Plánthash as undercutting their guild-negotiated wages.
+: A loosely organized group of established timber workers and shipwrights who view independent specialists like Planthash as undercutting their guild-negotiated wages.
 
 ### Affiliations
 
-Byzarian Seafarers' Loose Network
+Bizarian Seafarers' Loose Network
 : Not a formal guild, but an informal association of merchant sailors and shipworkers who share information about reliable captains, dangerous routes, and available work.
 
 ## Plot Hooks
 
-1. **The Lost Design**: A mysterious stranger seeks out Plánthash in a harborside tavern, claiming to represent a wealthy merchant prince interested in commissioning an experimental vessel design. The stranger reveals knowledge of Plánthash's journal sketches, though he has never shown them to anyone. This unexpected attention forces Plánthash to consider whether his private ambitions might finally become reality—or whether something darker lies beneath the offer.
+1. **The Lost Design**: A mysterious stranger seeks out Planthash in a harborside tavern, claiming to represent a wealthy merchant prince interested in commissioning an experimental vessel design. The stranger reveals knowledge of Planthash's journal sketches, though he has never shown them to anyone. This unexpected attention forces Planthash to consider whether his private ambitions might finally become reality—or whether something darker lies beneath the offer.
 
-2. **Wrecked Legacy**: Plánthash encounters **Captain Krozerazûr** in desperate circumstances—his vessel has been sabotaged, his crew scattered, and mysterious enemies pursue him. Krozerazûr refuses to explain the circumstances but implores Plánthash to help him hide a sealed cargo and disappear into anonymity. Plánthash must choose between loyalty to his mentor and his own safety, all while discovering that Krozerazûr may not be the man he always believed him to be.
+2. **Wrecked Legacy**: Planthash encounters **Captain Krozerazur** in desperate circumstances—his vessel has been sabotaged, his crew scattered, and mysterious enemies pursue him. Krozerazur refuses to explain the circumstances but implores Planthash to help him hide a sealed cargo and disappear into anonymity. Planthash must choose between loyalty to his mentor and his own safety, all while discovering that Krozerazur may not be the man he always believed him to be.
 
-3. **The Philosopher's Question**: A learned scholar from the interior cities hires passage aboard a League vessel to gain access to maritime archives Plánthash uses for his research. The scholar becomes fascinated by Plánthash's journals, recognizing in the ship designs the mathematical principles underlying an ancient text the scholar is attempting to decode. Together, they begin to realize that Plánthash's intuitive designs may hold the key to understanding a lost civilization's navigational secrets—attracting interest from parties both academic and dangerous.
+3. **The Philosopher's Question**: A learned scholar from the interior cities hires passage aboard a League vessel to gain access to maritime archives Planthash uses for his research. The scholar becomes fascinated by Planthash's journals, recognizing in the ship designs the mathematical principles underlying an ancient text the scholar is attempting to decode. Together, they begin to realize that Planthash's intuitive designs may hold the key to understanding a lost civilization's navigational secrets—attracting interest from parties both academic and dangerous.
 
-4. **Crew Rebellion**: Plánthash assumes temporary command of a merchant vessel when the captain falls gravely ill. A portion of the crew, led by a charismatic mutineer, questions his authority and attempts to redirect the ship toward piracy. Plánthash must balance maintaining order without unnecessary bloodshed, protecting the vulnerable crew members who remain loyal, and reaching port where legitimate authority can address the situation.
+4. **Crew Rebellion**: Planthash assumes temporary command of a merchant vessel when the captain falls gravely ill. A portion of the crew, led by a charismatic mutineer, questions his authority and attempts to redirect the ship toward piracy. Planthash must balance maintaining order without unnecessary bloodshed, protecting the vulnerable crew members who remain loyal, and reaching port where legitimate authority can address the situation.
 
-5. **The Cursed Trade**: A wealthy merchant hires Plánthash for what should be a routine transport mission, but the voyage becomes increasingly strange—supplies spoil despite proper storage, sailors report uncanny sounds in the hold, and navigational instruments malfunction repeatedly. Plánthash's practical mind struggles to find rational explanations, yet the evidence suggests something unnatural may be aboard. He must investigate whether the cargo itself carries a curse, whether a passenger harbors dark intentions, or whether forces beyond understanding have targeted the vessel.
+5. **The Cursed Trade**: A wealthy merchant hires Planthash for what should be a routine transport mission, but the voyage becomes increasingly strange—supplies spoil despite proper storage, sailors report uncanny sounds in the hold, and navigational instruments malfunction repeatedly. Planthash's practical mind struggles to find rational explanations, yet the evidence suggests something unnatural may be aboard. He must investigate whether the cargo itself carries a curse, whether a passenger harbors dark intentions, or whether forces beyond understanding have targeted the vessel.

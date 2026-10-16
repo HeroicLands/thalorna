@@ -25,5 +25,5 @@ The town is the capital of the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]
 
 - [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]—Parent selat
 - [[affiliation-deltaselatu|The Delta Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
 - [[affiliation-shebazet|Faith of Shebazet]]—Patron cult

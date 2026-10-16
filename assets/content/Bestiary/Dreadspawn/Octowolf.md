@@ -256,7 +256,7 @@ The wreck lies on its side on the sandbar, its ribs out of the water at low tide
 
 # Dossier {#dossier}
 
-The Octowolf is a dreadspawn that joins the fore-parts of a great wolf to the hind-parts of an octopus: twelve to sixteen feet long and three hundred pounds, with a wolf's head, jaws and forelegs and eight long, sucker-lined arms behind, which carry it on land and drive it through water. It hunts where land and water meet, and it is clever, patient and cruel. One holds the [[place-tamzirshoals|Tamzîr Shoals]] in the Tarûzelian archipelago, the maze of sandbars, rocks and hard currents where a makeshift Tarûzelian fleet destroyed a Vylarian squadron and won Tarûzel its independence, and it lairs in the wrecks of that squadron. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Octowolf is a dreadspawn that joins the fore-parts of a great wolf to the hind-parts of an octopus: twelve to sixteen feet long and three hundred pounds, with a wolf's head, jaws and forelegs and eight long, sucker-lined arms behind, which carry it on land and drive it through water. It hunts where land and water meet, and it is clever, patient and cruel. One holds the [[place-tamzirshoals|Tamzir Shoals]] in the Taruzelian archipelago, the maze of sandbars, rocks and hard currents where a makeshift Taruzelian fleet destroyed a Vylarian squadron and won Taruzel its independence, and it lairs in the wrecks of that squadron. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -264,7 +264,7 @@ The octowolf's front half is a wolf on a monstrous scale: heavy shoulders, two p
 
 ## In the Land
 
-The Tamzîr Shoals are full of wrecks: the imperial warships driven onto the sand in the battle still lie there, and the channels have taken many ships since. The octowolf lairs in the hulks, using them as dens and as blinds, and it hunts the shoals and their channels for miles: seals, turtles, sharks, fish, seabirds on the sandbars, and the crews of small boats. It moves from wreck to wreck with the tides and comes ashore on the sandbars and the low islands at night. It wants warm, shallow water near deep channels. It does not go out into the open sea.
+The Tamzir Shoals are full of wrecks: the imperial warships driven onto the sand in the battle still lie there, and the channels have taken many ships since. The octowolf lairs in the hulks, using them as dens and as blinds, and it hunts the shoals and their channels for miles: seals, turtles, sharks, fish, seabirds on the sandbars, and the crews of small boats. It moves from wreck to wreck with the tides and comes ashore on the sandbars and the low islands at night. It wants warm, shallow water near deep channels. It does not go out into the open sea.
 
 ## Key Behaviors
 
@@ -272,7 +272,7 @@ An octowolf hunts by study and ambush. It watches its prey from a wreck or from 
 
 ## What the Pilots Do
 
-Every pilot on the coast gives a newcomer the same first warning about the Tamzîr Shoals, and the pilots who work them add a second: do not anchor in the lee of a wreck, and do not go aboard one. Fishermen of the islands net the shoals in daylight only, in pairs of boats, and carry fire-pots. Salvagers who dive the wrecks for imperial bronze and the squadron's treasure pay the [[affiliation-corsairleg|Corsair League]] for a guard boat and still lose men. The veterans' children, who inherited the grievance with the story, say the shoals keep the battle's wages for themselves. The Tarûzelian cities have offered a bounty on the creature, and the Corsair League has not tried hard to collect it, because the octowolf keeps strangers out of channels the League would rather nobody else used.
+Every pilot on the coast gives a newcomer the same first warning about the Tamzir Shoals, and the pilots who work them add a second: do not anchor in the lee of a wreck, and do not go aboard one. Fishermen of the islands net the shoals in daylight only, in pairs of boats, and carry fire-pots. Salvagers who dive the wrecks for imperial bronze and the squadron's treasure pay the [[affiliation-corsairleg|Corsair League]] for a guard boat and still lose men. The veterans' children, who inherited the grievance with the story, say the shoals keep the battle's wages for themselves. The Taruzelian cities have offered a bounty on the creature, and the Corsair League has not tried hard to collect it, because the octowolf keeps strangers out of channels the League would rather nobody else used.
 
 ## Signs
 

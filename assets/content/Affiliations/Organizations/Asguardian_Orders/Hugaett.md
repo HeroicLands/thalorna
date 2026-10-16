@@ -3,7 +3,7 @@ shortcode: hugaett
 name: {full: "Hugaett", aliases: []}
 type: affiliation
 subType: order
-description: "The pursuit and keeping of Ódvar's knowledge."
+description: "The pursuit and keeping of Odvar's knowledge."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
           Cast out of Hugaett, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
-          Studies under the order as a Hugfadir or Hugmódir, holding no claim yet on its libraries' keeping.
+          Studies under the order as a Hugfadir or Hugmodir, holding no claim yet on its libraries' keeping.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Is reckoned among the most learned of Ódvar's faithful and keeps a temple's libraries and archives.
+          Is reckoned among the most learned of Odvar's faithful and keeps a temple's libraries and archives.
     offices: {}
   seat: null
   population: null
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A devotee of [[affiliation-odvar|Ódvar]] who wants to learn for the sake of learning goes to the Order of the All-Seeing Eye.
+A devotee of [[affiliation-odvar|Odvar]] who wants to learn for the sake of learning goes to the Order of the All-Seeing Eye.
 
-Hugaett keeps Ódvar's pursuit of knowledge, wisdom and learning for its own sake. Its members, called Hugfadir and Hugmódir, are reckoned the most learned of the god's faithful, and the order keeps the vast libraries and archives housed at its temples, open to any devotee willing to study there. A Dróttstjóri keeps a temple's libraries and archives, and a Dróttmadr studies under the order.
+Hugaett keeps Odvar's pursuit of knowledge, wisdom and learning for its own sake. Its members, called Hugfadir and Hugmodir, are reckoned the most learned of the god's faithful, and the order keeps the vast libraries and archives housed at its temples, open to any devotee willing to study there. A Dróttstjori keeps a temple's libraries and archives, and a Drottmadr studies under the order.

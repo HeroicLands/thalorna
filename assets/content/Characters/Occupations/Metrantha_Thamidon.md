@@ -1,6 +1,6 @@
 ---
 shortcode: mtrnthmdn
-name: {full: Métrantha Thâmîdon, aliases: []}
+name: {full: Métrantha Thamidon, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,11 +394,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Métrantha Thâmîdon is a 24-year-old woman who stands 6'1" tall and is of moderate build. She has an angular face with defined cheekbones, a high forehead, and a strong jaw that leads to a firm chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A strong nose and wide lips complete her features. She has warm-toned skin with an olive-toned complexion. Her dark brown hair is braided and coiled at the nape.
+Métrantha Thamidon is a 24-year-old woman who stands 6'1" tall and is of moderate build. She has an angular face with defined cheekbones, a high forehead, and a strong jaw that leads to a firm chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A strong nose and wide lips complete her features. She has warm-toned skin with an olive-toned complexion. Her dark brown hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Métrantha Thâmîdon came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Métrantha Thamidon came into the world of the miner through a combination of circumstance and aptitude.
 
 Métrantha has always been passionate about mining, inspired by the stories of her family who worked in the industry. She is known for her agility and precision in extracting valuable stones from the rock. Métrantha has proven herself in a male-dominated field, often leading teams of miners and advocating for better working conditions. Her determination and skills have earned her respect among her colleagues.
 
@@ -420,7 +420,7 @@ Skilled at extraction techniques, agile, strong leadership qualities.
 
 Métrantha is affiliated with Local Miners' Union.
 
-As a Helionite miner, Métrantha occupies a recognized social niche within Heliónis society.
+As a Helionite miner, Métrantha occupies a recognized social niche within Helionis society.
 
 ## Companions
 
@@ -434,12 +434,12 @@ Few; respected but occasionally faces skepticism from traditionalists.
 
 ## Plot Hooks
 
-1. **The Miner's Dilemma**—Métrantha faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Miner's Dilemma**—Métrantha faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Helionis.
 
 2. **Old Grudges**—Few; respected but occasionally faces skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 3. **Echoes of the Past**—Something from Métrantha's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Métrantha depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Métrantha depends upon. She must decide whether to adapt, resist, or flee.
 
 5. **The Opportunity**—A chance encounter offers Métrantha the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

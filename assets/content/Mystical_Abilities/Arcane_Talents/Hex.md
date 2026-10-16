@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Hex sets misfortune on a named person. The misfortune follows its target until it has spent itself. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.
+Hex sets misfortune on a named person. The misfortune follows its target until it has spent itself. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

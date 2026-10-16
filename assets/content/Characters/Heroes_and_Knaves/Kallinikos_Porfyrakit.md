@@ -1,6 +1,6 @@
 ---
 shortcode: klnksprfrkt
-name: {full: Bazebos Porfyrákit, given: Bazebos, clan: Porfyrákit, aliases: []}
+name: {full: Bazebos Porfirakit, given: Bazebos, clan: Porfirakit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -420,17 +420,17 @@ sohl:
 
 # Appearance {#appearance}
 
-![[klnksprfrkt|Bazebos Porfyrákit]]{float=top-left}
+![[klnksprfrkt|Bazebos Porfirakit]]{float=top-left}
 
 Bazebos stands 5'9" tall with a medium build. He has warm tanned skin, dark brown hair, and warm brown eyes. His features include an oval face, a strong nose, an angular jawline, an expressive mouth, dark brows, prominent cheeks. A distinguishing mark is a scar on the left thigh.
 
 # Dossier {#dossier}
 
-Born into the Porfyrákit family of minor nobility within the Byzarian League, Bazebos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the cartographer **Master Kyrillazûr** rather than forcing him into administrative service. Under Kyrillazûr's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
+Born into the Porfirakit family of minor nobility within the Bizarian League, Bazebos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the cartographer **Master Kyrillazur** rather than forcing him into administrative service. Under Kyrillazur's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
 
 By his early thirties, Bazebos had established himself as the League's finest cartographer, creating detailed maps commissioned by traders and military commanders. But charts of known territories no longer satisfied him. At thirty-five, he began funding his own expeditions into unmapped regions, often at significant personal expense. Each expedition brought him closer to the edges of the known world—and closer to danger. The thigh scar came during an expedition to the Shadowpeak Mountains five years ago, when he was ambushed by something that should not exist according to any of his sources.
 
-Now at thirty-nine, Bazebos is something of a legend—part explorer, part artist, part reckless adventurer. He maintains a workshop in the Byzarian capital but spends at least a third of each year on expedition, mapping uncharted lands and returning with stories as intriguing as his maps.
+Now at thirty-nine, Bazebos is something of a legend—part explorer, part artist, part reckless adventurer. He maintains a workshop in the Bizarian capital but spends at least a third of each year on expedition, mapping uncharted lands and returning with stories as intriguing as his maps.
 
 ## Psyche
 
@@ -467,10 +467,10 @@ Bazebos is driven by the deep human desire to know, to map the unmapped, to leav
 The Royal Cartographers' Society
 : Official patron organization that grants him access to resources, archive materials, and occasionally funding for expeditions of importance to the Order.
 
-Lord Commander Dâlveshikos Brirorash
+Lord Commander Dalveshikos Brirorash
 : A military leader who has commissioned numerous military maps and occasionally funds expeditions specifically to gather information on potential threats or expansion opportunities.
 
-Lady Investress Dezhbâléa Argyrákit
+Lady Investress Dezhbalea Argirakit
 : A wealthy collector of fine maps and geographical art who has become increasingly invested in funding his expeditions, ostensibly for the beauty of his work.
 
 ### Enemies
@@ -497,6 +497,6 @@ The Explorers' Fellowship
 
 3. **Rival Mapmakers**: A wealthy merchant house begins employing expeditions specifically to beat Bazebos to unexplored territory, creating rival maps they plan to publish simultaneously. What appears as simple commercial rivalry slowly reveals darker elements—the merchants' expeditions are searching for something specific, and they don't care who dies in the process. Bazebos must either collaborate with his commercial rivals or race against them toward a discovery he doesn't fully understand.
 
-4. **The Princess's Commission**: The heir to the Byzarian throne commissions Bazebos to create a map of a region explicitly declared forbidden by the ruling council—supposedly to understand what the council is hiding. She claims it is for her education in statecraft, but hints that political factions within the League have compelling reasons to want that territory mapped, reasons that might challenge the current balance of power. Bazebos must decide whether to serve a princess or maintain his independence.
+4. **The Princess's Commission**: The heir to the Bizarian throne commissions Bazebos to create a map of a region explicitly declared forbidden by the ruling council—supposedly to understand what the council is hiding. She claims it is for her education in statecraft, but hints that political factions within the League have compelling reasons to want that territory mapped, reasons that might challenge the current balance of power. Bazebos must decide whether to serve a princess or maintain his independence.
 
 5. **The Cartographer's Curse**: Bazebos meets a dying explorer who claims that everyone who has attempted to map beyond certain boundaries is doomed—that something actively prevents the full knowledge of the world's true geography. The explorer bequeaths him a partial map hinting at vast territories that should exist but don't appear on any current charts. Bazebos must choose whether to pursue this mystery, knowing it may validate a hypothesis about reality itself that most would consider insane.

@@ -1,6 +1,6 @@
 ---
 shortcode: serdaleliser
-name: {full: Sérdalë Líserndë, aliases: [Elder Healer Sérdalë]}
+name: {full: Sérdale Lísernde, aliases: [Elder Healer Sérdale]}
 type: being
 subType: npc
 description: The oldest and most respected pure mystic shaman in the tribe, an elder healer.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Sérdalë Líserndë is a 76-year-old woman who stands 5'9" tall with a medium build. She has light skin, clear complexion, brown hair, and grey eyes.
+Sérdale Lísernde is a 76-year-old woman who stands 5'9" tall with a medium build. She has light skin, clear complexion, brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Sérdalë Líserndë is the oldest and most respected pure mystic shaman in the tribe, an elder healer. She and [[being-rnthrprdln|Ránthor Párdalen]] differ in their approaches, but she respects his results and refers patients to him for practical healing when her own spiritual work is insufficient.
+Sérdale Lísernde is the oldest and most respected pure mystic shaman in the tribe, an elder healer. She and [[being-rnthrprdln|Ranthor Párdalen]] differ in their approaches, but she respects his results and refers patients to him for practical healing when her own spiritual work is insufficient.

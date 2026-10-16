@@ -1,6 +1,6 @@
 ---
 shortcode: nushirnrsf
-name: {full: Nushir Narsâfî, given: Nushir, clan: Narsâfî, aliases: []}
+name: {full: Nushir Narsafi, given: Nushir, clan: Narsafi, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -419,7 +419,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[nushirnrsf|Nushir Narsâfî]]{float=top-left}
+![[nushirnrsf|Nushir Narsafi]]{float=top-left}
 
 Nushir stands 5'6" tall with a medium build. She has light olive skin, grey hair, and brown eyes. Her features include a diamond-shaped face, a strong nose, an angular jawline, a firm-set mouth, arched brows, and prominent cheeks.
 
@@ -429,15 +429,15 @@ Nushir stands 5'6" tall with a medium build. She has light olive skin, grey hair
 
 ### Apprenticeship and Early Mastery
 
-Nushir Narsâfî was born to a family of modest means in the [[place-khzryndsrtrgn|Khazryn Desert]]'s scattered settlements, where reliable light is both precious commodity and constant concern. Her parents operated a small chandlery, and from her earliest years she was immersed in the work—tending to rush lights, learning to render tallow from animal fats, understanding the properties of various waxes. While her brothers inherited other aspects of the family business or pursued other trades, Nushir found in chandlery both practical necessity and passion. The work was meditative yet technically demanding, requiring precise judgment about temperatures, precise measurement of ingredients, careful attention to timing.
+Nushir Narsafi was born to a family of modest means in the [[place-khzryndsrtrgn|Khazryn Desert]]'s scattered settlements, where reliable light is both precious commodity and constant concern. Her parents operated a small chandlery, and from her earliest years she was immersed in the work—tending to rush lights, learning to render tallow from animal fats, understanding the properties of various waxes. While her brothers inherited other aspects of the family business or pursued other trades, Nushir found in chandlery both practical necessity and passion. The work was meditative yet technically demanding, requiring precise judgment about temperatures, precise measurement of ingredients, careful attention to timing.
 
 Under her mother's exacting tutelage, Nushir became skilled in the craft by her twentieth year. Her candles burned cleaner and longer than those of competitors, and her soap possessed a quality that left skin soft rather than raw. She earned guild certification at twenty-three, marking her as a master craftsperson worthy of independent commission.
 
 ### Years of Dominance
 
-For nearly two decades, Nushir operated the family business with steady success. She made changes slowly but persistently—developing new scent combinations by infusing herbs and oils into wax, experimenting with different wick configurations to achieve more consistent flames, perfecting the proportions of lye and animal fat that would produce soap of superior quality. Her reputation grew steadily. She could command premium prices for her goods, and merchants from across the region sought her products. The Narsâfî chandlery became synonymous with quality in the Khazryn Desert's scattered settlements.
+For nearly two decades, Nushir operated the family business with steady success. She made changes slowly but persistently—developing new scent combinations by infusing herbs and oils into wax, experimenting with different wick configurations to achieve more consistent flames, perfecting the proportions of lye and animal fat that would produce soap of superior quality. Her reputation grew steadily. She could command premium prices for her goods, and merchants from across the region sought her products. The Narsafi chandlery became synonymous with quality in the Khazryn Desert's scattered settlements.
 
-She married late, at thirty-two, to **Jahren Narsâfî**, a man of modest merchant connections who was content to allow his wife's work to define their family's position and income. Though they had no children of their own, Nushir took on apprentices, though her exacting standards meant few remained long in her service.
+She married late, at thirty-two, to **Jahren Narsafi**, a man of modest merchant connections who was content to allow his wife's work to define their family's position and income. Though they had no children of their own, Nushir took on apprentices, though her exacting standards meant few remained long in her service.
 
 ### Present Circumstances and Challenge
 
@@ -489,7 +489,7 @@ Secondarily, she is motivated by a fear of irrelevance—the fear that she is be
 
 ### Patrons
 
-The Temple of Khóršádrä, Keeper of Flames Morhan
+The Temple of Khórsadra, Keeper of Flames Morhan
 : The desert temple dedicated to the deity of knowledge maintains an exclusive contract with Nushir for high-quality candles used in religious observance. **Morhan** has quietly assured Nushir that this contract will remain regardless of economic circumstances, reflecting the temple's commitment to supporting craftspeople of real excellence.
 
 The Desert Caravans Consortium

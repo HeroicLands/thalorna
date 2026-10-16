@@ -1,9 +1,9 @@
 ---
 shortcode: njorven
-name: {full: Njörven, aliases: [The Sea Wraith]}
+name: {full: Njorven, aliases: [The Sea Wraith]}
 type: being
 subType: creature
-description: "The Sea Wraith of the Nordlands—long ago overthrown by Thrúnvald, slowly waking beneath the northern seas, venerated by a cult that means to see it free, and the thing the Ritual of Binding exists to seal away."
+description: "The Sea Wraith of the Nordlands—long ago overthrown by Thrunvald, slowly waking beneath the northern seas, venerated by a cult that means to see it free, and the thing the Ritual of Binding exists to seal away."
 tags: [mythic]
 data:
   packFolder: mythic
@@ -26,7 +26,7 @@ data:
     extra_features: []
 sohl:
   kbcat: mythic
-  # No strike modes. Njörven is bound and does not come ashore to be fought;
+  # No strike modes. Njorven is bound and does not come ashore to be fought;
   # what reaches the party is weather, minions and the cult. The attributes
   # carry what it is—will, reason and aura at a scale nothing mortal matches,
   # and no physical presence to engage.
@@ -53,7 +53,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Njörven is not seen. What is seen is the weather.
+Njorven is not seen. What is seen is the weather.
 
 A coast under its attention gets storms out of season and out of shape: a flat calm that holds for a week while the glass falls, then a sea that rises without wind behind it. Nets come up empty, then come up full of things nobody can name. The old people on the strand stop going out and will not say why, and the ones who do go out come back changed in ways their families notice before they do.
 
@@ -61,29 +61,29 @@ Those who claim to have looked on it directly do not agree on much. A shape unde
 
 # Dossier {#dossier}
 
-The Sea Wraith was overthrown long ago by [[lore-thrunvalddty|Thrúnvald]] and put into a watery prison beneath the northern seas, and it has lain there since. It is not dead. The [[lore-njordurritlbinding|Ritual of Binding]] seals and does not kill, and the evidence that it has been worked before is that Njörven was already imprisoned when this age began, and is stirring out of that prison now.
+The Sea Wraith was overthrown long ago by [[lore-thrunvalddty|Thrunvald]] and put into a watery prison beneath the northern seas, and it has lain there since. It is not dead. The [[lore-njordurritlbinding|Ritual of Binding]] seals and does not kill, and the evidence that it has been worked before is that Njorven was already imprisoned when this age began, and is stirring out of that prison now.
 
 ## Presentation
 
-What the [[place-nrdlndsrgn|Nordlands]] meet is the stirring, never the thing itself. Storms come in violently and out of season, old curses that had gone quiet wake up, and the influence seeps inland far enough that the troubles of the [[affiliation-kingdomlgn|Kingdom of Malagna]] can no longer be separated from it. [[being-grosdrnrgd|Gróa the Seidr of Norgaad]] has had a vision of three threats to the north, and she calls this one the most urgent, because the other two, the kingdom's internal strife and the foreign fleets, grow worse in proportion to it.
+What the [[place-nrdlndsrgn|Nordlands]] meet is the stirring, never the thing itself. Storms come in violently and out of season, old curses that had gone quiet wake up, and the influence seeps inland far enough that the troubles of the [[affiliation-kingdomlgn|Kingdom of Malagna]] can no longer be separated from it. [[being-grosdrnrgd|Groa the Seid of Norgaad]] has had a vision of three threats to the north, and she calls this one the most urgent, because the other two, the kingdom's internal strife and the foreign fleets, grow worse in proportion to it.
 
-**Njörven is not a problem that can be hit.** The campaign material states this early and by design, and the [[miscgear-sprsigrid|Spear of Sigrid]] is placed first in play so that a party learns it before committing to the wrong approach: the Spear is won in the spirit world by trials of wisdom, wit and resolve, and brute strength there produces failure, not a harder fight. Nothing engages Njörven in melee. Its minions can be fought and the cult can be fought, and both will be. The thing itself is reached only through the rite.
+**Njorven is not a problem that can be hit.** The campaign material states this early and by design, and the [[miscgear-sprsigrid|Spear of Skraldthira]] is placed first in play so that a party learns it before committing to the wrong approach: the Spear is won in the spirit world by trials of wisdom, wit and resolve, and brute strength there produces failure, not a harder fight. Nothing engages Njorven in melee. Its minions can be fought and the cult can be fought, and both will be. The thing itself is reached only through the rite.
 
 ## In the Land
 
-Njörven lies under the northern seas, off the coasts of the Nordlands, and the coasts that face it, Malagna's above all, feel it first: the fishing grounds, the strands, the harbors where the longships winter. Its influence reaches inland along the fjords and into the halls. The one place where it can be sealed is a specific hidden temple on the coast, which the rite requires and nowhere else will serve, and which the cult knows as well as anyone.
+Njorven lies under the northern seas, off the coasts of the Nordlands, and the coasts that face it, Malagna's above all, feel it first: the fishing grounds, the strands, the harbors where the longships winter. Its influence reaches inland along the fjords and into the halls. The one place where it can be sealed is a specific hidden temple on the coast, which the rite requires and nowhere else will serve, and which the cult knows as well as anyone.
 
 ## Key Behaviors
 
 It does not act as a creature acts. It wakes, slowly, and as it wakes the sea and the weather answer it, curses stir, and those who serve it grow bolder. Its cult works on its behalf on land.
 
-**Hafvald** is not one of the Asguardian Ten. The name belongs to an older sea-power of the Nordlands, largely displaced by the [[lore-asvinir|Ásvinir]] and surviving now in place-names, in a few coastal observances the priests of Thrúnvald tolerate without approving, and in the horn that bears the name. Every version of the story notices the resemblance between Hafvald and Njörven, and no two versions agree on what it means. Some tellings make them enemies of old, and the horn the instrument by which the elder power bound the younger the first time. Some make them kin. A few, told quietly and not in halls, make them the same thing under two names, which raises an obvious and unwelcome question about what the Ritual of Binding actually invokes. Gróa has been advised not to pursue the question until after the sealing.
+**Hafvald** is not one of the Asguardian Ten. The name belongs to an older sea-power of the Nordlands, largely displaced by the [[lore-asvinir|Ásvinir]] and surviving now in place-names, in a few coastal observances the priests of Thrunvald tolerate without approving, and in the horn that bears the name. Every version of the story notices the resemblance between Hafvald and Njorven, and no two versions agree on what it means. Some tellings make them enemies of old, and the horn the instrument by which the elder power bound the younger the first time. Some make them kin. A few, told quietly and not in halls, make them the same thing under two names, which raises an obvious and unwelcome question about what the Ritual of Binding actually invokes. Groa has been advised not to pursue the question until after the sealing.
 
 ## What the North Does
 
-[[affiliation-njorvencult|Njörven's Cult]] venerates the Sea Wraith and means to see it free. It is an active faction in the campaign, and its interest runs directly against the rite: the Ritual requires the hidden coastal temple, a long working, and an invoker who cannot defend himself while working it.
+[[affiliation-njorvencult|Njorven's Cult]] venerates the Sea Wraith and means to see it free. It is an active faction in the campaign, and its interest runs directly against the rite: the Ritual requires the hidden coastal temple, a long working, and an invoker who cannot defend himself while working it.
 
-The rite needs all three regalia and will not proceed on two: the Spear of Sigrid, the [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Hafvald]]. It needs the hidden coastal temple. It needs spiritual and material preparation, and the spiritual half falls on the invoker personally. Then it needs holding. The climax of [[scenario-groascmpgn|Gróa's Campaign]] is a defense, not a duel: the party protects someone deliberately helpless while Njörven's minions, the rival factions and the foreign invaders all arrive at once. A party that has the regalia and no allies does not finish it, because the temple cannot be held by a party alone; the sealing turns on having brought Malagna's fractured clans far enough together that the ground can be held at all.
+The rite needs all three regalia and will not proceed on two: the Spear of Skraldthira, the [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Hafvald]]. It needs the hidden coastal temple. It needs spiritual and material preparation, and the spiritual half falls on the invoker personally. Then it needs holding. The climax of [[scenario-groascmpgn|Groa's Campaign]] is a defense, not a duel: the party protects someone deliberately helpless while Njorven's minions, the rival factions and the foreign invaders all arrive at once. A party that has the regalia and no allies does not finish it, because the temple cannot be held by a party alone; the sealing turns on having brought Malagna's fractured clans far enough together that the ground can be held at all.
 
 And what it buys is a reprieve of the same kind the last one bought. Everyone who works the rite knows that.
 
@@ -111,7 +111,7 @@ And what it buys is a reprieve of the same kind the last one bought. Everyone wh
 
 ## See Also
 
-- [[affiliation-njorvencult|Njörven's Cult]]—the faction that wants it loose
+- [[affiliation-njorvencult|Njorven's Cult]]—the faction that wants it loose
 - [[lore-njordurritlbinding|The Ritual of Binding]]—the rite, its requirements and its shape
-- [[miscgear-sprsigrid|The Spear of Sigrid]] · [[miscgear-crwnwyrm|The Crown of the Wyrm]] · [[miscgear-hornnjordur|The Horn of Hafvald]]—the three regalia
-- [[scenario-groascmpgn|Gróa's Campaign]]—the campaign that ends at the coastal temple
+- [[miscgear-sprsigrid|The Spear of Skraldthira]] · [[miscgear-crwnwyrm|The Crown of the Wyrm]] · [[miscgear-hornnjordur|The Horn of Hafvald]]—the three regalia
+- [[scenario-groascmpgn|Groa's Campaign]]—the campaign that ends at the coastal temple

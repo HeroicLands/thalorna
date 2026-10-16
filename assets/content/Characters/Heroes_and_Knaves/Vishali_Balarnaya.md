@@ -1,6 +1,6 @@
 ---
 shortcode: vishalblry
-name: {full: Vishali Bālarnaya, given: Vishali, clan: Bālarnaya, aliases: []}
+name: {full: Vishali Balarnaya, given: Vishali, clan: Balarnaya, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -410,7 +410,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[vishalblry|Vishali Bālarnaya]]{float=top-left}
+![[vishalblry|Vishali Balarnaya]]{float=top-left}
 
 Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, and rich brows. She has a scar on her right elbow.
 
@@ -420,7 +420,7 @@ Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black
 
 ### Early Life and Training
 
-Vishali was born into the Dhanāja station of the [[place-vedyarargn|Vedyara]] city-states, the daughter of a spice trader who prided himself on honest dealing. Her childhood was one of relative comfort, spent among the marketplaces and trade routes that connected the city-states. However, at age twelve, a devastating fire claimed both her parents and the family's trading house, leaving her orphaned and destitute. Rather than fall into indentured servitude or worse, Vishali attached herself to a traveling fair—a caravan of performers, acrobats, and charlatans who moved from city to city in the Vedyara territories.
+Vishali was born into the Danaja station of the [[place-vedyarargn|Vedyara]] city-states, the daughter of a spice trader who prided himself on honest dealing. Her childhood was one of relative comfort, spent among the marketplaces and trade routes that connected the city-states. However, at age twelve, a devastating fire claimed both her parents and the family's trading house, leaving her orphaned and destitute. Rather than fall into indentured servitude or worse, Vishali attached herself to a traveling fair—a caravan of performers, acrobats, and charlatans who moved from city to city in the Vedyara territories.
 
 It was here, under the tutelage of **Korvin the Magician**, a cynical but talented performer with a sharp eye for raw talent, that Vishali discovered her gifts. Korvin taught her the arts of misdirection, sleight of hand, and performance—not to deceive for malice, but to amaze and delight. She proved to be an apt student with natural grace and an almost supernatural dexterity that made her especially suited to acrobatic performance. More importantly, Korvin recognized that Vishali possessed something rare: the courage to push boundaries and make people uncomfortable through comedy that cut close to bone.
 
@@ -464,19 +464,19 @@ Vishali is driven by a contradictory pair of impulses: a desire for freedom so a
 
 ### Patrons
 
-Kulina Jayakāra of House Deshani
-: A broad-minded Kulina of one of the Vedyara city-states who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a real, if platonic, fondness for her. His support provides her with regular employment and credibility.
+Kulena Jayakaru of House Deshani
+: A broad-minded Kulena of one of the Vedyara city-states who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a real, if platonic, fondness for her. His support provides her with regular employment and credibility.
 
 Traveling Fair Circuit
-: The various festival organizers, merchants' shrenīs, and market masters throughout the Vedyara territories who regularly book Vishali for performances. These relationships are transactional but reliable.
+: The various festival organizers, merchants' shrenis, and market masters throughout the Vedyara territories who regularly book Vishali for performances. These relationships are transactional but reliable.
 
 ### Enemies
 
 Priest Vatesa of the Temple of Ashkanti
 : A high-ranking priest offended by one of Vishali's performances in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and counts her an offender against the temple.
 
-Kulina Malvina the Austere
-: A woman of a great house whose reputation Vishali devastated through a performance that highlighted her well-known hypocrisy regarding virtue and morality. Kulina Malvina has sworn that Vishali will never perform in her territories and has hired informants to track her movements.
+Kulena Malvina the Austere
+: A woman of a great house whose reputation Vishali devastated through a performance that highlighted her well-known hypocrisy regarding virtue and morality. Kulena Malvina has sworn that Vishali will never perform in her territories and has hired informants to track her movements.
 
 The Masked Collective
 : A shadowy group of puritanical extremists who view Vishali's performances as a corruption of traditional Vedyaran values. They have threatened her on several occasions, and one member attempted violence against her in a marketplace.

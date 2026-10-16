@@ -463,7 +463,7 @@ Hliskthann is motivated by a simple but deep desire to provide protection and co
 
 ### Patrons
 
-Jarl Hrindrinna Gnildrendikh
+Jarl Hrindrinna Gnildrendik
 : A regional noble whose family estate Hliskthann has maintained for twenty-three years. Hrindrinna trusts Hliskthann absolutely and has commissioned numerous repairs and renovations. The relationship is one of real mutual respect.
 
 The Covenant of Malagna Farmers
@@ -485,11 +485,11 @@ The Rural Craftsmen's Guild of Malagna
 : Hliskthann holds senior membership and is frequently consulted on matters of craft standards, though his votes are increasingly overridden by younger members seeking speed over durability.
 
 Mótefnir's rural faithful
-: A loose association of country craftspeople who hold their work to be sacred practice and keep no hof between them. Hliskthann is among the most respected of them.
+: A loose association of country craftspeople who hold their work to be sacred practice and keep no hov between them. Hliskthann is among the most respected of them.
 
 ## Plot Hooks
 
-1. **The Inheritance of Knowledge**: A scholar and collector of traditional wisdom, **Lady Dvurnthýra of the Archives**, travels throughout Malagna documenting dying crafts before their knowledge vanishes. She approaches Hliskthann, asking him to become the subject of a comprehensive written record of his techniques. The question is whether his knowledge belongs to history or should die with him—and whether preserving it means surrendering his independence to a noble patron.
+1. **The Inheritance of Knowledge**: A scholar and collector of traditional wisdom, **Lady Dvurnthira of the Archives**, travels throughout Malagna documenting dying crafts before their knowledge vanishes. She approaches Hliskthann, asking him to become the subject of a comprehensive written record of his techniques. The question is whether his knowledge belongs to history or should die with him—and whether preserving it means surrendering his independence to a noble patron.
 
 2. **The Impossible Commission**: The ancient capital cathedral's roof—a magnificent structure from the age of legends—has developed catastrophic damage. The nobility demands restoration, but the original techniques are lost, the structure is geometrically complex beyond modern standards, and the timeline is impossible. Only Hliskthann is thought capable of tackling it. He can attempt the work (which might destroy his reputation if he fails) or refuse and watch the sacred building fall into ruin.
 

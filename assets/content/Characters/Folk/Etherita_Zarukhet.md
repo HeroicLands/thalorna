@@ -1,9 +1,9 @@
 ---
 shortcode: etheritzrkh2
-name: {full: Etherita Zarukhét, aliases: [Ethê]}
+name: {full: Etherita Zarukhét, aliases: [Ethe]}
 type: being
 subType: npc
-description: "Formerly Thâz'Lekhau of Qe'âret, now retired from the office and still consulted by those who remember how she held it"
+description: "Formerly Thaz'Lekhau of Qe'aret, now retired from the office and still consulted by those who remember how she held it"
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Etherita Zarukhét is a 56-year-old woman who stands 5'7" tall with a medium bui
 
 # Dossier {#dossier}
 
-Etherita Zarukhét once held the office of Thâz'Lekhau of [[lore-qearetdty|Qe'âret]], out of [[place-amqelulegez|Amqelu-Legez]], and has since retired from it. Retirement has not ended the consultations: those who remember how she held the office still bring her the questions it used to answer. The office changed hands; the judgment behind it did not leave with the title.
+Etherita Zarukhét once held the office of Thaz'Lekhau of [[lore-qearetdty|Qe'aret]], out of [[place-amqelulegez|Amqelu-Legez]], and has since retired from it. Retirement has not ended the consultations: those who remember how she held the office still bring her the questions it used to answer. The office changed hands; the judgment behind it did not leave with the title.

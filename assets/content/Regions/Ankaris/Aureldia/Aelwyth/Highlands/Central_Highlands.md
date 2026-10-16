@@ -31,7 +31,7 @@ republic, and the difference is the first thing any Ondarethan will tell an outs
 
 All of which is thoroughly relative. This is still Aelwyth: a cool island in a cold sea, where _warm_
 means the wind has dropped and one can see the far side of the valley. A visitor from
-[[place-provenzrgn|Provènzia]], taken up into the Highlands at the height of summer and told this is the
+[[place-provenzrgn|Provenzia]], taken up into the Highlands at the height of summer and told this is the
 finest weather the island affords, would put his cloak back on and say something polite.
 
 ## The Living

@@ -3,7 +3,7 @@ shortcode: solvinir
 name: {full: "Sólvinir", aliases: []}
 type: affiliation
 subType: order
-description: "Love and beauty counseled in Sólrún's name."
+description: "Love and beauty counseled in Solrún's name."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
           Cast out of Sólvinir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
-          Trains in the arts of love and beauty at a feast-hall's hof, holding no standing yet to counsel the powerful.
+          Trains in the arts of love and beauty at a feast-hall's hov, holding no standing yet to counsel the powerful.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Advises jarls and the influential in Sólrún's name, the order's fullest claim on her arts.
+          Advises jarls and the influential in Solrún's name, the order's fullest claim on her arts.
     offices: {}
   seat: null
   population: null
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Those who seek [[affiliation-solrun|Sólrún]]'s favor and have power to lose often take counsel from the Order of the Enchanted Rose.
+Those who seek [[affiliation-solrun|Solrún]]'s favor and have power to lose often take counsel from the Order of the Enchanted Rose.
 
-Sólvinir trains priests in the arts of love and beauty, and advises the powerful and the influential. A member is as likely to be found counseling a jarl's court as attending the rites of a feast-hall. A Dróttstjóri advises jarls and others of influence in Sólrún's name; a Dróttmadr trains in those arts at a feast-hall's hof and does not yet counsel the powerful.
+Sólvinir trains priests in the arts of love and beauty, and advises the powerful and the influential. A member is as likely to be found counseling a jarl's court as attending the rites of a feast-hall. A Dróttstjori advises jarls and others of influence in Solrún's name; a Drottmadr trains in those arts at a feast-hall's hov and does not yet counsel the powerful.

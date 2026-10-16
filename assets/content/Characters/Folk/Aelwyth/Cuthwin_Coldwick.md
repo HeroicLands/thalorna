@@ -1,9 +1,9 @@
 ---
 shortcode: cuthwincoldw
-name: {full: Cuthwin Coldwick, aliases: [Captain Cuthwin Coldwick, Captain Cuthwin]}
+name: {full: Mildwald Koldwik, aliases: [Captain Mildwald Koldwik, Captain Mildwald]}
 type: being
 subType: npc
-description: A southern military commander who has been leading expeditions into Vrystwald territory, named in Thornak Blodtusc Bar.
+description: A southern military commander who has been leading expeditions into Vristwald territory, named in Thornak Bludtusk Barsk.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Cuthwin Coldwick is a 40-year-old man who stands 5'9" tall with a heavy build. He has light skin, ruddy complexion, dark brown hair, and brown eyes.
+Mildwald Koldwik is a 40-year-old man who stands 5'9" tall with a heavy build. He has light skin, ruddy complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Cuthwin Coldwick is a captain and a southern military commander who leads expeditions into Vrystwald territory. He regards the Vrystwalds as backward savages in the way of civilization's progress, and his raids are destructive, with captured Vrystwalds often executed to instill fear. He is an enemy of [[being-thrnkbldtscbr|Thornak Blodtusc Bar]].
+Mildwald Koldwik is a captain and a southern military commander who leads expeditions into Vristwald territory. He regards the Vristwalds as backward savages in the way of civilization's progress, and his raids are destructive, with captured Vristwalds often executed to instill fear. He is an enemy of [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]].

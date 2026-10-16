@@ -1,6 +1,6 @@
 ---
 shortcode: zepharis
-name: {full: Zepharis, aliases: [Rhéshin Zepharis, Zûlêthâlon Zepharis]}
+name: {full: Zefaris, aliases: [Rhezin Zefaris, Zulen Zefaris]}
 type: affiliation
 subType: arcanetradition
 tags: [hex-hodai]
@@ -43,12 +43,12 @@ data:
     offices:
       First of the Tradition: Presiding elder, who speaks for the tradition where it must speak with one voice.
       Elder: Of the body that decides doctrine, admission and expulsion.
-      Mârendândôs: Master of a school, holding its teaching, its pupils and its reputation.
-      Lôrêzândôs: Charged with the instruction of initiates, and with judging when they are ready.
+      Marendos: Master of a school, holding its teaching, its pupils and its reputation.
+      Lorezos: Charged with the instruction of initiates, and with judging when they are ready.
       Keeper of the Grimoires: Warden of the tradition's written work, and of who may read which part of it.
       Warden of the Threshold: Examiner of aspirants, and the last check before an oath is taken.
-      Sêkhêrândôs: Investigator of the tradition's own—unlicensed practice, broken oaths, and worse.
-      Phrênkhândôs: Keeper of the tradition's endowment, its houses and its stipends.
+      Sekeros: Investigator of the tradition's own—unlicensed practice, broken oaths, and worse.
+      Frenkos: Keeper of the tradition's endowment, its houses and its stipends.
       Envoy: The tradition's representative to a court or a rival school.
   seat: null
   population: null
@@ -63,44 +63,44 @@ sohl: {system: {commonSkills: []}}
 #   school: air
 ---
 
-Rhéshin **Zepharis** is the current of wind, weather, sound, illusion, and the intangible. It occupies the upper-right vertex of the [[affiliation-hexhodai|Thîzâron]], directly opposite [[affiliation-sideros|Rhéshin Sidéros]]. Where Metal seeks to define, bind, and make orderly, Air seeks to dissolve boundaries, escape categories, and reveal that what appears solid may be nothing more than a trick of perception. Zepharis is the smallest of the six Zûlêthâlâr (fellowships) by membership, but its practitioners are disproportionately represented among the Order's most subtle and dangerous operatives.
+Rhezin **Zefaris** is the current of wind, weather, sound, illusion, and the intangible. It occupies the upper-right vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite [[affiliation-sideros|Rhezin Sideris]]. Where Metal seeks to define, bind, and make orderly, Air seeks to dissolve boundaries, escape categories, and reveal that what appears solid may be nothing more than a trick of perception. Zefaris is the smallest of the six Zulethalar (fellowships) by membership, but its practitioners are disproportionately represented among the Order's most subtle and dangerous operatives.
 
 ## Philosophy
 
-The Zepharis mage perceives reality as layered, mutable, and fundamentally uncertain. What most people call "the real" is, to an Air mage, merely the most persistent of many possible configurations—a pattern that the wind could rearrange at any moment. Sound is vibration in air; vision is light bent through atmosphere; even the most solid-seeming object is surrounded by a skin of gas that mediates every interaction with it. The Zepharis practitioner learns to attend to these mediating layers—to the spaces between things, the currents that carry sensation, and the ways in which perception itself can be shaped, bent, or broken.
+The Zefaris mage perceives reality as layered, mutable, and fundamentally uncertain. What most people call "the real" is, to an Air mage, merely the most persistent of many possible configurations—a pattern that the wind could rearrange at any moment. Sound is vibration in air; vision is light bent through atmosphere; even the most solid-seeming object is surrounded by a skin of gas that mediates every interaction with it. The Zefaris practitioner learns to attend to these mediating layers—to the spaces between things, the currents that carry sensation, and the ways in which perception itself can be shaped, bent, or broken.
 
-This philosophical orientation makes Zepharis the most _cerebral_ of the six schools. Its practitioners are thinkers, questioners, and skeptics—mages who distrust surfaces and instinctively look for what is hidden beneath. The school's signature domains reflect this: illusion (the art of reshaping perception), communication (the art of sending meaning across distance), weather-working (the art of directing vast forces through subtle interventions), and sound (the art of manipulating the vibrations that carry voice, music, and warning).
+This philosophical orientation makes Zefaris the most _cerebral_ of the six schools. Its practitioners are thinkers, questioners, and skeptics—mages who distrust surfaces and instinctively look for what is hidden beneath. The school's signature domains reflect this: illusion (the art of reshaping perception), communication (the art of sending meaning across distance), weather-working (the art of directing vast forces through subtle interventions), and sound (the art of manipulating the vibrations that carry voice, music, and warning).
 
-The deeper principle of Zepharis is _the power of the intangible_. What cannot be grasped cannot be imprisoned. What cannot be seen cannot be defended against. What moves without substance—a whisper, a rumor, a change in the wind—can topple kingdoms that no army could breach. A master of Zepharis understands that the most powerful forces in the world are often the ones that leave no trace: the word spoken in the right ear, the fog that descends at the wrong moment, the silence that falls when all other sounds have been stolen away.
+The deeper principle of Zefaris is _the power of the intangible_. What cannot be grasped cannot be imprisoned. What cannot be seen cannot be defended against. What moves without substance—a whisper, a rumor, a change in the wind—can topple kingdoms that no army could breach. A master of Zefaris understands that the most powerful forces in the world are often the ones that leave no trace: the word spoken in the right ear, the fog that descends at the wrong moment, the silence that falls when all other sounds have been stolen away.
 
-## The Opposition: Sidéros
+## The Opposition: Sideris
 
-Rhéshin Zepharis stands directly opposite [[affiliation-sideros|Rhéshin Sidéros]] on the Thîzâron (the Seal), and their opposition is perhaps the most philosophically irreconcilable of the three. Metal seeks to _define_—to draw clear boundaries, impose precise forms, and make the chaotic orderly. Air seeks to _dissolve_—to blur boundaries, escape definitions, and reveal that order is a human imposition on a world that resists it. A Zepharis mage attempting Metal magic finds the experience suffocating: the obsessive precision, the demand for exact specification, the insistence that everything have a fixed form and a proper place. It feels like being caged.
+Rhezin Zefaris stands directly opposite [[affiliation-sideros|Rhezin Sideris]] on the Thizaron (the Seal), and their opposition is perhaps the most philosophically irreconcilable of the three. Metal seeks to _define_—to draw clear boundaries, impose precise forms, and make the chaotic orderly. Air seeks to _dissolve_—to blur boundaries, escape definitions, and reveal that order is a human imposition on a world that resists it. A Zefaris mage attempting Metal magic finds the experience suffocating: the obsessive precision, the demand for exact specification, the insistence that everything have a fixed form and a proper place. It feels like being caged.
 
-The rivalry between the two Zûlêthâlâr is less fiery than the Pyréthos-Hydalis antagonism but more philosophically bitter. Sidéros practitioners view Air mages as unreliable, evasive, and dangerously comfortable with ambiguity. Zepharis practitioners view Metal mages as rigid, unimaginative, and so committed to their categories that they cannot see what does not fit. The disagreement runs deeper than temperament—it is a fundamental dispute about the nature of reality. Is the world structured, and our task to discover its order? Or is structure a story we tell ourselves, and the world's true nature something more fluid and uncertain?
+The rivalry between the two Zulethalar is less fiery than the Pyréthos-Hidalis antagonism but more philosophically bitter. Sideris practitioners view Air mages as unreliable, evasive, and dangerously comfortable with ambiguity. Zefaris practitioners view Metal mages as rigid, unimaginative, and so committed to their categories that they cannot see what does not fit. The disagreement runs deeper than temperament—it is a fundamental dispute about the nature of reality. Is the world structured, and our task to discover its order? Or is structure a story we tell ourselves, and the world's true nature something more fluid and uncertain?
 
-In chapter politics, the two fellowships rarely clash directly—their domains of interest seldom overlap. But when they do engage, the arguments are memorable. A Sidéros _mârendândôs_ (master) proposing new regulations and a Zepharis _mârendândôs_ questioning whether the categories being regulated even exist can produce debates that last for years.
+In chapter politics, the two fellowships rarely clash directly—their domains of interest seldom overlap. But when they do engage, the arguments are memorable. A Sideris _marendos_ (master) proposing new regulations and a Zefaris _marendos_ questioning whether the categories being regulated even exist can produce debates that last for years.
 
 ## Adjacencies
 
-Zepharis shares its edges of the Thîzâron with [[affiliation-pyrethos|Rhéshin Pyréthos]] and [[affiliation-physera|Rhéshin Physéra]].
+Zefaris shares its edges of the Thizaron with [[affiliation-pyrethos|Rhezin Pirethos]] and [[affiliation-physera|Rhezin Fisera]].
 
-The sympathy with Pyréthos is one of _dynamism_. Fire and Air are the active, kinetic _rhéshâ_ of the Thîzâron—both deal in energy in motion, transformation in real-time, forces that refuse to hold still. Wind feeds flame; lightning is born where weather and heat collide. Pyréthos and Zepharis practitioners share an impatience with stasis and a preference for action, though their styles differ: Fire acts with overwhelming force, while Air acts with misdirection and subtlety. Their alliance is the Thîzâron's most aggressive partnership.
+The sympathy with Pirethos is one of _dynamism_. Fire and Air are the active, kinetic _rheza_ of the Thizaron—both deal in energy in motion, transformation in real-time, forces that refuse to hold still. Wind feeds flame; lightning is born where weather and heat collide. Pirethos and Zefaris practitioners share an impatience with stasis and a preference for action, though their styles differ: Fire acts with overwhelming force, while Air acts with misdirection and subtlety. Their alliance is the Thizaron's most aggressive partnership.
 
-The sympathy with Physéra is more grounded and more surprising. Air and Earth seem an unlikely pairing, but their connection is the natural world itself—the sky and the ground are in constant conversation, and weather and terrain are inseparable in shaping the landscapes where people live. A Zepharis mage studying weather patterns and a Physéra mage studying the land they fall upon are observing the same system from different angles. The two schools collaborate most frequently in matters of agriculture, navigation, and the understanding of natural environments.
+The sympathy with Fisera is more grounded and more surprising. Air and Earth seem an unlikely pairing, but their connection is the natural world itself—the sky and the ground are in constant conversation, and weather and terrain are inseparable in shaping the landscapes where people live. A Zefaris mage studying weather patterns and a Fisera mage studying the land they fall upon are observing the same system from different angles. The two schools collaborate most frequently in matters of agriculture, navigation, and the understanding of natural environments.
 
-## The Zûlêthâlon Zepharis
+## The Zulen Zefaris
 
-The **Zûlêthâlon Zepharis**—the Fellowship of Air—is the smallest of the six Zûlêthâlâr but wields an influence that far exceeds its numbers. Its members are subtle, cerebral, and drawn to the Order's intelligence operations. Where the Sekran relies on Pyréthos mages for enforcement, it relies on Zepharis mages for _intelligence_—the gathering of information, the interception of communications, the planting of false perceptions, and the quiet manipulation of events at a distance.
+The **Zulen Zefaris**—the Fellowship of Air—is the smallest of the six Zulethalar but wields an influence that far exceeds its numbers. Its members are subtle, cerebral, and drawn to the Order's intelligence operations. Where the Sekran relies on Pirethos mages for enforcement, it relies on Zefaris mages for _intelligence_—the gathering of information, the interception of communications, the planting of false perceptions, and the quiet manipulation of events at a distance.
 
-The fellowship's internal culture prizes cleverness over raw power. A Zepharis mage who solves a problem through misdirection is admired more than one who solves it through force. The fellowship's politics are accordingly opaque—alliances shift like wind patterns, and the true power structure is never quite what it appears to be. This frustrates outsiders (particularly Sidéros practitioners, who find the fellowship's resistance to clear organizational charts personally offensive) but suits the Air mages perfectly. If you cannot be sure who is in charge, you cannot be sure who to target.
+The fellowship's internal culture prizes cleverness over raw power. A Zefaris mage who solves a problem through misdirection is admired more than one who solves it through force. The fellowship's politics are accordingly opaque—alliances shift like wind patterns, and the true power structure is never quite what it appears to be. This frustrates outsiders (particularly Sideris practitioners, who find the fellowship's resistance to clear organizational charts personally offensive) but suits the Air mages perfectly. If you cannot be sure who is in charge, you cannot be sure who to target.
 
-The Zûlêthâlon (fellowship) Zepharis also produces the Order's finest illusionists and communicators. The magic of sending messages across vast distances, of creating phantom images to deceive or instruct, of manipulating sound and silence—all of these are Zepharis specialties. In an institution that prizes discretion above all else, the school that specializes in controlling what people see and hear occupies a quietly powerful position.
+The Zulen (fellowship) Zefaris also produces the Order's finest illusionists and communicators. The magic of sending messages across vast distances, of creating phantom images to deceive or instruct, of manipulating sound and silence—all of these are Zefaris specialties. In an institution that prizes discretion above all else, the school that specializes in controlling what people see and hear occupies a quietly powerful position.
 
 ## See Also
 
-- [[affiliation-hexhodai|Ksêmor Hodhîs]]—The Ksêmor Hodhîs framework
-- [[affiliation-sideros|Rhéshin Sidéros]]—The opposing _rhéshin_
-- [[affiliation-pyrethos|Rhéshin Pyréthos]]—Adjacent _rhéshin_ (dynamism)
-- [[affiliation-physera|Rhéshin Physéra]]—Adjacent _rhéshin_ (the natural world)
-- [[affiliation-ordoarcanis|Thôrdimâlon]]—The institution that teaches and regulates Zepharis magic
+- [[affiliation-hexhodai|Zemor Hodhis]]—The Zemor Hodhis framework
+- [[affiliation-sideros|Rhezin Sideris]]—The opposing _rhezin_
+- [[affiliation-pyrethos|Rhezin Pirethos]]—Adjacent _rhezin_ (dynamism)
+- [[affiliation-physera|Rhezin Fisera]]—Adjacent _rhezin_ (the natural world)
+- [[affiliation-ordoarcanis|Thordimalon]]—The institution that teaches and regulates Zefaris magic

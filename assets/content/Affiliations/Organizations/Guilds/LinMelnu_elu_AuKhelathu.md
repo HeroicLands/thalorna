@@ -1,6 +1,6 @@
 ---
 shortcode: linmelnkhlth
-name: {full: Lin'Melnu elu Aû'Khelâthu, aliases: [The Metalworkers' Guild of Aû'Khelâthu]}
+name: {full: Lin'Melnu elu Au'Khelathu, aliases: [The Metalworkers' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the empire's metalworkers, heirs to the ancient forge-companies and jealous of the standards they inherited
@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-**Lin'Melnu elu Aû'Khelâthu** is the chartered guild of the metalworkers of [[place-aukhelathrgq|Aû'Khelâthu]] and the acknowledged heir of forge-companies whose practice is older than its charter. It trains smiths in that inherited practice and certifies work against it before a piece may be sold as guild-standard. A smith who departs from the old methods without the guild's sanction risks the certification that makes his work sellable at all.
+**Lin'Melnu elu Au'Khelathu** is the chartered guild of the metalworkers of [[place-aukhelathrgq|Au'Khelathu]] and the acknowledged heir of forge-companies whose practice is older than its charter. It trains smiths in that inherited practice and certifies work against it before a piece may be sold as guild-standard. A smith who departs from the old methods without the guild's sanction risks the certification that makes his work sellable at all.
 
 ## Character
 
@@ -60,5 +60,5 @@ Certification is the commodity. Say a smith finishes a sword and brings it to th
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire the guild's charter covers
+- [[place-aukhelathrgq|Au'Khelathu]]—The empire the guild's charter covers
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

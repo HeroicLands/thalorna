@@ -1,8 +1,8 @@
 ---
 shortcode: tghsvrnzrnsh
 name:
-  full: Tîgh'Savâran of the Zarnûsh
-  aliases: [Sworn Blades of the Zarnûsh, Riders of the Burning Wind]
+  full: Tigh'Savaran of the Zarnush
+  aliases: [Sworn Blades of the Zarnush, Riders of the Burning Wind]
 type: affiliation
 subType: venture
 description: "Khazryn steppe warband defending a middling tribe against rivals through cavalry archery and the strategic genius of war captain Bahrazad."
@@ -71,52 +71,52 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-**The Tîgh'Savâran of the Zarnûsh:** _The Riders of the Burning Wind_
+**The Tigh'Savaran of the Zarnush:** _The Riders of the Burning Wind_
 
-_Dunhari: "The Sworn Blades of the Zarnûsh"_
+_Dunhari: "The Sworn Blades of the Zarnush"_
 
-Across the central steppe of the Khazryn Desert, where grass grows sparse and water is sacred, the Zarnûsh tribe fights to hold what little it has. The Tîgh'Savâran—the tribe's elite warband—are the instrument of that fight: a dozen mounted warriors who patrol territory, defend wells, raid rivals, and conduct the endless low-intensity warfare that defines steppe life. They are superb horse archers and lancers, and they regard sedentary peoples as soft and contemptible. But beneath the bravado, the Tîgh'Savâran are stretched thin. The Zarnûsh are not a powerful tribe. They are a middling tribe of perhaps three hundred families clinging to three wells and two hundred square miles of mixed steppe—enough to survive, never enough to feel safe.
+Across the central steppe of the Khazryn Desert, where grass grows sparse and water is sacred, the Zarnush tribe fights to hold what little it has. The Tigh'Savaran—the tribe's elite warband—are the instrument of that fight: a dozen mounted warriors who patrol territory, defend wells, raid rivals, and conduct the endless low-intensity warfare that defines steppe life. They are superb horse archers and lancers, and they regard sedentary peoples as soft and contemptible. But beneath the bravado, the Tigh'Savaran are stretched thin. The Zarnush are not a powerful tribe. They are a middling tribe of perhaps three hundred families clinging to three wells and two hundred square miles of mixed steppe—enough to survive, never enough to feel safe.
 
-The Tîgh'Savâran exists because without it, the Zarnûsh would not exist at all.
+The Tigh'Savaran exists because without it, the Zarnush would not exist at all.
 
 ## Backstory
 
-The Zarnûsh have never been rich or powerful. Their territory sits at the junction of three stronger tribes—the [[affiliation-zrdntrb|Âzardan]] to the north, the [[affiliation-shrzrtrb|Shirzâri]] to the south, and the [[affiliation-drmndtrb|Dûrmand]] to the east—and the tribe has survived for generations through a combination of cunning diplomacy, strategic marriages, and a warband skilled enough to make raiding the Zarnûsh more expensive than it is worth.
+The Zarnush have never been rich or powerful. Their territory sits at the junction of three stronger tribes—the [[affiliation-zrdntrb|Azardan]] to the north, the [[affiliation-shrzrtrb|Shirzari]] to the south, and the [[affiliation-drmndtrb|Durmand]] to the east—and the tribe has survived for generations through a combination of cunning diplomacy, strategic marriages, and a warband skilled enough to make raiding the Zarnush more expensive than it is worth.
 
 But the balance that sustained them is collapsing.
 
-Two years ago, a severe drought dried up the Zarnûsh's seasonal water sources, leaving only their three permanent wells. The Dûrmand, whose own wells held, took advantage: they raided the Zarnûsh's eastern herds while the tribe was concentrated around its remaining water, driving off nearly a third of their horses and killing two warriors. The Zarnûsh could not retaliate—they lacked the numbers and the mounts—and the humiliation sent tremors through the tribe. Three families defected to the Âzardan, taking their herds and their fighting men with them.
+Two years ago, a severe drought dried up the Zarnush's seasonal water sources, leaving only their three permanent wells. The Durmand, whose own wells held, took advantage: they raided the Zarnush's eastern herds while the tribe was concentrated around its remaining water, driving off nearly a third of their horses and killing two warriors. The Zarnush could not retaliate—they lacked the numbers and the mounts—and the humiliation sent tremors through the tribe. Three families defected to the Azardan, taking their herds and their fighting men with them.
 
-Then, six months ago, the Shirzâri made the crisis existential. A Shirzâri raiding party struck the Zarnûsh's southern grazing grounds and kidnapped eight people—four women and four children, including the daughter of Bahrazad Darûsh's blood-brother Shirvand Khorzand. The Shirzâri demanded a ruinous ransom: fifty horses, access to the Zarnûsh's central well at Shir-Vân, and permanent grazing rights on the southern steppe. The Zarnûsh dovaq—an aging man named Tîman Zarnûsh—refused the terms but could not muster the strength for a rescue. The captives remain with the Shirzâri.
+Then, six months ago, the Shirzari made the crisis existential. A Shirzari raiding party struck the Zarnush's southern grazing grounds and kidnapped eight people—four women and four children, including the daughter of Bahrazad Darush's blood-brother Shirvand Khorzand. The Shirzari demanded a ruinous ransom: fifty horses, access to the Zarnush's central well at Shir-Van, and permanent grazing rights on the southern steppe. The Zarnush dovaq—an aging man named Timan Zarnush—refused the terms but could not muster the strength for a rescue. The captives remain with the Shirzari.
 
-Bahrazad has been given one season to solve the problem. If he cannot recover the captives and punish the Shirzâri, the remaining families will lose confidence in the Zarnûsh dovaq, and the tribe will fragment—absorbed piecemeal by its stronger neighbors. Everything the Zarnûsh have built over generations will be gone in a year.
+Bahrazad has been given one season to solve the problem. If he cannot recover the captives and punish the Shirzari, the remaining families will lose confidence in the Zarnush dovaq, and the tribe will fragment—absorbed piecemeal by its stronger neighbors. Everything the Zarnush have built over generations will be gone in a year.
 
-The Tîgh'Savâran is the tribe's last weapon, and Bahrazad knows it.
+The Tigh'Savaran is the tribe's last weapon, and Bahrazad knows it.
 
 ## Organization
 
-**Bahrazad Darûsh** is the war captain, a man in his late thirties with the scarred face and missing ear of someone who has survived twenty years of steppe combat. He commands through a combination of personal charisma, demonstrated skill in combat, and an almost supernatural ability to predict rival tribal movements. He answers to the dovaq through tribal hierarchy, but the dovaq has given him effectively unlimited authority for this season's campaign. The dovaq's mandate is simple: bring back the captives, punish the Shirzâri, and hold the tribe together. How Bahrazad accomplishes this is his problem.
+**Bahrazad Darush** is the war captain, a man in his late thirties with the scarred face and missing ear of someone who has survived twenty years of steppe combat. He commands through a combination of personal charisma, demonstrated skill in combat, and an almost supernatural ability to predict rival tribal movements. He answers to the dovaq through tribal hierarchy, but the dovaq has given him effectively unlimited authority for this season's campaign. The dovaq's mandate is simple: bring back the captives, punish the Shirzari, and hold the tribe together. How Bahrazad accomplishes this is his problem.
 
-The band currently musters twelve warriors—every fighting man the Zarnûsh can spare without leaving the wells undefended:
+The band currently musters twelve warriors—every fighting man the Zarnush can spare without leaving the wells undefended:
 
-- **Bahrazad Darûsh**—War Captain. Hard-eyed and economical with words, he radiates competence and danger in equal measure. The weight of the tribe's survival sits visibly on his shoulders.
+- **Bahrazad Darush**—War Captain. Hard-eyed and economical with words, he radiates competence and danger in equal measure. The weight of the tribe's survival sits visibly on his shoulders.
 - **Shirvand Khorzand**—Second-in-command. Bahrazad's closest confidant and blood-brother. Equally skilled with bow and lance, but the kidnapping of his daughter Fazhina has made him reckless and volatile. He wants blood, not strategy.
-- **Razâshar Varîdân**—Master archer. Great accuracy from a galloping horse; prone to gambling and overconfidence. His debts to a Dûrmand horse-trader are a vulnerability the enemy could exploit.
-- **Torvâsh Kavirân**—Spear-specialist and tactician. Older warrior, once proposed for captain but content now as strategist. He was the one who argued for accepting the Shirzâri ransom—Bahrazad overruled him, and the disagreement has not been forgotten.
-- **Kâvezhân Mahvârân**—Cavalry scout and tracker. Fastest rider in the band, with an almost supernatural sense for water and hidden camps. He has been conducting solo reconnaissance of the Shirzâri camps for months, and he knows their patrol patterns better than they do.
-- **Armanad Gazvân**—Heavy cavalry. Largest warrior in the band, prefers the lance to any other weapon. His wife and infant son were among those taken by the Shirzâri—he is fighting for his family, and he will not accept any outcome that does not include their return.
-- **Rostadar Tavrûd**—Horse-master and shaman's apprentice. Tends the war-steeds and interprets the spirits of the wind. Quietly influential—some warriors consult him more than they consult Bahrazad, and his readings of the wind-spirits have accurately predicted Shirzâri movements twice.
-- **Ashûdar Khâvandar**—Scout and raider. Youngest and most reckless member, always pushing for more aggressive action. He wants to ride into the Shirzâri camp at night with fire arrows and solve the problem with violence. Bahrazad tolerates his fire because the boy has talent.
-- **Darîzhan Nârshad**—Weapons-master and smith. Maintains the blades and composite bows; known for volatile temper. He lost a brother in the Dûrmand raid two years ago, and his hatred of the Dûrmand borders on obsession.
-- **Parvûzhân Sâzâdar**—Veteran scout and ranger. Scarred from a bad arrow wound, walks with a limp but still rides better than most. The band's best tracker after Kâvezhân—and more cautious.
-- **Nersad Bârkârin**—Cultural keeper and musician. Maintains the songs and traditions of the Zarnûsh; holds the war-band's history in memory. His role is not merely ceremonial—when morale falters, Nersad reminds them who they are and what they are fighting for.
-- **Jamaris Parvaran**—Newest member, barely initiated. Fierce and driven, determined to prove his worth. His mother was among the women taken by the Shirzâri. He volunteered for the Tîgh'Savâran the day after the raid.
+- **Razashar Varidan**—Master archer. Great accuracy from a galloping horse; prone to gambling and overconfidence. His debts to a Durmand horse-trader are a vulnerability the enemy could exploit.
+- **Torvash Kaviran**—Spear-specialist and tactician. Older warrior, once proposed for captain but content now as strategist. He was the one who argued for accepting the Shirzari ransom—Bahrazad overruled him, and the disagreement has not been forgotten.
+- **Kavezhan Mahvaran**—Cavalry scout and tracker. Fastest rider in the band, with an almost supernatural sense for water and hidden camps. He has been conducting solo reconnaissance of the Shirzari camps for months, and he knows their patrol patterns better than they do.
+- **Armanad Gazvan**—Heavy cavalry. Largest warrior in the band, prefers the lance to any other weapon. His wife and infant son were among those taken by the Shirzari—he is fighting for his family, and he will not accept any outcome that does not include their return.
+- **Rostadar Tavrud**—Horse-master and shaman's apprentice. Tends the war-steeds and interprets the spirits of the wind. Quietly influential—some warriors consult him more than they consult Bahrazad, and his readings of the wind-spirits have accurately predicted Shirzari movements twice.
+- **Ashudar Khavandar**—Scout and raider. Youngest and most reckless member, always pushing for more aggressive action. He wants to ride into the Shirzari camp at night with fire arrows and solve the problem with violence. Bahrazad tolerates his fire because the boy has talent.
+- **Darizhan Narshad**—Weapons-master and smith. Maintains the blades and composite bows; known for volatile temper. He lost a brother in the Durmand raid two years ago, and his hatred of the Durmand borders on obsession.
+- **Parvuzhan Sazadar**—Veteran scout and ranger. Scarred from a bad arrow wound, walks with a limp but still rides better than most. The band's best tracker after Kavezhan—and more cautious.
+- **Nersad Barkarin**—Cultural keeper and musician. Maintains the songs and traditions of the Zarnush; holds the war-band's history in memory. His role is not merely ceremonial—when morale falters, Nersad reminds them who they are and what they are fighting for.
+- **Jamaris Parvaran**—Newest member, barely initiated. Fierce and driven, determined to prove his worth. His mother was among the women taken by the Shirzari. He volunteered for the Tigh'Savaran the day after the raid.
 
 ## Territory
 
-The Zarnûsh territory encompasses roughly two hundred square miles of mixed steppe—grassland, scattered salt marshes, and three strategic wells that are the true source of the tribe's survival. Four semi-permanent camps are positioned around the wells: Karânat (the northern well), Shir-Vân (the central gathering point and the tribe's heart), Dûbzar (the eastern well, closest to Dûrmand territory), and Zamir-Kâr (a seasonal camp moved by water availability—currently abandoned since the drought).
+The Zarnush territory encompasses roughly two hundred square miles of mixed steppe—grassland, scattered salt marshes, and three strategic wells that are the true source of the tribe's survival. Four semi-permanent camps are positioned around the wells: Karanat (the northern well), Shir-Van (the central gathering point and the tribe's heart), Dubzar (the eastern well, closest to Durmand territory), and Zamir-Kar (a seasonal camp moved by water availability—currently abandoned since the drought).
 
-The territory borders the lands of three rival tribes, making constant vigilance necessary. The Âzardan probe from the north—not aggressively, but their scouts test the borders regularly. The Dûrmand hold the east, emboldened by their successful raid. The Shirzâri control the south, and it is in the Shirzâri camps—perhaps thirty miles beyond the Zarnûsh border—that the captives are held.
+The territory borders the lands of three rival tribes, making constant vigilance necessary. The Azardan probe from the north—not aggressively, but their scouts test the borders regularly. The Durmand hold the east, emboldened by their successful raid. The Shirzari control the south, and it is in the Shirzari camps—perhaps thirty miles beyond the Zarnush border—that the captives are held.
 
 The band maintains a network of hidden water sources and escape routes—the steppe's unwritten geography, known only to those who have ridden it since childhood.
 
@@ -124,9 +124,9 @@ The band maintains a network of hidden water sources and escape routes—the ste
 
 The Sovidur are pure cavalry warriors, operating at speeds and with mobility that sedentary armies cannot match. Standard tactics involve rapid mounted reconnaissance, coordinated archer barrages while riding, lance charges against enemies caught flat-footed, and feigned retreats to draw enemies into prepared ambushes. Bahrazad's particular genius is in predicting enemy movements—he has turned the landscape itself into a weapon, positioning his warriors to use natural features and water sources as tactical advantages.
 
-For the current crisis, Bahrazad is planning something the Tîgh'Savâran has never attempted: a coordinated strike deep into Shirzâri territory to recover the captives. This is not a raid—it is a rescue operation, which means the warband cannot simply hit and run. They must find the captives, extract them, and retreat across thirty miles of hostile steppe before the Shirzâri can muster a response force that outnumbers them three to one.
+For the current crisis, Bahrazad is planning something the Tigh'Savaran has never attempted: a coordinated strike deep into Shirzari territory to recover the captives. This is not a raid—it is a rescue operation, which means the warband cannot simply hit and run. They must find the captives, extract them, and retreat across thirty miles of hostile steppe before the Shirzari can muster a response force that outnumbers them three to one.
 
-Kâvezhân's reconnaissance has identified two possible locations where the captives are being held. Bahrazad is weighing his options: a single decisive strike with the full warband, or a diversionary attack on one location while a smaller team infiltrates the other. Either plan requires precise timing, and neither plan accounts for what happens if the captives have been moved.
+Kavezhan's reconnaissance has identified two possible locations where the captives are being held. Bahrazad is weighing his options: a single decisive strike with the full warband, or a diversionary attack on one location while a smaller team infiltrates the other. Either plan requires precise timing, and neither plan accounts for what happens if the captives have been moved.
 
 Combat training is continuous and brutal. Wrestling, archery while riding, spear techniques, and the complex maneuvers required for coordinated cavalry are drilled obsessively. The stakes are too high for anything less than perfection.
 
@@ -134,28 +134,28 @@ Combat training is continuous and brutal. Wrestling, archery while riding, spear
 
 The band maintains warrior solidarity, but the crisis has exposed fault lines that peacetime concealed:
 
-- **Shirvand's fury** is the most immediate danger. His daughter is with the Shirzâri, and his judgment is compromised. He has twice advocated for reckless action that would have gotten the warband killed. Bahrazad has kept him in check so far, but blood-brotherhood has limits, and Shirvand may act on his own if he feels Bahrazad is moving too slowly.
-- **Torvâsh's dissent** is principled and quiet, which makes it more dangerous than shouting. He believes the ransom should have been paid—that the captives' lives matter more than the tribe's pride—and that Bahrazad's refusal to negotiate was driven by ego, not strategy. He has not said this openly, but the younger warriors are starting to listen to his grumbling.
-- **Razâshar's debts** to a Dûrmand horse-trader are a security risk. If the Dûrmand learn of the planned Shirzâri strike through Razâshar's creditor, the entire operation could be betrayed. Bahrazad knows about the debts but not about the specific creditor, and Razâshar is too proud to confess.
+- **Shirvand's fury** is the most immediate danger. His daughter is with the Shirzari, and his judgment is compromised. He has twice advocated for reckless action that would have gotten the warband killed. Bahrazad has kept him in check so far, but blood-brotherhood has limits, and Shirvand may act on his own if he feels Bahrazad is moving too slowly.
+- **Torvash's dissent** is principled and quiet, which makes it more dangerous than shouting. He believes the ransom should have been paid—that the captives' lives matter more than the tribe's pride—and that Bahrazad's refusal to negotiate was driven by ego, not strategy. He has not said this openly, but the younger warriors are starting to listen to his grumbling.
+- **Razashar's debts** to a Durmand horse-trader are a security risk. If the Durmand learn of the planned Shirzari strike through Razashar's creditor, the entire operation could be betrayed. Bahrazad knows about the debts but not about the specific creditor, and Razashar is too proud to confess.
 - **Rostadar's spiritual authority** is growing, and some warriors consult him before major decisions—not instead of Bahrazad, but in addition to him. The shaman's apprentice denies any political ambition, but his influence over the tribe's morale and the dovaq's favor gives him a power base that could rival the war captain's.
 - **Armanad's desperation** makes him the most dangerous warrior in the band—not because of his skill, but because he will not retreat if retreating means leaving his wife and son behind. In a rescue operation, a man who cannot withdraw is a liability.
 
-The band functions well as a unit, but Bahrazad's grip on authority depends on success. If the rescue fails—or worse, if warriors die and the captives are not recovered—the Tîgh'Savâran will fracture, and the Zarnûsh tribe will follow.
+The band functions well as a unit, but Bahrazad's grip on authority depends on success. If the rescue fails—or worse, if warriors die and the captives are not recovered—the Tigh'Savaran will fracture, and the Zarnush tribe will follow.
 
 ## Plot Hooks
 
-- **The Rescue.** Bahrazad is preparing the most dangerous operation in Zarnûsh history: a strike deep into Shirzâri territory to recover kidnapped women and children. He needs additional fighters—ideally, outsiders whose faces the Shirzâri will not recognize. Payment is in horses, water rights, and the gratitude of a tribe that never forgets a debt.
-- **The Dûrmand Betrayal.** Razâshar's gambling debts have come due. His Dûrmand creditor—a horse-trader named Shâbâr Gorâvân—is demanding payment in information: the Zarnûsh's well locations, patrol routes, and the timing of Bahrazad's planned strike. Razâshar has not yet agreed, but he has not refused either. If the party learns of this before Bahrazad does, they face a choice: expose the betrayal and destroy the warband's cohesion before the rescue, or handle it quietly and risk the information leaking anyway.
-- **The Dovaq's Doubt.** The aging dovaq Tîman is losing faith in Bahrazad's plan. He has been in quiet communication with the Âzardan, exploring the possibility of vassalage—surrendering the Zarnûsh's independence in exchange for Âzardan military protection. If the Tîgh'Savâran learns that their dovaq is negotiating the tribe's extinction while they prepare to die for it, the result could be mutiny, desertion, or a challenge to the dovaq's authority that tears the tribe apart.
-- **The Blood Price.** Shirvand's daughter Fazhina has been offered in marriage to a Shirzâri chieftain's son—a political alliance that would end the hostility but permanently absorb the captives into the Shirzâri. The Shirzâri have sent a messenger to the Zarnûsh with this "generous offer." Shirvand considers it an act of war. Torvâsh considers it the best deal they are likely to get. The warband is divided, and Bahrazad must decide before the offer expires.
-- **The Oasis Road.** A merchant caravan from Tarûzel is crossing Zarnûsh territory, heading east. The caravan master carries goods worth a fortune by steppe standards—weapons, textiles, spices—and the caravan guard is light. Bahrazad has always maintained the Zarnûsh's reputation as reliable protectors of trade (the caravan tolls are a vital income source), but the warband needs weapons and supplies desperately. Some warriors are arguing that one robbery would fund the entire rescue operation. The question is whether the short-term gain is worth the permanent loss of caravan revenue—and the Zarnûsh's honor.
+- **The Rescue.** Bahrazad is preparing the most dangerous operation in Zarnush history: a strike deep into Shirzari territory to recover kidnapped women and children. He needs additional fighters—ideally, outsiders whose faces the Shirzari will not recognize. Payment is in horses, water rights, and the gratitude of a tribe that never forgets a debt.
+- **The Durmand Betrayal.** Razashar's gambling debts have come due. His Durmand creditor—a horse-trader named Shabar Goravan—is demanding payment in information: the Zarnush's well locations, patrol routes, and the timing of Bahrazad's planned strike. Razashar has not yet agreed, but he has not refused either. If the party learns of this before Bahrazad does, they face a choice: expose the betrayal and destroy the warband's cohesion before the rescue, or handle it quietly and risk the information leaking anyway.
+- **The Dovaq's Doubt.** The aging dovaq Timan is losing faith in Bahrazad's plan. He has been in quiet communication with the Azardan, exploring the possibility of vassalage—surrendering the Zarnush's independence in exchange for Azardan military protection. If the Tigh'Savaran learns that their dovaq is negotiating the tribe's extinction while they prepare to die for it, the result could be mutiny, desertion, or a challenge to the dovaq's authority that tears the tribe apart.
+- **The Blood Price.** Shirvand's daughter Fazhina has been offered in marriage to a Shirzari chieftain's son—a political alliance that would end the hostility but permanently absorb the captives into the Shirzari. The Shirzari have sent a messenger to the Zarnush with this "generous offer." Shirvand considers it an act of war. Torvash considers it the best deal they are likely to get. The warband is divided, and Bahrazad must decide before the offer expires.
+- **The Oasis Road.** A merchant caravan from Taruzel is crossing Zarnush territory, heading east. The caravan master carries goods worth a fortune by steppe standards—weapons, textiles, spices—and the caravan guard is light. Bahrazad has always maintained the Zarnush's reputation as reliable protectors of trade (the caravan tolls are a vital income source), but the warband needs weapons and supplies desperately. Some warriors are arguing that one robbery would fund the entire rescue operation. The question is whether the short-term gain is worth the permanent loss of caravan revenue—and the Zarnush's honor.
 
-## Using the Tîgh'Savâran
+## Using the Tigh'Savaran
 
 The warband works well as:
 
 - A recurring presence for characters crossing steppe territory—sometimes threatening, sometimes welcoming, always watchful
-- A potential alliance against a common enemy, particularly the Shirzâri or an external threat to steppe independence
+- A potential alliance against a common enemy, particularly the Shirzari or an external threat to steppe independence
 - A source of detailed information about steppe politics, tribal rivalries, and the hidden geography of the Khazryn
 - A combat encounter that demonstrates the lethality of organized mounted warriors
 - A moral complexity: they are not bandits—they are warriors fighting for their tribe's survival using culturally legitimate methods

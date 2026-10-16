@@ -242,7 +242,7 @@ The sky over the gulf was clear at noon. Now a wall of black cloud stands out ov
 
 # Dossier {#dossier}
 
-The Stormseer is an air elemental of storm and lightning: a spirit of the sky manifested as a great eagle of thundercloud and electricity, thirty feet or more across the wings, which rides storms and makes them, attacks with lightning, wind and thunder, and regards everything that walks or sails as beneath its notice. It is intelligent and arrogant. One haunts the [[place-batarengulf|Gulf of Batáren]], the one deep harbor on Provènzia's cold ocean coast, and the sea-roads north from it toward Élavendre and Aelwyth. The fishermen and the shipmasters of [[place-batarencity|Batáren City]] believe that the stormseer brings the storms that close the gulf, and the belief is hard to argue with. Like every elemental, it can be destroyed in the material world, and it comes back with the next great storm.
+The Stormseer is an air elemental of storm and lightning: a spirit of the sky manifested as a great eagle of thundercloud and electricity, thirty feet or more across the wings, which rides storms and makes them, attacks with lightning, wind and thunder, and regards everything that walks or sails as beneath its notice. It is intelligent and arrogant. One haunts the [[place-batarengulf|Gulf of Bataren]], the one deep harbor on Provenzia's cold ocean coast, and the sea-roads north from it toward Élavendre and Aelwyth. The fishermen and the shipmasters of [[place-batarencity|Bataren City]] believe that the stormseer brings the storms that close the gulf, and the belief is hard to argue with. Like every elemental, it can be destroyed in the material world, and it comes back with the next great storm.
 
 ## Presentation
 
@@ -250,7 +250,7 @@ The stormseer is shaped like a great eagle, but its body is cloud: dark, roiling
 
 ## In the Land
 
-The Gulf of Batáren is a broad, deep, sheltered bay biting inland from the cold ocean, and everything that comes there comes down from Élavendre and Aelwyth and out of the northern seas. The stormseer ranges over the gulf and the open ocean beyond it, and over the cliff coast to either side, and it comes in with the autumn and winter storms. It seems to claim the sky over the gulf and the weather in it as its own: when it is there, storms come in against the forecast and stay longer than they should, and the harbor is closed. It roosts, if it roosts at all, in the storm clouds themselves, and in calm weather it is not seen.
+The Gulf of Bataren is a broad, deep, sheltered bay biting inland from the cold ocean, and everything that comes there comes down from Élavendre and Aelwyth and out of the northern seas. The stormseer ranges over the gulf and the open ocean beyond it, and over the cliff coast to either side, and it comes in with the autumn and winter storms. It seems to claim the sky over the gulf and the weather in it as its own: when it is there, storms come in against the forecast and stay longer than they should, and the harbor is closed. It roosts, if it roosts at all, in the storm clouds themselves, and in calm weather it is not seen.
 
 ## Key Behaviors
 
@@ -258,7 +258,7 @@ A stormseer is territorial about the sky and the weather. It understands what me
 
 ## What the Harbor Does
 
-Batáren City lives by the gulf, and its shipmasters have made the stormseer part of their calendar. When the stormseer is seen over the harbor mouth, no ship sails, whatever the cargo and whatever the merchant who chartered it says, and the harbor-master closes the boom. Ships caught at sea run for the gulf with their masts struck, because a mast in a stormseer's storm draws lightning. The great houses of the city have fitted their towers with iron rods that run down to the ground, and the harbor's warehouses have them too. The sailors leave an offering of salt on the end of the mole before every winter voyage; the [[affiliation-arldnpnthn|Aurèldían]] priests disapprove of the salt and bless the ships anyway. Nordheim raiders came into this gulf two centuries ago, and the old men of the harbor say a stormseer would have kept them out if it had been watching.
+Bataren City lives by the gulf, and its shipmasters have made the stormseer part of their calendar. When the stormseer is seen over the harbor mouth, no ship sails, whatever the cargo and whatever the merchant who chartered it says, and the harbor-master closes the boom. Ships caught at sea run for the gulf with their masts struck, because a mast in a stormseer's storm draws lightning. The great houses of the city have fitted their towers with iron rods that run down to the ground, and the harbor's warehouses have them too. The sailors leave an offering of salt on the end of the mole before every winter voyage; the [[affiliation-arldnpnthn|Aureldian]] priests disapprove of the salt and bless the ships anyway. Nordheim raiders came into this gulf two centuries ago, and the old men of the harbor say a stormseer would have kept them out if it had been watching.
 
 ## Signs
 

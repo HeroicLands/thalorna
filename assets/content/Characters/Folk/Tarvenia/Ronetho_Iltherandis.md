@@ -1,9 +1,9 @@
 ---
 shortcode: ronethoilthe
-name: {full: Ronétho Iltherándis, aliases: [Bishop Ronétho]}
+name: {full: Ornetho Iltheris, aliases: [Bishop Ornetho]}
 type: being
 subType: npc
-description: A high-ranking member of the formal priesthood who visits Nebrális with orders to reform the temple's work, named in Aléthra Torvaleth.
+description: A high-ranking member of the formal priesthood who visits Nebralis with orders to reform the temple's work, named in Alethra Torvaleth.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ronétho Iltherándis is a 55-year-old man who stands 5'11" tall with a heavy build. He has tanned skin, weathered complexion, dark brown hair, and amber eyes.
+Ornetho Iltheris is a 55-year-old man who stands 5'11" tall with a heavy build. He has tanned skin, weathered complexion, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Ronétho Iltherándis is a bishop and a high-ranking member of the formal priesthood. He visited Nebrális and was scandalized by the informal, unstructured approach of [[being-althrtrvlth|Aléthra Torvaleth]], and has recommended closer oversight of her and the redirection of her temple's funding toward formally trained clergy. He proposes consolidating the temple's informal healing and mediation roles into formal positions.
+Ornetho Iltheris is a bishop and a high-ranking member of the formal priesthood. He visited Nebralis and was scandalized by the informal, unstructured approach of [[being-althrtrvlth|Alethra Torvaleth]], and has recommended closer oversight of her and the redirection of her temple's funding toward formally trained clergy. He proposes consolidating the temple's informal healing and mediation roles into formal positions.

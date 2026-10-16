@@ -453,13 +453,13 @@ Thilmselda's primary drive is to create a space of true sanctuary in a world of 
 
 ### Patrons
 
-Jarl Knalthann Hrandidrokh
+Jarl Knalthann Hrandidrok
 : The regional noble whose lands surround her inn depends on her for hospitality during his frequent hunting expeditions; he has granted her a charter protecting her establishment.
 
-Lin'Zuwaret elu Aû'Khelâthu of Targud
+Lin'Zuwaret elu Au'Khelathu of Targud
 : Several wealthy merchant families use her inn as a neutral meeting ground for negotiations; they value both her discretion and her excellent wine cellars.
 
-Braldvir Thalmumakh
+Braldvir Thalmumak
 : The head of the regional brewers' guild maintains a close relationship with Thilmselda, supplying her with the finest ales and meads, and relying on her recommendations to advance his reputation.
 
 ### Enemies

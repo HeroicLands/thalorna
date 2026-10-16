@@ -16,13 +16,13 @@ data:
 
 ## Overview
 
-Past the last fence at Nalthmark a traveler is in nobody's writ, and the palisade watchmen are paid to say where that begins. Nalthmark sits where [[place-nordheim|Nordheim]]'s claim runs out. The name pairs _nalth-_, the last hour of a watch, with _-mark_, ground held at an edge, and the place is the last reckoned boundary before the land turns to country that no hersvald's writ reaches and no bóndi has fenced. The road beyond it runs down to [[place-hrindstead|Hrindstead]] and the forest frontier.
+Past the last fence at Nalthmark a traveler is in nobody's writ, and the palisade watchmen are paid to say where that begins. Nalthmark sits where [[place-nordheim|Nordheim]]'s claim runs out. The name pairs _nalth-_, the last hour of a watch, with _-mark_, ground held at an edge, and the place is the last reckoned boundary before the land turns to country that no hersvald's writ reaches and no bundi has fenced. The road beyond it runs down to [[place-hrindstead|Hrindstead]] and the forest frontier.
 
-Two hundred and fifty people hold the frontier farms and the single palisaded yard that gives them somewhere to stand together when the plateau clans, or something worse, come down out of the high country. [[being-vrldrvdrtgr|Vruldorv Dróttgar]] is one of several who stand a paid watch on that yard instead of farming it.
+Two hundred and fifty people hold the frontier farms and the single palisaded yard that gives them somewhere to stand together when the plateau clans, or something worse, come down out of the high country. [[being-vrldrvdrtgr|Vruldorv Drottgar]] is one of several who stand a paid watch on that yard instead of farming it.
 
 ## Holding the Line
 
-Nalthmark answers to the [[lore-hersvaldrnk|hersvald]] of the wider district, who visits seldom enough that the settlement settles most of its own disputes by custom before troubling him. A farmer like [[being-krldrvdrtgr|Kruldorv Dróttgar]] reckons a bad season less against the market at [[place-raltholm|Raltholm]] than against whether the mark holds its line for one more year. [[being-hvrnvrstrmrt|Hvurnvir Stormrót]] fishes the cold water below the settlement when the weather allows, which is not every year, and the margin between a catch and a hungry winter is thinner here than anywhere closer to [[place-knalthstead|Knalthstead]].
+Nalthmark answers to the [[lore-hersvaldrnk|hersvald]] of the wider district, who visits seldom enough that the settlement settles most of its own disputes by custom before troubling him. A farmer like [[being-krldrvdrtgr|Kruldorv Drottgar]] reckons a bad season less against the market at [[place-raltholm|Raltholm]] than against whether the mark holds its line for one more year. [[being-hvrnvrstrmrt|Hvurnvir Stormrót]] fishes the cold water below the settlement when the weather allows, which is not every year, and the margin between a catch and a hungry winter is thinner here than anywhere closer to [[place-knalthstead|Knalthstead]].
 
 Nalthmark's quarrel with its own hersvald is the frontier's oldest. A district that measures its worth by what it holds against the wild has to be paid for holding it, and a hersvald counting silver against three other demands does not always agree how much that is worth.
 

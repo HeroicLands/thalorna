@@ -25,5 +25,5 @@ A priest of [[lore-qeztudty|Qeztu]] in the chief temple gives a newly posted off
 
 - [[affiliation-selatbelgnzl|The Selat of Belgen-Zalu]]—Parent selat
 - [[affiliation-borderselatu|The Border Selatu]]—Selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
 - [[affiliation-qeztu|Faith of Qeztu]]—Patron cult

@@ -23,12 +23,12 @@ data:
       A captain swears his company into the Compact before the Council of the Hall and becomes a Signed Captain outright; the Council also discharges a captain in disgrace by vote, and elects the Speaker of the Compact from among its own for a five-year term.
     ranks:
       - level: 0
-        title: Bandalagsvargr
+        title: Bandlagsvargr
         lore: dischargedrnk
         description: >-
-          The league's outlaw, cast out of the Compact that received his company. Expelled by Council vote, the bandalagshringr surrendered and the company's contracts dishonored, its hostels closed and its old debts settled by rivals the Compact will not restrain.
+          The league's outlaw, cast out of the Compact that received his company. Expelled by Council vote, the bandlagshringr surrendered and the company's contracts dishonored, its hostels closed and its old debts settled by rivals the Compact will not restrain.
       - level: 1
-        title: Bandalagsmadr
+        title: Bandlagsmadr
         lore: companyswornrnk
         description: >-
           A man on the league's roll through the oath of his signed company. A common warrior testified by his captain rather than sworn directly to the Compact, holding its truce and a legible oath when he crosses from one signed company to another.
@@ -36,12 +36,12 @@ data:
         title: Signed Captain
         lore: signedcaptnrnk
         description: >-
-          Swears the company into the Compact before the Council of the Hall, wears the bandalagshringr, and answers before the Council for the company's conduct under its oath.
+          Swears the company into the Compact before the Council of the Hall, wears the bandlagshringr, and answers before the Council for the company's conduct under its oath.
     offices:
       Speaker of the Compact: >-
         Elected by the Council of the Hall for a five-year term; one position, holding the Compact's day-to-day administration.
       Council of the Hall: >-
-        Nine seats: three held by the longest-standing signed companies, three rotating and elected from junior signed companies, and three reserved for the grákáppar, retired captains of particular standing.
+        Nine seats: three held by the longest-standing signed companies, three rotating and elected from junior signed companies, and three reserved for the grákappar, retired captains of particular standing.
   seat: hringstead
   population: null
   economy: []
@@ -62,7 +62,7 @@ The Málalidabandalag, the "Pay-Troop Compact" in the north's own speech, is the
 
 ## Why the Compact Exists
 
-The Nordlands have always produced more warriors than their kingdoms can use. Younger sons, dispossessed jarls, oath-broken huscarls and drengr without a hall take ship and hire out their swords, and they have done so for centuries. The Compact grew up around that trade, and [[lore-compactsignd|The Signing of the Compact]] tells how. It is the agreement under which the free companies, the _frjálsalid_, operate.
+The Nordlands have always produced more warriors than their kingdoms can use. Younger sons, dispossessed jarls, oath-broken huscarls and dreng without a hall take ship and hire out their swords, and they have done so for centuries. The Compact grew up around that trade, and [[lore-compactsignd|The Signing of the Compact]] tells how. It is the agreement under which the free companies, the _frjálsalid_, operate.
 
 A captain who signs it swears four things: his company accepts the Compact's rulings on contract disputes, it will not break sworn terms with an employer, it will not take a contract against another signed company without notice, and it will pay the Compact's annual due in silver or, in lean years, in shields and oarsmen for the Hall's own defense.
 
@@ -70,17 +70,17 @@ Ask the Council what it does and you get a short answer. The Compact fields no t
 
 ## How a Company Signs
 
-You come to the Hall with your muster named and your oath ready. A company joins by its captain's oath and its named muster, sworn before the Council of the Hall. The Council has nine seats: three held by the longest-standing signed companies, three rotating seats elected from the junior signed companies, and three reserved for retired captains of particular standing, the _grákáppar_ (gray champions). It meets four times a year, at the Compact's gathering-feasts.
+You come to the Hall with your muster named and your oath ready. A company joins by its captain's oath and its named muster, sworn before the Council of the Hall. The Council has nine seats: three held by the longest-standing signed companies, three rotating seats elected from the junior signed companies, and three reserved for retired captains of particular standing, the _grákappar_ (gray champions). It meets four times a year, at the Compact's gathering-feasts.
 
 The Compact confers three standings:
 
-- A Signed Captain swore his company in before the Council. He wears the _bandalagshringr_ and answers to the Council for his company's conduct.
+- A Signed Captain swore his company in before the Council. He wears the _bandlagshringr_ and answers to the Council for his company's conduct.
 - A warrior of his company holds the lesser standing of Sworn of a Signed Company. He is testified by his captain's oath rather than sworn to the Compact directly, and he is bound by whatever his captain swore on the company's behalf.
 - A captain who breaks the Compact's rules is Discharged in Disgrace by Council vote. His ring is surrendered, his company's contracts are dishonored, and its old debts pass to rivals the Compact will not restrain.
 
 Day to day, the **Speaker of the Compact**, the _Bandalagstalsmadr_, runs the Hall. The Council elects the Speaker for a five-year term, and the present Speaker is **Hrindvir Vetreldr**, a one-eyed veteran of the [[lore-vthgrdsccwrs|Vithgard succession wars]], widely respected and very much feared.
 
-Thirty-four signed companies of meaningful size answer to the Hall, from twelve-sword scouting bands to the Hringstead Long-Ship Fellowship, which counts nearly four hundred warriors and twelve ships. The largest signed company in living memory was the [[lore-stormhandfld|Stormhand Brotherhood]], six hundred swords, broken about 692 in western [[place-vrystwald|Vrystwald]], a week's march over the frontier, on a Nordheim jarl's contract. People still tell its story as a caution.
+Thirty-four signed companies of meaningful size answer to the Hall, from twelve-sword scouting bands to the Hringstead Long-Ship Fellowship, which counts nearly four hundred warriors and twelve ships. The largest signed company in living memory was the [[lore-stormhandfld|Stormhand Brotherhood]], six hundred swords, broken about 692 in western [[place-vrystwald|Vristwald]], a week's march over the frontier, on a Nordheim jarl's contract. People still tell its story as a caution.
 
 Not every company signs. Some bands are small, regional or notorious; they never apply, or the Compact refuses them. An unsigned company is not illegal, but it works without the Compact's protection or testimony, and an employer who hires one has chosen a worse warranty and knows the price of it.
 
@@ -99,24 +99,24 @@ The rules are short, and a captain who breaks any of them faces expulsion. In th
 - The Hringstead Long-Ship Fellowship is the largest signed company and the Hall's semi-permanent garrison, under Captain Vrildselda Eldskari.
 - The **Wolves of Vithgard** are long-standing inland heavy infantry whose specialty is sieges.
 - [[affiliation-threskaett|Threskaett]] of [[place-norgaad|Norgaad]] began as coastal raiders and now works as a legitimate naval contractor, chiefly for the merchant kings of [[place-aelwyth|Aelwyth]].
-- The **Iron-Beard Company** is small, elite and expensive, and the only signed company that works routinely outside the Nordlands. It has taken contracts as far south as [[place-helionis|Heliónis]].
+- The **Iron-Beard Company** is small, elite and expensive, and the only signed company that works routinely outside the Nordlands. It has taken contracts as far south as [[place-helionis|Helionis]].
 
-The [[affiliation-blckpnwlvs|Blackpine Wolves]] of Vrystwald are the best-known unsigned company. The Compact refused them for repeated oath-breaking under their previous captain.
+The [[affiliation-blckpnwlvs|Blackpine Wolves]] of Vristwald are the best-known unsigned company. The Compact refused them for repeated oath-breaking under their previous captain.
 
 ## Who Deals with the Compact
 
 - **[[place-nrdlndsrgn|The five Nordland crowns]]** are clients and protectors. Each kingdom hires from the Compact regularly and permits signed companies to recruit within its borders, and together they guarantee the Hall's neutrality.
 - **The [[affiliation-skaldscrcl|Skalds' Circle]]** and the Compact extend each other formal hospitality and recognition. A skald is welcome at any signed company's fire. Skalds carry company histories, sing the deaths of fallen captains and serve as messengers between the Hall and its scattered companies.
-- **The [[affiliation-ordoarcanis|Thôrdimâlon]]** is held at arm's length. The Arcane Order has tried twice to charter its own military arm in the Nordlands and was refused both times, and the Compact treats Arcane Order presence in its hiring markets as an intrusion to be managed.
+- **The [[affiliation-ordoarcanis|Thordimalon]]** is held at arm's length. The Arcane Order has tried twice to charter its own military arm in the Nordlands and was refused both times, and the Compact treats Arcane Order presence in its hiring markets as an intrusion to be managed.
 - **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**, the [[affiliation-graytide|Gray Tide]] above all, get no contracts. The Compact expels any member caught dealing with them, and the Gray Tide answers by undercutting Compact prices on coastal contracts wherever it can.
 
 ## The Ring
 
-A signed captain wears a heavy bronze ring on the right thumb, the _bandalagshringr_, bearing the Compact's mark and his own sigil. The Council awards it at the swearing and takes it back at expulsion. Common warriors wear no Compact mark beyond their company's own; their captain testifies to their standing.
+A signed captain wears a heavy bronze ring on the right thumb, the _bandlagshringr_, bearing the Compact's mark and his own sigil. The Council awards it at the swearing and takes it back at expulsion. Common warriors wear no Compact mark beyond their company's own; their captain testifies to their standing.
 
 ## Trouble to Hand
 
 - **The Expelled Captain.** The Council has voted a captain of a long-signed company out for an act he swears a foreign employer forced on him. He wants reinstatement and the Council is divided. The employer, hearing of the expulsion, moves to gather the disbanded warriors into a new, unsigned company on foreign pay.
 - **The Hall Truce Broken.** A man has been killed at Hringstead during a gathering-feast, and the Council convenes at once. Nothing can excuse the killing, but the killer's company is one of the largest signed and its employer is a king who needs it in the field within the month.
 - **The Crown's Demand.** The new King of Norgaad wants the Compact to refuse any contract from his rivals this season. To accept compromises the Compact's neutrality and risks splitting it; to refuse invites him to revoke the Compact's standing in his realm.
-- **The Foreign Bid.** A Vylarian merchant prince, working through intermediaries, offers an enormous standing retainer if signed companies take no Vrystwald contracts for three years. The offer plainly aims to clear the field for Vylarian operations. The silver is staggering, and the Council deliberates.
+- **The Foreign Bid.** A Vylarian merchant prince, working through intermediaries, offers an enormous standing retainer if signed companies take no Vristwald contracts for three years. The offer plainly aims to clear the field for Vylarian operations. The silver is staggering, and the Council deliberates.

@@ -1,9 +1,9 @@
 ---
 shortcode: khazararrv
-name: {full: The Coming of the Khazári, aliases: [The Arrival of the Seven Clans]}
+name: {full: The Coming of the Khazari, aliases: [The Arrival of the Seven Clans]}
 type: lore
 subType: history
-description: "The Khazári reach Thalorna around 5300 BF as seven clans, two thousand years after the Sinalë, and find a world whose humans are hunter-gatherers and cannot provision a hold."
+description: "The Khazari reach Thalorna around 5300 BF as seven clans, two thousand years after the Sinale, and find a world whose humans are hunter-gatherers and cannot provision a hold."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [lore-flkkhazar, place-ankrscntnnt, lore-vardain, lore-khazarturn]
       summary: >-
-        The Khazári reach Thalorna from Humadhan, a realm they seldom speak of, two thousand years after the Sinalë and as seven clans fleeing with their god Luváth. They take to the mountains and begin cutting holds. A hold grows nothing and will not be supplied from outside, and the humans they find are hunter-gatherers who cannot provision anybody.
+        The Khazari reach Thalorna from Humadhan, a realm they seldom speak of, two thousand years after the Sinale and as seven clans fleeing with their god Luváth. They take to the mountains and begin cutting holds. A hold grows nothing and will not be supplied from outside, and the humans they find are hunter-gatherers who cannot provision anybody.
       standing: single-source
       where:
         locus: [place-worldthlrn]
@@ -30,30 +30,30 @@ data:
           agrees: partly
           withholds: the tale of Humadhan beyond its outline, which they seldom tell
         - by: lore-flksinale
-          says: Nothing. The Sinalë will not speak of the Khazári at all.
+          says: Nothing. The Sinale will not speak of the Khazari at all.
           agrees: silent
       unresolved:
-        - how long after the Sinalë they followed, which the oldest mountain traditions put at roughly two thousand years and nobody holds more closely
+        - how long after the Sinale they followed, which the oldest mountain traditions put at roughly two thousand years and nobody holds more closely
 ---
 
-The [[lore-flkkhazar|Khazári]] came after the [[lore-flksinale|Sinalë]]—the Second People, as some
+The [[lore-flkkhazar|Khazari]] came after the [[lore-flksinale|Sinale]]—the Second People, as some
 traditions call them. They came from another realm, which they call **Humadhan**, "the middle place".
 They seldom speak of it, and what they say is a tale rather than a record.
 
 The tale tells of a great war in Humadhan between the powers of good and evil. Rings were forged in
-that war that warp the mind and the soul, and the Khazári call them **Dagarakurágh**, "the
+that war that warp the mind and the soul, and the Khazari call them **Dagarakurágh**, "the
 ringing-round of forcing": rings that force a mind and a soul against their grain, as a bad mason forces rock. One ring is a _kirghath_, and rings are
-_kirghathez_. Some were given to the Khazári's ancestors, and the rings corrupted them. Seven clans fled
+_kirghathez_. Some were given to the Khazari's ancestors, and the rings corrupted them. Seven clans fled
 to Thalorna with their god [[lore-goddreams|Luváth]], and that flight is the crossing, the _khadhal_,
 of about 5300 BF.
 
-The flight had a leader, and the Khazári hold him to be the one who saved their people. **Puthakun**,
+The flight had a leader, and the Khazari hold him to be the one who saved their people. **Puthakun**,
 a servant of Luváth, led the seven clans out of Humadhan, and his name carries the charge "to open a
 way". Before the crossing he had every one of the clans swear before the god.
 When pursuit came after them, he stood at the passage and held the pursuers there until the last of
 the seven was through, and then he sealed the way behind them, so that nothing of Humadhan followed
 the clans into Thalorna. Every Khazár alive descends from someone Puthakun brought out alive, and
-that is the whole reason the Khazári venerate him: as their savior, the one who did the deed, whose
+that is the whole reason the Khazari venerate him: as their savior, the one who did the deed, whose
 name is kept, remembered below and answered with good work. Luváth they recognize as his master and
 as the light kept below. The deed is carried in the tellings; the record of the crossing counts the
 seven clans head for head and holds no entry for anyone else.
@@ -70,10 +70,10 @@ for the master craft it holds, in the mastery frame of [[skill-khazarlng|the lan
 - **Lummáv**—the record: the archive and the account.
 
 The houses of a clan hold crafts within its own, and each clan later held one of the seven towers of
-[[lore-khazarturn|Khazártúrn]]. Clan and house names are patrilineal, the genealogies are kept as
+[[lore-khazarturn|Khazartúrn]]. Clan and house names are patrilineal, the genealogies are kept as
 carefully as the craft-records, and every line on Thalorna traces to one of the seven.
 
 For a long span afterward the two Elder Races lived and worked together, under what fragmentary
-tradition calls the Old Compact: the Sinalë crafting in forest and starlight, the Khazári in stone and
+tradition calls the Old Compact: the Sinale crafting in forest and starlight, the Khazari in stone and
 flame, and between them wonders neither could have made alone. Neither people will say when it began,
 and one of them will not say anything at all.

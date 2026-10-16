@@ -215,7 +215,7 @@ After dark a whooping laugh breaks out of the grass, rising to a scream, and is 
 
 # Dossier {#dossier}
 
-The Hyena is the clan-living carnivore of the dry country, thirty inches at the shoulder and ninety to a hundred sixty pounds, with a back that slopes from high shoulders to low hips. Clans hold ground in the savanna of the [[place-sthrnsvnhs|Southern Savannahs]], the desert margin of [[place-aukhelathrgq|Aû'Khelâthu]] and the grass and badlands of the [[place-khzryndsrtrgn|Khazryn]], where the Mega Hyena also hunts. They are as much hunters as scavengers, and break up bone that no other large predator can stomach.
+The Hyena is the clan-living carnivore of the dry country, thirty inches at the shoulder and ninety to a hundred sixty pounds, with a back that slopes from high shoulders to low hips. Clans hold ground in the savanna of the [[place-sthrnsvnhs|Southern Savannahs]], the desert margin of [[place-aukhelathrgq|Au'Khelathu]] and the grass and badlands of the [[place-khzryndsrtrgn|Khazryn]], where the Mega Hyena also hunts. They are as much hunters as scavengers, and break up bone that no other large predator can stomach.
 
 ## Presentation
 
@@ -223,7 +223,7 @@ A heavy-shouldered animal with a massive head, powerful jaws and teeth that show
 
 ## In the Land
 
-Hyena clans hold ground in the savanna of the [[place-sthrnsvnhs|Southern Savannahs]], the dry scrub and desert margin of [[place-aukhelathrgq|Aû'Khelâthu]] and the grass and badlands of the [[place-khzryndsrtrgn|Khazryn]], where the Mega Hyena also hunts. A clan of a dozen or more keeps a territory of ten square miles around a communal den, hunts at night and follows the big cats to their kills. It marks its borders with dung and scent.
+Hyena clans hold ground in the savanna of the [[place-sthrnsvnhs|Southern Savannahs]], the dry scrub and desert margin of [[place-aukhelathrgq|Au'Khelathu]] and the grass and badlands of the [[place-khzryndsrtrgn|Khazryn]], where the Mega Hyena also hunts. A clan of a dozen or more keeps a territory of ten square miles around a communal den, hunts at night and follows the big cats to their kills. It marks its borders with dung and scent.
 
 ## Key Behaviors
 

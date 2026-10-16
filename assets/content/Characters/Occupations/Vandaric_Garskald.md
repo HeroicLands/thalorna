@@ -1,6 +1,6 @@
 ---
 shortcode: vndrcgrskld
-name: {full: Vandaric yra Gárskald wur Thornhaven, aliases: []}
+name: {full: Vandarik yra Garskald wur Thornhaven, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Vandaric yra Gárskald wur Thornhaven is a 21-year-old man who stands 6'1" tall and is of moderate build. He has a long face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. His deep-set brown eyes sit beneath heavy brows, lending him a watchful gaze. A strong nose and firm lips complete his features. He has medium-toned skin with a rough complexion. His blonde hair is long and gathered with a leather thong.
+Vandarik yra Garskald wur Thornhaven is a 21-year-old man who stands 6'1" tall and is of moderate build. He has a long face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. His deep-set brown eyes sit beneath heavy brows, lending him a watchful gaze. A strong nose and firm lips complete his features. He has medium-toned skin with a rough complexion. His blonde hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Vandaric came into the world of the ostler through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Vandarik came into the world of the ostler through a combination of circumstance and aptitude.
 
-Vandaric grew up around horses and has always had a natural affinity for caring for them. As an ostler, he manages the stables of a local inn, ensuring that the horses are well-fed, groomed, and ready for travel. Known for his gentle demeanor, Vandaric has a way of calming even the most skittish animals. He takes pride in his work and is respected by both travelers and locals for his expertise in horse care.
+Vandarik grew up around horses and has always had a natural affinity for caring for them. As an ostler, he manages the stables of a local inn, ensuring that the horses are well-fed, groomed, and ready for travel. Known for his gentle demeanor, Vandarik has a way of calming even the most skittish animals. He takes pride in his work and is respected by both travelers and locals for his expertise in horse care.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Can be overly cautious, struggles with conflict.
 
 ### Motivation
 
-Vandaric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in ostler work keep him vigilant and adaptable.
+Vandarik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in ostler work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,7 +417,7 @@ Skilled in animal care, patient, hardworking.
 
 ## Social
 
-Vandaric keeps Thornhaven’s stable ready for river traders, visiting scouts and the War Chief’s riders. Its household answers to the village’s bargains, without an association over it.
+Vandarik keeps Thornhaven’s stable ready for river traders, visiting scouts and the War Chief’s riders. Its household answers to the village’s bargains, without an association over it.
 
 ## Companions
 
@@ -431,12 +431,12 @@ Few; well-liked among the community.
 
 ## Plot Hooks
 
-1. **The Ostler's Dilemma**—Vandaric faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Ostler's Dilemma**—Vandarik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
 
 2. **Old Grudges**—Few; well-liked among the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Vandaric's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Vandarik's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vrystwald threaten to upend the social order that Vandaric depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vristwald threaten to upend the social order that Vandarik depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Vandaric the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Vandarik the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

@@ -411,7 +411,7 @@ sohl:
 
 ![[grlfdrthgr|Garulf yra Druthgar wur Edrgrund]]{float=top-left}
 
-Garulf yra Druthgar wur Edrgrund is an enormous man—six foot four, heavy-boned, and packed with the kind of functional muscle that comes from decades of hard use rather than deliberate training. His brown hair is shaggy and unkempt, his gray eyes are small and watchful beneath a heavy brow, and his nose has been broken so many times it sits at a permanent angle. His hands are massive, scarred across the knuckles, and he moves with the deliberate heaviness of a man who knows his own size and uses it as a weapon. He carries a heavy battleaxe he has named "Vára"—a beautifully crafted weapon that is by far the most valuable thing he owns and the only thing he treats with tenderness.
+Garulf yra Druthgar wur Edrgrund is an enormous man—six foot four, heavy-boned, and packed with the kind of functional muscle that comes from decades of hard use rather than deliberate training. His brown hair is shaggy and unkempt, his gray eyes are small and watchful beneath a heavy brow, and his nose has been broken so many times it sits at a permanent angle. His hands are massive, scarred across the knuckles, and he moves with the deliberate heaviness of a man who knows his own size and uses it as a weapon. He carries a heavy battleaxe he has named "Vara"—a beautifully crafted weapon that is by far the most valuable thing he owns and the only thing he treats with tenderness.
 
 # Dossier {#dossier}
 
@@ -419,19 +419,19 @@ Garulf yra Druthgar wur Edrgrund is an enormous man—six foot four, heavy-boned
 
 ### Origin
 
-Garulf was born on a farmstead in the [[place-vrystwald|Vrystwald]] frontier, the son of Varokh settlers who scratched a living from the dark soil at the forest's edge. Life was brutal and simple—plant, harvest, survive, repeat. Garulf was the largest child anyone in the settlement had ever seen, and by fifteen he was doing the work of two grown men. He had no education, no prospects, and no patience for farming.
+Garulf was born on a farmstead in the [[place-vrystwald|Vristwald]] frontier, the son of Varokh settlers who scratched a living from the dark soil at the forest's edge. Life was brutal and simple—plant, harvest, survive, repeat. Garulf was the largest child anyone in the settlement had ever seen, and by fifteen he was doing the work of two grown men. He had no education, no prospects, and no patience for farming.
 
 ### Mercenary Life
 
-At seventeen, Garulf walked away from the farm and sold the only thing he had—his size and his willingness to hurt people. He worked as a mercenary and occasional brigand across the Vrystwald and its borderlands, taking whatever jobs paid. He developed a reputation as reliable muscle—not brilliant, not subtle, but fearsome in a fight and surprisingly steady when the arrows started flying. He drifted from company to company, always moving on when the work dried up or when he had alienated too many people with his abrasive personality.
+At seventeen, Garulf walked away from the farm and sold the only thing he had—his size and his willingness to hurt people. He worked as a mercenary and occasional brigand across the Vristwald and its borderlands, taking whatever jobs paid. He developed a reputation as reliable muscle—not brilliant, not subtle, but fearsome in a fight and surprisingly steady when the arrows started flying. He drifted from company to company, always moving on when the work dried up or when he had alienated too many people with his abrasive personality.
 
 ### The Incident
 
-Garulf's career as a freelance thug came to an abrupt end when a robbery went catastrophically wrong. He and a partner tried to rob a tax collector traveling under guard. When the guards gave chase, Garulf's partner's horse was shot. Rather than slow down to share his mount, Garulf dumped his partner and galloped away alone. The partner was captured, talked, and Garulf became a wanted man in two provinces. He fled to the coast, signed onto the first ship that would take him, and eventually found his way aboard the Tamzîr.
+Garulf's career as a freelance thug came to an abrupt end when a robbery went catastrophically wrong. He and a partner tried to rob a tax collector traveling under guard. When the guards gave chase, Garulf's partner's horse was shot. Rather than slow down to share his mount, Garulf dumped his partner and galloped away alone. The partner was captured, talked, and Garulf became a wanted man in two provinces. He fled to the coast, signed onto the first ship that would take him, and eventually found his way aboard the Tamzir.
 
-### Aboard the Tamzîr
+### Aboard the Tamzir
 
-Garulf has been the Tamzîr's muscle for eight years. He is not particularly loyal to Bû or to the crew—he is loyal to the coin, to regular meals, and to a place to sleep where nobody is trying to arrest him. But over the years, something has shifted. The crew has become, against his will and his better judgment, something resembling a family. He would never admit this, and he continues to grumble about pay and threaten to leave for better offers. But he has had better offers, and he is still here.
+Garulf has been the Tamzir's muscle for eight years. He is not particularly loyal to Bu or to the crew—he is loyal to the coin, to regular meals, and to a place to sleep where nobody is trying to arrest him. But over the years, something has shifted. The crew has become, against his will and his better judgment, something resembling a family. He would never admit this, and he continues to grumble about pay and threaten to leave for better offers. But he has had better offers, and he is still here.
 
 ## Psyche
 
@@ -459,16 +459,16 @@ None. Garulf has no one and claims to want no one.
 
 ### Enemies
 
-Garulf is wanted in two Vrystwald provinces for robbery and assault. He has made enemies among various mercenary companies and criminal groups over his long career. He owes money to at least three people in different ports.
+Garulf is wanted in two Vristwald provinces for robbery and assault. He has made enemies among various mercenary companies and criminal groups over his long career. He owes money to at least three people in different ports.
 
 ### Affiliations
 
-Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudging, adversarial friendship with most of the crew, particularly irritating [[being-blgnrskn|Belgina Rusâkûnî]] with crude commentary and being quietly disarmed by her persistent cheerfulness.
+Crewman of the **Tamzir**. No other formal affiliations. He maintains a grudging, adversarial friendship with most of the crew, particularly irritating [[being-blgnrskn|Belgina Rusakuni]] with crude commentary and being quietly disarmed by her persistent cheerfulness.
 
 ## Plot Hooks
 
-1. **Vára's Origin**: Someone recognizes Garulf's beloved battleaxe and claims it was stolen from a Vrystwald clan chief's tomb. The claim may be legitimate—Garulf won the axe in a card game years ago and never asked its history. Now a Varokh war party wants it back, and they do not care about the niceties of possession.
+1. **Vara's Origin**: Someone recognizes Garulf's beloved battleaxe and claims it was stolen from a Vristwald clan chief's tomb. The claim may be legitimate—Garulf won the axe in a card game years ago and never asked its history. Now a Varokh war party wants it back, and they do not care about the niceties of possession.
 
-2. **Blood Debt**: The partner Garulf abandoned during the botched robbery survived, served time, and has spent years tracking Garulf down. Now free and vengeful, this former associate knows every port the Tamzîr visits and is closing in.
+2. **Blood Debt**: The partner Garulf abandoned during the botched robbery survived, served time, and has spent years tracking Garulf down. Now free and vengeful, this former associate knows every port the Tamzir visits and is closing in.
 
-3. **Better Offer**: A rival captain offers Garulf triple his current pay to betray the Tamzîr—specifically, to put the ship in a particular location at a particular time. The money is tempting. But the rival's employer is connected to the [[affiliation-ordoarcanis|Thôrdimâlon]], and the real target is [[being-cibelasrnt|Kivellâ Serênthis]]. Garulf must decide what he is willing to sell and what he is not.
+3. **Better Offer**: A rival captain offers Garulf triple his current pay to betray the Tamzir—specifically, to put the ship in a particular location at a particular time. The money is tempting. But the rival's employer is connected to the [[affiliation-ordoarcanis|Thordimalon]], and the real target is [[being-cibelasrnt|Kivella Serenthis]]. Garulf must decide what he is willing to sell and what he is not.

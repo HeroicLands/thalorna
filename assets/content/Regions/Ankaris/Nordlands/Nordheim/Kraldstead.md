@@ -22,9 +22,9 @@ There is no hall here, no hersvald and no ting. Kraldstead's business is settled
 
 ## What the Post Lives On
 
-[[being-flrnvrglrvmkh|Flurnvir Glarvumakh]]'s workbench is the one craft the post supports beyond the ponies and the packers. The jeweler sets amber and northern silver into trade-weight pieces small enough for a courier to carry and sell at either end of the road.
+[[being-flrnvrglrvmkh|Flurnvir Glarvumak]]'s workbench is the one craft the post supports beyond the ponies and the packers. The jeweler sets amber and northern silver into trade-weight pieces small enough for a courier to carry and sell at either end of the road.
 
-What Kraldstead argues about is the toll the landvördr sets on a season's loads. The packers reckon it against the price their goods fetch at [[place-knalthstead|Knalthstead]], and the landvördr reckons it against what the king's hall is owed, an argument the scale never quite settles either way.
+What Kraldstead argues about is the toll the landvordr sets on a season's loads. The packers reckon it against the price their goods fetch at [[place-knalthstead|Knalthstead]], and the landvordr reckons it against what the king's hall is owed, an argument the scale never quite settles either way.
 
 ## See Also
 

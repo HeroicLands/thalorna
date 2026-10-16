@@ -1,20 +1,20 @@
 ---
 shortcode: lowersuvtmpl
-name: {full: The Temple of Lower Suvarnagiri, aliases: []}
+name: {full: The Temple of Lower Suvarnageri, aliases: []}
 type: place
 subType: structure
-description: "The Mahājaya temple at the foot of the mountain where the Bhārava proper begins, with the jewelers' quarter at its gate and the youngest of the three priests in its house."
+description: "The Mahajaya temple at the foot of the mountain where the Bharava proper begins, with the jewelers' quarter at its gate and the youngest of the three priests in its house."
 tags: [sacred, temple, mountain, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-The **temple of Lower Suvarnagiri** stands at the foot of [[place-goldmountain|the Gold Mountain]], where [[place-bharavarivr|the Bhārava]] proper begins. It is the temple outsiders meet, because the road up the valley reaches it first and because the jewelers' quarter is at its gate.
+The **temple of Lower Suvarnageri** stands at the foot of [[place-goldmountain|the Gold Mountain]], where [[place-bharavarivr|the Bharava]] proper begins. It is the temple outsiders meet, because the road up the valley reaches it first and because the jewelers' quarter is at its gate.
 
 Its altar, its fabric and its endowment are the equals of the other two. What it has that they do not is traffic.
 
 ## Its Priest
 
-**Vajranatha Tāmra-Mukha** holds it. He is in his early forties, the youngest of the three by a good margin, recently elevated, and still establishing a voice of his own against two priests who were seniors when he was a student.
+**Vajranatha Tomra-Mukhva** holds it. He is in his early forties, the youngest of the three by a good margin, recently elevated, and still establishing a voice of his own against two priests who were seniors when he was a student.
 
 ## The Gate and the Quarter
 
@@ -24,6 +24,6 @@ Pilgrims and buyers arrive at the same gate, and the temple keeps two courts so 
 
 ## See Also
 
-- [[place-goldmountain|The Gold Mountain]] · [[place-suvarnagiri|Suvarnagiri]] · [[place-bharavarivr|The Bhārava]]
-- [[place-uppersuvtmpl|The Temple of Upper Suvarnagiri]] · [[place-middlesuvtmpl|The Temple of Middle Suvarnagiri]]
-- [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]
+- [[place-goldmountain|The Gold Mountain]] · [[place-suvarnagiri|Suvarnageri]] · [[place-bharavarivr|The Bharava]]
+- [[place-uppersuvtmpl|The Temple of Upper Suvarnageri]] · [[place-middlesuvtmpl|The Temple of Middle Suvarnageri]]
+- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]

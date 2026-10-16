@@ -1,6 +1,6 @@
 ---
 shortcode: knrvrjrnskl
-name: {full: Knarvir Járnskel, aliases: []}
+name: {full: Knarvir Jarnskel, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, mages]
@@ -399,19 +399,19 @@ Knarvir is a compact man, built closer to the squat proportions of the deep moun
 
 # Dossier {#dossier}
 
-Knarvir Járnskel was born to a family of skilled metalworkers and merchants in Thraldfjord, the kind of guilded-class family that occupied the space between common folk and nobility—respected, relatively comfortable, but never quite accepted into the higher tiers of Nordheimn society. His early life seemed ordinary: training in his father's smithcraft, learning the family trade, preparing for a practical merchant's life. But at sixteen, his gift manifested in a way that was catastrophic for a young man in Nordheimn culture.
+Knarvir Jarnskel was born to a family of skilled metalworkers and merchants in Thraldfjord, the kind of guilded-class family that occupied the space between common folk and nobility—respected, relatively comfortable, but never quite accepted into the higher tiers of Nordheimn society. His early life seemed ordinary: training in his father's smithcraft, learning the family trade, preparing for a practical merchant's life. But at sixteen, his gift manifested in a way that was catastrophic for a young man in Nordheimn culture.
 
 Knarvir began to perceive spirits.
 
-Not the approved, formal contacts that the priests of **Ódvar**'s Order of the All-Seeing Eye conducted through sanctioned ritual. Not the divine visions granted to the clergy as instruments of the God's will. But persistent, nearby presences—the spirits of the dead, the genius loci of places, the creatures of the unseen world. And worse, he found he could _communicate_ with them, that they came to him when he slipped into deep trances, that he could bargain with them and draw on their power.
+Not the approved, formal contacts that the priests of **Odvar**'s Order of the All-Seeing Eye conducted through sanctioned ritual. Not the divine visions granted to the clergy as instruments of the God's will. But persistent, nearby presences—the spirits of the dead, the genius loci of places, the creatures of the unseen world. And worse, he found he could _communicate_ with them, that they came to him when he slipped into deep trances, that he could bargain with them and draw on their power.
 
-In [[place-nordheim|Nordheim]], for a man to practice seidr—the shamanic, spirit-walking arts—is to be branded _ergi_, unmanned, a serious cultural transgression. Seidr is women's work, the domain of völvur and seer-priestesses. The few men who practice it exist in a hidden underground, watched by both the official clergy and by society at large. Knarvir understood this immediately, and he chose to hide.
+In [[place-nordheim|Nordheim]], for a man to practice seid—the shamanic, spirit-walking arts—is to be branded _ergi_, unmanned, a serious cultural transgression. Seid is women's work, the domain of velvur and seer-priestesses. The few men who practice it exist in a hidden underground, watched by both the official clergy and by society at large. Knarvir understood this immediately, and he chose to hide.
 
 For thirty years, he lived a double life. Publicly, he was a respectable merchant, well-connected in the trading networks that stretched from Nordheim across the northern seas to distant southern ports. He traveled extensively—which provided excuse for his long absences and explained his command of foreign tongues, far beyond that of typical Nordmen. He brewed beer and cooked; he made friends with foreign merchants and scholars. He kept a workshop ostensibly for metalcraft but actually for the preparation of ritual items: talismans, spirit-vessels, the material apparatus of hidden practice.
 
 And in the depths of his home, in carefully warded chambers, he walked between worlds.
 
-The catalyst for his change came fifteen years ago when a spirit—a particularly powerful one, the shade of an ancient völva—came to him insisting that knowledge was being lost, that the old practices were in danger of complete suppression, that Knarvir had to preserve what he knew. He has spent the intervening years documenting the old rites, gathering forbidden texts, taking on a handful of carefully vetted students—all while maintaining his merchant's cover and attending trade gatherings that mean nothing to him. He is affiliated loosely with [[affiliation-panepistmm|the Plûmepistémion]], which provides scholarly legitimacy and access to libraries, though the Epistémion (the Academy) has no idea what he truly studies.
+The catalyst for his change came fifteen years ago when a spirit—a particularly powerful one, the shade of an ancient velva—came to him insisting that knowledge was being lost, that the old practices were in danger of complete suppression, that Knarvir had to preserve what he knew. He has spent the intervening years documenting the old rites, gathering forbidden texts, taking on a handful of carefully vetted students—all while maintaining his merchant's cover and attending trade gatherings that mean nothing to him. He is affiliated loosely with [[affiliation-panepistmm|the Epistémion]], which provides scholarly legitimacy and access to libraries, though the Epistémion (the Academy) has no idea what he truly studies.
 
 But living this way has taken its toll. He is paranoid—reasonably so. He trusts almost no one. He has lost friends and lovers because he could never fully open himself to them. He suffers from recurring nightmares where his practice is discovered, where the priests come for him, where he is exposed before the thing-assembly and stripped of honor, family, and life. He drinks more than he should, and his hands shake on certain mornings.
 
@@ -427,25 +427,25 @@ The metaphor he uses most often, in the rare moments he is honest about his emot
 
 ## Social
 
-Officially, Knarvir is a respected merchant and sometime scholar of Nordheimn antiquities, loosely affiliated with the Plûmepistémion (the Academy of Knowledge). He has published a few respectable but unremarkable papers on metalcraft traditions and historical trading routes. He maintains a public persona as a somewhat eccentric but ultimately harmless middleman—someone who brings foreign goods and foreign ideas into Nordheim, and whom the authorities tolerate because the trade is economically useful and he causes no visible disruption.
+Officially, Knarvir is a respected merchant and sometime scholar of Nordheimn antiquities, loosely affiliated with the Epistémion (the Academy of Knowledge). He has published a few respectable but unremarkable papers on metalcraft traditions and historical trading routes. He maintains a public persona as a somewhat eccentric but ultimately harmless middleman—someone who brings foreign goods and foreign ideas into Nordheim, and whom the authorities tolerate because the trade is economically useful and he causes no visible disruption.
 
 This cover is solid enough to withstand casual scrutiny. He pays taxes, maintains legitimate business relationships, sits on a minor guild council. He is not rich enough to draw significant attention, not poor enough to seem suspicious. He lives in Thraldfjord, a large trading city, where transience and eccentricity are expected and overlooked.
 
 But beneath this, he is part of an entirely different society: a network of hidden practitioners, most of them women but a handful of men like himself, who maintain the old arts in secret. They meet rarely and with extreme caution. They pass texts and knowledge through carefully obscured channels. It is not quite an organization so much as a loose confederation bound together by a combination of mutual interest and mutual vulnerability—all of them are committing a cultural and perhaps a legal transgression, and if one falls, all may fall.
 
-His relationship with the Plûmepistémion is entirely cynical: he uses their libraries and archives, their legitimacy and their protection, while contributing nothing of his real knowledge. The Epistémion would likely expel him if they understood his true practice, but he is too minor and too useful for them to bother investigating thoroughly.
+His relationship with the Epistémion is entirely cynical: he uses their libraries and archives, their legitimacy and their protection, while contributing nothing of his real knowledge. The Epistémion would likely expel him if they understood his true practice, but he is too minor and too useful for them to bother investigating thoroughly.
 
 ## Companions
 
 ### Patrons and Teachers
 
-**Thurídr of the Deep Roads**, his original teacher and the most powerful völva in the northern underground (though she is now in her eighties and preparing to pass her knowledge on). She is the person Knarvir owes the most—she took him in when he manifested his gifts, taught him to survive and hide, gave him the framework that allowed him to live at all. She is also his greatest source of paranoia; he constantly worries that she is becoming a liability, that her age and visibility are threats to the entire community, that someone will eventually break her and trace the network back to him. His love for her is absolute; his fear that she will bring him down is equally so.
+**Thurídr of the Deep Roads**, his original teacher and the most powerful velva in the northern underground (though she is now in her eighties and preparing to pass her knowledge on). She is the person Knarvir owes the most—she took him in when he manifested his gifts, taught him to survive and hide, gave him the framework that allowed him to live at all. She is also his greatest source of paranoia; he constantly worries that she is becoming a liability, that her age and visibility are threats to the entire community, that someone will eventually break her and trace the network back to him. His love for her is absolute; his fear that she will bring him down is equally so.
 
-**Svalthmýl Fisherman**, an ostensible friend from his merchant days (connection from southern trading voyages) who is actually a supplier of rare materials and books from beyond Nordheim. The arrangement is old and relatively safe; Svalthmýl asks no questions, and Knarvir pays well in coin that is clean and untraced.
+**Svalthmil Fisherman**, an ostensible friend from his merchant days (connection from southern trading voyages) who is actually a supplier of rare materials and books from beyond Nordheim. The arrangement is old and relatively safe; Svalthmil asks no questions, and Knarvir pays well in coin that is clean and untraced.
 
 ### Enemies and Threats
 
-**Skaold Righteous**, a clerk within Ódvar's Order of the All-Seeing Eye, who has developed a personal crusade against "corruptions" in traditional practice. He is not yet investigating Knarvir specifically, but his inquiries are widening, and he has the authority and institutional backing to cause serious damage. The tension is building.
+**Skaold Righteous**, a clerk within Odvar's Order of the All-Seeing Eye, who has developed a personal crusade against "corruptions" in traditional practice. He is not yet investigating Knarvir specifically, but his inquiries are widening, and he has the authority and institutional backing to cause serious damage. The tension is building.
 
 **The Unidentified Watcher**, a person or persons (Knarvir is uncertain which) who has been asking questions in Thraldfjord about Knarvir's past, his associates, his patterns of travel. These inquiries are subtle and indirect, which somehow makes them worse—they suggest that whoever is interested in him is patient and practiced, not a casual busybody. He has no idea who they are or what they want, which is the core of his current paranoia.
 
@@ -453,9 +453,9 @@ His relationship with the Plûmepistémion is entirely cynical: he uses their li
 
 ## Plot Hooks
 
-1. **The Student's Betrayal**—One of Knarvir's carefully vetted students, a younger woman he trained in seidr over the course of five years, comes to him with news: she has been approached by Skaold Righteous, and Skaold knows some (but not all) of what she practices. She is begging Knarvir for guidance on whether to run, admit everything, or attempt to deceive Skaold. Knarvir can help her, at the risk of exposing the network; flee first, abandoning her and the others; or move against Skaold directly, which means acting against the institutional clergy.
+1. **The Student's Betrayal**—One of Knarvir's carefully vetted students, a younger woman he trained in seid over the course of five years, comes to him with news: she has been approached by Skaold Righteous, and Skaold knows some (but not all) of what she practices. She is begging Knarvir for guidance on whether to run, admit everything, or attempt to deceive Skaold. Knarvir can help her, at the risk of exposing the network; flee first, abandoning her and the others; or move against Skaold directly, which means acting against the institutional clergy.
 
-2. **The Unidentified Watcher Reveals Themselves**—The person or persons investigating Knarvir finally makes direct contact, revealing that they are a representative of the southern [[affiliation-ordoarcanis|Thôrdimâlon]], interested in his spirit-craft for reasons he does not initially understand. They offer him a proposition: share his knowledge, become a consultant to their organization, gain protection through their institutional power. The catch is that doing so would require him to leave Nordheim and potentially betray the hiding network. The offer is tempting and deeply dangerous.
+2. **The Unidentified Watcher Reveals Themselves**—The person or persons investigating Knarvir finally makes direct contact, revealing that they are a representative of the southern [[affiliation-ordoarcanis|Thordimalon]], interested in his spirit-craft for reasons he does not initially understand. They offer him a proposition: share his knowledge, become a consultant to their organization, gain protection through their institutional power. The catch is that doing so would require him to leave Nordheim and potentially betray the hiding network. The offer is tempting and deeply dangerous.
 
 3. **Thurídr is Dying**—His teacher suffers a sudden severe illness (or falls into a supernatural crisis that only manifests as illness). Knarvir must either stay hidden and hope she survives without him (knowing she probably will not), or reveal himself by coming openly to her aid. The time pressure is extreme; he has perhaps three days to decide before the moment passes.
 

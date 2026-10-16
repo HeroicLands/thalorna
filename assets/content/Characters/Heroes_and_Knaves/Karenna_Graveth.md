@@ -1,6 +1,6 @@
 ---
 shortcode: carengrvth
-name: {full: Kárenna Gráveth, given: Kárenna, clan: Gráveth, aliases: []}
+name: {full: Kárenna Graveth, given: Kárenna, clan: Graveth, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -83,7 +83,7 @@ sohl:
     - name: Scrolls of royal announcements
       type: miscgear
       system: {shortcode: scrollsofroyal, weight: 1, value: 100, durability: 3}
-    - name: Family seal (House Gráveth)
+    - name: Family seal (House Graveth)
       type: miscgear
       system: {shortcode: familyseal, weight: 1, value: 100, durability: 3}
     - name: Silver writing pen
@@ -414,13 +414,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[carengrvth|Kárenna Gráveth]]{float=top-left}
+![[carengrvth|Kárenna Graveth]]{float=top-left}
 
 Kárenna stands 6'0" tall with a light build. She has warm olive skin, black hair, and green eyes. Her features include an oblong face, a prominent nose, a strong jawline, well-defined lips, and expressive brows.
 
 # Dossier {#dossier}
 
-Born into House Gráveth, a cadet branch of nobility with connections to the royal court, Kárenna was raised in an environment where words were as valuable as swords and social grace was an imperative. Her early training in Heraldry began before she could properly write, learning the complex symbology and lineage of the noble houses, the elaborate forms of herald-craft, and the weight of official pronouncements. She proved adept at these studies, her natural eloquence and perceptiveness making her stand out among her peers.
+Born into House Graveth, a cadet branch of nobility with connections to the royal court, Kárenna was raised in an environment where words were as valuable as swords and social grace was an imperative. Her early training in Heraldry began before she could properly write, learning the complex symbology and lineage of the noble houses, the elaborate forms of herald-craft, and the weight of official pronouncements. She proved adept at these studies, her natural eloquence and perceptiveness making her stand out among her peers.
 
 At twenty-four, she achieved full status as a Herald of [[place-tarvenirgn|Tarvénia]] and was attached to the royal household, a position of significant prestige. For the past eight years, she has been one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
 
@@ -434,7 +434,7 @@ Her philosophy is fundamentally pragmatic: the world is better served by agreeme
 
 ### Motivation
 
-Kárenna's driving ambition is the advancement of her house and, by extension, herself. She seeks to become the most trusted advisor to the crown, the herald whose voice carries such weight that her recommendations shape policy. She believes that by positioning House Gráveth at the center of court influence, she secures not only her family's prosperity but her own lasting legacy. She also harbors a real, if secondary, commitment to preventing conflict where possible, viewing her diplomatic successes as victories for the realm itself. Recognition and status matter deeply to her; she cultivates the appearance of humble service while actually pursuing power and influence with considerable ambition.
+Kárenna's driving ambition is the advancement of her house and, by extension, herself. She seeks to become the most trusted advisor to the crown, the herald whose voice carries such weight that her recommendations shape policy. She believes that by positioning House Graveth at the center of court influence, she secures not only her family's prosperity but her own lasting legacy. She also harbors a real, if secondary, commitment to preventing conflict where possible, viewing her diplomatic successes as victories for the realm itself. Recognition and status matter deeply to her; she cultivates the appearance of humble service while actually pursuing power and influence with considerable ambition.
 
 ### Strengths
 
@@ -456,24 +456,24 @@ Kárenna's driving ambition is the advancement of her house and, by extension, h
 
 ### Patrons
 
-King Ilthéro III
+King Ilthero III
 : The aging monarch values Kárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
 
-Duke Volkhémo of the Eastern Marches
+Duke Volkemo of the Eastern Marches
 : A powerful regional lord who has engaged Kárenna's services repeatedly in mediating disputes with neighboring provinces. He views her as a valuable ally and occasional lover, though their relationship is carefully concealed.
 
-Lady Hilthéra Tsolurándis, Master of Commerce
+Lady Hilthera Tsoluris, Master of Commerce
 : The crown's chief advisor on trade and mercantile matters has become Kárenna's closest confidant and patron within court, offering guidance on the political currents of the royal household.
 
 ### Enemies
 
-Lord Revótho Tholmarándis, Herald Emeritus
+Lord Ervotho Tholmaris, Herald Emeritus
 : The previous chief herald, now retired, views Kárenna as an upstart who lacks the necessary gravitas for her position. He has begun subtly undermining her authority, questioning her decisions to the king and his allies among the older nobility.
 
 The Canonist Orthodox
-: A traditionalist faction within the priesthood of the [[affiliation-arldnpnthn|Aurèldían Pantheon]] who view Kárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
+: A traditionalist faction within the priesthood of the [[affiliation-arldnpnthn|Aureldian Pantheon]] who view Kárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
 
-Merchant-Lord Bedárrek
+Merchant-Lord Bedarrek
 : A wealthy and politically connected trader whose interests Kárenna opposed in a recent negotiation, resulting in significant financial loss to his enterprises. He has been quietly gathering evidence of her conflicts of interest and inappropriate relationships, intending to expose her when circumstances allow.
 
 ### Affiliations
@@ -481,22 +481,22 @@ Merchant-Lord Bedárrek
 City Heralds' Guild of Tarvénia
 : Her primary affiliation and source of authority. She maintains its political interests while advancing her own.
 
-House Gráveth
+House Graveth
 : Her family house, whose interests she subtly promotes through her position.
 
-The Aurèldían Pantheon
-: A devoted follower of Pôzêrâs the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
+The Aureldian Pantheon
+: A devoted follower of Pozeras the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
 
 ## Plot Hooks
 
-1. **The Bastard Child**: Kárenna receives an urgent message from **Duke Volkhémo** concerning a serious complication: there is a child—her daughter—born during their brief liaison five years prior. The mother, a minor noblewoman of uncertain stability, has begun making public claims and threatening to expose their relationship and the child's paternity unless Kárenna acknowledges the girl and secures her position within the nobility. To acknowledge the child would be to admit to a scandalous affair that could damage her standing with traditionalists; to ignore the threat is to allow an innocent child to be used as a weapon by her mother. Worse, Kárenna discovers that **Lord Revótho Tholmarándis** has learned of the situation and is preparing to use it as leverage to force her resignation from her position.
+1. **The Bastard Child**: Kárenna receives an urgent message from **Duke Volkemo** concerning a serious complication: there is a child—her daughter—born during their brief liaison five years prior. The mother, a minor noblewoman of uncertain stability, has begun making public claims and threatening to expose their relationship and the child's paternity unless Kárenna acknowledges the girl and secures her position within the nobility. To acknowledge the child would be to admit to a scandalous affair that could damage her standing with traditionalists; to ignore the threat is to allow an innocent child to be used as a weapon by her mother. Worse, Kárenna discovers that **Lord Ervotho Tholmaris** has learned of the situation and is preparing to use it as leverage to force her resignation from her position.
 
 2. **The Heretical Diplomat**: Kárenna is tasked with delivering an official state declaration to the **Canonist Orthodox**, but the message contains language that the priesthood will interpret as heretical or sacrilegious. The king has deliberately worded it this way to provoke a political crisis that will discredit the traditionalist faction—but he has not told Kárenna of his intention. When the priesthood erupts in outrage and demands her censure for delivering such blasphemy, she can accept the consequences of her role or reveal the king's manipulation and become a liability to the throne.
 
-3. **The Merchant's Leverage**: **Merchant-Lord Bedárrek** reveals to Kárenna that he possesses documented evidence of her conflicts of interest and her inappropriate financial entanglement with House Gráveth's commercial interests—transactions that were facilitated through her herald's authority. He offers her a choice: either she works to undo the previous trade negotiation that cost him wealth and leverage her position to grant him specific commercial concessions, or he brings his evidence to the king's justice council. She has three days to decide.
+3. **The Merchant's Leverage**: **Merchant-Lord Bedarrek** reveals to Kárenna that he possesses documented evidence of her conflicts of interest and her inappropriate financial entanglement with House Graveth's commercial interests—transactions that were facilitated through her herald's authority. He offers her a choice: either she works to undo the previous trade negotiation that cost him wealth and leverage her position to grant him specific commercial concessions, or he brings his evidence to the king's justice council. She has three days to decide.
 
-4. **The Succession Conspiracy**: Kárenna learns through her palace network that a faction of powerful nobles is quietly working to manipulate the succession following King Ilthéro's anticipated death—engineering circumstances that will place a weak but controllable heir on the throne. Several of her patrons are involved, including **Duke Volkhémo**. She is approached to be the herald who will authenticate and announce the succession, knowing that her involvement would legitimize whatever scheme unfolds. To refuse is to lose crucial allies and mark herself as an obstacle; to cooperate is to become complicit in what she suspects may be a coup.
+4. **The Succession Conspiracy**: Kárenna learns through her palace network that a faction of powerful nobles is quietly working to manipulate the succession following King Ilthero's anticipated death—engineering circumstances that will place a weak but controllable heir on the throne. Several of her patrons are involved, including **Duke Volkemo**. She is approached to be the herald who will authenticate and announce the succession, knowing that her involvement would legitimize whatever scheme unfolds. To refuse is to lose crucial allies and mark herself as an obstacle; to cooperate is to become complicit in what she suspects may be a coup.
 
-5. **The Shadow Voice**: A mysterious contact approaches Kárenna with a proposition: become a covert agent for a foreign power (likely the Byzarian League), providing intelligence on the kingdom's diplomatic intentions, military readiness, and internal political fractures. In exchange, she receives wealth, protection, and assurance that her family will be safeguarded against future calamity. The contact has detailed knowledge of her secret daughter and seems to know everything about her vulnerabilities. She is given one week to decide, and the contact makes clear that refusal is not truly an option—they have invested too much in recruiting her.
+5. **The Shadow Voice**: A mysterious contact approaches Kárenna with a proposition: become a covert agent for a foreign power (likely the Bizarian League), providing intelligence on the kingdom's diplomatic intentions, military readiness, and internal political fractures. In exchange, she receives wealth, protection, and assurance that her family will be safeguarded against future calamity. The contact has detailed knowledge of her secret daughter and seems to know everything about her vulnerabilities. She is given one week to decide, and the contact makes clear that refusal is not truly an option—they have invested too much in recruiting her.
 
-6. **The Herald's Rebellion**: Younger members of the Herald's Guild, impressed by Kárenna's new approach but frustrated by the pace of institutional change, approach her about leading a reformist movement within the guild structure. They want her to challenge the traditional hierarchy, push for new rules that diminish the authority of elder heralds, and put the selection of official pronouncements to a vote. The reformation would require going against **Lord Revótho Tholmarándis** and the traditionalist leadership directly. Kárenna must weigh the potential to reshape the institution against the certain enmity of powerful figures and the risk that the reform movement, if it succeeds too dramatically, could destabilize the careful diplomatic equilibrium she has helped establish.
+6. **The Herald's Rebellion**: Younger members of the Herald's Guild, impressed by Kárenna's new approach but frustrated by the pace of institutional change, approach her about leading a reformist movement within the guild structure. They want her to challenge the traditional hierarchy, push for new rules that diminish the authority of elder heralds, and put the selection of official pronouncements to a vote. The reformation would require going against **Lord Ervotho Tholmaris** and the traditionalist leadership directly. Kárenna must weigh the potential to reshape the institution against the certain enmity of powerful figures and the risk that the reform movement, if it succeeds too dramatically, could destabilize the careful diplomatic equilibrium she has helped establish.

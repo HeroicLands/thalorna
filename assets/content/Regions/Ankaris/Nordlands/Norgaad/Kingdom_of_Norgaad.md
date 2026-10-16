@@ -3,7 +3,7 @@ shortcode: kingdmnrgd
 name: {full: Kingdom of Norgaad, aliases: [Norgaad]}
 type: affiliation
 subType: polity
-description: "Central Nordmen kingdom of fjords, mountain passes, and silver-mines—diplomatic heartland of the five kingdoms, traditional convener of the Great Moot, and home of the most powerful völvur in the north."
+description: "Central Nordmen kingdom of fjords, mountain passes, and silver-mines—diplomatic heartland of the five kingdoms, traditional convener of the Great Moot, and home of the most powerful velvur in the north."
 data:
   templatePriority: null
   demonym: Norgaadian
@@ -14,7 +14,7 @@ data:
     summary: Hereditary monarchy with a ting (assembly) tradition.
     ranks:
       - level: 0
-        title: Níding
+        title: Niding
         lore: nidingrnk
         description: >-
           Cast beyond the ting's protection for an offense no wergild settles: killing him draws no penalty, and any hall that shelters him answers to the assembly for it.
@@ -27,17 +27,17 @@ data:
         title: Lidmadr
         lore: lidmadrrnk
         description: >-
-          Free but answering through a following rather than a clan—a freed thrall still bound to his former master, a hall-less drengr, or a settled outsider—so his word carries no weight on the assembly's floor.
+          Free but answering through a following rather than a clan—a freed thrall still bound to his former master, a hall-less dreng, or a settled outsider—so his word carries no weight on the assembly's floor.
       - level: 3
-        title: Bóndi
+        title: Bundi
         lore: bondirnk
         description: >-
-          Holds his own odal land by inheritance rather than a lord's grant, bears arms, and speaks at the ting in a ruling that binds the jarl over him as much as any free man.
+          Holds his own odel land by inheritance rather than a lord's grant, bears arms, and speaks at the ting in a ruling that binds the jarl over him as much as any free man.
       - level: 4
         title: Hringberi
         lore: hringberirnk
         description: >-
-          Given a named seat by a hall—at the lord's table, the high seat, or the door nearest the fell—and heard before a common bóndi when the hall is deciding.
+          Given a named seat by a hall—at the lord's table, the high seat, or the door nearest the fell—and heard before a common bundi when the hall is deciding.
       - level: 5
         title: Hersvald
         lore: hersvaldrnk
@@ -47,7 +47,7 @@ data:
         title: Jarl
         lore: jarlrnk
         description: >-
-          Holds a province by the king's grant, commands its hersvaldar, and answers to the king for its peace—a grant the crown can move elsewhere, unlike a bóndi's inherited odal land.
+          Holds a province by the king's grant, commands its hersvaldar, and answers to the king for its peace—a grant the crown can move elsewhere, unlike a bundi's inherited odel land.
       - level: 7
         title: King
         lore: konungrnk
@@ -59,17 +59,17 @@ data:
       Jarl: Holding a named province of the king, commanding its levies and answering for its dues.
       Hersvald: Answers for a named district, leading its men to the muster and speaking for them at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares what it is.
-      Hirdstjóri: The king's marshal, commander of his household men and master of the muster.
-      Búvördr: >-
-        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Vetrnaetr.
-      Hringvördr: Keeper of the rings the king gives, his tribute and the silver of his hall.
-      Merkiberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
+      Hirvstjori: The king's marshal, commander of his household men and master of the muster.
+      Buvordr: >-
+        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Vetrnetr.
+      Hringvordr: Keeper of the rings the king gives, his tribute and the silver of his hall.
+      Merkberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
       Skald: >-
         Court poet, whose verse is the realm's memory and whose praise or scorn makes reputations; the standing behind the post belongs to the Skalds' Circle.
-      Hirdman: >-
+      Hirvman: >-
         Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
-      Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
-      Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
+      Landvordr: The king's reeve in a district, collecting his dues and holding his courts.
+      Skipstjori: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: asgarthul
   population: 400000
@@ -94,21 +94,21 @@ The Kingdom of Norgaad holds the land of [[place-norgaad|Norgaad]], at the cente
 
 ## How Norgaad Is Ruled
 
-Norgaad is a hereditary monarchy with a ting tradition, and its ting is the strongest in the north. Its kings are the most constrained by customary law and assembly consensus of any in the Nordlands: the king is chosen from the royal clans and acclaimed at the ting, holds the realm on the assembly's continuing consent, and can be refused his arm-ring when the ting will not hand it back. The same layers of standing that hold the other kingdoms hold this one. A _jarl_ holds a province by the king's grant, a _hersvald_ answers for a district by its consent, and a _bóndi_ holds his odal land by inheritance and speaks at the ting in his own name.
+Norgaad is a hereditary monarchy with a ting tradition, and its ting is the strongest in the north. Its kings are the most constrained by customary law and assembly consensus of any in the Nordlands: the king is chosen from the royal clans and acclaimed at the ting, holds the realm on the assembly's continuing consent, and can be refused his arm-ring when the ting will not hand it back. The same layers of standing that hold the other kingdoms hold this one. A _jarl_ holds a province by the king's grant, a _hersvald_ answers for a district by its consent, and a _bundi_ holds his odel land by inheritance and speaks at the ting in his own name.
 
-Of the king's household, the _Lawspeaker_ matters most here. He keeps the law in memory and recites it at the assembly, and in Norgaad his is the voice that can call the Great Moot at Asgarthul when a kingdom wants a meeting between the septennial sittings of the [[place-domsey|King of All Clans]] on [[place-domsey|Dómsey]]. On Dómsey, Norgaad's king takes one seat and its jarls five, and the kingdom holds that five seats undercount a realm of four hundred thousand.
+Of the king's household, the _Lawspeaker_ matters most here. He keeps the law in memory and recites it at the assembly, and in Norgaad his is the voice that can call the Great Moot at Asgarthul when a kingdom wants a meeting between the septennial sittings of the [[place-domsey|King of All Clans]] on [[place-domsey|Domsey]]. On Domsey, Norgaad's king takes one seat and its jarls five, and the kingdom holds that five seats undercount a realm of four hundred thousand.
 
 The crown carries one open question of right. A king's brother led an expedition up the road from [[place-tvarnmark|Tvarnmark]] toward the [[place-shtrdpks|Shattered Peaks]] thirty-two years ago, seeking mithral, and he and most of his forty companions never came back; the loss sustains a claim that the brother's line had the better right to the crown. The account is in [[lore-nrgadhstry|Histories and Legends of Norgaad]].
 
 ## The Royal Line
 
-Norgaad's kings come from the **Tvurnidrokh**, the royal clan at Asgarthul. Its most honored king is **Snirvthann**, about 462 to 490, who called Nordheim and Malagna to his hall after the ice at [[place-skalfvatn|Skalfvatn]] and made the peace from which the Great Moot comes; the same peace refused him the two more seats on Dómsey that Norgaad has asked for ever since ([[lore-nordkinwars|The Kin-Wars]]). The present king is **Ilthmýl**, acclaimed about 684 over his elder brother **Ilthorv**, the king's brother who was lost on the Saddle in 688. Ilthorv's line keeps the claim that the ting chose wrongly, and Ilthmýl has sons of his own.
+Norgaad's kings come from the **Tvurnidrok**, the royal clan at Asgarthul. Its most honored king is **Snirvthann**, about 462 to 490, who called Nordheim and Malagna to his hall after the ice at [[place-skalfvatn|Skalfvatn]] and made the peace from which the Great Moot comes; the same peace refused him the two more seats on Domsey that Norgaad has asked for ever since ([[lore-nordkinwars|The Kin-Wars]]). The present king is **Ilthmil**, acclaimed about 684 over his elder brother **Ilthorv**, the king's brother who was lost on the Saddle in 688. Ilthorv's line keeps the claim that the ting chose wrongly, and Ilthmil has sons of his own.
 
 ## The People and the Old Ways
 
 Norgaad's people are herders, hunters and miners more than sailors, though the coastal settlements keep respectable fleets. [[place-thraskvik|Thraskvík]] builds the longships the kingdom is famous for, and [[place-vrathavn|Vrathavn]], its principal port on the northern coast, keeps a garrison of professional warriors, the closest thing Norgaad has to a standing army. In the interior, [[place-flarnbrekka|Flarnbrekka]] works silver ore out of a frost-split mountainside, and the miners of [[place-skulfheim|Skulfheim]] knock on their timber and listen before they enter a gallery. [[place-tvarnmark|Tvarnmark]] is a stone-built trade town of weavers and merchant families, and [[place-hvarnvik|Hvarnvík]] has the one harbor that stays open through winter.
 
-The people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]], and the kingdom's völvur, its seers and shamans, are the most powerful and respected in the north. The seidr of [[place-gnaldrfjord|Gnaldrfjord]] receives pilgrims from across the kingdom, and at [[place-holafell|Holafell]] stands the oldest hof of [[lore-hrimthurspr|Hrímthur]], where the Wound is renewed at the turn of every winter.
+The people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]], and the kingdom's velvur, its seers and shamans, are the most powerful and respected in the north. The seid of [[place-gnaldrfjord|Gnaldrfjord]] receives pilgrims from across the kingdom, and at [[place-holafell|Holafell]] stands the oldest hov of [[lore-hrimthurspr|Hrimthur]], where the Wound is renewed at the turn of every winter.
 
 ## Relations
 
@@ -118,7 +118,7 @@ Norgaad's central position makes it the natural mediator among the Nordmen kingd
 
 Norgaad's iron and silver mines are the richest in the north, which makes it the wealthiest kingdom in raw resources, if not in trade. A district's officer weighs each camp's ore against what the king's smiths at Asgarthul are owed, and the road from the mountains carries iron, timber and salt south to the market at Tvarnmark.
 
-The kingdom strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian coinage]] (elthêzâs, ankhrâ and bit), and no chapter of the [[affiliation-danvar|Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here, so a traveler's note has to be exchanged for coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+The kingdom strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian coinage]] (ethla, ankhra and bit), and no chapter of the [[affiliation-danvar|Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here, so a traveler's note has to be exchanged for coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 

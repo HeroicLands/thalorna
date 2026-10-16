@@ -38,7 +38,7 @@ data:
           Long practiced, teaching initiates and sitting on the council, where their word carries the greater weight in what the younger Spirit-Speakers dispute.
     offices:
       Guardian of the Pact-Baobab: >-
-        Warden of the tree in central Ruwozi country under which Nyóli Ruwozi swore the Long Pact, and of who may approach it.
+        Warden of the tree in central Ruwozi country under which Nyoli Ruwozi swore the Long Pact, and of who may approach it.
       Kwendari Zohiring: >-
         Spirit-Speaker of the lion, who addresses the guide on the clan's behalf at the cattle-seasons and before any open challenge.
       Griot of the Ruwozi: >-
@@ -61,7 +61,7 @@ The **Lion Totem** is the guide of the [[affiliation-nylbtrblntn|Ruwozi]], the c
 
 The lion is **venerated**, in the first of the tradition's three postures: honored with regular offering, greeted at the turning of the cattle-seasons, and sung of in the clan's memory-songs. It is not a god and is not worshipped. It is a kinsman whose kinship crosses both species and the border between the living and the spirit world.
 
-The guide holds a seniority the other four acknowledge without resenting, because the Long Pact was sworn in Ruwozi country, under a baobab, by Nyóli Ruwozi—and the lion was witness to it. That witness is why the Ruwozi paramount convenes the Great Lubemo and speaks last when consensus is sought.
+The guide holds a seniority the other four acknowledge without resenting, because the Long Pact was sworn in Ruwozi country, under a baobab, by Nyoli Ruwozi—and the lion was witness to it. That witness is why the Ruwozi paramount convenes the Great Lubemo and speaks last when consensus is sought.
 
 The cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], holds the witness to a single word:
 

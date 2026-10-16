@@ -29,4 +29,4 @@ being acknowledged. It is the only guide the tradition holds may be addressed si
 Prohibitions it enforces upon the Sengala: not to hunt leopards, not to break a bargain struck
 under its notice, and not to reveal the route by which a party came.
 
-The rainforest holds many peoples, and those among them who speak Okháric know the leopard-guide under a name of their own, _Ndawelari Thakwaring_, the Hunter's Rival. They hold it a hunter's rival and not a guide: a presence that contests the kill and keeps a hunter honest.
+The rainforest holds many peoples, and those among them who speak Okharik know the leopard-guide under a name of their own, _Ndawelari Thakwaring_, the Hunter's Rival. They hold it a hunter's rival and not a guide: a presence that contests the kill and keeps a hunter honest.

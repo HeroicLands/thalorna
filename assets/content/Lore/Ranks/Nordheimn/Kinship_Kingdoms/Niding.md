@@ -1,6 +1,6 @@
 ---
 shortcode: nidingrnk
-name: {full: "Níding", aliases: []}
+name: {full: "Niding", aliases: []}
 type: lore
 subType: law
 description: "Outlawed at the ting and set beyond the law's protection, in the five kingdoms and the Jarldom of Stormveld."
@@ -16,15 +16,15 @@ The ting casts a man out for an offense grave enough that the assembly refuses h
 
 ## How the Law Treats a Person Here
 
-Harm done to a níding is answered for by nobody. Killing him carries no wergild, hiding him is itself an offense, and no hall may feed him without answering to the ting that cast him out.
+Harm done to a niding is answered for by nobody. Killing him carries no wergild, hiding him is itself an offense, and no hall may feed him without answering to the ting that cast him out.
 
 ## Privileges
 
-None. A níding holds no right the ting protects, and no rank below him can be reduced further—he stands outside the ladder rather than at its foot.
+None. A niding holds no right the ting protects, and no rank below him can be reduced further—he stands outside the ladder rather than at its foot.
 
 ## Obligations
 
-None the law recognizes; obligation presumes standing, and a níding has none. What is owed the ting by everyone else—the muster, the dues, an oath's truth—is not owed by him, because he is not addressed by it.
+None the law recognizes; obligation presumes standing, and a niding has none. What is owed the ting by everyone else—the muster, the dues, an oath's truth—is not owed by him, because he is not addressed by it.
 
 ## Offices Open at This Standing
 

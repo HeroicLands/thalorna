@@ -1,6 +1,6 @@
 ---
 shortcode: zzrnqsdn
-name: {full: Zazûran Qusâdûnî, aliases: []}
+name: {full: Zazuran Kusaduni, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Zazûran Qusâdûnî is a 38-year-old man who stands 5'10" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. His deep-set brown eyes sit beneath prominent brows, lending him a watchful gaze. A straight nose and wide lips complete his features. He has warm golden skin with a weathered complexion. His dark brown hair is cropped short.
+Zazuran Kusaduni is a 38-year-old man who stands 5'10" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. His deep-set brown eyes sit beneath prominent brows, lending him a watchful gaze. A straight nose and wide lips complete his features. He has warm golden skin with a weathered complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Zazûran Qusâdûnî came into the world of the teamster through a combination of circumstance and aptitude.
+Born in the Taruzel region to a freeman family of Taruzelian heritage, Zazuran Kusaduni came into the world of the teamster through a combination of circumstance and aptitude.
 
-Zazûran has spent his life transporting goods across the countryside, driving wagons filled with everything from grain to lumber. He knows the trade routes well and has a reputation for getting cargo to its destination on time, no matter the conditions. While reliable and hardworking, Zazûran is a bit rough around the edges and can be gruff with strangers.
+Zazuran has spent his life transporting goods across the countryside, driving wagons filled with everything from grain to lumber. He knows the trade routes well and has a reputation for getting cargo to its destination on time, no matter the conditions. While reliable and hardworking, Zazuran is a bit rough around the edges and can be gruff with strangers.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Gruff and unpolished, struggles with social niceties.
 
 ### Motivation
 
-Zazûran is driven by the desire to master his craft and secure a stable future. The uncertainties of life in teamster work keep him vigilant and adaptable.
+Zazuran is driven by the desire to master his craft and secure a stable future. The uncertainties of life in teamster work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Skilled in handling draft animals, experienced in navigating rough terrain.
 
 ## Social
 
-Zazûran is affiliated with Teamsters' Guild.
+Zazuran is affiliated with Teamsters' Guild.
 
-As a Tarûzelian teamster, Zazûran occupies a recognized social niche within Tarûzel society.
+As a Taruzelian teamster, Zazuran occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Zazûran's primary patron is Local merchants who trust him to transport their goods safely. This relationship provides both opportunity and obligation.
+Zazuran's primary patron is Local merchants who trust him to transport their goods safely. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ Bandits who view his well-loaded wagons as targets.
 
 ## Plot Hooks
 
-1. **The Teamster's Dilemma**—Zazûran faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Teamster's Dilemma**—Zazuran faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—Bandits who view his well-loaded wagons as targets. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Zazûran's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Zazuran's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Zazûran depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Zazuran depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Zazûran the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Zazuran the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

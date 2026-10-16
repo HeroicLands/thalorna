@@ -1,6 +1,6 @@
 ---
 shortcode: lefrnchlwl
-name: {full: Leofrun Chilwell, aliases: []}
+name: {full: Leofith Chilwell, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,23 +394,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Leofrun Chilwell is a 30-year-old woman who stands 5'11" tall and is slender. She has a round face with broad cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her piercing hazel eyes sit beneath arched brows and give her a penetrating gaze. She has a narrow nose and full lips. She has fair skin with a lightly freckled complexion. Her red hair is woven with small braids.
+Leofith Chilwell is a 30-year-old woman who stands 5'11" tall and is slender. She has a round face with broad cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her piercing hazel eyes sit beneath arched brows and give her a penetrating gaze. She has a narrow nose and full lips. She has fair skin with a lightly freckled complexion. Her red hair is woven with small braids.
 
 # Dossier {#dossier}
 
-Leofrun Chilwell is a trapper of Kingshollow, the old royal seat of Aldorath in [[place-aelwyth|Aelwyth]], an Aelwythan freewoman who traps on the tenants' land beside the king's forest and takes from it only what the land can spare.
+Leofith Chilwell is a trapper of Kingshollow, the old royal seat of Aldorath in [[place-aelwyth|Aelwyth]], an Aelwythan freewoman who traps on the tenants' land beside the king's forest and takes from it only what the land can spare.
 
-Leofrun was raised in the woods above the village by a family that lived off them, and she learned the snare and the deadfall before she learned to read. The tenants of Kingshollow pay her to keep the fox from the hen-house and the rat from the barn, the fur-buyer from Dunmere pays her for pelts, and the crown's foresters allow her lines up to the forest bound and not a yard past it, since the wood above is royal forest and everything in it is the king's. She traps selectively, which the trade does not: she sets for what she is paid to take, lets go what she is not, and walks a line twice a day rather than leave a beast to suffer in it. The foresters take her for a poacher, the poachers for an informer, and both are wrong.
+Leofith was raised in the woods above the village by a family that lived off them, and she learned the snare and the deadfall before she learned to read. The tenants of Kingshollow pay her to keep the fox from the hen-house and the rat from the barn, the fur-buyer from Dunmere pays her for pelts, and the crown's foresters allow her lines up to the forest bound and not a yard past it, since the wood above is royal forest and everything in it is the king's. She traps selectively, which the trade does not: she sets for what she is paid to take, lets go what she is not, and walks a line twice a day rather than leave a beast to suffer in it. The foresters take her for a poacher, the poachers for an informer, and both are wrong.
 
 ## Psyche
 
 ### Personality
 
-Leofrun is quiet, solitary and softer than her trade: she will spare a beast she should take and lose the fee, and she knows it. She keeps her own counsel and does not join things.
+Leofith is quiet, solitary and softer than her trade: she will spare a beast she should take and lose the fee, and she knows it. She keeps her own counsel and does not join things.
 
 ### Motivation
 
-Leofrun wants to live off the land beside the king's wood, taking what she is asked to take and no more, and she wants to answer to nobody for it. The forest court and the poachers between them are making the second a condition on the first.
+Leofith wants to live off the land beside the king's wood, taking what she is asked to take and no more, and she wants to answer to nobody for it. The forest court and the poachers between them are making the second a condition on the first.
 
 ### Strengths
 
@@ -418,13 +418,13 @@ Skilled at setting traps, knows the plants and beasts of the country, resourcefu
 
 ## Social
 
-Leofrun belongs to no guild; she holds a forester's license for her lines to the forest bound, renewed each year at the forest court.
+Leofith belongs to no guild; she holds a forester's license for her lines to the forest bound, renewed each year at the forest court.
 
 ## Companions
 
 ### Patrons
 
-Leofrun's patrons are the tenant farmers of Kingshollow, who pay her by the season to keep vermin from their stock, and the fur-buyer from Dunmere.
+Leofith's patrons are the tenant farmers of Kingshollow, who pay her by the season to keep vermin from their stock, and the fur-buyer from Dunmere.
 
 ### Enemies
 
@@ -432,10 +432,10 @@ The poachers who work the king's wood and use her lines as cover, and the crown'
 
 ## Plot Hooks
 
-1. **The Knot**—A snare has been found on a royal deer-path inside the bound, tied with the knot Leofrun uses, and the foresters have brought it to the forest court. She did not set it, and only one other person knows her knot.
+1. **The Knot**—A snare has been found on a royal deer-path inside the bound, tied with the knot Leofith uses, and the foresters have brought it to the forest court. She did not set it, and only one other person knows her knot.
 
-2. **The Tenant's Boy**—A tenant's son has been caught in the king's wood with a hare, and the tenant has asked Leofrun to tell the court it came from her line. It did not, and the boy is fourteen.
+2. **The Tenant's Boy**—A tenant's son has been caught in the king's wood with a hare, and the tenant has asked Leofith to tell the court it came from her line. It did not, and the boy is fourteen.
 
-3. **The Descent**—The court is coming to Kingshollow for midwinter and the household wants fifty pelts by the feast. Leofrun has twelve, and the way to fifty is over the bound.
+3. **The Descent**—The court is coming to Kingshollow for midwinter and the household wants fifty pelts by the feast. Leofith has twelve, and the way to fifty is over the bound.
 
-4. **The Wolf**—Something is taking sheep from the tenants' folds at night, and it is not a fox. The tenants have asked Leofrun to trap it, and the foresters have said that whatever it is, it is the king's.
+4. **The Wolf**—Something is taking sheep from the tenants' folds at night, and it is not a fox. The tenants have asked Leofith to trap it, and the foresters have said that whatever it is, it is the king's.

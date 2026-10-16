@@ -15,7 +15,7 @@ data:
       A loose confederation of jarldoms, each ruled by its own jarl, owing nominal allegiance to a High Jarl elected from among their number.
     ranks:
       - level: 0
-        title: Níding
+        title: Niding
         lore: nidingrnk
         description: >-
           Cast beyond the moot's protection for an offense no payment settles: killing him draws no penalty, and a hall that shelters him answers to the assembly for it.
@@ -30,15 +30,15 @@ data:
         description: >-
           Free but answering through a following rather than a clan, so his word carries no weight on the moot's floor until some captain or former master vouches for him.
       - level: 3
-        title: Bóndi
+        title: Bundi
         lore: bondirnk
         description: >-
-          Holds his own odal land by inheritance rather than any jarl's grant, bears arms, and speaks at his jarldom's moot in a ruling that binds the jarl over him as much as any free man.
+          Holds his own odel land by inheritance rather than any jarl's grant, bears arms, and speaks at his jarldom's moot in a ruling that binds the jarl over him as much as any free man.
       - level: 4
         title: Hringberi
         lore: hringberirnk
         description: >-
-          Given a named seat by a hall—at a lord's table, the high seat, or the door nearest the fell—and heard before a common bóndi when the hall is deciding.
+          Given a named seat by a hall—at a lord's table, the high seat, or the door nearest the fell—and heard before a common bundi when the hall is deciding.
       - level: 5
         title: Hersvald
         lore: hersvaldrnk
@@ -50,7 +50,7 @@ data:
         description: >-
           Rules a jarldom in his own right, owing the High Jarl the confederation's nominal allegiance and nothing more.
       - level: 7
-        title: Höfudvald
+        title: Hofudvald
         lore: highjarlrnk
         description: >-
           The head who wields the jarls' lent authority. Elected from among the jarls and holding only the authority they continue to lend him; no provision of the jarldoms' law ties the standing to his children.
@@ -58,9 +58,9 @@ data:
       Jarl: Ruler of a jarldom in his own right, with his own hall, levy and moot.
       Hersvald: Chieftain of a district, leading its men to the muster.
       Lawspeaker: Keeper of the law in memory, who recites it at the moot and declares what it is.
-      Hirdstjóri: Marshal of the High Jarl's household men and master of the common muster.
+      Hirvstjori: Marshal of the High Jarl's household men and master of the common muster.
       Skald: Poet of a hall, whose verse is its memory and whose scorn is a weapon.
-      Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
+      Skipstjori: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbor-reeve: Keeper of a haven, its tolls and its disputes.
       Truce-Warden: Holder of the peace declared for the moot, empowered to kill to keep it.
       Host-Caller: Bearer of the war-arrow that summons the jarldoms to a common muster.
@@ -93,15 +93,15 @@ Seen from the [[place-nrdlndsrgn|Nordlands]], Stormveld is arithmetic: a people 
 
 The conquest was quick and thorough. The existing population was not driven out; it was enslaved, and the arrangement has hardened into the ordinary structure of the country. Around 30,000 of the Jarldom's people are Nordmen: the jarl, his housed men, their families and holdings. Around 120,000 are native Aelwythan thralls, worked on the land and holding nothing. Four in five people in Stormveld are the property of the remaining fifth. The jarls do not describe it that way and see no reason to describe it any other.
 
-The thralls have risen twice, and neither rising reached its second year. About eight thousand five hundred free Vardain live in the high valleys of the Ironfells, under [[lore-flkkhazar|Khazári]] protection, and the thralls of the plain know they exist.
+The thralls have risen twice, and neither rising reached its second year. About eight thousand five hundred free Vardain live in the high valleys of the Ironfells, under [[lore-flkkhazar|Khazari]] protection, and the thralls of the plain know they exist.
 
 ## How Stormveld Is Ruled
 
-Stormveld is a loose confederation of jarldoms. Each jarl rules his own territory with near-complete autonomy, with his own hall, levy and moot, and owes nominal allegiance to a [[lore-highjarlrnk|High Jarl]] (_Höfudvald_) elected from among their number. The High Jarl holds only the authority the jarls lend him. His chief work is to coordinate defense and to settle disputes between the jarldoms, and the elections for the post are contentious affairs that occasionally descend into armed contests.
+Stormveld is a loose confederation of jarldoms. Each jarl rules his own territory with near-complete autonomy, with his own hall, levy and moot, and owes nominal allegiance to a [[lore-highjarlrnk|High Jarl]] (_Hofudvald_) elected from among their number. The High Jarl holds only the authority the jarls lend him. His chief work is to coordinate defense and to settle disputes between the jarldoms, and the elections for the post are contentious affairs that occasionally descend into armed contests.
 
-The common offices are the Nordmen's own. A _hersvald_ leads a district's men to the muster. A _Lawspeaker_ recites the law at the moot and declares what it is. A _skald_ keeps a hall's memory, and a _skipstjóri_ commands a ship and answers for her in the levy, and a _harbor-reeve_ keeps a haven's tolls and disputes. Three offices belong to the confederation's common life: the _Hirdstjóri_ is marshal of the High Jarl's household men and master of the common muster, the _Truce-Warden_ holds the peace declared for the moot and may kill to keep it, and the _Host-Caller_ bears the war-arrow that summons the jarldoms to a common muster.
+The common offices are the Nordmen's own. A _hersvald_ leads a district's men to the muster. A _Lawspeaker_ recites the law at the moot and declares what it is. A _skald_ keeps a hall's memory, and a _skipstjori_ commands a ship and answers for her in the levy, and a _harbor-reeve_ keeps a haven's tolls and disputes. Three offices belong to the confederation's common life: the _Hirvstjori_ is marshal of the High Jarl's household men and master of the common muster, the _Truce-Warden_ holds the peace declared for the moot and may kill to keep it, and the _Host-Caller_ bears the war-arrow that summons the jarldoms to a common muster.
 
-A free _bóndi_ speaks at his jarldom's moot, and a ruling there binds the jarl over him as much as any free man. A thrall holds no voice when the moot decides.
+A free _bundi_ speaks at his jarldom's moot, and a ruling there binds the jarl over him as much as any free man. A thrall holds no voice when the moot decides.
 
 ## Hall and Culture
 
@@ -109,19 +109,19 @@ The Nordmen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheo
 
 ## Relations
 
-Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Jarl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension: the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
+Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Jarl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazari]] holds hidden in those same mountains are a source of wonder and occasional tension: the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
 
 A Nordmen foothold under four hundred sea-miles from the Élavendren coast is a fact every realm on the island understands, and none has been willing or able to do anything about it. It is much of why [[affiliation-kingdmdnvr|Dúnavarre]] keeps the [[affiliation-justbladeordr|Order of the Just Blade]] at strength, and it is why the island's quarrels between Aldorath and Dúnavarre look so parochial to outsiders. It is a standing reason for [[place-elavendre|Élavendre]]'s implacable hostility to the Nordmen, since the nearest large island to its coast is now a third occupied by them.
 
 ## Facing North
 
-Stormveld is the only realm on Aelwyth that looks outward, and it does not look at the Aurèldían mainland at all. Its commerce and its wars both run north to the Nordlands, where its ruling class came from and where its kin and rivals are. The Nordlands are not one power, and Stormveld's northern dealings are mixed: steady trade with some kingdoms, raiding and open fighting with others, and shifting alliance and grudge among jarls who regard the Aelwythan holding as an outpost of their own world.
+Stormveld is the only realm on Aelwyth that looks outward, and it does not look at the Aureldian mainland at all. Its commerce and its wars both run north to the Nordlands, where its ruling class came from and where its kin and rivals are. The Nordlands are not one power, and Stormveld's northern dealings are mixed: steady trade with some kingdoms, raiding and open fighting with others, and shifting alliance and grudge among jarls who regard the Aelwythan holding as an outpost of their own world.
 
-This is also why the **Synod**'s compulsory call at [[place-ravenmoor|Ravenmoor]] does not touch the Jarldom. Stormveld's shipping crosses north, into the water the Nordmen have always used, and has never presented itself for inspection. Dúnavarre permits it because the Synod's concern is the channel between Aelwyth and the Aurèldían world, the knowledge, the relics and the visitors that come by it, and a Nordmen hull carrying iron south and timber north bears on none of it. The mages watch the eastern water and ignore the northern, and the distinction is deliberate. It makes the Jarldom the one realm on the island whose dealings with the outside are nobody's business but its own, and it explains why the Jarldom endures: the other realms are islands unto themselves, and Stormveld has a mainland of its own behind it.
+This is also why the **Synod**'s compulsory call at [[place-ravenmoor|Ravenmoor]] does not touch the Jarldom. Stormveld's shipping crosses north, into the water the Nordmen have always used, and has never presented itself for inspection. Dúnavarre permits it because the Synod's concern is the channel between Aelwyth and the Aureldian world, the knowledge, the relics and the visitors that come by it, and a Nordmen hull carrying iron south and timber north bears on none of it. The mages watch the eastern water and ignore the northern, and the distinction is deliberate. It makes the Jarldom the one realm on the island whose dealings with the outside are nobody's business but its own, and it explains why the Jarldom endures: the other realms are islands unto themselves, and Stormveld has a mainland of its own behind it.
 
 ## Commerce and Currency
 
-The Jarldom strikes no coin, and where a deal is made in money it is made in the same [[lore-vylrncrncy|Vylarian]] elthêzâs, ankhrâ and bit the five kingdoms use, because the jarls brought their purses and their habits across the water together. A hall's real wealth is counted the northern way, in cattle, hulls, thralls and the running obligations of [[lore-kinhalcrdt|hall credit]], and a Nordheim kinsman settling a debt at Stormveil is as likely to be paid in barley as in silver. The one difference from home is the island itself: the moneylenders of the southern Aelwythan realms are chartered under the [[affiliation-danvar|Danvar]], so a jarl selling a season's grain south can take Vylarian paper for it when the sum is too large to carry, and turn it into coin before it goes north, where no hall honors it.
+The Jarldom strikes no coin, and where a deal is made in money it is made in the same [[lore-vylrncrncy|Vylarian]] ethla, ankhra and bit the five kingdoms use, because the jarls brought their purses and their habits across the water together. A hall's real wealth is counted the northern way, in cattle, hulls, thralls and the running obligations of [[lore-kinhalcrdt|hall credit]], and a Nordheim kinsman settling a debt at Stormveil is as likely to be paid in barley as in silver. The one difference from home is the island itself: the moneylenders of the southern Aelwythan realms are chartered under the [[affiliation-danvar|Danvar]], so a jarl selling a season's grain south can take Vylarian paper for it when the sum is too large to carry, and turn it into coin before it goes north, where no hall honors it.
 
 ## See Also
 
@@ -131,6 +131,6 @@ The Jarldom strikes no coin, and where a deal is made in money it is made in the
 - [[place-stormplain|The Stormplain]]—the thrall-worked plain
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—ancestral homeland
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]]—southern neighbor and frequent target
-- [[lore-flkkhazar|Khazári]]—elder race in the northeastern mountains
+- [[lore-flkkhazar|Khazari]]—elder race in the northeastern mountains
 - [[lore-highjarlrnk|High Jarl]]—the confederation's elected head
 - [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north

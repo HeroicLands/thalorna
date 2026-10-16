@@ -3,16 +3,16 @@ shortcode: hekardesert
 name: {full: Desert of Hek'ar, aliases: []}
 type: place
 subType: feature
-description: "A barren tract on the Khazryn's western margin below Byzaría's Eastern March, raided by Black Flame knights and burying the Ruins of Arkor."
+description: "A barren tract on the Khazryn's western margin below Bizaria's Eastern March, raided by Black Flame knights and burying the Ruins of Arkor."
 tags: []
 data: {demonym: null, lore: [], parents: [wlqtrrgn], population: 0, packFolder: khazryndesert}
 ---
 
 ## Overview
 
-The Desert of Hek'ar is a barren tract on the western margin of the [[place-khzryndsrtrgn|Khazryn]], in the sub-region the tribes call the Völketör, the grass range, though little of its grass is left. It lies below the passes beyond Byzaría's [[place-eastrnmrch|Eastern March]], and a rider coming down out of the foothills sees it in a single look: a floor of gray gravel and low dunes under a sky that is always a little too white, and nothing on it taller than a thornbush for forty miles in any direction.
+The Desert of Hek'ar is a barren tract on the western margin of the [[place-khzryndsrtrgn|Khazryn]], in the sub-region the tribes call the Volketor, the grass range, though little of its grass is left. It lies below the passes beyond Bizaria's [[place-eastrnmrch|Eastern March]], and a rider coming down out of the foothills sees it in a single look: a floor of gray gravel and low dunes under a sky that is always a little too white, and nothing on it taller than a thornbush for forty miles in any direction.
 
-Nothing in it invites a traveler. The springs that make the rest of the Völketör passable are a day or two apart; here they are three, four and five, and most of them are salt. The caravans that cross it keep to the single track that was a road once, between the way-forts of the March and the first of the tribes' wells, and pay the tribes of the margin to see them across. What comes down the passes into the desert, more often than travelers, is raiders.
+Nothing in it invites a traveler. The springs that make the rest of the Volketor passable are a day or two apart; here they are three, four and five, and most of them are salt. The caravans that cross it keep to the single track that was a road once, between the way-forts of the March and the first of the tribes' wells, and pay the tribes of the margin to see them across. What comes down the passes into the desert, more often than travelers, is raiders.
 
 ## What Lies Under It
 
@@ -20,19 +20,19 @@ The desert covers a city. [[place-ruinsarkor|The Ruins of Arkor]], which the tri
 
 ## Raids and Relics
 
-The **Servants of Vezhnûrikos**, a feared military order of [[affiliation-blackflame|Black Flame]] knights, take their name from the centurion of the cohort settled in the passes ([[lore-heladvezhnur|The Vezhnûr Settlement]]), and have led punitive raids down out of the passes into the Hek'ar to spread terror and assert the Black Flame's dominance, and [[being-drzhvzhnr|Drazha Vezhnûr]] made his name as a Blazewarden leading them. The order now has another reason to cross: the Ruins of Arkor, where the **Eye of Velok** is believed to lie hidden. Rival Black Flame factions, among them the order called **Nakarys the Scourge**, are in the desert too, and they and the Servants fight each other there as readily as anyone else. An expedition into the Hek'ar meets the desert, the knights, and their quarrels together.
+The **Servants of Vezhnurikos**, a feared military order of [[affiliation-blackflame|Black Flame]] knights, take their name from the centurion of the cohort settled in the passes ([[lore-heladvezhnur|The Vezhnur Settlement]]), and have led punitive raids down out of the passes into the Hek'ar to spread terror and assert the Black Flame's dominance, and [[being-drzhvzhnr|Drazha Vezhnur]] made his name as a Blazewarden leading them. The order now has another reason to cross: the Ruins of Arkor, where the **Eye of Velok** is believed to lie hidden. Rival Black Flame factions, among them the order called **Nakarys the Scourge**, are in the desert too, and they and the Servants fight each other there as readily as anyone else. An expedition into the Hek'ar meets the desert, the knights, and their quarrels together.
 
 ## Danger
 
-The desert itself is the commoner killer. Water is the first danger, then the heat, then the sandstorms of late spring that come down off the foothills without warning. Bone Scorpions and Giant Camel Spiders hunt the margins of the dunes. The tribes of the Völketör do not hunt the knights, and they sell them water.
+The desert itself is the commoner killer. Water is the first danger, then the heat, then the sandstorms of late spring that come down off the foothills without warning. Bone Scorpions and Giant Camel Spiders hunt the margins of the dunes. The tribes of the Volketor do not hunt the knights, and they sell them water.
 
 ## A Hook
 
-A Byzarian caravan master with two hundred camels waiting at the foot of the March wants an escort across the Hek'ar, and the road that serves him runs through the middle of the Black Flame's quarrel. The knights will not touch a caravan that pays the tribes for passage; they will take one that does not, and what it carries.
+A Bizarian caravan master with two hundred camels waiting at the foot of the March wants an escort across the Hek'ar, and the road that serves him runs through the middle of the Black Flame's quarrel. The knights will not touch a caravan that pays the tribes for passage; they will take one that does not, and what it carries.
 
 ## See Also
 
 - [[place-ruinsarkor|Ruins of Arkor]]—the buried city in its sands
-- [[being-drzhvzhnr|Drazha Vezhnûr]]—the Blazewarden who raids it
+- [[being-drzhvzhnr|Drazha Vezhnur]]—the Blazewarden who raids it
 - [[place-eastrnmrch|Eastern March]]—the march above its passes
 - [[place-roqid|Oroqid]]—the Vylarian fort on the same margin

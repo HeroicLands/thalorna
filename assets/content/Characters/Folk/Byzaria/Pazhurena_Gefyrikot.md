@@ -1,9 +1,9 @@
 ---
 shortcode: pazhurenagef
-name: {full: Pazhûréna Gefyríkot, aliases: [High Priestess Pazhûréna Gefyríkot]}
+name: {full: Pazhurena Gefirikot, aliases: [High Priestess Pazhurena Gefirikot]}
 type: being
 subType: npc
-description: High priestess and supreme ecclesiastical authority in the region, named in Bokhenôn Hodíkot.
+description: High priestess and supreme ecclesiastical authority in the region, named in Bokhenon Hodikot.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Pazhûréna Gefyríkot is a 65-year-old woman who stands 6'0" tall with a heavy build. She has light skin, sun-kissed complexion, dark brown hair, and brown eyes.
+Pazhurena Gefirikot is a 65-year-old woman who stands 6'0" tall with a heavy build. She has light skin, sun-kissed complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Pazhûréna Gefyríkot is the high priestess and supreme ecclesiastical authority in the region. In one plot hook of the note on [[being-lnntshdkt|Bokhenôn Hodíkot]], she discovers evidence suggesting that Bokhenôn has been conducting unauthorized dark rituals in the temple's lower chambers.
+Pazhurena Gefirikot is the high priestess and supreme ecclesiastical authority in the region. In one plot hook of the note on [[being-lnntshdkt|Bokhenon Hodikot]], she discovers evidence suggesting that Bokhenon has been conducting unauthorized dark rituals in the temple's lower chambers.

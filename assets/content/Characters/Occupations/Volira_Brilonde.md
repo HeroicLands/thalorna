@@ -1,6 +1,6 @@
 ---
 shortcode: vlyrbrylnd
-name: {full: Volìra Brilònde, aliases: []}
+name: {full: Volira Brilonde, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Volìra Brilònde is a 30-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. Her narrow brown eyes sit beneath thin brows, lending her a keen gaze. A straight nose and curved lips complete her features. She has light skin with a bronzed complexion. Her gray hair is swept up and held with carved combs.
+Volira Brilonde is a 30-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. Her narrow brown eyes sit beneath thin brows, lending her a keen gaze. A straight nose and curved lips complete her features. She has light skin with a bronzed complexion. Her gray hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Volìra Brilònde came into the world of the thatcher through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Volira Brilonde came into the world of the thatcher through a combination of circumstance and aptitude.
 
-Volìra learned the craft of thatching from her father, a well-known thatcher in their village. She was one of the few women in the area to take up the trade, earning respect for her skill and dedication. Her work is known for its neatness and durability, though some older villagers were initially skeptical about a woman working in such a physically demanding trade.
+Volira learned the craft of thatching from her father, a well-known thatcher in their village. She was one of the few women in the area to take up the trade, earning respect for her skill and dedication. Her work is known for its neatness and durability, though some older villagers were initially skeptical about a woman working in such a physically demanding trade.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Sometimes takes on too much work, struggles to say no to clients.
 
 ### Motivation
 
-Volìra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in thatcher work keep her vigilant and adaptable.
+Volira is driven by the desire to master her craft and secure a stable future. The uncertainties of life in thatcher work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Skilled in thatching, attentive to detail, innovative.
 
 ## Social
 
-Volìra is affiliated with None; works independently.
+Volira is affiliated with None; works independently.
 
-As a Provenzian thatcher, Volìra occupies a recognized social niche within Provènzia society.
+As a Provenzian thatcher, Volira occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Volìra's primary patron is Farmers and villagers who appreciate her work. This relationship provides both opportunity and obligation.
+Volira's primary patron is Farmers and villagers who appreciate her work. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Few; has generally earned the respect of the community.
 
 ## Plot Hooks
 
-1. **The Thatcher's Dilemma**—Volìra faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Thatcher's Dilemma**—Volira faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
 2. **Old Grudges**—Few; has generally earned the respect of the community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Volìra's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Volira's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Volìra depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Volira depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Volìra the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Volira the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

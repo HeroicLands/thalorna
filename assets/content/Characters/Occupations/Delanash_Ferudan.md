@@ -1,6 +1,6 @@
 ---
 shortcode: delnshfrdn
-name: {full: Delânash Ferudân, aliases: []}
+name: {full: Delanash Ferudan, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]
@@ -369,25 +369,25 @@ sohl:
 
 # Appearance {#appearance}
 
-Delânash is an imposing woman—6'3" with a massive, powerfully built frame that carries 262 pounds with the settled weight of a veteran who has spent decades in harness. Her chestnut hair is thick and unruly, usually bound beneath a linen headwrap against the desert sun, and her honey-brown eyes are sharp and knowing beneath heavy brows. Her medium-toned skin is freckled across the nose and cheeks—unusual for a Dunhari woman and a source of mild self-consciousness. Her face is square-jawed and strong-featured, and her hands are broad and scarred from years of weapons drill. She wears a desert garrison's kit: a long padded coat over linen, leather bracers and greaves, and a curved scimitar on her hip that she maintains with the close care of a woman who trusts her blade above all other weapons.
+Delanash is an imposing woman—6'3" with a massive, powerfully built frame that carries 262 pounds with the settled weight of a veteran who has spent decades in harness. Her chestnut hair is thick and unruly, usually bound beneath a linen headwrap against the desert sun, and her honey-brown eyes are sharp and knowing beneath heavy brows. Her medium-toned skin is freckled across the nose and cheeks—unusual for a Dunhari woman and a source of mild self-consciousness. Her face is square-jawed and strong-featured, and her hands are broad and scarred from years of weapons drill. She wears a desert garrison's kit: a long padded coat over linen, leather bracers and greaves, and a curved scimitar on her hip that she maintains with the close care of a woman who trusts her blade above all other weapons.
 
 # Dossier {#dossier}
 
-Delânash comes from Dunhari desert tribes, though her freckled complexion is unusual enough to have marked her as an outsider even in her birth tribe. Her mother was a settlement-keeper whose family had mixed heritage; her father was a Dunhari warrior. The combination produced Delânash: a tall woman with distinctive freckled skin that the pure-blood tribes regarded as a sign of weakness or taint. She was neither fully Dunhari in their eyes nor fully able to pass in settled lands.
+Delanash comes from Dunhari desert tribes, though her freckled complexion is unusual enough to have marked her as an outsider even in her birth tribe. Her mother was a settlement-keeper whose family had mixed heritage; her father was a Dunhari warrior. The combination produced Delanash: a tall woman with distinctive freckled skin that the pure-blood tribes regarded as a sign of weakness or taint. She was neither fully Dunhari in their eyes nor fully able to pass in settled lands.
 
-At nineteen, she presented herself to the desert fortress garrison as a volunteer. The garrison commander saw a six-foot-two woman of great strength and no tribal allegiances, and he understood immediately that she was perfect for a military institution that did not care about bloodline. For twenty-one years, Delânash has served in the fortress, working her way from basic garrison service to senior officer rank. She has mentored generations of desert warriors and has become indispensable to fortress operations.
+At nineteen, she presented herself to the desert fortress garrison as a volunteer. The garrison commander saw a six-foot-two woman of great strength and no tribal allegiances, and he understood immediately that she was perfect for a military institution that did not care about bloodline. For twenty-one years, Delanash has served in the fortress, working her way from basic garrison service to senior officer rank. She has mentored generations of desert warriors and has become indispensable to fortress operations.
 
-Delânash's unusual coloring has become her identifying feature. Young soldiers call her "The Freckled Guard" with respect rather than derision. She has become a symbol of the garrison's ideal of advancement by merit—advancement through competence rather than heritage. This makes her politically significant in ways she neither sought nor particularly wants.
+Delanash's unusual coloring has become her identifying feature. Young soldiers call her "The Freckled Guard" with respect rather than derision. She has become a symbol of the garrison's ideal of advancement by merit—advancement through competence rather than heritage. This makes her politically significant in ways she neither sought nor particularly wants.
 
 ## Psyche
 
 ### Personality
 
-Delânash is matter-of-fact and practical, with little patience for ornamentation in language or action. She is kind to those who work competently and will stand by them. She is harsh with those who approach their work with casual laziness, and her criticism is blunt enough to wound. She has a dry sense of humor and occasionally says things of surprising philosophical depth without apparent awareness that she has done so.
+Delanash is matter-of-fact and practical, with little patience for ornamentation in language or action. She is kind to those who work competently and will stand by them. She is harsh with those who approach their work with casual laziness, and her criticism is blunt enough to wound. She has a dry sense of humor and occasionally says things of surprising philosophical depth without apparent awareness that she has done so.
 
 ### Motivation
 
-Delânash's primary motivation is the garrison itself—that it works and that its soldiers survive their tours of duty. She has made peace with her status as tribal outsider by committing entirely to institutional loyalty. Her secondary motivation is proving that desert-born warriors can be disciplined soldiers rather than tribal mercenaries. She wants the fortress to become a model that expands across [[place-dunharargn|Dunhara]].
+Delanash's primary motivation is the garrison itself—that it works and that its soldiers survive their tours of duty. She has made peace with her status as tribal outsider by committing entirely to institutional loyalty. Her secondary motivation is proving that desert-born warriors can be disciplined soldiers rather than tribal mercenaries. She wants the fortress to become a model that expands across [[place-dunharargn|Dunhara]].
 
 ### Strengths
 
@@ -395,26 +395,26 @@ Her skill in combat is great, honed through decades of actual desert warfare and
 
 ## Social
 
-Delânash occupies a unique social position: respected by the garrison, treated with suspicion by pure-blood Dunhari tribes, invisible to settled commercial classes. Her unusual coloring makes her instantly identifiable and contributes to her semi-mythical status as a garrison legend.
+Delanash occupies a unique social position: respected by the garrison, treated with suspicion by pure-blood Dunhari tribes, invisible to settled commercial classes. Her unusual coloring makes her instantly identifiable and contributes to her semi-mythical status as a garrison legend.
 
 ## Companions
 
 ### Patrons
 
-**Fortress Commander Bashvard Darvâni**—The garrison's senior officer. Bashvard respects Delânash completely and has made her his effective second-in-command. He is aging and increasingly aware that his time is ending. He has made quiet arrangements to recommend Delânash as his successor, which would be unprecedented—a woman and a tribal outsider commanding the entire fortress.
+**Fortress Commander Bashvard Darvani**—The garrison's senior officer. Bashvard respects Delanash completely and has made her his effective second-in-command. He is aging and increasingly aware that his time is ending. He has made quiet arrangements to recommend Delanash as his successor, which would be unprecedented—a woman and a tribal outsider commanding the entire fortress.
 
 ### Enemies
 
-**Tribal Elder Zarvash Kâveran**—A pure-blood Dunhari tribal leader who views the fortress's advancement by merit as a threat to traditional tribal hierarchy. He has begun spreading rumors that Delânash is an outsider unfit for command and is being used by foreign interests to weaken Dunhari warrior culture. His political campaign against her has gained traction with conservative tribal factions.
+**Tribal Elder Zarvash Kaveran**—A pure-blood Dunhari tribal leader who views the fortress's advancement by merit as a threat to traditional tribal hierarchy. He has begun spreading rumors that Delanash is an outsider unfit for command and is being used by foreign interests to weaken Dunhari warrior culture. His political campaign against her has gained traction with conservative tribal factions.
 
 ## Plot Hooks
 
-1. **The Succession Battle**—When Fortress Commander Bashvard dies, Delânash is officially recommended as his successor by the military hierarchy. The appointment touches off a political firestorm among Dunhari tribes who refuse to accept a woman and tribal outsider commanding the fortress. A rival candidate—a pure-blood Dunhari warrior of great skill—is proposed, backed by Tribal Elder Zarvash. The fortress becomes a political battleground, and Delânash can accept a compromise that strips her of actual authority, or refuse and accept that tribal forces will move against the fortress openly.
+1. **The Succession Battle**—When Fortress Commander Bashvard dies, Delanash is officially recommended as his successor by the military hierarchy. The appointment touches off a political firestorm among Dunhari tribes who refuse to accept a woman and tribal outsider commanding the fortress. A rival candidate—a pure-blood Dunhari warrior of great skill—is proposed, backed by Tribal Elder Zarvash. The fortress becomes a political battleground, and Delanash can accept a compromise that strips her of actual authority, or refuse and accept that tribal forces will move against the fortress openly.
 
-2. **The Freckle Prejudice**—Delânash discovers that a younger officer, **Captain Razâshar**, is secretly working with Tribal Elder Zarvash to document her decisions for political criticism. Razâshar respects her military competence but has been convinced by Zarvash that Delânash's presence in command is corrupting Dunhari warrior traditions. Delânash can remove Razâshar from his command, which bears out Zarvash's accusation that she wields power unfairly, or tolerate his undermining and go on with the work.
+2. **The Freckle Prejudice**—Delanash discovers that a younger officer, **Captain Razashar**, is secretly working with Tribal Elder Zarvash to document her decisions for political criticism. Razashar respects her military competence but has been convinced by Zarvash that Delanash's presence in command is corrupting Dunhari warrior traditions. Delanash can remove Razashar from his command, which bears out Zarvash's accusation that she wields power unfairly, or tolerate his undermining and go on with the work.
 
-3. **The Impure Blood Discovery**—Delânash learns that Bashvard did not die of natural causes but was poisoned—slowly, over weeks. Investigation reveals the poison was administered by someone in the inner command circle. The political implication is clear: traditional Dunhari factions are eliminating anyone who supports Delânash's advancement. Delânash can accuse Zarvash publicly and risk all-out tribal war, or suppress the investigation and appear weak.
+3. **The Impure Blood Discovery**—Delanash learns that Bashvard did not die of natural causes but was poisoned—slowly, over weeks. Investigation reveals the poison was administered by someone in the inner command circle. The political implication is clear: traditional Dunhari factions are eliminating anyone who supports Delanash's advancement. Delanash can accuse Zarvash publicly and risk all-out tribal war, or suppress the investigation and appear weak.
 
-4. **The Desert Refuge**—A group of people arrives at the fortress claiming to be refugee traders. Investigation reveals they are actually members of a neighboring tribe fleeing political upheaval that threatens to kill them. Tribal Elder Zarvash demands that Delânash eject them immediately, claiming they are "undesirable" and will contaminate the garrison. The refugees have nowhere else to go and will be executed if sent away. Delânash can refuse Zarvash, which escalates the tribal conflict, or comply, which betrays everything the garrison stands for.
+4. **The Desert Refuge**—A group of people arrives at the fortress claiming to be refugee traders. Investigation reveals they are actually members of a neighboring tribe fleeing political upheaval that threatens to kill them. Tribal Elder Zarvash demands that Delanash eject them immediately, claiming they are "undesirable" and will contaminate the garrison. The refugees have nowhere else to go and will be executed if sent away. Delanash can refuse Zarvash, which escalates the tribal conflict, or comply, which betrays everything the garrison stands for.
 
-5. **The Freckles As Advantage**—An external threat emerges—a military force from an adjacent realm staging operations against the fortress. Delânash realizes that her distinctive appearance and her reputation as a garrison commander have actually deterred several potential attacks through intimidation and stories. But that reputation is being used against her by Zarvash, who claims she is a "foreign symbol" leading the garrison away from Dunhari traditions. Delânash can cultivate the stories as a tactical advantage, which bears out Zarvash's accusations, or reject them and lose the protection they provide.
+5. **The Freckles As Advantage**—An external threat emerges—a military force from an adjacent realm staging operations against the fortress. Delanash realizes that her distinctive appearance and her reputation as a garrison commander have actually deterred several potential attacks through intimidation and stories. But that reputation is being used against her by Zarvash, who claims she is a "foreign symbol" leading the garrison away from Dunhari traditions. Delanash can cultivate the stories as a tactical advantage, which bears out Zarvash's accusations, or reject them and lose the protection they provide.

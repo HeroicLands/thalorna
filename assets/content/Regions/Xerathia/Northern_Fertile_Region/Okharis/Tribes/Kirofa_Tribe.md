@@ -1,9 +1,9 @@
 ---
 shortcode: kirofatrb
-name: {full: Kirófa Tribe, aliases: []}
+name: {full: Kirofa Tribe, aliases: []}
 type: affiliation
 subType: polity
-description: A river tribe of the Okháris that tends date palms and fig orchards along the banks.
+description: A river tribe of the Okharis that tends date palms and fig orchards along the banks.
 tags: [draft]
 data:
   templatePriority: null
@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe owes fealty to Okháris, and its chieftain and elders attend the regular moots held in the temple-cities, where matters affecting the tribes are decided. Every member holds standing in Okháris as well as in the tribe: most as Villager/Townsman, the elders and the chieftain as Honored One.
+      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe owes fealty to Okharis, and its chieftain and elders attend the regular moots held in the temple-cities, where matters affecting the tribes are decided. Every member holds standing in Okharis as well as in the tribe: most as Villager/Townsman, the elders and the chieftain as Honored One.
     ranks:
       - level: 0
         title: Kinless
@@ -55,12 +55,12 @@ data:
 sohl: {system: {commonSkills: [okharclng]}}
 ---
 
-## The Kirófa
+## The Kirofa
 
-The **Kirófa** are a tribe owing fealty to [[affiliation-okharis|Okháris]]. Their seat is
-[[place-kirofavlg|Kirófa Village]], one of the settled villages of
-[[place-okharisrgn|Okháris]].
+The **Kirofa** are a tribe owing fealty to [[affiliation-okharis|Okharis]]. Their seat is
+[[place-kirofavlg|Kirofa Village]], one of the settled villages of
+[[place-okharisrgn|Okharis]].
 
 Their date palms and fig trees crowd the watered banks, and the dried fruit keeps through the hottest months and travels well to market.
 
-The tribe follows Okháris customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Kirófa belongs to Okháris as well as to the tribe.
+The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Kirofa belongs to Okharis as well as to the tribe.

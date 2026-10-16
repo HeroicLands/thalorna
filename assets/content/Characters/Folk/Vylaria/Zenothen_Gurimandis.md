@@ -1,9 +1,9 @@
 ---
 shortcode: zenothenguri
-name: {full: Zênôthen Gûrimândis, aliases: [Brother Zênôthen]}
+name: {full: Zenothen Gurimandis, aliases: [Brother Zenothen]}
 type: being
 subType: npc
-description: A priest of Mârendâs at the Temple of Wisdom and confessor to several scholars, named in Azatô Dâmzânis.
+description: A priest of Marendas at the Temple of Wisdom and confessor to several scholars, named in Azato Damzanis.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zênôthen Gûrimândis is a 69-year-old man who stands 5'9" tall with a medium build. He has tanned skin, ruddy complexion, brown hair, and amber eyes.
+Zenothen Gurimandis is a 69-year-old man who stands 5'9" tall with a medium build. He has tanned skin, ruddy complexion, brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Zênôthen Gûrimândis is an aging priest of Mârendâs at the Temple of Wisdom and the confessor of several scholars. [[being-azatodmzns|Azatô Dâmzânis]] speaks with him monthly on theological matters, and he is one of the few people with whom [[being-azatodmzns|Azatô Dâmzânis]] engages with something approaching candor. He harbors no illusions about [[being-azatodmzns|Azatô Dâmzânis]]'s capacity for warmth.
+Zenothen Gurimandis is an aging priest of Marendas at the Temple of Wisdom and the confessor of several scholars. [[being-azatodmzns|Azato Damzanis]] speaks with him monthly on theological matters, and he is one of the few people with whom [[being-azatodmzns|Azato Damzanis]] engages with something approaching candor. He harbors no illusions about [[being-azatodmzns|Azato Damzanis]]'s capacity for warmth.

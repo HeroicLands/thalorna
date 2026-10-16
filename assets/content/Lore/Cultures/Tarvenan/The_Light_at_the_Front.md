@@ -21,9 +21,9 @@ data:
 # terran_analog: "The Galician Santa Compaña, the night procession of the dead led by a living bearer who cannot set down the light until another takes it; the homecoming soldier's tale; the repeated scene at each door with its variations, as in the folktale's visits to many houses; and the coin carried home for the dead."
 ---
 
-**The Light at the Front** is told in the valleys above [[place-kavrenath|Kávrenath]] on the night the dead walk, when every house sets a lantern for the dead, an _ezkóbe_, on its threshold, and the procession, the _gatséra_, goes by on the dead roads. It is told after the lanterns are lit and before the house goes to bed, by whoever in the house has been longest under contract, and it is not told on any other night.
+**The Light at the Front** is told in the valleys above [[place-kavrenath|Kávrenath]] on the night the dead walk, when every house sets a lantern for the dead, an _ezkobe_, on its threshold, and the procession, the _gatsera_, goes by on the dead roads. It is told after the lanterns are lit and before the house goes to bed, by whoever in the house has been longest under contract, and it is not told on any other night.
 
-The tale belongs to the crossbow companies of the valleys. It is the tale of a man of one of them who came home late from a contract across the sea with the pay of eleven dead men in his pack, and of his companion **Kotsúde**, the Chough, who was one of the eleven. The crossbowman is never named in it. The valleys hold that he asked not to be, and the tale keeps the contract. It is told with the eleven doors as the teller pleases, all eleven by a patient teller and three or four by a tired one, and always with the last.
+The tale belongs to the crossbow companies of the valleys. It is the tale of a man of one of them who came home late from a contract across the sea with the pay of eleven dead men in his pack, and of his companion **Kotsude**, the Chough, who was one of the eleven. The crossbowman is never named in it. The valleys hold that he asked not to be, and the tale keeps the contract. It is told with the eleven doors as the teller pleases, all eleven by a patient teller and three or four by a tired one, and always with the last.
 
 : The Light at the Front {#tale}
 
@@ -45,9 +45,9 @@ He kept the contract. The word first. That's what we are.
 
 He said the names of the eleven on the bank, all eleven, out loud, so that the river heard them. He cut a lock of hair from each and put it in his own purse. And he put the company on the road with the army, and they marched, and they didn't look back at the bank, and it was the worst thing any of them ever did, and it was right, and that's what a contract is.
 
-And when the season was over and the company was paid, the captain did what a captain does. He counted out the pay of the eleven, every bit of it, the whole season, as if they'd lived to the end of it, because they'd been under contract to the end of it and they'd kept their side. And he made it into eleven purses, and he put a lock of hair in each, and he gave the eleven purses to one man to carry home over the sea and over the passes to the eleven houses, because that man had been the companion, the _holvétho_, of one of the dead, and it was his to do.
+And when the season was over and the company was paid, the captain did what a captain does. He counted out the pay of the eleven, every bit of it, the whole season, as if they'd lived to the end of it, because they'd been under contract to the end of it and they'd kept their side. And he made it into eleven purses, and he put a lock of hair in each, and he gave the eleven purses to one man to carry home over the sea and over the passes to the eleven houses, because that man had been the companion, the _holvetho_, of one of the dead, and it was his to do.
 
-That man is the crossbowman. The one of the eleven he rode beside was Kotsúde. The Chough. They called him that because his hair was black and he whistled like one on the march, a high thin whistle, and because he went up rocks the way a chough does, without seeming to. He had no house of his own. He was a fosterling. The crossbowman's family had taken him in when he was six, when his own people died in the snowslide above the mill. So he was the crossbowman's brother in every way that matters, and in the one way that doesn't.
+That man is the crossbowman. The one of the eleven he rode beside was Kotsude. The Chough. They called him that because his hair was black and he whistled like one on the march, a high thin whistle, and because he went up rocks the way a chough does, without seeming to. He had no house of his own. He was a fosterling. The crossbowman's family had taken him in when he was six, when his own people died in the snowslide above the mill. So he was the crossbowman's brother in every way that matters, and in the one way that doesn't.
 
 **The pass.** The crossbowman came home over the sea and up from the coast with the company's pay for his own house on his belt and the eleven purses in his pack. He came alone, at the end, because the others had gone to their own valleys, and his was the last valley and the highest.
 
@@ -59,39 +59,39 @@ He was on it. He could see the lanterns on the thresholds below him, one, and th
 
 **What came down the road.** He didn't turn round. You don't. He stepped off the road and stood in the bracken with his back to the stream and his pack on his back and his crossbow in his hand, which was no use, and he waited for them to go by. You stand still and they go by. That's all you have to do.
 
-They came down the road. First the light, carried at the front on a pole, a lantern on a pole like the ones the drovers carry, and then behind the light the line. You've never seen it. I've never seen it. I've seen the light, once, from the window, going down the valley. Never the line. He saw the line. They were walking two by two, close, the way a company walks on a narrow road at night, and they were quiet, and they didn't look at him. The old ones of the valley were in it, the _zekúdi_, men and women he half knew from when he was a child, who'd died when he was a child, the old miller, the woman who sold eggs, all walking.
+They came down the road. First the light, carried at the front on a pole, a lantern on a pole like the ones the drovers carry, and then behind the light the line. You've never seen it. I've never seen it. I've seen the light, once, from the window, going down the valley. Never the line. He saw the line. They were walking two by two, close, the way a company walks on a narrow road at night, and they were quiet, and they didn't look at him. The old ones of the valley were in it, the _zekudi_, men and women he half knew from when he was a child, who'd died when he was a child, the old miller, the woman who sold eggs, all walking.
 
 And in the middle of the line there were eleven men walking two by two with crossbows on their backs and the mud of a river still on their legs.
 
-And at the front of all of them, carrying the light on the pole, was Kotsúde.
+And at the front of all of them, carrying the light on the pole, was Kotsude.
 
 **The light.** He came down the road with the light in his two hands, and he didn't go by. He stopped. The whole line stopped behind him. He turned, and he looked at the crossbowman in the bracken, and he held out the pole.
 
-He didn't say anything. The dead don't. You don't ask them anything either. That's the faith and it's the old way too. Kotsúde held out the pole with the light on it, and his face was his face, and he looked tired, the way he looked at the end of a long march when the camp was still a mile off, and he held it out.
+He didn't say anything. The dead don't. You don't ask them anything either. That's the faith and it's the old way too. Kotsude held out the pole with the light on it, and his face was his face, and he looked tired, the way he looked at the end of a long march when the camp was still a mile off, and he held it out.
 
 Now, the old ones say, and I say it to you: the light in the procession can only be carried by a living hand. The dead can carry it, but they carry it the way you carry water in your hands, and it goes out of them. They need someone living at the front. And whoever takes the light walks at the front of the line, and can't put it down, until the dead are where they're going. And if you take it you can't give it back to them. You can only give it to another living hand that reaches for it.
 
 He knew that. Every child in the valley knows that. Don't take the light.
 
-He took it. Kotsúde was his companion, and his brother, and Kotsúde held it out. What would you have done?
+He took it. Kotsude was his companion, and his brother, and Kotsude held it out. What would you have done?
 
-He stepped out of the bracken onto the road and put his hands on the pole above Kotsúde's hands, and the pole was cold, colder than iron in winter, so cold that his hands stuck to it, and Kotsúde let go. And Kotsúde stepped back into the line, beside the place where he'd walked on the march, and the crossbowman was at the front with the light, and he started walking, because the line behind him was walking, and he couldn't stop.
+He stepped out of the bracken onto the road and put his hands on the pole above Kotsude's hands, and the pole was cold, colder than iron in winter, so cold that his hands stuck to it, and Kotsude let go. And Kotsude stepped back into the line, beside the place where he'd walked on the march, and the crossbowman was at the front with the light, and he started walking, because the line behind him was walking, and he couldn't stop.
 
-**The first door.** The road goes past every house. The first house below the pass was the house of a man the company called **Kanárrek**, the Ram, one of the eleven, a big man, slow, the best shot in the company.
+**The first door.** The road goes past every house. The first house below the pass was the house of a man the company called **Kanarrek**, the Ram, one of the eleven, a big man, slow, the best shot in the company.
 
-The lantern was on the threshold. Every house sets one. The line came down the road to the lantern, and the old ones of the valley walked past it, the way they do, past the light and on, and then Kanárrek came to it, and he stopped. He stood on the road outside his own door and looked at the lantern and didn't go by.
+The lantern was on the threshold. Every house sets one. The line came down the road to the lantern, and the old ones of the valley walked past it, the way they do, past the light and on, and then Kanarrek came to it, and he stopped. He stood on the road outside his own door and looked at the lantern and didn't go by.
 
-And the crossbowman, at the front, couldn't go on. His feet wouldn't move. The pole wouldn't move. And he understood. They don't know. Kanárrek's house doesn't know he's dead. The lantern is set for the old ones, and the old ones go by, but his house hasn't set it for him, because nobody has told them, and he can't go by it till they have.
+And the crossbowman, at the front, couldn't go on. His feet wouldn't move. The pole wouldn't move. And he understood. They don't know. Kanarrek's house doesn't know he's dead. The lantern is set for the old ones, and the old ones go by, but his house hasn't set it for him, because nobody has told them, and he can't go by it till they have.
 
 That's what the eleven had walked home across the sea for. Not to come home. To be told. To be set the lantern for.
 
-He couldn't leave the pole. So he shouted. He stood on the road at the front of the dead with the light in his frozen hands and shouted at Kanárrek's door, the name of Kanárrek's wife, until the shutter opened, and then the door. And she came to the threshold in her shawl with a candle, and she saw the light on the road, and a man holding it, and nothing behind him. She couldn't see them. You can't, unless you hold the light.
+He couldn't leave the pole. So he shouted. He stood on the road at the front of the dead with the light in his frozen hands and shouted at Kanarrek's door, the name of Kanarrek's wife, until the shutter opened, and then the door. And she came to the threshold in her shawl with a candle, and she saw the light on the road, and a man holding it, and nothing behind him. She couldn't see them. You can't, unless you hold the light.
 
 He said: It's me. From the company. I've come from the captain. Your man is dead. He died at the river in the autumn, holding the ford. He kept the contract to the end. I have his pay.
 
 He couldn't take the pack off. His hands were on the pole. He said: It's in my pack. The purse with the brown string. Take it. She came out onto the road, into the dark, toward the light, toward the dead she couldn't see, and she went behind him and opened his pack and took out the purse with the brown string, and in it was the season's pay and a lock of black hair, and she held it. And she went back to her threshold and stood by the lantern and said her husband's name. Just the name.
 
-And Kanárrek went by.
+And Kanarrek went by.
 
 The crossbowman felt the pole move in his hands. And he walked on.
 
@@ -113,9 +113,9 @@ That's ten.
 
 **The last door.** The last house in the valley, the highest one, at the end of the road where the dead road goes on up past the houses into the mountains, was his own house.
 
-Kotsúde had no house but that one. And nobody in that house knew yet that Kotsúde was dead, either. Or that the man of the house was coming home. They'd heard nothing for a season.
+Kotsude had no house but that one. And nobody in that house knew yet that Kotsude was dead, either. Or that the man of the house was coming home. They'd heard nothing for a season.
 
-He came up the last of the road with the light. He'd been carrying it all night. His hands had stopped hurting a long time before. His arms were nothing. He couldn't feel his feet. And the line behind him was short now, the old ones gone on ahead into the dark, up the road, and only one man still walking behind him. Kotsúde. Whistling, he thought. He couldn't be sure. A high thin whistle, very far away.
+He came up the last of the road with the light. He'd been carrying it all night. His hands had stopped hurting a long time before. His arms were nothing. He couldn't feel his feet. And the line behind him was short now, the old ones gone on ahead into the dark, up the road, and only one man still walking behind him. Kotsude. Whistling, he thought. He couldn't be sure. A high thin whistle, very far away.
 
 His wife was on the threshold. She'd heard him shouting at the other doors, all down the valley, all night. Everybody in the valley had. She was standing on the threshold by the lantern with the door open behind her and the fire in it, waiting.
 
@@ -123,9 +123,9 @@ And she saw her husband come up the dead road at the front of the procession wit
 
 He said: It isn't me. It's the Chough.
 
-She said: Kotsúde.
+She said: Kotsude.
 
-And Kotsúde went by. He didn't stop. She'd set a lantern for the house, and Kotsúde was the house, and she'd said his name. That was all he'd needed. He walked past his own door and on up the road into the dark after the old ones, and he was gone.
+And Kotsude went by. He didn't stop. She'd set a lantern for the house, and Kotsude was the house, and she'd said his name. That was all he'd needed. He walked past his own door and on up the road into the dark after the old ones, and he was gone.
 
 And the crossbowman was left standing on the road outside his own door with the light, and his feet wouldn't move, and the pole wouldn't move.
 
@@ -139,7 +139,7 @@ That's the thing. The light passes to a living hand that reaches for it. She did
 
 And they walked. Up the road past their own door, past the last fence, up the dead road along the stream into the mountains, after the line, the two of them with one light, all the rest of the night, and neither of them could feel their hands, and neither of them let go.
 
-At the top of the road, before the light came, there's the cave. You know the one. The cave in the rock where the cheese is left at the mouth, and the milk. They came to the mouth of the cave as the sky was going grey over the pass, and the light on the pole was nearly out, and the line in front of them, the old ones and the eleven and Kotsúde, went in at the mouth of the cave, into the Mother, and was gone.
+At the top of the road, before the light came, there's the cave. You know the one. The cave in the rock where the cheese is left at the mouth, and the milk. They came to the mouth of the cave as the sky was going grey over the pass, and the light on the pole was nearly out, and the line in front of them, the old ones and the eleven and Kotsude, went in at the mouth of the cave, into the Mother, and was gone.
 
 And the pole came loose in their hands. Just like that. It was a pole, with a drover's lantern on it, nearly out.
 
@@ -149,7 +149,7 @@ They set it at the mouth of the cave, standing up, with the last of the light in
 
 The crossbowman's hands didn't open from the shape of the pole for a month. His wife's, the same. They went about the holding with their hands curled like that, the two of them, and couldn't hold a spoon properly, and the valley laughed at them, kindly, and fed them. Then their hands opened.
 
-Kotsúde's purse he gave her at the fire, after, and she put it in with the house's money, because Kotsúde was the house.
+Kotsude's purse he gave her at the fire, after, and she put it in with the house's money, because Kotsude was the house.
 
 He never went under contract again. He didn't need to. He'd done the one thing.
 
@@ -159,7 +159,7 @@ So fill it. Go on. And then bed. And don't look out of the window.
 
 ## See Also
 
-- [[place-kavrenath|Kávrenath]] · [[place-asturath|Astúrath]]—the valleys and the pass
-- [[lore-tarvenanclt|Tarvénan]]—the night procession, the lantern on the threshold, the companies and their dead
+- [[place-kavrenath|Kávrenath]] · [[place-asturath|Asturath]]—the valleys and the pass
+- [[lore-tarvenanclt|Tarvenan]]—the night procession, the lantern on the threshold, the companies and their dead
 - [[lore-bloodfield|Blood-fields]]—what a field of unreceived dead becomes
-- [[affiliation-selmoros|Faith of Sélmoros]] · [[affiliation-morvana|Faith of Mórváná]]—the rites the priest says, and the late-autumn festivals of the dead
+- [[affiliation-selmoros|Faith of Sélmoros]] · [[affiliation-morvana|Faith of Morvana]]—the rites the priest says, and the late-autumn festivals of the dead

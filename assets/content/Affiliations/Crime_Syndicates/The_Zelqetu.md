@@ -32,4 +32,4 @@ They hold ground rather than agreements. No stranger contracts with the Zelqetu 
 
 ## See Also
 
-- [[lore-khelathiclt|Khelâthi]]—why a band that records nothing is not the temple's rival
+- [[lore-khelathiclt|Khelathi]]—why a band that records nothing is not the temple's rival

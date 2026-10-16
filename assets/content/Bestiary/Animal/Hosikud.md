@@ -1,6 +1,6 @@
 ---
 shortcode: hosikud
-name: {full: Khoshiqud, aliases: [The Pit-Maker]}
+name: {full: Khoshikud, aliases: [The Pit-Maker]}
 type: being
 subType: creature
 description: "A five-foot burrower that digs a funnel trap in the lee of a dune and drags into the sand whatever slides down, camels included."
@@ -203,35 +203,35 @@ The slope is perfect. It falls away from the crest of the dune in a smooth, even
 
 # Dossier {#dossier}
 
-The Khoshiqud is a burrowing predator of the sand seas, built to make a trap and wait in it. It digs a steep-sided funnel into the lee face of a dune, sinks itself at the bottom with only its jaws open, and lets the loose sand do the work. Anything that steps on the rim slides in; anything that struggles slides deeper; and the Khoshiqud, which throws sand upward at a victim's feet to keep the slope running, closes its jaws on whatever arrives. The tribes call it by the word for sand and the suffix of a doer, "the sand-doer", and the guides of the deep sands call the pit itself _khoshiq_, "sand", as though the dune had made it.
+The Khoshikud is a burrowing predator of the sand seas, built to make a trap and wait in it. It digs a steep-sided funnel into the lee face of a dune, sinks itself at the bottom with only its jaws open, and lets the loose sand do the work. Anything that steps on the rim slides in; anything that struggles slides deeper; and the Khoshikud, which throws sand upward at a victim's feet to keep the slope running, closes its jaws on whatever arrives. The tribes call it by the word for sand and the suffix of a doer, "the sand-doer", and the guides of the deep sands call the pit itself _khoshiq_, "sand", as though the dune had made it.
 
 It is the reason the tribes of the Khoshiqor lead their strings along the crest of a dune and not the foot of it, and the reason no sensible guide will let an animal stop in the shade of a slope.
 
 ## Presentation
 
-The Khoshiqud is about five feet long, with a broad, flat, buff-colored body that matches the sand it lives in, a soft rear half buried at all times and a heavy front half armored in smooth plates. The head is wide and low, and from it two curved jaws reach forward like the arms of a pair of tongs, each as long as a man's forearm and toothed on the inner edge. Six short legs, spiked on the outer joints, serve to dig. A flexible, jointed neck lets the head flick sand upward in an arc, and the underside is pale and soft, as if it had never seen daylight.
+The Khoshikud is about five feet long, with a broad, flat, buff-colored body that matches the sand it lives in, a soft rear half buried at all times and a heavy front half armored in smooth plates. The head is wide and low, and from it two curved jaws reach forward like the arms of a pair of tongs, each as long as a man's forearm and toothed on the inner edge. Six short legs, spiked on the outer joints, serve to dig. A flexible, jointed neck lets the head flick sand upward in an arc, and the underside is pale and soft, as if it had never seen daylight.
 
 An adult spends nearly its entire life below the surface. Dug up and set on open ground, it is a slow, sluggish animal that tries to bury itself again.
 
 ## In the Land
 
-The Khoshiqud lives in the dune fields of the Khoshiqor, in the sand seas the road crosses between the Long Dry and the wells beyond [[place-qisomrktcmp|Qiiso]]. It needs a dune with a steep, sheltered lee face of loose sand, a wind that blows from one direction for most of a season, and a steady supply of animals that want shade. The sand seas around [[place-wilud|Vülüd]] hold more of them than any other country, since the drowned city's walls and tower tops throw long shadows across the lee faces of the dunes, and every animal in a day's march comes to them.
+The Khoshikud lives in the dune fields of the Khoshiqor, in the sand seas the road crosses between the Long Dry and the wells beyond [[place-qisomrktcmp|Qiiso]]. It needs a dune with a steep, sheltered lee face of loose sand, a wind that blows from one direction for most of a season, and a steady supply of animals that want shade. The sand seas around [[place-wilud|Vulud]] hold more of them than any other country, since the drowned city's walls and tower tops throw long shadows across the lee faces of the dunes, and every animal in a day's march comes to them.
 
-A pit is not permanent. A shifting dune buries its own trap in a season, and a Khoshiqud that feeds well digs a new one a few hundred paces off. The animal moves at night, under the sand, and a dune field with a dozen Khoshiqud holds a dozen pits in various stages of use.
+A pit is not permanent. A shifting dune buries its own trap in a season, and a Khoshikud that feeds well digs a new one a few hundred paces off. The animal moves at night, under the sand, and a dune field with a dozen Khoshikud holds a dozen pits in various stages of use.
 
 ## Key Behaviors
 
-A Khoshiqud is lazy and patient. It digs in the cool of the night, working in a spiral from the outside in and throwing sand up and out until the face of the dune stands at the steepest slope it will hold, and then it settles and waits. A pit that has taken a camel feeds its builder for a month. The animal picks the body apart from below, drawing parts of it under the sand, and does not leave the pit until the work is done.
+A Khoshikud is lazy and patient. It digs in the cool of the night, working in a spiral from the outside in and throwing sand up and out until the face of the dune stands at the steepest slope it will hold, and then it settles and waits. A pit that has taken a camel feeds its builder for a month. The animal picks the body apart from below, drawing parts of it under the sand, and does not leave the pit until the work is done.
 
 It senses by vibration. A footfall on the rim tells it the weight, the number of legs and the direction of travel, and it times its first throw of sand to the moment a foot is on the slope. Light prey it does not trouble over; the pit takes lizards and hares without help. A pit is for a beast big enough to feed it, and its builder will let a man walk the rim of the funnel without moving.
 
 ## What the Tribes Do
 
-The tribes of the sands know a Khoshiqud pit by sight. The slope is too smooth, too symmetrical and too clean, and the first thing a guide teaches a new hand is to look at the sand on the lee of every dune before he looks at the sky. Strings are led along the windward crests, where the sand is packed and the pits are never dug. A rider goes ahead on foot with a long pole and probes the shaded face, and an animal that wants to stop in the shade of a slope is hobbled on the crest instead.
+The tribes of the sands know a Khoshikud pit by sight. The slope is too smooth, too symmetrical and too clean, and the first thing a guide teaches a new hand is to look at the sand on the lee of every dune before he looks at the sky. Strings are led along the windward crests, where the sand is packed and the pits are never dug. A rider goes ahead on foot with a long pole and probes the shaded face, and an animal that wants to stop in the shade of a slope is hobbled on the crest instead.
 
-A beast in a pit is not given up. The string's drivers throw ropes, weighted at the end, and the lead hand goes down on a line with a spear and a short blade, since the Khoshiqud can be struck from above as it rises. If the beast is already half buried, the hands cut away the load and heave the animal out by the hump. An Uruvol guide carries a coil of braided hair rope for this and nothing else.
+A beast in a pit is not given up. The string's drivers throw ropes, weighted at the end, and the lead hand goes down on a line with a spear and a short blade, since the Khoshikud can be struck from above as it rises. If the beast is already half buried, the hands cut away the load and heave the animal out by the hump. An Uruvol guide carries a coil of braided hair rope for this and nothing else.
 
-Pit-hunters sell the Khoshiqud's jaws. A pair, dried and cut, becomes the bow-tips of the best composite bows of the sands, and a whole pair is worth a camel.
+Pit-hunters sell the Khoshikud's jaws. A pair, dried and cut, becomes the bow-tips of the best composite bows of the sands, and a whole pair is worth a camel.
 
 ## Signs
 
@@ -244,7 +244,7 @@ Pit-hunters sell the Khoshiqud's jaws. A pair, dried and cut, becomes the bow-ti
 
 ## Combat Strategy
 
-The Khoshiqud never leaves the pit to fight. It strikes from the bottom of the funnel, closing the jaws on a leg or a throat and dragging the victim under, and it keeps the slope running with sand thrown from the neck. A victim that stays on the crest is out of its reach. A victim that falls in meets the jaws within a round, and every attempt to climb a slope that is moving sends the climber back down it.
+The Khoshikud never leaves the pit to fight. It strikes from the bottom of the funnel, closing the jaws on a leg or a throat and dragging the victim under, and it keeps the slope running with sand thrown from the neck. A victim that stays on the crest is out of its reach. A victim that falls in meets the jaws within a round, and every attempt to climb a slope that is moving sends the climber back down it.
 
 Its weakness is its body. Out of the sand it is soft and slow, and any hit that finds the unarmored back half is deadly. A party that has gone into the pit on a rope, with a lead line and a second man holding the crest, can strike it from above where its head is raised.
 
@@ -252,11 +252,11 @@ Its weakness is its body. Out of the sand it is soft and slow, and any hit that 
 
 ### Mandible Bite
 
-The pit-jaws close on the victim with a shearing grip. The inner teeth lock, and the Khoshiqud holds on while it pulls its prey under.
+The pit-jaws close on the victim with a shearing grip. The inner teeth lock, and the Khoshikud holds on while it pulls its prey under.
 
 ### Grapple and Drag
 
-The Khoshiqud wraps its forelegs around the victim and draws it down the slope and into the sand. A creature held this way is half buried in a breath, and the sand closes over the head.
+The Khoshikud wraps its forelegs around the victim and draws it down the slope and into the sand. A creature held this way is half buried in a breath, and the sand closes over the head.
 
 ## Special Abilities
 
@@ -266,7 +266,7 @@ A funnel in loose sand cannot be climbed. A victim moves down it at the rate of 
 
 ### Sand Throw
 
-The Khoshiqud flicks sand upward with its neck in a stream that knocks a victim's feet from under it and fills its eyes. A person hit in the face is blinded for a moment.
+The Khoshikud flicks sand upward with its neck in a stream that knocks a victim's feet from under it and fills its eyes. A person hit in the face is blinded for a moment.
 
 ### Burrow Sense
 
@@ -294,4 +294,4 @@ It feels weight and movement through the sand at a considerable distance and kno
 
 ## A Hook
 
-A newly opened street of Vülüd runs between two lines of wall into a courtyard, and the lee of the nearest dune is as smooth as a plate. The Uruvolur who sold the news of the street have already lost a camel to the courtyard, and they swear it was a bog of loose sand. A rival party is a day behind. The Khoshiqud has taken up in the courtyard, and a party that wants what the courtyard holds has to dig the thing out of its own trap in a street with no room to swing a spear.
+A newly opened street of Vulud runs between two lines of wall into a courtyard, and the lee of the nearest dune is as smooth as a plate. The Uruvolur who sold the news of the street have already lost a camel to the courtyard, and they swear it was a bog of loose sand. A rival party is a day behind. The Khoshikud has taken up in the courtyard, and a party that wants what the courtyard holds has to dig the thing out of its own trap in a street with no room to swing a spear.

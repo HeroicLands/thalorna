@@ -1,9 +1,9 @@
 ---
 shortcode: vraldmylbral
-name: {full: Vraldmýl Braldarukh, aliases: [Lord Vraldmýl Braldarukh]}
+name: {full: Vraldmil Braldaruk, aliases: [Lord Vraldmil Braldaruk]}
 type: being
 subType: npc
-description: A wealthy noble with an appreciation for fine art and textiles who has commissioned tapestries from Glirvrinna Snarvumakh.
+description: A wealthy noble with an appreciation for fine art and textiles who has commissioned tapestries from Glirvrinna Snarvumak.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Vraldmýl Braldarukh is a 23-year-old man who stands 5'11" tall with a heavy build. He has fair skin, weathered complexion, red hair, and brown eyes.
+Vraldmil Braldaruk is a 23-year-old man who stands 5'11" tall with a heavy build. He has fair skin, weathered complexion, red hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Vraldmýl Braldarukh is a wealthy noble with an appreciation for fine art and textiles who has commissioned tapestries from [[being-glrvrnstrmrt|Glirvrinna Snarvumakh]]. He has commissioned multiple tapestries from Glirvrinna.
+Vraldmil Braldaruk is a wealthy noble with an appreciation for fine art and textiles who has commissioned tapestries from [[being-glrvrnstrmrt|Glirvrinna Snarvumak]]. He has commissioned multiple tapestries from Glirvrinna.

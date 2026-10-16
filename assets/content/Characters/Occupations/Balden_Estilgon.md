@@ -1,6 +1,6 @@
 ---
 shortcode: bldnstylgn
-name: {full: Baldèn Estilgòn, aliases: []}
+name: {full: Balden Estilgon, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,23 +392,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Baldèn Estilgòn is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. His piercing green eyes sit beneath arched brows and give him a penetrating gaze. He has a straight nose and full lips. He has fair skin with a fair complexion. His black hair is shoulder-length and loose. A notable feature is deep lines worn into a weathered brow.
+Balden Estilgon is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. His piercing green eyes sit beneath arched brows and give him a penetrating gaze. He has a straight nose and full lips. He has fair skin with a fair complexion. His black hair is shoulder-length and loose. A notable feature is deep lines worn into a weathered brow.
 
 # Dossier {#dossier}
 
-Baldèn Estilgòn is a sworn skald of the Skalds' Circle living at Aurelàne, in [[place-provenzrgn|Provènzia]], a Provenzian by birth and a skald by thirty years' training and service in the halls of the Nordlands.
+Balden Estilgon is a sworn skald of the Skalds' Circle living at Aurelane, in [[place-provenzrgn|Provenzia]], a Provenzian by birth and a skald by thirty years' training and service in the halls of the Nordlands.
 
-Baldèn was taken as an apprentice young and made the Circle's way, and he spent most of his life reciting in the halls of Nordland chieftains, where a skald is the hall's record and his recitation is evidence, and came back to Aurelàne past forty with a voice that carries over a feast. Aurelàne lives on its past, and its old families found that a man who could recite their lineages exactly as received, and would not improve them, was worth keeping. He has trained a handful of Provenzian apprentices, and Baldèn does not compose to please. He holds that a story remembered wrongly is a story lost, and he has ended friendships over a line.
+Balden was taken as an apprentice young and made the Circle's way, and he spent most of his life reciting in the halls of Nordland chieftains, where a skald is the hall's record and his recitation is evidence, and came back to Aurelane past forty with a voice that carries over a feast. Aurelane lives on its past, and its old families found that a man who could recite their lineages exactly as received, and would not improve them, was worth keeping. He has trained a handful of Provenzian apprentices, and Balden does not compose to please. He holds that a story remembered wrongly is a story lost, and he has ended friendships over a line.
 
 ## Psyche
 
 ### Personality
 
-Baldèn is grave, exact and unbending about the record, and slow with any composition of his own; he would rather recite a saga he holds true than write a new one he does not.
+Balden is grave, exact and unbending about the record, and slow with any composition of his own; he would rather recite a saga he holds true than write a new one he does not.
 
 ### Motivation
 
-Baldèn wants the old stories kept exactly as they were given, because the Circle's first principle is the accuracy of memory and he has never found a reason to doubt it. He wants apprentices who will keep them the same way after him.
+Balden wants the old stories kept exactly as they were given, because the Circle's first principle is the accuracy of memory and he has never found a reason to doubt it. He wants apprentices who will keep them the same way after him.
 
 ### Strengths
 
@@ -416,24 +416,24 @@ Experienced reciter, powerful voice, respected by the old families.
 
 ## Social
 
-Baldèn is a sworn skald of the Skalds' Circle, which gives him standing in Aurelàne under the Circle's recognition with the Tevran.
+Balden is a sworn skald of the Skalds' Circle, which gives him standing in Aurelane under the Circle's recognition with the Tevran.
 
 ## Companions
 
 ### Patrons
 
-Baldèn's patrons are the old families of Aurelàne, who want their lineages and their ancestors' deeds recited as received at weddings, funerals and feasts.
+Balden's patrons are the old families of Aurelane, who want their lineages and their ancestors' deeds recited as received at weddings, funerals and feasts.
 
 ### Enemies
 
-His own former apprentices, who compose the flattering verse that Baldèn will not and have begun to take the patrons he taught them to sing for; and one patron whose grandfather's saga Baldèn recited accurately, in company.
+His own former apprentices, who compose the flattering verse that Balden will not and have begun to take the patrons he taught them to sing for; and one patron whose grandfather's saga Balden recited accurately, in company.
 
 ## Plot Hooks
 
-1. **A Line Amended**—An old family has asked Baldèn to leave out a verse of their lineage at a wedding, and offered a year's keep for it. The verse is accurate, and the bride's family has heard it before.
+1. **A Line Amended**—An old family has asked Balden to leave out a verse of their lineage at a wedding, and offered a year's keep for it. The verse is accurate, and the bride's family has heard it before.
 
-2. **The Recital as Witness**—An inheritance dispute has reached the high court at Aurelàne, and one party has asked that Baldèn recite the family's record in evidence, as a Nordland court would take it. The other party knows what the record says.
+2. **The Recital as Witness**—An inheritance dispute has reached the high court at Aurelane, and one party has asked that Balden recite the family's record in evidence, as a Nordland court would take it. The other party knows what the record says.
 
-3. **The False Saga**—A former apprentice has composed a saga of a patron's father that is finer than the truth and is being repeated in Aurelàne as history. Baldèn holds the true record and nobody wants it.
+3. **The False Saga**—A former apprentice has composed a saga of a patron's father that is finer than the truth and is being repeated in Aurelane as history. Balden holds the true record and nobody wants it.
 
-4. **The Gathering**—Baldèn has been summoned north to the Circle's yearly gathering to have his repertoire verified by collective recitation, as every sworn skald is in turn. A line he has recited for thirty years is disputed.
+4. **The Gathering**—Balden has been summoned north to the Circle's yearly gathering to have his repertoire verified by collective recitation, as every sworn skald is in turn. A line he has recited for thirty years is disputed.

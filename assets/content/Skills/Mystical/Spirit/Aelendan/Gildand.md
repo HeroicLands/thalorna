@@ -1,9 +1,9 @@
 ---
 shortcode: gilpandsprt
-name: {full: "Gíldand Spirit Power", aliases: ["Gíldand, the West Wind"]}
+name: {full: "Gildand Spirit Power", aliases: ["Gildand, the West Wind"]}
 type: skill
 subType: mystical
-description: "Standing with Gíldand, the West Wind—what this allied Kindred is met, asked and bargained with."
+description: "Standing with Gildand, the West Wind—what this allied Kindred is met, asked and bargained with."
 tags: [first-gods, spirit-power, draft]
 data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[lore-gilpandspr|Gíldand, the West Wind]]—weather-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
+See [[lore-gilpandspr|Gildand, the West Wind]]—weather-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

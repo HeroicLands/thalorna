@@ -32,4 +32,4 @@ The society takes oaths and keeps no book. What a member owes is sworn in front 
 
 ## See Also
 
-- [[lore-khelathiclt|Khelâthi]]—why a household's debts are not the temple's business
+- [[lore-khelathiclt|Khelathi]]—why a household's debts are not the temple's business

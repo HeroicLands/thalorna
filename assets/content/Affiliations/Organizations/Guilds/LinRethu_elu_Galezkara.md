@@ -52,7 +52,7 @@ The circle's quarrel is with the temple schools, which dismiss the work it funds
 
 ## Commerce and Currency
 
-Say a young scholar with a theory of the river's silt has been turned away from the schools of [[lore-rethsaardty|Reth'Sa'âr]]. She brings her case to the circle. A merchant who has watched his barges ground in the delta offers a stipend for a season's study, a teacher offers a room, and a lecture is announced. The stipend is paid in silver, as wages are.
+Say a young scholar with a theory of the river's silt has been turned away from the schools of [[lore-rethsaardty|Reth'Sa'ar]]. She brings her case to the circle. A merchant who has watched his barges ground in the delta offers a stipend for a season's study, a teacher offers a room, and a lecture is announced. The stipend is paid in silver, as wages are.
 
 ## See Also
 

@@ -1,6 +1,6 @@
 ---
 shortcode: belrktrvnl
-name: {full: Mélrik Tárvenel, aliases: []}
+name: {full: Melrik Tárvenel, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]
@@ -370,25 +370,25 @@ sohl:
 
 # Appearance {#appearance}
 
-Mélrik stands 5'7" with a medium build—compact and quietly strong rather than imposing. His auburn hair falls past his collar in loose waves, and his warm brown eyes carry the slightly distant look of a man more accustomed to watching treelines than people. His fair skin has been bronzed by years of outdoor service, and a prominent scar runs along the right side of his neck—a pale, ropy line from a blade that came closer to killing him than he likes to remember. His face is angular, with a narrow jaw and high cheekbones that mark his Élavendren ancestry. He wears a forest warden's practical kit: a leather tunic over quilted padding, leather knee boots, and a longbow across his back. A hunting knife rides on his belt, and his cloak is the mottled green-brown of someone who prefers not to be seen.
+Melrik stands 5'7" with a medium build—compact and quietly strong rather than imposing. His auburn hair falls past his collar in loose waves, and his warm brown eyes carry the slightly distant look of a man more accustomed to watching treelines than people. His fair skin has been bronzed by years of outdoor service, and a prominent scar runs along the right side of his neck—a pale, ropy line from a blade that came closer to killing him than he likes to remember. His face is angular, with a narrow jaw and high cheekbones that mark his Élavendren ancestry. He wears a forest warden's practical kit: a leather tunic over quilted padding, leather knee boots, and a longbow across his back. A hunting knife rides on his belt, and his cloak is the mottled green-brown of someone who prefers not to be seen.
 
 # Dossier {#dossier}
 
-Mélrik was born in the forest borderlands of [[place-elavendre|Élavendre]], son of a ranger who worked the deep woods. His mother was a settlement dweller; his father was a man of the wild who lived in that liminal space between Élavendren civilization and the ancient forest itself. Mélrik inherited his father's discomfort with walls and his mother's connection to people, a combination that made him ideally suited for border patrol work.
+Melrik was born in the forest borderlands of [[place-elavendre|Élavendre]], son of a ranger who worked the deep woods. His mother was a settlement dweller; his father was a man of the wild who lived in that liminal space between Élavendren civilization and the ancient forest itself. Melrik inherited his father's discomfort with walls and his mother's connection to people, a combination that made him ideally suited for border patrol work.
 
 At twenty, he volunteered for Élavendre's border militia, specifically requesting forest patrol duty. For fifteen years, he has worked that role: monitoring boundaries, protecting settlements from predatory creatures, tracking foreign incursions through terrain that others find disorienting. He is more comfortable with a bow than a sword, more at ease among trees than in garrison compounds. He has killed three foreign agents, two aggressive forest predators, and one Élavendren political fugitive—a complex shooting that required his judgment more than his aim.
 
-The scar on his neck is a reminder of an ambush five years ago—a coordinated attack by foreign scouts testing Élavendre's border defenses. Mélrik survived through luck and superior knowledge of the terrain. The people responsible were executed by Élavendren government forces. Mélrik has not stopped thinking about the attack since.
+The scar on his neck is a reminder of an ambush five years ago—a coordinated attack by foreign scouts testing Élavendre's border defenses. Melrik survived through luck and superior knowledge of the terrain. The people responsible were executed by Élavendren government forces. Melrik has not stopped thinking about the attack since.
 
 ## Psyche
 
 ### Personality
 
-Mélrik is quiet and observant, more comfortable with animals and plants than with most humans. He is patient to the point of stoicism and dislikes rapid emotional display. He is kind to those who approach him with respect, and his few friendships are deep and lasting. He is uncomfortable in formal social settings and will slip away from garrison gatherings whenever possible. He is not antisocial so much as asocial—people are not his native environment.
+Melrik is quiet and observant, more comfortable with animals and plants than with most humans. He is patient to the point of stoicism and dislikes rapid emotional display. He is kind to those who approach him with respect, and his few friendships are deep and lasting. He is uncomfortable in formal social settings and will slip away from garrison gatherings whenever possible. He is not antisocial so much as asocial—people are not his native environment.
 
 ### Motivation
 
-Mélrik's primary motivation is protection of Élavendre's borderlands and the rare wildlife that inhabits them. He is not ideologically committed to his government but rather to the land itself. His secondary motivation is the desire to understand the ambush that nearly killed him and to prevent similar incursions. This curiosity drives him to investigate political and military tensions that exceed his formal responsibilities.
+Melrik's primary motivation is protection of Élavendre's borderlands and the rare wildlife that inhabits them. He is not ideologically committed to his government but rather to the land itself. His secondary motivation is the desire to understand the ambush that nearly killed him and to prevent similar incursions. This curiosity drives him to investigate political and military tensions that exceed his formal responsibilities.
 
 ### Strengths
 
@@ -396,26 +396,26 @@ His tracking ability is outstanding and earned through decades of living in fore
 
 ## Social
 
-Mélrik occupies a liminal role within Élavendren society: respected as a specialist but regarded as emotionally distant and potentially untrustworthy by those who prefer more traditional social engagement. His status as half-forest-dweller makes him something of a legend to young soldiers but suspect to older officers.
+Melrik occupies a liminal role within Élavendren society: respected as a specialist but regarded as emotionally distant and potentially untrustworthy by those who prefer more traditional social engagement. His status as half-forest-dweller makes him something of a legend to young soldiers but suspect to older officers.
 
 ## Companions
 
 ### Patrons
 
-**Captain Élenor Tháurndë**—The commander of Élavendre's border militia. Élenor is a professional soldier who respects Mélrik's competence and has explicitly protected him from reassignment despite his social awkwardness. She has encouraged his investigative work into the ambush that nearly killed him, providing resources quietly.
+**Captain Élenor Thaurnde**—The commander of Élavendre's border militia. Élenor is a professional soldier who respects Melrik's competence and has explicitly protected him from reassignment despite his social awkwardness. She has encouraged his investigative work into the ambush that nearly killed him, providing resources quietly.
 
 ### Enemies
 
-**Foreign Agent Kessian**—A survivor of the ambush that scarred Mélrik. Kessian was wounded in the attack and disappeared into the forest. Mélrik has tracked him sporadically over the past five years and believes he is still active in the borderlands. Kessian has left evidence of his movements—dead animals, disturbed camp sites—that suggests he is specifically taunting Mélrik. The two men have become locked in a long-distance confrontation that is somewhere between vendetta and a war of nerves.
+**Foreign Agent Kessian**—A survivor of the ambush that scarred Melrik. Kessian was wounded in the attack and disappeared into the forest. Melrik has tracked him sporadically over the past five years and believes he is still active in the borderlands. Kessian has left evidence of his movements—dead animals, disturbed camp sites—that suggests he is specifically taunting Melrik. The two men have become locked in a long-distance confrontation that is somewhere between vendetta and a war of nerves.
 
 ## Plot Hooks
 
-1. **The Ambush Investigation**—Mélrik's investigation into the ambush that scarred him leads him to discover that the foreign agents involved had support from within Élavendre—specifically, members of the regional government who were facilitating border incursions in exchange for political power and trade access. The conspiracy is significant and implicates people with connections to the capital. Captain Élenor warns him that pursuing the investigation will make him politically dangerous, and he will be removed or eliminated. Mélrik must choose between abandoning the investigation or becoming a fugitive within his own country.
+1. **The Ambush Investigation**—Melrik's investigation into the ambush that scarred him leads him to discover that the foreign agents involved had support from within Élavendre—specifically, members of the regional government who were facilitating border incursions in exchange for political power and trade access. The conspiracy is significant and implicates people with connections to the capital. Captain Élenor warns him that pursuing the investigation will make him politically dangerous, and he will be removed or eliminated. Melrik must choose between abandoning the investigation or becoming a fugitive within his own country.
 
-2. **The Deep Forest Sanctuary**—Mélrik discovers evidence of a hidden settlement deep in the forest—a community of people who have left Élavendren civilization for various reasons (refugees, dissidents, religious separatists). The settlement is peaceful and self-sufficient, but its existence violates multiple laws. Mélrik has access to files that would expose the settlement and allow government forces to eliminate it. He is under pressure from his superiors to submit a report. He must choose between loyalty to law and loyalty to people he has come to respect.
+2. **The Deep Forest Sanctuary**—Melrik discovers evidence of a hidden settlement deep in the forest—a community of people who have left Élavendren civilization for various reasons (refugees, dissidents, religious separatists). The settlement is peaceful and self-sufficient, but its existence violates multiple laws. Melrik has access to files that would expose the settlement and allow government forces to eliminate it. He is under pressure from his superiors to submit a report. He must choose between loyalty to law and loyalty to people he has come to respect.
 
-3. **Kessian's Revelation**—Mélrik finally confronts Kessian after five years of tracking. Instead of combat, Kessian offers information: the ambush that scarred Mélrik was not a military operation but a punishment by a foreign government against Élavendren officials who had wronged Kessian's people. The "invasion" was actually a targeted execution. Kessian has evidence that the Élavendren government knew this and lied about the attack's nature to avoid diplomatic consequences. Mélrik must decide whether to report this truth or protect his government's credibility.
+3. **Kessian's Revelation**—Melrik finally confronts Kessian after five years of tracking. Instead of combat, Kessian offers information: the ambush that scarred Melrik was not a military operation but a punishment by a foreign government against Élavendren officials who had wronged Kessian's people. The "invasion" was actually a targeted execution. Kessian has evidence that the Élavendren government knew this and lied about the attack's nature to avoid diplomatic consequences. Melrik must decide whether to report this truth or protect his government's credibility.
 
-4. **The Cursed Forest**—Mélrik becomes aware that a region of deep forest is showing signs of corruption—trees dying unnaturally, animal behavior becoming erratic, the spiritual connection that Élavendren rangers feel with the forest becoming twisted and wrong. Investigation suggests the corruption is caused by artifact or ritual from an external source, possibly left by Kessian or similar foreign agents. Mélrik must venture into a dangerous region to identify and neutralize the threat, knowing that the forest itself is becoming hostile.
+4. **The Cursed Forest**—Melrik becomes aware that a region of deep forest is showing signs of corruption—trees dying unnaturally, animal behavior becoming erratic, the spiritual connection that Élavendren rangers feel with the forest becoming twisted and wrong. Investigation suggests the corruption is caused by artifact or ritual from an external source, possibly left by Kessian or similar foreign agents. Melrik must venture into a dangerous region to identify and neutralize the threat, knowing that the forest itself is becoming hostile.
 
-5. **The Young Ranger's Responsibility**—Mélrik is asked to mentor a promising young border patrol recruit. The recruit is physically talented but emotionally volatile—prone to aggressive behavior and poor judgment. Mélrik works hard to guide the recruit toward competence and restraint. But the recruit eventually admits that she is pregnant, fathered by a foreign agent she met during a border incident—a fraternization that is technically treason. She begs Mélrik not to report her. Mélrik must choose between military duty and his responsibility as a mentor to a young person making terrible but understandable mistakes.
+5. **The Young Ranger's Responsibility**—Melrik is asked to mentor a promising young border patrol recruit. The recruit is physically talented but emotionally volatile—prone to aggressive behavior and poor judgment. Melrik works hard to guide the recruit toward competence and restraint. But the recruit eventually admits that she is pregnant, fathered by a foreign agent she met during a border incident—a fraternization that is technically treason. She begs Melrik not to report her. Melrik must choose between military duty and his responsibility as a mentor to a young person making terrible but understandable mistakes.

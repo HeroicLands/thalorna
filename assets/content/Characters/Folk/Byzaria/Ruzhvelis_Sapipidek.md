@@ -1,11 +1,11 @@
 ---
 shortcode: ruzhvelissap
 name:
-  full: Rûzhvelis Sapipídek
-  aliases: [Mercenary Lord Rûzhvelis Sapipídek, Mercenary Lord Rûzhvelis]
+  full: Ruzhvelis Sapipidek
+  aliases: [Mercenary Lord Ruzhvelis Sapipidek, Mercenary Lord Ruzhvelis]
 type: being
 subType: npc
-description: A mercenary lord and rival who publicly challenges Fýléze Steníkot to single combat.
+description: A mercenary lord and rival who publicly challenges Fileze Stenikot to single combat.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Rûzhvelis Sapipídek is a 44-year-old man who stands 5'11" tall with a medium build. He has tanned skin, smooth complexion, black hair, and dark brown eyes.
+Ruzhvelis Sapipidek is a 44-year-old man who stands 5'11" tall with a medium build. He has tanned skin, smooth complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Rûzhvelis Sapipídek is a mercenary lord and rival of [[being-fylzstnkt|Fýléze Steníkot]]. He publicly challenges her to single combat, with the winner taking both their reputations, at a time arranged so that she cannot refuse without losing the confidence of the mercenary community.
+Ruzhvelis Sapipidek is a mercenary lord and rival of [[being-fylzstnkt|Fileze Stenikot]]. He publicly challenges her to single combat, with the winner taking both their reputations, at a time arranged so that she cannot refuse without losing the confidence of the mercenary community.

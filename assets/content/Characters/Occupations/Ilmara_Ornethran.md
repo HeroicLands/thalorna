@@ -1,6 +1,6 @@
 ---
 shortcode: ilmrrnthrn
-name: {full: Ilmára Ornéthran, aliases: []}
+name: {full: Ilmara Ornethran, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Ilmára Ornéthran is a 48-year-old woman who stands 5'10" tall and is of moderate build. She has an oval face with sharp cheekbones, a narrow forehead, and a strong jaw that leads to a prominent chin. Her hooded brown eyes sit beneath straight brows, lending her a guarded gaze. A strong nose and narrow lips complete her features. She has dark skin with a weathered complexion. Her brown hair is pulled back tightly from her face.
+Ilmara Ornethran is a 48-year-old woman who stands 5'10" tall and is of moderate build. She has an oval face with sharp cheekbones, a narrow forehead, and a strong jaw that leads to a prominent chin. Her hooded brown eyes sit beneath straight brows, lending her a guarded gaze. A strong nose and narrow lips complete her features. She has dark skin with a weathered complexion. Her brown hair is pulled back tightly from her face.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a guilded family of Tarvénan heritage, Ilmára Ornéthran came into the world of the innkeeper through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a guilded family of Tarvenan heritage, Ilmara Ornethran came into the world of the innkeeper through a combination of circumstance and aptitude.
 
-Ilmára took over the Ornéthran Inn after her husband passed away. She is known for her strength and resilience, managing the inn single-handedly while providing a warm and inviting atmosphere. Ilmára prides herself on her homemade dishes and has built a reputation for her signature stews. While she faces challenges as a single innkeeper, her determination keeps the inn thriving.
+Ilmara took over the Ornethran Inn after her husband passed away. She is known for her strength and resilience, managing the inn single-handedly while providing a warm and inviting atmosphere. Ilmara prides herself on her homemade dishes and has built a reputation for her signature stews. While she faces challenges as a single innkeeper, her determination keeps the inn thriving.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Can be overly strict with staff, struggles with stress.
 
 ### Motivation
 
-Ilmára is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
+Ilmara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Skilled cook, strong work ethic, resilient.
 
 ## Social
 
-Ilmára is affiliated with Local Innkeepers' Association.
+Ilmara is affiliated with Local Innkeepers' Association.
 
-As a Tarvénan innkeeper, Ilmára occupies a recognized social niche within Tarvénia society.
+As a Tarvenan innkeeper, Ilmara occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 
 ### Patrons
 
-Ilmára's primary patron is Regular guests and local families. This relationship provides both opportunity and obligation.
+Ilmara's primary patron is Regular guests and local families. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Few; generally respected in her community.
 
 ## Plot Hooks
 
-1. **The Innkeeper's Dilemma**—Ilmára faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
+1. **The Innkeeper's Dilemma**—Ilmara faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 
 2. **Old Grudges**—Few; generally respected in her community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Ilmára's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Ilmara's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Ilmára depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Ilmara depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Ilmára the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Ilmara the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

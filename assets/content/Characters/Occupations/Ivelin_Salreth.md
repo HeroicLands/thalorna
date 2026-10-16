@@ -1,6 +1,6 @@
 ---
 shortcode: ivlynzlrth
-name: {full: Ívelin Sálreth, aliases: []}
+name: {full: Ívelin Salreth, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -393,11 +393,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Ívelin Sálreth is a 29-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with angular cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her round gray eyes sit beneath expressive brows and give her a candid gaze. She has a delicate nose and thin lips. She has fair skin with a fair complexion. Her gray hair is twisted into an elaborate arrangement.
+Ívelin Salreth is a 29-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with angular cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her round gray eyes sit beneath expressive brows and give her a candid gaze. She has a delicate nose and thin lips. She has fair skin with a fair complexion. Her gray hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Ívelin Sálreth is a woodcrafter.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Ívelin Salreth is a woodcrafter.
 
 Ívelin grew up near a dense forest and spent her childhood learning to carve simple wooden toys. As she grew older she took on larger and more detailed pieces, including furniture and decorative carvings. Her work is known for its natural motifs, often drawn from the local flora and fauna. She enjoys trying different woods to find the best material for each piece.
 

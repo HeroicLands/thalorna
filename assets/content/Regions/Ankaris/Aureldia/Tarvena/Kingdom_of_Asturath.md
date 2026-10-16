@@ -1,12 +1,12 @@
 ---
 shortcode: kngdmstrth
-name: {full: Kingdom of Astúrath, aliases: []}
+name: {full: Kingdom of Asturath, aliases: []}
 type: affiliation
 subType: polity
-description: "Mountainous heartland of Tarvénia, seat of the High King—kingdom of mountain fortresses never conquered by Vylaria, spiritual core of Tarvénan independence."
+description: "Mountainous heartland of Tarvénia, seat of the High King—kingdom of mountain fortresses never conquered by Vylaria, spiritual core of Tarvenan independence."
 data:
   templatePriority: null
-  demonym: Astúrath
+  demonym: Asturath
   epithet: null
   symbol: null
   governance:
@@ -119,31 +119,31 @@ sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
 - **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal)
-- **Language:** Tarvéni
-- **Naming Convention:** [[skill-tarvenlng|Tarvéni]]
-- **Pantheon:** [[affiliation-arldnpnthn|Aurèldían]] (with strong folk traditions)
+- **Language:** Tarveni
+- **Naming Convention:** [[skill-tarvenlng|Tarveni]]
+- **Pantheon:** [[affiliation-arldnpnthn|Aureldian]] (with strong folk traditions)
 - **Government:** Hereditary monarchy with council of mountain lords
 
 ## Overview
 
-Astúrath is the mountainous heartland of [[place-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvénan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered—not by the [[affiliation-vylarinmpr|Vylarian Empire]], not by anyone. The High King of Tarvénia is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvénan warrior tradition. The kingdom holds the land of [[place-asturath|Astúrath]].
+Asturath is the mountainous heartland of [[place-tarvenirgn|Tarvénia Region]] and the spiritual core of Tarvenan independence. Its fortress-towns cling to steep mountain valleys and high plateaus in the interior ranges, and its lords have never been conquered—not by the [[affiliation-vylarinmpr|Vylarian Empire]], not by anyone. The High King of Tarvénia is traditionally (though not always) drawn from the Astúrathi nobility, and the kingdom considers itself the keeper of the true Tarvenan warrior tradition. The kingdom holds the land of [[place-asturath|Asturath]].
 
 ## Character
 
-Astúrath is the most martial and conservative of the Tarvénan regions. Its people are mountain folk—tough, proud, and deeply attached to the old ways. The kingdom's lords rule from fortified hilltop castles, and the social order is built on bonds of personal loyalty between lord and retainer rather than bureaucratic administration. Every free man is expected to bear arms, and the mountain clans maintain a warrior readiness that borders on paranoia.
+Asturath is the most martial and conservative of the Tarvenan regions. Its people are mountain folk—tough, proud, and deeply attached to the old ways. The kingdom's lords rule from fortified hilltop castles, and the social order is built on bonds of personal loyalty between lord and retainer rather than bureaucratic administration. Every free man is expected to bear arms, and the mountain clans maintain a warrior readiness that borders on paranoia.
 
-Invading armies that have ventured into Astúrath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, the worst of them lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF, settled for holding the lowland approaches and leaving the mountains alone—a fact the Astúrathi have never tired of celebrating.
+Invading armies that have ventured into Asturath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, the worst of them lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF, settled for holding the lowland approaches and leaving the mountains alone—a fact the Astúrathi have never tired of celebrating.
 
-The council of mountain lords meets here to elect a new High King when the throne falls vacant, a process that is equal parts solemn ceremony and bare-knuckle political brawl. The first election, of Garváneth of Astúrath about 540 AF, drove the garrisons out ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
+The council of mountain lords meets here to elect a new High King when the throne falls vacant, a process that is equal parts solemn ceremony and bare-knuckle political brawl. The first election, of Garvaneth of Asturath about 540 AF, drove the garrisons out ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
 
 ## Commerce and Currency
 
-Kingdom of Astúrath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Kingdom of Astúrath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kingdom of Asturath uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Kingdom of Asturath is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—The loose overlord
 - [[place-tarvenirgn|Tarvénia Region]]—Regional overview
-- [[place-asturath|Astúrath]]—The land the kingdom holds
-- [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Liénrik]]—Sister kingdoms
-- [[affiliation-frctyvlthr|Free City of Valthári]], [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—Fellow Tarvénan regions
+- [[place-asturath|Asturath]]—The land the kingdom holds
+- [[affiliation-kngdmglvrn|Kingdom of Galvaren]], [[affiliation-kingdmlnrk|Kingdom of Lienrik]]—Sister kingdoms
+- [[affiliation-frctyvlthr|Free City of Valthari]], [[affiliation-frtrtryskrth|Free Territory of Eskarath]]—Fellow Tarvenan regions

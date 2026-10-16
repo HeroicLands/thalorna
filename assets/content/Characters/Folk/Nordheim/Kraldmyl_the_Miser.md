@@ -1,6 +1,6 @@
 ---
 shortcode: kraldmylthem
-name: {full: Kraldmýl the Miser, aliases: [Jarl Kraldmýl the Miser, Jarl Kraldmýl]}
+name: {full: Kralmil the Miser, aliases: [Jarl Kralmil the Miser, Jarl Kralmil]}
 type: being
 subType: npc
 description: A lord who has built his power on controlling trade through his territory, named in Glurvselda Silverhand.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kraldmýl the Miser is a 31-year-old man who stands 5'11" tall with a heavy build. He has pale skin, weathered complexion, dark brown hair, and blue eyes.
+Kralmil the Miser is a 31-year-old man who stands 5'11" tall with a heavy build. He has pale skin, weathered complexion, dark brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Kraldmýl the Miser is a lord who has built his power on controlling trade through his territory. He views Glurvselda's alternative trade routes as an existential threat to his wealth. Kraldmýl the Miser is named in [[being-glrvsldslvrhnd|Glurvselda Silverhand]].
+Kralmil the Miser is a lord who has built his power on controlling trade through his territory. He views Glurvselda's alternative trade routes as an existential threat to his wealth. Kralmil the Miser is named in [[being-glrvsldslvrhnd|Glurvselda Silverhand]].

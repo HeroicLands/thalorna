@@ -1,6 +1,6 @@
 ---
 shortcode: solrun
-name: {full: "Ritual: Sólrún", aliases: [The Golden Path]}
+name: {full: "Ritual: Solrún", aliases: [The Golden Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-solrun|Faith of Sólrún]]
+See [[affiliation-solrun|Faith of Solrún]]

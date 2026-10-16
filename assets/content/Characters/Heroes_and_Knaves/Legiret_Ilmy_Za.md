@@ -1,6 +1,6 @@
 ---
 shortcode: legiretilmyz
-name: {full: Legiret Ilmy-Zâ, given: Legiret, clan: Ilmy-Zâ, aliases: []}
+name: {full: Legiret Ilmy-Za, given: Legiret, clan: Ilmy-Za, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, guilded, tradesfolk]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {rank: 4}, qearet: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, qearet: {rank: 1}}
   gender: male
   species: humanflk
   born: 685.131
@@ -418,17 +418,17 @@ sohl:
 
 # Appearance {#appearance}
 
-![[legiretilmyz|Legiret Ilmy-Zâ]]{float=top-left}
+![[legiretilmyz|Legiret Ilmy-Za]]{float=top-left}
 
 Legiret stands 5'6\" tall with a light build. He has deep brown skin, tightly curled black hair, and dark brown eyes. His features include a prominent nose, a pointed chin, thin brows, angular cheeks.
 
 # Dossier {#dossier}
 
-Legiret Ilmy-Zâ was a rising scholar in the **Lut-Zethu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]** in [[place-khelunu|Khelunu]], known for her knowledge of ancient astrological texts and obscure prophecies. As a curator, she had access to hidden archives, many of which contained lost and forbidden knowledge related to the stars and the mystical traditions of the empire’s past. Legiret’s work had already garnered attention, but she sought something more—a discovery that would cement her place among the great scholars of history.
+Legiret Ilmy-Za was a rising scholar in the **Lut-Zethu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]** in [[place-khelunu|Khelunu]], known for her knowledge of ancient astrological texts and obscure prophecies. As a curator, she had access to hidden archives, many of which contained lost and forbidden knowledge related to the stars and the mystical traditions of the empire’s past. Legiret’s work had already garnered attention, but she sought something more—a discovery that would cement her place among the great scholars of history.
 
-Her life took a sudden turn when [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] appeared in the Lut-Zethu, desperate to find answers to the celestial visions that had begun to haunt him. Intrigued by the astrologer’s claims, Legiret aided him in deciphering several ancient scrolls that described similar phenomena, prophecies about celestial shifts that heralded great changes. However, the deeper they dug into the texts, the more unsettling their findings became. The visions [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] described aligned too closely with prophecies foretelling a cosmic upheaval that could reshape the world.
+Her life took a sudden turn when [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] appeared in the Lut-Zethu, desperate to find answers to the celestial visions that had begun to haunt him. Intrigued by the astrologer’s claims, Legiret aided him in deciphering several ancient scrolls that described similar phenomena, prophecies about celestial shifts that heralded great changes. However, the deeper they dug into the texts, the more unsettling their findings became. The visions [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] described aligned too closely with prophecies foretelling a cosmic upheaval that could reshape the world.
 
-Legiret, driven by both curiosity and a hunger for knowledge, decided to accompany [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] on his journey. She believed that understanding these celestial mysteries would not only expand her scholarly reputation but also unlock powers that could alter the course of history. With the possibility of such a monumental discovery at hand, Legiret saw [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s quest as the key to unraveling the greatest mysteries of the cosmos.
+Legiret, driven by both curiosity and a hunger for knowledge, decided to accompany [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] on his journey. She believed that understanding these celestial mysteries would not only expand her scholarly reputation but also unlock powers that could alter the course of history. With the possibility of such a monumental discovery at hand, Legiret saw [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]’s quest as the key to unraveling the greatest mysteries of the cosmos.
 
 ## Background
 
@@ -448,20 +448,20 @@ Legiret, driven by both curiosity and a hunger for knowledge, decided to accompa
 - **Eloquence**: She speaks clearly and thoughtfully, often using her knowledge to persuade.
 - **Morality**: As a scholar of ancient texts, Legiret follows the sacred practices of her people and upholds the intellectual and spiritual standards of her culture without compromise.
 - **Voice**: Legiret’s voice is clear and composed, used primarily for recitations of ancient texts and rituals, though not particularly noted for musicality.
-- **Astrological Scholar**: Legiret is an expert in interpreting ancient prophecies and celestial phenomena. She can read and decipher star charts, ancient runes, and astrological texts, providing essential insights into [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s visions.
+- **Astrological Scholar**: Legiret is an expert in interpreting ancient prophecies and celestial phenomena. She can read and decipher star charts, ancient runes, and astrological texts, providing essential insights into [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]’s visions.
 - **Master of Forgotten Languages**: Legiret’s ability to translate obscure languages and decode forgotten scripts allows the group to unlock hidden knowledge from ancient scrolls, artifacts, and ruins.
 - **Arcane Knowledge**: Though not a practitioner of magic, Legiret’s deep understanding of mystical texts gives her the ability to recognize magical symbols, traps, and rituals that they encounter on their journey.
-- **Folklore Knowledge**: Legiret has a widespread and detailed knowledge of the history, culture, beliefs, and stories/legends of the people of Eastern and Western Ankaris and Khazryn Desert, with a basic and shallow knowledge of the history and cultures of the rest of western Ankaris and Tāntsou. The exception is Vylaria, with which she has considerable knowledge.
+- **Folklore Knowledge**: Legiret has a widespread and detailed knowledge of the history, culture, beliefs, and stories/legends of the people of Eastern and Western Ankaris and Khazryn Desert, with a basic and shallow knowledge of the history and cultures of the rest of western Ankaris and Tantsou. The exception is Vylaria, with which she has considerable knowledge.
 
 ## Psyche
 
 ### Personality
 
-Legiret is highly intelligent and ambitious, with a thirst for knowledge that sometimes borders on obsession. Her intellect makes her useful when interpreting ancient texts and astrological charts, but her single-minded pursuit of knowledge can sometimes lead her to take risks others would avoid. Beneath her academic exterior, Legiret is deeply loyal to [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]], seeing him as the key to fulfilling her scholarly ambitions.
+Legiret is highly intelligent and ambitious, with a thirst for knowledge that sometimes borders on obsession. Her intellect makes her useful when interpreting ancient texts and astrological charts, but her single-minded pursuit of knowledge can sometimes lead her to take risks others would avoid. Beneath her academic exterior, Legiret is deeply loyal to [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], seeing him as the key to fulfilling her scholarly ambitions.
 
 ### Motivation
 
-Legiret is driven by a desire for discovery and recognition. She believes that helping [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] unlock the mysteries of the stars will not only elevate her scholarly standing but also provide her with the knowledge needed to reshape the world. She is committed to seeing the quest through, convinced that the celestial upheavals described in [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s visions are the key to unlocking ancient power.
+Legiret is driven by a desire for discovery and recognition. She believes that helping [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] unlock the mysteries of the stars will not only elevate her scholarly standing but also provide her with the knowledge needed to reshape the world. She is committed to seeing the quest through, convinced that the celestial upheavals described in [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]]’s visions are the key to unlocking ancient power.
 
 ### Strengths
 
@@ -473,10 +473,10 @@ Legiret is driven by a desire for discovery and recognition. She believes that h
 
 ## Plot Hooks
 
-1. **The Forbidden Archive**: Legiret learns of a hidden chamber in the Lut-Zethu of Aû'Khelâthu, sealed off for centuries after its contents were declared heretical. Whispers suggest it holds a lost codex tied to the celestial event [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] is studying. Gaining access requires handling political intrigue, bribing officials, and avoiding the watchful eyes of the temple archivists who would see her efforts as a betrayal. The chamber is the one in the library-temple of [[place-khelunu|Khelunu]] that holds the doctrine of the house of the sun, walled up when the house closed ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
+1. **The Forbidden Archive**: Legiret learns of a hidden chamber in the Lut-Zethu of Au'Khelathu, sealed off for centuries after its contents were declared heretical. Whispers suggest it holds a lost codex tied to the celestial event [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] is studying. Gaining access requires handling political intrigue, bribing officials, and avoiding the watchful eyes of the temple archivists who would see her efforts as a betrayal. The chamber is the one in the library-temple of [[place-khelunu|Khelunu]] that holds the doctrine of the house of the sun, walled up when the house closed ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]).
 
 2. **The Glyph of Summoning**: While deciphering an ancient tablet, Legiret accidentally activates a ward, conjuring a spectral guardian bound to the artifact. The spirit demands she fulfill a forgotten oath tied to its creation or face retribution. To unravel the truth, Legiret must dig into the tablet’s history while managing the increasingly erratic behavior of the summoned entity.
 
 3. **The Scholar’s Rivalry**: A fellow scholar accuses Legiret of stealing their work on deciphering celestial patterns. The accusation gains traction, jeopardizing her reputation. To clear her name, Legiret must uncover the rival’s motives and expose their plot while racing against them to publish the findings tied to the celestial upheaval.
 
-4. [[affiliation-zeghetanleth|Zeghet'Anlethu]]: A band of treasure hunters approaches Legiret, claiming they’ve recovered an artifact of the ancient Khelâthi priesthood. They offer it in exchange for her expertise in unlocking its secrets, but she soon realizes they intend to sell the knowledge to foreign powers. Legiret must decide whether to sabotage their efforts or manipulate them into aiding her own research.
+4. [[affiliation-zeghetanleth|Zeghet'Anlethu]]: A band of treasure hunters approaches Legiret, claiming they’ve recovered an artifact of the ancient Khelathi priesthood. They offer it in exchange for her expertise in unlocking its secrets, but she soon realizes they intend to sell the knowledge to foreign powers. Legiret must decide whether to sabotage their efforts or manipulate them into aiding her own research.

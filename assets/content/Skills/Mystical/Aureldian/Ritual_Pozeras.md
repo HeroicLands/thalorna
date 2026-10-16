@@ -1,6 +1,6 @@
 ---
 shortcode: pozeras
-name: {full: "Ritual: Pôzêrâs", aliases: [Pôzêrâs, The Wayfarer]}
+name: {full: "Ritual: Pozeras", aliases: [Pozeras, The Wayfarer]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-pozeras|Faith of Pôzêrâs]]
+See [[affiliation-pozeras|Faith of Pozeras]]

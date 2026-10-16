@@ -1,9 +1,9 @@
 ---
 shortcode: skilfrinnaan
-name: {full: Skilfrinna Anthidrokh, aliases: [Lady Skilfrinna Anthidrokh]}
+name: {full: Skilfrinna Anthidrok, aliases: [Lady Skilfrinna Anthidrok]}
 type: being
 subType: npc
-description: A minor noblewoman of impeccable taste who is Flarnthýra Steinblót's closest thing to a confidante.
+description: A minor noblewoman of impeccable taste who is Flarnthira Steinblet's closest thing to a confidante.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Skilfrinna Anthidrokh is a 42-year-old woman who stands 5'8" tall with a heavy build. She has fair skin, ruddy complexion, auburn hair, and hazel eyes.
+Skilfrinna Anthidrok is a 42-year-old woman who stands 5'8" tall with a heavy build. She has fair skin, ruddy complexion, auburn hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Skilfrinna Anthidrokh is a minor noblewoman of impeccable taste who is [[being-flrnthyrstnblt|Flarnthýra Steinblót]]'s closest thing to a confidante. She regularly commissions decorative ware from Flarnthýra.
+Skilfrinna Anthidrok is a minor noblewoman of impeccable taste who is [[being-flrnthyrstnblt|Flarnthira Steinblet]]'s closest thing to a confidante. She regularly commissions decorative ware from Flarnthira.

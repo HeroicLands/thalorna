@@ -1,6 +1,6 @@
 ---
 shortcode: hrindrinnagn
-name: {full: Hrindrinna Gnildrendikh, aliases: [Jarl Hrindrinna Gnildrendikh, Jarl Hrindrinna]}
+name: {full: Hrindrinna Gnildrendik, aliases: [Jarl Hrindrinna Gnildrendik, Jarl Hrindrinna]}
 type: being
 subType: npc
 description: A regional jarl whose family estate Hliskthann Vetrdómr has maintained for twenty-three years.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hrindrinna Gnildrendikh is a 55-year-old woman who stands 5'8" tall with a heavy build. She has light skin, ruddy complexion, dark brown hair, and green eyes.
+Hrindrinna Gnildrendik is a 55-year-old woman who stands 5'8" tall with a heavy build. She has light skin, ruddy complexion, dark brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Hrindrinna Gnildrendikh is a regional jarl whose family estate [[being-hlskthnvtrdmr|Hliskthann Vetrdómr]] has maintained for twenty-three years. Hliskthann is approached by her and the farmers' covenant to lead reconstruction efforts.
+Hrindrinna Gnildrendik is a regional jarl whose family estate [[being-hlskthnvtrdmr|Hliskthann Vetrdómr]] has maintained for twenty-three years. Hliskthann is approached by her and the farmers' covenant to lead reconstruction efforts.

@@ -1,6 +1,6 @@
 ---
 shortcode: aureliane
-name: {full: Aurelàne, aliases: []}
+name: {full: Aurelane, aliases: []}
 type: place
 subType: settlement
 description: "The old Vylarian foundation of the southern interior—once the provincial capital and still the seat of Provenzian law and learning, a city of enormous prestige and diminished consequence."
@@ -8,25 +8,25 @@ tags: [city, inland]
 data: {demonym: null, lore: [], parents: [korvathis], population: 30000, packFolder: provenzia}
 ---
 
-**Aurelàne** stands inland in the south, on the great road, and is the oldest city in Provènzia. It
-was founded under the Republic as a [[affiliation-vylarinmpr|Vylarian]] colony ([[lore-aurelianefound|The Founding of Aurelàne]]), laid out on the Vylarian grid, and after [[lore-tiravlenbattle|Tiravlen]] served
+**Aurelane** stands inland in the south, on the great road, and is the oldest city in Provenzia. It
+was founded under the Republic as a [[affiliation-vylarinmpr|Vylarian]] colony ([[lore-aurelianefound|The Founding of Aurelane]]), laid out on the Vylarian grid, and after [[lore-tiravlenbattle|Tiravlen]] served
 for centuries as the provincial capital of everything the empire held west of the sea.
 
-It is not the capital now. When Provènzia became a kingdom in its own right ([[lore-charterwar|the War of the Charter]]) the court settled at
-[[place-jalnazdal|Jalnazdàl]] on the coast, where the money was, and Aurelàne has spent the
+It is not the capital now. When Provenzia became a kingdom in its own right ([[lore-charterwar|the War of the Charter]]) the court settled at
+[[place-jalnazdal|Jalnasdal]] on the coast, where the money was, and Aurelane has spent the
 intervening centuries being magnificent about it.
 
 ## Law and Learning
 
 What the city kept was the institutions, and they turned out to matter more than the court did.
 
-Provenzian **law** is Vylarian law as received, amended and argued over at Aurelàne, and the high
-courts still sit here rather than at Jalnazdàl. So do the **academies**—philosophy, rhetoric,
+Provenzian **law** is Vylarian law as received, amended and argued over at Aurelane, and the high
+courts still sit here rather than at Jalnasdal. So do the **academies**—philosophy, rhetoric,
 medicine, and the manuscript and illumination trades that grew up around them—which is why a
-Provenzian sends a promising son to Aurelàne and an ambitious one to the capital.
+Provenzian sends a promising son to Aurelane and an ambitious one to the capital.
 
-The distinction is felt keenly in both directions. Aurelàne regards Jalnazdàl as a counting-house that
-has acquired a throne. Jalnazdàl regards Aurelàne as a very expensive library.
+The distinction is felt keenly in both directions. Aurelane regards Jalnasdal as a counting-house that
+has acquired a throne. Jalnasdal regards Aurelane as a very expensive library.
 
 ## The Stones
 
@@ -34,9 +34,9 @@ The city is built of and on the empire. Its aqueduct still runs; its grid still 
 out for a garrison that left eight hundred years ago; its forum is a market and its basilica is a
 court, both still doing approximately what they were built for.
 
-This continuity is Provènzia's strongest claim to being the true heir of Vylarian civilization in the
-west, and Aurelàne makes it at every opportunity.
+This continuity is Provenzia's strongest claim to being the true heir of Vylarian civilization in the
+west, and Aurelane makes it at every opportunity.
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]] · [[place-jalnazdal|Jalnazdàl]]
+- [[affiliation-vylarinmpr|Vylarian Empire]] · [[place-jalnazdal|Jalnasdal]]

@@ -1,6 +1,6 @@
 ---
 shortcode: hrphsrchrns
-name: {full: Harphôs Ôrkhârenîs, aliases: []}
+name: {full: Harfos Orkarenis, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Harphôs Ôrkhârenîs is a 38-year-old man who stands 5'10" tall and is of moderate build. He has a long face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a square chin. His wide-set green eyes sit beneath straight brows, lending him an open gaze. A straight nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is receding at the temples.
+Harfos Orkarenis is a 38-year-old man who stands 5'10" tall and is of moderate build. He has a long face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a square chin. His wide-set green eyes sit beneath straight brows, lending him an open gaze. A straight nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is receding at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a guilded family of Vylarian heritage, Harphôs Ôrkhârenîs came into the world of the chandler through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria]] region to a guilded family of Vylarian heritage, Harfos Orkarenis came into the world of the chandler through a combination of circumstance and aptitude.
 
-Harphôs operates a candle shop in the city, catering to the demands of the local nobility as well as commoners. He uses a mix of beeswax and tallow to produce candles for different price ranges, often adding scents and colors for variety. Ambitious and entrepreneurial, Harphôs is always looking for ways to expand his business.
+Harfos operates a candle shop in the city, catering to the demands of the local nobility as well as commoners. He uses a mix of beeswax and tallow to produce candles for different price ranges, often adding scents and colors for variety. Ambitious and entrepreneurial, Harfos is always looking for ways to expand his business.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Focused on profit, sometimes at the expense of quality.
 
 ### Motivation
 
-Harphôs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in chandler work keep him vigilant and adaptable.
+Harfos is driven by the desire to master his craft and secure a stable future. The uncertainties of life in chandler work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Business savvy, skilled at marketing his products.
 
 ## Social
 
-Harphôs is affiliated with Urban Craft Guild.
+Harfos is affiliated with Urban Craft Guild.
 
-As a Vylarian chandler, Harphôs occupies a recognized social niche within Vylaria society.
+As a Vylarian chandler, Harfos occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Harphôs's primary patron is Local nobles who purchase scented candles for their homes. This relationship provides both opportunity and obligation.
+Harfos's primary patron is Local nobles who purchase scented candles for their homes. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Competitors who resent his aggressive business tactics.
 
 ## Plot Hooks
 
-1. **The Chandler's Dilemma**—Harphôs faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
+1. **The Chandler's Dilemma**—Harfos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
 2. **Old Grudges**—Competitors who resent his aggressive business tactics. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Harphôs's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Harfos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Harphôs depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Harfos depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Harphôs the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Harfos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

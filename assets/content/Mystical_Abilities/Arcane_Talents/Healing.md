@@ -17,4 +17,4 @@ sohl:
 #   name: ""
 ---
 
-Healing closes a wound and hastens the body's own mending, without medicine or surgery. The practitioner works with the body's natural recovery rather than against it. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thôrdimâlon]] looks for in the children it registers.
+Healing closes a wound and hastens the body's own mending, without medicine or surgery. The practitioner works with the body's natural recovery rather than against it. It is one of the arcane talents, the inborn gifts that the [[affiliation-ordoarcanis|Thordimalon]] looks for in the children it registers.

@@ -15,7 +15,7 @@ data:
 # terran_analog: "The two Merseburg charms, for the precedent from the old days followed by the command; the household charm-books of northern Europe, for the bossy rubric that says when to say a charm and who may say it. Departs: no god stands in any precedent, the commands are the hands' work, and the charm the household may not finish is kept by its gap."
 ---
 
-At [[place-dunkelwald|Dunkelwald]], inside the [[place-vethwald|Deepwood]], a household mistress (_óthrún_) teaches her daughter the charms in _grema_, deep winter, when the fire is banked for the night and the traplines are frozen shut. **The Dunkelwald Charms**, _Dunkelwald vreld_, are nine _vreld_ as one household of the [[lore-bearttm|bear]] wesk keeps them, in teaching order: the ones said most often first, the ones said over a body last. A _vreld_ is a few lines laid on a hurt, a crossing, a beast or a night, and each has two parts, a precedent from the old days and then the command, which is what the hands do and what the mouth says while they do it: a leg bound, ash laid, a count called at the door.
+At [[place-dunkelwald|Dunkelwald]], inside the [[place-vethwald|Deepwood]], a household mistress (_othrún_) teaches her daughter the charms in _grema_, deep winter, when the fire is banked for the night and the traplines are frozen shut. **The Dunkelwald Charms**, _Dunkelwald vreld_, are nine _vreld_ as one household of the [[lore-bearttm|bear]] wesk keeps them, in teaching order: the ones said most often first, the ones said over a body last. A _vreld_ is a few lines laid on a hurt, a crossing, a beast or a night, and each has two parts, a precedent from the old days and then the command, which is what the hands do and what the mouth says while they do it: a leg bound, ash laid, a count called at the door.
 
 The mistress says them at the sickbed and the threshold, and anyone with two hands says the fifth. Before each charm she tells the daughter what it is for and when to say it, and the household keeps those rubrics with the charms as their first lines, flat as she says them. Between the fifth and the sixth she teaches a run of small charms that are not counted, because no old days stand behind them. The ninth survives in its opening only; the rest belongs to the Shaman's apprentice.
 
@@ -70,7 +70,7 @@ For a fever. The fever asks questions. You say this over the sick one and you an
 : The third charm, for a fever {#fever}
 
 ```poetry {form=vreld lang=en}
-**Véthwyn** went under,
+**Vethwin** went under,
 first of the Shamans,
 and a voice there had a word for her,
 and she came up with both hands empty.
@@ -310,7 +310,7 @@ It does not haggle.
 It gives you next year, or it does not.
 ```
 
-The ninth. For a Shaman gone under in _skómel_ and not back by morning. You learn the hands and the fire, because they are the house's. The rest is the apprentice's, and you do not learn it.
+The ninth. For a Shaman gone under in _skomel_ and not back by morning. You learn the hands and the fire, because they are the house's. The rest is the apprentice's, and you do not learn it.
 
 : The ninth charm, in its opening {#ninth}
 

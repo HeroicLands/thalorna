@@ -1,6 +1,6 @@
 ---
 shortcode: igelnaru
-name: {full: Faith of Igelnâru, aliases: []}
+name: {full: Faith of Igelnaru, aliases: []}
 type: affiliation
 subType: faithtradition
 description: "The River."
@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A river god rather than a selat god: Igelnâru holds the Zumélesh itself, and the sacred waters of its southern reach belong to him spiritually where they belong to the Halzi'a in law. His cult has no great temple and no Thâz'Lekhau of its own—it is carried by the hunting companies that work the river, above all the Zeghet'Nelgu, whose Wazu of the Hunt reads his will before any expedition launches and without whose word it does not. Every beast taken from the water is commended to him for judgment.
+      A river god rather than a selat god: Igelnaru holds the Zumelesh itself, and the sacred waters of its southern reach belong to him spiritually where they belong to the Halzi'a in law. His cult has no great temple and no Thaz'Lekhau of its own—it is carried by the hunting companies that work the river, above all the Zeghet'Nelgu, whose Wazu of the Hunt reads his will before any expedition launches and without whose word it does not. Every beast taken from the water is commended to him for judgment.
     ranks:
       - level: 0
         title: Rite-Denied
@@ -36,7 +36,7 @@ data:
       Reader of the Water: >-
         Pronounces the god's will before an expedition. An unfavorable reading stops the hunt, which gives the office real power over a company whose charter depends on hunting successfully—and makes a reader whose pronouncements have grown hard to parse a dangerous secret.
       Butcher of the Offering: >-
-        Divides what is taken between the temples, the selatu and the company. The prime cuts go to the temple and the Halzi'a, the secondary to the farming villages, the bones and hides to the craftspeople; the animal's spirit is honored and commended to the god for judgment.
+        Divides what is taken between the temples, the selatu and the company. The prime cuts gho to the temple and the Halzi'a, the secondary to the farming villages, the bones and hides to the craftspeople; the animal's spirit is honored and commended to the god for judgment.
       Warden of the Sacred Stones: >-
         Keeps the boundary shrines and sacred stones that mark the god's reach. Unauthorized hunting or fishing within them is punishable by death.
   seat: null
@@ -49,20 +49,20 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Before you push off, ask whose water you are on," a **Warden of the Sacred Stones** tells a boatman new to the southern reach. "The Halzi'a hold it in law. [[lore-igelnarudty|Igelnâru]] holds it in spirit, and the boundary shrines and stones mark where his water begins. Hunt or fish inside them without leave and the penalty is death."
+"Before you push off, ask whose water you are on," a **Warden of the Sacred Stones** tells a boatman new to the southern reach. "The Halzi'a hold it in law. [[lore-igelnarudty|Igelnaru]] holds it in spirit, and the boundary shrines and stones mark where his water begins. Hunt or fish inside them without leave and the penalty is death."
 
-Igelnâru is a river god, not a selat's god. He holds the [[place-zumeleshrvr|Zumélesh]] itself, so his cult has no great temple and no Thâz'Lekhau of its own. The hunting companies that work the river carry it, above all the [[affiliation-zeghetnelgu|Zeghet'Nelgu]], and the faith lives inside the hunt rather than beside it. Even its acolyte rank, Wazu of the Hunt, is the temple's own title borrowed into a hunting company.
+Igelnaru is a river god, not a selat's god. He holds the [[place-zumeleshrvr|Zumelesh]] itself, so his cult has no great temple and no Thaz'Lekhau of its own. The hunting companies that work the river carry it, above all the [[affiliation-zeghetnelgu|Zeghet'Nelgu]], and the faith lives inside the hunt rather than beside it. Even its acolyte rank, Wazu of the Hunt, is the temple's own title borrowed into a hunting company.
 
 ## What the River Asks
 
-Every expedition waits on one office. The **Reader of the Water** reads the god's will in offerings, in the flight of birds and in the patterns of the current, and pronounces whether the boats may go. An unfavorable reading stops the hunt, which gives the Reader real power over a company whose charter depends on hunting well.
+Every expedition waits on one office. The **Reader of the Water** reads the god's will in offerings, in the flight of birds and in the patterns of the current, and pronounces whether the boats may gho. An unfavorable reading stops the hunt, which gives the Reader real power over a company whose charter depends on hunting well.
 
-The rest of the faith follows from the kill. The god's due comes off the animal before any other share. The **Butcher of the Offering** then divides the rest: prime cuts to the temples and the Halzi'a, secondary cuts to the farming villages, bones and hides to the craftspeople. The animal's spirit is honored and commended to Igelnâru for judgment.
+The rest of the faith follows from the kill. The god's due comes off the animal before any other share. The **Butcher of the Offering** then divides the rest: prime cuts to the temples and the Halzi'a, secondary cuts to the farming villages, bones and hides to the craftspeople. The animal's spirit is honored and commended to Igelnaru for judgment.
 
 The villages along the banks, the lay faithful, keep the river's observances and pay for the hunt with a share of what it takes. Those sworn to the water may strike at the quarry. Anyone refused the river-rites is refused the river: no boat launches with them aboard, and no hunt goes out in their company.
 
 ## See Also
 
-- [[lore-igelnarudty|Igelnâru]]—the god
+- [[lore-igelnarudty|Igelnaru]]—the god
 - [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the sacred hunt that carries this cult
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy the valley cults share
+- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy the valley cults share

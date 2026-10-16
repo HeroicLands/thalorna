@@ -1,9 +1,9 @@
 ---
 shortcode: malnebris
-name: {full: Malnebrìs, aliases: [The First Great Raid]}
+name: {full: Malnebris, aliases: [The First Great Raid]}
 type: lore
 subType: history
-description: "About 556 AF High King Mórezan's host came down the pass in the first great raid on the province, the provincial levy held the road at Malnebrìs for a day and a night and broke, and the frontier war the border families still fight began there."
+description: "About 556 AF High King Mórezan's host came down the pass in the first great raid on the province, the provincial levy held the road at Malnebris for a day and a night and broke, and the frontier war the border families still fight began there."
 tags: [history]
 data:
   packFolder: provenzia
@@ -13,10 +13,10 @@ data:
       depth: region
       sources: [place-bldfldmalnebris, place-talothe, place-tarvenirgn, place-durvalis]
       summary: >-
-        High King Mórezan's host comes down the pass in the first great raid on the province. The provincial levy holds the road below the pass at Malnebrìs for a day and a night and breaks; both sides leave more dead on the road than either can carry. The frontier war that the border families still fight begins here.
+        High King Mórezan's host comes down the pass in the first great raid on the province. The provincial levy holds the road below the pass at Malnebris for a day and a night and breaks; both sides leave more dead on the road than either can carry. The frontier war that the border families still fight begins here.
       standing: attested
       names:
-        - {name: Malnebrìs, by: place-bldfldmalnebris}
+        - {name: Malnebris, by: place-bldfldmalnebris}
         - {name: the first raid, by: place-talothe}
       where:
         locus: [place-bldfldmalnebris]
@@ -58,7 +58,7 @@ data:
         - whether the dead who joined the field after later raids are part of the recurrence
 ---
 
-On still nights in the campaign season the pass above Malnebrìs is loud, and the border families on both sides of it know what they are hearing. It is the first great raid, and the sound has not stopped.
+On still nights in the campaign season the pass above Malnebris is loud, and the border families on both sides of it know what they are hearing. It is the first great raid, and the sound has not stopped.
 
 ## The Host
 
@@ -66,24 +66,24 @@ When the legions were drawn north and the garrisons of the western province thin
 
 ## The Road
 
-The provincial levy was not an army and had not been called to be one. It gathered on the road below the pass, at Malnebrìs, where the road narrows between the ridge and the stream, and held it. The fighting lasted a day and a night. The host could not get past, and the levy could not make it go back.
+The provincial levy was not an army and had not been called to be one. It gathered on the road below the pass, at Malnebris, where the road narrows between the ridge and the stream, and held it. The fighting lasted a day and a night. The host could not get past, and the levy could not make it go back.
 
 By the second morning the levy broke. The host took the road, and then found it could not use it, because the dead lay in the way and neither side had the strength to carry them. Mórezan's lords went home when the snow came. The levy's survivors went home to families the host would visit again.
 
 ## The Quarrel
 
-The raid was the first of a long run of them, and the border families on both sides took it as the beginning of a war that nobody declared. It has a calendar, because the passes close; the hosts come when the snow clears and go when it returns. It has no end, because neither crown can afford to be the one that stops. The Winter Assize that sits at [[place-durvalis|Durvalìs]] hears the quarrels of the families who took it up.
+The raid was the first of a long run of them, and the border families on both sides took it as the beginning of a war that nobody declared. It has a calendar, because the passes close; the hosts come when the snow clears and go when it returns. It has no end, because neither crown can afford to be the one that stops. The Winter Assize that sits at [[place-durvalis|Durvalis]] hears the quarrels of the families who took it up.
 
 ## What It Left
 
-- **The Blood-field of Malnebrìs.** The only one of Provènzia's fields that is still being added to ([[place-bldfldmalnebris|Malnebrìs]]).
+- **The Blood-field of Malnebris.** The only one of Provenzia's fields that is still being added to ([[place-bldfldmalnebris|Malnebris]]).
 - **The campaign season as a calendar.** The march's year runs from the thaw to the first snow, and the courts sit in between.
 - **The border families' feud.** The quarrel is the same one in every generation, and each family on the road has someone to lose to it.
 
 ## See Also
 
-- [[place-bldfldmalnebris|The Blood-field of Malnebrìs]]—the ground the battle left
-- [[place-talothe|Talòthe]]—the march
+- [[place-bldfldmalnebris|The Blood-field of Malnebris]]—the ground the battle left
+- [[place-talothe|Talote]]—the march
 - [[place-tarvenirgn|Tarvénia Region]]—where the host came from
 - [[lore-tarvfallsawy|Tarvénia Falls Away]]—the election of the High Kings who sent it
-- [[place-durvalis|Durvalìs]]—the town built to hold the road
+- [[place-durvalis|Durvalis]]—the town built to hold the road

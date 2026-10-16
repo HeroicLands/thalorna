@@ -1,12 +1,12 @@
 ---
 shortcode: qudumel2
-name: {full: Qudûmel, aliases: []}
+name: {full: Kudumel, aliases: []}
 type: place
 subType: settlement
-description: "The easternmost city of Tarûzel, on the island nearest the mainland—a dusty, polyglot crossroads of mudbrick and tile where the sea trade meets the caravan goods of Dunhara and the Khazryn."
+description: "The easternmost city of Taruzel, on the island nearest the mainland—a dusty, polyglot crossroads of mudbrick and tile where the sea trade meets the caravan goods of Dunhara and the Khazryn."
 tags: [city, caravan]
 data:
-  demonym: Qudûmelian
+  demonym: Kudumelian
   lore: [humanflk]
   parents: [taruzelrgn]
   population: 220000
@@ -14,7 +14,7 @@ data:
   government: qudumel
 ---
 
-A traveler sailing east through the Tarûzelian islands notices the walls change first: the Vylarian stone of the harbor cities gives way in Qudûmel to mudbrick and tile, and the bazaars smell of desert spice and camel. Qudûmel, a city of about 220,000, is the easternmost of Tarûzel's major cities and the seat of the city-state of [[affiliation-qudumel|Qudûmel]] in the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]. It stands on the island nearest the mainland, at the crossroads where the sea routes meet the overland caravan trails from [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], whose goods cross the strait from the Amradi shore.
+A traveler sailing east through the Taruzelian islands notices the walls change first: the Vylarian stone of the harbor cities gives way in Kudumel to mudbrick and tile, and the bazaars smell of desert spice and camel. Kudumel, a city of about 220,000, is the easternmost of Taruzel's major cities and the seat of the city-state of [[affiliation-qudumel|Kudumel]] in the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]. It stands on the island nearest the mainland, at the crossroads where the sea routes meet the overland caravan trails from [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], whose goods cross the strait from the Amradi shore.
 
 ## The Gate and the Caravansaries
 
@@ -22,10 +22,10 @@ The overland trade comes over the strait on the ferries and lands at the **Carav
 
 ## Two Fires
 
-Qudûmel feels different from the other port cities, and its faith is the clearest sign: the dominant religion here is the [[affiliation-ashanpnthn|Āsháian Pantheon]], not the [[affiliation-arldnpnthn|Aurèldían]]. In the **Temple of Two Fires**, a syncretic shrine, the rites of both are practiced side by side under one roof.
+Kudumel feels different from the other port cities, and its faith is the clearest sign: the dominant religion here is the [[affiliation-ashanpnthn|Ashaian Pantheon]], not the [[affiliation-arldnpnthn|Aureldian]]. In the **Temple of Two Fires**, a syncretic shrine, the rites of both are practiced side by side under one roof.
 
 ## See Also
 
-- [[affiliation-qudumel|Qudûmel]]—the city-state
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the confederation
-- [[place-taruzelrgn|Tarûzel Region]]—the regional overview
+- [[affiliation-qudumel|Kudumel]]—the city-state
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the confederation
+- [[place-taruzelrgn|Taruzel Region]]—the regional overview

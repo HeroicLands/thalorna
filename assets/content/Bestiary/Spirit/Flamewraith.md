@@ -425,7 +425,7 @@ The hill-fort burned so long ago that grass grows over the fallen roof-beams, bu
 
 # Dossier {#dossier}
 
-The Flamewraith is a spirit of fire: most often what is left of a mage who died in his own fire, his soul unreceived and bound to the place or the thing that burned him, and now a shape of living flame that hungers for fuel and burns what it touches. It passes through walls, it bursts into flame round itself, and it cannot be ended while the object it is bound to survives. The flamewraith best known in the west haunts a burned hill-fort in the hills of [[place-helionis|Heliónis]], near [[affiliation-theradon|Therádon]]. It dates from the Helionite war against the Vylarian Republic, when the Republic's dragons made the mage-warlords' spells turn back on them, and some of those mages burned in their own sorcery.
+The Flamewraith is a spirit of fire: most often what is left of a mage who died in his own fire, his soul unreceived and bound to the place or the thing that burned him, and now a shape of living flame that hungers for fuel and burns what it touches. It passes through walls, it bursts into flame round itself, and it cannot be ended while the object it is bound to survives. The flamewraith best known in the west haunts a burned hill-fort in the hills of [[place-helionis|Helionis]], near [[affiliation-theradon|Theradon]]. It dates from the Helionite war against the Vylarian Republic, when the Republic's dragons made the mage-warlords' spells turn back on them, and some of those mages burned in their own sorcery.
 
 ## Presentation
 
@@ -433,7 +433,7 @@ A flamewraith has the shape of a person, six feet or so tall, made entirely of f
 
 ## In the Land
 
-During the war of 335 to 312 BF the mage-warlords of Heliónis held forts in the hills, and near the Republic's dragons their sorceries misfired and detonated in their hands. The hill-fort above the road to Therádon is one of the places where that happened, and the flamewraith is bound there: to the tower where it died, and to something in the tower, a mage's focus or a ring, that the Helionites say was never found. It does not leave the fort's ruins by day. At night, when it senses fire, a shepherd's lamp, a traveler's camp, a burning field, it goes toward it, and it has burned farmsteads in the valley below.
+During the war of 335 to 312 BF the mage-warlords of Helionis held forts in the hills, and near the Republic's dragons their sorceries misfired and detonated in their hands. The hill-fort above the road to Theradon is one of the places where that happened, and the flamewraith is bound there: to the tower where it died, and to something in the tower, a mage's focus or a ring, that the Helionites say was never found. It does not leave the fort's ruins by day. At night, when it senses fire, a shepherd's lamp, a traveler's camp, a burning field, it goes toward it, and it has burned farmsteads in the valley below.
 
 ## Key Behaviors
 
@@ -441,7 +441,7 @@ A flamewraith hungers for fuel and burns compulsively. It is drawn to flame of a
 
 ## What the Valley People Do
 
-The farmers and shepherds of the valley below the hill-fort light no fires after dark in sight of the fort, keep their lamps behind shutters, and roof their barns with tile. A household that sees a light moving down from the fort at night throws water on its hearth and goes out of the house. The [[affiliation-ordoarcanis|Thôrdimâlon]], whose founding college the mage-warlords came from, has sent scholars to the fort to find the object the flamewraith is bound to, because destroying it would end the creature and studying it would tell them what the mage-warlords knew. None of the scholars has found it. Helionite teachers of the older colleges bring their students to the valley, in daylight, as a lesson in what the ethical limits of arcane power look like when they are ignored.
+The farmers and shepherds of the valley below the hill-fort light no fires after dark in sight of the fort, keep their lamps behind shutters, and roof their barns with tile. A household that sees a light moving down from the fort at night throws water on its hearth and goes out of the house. The [[affiliation-ordoarcanis|Thordimalon]], whose founding college the mage-warlords came from, has sent scholars to the fort to find the object the flamewraith is bound to, because destroying it would end the creature and studying it would tell them what the mage-warlords knew. None of the scholars has found it. Helionite teachers of the older colleges bring their students to the valley, in daylight, as a lesson in what the ethical limits of arcane power look like when they are ignored.
 
 ## Signs
 

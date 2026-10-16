@@ -1,6 +1,6 @@
 ---
 shortcode: rnthrprdln
-name: {full: Ránthor Párdalen, given: Ránthor, clan: Párdalen, aliases: []}
+name: {full: Ranthor Párdalen, given: Ranthor, clan: Párdalen, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, clergy]
@@ -416,43 +416,43 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rnthrprdln|Ránthor Párdalen]]{float=top-left}
+![[rnthrprdln|Ranthor Párdalen]]{float=top-left}
 
-Ránthor stands 5'9" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, dark brows, and rounded cheeks. He has a tattoo of a crown on his chest.
+Ranthor stands 5'9" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, dark brows, and rounded cheeks. He has a tattoo of a crown on his chest.
 
 # Dossier {#dossier}
 
 **Service in Stone and Strife**
 
-Ránthor Párdalen came to shamanism through a path of warrior service, hard experience, and practical necessity. In his youth, he served the Kingdom of Élavendre as a soldier and guard, eventually rising to significant rank in the royal forces. During a campaign against hostile tribal forces, he was captured and held by shamans of the enemy tribe who recognized in him a latent spiritual sensitivity that his martial training had suppressed. Rather than executing him, they inducted him into their shamanic traditions, believing that his warrior nature and spiritual capacity could be molded into something valuable. When he was eventually ransomed and released, Ránthor returned to Élavendre but found that something fundamental had shifted within him; he could no longer serve purely as a warrior, nor could he ignore the spiritual dimensions of existence he now perceived.
+Ranthor Párdalen came to shamanism through a path of warrior service, hard experience, and practical necessity. In his youth, he served the Kingdom of Élavendre as a soldier and guard, eventually rising to significant rank in the royal forces. During a campaign against hostile tribal forces, he was captured and held by shamans of the enemy tribe who recognized in him a latent spiritual sensitivity that his martial training had suppressed. Rather than executing him, they inducted him into their shamanic traditions, believing that his warrior nature and spiritual capacity could be molded into something valuable. When he was eventually ransomed and released, Ranthor returned to Élavendre but found that something fundamental had shifted within him; he could no longer serve purely as a warrior, nor could he ignore the spiritual dimensions of existence he now perceived.
 
 **The Pragmatist's Path**
 
-He eventually left the kingdom's service and sought out the Kingdom of Élavendre's shamanic traditions, eventually establishing himself as a shaman who bridges the gap between the mystical and the martial worlds. Where other shamans focus on ecstatic experiences, divine communion, and arcane knowledge, Ránthor built his practice around practical applications: using shamanic techniques to heal wounds, mediate disputes, prepare warriors for battle through ritual and steadiness of mind, and dealing with political currents with the cunning he learned both in royal service and in shamanic training. Now in his late forties, he sits on the Tribal Council of Shamans and acts as a primary liaison between the shamanic order and the kingdom's military and political leadership.
+He eventually left the kingdom's service and sought out the Kingdom of Élavendre's shamanic traditions, eventually establishing himself as a shaman who bridges the gap between the mystical and the martial worlds. Where other shamans focus on ecstatic experiences, divine communion, and arcane knowledge, Ranthor built his practice around practical applications: using shamanic techniques to heal wounds, mediate disputes, prepare warriors for battle through ritual and steadiness of mind, and dealing with political currents with the cunning he learned both in royal service and in shamanic training. Now in his late forties, he sits on the Tribal Council of Shamans and acts as a primary liaison between the shamanic order and the kingdom's military and political leadership.
 
 **The Crown and the Question**
 
-The crown tattoo on his chest remains a point of speculation. One rumor holds that Ránthor was nobility in his past, possibly even royal blood, and that he abandoned his position for spiritual reasons. Another holds that the crown represents something he claims from the spirits themselves. Ránthor addresses the question rarely, offering only that he once served crowns and now serves the tribe instead, and that this represents spiritual growth rather than loss.
+The crown tattoo on his chest remains a point of speculation. One rumor holds that Ranthor was nobility in his past, possibly even royal blood, and that he abandoned his position for spiritual reasons. Another holds that the crown represents something he claims from the spirits themselves. Ranthor addresses the question rarely, offering only that he once served crowns and now serves the tribe instead, and that this represents spiritual growth rather than loss.
 
 ## Psyche
 
 ### Personality
 
-Ránthor is a man of few words and direct speech; he does not traffic in spiritual pretense or mystical obscurantism. When asked for guidance, he provides practical, actionable counsel rather than cryptic prophecies. This makes him immensely popular with warriors, hunters, and practical people while earning him dismissal or contempt from more traditionally mystical shamans who view his approach as reductive. He possesses a subtle dry humor, often directed at the grandiosity of other shamans or the follies of nobility and hierarchy.
+Ranthor is a man of few words and direct speech; he does not traffic in spiritual pretense or mystical obscurantism. When asked for guidance, he provides practical, actionable counsel rather than cryptic prophecies. This makes him immensely popular with warriors, hunters, and practical people while earning him dismissal or contempt from more traditionally mystical shamans who view his approach as reductive. He possesses a subtle dry humor, often directed at the grandiosity of other shamans or the follies of nobility and hierarchy.
 
 He has a sharp intelligence and real compassion for those who suffer, though he expresses it through action rather than words. He respects competence and honesty in all people regardless of station, and he has little patience for pretense, self-deception, or cruelty. He is not warm but he is fair, and those who work with him develop deep respect for his integrity. There is a melancholy to him—the sense of a man who has survived things that changed him, who has seen the worst of both civilization and wilderness, and who has made peace with neither but simply accepts them as facts of existence.
 
 ### Motivation
 
-Ránthor is motivated by a commitment to prevent the suffering he experienced in the conflicts between his former military service and the shamanic communities. He works tirelessly to build peace and understanding between the kingdom's government and the tribes, believing that spiritual wisdom and martial strength can and should be integrated rather than placed in opposition. He is driven by pragmatic belief that the shamanic arts are most valuable when applied to real human problems—healing injuries, resolving conflicts, preparing minds and spirits for necessary struggle—rather than being divorced into pure mysticism. Beyond these larger commitments, he is motivated by personal loyalty to those who have aided him, and by a quiet desire to mentor younger shamans (both traditional and pragmatic) in the integration of martial discipline with spiritual practice.
+Ranthor is motivated by a commitment to prevent the suffering he experienced in the conflicts between his former military service and the shamanic communities. He works tirelessly to build peace and understanding between the kingdom's government and the tribes, believing that spiritual wisdom and martial strength can and should be integrated rather than placed in opposition. He is driven by pragmatic belief that the shamanic arts are most valuable when applied to real human problems—healing injuries, resolving conflicts, preparing minds and spirits for necessary struggle—rather than being divorced into pure mysticism. Beyond these larger commitments, he is motivated by personal loyalty to those who have aided him, and by a quiet desire to mentor younger shamans (both traditional and pragmatic) in the integration of martial discipline with spiritual practice.
 
 ### Strengths
 
-- **Combat-Ready Spiritual Training:** Unlike most shamans, Ránthor is a dangerous physical combatant; he can fight effectively in melee or from range and weaves shamanic techniques into his martial skill.
-- **Mediation:** Ránthor has brokered peace between groups that seemed implacably opposed; his ability to understand both sides of a dispute and find face-saving compromises is rare.
+- **Combat-Ready Spiritual Training:** Unlike most shamans, Ranthor is a dangerous physical combatant; he can fight effectively in melee or from range and weaves shamanic techniques into his martial skill.
+- **Mediation:** Ranthor has brokered peace between groups that seemed implacably opposed; his ability to understand both sides of a dispute and find face-saving compromises is rare.
 - **Practical Ritual Mastery:** His rituals are designed to have measurable, practical effects—they heal injuries, calm anxious minds, steel warriors' resolve—rather than seeking communion with abstract spiritual forces.
 - **Strategic Political Understanding:** His years in royal service combined with shamanic training give him a deep understanding of how power works in both court and tribe; he handles political tangles with considerable skill.
-- **Unshakeable Moral Authority:** Ránthor's reputation for absolute integrity gives his words and judgments enormous weight; even those who dislike him respect his honesty and consistency.
+- **Unshakeable Moral Authority:** Ranthor's reputation for absolute integrity gives his words and judgments enormous weight; even those who dislike him respect his honesty and consistency.
 - **Mixed Heritage Insight:** His background spanning both civilization and shamanic tradition, military and mystical training, gives him unique perspective on seemingly irreconcilable conflicts.
 
 ### Weaknesses
@@ -469,44 +469,44 @@ Ránthor is motivated by a commitment to prevent the suffering he experienced in
 ### Patrons
 
 Chief Úlmera
-: The current tribal leader who relies on Ránthor for counsel on matters both spiritual and martial; they have worked together for two decades and maintain deep trust despite their different temperaments.
+: The current tribal leader who relies on Ranthor for counsel on matters both spiritual and martial; they have worked together for two decades and maintain deep trust despite their different temperaments.
 
 Captain Chénira
-: A decorated military officer of the Kingdom of Élavendre who acts as liaison between the kingdom's forces and the tribes. She and Ránthor maintain a formal relationship with hints of deeper mutual respect and perhaps unresolved personal history.
+: A decorated military officer of the Kingdom of Élavendre who acts as liaison between the kingdom's forces and the tribes. She and Ranthor maintain a formal relationship with hints of deeper mutual respect and perhaps unresolved personal history.
 
-Elder Healer Sérdalë
-: The oldest and most respected pure mystic shaman in the tribe who, despite their different approaches, respects Ránthor's results and refers patients to him for practical healing when her own spiritual work is insufficient.
+Elder Healer Sérdale
+: The oldest and most respected pure mystic shaman in the tribe who, despite their different approaches, respects Ranthor's results and refers patients to him for practical healing when her own spiritual work is insufficient.
 
 ### Enemies
 
 Traditionalist Shamans' Faction
-: Led by elder shamans like Fârlen the Keeper, this faction views Ránthor as a dilution of true shamanic practice; they openly challenge his authority and question whether his crown tattoo marks him as a traitor who carries enemy (kingdom) symbolism into shamanic circles.
+: Led by elder shamans like Farlen the Keeper, this faction views Ranthor as a dilution of true shamanic practice; they openly challenge his authority and question whether his crown tattoo marks him as a traitor who carries enemy (kingdom) symbolism into shamanic circles.
 
 Kingdom Hardliners
-: Military commanders and courtiers within Élavendre who view Ránthor's bridging work between kingdom and tribe as disloyalty; they see his shamanic service as abandonment of his former oath.
+: Military commanders and courtiers within Élavendre who view Ranthor's bridging work between kingdom and tribe as disloyalty; they see his shamanic service as abandonment of his former oath.
 
-Lord Várgen of the Obsidian Order
-: An ambitious noble with ties to dark magic and military ambition who views Ránthor's peace-brokering efforts as obstacles to his plans for territorial expansion; he has twice attempted to have Ránthor discredited or eliminated.
+Lord Vargen of the Obsidian Order
+: An ambitious noble with ties to dark magic and military ambition who views Ranthor's peace-brokering efforts as obstacles to his plans for territorial expansion; he has twice attempted to have Ranthor discredited or eliminated.
 
 ### Affiliations
 
 Tribal Council of Shamans
-: Ránthor is a full council member and is often called upon as the tie-breaker in disputes between mystical and practical factions.
+: Ranthor is a full council member and is often called upon as the tie-breaker in disputes between mystical and practical factions.
 
 Kingdom of Élavendre's Tribal Relations Bureau
-: Though not formally part of the kingdom's government, Ránthor maintains official recognition and occasional funding from this bureau for his peace-brokering work.
+: Though not formally part of the kingdom's government, Ranthor maintains official recognition and occasional funding from this bureau for his peace-brokering work.
 
 The Order of Balanced Stone
-: An ancient and secretive organization of shamans who believe in integration of martial and mystical traditions; Ránthor is suspected of membership, though he neither confirms nor denies it.
+: An ancient and secretive organization of shamans who believe in integration of martial and mystical traditions; Ranthor is suspected of membership, though he neither confirms nor denies it.
 
 ## Plot Hooks
 
-1. **The Crown's True Story:**: A royal emissary from the Kingdom of Élavendre arrives seeking Ránthor's assistance with a diplomatic crisis, and in conversation references details about Ránthor's past military service that he has never shared publicly. The emissary hints that Ránthor may have fled the kingdom under complicated circumstances, possibly involving a scandal or failure. Ránthor neither confirms nor denies the suggestion, but the party is drawn into investigating his history and the true meaning of the crown tattoo. He may be a disgraced noble, a traitor to the kingdom, or a man who was framed; the truth—if revealed—could either vindicate him or destroy the careful peace he has built between kingdom and tribe.
+1. **The Crown's True Story:**: A royal emissary from the Kingdom of Élavendre arrives seeking Ranthor's assistance with a diplomatic crisis, and in conversation references details about Ranthor's past military service that he has never shared publicly. The emissary hints that Ranthor may have fled the kingdom under complicated circumstances, possibly involving a scandal or failure. Ranthor neither confirms nor denies the suggestion, but the party is drawn into investigating his history and the true meaning of the crown tattoo. He may be a disgraced noble, a traitor to the kingdom, or a man who was framed; the truth—if revealed—could either vindicate him or destroy the careful peace he has built between kingdom and tribe.
 
-2. **The Impossible Dispute:**: Two communities in a conflict that threatens the survival of both approach Ránthor through neutral channels with an offer: if he mediates and achieves peace, they will grant him something he has long desired (perhaps information about his past, perhaps territory, perhaps spiritual knowledge). The problem is that this particular conflict involves irreconcilable moral positions—one side must be fundamentally wrong, and compromise means both sides become partially complicit in evil. Ránthor's famed ability to find middle ground is tested to its limits, and the party is drawn into helping him through a situation where his pragmatic approach may not be enough.
+2. **The Impossible Dispute:**: Two communities in a conflict that threatens the survival of both approach Ranthor through neutral channels with an offer: if he mediates and achieves peace, they will grant him something he has long desired (perhaps information about his past, perhaps territory, perhaps spiritual knowledge). The problem is that this particular conflict involves irreconcilable moral positions—one side must be fundamentally wrong, and compromise means both sides become partially complicit in evil. Ranthor's famed ability to find middle ground is tested to its limits, and the party is drawn into helping him through a situation where his pragmatic approach may not be enough.
 
-3. **The Shamanic Civil War:**: Internal tensions within the Tribal Council of Shamans erupt into open conflict between the traditionalist faction and Ránthor's pragmatist faction. The traditionalists attempt to have Ránthor expelled from the council, claiming he has betrayed core shamanic principles through his association with the kingdom and his skepticism toward pure mysticism. Ránthor is forced to defend his work and his honor, but he refuses to engage in the kind of political maneuvering necessary to win the conflict. The party can help Ránthor through shamanic politics or stand aside and let him face the consequences of his refusal to play the game.
+3. **The Shamanic Civil War:**: Internal tensions within the Tribal Council of Shamans erupt into open conflict between the traditionalist faction and Ranthor's pragmatist faction. The traditionalists attempt to have Ranthor expelled from the council, claiming he has betrayed core shamanic principles through his association with the kingdom and his skepticism toward pure mysticism. Ranthor is forced to defend his work and his honor, but he refuses to engage in the kind of political maneuvering necessary to win the conflict. The party can help Ranthor through shamanic politics or stand aside and let him face the consequences of his refusal to play the game.
 
-4. **The Kingdom's Dark Turn:**: Ránthor receives information suggesting that elements within the Kingdom of Élavendre are preparing for aggressive expansion against tribal lands, and that his peace-brokering work has been deliberately used as cover for military preparation. He also discovers that some of his students and allies may be being used as unwitting spies. Faced with the possibility that his life's work of building peace has been corrupted and used as camouflage for warmongering, Ránthor can inform the tribes and risk war, or secretly investigate and attempt to prevent the expansion without revealing that the kingdom's intentions have been discovered.
+4. **The Kingdom's Dark Turn:**: Ranthor receives information suggesting that elements within the Kingdom of Élavendre are preparing for aggressive expansion against tribal lands, and that his peace-brokering work has been deliberately used as cover for military preparation. He also discovers that some of his students and allies may be being used as unwitting spies. Faced with the possibility that his life's work of building peace has been corrupted and used as camouflage for warmongering, Ranthor can inform the tribes and risk war, or secretly investigate and attempt to prevent the expansion without revealing that the kingdom's intentions have been discovered.
 
-5. **The Spirit's Contract:**: Ránthor is visited by a powerful spirit that claims to have watched over him throughout his life and is now calling in an old debt: the spirit demands that Ránthor perform a ritual that will require significant personal sacrifice, and that will have great consequences for the balance of power between kingdom and tribe. The spirit refuses to explain why this ritual is necessary or what will happen if Ránthor refuses. Ránthor's pragmatism and spiritual commitment come into direct conflict, and he cannot tell whether he is being manipulated by a hostile entity claiming to be benevolent, or whether he truly does owe a debt beyond his current understanding.
+5. **The Spirit's Contract:**: Ranthor is visited by a powerful spirit that claims to have watched over him throughout his life and is now calling in an old debt: the spirit demands that Ranthor perform a ritual that will require significant personal sacrifice, and that will have great consequences for the balance of power between kingdom and tribe. The spirit refuses to explain why this ritual is necessary or what will happen if Ranthor refuses. Ranthor's pragmatism and spiritual commitment come into direct conflict, and he cannot tell whether he is being manipulated by a hostile entity claiming to be benevolent, or whether he truly does owe a debt beyond his current understanding.

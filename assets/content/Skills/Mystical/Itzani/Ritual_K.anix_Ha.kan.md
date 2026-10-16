@@ -1,6 +1,6 @@
 ---
 shortcode: kanixhakan
-name: {full: "Ritual: K'anix Ha'kan", aliases: [K'anix Ha'kan, The Golden Giver]}
+name: {full: "Ritual: K'anish Ha'kan", aliases: [K'anish Ha'kan, The Golden Giver]}
 type: skill
 subType: mystical
 tags: [itzani, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-kanixhakan|Faith of K'anix Ha'kan]]
+See [[affiliation-kanixhakan|Faith of K'anish Ha'kan]]

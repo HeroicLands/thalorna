@@ -1,6 +1,6 @@
 ---
 shortcode: vandsksrns
-name: {full: Vanâdîs Kâserânis, aliases: []}
+name: {full: Vanadis Kaseranis, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -388,13 +388,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Vanâdîs Kâserânis is a 28-year-old woman who stands 5'7" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a strong jaw that leads to a strong chin. Her piercing hazel eyes sit beneath heavy brows, lending her a penetrating gaze. A straight nose and firm lips complete her features. She has medium-toned skin with a smooth complexion. Her dark brown hair is pinned in an elegant twist.
+Vanadis Kaseranis is a 28-year-old woman who stands 5'7" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a strong jaw that leads to a strong chin. Her piercing hazel eyes sit beneath heavy brows, lending her a penetrating gaze. A straight nose and firm lips complete her features. She has medium-toned skin with a smooth complexion. Her dark brown hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian heritage, Vanâdîs Kâserânis came into the world of the courtesan through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Vanadis Kaseranis came into the world of the courtesan through a combination of circumstance and aptitude.
 
-Vanâdîs was born into poverty, but her charm and beauty allowed her to rise above her circumstances. She began working as a courtesan in her late teens, attracting the attention of wealthy patrons. Vanâdîs is skilled in the art of conversation, music, and dance, making her a companion. Despite her success, she struggles with the societal judgment that comes with her profession.
+Vanadis was born into poverty, but her charm and beauty allowed her to rise above her circumstances. She began working as a courtesan in her late teens, attracting the attention of wealthy patrons. Vanadis is skilled in the art of conversation, music, and dance, making her a companion. Despite her success, she struggles with the societal judgment that comes with her profession.
 
 ## Psyche
 
@@ -404,7 +404,7 @@ Vulnerable to social stigma, often keeps people at a distance emotionally.
 
 ### Motivation
 
-Vanâdîs is driven by the desire to master her craft and secure a stable future. The uncertainties of life in courtesan work keep her vigilant and adaptable.
+Vanadis is driven by the desire to master her craft and secure a stable future. The uncertainties of life in courtesan work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -412,15 +412,15 @@ Charismatic, skilled at reading people, talented in dance and music.
 
 ## Social
 
-Vanâdîs is affiliated with None; prefers to remain independent.
+Vanadis is affiliated with None; prefers to remain independent.
 
-As a Vylarian courtesan, Vanâdîs occupies a recognized social niche within Vylaria society.
+As a Vylarian courtesan, Vanadis occupies a recognized social niche within Vylaria society.
 
 ## Companions
 
 ### Patrons
 
-Vanâdîs's primary patron is Wealthy merchants and nobles who value her company. This relationship provides both opportunity and obligation.
+Vanadis's primary patron is Wealthy merchants and nobles who value her company. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -428,12 +428,12 @@ Rival courtesans who envy her popularity.
 
 ## Plot Hooks
 
-1. **The Courtesan's Dilemma**—Vanâdîs faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
+1. **The Courtesan's Dilemma**—Vanadis faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 
 2. **Old Grudges**—Rival courtesans who envy her popularity. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Vanâdîs's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Vanadis's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Vanâdîs depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Vylaria threaten to upend the social order that Vanadis depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Vanâdîs the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Vanadis the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

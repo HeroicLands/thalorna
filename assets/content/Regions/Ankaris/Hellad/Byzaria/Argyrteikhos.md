@@ -1,12 +1,12 @@
 ---
 shortcode: argyrteikhos
-name: {full: Argýrteíkhos, aliases: []}
+name: {full: Argirteikhos, aliases: []}
 type: affiliation
 subType: polity
-description: "Mountain fortress-city of the Byzarian League guarding the eastern passes—silver-mining garrison whose disciplined troops keep the trade routes open and whose ascetic monastic chronicler-tradition is the most serious in the region."
+description: "Mountain fortress-city of the Bizarian League guarding the eastern passes—silver-mining garrison whose disciplined troops keep the trade routes open and whose ascetic monastic chronicler-tradition is the most serious in the region."
 data:
   templatePriority: null
-  demonym: Argýrteíkhian
+  demonym: Argirteíkhian
   epithet: null
   symbol: null
   governance:
@@ -70,34 +70,34 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The smallest of the five League cities pays for the League's defense. [[place-argyrteikhos2|Argýrteíkhos]] holds about 35,000 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 1.4 million that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into [[place-byzariargn|Byzaría]], and that fact settles most of what the other four cities think of it: the [[affiliation-byzarianlg|Byzarian League]] trades in peace because Argýrteíkhos is ready for war.
+The smallest of the five League cities pays for the League's defense. [[place-argyrteikhos2|Argirteikhos]] holds about 35,000 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 1.4 million that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into [[place-byzariargn|Bizaria]], and that fact settles most of what the other four cities think of it: the [[affiliation-byzarianlg|Bizarian League]] trades in peace because Argirteikhos is ready for war.
 
 ## Who Decides
 
 A military governor and a council of merchant-princes govern the city-state. The governor sits on the League council beside the merchant-princes, and his seat there is a reminder of whose garrison the League's prosperity rests on. The city's own council elects a First of the Council for a fixed term, who holds the city's seal.
 
-The garrison's work is deterrence. It keeps the mountain routes open for trade and keeps eastern warlords, desert raiders and bandits from testing them, and its visible readiness to fight is meant to make fighting unnecessary. The command beyond the pass is a separate one. The Lord Commander of the [[place-eastrnmrch|Eastern March]] answers to the League council, not to the governor, and the two commands are meant to check each other; because they face the same country they cooperate closely, with a mounted reserve at Argýrteíkhos able to reach any post on the March within two days.
+The garrison's work is deterrence. It keeps the mountain routes open for trade and keeps eastern warlords, desert raiders and bandits from testing them, and its visible readiness to fight is meant to make fighting unnecessary. The command beyond the pass is a separate one. The Lord Commander of the [[place-eastrnmrch|Eastern March]] answers to the League council, not to the governor, and the two commands are meant to check each other; because they face the same country they cooperate closely, with a mounted reserve at Argirteikhos able to reach any post on the March within two days.
 
 ## The Monasteries
 
-The monasteries of the eastern rite are especially influential here, and they are the city's chroniclers and healers and its go-betweens with the peoples beyond the passes. One monk of Argýrteíkhos describes the arrangement to a visitor from the coast: "The garrison keeps the pass. We keep the record of what crosses it, and we are the ones the other side will speak to." The monastic tradition of chronicling here is the most serious in the region, and its ascetic discipline shapes the city's whole austere character.
+The monasteries of the eastern rite are especially influential here, and they are the city's chroniclers and healers and its go-betweens with the peoples beyond the passes. One monk of Argirteikhos describes the arrangement to a visitor from the coast: "The garrison keeps the pass. We keep the record of what crosses it, and we are the ones the other side will speak to." The monastic tradition of chronicling here is the most serious in the region, and its ascetic discipline shapes the city's whole austere character.
 
 ## Standing
 
-Argýrteíkhos keeps the League's ladder of standing. The freeman is enrolled in the city's register, trades in its markets and pleads in its courts; the resident lives and labors under its protection without its freedom or a vote. Above the freeman stand the guild master, the house factor, the house head and the councillor, and the military governor holds a place on the League council that no rung of the ladder describes: he is there for the garrison.
+Argirteikhos keeps the League's ladder of standing. The freeman is enrolled in the city's register, trades in its markets and pleads in its courts; the resident lives and labors under its protection without its freedom or a vote. Above the freeman stand the guild master, the house factor, the house head and the councillor, and the military governor holds a place on the League council that no rung of the ladder describes: he is there for the garrison.
 
 ## Relations
 
-Argýrteíkhos is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. Its silver goes into the common treasury that pays the March's garrison and the joint army all five cities raise by conscription, and that arrangement is the reason the other four cities put up with a soldier at the council table.
+Argirteikhos is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Its silver goes into the common treasury that pays the March's garrison and the joint army all five cities raise by conscription, and that arrangement is the reason the other four cities put up with a soldier at the council table.
 
 ## Commerce and Currency
 
-Argýrteíkhos uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Argýrteíkhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Argirteikhos uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Argirteikhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—the confederation whose defense its silver pays for
-- [[place-byzariargn|Byzaría Region]]—the League's country
-- [[place-argyrteikhos2|Argýrteíkhos]]—the citadel city
+- [[affiliation-byzarianlg|Bizarian League]]—the confederation whose defense its silver pays for
+- [[place-byzariargn|Bizaria Region]]—the League's country
+- [[place-argyrteikhos2|Argirteikhos]]—the citadel city
 - [[place-eastrnmrch|Eastern March]]—the frontier district beyond the pass
-- [[affiliation-khryshteikhos|Khrýshteíkhos]], [[affiliation-nesthiros|Nêsthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-orashion|Órashion]]—the other four city-states
+- [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-nesthiros|Nesthiros]], [[affiliation-karvashion|Karvashion]], [[affiliation-orashion|Órashion]]—the other four city-states

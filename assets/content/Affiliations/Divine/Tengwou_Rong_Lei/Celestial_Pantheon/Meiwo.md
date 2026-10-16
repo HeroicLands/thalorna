@@ -1,6 +1,6 @@
 ---
 shortcode: meiwo
-name: {full: Méiwō, aliases: [The Minister of Dreams, Méi Séi, The Bureau of Night Counsel]}
+name: {full: Meiwo, aliases: [The Minister of Dreams, Mei Sei, The Bureau of Night Counsel]}
 type: affiliation
 subType: faithtradition
 description: "Dreams."
@@ -14,16 +14,16 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tānchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
         description: >-
-          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tāntsou consider worse.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tantsou consider worse.
       - level: 1
         title: Petitioner
         description: >-
-          Every Tāntsou: keeps a moral ledger, is observed by the household's Tsàikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -47,11 +47,11 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Téng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Méiwō, The Minister of Dreams: >-
-        Téng Gui of the Méi Séi, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Léngwō: >-
+      Meiwo, The Minister of Dreams: >-
+        Teng Gui of the Mei Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Lengwo: >-
         Clerks of Auspicious Dreams, who deliver favorable omens.
       Hayo: >-
         Clerks of Warning Dreams, who deliver cautionary visions. Not malevolent—a nightmare is simply an urgent memo.
@@ -81,29 +81,29 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Méiwō—The Minister of Dreams
+## Meiwo—The Minister of Dreams
 
-- **Bureau:** Méi Séi, The Bureau of Night Counsel
+- **Bureau:** Mei Sei, The Bureau of Night Counsel
 - **Domain:** Dreams
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Léi]]
+- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Méi Séi processes dream-petitions, delivers omens, and files night-counsel reports. A Tāntsou who
+Mei Sei processes dream-petitions, delivers omens, and files night-counsel reports. A Tantsou who
 wishes to be answered in sleep files for it, and a dream that arrives unbidden is understood to be
 a memo from a clerk rather than a message from a god.
 
-The bureau is the Téngwou Rong Léi's expression of [[lore-goddreams|the God of Dreams]]—the same
-entity the Asguardians call **Bjartr**, the Aurèldíans Zûnêlâs, the Ki'ichek Nal'ik Tz'uqal and the
-Khelâthi Nehle'ât. In the Tāntsou framework this is not a coincidence but a bureaucratic anomaly: one
+The bureau is the Téngwou Rong Lei's expression of [[lore-goddreams|the God of Dreams]]—the same
+entity the Asguardians call **Bjart**, the Aureldians Zunelas, the Ki'ichek Nal'ik Ts'uqal and the
+Khelathi Nehle'at. In the Tantsou framework this is not a coincidence but a bureaucratic anomaly: one
 being appears to hold the Dream portfolio across several celestial administrations at once, which
-no procedure accounts for and which the Tānchéi find deeply troubling.
+no procedure accounts for and which the Tanchéi find deeply troubling.
 
 ### Lesser Spirits
 
-- **Léngwō**—Clerks of Auspicious Dreams, who deliver favorable omens.
+- **Lengwo**—Clerks of Auspicious Dreams, who deliver favorable omens.
 - **Hayo**—Clerks of Warning Dreams, who deliver cautionary visions. Not malevolent—a nightmare is simply an urgent memo.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Léi]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Téng Chou Script]]—the writing every petition is made in
+- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
+- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in

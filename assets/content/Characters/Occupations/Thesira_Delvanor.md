@@ -1,6 +1,6 @@
 ---
 shortcode: thesidlvnr
-name: {full: Thésira Delvánor, aliases: []}
+name: {full: Thésira Delvanor, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -393,11 +393,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Thésira Delvánor is a 25-year-old woman who stands 5'10" tall and is of moderate build. She has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has medium-toned skin with a bronzed complexion. Her dark brown hair is braided and coiled at the nape. She has narrow lips and a nose crooked from an old break.
+Thésira Delvanor is a 25-year-old woman who stands 5'10" tall and is of moderate build. She has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has medium-toned skin with a bronzed complexion. Her dark brown hair is braided and coiled at the nape. She has narrow lips and a nose crooked from an old break.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Thésira Delvánor is a mercenary.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Thésira Delvanor is a mercenary.
 
 Thésira is a skilled fighter and mercenary who has built a reputation on her prowess in combat. With a strong moral code, she takes on jobs that fit her beliefs, often defending the downtrodden and fighting against oppression. She is known for her bravery and her willingness to put herself in harm's way to protect others. She dreams of one day forming her own mercenary company.
 

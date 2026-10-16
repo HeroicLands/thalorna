@@ -1,6 +1,6 @@
 ---
 shortcode: drmndtrb
-name: {full: Dûrmand, aliases: []}
+name: {full: Durmand, aliases: []}
 type: affiliation
 subType: polity
 description: "A horse-breeding tribe of the eastern grass whose wells held in a drought year and whose traders sell to every camp."
@@ -58,23 +58,23 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Dûrmand** hold the eastern grass beyond the [[affiliation-zrnshtrb|Zarnûsh]], and their wells held in the drought that broke the Zarnûsh. They breed the horses the central steppe rides: long-legged, hard in the hoof and trained to run from a standing start. A [[lore-sowidesclt|Sovidur]] rider who owns a Dûrmand horse knows it by the brand on the shoulder and the price he paid.
+The **Durmand** hold the eastern grass beyond the [[affiliation-zrnshtrb|Zarnush]], and their wells held in the drought that broke the Zarnush. They breed the horses the central steppe rides: long-legged, hard in the hoof and trained to run from a standing start. A [[lore-sowidesclt|Sovidur]] rider who owns a Durmand horse knows it by the brand on the shoulder and the price he paid.
 
 ## Horses and Credit
 
-The Dûrmand trade as much as they raid. A Dûrmand horse-trader carries the tribe's credit in his head and sells on loan to riders he trusts, and debt is how the Dûrmand bind other tribes to them. A rider in debt to a Dûrmand trader fights beside the Dûrmand and sells them news, and the trader keeps the account.
+The Durmand trade as much as they raid. A Durmand horse-trader carries the tribe's credit in his head and sells on loan to riders he trusts, and debt is how the Durmand bind other tribes to them. A rider in debt to a Durmand trader fights beside the Durmand and sells them news, and the trader keeps the account.
 
 ## The Raid
 
-In the year the Zarnûsh wells failed, a Dûrmand riding party drove off nearly a third of the Zarnûsh horses and killed two warriors. The Dûrmand call it a dry-year bargain and say they have no quarrel with the Zarnûsh. The Zarnûsh call it an insult they cannot yet answer. The Dûrmand horse-trader Shâbâr Gorâvân now holds a Zarnûsh archer's debt and wants it repaid in information about the Zarnûsh wells.
+In the year the Zarnush wells failed, a Durmand riding party drove off nearly a third of the Zarnush horses and killed two warriors. The Durmand call it a dry-year bargain and say they have no quarrel with the Zarnush. The Zarnush call it an insult they cannot yet answer. The Durmand horse-trader Shabar Goravan now holds a Zarnush archer's debt and wants it repaid in information about the Zarnush wells.
 
 ## Caravans
 
-A caravan that crosses Dûrmand grass pays in horses or in goods the Dûrmand can trade onward, and it buys a guide from the tribe. The Dûrmand prefer paid passage to plunder, because a caravan that returns next year is worth more than one stripped once.
+A caravan that crosses Durmand grass pays in horses or in goods the Durmand can trade onward, and it buys a guide from the tribe. The Durmand prefer paid passage to plunder, because a caravan that returns next year is worth more than one stripped once.
 
 ## See Also
 
 - [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
-- [[affiliation-zrnshtrb|Zarnûsh]]—the tribe the Dûrmand raided
-- [[affiliation-zrdntrb|Âzardan]], [[affiliation-shrzrtrb|Shirzâri]]—the other great tribes of the central steppe
+- [[affiliation-zrnshtrb|Zarnush]]—the tribe the Durmand raided
+- [[affiliation-zrdntrb|Azardan]], [[affiliation-shrzrtrb|Shirzari]]—the other great tribes of the central steppe
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the tribe grazes

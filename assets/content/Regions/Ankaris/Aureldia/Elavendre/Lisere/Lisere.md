@@ -1,9 +1,9 @@
 ---
 shortcode: lisere
-name: {full: Líserë, aliases: []}
+name: {full: Lísere, aliases: []}
 type: place
 subType: region
-description: "The northern coast of Élavendre, wrapped around Líserë Bay—cold but temperate, rich in fish, thirty miles across the water from Vrystwald, and the kingdom's most raided shore."
+description: "The northern coast of Élavendre, wrapped around Lísere Bay—cold but temperate, rich in fish, thirty miles across the water from Vristwald, and the kingdom's most raided shore."
 tags: [region, coastal, border]
 data:
   demonym: null
@@ -14,27 +14,27 @@ data:
   packFolder: elavendre
 ---
 
-**Líserë** is Élavendre's northern coast: a quarter of a million people along the southern shore of
-[[place-liserebay|Líserë Bay]], from which the region takes its name.
+**Lísere** is Élavendre's northern coast: a quarter of a million people along the southern shore of
+[[place-liserebay|Lísere Bay]], from which the region takes its name.
 
 The climate is **cold but temperate**—gray, wet, windy, and never quite as hard as its latitude
 suggests, the sea keeping the frost off. The country behind the shore is low, boggy in places, and
 thickly wooded; the coast itself is shingle and low headland rather than the cliffs of
-[[place-lirve|Lírvë]] to the southwest.
+[[place-lirve|Lirve]] to the southwest.
 
 ## Across the Water
 
 The bay is the region's whole strategic problem. Thirty miles of open water at the narrows is not a
 frontier; it is a crossing, and it is crossed.
 
-[[place-vrystwald|Vrystwald]] lies on the far shore—wild forest country held by the Varokh
+[[place-vrystwald|Vristwald]] lies on the far shore—wild forest country held by the Varokh
 tribes, with large bands of [[lore-grukarfolk|Grukar]] ranging through it out of
 [[place-grkrhlmrgn|Grukarholm]] to its east and south. Neither is a kingdom that could invade
-Élavendre. Both raid it constantly, and Líserë is where they land.
+Élavendre. Both raid it constantly, and Lísere is where they land.
 
 The consequence is a coast that is settled defensively: villages set back from the water, beacon
 stations on every headland, boats drawn up where they can be got away, and a levy that musters
-faster than any in the kingdom. Líserë regards [[place-ellive|Éllivë]]'s complacency as its principal
+faster than any in the kingdom. Lísere regards [[place-ellive|Éllive]]'s complacency as its principal
 export problem.
 
 ## The Nordmen
@@ -49,14 +49,14 @@ northern shore, and is gone before a levy can be raised.
 There is accordingly **no warmth whatever between Élavendre and the Nordmen**, and there has not been
 in living memory or in any memory the chroniclers preserve. It is the one foreign question on which the
 courtly, conciliatory, endlessly diplomatic Élavendri have never been willing to be reasonable, and
-Líserë is the reason: the north has been paying for that history for a very long time, and paid most of
+Lísere is the reason: the north has been paying for that history for a very long time, and paid most of
 it before Péravel took much notice.
 
 ## The Economy
 
 - **Fish, and a great deal of it.** Cold northern water and a sheltered bay make the best fishery in
-  Élavendre. Salt-fish and oil go south to Éllivë and out through Calypsa.
-- **Calypsan transit.** [[affiliation-calypsa|Calypsa]] lies some seventy-five miles off the coast
+  Élavendre. Salt-fish and oil go south to Éllive and out through Kalipsa.
+- **Kalipsan transit.** [[affiliation-calypsa|Kalipsa]] lies some seventy-five miles off the coast
   to the north, just outside the mouth of the bay, and a great deal of Élavendre's northern trade is handled
   through it—including goods nobody wishes to declare.
 - **Timber and pitch** from the coastal forest, for the shipyards.
@@ -66,5 +66,5 @@ it before Péravel took much notice.
 
 ## See Also
 
-- [[place-liserebay|Líserë Bay]] · [[place-vrystwald|Vrystwald]] · [[affiliation-calypsa|Calypsa]]
+- [[place-liserebay|Lísere Bay]] · [[place-vrystwald|Vristwald]] · [[affiliation-calypsa|Kalipsa]]
 - [[place-elavendre|Élavendre]]

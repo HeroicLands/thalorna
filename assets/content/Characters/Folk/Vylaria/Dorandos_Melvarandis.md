@@ -1,9 +1,9 @@
 ---
 shortcode: dorandosmelv
-name: {full: Dôrândôs Mêlvarândis, aliases: [Lord Dôrândôs]}
+name: {full: Doros Melvarandis, aliases: [Lord Doros]}
 type: being
 subType: npc
-description: The aging noble who employs Erithon Ûselîndâs as personal archer-guard.
+description: The aging noble who employs Erithon Uselindas as personal archer-guard.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dôrândôs Mêlvarândis is a 69-year-old man who stands 5'11" tall with a medium build. He has medium skin, weathered complexion, black hair, and brown eyes.
+Doros Melvarandis is a 69-year-old man who stands 5'11" tall with a medium build. He has medium skin, weathered complexion, black hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Dôrândôs Mêlvarândis is an aging nobleman who oversees the lands where [[being-erythnslnds|Erithon Ûselîndâs]] serves as personal archer-guard. He values [[being-erythnslnds|Erithon Ûselîndâs]] as a trusted counselor as well as a skilled guard, and their relationship has deepened over long service into something approaching friendship.
+Doros Melvarandis is an aging nobleman who oversees the lands where [[being-erythnslnds|Erithon Uselindas]] serves as personal archer-guard. He values [[being-erythnslnds|Erithon Uselindas]] as a trusted counselor as well as a skilled guard, and their relationship has deepened over long service into something approaching friendship.

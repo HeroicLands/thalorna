@@ -20,7 +20,7 @@ Caught by snow in a high pass of Norgaad, the party climbs to the only shelter i
 
 ## Overview
 
-[[place-vruthborg|Vruthborg]] was the odal of **Jarl Brildorv Braldendikh**, a smith-jarl of the [[place-flarnfjall|Flarnfjall]] dying of the forge-cough with no heir to take his forge. A guest no record describes came up the pass and taught him a binding: a sealed chamber of runed iron under the furnace, an anvil in the heart of the fire, and one great firing to be struck until the iron took it. The firing went through the flues under the hall and the barracks, and the household died in their beds. They are _hélthrall_ now, [[lore-undead|Helspawn]] of the driven kind, and they move only when the heat runs through the fortress. Each stroke of the jarl's hammer sends it.
+[[place-vruthborg|Vruthborg]] was the odel of **Jarl Brildorv Braldendik**, a smith-jarl of the [[place-flarnfjall|Flarnfjall]] dying of the forge-cough with no heir to take his forge. A guest no record describes came up the pass and taught him a binding: a sealed chamber of runed iron under the furnace, an anvil in the heart of the fire, and one great firing to be struck until the iron took it. The firing went through the flues under the hall and the barracks, and the household died in their beds. They are _helthrall_ now, [[lore-undead|Helspawn]] of the driven kind, and they move only when the heat runs through the fortress. Each stroke of the jarl's hammer sends it.
 
 The party arrives believing what the valley believes, and everything in the first two scenes agrees: a dead household, a furnace fed with people, a jarl still at work in the fire. The fortress has a way out under it, in the cold of the old workings, and a way to break the binding, in the miners' rule of fire, then water.
 
@@ -31,7 +31,7 @@ The full truth of the fortress—the guest's promise, the night of the firing, w
 This section covers what that truth does at the table: where the party can find it, how it lands on each route, and what the party wants once it knows.
 
 > [!IMPORTANT]
-> Krildynda is honest and wrong. She believes the valley's telling, that the jarl burned his household on purpose, and she says so. Everything she has seen with her own eyes is so. The party must be able to find each true fact without her, so that the one wrong thing she tells it is the only thing that rests on her word alone.
+> Krildinda is honest and wrong. She believes the valley's telling, that the jarl burned his household on purpose, and she says so. Everything she has seen with her own eyes is so. The party must be able to find each true fact without her, so that the one wrong thing she tells it is the only thing that rests on her word alone.
 
 ### The planted clues
 
@@ -47,15 +47,15 @@ This section covers what that truth does at the table: where the party can find 
 
 ### How the reveal lands
 
-The reveal belongs in Scene Three, when the strokes quicken and the roll comes round to the name **Krildynda**. Whatever route the party is on, a name is called and nobody dead answers it.
+The reveal belongs in Scene Three, when the strokes quicken and the roll comes round to the name **Krildinda**. Whatever route the party is on, a name is called and nobody dead answers it.
 
-- **With Krildynda.** Her own name comes out of the foundry in a man's voice. Every dead thing within sight quickens at the stroke, and none rises. She alone is standing, and she says, very quietly, "He is calling the morning." Then she says nothing else for a while.
-- **In the workings without her.** The hoist shaft carries the hammer and the names, one at each stroke, in the order of the last stave, and each name called is the next of the dead to stir in the galleries behind the party and walk toward the gallery mouth. When the voice reaches Krildynda's name, nothing moves, and somewhere ahead a lamp is shaded.
-- **In the yard.** The names are close enough to hear now. A party that holds the stave hears the voice follow it name by name, and at each name one figure of the watch climbs down and goes to its post. At Krildynda's name nothing in the yard moves.
+- **With Krildinda.** Her own name comes out of the foundry in a man's voice. Every dead thing within sight quickens at the stroke, and none rises. She alone is standing, and she says, very quietly, "He is calling the morning." Then she says nothing else for a while.
+- **In the workings without her.** The hoist shaft carries the hammer and the names, one at each stroke, in the order of the last stave, and each name called is the next of the dead to stir in the galleries behind the party and walk toward the gallery mouth. When the voice reaches Krildinda's name, nothing moves, and somewhere ahead a lamp is shaded.
+- **In the yard.** The names are close enough to hear now. A party that holds the stave hears the voice follow it name by name, and at each name one figure of the watch climbs down and goes to its post. At Krildinda's name nothing in the yard moves.
 - **If the party has read the stave aloud.** Any of its names, called back toward the foundry, stops the next stroke for a breath, as if the caller were listening for the answer.
 
 > [!TIP]
-> Land the reveal on the name and then stop talking. Let Krildynda's face, or the shaded lamp, do it. Players who hold the stave and the empty bunks put the rest together themselves.
+> Land the reveal on the name and then stop talking. Let Krildinda's face, or the shaded lamp, do it. Players who hold the stave and the empty bunks put the rest together themselves.
 
 > [!TIP]
 > Reward a party that guesses early. A party that reads the stave beside the empty bunks and asks whose names they are, or that counts the names against the strokes in Scene One, has it, and the reveal lands then. Let the party carry it into Scene Three as a plan rather than a shock.
@@ -65,16 +65,16 @@ The reveal belongs in Scene Three, when the strokes quicken and the roll comes r
 
 ### What the party wants afterward
 
-Once the reveal lands, the party has a way into the fire it did not have before: the truth. A body of his household carried to the furnace doors, Krildynda answering her own name as the only one awake, the stave read back to him with what became of each name: each of these stops the strokes for a while, and with them the heat. The quench still breaks the binding. The question becomes whether the party breaks it on a man who knows or on one who does not, and Krildynda, who has hated him for a winter, has to decide whether she wants him to know.
+Once the reveal lands, the party has a way into the fire it did not have before: the truth. A body of his household carried to the furnace doors, Krildinda answering her own name as the only one awake, the stave read back to him with what became of each name: each of these stops the strokes for a while, and with them the heat. The quench still breaks the binding. The question becomes whether the party breaks it on a man who knows or on one who does not, and Krildinda, who has hated him for a winter, has to decide whether she wants him to know.
 
 > [!TIP]
-> Play Krildynda after the reveal as a woman who wants to be angry and cannot find where to put it. She may want to answer her name to him. She may want the party to quench him without a word. Either is right for her, and the party has to choose with her.
+> Play Krildinda after the reveal as a woman who wants to be angry and cannot find where to put it. She may want to answer her name to him. She may want the party to quench him without a word. Either is right for her, and the party has to choose with her.
 
 ## Hooks
 
 - **The thief.** A Tvarnmark silver-buyer knows what Vruthborg's treasury held the winter its tally stopped, and that no one has claimed it.
 - **The mercenary or common soldier.** The district's officer will pay hard silver to a party that goes up the pass road and brings back word of why Vruthborg has sent no tally, so long as he does not have to go himself.
-- **The leader.** The jarl's sister's son wants to stand at the ting and claim the odal. He needs proof the jarl is dead, and the ting will want to see the jarl's arm-rings.
+- **The leader.** The jarl's sister's son wants to stand at the ting and claim the odel. He needs proof the jarl is dead, and the ting will want to see the jarl's arm-rings.
 - **The lone wanderer.** The wanderer was crossing the pass late in the year, and the snow came early.
 
 ## The Opening
@@ -124,29 +124,29 @@ The storm has been building since noon. Read or paraphrase:
 
 **Situation.** The barracks range runs along the inner wall. Its floor is warm underfoot. In the bunks lie the dead, and some of the bunks are empty and the blankets thrown back. Along the wall, at the height of a man's knee, are iron damper-plates on the flues that run under the floor, and every one stands open. The smithy is a lean-to against the foundry wall, cold, its tools racked. On a shelf over the bench, bound in a thong, are the smith's rune-staves.
 
-**NPCs and threats.** The **barracks dead** lie still between strokes and stir with the heat. When a name is called from the foundry, one of them gets up, stiffly, and walks out toward the yard or the workings, and strikes at whatever is in its way. A party that stays long among them is in a room full of the slowly waking. **Krildynda**, a miner, watches the party from the hatch to the workings at the back of the smithy, a lamp shaded in her hand. She has lived in the cold of the old galleries since the night the household died, and she comes up to the smithy for stores between strokes. She talks only once she is sure the party is alive.
+**NPCs and threats.** The **barracks dead** lie still between strokes and stir with the heat. When a name is called from the foundry, one of them gets up, stiffly, and walks out toward the yard or the workings, and strikes at whatever is in its way. A party that stays long among them is in a room full of the slowly waking. **Krildinda**, a miner, watches the party from the hatch to the workings at the back of the smithy, a lamp shaded in her hand. She has lived in the cold of the old galleries since the night the household died, and she comes up to the smithy for stores between strokes. She talks only once she is sure the party is alive.
 
-**Krildynda's account.** She was on the night shift in the deep galleries, where the heat never reaches, and when she came up at the morning bell the floors were hot and everyone was dead. She tells the party what the valley says, and believes it: that the jarl fed his household to his furnace to buy his life. She knows what she has seen: that the dead move with the heat, that the stokers carry travelers down the stair behind the furnace, that the cold of the workings stops anything that follows her in, and the miners' rule, fire, then water. She cannot read runes.
+**Krildinda's account.** She was on the night shift in the deep galleries, where the heat never reaches, and when she came up at the morning bell the floors were hot and everyone was dead. She tells the party what the valley says, and believes it: that the jarl fed his household to his furnace to buy his life. She knows what she has seen: that the dead move with the heat, that the stokers carry travelers down the stair behind the furnace, that the cold of the workings stops anything that follows her in, and the miners' rule, fire, then water. She cannot read runes.
 
 > [!WARNING]
-> Krildynda never explains the roll, the names or the binding. She does not know them. Give her account as a frightened woman's certainty and let the staves and the bunks argue with it.
+> Krildinda never explains the roll, the names or the binding. She does not know them. Give her account as a frightened woman's certainty and let the staves and the bunks argue with it.
 
 **Player choices.**
 
 - **Force.** Burn the barracks dead where they lie. The heat of the fire makes them rise.
 - **Stealth.** Take the staves and leave the barracks before the next stroke.
-- **Talk.** Win Krildynda over. She wants out of the mountain, and she wants someone to carry her kin out through a gap in the wall.
+- **Talk.** Win Krildinda over. She wants out of the mountain, and she wants someone to carry her kin out through a gap in the wall.
 - **Cleverness with the place.** Read the warm floors: flues run under them from the foundry, and the hot ones lead to the furnace.
 - **Giving something up.** Carry the dead out through a gap cut in the barracks wall, as the rite requires. It is hard, slow work between strokes, and the dead carried out that way do not rise again.
 
-**Clues and rewards.** The smith's staves are the record of **Knurvmýl**, the jarl's smith, cut in runes. The early staves are the ordinary work of a foundry: blooms, bars, axe-heads, a tally of charcoal, and from the jarl's good winters a note of flues laid from the foundry under the hall and the barracks, as the jarl had laid them, so that the household slept warm. Then come orders for a sealed chamber under the furnace, iron-lined, its doors cut with runes the smith did not know; for an anvil to be set in the heart of the furnace; and for a quench-dam of snowmelt above the foundry with a sluice to flood the casting floor. A stave notes, in the smith's hand, that iron heated in the chamber and quenched cracks like glass. The last stave is in another hand, the jarl's own, and lists names where the earlier staves keep the charcoal tally. In the smithy, a test-bar of chamber iron lies split along its length.
+**Clues and rewards.** The smith's staves are the record of **Knurvmil**, the jarl's smith, cut in runes. The early staves are the ordinary work of a foundry: blooms, bars, axe-heads, a tally of charcoal, and from the jarl's good winters a note of flues laid from the foundry under the hall and the barracks, as the jarl had laid them, so that the household slept warm. Then come orders for a sealed chamber under the furnace, iron-lined, its doors cut with runes the smith did not know; for an anvil to be set in the heart of the furnace; and for a quench-dam of snowmelt above the foundry with a sluice to flood the casting floor. A stave notes, in the smith's hand, that iron heated in the chamber and quenched cracks like glass. The last stave is in another hand, the jarl's own, and lists names where the earlier staves keep the charcoal tally. In the smithy, a test-bar of chamber iron lies split along its length.
 
 > [!IMPORTANT]
-> The last stave must reach the party in this scene or be found on Krildynda later. It is a list of the household's names, in the jarl's hand. Let the party read it as a list of the burned. Its order is the order of the names called from the foundry, and a party that compares the two has the reversal.
+> The last stave must reach the party in this scene or be found on Krildinda later. It is a list of the household's names, in the jarl's hand. Let the party read it as a list of the burned. Its order is the order of the names called from the foundry, and a party that compares the two has the reversal.
 
 **Consequences.** A party that carries the dead out lessens what will come at it in Scene Three, at the cost of time. A party with the staves knows what the chamber is, how the iron can be broken, and whose names the jarl wrote.
 
-**If bypassed, failed or cut short.** A party that never finds the smithy meets Krildynda anyway: she comes up out of a floor-hatch in the gatehouse cellar, where an old gallery runs, because she saw the party's lamps. She carries the last stave, which she took from the smithy because her name is on it, and she cannot read the rest. If the staves are burned or lost, the dam and its sluice can still be seen from the walls, the chamber's runes speak for themselves in Scene Four, and the names come from the foundry one stroke at a time.
+**If bypassed, failed or cut short.** A party that never finds the smithy meets Krildinda anyway: she comes up out of a floor-hatch in the gatehouse cellar, where an old gallery runs, because she saw the party's lamps. She carries the last stave, which she took from the smithy because her name is on it, and she cannot read the rest. If the staves are burned or lost, the dam and its sluice can still be seen from the walls, the chamber's runes speak for themselves in Scene Four, and the names come from the foundry one stroke at a time.
 
 ## Scene Three: The Walls Come Down
 
@@ -156,18 +156,18 @@ The storm has been building since noon. Read or paraphrase:
 
 **Situation.** The strokes quicken. The gate shuts and its bar drops. On the walls, the dead of the watch climb down from the wall-walk and cross the yard, each one at the stroke that calls it. The floors are hot now, too hot to stand on for long in the barracks and the hall. The cry after each stroke is close enough to make out plainly: the name of someone in the jarl's household, spoken in a hoarse, steady man's voice from inside the foundry.
 
-**NPCs and threats.** The **dead of the walls** move with each stroke and stiffen between, but the strokes are closer now and the gaps shorter. **Krildynda** knows two things: that the jarl's body was never brought out of the foundry and the hammering has gone on since that night, and that the coolest way to the foundry is through the original workings under the fortress, where the heat has never reached and the dead freeze solid.
+**NPCs and threats.** The **dead of the walls** move with each stroke and stiffen between, but the strokes are closer now and the gaps shorter. **Krildinda** knows two things: that the jarl's body was never brought out of the foundry and the hammering has gone on since that night, and that the coolest way to the foundry is through the original workings under the fortress, where the heat has never reached and the dead freeze solid.
 
-Then the voice from the foundry calls **Krildynda**. See How the reveal lands for each route.
+Then the voice from the foundry calls **Krildinda**. See How the reveal lands for each route.
 
 > [!IMPORTANT]
-> This scene must put Krildynda's name in the jarl's mouth and let the party see that nobody dead answers it. Everything after—telling him, the choice at the quench, the aftermath—rests on the party knowing he is calling the roll of a household he believes is asleep.
+> This scene must put Krildinda's name in the jarl's mouth and let the party see that nobody dead answers it. Everything after—telling him, the choice at the quench, the aftermath—rests on the party knowing he is calling the roll of a household he believes is asleep.
 
 **Player choices.**
 
 - **Force.** Fight across the yard to the foundry doors, through dead who quicken with every stroke.
-- **Stealth.** Go down into the old workings with Krildynda and come up under the foundry.
-- **Talk.** Persuade Krildynda to lead, when every part of her wants to stay in the cold. After her name has been called, she wants to see him.
+- **Stealth.** Go down into the old workings with Krildinda and come up under the foundry.
+- **Talk.** Persuade Krildinda to lead, when every part of her wants to stay in the cold. After her name has been called, she wants to see him.
 - **Cleverness with the place.** Close the flue dampers along the hall and barracks walls, which keeps the heat from those floors and the dead in them stiff.
 - **Giving something up.** Hold the yard so that others can reach the quench-dam on the wall above the foundry.
 
@@ -178,7 +178,7 @@ Then the voice from the foundry calls **Krildynda**. See How the reveal lands fo
 
 **Consequences.** There is no going back through the gate. A party that went through the yard arrives at the foundry hurt and hunted. A party that went through the workings arrives cold, unseen, and late, because the strokes have quickened while it was underground.
 
-**If bypassed, failed or cut short.** A party that holes up in the gatehouse is cooked out of it by the floors, or found by the dead when the heat comes, and the only door that leads anywhere cool is the cellar hatch into the workings. A party without Krildynda finds her lamp-marks on the gallery walls, a chalk line she drew to the ore-hoist so that she could listen at it, and her name is called while the party follows it. A party that tries the haulage tunnel early finds it dark and long and, at the far end, a drift of snow it cannot dig through before the cold kills it, and comes back.
+**If bypassed, failed or cut short.** A party that holes up in the gatehouse is cooked out of it by the floors, or found by the dead when the heat comes, and the only door that leads anywhere cool is the cellar hatch into the workings. A party without Krildinda finds her lamp-marks on the gallery walls, a chalk line she drew to the ore-hoist so that she could listen at it, and her name is called while the party follows it. A party that tries the haulage tunnel early finds it dark and long and, at the far end, a drift of snow it cannot dig through before the cold kills it, and comes back.
 
 ## Scene Four: The Furnace
 
@@ -202,7 +202,7 @@ Each hammer stroke comes from inside the furnace. **Jarl Brildorv** is there, in
 
 - **Force.** Fight the stokers off the feed-chute and jam it, so nothing more reaches the chamber.
 - **Stealth.** Come up the ore-hoist into the chamber beneath the furnace, free the chained man, and reach the runed doors from inside.
-- **Talk.** Tell the jarl. A body of his household carried to the furnace doors, Krildynda answering her name as the only one awake, or the last stave read back to him name by name with what became of each: any of these stops the strokes, and the heat, for a while, which is time. A jarl who has heard all three asks what became of the guest, and then asks to be let go.
+- **Talk.** Tell the jarl. A body of his household carried to the furnace doors, Krildinda answering her name as the only one awake, or the last stave read back to him name by name with what became of each: any of these stops the strokes, and the heat, for a while, which is time. A jarl who has heard all three asks what became of the guest, and then asks to be let go.
 - **Cleverness with the place.** Open the sluice of the quench-dam onto the casting floor while the furnace is at its hottest, and let the miners' rule do the work: fire, then water.
 - **Giving something up.** Feed the furnace with what it was built to eat, the jarl's own silver and arm-rings and the weapons on the walls, to stall it while someone reaches the dam; or let the chained man go to the fire.
 
@@ -222,26 +222,26 @@ Each hammer stroke comes from inside the furnace. **Jarl Brildorv** is there, in
 
 **Situation.** When the furnace dies, the fortress cools fast. The treasury is a vault cut into the rock behind the hall, barred with iron that is cold now, and its key hangs on the jarl's belt in the fire.
 
-**NPCs and threats.** If the binding is broken, nothing in Vruthborg moves. If it is not, the treasury lies across the yard from the foundry, and the hammer is still striking. **Krildynda** knows the haulage tunnel, and she wants to be gone before anything starts again.
+**NPCs and threats.** If the binding is broken, nothing in Vruthborg moves. If it is not, the treasury lies across the yard from the foundry, and the hammer is still striking. **Krildinda** knows the haulage tunnel, and she wants to be gone before anything starts again.
 
 **Player choices.**
 
 - **Force.** Break the treasury bars, if the key cannot be reached.
 - **Stealth.** Go in between strokes, if the furnace still burns, and take what can be carried.
-- **Talk.** Agree with Krildynda, the freed man and whoever sent the party, the jarl's sister's son or the district's officer, how the treasury is to be divided.
+- **Talk.** Agree with Krildinda, the freed man and whoever sent the party, the jarl's sister's son or the district's officer, how the treasury is to be divided.
 - **Cleverness with the place.** Load the treasury onto the ore-sledges and take them down the haulage tunnel.
 - **Giving something up.** Leave the silver as the king's tally owed, and take only what the jarl owed the dead.
 
-**Clues and rewards.** Silver ingots from the Vruthborg workings, stamped with the jarl's mark; the jarl's own gold arm-rings, which the ting will want to see; and on the treasury walls a rack of weapons from Knurvmýl's forge, axes, spearheads and swords of exceptional work. Only those cut with Knurvmýl's mark and the year-rune of the jarl's good winters were made before the guest came. The later ones are warm to the touch, and the dead of the watch carried their like.
+**Clues and rewards.** Silver ingots from the Vruthborg workings, stamped with the jarl's mark; the jarl's own gold arm-rings, which the ting will want to see; and on the treasury walls a rack of weapons from Knurvmil's forge, axes, spearheads and swords of exceptional work. Only those cut with Knurvmil's mark and the year-rune of the jarl's good winters were made before the guest came. The later ones are warm to the touch, and the dead of the watch carried their like.
 
-**Consequences.** The arm-rings and the freed man's word settle the odal at the next ting. The later weapons stay warm, and a party that keeps one carries a little of the furnace with it.
+**Consequences.** The arm-rings and the freed man's word settle the odel at the next ting. The later weapons stay warm, and a party that keeps one carries a little of the furnace with it.
 
 **If bypassed, failed or cut short.** The haulage tunnel runs from the lowest gallery of the workings under the pass to a sledge-road below the snow line, and it is the way out whatever happened in the foundry. A party that escapes by it without the treasury can come back up it in spring, when the pass opens, to a fortress that is cold if the binding broke and warm if it did not.
 
 ## Aftermath
 
 - **If the binding broke.** The chimney of Vruthborg stops smoking, and the district's officer sends men up the pass road in spring to count the ore and the dead.
-- **If the jarl knew at the end.** The party can tell the ting what he did and did not do, and Krildynda can say it with them. The valley's name for him is the party's to keep or to answer.
+- **If the jarl knew at the end.** The party can tell the ting what he did and did not do, and Krildinda can say it with them. The valley's name for him is the party's to keep or to answer.
 - **If he never knew.** He died calling a name, and nobody answered it. The valley goes on calling him the Ashen Jarl.
 - **If the dead were carried out.** Their kin raise stones for them, and the miners of Skulfheim say the Vruthborg workings are silent when they knock.
 - **If the jarl still burns.** The hammer goes on, the roll goes round, and every traveler the snow catches below the spur climbs to the warm gate.

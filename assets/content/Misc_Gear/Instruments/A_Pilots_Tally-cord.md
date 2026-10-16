@@ -19,6 +19,6 @@ Pilots are drawn from the young a current-stone answers, and a cord is cut by it
 ## See Also
 
 - [[affiliation-wardensapproaches|The Wardens of the Approaches]]—the pilots who carry the cords
-- [[place-telvaristone|The Telvári Stone]]—the current-stone the approaches are taken by
+- [[place-telvaristone|The Telvari Stone]]—the current-stone the approaches are taken by
 - [[place-vaelukoa|Vaelukoa]]—the reef village where the pilots learn the channels
 - [[mysticalability-hearingstone|Hearing the Stone]]—the answering that picks the pilots

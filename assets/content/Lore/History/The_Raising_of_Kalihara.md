@@ -3,7 +3,7 @@ shortcode: kaliharupl
 name: {full: The Raising of Kalihara, aliases: [The Uplift of Kalihara]}
 type: lore
 subType: history
-description: "The Ithári raise the human bands of Kalihara into a civilization that arrives complete—language, agriculture, medicine, governance and Thári'vaan—and do it nowhere else on Thalorna."
+description: "The Ithari raise the human bands of Kalihara into a civilization that arrives complete—language, agriculture, medicine, governance and Thári'vaan—and do it nowhere else on Thalorna."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [lore-theithari, affiliation-kalihara, place-klhrcntnnt]
       summary: >-
-        The Ithári raise the humans of Kalihara into a civilization that arrives complete—agriculture, medicine, governance, a vocabulary for all of it, and the philosophical tradition Thári'vaan. Nothing on the island shows the long ascent every other human tradition shows. It is the only place on Thalorna where the Ithári raised anyone.
+        The Ithari raise the humans of Kalihara into a civilization that arrives complete—agriculture, medicine, governance, a vocabulary for all of it, and the philosophical tradition Thári'vaan. Nothing on the island shows the long ascent every other human tradition shows. It is the only place on Thalorna where the Ithari raised anyone.
       standing: reconstructed
       names:
         - name: Thári'vaan
@@ -40,12 +40,12 @@ data:
         - the year is a round Kaliharan figure counted back from the present, not a date any record fixes
 ---
 
-What the Ithári made on Kalihara was not a people improved but a civilization invented. It arrived
+What the Ithari made on Kalihara was not a people improved but a civilization invented. It arrived
 complete: agriculture, medicine, governance, a vocabulary for all of it, and
 [[affiliation-tharivaan|Thári'vaan]], a disciplined account of the world as a single living whole
 to be observed and tended rather than mastered or appeased.
 
-The Kaliharans hold that they were taught because teaching was the right way to treat what the Ithári
+The Kaliharans hold that they were taught because teaching was the right way to treat what the Ithari
 found. Set beside the scatter of works in other countries, the island reads as an instrument—a
 society built to a specification, settled on a landmass its makers never expanded beyond, and handed
 the maintenance of installations whose purpose it was never told. Both readings fit every fact in

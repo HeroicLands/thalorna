@@ -241,7 +241,7 @@ The hum has been under everything for the last mile, a note too low to place, an
 
 # Dossier {#dossier}
 
-The Giant Bee is a honey-bee the size of a wolf, one of a hive of hundreds or thousands that hangs its combs in the great trees and rock-faces of [[place-okharisrgn|Okháris]], from the rain-fed forests of the west out to the dry scrub toward Bethûa. Its honey is the best in Xerathia and its sting kills a man. The village tribes of Okháris rob the hives in the one week of the year the bees allow it and keep clear of them the rest of the time, and a hive that moves into a grove near a village is a reason to move the village.
+The Giant Bee is a honey-bee the size of a wolf, one of a hive of hundreds or thousands that hangs its combs in the great trees and rock-faces of [[place-okharisrgn|Okharis]], from the rain-fed forests of the west out to the dry scrub toward Bethua. Its honey is the best in Zerathia and its sting kills a man. The village tribes of Okharis rob the hives in the one week of the year the bees allow it and keep clear of them the rest of the time, and a hive that moves into a grove near a village is a reason to move the village.
 
 A single bee far from the hive is a cautious animal. The hive, roused, is a storm that follows a man for a mile.
 
@@ -251,7 +251,7 @@ A banded body of yellow and black in fine, dense fur, with a bulbous abdomen end
 
 ## In the Land
 
-Giant Bees build in the crowns of the great forest trees of western Okháris, under the lips of river-gorge cliffs, and in the rock overhangs of the drier east, wherever the flowering is heavy within a few miles. A hive is a mass of comb as big as a house, hanging in sheets, and a grove with one in it can be heard before it is seen. The tribes map them. They are commonest along the river valleys where the orchards and the wild flowering trees stand together, which is also where the villages are.
+Giant Bees build in the crowns of the great forest trees of western Okharis, under the lips of river-gorge cliffs, and in the rock overhangs of the drier east, wherever the flowering is heavy within a few miles. A hive is a mass of comb as big as a house, hanging in sheets, and a grove with one in it can be heard before it is seen. The tribes map them. They are commonest along the river valleys where the orchards and the wild flowering trees stand together, which is also where the villages are.
 
 ## Key Behaviors
 
@@ -259,7 +259,7 @@ The hive is one animal with one will, the queen's, carried on scent. Scouts rang
 
 ## What the Villages Do
 
-The Okhárin honey-men rob a hive once a year, in the week after the first rains when the queen has moved deep into the comb and the guards are fewest, with smoke from green wood, nets of fine cord over face and hands, and ropes to come down the tree fast. They take a third of the comb and leave the rest, and a hive robbed harder than that moves. The honey and the wax go to the temple-cities, where the wax lights the shrines and the honey is the sweetening in everything the priests eat; a hive is wealth, and the village that holds a grove of them guards the grove. A sting is drawn with a knife-point at once and the wound packed with wet clay, and a man stung three times is carried home to die. A hive that has killed is burned at night, by men who have made their peace with the possibility of not coming back.
+The Okharin honey-men rob a hive once a year, in the week after the first rains when the queen has moved deep into the comb and the guards are fewest, with smoke from green wood, nets of fine cord over face and hands, and ropes to come down the tree fast. They take a third of the comb and leave the rest, and a hive robbed harder than that moves. The honey and the wax go to the temple-cities, where the wax lights the shrines and the honey is the sweetening in everything the priests eat; a hive is wealth, and the village that holds a grove of them guards the grove. A sting is drawn with a knife-point at once and the wound packed with wet clay, and a man stung three times is carried home to die. A hive that has killed is burned at night, by men who have made their peace with the possibility of not coming back.
 
 ## Signs
 

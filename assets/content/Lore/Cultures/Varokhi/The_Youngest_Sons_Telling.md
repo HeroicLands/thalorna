@@ -1,6 +1,6 @@
 ---
 shortcode: youngestson
-name: {full: The Youngest Son's Telling, aliases: [Óthlin vorth]}
+name: {full: The Youngest Son's Telling, aliases: [Othlin vorth]}
 type: lore
 subType: literature
 description: "The Skathwald hearth telling of a Vandholt household's feud-payment carried over the river ice by the youngest son and the household's southern woman, with a voice under the ice, a lynx with a thorn in its foot, a payment counted twice, and two endings."
@@ -21,7 +21,7 @@ data:
 # terran_analog: "The youngest-son wonder tale of the Grimm collection, with its three brothers, its grateful beast and its straight road and long one, set on the matter of Germanic wergild; the voice under the ice is the drowned who call from the water in Baltic and Finnic belief. Departs: the prize is a witnessed count, the beast is not a helper the tale explains, and the ending is told both ways."
 ---
 
-**The Youngest Son's Telling**, _Óthlin vorth_, is a _vorth_ of the [[place-skathwald|Skathwald]] households: hearth prose, told by the mistress of a house to its children on a night of _grema_, when the [[place-vrystwldrvrs|river]] is a road and the children are old enough to be sent across it. It is a wonder tale and a piece of law in one. A [[lore-varokhiclt|Varokh]] feud-cord is knotted, a payment is carried over the ice, a voice under the ice offers what nobody may ask, a [[lore-lynxttm|lynx]] lies in the track with a thorn in its foot, and the matter the tale turns on is the household's: who may carry, who may sell, and what a witnessed count is worth.
+**The Youngest Son's Telling**, _Othlin vorth_, is a _vorth_ of the [[place-skathwald|Skathwald]] households: hearth prose, told by the mistress of a house to its children on a night of _grema_, when the [[place-vrystwldrvrs|river]] is a road and the children are old enough to be sent across it. It is a wonder tale and a piece of law in one. A [[lore-varokhiclt|Varokh]] feud-cord is knotted, a payment is carried over the ice, a voice under the ice offers what nobody may ask, a [[lore-lynxttm|lynx]] lies in the track with a thorn in its foot, and the matter the tale turns on is the household's: who may carry, who may sell, and what a witnessed count is worth.
 
 The details are the teller's to change, and the telling marks its own variants as it goes. The version here is the one told at Vandholt, a [[lore-foxttm|fox]] village of Skathwald with an old feud of its own, and in the clearings around it. The landings downriver tell it to the same point and end it the other way, and the Skathwald telling reports the downriver ending in its last breath.
 
@@ -33,7 +33,7 @@ You have seen the river in _grema_. It goes white and quiet and the sleds go ove
 
 There was a household at Vandholt, in the years when the hall stood where the old hall stood, which is to say nobody knows when. The man of the household killed a man of the kindred across the water, at the landing, in autumn, over a word. The word is not in the telling. Some say it was about a boat and some say it was about a trapline, and either way the man was dead for it. The Other Chief heard the matter before the households. The Skathár of the far bank knotted the cord, one knot, for one man. The payment was reckoned aloud before witnesses: six sacks of grain of the big measure, to be carried over the ice in _grema_ when the river is a road, because grain was what the household had. The mistress of it had traded a whole winter's furs for that grain at the landing, meaning to eat it.
 
-Then before the ice came the man of the household died of a thing in the chest that no charm reached, and they buried him behind the hall with his axe. The household's southern woman, its [[lore-othmundrnk|Óthmund]], dug the ground, because the ground was hard and that is what she was for.
+Then before the ice came the man of the household died of a thing in the chest that no charm reached, and they buried him behind the hall with his axe. The household's southern woman, its [[lore-othmundrnk|Othmund]], dug the ground, because the ground was hard and that is what she was for.
 
 So the household that owed was a widow, and three sons, and the woman from the south, and six sacks of grain. The _frath_ was at the watches on the Grukar paths, where the men are in _grema_, and none of the three sons was of it yet. The eldest was near his name. The second was a winter behind him. The youngest was at the age where he carried water with the southern woman, because there was nobody else in the hall for him to carry it with.
 
@@ -51,7 +51,7 @@ He said he had crossed that river every winter of his life.
 
 He went straight. The straight way crosses the dark water, where the current runs under and the ice above it was a hand thick that morning. The ice over dark water is quiet. You do not hear it under you. He did not hear it, and then he heard it once. It held him. It did not hold the sledge. He went in to the chest with the sledge under him and the sacks going down past his knees, and he got out because the ice behind him held, and he got two sacks out wet by their necks, and the sledge and the other four went to the bottom. He came home short.
 
-He came home with two wet sacks and the skin of his face gone white where the water had been, and his mother put him by the _glóth_ and said nothing to him for three days, which was the whole of what she said about it.
+He came home with two wet sacks and the skin of his face gone white where the water had been, and his mother put him by the _gloth_ and said nothing to him for three days, which was the whole of what she said about it.
 
 Now say it with me, because you will say it twice more. He came home short.
 
@@ -81,7 +81,7 @@ The sister wanted her sledge back, and the thorns had cut its lashings anyway. S
 
 Six sacks of the big measure is a sledge-load. A strong man carries three on a frame. Nobody carries six.
 
-The mistress looked at what she had in the hall. She had an eldest son by the _glóth_ with his face coming off in strips, and a second son nobody was speaking to, and a youngest who had never crossed that river except behind her on a sled, and the southern woman.
+The mistress looked at what she had in the hall. She had an eldest son by the _gloth_ with his face coming off in strips, and a second son nobody was speaking to, and a youngest who had never crossed that river except behind her on a sled, and the southern woman.
 
 The southern woman cut the hole where the ice was thin and carried the water up the bank twice a morning, and in nine winters she had never once gone in, which was more than the eldest could say that week.
 
@@ -121,7 +121,7 @@ The river bends below Vandholt and narrows, and the ice there is black and you c
 
 It came up through the ice in his father's voice. It had his father's cough in it, the one from the autumn.
 
-"Óthlin," it said. That is what it called him, which is what his father had called him and what everyone calls a youngest, so it proves nothing either way. "I know what they mean to do with you on the far bank, when the grain is in their hands and the witnesses have gone in to the fire. Ask me, and I will tell you."
+"Othlin," it said. That is what it called him, which is what his father had called him and what everyone calls a youngest, so it proves nothing either way. "I know what they mean to do with you on the far bank, when the grain is in their hands and the witnesses have gone in to the fire. Ask me, and I will tell you."
 
 The youngest kept walking. He said, "I have three sacks on my back and I cannot put them down on this ice."
 
@@ -129,7 +129,7 @@ The youngest kept walking. He said, "I have three sacks on my back and I cannot 
 
 He walked. The ice knocked under him.
 
-"Óthlin," the voice said, in his father's voice with his father's cough in it, "I know the names of the men who will do it, and which hand each of them favors, and which of them will stand at the door. Ask me, and I will tell you."
+"Othlin," the voice said, in his father's voice with his father's cough in it, "I know the names of the men who will do it, and which hand each of them favors, and which of them will stand at the door. Ask me, and I will tell you."
 
 The youngest did not stop. But he turned his head, and the ice spoke under his heel when he turned it, one word, in its own tongue.
 
@@ -139,7 +139,7 @@ The woman said, from behind him, and she did not say it to him, "Your father is 
 
 He walked.
 
-"Óthlin," the voice said, and now it did not cough, "I know whether he is with the fox, or walking. Ask me."
+"Othlin," the voice said, and now it did not cough, "I know whether he is with the fox, or walking. Ask me."
 
 That is the one that stopped him.
 
@@ -147,7 +147,7 @@ The ice spoke under him when he stopped. The woman heard it; she had cut that ri
 
 "Nobody asks that," the youngest said. He said it to the ice, and he said it slowly. "The Weskár does not ask that, and the Weskár goes out to the dead. I carry water. I carry grain. I do not carry that." And he lifted one foot, the way you lift a foot off ice that has spoken, and put it down ahead of him, and the other, and the knocking under him went along the river away from him like a thing let go, and after that there was only the ice, which does not talk in words.
 
-Some say the voice was a _hrág_, that lives in dark water and wants nothing in the world but a person standing still on thin ice for as long as it takes. Some say it was the river, which talks in _grema_, and the boy had his father's cough in his own ears because he had listened to it all autumn, and the rest he put there himself. The grain went over either way.
+Some say the voice was a _hrag_, that lives in dark water and wants nothing in the world but a person standing still on thin ice for as long as it takes. Some say it was the river, which talks in _grema_, and the boy had his father's cough in his own ears because he had listened to it all autumn, and the rest he put there himself. The grain went over either way.
 
 The lynx went on down the river, and the river widened, and the black ice went white, and the knocking stopped. Below the narrows the river spreads out over stones. The Vandholt women call it **Vandhreth**, the exacting ford, for what it costs a boat in summer. In _grema_ it is the one place on that river that is frozen to its stones. There is no water under it to talk. The lynx walked out onto it on three feet and stopped in the middle and sat, and the two of them came past it with their frames and went over the ford to the far bank. When the youngest looked back from the far bank it was gone, and there were no tracks on the far side.
 
@@ -197,7 +197,7 @@ The youngest said, "She is not mine to sell."
 
 The mistress of the far bank laughed at that. Some say she laughed because the boy was a boy. Some say she laughed because she had got the answer she expected and had wanted to hear it said in front of her witnesses, so that there was no question later whose the woman was. Either way she gave them a place by the fire that night, which is owed to anyone who has paid, and in the morning she said to them at the door, "Go home by the ford. The straight way has a sledge in it."
 
-So they went home by the ford, and the lynx was not on it, and they came up the Vandholt bank at midday with empty frames. The eldest got up from the _glóth_ when they came in, with his face the way it was, and the second got up from where he sat, and the youngest told his mother the count, and the witnesses, and the knot, and the fire for the spring, and the price. Nobody in that hall said short. Nobody has said it in that hall since, and it is said at every other hearth on the river.
+So they went home by the ford, and the lynx was not on it, and they came up the Vandholt bank at midday with empty frames. The eldest got up from the _gloth_ when they came in, with his face the way it was, and the second got up from where he sat, and the youngest told his mother the count, and the witnesses, and the knot, and the fire for the spring, and the price. Nobody in that hall said short. Nobody has said it in that hall since, and it is said at every other hearth on the river.
 
 The woman told it shorter. "Six," she said. "Twice."
 
@@ -212,6 +212,6 @@ Downriver, at the landings, they tell it that the mistress took the sledge and t
 ## See Also
 
 - [[lore-varokhiclt|Varokhi]]—feud-cords, the witnessed payment, and the household mistress's authority
-- [[lore-othmundrnk|Óthmund]]—the standing of the household's southern woman, and how it ends
+- [[lore-othmundrnk|Othmund]]—the standing of the household's southern woman, and how it ends
 - [[place-skathwald|Skathwald]]—the reach the telling belongs to
-- [[place-vrystwldrvrs|Vrystwald Rivers]]—the rivers that are roads in deep winter
+- [[place-vrystwldrvrs|Vristwald Rivers]]—the rivers that are roads in deep winter

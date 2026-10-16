@@ -18,4 +18,4 @@ Set beside the archived record, a sheet that agrees word for word shows the proc
 
 - [[affiliation-tharivaan|Thári'vaan]]—the custodians, and the Seasonal Recitations
 - [[lore-klhrsnctrs|The Sanctuaries of Kalihara]]—which sanctuary tends which work
-- [[lore-itharisul|Ithári'sul]]—the works the procedures tend
+- [[lore-itharisul|Ithasul]]—the works the procedures tend

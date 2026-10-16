@@ -249,7 +249,7 @@ The gem-diggers' gallery opens into a cave whose walls are crusted with crystal,
 
 # Dossier {#dossier}
 
-The Crystalclaw is a dreadspawn of living crystal in the shape of a great cat: six to eight feet long, as heavy as a draft ox, with claws that cut stone and a body that stores light and throws it out again in blinding bursts. It hunts in gem-bearing caverns, and it hunts, as far as anyone can tell, for the pleasure of it. One holds the old diggings at the head of the gem-road in the valley of the [[place-chandrmahi|Chandramahī]], in [[place-chandrapurland|Chandrapur Land]], where the stones that make Chandrapur rich are cut out of the hills. Like every dreadspawn it was made, it is alive, and it does not breed; the gem-diggers say it was set in the hill to keep the stones, and that it has kept them better than any House has.
+The Crystalclaw is a dreadspawn of living crystal in the shape of a great cat: six to eight feet long, as heavy as a draft ox, with claws that cut stone and a body that stores light and throws it out again in blinding bursts. It hunts in gem-bearing caverns, and it hunts, as far as anyone can tell, for the pleasure of it. One holds the old diggings at the head of the gem-road in the valley of the [[place-chandrmahi|Chandramahi]], in [[place-chandrapurland|Chendrapur Land]], where the stones that make Chendrapur rich are cut out of the hills. Like every dreadspawn it was made, it is alive, and it does not breed; the gem-diggers say it was set in the hill to keep the stones, and that it has kept them better than any House has.
 
 ## Presentation
 
@@ -257,7 +257,7 @@ The crystalclaw is shaped like a lean, long-bodied cat, but every surface of it 
 
 ## In the Land
 
-The valley above Chandrapur is a valley of workshops, and the gem-road runs up it to the cutting-villages and the diggings in the hills. The crystalclaw holds a set of caverns and old diggings in those hills that are richer in stones than any other, and that no one has worked in living memory. It patrols them, and it comes out at times into the newer diggings on either side, especially by day, when the light through the shafts gives it strength. It does not leave the hills and has never come down to the river. The diggings beside its caverns are worked, at a price.
+The valley above Chendrapur is a valley of workshops, and the gem-road runs up it to the cutting-villages and the diggings in the hills. The crystalclaw holds a set of caverns and old diggings in those hills that are richer in stones than any other, and that no one has worked in living memory. It patrols them, and it comes out at times into the newer diggings on either side, especially by day, when the light through the shafts gives it strength. It does not leave the hills and has never come down to the river. The diggings beside its caverns are worked, at a price.
 
 ## Key Behaviors
 

@@ -1,9 +1,9 @@
 ---
 shortcode: nimaristabin
-name: {full: Nìmaris Tâbînidês, aliases: [Lady Nìmaris]}
+name: {full: Nimaris Tabinides, aliases: [Lady Nimaris]}
 type: being
 subType: npc
-description: A lady whose retinue Tàbîsa Mârinadês serves.
+description: A lady whose retinue Tabisa Marinades serves.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Nìmaris Tâbînidês is a 42-year-old woman who stands 5'8" tall with a heavy build. She has tanned skin, smooth complexion, dark brown hair, and hazel eyes.
+Nimaris Tabinides is a 42-year-old woman who stands 5'8" tall with a heavy build. She has tanned skin, smooth complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Nìmaris Tâbînidês is a lady whose retinue [[being-tabismrnds|Tàbîsa Mârinadês]] serves. Her household is Tàbîsa's primary patron.
+Nimaris Tabinides is a lady whose retinue [[being-tabismrnds|Tabisa Marinades]] serves. Her household is Tabisa's primary patron.

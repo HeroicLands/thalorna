@@ -3,14 +3,14 @@ shortcode: selatlinmut
 name: {full: The Selat of Linmut, aliases: []}
 type: affiliation
 subType: polity
-description: "A river-island fortress-selat at the second cataract; gateway and toll-gate—one of the border selatu of Aû'Khelâthu."
+description: "A river-island fortress-selat at the second cataract; gateway and toll-gate—one of the border selatu of Au'Khelathu."
 data:
   banner: khelathubnr
   templatePriority: null
   governance:
     model: monarchy
     summary: >-
-      A selat of the border selatu governed by a hereditary Halzi'a, who commands its levies, collects its taxes and dispenses its justice under the Gar-Aû's distant authority.
+      A selat of the border selatu governed by a hereditary Halzi'a, who commands its levies, collects its taxes and dispenses its justice under the Gar-Au's distant authority.
     ranks:
       - level: 0
         title: Outcast
@@ -21,49 +21,30 @@ data:
         description: >-
           Bound to an estate or a temple, owing labor on its fields and its works and holding nothing of his own.
       - level: 2
-        title: Farmer
+        title: Zelar
         description: >-
-          Working the floodplain under a lord or a temple, owing a share of the harvest and labor on the canals.
+          A commoner, the free rank of no house: farmer, artisan, merchant and scribe alike. A Zelar owes a share of the harvest, labor on the canals and tax on his work, and a talented child may enter the scribal schools, which are the empire's principal path upward.
       - level: 3
-        title: Artisan or Merchant
+        title: Zabu
         description: >-
-          Of the trades—potters, weavers, boatmen, traders—free of the fields and taxed on their work.
-      - level: 4
-        title: Scribe
-        description: >-
-          Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
-      - level: 5
-        title: Legha'lutu
-        description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
-      - level: 6
-        title: Halzi'a
-        description: >-
-          Halzi'a: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
-      - level: 7
-        title: Iru'palu
-        description: >-
-          Of the royal house and the most exalted families, the highest hereditary rank below the throne.
-      - level: 8
-        title: Gar-Aû
-        description: >-
-          The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
+          A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
-      Halzi'a: Halzi'a, governing a selat with armies, taxes and courts of his own.
-      Legha'lutu: Ruler of an estate—manor, fields and village—answerable to the Halzi'a.
-      Zabet'lutu: Mistress of an estate, holding the same authority in her own right.
-      Zabet: Lady of the court, whose standing comes from position rather than from land.
+      Halzi'a: >-
+        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+      Legha'lutu: >-
+        Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
+      Zabet'lutu: >-
+        Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
+      Zabet: >-
+        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
       Zemelu: >-
-        Companion of the Gar-Aû: a title of royal favor and access rather than territorial authority.
-      Thâz'Lekhau: >-
-        Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
-      Lem'Nelgir: >-
-        Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
-      Wazu: >-
-        Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
-      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
-      Halzi'a's Steward: Administrator of the selat's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
+        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
+      Halzi'a's Steward: >-
+        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
+      Canal-Warden: >-
+        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: linmut
   population: 200000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
@@ -76,21 +57,21 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Linmut** is a river-island fortress at the second cataract, and it is both the gateway to the south and its toll-gate. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the fortress and the levies, collects the toll along with the selat's other taxes, dispenses its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. His patron is [[affiliation-wethur|Weth'ûr]], [[affiliation-wethur|Lord of Silent Passage]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-linmutselat|Linmut Selat]].
+The **Selat of Linmut** is a river-island fortress at the second cataract, and it is both the gateway to the south and its toll-gate. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the fortress and the levies, collects the toll along with the selat's other taxes, dispenses its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. His patron is [[affiliation-wethur|Weth'ur]], [[affiliation-wethur|Lord of Silent Passage]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-linmutselat|Linmut Selat]].
 
 ## Character
 
-"You are all one thing at the second cataract: somebody going through," a toll-clerk tells a boatman new to the crossing. The fortress on its island commands the passage, and the toll is collected under its walls. Weth'ûr, who keeps the passage from life to death orderly, is an apt patron for a selat whose whole business is who may pass. The Halzi'a's seat is [[place-linmut|Linmut]], where his court sits and the selat's chief temple of Weth'ûr stands.
+"You are all one thing at the second cataract: somebody going through," a toll-clerk tells a boatman new to the crossing. The fortress on its island commands the passage, and the toll is collected under its walls. Weth'ur, who keeps the passage from life to death orderly, is an apt patron for a selat whose whole business is who may pass. The Halzi'a's seat is [[place-linmut|Linmut]], where his court sits and the selat's chief temple of Weth'ur stands.
 
 ## Commerce and Currency
 
-Linmut uses the [[lore-aukhlthcrncy|Aû'Khelâthu currency]]. Tolls on the frontier run on weighed silver and gold, and the [[affiliation-garhalzi|Gár-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
+Linmut uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. Tolls on the frontier run on weighed silver and gold, and the [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
 ## See Also
 
 - [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
 - [[place-linmut|Linmut]]—Selat capital
-- [[affiliation-wethur|Faith of Weth'ûr]]—Patron cult
-- [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
+- [[affiliation-wethur|Faith of Weth'ur]]—Patron cult
+- [[affiliation-garhalzi|Gar-Hálzi]]—Temple-treasuries
 - [[place-linmutselat|Linmut Selat]]—The land the selat holds

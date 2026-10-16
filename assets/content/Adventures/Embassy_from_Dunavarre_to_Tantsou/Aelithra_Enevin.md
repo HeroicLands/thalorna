@@ -19,8 +19,8 @@ data:
 
 # Dossier {#dossier}
 
-**Role.** Royal Loremaster of Élavendre and leader of the Plûmepistémion (the Academy of Knowledge). At the party given in Aran's honor at [[place-beravel|Péravel]] she proposes sending a party into the [[lore-aralwen|Arálwen]] to retrieve the [[miscgear-heartofdhirikri|Heart of Dhiríkri]], and the ambassador offers members of his mission.
+**Role.** Royal Loremaster of Élavendre and leader of the Epistémion (the Academy of Knowledge). At the party given in Aran's honor at [[place-beravel|Péravel]] she proposes sending a party into the [[lore-aralwen|Aralwen]] to retrieve the [[miscgear-heartofdhirikri|Heart of Dirikri]], and the ambassador offers members of his mission.
 
-**Background.** A Mistress of the [[affiliation-ordoarcanis|Thôrdimâlon]] and a wealthy commoner of Péravel. She holds a recently discovered ancient scroll that places the Heart in Úqua-Arálwen; the scroll is in poor condition and much of it cannot be read, but it implies that music or sound has something to do with the artifact.
+**Background.** A Mistress of the [[affiliation-ordoarcanis|Thordimalon]] and a wealthy commoner of Péravel. She holds a recently discovered ancient scroll that places the Heart in Úkua-Arálwen; the scroll is in poor condition and much of it cannot be read, but it implies that music or sound has something to do with the artifact.
 
 **Possessions.** She gives the party the Temporal Compass, an ornate enchanted device that glows when pointed in the safest direction, vibrates as it nears the Heart, and steadies time around its bearer so the party does not lose weeks or months in the zone.

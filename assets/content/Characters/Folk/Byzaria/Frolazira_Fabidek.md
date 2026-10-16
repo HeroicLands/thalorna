@@ -1,9 +1,9 @@
 ---
 shortcode: frolazirafab
-name: {full: Frolázira Fabídek, aliases: [Guild Master Frolázira Fabídek, Guild Master Frolázira]}
+name: {full: Frolázira Fabidek, aliases: [Guild Master Frolázira Fabidek, Guild Master Frolázira]}
 type: being
 subType: npc
-description: The current head of the Timberwrights' Guild, named in Morzáhr Xylákit.
+description: The current head of the Timberwrights' Guild, named in Morzáhr Zilakit.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Frolázira Fabídek is a 54-year-old woman who stands 5'9" tall with a heavy build. She has light skin, weathered complexion, dark brown hair, and hazel eyes.
+Frolázira Fabidek is a 54-year-old woman who stands 5'9" tall with a heavy build. She has light skin, weathered complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Frolázira Fabídek is the current head of the Timberwrights' Guild. The note on [[being-morzhrxylkt|Morzáhr Xylákit]] names her.
+Frolázira Fabidek is the current head of the Timberwrights' Guild. The note on [[being-morzhrxylkt|Morzáhr Zilakit]] names her.

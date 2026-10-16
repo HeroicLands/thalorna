@@ -1,9 +1,9 @@
 ---
 shortcode: zhevranelaak
-name: {full: Zhevrânéla Aktíkot, aliases: [Priestess Zhevrânéla Aktíkot]}
+name: {full: Zhevranela Aktikot, aliases: [Priestess Zhevranela Aktikot]}
 type: being
 subType: npc
-description: A priestess and healer who seeks Dôrashkâr Tredis's help in identifying what properties in his cooking are therapeutic.
+description: A priestess and healer who seeks Dorashkar Tredis's help in identifying what properties in his cooking are therapeutic.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zhevrânéla Aktíkot is a 41-year-old woman who stands 5'7" tall with a heavy build. She has light skin, smooth complexion, dark brown hair, and hazel eyes.
+Zhevranela Aktikot is a 41-year-old woman who stands 5'7" tall with a heavy build. She has light skin, smooth complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Zhevrânéla Aktíkot is a priestess and healer. During an outbreak of illness she seeks the help of [[being-drshkrplytms|Dôrashkâr Tredis]] in identifying which properties of his cooking are therapeutic.
+Zhevranela Aktikot is a priestess and healer. During an outbreak of illness she seeks the help of [[being-drshkrplytms|Dorashkar Tredis]] in identifying which properties of his cooking are therapeutic.

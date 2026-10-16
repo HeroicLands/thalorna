@@ -1,6 +1,6 @@
 ---
 shortcode: althyndeldskr
-name: {full: Althynda Eldskari, given: Althynda, clan: Eldskari, aliases: []}
+name: {full: Althinda Eldskari, given: Althinda, clan: Eldskari, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -412,9 +412,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[althyndeldskr|Althynda Eldskari]]{float=top-left}
+![[althyndeldskr|Althinda Eldskari]]{float=top-left}
 
-Althynda stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, and high cheeks.
+Althinda stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, and high cheeks.
 
 # Dossier {#dossier}
 
@@ -422,29 +422,29 @@ Althynda stands 5'3" tall with a light build. She has pale fair skin, dark brown
 
 ### The Artisan's Awakening
 
-Born in 691 to a modest family in [[place-vithgard|Vithgard]]'s timber country, Althynda grew up surrounded by the materials of her craft—wax was a natural product in her region, and her mother maintained a small chandlery as a supplementary trade. From childhood, Althynda displayed unusual sensitivity to aesthetics and an intuitive grasp of how light and color interact. While her family assumed she would follow traditional paths—perhaps marrying a tradesman or apprenticing in a standard craft—Althynda became increasingly obsessed with the artistic possibilities of chandlery. She spent her early twenties working in her mother's chandlery while secretly studying the finer points of perfumery, herbal infusion, and decorative wax sculpture.
+Born in 691 to a modest family in [[place-vithgard|Vithgard]]'s timber country, Althinda grew up surrounded by the materials of her craft—wax was a natural product in her region, and her mother maintained a small chandlery as a supplementary trade. From childhood, Althinda displayed unusual sensitivity to aesthetics and an intuitive grasp of how light and color interact. While her family assumed she would follow traditional paths—perhaps marrying a tradesman or apprenticing in a standard craft—Althinda became increasingly obsessed with the artistic possibilities of chandlery. She spent her early twenties working in her mother's chandlery while secretly studying the finer points of perfumery, herbal infusion, and decorative wax sculpture.
 
 ### The Venture into Independence
 
-Three years ago, following her mother's retirement, Althynda took control of the family chandlery and began transforming it from a simple functional workshop into something far more ambitious. She developed distinctive styles blending practical illumination with real artistic merit—candles with embedded botanical elements, subtle color gradations achieved through careful wax layering, and scents that complemented the spiritual purposes for which candles were purchased. Her work attracted notice from temple clergy, who began commissioning candles for significant religious observances. Local nobility discovered her creations, and her reputation began to grow.
+Three years ago, following her mother's retirement, Althinda took control of the family chandlery and began transforming it from a simple functional workshop into something far more ambitious. She developed distinctive styles blending practical illumination with real artistic merit—candles with embedded botanical elements, subtle color gradations achieved through careful wax layering, and scents that complemented the spiritual purposes for which candles were purchased. Her work attracted notice from temple clergy, who began commissioning candles for significant religious observances. Local nobility discovered her creations, and her reputation began to grow.
 
 ### The Current Struggle
 
-Yet artistic success has not translated to business success. Althynda struggles with the mundane yet crucial aspects of commerce—she underprices her work, uncertain of true value; she makes more than she can sell and wastes materials; she struggles to maintain relationships with suppliers and has difficulty collecting payment from clients. The arrival of more experienced, less scrupulous competitors has begun to threaten her modest footing in trade. She is at a crossroads between artistic achievement and a living, uncertain whether pursuing her craft in a way that honors her vision will let her workshop survive.
+Yet artistic success has not translated to business success. Althinda struggles with the mundane yet crucial aspects of commerce—she underprices her work, uncertain of true value; she makes more than she can sell and wastes materials; she struggles to maintain relationships with suppliers and has difficulty collecting payment from clients. The arrival of more experienced, less scrupulous competitors has begun to threaten her modest footing in trade. She is at a crossroads between artistic achievement and a living, uncertain whether pursuing her craft in a way that honors her vision will let her workshop survive.
 
 ## Psyche
 
 ### Personality
 
-Althynda is a woman of quiet artistry and occasional intensity, most fully alive when engaged in creative work. In solitude or in the presence of those who appreciate her craft, she becomes animated and eloquent, capable of discussing color theory and scent composition with passion. Yet in trade or company, she becomes withdrawn, uncertain, and awkwardly quiet. She is modest about her talent—the compliments her work receives seem to confuse her rather than gratify her—and she frequently attributes her success to luck rather than skill.
+Althinda is a woman of quiet artistry and occasional intensity, most fully alive when engaged in creative work. In solitude or in the presence of those who appreciate her craft, she becomes animated and eloquent, capable of discussing color theory and scent composition with passion. Yet in trade or company, she becomes withdrawn, uncertain, and awkwardly quiet. She is modest about her talent—the compliments her work receives seem to confuse her rather than gratify her—and she frequently attributes her success to luck rather than skill.
 
-Her spiritual commitment to Fródvin, god of fertility, growth, and natural abundance, is deeply felt; she approaches her work as a form of spiritual practice, creating candles as offerings to divine principle and aids to others' spiritual wellbeing as well as for light. This perspective, while beautiful, sometimes conflicts with the demands of trade; she has been known to refuse commissions that she feels would betray the sacred character of her work.
+Her spiritual commitment to Frodvin, god of fertility, growth, and natural abundance, is deeply felt; she approaches her work as a form of spiritual practice, creating candles as offerings to divine principle and aids to others' spiritual wellbeing as well as for light. This perspective, while beautiful, sometimes conflicts with the demands of trade; she has been known to refuse commissions that she feels would betray the sacred character of her work.
 
-Althynda is both courageous and fearful—willing to take substantial risks in her craft in pursuit of artistic vision, yet terrified of failure in trade and judgment from established authorities. She experiences real anxiety in company, particularly with those of higher social station or greater confidence, yet shows unusual boldness in defending artistic integrity. She forms attachments slowly but deeply, and those few people she allows into intimacy discover unusual warmth and loyalty.
+Althinda is both courageous and fearful—willing to take substantial risks in her craft in pursuit of artistic vision, yet terrified of failure in trade and judgment from established authorities. She experiences real anxiety in company, particularly with those of higher social station or greater confidence, yet shows unusual boldness in defending artistic integrity. She forms attachments slowly but deeply, and those few people she allows into intimacy discover unusual warmth and loyalty.
 
 ### Motivation
 
-Althynda is driven by a need to create beauty and to contribute to others' spiritual and practical wellbeing through her craft. She wants to prove that art and utility can coexist, that something can be both functional and beautiful, both saleable and spiritually true. She is also motivated by a desire to honor her mother's legacy by transforming a simple family trade into something of significance. Increasingly, she is driven by mounting anxiety—a fear that she will fail, lose everything, and be forced to concede that artistic ambition was a foolish indulgence. She is motivated too by a yearning for recognition, wanting those around her to see her as an artist of significance and vision rather than as a pleasant young woman keeping a modest craft.
+Althinda is driven by a need to create beauty and to contribute to others' spiritual and practical wellbeing through her craft. She wants to prove that art and utility can coexist, that something can be both functional and beautiful, both saleable and spiritually true. She is also motivated by a desire to honor her mother's legacy by transforming a simple family trade into something of significance. Increasingly, she is driven by mounting anxiety—a fear that she will fail, lose everything, and be forced to concede that artistic ambition was a foolish indulgence. She is motivated too by a yearning for recognition, wanting those around her to see her as an artist of significance and vision rather than as a pleasant young woman keeping a modest craft.
 
 ### Strengths
 
@@ -454,7 +454,7 @@ Althynda is driven by a need to create beauty and to contribute to others' spiri
 
 - **Botanical and Herbal Knowledge**: Understands plants, herbs, and aromatic compounds with real knowledge; she can harvest, prepare, and combine scents to create subtle blends that enhance both spirituality and function.
 
-- **Spiritual Authenticity**: Her commitment to Fródvin and to the sacred dimension of her work manifests in products that many report to have real spiritual power; her candles are particularly sought for religious observances and rituals.
+- **Spiritual Authenticity**: Her commitment to Frodvin and to the sacred dimension of her work manifests in products that many report to have real spiritual power; her candles are particularly sought for religious observances and rituals.
 
 - **Creative Problem-Solving**: When approached as artistic challenge rather than business problem, she demonstrates impressive ingenuity; she has developed novel techniques for wax layering, color saturation, and botanical embedding that are unique to her practice.
 
@@ -478,43 +478,43 @@ Althynda is driven by a need to create beauty and to contribute to others' spiri
 
 ### Patrons
 
-Priestess Sigrid
-: High priestess of Fródvin's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Althynda's work and has provided spiritual guidance alongside patronage.
+Priestess Skraldthira
+: High priestess of Frodvin's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Althinda's work and has provided spiritual guidance alongside patronage.
 
 Master Craftsman Vraldvir
 : A respected woodworker and fellow member of the artisan community who has become something of an informal adviser in trade; he provides practical guidance while respecting her artistic vision.
 
 The Widow Hvurnrinna
-: An elderly woman of considerable means who has adopted Althynda as something of a spiritual protégé; she has purchased candles regularly and has begun subtly promoting Althynda's work to her social circle.
+: An elderly woman of considerable means who has adopted Althinda as something of a spiritual protégé; she has purchased candles regularly and has begun subtly promoting Althinda's work to her social circle.
 
-Lord Hlirthmýl
-: A minor nobleman who discovered Althynda's candles and has begun commissioning elaborate custom orders; his patronage provides crucial steady custom and social standing.
+Lord Hlirthmil
+: A minor nobleman who discovered Althinda's candles and has begun commissioning elaborate custom orders; his patronage provides crucial steady custom and social standing.
 
 ### Enemies
 
 Master Chandler Draskorv
-: An established chandler of twenty years' standing who views Althynda's new methods and rising reputation as threatening to his business; he has begun undercutting her prices and spreading rumors about the quality of her work.
+: An established chandler of twenty years' standing who views Althinda's new methods and rising reputation as threatening to his business; he has begun undercutting her prices and spreading rumors about the quality of her work.
 
 The Guild of Established Crafts
-: The formal guild, while not directly opposed to Althynda, maintains standards and requirements that effectively exclude her; their members view her as an outsider and resist her attempts to join their organization.
+: The formal guild, while not directly opposed to Althinda, maintains standards and requirements that effectively exclude her; their members view her as an outsider and resist her attempts to join their organization.
 
-Merchant Aldred
-: A supplier and dealer who sees Althynda's inexperience as opportunity; he has deliberately sold her substandard materials at inflated prices and encourages her poor business decisions that benefit his interests.
+Merchant Dunred
+: A supplier and dealer who sees Althinda's inexperience as opportunity; he has deliberately sold her substandard materials at inflated prices and encourages her poor business decisions that benefit his interests.
 
 ### Affiliations
 
 The Artisan's Collective
-: An informal association of craftspeople—weavers, woodworkers, metalcrafters—who meet periodically to discuss craft, techniques, and challenges; Althynda is a recent and tentative member.
+: An informal association of craftspeople—weavers, woodworkers, metalcrafters—who meet periodically to discuss craft, techniques, and challenges; Althinda is a recent and tentative member.
 
-Fródvin's Grove
+Frodvin's Grove
 : A lay fellowship devoted to the god of fertility and growth; she participates in seasonal observances and maintains personal spiritual practice through this community.
 
 ## Plot Hooks
 
-1. **The Commission of Impossible Beauty**: A stranger arrives in the city offering an enormous commission—extraordinary compensation for a single, massive candle to be created according to highly specific (and unusual) requirements: specific herbs, specific color gradations, and specific symbolic elements that suggest esoteric knowledge. The stranger's appearance is peculiar, their questions oddly probing, and their manner of payment unusual. As Althynda works on the commission, she discovers that the specifications align with descriptions of ritual magic components. The stranger is increasingly secretive, the deadline increasingly urgent, and Althynda becomes convinced she is being commissioned to create something intended for magical purposes. The commission could provide financial security, but potentially at cost of spiritual integrity and possible danger.
+1. **The Commission of Impossible Beauty**: A stranger arrives in the city offering an enormous commission—extraordinary compensation for a single, massive candle to be created according to highly specific (and unusual) requirements: specific herbs, specific color gradations, and specific symbolic elements that suggest esoteric knowledge. The stranger's appearance is peculiar, their questions oddly probing, and their manner of payment unusual. As Althinda works on the commission, she discovers that the specifications align with descriptions of ritual magic components. The stranger is increasingly secretive, the deadline increasingly urgent, and Althinda becomes convinced she is being commissioned to create something intended for magical purposes. The commission could provide financial security, but potentially at cost of spiritual integrity and possible danger.
 
-2. **The Corrupted Craft**: Althynda begins to notice subtle symptoms in her work—finished candles that burn irregularly, colors that fail to match her intentions, scents that become malodorous without cause. Initially she attributes this to bad materials, but deeper investigation suggests something worse: someone may be deliberately sabotaging her materials or her process. She begins to suspect Merchant Aldred, her unscrupulous supplier, but investigation reveals the interference originates elsewhere—possibly from Master Chandler Draskorv, or even from someone within her own workshop. The sabotage threatens to destroy her reputation and her fragile business, and Althynda must discover the culprit and determine whether the motive is mere rivalry in trade or something darker.
+2. **The Corrupted Craft**: Althinda begins to notice subtle symptoms in her work—finished candles that burn irregularly, colors that fail to match her intentions, scents that become malodorous without cause. Initially she attributes this to bad materials, but deeper investigation suggests something worse: someone may be deliberately sabotaging her materials or her process. She begins to suspect Merchant Dunred, her unscrupulous supplier, but investigation reveals the interference originates elsewhere—possibly from Master Chandler Draskorv, or even from someone within her own workshop. The sabotage threatens to destroy her reputation and her fragile business, and Althinda must discover the culprit and determine whether the motive is mere rivalry in trade or something darker.
 
-3. **The Unexpected Inheritance**: An elderly distant relative whom Althynda has never met dies and inexplicably leaves her a substantial sum of money and a workshop facility in a different city. The inheritance comes with a condition: Althynda must travel to claim it and work the family workshop for a minimum of one year. The opportunity is too significant to refuse, yet it would require abandoning her established practice and spiritual community. When she arrives at the inherited workshop, she discovers it is in significantly worse condition than represented, comes with mysterious arrangements from the previous tenant that she must untangle, and is located in a trading town hostile to her artistic approach. The year-long commitment will show whether her art can thrive in different circumstances and whether she is ready to truly establish herself as a significant artisan rather than remaining a local craftsperson.
+3. **The Unexpected Inheritance**: An elderly distant relative whom Althinda has never met dies and inexplicably leaves her a substantial sum of money and a workshop facility in a different city. The inheritance comes with a condition: Althinda must travel to claim it and work the family workshop for a minimum of one year. The opportunity is too significant to refuse, yet it would require abandoning her established practice and spiritual community. When she arrives at the inherited workshop, she discovers it is in significantly worse condition than represented, comes with mysterious arrangements from the previous tenant that she must untangle, and is located in a trading town hostile to her artistic approach. The year-long commitment will show whether her art can thrive in different circumstances and whether she is ready to truly establish herself as a significant artisan rather than remaining a local craftsperson.
 
-4. **The Temple's Desperate Request**: Priestess Sigrid approaches Althynda with a confidential request: the temple's primary sanctuary has been struck by curse or malevolent magic, and candles and light sources consistently fail or burn incorrectly within it, disrupting religious services. Sigrid believes that Althynda's spiritually authentic candles might possess the capacity to counteract the curse, but creating such candles would require Althynda to develop new techniques, possibly study spiritual practices beyond her current knowledge, and work in collaboration with priestesses versed in theological magic. The project would be immensely prestigious and spiritually significant, but would also expose Althynda to forces and knowledge she does not fully understand, require her to work at the limits of her capacity, and potentially put her at risk if she becomes entangled in temple politics and spiritual conflicts.
+4. **The Temple's Desperate Request**: Priestess Skraldthira approaches Althinda with a confidential request: the temple's primary sanctuary has been struck by curse or malevolent magic, and candles and light sources consistently fail or burn incorrectly within it, disrupting religious services. Skraldthira believes that Althinda's spiritually authentic candles might possess the capacity to counteract the curse, but creating such candles would require Althinda to develop new techniques, possibly study spiritual practices beyond her current knowledge, and work in collaboration with priestesses versed in theological magic. The project would be immensely prestigious and spiritually significant, but would also expose Althinda to forces and knowledge she does not fully understand, require her to work at the limits of her capacity, and potentially put her at risk if she becomes entangled in temple politics and spiritual conflicts.

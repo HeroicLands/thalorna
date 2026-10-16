@@ -1,6 +1,6 @@
 ---
 shortcode: thefnutiltgr
-name: {full: Thefnutî Let'Gerau, given: Thefnutî, clan: Let'Gerau, aliases: []}
+name: {full: Thefnuti Let'Gerau, given: Thefnuti, clan: Let'Gerau, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]
-  affiliations: {empireakhlth: {rank: 3}, uznera: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, uznera: {rank: 1}}
   socialTies: {affiliation-tarmex: patron}
   gender: male
   species: humanflk
@@ -420,35 +420,35 @@ sohl:
     defaultCombatGroup: null
 ---
 
-**Home:** [[place-anlaghzetun|Anlagh-Zetûn]]
+**Home:** [[place-anlaghzetun|Anlagh-Zetun]]
 
 # Appearance {#appearance}
 
-![[thefnutiltgr|Thefnutî Let'Gerau]]{float=top-left}
+![[thefnutiltgr|Thefnuti Let'Gerau]]{float=top-left}
 
-Thefnutî stands 5'10" tall with a medium build. He has warm amber skin, grey hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
+Thefnuti stands 5'10" tall with a medium build. He has warm amber skin, grey hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
 
 # Dossier {#dossier}
 
-Thefnutî was born into a family of toymakers in the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Thefnutî's own father, Gakhoti, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
+Thefnuti was born into a family of toymakers in the Empire of [[affiliation-empireakhlth|Au'Khelathu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary ingenuity, work that established the family's reputation for invention and precision. Thefnuti's own father, Gakhoti, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
 
-From earliest childhood, Thefnutî was trained in the family traditions. Unlike some toymakers who view their work as frivolous entertainment, the Let'Gerau family understood that toys were miniature worlds—opportunities to teach mechanics, aesthetics, and imagination. Thefnutî exceeded even his father's capabilities, developing new techniques for creating clockwork mechanisms of breathtaking intricacy. By his thirties, his toys were so much in demand among wealthy families and collectors that his wait list extended years into the future.
+From earliest childhood, Thefnuti was trained in the family traditions. Unlike some toymakers who view their work as frivolous entertainment, the Let'Gerau family understood that toys were miniature worlds—opportunities to teach mechanics, aesthetics, and imagination. Thefnuti exceeded even his father's capabilities, developing new techniques for creating clockwork mechanisms of breathtaking intricacy. By his thirties, his toys were so much in demand among wealthy families and collectors that his wait list extended years into the future.
 
-However, beginning in his forties, Thefnutî became increasingly troubled by what he perceived as the cheapening of the craft. Simpler toys turned out in bulk began undercutting the market, and younger toymakers enthusiastically adopted new materials and methods that Thefnutî viewed as compromising quality. Rather than adapt, he doubled down on his traditional techniques and began work on increasingly elaborate creations that became less toys and more works of engineering art. This shift in focus—away from practical toys children could play with and toward elaborate mechanical sculptures meant for display—has simultaneously enhanced his prestige among collectors and left him increasingly isolated from the rest of the toymaking trade.
+However, beginning in his forties, Thefnuti became increasingly troubled by what he perceived as the cheapening of the craft. Simpler toys turned out in bulk began undercutting the market, and younger toymakers enthusiastically adopted new materials and methods that Thefnuti viewed as compromising quality. Rather than adapt, he doubled down on his traditional techniques and began work on increasingly elaborate creations that became less toys and more works of engineering art. This shift in focus—away from practical toys children could play with and toward elaborate mechanical sculptures meant for display—has simultaneously enhanced his prestige among collectors and left him increasingly isolated from the rest of the toymaking trade.
 
-Now at fifty-one, Thefnutî maintains a prestigious workshop in the capital, where he continues to produce extraordinary works. However, the constant pressure from younger craftsmen and the changing market has made him bitter and defensive about his methods.
+Now at fifty-one, Thefnuti maintains a prestigious workshop in the capital, where he continues to produce extraordinary works. However, the constant pressure from younger craftsmen and the changing market has made him bitter and defensive about his methods.
 
 ## Psyche
 
 ### Personality
 
-Thefnutî's character is full of contradictions. In matters of craftsmanship, he is confident to the point of arrogance—he knows his work is extraordinary and has no patience for criticism of his techniques. Yet in social situations, he becomes almost diffident, preferring the company of machines and mechanisms to people. He is capable of surprising warmth with those who show real respect for craftsmanship, but he is swift to become cold and dismissive toward those he judges as lacking proper appreciation.
+Thefnuti's character is full of contradictions. In matters of craftsmanship, he is confident to the point of arrogance—he knows his work is extraordinary and has no patience for criticism of his techniques. Yet in social situations, he becomes almost diffident, preferring the company of machines and mechanisms to people. He is capable of surprising warmth with those who show real respect for craftsmanship, but he is swift to become cold and dismissive toward those he judges as lacking proper appreciation.
 
 He can be philosophically whimsical, expounding at length about the nature of time, motion, and mechanical perfection, but these flights of fancy are often followed by sharp criticism of others' inadequate understanding. He takes real pleasure in the work itself—the careful fitting of gears, the testing of mechanisms—but increasingly displays impatience with clients, viewing most patrons as interruptions to his craft rather than reasons for it.
 
 ### Motivation
 
-Thefnutî's primary motivation is the creation of mechanical perfection—toys that function flawlessly, that are beautifully proportioned, and that will survive intact for generations. Underlying this is a fear: that in his absence, the techniques that took seven generations to develop will be lost to cheaper, faster, inferior methods. He works for commission and, beyond that, to build a legacy, creating works that will prove the superiority of traditional craftsmanship long after he is gone.
+Thefnuti's primary motivation is the creation of mechanical perfection—toys that function flawlessly, that are beautifully proportioned, and that will survive intact for generations. Underlying this is a fear: that in his absence, the techniques that took seven generations to develop will be lost to cheaper, faster, inferior methods. He works for commission and, beyond that, to build a legacy, creating works that will prove the superiority of traditional craftsmanship long after he is gone.
 
 ### Strengths
 
@@ -479,41 +479,41 @@ Thefnutî's primary motivation is the creation of mechanical perfection—toys t
 ### Patrons
 
 Lady [[being-uznerashkag2|Uzner Ashkagar]]
-: An elderly widow of great wealth and refined taste who has become Thefnutî's primary patron over the past decade. She commissions elaborate mechanical sculptures for her private collection and appreciates his perfectionism as an expression of respect for craft itself.
+: An elderly widow of great wealth and refined taste who has become Thefnuti's primary patron over the past decade. She commissions elaborate mechanical sculptures for her private collection and appreciates his perfectionism as an expression of respect for craft itself.
 
-Scholar-Collector [[being-kheladenthlt|Khelâden Itha'Letu]]
-: A historian and antiquarian who employs Thefnutî to create accurate mechanical reproductions of ancient devices based on historical records and archaeological findings. Their collaboration has produced some of Thefnutî's most celebrated works.
+Scholar-Collector [[being-kheladenthlt|Kheladen Itha'Letu]]
+: A historian and antiquarian who employs Thefnuti to create accurate mechanical reproductions of ancient devices based on historical records and archaeological findings. Their collaboration has produced some of Thefnuti's most celebrated works.
 
 [[affiliation-tarmex|the Imperial Treasury]]
-: Thefnutî has several standing commissions from the imperial court to create elaborate gifts for diplomatic purposes and state ceremonies. These are highly visible works that enhance his reputation significantly.
+: Thefnuti has several standing commissions from the imperial court to create elaborate gifts for diplomatic purposes and state ceremonies. These are highly visible works that enhance his reputation significantly.
 
 Merchant Prince Zassor the Learned
-: A collector of mechanical curiosities who maintains a private museum and commissions elaborate pieces specifically for display. Zassor pays handsomely and allows Thefnutî complete creative freedom, though he can be demanding about timelines.
+: A collector of mechanical curiosities who maintains a private museum and commissions elaborate pieces specifically for display. Zassor pays handsomely and allows Thefnuti complete creative freedom, though he can be demanding about timelines.
 
 ### Enemies
 
 Toymaker Mavrik the Innovator
-: A successful younger toymaker who has built wealth by turning out toys in bulk with newer materials that Thefnutî views as inferior. Mavrik has directly challenged Thefnutî's supremacy by advertising his toys as "superior because they are affordable" and has actively poached several of Thefnutî's potential clients. Mavrik sees Thefnutî as an arrogant relic and publicly questions whether his work is worth the extraordinary cost.
+: A successful younger toymaker who has built wealth by turning out toys in bulk with newer materials that Thefnuti views as inferior. Mavrik has directly challenged Thefnuti's supremacy by advertising his toys as "superior because they are affordable" and has actively poached several of Thefnuti's potential clients. Mavrik sees Thefnuti as an arrogant relic and publicly questions whether his work is worth the extraordinary cost.
 
 [[being-rethekuthght|Retheku Iuthi'Gehtiu]]
-: A bureaucrat who has begun examining Thefnutî's finances closely, questioning how commissions that should be financially ruinous result in Thefnutî's continued wealth. Retheku suspects hidden income or tax evasion and has become increasingly adversarial in his investigations.
+: A bureaucrat who has begun examining Thefnuti's finances closely, questioning how commissions that should be financially ruinous result in Thefnuti's continued wealth. Retheku suspects hidden income or tax evasion and has become increasingly adversarial in his investigations.
 
 ### Affiliations
 
-[[affiliation-linzaglkhlth|the Toymakers' Guild of Aû'Khelâthu]]
-: Thefnutî holds membership and retains significant prestige within the guild, though he frequently clashes with guild leadership over standards and methods. He serves on the guild's standards committee, where he advocates for stricter quality requirements.
+[[affiliation-linzaglkhlth|the Toymakers' Guild of Au'Khelathu]]
+: Thefnuti holds membership and retains significant prestige within the guild, though he frequently clashes with guild leadership over standards and methods. He serves on the guild's standards committee, where he advocates for stricter quality requirements.
 
 [[affiliation-garletgerau|the Gar-Let'Gerau]]
-: An informal family legacy and tradition spanning seven generations, of which Thefnutî is the current master. He has become increasingly protective of family techniques and secretive about his methods.
+: An informal family legacy and tradition spanning seven generations, of which Thefnuti is the current master. He has become increasingly protective of family techniques and secretive about his methods.
 
 ## Plot Hooks
 
-1. **The Rival's Theft**: Thefnutî discovers that his designs—exact reproductions of mechanisms and aesthetic approaches he developed—are being produced by Mavrik in bulk. Someone has stolen detailed plans or documented his work in sufficient detail that his unique approaches can be copied. Thefnutî must determine who is responsible, how extensive the theft is, and how to prove the designs are his under a law that gives craftsmen no such protection.
+1. **The Rival's Theft**: Thefnuti discovers that his designs—exact reproductions of mechanisms and aesthetic approaches he developed—are being produced by Mavrik in bulk. Someone has stolen detailed plans or documented his work in sufficient detail that his unique approaches can be copied. Thefnuti must determine who is responsible, how extensive the theft is, and how to prove the designs are his under a law that gives craftsmen no such protection.
 
-2. **The Mechanical Anomaly**: A patron brings Thefnutî a broken mechanical device—not his creation—from an ancient ruin, asking him to restore it. As he examines it, he becomes disturbed: the mechanisms are far too advanced for any known ancient civilization, and they use principles he doesn't fully understand. The patron warns him not to discuss the device with anyone, but Thefnutî becomes obsessed with understanding how it was created, potentially violating his patron's confidence to seek answers.
+2. **The Mechanical Anomaly**: A patron brings Thefnuti a broken mechanical device—not his creation—from an ancient ruin, asking him to restore it. As he examines it, he becomes disturbed: the mechanisms are far too advanced for any known ancient civilization, and they use principles he doesn't fully understand. The patron warns him not to discuss the device with anyone, but Thefnuti becomes obsessed with understanding how it was created, potentially violating his patron's confidence to seek answers.
 
-3. **The Apprentice Prodigy**: A young, brilliant craftsperson appears seeking apprenticeship with Thefnutî, demonstrating talent that exceeds anyone he's encountered in decades. However, Thefnutî quickly discovers the apprentice already possesses knowledge of advanced techniques—knowledge that should be impossible to acquire outside his family training. He must determine where this knowledge came from and whether accepting this apprentice will compromise seven generations of family secrets.
+3. **The Apprentice Prodigy**: A young, brilliant craftsperson appears seeking apprenticeship with Thefnuti, demonstrating talent that exceeds anyone he's encountered in decades. However, Thefnuti quickly discovers the apprentice already possesses knowledge of advanced techniques—knowledge that should be impossible to acquire outside his family training. He must determine where this knowledge came from and whether accepting this apprentice will compromise seven generations of family secrets.
 
-4. **The Cursed Commission**: A mysterious patron commissions an extraordinarily elaborate mechanical sculpture with very specific requirements that Thefnutî finds aesthetically unsatisfying but technically compelling. As he works, strange things begin occurring—pieces fit together incorrectly, mechanisms behave unpredictably, and workers in his shop report disturbing dreams. Thefnutî begins to suspect he is being asked to craft something impossible or actively harmful, but the patron has paid a substantial deposit and has significant leverage over him.
+4. **The Cursed Commission**: A mysterious patron commissions an extraordinarily elaborate mechanical sculpture with very specific requirements that Thefnuti finds aesthetically unsatisfying but technically compelling. As he works, strange things begin occurring—pieces fit together incorrectly, mechanisms behave unpredictably, and workers in his shop report disturbing dreams. Thefnuti begins to suspect he is being asked to craft something impossible or actively harmful, but the patron has paid a substantial deposit and has significant leverage over him.
 
-5. **The Imperial Inspection Crisis**: The imperial Treasury announces that Thefnutî's extraordinary mechanical gifts to the court will be examined and evaluated by foreign experts to potentially commission reproductions for diplomatic purposes. This threatens to expose Thefnutî's techniques to scrutiny and potential copying. Simultaneously, he receives a private message from the inspector claiming to possess documentary evidence of "unauthorized" imperial work—works he created but which cannot be publicly acknowledged. Someone is attempting to coerce him into cooperation through blackmail.
+5. **The Imperial Inspection Crisis**: The imperial Treasury announces that Thefnuti's extraordinary mechanical gifts to the court will be examined and evaluated by foreign experts to potentially commission reproductions for diplomatic purposes. This threatens to expose Thefnuti's techniques to scrutiny and potential copying. Simultaneously, he receives a private message from the inspector claiming to possess documentary evidence of "unauthorized" imperial work—works he created but which cannot be publicly acknowledged. Someone is attempting to coerce him into cooperation through blackmail.

@@ -1,6 +1,6 @@
 ---
 shortcode: ryldnbrnwyld
-name: {full: Rildèn Branvìlde, aliases: []}
+name: {full: Rilden Branvilde, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Rildèn Branvìlde is a 56-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a narrow forehead, and a narrow jaw that leads to a strong chin. His hooded hazel eyes sit beneath expressive brows, lending him a guarded gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a lined with age complexion. His gray hair is shoulder-length and loose.
+Rilden Branvilde is a 56-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a narrow forehead, and a narrow jaw that leads to a strong chin. His hooded hazel eyes sit beneath expressive brows, lending him a guarded gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a lined with age complexion. His gray hair is shoulder-length and loose.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzian heritage, Rildèn Branvìlde came into the world of the chieftain through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a noble family of Provenzian heritage, Rilden Branvilde came into the world of the chieftain through a combination of circumstance and aptitude.
 
-Rildèn is the chieftain of a powerful tribal clan known for their warriors and hunters. He earned his place as leader through both his strength in battle and his cunning in negotiation. Rildèn is respected by his people, but his harsh and uncompromising ways have also made him feared. He is always looking out for threats to his position, both from rival clans and ambitious members of his own tribe.
+Rilden is the chieftain of a powerful tribal clan known for their warriors and hunters. He earned his place as leader through both his strength in battle and his cunning in negotiation. Rilden is respected by his people, but his harsh and uncompromising ways have also made him feared. He is always looking out for threats to his position, both from rival clans and ambitious members of his own tribe.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Paranoid and slow to trust others, especially outsiders.
 
 ### Motivation
 
-Rildèn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in chieftain work keep him vigilant and adaptable.
+Rilden is driven by the desire to master his craft and secure a stable future. The uncertainties of life in chieftain work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -416,15 +416,15 @@ Skilled warrior, experienced leader, strong in negotiation and tactics.
 
 ## Social
 
-Rildèn is affiliated with Tribal Council.
+Rilden is affiliated with Tribal Council.
 
-As a Provenzian chieftain, Rildèn occupies a recognized social niche within Provènzia society.
+As a Provenzian chieftain, Rilden occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Rildèn's primary patron is Tribal elders who support his rule. This relationship provides both opportunity and obligation.
+Rilden's primary patron is Tribal elders who support his rule. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -432,12 +432,12 @@ Rival chieftains who wish to take his territory.
 
 ## Plot Hooks
 
-1. **The Chieftain's Dilemma**—Rildèn faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
+1. **The Chieftain's Dilemma**—Rilden faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provenzia.
 
 2. **Old Grudges**—Rival chieftains who wish to take his territory. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Rildèn's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Rilden's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Rildèn depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Rilden depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Rildèn the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Rilden the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

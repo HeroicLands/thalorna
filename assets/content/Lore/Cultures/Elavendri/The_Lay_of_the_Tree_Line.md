@@ -3,7 +3,7 @@ shortcode: treelinelay
 name: {full: The Lay of the Tree Line, aliases: [The Crowning Lay]}
 type: lore
 subType: literature
-description: "The Bardic Circle's lay of Táldoren, the First Crowned, sung to the harp at every crowning before the monarch swears: the bread sent down from Ésalosa, the white hart in the wood, the page with its foot left blank, and the oath said at T'éna's fire."
+description: "The Bardic Circle's lay of Táldoren, the First Crowned, sung to the harp at every crowning before the monarch swears: the bread sent down from Ésalosa, the white hart in the wood, the page with its foot left blank, and the oath said at Tena's fire."
 tags: [draft, elavendri]
 data:
   culture: elavendriclt
@@ -30,7 +30,7 @@ The Circle does not settle whose the hart was. The Tradition Keepers say that th
 : The Lay of the Tree Line {#lay}
 
 ```poetry {form=lay meter="iambic tetrameter" rhyme=AABB lang=en}
-Lúsinía, who spins the line
+Lusinia, who spins the line
 of every house, and spun out mine,
 sit by the harp. And you who wait
 bareheaded, here, inside the gate:
@@ -43,7 +43,7 @@ bareheaded, as you stand. That's all
 the crown asks first. The rest is long.
 It waits on this. Now hear the song.
 
-The Bérav runs, as it runs now,
+The Berav runs, as it runs now,
 wide through the basin. Field and plough,
 and barge and quay, and squared grey stone
 were there, and houses with their own
@@ -59,11 +59,11 @@ was barge and furrow, weight and scale.
 The high tongue's clicks were gone. The tale
 was all they kept of it. And then
 the houses met, the river's men,
-at the Bérav's ford, and they said,
+at the Berav's ford, and they said,
 "We'll have a king." And they were led,
 as the basin always is, by long
 debate, and courtesy, and song,
-to Táldoren of Oréthan.
+to Táldoren of Orethan.
 Three years the rain came wrong, and ran
 the harvest into mud, and men
 kept granaries barred. His house, then,
@@ -206,7 +206,7 @@ of the high valley, long and old,
 oak, stone and moss. And in its hall
 the first fire burns, that's not at all
 gone out since it was lit. They name
-it T'éna, and the Hearth. The same
+it Tena, and the Hearth. The same
 fire keeps what's sworn there, and keeps hold
 of oaths that break. And it is told
 that no blade passes it. None passed.
@@ -303,5 +303,5 @@ It stops where the first king came down.
 ## See Also
 
 - [[lore-firstcrown|The First Crowning of Élavendre]] · [[affiliation-kngdmlvndr|Kingdom of Élavendre]] · [[place-beravel|Péravel]]
-- [[place-eshalshldg|Ésalosa Lodge]] · [[lore-tenaspr|T'éna, the Hearth of Ésalosa]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
+- [[place-eshalshldg|Ésalosa Lodge]] · [[lore-tenaspr|Tena, the Hearth of Ésalosa]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[lore-elavendriclt|Élavendri]] · [[lore-theasking|The Asking]]

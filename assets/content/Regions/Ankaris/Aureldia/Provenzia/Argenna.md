@@ -3,14 +3,14 @@ shortcode: argenna
 name: {full: Argenna, aliases: [Oracular Sanctuary at Argenna]}
 type: place
 subType: site
-description: "The Oracular Sanctuary of Zûnêlâs in Provènzia, whose dream-omens draw pilgrims from across the continent."
+description: "The Oracular Sanctuary of Zunelas in Provenzia, whose dream-omens draw pilgrims from across the continent."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [provenzrgn], population: 0, packFolder: provenzia}
 ---
 
 ## Overview
 
-Argenna is the site of **the Oracular Sanctuary at Argenna**, a shrine of [[affiliation-zunelas|Zûnêlâs]] in Provènzia whose omens are renowned across kingdoms. Pilgrims come to it from across the continent because they trust that the dreams received there come from the goddess herself.
+Argenna is the site of **the Oracular Sanctuary at Argenna**, a shrine of [[affiliation-zunelas|Zunelas]] in Provenzia whose omens are renowned across kingdoms. Pilgrims come to it from across the continent because they trust that the dreams received there come from the goddess herself.
 
 ## Sleeping at the Sanctuary
 
@@ -18,5 +18,5 @@ A priestess explains the practice to newcomers before anything else: you come to
 
 ## See Also
 
-- [[affiliation-zunelas|Faith of Zûnêlâs]]—the faith that keeps the sanctuary
-- [[place-provenzrgn|Provènzia Region]]—the kingdom it stands in
+- [[affiliation-zunelas|Faith of Zunelas]]—the faith that keeps the sanctuary
+- [[place-provenzrgn|Provenzia Region]]—the kingdom it stands in

@@ -1,6 +1,6 @@
 ---
 shortcode: rethutrthllr
-name: {full: Rethutê Reth'el'Lêru, given: Rethutê, clan: Reth'el'Lêru, aliases: []}
+name: {full: Rethute Reth'el'Leru, given: Rethute, clan: Reth'el'Leru, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {rank: 3}, qearet: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, qearet: {rank: 1}}
   socialTies:
     affiliation-lingeznglzkr: rival
     affiliation-linrethglzkr: patron
@@ -431,39 +431,39 @@ sohl:
 
 # Appearance {#appearance}
 
-![[rethutrthllr|Rethutê Reth'el'Lêru]]{float=top-left}
+![[rethutrthllr|Rethute Reth'el'Leru]]{float=top-left}
 
-Rethutê stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, and angular cheeks.
+Rethute stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, and angular cheeks.
 
 # Dossier {#dossier}
 
 **From Humble Hearth to the Reenfré**
 
-[[being-rethutrthllr|Rethutê]] was born the daughter of a cook in the grand house of a noble family of the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]], learning her culinary arts at her mother's side in vast kitchens where she prepared food for dozens. However, rather than spending her life in service to a single household, she dreamed of something greater: a place where people of all stations could gather, where fine food and drink would flow freely, where stories would be exchanged and friendships forged. At twenty-three, using money saved across years of careful management and loans from supportive patrons of her cooking, she purchased a ramshackle building near the harbor and converted it into the Reenfré, an establishment that would become famous across the empire.
+[[being-rethutrthllr|Rethute]] was born the daughter of a cook in the grand house of a noble family of the Empire of [[affiliation-empireakhlth|Au'Khelathu]], learning her culinary arts at her mother's side in vast kitchens where she prepared food for dozens. However, rather than spending her life in service to a single household, she dreamed of something greater: a place where people of all stations could gather, where fine food and drink would flow freely, where stories would be exchanged and friendships forged. At twenty-three, using money saved across years of careful management and loans from supportive patrons of her cooking, she purchased a ramshackle building near the harbor and converted it into the Reenfré, an establishment that would become famous across the empire.
 
 **The Making of Legend**
 
-Over three decades, Rethutê transformed her modest inn into one of the city's most beloved establishments. Her culinary skill is true artistry—she can take simple ingredients and transform them into dishes that people travel miles to experience, and she maintains an extensive wine and ale collection that rivals noble houses. Beyond the food and drink, she created an atmosphere where adventurers, merchants, scholars, and common folk could mingle without pretense. She remembers the names and histories of hundreds of guests, asks about their families and fortunes, and has a gift for introducing people who need to meet each other. Tales of matches made at her tables, business deals struck, and adventures planned in her common room form a vast oral history that she treasures.
+Over three decades, Rethute transformed her modest inn into one of the city's most beloved establishments. Her culinary skill is true artistry—she can take simple ingredients and transform them into dishes that people travel miles to experience, and she maintains an extensive wine and ale collection that rivals noble houses. Beyond the food and drink, she created an atmosphere where adventurers, merchants, scholars, and common folk could mingle without pretense. She remembers the names and histories of hundreds of guests, asks about their families and fortunes, and has a gift for introducing people who need to meet each other. Tales of matches made at her tables, business deals struck, and adventures planned in her common room form a vast oral history that she treasures.
 
 **Current Authority**
 
-Now in her early sixties (though she claims fifty), Rethutê reigns over the Reenfré with benevolent authority. Her establishment has expanded over the years, with private rooms for important guests, a kitchen that produces both everyday fare and culinary masterworks, and accommodations ranging from simple rooms for traveling merchants to more luxurious suites. She serves on the Local Innkeepers' Association and uses that position to advocate for the interests of hospitality workers and small proprietors. She has become the keeper of the city's stories—she knows the histories, scandals, secrets, and victories of hundreds of people, and this knowledge makes her a subtle but significant power broker. Yet for all her influence and success, she remains connected to the work of the inn, personally cooking many of its most important meals and greeting regular patrons with authentic warmth.
+Now in her early sixties (though she claims fifty), Rethute reigns over the Reenfré with benevolent authority. Her establishment has expanded over the years, with private rooms for important guests, a kitchen that produces both everyday fare and culinary masterworks, and accommodations ranging from simple rooms for traveling merchants to more luxurious suites. She serves on the Local Innkeepers' Association and uses that position to advocate for the interests of hospitality workers and small proprietors. She has become the keeper of the city's stories—she knows the histories, scandals, secrets, and victories of hundreds of people, and this knowledge makes her a subtle but significant power broker. Yet for all her influence and success, she remains connected to the work of the inn, personally cooking many of its most important meals and greeting regular patrons with authentic warmth.
 
 ## Psyche
 
 ### Personality
 
-Rethutê is boisterous and vivacious, with a laugh that can be heard across the common room and a tendency to express herself in dramatic gestures and colorful language. She is a natural storyteller who can transfix an audience with tales of notable guests, historical events, or her own adventurous past (the extent to which her stories embellish reality is a matter of good-natured debate). She treats most people with warmth but is not naive; she can size up a person's character quickly and will refuse service to those she deems dangerous or disreputable.
+Rethute is boisterous and vivacious, with a laugh that can be heard across the common room and a tendency to express herself in dramatic gestures and colorful language. She is a natural storyteller who can transfix an audience with tales of notable guests, historical events, or her own adventurous past (the extent to which her stories embellish reality is a matter of good-natured debate). She treats most people with warmth but is not naive; she can size up a person's character quickly and will refuse service to those she deems dangerous or disreputable.
 
 With the boisterousness goes a sharp mind for business, a deep understanding of human nature, and a commitment to the welfare of her staff and regular patrons. She can be maternal in her concern for those she feels responsible for, though she expresses this through practical help and honest counsel rather than sentimentality. She has strong opinions and expresses them freely, though she is secure enough in herself that disagreement doesn't threaten her. She is fiercely proud of her inn and its reputation, and she takes personally any attack on its quality or standing.
 
 ### Motivation
 
-Rethutê is motivated by her vision of her inn as a sanctuary—a place where people can find honest food, warm hospitality, and the freedom to be themselves without pretense or judgment. She continues working long past the age when she could have retired, because the Reenfré has become more than a business to her; it is a vocation and an expression of her values. She is driven by a desire to create and maintain a space where community happens naturally, where the lonely can find connection and the weary can find rest. She takes pride in the success of her patrons—when adventurers who planned their journeys at her tables return with stories of triumph, or when business partnerships made at her tables flourish, she feels that her inn has fulfilled its purpose. She also maintains a commitment to paying her staff fairly and treating them with respect, viewing the Reenfré as much as an experiment in creating a just workplace as in providing hospitality.
+Rethute is motivated by her vision of her inn as a sanctuary—a place where people can find honest food, warm hospitality, and the freedom to be themselves without pretense or judgment. She continues working long past the age when she could have retired, because the Reenfré has become more than a business to her; it is a vocation and an expression of her values. She is driven by a desire to create and maintain a space where community happens naturally, where the lonely can find connection and the weary can find rest. She takes pride in the success of her patrons—when adventurers who planned their journeys at her tables return with stories of triumph, or when business partnerships made at her tables flourish, she feels that her inn has fulfilled its purpose. She also maintains a commitment to paying her staff fairly and treating them with respect, viewing the Reenfré as much as an experiment in creating a just workplace as in providing hospitality.
 
 ### Strengths
 
-- **Culinary Mastery:** Rethutê is an artist with food and drink; her creations are among the finest in the empire, and her knowledge of cuisines, ingredients, and flavor combinations is extensive and refined. She has trained numerous cooks who now run their own establishments.
+- **Culinary Mastery:** Rethute is an artist with food and drink; her creations are among the finest in the empire, and her knowledge of cuisines, ingredients, and flavor combinations is extensive and refined. She has trained numerous cooks who now run their own establishments.
 - **Memory for People:** She remembers the names, histories, families, and preferences of hundreds of patrons; this gift makes guests feel valued and gives her a rare ability to bring people together.
 - **Management of Complex Operations:** Despite her reputation for being less detail-oriented, she runs her inn well; she understands stores, staffing, accounts, and standards well enough to maintain a thriving business across decades.
 - **Warmth and Charisma:** Her capacity to make people feel welcome and valued is authentic rather than performed; she has a gift for creating atmosphere and comfort that goes beyond mere hospitality.
@@ -488,44 +488,44 @@ Captain [[being-ahmetegazek2|Ahmetega Zekar]]
 : A decorated naval officer who frequently stays at the Reenfré and uses her common room for important meetings. He values her discretion and her ability to keep conversations private.
 
 Master Merchant Letmiya
-: The head of a major trading concern who has relied on Rethutê's recommendations for finding trustworthy business associates and reliable travel partners. Their relationship has made both of them substantial profits.
+: The head of a major trading concern who has relied on Rethute's recommendations for finding trustworthy business associates and reliable travel partners. Their relationship has made both of them substantial profits.
 
 [[affiliation-linrethglzkr|Lin'Rethu elu Galezkara]]
-: A group of learned individuals who hold regular meetings at the Reenfré and have come to depend on Rethutê's ability to provide excellent meals on their schedule and maintain privacy for their discussions.
+: A group of learned individuals who hold regular meetings at the Reenfré and have come to depend on Rethute's ability to provide excellent meals on their schedule and maintain privacy for their discussions.
 
 Various Adventuring Companies
-: Numerous groups of adventurers have made the Reenfré their base of operations between expeditions, and they maintain loyalty to Rethutê across the years.
+: Numerous groups of adventurers have made the Reenfré their base of operations between expeditions, and they maintain loyalty to Rethute across the years.
 
 ### Enemies
 
 Vex the Competitor
-: The proprietor of a rival establishment who views Rethutê's success with jealousy and has begun spreading rumors about food quality and sanitation at the Reenfré. The conflict is more trade rivalry than true enmity, but it is real enough.
+: The proprietor of a rival establishment who views Rethute's success with jealousy and has begun spreading rumors about food quality and sanitation at the Reenfré. The conflict is more trade rivalry than true enmity, but it is real enough.
 
 City Magistrate Tomás
-: An official who attempted to impose onerous new regulations on innkeepers, which Rethutê organized opposition against. He views her advocacy as insubordination and has looked for ways to harass or fine her establishment.
+: An official who attempted to impose onerous new regulations on innkeepers, which Rethute organized opposition against. He views her advocacy as insubordination and has looked for ways to harass or fine her establishment.
 
 [[affiliation-lingeznglzkr|Lin'Gezan elu Galezkara]]
-: A disreputable organization that Rethutê has refused to pay protection fees to, insisting that her inn exists under the city's legitimate jurisdiction. They view her as a target and an example, though direct action against her is risky given her popularity.
+: A disreputable organization that Rethute has refused to pay protection fees to, insisting that her inn exists under the city's legitimate jurisdiction. They view her as a target and an example, though direct action against her is risky given her popularity.
 
 ### Affiliations
 
 Local Innkeepers' Association
-: Rethutê is an active member and advocate for innkeeper interests, though her focus on fair labor practices and customer treatment sometimes puts her at odds with more profit-focused proprietors.
+: Rethute is an active member and advocate for innkeeper interests, though her focus on fair labor practices and customer treatment sometimes puts her at odds with more profit-focused proprietors.
 
 The Harbor Community
-: As someone located near the docks, Rethutê maintains connections with merchants, sailors, and port workers; she is considered part of the harbor community and is trusted by its members.
+: As someone located near the docks, Rethute maintains connections with merchants, sailors, and port workers; she is considered part of the harbor community and is trusted by its members.
 
 [[affiliation-linrethglzkr|Lin'Rethu elu Galezkara]]
-: While not formally a member, Rethutê has close ties to this intellectual group and allows them preferential access to her private spaces.
+: While not formally a member, Rethute has close ties to this intellectual group and allows them preferential access to her private spaces.
 
 ## Plot Hooks
 
-1. **The Mysterious Inheritance:** A wealthy patron whom Rethutê knew casually decades ago arrives at her inn and announces that she has been named in his will as the inheritor of a substantial estate and fortune. The catch: the estate is located far from the city, in a region she has never visited, and accepting it would require her to leave the Reenfré for an extended period or permanently. The patron's family also contests the will, suggesting that Rethutê somehow manipulated him. The party becomes involved in traveling to the estate to investigate the situation, potentially defending Rethutê's character while discovering what the deceased patron's true intentions were.
+1. **The Mysterious Inheritance:** A wealthy patron whom Rethute knew casually decades ago arrives at her inn and announces that she has been named in his will as the inheritor of a substantial estate and fortune. The catch: the estate is located far from the city, in a region she has never visited, and accepting it would require her to leave the Reenfré for an extended period or permanently. The patron's family also contests the will, suggesting that Rethute somehow manipulated him. The party becomes involved in traveling to the estate to investigate the situation, potentially defending Rethute's character while discovering what the deceased patron's true intentions were.
 
-2. **The Missing Supplier Crisis:** Several of Rethutê's key suppliers—a grain merchant, a fisherman, a vintner—suddenly disappear or become unavailable, causing her ability to maintain the Reenfré's quality and reputation to suffer. Investigation suggests they have been pressured or threatened to cease dealing with the Reenfré as part of a coordinated effort to undermine her business. The party is hired to discover who is orchestrating this campaign and to either convince the suppliers to return or find replacements that meet Rethutê's standards.
+2. **The Missing Supplier Crisis:** Several of Rethute's key suppliers—a grain merchant, a fisherman, a vintner—suddenly disappear or become unavailable, causing her ability to maintain the Reenfré's quality and reputation to suffer. Investigation suggests they have been pressured or threatened to cease dealing with the Reenfré as part of a coordinated effort to undermine her business. The party is hired to discover who is orchestrating this campaign and to either convince the suppliers to return or find replacements that meet Rethute's standards.
 
-3. **The Trouble the Reenfré Brings:** A dangerous criminal organization uses the Reenfré as a neutral meeting ground for negotiations, assuming Rethutê's reputation for discretion means she will not interfere with their business. When the party discovers this, they pressure Rethutê to deny the criminals access or to inform the authorities about their meetings. Rethutê is torn between her loyalty to her inn's openness and her moral obligation to prevent crime, and she involves the party in a delicate situation where she must balance community values with justice.
+3. **The Trouble the Reenfré Brings:** A dangerous criminal organization uses the Reenfré as a neutral meeting ground for negotiations, assuming Rethute's reputation for discretion means she will not interfere with their business. When the party discovers this, they pressure Rethute to deny the criminals access or to inform the authorities about their meetings. Rethute is torn between her loyalty to her inn's openness and her moral obligation to prevent crime, and she involves the party in a delicate situation where she must balance community values with justice.
 
-4. **The Recipe Worth Killing For:** A mysterious visitor approaches Rethutê with an extraordinary claim: one of her signature dishes—a particular seafood preparation or spiced wine blend—is actually based on a recipe stolen centuries ago from a noble house, and that house's descendants are now demanding she surrender the recipe and compensation. Alternatively, the recipe is based on ingredients or knowledge that are forbidden by religious or legal authorities, and the mysterious visitor is a representative of that authority. Rethutê weighs whether the recipe is worth legal trouble, and the party becomes involved in either defending her right to use the recipe or discovering whether there is actual foundation to the claim.
+4. **The Recipe Worth Killing For:** A mysterious visitor approaches Rethute with an extraordinary claim: one of her signature dishes—a particular seafood preparation or spiced wine blend—is actually based on a recipe stolen centuries ago from a noble house, and that house's descendants are now demanding she surrender the recipe and compensation. Alternatively, the recipe is based on ingredients or knowledge that are forbidden by religious or legal authorities, and the mysterious visitor is a representative of that authority. Rethute weighs whether the recipe is worth legal trouble, and the party becomes involved in either defending her right to use the recipe or discovering whether there is actual foundation to the claim.
 
-5. **The Legacy Moment:** After decades of running the Reenfré, Rethutê is presented with an opportunity to sell her establishment to a larger hospitality organization that would offer her substantial wealth and retirement but would fundamentally change the character of her inn. Simultaneously, a promising staff member expresses interest in taking over the business and continuing it according to Rethutê's values, but lacks the capital to buy it. The party becomes involved in helping Rethutê through what amounts to a decision about her legacy and the future of a beloved community institution.
+5. **The Legacy Moment:** After decades of running the Reenfré, Rethute is presented with an opportunity to sell her establishment to a larger hospitality organization that would offer her substantial wealth and retirement but would fundamentally change the character of her inn. Simultaneously, a promising staff member expresses interest in taking over the business and continuing it according to Rethute's values, but lacks the capital to buy it. The party becomes involved in helping Rethute through what amounts to a decision about her legacy and the future of a beloved community institution.

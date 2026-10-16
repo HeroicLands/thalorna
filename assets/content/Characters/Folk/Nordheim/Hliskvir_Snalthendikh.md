@@ -1,9 +1,9 @@
 ---
 shortcode: hliskvirsnal
-name: {full: Hliskvir Snalthendikh, aliases: [Councilor Hliskvir Snalthendikh]}
+name: {full: Hliskvir Snalthendik, aliases: [Councilor Hliskvir Snalthendik]}
 type: being
 subType: npc
-description: A councilor who views military power as a threat to his authority, named in Gnaldrthann Sólvargr.
+description: A councilor who views military power as a threat to his authority, named in Gnaldrthann Solvargr.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hliskvir Snalthendikh is an 18-year-old man who stands 5'7" tall with a medium build. He has tanned skin, smooth complexion, red hair, and green eyes.
+Hliskvir Snalthendik is an 18-year-old man who stands 5'7" tall with a medium build. He has tanned skin, smooth complexion, red hair, and green eyes.
 
 # Dossier {#dossier}
 
-Hliskvir Snalthendikh is a councilor who views military power as a threat to his authority. He has worked systematically to undermine Gnaldrthann's position and credibility, seeking to replace Gnaldrthann with someone more politically pliable. Hliskvir Snalthendikh is named in [[being-gnldrthnslvrgr|Gnaldrthann Sólvargr]].
+Hliskvir Snalthendik is a councilor who views military power as a threat to his authority. He has worked systematically to undermine Gnaldrthann's position and credibility, seeking to replace Gnaldrthann with someone more politically pliable. Hliskvir Snalthendik is named in [[being-gnldrthnslvrgr|Gnaldrthann Solvargr]].

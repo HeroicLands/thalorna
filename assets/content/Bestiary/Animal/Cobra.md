@@ -154,7 +154,7 @@ A sound like torn cloth comes from the dark behind the grain-bin. In the slit of
 
 # Dossier {#dossier}
 
-The Cobra is the great venomous snake of the river lowlands, six to eight feet long, thirty pounds, found in irrigation channels, granaries, ruined temples and rocky ground at the desert edge of [[place-aukhelathrgq|Aû'Khelâthu]]. Its raised hood is the royal sign of the empire, and a living cobra is sacred and may be killed only in self-defense. Farmers value it for the rats it keeps down and fear it for a bite that kills a grown man within hours.
+The Cobra is the great venomous snake of the river lowlands, six to eight feet long, thirty pounds, found in irrigation channels, granaries, ruined temples and rocky ground at the desert edge of [[place-aukhelathrgq|Au'Khelathu]]. Its raised hood is the royal sign of the empire, and a living cobra is sacred and may be killed only in self-defense. Farmers value it for the rats it keeps down and fear it for a bite that kills a grown man within hours.
 
 ## Presentation
 
@@ -162,7 +162,7 @@ A large, smooth-scaled snake with a slender, strong body, jet black, dark brown 
 
 ## In the Land
 
-Cobras live in the papyrus marshes of the delta of [[place-aukhelathrgq|Aû'Khelâthu]], along the irrigation channels and field-banks of the river valley, in granaries and in the rocky ground at the desert edge. A snake keeps to one length of bank or one set of ruins, hunting rats, frogs and birds, and basking on a wall in the morning. Cobras are common in the river lowlands, and nearly every village has one living in its mud-brick walls or its grain store.
+Cobras live in the papyrus marshes of the delta of [[place-aukhelathrgq|Au'Khelathu]], along the irrigation channels and field-banks of the river valley, in granaries and in the rocky ground at the desert edge. A snake keeps to one length of bank or one set of ruins, hunting rats, frogs and birds, and basking on a wall in the morning. Cobras are common in the river lowlands, and nearly every village has one living in its mud-brick walls or its grain store.
 
 ## Key Behaviors
 

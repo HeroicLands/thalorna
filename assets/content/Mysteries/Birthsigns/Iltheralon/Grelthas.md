@@ -1,6 +1,6 @@
 ---
 shortcode: tragyx
-name: {full: Grêlthâs, aliases: []}
+name: {full: Grelthas, aliases: []}
 type: mystery
 subType: birthsign
 description: "The Stag: born to speak and to seek, equally useless at the anvil and in a fight."
@@ -35,7 +35,7 @@ sohl:
       hydalis: 10
 ---
 
-Grêlthâs, the Stag, gives an eloquent tongue and a searching mind. Born orators, linguists, and adepts of the mysteries, its children have little inclination for the workshop bench or the practice of arms.
+Grelthas, the Stag, gives an eloquent tongue and a searching mind. Born orators, linguists, and adepts of the mysteries, its children have little inclination for the workshop bench or the practice of arms.
 
 | Element | Skills it claims          | EML |
 | ------- | ------------------------- | --- |
@@ -46,4 +46,4 @@ Grêlthâs, the Stag, gives an eloquent tongue and a searching mind. Born orator
 | Spirit  | Lore, Mystical            | +10 |
 | Water   | Language, Social          | +10 |
 
-The wheel of signs, and what the six elements of the Ilthêrâlon (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Iltheron (the Star Circle) each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

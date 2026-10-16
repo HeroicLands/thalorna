@@ -3,16 +3,16 @@ shortcode: hvulgdal
 name: {full: Hvulgdal, aliases: []}
 type: place
 subType: settlement
-description: "A farming dale of the Nordlands under Jarl Hlaskynda, whose harvests Bruldorv Greenshield manages on her authority."
+description: "A farming dale of the Nordlands under Jarl Hlaskinda, whose harvests Bruldorv Greenshield manages on her authority."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
 ---
 
-In a north where most land is rock, fell or fjord, a dale that grows grain reliably is wealth of the kind a jarl guards closely, and Hvulgdal is that dale. The halls stand on the slopes and the fields lie below them, and in a good year the dale feeds more than its own people. It is a farming dale of the [[place-nrdlndsrgn|Nordlands]], held by **Jarl Hlaskynda of Hvulgdal**.
+In a north where most land is rock, fell or fjord, a dale that grows grain reliably is wealth of the kind a jarl guards closely, and Hvulgdal is that dale. The halls stand on the slopes and the fields lie below them, and in a good year the dale feeds more than its own people. It is a farming dale of the [[place-nrdlndsrgn|Nordlands]], held by **Jarl Hlaskinda of Hvulgdal**.
 
 ## The Jarl and Her Steward of Harvests
 
-Jarl Hlaskynda is known as a wise ruler, and the clearest proof of it is whom she listens to. She values the counsel of [[being-brldrvgrnshld|Bruldorv Greenshield]] on everything that grows, and she has given him authority over the management of her lands' harvests: when the fields are sown, what is stored against the winter, and what goes to market.
+Jarl Hlaskinda is known as a wise ruler, and the clearest proof of it is whom she listens to. She values the counsel of [[being-brldrvgrnshld|Bruldorv Greenshield]] on everything that grows, and she has given him authority over the management of her lands' harvests: when the fields are sown, what is stored against the winter, and what goes to market.
 
 A farmer of Hvulgdal with a quarrel over seed-corn or a share of the threshing takes it to Bruldorv before the jarl, and the dale accepts his word on it. The name says what the first settlers valued: _hvulg-_ is a bay that shelters in any wind, and the generic that follows is the one for a dale.
 

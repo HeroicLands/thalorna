@@ -47,7 +47,7 @@ away and do not want to.
 
 ## The Prohibitions
 
-The rules were given to the first Áelendan keepers of the Pact, by a Sinalë, after the falls took a boy who had climbed them by day ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]).
+The rules were given to the first Áelendan keepers of the Pact, by a Sinale, after the falls took a boy who had climbed them by day ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]).
 
 Sálenda's rules are few and absolute, and Áelendan children learn them in order:
 

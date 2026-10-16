@@ -1,6 +1,6 @@
 ---
 shortcode: dvrnmyldcvr
-name: {full: Dvirnmýl the Deceiver, given: Dvirnmýl, aliases: [the Deceiver]}
+name: {full: Dvirnmil the Deceiver, given: Dvirnmil, aliases: [the Deceiver]}
 type: being
 subType: character
 tags: [hero, heroes-of-asguard, unguilded, underworld]
@@ -361,27 +361,27 @@ sohl:
 
 # Appearance {#appearance}
 
-Dvirnmýl stands 5'9" with a medium, unremarkable frame, weighing about 170 pounds. His fair skin is neither notably pale nor tan, and his brown hair is cut in whatever style serves his current disguise—it has been every length and color at some point. His blue eyes are his one truly distinctive feature, sharp and quick, constantly cataloging exits, valuables, and weaknesses, though he has learned to mask their intensity behind a practiced look of dull pleasantness. His features are aggressively ordinary—a face that blends into any crowd, with no scars, no memorable marks, nothing to catch the eye or linger in memory, which is precisely the point. Dvirnmýl dresses to fit whatever role he is playing; his real clothing, when he is being himself, tends toward dark practical garments with many hidden pockets. He carries no visible weapons, though a slim knife is always somewhere on his person.
+Dvirnmil stands 5'9" with a medium, unremarkable frame, weighing about 170 pounds. His fair skin is neither notably pale nor tan, and his brown hair is cut in whatever style serves his current disguise—it has been every length and color at some point. His blue eyes are his one truly distinctive feature, sharp and quick, constantly cataloging exits, valuables, and weaknesses, though he has learned to mask their intensity behind a practiced look of dull pleasantness. His features are aggressively ordinary—a face that blends into any crowd, with no scars, no memorable marks, nothing to catch the eye or linger in memory, which is precisely the point. Dvirnmil dresses to fit whatever role he is playing; his real clothing, when he is being himself, tends toward dark practical garments with many hidden pockets. He carries no visible weapons, though a slim knife is always somewhere on his person.
 
 # Dossier {#dossier}
 
-Dvirnmýl was born into the unforgiving streets of the city's slums, where survival depended on cunning, not strength. Orphaned at a young age, Dvirnmýl quickly became a master of deceit, learning how to manipulate others to get what he wanted. He had no interest in noble causes or grand ideals; his only goal was to claw his way out of poverty by any means necessary. Dvirnmýl's talents caught the eye of Vélgrímr, the god of thieves and the dispossessed, who delighted in the trouble Dvirnmýl caused. With Vélgrímr's subtle guidance, Dvirnmýl honed his skills in trickery and thievery.
+Dvirnmil was born into the unforgiving streets of the city's slums, where survival depended on cunning, not strength. Orphaned at a young age, Dvirnmil quickly became a master of deceit, learning how to manipulate others to get what he wanted. He had no interest in noble causes or grand ideals; his only goal was to claw his way out of poverty by any means necessary. Dvirnmil's talents caught the eye of Velgrímr, the god of thieves and the dispossessed, who delighted in the trouble Dvirnmil caused. With Velgrímr's subtle guidance, Dvirnmil honed his skills in trickery and thievery.
 
-The saga of Dvirnmýl the Deceiver tells how he exploited the arrogance and greed of [[being-snrvthn|Jarl Snarvthann]], a wealthy and corrupt noble. Dvirnmýl posed as a disgraced nobleman who had fallen on hard times, carefully forging documents and crafting a backstory. He infiltrated the jarl's court, convinced Snarvthann that he knew the location of hidden treasures, and then led the jarl to a remote mountain location where bandits Dvirnmýl had hired were waiting. With Snarvthann stranded, Dvirnmýl raided the jarl's estate and converted his assets into a personal fortune.
+The saga of Dvirnmil the Deceiver tells how he exploited the arrogance and greed of [[being-snrvthn|Jarl Snarvthann]], a wealthy and corrupt noble. Dvirnmil posed as a disgraced nobleman who had fallen on hard times, carefully forging documents and crafting a backstory. He infiltrated the jarl's court, convinced Snarvthann that he knew the location of hidden treasures, and then led the jarl to a remote mountain location where bandits Dvirnmil had hired were waiting. With Snarvthann stranded, Dvirnmil raided the jarl's estate and converted his assets into a personal fortune.
 
 ## Psyche
 
 ### Personality
 
-Dvirnmýl is charming, quick-witted, and completely amoral. He views the world as a game where the clever eat and the foolish starve, and he intends to feast. He can become anyone at a moment's notice—a weeping beggar, a confident noble, a devout priest—and switch between personas with unsettling ease. He is funny and uses humor as both a weapon and a shield. Despite his selfishness, he has a soft spot for orphans and street children, quietly funding several shelters with his ill-gotten gains, though he would deny it vigorously if confronted.
+Dvirnmil is charming, quick-witted, and completely amoral. He views the world as a game where the clever eat and the foolish starve, and he intends to feast. He can become anyone at a moment's notice—a weeping beggar, a confident noble, a devout priest—and switch between personas with unsettling ease. He is funny and uses humor as both a weapon and a shield. Despite his selfishness, he has a soft spot for orphans and street children, quietly funding several shelters with his ill-gotten gains, though he would deny it vigorously if confronted.
 
 ### Motivation
 
-Dvirnmýl wants comfort, excitement, and the satisfaction of outwitting those who consider themselves his betters. He has no grand ambitions beyond living well and causing entertaining chaos. His deeper motivation, which he barely acknowledges to himself, is a burning resentment toward the wealthy and powerful who let children like him starve in the streets. Each con he pulls on the powerful is a small act of revenge for the childhood he never had.
+Dvirnmil wants comfort, excitement, and the satisfaction of outwitting those who consider themselves his betters. He has no grand ambitions beyond living well and causing entertaining chaos. His deeper motivation, which he barely acknowledges to himself, is a burning resentment toward the wealthy and powerful who let children like him starve in the streets. Each con he pulls on the powerful is a small act of revenge for the childhood he never had.
 
 ### Strengths
 
-Dvirnmýl is a master of disguise, forgery, and social engineering. He can talk his way into or out of almost any situation and has an uncanny ability to identify and exploit people's weaknesses. His network of underworld contacts is extensive, and he can procure information, documents, and personnel for any scheme. He is also a skilled pick-pocket, lock-pick, and escape artist, having learned these trades on the streets from a young age.
+Dvirnmil is a master of disguise, forgery, and social engineering. He can talk his way into or out of almost any situation and has an uncanny ability to identify and exploit people's weaknesses. His network of underworld contacts is extensive, and he can procure information, documents, and personnel for any scheme. He is also a skilled pick-pocket, lock-pick, and escape artist, having learned these trades on the streets from a young age.
 
 ## Social
 
@@ -389,20 +389,20 @@ Dvirnmýl is a master of disguise, forgery, and social engineering. He can talk 
 
 ### Patrons
 
-**The Underworld Guild of [[place-gnaldrholm|Gnaldrholm]]**—An organized crime network that uses Dvirnmýl's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
+**The Underworld Guild of [[place-gnaldrholm|Gnaldrholm]]**—An organized crime network that uses Dvirnmil's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
 
-**Vélgrímr's Whisper**—The god himself takes an intermittent interest in Dvirnmýl, providing subtle guidance and occasional divine luck when the trickster is in particularly entertaining trouble.
+**Velgrímr's Whisper**—The god himself takes an intermittent interest in Dvirnmil, providing subtle guidance and occasional divine luck when the trickster is in particularly entertaining trouble.
 
 ### Enemies
 
-**[[being-snrvthn|Jarl Snarvthann]]'s Heirs**—The humiliated jarl's family has hired a relentless bounty hunter to track Dvirnmýl down. They want both their wealth returned and Dvirnmýl's head.
+**[[being-snrvthn|Jarl Snarvthann]]'s Heirs**—The humiliated jarl's family has hired a relentless bounty hunter to track Dvirnmil down. They want both their wealth returned and Dvirnmil's head.
 
-**Captain Dvalgmýl of the City Watch**—A dogged lawman who has been pursuing Dvirnmýl for years and has come closer to catching him than anyone else.
+**Captain Dvalgmil of the City Watch**—A dogged lawman who has been pursuing Dvirnmil for years and has come closer to catching him than anyone else.
 
 ## Plot Hooks
 
-1. **The Impossible Heist**—Dvirnmýl has been hired to steal an artifact from a vault considered impenetrable. The job is a setup—but for whom?
+1. **The Impossible Heist**—Dvirnmil has been hired to steal an artifact from a vault considered impenetrable. The job is a setup—but for whom?
 
-2. **The Honest Job**—Dvirnmýl is forced to work a legitimate job when his cover requires it, and he discovers he's actually good at it. When his employers are threatened, he must decide whether to protect them or save himself.
+2. **The Honest Job**—Dvirnmil is forced to work a legitimate job when his cover requires it, and he discovers he's actually good at it. When his employers are threatened, he must decide whether to protect them or save himself.
 
-3. **The Orphan's Debt**—A child from one of the shelters Dvirnmýl secretly funds has been kidnapped by a crime lord who knows Dvirnmýl's secret. The price for the child's return is a job that could get Dvirnmýl killed.
+3. **The Orphan's Debt**—A child from one of the shelters Dvirnmil secretly funds has been kidnapped by a crime lord who knows Dvirnmil's secret. The price for the child's return is a job that could get Dvirnmil killed.

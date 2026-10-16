@@ -1,9 +1,9 @@
 ---
 shortcode: ngorashavlg
-name: {full: Ngorásha Village, aliases: []}
+name: {full: Ngorasha Village, aliases: []}
 type: place
 subType: settlement
-description: "Fishing village of the Ngorásha tribe on a river of Okháris."
+description: "Fishing village of the Ngorasha tribe on a river of Okharis."
 tags: [village, river, inland]
 data:
   demonym: null
@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-**Ngorásha Village** is the seat of the [[affiliation-ngorashatrb|Ngorásha tribe]], which owes fealty to
-[[affiliation-okharis|Okháris]]. It is one of the settled villages of
-[[place-okharisrgn|Okháris]].
+**Ngorasha Village** is the seat of the [[affiliation-ngorashatrb|Ngorasha tribe]], which owes fealty to
+[[affiliation-okharis|Okharis]]. It is one of the settled villages of
+[[place-okharisrgn|Okharis]].
 
 Its smoke-racks line the bank above the reed beds, and the village's dried fish travel inland to herding camps that see no river for months.

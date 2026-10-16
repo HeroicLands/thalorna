@@ -1,13 +1,13 @@
 ---
 shortcode: calypsa
-name: {full: Calypsa, aliases: []}
+name: {full: Kalipsa, aliases: []}
 type: affiliation
 subType: polity
-description: Free port city on a small island off Élavendre's northern coast—a cosmopolitan crossroads of Nordmal seafarers, Aurèldían merchants, and whoever else has a ship to anchor.
+description: Free port city on a small island off Élavendre's northern coast—a cosmopolitan crossroads of Nordmal seafarers, Aureldian merchants, and whoever else has a ship to anchor.
 tags: []
 data:
   templatePriority: null
-  demonym: Calypsi
+  demonym: Kalipsi
   epithet: null
   symbol: null
   governance:
@@ -35,7 +35,7 @@ data:
         description: >-
           Enrolled in the citizen body, voting in the assembly and serving in the levy. A citizen is not a member of the governing order.
       - level: 5
-        title: Gûlmâlênôs
+        title: Gulmen
         description: >-
           Of the propertied order that meets the census for office, and from which the magistracies are in practice filled.
       - level: 6
@@ -43,7 +43,7 @@ data:
         description: >-
           Of the ruling council itself, holding a seat for life and deliberating on war, treasury and law.
       - level: 7
-        title: Tâvâlênôs
+        title: Tavalen
         lore: formermagrnk
         description: >-
           Having held the chief magistracy and vacated it, and speaking with the weight that carries ever after.
@@ -79,37 +79,37 @@ data:
   packFolder: calypsa
 sohl: {system: {commonSkills: [nordmalng, valtarlng]}}
 
-# terran_analog: "A small fictional island off the Normandy coast—roughly 15 miles in diameter, sited about 20 miles offshore from the Élavendri mainland, with no real-world geographic counterpart. The cultural mix is a blend of Norse-Germanic seafarer traditions and Norman Aurèldían commerce."
+# terran_analog: "A small fictional island off the Normandy coast—roughly 15 miles in diameter, sited about 20 miles offshore from the Élavendri mainland, with no real-world geographic counterpart. The cultural mix is a blend of Norse-Germanic seafarer traditions and Norman Aureldian commerce."
 ---
 
 ## Overview
 
-Calypsa is a free port city on a small, steep-sided island off the northern coast of [[place-elavendre|Élavendre]], some seventy-five miles north of the mainland, just outside the mouth of [[place-liserebay|Líserë Bay]] and roughly fifteen miles across at its widest—barely large enough to hold the city proper, its terraced vineyards, and a scattering of fishing villages along the southern shore. The island commands the sea-lane between the [[place-nrdlndsrgn|Nordlands Region]] and the northern approaches to [[place-midhalnrgn|Mídhalión Region]], and its harbor is one of the best-sheltered anchorages in northern [[place-ankrscntnnt|Ankaris Continent]]. The galleys that use it tie the north and west of the continent together more completely than any treaty could.
+Kalipsa is a free port city on a small, steep-sided island off the northern coast of [[place-elavendre|Élavendre]], some seventy-five miles north of the mainland, just outside the mouth of [[place-liserebay|Lísere Bay]] and roughly fifteen miles across at its widest—barely large enough to hold the city proper, its terraced vineyards, and a scattering of fishing villages along the southern shore. The island commands the sea-lane between the [[place-nrdlndsrgn|Nordlands Region]] and the northern approaches to [[place-midhalnrgn|Mídhalión Region]], and its harbor is one of the best-sheltered anchorages in northern [[place-ankrscntnnt|Ankaris Continent]]. The galleys that use it tie the north and west of the continent together more completely than any treaty could.
 
 The city is nobody's vassal. It pays no tribute to the Nordmen kingdoms, owes no fealty to [[affiliation-kngdmlvndr|Élavendre]], and answers to no [[affiliation-ordoarcanis|Arcane Order]] authority beyond what its Captains' Council chooses to tolerate. That freedom is its principal product, and every other good that passes through its warehouses is, in some sense, paying for it.
 
 ## Character
 
-Calypsa's culture is the culture of a harbor that has had to welcome everyone. Nordmal is the working language of the docks and the old city; **Valtari**, a trade pidgin with deep Helionite roots, is spoken in the markets and among the younger merchant families; a traveler from [[place-provenzrgn|Provènzia Region]] or the [[affiliation-byzarianlg|Byzarian League]] will find themselves understood without much difficulty anywhere on the island. Weddings mix Nordmen drinking-songs with Aurèldían hymns; the kitchens combine northern smoked fish with southern spice and olive oil; the local wine is, by the admission of its drinkers, indifferent.
+Kalipsa's culture is the culture of a harbor that has had to welcome everyone. Nordmal is the working language of the docks and the old city; **Valtari**, a trade pidgin with deep Helionite roots, is spoken in the markets and among the younger merchant families; a traveler from [[place-provenzrgn|Provenzia Region]] or the [[affiliation-byzarianlg|Bizarian League]] will find themselves understood without much difficulty anywhere on the island. Weddings mix Nordmen drinking-songs with Aureldian hymns; the kitchens combine northern smoked fish with southern spice and olive oil; the local wine is, by the admission of its drinkers, indifferent.
 
-Calypsi civic life is dominated by the shipping houses—perhaps a dozen great families and twice as many lesser ones—whose fortunes rise and fall with the fortunes of their fleets. A family that loses three ships in a season may be elbowed from the Council within the year; a family that opens a new trade route may enter it. The resulting mobility gives Calypsi politics an unusually meritocratic flavor for Ankaris, though "merit" here means, specifically, the talent to make a ship pay.
+Kalipsi civic life is dominated by the shipping houses—perhaps a dozen great families and twice as many lesser ones—whose fortunes rise and fall with the fortunes of their fleets. A family that loses three ships in a season may be elbowed from the Council within the year; a family that opens a new trade route may enter it. The resulting mobility gives Kalipsi politics an unusually meritocratic flavor for Ankaris, though "merit" here means, specifically, the talent to make a ship pay.
 
-The city's people cultivate a reputation for cheerful amorality in commerce and a surprising severity in matters of personal honor. A Calypsi captain who breaks a contract may be pitied; one who breaks a guest's trust will not be welcome in the harbor again.
+The city's people cultivate a reputation for cheerful amorality in commerce and a surprising severity in matters of personal honor. A Kalipsi captain who breaks a contract may be pitied; one who breaks a guest's trust will not be welcome in the harbor again.
 
 ## The Fleet
 
-Calypsa keeps a **navy out of all proportion to its size**, and it is the reason the city has stayed
+Kalipsa keeps a **navy out of all proportion to its size**, and it is the reason the city has stayed
 nobody's vassal.
 
 The shipping houses maintain it jointly, on a levy assessed by tonnage, and it is commanded by officers
-who are professionals rather than gentlemen—a distinction Calypsi make loudly and Aurèldían nobles
+who are professionals rather than gentlemen—a distinction Kalipsi make loudly and Aureldian nobles
 find offensive. It is not built to hold a line against an empire and could not. It is built to make
-raiding Calypsa, or the sea-lanes Calypsa's trade uses, cost more than it returns.
+raiding Kalipsa, or the sea-lanes Kalipsa's trade uses, cost more than it returns.
 
 Against the **Nordmen** and the raiders of the northern lands this has worked for a very long time. The
 city pays no tribute to any northern kingdom and is emphatic about the difference between not paying
-tribute and not being asked. The wider consequence matters to its neighbors: Calypsa's squadrons sit
-across the approaches to [[place-liserebay|Líserë Bay]], and northern [[place-elavendre|Élavendre]]
+tribute and not being asked. The wider consequence matters to its neighbors: Kalipsa's squadrons sit
+across the approaches to [[place-liserebay|Lísere Bay]], and northern [[place-elavendre|Élavendre]]
 enjoys a degree of protection that it neither pays for nor formally acknowledges, and would miss
 immediately.
 
@@ -118,9 +118,9 @@ tariffs is a naval problem, and the shipping houses know it.
 
 ## Economy
 
-The harbor is the economy. Calypsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped, and crushing tariffs on cargo warehoused for longer than a season—the last deliberately punitive, to force capital through the city rather than letting it accumulate. The resulting turnover underwrites the Council's treasury and the city's celebrated insurance syndicates, whose bonds are bought by merchants as far away as [[affiliation-vylarinmpr|Vylaria]].
+The harbor is the economy. Kalipsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped, and crushing tariffs on cargo warehoused for longer than a season—the last deliberately punitive, to force capital through the city rather than letting it accumulate. The resulting turnover underwrites the Council's treasury and the city's celebrated insurance syndicates, whose bonds are bought by merchants as far away as [[affiliation-vylarinmpr|Vylaria]].
 
-The island itself produces almost nothing. There is fishing, and there is enough rough grazing on the upper slopes to keep a sparse stock of goats and sheep, and there is a small but valued trade in dyestuffs gathered from shellfish along the rocky southern coast. Agriculture beyond fodder for that livestock is not worth the name—the island is steep, thin-soiled and short of fresh water, and **Calypsa eats what it buys**. Everything else is brought in—grain from the Élavendri mainland, timber and furs from the [[place-nrdlndsrgn|Nordlands Region]], fine cloth from [[place-provenzrgn|Provènzia Region]] and the southern [[place-aureldirgn|Aurèldían]] courts, metalwork from [[affiliation-orashion|Órashion]], and the luxury goods of the east that trickle north through [[affiliation-byzarianlg|Byzarian]] and [[affiliation-vylarinmpr|Vylarian]] intermediaries.
+The island itself produces almost nothing. There is fishing, and there is enough rough grazing on the upper slopes to keep a sparse stock of goats and sheep, and there is a small but valued trade in dyestuffs gathered from shellfish along the rocky southern coast. Agriculture beyond fodder for that livestock is not worth the name—the island is steep, thin-soiled and short of fresh water, and **Kalipsa eats what it buys**. Everything else is brought in—grain from the Élavendri mainland, timber and furs from the [[place-nrdlndsrgn|Nordlands Region]], fine cloth from [[place-provenzrgn|Provenzia Region]] and the southern [[place-aureldirgn|Aureldian]] courts, metalwork from [[affiliation-orashion|Órashion]], and the luxury goods of the east that trickle north through [[affiliation-byzarianlg|Bizarian]] and [[affiliation-vylarinmpr|Vylarian]] intermediaries.
 
 ## Government
 
@@ -130,21 +130,21 @@ Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers,
 
 ## Relations
 
-[[affiliation-kngdmlvndr|Élavendre]] is Calypsa's nearest mainland neighbor and largest single trading partner. The relationship is warm, cordial, and quietly transactional: the Élavendri crown has never seriously attempted to annex the island and Calypsa has never seriously contemplated resisting if it did. In practice the two realms negotiate as peers, and a steady stream of Élavendri younger sons and restless merchant families settles on the island each generation.
+[[affiliation-kngdmlvndr|Élavendre]] is Kalipsa's nearest mainland neighbor and largest single trading partner. The relationship is warm, cordial, and quietly transactional: the Élavendri crown has never seriously attempted to annex the island and Kalipsa has never seriously contemplated resisting if it did. In practice the two realms negotiate as peers, and a steady stream of Élavendri younger sons and restless merchant families settles on the island each generation.
 
-**The Nordmen kingdoms**—[[affiliation-kingdomlgn|Malagna]] especially—provide many of Calypsa's sailors, much of its shipbuilding timber, and a disproportionate share of its old-money families. Nordmal is still the working tongue of the docks for this reason. Relations with the Nordmen courts are friendly in trade and carefully neutral in politics; Calypsa has successfully stayed out of every Nordmen dynastic quarrel of the last three centuries.
+**The Nordmen kingdoms**—[[affiliation-kingdomlgn|Malagna]] especially—provide many of Kalipsa's sailors, much of its shipbuilding timber, and a disproportionate share of its old-money families. Nordmal is still the working tongue of the docks for this reason. Relations with the Nordmen courts are friendly in trade and carefully neutral in politics; Kalipsa has successfully stayed out of every Nordmen dynastic quarrel of the last three centuries.
 
-**The [[affiliation-ordoarcanis|Thôrdimâlon]]** maintains a small factor's house on the island but no chapterhouse and no licensing authority. Calypsa's official position is that the Arcane Order's writ stops at the waterline; in practice, Arcane Order agents who conduct themselves discreetly are tolerated, and those who do not are asked to leave.
+**The [[affiliation-ordoarcanis|Thordimalon]]** maintains a small factor's house on the island but no chapterhouse and no licensing authority. Kalipsa's official position is that the Arcane Order's writ stops at the waterline; in practice, Arcane Order agents who conduct themselves discreetly are tolerated, and those who do not are asked to leave.
 
 ## Notable Features
 
 - **The Old Mole**—the original stone harbor mole, built (according to local tradition) by refugees from a forgotten Helionite colony. The stones are older than any dating the city will admit to, and several are carved with characters no living scholar can read.
-- **The Lantern of Calypsa**—a seamark tower on the island's northern headland, fueled by an olive-oil beacon that has been relit every night for as long as anyone can remember. The lantern-keeper's office is hereditary and carries significant civic prestige.
+- **The Lantern of Kalipsa**—a seamark tower on the island's northern headland, fueled by an olive-oil beacon that has been relit every night for as long as anyone can remember. The lantern-keeper's office is hereditary and carries significant civic prestige.
 - **The Sea-Law Hall**—where the arbitrators of the Sea-Law hear commercial disputes. Its verdicts are not legally binding outside the city but are, in practice, honored across half the northern shipping world because no captain can afford the reputational cost of defying them.
 
 ## Commerce and Currency
 
-Calypsa uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Calypsa is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Kalipsa uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Kalipsa is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
@@ -152,4 +152,4 @@ Calypsa uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) 
 - [[affiliation-kingdomlgn|Kingdom of Malagna]]—Principal Nordmen trading partner
 - [[place-aelwyth|Aelwyth]]—Southern island neighbor
 - [[skill-nordmalng|Nordmal]], [[skill-valtarlng|Valtari]]—Languages of the docks and markets
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Dominant pantheon
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]—Dominant pantheon

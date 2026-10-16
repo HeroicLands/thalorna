@@ -1,6 +1,6 @@
 ---
 shortcode: hvarnthyra
-name: {full: Hvarnthýra, aliases: [Princess Hvarnthýra]}
+name: {full: Hvarnthira, aliases: [Princess Hvarnthira]}
 type: being
 subType: npc
 description: Princess of Malagna, whose royal family has begun commissioning items from Glirvrinna Stormrót.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hvarnthýra is a 21-year-old woman who stands 5'5" tall with a medium build. She has medium skin, scarred complexion, dark brown hair, and brown eyes.
+Hvarnthira is a 21-year-old woman who stands 5'5" tall with a medium build. She has medium skin, scarred complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Hvarnthýra is the princess of Malagna, whose royal family has begun commissioning items from [[being-glrvrnstrmrt|Glirvrinna Stormrót]]. She visits Glirvrinna's workshop in person to request the wedding trousseau and ceremonial garments for her betrothal to a foreign prince.
+Hvarnthira is the princess of Malagna, whose royal family has begun commissioning items from [[being-glrvrnstrmrt|Glirvrinna Stormrót]]. She visits Glirvrinna's workshop in person to request the wedding trousseau and ceremonial garments for her betrothal to a foreign prince.

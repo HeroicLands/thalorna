@@ -3,7 +3,7 @@ shortcode: garqeltu
 name: {full: Gar-Qeltu, aliases: []}
 type: affiliation
 subType: lineage
-description: The pearl-divers' house, dissolved by the Gar-Aû's word when its charter lapsed—the last major dissolution anyone can name, and the example every guild master is reminded of
+description: The pearl-divers' house, dissolved by the Gar-Au's word when its charter lapsed—the last major dissolution anyone can name, and the example every guild master is reminded of
 tags: [generated, draft]
 data:
   culture: khelathiclt
@@ -14,7 +14,7 @@ data:
   governance:
     model: autocracy
     summary: >-
-      The pearl-divers' house, whose charter governed the pearl trade until the Gar-Aû dissolved it when the charter lapsed. Its fate is the example every guild master is reminded of.
+      The pearl-divers' house, whose charter governed the pearl trade until the Gar-Au dissolved it when the charter lapsed. Its fate is the example every guild master is reminded of.
     ranks:
       - level: 0
         title: Charter Lost
@@ -27,7 +27,7 @@ data:
       - level: 2
         title: Master of the House
         description: >-
-          Answered for the house and its charter to the Gar-Aû.
+          Answered for the house and its charter to the Gar-Au.
     offices: {}
   seat: null
   population: 0
@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-The pearl trade of [[place-aukhelathrgq|Aû'Khelâthu]] once belonged to a single chartered house, **Gar-Qeltu**, until its charter lapsed and the [[lore-garauu|Gar-Aû]]'s word dissolved it. It is the last major dissolution anyone in the empire can name, and it shows what a withdrawn charter means: the trade left the house's hands at once. A guild master who is reminded of Gar-Qeltu renews his charter well before its term runs out, rather than test whether the Gar-Aû's patience matches his own confidence.
+The pearl trade of [[place-aukhelathrgq|Au'Khelathu]] once belonged to a single chartered house, **Gar-Qeltu**, until its charter lapsed and the [[lore-garauu|Gar-Au]]'s word dissolved it. It is the last major dissolution anyone in the empire can name, and it shows what a withdrawn charter means: the trade left the house's hands at once. A guild master who is reminded of Gar-Qeltu renews his charter well before its term runs out, rather than test whether the Gar-Au's patience matches his own confidence.
 
 ## Character
 
@@ -50,7 +50,7 @@ Nothing in the telling blames the divers or praises them. The point is a date in
 
 ## Relations
 
-The house answered for itself and for its charter to the Gar-Aû, and the Gar-Aû's word dissolved it. It is the last major dissolution anyone in [[place-aukhelathrgq|Aû'Khelâthu]] can name, so the house stands as the example against which every chartered body measures its own standing with the throne. A guild master who mentions Gar-Qeltu in a meeting is reminding the room that a charter is granted by one person and can end the same way.
+The house answered for itself and for its charter to the Gar-Au, and the Gar-Au's word dissolved it. It is the last major dissolution anyone in [[place-aukhelathrgq|Au'Khelathu]] can name, so the house stands as the example against which every chartered body measures its own standing with the throne. A guild master who mentions Gar-Qeltu in a meeting is reminding the room that a charter is granted by one person and can end the same way.
 
 ## Commerce and Currency
 
@@ -60,5 +60,5 @@ A prudent master renews a charter well before its term runs out, and has the ren
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
-- [[lore-garauu|Gar-Aûu]]—The sovereigns whose word dissolved it
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to
+- [[lore-garauu|Gar-Auu]]—The sovereigns whose word dissolved it

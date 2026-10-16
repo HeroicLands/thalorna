@@ -1,6 +1,6 @@
 ---
 shortcode: fakhrdtmrn
-name: {full: Fakhrad Tamârân, given: Fakhrad, clan: Tamârân, aliases: []}
+name: {full: Fakhrad Tamaran, given: Fakhrad, clan: Tamaran, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]
@@ -423,7 +423,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[fakhrdtmrn|Fakhrad Tamârân]]{float=top-left}
+![[fakhrdtmrn|Fakhrad Tamaran]]{float=top-left}
 
 Fakhrad stands 5'11" tall with a medium build. He has tanned ruddy skin, jet black hair, and green eyes. His features include a long face, a long nose, an angular jawline, a firm-set mouth, prominent brows, sculpted cheeks. A distinguishing mark is a scar on the right hand.
 
@@ -469,15 +469,15 @@ Farmer Torvan of the Eastern Fields
 The Village Elders of [[place-sorvadakhend|Sorvadakhend]]
 : The collective leadership of a significant rural settlement maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
 
-Merchant Caravan Master Yelmâd
+Merchant Caravan Master Yelmad
 : A trader who conducts seasonal journeys across the kingdom uses Fakhrad's predictions to time his routes and often brings news and new knowledge to the astrologer.
 
 ### Enemies
 
-Master Astrologer Navresh Tahvân
+Master Astrologer Navresh Tahvan
 : A prominent court astrologer who views Fakhrad as a charlatan undoing the serious work of true scholars. Navresh has attempted to publicly discredit him on several occasions.
 
-Inquisitor Mazinân
+Inquisitor Mazinan
 : A religious authority who sees Fakhrad's unconventional relationship with astronomical knowledge as heretical and has begun building a case against him.
 
 The Skeptical Merchants' Council

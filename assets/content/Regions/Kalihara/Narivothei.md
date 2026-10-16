@@ -21,7 +21,7 @@ Narivothei is a lineage village in a spring valley on the northern inner slope o
 
 ## The Holding
 
-The lineage Narivothei holds the valley, the spring and the paths down to [[place-klhrdpfrst|the Deep Forest]]. The spring rises under a work of the [[lore-theithari|Ithári]], one of the tending-stones that stand beside a spring, a fishing ground or a terrace in every lineage village. The lineage tended it as its charge, under the kaan'vaar of the village, for as long as the village has a memory.
+The lineage Narivothei holds the valley, the spring and the paths down to [[place-klhrdpfrst|the Deep Forest]]. The spring rises under a work of the [[lore-theithari|Ithari]], one of the tending-stones that stand beside a spring, a fishing ground or a terrace in every lineage village. The lineage tended it as its charge, under the kaan'vaar of the village, for as long as the village has a memory.
 
 ## The Failing
 

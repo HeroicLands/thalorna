@@ -1,15 +1,15 @@
 ---
 shortcode: anlagherhafu
-name: {full: Anlagherhafu, given: Anlagherhafu, aliases: [Anlâ]}
+name: {full: Anlagherhafu, given: Anlagherhafu, aliases: [Anla]}
 type: being
 subType: character
-description: "High priest of Qe'âret at Khelunu, whose judgment carries into the courts and whose enemies find it difficult to reach him"
+description: "High priest of Qe'aret at Khelunu, whose judgment carries into the courts and whose enemies find it difficult to reach him"
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric, courtier]
-  occupation: "High Priest of Qe'âret"
+  occupation: "High Priest of Qe'aret"
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]
@@ -36,4 +36,4 @@ Anlagherhafu is a 45-year-old man who stands 6'2" tall with a heavy build. He ha
 
 # Dossier {#dossier}
 
-Anlagherhafu presides as high priest of [[lore-qearetdty|Qe'âret]] at [[place-khelunu|Khelunu]], out of [[place-amqelulegez|Amqelu-Legez]]. His judgment carries into the courts beyond the temple's own business. Enemies who might otherwise move against him find him difficult to reach precisely because that judgment matters so widely.
+Anlagherhafu presides as high priest of [[lore-qearetdty|Qe'aret]] at [[place-khelunu|Khelunu]], out of [[place-amqelulegez|Amqelu-Legez]]. His judgment carries into the courts beyond the temple's own business. Enemies who might otherwise move against him find him difficult to reach precisely because that judgment matters so widely.

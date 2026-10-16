@@ -1,6 +1,6 @@
 ---
 shortcode: klrthdlvnr
-name: {full: Kólrith Delvánor, aliases: []}
+name: {full: Kolrith Delvanor, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Kólrith Delvánor is a 25-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with prominent cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His hooded dark brown eyes sit beneath prominent brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has olive skin with a bronzed complexion. His black hair is cropped short.
+Kolrith Delvanor is a 25-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with prominent cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His hooded dark brown eyes sit beneath prominent brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has olive skin with a bronzed complexion. His black hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Kólrith Delvánor came into the world of the pilot through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Kolrith Delvanor came into the world of the pilot through a combination of circumstance and aptitude.
 
-Kólrith is a daring pilot known for his adventurous spirit and quick reflexes. He often takes on challenging routes and is not afraid to push the limits of his airship. With a background in racing, he enjoys the thrill of speed and competition. While his boldness can lead to risky situations, Kólrith has a knack for finding innovative solutions in the air, making him a respected figure among his peers.
+Kolrith is a daring pilot known for his adventurous spirit and quick reflexes. He often takes on challenging routes and is not afraid to push the limits of his airship. With a background in racing, he enjoys the thrill of speed and competition. While his boldness can lead to risky situations, Kolrith has a knack for finding innovative solutions in the air, making him a respected figure among his peers.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ Can be reckless, struggles with authority.
 
 ### Motivation
 
-Kólrith is driven by the desire to master his craft and secure a stable future. The uncertainties of life in pilot work keep him vigilant and adaptable.
+Kolrith is driven by the desire to master his craft and secure a stable future. The uncertainties of life in pilot work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -419,15 +419,15 @@ Fast reflexes, skilled at maneuvers, resourceful in challenging situations.
 
 ## Social
 
-Kólrith is affiliated with Local Pilots' Guild.
+Kolrith is affiliated with Local Pilots' Guild.
 
-As a Tarvénan pilot, Kólrith occupies a recognized social niche within Tarvénia society.
+As a Tarvenan pilot, Kolrith occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 
 ### Patrons
 
-Kólrith's primary patron is Adventurers and thrill-seekers looking for exciting flights. This relationship provides both opportunity and obligation.
+Kolrith's primary patron is Adventurers and thrill-seekers looking for exciting flights. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -435,12 +435,12 @@ Few; generally well-liked, but some competitors may resent his success.
 
 ## Plot Hooks
 
-1. **The Pilot's Dilemma**—Kólrith faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
+1. **The Pilot's Dilemma**—Kolrith faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 
 2. **Old Grudges**—Few; generally well-liked, but some competitors may resent his success. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Kólrith's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Kolrith's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Kólrith depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Tarvénia threaten to upend the social order that Kolrith depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Kólrith the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Kolrith the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

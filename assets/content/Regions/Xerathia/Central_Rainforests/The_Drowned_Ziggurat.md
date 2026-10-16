@@ -34,7 +34,7 @@ The rite that bound them was the priesthood's attempt to keep the serpent-patron
 - **The river tribes** hold the river below the drowned plain as forbidden water and do not fish it. Their elders say the serpent-patron is asleep and must not be woken by oars, and give no other reason.
 - **The Kubindo** tell it as the story of the keeper who became a leader. **The deep-forest tribes** do not speak of it to outsiders. Asked the way, they name the wrong river.
 - **Sengala traders** of the [[affiliation-nylbtrblntn|Nyáluba]] know the drowned plain as a place their route skirts. Their parties are bound by the observances of the [[affiliation-nyalbleop|Leopard Totem]] not to reveal the route by which they came, and none has revealed this one.
-- **Khelâthi and Okhárian river-factors** trade rumor about it. The story told in the northern river-ports is of a temple roofed in green stone and furnished with bronze, and it draws a steady trickle of salvage crews who do not come back.
+- **Khelathi and Okhárian river-factors** trade rumor about it. The story told in the northern river-ports is of a temple roofed in green stone and furnished with bronze, and it draws a steady trickle of salvage crews who do not come back.
 
 The common account across the interior is that the wheels must not be stopped. The reason differs by teller: the patron will wake, or the river will turn, or the wheels hold up the roof. The accounts do not agree with each other, and none of them is the whole reason.
 

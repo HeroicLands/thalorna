@@ -247,7 +247,7 @@ At low tide on the eastern islet a boulder at the waterline lifts itself on four
 
 # Dossier {#dossier}
 
-The Island Turtle, _reikula_ in [[skill-kalihrlng|Kalihári]], "the old one that goes round", is a sea turtle of seven to nine feet and half a ton, with a green-black shell crusted with growth. It circles the island on a route fishermen know and comes ashore on the same beaches each Wet-Turn. It lives for a very long time and moves slowly. It is found in the sea round the island and on the shore beaches, mainly those of the eastern islets, where it shares the sand with the [[being-mngbhmth|Mangrove Behemoth]]. It does not hunt people and does not need to.
+The Island Turtle, _reikula_ in [[skill-kalihrlng|Kalihari]], "the old one that goes round", is a sea turtle of seven to nine feet and half a ton, with a green-black shell crusted with growth. It circles the island on a route fishermen know and comes ashore on the same beaches each Wet-Turn. It lives for a very long time and moves slowly. It is found in the sea round the island and on the shore beaches, mainly those of the eastern islets, where it shares the sand with the [[being-mngbhmth|Mangrove Behemoth]]. It does not hunt people and does not need to.
 
 ## Presentation
 
@@ -255,7 +255,7 @@ A huge sea turtle with a high-domed green-black shell, a heavy head with a hooke
 
 ## In the Land
 
-The Island Turtle circles the island in the sea on a route that the fishermen of [[place-telvari|Telvári]] and the pilots know, and comes ashore to lay on the shore beaches, mainly on the eastern islets. Each animal returns to the same beach in the Wet-Turn. A beach where a turtle has laid for generations stays bare of growth at its upper edge and shows the worn tracks of past years.
+The Island Turtle circles the island in the sea on a route that the fishermen of [[place-telvari|Telvari]] and the pilots know, and comes ashore to lay on the shore beaches, mainly on the eastern islets. Each animal returns to the same beach in the Wet-Turn. A beach where a turtle has laid for generations stays bare of growth at its upper edge and shows the worn tracks of past years.
 
 ## Key Behaviors
 
@@ -263,7 +263,7 @@ The turtle feeds as it travels, on weed, sponge and soft-bodied sea life, and fo
 
 ## What the Islanders Do
 
-The Telvári fishermen and the pilots know individual turtles by their shells and by the beach each returns to, and some names are passed down the households as the turtle outlives its watchers. The beach is a part with a household that tends it, and a beach whose turtle is late is written in the manual. Eggs are never taken.
+The Telvari fishermen and the pilots know individual turtles by their shells and by the beach each returns to, and some names are passed down the households as the turtle outlives its watchers. The beach is a part with a household that tends it, and a beach whose turtle is late is written in the manual. Eggs are never taken.
 
 ## Signs
 

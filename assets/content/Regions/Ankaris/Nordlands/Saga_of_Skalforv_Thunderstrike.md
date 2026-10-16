@@ -13,7 +13,7 @@ data:
   subjects: [being-sklfrvthndrstrk, lore-heimsormr, lore-thrunvalddty]
 ---
 
-Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] taking a small boat against [[lore-heimsormr|Heimsormr]] under [[lore-thrunvalddty|Thrúnvald]]'s blessing. Whether he once walked the coast or belongs to its songs, the skalds give him three days and nights of battle and a fourth day's victorious blow. Other tales warn that the serpent survived beneath the waves. Its place in the telling of [[lore-aldarlok|Aldarlok]] remains a separate matter, and the singers leave the depths unmeasured.
+Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] taking a small boat against [[lore-heimsormr|Heimsormr]] under [[lore-thrunvalddty|Thrunvald]]'s blessing. Whether he once walked the coast or belongs to its songs, the skalds give him three days and nights of battle and a fourth day's victorious blow. Other tales warn that the serpent survived beneath the waves. Its place in the telling of [[lore-aldarlok|Aldarlok]] remains a separate matter, and the singers leave the depths unmeasured.
 
 : Saga of Skalforv Thunderstrike {#saga}
 
@@ -88,7 +88,7 @@ What wall could withstand it?
 Skalforv sought the shoreline;
 salt wind struck his face.
 He carried his great hammer;
-he called for Thrúnvald's blessing.
+he called for Thrunvald's blessing.
 
 Small lay the boat before him;
 small was its share of sea.
@@ -162,7 +162,7 @@ small hands once held in play.
 He hefted his hammer again;
 he held to their need.
 
-Thrúnvald, thunder keeper,
+Thrunvald, thunder keeper,
 take heed upon the sea.
 Hammer lord, hear me;
 hold those behind me safe.
@@ -216,7 +216,7 @@ Land lengthened from a dark line;
 low roofs rose in sight.
 Faces formed along the shore;
 fear gave way to calling.
-Thrúnvald's chosen champion,
+Thrunvald's chosen champion,
 the people cried together.
 The boat came through the breakers;
 boots found steady earth.
@@ -253,4 +253,4 @@ the sea rolls beyond it.
 
 - [[being-sklfrvthndrstrk|Skalforv Thunderstrike]]
 - [[doc-heroessgrd|Heroes of Asguard]]
-- [[affiliation-thrunvald|Faith of Thrúnvald]]
+- [[affiliation-thrunvald|Faith of Thrunvald]]

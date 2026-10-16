@@ -1,6 +1,6 @@
 ---
 shortcode: lizelas
-name: {full: "Ritual: Lîzêlâs", aliases: [Lîzêlâs, The Nurturer]}
+name: {full: "Ritual: Lizelas", aliases: [Lizelas, The Nurturer]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-lizelas|Faith of Lîzêlâs]]
+See [[affiliation-lizelas|Faith of Lizelas]]

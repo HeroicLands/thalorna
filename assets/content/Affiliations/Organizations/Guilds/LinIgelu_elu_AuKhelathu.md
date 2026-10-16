@@ -1,6 +1,6 @@
 ---
 shortcode: linigelkhlth
-name: {full: Lin'Igelu elu Aû'Khelâthu, aliases: [The Mariners' Guild of Aû'Khelâthu]}
+name: {full: Lin'Igelu elu Au'Khelathu, aliases: [The Mariners' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered body of the empire's rivermen and sea-captains, setting the standards of seamanship and the safety of cargo, and speaking for its members against the merchant houses
@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Igelu elu Aû'Khelâthu** is the guild of the rivermen and sea-captains of [[place-aukhelathrgq|Aû'Khelâthu]], open to any master who meets its standard of seamanship. Its charter tells a cargo-owner that a master has been examined, and it gives the master a body to argue for him against the merchant house that hired him. The guild also sets the safety requirements cargo must meet before a vessel carries it.
+**Lin'Igelu elu Au'Khelathu** is the guild of the rivermen and sea-captains of [[place-aukhelathrgq|Au'Khelathu]], open to any master who meets its standard of seamanship. Its charter tells a cargo-owner that a master has been examined, and it gives the master a body to argue for him against the merchant house that hired him. The guild also sets the safety requirements cargo must meet before a vessel carries it.
 
 ## Character
 
@@ -56,5 +56,5 @@ Say a house sends forty sacks of grain downriver and two arrive wet. The owner g
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire whose rivers and seas its members work
+- [[place-aukhelathrgq|Au'Khelathu]]—The empire whose rivers and seas its members work
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

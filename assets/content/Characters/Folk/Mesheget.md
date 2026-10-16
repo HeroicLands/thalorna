@@ -36,4 +36,4 @@ Mesheget is a 55-year-old woman who stands 6'3" tall with a massive build. She h
 
 # Dossier {#dossier}
 
-Mesheget holds standing as a Zabet, wife to a commander, home in [[place-anlaghzetun|Anlagh-Zetûn]]. She advances her family's interests through work of her own rather than through her husband's position alone. Anyone assuming the commander's wife has no independent reach has misjudged her.
+Mesheget holds standing as a Zabet, wife to a commander, home in [[place-anlaghzetun|Anlagh-Zetun]]. She advances her family's interests through work of her own rather than through her husband's position alone. Anyone assuming the commander's wife has no independent reach has misjudged her.

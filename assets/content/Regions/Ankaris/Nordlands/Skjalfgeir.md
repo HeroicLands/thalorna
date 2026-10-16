@@ -1,20 +1,20 @@
 ---
 shortcode: skjalfgeir
-name: {full: Skjálfgeir, aliases: []}
+name: {full: Skjalfgeir, aliases: []}
 type: lore
 subType: theology
-description: "Ódvar’s legendary spear, depicted as never missing its mark and signifying precision and authority."
+description: "Odvar’s legendary spear, depicted as never missing its mark and signifying precision and authority."
 tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-A spear that never misses leaves one question, and that is who throws it. **Skjálfgeir** is the spear of [[lore-odvardty|Ódvar]], and the [[affiliation-odvar|faith]] depicts the god holding a weapon that never misses its mark. The hall reads the spear as a sign of his precision and authority.
+A spear that never misses leaves one question, and that is who throws it. **Skjalfgeir** is the spear of [[lore-odvardty|Odvar]], and the [[affiliation-odvar|faith]] depicts the god holding a weapon that never misses its mark. The hall reads the spear as a sign of his precision and authority.
 
-A relic called **Skjálfgeir's Echo** is described as a fragment of the spear. The faithful believe it grants its bearer the same precision and authority in combat and in leadership, and that power remains a belief of the faithful.
+A relic called **Skjalfgeir's Echo** is described as a fragment of the spear. The faithful believe it grants its bearer the same precision and authority in combat and in leadership, and that power remains a belief of the faithful.
 
 ## The Mark and the Knowing
 
-A rune-hall recitation praises Skjálfgeir as the All-Father's sign of precision and authority, then carries that praise into the shadow of [[lore-aldarlok|Aldarlok]].
+A rune-hall recitation praises Skjalfgeir as the All-Father's sign of precision and authority, then carries that praise into the shadow of [[lore-aldarlok|Aldarlok]].
 
 : The Mark and the Knowing
 
@@ -23,12 +23,12 @@ Come to the benches' warmth;
 black sea moves beyond hearing.
 Stars sharpen above the snow;
 shore roads vanish beneath whiteness.
-Ódholm's stone holds northern cold;
+Odholm's stone holds northern cold;
 old ravens fold their wings.
 Fire finds the gathered faces;
 faint light gathers on cups.
 Speak the spear's straight name;
-Skjálfgeir, clear in our singing.
+Skjalfgeir, clear in our singing.
 
 The All-Father stands in praise;
 a single eye sees outward.
@@ -129,7 +129,7 @@ faint breath passes the doorway.
 Someone walks beyond this warmth;
 someone shall bear his answer.
 
-Skjálfgeir's Echo enters the praise;
+Skjalfgeir's Echo enters the praise;
 spear-fragment, the faithful name it.
 They believe its bearer gains
 bright precision beyond all others.
@@ -175,7 +175,7 @@ right purpose must walk there.
 
 Far lies the final field;
 fire gathers beyond the horizon.
-Vígvöll waits for the muster;
+Vigvoll waits for the muster;
 vast doom lies before it.
 Wolf breaks its binding chain;
 wisdom knows whom it takes.
@@ -217,7 +217,7 @@ yesterday walks beside his morning.
 Longer shall his eyes look;
 lives weigh within his choosing.
 
-Skjálfgeir, clear in our singing;
+Skjalfgeir, clear in our singing;
 straight name amid branching ways.
 Precision bears the god's praise;
 power bears the lord's authority.

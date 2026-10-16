@@ -1,6 +1,6 @@
 ---
 shortcode: thalrkhlrn
-name: {full: Thálrik Hálren, aliases: []}
+name: {full: Thalrik Halren, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -392,23 +392,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Thálrik Hálren is a 46-year-old man who stands 6'5" tall and is broad and solidly built. He has an angular face with high cheekbones, a broad forehead, and a sharp jaw that leads to a delicate chin. His large green eyes sit beneath thin brows and give him an expressive gaze. He has a slightly upturned nose and full lips. He has pale skin with a flawless complexion. His blonde hair is long and gathered with a leather thong.
+Thalrik Halren is a 46-year-old man who stands 6'5" tall and is broad and solidly built. He has an angular face with high cheekbones, a broad forehead, and a sharp jaw that leads to a delicate chin. His large green eyes sit beneath thin brows and give him an expressive gaze. He has a slightly upturned nose and full lips. He has pale skin with a flawless complexion. His blonde hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 
-Thálrik Hálren is a woodcutter of Port Aelion, on the coast of [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the wooded slopes above the harbor since he was a boy.
+Thalrik Halren is a woodcutter of Port Aelion, on the coast of [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the wooded slopes above the harbor since he was a boy.
 
-Thálrik cuts under license, as every Élavendri woodcutter does. The Crown's forest court at Liranel issues the licenses, and above the licensed belt the old forest begins, which the Wardens patrol and nobody cuts. He has spent thirty years learning exactly where that line runs and which trees on his side of it can be taken without harming the stand, and the carpenters and shipwrights of Port Aelion have learned that a Hálren load is sound timber, honestly measured. He works alone by choice.
+Thalrik cuts under license, as every Élavendri woodcutter does. The Crown's forest court at Liranel issues the licenses, and above the licensed belt the old forest begins, which the Wardens patrol and nobody cuts. He has spent thirty years learning exactly where that line runs and which trees on his side of it can be taken without harming the stand, and the carpenters and shipwrights of Port Aelion have learned that a Halren load is sound timber, honestly measured. He works alone by choice.
 
 ## Psyche
 
 ### Personality
 
-Thálrik is gruff and short-spoken, and easier with trees than with people. He does not mean to intimidate, but he is a very large man who does not smile, and villagers who do not know him keep their distance.
+Thalrik is gruff and short-spoken, and easier with trees than with people. He does not mean to intimidate, but he is a very large man who does not smile, and villagers who do not know him keep their distance.
 
 ### Motivation
 
-Thálrik wants the solitude of the wood, and he wants the wood still standing when he is gone. He will not fell a tree the stand cannot spare, whoever is paying.
+Thalrik wants the solitude of the wood, and he wants the wood still standing when he is gone. He will not fell a tree the stand cannot spare, whoever is paying.
 
 ### Strengths
 
@@ -416,24 +416,24 @@ Physically strong, experienced in forestry, knowledgeable about which trees to f
 
 ## Social
 
-Thálrik belongs to the Woodcutters' Guild, which holds his license and settles his disputes. He keeps a hut above Port Aelion rather than a house in it.
+Thalrik belongs to the Woodcutters' Guild, which holds his license and settles his disputes. He keeps a hut above Port Aelion rather than a house in it.
 
 ## Companions
 
 ### Patrons
 
-Thálrik's patrons are the carpenters and shipwrights of Port Aelion, who rely on him for sound oak and ash.
+Thalrik's patrons are the carpenters and shipwrights of Port Aelion, who rely on him for sound oak and ash.
 
 ### Enemies
 
-Cutting crews that work past the license line and find Thálrik between them and the trees they wanted.
+Cutting crews that work past the license line and find Thalrik between them and the trees they wanted.
 
 ## Plot Hooks
 
-1. **The Stand He Will Not Fell**—A shipwright with a keel to lay wants a stand of old oak that Thálrik has license to cut and refuses to. He will pay anyone who can persuade him, or anyone who will fell it in his place.
+1. **The Stand He Will Not Fell**—A shipwright with a keel to lay wants a stand of old oak that Thalrik has license to cut and refuses to. He will pay anyone who can persuade him, or anyone who will fell it in his place.
 
-2. **The Line**—A crew from up the coast has been cutting past the line into Warden country and hauling the timber out through Thálrik's slopes. They want his silence, and they are prepared to pay for it or arrange it.
+2. **The Line**—A crew from up the coast has been cutting past the line into Warden country and hauling the timber out through Thalrik's slopes. They want his silence, and they are prepared to pay for it or arrange it.
 
-3. **A License Refused**—The forest court has declined to renew Thálrik's license for the slope he has worked for thirty years, without saying why. Someone with more influence wants that ground.
+3. **A License Refused**—The forest court has declined to renew Thalrik's license for the slope he has worked for thirty years, without saying why. Someone with more influence wants that ground.
 
-4. **Lost in the Wood**—A child from Port Aelion has gone into the wood and not come out. Thálrik is the only man who knows those slopes well enough to search them in the dark, and the only one the family has not thought to ask.
+4. **Lost in the Wood**—A child from Port Aelion has gone into the wood and not come out. Thalrik is the only man who knows those slopes well enough to search them in the dark, and the only one the family has not thought to ask.

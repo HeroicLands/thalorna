@@ -1,6 +1,6 @@
 ---
 shortcode: odvar
-name: {full: "Ritual: Ódvar", aliases: [The Enlightened Path]}
+name: {full: "Ritual: Odvar", aliases: [The Enlightened Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-odvar|Faith of Ódvar]]
+See [[affiliation-odvar|Faith of Odvar]]

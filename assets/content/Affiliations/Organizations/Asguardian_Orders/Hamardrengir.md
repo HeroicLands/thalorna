@@ -3,7 +3,7 @@ shortcode: hamardrengir
 name: {full: "Hamardrengir", aliases: []}
 type: affiliation
 subType: order
-description: "Thrúnvald's fighting order of hammer-warriors."
+description: "Thrunvald's fighting order of hammer-warriors."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
           Cast out of Hamardrengir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
-          Wields a war-hammer in Thrúnvald's name, defending a coastal hof without yet leading its defense.
+          Wields a war-hammer in Thrunvald's name, defending a coastal hov without yet leading its defense.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Leads the order's defense of Thrúnvald's hofs and the ships sailing under his blessing.
+          Leads the order's defense of Thrunvald's hovs and the ships sailing under his blessing.
     offices: {}
   seat: null
   population: null
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-When raiders come to a coastal hof of [[affiliation-thrunvald|Thrúnvald]], the war-hammers that meet them belong to the Hammer of Thrúnvald.
+When raiders come to a coastal hov of [[affiliation-thrunvald|Thrunvald]], the war-hammers that meet them belong to the Hammer of Thrunvald.
 
-Hamardrengir are the faith's fighting order: elite warriors who wield mighty war-hammers and carry the thunder-god's strength into battle. Their members defend his coastal hofs and the ships that sail under his blessing, and stand apart from the ordinary clergy as the faith's answer to raiders and worse.
+Hamardrengir are the faith's fighting order: elite warriors who wield mighty war-hammers and carry the thunder-god's strength into battle. Their members defend his coastal hovs and the ships that sail under his blessing, and stand apart from the ordinary clergy as the faith's answer to raiders and worse.

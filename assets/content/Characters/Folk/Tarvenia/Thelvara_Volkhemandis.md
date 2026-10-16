@@ -1,9 +1,9 @@
 ---
 shortcode: thelvaravolk
-name: {full: Thélvara Volkhemándis, aliases: [Priestess-Keeper Thélvara]}
+name: {full: Thélvara Volkemis, aliases: [Priestess-Keeper Thélvara]}
 type: being
 subType: npc
-description: The keeper of Ólvenía's temple, named in Dómeth Gráveth.
+description: The keeper of Ólvenia's temple, named in Dometh Graveth.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Thélvara Volkhemándis is a 57-year-old woman who stands 5'8" tall with a heavy build. She has light skin, weathered complexion, brown hair, and green eyes.
+Thélvara Volkemis is a 57-year-old woman who stands 5'8" tall with a heavy build. She has light skin, weathered complexion, brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Thélvara Volkhemándis is the priestess-keeper of the temple of Ólvenía. She considers the work of the shipwright [[being-domthgrvth|Dómeth Gráveth]] a form of worship and sees to it that the temple's ships are always commissioned from him.
+Thélvara Volkemis is the priestess-keeper of the temple of Ólvenia. She considers the work of the shipwright [[being-domthgrvth|Dometh Graveth]] a form of worship and sees to it that the temple's ships are always commissioned from him.

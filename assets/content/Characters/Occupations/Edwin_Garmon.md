@@ -1,6 +1,6 @@
 ---
 shortcode: edwingarmn
-name: {full: Edwin Garmon, aliases: []}
+name: {full: Wilwin Garmon, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Edwin Garmon is a 24-year-old man who stands 6'2" tall and is of moderate build. He has a round face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. His piercing brown eyes sit beneath thin brows, lending him a penetrating gaze. A narrow nose and wide lips complete his features. He has light skin with a fair complexion. His dark brown hair is kept practical and short.
+Wilwin Garmon is a 24-year-old man who stands 6'2" tall and is of moderate build. He has a round face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. His piercing brown eyes sit beneath thin brows, lending him a penetrating gaze. A narrow nose and wide lips complete his features. He has light skin with a fair complexion. His dark brown hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edwin Garmon is a huscarl.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Wilwin Garmon is a huscarl.
 
-Edwin is a promising young huscarl serving Lord Ragnar. He trained for years under the watchful eye of seasoned warriors and has a reputation for his quick reflexes and fierce loyalty. Edwin dreams of one day leading his own band of warriors but knows he must first prove himself in battle. He is eager to face challenges head-on and earn glory for his lord.
+Wilwin is a promising young huscarl serving Lord Ragnar. He trained for years under the watchful eye of seasoned warriors and has a reputation for his quick reflexes and fierce loyalty. Wilwin dreams of one day leading his own band of warriors but knows he must first prove himself in battle. He is eager to face challenges head-on and earn glory for his lord.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ Impulsive, inexperienced in large-scale battles.
 
 ### Motivation
 
-Edwin dreams of leading his own band of warriors, and knows he must first prove himself in battle.
+Wilwin dreams of leading his own band of warriors, and knows he must first prove himself in battle.
 
 ### Strengths
 
@@ -416,13 +416,13 @@ Agile and quick, skilled in swordplay, fiercely loyal.
 
 ## Social
 
-Edwin is affiliated with Lord Ragnar's retinue.
+Wilwin is affiliated with Lord Ragnar's retinue.
 
 ## Companions
 
 ### Patrons
 
-Lord Ragnar and his household are Edwin's patrons.
+Lord Ragnar and his household are Wilwin's patrons.
 
 ### Enemies
 
@@ -430,12 +430,12 @@ Rival warriors who see him as a threat.
 
 ## Plot Hooks
 
-1. **The Huscarl's Dilemma**—Edwin faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Huscarl's Dilemma**—Wilwin faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Rival warriors who see him as a threat. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Edwin's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Wilwin's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Edwin depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Wilwin depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Edwin the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Wilwin the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

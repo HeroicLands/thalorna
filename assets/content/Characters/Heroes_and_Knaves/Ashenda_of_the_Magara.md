@@ -1,8 +1,8 @@
 ---
 shortcode: ashendamgr
 name:
-  full: Ashénda of the Magara
-  given: Ashénda
+  full: Ashenda of the Magara
+  given: Ashenda
   clan: Magara
   aliases: [The Spirit Blade Warrior]
 type: being
@@ -427,54 +427,54 @@ sohl:
 
 # Appearance {#appearance}
 
-![[ashendamgr|Ashénda of the Magara]]{float=top-left}
+![[ashendamgr|Ashenda of the Magara]]{float=top-left}
 
-Ashénda stands 5'9" tall with a heavy build. She has dark skin, dark hair, and dark eyes. Her features include a wide face, a wide-nostriled nose, a rounded chin, prominent lips, strong brows.
+Ashenda stands 5'9" tall with a heavy build. She has dark skin, dark hair, and dark eyes. Her features include a wide face, a wide-nostriled nose, a rounded chin, prominent lips, strong brows.
 
-Her most notable feature is the series of tribal markings cut into her skin, starting from the left side of her neck and running down to her arm—swirling patterns that symbolize her bond with the Spirit Blade and the spirits of the Magara. Ashénda wears a simple, sleeveless tunic made of dark leather, leaving her arms bare to display her tribal tattoos. A pair of bracers, inscribed with more spiritual symbols, adorn her wrists, while her legs are clad in flexible but durable leather pants, allowing for swift movement. Her Spirit Blade, sleek and curved with a faint ethereal glow, is always strapped across her back when not in use, its presence a constant reminder of her connection to the spirit realm. Ashénda’s movements are precise and methodical, her posture upright and imposing, as if every step is part of a deliberate, unspoken ritual.
+Her most notable feature is the series of tribal markings cut into her skin, starting from the left side of her neck and running down to her arm—swirling patterns that symbolize her bond with the Spirit Blade and the spirits of the Magara. Ashenda wears a simple, sleeveless tunic made of dark leather, leaving her arms bare to display her tribal tattoos. A pair of bracers, inscribed with more spiritual symbols, adorn her wrists, while her legs are clad in flexible but durable leather pants, allowing for swift movement. Her Spirit Blade, sleek and curved with a faint ethereal glow, is always strapped across her back when not in use, its presence a constant reminder of her connection to the spirit realm. Ashenda’s movements are precise and methodical, her posture upright and imposing, as if every step is part of a deliberate, unspoken ritual.
 
 # Dossier {#dossier}
 
-Ashénda of the Magara is a fierce warrior hailing from the **Magara** people, a neighboring [[affiliation-okharis|Okháris]] tribe known for their martial prowess and connection to spirit weapons. Unlike [[being-kirobashkm|Kiroba]]’s Shókuma tribe, the Magara are more warlike, often engaging in raids and conflicts with other tribes. Ashénda’s upbringing was harsh, trained from a young age to become a guardian of her people. However, it was her spiritual connection to the ancient **Spirit Blade**—a weapon said to be forged with the blessings of the [[lore-zohira|Zohira]]—that set her apart.
+Ashenda of the Magara is a fierce warrior hailing from the **Magara** people, a neighboring [[affiliation-okharis|Okharis]] tribe known for their martial prowess and connection to spirit weapons. Unlike [[being-kirobashkm|Kiroba]]’s Shókuma tribe, the Magara are more warlike, often engaging in raids and conflicts with other tribes. Ashenda’s upbringing was harsh, trained from a young age to become a guardian of her people. However, it was her spiritual connection to the ancient **Spirit Blade**—a weapon said to be forged with the blessings of the [[lore-zohira|Zohira]]—that set her apart.
 
-The Spirit Blade, passed down through the generations, grants its wielder the ability to cut through both physical and spiritual foes. During her initiation, Ashénda was chosen by the blade when it glowed faintly as she touched it, marking her as the rightful bearer. She was tasked with protecting her people from both human invaders and spiritual disturbances. But Ashénda’s destiny became intertwined with [[being-kirobashkm|Kiroba]]’s when her village began suffering from the same spiritual imbalance plaguing Shókuma lands. Spirits became hostile, and crops withered unnaturally. Sensing the need for unity among the tribes, Ashénda joined [[being-kirobashkm|Kiroba]], believing their fates are tied together in restoring the balance.
+The Spirit Blade, passed down through the generations, grants its wielder the ability to cut through both physical and spiritual foes. During her initiation, Ashenda was chosen by the blade when it glowed faintly as she touched it, marking her as the rightful bearer. She was tasked with protecting her people from both human invaders and spiritual disturbances. But Ashenda’s destiny became intertwined with [[being-kirobashkm|Kiroba]]’s when her village began suffering from the same spiritual imbalance plaguing Shókuma lands. Spirits became hostile, and crops withered unnaturally. Sensing the need for unity among the tribes, Ashenda joined [[being-kirobashkm|Kiroba]], believing their fates are tied together in restoring the balance.
 
 ## Background
 
 ### Skills and Abilities
 
-- **Strength**: Ashénda’s physical power is undeniable, allowing her to wield her Spirit Blade with devastating precision and strength.
+- **Strength**: Ashenda’s physical power is undeniable, allowing her to wield her Spirit Blade with devastating precision and strength.
 - **Endurance**: Her training as a warrior and guardian has given her stamina, allowing her to endure long battles and harsh conditions.
-- **Dexterity**: While her strength is her most defining physical trait, Ashénda is also quick and precise, able to land her strikes with accuracy and speed.
-- **Agility**: Though not as nimble as some warriors, Ashénda's movement is deliberate and efficient, allowing her to react swiftly to threats.
-- **Perception**: Ashénda’s connection to the Spirit Blade gives her heightened senses, allowing her to detect both physical and spiritual threats with ease.
-- **Comeliness**: Ashénda’s rugged appearance is not traditionally beautiful, but her strength and confidence give her a powerful presence that commands respect.
+- **Dexterity**: While her strength is her most defining physical trait, Ashenda is also quick and precise, able to land her strikes with accuracy and speed.
+- **Agility**: Though not as nimble as some warriors, Ashenda's movement is deliberate and efficient, allowing her to react swiftly to threats.
+- **Perception**: Ashenda’s connection to the Spirit Blade gives her heightened senses, allowing her to detect both physical and spiritual threats with ease.
+- **Comeliness**: Ashenda’s rugged appearance is not traditionally beautiful, but her strength and confidence give her a powerful presence that commands respect.
 - **Aura**: Her bond with the Spirit Blade and her spiritual training give her a significant presence in the spirit realm, making her a strong force against spiritual enemies.
-- **Will**: Ashénda’s determination is one of her greatest strengths; once she sets her mind to a task, she does not falter, no matter the challenge.
-- **Reasoning**: Ashénda is practical and sensible, often relying on her instincts and training to solve problems in combat, though she is not a strategist like [[being-kirobashkm|Kiroba]].
-- **Creativity**: While she doesn’t rely on creativity in battle, Ashénda’s experience allows her to adapt quickly to new threats and environments.
-- **Empathy**: Ashénda is focused on her duty as a protector, sometimes making her seem distant or unemotional, though she cares deeply for those she protects.
-- **Eloquence**: Ashénda is not one for grand speeches, but when she speaks, her words are calm, measured, and carry the weight of her experience.
-- **Morality**: As a warrior tasked with protecting her people and wielding the Spirit Blade, Ashénda is guided by her culture’s values of strength and loyalty, but she sometimes questions the consequences of her actions.
-- **Voice**: Ashénda’s voice is steady and clear, capable of delivering war chants or spiritual invocations, though not particularly notable for its musical quality.
-- **Spirit Blade Mastery**: Ashénda’s sword can harm spirits and spiritual beings as easily as it cuts through physical foes. Her connection with the blade allows her to sense disturbances in the spiritual realm.
-- **Martial Expertise**: Ashénda is highly trained in both melee and ranged combat, making her a versatile and dangerous fighter in any situation.
-- **Guardian’s Instinct**: Ashénda is fiercely protective of [[being-kirobashkm|Kiroba]] and the group, often acting as the vanguard in combat and shielding them from attacks.
+- **Will**: Ashenda’s determination is one of her greatest strengths; once she sets her mind to a task, she does not falter, no matter the challenge.
+- **Reasoning**: Ashenda is practical and sensible, often relying on her instincts and training to solve problems in combat, though she is not a strategist like [[being-kirobashkm|Kiroba]].
+- **Creativity**: While she doesn’t rely on creativity in battle, Ashenda’s experience allows her to adapt quickly to new threats and environments.
+- **Empathy**: Ashenda is focused on her duty as a protector, sometimes making her seem distant or unemotional, though she cares deeply for those she protects.
+- **Eloquence**: Ashenda is not one for grand speeches, but when she speaks, her words are calm, measured, and carry the weight of her experience.
+- **Morality**: As a warrior tasked with protecting her people and wielding the Spirit Blade, Ashenda is guided by her culture’s values of strength and loyalty, but she sometimes questions the consequences of her actions.
+- **Voice**: Ashenda’s voice is steady and clear, capable of delivering war chants or spiritual invocations, though not particularly notable for its musical quality.
+- **Spirit Blade Mastery**: Ashenda’s sword can harm spirits and spiritual beings as easily as it cuts through physical foes. Her connection with the blade allows her to sense disturbances in the spiritual realm.
+- **Martial Expertise**: Ashenda is highly trained in both melee and ranged combat, making her a versatile and dangerous fighter in any situation.
+- **Guardian’s Instinct**: Ashenda is fiercely protective of [[being-kirobashkm|Kiroba]] and the group, often acting as the vanguard in combat and shielding them from attacks.
 
 ## Psyche
 
 ### Personality
 
-Ashénda is a pragmatic and fearless warrior, with deep loyalty to her people and to the greater good. She is highly protective of [[being-kirobashkm|Kiroba]] and the rest of the group, willing to put herself in harm’s way for their safety. Despite her harsh upbringing, Ashénda has a strong moral compass and a calm demeanor, rarely letting her emotions guide her actions. Her bond with the Spirit Blade makes her sensitive to shifts in the spirit world, and she often has premonitions of danger.
+Ashenda is a pragmatic and fearless warrior, with deep loyalty to her people and to the greater good. She is highly protective of [[being-kirobashkm|Kiroba]] and the rest of the group, willing to put herself in harm’s way for their safety. Despite her harsh upbringing, Ashenda has a strong moral compass and a calm demeanor, rarely letting her emotions guide her actions. Her bond with the Spirit Blade makes her sensitive to shifts in the spirit world, and she often has premonitions of danger.
 
 ## Social
 
 ## Plot Hooks
 
-1. **The Mark of the Blade**: A stranger arrives in Ashénda’s village, bearing scars similar to the glowing runes on Ashénda’s Spirit Blade. The stranger claims to be a descendant of the blade’s original forger and warns of a curse tied to its power. To prevent the curse from spreading, Ashénda must seek the Blade’s Forge, a mythical site deep within enemy-controlled lands, and uncover the truth of its creation.
+1. **The Mark of the Blade**: A stranger arrives in Ashenda’s village, bearing scars similar to the glowing runes on Ashenda’s Spirit Blade. The stranger claims to be a descendant of the blade’s original forger and warns of a curse tied to its power. To prevent the curse from spreading, Ashenda must seek the Blade’s Forge, a mythical site deep within enemy-controlled lands, and uncover the truth of its creation.
 
-2. **The Warlord’s Challenge**: A warlord from a rival tribe challenges Ashénda, claiming she is unworthy to wield the Spirit Blade. The warlord possesses a spirit weapon of their own and insists on a duel to prove their superiority. However, the duel is part of a larger plot to destabilize the alliances Ashénda has helped form. She must not only win the duel but also uncover and thwart the warlord’s broader scheme.
+2. **The Warlord’s Challenge**: A warlord from a rival tribe challenges Ashenda, claiming she is unworthy to wield the Spirit Blade. The warlord possesses a spirit weapon of their own and insists on a duel to prove their superiority. However, the duel is part of a larger plot to destabilize the alliances Ashenda has helped form. She must not only win the duel but also uncover and thwart the warlord’s broader scheme.
 
-3. **The Fading Glow**: Ashénda notices the Spirit Blade’s ethereal glow beginning to dim, a sign that her connection to the blade—and the spirits—may be weakening. Her tribe’s elder shamans warn that the imbalance in the spirit world is affecting her bond with the blade. To restore its power, Ashénda embarks on a journey to the Spirit Nexus, an ancient site said to bridge the realms of spirits and mortals.
+3. **The Fading Glow**: Ashenda notices the Spirit Blade’s ethereal glow beginning to dim, a sign that her connection to the blade—and the spirits—may be weakening. Her tribe’s elder shamans warn that the imbalance in the spirit world is affecting her bond with the blade. To restore its power, Ashenda embarks on a journey to the Spirit Nexus, an ancient site said to bridge the realms of spirits and mortals.
 
-4. **The Hostile Alliance**: The spiritual disturbances plaguing Ashénda’s village worsen when a nearby tribe, known for their hostility, accuses her people of angering the Zohira spirits. Ashénda must lead a diplomatic mission to ease tensions, but her efforts are hindered by a faction within her own tribe that believes war is the only solution. Balancing diplomacy with her warrior instincts becomes a test of her leadership and resolve.
+4. **The Hostile Alliance**: The spiritual disturbances plaguing Ashenda’s village worsen when a nearby tribe, known for their hostility, accuses her people of angering the Zohira spirits. Ashenda must lead a diplomatic mission to ease tensions, but her efforts are hindered by a faction within her own tribe that believes war is the only solution. Balancing diplomacy with her warrior instincts becomes a test of her leadership and resolve.

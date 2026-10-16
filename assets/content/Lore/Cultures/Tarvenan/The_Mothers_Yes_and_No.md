@@ -20,7 +20,7 @@ data:
 # terran_analog: "The Basque goddess Mari and the tales told of her: a mother who lives in the mountain caves and crosses between peaks as fire, sends the hail, punishes the lie and the broken word, is answered plainly and never sat before, and is left by walking out facing her; with the boundary stone sworn upon, and the end of the world held back while the custom is kept."
 ---
 
-**The Mother's Yes and No** is the winter tale the wise-women, the _tsingárra_, tell in the mountain villages of [[lore-tarvenanclt|Tarvénia]] of the Mother, _menútsa_, who is kept in the caves under the gods of the pantheon. It is told at the hearth in the long nights after the flocks are down, to children and to anyone else who stays up, and it is the account the high valleys give of three things: where the mountains came from, why a Tarvénan swears on a stone and not on a book, and when the world ends.
+**The Mother's Yes and No** is the winter tale the wise-women, the _tsingarra_, tell in the mountain villages of [[lore-tarvenanclt|Tarvénia]] of the Mother, _menutsa_, who is kept in the caves under the gods of the pantheon. It is told at the hearth in the long nights after the flocks are down, to children and to anyone else who stays up, and it is the account the high valleys give of three things: where the mountains came from, why a Tarvenan swears on a stone and not on a book, and when the world ends.
 
 It is told in prose, in the teller's own voice, with the Mother's words said exactly, because she has only two. The tale names no one. The two shepherds are the shepherd of the east side and the shepherd of the west side, and the son is the son. A wise-woman who is asked their names gives the same answer every time, and it is the tale's own: the Mother did not ask them, so the tale does not.
 
@@ -120,7 +120,7 @@ So they carried it out. Now, how did they carry it out, and come out facing her?
 
 They set it on the line. They put their hands on it, both of them together, and they said the bargain again, the whole of it, from _the east side has the spring_ to _neither of us builds a wall_. And the stone was cold under their hands. And nothing else happened. It didn't need to.
 
-That's the first stone. That's the oath stone, the _goitsára_. Every one you've seen, the one in the fair's yard, the one at the head of this valley by the shrine, the one the companies swear their contracts on before they go down to the lowlands, every one of them is a piece of her. That's why you put your hand on it. You're putting your hand on her. And whatever you say there, you're saying in her cave, whether you can see the dark or not.
+That's the first stone. That's the oath stone, the _goitsara_. Every one you've seen, the one in the fair's yard, the one at the head of this valley by the shrine, the one the companies swear their contracts on before they go down to the lowlands, every one of them is a piece of her. That's why you put your hand on it. You're putting your hand on her. And whatever you say there, you're saying in her cave, whether you can see the dark or not.
 
 **The son.** Now you think that's the end. It isn't. It's never the end with a stone.
 
@@ -196,8 +196,8 @@ Bed.
 
 ## See Also
 
-- [[lore-tarvenanclt|Tarvénan]]—the Mother, her caves and wise-women, the oath stone and the hail
-- [[affiliation-lusinia|Faith of Lúsinía]]—the World-Weaver and her wheel
-- [[affiliation-brazemas|Faith of Brâzêmâs]]—the Thunderer and the Vigil on the high places
+- [[lore-tarvenanclt|Tarvenan]]—the Mother, her caves and wise-women, the oath stone and the hail
+- [[affiliation-lusinia|Faith of Lusinia]]—the World-Weaver and her wheel
+- [[affiliation-brazemas|Faith of Brazemas]]—the Thunderer and the Vigil on the high places
 - [[affiliation-ardavon|Faith of Árdavon]]—the god of gates and oaths, and his two faces
 - [[lore-pelwarmigr|The Pelwar Migration]]—the people who came over the mountains from the east

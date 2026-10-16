@@ -1,9 +1,9 @@
 ---
 shortcode: gldbrdshmlr
-name: {full: Guild Board of Shamûlar, aliases: []}
+name: {full: Guild Board of Shamular, aliases: []}
 type: affiliation
 subType: polity
-description: "The guild families who govern the merchant town of Shamûlar."
+description: "The guild families who govern the merchant town of Shamular."
 tags: [draft]
 data:
   templatePriority: null
@@ -22,7 +22,7 @@ data:
       - level: 1
         title: Resident
         description: >-
-          Lives in Shamûlar under its guild families.
+          Lives in Shamular under its guild families.
     offices: {}
   seat: shamular
   population: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-The **Guild Board of Shamûlar** is the body of the guild families of [[place-shamular|Shamûlar]], a merchant town of the [[place-taruzelrgn|Tarûzel Region]].
+The **Guild Board of Shamular** is the body of the guild families of [[place-shamular|Shamular]], a merchant town of the [[place-taruzelrgn|Taruzel Region]].

@@ -1,9 +1,9 @@
 ---
 shortcode: knirvthannth
-name: {full: Knirvthann Thulmarukh, aliases: [Lord Knirvthann Thulmarukh]}
+name: {full: Knirvthann Thulmaruk, aliases: [Lord Knirvthann Thulmaruk]}
 type: being
 subType: npc
-description: Duke of the Southern Marches, a nobleman whose secret ambitions the jester Anthorv Ásgrind publicly mocked.
+description: Duke of the Southern Marches, a nobleman whose secret ambitions the jester Anthorv Asgrind publicly mocked.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Knirvthann Thulmarukh is a 43-year-old man who stands 6'2" tall with a medium build. He has pale skin, ruddy complexion, dark blonde hair, and blue eyes.
+Knirvthann Thulmaruk is a 43-year-old man who stands 6'2" tall with a medium build. He has pale skin, ruddy complexion, dark blonde hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Knirvthann Thulmarukh is the duke of the Southern Marches, a nobleman whose secret ambitions the jester [[being-anthrvasgrnd|Anthorv Ásgrind]] publicly mocked. The mockery came through elaborate theatrical sequences.
+Knirvthann Thulmaruk is the duke of the Southern Marches, a nobleman whose secret ambitions the jester [[being-anthrvasgrnd|Anthorv Asgrind]] publicly mocked. The mockery came through elaborate theatrical sequences.

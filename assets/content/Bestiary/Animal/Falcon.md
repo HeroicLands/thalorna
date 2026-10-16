@@ -235,7 +235,7 @@ A dark speck hangs in the wind a long way above the field, hardly moving. A floc
 
 # Dossier {#dossier}
 
-The Falcon is the fast raptor of the middle air, a foot and a half tall, striking birds in flight in a vertical dive. It nests on crags and rock faces in [[place-vrystwald|Vrystwald]], on the cliffs above the [[place-falkhaven|Falkhaven]] shore, in the [[place-graznmntns|Grazian range]] and along the desert edge of [[place-aukhelathrgq|Aû'Khelâthu]]. A pair hunts the open country below its ledge. Nobles and the desert hunters keep trained falcons.
+The Falcon is the fast raptor of the middle air, a foot and a half tall, striking birds in flight in a vertical dive. It nests on crags and rock faces in [[place-vrystwald|Vristwald]], on the cliffs above the [[place-falkhaven|Falkhaven]] shore, in the [[place-graznmntns|Grazian range]] and along the desert edge of [[place-aukhelathrgq|Au'Khelathu]]. A pair hunts the open country below its ledge. Nobles and the desert hunters keep trained falcons.
 
 ## Presentation
 
@@ -243,7 +243,7 @@ A small, compact raptor, all muscle under fine plumage, dark steel-blue on the b
 
 ## In the Land
 
-Falcons nest on crags and rock faces in [[place-vrystwald|Vrystwald]], the cliffs above the [[place-falkhaven|Falkhaven]] shore, the mountains of the [[place-graznmntns|Grazian range]] and the desert edge of [[place-aukhelathrgq|Aû'Khelâthu]]. A pair uses one ledge year after year and hunts the open country below it for birds. A falcon watches from a high perch or from the air, folds its wings, and drops on a bird in flight. In winter it follows the flocks of waterbirds down to the marshes and the coast.
+Falcons nest on crags and rock faces in [[place-vrystwald|Vristwald]], the cliffs above the [[place-falkhaven|Falkhaven]] shore, the mountains of the [[place-graznmntns|Grazian range]] and the desert edge of [[place-aukhelathrgq|Au'Khelathu]]. A pair uses one ledge year after year and hunts the open country below it for birds. A falcon watches from a high perch or from the air, folds its wings, and drops on a bird in flight. In winter it follows the flocks of waterbirds down to the marshes and the coast.
 
 ## Key Behaviors
 
@@ -251,7 +251,7 @@ Falcons live alone and hold their hunting ground fiercely. They hunt on the wing
 
 ## What the Falconers Do
 
-The falcon is the wesk of Vrystwald villages such as Rádstein and Falkrýth, and Falkenstein takes its name and its totem from the falcon that nests on the crag the fort is cut into. In Aû'Khelâthu the hunters of the desert edge take nestlings and passage-birds for the nobles, and the Guiding Falcon, [[lore-gewaatisdty|Gewa'âtis]], is the god of travelers and voyages. The lords of the Byzarian March fly hawks and falcons with hounds and coursing cats. A trained falcon is carried hooded on the fist, flown at a flushed bird and called back to a lure.
+The falcon is the wesk of Vristwald villages such as Radstein and Falkreth, and Falkenstein takes its name and its totem from the falcon that nests on the crag the fort is cut into. In Au'Khelathu the hunters of the desert edge take nestlings and passage-birds for the nobles, and the Guiding Falcon, [[lore-gewaatisdty|Gewa'atis]], is the god of travelers and voyages. The lords of the Bizarian March fly hawks and falcons with hounds and coursing cats. A trained falcon is carried hooded on the fist, flown at a flushed bird and called back to a lure.
 
 ## Signs
 

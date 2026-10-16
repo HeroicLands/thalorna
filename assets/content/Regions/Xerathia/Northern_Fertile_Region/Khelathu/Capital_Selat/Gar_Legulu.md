@@ -28,4 +28,4 @@ Its streets hold the estate-stewards and tally-scribes who run the holdings, the
 - [[affiliation-capitalselat|The Capital Selat]]—Parent selat
 - [[place-galezkara|Galezkara]]—The imperial city it serves
 - [[place-zelgeru|The Zelgeru]]—The temple-estates of the empire
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview

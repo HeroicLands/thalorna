@@ -3,7 +3,7 @@ shortcode: cnclkstrsh
 name: {full: Council of Kostaros Harbor, aliases: []}
 type: affiliation
 subType: polity
-description: "The governing council of the daughter-port of Kostaros on the coast of Byzaría."
+description: "The governing council of the daughter-port of Kostaros on the coast of Bizaria."
 tags: [draft]
 data:
   templatePriority: null
@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The **Council of Kostaros Harbor** governs [[place-kostaros|Kostaros]], one of the lesser harbors of the [[place-byzariargn|Byzaría]] coast and the daughter-port of the Helionite city-state [[affiliation-kostaros2|Kostaros]].
+The **Council of Kostaros Harbor** governs [[place-kostaros|Kostaros]], one of the lesser harbors of the [[place-byzariargn|Bizaria]] coast and the daughter-port of the Helionite city-state [[affiliation-kostaros2|Kostaros]].

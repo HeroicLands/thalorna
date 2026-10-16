@@ -3,7 +3,7 @@ shortcode: legionsroad
 name: {full: The Legions' Road, aliases: [The Friendly Chiefs, The Posts Given Up]}
 type: lore
 subType: history
-description: "From about 120 AF the Vylarian Empire cut a road north out of Moktur into the Vrystwald and raised forward posts along it; it bought the War Chiefs nearest the road about 200–260, lost a legion at Skathhreth in 291, and gave the posts up about 340, and the road is the Blackpine Wolves' hunting ground now."
+description: "From about 120 AF the Vylarian Empire cut a road north out of Moktur into the Vristwald and raised forward posts along it; it bought the War Chiefs nearest the road about 200–260, lost a legion at Skathhreth in 291, and gave the posts up about 340, and the road is the Blackpine Wolves' hunting ground now."
 tags: [history]
 data:
   culture: varokhiclt
@@ -50,7 +50,7 @@ data:
       stated: {calendar: wintertally, text: "81 LR"}
       sources: [affiliation-provncmktr, place-pinnhald, place-stennvold, affiliation-vrystwldtrbs]
       summary: >-
-        Moktur's thêrkhoi buy the War Chiefs of the villages nearest the road with iron and silver and call them allies. Hildulf yra Theódhild wur Balthrýth takes the thêrkhôs's gift and moves his kindred south of the highlands onto land the Empire gives them; his village's elders withdraw their support and acclaim another War Chief, and he goes south a man without a village. The kindreds who went with the friendly chiefs are the Varokh of Moktur now.
+        Moktur's therkoi buy the War Chiefs of the villages nearest the road with iron and silver and call them allies. Vristulf yra Theodhild wur Balthreth takes the therkos's gift and moves his kindred south of the highlands onto land the Empire gives them; his village's elders withdraw their support and acclaim another War Chief, and he goes south a man without a village. The kindreds who went with the friendly chiefs are the Varokh of Moktur now.
       standing: attested
       names: [{name: the Friendly Chiefs, by: affiliation-provncmktr}]
       where:
@@ -74,7 +74,7 @@ data:
           withholds: that the chiefs were bought, and that their villages did not go with them
         - by: lore-varokhiclt
           says: >-
-            A War Chief who takes from strangers to rule his kin has no seat to sell, and Hildulf found that out on the road south.
+            A War Chief who takes from strangers to rule his kin has no seat to sell, and Vristulf found that out on the road south.
           agrees: disputes
       unresolved: []
     - id: posts
@@ -107,19 +107,19 @@ data:
       unresolved: ["whether any post was handed over rather than burned, and to whom"]
 ---
 
-A Varokh in [[place-vandstein|Vandstein]] who wants to say that a thing is foreign and will not last calls it "a milestone". The road the milestones stand beside is the **Legions' Road**, and it is the only road anyone ever built in [[place-vrystwald|Vrystwald]]. It ran north out of [[place-moktur|Moktur]] for a hundred and sixty years and then stopped running, and every Vylarian ruin in the southern woods stands on it.
+A Varokh in [[place-vandstein|Vandstein]] who wants to say that a thing is foreign and will not last calls it "a milestone". The road the milestones stand beside is the **Legions' Road**, and it is the only road anyone ever built in [[place-vrystwald|Vristwald]]. It ran north out of [[place-moktur|Moktur]] for a hundred and sixty years and then stopped running, and every Vylarian ruin in the southern woods stands on it.
 
 ## The Road Comes North
 
-About 120 AF the [[affiliation-vylarinmpr|Empire]] at its height cut a road north out of Moktur over the Vandstein highlands, aimed at the river crossing at [[place-waldburg|Waldburg]]. Its engineers raised a chain of timber-and-stone forward posts beside it, each a day's march from the last, and set a milestone at every mile. Vylarian coin came up the road with the garrisons and stayed in the forest when the garrisons went back down it, which is why the elthêzâs is the money of Vrystwald to this day.
+About 120 AF the [[affiliation-vylarinmpr|Empire]] at its height cut a road north out of Moktur over the Vandstein highlands, aimed at the river crossing at [[place-waldburg|Waldburg]]. Its engineers raised a chain of timber-and-stone forward posts beside it, each a day's march from the last, and set a milestone at every mile. Vylarian coin came up the road with the garrisons and stayed in the forest when the garrisons went back down it, which is why the ethla is the money of Vristwald to this day.
 
 The road went where the engineers wanted except in one place. At [[place-frodhaven|Fródhaven]] it bends around a sacred shelter of the Varokh village there, and the bend is still in the ruts. The village tells it as the one time the legions were made to ask, and the tellings disagree about what the village was paid.
 
 ## The Friendly Chiefs
 
-From about 200 the _thêrkhoi_ (governors) of the [[affiliation-provncmktr|Province of Moktur]] tried a cheaper way of holding the road than garrisons. They bought the War Chiefs of the villages nearest it with iron and silver, called them allies, and offered good land south of the highlands to any who would bring their people. The best remembered is **Hildulf yra Theódhild wur Balthrýth**, War Chief of Balthrýth, who took the _thêrkhôs_'s gift and led his kindred south over the passes. His village's elders did not go with him. They withdrew their support from him, as a village may, and acclaimed another War Chief from the Hródthúl who had stayed. Hildulf went south a man without a village, and the kindreds who followed him and the others like him are the [[lore-varokhiclt|Varokh]] communities that sit inside Moktur's border now, the half-Varokh blood of [[place-pinnhald|Pinnhald]] and [[place-stennvold|Stennvold]].
+From about 200 the _therkoi_ (governors) of the [[affiliation-provncmktr|Province of Moktur]] tried a cheaper way of holding the road than garrisons. They bought the War Chiefs of the villages nearest it with iron and silver, called them allies, and offered good land south of the highlands to any who would bring their people. The best remembered is **Vristulf yra Theodhild wur Balthreth**, War Chief of Balthreth, who took the _therkos_'s gift and led his kindred south over the passes. His village's elders did not go with him. They withdrew their support from him, as a village may, and acclaimed another War Chief from the Hrodthúl who had stayed. Vristulf went south a man without a village, and the kindreds who followed him and the others like him are the [[lore-varokhiclt|Varokh]] communities that sit inside Moktur's border now, the half-Varokh blood of [[place-pinnhald|Pinnhald]] and [[place-stennvold|Stennvold]].
 
-Balthrýth's pass scouts will not serve a foreign claimant, and they say so before they are asked. The forest's contempt for an office used to take from kin is older than Hildulf, but he is the man the reciters name when they explain it.
+Balthreth's pass scouts will not serve a foreign claimant, and they say so before they are asked. The forest's contempt for an office used to take from kin is older than Vristulf, but he is the man the reciters name when they explain it.
 
 ## The Posts Given Up
 
@@ -128,7 +128,7 @@ The road could carry a legion north, and in 291 one marched up it to burn Waldbu
 ## What It Left
 
 - **The road.** Overgrown and broken, its bridges gone to the rivers, its ruts still legible under the moss where the ground is dry. The [[affiliation-blckpnwlvs|Blackpine Wolves]] hunt travelers on a stretch of it north of the Vylarian border garrison, among milestones that still count miles to a crossing no legion reached.
-- **The posts.** Stone shells in the southern woods, picked over by generations of Varokh treasure-hunters. [[place-thrastein|Thrástein]]'s standing stone watches one, and a Vylarian claimant is presently trying to buy the ground under it; [[place-rikstein|Ríkstein]]'s ruined tower tempts outsiders to claim the ground around it.
+- **The posts.** Stone shells in the southern woods, picked over by generations of Varokh treasure-hunters. [[place-thrastein|Thrastein]]'s standing stone watches one, and a Vylarian claimant is presently trying to buy the ground under it; [[place-rikstein|Rikstein]]'s ruined tower tempts outsiders to claim the ground around it.
 - **The Varokh of Moktur.** Kindreds a village disowned, living on the Empire's land under the Empire's lords, and still Varokh in speech and in their totems.
 - **Vylarian coin.** The forest's money, which nobody in the forest has ever been taxed in.
 

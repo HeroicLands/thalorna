@@ -213,7 +213,7 @@ The fowler's boat is drawn up on the mud at the edge of the reeds, and the water
 
 # Dossier {#dossier}
 
-The Ridged Skimmer is a long-necked, long-tailed river predator of the [[place-zumeleshrvr|Zumélesh]] marshes, six to eight feet in the body with a tail as long again, lean and light for its length, built to lie submerged at the edge of the reeds and strike up and out of the water. It eats fish and waterfowl mostly, and takes goats, dogs, children and fowlers when they come to the water's edge. It lies up in the marshes of the delta and the flood-basins of the upper river, and its home ground is the eastern marsh of [[place-luttjelskslt|Lut-Tjelsur]], among the reed-beds that the river-beast hunters work. It is a smaller danger than the crocodile, and a more sudden one, and it has no god to protect it.
+The Ridged Skimmer is a long-necked, long-tailed river predator of the [[place-zumeleshrvr|Zumelesh]] marshes, six to eight feet in the body with a tail as long again, lean and light for its length, built to lie submerged at the edge of the reeds and strike up and out of the water. It eats fish and waterfowl mostly, and takes goats, dogs, children and fowlers when they come to the water's edge. It lies up in the marshes of the delta and the flood-basins of the upper river, and its home ground is the eastern marsh of [[place-luttjelskslt|Lut-Tjelsur]], among the reed-beds that the river-beast hunters work. It is a smaller danger than the crocodile, and a more sudden one, and it has no god to protect it.
 
 ## Presentation
 
@@ -221,7 +221,7 @@ A ridged skimmer is dark green above, mottled with brown, and pale yellowish ben
 
 ## In the Land
 
-Skimmers live along the whole navigable Zumélesh wherever there is a reed margin, slow water and fish: in the backwaters and canals of the upper river, the flooded basin of [[place-gadjumuluslt|Gadju-Mûlu]], and above all the delta marshes, where the reed-beds run for miles and the channels change every flood. They are commonest in the eastern marsh round Lut-Tjelsur. Each skimmer keeps a stretch of reed-edge and channel that it hunts every day and fights other skimmers off. They follow the flood out over the fields when the river rises, and are found in irrigation canals and village ponds far from the main channel, and they go back to the reed-beds as the water drops. In the dry season they crowd into the deeper channels and are most dangerous then.
+Skimmers live along the whole navigable Zumelesh wherever there is a reed margin, slow water and fish: in the backwaters and canals of the upper river, the flooded basin of [[place-gadjumuluslt|Gadju-Mulu]], and above all the delta marshes, where the reed-beds run for miles and the channels change every flood. They are commonest in the eastern marsh round Lut-Tjelsur. Each skimmer keeps a stretch of reed-edge and channel that it hunts every day and fights other skimmers off. They follow the flood out over the fields when the river rises, and are found in irrigation canals and village ponds far from the main channel, and they go back to the reed-beds as the water drops. In the dry season they crowd into the deeper channels and are most dangerous then.
 
 ## Key Behaviors
 

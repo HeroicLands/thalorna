@@ -3,7 +3,7 @@ shortcode: hrafnrun
 name: {full: "Hrafnrún", aliases: []}
 type: affiliation
 subType: order
-description: "Rune-lore and divination in Ódvar's service."
+description: "Rune-lore and divination in Odvar's service."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
           Cast out of Hrafnrún, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
-          Studies rune-lore and divination under a rune-hall's godi, holding no further claim on the hall's counsel.
+          Studies rune-lore and divination under a rune-hall's gudi, holding no further claim on the hall's counsel.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Leads the order's rune-study and is Ódvar's senior seer and advisor where called.
+          Leads the order's rune-study and is Odvar's senior seer and advisor where called.
     offices: {}
   seat: null
   population: null
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A blót asks the gods for a good year; it does not tell a warband whether to sail this week. For that, send for a Raven.
+A blet asks the gods for a good year; it does not tell a warband whether to sail this week. For that, send for a Raven.
 
-Hrafnrún, the Order of the Raven, gathers priests of [[affiliation-odvar|Ódvar]] who give their working lives to rune-lore and divination, casting the staves for warbands, jarls and households who need counsel a blót alone does not supply. A member studies under a rune-hall's own godar and acts as advisor and seer wherever Ódvar's faithful call for one.
+Hrafnrún, the Order of the Raven, gathers priests of [[affiliation-odvar|Odvar]] who give their working lives to rune-lore and divination, casting the staves for warbands, jarls and households who need counsel a blet alone does not supply. A member studies under a rune-hall's own gudar and acts as advisor and seer wherever Odvar's faithful call for one.

@@ -1,15 +1,15 @@
 ---
 shortcode: dragorahreer
-name: {full: Dragoráhre Eriákit, aliases: [High Priestess Dragoráhre Eriákit]}
+name: {full: Dragorahre Eriakit, aliases: [High Priestess Dragorahre Eriakit]}
 type: being
 subType: npc
-description: A priestess of the same order as Sakozês Bûlîdês's mother.
+description: A priestess of the same order as Sakozes Bulides's mother.
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric]
-  occupation: High Priestess of Lîzêlâs
+  occupation: High Priestess of Lizelas
   lore: []
   culture: byzarianclt
   homes: []
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dragoráhre Eriákit is a 63-year-old woman who stands 5'9" tall with a medium build. She has light skin, smooth complexion, brown hair, and dark brown eyes.
+Dragorahre Eriakit is a 63-year-old woman who stands 5'9" tall with a medium build. She has light skin, smooth complexion, brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Dragoráhre Eriákit is a high priestess of Lîzêlâs, of the same order as the mother of [[being-flndrsbldds|Sakozês Bûlîdês]].
+Dragorahre Eriakit is a high priestess of Lizelas, of the same order as the mother of [[being-flndrsbldds|Sakozes Bulides]].

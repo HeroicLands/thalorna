@@ -3,16 +3,16 @@ shortcode: faithfulrnk
 name: {full: "The Faithful", aliases: []}
 type: lore
 subType: law
-description: "Those who come for the Blessing of Light and the Night of Dreams, in the faith of Bjartr."
+description: "Those who come for the Blessing of Light and the Night of Dreams, in the faith of Bjart."
 tags: []
 data: {culture: nordheimnclt}
 ---
 
-Nobody enrolls in the faith of [[affiliation-bjartr|Bjartr]]. You come to a rite, and from that night you are counted among the faith's people.
+Nobody enrolls in the faith of [[affiliation-bjartr|Bjart]]. You come to a rite, and from that night you are counted among the faith's people.
 
 ## What This Standing Is
 
-The faithful are those who come to the **Blessing of Light**, a ceremony held preferably in a forest where the priests bless those gathered against darkness and despair, and to the **Night of Dreams**, where they share their dreams and visions and seek Bjartr's guidance. Coming to these rites is the whole of what admits a person to this standing.
+The faithful are those who come to the **Blessing of Light**, a ceremony held preferably in a forest where the priests bless those gathered against darkness and despair, and to the **Night of Dreams**, where they share their dreams and visions and seek Bjart's guidance. Coming to these rites is the whole of what admits a person to this standing.
 
 ## How the Law Treats a Person Here
 
@@ -24,7 +24,7 @@ He may attend the Blessing of Light and the Night of Dreams, and receive the pri
 
 ## Obligations
 
-None beyond attending the rites he takes part in; the faith asks nothing further of the faithful short of a call to the deeper service an [[lore-tindesarrnk|Ilthorinno]] takes up.
+None beyond attending the rites he takes part in; the faith asks nothing further of the faithful short of a call to the deeper service an [[lore-tindesarrnk|Ilthorin]] takes up.
 
 ## Offices Open at This Standing
 
@@ -32,4 +32,4 @@ None; the faith's offices attach to the clergy above this rank.
 
 ## Where This Standing Is Held
 
-The [[affiliation-bjartr|Faith of Bjartr]] alone.
+The [[affiliation-bjartr|Faith of Bjart]] alone.

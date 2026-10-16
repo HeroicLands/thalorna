@@ -1,7 +1,7 @@
 ---
 shortcode: prvnzthtrclctv
 name:
-  full: The Provènzia Theater Collective
+  full: The Provenzia Theater Collective
   aliases: [The Theater Collective, The Players' Federation]
 type: affiliation
 subType: fellowship
@@ -57,13 +57,13 @@ sohl: {system: {commonSkills: []}}
 ---
 
 - **Type:** Cultural federation
-- **Region:** [[place-provenzrgn|Provènzia]]—based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence
+- **Region:** [[place-provenzrgn|Provenzia]]—based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence
 - **Founded:** Formally constituted twenty-three years ago; informal predecessor traditions stretch back centuries
-- **Tevran Maldor status:** Chartered member as the trade body covering theatrical production in Provènzia; holds the Performers' seat (jointly with the senior Aurèldían bardic guilds) on the [[affiliation-tevran|Tevran Maldor's]] Council of the Tevran. The _rôzimândoi_ (auditors) of the Tevran's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action—a forbearance that the Collective is aware of and cultivates.
+- **Tevran Maldor status:** Chartered member as the trade body covering theatrical production in Provenzia; holds the Performers' seat (jointly with the senior Aureldian bardic guilds) on the [[affiliation-tevran|Tevran Maldor's]] Council of the Tevran. The _rozimoi_ (auditors) of the Tevran's interest in Collective productions is sporadic and has, to date, never produced a formal disciplinary action—a forbearance that the Collective is aware of and cultivates.
 
 ## Overview
 
-Provènzia takes its theater seriously. The Provenzian public expects of an evening's performance not merely entertainment but commentary—on the court, on the merchant houses, on the most recent diplomatic embarrassment, on the love affairs of the season. A Provenzian play that does not gently cut someone is regarded as a failed play. The Theater Collective is the federation that produces most of these plays, and quietly arbitrates which cuts may be made and which targets are presently off limits.
+Provenzia takes its theater seriously. The Provenzian public expects of an evening's performance not merely entertainment but commentary—on the court, on the merchant houses, on the most recent diplomatic embarrassment, on the love affairs of the season. A Provenzian play that does not gently cut someone is regarded as a failed play. The Theater Collective is the federation that produces most of these plays, and quietly arbitrates which cuts may be made and which targets are presently off limits.
 
 The Collective is not, in any formal sense, a guild. It does not license performers, does not own the theaters in which it stages, does not impose dues. It is an association of working theater companies, established performers, playwrights, scenic designers, and a select circle of patrons whose money makes the productions possible. What holds it together is a shared interest in maintaining the conditions under which Provenzian theater can continue to do what Provenzian theater does: comment freely, draw substantial audiences, attract the patronage of the powerful, and avoid being shut down by any of the powerful figures the commentary inevitably annoys.
 
@@ -73,7 +73,7 @@ The Collective's central political function is the management of risk. A staged 
 
 The Collective recognizes three categories of member:
 
-- **Companies**—the working theater troupes. Each company holds a single vote in Collective decisions, regardless of its size or prominence. There are presently thirty-one companies of Collective standing across Provènzia, ranging from established institutions like the **Teatro della Luna** in the capital to small touring troupes that perform in market squares.
+- **Companies**—the working theater troupes. Each company holds a single vote in Collective decisions, regardless of its size or prominence. There are presently thirty-one companies of Collective standing across Provenzia, ranging from established institutions like the **Teatro della Luna** in the capital to small touring troupes that perform in market squares.
 - **Performers, playwrights, and designers**—individuals of established reputation, admitted by acclamation of the existing membership. There are perhaps two hundred at any given time. Individuals do not vote but are entitled to speak at Collective gatherings and to participate in the informal discussions that shape decisions.
 - **Patrons**—wealthy supporters who fund productions. Admission is by sponsorship of an existing member. Patrons do not vote but their views carry the weight their contributions confer. There are presently about forty patrons of standing, several of them noble, several of them mercantile, two of them rumored to be foreign agents quietly supporting productions favorable to their employers' interests.
 
@@ -81,7 +81,7 @@ Day-to-day administration is conducted by the **Convocation of Companies**, whic
 
 ## Notable Members
 
-- [[being-kelnstylgn|Kelèna Estilgòn]]—a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
+- [[being-kelnstylgn|Kelena Estilgon]]—a founding figure of the present Collective; she helped formalize the federation twenty-three years ago and continues to wield substantial influence through it, even as her primary work has shifted to high society. The Collective treats her counsel as senior even when she does not attend gatherings.
 - **Léonardo Castiranni**—current First Speaker; playwright; political operator.
 - The **Teatro della Luna** company—most prestigious of the standing companies, with its own permanent venue in the capital.
 - The **Compagnia delle Maschere**—the leading touring troupe; specializes in commedia and the political mask traditions.
@@ -99,7 +99,7 @@ The Convocation's deliberations on whether to endorse are conducted with theatri
 - **Coordination of repertoire.** Companies negotiate, through the Collective, who will mount which plays in which seasons. The negotiation prevents the situation in which three companies mount competing productions of the same satirical comedy and dilute their collective impact.
 - **Endorsement of new work.** Playwrights bring new plays to the Convocation; endorsement carries practical weight.
 - **Defense of staged work.** When a production attracts political retaliation, the Collective responds—through coordinated public statements, through patron pressure, through the orchestrated staging of related work at other theaters that makes the original production harder to suppress in isolation.
-- **The Festival of Masks.** The Collective's annual festival, held in late summer, draws performers from across Provènzia and from neighboring kingdoms; the festival's culminating performance is a new play composed collectively by the senior playwrights for that year.
+- **The Festival of Masks.** The Collective's annual festival, held in late summer, draws performers from across Provenzia and from neighboring kingdoms; the festival's culminating performance is a new play composed collectively by the senior playwrights for that year.
 
 ## Relations
 

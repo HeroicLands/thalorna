@@ -1,6 +1,6 @@
 ---
 shortcode: wodou
-name: {full: "Ritual: Wōdou", aliases: [Wōdou, The Minister of Roads]}
+name: {full: "Ritual: Wodou", aliases: [Wodou, The Minister of Roads]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-wodou|Wōdou]]
+See [[affiliation-wodou|Wodou]]

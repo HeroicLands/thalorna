@@ -3,7 +3,7 @@ shortcode: seventowers
 name: {full: The Seven Towers, aliases: []}
 type: lore
 subType: literature
-description: "A Sinalëan elegy held in Élavendre for a city of light cut into a cliff, its halls, water and birds, and the night a horde came up the valley—sung without its subject named, and broken off where the Sinalë stop."
+description: "A Sinalean elegy held in Élavendre for a city of light cut into a cliff, its halls, water and birds, and the night a horde came up the valley—sung without its subject named, and broken off where the Sinale stop."
 tags: [draft]
 data:
   culture: sinaleclt
@@ -13,19 +13,19 @@ data:
   language: sinalelng
 ---
 
-**The Seven Towers** is a [[lore-flksinale|Sinalëan]] song held in [[place-elavendre|Élavendre]]. The
-[[lore-aelendnppl|Áelendan]] count it among the songs first heard at [[place-aelirosse|Aelirossë]] and
+**The Seven Towers** is a [[lore-flksinale|Sinalean]] song held in [[place-elavendre|Élavendre]]. The
+[[lore-aelendnppl|Áelendan]] count it among the songs first heard at [[place-aelirosse|Aelirosse]] and
 carried out of the [[place-silvrfrsts|Silver Forests]] by people to whom it was given freely, and their
 Tradition Keepers hold it with the tribal songs. The [[affiliation-bardicolgs|Bardic Colleges]] sing it to
-the harp as a Sinalëan gift, at three and four removes from any Sinalë who ever sang it. Some Áelendan songs
-set the enclave at the edge of what the Sinalë call the deeper places, and the Tradition Keepers sing what
+the harp as a Sinalean gift, at three and four removes from any Sinale who ever sang it. Some Áelendan songs
+set the enclave at the edge of what the Sinale call the deeper places, and the Tradition Keepers sing what
 comes out of it as it was received, adding nothing.
 
 The song gives itself no name and never says what city it mourns. The bards call it after the seven towers
-of its first turning, and the only city it fits is [[lore-khazarturn|Khazártúrn]]. It calls the city's
+of its first turning, and the only city it fits is [[lore-khazarturn|Khazartúrn]]. It calls the city's
 people only "the makers." It names no people for the renegade: it breaks off at the word, and when it
 begins again it is evening in the valley as the valley stands now. College bards count seven turnings before
-the break and hear the seven towers in them; the Sinalë have neither confirmed the reading nor corrected it.
+the break and hear the seven towers in them; the Sinale have neither confirmed the reading nor corrected it.
 The bards mark the break as a silence, and keep the last line where it stops.
 
 : The Seven Towers {#song}
@@ -113,6 +113,6 @@ It was the finest thing that anyone has made,
 
 ## See Also
 
-- [[lore-khazarturn|The Fall of Khazártúrn]] · [[lore-oldcompact|The Old Compact]] · [[lore-flksinale|Sinalë]]
-- [[place-aelirosse|Aelirossë]] · [[affiliation-bardicolgs|The Bardic Colleges]] ·
+- [[lore-khazarturn|The Fall of Khazartúrn]] · [[lore-oldcompact|The Old Compact]] · [[lore-flksinale|Sinale]]
+- [[place-aelirosse|Aelirosse]] · [[affiliation-bardicolgs|The Bardic Colleges]] ·
   [[lore-aelendnppl|Áelendan People]] · [[lore-faecourts|The Fae Courts]]

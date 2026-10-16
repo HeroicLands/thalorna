@@ -1,6 +1,6 @@
 ---
 shortcode: arznlsbrds
-name: {full: Arzânalas Bâredâs, aliases: []}
+name: {full: Arzanalas Baredas, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -391,23 +391,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Arzânalas Bâredâs is a 50-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows and give him an expressive gaze. He has a straight nose and wide lips. He has medium-toned skin with an olive-toned complexion. His gray hair is kept practical and short. A notable feature is crow's feet at the corners of sharp eyes.
+Arzanalas Baredas is a 50-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows and give him an expressive gaze. He has a straight nose and wide lips. He has medium-toned skin with an olive-toned complexion. His gray hair is kept practical and short. A notable feature is crow's feet at the corners of sharp eyes.
 
 # Dossier {#dossier}
 
-Arzânalas Bâredâs is a huscarl of Lord Kôrvâthôs's household at Tirellan, in the Moktur march of [[place-vylariargn|Vylaría]], a Vylarian freeman of the border who swore to the Vôlkhêmâtês house at seventeen and has never served anyone else.
+Arzanalas Baredas is a huscarl of Lord Korvathos's household at Tirellan, in the Moktur march of [[place-vylariargn|Vylaria]], a Vylarian freeman of the border who swore to the Volkemates house at seventeen and has never served anyone else.
 
-In Moktur, the empire's northern shield, the border-lords keep households of sworn fighting men against the Varokh raids that come over the march every summer. Arzânalas has been one of Lord Kôrvâthôs's for thirty-seven years—a spearman, then a captain of the household, then, as his knees went, the man who trains the young ones. What he holds now is the training yard. The young men of the household learn the spear and the shield-line from him, and some of them are better than he ever was and he tells them so.
+In Moktur, the empire's northern shield, the border-lords keep households of sworn fighting men against the Varokh raids that come over the march every summer. Arzanalas has been one of Lord Korvathos's for thirty-seven years—a spearman, then a captain of the household, then, as his knees went, the man who trains the young ones. What he holds now is the training yard. The young men of the household learn the spear and the shield-line from him, and some of them are better than he ever was and he tells them so.
 
 ## Psyche
 
 ### Personality
 
-Arzânalas is steady, plain and set in his ways; he learned to fight one way and teaches that way and regards the newer drill from the capital as a fashion.
+Arzanalas is steady, plain and set in his ways; he learned to fight one way and teaches that way and regards the newer drill from the capital as a fashion.
 
 ### Motivation
 
-Arzânalas wants the Vôlkhêmâtês house to stand, because he swore it would, and he wants the men he trains to be fit to hold it after him.
+Arzanalas wants the Volkemates house to stand, because he swore it would, and he wants the men he trains to be fit to hold it after him.
 
 ### Strengths
 
@@ -415,24 +415,24 @@ Highly experienced, a sound judge of ground and of men, hard to break.
 
 ## Social
 
-Arzânalas belongs to Lord Kôrvâthôs's retinue and has for his whole adult life.
+Arzanalas belongs to Lord Korvathos's retinue and has for his whole adult life.
 
 ## Companions
 
 ### Patrons
 
-Arzânalas's patrons are Lord Kôrvâthôs and his family, whom he has served since boyhood. The lord keeps him out of gratitude and habit.
+Arzanalas's patrons are Lord Korvathos and his family, whom he has served since boyhood. The lord keeps him out of gratitude and habit.
 
 ### Enemies
 
-The Varokh war-bands across the march, and Lord Kôrvâthôs's eldest son, who wants younger captains and a household drilled the capital's way.
+The Varokh war-bands across the march, and Lord Korvathos's eldest son, who wants younger captains and a household drilled the capital's way.
 
 ## Plot Hooks
 
-1. **The Heir**—Lord Kôrvâthôs is failing, and his heir has let it be known that the old huscarl will be pensioned off to a farm the day the lord dies. The younger men have said, quietly, that they will go with him.
+1. **The Heir**—Lord Korvathos is failing, and his heir has let it be known that the old huscarl will be pensioned off to a farm the day the lord dies. The younger men have said, quietly, that they will go with him.
 
-2. **The Raid**—A Varokh band has come over the march in a bad summer with the household's best men away, and the only captain in Tirellan is Arzânalas, with a yard of boys he has trained and no knees.
+2. **The Raid**—A Varokh band has come over the march in a bad summer with the household's best men away, and the only captain in Tirellan is Arzanalas, with a yard of boys he has trained and no knees.
 
-3. **The Lord's Loyalty**—Lord Kôrvâthôs has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzânalas swore to the house, not to Ôrzâra, and someone from the capital has come to ask him what he has seen.
+3. **The Lord's Loyalty**—Lord Korvathos has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzanalas swore to the house, not to Orzara, and someone from the capital has come to ask him what he has seen.
 
-4. **The Pupil**—The best spearman Arzânalas ever trained has come back to Tirellan as captain of a rival lord's household, and the two houses are about to quarrel over a ford.
+4. **The Pupil**—The best spearman Arzanalas ever trained has come back to Tirellan as captain of a rival lord's household, and the two houses are about to quarrel over a ford.

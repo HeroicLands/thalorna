@@ -3,13 +3,13 @@ shortcode: estivren
 name: {full: Estivren, aliases: []}
 type: place
 subType: settlement
-description: "The upland sheep manor of Zuravlèn—oldest of the three, poorest in coin, holding the summer pastures and the folding rights the orchards below cannot do without."
+description: "The upland sheep manor of Zuravlen—oldest of the three, poorest in coin, holding the summer pastures and the folding rights the orchards below cannot do without."
 tags: [village, hill]
 data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 190, packFolder: provenzia}
 ---
 
 **Estivren** sits where the terraces give out and the hill pasture begins. It is the oldest settlement
-in [[place-zuravlenrgn|Zuravlèn]]—its name belongs to an older stratum than Elthrembìs or Blavèra—and it has never been much interested in peaches.
+in [[place-zuravlenrgn|Zuravlen]]—its name belongs to an older stratum than Eltrembis or Blavera—and it has never been much interested in peaches.
 
 Use Estivren as the model of an **upland pastoral manor**, and as the reason the valley below works.
 
@@ -25,7 +25,7 @@ Use Estivren as the model of an **upland pastoral manor**, and as the reason the
 - **Banalities.** A mill and an oven, both small. More importantly, the manor operates the barony's
   principal **fulling** and wool-sorting sheds.
 - **Cheese.** Ewe's-milk cheese, pressed in the uplands through the summer and brought down for the
-  Elthrembìs fair. It is the manor's steadiest coin.
+  Eltrembis fair. It is the manor's steadiest coin.
 
 ## Folding Rights
 
@@ -34,7 +34,7 @@ autumn they must be folded somewhere, and where they are folded is where the dun
 orchard terraces below cannot bear without it.
 
 Every folding arrangement in the barony is a contract with Estivren, renewed at the fair, priced by
-what the orchards can bear to pay, and remembered bitterly. [[place-palnebris|Palnebrìs]] in particular
+what the orchards can bear to pay, and remembered bitterly. [[place-palnebris|Palnebris]] in particular
 is entirely dependent and entirely aware of it. Estivren's lord is not a rich man and does not need to
 be; he holds something that cannot be grown in a season.
 
@@ -43,7 +43,7 @@ be; he holds something that cannot be grown in a season.
 A **bailiff** and a **reeve**, and—uniquely in the barony—a **head shepherd** whose office is
 customary, elective among the shepherd families, and effectively beyond the lord's power to fill. The
 **court baron** sits twice a year, and half its business is grazing boundaries with holdings outside
-Zuravlèn altogether.
+Zuravlen altogether.
 
 ## Character
 

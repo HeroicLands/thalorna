@@ -1,6 +1,6 @@
 ---
 shortcode: rsnmgttn
-name: {full: Rasûnum Gatîtûnî, aliases: []}
+name: {full: Rasunum Gatituni, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, administration]
@@ -396,13 +396,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Rasûnum Gatîtûnî is a 53-year-old man who stands 5'4" tall and is of moderate build. He has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a pointed chin. His deep-set black eyes sit beneath heavy brows and give him a watchful gaze. He has an aquiline nose and full lips. He has olive skin with a smooth complexion. His brown hair is kept practical and short.
+Rasunum Gatituni is a 53-year-old man who stands 5'4" tall and is of moderate build. He has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a pointed chin. His deep-set black eyes sit beneath heavy brows and give him a watchful gaze. He has an aquiline nose and full lips. He has olive skin with a smooth complexion. His brown hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a guilded family of Tarûzelian heritage, Rasûnum Gatîtûnî is a bureaucrat.
+Born in the Taruzel region to a guilded family of Taruzelian heritage, Rasunum Gatituni is a bureaucrat.
 
-Rasûnum has worked in the city’s administrative offices for over three decades, climbing the ranks through diligence and a feel for the politics of the bureaucracy. He is known for his exact record-keeping and strict adherence to procedure, though the years have left him jaded and weary of corruption in the higher offices.
+Rasunum has worked in the city’s administrative offices for over three decades, climbing the ranks through diligence and a feel for the politics of the bureaucracy. He is known for his exact record-keeping and strict adherence to procedure, though the years have left him jaded and weary of corruption in the higher offices.
 
 ## Psyche
 
@@ -412,7 +412,7 @@ He is cynical and resistant to change, especially when it comes to reform.
 
 ### Motivation
 
-Rasûnum wants to keep his office and the order he knows, and to stay clear of the corruption above him.
+Rasunum wants to keep his office and the order he knows, and to stay clear of the corruption above him.
 
 ### Strengths
 
@@ -420,13 +420,13 @@ He is extremely organized and knowledgeable about city regulations.
 
 ## Social
 
-Rasûnum belongs to the city bureaucracy.
+Rasunum belongs to the city bureaucracy.
 
 ## Companions
 
 ### Patrons
 
-Rasûnum's patrons are the city officials who value his experience.
+Rasunum's patrons are the city officials who value his experience.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Reformists who view him as a symbol of the stagnant system.
 
 ## Plot Hooks
 
-1. **The Bureaucrat's Dilemma**—A superior's corruption reaches Rasûnum's own desk, and he has to choose between his principles and his office.
+1. **The Bureaucrat's Dilemma**—A superior's corruption reaches Rasunum's own desk, and he has to choose between his principles and his office.
 
 2. **Old Grudges**—Reformists who see him as a symbol of the stagnant system may make him the example when they move against it.
 
-3. **Echoes of the Past**—A record Rasûnum filed decades ago resurfaces and has to be answered for.
+3. **Echoes of the Past**—A record Rasunum filed decades ago resurfaces and has to be answered for.
 
-4. **Shifting Winds**—Political change in Tarûzel threatens the offices Rasûnum depends upon, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Taruzel threatens the offices Rasunum depends upon, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—An offer of higher office comes to Rasûnum from someone whose interest in him he cannot see, and its price is not named up front.
+5. **The Opportunity**—An offer of higher office comes to Rasunum from someone whose interest in him he cannot see, and its price is not named up front.

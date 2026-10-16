@@ -1,6 +1,6 @@
 ---
 shortcode: karvashikosm
-name: {full: Karvashikos Margarákit, aliases: [Lord Karvashikos Margarákit]}
+name: {full: Karvashikos Margarakit, aliases: [Lord Karvashikos Margarakit]}
 type: being
 subType: npc
 description: Patriarch of a house that has commissioned multiple high-speed merchant vessels and naval support ships, named in Trufios Veghekos.
@@ -9,7 +9,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [trader, courtier]
-  occupation: Patriarch of House Margarákit
+  occupation: Patriarch of House Margarakit
   lore: []
   culture: byzarianclt
   homes: []
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Karvashikos Margarákit is a 55-year-old man who stands 5'10" tall with a heavy build. He has tanned skin, weathered complexion, dark blonde hair, and green eyes.
+Karvashikos Margarakit is a 55-year-old man who stands 5'10" tall with a heavy build. He has tanned skin, weathered complexion, dark blonde hair, and green eyes.
 
 # Dossier {#dossier}
 
-Karvashikos Margarákit is the patriarch of House Margarákit, a wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. He personally negotiates with [[being-grgrsfthympls|Trufios Veghekos]] and values his counsel on maritime matters.
+Karvashikos Margarakit is the patriarch of House Margarakit, a wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. He personally negotiates with [[being-grgrsfthympls|Trufios Veghekos]] and values his counsel on maritime matters.

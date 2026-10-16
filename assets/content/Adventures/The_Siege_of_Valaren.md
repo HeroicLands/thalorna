@@ -52,7 +52,7 @@ The party must investigate the blockading ships and gather intelligence. They mi
 
 ## Stage Three: Uncovering the Conspiracy
 
-Investigation reveals that a powerful Provenzian noble—seeking to drive down grain prices or consolidate power—hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken [[place-provenzrgn|Provènzia Region]]'s economy.
+Investigation reveals that a powerful Provenzian noble—seeking to drive down grain prices or consolidate power—hired mercenaries to blockade the city. Alternatively, foreign agents have orchestrated the blockade to weaken [[place-provenzrgn|Provenzia Region]]'s economy.
 
 **Key Revelation:**
 
@@ -86,9 +86,9 @@ The party must devise and execute a plan to break the blockade. Options include:
 
 ## See Also
 
-- [[place-provenzrgn|Provènzia Region]]
-- [[affiliation-kngdmprvnz|Kingdom of Provènzia]]
+- [[place-provenzrgn|Provenzia Region]]
+- [[affiliation-kngdmprvnz|Kingdom of Provenzia]]
 - [[affiliation-vylarinmpr|Vylarian Empire]]
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
-- [[affiliation-arldnpnthn|Aurèldían]]
-- [[affiliation-ordoarcanis|Thôrdimâlon]]
+- [[affiliation-arldnpnthn|Aureldian]]
+- [[affiliation-ordoarcanis|Thordimalon]]

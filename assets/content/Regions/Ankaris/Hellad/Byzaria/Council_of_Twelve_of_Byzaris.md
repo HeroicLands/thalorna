@@ -1,9 +1,9 @@
 ---
 shortcode: cncltwlvbzrs
-name: {full: Council of Twelve of Byzaris, aliases: []}
+name: {full: Council of Twelve of Bizaris, aliases: []}
 type: affiliation
 subType: polity
-description: "The council of the heads of the twelve greatest guilds, which governs Byzaris and makes it the only city-state of the Byzarian League with formal guild governance."
+description: "The council of the heads of the twelve greatest guilds, which governs Bizaris and makes it the only city-state of the Bizarian League with formal guild governance."
 data:
   templatePriority: null
   demonym: null
@@ -33,4 +33,4 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The **Council of Twelve of Byzaris** is made up of the heads of the twelve greatest guilds of [[place-byzaris|Byzaris]]. It makes the city the only city-state of the [[affiliation-byzarianlg|Byzarian League]] with formal guild governance. The arrangement gives the city stability and endless subtle negotiation, as artisan interests jockey for precedence and resources, and in League politics Byzaris keeps a careful neutrality.
+The **Council of Twelve of Bizaris** is made up of the heads of the twelve greatest guilds of [[place-byzaris|Bizaris]]. It makes the city the only city-state of the [[affiliation-byzarianlg|Bizarian League]] with formal guild governance. The arrangement gives the city stability and endless subtle negotiation, as artisan interests jockey for precedence and resources, and in League politics Bizaris keeps a careful neutrality.

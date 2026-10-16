@@ -1,9 +1,9 @@
 ---
 shortcode: lotrenilther
-name: {full: Lótren Íltherndë, aliases: [Lord Lótren Íltherndë, Lord Lótren]}
+name: {full: Lotren Ílthernde, aliases: [Lord Lotren Ílthernde, Lord Lotren]}
 type: being
 subType: npc
-description: A city councilor who intervened to advance Párthun Pélthal's career and remains technically his patron.
+description: A city councilor who intervened to advance Parthun Pelthal's career and remains technically his patron.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Lótren Íltherndë is a 58-year-old man who stands 5'10" tall with a light build. He has fair skin, clear complexion, chestnut hair, and green eyes.
+Lotren Ílthernde is a 58-year-old man who stands 5'10" tall with a light build. He has fair skin, clear complexion, chestnut hair, and green eyes.
 
 # Dossier {#dossier}
 
-Lótren Íltherndë is a city councilor of Valdûn. He intervened to win [[being-prthnblthl|Párthun Pélthal]] a place in the City Administration at twenty, and remains technically his patron.
+Lotren Ílthernde is a city councilor of Valdun. He intervened to win [[being-prthnblthl|Parthun Pelthal]] a place in the City Administration at twenty, and remains technically his patron.

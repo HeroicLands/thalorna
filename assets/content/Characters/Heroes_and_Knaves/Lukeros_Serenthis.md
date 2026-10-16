@@ -1,6 +1,6 @@
 ---
 shortcode: lucernsrnt
-name: {full: Lûkêros Serênthis, given: Lûkêros, clan: Serênthis, aliases: []}
+name: {full: Lukeros Serenthis, given: Lukeros, clan: Serenthis, aliases: []}
 type: being
 subType: character
 tags: [tamzir-crew, tradesfolk]
@@ -399,9 +399,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[lucernsrnt|Lûkêros Serênthis]]{float=top-left}
+![[lucernsrnt|Lukeros Serenthis]]{float=top-left}
 
-Lûkêros Serênthis is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing—though travel-worn—is of noticeably finer quality than anything else aboard the Tamzîr. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
+Lukeros Serenthis is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing—though travel-worn—is of noticeably finer quality than anything else aboard the Tamzir. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
 
 # Dossier {#dossier}
 
@@ -409,62 +409,62 @@ Lûkêros Serênthis is a handsome young man whose appearance screams wealth and
 
 ### Origin
 
-Lûkêros was born in the Vylarian city of [[place-belekos|Belekos]], the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society—not nobility, but close enough to move in those circles. Lûkêros was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
+Lukeros was born in the Vylarian city of [[place-belekos|Belekos]], the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society—not nobility, but close enough to move in those circles. Lukeros was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
 
 ### Training
 
-Lûkêros apprenticed to a surgeon-physician in Azerya, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy—his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vylarian medical establishment.
+Lukeros apprenticed to a surgeon-physician in Azerya, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy—his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vylarian medical establishment.
 
 ### The Rescue
 
-Everything changed when Lûkêros's younger sister, Kivellâ, was taken by the [[affiliation-ordoarcanis|Thôrdimâlon]].
+Everything changed when Lukeros's younger sister, Kivella, was taken by the [[affiliation-ordoarcanis|Thordimalon]].
 
-Kivellâ had always been different—brilliant, mercurial, with an extraordinary arcane aura that drew attention from the moment it manifested. The Order identified her at thirteen and invited her to study at one of their academies. The family was honored. For two years, Kivellâ wrote glowing letters home. Then the letters stopped. When Lûkêros finally gained access to the academy, what he found destroyed his world. The Order had been experimenting on his sister, pushing her abilities beyond safe limits, and the process had left her damaged—erratic, traumatized, and partially broken.
+Kivella had always been different—brilliant, mercurial, with an extraordinary arcane aura that drew attention from the moment it manifested. The Order identified her at thirteen and invited her to study at one of their academies. The family was honored. For two years, Kivella wrote glowing letters home. Then the letters stopped. When Lukeros finally gained access to the academy, what he found destroyed his world. The Order had been experimenting on his sister, pushing her abilities beyond safe limits, and the process had left her damaged—erratic, traumatized, and partially broken.
 
-Lûkêros sacrificed everything to get her out. He used his family's wealth, called in every favor he had, and ultimately resorted to outright theft and deception to extract Kivellâ from the Order's facility. In doing so, he made himself a fugitive. The Order does not forgive theft of their property, and they consider Kivellâ exactly that—their property.
+Lukeros sacrificed everything to get her out. He used his family's wealth, called in every favor he had, and ultimately resorted to outright theft and deception to extract Kivella from the Order's facility. In doing so, he made himself a fugitive. The Order does not forgive theft of their property, and they consider Kivella exactly that—their property.
 
-### Aboard the Tamzîr
+### Aboard the Tamzir
 
-Lûkêros and Kivellâ boarded the Tamzîr eighteen months ago in a desperate arrangement brokered through Bû's network of contacts. Lûkêros pays well for their passage and provides the crew with medical care they could never otherwise afford. In return, the Tamzîr's constant movement and the crew's discretion keep the siblings one step ahead of the Order's agents. It is a fragile arrangement, and Lûkêros lives in constant fear that it will collapse.
+Lukeros and Kivella boarded the Tamzir eighteen months ago in a desperate arrangement brokered through Bu's network of contacts. Lukeros pays well for their passage and provides the crew with medical care they could never otherwise afford. In return, the Tamzir's constant movement and the crew's discretion keep the siblings one step ahead of the Order's agents. It is a fragile arrangement, and Lukeros lives in constant fear that it will collapse.
 
 ## Psyche
 
 ### Personality
 
-Lûkêros is brilliant, anxious, and deeply out of his depth in the world he now inhabits. He was raised for drawing rooms and lecture halls, not smuggling ships and dockside brawls. He can be prickly, condescending, and socially clumsy—not out of malice but out of a fundamental inability to calibrate his behavior to his surroundings. He is fiercely protective of his sister to the point of obsession, and this protectiveness sometimes makes him rigid, controlling, and blind to Kivellâ's own agency.
+Lukeros is brilliant, anxious, and deeply out of his depth in the world he now inhabits. He was raised for drawing rooms and lecture halls, not smuggling ships and dockside brawls. He can be prickly, condescending, and socially clumsy—not out of malice but out of a fundamental inability to calibrate his behavior to his surroundings. He is fiercely protective of his sister to the point of obsession, and this protectiveness sometimes makes him rigid, controlling, and blind to Kivella's own agency.
 
 ### Motivation
 
-Kivellâ. Everything Lûkêros does is for his sister. He gave up his career, his family, his wealth, and his future to save her, and he would do it again without hesitation. Beyond her safety, he harbors a growing anger toward the Thôrdimâlon (the Arcane Order)—not the hot anger of a revolutionary, but the cold fury of a man who has seen what institutional power does when it operates without accountability.
+Kivella. Everything Lukeros does is for his sister. He gave up his career, his family, his wealth, and his future to save her, and he would do it again without hesitation. Beyond her safety, he harbors a growing anger toward the Thordimalon (the Arcane Order)—not the hot anger of a revolutionary, but the cold fury of a man who has seen what institutional power does when it operates without accountability.
 
 ### Strengths
 
-Lûkêros is one of the finest physicians alive. His surgical skill is extraordinary, his pharmacological knowledge is encyclopedic, and his diagnostic ability borders on the intuitive. He is also brilliant—able to learn quickly, think clearly under pressure, and solve complex problems.
+Lukeros is one of the finest physicians alive. His surgical skill is extraordinary, his pharmacological knowledge is encyclopedic, and his diagnostic ability borders on the intuitive. He is also brilliant—able to learn quickly, think clearly under pressure, and solve complex problems.
 
 ### Weaknesses
 
-He is arrogant about his intelligence and dismissive of people he considers less educated. He has poor social skills in casual settings and can be maddeningly rigid about etiquette and propriety. His obsessive focus on protecting Kivellâ sometimes blinds him to her needs as a person rather than a patient. He is also physically unimposing and nearly useless in a fight.
+He is arrogant about his intelligence and dismissive of people he considers less educated. He has poor social skills in casual settings and can be maddeningly rigid about etiquette and propriety. His obsessive focus on protecting Kivella sometimes blinds him to her needs as a person rather than a patient. He is also physically unimposing and nearly useless in a fight.
 
 ## Social
 
 ### Patrons
 
-Lûkêros's family wealth has been largely spent on the escape and subsequent flight. He still has enough gold to pay for passage, but his resources are dwindling. He has no patrons—the Order has made sure that anyone who might help him knows the cost.
+Lukeros's family wealth has been largely spent on the escape and subsequent flight. He still has enough gold to pay for passage, but his resources are dwindling. He has no patrons—the Order has made sure that anyone who might help him knows the cost.
 
 ### Enemies
 
-The **Thôrdimâlon** wants Kivellâ back, and they want Lûkêros punished for taking her. They operate through Vylarian imperial channels—court agents, bounty hunters, political leverage—making every Vylarian port a potential trap. The deeper danger is that the Order's interest in Kivellâ is not merely proprietary; the experiments they conducted suggest they believe she possesses abilities of extraordinary value in war.
+The **Thordimalon** wants Kivella back, and they want Lukeros punished for taking her. They operate through Vylarian imperial channels—court agents, bounty hunters, political leverage—making every Vylarian port a potential trap. The deeper danger is that the Order's interest in Kivella is not merely proprietary; the experiments they conducted suggest they believe she possesses abilities of extraordinary value in war.
 
 ### Affiliations
 
-Passenger aboard the **Tamzîr**. Brother and guardian of [[being-cibelasrnt|Kivellâ Serênthis]]. He has formed a grudging mutual respect with **Captain Zabûzum Jakûdûnî**, who reminds him—uncomfortably—that principle and pragmatism are not always compatible.
+Passenger aboard the **Tamzir**. Brother and guardian of [[being-cibelasrnt|Kivella Serenthis]]. He has formed a grudging mutual respect with **Captain Zabuzum Jakuduni**, who reminds him—uncomfortably—that principle and pragmatism are not always compatible.
 
 ## Plot Hooks
 
-1. **The Cure That Isn't**: Lûkêros hears of a physician in a distant port who claims to have treated patients with damage similar to Kivellâ's. The treatment is experimental and risky, but it offers hope where there has been none. Reaching the physician means sailing into waters heavily patrolled by Vylarian naval forces.
+1. **The Cure That Isn't**: Lukeros hears of a physician in a distant port who claims to have treated patients with damage similar to Kivella's. The treatment is experimental and risky, but it offers hope where there has been none. Reaching the physician means sailing into waters heavily patrolled by Vylarian naval forces.
 
-2. **The Order Closes In**: An Order agent boards the Tamzîr disguised as a passenger. Lûkêros recognizes the signs too late, and the agent has already sent a message revealing their location. The crew has hours to decide whether to run, fight, or negotiate with an organization that does neither in good faith.
+2. **The Order Closes In**: An Order agent boards the Tamzir disguised as a passenger. Lukeros recognizes the signs too late, and the agent has already sent a message revealing their location. The crew has hours to decide whether to run, fight, or negotiate with an organization that does neither in good faith.
 
-3. **Bleeding Dry**: Lûkêros's funds are running out. Without coin, he cannot pay for passage or buy the drugs that keep Kivellâ stable. He is approached with an offer to practice medicine in a port city—but taking the position would mean staying in one place long enough for the Order to find them.
+3. **Bleeding Dry**: Lukeros's funds are running out. Without coin, he cannot pay for passage or buy the drugs that keep Kivella stable. He is approached with an offer to practice medicine in a port city—but taking the position would mean staying in one place long enough for the Order to find them.
 
-4. **Brother's Burden**: Kivellâ, in a moment of clarity, tells Lûkêros that she does not want to be protected anymore—she wants to understand what was done to her and use her abilities on her own terms. Lûkêros must confront the possibility that his desperate need to save his sister has become its own kind of cage.
+4. **Brother's Burden**: Kivella, in a moment of clarity, tells Lukeros that she does not want to be protected anymore—she wants to understand what was done to her and use her abilities on her own terms. Lukeros must confront the possibility that his desperate need to save his sister has become its own kind of cage.

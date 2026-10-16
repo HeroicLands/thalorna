@@ -3,7 +3,7 @@ shortcode: grukaraelwyth
 name: {full: The Grukar of Aelwyth, aliases: [The Aelwyth Grukar]}
 type: lore
 subType: folk
-description: "The Grukar of Aelwyth—established on the island for nearly seven hundred years, endemic in the empty interior, fought without pause by the tribal peoples and endlessly contained on every civilized frontier, and hated by the Khazári for reasons the Deep Folk have never given."
+description: "The Grukar of Aelwyth—established on the island for nearly seven hundred years, endemic in the empty interior, fought without pause by the tribal peoples and endlessly contained on every civilized frontier, and hated by the Khazari for reasons the Deep Folk have never given."
 tags: []
 data: {packFolder: aelwyth}
 ---
@@ -61,30 +61,30 @@ it as routine expenditure.
 [[affiliation-kngdmldrth|Aldorath]] has mounted formal campaigns perhaps a dozen times in its history.
 Each was declared a success. There is no evidence any of them made a difference at all.
 
-## The Khazári
+## The Khazari
 
-The [[lore-flkkhazar|Khazári]] of [[place-vorgald|Vorgald]] hate the Grukar, and the hatred is of a
+The [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]] hate the Grukar, and the hatred is of a
 different order from anybody else's.
 
 Everyone on Aelwyth kills Grukar when they must, and treats it as one more hard necessity of living
 here. The Deep Folk do not treat it as a necessity. They kill Grukar **immediately, wherever found,
 without negotiation, without exception, and without the enormous patience they extend to every other
-living thing on this island**—and it is the only subject on which the Khazári have ever been observed
+living thing on this island**—and it is the only subject on which the Khazari have ever been observed
 to act quickly.
 
-The reason is not competition, though they do compete. It is [[lore-khazarturn|Khazártúrn]].
+The reason is not competition, though they do compete. It is [[lore-khazarturn|Khazartúrn]].
 
-In 2427 BF a Sinalë outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of thousands of
+In 2427 BF a Sinale outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of thousands of
 Grukar from their spawners and destroyed the greatest city the Deep Folk ever built. The account—exact,
 with every name lost—has been kept in the working archive of every hold since, and is read at
 intervals. It is not treated as history.
 
-The Khazári know the Grukar were compelled. It changes nothing, because the relic was never recovered
+The Khazari know the Grukar were compelled. It changes nothing, because the relic was never recovered
 and their conclusion was never about guilt: **Grukar are ammunition**, and the only defense is that there
 be none near a hold to be picked up.
 
 So the hatred did not begin on Aelwyth and does not depend on anything the Aelwyth Grukar have done.
-The Deep Folk had been in the [[place-ironfells|Ironfells]] some seven centuries when Khazártúrn fell,
+The Deep Folk had been in the [[place-ironfells|Ironfells]] some seven centuries when Khazartúrn fell,
 and kept the account twenty-four centuries more before the first Grukar ever set foot here.
 
 ## See Also

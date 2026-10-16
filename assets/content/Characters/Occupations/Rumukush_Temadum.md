@@ -1,6 +1,6 @@
 ---
 shortcode: rmkshtmdm
-name: {full: Rumûkûsh Temâdûm, aliases: []}
+name: {full: Rumukush Temadum, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Rumûkûsh Temâdûm is a 31-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a broad forehead, and a sharp jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and thin lips complete his features. He has tanned skin with an even complexion. His black hair is cropped short.
+Rumukush Temadum is a 31-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a broad forehead, and a sharp jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and thin lips complete his features. He has tanned skin with an even complexion. His black hair is cropped short.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Rumûkûsh Temâdûm came into the world of the bodyguard through a combination of circumstance and aptitude.
+Born in the Taruzel region to a freeman family of Taruzelian heritage, Rumukush Temadum came into the world of the bodyguard through a combination of circumstance and aptitude.
 
-Rumûkûsh is a seasoned bodyguard with years of experience in protecting merchants and their valuable goods. Known for his intimidating presence and combat expertise, he often acts as the first line of defense against threats. Rumûkûsh is deeply loyal to those he protects and has a strong sense of justice. He believes in using force only when necessary and often tries to defuse situations peacefully before they escalate.
+Rumukush is a seasoned bodyguard with years of experience in protecting merchants and their valuable goods. Known for his intimidating presence and combat expertise, he often acts as the first line of defense against threats. Rumukush is deeply loyal to those he protects and has a strong sense of justice. He believes in using force only when necessary and often tries to defuse situations peacefully before they escalate.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Can be too aggressive, struggles with negotiation skills.
 
 ### Motivation
 
-Rumûkûsh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bodyguard work keep him vigilant and adaptable.
+Rumukush is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bodyguard work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Strong and intimidating, skilled in hand-to-hand combat, good at intimidation.
 
 ## Social
 
-Rumûkûsh is affiliated with Local Mercenaries Guild.
+Rumukush is affiliated with Local Mercenaries Guild.
 
-As a Tarûzelian bodyguard, Rumûkûsh occupies a recognized social niche within Tarûzel society.
+As a Taruzelian bodyguard, Rumukush occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Rumûkûsh's primary patron is Merchants and minor lords requiring strong protection. This relationship provides both opportunity and obligation.
+Rumukush's primary patron is Merchants and minor lords requiring strong protection. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Few; generally well-respected but some may fear him.
 
 ## Plot Hooks
 
-1. **The Bodyguard's Dilemma**—Rumûkûsh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Bodyguard's Dilemma**—Rumukush faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—Few; generally well-respected but some may fear him. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Rumûkûsh's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Rumukush's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Rumûkûsh depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Rumukush depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Rumûkûsh the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Rumukush the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

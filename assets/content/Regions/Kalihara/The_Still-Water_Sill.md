@@ -3,7 +3,7 @@ shortcode: stillwatersill
 name: {full: The Still-Water Sill, aliases: ["Ithavanu'sul"]}
 type: place
 subType: structure
-description: "The work of the Ithári lying across the riverbed at the head of Kalihara's Kuethori Gap, which holds the Bowl Lake to its level; the lake now stands three hands above the Kuethori's marks."
+description: "The work of the Ithari lying across the riverbed at the head of Kalihara's Kuethori Gap, which holds the Bowl Lake to its level; the lake now stands three hands above the Kuethori's marks."
 tags: [ithari-work, river, inland]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The Still-Water Sill lies across the bed of the river at the head of [[place-klhrkthrgap|the Kuethori Gap]], where the water of [[place-klhrlake|the Bowl Lake]] leaves the interior of [[place-klhrcntnnt|Kalihara]] and enters the gorge. It is a long, low swell of [[lore-itharisul|ithári'sul]] from bank to bank, gray and without a seam, and the river slides over it smooth. The custodians call it _ithavanu'sul_ (still-water stone), for the lake it keeps.
+The Still-Water Sill lies across the bed of the river at the head of [[place-klhrkthrgap|the Kuethori Gap]], where the water of [[place-klhrlake|the Bowl Lake]] leaves the interior of [[place-klhrcntnnt|Kalihara]] and enters the gorge. It is a long, low swell of [[lore-itharisul|ithasul]] from bank to bank, gray and without a seam, and the river slides over it smooth. The custodians call it _ithavanu'sul_ (still-water stone), for the lake it keeps.
 
 ## What It Does
 
@@ -47,4 +47,4 @@ The sill is a day along the southern shore of the lake from the terrace country,
 - [[place-klhrlake|The Bowl Lake]]—the water the sill holds to its level
 - [[place-koathevoi|Koathevoi]]—the terrace town whose lowest walls are under water
 - [[place-mirthaan|Mirthaan]]—the sanctuary whose custodians tend the sill
-- [[lore-itharisul|Ithári'sul]]—the substance of the works, and the states a work passes through
+- [[lore-itharisul|Ithasul]]—the substance of the works, and the states a work passes through

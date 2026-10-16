@@ -16,7 +16,7 @@ data:
       stated: {calendar: wintertally, text: "33 TR"}
       sources: [affiliation-malldbndlg, place-falkensten, place-falkhaven, affiliation-kngdmnrdhm]
       summary: >-
-        The Stormhand Brotherhood, the largest company the Compact ever signed, crosses the frontier on a Nordheim jarl's contract to take Falkenstein and the crossing it commands. The western villages raise a common muster at Hárholt's pines under Waldulf yra Hildskorn wur Falkenstein, let the company march a week into the forest, and break it in a wooded valley where it cannot form. Half the company dies; the muster takes most of the rest alive, ransoms them home through the Compact, and lets them carry their dead.
+        The Stormhand Brotherhood, the largest company the Compact ever signed, crosses the frontier on a Nordheim jarl's contract to take Falkenstein and the crossing it commands. The western villages raise a common muster at Harholt's pines under Waldulf yra Hildskorn wur Falkenstein, let the company march a week into the forest, and break it in a wooded valley where it cannot form. Half the company dies; the muster takes most of the rest alive, ransoms them home through the Compact, and lets them carry their dead.
       standing: attested
       names:
         - {name: the Stormhand's Field, by: lore-varokhiclt}
@@ -56,14 +56,14 @@ The hill of [[place-falkensten|Falkenstein]] commands the easiest crossing betwe
 
 ## The Week in the Forest
 
-The western villages' elders met under the old pines at [[place-harholt|Hárholt]], where Falkhaven's musters gather in the thaw, agreed that the danger was common to all of them, and laid their fragments of the talisman together for **Waldulf yra Hildskorn wur Falkenstein**, War Chief of the hill fort the company had come for. Waldulf did not hold the hill. He let the Stormhand take its empty slopes, let it march on for the villages behind, and kept the muster in the trees on either side of its road for a week, as Dorgulf had done with the legion four centuries before. On the seventh day the company came down into a wooded valley where six hundred men in mail could not form a line, and the muster came out of the trees.
+The western villages' elders met under the old pines at [[place-harholt|Harholt]], where Falkhaven's musters gather in the thaw, agreed that the danger was common to all of them, and laid their fragments of the talisman together for **Waldulf yra Hildskorn wur Falkenstein**, War Chief of the hill fort the company had come for. Waldulf did not hold the hill. He let the Stormhand take its empty slopes, let it march on for the villages behind, and kept the muster in the trees on either side of its road for a week, as Dorgulf had done with the legion four centuries before. On the seventh day the company came down into a wooded valley where six hundred men in mail could not form a line, and the muster came out of the trees.
 
 Half the company died in the valley. The muster took most of the rest alive, which is the thing the Varokh tell the story for. A Nordlander is worth ransoming, and these were worth a great deal: the Compact paid for every one of them, through Waldburg, over the next two winters. The muster let the survivors carry their dead home over the frontier under truce, and the Brotherhood's dead got their grave-ale in their own halls. No field was left in the valley, because no one was left on it.
 
 ## What It Left
 
 - **Falkenstein's watch.** The hill fort has been manned in every season since, and its War Chief's word carries further inside its timber ring than any War Chief's in the forest.
-- **The Hall's caution.** The Compact tells the story to every new captain, and a company that signs to take ground in Vrystwald signs knowing what the Stormhand found there.
+- **The Hall's caution.** The Compact tells the story to every new captain, and a company that signs to take ground in Vristwald signs knowing what the Stormhand found there.
 - **The ransom.** The largest the forest ever took, and the reason the Nordmal halls of the Nalthmark still say, sourly, that the Varokh are reasonable people to lose to.
 - **The valley.** A wooded valley a week inside the frontier with rusted mail in its leaf-mould and nothing else; the Varokh treat it as ordinary ground, because it is.
 

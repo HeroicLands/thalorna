@@ -1,9 +1,9 @@
 ---
 shortcode: panepistfnd
-name: {full: The Founding of the Plûmepistémion, aliases: [The Federation of the Schools]}
+name: {full: The Founding of the Epistémion, aliases: [The Federation of the Schools]}
 type: lore
 subType: history
-description: "Around 400 BF the leading philosophical schools of the Helionite city-states agree to a common federation—the Plûmepistémion, a place for every domain of knowledge, of which the arcane is one college among many."
+description: "Around 400 BF the leading philosophical schools of the Helionite city-states agree to a common federation—the Epistémion, a place for every domain of knowledge, of which the arcane is one college among many."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,10 +13,10 @@ data:
       depth: world
       sources: [affiliation-panepistmm, place-helionis]
       summary: >-
-        The leading philosophical schools of the Helionite city-states agree to a common federation of standards and mutual recognition. The Plûmepistémion is not a guild or a government body but an intellectual society, organized into colleges of roughly equal standing—metaphysics, ethics, logic, natural philosophy, political thought, aesthetics, and the arcane arts among them. A scholar it credentials is received in any Helionite city.
+        The leading philosophical schools of the Helionite city-states agree to a common federation of standards and mutual recognition. The Epistémion is not a guild or a government body but an intellectual society, organized into colleges of roughly equal standing—metaphysics, ethics, logic, natural philosophy, political thought, aesthetics, and the arcane arts among them. A scholar it credentials is received in any Helionite city.
       standing: attested
       names:
-        - name: Plûmepistémion
+        - name: Epistémion
           by: place-helionis
           gloss: the place of all knowledge, the Helonic name the Vylarians kept when the schools came under their rule
       where:
@@ -28,7 +28,7 @@ data:
             knowledge: named
           - place: place-aukhelathrgq
             how: >-
-              centuries of exchange with the river empire run both ways—Helionite philosophy into Khelâthi theological debate, Khelâthi mathematics and astronomy into Helionite scholarship
+              centuries of exchange with the river empire run both ways—Helionite philosophy into Khelathi theological debate, Khelathi mathematics and astronomy into Helionite scholarship
             knowledge: named
           - place: place-byzariargn
             how: the academies here share the roots and have diverged from them over centuries
@@ -49,12 +49,12 @@ data:
 ---
 
 The most significant of the [[place-helionis|Helionite]] institutions was the
-[[affiliation-panepistmm|Plûmepistémion]]—the _place of all knowledge_, a Helonic name
+[[affiliation-panepistmm|Epistémion]]—the _place of all knowledge_, a Helonic name
 the Vylarians kept when the schools came under their rule, and which these pages also call the Academy of Knowledge.
 
 It was conceived as a federation of all philosophical inquiry. Each city-state had its own scholarly
 traditions—some emphasizing natural philosophy, others ethics, others the arcane—and the
-Plûmepistémion was an attempt to unite them under a shared framework of standards and mutual recognition.
+Epistémion was an attempt to unite them under a shared framework of standards and mutual recognition.
 It was not a guild or a government body: it maintained its standards through peer reputation and
 scholarly consensus rather than legal authority, and it had no power to compel anyone.
 

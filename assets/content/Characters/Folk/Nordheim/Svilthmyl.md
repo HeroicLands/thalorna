@@ -1,9 +1,9 @@
 ---
 shortcode: svilthmyl
-name: {full: Svilthmýl, aliases: [Overseer Svilthmýl]}
+name: {full: Svilthmil, aliases: [Overseer Svilthmil]}
 type: being
 subType: npc
-description: The overseer who replaced Gnaldrmýl and treats Thraskorv Járnskel with particular savagery.
+description: The overseer who replaced Gnaldrmil and treats Thraskorv Jarnskel with particular savagery.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Svilthmýl is a 41-year-old man who stands 6'2" tall with a heavy build. He has pale skin, weathered complexion, blonde hair, and hazel eyes.
+Svilthmil is a 41-year-old man who stands 6'2" tall with a heavy build. He has pale skin, weathered complexion, blonde hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Svilthmýl is the overseer who replaced Gnaldrmýl and treats [[being-thrskrvjrnskl|Thraskorv Járnskel]] with particular savagery. He replaced Gnaldrmýl as overseer and is no less cruel.
+Svilthmil is the overseer who replaced Gnaldrmil and treats [[being-thrskrvjrnskl|Thraskorv Jarnskel]] with particular savagery. He replaced Gnaldrmil as overseer and is no less cruel.

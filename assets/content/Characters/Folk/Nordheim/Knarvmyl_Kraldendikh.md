@@ -1,8 +1,8 @@
 ---
 shortcode: knarvmylkral
 name:
-  full: Knarvmýl Kraldendikh
-  aliases: [Merchant-Lord Knarvmýl Kraldendikh, Merchant-Lord Knarvmýl]
+  full: Knarvmil Kraldendik
+  aliases: [Merchant-Lord Knarvmil Kraldendik, Merchant-Lord Knarvmil]
 type: being
 subType: npc
 description: A coastal merchant prince who wanted to hire Gnurthselda Hafringr's services for a private war against a rival.
@@ -34,8 +34,8 @@ data:
 
 # Appearance {#appearance}
 
-Knarvmýl Kraldendikh is a 34-year-old man who stands 5'11" tall with a heavy build. He has fair skin, smooth complexion, brown hair, and grey eyes.
+Knarvmil Kraldendik is a 34-year-old man who stands 5'11" tall with a heavy build. He has fair skin, smooth complexion, brown hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Knarvmýl Kraldendikh is a coastal merchant prince who wanted to hire [[being-gnrthsldhfrngr|Gnurthselda Hafringr]]'s services for a private war against a rival. When Gnurthselda refused, he circulated rumors about her.
+Knarvmil Kraldendik is a coastal merchant prince who wanted to hire [[being-gnrthsldhfrngr|Gnurthselda Hafringr]]'s services for a private war against a rival. When Gnurthselda refused, he circulated rumors about her.

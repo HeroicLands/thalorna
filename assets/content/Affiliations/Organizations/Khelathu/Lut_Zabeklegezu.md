@@ -1,6 +1,6 @@
 ---
 shortcode: lutzabeklegz
-name: {full: Lut-Zâbeklegezu, aliases: []}
+name: {full: Lut-Zabeklegezu, aliases: []}
 type: affiliation
 subType: lineage
 description: A noble household of long standing whose master has kept the same servants for decades, and where a missing seal-ring is a matter of real consequence
@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-In **Lut-Zâbeklegezu**, a noble household of long standing in [[place-aukhelathrgq|Aû'Khelâthu]], the most closely guarded object is the master's seal-ring, and a missing one is a matter of real consequence. The master has kept the same servants for decades rather than replacing them as fashion or convenience suggested, so the household's business runs on trust built over years and not on written procedure. A servant suspected of losing or misusing the seal faces a reckoning sharper than the object's value explains, because what is at stake is the trust the whole household depends on.
+In **Lut-Zabeklegezu**, a noble household of long standing in [[place-aukhelathrgq|Au'Khelathu]], the most closely guarded object is the master's seal-ring, and a missing one is a matter of real consequence. The master has kept the same servants for decades rather than replacing them as fashion or convenience suggested, so the household's business runs on trust built over years and not on written procedure. A servant suspected of losing or misusing the seal faces a reckoning sharper than the object's value explains, because what is at stake is the trust the whole household depends on.
 
 ## Character
 
@@ -50,7 +50,7 @@ The household runs on loyalty and long habit. Its master keeps the same servants
 
 ## Relations
 
-Lut-Zâbeklegezu is a noble household of [[place-aukhelathrgq|Aû'Khelâthu]], bound together by the master and the servants he has kept. Every member knows every other, and the master knows what each can be trusted with. A new servant joins a circle that has been shut for years, and learns its habits by watching.
+Lut-Zabeklegezu is a noble household of [[place-aukhelathrgq|Au'Khelathu]], bound together by the master and the servants he has kept. Every member knows every other, and the master knows what each can be trusted with. A new servant joins a circle that has been shut for years, and learns its habits by watching.
 
 ## Commerce and Currency
 
@@ -60,4 +60,4 @@ If the ring is lost, tell the master before you tell anyone else, and tell him t
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to

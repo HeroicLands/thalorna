@@ -175,7 +175,7 @@ What you took for a boulder at the mouth of the cave is breathing. The brown-and
 
 # Dossier {#dossier}
 
-The Rock Python is the great constrictor of the deep jungle, rocky highlands and caves, thirty to forty feet long and one to two feet thick. It lies in the jungle and cave country of [[place-bharavavana|Bhāravavana]] in southern Vedyara and in the limestone caves and sink-holes of [[place-kankulrgn|K'ankul]]. It is slow, and once prey is located it is almost impossible to stop. It can wait at one boulder or cave-mouth for months.
+The Rock Python is the great constrictor of the deep jungle, rocky highlands and caves, thirty to forty feet long and one to two feet thick. It lies in the jungle and cave country of [[place-bharavavana|Bharavavana]] in southern Vedyara and in the limestone caves and sink-holes of [[place-kankulrgn|K'ankul]]. It is slow, and once prey is located it is almost impossible to stop. It can wait at one boulder or cave-mouth for months.
 
 ## Presentation
 
@@ -183,7 +183,7 @@ A creature of immense mass. The scales form complex geometric patterns of earth-
 
 ## In the Land
 
-Rock pythons lie in the jungle, rocky highlands and cave country of [[place-bharavavana|Bhāravavana]] in southern Vedyara and in the limestone caves and sink-holes of [[place-kankulrgn|K'ankul]]. A snake keeps one boulder, one cave-mouth or one hollow bank for months, hunting from it at dusk. It takes pigs, deer and monkeys and may go weeks between meals. A big snake does not move far from its lair.
+Rock pythons lie in the jungle, rocky highlands and cave country of [[place-bharavavana|Bharavavana]] in southern Vedyara and in the limestone caves and sink-holes of [[place-kankulrgn|K'ankul]]. A snake keeps one boulder, one cave-mouth or one hollow bank for months, hunting from it at dusk. It takes pigs, deer and monkeys and may go weeks between meals. A big snake does not move far from its lair.
 
 ## Key Behaviors
 

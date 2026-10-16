@@ -14,15 +14,15 @@ At Dvilgborg the garrison keeps a watch that does not sleep, and a recruit learn
 
 ## The Garrison
 
-The garrison's Master-at-Arms is [[being-gnldrthnslvrgr|Gnaldrthann Sólvargr]] of [[place-hvalgvik|Hvalgvík]], who trains its recruits and manages its daily operations. A recruit at Dvilgborg answers to him for drill, for kit and for every watch kept or missed, and a garrison that holds its height is the measure of how well he does that work.
+The garrison's Master-at-Arms is [[being-gnldrthnslvrgr|Gnaldrthann Solvargr]] of [[place-hvalgvik|Hvalgvík]], who trains its recruits and manages its daily operations. A recruit at Dvilgborg answers to him for drill, for kit and for every watch kept or missed, and a garrison that holds its height is the measure of how well he does that work.
 
 ## At a Glance
 
 - Kind: a garrisoned stronghold on a height.
 - Land: [[place-malagna|Malagna]], under the crown at [[place-gnarthborg|Gnarthborg]].
-- Master-at-Arms: Gnaldrthann Sólvargr, who answers for drill, kit and the watch.
+- Master-at-Arms: Gnaldrthann Solvargr, who answers for drill, kit and the watch.
 
 ## See Also
 
-- [[being-gnldrthnslvrgr|Gnaldrthann Sólvargr]]—the garrison's Master-at-Arms
+- [[being-gnldrthnslvrgr|Gnaldrthann Solvargr]]—the garrison's Master-at-Arms
 - [[place-malagna|Malagna]]—the kingdom's land

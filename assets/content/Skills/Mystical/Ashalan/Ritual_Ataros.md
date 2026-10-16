@@ -1,6 +1,6 @@
 ---
 shortcode: ataros
-name: {full: "Ritual: Ātáröš", aliases: [The Sacred Flame, Fire God]}
+name: {full: "Ritual: Ataros", aliases: [The Sacred Flame, Fire God]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-ataros|Faith of Ātáröš]]
+See [[affiliation-ataros|Faith of Ataros]]

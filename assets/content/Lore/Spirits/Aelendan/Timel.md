@@ -1,6 +1,6 @@
 ---
 shortcode: tipelspr
-name: {full: "Tîmel, the Hawk of the Spine", aliases: []}
+name: {full: "Timel, the Hawk of the Spine", aliases: []}
 type: lore
 subType: spirit
 description: "Hawk-spirit of the high Drenavar air—distant, exact about its crags, and the Kindred consulted about weather and distance."
@@ -12,9 +12,9 @@ data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 - **Seat:** [[place-drenavrspn|the Drenavar Spine]]
 - **Territory:** the high air over the Spine, and the crags the hawks nest in
 - **Posture:** Appeased
-- **Met through:** [[skill-tipelsprt|Tîmel Spirit Power]]
+- **Met through:** [[skill-tipelsprt|Timel Spirit Power]]
 
-Tîmel holds the high air over the Drenavar Spine and the crags its hawks nest in. Of the named
+Timel holds the high air over the Drenavar Spine and the crags its hawks nest in. Of the named
 animal-kin he is the most distant: he does not deal with the tribes at their lodges, he is not
 addressed at the hearth, and he is met by going up.
 
@@ -24,5 +24,5 @@ have kept it without exception for as long as the songs record. What is given ot
 and given high.
 
 What he is consulted for is sight—weather coming over the Spine, movement on the far slopes, the
-state of a pass. A shaman with a standing relationship to Tîmel is valuable to a tribe in a way
+state of a pass. A shaman with a standing relationship to Timel is valuable to a tribe in a way
 that needs no explaining, and such shamen are correspondingly reluctant to travel.

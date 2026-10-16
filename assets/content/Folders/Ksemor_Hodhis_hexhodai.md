@@ -1,8 +1,8 @@
 ---
 shortcode: hexhodai
-name: {full: "Ksemor_Hodhis"}
+name: {full: "Zemor_Hodhis"}
 type: folder
 data: {parent: mysticalskills}
 ---
 
-This folder gathers the mystical skills of the Ksêmor Hodhîs tradition. Its members are the Incantation skills, among them Incantation Physéra, Incantation Hydalis, Incantation Kentra, Incantation Pyréthos, Incantation Zepharis and Incantation Neuménos. It sits within the Mystical Skills folder of the Esoteric tradition.
+This folder gathers the mystical skills of the Zemor Hodhis tradition. Its members are the Incantation skills, among them Incantation Fisera, Incantation Hidalis, Incantation Kentra, Incantation Pirethos, Incantation Zefaris and Incantation Neumenos. It sits within the Mystical Skills folder of the Esoteric tradition.

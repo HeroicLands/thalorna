@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-When the timber-merchants and craftspeople of [[place-aukhelathrgq|Aû'Khelâthu]] needed capital the guilds could not supply, they went to **House Qelti**, and generations of that patronage built a wealthy merchant house with trading interests across the empire. The house lends its name quickly to any venture it expects to profit by, which makes its backing sought after and, to a cautious partner, slightly suspect: a partner who looks closely finds the house's own profit written into the terms before anyone else's.
+When the timber-merchants and craftspeople of [[place-aukhelathrgq|Au'Khelathu]] needed capital the guilds could not supply, they went to **House Qelti**, and generations of that patronage built a wealthy merchant house with trading interests across the empire. The house lends its name quickly to any venture it expects to profit by, which makes its backing sought after and, to a cautious partner, slightly suspect: a partner who looks closely finds the house's own profit written into the terms before anyone else's.
 
 ## Character
 
@@ -50,7 +50,7 @@ Its master decides which ventures carry the name. The decision is a judgment abo
 
 ## Relations
 
-Generations of patronage have made House Qelti the house a timber-merchant or craftsperson goes to when the guilds have no capital to spare. Its trading interests reach across [[place-aukhelathrgq|Aû'Khelâthu]], and the patron-client tie follows the borrower home: a craftsperson the house has funded is understood by everyone in the trade to be Qelti's, for as long as the house chooses. Partners who value independence keep the house at the length of a signed term.
+Generations of patronage have made House Qelti the house a timber-merchant or craftsperson goes to when the guilds have no capital to spare. Its trading interests reach across [[place-aukhelathrgq|Au'Khelathu]], and the patron-client tie follows the borrower home: a craftsperson the house has funded is understood by everyone in the trade to be Qelti's, for as long as the house chooses. Partners who value independence keep the house at the length of a signed term.
 
 ## Commerce and Currency
 
@@ -60,4 +60,4 @@ Have a scribe read the entry back to you before you sign, line by line, and ask 
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to

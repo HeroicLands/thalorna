@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Mirthaan is the sanctuary of the [[affiliation-tharivaan|Ithári'kaan]] in the eastern river valleys of [[place-klhrbowl|the Bowl]], among [[place-klhrestrrc|the Eastern Terraces]] and below [[place-klhrcldpss|the Cloud Pass]]. It trains the custodians of the works the island's food depends on: the village works of the terraces, the wind-stones along the crest of [[place-klhrring|the Ring]], on which the storms from the sea break and come down on the Bowl as rain, and the work at the head of [[place-klhrkthrgap|the Kuethori Gap]], which holds [[place-klhrlake|the lake]] to its level. The custodians of the terraces serve the Master of the Terraces, and they go out from Mirthaan to every part of the Bowl where a terrace or a stone needs them.
+Mirthaan is the sanctuary of the [[affiliation-tharivaan|Ithakan]] in the eastern river valleys of [[place-klhrbowl|the Bowl]], among [[place-klhrestrrc|the Eastern Terraces]] and below [[place-klhrcldpss|the Cloud Pass]]. It trains the custodians of the works the island's food depends on: the village works of the terraces, the wind-stones along the crest of [[place-klhrring|the Ring]], on which the storms from the sea break and come down on the Bowl as rain, and the work at the head of [[place-klhrkthrgap|the Kuethori Gap]], which holds [[place-klhrlake|the lake]] to its level. The custodians of the terraces serve the Master of the Terraces, and they go out from Mirthaan to every part of the Bowl where a terrace or a stone needs them.
 
 ## The Holding
 

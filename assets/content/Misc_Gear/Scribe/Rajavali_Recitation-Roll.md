@@ -1,6 +1,6 @@
 ---
 shortcode: recitationroll
-name: {full: "Rājavalī Recitation-Roll", aliases: []}
+name: {full: "Rajavali Recitation-Roll", aliases: []}
 type: miscgear
 description: "The Memory-Keeper's own working roll—the displaced royal line's genealogy, recited whole on the Day of the Dissolution."
 tags: []

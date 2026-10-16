@@ -1,15 +1,15 @@
 ---
 shortcode: amqelitana2
-name: {full: Amqelitâna, aliases: [Amqê]}
+name: {full: Amqelitana, aliases: [Amqe]}
 type: being
 subType: npc
-description: "High priestess of Reth'Sa'âr's temple, who holds the archives and decides what may be read from them"
+description: "High priestess of Reth'Sa'ar's temple, who holds the archives and decides what may be read from them"
 tags: [generated, draft]
 data:
   icon: icon-person
   templatePriority: null
   archetypes: [cleric, scholar]
-  occupation: "High Priestess of Reth'Sa'âr"
+  occupation: "High Priestess of Reth'Sa'ar"
   lore: []
   culture: khelathiclt
   homes: [galezkara]
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Amqelitâna is a 38-year-old woman who stands 5'5" tall with a light build. She has golden skin, black hair, and dark brown eyes.
+Amqelitana is a 38-year-old woman who stands 5'5" tall with a light build. She has golden skin, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Amqelitâna presides as high priestess of [[lore-rethsaardty|Reth'Sa'âr]]'s temple in [[place-galezkara|Galezkara]]. Its archives answer to her alone, and what may be read from them is her decision before it is anyone else's. For the old records, she is the one to ask rather than the archive.
+Amqelitana presides as high priestess of [[lore-rethsaardty|Reth'Sa'ar]]'s temple in [[place-galezkara|Galezkara]]. Its archives answer to her alone, and what may be read from them is her decision before it is anyone else's. For the old records, she is the one to ask rather than the archive.

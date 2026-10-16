@@ -3,16 +3,16 @@ shortcode: minnir
 name: {full: Minnir, aliases: []}
 type: lore
 subType: theology
-description: "The counselor whose severed head appears beside Ódvar, associated with the well where the god pays an eye for wisdom."
+description: "The counselor whose severed head appears beside Odvar, associated with the well where the god pays an eye for wisdom."
 tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-The first thing taught at [[place-odholm|Ódholm]] is that the All-Father is not wise because he was born wise; he is wise because he paid. The payment was made at **Minnir**'s well, and Minnir himself is the other half of the lesson: in the [[affiliation-odvar|Faith of Ódvar]] he appears as a severed head from whom [[lore-odvardty|Ódvar]] continues to seek counsel.
+The first thing taught at [[place-odholm|Odholm]] is that the All-Father is not wise because he was born wise; he is wise because he paid. The payment was made at **Minnir**'s well, and Minnir himself is the other half of the lesson: in the [[affiliation-odvar|Faith of Odvar]] he appears as a severed head from whom [[lore-odvardty|Odvar]] continues to seek counsel.
 
-The well bearing Minnir's name holds waters that bestow wisdom, and the god sacrificed an eye for a drink of them. The eye is the only price Ódvar pays for the runes, and the well is the only place he pays it. Ódholm's rune-hall teaches the rest: Ódvar goes to the well to learn the world's end, the runes stand in the water he drinks, and the first thing they spell for him is his own death at [[lore-aldarlok|Aldarlok]].
+The well bearing Minnir's name holds waters that bestow wisdom, and the god sacrificed an eye for a drink of them. The eye is the only price Odvar pays for the runes, and the well is the only place he pays it. Odholm's rune-hall teaches the rest: Odvar goes to the well to learn the world's end, the runes stand in the water he drinks, and the first thing they spell for him is his own death at [[lore-aldarlok|Aldarlok]].
 
-## The Rite at Ódholm
+## The Rite at Odholm
 
 The faith keeps the well in a rite. The [[affiliation-odvar|Rite of Minnir's Well]] uses a blessed chalice to stand for those waters when the rune-staves are recast for the coming season, and it teaches in a gesture what the rune-priest teaches in words: wisdom must be paid for.
 
@@ -23,7 +23,7 @@ Dark under the brim,
 a darkness paid for;
 under the darkness,
 understanding wakens.
-Ódvar goes down
+Odvar goes down
 to the wisdom water.
 He bears the question
 no triumph can answer:
@@ -167,7 +167,7 @@ he gathers them still.
 The wolf in his knowing
 has barred no door.
 
-Ódvar speaks;
+Odvar speaks;
 winter lies within him.
 “I cannot unknow
 what the water has given.
@@ -186,7 +186,7 @@ my word can hold fast.
 I have learned my death;
 my life is not finished.”
 
-At Ódholm, the chalice
+At Odholm, the chalice
 is raised in the rite.
 Its draft stands for
 the depth of the well.
@@ -205,7 +205,7 @@ to the work of learning.
 The god's missing eye
 has weight in that bending.
 
-The watcher at Ódholm
+The watcher at Odholm
 feels cold in his fingers.
 A lamp burns low;
 the long night deepens.
@@ -241,7 +241,7 @@ with the deed still yours.
 Give counsel its weight
 in the work that follows.”
 
-Ódvar bears knowledge
+Odvar bears knowledge
 toward all he defends.
 The feast keeps savor
 beneath the last shadow.
@@ -256,15 +256,15 @@ with nothing concealed.
 Minnir's voice remains
 in the mouth of the telling.
 The severed head
-has its place beside Ódvar.
-Still, Ódvar listens;
+has its place beside Odvar.
+Still, Odvar listens;
 still, wisdom is bitter.
 
 Eldheim will open;
 winter will descend.
 Valsal will yield
 its companies for battle.
-Ódvar goes forth
+Odvar goes forth
 to the field he foresaw.
 The wolf will take him;
 his son will take Vetrúlfr.

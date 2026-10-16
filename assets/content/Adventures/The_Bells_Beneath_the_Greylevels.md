@@ -93,7 +93,7 @@ Once the reveal lands, the party wants to stop the takings without drowning the 
 Pick the entry that suits the hero. Each leads to Threnhallow on a rising tide.
 
 - **The thief.** The commission of sewers' endowment chest sits on the mound, unclaimed, and a Greywater lawyer wants the rolls inside it for a lawsuit. He says nothing of the silver vessels the house held, which the thief has heard about elsewhere.
-- **The mercenary or common soldier.** A Levels family hires an escort to bring home a jeweled reliquary of [[affiliation-lusinia|Lúsinía]]'s healers that it left in the house's keeping. The pilot they hire insists on going out by day and coming back before the turn, and the tide turns early.
+- **The mercenary or common soldier.** A Levels family hires an escort to bring home a jeweled reliquary of [[affiliation-lusinia|Lusinia]]'s healers that it left in the house's keeping. The pilot they hire insists on going out by day and coming back before the turn, and the tide turns early.
 - **The leader.** The pilot **Aldgar Wraymon**'s son rowed two travelers out to the mound and did not come back. Aldgar heard the bell. He asks the leader to come with him, and he is the one at the oars in the opening.
 - **The lone wanderer.** The wanderer is crossing the Levels on the causeway at low water, misjudges the tide, and reaches the mound with the water at the wanderer's knees. The pilot in the opening is a fowler who sees the wanderer and rows over, against his own judgment.
 
@@ -267,7 +267,7 @@ The guest cells hold what the drowned's last travelers carried: a little money, 
 
 - The **house's silver vessels**, the vessels of its rites, in a sealed niche.
 - The **endowment chest** of the commission of sewers, holding the deeds of the endowment, the rolls of its dispute and a quantity of coin from the years it was paid.
-- The **reliquary** of Lúsinía's healers, gold and set with stones, sealed in a niche above the old flood line. Its family holds that a sick person who touches it in faith mends faster, and it is plainly worth more than the rest together.
+- The **reliquary** of Lusinia's healers, gold and set with stones, sealed in a niche above the old flood line. Its family holds that a sick person who touches it in faith mends faster, and it is plainly worth more than the rest together.
 - From the guest cells, the travelers' purses and the pilot's compass.
 
 > [!TIP]

@@ -1,9 +1,9 @@
 ---
 shortcode: qettelgu
-name: {full: The Qet Telgu, aliases: [The First Occasion, The Founding of Aû'Khelâthu]}
+name: {full: The Qet Telgu, aliases: [The First Occasion, The Founding of Au'Khelathu]}
 type: lore
 subType: history
-description: "Around 2110 BF the first Gar-Aû unites the river valley under a single crown and Aû'Khelâthu is founded on its river—the First Occasion, from which Aû'Khelâthu, Okháris and their neighbors have counted every year since."
+description: "Around 2110 BF the first Gar-Au unites the river valley under a single crown and Au'Khelathu is founded on its river—the First Occasion, from which Au'Khelathu, Okharis and their neighbors have counted every year since."
 tags: [history, spine]
 data:
   packFolder: regkhhist
@@ -14,13 +14,13 @@ data:
       depth: world
       sources: [place-ankrscntnnt, affiliation-empireakhlth]
       summary: >-
-        The first Gar-Aû unites the river valley under a single crown and Aû'Khelâthu is founded on its river. The temple chronologies of every dynasty and Gar-Aû since run back in unbroken sequence to this point, and the reckoning spreads to every polity inside the empire's cultural gravity.
+        The first Gar-Au unites the river valley under a single crown and Au'Khelathu is founded on its river. The temple chronologies of every dynasty and Gar-Au since run back in unbroken sequence to this point, and the reckoning spreads to every polity inside the empire's cultural gravity.
       standing: single-source
       names:
         - name: The Qet Telgu
           by: affiliation-empireakhlth
           gloss: the First Occasion, from which years are numbered ST
-        - name: the founding of Aû'Khelâthu on its river
+        - name: the founding of Au'Khelathu on its river
           by: place-ankrscntnnt
           gloss: how the same occurrence is dated from outside the reckoning it began
       where:
@@ -30,7 +30,7 @@ data:
             how: every year here is numbered from it, as a matter of course
             knowledge: named
           - place: place-bethuargn
-            how: the local reckoning is its own and shows the Khelâthi system throughout
+            how: the local reckoning is its own and shows the Khelathi system throughout
             knowledge: named
       who:
         - {ref: affiliation-empireakhlth, role: founder}
@@ -40,25 +40,25 @@ data:
           says: >-
             History begins at the Qet Telgu. The mound of Yath-Telgu is the very mound that first lifted from the waters of creation, the gods established the order of civilization, and what came before was chaos.
           agrees: partly
-          withholds: any account of the era before it, which the Khelâthi do not trouble to date
+          withholds: any account of the era before it, which the Khelathi do not trouble to date
         - by: place-worldthlrn
           says: >-
             Nothing. No other cosmogony is recorded anywhere, and nothing addresses whether the world is as young as this.
           agrees: silent
       unresolved:
-        - the age of the world, which nothing outside Aû'Khelâthu addresses and which the Khelâthi account does not reconcile with lineages five millennia older
+        - the age of the world, which nothing outside Au'Khelathu addresses and which the Khelathi account does not reconcile with lineages five millennia older
         - whether the earliest centuries of the king-lists are accurate, the lists themselves being real
 ---
 
-Ask a [[lore-khelathiclt|Khelâthi]] chronicler when history began and the answer is a date, not a story: the **Qet Telgu**, the **First Occasion**, when the first [[lore-garauu|Gar-Aû]] united the river valley under a single crown. Everything the temples can date is dated from it, and what came before is chaos, which they seldom bother to date at all.
+Ask a [[lore-khelathiclt|Khelathi]] chronicler when history began and the answer is a date, not a story: the **Qet Telgu**, the **First Occasion**, when the first [[lore-garauu|Gar-Au]] united the river valley under a single crown. Everything the temples can date is dated from it, and what came before is chaos, which they seldom bother to date at all.
 
-"Count forward from the Occasion and never back before it," a temple chronicler at [[place-khelunu|Khelunu]] tells a novice copying the king-lists. "The count is unbroken. Every dynasty and every Gar-Aû stands in its place, entry after entry, to the first. Let foreigners ask whether the first entries are true. The entries are there."
+"Count forward from the Occasion and never back before it," a temple chronicler at [[place-khelunu|Khelunu]] tells a novice copying the king-lists. "The count is unbroken. Every dynasty and every Gar-Au stands in its place, entry after entry, to the first. Let foreigners ask whether the first entries are true. The entries are there."
 
-Years from the Qet Telgu are written ST, "Selqur Qet Telgu," and the present year is about 2,830 ST, which is 720 AF in the western calendar. [[affiliation-okharis|Okháris]] numbers its years from the same point as a matter of course. **Bethûa** keeps its own reckoning, which shows the Khelâthi system throughout.
+Years from the Qet Telgu are written ST, "Selqur Qet Telgu," and the present year is about 2,830 ST, which is 720 AF in the western calendar. [[affiliation-okharis|Okharis]] numbers its years from the same point as a matter of course. **Bethua** keeps its own reckoning, which shows the Khelathi system throughout.
 
-It is one occurrence with two descriptions. Seen from outside the reckoning it began, it is the founding of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] on its river. Seen from inside, it is the moment civilization was established and the beginning of everything that can be dated. The temple chronologies at Khelunu and elsewhere are meticulous, unbroken and real, and whether they are accurate for the earliest centuries is another matter. The first dynasties hold reigns of improbable length, the first two Gar-Aûu being entered at 150 years each, and physical evidence for them is sparse and contradictory. The priesthood of [[lore-rethsaardty|Reth'Sa'âr]] compiled the lists, and for the Khelâthi that settles it.
+It is one occurrence with two descriptions. Seen from outside the reckoning it began, it is the founding of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] on its river. Seen from inside, it is the moment civilization was established and the beginning of everything that can be dated. The temple chronologies at Khelunu and elsewhere are meticulous, unbroken and real, and whether they are accurate for the earliest centuries is another matter. The first dynasties hold reigns of improbable length, the first two Gar-Auu being entered at 150 years each, and physical evidence for them is sparse and contradictory. The priesthood of [[lore-rethsaardty|Reth'Sa'ar]] compiled the lists, and for the Khelathi that settles it.
 
-The Khelâthi claim more than a founding. The mound of [[place-yathtelgu|Yath-Telgu]], midstream in the great river, is held to be the very mound that first lifted from the waters of creation at the Qet Telgu, which makes the First Occasion the creation of the world and the founding of Khelâthi kingship at once. Two Elder Races reached [[place-worldthlrn|Thalorna]] five millennia before it. The Khelâthi account does not address that, and nothing outside it disputes the claim.
+The Khelathi claim more than a founding. The mound of [[place-yathtelgu|Yath-Telgu]], midstream in the great river, is held to be the very mound that first lifted from the waters of creation at the Qet Telgu, which makes the First Occasion the creation of the world and the founding of Khelathi kingship at once. Two Elder Races reached [[place-worldthlrn|Thalorna]] five millennia before it. The Khelathi account does not address that, and nothing outside it disputes the claim.
 
 [[lore-firstoccasion|The First Occasion]] begins where the count begins:
 
@@ -69,5 +69,5 @@ The Khelâthi claim more than a founding. The mound of [[place-yathtelgu|Yath-Te
 ## See Also
 
 - [[lore-firstoccasion|The First Occasion]]—the telling that opens the count
-- [[lore-khelathclndr|The Khelâthi Calendar]]—the seasons and the regnal years beside it
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the state founded on the First Occasion
+- [[lore-khelathclndr|The Khelathi Calendar]]—the seasons and the regnal years beside it
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—the state founded on the First Occasion

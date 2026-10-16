@@ -1,6 +1,6 @@
 ---
 shortcode: genhen
-name: {full: Génhén, aliases: [The Minister of Entropy, Hén Séi, The Bureau of Unraveling]}
+name: {full: Genhén, aliases: [The Minister of Entropy, Huen Sei, The Bureau of Unraveling]}
 type: affiliation
 subType: faithtradition
 description: "Entropy."
@@ -14,16 +14,16 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tānchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
         description: >-
-          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tāntsou consider worse.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tantsou consider worse.
       - level: 1
         title: Petitioner
         description: >-
-          Every Tāntsou: keeps a moral ledger, is observed by the household's Tsàikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -47,14 +47,14 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Téng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Génhén, The Minister of Entropy: >-
-        Téng Gui of the Hén Séi, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Hénwō: >-
+      Genhén, The Minister of Entropy: >-
+        Teng Gui of the Huen Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Henwo: >-
         Controlled Dissolution Spirits, who execute authorized unraveling.
       Yoléi: >-
-        Trickster Spirits, who inhabit the boundary between classified order and the Hénléi. Technically under Génhén's authority and notoriously difficult to administer.
+        Trickster Spirits, who inhabit the boundary between classified order and the Henléi. Technically under Genhén's authority and notoriously difficult to administer.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
       Registrar: >-
@@ -81,13 +81,13 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Génhén—The Minister of Entropy
+## Genhén—The Minister of Entropy
 
-- **Bureau:** Hén Séi, The Bureau of Unraveling
+- **Bureau:** Huen Sei, The Bureau of Unraveling
 - **Domain:** Entropy
-- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Léi]]
+- **Parent:** [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-Somebody must be responsible for things ending, and the Great Sorting appointed Génhén. Hén Séi
+Somebody must be responsible for things ending, and the Great Sorting appointed Genhén. Huen Sei
 conducts _authorized_ unraveling: the collapse of a structure that has outlived its classification,
 the failure of a lineage that should not continue, the flood that clears ground.
 
@@ -99,11 +99,11 @@ of jurisdictional gaps in the administration.
 
 ### Lesser Spirits
 
-- **Hénwō**—Controlled Dissolution Spirits, who execute authorized unraveling.
-- **Yoléi**—Trickster Spirits, who inhabit the boundary between classified order and the Hénléi. Technically under Génhén's authority and notoriously difficult to administer.
+- **Henwo**—Controlled Dissolution Spirits, who execute authorized unraveling.
+- **Yoléi**—Trickster Spirits, who inhabit the boundary between classified order and the Henléi. Technically under Genhén's authority and notoriously difficult to administer.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Léi]]—the Celestial Bureaucracy this bureau belongs to
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—the mortal realm it administers
-- [[skill-tengchouscript|Téng Chou Script]]—the writing every petition is made in
+- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—the Celestial Bureaucracy this bureau belongs to
+- [[affiliation-tantsouempr|Empire of Tantsou]]—the mortal realm it administers
+- [[skill-tengchouscript|Teng Chou Script]]—the writing every petition is made in

@@ -1,9 +1,9 @@
 ---
 shortcode: xikulchaklrgn
-name: {full: Xik'ul Ch'akal Region, aliases: []}
+name: {full: Shik'ul Ch'akal Region, aliases: []}
 type: place
 subType: region
-description: "Lakes, rivers, portage-routes and maple forest—the land of Xik'ul Ch'akal, in Northern K'ich'chik."
+description: "Lakes, rivers, portage-routes and maple forest—the land of Shik'ul Ch'akal, in Northern K'ich'chik."
 tags: [region]
 data:
   demonym: null
@@ -18,17 +18,17 @@ data:
 
 ## Overview
 
-Xik'ul Ch'akal Region is the land of [[affiliation-xikulchakl|Xik'ul Ch'akal]], and lies within [[place-nrthrnkchchk|Northern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
+Shik'ul Ch'akal Region is the land of [[affiliation-xikulchakl|Shik'ul Ch'akal]], and lies within [[place-nrthrnkchchk|Northern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
-Xik'ul Ch'akal—"Water Path" in K'ich'chik—encompasses a vast network of interconnected lakes, rushing rivers, and dense hardwood and boreal forests that stretch endlessly toward the northeastern horizon.
+Shik'ul Ch'akal—"Water Path" in K'ich'chik—encompasses a vast network of interconnected lakes, rushing rivers, and dense hardwood and boreal forests that stretch endlessly toward the northeastern horizon.
 
 ## Geography
 
-Xik'ul Ch'akal is dominated by water in all its forms: a labyrinth of lakes ranging from vast inland seas hundreds of miles across to small pools hidden in the forest depths. The largest lakes of all form the eastern boundary, their waters so vast they seem almost oceanic. Connecting these lakes are rivers—some gently flowing, others wild and broken with rapids that can swallow canoes whole. The portage routes connecting different lake systems form a network of trails that the Ha'ik know intimately; a skilled canoeist can traverse the entire region by following these waterways, moving from any lake to any other with careful planning and weeks of travel.
+Shik'ul Ch'akal is dominated by water in all its forms: a labyrinth of lakes ranging from vast inland seas hundreds of miles across to small pools hidden in the forest depths. The largest lakes of all form the eastern boundary, their waters so vast they seem almost oceanic. Connecting these lakes are rivers—some gently flowing, others wild and broken with rapids that can swallow canoes whole. The portage routes connecting different lake systems form a network of trails that the Ha'ik know intimately; a skilled canoeist can traverse the entire region by following these waterways, moving from any lake to any other with careful planning and weeks of travel.
 
 The forests surrounding the waterways are mixed boreal and hardwood: spruce and pine provide shelter and materials, while maple, birch, and oak offer resources for tools, fuel, and food. The sugar maples of the southern portions of Ha'ik territory produce sap in spring, and the Ha'ik have developed elaborate syrup production and maple sugar crafting traditions that are traded throughout the northern frontier. The forests are productive in other ways as well; the Ha'ik gather roots, berries, nuts, and medicinal plants with systematic precision, and this botanical knowledge has developed into a sophisticated herbal medicine tradition that makes Ha'ik healers sought-after even by distant peoples.
 
-The western and southwestern borders of Xik'ul Ch'akal shade gradually into the prairie lands of [[affiliation-penqalchakal|P'enqal Ch'akal]], creating a transitional zone of marshy forests and scattered meadows where the Ha'ik and Tz'okum maintain contested hunting grounds. The northwestern borders meet [[affiliation-ixtemtzul|Ixtem Tzul]] in a zone of boreal forest; here, the No'kin and Ha'ik maintain friendly trading relationships and shared hunting grounds. The southern boundary approaches [[place-hanalxilanrgn|Ha'nal Xi'lan]]'s contested rivers, and the southeastern approaches [[affiliation-tzumanotun|Tz'uma No'tun]]'s mountains and swamplands. The nature of inter-tribal relations along these borders is largely unknown to K'ich'chik observers, though the occasional flow of goods between northern nations suggests that some form of trade exists among them—conducted entirely outside K'ich'chik knowledge or participation.
+The western and southwestern borders of Shik'ul Ch'akal shade gradually into the prairie lands of [[affiliation-penqalchakal|P'enqal Ch'akal]], creating a transitional zone of marshy forests and scattered meadows where the Ha'ik and Ts'okum maintain contested hunting grounds. The northwestern borders meet [[affiliation-ixtemtzul|Ishtem Tsul]] in a zone of boreal forest; here, the No'kin and Ha'ik maintain friendly trading relationships and shared hunting grounds. The southern boundary approaches [[place-hanalxilanrgn|Ha'nal Shi'lan]]'s contested rivers, and the southeastern approaches [[affiliation-tzumanotun|Ts'uma No'tun]]'s mountains and swamplands. The nature of inter-tribal relations along these borders is largely unknown to K'ich'chik observers, though the occasional flow of goods between northern nations suggests that some form of trade exists among them—conducted entirely outside K'ich'chik knowledge or participation.
 
 ## Trade
 
@@ -38,6 +38,6 @@ The maple sugar and maple syrup produced in Ha'ik territory command premium pric
 
 ## See Also
 
-- [[affiliation-xikulchakl|Xik'ul Ch'akal]]—The realm that holds this land
+- [[affiliation-xikulchakl|Shik'ul Ch'akal]]—The realm that holds this land
 - [[place-nrthrnkchchk|Northern K'ich'chik]]—The enclosing region
-- [[place-xikulchakl2|Xik'ul Ch'akal]]—Seat of Xik'ul Ch'akal
+- [[place-xikulchakl2|Shik'ul Ch'akal]]—Seat of Shik'ul Ch'akal

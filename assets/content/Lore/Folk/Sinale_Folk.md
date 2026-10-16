@@ -1,7 +1,7 @@
 ---
 shortcode: flksinale
 name:
-  full: Sinalë Folk
+  full: Sinale Folk
   aliases: [The Firstborn, The Star-Kindled, The Twilight People, The Elder Folk]
 type: lore
 subType: folk
@@ -11,70 +11,70 @@ data: {packFolder: settinglore, culture: sinaleclt}
 ---
 
 - **Common Names:** The Elder Folk, the Firstborn, the Star-Kindled, the Twilight People
-- **Self-Name:** Sinalë (singular: Sinalo; adjective: _Sinalëan_)
+- **Self-Name:** Sinale (singular: Sinalo; adjective: _Sinalean_)
 - **Origins:** Unknown; arrived on Thalorna from an undisclosed prior realm roughly eight millennia ago (≈7500 BF, approximate)
 - **Population:** Vanishingly rare (<0.01% of world population). Most humans have never seen one.
 - **Enclaves:** Scattered throughout Thalorna, invariably in deep forests, hidden valleys, or island sanctuaries far from human settlement
 
-The **Sinalë** are the eldest of the speaking peoples—the Firstborn, whose presence in Thalorna predates the earliest human civilizations by millennia. They were ancient when the ancestors of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] were laying the first stones of their river cities; they were old when the Pelwar nomads first crossed into western [[place-ankrscntnnt|Ankaris Continent]]. Their presence on Thalorna stretches back roughly eight millennia—to approximately 7500 BF, a figure nobody holds more precisely than that, long before humans kept written records and long before the earliest human civilizations took shape. Their history as a people reaches further still, back into the prior realm from which they came; but of that time they tell outsiders nothing. The Sinalë themselves do not share their reckoning of years with outsiders.
+The **Sinale** are the eldest of the speaking peoples—the Firstborn, whose presence in Thalorna predates the earliest human civilizations by millennia. They were ancient when the ancestors of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] were laying the first stones of their river cities; they were old when the Pelwar nomads first crossed into western [[place-ankrscntnnt|Ankaris Continent]]. Their presence on Thalorna stretches back roughly eight millennia—to approximately 7500 BF, a figure nobody holds more precisely than that, long before humans kept written records and long before the earliest human civilizations took shape. Their history as a people reaches further still, back into the prior realm from which they came; but of that time they tell outsiders nothing. The Sinale themselves do not share their reckoning of years with outsiders.
 
-To the vast majority of humans, the Sinalë are a rumor. A legend. Something your grandmother claimed to have seen once, at the edge of a forest, at twilight, and you never quite believed her. Most people live their entire lives without encountering a Sinalë, and many educated scholars in [[place-helionis|Helionis Region]] or [[affiliation-vylarinmpr|Vylaria]] debate whether they exist at all or are simply a persistent folk myth. They exist. They simply have no interest in being found.
+To the vast majority of humans, the Sinale are a rumor. A legend. Something your grandmother claimed to have seen once, at the edge of a forest, at twilight, and you never quite believed her. Most people live their entire lives without encountering a Sinale, and many educated scholars in [[place-helionis|Helionis Region]] or [[affiliation-vylarinmpr|Vylaria]] debate whether they exist at all or are simply a persistent folk myth. They exist. They simply have no interest in being found.
 
 ## Nature
 
-The Sinalë are not human, though they resemble humanity closely enough that the differences are felt more than seen. They are tall, slender, and possessed of a beauty that humans find unsettling rather than attractive—too perfect, too still, too aware. Their eyes hold a depth that suggests they are seeing something beyond the visible world. They move with a grace that makes even the most accomplished human dancer look clumsy. And they live for a very, very long time—long enough that the concept of a "generation" as humans understand it is meaningless to them.
+The Sinale are not human, though they resemble humanity closely enough that the differences are felt more than seen. They are tall, slender, and possessed of a beauty that humans find unsettling rather than attractive—too perfect, too still, too aware. Their eyes hold a depth that suggests they are seeing something beyond the visible world. They move with a grace that makes even the most accomplished human dancer look clumsy. And they live for a very, very long time—long enough that the concept of a "generation" as humans understand it is meaningless to them.
 
 They are creatures of forest and starlight, of ancient music and long memory. Their connection to the natural world runs deeper than any human druidic tradition—it is not worship or reverence but something closer to kinship. The forests they inhabit respond to their presence in ways that humans find unnerving: paths appear and vanish, distances shift, and the quality of light changes in ways that defy the angle of the sun.
 
-Their magic—if it can be called magic in the human sense—is nothing like the [[affiliation-ordoarcanis|Thôrdimâlon]]'s systematized arcane practice. The Sinalë do not classify their arts into schools or codify them in texts. Their power is woven into their nature, inseparable from their songs, their craft, and their relationship with the living world.
+Their magic—if it can be called magic in the human sense—is nothing like the [[affiliation-ordoarcanis|Thordimalon]]'s systematized arcane practice. The Sinale do not classify their arts into schools or codify them in texts. Their power is woven into their nature, inseparable from their songs, their craft, and their relationship with the living world.
 
-They build rarely, and rarely in stone, and never with the passion the [[lore-flkkhazar|Khazári]] bring to it. Oriented toward the forest and living things, they prefer to craft or to grow their architecture in accordance with nature: dwellings worked into living trees, for one. They can raise fine stone buildings when they must, and the few that stand are rare works among them. The Arcane Order has attempted, at various points in its history, to study or categorize Sinalëan magic and has failed completely. The Sinalë find these attempts somewhere between amusing and insulting.
+They build rarely, and rarely in stone, and never with the passion the [[lore-flkkhazar|Khazari]] bring to it. Oriented toward the forest and living things, they prefer to craft or to grow their architecture in accordance with nature: dwellings worked into living trees, for one. They can raise fine stone buildings when they must, and the few that stand are rare works among them. The Arcane Order has attempted, at various points in its history, to study or categorize Sinalean magic and has failed completely. The Sinale find these attempts somewhere between amusing and insulting.
 
 ## History
 
-The full history of the Sinalë is known only to the Sinalë, and they do not share it. What fragments have reached human scholars—through rare encounters, ancient texts, and the oral traditions of peoples who live near Sinalëan enclaves—paint a picture in broad, mythic strokes.
+The full history of the Sinale is known only to the Sinale, and they do not share it. What fragments have reached human scholars—through rare encounters, ancient texts, and the oral traditions of peoples who live near Sinalean enclaves—paint a picture in broad, mythic strokes.
 
-The Sinalë hold themselves to be the first of the speaking peoples to walk Thalorna, and by their own telling they are. They came to this world from some prior realm whose nature they do not disclose, and for a time they walked alone—sharing the continents only with the creatures and spirits that humans would later call fae, and with scattered bands of humans who lived then as hunter-gatherers, without cities or letters or settled tongues. The Sinalë observed these human bands and left them to their own becoming—a restraint they held to, and which did not prevent humanity from learning a great deal simply by watching them back. See [[lore-longnhrtnc|The Long Inheritance]]. This is their Age of Stars, a period they remember in song but never describe to outsiders in detail.
+The Sinale hold themselves to be the first of the speaking peoples to walk Thalorna, and by their own telling they are. They came to this world from some prior realm whose nature they do not disclose, and for a time they walked alone—sharing the continents only with the creatures and spirits that humans would later call fae, and with scattered bands of humans who lived then as hunter-gatherers, without cities or letters or settled tongues. The Sinale observed these human bands and left them to their own becoming—a restraint they held to, and which did not prevent humanity from learning a great deal simply by watching them back. See [[lore-longnhrtnc|The Long Inheritance]]. This is their Age of Stars, a period they remember in song but never describe to outsiders in detail.
 
-The one exception to this reckoning, which the Sinalë acknowledge obliquely if at all, is [[affiliation-kalihara|Kalihara]]. When Sinalëan wayfarers first reached that island, they found a human civilization already established and built on the teachings of an older people—a people who were, at that time, still in the world. The Kaliharans received the Sinalë with courtesy and refused them settlement. The Sinalë have never ventured a public account of this encounter, and their own histories pass around it in silence.
+The one exception to this reckoning, which the Sinale acknowledge obliquely if at all, is [[affiliation-kalihara|Kalihara]]. When Sinalean wayfarers first reached that island, they found a human civilization already established and built on the teachings of an older people—a people who were, at that time, still in the world. The Kaliharans received the Sinale with courtesy and refused them settlement. The Sinale have never ventured a public account of this encounter, and their own histories pass around it in silence.
 
-They pass in the same silence around a second meeting, earlier and elsewhere, in which Sinalëan wayfarers came upon that older people themselves and were politely declined. It is the only such encounter anyone records. The Sinalë learned nothing from it—not who they had met, nor that there was any connection between those people and the island—and they have never said where it happened. What the Kaliharans call them, and everything else that is known of them, is held on Kalihara alone; see [[lore-theithari|The Ithári]].
+They pass in the same silence around a second meeting, earlier and elsewhere, in which Sinalean wayfarers came upon that older people themselves and were politely declined. It is the only such encounter anyone records. The Sinale learned nothing from it—not who they had met, nor that there was any connection between those people and the island—and they have never said where it happened. What the Kaliharans call them, and everything else that is known of them, is held on Kalihara alone; see [[lore-theithari|The Ithari]].
 
-Then came the [[lore-flkkhazar|Khazári]]—the Deep Folk, the Stone-Wrights—a second people, different in form and temperament but kindred in spirit. For a time, the two elder races lived in concert. The fragments that survive suggest a period of cooperation, even unity—a shared realm or alliance that spanned much of Thalorna, governed under a single accord. The Sinalë crafted in forest and starlight; the Khazári crafted in stone and flame. Between them, they shaped wonders that neither could have achieved alone.
+Then came the [[lore-flkkhazar|Khazari]]—the Deep Folk, the Stone-Wrights—a second people, different in form and temperament but kindred in spirit. For a time, the two elder races lived in concert. The fragments that survive suggest a period of cooperation, even unity—a shared realm or alliance that spanned much of Thalorna, governed under a single accord. The Sinale crafted in forest and starlight; the Khazari crafted in stone and flame. Between them, they shaped wonders that neither could have achieved alone.
 
-But something broke. The nature of the sundering between the Sinalë and the Khazári is the most closely guarded secret of both peoples—neither will speak of it to humans, and the rare scholar who has pressed the question has been met with a silence so absolute and so cold that the conversation was never attempted again. What is clear is that the two elder races separated, long before the first human civilizations arose. Apart from one attempt on the isle of Aelwyth, they do not speak to each other. They do not trade. They do not acknowledge each other's existence except in the most oblique terms. Whatever happened between them, it has not been forgiven.
+But something broke. The nature of the sundering between the Sinale and the Khazari is the most closely guarded secret of both peoples—neither will speak of it to humans, and the rare scholar who has pressed the question has been met with a silence so absolute and so cold that the conversation was never attempted again. What is clear is that the two elder races separated, long before the first human civilizations arose. Apart from one attempt on the isle of Aelwyth, they do not speak to each other. They do not trade. They do not acknowledge each other's existence except in the most oblique terms. Whatever happened between them, it has not been forgiven.
 
-What broke it was [[lore-khazarturn|Khazártúrn]]. In 2427 BF a Sinalë outlaw took up the [[miscgear-secondvoice|Second Voice]]—a relic the Sinalë knew of and had never thought worth mentioning, since a weapon that commands [[lore-grukarfolk|Grukar]] is a weapon against cities and the Sinalë keep none—and used it to destroy the greatest city the [[lore-flkkhazar|Khazári]] ever raised, killing thirty thousand. The Sinalë hunted him down themselves, took a long time about it, and afterward handed over nothing and explained nothing.
+What broke it was [[lore-khazarturn|Khazartúrn]]. In 2427 BF a Sinale outlaw took up the [[miscgear-secondvoice|Second Voice]]—a relic the Sinale knew of and had never thought worth mentioning, since a weapon that commands [[lore-grukarfolk|Grukar]] is a weapon against cities and the Sinale keep none—and used it to destroy the greatest city the [[lore-flkkhazar|Khazari]] ever raised, killing thirty thousand. The Sinale hunted him down themselves, took a long time about it, and afterward handed over nothing and explained nothing.
 
-Each people guards the secret for its own reason. The Khazári because it is their humiliation; the Sinalë because one of theirs did it, and because of what they had failed to say beforehand.
+Each people guards the secret for its own reason. The Khazari because it is their humiliation; the Sinale because one of theirs did it, and because of what they had failed to say beforehand.
 
-On Aelwyth the break was afterward attempted in earnest. A sub-group of the Sinalë and a sub-group of the Khazári joined in a single kingdom that governed the whole island, before the Pelwar arrived there. When the Sinalë king was killed at the [[place-threesisters|Three Sisters]], the Sinalë abandoned the field, and the Khazári took it very poorly.
+On Aelwyth the break was afterward attempted in earnest. A sub-group of the Sinale and a sub-group of the Khazari joined in a single kingdom that governed the whole island, before the Pelwar arrived there. When the Sinale king was killed at the [[place-threesisters|Three Sisters]], the Sinale abandoned the field, and the Khazari took it very poorly.
 
-By the time humanity began to build cities and keep records, the Sinalë were already diminished—fewer in number, withdrawn into ever-more-remote sanctuaries, engaged in concerns that had nothing to do with the affairs of the younger race. The rise of human civilizations barely registered in their reckoning. Empires that seemed eternal to humans—the Vylarian Republic, the Khelâthi dynasties—were brief seasons to a people who remembered the world before cities existed.
+By the time humanity began to build cities and keep records, the Sinale were already diminished—fewer in number, withdrawn into ever-more-remote sanctuaries, engaged in concerns that had nothing to do with the affairs of the younger race. The rise of human civilizations barely registered in their reckoning. Empires that seemed eternal to humans—the Vylarian Republic, the Khelathi dynasties—were brief seasons to a people who remembered the world before cities existed.
 
 ## The Enclaves
 
-The Sinalë live in scattered enclaves throughout Thalorna—hidden communities in deep forests, mist-shrouded valleys, and island sanctuaries that appear on no human map. These enclaves are not cities in any human sense. They are places where the boundary between the natural world and something older grows thin, where the trees are impossibly ancient, the water impossibly clear, and the silence has a quality that makes human visitors feel they are intruding on something sacred.
+The Sinale live in scattered enclaves throughout Thalorna—hidden communities in deep forests, mist-shrouded valleys, and island sanctuaries that appear on no human map. These enclaves are not cities in any human sense. They are places where the boundary between the natural world and something older grows thin, where the trees are impossibly ancient, the water impossibly clear, and the silence has a quality that makes human visitors feel they are intruding on something sacred.
 
-The enclaves are protected not by walls or armies but by the Sinalë's relationship with the land itself. Paths that lead to an enclave have a way of leading elsewhere. Travelers who approach uninvited find themselves walking in circles, or losing track of time, or simply feeling an overwhelming conviction that they should turn back. These are not hostile defenses—the Sinalë have no interest in harming lost travelers—but they are absolute. You do not find a Sinalëan enclave unless the Sinalë wish to be found.
+The enclaves are protected not by walls or armies but by the Sinale's relationship with the land itself. Paths that lead to an enclave have a way of leading elsewhere. Travelers who approach uninvited find themselves walking in circles, or losing track of time, or simply feeling an overwhelming conviction that they should turn back. These are not hostile defenses—the Sinale have no interest in harming lost travelers—but they are absolute. You do not find a Sinalean enclave unless the Sinale wish to be found.
 
-The number and location of these enclaves is unknown. Human scholars have confirmed the existence of perhaps a dozen, scattered across the forests of [[place-elavendre|Élavendre]], the [[place-hallowwood|Hallowwood]] of [[place-aelwyth|Aelwyth Region]], the deep woods of [[place-vrystwald|Vrystwald Region]], and remote corners of other continents. There are certainly more. The Sinalë do not volunteer information about their settlements, and the enclaves that humans know about are probably the ones the Sinalë consider least important.
+The number and location of these enclaves is unknown. Human scholars have confirmed the existence of perhaps a dozen, scattered across the forests of [[place-elavendre|Élavendre]], the [[place-hallowwood|Hallowwood]] of [[place-aelwyth|Aelwyth Region]], the deep woods of [[place-vrystwald|Vristwald Region]], and remote corners of other continents. There are certainly more. The Sinale do not volunteer information about their settlements, and the enclaves that humans know about are probably the ones the Sinale consider least important.
 
-Not all enclaves endure. [[place-haulonna|Haulonna]], a hidden sanctuary in the deep interior of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], was destroyed by the [[being-tereb|tereb]] necromancer [[being-hlskmylsvrtrnr|Hluskmýl Svartrúnar]] in the service of [[affiliation-nahild|Náhild]]. Its corruption—and the imprisonment of its inhabitants' spirits—is an open wound among the Sinalë, and a grim demonstration that even the Firstborn's ancient protections are not absolute.
+Not all enclaves endure. [[place-haulonna|Haulonna]], a hidden sanctuary in the deep interior of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], was destroyed by the [[being-tereb|tereb]] necromancer [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]] in the service of [[affiliation-nahild|Nahild]]. Its corruption—and the imprisonment of its inhabitants' spirits—is an open wound among the Sinale, and a grim demonstration that even the Firstborn's ancient protections are not absolute.
 
 ## Relations with Humanity
 
-The Sinalë's relationship with humanity can be summarized simply: they have very little of one. They are not hostile—they bear humanity no ill will—but they are profoundly uninterested in human affairs. Human politics, human wars, human religions, human commerce—all of these are the concerns of a younger race working through problems the Sinalë resolved (or abandoned) millennia ago. Asking a Sinalë to take sides in a human conflict is like asking a grandparent to adjudicate a dispute between toddlers. They might do it, but they would rather not. This disengagement is older than any human memory of it. When the Sinalë first came to Thalorna, humans already walked the continents, and the Firstborn chose then—as they have chosen ever since—to let that younger race find its own path, neither shepherding its rise nor opposing it.
+The Sinale's relationship with humanity can be summarized simply: they have very little of one. They are not hostile—they bear humanity no ill will—but they are profoundly uninterested in human affairs. Human politics, human wars, human religions, human commerce—all of these are the concerns of a younger race working through problems the Sinale resolved (or abandoned) millennia ago. Asking a Sinale to take sides in a human conflict is like asking a grandparent to adjudicate a dispute between toddlers. They might do it, but they would rather not. This disengagement is older than any human memory of it. When the Sinale first came to Thalorna, humans already walked the continents, and the Firstborn chose then—as they have chosen ever since—to let that younger race find its own path, neither shepherding its rise nor opposing it.
 
-Individual Sinalë occasionally interact with humans—a traveler granted shelter, a scholar given a cryptic answer, a child lost in the forest guided safely home. These encounters are rare, unpredictable, and always on the Sinalë's terms. They leave behind stories that become legends that become myths, and the Sinalë are content to let the myths stand.
+Individual Sinale occasionally interact with humans—a traveler granted shelter, a scholar given a cryptic answer, a child lost in the forest guided safely home. These encounters are rare, unpredictable, and always on the Sinale's terms. They leave behind stories that become legends that become myths, and the Sinale are content to let the myths stand.
 
-There are exceptions—places where sustained contact exists between the Sinalë and human civilizations—but they are few, and each is unique in character.
+There are exceptions—places where sustained contact exists between the Sinale and human civilizations—but they are few, and each is unique in character.
 
 ### Élavendre
 
-The most notable exception to the Sinalë's isolation is [[place-elavendre|Élavendre]]. The Élavendren royal family and aristocracy have maintained a formal relationship with the local Sinalëan enclaves for centuries—the longest sustained contact between humans and Sinalë anywhere in the known world. Day to day, the contact runs through Áelendan intermediaries; see [[place-ethalosse|Ethalossë]]. The nature of this relationship is complex and not fully understood by outsiders. It is not an alliance in the political sense, and folk say the Sinalë do not recognize human political structures. The Sinalë have kings, queens and lords of their own, but these do not work as human ones do. The relationship is closer to a neighborly understanding between peoples who share the same forests and have learned, over generations, to respect each other's presence.
+The most notable exception to the Sinale's isolation is [[place-elavendre|Élavendre]]. The Élavendren royal family and aristocracy have maintained a formal relationship with the local Sinalean enclaves for centuries—the longest sustained contact between humans and Sinale anywhere in the known world. Day to day, the contact runs through Áelendan intermediaries; see [[place-ethalosse|Ethalosse]]. The nature of this relationship is complex and not fully understood by outsiders. It is not an alliance in the political sense, and folk say the Sinale do not recognize human political structures. The Sinale have kings, queens and lords of their own, but these do not work as human ones do. The relationship is closer to a neighborly understanding between peoples who share the same forests and have learned, over generations, to respect each other's presence.
 
-The Élavendren fae traditions—the sacred groves, the nature spirits, the thin veil between worlds—are not mere superstition. They reflect genuine contact with the Sinalë and with the other fae beings that inhabit the forests of Élavendre. The Élavendren bardic colleges preserve songs and stories that the Sinalë have shared with them, and Élavendren druids practice forms of magic that bear a distant, diluted resemblance to Sinalëan arts. The Sinalë tolerate this—perhaps even encourage it—in a way they do not elsewhere.
+The Élavendren fae traditions—the sacred groves, the nature spirits, the thin veil between worlds—are not mere superstition. They reflect genuine contact with the Sinale and with the other fae beings that inhabit the forests of Élavendre. The Élavendren bardic colleges preserve songs and stories that the Sinale have shared with them, and Élavendren druids practice forms of magic that bear a distant, diluted resemblance to Sinalean arts. The Sinale tolerate this—perhaps even encourage it—in a way they do not elsewhere.
 
 One such song, [[lore-seventowers|The Seven Towers]], opens on a valley at evening:
 
@@ -90,101 +90,26 @@ were ours, and the voices of the ones your people learned to call the fae.
 We were there. We are here still. We remember it as it was.
 ```
 
-Why the Sinalë have opened themselves to the Élavendren and no other human people is a question that scholars, diplomats, and envious monarchs have pondered for centuries. The Sinalë have never explained, and the Élavendren have the good sense not to ask.
+Why the Sinale have opened themselves to the Élavendren and no other human people is a question that scholars, diplomats, and envious monarchs have pondered for centuries. The Sinale have never explained, and the Élavendren have the good sense not to ask.
 
-### Tāntsou
+### Tantsou
 
-The [[affiliation-tantsouempr|Empire of Tāntsou]] represents a different kind of relationship—one that the Sinalë appear to have entered not out of affinity but under some form of coercion or obligation. The details are obscure even by Sinalëan standards, and western scholars know almost nothing about it. What is clear is that the Sinalëan enclaves within Tāntsou's borders maintain a degree of formal contact with the imperial court that exists nowhere else in the world—not even in Élavendre. Whether this was negotiated, compelled, or arose from circumstances that predate human memory is a question the Sinalë will not answer and the Celestial Bureaucracy considers settled. The arrangement is ancient, and it endures. The Sinalë of Tāntsou are a case of their own: the empire files them in its caste order, and nothing said of the Sinalë elsewhere settles how they stand there.
+The [[affiliation-tantsouempr|Empire of Tantsou]] represents a different kind of relationship—one that the Sinale appear to have entered not out of affinity but under some form of coercion or obligation. The details are obscure even by Sinalean standards, and western scholars know almost nothing about it. What is clear is that the Sinalean enclaves within Tantsou's borders maintain a degree of formal contact with the imperial court that exists nowhere else in the world—not even in Élavendre. Whether this was negotiated, compelled, or arose from circumstances that predate human memory is a question the Sinale will not answer and the Celestial Bureaucracy considers settled. The arrangement is ancient, and it endures. The Sinale of Tantsou are a case of their own: the empire files them in its caste order, and nothing said of the Sinale elsewhere settles how they stand there.
 
 ### K'ich'chik
 
-The Sinalë also maintain some form of connection with the peoples of [[place-kchchkcntnnt|K'ich'chik]]—a relationship that is poorly understood by western scholars, who know little of either the Sinalë or the K'ich'chik societies in any detail. The nature of this contact—whether it resembles the warmth of the Élavendren relationship, the formality of the Tāntsou arrangement, or something else entirely—remains to be explored.
+The Sinale also maintain some form of connection with the peoples of [[place-kchchkcntnnt|K'ich'chik]]—a relationship that is poorly understood by western scholars, who know little of either the Sinale or the K'ich'chik societies in any detail. The nature of this contact—whether it resembles the warmth of the Élavendren relationship, the formality of the Tantsou arrangement, or something else entirely—remains to be explored.
 
 ## See Also
 
-- [[lore-flkkhazar|Khazári]]—The second elder race; the Deep Folk
-- [[place-elavendre|Élavendre]]—The human realm with the closest and most willing Sinalëan contact
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—Formal contact, possibly coerced; see [[lore-elderraces|Elder Races]]
+- [[lore-flkkhazar|Khazari]]—The second elder race; the Deep Folk
+- [[place-elavendre|Élavendre]]—The human realm with the closest and most willing Sinalean contact
+- [[affiliation-tantsouempr|Empire of Tantsou]]—Formal contact, possibly coerced; see [[lore-elderraces|Elder Races]]
 - [[place-kchchkcntnnt|K'ich'chik]]—Some form of connection with K'ich'chik society
-- [[place-vrystwald|Vrystwald Region]]—Known to contain Sinalëan enclaves
-- [[place-aelwyth|Aelwyth Region]]—Known to contain Sinalëan enclaves
-- [[place-haulonna|Haulonna]]—Destroyed Sinalëan enclave in [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
+- [[place-vrystwald|Vristwald Region]]—Known to contain Sinalean enclaves
+- [[place-aelwyth|Aelwyth Region]]—Known to contain Sinalean enclaves
+- [[place-haulonna|Haulonna]]—Destroyed Sinalean enclave in [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]
 
 ## Glossary {#glossary}
 
-Every Sinalë word and term of art these notes use. The [[doc-sinalelexcn|Sinalë Lexicon]] holds the whole word-hoard, and the [[skill-sinalelng|language note]] the rules that make it.
-
-| Term       | Meaning                                                      |
-| ---------- | ------------------------------------------------------------ |
-| almari     | The cupped hand                                              |
-| ansoru     | The long watch                                               |
-| ansorunno  | One who keeps the long watch                                 |
-| aulirarno  | The gathering of light; the open convocation of the faith    |
-| aulveira   | Light and dream as one; the Sinalë name of the God of Dreams |
-| eho        | Be, exist                                                    |
-| eilava     | The wide sky                                                 |
-| ëlvyri     | The evening star                                             |
-| esseli     | The still surface                                            |
-| hallesi    | White frost                                                  |
-| halvilonvu | A birch stand within the forest                              |
-| huoma      | The first warmth                                             |
-| hyssë      | The held breath                                              |
-| ileva      | The clear place                                              |
-| ilthorinno | A seer                                                       |
-| ilvy       | Thin ice                                                     |
-| kalvi      | Pale wood                                                    |
-| kalvirno   | A stand of birch                                             |
-| kelvasi    | The cold spring                                              |
-| kilvë      | The far call                                                 |
-| kinsa      | The new shoot                                                |
-| lanthavo   | The slow river                                               |
-| lavuri     | Running water                                                |
-| lenthi     | The tall grass                                               |
-| liseri     | Still water                                                  |
-| lonvu      | The deep wood                                                |
-| loova      | The far bank                                                 |
-| lorrami    | Woven cloth                                                  |
-| luuro      | Sing                                                         |
-| luuronno   | A singer                                                     |
-| luuropi    | A pipe                                                       |
-| masseri    | The deep ground                                              |
-| mollu      | Deep pool                                                    |
-| mollursa   | Depth                                                        |
-| molu       | The colour of a deep pool                                    |
-| nelyvë     | The first frost                                              |
-| nuomi      | The still hour                                               |
-| nuuva      | Starlight                                                    |
-| nuuvanu    | A single star                                                |
-| nuuvasa    | Starlit                                                      |
-| nuuvasto   | A place of starlight                                         |
-| nylvi      | The deep root                                                |
-| olmarna    | The heartwood                                                |
-| olmasi     | Moss on stone                                                |
-| olvenne    | Wearing                                                      |
-| olvessa    | The long dusk                                                |
-| pehe       | Give                                                         |
-| pelvai     | The low cloud                                                |
-| pelvailu   | A wisp of cloud                                              |
-| porvi      | The split log                                                |
-| ressi      | The plaited mat                                              |
-| rhoveli    | The lifted stone                                             |
-| rivy       | The turning leaf                                             |
-| sëlvi      | The woven light                                              |
-| sëly       | Stand                                                        |
-| Sinalo     | One of the Sinalë                                            |
-| solmeri    | The smell of rain                                            |
-| sulme      | The first thaw                                               |
-| syllë      | The rising note                                              |
-| tellavi    | The small bell                                               |
-| tëlvi      | The falling drop                                             |
-| thalve     | The low fog                                                  |
-| thalvelta  | Fog over                                                     |
-| thilvai    | The seam of light                                            |
-| tirvali    | The long road                                                |
-| toimu      | The turning year                                             |
-| tuve       | Hold                                                         |
-| unturo     | Winter                                                       |
-| vauli      | Tall                                                         |
-| vierka     | An outlaw, one driven out and given no standing or shelter   |
-
-Tradition Keeper is a term from [[lore-elavendriclt#glossary|Élavendre]].
+Every Sinale word and term of art these notes use is in the [[lore-sinaleclt#glossary|glossary of the Sinale culture note]].

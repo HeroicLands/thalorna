@@ -3,7 +3,7 @@ shortcode: passcharter
 name: {full: The Charter of the Pass-Road, aliases: []}
 type: lore
 subType: history
-description: "About 60 AF the clans of the northern highlands and the Pass-Shrine line chartered a king, Himavīra, to hold the road through Sūryadvāra; the smithing clans hold that the grant was the road and not the rock, and two centuries later the Priestly Court won its own hall at Sūryagarha."
+description: "About 60 AF the clans of the northern highlands and the Pass-Shrine line chartered a king, Himavira, to hold the road through Suryadvara; the smithing clans hold that the grant was the road and not the rock, and two centuries later the Priestly Court won its own hall at Suryagarha."
 tags: [history, vedyara]
 data:
   culture: vedyariclt
@@ -15,7 +15,7 @@ data:
       depth: region
       sources: [affiliation-vindhyalay, place-suryagarha, place-slvrgorges, place-estrnreach]
       summary: >-
-        The clans of the northern highlands and the Pass-Shrine line charter a king, Himavīra, to hold the road through Sūryadvāra, build the citadel across its throat and keep its customs. The Martial Council's hall is raised with the citadel. The smithing clans of the Silver Gorges hold that the grant was the road and not the rock on either side of it.
+        The clans of the northern highlands and the Pass-Shrine line charter a king, Himavira, to hold the road through Suryadvara, build the citadel across its throat and keep its customs. The Martial Council's hall is raised with the citadel. The smithing clans of the Silver Gorges hold that the grant was the road and not the rock on either side of it.
       standing: single-source
       where:
         locus: [place-suryagarha]
@@ -45,16 +45,16 @@ data:
       depth: region
       sources: [place-suryagarha, affiliation-vindhyalay]
       summary: >-
-        The Priestly Court of Shikharālaya wins a voice the charter had not given it, and its hall is raised at Sūryagarha forty paces from the Martial Council's, two centuries younger. In the same years the Martial Council acclaims a younger brother over the expected heir.
+        The Priestly Court of Shikharalaya wins a voice the charter had not given it, and its hall is raised at Suryagarha forty paces from the Martial Council's, two centuries younger. In the same years the Martial Council acclaims a younger brother over the expected heir.
       standing: single-source
       where: {locus: [place-suryagarha]}
 ---
 
-Forty paces separate the two council halls at [[place-suryagarha|Sūryagarha]], and a good deal of [[affiliation-vindhyalay|Shikharālaya]]'s business is done walking them. The larger hall is as old as the kingdom. The smaller is two centuries younger. The **Charter of the Pass-Road** explains both, and it explains the one quarrel in the kingdom nobody will settle.
+Forty paces separate the two council halls at [[place-suryagarha|Suryagarha]], and a good deal of [[affiliation-vindhyalay|Shikharalaya]]'s business is done walking them. The larger hall is as old as the kingdom. The smaller is two centuries younger. The **Charter of the Pass-Road** explains both, and it explains the one quarrel in the kingdom nobody will settle.
 
 ## The Charter
 
-About 60 AF the clans of the northern highlands had a pass worth holding and no one to hold it. [[place-suryadvara|Sūryadvāra]] is the greatest of the crossings of the wall, with drinkable water through the winter below the spring at Chandraprabhava, and every caravan that used it paid whoever stood at the throat. The clans and the line of the Pass-Shrines chartered a king to stand there: **Himavīra**, a chieftain of one of the clans, given the road, the duty of building a citadel across its throat, and the customs of the traffic.
+About 60 AF the clans of the northern highlands had a pass worth holding and no one to hold it. [[place-suryadvara|Suryadvara]] is the greatest of the crossings of the wall, with drinkable water through the winter below the spring at Chandraprabhava, and every caravan that used it paid whoever stood at the throat. The clans and the line of the Pass-Shrines chartered a king to stand there: **Himavira**, a chieftain of one of the clans, given the road, the duty of building a citadel across its throat, and the customs of the traffic.
 
 He built the citadel, and the hall of the **Martial Council** of clan-chieftains was raised beside it. The kingdom was the clans' creature from the first day, and its succession still needs the Martial Council's acclamation.
 
@@ -68,13 +68,13 @@ About 260 AF the ushtakas of the great temple-complexes won a voice the charter 
 
 ## What It Left
 
-- **The kingdom** and its citadel across Sūryadvāra.
+- **The kingdom** and its citadel across Suryadvara.
 - **The two halls**, forty paces apart, and the two councils that do not at present agree who is to be acclaimed next.
 - **The quarrel over the rock**, kept unsettled on purpose.
 
 ## See Also
 
-- [[affiliation-vindhyalay|Shikharālaya]] · [[place-suryagarha|Sūryagarha]]
+- [[affiliation-vindhyalay|Shikharalaya]] · [[place-suryagarha|Suryagarha]]
 - [[place-slvrgorges|The Silver Gorges]]—the rock the charter does not mention
 - [[lore-widowaccl|The Widow's Acclamation]]—the council's most famous choice
 - [[lore-agecopyists|The Age of Copyists]]

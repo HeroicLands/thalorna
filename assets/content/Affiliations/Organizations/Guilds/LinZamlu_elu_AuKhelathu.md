@@ -1,6 +1,6 @@
 ---
 shortcode: linzamlkhlth
-name: {full: Lin'Zamlu elu Aû'Khelâthu, aliases: [The Minstrels' Guild of Aû'Khelâthu]}
+name: {full: Lin'Zamlu elu Au'Khelathu, aliases: [The Minstrels' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the empire's musicians and singers, which its members attend sporadically and invoke constantly
@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-**Lin'Zamlu elu Aû'Khelâthu** is the chartered guild of the musicians and singers of [[place-aukhelathrgq|Aû'Khelâthu]], open to any performer willing to pay its dues. Members invoke its name constantly, as a credential before an audience or a patron, and attend its meetings only sporadically. A patron who checks a musician's claimed membership against the roll finds the claim confirmed more often than the attendance would suggest.
+**Lin'Zamlu elu Au'Khelathu** is the chartered guild of the musicians and singers of [[place-aukhelathrgq|Au'Khelathu]], open to any performer willing to pay its dues. Members invoke its name constantly, as a credential before an audience or a patron, and attend its meetings only sporadically. A patron who checks a musician's claimed membership against the roll finds the claim confirmed more often than the attendance would suggest.
 
 ## Character
 
@@ -60,5 +60,5 @@ Dues are the price of belonging, and the guild's name serves its members as a cr
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire across which a master's recommendation carries
+- [[place-aukhelathrgq|Au'Khelathu]]—The empire across which a master's recommendation carries
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

@@ -1,11 +1,11 @@
 ---
 shortcode: azravandty
-name: {full: Ázráván, aliases: []}
+name: {full: Azravan, aliases: []}
 type: lore
 subType: deity
-description: "Lord of the Final Horizon in the Āsháian pantheon, who receives the dead at the edge of the world."
+description: "Lord of the Final Horizon in the Ashaian pantheon, who receives the dead at the edge of the world."
 tags: [draft]
 data: {packFolder: deitiesashalan, culture: dunhariclt}
 ---
 
-Ázráván, Lord of the Final Horizon, is the deity of death in the [[affiliation-ashanpnthn|Āsháian Pantheon]], who receives the dead at the edge of the world. The symbol is a black sun with a golden edge. Worship is kept in the [[affiliation-azravan|Faith of Ázráván]]. Every sacred site of the Āsháian faith is a fire-temple, so this deity is worshipped at an altar beside the one kept to Ātáröš, and served by the same priesthood of Rōqeshekh, Dēlkoshekh and Shēkhulsīghot.
+Azravan, Lord of the Final Horizon, is the deity of death in the [[affiliation-ashanpnthn|Ashaian Pantheon]], who receives the dead at the edge of the world. The symbol is a black sun with a golden edge. Worship is kept in the [[affiliation-azravan|Faith of Azravan]]. Every sacred site of the Ashaian faith is a fire-temple, so this deity is worshipped at an altar beside the one kept to Ataros, and served by the same priesthood of Roqeshekh, Delkoshekh and Shekhul.

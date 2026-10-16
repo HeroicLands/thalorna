@@ -1,6 +1,6 @@
 ---
 shortcode: avicewnwck
-name: {full: Avice Winwick, aliases: []}
+name: {full: Avis Winwik, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,13 +392,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Avice Winwick is a 26-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with broad cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. Her large green eyes sit beneath straight brows and give her an expressive gaze. She has a narrow nose and expressive lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair flows past her shoulders.
+Avis Winwik is a 26-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with broad cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. Her large green eyes sit beneath straight brows and give her an expressive gaze. She has a narrow nose and expressive lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair flows past her shoulders.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Avice Winwick is a mercantyler who sails as a supercargo.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Avis Winwik is a mercantyler who sails as a supercargo.
 
-Avice has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and seeing that every transaction goes smoothly. She is known for her head for business and her ability to adapt to changing markets. Clients and colleagues alike respect her for her honesty and reliability.
+Avis has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and seeing that every transaction goes smoothly. She is known for her head for business and her ability to adapt to changing markets. Clients and colleagues alike respect her for her honesty and reliability.
 
 ## Psyche
 
@@ -408,7 +408,7 @@ She can seem aloof, and struggles with the heavier work of loading and unloading
 
 ### Motivation
 
-Avice wants every cargo she carries to arrive and sell as agreed, and her name to stay good with the companies that hire her.
+Avis wants every cargo she carries to arrive and sell as agreed, and her name to stay good with the companies that hire her.
 
 ### Strengths
 
@@ -416,13 +416,13 @@ She is skilled in the management of cargo and in trade negotiation, adaptable, a
 
 ## Social
 
-Avice belongs to the Local Merchant's Guild.
+Avis belongs to the Local Merchant's Guild.
 
 ## Companions
 
 ### Patrons
 
-Avice's patrons are the trading companies and shipping lines that hire her.
+Avis's patrons are the trading companies and shipping lines that hire her.
 
 ### Enemies
 
@@ -430,12 +430,12 @@ Few; she is generally well respected.
 
 ## Plot Hooks
 
-1. **The Mercantyler (Supercargo)'s Dilemma**—A cargo Avice is responsible for turns out to be other than its manifest says, and her company and her name cannot both be kept.
+1. **The Mercantyler (Supercargo)'s Dilemma**—A cargo Avis is responsible for turns out to be other than its manifest says, and her company and her name cannot both be kept.
 
-2. **Old Grudges**—A merchant whose cargo Avice refused to carry has not forgotten it.
+2. **Old Grudges**—A merchant whose cargo Avis refused to carry has not forgotten it.
 
-3. **Echoes of the Past**—A voyage from Avice's early years at sea comes back to her as a claim against the cargo she carried.
+3. **Echoes of the Past**—A voyage from Avis's early years at sea comes back to her as a claim against the cargo she carried.
 
-4. **Shifting Winds**—Political change in Aelwyth threatens the trade Avice depends upon, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Aelwyth threatens the trade Avis depends upon, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—Avice is offered a share in a trading company, and its price is not named up front.
+5. **The Opportunity**—Avis is offered a share in a trading company, and its price is not named up front.

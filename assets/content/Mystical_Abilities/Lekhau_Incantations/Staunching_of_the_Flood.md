@@ -16,5 +16,5 @@ sohl:
 
 One form for three uses, which the House regards as the clearest demonstration that its domain is
 a function rather than a substance: the working does not know the difference between blood, wine
-and river water, because in the Khelâthu partition there is none worth marking. It is the first thing
+and river water, because in the Khelathu partition there is none worth marking. It is the first thing
 taught to canal-readers and to menders alike.

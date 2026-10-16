@@ -1,10 +1,10 @@
 ---
 shortcode: muwojaidmn
-name: {full: Mūwōjai Domain, aliases: [House Mūwōjai]}
+name: {full: Muwojai Domain, aliases: [House Muwojai]}
 type: affiliation
 subType: polity
-description: "The domain of House Mūwōjai—Zījai, the cedar mountain beside the Emperor's own, the roads and ferry that every petition to the court must cross, held from Kowū by a loyalist lord of sixty-one with no grown heir."
-tags: [polity, Jénchài, domain]
+description: "The domain of House Muwojai—Zijai, the cedar mountain beside the Emperor's own, the roads and ferry that every petition to the court must cross, held from Kowu by a loyalist lord of sixty-one with no grown heir."
+tags: [polity, Jenchai, domain]
 data:
   icon: null
   templatePriority: null
@@ -14,7 +14,7 @@ data:
   governance:
     model: autocracy
     summary: >-
-      Held of the Emperor by patent by the Daozhuo Mūwōjai Chaiwo, who sits at Kowū and governs the mountain through his retainers, the headmen of its villages and the Weijū who keep the court's treasury.
+      Held of the Emperor by patent by the Daozhuo Muwojai Chaiwo, who sits at Kowu and governs the mountain through his retainers, the headmen of its villages and the Weiju who keep the court's treasury.
     ranks:
       - level: 0
         title: Outlaw
@@ -23,13 +23,13 @@ data:
       - level: 1
         title: Subject
         description: >-
-          Lives or holds land under the Daozhuo of Mūwōjai.
+          Lives or holds land under the Daozhuo of Muwojai.
       - level: 2
         title: Retainer
         description: >-
           Serves the Daozhuo for a stipend in bales or a village held as a fief, and commands the domain's soldiers and the garrisons of its roads.
       - level: 3
-        title: Shuìzhuo
+        title: Shuizhuo
         description: >-
           Holds one to three villages of the domain and owes the Daozhuo men in war.
       - level: 4
@@ -39,9 +39,9 @@ data:
       - level: 5
         title: Daozhuo
         description: >-
-          Holds Zījai by the Emperor's patent, with his own army, justice and taxes.
+          Holds Zijai by the Emperor's patent, with his own army, justice and taxes.
     offices:
-      Keeper of the Court Treasury: Held by the Weijū, who keep the strongroom of the Dawn Court at Tsaimū and the roll of what is paid into it.
+      Keeper of the Court Treasury: Held by the Weiju, who keep the strongroom of the Dawn Court at Tsaimu and the roll of what is paid into it.
   seat: kowu
   population: 42000
   economy: []
@@ -53,29 +53,29 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-**House Mūwōjai** (Cedar Place) holds **Zījai** (Star Peak), the mountain beside the Emperor's own in the interior of the great island, by patent of the Emperor. Its lord is the Daozhuo **Mūwōjai Chaiwo** (Mountain Warrior), sixty-one years old, who sits in the castle town of **Kowū** (Old Hall), population 3,200. The domain holds 42,000 people, is assessed at 30,000 bales a year, and musters 750 men; it keeps no fleet. Mūwōjai belongs to the loyalist bloc, and it holds every road that leads to the Emperor.
+**House Muwojai** (Cedar Place) holds **Zijai** (Star Peak), the mountain beside the Emperor's own in the interior of the great island, by patent of the Emperor. Its lord is the Daozhuo **Muwojai Chaiwo** (Mountain Warrior), sixty-one years old, who sits in the castle town of **Kowu** (Old Hall), population 3,200. The domain holds 42,000 people, is assessed at 30,000 bales a year, and musters 750 men; it keeps no fleet. Muwojai belongs to the loyalist bloc, and it holds every road that leads to the Emperor.
 
 ## The Land
 
-Zījai and Zojai stand side by side in the cedar valleys of the interior, and the only ways into Zojai's district run through Mūwōjai ground. The valleys are cedar forest and river terrace; the terraces bear rice, the forest bears the timber for the court's halls, and the craft villages turn it into lacquer and joinery. The villages pay in rice, in cedar and lacquer, and at Zūjū in the ferry's tolls.
+Zijai and Zojai stand side by side in the cedar valleys of the interior, and the only ways into Zojai's district run through Muwojai ground. The valleys are cedar forest and river terrace; the terraces bear rice, the forest bears the timber for the court's halls, and the craft villages turn it into lacquer and joinery. The villages pay in rice, in cedar and lacquer, and at Zuju in the ferry's tolls.
 
-Three villages are named on Mūwōjai's roll; the rest of its 30,000 bales comes from smaller terraces and hamlets under their headmen.
+Three villages are named on Muwojai's roll; the rest of its 30,000 bales comes from smaller terraces and hamlets under their headmen.
 
 | Village | Meaning        | Kind         | Holder                                  | Livelihood                                | Assessed |
 | ------- | -------------- | ------------ | --------------------------------------- | ----------------------------------------- | -------: |
-| Zainū   | Crane Terraces | Court estate | The Emperor, through the lord's granary | Rice, the court estate nearest the throne |    1,600 |
-| Zūjū    | Blue River     | Demesne      | The lord's granary at Kowū              | The ferry and toll on the road to Léngwou |    1,100 |
-| Tsaimū  | Craft Wood     | Fief         | The Weijū                               | Lacquer and cedar joinery                 |      800 |
+| Zainu   | Crane Terraces | Court estate | The Emperor, through the lord's granary | Rice, the court estate nearest the throne |    1,600 |
+| Zuju    | Blue River     | Demesne      | The lord's granary at Kowu              | The ferry and toll on the road to Léngwou |    1,100 |
+| Tsaimu  | Craft Wood     | Fief         | The Weiju                               | Lacquer and cedar joinery                 |      800 |
 
-The summit shrine of Zījai is provisioned from the lord's villages, and beside it stands the observatory of the omen-readers, whose Tānchéi keep the heavens for the court.
+The summit shrine of Zijai is provisioned from the lord's villages, and beside it stands the observatory of the omen-readers, whose Tanchéi keep the heavens for the court.
 
 ## The Roads
 
-Every petition to the Emperor, every envoy bound for the Dawn Rite and every bale of the court's rice travels some part of Mūwōjai's road, because Zojai's district opens onto no other ground. The lord's garrisons hold the passes. The ferry at Zūjū crosses the river that every traveler to Léngwou must cross, and Chaiwo's toll-keepers enter the name of each party that goes over. Nothing reaches the Emperor except over Chaiwo's roads, and nothing leaves Zojai except by the same way.
+Every petition to the Emperor, every envoy bound for the Dawn Rite and every bale of the court's rice travels some part of Muwojai's road, because Zojai's district opens onto no other ground. The lord's garrisons hold the passes. The ferry at Zuju crosses the river that every traveler to Léngwou must cross, and Chaiwo's toll-keepers enter the name of each party that goes over. Nothing reaches the Emperor except over Chaiwo's roads, and nothing leaves Zojai except by the same way.
 
 ## Retainers
 
-The **Weijū** keep the treasury of the court. They hold Tsaimū as their fief, and the strongroom of the Dawn Court stands in their charge; every bale and every measure of silver paid to the court by the other houses is entered in their roll. So the house that keeps the gate to the Emperor also keeps his money.
+The **Weiju** keep the treasury of the court. They hold Tsaimu as their fief, and the strongroom of the Dawn Court stands in their charge; every bale and every measure of silver paid to the court by the other houses is entered in their roll. So the house that keeps the gate to the Emperor also keeps his money.
 
 ## Muster
 
@@ -83,7 +83,7 @@ The muster is 750 men, and none of them sails. Most of them garrison the roads a
 
 ## Relations
 
-Mūwōjai and Hojūjai together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Téng Ja for the Hojūjai heir when he comes of age, or for nobody.
+Muwojai and Hojujai together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody.
 
 ## The Keeper of the Gate
 
@@ -91,9 +91,9 @@ Chaiwo is sixty-one and has no grown heir. Whoever succeeds him will hold the ga
 
 ## See Also
 
-- [[affiliation-jenchaiempr|Jénchài Empire]]—the realm, the court and the eight houses
-- [[place-zijai|Zījai]]—the mountain of the domain
-- [[place-kowu|Kowū]]—the castle town and seat
+- [[affiliation-jenchaiempr|Jenchai Empire]]—the realm, the court and the eight houses
+- [[place-zijai|Zijai]]—the mountain of the domain
+- [[place-kowu|Kowu]]—the castle town and seat
 - [[place-zojai|Zojai]]—the Emperor's mountain
-- [[place-jenchairgn|Jénchài Region]]—the islands and the strait
-- [[affiliation-hojujaidmn|Hojūjai Domain]]—the allied house
+- [[place-jenchairgn|Jenchai Region]]—the islands and the strait
+- [[affiliation-hojujaidmn|Hojujai Domain]]—the allied house

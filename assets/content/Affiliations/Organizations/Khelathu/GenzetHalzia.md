@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Genzet'Halzi'a** is where the provinces of [[place-aukhelathrgq|Aû'Khelâthu]] bargain. The Halzi'a of the selats meet in session, each speaking for his own province, and settle taxation and levies with the imperial center and water, roads and boundary disputes with one another, the last being matters the center would rather not adjudicate. A governor who arrives at session without allies already secured generally leaves having traded away more than one who came prepared.
+**Genzet'Halzi'a** is where the provinces of [[place-aukhelathrgq|Au'Khelathu]] bargain. The Halzi'a of the selats meet in session, each speaking for his own province, and settle taxation and levies with the imperial center and water, roads and boundary disputes with one another, the last being matters the center would rather not adjudicate. A governor who arrives at session without allies already secured generally leaves having traded away more than one who came prepared.
 
 ## Character
 
@@ -46,7 +46,7 @@ The council is transactional. Each governor speaks for a single province, and ba
 
 ## Relations
 
-The Halzi'a of the selats of [[place-aukhelathrgq|Aû'Khelâthu]] meet here, each representing a province before the imperial center and before neighboring provinces. A Halzi'a commands the levies of his selat, collects its taxes and dispenses its justice, so what he agrees in session is what his province then does.
+The Halzi'a of the selats of [[place-aukhelathrgq|Au'Khelathu]] meet here, each representing a province before the imperial center and before neighboring provinces. A Halzi'a commands the levies of his selat, collects its taxes and dispenses its justice, so what he agrees in session is what his province then does.
 
 ## Commerce and Currency
 
@@ -56,4 +56,4 @@ A governor who arrives with allies already secured leaves with what he came for.
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The region it belongs to
+- [[place-aukhelathrgq|Au'Khelathu Region]]—The region it belongs to

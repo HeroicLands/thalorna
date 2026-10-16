@@ -1,9 +1,9 @@
 ---
 shortcode: dekheghashpy
-name: {full: Dekheghash Pylíkot, aliases: [Duke Dekheghash Pylíkot]}
+name: {full: Dekheghash Pilikot, aliases: [Duke Dekheghash Pilikot]}
 type: being
 subType: npc
-description: An aging but still-powerful aristocrat who employs Lôfáhr Vuzaghios for sensitive security work.
+description: An aging but still-powerful aristocrat who employs Lofáhr Vuzaghios for sensitive security work.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Dekheghash Pylíkot is a 72-year-old man who stands 5'11" tall with a medium build. He has tanned skin, weathered complexion, brown hair, and hazel eyes.
+Dekheghash Pilikot is a 72-year-old man who stands 5'11" tall with a medium build. He has tanned skin, weathered complexion, brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Dekheghash Pylíkot is an aging but still-powerful aristocrat. He employs [[being-lofrflmds|Lôfáhr Vuzaghios]] for sensitive security work.
+Dekheghash Pilikot is an aging but still-powerful aristocrat. He employs [[being-lofrflmds|Lofáhr Vuzaghios]] for sensitive security work.

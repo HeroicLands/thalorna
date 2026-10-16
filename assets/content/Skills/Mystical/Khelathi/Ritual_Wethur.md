@@ -1,6 +1,6 @@
 ---
 shortcode: ritualwethur
-name: {full: "Ritual: Weth'ûr", aliases: [Lord of Silent Passage]}
+name: {full: "Ritual: Weth'ur", aliases: [Lord of Silent Passage]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-wethur|Faith of Weth'ûr]]
+See [[affiliation-wethur|Faith of Weth'ur]]

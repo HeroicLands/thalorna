@@ -94,7 +94,7 @@ sohl:
 
 The **Old Way** is the shamanic faith of the Áelendan. It is the oldest continuously practiced religious tradition on [[place-ankrscntnnt|Ankaris Continent]]—a tradition that was already ancient when the ancestors of the Áelendan settled the mountainous interior of [[place-elavendre|Élavendre]], and that has been preserved, generation by generation, by the tribal communities who carried it. Where other Pelwar peoples set the old faith aside as they built kingdoms and adopted the organized pantheons of the settled world, the Áelendan kept it.
 
-The Old Way has no scripture, no temples in the sense that the [[affiliation-arldnpnthn|Aurèldían]] clergy would recognize, and no centralized hierarchy. Its teachings are carried in song, in ceremony, in the relationships between the tribes and the land they inhabit, and in the accumulated lore of the shamen.
+The Old Way has no scripture, no temples in the sense that the [[affiliation-arldnpnthn|Aureldian]] clergy would recognize, and no centralized hierarchy. Its teachings are carried in song, in ceremony, in the relationships between the tribes and the land they inhabit, and in the accumulated lore of the shamen.
 
 ## Cosmology
 
@@ -106,7 +106,7 @@ This three-layered cosmology—Two Powers above, Kindred between, mortals below�
 
 ## The Shamen
 
-The religious specialists of the Áelendan are **shamen**, not priests. The distinction is not merely terminological. A priest of the Aurèldían Twelve is a trained intermediary who has been invested with authority by an institution—the temple, the chapterhouse, the formal clergy. A shaman of the Old Way has no institution behind them. They are a person who, by disposition and training, has learned to perceive the Kindred, to speak with them, and to negotiate on behalf of the tribe with the spirits whose territory the tribe shares.
+The religious specialists of the Áelendan are **shamen**, not priests. The distinction is not merely terminological. A priest of the Aureldian Twelve is a trained intermediary who has been invested with authority by an institution—the temple, the chapterhouse, the formal clergy. A shaman of the Old Way has no institution behind them. They are a person who, by disposition and training, has learned to perceive the Kindred, to speak with them, and to negotiate on behalf of the tribe with the spirits whose territory the tribe shares.
 
 Shamen are recognized by their tribes rather than ordained by any body. A child who shows signs of the perception—unusual rapport with animals, sensitivity to places, the capacity to dream true dreams—is taken as apprentice by an elder shaman, and the training proceeds over many years. Shamen learn the songs, the lineages of the Kindred in their tribe's territory, the protocols of offering and approach, the uses of fire and smoke and plant and water in the rites, and the long memory that holds the tribe's compact with each of its Kindred.
 
@@ -122,7 +122,7 @@ Certain broad patterns are common to all Áelendan communities—the orientation
 
 ## Veneration, Appeasement, and Warding
 
-Áelendan religious practice does not take the form of worship in the sense that the Aurèldían or Asguardian faiths would recognize. The Áelendan do not petition their Powers; they do not sing hymns of praise to the Kindred; they do not beseech divine favor in the manner of a temple-goer before an altar. What they do is keep relationships, and those relationships take three broad forms—**veneration**, **appeasement**, and **warding**—which shamen and elders know to distinguish with precision.
+Áelendan religious practice does not take the form of worship in the sense that the Aureldian or Asguardian faiths would recognize. The Áelendan do not petition their Powers; they do not sing hymns of praise to the Kindred; they do not beseech divine favor in the manner of a temple-goer before an altar. What they do is keep relationships, and those relationships take three broad forms—**veneration**, **appeasement**, and **warding**—which shamen and elders know to distinguish with precision.
 
 **Veneration** is offered to the benevolent Kindred: the hearth-spirit who keeps the children warm through the winter, the river-mother whose waters are clean and whose fish are plentiful, the grove-keeper who permits the tribe to take its firewood and its game. Veneration takes the form of regular offerings, songs of thanks, and the maintenance of a good reputation in the spirit's sight. These are the easy relationships, and most Áelendan religious life is made of them.
 
@@ -146,11 +146,11 @@ Many of the [[lore-faecourts|Fae]] whom the Wardens deal with are understood, wi
 
 ## Relation to Later Faiths
 
-The Aurèldían pantheon has been present in Élavendre for many centuries and is the official faith of the Élavendri crown and nobility. The Áelendan do not object to it, and they do not prohibit their own people from taking part in Aurèldían observances when circumstances require. Áelendan bards travel to Aurèldían courts, Áelendan envoys attend Aurèldían festivals, and Áelendan traders in the lowlands have no difficulty participating in the civic rites of the towns they visit.
+The Aureldian pantheon has been present in Élavendre for many centuries and is the official faith of the Élavendri crown and nobility. The Áelendan do not object to it, and they do not prohibit their own people from taking part in Aureldian observances when circumstances require. Áelendan bards travel to Aureldian courts, Áelendan envoys attend Aureldian festivals, and Áelendan traders in the lowlands have no difficulty participating in the civic rites of the towns they visit.
 
-But the Áelendan do not regard Aurèldían worship as an alternative to the Old Way. They regard it, as noted in [[affiliation-firstgods|their teaching on the First Gods]], as a later refraction of the older truth—not wrong, but partial. The Aurèldían gods are children of the First, and honoring a child is not the same as honoring the parent.
+But the Áelendan do not regard Aureldian worship as an alternative to the Old Way. They regard it, as noted in [[affiliation-firstgods|their teaching on the First Gods]], as a later refraction of the older truth—not wrong, but partial. The Aureldian gods are children of the First, and honoring a child is not the same as honoring the parent.
 
-Among the Élavendri nobility, who claim Áelendan ancestry and whose own religious practice is "heavily inflected by older fae traditions," there are individuals and whole families who have quietly kept the Old Way alongside their public Aurèldían observance. This is tolerated by the Aurèldían clergy, who treat it as charming ancestral piety; it is regarded with more suspicion by the [[affiliation-ordoarcanis|Thôrdimâlon]], which regards any ungoverned religious practice as a category of problem.
+Among the Élavendri nobility, who claim Áelendan ancestry and whose own religious practice is "heavily inflected by older fae traditions," there are individuals and whole families who have quietly kept the Old Way alongside their public Aureldian observance. This is tolerated by the Aureldian clergy, who treat it as charming ancestral piety; it is regarded with more suspicion by the [[affiliation-ordoarcanis|Thordimalon]], which regards any ungoverned religious practice as a category of problem.
 
 ## See Also
 
@@ -158,4 +158,4 @@ Among the Élavendri nobility, who claim Áelendan ancestry and whose own religi
 - [[lore-thekindred|The Kindred]]—The servant spirits who are venerated, appeased, or warded against in daily practice
 - [[lore-aelendnppl|Áelendan]]—The people whose faith this is
 - [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects the sacred sites
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—The later pantheon the Áelendan regard as descended from the First
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]—The later pantheon the Áelendan regard as descended from the First

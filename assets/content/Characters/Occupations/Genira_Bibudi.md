@@ -1,6 +1,6 @@
 ---
 shortcode: gnrbbd
-name: {full: Genîra Bibûdî, aliases: []}
+name: {full: Genira Bibudi, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -387,13 +387,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Genîra Bibûdî is a 29-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a pointed chin. Her sharp brown eyes sit beneath straight brows and give her an incisive gaze. She has expressive lips and a nose crooked from an old break. She has olive skin with an olive-toned complexion. Her black hair is twisted into an elaborate arrangement.
+Genira Bibudi is a 29-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a pointed chin. Her sharp brown eyes sit beneath straight brows and give her an incisive gaze. She has expressive lips and a nose crooked from an old break. She has olive skin with an olive-toned complexion. Her black hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region of Tarûzelian heritage and orphaned young, Genîra Bibûdî is a gladiator.
+Born in the Taruzel region of Taruzelian heritage and orphaned young, Genira Bibudi is a gladiator.
 
-Genîra grew up as a street orphan and fought for survival every day. She was discovered by a gladiator trainer who saw her potential and offered her a chance to rise above her circumstances. Known for her speed and agility, she quickly made a name for herself in the arena, where she fights with a blend of grace and ferocity. She enjoys the thrill of combat but remains wary of the dangers it brings.
+Genira grew up as a street orphan and fought for survival every day. She was discovered by a gladiator trainer who saw her potential and offered her a chance to rise above her circumstances. Known for her speed and agility, she quickly made a name for herself in the arena, where she fights with a blend of grace and ferocity. She enjoys the thrill of combat but remains wary of the dangers it brings.
 
 ## Psyche
 
@@ -403,7 +403,7 @@ She lacks raw strength, and can be reckless in her pursuit of glory.
 
 ### Motivation
 
-Genîra wants a name in the arena that no one can take from her, and never to go back to the streets she came from.
+Genira wants a name in the arena that no one can take from her, and never to go back to the streets she came from.
 
 ### Strengths
 
@@ -411,13 +411,13 @@ She is fast, agile, and skilled in acrobatic combat.
 
 ## Social
 
-Genîra belongs to the Gladiators' Guild.
+Genira belongs to the Gladiators' Guild.
 
 ## Companions
 
 ### Patrons
 
-Genîra's patrons are the arena patrons who admire her style and grace.
+Genira's patrons are the arena patrons who admire her style and grace.
 
 ### Enemies
 
@@ -425,12 +425,12 @@ Rival fighters resent her quick rise to fame.
 
 ## Plot Hooks
 
-1. **The Gladiator's Dilemma**—An arena patron pays Genîra to lose a bout she could win, and her name and her purse cannot both be kept.
+1. **The Gladiator's Dilemma**—An arena patron pays Genira to lose a bout she could win, and her name and her purse cannot both be kept.
 
-2. **Old Grudges**—A rival fighter who resents Genîra's quick rise has asked for her by name in the arena.
+2. **Old Grudges**—A rival fighter who resents Genira's quick rise has asked for her by name in the arena.
 
-3. **Echoes of the Past**—Someone from Genîra's years as a street orphan recognizes her in the arena and comes asking for a share of what she has made.
+3. **Echoes of the Past**—Someone from Genira's years as a street orphan recognizes her in the arena and comes asking for a share of what she has made.
 
-4. **Shifting Winds**—Political change in Tarûzel threatens the games Genîra lives by, and she can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Taruzel threatens the games Genira lives by, and she can adapt, resist, or leave.
 
-5. **The Opportunity**—The trainer who found Genîra offers her his school when he retires, and what he wants in return is not said.
+5. **The Opportunity**—The trainer who found Genira offers her his school when he retires, and what he wants in return is not said.

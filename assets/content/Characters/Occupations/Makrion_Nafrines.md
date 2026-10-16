@@ -1,6 +1,6 @@
 ---
 shortcode: makrinfrns
-name: {full: Mákrion Nâfrinês, aliases: []}
+name: {full: Mákrion Nafrines, aliases: []}
 type: being
 subType: npc
 tags: [draft, mages]
@@ -397,11 +397,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Mákrion Nâfrinês is a 46-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His sharp hazel eyes sit beneath heavy brows, lending him an incisive gaze. An aquiline nose and full lips complete his features. He has warm-toned skin with a smooth complexion. His graying brown hair is falling in loose waves.
+Mákrion Nafrines is a 46-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His sharp hazel eyes sit beneath heavy brows, lending him an incisive gaze. An aquiline nose and full lips complete his features. He has warm-toned skin with a smooth complexion. His graying brown hair is falling in loose waves.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Mákrion Nâfrinês came into the world of the astrologer through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Mákrion Nafrines came into the world of the astrologer through a combination of circumstance and aptitude.
 
 Mákrion is a self-taught astrologer who began his practice by observing the stars from his farmstead. He eventually moved to a nearby town, where he now provides astrological advice to farmers regarding planting and harvest times. Though less educated than other astrologers, his practical insights have earned him a local following.
 
@@ -423,7 +423,7 @@ Practical approach to astrology, good rapport with common folk.
 
 Mákrion is affiliated with Rural Astrologers' Circle.
 
-As a Helionite astrologer, Mákrion occupies a recognized social niche within Heliónis society.
+As a Helionite astrologer, Mákrion occupies a recognized social niche within Helionis society.
 
 ## Companions
 
@@ -437,12 +437,12 @@ A few educated astrologers who view his methods as unsophisticated.
 
 ## Plot Hooks
 
-1. **The Astrologer's Dilemma**—Mákrion faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Astrologer's Dilemma**—Mákrion faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—A few educated astrologers who view his methods as unsophisticated. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 3. **Echoes of the Past**—Something from Mákrion's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Mákrion depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Mákrion depends upon. He must decide whether to adapt, resist, or flee.
 
 5. **The Opportunity**—A chance encounter offers Mákrion the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

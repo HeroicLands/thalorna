@@ -1,6 +1,6 @@
 ---
 shortcode: pzsnkhdzm
-name: {full: Pazâsan Khidîzûm, aliases: []}
+name: {full: Pazasan Khidizum, aliases: []}
 type: being
 subType: npc
 tags: [todo-warrior, draft, soldiery]
@@ -369,13 +369,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Pazâsan stands 5'11" with a medium build—rangy and loose-limbed, with the easy posture of a man comfortable in his own skin. His dark brown hair is thick and slightly curling, worn to his ears in the Tarûzelian style, and his dark amber eyes are sharp and calculating beneath a left eyebrow bisected by a thin white scar—the only visible evidence of a dockside altercation three years past. His medium-toned skin is clear and unblemished, and his face is long and narrow, with a straight nose and a neatly trimmed beard that follows his jawline. He wears the warehouse district guard uniform: a light padded tunic, leather bracers, and soft-soled boots designed for quiet movement on wooden dock planking. He carries a short sword, but his hands—long-fingered and precise—seem better suited to counting coins than drawing steel.
+Pazasan stands 5'11" with a medium build—rangy and loose-limbed, with the easy posture of a man comfortable in his own skin. His dark brown hair is thick and slightly curling, worn to his ears in the Taruzelian style, and his dark amber eyes are sharp and calculating beneath a left eyebrow bisected by a thin white scar—the only visible evidence of a dockside altercation three years past. His medium-toned skin is clear and unblemished, and his face is long and narrow, with a straight nose and a neatly trimmed beard that follows his jawline. He wears the warehouse district guard uniform: a light padded tunic, leather bracers, and soft-soled boots designed for quiet movement on wooden dock planking. He carries a short sword, but his hands—long-fingered and precise—seem better suited to counting coins than drawing steel.
 
 # Dossier {#dossier}
 
-Pazâsan was born into a Tarûzelian merchant family but chose military service over commercial life. At seventeen, he joined the port warehouse district guard, a position that monitors cargo movement, prevents theft, and enforces commercial regulations. The work had less prestige than he might have hoped, but it proved more interesting than his family's expectations. He discovered a talent for understanding how wealth actually moves through the city—not the official channels that appear on manifests but the real, complex networks that merchants use to avoid taxes, hide profits, and facilitate trade that exists outside the law.
+Pazasan was born into a Taruzelian merchant family but chose military service over commercial life. At seventeen, he joined the port warehouse district guard, a position that monitors cargo movement, prevents theft, and enforces commercial regulations. The work had less prestige than he might have hoped, but it proved more interesting than his family's expectations. He discovered a talent for understanding how wealth actually moves through the city—not the official channels that appear on manifests but the real, complex networks that merchants use to avoid taxes, hide profits, and facilitate trade that exists outside the law.
 
-At thirty-two, he has spent fifteen years in warehouse district work and has become expert at detecting deception in shipping documentation. Most guards look at cargo manifests and verify quantities; Pazâsan reads documentation and understands the gaps where illegal goods are hidden, where profits are being siphoned, where merchants are deceiving both the city and each other. His colleagues consider him overly focused on paperwork, but Pazâsan understands that actual crimes are often ledger crimes—visible in numbers and documentation rather than in physical evidence.
+At thirty-two, he has spent fifteen years in warehouse district work and has become expert at detecting deception in shipping documentation. Most guards look at cargo manifests and verify quantities; Pazasan reads documentation and understands the gaps where illegal goods are hidden, where profits are being siphoned, where merchants are deceiving both the city and each other. His colleagues consider him overly focused on paperwork, but Pazasan understands that actual crimes are often ledger crimes—visible in numbers and documentation rather than in physical evidence.
 
 The scar through his left eyebrow was earned during a confrontation with smugglers five years ago. He was investigating inconsistencies in a merchant's shipment documentation and encountered resistance that turned physical. He survived and pressed charges. The smugglers were prosecuted. The incident reinforced his understanding that the most dangerous criminals are the ones intelligent enough to hide their crimes in paperwork.
 
@@ -383,11 +383,11 @@ The scar through his left eyebrow was earned during a confrontation with smuggle
 
 ### Personality
 
-Pazâsan is methodical and precise, finding satisfaction in the detective work of tracing crimes through accounts. He is not particularly charismatic and does not form close friendships easily. He is intelligent about the workings of trade and will spend hours analyzing financial patterns that others find boring. He has a dry sense of humor about human nature and the creative methods people use to engage in fraud.
+Pazasan is methodical and precise, finding satisfaction in the detective work of tracing crimes through accounts. He is not particularly charismatic and does not form close friendships easily. He is intelligent about the workings of trade and will spend hours analyzing financial patterns that others find boring. He has a dry sense of humor about human nature and the creative methods people use to engage in fraud.
 
 ### Motivation
 
-Pazâsan's primary motivation is understanding the true economic structure of his city—recognizing where wealth actually flows and how it moves. His secondary motivation is preventing the specific kind of crime that damages legitimate commerce through fraud. He is not motivated by ideology but by an appreciation for the intellectual puzzle of financial investigation.
+Pazasan's primary motivation is understanding the true economic structure of his city—recognizing where wealth actually flows and how it moves. His secondary motivation is preventing the specific kind of crime that damages legitimate commerce through fraud. He is not motivated by ideology but by an appreciation for the intellectual puzzle of financial investigation.
 
 ### Strengths
 
@@ -395,26 +395,26 @@ His understanding of commercial documentation and accounts is thorough. He can r
 
 ## Social
 
-Pazâsan occupies an unusual role within the port warehouse district—respected by merchants who value his honesty and feared by merchants engaged in fraud. He is barely noticed by the broader city, content with his relative invisibility.
+Pazasan occupies an unusual role within the port warehouse district—respected by merchants who value his honesty and feared by merchants engaged in fraud. He is barely noticed by the broader city, content with his relative invisibility.
 
 ## Companions
 
 ### Patrons
 
-**Warehouse Master Zazûrûsh Bunîtûnî**—The administrator of the port warehouse district. Zazûrûsh has come to rely on Pazâsan absolutely for maintaining order and preventing theft. He pays Pazâsan substantially above standard guard wages and has made his position secure and protected from reassignment.
+**Warehouse Master Zazurush Bunituni**—The administrator of the port warehouse district. Zazurush has come to rely on Pazasan absolutely for maintaining order and preventing theft. He pays Pazasan substantially above standard guard wages and has made his position secure and protected from reassignment.
 
 ### Enemies
 
-**Merchant Prince Ashûraz Hitûsûnî**—A wealthy merchant whose operation Pazâsan has documented engaged in systematic smuggling and tax evasion. Ashûraz is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. Ashûraz recognizes Pazâsan as a threat and has begun working to undermine him through allegations of corruption and bias.
+**Merchant Prince Ashuraz Hitusuni**—A wealthy merchant whose operation Pazasan has documented engaged in systematic smuggling and tax evasion. Ashuraz is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. Ashuraz recognizes Pazasan as a threat and has begun working to undermine him through allegations of corruption and bias.
 
 ## Plot Hooks
 
-1. **The Documentation Trap**—Pazâsan discovers evidence in shipping manifests that suggests a major merchant operation is engaged in the trade in people—moving them through the port disguised as legitimate cargo. The documentation is methodical and almost open; the perpetrators were confident nobody would recognize the pattern. Pazâsan assembles the evidence carefully. But when he reports it to Warehouse Master Zazûrûsh, he learns that the operation is being protected by senior government officials. Zazûrûsh warns him that pursuing the investigation will cost him his position and possibly his life. Pazâsan can keep his post and his safety, or expose a serious crime.
+1. **The Documentation Trap**—Pazasan discovers evidence in shipping manifests that suggests a major merchant operation is engaged in the trade in people—moving them through the port disguised as legitimate cargo. The documentation is methodical and almost open; the perpetrators were confident nobody would recognize the pattern. Pazasan assembles the evidence carefully. But when he reports it to Warehouse Master Zazurush, he learns that the operation is being protected by senior government officials. Zazurush warns him that pursuing the investigation will cost him his position and possibly his life. Pazasan can keep his post and his safety, or expose a serious crime.
 
-2. **The Corrupted Guard**—Pazâsan discovers that a younger warehouse guard has been accepting payments from Merchant Prince Ashûraz in exchange for failing to document certain cargo movements. The guard is technically skilled and has been praised for his work. Pazâsan faces a choice: arrest the guard, ending his service, or give him a chance to resign, which allows Ashûraz to continue fraud while preserving the guard's future.
+2. **The Corrupted Guard**—Pazasan discovers that a younger warehouse guard has been accepting payments from Merchant Prince Ashuraz in exchange for failing to document certain cargo movements. The guard is technically skilled and has been praised for his work. Pazasan faces a choice: arrest the guard, ending his service, or give him a chance to resign, which allows Ashuraz to continue fraud while preserving the guard's future.
 
-3. **The Warehouse Master's Deception**—Pazâsan discovers that Warehouse Master Zazûrûsh has been engaged in systematic fraud—falsifying inspection records to allow contraband through the warehouse in exchange for bribes. Zazûrûsh has been Pazâsan's patron and supporter. The discovery is devastating to him. He can report his patron or become complicit in corruption.
+3. **The Warehouse Master's Deception**—Pazasan discovers that Warehouse Master Zazurush has been engaged in systematic fraud—falsifying inspection records to allow contraband through the warehouse in exchange for bribes. Zazurush has been Pazasan's patron and supporter. The discovery is devastating to him. He can report his patron or become complicit in corruption.
 
-4. **The Ledger Conspiracy**—Pazâsan discovers a pattern across multiple merchants that suggests they are working together to manipulate prices and monopolize certain goods. The conspiracy is probably illegal but is technically complex, and the merchants involved have political protection. Pazâsan is being pressured by his superiors to either stop investigating (because it involves politically protected people) or to rapidly close the case with insufficient evidence.
+4. **The Ledger Conspiracy**—Pazasan discovers a pattern across multiple merchants that suggests they are working together to manipulate prices and monopolize certain goods. The conspiracy is probably illegal but is technically complex, and the merchants involved have political protection. Pazasan is being pressured by his superiors to either stop investigating (because it involves politically protected people) or to rapidly close the case with insufficient evidence.
 
-5. **The Whistleblower's Risk**—A merchant's employee approaches Pazâsan privately with documentation proving that the employee's employer (a major merchant) is engaged in systematic crime: smuggling, fraud, and likely involvement in the trade in people. The employee has stolen the documentation and is now in possession of evidence that proves the crime but is itself technically evidence obtained through theft. The employee is asking Pazâsan to help her bring charges while protecting her identity. Accepting the evidence makes Pazâsan complicit in the theft. Refusing means allowing serious crime to continue.
+5. **The Whistleblower's Risk**—A merchant's employee approaches Pazasan privately with documentation proving that the employee's employer (a major merchant) is engaged in systematic crime: smuggling, fraud, and likely involvement in the trade in people. The employee has stolen the documentation and is now in possession of evidence that proves the crime but is itself technically evidence obtained through theft. The employee is asking Pazasan to help her bring charges while protecting her identity. Accepting the evidence makes Pazasan complicit in the theft. Refusing means allowing serious crime to continue.

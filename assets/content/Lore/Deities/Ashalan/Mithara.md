@@ -1,11 +1,11 @@
 ---
 shortcode: mitharadty
-name: {full: Míthárä, aliases: []}
+name: {full: Míthara, aliases: []}
 type: lore
 subType: deity
-description: "The World's First Light of the Āsháian pantheon—creation, renewal, and the craft by which made things endure."
+description: "The World's First Light of the Ashaian pantheon—creation, renewal, and the craft by which made things endure."
 tags: [draft]
 data: {packFolder: deitiesashalan, culture: dunhariclt}
 ---
 
-Míthárä, the World's First Light, is the deity of creation, renewal, cosmic life and artisanship in the [[affiliation-ashanpnthn|Āsháian Pantheon]], patron of the craft by which made things endure. The symbol is a tree with roots entwined in a circle, eternally renewing itself. Worship is kept in the [[affiliation-mizhara|Faith of Míthárä]]. Every sacred site of the Āsháian faith is a fire-temple, so this deity is worshipped at an altar beside the one kept to Ātáröš, and served by the same priesthood of Rōqeshekh, Dēlkoshekh and Shēkhulsīghot.
+Míthara, the World's First Light, is the deity of creation, renewal, cosmic life and artisanship in the [[affiliation-ashanpnthn|Ashaian Pantheon]], patron of the craft by which made things endure. The symbol is a tree with roots entwined in a circle, eternally renewing itself. Worship is kept in the [[affiliation-mizhara|Faith of Míthara]]. Every sacred site of the Ashaian faith is a fire-temple, so this deity is worshipped at an altar beside the one kept to Ataros, and served by the same priesthood of Roqeshekh, Delkoshekh and Shekhul.

@@ -1,6 +1,6 @@
 ---
 shortcode: zdmrsmkthn
-name: {full: Zádìmêros Mâkîthôn, aliases: []}
+name: {full: Zádimeros Makithon, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, tradesfolk]
@@ -394,13 +394,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Zádìmêros Mâkîthôn is a 45-year-old man who stands 5'6" tall and is of moderate build. He has a long face with broad cheekbones, a narrow forehead, and an angular jaw that leads to a prominent chin. His almond-shaped green eyes sit beneath prominent brows, lending him a measured gaze. A prominent nose and narrow lips complete his features. He has fair skin with a weathered complexion. His graying brown hair is tied in a low tail.
+Zádimeros Makithon is a 45-year-old man who stands 5'6" tall and is of moderate build. He has a long face with broad cheekbones, a narrow forehead, and an angular jaw that leads to a prominent chin. His almond-shaped green eyes sit beneath prominent brows, lending him a measured gaze. A prominent nose and narrow lips complete his features. He has fair skin with a weathered complexion. His graying brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a guilded family of Helionite heritage, Zádìmêros Mâkîthôn came into the world of the cartographer/artist through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a guilded family of Helionite heritage, Zádimeros Makithon came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
-Zádìmêros is a skilled cartographer known for his detailed maps of the surrounding region. Originally trained as an artist, he turned to mapmaking when he realized the lucrative opportunities it offered. His work is sought after by merchants, explorers, and nobles alike, though he has also been accused of selling sensitive maps to rival factions.
+Zádimeros is a skilled cartographer known for his detailed maps of the surrounding region. Originally trained as an artist, he turned to mapmaking when he realized the lucrative opportunities it offered. His work is sought after by merchants, explorers, and nobles alike, though he has also been accused of selling sensitive maps to rival factions.
 
 ## Psyche
 
@@ -410,7 +410,7 @@ Greed has led him to sell maps to less-than-reputable clients.
 
 ### Motivation
 
-Zádìmêros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cartographer/artist work keep him vigilant and adaptable.
+Zádimeros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cartographer/artist work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -418,15 +418,15 @@ Highly skilled in drawing and mapmaking, excellent attention to detail.
 
 ## Social
 
-Zádìmêros is affiliated with Cartographers' Guild.
+Zádimeros is affiliated with Cartographers' Guild.
 
-As a Helionite cartographer/artist, Zádìmêros occupies a recognized social niche within Heliónis society.
+As a Helionite cartographer/artist, Zádimeros occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Zádìmêros's primary patron is Nobles and wealthy merchants who commission his maps. This relationship provides both opportunity and obligation.
+Zádimeros's primary patron is Nobles and wealthy merchants who commission his maps. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,12 +434,12 @@ Rival cartographers and the city guard, who suspect him of espionage.
 
 ## Plot Hooks
 
-1. **The Cartographer/Artist's Dilemma**—Zádìmêros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Cartographer/Artist's Dilemma**—Zádimeros faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—Rival cartographers and the city guard, who suspect him of espionage. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Zádìmêros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Zádimeros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Zádìmêros depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Zádimeros depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Zádìmêros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Zádimeros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

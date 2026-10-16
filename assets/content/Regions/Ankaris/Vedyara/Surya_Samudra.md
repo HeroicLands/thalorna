@@ -1,9 +1,9 @@
 ---
 shortcode: suryasamdra
-name: {full: Sūrya-samudra, aliases: [The Eastern Sea]}
+name: {full: Surva-samedra, aliases: [The Eastern Sea]}
 type: place
 subType: region
-description: "The eastern ocean off Vedyara—the sea the sun rises from, worked by Tāntsou junks and Jénchài hulls, and closed to shipping for four months of the year."
+description: "The eastern ocean off Vedyara—the sea the sun rises from, worked by Tantsou junks and Jenchai hulls, and closed to shipping for four months of the year."
 tags: [region, coastal]
 data:
   demonym: null
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-The **Sūrya-samudra** is the warm ocean east of [[place-vedyarargn|Vedyara]], and the name means the sea the sun rises from. It takes the eastern coast of [[place-vedyarargn|Vedyara]] from the forest country in the north down to the turn of the land in the south, and it carries the greater part of the subcontinent's sea trade. Three of the four great rivers come down to it. The [[place-mahanadi|Mahānadī]], the [[place-sarvadarivr|Sarvada]] and the [[place-bharavarivr|Bhārava]] each reach the sea on this coast, and the ports stand at their mouths and nowhere else.
+The **Surva-samedra** is the warm ocean east of [[place-vedyarargn|Vedyara]], and the name means the sea the sun rises from. It takes the eastern coast of [[place-vedyarargn|Vedyara]] from the forest country in the north down to the turn of the land in the south, and it carries the greater part of the subcontinent's sea trade. Three of the four great rivers come down to it. The [[place-mahanadi|Mahanodi]], the [[place-sarvadarivr|Sarveda]] and the [[place-bharavarivr|Bharava]] each reach the sea on this coast, and the ports stand at their mouths and nowhere else.
 
 It is a shallow sea close inshore and a deep one a day out. The bars at the river mouths shift with every monsoon, and a master who has not worked a mouth within the year takes a local pilot over it or waits for one.
 
@@ -25,11 +25,11 @@ It is a shallow sea close inshore and a deep one a day out. The bars at the rive
 
 The monsoon governs the sea absolutely. The rains come up out of the south and close the coast for four months, and in those months no hull that can be got up a river stays outside. The season opens when the rain stops and runs until it returns. Every cargo on this coast is loaded, carried and sold inside that window, and a ship that misses it winters where it lies at the owner's expense.
 
-The coast plants when the rain starts and sails when it stops, and the interior plants when the rivers rise. The two calendars do not agree and never have. A janapada twenty miles inland keeps its year by the flood and its neighbor on the shore keeps his by the wind, and the assembly that seats them both is fixed by neither.
+The coast plants when the rain starts and sails when it stops, and the interior plants when the rivers rise. The two calendars do not agree and never have. A janapoda twenty miles inland keeps its year by the flood and its neighbor on the shore keeps his by the wind, and the assembly that seats them both is fixed by neither.
 
 ## Who Sails It
 
-Tāntsou junks work down from the southern ports of [[place-tantsouregin|Tāntsou]] and have reached this coast for as long as either side has kept a record. Jénchài hulls come from further east and come less often, and their captains are reckoned the finest seamen anybody here has dealt with. Vedyari shipping is the bulk of the traffic and the shortest-legged of it. A Vedyaran coasting ship works from mouth to mouth in sight of land, and the long eastern passage is left to the men who live at the other end of it.
+Tantsou junks work down from the southern ports of [[place-tantsouregin|Tantsou]] and have reached this coast for as long as either side has kept a record. Jenchai hulls come from further east and come less often, and their captains are reckoned the finest seamen anybody here has dealt with. Vedyari shipping is the bulk of the traffic and the shortest-legged of it. A Vedyaran coasting ship works from mouth to mouth in sight of land, and the long eastern passage is left to the men who live at the other end of it.
 
 Three kinds of hull are built on this coast. The river-boat is flat-bottomed, works the four rivers and the mouths, and never goes outside the bar. The coasting ship carries the trade, runs the shore in the open season, and is the hull a Vedyari means when he says ship. The war-galley is oared, is built at one city only, and does not carry cargo.
 
@@ -44,7 +44,7 @@ What the deck gives, it gives only afloat. A sailor who takes his pay and stays 
 ## See Also
 
 - [[place-vedyarargn|Vedyara Region]]—the coast this sea takes
-- [[place-suryaislnds|The Sūrya-samudra Islands]]—the island chain to the southeast
-- [[place-meghsamdra|The Megha-samudra]]—the southern sea
-- [[place-tantsouregin|Tāntsou Region]]—the junks' home ports
-- [[place-jenchairgn|Jénchài Region]]—the eastern archipelago
+- [[place-suryaislnds|The Surva-samedra Islands]]—the island chain to the southeast
+- [[place-meghsamdra|The Meghra-samedra]]—the southern sea
+- [[place-tantsouregin|Tantsou Region]]—the junks' home ports
+- [[place-jenchairgn|Jenchai Region]]—the eastern archipelago

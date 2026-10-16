@@ -1,9 +1,9 @@
 ---
 shortcode: iltherozedim
-name: {full: Ilthéro Zedimándis, aliases: [King Ilthéro III, King Ilthéro]}
+name: {full: Ilthero Zedimis, aliases: [King Ilthero III, King Ilthero]}
 type: being
 subType: npc
-description: The aging king, who values Kárenna Gráveth's counsel and relies on her judgment in matters of diplomacy.
+description: The aging king, who values Kárenna Graveth's counsel and relies on her judgment in matters of diplomacy.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ilthéro Zedimándis is a 66-year-old man who stands 5'10" tall with a medium build. He has tanned skin, sun-kissed complexion, brown hair, and dark brown eyes.
+Ilthero Zedimis is a 66-year-old man who stands 5'10" tall with a medium build. He has tanned skin, sun-kissed complexion, brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Ilthéro Zedimándis, called Ilthéro III, is the aging king. He values the counsel of [[being-carengrvth|Kárenna Gráveth]] and relies on her judgment in matters of diplomacy.
+Ilthero Zedimis, called Ilthero III, is the aging king. He values the counsel of [[being-carengrvth|Kárenna Graveth]] and relies on her judgment in matters of diplomacy.

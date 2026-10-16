@@ -1,6 +1,6 @@
 ---
 shortcode: wludwtchmn
-name: {full: The Watchman beneath Vülüd, aliases: []}
+name: {full: The Watchman beneath Vulud, aliases: []}
 type: scenario
 subType: adventure
 description: "A sandstorm drives the party into a counting-house of the drowned tower city, where a stone watchman has already met the last treasure hunters and is closing the house for the night."
@@ -16,13 +16,13 @@ data:
   packFolder: adventures
 ---
 
-The dunes of the Khoshiqor have scoured open again the street of [[place-wilud|Vülüd]] that Uruvolun sold twice four years ago, and at its end the counting-house tower of the [[lore-towercities|Tower League]] whose door the Tāntsou collector's men forced then, the first to enter it in two thousand years. An Uruvol guide brings the party to it a day behind a rival crew. A sandstorm drives the party inside, where it finds the rival crew's work half done, one of them crushed flat with nothing on top of him, and a stone watchman at the foot of the stair that is never quite where the party left it. The watchman is not hunting the party. It keeps the house's goods, and it comes for whatever the party carries.
+The dunes of the Khoshiqor have scoured open again the street of [[place-wilud|Vulud]] that Uruvolun sold twice four years ago, and at its end the counting-house tower of the [[lore-towercities|Tower League]] whose door the Tantsou collector's men forced then, the first to enter it in two thousand years. An Uruvol guide brings the party to it a day behind a rival crew. A sandstorm drives the party inside, where it finds the rival crew's work half done, one of them crushed flat with nothing on top of him, and a stone watchman at the foot of the stair that is never quite where the party left it. The watchman is not hunting the party. It keeps the house's goods, and it comes for whatever the party carries.
 
 ## Overview
 
 The adventure runs over one storm, from noon to the next dawn. Its clock is the sand: from the moment the storm breaks, sand pours through the doorways and windows of the ground floor, the shaded entrance fills by nightfall, and the lower passages fill after it, until the only ways out are the service door, which the watchman is blocking, and the roof, which is in the storm.
 
-Vülüd was abandoned, not massacred, and nothing in [[place-bolidqiso|Bolidqiiso]] is a ghost. The danger is the **watchman**, a [[lore-golemcrtr|construct]] of the league that still keeps the house by orders nobody can read. It cannot be frightened or bargained with. It can be understood, and every scene below hands the party a piece of how it works. Every scene gives several ways through and says how play carries on if the party skips, fails or cuts short what the scene offers.
+Vulud was abandoned, not massacred, and nothing in [[place-bolidqiso|Bolidqiiso]] is a ghost. The danger is the **watchman**, a [[lore-golemcrtr|construct]] of the league that still keeps the house by orders nobody can read. It cannot be frightened or bargained with. It can be understood, and every scene below hands the party a piece of how it works. Every scene gives several ways through and says how play carries on if the party skips, fails or cuts short what the scene offers.
 
 **The essential clues** the party needs to meet the watchman prepared, and where each can be found:
 
@@ -30,7 +30,7 @@ Vülüd was abandoned, not massacred, and nothing in [[place-bolidqiso|Bolidqiis
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | it moves only while nobody is looking at it, until the house is closed | its changes of place (Scenes One to Three); its walk across the counting floor (Scene Three)                    |
 | it goes where the house's goods go, and follows the laden              | the hunter's tracks (Scene Two); the decoy pack (Scene Two); its walk past the empty-handed (Scene Three)       |
-| a whole seal covers one load, and the man who holds it                 | the wall panel (Scene Two); Kesükenöd (Scene Three); the strongroom's seals and wax (Scene Five)                |
+| a whole seal covers one load, and the man who holds it                 | the wall panel (Scene Two); Kesukenod (Scene Three); the strongroom's seals and wax (Scene Five)                |
 | its binding signs are in its palms                                     | its polished hands (Scene One); the dead hunter's chest (Scene Two); the partner's body in the pan (Scene Four) |
 | the hall floor is weak and the counterweights can fall                 | the engineer's diagram (Scene Two); the cracked floor and the chains (Scene Four); Uruvolun (Scene Three)       |
 | it does not cross a threshold out of the house                         | Uruvolun's league-lore (Scene One); its halt at the lamp-stair (Scene Three); the panel of the closed door      |
@@ -51,10 +51,10 @@ The full truth of the house—what the watchman keeps, what a seal covers, the o
 | The party squeezes under its hands at the stair foot, and it does not move                     | Scene One                         | It cannot move while watched                             | The party is empty-handed                                                         |
 | Uruvolun takes nothing in a dead city, and it walks past her                                   | Scene One; Scene Three            | A guide's superstition                                   | It is how a guide lives                                                           |
 | Its square tracks go only to the deepest footprints                                            | Scene Two                         | It tracks fresh prints                                   | It follows the laden; deep prints are heavy prints                                |
-| The dead hunter's purse of Byzarian silver lies untouched on his belt                          | Scene Two                         | It kills and does not rob                                | It cares for nothing that is not the house's                                      |
+| The dead hunter's purse of Bizarian silver lies untouched on his belt                          | Scene Two                         | It kills and does not rob                                | It cares for nothing that is not the house's                                      |
 | The dead hunter's pack, heavy with weights, left as a decoy, is moved to a balance pan         | Scene Two                         | It takes bait                                            | It takes the house's goods back                                                   |
-| Kesükenöd: "It passed me because I held the seal. My partner had the sack."                    | Scene Three                       | The seal is a pass                                       | The seal covered him; the sack damned his partner                                 |
-| Uruvolun was here four years ago, and the Tāntsou's men carried out caskets past it untouched  | Scene One; Scene Three; the hooks | It sleeps in fair weather, or they were lucky            | Every casket they carried was under a whole seal                                  |
+| Kesukenod: "It passed me because I held the seal. My partner had the sack."                    | Scene Three                       | The seal is a pass                                       | The seal covered him; the sack damned his partner                                 |
+| Uruvolun was here four years ago, and the Tantsou's men carried out caskets past it untouched  | Scene One; Scene Three; the hooks | It sleeps in fair weather, or they were lucky            | Every casket they carried was under a whole seal                                  |
 | The partner lies in one pan of the great balance, his sack in the other, the beam pinned level | Scene Four                        | A cruel display                                          | The panel's question answered: the thief is weighed against the theft             |
 | A crock of dark wax stands on the shelf beside the engraved seals                              | Scene Five                        | Clerks' stores                                           | The means to write a bill for every load                                          |
 
@@ -65,7 +65,7 @@ The reveal belongs in Scene Three, when the house closes and the watchman moves 
 - **A party that has pocketed weights or glass.** It walks past the nearest of the party, past Uruvolun in its path, to the one with the weights. Uruvolun steps aside and it does not look at her.
 - **A party that has taken nothing.** It walks past them all to the dead hunter, lifts him with his pack and carries both through to the great balance.
 - **A party that laid the decoy.** It walks past them to the counting-floor pan where it put the decoy's weights, gathers them, and then goes for the dead hunter.
-- **A party freeing Kesükenöd.** The blocks go home on the service door, the watchman turns from the niche without a glance at the people round it, and goes to whoever carries anything.
+- **A party freeing Kesukenod.** The blocks go home on the service door, the watchman turns from the niche without a glance at the people round it, and goes to whoever carries anything.
 
 > [!TIP]
 > Land the reveal on its walk. Describe it coming straight at the party, and then describe it going past them: past the first, past Uruvolun, past the second, to the pack. Say nothing about why. The players who turn to look at their own packs have found it.
@@ -78,20 +78,20 @@ The reveal belongs in Scene Three, when the house closes and the watchman moves 
 
 ### What the party wants afterward
 
-Once the reveal lands, the treasure is the danger, and the greed that brought the party here is what puts it in the pan. Survival means setting the treasure down, or reaching the lamp-stair; the treasure means finding the seals in the strongroom and learning that a whole seal pressed on a load covers it. The fight in the weighing hall becomes a negotiation with a rule. Kesükenöd's seal is suddenly worth more than anything in the strongroom, and Uruvolun, who carries nothing, is the safest person in the house.
+Once the reveal lands, the treasure is the danger, and the greed that brought the party here is what puts it in the pan. Survival means setting the treasure down, or reaching the lamp-stair; the treasure means finding the seals in the strongroom and learning that a whole seal pressed on a load covers it. The fight in the weighing hall becomes a negotiation with a rule. Kesukenod's seal is suddenly worth more than anything in the strongroom, and Uruvolun, who carries nothing, is the safest person in the house.
 
 > [!TIP]
-> Setting a load down is not a free escape. An unsealed party member with nothing in his hands is stock once the thieves are dealt with, and the watchman files him. Filing is slow and survivable, as Kesükenöd shows, so it makes a tense middle course rather than a death.
+> Setting a load down is not a free escape. An unsealed party member with nothing in his hands is stock once the thieves are dealt with, and the watchman files him. Filing is slow and survivable, as Kesukenod shows, so it makes a tense middle course rather than a death.
 
 ## Hooks
 
-- **The thief.** A Tāntsou collector paid Uruvolun for the news of the street and is a day behind. Four years ago his men were the first into this house and came home with seals and weights, and he has paid the party to go ahead of him and bring out the seals before anyone else does. He tells the party his men worked a whole day in the house and the stone figure never moved.
-- **The mercenary or common soldier.** A Byzarian factor bought the same news, and his own crew went in ahead. Four years ago he paid for this street and reached it a day too late, and this time he sent his crew the hour he paid. He hires the party to follow, find out why his crew has not come back, and bring out what they found.
+- **The thief.** A Tantsou collector paid Uruvolun for the news of the street and is a day behind. Four years ago his men were the first into this house and came home with seals and weights, and he has paid the party to go ahead of him and bring out the seals before anyone else does. He tells the party his men worked a whole day in the house and the stone figure never moved.
+- **The mercenary or common soldier.** A Bizarian factor bought the same news, and his own crew went in ahead. Four years ago he paid for this street and reached it a day too late, and this time he sent his crew the hour he paid. He hires the party to follow, find out why his crew has not come back, and bring out what they found.
 - **The leader.** The party's company needs money, and Uruvolun sells it the news cheap because she has already sold it twice. She guides whoever arrives first, and the party is first of the paying buyers, but not the first into the street.
 - **The lone wanderer.** One of the rival crew is the wanderer's kin, or owes the wanderer money, and went in two days ago without saying goodbye.
 
 > [!NOTE]
-> Uruvolun tells the tale of this street at the fire at Qiiso, in [[lore-roadnights|The Nights of the Road]]: the street sold twice, the counting-house door at its end, the Tāntsou's men carrying out seals and weights. A party that has heard the tale knows the house was opened four years ago and that nobody died of it.
+> Uruvolun tells the tale of this street at the fire at Qiiso, in [[lore-roadnights|The Nights of the Road]]: the street sold twice, the counting-house door at its end, the Tantsou's men carrying out seals and weights. A party that has heard the tale knows the house was opened four years ago and that nobody died of it.
 
 ## The Opening
 
@@ -120,7 +120,7 @@ The watchman has gone to its stair because the wind has turned, and it means to 
 
 **NPCs and threats.**
 
-- **Uruvolun** is small and quick, with a face burned nearly black and a cord of tokens round her neck. She keeps the whole bargain: the party arrives, or she stays with it until it cannot. She knows the Khoshiqor, and she has been in one counting-house before: this one, four years ago, when she guided the Tāntsou's men to its door. She tells the party that league buildings have doors their guardians will not pass, and she does not know which doors those are in this one. Asked about the figure, she says it stood by the doorway then too, and that the Tāntsou's men carried their caskets out past it all day and it never moved. She takes nothing in a dead city, and says so if a party member pockets anything: nothing taken from inside has ever stayed anyone's.
+- **Uruvolun** is small and quick, with a face burned nearly black and a cord of tokens round her neck. She keeps the whole bargain: the party arrives, or she stays with it until it cannot. She knows the Khoshiqor, and she has been in one counting-house before: this one, four years ago, when she guided the Tantsou's men to its door. She tells the party that league buildings have doors their guardians will not pass, and she does not know which doors those are in this one. Asked about the figure, she says it stood by the doorway then too, and that the Tantsou's men carried their caskets out past it all day and it never moved. She takes nothing in a dead city, and says so if a party member pockets anything: nothing taken from inside has ever stayed anyone's.
 - **The bone scorpions**, two or three, lie in the cool along the walls. Their dry rattle carries under the wind.
 - **The watchman** does not move while anyone is looking at it. It walked up the hall while every eye in the party was on the scorpions.
 
@@ -137,7 +137,7 @@ The watchman has gone to its stair because the wind has turned, and it means to 
 
 To pass the watchman on the stair, the party must squeeze between it and the wall, under its outstretched hands. It does not move.
 
-**Clues and rewards.** Its hands are polished while everything else about it is weathered, and the polish is deepest in the palms, where signs are cut. Its head faces the footprints the rival crew left on the stair. Uruvolun's league-lore, and her account of the Tāntsou's men four years ago. A shred of a Byzarian traveling cloak caught on its fingers.
+**Clues and rewards.** Its hands are polished while everything else about it is weathered, and the polish is deepest in the palms, where signs are cut. Its head faces the footprints the rival crew left on the stair. Uruvolun's league-lore, and her account of the Tantsou's men four years ago. A shred of a Bizarian traveling cloak caught on its fingers.
 
 > [!WARNING]
 > Do not let the watchman reach for anyone at the stair foot, and do not describe its hands closing. The party passes under its hands untouched because it carries nothing, and a GM who adds menace here plants a reading that Scene Three has to unpick.
@@ -152,7 +152,7 @@ To pass the watchman on the stair, the party must squeeze between it and the wal
 
 > The stair comes up into a long room of stone benches. Bronze balances stand along them with their pans still hanging, and the pans still hold their weights. Broken seals of dark wax crunch underfoot. Drag marks cross the dust from the stair head to a far door, and under a fallen table near the benches a man lies on his back, quite flat.
 
-**Situation.** The counting floor is a long room of stone benches and bronze balances, its pans still hanging, with broken seals scattered on the floor where the league's clerks broke them when an account was closed. Storage niches line the end walls, the height of a bale, each with a stone block beside it. Drag marks cross the dust from the stair to the far door, which opens on the weighing hall. On the end wall, scratched into the plaster in a clerk's hand, is an engineer's diagram of the house. Beneath a fallen table lies a treasure hunter of the rival crew, a Byzarian with a factor's brand on his wrist. He is crushed flat. The table lies across him, but the table is light, and his chest carries two marks the size of a man's palms, pressed so deep that the cloth has gone into the flesh. His pack lies beside him, heavy with bronze weights from the balances, and his purse of Byzarian silver is still on his belt.
+**Situation.** The counting floor is a long room of stone benches and bronze balances, its pans still hanging, with broken seals scattered on the floor where the league's clerks broke them when an account was closed. Storage niches line the end walls, the height of a bale, each with a stone block beside it. Drag marks cross the dust from the stair to the far door, which opens on the weighing hall. On the end wall, scratched into the plaster in a clerk's hand, is an engineer's diagram of the house. Beneath a fallen table lies a treasure hunter of the rival crew, a Bizarian with a factor's brand on his wrist. He is crushed flat. The table lies across him, but the table is light, and his chest carries two marks the size of a man's palms, pressed so deep that the cloth has gone into the flesh. His pack lies beside him, heavy with bronze weights from the balances, and his purse of Bizarian silver is still on his belt.
 
 **NPCs and threats.**
 
@@ -180,7 +180,7 @@ To pass the watchman on the stair, the party must squeeze between it and the wal
 
 **Consequences.** By now the shaded entrance is knee-deep in sand. When the party next looks down the stair, the watchman is no longer at its foot.
 
-**If bypassed, failed or cut short.** A party that never reads the diagram learns the house from Uruvolun, who has stood in this one before, or from Kesükenöd in Scene Three, or from the weighing hall's own cracked floor and hanging chains in Scene Four. A party that never finds the dead man finds the drag marks again in the weighing hall, leading to the pan of the great balance, where his partner lies.
+**If bypassed, failed or cut short.** A party that never reads the diagram learns the house from Uruvolun, who has stood in this one before, or from Kesukenod in Scene Three, or from the weighing hall's own cracked floor and hanging chains in Scene Four. A party that never finds the dead man finds the drag marks again in the weighing hall, leading to the pan of the great balance, where his partner lies.
 
 ## Scene Three: The Moving Watchman
 
@@ -194,30 +194,30 @@ When the last block goes home, the house is closed, and the watchman moves in pl
 
 **NPCs and threats.**
 
-- **Kesükenöd**, the second looter, a Sovidur hired hand of the rival crew. He is a broad man with a broken rib and a whole seal of dark wax in his fist, which he pried from the strongroom's door-frame. Once he can breathe he says two things, and little else that the party has not seen for itself: "It passed me because I held the seal. My partner had the sack." He dropped the seal to drag his partner out of the pan, and he woke in the niche. He has been there since yesterday, and he does not know what became of the hunter.
+- **Kesukenod**, the second looter, a Sovidur hired hand of the rival crew. He is a broad man with a broken rib and a whole seal of dark wax in his fist, which he pried from the strongroom's door-frame. Once he can breathe he says two things, and little else that the party has not seen for itself: "It passed me because I held the seal. My partner had the sack." He dropped the seal to drag his partner out of the pan, and he woke in the niche. He has been there since yesterday, and he does not know what became of the hunter.
 - **Uruvolun**, who goes to the lamp-stair door at the first scrape of the blocks and stands on its threshold. When the watchman walks past her she watches it go, and then looks at the party's packs.
 - **The watchman**, closing the house.
 - **The sand**, now waist-deep in the entrance hall, closing the front door.
 
 **Player choices.**
 
-- _Force:_ shift the block with bars and backs to free Kesükenöd; it takes time, and the watchman moves whenever nobody is watching it.
+- _Force:_ shift the block with bars and backs to free Kesukenod; it takes time, and the watchman moves whenever nobody is watching it.
 - _Stealth:_ keep one person's eyes on the watchman at all times, so that it cannot move, and work round it in relays while the others free the looter.
 - _Cleverness with the place:_ lay false tracks across the counting floor to draw the watchman away from the weighing hall door; or leave a trail into the lamp-stair, which it will not enter. Light tracks draw it nowhere; tracks laid by someone carrying weights draw it along them.
-- _Parley:_ get Kesükenöd's two sentences, and his seal if he will give it.
-- _Giving something up:_ leave Kesükenöd in the niche and go for the strongroom. He calls after the party as long as he has the breath.
+- _Parley:_ get Kesukenod's two sentences, and his seal if he will give it.
+- _Giving something up:_ leave Kesukenod in the niche and go for the strongroom. He calls after the party as long as he has the breath.
 
-**Clues and rewards.** Kesükenöd's whole seal, if the party frees him and he gives it, or if it is taken. His two sentences. The watchman's walk past Uruvolun. Uruvolun, hearing the counterweight chains rattle in their shafts through the wall, says that a league house that lifts goods on counterweights drops them too.
+**Clues and rewards.** Kesukenod's whole seal, if the party frees him and he gives it, or if it is taken. His two sentences. The watchman's walk past Uruvolun. Uruvolun, hearing the counterweight chains rattle in their shafts through the wall, says that a league house that lifts goods on counterweights drops them too.
 
 > [!TIP]
-> Kesükenöd is a frightened man with a broken rib, not an explainer. He knows what he saw and not why. Let the party set his two sentences beside the dead hunter's pack and the decoy, and draw the line between them itself.
+> Kesukenod is a frightened man with a broken rib, not an explainer. He knows what he saw and not why. Let the party set his two sentences beside the dead hunter's pack and the decoy, and draw the line between them itself.
 
 > [!WARNING]
-> Taking Kesükenöd's seal from him closes a route. A man with nothing in his hands and no seal in a closed house is stock, and the watchman files him again once the thieves are dealt with. A party that takes the seal and leaves him in the open has put him back in the niche.
+> Taking Kesukenod's seal from him closes a route. A man with nothing in his hands and no seal in a closed house is stock, and the watchman files him again once the thieves are dealt with. A party that takes the seal and leaves him in the open has put him back in the niche.
 
 **Consequences.** The house is closed. From now on the watchman moves in plain sight, and it comes for whatever of the house's is carried without a whole seal over it. The front entrance is full of sand to the vault, and the only ways out are the service door past the weighing hall, the strongroom's goods-chute to the court, and the roof by the lamp-stair, which is in the storm and full of numaq at dusk.
 
-**If bypassed, failed or cut short.** A party that never doubles back and never sees the watchman change its place meets it standing in a doorway behind them, between the party and the stair, facing whoever carries the most. A party that never finds the niche hears Kesükenöd's breathing through the wall of the counting floor; if it still does not look, he is found in Scene Four, filed in a niche of the weighing hall, alive and unable to move. A party that hurries ahead to the service door before the blocks are set reaches it as the last block goes into place, with the watchman on the far side of it.
+**If bypassed, failed or cut short.** A party that never doubles back and never sees the watchman change its place meets it standing in a doorway behind them, between the party and the stair, facing whoever carries the most. A party that never finds the niche hears Kesukenod's breathing through the wall of the counting floor; if it still does not look, he is found in Scene Four, filed in a niche of the weighing hall, alive and unable to move. A party that hurries ahead to the service door before the blocks are set reaches it as the last block goes into place, with the watchman on the far side of it.
 
 ## Scene Four: The Weighing Hall
 
@@ -227,7 +227,7 @@ When the last block goes home, the house is closed, and the watchman moves in pl
 
 **Situation.** The weighing hall is two stories high, lit by slits under the roof. The great beam-balance's pivot is a block of bronze, and an iron pin through it holds the beam level. Its counterweights hang in square shafts at the hall's sides on chains wound round a drum. The floor is flagged over vaults, and a crack runs across it from wall to wall where a flag has sunk. Sand is coming up through the crack from the flooded vaults below. Panels on the walls show the merchant with the seal, the figure in the pan, and the service door blocked against blown sand. The strongroom door is at the far end, and the service door beyond it is blocked. The watchman stands between them, and it is coming for whoever carries the house's goods.
 
-The man in the pan is Kesükenöd's partner. His chest carries the same palm marks as the hunter's, pressed in the pan; he climbed out, and it pressed him back down. If the watchman has already carried the hunter here, he lies across the same pan with his pack beside the sack, or the watchman is laying him there when the party comes in.
+The man in the pan is Kesukenod's partner. His chest carries the same palm marks as the hunter's, pressed in the pan; he climbed out, and it pressed him back down. If the watchman has already carried the hunter here, he lies across the same pan with his pack beside the sack, or the watchman is laying him there when the party comes in.
 
 **NPCs and threats.**
 
@@ -240,7 +240,7 @@ The man in the pan is Kesükenöd's partner. His chest carries the same palm mar
 **Player choices.**
 
 - _Giving something up:_ set it all down. A character who lays his weights back in a pan is no longer a thief, and the watchman turns from him. He is now stock, and it files him later, alive, unless he reaches the lamp-stair or a seal first.
-- _Parley, in its own fashion:_ seal the load. A whole seal held up covers the one who holds it, and a whole seal fixed to a sack covers the sack. Kesükenöd's seal covers one load; the strongroom holds the means to seal the rest.
+- _Parley, in its own fashion:_ seal the load. A whole seal held up covers the one who holds it, and a whole seal fixed to a sack covers the sack. Kesukenod's seal covers one load; the strongroom holds the means to seal the rest.
 - _Cleverness with the place:_ the damaged floor. Lure it onto the cracked flags along a trail of deep footprints, laid by someone carrying weights, and break them with a bar or a dropped weight; it falls into the sand-filled vault and is buried to the chest.
 - _Cleverness with the place:_ the counterweights. Knock the pin from the drum and drop a counterweight down its shaft onto the watchman at the shaft foot, or lure it into the great pan with a sack of weights and drop the counterweight, which hauls the pan to the roof with the watchman in it.
 - _Cleverness with the place:_ the binding. Get under its hands, which it opens only to close them on someone, and break the signs in its palms with a chisel or a crowbar. A construct whose signs are broken stops, and this one stops with its hands still open.
@@ -268,7 +268,7 @@ The man in the pan is Kesükenöd's partner. His chest carries the same palm mar
 **NPCs and threats.**
 
 - **Uruvolun**, who keeps the whole bargain, and wants her fee.
-- **Kesükenöd**, if he lives, who wants a share for the seal.
+- **Kesukenod**, if he lives, who wants a share for the seal.
 - **The watchman**, if it still walks, which comes for any load lifted here without a seal over it.
 - **The rival buyer**, whose men may still be on the far side of the dune, or the party's own employer, a day behind.
 
@@ -278,13 +278,13 @@ The man in the pan is Kesükenöd's partner. His chest carries the same palm mar
 - _Force:_ lift every flag and take every ingot unsealed, and run for the goods-chute, which it will not cross. The silver is heavy, the camels are lost or dead, and the watchman is coming; a party that takes it all buries most of it in the court and comes back for it before the next sand-front.
 - _Stealth:_ take the seals and the glass, which are light, and leave the silver for a second trip.
 - _Cleverness with the place:_ clear the blocks from the service door from the court side, where the watchman cannot follow, and use the strongroom as the party's base until the storm ends.
-- _Parley:_ settle with Uruvolun and Kesükenöd before leaving the strongroom, in front of the others.
+- _Parley:_ settle with Uruvolun and Kesukenod before leaving the strongroom, in front of the others.
 - _Giving something up:_ leave a whole seal on the watchman's palm if it still stands, and walk out past it.
 
 **Clues and rewards.** Silver ingots of the league, worth a fortune at [[place-qisomrktcmp|Qiiso]] and more at the coast. Engraved seals, each worth a collector's price, and more to a buyer who knows that one can seal a load out of any league house. Tower-lamp glass, the clearest anyone in the market has seen, valuable beyond its weight to a collector. A seal and wax kept by the party let it carry goods out of any league house whose watchman still stands.
 
 > [!TIP]
-> Let the party work out the bills for itself. The panel of the merchant and the seal, Kesükenöd's two sentences and the crock of wax on the shelf are enough. A party that seals every load and walks the length of the weighing hall with it, past a watchman that lowers its hands, has the best ending the house offers.
+> Let the party work out the bills for itself. The panel of the merchant and the seal, Kesukenod's two sentences and the crock of wax on the shelf are enough. A party that seals every load and walks the length of the weighing hall with it, past a watchman that lowers its hands, has the best ending the house offers.
 
 **Consequences.** The storm blows out by dawn. The street is half buried again, and the next sand-front closes it within a few years. Uruvolun sells the news of the watchman to both buyers, and the price of a whole seal at Qiiso doubles within a season.
 
@@ -296,14 +296,14 @@ The man in the pan is Kesükenöd's partner. His chest carries the same palm mar
 - **If it is buried or hauled up.** It is still bound and still the house's, and it works its way free within a season.
 - **If the party learned the bills.** It knows something no collector at Qiiso knows, and a sealed load out of any league house is worth more than a whole seal is.
 - **If the party has only a seal.** Word goes round the market that a seal is a pass, and somebody tests it on a watchman at another counting-house in another street with a sack on his back.
-- **If Kesükenöd lives.** He owes the party a life, and he knows where the rival factor keeps his silver, which he sells to the party at a fair price.
+- **If Kesukenod lives.** He owes the party a life, and he knows where the rival factor keeps his silver, which he sells to the party at a fair price.
 - **If the party left the rival crew to the watchman.** The rival factor learns of it from Uruvolun, who sells that too.
-- **If the Tāntsou collector hears why his men came home whole.** He knows his caskets were sealed and never thought it mattered, and he wants the party for his next street.
+- **If the Tantsou collector hears why his men came home whole.** He knows his caskets were sealed and never thought it mattered, and he wants the party for his next street.
 
 ## See Also
 
 - [[place-bolidqiso|Bolidqiiso]]—the counting-house tower
-- [[place-wilud|Vülüd]]—the half-buried city
+- [[place-wilud|Vulud]]—the half-buried city
 - [[lore-towercities|The Tower Cities]]—the league that built it
 - [[lore-golemcrtr|Constructs]]—what the watchman is
 - [[lore-roadnights|The Nights of the Road]]—Uruvolun's tale of the street sold twice

@@ -23,4 +23,4 @@ data:
 
 **Background.** Possesses extensive knowledge of eastern customs.
 
-**Intrigue.** Ambitious, and sees the mission as a step to greater power. Manipulates outcomes to raise her own standing, forming or breaking alliances without the Ambassador's knowledge. Aware of [[being-kadylemcudavel|Kadylem]]'s interest in her, and willing to use it.
+**Intrigue.** Ambitious, and sees the mission as a step to greater power. Manipulates outcomes to raise her own standing, forming or breaking alliances without the Ambassador's knowledge. Aware of [[being-kadylemcudavel|Kadilem]]'s interest in her, and willing to use it.

@@ -1,6 +1,6 @@
 ---
 shortcode: kuxiixbal2
-name: {full: K'uxi Ix'bal, aliases: []}
+name: {full: K'ushi Ish'bal, aliases: []}
 type: place
 subType: settlement
 description: "Seat of the Second Jaguar Land, a garrison city on a thin-aired plateau that outfits expeditions into the southern wastes."
@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [kuxiixbalrgn], population: 30000, gove
 
 ## Overview
 
-The air is thin at **K'uxi Ix'bal**, and a lowlander arriving from the north spends his first days short of breath. The seat of the Second Jaguar Land is a city of about 30,000 on an immense high plateau, a land of cold winds and sparse grasslands with an open sky that seems close enough to touch, and shamans and priests come here to commune with celestial forces. It stands on a threshold, with the heights and civilization of the upper south behind it and the harsh, forsaken wastes ahead.
+The air is thin at **K'ushi Ish'bal**, and a lowlander arriving from the north spends his first days short of breath. The seat of the Second Jaguar Land is a city of about 30,000 on an immense high plateau, a land of cold winds and sparse grasslands with an open sky that seems close enough to touch, and shamans and priests come here to commune with celestial forces. It stands on a threshold, with the heights and civilization of the upper south behind it and the harsh, forsaken wastes ahead.
 
 ## A Garrison Economy
 
@@ -18,11 +18,11 @@ The cities of the plateau are garrison-like. The priesthood claims large portion
 
 ## The Edge of the Road
 
-Messages from [[affiliation-ixilankul|Ix'ilankul]] that reach K'ankul in two days take five or six to reach K'uxi Ix'bal's outpost cities, and beyond the realm the Speaking Road falls silent. Those who go south from here do so with offerings and prayers heavy on their lips. The sacred lake of [[place-ixkulchalix|Ixkul Ch'alix]], said to be the eye of the world, is the realm's spiritual heart: the priesthood controls its waters entirely, and only those properly blessed may venture onto it.
+Messages from [[affiliation-ixilankul|Ish'ilankul]] that reach K'ankul in two days take five or six to reach K'ushi Ish'bal's outpost cities, and beyond the realm the Speaking Road falls silent. Those who go south from here do so with offerings and prayers heavy on their lips. The sacred lake of [[place-ixkulchalix|Ishkul Ch'alish]], said to be the eye of the world, is the realm's spiritual heart: the priesthood controls its waters entirely, and only those properly blessed may venture onto it.
 
 ## See Also
 
-- [[affiliation-kuxiixbal|K'uxi Ix'bal]]—the realm of the high plateau
-- [[place-kuxiixbalrgn|K'uxi Ix'bal Region]]—the altiplano
-- [[place-ixkulchalix|Ixkul Ch'alix]]—the sacred lake
+- [[affiliation-kuxiixbal|K'ushi Ish'bal]]—the realm of the high plateau
+- [[place-kuxiixbalrgn|K'ushi Ish'bal Region]]—the altiplano
+- [[place-ixkulchalix|Ishkul Ch'alish]]—the sacred lake
 - [[place-qptlulneok|Q'aptel'ul Ne'ok]]—the frontier garrison city

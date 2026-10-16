@@ -3,7 +3,7 @@ shortcode: thecrossing
 name: {full: The Crossing, aliases: [The Convoy of Six]}
 type: lore
 subType: history
-description: "In 1919 BF six ships sail from Élavendre carrying the Second Voice to Aelwyth, to be held there in trust by the Sinalë and the Khazári together, and go off the water leaving nothing whatever behind."
+description: "In 1919 BF six ships sail from Élavendre carrying the Second Voice to Aelwyth, to be held there in trust by the Sinale and the Khazari together, and go off the water leaving nothing whatever behind."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [miscgear-secondvoice, place-aelwyth, place-ironfells]
       summary: >-
-        Five centuries after Khazártúrn, the Sinalë have recovered the Second Voice and the two Elder Races have agreed the only thing they agree on: that it is to be held on Aelwyth by both peoples together, the one country where they still share ground. Six ships sail from Élavendre carrying it, with crews and an escort chosen for being above reproach. They do not arrive. There is no storm of any note, and no wreckage, spar, cargo or body comes ashore on any coast in any year since. The relic has not been found.
+        Five centuries after Khazartúrn, the Sinale have recovered the Second Voice and the two Elder Races have agreed the only thing they agree on: that it is to be held on Aelwyth by both peoples together, the one country where they still share ground. Six ships sail from Élavendre carrying it, with crews and an escort chosen for being above reproach. They do not arrive. There is no storm of any note, and no wreckage, spar, cargo or body comes ashore on any coast in any year since. The relic has not been found.
       standing: attested
       where:
         locus: [place-elavendre]
@@ -28,7 +28,7 @@ data:
             knowledge: named
           - place: place-hallowwood
             how: >-
-              the Sinalë here lose a second time the one thing they took back, and had chosen the crews themselves
+              the Sinale here lose a second time the one thing they took back, and had chosen the crews themselves
             knowledge: named
           - place: place-grkrhlmrgn
             how: >-
@@ -38,7 +38,7 @@ data:
       follows:
         - event: lore-fallkhazturn
           how: answered
-          note: the trust on Aelwyth is the two peoples' one answer to what the relic did to Khazártúrn
+          note: the trust on Aelwyth is the two peoples' one answer to what the relic did to Khazartúrn
       accounts:
         - by: lore-flksinale
           says: >-
@@ -47,7 +47,7 @@ data:
           withholds: what the escort was, and what the search since has turned up
         - by: lore-flkkhazar
           says: >-
-            The Sinalë had it, the Sinalë sailed it, and the Sinalë have handed over nothing on this occasion either.
+            The Sinale had it, the Sinale sailed it, and the Sinale have handed over nothing on this occasion either.
           agrees: partly
         - by: place-elavendre
           says: >-
@@ -59,10 +59,10 @@ data:
         - whether anything was recovered from the sea floor afterward, by anybody
 ---
 
-The [[lore-flksinale|Sinalë]] recovered the [[miscgear-secondvoice|Second Voice]], and in time the two
+The [[lore-flksinale|Sinale]] recovered the [[miscgear-secondvoice|Second Voice]], and in time the two
 Elder Races reached the only agreement they have reached since
-[[lore-fallkhazturn|Khazártúrn fell]]: the relic would be held in trust on [[place-aelwyth|Aelwyth]],
-by both peoples together. Aelwyth was the one country in the world where Sinalë and Khazári still
+[[lore-fallkhazturn|Khazartúrn fell]]: the relic would be held in trust on [[place-aelwyth|Aelwyth]],
+by both peoples together. Aelwyth was the one country in the world where Sinale and Khazari still
 lived on the same ground, and therefore the only ground on which neither would be trusted to hold it
 alone.
 
@@ -76,7 +76,7 @@ before.
 The crews and the escort were above reproach, chosen for exactly that by people who understood
 precisely what they were entrusting and to whom. That is the detail that has troubled everyone who
 has ever been told it: it forecloses the comfortable explanation without offering another. Both
-peoples have been looking ever since, and the [[lore-flkkhazar|Khazári]] doctrine that follows from
+peoples have been looking ever since, and the [[lore-flkkhazar|Khazari]] doctrine that follows from
 the search failing—that [[lore-grukarfolk|Grukar]] are ammunition, and are to be killed wherever
 they are found—is the one consequence of this crossing that anybody outside the Elder Races ever
 meets.

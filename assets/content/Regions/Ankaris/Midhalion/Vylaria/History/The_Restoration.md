@@ -1,9 +1,9 @@
 ---
 shortcode: restorehouse
-name: {full: The Restoration, aliases: [The Accession of Makândas, House Hêlarkâlês]}
+name: {full: The Restoration, aliases: [The Accession of Makandas, House Helarkales]}
 type: lore
 subType: history
-description: "About 406 AF Makândas takes Ôrzâra from the north, the Senate acclaims him, the Sorvan hands over its claimant and Sylârion dies in the Offices; he founds House Hêlarkâlês, forgives the legions that fought him and pays them, and rules twelve years."
+description: "About 406 AF Makandas takes Orzara from the north, the Senate acclaims him, the Sorvan hands over its claimant and Sylarion dies in the Offices; he founds House Helarkales, forgives the legions that fought him and pays them, and rules twelve years."
 tags: [history, vylaria, restoration]
 data:
   culture: vylarianclt
@@ -20,13 +20,13 @@ data:
         - affiliation-sorvan
         - place-orzara
       summary: >-
-        Makândas takes the city from the north. The Senate acclaims him, the Sorvan hands over its claimant, and Sylârion dies in the Offices. Makândas founds House Hêlarkâlês, forgives the legions that fought him and pays them, and rules twelve years.
+        Makandas takes the city from the north. The Senate acclaims him, the Sorvan hands over its claimant, and Sylarion dies in the Offices. Makandas founds House Helarkales, forgives the legions that fought him and pays them, and rules twelve years.
       standing: attested
       names:
         - {name: the Restoration, by: affiliation-vylarinmpr}
-        - name: the phêlzândôs's year
+        - name: the felzos's year
           by: place-moktur
-          gloss: Moktur's name for the year its phêlzândôs took the city
+          gloss: Moktur's name for the year its felzos took the city
       where:
         locus: [place-orzara]
         reach:
@@ -40,7 +40,7 @@ data:
             knowledge: named
           - place: place-moktur
             how: >-
-              the northern legions are rewarded and the province keeps the memory that its phêlzândôs made the house
+              the northern legions are rewarded and the province keeps the memory that its felzos made the house
             knowledge: named
       who:
         - {ref: affiliation-vylrnmltry, role: instrument}
@@ -53,42 +53,42 @@ data:
       accounts:
         - by: affiliation-seldan
           says: >-
-            The Senate acclaimed the phêlzândôs who restored order, and the Empire was one again.
+            The Senate acclaimed the felzos who restored order, and the Empire was one again.
           agrees: partly
           withholds: that the Senate acclaimed the army at its gates
         - by: affiliation-sorvan
           says: >-
-            The guard opened the Guard Camp to the Ôrzâs who could pay it.
+            The guard opened the Guard Camp to the Orzas who could pay it.
           agrees: partly
           withholds: that the guard handed over its own candidate first
-      unresolved: [how Sylârion died in the Offices]
+      unresolved: [how Sylarion died in the Offices]
 ---
 
-A restoration guild's master mason, asked who built the Circle of Triumph's colonnade, answers without looking up from the stone. "Nobody remembers who raised it. Every column carries the same line: Makândas restored it. He did not touch a stone of it, but his house paid for every one."
+A restoration guild's master mason, asked who built the Circle of Triumph's colonnade, answers without looking up from the stone. "Nobody remembers who raised it. Every column carries the same line: Makandas restored it. He did not touch a stone of it, but his house paid for every one."
 
 ## The City Taken
 
-By 405 [[place-orzara|Ôrzâra]] was a burned city under a hungry Senate, and the Senate's Ôrzâs, Sylârion, had an empty treasury and no legions. Makândas marched south from the north with the army that had won at Olkassâ ([[lore-olcassabtl|The Battle of Olkassâ]]). About 406 he took the city.
+By 405 [[place-orzara|Orzara]] was a burned city under a hungry Senate, and the Senate's Orzas, Sylarion, had an empty treasury and no legions. Makandas marched south from the north with the army that had won at Olkassa ([[lore-olcassabtl|The Battle of Olkassa]]). About 406 he took the city.
 
-The Senate acclaimed him within the week. The [[affiliation-sorvan|Sorvan]] handed over its claimant, Kàdelôs, and Sylârion died in the Offices, in a room whose door was not opened for two days. The three eagles were reduced to one.
+The Senate acclaimed him within the week. The [[affiliation-sorvan|Sorvan]] handed over its claimant, Kadelos, and Sylarion died in the Offices, in a room whose door was not opened for two days. The three eagles were reduced to one.
 
 ## The Forgiveness
 
-Makândas did the unusual thing and forgave the legions that had fought him. He paid them, the Senate's regiments as well as his own, from the treasury he had just taken, and the donative was the largest the Empire had given. He founded **House Hêlarkâlês** and ruled twelve years.
+Makandas did the unusual thing and forgave the legions that had fought him. He paid them, the Senate's regiments as well as his own, from the treasury he had just taken, and the donative was the largest the Empire had given. He founded **House Helarkales** and ruled twelve years.
 
 ## What He Built
 
-The first Ôrzâs of the Restoration repaired the city's walls, the granaries and the aqueducts. The great rebuilding of the Empire's institutions came under his successor ([[lore-arzanasedict|The Edicts of Arzánas]]), and it came on the foundation Makândas laid by paying for peace.
+The first Orzas of the Restoration repaired the city's walls, the granaries and the aqueducts. The great rebuilding of the Empire's institutions came under his successor ([[lore-arzanasedict|The Edicts of Arzanas]]), and it came on the foundation Makandas laid by paying for peace.
 
 ## What It Left
 
-- **The house's name on the monuments.** House Hêlarkâlês is cut into the rebuilt Circles, the colonnades and the aqueducts, and the line "restored by Makândas" runs along every one.
+- **The house's name on the monuments.** House Helarkales is cut into the rebuilt Circles, the colonnades and the aqueducts, and the line "restored by Makandas" runs along every one.
 - **The donative.** An accession carries a payment to the legions and the guard, and the custom began here.
 - **The Moktur legions' standing.** The northern army that made a house, and a province that remembers it.
 
 ## See Also
 
 - [[lore-brkensuccsn|The Broken Succession]]—the years the Restoration ended
-- [[lore-greatburnng|The Great Burning]]—the city Makândas took
-- [[lore-arzanasedict|The Edicts of Arzánas]]—the second Ôrzâs's rebuilding
+- [[lore-greatburnng|The Great Burning]]—the city Makandas took
+- [[lore-arzanasedict|The Edicts of Arzanas]]—the second Orzas's rebuilding
 - [[affiliation-vylarinmpr|Vylarian Empire]]

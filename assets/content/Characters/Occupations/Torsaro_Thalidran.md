@@ -1,6 +1,6 @@
 ---
 shortcode: trsrthldrn
-name: {full: Tórsaro Thalídran, aliases: []}
+name: {full: Tórsaro Thalidran, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -390,11 +390,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Tórsaro Thalídran is a 29-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a prominent chin. His almond-shaped black eyes sit beneath prominent brows, lending him a measured gaze. A strong nose and thin lips complete his features. He has medium-toned skin with a smooth complexion. His black hair is kept practical and short.
+Tórsaro Thalidran is a 29-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a prominent chin. His almond-shaped black eyes sit beneath prominent brows, lending him a measured gaze. A strong nose and thin lips complete his features. He has medium-toned skin with a smooth complexion. His black hair is kept practical and short.
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvénan heritage, Tórsaro Thalídran came into the world of the yeoman infantry through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Tórsaro Thalidran came into the world of the yeoman infantry through a combination of circumstance and aptitude.
 
 Tórsaro grew up on a farm, but his strength and eagerness to serve led him to the life of a yeoman infantryman. He is known for his agility and ability to adapt quickly in battle. While he lacks the years of experience of some of his comrades, his enthusiasm and quick learning have earned him respect among his peers.
 
@@ -416,7 +416,7 @@ Agile, quick learner, strong in close combat.
 
 Tórsaro is affiliated with Local Militia.
 
-As a Tarvénan yeoman infantry, Tórsaro occupies a recognized social niche within Tarvénia society.
+As a Tarvenan yeoman infantry, Tórsaro occupies a recognized social niche within Tarvénia society.
 
 ## Companions
 

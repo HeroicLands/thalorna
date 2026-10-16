@@ -1,9 +1,9 @@
 ---
 shortcode: bruzanazghig
-name: {full: Bruzánaz Ghigídek, aliases: [Lady Merchant Bruzánaz Ghigídek]}
+name: {full: Bruzanaz Ghigidek, aliases: [Lady Merchant Bruzanaz Ghigidek]}
 type: being
 subType: npc
-description: A younger merchant whose family was personally helped by Órashkâr Naulákit in her youth.
+description: A younger merchant whose family was personally helped by Órashkar Naulakit in her youth.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Bruzánaz Ghigídek is a 34-year-old woman who stands 5'9" tall with a heavy build. She has golden skin, sun-kissed complexion, brown hair, and brown eyes.
+Bruzanaz Ghigidek is a 34-year-old woman who stands 5'9" tall with a heavy build. She has golden skin, sun-kissed complexion, brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Bruzánaz Ghigídek is a younger merchant whose family was personally helped by [[being-orshkrnlkt|Órashkâr Naulákit]] in her youth. She has grown into one of the League's major traders and remains fiercely loyal to the old teamster.
+Bruzanaz Ghigidek is a younger merchant whose family was personally helped by [[being-orshkrnlkt|Órashkar Naulakit]] in her youth. She has grown into one of the League's major traders and remains fiercely loyal to the old teamster.

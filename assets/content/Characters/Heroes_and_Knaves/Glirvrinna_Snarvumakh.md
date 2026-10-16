@@ -1,6 +1,6 @@
 ---
 shortcode: glrvrnstrmrt
-name: {full: Glirvrinna Snarvumakh, given: Glirvrinna, clan: Snarvumakh, aliases: []}
+name: {full: Glirvrinna Snarvumak, given: Glirvrinna, clan: Snarvumak, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -417,13 +417,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[glrvrnstrmrt|Glirvrinna Snarvumakh]]{float=top-left}
+![[glrvrnstrmrt|Glirvrinna Snarvumak]]{float=top-left}
 
 Glirvrinna stands 5'7" tall with a light build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a narrow nose, a rounded chin, rosy lips, and light brows.
 
 # Dossier {#dossier}
 
-**Glirvrinna** was born in the [[affiliation-kingdomlgn|Kingdom of Malagna]] to **Mirvir Snarvumakh**, a skilled tentmaker of considerable reputation, and **Ilthýra**, a woman known for her excellence in textile dying and pattern design. From infancy, she was surrounded by fabrics, dyes, and the rhythmic sounds of looms and needles. Where her father Mirvir was practical—designing tents to withstand mountain gales and desert heat—her mother Ilthýra was artistic, creating patterns that made functional items beautiful.
+**Glirvrinna** was born in the [[affiliation-kingdomlgn|Kingdom of Malagna]] to **Mirvir Snarvumak**, a skilled tentmaker of considerable reputation, and **Ilthira**, a woman known for her excellence in textile dying and pattern design. From infancy, she was surrounded by fabrics, dyes, and the rhythmic sounds of looms and needles. Where her father Mirvir was practical—designing tents to withstand mountain gales and desert heat—her mother Ilthira was artistic, creating patterns that made functional items beautiful.
 
 Glirvrinna inherited gifts from both parents, but early on demonstrated her mother's inclination toward artistry over pure function. She trained first under her father, learning structure and practical construction, but spent her true passion studying under her mother, discovering the secrets of dyes and the possibilities of decorative design. At twenty-four, Mirvir retired due to arthritis in his hands and left the shop to Glirvrinna on the condition that she maintain both their family's traditions—functional excellence and artistic beauty.
 
@@ -441,7 +441,7 @@ Despite her artistic temperament, Glirvrinna is surprisingly pragmatic about the
 
 ### Motivation
 
-Glirvrinna is driven by a desire to create beauty that endures, to produce work that moves the heart and demonstrates that functional craft and artistic expression can be joined rather than opposed. She also harbors a quiet wound from always being compared to her father—recognized as talented but somehow derivative of his example rather than an original in her own way. She works, in part, to establish that Glirvrinna Snarvumakh is an artist in her own standing and not only Mirvir's daughter.
+Glirvrinna is driven by a desire to create beauty that endures, to produce work that moves the heart and demonstrates that functional craft and artistic expression can be joined rather than opposed. She also harbors a quiet wound from always being compared to her father—recognized as talented but somehow derivative of his example rather than an original in her own way. She works, in part, to establish that Glirvrinna Snarvumak is an artist in her own standing and not only Mirvir's daughter.
 
 ### Strengths
 
@@ -463,16 +463,16 @@ Glirvrinna is driven by a desire to create beauty that endures, to produce work 
 
 ### Patrons
 
-Lord Vraldmýl Braldarukh
+Lord Vraldmil Braldaruk
 : A wealthy noble with appreciation for fine art and textiles. He has commissioned multiple tapestries and furnishings from Glirvrinna and frequently recommends her work to his peers, providing steady access to high-value commissions.
 
 The Traveling Muse Theater Company
 : A prestigious performance group that requires stunning costumes and set dressings. They commission Glirvrinna multiple times yearly and have become her most visible patrons, as her work appears before large audiences.
 
-Lin'Zuwaret elu Aû'Khelâthu's Flagship Crews
+Lin'Zuwaret elu Au'Khelathu's Flagship Crews
 : Successful merchant captains who value appearing prosperous commission elaborate tent pavilions and shipboard furnishings from her workshop. These provide both income and maritime visibility for her work.
 
-Princess Hvarnthýra of Malagna
+Princess Hvarnthira of Malagna
 : The royal family has begun commissioning items from Glirvrinna, including ceremonial banners and royal furnishings. Though royal patronage is recent, it promises to elevate her status considerably.
 
 ### Enemies
@@ -483,7 +483,7 @@ Master Craftsman Knarvorv the Practical
 Draskselda the Copyist
 : A jealous rival artisan who specializes in producing close imitations of Glirvrinna's original designs at lower cost. Draskselda's plagiarism has cost Glirvrinna several clients, though legal action has proven difficult given the custom nature of textile work.
 
-Her Father, Mirvir Snarvumakh
+Her Father, Mirvir Snarvumak
 : Retired and no longer a direct business threat, Mirvir occasionally makes critical comments about Glirvrinna's prioritization of artistry over durability, implying she is abandoning family traditions.
 
 ### Affiliations
@@ -493,7 +493,7 @@ The Artisans' Collective of Malagna
 
 ## Plot Hooks
 
-1. **The Royal Commission That Changes Everything**: Princess Hvarnthýra of Malagna personally visits Glirvrinna's workshop with an unprecedented request: create the wedding trousseau and ceremonial garments for her betrothal to a foreign prince—a union intended to forge peace between warring kingdoms. The commission is worth a fortune and will elevate Glirvrinna's status immeasurably. However, the wedding is in six months, requiring Glirvrinna to design and execute the most complex and beautiful work of her entire life while also managing a workshop stretched beyond capacity. As she works, she discovers that the betrothal itself is politically contentious; elements of the court actively work to sabotage the marriage. Glirvrinna finds her art caught in political crossfire, with her finished pieces being used as symbols in a court struggle over succession and power. She can continue the commission knowing her beautiful work will become propaganda, or abandon it and lose everything.
+1. **The Royal Commission That Changes Everything**: Princess Hvarnthira of Malagna personally visits Glirvrinna's workshop with an unprecedented request: create the wedding trousseau and ceremonial garments for her betrothal to a foreign prince—a union intended to forge peace between warring kingdoms. The commission is worth a fortune and will elevate Glirvrinna's status immeasurably. However, the wedding is in six months, requiring Glirvrinna to design and execute the most complex and beautiful work of her entire life while also managing a workshop stretched beyond capacity. As she works, she discovers that the betrothal itself is politically contentious; elements of the court actively work to sabotage the marriage. Glirvrinna finds her art caught in political crossfire, with her finished pieces being used as symbols in a court struggle over succession and power. She can continue the commission knowing her beautiful work will become propaganda, or abandon it and lose everything.
 
 2. **The Dye Master's Curse**: Glirvrinna acquires an extraordinary batch of ancient dye formulae from a deceased artisan's estate—colors so vivid and beautiful that they seem almost supernatural. She begins using them in her finest work, creating pieces of breathtaking magnificence. However, clients report strange occurrences: garments dyed with these colors seem to attract attention compulsively (wearers are drawn to wearing them constantly), or colors seem to shift in emotionally resonant ways (crimson fading to pale pink in moments of sadness, brightening in joy). Glirvrinna realizes the dyes are more than pigment: they are somehow infused with the aesthetic will of their creator—a mage who encoded her personality and intentions into the formulations before her death. The dyes are magnificent but potentially dangerous. Her choices are to continue using them (abandoning her commitment to pure art), to destroy them (wasting irreplaceable materials), or to attempt to understand the dead mage's intentions and perhaps communicate with her through the dyes themselves.
 

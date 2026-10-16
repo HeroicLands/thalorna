@@ -1,6 +1,6 @@
 ---
 shortcode: khilodlunbii
-name: {full: Khilodlun Biiloqur, aliases: [Chief Khilodlun]}
+name: {full: Khilodlun Biilokur, aliases: [Chief Khilodlun]}
 type: being
 subType: npc
 description: The tribe's leader, who respects the spiritual authority of Razanash Mervaran and often consults her on matters of tribal importance.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Khilodlun Biiloqur is a 54-year-old woman who stands 5'7" tall with a medium build. She has tanned skin, weathered complexion, dark brown hair, and brown eyes.
+Khilodlun Biilokur is a 54-year-old woman who stands 5'7" tall with a medium build. She has tanned skin, weathered complexion, dark brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Khilodlun Biiloqur is the chief and leader of the tribe of [[being-rznshmrvrn|Razanash Mervaran]]. She respects Razanash's spiritual authority, often consults her on matters of tribal importance, and has granted her considerable autonomy in conducting her shamanic duties.
+Khilodlun Biilokur is the chief and leader of the tribe of [[being-rznshmrvrn|Razanash Mervaran]]. She respects Razanash's spiritual authority, often consults her on matters of tribal importance, and has granted her considerable autonomy in conducting her shamanic duties.

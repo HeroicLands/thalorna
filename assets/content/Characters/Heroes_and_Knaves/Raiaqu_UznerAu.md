@@ -1,6 +1,6 @@
 ---
 shortcode: raiaquuznera
-name: {full: Raiaqu Uzner'Âu, given: Raiaqu, clan: Uzner'Âu, aliases: []}
+name: {full: Raiaku Uzner'Au, given: Raiaku, clan: Uzner'Au, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {rank: 3}, uznera: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, uznera: {rank: 1}}
   socialTies: {being-lekhebur2: rival, being-thema2: patron}
   gender: male
   species: humanflk
@@ -413,43 +413,43 @@ sohl:
 
 # Appearance {#appearance}
 
-![[raiaquuznera|Raiaqu Uzner'Âu]]{float=top-left}
+![[raiaquuznera|Raiaku Uzner'Au]]{float=top-left}
 
-Raiaqu stands 6'0" tall with a heavy build. He has ebony skin, greying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
+Raiaku stands 6'0" tall with a heavy build. He has ebony skin, greying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
 
 # Dossier {#dossier}
 
 **Early Mastery**
 
-Raiaqu was born into the Zekmetâ family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[affiliation-empireakhlth|Aû'Khelâthu]] for three generations. His father, [[being-zekenarezkmt|Zekenare Zekmetâ]], was himself a craftsman of note, and from age seven, young Raiaqu spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
+Raiaku was born into the Zekmeta family, a lineage whose name had been whispered among the smiths and bladewrights of the Empire of [[affiliation-empireakhlth|Au'Khelathu]] for three generations. His father, [[being-zekenarezkmt|Zekenare Zekmeta]], was himself a craftsman of note, and from age seven, young Raiaku spent every waking hour in the workshop, learning the sacred geometry of tempering and the ancient songs the smiths sang to guide their hammer strikes. By his twentieth year, he had surpassed his father in technique, earning the notice of the city's noble houses and the military's elite orders.
 
 **The Guild and Renown**
 
-Four decades of painstaking work transformed Raiaqu from a talented artisan into the preeminent weaponcrafter of Aû'Khelâthu. He joined the City Blacksmiths' Guild and became its conscience—enforcing standards that others found restrictive, insisting that every blade bear the mark of perfection or bear no mark at all. His refusal to compromise for profit or pressure has earned him the loyalty of those who commission his work and the enmity of competitors whose inferior craft he openly disdains. As a man of faith, he dedicates every seventh day's work to Uzn'êra, goddess of fertility and renewal, believing that the strength in his blades comes ultimately from divine blessing.
+Four decades of painstaking work transformed Raiaku from a talented artisan into the preeminent weaponcrafter of Au'Khelathu. He joined the City Blacksmiths' Guild and became its conscience—enforcing standards that others found restrictive, insisting that every blade bear the mark of perfection or bear no mark at all. His refusal to compromise for profit or pressure has earned him the loyalty of those who commission his work and the enmity of competitors whose inferior craft he openly disdains. As a man of faith, he dedicates every seventh day's work to Uzn'era, goddess of fertility and renewal, believing that the strength in his blades comes ultimately from divine blessing.
 
 **The Present Master**
 
-Now at fifty-five, Raiaqu operates from his spacious forge near the Temple Quarter, where nobles and generals still journey to commission arms of the finest quality. Though he moves with slightly less speed than in his youth, his accumulated knowledge and exactness of hand have only deepened. He trains a handful of apprentices—a privilege he grants rarely and only to those of rare character and aptitude. He lives modestly, pouring his considerable wealth back into his craft: acquiring rare metals, paying for trials of new tempering techniques, and collecting the finest whetstones and tools available across the known world.
+Now at fifty-five, Raiaku operates from his spacious forge near the Temple Quarter, where nobles and generals still journey to commission arms of the finest quality. Though he moves with slightly less speed than in his youth, his accumulated knowledge and exactness of hand have only deepened. He trains a handful of apprentices—a privilege he grants rarely and only to those of rare character and aptitude. He lives modestly, pouring his considerable wealth back into his craft: acquiring rare metals, paying for trials of new tempering techniques, and collecting the finest whetstones and tools available across the known world.
 
 ## Psyche
 
 ### Personality
 
-Raiaqu is a man of unflinching principle who speaks plainly and without flattery, qualities that make him both revered and occasionally avoided. He views his work as a solemn responsibility rather than commerce—the sword he forges may decide the fate of kingdoms, and he carries that weight without complaint. Though his standards alienate lesser craftspeople, those who meet his exacting requirements discover a man of surprising warmth, capable of appreciating honest effort and offering mentorship to those worthy of it. He possesses a dry humor that catches people off guard, often delivered in the midst of discussing the theory of metals or pointing out some flaw in a competitor's work.
+Raiaku is a man of unflinching principle who speaks plainly and without flattery, qualities that make him both revered and occasionally avoided. He views his work as a solemn responsibility rather than commerce—the sword he forges may decide the fate of kingdoms, and he carries that weight without complaint. Though his standards alienate lesser craftspeople, those who meet his exacting requirements discover a man of surprising warmth, capable of appreciating honest effort and offering mentorship to those worthy of it. He possesses a dry humor that catches people off guard, often delivered in the midst of discussing the theory of metals or pointing out some flaw in a competitor's work.
 
 His gruff manner covers a deep melancholy: he has spent fifty-five years in service to perfection, knowing it will always elude him. He finds solace in the unchanging laws of metalcraft and the predictable heat of his forge. He is neither gregarious nor misanthropic, but moves through the world with the bearing of someone whose craft has elevated him beyond petty social concerns.
 
 ### Motivation
 
-Raiaqu Zekmetâ drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Uzn'êra's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to see that inferior smiths do not tarnish the reputation of true weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
+Raiaku Zekmeta drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Uzn'era's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to see that inferior smiths do not tarnish the reputation of true weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
 
 ### Strengths
 
-- **Master Metalworking:** Raiaqu's technical mastery has no equal across the empire; his hands can coax metal into forms others deemed impossible. His skill with both common and rare alloys is complete.
+- **Master Metalworking:** Raiaku's technical mastery has no equal across the empire; his hands can coax metal into forms others deemed impossible. His skill with both common and rare alloys is complete.
 - **Uncompromising Standards:** He refuses to compromise on quality, which has made his name synonymous with excellence in weaponcraft. He will reject commissions that cannot meet his rigorous specifications.
-- **Deep Knowledge:** Beyond metalcraft, Raiaqu possesses deep knowledge of geology, mineral composition, weapon design principles, and the historical techniques of ancient masters—knowledge accumulated across five decades of intensive study.
-- **Ritual Expertise:** His devotion to Uzn'êra has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
-- **Leadership and Command:** Despite his age, Raiaqu commands immediate respect and loyalty from those in his sphere, acting as a moral anchor and arbiter in disputes among craftspeople.
+- **Deep Knowledge:** Beyond metalcraft, Raiaku possesses deep knowledge of geology, mineral composition, weapon design principles, and the historical techniques of ancient masters—knowledge accumulated across five decades of intensive study.
+- **Ritual Expertise:** His devotion to Uzn'era has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
+- **Leadership and Command:** Despite his age, Raiaku commands immediate respect and loyalty from those in his sphere, acting as a moral anchor and arbiter in disputes among craftspeople.
 
 ### Weaknesses
 
@@ -464,41 +464,41 @@ Raiaqu Zekmetâ drives himself forward by a singular obsession: to create the pe
 ### Patrons
 
 Lord Commander Gari
-: The military's chief weapons officer who commissions custom arms for elite guard units and prestigious officer candidates. He trusts Raiaqu implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
+: The military's chief weapons officer who commissions custom arms for elite guard units and prestigious officer candidates. He trusts Raiaku implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
 
 The Gar-Gul'Thakétu
-: A noble family known for their warrior traditions; Raiaqu has forged the ancestral blades of this house for thirty years, creating works that are as much heirloom as weapon.
+: A noble family known for their warrior traditions; Raiaku has forged the ancestral blades of this house for thirty years, creating works that are as much heirloom as weapon.
 
 Master Architect Mathaku
-: A celebrated builder and engineer who has learned to commission weapons of precise specifications that align with his exacting vision; he respects Raiaqu as a peer in the pursuit of structural perfection.
+: A celebrated builder and engineer who has learned to commission weapons of precise specifications that align with his exacting vision; he respects Raiaku as a peer in the pursuit of structural perfection.
 
 Captain [[being-thema2|Thema]]
-: A decorated military officer of common birth who has fought her way to prominence; Raiaqu has equipped her with three successive blades, and she has become one of his most vocal advocates.
+: A decorated military officer of common birth who has fought her way to prominence; Raiaku has equipped her with three successive blades, and she has become one of his most vocal advocates.
 
 ### Enemies
 
 Theqas the Swift
-: A rival blacksmith of middling talent who has built a lucrative business by undercutting Raiaqu's prices and using mass production techniques. Raiaqu openly denounces his work as dangerous and inferior, damaging Theqas's reputation among informed patrons.
+: A rival blacksmith of middling talent who has built a lucrative business by undercutting Raiaku's prices and using mass production techniques. Raiaku openly denounces his work as dangerous and inferior, damaging Theqas's reputation among informed patrons.
 
 The Foundry Collective
-: A guild of lesser smiths operating on the city's southern dock, jealous of Raiaqu's prestige and monopoly on high-profile commissions. They have attempted to spread rumors that his age is affecting his work quality.
+: A guild of lesser smiths operating on the city's southern dock, jealous of Raiaku's prestige and monopoly on high-profile commissions. They have attempted to spread rumors that his age is affecting his work quality.
 
 Lord [[being-lekhebur2|Lekhebur]]
-: A corrupt noble who once commissioned a sword from Raiaqu, then refused payment, claiming the blade was overpriced. Raiaqu's public refusal to forge for him further soured the relationship.
+: A corrupt noble who once commissioned a sword from Raiaku, then refused payment, claiming the blade was overpriced. Raiaku's public refusal to forge for him further soured the relationship.
 
 ### Affiliations
 
 City Blacksmiths' Guild
-: Raiaqu is an informal ethical leader and arbiter within the guild, setting standards that maintain the profession's reputation and integrity.
+: Raiaku is an informal ethical leader and arbiter within the guild, setting standards that maintain the profession's reputation and integrity.
 
 ## Plot Hooks
 
-1. **The Perfect Metal**: A merchant arrives in the city claiming to possess an ingot of meteoric iron, a material that fell from the heavens itself. Raiaqu Zekmetâ has heard legends of such metal—impossibly strong, impossibly rare—but is skeptical of the merchant's claims. The party is contracted to authenticate the material or track down its true origin, only to discover that the meteor fragment may not have come from the heavens at all, but from a fell sorcery involving a dead god's burial site. Raiaqu becomes obsessed with obtaining the metal, potentially drawing the party into dangerous mystical territory they hadn't anticipated.
+1. **The Perfect Metal**: A merchant arrives in the city claiming to possess an ingot of meteoric iron, a material that fell from the heavens itself. Raiaku Zekmeta has heard legends of such metal—impossibly strong, impossibly rare—but is skeptical of the merchant's claims. The party is contracted to authenticate the material or track down its true origin, only to discover that the meteor fragment may not have come from the heavens at all, but from a fell sorcery involving a dead god's burial site. Raiaku becomes obsessed with obtaining the metal, potentially drawing the party into dangerous mystical territory they hadn't anticipated.
 
-2. **The Broken Blade of Prophecy**: A warrior arrives at Raiaqu's forge with a shattered sword of extraordinary make, claiming it was broken in heroic circumstance and must be reforged to fulfill an ancient prophecy. Yet Raiaqu, examining the fractures, realizes that the blade's original forging contains techniques he has never encountered—suggesting it was created by a master smith from a previous age or even a foreign land. He insists on investigating the blade's origins before attempting reforging, engaging the party to locate historical records, interview the warrior's ancestors' companions, or even commune with the spirit of the blade's original creator through magical means.
+2. **The Broken Blade of Prophecy**: A warrior arrives at Raiaku's forge with a shattered sword of extraordinary make, claiming it was broken in heroic circumstance and must be reforged to fulfill an ancient prophecy. Yet Raiaku, examining the fractures, realizes that the blade's original forging contains techniques he has never encountered—suggesting it was created by a master smith from a previous age or even a foreign land. He insists on investigating the blade's origins before attempting reforging, engaging the party to locate historical records, interview the warrior's ancestors' companions, or even commune with the spirit of the blade's original creator through magical means.
 
-3. **The Apprentice's Secret**: One of Raiaqu's trusted apprentices confesses to the party (privately) that the master has grown obsessed with creating a weapon of legend—one so perfect that it approaches divinity. The apprentice fears Raiaqu is sacrificing his ethics and dealing with unsavory contacts, including dark alchemists and blood-cultists, to obtain materials for this final masterwork. The party can confront Raiaqu, investigate the suspicious contacts themselves, or attempt an intervention that respects the old smith's dignity and autonomy.
+3. **The Apprentice's Secret**: One of Raiaku's trusted apprentices confesses to the party (privately) that the master has grown obsessed with creating a weapon of legend—one so perfect that it approaches divinity. The apprentice fears Raiaku is sacrificing his ethics and dealing with unsavory contacts, including dark alchemists and blood-cultists, to obtain materials for this final masterwork. The party can confront Raiaku, investigate the suspicious contacts themselves, or attempt an intervention that respects the old smith's dignity and autonomy.
 
-4. **Thieves of Craft**: The party discovers that an enemy faction is systematically stealing designs, materials, and even half-completed works from Raiaqu's forge. Investigation reveals that a rival nation is attempting to reverse-engineer the secrets of Aû'Khelâthu's superior weaponcraft, and Raiaqu's work is their primary target. Raiaqu hires the party to identify the thieves, reclaim his works, and establish security. However, the deeper investigation reveals that one of his own apprentices may be involved—complicating the question of justice and mercy that Raiaqu himself struggles with.
+4. **Thieves of Craft**: The party discovers that an enemy faction is systematically stealing designs, materials, and even half-completed works from Raiaku's forge. Investigation reveals that a rival nation is attempting to reverse-engineer the secrets of Au'Khelathu's superior weaponcraft, and Raiaku's work is their primary target. Raiaku hires the party to identify the thieves, reclaim his works, and establish security. However, the deeper investigation reveals that one of his own apprentices may be involved—complicating the question of justice and mercy that Raiaku himself struggles with.
 
-5. **The Curse of the Blade**: A warrior wielding one of Raiaqu's famous swords returns dying, claiming the weapon has become cursed and turns against its wielder. Multiple other sword owners report strange occurrences. Raiaqu is initially incredulous—his blades are forged with blessing, not bane—but investigation suggests that someone has been performing dark rituals over his completed works, corrupting them after they've left his care. The party must track down the perpetrator while Raiaqu attempts to determine which of his creations have been tainted and whether they can be cleansed or must be destroyed.
+5. **The Curse of the Blade**: A warrior wielding one of Raiaku's famous swords returns dying, claiming the weapon has become cursed and turns against its wielder. Multiple other sword owners report strange occurrences. Raiaku is initially incredulous—his blades are forged with blessing, not bane—but investigation suggests that someone has been performing dark rituals over his completed works, corrupting them after they've left his care. The party must track down the perpetrator while Raiaku attempts to determine which of his creations have been tainted and whether they can be cleansed or must be destroyed.

@@ -1,6 +1,6 @@
 ---
 shortcode: hrindvirhval
-name: {full: Hrindvir Hvalgendikh, aliases: [Harbormaster Hrindvir Hvalgendikh]}
+name: {full: Hrindvir Hvalgendik, aliases: [Harbormaster Hrindvir Hvalgendik]}
 type: being
 subType: npc
 description: The harbormaster charged with the ordering of the port in Vithgard's capital, named in Hvarnthann Stormrót.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Hrindvir Hvalgendikh is a 47-year-old man who stands 5'8" tall with a medium build. He has fair skin, ruddy complexion, dark blonde hair, and hazel eyes.
+Hrindvir Hvalgendik is a 47-year-old man who stands 5'8" tall with a medium build. He has fair skin, ruddy complexion, dark blonde hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Hrindvir Hvalgendikh is the harbormaster charged with the ordering of the port in Vithgard's capital. He regards Hvarnthann as a troublemaker who flouts maritime law, and their conflicts are frequent and bitter. Hrindvir Hvalgendikh is named in [[being-hvrnthnstrmrt|Hvarnthann Stormrót]].
+Hrindvir Hvalgendik is the harbormaster charged with the ordering of the port in Vithgard's capital. He regards Hvarnthann as a troublemaker who flouts maritime law, and their conflicts are frequent and bitter. Hrindvir Hvalgendik is named in [[being-hvrnthnstrmrt|Hvarnthann Stormrót]].

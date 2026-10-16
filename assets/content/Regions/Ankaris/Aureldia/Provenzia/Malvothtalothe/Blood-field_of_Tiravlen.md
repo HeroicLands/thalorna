@@ -9,13 +9,13 @@ data: {demonym: null, lore: [], parents: [tiravellake], population: null, packFo
 ---
 
 On the shore of [[place-tiravellake|Lake Tiravel]], which gives it its name, lies the second of
-Provènzia's named [[lore-bloodfields|blood-fields]]—and the one most people have actually seen,
+Provenzia's named [[lore-bloodfields|blood-fields]]—and the one most people have actually seen,
 since the lake road runs along its edge and nobody has ever thought to move the road.
 
 ## A Recurrence
 
 Tiravlen replays, and it replays **over the water**, which is what makes it locally famous. The battle
-that made it, [[lore-tiravlenbattle|the breaking of the Thânevar kings]] in about 152 AF, is known to the villages by the ground's name alone. On the
+that made it, [[lore-tiravlenbattle|the breaking of the Tanevar kings]] in about 152 AF, is known to the villages by the ground's name alone. On the
 anniversary, the night of 9 Karnavar, and on a scatter of other nights that follow no pattern anyone has established, lights
 move out across the lake in ranks, and sound carries off the surface with the particular clarity that
 water gives it—orders, horses, the noise of a line breaking—all of it perfectly audible from
@@ -38,4 +38,4 @@ Visitors who insist on watching from the shore are not prevented. They are simpl
 
 ## See Also
 
-- [[lore-bloodfields|The Blood-fields of Provènzia]] · [[place-tiravellake|Lake Tiravel]] · [[lore-tiravlenbattle|Tiravlen]]
+- [[lore-bloodfields|The Blood-fields of Provenzia]] · [[place-tiravellake|Lake Tiravel]] · [[lore-tiravlenbattle|Tiravlen]]

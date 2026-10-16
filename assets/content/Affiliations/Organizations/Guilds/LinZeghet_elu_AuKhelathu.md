@@ -1,6 +1,6 @@
 ---
 shortcode: linzghtkhlth
-name: {full: Lin'Zeghet elu Aû'Khelâthu, aliases: [The Hunters' Guild of Aû'Khelâthu]}
+name: {full: Lin'Zeghet elu Au'Khelathu, aliases: [The Hunters' Guild of Au'Khelathu]}
 type: affiliation
 subType: guild
 description: The chartered guild of the empire's hunters, licensing the taking of game and the handling of dangerous beasts
@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Zeghet elu Aû'Khelâthu** is the chartered guild of the hunters of [[place-aukhelathrgq|Aû'Khelâthu]]. It licenses both the ordinary taking of game and the handling of beasts dangerous enough to need a specialist, and it sets the terms on which a hunter may work a given territory, so two hunters are rarely chasing the same ground under conflicting claims. Anyone hiring for a dangerous beast checks the license first, since an unlicensed hunter has answered to no one for his methods.
+**Lin'Zeghet elu Au'Khelathu** is the chartered guild of the hunters of [[place-aukhelathrgq|Au'Khelathu]]. It licenses both the ordinary taking of game and the handling of beasts dangerous enough to need a specialist, and it sets the terms on which a hunter may work a given territory, so two hunters are rarely chasing the same ground under conflicting claims. Anyone hiring for a dangerous beast checks the license first, since an unlicensed hunter has answered to no one for his methods.
 
 ## Character
 
@@ -56,5 +56,5 @@ Licensing is the guild's trade. Say a village on the desert edge hires a hunter 
 
 ## See Also
 
-- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire the guild's licenses cover
+- [[place-aukhelathrgq|Au'Khelathu]]—The empire the guild's licenses cover
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

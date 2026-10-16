@@ -1,9 +1,9 @@
 ---
 shortcode: kezhvalikosb
-name: {full: Kezhvâlikos Bolalídek, aliases: [Merchant-Lord Kezhvâlikos Bolalídek]}
+name: {full: Kezhvalikos Bolalidek, aliases: [Merchant-Lord Kezhvalikos Bolalidek]}
 type: being
 subType: npc
-description: A worldly trader and collector of fine things who has become a regular guest and social ally of Agélâra Stetês.
+description: A worldly trader and collector of fine things who has become a regular guest and social ally of Agélara Stetes.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kezhvâlikos Bolalídek is a 45-year-old man who stands 6'3" tall with a medium build. He has olive skin, ruddy complexion, brown hair, and amber eyes.
+Kezhvalikos Bolalidek is a 45-year-old man who stands 6'3" tall with a medium build. He has olive skin, ruddy complexion, brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Kezhvâlikos Bolalídek is a worldly trader and collector of fine things. He has become a regular guest and social ally of [[being-aglrmlsns|Agélâra Stetês]].
+Kezhvalikos Bolalidek is a worldly trader and collector of fine things. He has become a regular guest and social ally of [[being-aglrmlsns|Agélara Stetes]].

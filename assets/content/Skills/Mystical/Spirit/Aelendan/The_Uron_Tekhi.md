@@ -1,9 +1,9 @@
 ---
 shortcode: uronsprt
-name: {full: "The Ûron Tékhi Spirit Power", aliases: [The Ûron Tékhi]}
+name: {full: "The Uron Tekhi Spirit Power", aliases: [The Uron Tekhi]}
 type: skill
 subType: mystical
-description: "Standing with The Ûron Tékhi—what this allied Kindred is met, asked and bargained with."
+description: "Standing with The Uron Tekhi—what this allied Kindred is met, asked and bargained with."
 tags: [first-gods, spirit-power, draft]
 data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[lore-uronspr|The Ûron Tékhi]]—place-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
+See [[lore-uronspr|The Uron Tekhi]]—place-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

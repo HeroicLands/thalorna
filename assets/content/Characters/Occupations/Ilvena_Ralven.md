@@ -1,6 +1,6 @@
 ---
 shortcode: ilvnralwn
-name: {full: Ilvèna Ralvèn, aliases: []}
+name: {full: Ilvena Ralven, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -390,13 +390,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Ilvèna Ralvèn is a 23-year-old woman who stands 5'8" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and expressive lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair is hanging in ringlets.
+Ilvena Ralven is a 23-year-old woman who stands 5'8" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and expressive lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair is hanging in ringlets.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a minor noble family of Provenzian heritage, Ilvèna Ralvèn came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia]] region to a minor noble family of Provenzian heritage, Ilvena Ralven came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
 
-Ilvèna is a minor noble with a keen interest in the arts and local governance. She is known for her charitable contributions to the community and her ability to connect with the common folk. Ilvèna often hosts gatherings at her estate to promote local artists and musicians, and she advocates for education and the welfare of her people. Her warm demeanor and passion for philanthropy have made her popular among her peers and the populace.
+Ilvena is a minor noble with a keen interest in the arts and local governance. She is known for her charitable contributions to the community and her ability to connect with the common folk. Ilvena often hosts gatherings at her estate to promote local artists and musicians, and she advocates for education and the welfare of her people. Her warm demeanor and passion for philanthropy have made her popular among her peers and the populace.
 
 ## Psyche
 
@@ -406,7 +406,7 @@ Can be naive about the realities of nobility, sometimes too trusting.
 
 ### Motivation
 
-Ilvèna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in nobility (courtier) work keep her vigilant and adaptable.
+Ilvena is driven by the desire to master her craft and secure a stable future. The uncertainties of life in nobility (courtier) work keep her vigilant and adaptable.
 
 ### Strengths
 
@@ -414,15 +414,15 @@ Charismatic, compassionate, skilled in diplomacy.
 
 ## Social
 
-Ilvèna is affiliated with Local Nobility Council.
+Ilvena is affiliated with Local Nobility Council.
 
-As a Provenzian nobility (courtier), Ilvèna occupies a recognized social niche within Provènzia society.
+As a Provenzian nobility (courtier), Ilvena occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Ilvèna's primary patron is Local artists and craftsmen seeking support. This relationship provides both opportunity and obligation.
+Ilvena's primary patron is Local artists and craftsmen seeking support. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -430,12 +430,12 @@ Few; generally well-liked, though some rival nobles may envy her influence.
 
 ## Plot Hooks
 
-1. **The Nobility (Courtier)'s Dilemma**—Ilvèna faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
+1. **The Nobility (Courtier)'s Dilemma**—Ilvena faces a crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provenzia.
 
 2. **Old Grudges**—Few; generally well-liked, though some rival nobles may envy her influence. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Ilvèna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Ilvena's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds**—Political changes in Provènzia threaten to upend the social order that Ilvèna depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Provenzia threaten to upend the social order that Ilvena depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Ilvèna the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Ilvena the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

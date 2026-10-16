@@ -1,6 +1,6 @@
 ---
 shortcode: porenadhrl
-name: {full: Pórena Dhárel, aliases: []}
+name: {full: Pórena Darel, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -389,11 +389,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Pórena Dhárel is a 24-year-old woman who stands 5'8" tall and is of moderate build. She has an oval face with wide-set cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows and give her a watchful gaze. She has a slightly upturned nose and firm lips. She has pale skin with a smooth complexion. Her dark brown hair is loose and wavy.
+Pórena Darel is a 24-year-old woman who stands 5'8" tall and is of moderate build. She has an oval face with wide-set cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows and give her a watchful gaze. She has a slightly upturned nose and firm lips. She has pale skin with a smooth complexion. Her dark brown hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Pórena Dhárel is a longshorewoman.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Pórena Darel is a longshorewoman.
 
 Pórena has worked as a longshorewoman since she was a girl, in a trade that has few women in it. She is known for her agility and for moving quickly through the crowded docks. She has earned respect among the other dock hands for her skill in cargo handling and is often called upon to train new workers. She takes pride in her work and is determined to show that a woman can do it as well as anyone.
 

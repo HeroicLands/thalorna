@@ -1,6 +1,6 @@
 ---
 shortcode: suryaislnds
-name: {full: The Sūrya-samudra Islands, aliases: [The Eastern Islands]}
+name: {full: The Surva-samedra Islands, aliases: [The Eastern Islands]}
 type: place
 subType: region
 description: "The scattered island chain southeast of Vedyara—coastal kingdoms of their own, and the Vedyari merchant colonies whose speech has gone its own way."
@@ -50,6 +50,6 @@ The query names the settlements of the chain. A merchant colony is a quarter of 
 
 ## See Also
 
-- [[place-suryasamdra|The Sūrya-samudra]]—the sea the chain lies in
+- [[place-suryasamdra|The Surva-samedra]]—the sea the chain lies in
 - [[place-vedyarargn|Vedyara Region]]—the mainland the colonies trade to
 - [[skill-vedyarlng|Vedyari]]—the language and its Eastern Outlier dialect

@@ -1,6 +1,6 @@
 ---
 shortcode: dnstnhlmsly
-name: {full: Dunstan Helmsley, aliases: []}
+name: {full: Harstan Helmsley, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -390,13 +390,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Dunstan Helmsley is a 49-year-old man who stands 6'5" tall and is broad and solidly built. He has a long face with broad cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large brown eyes sit beneath expressive brows, lending him an expressive gaze. A straight nose and narrow lips complete his features. He has fair skin with a pale complexion. His red hair is combed neatly to one side.
+Harstan Helmsley is a 49-year-old man who stands 6'5" tall and is broad and solidly built. He has a long face with broad cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large brown eyes sit beneath expressive brows, lending him an expressive gaze. A straight nose and narrow lips complete his features. He has fair skin with a pale complexion. His red hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Dunstan Helmsley is a chieftain.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Harstan Helmsley is a chieftain.
 
-Dunstan, known as "Helmsley" for his immense strength, leads a clan that values martial prowess above all. He gained his title through numerous feats of strength and skill in combat. Though he is a fierce warrior, Dunstan struggles with diplomacy, often letting his temper dictate his actions.
+Harstan, known as "Helmsley" for his immense strength, leads a clan that values martial prowess above all. He gained his title through numerous feats of strength and skill in combat. Though he is a fierce warrior, Harstan struggles with diplomacy, often letting his temper dictate his actions.
 
 ## Psyche
 
@@ -406,7 +406,7 @@ Poor diplomat, often resorts to aggression over negotiation.
 
 ### Motivation
 
-Dunstan wants his clan's strength to secure its claims, and meets resistance with the feats of combat by which he won his title.
+Harstan wants his clan's strength to secure its claims, and meets resistance with the feats of combat by which he won his title.
 
 ### Strengths
 
@@ -414,13 +414,13 @@ Exceptional strength and combat skills, commands respect from warriors.
 
 ## Social
 
-Dunstan is affiliated with Warrior's Circle.
+Harstan is affiliated with Warrior's Circle.
 
 ## Companions
 
 ### Patrons
 
-The clan warriors support Dunstan because they value strength and honor.
+The clan warriors support Harstan because they value strength and honor.
 
 ### Enemies
 
@@ -428,12 +428,12 @@ Neighboring chieftains who oppose his expansionist ambitions.
 
 ## Plot Hooks
 
-1. **The Chieftain's Dilemma**—Dunstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
+1. **The Chieftain's Dilemma**—Harstan faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 
 2. **Old Grudges**—Neighboring chieftains who oppose his expansionist ambitions. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Dunstan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Harstan's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Dunstan depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Aelwyth threaten to upend the social order that Harstan depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Dunstan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Harstan the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

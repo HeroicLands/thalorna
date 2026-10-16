@@ -49,16 +49,16 @@ data:
 
 - **Description:** After navigating through the cave, the adventurers enter Thárion’s main chamber, which serves as both his throne room and living quarters. It’s fortified with overturned tables, crates, and rocks, creating a defensible position.
 
-- **Encounter:** Thárion awaits them with his closest lieutenants. He may initially offer a chance to talk, justifying his actions and claiming he fights for the oppressed Thânevar. If the adventurers reject his offer or if negotiations fail, combat ensues.
+- **Encounter:** Thárion awaits them with his closest lieutenants. He may initially offer a chance to talk, justifying his actions and claiming he fights for the oppressed Tanevar. If the adventurers reject his offer or if negotiations fail, combat ensues.
 
 - **Challenge:** Thárion is a skilled tactician and uses his environment to his advantage, positioning his men to block exits and funnel the adventurers into kill zones. He has a few last-ditch traps (like rockfalls) he can trigger if the battle turns against him.
 
-- **Twist:** During the fight, Thárion might reveal hints of Kílan’s manipulation, either as a plea for mercy or as a way to turn the adventurers against Kílan. He claims Kílan used him, stirring a choice between defeating Thárion outright or leveraging him for information.
+- **Twist:** During the fight, Thárion might reveal hints of Kilan’s manipulation, either as a plea for mercy or as a way to turn the adventurers against Kilan. He claims Kilan used him, stirring a choice between defeating Thárion outright or leveraging him for information.
 
 ### 5. The Bandit’s Defeat
 
 - **Description:** After Thárion’s defeat, the adventurers have the opportunity to explore his chamber and uncover his personal belongings, maps, and any remaining supplies.
 
-- **Reward:** Among the loot, they find a stash of silver, valuable goods taken from raids, and a written note or symbol connecting him indirectly to Kílan’s machinations. There may also be a cryptic map leading deeper into [[place-ceravelvale|Keravèl Vale]], hinting at future threats or hidden treasures.
+- **Reward:** Among the loot, they find a stash of silver, valuable goods taken from raids, and a written note or symbol connecting him indirectly to Kilan’s machinations. There may also be a cryptic map leading deeper into [[place-ceravelvale|Keravel Vale]], hinting at future threats or hidden treasures.
 
-- **Resolution:** The adventurers must decide what to do with Thárion (if he survived), his remaining men, and any villagers who supported him. They may also choose to follow up on Kílan’s potential involvement or focus on collecting their reward for quelling the bandit threat.
+- **Resolution:** The adventurers must decide what to do with Thárion (if he survived), his remaining men, and any villagers who supported him. They may also choose to follow up on Kilan’s potential involvement or focus on collecting their reward for quelling the bandit threat.

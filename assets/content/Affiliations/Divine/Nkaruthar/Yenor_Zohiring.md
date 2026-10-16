@@ -1,11 +1,11 @@
 ---
 shortcode: yenorzhrng
 name:
-  full: Yénor Zohiring
-  aliases: [The Spirit Path, The Way of the Zohira, The Shamanic Tradition of Okháris]
+  full: Yenor Zohiring
+  aliases: [The Spirit Path, The Way of the Zohira, The Shamanic Tradition of Okharis]
 type: affiliation
 subType: spirittradition
-description: "The Okháric shamanic tradition—the kwendari zohiring who are bound to the zohira by the Spirit Hunt, holding no rank in any temple and standing alongside the Eternal Flame rather than against it."
+description: "The Okharik shamanic tradition—the kwendari zohiring who are bound to the zohira by the Spirit Hunt, holding no rank in any temple and standing alongside the Eternal Flame rather than against it."
 tags: [nkaruthar, religion]
 data:
   culture: okharinclt
@@ -16,16 +16,16 @@ data:
   governance:
     model: council
     summary: >-
-      Not joined and not professed: every Okháric is of the spirits by being Okháric, and the ladder measures only how far into that a person has gone. Standing above the common is conferred by the Spirit Hunt and confirmed by the tribe; elders teach and judge readiness, and nobody commands.
+      Not joined and not professed: every Okharik is of the spirits by being Okharik, and the ladder measures only how far into that a person has gone. Standing above the common is conferred by the Spirit Hunt and confirmed by the tribe; elders teach and judge readiness, and nobody commands.
     ranks:
       - level: 0
         title: Spirit-Deaf
         description: >-
-          Cut off by the zohira and by those who speak with them, and no cairn in the country will answer them again. This is not excommunication from a faith; it is expulsion from what being Okháric consists of, and it is not recoverable.
+          Cut off by the zohira and by those who speak with them, and no cairn in the country will answer them again. This is not excommunication from a faith; it is expulsion from what being Okharik consists of, and it is not recoverable.
       - level: 1
         title: Of the People
         description: >-
-          Every Okháric, from birth and without joining anything: keeping the local cairns, leaving what the tribe's zohira are owed, and going to a shaman rather than speaking for themselves. Nearly everyone, all their lives.
+          Every Okharik, from birth and without joining anything: keeping the local cairns, leaving what the tribe's zohira are owed, and going to a shaman rather than speaking for themselves. Nearly everyone, all their lives.
       - level: 2
         title: Candidate of the Hunt
         description: >-
@@ -67,15 +67,15 @@ sohl:
     commonSkills: [yombelsprt, gorombesprt, zhimbalsprt, orclbonessprt, pembursprt, shengelsprt]
 ---
 
-The **Yénor Zohiring**—the Spirit Path—is the shamanic tradition of the Okháric tribes: the
+The **Yenor Zohiring**—the Spirit Path—is the shamanic tradition of the Okharik tribes: the
 practice of standing in relationship with the [[lore-zohira|zohira]], the intermediary spirits
 that govern rivers, storms, the hunt, fertility and death.
 
 It is not a branch of [[affiliation-nkaruthar|Nkaru'thar]] and it is not a rival to it, and the
 two are not the same kind of thing at all.
 
-**The Spirit Path is not professed; it is what being Okháric consists of.** Nobody converts to it,
-nobody is received into it, and there is no moment at which a person begins. An Okháric child is of
+**The Spirit Path is not professed; it is what being Okharik consists of.** Nobody converts to it,
+nobody is received into it, and there is no moment at which a person begins. An Okharik child is of
 the spirits in the way it is of its mother's kin—by being born where it was born, to people who
 keep those cairns. The tradition has no doctrine to assent to, no temple, no ordination and no
 congregation, because it has no membership to define: it is the substrate, and everyone is standing
@@ -84,17 +84,17 @@ on it.
 **[[affiliation-nkaruthar|The Eternal Flame]], by contrast, is worshipped.** It is a religion in the
 full sense—doctrine, temples, an ordained priesthood, and a hierarchy running from the Kwendelo Nkaring
 to the High Pyremant—and it is professed, which means it is in principle a thing a person could
-profess differently. That asymmetry is the whole shape of Okháric religious life.
+profess differently. That asymmetry is the whole shape of Okharik religious life.
 
-An Okháric villager goes to the pyramid at the turning of the year and to the cairn when the river
+An Okharik villager goes to the pyramid at the turning of the year and to the cairn when the river
 is wrong.
 
-To outsiders this is incomprehensible. Aû'Khelâthu priests and Vylarian factors have written the
-Okhárics down as muddled, as syncretists, as people who have not finished deciding—and the
-question they keep asking, which of the two is really believed, is one no Okháric can find a use
+To outsiders this is incomprehensible. Au'Khelathu priests and Vylarian factors have written the
+Okharics down as muddled, as syncretists, as people who have not finished deciding—and the
+question they keep asking, which of the two is really believed, is one no Okharik can find a use
 for. To insiders it is not a compromise between two systems. It is simply the natural order of
 things: the Flame is what the world is made of and the zohira are who you deal with about the
-river, and a person who confused the two would be the eccentric one.
+river. Confusing the two is the eccentric position.
 
 ## The Spirit Hunt
 
@@ -107,7 +107,7 @@ Candidates die. The tradition is direct about this and does not soften it, and t
 judgment about who may attempt the Hunt is the most consequential thing the tradition asks anyone
 to do. Those who return are **kwendari zohiring**, and are so for life.
 
-The Hunt confers no rank in any temple. A High Pyremant outranks every priest in Okháris and does
+The Hunt confers no rank in any temple. A High Pyremant outranks every priest in Okharis and does
 not outrank a shaman, because the two are not on the same ladder—a fact both sides state plainly
 and neither much enjoys.
 
@@ -120,7 +120,7 @@ intercession, and each zohira's requirements are its own.
 
 Because zohira are addressed by domain before place, a shaman who travels is not left mute. The
 bond weakens with distance from the cairn where it was made, but it does not sever, which is why
-Okháric shamans are found far from Okháris and Áelendan shamen almost never are.
+Okharik shamans are found far from Okharis and Áelendan shamen almost never are.
 
 ## Relations
 
@@ -140,4 +140,4 @@ the same tradition, and both regard the other's emphasis as slightly eccentric.
 
 - [[lore-zohira|Zohira]]—the spirits themselves, and the named ones
 - [[affiliation-nkaruthar|Nkaru'thar]]—the Eternal Flame, held alongside this
-- [[place-yandazhrng|Yánda Zohiring]]—where the spirit world lies closest
+- [[place-yandazhrng|Yanda Zohiring]]—where the spirit world lies closest

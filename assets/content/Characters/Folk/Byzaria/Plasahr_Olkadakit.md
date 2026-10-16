@@ -1,9 +1,9 @@
 ---
 shortcode: plasahrolkad
-name: {full: Plasáhr Olkadákit, aliases: [Merchant-Lord Plasáhr Olkadákit]}
+name: {full: Plasáhr Olkadakit, aliases: [Merchant-Lord Plasáhr Olkadakit]}
 type: being
 subType: npc
-description: A rival merchant-broker operating in the Byzarian League's central territories, named in Fibakôn Siderákit.
+description: A rival merchant-broker operating in the Bizarian League's central territories, named in Fibakon Siderakit.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Plasáhr Olkadákit is a 49-year-old man who stands 6'0" tall with a light build. He has tanned skin, weathered complexion, dark brown hair, and green eyes.
+Plasáhr Olkadakit is a 49-year-old man who stands 6'0" tall with a light build. He has tanned skin, weathered complexion, dark brown hair, and green eyes.
 
 # Dossier {#dossier}
 
-Plasáhr Olkadákit is a rival merchant-broker operating in the central territories of the Byzarian League. He has undercut the pricing of [[being-chrysntssdrkt|Fibakôn Siderákit]] on several commissions, and the two are in undeclared but intense commercial warfare.
+Plasáhr Olkadakit is a rival merchant-broker operating in the central territories of the Bizarian League. He has undercut the pricing of [[being-chrysntssdrkt|Fibakon Siderakit]] on several commissions, and the two are in undeclared but intense commercial warfare.

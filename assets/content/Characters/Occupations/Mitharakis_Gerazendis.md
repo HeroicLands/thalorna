@@ -1,6 +1,6 @@
 ---
 shortcode: mthrksgrznds
-name: {full: Mitharâkîs Gêrazêndis, aliases: []}
+name: {full: Mitharakis Gerazendis, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,23 +394,23 @@ sohl:
 
 # Appearance {#appearance}
 
-Mitharâkîs Gêrazêndis is a 50-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows and give him a measured gaze. He has a prominent nose and narrow lips. He has light skin with a weathered complexion. His gray hair is short and swept back.
+Mitharakis Gerazendis is a 50-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows and give him a measured gaze. He has a prominent nose and narrow lips. He has light skin with a weathered complexion. His gray hair is short and swept back.
 
 # Dossier {#dossier}
 
-Mitharâkîs Gêrazêndis is a jester of Tirellan, the provincial city of Moktur on the northern frontier of [[place-vylariargn|Vylaría]], a Vylarian freeman who has made the halls of the frontier's _thêrkhoi_ (governors) and border-lords laugh for thirty years.
+Mitharakis Gerazendis is a jester of Tirellan, the provincial city of Moktur on the northern frontier of [[place-vylariargn|Vylaria]], a Vylarian freeman who has made the halls of the frontier's _therkoi_ (governors) and border-lords laugh for thirty years.
 
-Mitharâkîs came up from the taverns of Tirellan as a boy who could mimic anyone in the room and was paid not to, and he has performed since for three military _thêrkhoi_, a dozen border-lords, and Varokh chiefs across the line who did not understand a word and laughed anyway. His humor is story and satire, the _thêrkhôs_'s temper, the Senate's letters, the legion's pay, the winter, and he has learned how far a frontier lord will let a fool go and how far past it a fool can go if the hall is laughing. He has kept his head when men who spoke plainly lost theirs. He holds that a hall that can laugh at its lord will follow him, and one that cannot will not.
+Mitharakis came up from the taverns of Tirellan as a boy who could mimic anyone in the room and was paid not to, and he has performed since for three military _therkoi_, a dozen border-lords, and Varokh chiefs across the line who did not understand a word and laughed anyway. His humor is story and satire, the _therkos_'s temper, the Senate's letters, the legion's pay, the winter, and he has learned how far a frontier lord will let a fool go and how far past it a fool can go if the hall is laughing. He has kept his head when men who spoke plainly lost theirs. He holds that a hall that can laugh at its lord will follow him, and one that cannot will not.
 
 ## Psyche
 
 ### Personality
 
-Mitharâkîs is warm in performance and dry out of it, cynical about lords and audiences, and privately afraid that he has become a fixture the hall keeps out of habit rather than a fool it needs.
+Mitharakis is warm in performance and dry out of it, cynical about lords and audiences, and privately afraid that he has become a fixture the hall keeps out of habit rather than a fool it needs.
 
 ### Motivation
 
-Mitharâkîs wants the hall laughing when the winter is hard and the news is bad, because he has seen a frontier hall when nobody does. He wants to matter to it still, and the _thêrkhôs_ has a new favorite who is twenty-four.
+Mitharakis wants the hall laughing when the winter is hard and the news is bad, because he has seen a frontier hall when nobody does. He wants to matter to it still, and the _therkos_ has a new favorite who is twenty-four.
 
 ### Strengths
 
@@ -418,24 +418,24 @@ An experienced performer, a fine storyteller, knows the politics of every hall i
 
 ## Social
 
-Mitharâkîs holds no post; he performs at the _thêrkhôs_'s hall by long custom and elsewhere by invitation, and is paid by all of them and kept by none.
+Mitharakis holds no post; he performs at the _therkos_'s hall by long custom and elsewhere by invitation, and is paid by all of them and kept by none.
 
 ## Companions
 
 ### Patrons
 
-Mitharâkîs's patrons are the military _thêrkhôs_ of Moktur, whose hall he has kept through three _thêrkhoi_' tenures, and the border-lords who ask for him.
+Mitharakis's patrons are the military _therkos_ of Moktur, whose hall he has kept through three _therkoi_' tenures, and the border-lords who ask for him.
 
 ### Enemies
 
-The _thêrkhôs_'s new favorite, a young singer from the capital who has told the _thêrkhôs_'s steward that the old man's satire is dangerous; and a border-lord who was the subject of it.
+The _therkos_'s new favorite, a young singer from the capital who has told the _therkos_'s steward that the old man's satire is dangerous; and a border-lord who was the subject of it.
 
 ## Plot Hooks
 
-1. **The Satire**—Mitharâkîs told a story at the _thêrkhôs_'s table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border-lord who had been at the table did not, and the _thêrkhôs_ has asked to see the fool.
+1. **The Satire**—Mitharakis told a story at the _therkos_'s table about a lord who sold his own pass to the Varokh, and the hall laughed. The next morning a border-lord who had been at the table did not, and the _therkos_ has asked to see the fool.
 
-2. **The Message**—A border-lord has asked Mitharâkîs, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
+2. **The Message**—A border-lord has asked Mitharakis, who goes where a lord's messenger cannot, to carry a word to a Varokh chief across the line. The word is not treason, quite.
 
-3. **The Favorite**—The young singer has been given the _thêrkhôs_'s midwinter feast, and Mitharâkîs the servants' hall, which has asked him for the story about the singer.
+3. **The Favorite**—The young singer has been given the _therkos_'s midwinter feast, and Mitharakis the servants' hall, which has asked him for the story about the singer.
 
-4. **The Thêrkhôs's Temper**—The _thêrkhôs_ has begun to drink in the afternoons and to take the fool's stories as they are meant, and the officers have asked Mitharâkîs to say to him what they cannot.
+4. **The Therkos's Temper**—The _therkos_ has begun to drink in the afternoons and to take the fool's stories as they are meant, and the officers have asked Mitharakis to say to him what they cannot.

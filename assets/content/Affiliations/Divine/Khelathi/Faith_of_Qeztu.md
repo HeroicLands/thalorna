@@ -19,7 +19,7 @@ data:
       - level: 0
         title: Rite-Denied
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Khelâthi eventually requires—a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Khelathi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         description: >-
@@ -33,9 +33,9 @@ data:
         description: >-
           "Servant of the God"—the ordained priesthood and the working body of the temple.
       - level: 4
-        title: Thâz'Lekhau
+        title: Thaz'Lekhau
         description: >-
-          "Great of Sacred Power"—the High Priest or High Priestess, elevated from among the senior Lem'Nelgir. A selat god's Thâz'Lekhau carries real weight inside the selat and very little outside it.
+          "Great of Sacred Power"—the High Priest or High Priestess, elevated from among the senior Lem'Nelgir. A selat god's Thaz'Lekhau carries real weight inside the selat and very little outside it.
     offices:
       Keeper of the War-Temple: >-
         Holds the war-temple at Balehen, the cult's chief house and the one the southern march measures itself by.
@@ -55,7 +55,7 @@ sohl: {system: {commonSkills: []}}
 
 "Nobody asks for [[lore-qeztudty|Qeztu]] in the valley," a **Priest of the Frontier Garrisons** tells a conscript on his first night at a fort beyond the first cataract. "The valley likes gentler gods. Out here you will."
 
-Qeztu, the war-god, keeps a frontier cult, and deliberately so. He is patron of four of the ten border selatu and rare in the valley, and his worship is strongest where the empire's writ is thinnest. The four are the [[affiliation-selatzuzllgl|Selat of Zu-Zalu-Legulu]], the [[affiliation-seltqltlnlgr|Selat of Qelt-Len-Legir]], the [[affiliation-selatgarqezt|Selat of Gar-Qeztu]] and the [[affiliation-selatbelgnzl|Selat of Belgen-Zalu]]. The name of a selat is no guide: the [[affiliation-selatzuqeztu|Selat of Zu-Qeztu]] belongs to [[lore-uqaadty|Uqa'â]].
+Qeztu, the war-god, keeps a frontier cult, and deliberately so. He is patron of four of the ten border selatu and rare in the valley, and his worship is strongest where the empire's writ is thinnest. The four are the [[affiliation-selatzuzllgl|Selat of Zu-Zalu-Legulu]], the [[affiliation-seltqltlnlgr|Selat of Qelt-Len-Legir]], the [[affiliation-selatgarqezt|Selat of Gar-Qeztu]] and the [[affiliation-selatbelgnzl|Selat of Belgen-Zalu]]. The name of a selat is no guide: the [[affiliation-selatzuqeztu|Selat of Zu-Qeztu]] belongs to [[lore-uqaadty|Uqa'a]].
 
 ## Where the Cult Serves
 
@@ -63,11 +63,11 @@ His great war-temple stands at [[place-balehen|Balehen]], the double-walled fort
 
 The Priest of the Frontier Garrisons serves the forward forts beyond the first cataract, the empire's hardest postings, where the cult is stronger than anywhere else in the realm. The **Priest of the Chariot-Corps** serves the garrison heartland of [[place-garqeztu|Gar-Qeztu]], where the chariot-corps drill-grounds and the officer schools are.
 
-The cult keeps the shared temple ladder of Wazu, Lem'Nelgir and Thâz'Lekhau. A selat god's Thâz'Lekhau carries real weight inside the selat and very little outside it.
+The cult keeps the shared temple ladder of Wazu, Lem'Nelgir and Thaz'Lekhau. A selat god's Thaz'Lekhau carries real weight inside the selat and very little outside it.
 
 ## See Also
 
 - [[lore-qeztudty|Qeztu]]—the god
 - [[place-balehen|Balehen]]—the war-temple's fortress
 - [[affiliation-borderselatu|The Border Selatu]]—the selatu where the cult is strong
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelâthi]] cult shares
+- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares

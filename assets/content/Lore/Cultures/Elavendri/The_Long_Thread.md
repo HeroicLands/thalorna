@@ -20,13 +20,13 @@ data:
 # terran_analog: "The fairy-bride and fairy-husband tales of Brittany and the Celtic fringe, with their taboo laid at the bargain (do not ask the name, do not look on the forbidden day), for the plot; Mélusine for the condition that binds a lineage; the spinning bee and the women's winter work-gathering where tales were told in turns, for the occasion; the folk etiology of a household custom."
 ---
 
-**The Long Thread** is the tale the women of the inner coast of [[place-lirve|Lírvë]] tell at their spinning bees, in the villages of the worked forest between the coast road and the deep wood, on the long nights of the dark half of the year. It is told in turns, the way the bee spins: one woman tells while the others spin, and when her thread breaks she stops where she is and the next wheel takes the telling on, so the tale is never told the same way twice and never by one voice. The breaks stand in the text where they fell on the night it was taken down, at a bee in a village under the wood a morning's walk from [[place-liranel|Liranel]].
+**The Long Thread** is the tale the women of the inner coast of [[place-lirve|Lirve]] tell at their spinning bees, in the villages of the worked forest between the coast road and the deep wood, on the long nights of the dark half of the year. It is told in turns, the way the bee spins: one woman tells while the others spin, and when her thread breaks she stops where she is and the next wheel takes the telling on, so the tale is never told the same way twice and never by one voice. The breaks stand in the text where they fell on the night it was taken down, at a bee in a village under the wood a morning's walk from [[place-liranel|Liranel]].
 
 The tale is of **Áuvenna**, a spinner, who spun on a hinge-night ([[affiliation-groveconcl|The Grove Council]]) when the hedge-wife had told her not to, and who made a bargain at her own door with one of the deeper places ([[lore-faecourts|The Fae Courts]]) that bound her line to keep a thread unbroken; of her daughter **Thélvara**, who asked what was not offered; and of the knot. The bargain is said in verse and the women say it together. The one at the door is never named, because the tale is about not asking. The bees of that coast keep a long thread that runs from the bee-house window into the wood, and at the end of the night every spinner takes it through her fingers until she finds the knot, and says the name. In the houses of the inner coast nobody cuts a thread on a hinge-day; it is broken with the hands, and whoever breaks it says whose it was.
 
 : The Long Thread {#tale}
 
-Lúsinía, mind the wheel. Here's the long one, and it's long, so draw your wool out fine.
+Lusinia, mind the wheel. Here's the long one, and it's long, so draw your wool out fine.
 
 In a village under the wood, this side of Liranel, there was a spinner called Áuvenna, and she spun the best thread on the coast. You know what that means. It means the weavers of the basin sent for it by name, and she never had a bit of her own, because the weaver who bought it set the price and the weaver who sold the cloth set the other one. She was the last of her house. Her mother had been a spinner and her mother's mother, and before that nobody knew, because a spinner's house has no bard, and she was the last of it, unmarried, past the age, with a wheel and a window and a debt to the weaver she would be working off till she was buried.
 
@@ -85,9 +85,9 @@ So she spun. And she took the end of the thread she had spun that night, and he 
 
 You want to know if it came true. It came true. They always do; that's the trouble with them.
 
-That spring a haulier came down the coast road with a team of oxen, **Kélthar**, a big quiet man from the timber yards at Liranel, and he stopped at her door for water, and he came back for water every week all summer, and there's only so much water a man needs. They were married at the autumn hinge. She'd not have chosen the day, but he didn't know, and she couldn't tell him. And the year after there was a daughter, Thélvara, and that was the line, running.
+That spring a haulier came down the coast road with a team of oxen, **Kelthar**, a big quiet man from the timber yards at Liranel, and he stopped at her door for water, and he came back for water every week all summer, and there's only so much water a man needs. They were married at the autumn hinge. She'd not have chosen the day, but he didn't know, and she couldn't tell him. And the year after there was a daughter, Thélvara, and that was the line, running.
 
-And on every hinge-night, four times a year, the one from the wood came along the thread. She'd hear the knock. Kélthar slept like a felled oak on the hinge-nights, he never woke, not once in all his life; that was part of it. She'd open the door, and the tall one would come in under it, and sit on the stool, and she'd put bread in front of him, and he'd not eat it, and he'd watch her spin. She spun his thread on those nights and no others. She never asked him anything. Not his name. Not where the thread went. Not why he wanted it. In the morning he'd be gone and the bread on the board, and she'd give it to the hens.
+And on every hinge-night, four times a year, the one from the wood came along the thread. She'd hear the knock. Kelthar slept like a felled oak on the hinge-nights, he never woke, not once in all his life; that was part of it. She'd open the door, and the tall one would come in under it, and sit on the stool, and she'd put bread in front of him, and he'd not eat it, and he'd watch her spin. She spun his thread on those nights and no others. She never asked him anything. Not his name. Not where the thread went. Not why he wanted it. In the morning he'd be gone and the bread on the board, and she'd give it to the hens.
 
 And when Thélvara was old enough to hold a spindle, Áuvenna taught her to spin, and when Thélvara was old enough to keep a secret, Áuvenna sat her down by the window and put the end of the long thread in her fingers. You could feel it in the dark, you couldn't see it. She said, "This is ours. You'll spin it after me. And on the hinge-nights, a guest comes. Set bread for him. Don't ask his name." And Thélvara said, "Why?" And her mother said, "Because it isn't offered." And that was all.
 
@@ -135,7 +135,7 @@ And she got up, and the tellers say she wasn't ill any more, and she wasn't grey
 
 [A thread broke here, and the telling passed to the next wheel.]
 
-Thélvara looked for her in the morning, and Kélthar woke and looked, and the village looked, and the hedge-wife came and looked at the wood and said nothing, which was the most she could say. And Thélvara spun. What else was there. She sat at the window and spun the long thread, and she found the knot in it with her fingers, a little hard place in the fine, and she held it, and she spun.
+Thélvara looked for her in the morning, and Kelthar woke and looked, and the village looked, and the hedge-wife came and looked at the wood and said nothing, which was the most she could say. And Thélvara spun. What else was there. She sat at the window and spun the long thread, and she found the knot in it with her fingers, a little hard place in the fine, and she held it, and she spun.
 
 And on the autumn hinge-night there was a knock at the door. And she opened it, and it wasn't him. It was her mother. Young. Younger than Thélvara. In the shift she'd gone out in, with no fever, and her hair dark, and her feet wet with the dew from the wood. She came in under the door, and sat on the stool, and Thélvara set bread in front of her, because that's what you do. And her mother looked at the bread, and smiled, and did not eat it. And Thélvara did not ask her anything. Not one thing. She spun the thread, and her mother watched her, and at first light her mother was gone, and the bread on the board.
 
@@ -147,10 +147,10 @@ And that's the long thread. It's that one. You've had it through your fingers. I
 
 Who comes along it now, on the hinge-nights? We don't ask. We set the bread.
 
-And that's why nobody on this coast cuts a thread on a hinge-day. If one breaks, you break it the rest of the way with your two hands, and you say whose it was. Lúsinía, mind the wheel. Draw your wool out fine.
+And that's why nobody on this coast cuts a thread on a hinge-day. If one breaks, you break it the rest of the way with your two hands, and you say whose it was. Lusinia, mind the wheel. Draw your wool out fine.
 
 ## See Also
 
-- [[lore-faecourts|The Fae Courts]] · [[affiliation-groveconcl|The Grove Council]] · [[affiliation-lusinia|Faith of Lúsinía]]
-- [[place-lirve|Lírvë]] · [[place-liranel|Liranel]] · [[lore-elavendriclt|Élavendri]]
+- [[lore-faecourts|The Fae Courts]] · [[affiliation-groveconcl|The Grove Council]] · [[affiliation-lusinia|Faith of Lusinia]]
+- [[place-lirve|Lirve]] · [[place-liranel|Liranel]] · [[lore-elavendriclt|Élavendri]]
 - [[lore-cohortpath|The Path the Cohort Took]] · [[lore-hlvrthline|The Line of the House of Hálvireth]]

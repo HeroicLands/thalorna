@@ -1,9 +1,9 @@
 ---
 shortcode: tzumaqkalanil
-name: {full: "Tz'umaq K'alanil", aliases: [The Serpent Awakeners]}
+name: {full: "Ts'umaq K'alanil", aliases: [The Serpent Awakeners]}
 type: affiliation
 subType: faithtradition
-description: "Hunted jungle sects who teach that the Fifth Age is beyond saving and that waking the storm-serpent would be a mercy—and who can, demonstrably, pull the dead back out of Ch'al Tz'umaq."
+description: "Hunted jungle sects who teach that the Fifth Age is beyond saving and that waking the storm-serpent would be a mercy—and who can, demonstrably, pull the dead back out of Ch'al Ts'umaq."
 tags: [itzani, religion]
 data:
   banner: faithbnr
@@ -42,7 +42,7 @@ data:
         description: >-
           Performs the reversal and the lesser rites, and holds the cell's account of why the cosmic cycle is failing.
       - level: 6
-        title: Tz'uqil Ch'alix
+        title: Ts'uqil Ch'alish
         description: >-
           Has undergone the ritual—torture, death and immediate reanimation—and come through it whole; named for the rite that made them.
       - level: 7
@@ -52,12 +52,12 @@ data:
       - level: 8
         title: Voice of the Owl
         description: >-
-          Believed to carry Pik'ul Tz'umaq's own word; never more than one in a region, often none, and the claim is never made twice in the same generation without bloodshed.
+          Believed to carry Pik'ul Ts'umaq's own word; never more than one in a region, often none, and the claim is never made twice in the same generation without bloodshed.
     offices:
       Cell-Master: >-
         Holds one cell and everything in it, and is the only authority the movement recognizes as binding.
       Keeper of the Ritual: >-
-        Conducts the Tz'uqil Ch'alix—the willing torture, killing and reanimation by which a soul is intercepted before it enters Ch'al Tz'umaq.
+        Conducts the Ts'uqil Ch'alish—the willing torture, killing and reanimation by which a soul is intercepted before it enters Ch'al Ts'umaq.
       Reclaimer: >-
         Draws a recently dead soul back out of the labyrinth, which is the movement's chief recruiting instrument and its chief cruelty.
       Warder of the Returned: >-
@@ -65,7 +65,7 @@ data:
       Comforter: >-
         Approaches the newly bereaved, usually at a funeral the orthodox rites have just failed to make convincing.
       Reckoner of the Failed: >-
-        Holds the count of souls the movement says Ch'al Tz'umaq has consumed, and the argument built on it.
+        Holds the count of souls the movement says Ch'al Ts'umaq has consumed, and the argument built on it.
       Shepherd of the Damut: >-
         Takes charge of the returned once nothing recognisable remains, and directs what they are turned loose upon.
       Watcher: >-
@@ -85,19 +85,19 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Tz'umaq K'alanil** ("Serpent Awakeners") are heterodox factions found in the deepest jungle regions, far from the great city-states. They teach that the Fifth Age has become irredeemably corrupt and that hastening [[affiliation-puqilchaqun|P'uqil Ch'aqun]]'s awakening would be a mercy—that destruction would wipe clean a stained world and allow the Sixth Age to begin pure. These sects are hunted and suppressed by orthodox authorities, their temples destroyed, their priests executed. But the theology is seductive to the desperate and the oppressed, and the movement resurfaces repeatedly in different places, under different names.
+The **Ts'umaq K'alanil** ("Serpent Awakeners") are heterodox factions found in the deepest jungle regions, far from the great city-states. They teach that the Fifth Age has become irredeemably corrupt and that hastening [[affiliation-puqilchaqun|P'uqil Ch'akun]]'s awakening would be a mercy—that destruction would wipe clean a stained world and allow the Sixth Age to begin pure. These sects are hunted and suppressed by orthodox authorities, their temples destroyed, their priests executed. But the theology is seductive to the desperate and the oppressed, and the movement resurfaces repeatedly in different places, under different names.
 
 ## Doctrine
 
-What [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] gave them was not merely theological validation but an _explanation_. The underworld is broken. The cosmic cycle does not work. The souls the priesthood promises to guide safely through [[place-chaltzumaq|Ch'al Tz'umaq]] are being consumed. The blood sacrifices that sustain [[affiliation-tzenultqan|Tz'en'ul Tq'an]] are feeding a machine that is already failing. The only honest response is to accelerate the dissolution and hope the Sixth Age begins with a repaired underworld. And in the meantime, the dead who have been failed by the system can be reclaimed—pulled back from the broken labyrinth and given a form of existence, however diminished, that is better than spiritual annihilation in Ch'al Tz'umaq's depths.
+What [[affiliation-pikultzumaq|Pik'ul Ts'umaq]] gave them was not merely theological validation but an _explanation_. The underworld is broken. The cosmic cycle does not work. The souls the priesthood promises to guide safely through [[place-chaltzumaq|Ch'al Ts'umaq]] are being consumed. The blood sacrifices that sustain [[affiliation-tzenultqan|Ts'en'ul Tq'an]] are feeding a machine that is already failing. The only honest response is to accelerate the dissolution and hope the Sixth Age begins with a repaired underworld. And in the meantime, the dead who have been failed by the system can be reclaimed—pulled back from the broken labyrinth and given a form of existence, however diminished, that is better than spiritual annihilation in Ch'al Ts'umaq's depths.
 
 This is what makes the Serpent Awakeners dangerous rather than merely frightening. Their theology is internally coherent. Their arguments can be disturbingly persuasive on examination—especially to someone who has lost someone and been told their soul is safely navigating the underworld. The orthodox priesthood cannot simply dismiss the arguments; they must actively suppress them.
 
-In some formulations, the Awakeners teach that individuals can prepare spiritually to survive the dissolution and enter the Sixth Age unchanged, becoming the seed of new creation. In others, they argue that voluntary extinction is preferable to corrupted eternity. The most devoted adherents undergo the **Tz'uqil Ch'alix** ritual—submitting willingly to ritualized torture, killing, and immediate reanimation, their souls intercepted at the threshold by Pik'ul Tz'umaq's power before entering Ch'al Tz'umaq. If the individual is sufficiently powerful and devoted, the result is a K'ich'chik [[being-tereb|tereb]]—intelligent, purposeful, retaining identity and gaining real power through undeath. If the individual proves insufficient, the result is a particularly powerful [[being-damut|damut]] that will inevitably degrade.
+In some formulations, the Awakeners teach that individuals can prepare spiritually to survive the dissolution and enter the Sixth Age unchanged, becoming the seed of new creation. In others, they argue that voluntary extinction is preferable to corrupted eternity. The most devoted adherents undergo the **Ts'uqil Ch'alish** ritual—submitting willingly to ritualized torture, killing, and immediate reanimation, their souls intercepted at the threshold by Pik'ul Ts'umaq's power before entering Ch'al Ts'umaq. If the individual is sufficiently powerful and devoted, the result is a K'ich'chik [[being-tereb|tereb]]—intelligent, purposeful, retaining identity and gaining real power through undeath. If the individual proves insufficient, the result is a particularly powerful [[being-damut|damut]] that will inevitably degrade.
 
 ## Recruitment
 
-The Serpent Awakeners' most insidious recruitment tool is the promise of reunion. Their priests offer to pull recently dead loved ones back from Ch'al Tz'umaq—and they can. The first days may seem miraculous. But a soul that has entered Ch'al Tz'umaq and been reversed comes back damaged, and the damage is irreversible. Over weeks and months, the returned loved one degrades—speech failing, memory fragmenting, the hunger for living flesh growing uncontrollable—until nothing remains but a shambling damut. Worse, a soul pulled back from Ch'al Tz'umaq can never re-enter the labyrinth. When the body finally collapses, the soul fragments simply dissipate. No afterlife. No rebirth. No continuation. A fate the orthodox priesthood considers worse than any the underworld could inflict.
+The Serpent Awakeners' most insidious recruitment tool is the promise of reunion. Their priests offer to pull recently dead loved ones back from Ch'al Ts'umaq—and they can. The first days may seem miraculous. But a soul that has entered Ch'al Ts'umaq and been reversed comes back damaged, and the damage is irreversible. Over weeks and months, the returned loved one degrades—speech failing, memory fragmenting, the hunger for living flesh growing uncontrollable—until nothing remains but a shambling damut. Worse, a soul pulled back from Ch'al Ts'umaq can never re-enter the labyrinth. When the body finally collapses, the soul fragments simply dissipate. No afterlife. No rebirth. No continuation. A fate the orthodox priesthood considers worse than any the underworld could inflict.
 
 The approach is made by a **Comforter**, and it is made at the worst hour a household will ever have. Ki'ichek funerary practice is a paid service—a family that could not afford a full recitation was told plainly what it had bought—and the Comforter's opening question is simply whether they are certain the abbreviated rite was enough. It usually is not answered, because it cannot be. Nothing in the orthodox tradition provides a means of checking where a soul went.
 
@@ -107,14 +107,14 @@ Advancement past the second rank is deliberately slow. Most adherents remain **P
 
 There is no hierarchy above the cell. A **Cell-Master** holds his own shelter, his own dead and his own silence, and has no authority over the next valley and no means of learning what it is doing. The movement regards this as doctrine rather than weakness: a cosmos organized as a single interlocking machine is precisely what its theology says has failed, and a movement that cannot be decapitated cannot be ended by killing a hierarch.
 
-A **Voice of the Owl** occasionally appears, claiming to carry Pik'ul Tz'umaq's own word, and for a season cells will coordinate. It never lasts. There is never more than one at a time in a region, frequently none, and a second claim in the same generation has always been settled with violence.
+A **Voice of the Owl** occasionally appears, claiming to carry Pik'ul Ts'umaq's own word, and for a season cells will coordinate. It never lasts. There is never more than one at a time in a region, frequently none, and a second claim in the same generation has always been settled with violence.
 
-The cells' most practical office is the **Watcher**, who keeps them ahead of the Tz'umaq'ob—the serpent-keepers of P'uqil Ch'aqun's binding branch, charged with hunting them down. It is an irony nobody inside the orthodox priesthood finds funny that the hunters and the hunted read the same sealed calculations of the age's ending and disagree only about what should be done with them.
+The cells' most practical office is the **Watcher**, who keeps them ahead of the Tz'umaq'ob—the serpent-keepers of P'uqil Ch'akun's binding branch, charged with hunting them down. It is an irony nobody inside the orthodox priesthood finds funny that the hunters and the hunted read the same sealed calculations of the age's ending and disagree only about what should be done with them.
 
 ## Relations
 
 The orthodox priesthood views the Serpent Awakeners with fear and contempt in equal measure—fear because the apocalyptic theology resonates with real inequities in Ki'ichek society, contempt because it represents a rejection of the priesthood's carefully constructed system of controlled apocalyptic tension. But it is the undead—the damutu walking the deep jungle, the returned loved ones degrading in remote villages, the cold-eyed terebu commanding them—that transforms the Serpent Awakeners from a philosophical heresy into a military threat.
 
-With [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] the movement's alliance is real and unsentimental on both sides. The owl supplies the explanation and the power to reclaim; the movement supplies reach, grieving households and a doctrine under which the reclaiming looks like mercy.
+With [[affiliation-pikultzumaq|Pik'ul Ts'umaq]] the movement's alliance is real and unsentimental on both sides. The owl supplies the explanation and the power to reclaim; the movement supplies reach, grieving households and a doctrine under which the reclaiming looks like mercy.
 
 Toward the [[affiliation-pikob|Pik'ob]] the Awakeners feel something closer to appetite than hostility. The owl keepers' contemplative theology begins where the Awakeners' begins—with dissolution and the impermanence of everything built—and the boundary between accepting that all things end and hastening the ending is thinner than the orthodox priesthood would like. Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, where the Awakeners welcome them.

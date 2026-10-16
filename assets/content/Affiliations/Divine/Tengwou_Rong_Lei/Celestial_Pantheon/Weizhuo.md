@@ -14,16 +14,16 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tānchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
         description: >-
-          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tāntsou consider worse.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp for them, and no ancestor can advocate for a descendant who cannot be addressed. This is not damnation. It is administrative non-existence, which the Tantsou consider worse.
       - level: 1
         title: Petitioner
         description: >-
-          Every Tāntsou: keeps a moral ledger, is observed by the household's Tsàikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -47,9 +47,9 @@ data:
       - level: 7
         title: Chief Intendant
         description: >-
-          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Téng Gui and answers for it if the bureau rejects it.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Téng Gui: >-
+      Teng Gui: >-
         "Celestial Minister"—the overseer of this domain, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -83,7 +83,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Wéizhuo Daonéi—The Jade Sovereign
 
-Wéizhuo sits at the apex of the celestial administration, second only to Tānzhò himself—and that only nominally. Where Tānzhò is the _principle_ of classification, Wéizhuo is its _administrator_: the being who runs the day-to-day machinery of cosmic bureaucracy. The title _Daonéi_ (Jade Sovereign) reflects her station as the executor of the supreme will, though the Tānchéi note with characteristic dryness that her sovereignty is the sovereignty of a functionary—immense, but ultimately bounded by the regulatory framework that contains it.
+Wéizhuo sits at the apex of the celestial administration, second only to Tanzho himself—and that only nominally. Where Tanzho is the _principle_ of classification, Wéizhuo is its _administrator_: the being who runs the day-to-day machinery of cosmic bureaucracy. The title _Daonéi_ (Jade Sovereign) reflects her station as the executor of the supreme will, though the Tanchéi note with characteristic dryness that her sovereignty is the sovereignty of a functionary—immense, but ultimately bounded by the regulatory framework that contains it.
 
 Her authority is entirely procedural. Wéizhuo does not create law; she enforces precedent. She does not embody justice; she embodies consistency. When two bureaus claim overlapping jurisdiction, Wéizhuo does not decide which has the superior claim through moral reasoning or cosmic principle—she consults the master registry, traces the chain of precedent back through previous rulings, and applies the established classification. If no precedent exists, she initiates the formal review process to create one. The system generates its own answers; Wéizhuo merely ensures they are applied uniformly.
 
@@ -93,20 +93,20 @@ This procedural limitation is precisely the source of her power. Because she doe
 
 The Supreme Administrative Court is not a tribunal of judgment but a clearinghouse of administration. Petitions that cannot be processed by the relevant substantive bureau are forwarded here for jurisdictional determination. Disputes between bureaus over which department has authority to handle a particular category of cosmic business are resolved here through application of precedent. Requests for reclassification of cosmic boundaries—which happen far more frequently than mortals suspect—are evaluated here before being passed upward to the Jade Sovereign for final determination.
 
-Wéizhuo's office is staffed by the most competent administrative spirits in the celestial hierarchy. The **Téng Wòzhuo** (Celestial Marshals) serve as her enforcement arm, carrying out directives from any bureau and empowered to compel cooperation from reluctant spirits. The **Zhīwō** (Star Registry Clerks) maintain the celestial charts and calendrical records, ensuring that the coordination between the Bureau of Storms, the Bureau of Transit, and the Bureau of Creation does not produce scheduling conflicts that cascade into unraveling.
+Wéizhuo's office is staffed by the most competent administrative spirits in the celestial hierarchy. The **Teng Wozhuo** (Celestial Marshals) serve as her enforcement arm, carrying out directives from any bureau and empowered to compel cooperation from reluctant spirits. The **Zhiwo** (Star Registry Clerks) maintain the celestial charts and calendrical records, ensuring that the coordination between the Bureau of Storms, the Bureau of Transit, and the Bureau of Creation does not produce scheduling conflicts that cascade into unraveling.
 
 ### Mortal Engagement
 
-The average mortal never petitions Wéizhuo directly. Her office handles only the most unusual cases: petitions that do not fit within the classifications of any substantive bureau, requests for reclassification, and appeals of rulings from lower levels that allege procedural error (not substantive unfairness—the concept of substantive unfairness does not exist in the Tāntsou legal framework).
+The average mortal never petitions Wéizhuo directly. Her office handles only the most unusual cases: petitions that do not fit within the classifications of any substantive bureau, requests for reclassification, and appeals of rulings from lower levels that allege procedural error (not substantive unfairness—the concept of substantive unfairness does not exist in the Tantsou legal framework).
 
 A merchant whose shipment was mysteriously delayed, if they can prove the delay violated established transit schedules, might petition the Bureau of Transit's overseer for recompense. If that overseer denies the petition on grounds that the shipment was assessed a spiritual debt and therefore the delay was justified, the merchant's only recourse is to appeal to the Supreme Administrative Court, arguing that the assessment violated established precedent for debt-collection procedures. The appeal will be processed slowly and methodically. Wéizhuo's office does not prioritize urgency; it prioritizes consistency.
 
 Temples devoted to the Jade Sovereign are rarely crowded. The faithful who come do not pray for blessings or mercy—they come to study precedent, to have their documents witnessed and sealed by official witnesses, and to file formal records of contracts and oaths that require celestial notarization. A merchant who wishes to guarantee that a contract will be honored even after her death will take it to a Temple of the Jade Sovereign, pay the appropriate fees, and have the document burned in the ritual offering. The transmitted record will be stored in Wéizhuo's registry, and every spirit who considers interfering with the contract will be able to verify that the terms are registered with the Supreme Administrative Court itself.
 
-This is the closest thing the celestial order offers to justice: not fairness, but _consistency_. The Tāntsou have made peace with the distinction.
+This is the closest thing the celestial order offers to justice: not fairness, but _consistency_. The Tantsou have made peace with the distinction.
 
 ### See Also
 
-- [[affiliation-tengwouronglei|Téngwou Rong Léi]]—The Celestial Bureaucracy
+- [[affiliation-tengwouronglei|Téngwou Rong Lei]]—The Celestial Bureaucracy
 - [[lore-clstlpnthn|Celestial Pantheon]]—Other celestial officials
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—The mortal realm organized in Wéizhuo's image
+- [[affiliation-tantsouempr|Empire of Tantsou]]—The mortal realm organized in Wéizhuo's image

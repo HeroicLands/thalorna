@@ -1,9 +1,9 @@
 ---
 shortcode: kezvunenanom
-name: {full: Kezvûnéna Nomismákit, aliases: [Advocate Kezvûnéna Nomismákit]}
+name: {full: Kezvunena Nomismakit, aliases: [Advocate Kezvunena Nomismakit]}
 type: being
 subType: npc
-description: The most feared litigant in the Byzarian League's commercial courts, to whom Nômasáhr Paraklávos was apprenticed.
+description: The most feared litigant in the Bizarian League's commercial courts, to whom Nomasáhr Paraklavos was apprenticed.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kezvûnéna Nomismákit is a 60-year-old woman who stands 6'1" tall with a medium build. She has golden skin, sun-kissed complexion, brown hair, and brown eyes.
+Kezvunena Nomismakit is a 60-year-old woman who stands 6'1" tall with a medium build. She has golden skin, sun-kissed complexion, brown hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Kezvûnéna Nomismákit is the most feared litigant in the commercial courts of the Byzarian League. She was a harsh but brilliant master to [[being-nmshrprklvs|Nômasáhr Paraklávos]], who was apprenticed to her in the arts of argumentation, negotiation and commercial law.
+Kezvunena Nomismakit is the most feared litigant in the commercial courts of the Bizarian League. She was a harsh but brilliant master to [[being-nmshrprklvs|Nomasáhr Paraklavos]], who was apprenticed to her in the arts of argumentation, negotiation and commercial law.

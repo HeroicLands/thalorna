@@ -1,6 +1,6 @@
 ---
 shortcode: aravesta
-name: {full: "Ritual: Árávēštä", aliases: [The Golden Giver]}
+name: {full: "Ritual: Aravesta", aliases: [The Golden Giver]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-aravesta|Faith of Árávēštä]]
+See [[affiliation-aravesta|Faith of Aravesta]]

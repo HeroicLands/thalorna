@@ -63,7 +63,7 @@ data:
       unresolved:
         - where the mounts were housed, the galleries under Arvel being rooms for men and a chest
         - whether the ancestor pool will still receive what is held, after more than ten centuries out of it
-        - where the one binding went that the Recensio's count came up short of
+        - where the one binding went that the Therona's count came up short of
 ---
 
 The account that follows holds that the dragons were real, and the question it answers is not what they were but _what Vylaria had of theirs_. Dragons are mortal, material and sapient, the destabilization of magic is a property of

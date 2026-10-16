@@ -1,6 +1,6 @@
 ---
 shortcode: azravan
-name: {full: "Ritual: Ázráván", aliases: [Lord of the Final Horizon]}
+name: {full: "Ritual: Azravan", aliases: [Lord of the Final Horizon]}
 type: skill
 subType: mystical
 tags: [ashalan, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-azravan|Faith of Ázráván]]
+See [[affiliation-azravan|Faith of Azravan]]

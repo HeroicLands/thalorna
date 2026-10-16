@@ -1,8 +1,8 @@
 ---
 shortcode: tsolden
-name: {full: Tarûzelian Solden, aliases: []}
+name: {full: Taruzelian Solden, aliases: []}
 type: miscgear
-description: "Confederation gold coin of the Merâzûnî; slightly underweight against the imperial standard."
+description: "Confederation gold coin of the Merazuni; slightly underweight against the imperial standard."
 tags: [jewelry_cash]
 data: {icon: icon-coinsbdg, templatePriority: 0, packFolder: cash}
 sohl:
@@ -11,6 +11,6 @@ sohl:
   system: {weightBase: 0.0307, valueBase: 149, qualityBase: 0, durabilityBase: 3}
 ---
 
-The Confederation's own gold issue, struck under the Merâzûnî rather than the imperial Tarmex, at the same nominal denomination structure as the coin it was modeled on.
+The Confederation's own gold issue, struck under the Merazuni rather than the imperial Tarmeks, at the same nominal denomination structure as the coin it was modeled on.
 
-By imperial assay it is about seven per cent short of the Vylarian gold content. Inside the Confederation the coin passes at its full nominal value and the shortfall is simply not discussed; at a border, where a Vylarian or Khelâthi moneylender assays the metal, it converts at the discount. The gap is acknowledged in cross-border dealing and advertised in none of it.
+By imperial assay it is about seven per cent short of the Vylarian gold content. Inside the Confederation the coin passes at its full nominal value and the shortfall is simply not discussed; at a border, where a Vylarian or Khelathi moneylender assays the metal, it converts at the discount. The gap is acknowledged in cross-border dealing and advertised in none of it.

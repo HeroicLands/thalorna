@@ -1,9 +1,9 @@
 ---
 shortcode: varelanebral
-name: {full: Vârêlâ Nêbrâlândis, aliases: [Bishop Vârêlâ]}
+name: {full: Varela Nebralandis, aliases: [Bishop Varela]}
 type: being
 subType: npc
-description: An ambitious bishop in the capital who has marked Rêvôthar Bàremzâtôr as a heretic in waiting.
+description: An ambitious bishop in the capital who has marked Revothar Baremzator as a heretic in waiting.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Vârêlâ Nêbrâlândis is a 48-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, weathered complexion, dark brown hair, and amber eyes.
+Varela Nebralandis is a 48-year-old woman who stands 5'9" tall with a medium build. She has tanned skin, weathered complexion, dark brown hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Vârêlâ Nêbrâlândis is an ambitious bishop in the capital. Vârêlâ has marked [[being-rvthrbrmztr|Rêvôthar Bàremzâtôr]] as a heretic in waiting and gathers evidence against him.
+Varela Nebralandis is an ambitious bishop in the capital. Varela has marked [[being-rvthrbrmztr|Revothar Baremzator]] as a heretic in waiting and gathers evidence against him.

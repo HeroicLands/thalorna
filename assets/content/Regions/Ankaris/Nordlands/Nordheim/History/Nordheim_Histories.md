@@ -15,11 +15,11 @@ no record of Nordheim's law or institutions.
 
 ## The Kingdom's Past
 
-Nordheim counts its kings from the hall at [[place-knalthstead|Knalthstead]], where the [[affiliation-kngdmnrdhm|Knalthidrokh]] have held the crown since the hall-lords of the western fjords first raised one of their own over the rest. [[affiliation-kngdmnrdhm|Svalthorv]], the first king the ting acclaimed, about 270, died on the strand of [[place-domsey|Dómsey]] at the first sitting in 287. His son [[affiliation-kngdmnrdhm|Snilthorv]] took the island's keeping in place of a wergild nobody else could pay, and every king of Nordheim since has convened the sittings by that right, as [[lore-nordfirstsit|The First Sitting on Dómsey]] tells. A quarrel over the succession of the fifth king opened the [[lore-nordkinwars|Kin-Wars]] with Malagna about 420, and two generations later [[affiliation-kngdmnrdhm|Thrildorv]] held the Nordheim shore of [[place-skalfvatn|Skalfvatn]] while the Malagnan host went through the ice in 466.
+Nordheim counts its kings from the hall at [[place-knalthstead|Knalthstead]], where the [[affiliation-kngdmnrdhm|Knalthidrok]] have held the crown since the hall-lords of the western fjords first raised one of their own over the rest. [[affiliation-kngdmnrdhm|Svalthorv]], the first king the ting acclaimed, about 270, died on the strand of [[place-domsey|Domsey]] at the first sitting in 287. His son [[affiliation-kngdmnrdhm|Snilthorv]] took the island's keeping in place of a wergild nobody else could pay, and every king of Nordheim since has convened the sittings by that right, as [[lore-nordfirstsit|The First Sitting on Domsey]] tells. A quarrel over the succession of the fifth king opened the [[lore-nordkinwars|Kin-Wars]] with Malagna about 420, and two generations later [[affiliation-kngdmnrdhm|Thrildorv]] held the Nordheim shore of [[place-skalfvatn|Skalfvatn]] while the Malagnan host went through the ice in 466.
 
-[[affiliation-kngdmnrdhm|Bruldmýl]] was king through the [[lore-threewinters|Three Winters]] of 512 to 514, and at the sitting of 518 he swore the oath told below. His son [[affiliation-kngdmnrdhm|Thraskmýl]] sent the hulls south the next spring ([[lore-southrnfleets|The Southern Fleets]]), and the church silver in the royal howes at Knalthstead came home with them. [[affiliation-kngdmnrdhm|Vruthorv]] sent the fleets of three kingdoms over the water in 660 and made the [[lore-stormveldtkn|Taking of Stormveld]], and the jarls who hold that plain are Nordheim kin.
+[[affiliation-kngdmnrdhm|Bruldmil]] was king through the [[lore-threewinters|Three Winters]] of 512 to 514, and at the sitting of 518 he swore the oath told below. His son [[affiliation-kngdmnrdhm|Thraskmil]] sent the hulls south the next spring ([[lore-southrnfleets|The Southern Fleets]]), and the church silver in the royal howes at Knalthstead came home with them. [[affiliation-kngdmnrdhm|Vruthorv]] sent the fleets of three kingdoms over the water in 660 and made the [[lore-stormveldtkn|Taking of Stormveld]], and the jarls who hold that plain are Nordheim kin.
 
-[[affiliation-kngdmnrdhm|Hvarnorv]], the present king, has reigned since 689. He is old, he has two grown grandsons and no named heir, and the sixty-third sitting is due at the next Sumarmál, with the land-taking at [[place-hrindstead|Hrindstead]] still unsettled behind him.
+[[affiliation-kngdmnrdhm|Hvarnorv]], the present king, has reigned since 689. He is old, he has two grown grandsons and no named heir, and the sixty-third sitting is due at the next Somarmál, with the land-taking at [[place-hrindstead|Hrindstead]] still unsettled behind him.
 
 ## The Three Winters
 
@@ -61,17 +61,17 @@ choice should be turned into an established charge against a living family.
 
 ## The Night-Rider of Raltholm
 
-The [[place-raltholm|Raltholm]] story begins with a hirdman's death, a thrall-woman accused of riding him in sleep, and
+The [[place-raltholm|Raltholm]] story begins with a hirvman's death, a thrall-woman accused of riding him in sleep, and
 a ting that would not condemn her on a dream. She later walked into the fjord. People still turn shoes
-outward and keep steel near the bed when they fear the _nóttreid_. Others say that a person in the
-hall wanted the hirdman dead and used the woman as an easy target. The telling leaves the sender, if
+outward and keep steel near the bed when they fear the _nottreid_. Others say that a person in the
+hall wanted the hirvman dead and used the woman as an easy target. The telling leaves the sender, if
 there was one, unnamed; it cannot undo the court's refusal to treat a dream as proof.
 
 ## The Mothers under the Stones
 
-At [[place-horgsvangr|Hörgsvangr]], women speak of the _hrúmsmódir_: mothers of the older clans laid beneath the stones. They
+At [[place-horgsvangr|Horgsvangr]], women speak of the _hrúmsmodir_: mothers of the older clans laid beneath the stones. They
 credit these dead with keeping a household's luck. The winter-night observance associated with them
-is kept among women, beyond the public rites of the godar. Men know that it is held but do not claim
+is kept among women, beyond the public rites of the gudar. Men know that it is held but do not claim
 to know what happens there. The belief says what the living ask of their foremothers; it does not
 settle whether every misfortune is a dead woman's judgment.
 
@@ -79,5 +79,5 @@ settle whether every misfortune is a dead woman's judgment.
 
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] · [[place-nordheim|Nordheim]]
 - [[lore-nordheimnclt|Nordheimn culture]] · [[lore-kinhalcrdt|Kin and Hall Credit]]
-- [[lore-domseycount|The Dómsey Count]]—the reckoning of the sittings and the ages of the north
+- [[lore-domseycount|The Domsey Count]]—the reckoning of the sittings and the ages of the north
 - [[lore-threewinters|The Three Winters]] · [[lore-nalthmrktkng|The Nalthmark Land-Taking]]

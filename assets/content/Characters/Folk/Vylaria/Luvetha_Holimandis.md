@@ -1,9 +1,9 @@
 ---
 shortcode: luvethaholim
-name: {full: Lûvêthâ Hôlimândis, aliases: []}
+name: {full: Luvetha Holimandis, aliases: []}
 type: being
 subType: npc
-description: The sister of Dómrithâs Vîshârdâs, who contracted the Withering and died of it.
+description: The sister of Dómrithas Vishardas, who contracted the Withering and died of it.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Lûvêthâ Hôlimândis is a 38-year-old woman who stands 5'8" tall with a medium build. She has light skin, smooth complexion, dark brown hair, and hazel eyes.
+Luvetha Holimandis is a 38-year-old woman who stands 5'8" tall with a medium build. She has light skin, smooth complexion, dark brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Lûvêthâ Hôlimândis was the beloved sister of [[being-dmrthsvshrds|Dómrithâs Vîshârdâs]]. Lûvêthâ contracted the Withering, an incurable disease that slowly transformed its victims into husks, and died of it. One of the notes on [[being-dmrthsvshrds|Dómrithâs Vîshârdâs]] has someone claiming to be Lûvêthâ appear alive and unchanged.
+Luvetha Holimandis was the beloved sister of [[being-dmrthsvshrds|Dómrithas Vishardas]]. Luvetha contracted the Withering, an incurable disease that slowly transformed its victims into husks, and died of it. One of the notes on [[being-dmrthsvshrds|Dómrithas Vishardas]] has someone claiming to be Luvetha appear alive and unchanged.

@@ -1,6 +1,6 @@
 ---
 shortcode: mkthsvnrds
-name: {full: Makîthos Vânardis, given: Makîthos, clan: Vânardis, aliases: []}
+name: {full: Makithos Vanardis, given: Makithos, clan: Vanardis, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -411,9 +411,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[mkthsvnrds|Makîthos Vânardis]]{float=top-left}
+![[mkthsvnrds|Makithos Vanardis]]{float=top-left}
 
-Makîthos stands 5'7" tall with a medium build. He has light tanned skin, black hair, and hazel eyes. His features include an oblong face, an aquiline nose, a pointed chin, a wide mouth, heavy brows, and angular cheeks. He has a scar on the right side of his face.
+Makithos stands 5'7" tall with a medium build. He has light tanned skin, black hair, and hazel eyes. His features include an oblong face, an aquiline nose, a pointed chin, a wide mouth, heavy brows, and angular cheeks. He has a scar on the right side of his face.
 
 # Dossier {#dossier}
 
@@ -421,29 +421,29 @@ Makîthos stands 5'7" tall with a medium build. He has light tanned skin, black 
 
 ### The Wanderer's Child
 
-Makîthos was born to a family of traveling performers—musicians, acrobats, and storytellers who moved from city to city across the Empire of Vylaria. Unlike his siblings, who found contentment in the transient performer's life, young Makîthos was haunted by a hunger for something deeper: to craft stories rather than only perform them, to shape language and emotion into compelling architecture. By his teenage years, he was composing pieces for his family's performances, demonstrating an uncommon gift for understanding human motivation and emotional truth. A visiting scholar from the capital saw one of his works and recognized genius; the scholar invited the promising youth to study in the city's prestigious Academy of Dramatic Arts.
+Makithos was born to a family of traveling performers—musicians, acrobats, and storytellers who moved from city to city across the Empire of Vylaria. Unlike his siblings, who found contentment in the transient performer's life, young Makithos was haunted by a hunger for something deeper: to craft stories rather than only perform them, to shape language and emotion into compelling architecture. By his teenage years, he was composing pieces for his family's performances, demonstrating an uncommon gift for understanding human motivation and emotional truth. A visiting scholar from the capital saw one of his works and recognized genius; the scholar invited the promising youth to study in the city's prestigious Academy of Dramatic Arts.
 
 ### The Path of Fire
 
-The Academy years were transformative and torturous. Makîthos threw himself into study with an intensity that alarmed his instructors—he seemed never to sleep, never satisfied, never willing to complete a work. His plays grew longer and more complex, layered with philosophical depth and linguistic precision that audiences found challenging and critics called incomprehensible. During a performance of his most ambitious work, "The Sovereign Burning," a theatrical accident during the finale consumed a portion of the set and scarred his face. Rather than retreat, Makîthos saw the scar as a mark of his devotion—physical proof of the fires of his art. He transformed it into a badge of authenticity, refused to have it treated properly, and emerged from the Academy as the most talented and most controversial artist the city had produced in a generation.
+The Academy years were transformative and torturous. Makithos threw himself into study with an intensity that alarmed his instructors—he seemed never to sleep, never satisfied, never willing to complete a work. His plays grew longer and more complex, layered with philosophical depth and linguistic precision that audiences found challenging and critics called incomprehensible. During a performance of his most ambitious work, "The Sovereign Burning," a theatrical accident during the finale consumed a portion of the set and scarred his face. Rather than retreat, Makithos saw the scar as a mark of his devotion—physical proof of the fires of his art. He transformed it into a badge of authenticity, refused to have it treated properly, and emerged from the Academy as the most talented and most controversial artist the city had produced in a generation.
 
 ### The Controversial Genius
 
-Now, at forty-one, Makîthos occupies a precarious position of fame and notoriety. His works are commissioned by the wealthiest patrons and performed at the grandest venues in the Empire's heart—yet critics remain divided, with as many voices condemning his "overwrought pretension" as praising his "peerless brilliance." He has trained a devoted coterie of actors who understand his vision and can perform his demanding scripts. He has also become infamous for his working methods: crushing schedules, impossible standards, demands for absolute commitment from collaborators, and willingness to completely overhaul a production mere days before premiere if something fails to achieve his vision. He has ruined several promising performers through his perfectionism, yet still commands loyalty from those who remain under his direction. His romantic life is volatile and brief; his work is his true passion and the source of both his greatest triumphs and his deepest anguish.
+Now, at forty-one, Makithos occupies a precarious position of fame and notoriety. His works are commissioned by the wealthiest patrons and performed at the grandest venues in the Empire's heart—yet critics remain divided, with as many voices condemning his "overwrought pretension" as praising his "peerless brilliance." He has trained a devoted coterie of actors who understand his vision and can perform his demanding scripts. He has also become infamous for his working methods: crushing schedules, impossible standards, demands for absolute commitment from collaborators, and willingness to completely overhaul a production mere days before premiere if something fails to achieve his vision. He has ruined several promising performers through his perfectionism, yet still commands loyalty from those who remain under his direction. His romantic life is volatile and brief; his work is his true passion and the source of both his greatest triumphs and his deepest anguish.
 
 ## Psyche
 
 ### Personality
 
-Makîthos is a man of passionate intensity held in barely controlled check by intellectual discipline. In conversation, he is articulate and charming, capable of holding a room's attention through the sheer force of his ideas and the eloquence of his expression. Yet the polish covers an almost manic energy—he moves restlessly, speaks with rapid intensity, and seems unable to prevent himself from analyzing every exchange as potential material for performance or dramatic structure. He is generous with those he deems worthy of his time, mentoring talented performers with real care for their growth. Toward critics, rivals, or those he judges artistically mediocre, he is dismissive to the point of cruelty. He experiences intense emotional swings, capable of great joy followed by devastating periods of self-doubt during which he locks himself away and refuses all company. His scar has become a defining feature of his persona—he touches it unconsciously when thinking deeply and frequently references it in self-deprecating humor.
+Makithos is a man of passionate intensity held in barely controlled check by intellectual discipline. In conversation, he is articulate and charming, capable of holding a room's attention through the sheer force of his ideas and the eloquence of his expression. Yet the polish covers an almost manic energy—he moves restlessly, speaks with rapid intensity, and seems unable to prevent himself from analyzing every exchange as potential material for performance or dramatic structure. He is generous with those he deems worthy of his time, mentoring talented performers with real care for their growth. Toward critics, rivals, or those he judges artistically mediocre, he is dismissive to the point of cruelty. He experiences intense emotional swings, capable of great joy followed by devastating periods of self-doubt during which he locks himself away and refuses all company. His scar has become a defining feature of his persona—he touches it unconsciously when thinking deeply and frequently references it in self-deprecating humor.
 
 ### Motivation
 
-Makîthos is driven by a vision of theater as the highest form of human artistic expression—capable of capturing and communicating truths about the human condition that no other medium can reach. He believes that compromise is betrayal of this sacred calling, and that to lower one's standards for any reason is to fail in fundamental duty to the art. Yet he is also desperately motivated by recognition and validation; his arrogance covers a persistent fear that his work, despite its complexity and brilliance, may ultimately be dismissed as incomprehensible pretension. He seeks to create a legacy—plays that will be performed for centuries, works that will define the age. He also harbors a desire, though one he would never admit, for personal connection and true love; his intense, demanding nature makes this almost impossible to achieve.
+Makithos is driven by a vision of theater as the highest form of human artistic expression—capable of capturing and communicating truths about the human condition that no other medium can reach. He believes that compromise is betrayal of this sacred calling, and that to lower one's standards for any reason is to fail in fundamental duty to the art. Yet he is also desperately motivated by recognition and validation; his arrogance covers a persistent fear that his work, despite its complexity and brilliance, may ultimately be dismissed as incomprehensible pretension. He seeks to create a legacy—plays that will be performed for centuries, works that will define the age. He also harbors a desire, though one he would never admit, for personal connection and true love; his intense, demanding nature makes this almost impossible to achieve.
 
 ### Strengths
 
-- **Creative Genius**: Makîthos's ability to craft layered, searching narratives and deploy language with exact control has no equal in the realm.
+- **Creative Genius**: Makithos's ability to craft layered, searching narratives and deploy language with exact control has no equal in the realm.
 - **Theatrical Performance**: As an actor himself, he possesses extraordinary stage presence and the ability to convey complex emotional states with minimal gesture or expression.
 - **Masterful Direction**: He can shape the performance of others with great skill, drawing out depths of emotion and authenticity through relentless coaching and demands for precision.
 - **Linguistic Virtuosity**: His command of language—including multiple dialects, poetic forms, and registers of speech—allows him to craft dialogue that rings true.
@@ -461,19 +461,19 @@ Makîthos is driven by a vision of theater as the highest form of human artistic
 
 ### Patrons
 
-Lady Prâmizâ Thêlvarândis
-: An immensely wealthy widow and patron of the arts who has championed Makîthos's work despite critical controversy, commissioning his most ambitious productions and providing financial stability.
+Lady Pramiza Thelvaris
+: An immensely wealthy widow and patron of the arts who has championed Makithos's work despite critical controversy, commissioning his most ambitious productions and providing financial stability.
 
 The Imperial Theater Company
-: The state-sanctioned theatrical institution, which despite tensions with Makîthos's nonconformity, regularly produces his works and provides him with resources and prestige.
+: The state-sanctioned theatrical institution, which despite tensions with Makithos's nonconformity, regularly produces his works and provides him with resources and prestige.
 
 ### Enemies
 
-Díthranôs the Savage
-: The city's most influential theater critic, whose scathing reviews of Makîthos's early works were instrumental in establishing the controversial reputation that has followed him; they share a complex relationship of mutual contempt.
+Díthranos the Savage
+: The city's most influential theater critic, whose scathing reviews of Makithos's early works were instrumental in establishing the controversial reputation that has followed him; they share a complex relationship of mutual contempt.
 
-Délgôs Vánarthes
-: A former collaborator and rival playwright whose prospects Makîthos effectively destroyed through public criticism and sabotage; Délgôs now works to undermine every project Makîthos attempts.
+Delgos Vánarthes
+: A former collaborator and rival playwright whose prospects Makithos effectively destroyed through public criticism and sabotage; Delgos now works to undermine every project Makithos attempts.
 
 ### Affiliations
 
@@ -484,16 +484,16 @@ The Writers' Guild
 : Member in good standing, though frequently at odds with the guild's standards and expectations.
 
 The Circle of Artistic Innovation
-: An informal collective of avant-garde artists and thinkers who view Makîthos as a central figure in reshaping the city's arts.
+: An informal collective of avant-garde artists and thinkers who view Makithos as a central figure in reshaping the city's arts.
 
 ## Plot Hooks
 
-1. **The Masterwork Commission**: The Imperial Court commissions Makîthos to create a theatrical work celebrating the Emperor's upcoming jubilee—an enormous honor with impossible requirements. The play must be completed in months, must satisfy both artistic integrity and political expectations, and must involve the participation of various court factions whose interests directly conflict. The party becomes entangled as Makîthos's assistants, investigators of backstage intrigue, and potentially the unwilling subjects of his dramatic experimentation. They discover that the commission itself is part of a larger political scheme, and that the play's success or failure will determine the course of imperial succession.
+1. **The Masterwork Commission**: The Imperial Court commissions Makithos to create a theatrical work celebrating the Emperor's upcoming jubilee—an enormous honor with impossible requirements. The play must be completed in months, must satisfy both artistic integrity and political expectations, and must involve the participation of various court factions whose interests directly conflict. The party becomes entangled as Makithos's assistants, investigators of backstage intrigue, and potentially the unwilling subjects of his dramatic experimentation. They discover that the commission itself is part of a larger political scheme, and that the play's success or failure will determine the course of imperial succession.
 
-2. **The Burned Manuscript**: The only copy of Makîthos's most ambitious work—a sweeping epic tragedy that represents the culmination of his artistic vision—is destroyed in a fire at his chambers. Whether the fire is accident or deliberate sabotage remains unclear. Devastated but determined, Makîthos becomes obsessed with reconstructing the work through the memories of those who have read portions of it and the scattered notes he has preserved. The party helps him gather fragments and reconstruct the manuscript while also investigating whether enemies deliberately destroyed his masterwork. In the process, they discover that the destroyed manuscript contained truths about the city's power structure that powerful people wanted suppressed.
+2. **The Burned Manuscript**: The only copy of Makithos's most ambitious work—a sweeping epic tragedy that represents the culmination of his artistic vision—is destroyed in a fire at his chambers. Whether the fire is accident or deliberate sabotage remains unclear. Devastated but determined, Makithos becomes obsessed with reconstructing the work through the memories of those who have read portions of it and the scattered notes he has preserved. The party helps him gather fragments and reconstruct the manuscript while also investigating whether enemies deliberately destroyed his masterwork. In the process, they discover that the destroyed manuscript contained truths about the city's power structure that powerful people wanted suppressed.
 
-3. **The Impossible Performance**: Makîthos creates a play so technically complex and emotionally demanding that no traditional theatrical company can mount it. He approaches the party (or characters the party recruits) to become his actors, offering generous compensation but demanding absolute commitment. As they rehearse, they discover that the play is more than art—it contains elements of real ritual magic, embedded within the script in ways Makîthos himself may not fully understand. The performance itself becomes dangerous, with each rehearsal bringing participants closer to a real transformation of the mind and actual magical consequence.
+3. **The Impossible Performance**: Makithos creates a play so technically complex and emotionally demanding that no traditional theatrical company can mount it. He approaches the party (or characters the party recruits) to become his actors, offering generous compensation but demanding absolute commitment. As they rehearse, they discover that the play is more than art—it contains elements of real ritual magic, embedded within the script in ways Makithos himself may not fully understand. The performance itself becomes dangerous, with each rehearsal bringing participants closer to a real transformation of the mind and actual magical consequence.
 
-4. **The Critic's Revenge**: Díthranôs the critic dies under mysterious circumstances, and evidence suggests Makîthos may be responsible. As the party investigates, they uncover a complex relationship between artist and critic far deeper than rivalry—perhaps a real friendship twisted by misunderstanding, or a collaboration that went tragically wrong. The resolution requires untangling truth from performance and determining whether Makîthos is guilty of murder or merely guilty of living a life so theatrical that any event becomes susceptible to dramatic reinterpretation.
+4. **The Critic's Revenge**: Díthranos the critic dies under mysterious circumstances, and evidence suggests Makithos may be responsible. As the party investigates, they uncover a complex relationship between artist and critic far deeper than rivalry—perhaps a real friendship twisted by misunderstanding, or a collaboration that went tragically wrong. The resolution requires untangling truth from performance and determining whether Makithos is guilty of murder or merely guilty of living a life so theatrical that any event becomes susceptible to dramatic reinterpretation.
 
-5. **The Actor's Curse**: One of Makîthos's most devoted performers begins to show signs of a disordered mind, unable to distinguish between the complex characters he performs and his own identity. As the condition worsens, other members of the theatrical company report similar experiences. Makîthos suspects that his plays have become so searching and emotionally demanding that they are damaging the minds of those who perform them. The party must investigate whether this is real danger or theatrical delusion, and whether the cure lies in a physician's care, in revising the plays, or in something more occult entirely.
+5. **The Actor's Curse**: One of Makithos's most devoted performers begins to show signs of a disordered mind, unable to distinguish between the complex characters he performs and his own identity. As the condition worsens, other members of the theatrical company report similar experiences. Makithos suspects that his plays have become so searching and emotionally demanding that they are damaging the minds of those who perform them. The party must investigate whether this is real danger or theatrical delusion, and whether the cure lies in a physician's care, in revising the plays, or in something more occult entirely.

@@ -1,9 +1,9 @@
 ---
 shortcode: suryagarha
-name: {full: Sūryagarha, aliases: []}
+name: {full: Suryagarha, aliases: []}
 type: place
 subType: settlement
-description: "The fortress-capital of Shikharālaya, built across the throat of Sūryadvāra—citadel, customs-house and caravanserai, full for two months of the year and garrisoned for twelve."
+description: "The fortress-capital of Shikharalaya, built across the throat of Suryadvara—citadel, customs-house and caravanserai, full for two months of the year and garrisoned for twelve."
 tags: [city, fortress, caravan, market, mountain]
 data:
   demonym: null
@@ -15,17 +15,17 @@ data:
   government: vindhyalay
 ---
 
-**Sūryagarha** (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-vindhyalay|Shikharālaya]] and stands across the throat of [[place-suryadvara|Sūryadvāra]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into [[place-vedyarargn|Vedyara]], that does not go beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
+**Suryagarha** (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-vindhyalay|Shikharalaya]] and stands across the throat of [[place-suryadvara|Suryadvara]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into [[place-vedyarargn|Vedyara]], that does not gho beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
 
 The site is a shelf of rock where the gorge narrows to something a wall can be thrown across, with the terraced valleys falling away south behind it and twenty days of ice above it to the fork. Everything the city eats comes up the terrace road. Everything it is rich from comes down the pass.
 
 ## The Citadel and the Two Halls
 
-The citadel is the oldest part and the smallest. It holds the Mahārāja's household, the treasury, the armory and the well, and a garrison that does not stand down when the pass shuts, because a pass that is shut to caravans is not shut to everyone.
+The citadel is the oldest part and the smallest. It holds the Maharava's household, the treasury, the armory and the well, and a garrison that does not stand down when the pass shuts, because a pass that is shut to caravans is not shut to everyone.
 
 Below it, inside the second wall, stand the two halls. The **Martial Council** meets in the larger, which is a hall in the highland manner—one room, a long fire-trench down the middle, and benches by clan seniority that have not been re-ordered in living memory and are argued about constantly. The **Priestly Court** meets in the smaller, which is a temple court with a hall attached and was built two centuries after the other. The distance between the two doors is about forty paces, and a great deal of the kingdom's business is done walking it. The larger was raised with the citadel under [[lore-passcharter|the Charter of the Pass-Road]], and the smaller when the ushtakas won their own voice about 260.
 
-The councils are sitting at the same time only in the open season, because the senior chieftains of the far valleys cannot reach the city in winter. What that means in practice is that questions the Priestly Court would rather settle alone get raised in the months when it can, and that a Mahārāja who wants a thing done without the chieftains has a window for it. Both councils know this. The present disagreement about who is to be acclaimed next has been running long enough that each side now schedules around the other.
+The councils are sitting at the same time only in the open season, because the senior chieftains of the far valleys cannot reach the city in winter. What that means in practice is that questions the Priestly Court would rather settle alone get raised in the months when it can, and that a Maharava who wants a thing done without the chieftains has a window for it. Both councils know this. The present disagreement about who is to be acclaimed next has been running long enough that each side now schedules around the other.
 
 ## The Customs-House
 
@@ -35,32 +35,32 @@ What is actually sold at the counter is not the duty. It is the pass-token, whic
 
 The house keeps its own tally of who crossed and when. So do [[place-pssshrines|the Pass-Shrines]] at the summit, whose register is not a customs document and is not sent down, and the two figures do not always agree. A clerk whose ledger has been set beside a shrine's register and found short does not get a second posting.
 
-The one thing the house does not weigh is the ore. Silver and lapis from [[place-slvrgorges|the Silver Gorges]] go out under leases the smithing clans make directly with [[affiliation-mrchntclctvvdyr|the Merchant Collective]], and the customs-house sees the prices afterward, in the Collective's own returns, at a point where nothing can be done about them. The crown collects on the road and not on the rock.
+The one thing the house does not weigh is the ore. Silver and lapis from [[place-slvrgorges|the Silver Gorges]] gho out under leases the smithing clans make directly with [[affiliation-mrchntclctvvdyr|the Merchant Collective]], and the customs-house sees the prices afterward, in the Collective's own returns, at a point where nothing can be done about them. The crown collects on the road and not on the rock.
 
 ## The Caravanserai
 
 Outside the second wall, filling the whole of the flat ground north of it, is the caravanserai: yards, stabling, fodder-stores, weighbridges, rope-walks, a smiths' row, and lodging enough for several thousand men and three times that many beasts.
 
-For two months of the year it is the busiest place in the northern highlands. Yak-trains come down off the ice and are broken down onto lowland beasts; lowland loads are broken down onto yaks and go up; [[affiliation-osketguides|Ösket]] fee-reckoners sit in hired rooms and are courted; and the money-changers, the escort captains, the insurers and the informers work the yards from first light. For the other ten months it is empty, swept, and let out as winter pasture, and a traveler who sees it then is looking at what a caravan city is when there are no caravans.
+For two months of the year it is the busiest place in the northern highlands. Yak-trains come down off the ice and are broken down onto lowland beasts; lowland loads are broken down onto yaks and gho up; [[affiliation-osketguides|Osket]] fee-reckoners sit in hired rooms and are courted; and the money-changers, the escort captains, the insurers and the informers work the yards from first light. For the other ten months it is empty, swept, and let out as winter pasture, and a traveler who sees it then is looking at what a caravan city is when there are no caravans.
 
 The city's own population does not change as much as the yards do. Forty thousand people live here year-round, and most of them are here to be ready for those two months: carters, packers, farriers, ropemakers, clerks, scribes, weighers, and the provisioners who feed the whole apparatus while it waits.
 
-## The Tāntsou Quarter
+## The Tantsou Quarter
 
-A [[place-tantsouregin|Tāntsou]] community has lived in Sūryagarha for centuries, come down by the north-eastern branch of the pass. It is a quarter of merchants and clerks with a way-station's establishment behind it, and it keeps its own script, its own account-books and its own year, which the customs-house has long since given up trying to make agree with anyone else's.
+A [[place-tantsouregin|Tantsou]] community has lived in Suryagarha for centuries, come down by the north-eastern branch of the pass. It is a quarter of merchants and clerks with a way-station's establishment behind it, and it keeps its own script, its own account-books and its own year, which the customs-house has long since given up trying to make agree with anyone else's.
 
-Every few decades an imperial envoy arrives, is received with great courtesy, and goes away again. Neither side has ever seriously tried to rule the other, and both are proud of it. What the quarter is actually worth to the kingdom is the standing correspondence: Sūryagarha hears what has happened on the far side of the wall months before anyone in the south does, and sells the knowing of it.
+Every few decades an imperial envoy arrives, is received with great courtesy, and goes away again. Neither side has ever seriously tried to rule the other, and both are proud of it. What the quarter is actually worth to the kingdom is the standing correspondence: Suryagarha hears what has happened on the far side of the wall months before anyone in the south does, and sells the knowing of it.
 
 ## The Terrace Road
 
 South of the city the road drops through the terraced valleys that feed it—rice and barley on the lower steps, sheep and goats and small mountain cattle above—and goes on down to the lowland market towns where the kingdom's grain, its cheap steel and its dried milk-curds change hands.
 
-It is an easy road and a well-kept one, and it is the reason Sūryagarha is a city rather than a fort. The crown's writ runs along it and along the pass-road above, and not much beyond either. Out in the side valleys the clan-chieftains govern, and a **Sāmanta** who has held a crossing against a winter raid comes to the city when it suits him and is received at the citadel with the honor due a senior ushtaka of the temples.
+It is an easy road and a well-kept one, and it is the reason Suryagarha is a city rather than a fort. The crown's writ runs along it and along the pass-road above, and not much beyond either. Out in the side valleys the clan-chieftains govern, and a **Samonta** who has held a crossing against a winter raid comes to the city when it suits him and is received at the citadel with the honor due a senior ushtaka of the temples.
 
 ## See Also
 
-- [[affiliation-vindhyalay|Shikharālaya]]—the kingdom seated here
-- [[place-vindhyalayaland|Shikharālaya]]—the land
-- [[place-suryadvara|Sūryadvāra]]—the pass the city stands across
-- [[place-pssshrines|The Pass-Shrines]] · [[affiliation-osketguides|The Ösket]] · [[place-slvrgorges|The Silver Gorges]]
-- [[place-oskhelt|Öskhelt]]—the Ösket village four days above the city
+- [[affiliation-vindhyalay|Shikharalaya]]—the kingdom seated here
+- [[place-vindhyalayaland|Shikharalaya]]—the land
+- [[place-suryadvara|Suryadvara]]—the pass the city stands across
+- [[place-pssshrines|The Pass-Shrines]] · [[affiliation-osketguides|The Osket]] · [[place-slvrgorges|The Silver Gorges]]
+- [[place-oskhelt|Oskhelt]]—the Osket village four days above the city

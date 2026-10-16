@@ -3,7 +3,7 @@ shortcode: firstfarmr
 name: {full: The Making of the First Farmers, aliases: [The Larder]}
 type: lore
 subType: history
-description: "Within a few centuries of their arrival the Khazári teach the peoples nearest their first holds to farm—water-works, drainage, terracing and the granary—because a hold needs a larder, and human civilization is what the knowledge became."
+description: "Within a few centuries of their arrival the Khazari teach the peoples nearest their first holds to farm—water-works, drainage, terracing and the granary—because a hold needs a larder, and human civilization is what the knowledge became."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -13,7 +13,7 @@ data:
       depth: world
       sources: [place-ankrscntnnt, lore-flkkhazar, lore-vardain, lore-pelwarpepl, lore-longnhrtnc]
       summary: >-
-        In the upland country around their first holds the Khazári teach the nearest peoples to farm—water-works, drainage, terracing, seed-storage, the granary. They are building a larder, not a civilization. The knowledge runs downhill into the river valleys over the centuries that follow, and every human agriculture on Thalorna descends from it.
+        In the upland country around their first holds the Khazari teach the nearest peoples to farm—water-works, drainage, terracing, seed-storage, the granary. They are building a larder, not a civilization. The knowledge runs downhill into the river valleys over the centuries that follow, and every human agriculture on Thalorna descends from it.
       standing: reconstructed
       where:
         locus: [place-worldthlrn]
@@ -51,16 +51,16 @@ data:
           agrees: disputes
       unresolved:
         - what became of the arrangements away from Aelwyth, every one of which has lapsed
-        - whether the Khazári took any interest at all in what the knowledge became
+        - whether the Khazari took any interest at all in what the knowledge became
         - the record dates this only as within a few centuries of the arrival
 ---
 
 **The Deep Folk could not feed themselves.** A hold grows nothing and cannot be supplied from outside—a people dependent on an outside larder can be starved by whoever holds the road, which the
-[[lore-flkkhazar|Khazári]] have never been willing to accept. They arrived into a world whose humans
+[[lore-flkkhazar|Khazari]] have never been willing to accept. They arrived into a world whose humans
 were hunter-gatherers, and hunter-gatherers cannot provision a hold.
 
 So in the uplands around their first holds they taught the nearest peoples to farm: water-works,
-drainage, terracing, seed-storage, the granary—precisely the crafts the Khazári are best at, and
+drainage, terracing, seed-storage, the granary—precisely the crafts the Khazari are best at, and
 precisely what turns thin mountain ground into a food supply.
 
 Nothing about this was a gift and nothing about it was intended as an uplift. They were building a

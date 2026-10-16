@@ -1,13 +1,13 @@
 ---
 shortcode: vowdevoteernk
-name: {full: Vow-Bound Devotee, aliases: ["Vratin"]}
+name: {full: Vow-Bound Devotee, aliases: ["Vretin"]}
 type: lore
 subType: law
 description: "Bound for life by a vow completed in the ordeal a god sets, in a devotion that confers no office."
 tags: []
 ---
 
-A woman comes to the door of a Mahājayan household and says she has finished the **Fair Measure**, a year of public weighing with no complaint of short weight from anyone. "You take her word," the keeper of the village shrine tells the householder's son, who has never met a **Vratin** and is wondering where the proof is kept. "There is no register. There is no priest who watched. If she says she is under vow, she is, and you receive her as you would a guest the god sent."
+A woman comes to the door of a Mahajayan household and says she has finished the **Fair Measure**, a year of public weighing with no complaint of short weight from anyone. "You take her word," the keeper of the village shrine tells the householder's son, who has never met a **Vretin** and is wondering where the proof is kept. "There is no register. There is no priest who watched. If she says she is under vow, she is, and you receive her as you would a guest the god sent."
 
 Bound for life by a vow completed in the ordeal a god sets, in a devotion that confers no office: that is the standing of a **Vow-Bound Devotee**.
 
@@ -23,7 +23,7 @@ The vow is never released, because no office holds the power to release it. A de
 
 ## Privileges
 
-The first privilege is the favor the ordeal was undertaken for, which is the point of the undertaking and is held to be the god's to grant or withhold. Beyond that, a Vratin is received as one in any household that honors the god, and is asked to perform the god's observance wherever a household wants it performed by someone bound.
+The first privilege is the favor the ordeal was undertaken for, which is the point of the undertaking and is held to be the god's to grant or withhold. Beyond that, a Vretin is received as one in any household that honors the god, and is asked to perform the god's observance wherever a household wants it performed by someone bound.
 
 ## Obligations
 
@@ -31,4 +31,4 @@ The obligation is the vow's own terms, for life, whatever those terms were. Wher
 
 ## See Also
 
-- [[affiliation-varakpnthn|Varnaka Pantheon]]—the gods whose ordeals confer the vow
+- [[affiliation-varakpnthn|Varnuka Pantheon]]—the gods whose ordeals confer the vow

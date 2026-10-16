@@ -8,11 +8,11 @@ tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-"I cannot tell you where your brother is," a völva says at a howe-wake to the household that has asked her. "I can tell you what the halls teach about the honored dead, and that is a different gift." What the halls teach concerns the **Valdrengir**, the honored dead gathered into the defending gods' halls to wait and train for [[lore-aldarlok|Aldarlok]].
+"I cannot tell you where your brother is," a velva says at a howe-wake to the household that has asked her. "I can tell you what the halls teach about the honored dead, and that is a different gift." What the halls teach concerns the **Valdrengir**, the honored dead gathered into the defending gods' halls to wait and train for [[lore-aldarlok|Aldarlok]].
 
-The Asguardian account names who is gathered: fallen warriors, oath-keepers who die keeping their word, mothers who die in childbirth, and craftsmen who fall defending their work. Their principal destinations are [[place-valsalhall|Ódvarshöll]] in [[place-valsal|Valsal]] and [[place-solvangrhall|Sólrúnshöll]] on [[place-solvangr|Sólvangr]]. In Valsal the warriors arm and fight each day, recover their wounds by evening and feast at the hall.
+The Asguardian account names who is gathered: fallen warriors, oath-keepers who die keeping their word, mothers who die in childbirth, and craftsmen who fall defending their work. Their principal destinations are [[place-valsalhall|Ódvarsholl]] in [[place-valsal|Valsal]] and [[place-solvangrhall|Sólrunsholl]] on [[place-solvangr|Solvangr]]. In Valsal the warriors arm and fight each day, recover their wounds by evening and feast at the hall.
 
-The standard telling musters the honored dead on [[place-vigvoll|Vígvöll]] beside the defending gods for a war they know is lost. Their willingness to gather is the faith's virtue of defiance, and the völva leaves it at that.
+The standard telling musters the honored dead on [[place-vigvoll|Vigvoll]] beside the defending gods for a war they know is lost. Their willingness to gather is the faith's virtue of defiance, and the velva leaves it at that.
 
 : The Muster of the Worthy
 
@@ -48,7 +48,7 @@ No gold on the wound
 need gild his going.
 He brought his own death;
 he borrowed no glory.
-Ódvarshöll opens;
+Ódvarsholl opens;
 the old fire welcomes.
 Hands find the board;
 the hall hears breathing.
@@ -94,7 +94,7 @@ The cradle has claim
 in the cry of the muster;
 the childbed has claim
 where courage is counted.
-Sólrún gives welcome;
+Solrún gives welcome;
 her gold hall gathers.
 There, by her measure,
 the mother is seated.
@@ -141,7 +141,7 @@ with no evening after.
 They learn for that day;
 they learn together.
 
-On Sólvangr, tables
+On Solvangr, tables
 stand bright with welcome.
 Worked timber glows;
 the gold is given.
@@ -149,9 +149,9 @@ The goddess appoints
 the guest his seating.
 Her welcome comes first;
 her questions follow.
-Ódvar keeps worth
+Odvar keeps worth
 in the place on the bench.
-Sólrún moves guests
+Solrún moves guests
 as her measure bids.
 Different their halls;
 one darkness approaches.
@@ -230,8 +230,8 @@ for a dawn like this.
 Companies pass;
 the cups stand empty.
 Valsal goes forth;
-Sólvangr follows.
-Vígvöll welcomes
+Solvangr follows.
+Vigvoll welcomes
 the feet of the worthy.
 Shield and sworn word,
 the cradle remembered;
@@ -242,13 +242,13 @@ alongside the gods.
 All honor knows
 that fire is coming.
 
-Ódvar goes forth
+Odvar goes forth
 where the Winter-Wolf waits.
-Thrúnvald goes forth
+Thrunvald goes forth
 where the World-Wyrm rises.
 Eidgar approaches
 his ancient adversary.
-Fródvin faces
+Frodvin faces
 Svartbrandr's fire blade.
 The dead do not bid
 the gods stand behind them.

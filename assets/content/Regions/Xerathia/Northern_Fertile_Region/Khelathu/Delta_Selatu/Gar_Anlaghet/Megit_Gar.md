@@ -25,4 +25,4 @@ The population is about 14,000, and the town is humbler and saltier than the cit
 
 - [[affiliation-selatgrnlght|The Selat of Gar-Anlaghet]]—Parent selat
 - [[place-garanlaghet|Gar-Anlaghet]]—The great port it serves
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview

@@ -1,6 +1,6 @@
 ---
 shortcode: gaheripmaaqu
-name: {full: Gaher Ipmaâqu, aliases: []}
+name: {full: Gaher Ipmaaku, aliases: []}
 type: being
 subType: npc
 description: "Father to a locksmith, of no particular distinction or wealth, who gave his son a trade and little else"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Gaher Ipmaâqu is a 50-year-old man who stands 6'2" tall with a heavy build. He has dark brown skin and brown eyes. His features include a bald head.
+Gaher Ipmaaku is a 50-year-old man who stands 6'2" tall with a heavy build. He has dark brown skin and brown eyes. His features include a bald head.
 
 # Dossier {#dossier}
 
-Gaher Ipmaâqu is father to a locksmith, home in [[place-galezkara|Galezkara]], without particular distinction or wealth of his own. What he gave his son was a trade, and little beyond it. The son's reputation, not the father's, is what the name now carries forward.
+Gaher Ipmaaku is father to a locksmith, home in [[place-galezkara|Galezkara]], without particular distinction or wealth of his own. What he gave his son was a trade, and little beyond it. The son's reputation, not the father's, is what the name now carries forward.

@@ -70,17 +70,17 @@ The Saelvri lived in the valleys and woods of Aelwyth's south-east, among the fo
 
 ## What the Knights Heard
 
-The stated reason was raiding, and the Order's knights, who were sent to answer raids, found little to support it. The knights heard others from the Synod's _mârendândoi_ (masters) and from one another: that the Saelvri held a thing the Synod wanted, that they had refused it and that they were dangerous for it. The accounts did not agree and none was confirmed. Most of the Order's Knight-Captains did their duty and have not spoken of it. One of them, [[being-toradhtaravren|Dame Toradh Taravren]], fought in the crusade as a decorated warrior of several campaigns and holds it contrary to the principles of the Order and of [[affiliation-ardavon|Árdavon]], the god it serves. She has said so to no one.
+The stated reason was raiding, and the Order's knights, who were sent to answer raids, found little to support it. The knights heard others from the Synod's _marendoi_ (masters) and from one another: that the Saelvri held a thing the Synod wanted, that they had refused it and that they were dangerous for it. The accounts did not agree and none was confirmed. Most of the Order's Knight-Captains did their duty and have not spoken of it. One of them, [[being-toradhtaravren|Dame Torad Taravren]], fought in the crusade as a decorated warrior of several campaigns and holds it contrary to the principles of the Order and of [[affiliation-ardavon|Árdavon]], the god it serves. She has said so to no one.
 
 ## The Wood
 
-The ground where the last of them fell is the [[place-hushwood|Hushwood]], the newest blood-field in Aurèldía. The Saelvri's own rite for their dead is unknown to the living, and their dead are not the Synod's to settle.
+The ground where the last of them fell is the [[place-hushwood|Hushwood]], the newest blood-field in Aureldia. The Saelvri's own rite for their dead is unknown to the living, and their dead are not the Synod's to settle.
 
 ## What It Left
 
 - **The Hushwood.** A blood-field in the south-eastern woods, forbidden by the Synod and avoided by the forest peoples.
 - **A nemesis in the records.** Dúnavarre's registers name the Saelvri an enemy and say no more.
-- **A Knight-Captain's secret.** Dame Toradh Taravren's conscience, which the Order does not know it has.
+- **A Knight-Captain's secret.** Dame Torad Taravren's conscience, which the Order does not know it has.
 - **A question the Synod cannot answer.** What the Saelvri kept, and who still wants it.
 
 ## See Also

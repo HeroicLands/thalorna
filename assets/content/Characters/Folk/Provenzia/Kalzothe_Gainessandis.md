@@ -1,9 +1,9 @@
 ---
 shortcode: kalzothegain
-name: {full: Kalzòthe Gainessandìs, aliases: [Captain Kalzòthe]}
+name: {full: Kalzote Gainessis, aliases: [Captain Kalzote]}
 type: being
 subType: npc
-description: The cruel captain of the road bandits of Thornwood, who has a taste for horses, named in Chorvàn Jarlèn.
+description: The cruel captain of the road bandits of Thornwood, who has a taste for horses, named in Chorvan Jarlen.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Kalzòthe Gainessandìs is a 39-year-old man who stands 5'9" tall with a medium build. He has olive skin, smooth complexion, brown hair, and blue eyes.
+Kalzote Gainessis is a 39-year-old man who stands 5'9" tall with a medium build. He has olive skin, smooth complexion, brown hair, and blue eyes.
 
 # Dossier {#dossier}
 
-Kalzòthe Gainessandìs is the cruel captain of the road bandits of Thornwood, who have attempted more than once to steal the valuable horses stabled at the Traveler's Rest Inn. [[being-kjrvngjrln|Chorvàn Jarlèn]] has helped to recover the stolen animals.
+Kalzote Gainessis is the cruel captain of the road bandits of Thornwood, who have attempted more than once to steal the valuable horses stabled at the Traveler's Rest Inn. [[being-kjrvngjrln|Chorvan Jarlen]] has helped to recover the stolen animals.

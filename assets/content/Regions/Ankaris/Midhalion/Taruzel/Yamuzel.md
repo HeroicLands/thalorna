@@ -1,12 +1,12 @@
 ---
 shortcode: yamuzel
-name: {full: Yamûzel, aliases: []}
+name: {full: Yamuzel, aliases: []}
 type: affiliation
 subType: polity
-description: "Naval stronghold of the Confederation of Tarûzelian States on the narrows between the Tarûzelian islands—fortress-city whose admirals command the confederation's most powerful warships."
+description: "Naval stronghold of the Confederation of Taruzelian States on the narrows between the Taruzelian islands—fortress-city whose admirals command the confederation's most powerful warships."
 data:
   templatePriority: null
-  demonym: Tarûzelian
+  demonym: Taruzelian
   epithet: null
   symbol: null
   governance:
@@ -70,27 +70,27 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-In Yamûzel a family's standing is counted in ships commanded and battles won. The city built the fleet that won the Battle of [[place-tamzirshoals|Tamzîr Shoals]], and it is military as much as mercantile: its admirals command the [[affiliation-cnfdrtntrzlnstts|Confederation's]] most powerful warships, and its marine infantry are the nearest thing Tarûzel has to a professional standing army. The city-state holds the fortified city of [[place-yamuzel2|Yamûzel]] on the narrows between the Tarûzelian islands, and some 2.2 million people.
+In Yamuzel a family's standing is counted in ships commanded and battles won. The city built the fleet that won the Battle of [[place-tamzirshoals|Tamzir Shoals]], and it is military as much as mercantile: its admirals command the [[affiliation-cnfdrtntrzlnstts|Confederation's]] most powerful warships, and its marine infantry are the nearest thing Taruzel has to a professional standing army. The city-state holds the fortified city of [[place-yamuzel2|Yamuzel]] on the narrows between the Taruzelian islands, and some 2.2 million people.
 
 ## Who Decides
 
 The great families are admirals' families, and the **Admiral's Council** that governs the city is drawn heavily from them. The city's festivals turn on martial display rather than commercial spectacle, and the greatest of them, the annual **Fleet Review** in memory of the Shoals, draws visitors from across the Confederation.
 
-The council's forms are the ones every Tarûzelian city shares—a First of the Council holding the seal for his term, councilors seated by the weight of their houses, a Harbormaster over the port—but in Yamûzel the house behind a councilor is usually a naval one, where in [[affiliation-besikar|Besîkar]] it is a banking or trading one. The [[affiliation-corsairleg|Corsair League]] has its strongest roots here.
+The council's forms are the ones every Taruzelian city shares—a First of the Council holding the seal for his term, councilors seated by the weight of their houses, a Harbormaster over the port—but in Yamuzel the house behind a councilor is usually a naval one, where in [[affiliation-besikar|Besikar]] it is a banking or trading one. The [[affiliation-corsairleg|Corsair League]] has its strongest roots here.
 
 ## The Veterans
 
-Yamûzel's population includes a large community of war veterans: sailors and marines from the war of independence who settled here afterward. They fought for Tarûzelian freedom and were promised land, status and guild membership, and none of it was honored. They are a politically potent group, and a more frustrated one every year. The [[affiliation-auricompct|Auric Compact]] and the other great guilds regard them as a nuisance, and the veterans regard the guilds as traitors to a cause the guilds financed and never bled for.
+Yamuzel's population includes a large community of war veterans: sailors and marines from the war of independence who settled here afterward. They fought for Taruzelian freedom and were promised land, status and guild membership, and none of it was honored. They are a politically potent group, and a more frustrated one every year. The [[affiliation-auricompct|Auric Compact]] and the other great guilds regard them as a nuisance, and the veterans regard the guilds as traitors to a cause the guilds financed and never bled for.
 
-That is why Yamûzel is the city where the captain of the [[affiliation-thetamzir|Tamzîr]] has the most connections, and the most enemies.
+That is why Yamuzel is the city where the captain of the [[affiliation-thetamzir|Tamzir]] has the most connections, and the most enemies.
 
 ## Commerce and Currency
 
-The yards and the fleet are paid in the [[lore-trzlncrncy|Tarûzelian currency]], administered through the **Merâzûnî** of the [[affiliation-vezakuni|Vezâkûnî]]. It keeps the Vylarian denominations (Solden, Ardin and Bit), backed by Tarûzelian reserves rather than the Vylarian [[affiliation-tarmex|Tarmex Orzan]], with an Solden slightly underweight by the Vylarian standard. Merâzûnî-affiliated moneylenders handle the banking. Vylarian script is not honored in Yamûzel, and Tarûzelian script is not honored in Vylarian territory.
+The yards and the fleet are paid in the [[lore-trzlncrncy|Taruzelian currency]], administered through the **Merazuni** of the [[affiliation-vezakuni|Vezakuni]]. It keeps the Vylarian denominations (Solden, Ardin and Bit), backed by Taruzelian reserves rather than the Vylarian [[affiliation-tarmex|Tarmeks Orzan]], with an Solden slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders handle the banking. Vylarian script is not honored in Yamuzel, and Taruzelian script is not honored in Vylarian territory.
 
 ## See Also
 
-- [[place-yamuzel2|Yamûzel]]—the city itself
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the parent polity
+- [[place-yamuzel2|Yamuzel]]—the city itself
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]—the parent polity
 - [[affiliation-corsairleg|Corsair League]]—the guild with the strongest roots here
-- [[affiliation-besikar|Besîkar]], [[affiliation-qudumel|Qudûmel]], [[affiliation-bazunel|Bazûnel]], [[affiliation-sazumun|Sazûmun]]—the sister city-states
+- [[affiliation-besikar|Besikar]], [[affiliation-qudumel|Kudumel]], [[affiliation-bazunel|Bazunel]], [[affiliation-sazumun|Sazumun]]—the sister city-states

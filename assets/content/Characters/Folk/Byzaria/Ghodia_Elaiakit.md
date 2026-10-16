@@ -1,9 +1,9 @@
 ---
 shortcode: ghodiaelaiak
-name: {full: Ghodîa Elaiákit, aliases: [Lady Ghodîa Elaiákit]}
+name: {full: Ghodia Elaiakit, aliases: [Lady Ghodia Elaiakit]}
 type: being
 subType: npc
-description: A wealthy widow and patron of the arts who is Krênéze Vokoghis's most consistent and generous patron.
+description: A wealthy widow and patron of the arts who is Kreneze Vokoghis's most consistent and generous patron.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Ghodîa Elaiákit is a 58-year-old woman who stands 6'0" tall with a light build. She has tanned skin, sun-kissed complexion, black hair, and green eyes.
+Ghodia Elaiakit is a 58-year-old woman who stands 6'0" tall with a light build. She has tanned skin, sun-kissed complexion, black hair, and green eyes.
 
 # Dossier {#dossier}
 
-Ghodîa Elaiákit is a wealthy widow and patron of the arts. She is the most consistent and generous patron of [[being-krnzmrksns|Krênéze Vokoghis]].
+Ghodia Elaiakit is a wealthy widow and patron of the arts. She is the most consistent and generous patron of [[being-krnzmrksns|Kreneze Vokoghis]].

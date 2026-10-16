@@ -1,9 +1,9 @@
 ---
 shortcode: tarikatamrak
-name: {full: Tarīka Tamrāksha, aliases: [Overseer Tarīka]}
+name: {full: Tarvika Tamraksha, aliases: [Overseer Tarvika]}
 type: being
 subType: npc
-description: A ruthless administrator dispatched by the Merchant Collective to increase profits, named in Shilāvīra Vidyāsāgaramandala.
+description: A ruthless administrator dispatched by the Merchant Collective to increase profits, named in Shilavira Vidyasagaramandala.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Tarīka Tamrāksha is a 44-year-old woman who stands 5'6" tall with a medium build. She has golden skin, clear complexion, black hair, and dark brown eyes.
+Tarvika Tamraksha is a 44-year-old woman who stands 5'6" tall with a medium build. She has golden skin, clear complexion, black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Tarīka Tamrāksha is an overseer, a ruthless administrator dispatched by the Merchant Collective to increase profits. She views safety measures as unnecessary expense and has repeatedly overridden the safety recommendations of [[being-vshnshvdysgrml|Shilāvīra Vidyāsāgaramandala]], creating dangerous conditions and tension between them.
+Tarvika Tamraksha is an overseer, a ruthless administrator dispatched by the Merchant Collective to increase profits. She views safety measures as unnecessary expense and has repeatedly overridden the safety recommendations of [[being-vshnshvdysgrml|Shilavira Vidyasagaramandala]], creating dangerous conditions and tension between them.

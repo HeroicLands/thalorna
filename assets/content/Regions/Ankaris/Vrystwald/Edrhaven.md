@@ -28,4 +28,4 @@ The Other Chief holds the strongest of the village's three seats, but the other 
 
 - [[place-edrwald|Edrwald]]—the reach around the village
 - [[place-arnstein|Arnstein]] and [[place-eichholt|Eichholt]]—neighboring villages reached by forest tracks
-- [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—the wider web of independent villages
+- [[affiliation-vrystwldtrbs|Vristwald Tribes]]—the wider web of independent villages

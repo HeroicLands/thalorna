@@ -3,12 +3,12 @@ shortcode: unaccordedrnk
 name: {full: "Unaccorded", aliases: []}
 type: lore
 subType: law
-description: "Withheld the Aulirarno's accord, in the faith of Bjartr."
+description: "Withheld the Aulirarno's accord, in the faith of Bjart."
 tags: []
 data: {culture: nordheimnclt}
 ---
 
-The faith of Bjartr has no officer who pronounces an expulsion, because no single [[lore-calathirrnk|Ansorunno]] presides over the **Aulirarno**. When the council will not reach accord on a man, its silence toward him does the work.
+The faith of Bjart has no officer who pronounces an expulsion, because no single [[lore-calathirrnk|Ansorun]] presides over the **Aulirarno**. When the council will not reach accord on a man, its silence toward him does the work.
 
 ## What This Standing Is
 
@@ -16,7 +16,7 @@ The Aulirarno, the faith's council of radiance, speaks until it reaches accord o
 
 ## How the Law Treats a Person Here
 
-He is refused what the Aulirarno's accord would confer: no Ansorunno will entrust him with the rites, the faithful, or a sacred place, and the council's silence toward him stands in place of any expulsion a presiding officer might otherwise pronounce.
+He is refused what the Aulirarno's accord would confer: no Ansorun will entrust him with the rites, the faithful, or a sacred place, and the council's silence toward him stands in place of any expulsion a presiding officer might otherwise pronounce.
 
 ## Privileges
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The [[affiliation-bjartr|Faith of Bjartr]] alone.
+The [[affiliation-bjartr|Faith of Bjart]] alone.

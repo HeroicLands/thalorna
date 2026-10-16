@@ -3,7 +3,7 @@ shortcode: terracemsrs
 name: {full: The Measures of the Terraces, aliases: [The Measures]}
 type: lore
 subType: literature
-description: "The highland poet Órashis's poem to his brother: the Unmeasured before the world, the Twelve's first assembly and the eleven stones cast for measure, the stone the Wild Beast threw that is falling still, the threads of mortals spun last and given a length and a voice, and then the year of the olive terrace, the wall, the press and the sailing season, ending on a question about the world's end that the poet declines to answer."
+description: "The highland poet Órasis's poem to his brother: the Unmeasured before the world, the Twelve's first assembly and the eleven stones cast for measure, the stone the Wild Beast threw that is falling still, the threads of mortals spun last and given a length and a voice, and then the year of the olive terrace, the wall, the press and the sailing season, ending on a question about the world's end that the poet declines to answer."
 tags: [draft, helionis]
 data:
   culture: helioniteclt
@@ -23,11 +23,11 @@ data:
 # terran_analog: "Hesiod's Theogony and Works and Days, for the farmer-poet of the hill country who tells how the gods came to be and then turns to a brother who wasted his inheritance at law, with the farming year, the sailing season and the lucky days; the Presocratics' question of what came before measure; and the Athenian vote with pebbles cast into an urn."
 ---
 
-**The Measures of the Terraces** is the poem of **Órashis**, a farmer of the interior highlands of [[place-helionis|Heliónis]], and it is the oldest poem the schools read that has an author's name on it. It is in the long line of the rhapsodes, and in the highland speech that keeps older words for the olive terrace and the spring than the cities do; a Thyrenaean schoolmaster teaching it stops at every second line to say what a word means. The highland villages recite it at the olive harvest, a verse to a basket, and the schools of the cities read it after the Song of the Ships as the second book a boy learns.
+**The Measures of the Terraces** is the poem of **Órasis**, a farmer of the interior highlands of [[place-helionis|Helionis]], and it is the oldest poem the schools read that has an author's name on it. It is in the long line of the rhapsodes, and in the highland speech that keeps older words for the olive terrace and the spring than the cities do; a Thirenaean schoolmaster teaching it stops at every second line to say what a word means. The highland villages recite it at the olive harvest, a verse to a basket, and the schools of the cities read it after the Song of the Ships as the second book a boy learns.
 
-It is two poems joined at a seam. The first tells how the world came to be measured: before it was the Unmeasured, which had no length, no weight and no hour, and the Twelve of the [[affiliation-arldnpnthn|Aurèldían pantheon]] held the first assembly in it, argued and voted with stones, and eleven stones were cast for measure. [[lore-karnavosdty|Karnavos]], the Wild Beast, threw his stone into the Unmeasured and it has not landed. The second poem is addressed to the poet's brother **Euthálos**, who took their father's terraces to law and lost them to the advocates, and it gives him the year of the terrace instead: the wall, the harvest, the press, the season when the sea may be sailed and the season when it may not.
+It is two poems joined at a seam. The first tells how the world came to be measured: before it was the Unmeasured, which had no length, no weight and no hour, and the Twelve of the [[affiliation-arldnpnthn|Aureldian pantheon]] held the first assembly in it, argued and voted with stones, and eleven stones were cast for measure. [[lore-karnavosdty|Karnavos]], the Wild Beast, threw his stone into the Unmeasured and it has not landed. The second poem is addressed to the poet's brother **Euthalos**, who took their father's terraces to law and lost them to the advocates, and it gives him the year of the terrace instead: the wall, the harvest, the press, the season when the sea may be sailed and the season when it may not.
 
-The schools have argued with the first half since there have been schools. Its gods quarrel, bargain and cast stones like citizens, and the College of Ethics at [[affiliation-thyrenae|Thyrenae]] opens its first course by reading the assembly of the gods aloud and asking the students what is wrong with it. The second half no one argues with. The poem's account of the gods' assembly answers to the eastern rite's account of the gods' first terms, in which eleven gods seal the book of the world and the Wild Beast leaves his place empty, and each land holds the other's version a misreading of its own.
+The schools have argued with the first half since there have been schools. Its gods quarrel, bargain and cast stones like citizens, and the College of Ethics at [[affiliation-thyrenae|Thirenae]] opens its first course by reading the assembly of the gods aloud and asking the students what is wrong with it. The second half no one argues with. The poem's account of the gods' assembly answers to the eastern rite's account of the gods' first terms, in which eleven gods seal the book of the world and the Wild Beast leaves his place empty, and each land holds the other's version a misreading of its own.
 
 : The Measures of the Terraces {#poem}
 
@@ -36,7 +36,7 @@ Weaver at the wheel, and you, Keeper of the book with the stars around it,
 I am a man of the high terraces, and I have no learning but the year,
 and I will sing the year, and before the year the thing that made it,
 the measure, and how the measure came, and who was there, and who was not.
-And you, Euthálos, my brother, whom our father named for his hope of you,
+And you, Euthalos, my brother, whom our father named for his hope of you,
 listen to this, and stop listening to the men in the city with the long sleeves.
 
 Before the world there was the Unmeasured, and I will tell you what it was.
@@ -68,7 +68,7 @@ And the Silent Judge was there, and was silent, and nothing came to him.
 Then the Keeper of Sacred Wisdom spoke, the first word, and the word was a question,
 for she is the one who asks, and the cities that keep her ask still.
 She said: "We cannot go on like this. Shall we have a measure, or shall we not?"
-That was the first word. Mark it, Euthálos. It was not a command. It was a motion.
+That was the first word. Mark it, Euthalos. It was not a command. It was a motion.
 
 And the gods argued. They argued the way the old men argue in the assembly,
 when the price of oil is down and the levy is called and nobody wants to go,
@@ -91,7 +91,7 @@ and the Keeper of the Gates poured out the jar and counted them,
 and eleven stones were white. Eleven. And there was no black stone in the jar.
 For the Wild Beast had taken his stone, the black one, and had not cast it,
 but turned and threw it out into the Unmeasured as hard as he could throw,
-and it is falling still, Euthálos. It has not landed. It will not land.
+and it is falling still, Euthalos. It has not landed. It will not land.
 That is why there is a margin to the world where the measure does not reach,
 the wood beyond the last terrace, the wolf, the hail in the month of the harvest,
 the fever that takes the strong boy and leaves the old man coughing.
@@ -129,7 +129,7 @@ so that the mortals could do what the gods had done, and hold an assembly,
 and put a thing to the stones, and count them, and say the count aloud.
 The ox has no assembly. The wolf has none. They were in the fog when the stones were cast.
 We have one, because the world was voted, and we are the world's own.
-So much for the gods, Euthálos. The schools will tell you I have it wrong.
+So much for the gods, Euthalos. The schools will tell you I have it wrong.
 Let them. Now listen to the other thing, for the other thing will feed you.
 
 You took our father's terraces to the city, and the men with the long sleeves
@@ -172,7 +172,7 @@ An olive that waits a day goes sour, as a quarrel goes sour that waits a year.
 The first pressing is for the gods and the second is for the house and the third is for the lamp.
 
 Honor the gods. Give them the first pressing and the first fruit and the first kid.
-But speak to them as a man, Euthálos, not as a slave to a master.
+But speak to them as a man, Euthalos, not as a slave to a master.
 When the Bountiful One gives you a bad year, tell her so at her altar.
 Say: I gave you the first pressing and you gave me hail. What is the meaning of this?
 She will not answer. They do not answer. But she will have heard it said,
@@ -211,7 +211,7 @@ and your friend will say who you were, and they will lay you by our father.
 So fall well, if you fall. Fall facing the way the line faced. Fall where they can find you.
 A man who dies running dies in the brush, and the herald looks for him a long time.
 But I would rather you came home. The terrace needs a man and the wall needs mending.
-Come home, Euthálos. There is no glory on the steep terrace. There is oil.
+Come home, Euthalos. There is no glory on the steep terrace. There is oil.
 
 Of the days of the moon: the first day is for beginning a wall.
 The fifth day is a bad day, for the Wild Beast's stone went past the moon on the fifth.
@@ -221,7 +221,7 @@ The twelfth day is for the gods, all twelve, and on that day a man does no work
 but goes to the altar, and to the assembly if there is one, and argues there.
 The last day of the moon is the Mistress's. Pick nothing on it. Throw nothing out.
 
-You will ask me, Euthálos, because you went to the city and learned to ask,
+You will ask me, Euthalos, because you went to the city and learned to ask,
 how it ends, the world that was measured. The schools ask me that too.
 I will tell you what I know, and it is little, and then I will stop.
 The world has a length, as you do. The Weaver cut it. So it ends.
@@ -237,8 +237,8 @@ I am going up to the wall, my brother. Come, if you are coming. Bring the basket
 
 ## See Also
 
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the Twelve, named here by their epithets
-- [[lore-lusiniadty|Lúsinía]], [[lore-marendasdty|Mârendâs]] and [[lore-ardavondty|Árdavon]]—the Weaver, the Keeper of Sacred Wisdom and the Keeper of the Gates
+- [[affiliation-arldnpnthn|Aureldian Pantheon]]—the Twelve, named here by their epithets
+- [[lore-lusiniadty|Lusinia]], [[lore-marendasdty|Marendas]] and [[lore-ardavondty|Árdavon]]—the Weaver, the Keeper of Sacred Wisdom and the Keeper of the Gates
 - [[lore-karnavosdty|Karnavos]]—the Wild Beast, and the stone that is falling still
 - [[lore-selmorosdty|Sélmoros]]—the Silent Judge at the last door
 - [[lore-firstterms|The Hymn of the First Terms]]—the eastern rite's account of the same beginning

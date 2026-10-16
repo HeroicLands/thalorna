@@ -201,7 +201,7 @@ In the dry season the lake is clear to a great depth, and the water off the Mass
 
 # Dossier {#dossier}
 
-The Deepwater Fish, _koavanu_ in [[skill-kalihrlng|Kalihári]], "deep water", is a pale, long-bodied bottom fish of twelve to fifteen feet, with barbels, a toothless sucking mouth and almost no eyes. It lives in the deep water of [[place-klhrlake|the Bowl Lake]] around [[place-klhrmassif|the Massif]]. It rises to the surface in the dry season, when the lake is clear, and hangs there for days. It is not aggressive, but a fish that size capsizes a boat when it surfaces beneath one.
+The Deepwater Fish, _koavanu_ in [[skill-kalihrlng|Kalihari]], "deep water", is a pale, long-bodied bottom fish of twelve to fifteen feet, with barbels, a toothless sucking mouth and almost no eyes. It lives in the deep water of [[place-klhrlake|the Bowl Lake]] around [[place-klhrmassif|the Massif]]. It rises to the surface in the dry season, when the lake is clear, and hangs there for days. It is not aggressive, but a fish that size capsizes a boat when it surfaces beneath one.
 
 ## Presentation
 

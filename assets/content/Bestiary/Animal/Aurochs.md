@@ -246,7 +246,7 @@ The grass ahead is trampled flat in a swath wide enough for a wagon, and the dun
 
 # Dossier {#dossier}
 
-The Aurochs is the great wild ox of the open grassland, over six feet at the shoulder and upward of two thousand pounds, black, with a pale stripe along the back. Herds graze the forest-steppe of [[place-velanthrgn|Velanthia]] and the clearings at the southern edge of [[place-vrystwald|Vrystwald]], keeping to the river meadows and the steppe margin where the plough has not reached. A herd keeps together, and where one cow is seen the rest are grazing close by.
+The Aurochs is the great wild ox of the open grassland, over six feet at the shoulder and upward of two thousand pounds, black, with a pale stripe along the back. Herds graze the forest-steppe of [[place-velanthrgn|Velanthia]] and the clearings at the southern edge of [[place-vrystwald|Vristwald]], keeping to the river meadows and the steppe margin where the plough has not reached. A herd keeps together, and where one cow is seen the rest are grazing close by.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A huge, black ox on a frame of iron sinew and heavy bone. Shaggy hair four to si
 
 ## In the Land
 
-Aurochs herds graze the forest-steppe of [[place-velanthrgn|Velanthia]], where the black-earth grain belt breaks into river meadow, and the open clearings along the southern edge of [[place-vrystwald|Vrystwald]]. A herd keeps to a range of several valleys, moving between summer meadow and winter forest by the same routes each year. Plough-land and villages push the herds back to the river bottoms and the steppe margin, and a herd in the grain belt is nearly always one that has been driven there.
+Aurochs herds graze the forest-steppe of [[place-velanthrgn|Velanthia]], where the black-earth grain belt breaks into river meadow, and the open clearings along the southern edge of [[place-vrystwald|Vristwald]]. A herd keeps to a range of several valleys, moving between summer meadow and winter forest by the same routes each year. Plough-land and villages push the herds back to the river bottoms and the steppe margin, and a herd in the grain belt is nearly always one that has been driven there.
 
 ## Key Behaviors
 

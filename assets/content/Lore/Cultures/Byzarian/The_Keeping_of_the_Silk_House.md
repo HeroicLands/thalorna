@@ -1,9 +1,9 @@
 ---
 shortcode: silkkeeping
-name: {full: The Keeping of the Silk House, aliases: [The Lament of Rûzhveléze]}
+name: {full: The Keeping of the Silk House, aliases: [The Lament of Ruzhveleze]}
 type: lore
 subType: literature
-description: "The lament a widow of Khrýshteíkhos sang at her house's chamber in Nýkhtion on the morning she renewed its keeping for the last time: the dead of the silk house read from the lintel, her husband's account, a daughter's and a drowned son's with no body in the niche, the house's name ending with her, and the apprentice she named before the keeper as heir to the keeping."
+description: "The lament a widow of Krusteikhos sang at her house's chamber in Nikhtion on the morning she renewed its keeping for the last time: the dead of the silk house read from the lintel, her husband's account, a daughter's and a drowned son's with no body in the niche, the house's name ending with her, and the apprentice she named before the keeper as heir to the keeping."
 tags: [draft, byzaria]
 data:
   culture: byzarianclt
@@ -15,9 +15,9 @@ data:
 # terran_analog: "The Greek moirologia, women's laments that address the dead and argue with Death; Byzantine funerary epigram and the endowment of a family's commemoration in perpetuity; and the merchant's testament that settles every account by name."
 ---
 
-**The Keeping of the Silk House** is the lament **Rûzhveléze** of the house **Tchârzilákit** sang at her house's chamber in [[place-nykhtion|Nýkhtion]], the city of the dead, on the morning she came to renew its keeping for the last time. A house's keeping is renewed before one of the priests who keep the chambers, and what is said at a renewal is written by the keepers' clerk in the margin of the receipt, so that the receipt holds the words the endowment was paid on; this lament is that margin, copied out. It is sung, not read: the women of the merchant houses keep a way of singing an account over a chamber, the names off the lintel and what each owed and was owed, with a line they come back to after each, and a widow sings it at a renewal when there is grief left in the keeping. Rûzhveléze's came back to the question every such lament asks, who keeps the keeping when the keeper is kept, and hers is copied and sung by other women because it answers it.
+**The Keeping of the Silk House** is the lament **Ruzhveleze** of the house **Tcharzilakit** sang at her house's chamber in [[place-nykhtion|Nikhtion]], the city of the dead, on the morning she came to renew its keeping for the last time. A house's keeping is renewed before one of the priests who keep the chambers, and what is said at a renewal is written by the keepers' clerk in the margin of the receipt, so that the receipt holds the words the endowment was paid on; this lament is that margin, copied out. It is sung, not read: the women of the merchant houses keep a way of singing an account over a chamber, the names off the lintel and what each owed and was owed, with a line they come back to after each, and a widow sings it at a renewal when there is grief left in the keeping. Ruzhveleze's came back to the question every such lament asks, who keeps the keeping when the keeper is kept, and hers is copied and sung by other women because it answers it.
 
-The silk house of [[affiliation-khryshteikhos|Khrýshteíkhos]] took its name from the trade, by the grant of the League's assessors to the founder who first finished eastern silk in the city. Rûzhveléze came into it by marriage. Her husband, **Zýgháhr**, is dead of a fever; her daughter, **Krêníza**, died a child; her son, **Ánevazûr**, drowned off the straits of [[affiliation-nesthiros|Nêsthiros]] with a ship of the house, and the sea gave nothing back. She is the last of the house, the name ends with her, and the keeping of the chamber would end when the endowment ran. **Nêvarash** is the journeyman her husband took as his last apprentice, and she names him at the end, before the keeper, as heir to the keeping and not to the name, since the assessors grant no name to a man for being loved. The older dead on the lintel are sung by what they did, and the lament gives their names to the lintel, which has them.
+The silk house of [[affiliation-khryshteikhos|Krusteikhos]] took its name from the trade, by the grant of the League's assessors to the founder who first finished eastern silk in the city. Ruzhveleze came into it by marriage. Her husband, **Zighahr**, is dead of a fever; her daughter, **Kreniza**, died a child; her son, **Ánevazur**, drowned off the straits of [[affiliation-nesthiros|Nesthiros]] with a ship of the house, and the sea gave nothing back. She is the last of the house, the name ends with her, and the keeping of the chamber would end when the endowment ran. **Nevarash** is the journeyman her husband took as his last apprentice, and she names him at the end, before the keeper, as heir to the keeping and not to the name, since the assessors grant no name to a man for being loved. The older dead on the lintel are sung by what they did, and the lament gives their names to the lintel, which has them.
 
 : The Keeping of the Silk House {#lament}
 
@@ -44,7 +44,7 @@ I read the lintel. I have read it every year. I did not cut one name of it.
   Who keeps the keeping, when the keeper is kept?
 
 Now my own. Keeper, the stone of the second row is new, and the cutter was mine.
-  Zýgháhr. The balance. That is his name, and he was named well.
+  Zighahr. The balance. That is his name, and he was named well.
 He weighed the silk at the warehouse door with a balance he had from his father,
   and he would not let a clerk do it, and he would not let me do it,
   and he weighed it right every day of his life, and his hands smelled of the bales.
@@ -63,7 +63,7 @@ I have not closed anything else. The balance is on the shelf at the warehouse do
   Nobody has weighed on it. Write that in the margin. It is a number: none.
 Who keeps the keeping, when the keeper is kept?
 
-Krêníza. The spring. Our daughter. The little stone at the end of the second row.
+Kreniza. The spring. Our daughter. The little stone at the end of the second row.
   She was five, and she counted the bales in the yard in a voice like a bell,
 and she counted wrong, and her father let her, who never let a clerk count wrong in his life.
   She owed nothing. Write that. She owed nothing at all.
@@ -76,8 +76,8 @@ There is no account to close. A child has no account. She has a keeping.
 A child's keeping costs the same as a man's, keeper. You have never charged me less.
   I did not ask you to. Who keeps the keeping, when the keeper is kept?
 
-Ánevazûr. The wind. My son. The niche at the end of the row, and nothing in it.
-  He went down to Nêsthiros with the house's bales, the spring consignment,
+Ánevazur. The wind. My son. The niche at the end of the row, and nothing in it.
+  He went down to Nesthiros with the house's bales, the spring consignment,
 the silk for the west, in a ship of our hiring, out through the straits,
   and the wind came off the land the second night, and the ship did not come in.
 They found the ship's boat on the rocks. They found a bale of ours on the shore,
@@ -101,12 +101,12 @@ Keeper, I was a bride at the Thresholds. You know the custom. Write it anyway.
   On the turning morning the spouses go down with the merchants and the masters,
 and the temple's witness reads the vow over, and the two seal it again,
   and the clerk writes it in the record under the year, as the gods renew the world.
-Twenty-six times I went down with Zýgháhr on the turning morning,
+Twenty-six times I went down with Zighahr on the turning morning,
   in the cold, with the bells going, with the papers of the house under his arm,
 and he renewed the house's bonds at one table and our vow at the next,
   and he read the vow as he read a bond, clause by clause, and did not hurry it,
 and the witness said once that he had never heard a vow read so exactly,
-  and Zýgháhr said: it is the only bond I hold that has never turned against me.
+  and Zighahr said: it is the only bond I hold that has never turned against me.
 This year I went down alone. The witness asked me what I had come to renew.
   I said: the house's bonds. He asked me: and the other? I said there was no other.
 He wrote: the vow unrenewed, the husband being kept. That is the term for it.
@@ -128,7 +128,7 @@ I paid him for the night. He would not take it. Write that: he would not take it
   Who keeps the keeping, when the keeper is kept?
 
 And now myself. I have come to the end of the row. There is a place cut for me.
-  It is next to Zýgháhr's, as was agreed, and the agreement is in your chest.
+  It is next to Zighahr's, as was agreed, and the agreement is in your chest.
 When I am there, keeper, who comes up the road with the coin?
   The house has no son. The house has no daughter. The house has no brother's son.
 The name of the house ends with me. The assessors will not give it to a stranger,
@@ -168,7 +168,7 @@ Now hear what I have come to say, and write it in the margin, every word.
   My husband took an apprentice in the last year of his life,
 the son of a carter of the plateau, who had no trade, who counted bales in our yard,
   a boy with a voice like a bell, and counted wrong, and my husband let him, as he let her.
-His name is Nêvarash. The new one. He is a journeyman of the weavers now.
+His name is Nevarash. The new one. He is a journeyman of the weavers now.
   He weighs at the warehouse door. He weighs on the balance. I said nobody had. I lied.
 I told you the number was none. Write it again. The number is: him.
   He weighs every bale that comes in and every bale that goes out, and he weighs them right.
@@ -178,15 +178,15 @@ He is not of the house. He has his own name, a carter's, a good one.
   The assessors will not give him ours, and I do not ask them, and he does not.
 I do not give him the name. I give him the keeping.
 
-Keeper, write it: Rûzhveléze of the silk house, the last of it, before witness,
-  names Nêvarash the journeyman, her husband's apprentice, heir to the keeping
+Keeper, write it: Ruzhveleze of the silk house, the last of it, before witness,
+  names Nevarash the journeyman, her husband's apprentice, heir to the keeping
 of the chamber of the house of the silk at the city of the dead, all of it:
   the lintel and the founder, the second row, the little stone, the empty niche,
 and the place cut for her, when she is in it, with the coin each autumn,
   at the full rate, for as long as he lives and his apprentices after him,
 and the names spoken aloud on the night of the black candles, all of them,
   in the order of the lintel, the empty one last, the empty one too.
-Nêvarash, come here. Put your seal by mine. Press it. Harder. It is wax, not silk.
+Nevarash, come here. Put your seal by mine. Press it. Harder. It is wax, not silk.
   There. Two seals, keeper. Count them. Write the number: two.
 
 And write this last, in the margin, small, where a scribe writes his mark:
@@ -198,8 +198,8 @@ Close the door now, keeper. I have the key. He has the other.
 
 ## See Also
 
-- [[place-nykhtion|Nýkhtion]]—the city of the dead, its chambers and its hereditary keepers
-- [[lore-byzarianclt|Byzarian]]—the keeping of the dead, the account settled aloud and the apprenticeship that is an adoption
+- [[place-nykhtion|Nikhtion]]—the city of the dead, its chambers and its hereditary keepers
+- [[lore-byzarianclt|Bizarian]]—the keeping of the dead, the account settled aloud and the apprenticeship that is an adoption
 - [[lore-selmorosdty|Sélmoros]]—the god of the Silent Passage and the black candles
 - [[lore-firstterms|The Hymn of the First Terms]]—the refrain she has sung since she was a bride
-- [[affiliation-nesthiros|Nêsthiros]]—the port her son sailed from
+- [[affiliation-nesthiros|Nesthiros]]—the port her son sailed from

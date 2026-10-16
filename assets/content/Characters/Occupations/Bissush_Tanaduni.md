@@ -1,6 +1,6 @@
 ---
 shortcode: bssshtndn
-name: {full: Bîssûsh Tanâdûnî, aliases: []}
+name: {full: Bissush Tanaduni, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Bîssûsh Tanâdûnî is a 34-year-old man who stands 5'10" tall and is of moderate build. He has a diamond face with wide-set cheekbones, a prominent forehead, and a narrow jaw that leads to a prominent chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and full lips complete his features. He has golden skin with a sun-tanned complexion. His dark brown hair is short and swept back.
+Bissush Tanaduni is a 34-year-old man who stands 5'10" tall and is of moderate build. He has a diamond face with wide-set cheekbones, a prominent forehead, and a narrow jaw that leads to a prominent chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and full lips complete his features. He has golden skin with a sun-tanned complexion. His dark brown hair is short and swept back.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Bîssûsh Tanâdûnî came into the world of the cook through a combination of circumstance and aptitude.
+Born in the Taruzel region to a freeman family of Taruzelian heritage, Bissush Tanaduni came into the world of the cook through a combination of circumstance and aptitude.
 
-Bîssûsh grew up on a farm and learned to cook using simple, local ingredients. His specialty is rustic cuisine, and he works at a well-known tavern in the countryside, where travelers come to enjoy his hearty meals. Bîssûsh is humble and hardworking, always willing to adapt and improve his recipes.
+Bissush grew up on a farm and learned to cook using simple, local ingredients. His specialty is rustic cuisine, and he works at a well-known tavern in the countryside, where travelers come to enjoy his hearty meals. Bissush is humble and hardworking, always willing to adapt and improve his recipes.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Lacks experience with fine dining, sometimes underestimates his own talent.
 
 ### Motivation
 
-Bîssûsh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cook work keep him vigilant and adaptable.
+Bissush is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cook work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Skilled at using local ingredients to create delicious dishes, strong work ethic
 
 ## Social
 
-Bîssûsh is affiliated with None, works independently at the tavern.
+Bissush is affiliated with None, works independently at the tavern.
 
-As a Tarûzelian cook, Bîssûsh occupies a recognized social niche within Tarûzel society.
+As a Taruzelian cook, Bissush occupies a recognized social niche within Taruzel society.
 
 ## Companions
 
 ### Patrons
 
-Bîssûsh's primary patron is Travelers and locals who frequent the tavern. This relationship provides both opportunity and obligation.
+Bissush's primary patron is Travelers and locals who frequent the tavern. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ None; he is well-liked and friendly with competitors.
 
 ## Plot Hooks
 
-1. **The Cook's Dilemma**—Bîssûsh faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarûzel.
+1. **The Cook's Dilemma**—Bissush faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Taruzel.
 
 2. **Old Grudges**—None; he is well-liked and friendly with competitors. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Bîssûsh's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Bissush's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Tarûzel threaten to upend the social order that Bîssûsh depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Taruzel threaten to upend the social order that Bissush depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Bîssûsh the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Bissush the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

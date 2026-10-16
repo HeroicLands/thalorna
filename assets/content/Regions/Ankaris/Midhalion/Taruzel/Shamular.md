@@ -1,6 +1,6 @@
 ---
 shortcode: shamular
-name: {full: Shamûlar, aliases: []}
+name: {full: Shamular, aliases: []}
 type: place
 subType: settlement
 description: "Merchant Town"
@@ -14,4 +14,4 @@ data:
   packFolder: taruzel
 ---
 
-The smell of Shamûlar's market square comes from a perfume shop: attar of rose from the island valleys, resins off the Khelâthi ships, ambergris when the corsairs have some. Shamûlar is a merchant town of about 12,000 in the [[place-taruzelrgn|Tarûzel Region]], the island country of city-states within [[place-midhalnrgn|Mídhalión]], and it is among the more populous towns of the region. Its guild families commission scents made for a single wearer from the perfumer [[being-kdmyqbsn|Kadûmûya Qubâsûnî]], and the locksmith [[being-tndnhlrn|Tanâdan Helârûnî]] has spent twenty years here making high-security locks for nobles and wealthy merchants.
+The smell of Shamular's market square comes from a perfume shop: attar of rose from the island valleys, resins off the Khelathi ships, ambergris when the corsairs have some. Shamular is a merchant town of about 12,000 in the [[place-taruzelrgn|Taruzel Region]], the island country of city-states within [[place-midhalnrgn|Mídhalión]], and it is among the more populous towns of the region. Its guild families commission scents made for a single wearer from the perfumer [[being-kdmyqbsn|Kadumuya Kubasuni]], and the locksmith [[being-tndnhlrn|Tanadan Helaruni]] has spent twenty years here making high-security locks for nobles and wealthy merchants.

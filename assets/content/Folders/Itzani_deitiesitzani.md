@@ -1,8 +1,8 @@
 ---
 shortcode: deitiesitzani
-name: {full: "Itzani"}
+name: {full: "Itsani"}
 type: folder
 data: {parent: deities}
 ---
 
-This folder gathers the deities of the Itzani pantheon. Its members are the lore notes of the gods, among them K'anix Ha'kan, K'ayik Ch'alix, Pik'ul Tz'umaq, Ix'ilan Ch'alix, Tz'uqil Ix'bal and Xilan Ix'lan. It sits within the Deities folder of the setting lore.
+This folder gathers the deities of the Itsani pantheon. Its members are the lore notes of the gods, among them K'anish Ha'kan, K'ayik Ch'alish, Pik'ul Ts'umaq, Ish'ilan Ch'alish, Ts'uqil Ish'bal and Shilan Ish'lan. It sits within the Deities folder of the setting lore.

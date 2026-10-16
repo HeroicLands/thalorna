@@ -1,6 +1,6 @@
 ---
 shortcode: meiwo
-name: {full: "Ritual: Méiwō", aliases: [Méiwō, The Minister of Dreams]}
+name: {full: "Ritual: Meiwo", aliases: [Meiwo, The Minister of Dreams]}
 type: skill
 subType: mystical
 tags: [tengwou, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-meiwo|Méiwō]]
+See [[affiliation-meiwo|Meiwo]]

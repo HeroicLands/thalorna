@@ -1,6 +1,6 @@
 ---
 shortcode: anthrvasgrnd
-name: {full: Anthorv Ásgrind, given: Anthorv, clan: Ásgrind, aliases: []}
+name: {full: Anthorv Asgrind, given: Anthorv, clan: Asgrind, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -429,7 +429,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[anthrvasgrnd|Anthorv Ásgrind]]{float=top-left}
+![[anthrvasgrnd|Anthorv Asgrind]]{float=top-left}
 
 Anthorv stands 6'0" tall with a medium build. He has light weathered skin, greying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, and straight brows.
 
@@ -437,7 +437,7 @@ Anthorv stands 6'0" tall with a medium build. He has light weathered skin, greyi
 
 **Humble Beginnings:** Anthorv was born fifty winters ago in the common quarters of [[place-targud|Targud]]'s capital, the son of a street performer and a tavern keeper. From childhood, he was immersed in performance—his mother taught him to read crowds, his father to move with confidence, and the streets themselves taught him timing and ruthlessness. While other children learned trades, Anthorv learned the subtle art of making people see what he wanted them to see, feel what he wanted them to feel, and spend what they otherwise intended to keep.
 
-**Rise to Prominence:** He first gained notice at twenty-three, when his elaborate performance sequence at the Festival of [[lore-solrundty|Sólrún]] so delighted King [[affiliation-kingdmtrgd|Skruldmýl III]] that he was invited to the royal court as a permanent jester. For more than a quarter-century, he has remained the primary court entertainer, surviving the reigns of three monarchs through an uncanny ability to understand what each ruler needed from him—to Skruldmýl, he was a witty observer of folly; to his successor [[affiliation-kingdmtrgd|Thraldvir]], a trusted confidant hidden in plain sight; to the current King [[affiliation-kingdmtrgd|Braldmýl II]], he is an occasionally dangerous reminder of inconvenient truths wrapped in humor.
+**Rise to Prominence:** He first gained notice at twenty-three, when his elaborate performance sequence at the Festival of [[lore-solrundty|Solrún]] so delighted King [[affiliation-kingdmtrgd|Skruldmil III]] that he was invited to the royal court as a permanent jester. For more than a quarter-century, he has remained the primary court entertainer, surviving the reigns of three monarchs through an uncanny ability to understand what each ruler needed from him—to Skruldmil, he was a witty observer of folly; to his successor [[affiliation-kingdmtrgd|Thraldvir]], a trusted confidant hidden in plain sight; to the current King [[affiliation-kingdmtrgd|Braldmil II]], he is an occasionally dangerous reminder of inconvenient truths wrapped in humor.
 
 **Mastery Earned:** Over the decades, Anthorv has become an unofficial advisor, a subtle intelligence gatherer, and a keeper of secrets. Nobles and merchants alike seek his company, knowing that a jester can speak truths that courtiers dare not voice. His skill at surviving court politics has granted him security and influence unusual for someone of his class. Yet this very success has bred a deep cynicism; he has seen too much deception, too much cruelty masked by silk, too many promises broken for personal gain.
 
@@ -475,10 +475,10 @@ Anthorv is motivated by two seemingly contradictory drives: the desire to be rem
 
 ### Patrons
 
-King Braldmýl II
-: The current monarch of Targud, who values Anthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Braldmýl has publicly denied ever taking the jester's advice, but privately relies on his insights.
+King Braldmil II
+: The current monarch of Targud, who values Anthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Braldmil has publicly denied ever taking the jester's advice, but privately relies on his insights.
 
-Lady Tvirnrinna Dvarnarukh, Court Mistress
+Lady Tvirnrinna Dvarnaruk, Court Mistress
 : The wife of a powerful noble and one of the few people with whom Anthorv maintains something approaching true friendship; she values his honesty disguised as mockery.
 
 The Innkeeper Hvilgvir
@@ -486,8 +486,8 @@ The Innkeeper Hvilgvir
 
 ### Enemies
 
-Lord Knirvthann Thulmarukh, Duke of the Southern Marches
-: A nobleman whose secret ambitions Anthorv publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thulmarukh has sworn vengeance, though he dare not move openly against the king's favored jester.
+Lord Knirvthann Thulmaruk, Duke of the Southern Marches
+: A nobleman whose secret ambitions Anthorv publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thulmaruk has sworn vengeance, though he dare not move openly against the king's favored jester.
 
 [[affiliation-wazulu|The Wazulu]]
 : Religious conservatives who believe jesters are agents of demoralization and have lobbied the church to declare his performances blasphemous. While they lack the power to end his position, they make his life difficult.
@@ -507,7 +507,7 @@ The Performers' Underground (unofficial)
 
 1. **The Jester's Final Riddle:** An elderly jester from a foreign court arrives in Targud, claiming to have known Anthorv's father (a claim Anthorv has long denied). The visitor claims to possess information about Anthorv's origins that would fundamentally change his understanding of himself. Anthorv finds himself unable to dismiss the claim through humor, and recruits adventurers to investigate the truth. What begins as a search for biographical information transforms into a quest touching on magic, prophecy, and the possibility that Anthorv's entire life has been shaped by forces beyond his understanding.
 
-2. **The Courtier's Conspiracy:** Anthorv discovers evidence that a faction of nobles is plotting against King Braldmýl II. His usual methods—subtle public mockery and private suggestions—are insufficient to stop the conspiracy directly. He must recruit adventurers to gather proof, sabotage the plotters' preparations, and ultimately protect the king without revealing the conspiracy publicly (which would damage the crown). One of the conspirators is someone Anthorv cares for, which leaves him facing a real moral problem rather than a cynical calculation.
+2. **The Courtier's Conspiracy:** Anthorv discovers evidence that a faction of nobles is plotting against King Braldmil II. His usual methods—subtle public mockery and private suggestions—are insufficient to stop the conspiracy directly. He must recruit adventurers to gather proof, sabotage the plotters' preparations, and ultimately protect the king without revealing the conspiracy publicly (which would damage the crown). One of the conspirators is someone Anthorv cares for, which leaves him facing a real moral problem rather than a cynical calculation.
 
 3. **The Traveling Show:** Anthorv grows restless with the court and decides to tour the kingdom with a traveling theatrical troupe he recruits adventurers to protect. As they move from town to town, they discover that performances he creates inadvertently inspire peasants to rebellion against oppressive local lords. Anthorv can continue the performances knowing they have revolutionary consequences, or abandon the most authentic work he has engaged in for decades.
 

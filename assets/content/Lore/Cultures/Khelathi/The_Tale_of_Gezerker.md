@@ -5,7 +5,7 @@ name:
   aliases: [Qethunet elu Gezerker, The Tale of Gezerker Who Came Home to Close]
 type: lore
 subType: literature
-description: "A Khelâthi court tale of the scribe who read the Measure false for the struck house, lived forty years past the last canal, and came home to enter the true column and be asked at his own Reading."
+description: "A Khelathi court tale of the scribe who read the Measure false for the struck house, lived forty years past the last canal, and came home to enter the true column and be asked at his own Reading."
 tags: [draft, khelathu]
 data:
   packFolder: settinglore
@@ -30,9 +30,9 @@ data:
 # terran_analog: "The Tale of Sinuhe, for the official who flees west, lives among herders and comes home old; the Eloquent Peasant, for a petition argued at an office counter; the laments for a land turned upside down, for the famine years; and Nile-level records cut on the gauges, for the column of readings. Departs: no royal pardon and no tomb from the king, the homecoming is a queue at an archive, and the tale ends at the Reading with no verdict."
 ---
 
-Among the [[lore-khelathiclt|Khelâthi]] the scribal schools of [[place-galezkara|Galezkara]] copy this as a court tale, a _qethunet_, and the burial clubs of [[place-garqethar|Gar-Qethar]] have it read aloud in their halls on the night the Measure is proclaimed from the stair on [[place-yathtelgu|Yath-Telgu]]. It belongs to the age the Keepers call [[lore-akhstruckhs|the Struck House]] and ends in [[lore-akhpriestthr|the Priests' Thrones]], and it dates by the reigns of [[lore-garauu|the king-list]].
+Among the [[lore-khelathiclt|Khelathi]] the scribal schools of [[place-galezkara|Galezkara]] copy this as a court tale, a _qethunet_, and the burial clubs of [[place-garqethar|Gar-Qethar]] have it read aloud in their halls on the night the Measure is proclaimed from the stair on [[place-yathtelgu|Yath-Telgu]]. It belongs to the age the Keepers call [[lore-akhstruckhs|the Struck House]] and ends in [[lore-akhpriestthr|the Priests' Thrones]], and it dates by the reigns of [[lore-garauu|the king-list]].
 
-Its subject, **Gezerker ez Gar-Qethar**, is a scribe of the rolls whom the guard of [[being-falseuqaa|the False Uqa'â]] put to the stair when the priests of the Measure were silenced. The tale follows him through the failing floods ([[lore-failfloods|the Failing Floods]]), forty years in the herding country west of the last canal, and his homecoming. The rising and the judgment that end the reign ([[lore-sealedgran|the Battle of the Sealed Granaries]], [[lore-judgfalseuq|the Judgment of the False Uqa'â]]) it leaves to the history, saying only that they are entered elsewhere.
+Its subject, **Gezerker ez Gar-Qethar**, is a scribe of the rolls whom the guard of [[being-falseuqaa|the False Uqa'a]] put to the stair when the priests of the Measure were silenced. The tale follows him through the failing floods ([[lore-failfloods|the Failing Floods]]), forty years in the herding country west of the last canal, and his homecoming. The rising and the judgment that end the reign ([[lore-sealedgran|the Battle of the Sealed Granaries]], [[lore-judgfalseuq|the Judgment of the False Uqa'a]]) it leaves to the history, saying only that they are entered elsewhere.
 
 The copy rendered here is the one the clubs use. Where the tale quotes a document of the struck reign by its date, the copyist has scraped out the throne name the document carried and left the gap, and every `[…]` below is that gap. The prose is the flat voice of the schools, and it breaks into verse three times: the lament the scribe raises over himself at a herders' well, the true readings of the Measure said aloud at the counter, and the Asking at his Reading, which the tale quotes from [[lore-readingweigh|the Reading at the Weighing]] as the reader spoke it.
 
@@ -42,7 +42,7 @@ This is the telling of how it was with Gezerker, a scribe of the rolls, in the y
 
 He was of a street in Gar-Qethar, on the low ground, two doors from the granary quays. His mother's house put him into the school of the bureaus at seven and went hungry to keep him there, which is what a scribe costs, and he came out of it with the people's hand and a place at the fourth counter of the House of Records, where the tax rolls of the [[affiliation-capitalselat|Capital Selat]] are kept. He could not read the sacred hand. He could read a weight, a boundary and a roll, his hand was neat, and that is everything the tale says of him before the struck one.
 
-In the first year of the struck one the Gar-Aû proclaimed himself [[lore-uqaadty|Uqa'â]] in the flesh. The tale does not enter the proclamation. It enters what came to the fourth counter. The island was shut. The guard of the Gar-Aû held the Great Temple and the granaries that belonged to it, the priests who named the blasphemy were silenced, and among the silenced was the keeper of the Measure, **Imsithe Reth'el'Qetu**, who had read the stair for thirty-one years. The tale enters no more of him than the list enters of a king. The guard needed a hand that could count cubits and write a number, and the bureaus were told to send one. The bureaus sent Gezerker, because his hand was neat and because he was nobody, which is the reason a bureau sends anyone.
+In the first year of the struck one the Gar-Au proclaimed himself [[lore-uqaadty|Uqa'a]] in the flesh. The tale does not enter the proclamation. It enters what came to the fourth counter. The island was shut. The guard of the Gar-Au held the Great Temple and the granaries that belonged to it, the priests who named the blasphemy were silenced, and among the silenced was the keeper of the Measure, **Imsithe Reth'el'Qetu**, who had read the stair for thirty-one years. The tale enters no more of him than the list enters of a king. The guard needed a hand that could count cubits and write a number, and the bureaus were told to send one. The bureaus sent Gezerker, because his hand was neat and because he was nobody, which is the reason a bureau sends anyone.
 
 He was rowed to the upstream point of the island in the first month of [[lore-azletssn|Azlet]] with a palette, a reed and a day-tablet, and a sergeant of the guard showed him the Measure.
 
@@ -52,7 +52,7 @@ In the first year the water came to the painted cubit, and he wrote fourteen, an
 
 In the second year of the struck one the water rose to the twelfth cubit and one palm above it and stopped. He counted it on four mornings running with his hand on the stone, and on the fourth morning the sergeant came down the stair.
 
-"It stands at fourteen and two," the sergeant said. "The Gar-Aû is Uqa'â in the flesh, and the river is his. Write fourteen and two."
+"It stands at fourteen and two," the sergeant said. "The Gar-Au is Uqa'a in the flesh, and the river is his. Write fourteen and two."
 
 "I have my hand on the twelfth," Gezerker said.
 
@@ -62,7 +62,7 @@ Gezerker wrote fourteen and two. The reading went across the bridge to the templ
 
 He kept the twelfth cubit and the palm in his head. He wrote it nowhere. A tablet can be found, and a number in a man's head cannot, and twelve numbers are not heavy; a scribe carries more than that for a Halzi'a's cattle. The tale gives the whole column later, where he gave it.
 
-In the third year the water rose to the ninth cubit and three palms and stopped, and the reading went out as fourteen and one. That is the year the tale is kept for in Gar-Qethar. The dole of [[lore-thubaidty|Thubâ'i]]'s temple stopped in the first month of [[lore-geletssn|Gelet]], because the temple's granaries were the god-king's, and the people of the low ground ate what the low ground had. Two doors from his mother's house lived **Thakat ez Gar-Qethar**, a reed-cutter's widow with two children, and in the fourth month of Gelet the two children went into a pit on the flood-ground below the quays with eleven others from the street, and nobody entered them in any roll. A death of hunger could not be entered, because the entry would have carried the word, and the word was death to whoever said it. The telling writes the word, because the house that forbade it is closed. The word is _hunger_.
+In the third year the water rose to the ninth cubit and three palms and stopped, and the reading went out as fourteen and one. That is the year the tale is kept for in Gar-Qethar. The dole of [[lore-thubaidty|Thuba'i]]'s temple stopped in the first month of [[lore-geletssn|Gelet]], because the temple's granaries were the god-king's, and the people of the low ground ate what the low ground had. Two doors from his mother's house lived **Thakat ez Gar-Qethar**, a reed-cutter's widow with two children, and in the fourth month of Gelet the two children went into a pit on the flood-ground below the quays with eleven others from the street, and nobody entered them in any roll. A death of hunger could not be entered, because the entry would have carried the word, and the word was death to whoever said it. The telling writes the word, because the house that forbade it is closed. The word is _hunger_.
 
 The guard fed its hands on the island. Gezerker crossed back to the street at dusk with what he could carry in his sleeve, which in the third year was nothing, because the guard counted its bread, and in the years after was a loaf, because it stopped counting. His street knew where the loaf came from. It ate the loaf.
 
@@ -70,7 +70,7 @@ He said the noon denials with the rest of the bureau on every day of those years
 
 The tale gives the middle years the way the list gives a reign. In the sixth year his mother went to the West, and the telling does not enter how. In the eighth year a girl was named in his account, **Githira**, and her mother went to the West in the year of the naming, and the house that kept the girl by day while he was on the island was the house two doors down, Thakat's, which had room. In the ninth, tenth and eleventh years the water rose short and the readings went out full, and the festival was held each year, and each year he stood on the stair with his hand on the stone. Of the twelfth year and the thirteenth the tale says nothing but the numbers, and the numbers are in the column.
 
-In the fourteenth year of the struck one the upper river rose. The Halzi'a of [[place-anlaghzetun|Anlagh-Zetûn]] raised the basin and the temple levies against the guard that held the great granaries shut, and the gates fell. The god-king was taken within the month and judged in the Great Temple by the Thâz'Lekhau Zinlegir, and what was done to him is entered elsewhere. The tale enters that the men of the guard were taken with him, the sergeant of the stair among them, and that the other hands who had held the island for him, cooks, rowers, clerks and the men who had written out his proclamations, were sought through the city by name, and that Gezerker was on that list, because his name stood at the head of the false column in the temple's day-book, where he had written it himself.
+In the fourteenth year of the struck one the upper river rose. The Halzi'a of [[place-anlaghzetun|Anlagh-Zetun]] raised the basin and the temple levies against the guard that held the great granaries shut, and the gates fell. The god-king was taken within the month and judged in the Great Temple by the Thaz'Lekhau Zinlegir, and what was done to him is entered elsewhere. The tale enters that the men of the guard were taken with him, the sergeant of the stair among them, and that the other hands who had held the island for him, cooks, rowers, clerks and the men who had written out his proclamations, were sought through the city by name, and that Gezerker was on that list, because his name stood at the head of the false column in the temple's day-book, where he had written it himself.
 
 He went west. He crossed on the dawn ferry with the keeper-priests to [[place-zugezer|Zu-Gezer]], where nobody looks at a man's face, walked out along the death-road between the Ways of the kings, which was the only road west he knew, and kept on past the last tomb and up onto the shelf. He carried nothing: no tablet, no reed, no copy of anything. He went without releasing anyone and without being released, which is how a man leaves who means to be back by the next flood. The water was rising on the stair when he went. It came full behind him, and the priests read it, in their own hand.
 
@@ -82,7 +82,7 @@ And in the month of the crest, each year, he raised the lament. He had no house 
 
 : The Lament at the Well {#lament}
 
-```poetry {form=ṭazlet lang=en}
+```poetry {form=tazlet lang=en}
 Raise it. There is nobody here to raise it, so I raise it.
 I raise it over myself, as the poor do when the club has failed and the house is empty.
 At the island the water is standing on the stair. I know the day; the day is on the stick.
@@ -124,7 +124,7 @@ Let a priest read it who is let.
 Let him write it in the hand I cannot read, and let it be the number.
 ```
 
-In the fortieth year the old man of the well went into the ground before noon, and the clan was at the sheep by the afternoon, and Gezerker went east the same day with the stick and nothing else. He was seventy-seven. He walked to the last canal and along it to Zileti, and from Zileti he came down with the horse-drovers to the river, and down the river on a grain barge to Galezkara, and he came into the city in the second month of Gelet, in the eighteenth year of Gar-Aû Gez'el'Qar I, when the surveyors are out on the fields and the counters of the House of Records are at their fullest. He did not go to the street. He went to [[place-garmedjatozo|Gar-Medjatozo]], to the fourth counter, and stood in the queue.
+In the fortieth year the old man of the well went into the ground before noon, and the clan was at the sheep by the afternoon, and Gezerker went east the same day with the stick and nothing else. He was seventy-seven. He walked to the last canal and along it to Zileti, and from Zileti he came down with the horse-drovers to the river, and down the river on a grain barge to Galezkara, and he came into the city in the second month of Gelet, in the eighteenth year of Gar-Au Gez'el'Qar I, when the surveyors are out on the fields and the counters of the House of Records are at their fullest. He did not go to the street. He went to [[place-garmedjatozo|Gar-Medjatozo]], to the fourth counter, and stood in the queue.
 
 The queue at the fourth counter in Gelet is a morning long. He stood it. The clerk at the counter was **Gulur ez Galezkara**, who had the place Gezerker had held, and who did not know him, since nobody there could have. Gezerker asked him for the heads of the tax rolls of the Capital Selat for the second to the thirteenth years of the struck one.
 
@@ -140,7 +140,7 @@ Gulur sent a boy. The boy was gone the length of the queue behind the old man an
 
 "Then send to the temple."
 
-The queue behind him was a morning long. Gulur sent to the temple. The queue stood, the barrow stood, the old man stood with his hand on the first roll, and across the bridge a Wazu went up through the courts of the Great Temple to the precinct of [[lore-rethsaardty|Reth'Sa'âr]], where the day-book of the Measure is kept, and came back with the priest who kept it, **Maqi Reth'el'Qetu**, a Lem'Nelgir of Uqa'â, of the house that had kept the stair before the struck years and keeps it now. Maqi carried the day-book of the struck years under his arm. He had not needed to be told which years. The column is in the wrong hand.
+The queue behind him was a morning long. Gulur sent to the temple. The queue stood, the barrow stood, the old man stood with his hand on the first roll, and across the bridge a Wazu went up through the courts of the Great Temple to the precinct of [[lore-rethsaardty|Reth'Sa'ar]], where the day-book of the Measure is kept, and came back with the priest who kept it, **Maqi Reth'el'Qetu**, a Lem'Nelgir of Uqa'a, of the house that had kept the stair before the struck years and keeps it now. Maqi carried the day-book of the struck years under his arm. He had not needed to be told which years. The column is in the wrong hand.
 
 He set the day-book on the counter beside the barrow and asked the old man for his name, and the old man gave it, and Maqi found it where he had written it, at the head of the false column. Then he said, "Read it."
 
@@ -181,7 +181,7 @@ Year fourteen. I did not read it.
 That is the column. Write Gezerker at the head of it.
 ```
 
-Then Maqi asked him whether he understood what he had entered, and he said that he was a scribe. The law counts the bending of the Measure among the gravest things it names. It had already had the one who ordered it bent, and it had had the sergeant. The Thâz'Lekhau was sent to, and the word that came back was this: "Let the column be entered. Let the man go to his Reading." What the temple did, it did at the counter, before Gulur and the Wazu and the queue as witnesses, and Maqi wrote it in the day-book under the column. The schools copy the entry as it stands.
+Then Maqi asked him whether he understood what he had entered, and he said that he was a scribe. The law counts the bending of the Measure among the gravest things it names. It had already had the one who ordered it bent, and it had had the sergeant. The Thaz'Lekhau was sent to, and the word that came back was this: "Let the column be entered. Let the man go to his Reading." What the temple did, it did at the counter, before Gulur and the Wazu and the queue as witnesses, and Maqi wrote it in the day-book under the column. The schools copy the entry as it stands.
 
 :::
 A reading of the Measure proclaimed to the city is undertaken to the city. The city plans its year by it. Twelve readings went out in the hand of Gezerker ez Gar-Qethar, scribe of the rolls, and were not performed; the water was not there. They are open in his account from this day. The party to each is whoever stood under it. A reading is the man: his hand and his mouth. No one assumes it. It closes by performance, which the river has refused; or by release; or by nothing. Witnessed by Gulur ez Galezkara, clerk of the fourth counter, and by a Wazu of the Great Temple. Entered by Maqi Reth'el'Qetu, who keeps the stair.
@@ -239,14 +239,14 @@ That is the telling. He went to the West, entered and open.
 The copy ends with the copyist's entry.
 
 :::
-Copied in the fourteenth year of Gar-Aû Legir'el'Retha I, in the second month of Azlet, for the night of the proclamation, for the hall of the club of the granary quays, from the copy the school of the fourth counter keeps, by **Thethi ez Gar-Qethar**, scribe of the people's hand. Checked against the day-book: the Measure's column for the struck years stands as it was entered at the counter, in both hands, and the temple reads the proclamation from the stair with two priests on it since those years. What is scraped in this copy I scraped.
+Copied in the fourteenth year of Gar-Au Legir'el'Retha I, in the second month of Azlet, for the night of the proclamation, for the hall of the club of the granary quays, from the copy the school of the fourth counter keeps, by **Thethi ez Gar-Qethar**, scribe of the people's hand. Checked against the day-book: the Measure's column for the struck years stands as it was entered at the counter, in both hands, and the temple reads the proclamation from the stair with two priests on it since those years. What is scraped in this copy I scraped.
 :::
 
 ## See Also
 
-- [[lore-khelathiclt|Khelâthi]]—the two ledgers, the Closing and the Reading
+- [[lore-khelathiclt|Khelathi]]—the two ledgers, the Closing and the Reading
 - [[lore-readingweigh|The Reading at the Weighing]]—the litany the tale quotes at the Asking
 - [[place-yathtelgu|Yath-Telgu]]—the island, the Great Temple and the Measure
 - [[place-garqethar|Gar-Qethar]]—the warrens over the famine pits
-- [[lore-failfloods|The Failing Floods]] · [[lore-sealedgran|The Battle of the Sealed Granaries]] · [[lore-judgfalseuq|The Judgment of the False Uqa'â]]—the history the tale is set in
-- [[lore-garauu|Gar-Aûu]]—the king-list, with the struck years and the reigns the tale dates by
+- [[lore-failfloods|The Failing Floods]] · [[lore-sealedgran|The Battle of the Sealed Granaries]] · [[lore-judgfalseuq|The Judgment of the False Uqa'a]]—the history the tale is set in
+- [[lore-garauu|Gar-Auu]]—the king-list, with the struck years and the reigns the tale dates by

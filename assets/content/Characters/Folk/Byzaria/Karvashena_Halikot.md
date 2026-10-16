@@ -1,9 +1,9 @@
 ---
 shortcode: karvashenaha
-name: {full: Karvashéna Halíkot, aliases: [Overseer Karvashéna Halíkot]}
+name: {full: Karvashena Halikot, aliases: [Overseer Karvashena Halikot]}
 type: being
 subType: npc
-description: A veteran of thirty years in the Byzarian mines who took Agápeia Varzánês as an informal apprentice around age sixteen.
+description: A veteran of thirty years in the Bizarian mines who took Agápeia Varzanes as an informal apprentice around age sixteen.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Karvashéna Halíkot is a 58-year-old woman who stands 5'7" tall with a medium build. She has olive skin, smooth complexion, black hair, and hazel eyes.
+Karvashena Halikot is a 58-year-old woman who stands 5'7" tall with a medium build. She has olive skin, smooth complexion, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Karvashéna Halíkot is a veteran of thirty years in the Byzarian mines. The overseer took [[being-agapevrzns|Agápeia Varzánês]] as an informal apprentice around age sixteen, and remains a mentor who refers her specialized prospecting jobs.
+Karvashena Halikot is a veteran of thirty years in the Bizarian mines. The overseer took [[being-agapevrzns|Agápeia Varzanes]] as an informal apprentice around age sixteen, and remains a mentor who refers her specialized prospecting jobs.

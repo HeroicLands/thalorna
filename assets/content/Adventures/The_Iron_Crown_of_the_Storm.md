@@ -16,12 +16,12 @@ data:
   packFolder: adventures
 ---
 
-The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of the Pale Floor, and the lightning finds it every night the sky offers. Its last master, **Vahrûn Marzuvan**, is said never to have died. The party must cross the Floor, climb the tower and learn what walks in the storm above it, and then decide what is owed to a Dunhari who has stopped being one.
+The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of the Pale Floor, and the lightning finds it every night the sky offers. Its last master, **Vahrun Marzuvan**, is said never to have died. The party must cross the Floor, climb the tower and learn what walks in the storm above it, and then decide what is owed to a Dunhari who has stopped being one.
 
 ## Hooks
 
 - **The thief.** A fence in [[place-qarvelakhend|Qarvelakhend]] pays well for the master's iron crown and asks no questions. A rival went south before him and did not come back.
-- **The mercenary or soldier.** The Amradi _ghedvadêr_ at Qarvelakhend posts the party to the Kinless Watch on the edge of the Floor. The garrison is hired with coin, owes the party no water, and keeps a cistern nobody is allowed to see.
+- **The mercenary or soldier.** The Amradi _ghedvader_ at Qarvelakhend posts the party to the Kinless Watch on the edge of the Floor. The garrison is hired with coin, owes the party no water, and keeps a cistern nobody is allowed to see.
 - **The leader.** A chieftain, or a member of the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]], hears that something in the storm is calling Dunhari to the Floor. The Old Promise forbids raising a blade against a Dunhari while an outside enemy walks the land, and nobody can say whether the master is still a Dunhari.
 - **The wanderer.** A traveler is found on the salt with glass rooted in his hands. He mutters verses in a voice-bearer's cadence that no living voice-bearer teaches.
 
@@ -31,7 +31,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 **Situation.** The party reaches the northern tent at dusk. A caravan waits to cross and the toll-keepers have named a day three nights hence. The sky is clear, and out on the white flat the lightning has already begun to strike, a thin forked line a long ride away.
 
-**NPCs and threats.** Two apprentices of the Lightning-Marked (_hamelogâr_) keep the tent: **Dahrîn**, a tall, hollow-eyed young man who has not slept properly since he came to the Floor, and **Sarvesh**, an older apprentice with a scar across the lip who does the talking. They are polite, firm and afraid. Beyond the tent, the flat is walked at night by **glass-wights**, men and women of the caravans that crossed on the wrong day. A glass-wight is a figure of salt-white skin and green-grey glass, lit from inside by a flickering light. It moves in a stiff, patient march toward any traveler out of the tent's lamplight and does not speak. Its touch burns. It fears nothing except water poured onto its feet, which cracks the glass and slows it.
+**NPCs and threats.** Two apprentices of the Lightning-Marked (_hamelogar_) keep the tent: **Dahrin**, a tall, hollow-eyed young man who has not slept properly since he came to the Floor, and **Sarvesh**, an older apprentice with a scar across the lip who does the talking. They are polite, firm and afraid. Beyond the tent, the flat is walked at night by **glass-wights**, men and women of the caravans that crossed on the wrong day. A glass-wight is a figure of salt-white skin and green-grey glass, lit from inside by a flickering light. It moves in a stiff, patient march toward any traveler out of the tent's lamplight and does not speak. Its touch burns. It fears nothing except water poured onto its feet, which cracks the glass and slows it.
 
 **Player choices.**
 
@@ -94,7 +94,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 **Situation.** The gallery under the iron spike is open to the sky. A single cloud hangs directly overhead with an edge as sharp as a blade, and under it, at the foot of the spike, a man stands. The air smells of burning metal. The lightning strikes the man over and over and he does not fall.
 
-**NPCs and threats.** **Vahrûn Marzuvan** stands wrapped in a column of storm: tall, bare-armed, his beard and hair fused into iron and glass, the real crown a ring of dull black metal burned into his brow. He speaks in two voices at once, his own and a vast flat one that is not [[affiliation-bahramis|Báhrámiš]]. The Shadow is in the storm, the chaos from outside creation that crept in at a crack the master made when he tried to bind the god's lightning to his will. He did not go into the storm to escape death. He went to hold the crack shut, and he cannot let go. He fights by calling bolts, by hurling fused glass like spears, and by speaking the party's names, which the storm repeats until the one named forgets where to stand.
+**NPCs and threats.** **Vahrun Marzuvan** stands wrapped in a column of storm: tall, bare-armed, his beard and hair fused into iron and glass, the real crown a ring of dull black metal burned into his brow. He speaks in two voices at once, his own and a vast flat one that is not [[affiliation-bahramis|Báhramis]]. The Shadow is in the storm, the chaos from outside creation that crept in at a crack the master made when he tried to bind the god's lightning to his will. He did not go into the storm to escape death. He went to hold the crack shut, and he cannot let go. He fights by calling bolts, by hurling fused glass like spears, and by speaking the party's names, which the storm repeats until the one named forgets where to stand.
 
 **Player choices.**
 
@@ -115,14 +115,14 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 **Situation.** The storm ebbs. The master kneels, a thin old man with a burned face. The crown on his brow is cold, and he offers it to the party.
 
-**NPCs and threats.** **Mehrava** has climbed the stair behind them. She tells them what they do not want to hear. Vahrûn is a Dunhari, the Shadow in the storm is an enemy from outside, and the Old Promise forbids any Dunhari blade raised against another while such an enemy walks Dunhari land. The blow that kills him is the blow the Promise forbids. The crack, however, will not close unless someone stands in it.
+**NPCs and threats.** **Mehrava** has climbed the stair behind them. She tells them what they do not want to hear. Vahrun is a Dunhari, the Shadow in the storm is an enemy from outside, and the Old Promise forbids any Dunhari blade raised against another while such an enemy walks Dunhari land. The blow that kills him is the blow the Promise forbids. The crack, however, will not close unless someone stands in it.
 
 **Player choices.**
 
 - _Kill him._ The Promise is broken in the Circle's eyes, the crack opens, and the Shadow walks the Floor.
 - _Leave him._ He holds the crack for as long as he lasts, and the tower sings on.
 - _Take the crown._ A storm-walker, or anyone the storm will accept, can wear it and stand in his place. The cost is the wearer's own, and Mehrava says plainly what it is.
-- _Carry his case to the Stone of Ranâz._ Mehrava will ask the Council of Elders to name him not a master but a warden of the crack, and the Circle to rule that he is held to the Promise and not outside it.
+- _Carry his case to the Stone of Ranaz._ Mehrava will ask the Council of Elders to name him not a master but a warden of the crack, and the Circle to rule that he is held to the Promise and not outside it.
 
 **Clues and rewards.** The crown is of iron tempered by the god's own fire, and in the right hands it steadies a storm-walker against any storm. In the sealed room beneath the stair lie the lineage's rolls of initiates and a modest store of salt in glass jars. A party that has paid the toll is not asked to pay it again.
 
@@ -134,7 +134,7 @@ The [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] stands on the salt of t
 
 - **If the master is bound.** The Floor is safe to cross, the toll falls, and the Lightning-Marked lineage grows in standing. Mehrava's readings are taken more seriously by the Council.
 - **If the master is killed.** The storm leaves the tower and goes into the open desert. Caravans lose camels to lightning that does not strike.
-- **If the crown is taken to the Stone of Ranâz.** The Council argues for a season, and the Circle is asked whether the Old Promise binds against a Dunhari who is a door.
+- **If the crown is taken to the Stone of Ranaz.** The Council argues for a season, and the Circle is asked whether the Old Promise binds against a Dunhari who is a door.
 - **If the Kinless Watch learns what was done.** They report to Amradad, and the Kingdom's interest in the Floor deepens.
 
 ## See Also

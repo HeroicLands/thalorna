@@ -1,9 +1,9 @@
 ---
 shortcode: razaagorikot
-name: {full: Raza Agoríkot, aliases: [Elder Magistrate Raza, Magistrate Raza]}
+name: {full: Raza Agorikot, aliases: [Elder Magistrate Raza, Magistrate Raza]}
 type: being
 subType: npc
-description: The senior figure of the Marshfeld council, an elder magistrate who mentors Fýléze Steníkot.
+description: The senior figure of the Marshfeld council, an elder magistrate who mentors Fileze Stenikot.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Raza Agoríkot is a 64-year-old woman who stands 5'7" tall with a massive build. She has olive skin, weathered complexion, black hair, and hazel eyes.
+Raza Agorikot is a 64-year-old woman who stands 5'7" tall with a massive build. She has olive skin, weathered complexion, black hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Raza Agoríkot is the senior figure of the council of Marshfeld, an elder magistrate. Over the years of her contract she has become a mentor to [[being-fylzstnkt|Fýléze Steníkot]], and offers her wisdom and support beyond the business of the season.
+Raza Agorikot is the senior figure of the council of Marshfeld, an elder magistrate. Over the years of her contract she has become a mentor to [[being-fylzstnkt|Fileze Stenikot]], and offers her wisdom and support beyond the business of the season.

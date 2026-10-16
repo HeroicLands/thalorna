@@ -16,15 +16,15 @@ data:
 
 ## Overview
 
-Six thousand people live in Kostaros, one of the lesser harbors that string out along the coast of [[place-byzariargn|Byzaría]] beside the great port of [[place-nesthiros2|Nêsthiros]]. It is the daughter-port of the Helionite city-state [[affiliation-kostaros2|Kostaros]], planted in the colonizing centuries ([[lore-daughtercts|the Daughter-Cities]]), and it keeps its mother's name. To the counting houses of [[affiliation-khryshteikhos|Khrýshteíkhos]] a harbor this size is a line of dues. To the people who come out of it, it is home, and the character notes name three of them.
+Six thousand people live in Kostaros, one of the lesser harbors that string out along the coast of [[place-byzariargn|Bizaria]] beside the great port of [[place-nesthiros2|Nesthiros]]. It is the daughter-port of the Helionite city-state [[affiliation-kostaros2|Kostaros]], planted in the colonizing centuries ([[lore-daughtercts|the Daughter-Cities]]), and it keeps its mother's name. To the counting houses of [[affiliation-khryshteikhos|Krusteikhos]] a harbor this size is a line of dues. To the people who come out of it, it is home, and the character notes name three of them.
 
 ## Who Comes from Kostaros
 
-- [[being-fylzstnkt|Fýléze Steníkot]] is a mercenary whom the Village Council of [[place-marshfeld|Marshfeld]] hires every year against bandits and raiders.
-- [[being-nmshrprklvs|Nômasáhr Paraklávos]] is a litigant in the League's commercial courts.
-- [[being-agapevrzns|Agápeia Varzánês]] is a miner.
+- [[being-fylzstnkt|Fileze Stenikot]] is a mercenary whom the Village Council of [[place-marshfeld|Marshfeld]] hires every year against bandits and raiders.
+- [[being-nmshrprklvs|Nomasáhr Paraklavos]] is a litigant in the League's commercial courts.
+- [[being-agapevrzns|Agápeia Varzanes]] is a miner.
 
 ## See Also
 
-- [[place-byzariargn|Byzaría Region]]—the region the harbor lies in
-- [[place-chrysamar|Chrysamar]], [[place-thalassos|Thálassos]]—the neighboring harbors of the coast
+- [[place-byzariargn|Bizaria Region]]—the region the harbor lies in
+- [[place-chrysamar|Chrisamar]], [[place-thalassos|Thálassos]]—the neighboring harbors of the coast

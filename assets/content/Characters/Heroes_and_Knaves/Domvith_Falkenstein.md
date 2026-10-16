@@ -1,6 +1,6 @@
 ---
 shortcode: dmvthflknstn
-name: {full: Dómvith yra Hárskorn wur Falkenstein, given: Dómvith, clan: Hárskorn, aliases: []}
+name: {full: Domvith yra Harskorn wur Falkenstein, given: Domvith, clan: Harskorn, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]
@@ -391,19 +391,19 @@ sohl:
 
 # Appearance {#appearance}
 
-Dómvith is a broad man with graying hair, a flattened nose and a pale scar across one palm. He wears repaired leather over a wool tunic and carries a spear whose shaft has been replaced many times. A wolf token rests beneath his collar. His old command torc is absent; he touches the bare place at his throat when someone addresses him as a leader.
+Domvith is a broad man with graying hair, a flattened nose and a pale scar across one palm. He wears repaired leather over a wool tunic and carries a spear whose shaft has been replaced many times. A wolf token rests beneath his collar. His old command torc is absent; he touches the bare place at his throat when someone addresses him as a leader.
 
 # Dossier {#dossier}
 
 ## The Man Who Stayed
 
-At [[place-falkensten|Falkenstein]] they tell of Dómvith twice. The first tale is quick, because a young man's triumph takes little breath. The second takes the length of a winter fire.
+At [[place-falkensten|Falkenstein]] they tell of Domvith twice. The first tale is quick, because a young man's triumph takes little breath. The second takes the length of a winter fire.
 
 He won his first renown at the crossing below the crag. His band stood shield to shield while the river rose around their knees. He knew each man's step and each man's fear, and he brought them home together. The Falcon was the village's wesk; the Wolf was the shape he found for himself. He was given charge of the crossing and men who would follow him gladly.
 
-Then came a raid and a retreating enemy with stolen cattle. His companions saw the chance for a greater song. Dómvith had orders to hold the crossing until the households behind it were safe. He listened to the men beside him, and their eagerness sounded like courage. They pursued.
+Then came a raid and a retreating enemy with stolen cattle. His companions saw the chance for a greater song. Domvith had orders to hold the crossing until the households behind it were safe. He listened to the men beside him, and their eagerness sounded like courage. They pursued.
 
-They took back the cattle. Behind them another enemy band reached the unguarded boats. Three defenders died, a household burned, and people who had trusted his charge fled into the reeds. Dómvith came home with horns and hides enough to cover the shame. He said the crossing had already fallen when he left it.
+They took back the cattle. Behind them another enemy band reached the unguarded boats. Three defenders died, a household burned, and people who had trusted his charge fled into the reeds. Domvith came home with horns and hides enough to cover the shame. He said the crossing had already fallen when he left it.
 
 A boatwoman had watched him go. Before the living witnesses she repeated his last words to his companions. He could remember saying them. He could no longer bear hearing them.
 
@@ -411,15 +411,15 @@ The Other Chief heard the losses and the witnesses. The War Chief took back his 
 
 Do not hurry the years that follow. He gave his raid shares to the harmed households. He hauled timber, escorted those who would not ride beside him, and stood watches under younger men. One widow accepted the grain and would never accept his company. The reciters leave her that choice.
 
-When the crossing was threatened again, he was there as a defender. Across the water he saw the leader of the earlier attack, close enough that a strong swimmer might reach him. Behind Dómvith the last boat had grounded, heavy with children and old people. He had a spear, a rope and the length of one choice.
+When the crossing was threatened again, he was there as a defender. Across the water he saw the leader of the earlier attack, close enough that a strong swimmer might reach him. Behind Domvith the last boat had grounded, heavy with children and old people. He had a spear, a rope and the length of one choice.
 
 He drove the spear beneath the boat's side and lifted while others pulled. An arrow pinned his hand to the shaft. He broke the shaft, left the point where it stood and took the rope. The enemy leader escaped. The boat floated.
 
-When relief came, Dómvith could not close his injured hand. The younger captain asked why he had stayed when there had been glory across the river. “There were people behind me,” he said. It was an answer he could have given years before.
+When relief came, Domvith could not close his injured hand. The younger captain asked why he had stayed when there had been glory across the river. “There were people behind me,” he said. It was an answer he could have given years before.
 
-The village trusted him with watches again. He did not recover every friendship or his former command. Yet when the crossing must be held, people ask whether Dómvith is there. The tale ends with the rope passing from his sound hand to another's, because even the man who stays must learn to let others carry their part.
+The village trusted him with watches again. He did not recover every friendship or his former command. Yet when the crossing must be held, people ask whether Domvith is there. The tale ends with the rope passing from his sound hand to another's, because even the man who stays must learn to let others carry their part.
 
-## Playing Dómvith
+## Playing Domvith
 
 The oral accounts agree on the abandoned charge and the grounded boat, but place them in different generations. This sheet presents him after the rescue, with restored trust as a warrior and no current command office. His hand has healed enough for ordinary weapon use, leaving a visible scar; its temporary incapacity belongs to the tale. Living restitution and trust shape his redemption. No reciter can state how the ancestors will judge him.
 
@@ -427,7 +427,7 @@ The oral accounts agree on the abandoned charge and the grounded boat, but place
 
 ### Personality and Motivation
 
-Dómvith's Wolf bond expresses cooperation, careful formation fighting and loyalty. His weakness is letting a group's desire replace his own judgment. He seeks to be reliable to those entrusted to him and to finish the restitution that remains. Praise makes him wary; a clearly stated duty steadies him.
+Domvith's Wolf bond expresses cooperation, careful formation fighting and loyalty. His weakness is letting a group's desire replace his own judgment. He seeks to be reliable to those entrusted to him and to finish the restitution that remains. Praise makes him wary; a clearly stated duty steadies him.
 
 ### Strengths and Limits
 
@@ -439,6 +439,6 @@ His kin retained him when his command was withdrawn. Younger captains give his p
 
 ## Plot Hooks
 
-1. **The Last Reckoning**—A surviving witness disputes the remaining restitution. Escort the witness and establish a living account while Dómvith's former companions try to suppress their part in the raid.
+1. **The Last Reckoning**—A surviving witness disputes the remaining restitution. Escort the witness and establish a living account while Domvith's former companions try to suppress their part in the raid.
 2. **The Profitable Pursuit**—His old band proposes a rich raid during his next defensive watch. Help him keep the crossing while discovering whether the offer conceals an attack on it.
-3. **The Grounded Boat**—Floodwater has trapped households at the crossing. The party must free and escort the boats while Dómvith holds the approach under a young captain whose orders he must trust.
+3. **The Grounded Boat**—Floodwater has trapped households at the crossing. The party must free and escort the boats while Domvith holds the approach under a young captain whose orders he must trust.

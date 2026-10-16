@@ -19,7 +19,7 @@ data:
       - level: 0
         title: Rite-Denied
         description: >-
-          Barred from the temple rites, and with them from the funerary rites every Khelâthi eventually requires—a sentence that reaches past the end of the life it is passed in.
+          Barred from the temple rites, and with them from the funerary rites every Khelathi eventually requires—a sentence that reaches past the end of the life it is passed in.
       - level: 1
         title: Lay Faithful
         description: >-
@@ -33,12 +33,12 @@ data:
         description: >-
           "Servant of the God"—the ordained priesthood and the working body of the temple.
       - level: 4
-        title: Thâz'Lekhau
+        title: Thaz'Lekhau
         description: >-
-          "Great of Sacred Power"—the High Priest or High Priestess, elevated from among the senior Lem'Nelgir. A selat god's Thâz'Lekhau carries real weight inside the selat and very little outside it.
+          "Great of Sacred Power"—the High Priest or High Priestess, elevated from among the senior Lem'Nelgir. A selat god's Thaz'Lekhau carries real weight inside the selat and very little outside it.
     offices:
       Warden of the Papyrus Harvest: >-
-        Blesses and oversees the cutting of the reed-beds. The empire's paper comes from this selat, and with it every tax roll, contract and temple record in Aû'Khelâthu.
+        Blesses and oversees the cutting of the reed-beds. The empire's paper comes from this selat, and with it every tax roll, contract and temple record in Au'Khelathu.
       Priest of the Fowling-Grounds: >-
         Keeps the rites of the marsh, where fowling and reed-craft are the whole of the local livelihood.
   seat: null
@@ -53,17 +53,17 @@ sohl: {system: {commonSkills: []}}
 
 "Every tax roll in the empire started in a bed like this one," a fowler tells a passenger poling through the reeds of the delta, and he lifts a hand toward the green wall on either side. "The scribes forget it. [[lore-shebazetdty|Shebazet]] does not."
 
-Shebazet, the cobra-goddess, is the goddess of the papyrus marshes. Her cult belongs to the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], a delta selat that lives by fowling, reed-craft and the empire's paper-cutting, whose capital is [[place-garshebazet|Gar-Shebazet]]. Her reach is quiet and very long. In a civilization that runs on records, the reed-beds her priests bless supply the paper for every tax roll, contract and temple record in [[affiliation-empireakhlth|Aû'Khelâthu]].
+Shebazet, the cobra-goddess, is the goddess of the papyrus marshes. Her cult belongs to the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], a delta selat that lives by fowling, reed-craft and the empire's paper-cutting, whose capital is [[place-garshebazet|Gar-Shebazet]]. Her reach is quiet and very long. In a civilization that runs on records, the reed-beds her priests bless supply the paper for every tax roll, contract and temple record in [[affiliation-empireakhlth|Au'Khelathu]].
 
 ## Two Offices of the Marsh
 
 The cult's work is the marsh's two livelihoods. The **Warden of the Papyrus Harvest** blesses and oversees the cutting of the reed-beds. The **Priest of the Fowling-Grounds** keeps the rites of the marsh, where fowling and reed-craft are the whole of the local livelihood.
 
-The ladder above and below them is the shared one: lay faithful who keep the observances, Wazu, Lem'Nelgir, and a Thâz'Lekhau whose standing is real inside the selat and slight outside it. A goddess with no imperial standing therefore holds a local temple, a local priesthood and, through the paper, the physical basis of [[affiliation-rethsaar|Reth'Sa'âr's]] whole domain.
+The ladder above and below them is the shared one: lay faithful who keep the observances, Wazu, Lem'Nelgir, and a Thaz'Lekhau whose standing is real inside the selat and slight outside it. A goddess with no imperial standing therefore holds a local temple, a local priesthood and, through the paper, the physical basis of [[affiliation-rethsaar|Reth'Sa'ar's]] whole domain.
 
 ## See Also
 
 - [[lore-shebazetdty|Shebazet]]—the goddess
 - [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]]—her selat
 - [[affiliation-deltaselatu|The Delta Selatu]]—the selatu she belongs to
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelâthi]] cult shares
+- [[affiliation-khelathpnthn|Khelathi Pantheon]]—the temple hierarchy every [[lore-khelathiclt|Khelathi]] cult shares

@@ -3,7 +3,7 @@ shortcode: gullverdir
 name: {full: "Gullverdir", aliases: []}
 type: affiliation
 subType: order
-description: "Guardians of Sólrún's sacred wealth."
+description: "Guardians of Solrún's sacred wealth."
 tags: [draft]
 data:
   culture: nordheimnclt
@@ -17,20 +17,20 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Dróttvargr
+        title: Drottvargr
         lore: drottvargrrnk
         description: >-
           Cast out of Gullverdir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Dróttmadr
+        title: Drottmadr
         lore: drottmadrrnk
         description: >-
           Holds the gold given away at a feast-hall's rites in trust, answering for it until the giving itself takes place.
       - level: 3
-        title: Dróttstjóri
+        title: Dróttstjori
         lore: drottstjorirnk
         description: >-
-          Leads the order's keeping of Sólrún's temples, seeing them stay prosperous and well kept.
+          Leads the order's keeping of Solrún's temples, seeing them stay prosperous and well kept.
     offices: {}
   seat: null
   population: null
@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Every coin that passes through the doors of a feast-hall is somebody's to answer for, and in [[affiliation-solrun|Sólrún]]'s temples that somebody is a Keeper of the Golden Veil.
+Every coin that passes through the doors of a feast-hall is somebody's to answer for, and in [[affiliation-solrun|Solrún]]'s temples that somebody is a Keeper of the Golden Veil.
 
-Gullverdir guard Sólrún's sacred wealth and see that her feast-hall temples stay prosperous and well kept. A member holds the gold given away at her rites in trust until the giving itself takes place, and answers for every coin that passes through a hof's doors. Holding that gold in trust is a Dróttmadr's work; a Dróttstjóri directs the order's keeping of the temples.
+Gullverdir guard Solrún's sacred wealth and see that her feast-hall temples stay prosperous and well kept. A member holds the gold given away at her rites in trust until the giving itself takes place, and answers for every coin that passes through a hov's doors. Holding that gold in trust is a Drottmadr's work; a Dróttstjori directs the order's keeping of the temples.

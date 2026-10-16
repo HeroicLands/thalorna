@@ -246,7 +246,7 @@ The jungle trail is worn smooth and narrow, a trough in the leaf litter that run
 
 # Dossier {#dossier}
 
-The Tapir is the largest land animal of the lowland forests, four to seven hundred pounds, barrel-bodied and trunk-nosed, living on the forest floor, river margins and wetlands of [[place-xelemrgn|Xelem]] and [[place-neokbaatergn|Ne'ok Ba'ate]]. It is shy, comes out at night and avoids a fight, and swims well. In K'ich'chik it is the oldest animal, the forest's first inhabitant, tied to water and the lower world, and harming one needlessly is bad manners and not a crime. It is prey for the jaguar, and it raids crops at the edge of the clearings.
+The Tapir is the largest land animal of the lowland forests, four to seven hundred pounds, barrel-bodied and trunk-nosed, living on the forest floor, river margins and wetlands of [[place-xelemrgn|Shelem]] and [[place-neokbaatergn|Ne'ok Ba'ate]]. It is shy, comes out at night and avoids a fight, and swims well. In K'ich'chik it is the oldest animal, the forest's first inhabitant, tied to water and the lower world, and harming one needlessly is bad manners and not a crime. It is prey for the jaguar, and it raids crops at the edge of the clearings.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A heavy, barrel-shaped animal on short, sturdy legs, with a head that tapers int
 
 ## In the Land
 
-Tapirs live on the floor of the lowland forest and along the rivers and marshes of [[place-xelemrgn|Xelem]] and [[place-neokbaatergn|Ne'ok Ba'ate]]. A tapir keeps to a range around a water-hole and a river bank, comes out at night to browse leaves, fruit and water-plants with its trunk-like snout and spends the day lying up in dense cover. It swims and dives well, and takes to the water when alarmed.
+Tapirs live on the floor of the lowland forest and along the rivers and marshes of [[place-xelemrgn|Shelem]] and [[place-neokbaatergn|Ne'ok Ba'ate]]. A tapir keeps to a range around a water-hole and a river bank, comes out at night to browse leaves, fruit and water-plants with its trunk-like snout and spends the day lying up in dense cover. It swims and dives well, and takes to the water when alarmed.
 
 ## Key Behaviors
 

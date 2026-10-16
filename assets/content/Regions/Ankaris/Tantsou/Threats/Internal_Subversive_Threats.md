@@ -7,11 +7,11 @@ tags: [gm]
 data: {packFolder: threats}
 ---
 
-The [[affiliation-tantsouempr|Empire of Tāntsou]] keeps a register of every person in it, and the enemies it fears most are the ones the register cannot see: sorcerers who have slipped their owners, merchants who want what the law forbids them, a cult that worships the powers of unmaking, a criminal society that sells forged identities, and a famine the scholars cannot explain. Each of them attacks the classification itself, and each has learned to work with the others when it suits.
+The [[affiliation-tantsouempr|Empire of Tantsou]] keeps a register of every person in it, and the enemies it fears most are the ones the register cannot see: sorcerers who have slipped their owners, merchants who want what the law forbids them, a cult that worships the powers of unmaking, a criminal society that sells forged identities, and a famine the scholars cannot explain. Each of them attacks the classification itself, and each has learned to work with the others when it suits.
 
 ## The Sorcerers' Guild
 
-The [[affiliation-ordoarcanis|Thôrdimâlon]], called in Tāntsou the Sorcerers' Guild, is a guild of mages from beyond the borders, and it holds that no sorcerer should be owned. To the Arcane Order the [[lore-wanduo|Wánduo]] are prisoners; to the empire they are property, and the empire's control of magic rests on them. The Arcane Order keeps an embassy in the imperial capital under treaty, and from it runs a quiet operation to reach the Wánduo, stir them to resist and gather what they know.
+The [[affiliation-ordoarcanis|Thordimalon]], called in Tantsou the Sorcerers' Guild, is a guild of mages from beyond the borders, and it holds that no sorcerer should be owned. To the Arcane Order the [[lore-wanduo|Wánduo]] are prisoners; to the empire they are property, and the empire's control of magic rests on them. The Arcane Order keeps an embassy in the imperial capital under treaty, and from it runs a quiet operation to reach the Wánduo, stir them to resist and gather what they know.
 
 ## Ha Zhao, the Shadow Sect
 
@@ -21,19 +21,19 @@ The Sect's most dangerous tie is to the Arcane Order embassy. The Arcane Order s
 
 ## The Merchants' Rising
 
-The [[lore-shuonong|Shuonong]] are rich, taxed hardest of any caste and barred on pain of death from politics. A faction among the great merchant houses is organizing to change that, and it means to have a voice in the government whatever the Caste Laws say. It has money, warehouses in every river city and the ear of every Wòhou officer who owes it a debt, and it has begun to work with the Black Lotus Society. If the faction moves before the court notices it, the first sign will be the barges stopping.
+The [[lore-shuonong|Shuonong]] are rich, taxed hardest of any caste and barred on pain of death from politics. A faction among the great merchant houses is organizing to change that, and it means to have a voice in the government whatever the Caste Laws say. It has money, warehouses in every river city and the ear of every Wohou officer who owes it a debt, and it has begun to work with the Black Lotus Society. If the faction moves before the court notices it, the first sign will be the barges stopping.
 
-## Nuòtsou Ruì, the Cult of the Forsaken
+## Nuotsou Rui, the Cult of the Forsaken
 
-[[affiliation-nuotsourui|Nuòtsou Ruì]] grew among the lower castes, and it preaches that the order of the world is rotten past repair and must be destroyed. Unlike the Shadow Sect or the merchants, it wants nothing in its place.
+[[affiliation-nuotsourui|Nuotsou Rui]] grew among the lower castes, and it preaches that the order of the world is rotten past repair and must be destroyed. Unlike the Shadow Sect or the merchants, it wants nothing in its place.
 
-The cult worships the **Demon Lords** of the [[affiliation-youweng|Youwéng]], the powers inside the [[affiliation-tengwouronglei|Celestial Order]] whose whole nature is to refuse, corrupt or unmake the celestial bureaucracy. Chief among them are [[affiliation-nuoho|Nuòhò]] the Unmaker, [[affiliation-watsai|Watsài]] the Forger of False Records, [[affiliation-zhaosou|Zhaosou]] the Walking Contradiction and [[affiliation-henzhuo|Hénzhuo]] the First Refusal. Because they already stand in the empire's own cosmology, a convert keeps everything he was taught and turns its values over: the cult holds that the Demon Lords are the truth of the bureaucracy, not a sickness in it.
+The cult worships the **Demon Lords** of the [[affiliation-youweng|Youwéng]], the powers inside the [[affiliation-tengwouronglei|Celestial Order]] whose whole nature is to refuse, corrupt or unmake the celestial bureaucracy. Chief among them are [[affiliation-nuoho|Nuoho]] the Unmaker, [[affiliation-watsai|Watsai]] the Forger of False Records, [[affiliation-zhaosou|Zhaosou]] the Walking Contradiction and [[affiliation-henzhuo|Hénzhuo]] the First Refusal. Because they already stand in the empire's own cosmology, a convert keeps everything he was taught and turns its values over: the cult holds that the Demon Lords are the truth of the bureaucracy, not a sickness in it.
 
-From Nuòhò the cult has learned to raise the [[lore-undead|undead]], and it looses them in crowded districts to cause the greatest disorder it can, among the living and in the registers alike. It has nothing to do with the [[affiliation-varakpnthn|Varnaka Pantheon]], whose cycle of destruction and renewal it despises, since the cult wants destruction that never ends.
+From Nuoho the cult has learned to raise the [[lore-undead|undead]], and it looses them in crowded districts to cause the greatest disorder it can, among the living and in the registers alike. It has nothing to do with the [[affiliation-varakpnthn|Varnuka Pantheon]], whose cycle of destruction and renewal it despises, since the cult wants destruction that never ends.
 
 Its attacks are aimed at the machinery of classification. Cultists burn ministry archives that hold the census rolls and the moral-ledger records, murder officials in public at festivals, carry fire into administrative halls knowing they will not walk out, and work patiently into the lower ranks of the clerks to corrupt the records from inside. It coordinates its violence with the Black Lotus Society's sabotage, and the two together have done more damage to the registers in a decade than any rebellion.
 
-## Ha Luò Zhao, the Black Lotus Society
+## Ha Luo Zhao, the Black Lotus Society
 
 The [[affiliation-haluozhao|Black Lotus Society]] is the empire's great criminal syndicate. Its existence is an open secret, and its power lies in staying that way: it sells protection, pays bribes, runs smuggling and procures forbidden magic, and it bends trade and politics without being seen to do it.
 
@@ -44,12 +44,12 @@ The [[affiliation-haluozhao|Black Lotus Society]] is the empire's great criminal
 
 ## The Famine in the South
 
-The southern rice harvests have failed several years running. Crops have withered, smaller rivers have dried in their beds, and the villages are starving. The [[lore-tanchei|Tānchéi]] are divided over the cause: one school reads a breakdown of classification in the domains of Earth and Water, and the other a sign that the [[lore-mandatehvn|Mandate of Heaven]] is weakening, a reading no scholar puts in writing. As hunger spreads, so does unrest, and in some districts the [[lore-nouwen|Nouwén]] have risen against their lords and the magistrates who collect the tribute.
+The southern rice harvests have failed several years running. Crops have withered, smaller rivers have dried in their beds, and the villages are starving. The [[lore-tanchei|Tanchéi]] are divided over the cause: one school reads a breakdown of classification in the domains of Earth and Water, and the other a sign that the [[lore-mandatehvn|Mandate of Heaven]] is weakening, a reading no scholar puts in writing. As hunger spreads, so does unrest, and in some districts the [[lore-nouwen|Nouwén]] have risen against their lords and the magistrates who collect the tribute.
 
 ## See Also
 
-- [[affiliation-yanchaizhao|Yànchài Zhao]]—a noble house entangled with the Black Lotus Society
-- [[being-tuijawengyan|Tuìja Wéngyàn]]—the exiled general's rebellion
-- [[lore-weizhairui|Wéi Zhài Ruì]]—the court's game of manipulation, which shelters many of these threats
+- [[affiliation-yanchaizhao|Yanchai Zhao]]—a noble house entangled with the Black Lotus Society
+- [[being-tuijawengyan|Tuija Wengyan]]—the exiled general's rebellion
+- [[lore-weizhairui|Wei Zhai Rui]]—the court's game of manipulation, which shelters many of these threats
 - [[lore-castelaws|Caste Laws]]—the social order under pressure
-- [[affiliation-tantsouempr|Empire of Tāntsou]]—the empire these forces work against
+- [[affiliation-tantsouempr|Empire of Tantsou]]—the empire these forces work against

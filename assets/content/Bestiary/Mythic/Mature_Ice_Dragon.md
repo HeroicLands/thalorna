@@ -357,7 +357,7 @@ The storm came up the valley with no warning, as the guide said they do, and now
 
 # Dossier {#dossier}
 
-The Mature Ice Dragon is an ice dragon of two or three centuries: twenty-four to thirty-six feet long with wings of fifty feet and more, at the height of its power, patient beyond any human measure, and the architect of its own legend. It holds a great range with several lairs, hunts with deliberation, plays a long game with the peoples round it, and speaks. Like every dragon it is a mortal creature with a vast soul, and magic comes apart near it. It was hatched in the centuries after the Vylarian Republic betrayed the dragons, and it has made a life far from the west. It holds the high glaciers of [[place-estrnreach|the Eastern Reach]], the cold arc of the Grazian range that turns east toward Tāntsou, and the [[affiliation-hvarnguides|Hvarn]] who keep the two eastern crossings know it as well as they know the weather.
+The Mature Ice Dragon is an ice dragon of two or three centuries: twenty-four to thirty-six feet long with wings of fifty feet and more, at the height of its power, patient beyond any human measure, and the architect of its own legend. It holds a great range with several lairs, hunts with deliberation, plays a long game with the peoples round it, and speaks. Like every dragon it is a mortal creature with a vast soul, and magic comes apart near it. It was hatched in the centuries after the Vylarian Republic betrayed the dragons, and it has made a life far from the west. It holds the high glaciers of [[place-estrnreach|the Eastern Reach]], the cold arc of the Grazian range that turns east toward Tantsou, and the [[affiliation-hvarnguides|Hvarn]] who keep the two eastern crossings know it as well as they know the weather.
 
 ## Presentation
 
@@ -365,7 +365,7 @@ A mature ice dragon is massive and long, its scales pale blue, white and gray, t
 
 ## In the Land
 
-The Eastern Reach is lower and narrower than the Southern Wall and colder for it, with storms that come up the eastern valleys without warning, and its crossings, [[place-jnanadvara|Jñānadvāra]] and [[place-sankhadvra|Shankhadvāra]], are Hvarn ground. The dragon holds the glaciers and cirques of the high Reach between the two crossings, with lairs in ice caves at several of them, and it moves between them with the seasons. It hunts the wild yaks, sheep and goats of the high pastures and, now and then, a caravan's beasts. It does not take Hvarn parties. The Tāntsou way-station beyond Jñānadvāra, which keeps a register of everything that comes through, has an entry for it.
+The Eastern Reach is lower and narrower than the Southern Wall and colder for it, with storms that come up the eastern valleys without warning, and its crossings, [[place-jnanadvara|Jnanadvara]] and [[place-sankhadvra|Shankhadvara]], are Hvarn ground. The dragon holds the glaciers and cirques of the high Reach between the two crossings, with lairs in ice caves at several of them, and it moves between them with the seasons. It hunts the wild yaks, sheep and goats of the high pastures and, now and then, a caravan's beasts. It does not take Hvarn parties. The Tantsou way-station beyond Jnanadvara, which keeps a register of everything that comes through, has an entry for it.
 
 ## Key Behaviors
 
@@ -373,7 +373,7 @@ A mature ice dragon is patient past any human sense of the word. It waits years 
 
 ## What the Hvarn Do
 
-The Hvarn share their roads out each winter among their hearths, and every hearth that draws a crossing under the dragon's glaciers draws the dragon with it. The Hvarn have an arrangement with it, whose terms they do not tell lowlanders: their parties are not touched, a share of every caravan's goods is left on a particular stone at the top of the col, and the dragon is told who is crossing and why. The [[place-sanghafort|Sangha-fort]]'s garrison, which runs on Hvarn pack-trains, pays its part without being told what it is paying for. The Tāntsou way-station's [[lore-tanchei|Tānchéi]] registrar has the dragon in the register as a classified creature of the frontier, with notes on its habits that go back two centuries; she believes it reads the register, and she may be right. Lowland merchants who try to cross without a Hvarn guide, to save the guide's share, are the dragon's usual meals.
+The Hvarn share their roads out each winter among their hearths, and every hearth that draws a crossing under the dragon's glaciers draws the dragon with it. The Hvarn have an arrangement with it, whose terms they do not tell lowlanders: their parties are not touched, a share of every caravan's goods is left on a particular stone at the top of the col, and the dragon is told who is crossing and why. The [[place-sanghafort|Sangha-fort]]'s garrison, which runs on Hvarn pack-trains, pays its part without being told what it is paying for. The Tantsou way-station's [[lore-tanchei|Tanchéi]] registrar has the dragon in the register as a classified creature of the frontier, with notes on its habits that go back two centuries; she believes it reads the register, and she may be right. Lowland merchants who try to cross without a Hvarn guide, to save the guide's share, are the dragon's usual meals.
 
 ## Signs
 

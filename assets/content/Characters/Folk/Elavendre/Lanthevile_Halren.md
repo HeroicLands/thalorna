@@ -1,6 +1,6 @@
 ---
 shortcode: lanthevileha
-name: {full: Lánthevilë Hálren, aliases: []}
+name: {full: Lánthevile Halren, aliases: []}
 type: being
 subType: npc
 description: A druid attached to a grove near several sites of Black Flame activity, who has been investigating the burned shrines and scorched clearings in the forests around Elanmere.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Lánthevilë Hálren is a 52-year-old woman who stands 5'8" tall with a heavy build. She has tanned skin, smooth complexion, red hair, and brown eyes.
+Lánthevile Halren is a 52-year-old woman who stands 5'8" tall with a heavy build. She has tanned skin, smooth complexion, red hair, and brown eyes.
 
 # Dossier {#dossier}
 
-Lánthevilë Hálren is a druid attached to a grove near several sites of Black Flame activity. She investigates the burned shrines and scorched clearings in the forests around Elanmere and maps where they fall. She brings her reports to [[being-dharnvldrn|Dháran Véldarin]] and to council member [[being-glyencrdth|Lýenna Kárdeth]], asking for a more thorough investigation.
+Lánthevile Halren is a druid attached to a grove near several sites of Black Flame activity. She investigates the burned shrines and scorched clearings in the forests around Elanmere and maps where they fall. She brings her reports to [[being-dharnvldrn|Daran Véldarin]] and to council member [[being-glyencrdth|Lyenna Kardeth]], asking for a more thorough investigation.

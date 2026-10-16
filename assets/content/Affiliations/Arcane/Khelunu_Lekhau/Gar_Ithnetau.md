@@ -30,7 +30,7 @@ data:
       - level: 2
         title: Lekhau
         description: >-
-          Holder of sacred power: permitted to speak the House's formulae and to inscribe them. The rank is the ordinary working practitioner, and in Aû'Khelâthu it is held by priests rather than by any separate class of mage.
+          Holder of sacred power: permitted to speak the House's formulae and to inscribe them. The rank is the ordinary working practitioner, and in Au'Khelathu it is held by priests rather than by any separate class of mage.
       - level: 3
         title: Khel-Gebu
         description: >-
@@ -38,12 +38,12 @@ data:
       - level: 4
         title: Wer Khel-Gebu
         description: >-
-          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must go and correct it.
+          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must gho and correct it.
     offices:
       Keeper of the Twelve Hours: >-
         Holds the litany by which a soul is guided through the night, and is answerable for its exactness at every hour.
       Binder of the Chamber: >-
-        Sets the workings in the deepest chambers—the zaglu-warriors, ḍumaṭu that wake at a broken seal, and the revenant-wardens, ṭerebu set to walk the dark with their wits about them.
+        Sets the workings in the deepest chambers—the zaglu-warriors, dumatu that wake at a broken seal, and the revenant-wardens, terebu set to walk the dark with their wits about them.
       Reader of the Sealed Work: >-
         Alone permitted to open a sealed chamber to correct a failed binding, and required to reseal it the same night.
   seat: null
@@ -62,7 +62,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Three Offices
 
-The **Keeper of the Twelve Hours** holds the litany by which a soul is guided through the night, and answers for its exactness at every hour. The Binder of the Chamber sets the workings in the deepest chambers: the zaglu-warriors, the ḍumaṭu that wake at a broken seal, and the revenant-wardens, ṭerebu set to walk the dark with their wits about them.
+The **Keeper of the Twelve Hours** holds the litany by which a soul is guided through the night, and answers for its exactness at every hour. The Binder of the Chamber sets the workings in the deepest chambers: the zaglu-warriors, the dumatu that wake at a broken seal, and the revenant-wardens, terebu set to walk the dark with their wits about them.
 
 The **Reader of the Sealed Work** is the only office permitted to open a sealed chamber to correct a failed binding, and must reseal it the same night.
 

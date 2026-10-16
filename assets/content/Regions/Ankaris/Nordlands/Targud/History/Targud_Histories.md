@@ -28,7 +28,7 @@ data:
       stated: {calendar: domseycount, text: "354 BG"}
       sources: [lore-trgdahstry, lore-storalddraskborg, affiliation-kingdmtrgd]
       summary: >-
-        King Braldmýl I raises the fort at Draskborg and a line of beacons across the burned ground, so that a raid seen on the frontier is known at Tvalgard the same night.
+        King Braldmil I raises the fort at Draskborg and a line of beacons across the burned ground, so that a raid seen on the frontier is known at Tvalgard the same night.
       standing: single-source
       where: {locus: [place-targud]}
       follows:
@@ -44,9 +44,9 @@ frontier's history, not evidence of a peace bought from a nest.
 
 ## The Kingdom's Past
 
-Targud was a kingdom of farms before it was a kingdom of forts. Its kings, the [[affiliation-kingdmtrgd|Driskarukh]], held their hall at [[place-nulthgard|Nulthgard]] above a ford in the old eastern districts for three centuries, and [[affiliation-kingdmtrgd|Skruldmýl I]], about 528 to 556, raised the first watchtowers along the eastern woods when the Grukar raids grew bold. From 604 a single Grukar tribe spawned for war burned the east district by district, and in 613 it reached Nulthgard. The hird and the eastern farmers held the ford below the hall for three days at [[place-dvulgvangr|Dvulgvangr]] and died there, and [[affiliation-kingdmtrgd|Skruldmýl II]] fell back to [[place-tvalgard|Tvalgard]] and ordered every bóndi in the kingdom onto the wall in turn; [[lore-burningeast|The Burning of the East]] tells it. His son [[affiliation-kingdmtrgd|Braldmýl I]] raised [[place-driskborg|Draskborg]] and the beacon line about 640, which the saga of [[lore-storalddraskborg|Stórald of Draskborg]] remembers from the other end.
+Targud was a kingdom of farms before it was a kingdom of forts. Its kings, the [[affiliation-kingdmtrgd|Driskaruk]], held their hall at [[place-nulthgard|Nulthgard]] above a ford in the old eastern districts for three centuries, and [[affiliation-kingdmtrgd|Skruldmil I]], about 528 to 556, raised the first watchtowers along the eastern woods when the Grukar raids grew bold. From 604 a single Grukar tribe spawned for war burned the east district by district, and in 613 it reached Nulthgard. The hirv and the eastern farmers held the ford below the hall for three days at [[place-dvulgvangr|Dvulgvangr]] and died there, and [[affiliation-kingdmtrgd|Skruldmil II]] fell back to [[place-tvalgard|Tvalgard]] and ordered every bundi in the kingdom onto the wall in turn; [[lore-burningeast|The Burning of the East]] tells it. His son [[affiliation-kingdmtrgd|Braldmil I]] raised [[place-driskborg|Draskborg]] and the beacon line about 640, which the saga of [[lore-storalddraskborg|Storald of Draskborg]] remembers from the other end.
 
-Three kings have held Tvalgard since 686: [[affiliation-kingdmtrgd|Skruldmýl III]], his short-lived son [[affiliation-kingdmtrgd|Thraldvir]], and [[affiliation-kingdmtrgd|Braldmýl II]], king since 707. The court has had three accessions in a generation and the frontier has had none of the peace a settled succession buys.
+Three kings have held Tvalgard since 686: [[affiliation-kingdmtrgd|Skruldmil III]], his short-lived son [[affiliation-kingdmtrgd|Thraldvir]], and [[affiliation-kingdmtrgd|Braldmil II]], king since 707. The court has had three accessions in a generation and the frontier has had none of the peace a settled succession buys.
 
 ## The Sword Named Thirst
 
@@ -64,6 +64,6 @@ frontier's pressure must decide what it would mean to find the knots cut.
 ## See Also
 
 - [[affiliation-kingdmtrgd|Kingdom of Targud]] · [[place-targud|Targud]]
-- [[place-grkrhlmrgn|Grukarhölm]] · [[lore-aldarlok|Aldarlok]]
+- [[place-grkrhlmrgn|Grukarholm]] · [[lore-aldarlok|Aldarlok]]
 - [[lore-burningeast|The Burning of the East]] · [[place-nulthgard|Nulthgard]] · [[place-dvulgvangr|Dvulgvangr]]
-- [[lore-domseycount|The Dómsey Count]]—the reckoning of the sittings and the ages of the north
+- [[lore-domseycount|The Domsey Count]]—the reckoning of the sittings and the ages of the north

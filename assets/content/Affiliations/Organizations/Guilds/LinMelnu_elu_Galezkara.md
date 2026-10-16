@@ -52,7 +52,7 @@ A smith who has fallen out with the imperial guild can still find standing here.
 
 ## Relations
 
-The guild stands beside the imperial body without answering to it. [[affiliation-linmelnkhlth|Lin'Melnu elu Aû'Khelâthu]] is the empire-wide metalworkers' guild, which shares the trade and not the authority. The city's magistrates hold authority over the local guild where the imperial guild's charter does not reach, so the guild owes two masters and neither of them is the one next door.
+The guild stands beside the imperial body without answering to it. [[affiliation-linmelnkhlth|Lin'Melnu elu Au'Khelathu]] is the empire-wide metalworkers' guild, which shares the trade and not the authority. The city's magistrates hold authority over the local guild where the imperial guild's charter does not reach, so the guild owes two masters and neither of them is the one next door.
 
 ## Commerce and Currency
 
@@ -60,5 +60,5 @@ The guild's trade is the ordinary smithing of the capital. Say a builder needs t
 
 ## See Also
 
-- [[affiliation-linmelnkhlth|Lin'Melnu elu Aû'Khelâthu]]—The imperial guild of metalworkers
+- [[affiliation-linmelnkhlth|Lin'Melnu elu Au'Khelathu]]—The imperial guild of metalworkers
 - [[place-galezkara|Galezkara]]—The city the guild works in

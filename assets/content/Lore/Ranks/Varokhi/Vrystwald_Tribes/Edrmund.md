@@ -3,16 +3,16 @@ shortcode: edrmundrnk
 name: {full: "Edrmund", aliases: ["Dependent"]}
 type: lore
 subType: law
-description: "Free and of no kin, sheltered by a household without being of its blood, in the Vrystwald Tribes."
+description: "Free and of no kin, sheltered by a household without being of its blood, in the Vristwald Tribes."
 tags: []
 data: {culture: varokhiclt}
 ---
 
-Free and of no kin, sheltered by a household without being of its blood, in the Vrystwald Tribes.
+Free and of no kin, sheltered by a household without being of its blood, in the Vristwald Tribes.
 
 ## What This Standing Is
 
-An Edrmund is sheltered by a household without being of its blood—a freed [[lore-othmundrnk|Óthmund]] before he is married in, a widow's family taken under another household's roof, a stranger given shelter, or a trader or settler living among the tribes. Each is free, and each stands apart from the households that hold kinship by blood.
+An Edrmund is sheltered by a household without being of its blood—a freed [[lore-othmundrnk|Othmund]] before he is married in, a widow's family taken under another household's roof, a stranger given shelter, or a trader or settler living among the tribes. Each is free, and each stands apart from the households that hold kinship by blood.
 
 ## How the Law Treats a Person Here
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The [[affiliation-vrystwldtrbs|Vrystwald Tribes]] alone.
+The [[affiliation-vrystwldtrbs|Vristwald Tribes]] alone.

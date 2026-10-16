@@ -1,6 +1,6 @@
 ---
 shortcode: arevynlydr
-name: {full: Árevin Lídren, given: Árevin, clan: Lídren, aliases: []}
+name: {full: Árevin Lidren, given: Árevin, clan: Lidren, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -418,7 +418,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[arevynlydr|Árevin Lídren]]{float=top-left}
+![[arevynlydr|Árevin Lidren]]{float=top-left}
 
 Árevin stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
 
@@ -481,7 +481,7 @@ The Royal Engineering Corps of Élavendre
 
 ### Enemies
 
-Foreman Sálvurnë of the Deepmine Consortium
+Foreman Sálvurne of the Deepmine Consortium
 : A ruthless operative who views Árevin's safety rules as expensive obstacles to profit. They have clashed repeatedly over his warnings about unstable shafts.
 
 The Industrialists' Council
@@ -504,8 +504,8 @@ The Order of Árdavon (Order Aspect)
 
 2. **The Veins of Whispers**: A young apprentice presents Árevin with samples of an unprecedented ore formation discovered far beneath the usual mining depths—a mineral that seems to hum with an eerie vibration when struck. The composition defies his extensive knowledge, suggesting either a complete redefinition of geology or something far stranger beneath Élavendre's mountains. Investigation reveals hints of something ancient and possibly dangerous awakening in the deep earth.
 
-3. **The Heir's Validation**: Merchant House Kallinthiros offers Árevin an enormous contract: prospect an entirely new mountain range on the Kingdom's border, with a team of the finest engineers and guards. The catch: he must validate it before the [[affiliation-byzarianlg|Byzarian League]] can claim it, and political tensions make the expedition a potential powder keg. Árevin must navigate not just treacherous terrain but international intrigue while proving his methods remain vital to the realm.
+3. **The Heir's Validation**: Merchant House Kallinthiros offers Árevin an enormous contract: prospect an entirely new mountain range on the Kingdom's border, with a team of the finest engineers and guards. The catch: he must validate it before the [[affiliation-byzarianlg|Bizarian League]] can claim it, and political tensions make the expedition a potential powder keg. Árevin must navigate not just treacherous terrain but international intrigue while proving his methods remain vital to the realm.
 
 4. **The Forbidden Depths**: Árevin discovers references in old mining records to a chamber deep beneath the known mines—a place deliberately sealed off and forgotten by his predecessors. The cryptic warnings suggest catastrophe if the seals were ever breached. When strange geological disturbances suggest the seals may be failing, Árevin faces a terrible choice: risk descending to inspect the seals, or remain silent and hope the danger passes.
 
-5. **The Apprentice's Betrayal**: Árevin's most gifted apprentice, **Kénrel Elárven**, begins secretly selling Árevin's prospecting charts to the Byzarian League, seeking personal wealth and advancement. When Árevin discovers the betrayal, he must decide between crushing an ambitious young man or understanding the desperation that drives him—a choice that forces him to confront how his own inflexibility may have pushed a promising student toward corruption.
+5. **The Apprentice's Betrayal**: Árevin's most gifted apprentice, **Kenrel Elarven**, begins secretly selling Árevin's prospecting charts to the Bizarian League, seeking personal wealth and advancement. When Árevin discovers the betrayal, he must decide between crushing an ambitious young man or understanding the desperation that drives him—a choice that forces him to confront how his own inflexibility may have pushed a promising student toward corruption.

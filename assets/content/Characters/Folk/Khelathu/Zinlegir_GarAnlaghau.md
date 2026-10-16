@@ -5,7 +5,7 @@ name:
   aliases: [Church Inquisitor Zinlegir the Censorious, Inquisitor Zinlegir]
 type: being
 subType: npc
-description: A zealous church inquisitor who views the independent practice of Zanut Gezâ'Uzu with hostility.
+description: A zealous church inquisitor who views the independent practice of Zanut Geza'Uzu with hostility.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -38,4 +38,4 @@ Zinlegir Gar'Anlaghau is a 55-year-old man who stands 5'10" tall with a light bu
 
 # Dossier {#dossier}
 
-Zinlegir Gar'Anlaghau, called the Censorious, is a zealous church inquisitor who views the independent practice of [[being-zanutgezauzu|Zanut Gezâ'Uzu]] and her use of certain botanicals as potentially heretical. He has begun investigating her work, questioning whether she employs forbidden magical techniques, and warning others away from her services.
+Zinlegir Gar'Anlaghau, called the Censorious, is a zealous church inquisitor who views the independent practice of [[being-zanutgezauzu|Zanut Geza'Uzu]] and her use of certain botanicals as potentially heretical. He has begun investigating her work, questioning whether she employs forbidden magical techniques, and warning others away from her services.

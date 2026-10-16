@@ -1,6 +1,6 @@
 ---
 shortcode: marendas
-name: {full: "Ritual: Mârendâs", aliases: [Mârendâs, Keeper of Sacred Wisdom]}
+name: {full: "Ritual: Marendas", aliases: [Marendas, Keeper of Sacred Wisdom]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-marendas|Faith of Mârendâs]]
+See [[affiliation-marendas|Faith of Marendas]]

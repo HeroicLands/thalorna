@@ -3,11 +3,11 @@ shortcode: selatzuzllgl
 name: {full: The Selat of Zu-Zalu-Legulu, aliases: []}
 type: affiliation
 subType: polity
-description: "The great southern march of Aû'Khelâthu—the cataract frontier where the river breaks into rapids and the empire ends, held by a soldier-Halzi'a who commands the fortress-line, taxes the gold-and-ivory road from the deep south, and watches the tribal lands beyond."
+description: "The great southern march of Au'Khelathu—the cataract frontier where the river breaks into rapids and the empire ends, held by a soldier-Halzi'a who commands the fortress-line, taxes the gold-and-ivory road from the deep south, and watches the tribal lands beyond."
 data:
   banner: khelathubnr
   templatePriority: null
-  demonym: Khelâthi
+  demonym: Khelathi
   epithet: null
   symbol: null
   governance:
@@ -24,49 +24,30 @@ data:
         description: >-
           Bound to an estate or a temple, owing labor on its fields and its works and holding nothing of his own.
       - level: 2
-        title: Farmer
+        title: Zelar
         description: >-
-          Working the floodplain under a lord or a temple, owing a share of the harvest and labor on the canals.
+          A commoner, the free rank of no house: farmer, artisan, merchant and scribe alike. A Zelar owes a share of the harvest, labor on the canals and tax on his work, and a talented child may enter the scribal schools, which are the empire's principal path upward.
       - level: 3
-        title: Artisan or Merchant
+        title: Zabu
         description: >-
-          Of the trades—potters, weavers, boatmen, traders—free of the fields and taxed on their work.
-      - level: 4
-        title: Scribe
-        description: >-
-          Lettered, and therefore the empire's principal path upward: a talented child of any house may enter the schools.
-      - level: 5
-        title: Legha'lutu
-        description: >-
-          Ruler of an estate—its manor, its fields and its village—answerable to the Halzi'a above.
-      - level: 6
-        title: Halzi'a
-        description: >-
-          Halzi'a: hereditary governor of a selat, commanding its army, collecting its taxes and dispensing its justice.
-      - level: 7
-        title: Iru'palu
-        description: >-
-          Of the royal house and the most exalted families, the highest hereditary rank below the throne.
-      - level: 8
-        title: Gar-Aû
-        description: >-
-          The divine sovereign, on whose claim all temple and secular authority rests—a fiction nobody believes and nobody may abandon.
+          A noble, the rank of one born or married into a titled house. Estate-rulers, ladies of the court and the hereditary governors of a selat are all Zabu, and the standing descends with the house.
     offices:
-      Halzi'a: Halzi'a, governing a selat with armies, taxes and courts of his own.
-      Legha'lutu: Ruler of an estate—manor, fields and village—answerable to the Halzi'a.
-      Zabet'lutu: Mistress of an estate, holding the same authority in her own right.
-      Zabet: Lady of the court, whose standing comes from position rather than from land.
+      Halzi'a: >-
+        Halzi'a, governing a selat with armies, taxes and courts of his own. Held by a Zabu.
+      Legha'lutu: >-
+        Ruler of an estate—manor, fields and village—answerable to the Halzi'a. Held by a Zabu.
+      Zabet'lutu: >-
+        Mistress of an estate, holding the same authority in her own right. Held by a Zabu.
+      Zabet: >-
+        Lady of the court, whose standing comes from position rather than from land. Held by a Zabu.
       Zemelu: >-
-        Companion of the Gar-Aû: a title of royal favor and access rather than territorial authority.
-      Thâz'Lekhau: >-
-        Great of Sacred Power—High Priest of a major temple, master of its estates and voice of its god.
-      Lem'Nelgir: >-
-        Servant of the God—the ordained priesthood that conducts the rites and runs the temple's lands.
-      Wazu: >-
-        Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
-      Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
-      Halzi'a's Steward: Administrator of the selat's revenue, its granaries and its corvée.
-      Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
+        Companion of the Gar-Au: a title of royal favor and access rather than territorial authority. Held by a Zabu.
+      Overseer of Scribes: >-
+        Head of a bureau of the administration, commanding the lettered men who actually govern. Held by a Zelar.
+      Halzi'a's Steward: >-
+        Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
+      Canal-Warden: >-
+        Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
   seat: balehen
   population: 320000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
@@ -79,13 +60,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-[[place-zuzalulegulunome|Zu-Zalu-Legulu]], "the **Southern Land of Rule**," is the great southern march of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the selat where the empire ends and the tribal lands begin. Its soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony and slaves that come up the river-road from the deep south, and watches the southern tribes, whose loyalty runs from grudging vassalage to open war.
+[[place-zuzalulegulunome|Zu-Zalu-Legulu]], "the **Southern Land of Rule**," is the great southern march of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], the selat where the empire ends and the tribal lands begin. Its soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony and slaves that come up the river-road from the deep south, and watches the southern tribes, whose loyalty runs from grudging vassalage to open war.
 
 His patron is [[lore-qeztudty|Qeztu]], the war-god, whose cult is stronger on this frontier than anywhere in the empire. The land he holds is [[place-zuzalulegulunome|Zu-Zalu-Legulu]].
 
 ## Character
 
-A quartermaster of the cataract forts, asked by a new officer what the selat is like, answers in one sentence: "It is a border war that never quite ends and never quite begins." That is the temper of the country. Its people are a frontier mix—[[lore-khelathiclt|Khelâthi]] soldiers and settlers, the families of the garrisons, traders working the southern road, and a large population of half-assimilated southerners who farm, serve, soldier and trade on the empire's terms.
+A quartermaster of the cataract forts, asked by a new officer what the selat is like, answers in one sentence: "It is a border war that never quite ends and never quite begins." That is the temper of the country. Its people are a frontier mix—[[lore-khelathiclt|Khelathi]] soldiers and settlers, the families of the garrisons, traders working the southern road, and a large population of half-assimilated southerners who farm, serve, soldier and trade on the empire's terms.
 
 Society is military to the bone. Rank is measured in command, the Halzi'a rules by the troops at his back, and the great event of a year is as likely to be a raid, a relief-column or a tribal embassy as a harvest. The country breeds the empire's most experienced fighting men and its most independent-minded border lords.
 
@@ -96,7 +77,7 @@ Gold, ivory, ebony, hides, exotic animals and slaves come up the river from beyo
 ## Notable Features
 
 - The strong frontier cult of Qeztu, the war-god
-- The mixed Khelâthi-and-southern border society of the cataract country
+- The mixed Khelathi-and-southern border society of the cataract country
 
 ## For the Worldbuilder
 
@@ -115,13 +96,13 @@ Gold, ivory, danger and hard soldiers are abundant. Grain, safety and any certai
 
 ## Commerce and Currency
 
-Zu-Zalu-Legulu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the southern frontier is one of the places where struck gold and silver circulate most: garrison pay, caravan tolls and the southern gold trade all run on weighed metal, alongside a brisk barter in southern goods. The [[affiliation-garhalzi|Gár-Hálzi]] agents who follow the army and the trade-road weigh and discount foreign and tribal valuables. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Zu-Zalu-Legulu uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the southern frontier is one of the places where struck gold and silver circulate most: garrison pay, caravan tolls and the southern gold trade all run on weighed metal, alongside a brisk barter in southern goods. The [[affiliation-garhalzi|Gar-Hálzi]] agents who follow the army and the trade-road weigh and discount foreign and tribal valuables. See [[lore-aukhlthcrncy|Au'Khelathu Currency]] for the full system.
 
 ## See Also
 
 - [[affiliation-borderselatu|The Border Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
+- [[affiliation-empireakhlth|Empire of Au'Khelathu]]—Imperial overview
 - [[place-balehen|Balehen]]—Selat capital and fortress
 - [[affiliation-malldbndlg|Free Companies Compact]]—Chartered mercenaries who take frontier contracts
-- [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Pantheon
+- [[affiliation-khelathpnthn|Khelathi Pantheon]]—Pantheon
 - [[place-zuzalulegulunome|Zu-Zalu-Legulu]]—The land the selat holds

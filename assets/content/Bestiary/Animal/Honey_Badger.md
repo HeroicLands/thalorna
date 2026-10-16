@@ -237,7 +237,7 @@ The wild fig by the dry river-bed has been torn open at the root, and a bee-tree
 
 # Dossier {#dossier}
 
-The Honey Badger is a small, ferocious badger, two to three feet long and up to thirty-five pounds, with a black coat and a pale stripe from head to tail. It lives on the savanna and dry woodland of the [[place-sthrnsvnhs|Southern Savannahs]], the scrub of the [[place-sthmrchsrgn|South Marches]] and the hills of [[place-okharisrgn|Okháris]], raiding bee-trees, killing snakes and attacking animals many times its size. Its skin is so loose that it can twist and bite an attacker that has hold of it.
+The Honey Badger is a small, ferocious badger, two to three feet long and up to thirty-five pounds, with a black coat and a pale stripe from head to tail. It lives on the savanna and dry woodland of the [[place-sthrnsvnhs|Southern Savannahs]], the scrub of the [[place-sthmrchsrgn|South Marches]] and the hills of [[place-okharisrgn|Okharis]], raiding bee-trees, killing snakes and attacking animals many times its size. Its skin is so loose that it can twist and bite an attacker that has hold of it.
 
 ## Presentation
 
@@ -245,7 +245,7 @@ A compact, heavily muscled animal on stocky legs ending in strong claws for digg
 
 ## In the Land
 
-Honey badgers live on the savanna and in the dry woodland of the [[place-sthrnsvnhs|Southern Savannahs]], the scrub of the [[place-sthmrchsrgn|South Marches]] and the hills of the [[place-okharisrgn|Okháris]] country. A badger digs a burrow in a bank, ranges a few miles at night and by day for bees, snakes, small animals and carrion, and follows the honey-guide birds to the hives. It moves from one burrow to the next and holds no fixed den.
+Honey badgers live on the savanna and in the dry woodland of the [[place-sthrnsvnhs|Southern Savannahs]], the scrub of the [[place-sthmrchsrgn|South Marches]] and the hills of the [[place-okharisrgn|Okharis]] country. A badger digs a burrow in a bank, ranges a few miles at night and by day for bees, snakes, small animals and carrion, and follows the honey-guide birds to the hives. It moves from one burrow to the next and holds no fixed den.
 
 ## Key Behaviors
 

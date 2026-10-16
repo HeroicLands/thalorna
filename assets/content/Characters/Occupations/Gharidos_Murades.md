@@ -1,6 +1,6 @@
 ---
 shortcode: ghardsmrds
-name: {full: Ghârîdos Mûrâdês, aliases: []}
+name: {full: Gharidos Murades, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -391,13 +391,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Ghârîdos Mûrâdês is a 26-year-old man who stands 6'3" tall and is broad and solidly built. He has an oval face with angular cheekbones, a lined forehead, and a square jaw that leads to a square chin. His narrow hazel eyes sit beneath prominent brows, lending him a keen gaze. A prominent nose and firm lips complete his features. He has medium-toned skin with a bronzed complexion. His brown hair is falling in loose waves.
+Gharidos Murades is a 26-year-old man who stands 6'3" tall and is broad and solidly built. He has an oval face with angular cheekbones, a lined forehead, and a square jaw that leads to a square chin. His narrow hazel eyes sit beneath prominent brows, lending him a keen gaze. A prominent nose and firm lips complete his features. He has medium-toned skin with a bronzed complexion. His brown hair is falling in loose waves.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ghârîdos Mûrâdês came into the world of the longshoreman through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Gharidos Murades came into the world of the longshoreman through a combination of circumstance and aptitude.
 
-Ghârîdos has spent the last decade working on the docks, where he has become a vital part of the shipping and cargo handling operations. Known for his strength and reliability, he often takes on the heaviest loads and is responsible for ensuring that cargo is loaded and unloaded safely and efficiently. Ghârîdos enjoys the camaraderie of his fellow workers and takes pride in the essential role he plays in trade.
+Gharidos has spent the last decade working on the docks, where he has become a vital part of the shipping and cargo handling operations. Known for his strength and reliability, he often takes on the heaviest loads and is responsible for ensuring that cargo is loaded and unloaded safely and efficiently. Gharidos enjoys the camaraderie of his fellow workers and takes pride in the essential role he plays in trade.
 
 ## Psyche
 
@@ -407,7 +407,7 @@ Can be overly stubborn, struggles with more technical aspects of shipping.
 
 ### Motivation
 
-Ghârîdos is driven by the desire to master his craft and secure a stable future. The uncertainties of life in longshoreman work keep him vigilant and adaptable.
+Gharidos is driven by the desire to master his craft and secure a stable future. The uncertainties of life in longshoreman work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -415,15 +415,15 @@ Physically strong, dependable, good at teamwork.
 
 ## Social
 
-Ghârîdos is affiliated with Local Longshoremen's Union.
+Gharidos is affiliated with Local Longshoremen's Union.
 
-As a Helionite longshoreman, Ghârîdos occupies a recognized social niche within Heliónis society.
+As a Helionite longshoreman, Gharidos occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Ghârîdos's primary patron is Ship captains and cargo merchants. This relationship provides both opportunity and obligation.
+Gharidos's primary patron is Ship captains and cargo merchants. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -431,12 +431,12 @@ Few; generally well-liked among peers.
 
 ## Plot Hooks
 
-1. **The Longshoreman's Dilemma**—Ghârîdos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
+1. **The Longshoreman's Dilemma**—Gharidos faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 2. **Old Grudges**—Few; generally well-liked among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Ghârîdos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past**—Something from Gharidos's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Ghârîdos depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Helionis threaten to upend the social order that Gharidos depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Ghârîdos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Gharidos the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

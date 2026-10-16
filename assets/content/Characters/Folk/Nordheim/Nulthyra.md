@@ -1,9 +1,9 @@
 ---
 shortcode: nulthyra
-name: {full: Nulthýra, aliases: [Lady Nulthýra]}
+name: {full: Nulthira, aliases: [Lady Nulthira]}
 type: being
 subType: npc
-description: The lady of Wildwood Manor, the seat above Thraldfjord whose forest climbs from the manor to the high ground, named in Gnarthorv Snarvarukh and Wildwood Manor.
+description: The lady of Wildwood Manor, the seat above Thraldfjord whose forest climbs from the manor to the high ground, named in Gnarthorv Snarvaruk and Wildwood Manor.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Nulthýra is a 36-year-old woman who stands 5'7" tall with a light build. She has pale skin, smooth complexion, auburn hair, and grey eyes.
+Nulthira is a 36-year-old woman who stands 5'7" tall with a light build. She has pale skin, smooth complexion, auburn hair, and grey eyes.
 
 # Dossier {#dossier}
 
-Nulthýra is the lady of Wildwood Manor, the seat above Thraldfjord whose forest climbs from the manor to the high ground. [[being-gnrthrvsnrvrkh|Gnarthorv Snarvarukh]] is her chief huntsman and ranks in her retinue just below her steward. Nulthýra is named in [[being-gnrthrvsnrvrkh|Gnarthorv Snarvarukh]] and [[place-wildwoodmnr|Wildwood Manor]].
+Nulthira is the lady of Wildwood Manor, the seat above Thraldfjord whose forest climbs from the manor to the high ground. [[being-gnrthrvsnrvrkh|Gnarthorv Snarvaruk]] is her chief huntsman and ranks in her retinue just below her steward. Nulthira is named in [[being-gnrthrvsnrvrkh|Gnarthorv Snarvaruk]] and [[place-wildwoodmnr|Wildwood Manor]].

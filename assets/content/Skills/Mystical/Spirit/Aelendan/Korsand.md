@@ -1,9 +1,9 @@
 ---
 shortcode: porsandsprt
-name: {full: "Kórsand Spirit Power", aliases: ["Kórsand, the Grey Wolf of the Ridge"]}
+name: {full: "Korsand Spirit Power", aliases: ["Korsand, the Grey Wolf of the Ridge"]}
 type: skill
 subType: mystical
-description: "Standing with Kórsand, the Grey Wolf of the Ridge—what this allied Kindred is met, asked and bargained with."
+description: "Standing with Korsand, the Grey Wolf of the Ridge—what this allied Kindred is met, asked and bargained with."
 tags: [first-gods, spirit-power, draft]
 data: {icon: icon-psychicwaves, templatePriority: null, packFolder: spiritskillsaelendan}
 sohl:
@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[lore-porsandspr|Kórsand, the Grey Wolf of the Ridge]]—animal-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].
+See [[lore-porsandspr|Korsand, the Grey Wolf of the Ridge]]—animal-kin of [[lore-thekindred|the Kindred]], met through [[affiliation-theoldway|the Old Way]].

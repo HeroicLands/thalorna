@@ -1,6 +1,6 @@
 ---
 shortcode: lrtshgnrm
-name: {full: Lartûsh Genîrûm, aliases: []}
+name: {full: Lartush Genirum, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -395,13 +395,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Lartûsh Genîrûm is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a lined forehead, and a sharp jaw that leads to a pointed chin. His round dark brown right eye sits beneath prominent brows and gives him a candid gaze; the left is scarred and blind. He has a prominent nose and thin lips. He has medium-toned skin with a weathered complexion. His gray hair is tied in a low tail.
+Lartush Genirum is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a lined forehead, and a sharp jaw that leads to a pointed chin. His round dark brown right eye sits beneath prominent brows and gives him a candid gaze; the left is scarred and blind. He has a prominent nose and thin lips. He has medium-toned skin with a weathered complexion. His gray hair is tied in a low tail.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Lartûsh Genîrûm is a swordmaster.
+Born in the Taruzel region to a freeman family of Taruzelian heritage, Lartush Genirum is a swordmaster.
 
-Lartûsh was a mercenary who spent most of his life fighting in skirmishes and wars. After losing his left eye in a battle, he left mercenary life and settled in a small village, where he teaches swordsmanship to young men and women who mean to defend their homeland. His experience of real combat sets him apart from other swordmasters, but his past haunts him, and he struggles with guilt over the lives he took.
+Lartush was a mercenary who spent most of his life fighting in skirmishes and wars. After losing his left eye in a battle, he left mercenary life and settled in a small village, where he teaches swordsmanship to young men and women who mean to defend their homeland. His experience of real combat sets him apart from other swordmasters, but his past haunts him, and he struggles with guilt over the lives he took.
 
 ## Psyche
 
@@ -411,7 +411,7 @@ He is haunted by his past, and struggles with the morality of his former life.
 
 ### Motivation
 
-Lartûsh wants the young men and women he trains to be able to defend their homes, and to answer in that way for the lives he took.
+Lartush wants the young men and women he trains to be able to defend their homes, and to answer in that way for the lives he took.
 
 ### Strengths
 
@@ -419,13 +419,13 @@ He has combat experience, is skilled in practical sword technique, and is tough 
 
 ## Social
 
-Lartûsh belongs to no company and works on his own in the village.
+Lartush belongs to no company and works on his own in the village.
 
 ## Companions
 
 ### Patrons
 
-Lartûsh's patrons are the local villagers who seek his instruction for their defense.
+Lartush's patrons are the local villagers who seek his instruction for their defense.
 
 ### Enemies
 
@@ -433,12 +433,12 @@ Former mercenary comrades hold grudges from past conflicts.
 
 ## Plot Hooks
 
-1. **The Swordmaster's Dilemma**—A mercenary company offers to hire the students Lartûsh has trained, and the pay would take them from the village they were trained to defend.
+1. **The Swordmaster's Dilemma**—A mercenary company offers to hire the students Lartush has trained, and the pay would take them from the village they were trained to defend.
 
-2. **Old Grudges**—A former comrade who holds Lartûsh responsible for a past defeat has learned which village he settled in.
+2. **Old Grudges**—A former comrade who holds Lartush responsible for a past defeat has learned which village he settled in.
 
-3. **Echoes of the Past**—A survivor of a battle Lartûsh fought as a mercenary comes to the village, and knows him despite the lost eye.
+3. **Echoes of the Past**—A survivor of a battle Lartush fought as a mercenary comes to the village, and knows him despite the lost eye.
 
-4. **Shifting Winds**—Political change in Tarûzel brings war toward the village Lartûsh trains, and he can adapt, resist, or leave.
+4. **Shifting Winds**—Political change in Taruzel brings war toward the village Lartush trains, and he can adapt, resist, or leave.
 
-5. **The Opportunity**—A lord offers Lartûsh command of his household troops, and taking it would put him back in the life he left.
+5. **The Opportunity**—A lord offers Lartush command of his household troops, and taking it would put him back in the life he left.

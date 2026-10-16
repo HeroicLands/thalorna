@@ -1,6 +1,6 @@
 ---
 shortcode: hrkhsbrmyds
-name: {full: Harkhîs Baremydês, given: Harkhîs, clan: Baremydês, aliases: []}
+name: {full: Harkis Baremides, given: Harkis, clan: Baremides, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -421,9 +421,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hrkhsbrmyds|Harkhîs Baremydês]]{float=top-left}
+![[hrkhsbrmyds|Harkis Baremides]]{float=top-left}
 
-Harkhîs stands 5'8" tall with a medium build. He has light ruddy skin, grey hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
+Harkis stands 5'8" tall with a medium build. He has light ruddy skin, grey hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
 
 # Dossier {#dossier}
 
@@ -431,21 +431,21 @@ Harkhîs stands 5'8" tall with a medium build. He has light ruddy skin, grey hai
 
 ### The Healer's Apprentice
 
-Harkhîs was born into moderate means at the center of [[affiliation-vylarinmpr|Vylaria]]'s empire, to parents of the merchant class with interests in trade in exotic herbs and spices. His mother, a woman named **Amôra**, possessed real knowledge of herbal medicine and shared her interests with her intelligent youngest son. Where his siblings followed the ordinary merchant's path, Harkhîs became absorbed in the deeper mysteries of his mother's work—the understanding that the same substance that heals in small doses becomes poison in larger quantities, and that the boundary between remedy and toxin is a matter of precise measurement.
+Harkis was born into moderate means at the center of [[affiliation-vylarinmpr|Vylaria]]'s empire, to parents of the merchant class with interests in trade in exotic herbs and spices. His mother, a woman named **Amora**, possessed real knowledge of herbal medicine and shared her interests with her intelligent youngest son. Where his siblings followed the ordinary merchant's path, Harkis became absorbed in the deeper mysteries of his mother's work—the understanding that the same substance that heals in small doses becomes poison in larger quantities, and that the boundary between remedy and toxin is a matter of precise measurement.
 
-At sixteen years old, he was apprenticed to **Master Kehdaan**, one of the Empire's most respected apothecaries, working in an official shop located in Vylaria's primary administrative district. For twelve years, Harkhîs learned legitimate medicine, earning his guild standing and beginning to build a respectable reputation as a skilled practitioner of the herbal art. He married, had two children, lived a life that seemed destined for quiet prosperity.
+At sixteen years old, he was apprenticed to **Master Kehdaan**, one of the Empire's most respected apothecaries, working in an official shop located in Vylaria's primary administrative district. For twelve years, Harkis learned legitimate medicine, earning his guild standing and beginning to build a respectable reputation as a skilled practitioner of the herbal art. He married, had two children, lived a life that seemed destined for quiet prosperity.
 
 ### The Fall and the Underground
 
-At thirty-two years old, Harkhîs was approached by representatives of a criminal brotherhood operating in Vylaria's underworld. They requested that he create a particular poison—one that would mimic natural disease while being entirely artificial. He refused. They approached again, offering money sufficient to secure his family's future. He refused again. They approached a third time with a threat: create the poison or watch his family die. He created the poison.
+At thirty-two years old, Harkis was approached by representatives of a criminal brotherhood operating in Vylaria's underworld. They requested that he create a particular poison—one that would mimic natural disease while being entirely artificial. He refused. They approached again, offering money sufficient to secure his family's future. He refused again. They approached a third time with a threat: create the poison or watch his family die. He created the poison.
 
-The poison was used to assassinate a merchant prince, setting off a chain of events that unsettled Vylaria's merchant class. In the investigation that followed, Harkhîs' involvement was uncovered. Rather than face execution, he disappeared into the city's underground, abandoning his family and legitimate trade for a shadowed half-life where his skills could keep him alive.
+The poison was used to assassinate a merchant prince, setting off a chain of events that unsettled Vylaria's merchant class. In the investigation that followed, Harkis' involvement was uncovered. Rather than face execution, he disappeared into the city's underground, abandoning his family and legitimate trade for a shadowed half-life where his skills could keep him alive.
 
 His wife remarried; his children grew to hate his memory. He has made no effort to reconnect, understanding that his presence would bring only danger and shame.
 
 ### Present Circumstance
 
-For fourteen years, Harkhîs has operated in Vylaria's underworld, creating both poisons and antidotes for criminals, mercenaries, and the desperate. He is known to those who know him as a master of his craft—reliable, discreet, and willing to fulfill orders that legitimate practitioners would refuse. His reputation is impeccable within criminal circles and disreputable outside them. He has survived longer than most because he understands that the most valuable poison is one that no one suspects has been administered, and the most valuable antidote is one that only its maker possesses. He has built a carefully maintained balance of power through the careful distribution of knowledge and product.
+For fourteen years, Harkis has operated in Vylaria's underworld, creating both poisons and antidotes for criminals, mercenaries, and the desperate. He is known to those who know him as a master of his craft—reliable, discreet, and willing to fulfill orders that legitimate practitioners would refuse. His reputation is impeccable within criminal circles and disreputable outside them. He has survived longer than most because he understands that the most valuable poison is one that no one suspects has been administered, and the most valuable antidote is one that only its maker possesses. He has built a carefully maintained balance of power through the careful distribution of knowledge and product.
 
 Yet the weight of accumulated betrayals, poisons, and deaths grows heavier with each passing year. He drinks more than is wise, sleeps less than is healthy, and has begun to wonder whether a man of his history can ever again inhabit legitimate society, or whether he is now permanently locked in this shadowed world he has created.
 
@@ -453,7 +453,7 @@ Yet the weight of accumulated betrayals, poisons, and deaths grows heavier with 
 
 ### Personality
 
-Harkhîs is a man of careful precision in speech and action. He rarely speaks unless necessary, and when he does, his words carry careful weight. This deliberation can read as coldness to those who do not understand him, but those who work with him repeatedly recognize it as a kind of respect—he gives those around him the courtesy of meaningful communication rather than empty chatter.
+Harkis is a man of careful precision in speech and action. He rarely speaks unless necessary, and when he does, his words carry careful weight. This deliberation can read as coldness to those who do not understand him, but those who work with him repeatedly recognize it as a kind of respect—he gives those around him the courtesy of meaningful communication rather than empty chatter.
 
 Despite his external coldness, he possesses a peculiar morality that should not be mistaken for righteousness but rather for a working code. He will not knowingly create a poison for use against children or the truly innocent, having discovered through bitter experience that such crimes haunt him more seriously than others. He will not poison wells or create weapons of mass harm. Within these boundaries, however, his conscience is very flexible. He views his work as simply the application of knowledge to human problems, neither good nor evil, problems that would exist with or without his participation.
 
@@ -461,7 +461,7 @@ His intellectual engagement with his craft approaches the artistic. He takes rea
 
 ### Motivation
 
-Harkhîs seeks only to survive, to continue the work that defines his existence, and to maintain the subtle balance of power and discretion that allows him to walk unmolested through Vylaria's underworld. Beyond mere survival, he is driven by the intellectual challenge of his craft—the puzzle of creating substances with precise effects, the artistic satisfaction of solving difficult problems through craft and knowledge. He also carries a desperate, unexamined hope: that through perfect precision and excellence in his work, he might somehow atone for the specific poison that fractured his family and began his descent into shadow. This hope is likely futile, which he understands, but understanding does not prevent him from continuing to pursue it.
+Harkis seeks only to survive, to continue the work that defines his existence, and to maintain the subtle balance of power and discretion that allows him to walk unmolested through Vylaria's underworld. Beyond mere survival, he is driven by the intellectual challenge of his craft—the puzzle of creating substances with precise effects, the artistic satisfaction of solving difficult problems through craft and knowledge. He also carries a desperate, unexamined hope: that through perfect precision and excellence in his work, he might somehow atone for the specific poison that fractured his family and began his descent into shadow. This hope is likely futile, which he understands, but understanding does not prevent him from continuing to pursue it.
 
 ### Strengths
 
@@ -484,41 +484,41 @@ Harkhîs seeks only to survive, to continue the work that defines his existence,
 ### Patrons
 
 The Crimson Order
-: A well-organized criminal brotherhood operating throughout Vylaria; they maintain standing contract for Harkhîs' exclusive services and provide security in exchange for his availability
+: A well-organized criminal brotherhood operating throughout Vylaria; they maintain standing contract for Harkis' exclusive services and provide security in exchange for his availability
 
-Merchant Prince Kirâmôs
-: An ambiguous figure who may be legitimate or criminal (Harkhîs is uncertain); he contracts Harkhîs for exotic poisons and antidotes and seems to move easily between legitimate and shadow economies
+Merchant Prince Kiramos
+: An ambiguous figure who may be legitimate or criminal (Harkis is uncertain); he contracts Harkis for exotic poisons and antidotes and seems to move easily between legitimate and shadow economies
 
 The Master Healer's Guild (Covertly)
-: Certain legitimate medical practitioners have been known to discreetly contract Harkhîs for poisons used in mercy-killings and the relief of suffering in cases he does not fully understand but accepts at face value
+: Certain legitimate medical practitioners have been known to discreetly contract Harkis for poisons used in mercy-killings and the relief of suffering in cases he does not fully understand but accepts at face value
 
 ### Enemies
 
-Commander Khôlsâmê of the City Watch
-: The official responsible for investigating underground apothecary operations; she views Harkhîs as a personal obsession and has dedicated significant resources to apprehending him
+Commander Kolsame of the City Watch
+: The official responsible for investigating underground apothecary operations; she views Harkis as a personal obsession and has dedicated significant resources to apprehending him
 
 The Violet Syndicate
-: A rival criminal organization that has attempted multiple times to acquire Harkhîs' services exclusively; they view his independence as a threat to their control
+: A rival criminal organization that has attempted multiple times to acquire Harkis' services exclusively; they view his independence as a threat to their control
 
 Master Kehdaan (His Former Mentor)
-: His old master encountered Harkhîs years after his disappearance and, rather than helping him, publicly denounced him as a disgrace to the apothecary craft; Harkhîs has never forgiven this betrayal
+: His old master encountered Harkis years after his disappearance and, rather than helping him, publicly denounced him as a disgrace to the apothecary craft; Harkis has never forgiven this betrayal
 
 ### Affiliations
 
 The Underground Apothecaries Network
-: Informal confederation of renegade healers and alchemists operating beyond legitimate authority; Harkhîs maintains standing in this organization and contributes his knowledge to the common store
+: Informal confederation of renegade healers and alchemists operating beyond legitimate authority; Harkis maintains standing in this organization and contributes his knowledge to the common store
 
 The Crimson Order
 : While not a formal member, functions effectively as their primary alchemical consultant
 
 ## Plot Hooks
 
-1. **The Impossible Contract**: A mysterious patron who has never engaged Harkhîs before approaches with a contract that offers payment sufficient to buy freedom from the underworld permanently—perhaps even enough to attempt a return to legitimate society. The contract requires creation of a poison so complex and so specifically targeted to a particular individual that only Harkhîs could accomplish it. However, the target is someone whose role in political events is obscure; Harkhîs cannot determine whether he would be eliminating a real threat, removing an innocent, or serving a hidden purpose. The payment is substantial enough to tempt him, but the moral weight of uncertainty troubles him in ways simpler contracts do not.
+1. **The Impossible Contract**: A mysterious patron who has never engaged Harkis before approaches with a contract that offers payment sufficient to buy freedom from the underworld permanently—perhaps even enough to attempt a return to legitimate society. The contract requires creation of a poison so complex and so specifically targeted to a particular individual that only Harkis could accomplish it. However, the target is someone whose role in political events is obscure; Harkis cannot determine whether he would be eliminating a real threat, removing an innocent, or serving a hidden purpose. The payment is substantial enough to tempt him, but the moral weight of uncertainty troubles him in ways simpler contracts do not.
 
-2. **The Antidote Becomes Poison**: Harkhîs discovers that one of his antidotes—created years ago and distributed widely among criminal organizations—was never actually effective and may instead have accelerated the death of those who used it during poison exposure. Investigation suggests the error was inadvertent and came from contaminated source material he could not have known was compromised. However, dozens of people may have died believing themselves protected while actually being slowly poisoned. Addressing the problem means revealing his past involvement and inviting the attention of authorities; ignoring it means accepting that he carries responsibility for deaths that continue to accumulate.
+2. **The Antidote Becomes Poison**: Harkis discovers that one of his antidotes—created years ago and distributed widely among criminal organizations—was never actually effective and may instead have accelerated the death of those who used it during poison exposure. Investigation suggests the error was inadvertent and came from contaminated source material he could not have known was compromised. However, dozens of people may have died believing themselves protected while actually being slowly poisoned. Addressing the problem means revealing his past involvement and inviting the attention of authorities; ignoring it means accepting that he carries responsibility for deaths that continue to accumulate.
 
-3. **The Healer's Daughter**: A young woman arrives at his underground shop claiming to be the daughter Harkhîs abandoned years ago. She has learned, through investigation, what her father became and what he has done, and she has come to offer him a choice: help her expose and dismantle the Crimson Order, which she claims murdered her adoptive family, and in exchange she will help him escape the underworld and attempt a return to legitimate society. The offer represents hope but also requires him to betray the organization that has kept him alive for fourteen years, and his daughter may not forgive him whatever he does.
+3. **The Healer's Daughter**: A young woman arrives at his underground shop claiming to be the daughter Harkis abandoned years ago. She has learned, through investigation, what her father became and what he has done, and she has come to offer him a choice: help her expose and dismantle the Crimson Order, which she claims murdered her adoptive family, and in exchange she will help him escape the underworld and attempt a return to legitimate society. The offer represents hope but also requires him to betray the organization that has kept him alive for fourteen years, and his daughter may not forgive him whatever he does.
 
-4. **The Plague's Cure**: A true plague begins spreading through Vylaria's populations, a disease uncontrolled and spreading with terrifying speed. Official apothecaries are unable to create an effective treatment. Commander Khôlsâmê approaches Harkhîs secretly with an unusual proposal: if he will develop a cure, she will allow him to escape the city safely. He has the knowledge she does not, and she is willing to overlook his crimes if it means saving the city's population. The offer is tempting, but Harkhîs suspects a trap—either designed to capture him or to compromise him further by making him a public hero rather than a hidden criminal.
+4. **The Plague's Cure**: A true plague begins spreading through Vylaria's populations, a disease uncontrolled and spreading with terrifying speed. Official apothecaries are unable to create an effective treatment. Commander Kolsame approaches Harkis secretly with an unusual proposal: if he will develop a cure, she will allow him to escape the city safely. He has the knowledge she does not, and she is willing to overlook his crimes if it means saving the city's population. The offer is tempting, but Harkis suspects a trap—either designed to capture him or to compromise him further by making him a public hero rather than a hidden criminal.
 
-5. **The Suicide's Inheritance**: One of Harkhîs' few real friends among underworld figures—a woman named **Sylvara** who operated as an information broker—takes her own life after a business failure, leaving Harkhîs as her sole named heir. Her estate includes not only significant wealth but documents and records of secrets known only to her—blackmail material on numerous figures throughout Vylaria's underworld and legitimate circles. Sylvara left explicit instructions that Harkhîs should decide whether these secrets should be released, destroyed, or held in perpetuity. The decision he makes will shape politics and crime in Vylaria for decades, and Harkhîs realizes he has suddenly been positioned as a figure of real power, a responsibility he never sought.
+5. **The Suicide's Inheritance**: One of Harkis' few real friends among underworld figures—a woman named **Sylvara** who operated as an information broker—takes her own life after a business failure, leaving Harkis as her sole named heir. Her estate includes not only significant wealth but documents and records of secrets known only to her—blackmail material on numerous figures throughout Vylaria's underworld and legitimate circles. Sylvara left explicit instructions that Harkis should decide whether these secrets should be released, destroyed, or held in perpetuity. The decision he makes will shape politics and crime in Vylaria for decades, and Harkis realizes he has suddenly been positioned as a figure of real power, a responsibility he never sought.

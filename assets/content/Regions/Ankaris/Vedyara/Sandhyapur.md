@@ -1,9 +1,9 @@
 ---
 shortcode: sandhyapur
-name: {full: Sandhyāpur, aliases: []}
+name: {full: Sandyapur, aliases: []}
 type: place
 subType: settlement
-description: "The capital of Bhūmipāla and the only town on Vedyara's western shore—a court, a roadstead behind a sand spit, the salt pans, and the southern end of the march road."
+description: "The capital of Bhumipala and the only town on Vedyara's western shore—a court, a roadstead behind a sand spit, the salt pans, and the southern end of the march road."
 tags: [town, capital, coastal, port, market]
 data:
   demonym: null
@@ -16,23 +16,23 @@ data:
   government: bhumipala
 ---
 
-**Sandhyāpur** (12,000, market 4) is the capital of [[affiliation-bhumipala|Bhūmipāla]] and the only town of any size on [[place-vedyarargn|Vedyara]]'s western shore. It stands behind a sand spit at the mouth of a seasonal river, at the southern end of [[place-marchroad|the march road]]. It is a court, a customs house and a salt town, in that order of dignity and the reverse order of income.
+**Sandyapur** (12,000, market 4) is the capital of [[affiliation-bhumipala|Bhumipala]] and the only town of any size on [[place-vedyarargn|Vedyara]]'s western shore. It stands behind a sand spit at the mouth of a seasonal river, at the southern end of [[place-marchroad|the march road]]. It is a court, a customs house and a salt town, in that order of dignity and the reverse order of income.
 
-The Mahārāja's court is here because the road ends here and the water is reliable. The palace is a walled compound of one story with a tower at each corner, built to hold against a raid and not against a siege. The town has grown round it in three quarters: the road quarter inside the wall, the salt quarter east along the flats, and the boat quarter on the spit. It is also here because the ruling clan was: the Bhūmipāla were masters of the salt coast who rode out the steppe host of 315 in boats behind the spit, and kept their court on the coast when they took the march ([[lore-bhmplraise|the Raising of Bhūmipāla]]).
+The Maharava's court is here because the road ends here and the water is reliable. The palace is a walled compound of one story with a tower at each corner, built to hold against a raid and not against a siege. The town has grown round it in three quarters: the road quarter inside the wall, the salt quarter east along the flats, and the boat quarter on the spit. It is also here because the ruling clan was: the Bhumipala were masters of the salt coast who rode out the steppe host of 315 in boats behind the spit, and kept their court on the coast when they took the march ([[lore-bhmplraise|the Raising of Bhumipala]]).
 
 ## The Roadstead
 
 There is no harbor. Ships lie in an open roadstead behind the spit with their cables ready and a man watching the weather, and cargo comes ashore in lighters over a beach. In the worst month of the year a master will not lie here at all and stands off to the south instead.
 
-The shipping is coastwise. Hulls work between the roadsteads of this shore and round the southern turn into the [[place-meghsamdra|Megha-samudra]], and the passage to the Khelâthi delta is made that way when the season allows it. No house here keeps a factor on any farther shore, and no master is paid to cross open water.
+The shipping is coastwise. Hulls work between the roadsteads of this shore and round the southern turn into the [[place-meghsamdra|Meghra-samedra]], and the passage to the Khelathi delta is made that way when the season allows it. No house here keeps a factor on any farther shore, and no master is paid to cross open water.
 
-Due west across the open water is the eastern coast of [[place-xerathia|Xerathia]]. Every master on this beach knows it is there and none of them goes to it. The crossing is a month of blue water with nothing to put into, and the cargoes that would pay for it already come round by the delta in Khelâthi hulls.
+Due west across the open water is the eastern coast of [[place-xerathia|Zerathia]]. Every master on this beach knows it is there and none of them goes to it. The crossing is a month of blue water with nothing to put into, and the cargoes that would pay for it already come round by the delta in Khelathi hulls.
 
 ## Salt and the Road
 
 The pans east of the town are the reason the place can pay for itself. Salt is raked, dried, weighed at the crown's shed and sold by the wagonload to the carriers, and the crown's share of the weighing is the steadiest revenue it has.
 
-Everything else moves up the road. Dried fish, salt and the coast's own coarse cloth go north and west; grain, cotton and worked metal come down from the plain and go the other way. The escort money is collected here for the first stage and at [[place-ashvapada|Ashvapada]] for the second.
+Everything else moves up the road. Dried fish, salt and the coast's own coarse cloth gho north and west; grain, cotton and worked metal come down from the plain and gho the other way. The escort money is collected here for the first stage and at [[place-ashvapada|Ashvapada]] for the second.
 
 ## Who Is Here
 
@@ -42,7 +42,7 @@ A Dunhari factor lives on the same street and is the only man of the sand in the
 
 ## See Also
 
-- [[affiliation-bhumipala|Bhūmipāla]]—the kingdom whose capital this is
-- [[place-bhumipalaland|Bhūmipāla]]—the land
-- [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[place-marukupa|Marukūpa]]
-- [[place-sandhysmdr|The Sandhyā-samudra]]—the sea off the roadstead
+- [[affiliation-bhumipala|Bhumipala]]—the kingdom whose capital this is
+- [[place-bhumipalaland|Bhumipala]]—the land
+- [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[place-marukupa|Marukupa]]
+- [[place-sandhysmdr|The Sandva-samedra]]—the sea off the roadstead
