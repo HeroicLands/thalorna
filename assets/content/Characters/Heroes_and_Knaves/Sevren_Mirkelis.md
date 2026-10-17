@@ -429,7 +429,7 @@ sohl:
 
 ![[sevnmyrkls|Sevren Mírkelis]]{float=top-left}
 
-Sevren stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.
+Sevren Mírkelis stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.
 
 # Dossier {#dossier}
 
@@ -437,11 +437,11 @@ Sevren stands 5'10" tall with a light build. He has pale skin, dark hair, and bl
 
 ### Early Life and Family Background
 
-Sevren Mírkelis was born into a modest but respected family of traders in a quiet district of a city known for its winding streets and unassuming shops. The **Mírkelis family** has long been involved in the procurement and trade of rare herbs, minerals, and arcane components from across [[place-nordheim|Nordheim]]. Sevren’s father, \*\*Daron Mírkelis, was a well-traveled merchant who built relationships with scholars, explorers, and traders, making the family’s shop a reliable source for alchemical supplies.
+Sevren Mírkelis was born into a modest but respected family of traders in a quiet district of a city known for its winding streets and unassuming shops. The [Mírkelis family]{.name data-type="affiliation/lineage"} has long been involved in the procurement and trade of rare herbs, minerals, and arcane components from across [[place-nordheim|Nordheim]]. Sevren’s father, [Daron Mírkelis]{.name data-type="being/npc"}, was a well-traveled merchant who built relationships with scholars, explorers, and traders, making the family’s shop a reliable source for alchemical supplies.
 
 From a young age, Sevren showed a keen interest in the curiosities that passed through his family’s shop. Rather than focusing on commerce, he was more intrigued by the possibilities of transforming raw materials into substances of power. His fascination with alchemy grew when a traveling alchemist visited their shop and demonstrated the transmutation of common minerals into reactive compounds. This moment sparked Sevren’s lifelong passion for alchemical experimentation.
 
-Despite his family’s wishes for him to take over the business, Sevren pursued a different path. With his parents’ reluctant blessing, he sought an apprenticeship under Master Virel Danogir\*\*, a prominent member of the Guild of Esoteric Crafts. Under Master Virel’s tutelage, Sevren honed his skills in the delicate art of elixirs and the creation of various transmutation compounds.
+Despite his family’s wishes for him to take over the business, Sevren pursued a different path. With his parents’ reluctant blessing, he sought an apprenticeship under Master [Virel Danogir]{.name data-type="being/npc"}, a prominent member of the [Guild of Esoteric Crafts]{.name data-type="affiliation/guild"}. Under Master Virel’s tutelage, Sevren honed his skills in the delicate art of elixirs and the creation of various transmutation compounds.
 
 ### Early Career and Rise within the Guild
 
@@ -451,7 +451,7 @@ Sevren’s alchemical talent didn’t go unnoticed by the **Guild of Esoteric Cr
 
 ### Current Goals
 
-Sevren’s current obsession is with an ancient Pelwar alchemical recipe, the **Visionary Elixir**, said to grant visions of the future. According to legend, this elixir was used by the ancient seers of the **Lost Pelwar Empire** to guide their people through troubled times. Sevren’s pursuit of this elusive formula has led him to scavenge old texts, correspond with distant scholars, and venture into dangerous territories to obtain rare ingredients. While he has made progress, the formula remains incomplete, and the final piece of the puzzle continues to elude him.
+Sevren’s current obsession is with an ancient alchemical recipe of the [[lore-pelwarpepl|Pelwar People]], the [Visionary Elixir]{.name data-type="concoctiongear"}, said to grant visions of the future. According to legend, this elixir was used by the ancient seers of the [Lost Pelwar Empire]{.name data-type="affiliation/polity"} to guide their people through troubled times. Sevren’s pursuit of this elusive formula has led him to scavenge old texts, correspond with distant scholars, and venture into dangerous territories to obtain rare ingredients. While he has made progress, the formula remains incomplete, and the final piece of the puzzle continues to elude him.
 
 Aside from his personal pursuit of the Visionary Elixir, Sevren’s more immediate goal is to expand his reputation within the Guild of Esoteric Crafts. He seeks to secure his place among the more senior members by contributing to the guild’s body of knowledge, possibly by perfecting a new type of transmutation. However, he is careful not to overstep his bounds, as the guild is filled with powerful figures who guard their secrets jealously.
 
@@ -522,10 +522,10 @@ He avoids making enemies within the guild but is aware of the dangerous politics
 
 ### Patrons
 
-Lady Áimeline Úlmernde
+Lady [[being-aimelineulme|Áimeline Úlmernde]]
 : A minor noblewoman with a keen interest in alchemical remedies. Lady Áimeline suffers from a rare blood disorder and frequently commissions Sevren to create tonics and elixirs to alleviate her condition. In return, she provides him with funding and access to noble circles, where his reputation has begun to grow.
 
-The Merchant’s Guild
+[The Merchant’s Guild]{.name data-type="affiliation/guild"}
 : Sevren has developed a lucrative relationship with several merchants who commission him to craft elixirs that enhance strength, stamina, and charisma—often for use in negotiations or physical contests. The **Merchant’s Guild** values his work and provides him with some of the rarest ingredients that come through the ports of Kalipsa.
 
 Master Virel Danogir
@@ -533,13 +533,13 @@ Master Virel Danogir
 
 ### Enemies
 
-Arlis Ruthorn
+[Arlis Ruthorn]{.name data-type="being/npc"}
 : A fellow member of the Guild of Esoteric Crafts and a long-standing rival, Arlis has always been envious of Sevren’s talent and his access to rare materials. While Arlis excels in creating alchemical weapons and volatile compounds, his aggressive ambition and desire for recognition have made him reckless. He frequently tries to undermine Sevren’s work, spreading rumors about his experiments and attempting to poach clients. Arlis also has his own designs on the **Visionary Elixir**, having learned of Sevren’s pursuit through guild gossip.
 
-Jarl Kervan Redblade
+Jarl [Kervan Redblade]{.name data-type="being/npc"}
 : Sevren once refused to sell a dangerous combat-enhancing elixir to Kervan, a notorious warlord and privateer who sought to use it to gain an edge in a bloody power struggle. This refusal has made Kervan a dangerous enemy. Though Sevren tries to avoid any direct confrontation, Kervan’s men have been seen lurking around [[place-heligstrom|Hélithron]], leading Sevren to believe that retaliation may be imminent.
 
-Guild of Apothecaries
+[Guild of Apothecaries]{.name data-type="affiliation/guild"}
 : While Sevren is associated with the Guild of Esoteric Crafts, his success in crafting both potions and remedies has drawn the ire of the **Guild of Apothecaries**, whose members believe that he is encroaching on their territory. This tension has led to strained relations between the two guilds, and Sevren has faced increased scrutiny and resistance when trying to acquire certain permits or licenses for rare ingredients.
 
 ## Plot Hooks

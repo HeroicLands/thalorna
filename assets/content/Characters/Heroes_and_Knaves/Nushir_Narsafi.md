@@ -421,7 +421,7 @@ sohl:
 
 ![[nushirnrsf|Nushir Narsafi]]{float=top-left}
 
-Nushir stands 5'6" tall with a medium build. She has light olive skin, grey hair, and brown eyes. Her features include a diamond-shaped face, a strong nose, an angular jawline, a firm-set mouth, arched brows, and prominent cheeks.
+Nushir Narsafi stands 5'6" tall with a medium build. She has light olive skin, grey hair, and brown eyes. Her features include a diamond-shaped face, a strong nose, an angular jawline, a firm-set mouth, arched brows, and prominent cheeks.
 
 # Dossier {#dossier}
 
@@ -429,7 +429,7 @@ Nushir stands 5'6" tall with a medium build. She has light olive skin, grey hair
 
 ### Apprenticeship and Early Mastery
 
-Nushir Narsafi was born to a family of modest means in the [[place-khzryndsrtrgn|Khazryn Desert]]'s scattered settlements, where reliable light is both precious commodity and constant concern. Her parents operated a small chandlery, and from her earliest years she was immersed in the work—tending to rush lights, learning to render tallow from animal fats, understanding the properties of various waxes. While her brothers inherited other aspects of the family business or pursued other trades, Nushir found in chandlery both practical necessity and passion. The work was meditative yet technically demanding, requiring precise judgment about temperatures, precise measurement of ingredients, careful attention to timing.
+Nushir Narsafi was born to a family of modest means in the [[place-khzryndsrtrgn|Khazryn Desert Region]]'s scattered settlements, where reliable light is both precious commodity and constant concern. Her parents operated a small chandlery, and from her earliest years she was immersed in the work—tending to rush lights, learning to render tallow from animal fats, understanding the properties of various waxes. While her brothers inherited other aspects of the family business or pursued other trades, Nushir found in chandlery both practical necessity and passion. The work was meditative yet technically demanding, requiring precise judgment about temperatures, precise measurement of ingredients, careful attention to timing.
 
 Under her mother's exacting tutelage, Nushir became skilled in the craft by her twentieth year. Her candles burned cleaner and longer than those of competitors, and her soap possessed a quality that left skin soft rather than raw. She earned guild certification at twenty-three, marking her as a master craftsperson worthy of independent commission.
 
@@ -437,11 +437,11 @@ Under her mother's exacting tutelage, Nushir became skilled in the craft by her 
 
 For nearly two decades, Nushir operated the family business with steady success. She made changes slowly but persistently—developing new scent combinations by infusing herbs and oils into wax, experimenting with different wick configurations to achieve more consistent flames, perfecting the proportions of lye and animal fat that would produce soap of superior quality. Her reputation grew steadily. She could command premium prices for her goods, and merchants from across the region sought her products. The Narsafi chandlery became synonymous with quality in the Khazryn Desert's scattered settlements.
 
-She married late, at thirty-two, to **Jahren Narsafi**, a man of modest merchant connections who was content to allow his wife's work to define their family's position and income. Though they had no children of their own, Nushir took on apprentices, though her exacting standards meant few remained long in her service.
+She married late, at thirty-two, to [Jahren Narsafi]{.name data-type="being/npc"}, a man of modest merchant connections who was content to allow his wife's work to define their family's position and income. Though they had no children of their own, Nushir took on apprentices, though her exacting standards meant few remained long in her service.
 
 ### Present Circumstances and Challenge
 
-Now forty-seven, Nushir finds herself increasingly challenged by economic forces she cannot control. Three years ago, a younger woman named **Salira** established herself as a competing chandler in the region. Though Salira's work lacks the sophistication and quality of Nushir's products, her prices are substantially lower. More troublingly, Salira seems willing to adapt to new market demands—experimenting with color additives from foreign traders, offering candles shaped and scented according to the latest fashions from distant cities, accepting lower margins in exchange for higher volume sales.
+Now forty-seven, Nushir finds herself increasingly challenged by economic forces she cannot control. Three years ago, a younger woman named [Salira the Innovator]{.name data-type="being/npc"} established herself as a competing chandler in the region. Though Salira's work lacks the sophistication and quality of Nushir's products, her prices are substantially lower. More troublingly, Salira seems willing to adapt to new market demands—experimenting with color additives from foreign traders, offering candles shaped and scented according to the latest fashions from distant cities, accepting lower margins in exchange for higher volume sales.
 
 Nushir initially dismissed these novelties as cheap tricks that would fade once customers recognized the inferior quality. Instead, she watched in growing alarm as many of her regular clients defected, seduced by lower prices and fashionable novelties. Her income, stable for nearly two decades, has begun to decline noticeably. The decision she now faces—whether to adapt her methods and risk diluting her standards, or to hold firm to her principles while watching her business gradually erode—weighs on her increasingly.
 
@@ -499,10 +499,10 @@ Aging and Physical Limitations
 
 ### Patrons
 
-The Temple of Khórsadra, Keeper of Flames Morhan
+[The Temple of Khórsadra]{.name data-type="affiliation"}, Keeper of Flames [Morhan]{.name data-type="being/npc"}
 : The desert temple dedicated to the deity of knowledge maintains an exclusive contract with Nushir for high-quality candles used in religious observance. **Morhan** has quietly assured Nushir that this contract will remain regardless of economic circumstances, reflecting the temple's commitment to supporting craftspeople of real excellence.
 
-The Desert Caravans Consortium
+[The Desert Caravans Consortium]{.name data-type="affiliation/venture"}
 : A confederation of merchants who travel the dangerous desert routes contracts with Nushir for high-quality candles for use in their camps. The reliability and superior burn characteristics of her products are valued for the safety they provide.
 
 House Merchants of the Khazryn
@@ -515,7 +515,7 @@ Salira the Innovator
 
 ### Affiliations
 
-Village Craft Guild
+[Village Craft Guild]{.name data-type="affiliation/guild"}
 : Nushir maintains active membership and has served on the guild's quality standards committee, though her increasingly rigid positions on what constitutes acceptable craftwork have begun to create tension with guild members who favor a broader definition of acceptable quality.
 
 ## Plot Hooks

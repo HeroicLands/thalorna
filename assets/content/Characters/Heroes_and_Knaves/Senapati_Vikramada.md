@@ -439,17 +439,17 @@ sohl:
 
 ![[senptvkrmd|Senapavi Vikramada]]{float=top-left}
 
-Senapavi stands 6'0" tall with a heavy build. He has medium brown skin, greying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
+Senapavi Vikramada stands 6'0" tall with a heavy build. He has medium brown skin, greying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
 
 # Dossier {#dossier}
 
-Senapavi Vikramada was born in the port cities of [[place-vedyarargn|Vedyara]] to a family of sailors and shipwrights. His father was a bosun before him, and his grandfather before that—a legacy stretching back generations into the merchant fleets and war galleys that built the City-States' prosperity. Senapavi learned his trade not from books or schools but from the deck itself, rising through competence and an almost instinctive understanding of what a crew needed to hold together under pressure.
+Senapavi Vikramada was born in the port cities of the [[place-vedyarargn|Vedyara Region]] to a family of sailors and shipwrights. His father was a bosun before him, and his grandfather before that—a legacy stretching back generations into the merchant fleets and war galleys that built the City-States' prosperity. Senapavi learned his trade not from books or schools but from the deck itself, rising through competence and an almost instinctive understanding of what a crew needed to hold together under pressure.
 
-He served for fifteen years in the war-fleet of [[affiliation-chandrapur|Chendrapur]], where he rose to senior bosun and eventually served aboard the great war galley **Rasikara's Wrath**, the fleet's flagship. Those years taught him that leadership is earned rather than delegated from above, by showing again and again that one knows the difference between rules and wisdom, between discipline and tyranny. When Chendrapur's fleet was reduced after a period of peace, Senapavi chose to leave military service and now works as a contract bosun, hiring himself out to merchant captains who recognize that his presence aboard their vessels means better organized, better run, more loyal crews.
+He served for fifteen years in the war-fleet of [[affiliation-chandrapur|Chendrapur]], where he rose to senior bosun and eventually served aboard the great war galley [Rasikara's Wrath]{.name data-type="vehicle"}, the fleet's flagship. Those years taught him that leadership is earned rather than delegated from above, by showing again and again that one knows the difference between rules and wisdom, between discipline and tyranny. When Chendrapur's fleet was reduced after a period of peace, Senapavi chose to leave military service and now works as a contract bosun, hiring himself out to merchant captains who recognize that his presence aboard their vessels means better organized, better run, more loyal crews.
 
 For the past decade, he has become something of a legend in the maritime communities of Vedyara and beyond: the senior bosun who can take a chaotic, demoralized crew and forge them into a working crew within weeks. Captains compete for his services, often paying well above the usual rate to secure him for crucial voyages. He has grown wealthy by the standards of the working sailor class, though he lives with the modest means of a man for whom material comfort remains secondary to the work itself.
 
-His faith in Rasikara is practical devotion rather than escape: the fire-aspect deity stands for transformation, the burning away of weakness and the forging of strength from raw material. This philosophy guides his handling of a crew, though some have questioned whether his methods border on cruel.
+His faith in [[affiliation-rasikara|Rasikara]] is practical devotion rather than escape: the fire-aspect deity, [[lore-rasikaradty|Rasikara]], stands for transformation, the burning away of weakness and the forging of strength from raw material. This philosophy guides his handling of a crew, though some have questioned whether his methods border on cruel.
 
 ## Psyche
 
@@ -505,32 +505,32 @@ Vulnerability to Loyalty
 
 ### Patrons
 
-Captain-Merchant Prturaja
+Captain-Merchant [[being-prthurajasam|Prturaja Samudraya]]
 : A successful merchant captain who employs Senapavi regularly and considers him the foundation of his trading success. Prturaja has offered Senapavi a permanent position with significant authority, which Senapavi has declined.
 
-The Shipwrights' Shrena of Vedyara
+[The Shipwrights' Shrena of Vedyara]{.name data-type="affiliation/guild"}
 : Maintains good relationships with the shrena, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
 
-Temple of Rasikara
+[Temple of Rasikara]{.name data-type="affiliation"}
 : Devoted practitioner and occasional volunteer in temple activities, though his faith is expressed through work rather than elaborate ceremony.
 
 ### Enemies
 
-Captain Darmeja of the Crimson Sail
+Captain [[being-dharmajadhar|Darmeja Daranira]] of the [Crimson Sail]{.name data-type="vehicle"}
 : A merchant captain whom Senapavi once refused to serve because of what he perceived as grossly inadequate safety standards and crew abuse. Darmeja has since built his own reputation for speed and profit, and he views Senapavi as a rival whose standards are "outdated" and "cost-prohibitive."
 
 Modernist Faction
 : A loose coalition of younger seafarers who view Senapavi's traditional methods as obstacles to progress, particularly the adoption of new rigs and instruments.
 
-The Black Tides Syndicate
+[The Black Tides Syndicate]{.name data-type="affiliation/criminal"}
 : A maritime criminal organization that has attempted to recruit Senapavi, offering enormous payments for his assistance in crew management for their operations. His refusals have made him a target of their resentment.
 
 ### Affiliations
 
-Vedyaran Maritime Tradition
+[[lore-vedyariclt|Vedyari]] Maritime Tradition
 : Though he works on contract rather than as an official representative, he is deeply connected to and considered an exemplar of Vedyaran maritime culture and values.
 
-The Order of Mariners
+[The Order of Mariners]{.name data-type="affiliation"}
 : An informal association of senior sailors and officers who maintain standards and traditions, and who respect Senapavi as one of their most honored members.
 
 ## Plot Hooks

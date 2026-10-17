@@ -419,13 +419,13 @@ sohl:
 
 ![[chrysntssdrkt|Fibakon Siderakit]]{float=top-left}
 
-Fibakon stands 5'10" tall with a light build. He has light pale skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a sharp jawline, dark brows, and sculpted cheeks. He has a tattoo of a fire on his leg.
+Fibakon Siderakit stands 5'10" tall with a light build. He has light pale skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a sharp jawline, dark brows, and sculpted cheeks. He has a tattoo of a fire on his leg.
 
 # Dossier {#dossier}
 
-Fibakon was born the second son of a wealthy Bizarian merchant family with trading interests throughout the League's territories. His older brother inherited the family's primary commercial enterprises; Fibakon received education, capital, and the expectation that he would establish his own mercantile success. Rather than compete directly with his family's operations, he identified an unfilled market: wealthy individuals and noble houses seeking custom-crafted luxury goods, rare imports, and items with historical or spiritual significance. He established himself as a merchant-broker and merchant-craftsperson, positioning himself as the intermediary between discerning buyers and the finest artisans, suppliers, and sources across the known world.
+Fibakon was born the second son of a wealthy [[lore-byzarianclt|Bizarian]] merchant family with trading interests throughout the [[affiliation-byzarianlg|Bizarian League]]'s territories. His older brother inherited the family's primary commercial enterprises; Fibakon received education, capital, and the expectation that he would establish his own mercantile success. Rather than compete directly with his family's operations, he identified an unfilled market: wealthy individuals and noble houses seeking custom-crafted luxury goods, rare imports, and items with historical or spiritual significance. He established himself as a merchant-broker and merchant-craftsperson, positioning himself as the intermediary between discerning buyers and the finest artisans, suppliers, and sources across the known world.
 
-Over the past eight years, he has built a wide network spanning the [[affiliation-byzarianlg|Bizarian League]], the City-States of Vedyara, the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], and beyond. He maintains direct relationships with master craftspeople, artisans of great skill, and suppliers of rare materials. He has cultivated connections with nobles, merchant lords, clergy, and collectors willing to pay extraordinary sums for specific items. Through careful cultivation of reputation and ruthless management of information, he has become indispensable to a particular tier of wealthy clientele who trust him to locate items they had not known existed and to manage acquisitions they preferred to keep discreet.
+Over the past eight years, he has built a wide network spanning the [[affiliation-byzarianlg|Bizarian League]], the [City-States of Vedyara]{.name data-type="place"}, the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], and beyond. He maintains direct relationships with master craftspeople, artisans of great skill, and suppliers of rare materials. He has cultivated connections with nobles, merchant lords, clergy, and collectors willing to pay extraordinary sums for specific items. Through careful cultivation of reputation and ruthless management of information, he has become indispensable to a particular tier of wealthy clientele who trust him to locate items they had not known existed and to manage acquisitions they preferred to keep discreet.
 
 ## Psyche
 
@@ -477,18 +477,18 @@ Network Dependency
 
 ### Patrons
 
-Lord Mazitos Rekhazur, Master of the [[affiliation-byzarianlg|Bizarian League]]'s [[place-eastrnmrch|Eastern March]]
+Lord [[being-mazitosrekha|Mazitos Rekhazur]], Master of the [[affiliation-byzarianlg|Bizarian League]]'s [[place-eastrnmrch|Eastern March]]
 : A powerful noble with whom Fibakon maintains a complex relationship of mutual benefit. Mazitos provides official protection and access to certain restricted items; Fibakon sees that Mazitos's acquisitions remain discreet and his valuable contacts remain available exclusively.
 
 The Collector of Reliquaries
 : A mysterious individual (possibly a private wealthy collector, possibly an institution) who commissions Fibakon to locate and acquire specific items of historical or spiritual significance. These commissions are very lucrative and have provided much of his recent wealth accumulation.
 
-Master Artificer Kaelvos
+Master Artificer [Kaelvos]{.name data-type="being/npc"}
 : A famed craftsperson whose work Fibakon traffics in and whose custom commissions he brokers. Kaelvos's relationship with Fibakon is symbiotic but delicate; should Fibakon ever attempt to exploit Kaelvos directly, the master would have him eliminated.
 
 ### Enemies
 
-Merchant-Lord Plasáhr Olkadakit
+Merchant-Lord [[being-plasahrolkad|Plasáhr Olkadakit]]
 : A rival merchant-broker operating in the Bizarian League's central territories. Plasáhr has undercut Fibakon's pricing on several important commissions and is aggressively cultivating some of Fibakon's established clients. There is undeclared but intense commercial warfare between them.
 
 The Puritan Orders
@@ -499,22 +499,22 @@ Unknown Parties with Claims to Artifacts
 
 ### Affiliations
 
-Merchant's Guild of the Bizarian League
+[Merchant's Guild of the Bizarian League]{.name data-type="affiliation/guild"}
 : His primary trade affiliation, providing legitimacy, protection, and access to guild resources and information networks.
 
-Prosperity Cults of Ólvenia
+Prosperity Cults of the [[affiliation-olvenia|Faith of Ólvenia]]
 : His fire tattoo marks him as at least peripherally involved with certain fertility and prosperity mystery cults devoted to Ólvenia. His actual level of involvement with these groups remains ambiguous even to those who know him well.
 
-The Collector's Circle
+[The Collector's Circle]{.name data-type="affiliation"}
 : An informal network of wealthy collectors, merchants, and brokers who facilitate transactions among themselves and share information about notable acquisitions and opportunities.
 
 ## Plot Hooks
 
 The Cursed Artifact
-: Fibakon acquires what he believes to be a rare and valuable religious artifact—a relic of considerable historical significance—from a mysterious seller in Vedyara. He brokered a transaction that resulted in sale of the item to a wealthy collector in the Kingdom of Tarvénia. Within weeks, the new owner begins experiencing inexplicable misfortunes: illnesses, financial catastrophes, a crumbling mind. The collector becomes convinced the artifact is cursed and moves to recover it, first through legal means, then through more direct methods. Fibakon is tracked down and threatened; the artifact's original seller appears to be connected to powerful forces interested in its recovery; and Fibakon discovers that the artifact may indeed be supernatural in nature. He can recover it, find a way to lift whatever curse attends it, or convince the collector that the misfortunes are coincidental.
+: Fibakon acquires what he believes to be a rare and valuable religious artifact—a relic of considerable historical significance—from a mysterious seller in the [[place-vedyarargn|Vedyara Region]]. He brokered a transaction that resulted in sale of the item to a wealthy collector in the Kingdom of Tarvénia. Within weeks, the new owner begins experiencing inexplicable misfortunes: illnesses, financial catastrophes, a crumbling mind. The collector becomes convinced the artifact is cursed and moves to recover it, first through legal means, then through more direct methods. Fibakon is tracked down and threatened; the artifact's original seller appears to be connected to powerful forces interested in its recovery; and Fibakon discovers that the artifact may indeed be supernatural in nature. He can recover it, find a way to lift whatever curse attends it, or convince the collector that the misfortunes are coincidental.
 
 The Stolen Masterpiece
-: A commissioned artwork—a piece personally created by **Master Artificer Kaelvos** for a wealthy patron—is stolen in transit. The patron, a powerful noble with connections to the crown, holds Fibakon personally responsible as the broker who arranged the commission and theoretically secured its delivery. If the item is not recovered within two lunar cycles, Fibakon faces serious legal consequences as well as financial loss. The thief proves to be operatives from the [[affiliation-adanasreni|Adanashreni]] (possibly including [[being-chndrkrtsndrjyvl|Chandrakirtisundari Jayavalli]]), who were hired to steal the piece by a rival merchant attempting to damage Fibakon's reputation. Recovering the piece requires negotiating with the guild while discovering who orchestrated the theft.
+: A commissioned artwork—a piece personally created by **Master Artificer Kaelvos** for a wealthy patron—is stolen in transit. The patron, a powerful noble with connections to the crown, holds Fibakon personally responsible as the broker who arranged the commission and theoretically secured its delivery. If the item is not recovered within two lunar cycles, Fibakon faces serious legal consequences as well as financial loss. The thief proves to be operatives from [[affiliation-adanasreni|The Adanashreni]] (possibly including [[being-chndrkrtsndrjyvl|Chandrakirtisundari Jayavalli]]), who were hired to steal the piece by a rival merchant attempting to damage Fibakon's reputation. Recovering the piece requires negotiating with the guild while discovering who orchestrated the theft.
 
 The Competitor's Downfall
 : A rival merchant-broker, **Merchant-Lord Plasáhr**, suddenly collapses into financial ruin. His clients flee, his reputation is destroyed, and his enterprise disintegrates within weeks. Fibakon discovers evidence that some of this collapse was orchestrated by a third party—someone deliberately undermining Plasáhr to drive his business into Fibakon's ready hands. The question becomes: who orchestrated Plasáhr's ruin, why did they choose to benefit Fibakon, and what price will they demand for this "gift"? The benefactor reveals themselves to be a powerful individual (possibly even an organization) who expects Fibakon to become their broker and facilitate specific acquisitions for unknown purposes.

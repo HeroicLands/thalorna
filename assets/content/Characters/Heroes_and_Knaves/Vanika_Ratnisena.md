@@ -416,7 +416,7 @@ sohl:
 
 ![[vanikartns|Vanika Ratnisena]]{float=top-left}
 
-Vanika stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, and full cheeks.
+Vanika Ratnisena stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, and full cheeks.
 
 # Dossier {#dossier}
 
@@ -424,11 +424,11 @@ Vanika stands 5'10" tall with a medium build. She has warm wheat skin, deep blac
 
 ### The Kitchen Born
 
-Born in 679 in one of [[place-vedyarargn|Vedyara]]'s prosperous merchant cities, Vanika grew up in a household where food was the primary language of hospitality and cultural expression as well as sustenance. Her family operated a modest but respected inn, and from earliest childhood she was surrounded by cooking fires, the aromas of spices and roasting meats, and the constant flow of travelers for whom her family's meals became the memorable center of their visits. She apprenticed formally under her mother and later under a succession of respected master cooks, learning recipes and, beyond them, the underlying principles of flavor, texture, and cultural nutrition that make food memorable.
+Born in 679 in one of the [[place-vedyarargn|Vedyara Region]]'s prosperous merchant cities, Vanika grew up in a household where food was the primary language of hospitality and cultural expression as well as sustenance. Her family operated a modest but respected inn, and from earliest childhood she was surrounded by cooking fires, the aromas of spices and roasting meats, and the constant flow of travelers for whom her family's meals became the memorable center of their visits. She apprenticed formally under her mother and later under a succession of respected master cooks, learning recipes and, beyond them, the underlying principles of flavor, texture, and cultural nutrition that make food memorable.
 
 ### The Master of the Craft
 
-By her early twenties, Vanika had established a reputation as a superb cook—not a novel one, but a master of fundamentals who could produce extraordinary meals from whatever ingredients were available. She worked in a succession of wealthy households before taking up position as head cook at the Ratnisena House inn operated by her extended family. For nearly two decades, she has maintained the inn's reputation as one of Vedyara's finest establishments, her cooking drawing recognition and loyal patronage from merchants, great houses, and common travelers alike. Her reputation rests not on fashionable novelty but on absolute reliability, on the capacity to transform simple ingredients into meals of real excellence, on the understanding that food is ultimately about sustenance, comfort, and human connection.
+By her early twenties, Vanika had established a reputation as a superb cook—not a novel one, but a master of fundamentals who could produce extraordinary meals from whatever ingredients were available. She worked in a succession of wealthy households before taking up position as head cook at the [Ratnisena House Inn]{.name data-type="affiliation/venture"} operated by her extended family. For nearly two decades, she has maintained the inn's reputation as one of Vedyara's finest establishments, her cooking drawing recognition and loyal patronage from merchants, great houses, and common travelers alike. Her reputation rests not on fashionable novelty but on absolute reliability, on the capacity to transform simple ingredients into meals of real excellence, on the understanding that food is ultimately about sustenance, comfort, and human connection.
 
 ### The Aging Masterwork
 
@@ -440,7 +440,7 @@ Now in her early forties, Vanika has begun to feel the cumulative toll of her tr
 
 Vanika is a woman of unpretentious directness and warmth, confident in her particular domain and straightforward in her judgments. In her kitchen, she is absolute authority—her word is law, her standards non-negotiable, her decisions final. Yet this same authority dissolves somewhat when she moves beyond cooking; she becomes less certain, more deferential to those of higher social status, occasionally defensive about her station. She is prone to blunt speech, saying what she believes with little concern for diplomatic softness, which can seem harsh to those unaccustomed to her manner. Yet those who know her well understand that her directness emerges from care—she speaks truthfully because she respects her audience.
 
-Her faith in Rasikara, goddess of fire and transformation, is expressed through her cooking; she sees in the transformation of raw ingredients through heat a sacred process, a manifestation of divine principle. She approaches her work with reverence and ritual care, and she believes that food prepared with intention and mastery carries spiritual dimension beyond mere nutrition. She is practical and unsentimental about most matters, yet capable of surprising gentleness when engaged with the young, the suffering, or the truly lost. She forms few deep personal relationships but those she does form are characterized by uncommon loyalty and protective fierceness. She possesses a dry humor, often deployed to deflect seriousness or to communicate affection to those with whom she shares particular bonds.
+Her commitment to the [[affiliation-rasikara|Faith of Rasikara]], devoted to [[lore-rasikaradty|Rasikara]], goddess of fire and transformation, is expressed through her cooking; she sees in the transformation of raw ingredients through heat a sacred process, a manifestation of divine principle. She approaches her work with reverence and ritual care, and she believes that food prepared with intention and mastery carries spiritual dimension beyond mere nutrition. She is practical and unsentimental about most matters, yet capable of surprising gentleness when engaged with the young, the suffering, or the truly lost. She forms few deep personal relationships but those she does form are characterized by uncommon loyalty and protective fierceness. She possesses a dry humor, often deployed to deflect seriousness or to communicate affection to those with whom she shares particular bonds.
 
 ### Motivation
 
@@ -449,7 +449,7 @@ Vanika is driven by a fundamental commitment to excellence—the conviction that
 ### Strengths
 
 Foundational Mastery
-: Possesses extraordinary competence in all fundamental cooking techniques; she can prepare any traditional Vedyaran dish with absolute reliability and excellence, and can adapt techniques across diverse culinary traditions.
+: Possesses extraordinary competence in all fundamental cooking techniques; she can prepare any traditional [[lore-vedyariclt|Vedyari]] dish with absolute reliability and excellence, and can adapt techniques across diverse culinary traditions.
 
 Intuitive Understanding of Nutrition
 : Understands food as nourishment and not only as flavor; she can construct meals that truly sustain, that address specific physical needs, that contribute to healing and wellbeing.
@@ -490,16 +490,16 @@ Intolerance for Incompetence
 
 ### Patrons
 
-Shroshtin Kaliprasad
+[Shroshtin Kaliprasad]{.name data-type="being/npc"}
 : One of Vedyara's most prominent merchants and a devoted admirer of Vanika's cooking; he regularly hosts dinners at his residence and specifically requests that Vanika be hired to prepare meals, paying premium fees for her services.
 
-Priestess Manduli
+Priestess [[being-mandalikulan|Manduli Kulanaya]]
 : High priestess of Rasikara's temple and a fellow devotee of the fire goddess; she has commissioned Vanika to prepare ritual meals and has become something of spiritual companion and advocate.
 
-The Ratnisena Family
+[The Ratnisena Family]{.name data-type="affiliation/lineage"}
 : Her extended family, for whom she continues to work as head cook; they have given her unusual autonomy and have supported her work despite its demands.
 
-Master Musicianist Madhusolva
+Master Musicianist [Madhusolva]{.name data-type="being/npc"}
 : A celebrated musician and composer who frequents the inn and has become one of Vanika's few close personal friends; he appreciates her cooking and advocates for her value and importance.
 
 ### Enemies
@@ -507,18 +507,18 @@ Master Musicianist Madhusolva
 Chef [[being-aqendra2|Akendra]]
 : A celebrated and fashionable chef who specializes in exotic and novel cuisine; she views Vanika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
 
-The Culinary Progressives
+[The Culinary Progressives]{.name data-type="affiliation"}
 : A movement among younger, ambitious cooks toward fashionable novelty and new techniques; they view Vanika's traditional approach as backward and resistant to the evolution of the culinary arts.
 
-Innkeeper Bhavesh
+Innkeeper [Bhavesh]{.name data-type="being/npc"}
 : A rival inn proprietor who employs Chef Akendra and views Vanika's reputation as directly threatening his business; he has attempted to poach her staff and has spread rumors undermining her standing.
 
 ### Affiliations
 
-City Cooks' Shrena
+[City Cooks' Shrena]{.name data-type="affiliation/guild"}
 : A senior member whose counsel is sought on matters of traditional practice and culinary standards; she serves informally as voice for traditional approaches within an organization increasingly given to novelty.
 
-The Fellowship of Rasikara
+[The Fellowship of Rasikara]{.name data-type="affiliation"}
 : A lay devotional group honoring the fire goddess; Vanika participates in ritual observances and has begun to develop deeper theological engagement through this community.
 
 The Ratnisena House Inn

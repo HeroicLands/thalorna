@@ -419,19 +419,19 @@ sohl:
 
 ![[prthnblthl|Parthun Pelthal]]{float=top-left}
 
-Parthun stands 5'9" tall with a medium build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a heart-shaped face, a small nose, a gentle jawline, dark brows. A distinguishing mark is a scar on the left foot.
+Parthun Pelthal stands 5'9" tall with a medium build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a heart-shaped face, a small nose, a gentle jawline, dark brows. A distinguishing mark is a scar on the left foot.
 
 # Dossier {#dossier}
 
 **Birth in the Shadow of Law**
 
-Parthun was born in the city of [[place-valdun|Valdun]], a major administrative center in the Kingdom of [[affiliation-kngdmlvndr|Élavendre]], to parents of modest means. His father, Sethun, was a minor clerk in the Royal Treasury, while his mother, Élina, took in washing and mending to supplement the family income. From his earliest years, Parthun watched his father navigate the hierarchies and procedures of the kingdom's bureaucratic apparatus, and he learned that behind every law, behind every official edict, lay opportunities for those clever enough to exploit them. His father taught him that the power in any system rests not with those who make the laws but with those who interpret them and control their application.
+Parthun was born in the city of [[place-valdun|Valdun]], a major administrative center in the [[affiliation-kngdmlvndr|Kingdom of Élavendre]], to parents of modest means. His father, [Sethun]{.name data-type="being/npc"}, was a minor clerk in the [Royal Treasury]{.name data-type="affiliation/governmental"}, while his mother, [Élina]{.name data-type="being/npc"}, took in washing and mending to supplement the family income. From his earliest years, Parthun watched his father navigate the hierarchies and procedures of the kingdom's bureaucratic apparatus, and he learned that behind every law, behind every official edict, lay opportunities for those clever enough to exploit them. His father taught him that the power in any system rests not with those who make the laws but with those who interpret them and control their application.
 
 His youth was marked by careful observation. While other children played games of military conquest or heroic adventure, Parthun studied the local administrative structures. He became friends with the clerks who worked in the assessor's office, learned the schedules of judges and magistrates, and discovered which officials could be made sympathetic to requests if approached correctly. By his late teens, he had begun to actively use this knowledge, helping neighbors navigate disputes over property boundaries, taxes, and permits—always with a subtle understanding that such favors would eventually be repaid.
 
 **Rise Through Administration**
 
-At twenty years of age, Parthun secured a position in the City Administration of Valdun through a combination of legitimate qualification and the intervention of **Lord Lotren Ílthernde**, a city councilor who recognized in the young man a useful tool. For the past seventeen years, Parthun has risen steadily through the administrative ranks, always careful to maintain the appearance of loyalty while carefully building his own network of informants, allies, and people deeply indebted to him. He now holds the position of Assistant Commissioner of Records—a title that sounds minor but grants him access to nearly every official document in the city's archives and considerable influence over how those documents are filed, retrieved, and interpreted.
+At twenty years of age, Parthun secured a position in [The City Administration of Valdun]{.name data-type="affiliation/governmental"} through a combination of legitimate qualification and the intervention of Lord [[being-lotrenilther|Lotren Ílthernde]], a city councilor who recognized in the young man a useful tool. For the past seventeen years, Parthun has risen steadily through the administrative ranks, always careful to maintain the appearance of loyalty while carefully building his own network of informants, allies, and people deeply indebted to him. He now holds the position of Assistant Commissioner of Records—a title that sounds minor but grants him access to nearly every official document in the city's archives and considerable influence over how those documents are filed, retrieved, and interpreted.
 
 **The Foot's Mark**
 
@@ -499,10 +499,10 @@ The Lord Chancellor of Élavendre
 
 ### Enemies
 
-Magistrate Ílsevile Tírvalnde
+Magistrate [[being-ilseviletirv|Ílsevile Tírvalnde]]
 : A judge who has clashed with Parthun on numerous occasions over the interpretation of law and regulation. She views him as a dangerous influence on the administrative system and would gladly see him removed from his position.
 
-The Office of Civic Integrity
+[The Office of Civic Integrity]{.name data-type="affiliation/governmental"}
 : An official body tasked with investigating corruption in government. Parthun has managed to stay ahead of their inquiries so far, but the office has begun to focus attention on his affairs with increasing intensity.
 
 Displaced Administrators
@@ -513,13 +513,13 @@ Displaced Administrators
 The City Administration of Valdun
 : His official position and the primary source of his power, though his actual loyalty is to himself rather than the institution.
 
-The Bureaucrats' Guilds
+[The Bureaucrats' Guilds]{.name data-type="affiliation"}
 : A loose fraternal organization of administrative officials across the kingdom. He maintains good standing while carefully using the organization's resources for his own benefit.
 
 ## Plot Hooks
 
 The Auditor from the Capital
-: A representative from the Lord Chancellor's office arrives in Valdun announcing a comprehensive audit of all municipal administrative functions. The auditor, a sharp-eyed woman named **Thecia Rothel**, seems to take unusual interest in the Records department and Parthun's particular domain. He becomes increasingly aware that she is asking questions that are far more specific than a routine audit would warrant—she appears to be investigating him personally. Worse, she has begun to examine transactions that Parthun was quite certain he had successfully obscured. Now he must determine whether she is acting on actual evidence, whether her investigation is a political maneuver by his enemies, or whether she might be someone he can turn to his advantage before she uncovers something that could destroy him.
+: A representative from the Lord Chancellor's office arrives in Valdun announcing a comprehensive audit of all municipal administrative functions. The auditor, a sharp-eyed woman named [Thecia Rothel]{.name data-type="being/npc"}, seems to take unusual interest in the Records department and Parthun's particular domain. He becomes increasingly aware that she is asking questions that are far more specific than a routine audit would warrant—she appears to be investigating him personally. Worse, she has begun to examine transactions that Parthun was quite certain he had successfully obscured. Now he must determine whether she is acting on actual evidence, whether her investigation is a political maneuver by his enemies, or whether she might be someone he can turn to his advantage before she uncovers something that could destroy him.
 
 The Blackmail That Cannot Be Refused
 : A figure approaches Parthun with documents that detail some of his more legally questionable activities over the years. The person claims not to be interested in exposing him; instead, they want him to use his administrative influence to accomplish something specific: the release of a person currently imprisoned for a serious crime, the alteration of property records to favor a particular buyer, or perhaps the blocking of an investigation into one of their business ventures. The blackmailer has taken precautions so that if anything happens to them, the documentation will be released. Parthun must decide whether to comply, to attempt to discredit or eliminate the threat, or to somehow turn the situation to his own advantage—all while being aware that blackmailers rarely accept a single payment and tend to return for more.

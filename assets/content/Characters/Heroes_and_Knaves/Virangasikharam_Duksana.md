@@ -415,13 +415,13 @@ sohl:
 
 ![[vrgskhrmdkn|Virangashikharam Dukshana]]{float=top-left}
 
-Virangashikharam stands 6'0" tall with a medium build. He has deep brown skin, very dark brown hair, and hazel eyes. His features include a round face, a delicate nose, a rounded chin, generous lips, deep brows, full cheeks.
+Virangashikharam Dukshana stands 6'0" tall with a medium build. He has deep brown skin, very dark brown hair, and hazel eyes. His features include a round face, a delicate nose, a rounded chin, generous lips, deep brows, full cheeks.
 
 # Dossier {#dossier}
 
 **The Burden of Inheritance**
 
-Virangashikharam was born into the House of Dukshana during a period of significant transformation in the City-States of [[affiliation-janpdsvdyr|Vedyara]]. His father, the previous head of the holding, was a traditionalist of the old school—one who maintained the ancestral lands through methods that his father's father had employed, with little consideration for changing circumstances or innovative approaches. The boy showed early aptitude for the practical arts: he could calculate yields in his head, could diagnose crop diseases that stumped older farmers, and possessed an almost unnatural intuition for understanding the rhythms of seasons and soil. Rather than suppressing these tendencies as mere curiosities unsuitable for great houses, his mother—a woman of reforming temper from a distant city-state—encouraged her son's intellectual pursuits, secretly commissioning tutors in agriculture, mathematics, and natural philosophy.
+Virangashikharam was born into the [House of Dukshana]{.name data-type="affiliation/lineage"} during a period of significant transformation in the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] city-states. His father, the previous head of the holding, was a traditionalist of the old school—one who maintained the ancestral lands through methods that his father's father had employed, with little consideration for changing circumstances or innovative approaches. The boy showed early aptitude for the practical arts: he could calculate yields in his head, could diagnose crop diseases that stumped older farmers, and possessed an almost unnatural intuition for understanding the rhythms of seasons and soil. Rather than suppressing these tendencies as mere curiosities unsuitable for great houses, his mother—a woman of reforming temper from a distant city-state—encouraged her son's intellectual pursuits, secretly commissioning tutors in agriculture, mathematics, and natural philosophy.
 
 **The Transformation**
 
@@ -477,32 +477,32 @@ Vulnerability to Betrayal
 
 ### Patrons
 
-The Vedyara Farmers' Collective
+[The Vedyara Farmers' Collective]{.name data-type="affiliation"}
 : A loose association of agricultural workers who view Virangashikharam as their advocate within the great houses, having improved working conditions and payment structures across the entire region.
 
-Shroshtin Tavaros
+[Shroshtin Tavaros]{.name data-type="being/npc"}
 : A wealthy trader from a distant city-state who has recognized the potential profit in the improved agricultural products emerging from Dukshana lands and has become a reliable buyer of the finest harvest.
 
-The Council of Reforming City-States
+[The Council of Reforming City-States]{.name data-type="affiliation"}
 : An informal coalition of forward-thinking rulers from multiple Vedyaran settlements who see in Virangashikharam a model for enlightened governance and consult him on matters of economic development.
 
 ### Enemies
 
-Kulena Sharvadhara of the Eastern Reaches
+Kulena [Sharvadhara of the Eastern Reaches]{.name data-type="being/npc"}
 : A powerful and conservative Kulena whose traditional extraction-based methods have become less profitable since surrounding farmers began following Dukshana's example. He views Virangashikharam as a threat to his whole way of life.
 
-The Syndicate of Merchant Shrenis
+[The Syndicate of Merchant Shrenis]{.name data-type="affiliation/venture"}
 : Traditional trading houses whose monopolistic practices depended upon controlling access to goods. Dukshana's fair pricing and direct merchant relationships undercut their profit margins and have made him a target for various schemes to discredit or destabilize him.
 
-Vyadhar the Silent
+[Vyadhar the Silent]{.name data-type="being/npc"}
 : A former steward of the Dukshana house who was dismissed for corrupt practices and now serves unknown masters, working subtly to undermine the holding's prosperity and prove Virangashikharam's methods ultimately unsustainable.
 
 ### Affiliations
 
-The Agricultural Society of Vedyara
+[The Agricultural Society of Vedyara]{.name data-type="affiliation"}
 : Virangashikharam holds a position of considerable influence within this organization and uses his standing to argue for new methods and fair treatment of workers.
 
-The Council of Vedyaran Rulers
+[The Council of Vedyaran Rulers]{.name data-type="affiliation/governmental"}
 : He maintains formal relationships with the other great houses of the city-states, serving as an advisor on economic matters to those willing to listen.
 
 ## Plot Hooks

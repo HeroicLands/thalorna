@@ -413,7 +413,7 @@ sohl:
 
 ![[thrldrvvrnhm|Thraldorv Vornheim]]{float=top-left}
 
-Thraldorv stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, and dark brows. He has a scar on his right forearm.
+Thraldorv Vornheim stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, and dark brows. He has a scar on his right forearm.
 
 # Dossier {#dossier}
 
@@ -421,15 +421,15 @@ Thraldorv stands 6'2" tall with a heavy build. He has tanned weathered skin, dar
 
 ### The Warrior's Birth
 
-Thraldorv was born the third son of **Druskvir Vornheim**, a minor jarl of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the famous sword-master **Glarvorv Mirvaruk** in the fortress-barracks of [[place-snilthborg|Snilthborg]]. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Thraldorv had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.
+Thraldorv was born the third son of [Druskvir Vornheim]{.name data-type="being/npc"}, a minor jarl of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], into a world where strength and sword-skill determined a man's worth. As third son, he held no claim to his father's modest holdings—those belonged to his elder brother—and so was raised from his eleventh year as a warrior-for-hire, sent to train under the famous sword-master [[being-glarvorvmirv|Glarvorv Mirvaruk]] in the fortress-barracks of [[place-snilthborg|Snilthborg]]. The training was brutal, designed to strip away softness and replace it with reflexive violence. By his sixteenth year, Thraldorv had drawn blood in earnest, fighting in border skirmishes against Vithgard's eternal rivals. By his twentieth, he had earned a fearsome reputation as a man who did not fall, did not yield, and did not ask questions of those who employed him.
 
 ### The Years of Iron
 
-For fifteen years, Thraldorv hired himself out as a bodyguard, mercenary, and enforcer to the merchant houses, minor lords, and wealthy traders of Vithgard's primary settlements. He took wounds that would have killed lesser men—the forearm scar came during a siege at **Port Vethmark**, when a rival's blade nearly separated hand from wrist; only his great tolerance of pain and a swift healer's intervention preserved his sword-arm. He earned a reputation for absolute loyalty to his employers, steady courage, and a peculiar honor: he would not kill those incapable of defending themselves, and would not raise his hand against women or children under any contract. Such scruples cost him lucrative work, but they were the only lines he would not cross.
+For fifteen years, Thraldorv hired himself out as a bodyguard, mercenary, and enforcer to the merchant houses, minor lords, and wealthy traders of Vithgard's primary settlements. He took wounds that would have killed lesser men—the forearm scar came during a siege at [Port Vethmark]{.name data-type="place"}, when a rival's blade nearly separated hand from wrist; only his great tolerance of pain and a swift healer's intervention preserved his sword-arm. He earned a reputation for absolute loyalty to his employers, steady courage, and a peculiar honor: he would not kill those incapable of defending themselves, and would not raise his hand against women or children under any contract. Such scruples cost him lucrative work, but they were the only lines he would not cross.
 
 ### Present Circumstances
 
-At thirty-five years old, Thraldorv's body has begun to slow, though imperceptibly to any challenger. The younger warriors in Vithgard's mercenary markets eye him with a mixture of fear and hunger—fear of his proven skill, hunger to displace him and claim his steady income. He has worked recently as a bodyguard for **Lord Hnirmil Thulmaruk**, a merchant prince with significant enemies, but that contract recently terminated when Hnirmil's youngest daughter took romantic interest in Thraldorv. Rather than risk complication, he separated from the service. Now he walks the cities seeking new work, his reputation preceding him and, in some quarters, prejudging him as little more than a blunt instrument of violence.
+At thirty-five years old, Thraldorv's body has begun to slow, though imperceptibly to any challenger. The younger warriors in Vithgard's mercenary markets eye him with a mixture of fear and hunger—fear of his proven skill, hunger to displace him and claim his steady income. He has worked recently as a bodyguard for Lord [[being-hnirvmylthul|Hnirmil Thulmaruk]], a merchant prince with significant enemies, but that contract recently terminated when Hnirmil's youngest daughter took romantic interest in Thraldorv. Rather than risk complication, he separated from the service. Now he walks the cities seeking new work, his reputation preceding him and, in some quarters, prejudging him as little more than a blunt instrument of violence.
 
 ## Psyche
 
@@ -486,21 +486,21 @@ Inflexible Contracts
 Lord Hnirmil Thulmaruk
 : A merchant prince of considerable wealth who has employed Thraldorv multiple times for extended contracts, though their current relationship is strained due to personal complications
 
-The Vithgard Mercenaries Guild
+The [Vithgard Mercenaries Guild]{.name data-type="affiliation/guild"}
 : Though not formally a member by choice, the Guild regularly contracts his services for their most dangerous work and provides steady flow of employment
 
-High Priestess Glarvinda of the Asguardian Temple
+High Priestess [[being-glarvynda|Glarvinda]] of the [Asguardian Temple]{.name data-type="affiliation"}
 : Spiritual authority who has occasionally hired him for sacred protection duties and who views him as a man of real, if conflicted, faith
 
 ### Enemies
 
-Glarvorv Mirvaruk's Successors
+[Glarvorv Mirvaruk's Successors]{.name data-type="affiliation"}
 : His old mentor's heirs view him as competition for the most prestigious mercenary contracts; they have begun a subtle campaign to undermine his reputation
 
-The Crimson Ravens
+[The Crimson Ravens]{.name data-type="affiliation"}
 : A rival mercenary band that sees him as an obstacle to their own expansion in Vithgard's markets; open conflict between the groups has occurred multiple times
 
-Lord Dvurnthann Althendik
+Lord [[being-dvurnthannal|Dvurnthann Althendik]]
 : An ambitious noble whose assassination attempt Thraldorv once thwarted while protecting another client; Althendik has since promised a substantial reward to any who bring Thraldorv down
 
 ### Affiliations
@@ -508,8 +508,8 @@ Lord Dvurnthann Althendik
 Vithgard Mercenaries Guild
 : The primary employment network and social structure for warriors-for-hire throughout the kingdom
 
-The Asguardian Brotherhood
-: Informal fellowship of men who honor [[lore-motefnirdty|Mótefnir]]'s making and the Rime-Giant's strength together; mostly warriors, craftspeople, and those who revere the primal forces
+[The Asguardian Brotherhood]{.name data-type="affiliation"}
+: Informal fellowship of men who honor [[lore-motefnirdty|Mótefnir]]'s making and [[lore-hrimthurspr|Hrimthur]] the Rime-Giant's strength together; mostly warriors, craftspeople, and those who revere the primal forces
 
 ## Plot Hooks
 
@@ -517,7 +517,7 @@ The Ghost of Snilthborg
 : A young warrior appears in Vithgard's settlements claiming to be Thraldorv's lost brother—the brother he watched die during their training under **Glarvorv Mirvaruk** nearly twenty years past. The appearance is uncanny; the man bears the exact same mark on his left shoulder that Thraldorv's brother possessed. Yet investigation reveals the man has no history before three years ago. Thraldorv becomes obsessed with discovering whether this is a resurrection, an imposter, or a curse, and finds his famous focus fragmenting as the question consumes him.
 
 The Sacred Blade Contract
-: The High Priestess **Glarvinda** approaches Thraldorv with a contract unlike any he has accepted before—to retrieve a holy artifact, the Blade of First Creation, stolen from the Asguardian Temple by mysterious raiders. The priestess confides that only Thraldorv possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Glarvorv Mirvaruk and force him to reconcile the mentor he revered with a terrible historical truth.
+: The High Priestess **Glarvinda** approaches Thraldorv with a contract unlike any he has accepted before—to retrieve a holy artifact, the [Blade of First Creation]{.name data-type="weapongear"}, stolen from the Asguardian Temple by mysterious raiders. The priestess confides that only Thraldorv possesses both the skill and the spiritual standing to bear the blade without corruption. Yet the trail leads him toward a revelation about his past that will shatter his understanding of his training under Glarvorv Mirvaruk and force him to reconcile the mentor he revered with a terrible historical truth.
 
 The Lord's Rebellion
 : **Lord Hnirmil Thulmaruk**, whom Thraldorv served faithfully for two years, approaches him with a covert proposal. Hnirmil has grown weary of serving the King and wishes to build an independent power base in a distant settlement. He offers Thraldorv a position as commander of an army of mercenaries, steady employment for life, and a share in the wealth they will build together—an offer that represents everything Thraldorv has been denied by his birth as third son. But accepting means betraying the Kingdom, breaking his implicit oath as a Vithgard citizen, and potentially facing former allies as enemies.
@@ -526,4 +526,4 @@ The Curse of the Crimson Ravens
 : The Crimson Ravens, Thraldorv's rivals, appear to be murdering their way through Vithgard's warrior community in a pattern that traces directly toward him. One by one, warriors he fought alongside, trained with, or competed against fall dead under mysterious circumstances. Each death appears to carry a mark linking the Crimson Ravens as perpetrators, yet no evidence directly implicates them. Thraldorv must uncover whether he is being deliberately targeted, whether someone else is framing the Ravens, or whether a darker force is at work hunting warriors connected to him.
 
 The Path to Redemption
-: An elderly healer and philosopher named **Master Flirninda** offers Thraldorv something he has come to desperately crave—a path to spiritual redemption. Flirninda claims to train broken warriors in methods of meditation and honor that can absolve them of the spiritual stain of accumulated killing. But Thraldorv's past includes a deed of such darkness (which he has never disclosed to anyone) that he fears no spiritual discipline can wash it away. He can continue to deny the deed existed, seek to have it forgiven, or discover that some acts cannot be absolved and must be borne.
+: An elderly healer and philosopher named Master [[being-flirnynda|Flirninda]] offers Thraldorv something he has come to desperately crave—a path to spiritual redemption. Flirninda claims to train broken warriors in methods of meditation and honor that can absolve them of the spiritual stain of accumulated killing. But Thraldorv's past includes a deed of such darkness (which he has never disclosed to anyone) that he fears no spiritual discipline can wash it away. He can continue to deny the deed existed, seek to have it forgiven, or discover that some acts cannot be absolved and must be borne.

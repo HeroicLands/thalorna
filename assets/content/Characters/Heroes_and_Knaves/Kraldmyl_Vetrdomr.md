@@ -418,17 +418,17 @@ sohl:
 
 ![[krldmylvtrdmr|Kralmil Vetrdómr]]{float=top-left}
 
-Kralmil stands 6'5" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an angular face, a slightly upturned nose, a broad chin, a small mouth, dark brows. A distinguishing mark is a scar along the jawline.
+Kralmil Vetrdómr stands 6'5" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an angular face, a slightly upturned nose, a broad chin, a small mouth, dark brows. A distinguishing mark is a scar along the jawline.
 
 # Dossier {#dossier}
 
-Kralmil was born in a small settlement in the wild borderlands of [[place-nordheim|Nordheim]], the fourth son of a farming family with little land and even fewer prospects. At age ten, his family apprenticed him to a master woodcutter named Forgath the Old, a massive man with whom Kralmil seemed to develop an immediate rapport. For six years, Kralmil learned the language of the forest—how to read a tree's character, how to identify the timber best suited to each purpose, how to fell without wasting and how to preserve without damaging.
+Kralmil was born in a small settlement in the wild borderlands of [[place-nordheim|Nordheim]], the fourth son of a farming family with little land and even fewer prospects. At age ten, his family apprenticed him to a master woodcutter named [Forgath the Old]{.name data-type="being/npc"}, a massive man with whom Kralmil seemed to develop an immediate rapport. For six years, Kralmil learned the language of the forest—how to read a tree's character, how to identify the timber best suited to each purpose, how to fell without wasting and how to preserve without damaging.
 
 At sixteen, Kralmil was working with Forgath in a remote forest when a winter storm brought down a massive oak. Forgath was caught beneath its weight, his legs crushed beyond healing. Rather than abandon his master, Kralmil spent the night beneath the snow, maintaining Forgath's warmth and consciousness while he waited for the morning to bring help. Help came, but too late for Forgath's legs—the old man lived for another decade, crippled and in pain, until a harsh winter finally claimed him. Kralmil was there at the end, holding his dying mentor's hand.
 
-After Forgath's death, Kralmil became the finest woodcutter in all of Nordheim, known for his ability to harvest timber from impossible locations and his uncanny sense for which trees would provide the strongest wood for specific purposes. He joined the Woodcutters' Guild at twenty-one and has never accepted promotion beyond master craftsman, preferring the simple clarity of direct work to any form of authority over others. He received the scar on his jaw at age twenty-four when a carelessly cut tree branch snapped back and nearly severed his face—an accident that terrified him not because of the pain, but because for a moment, death had been real and arbitrary, independent of skill or effort.
+After Forgath's death, Kralmil became the finest woodcutter in all of Nordheim, known for his ability to harvest timber from impossible locations and his uncanny sense for which trees would provide the strongest wood for specific purposes. He joined the [Woodcutters' Guild]{.name data-type="affiliation/guild"} at twenty-one and has never accepted promotion beyond master craftsman, preferring the simple clarity of direct work to any form of authority over others. He received the scar on his jaw at age twenty-four when a carelessly cut tree branch snapped back and nearly severed his face—an accident that terrified him not because of the pain, but because for a moment, death had been real and arbitrary, independent of skill or effort.
 
-He married once, in his thirties, to a woman named Brilda, the daughter of a local smith. The marriage lasted five years before Brilda left, unable to endure the isolation and emotional distance that seemed to be Kralmil's fundamental nature. She did not leave in anger but in sadness, and Kralmil has never blamed her. They have no children. Now, at forty-six, Kralmil lives alone in a cabin he built himself at the edge of the great forests of Nordheim, and he asks nothing more of life than the opportunity to continue his work.
+He married once, in his thirties, to a woman named [Brilda]{.name data-type="being/npc"}, the daughter of a local smith. The marriage lasted five years before Brilda left, unable to endure the isolation and emotional distance that seemed to be Kralmil's fundamental nature. She did not leave in anger but in sadness, and Kralmil has never blamed her. They have no children. Now, at forty-six, Kralmil lives alone in a cabin he built himself at the edge of the great forests of Nordheim, and he asks nothing more of life than the opportunity to continue his work.
 
 ## Psyche
 
@@ -480,16 +480,16 @@ Isolation Creates Vulnerability
 
 ### Patrons
 
-Master Carpenter Gnuldrmil
+Master Carpenter [Gnuldrmil]{.name data-type="being/npc"}
 : The finest carpenter in Nordheim relies entirely on Kralmil's timber and has arranged his entire business around Kralmil's supply schedule, paying a premium for the superior quality of wood that only Kralmil can provide.
 
-The Builders' Collective
+[The Builders' Collective]{.name data-type="affiliation"}
 : An informal association of craftsmen engaged in major construction projects in Nordheim's cities depends on Kralmil for special timber that must meet exacting standards; they pay well and do not question his methods.
 
-High Priestess Snarvthira
-: The priestess of Thrunvald in the nearest settlement views Kralmil as a worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
+High Priestess [[being-snarvthyra|Snarvthira]]
+: The priestess of the [[affiliation-thrunvald|Faith of Thrunvald]] in the nearest settlement views Kralmil as a worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
 
-Alderman Hlusmil
+Alderman [[being-hluskmyl|Hlusmil]]
 : The local administrative leader respects Kralmil's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
 
 ### Enemies
@@ -497,7 +497,7 @@ Alderman Hlusmil
 [[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of [[place-vrithholm|Vrithholm]]
 : These ambitious merchants view Kralmil's independent operations as an obstacle to their plans for industrial-scale timber harvesting and have attempted repeatedly to purchase his operation or absorb him into their company—attempts he has always refused.
 
-Warden Kale
+Warden [Kale]{.name data-type="being/npc"}
 : The regional forest warden has clashed with Kralmil multiple times over interpretations of harvesting rights and believes that Kralmil operates outside proper legal authority; this resentment has festered into personal dislike.
 
 The Corrupted Settlement

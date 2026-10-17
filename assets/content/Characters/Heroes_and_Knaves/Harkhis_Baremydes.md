@@ -423,7 +423,7 @@ sohl:
 
 ![[hrkhsbrmyds|Harkis Baremides]]{float=top-left}
 
-Harkis stands 5'8" tall with a medium build. He has light ruddy skin, grey hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
+Harkis Baremides stands 5'8" tall with a medium build. He has light ruddy skin, grey hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
 
 # Dossier {#dossier}
 
@@ -431,9 +431,9 @@ Harkis stands 5'8" tall with a medium build. He has light ruddy skin, grey hair,
 
 ### The Healer's Apprentice
 
-Harkis was born into moderate means at the center of [[affiliation-vylarinmpr|Vylaria]]'s empire, to parents of the merchant class with interests in trade in exotic herbs and spices. His mother, a woman named **Amora**, possessed real knowledge of herbal medicine and shared her interests with her intelligent youngest son. Where his siblings followed the ordinary merchant's path, Harkis became absorbed in the deeper mysteries of his mother's work—the understanding that the same substance that heals in small doses becomes poison in larger quantities, and that the boundary between remedy and toxin is a matter of precise measurement.
+Harkis was born into moderate means at the center of the [[affiliation-vylarinmpr|Vylarian Empire]], to parents of the merchant class with interests in trade in exotic herbs and spices. His mother, a woman named [Amora]{.name data-type="being/npc"}, possessed real knowledge of herbal medicine and shared her interests with her intelligent youngest son. Where his siblings followed the ordinary merchant's path, Harkis became absorbed in the deeper mysteries of his mother's work—the understanding that the same substance that heals in small doses becomes poison in larger quantities, and that the boundary between remedy and toxin is a matter of precise measurement.
 
-At sixteen years old, he was apprenticed to **Master Kehdaan**, one of the Empire's most respected apothecaries, working in an official shop located in Vylaria's primary administrative district. For twelve years, Harkis learned legitimate medicine, earning his guild standing and beginning to build a respectable reputation as a skilled practitioner of the herbal art. He married, had two children, lived a life that seemed destined for quiet prosperity.
+At sixteen years old, he was apprenticed to Master [Kehdaan]{.name data-type="being/npc"}, one of the Empire's most respected apothecaries, working in an official shop located in Vylaria's primary administrative district. For twelve years, Harkis learned legitimate medicine, earning his guild standing and beginning to build a respectable reputation as a skilled practitioner of the herbal art. He married, had two children, lived a life that seemed destined for quiet prosperity.
 
 ### The Fall and the Underground
 
@@ -501,21 +501,21 @@ Vulnerability to Manipulation
 
 ### Patrons
 
-The Crimson Order
+[The Crimson Order]{.name data-type="affiliation/criminal"}
 : A well-organized criminal brotherhood operating throughout Vylaria; they maintain standing contract for Harkis' exclusive services and provide security in exchange for his availability
 
-Merchant Prince Kiramos
+Merchant Prince [[being-kiramostalot|Kiramos Talothates]]
 : An ambiguous figure who may be legitimate or criminal (Harkis is uncertain); he contracts Harkis for exotic poisons and antidotes and seems to move easily between legitimate and shadow economies
 
-The Master Healer's Guild (Covertly)
+[The Master Healer's Guild]{.name data-type="affiliation/guild"} (Covertly)
 : Certain legitimate medical practitioners have been known to discreetly contract Harkis for poisons used in mercy-killings and the relief of suffering in cases he does not fully understand but accepts at face value
 
 ### Enemies
 
-Commander Kolsame of the City Watch
+Commander [[being-kholsamelint|Kolsame Linthimis]] of the [City Watch]{.name data-type="affiliation"}
 : The official responsible for investigating underground apothecary operations; she views Harkis as a personal obsession and has dedicated significant resources to apprehending him
 
-The Violet Syndicate
+[The Violet Syndicate]{.name data-type="affiliation/criminal"}
 : A rival criminal organization that has attempted multiple times to acquire Harkis' services exclusively; they view his independence as a threat to their control
 
 Master Kehdaan (His Former Mentor)
@@ -523,7 +523,7 @@ Master Kehdaan (His Former Mentor)
 
 ### Affiliations
 
-The Underground Apothecaries Network
+[The Underground Apothecaries Network]{.name data-type="affiliation"}
 : Informal confederation of renegade healers and alchemists operating beyond legitimate authority; Harkis maintains standing in this organization and contributes his knowledge to the common store
 
 The Crimson Order
@@ -544,4 +544,4 @@ The Plague's Cure
 : A true plague begins spreading through Vylaria's populations, a disease uncontrolled and spreading with terrifying speed. Official apothecaries are unable to create an effective treatment. Commander Kolsame approaches Harkis secretly with an unusual proposal: if he will develop a cure, she will allow him to escape the city safely. He has the knowledge she does not, and she is willing to overlook his crimes if it means saving the city's population. The offer is tempting, but Harkis suspects a trap—either designed to capture him or to compromise him further by making him a public hero rather than a hidden criminal.
 
 The Suicide's Inheritance
-: One of Harkis' few real friends among underworld figures—a woman named **Sylvara** who operated as an information broker—takes her own life after a business failure, leaving Harkis as her sole named heir. Her estate includes not only significant wealth but documents and records of secrets known only to her—blackmail material on numerous figures throughout Vylaria's underworld and legitimate circles. Sylvara left explicit instructions that Harkis should decide whether these secrets should be released, destroyed, or held in perpetuity. The decision he makes will shape politics and crime in Vylaria for decades, and Harkis realizes he has suddenly been positioned as a figure of real power, a responsibility he never sought.
+: One of Harkis' few real friends among underworld figures—a woman named [Sylvara]{.name data-type="being/npc"} who operated as an information broker—takes her own life after a business failure, leaving Harkis as her sole named heir. Her estate includes not only significant wealth but documents and records of secrets known only to her—blackmail material on numerous figures throughout Vylaria's underworld and legitimate circles. Sylvara left explicit instructions that Harkis should decide whether these secrets should be released, destroyed, or held in perpetuity. The decision he makes will shape politics and crime in Vylaria for decades, and Harkis realizes he has suddenly been positioned as a figure of real power, a responsibility he never sought.

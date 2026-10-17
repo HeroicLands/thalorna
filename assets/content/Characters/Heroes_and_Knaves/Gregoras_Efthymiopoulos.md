@@ -424,13 +424,13 @@ sohl:
 
 ![[grgrsfthympls|Trufios Veghekos]]{float=top-left}
 
-Trufios stands 6'0" tall with a heavy build. He has weathered tanned skin, dark brown hair, and hazel eyes. His features include a diamond-shaped face, a hawkish nose, a pronounced chin, well-defined lips, and dark brows.
+Trufios Veghekos stands 6'0" tall with a heavy build. He has weathered tanned skin, dark brown hair, and hazel eyes. His features include a diamond-shaped face, a hawkish nose, a pronounced chin, well-defined lips, and dark brows.
 
 # Dossier {#dossier}
 
 **The Shipwright's Apprenticeship**
 
-Born in the maritime city of [[place-chrysamar|Chrisamar]] to a family of modest means, Trufios showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright Sangázion the Old, the most celebrated shipbuilder of the Bizarian coast. For twelve years, Trufios absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Sangázion recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
+Born in the maritime city of [[place-chrysamar|Chrisamar]] to a family of modest means, Trufios showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright [Sangázion the Old]{.name data-type="being/npc"}, the most celebrated shipbuilder of the coast of the [[place-byzariargn|Bizaria Region]]. For twelve years, Trufios absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Sangázion recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
 
 **Rising Through the Guild Ranks**
 
@@ -438,7 +438,7 @@ By age twenty-one, Trufios completed his journeyman's examination and began supe
 
 **Master and Commander**
 
-At age thirty-five, Trufios achieved the rank of Master Shipwright and opened his own yard in Chrisamar, employing up to thirty craftspeople during busy seasons. His warship designs have been adopted by the Bizarian naval fleet, and his merchant vessels are prized for their speed and durability. His work has grown ever more refined—each vessel is a marvel of engineering, drawing on mathematics, a deep knowledge of timber and iron, and accumulated practical wisdom. Yet his success has not mellowed him; if anything, age has sharpened his perfectionism and his intolerance for anything less than excellence.
+At age thirty-five, Trufios achieved the rank of Master Shipwright and opened his own yard in Chrisamar, employing up to thirty craftspeople during busy seasons. His warship designs have been adopted by the [Bizarian Fleet]{.name data-type="affiliation"}, and his merchant vessels are prized for their speed and durability. His work has grown ever more refined—each vessel is a marvel of engineering, drawing on mathematics, a deep knowledge of timber and iron, and accumulated practical wisdom. Yet his success has not mellowed him; if anything, age has sharpened his perfectionism and his intolerance for anything less than excellence.
 
 ## Psyche
 
@@ -490,24 +490,24 @@ Vulnerability to Burnout
 
 ### Patrons
 
-Admiral Yulizehran Kalkakit of the Bizarian Fleet
+Admiral [[being-yulizehrankh|Yulizehran Kalkakit]] of the Bizarian Fleet
 : The supreme naval commander of the [[affiliation-byzarianlg|Bizarian League]] maintains a permanent contract with Trufios for advanced warship design and construction. Yulizehran shields Trufios from bureaucratic interference and sees that his projects get first call on materials.
 
-House Margarakit
-: A wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. Their patriarch, Lord Karvashikos Margarakit, personally negotiates with Trufios and values his counsel on maritime matters.
+[House Margarakit]{.name data-type="affiliation/lineage"}
+: A wealthy merchant dynasty that has commissioned multiple high-speed merchant vessels and naval support ships. Their patriarch, Lord [[being-karvashikosm|Karvashikos Margarakit]], personally negotiates with Trufios and values his counsel on maritime matters.
 
-Guild Master Vokhiásh Loridek
-: The current head of the Maritime Shipwrights' Guild, Vokhiásh acts as a political buffer between Trufios and various governmental bureaucracies, smoothing over conflicts caused by the shipwright's abrasive manner.
+Guild Master [[being-vokhiashlori|Vokhiásh Loridek]]
+: The current head of the [Maritime Shipwrights' Guild]{.name data-type="affiliation/guild"}, Vokhiásh acts as a political buffer between Trufios and various governmental bureaucracies, smoothing over conflicts caused by the shipwright's abrasive manner.
 
 ### Enemies
 
 The Bizarian Naval Bureaucracy
 : Mid-level administrators and functionaries who view Trufios's refusal to follow standard procedures and his contempt for political process as intolerable insubordination. Several have attempted to block his projects or audit his finances in retaliation for perceived slights.
 
-Competitor Shipwright Abrázion
+Competitor Shipwright [Abrázion]{.name data-type="being/npc"}
 : A rival master shipwright whose designs put cheapness before quality, Abrázion has begun undercutting Trufios on price and spreading rumors that the aging master is losing his edge. This rivalry has become increasingly bitter as Abrázion actually begins winning some contracts.
 
-The Harbor Master's Office
+[The Harbor Master's Office]{.name data-type="affiliation/governmental"}
 : Trufios's refusal to grease the proper palms and his contempt for the harbor authority's regulations have resulted in repeated fines, permit delays, and bureaucratic harassment designed to make his work more difficult.
 
 ### Affiliations
@@ -515,7 +515,7 @@ The Harbor Master's Office
 Maritime Shipwrights' Guild
 : Trufios holds the rank of Master and sits on the guild's technical council, where he occasionally advocates for stricter standards and craft requirements.
 
-The Scholars of the Mechanical Arts
+[The Scholars of the Mechanical Arts]{.name data-type="affiliation"}
 : An informal circle of engineers, mathematicians, and craftspeople who share discoveries and discuss theoretical principles underlying their work. Trufios participates irregularly but with real enthusiasm for the intellectual component of this community.
 
 ## Plot Hooks

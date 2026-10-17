@@ -416,21 +416,21 @@ sohl:
 
 ![[palvdrvksh|Pallovi Draviksha]]{float=top-left}
 
-Pallovi stands 5'9" tall with a light build. She has tawny brown skin, dark black hair, and hazel eyes. Her features include a heart-shaped face, a broad nose, a soft jawline, and tawny brows.
+Pallovi Draviksha stands 5'9" tall with a light build. She has tawny brown skin, dark black hair, and hazel eyes. Her features include a heart-shaped face, a broad nose, a soft jawline, and tawny brows.
 
 # Dossier {#dossier}
 
 **Early Life and Calling**
 
-Pallovi was born in the city-state of Dirmapur to a family of modest means. Her father was a merchant of spices, her mother a seamstress of considerable but unrenowned skill. Unlike her siblings, Pallovi showed no interest in commerce or practical crafts; instead, she became obsessed with the written word and its visual presentation. Her first mentor was Kirtideva the Illuminator, an aging master scribe who recognized in her something rare: artistic vision combined with the discipline to master the technical foundations of her craft. Under Kirtideva's tutelage from age fourteen, Pallovi learned calligraphy and the formation of letters, and with them the philosophy of text as art—the belief that how a word is written is inseparable from what it means.
+Pallovi was born in the city-state of [[place-dharmapur|Dirmapur]] to a family of modest means. Her father was a merchant of spices, her mother a seamstress of considerable but unrenowned skill. Unlike her siblings, Pallovi showed no interest in commerce or practical crafts; instead, she became obsessed with the written word and its visual presentation. Her first mentor was [Kirtideva the Illuminator]{.name data-type="being/npc"}, an aging master scribe who recognized in her something rare: artistic vision combined with the discipline to master the technical foundations of her craft. Under Kirtideva's tutelage from age fourteen, Pallovi learned calligraphy and the formation of letters, and with them the philosophy of text as art—the belief that how a word is written is inseparable from what it means.
 
 **Shrena Training and Breakthrough**
 
-At eighteen, Pallovi formally joined the Scribes' Shrena and began her training in earnest. She quickly distinguished herself by fusing styles rather than by conservative mastery of traditional ones: taking classical Vedyaran script forms and subtly reimagining them, creating decorative borders that enhanced rather than overshadowed text, and developing a distinctive technique of integrating colored inks to create visual harmony without sacrificing readability. Her breakthrough came when a wealthy merchant commissioned a copy of a philosophical text, requesting that the quality of transcription match the depth of the ideas. Pallovi produced a work so visually and spiritually stunning that the merchant displayed it in his home as a masterpiece rather than a reference document. Word spread, and by age twenty-four, she had a waiting list of commissions.
+At eighteen, Pallovi formally joined [The Scribes' Shrena of Dirmapur]{.name data-type="affiliation/guild"} and began her training in earnest. She quickly distinguished herself by fusing styles rather than by conservative mastery of traditional ones: taking classical [[skill-vdykshrscrpt|Vedyakshara Script]] forms and subtly reimagining them, creating decorative borders that enhanced rather than overshadowed text, and developing a distinctive technique of integrating colored inks to create visual harmony without sacrificing readability. Her breakthrough came when a wealthy merchant commissioned a copy of a philosophical text, requesting that the quality of transcription match the depth of the ideas. Pallovi produced a work so visually and spiritually stunning that the merchant displayed it in his home as a masterpiece rather than a reference document. Word spread, and by age twenty-four, she had a waiting list of commissions.
 
 **Current Situation**
 
-Pallovi now stands at a turning point. She is recognized as one of the most talented scribes in Dirmapur, with commissions from the temples of Vyalendra, wealthy collectors, and even the lesser great houses. However, success has brought constraints. The shrena's masters increasingly press her to teach the traditional techniques to younger scribes, time she resents because it takes her away from her own creative work. Her reputation for new work has also attracted the attention of scholars and philosophers who wish to commission ambitious projects: an illustrated encyclopedia of natural philosophy, a comprehensive genealogy of the great houses rendered in elaborate illumination, even a proposed translation of an ancient religious text from a neighboring realm. These projects call to her artistic ambition, but completing any one of them would require abandoning her current commissions and potentially breaching her contracts with the shrena.
+Pallovi now stands at a turning point. She is recognized as one of the most talented scribes in Dirmapur, with commissions from the temples of the [[affiliation-vyalendra|Vyalendra]] faith, wealthy collectors, and even the lesser great houses. However, success has brought constraints. The shrena's masters increasingly press her to teach the traditional techniques to younger scribes, time she resents because it takes her away from her own creative work. Her reputation for new work has also attracted the attention of scholars and philosophers who wish to commission ambitious projects: an illustrated encyclopedia of natural philosophy, a comprehensive genealogy of the great houses rendered in elaborate illumination, even a proposed translation of an ancient religious text from a neighboring realm. These projects call to her artistic ambition, but completing any one of them would require abandoning her current commissions and potentially breaching her contracts with the shrena.
 
 ## Psyche
 
@@ -442,7 +442,7 @@ Pallovi has a complicated relationship with authority. She respects skill and ar
 
 ### Motivation
 
-Pallovi's primary drive is the integration of beauty and meaning. She believes that every text deserves to be rendered with the care and artistry that its ideas demand, and she sees her work as a scribe as interpreting and honoring the ideas she transcribes. She seeks creative recognition—to be remembered as an artist who expanded the possibilities of her craft, not as a competent technician. She is also motivated by a desire to help others communicate their most important thoughts clearly and beautifully. There is a spiritual dimension to her motivation: she worships Vyalendra, the creator god, and she sees her work as a form of prayer, a way of honoring the creative impulse that she believes all sentient beings possess.
+Pallovi's primary drive is the integration of beauty and meaning. She believes that every text deserves to be rendered with the care and artistry that its ideas demand, and she sees her work as a scribe as interpreting and honoring the ideas she transcribes. She seeks creative recognition—to be remembered as an artist who expanded the possibilities of her craft, not as a competent technician. She is also motivated by a desire to help others communicate their most important thoughts clearly and beautifully. There is a spiritual dimension to her motivation: she worships [[lore-vyalendradty|Vyalendra]], the creator god, and she sees her work as a form of prayer, a way of honoring the creative impulse that she believes all sentient beings possess.
 
 ### Strengths
 
@@ -482,10 +482,10 @@ Vulnerability to Impulsive Decision-Making
 
 ### Patrons
 
-The Temple of Vyalendra
+[The Temple of Vyalendra]{.name data-type="affiliation"}
 : The priesthood of her patron deity regularly commissions her to create sacred texts and illuminated prayers. They trust her spiritual understanding and have made her something of an unofficial artist-in-residence.
 
-The Merchants' Cooperative
+[The Merchants' Cooperative]{.name data-type="affiliation/venture"}
 : Wealthy merchants regularly commission elaborate documents from her—contracts rendered beautifully, ledgers transformed into works of art, gifts to business partners that demonstrate their refinement and taste.
 
 Master Kirtideva
@@ -496,7 +496,7 @@ The Shrena of Scribes
 
 ### Enemies
 
-Master Yajna, Conservative Shrena Elder
+Master [Yajna]{.name data-type="being/npc"}, Conservative Shrena Elder
 : A powerful senior figure in the Scribes' Shrena, Yajna represents the traditionalist faction. He views Pallovi's new forms as disrespectful to the classical traditions and has begun to publicly criticize her work as "frivolous decoration" that obscures rather than serves the text. He has subtle support from other conservatives, and there is quiet conflict over whether the shrena should encourage new forms or preserve traditional forms.
 
 ### Affiliations

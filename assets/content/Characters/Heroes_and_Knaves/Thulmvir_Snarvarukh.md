@@ -416,7 +416,7 @@ sohl:
 
 ![[thlmvrsnrvrkh|Thulmvir Snarvaruk]]{float=top-left}
 
-Thulmvir stands 6'1" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a prominent chin, a small mouth, straight brows.
+Thulmvir Snarvaruk stands 6'1" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a prominent chin, a small mouth, straight brows.
 
 # Dossier {#dossier}
 
@@ -424,7 +424,7 @@ Thulmvir stands 6'1" tall with a medium build. He has tanned weathered skin, bla
 
 ### Early Apprenticeship
 
-Thulmvir was born the third son of a poor farming family in [[place-vithgard|Vithgard]]'s interior, with little prospect of inheriting significant land or wealth. At age twelve, he was apprenticed to the master potter **Kalaugr Clayhand**, an aging craftsman whose hands trembled but whose mind remained sharp. Kalaugr recognized something in the boy—not flashy talent, but the kind of patient persistence that separates true craftspeople from mere imitators. For eight years, Thulmvir learned the fundamental truths of clay work: that patience yields greater results than passion, that tradition exists because it works, that the smallest variations in temperature or technique can mean the difference between a masterpiece and a pile of shards.
+Thulmvir was born the third son of a poor farming family in [[place-vithgard|Vithgard]]'s interior, with little prospect of inheriting significant land or wealth. At age twelve, he was apprenticed to the master potter [Kalaugr Clayhand]{.name data-type="being/npc"}, an aging craftsman whose hands trembled but whose mind remained sharp. Kalaugr recognized something in the boy—not flashy talent, but the kind of patient persistence that separates true craftspeople from mere imitators. For eight years, Thulmvir learned the fundamental truths of clay work: that patience yields greater results than passion, that tradition exists because it works, that the smallest variations in temperature or technique can mean the difference between a masterpiece and a pile of shards.
 
 ### The Journeyman Years
 
@@ -468,35 +468,35 @@ At forty, Thulmvir is primarily motivated by the desire to preserve authentic cr
 
 ### Patrons
 
-The Merchant House Vraldendik
-: A wealthy merchant family that has commissioned custom tableware and storage vessels from Thulmvir for the past fifteen years. The patriarch, **Lord Althmil Vraldendik**, respects traditional craftsmanship and keeps **Thulmvir's** work in demand among the upper classes.
+[The Merchant House Vraldendik]{.name data-type="affiliation/lineage"}
+: A wealthy merchant family that has commissioned custom tableware and storage vessels from Thulmvir for the past fifteen years. The patriarch, Lord [[being-althmylvrald|Althmil Vraldendik]], respects traditional craftsmanship and keeps **Thulmvir's** work in demand among the upper classes.
 
-The Miller's Cooperatives
+[The Miller's Cooperatives]{.name data-type="affiliation"}
 : Multiple miller families depend on Thulmvir's storage and measurement vessels, which are prized for their durability and accuracy of form.
 
-Herbalist Magga Hvalgumak
+Herbalist [Magga Hvalgumak]{.name data-type="being/npc"}
 : A respected healer who commissioned a series of specialized vessels for preserving medicines and herbs, and who has become a friend despite their generational difference.
 
 ### Enemies
 
-The Merchants' Collective of New Fashion
+[The Merchants' Collective of New Fashion]{.name data-type="affiliation"}
 : A coalition of younger merchants and traders who have begun importing cheaper, mass-produced ceramics from distant lands, undercutting Thulmvir's prices and promoting contemporary aesthetic values that directly contrast with his traditional work.
 
-Artisan Ilthann Vrathumak
+Artisan [[being-ilthannvrath|Ilthann Vrathumak]]
 : A younger potter of considerable talent who studied under Thulmvir for three years before breaking away to establish a rival workshop. Ilthann champions innovative glazing techniques and contemporary form, directly challenging Thulmvir's hold on the market. The ideological conflict between them runs deep.
 
 ### Affiliations
 
-Potters' Guild of Vithgard
+[Potters' Guild of Vithgard]{.name data-type="affiliation/guild"}
 : - While respected, Thulmvir holds increasingly conservative positions in guild politics, often opposing new schemes and changes, creating friction with younger members.
 
-The Traditionalists' Circle
+[The Traditionalists' Circle]{.name data-type="affiliation"}
 : - An informal association of master craftspeople from various disciplines who meet monthly to discuss the preservation of classical techniques and resistance to what they see as corruptive modern influences.
 
 ## Plot Hooks
 
 The Apprentice's Dilemma
-: - **Thulmvir's** most talented current apprentice, a young woman named **Lyra Stonecraft**, has been offered a substantial position with **Artisan Ilthann**, involving travel to distant centers of the potter's art and the opportunity to experiment with new techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thulmvir refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thulmvir's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
+: - **Thulmvir's** most talented current apprentice, a young woman named [Lyra Stonecraft]{.name data-type="being/npc"}, has been offered a substantial position with **Artisan Ilthann**, involving travel to distant centers of the potter's art and the opportunity to experiment with new techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thulmvir refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thulmvir's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
 
 The Crisis of the Kiln
 : - Thulmvir's primary kiln, a structure he's rebuilt and maintained for twenty years, develops catastrophic structural damage during firing. Reconstruction would be expensive and time-consuming, potentially leaving him unable to work for weeks or months. He's offered a partnership by the wealthy merchant **Lord Althmil Vraldendik** to use a new, hotter kiln in exchange for exclusive production rights. Accepting would secure his future but would compromise his independence and force him to adapt to machinery he doesn't trust. Refusing risks his livelihood.

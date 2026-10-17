@@ -421,7 +421,7 @@ sohl:
 
 ![[quztarqnrshq|Kuztar Akun'Rasheku]]{float=top-left}
 
-Kuztar stands 5'9" tall with a medium build. He has dark brown skin, white hair, and green-brown eyes. His features include a prominent nose, a tapered chin, well-shaped lips, and dark brows.
+Kuztar Akun'Rasheku stands 5'9" tall with a medium build. He has dark brown skin, white hair, and green-brown eyes. His features include a prominent nose, a tapered chin, well-shaped lips, and dark brows.
 
 # Dossier {#dossier}
 
@@ -429,11 +429,11 @@ Kuztar stands 5'9" tall with a medium build. He has dark brown skin, white hair,
 
 ### The Inheritance of Craft
 
-Kuztar Akun'Rasheku was born into the reeds themselves. His family had been thatchers for generations, their knowledge passed down like liturgy from father to son and uncle to nephew, until it was part of the blood of Clan Akun'Rasheku. His childhood was spent not in schooling houses but in marshes and on rooftops, learning first to identify the different grades of reed by touch and sound, then to bind them with the proper tension, and finally to read the angle of water flow and understand how to create roofs that were as much sculpture as shelter. His father, [[being-taletaqnrshq|Talet Akun'Rasheku]], was known throughout the lower delta for his work on the great temples, and Kuztar grew up in the shadow of that reputation, determined to surpass it.
+Kuztar Akun'Rasheku was born into the reeds themselves. His family had been thatchers for generations, their knowledge passed down like liturgy from father to son and uncle to nephew, until it was part of the blood of [Clan Akun'Rasheku]{.name data-type="affiliation/lineage"}. His childhood was spent not in schooling houses but in marshes and on rooftops, learning first to identify the different grades of reed by touch and sound, then to bind them with the proper tension, and finally to read the angle of water flow and understand how to create roofs that were as much sculpture as shelter. His father, [[being-taletaqnrshq|Talet Akun'Rasheku]], was known throughout the lower delta for his work on the great temples, and Kuztar grew up in the shadow of that reputation, determined to surpass it.
 
 ### Years of Mastery
 
-By his thirtieth year, Kuztar had established himself as the premier thatcher of his region. His roofs shed water and, the villagers claimed, sang in the rain, their many layers making harmonies said to have healing properties. His methods, refined by his own improvements upon centuries of family knowledge, became the standard by which other thatchers were measured. He traveled among the villages and farms of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] empire, his reputation preceding him, his fees among the highest but universally considered worth the price. Temples commissioned him, nobles competed for his availability, and young craftsmen apprenticed themselves to him, hoping to capture a fraction of his mastery.
+By his thirtieth year, Kuztar had established himself as the premier thatcher of his region. His roofs shed water and, the villagers claimed, sang in the rain, their many layers making harmonies said to have healing properties. His methods, refined by his own improvements upon centuries of family knowledge, became the standard by which other thatchers were measured. He traveled among the villages and farms of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], his reputation preceding him, his fees among the highest but universally considered worth the price. Temples commissioned him, nobles competed for his availability, and young craftsmen apprenticed themselves to him, hoping to capture a fraction of his mastery.
 
 ### The Long Afternoon
 
@@ -489,7 +489,7 @@ Perfectionism That Borders on Obsession
 
 ### Patrons
 
-The Lut-Uzn'era, High Priestess **Amqelitana**
+The [[affiliation-lutuznera|Lut-Uzn'era]], High Priestess [Amqelitana]{.name data-type="being/npc"}
 : The great temple dedicated to the deity of fertility and renewal has commissioned Kuztar for all major thatching work for the past three decades. Amqelitana views Kuztar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
 
 [[affiliation-linzegarmglt|Lin'Zegaru elu Miglet]]

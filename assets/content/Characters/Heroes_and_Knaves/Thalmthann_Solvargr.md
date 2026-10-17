@@ -418,7 +418,7 @@ sohl:
 
 ![[thlmthnslvrgr|Thalmthann Solvargr]]{float=top-left}
 
-Thalmthann stands 6'1" tall with a medium build. He has light weathered skin, grey hair, and grey eyes. His features include an angular face, a straight nose, a slightly downturned mouth, and thick brows. He has a scar on his chin.
+Thalmthann Solvargr stands 6'1" tall with a medium build. He has light weathered skin, grey hair, and grey eyes. His features include an angular face, a straight nose, a slightly downturned mouth, and thick brows. He has a scar on his chin.
 
 # Dossier {#dossier}
 
@@ -426,11 +426,11 @@ Thalmthann stands 6'1" tall with a medium build. He has light weathered skin, gr
 
 ### The Apprenticeship Years
 
-Thalmthann Solvargr was born into a merchant family of modest means, destined for a life of commerce until he witnessed a master glassworker demonstrating their craft at a market festival when he was twelve years old. The experience transfixed him—the way light transformed through molten glass, the precise control required to shape something so fluid, the beauty created from pure function. He begged his parents to apprentice him, and though they initially resisted, his persistence won them over. At fourteen, he entered the workshop of **Master Kalberk Firekeeper**, an aging glassworker of considerable skill who took the passionate boy under his wing.
+Thalmthann Solvargr was born into a merchant family of modest means, destined for a life of commerce until he witnessed a master glassworker demonstrating their craft at a market festival when he was twelve years old. The experience transfixed him—the way light transformed through molten glass, the precise control required to shape something so fluid, the beauty created from pure function. He begged his parents to apprentice him, and though they initially resisted, his persistence won them over. At fourteen, he entered the workshop of Master [Kalberk Firekeeper]{.name data-type="being/npc"}, an aging glassworker of considerable skill who took the passionate boy under his wing.
 
 ### The Golden Years
 
-For thirty years, Thalmthann worked as an apprentice, journeyman, and finally master, gradually building a reputation as a reliable, skilled craftsman. He developed a particular skill in functional glassware—drinking vessels, decorative plates, and specialized containers for apothecaries and scholars. His work was known for its clarity, its precise form, and its subtle elegance. By his early forties, he had established his own workshop in [[place-vithgard|Vithgard]]'s merchant district and had become a respected figure in the Glassworkers' Guild. He trained a succession of apprentices, married a merchant's daughter named **Druskinda**, and settled into what seemed a life of comfortable mastery.
+For thirty years, Thalmthann worked as an apprentice, journeyman, and finally master, gradually building a reputation as a reliable, skilled craftsman. He developed a particular skill in functional glassware—drinking vessels, decorative plates, and specialized containers for apothecaries and scholars. His work was known for its clarity, its precise form, and its subtle elegance. By his early forties, he had established his own workshop in [[place-vithgard|Vithgard]]'s merchant district and had become a respected figure in the [Glassworkers' Guild of Vithgard]{.name data-type="affiliation/guild"}. He trained a succession of apprentices, married a merchant's daughter named [Druskinda]{.name data-type="being/npc"}, and settled into what seemed a life of comfortable mastery.
 
 ### The Plateau Years
 
@@ -472,18 +472,18 @@ Thalmthann is primarily motivated by a desire to preserve the quality and integr
 
 ### Patrons
 
-The Merchant House Vraldendik
-: A wealthy merchant family of considerable power who commission specialized glassware and decorative pieces, providing steady income. Lord **Althmil Vraldendik** values quality and tradition, making him an ideal patron for Thalmthann.
+[The Merchant House Vraldendik]{.name data-type="affiliation/lineage"}
+: A wealthy merchant family of considerable power who commission specialized glassware and decorative pieces, providing steady income. Lord [[being-althmylvrald|Althmil Vraldendik]] values quality and tradition, making him an ideal patron for Thalmthann.
 
-The Scholars' Collegiate
+[The Scholars' Collegiate]{.name data-type="affiliation"}
 : A consortium of scholars who depend on Thalmthann's precision glasswork for laboratory equipment and specialized vessels.
 
 ### Enemies
 
-Artisan Ilthann Vrathumak
+Artisan [[being-ilthannvrath|Ilthann Vrathumak]]
 : A younger glassworker (who is also trained in ceramics) who established a rival workshop and is actively promoting contemporary aesthetic and technical approaches that directly challenge traditional glassworking. Ilthann has begun winning commissions from wealthy patrons seeking the newest work, which troubles Thalmthann.
 
-The Merchants' Coalition of Modern Commerce
+[The Merchants' Coalition of Modern Commerce]{.name data-type="affiliation"}
 : A faction of younger traders and merchants promoting cheaper, imported glassware and contemporary design trends, actively undercutting Thalmthann's market.
 
 ### Affiliations
@@ -491,7 +491,7 @@ The Merchants' Coalition of Modern Commerce
 Glassworkers' Guild of Vithgard
 : - He holds a position of respect but is increasingly aligned with the guild's conservative faction, creating friction with younger members seeking new methods and experimentation.
 
-The Masters' Circle
+[The Masters' Circle]{.name data-type="affiliation"}
 : - An informal association of elder craftspeople from various disciplines who meet to discuss preservation of traditional techniques and resistance to the newer fashions.
 
 ## Plot Hooks

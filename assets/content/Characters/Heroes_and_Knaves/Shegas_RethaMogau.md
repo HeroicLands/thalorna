@@ -424,7 +424,7 @@ sohl:
 
 ![[shegasrethmg|Shegas Retha'Mogau]]{float=top-left}
 
-Shegas stands 5'7" tall with a light build. She has deep bronze skin, jet black hair, and black eyes. Her features include an aquiline nose, a gentle jawline, and elegantly curved brows. She has a scar on her left arm.
+Shegas Retha'Mogau stands 5'7" tall with a light build. She has deep bronze skin, jet black hair, and black eyes. Her features include an aquiline nose, a gentle jawline, and elegantly curved brows. She has a scar on her left arm.
 
 # Dossier {#dossier}
 
@@ -432,7 +432,7 @@ Shegas stands 5'7" tall with a light build. She has deep bronze skin, jet black 
 
 ### Early Life and Loss
 
-Shegas was born in the capital city of the Empire of [[affiliation-empireakhlth|Au'Khelathu]] into the moderately wealthy Retha'Mogau family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shegas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shegas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
+Shegas was born in the capital city of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] into the moderately wealthy [Retha'Mogau family]{.name data-type="affiliation/lineage"}, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shegas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shegas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
 
 After her brother's death, Shegas became obsessed with learning every remedy, every healing art, every herb that might have helped him. Her parents, grieving and indulgent, allowed her to apprentice with an elderly apothecary named [[being-meshaqawise|Meshaqa the Wise]], a woman of great skill who had served the city's poor for decades.
 
@@ -444,7 +444,7 @@ When Meshaqa died at an extraordinary age, Shegas inherited her practice and her
 
 ### Present Struggles and Moral Conflict
 
-Now at thirty-four, Shegas has become a legend in the lower quarters—a saint to some, a source of hope to many. However, her generosity has created severe financial difficulties. She barely maintains her shop, and she has been forced to sell family properties and assets to continue her work. Her family views her as wasteful and have largely disowned her, considering her commitment to the poor as a betrayal of merchant principles. Recently, an ambitious apothecary named **Corven Marchant** opened an expensive shop catering to wealthy patients, spreading rumors that Shegas's free treatments are low-quality and that her methods are outdated. He has begun systematically trying to drive her out of business.
+Now at thirty-four, Shegas has become a legend in the lower quarters—a saint to some, a source of hope to many. However, her generosity has created severe financial difficulties. She barely maintains her shop, and she has been forced to sell family properties and assets to continue her work. Her family views her as wasteful and have largely disowned her, considering her commitment to the poor as a betrayal of merchant principles. Recently, an ambitious apothecary named [Corven Marchant]{.name data-type="being/npc"} opened an expensive shop catering to wealthy patients, spreading rumors that Shegas's free treatments are low-quality and that her methods are outdated. He has begun systematically trying to drive her out of business.
 
 ## Psyche
 
@@ -501,8 +501,8 @@ Vulnerability to Exploitation
 The City's Poor and Laboring Classes
 : Shegas's primary patrons, though they rarely pay in conventional coin. They repay her kindness with loyalty, gratitude, and protection. If anyone threatened Shegas, they would respond with fierce devotion.
 
-The Temple of [[lore-tjaqurdty|Chaq'ur]]
-: Though Shegas worships Chaq'ur, the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
+[The Temple of Chaq'ur]{.name data-type="affiliation"}
+: Though Shegas follows the [[affiliation-tjaqur|Faith of Chaq'ur]], worshipping [[lore-tjaqurdty|Chaq'ur]], the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
 
 Wealthy Merchants Seeking Discretion
 : A few affluent clients seek Shegas specifically because they trust her discretion and know she will never betray their confidences. These clients pay well and help sustain her practice.
@@ -521,7 +521,7 @@ The City Guard Commander
 ### Affiliations
 
 Independent Apothecary
-: Shegas operates her own practice without formal affiliation to any larger institution, though she maintains good standing with the Apothecaries' Guild (which she pays dues to, even if she often disagrees with their practices).
+: Shegas operates her own practice without formal affiliation to any larger institution, though she maintains good standing with the [Apothecaries' Guild]{.name data-type="affiliation/guild"} (which she pays dues to, even if she often disagrees with their practices).
 
 [[affiliation-lutnlgrkhlth|The Lut-Nelgir elu Au'Khelathu]]
 : While not a priestess, Shegas maintains relationships with multiple temples and shares knowledge with their healers.
@@ -541,7 +541,7 @@ The Black Market Ingredient
 : To develop a cure for a deadly disease affecting her poorest patients, Shegas discovers she needs a rare ingredient that can only be obtained from criminal organizations. A black market merchant approaches her, offering the ingredient in exchange for Shegas using her apothecary as a cover for smuggling dangerous compounds. She can use her practice to pass criminal goods in exchange for the means to save lives, or refuse and let her patients die.
 
 The Rival Healer's Challenge
-: A traveling healer of extraordinary skill named **Dominik Silvanus** arrives in the city and begins establishing a healing practice that is even more generous and effective than Shegas's own. Patients flock to him, and Shegas finds herself becoming jealous and competitive—a feeling that shocks her and contradicts her self-image. As she investigates Dominik, she discovers that his practice is being secretly funded by a criminal organization seeking to build loyalty among the poor for purposes of recruitment and control. Exposing the truth means confronting her own capacity for envy.
+: A traveling healer of extraordinary skill named [Dominik Silvanus]{.name data-type="being/npc"} arrives in the city and begins establishing a healing practice that is even more generous and effective than Shegas's own. Patients flock to him, and Shegas finds herself becoming jealous and competitive—a feeling that shocks her and contradicts her self-image. As she investigates Dominik, she discovers that his practice is being secretly funded by a criminal organization seeking to build loyalty among the poor for purposes of recruitment and control. Exposing the truth means confronting her own capacity for envy.
 
 The Forbidden Knowledge
 : An old scholar approaches Shegas with ancient texts describing healing techniques far beyond what any physician knows—techniques that might cure cancer, extend life indefinitely, or prevent aging. The texts also suggest these techniques require unethical practices: cutting organs from the poor to give to others, conducting dangerous experiments on prisoners, or other violations of the body. The scholar is willing to teach Shegas these techniques if she will help him procure test subjects. The choice is between her principles and her capacity to heal, and behind it lies what she believes healing means and which boundaries cannot be crossed whatever good might result.

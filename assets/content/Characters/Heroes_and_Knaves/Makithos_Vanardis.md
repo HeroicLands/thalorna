@@ -413,7 +413,7 @@ sohl:
 
 ![[mkthsvnrds|Makithos Vanardis]]{float=top-left}
 
-Makithos stands 5'7" tall with a medium build. He has light tanned skin, black hair, and hazel eyes. His features include an oblong face, an aquiline nose, a pointed chin, a wide mouth, heavy brows, and angular cheeks. He has a scar on the right side of his face.
+Makithos Vanardis stands 5'7" tall with a medium build. He has light tanned skin, black hair, and hazel eyes. His features include an oblong face, an aquiline nose, a pointed chin, a wide mouth, heavy brows, and angular cheeks. He has a scar on the right side of his face.
 
 # Dossier {#dossier}
 
@@ -421,11 +421,11 @@ Makithos stands 5'7" tall with a medium build. He has light tanned skin, black h
 
 ### The Wanderer's Child
 
-Makithos was born to a family of traveling performers—musicians, acrobats, and storytellers who moved from city to city across the Empire of Vylaria. Unlike his siblings, who found contentment in the transient performer's life, young Makithos was haunted by a hunger for something deeper: to craft stories rather than only perform them, to shape language and emotion into compelling architecture. By his teenage years, he was composing pieces for his family's performances, demonstrating an uncommon gift for understanding human motivation and emotional truth. A visiting scholar from the capital saw one of his works and recognized genius; the scholar invited the promising youth to study in the city's prestigious Academy of Dramatic Arts.
+Makithos was born to a family of traveling performers—musicians, acrobats, and storytellers who moved from city to city across the [[affiliation-vylarinmpr|Vylarian Empire]]. Unlike his siblings, who found contentment in the transient performer's life, young Makithos was haunted by a hunger for something deeper: to craft stories rather than only perform them, to shape language and emotion into compelling architecture. By his teenage years, he was composing pieces for his family's performances, demonstrating an uncommon gift for understanding human motivation and emotional truth. A visiting scholar from the capital saw one of his works and recognized genius; the scholar invited the promising youth to study in the city's prestigious [Academy of Dramatic Arts]{.name data-type="affiliation"}.
 
 ### The Path of Fire
 
-The Academy years were transformative and torturous. Makithos threw himself into study with an intensity that alarmed his instructors—he seemed never to sleep, never satisfied, never willing to complete a work. His plays grew longer and more complex, layered with philosophical depth and linguistic precision that audiences found challenging and critics called incomprehensible. During a performance of his most ambitious work, "The Sovereign Burning," a theatrical accident during the finale consumed a portion of the set and scarred his face. Rather than retreat, Makithos saw the scar as a mark of his devotion—physical proof of the fires of his art. He transformed it into a badge of authenticity, refused to have it treated properly, and emerged from the Academy as the most talented and most controversial artist the city had produced in a generation.
+The Academy years were transformative and torturous. Makithos threw himself into study with an intensity that alarmed his instructors—he seemed never to sleep, never satisfied, never willing to complete a work. His plays grew longer and more complex, layered with philosophical depth and linguistic precision that audiences found challenging and critics called incomprehensible. During a performance of his most ambitious work, "[The Sovereign Burning]{.name data-type="lore"}," a theatrical accident during the finale consumed a portion of the set and scarred his face. Rather than retreat, Makithos saw the scar as a mark of his devotion—physical proof of the fires of his art. He transformed it into a badge of authenticity, refused to have it treated properly, and emerged from the Academy as the most talented and most controversial artist the city had produced in a generation.
 
 ### The Controversial Genius
 
@@ -479,18 +479,18 @@ Isolation and Loneliness
 
 ### Patrons
 
-Lady Pramiza Thelvaris
+Lady [[being-pramizathelv|Pramiza Thelvaris]]
 : An immensely wealthy widow and patron of the arts who has championed Makithos's work despite critical controversy, commissioning his most ambitious productions and providing financial stability.
 
-The Imperial Theater Company
+[The Imperial Theater Company]{.name data-type="affiliation"}
 : The state-sanctioned theatrical institution, which despite tensions with Makithos's nonconformity, regularly produces his works and provides him with resources and prestige.
 
 ### Enemies
 
-Díthranos the Savage
+[Díthranos the Savage]{.name data-type="being/npc"}
 : The city's most influential theater critic, whose scathing reviews of Makithos's early works were instrumental in establishing the controversial reputation that has followed him; they share a complex relationship of mutual contempt.
 
-Delgos Vánarthes
+[Delgos Vánarthes]{.name data-type="being/npc"}
 : A former collaborator and rival playwright whose prospects Makithos effectively destroyed through public criticism and sabotage; Delgos now works to undermine every project Makithos attempts.
 
 ### Affiliations
@@ -498,16 +498,16 @@ Delgos Vánarthes
 [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]
 : Principal playwright and frequent director; maintains a complicated relationship with the institution despite his central importance to its prestige.
 
-The Writers' Guild
+[The Writers' Guild]{.name data-type="affiliation/guild"}
 : Member in good standing, though frequently at odds with the guild's standards and expectations.
 
-The Circle of Artistic Innovation
+[The Circle of Artistic Innovation]{.name data-type="affiliation"}
 : An informal collective of avant-garde artists and thinkers who view Makithos as a central figure in reshaping the city's arts.
 
 ## Plot Hooks
 
 The Masterwork Commission
-: The Imperial Court commissions Makithos to create a theatrical work celebrating the Emperor's upcoming jubilee—an enormous honor with impossible requirements. The play must be completed in months, must satisfy both artistic integrity and political expectations, and must involve the participation of various court factions whose interests directly conflict. The party becomes entangled as Makithos's assistants, investigators of backstage intrigue, and potentially the unwilling subjects of his dramatic experimentation. They discover that the commission itself is part of a larger political scheme, and that the play's success or failure will determine the course of imperial succession.
+: The [Imperial Court]{.name data-type="affiliation/governmental"} commissions Makithos to create a theatrical work celebrating the Emperor's upcoming jubilee—an enormous honor with impossible requirements. The play must be completed in months, must satisfy both artistic integrity and political expectations, and must involve the participation of various court factions whose interests directly conflict. The party becomes entangled as Makithos's assistants, investigators of backstage intrigue, and potentially the unwilling subjects of his dramatic experimentation. They discover that the commission itself is part of a larger political scheme, and that the play's success or failure will determine the course of imperial succession.
 
 The Burned Manuscript
 : The only copy of Makithos's most ambitious work—a sweeping epic tragedy that represents the culmination of his artistic vision—is destroyed in a fire at his chambers. Whether the fire is accident or deliberate sabotage remains unclear. Devastated but determined, Makithos becomes obsessed with reconstructing the work through the memories of those who have read portions of it and the scattered notes he has preserved. The party helps him gather fragments and reconstruct the manuscript while also investigating whether enemies deliberately destroyed his masterwork. In the process, they discover that the destroyed manuscript contained truths about the city's power structure that powerful people wanted suppressed.

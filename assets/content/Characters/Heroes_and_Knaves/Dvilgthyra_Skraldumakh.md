@@ -414,7 +414,7 @@ sohl:
 
 ![[dvlgthyrskrldmkh|Dvilgthira Skraldumak]]{float=top-left}
 
-Dvilgthira stands 5'8" tall with a light build. She has pale fair skin, black hair, and hazel eyes. Her features include a broad face, a snub nose, a narrow chin, rosy lips, light brows, and soft cheeks.
+Dvilgthira Skraldumak stands 5'8" tall with a light build. She has pale fair skin, black hair, and hazel eyes. Her features include a broad face, a snub nose, a narrow chin, rosy lips, light brows, and soft cheeks.
 
 # Dossier {#dossier}
 
@@ -426,7 +426,7 @@ Dvilgthira does not remember her freedom, though she was born to it. She was sev
 
 ### The Household
 
-For the first five years, Dvilgthira was passed between owners, her worth declining as she grew older and less "valuable" as a house servant. She was purchased at age twelve by the current master, **Lord Anthorv Driskumak**, a cold and exacting nobleman of moderate wealth who preferred competent staff to beautiful ones. In his household, Dvilgthira discovered she had a gift for anticipating needs—she could read a person's mood in their posture and have what they required ready before they asked for it. She became extraordinarily valuable precisely because she was so good at being invisible, at providing service without demanding recognition or sympathy.
+For the first five years, Dvilgthira was passed between owners, her worth declining as she grew older and less "valuable" as a house servant. She was purchased at age twelve by the current master, **Lord [[being-anthorvdrisk|Anthorv Driskumak]]**, a cold and exacting nobleman of moderate wealth who preferred competent staff to beautiful ones. In his household, Dvilgthira discovered she had a gift for anticipating needs—she could read a person's mood in their posture and have what they required ready before they asked for it. She became extraordinarily valuable precisely because she was so good at being invisible, at providing service without demanding recognition or sympathy.
 
 Over the years, she has become the primary household servant, the one person who keeps the entire establishment running. She manages the junior servants, oversees the kitchen, maintains the household accounts, and is the closest thing to a confidante the emotionally distant Lord Anthorv possesses. Her position has afforded her certain minor privileges—a small private room, slightly better food, the trust of her master. And yet it has also marked her as someone above the other servants, creating resentment among those who have not achieved her status.
 
@@ -497,7 +497,7 @@ None in any formal sense. She is dependent entirely on the whim of her master, *
 Other Servants in the Household
 : The junior servants resent what they perceive as her elevated position and favor. They sometimes sabotage her work, speak against her to Lord Anthorv, or deliberately create extra work for her as punishment for her perceived betrayal of servant solidarity.
 
-Senior Housemistress Morvanna
+Senior Housemistress [Morvanna]{.name data-type="being/npc"}
 : The elderly servant who would have taken the position Dvilgthira now holds has become her bitter enemy, blaming her for being passed over due to age. Morvanna actively works against Dvilgthira within the servant hierarchy.
 
 Unspoken Enemies Among Nobility

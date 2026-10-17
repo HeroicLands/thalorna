@@ -421,19 +421,19 @@ sohl:
 
 ![[gatnefrztmth|Gatnefur Zet'Maathu]]{float=top-left}
 
-Gatnefur stands 5'7" tall with a medium build. He has dark skin, black hair, and brown eyes. His features include an oval face, a long nose, a refined jawline, an expressive mouth, high-set brows, and sculpted cheeks. He has a scar on the left side of his neck.
+Gatnefur Zet'Maathu stands 5'7" tall with a medium build. He has dark skin, black hair, and brown eyes. His features include an oval face, a long nose, a refined jawline, an expressive mouth, high-set brows, and sculpted cheeks. He has a scar on the left side of his neck.
 
 # Dossier {#dossier}
 
 **A Child of the Guild Quarter**
 
-Gatnefur was born into the Guild Quarter of Galezkara, where craftsmen of every imaginable discipline plied their trades. His father, Zefura, was a master perfumer of considerable reputation, while his mother, Qelseta, worked as a dyer of great skill. From his earliest memories, young Gatnefur was surrounded by the interplay of scent and color, and his acute sensitivity to aromatic compounds became apparent by his fifth year. Where other children might smell nothing but "flower," Gatnefur could distinguish between the scents of a dozen different varieties of lotus, could detect the faint underlying notes of earth and sun in a simple rose petal.
+Gatnefur was born into the [Guild Quarter]{.name data-type="place/site"} of Galezkara, where craftsmen of every imaginable discipline plied their trades. His father, [[being-zefurazetmaa|Zefura Zet'Maathu]], was a master perfumer of considerable reputation, while his mother, [Qelseta]{.name data-type="being/npc"}, worked as a dyer of great skill. From his earliest memories, young Gatnefur was surrounded by the interplay of scent and color, and his acute sensitivity to aromatic compounds became apparent by his fifth year. Where other children might smell nothing but "flower," Gatnefur could distinguish between the scents of a dozen different varieties of lotus, could detect the faint underlying notes of earth and sun in a simple rose petal.
 
 His training began at age seven in his father's workshop. Zefura was a demanding teacher, but also a visionary one. Rather than teaching the boy to merely replicate the great fragrances of the past, he encouraged Gatnefur to experiment, to combine scents in ways that seemed almost heretical to the conservative guild masters. By his teens, Gatnefur had already begun to revolutionize the perfumer's art, creating fragrances that seemed to tell stories—to evoke specific emotions, memories, or visions.
 
 **The Scar and the Theft**
 
-At twenty-two years of age, Gatnefur achieved his first true triumph: a fragrance called "The Awakening of Uqa'a," a perfume of such extraordinary beauty and complexity that nobles from across the empire began to seek it. It was this very success that brought him his scar and the bitter lesson that jealousy wears many faces. A fellow perfumer—a man named Lekhur, who had been passed over for the same commission that Gatnefur won—attacked him in the street with the intent to silence him permanently. Only the intervention of a temple guard and Gatnefur's own surprising agility prevented the wound from being fatal.
+At twenty-two years of age, Gatnefur achieved his first true triumph: a fragrance called "[The Awakening of Uqa'a]{.name data-type="concoctiongear"}," a perfume of such extraordinary beauty and complexity that nobles from across the [[affiliation-empireakhlth|Empire of Au'Khelathu]] began to seek it. It was this very success that brought him his scar and the bitter lesson that jealousy wears many faces. A fellow perfumer—a man named [[being-lekhur2|Lekhur]], who had been passed over for the same commission that Gatnefur won—attacked him in the street with the intent to silence him permanently. Only the intervention of a temple guard and Gatnefur's own surprising agility prevented the wound from being fatal.
 
 **Current Mastery**
 
@@ -449,7 +449,7 @@ His mind moves at unusual speeds, making conceptual leaps that others struggle t
 
 ### Motivation
 
-Gatnefur is driven by a belief that he has not yet created his masterpiece—the fragrance that will surpass all his previous efforts and achieve something akin to perfection. Each new creation is a step toward this ideal, and each time one is completed, he feels both deep satisfaction and the immediate hunger to push further. There are also rumors of an ancient formulary, a text from the Age of Divine Kings ([[lore-akhfirsttab|the First Tablets]]) that supposedly contained recipes for fragrances of such power that they could induce visions, cure illnesses, or even grant temporary communion with the divine. Gatnefur's ultimate quest is to locate this formulary, decipher its secrets, and perhaps create a fragrance that would be the summit of the art—a scent that contains within it all the wisdom and beauty of the ages.
+Gatnefur is driven by a belief that he has not yet created his masterpiece—the fragrance that will surpass all his previous efforts and achieve something akin to perfection. Each new creation is a step toward this ideal, and each time one is completed, he feels both deep satisfaction and the immediate hunger to push further. There are also rumors of an ancient formulary, a text from the Age of Divine Kings ([[lore-akhfirsttab|The First Tablets]]) that supposedly contained recipes for fragrances of such power that they could induce visions, cure illnesses, or even grant temporary communion with the divine. Gatnefur's ultimate quest is to locate this formulary, decipher its secrets, and perhaps create a fragrance that would be the summit of the art—a scent that contains within it all the wisdom and beauty of the ages.
 
 ### Strengths
 
@@ -495,7 +495,7 @@ Lord [[being-qeltiemhequ2|Qelti Emheku]]
 High Priestess [[being-legirtari|Legirtari]]
 : A spiritual leader who commissioned from Gatnefur a special fragrance intended to heighten participants' awareness during sacred rituals. She values his work and offers him access to rare and sacred ingredients.
 
-The Royal Perfumer of the Gar-Au's Court
+The Royal Perfumer of [[affiliation-genzetgarau|Genzet'Gar-Au]] (the Gar-Au's Court)
 : Though not a patron in the traditional sense, this court official has taken interest in Gatnefur's new fragrances and occasionally brings requests from the highest levels of society.
 
 ### Enemies
@@ -506,7 +506,7 @@ Master Lekhur (Scarred Perfumer)
 [[affiliation-linqethar|Lin'Qethar]]
 : A loose alliance of older perfumers and guild conservatives who view Gatnefur as a threat to the established order and the sanctity of their craft. They have been known to attempt to restrict his access to rare ingredients and materials.
 
-Shelti the Alchemist
+[[being-shelti|Shelti]] the Alchemist
 : A mysterious figure dealing in rare ingredients who claims that Gatnefur owes him a significant debt for materials supplied years ago. He periodically appears demanding payment or threatening to reveal compromising secrets about Gatnefur's early experiments.
 
 ### Affiliations
@@ -514,13 +514,13 @@ Shelti the Alchemist
 [[affiliation-linzemnkhlth|Lin'Zemnu elu Au'Khelathu]]
 : Though technically a member in good standing, his relationship with the Guild is contentious. They benefit from his prestige but disapprove of his methods.
 
-[[affiliation-linrethrthsr|The Lin'Rethu elu Reth'Sa'ar]]
+The [[affiliation-linrethrthsr|Lin'Rethu elu Reth'Sa'ar]]
 : A loose network of researchers and academics with whom Gatnefur exchanges information about rare substances and ancient texts.
 
 ## Plot Hooks
 
 The Formulary of Divine Scents
-: A dying scholar approaches Gatnefur with a fragment of an ancient papyrus—a mere scrap, but bearing unmistakable symbols associated with the Age of Divine Kings, the age of the First Tablets. The scholar claims to have spent decades researching references to a fabled formulary containing recipes for fragrances of impossible power. Before the scholar succumbs to his illness, he reveals that he believes the complete formulary is hidden in a sealed chamber beneath the Great Temple of Uqa'a, protected by wards and guardians that have remained undisturbed for millennia. He asks Gatnefur to complete the work he could not, and leaves him a cryptic map and a single vial of an extraordinary fragrance that may be the key to the chamber. The problem: the Temple authorities have forbidden any excavation or research that might disturb the sanctity of the site, and powerful figures within the priesthood seem determined to prevent the formulary from being found.
+: A dying scholar approaches Gatnefur with a fragment of an ancient papyrus—a mere scrap, but bearing unmistakable symbols associated with the Age of Divine Kings, the age of the First Tablets. The scholar claims to have spent decades researching references to a fabled formulary containing recipes for fragrances of impossible power. Before the scholar succumbs to his illness, he reveals that he believes the complete formulary is hidden in a sealed chamber beneath the [Great Temple of Uqa'a]{.name data-type="place/structure"}, protected by wards and guardians that have remained undisturbed for millennia. He asks Gatnefur to complete the work he could not, and leaves him a cryptic map and a single vial of an extraordinary fragrance that may be the key to the chamber. The problem: the Temple authorities have forbidden any excavation or research that might disturb the sanctity of the site, and powerful figures within the priesthood seem determined to prevent the formulary from being found.
 
 The Counterfeit Creations
 : Gatnefur's fragrances are so valuable that they have become targets for skilled counterfeiters. Someone is producing excellent imitations of his most popular creations—good enough to fool casual observers but inferior enough to damage his reputation when disappointed customers complain. Worse, the counterfeiter seems to have intimate knowledge of his formulations and his workshop's layout. Gatnefur suspects a former apprentice or collaborator, but the perpetrator has covered their tracks with great skill. He must track down the source of these counterfeits before his reputation is irreparably damaged, and when he does, he may discover a conspiracy far larger than simple commercial fraud.
@@ -529,7 +529,7 @@ The Fragrance of Madness
 : A noblewoman approaches Gatnefur with a terrible request: she wants him to create a fragrance that will induce the bearer to fall in love with her. When he refuses on the grounds that such a thing is not only impossible but unethical, she instead offers him an astronomical sum to create something that mimics the effect closely enough—a fragrance that heightens suggestibility and emotional openness. Desperate for funding for his own research, Gatnefur agrees. But the fragrance he creates proves far more powerful than anyone anticipated. Those who wear it go beyond suggestibility into vivid delusions and lose all sense of personal agency. The noblewoman uses it to manipulate a prominent politician into committing an act of treason, and when the truth emerges, Gatnefur finds himself complicit in a scandal of enormous proportions. He must find a way to reverse the fragrance's effects before the political consequences tear the empire apart.
 
 The Merchant of Impossible Ingredients
-: A mysterious trader approaches Gatnefur claiming to have access to ingredients that should not exist—flowers that grew only in the Time of Legends, oils extracted from creatures now thought to be extinct, essences that seem to shimmer with an inner light. The merchant's prices are exorbitant, but the ingredients are exactly what Gatnefur has been seeking to achieve his masterwork. However, as he begins to use these materials, he notices strange effects beyond mere fragrance: visions, premonitions, and glimpses of other places and times seem to accompany their use. He begins to suspect that these ingredients are drawn from somewhere outside the normal world. The question becomes: what is he creating, and what might it draw into the world if he succeeds?
+: A mysterious trader approaches Gatnefur claiming to have access to ingredients that should not exist—flowers that grew only in the [Time of Legends]{.name data-type="lore/history"}, oils extracted from creatures now thought to be extinct, essences that seem to shimmer with an inner light. The merchant's prices are exorbitant, but the ingredients are exactly what Gatnefur has been seeking to achieve his masterwork. However, as he begins to use these materials, he notices strange effects beyond mere fragrance: visions, premonitions, and glimpses of other places and times seem to accompany their use. He begins to suspect that these ingredients are drawn from somewhere outside the normal world. The question becomes: what is he creating, and what might it draw into the world if he succeeds?
 
 A Debt Called In
 : The mysterious figure known as Shelti the Alchemist appears at Gatnefur's workshop with a summons he cannot ignore. Years ago, Gatnefur acquired several rare ingredients from Shelti on what he believed was a deferred payment arrangement. Shelti now claims the debt has come due—not in coin, but in a specific task that only Gatnefur's skills and reputation can accomplish. Shelti wishes him to create a fragrance according to a specific formula and then deliver it to a location in the desert, asking no questions about its purpose. Gatnefur knows that Shelti moves in shadow circles—circles where poisons, dark magic, and forbidden rites are traded. Accepting the task will place him in complicity with forces he does not fully understand; refusing will likely result in violence and the destruction of everything he has built.

@@ -422,13 +422,13 @@ sohl:
 
 ![[prtrkpdmdksh|Pritarika Padmadiksha]]{float=top-left}
 
-Pritarika stands 5'6" tall with a medium build. She has rich brown skin, very dark brown hair, and dark brown eyes. Her features include a diamond-shaped face, a narrow nose, a narrow chin, full lips, rich brows, and prominent cheeks.
+Pritarika Padmadiksha stands 5'6" tall with a medium build. She has rich brown skin, very dark brown hair, and dark brown eyes. Her features include a diamond-shaped face, a narrow nose, a narrow chin, full lips, rich brows, and prominent cheeks.
 
 # Dossier {#dossier}
 
-Pritarika was born into the great house of Padmadiksha, one of the most ancient and respected lineages of the City-States of Vedyara. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Kulena Jayarsha, believed that women of great-house blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned Amrita, was herself a scholar of considerable renown and passed to Pritarika a love of knowledge and an unusually compassionate worldview.
+Pritarika was born into the great house of [Padmadiksha]{.name data-type="affiliation/lineage"}, one of the most ancient and respected lineages of the city-states of the [[place-vedyarargn|Vedyara Region]]. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Kulena [[being-jayarshapadm|Jayarsha Padmadiksha]], believed that women of great-house blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned [Amrita]{.name data-type="being/npc"}, was herself a scholar of considerable renown and passed to Pritarika a love of knowledge and an unusually compassionate worldview.
 
-The realm's traditional great houses resisted this broad education, but Kulena Jayarsha was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Kulena Satyadarsha of a neighboring holding, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Satyadarsha respected her intellect, called her Priti when they were alone, and supported her gradually expanding influence in regional governance.
+The realm's traditional great houses resisted this broad education, but Kulena Jayarsha was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Kulena [[being-satyadarshav|Satyadarsha Valaka]] of a neighboring holding, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Satyadarsha respected her intellect, called her Priti when they were alone, and supported her gradually expanding influence in regional governance.
 
 When Satyadarsha was killed in a hunting accident at age fifty-five—an incident Pritarika suspects was not accidental—she inherited full control of both estates. Rather than remarry as tradition dictated, she declared herself steward of her late husband's house while maintaining full governance of her birth family's holdings. This unprecedented move sparked outrage among traditionalists but was ultimately accepted due to the economic prosperity her management brought to both estates.
 
@@ -446,7 +446,7 @@ She is often lonely in her position. Her authority prevents friendship with thos
 
 ### Motivation
 
-Pritarika's deepest motivation is the creation of a society that functions according to merit and justice rather than mere tradition and bloodline. She views her positions of power not as personal privilege but as stewardship, and she is determined to use her influence to gradually reshape Vedyaran society into something more humane and egalitarian. She knows this transformation will not occur in her lifetime and may be reversed after her death, but she is committed to planting seeds that might grow in future generations.
+Pritarika's deepest motivation is the creation of a society that functions according to merit and justice rather than mere tradition and bloodline. She views her positions of power not as personal privilege but as stewardship, and she is determined to use her influence to gradually reshape [[lore-vedyariclt|Vedyari]] society into something more humane and egalitarian. She knows this transformation will not occur in her lifetime and may be reversed after her death, but she is committed to planting seeds that might grow in future generations.
 
 Privately, she also seeks to honor the memory of her late husband by seeing that his house and legacy endure and prosper, and she wonders obsessively whether his death was truly accident or the consequence of powerful enemies who feared what she and Satyadarsha might accomplish together.
 
@@ -491,13 +491,13 @@ Underestimation of Traditional Forces
 
 ### Patrons
 
-The Scholarly Circle of Vedyara
-: A network of educated women from various great houses who share Pritarika's reforming vision. They exchange knowledge, provide mutual support, and work toward gradual transformation of Vedyaran society. Led formally by the aging matriarch Shashvati, the circle functions as both salon and secret society.
+[The Scholarly Circle of Vedyara]{.name data-type="affiliation"}
+: A network of educated women from various great houses who share Pritarika's reforming vision. They exchange knowledge, provide mutual support, and work toward gradual transformation of Vedyaran society. Led formally by the aging matriarch [Shashvati]{.name data-type="being/npc"}, the circle functions as both salon and secret society.
 
-The Merchant Shrenis of Three Cities
+[The Merchant Shrenis of Three Cities]{.name data-type="affiliation"}
 : Prosperous merchant families appreciate Pritarika's liberal trade policies and protection of commerce. They provide financial support and political backing, viewing her as good for business stability.
 
-Aruti the Wise
+[Aruti the Wise]{.name data-type="being/npc"}
 : A famed holy woman of indeterminate age who dwells in a mountaintop hermitage. Pritarika visits her for counsel on matters of conscience and receives guidance that is cryptic but often proves wise. Few know of this relationship.
 
 The Common People of Her Estates
@@ -505,7 +505,7 @@ The Common People of Her Estates
 
 ### Enemies
 
-Kulena Montra Deshpande
+Kulena [Montra Deshpande]{.name data-type="being/npc"}
 : The leader of the traditionalist faction within the great houses. He views Pritarika's reforms as a mortal threat to the order of the great houses and has made it his mission to discredit her, expose weaknesses in her administration, and ultimately force her removal or replacement with a more conservative leader.
 
 The Orthodox Temple Authority
@@ -514,21 +514,21 @@ The Orthodox Temple Authority
 Unknown Assassins
 : Someone has made at least three attempts on Pritarika's life over the past seven years—attempts that appeared accidental or coincidental but revealed patterns to her suspicious mind. She does not know whether these attacks originate from Deshpande, foreign powers, or someone with personal motivation.
 
-Kalindi Padmadiksha
+[Kalindi Padmadiksha]{.name data-type="being/npc"}
 : Pritarika's younger brother, who was bypassed in the succession due to his youth and perceived lack of aptitude. He has grown bitter, viewing Pritarika's success as theft of his birthright. While not directly opposing her, his resentment simmers and may become dangerous.
 
 ### Affiliations
 
-The Sabhra of the Great Kulas of Vedyara
+[The Sabhra of the Great Kulas of Vedyara]{.name data-type="affiliation/governmental"}
 : Pritarika holds a prominent seat and uses this platform to advocate for her vision of reformed governance.
 
 The Padmadiksha House and its Territories
 : Her primary loyalty and greatest responsibility, encompassing two estates and several satellite holdings.
 
-The Order of Mahajaya
-: She is a devotee of this peaceful deity aspect and uses her religious affiliation to justify her reformist philosophy.
+The [[affiliation-mahajaya|Mahajaya]] order
+: She is a devotee of [[lore-mahajayadty|Mahajaya]], this peaceful deity aspect, and uses her religious affiliation to justify her reformist philosophy.
 
-The Learned Society of Vedyara
+[The Learned Society of Vedyara]{.name data-type="affiliation"}
 : An organization dedicated to preserving and advancing knowledge. Pritarika is a generous patron and active member.
 
 ## Plot Hooks
@@ -546,4 +546,4 @@ The Courtier's Confession
 : A high-ranking official in her administration confesses to crimes—misuse of funds, betrayal of confidences, sleeping with the governor's wife—crimes that seem designed specifically to humiliate and undermine Pritarika's authority. The official claims this confession is voluntary and seeks punishment. Pritarika suspects this is a setup by Deshpande's faction to either force her into harsh punishment that makes her appear tyrannical or lenient treatment that makes her appear weak and unserious about governance. Unraveling the truth requires careful investigation while maintaining her position's credibility.
 
 The Ritual of Succession
-: An ancient and powerful ritual known as the Ceremony of the Eternal Lord is scheduled to occur in three months—a traditional Vedyaran rite in which the oldest ruling great house confirms its succession and renews its covenant with the land through blood magic and sacred vows. Pritarika's participation is expected, and her refusal would be interpreted as rejection of the entire order of the great houses. However, a mysterious stranger—possibly sent by foreign powers—approaches her with evidence that the ritual involves practices she considers abhorrent, including ritual sacrifice and the subjugation of women. The stranger offers to help her expose the ritual's true nature and revolutionize the ceremony, but doing so would shatter centuries of tradition and alienate her from the great houses whose support she needs. She can take part in a ceremony she now finds morally compromised, or risk everything to transform it.
+: An ancient and powerful ritual known as the [Ceremony of the Eternal Lord]{.name data-type="lore/custom"} is scheduled to occur in three months—a traditional Vedyaran rite in which the oldest ruling great house confirms its succession and renews its covenant with the land through blood magic and sacred vows. Pritarika's participation is expected, and her refusal would be interpreted as rejection of the entire order of the great houses. However, a mysterious stranger—possibly sent by foreign powers—approaches her with evidence that the ritual involves practices she considers abhorrent, including ritual sacrifice and the subjugation of women. The stranger offers to help her expose the ritual's true nature and revolutionize the ceremony, but doing so would shatter centuries of tradition and alienate her from the great houses whose support she needs. She can take part in a ceremony she now finds morally compromised, or risk everything to transform it.

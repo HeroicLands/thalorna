@@ -417,7 +417,7 @@ sohl:
 
 ![[drshkrplytms|Dorashkar Tredis]]{float=top-left}
 
-Dorashkar stands 5'10" tall with a medium build. He has light brown tanned skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a straight nose, a strong jawline, full lips, light brows.
+Dorashkar Tredis stands 5'10" tall with a medium build. He has light brown tanned skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a straight nose, a strong jawline, full lips, light brows.
 
 # Dossier {#dossier}
 
@@ -429,7 +429,7 @@ Dorashkar was born in a small village on the margins of the [[affiliation-byzari
 
 ### Training and Apprenticeship
 
-At fourteen, Dorashkar was contracted as a kitchen assistant to **Master Chef Valisar**, one of the best known cooks in the Bizarian League's greatest city. Valisar was a harsh but magnificent teacher who believed that cooking was a form of alchemy and that every student must understand both the philosophy and the mechanics of their craft. For twenty years, Dorashkar worked under Valisar's exacting eye, rising from chopping vegetables to planning entire feasts for the city's elite. Valisar taught him that true mastery came not from endless complexity but from perfect execution of fundamental technique and deep understanding of ingredients. When Valisar passed into age and retirement, he recommended Dorashkar to the proprietor of the **Copper Kettle**, a tavern in a major trading city, where Dorashkar has now established himself for the past several years.
+At fourteen, Dorashkar was contracted as a kitchen assistant to Master Chef [Valisar]{.name data-type="being/npc"}, one of the best known cooks in the Bizarian League's greatest city. Valisar was a harsh but magnificent teacher who believed that cooking was a form of alchemy and that every student must understand both the philosophy and the mechanics of their craft. For twenty years, Dorashkar worked under Valisar's exacting eye, rising from chopping vegetables to planning entire feasts for the city's elite. Valisar taught him that true mastery came not from endless complexity but from perfect execution of fundamental technique and deep understanding of ingredients. When Valisar passed into age and retirement, he recommended Dorashkar to the proprietor of the [Copper Kettle Tavern]{.name data-type="place/structure"}, a tavern in a major trading city, where Dorashkar has now established himself for the past several years.
 
 ### Current Situation
 
@@ -441,7 +441,7 @@ At the **Copper Kettle**, Dorashkar has transformed a decent tavern kitchen into
 
 Dorashkar is a man of passionate, contained intensity. In the kitchen, he is fully present—every movement precise, every decision made with certainty, every ingredient treated with respect. Outside the kitchen, he is quieter, more reserved, as if the intensity required in his work has consumed the portion of himself available for broad socializing. He is not unfriendly, but neither is he particularly outgoing. He speaks in measured tones, often pausing mid-sentence to consider his words, and he has a tendency to become distracted when discussing subjects other than food. With those who understand cooking, however, he opens up considerably, and conversations about technique, ingredients, or the philosophy of flavor can draw him into hours of passionate discourse.
 
-His relationship with the god **Ústaron** is not one of formal piety but of kinship. He sees in Ústaron's domain—fire, forge, transformation—a perfect mirror of his own work. Each meal is a kind of alchemy, raw ingredients transformed through heat and knowledge into sustenance that nourishes both body and spirit. He approaches his work as a form of prayer, a daily dedication to excellence and care.
+His relationship with the god **[[lore-ustarondty|Ústaron]]** is not one of formal piety but of kinship. He sees in Ústaron's domain—fire, forge, transformation—a perfect mirror of his own work. Each meal is a kind of alchemy, raw ingredients transformed through heat and knowledge into sustenance that nourishes both body and spirit. He approaches his work as a form of prayer, a daily dedication to excellence and care.
 
 ### Motivation
 
@@ -489,7 +489,7 @@ Fear of Change
 ### Patrons
 
 The Proprietor of the Copper Kettle
-: His employer, **Merchant-Master Sevrunai Sitakit**, trusts him completely and defers to his judgment on all kitchen matters. Sevrunai has invested significantly in the kitchen and treats Dorashkar almost as a partner.
+: His employer, **Merchant-Master [[being-sevrunaisita|Sevrunai Sitakit]]**, trusts him completely and defers to his judgment on all kitchen matters. Sevrunai has invested significantly in the kitchen and treats Dorashkar almost as a partner.
 
 Wealthy Merchant Families
 : Several prominent merchant houses in the city specifically patronize the Copper Kettle to enjoy Dorashkar's cooking and have requested private catering for their events.
@@ -497,15 +497,15 @@ Wealthy Merchant Families
 Scholarly Community
 : Academics and philosophers who gather in the tavern's back room have become devoted to his meals and often engage him in discussions about the philosophy of cooking.
 
-Guild of Farmers and Growers
+[Guild of Farmers and Growers]{.name data-type="affiliation/guild"}
 : Local farmers view him as a patron of quality and a customer who truly values their best work, making him central to their business success.
 
 ### Enemies
 
-The Merchant Prince Varkus
+The Merchant Prince [Varkus]{.name data-type="being/npc"}
 : A wealthy entrepreneur who once offered Dorashkar an enormous sum to work exclusively for his household. When Dorashkar declined, Varkus took it as a personal insult and has since worked to undermine the **Copper Kettle's** reputation through rumor and sabotage.
 
-The Synthetic Food Consortium
+[The Synthetic Food Consortium]{.name data-type="affiliation/venture"}
 : A merchant group promoting cheaper, magically-created food substitutes views Dorashkar's commitment to traditional cooking as an obstacle to their profits and spreads propaganda against his work.
 
 ### Affiliations
@@ -519,16 +519,16 @@ Informal Network of Master Cooks
 ## Plot Hooks
 
 The Lost Recipe of the Ages
-: An elderly scholar arrives at the tavern claiming to possess fragments of a cookbook from the ancient era before the current kingdoms arose, describing dishes said to possess not merely nutritional and pleasure value but magical properties—meals that could heal wounds, sharpen minds, or even extend life. The scholar, **Ghupifazur**, seeks Dorashkar's help to reconstruct and test these ancient recipes. Success could elevate Dorashkar's reputation beyond anything he's imagined, but failure could result in harm if the ancient formulas contain unknown dangers.
+: An elderly scholar arrives at the tavern claiming to possess fragments of a cookbook from the ancient era before the current kingdoms arose, describing dishes said to possess not merely nutritional and pleasure value but magical properties—meals that could heal wounds, sharpen minds, or even extend life. The scholar, [Ghupifazur]{.name data-type="being/npc"}, seeks Dorashkar's help to reconstruct and test these ancient recipes. Success could elevate Dorashkar's reputation beyond anything he's imagined, but failure could result in harm if the ancient formulas contain unknown dangers.
 
 The Culinary Competition
-: The Council of the Bizarian League announces a grand culinary competition to be held in the capital, with the winner being named the League's official chef and receiving a massive stipend. Dorashkar's friends and the tavern proprietor urge him to enter, but he is paralyzed by self-doubt and fear of traveling to the capital. If he competes, he must journey away from his comfortable kitchen and face other masters of the craft—potentially to his humiliation, or potentially to a triumph that would change everything.
+: The [Council of the Bizarian League]{.name data-type="affiliation/governmental"} announces a grand culinary competition to be held in the capital, with the winner being named the League's official chef and receiving a massive stipend. Dorashkar's friends and the tavern proprietor urge him to enter, but he is paralyzed by self-doubt and fear of traveling to the capital. If he competes, he must journey away from his comfortable kitchen and face other masters of the craft—potentially to his humiliation, or potentially to a triumph that would change everything.
 
 The Plague's Cure
-: A mysterious illness sweeps through the city, and the physicians are baffled. Dorashkar notices that patrons who eat his food seem to recover more quickly than others, and a desperate healer named **Priestess Zhevranela Aktikot** seeks his help in identifying what properties in his cooking might be therapeutic. Together, they must understand the nature of the plague and whether his culinary knowledge can contribute to a cure—potentially requiring him to work with alchemists and healers in ways that stretch his understanding of his own craft.
+: A mysterious illness sweeps through the city, and the physicians are baffled. Dorashkar notices that patrons who eat his food seem to recover more quickly than others, and a desperate healer named **Priestess [[being-zhevranelaak|Zhevranela Aktikot]]** seeks his help in identifying what properties in his cooking might be therapeutic. Together, they must understand the nature of the plague and whether his culinary knowledge can contribute to a cure—potentially requiring him to work with alchemists and healers in ways that stretch his understanding of his own craft.
 
 The Restoration of the Master's Legacy
-: A young, gifted cook named **Sudázion** arrives at the tavern claiming to be the distant relation of Dorashkar's beloved teacher, **Master Valisar**. Sudázion has fallen on hard times and asks Dorashkar to take him as an apprentice. Taking on a student would force Dorashkar to articulate and share the knowledge he's kept close, challenging his fear of diminishing his own mastery, and raising the question of whether he can truly be a teacher despite his self-doubts.
+: A young, gifted cook named [Sudázion]{.name data-type="being/npc"} arrives at the tavern claiming to be the distant relation of Dorashkar's beloved teacher, **Master Valisar**. Sudázion has fallen on hard times and asks Dorashkar to take him as an apprentice. Taking on a student would force Dorashkar to articulate and share the knowledge he's kept close, challenging his fear of diminishing his own mastery, and raising the question of whether he can truly be a teacher despite his self-doubts.
 
 The Poison in the Feast
 : Dorashkar is commissioned to prepare a grand feast for a political summit between the **Bizarian League** and a rival power. During the event, a diplomat falls ill, apparently poisoned. Dorashkar becomes a suspect, and his reputation is threatened. He must investigate the poisoning while defending his integrity, potentially discovering that someone deliberately sabotaged him to create political chaos between the powers.

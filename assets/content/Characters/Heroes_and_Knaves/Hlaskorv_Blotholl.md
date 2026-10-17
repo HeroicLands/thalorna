@@ -417,21 +417,21 @@ sohl:
 
 ![[hlskrvblthl|Hlaskorv Bletholl]]{float=top-left}
 
-Hlaskorv stands 5'11" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a long face, a long nose, a strong jawline, a firm-set mouth, low-set brows, and angular cheeks. He has a scar running down his back.
+Hlaskorv Bletholl stands 5'11" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a long face, a long nose, a strong jawline, a firm-set mouth, low-set brows, and angular cheeks. He has a scar running down his back.
 
 # Dossier {#dossier}
 
 **The Forest's Education**
 
-Hlaskorv Bletholl was born into a family of woodcutters in the Darkwood Reaches of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], a region where the vast forests that covered the landscape were simultaneously the greatest resource and the most dangerous adversary. From the moment he could walk, he learned to move through the forest with respect and care, training from his father and uncles emphasizing that the forest was a living system that would provide year after year if treated with wisdom, not a resource to be exploited without consequence. This philosophy—unusual among northern woodcutters who tended toward aggressive extraction—was passed through the Bletholl line as carefully as any inherited treasure.
+Hlaskorv Bletholl was born into a family of woodcutters in the [Darkwood Reaches]{.name data-type="place/region"} of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], a region where the vast forests that covered the landscape were simultaneously the greatest resource and the most dangerous adversary. From the moment he could walk, he learned to move through the forest with respect and care, training from his father and uncles emphasizing that the forest was a living system that would provide year after year if treated with wisdom, not a resource to be exploited without consequence. This philosophy—unusual among northern woodcutters who tended toward aggressive extraction—was passed through the [Bletholl line]{.name data-type="affiliation/lineage"} as carefully as any inherited treasure.
 
 **The Scar's Lesson**
 
-At the age of twenty-two, Hlaskorv made a critical error in judgment: he chose a tree to fell while rushing to meet an arbitrary deadline imposed by a noble purchaser eager for rapid completion. The tree, weakened by prior damage and disease he had not properly assessed, fractured unexpectedly and fell in an uncontrolled manner that sent him sprawling backward. The secondary trunk that struck him ran from his neck nearly to his waist, and he retained consciousness long enough to understand that he was dying. A chance encounter with a wandering herbalist and healer named Kaessa saved his life, though recovery took nearly three years. During that period of painful rehabilitation, Hlaskorv re-examined everything he believed about his work and his obligations to the forest. He emerged from that experience with a deepened commitment to his family's philosophy of sustainable practice and a settled conviction that rushing the work was never acceptable.
+At the age of twenty-two, Hlaskorv made a critical error in judgment: he chose a tree to fell while rushing to meet an arbitrary deadline imposed by a noble purchaser eager for rapid completion. The tree, weakened by prior damage and disease he had not properly assessed, fractured unexpectedly and fell in an uncontrolled manner that sent him sprawling backward. The secondary trunk that struck him ran from his neck nearly to his waist, and he retained consciousness long enough to understand that he was dying. A chance encounter with a wandering herbalist and healer named [Kaessa]{.name data-type="being/npc"} saved his life, though recovery took nearly three years. During that period of painful rehabilitation, Hlaskorv re-examined everything he believed about his work and his obligations to the forest. He emerged from that experience with a deepened commitment to his family's philosophy of sustainable practice and a settled conviction that rushing the work was never acceptable.
 
 **The Master of the Craft**
 
-For the next thirty years, Hlaskorv has been regarded as the finest practitioner of his craft in all of Nordheim—not because he cuts the most timber or takes on the largest contracts, but because his reputation is built entirely on the quality, sustainability, and ethics of his work. He has trained several apprentices in his methods, though fewer accept his philosophy each generation. He maintains relationships with local carpenters who depend upon his wood for their finest work, and with the Woodcutters' Guild, where his presence keeps certain standards of craft and care in place. He has also developed unexpected relationships with those who care for the forests' preservation, acting as a bridge between exploitation and conservation.
+For the next thirty years, Hlaskorv has been regarded as the finest practitioner of his craft in all of Nordheim—not because he cuts the most timber or takes on the largest contracts, but because his reputation is built entirely on the quality, sustainability, and ethics of his work. He has trained several apprentices in his methods, though fewer accept his philosophy each generation. He maintains relationships with local carpenters who depend upon his wood for their finest work, and with [The Woodcutters' Guild of Nordheim]{.name data-type="affiliation/guild"}, where his presence keeps certain standards of craft and care in place. He has also developed unexpected relationships with those who care for the forests' preservation, acting as a bridge between exploitation and conservation.
 
 **The Twilight of Traditional Ways**
 
@@ -483,24 +483,24 @@ Limited Capacity for Trust
 
 ### Patrons
 
-The Masterwork Carpenters' Alliance
+[The Masterwork Carpenters' Alliance]{.name data-type="affiliation"}
 : A collective of the region's finest woodworkers who depend upon Hlaskorv's timber for their most important commissions and fiercely defend his methods against criticism.
 
-Jarl Hlurthann Flirnidrok
+Jarl [[being-hlurthannfli|Hlurthann Flirnidrok]]
 : A noble who has made the surprising commitment to sustainable forest management and contracts Hlaskorv for all major timber needs across his extensive lands.
 
-The Herbal Society of Nordheim
+[The Herbal Society of Nordheim]{.name data-type="affiliation"}
 : An organization dedicated to preserving forest knowledge and sustainable practices that values Hlaskorv's knowledge and advocates for his methods throughout the kingdom.
 
 ### Enemies
 
-The Rapid Timber Consortium
+[The Rapid Timber Consortium]{.name data-type="affiliation/venture"}
 : A coalition of aggressive woodcutters and merchants who put the volume cut before sustainability and view Hlaskorv as an obstacle to profit, regularly underbidding his contracts and spreading rumors about his inflexibility.
 
-Master Loggen the Swift
+Master [Loggen the Swift]{.name data-type="being/npc"}
 : A younger, talented woodcutter who has embraced modern techniques that allow rapid felling and processing. He and Hlaskorv have clashed repeatedly over philosophy and methods, with Loggen publicly mocking the elder's "outdated sentimentality."
 
-The Expanding Cities Guild
+[The Expanding Cities Guild]{.name data-type="affiliation/guild"}
 : An organization of merchants and builders who source timber for urban expansion and have no interest in the slower pace and higher costs of sustainable harvesting.
 
 ### Affiliations

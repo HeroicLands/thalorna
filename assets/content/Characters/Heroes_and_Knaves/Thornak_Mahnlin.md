@@ -425,45 +425,45 @@ sohl:
 
 ![[thrnkbldtscbr|Thornak Bludtusk Barsk]]{float=top-left}
 
-Thornak is a hulking figure, standing at 6'6" and weighing around 270 pounds, with a body built for battle. His skin is pale and scarred from countless battles, and his long, untamed reddish-brown hair falls wildly over his shoulders, often tied back with leather straps. His fierce dark brown eyes reflect a primal rage that he channels in combat, and his face is adorned with ritualistic scars, including a prominent one across his nose. His heavy jaw is framed by a thick beard, also reddish-brown, that he keeps long and untrimmed. Thornak wears furs and hides, practical for the harsh environment of the Vristwald tribes, and he wields a massive boar spear, a symbol of Eichengrund’s boar wesk, along with a bone-handled axe.
+Thornak Bludtusk Barsk is a hulking figure, standing at 6'6" and weighing around 270 pounds, with a body built for battle. His skin is pale and scarred from countless battles, and his long, untamed reddish-brown hair falls wildly over his shoulders, often tied back with leather straps. His fierce dark brown eyes reflect a primal rage that he channels in combat, and his face is adorned with ritualistic scars, including a prominent one across his nose. His heavy jaw is framed by a thick beard, also reddish-brown, that he keeps long and untrimmed. Thornak wears furs and hides, practical for the harsh environment of the [[affiliation-vrystwldtrbs|Vristwald Tribes]], and he wields a massive boar spear, a symbol of [[place-eichengrnd|Eichengrund]]’s boar wesk, along with a bone-handled axe.
 
 # Dossier {#dossier}
 
 ## Background
 
-**Bludtusk Barsk** is his Varokhi byname: "bloody tusk of the Boar." The boar is [[place-eichengrnd|Eichengrund]]’s _wesk_, the village’s shared totem; _blud_ means blood, _tusk_ a tusk and _barsk_ a boar. His clan is the Mahnlin, "Younger Kinsmen", and his village is Eichengrund: in full he is Thornak yra Mahnlin wur Eichengrund, and at home Thornak yra Mahnlin. Beyond the village most people know him by the byname alone.
+**Bludtusk Barsk** is his [[lore-varokhiclt|Varokhi]] byname: "bloody tusk of the Boar." The boar is Eichengrund’s _wesk_, the village’s shared totem; _blud_ means blood, _tusk_ a tusk and _barsk_ a boar. His clan is the [Mahnlin]{.name data-type="affiliation/lineage"}, "Younger Kinsmen", and his village is Eichengrund: in full he is Thornak yra Mahnlin wur Eichengrund, and at home Thornak yra Mahnlin. Beyond the village most people know him by the byname alone.
 
 ### Early Life
 
-Thornak Bludtusk Barsk was born in **[[place-eichengrnd|Eichengrund]]**, a woodland village in the Vristwald. His village’s survival depended on its mastery of the surrounding forest. The Vristwalds are known for their violent customs, deep reverence for the spirits of nature, and a resistance to outsiders. Thornak’s childhood was a brutal one, marked by intense physical and spiritual trials.
+Thornak Bludtusk Barsk was born in Eichengrund, a woodland village in [[place-vrystwald|Vristwald]]. His village’s survival depended on its mastery of the surrounding forest. The Vristwalds are known for their violent customs, deep reverence for the spirits of nature, and a resistance to outsiders. Thornak’s childhood was a brutal one, marked by intense physical and spiritual trials.
 
 From an early age, Thornak exhibited a strong connection to the spirit world. His dreams were vivid, often filled with images of wild boars charging through dense forests, blood on their tusks. These visions were understood as signs of his bond with Eichengrund’s boar _wesk_. The village’s Weskár kept the rites of that shared spirit; Thornak’s _wesketh_ bound him to it alongside his fellow villagers. He looked to the boar’s stubbornness, aggression, and resilience as a lifelong guide and source of strength.
 
-Thornak's father, **Hrodgar**, was a fierce warrior who led the tribe’s warbands against invaders and rival clans. His mother, **Maghildr**, was a respected spirit-talker, often called upon to interpret the will of the spirits. From them, Thornak learned both the ways of war and the sacred rituals that tied his people to the land and its spirits. By the time he was 12, Thornak had undergone several brutal rites of passage, including the **Trial of the Bloodtusk**, where he was forced to kill a wild boar with nothing but a spear. This trial earned him his name, **Bludtusk**, symbolizing his connection to the boar spirit and his role as a protector of the tribe.
+Thornak's father, [Hrodgar]{.name data-type="being/npc"}, was a fierce warrior who led the tribe’s warbands against invaders and rival clans. His mother, [Maghildr]{.name data-type="being/npc"}, was a respected spirit-talker, often called upon to interpret the will of the spirits. From them, Thornak learned both the ways of war and the sacred rituals that tied his people to the land and its spirits. By the time he was 12, Thornak had undergone several brutal rites of passage, including the [Trial of the Bloodtusk]{.name data-type="lore/custom"}, where he was forced to kill a wild boar with nothing but a spear. This trial earned him his name, **Bludtusk**, symbolizing his connection to the boar spirit and his role as a protector of the tribe.
 
 ### Hunter Training
 
-As Thornak grew, under the guidance of the tribe’s elder warrior, **Gurnulf Druthgar**, Thornak was taught the skills of a hunter and warrior. He learned how to survive in the forest, track animals, interpret signs both physical and spiritual, and perform sacred rituals to invoke the blessings of the village’s boar wesk and the forest spirits both before and after the hunt. Gurnulf often reminded him that the power of a hunter-warrior lay in their ability to hunt and in their ability to lead the tribe through times of hardship and battle.
+As Thornak grew, under the guidance of the tribe’s elder warrior, [Gurnulf Druthgar]{.name data-type="being/npc"}, Thornak was taught the skills of a hunter and warrior. He learned how to survive in the forest, track animals, interpret signs both physical and spiritual, and perform sacred rituals to invoke the blessings of the village’s boar wesk and the forest spirits both before and after the hunt. Gurnulf often reminded him that the power of a hunter-warrior lay in their ability to hunt and in their ability to lead the tribe through times of hardship and battle.
 
 In battle, Thornak could enter a berserker state, driven by the spirit of the boar, becoming a nearly unstoppable force of nature. His war club, carved from a boar’s skull and reinforced with iron, became both a symbol of his dedication to Eichengrund’s boar wesk and a tool of destruction in his hands.
 
-Thornak holds the standing of [[lore-hrodthulrnk|Hrodthúl]], Respected, among the Vristwald Tribes: the band he leads at Eichengrund under the village’s boar wesk is one of the three kinds the standing gathers, and a hunting band's leader is exactly who a village's War Chief is eventually raised from. Thornak is ambitious, desiring to lead the village himself some day. This ambition is shared with the tribe's shaman, **Sigulf the Crowcaller**, who sees Thornak as an obstruction to his own leadership. Thornak is well respected within his tribe, and Sigulf is less so, but Sigulf can commune with the spirit world engendering fear and awe, if not respect, among the tribe.
+Thornak holds the standing of [[lore-hrodthulrnk|Hrodthúl]], Respected, among the Vristwald Tribes: the band he leads at Eichengrund under the village’s boar wesk is one of the three kinds the standing gathers, and a hunting band's leader is exactly who a village's War Chief is eventually raised from. Thornak is ambitious, desiring to lead the village himself some day. This ambition is shared with the tribe's shaman, [Sigulf the Crowcaller]{.name data-type="being/npc"}, who sees Thornak as an obstruction to his own leadership. Thornak is well respected within his tribe, and Sigulf is less so, but Sigulf can commune with the spirit world engendering fear and awe, if not respect, among the tribe.
 
 ### Current Challenges
 
 The Vristwald tribes have always faced threats from outside their lands, but in recent years, these threats have intensified. Settlers from the southern kingdoms, backed by well-armed militias, have begun encroaching on Vristwald territory. They cut down sacred trees, hunt in forbidden lands, and build fortifications on ancestral sites. These actions have sparked numerous skirmishes, and the Eichengrund tribe, assisted by Thornak’s leadership, has been at the forefront of the resistance.
 
-However, the greatest threat to the Vristwalds comes from the [[affiliation-sonsmuspell|Sons of Eldheim]], a military order of the [[affiliation-blackflame|Black Flame]] dedicated to fire, destruction, and conquest. The Sons have gained ground in [[affiliation-jrldmstrmvld|Stormveld]] and seek a route into the Nordlands by taking Varokhi land. Their brutal raids have devastated several Vristwald villages, and Thornak has sworn vengeance on them. He believes that they aim to seize control of Vristwald and enslave its people, forcing them to labor or to feed Ústaron's bloody rituals.
+However, the greatest threat to the Vristwalds comes from [[affiliation-sonsmuspell|The Sons of Eldheim]], a military order of [[affiliation-blackflame|The Black Flame]] dedicated to fire, destruction, and conquest. The Sons have gained ground in [[affiliation-jrldmstrmvld|Jarldom of Stormveld]] and seek a route into the [[place-nrdlndsrgn|Nordlands Region]] by taking Varokhi land. Their brutal raids have devastated several Vristwald villages, and Thornak has sworn vengeance on them. He believes that they aim to seize control of Vristwald and enslave its people, forcing them to labor or to feed the Black Flame's bloody rituals.
 
-Within his own tribe, Thornak faces challenges to his authority as well. Sigulf the Crowcaller, the tribal shaman, has begun gathering followers, claiming that the time of the Boar Spirit is over and that Eichengrund should replace its boar wesk with the crow, which he claims represents cunning and adaptability. Sigulf’s growing influence threatens to fracture the unity of the tribe, and Thornak can confront Sigulf directly or attempt to win him over to his side.
+Within his own tribe, Thornak faces challenges to his authority as well. Sigulf the Crowcaller, the tribal shaman, has begun gathering followers, claiming that the time of the [Boar Spirit]{.name data-type="being/creature"} is over and that Eichengrund should replace its boar wesk with the crow, which he claims represents cunning and adaptability. Sigulf’s growing influence threatens to fracture the unity of the tribe, and Thornak can confront Sigulf directly or attempt to win him over to his side.
 
 ### Current Goal
 
-Thornak’s immediate goal is to defend the Eichengrund tribe from the continued encroachments of southern settlers and the [[affiliation-sonsmuspell|Sons of Eldheim]]. He has been leading raids against their outposts and ambushing their patrols, but he knows that these efforts are not enough. To truly protect his people, Thornak believes he must seek out the **Forgotten Barrows**, ancient burial sites said to house the spirits of the first Vristwald ancestors.
+Thornak’s immediate goal is to defend the Eichengrund tribe from the continued encroachments of southern settlers and the [[affiliation-sonsmuspell|Sons of Eldheim]]. He has been leading raids against their outposts and ambushing their patrols, but he knows that these efforts are not enough. To truly protect his people, Thornak believes he must seek out the [Forgotten Barrows]{.name data-type="place/site"}, ancient burial sites said to house the spirits of the first Vristwald ancestors.
 
 Thornak’s plan is to commune with the spirits of these ancient ancestors and unlock the secrets of their power. He believes that by doing so, he will be able to call upon the full might of the Boar Spirit and drive the invaders from Vristwald lands once and for all. However, the journey to the Forgotten Barrows is perilous, and there are rumors that the barrows are guarded by malevolent spirits that do not take kindly to the living disturbing their rest.
 
-Thornak hopes the barrows can give him enough renown to rally other villages against the invaders. Under [[affiliation-vrystwldtrbs|Varokhi custom]], their elders must agree to face an imminent danger together before acclaiming a common War Chief, and that wider command ends with the response. His desire to keep their allegiance afterward is a personal ambition without customary authority. Sigulf and other rivals have reasons to resist even his claim to Eichengrund’s seat.
+Thornak hopes the barrows can give him enough renown to rally other villages against the invaders. Under Varokhi custom, their elders must agree to face an imminent danger together before acclaiming a common War Chief, and that wider command ends with the response. His desire to keep their allegiance afterward is a personal ambition without customary authority. Sigulf and other rivals have reasons to resist even his claim to Eichengrund’s seat.
 
 ### Skills and Abilities
 
@@ -544,11 +544,11 @@ Resilient Defender
 
 ### Enemies
 
-Captain Mildwald Koldwik
+Captain [[being-cuthwincoldw|Mildwald Koldwik]]
 : A southern military commander who has been leading expeditions into Vristwald territory. Koldwik views the Vristwalds as backward savages standing in the way of civilization’s progress. His raids have been particularly destructive, and he has gained a reputation for cruelty, often executing captured Vristwalds to instill fear.
 
 [[affiliation-sonsmuspell|The Sons of Eldheim]]
-: This Black Flame military order seeks to seize Varokhi lands in Vristwald as a route into the Nordlands. Its **Blazewarden Sirethos** has personally sworn to burn the Vristwald forests and offer the villages' Shamans as sacrifices to Ústaron. Thornak has clashed with Sirethos's forces on several occasions, but the Sons are numerous and well armed, making them a deadly threat.
+: This Black Flame military order seeks to seize Varokhi lands in Vristwald as a route into the Nordlands. Its Blazewarden [[being-sirethoskhol|Sirethos Kolsamis]] has personally sworn to burn the Vristwald forests and offer the villages' Shamans as sacrifices to [[lore-ustarondty|Ústaron]]. Thornak has clashed with Sirethos's forces on several occasions, but the Sons are numerous and well armed, making them a deadly threat.
 
 Sigulf the Crowcaller
 : The tribe's shaman who believes that Thornak’s connection to the Boar Spirit is outdated and that Eichengrund must embrace a new path of survival through cunning and deception. Sigulf emphasizes his connection to the spirit world to create awe and fear in the tribespeople. While not an outright enemy yet, Sigulf’s growing power threatens Thornak’s ambition to lead the Eichengrund tribe and win wider allegiance beyond the temporary command Varokhi custom permits.
@@ -572,10 +572,10 @@ The Curse of the Ancients
     : Confronting malevolent spirits, comparing remembered burial songs and conflicting oral accounts, passing the dangerous traps in the barrows, and negotiating with the spirits to uncover the truth.
 
     Potential Rewards
-    : The spirits grant Thornak the **Totemic Rite of the Ancients**, allowing him to call upon the collective strength of long-dead warriors in battle, or bestow him with the **Eyes of the Spirits**, which allow him to see into the spirit world.
+    : The spirits grant Thornak the [Totemic Rite of the Ancients]{.name data-type="lore/custom"}, allowing him to call upon the collective strength of long-dead warriors in battle, or bestow him with the [Eyes of the Spirits]{.name data-type="mysticalability"}, which allow him to see into the spirit world.
 
 The Blood Pact
-: As Thornak ventures deeper into the Forgotten Barrows, spirits calling themselves the **Khern** claim that those buried there made a blood pact with them. They describe themselves as ancient forest rulers, but Thornak has only their word for this history. In their account, blood sealed the pact and bought power over nature at the cost of freedom.
+: As Thornak ventures deeper into the Forgotten Barrows, spirits calling themselves the [Khern]{.name data-type="being/creature"} claim that those buried there made a blood pact with them. They describe themselves as ancient forest rulers, but Thornak has only their word for this history. In their account, blood sealed the pact and bought power over nature at the cost of freedom.
 
     Thornak now faces a dilemma: he can restore the ancient blood pact by offering his own blood to the Khern, which will grant him power over the wilderness beyond any other, but at a steep price. The Khern will demand servitude, and Thornak can submit to their will or defy them.
 
@@ -583,10 +583,10 @@ The Blood Pact
     : Navigating the barrows, uncovering the nature of the blood pact, resisting or succumbing to the will of the Khern spirits, and making a sacrificial offering in the depths of the barrows.
 
     Potential Rewards
-    : If Thornak submits, he gains the **Mark of the Khern**, allowing him to summon powerful nature spirits to fight alongside him. If he refuses, he may uncover the **Rite of Defiance**, which gives him the ability to bend the natural world to his will without being bound by the Khern.
+    : If Thornak submits, he gains the [Mark of the Khern]{.name data-type="mysticalability"}, allowing him to summon powerful nature spirits to fight alongside him. If he refuses, he may uncover the [Rite of Defiance]{.name data-type="lore/custom"}, which gives him the ability to bend the natural world to his will without being bound by the Khern.
 
-Trial of the First Shaman
-: A spirit in the deepest chamber of the Forgotten Barrows claims to be the **First Shaman** and the greatest warrior-shaman in Vristwald history. Its identity and claim to speak for every village are unverified. The spirit promises that whoever proves themselves worthy by completing the **Trial of the First Shaman** can inherit the full power of their village’s wesk, in Thornak’s case Eichengrund’s boar, granting him incredible strength and the ability to control the boars of the forest.
+[Trial of the First Shaman]{.name data-type="lore/custom"}
+: A spirit in the deepest chamber of the Forgotten Barrows claims to be the [First Shaman]{.name data-type="being/creature"} and the greatest warrior-shaman in Vristwald history. Its identity and claim to speak for every village are unverified. The spirit promises that whoever proves themselves worthy by completing the Trial of the First Shaman can inherit the full power of their village’s wesk, in Thornak’s case Eichengrund’s boar, granting him incredible strength and the ability to control the boars of the forest.
 
     To complete the trial, Thornak must perform ancient rites, battle the spiritual manifestations of the First Shaman, and endure immense physical and spiritual hardship. The spirits of the Boar will test his strength and also his wisdom and compassion.
 
@@ -594,9 +594,9 @@ Trial of the First Shaman
     : The trial involves entering the spirit world and battling the Boar Spirit, enduring visions of past and future battles, and making sacrifices to prove his worth. The final test involves a duel with the spectral form of the First Shaman.
 
     Potential Rewards
-    : If successful, Thornak will earn the **Boar’s Mantle**, a sacred artifact that grants him increased physical power and the ability to shapeshift into the form of a fierce boar. He also gains the **Blessing of the Wild**, allowing him to commune with boars.
+    : If successful, Thornak will earn the [Boar’s Mantle]{.name data-type="miscgear"}, a sacred artifact that grants him increased physical power and the ability to shapeshift into the form of a fierce boar. He also gains the [Blessing of the Wild]{.name data-type="mysticalability"}, allowing him to commune with boars.
 
-The Sacred Pools of Véthengrund
+[The Sacred Pools of Véthengrund]{.name data-type="place/feature"}
 : The Sacred Pools of [[place-vethengrund|Véthengrund]] are a series of ancient, hidden springs believed to be the dwelling places of water spirits who are said to possess knowledge of the natural world and the secrets of immortality. Legends tell that bathing in the waters of Véthengrund can cleanse the soul and grant visions of the future, as well as empower a warrior with deep wisdom.
 
     Thornak could undertake a pilgrimage to these pools to seek greater insight into the spirits. However, the pools are guarded by nature spirits, and gaining access requires performing a complex series of rituals, offerings, and trials to prove one’s worth.
@@ -608,7 +608,7 @@ The Sacred Pools of Véthengrund
     : Thornak gains the **Gift of Foresight**, allowing him to see visions of possible future events, or the **Waters of Vitality**, a power that grants him enhanced physical regeneration and the ability to heal others.
 
 Spirit Hunt
-: Thornak receives a vision from the Boar Spirit, commanding him to undertake a **spirit hunt**, a sacred rite that requires him to track and defeat a powerful, elusive beast deep within the forests of Vristwald. This beast, known as the **Grimstalker**, is a massive creature that carries both the savagery and mystery of the wilderness. Thornak believes that consuming the heart of the Grimstalker can grant him immense power, as well as a deeper connection to the spirits of the forest.
+: Thornak receives a vision from the Boar Spirit, commanding him to undertake a **spirit hunt**, a sacred rite that requires him to track and defeat a powerful, elusive beast deep within the forests of Vristwald. This beast, known as the [Grimstalker]{.name data-type="being/creature"}, is a massive creature that carries both the savagery and mystery of the wilderness. Thornak believes that consuming the heart of the Grimstalker can grant him immense power, as well as a deeper connection to the spirits of the forest.
 
     The hunt takes Thornak far from his tribal lands into uncharted forests, where the denizens of the wild rule. The Grimstalker is no ordinary beast—it is as much a spirit as it is flesh, capable of vanishing into the trees and striking without warning. To survive the hunt, Thornak will need to rely on both his physical strength and his connection to the Boar Spirit.
 
@@ -616,10 +616,10 @@ Spirit Hunt
     : Tracking the Grimstalker through dense, treacherous wilderness, battling rival hunters and territorial beasts, and facing the forest’s trials to prove his worth. The Grimstalker is highly intelligent and will not be easy prey.
 
     Potential Rewards
-    : If Thornak succeeds, he gains the **Spiritheart**, which grants him the ability to enter the spirit world, communicating directly with the spirits of the wild. He may also gain the **Beastcaller’s Gift**, which allows him to summon and control powerful beasts during battle.
+    : If Thornak succeeds, he gains the [Spiritheart]{.name data-type="mysticalability"}, which grants him the ability to enter the spirit world, communicating directly with the spirits of the wild. He may also gain the [Beastcaller’s Gift]{.name data-type="mysticalability"}, which allows him to summon and control powerful beasts during battle.
 
-The Sundered Talisman
-: During a ritual, Thornak experiences a vision of the [[lore-skathhrethlss|Sundered Talisman]]—an artifact he interprets as a symbol of unity among the Vristwald villages. His vision shows it breaking in battle and its pieces scattering across the wilderness. The tellings say the elders broke it themselves at Waldburg, the spring after Skathhreth, so that no War Chief could keep a common command, and they disagree about everything after that; Thornak's vision agrees with none of them. He hopes reassembling it can win other villages’ allegiance; neither the vision nor possession of a relic gives him authority over them.
+[The Sundered Talisman]{.name data-type="miscgear"}
+: During a ritual, Thornak experiences a vision of the Sundered Talisman—an artifact he interprets as a symbol of unity among the Vristwald villages. His vision shows it breaking in battle and its pieces scattering across the wilderness. The tellings of [[lore-skathhrethlss|The Loss of the Legion at Skathhreth]] say the elders broke it themselves at [[place-waldburg|Waldburg]], the spring after [[place-skathhreth|Skathhreth]], so that no War Chief could keep a common command, and they disagree about everything after that; Thornak's vision agrees with none of them. He hopes reassembling it can win other villages’ allegiance; neither the vision nor possession of a relic gives him authority over them.
 
     However, the pieces of the talisman are jealously guarded by rivals, powerful spirits, and even southern warlords who have stolen these fragments as trophies. Thornak’s quest to reassemble the totem will take him to the farthest reaches of Vristwald territory and beyond, forcing him to confront old enemies and forge new alliances.
 
@@ -627,4 +627,4 @@ The Sundered Talisman
     : Recovering each fragment of the Sundered Talisman will involve defeating powerful guardians, solving ancient riddles, and crossing dangerous territories. Thornak will need to confront his rival, Sigulf the Crowcaller, who holds the final piece of the talisman and seeks to claim its power for himself.
 
     Potential Rewards
-    : The restored talisman could grant the **Spirit of Unity**, a supernatural bond through which willing warriors share strength during a common defense. Their villages’ elders still decide whether to appoint Thornak to temporary command, which ends with the response. Any power to invoke another village’s rites depends on that village and its spirit accepting him; lasting allegiance remains his hope, not a promised reward.
+    : The restored talisman could grant the [Spirit of Unity]{.name data-type="mysticalability"}, a supernatural bond through which willing warriors share strength during a common defense. Their villages’ elders still decide whether to appoint Thornak to temporary command, which ends with the response. Any power to invoke another village’s rites depends on that village and its spirit accepting him; lasting allegiance remains his hope, not a promised reward.

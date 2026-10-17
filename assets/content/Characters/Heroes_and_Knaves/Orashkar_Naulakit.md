@@ -417,7 +417,7 @@ sohl:
 
 ![[orshkrnlkt|Órashkar Naulakit]]{float=top-left}
 
-Órashkar stands 5'11" tall with a medium build. He has light ruddy skin, grey hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, and strong brows.
+Órashkar Naulakit stands 5'11" tall with a medium build. He has light ruddy skin, grey hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, and strong brows.
 
 # Dossier {#dossier}
 
@@ -433,15 +433,15 @@ For the past three decades, Órashkar has built a reputation as the Bizarian Lea
 
 ### Current Station
 
-Now in his twilight years, Órashkar remains active but increasingly conscious of his diminishing stamina. He has begun mentoring younger teamsters in the Guild, sharing his vast accumulated knowledge while still taking on selective contracts from his most established patrons—merchants who have trusted him for decades and refuse to hire anyone but Órashkar for their most critical shipments. The walking stick he carries is both practical necessity and badge of earned authority; carved from hardwood and polished to a gleam, it is as much a symbol of his station as a functional aid.
+Now in his twilight years, Órashkar remains active but increasingly conscious of his diminishing stamina. He has begun mentoring younger teamsters in the [Teamsters' Guild]{.name data-type="affiliation/guild"}, sharing his vast accumulated knowledge while still taking on selective contracts from his most established patrons—merchants who have trusted him for decades and refuse to hire anyone but Órashkar for their most critical shipments. The walking stick he carries is both practical necessity and badge of earned authority; carved from hardwood and polished to a gleam, it is as much a symbol of his station as a functional aid.
 
 ## Psyche
 
 ### Personality
 
-Órashkar possesses the weathered wisdom of someone who has solved a thousand problems and learned to anticipate a thousand more. He is measured in speech, preferring to listen and observe before offering his thoughts, yet when he speaks it is with the authority of long experience. His humor runs dry and practical, seasoned with the kind of hard-won irony that comes from decades of weathering misfortune and triumph alike. Despite his advancing age, he maintains a sharp eye for human nature and an almost paternal patience with younger folk, though he has little tolerance for foolishness or dishonesty. His deep faith in Árdavon, god of order and boundaries, manifests in his careful organization and his belief in doing things in their proper order—be they the maintenance schedules for wagon wheels or the proper hierarchy of respect among traveling companions.
+Órashkar possesses the weathered wisdom of someone who has solved a thousand problems and learned to anticipate a thousand more. He is measured in speech, preferring to listen and observe before offering his thoughts, yet when he speaks it is with the authority of long experience. His humor runs dry and practical, seasoned with the kind of hard-won irony that comes from decades of weathering misfortune and triumph alike. Despite his advancing age, he maintains a sharp eye for human nature and an almost paternal patience with younger folk, though he has little tolerance for foolishness or dishonesty. His deep commitment to the [[affiliation-ardavon|Faith of Árdavon]], devoted to [[lore-ardavondty|Árdavon]], god of order and boundaries, manifests in his careful organization and his belief in doing things in their proper order—be they the maintenance schedules for wagon wheels or the proper hierarchy of respect among traveling companions.
 
-He is a creature of ritual and habit, finding comfort in routine and excellence, yet paradoxically adapts with impressive flexibility when circumstances demand improvisation. Those who know him well understand that beneath his gruff exterior beats a kind heart; he has quietly arranged aid for struggling teamsters and their families, and his regular patronage of the Cooks Guild has made him a beloved figure among those who provision the traveling merchants.
+He is a creature of ritual and habit, finding comfort in routine and excellence, yet paradoxically adapts with impressive flexibility when circumstances demand improvisation. Those who know him well understand that beneath his gruff exterior beats a kind heart; he has quietly arranged aid for struggling teamsters and their families, and his regular patronage of the [Cooks Guild]{.name data-type="affiliation/guild"} has made him a beloved figure among those who provision the traveling merchants.
 
 ### Motivation
 
@@ -488,24 +488,24 @@ Vulnerability to Manipulation
 
 ### Patrons
 
-Merchant House Valdris
+Merchant [House Valdris]{.name data-type="affiliation/lineage"}
 : One of the Bizarian League's most prominent trading families; they have exclusively employed Órashkar for their most valuable shipments for over twenty years and would accept no substitute.
 
-Master Cook Ilenna
+Master Cook [Ilenna]{.name data-type="being/npc"}
 : Proprietor of a well-known provision house where Órashkar coordinates supplies for merchant caravans; they maintain a mutually beneficial relationship built on decades of reliable partnership.
 
-Guild Master Zhambelina Keramakit
+Guild Master [[being-zhambelinake|Zhambelina Keramakit]]
 : The current head of the Teamsters' Guild values Órashkar as an unofficial advisor on standards and practices, consulting with him on disputes and policy matters.
 
-Lady Merchant Bruzanaz Ghigidek
+Lady Merchant [[being-bruzanazghig|Bruzanaz Ghigidek]]
 : A younger merchant whose family was personally helped by Órashkar in her youth; she has grown into one of the League's major traders and remains fiercely loyal to the old teamster.
 
 ### Enemies
 
-The [[place-ravenswood|Ravenswood]] Brigands
+[The [[place-ravenswood|Ravenswood]] Brigands]{.name data-type="affiliation/criminal"}
 : A loose confederation of bandits who have targeted merchant caravans throughout the eastern trade routes; Órashkar famously refused their demands for tribute, leading to an ongoing vendetta that has made those routes increasingly dangerous for his shipments.
 
-Merchant Castellan Thorne
+Merchant [Castellan Thorne]{.name data-type="being/npc"}
 : A rival who rose through the ranks using cutthroat practices; he views Órashkar as an obstacle to new ways and has publicly disputed his methods, working to undermine the old teamster's reputation.
 
 ### Affiliations
@@ -513,7 +513,7 @@ Merchant Castellan Thorne
 Teamsters' Guild
 : A senior member whose counsel is regularly sought on matters of standards, training, and guild governance; he maintains a small workshop where junior teamsters are trained in proper maintenance and care of draft animals.
 
-The Order of Árdavon
+[The Order of Árdavon]{.name data-type="affiliation"}
 : A lay organization devoted to maintaining proper order and boundaries in commerce; Órashkar is a regular participant in their ritual observances and has served on their advisory council.
 
 ## Plot Hooks
@@ -525,7 +525,7 @@ The Inheritance and the Imposter
 : Órashkar's estranged sister, from whom he has been separated for over twenty years, has suddenly died and left him ownership of a remote inn and trading post at the edge of the Bizarian League's territory. When Órashkar travels to claim his inheritance, he discovers a man already entrenched as proprietor, claiming to be his sister's partner and asserting prior claims to the establishment. The situation becomes complicated when locals seem to know nothing of Órashkar's sister, and documents suggest she may have fabricated details about her family history. The true nature of the inheritance—and the mysterious stranger's claim—may require unraveling years of secrets.
 
 The Prodigy and the Crisis of Conscience
-: A brilliant young teamster named Cassin, whom Órashkar trained and considered something of a protégé, has begun using Guild resources and knowledge to smuggle forbidden goods through merchant caravans. When Órashkar discovers the truth, he faces an agonizing choice: report Cassin and destroy a promising future (and perhaps the young man's life), or become complicit in criminal enterprise. Worse, Cassin threatens to reveal damaging truths about one of Órashkar's oldest patrons—truths that Órashkar himself may have deliberately overlooked for decades in the service of profitable arrangements. The reckoning forces Órashkar to confront how much of his reputation for reliability has rested on convenient blindness.
+: A brilliant young teamster named [Cassin]{.name data-type="being/npc"}, whom Órashkar trained and considered something of a protégé, has begun using Guild resources and knowledge to smuggle forbidden goods through merchant caravans. When Órashkar discovers the truth, he faces an agonizing choice: report Cassin and destroy a promising future (and perhaps the young man's life), or become complicit in criminal enterprise. Worse, Cassin threatens to reveal damaging truths about one of Órashkar's oldest patrons—truths that Órashkar himself may have deliberately overlooked for decades in the service of profitable arrangements. The reckoning forces Órashkar to confront how much of his reputation for reliability has rested on convenient blindness.
 
 The Road That Wasn't There
 : Órashkar is hired to guide a prestigious expedition of scholars and artificers to an ancient ruin deep in uncharted territory, using fragments of a map that predates even the oldest trade routes in the League's records. As the expedition progresses, Órashkar begins to realize that the landscape doesn't quite match what he remembers from other journeys to that region—geography seems subtly shifted, landmarks appear in unexpected locations, and distances prove incalculable. His navigational skills begin to fail him, an experience that shakes him deeply. The expedition faces increasing supernatural strangeness, and Órashkar must grapple with the horrifying possibility that his reputation and skills, the foundation of his whole life, may be meaningless in places where the normal rules of the world have been fundamentally altered.

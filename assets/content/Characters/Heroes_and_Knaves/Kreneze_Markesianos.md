@@ -418,13 +418,13 @@ sohl:
 
 ![[krnzmrksns|Kreneze Vokoghis]]{float=top-left}
 
-Kreneze stands 5'8" tall with a light build. She has golden-toned skin, dark brown hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, and dark brows.
+Kreneze Vokoghis stands 5'8" tall with a light build. She has golden-toned skin, dark brown hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, and dark brows.
 
 # Dossier {#dossier}
 
 **Daughter of Artisans**
 
-Kreneze was born in the coastal city of Bizaris to parents who were themselves hideworkers of considerable skill. Her mother, **Theodariza Vokoghis**, specialized in the creation of fine leather clothing for nobility, while her father, **Yorodkar**, was known for his decorative leather work and tooling. From her earliest years, Kreneze was surrounded by the smell of tanning vats, the textures of supple leather, and the complex vocabulary of her parents' craft. Unlike many children who inherit their parents' trade out of obligation, Kreneze fell in love with the work almost immediately.
+Kreneze was born in the coastal city of [[place-byzaris|Bizaris]] to parents who were themselves hideworkers of considerable skill. Her mother, [Theodariza Vokoghis]{.name data-type="being/npc"}, specialized in the creation of fine leather clothing for nobility, while her father, [Yorodkar]{.name data-type="being/npc"}, was known for his decorative leather work and tooling. From her earliest years, Kreneze was surrounded by the smell of tanning vats, the textures of supple leather, and the complex vocabulary of her parents' craft. Unlike many children who inherit their parents' trade out of obligation, Kreneze fell in love with the work almost immediately.
 
 Her childhood was spent in the workshop, initially at menial tasks—cleaning tools, preparing dyes, running errands—but gradually being inducted into the secrets of the craft. Her mother taught her the fundamental skills: how to assess the quality of raw hides, how to work with vegetable tanning processes, how to achieve the precise textures and finishes that distinguished their work from common production. Her father, however, taught her something rarer: the art of design and decoration. He showed her how leather could be carved, stained, and ornamented to create clothing that was also wearable art.
 
@@ -492,18 +492,18 @@ Vulnerability to Prejudice
 
 ### Patrons
 
-Lady Ghodia Elaiakit
+Lady [[being-ghodiaelaiak|Ghodia Elaiakit]]
 : A wealthy widow and patron of the arts who has become Kreneze's most consistent and generous patron. Ghodia commissions regular pieces from Kreneze and has begun to introduce her work to other members of the city's artistic and intellectual circles.
 
-The Merchant Queens' Collective
+[The Merchant Queens' Collective]{.name data-type="affiliation"}
 : An informal network of successful female merchants and business owners who have collectively commissioned several pieces from Kreneze and who actively promote her work within their circles.
 
-High Priestess Irene of Ólvenia
+High Priestess [Irene]{.name data-type="being/npc"} of the [[affiliation-olvenia|Faith of Ólvenia]]
 : A priestess of the goddess of prosperity who has commissioned ceremonial leather garments and artifacts from Kreneze for use in ritual contexts.
 
 ### Enemies
 
-Master Raghumon of the Hideworkers' Guild
+Master [Raghumon]{.name data-type="being/npc"} of the [Hideworkers' Guild]{.name data-type="affiliation/guild"}
 : The formal master of the guild who views Kreneze's independence and her rejection of traditional apprenticeship structures as a threat to the guild's authority and coherence. He has attempted to pressure her into formally joining the guild and submitting to its regulations.
 
 Competing Male Hideworkers
@@ -514,16 +514,16 @@ Traditional Craft Conservatives
 
 ### Affiliations
 
-Independent Artisan Network
+[Independent Artisan Network]{.name data-type="affiliation"}
 : Though she maintains no formal guild affiliation, she is part of an informal network of independent craftspeople in Bizaris who support and promote each other's work.
 
-The Women's Artistic Collective
+[The Women's Artistic Collective]{.name data-type="affiliation"}
 : A newer organization dedicated to promoting the work of female artists and craftspeople in all disciplines. Kreneze is increasingly being called upon as a representative of the organization.
 
 ## Plot Hooks
 
 The Collector's Commission
-: A wealthy collector from a distant city arrives in Bizaris searching for Kreneze Vokoghis specifically. This person—known only as **The Antiquary**—is willing to pay an unprecedented sum for Kreneze to undertake a commission that is deeply unusual: to recreate a set of ceremonial leather garments from ancient texts and fragments, garments that supposedly held significant magical or spiritual power. The Antiquary claims to have sources that indicate what these garments looked like and roughly how they were constructed, but the project will require Kreneze to work with materials and techniques that go beyond her current knowledge. More troublingly, The Antiquary seems to know things about Kreneze's family history and her parents' work that suggest they may have been involved in creating similar items in the past—items her parents never mentioned to her.
+: A wealthy collector from a distant city arrives in Bizaris searching for Kreneze Vokoghis specifically. This person—known only as [The Antiquary]{.name data-type="being/npc"}—is willing to pay an unprecedented sum for Kreneze to undertake a commission that is deeply unusual: to recreate a set of ceremonial leather garments from ancient texts and fragments, garments that supposedly held significant magical or spiritual power. The Antiquary claims to have sources that indicate what these garments looked like and roughly how they were constructed, but the project will require Kreneze to work with materials and techniques that go beyond her current knowledge. More troublingly, The Antiquary seems to know things about Kreneze's family history and her parents' work that suggest they may have been involved in creating similar items in the past—items her parents never mentioned to her.
 
 The Contested Inheritance
 : After her father's death, Kreneze inherits his workshop and with it a collection of his personal papers and unfinished projects. Among these, she discovers a series of elaborate leather pieces in various stages of completion—pieces so beautiful and technically accomplished that they rival her own best work. She also discovers journals indicating that her father was working on these pieces for a specific, secret purpose related to an organization or individual he never mentioned. As she investigates, she learns that there are people actively searching for these pieces, people who are willing to pay significant sums or resort to less savory methods to acquire them. Kreneze can sell these works, complete them herself, or investigate further to learn what role they were meant to play.

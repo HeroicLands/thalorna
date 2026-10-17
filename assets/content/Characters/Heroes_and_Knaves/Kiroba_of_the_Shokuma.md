@@ -418,7 +418,7 @@ sohl:
 
 ![[kirobashkm|Kiroba of the Shókuma]]{float=top-left}
 
-Kiroba stands at 5'11" with a lean but muscular build, weighing around 170 pounds. His dark brown skin bears the marks of his spiritual journey, including faint, ritualistic tattoos along his arms and chest, signifying his connection to the [[lore-zohira|Zohira]] spirits. His tightly curled black hair is kept short, with a few strands falling across his forehead, adding to his contemplative appearance. His eyes are deep and piercing, dark brown in color, often reflecting the weight of the visions and responsibilities he carries. His face is angular, with a high forehead, sharp cheekbones, and a narrow jawline, framed by a thin, well-kept beard. He dresses in simple, earth-toned robes made from animal hides and natural fibers, adorned with talismans and charms tied to the spirits he communes with. Around his neck hangs a pendant carved from bone, a symbol of his role as a shaman and protector of his tribe. Kiroba moves with a quiet, deliberate grace, each step as though guided by an unseen force.
+Kiroba of the Shókuma stands at 5'11" with a lean but muscular build, weighing around 170 pounds. His dark brown skin bears the marks of his spiritual journey, including faint, ritualistic tattoos along his arms and chest, signifying his connection to the [[lore-zohira|Zohira]] spirits. His tightly curled black hair is kept short, with a few strands falling across his forehead, adding to his contemplative appearance. His eyes are deep and piercing, dark brown in color, often reflecting the weight of the visions and responsibilities he carries. His face is angular, with a high forehead, sharp cheekbones, and a narrow jawline, framed by a thin, well-kept beard. He dresses in simple, earth-toned robes made from animal hides and natural fibers, adorned with talismans and charms tied to the spirits he communes with. Around his neck hangs a pendant carved from bone, a symbol of his role as a shaman and protector of his tribe. Kiroba moves with a quiet, deliberate grace, each step as though guided by an unseen force.
 
 # Dossier {#dossier}
 
@@ -426,17 +426,17 @@ Kiroba stands at 5'11" with a lean but muscular build, weighing around 170 pound
 
 ### Early Life and Family Background
 
-Kiroba hails from the **Shókuma** tribe of the Okharis people, living near the rainforests, where rivers twist through the landscape and connect them to the Au'Khelathu Empire. His tribe, known for their fierce independence and spiritual connection to nature, rely heavily on river travel and the bounties of the forest. From a young age, Kiroba was marked by strange visions and a deep sensitivity to the Zohira, the spirits that govern the winds, rivers, and wildlife of the jungle. Under the guidance of the tribe’s elder shamans, Kiroba learned to communicate with these spirits, offering rituals and sacrifices to keep the tribe in balance with the natural world.
+Kiroba hails from the **[[affiliation-shokumatrb|Shókuma Tribe]]** of the [[lore-okharinclt|Okharin]] people, living near the rainforests, where rivers twist through the landscape and connect them to the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. His tribe, known for their fierce independence and spiritual connection to nature, rely heavily on river travel and the bounties of the forest. From a young age, Kiroba was marked by strange visions and a deep sensitivity to the Zohira, the spirits that govern the winds, rivers, and wildlife of the jungle. Under the guidance of the tribe’s elder shamans, Kiroba learned to communicate with these spirits, offering rituals and sacrifices to keep the tribe in balance with the natural world.
 
 ### Initiation as a Shaman
 
-His initiation as a full-fledged shaman came when he survived the **Spirit Hunt**, a sacred rite in which he tracked a powerful and elusive jungle predator known to the Shókuma as a guardian of the spirit world. Upon defeating the beast, he consumed its heart in a ritual that bound his soul more closely to the spirit realm. This act gave Kiroba his spiritual prowess, allowing him to see beyond the material world and call upon the forces of nature in times of need.
+His initiation as a full-fledged shaman came when he survived the [Spirit Hunt]{.name data-type="lore/custom"}, a sacred rite in which he tracked a powerful and elusive jungle predator known to the Shókuma as a guardian of the spirit world. Upon defeating the beast, he consumed its heart in a ritual that bound his soul more closely to the spirit realm. This act gave Kiroba his spiritual prowess, allowing him to see beyond the material world and call upon the forces of nature in times of need.
 
 ### Current Goals
 
 Recently, Kiroba has been haunted by visions of a great imbalance in the spirit world, centered deep within the [[place-yandazhrng|Yanda Zohiring]] mountains. These mountains are said to be the home of the gods themselves, a place no mortal is meant to tread. The Zohira speak of a disturbance—ancient spirits are restless, the forces of the natural world growing chaotic. The spirits have shown him that if this imbalance is not corrected, the spirits will turn against the living, causing famine, disease, and disaster throughout [[place-xerathia|Zerathia]].
 
-To correct this, Kiroba must undertake a perilous journey deep into the Yanda Zohiring, seeking out an ancient **Oracle of Bones**, a storied spirit that may hold the key to rebalancing the spiritual forces. His journey will take him across Zerathia, through the dangerous jungle rivers and eventually into the mountains themselves, where powerful **khamwesi** (land-crocodile beasts) and other supernatural predators await.
+To correct this, Kiroba must undertake a perilous journey deep into the Yanda Zohiring, seeking out **[[lore-orclbonesspr|The Oracle of Bones]]**, an ancient, storied spirit that may hold the key to rebalancing the spiritual forces. His journey will take him across Zerathia, through the dangerous jungle rivers and eventually into the mountains themselves, where powerful **khamwesi** (land-crocodile beasts) and other supernatural predators await.
 
 ### Skills and Abilities
 
@@ -501,22 +501,22 @@ The Final Trial—The Oracle of Bones
 
 ### Challenges for Kiroba
 
-Infiltration of Legirha’s Circle
-: Kiroba must find a way to uncover the full extent of Legirha’s secret society. He will need to infiltrate the inner circles of the Akhoza-Menlaa, using his connection to the Zohira to learn about their experiments and plans. Along the way, he may find unlikely allies within the Guilded Talon, who are quietly working to expose Legirha’s faction.
+Infiltration of [[being-legirha|Legirha]]’s Circle
+: Kiroba must find a way to uncover the full extent of Legirha’s secret society. He will need to infiltrate the inner circles of [[place-akhozamenlaa|Akhoza-Menlaa]], using his connection to the Zohira to learn about their experiments and plans. Along the way, he may find unlikely allies within [The Guilded Talon]{.name data-type="affiliation"}, who are quietly working to expose Legirha’s faction.
 
 Uncovering the Ritual of Binding
-: Legirha’s faction is on the verge of perfecting a dangerous **binding ritual** that will allow them to enslave the Zohira. Kiroba must locate the ritual site, hidden deep within the [[place-khzryndsrtrgn|Khazryn Desert]], and disrupt the preparations before it is too late. Along the way, Kiroba will need to evade both Legirha’s agents and the empire’s authorities, who are increasingly drawn into the intrigue surrounding the rogue mages faction.
+: Legirha’s faction is on the verge of perfecting a dangerous **binding ritual** that will allow them to enslave the Zohira. Kiroba must locate the ritual site, hidden deep within the [[place-khzryndsrtrgn|Khazryn Desert Region]], and disrupt the preparations before it is too late. Along the way, Kiroba will need to evade both Legirha’s agents and the empire’s authorities, who are increasingly drawn into the intrigue surrounding the rogue mages faction.
 
 Avoiding the Guilded Talon
 : Although the Guilded Talon opposes Legirha’s plans, they are suspicious of all who seek to tamper with the balance of mystical powers, including Kiroba. He must tread carefully, trying to gain the trust of the Guilded Talon without becoming a target of their zealous protection of balance. He can work with them or stay out of their sight, as their methods of enforcing balance can be harsh and unforgiving.
 
 [[affiliation-genzetyalgu|Genzet'Yalgu]]
-: While Kiroba seeks to stop Legirha’s plans, the political intrigue of the Khelathi nobility looms large. Various factions within the court are eager to manipulate the situation for their own gain, with some seeing Kiroba as a valuable pawn in their power games. Among these factions, Kiroba must find those who are willing to help, while avoiding betrayal and manipulation by those who seek to exploit the power struggle within the Guild of Esoteric Crafts.
+: While Kiroba seeks to stop Legirha’s plans, the political intrigue of the Khelathi nobility looms large. Various factions within the court are eager to manipulate the situation for their own gain, with some seeing Kiroba as a valuable pawn in their power games. Among these factions, Kiroba must find those who are willing to help, while avoiding betrayal and manipulation by those who seek to exploit the power struggle within the [Guild of Esoteric Crafts]{.name data-type="affiliation/guild"}.
 
 Confrontation with Legirha
 : Kiroba’s journey culminates in a confrontation with Master [[being-legirha|Legirha]] and her faction. He can confront her directly or rely on the Guilded Talon to dismantle her plans from within. Legirha, well aware of the danger the Guilded Talon poses, is prepared to use her powerful mental manipulation to turn Kiroba’s own thoughts and fears against him. In this final battle, Kiroba will face Legirha’s magical might and the full weight of her ambition and influence within the empire.
 
-The Corruption of Bákines Falari
+The Corruption of [Bákines Falari]{.name data-type="being/npc"}
 : On the final leg of Kiroba’s journey, he encounters **Bákines Falari**, a wealthy and influential trader from the Matriarchy of Bethua who has been dabbling in dark spiritual practices. Bákines seeks to capture Kiroba, believing that his knowledge of the spirit world will grant him control over the forces of nature and increase his power in the principalities. Bákines has already enslaved several Shókuma shamans and drained them of their knowledge. Kiroba must free the captured shamans and confront Bákines before the trader’s dark experiments lead to a spiritual cataclysm. To do this, Kiroba will need to use both his cunning and his connection to the spirits, finding a way to outmaneuver Bákines’s mercenaries and unravel his web of influence.
 
 ## Psyche
@@ -527,7 +527,7 @@ Kiroba is a reserved and introspective individual, deeply connected to the spiri
 
 While he is generally calm and even-tempered, Kiroba is also prone to sudden bursts of intensity, especially when his visions or spiritual instincts are challenged. He is steadfast in his dedication to the well-being of his tribe and will go to great lengths, including making personal sacrifices, to protect them from both physical and spiritual threats.
 
-Kiroba is cautious of outsiders and does not trust easily, particularly those from southern Mídhalión or the Matriarchy of Bethua, whom he perceives as disconnected from the natural balance. His spiritual experiences have made him somewhat of a loner, as few truly understand the depth of his connection to the spirit world.
+Kiroba is cautious of outsiders and does not trust easily, particularly those from the southern [[place-midhalnrgn|Mídhalión Region]] or the Matriarchy of Bethua, whom he perceives as disconnected from the natural balance. His spiritual experiences have made him somewhat of a loner, as few truly understand the depth of his connection to the spirit world.
 
 ### Strengths
 
@@ -538,10 +538,10 @@ Kiroba is cautious of outsiders and does not trust easily, particularly those fr
 
 ### Patrons
 
-Elder Shaman Ishuara
-: Kiroba’s mentor and spiritual guide, Ishuara remains in the Shókuma village, offering guidance through rituals and dreams. She warns him of dangers ahead and occasionally provides spiritual aid in the form of protective charms.
+Elder Shaman [Ishuara]{.name data-type="being/npc"}
+: Kiroba’s mentor and spiritual guide, Ishuara remains in [[place-shokumavlg|Shókuma Village]], offering guidance through rituals and dreams. She warns him of dangers ahead and occasionally provides spiritual aid in the form of protective charms.
 
-Chief Ntemba
+Chief [[being-ntembakasara|Ntemba Kásara]]
 : The chief of Kiroba’s tribe, Ntemba, sees great potential in Kiroba and has tasked him with protecting the tribe. He funds Kiroba’s expedition and uses his political connections to provide safe passage through certain hostile territories.
 
 ### Enemies
@@ -563,7 +563,7 @@ The Khamwesi Pack Leader
 ## Plot Hooks
 
 The Spirits’ Warning
-: As Kiroba ventures deeper into the jungle on his way to the Yanda Zohiring mountains, the Zohira send him disturbing visions of a looming spiritual catastrophe. Rivers turn blood-red in his dreams, and animals behave strangely, attacking anyone who crosses their path. The spirits warn that an ancient ritual, long forgotten, must be performed before the next full moon to prevent the Zohira from unleashing their wrath. The challenge is that the ritual requires a rare artifact, hidden deep within the territory of a rival tribe, the **Magara**, who are known for their hostility toward the Shókuma. Kiroba can risk conflict to retrieve the artifact or attempt to negotiate with the Magara.
+: As Kiroba ventures deeper into the jungle on his way to the Yanda Zohiring mountains, the Zohira send him disturbing visions of a looming spiritual catastrophe. Rivers turn blood-red in his dreams, and animals behave strangely, attacking anyone who crosses their path. The spirits warn that an ancient ritual, long forgotten, must be performed before the next full moon to prevent the Zohira from unleashing their wrath. The challenge is that the ritual requires a rare artifact, hidden deep within the territory of a rival tribe, the **[[affiliation-magaratrb|Magara Tribe]]**, which is known for its hostility toward the Shókuma. Kiroba can risk conflict to retrieve the artifact or attempt to negotiate with the Magara.
 
 The Hunt for the Khamwesi
 : As Kiroba approaches the Yanda Zohiring mountains, he is warned by local tribes of the growing danger posed by the khamwesi, massive land-crocodiles that have been terrorizing villages. These creatures are said to be controlled by a dark spirit, one that feeds on fear and chaos. To continue his journey and gain the favor of the Oracle of Bones, Kiroba must first defeat the khamwesi and release the spirits that have been bound to the beasts. However, the khamwesi are not ordinary creatures—they possess both physical and spiritual defenses, requiring Kiroba to outwit and overpower them using both shamanic rituals and his hunter’s instincts.

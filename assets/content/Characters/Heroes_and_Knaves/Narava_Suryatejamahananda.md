@@ -421,7 +421,7 @@ sohl:
 
 ![[nrvsrytjmhnnd|Narava Suryatejamahananda]]{float=top-left}
 
-Narava stands 6'2" tall with a heavy build. He has golden brown skin, jet black hair, and dark brown eyes. His features include a diamond-shaped face, a delicate nose, a rounded chin, an expressive mouth, golden brows, and soft cheeks. He has a tattoo of a compass on his chest.
+Narava Suryatejamahananda stands 6'2" tall with a heavy build. He has golden brown skin, jet black hair, and dark brown eyes. His features include a diamond-shaped face, a delicate nose, a rounded chin, an expressive mouth, golden brows, and soft cheeks. He has a tattoo of a compass on his chest.
 
 # Dossier {#dossier}
 
@@ -429,7 +429,7 @@ Narava stands 6'2" tall with a heavy build. He has golden brown skin, jet black 
 
 ### The Child of Light
 
-Narava was born to a merchant family of notable standing in the City-States of Vedyara, the first son in a line expected to carry on the family's lucrative trade in spices. However, at age seven, his life was transformed by a single encounter. His father took him to the workshop of **Master Dhavalakar**, the greatest glassworker in the known world, a man whose pieces were commissioned by temples and the great houses across three continents. Narava watched in complete absorption as Master Dhavalakar drew liquid light from the furnace on the end of a hollow pipe, and with nothing but the master craftsman's breath and skilled hands, transformed it into shapes of impossible beauty—flowers that seemed to bloom, animals that seemed poised to move, abstract forms that captured the essence of light itself.
+Narava was born to a merchant family of notable standing in the city-states of the [[place-vedyarargn|Vedyara Region]], the first son in a line expected to carry on the family's lucrative trade in spices. However, at age seven, his life was transformed by a single encounter. His father took him to the workshop of Master [Dhavalakar]{.name data-type="being/npc"}, the greatest glassworker in the known world, a man whose pieces were commissioned by temples and the great houses across three continents. Narava watched in complete absorption as Master Dhavalakar drew liquid light from the furnace on the end of a hollow pipe, and with nothing but the master craftsman's breath and skilled hands, transformed it into shapes of impossible beauty—flowers that seemed to bloom, animals that seemed poised to move, abstract forms that captured the essence of light itself.
 
 From that moment, Narava knew his destiny. He renounced his inheritance and at age twelve apprenticed himself to Master Dhavalakar, beginning a decade-long journey of learning that would transform him from a wealthy merchant's son into a true craftsperson. His path through apprenticeship was rigorous—five years devoted entirely to basic techniques, understanding glass composition, learning to judge heat and viscosity by sight and instinct alone. He was not permitted to create anything of his own design for a full ten years.
 
@@ -493,26 +493,26 @@ Emotional Fragility
 
 ### Patrons
 
-The Temple of Jnanasura, High Priestess Viduliya
+[The Temple of Jnanasura]{.name data-type="affiliation"}, High Priestess [[being-viduliyadhan|Viduliya Danasura]]
 : The grand temple of the knowledge deity has commissioned Narava for its sacred stained glass installations, which tell the stories of spiritual enlightenment through light and color. **High Priestess Viduliya** views his work as a form of religious expression and provides him with a stipend that gives his workshop basic financial stability.
 
-Shroshtin Javaloka of House Chendra
+Shroshtin [Javaloka]{.name data-type="being/npc"} of [House Chendra]{.name data-type="affiliation/lineage"}
 : A wealthy spice trader with refined aesthetic tastes, Javaloka has become Narava's most consistent patron, commissioning pieces for his personal collection and his estates. Though occasionally frustrated by delays, Javaloka values the prestige of owning Narava's work enough to tolerate the inconvenience.
 
-The Collegiate of Crystal Studies
+[The Collegiate of Crystal Studies]{.name data-type="affiliation"}
 : An academic institution devoted to the study of light, materials, and geometry, the Collegiate commissions research glass pieces from Narava and provides him with laboratory access for experimental work, though the compensation is modest.
 
 ### Enemies
 
-Master Surendar
+Master [Surendar]{.name data-type="being/npc"}
 : A rival glassworker of considerable skill who emerged from competing workshops, Surendar creates technically sound work that appeals to merchants and the lesser great houses seeking quality at more affordable prices. Narava views Surendar as a charlatan whose commercial success proves the degraded aesthetic tastes of the age, while Surendar has grown weary of being dismissed by Narava and now actively competes for prestigious commissions as a matter of pride.
 
-Creditor Merchant Ashok
+Creditor Merchant [Ashok]{.name data-type="being/npc"}
 : A moneylender who has advanced Narava substantial sums for equipment and materials, Ashok grows increasingly impatient with delays in repayment and has begun threatening to seize workshop assets to cover the debt. The relationship has soured from businesslike to actively hostile.
 
 ### Affiliations
 
-The Glassworkers' Shrena of Vedyara
+[The Glassworkers' Shrena of Vedyara]{.name data-type="affiliation/guild"}
 : Narava maintains active membership and is respected as one of the foremost masters, though his rebellious attitude toward shrena standards occasionally puts him at odds with the conservative shrena leadership.
 
 ## Plot Hooks
@@ -524,7 +524,7 @@ The Shattered Legacy
 : Narava learns that several of his greatest early pieces, now housed in temples and collections of the great houses, have been destroyed—shattered deliberately in a pattern that suggests intentional sabotage rather than accident. Investigating the source of these destructions reveals a hidden enemy, possibly someone who believes Narava's glass work possesses spiritual or magical properties and fears its influence. The attacks may be simple malice, or they may reflect something real about his art that he himself does not fully understand.
 
 The Student's Rebellion
-: Narava accepts a brilliant but troubled apprentice, **Devaksha**, a young person of undeniable talent but volatile temperament. As Devaksha's skills develop, they begin questioning Narava's philosophy of art, arguing for a more accessible, democratic approach to glasswork that would make beauty available to common people rather than just the wealthy. The philosophical conflict between master and student escalates to open competition when Devaksha opens a rival workshop using techniques learned under Narava's tutelage.
+: Narava accepts a brilliant but troubled apprentice, [Devaksha]{.name data-type="being/npc"}, a young person of undeniable talent but volatile temperament. As Devaksha's skills develop, they begin questioning Narava's philosophy of art, arguing for a more accessible, democratic approach to glasswork that would make beauty available to common people rather than just the wealthy. The philosophical conflict between master and student escalates to open competition when Devaksha opens a rival workshop using techniques learned under Narava's tutelage.
 
 The Debt's Terrible Price
 : With his financial situation becoming critical, Narava is approached by a figure operating in shadow—a collector, a sorcerer, or something else entirely—who offers to cancel all his debts in exchange for creating one specific piece of glass. The patron claims to want nothing more than a transparent vessel of certain dimensions and properties, but Narava senses that a darker purpose is intended. Desperation wars with integrity as he considers whether any sum of money or security is worth potentially creating an instrument of harm.

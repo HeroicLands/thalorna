@@ -416,7 +416,7 @@ sohl:
 
 ![[thotkarletgr|Thotkar Let'Gerau]]{float=top-left}
 
-Thotkar stands 5'10" tall with a heavy build. He has tawny skin, greying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, and angular cheeks. He has a tattoo of a leaf on his wrist.
+Thotkar Let'Gerau stands 5'10" tall with a heavy build. He has tawny skin, greying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, and angular cheeks. He has a tattoo of a leaf on his wrist.
 
 # Dossier {#dossier}
 
@@ -424,7 +424,7 @@ Thotkar stands 5'10" tall with a heavy build. He has tawny skin, greying black h
 
 ### The Scholar's Path
 
-Born in 672 to a merchant family with modest social standing, Thotkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant [[being-aqenhophis|Aqenhofis]], a man of famed acumen and integrity, Thotkar studied the vast and involved legal codes that governed [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s empire, learning the rules and the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
+Born in 672 to a merchant family with modest social standing, Thotkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant [[being-aqenhophis|Aqenhofis]], a man of famed acumen and integrity, Thotkar studied the vast and involved legal codes that governed the [[affiliation-empireakhlth|Empire of Au'Khelathu]], learning the rules and the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
 
 ### The Rise to Prominence
 
@@ -440,7 +440,7 @@ Yet Thotkar's success has come at personal cost. His deep feeling for his client
 
 Thotkar is a man of deep intellectual integrity whose personality is marked by unusual depth of feeling behind a composed, scholarly manner. He speaks deliberately, choosing words with precision, seemingly incapable of casual speech or superficial conversation. His mind is perpetually analytical, constantly examining situations for logical inconsistencies and hidden consequences. Yet this intellectual rigor masks real emotional sensitivity; he experiences his clients' suffering with an intensity that borders on overwhelming, and his commitment to their causes goes beyond the obligations of his trade.
 
-He possesses unusual humility for one of his accomplishment; he is acutely aware of law's limitations and the finitude of human knowledge. His faith in [[lore-rethsaardty|Reth'Sa'ar]], god of wisdom and knowledge, runs deep and somewhat austere—he sees in the divine pursuit of absolute truth a model for his own ethics in practice, yet also acknowledges humanity's perpetual failure to achieve that ideal. He is a man of ritual and discipline, maintaining daily practices of study and meditation, and he brings this same rigor to his practice.
+He possesses unusual humility for one of his accomplishment; he is acutely aware of law's limitations and the finitude of human knowledge. His commitment to the [[affiliation-rethsaar|Faith of Reth'Sa'ar]], devoted to [[lore-rethsaardty|Reth'Sa'ar]], god of wisdom and knowledge, runs deep and somewhat austere—he sees in the divine pursuit of absolute truth a model for his own ethics in practice, yet also acknowledges humanity's perpetual failure to achieve that ideal. He is a man of ritual and discipline, maintaining daily practices of study and meditation, and he brings this same rigor to his practice.
 
 In company, he is warm but somewhat reserved, prone to lengthy silences while he considers his words. He maintains only a few intimate friendships, but those relationships are characterized by uncommon depth and loyalty. He is capable of surprising humor—dry, learned, and often emerging unexpectedly in serious conversations. His colleagues respect him deeply, though some find him daunting; his standards for legal practice are exacting, and he has little patience for procedural shortcuts or intellectual laziness.
 
@@ -495,10 +495,10 @@ Compulsive Perfectionism
 Priestess [[being-amqelitana2|Amqelitana]]
 : High priestess of Reth'Sa'ar's temple and a fellow scholar of law and wisdom; she has become both spiritual advisor and patron, commissioning Thotkar to defend temple interests and consulting with him on matters of religious jurisprudence.
 
-The Widow Zabuia
+The Widow [[being-zabuia2|Zabuia]]
 : A client whose case Thotkar defended without fee years ago, resulting in restoration of her family's property and dignity; she has become his patron and supporter, regularly bringing him additional cases and commending his work to others.
 
-Lord Magistrate Khelama
+Lord Magistrate [[being-khelamasamuq|Khelama Sa'Muku]]
 : The city's principal judicial authority who respects Thotkar deeply; though officially neutral, Khelama consistently favors Thotkar in scheduling and procedural matters, and regularly consults him on questions of legal interpretation.
 
 Master Scribe [[being-zeshelegezu2|Zeshelegezu]]
@@ -517,7 +517,7 @@ Litigant [[being-gezehutyu2|Balinta]]
 
 ### Affiliations
 
-Litigant's Guild
+[Litigant's Guild]{.name data-type="affiliation/guild"}
 : A respected senior member who serves on the ethics committee and has been approached regarding leadership positions; his standards and reputation significantly influence Guild policy and standards of practice.
 
 [[affiliation-lemrethsaar|Lem'Reth'Sa'ar]]

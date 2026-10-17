@@ -415,7 +415,7 @@ sohl:
 
 ![[gnldrthnslvrgr|Gnaldrthann Solvargr]]{float=top-left}
 
-Gnaldrthann stands 6'3" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a broad face, a straight nose, a soft jawline, full lips, and gently curved brows. He has a tattoo of a lion's mane on his chest.
+Gnaldrthann Solvargr stands 6'3" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a broad face, a straight nose, a soft jawline, full lips, and gently curved brows. He has a tattoo of a lion's mane on his chest.
 
 # Dossier {#dossier}
 
@@ -497,32 +497,32 @@ Interpersonal Ineptitude
 
 ### Patrons
 
-Lord Commander Draskmil Naltharuk
+Lord Commander [[being-draskmylnalt|Draskmil Naltharuk]]
 : The highest-ranking military officer in the region, who has repeatedly relied on Gnaldrthann's counsel and experience. Draskmil respects Gnaldrthann and has sheltered him from some of the more politically motivated aspects of military service.
 
 The Garrison Community
 : The soldiers under his command, though they fear him, are loyal to Gnaldrthann. They know he will not ask them to take risks he would not take himself.
 
-Master Weaponsmith Gorath
+Master Weaponsmith [Gorath]{.name data-type="being/npc"}
 : A craftsman who creates superior weapons and armor. Gorath and Gnaldrthann have a tacit understanding that supplies weapons to the garrison in exchange for protection and Gnaldrthann's advocacy.
 
 ### Enemies
 
-Captain Marvinda Murvendik
+Captain [[being-marvyndamurv|Marvinda Murvendik]]
 : A rival soldier of approximately equal skill who has competed with Gnaldrthann for recognition and advancement for the past fifteen years. Their conflicts have become personal and vicious, extending beyond the battlefield into political maneuvering.
 
-The Warlord Bruthgar
+The Warlord [Bruthgar]{.name data-type="being/npc"}
 : A notorious mercenary commander whose forces have clashed with Gnaldrthann's garrison repeatedly. Bruthgar has vowed to eventually face Gnaldrthann in single combat to prove his superiority.
 
-Councilor Hliskvir Snalthendik
+Councilor [[being-hliskvirsnal|Hliskvir Snalthendik]]
 : A political figure who views military power as a threat to his authority. He has worked systematically to undermine Gnaldrthann's position and credibility, seeking to replace him with someone more politically pliable.
 
 ### Affiliations
 
-The Royal Guard of Malagna
-: The elite military force tasked with protecting the kingdom's borders and internal stability. Gnaldrthann is one of their most valued sergeants-at-arms.
+[The Royal Guard of Malagna]{.name data-type="affiliation"}
+: The elite military force tasked with protecting the [[affiliation-kingdomlgn|Kingdom of Malagna]]'s borders and internal stability. Gnaldrthann is one of their most valued sergeants-at-arms.
 
-The Order of the Lion's Heart
+[The Order of the Lion's Heart]{.name data-type="affiliation"}
 : An informal fraternity of veteran soldiers who have survived significant military engagements. They meet occasionally to share war stories and honor fallen comrades.
 
 The Garrison at [[place-dvilgborg|Dvilgborg]]

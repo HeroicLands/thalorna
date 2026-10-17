@@ -418,7 +418,7 @@ sohl:
 
 ![[qelathmlkhlr|Qelatha Melu'Khelariu]]{float=top-left}
 
-Qelatha stands 5'10" tall with a light build. She has dark brown skin, black hair, and black eyes. Her features include a narrow face, a long nose, a pointed chin, well-shaped lips, dark brows, and sculpted cheeks. She has a tattoo of a spider on her shoulder.
+Qelatha Melu'Khelariu stands 5'10" tall with a light build. She has dark brown skin, black hair, and black eyes. Her features include a narrow face, a long nose, a pointed chin, well-shaped lips, dark brows, and sculpted cheeks. She has a tattoo of a spider on her shoulder.
 
 # Dossier {#dossier}
 
@@ -426,7 +426,7 @@ Qelatha stands 5'10" tall with a light build. She has dark brown skin, black hai
 
 ### Born to the Hunt
 
-[[being-qelathmlkhlr|Qelatha]] was born in the borderlands of the Empire of [[affiliation-empireakhlth|Au'Khelathu]], in a region where civilization gradually gives way to vast wilderness. Her people—the Meykhathi clan—were traditionally keepers of sacred hunting grounds and custodians of a careful balance between human use and ecological preservation of the lands. Her childhood was spent learning the arts of tracking, archery, and survival in environments where a single mistake could prove fatal. Her father, [[being-wahrthmykhth|Wahrethu Meykhathi]], was the clan's most respected tracker; her mother, [[being-isethu|Isethu]], was a healer and wise woman who taught Qelatha to read the spiritual significance of plants and animals. By the age of eight, Qelatha was hunting alongside the adults, and by thirteen, she had already established herself as the most naturally gifted archer in the clan.
+Qelatha was born in the borderlands of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], in a region where civilization gradually gives way to vast wilderness. Her people—the [Meykhathi clan]{.name data-type="affiliation/lineage"}—were traditionally keepers of sacred hunting grounds and custodians of a careful balance between human use and ecological preservation of the lands. Her childhood was spent learning the arts of tracking, archery, and survival in environments where a single mistake could prove fatal. Her father, [[being-wahrthmykhth|Wahrethu Meykhathi]], was the clan's most respected tracker; her mother, [[being-isethu|Isethu]], was a healer and wise woman who taught Qelatha to read the spiritual significance of plants and animals. By the age of eight, Qelatha was hunting alongside the adults, and by thirteen, she had already established herself as the most naturally gifted archer in the clan.
 
 ### The Violation of the Lands
 
@@ -486,7 +486,7 @@ Difficulty Maintaining Relationships
 
 ### Patrons
 
-Captain Luyat Gar'Raku
+Captain [[being-luyatgarraqu|Luyat Gar'Raku]]
 : The militia commander who employs Qelatha and has developed real respect for her skills and character. Luyat is unaware of her vigilante activities and tacitly allows her considerable freedom in exchange for her skill and loyalty. He has subtly protected her from official scrutiny on several occasions.
 
 [[affiliation-linwalgir|Lin'Walgir]]
@@ -494,7 +494,7 @@ Captain Luyat Gar'Raku
 
 ### Enemies
 
-Merchant-Lord Lenni Thoten'Ralu
+Merchant-Lord [[being-lennithotenr|Lenni Thoten'Ralu]]
 : A wealthy merchant whose logging and mining operations in the borderlands have destroyed significant portions of Qelatha's ancestral lands. Lenni has reason to suspect Qelatha has been sabotaging his operations and has hired mercenaries to track and eliminate her.
 
 [[affiliation-gargezanu|Gar-Gezanu]]
@@ -514,7 +514,7 @@ The Merchant's Gambit
 : Merchant-Lord Lenni Thoten'Ralu offers Qelatha a substantial sum to cease her interference with his operations, phrased as a proposition that he "would prefer to have the talented Qelatha working with him rather than against him." If she refuses, he begins a systematic campaign to eliminate her—hiring skilled mercenaries, using imperial connections, and threatening her militia position. Qelatha hires the party to help her investigate Lenni's operations and gather evidence of crimes against the land that could force the empire to shut down his activities. The investigation becomes increasingly dangerous as Lenni escalates his response.
 
 The Spider's Bargain
-: A mysterious figure known only as "The Spider" approaches Qelatha with a proposition: help them steal a specific artifact from imperial storage, and they will provide information about who killed her father and why. Qelatha is deeply tempted, as she has never received a satisfactory answer about her father's death, but the proposition is clearly dangerous and the Spider's true motives are unclear. The party must help her weigh this temptation while discovering who the Spider actually is and what they truly want.
+: A mysterious figure known only as "[The Spider]{.name data-type="being/npc"}" approaches Qelatha with a proposition: help them steal a specific artifact from imperial storage, and they will provide information about who killed her father and why. Qelatha is deeply tempted, as she has never received a satisfactory answer about her father's death, but the proposition is clearly dangerous and the Spider's true motives are unclear. The party must help her weigh this temptation while discovering who the Spider actually is and what they truly want.
 
 The Poisoned Lands
 : Qelatha discovers that one of Lenni's mining operations has fouled the region's water, causing mysterious illnesses among both human and animal populations in the borderlands. The empire appears reluctant to enforce its own laws, possibly because Lenni has bribed officials or threatened retaliation. Qelatha must prove the contamination's source and force accountability, working with the party to gather evidence, conduct investigations, and potentially take direct action to prevent further poisoning. The situation becomes complicated when they discover that the pattern of the fouling suggests something worse than carelessness.

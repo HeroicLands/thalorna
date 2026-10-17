@@ -420,7 +420,7 @@ sohl:
 
 ![[aglrmlsns|Agélara Stetes]]{float=top-left}
 
-Agélara stands 5'7" tall with a light build. She has olive skin, dark brown hair, and brown eyes. Her features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and dark brows.
+Agélara Stetes stands 5'7" tall with a light build. She has olive skin, dark brown hair, and brown eyes. Her features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and dark brows.
 
 # Dossier {#dossier}
 
@@ -428,7 +428,7 @@ Agélara stands 5'7" tall with a light build. She has olive skin, dark brown hai
 
 ### A Merchant's Daughter
 
-Agélara was born the youngest of five daughters to **Merchant-Prince Selvazhikon Zigakit**, a wealthy trader in the [[affiliation-byzarianlg|Bizarian League]] whose fortune came from controlling spice routes. Her childhood was one of abundance and expectation—she was educated in languages, music, and the arts of hospitality, groomed to become a merchant's wife in an advantageous alliance. Her father had already begun negotiations with three different families when Agélara, at seventeen, politely but firmly declined all offers and requested instead to be sent to apprentice with **Maestra Melanthehran Vuzigazur**, proprietor of the famous Gilded Gryphon Inn.
+Agélara was born the youngest of five daughters to **Merchant-Prince [[being-selvazhikonz|Selvazhikon Zigakit]]**, a wealthy trader in the [[affiliation-byzarianlg|Bizarian League]] whose fortune came from controlling spice routes. Her childhood was one of abundance and expectation—she was educated in languages, music, and the arts of hospitality, groomed to become a merchant's wife in an advantageous alliance. Her father had already begun negotiations with three different families when Agélara, at seventeen, politely but firmly declined all offers and requested instead to be sent to apprentice with Maestra [Melanthehran Vuzigazur]{.name data-type="being/npc"}, proprietor of the famous [Gilded Gryphon Inn]{.name data-type="place/structure"}.
 
 ### The Making of an Innkeeper
 
@@ -494,13 +494,13 @@ Lack of True Ambition
 
 ### Patrons
 
-Her Mother, Lady Charzilina Zigakit
+Her Mother, Lady [[being-tcharzilinaz|Charzilina Zigakit]]
 : Though officially estranged from her father, Agélara maintains a close and loving relationship with her mother, who provides both emotional support and occasional financial assistance. Charzilina has also become one of Agélara's best sources of information about the social machinations of the wealthy.
 
 Master Melanthehran Vuzigazur
 : Her mentor and former owner, now retired, who still frequents the Gilded Gryphon to share wine with Agélara and offer wisdom on business and life matters.
 
-Merchant-Lord Kezhvalikos Bolalidek
+Merchant-Lord [[being-kezhvalikosb|Kezhvalikos Bolalidek]]
 : A worldly trader and collector of fine things who has become both a regular guest and a social ally, using his position to recommend the Gilded Gryphon to other wealthy travelers and defending Agélara's reputation when necessary.
 
 ### Enemies
@@ -508,7 +508,7 @@ Merchant-Lord Kezhvalikos Bolalidek
 Her Father, Merchant-Prince Selvazhikon Zigakit
 : Though not actively hostile, Agélara's father views her choice as a personal rejection of his authority and the family's social position. He has pressured her to close the Inn and return to her "proper" role in the family business. The emotional distance between them causes Agélara real pain despite her outward success.
 
-The Merchant's Syndicate
+[The Merchant's Syndicate]{.name data-type="affiliation/venture"}
 : A powerful organization of merchant-lords who view independent innkeepers as obstacles to their control of the hospitality trade. They have threatened Agélara's suppliers and attempted to pressure her into joining their ring, which would compromise her ability to serve all travelers equally.
 
 Unspoken Jealousy
@@ -516,25 +516,25 @@ Unspoken Jealousy
 
 ### Affiliations
 
-The Innkeepers' Association of the Bizarian League
+[The Innkeepers' Association of the Bizarian League]{.name data-type="affiliation"}
 : An association of innkeepers and taverners in which Agélara is a respected voice for the rights of independent innkeepers against larger merchant organizations.
 
-The Ólvenia Circle
-: An informal society of women who worship the prosperity goddess Ólvenia, through which Agélara maintains connections with female merchants, scholars, and influential women throughout the League.
+[The Ólvenia Circle]{.name data-type="affiliation"}
+: An informal society of women who worship the prosperity goddess [[lore-olveniadty|Ólvenia]], through which Agélara maintains connections with female merchants, scholars, and influential women throughout the League.
 
 ## Plot Hooks
 
 The Eavesdropper's Secret
-: A mysterious guest, **Samariel the Veiled**, takes a room at the Gilded Gryphon and slowly reveals to Agélara that she is fleeing a dangerous marriage—her husband is politically connected and has hired agents to locate her. While Agélara provides refuge and comfort, she learns that Samariel overheard a conspiracy being discussed in one of the tavern's private rooms: wealthy merchants plotting to corner the grain market, causing artificial shortages that would starve the poor. She can protect her guest's confidence and stay silent, or expose the conspiracy and risk drawing both Samariel and herself into deadly danger.
+: A mysterious guest, [Samariel the Veiled]{.name data-type="being/npc"}, takes a room at the Gilded Gryphon and slowly reveals to Agélara that she is fleeing a dangerous marriage—her husband is politically connected and has hired agents to locate her. While Agélara provides refuge and comfort, she learns that Samariel overheard a conspiracy being discussed in one of the tavern's private rooms: wealthy merchants plotting to corner the grain market, causing artificial shortages that would starve the poor. She can protect her guest's confidence and stay silent, or expose the conspiracy and risk drawing both Samariel and herself into deadly danger.
 
 The Forged Ledgers
-: A corrupt merchant, **Lodisash Gokhetkar**, who frequented the Gilded Gryphon for years and left large debts, has disappeared after his crimes were exposed. Authorities arrive at the Inn accusing Agélara of being complicit in his crimes—claiming she helped him hide stolen money in the Inn's accounts. Her careful ledgers should prove her innocent, but she discovers they have been subtly altered to create the appearance of fraudulent transactions. Someone has broken into her records and fabricated evidence. Agélara must investigate who did this and why, potentially uncovering a larger conspiracy that implicates someone powerful.
+: A corrupt merchant, [Lodisash Gokhetkar]{.name data-type="being/npc"}, who frequented the Gilded Gryphon for years and left large debts, has disappeared after his crimes were exposed. Authorities arrive at the Inn accusing Agélara of being complicit in his crimes—claiming she helped him hide stolen money in the Inn's accounts. Her careful ledgers should prove her innocent, but she discovers they have been subtly altered to create the appearance of fraudulent transactions. Someone has broken into her records and fabricated evidence. Agélara must investigate who did this and why, potentially uncovering a larger conspiracy that implicates someone powerful.
 
 The Lost Heir
-: An elderly scholar, **Doríanazh Gováhr**, arrives at the Gilded Gryphon carrying a letter supposedly proving that a common shipyard worker named **Torinn** is actually the missing heir to one of the Bizarian League's greatest fortunes, heir to the House of **Stellenos**. The letter is ancient and its authenticity is unclear. The scholar asks Agélara for shelter and secrecy while he verifies the claim, but word of this possibility begins to circulate. Both the sitting holder of the House title and various criminal elements become interested in finding and silencing Torinn before the truth emerges. Agélara becomes an unlikely protector of a man whose very existence could reshape the League's politics.
+: An elderly scholar, [Doríanazh Gováhr]{.name data-type="being/npc"}, arrives at the Gilded Gryphon carrying a letter supposedly proving that a common shipyard worker named [Torinn]{.name data-type="being/npc"} is actually the missing heir to one of the Bizarian League's greatest fortunes, heir to the [House of Stellenos]{.name data-type="affiliation/lineage"}. The letter is ancient and its authenticity is unclear. The scholar asks Agélara for shelter and secrecy while he verifies the claim, but word of this possibility begins to circulate. Both the sitting holder of the House title and various criminal elements become interested in finding and silencing Torinn before the truth emerges. Agélara becomes an unlikely protector of a man whose very existence could reshape the League's politics.
 
 The Poisoner's Bargain
-: A plague enters the city, and the Gilded Gryphon becomes a place of refuge for the sick and dying. Agélara's skill at nursing and her store of healing herbs save many lives, earning her local sainthood. However, she is approached secretly by **Physician-Master Drorazur**, who believes the plague was deliberately introduced by someone trying to eliminate a specific person—he suspects a wealthy family is using the chaos to commit murder. He asks Agélara to help identify which of her guests is the target and which might be the perpetrator, using her intimate knowledge of her visitors. Helping him could save an innocent life but also make her a target if the murderer realizes she suspects them.
+: A plague enters the city, and the Gilded Gryphon becomes a place of refuge for the sick and dying. Agélara's skill at nursing and her store of healing herbs save many lives, earning her local sainthood. However, she is approached secretly by Physician-Master [Drorazur]{.name data-type="being/npc"}, who believes the plague was deliberately introduced by someone trying to eliminate a specific person—he suspects a wealthy family is using the chaos to commit murder. He asks Agélara to help identify which of her guests is the target and which might be the perpetrator, using her intimate knowledge of her visitors. Helping him could save an innocent life but also make her a target if the murderer realizes she suspects them.
 
 The Inheritance No One Wants
-: Agélara is shocked to learn that her estranged Uncle **Tarázikon**—a man she has never met—has died in a distant city and named her as the beneficiary of a substantial estate. The inheritance comes with mysteries: why would a relative she never knew leave her everything, and what are the dark secrets that seem to surround the estate? When she travels to claim it, she discovers the house is haunted—not by spirits, but by the ghosts of her family's past, including evidence that her uncle was killed under mysterious circumstances. She becomes entangled in uncovering truths that her father never wanted her to know.
+: Agélara is shocked to learn that her estranged Uncle [Tarázikon]{.name data-type="being/npc"}—a man she has never met—has died in a distant city and named her as the beneficiary of a substantial estate. The inheritance comes with mysteries: why would a relative she never knew leave her everything, and what are the dark secrets that seem to surround the estate? When she travels to claim it, she discovers the house is haunted—not by spirits, but by the ghosts of her family's past, including evidence that her uncle was killed under mysterious circumstances. She becomes entangled in uncovering truths that her father never wanted her to know.

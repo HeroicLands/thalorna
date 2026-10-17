@@ -420,7 +420,7 @@ sohl:
 
 ![[brnksksrns|Branakis Kaseranis]]{float=top-left}
 
-Branakis stands 6'2" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a prominent chin, a small mouth, and dark brows. He has a tattoo of a tree on his forearm.
+Branakis Kaseranis stands 6'2" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a prominent chin, a small mouth, and dark brows. He has a tattoo of a tree on his forearm.
 
 Most striking is the tattoo adorning his left forearm: a great tree with roots spreading deep and branches reaching high, rendered in dark ink that has faded slightly with age.
 
@@ -438,7 +438,7 @@ Unlike many born to humble trades, Branakis received a real education—the Holy
 
 At age fifteen, Branakis' father died when a great tree he was cutting failed to fall as intended, crushing him beneath its immense weight. Rather than scaring Branakis away from the forest, the tragedy crystallized his commitment to the work—he vowed to master the craft so completely that such accidents would never take another family member. He spent the next two decades in an almost ascetic pursuit of perfection, learning every aspect of charcoal making from raw timber selection through the precise control of kiln temperatures that determine the quality of the final product.
 
-His devotion earned him a place in the Woodworkers' Guild by his thirty-second year, an unusual achievement for someone of his humble birth. His charcoal became famous throughout Nartun—blacksmiths specifically requested his product because it burned hotter and cleaner than any other source. He developed his own methods for creating specific grades of charcoal for different purposes, guarding these techniques with the possessiveness of a dragon protecting its hoard.
+His devotion earned him a place in [The Woodworkers' Guild of Nartun]{.name data-type="affiliation/guild"} by his thirty-second year, an unusual achievement for someone of his humble birth. His charcoal became famous throughout Nartun—blacksmiths specifically requested his product because it burned hotter and cleaner than any other source. He developed his own methods for creating specific grades of charcoal for different purposes, guarding these techniques with the possessiveness of a dragon protecting its hoard.
 
 ### The Aging Craftsman
 
@@ -504,24 +504,24 @@ Emotional Repression
 
 ### Patrons
 
-Master Blacksmith Torvin Arkálmanes
+Master Blacksmith [Torvin Arkálmanes]{.name data-type="being/npc"}
 : The region's most famous blacksmith who specifically seeks out Branakis' charcoal for his most important commissions. Torvin is perhaps the only person Branakis considers a true peer.
 
-The Abbey of Ústaron's Flame
+[The Abbey of Ústaron's Flame]{.name data-type="affiliation/order"}
 : A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Branakis within the religious community.
 
-Guild Master Sorimar Ronethen
+Guild Master [[being-sorimarronet|Sorimar Ronethen]]
 : The head of the Woodworkers' Guild, who has maintained Branakis' membership despite pressure from younger, more pliable members.
 
 ### Enemies
 
-Merchant Prince Volkemar Zurmelates
+Merchant Prince [[being-volkhemarzur|Volkemar Zurmelates]]
 : A wealthy trader who has begun running charcoal works on a great scale with lower standards. He has undercut Branakis' prices and reputation systematically.
 
-The Timber Consortium
+[The Timber Consortium]{.name data-type="affiliation/venture"}
 : A large trading company that controls vast timber harvesting rights. They view Branakis' opposition to their practices as problematic and have worked to restrict his access to quality timber sources.
 
-Charcoaler Silas Ashbringer
+Charcoaler [Silas Ashbringer]{.name data-type="being/npc"}
 : A younger rival charcoaler who has adopted new methods and proven profitable. Branakis views Silas as a symbol of everything wrong with craftwork today, and the animosity between them has become quite personal.
 
 ### Affiliations
@@ -529,7 +529,7 @@ Charcoaler Silas Ashbringer
 The Woodworkers' Guild of Nartun
 : A formal trade organization providing standards, protection, and mutual support for those in timber-related crafts.
 
-The Keepers of the Forest
+[The Keepers of the Forest]{.name data-type="affiliation"}
 : An informal network of those devoted to the careful management and preservation of the great woods. Branakis is one of their most vocal members.
 
 The Abbey of Ústaron's Flame
@@ -547,7 +547,7 @@ The Ancient Formula
 : While excavating near an old kiln site, Branakis discovers evidence of charcoal-making techniques used centuries ago, seemingly abandoned and forgotten. Research reveals these techniques produce charcoal with properties that seem almost magical—superior in ways that shouldn't be possible according to anything known of the craft. He must find the remaining archives or texts describing the method while competing against others who recognize its value.
 
 The Bargain with Fire
-: A mysterious figure approaches Branakis, claiming to represent Ústaron directly, and offers him a way to perfectly control kiln temperatures and hold a consistent quality beyond what he has ever achieved. The price is not gold but his agreement to undertake a secret task—creating a specific batch of charcoal with properties the figure refuses to explain. Branakis is torn between his desire for perfect mastery of his craft and his deep suspicion of anything involving deception.
+: A mysterious figure approaches Branakis, claiming to represent [[lore-ustarondty|Ústaron]] directly, and offers him a way to perfectly control kiln temperatures and hold a consistent quality beyond what he has ever achieved. The price is not gold but his agreement to undertake a secret task—creating a specific batch of charcoal with properties the figure refuses to explain. Branakis is torn between his desire for perfect mastery of his craft and his deep suspicion of anything involving deception.
 
 The Last Stand
 : The Timber Consortium, frustrated by Branakis' continued resistance to their designs, escalates their campaign, attempting to literally drive him out of business through sabotage, the rigging of prices, and legal challenges. Branakis finds himself forced to make alliances he never sought and to engage in types of conflict entirely foreign to his nature. He can surrender his independence and fold his works into a larger concern, or make a final stand that might cost him everything.

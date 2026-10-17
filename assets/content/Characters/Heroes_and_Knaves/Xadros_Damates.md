@@ -418,13 +418,13 @@ sohl:
 
 ![[xadrosdmts|Zadros Damates]]{float=top-left}
 
-Zadros stands 6'1" tall with a medium build. He has light tanned skin, dark brown hair, and brown eyes. His features include a long face, a snub nose, a strong jawline, dark brows, and rounded cheeks.
+Zadros Damates stands 6'1" tall with a medium build. He has light tanned skin, dark brown hair, and brown eyes. His features include a long face, a snub nose, a strong jawline, dark brows, and rounded cheeks.
 
 # Dossier {#dossier}
 
 **The Inherited Craft**
 
-Zadros was born into a family of woodcrafters in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], inheriting his profession and workshop as naturally as other children inherit a house. The Damates family workshop has existed for six generations, continuously occupying the same wooden building on the main street of their village, and his father, his grandfather, and his great-grandfather before them all practiced the craft of fine woodworking—the creation of objects that existed at the intersection of utility and beauty. From his earliest memories, Zadros was immersed in the sounds and scents of the workshop: the hiss of saw through wood, the sweet aroma of fresh shavings and linseed oil, the meditative rhythm of careful carving. His father was a patient teacher, and recognized that Zadros possessed a gift for understanding wood's properties and an almost supernatural ability to envision how a block of timber might be transformed into finished beauty.
+Zadros was born into a family of woodcrafters in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartun]], inheriting his profession and workshop as naturally as other children inherit a house. The [Damates Family Workshop]{.name data-type="affiliation/venture"} has existed for six generations, continuously occupying the same wooden building on the main street of their village, and his father, his grandfather, and his great-grandfather before them all practiced the craft of fine woodworking—the creation of objects that existed at the intersection of utility and beauty. From his earliest memories, Zadros was immersed in the sounds and scents of the workshop: the hiss of saw through wood, the sweet aroma of fresh shavings and linseed oil, the meditative rhythm of careful carving. His father was a patient teacher, and recognized that Zadros possessed a gift for understanding wood's properties and an almost supernatural ability to envision how a block of timber might be transformed into finished beauty.
 
 **The Artisan's Mastery**
 
@@ -482,13 +482,13 @@ Learned Fatalism
 
 ### Patrons
 
-The Temple of Ólvenia
+[The Temple of Ólvenia]{.name data-type="affiliation"}
 : The local religious order regularly commissions altar adornments, decorative panels, and ceremonial objects from Zadros, valuing both his skill and his personal piety.
 
-Merchant Peldan the Prosperous
+Merchant [Peldan the Prosperous]{.name data-type="being/npc"}
 : A wealthy local trader who appreciates fine craftsmanship and has commissioned several pieces for his home, serving as Zadros' most reliable repeat customer.
 
-Village Elder Pirkelar
+Village Elder [[being-pirkelarrevo|Pirkelar Revothandis]]
 : The village's governing elder who treasures Zadros' work and regularly recommends him to visiting dignitaries, serving as an informal advocate for the craftsman's talents.
 
 ### Enemies

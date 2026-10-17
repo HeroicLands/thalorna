@@ -422,7 +422,7 @@ sohl:
 
 ![[ilmnnlr|Ilumanei Naoliru]]{float=top-left}
 
-Ilumanei stands 6'0" tall with a medium build. He has deep brown skin, dark close-cropped black hair, and brown eyes. His features include an oval face, a narrow nose, well-defined lips, deep brows, and prominent cheeks. He has a scar on his chin.
+Ilumanei Naoliru stands 6'0" tall with a medium build. He has deep brown skin, dark close-cropped black hair, and brown eyes. His features include an oval face, a narrow nose, well-defined lips, deep brows, and prominent cheeks. He has a scar on his chin.
 
 # Dossier {#dossier}
 
@@ -430,19 +430,19 @@ Ilumanei stands 6'0" tall with a medium build. He has deep brown skin, dark clos
 
 ### Early Life
 
-Ilumanei was born in a poor street behind the quay of [[place-vashuran|Vashurán]], the port of [[affiliation-kalihara|Kalihara]] where the Taruzelian captains trade, the son of a dock worker and a laundress. His parents saw that he was clever and scraped together every coin they could spare to send him to a temple school in the foreign quarter, where he learned his letters and his numbers. The other pupils came from merchant families; Ilumanei outworked all of them, and mastered five scripts in use on the quays—the island's own, the foreigners' and the merchant hands between them. At twelve his teachers sent him to a master scribe, **Vaelumo the Precise**, who took him as an apprentice.
+Ilumanei was born in a poor street behind the quay of [[place-vashuran|Vashurán]], the port of [[affiliation-kalihara|Kalihara]] where the [[lore-taruzelianclt|Taruzelian]] captains trade, the son of a dock worker and a laundress. His parents saw that he was clever and scraped together every coin they could spare to send him to a temple school in the foreign quarter, where he learned his letters and his numbers. The other pupils came from merchant families; Ilumanei outworked all of them, and mastered five scripts in use on the quays—the island's own, the foreigners' and the merchant hands between them. At twelve his teachers sent him to a master scribe, [Vaelumo the Precise]{.name data-type="being/npc"}, who took him as an apprentice.
 
 ### Training Under Vaelumo
 
-Vaelumo was hard. For seven years Ilumanei copied texts, mixed inks, prepared parchment and learned the forms of contract and record, and Vaelumo tore up whole pages for a single faulty letter and made him write them again long after dark. The old man was not cruel: he was preparing his pupil for a trade in which a document binds, and one mistake can ruin a family or lose it a claim. When Ilumanei became a journeyman at nineteen, Vaelumo recommended him to the **High Registry of Kalihara**, the register of contracts kept at the wardens' hall in [[place-ilovanu|Ilovanu]] for the dealings of all four ports.
+Vaelumo was hard. For seven years Ilumanei copied texts, mixed inks, prepared parchment and learned the forms of contract and record, and Vaelumo tore up whole pages for a single faulty letter and made him write them again long after dark. The old man was not cruel: he was preparing his pupil for a trade in which a document binds, and one mistake can ruin a family or lose it a claim. When Ilumanei became a journeyman at nineteen, Vaelumo recommended him to the [High Registry of Kalihara]{.name data-type="affiliation/governmental"}, the register of contracts kept at the wardens' hall in [[place-ilovanu|Ilovanu]] for the dealings of all four ports.
 
 ### The Registry Years
 
-For fifteen years Ilumanei recorded everything that passed between the foreign quarters and the port Kaliharans: cargo contracts and partnerships, marriages between settled foreign families and port households, debts, disputes and the letters of credit the merchant houses honor among themselves. He became known for his accuracy, his elegant hand and his readiness to help poor families set down their claims properly. The dockhands and laundresses loved him for it, and the great merchants thought him presumptuous for treating a porter's contract with the care he gave a merchant-prince's.
+For fifteen years Ilumanei recorded everything that passed between the foreign quarters and the port [[lore-kaliharanclt|Kaliharan]] people: cargo contracts and partnerships, marriages between settled foreign families and port households, debts, disputes and the letters of credit the merchant houses honor among themselves. He became known for his accuracy, his elegant hand and his readiness to help poor families set down their claims properly. The dockhands and laundresses loved him for it, and the great merchants thought him presumptuous for treating a porter's contract with the care he gave a merchant-prince's.
 
 ### Present Circumstances
 
-At thirty-four Ilumanei left the Registry to work for himself, which surprised everyone who thought him settled. He wanted to work for the people who needed him most. He keeps a small office in a disused temple archive in Vashurán, where porters, boatmen, craftsmen, settled foreign families and merchants come to have their documents drawn up, witnessed and sealed. Several evenings a week he teaches young people the craft, hoping to raise a generation of honest record-keepers. He keeps his standing in the Scribes' Guild, and the Registry still consults him in private, though he refuses any post that would oblige him to favor the rich.
+At thirty-four Ilumanei left the Registry to work for himself, which surprised everyone who thought him settled. He wanted to work for the people who needed him most. He keeps a small office in a disused temple archive in Vashurán, where porters, boatmen, craftsmen, settled foreign families and merchants come to have their documents drawn up, witnessed and sealed. Several evenings a week he teaches young people the craft, hoping to raise a generation of honest record-keepers. He keeps his standing in the [Scribes' Guild]{.name data-type="affiliation/guild"}, and the Registry still consults him in private, though he refuses any post that would oblige him to favor the rich.
 
 ## Psyche
 
@@ -499,11 +499,11 @@ No fighter
 Kalihara's High Registry
 : the Registry still brings him its delicate and difficult work, in private, and takes care that his good name stays clean.
 
-Merchants' and Traders' Guild
+[Merchants' and Traders' Guild]{.name data-type="affiliation/guild"}
 : several powerful merchants of the ports hire him for their contracts. They pay well, and he annoys them by insisting on terms fair to both sides.
 
 Village Councils and Local Magistrates
-: the quarter councils of the smaller ports and the wardens' magistrates at Nalurithan and Telvari hire him to record disputes and witness agreements, and they guard his reputation in their towns.
+: the quarter councils of the smaller ports and the wardens' magistrates at [[place-nalurithan|Nalurithan]] and [[place-telvari|Telvari]] hire him to record disputes and witness agreements, and they guard his reputation in their towns.
 
 Poor Farmers and Craftspeople
 : the porters, boatmen and craftsmen of the quays pay him little and love him most, and would stand between him and any threat.
@@ -513,7 +513,7 @@ Poor Farmers and Craftspeople
 A foreign merchant
 : a trader whose business Ilumanei refused after finding that he used contracts to defraud partners who could not read them. The merchant spreads word that Ilumanei's documents are unreliable and that he favors the poor.
 
-Guild Master Navatei
+Guild Master [[being-navateikoath|Navatei Koathevoi]]
 : the master of the Scribes' Guild, who grows rich on high fees from wealthy clients and discourages scribes from working for the poor. Ilumanei's success outside his control is a standing rebuke, and Navatei means to end it.
 
 ### Affiliations
@@ -522,9 +522,9 @@ Guild Master Navatei
 : an islander's standing among the port Kaliharans. He is a member of the port's Scribes' Guild, upholding its standards and resisting its slide toward serving only those who can pay.
 
 [[affiliation-lizelas|Faith of Lizelas]]
-: he keeps the faith of the Nurturer that he learned in the temple school, and his office stands in the old archive of her temple, among the Temple Archive Cooperative of scholars who keep its records.
+: he keeps the faith of the Nurturer that he learned in the temple school, and his office stands in the old archive of her temple, among the [Temple Archive Cooperative]{.name data-type="affiliation"} of scholars who keep its records.
 
-Free Scribes' Alliance
+[Free Scribes' Alliance]{.name data-type="affiliation"}
 : a loose fellowship of scribes who have left the guild or the Registry to work for themselves, who share methods and help each other with hard commissions.
 
 ## Plot Hooks
@@ -542,4 +542,4 @@ The Underground Records
 : Ilumanei learns that beneath the High Registry lies a hidden archive of records the councils have kept secret for centuries: betrayals, murders and bargains that would shake the island's trust in its own government. Loyalists want him to destroy them and others want them read aloud on the quay, and among the papers is evidence that Vaelumo the Precise had a hand in the original concealment.
 
 The Apprentice's Destiny
-: A gifted street orphan, **Ruvaneli**, begs Ilumanei to teach him, and Ilumanei takes him on with delight. In time he discovers that Navatei planted the boy to learn his methods and steal his clients. But Ruvaneli has come to love his master and is torn by his task, and Ilumanei must find a way to reach him and help him choose honesty over Navatei's promises.
+: A gifted street orphan, [Ruvaneli]{.name data-type="being/npc"}, begs Ilumanei to teach him, and Ilumanei takes him on with delight. In time he discovers that Navatei planted the boy to learn his methods and steal his clients. But Ruvaneli has come to love his master and is torn by his task, and Ilumanei must find a way to reach him and help him choose honesty over Navatei's promises.

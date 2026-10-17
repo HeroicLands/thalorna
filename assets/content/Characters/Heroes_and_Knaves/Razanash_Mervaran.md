@@ -430,13 +430,13 @@ sohl:
 
 ![[rznshmrvrn|Razanash Mervaran]]{float=top-left}
 
-Razanash stands 5'7" tall with a light build. She has tawny skin, black hair, and green eyes. Her features include a narrow face, an arched nose, an angular jawline, thick dark brows, and sculpted cheeks. She has a scar on her left thigh.
+Razanash Mervaran stands 5'7" tall with a light build. She has tawny skin, black hair, and green eyes. Her features include a narrow face, an arched nose, an angular jawline, thick dark brows, and sculpted cheeks. She has a scar on her left thigh.
 
 # Dossier {#dossier}
 
 **The Unquiet Awakening**
 
-**Razanash** was born into the Mervaran lineage of the [[place-khzryndsrtrgn|Khazryn Desert]], the daughter of a respected hunter and a woman known to possess the gift of prophecy. She showed signs of shamanic potential from childhood—she spoke with animals, sensed approaching storms before any sign appeared in the sky, and occasionally fell into trances during which she seemed to converse with invisible presences. However, her early years were marked by confusion and suffering; without proper training, her abilities manifested as vivid nightmares, unexplained illnesses, and a desperate sense of disconnection from normal reality. By her teenage years, she had become withdrawn and troubled, and some in the tribe questioned whether she was blessed or cursed.
+**Razanash** was born into the [Mervaran lineage]{.name data-type="affiliation/lineage"} of the [[place-khzryndsrtrgn|Khazryn Desert Region]], the daughter of a respected hunter and a woman known to possess the gift of prophecy. She showed signs of shamanic potential from childhood—she spoke with animals, sensed approaching storms before any sign appeared in the sky, and occasionally fell into trances during which she seemed to converse with invisible presences. However, her early years were marked by confusion and suffering; without proper training, her abilities manifested as vivid nightmares, unexplained illnesses, and a desperate sense of disconnection from normal reality. By her teenage years, she had become withdrawn and troubled, and some in the tribe questioned whether she was blessed or cursed.
 
 **The Trial of Becoming**
 
@@ -444,7 +444,7 @@ At twenty-two, following a severe fever that nearly took her life, Razanash unde
 
 **Current Standing**
 
-Now in her mid-thirties, Razanash is one of the Tribal Shamanic Circle's most valued members, though her authority is still somewhat challenged by older shamans who question her youthfulness and her unconventional interpretive style. She maintains a dwelling on the tribe's outskirts—a tent decorated with bones, feathers, and stones from significant spiritual locations. She is consulted for healing, divination, and interpretation of omens, and her herbal medicines are famed for their efficacy. Yet she remains somewhat isolated even within her community, neither fully accepted as a peer by the elder shamans nor able to relate to those without spiritual gifts. Her self-doubt, while diminishing with each successful reading and healing, still surfaces when faced with complex problems that seem beyond her abilities to divine or resolve.
+Now in her mid-thirties, Razanash is one of the [Tribal Shamanic Circle]{.name data-type="affiliation"}'s most valued members, though her authority is still somewhat challenged by older shamans who question her youthfulness and her unconventional interpretive style. She maintains a dwelling on the tribe's outskirts—a tent decorated with bones, feathers, and stones from significant spiritual locations. She is consulted for healing, divination, and interpretation of omens, and her herbal medicines are famed for their efficacy. Yet she remains somewhat isolated even within her community, neither fully accepted as a peer by the elder shamans nor able to relate to those without spiritual gifts. Her self-doubt, while diminishing with each successful reading and healing, still surfaces when faced with complex problems that seem beyond her abilities to divine or resolve.
 
 ## Psyche
 
@@ -502,32 +502,32 @@ Limited Trust in Material Solutions
 
 ### Patrons
 
-Elder Shaman Tijoodorkun
+Elder Shaman [[being-tijoodorquns|Tijoodorkun Savaghur]]
 : The oldest and most respected shaman in the tribe; he has mentored Razanash in the tribe's own ways since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.
 
-Chief Khilodlun
+Chief [[being-khilodlunbii|Khilodlun Biilokur]]
 : The tribe's leader who respects Razanash's spiritual authority and often consults her on matters of tribal importance; she has granted Razanash considerable autonomy in conducting her shamanic duties.
 
-The Serpent Spirit
+[The Serpent Spirit]{.name data-type="being/creature"}
 : An entity Razanash encountered during her initiation ordeal and maintains an ongoing relationship with; it communicates with her through dreams and visions and provides guidance (though sometimes cryptic or morally complex guidance).
 
 ### Enemies
 
-Shaman Kesukyemok
+Shaman [Kesukyemok]{.name data-type="being/npc"}
 : A rival shamanic practitioner who views Razanash as an upstart and challenges her interpretations publicly; he represents the traditionalist faction that questions her unconventional methods.
 
-The Shadow Collective
+[The Shadow Collective]{.name data-type="affiliation"}
 : A mysterious group of rogue shamans and sorcerers who have approached Razanash multiple times with offers of power and knowledge; she has rejected them, but they view her refusal as naive and continue to attempt recruitment.
 
 Skeptical Warriors
-: A faction within the tribe, led by hunter **Tarek**, who view shamanism generally as superstition and Razanash specifically as a charlatan capitalizing on superstitious fears. Their skepticism creates friction and undermines her authority.
+: A faction within the tribe, led by hunter [Tarek]{.name data-type="being/npc"}, who view shamanism generally as superstition and Razanash specifically as a charlatan capitalizing on superstitious fears. Their skepticism creates friction and undermines her authority.
 
 ### Affiliations
 
 Tribal Shamanic Circle
 : Razanash holds formal membership and is one of the circle's active practitioners, though her influence within the hierarchy is still secondary to the oldest shamans.
 
-The Desert Heralists' Collective
+[The Desert Herbalists' Collective]{.name data-type="affiliation"}
 : An informal network of healers and herbalists across multiple desert tribes who share knowledge and recipes; Razanash maintains active correspondence through written symbols and occasional meetings.
 
 ## Plot Hooks
@@ -545,4 +545,4 @@ The Spirit Debt
 : Razanash is approached by a desperate individual who claims a hostile spirit has enslaved them and made them a vehicle for its will; they commit terrible acts but experience them as if watching themselves from outside their own body. Razanash attempts a standard spiritual exorcism, but the entity is far more powerful and resilient than she expected. In attempting to free the person, she herself becomes partially possessed, creating a dangerous situation where Razanash becomes a conduit for the entity's manifestation. The party must help her reclaim her body and mind while discovering what the entity wants and why it has become so entrenched.
 
 The Hidden Knowledge
-: Razanash's teacher in the water-shrine lore of Kethramír, the Tellumi elder [[being-zevaradthvrn|Zevarad Dathvarun]], reveals on his deathbed that the official shamanic teachings handed down at the shrine and in the tribe for generations are incomplete—that there are deeper, more dangerous spiritual practices and connections that have been deliberately hidden from younger shamans because they are considered too dangerous or too morally ambiguous for those lacking sufficient wisdom and spiritual development. He gives her cryptic instructions to seek out a hidden library or location where these teachings are preserved, and suggests that she may need to decide whether to let this knowledge remain hidden or to master it and decide its use. The party becomes involved in the quest to locate this hidden knowledge while Razanash wrestles with whether some knowledge is too dangerous to possess.
+: Razanash's teacher in the water-shrine lore of [[place-kethramir|Kethramír]], the [[lore-khazrynclt|Tellumi]] elder [[being-zevaradthvrn|Zevarad Dathvarun]], reveals on his deathbed that the official shamanic teachings handed down at the shrine and in the tribe for generations are incomplete—that there are deeper, more dangerous spiritual practices and connections that have been deliberately hidden from younger shamans because they are considered too dangerous or too morally ambiguous for those lacking sufficient wisdom and spiritual development. He gives her cryptic instructions to seek out a hidden library or location where these teachings are preserved, and suggests that she may need to decide whether to let this knowledge remain hidden or to master it and decide its use. The party becomes involved in the quest to locate this hidden knowledge while Razanash wrestles with whether some knowledge is too dangerous to possess.

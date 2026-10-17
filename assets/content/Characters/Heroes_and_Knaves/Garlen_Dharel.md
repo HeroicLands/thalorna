@@ -420,21 +420,21 @@ sohl:
 
 ![[garlendhrl|Garlen Darel]]{float=top-left}
 
-Garlen stands 5'11" tall with a medium build. He has light tanned skin, black hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, and expressive brows. He has a scar running down his right leg.
+Garlen Darel stands 5'11" tall with a medium build. He has light tanned skin, black hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, and expressive brows. He has a scar running down his right leg.
 
 # Dossier {#dossier}
 
 **Apprenticeship in Blood and Leather**
 
-Born in the Tanners' Quarter of [[place-elavendre|Élavendre]]'s capital city, Garlen was apprenticed to his uncle **Thorin Darel** at age nine, beginning a decade-long education in the mysteries of leather craft. The work was harsh and malodorous—scraping hides, boiling solutions, treating skins with mineral salts and plant dyes—but Garlen showed aptitude and a love for the craft. By his twentieth year, he had earned the title of journeyman and established a modest workshop of his own in a leased space near the city's hunter's market.
+Born in the [Tanners' Quarter]{.name data-type="place/site"} of [[place-elavendre|Élavendre]]'s capital city, Garlen was apprenticed to his uncle [Thorin Darel]{.name data-type="being/npc"} at age nine, beginning a decade-long education in the mysteries of leather craft. The work was harsh and malodorous—scraping hides, boiling solutions, treating skins with mineral salts and plant dyes—but Garlen showed aptitude and a love for the craft. By his twentieth year, he had earned the title of journeyman and established a modest workshop of his own in a leased space near the city's hunter's market.
 
 **The Accident and Recovery**
 
-At thirty-three, a moment of inattention with a splitting knife nearly cost Garlen his leg. The blade slipped, opened his thigh and calf nearly to the bone, and left him fevered and delirious for a month while a physician named **Cutheir** fought the wound's infection with poultices and prayer. Garlen recovered, though imperfectly—the leg never regained its full strength, and he walks with a subtle limp that occasionally aches during damp seasons. More significantly, the incident shattered his confidence. For two years, he worked only simple projects, terrified of another mistake. Only through the patient encouragement of Cutheir and his regular customers did he gradually rebuild his skill and his nerve.
+At thirty-three, a moment of inattention with a splitting knife nearly cost Garlen his leg. The blade slipped, opened his thigh and calf nearly to the bone, and left him fevered and delirious for a month while a physician named [Cutheir]{.name data-type="being/npc"} fought the wound's infection with poultices and prayer. Garlen recovered, though imperfectly—the leg never regained its full strength, and he walks with a subtle limp that occasionally aches during damp seasons. More significantly, the incident shattered his confidence. For two years, he worked only simple projects, terrified of another mistake. Only through the patient encouragement of Cutheir and his regular customers did he gradually rebuild his skill and his nerve.
 
 **Master of His Craft**
 
-Now established as the finest leather-worker in the city, Garlen has built a modest but comfortable living through quality craftsmanship and a reputation for fair dealing. His work adorns the armor of adventurers, the saddles of nobles' horses, and the everyday leather goods of Élavendre's working people. He has trained two apprentices—though only one, a young woman named **Órina**, shows serious promise of mastery. He remains unmarried, his life consumed by his work and by the quiet satisfaction of creating objects that will outlast him.
+Now established as the finest leather-worker in the city, Garlen has built a modest but comfortable living through quality craftsmanship and a reputation for fair dealing. His work adorns the armor of adventurers, the saddles of nobles' horses, and the everyday leather goods of Élavendre's working people. He has trained two apprentices—though only one, a young woman named [Órina]{.name data-type="being/npc"}, shows serious promise of mastery. He remains unmarried, his life consumed by his work and by the quiet satisfaction of creating objects that will outlast him.
 
 ## Psyche
 
@@ -486,10 +486,10 @@ Perfectionism as Paralysis
 
 ### Patrons
 
-Captain of the City Guard, Commander Aldis
+Captain of the City Guard, Commander [Aldis]{.name data-type="being/npc"}
 : A patron who has commissioned multiple leather armor sets for the city's elite guard. Aldis values Garlen's work and sees that the guard's supply contracts flow regularly to his workshop.
 
-Lady Merenna of House Élavere
+Lady [Merenna]{.name data-type="being/npc"} of [House Élavere]{.name data-type="affiliation/lineage"}
 : A minor nobility whose appreciation for Garlen's aesthetic sense has made her a regular customer. She commissions decorative leather goods and saddles, and her endorsement among the city's elite has brought significant prestige to his workshop.
 
 Master Physician Cutheir
@@ -497,15 +497,15 @@ Master Physician Cutheir
 
 ### Enemies
 
-Master Leatherworker Torvin
+Master Leatherworker [Torvin]{.name data-type="being/npc"}
 : A rival craftsperson who produces faster, cheaper goods through corner-cutting methods. Torvin actively attempts to undercut Garlen on price and spreads rumors about his work's durability, despite the fact that his own products are objectively inferior.
 
-The Tanners' Guild Elders
+The [Tanners' Guild]{.name data-type="affiliation/guild"} Elders
 : Several guild administrators have attempted to pressure Garlen into their standardized pricing and methods. When he refused to compromise his standards or join their cartel, they blacklisted him from certain contracts, though his reputation has largely insulated him from the worst effects.
 
 ### Affiliations
 
-The Independent Craftspeople's Association
+[The Independent Craftspeople's Association]{.name data-type="affiliation"}
 : A loose collective of artisans who reject guild monopolies. Garlen holds no formal position but attends their meetings and contributes to their advocacy efforts.
 
 ## Plot Hooks

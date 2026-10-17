@@ -418,17 +418,17 @@ sohl:
 
 ![[rnthrprdln|Ranthor Párdalen]]{float=top-left}
 
-Ranthor stands 5'9" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, dark brows, and rounded cheeks. He has a tattoo of a crown on his chest.
+Ranthor Párdalen stands 5'9" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, dark brows, and rounded cheeks. He has a tattoo of a crown on his chest.
 
 # Dossier {#dossier}
 
 **Service in Stone and Strife**
 
-Ranthor Párdalen came to shamanism through a path of warrior service, hard experience, and practical necessity. In his youth, he served the Kingdom of Élavendre as a soldier and guard, eventually rising to significant rank in the royal forces. During a campaign against hostile tribal forces, he was captured and held by shamans of the enemy tribe who recognized in him a latent spiritual sensitivity that his martial training had suppressed. Rather than executing him, they inducted him into their shamanic traditions, believing that his warrior nature and spiritual capacity could be molded into something valuable. When he was eventually ransomed and released, Ranthor returned to Élavendre but found that something fundamental had shifted within him; he could no longer serve purely as a warrior, nor could he ignore the spiritual dimensions of existence he now perceived.
+Ranthor Párdalen came to shamanism through a path of warrior service, hard experience, and practical necessity. In his youth, he served the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] as a soldier and guard, eventually rising to significant rank in the royal forces. During a campaign against hostile tribal forces, he was captured and held by shamans of the enemy tribe who recognized in him a latent spiritual sensitivity that his martial training had suppressed. Rather than executing him, they inducted him into their shamanic traditions, believing that his warrior nature and spiritual capacity could be molded into something valuable. When he was eventually ransomed and released, Ranthor returned to Élavendre but found that something fundamental had shifted within him; he could no longer serve purely as a warrior, nor could he ignore the spiritual dimensions of existence he now perceived.
 
 **The Pragmatist's Path**
 
-He eventually left the kingdom's service and sought out the Kingdom of Élavendre's shamanic traditions, eventually establishing himself as a shaman who bridges the gap between the mystical and the martial worlds. Where other shamans focus on ecstatic experiences, divine communion, and arcane knowledge, Ranthor built his practice around practical applications: using shamanic techniques to heal wounds, mediate disputes, prepare warriors for battle through ritual and steadiness of mind, and dealing with political currents with the cunning he learned both in royal service and in shamanic training. Now in his late forties, he sits on the Tribal Council of Shamans and acts as a primary liaison between the shamanic order and the kingdom's military and political leadership.
+He eventually left the kingdom's service and sought out the Kingdom of Élavendre's shamanic traditions, eventually establishing himself as a shaman who bridges the gap between the mystical and the martial worlds. Where other shamans focus on ecstatic experiences, divine communion, and arcane knowledge, Ranthor built his practice around practical applications: using shamanic techniques to heal wounds, mediate disputes, prepare warriors for battle through ritual and steadiness of mind, and dealing with political currents with the cunning he learned both in royal service and in shamanic training. Now in his late forties, he sits on the [Tribal Council of Shamans]{.name data-type="affiliation/governmental"} and acts as a primary liaison between the shamanic order and the kingdom's military and political leadership.
 
 **The Crown and the Question**
 
@@ -490,24 +490,24 @@ Underestimation of Subtle Threats
 
 ### Patrons
 
-Chief Úlmera
+Chief [[being-ulmeraosseln|Úlmera Ósselnde]]
 : The current tribal leader who relies on Ranthor for counsel on matters both spiritual and martial; they have worked together for two decades and maintain deep trust despite their different temperaments.
 
-Captain Chénira
+Captain [[being-chenirahares|Chénira Háresnde]]
 : A decorated military officer of the Kingdom of Élavendre who acts as liaison between the kingdom's forces and the tribes. She and Ranthor maintain a formal relationship with hints of deeper mutual respect and perhaps unresolved personal history.
 
-Elder Healer Sérdale
+Elder Healer [[being-serdaleliser|Sérdale Lísernde]]
 : The oldest and most respected pure mystic shaman in the tribe who, despite their different approaches, respects Ranthor's results and refers patients to him for practical healing when her own spiritual work is insufficient.
 
 ### Enemies
 
 Traditionalist Shamans' Faction
-: Led by elder shamans like Farlen the Keeper, this faction views Ranthor as a dilution of true shamanic practice; they openly challenge his authority and question whether his crown tattoo marks him as a traitor who carries enemy (kingdom) symbolism into shamanic circles.
+: Led by elder shamans like [Farlen the Keeper]{.name data-type="being/npc"}, this faction views Ranthor as a dilution of true shamanic practice; they openly challenge his authority and question whether his crown tattoo marks him as a traitor who carries enemy (kingdom) symbolism into shamanic circles.
 
 Kingdom Hardliners
 : Military commanders and courtiers within Élavendre who view Ranthor's bridging work between kingdom and tribe as disloyalty; they see his shamanic service as abandonment of his former oath.
 
-Lord Vargen of the Obsidian Order
+Lord [[being-vargenhalmes|Vargen Hálmesnde]] of the [Obsidian Order]{.name data-type="affiliation/order"}
 : An ambitious noble with ties to dark magic and military ambition who views Ranthor's peace-brokering efforts as obstacles to his plans for territorial expansion; he has twice attempted to have Ranthor discredited or eliminated.
 
 ### Affiliations
@@ -515,10 +515,10 @@ Lord Vargen of the Obsidian Order
 Tribal Council of Shamans
 : Ranthor is a full council member and is often called upon as the tie-breaker in disputes between mystical and practical factions.
 
-Kingdom of Élavendre's Tribal Relations Bureau
+[Kingdom of Élavendre's Tribal Relations Bureau]{.name data-type="affiliation/governmental"}
 : Though not formally part of the kingdom's government, Ranthor maintains official recognition and occasional funding from this bureau for his peace-brokering work.
 
-The Order of Balanced Stone
+[The Order of Balanced Stone]{.name data-type="affiliation/order"}
 : An ancient and secretive organization of shamans who believe in integration of martial and mystical traditions; Ranthor is suspected of membership, though he neither confirms nor denies it.
 
 ## Plot Hooks

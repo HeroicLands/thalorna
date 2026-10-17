@@ -410,11 +410,11 @@ sohl:
 
 ![[trvshshrdr|Torvash Shiradar]]{float=top-left}
 
-Torvash stands 6'2" tall with a heavy build. He has tanned weathered skin, grey hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, and dark brows. He has a scar from forehead to cheek across his left eye.
+Torvash Shiradar stands 6'2" tall with a heavy build. He has tanned weathered skin, grey hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, and dark brows. He has a scar from forehead to cheek across his left eye.
 
 # Dossier {#dossier}
 
-Torvash Shiradar was born into the warrior caste of the [[affiliation-dunhartrbs|Dunhara Tribes]], the third son of Chieftain Rezhad. Unlike his older brothers, who fought endlessly over matters of status and honor, Torvash proved himself through practical mastery rather than political maneuvering. He earned his first war wounds at sixteen, his first killing at seventeen. By his early twenties, he had established himself as a warrior whose prowess could not be questioned.
+Torvash Shiradar was born into the warrior caste of the [[affiliation-dunhartrbs|Dunhara Tribes]], the third son of Chieftain [Rezhad]{.name data-type="being/npc"}. Unlike his older brothers, who fought endlessly over matters of status and honor, Torvash proved himself through practical mastery rather than political maneuvering. He earned his first war wounds at sixteen, his first killing at seventeen. By his early twenties, he had established himself as a warrior whose prowess could not be questioned.
 
 When tribal leadership fell vacant at his father's death, his two older brothers began a civil conflict that threatened to tear the entire tribe apart. Torvash, recognizing the danger, orchestrated a reconciliation that elevated neither of his brothers but instead unified the tribe under a council structure. Both brothers agreed to this arrangement—one died in a subsequent border conflict, the other accepted a position of honor without political authority. Torvash thus became chieftain not through right of succession but through demonstrated wisdom and, importantly, through the consensus of the tribe's elders and council.
 
@@ -430,7 +430,7 @@ His paranoia is not irrational but born of real dangers he has survived. He trus
 
 ### Motivation
 
-Torvash is driven by a single, all-consuming purpose: the survival and dominance of his tribe. Every decision he makes is filtered through this lens. He is not ambitious for personal power but for tribal security and strength. He serves Zúrathra, god of fertility and abundance, not through worship but through the practical work of securing his tribe's continuation and prosperity. His motivation is rooted in a deep, almost spiritual belief that his role is to be the shield between his people and the countless dangers arrayed against them.
+Torvash is driven by a single, all-consuming purpose: the survival and dominance of his tribe. Every decision he makes is filtered through this lens. He is not ambitious for personal power but for tribal security and strength. He serves the [[affiliation-zurathra|Faith of Zúrathra]], devoted to [[lore-zurathradty|Zúrathra]], god of fertility and abundance, not through worship but through the practical work of securing his tribe's continuation and prosperity. His motivation is rooted in a deep, almost spiritual belief that his role is to be the shield between his people and the countless dangers arrayed against them.
 
 ### Strengths
 
@@ -470,21 +470,21 @@ Threat to Stability
 
 ### Patrons
 
-The Council of Dunhara Tribal Elders
+[The Council of Dunhara Tribal Elders]{.name data-type="affiliation/governmental"}
 : The council that shares leadership responsibility with Torvash and provides legitimacy for his rule.
 
-The Spirit Keepers
+[The Spirit Keepers]{.name data-type="affiliation"}
 : The shamans and ritual specialists of the tribe who maintain Torvash's spiritual authority and advise on matters of religious significance.
 
 ### Enemies
 
-Kethrak the Challenger
-: A rival chieftain from the neighboring Valdun tribes who has been systematically consolidating power and openly positioning himself as a future threat to Torvash's dominion. The two have never directly fought, but each respects the other's capabilities and recognizes that conflict is eventually inevitable.
+[Kethrak the Challenger]{.name data-type="being/npc"}
+: A rival chieftain from the neighboring [Valdun tribes]{.name data-type="affiliation/polity"} who has been systematically consolidating power and openly positioning himself as a future threat to Torvash's dominion. The two have never directly fought, but each respects the other's capabilities and recognizes that conflict is eventually inevitable.
 
-The Imperial Garrison at [[place-khuqetmiglet|Khuqet-Miglet]]
+[The Imperial Garrison]{.name data-type="affiliation"} at [[place-khuqetmiglet|Khuqet-Miglet]]
 : The military outpost maintains nominal peace with the Dunhara, but recent commanders have proven hostile to tribal interests, leading to multiple border skirmishes and failed negotiations.
 
-Vazhdun, the Returning Son
+[Vazhdun]{.name data-type="being/npc"}, the Returning Son
 : Torvash's youngest son, once considered his heir, abandoned tribal life twenty years ago to live among the settled kingdoms. He has recently returned with outsider ideas about governance and change, threatening Torvash's traditionalist authority.
 
 ### Affiliations
@@ -492,10 +492,10 @@ Vazhdun, the Returning Son
 The Dunhara Tribes
 : His primary affiliation and the source of his identity and authority.
 
-The Council of Tribal Leaders
+[The Council of Tribal Leaders]{.name data-type="affiliation/governmental"}
 : A confederation of the Dunhara chieftains and war leaders who collectively advise on tribal matters.
 
-The Temple of Zúrathra
+[The Temple of Zúrathra]{.name data-type="affiliation"}
 : A devotional order dedicated to the god of fertility, prosperity, and abundance.
 
 ## Plot Hooks

@@ -425,11 +425,11 @@ sohl:
 
 ![[cndrthrchrymkhysvr|Chandratar Acharyamukhyeshvara]]{float=top-left}
 
-Chandratar stands 5'7" tall with a medium build. He has tawny brown skin, greying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
+Chandratar Acharyamukhyeshvara stands 5'7" tall with a medium build. He has tawny brown skin, greying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
 
 # Dossier {#dossier}
 
-Born to the merchant shrena families of [[place-vedyarargn|Vedyara]]'s merchant quarter, Chandratar was marked early for the apothecary's art. His family had connections to the ancient knowledge-keepers, and as a youth he apprenticed under the famed **Master Kari Dharmendra**, learning which herbs heal and which kill, and the deeper principles of their essences and how they act together. The fires of the Apothecaries' Shrena burned brightly in his spirit then—a desire to ease suffering, to preserve life. He rose swiftly through the shrena ranks, his sharp perception and extraordinary skill with Herblore setting him apart.
+Born to the merchant shrena families of the [[place-vedyarargn|Vedyara Region]]'s merchant quarter, Chandratar was marked early for the apothecary's art. His family had connections to the ancient knowledge-keepers, and as a youth he apprenticed under the famed Master [Kari Dharmendra]{.name data-type="being/npc"}, learning which herbs heal and which kill, and the deeper principles of their essences and how they act together. The fires of the [Apothecaries' Shrena of Vedyara]{.name data-type="affiliation/guild"} burned brightly in his spirit then—a desire to ease suffering, to preserve life. He rose swiftly through the shrena ranks, his sharp perception and extraordinary skill with Herblore setting him apart.
 
 Yet prosperity and renown drew attention of a different sort. Kulinas with poisoned rivals, merchants seeking to dissolve inconvenient competitors, and the shadowed folk who dwell in the margins of respectable society all began to find their way to his door. Chandratar discovered that the coin paid for a cure could be matched—and often exceeded—by coin paid for a bane. For the last two decades, he has walked an increasingly precarious line between healer and harbinger of death, his hands as likely to wield salvation as damnation. He maintains his legitimate apothecary practice, and indeed his remedies are among the finest in Vedyara, but whispers follow him through the shrena halls like smoke.
 
@@ -483,32 +483,32 @@ Dependence on Shrena Protection
 
 ### Patrons
 
-Serathis of the great house Velyara
+[Serathis]{.name data-type="being/npc"} of the great house [Velyara]{.name data-type="affiliation/lineage"}
 : A widow of a great house whose husband died under mysterious circumstances. She sees to Chandratar's material comfort and protection within circles of the great houses in exchange for his discretion and the occasional remedy that addresses her more pressing inconveniences.
 
-Shroshtin Divocheus
+[Shroshtin Divocheus]{.name data-type="being/npc"}
 : A ruthless trader who controls shipping interests throughout Vedyara. He occasionally requires Chandratar's talents to see that troublesome competitors or dishonest agents do not live to cause further problems.
 
-The Silk Merchants' Consortium
+[The Silk Merchants' Consortium]{.name data-type="affiliation/venture"}
 : A coalition of powerful merchant families who value Chandratar's ability to make particularly troublesome slaves, witnesses, or creditors vanish quietly from their enterprises.
 
 ### Enemies
 
-Apothecary Mandavar the Accuser
+Apothecary [Mandavar the Accuser]{.name data-type="being/npc"}
 : The most vocal critic within the Apothecaries' Shrena, Mandavar has been attempting for years to prove that Chandratar engages in poison-craft and murder-for-hire. His investigations have come dangerously close to truth on several occasions, and Chandratar lives in constant fear of what evidence Mandavar might uncover—or manufacture.
 
-The Crimson Sisters (Assassins' Collective)
+[The Crimson Sisters]{.name data-type="affiliation/criminal"} (Assassins' Collective)
 : A loose confederacy of hired killers who view Chandratar's poison-work as encroachment on their exclusive domain. There is unspoken war between them; each has attempted to frame the other for high-profile murders.
 
-Temple of Rasikara's Court
-: The priests of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of Rasikara through his abuse of divine knowledge for profane ends.
+[Temple of Rasikara's Court]{.name data-type="affiliation"}
+: The priests of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of [[lore-rasikaradty|Rasikara]] through his abuse of divine knowledge for profane ends.
 
 ### Affiliations
 
 Apothecaries' Shrena of Vedyara
 : His most legitimate and valued affiliation, though increasingly precarious. He maintains his position through careful politicking and significant contributions to the shrena's coffers.
 
-The Sealed Ledger (Underground Network)
+[The Sealed Ledger]{.name data-type="affiliation"} (Underground Network)
 : A loose confederation of individuals involved in morally questionable commerce who value discretion and skill. Membership is by reputation alone.
 
 Rasikara's Temple
@@ -517,7 +517,7 @@ Rasikara's Temple
 ## Plot Hooks
 
 The Poisoned Well
-: A mysterious plague begins spreading through Vedyara's lower districts, killing indiscriminately. The city guard suspects foul play and turns to Chandratar for analysis—but he recognizes the signature of the poison immediately. It is one of his own creations, stolen from his workshop months ago. He can confess, thereby admitting its creation, or lie and help track whoever stole it while hoping they do not use it against him or reveal his involvement to the authorities. The thief, it transpires, is **Apprentice Somnari**, a young healer from the temple who discovered what Chandratar truly does and stole the poison to prevent future murders. She plans to use it to assassinate Serathis, whom she believes Chandratar poisoned.
+: A mysterious plague begins spreading through Vedyara's lower districts, killing indiscriminately. The city guard suspects foul play and turns to Chandratar for analysis—but he recognizes the signature of the poison immediately. It is one of his own creations, stolen from his workshop months ago. He can confess, thereby admitting its creation, or lie and help track whoever stole it while hoping they do not use it against him or reveal his involvement to the authorities. The thief, it transpires, is Apprentice [Somnari]{.name data-type="being/npc"}, a young healer from the temple who discovered what Chandratar truly does and stole the poison to prevent future murders. She plans to use it to assassinate Serathis, whom she believes Chandratar poisoned.
 
 The Mentor's Ghost
 : A group of investigators arrives from the outer provinces seeking information about the death of **Master Kari Dharmendra** thirty years prior. They are building a case against an unnamed apothecary whom they believe poisoned her out of jealousy or rivalry in the craft. Chandratar realizes with horror that they have found witnesses, documentation, and evidence that will inevitably point to him. Worse, he is no longer certain whether he actually did poison her or whether the guilt has become so deep in him that he has constructed false memories. His former apprentices are being interviewed; his ledgers are being subpoenaed. He must either flee Vedyara or orchestrate a counter-investigation that casts suspicion elsewhere—but every move risks revealing more truth than he wishes exposed.

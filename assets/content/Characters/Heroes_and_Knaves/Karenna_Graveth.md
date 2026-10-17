@@ -416,13 +416,13 @@ sohl:
 
 ![[carengrvth|Kárenna Graveth]]{float=top-left}
 
-Kárenna stands 6'0" tall with a light build. She has warm olive skin, black hair, and green eyes. Her features include an oblong face, a prominent nose, a strong jawline, well-defined lips, and expressive brows.
+Kárenna Graveth stands 6'0" tall with a light build. She has warm olive skin, black hair, and green eyes. Her features include an oblong face, a prominent nose, a strong jawline, well-defined lips, and expressive brows.
 
 # Dossier {#dossier}
 
-Born into House Graveth, a cadet branch of nobility with connections to the royal court, Kárenna was raised in an environment where words were as valuable as swords and social grace was an imperative. Her early training in Heraldry began before she could properly write, learning the complex symbology and lineage of the noble houses, the elaborate forms of herald-craft, and the weight of official pronouncements. She proved adept at these studies, her natural eloquence and perceptiveness making her stand out among her peers.
+Born into [House Graveth]{.name data-type="affiliation/lineage"}, a cadet branch of nobility with connections to the royal court, Kárenna was raised in an environment where words were as valuable as swords and social grace was an imperative. Her early training in Heraldry began before she could properly write, learning the complex symbology and lineage of the noble houses, the elaborate forms of herald-craft, and the weight of official pronouncements. She proved adept at these studies, her natural eloquence and perceptiveness making her stand out among her peers.
 
-At twenty-four, she achieved full status as a Herald of [[place-tarvenirgn|Tarvénia]] and was attached to the royal household, a position of significant prestige. For the past eight years, she has been one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
+At twenty-four, she achieved full status as a Herald of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] and was attached to the royal household, a position of significant prestige. For the past eight years, she has been one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to form, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
 
 ## Psyche
 
@@ -474,36 +474,36 @@ Dependence on Position
 
 ### Patrons
 
-King Ilthero III
+King [[being-iltherozedim|Ilthero Zedimis]] III
 : The aging monarch values Kárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
 
-Duke Volkemo of the Eastern Marches
+Duke [[being-volkhemokald|Volkemo Kaldremis]] of the [Eastern Marches]{.name data-type="place/region"}
 : A powerful regional lord who has engaged Kárenna's services repeatedly in mediating disputes with neighboring provinces. He views her as a valuable ally and occasional lover, though their relationship is carefully concealed.
 
-Lady Hilthera Tsoluris, Master of Commerce
+Lady [[being-hiltheratsol|Hilthera Tsoluris]], Master of Commerce
 : The crown's chief advisor on trade and mercantile matters has become Kárenna's closest confidant and patron within court, offering guidance on the political currents of the royal household.
 
 ### Enemies
 
-Lord Ervotho Tholmaris, Herald Emeritus
+Lord [[being-revothotholm|Ervotho Tholmaris]], Herald Emeritus
 : The previous chief herald, now retired, views Kárenna as an upstart who lacks the necessary gravitas for her position. He has begun subtly undermining her authority, questioning her decisions to the king and his allies among the older nobility.
 
-The Canonist Orthodox
-: A traditionalist faction within the priesthood of the [[affiliation-arldnpnthn|Aureldian Pantheon]] who view Kárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
+[The Canonist Orthodox]{.name data-type="affiliation"}
+: A traditionalist faction among the priesthoods of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] who view Kárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
 
-Merchant-Lord Bedarrek
+Merchant-Lord [[being-bedarrekmozk|Bedarrek Mozkarris]]
 : A wealthy and politically connected trader whose interests Kárenna opposed in a recent negotiation, resulting in significant financial loss to his enterprises. He has been quietly gathering evidence of her conflicts of interest and inappropriate relationships, intending to expose her when circumstances allow.
 
 ### Affiliations
 
-City Heralds' Guild of Tarvénia
+[City Heralds' Guild of Tarvénia]{.name data-type="affiliation/guild"}
 : Her primary affiliation and source of authority. She maintains its political interests while advancing her own.
 
 House Graveth
 : Her family house, whose interests she subtly promotes through her position.
 
-The Aureldian Pantheon
-: A devoted follower of Pozeras the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
+The Faiths of the Aureldian Pantheon
+: A devoted follower of the [[affiliation-pozeras|Faith of Pozeras]] (Pozeras the Voyager), she maintains public religious devotion while privately entertaining doubts about institutional faith.
 
 ## Plot Hooks
 
@@ -520,7 +520,7 @@ The Succession Conspiracy
 : Kárenna learns through her palace network that a faction of powerful nobles is quietly working to manipulate the succession following King Ilthero's anticipated death—engineering circumstances that will place a weak but controllable heir on the throne. Several of her patrons are involved, including **Duke Volkemo**. She is approached to be the herald who will authenticate and announce the succession, knowing that her involvement would legitimize whatever scheme unfolds. To refuse is to lose crucial allies and mark herself as an obstacle; to cooperate is to become complicit in what she suspects may be a coup.
 
 The Shadow Voice
-: A mysterious contact approaches Kárenna with a proposition: become a covert agent for a foreign power (likely the Bizarian League), providing intelligence on the kingdom's diplomatic intentions, military readiness, and internal political fractures. In exchange, she receives wealth, protection, and assurance that her family will be safeguarded against future calamity. The contact has detailed knowledge of her secret daughter and seems to know everything about her vulnerabilities. She is given one week to decide, and the contact makes clear that refusal is not truly an option—they have invested too much in recruiting her.
+: A mysterious contact approaches Kárenna with a proposition: become a covert agent for a foreign power (likely the [[affiliation-byzarianlg|Bizarian League]]), providing intelligence on the kingdom's diplomatic intentions, military readiness, and internal political fractures. In exchange, she receives wealth, protection, and assurance that her family will be safeguarded against future calamity. The contact has detailed knowledge of her secret daughter and seems to know everything about her vulnerabilities. She is given one week to decide, and the contact makes clear that refusal is not truly an option—they have invested too much in recruiting her.
 
 The Herald's Rebellion
 : Younger members of the Herald's Guild, impressed by Kárenna's new approach but frustrated by the pace of institutional change, approach her about leading a reformist movement within the guild structure. They want her to challenge the traditional hierarchy, push for new rules that diminish the authority of elder heralds, and put the selection of official pronouncements to a vote. The reformation would require going against **Lord Ervotho Tholmaris** and the traditionalist leadership directly. Kárenna must weigh the potential to reshape the institution against the certain enmity of powerful figures and the risk that the reform movement, if it succeeds too dramatically, could destabilize the careful diplomatic equilibrium she has helped establish.

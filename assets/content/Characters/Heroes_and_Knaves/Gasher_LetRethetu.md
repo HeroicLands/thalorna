@@ -416,13 +416,13 @@ sohl:
 
 ![[gasherltrtht|Gasher Let'Rethetu]]{float=top-left}
 
-Gasher stands 6'1" tall with a medium build. He has ebony weathered skin, very dark brown hair, and brown eyes. His features include an oval face, a long nose, a narrow chin, an expressive mouth, very dark brows, and sculpted cheeks. He has a scar across his left eye.
+Gasher Let'Rethetu stands 6'1" tall with a medium build. He has ebony weathered skin, very dark brown hair, and brown eyes. His features include an oval face, a long nose, a narrow chin, an expressive mouth, very dark brows, and sculpted cheeks. He has a scar across his left eye.
 
 # Dossier {#dossier}
 
 **Early Years**
 
-Gasher was born in the merchant quarter of Galezkara, the capital of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], to a family of modest means. His mother, Linet, was a healer of some renown, while his father, Het'rem, worked as a scribe in the Temple of Chaq'ur. From childhood, Gasher showed an unusual gift for music and voice, teaching himself the lyre by listening to court musicians and recreating their melodies from memory alone. By his fourteenth year, he had already begun performing in the streets, and by his twentieth, he had attracted the patronage of a wealthy merchant's daughter named Aleziya, who sponsored his first real performances in the halls of nobility.
+Gasher was born in the merchant quarter of Galezkara, the capital of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], to a family of modest means. His mother, [Linet]{.name data-type="being/npc"}, was a healer of some renown, while his father, [Het'rem]{.name data-type="being/npc"}, worked as a scribe in the [Temple of Chaq'ur]{.name data-type="affiliation"}. From childhood, Gasher showed an unusual gift for music and voice, teaching himself the lyre by listening to court musicians and recreating their melodies from memory alone. By his fourteenth year, he had already begun performing in the streets, and by his twentieth, he had attracted the patronage of a wealthy merchant's daughter named [[being-aleziyazaqq2|Aleziya Zaqqara]], who sponsored his first real performances in the halls of nobility.
 
 **The Scar and Its Meaning**
 
@@ -430,7 +430,7 @@ The tragedy that scarred his face forever transformed his art. During a grand pe
 
 **Current Circumstances**
 
-Now at the height of his artistic powers, Gasher finds himself torn between the security of a patron's court and the freedom of the open road. For the past five years, he has been a sometime-member of the Minstrels' Guild, though his participation is sporadic at best—he values his independence too highly to submit fully to their rigid structures. He carries with him a harp of fine craftsmanship, gifted to him by the Guild Master's own son, alongside a worn notebook filled with lyrics of his own composition. His reputation has grown such that small lords compete for his presence at festivals and celebrations, yet he rarely commits to more than a season or two in any one place. Of late, rumor has it that he is searching for something—some lost song or ancient melody that he believes might yet unlock the deepest magic of music itself.
+Now at the height of his artistic powers, Gasher finds himself torn between the security of a patron's court and the freedom of the open road. For the past five years, he has been a sometime-member of [[affiliation-linzamlkhlth|Lin'Zamlu elu Au'Khelathu]], the Minstrels' Guild, though his participation is sporadic at best—he values his independence too highly to submit fully to their rigid structures. He carries with him a harp of fine craftsmanship, gifted to him by the Guild Master's own son, alongside a worn notebook filled with lyrics of his own composition. His reputation has grown such that small lords compete for his presence at festivals and celebrations, yet he rarely commits to more than a season or two in any one place. Of late, rumor has it that he is searching for something—some lost song or ancient melody that he believes might yet unlock the deepest magic of music itself.
 
 ## Psyche
 
@@ -442,7 +442,7 @@ His relationship with his own scar is complex. He wears it without shame but rar
 
 ### Motivation
 
-Gasher seeks to capture in music the full spectrum of human experience: joy and sorrow, triumph and defeat, love and loss. He believes that song has a power akin to magic, capable of healing the spirit in ways that nothing else can. His wanderlust also carries a quest—rumors speak of an ancient cycle of songs believed lost when the [[lore-akhfirsttab|First Tablets]] ended, melodies said to hold within them the gods' first utterances. Should such songs be recovered and performed, it is said they could reshape the world itself. Gasher's restlessness is in part this quest, though he cannot admit even to himself whether he truly believes such legends, or whether the search itself is merely an excuse to keep moving, to keep living.
+Gasher seeks to capture in music the full spectrum of human experience: joy and sorrow, triumph and defeat, love and loss. He believes that song has a power akin to magic, capable of healing the spirit in ways that nothing else can. His wanderlust also carries a quest—rumors speak of an ancient cycle of songs believed lost when [[lore-akhfirsttab|The First Tablets]] ended, melodies said to hold within them the gods' first utterances. Should such songs be recovered and performed, it is said they could reshape the world itself. Gasher's restlessness is in part this quest, though he cannot admit even to himself whether he truly believes such legends, or whether the search itself is merely an excuse to keep moving, to keep living.
 
 ### Strengths
 
@@ -485,18 +485,18 @@ Dependence on Mood
 [[being-aleziyazaqq2|Aleziya Zaqqara]]
 : A wealthy merchant widow of advancing years who once sponsored his rise to prominence. Though their romance ended decades ago, she remains his most reliable patron, offering him shelter and patronage whenever he returns to Galezkara. She sees in him the young idealist she once knew.
 
-Lord Makuptas of the Eastern Reaches
+Lord [[being-maquptas|Makuptas]] of the [Eastern Reaches]{.name data-type="place"}
 : A provincial lord who has competed with other nobles for the privilege of hosting Gasher's performances. He values Gasher's ability to enhance the prestige of his court and treats the musician with unusual respect and generosity.
 
-Master Uzner of the Minstrels' Guild
+Master [Uzner]{.name data-type="being/npc"} of the Minstrels' Guild
 : The current Guild Master, herself a retired performer, who recognizes Gasher's talent and occasionally pressures him to take greater responsibility within the Guild's structure—pressure he consistently resists.
 
 ### Enemies
 
-The Jade Serpent Collective
+[The Jade Serpent Collective]{.name data-type="affiliation"}
 : A cabal of traditional court bards who view Gasher's "common" style and his independence from established guild hierarchies as a threat to their monopoly on the ear of nobles. They have been known to spread rumors that his music is somehow tainted or that his scar marks him as cursed.
 
-Thelgus the Silent
+[Thelgus the Silent]{.name data-type="being/npc"}
 : A rival musician who has attempted to shadow Gasher from town to town, attempting to learn his methods and his original compositions. Gasher suspects Thelgus of attempting to steal his work for his own profit.
 
 ### Affiliations
@@ -510,16 +510,16 @@ Minstrels' Guild of Au'Khelathu
 ## Plot Hooks
 
 The Lost Songs of the First Age
-: Gasher has been contacted by Lady [[being-legirigulu2|Legirigulu]], a reclusive scholar and priestess of Chaq'ur who claims to have discovered fragmentary references to the fabled songs of creation mentioned in the oldest temple texts, which belong to the First Age ([[lore-akhfirsttab|the First Tablets]]). She believes that if these songs could be recovered and performed in the correct sequence, they would awaken something ancient and powerful—though whether this power would be benevolent or catastrophic, she does not know. She has offered him a sum of gold and a map indicating the location of a sealed temple deep in the desert where these songs might yet be preserved. The problem: the temple is protected by wards and guardians that have not been tested in centuries, and it lies in territory claimed by the [[affiliation-zelqetu2|Zelqetu]], a warband of desert nomads who brook no trespassers.
+: Gasher has been contacted by Lady [[being-legirigulu2|Legirigulu]], a reclusive scholar and priestess of the [[affiliation-tjaqur|Faith of Chaq'ur]] who claims to have discovered fragmentary references to the fabled songs of creation mentioned in the oldest temple texts, which belong to the First Age ([[lore-akhfirsttab|the First Tablets]]). She believes that if these songs could be recovered and performed in the correct sequence, they would awaken something ancient and powerful—though whether this power would be benevolent or catastrophic, she does not know. She has offered him a sum of gold and a map indicating the location of a sealed temple deep in the desert where these songs might yet be preserved. The problem: the temple is protected by wards and guardians that have not been tested in centuries, and it lies in territory claimed by [[affiliation-zelqetu2|The Zelqetu]], a warband of desert nomads who brook no trespassers.
 
 The Thief of Melodies
-: Gasher's greatest work, a song cycle he spent years composing called "The Descent of Galezkara," has been stolen. A merchant caravan carrying his belongings while he traveled overland was ambushed, and all his notebooks and original compositions were taken. He has since learned that the pieces are being performed throughout the western provinces by an unknown musician claiming them as original work. Worse, this thief is a gifted performer—some who have heard both versions claim they prefer the thief's interpretations. Now Gasher must track down this mysterious rival.
+: Gasher's greatest work, a song cycle he spent years composing called "[The Descent of Galezkara]{.name data-type="lore"}," has been stolen. A merchant caravan carrying his belongings while he traveled overland was ambushed, and all his notebooks and original compositions were taken. He has since learned that the pieces are being performed throughout the western provinces by an unknown musician claiming them as original work. Worse, this thief is a gifted performer—some who have heard both versions claim they prefer the thief's interpretations. Now Gasher must track down this mysterious rival.
 
 The Silent Oracle's Curse
-: In a small village called Meqet-Garu, Gasher once performed for the birthday celebration of **High Priestess Thapina**, a woman known throughout the region for her spiritual wisdom and grace. His performance that night was, by his own admission, less than his best—he was tired, distracted, perhaps drinking more than he should have. Shortly after, the priestess fell into a mysterious sleep from which she will not wake, and the village has blamed Gasher's poor performance as having somehow offended the gods or broken some unknown taboo. The priestess's brother, a merchant of considerable influence, has declared that only Gasher can reverse the curse—though he cannot say how, only that the solution will require Gasher to return to the village and rediscover what song the priestess's soul is calling for in whatever realm she now inhabits.
+: In a small village called [[place-meqetgaru2|Meqet-Garu]], Gasher once performed for the birthday celebration of **High Priestess [[being-thapinamequg|Thapina Meku'Gataru]]**, a woman known throughout the region for her spiritual wisdom and grace. His performance that night was, by his own admission, less than his best—he was tired, distracted, perhaps drinking more than he should have. Shortly after, the priestess fell into a mysterious sleep from which she will not wake, and the village has blamed Gasher's poor performance as having somehow offended the gods or broken some unknown taboo. The priestess's brother, a merchant of considerable influence, has declared that only Gasher can reverse the curse—though he cannot say how, only that the solution will require Gasher to return to the village and rediscover what song the priestess's soul is calling for in whatever realm she now inhabits.
 
 Recruitment by the Sun Court
-: An emissary of the high priests of Uqa'a has approached Gasher with an extraordinary proposal: the Temple of the Sun is mounting a grand ritual to be performed during the summer solstice, and they wish to commission him to compose and perform the ceremonial music. The honor would be immense, the payment astronomical, and it would cement his reputation forever. However, the ritual itself involves elements he does not fully understand, and there are whispers among the lower priests that something has been hidden from even the high clergy about the ritual's true purpose. Is it merely a festival, or does the Temple have some deeper purpose that Gasher would be complicit in by lending his art to their cause?
+: An emissary of the high priests of the [[affiliation-uqaa|Faith of Uqa'a]] has approached Gasher with an extraordinary proposal: the [Temple of the Sun]{.name data-type="affiliation"} is mounting a grand ritual to be performed during the summer solstice, and they wish to commission him to compose and perform the ceremonial music. The honor would be immense, the payment astronomical, and it would cement his reputation forever. However, the ritual itself involves elements he does not fully understand, and there are whispers among the lower priests that something has been hidden from even the high clergy about the ritual's true purpose. Is it merely a festival, or does the Temple have some deeper purpose that Gasher would be complicit in by lending his art to their cause?
 
 The Scar's Origin Revealed
 : Years have passed since the drunken noble wounded Gasher, but that man has never fully left the world of consequence. Gasher learns that the man—now fallen into poverty and desperation—has been spreading a story that contradicts the official account of how Gasher's scar was received. According to this man's account, the scar was not the result of random violence, but of Gasher's seduction of a noblewoman whose marriage was meant to secure a crucial political alliance. The story is false, but it is spreading, and Gasher's patrons are beginning to distance themselves. More troublingly, the noblewoman's family has taken notice and seeks to silence the man before he spreads further scandal. Gasher can let this man be killed, help him disappear, or confront the truth of his own past.

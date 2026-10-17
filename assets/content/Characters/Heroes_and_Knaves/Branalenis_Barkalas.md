@@ -419,7 +419,7 @@ sohl:
 
 ![[brnlnsbrkls|Branalenis Barkalas]]{float=top-left}
 
-Branalenis stands 5'10" tall with a medium build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a strong nose, a sharp jawline, a wide mouth, thick dark brows, and high cheeks.
+Branalenis Barkalas stands 5'10" tall with a medium build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a strong nose, a sharp jawline, a wide mouth, thick dark brows, and high cheeks.
 
 Her black hair is typically worn in neat plaited pigtails. Her eyes are perpetually alert, scanning her surroundings with the wariness of one accustomed to sudden danger.
 
@@ -429,9 +429,9 @@ Her black hair is typically worn in neat plaited pigtails. Her eyes are perpetua
 
 ### Daughter of the Sea
 
-Branalenis was born in the great port city of [[affiliation-provinclys|Alessa]] in the [[affiliation-vylarinmpr|Empire of Vylaria]], to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was the ground of her childhood. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.
+Branalenis was born in the great port city of [[place-alyssa|Alessa]] in the [[affiliation-vylarinmpr|Vylarian Empire]], to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was the ground of her childhood. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.
 
-At age six, she was effectively adopted by the crew of a merchant vessel, the _Seaflower_, whose captain—a gruff but fair-minded woman named Venthelen Kaldremis—recognized in the young girl an unusual combination of fearlessness, quick intelligence, and physical capability. From that point forward, her childhood was structured by the rhythms of sea trade rather than schooling.
+At age six, she was effectively adopted by the crew of a merchant vessel, the _[Seaflower]{.name data-type="vehicle"}_, whose captain—a gruff but fair-minded woman named [[being-venthelenkal|Venthelen Kaldremis]]—recognized in the young girl an unusual combination of fearlessness, quick intelligence, and physical capability. From that point forward, her childhood was structured by the rhythms of sea trade rather than schooling.
 
 ### The Rising Sailor
 
@@ -505,24 +505,24 @@ Tendency Toward Recklessness
 
 ### Patrons
 
-Captain Solteros Brazemen
+Captain [[being-solterosbraz|Solteros Brazemen]]
 : A merchant vessel captain who regularly seeks Branalenis out for contracts, recognizing her great value despite her difficult personality. He maintains hope that given time, she might accept permanent crew status.
 
-Master Harbormaster Talothar
+Master Harbormaster [[being-talotharzeno|Talothar Zenothenos]]
 : The official overseer of Alessa's harbor, who provides Branalenis with information about incoming vessels seeking crew and occasionally intervenes with less scrupulous captains.
 
-The Seafarers' Lodge
+[The Seafarers' Lodge]{.name data-type="affiliation"}
 : An informal fraternity of experienced sailors who gather to trade stories and information. Though Branalenis is not a full member due to her gender, several senior members have quietly advocated for her.
 
 ### Enemies
 
-Captain Drown
+Captain [Drown]{.name data-type="being/npc"}
 : A rivaling sailor of questionable ethics who views Branalenis as competition and has spread unfounded rumors about her reliability. They have clashed on at least three separate occasions.
 
 The Harbor Master's Rival Faction
 : Certain merchants who view Talothar as an obstacle to their trading operations have subtly worked to undermine his authority. Since Branalenis is associated with him, she has become a secondary target.
 
-Merchant Syndicate of Shallow Cove
+[Merchant Syndicate of Shallow Cove]{.name data-type="affiliation/criminal"}
 : An organized smuggling ring has attempted to recruit Branalenis into their operations. When she refused, they marked her as a threat due to her knowledge of ships and harbor layouts.
 
 ### Affiliations
@@ -530,7 +530,7 @@ Merchant Syndicate of Shallow Cove
 The Seafarers' Lodge
 : An informal association of seafarers, though her official status remains uncertain due to gender conventions.
 
-The Port Authority of Alessa
+[The Port Authority of Alessa]{.name data-type="affiliation/governmental"}
 : Not formally affiliated, but she maintains good relationships with most harbor officials.
 
 Independent Maritime Community

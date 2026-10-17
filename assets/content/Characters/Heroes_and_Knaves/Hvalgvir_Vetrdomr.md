@@ -412,7 +412,7 @@ sohl:
 
 ![[hvlgvrvtrdmr|Hvalgvir Vetrdómr]]{float=top-left}
 
-Hvalgvir stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and grey eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
+Hvalgvir Vetrdómr stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and grey eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, and straight brows. He has a tattoo of a snake on his chest.
 
 # Dossier {#dossier}
 
@@ -422,13 +422,13 @@ Hvalgvir stands 6'0" tall with a heavy build. He has tanned weathered skin, whit
 
 Hvalgvir was born the eldest son of a brewmaster in the northern reaches of [[place-nordheim|Nordheim]], in a small town whose fortunes rose and fell with the success of its seasonal harvests. His father expected him to inherit the family trade, and indeed, young Hvalgvir showed considerable talent in the craft—a keen nose for the subtle interplay of grain, herbs, and fermentation that separates a palatable ale from a fine one. But Hvalgvir's mother, a storyteller of considerable skill, saw something else in her son: a capacity for hospitality, for creating spaces where strangers became friends and the weary found solace.
 
-When his father died suddenly—struck down by fever when Hvalgvir was but twenty—the family brewery fell to his younger brother, Keth, while Hvalgvir was left to find his own path. Rather than resent this, Hvalgvir saw providence. He spent five years as a traveling merchant, learning the roads and the needs of distant communities. He mastered cooking alongside brewing, understanding that a full belly and satisfied palate were the foundations of fellowship.
+When his father died suddenly—struck down by fever when Hvalgvir was but twenty—the family brewery fell to his younger brother, [Keth Vetrdómr]{.name data-type="being/npc"}, while Hvalgvir was left to find his own path. Rather than resent this, Hvalgvir saw providence. He spent five years as a traveling merchant, learning the roads and the needs of distant communities. He mastered cooking alongside brewing, understanding that a full belly and satisfied palate were the foundations of fellowship.
 
 ### The Founding of the Hearth
 
 At twenty-five, Hvalgvir took what savings he had gathered and purchased a modest building in the larger trading town of [[place-odholm|Odholm]], where the crossroads of three major roads converged. The location was well chosen, but Hvalgvir's true genius lay in his understanding of what travelers and locals alike truly needed. He built a tavern that was also a sanctuary—a place where merchant princes and common folk could break bread together, where disputes were settled over shared drink rather than steel, where lonely wanderers could for a night feel the warmth of community.
 
-For nearly three decades, the Serpent's Hearth (named after his devotion to **Eidgar**) has been the center of Odholm's life. Hvalgvir's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
+For nearly three decades, the [Serpent's Hearth]{.name data-type="place/structure"} (named after his devotion to the **[[affiliation-eidgar|Faith of Eidgar]]**) has been the center of Odholm's life. Hvalgvir's ales are known throughout the kingdom; his cooking is spoken of in hushed, reverent tones; but most importantly, his establishment has become a refuge. During harsh winters, he has sheltered those with nowhere else to go. During conflicts, he has mediated between feuding families. During celebrations, his hall has echoed with the most joyful sounds any of his patrons have known.
 
 ### The Weight of Years
 
@@ -487,13 +487,13 @@ Blindness to Larger Problems
 
 ### Patrons
 
-Lady Constance Ashford
+Lady [Constance Ashford]{.name data-type="being/npc"}
 : A noble widow who has become Hvalgvir's confidante and occasional romantic interest. She secretly funds his more charitable endeavors and has warned him of court intrigue affecting his region.
 
-Magistrate Hvulgorv Hluskendik
+Magistrate [[being-hvulgorvhlus|Hvulgorv Hluskendik]]
 : The town's chief law enforcement, who relies heavily on Hvalgvir's network of informants and his insight into the community's pulse.
 
-Lin'Zuwaret elu Au'Khelathu of Odholm
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]] of Odholm
 : The collective of trading guilds treats Hvalgvir's inn as their de facto meeting place and headquarters; they provide steady business and seek his counsel on commercial matters.
 
 ### Enemies
@@ -501,21 +501,21 @@ Lin'Zuwaret elu Au'Khelathu of Odholm
 Keth Vetrdómr
 : His brother, and a source of deep pain for Hvalgvir, his younger brother inherited the family brewery and has built it into a vast commercial empire. Yet Keth resents Hvalgvir's greater fame and community standing, and he has subtly worked to undermine his brother's reputation and business.
 
-Thane Hrandinda
+Thane [[being-hrandynda|Hrandinda]]
 : A warlord of the northern territories who views the Serpent's Hearth as a den of spies and resistance, and has made veiled threats about bringing Hvalgvir and his establishment to heel.
 
-The Poison Cult of Ústaron
+[The Poison Cult of Ústaron]{.name data-type="affiliation"}
 : A heretical sect has begun to target Hvalgvir, viewing his worship of Eidgar and his work in promoting order as direct opposition to their chaotic spiritual vision. They have begun poisoning patrons who drink from his taproom.
 
 ### Affiliations
 
-The Innkeepers' Guild
+[The Innkeepers' Guild]{.name data-type="affiliation/guild"}
 : A formal organization whose meetings Hvalgvir attends, though he is often frustrated by their focus on profit over purpose.
 
 [[affiliation-eidhond|The Order of the Sworn Hand]]
 : An informal society of those devoted to the principle of fair judgment and order. Hvalgvir is considered one of their spiritual leaders, though he rarely claims the title.
 
-The Odholm Community Council
+[The Odholm Community Council]{.name data-type="affiliation/governmental"}
 : An ad-hoc assembly of merchants, craftspeople, and concerned citizens who often meet at the Serpent's Hearth to discuss town matters.
 
 ## Plot Hooks

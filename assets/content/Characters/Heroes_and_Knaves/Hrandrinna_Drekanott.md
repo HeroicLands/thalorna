@@ -418,7 +418,7 @@ sohl:
 
 ![[hrndrndrknt|Hrandrinna Drekanótt]]{float=top-left}
 
-Hrandrinna stands 5'7" tall with a light build. She has light fair skin, blonde hair, and brown eyes. Her features include an oval face, a small nose, a rounded chin, a wide mouth, light brows, and rosy cheeks. She has a scar running down her right leg.
+Hrandrinna Drekanótt stands 5'7" tall with a light build. She has light fair skin, blonde hair, and brown eyes. Her features include an oval face, a small nose, a rounded chin, a wide mouth, light brows, and rosy cheeks. She has a scar running down her right leg.
 
 Despite the demands of her craft, Hrandrinna carries herself with an easy grace and natural confidence, the bearing of someone completely comfortable in her own skin and sure of her competence.
 
@@ -428,7 +428,7 @@ Despite the demands of her craft, Hrandrinna carries herself with an easy grace 
 
 ### The Wild Child
 
-Hrandrinna Drekanótt was born into a family of thatchers in the northern reaches of the [[affiliation-kingdomlgn|Kingdom of Malagna]], where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, Druskthann Drekanótt, was a skilled thatcher of considerable reputation, and her mother, Glarvinda, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Hrandrinna showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's eye for a better method and for money.
+Hrandrinna Drekanótt was born into a family of thatchers in the northern reaches of the [[affiliation-kingdomlgn|Kingdom of Malagna]], where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, [Druskthann Drekanótt]{.name data-type="being/npc"}, was a skilled thatcher of considerable reputation, and her mother, [Glarvinda]{.name data-type="being/npc"}, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Hrandrinna showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's eye for a better method and for money.
 
 Rather than being confined to the domestic tasks expected of a girl, Hrandrinna was permitted—and encouraged—by her father to work alongside him on roofs. By age twelve, she was already assisting on full contracts. By sixteen, she was working on significant projects largely independently, with her father supervising and providing guidance rather than doing the work himself. Her unusual path raised eyebrows in conservative communities, but her competence was undeniable, and in a trade where quality work was more valued than social convention, she gradually earned acceptance.
 
@@ -500,23 +500,23 @@ Relationship Avoidance
 
 ### Patrons
 
-**Hvilgthann Glarvidrok**, Hersvald of [[place-glarvey|Glarvey]]
+**[[being-hvilgthanngl|Hvilgthann Glarvidrok]]**, Hersvald of [[place-glarvey|Glarvey]]
 : The hersvald has engaged Hrandrinna for all his holdings' thatching work for the past decade, appreciating both her quality and her willingness to work within what he can pay. Hvilgthann has become one of her most consistent and reliable clients.
 
-The Farmers' Collective of the Northern Reach
+[The Farmers' Collective of the Northern Reach]{.name data-type="affiliation"}
 : A coalition of farming families who pool resources for major maintenance projects contracts with Hrandrinna for seasonal work. While individual projects are small, the aggregate volume provides steady income and allows her to employ her assistant team consistently.
 
-Bishop Rilthorv of the Thrunvald Temple
+Bishop [[being-rilthorv|Rilthorv]] of the [Thrunvald Temple]{.name data-type="affiliation"}
 : The religious institution dedicated to the storm deity commissions Hrandrinna for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The bishop values her skill and the quality of her work.
 
 ### Enemies
 
-Dvilgthann the Conventional
+[Dvilgthann the Conventional]{.name data-type="being/npc"}
 : A neighboring thatcher of considerable age and conservative methods, Dvilgthann views Hrandrinna's new methods as dangerous shortcuts that compromise quality. He has publicly criticized her work and attempted to persuade clients away from her, viewing her success as a threat to the traditional understanding of the craft. Their disagreement over the craft has become tinged with personal dislike.
 
 ### Affiliations
 
-The Craftspeople's Collective of Malagna
+[The Craftspeople's Collective of Malagna]{.name data-type="affiliation"}
 : While not formally affiliated with any official guild (which would require her to follow more conservative standards), Hrandrinna maintains good relationships with the broader community of craftspeople and occasionally collaborates on large projects.
 
 ## Plot Hooks

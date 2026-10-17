@@ -433,13 +433,13 @@ sohl:
 
 ![[rethutrthllr|Rethute Reth'el'Leru]]{float=top-left}
 
-Rethute stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, and angular cheeks.
+Rethute Reth'el'Leru stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, and angular cheeks.
 
 # Dossier {#dossier}
 
 **From Humble Hearth to the Reenfré**
 
-[[being-rethutrthllr|Rethute]] was born the daughter of a cook in the grand house of a noble family of the Empire of [[affiliation-empireakhlth|Au'Khelathu]], learning her culinary arts at her mother's side in vast kitchens where she prepared food for dozens. However, rather than spending her life in service to a single household, she dreamed of something greater: a place where people of all stations could gather, where fine food and drink would flow freely, where stories would be exchanged and friendships forged. At twenty-three, using money saved across years of careful management and loans from supportive patrons of her cooking, she purchased a ramshackle building near the harbor and converted it into the Reenfré, an establishment that would become famous across the empire.
+Rethute was born the daughter of a cook in the grand house of a noble family of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], learning her culinary arts at her mother's side in vast kitchens where she prepared food for dozens. However, rather than spending her life in service to a single household, she dreamed of something greater: a place where people of all stations could gather, where fine food and drink would flow freely, where stories would be exchanged and friendships forged. At twenty-three, using money saved across years of careful management and loans from supportive patrons of her cooking, she purchased a ramshackle building near the harbor and converted it into the [Reenfré]{.name data-type="place/structure"}, an establishment that would become famous across the empire.
 
 **The Making of Legend**
 
@@ -447,7 +447,7 @@ Over three decades, Rethute transformed her modest inn into one of the city's mo
 
 **Current Authority**
 
-Now in her early sixties (though she claims fifty), Rethute reigns over the Reenfré with benevolent authority. Her establishment has expanded over the years, with private rooms for important guests, a kitchen that produces both everyday fare and culinary masterworks, and accommodations ranging from simple rooms for traveling merchants to more luxurious suites. She serves on the Local Innkeepers' Association and uses that position to advocate for the interests of hospitality workers and small proprietors. She has become the keeper of the city's stories—she knows the histories, scandals, secrets, and victories of hundreds of people, and this knowledge makes her a subtle but significant power broker. Yet for all her influence and success, she remains connected to the work of the inn, personally cooking many of its most important meals and greeting regular patrons with authentic warmth.
+Now in her early sixties (though she claims fifty), Rethute reigns over the Reenfré with benevolent authority. Her establishment has expanded over the years, with private rooms for important guests, a kitchen that produces both everyday fare and culinary masterworks, and accommodations ranging from simple rooms for traveling merchants to more luxurious suites. She serves on [[affiliation-linltgrglzkr|Lin'Lutgar elu Galezkara]], the Local Innkeepers' Association, and uses that position to advocate for the interests of hospitality workers and small proprietors. She has become the keeper of the city's stories—she knows the histories, scandals, secrets, and victories of hundreds of people, and this knowledge makes her a subtle but significant power broker. Yet for all her influence and success, she remains connected to the work of the inn, personally cooking many of its most important meals and greeting regular patrons with authentic warmth.
 
 ## Psyche
 
@@ -511,7 +511,7 @@ Age and Stamina
 Captain [[being-ahmetegazek2|Ahmetega Zekar]]
 : A decorated naval officer who frequently stays at the Reenfré and uses her common room for important meetings. He values her discretion and her ability to keep conversations private.
 
-Master Merchant Letmiya
+Master Merchant [[being-letmiya2|Letmiya]]
 : The head of a major trading concern who has relied on Rethute's recommendations for finding trustworthy business associates and reliable travel partners. Their relationship has made both of them substantial profits.
 
 [[affiliation-linrethglzkr|Lin'Rethu elu Galezkara]]
@@ -522,10 +522,10 @@ Various Adventuring Companies
 
 ### Enemies
 
-Vex the Competitor
+[Vex the Competitor]{.name data-type="being/npc"}
 : The proprietor of a rival establishment who views Rethute's success with jealousy and has begun spreading rumors about food quality and sanitation at the Reenfré. The conflict is more trade rivalry than true enmity, but it is real enough.
 
-City Magistrate Tomás
+City Magistrate [Tomás]{.name data-type="being/npc"}
 : An official who attempted to impose onerous new regulations on innkeepers, which Rethute organized opposition against. He views her advocacy as insubordination and has looked for ways to harass or fine her establishment.
 
 [[affiliation-lingeznglzkr|Lin'Gezan elu Galezkara]]

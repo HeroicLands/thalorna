@@ -423,7 +423,7 @@ sohl:
 
 ![[dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]]{float=top-left}
 
-Dvarnvir stands 5'11" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include an angular face, a prominent nose, a square jawline, a small mouth, dark brows. A distinguishing mark is a tattoo of a fire on the leg.
+Dvarnvir Hrafnsvald stands 5'11" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include an angular face, a prominent nose, a square jawline, a small mouth, dark brows. A distinguishing mark is a tattoo of a fire on the leg.
 
 # Dossier {#dossier}
 
@@ -431,15 +431,15 @@ Dvarnvir stands 5'11" tall with a medium build. He has light fair skin, dark bro
 
 ### From War to Craft
 
-Dvarnvir did not begin his life as a craftsman. At eighteen, he enlisted in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]'s levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, [[being-vrldmylhrfnsvld|Vrildmil]], on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the Burning of [[place-inthstead|Inthstead]], where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
+Dvarnvir did not begin his life as a craftsman. At eighteen, he enlisted in the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]'s levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, [[being-vrldmylhrfnsvld|Vrildmil Hrafnsvald]], on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the [Burning of Inthstead]{.name data-type="lore/history"} at [[place-inthstead|Inthstead]], where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
 
 ### The Homecoming
 
-When Dvarnvir finally returned from the wars at thirty-three, he found his wife dead—killed in a bandit raid on the farm while he was away fighting someone else's battles. His son [[being-vrldmylhrfnsvld|Vrildmil]], then fifteen, had survived and was already hardening into something fierce and angry. The boy blamed his father for not being there, and Dvarnvir could not argue with him. The guilt of that absence—and the knowledge that his wife died unprotected because he had chosen soldiering over family—has never left him. [[being-vrldmylhrfnsvld|Vrildmil]] soon joined the militia himself, and the two Hrafnsvald men settled into an uneasy coexistence: living in the same kingdom, seeing each other from time to time, but never quite able to speak about the thing that sits between them.
+When Dvarnvir finally returned from the wars at thirty-three, he found his wife dead—killed in a bandit raid on the farm while he was away fighting someone else's battles. His son Vrildmil, then fifteen, had survived and was already hardening into something fierce and angry. The boy blamed his father for not being there, and Dvarnvir could not argue with him. The guilt of that absence—and the knowledge that his wife died unprotected because he had chosen soldiering over family—has never left him. Vrildmil soon joined the militia himself, and the two Hrafnsvald men settled into an uneasy coexistence: living in the same kingdom, seeing each other from time to time, but never quite able to speak about the thing that sits between them.
 
 ### The Apprenticeship
 
-After leaving the military with an old injury to his shoulder, Dvarnvir apprenticed with **Master Hlarthmil Roofmaker**, learning not just the mechanics of tent-construction but the deep philosophy of shelter as salvation. He spent six years mastering the art of working canvas and leather, understanding how fabric could be treated to withstand rain, how seams could be sealed to hold against howling wind, how a well-made shelter could be the difference between life and death. He proved to be a brilliant student, combining his intimate knowledge of soldiers' needs with Hlarthmil's technical expertise.
+After leaving the military with an old injury to his shoulder, Dvarnvir apprenticed with Master [Hlarthmil Roofmaker]{.name data-type="being/npc"}, learning not just the mechanics of tent-construction but the deep philosophy of shelter as salvation. He spent six years mastering the art of working canvas and leather, understanding how fabric could be treated to withstand rain, how seams could be sealed to hold against howling wind, how a well-made shelter could be the difference between life and death. He proved to be a brilliant student, combining his intimate knowledge of soldiers' needs with Hlarthmil's technical expertise.
 
 ### Present Days
 
@@ -501,21 +501,21 @@ Limited Combat Ability
 
 ### Patrons
 
-Captain Hnurvthann Skalfidrok
+Captain [[being-hnurvthannsk|Hnurvthann Skalfidrok]]
 : A decorated military officer who has become Dvarnvir's best customer and closest friend. Hnurvthann purchases tents for his unit and regularly refers other soldiers and adventurers to Dvarnvir's workshop.
 
 Master Hlarthmil Roofmaker (Retired Mentor)
 : Though now elderly and mostly retired, Hlarthmil still consults with Dvarnvir on particularly difficult projects and has referred many of his own clients to his former apprentice.
 
-The Merchant Kalvin
+The Merchant [Kalvin]{.name data-type="being/npc"}
 : A wealthy trader who commissions custom tents for his expedition caravans and has paid premium prices for Dvarnvir's work, trusting his quality absolutely.
 
 ### Enemies
 
-Krildthann the Cutthroat
+[[being-krildthannth|Krildthann the Cutthroat]]
 : A rival tentmaker who operates at half Dvarnvir's prices by using inferior materials and shoddy construction. Krildthann's tents look impressive but fail under real stress, yet he has stolen many contracts Dvarnvir might have earned. Krildthann also spreads rumors that Dvarnvir charges inflated prices for military cachet.
 
-The Vithgard Cloth Syndicate
+[The Vithgard Cloth Syndicate]{.name data-type="affiliation/guild"}
 : A merchant guild that seeks to control all textile production in the region. They view independent craftspeople like Dvarnvir as obstacles and have attempted to force him to buy exclusively through their network, dramatically increasing his material costs.
 
 Unspoken Rivalry with Competitors
@@ -523,31 +523,31 @@ Unspoken Rivalry with Competitors
 
 ### Affiliations
 
-The Tentmakers' Guild of Vithgard
+[The Tentmakers' Guild of Vithgard]{.name data-type="affiliation/guild"}
 : A guild where he is a senior member and occasionally takes on formal apprentices, though he remains independent-minded and sometimes clashes with the Guild's leadership over the quality of work versus profit.
 
-The Old Soldiers' Lodge
+[The Old Soldiers' Lodge]{.name data-type="affiliation"}
 : An informal fraternity of veterans who gather monthly to share drink and stories. Dvarnvir contributes his skills and craftsmanship to the Lodge's projects.
 
 [[being-skrldthnhrfnsvld|Skraldthann Hrafnsvald]] (Brother)
-: Dvarnvir's elder brother by eight years, a celebrated clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. [[being-skrldthnhrfnsvld|Skraldthann]] left Vithgard long before Dvarnvir enlisted, pursuing the finer side of the textile craft among Norgaad's nobility. Dvarnvir finds his brother's obsession with fashion bewildering but respects the skill behind it—after all, they both learned to work fabric from the same parents. Their letters are infrequent but warm, and [[being-skrldthnhrfnsvld|Skraldthann]] has never once failed to send something extravagant for the winter holidays.
+: Dvarnvir's elder brother by eight years, a celebrated clothier in the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. Skraldthann left Vithgard long before Dvarnvir enlisted, pursuing the finer side of the textile craft among Norgaad's nobility. Dvarnvir finds his brother's obsession with fashion bewildering but respects the skill behind it—after all, they both learned to work fabric from the same parents. Their letters are infrequent but warm, and Skraldthann has never once failed to send something extravagant for the winter holidays.
 
 [[being-vrldmylhrfnsvld|Vrildmil Hrafnsvald]] (Son)
-: Dvarnvir's son, now a sergeant in the Vithgard militia. Their relationship carries the weight of years of absence and unspoken guilt. Dvarnvir is quietly proud of the man [[being-vrldmylhrfnsvld|Vrildmil]] has become, though he knows he had little hand in shaping him. He occasionally leaves supplies or a well-made tent at the militia barracks without a note—small gestures from a man who has never learned how to say what needs saying.
+: Dvarnvir's son, now a sergeant in the Vithgard militia. Their relationship carries the weight of years of absence and unspoken guilt. Dvarnvir is quietly proud of the man Vrildmil has become, though he knows he had little hand in shaping him. He occasionally leaves supplies or a well-made tent at the militia barracks without a note—small gestures from a man who has never learned how to say what needs saying.
 
 ## Plot Hooks
 
 The Expedition of the Doomed
-: A famous explorer, **Lady Althselda Glarvidrok**, approaches Dvarnvir with an extraordinary commission: she seeks the finest tents ever made for an expedition into the [[place-shtrdpks|Shattered Peaks]], a mountain range of danger where previous expeditions have vanished. The pay is astronomical, but rumors suggest she seeks something forbidden in those peaks—perhaps the tomb of an ancient sorcerer, or the city of **Hulavath**. Dvarnvir must decide whether the money and the artistic challenge of creating shelter for extreme conditions justify the suspicion that he may be equipping a dangerous quest with sinister purposes.
+: A famous explorer, **Lady [[being-althseldagla|Althselda Glarvidrok]]**, approaches Dvarnvir with an extraordinary commission: she seeks the finest tents ever made for an expedition into the [[place-shtrdpks|Shattered Peaks]], a mountain range of danger where previous expeditions have vanished. The pay is astronomical, but rumors suggest she seeks something forbidden in those peaks—perhaps the tomb of an ancient sorcerer, or the city of **[[lore-valdum|Hulavath]]**. Dvarnvir must decide whether the money and the artistic challenge of creating shelter for extreme conditions justify the suspicion that he may be equipping a dangerous quest with sinister purposes.
 
 The Sabotaged Supply
 : Dvarnvir receives an urgent order from **Captain Hnurvthann Skalfidrok** for emergency tents to shelter troops caught in unexpected winter weather. He works frantically to deliver them on time, and the tents save lives. Days later, he learns that someone has planted evidence suggesting his materials were stolen from the Cloth Syndicate, and he is accused of receiving stolen goods. The real culprit may be **Krildthann**, trying to discredit him, or someone with deeper political aims. Dvarnvir must prove his innocence while uncovering who is orchestrating his ruin.
 
 The Talking Tent
-: An old nomadic wanderer, **Zephyr the Unspeaking**, arrives at Dvarnvir's workshop requesting a specific tent design—one that matches a sketch the wanderer produces from memory. Dvarnvir realizes it matches designs described in fragments of old military records from before he was born. When he creates the tent according to specification, it seems to hum faintly in the wind, and people who sleep within it report vivid dreams of ancient times. The wanderer hints that this particular design contains subtle magical properties, and that **Zephyr** has been searching for someone capable of recreating it for years.
+: An old nomadic wanderer, [Zephyr the Unspeaking]{.name data-type="being/npc"}, arrives at Dvarnvir's workshop requesting a specific tent design—one that matches a sketch the wanderer produces from memory. Dvarnvir realizes it matches designs described in fragments of old military records from before he was born. When he creates the tent according to specification, it seems to hum faintly in the wind, and people who sleep within it report vivid dreams of ancient times. The wanderer hints that this particular design contains subtle magical properties, and that **Zephyr** has been searching for someone capable of recreating it for years.
 
 The Apprentice's Betrayal and Redemption
-: Dvarnvir's latest apprentice, a talented young woman named **Dagrun**, befriends the rival **Krildthann** and begins secretly documenting Dvarnvir's techniques to share with the competitor. When Dvarnvir discovers this betrayal, he is devastated—not angry, but deeply hurt. Dagrun, guilt-stricken, confesses that she needed money to care for her sick mother and Krildthann promised to pay her. Dvarnvir faces a choice: cast her out and prove that the craft world punishes ambition, or find a way to help her that honors both their needs and his own integrity.
+: Dvarnvir's latest apprentice, a talented young woman named [Dagrun]{.name data-type="being/npc"}, befriends the rival **Krildthann** and begins secretly documenting Dvarnvir's techniques to share with the competitor. When Dvarnvir discovers this betrayal, he is devastated—not angry, but deeply hurt. Dagrun, guilt-stricken, confesses that she needed money to care for her sick mother and Krildthann promised to pay her. Dvarnvir faces a choice: cast her out and prove that the craft world punishes ambition, or find a way to help her that honors both their needs and his own integrity.
 
 The Expedition That Matters
-: A ragged group of refugees fleeing persecution approach Dvarnvir requesting enough tents to shelter two hundred people—they will take them on a dangerous journey to the Free Lands. They have little coin, and the Cloth Syndicate has threatened to prosecute anyone helping them escape. The King's tax collectors are actively seeking to intercept this refugee group. Dvarnvir must decide whether to risk his reputation and safety to help people he'll never meet find freedom, and whether his craftsmanship is meant only for those who can afford it, or whether it has a higher purpose.
+: A ragged group of refugees fleeing persecution approach Dvarnvir requesting enough tents to shelter two hundred people—they will take them on a dangerous journey to the [Free Lands]{.name data-type="place"}. They have little coin, and the Cloth Syndicate has threatened to prosecute anyone helping them escape. The King's tax collectors are actively seeking to intercept this refugee group. Dvarnvir must decide whether to risk his reputation and safety to help people he'll never meet find freedom, and whether his craftsmanship is meant only for those who can afford it, or whether it has a higher purpose.

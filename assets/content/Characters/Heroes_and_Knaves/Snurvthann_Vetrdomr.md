@@ -425,15 +425,15 @@ sohl:
 
 ![[snrvthnvtrdmr|Snurvthann Vetrdómr]]{float=top-left}
 
-Snurvthann Vetrdómr is a man shaped by nearly five decades of exposure to wind, weather, and the unforgiving demands of his craft. At 6'1" and forty-seven winters, he carries himself with the upright posture of one accustomed to working at dangerous heights, though his frame has begun to thicken slightly through the middle—evidence of a body aging while still demanding physical labor. His tanned skin is deeply weathered, creased by sun and wind into a topography of experience. His eyes, a warm hazel touched with flecks of green, hold the patient, observant gaze of someone who reads the sky as readily as others read text. Dark brown hair, showing significant silver, is bound in a traditional wrapped braid, a style common to Malagna's older craftspeople. His hands are perhaps his most telling feature—broad, calloused, with the careful strength of a man accustomed to working at terrible heights where a single careless movement means death. A faded scar traces along his left ribs, a souvenir from a fall that nearly killed him twenty years past.
+Snurvthann Vetrdómr is a man shaped by nearly five decades of exposure to wind, weather, and the unforgiving demands of his craft. At 6'1" and forty-seven winters, he carries himself with the upright posture of one accustomed to working at dangerous heights, though his frame has begun to thicken slightly through the middle—evidence of a body aging while still demanding physical labor. His tanned skin is deeply weathered, creased by sun and wind into a topography of experience. His eyes, a warm hazel touched with flecks of green, hold the patient, observant gaze of someone who reads the sky as readily as others read text. Dark brown hair, showing significant silver, is bound in a traditional wrapped braid, a style common to the [[affiliation-kingdomlgn|Kingdom of Malagna]]'s older craftspeople. His hands are perhaps his most telling feature—broad, calloused, with the careful strength of a man accustomed to working at terrible heights where a single careless movement means death. A faded scar traces along his left ribs, a souvenir from a fall that nearly killed him twenty years past.
 
 # Dossier {#dossier}
 
-Snurvthann was born in a small village in the Kingdom of Malagna to Hrindthann Vetrdómr, a thatcher of considerable skill, and **Snirvselda**, a woman known for her knowledge of weather-working and old folk magic. From his earliest memory, Snurvthann spent his days watching his father repair and construct roofs, learning that thatching was a demanding craft requiring an understanding of drainage, wind patterns, insulation, and the precise angle at which thatch naturally sheds water.
+Snurvthann was born in a small village in the Kingdom of Malagna to [Hrindthann Vetrdómr]{.name data-type="being/npc"}, a thatcher of considerable skill, and [Snirvselda]{.name data-type="being/npc"}, a woman known for her knowledge of weather-working and old folk magic. From his earliest memory, Snurvthann spent his days watching his father repair and construct roofs, learning that thatching was a demanding craft requiring an understanding of drainage, wind patterns, insulation, and the precise angle at which thatch naturally sheds water.
 
 Apprenticed at ten years old—when many would consider him too young—Snurvthann spent ten years training under his father, gradually building the strength, balance, and nerve required to work confidently at height. At twenty, Snurvthann took his first solo commission, and by thirty, had established himself as a master craftsperson whose work outlasted anyone else's in the region. His roofs last decades longer than typical—not through superior materials but through careful craftsmanship and understanding of the craft's finer points.
 
-At thirty-five, Snurvthann married Unthinda, a farmer's daughter, and they had two children before she died in childbirth bearing a third five years into their marriage. Rather than withdraw into grief, Snurvthann threw himself into his work, eventually raising his two surviving children while maintaining his reputation. His daughter **Snarvselda** (named from his mother's stem) left the village at twenty to seek opportunities in the capital; his son Hlarthann initially worked alongside him but eventually chose the trade of shipwright instead, a disappointment Snurvthann has never entirely overcome. Now a widower of twelve years with adult children pursuing their own paths, Snurvthann works with undiminished dedication, though the physical demands are beginning to visibly weigh upon him.
+At thirty-five, Snurvthann married [Unthinda]{.name data-type="being/npc"}, a farmer's daughter, and they had two children before she died in childbirth bearing a third five years into their marriage. Rather than withdraw into grief, Snurvthann threw himself into his work, eventually raising his two surviving children while maintaining his reputation. His daughter [Snarvselda]{.name data-type="being/npc"} (named from his mother's stem) left the village at twenty to seek opportunities in the capital; his son [Hlarthann]{.name data-type="being/npc"} initially worked alongside him but eventually chose the trade of shipwright instead, a disappointment Snurvthann has never entirely overcome. Now a widower of twelve years with adult children pursuing their own paths, Snurvthann works with undiminished dedication, though the physical demands are beginning to visibly weigh upon him.
 
 ## Psyche
 
@@ -441,7 +441,7 @@ At thirty-five, Snurvthann married Unthinda, a farmer's daughter, and they had t
 
 Snurvthann is quiet and somewhat taciturn, with little interest in clever speech or elaborate conversation. He expresses himself primarily through his work, and those who attempt to know him must learn to read the language of his craft. He is honest to the point of bluntness—a customer asking if he can stretch their purse to add extra work will receive a straightforward answer about whether it can be done well or not, without flattery or false assurance.
 
-His relationship with his faith, centered on [[lore-motefnirdty|Mótefnir]] the Maker, is deeply felt but expressed simply. He observes the seasonal rites and makes offerings at appropriate times, viewing his work as participation in the making Mótefnir has never finished. He carries a small carved figurine of the god, touched for blessings before beginning particularly complex or dangerous work. Despite his quiet nature, Snurvthann possesses a dry, understated humor that surfaces in conversation with fellow craftspeople—observations about weather, clients, or the general absurdities of his profession delivered in deadpan tones that cause real laughter among those who work closely with him.
+His relationship with the [[affiliation-motefnir|Faith of Mótefnir]], devoted to [[lore-motefnirdty|Mótefnir]] the Maker, is deeply felt but expressed simply. He observes the seasonal rites and makes offerings at appropriate times, viewing his work as participation in the making Mótefnir has never finished. He carries a small carved figurine of the god, touched for blessings before beginning particularly complex or dangerous work. Despite his quiet nature, Snurvthann possesses a dry, understated humor that surfaces in conversation with fellow craftspeople—observations about weather, clients, or the general absurdities of his profession delivered in deadpan tones that cause real laughter among those who work closely with him.
 
 ### Motivation
 
@@ -485,13 +485,13 @@ Limited Business Acumen
 
 ### Patrons
 
-The Farmer's Collective of Malagna's Outer Reaches
+[The Farmer's Collective of Malagna's Outer Reaches]{.name data-type="affiliation"}
 : Agricultural families throughout the region contract Snurvthann for roof work, often waiting months for his availability. They consider his work worth the wait and the expense, trusting him implicitly with their family's primary shelter.
 
-Snilthmil, Local Hersvald
+[Snilthmil]{.name data-type="being/npc"}, Local Hersvald
 : The district leader maintains Snurvthann on semi-retainer, so that the Hersvald's hall and outlying buildings receive maintenance from the finest craftsperson available. This provides Snurvthann with steady work and prestige.
 
-The Temple of Mótefnir
+[The Temple of Mótefnir]{.name data-type="affiliation"}
 : The local priesthood of Snurvthann's god regularly contract his services for the temple's complex roofing requirements, viewing the maintenance of the sacred structure's integrity as highly important.
 
 Wealthy Merchants Traveling to the Capital
@@ -499,10 +499,10 @@ Wealthy Merchants Traveling to the Capital
 
 ### Enemies
 
-Master Thatcher Skalfmil
+Master Thatcher [Skalfmil]{.name data-type="being/npc"}
 : A younger, more forward-looking competitor operating in the region who uses newer materials and quicker methods that undercut Snurvthann's both in cost and speed. Skalfmil views Snurvthann as an obstacle to his own advancement and has deliberately sought to replace him on certain contracts.
 
-The Merchant Synod of Progress
+[The Merchant Synod of Progress]{.name data-type="affiliation"}
 : A loose organization of traders and merchants pushing for faster and cheaper building. They view traditional craftspeople like Snurvthann as slow and costly and are paying for attempts to make roofing that can be turned out in quantity.
 
 His own aging, an inner enemy
@@ -510,10 +510,10 @@ His own aging, an inner enemy
 
 ### Affiliations
 
-The Rural Craftsmen's Guild of Malagna
+[The Rural Craftsmen's Guild of Malagna]{.name data-type="affiliation/guild"}
 : Snurvthann holds senior rank and is respected by all members, though he rarely attends guild functions. The guild recognizes him as one of its finest living practitioners.
 
-The Thatcher's Society
+[The Thatcher's Society]{.name data-type="affiliation"}
 : A smaller, more specialized organization of roof craftspeople across the kingdom. Snurvthann is among the most senior active members and is occasionally consulted on difficult projects.
 
 ## Plot Hooks
@@ -528,7 +528,7 @@ The Impossible Commission
 : A mysterious patron approaches Snurvthann with unprecedented specifications: create a roof that sheds water and also draws the sky's blessing, a roof that will make the building beneath it a place of healing and positive fortune. The patron can pay any price and offers no timeline constraint. The commission tantalizes Snurvthann because it asks him for something his working life has never approached: spiritual meaning through craft, beyond functional excellence. As he works, Snurvthann discovers he is capable of this work, but it requires merging his technical mastery with intuitive magical sensitivity he didn't know he possessed. The process slowly reveals that Snurvthann may have inherited his mother's latent gift for weather-working, something his practical focus on traditional craft has suppressed. He can pursue this emerging spiritual side of his work or hold to the material mastery he has cultivated.
 
 The Mentor's Despair
-: Snurvthann finally accepts an apprentice—a young person showing real aptitude and dedication to learning thatching. However, after only two months of training, the apprentice, young Ralthorv, suffers a catastrophic fall from height, resulting in injuries that leave them unable to work at elevation. Ralthorv survives but faces a future of disability that prevents continuation in their chosen craft. Snurvthann, taking personal responsibility for the accident despite it being the unavoidable risk of training, becomes determined to find a way for Ralthorv to continue in the craft despite the physical limitation. He redesigns how the work is done, creates special tools, and potentially explores magical solutions to allow Ralthorv to contribute meaningfully.
+: Snurvthann finally accepts an apprentice—a young person showing real aptitude and dedication to learning thatching. However, after only two months of training, the apprentice, young [Ralthorv]{.name data-type="being/npc"}, suffers a catastrophic fall from height, resulting in injuries that leave them unable to work at elevation. Ralthorv survives but faces a future of disability that prevents continuation in their chosen craft. Snurvthann, taking personal responsibility for the accident despite it being the unavoidable risk of training, becomes determined to find a way for Ralthorv to continue in the craft despite the physical limitation. He redesigns how the work is done, creates special tools, and potentially explores magical solutions to allow Ralthorv to contribute meaningfully.
 
 The Prophecy in Reed and Straw
 : An itinerant seer arrives in the village and, seeing Snurvthann working on a roof, becomes agitated and insists on speaking with him privately. The seer claims that the pattern Snurvthann is creating in his thatching matches a pattern from an ancient prophecy about a craftsperson whose hands will literally rebuild the world during an apocalyptic transformation. The seer is terrified and believes Snurvthann's work may be inadvertently triggering cosmic changes. Snurvthann initially dismisses this as the seer's derangement, but strange occurrences follow: buildings Snurvthann thatches become focal points for unusual phenomena, people gravitate toward them during crises, the structures seem to hold luck and protection inexplicably. Snurvthann must investigate whether he is merely a skilled craftsperson or if his apparently ordinary work is somehow cosmically significant.

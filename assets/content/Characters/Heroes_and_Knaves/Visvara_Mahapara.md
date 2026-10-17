@@ -420,7 +420,7 @@ sohl:
 
 ![[visvarmhpr|Vishvara Mahapara]]{float=top-left}
 
-Vishvara stands 6'4" tall with a heavy build. He has warm golden brown skin, dark black hair, and warm brown eyes. His features include a soft-featured face, a prominent nose, a tapered chin, full lips, warm golden brows, and soft cheeks. He has a scar on his right calf.
+Vishvara Mahapara stands 6'4" tall with a heavy build. He has warm golden brown skin, dark black hair, and warm brown eyes. His features include a soft-featured face, a prominent nose, a tapered chin, full lips, warm golden brows, and soft cheeks. He has a scar on his right calf.
 
 # Dossier {#dossier}
 
@@ -428,9 +428,9 @@ Vishvara stands 6'4" tall with a heavy build. He has warm golden brown skin, dar
 
 ### Born to the Waters
 
-Vishvara was born to a fishing family in one of the [[place-vedyarargn|Vedyara]] city-states' coastal settlements, the son of **Mahapara the Elder**, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Vishvara knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.
+Vishvara was born to a fishing family in one of the [[place-vedyarargn|Vedyara Region]] city-states' coastal settlements, the son of [Mahapara the Elder]{.name data-type="being/npc"}, a competent but undistinguished fisherman whose life was as unremarkable as it was difficult. From his earliest years, Vishvara knew the sea—learned to respect its moods, to read its signs, to accept both its generosity and its cruelty. His childhood was one of subsistence, of helping his father with nets and lines, of hunger when the catches were poor and modest plenty when fortune favored them.
 
-At age twelve, recognizing that his son possessed an instinctive affinity for the water and a body suited to the labors required, Vishvara's father arranged for him to be taken on as a cabin boy aboard **The Merchant's Fortune**, a substantial trading vessel captained by **Captain Samurata**, a seaman of great repute, known for his exacting standards and his unwillingness to tolerate laziness or negligence.
+At age twelve, recognizing that his son possessed an instinctive affinity for the water and a body suited to the labors required, Vishvara's father arranged for him to be taken on as a cabin boy aboard [The Merchant's Fortune]{.name data-type="vehicle"}, a substantial trading vessel captained by Captain [[being-samuratarath|Samurata Ratamara]], a seaman of great repute, known for his exacting standards and his unwillingness to tolerate laziness or negligence.
 
 ### The Making of a Sailor
 
@@ -498,7 +498,7 @@ Vulnerability Outside His Element
 
 ### Patrons
 
-The Merchant Captains' Collective
+[The Merchant Captains' Collective]{.name data-type="affiliation"}
 : Various ship captains and merchants who regularly contract Vishvara's services respect his skill and seek his guidance. This informal circle provides him with steady employment.
 
 Shipping Industry Veterans
@@ -506,10 +506,10 @@ Shipping Industry Veterans
 
 ### Enemies
 
-Captain Garunya the Reckless
+Captain [[being-garunyataray|Garunya Tarayara]] the Reckless
 : A younger, ambitious captain who represents everything Vishvara despises—puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. Their conflicts over the trade have become personal, with Garunya viewing Vishvara as an obstacle to progress.
 
-The Trade Wardens
+[The Trade Wardens]{.name data-type="affiliation/governmental"}
 : A new office of the crown charged with speeding maritime commerce has begun issuing rules that require faster sailing schedules and smaller crews. Vishvara views these policies as dangerous and has publicly criticized them, earning the Bureau's enmity.
 
 ### Affiliations
@@ -523,7 +523,7 @@ The Lost Crew
 : A merchant vessel that Vishvara trained crew members for vanishes without trace on a standard trade route. An investigation suggests the ship encountered something unknown in the deep waters—perhaps a creature, perhaps something worse. The merchant company that owns the vessel wants the matter buried, but Vishvara becomes obsessed with discovering what happened to the sailors he trained, leading him on a dangerous voyage into waters that even Captain Samurata would have avoided.
 
 The Young Reformer
-: A brilliant young sailor named **Arinasha** apprentices under Vishvara and learns the traditional ways, but also possesses the formal education and understanding of new nautical instruments that Vishvara lacks. Arinasha challenges Vishvara's resistance to change while maintaining respect for the old master's wisdom. Together, they must find a marriage of the old ways and the new, or watch seafaring split into increasingly hostile camps.
+: A brilliant young sailor named [Arinasha]{.name data-type="being/npc"} apprentices under Vishvara and learns the traditional ways, but also possesses the formal education and understanding of new nautical instruments that Vishvara lacks. Arinasha challenges Vishvara's resistance to change while maintaining respect for the old master's wisdom. Together, they must find a marriage of the old ways and the new, or watch seafaring split into increasingly hostile camps.
 
 The Betrayed Crew
 : Vishvara discovers that several of the sailors he trained and trusted have become involved in smuggling operations—not out of greed but out of desperation, as legitimate merchant work has become increasingly unreliable and unprofitable. He can report them, destroying people he cares about, or involve himself in crime to protect them.

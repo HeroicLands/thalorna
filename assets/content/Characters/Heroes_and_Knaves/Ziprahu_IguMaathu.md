@@ -419,15 +419,15 @@ sohl:
 
 ![[ziprahuigmth|Ziprahu Igu'Maathu]]{float=top-left}
 
-Ziprahu stands 5'8" tall with a medium build. He has dark skin, deep black hair, and brown eyes. His features include a straight narrow nose, a narrow chin, and elegantly curved brows. He has a tattoo of a knight's helmet on his shoulder.
+Ziprahu Igu'Maathu stands 5'8" tall with a medium build. He has dark skin, deep black hair, and brown eyes. His features include a straight narrow nose, a narrow chin, and elegantly curved brows. He has a tattoo of a knight's helmet on his shoulder.
 
 # Dossier {#dossier}
 
-Ziprahu was born into the Ipmaaku family, a minor merchant household of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] with no particular distinction or wealth. His father, [[being-gaheripmaaqu|Gaher Ipmaaku]], was a lesser official in the customs house, a position of modest authority but considerable responsibility for protecting valuable goods. It was Gaher who first introduced young Ziprahu to locks and security, teaching him that these mechanisms were conversations between those who would protect and those who would steal.
+Ziprahu was born into the [Ipmaaku family]{.name data-type="affiliation/lineage"}, a minor merchant household of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] with no particular distinction or wealth. His father, [[being-gaheripmaaqu|Gaher Ipmaaku]], was a lesser official in the customs house, a position of modest authority but considerable responsibility for protecting valuable goods. It was Gaher who first introduced young Ziprahu to locks and security, teaching him that these mechanisms were conversations between those who would protect and those who would steal.
 
 Apprenticed at thirteen to Master [[being-zokhothu2|Zokhothu]], then the Empire's foremost locksmith, Ziprahu spent twelve years in intensive study of his craft. Zokhothu was an exacting teacher whose patience was famous but whose standards were impossibly high. Under his tutelage, Ziprahu learned that locks were expressions of philosophy as much as mechanical devices—they were about trust, about creating a visible and tactile representation of the boundary between the protected and the vulnerable. When Zokhothu retired at Ziprahu's twenty-fifth year, he personally recommended Ziprahu as his successor to the guild, an honor rarely granted.
 
-Now, for fifteen years, Ziprahu has maintained the highest standards of his craft. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his faith in [[lore-gewaatisdty|Gewa'atis]] the voyager, and the small circle of guild members who recognize his genius.
+Now, for fifteen years, Ziprahu has maintained the highest standards of his craft. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his commitment to the [[affiliation-gewaatis|Faith of Gewa'atis]], devoted to [[lore-gewaatisdty|Gewa'atis]] the voyager, and the small circle of guild members who recognize his genius.
 
 ## Psyche
 
@@ -485,29 +485,29 @@ Treasurer [[being-imhoqar2|Imhoqar]]
 Lady [[being-balenermshg2|Baleneri Mesheget]]
 : A noble of considerable wealth and paranoid disposition. She commissions new locks and security modifications every few months, trusting no one but Ziprahu with access to her estate's systems. She pays extraordinarily well and provides social access to her wealthy peers.
 
-[[affiliation-lutgewaatis|The Lut-Gewa'atis]]
+[[affiliation-lutgewaatis|Lut-Gewa'atis]]
 : The priesthood maintains contracts with Ziprahu for maintaining the Temple's sacred vaults. He is one of only three individuals alive who knows the complete configuration of the Temple's security system.
 
-Master [[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]
+[[affiliation-linzwrtglzk3|Lin'Zuwaret elu Galezkara]]
 : The guild of high-value traders collectively employ Ziprahu as their adviser on security, and he regularly designs custom vault systems for member houses.
 
 ### Enemies
 
-Merchant Luyat the Bold
+Merchant [Luyat the Bold]{.name data-type="being/npc"}
 : A thief of considerable skill who has attempted multiple times to break Ziprahu's locks and steal from his clients. Each attempt has failed, and Luyat harbors a deep hatred for the locksmith, viewing him as a personal nemesis and obstacle to his art.
 
-Master [[affiliation-linzokhothu|Lin'Zokhothu]]
-: The retired master's three children blame Ziprahu for outpacing their inheritance and belief that one of them should have succeeded Zokhothu. They spread rumors that Ziprahu's success owes to theft of their father's designs, a claim without foundation but which causes periodic gossip.
+[[affiliation-linzokhothu|Lin'Zokhothu]]
+: The retired master's three children blame Ziprahu for outpacing their inheritance and believe that one of them should have succeeded Zokhothu. They spread rumors that Ziprahu's success owes to theft of their father's designs, a claim without foundation but which causes periodic gossip.
 
 [[affiliation-linqelzu|Lin'Qelzu]]
 : A secretive organization of thief-philosophers who view any lock as a puzzle to be solved and see Ziprahu's work as a direct challenge. They have made it a point of honor to breach at least one of his major commissions.
 
 ### Affiliations
 
-Locksmiths' Guild of Au'Khelathu
+[[affiliation-linqelzkhlth|Lin'Qelzu elu Au'Khelathu]]
 : Ziprahu holds the highest rank within the guild and serves on its council of masters. Though he attends meetings reluctantly and speaks rarely, his voice carries significant weight in guild decisions.
 
-The Scholar's Archive
+[The Scholar's Archive]{.name data-type="affiliation"}
 : Ziprahu maintains membership in this institution and regularly consults on matters of security and lock history, though he contributes little directly beyond his passive presence.
 
 ## Plot Hooks
@@ -519,7 +519,7 @@ The Apprentice's Betrayal
 : Ziprahu finally agrees to take on a formal apprentice after decades of refusing, recognizing that his techniques cannot be lost when age eventually takes him from his craft. The apprentice, young [[being-menlaha|Menlaha]], is brilliant and dedicated, soaking up knowledge at an almost supernatural rate. After two years of intense training, Menlaha steals Ziprahu's masterwork—a lock design so cunning it can be opened by three specific keys, none alone sufficient, working in concert. Menlaha disappears into the criminal underworld, and Ziprahu discovers that his former apprentice is now designing locks for thieves, specifically locks intended to be broken by collaborators or safeguards that can be circumvented through methods only Ziprahu ever taught.
 
 The Living Lock
-: An ancient lock from the [[lore-akhfirsttab|First Tablets]] is brought to Ziprahu for restoration—an artifact of such age and peculiar design that no one alive knows how to open it or what principles govern its operation. The lock appears to shift subtly when not directly observed, its tumbler alignment seeming different each time Ziprahu examines it. Stranger still, the lock seems to react to Ziprahu specifically, clicking and whirring whenever he approaches, as though recognizing him. Through research, he discovers the lock was designed by a mage of the First Tablets and was intended to open only "when the worthy successor arrives." Ziprahu becomes convinced that the lock is somehow aware and is choosing him to be the one to open whatever it secures. His obsession with understanding this mechanism threatens to consume him entirely.
+: An ancient lock from [[lore-akhfirsttab|The First Tablets]] is brought to Ziprahu for restoration—an artifact of such age and peculiar design that no one alive knows how to open it or what principles govern its operation. The lock appears to shift subtly when not directly observed, its tumbler alignment seeming different each time Ziprahu examines it. Stranger still, the lock seems to react to Ziprahu specifically, clicking and whirring whenever he approaches, as though recognizing him. Through research, he discovers the lock was designed by a mage of the First Tablets and was intended to open only "when the worthy successor arrives." Ziprahu becomes convinced that the lock is somehow aware and is choosing him to be the one to open whatever it secures. His obsession with understanding this mechanism threatens to consume him entirely.
 
 The Counterfeiter's Workshop
 : Authorities discover a criminal operation producing counterfeit locks—perfect replicas of Ziprahu's security mechanisms that function identically to his original work. No client can distinguish true Ziprahu locks from the forgeries without his personal inspection. This poses a catastrophic threat to his reputation and to the security of every installation he's ever made. The counterfeiter, a master craftsman themselves, has somehow stolen or deduced all of Ziprahu's techniques. Investigation reveals the counterfeiter is Master Zokhothu himself, who faked his retirement and has spent the last fifteen years secretly creating competition to prove that Ziprahu merely inherited his master's legacy rather than surpassing it. Ziprahu loses his unique position and faces the painful truth that his greatest achievement may be merely the continuation of another's work.

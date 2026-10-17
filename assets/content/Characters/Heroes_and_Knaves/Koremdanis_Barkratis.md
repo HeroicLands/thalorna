@@ -416,7 +416,7 @@ sohl:
 
 ![[krmdnsbrkrtys|Koremdanis Barkratis]]{float=top-left}
 
-Koremdanis stands 6'0" tall with a medium build. She has light olive skin, auburn hair, and amber eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, heavy brows, and angular cheeks. She has a tattoo of a dragonfly on her neck.
+Koremdanis Barkratis stands 6'0" tall with a medium build. She has light olive skin, auburn hair, and amber eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, heavy brows, and angular cheeks. She has a tattoo of a dragonfly on her neck.
 
 # Dossier {#dossier}
 
@@ -424,11 +424,11 @@ Koremdanis stands 6'0" tall with a medium build. She has light olive skin, aubur
 
 ### Early Life
 
-Koremdanis was born into House Barkratis, a noble family of the Empire of Vylaria whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Koremdanis showed from childhood an obsessive interest in the art of the blade. Her father, Lord Thelvaros Barkratis, indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster Pelerar, a celebrated figure in the dueling circles of Salkalon, the capital city of the Empire.
+Koremdanis was born into [House Barkratis]{.name data-type="affiliation/lineage"}, a noble family of the [[affiliation-vylarinmpr|Vylarian Empire]] whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Koremdanis showed from childhood an obsessive interest in the art of the blade. Her father, Lord [[being-thelvarosbar|Thelvaros Barkratis]], indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster [[being-pelerarsathe|Pelerar Satheris]], a celebrated figure in the dueling circles of [[place-salkhalon|Salkalon]], the capital city of the Empire.
 
 ### Training and Ascension
 
-Under Pelerar's exacting instruction, Koremdanis proved to be talented beyond the ordinary. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred Path of Breath—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery brought her philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
+Under Pelerar's exacting instruction, Koremdanis proved to be talented beyond the ordinary. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred [Path of Breath]{.name data-type="lore/custom"}—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery brought her philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
 
 ### Current Situation
 
@@ -440,7 +440,7 @@ Now established as perhaps the foremost swordmaster in the Empire of Vylaria, Ko
 
 Koremdanis is a woman of few words and absolute principle. She communicates primarily through action and demonstration, believing that excessive speech clouds understanding. In teaching, she is demanding but fair, pushing her students to their limits because she believes that true growth comes only through challenging oneself. She possesses an intense competitive drive that borders on obsession—every duel, every sparring session, every test is an opportunity to refine her craft further and to prove her mastery. This competitive nature sometimes leads her to take unnecessary risks or to pursue victory with fierce intensity that others find intimidating.
 
-She is a person of principle and honor, bound by a strict code of conduct that governs all her actions—she will not accept challenges from those she knows she can easily defeat, she refuses to duel those who are drunk or emotionally unstable, and she has turned down offers of enormous wealth if they involved compromising her integrity. She serves Lizelas, goddess of fertility and growth, not through prayer or ritual but through her dedication to helping others grow and develop their full potential. She sees in each of her students the possibility of becoming something magnificent, and she dedicates herself to nurturing that potential.
+She is a person of principle and honor, bound by a strict code of conduct that governs all her actions—she will not accept challenges from those she knows she can easily defeat, she refuses to duel those who are drunk or emotionally unstable, and she has turned down offers of enormous wealth if they involved compromising her integrity. She serves the [[affiliation-lizelas|Faith of Lizelas]], devoted to [[lore-lizelasdty|Lizelas]], goddess of fertility and growth, not through prayer or ritual but through her dedication to helping others grow and develop their full potential. She sees in each of her students the possibility of becoming something magnificent, and she dedicates herself to nurturing that potential.
 
 ### Motivation
 
@@ -493,13 +493,13 @@ Vulnerability to Magic
 
 ### Patrons
 
-The Imperial House of Vylaria
+[The Imperial House of Vylaria]{.name data-type="affiliation/lineage"}
 : The royal family employs her as unofficial advisor on martial matters and frequently commissions her to teach their scions. The Emperor himself has attended her demonstrations.
 
 House Barkratis
 : Her own noble family relies on her to restore their reputation and standing, and she has successfully elevated their status from declining house to one of prestige in Salkalon.
 
-The Wyvern-Sword Company
+[The Wyvern-Sword Company]{.name data-type="affiliation"}
 : A mercenary military company hires her as a consultant for combat training and occasionally seeks her counsel on matters of war.
 
 Wealthy Merchant Families
@@ -507,10 +507,10 @@ Wealthy Merchant Families
 
 ### Enemies
 
-Swordmaster Kofios the Undefeated
+Swordmaster [[being-khofiosbolal|Kofios Bolalidek]] the Undefeated
 : Officially, no rival; practically, Kofios is in the service of the Empire's rival power and harbors intense envy of Koremdanis's reputation. They have not yet formally dueled, though both know it is inevitable.
 
-The Iron Circle
+[The Iron Circle]{.name data-type="affiliation/criminal"}
 : A shadowy assassin's guild views Koremdanis as a threat to their operations, as her students often become bodyguards and protectors. They have made subtle attempts to undermine her reputation.
 
 Her own ambition, an inner enemy
@@ -518,10 +518,10 @@ Her own ambition, an inner enemy
 
 ### Affiliations
 
-The City Fencing Guild of Salkalon
+[The City Fencing Guild of Salkalon]{.name data-type="affiliation/guild"}
 : She is the Guild's acknowledged master and is the final arbiter in disputes over technique and conduct within the dueling circles.
 
-The Path of Breath
+[The Path of Breath]{.name data-type="affiliation/order"}
 : The sacred martial order to which she belongs, comprising only the most accomplished warriors devoted to uniting technique with spiritual discipline.
 
 House Barkratis
@@ -530,16 +530,16 @@ House Barkratis
 ## Plot Hooks
 
 The Challenge from the East
-: Word arrives that a famed swordmaster from the distant Eastern Kingdoms, a figure named Hiroshi the Unbound, wishes to challenge Koremdanis to a duel. This master is said to practice a form of swordsmanship completely unknown in Vylaria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or her first real defeat. The duel would draw attention from every court and could have diplomatic consequences; it would be no simple test of martial skill.
+: Word arrives that a famed swordmaster from the distant [Eastern Kingdoms]{.name data-type="place"}, a figure named [Hiroshi the Unbound]{.name data-type="being/npc"}, wishes to challenge Koremdanis to a duel. This master is said to practice a form of swordsmanship completely unknown in Vylaria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or her first real defeat. The duel would draw attention from every court and could have diplomatic consequences; it would be no simple test of martial skill.
 
 The Poisoned Student
-: One of her most promising students, Lord Cassian, falls mysteriously ill with a poison that no physician can identify or cure. As Koremdanis investigates, she discovers evidence suggesting he was poisoned not by an enemy but by a rival student jealous of his progress. The discovery raises the question of what her teaching, taken to extremes, can make of a student.
+: One of her most promising students, Lord [Cassian]{.name data-type="being/npc"}, falls mysteriously ill with a poison that no physician can identify or cure. As Koremdanis investigates, she discovers evidence suggesting he was poisoned not by an enemy but by a rival student jealous of his progress. The discovery raises the question of what her teaching, taken to extremes, can make of a student.
 
 The Imperial Succession Crisis
 : The Emperor dies without a clear heir, and several claimants to the throne emerge. A faction supporting one of the claimants approaches Koremdanis, offering her enormous wealth and power if she will publicly endorse their candidate. Her endorsement would likely determine the succession, making her responsible for the future of the Empire. The political intrigue threatens to embroil her in conflict far beyond her control.
 
 The Betrayal of the Path
-: An ancient text surfaces suggesting that the Path of Breath was originally taught by a mystical order now lost to history, and that true mastery requires spiritual practices beyond martial training. A mysterious wanderer named the Ascetic appears in Salkalon and challenges Koremdanis's understanding of the path she's devoted her life to mastering. Koremdanis must journey with this mysterious teacher to discover whether she's been incomplete in her pursuit of mastery.
+: An ancient text surfaces suggesting that the Path of Breath was originally taught by a mystical order now lost to history, and that true mastery requires spiritual practices beyond martial training. A mysterious wanderer named [The Ascetic]{.name data-type="being/npc"} appears in Salkalon and challenges Koremdanis's understanding of the path she's devoted her life to mastering. Koremdanis must journey with this mysterious teacher to discover whether she's been incomplete in her pursuit of mastery.
 
 The Master's Retirement
 : Swordmaster Pelerar, Koremdanis's ancient teacher and the only person she truly respects, approaches his end. He summons her to his deathbed and reveals that he has identified an heir—another student with potential matching her own. Pelerar requests that Koremdanis train this heir, passing on his legacy. But the heir is trained in a rival tradition, and Koremdanis questions whether compromising her pure approach to teaching would betray everything Pelerar taught her about integrity.

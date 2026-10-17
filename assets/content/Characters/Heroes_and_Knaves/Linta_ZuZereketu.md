@@ -421,7 +421,7 @@ sohl:
 
 ![[lintazuzerkt|Linta Zu'Zereketu]]{float=top-left}
 
-Linta stands 5'10" tall with a medium build. She has tawny skin, jet black hair, and honey brown eyes. Her features include a slightly arched nose, a tapered chin, generous lips, and honey brows.
+Linta Zu'Zereketu stands 5'10" tall with a medium build. She has tawny skin, jet black hair, and honey brown eyes. Her features include a slightly arched nose, a tapered chin, generous lips, and honey brows.
 
 # Dossier {#dossier}
 
@@ -429,11 +429,11 @@ Linta stands 5'10" tall with a medium build. She has tawny skin, jet black hair,
 
 ### Early Life
 
-Born to the Zu'Zereketu clan in the fertile valleys of the Empire of [[affiliation-empireakhlth|Au'Khelathu]], Linta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of [[lore-uzneradty|Uzn'era]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Linta early, though she would never serve in any temple—her calling lay elsewhere.
+Born to the [Zu'Zereketu clan]{.name data-type="affiliation/lineage"} in the fertile valleys of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], Linta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of the [[affiliation-uznera|Faith of Uzn'era]], blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Linta early, though she would never serve in any temple—her calling lay elsewhere.
 
 ### Training and Path
 
-At thirteen, Linta convinced a weathered caravan master named **Lefta the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, [[being-meshaqawise|Meshaqa the Wise]], a hard woman in her late sixties who taught Linta everything about reconnaissance, evasion, and survival in wild country. Under Meshaqa's tutelage, Linta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Au'Khelathu.
+At thirteen, Linta convinced a weathered caravan master named **[[being-leftazumeqet|Lefta Zu'Meqetu]] the Keen-Eyed** to hire her as a porter. Within two seasons, her rare climbing ability and innate awareness caught the attention of the caravan's head scout, [[being-meshaqawise|Meshaqa the Wise]], a hard woman in her late sixties who taught Linta everything about reconnaissance, evasion, and survival in wild country. Under Meshaqa's tutelage, Linta learned to move silently through scrubland and avoid bandits' notice, and to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into [[affiliation-linqeztkhlth|Lin'Qeztu elu Au'Khelathu]], the Mercenaries' Guild of Au'Khelathu.
 
 ### Current Situation
 
@@ -449,7 +449,7 @@ Despite her dangerous occupation, Linta possesses a real warmth for those she tr
 
 ### Motivation
 
-Linta seeks to test herself against increasingly difficult challenges, driven by an unspoken fear that she will one day become predictable, soft, or obsolete. The thrill of a successful scouting mission, the moment when her preparations prevent a disaster, and the quiet satisfaction of bringing a dangerous caravan safely through hostile territory all feed a deeper hunger: the need to know that she is worthy, that her skills matter, that she has not wasted the gifts the goddess of fertility blessed her with. Beyond personal achievement, Linta harbors a protective instinct toward the merchants and common folk she escorts, seeing in their vulnerability a responsibility she takes seriously. She dreams of eventually establishing her own network of scouts and training the next generation, leaving a legacy that will outlast her active years.
+Linta seeks to test herself against increasingly difficult challenges, driven by an unspoken fear that she will one day become predictable, soft, or obsolete. The thrill of a successful scouting mission, the moment when her preparations prevent a disaster, and the quiet satisfaction of bringing a dangerous caravan safely through hostile territory all feed a deeper hunger: the need to know that she is worthy, that her skills matter, that she has not wasted the gifts she believes the goddess of fertility blessed her with. Beyond personal achievement, Linta harbors a protective instinct toward the merchants and common folk she escorts, seeing in their vulnerability a responsibility she takes seriously. She dreams of eventually establishing her own network of scouts and training the next generation, leaving a legacy that will outlast her active years.
 
 ### Strengths
 
@@ -501,9 +501,9 @@ Caravan Master Lefta the Keen-Eyed
 ### Enemies
 
 [[affiliation-wagalu|The Wagalu]]
-: A bandit gang that has plagued the southern trade routes for three years. Their leader, **Kraed Hardscale**, harbors deep resentment toward Linta after she foiled six separate robbery attempts, twice escaping their ambushes with minimal losses. Kraed has sworn a blood oath to kill her.
+: A bandit gang that has plagued the southern trade routes for three years. Their leader, [Kraed Hardscale]{.name data-type="being/npc"}, harbors deep resentment toward Linta after she foiled six separate robbery attempts, twice escaping their ambushes with minimal losses. Kraed has sworn a blood oath to kill her.
 
-Scout Malachar
+Scout [Malachar]{.name data-type="being/npc"}
 : A rival scout employed by competing merchant houses who views Linta as a threat to his own livelihood. He spreads rumors about her recklessness and has twice attempted to sabotage her caravans, though he lacks Linta's skill and has always been caught.
 
 ### Affiliations
@@ -526,7 +526,7 @@ The Refugee Caravan
 : Linta is hired to protect a caravan of refugees fleeing political persecution in a neighboring kingdom. Unlike her usual merchant runs, these people are desperate, poor, and vulnerable. When the pursuers catch up—elite cavalry sent by the persecuting kingdom—Linta finds herself defending civilians rather than cargo. The situation forces her to choose between her sworn duty to protect goods and her unexpected maternal instinct to shield the refugees, particularly a young girl who reminds her of herself at that age.
 
 Bandit Leader's Daughter
-: Kraed Hardscale, the bandit leader who has sworn to kill Linta, sends an unexpected visitor—his own daughter, a skilled archer named **Lyra Hardscale**, who reveals that she can no longer support her father's violent methods. Lyra offers to spy on her father's organization from within, helping Linta dismantle the Crimson Jackals. Whether the enemy's daughter can be trusted is an open question, and if her father discovers the betrayal, Lyra will almost certainly be executed. This alliance could solve Linta's bandit problem, but at the cost of becoming responsible for a young woman's life.
+: Kraed Hardscale, the bandit leader who has sworn to kill Linta, sends an unexpected visitor—his own daughter, a skilled archer named [Lyra Hardscale]{.name data-type="being/npc"}, who reveals that she can no longer support her father's violent methods. Lyra offers to spy on her father's organization from within, helping Linta dismantle the [Crimson Jackals]{.name data-type="affiliation/criminal"}. Whether the enemy's daughter can be trusted is an open question, and if her father discovers the betrayal, Lyra will almost certainly be executed. This alliance could solve Linta's bandit problem, but at the cost of becoming responsible for a young woman's life.
 
 The Caravan Beyond the Maps
 : An aging cartographer seeking to complete his life's work hires Linta to guide a small expedition into unmapped territory beyond the known trade routes. The regions he wishes to explore are rumored to be haunted by ancient spirits and inhabited by dangerous creatures never documented. As Linta leads them deeper into the unknown, she discovers ruins suggesting a lost civilization far more advanced than the current empire, and evidence that something ancient and immensely powerful sleeps in the depths. The cartographer reveals he is not simply curious—he believes these ruins contain knowledge that could transform the entire empire, and he is willing to stop at nothing to claim it.

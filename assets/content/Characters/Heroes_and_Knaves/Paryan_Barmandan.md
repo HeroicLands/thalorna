@@ -417,13 +417,13 @@ sohl:
 
 ![[prynbrmndn|Paryan Barmandan]]{float=top-left}
 
-Paryan stands 5'8" tall with a light build. She has light olive skin, black hair, and green eyes. Her features include an oval face, a hawkish nose, an angular jawline, well-defined lips, and prominent brows.
+Paryan Barmandan stands 5'8" tall with a light build. She has light olive skin, black hair, and green eyes. Her features include an oval face, a hawkish nose, an angular jawline, well-defined lips, and prominent brows.
 
 # Dossier {#dossier}
 
 **Early Life and Apprenticeship**
 
-Paryan was born in the Kingdom of Amradad to a family of modest but respected standing. Her father was a merchant of moderate success, her mother a woman of noble birth who had married down for love. Paryan showed no early aptitude for either commerce or noble pursuits; instead, she was drawn to the material world in a different way—she loved the play of light on surfaces, the way colors shifted and harmonized, and the transformation of raw materials into objects of beauty. At age twelve, she was apprenticed to Master Beshrin, one of the greatest jewelers in the Kingdom, a woman whose reputation extended beyond Amradad to the distant cities of neighboring realms.
+Paryan was born in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] to a family of modest but respected standing. Her father was a merchant of moderate success, her mother a woman of noble birth who had married down for love. Paryan showed no early aptitude for either commerce or noble pursuits; instead, she was drawn to the material world in a different way—she loved the play of light on surfaces, the way colors shifted and harmonized, and the transformation of raw materials into objects of beauty. At age twelve, she was apprenticed to Master [Beshrin]{.name data-type="being/npc"}, one of the greatest jewelers in the Kingdom, a woman whose reputation extended beyond Amradad to the distant cities of neighboring realms.
 
 Under Beshrin's mentorship, Paryan learned the technical skills of jewelry-making—the metalworking, stone-setting, and finer techniques of the trade—and the deeper philosophy of her craft. Beshrin taught that jewelry was a form of conversation between maker and wearer, that each piece should tell a story, that the finest work honored both the beauty of materials and the beauty of the human form that would display it. Beshrin also showed her a kind of creative fearlessness: she was willing to experiment, to combine materials in unexpected ways, to honor tradition while pushing its boundaries.
 
@@ -433,7 +433,7 @@ Paryan progressed with great speed through her apprenticeship, achieving journey
 
 **Current Situation**
 
-Paryan now stands at the threshold of greater opportunity and risk. Her reputation has grown to the point where she receives commissions from nobility and even royal family members, pieces that would be displayed in the most elite circles. This success brings both fulfillment and pressure. The guild has begun to mention her name when discussing potential leadership roles, a responsibility she is uncertain about. She has also attracted the attention of wealthy collectors and patrons from distant lands who offer her substantial contracts that would require her to relocate or to radically expand her workshop. Most intriguingly, she has been approached by a mysterious scholar interested in commissioning jewelry with specific symbolic and possibly magical properties—a proposal that is both thrilling and unsettling. She struggles with the balance between creative integrity and commercial pragmatism, between loyalty to her community and pursuit of greater opportunity.
+Paryan now stands at the threshold of greater opportunity and risk. Her reputation has grown to the point where she receives commissions from nobility and even royal family members, pieces that would be displayed in the most elite circles. This success brings both fulfillment and pressure. [The Jewelers' Guild of Amradad]{.name data-type="affiliation/guild"} has begun to mention her name when discussing potential leadership roles, a responsibility she is uncertain about. She has also attracted the attention of wealthy collectors and patrons from distant lands who offer her substantial contracts that would require her to relocate or to radically expand her workshop. Most intriguingly, she has been approached by a mysterious scholar interested in commissioning jewelry with specific symbolic and possibly magical properties—a proposal that is both thrilling and unsettling. She struggles with the balance between creative integrity and commercial pragmatism, between loyalty to her community and pursuit of greater opportunity.
 
 ## Psyche
 
@@ -447,7 +447,7 @@ Despite her talent and growing fame, Paryan lacks arrogance. She is interested i
 
 ### Motivation
 
-Paryan's primary motivation is creative expression—the deep satisfaction that comes from transforming raw materials into something beautiful and meaningful. She is driven by the desire to create pieces that will become part of people's lives in significant ways, jewelry worn at important moments, items treasured and passed down to future generations. There is a spiritual dimension to her motivation; she worships Aravesta, the deity of prosperity and abundance, and she understands her craft as a form of honoring the goddess by creating beauty and value in the world.
+Paryan's primary motivation is creative expression—the deep satisfaction that comes from transforming raw materials into something beautiful and meaningful. She is driven by the desire to create pieces that will become part of people's lives in significant ways, jewelry worn at important moments, items treasured and passed down to future generations. There is a spiritual dimension to her motivation; she follows the [[affiliation-aravesta|Faith of Aravesta]], devoted to [[lore-aravestadty|Aravesta]], the deity of prosperity and abundance, and she understands her craft as a form of honoring the goddess by creating beauty and value in the world.
 
 Beyond the creative satisfaction, Paryan is also motivated by a desire for recognition and validation. She wants to be acknowledged as a master of her craft, wants her name to become synonymous with excellence and invention. There is a competitive element to this—a desire to prove that her approaches are superior to conventional techniques. She is also motivated by a kind of romantic idealism about her craft, believing that jewelry has the power to transform how people see themselves and the world, and that creating meaningful pieces is therefore a form of service to humanity.
 
@@ -503,7 +503,7 @@ Wealthy Collectors and Merchants
 
 ### Enemies
 
-Master Harumaz, Conservative Guild Master
+Master [[being-harumazbarav|Harumaz Baravi]], Conservative Guild Master
 : A senior figure in the Jewelers' Guild who represents the traditionalist faction, Harumaz views Paryan's experimental approaches as disrespectful to established conventions. He has subtly opposed her rise within the guild and spreads criticism that her work, while beautiful, lacks "true classical foundation." The two have never had direct conflict, but there is clear tension between them.
 
 ### Affiliations
@@ -511,7 +511,7 @@ Master Harumaz, Conservative Guild Master
 The Jewelers' Guild of Amradad
 : Paryan is a full member and recognized master of the guild, though her unorthodox approaches sometimes create tension with the more conservative elements of the organization.
 
-The Artisans' Collective
+[The Artisans' Collective]{.name data-type="affiliation"}
 : Paryan maintains informal connections with other master craftspeople across multiple disciplines—sculptors, textile workers, potters—through a loose association of like-minded artisans who support and inspire each other's work.
 
 ## Plot Hooks

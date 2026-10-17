@@ -416,7 +416,7 @@ sohl:
 
 ![[angldsptrks|Fodios Rores]]{float=top-left}
 
-Fodios stands 5'9" tall with a medium build. He has light weathered skin, brown hair, and green eyes. His features include a long face, a strong nose, a pronounced chin, an expressive mouth, expressive brows, and prominent cheeks.
+Fodios Rores stands 5'9" tall with a medium build. He has light weathered skin, brown hair, and green eyes. His features include a long face, a strong nose, a pronounced chin, an expressive mouth, expressive brows, and prominent cheeks.
 
 # Dossier {#dossier}
 
@@ -424,7 +424,7 @@ Fodios stands 5'9" tall with a medium build. He has light weathered skin, brown 
 
 ### Early Divergence
 
-Fodios was born to a learned merchant family within the [[affiliation-byzarianlg|Bizarian League]], and from childhood it was evident he possessed the rare gift for arcane study. Where most children struggled with their alphabet, he read ancient texts by candlelight. By fourteen, he had been apprenticed to **Marendos Zevidin Zhevranzát of the Hidalis Zulen**, a scholar of theoretical thaumaturgy within the Epistémion's chapterhouse, known for his adherence to orthodox magical principle and his mastery of the water-school traditions. For five years, Fodios submitted himself to the rigorous disciplines of formal magical training—memorizing the correspondences of the Zemor Hodhis, studying the geometry of ritual circles, learning to channel mystical force through precisely enunciated incantations and mathematically perfect gestures.
+Fodios was born to a learned merchant family within the [[affiliation-byzarianlg|Bizarian League]], and from childhood it was evident he possessed the rare gift for arcane study. Where most children struggled with their alphabet, he read ancient texts by candlelight. By fourteen, he had been apprenticed to **Marendos [[being-zevidinzhevr|Zevidin Zhevranzát]] of the [[affiliation-hydalis|Hidalis]] Zulen**, a scholar of theoretical thaumaturgy within the [[affiliation-panepistmm|Epistémion]]'s chapterhouse, known for his adherence to orthodox magical principle and his mastery of the water-school traditions. For five years, Fodios submitted himself to the rigorous disciplines of formal magical training—memorizing the correspondences of the [[affiliation-hexhodai|Zemor Hodhis]], studying the geometry of ritual circles, learning to channel mystical force through precisely enunciated incantations and mathematically perfect gestures.
 
 ### The Breaking Point
 
@@ -432,7 +432,7 @@ At nineteen, Fodios experienced a revelation that would shape the remainder of h
 
 ### The Path Unorthodox
 
-Rather than submit to the chapterhouse council's censure or return in shame to his merchant family, Fodios spent the next two decades wandering the hinterlands and remote villages of the Bizarian League and beyond, learning to trust instinct over instruction, combining folk healing practices with his arcane knowledge, studying the hidden language of nature itself. He apprenticed briefly with velvur in the Nordmen lands, learned the secrets of herbal medicine from ancient practitioners in isolated communities, and gradually constructed a philosophy of magic that views rigid formula as a cage rather than a foundation. His power grew in unconventional directions—he developed an unusual facility with healing magic through direct communion with the body's own vital forces, elemental manipulation grounded in natural observation rather than abstract theory, and divination through patterns woven into the living world. His training in the formal Hidalis disciplines remained incomplete, and he deliberately rejected the academic frameworks that Zevidin had instilled.
+Rather than submit to the chapterhouse council's censure or return in shame to his merchant family, Fodios spent the next two decades wandering the hinterlands and remote villages of the Bizarian League and beyond, learning to trust instinct over instruction, combining folk healing practices with his arcane knowledge, studying the hidden language of nature itself. He apprenticed briefly with velvur in [[lore-nordheimnclt|Nordheimn]] lands, learned the secrets of herbal medicine from ancient practitioners in isolated communities, and gradually constructed a philosophy of magic that views rigid formula as a cage rather than a foundation. His power grew in unconventional directions—he developed an unusual facility with healing magic through direct communion with the body's own vital forces, elemental manipulation grounded in natural observation rather than abstract theory, and divination through patterns woven into the living world. His training in the formal Hidalis disciplines remained incomplete, and he deliberately rejected the academic frameworks that Zevidin had instilled.
 
 ### Current Station
 
@@ -491,13 +491,13 @@ Vulnerability to Authority
 
 ### Patrons
 
-Sage Breghásh Drazorazur
+Sage [Breghásh Drazorazur]{.name data-type="being/npc"}
 : An elderly herbalist and natural philosopher who recognized the value in Fodios' approach when the Guild condemned him. She has remained his steadiest advocate and closest confidante, providing both material support and the intellectual partnership that sustains his morale.
 
-The Village Elder Thom
+The Village Elder [Thom]{.name data-type="being/npc"}
 : A weathered rural leader who employs Fodios regularly to treat the injuries and illnesses of his village community. Thom fiercely defends Fodios against official condemnation, having witnessed his effectiveness repeatedly.
 
-Scholar Lycius of the Archives
+Scholar [Lycius of the Archives]{.name data-type="being/npc"}
 : A librarian within the Epistémion who secretly believes that Fodios' approach may represent a true step forward in magical practice. Lycius provides him access to restricted texts and information about Guild politics.
 
 ### Enemies
@@ -505,11 +505,11 @@ Scholar Lycius of the Archives
 _Marendos_ Zevidin of the Hidalis Zulen (fellowship)
 : His former teacher remains Fodios' most bitter opponent, viewing his break with orthodoxy as a personal betrayal and a corruption of magical tradition. Zevidin holds significant influence within the Epistémion's chapterhouse and has repeatedly argued to the council that Fodios should be formally expelled and reported to the Thordimalon for practicing uncontrolled, unregistered sorcery. Their enmity, once a matter of doctrine, is now deeply personal—Zevidin sees in Fodios a living refutation of everything he believes about the necessity of formal discipline, and Fodios sees in Zevidin the rigidity of the orders that he fled.
 
-The Sekran
-: The Thordimalon's investigation and enforcement arm has begun to take notice of Fodios' reputation. An aggressive **Sekeros Marendos Ghesáz Vughash** has filed an official inquiry into whether Fodios constitutes an unlicensed magical practitioner in violation of the Order's monopoly. While the Order's enforcement in the provincial towns of the Bizarian League is laxer than in the Vylarian heartland, an escalation of pressure from the Sekran could force Fodios to flee or face serious consequences—possibly even trial before the Order's magistrates on charges of illegal sorcery.
+The [Sekran]{.name data-type="affiliation"}
+: The Thordimalon's investigation and enforcement arm has begun to take notice of Fodios' reputation. An aggressive **Sekeros Marendos [[being-ghesazvughas|Ghesáz Vughash]]** has filed an official inquiry into whether Fodios constitutes an unlicensed magical practitioner in violation of the Order's monopoly. While the Order's enforcement in the provincial towns of the Bizarian League is laxer than in the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]], an escalation of pressure from the Sekran could force Fodios to flee or face serious consequences—possibly even trial before the Order's magistrates on charges of illegal sorcery.
 
-Rival Healer Kalista of [[place-karvashion2|Karvashion]]
-: A self-taught mage from the caravan city who was briefly Fodios' apprentice before their relationship turned bitter over philosophical differences. Kalista believes that Fodios' intuitive approach is dangerously unreliable and has begun spreading rumors throughout the region that his work is fraudulent—that his supposed healings are merely cases of natural recovery that he takes undue credit for, or worse, cases where his uncontrolled magic has caused harm he refuses to acknowledge. Kalista's accusations are particularly dangerous because she has connections to the Epistémion's chapterhouse and has hinted at bringing her evidence before the Sekran.
+Rival Healer [Kalista of Karvashion]{.name data-type="being/npc"}
+: A self-taught mage from the caravan city of [[place-karvashion2|Karvashion]] who was briefly Fodios' apprentice before their relationship turned bitter over philosophical differences. Kalista believes that Fodios' intuitive approach is dangerously unreliable and has begun spreading rumors throughout the region that his work is fraudulent—that his supposed healings are merely cases of natural recovery that he takes undue credit for, or worse, cases where his uncontrolled magic has caused harm he refuses to acknowledge. Kalista's accusations are particularly dangerous because she has connections to the Epistémion's chapterhouse and has hinted at bringing her evidence before the Sekran.
 
 ### Affiliations
 

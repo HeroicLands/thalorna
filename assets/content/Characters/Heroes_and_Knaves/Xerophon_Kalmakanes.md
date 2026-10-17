@@ -415,13 +415,13 @@ sohl:
 
 ![[xrphnklmkns|Zerofon Kalmakanes]]{float=top-left}
 
-Zerofon stands 5'11" tall with a medium build. He has tanned weathered skin, dark brown hair, and green eyes. His features include a narrow face, a hawkish nose, an angular jawline, a wide mouth, dark brows, and sculpted cheeks. He has a scar on his left ear.
+Zerofon Kalmakanes stands 5'11" tall with a medium build. He has tanned weathered skin, dark brown hair, and green eyes. His features include a narrow face, a hawkish nose, an angular jawline, a wide mouth, dark brows, and sculpted cheeks. He has a scar on his left ear.
 
 # Dossier {#dossier}
 
 **The Soldier's Path**
 
-Zerofon was not born to the work of imprisonment. He entered adulthood as a soldier of the City Watch in [[affiliation-provncmktr|Moktur]], the [[affiliation-vylarinmpr|Empire of Vylaria]]'s mountainous northern province, distinguishing himself as a reliable, methodical officer willing to perform the less glamorous work of law enforcement. Where younger officers sought glory and advancement through dramatic arrests or visible patrols, Zerofon specialized in the tedious work of evidence gathering, the keeping of records, and the patient questioning of suspects. His superiors recognized in him an unusual combination: a man of integrity who refused to participate in corruption, coupled with the flexibility to understand that law existed on a spectrum and that rigid application of rules without consideration of context served justice poorly.
+Zerofon was not born to the work of imprisonment. He entered adulthood as a soldier of the [City Watch of Moktur]{.name data-type="affiliation"} in the [[affiliation-provncmktr|Province of Moktur]], the [[affiliation-vylarinmpr|Vylarian Empire]]'s mountainous northern province, distinguishing himself as a reliable, methodical officer willing to perform the less glamorous work of law enforcement. Where younger officers sought glory and advancement through dramatic arrests or visible patrols, Zerofon specialized in the tedious work of evidence gathering, the keeping of records, and the patient questioning of suspects. His superiors recognized in him an unusual combination: a man of integrity who refused to participate in corruption, coupled with the flexibility to understand that law existed on a spectrum and that rigid application of rules without consideration of context served justice poorly.
 
 **The Jailer's Burden**
 
@@ -447,7 +447,7 @@ Zerofon also possesses a subtle capacity for compassion that he carefully constr
 
 ### Motivation
 
-Zerofon is motivated fundamentally by the belief that order is a prerequisite for all other goods, and that his work—however unpleasant—is essential to maintaining that order. He has internalized the philosophy of the Aureldian Pantheon's emphasis on organization and structure, viewing himself as a servant of larger cosmic principles of law and consequence. He seeks neither glory nor advancement, only to perform his duties with the maximum competence and integrity of which he is capable. As he approaches the latter part of his life, he is motivated by an awareness that his legacy will be measured not in dramatic achievements but in the consistency of his principles and the respect of those who worked beneath him.
+Zerofon is motivated fundamentally by the belief that order is a prerequisite for all other goods, and that his work—however unpleasant—is essential to maintaining that order. He has internalized the philosophy of the twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]], with their emphasis on organization and structure, viewing himself as a servant of larger cosmic principles of law and consequence. He seeks neither glory nor advancement, only to perform his duties with the maximum competence and integrity of which he is capable. As he approaches the latter part of his life, he is motivated by an awareness that his legacy will be measured not in dramatic achievements but in the consistency of his principles and the respect of those who worked beneath him.
 
 ### Strengths
 
@@ -481,24 +481,24 @@ Limited Vision Beyond Duty
 
 ### Patrons
 
-Commander Tharoza of the City Watch
+Commander [[being-tharozatalot|Tharoza Talothates]] of the City Watch
 : The highest official in Moktur's law enforcement structure who values Zerofon's judgment and regularly defers to his recommendations regarding prison management.
 
-The Imperial Council of Moktur
+[The Imperial Council of Moktur]{.name data-type="affiliation/governmental"}
 : Various officials who have depended upon Zerofon's discretion and integrity in managing sensitive prisoners and classified matters.
 
-Magistrate Revotha Kalmethis the Strict
+Magistrate [[being-revothakalme|Revotha Kalmethis]] the Strict
 : A justice official known for harsh sentencing who appreciates Zerofon's reliable implementation of punishment and consequence.
 
 ### Enemies
 
-Ferun the Escaped
+[Ferun the Escaped]{.name data-type="being/npc"}
 : A cunning prisoner who orchestrated an attempted escape eight years ago that resulted in the death of three guards. Though captured and returned, the incident damaged Zerofon's reputation for complete control, and Ferun remains in the facility as a subtle ongoing insult to his authority.
 
-Warden Tharkos
+Warden [[being-tharkhosthar|Tharkos Tharozates]]
 : The political administrator appointed to manage the prison bureaucratically, a man who Zerofon views as incompetent and corrupt. They maintain an awkward relationship of mutual necessity while harboring deep disdain for one another.
 
-The Brotherhood of the Freed
+[The Brotherhood of the Freed]{.name data-type="affiliation/criminal"}
 : A criminal organization dedicated to liberating imprisoned members through violence, bribery, or escape. Zerofon has thwarted multiple attempts at incarcerated members' release, making him a known enemy to the organization.
 
 ### Affiliations

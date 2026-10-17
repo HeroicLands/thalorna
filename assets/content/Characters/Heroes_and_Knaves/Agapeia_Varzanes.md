@@ -418,7 +418,7 @@ sohl:
 
 ![[agapevrzns|Agápeia Varzanes]]{float=top-left}
 
-Agápeia stands 6'1" tall with a medium build. She has golden-toned skin, dark hair, and dark hazel eyes. Her features include an oblong face, a straight nose, a pointed chin, slightly pursed lips, arched brows, and high cheeks.
+Agápeia Varzanes stands 6'1" tall with a medium build. She has golden-toned skin, dark hair, and dark hazel eyes. Her features include an oblong face, a straight nose, a pointed chin, slightly pursed lips, arched brows, and high cheeks.
 
 # Dossier {#dossier}
 
@@ -426,11 +426,11 @@ Agápeia stands 6'1" tall with a medium build. She has golden-toned skin, dark h
 
 ### The Mines of Bizur
 
-Agápeia was born in the mining towns of the [[affiliation-byzarianlg|Bizarian League]], where her clan—the Varzanes—had worked the mineral-rich depths for generations. Her parents, both experienced miners themselves, taught her the fundamental truths of their world: respect the earth, read the stone, listen to the mountain. Unlike many miners who view their work as mere labor, the Varzanes held to the old ways of reverence for Lizelas in her aspect as the fertile generator of all material abundance. Agápeia's mother, Ista Varzanes, was herself known for her ability to sense mineral deposits and to extract precious stones with minimal waste—a gift that seemed almost intuitive. Her father, Korla, brought a more methodical approach, understanding the engineering principles that prevented cave-ins and got more stone out for less labor.
+Agápeia was born in the mining towns of the [[affiliation-byzarianlg|Bizarian League]], where her clan—the [Varzanes]{.name data-type="affiliation/lineage"}—had worked the mineral-rich depths for generations. Her parents, both experienced miners themselves, taught her the fundamental truths of their world: respect the earth, read the stone, listen to the mountain. Unlike many miners who view their work as mere labor, the Varzanes held to the old ways of reverence for [[lore-lizelasdty|Lizelas]] in her aspect as the fertile generator of all material abundance. Agápeia's mother, [Ista Varzanes]{.name data-type="being/npc"}, was herself known for her ability to sense mineral deposits and to extract precious stones with minimal waste—a gift that seemed almost intuitive. Her father, [Korla]{.name data-type="being/npc"}, brought a more methodical approach, understanding the engineering principles that prevented cave-ins and got more stone out for less labor.
 
 ### Coming of Age in Darkness
 
-From early childhood, Agápeia worked the mines alongside her parents. By her teenage years, she had become skilled in the fundamental techniques of her people—identifying rock types by sight and touch, understanding the structural integrity of stone, moving safely through treacherous passages. What set her apart, however, was a combination of her mother's intuitive connection to the earth's riches and her father's analytical mind. She began experimenting with improved tools and techniques, developing methods to extract gems with greater precision and less collateral damage. Her improvements attracted the attention of Overseer Karvashena Halikot, a veteran of thirty years in the Bizarian mines, who took her as an informal apprentice around age sixteen. Under Karvashena's mentorship, she learned mining craft and the workings of the mining hierarchies—how to negotiate with merchants, manage teams of workers, and handle the uneasy relationship between independent miners and the mining houses that controlled the richest deposits.
+From early childhood, Agápeia worked the mines alongside her parents. By her teenage years, she had become skilled in the fundamental techniques of her people—identifying rock types by sight and touch, understanding the structural integrity of stone, moving safely through treacherous passages. What set her apart, however, was a combination of her mother's intuitive connection to the earth's riches and her father's analytical mind. She began experimenting with improved tools and techniques, developing methods to extract gems with greater precision and less collateral damage. Her improvements attracted the attention of Overseer [[being-karvashenaha|Karvashena Halikot]], a veteran of thirty years in the Bizarian mines, who took her as an informal apprentice around age sixteen. Under Karvashena's mentorship, she learned mining craft and the workings of the mining hierarchies—how to negotiate with merchants, manage teams of workers, and handle the uneasy relationship between independent miners and the mining houses that controlled the richest deposits.
 
 ### Independent Prospector
 
@@ -438,7 +438,7 @@ At twenty-two, Agápeia claimed her independence and began working as a self-emp
 
 ### Present Circumstances
 
-Agápeia currently operates between the larger mining settlements of the Bizarian League, often taking on difficult prospecting jobs that others consider too dangerous or speculative. She maintains good relationships with local mining companies and jewelers who prize her ability to source high-quality stones reliably. However, she has grown increasingly troubled by developments in her trade: the great mining houses are pushing out independent miners, the newer mining magnates show no reverence for the earth and instead pursue reckless extraction that causes collapses and environmental devastation, and she has begun to suspect that some of the major mining operations are engaged in dangerous practices to extract rare magical materials. Her moral convictions, rooted in the teachings of Lizelas, put her at odds with the present direction of Bizarian mining, and she is quietly considering what action—if any—she should take in response.
+Agápeia currently operates between the larger mining settlements of the Bizarian League, often taking on difficult prospecting jobs that others consider too dangerous or speculative. She maintains good relationships with local mining companies and jewelers who prize her ability to source high-quality stones reliably. However, she has grown increasingly troubled by developments in her trade: the great mining houses are pushing out independent miners, the newer mining magnates show no reverence for the earth and instead pursue reckless extraction that causes collapses and environmental devastation, and she has begun to suspect that some of the major mining operations are engaged in dangerous practices to extract rare magical materials. Her moral convictions, rooted in the teachings of the [[affiliation-lizelas|Faith of Lizelas]], put her at odds with the present direction of Bizarian mining, and she is quietly considering what action—if any—she should take in response.
 
 ## Psyche
 
@@ -490,7 +490,7 @@ Vulnerability to Manipulation
 
 ### Patrons
 
-Master Jeweler Savali
+Master Jeweler [Savali]{.name data-type="being/npc"}
 : One of the Bizarian League's finest gem workers, who regularly commissions Agápeia to locate and extract specific gem varieties. Their relationship is built on mutual respect and years of reliable dealings.
 
 Overseer Karvashena
@@ -501,24 +501,24 @@ The Clergy of Lizelas
 
 ### Enemies
 
-Mining Baron Lopebáz Halikot
+Mining Baron [[being-lopebazhalik|Lopebáz Halikot]]
 : The ruthless owner of several of the largest mining operations in the Bizarian League, who views independent miners like Agápeia as obstacles to consolidation and profit. He has made subtle efforts to make her operations more difficult, buying up mineral rights to areas she frequents and offering inflated prices to her regular clients to undercut her sales.
 
-The Órashion Consortium
+[The Órashion Consortium]{.name data-type="affiliation/venture"}
 : A loose association of the larger mining interests that have begun using dangerous alchemical and magical extraction methods. Agápeia suspects they are drawing her former colleagues into increasingly perilous work, and she has begun to publicly question their practices, making her a target for their displeasure.
 
 ### Affiliations
 
-The Bizarian Miners' Free Union
+[The Bizarian Miners' Free Union]{.name data-type="affiliation"}
 : Agápeia maintains membership in the independent miners' collective, which provides mutual support and advocacy for prospectors working outside the major operations. She contributes to their fund and occasionally participates in union activities, though she is not a leader within the organization.
 
-The Temple of Lizelas
+The [Temple of Lizelas]{.name data-type="affiliation"}
 : She maintains active spiritual affiliation and participates in seasonal celebrations and rituals, and occasionally guides temple-sanctioned expeditions into the sacred mineral sites.
 
 ## Plot Hooks
 
 The Lost Deposit
-: An elderly miner named Garrin Stonestep, whom Agápeia knows by reputation, approaches her with a dying request. He has discovered what he believes to be an enormous deposit of rare crystalline material in the deep caves beneath the Bizarian heartland, but he lacks the strength to extract it himself, and he fears that if he reports it through official channels, the Órashion Consortium will seize it and destroy it with their reckless methods. He asks Agápeia to find the deposit, assess it, and determine the right thing to do with the knowledge. The catch: the location is in territory controlled by the mining operations of Baron Lopebáz Halikot, and Garrin's maps are incomplete and possibly inaccurate. Agápeia would need to assemble a team, tread dangerous political ground, and potentially uncover something far more significant than a simple mineral deposit—possibly evidence of magical excavation or something hidden beneath the earth that both the Consortium and Baron Lopebáz desperately want to remain hidden.
+: An elderly miner named [Garrin Stonestep]{.name data-type="being/npc"}, whom Agápeia knows by reputation, approaches her with a dying request. He has discovered what he believes to be an enormous deposit of rare crystalline material in the deep caves beneath the Bizarian heartland, but he lacks the strength to extract it himself, and he fears that if he reports it through official channels, the Órashion Consortium will seize it and destroy it with their reckless methods. He asks Agápeia to find the deposit, assess it, and determine the right thing to do with the knowledge. The catch: the location is in territory controlled by the mining operations of Baron Lopebáz Halikot, and Garrin's maps are incomplete and possibly inaccurate. Agápeia would need to assemble a team, tread dangerous political ground, and potentially uncover something far more significant than a simple mineral deposit—possibly evidence of magical excavation or something hidden beneath the earth that both the Consortium and Baron Lopebáz desperately want to remain hidden.
 
 The Escaped Crew
 : One of Agápeia's former crews—miners she trained and sent out to work for one of the larger operations—sends word that they are fleeing their current employment. They have discovered that their operation is engaged in the extraction of something dangerous and unnatural, something that they believe is literally damaging the earth in ways that cause tremors and subsidence. They need Agápeia's help to escape with evidence of what is happening and to find refuge away from the Consortium's reach. Helping them would mean taking direct action against powerful interests.
@@ -527,7 +527,7 @@ The Cavern Below
 : Agápeia is hired by the Temple of Lizelas to conduct a survey of the deepest sacred caverns, areas that have not been thoroughly explored in generations. The temple fears that secular mining operations may have broken through into these spaces, and they want an assessment of the damage and current conditions. What Agápeia discovers is that the deepest caverns are not empty—they contain evidence of previous habitation, possibly by an ancient civilization, and they contain unusual geological formations that seem to defy natural explanation. Some of these formations pulse with residual magical energy. She can report her discoveries to the temple or to secular authorities, or keep the information to herself.
 
 The Merchant's Gamble
-: A wealthy merchant named Korvum Silvertongue approaches Agápeia with a proposition. He wants to finance a major expedition into unexplored territory to the north, where ancient geological surveys suggest enormous deposits of emerald and other precious gems might exist. He needs her skill in prospecting and her reputation for reliable and safe operations. The pay is substantial—enough to fund her own independent operation for years. However, Korvum is vague about his financing sources, and Agápeia's instincts suggest that at least some of his backing comes from interests aligned with the Órashion Consortium. The expedition would take her away from the Bizarian League for months, potentially making her unavailable to her existing clients and allies. It also risks her reputation if the expedition is associated with the Consortium's activities.
+: A wealthy merchant named [Korvum Silvertongue]{.name data-type="being/npc"} approaches Agápeia with a proposition. He wants to finance a major expedition into unexplored territory to the north, where ancient geological surveys suggest enormous deposits of emerald and other precious gems might exist. He needs her skill in prospecting and her reputation for reliable and safe operations. The pay is substantial—enough to fund her own independent operation for years. However, Korvum is vague about his financing sources, and Agápeia's instincts suggest that at least some of his backing comes from interests aligned with the Órashion Consortium. The expedition would take her away from the Bizarian League for months, potentially making her unavailable to her existing clients and allies. It also risks her reputation if the expedition is associated with the Consortium's activities.
 
 The Whispers from Below
 : Over recent months, miners across the Bizarian League have reported strange sounds and vibrations emanating from deeper levels—sounds that don't match any known natural phenomenon or previously encountered creature. Some miners refuse to descend to certain depths. Agápeia is asked by the Miners' Union to investigate the source of these disturbances, both out of concern for miner safety and because there is fear that something is disrupting the geological stability of the entire mining region. Her investigation takes her deeper than she has previously ventured, into areas where the stone itself seems strange and where she begins to discover evidence that something vast and old dwells below.

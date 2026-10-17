@@ -420,13 +420,13 @@ sohl:
 
 ![[chndrkrtsndrjyvl|Chandrakirtisundari Jayavalli]]{float=top-left}
 
-Chandrakirtisundari stands 5'6" tall with a medium build. She has dark brown skin, dark black hair, and warm brown eyes. Her features include a diamond-shaped face, a prominent nose, a narrow chin, an expressive mouth, dark brows, and rounded cheeks.
+Chandrakirtisundari Jayavalli stands 5'6" tall with a medium build. She has dark brown skin, dark black hair, and warm brown eyes. Her features include a diamond-shaped face, a prominent nose, a narrow chin, an expressive mouth, dark brows, and rounded cheeks.
 
 # Dossier {#dossier}
 
-Chandrakirtisundari was born into modest circumstances in the Port District of [[place-vedyarargn|Vedyara]], the daughter of a Vedyaran courtesan named **Pushti Jayavalli** and an unnamed Bizarian merchant who visited her mother's quarters only once. The merchant left behind little but the prominent nose and narrow chin of his people—distinctive enough that Chandrakirtisundari has always been set apart by her appearance. Her childhood was spent partly in her mother's quarter, where she was Chandri, and partly in the streets, learning early that beauty was a commodity, that information was currency, and that survival required constant awareness of threats.
+Chandrakirtisundari was born into modest circumstances in the [Port District]{.name data-type="place/site"} of the [[place-vedyarargn|Vedyara Region]], the daughter of a [[lore-vedyariclt|Vedyari]] courtesan named [Pushti Jayavalli]{.name data-type="being/npc"} and an unnamed [[lore-byzarianclt|Bizarian]] merchant who visited her mother's quarters only once. The merchant left behind little but the prominent nose and narrow chin of his people—distinctive enough that Chandrakirtisundari has always been set apart by her appearance. Her childhood was spent partly in her mother's quarter, where she was Chandri, and partly in the streets, learning early that beauty was a commodity, that information was currency, and that survival required constant awareness of threats.
 
-At fourteen, she entered into a semi-formal arrangement with the **Twilight House**, one of Vedyara's most prestigious establishments serving wealthy clients. Her unusual appearance and precocious intelligence made her valuable, and her handlers recognized her potential for a different sort of work: she began eavesdropping on clients' conversations, gathering intelligence for great houses and Shreshthins, carrying messages between powerful figures who preferred not to be seen communicating. At sixteen, she was quietly recruited into the [[affiliation-adanasreni|Adanashreni]] through connections made at the Twilight House, operating under the assumption that her work gathering secrets was compatible with—and occasionally directly served—the shrena's interests.
+At fourteen, she entered into a semi-formal arrangement with **[[affiliation-twilighths|The Twilight House]]**, one of Vedyara's most prestigious establishments serving wealthy clients. Her unusual appearance and precocious intelligence made her valuable, and her handlers recognized her potential for a different sort of work: she began eavesdropping on clients' conversations, gathering intelligence for great houses and Shreshthins, carrying messages between powerful figures who preferred not to be seen communicating. At sixteen, she was quietly recruited into [[affiliation-adanasreni|The Adanashreni]] through connections made at the Twilight House, operating under the assumption that her work gathering secrets was compatible with—and occasionally directly served—the shrena's interests.
 
 For the past six years, she has walked an increasingly precarious line: serving her clients at the Twilight House, gathering intelligence for the Adanashreni, and attempting to maintain enough independent agency to survive if either organization turns against her. She has become highly skilled at reading people, at understanding motivation and hidden purpose, at extracting information without raising suspicion. Yet with each passing year, she feels the walls closing in—the demands becoming more dangerous, the moral compromises more severe, the likelihood of eventual betrayal or exposure increasing.
 
@@ -440,7 +440,7 @@ Her default state is hypervigilance: she reads people with extraordinary skill, 
 
 ### Motivation
 
-Chandrakirtisundari seeks escape from her current circumstances: she wants to accumulate enough wealth and enough leverage to vanish from both the Adanashreni and the Twilight House, to disappear into a new identity in a distant city where no one knows her history or her profession. She is motivated by fear as much as ambition—the fear that if she remains in Vedyara much longer, the accumulated weight of her obligations will crush her, or worse, that someone she has betrayed will discover her deception and kill her. She also harbors a secret and dangerous desire for redemption or at least for a life where she need not constantly perform and dissemble. The Vyalendra she worships—goddess of creation—represents for her the possibility of transformation, of being born anew into authentic selfhood.
+Chandrakirtisundari seeks escape from her current circumstances: she wants to accumulate enough wealth and enough leverage to vanish from both the Adanashreni and the Twilight House, to disappear into a new identity in a distant city where no one knows her history or her profession. She is motivated by fear as much as ambition—the fear that if she remains in Vedyara much longer, the accumulated weight of her obligations will crush her, or worse, that someone she has betrayed will discover her deception and kill her. She also harbors a secret and dangerous desire for redemption or at least for a life where she need not constantly perform and dissemble. The [[lore-vyalendradty|Vyalendra]] she worships—goddess of creation—represents for her the possibility of transformation, of being born anew into authentic selfhood.
 
 ### Strengths
 
@@ -481,7 +481,7 @@ Limited Legitimate Options
 ### Patrons
 
 The Twilight House Administration
-: Led by the mysterious **Madame Siralina**, the house provides Chandrakirtisundari with shelter, clients, and access to the wealthy and powerful. The house also protects her from external threats—so long as she remains profitable and obedient.
+: Led by the mysterious Madame [Siralina]{.name data-type="being/npc"}, the house provides Chandrakirtisundari with shelter, clients, and access to the wealthy and powerful. The house also protects her from external threats—so long as she remains profitable and obedient.
 
 Great Houses of Vedyara (Various)
 : Several wealthy merchants, members of lesser great houses, and powerful shrena members maintain ongoing arrangements with her, paying for her company and her discretion. Each maintains leverage over her through blackmail or financial dependency.
@@ -492,13 +492,13 @@ The Adanashreni (Covertly)
 ### Enemies
 
 The Shrena of Rivals
-: Several members of the Adanashreni view her divided loyalty as a threat. **Master Thief Gorran** in particular has marked her as someone who serves too many masters and may eventually betray shrena secrets to one of her other patrons.
+: Several members of the Adanashreni view her divided loyalty as a threat. Master Thief [Gorran]{.name data-type="being/npc"} in particular has marked her as someone who serves too many masters and may eventually betray shrena secrets to one of her other patrons.
 
 Discarded Lovers
 : Several former clients have become obsessed with her, believing that her paid warmth was real love. Some have become dangerous, attempting to force commitment, threatening violence, or spreading rumors about her work.
 
 Apothecary [[being-cndrthrchrymkhysvr|Chandratar Acharyamukhyeshvara]]
-: Chandrakirtisundari discovered that [[being-cndrthrchrymkhysvr|Chandratar]] was crafting poisons for hire and attempted to use this knowledge as leverage. He became aware of her investigation and now views her as a threat to his carefully constructed secrecy and safety. He has begun subtly poisoning her, testing compounds and doses to determine how best to kill her when the time comes.
+: Chandrakirtisundari discovered that Chandratar was crafting poisons for hire and attempted to use this knowledge as leverage. He became aware of her investigation and now views her as a threat to his carefully constructed secrecy and safety. He has begun subtly poisoning her, testing compounds and doses to determine how best to kill her when the time comes.
 
 ### Affiliations
 
@@ -508,7 +508,7 @@ Adanashreni
 Twilight House
 : Her workplace and residence, providing both protection and constraint. She is simultaneously valued asset and trapped commodity.
 
-Vyalendra's Temple
+[Vyalendra's Temple]{.name data-type="affiliation"}
 : An informal spiritual affiliation; she prays to the goddess of creation hoping for transformation or redemption, though she attends temple only rarely and carefully.
 
 ## Plot Hooks
@@ -520,7 +520,7 @@ The Patricide Commission
 : The Adanashreni assigns her a new task: assassinate a wealthy merchant whose daughter is an admirer and friend of one of the shrena's leadership. The target is her own biological father—the Bizarian merchant who visited her mother once before vanishing from her life. She has spent years never knowing his identity, and the shrena conveniently discovered it and assigned it to her deliberately, either to test her loyalty or to be rid of her by making her too compromised to remain useful. Her choices are to betray the shrena, to commit patricide, or to find a third path that allows her to escape both organizations.
 
 The Servant's Secrets
-: A slave belonging to one of her regular clients is found dead under mysterious circumstances. The death appears accidental, but **Apothecary [[being-cndrthrchrymkhysvr|Chandratar]]** is suspected of involvement, and the city guard begins investigating. Chandrakirtisundari realizes that [[being-cndrthrchrymkhysvr|Chandratar]] may be testing his poison on vulnerable targets, and that she herself may be next. Yet if she reveals her knowledge to authorities, she will expose her connection to intelligence networks and become a liability to both the shrena and the Twilight House. She can approach [[being-cndrthrchrymkhysvr|Chandratar]] directly, attempt to have him apprehended through covert means, or simply accelerate her plans to escape the city.
+: A slave belonging to one of her regular clients is found dead under mysterious circumstances. The death appears accidental, but **Apothecary [[being-cndrthrchrymkhysvr|Chandratar]]** is suspected of involvement, and the city guard begins investigating. Chandrakirtisundari realizes that Chandratar may be testing his poison on vulnerable targets, and that she herself may be next. Yet if she reveals her knowledge to authorities, she will expose her connection to intelligence networks and become a liability to both the shrena and the Twilight House. She can approach Chandratar directly, attempt to have him apprehended through covert means, or simply accelerate her plans to escape the city.
 
 The Twilight House's Fall
 : **Madame Siralina** is arrested on charges of human trafficking and forced servitude, a scandal that threatens the entire operation of the Twilight House. The house's protection is stripped away, and its employees become vulnerable to whatever creditors, enemies, or abusive clients wish to inflict. Chandrakirtisundari discovers that the arrest was orchestrated by a powerful rival merchant faction intending to seize control of the house's operations and its wealth. She can either assist in the house's restoration (reinforcing her entrapment), abandon the house and its inhabitants to their fate, or attempt to negotiate a position with the new controllers, thereby securing her survival at the cost of complicity in the house's transformation into something potentially worse.

@@ -420,15 +420,15 @@ sohl:
 
 ![[prthmjkydr|Prtimaja Kayadara]]{float=top-left}
 
-Prtimaja stands 5'6" tall with a medium build. He has light golden skin, black hair, and brown eyes. His features include a round face, a broad nose, a tapered chin, generous lips, thick dark brows, and high cheeks.
+Prtimaja Kayadara stands 5'6" tall with a medium build. He has light golden skin, black hair, and brown eyes. His features include a round face, a broad nose, a tapered chin, generous lips, thick dark brows, and high cheeks.
 
 # Dossier {#dossier}
 
-Prtimaja was born in the city of [[place-chandrapur2|Chendrapur]] to a family of respected jewelers, though not of the first rank. His father, Vardhaman, was a competent stone-setter of modest renown, skilled at the technical aspects of his craft but lacking the creative vision that transforms gems into things of beauty. Young Prtimaja displayed his creative gift early, spending hours studying how light refracted through uncut stones, experimenting with angles and facets that his father dismissed as wasteful deviation from proven techniques.
+Prtimaja was born in the city of [[place-chandrapur2|Chendrapur]] to a family of respected jewelers, though not of the first rank. His father, [Vardhaman]{.name data-type="being/npc"}, was a competent stone-setter of modest renown, skilled at the technical aspects of his craft but lacking the creative vision that transforms gems into things of beauty. Young Prtimaja displayed his creative gift early, spending hours studying how light refracted through uncut stones, experimenting with angles and facets that his father dismissed as wasteful deviation from proven techniques.
 
-At age twelve, Prtimaja was apprenticed to Mahendra the Illuminator, master jeweler and keeper of the most esoteric secrets of gem-cutting. The apprenticeship was grueling—seven years of menial labor, failed experiments, and exacting criticism. Mahendra broke his spirit deliberately, Prtimaja later understood, to rebuild him according to the discipline the craft demanded. When finally, at nineteen, he was permitted to cut his first stone independently—a raw ruby of rare clarity—Prtimaja produced a gem of such beauty that it was purchased by a minor maharava and became famous within shrena circles.
+At age twelve, Prtimaja was apprenticed to [Mahendra the Illuminator]{.name data-type="being/npc"}, master jeweler and keeper of the most esoteric secrets of gem-cutting. The apprenticeship was grueling—seven years of menial labor, failed experiments, and exacting criticism. Mahendra broke his spirit deliberately, Prtimaja later understood, to rebuild him according to the discipline the craft demanded. When finally, at nineteen, he was permitted to cut his first stone independently—a raw ruby of rare clarity—Prtimaja produced a gem of such beauty that it was purchased by a minor maharava and became famous within shrena circles.
 
-For the next sixteen years, Prtimaja built his reputation through exacting work and new methods. He developed new techniques for cutting stones of particular colors, discovered that certain gem combinations enhanced each other's resonance, and created pieces that seemed to contain trapped light. His workshop in Vedyara became a destination for wealthy patrons from across the known world. Yet his success has been accompanied by rising anxiety—the perfectionism that drives his artistry has begun to poison his life, the business demands of managing commissions threatening to overwhelm his ability to create.
+For the next sixteen years, Prtimaja built his reputation through exacting work and new methods. He developed new techniques for cutting stones of particular colors, discovered that certain gem combinations enhanced each other's resonance, and created pieces that seemed to contain trapped light. His workshop in the [[place-vedyarargn|Vedyara Region]] became a destination for wealthy patrons from across the known world. Yet his success has been accompanied by rising anxiety—the perfectionism that drives his artistry has begun to poison his life, the business demands of managing commissions threatening to overwhelm his ability to create.
 
 ## Psyche
 
@@ -482,38 +482,38 @@ Vulnerability to Manipulation
 
 ### Patrons
 
-Chandrika Deshpande of a great house
+[Chandrika Deshpande]{.name data-type="being/npc"} of a great house
 : A woman of a great house, of impeccable taste who has patronized Prtimaja's work for twelve years, commissioning increasingly ambitious pieces. She has become his closest confidant, though neither has articulated the affection that has grown between them. She represents both his greatest patron and his most significant emotional entanglement.
 
-The Merchant Rajahs of the Spice Confederation
+The Merchant Rajahs of the [Spice Confederation]{.name data-type="affiliation/venture"}
 : A consortium of wealthy merchant families who have collectively commissioned significant numbers of Prtimaja's pieces for gifts and personal adornment. Their patronage keeps his business solvent during slow seasons.
 
-The Temple of Vyalendra
-: The great temple honors the deity Vyalendra (creation and craftsmanship) and regularly commissions sacred vessels, ceremonial jewels, and ritual objects from Prtimaja. This work sustains him spiritually even when it provides less income than private commissions.
+[The Temple of Vyalendra]{.name data-type="affiliation"}
+: The great temple honors the deity [[lore-vyalendradty|Vyalendra]] (creation and craftsmanship) and regularly commissions sacred vessels, ceremonial jewels, and ritual objects from Prtimaja. This work sustains him spiritually even when it provides less income than private commissions.
 
 Master Mahendra's Heirs
-: The family of his former teacher continues to commission his work and has become something like family, particularly Mahendra's granddaughter Sunita, who shares his love of creative problem-solving and has called him Prithu since she was a child.
+: The family of his former teacher continues to commission his work and has become something like family, particularly Mahendra's granddaughter [Sunita]{.name data-type="being/npc"}, who shares his love of creative problem-solving and has called him Prithu since she was a child.
 
 ### Enemies
 
-Kalmesh the Ambitious
+[Kalmesh the Ambitious]{.name data-type="being/npc"}
 : A younger jeweler of growing skill who views Prtimaja as an obstacle to his own ambitions. Kalmesh spreads rumors that Prtimaja's new techniques are merely fashionable affectations, that his reputation exceeds his actual skill. He undercuts prices aggressively and has begun poaching Prtimaja's apprentices.
 
-Maharava Devanura's Estate Administrators
+Maharava [[being-devanuravasa|Devanura Vasavesha]]'s Estate Administrators
 : After Devanura's death, his heirs have demanded Prtimaja return or provide compensation for an extraordinary piece that was commissioned but never completed. The administrators are pursuing legal action, claiming Prtimaja stole materials and payment without delivering the promised work. Prtimaja abandoned the piece because he could not achieve the vision he promised, but the administrators view this as simple theft.
 
-The Shrena Council's Conservative Faction
+The [Shrena Council]{.name data-type="affiliation/governmental"}'s Conservative Faction
 : Certain shrena masters view Prtimaja's new methods with suspicion, fearing that his experimental techniques violate traditional craft standards and compromise the shrena's integrity. They have moved to restrict his teaching and limit access to the finest raw materials.
 
 ### Affiliations
 
-The Jewelers' Shrena of Vedyara
+[The Jewelers' Shrena of Vedyara]{.name data-type="affiliation/guild"}
 : Prtimaja is a master member in full standing, though his relationship with certain factions is strained due to methodological disagreements.
 
 The Temple of Vyalendra
 : He is a devoted follower and regular contributor of work, viewing his craftsmanship as a form of worship.
 
-The Artisans' Collective
+[The Artisans' Collective]{.name data-type="affiliation"}
 : An informal network of master craftspeople from various disciplines who gather monthly to discuss techniques, challenges, and philosophical questions about their work.
 
 ## Plot Hooks

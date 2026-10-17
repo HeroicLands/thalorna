@@ -411,7 +411,7 @@ sohl:
 
 ![[kelnstylgn|Kelena Estilgon]]{float=top-left}
 
-Kelena stands 5'7" tall with a heavy build. She has golden-toned skin, flowing black hair, and alert eyes. Her features include an angular face, a prominent nose, a pronounced chin, heavy brows, and sculpted cheeks. She has a tattoo of intertwining dark green vines on her right upper arm and shoulder.
+Kelena Estilgon stands 5'7" tall with a heavy build. She has golden-toned skin, flowing black hair, and alert eyes. Her features include an angular face, a prominent nose, a pronounced chin, heavy brows, and sculpted cheeks. She has a tattoo of intertwining dark green vines on her right upper arm and shoulder.
 
 # Dossier {#dossier}
 
@@ -419,7 +419,7 @@ Kelena stands 5'7" tall with a heavy build. She has golden-toned skin, flowing b
 
 ### The Dancer's Daughter
 
-Kelena was born in the Kingdom of [[affiliation-kngdmprvnz|Provenzia]] to a musician mother and a father whose identity she has never disclosed and seems reluctant to discuss. Her childhood was spent in the theatrical world—her mother performed in various traveling troupes, and young Kelena was raised backstage, absorbing the arts of performance, seduction, and social manipulation as naturally as other children learn language. By age ten, she performed minor roles in stage productions; by fifteen, she was drawing attention as a dancer of unusual grace and charisma. Yet she demonstrated an early intelligence about the performance itself—understanding that physical beauty and dancing skill, while important, were secondary to the art of capturing and holding an audience's emotional attention.
+Kelena was born in the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] to a musician mother and a father whose identity she has never disclosed and seems reluctant to discuss. Her childhood was spent in the theatrical world—her mother performed in various traveling troupes, and young Kelena was raised backstage, absorbing the arts of performance, seduction, and social manipulation as naturally as other children learn language. By age ten, she performed minor roles in stage productions; by fifteen, she was drawing attention as a dancer of unusual grace and charisma. Yet she demonstrated an early intelligence about the performance itself—understanding that physical beauty and dancing skill, while important, were secondary to the art of capturing and holding an audience's emotional attention.
 
 ### The Rise Through Society
 
@@ -482,15 +482,15 @@ Vulnerability to Blackmail
 The Duke of [[place-ravenshold|Ravenshold]]
 : A powerful noble of considerable influence who has maintained a relationship with Kelena for the past four years. Their arrangement is more transactional than intimate, though he is fond of her and consistently provides substantial financial support in exchange for her company and discretion regarding his private matters.
 
-Merchant-Prince Chadzime Cholsamis
+Merchant-Prince [[being-chadzimechol|Chadzime Cholsamis]]
 : A wealthy merchant who profits considerably from the wine and luxury goods trade. Cholsamis views Kelena as an investment and source of status within high society, providing her with gifts and access to merchant circles in exchange for her presence at his events.
 
 ### Enemies
 
-Margot Thesselier
+[Margot Thesselier]{.name data-type="being/npc"}
 : A rival courtesan who has cultivated connections with some of Kelena's former patrons and actively works to undermine her reputation in high society. Margot views Kelena as superior in talent but lower in status, and resents deeply what she sees as Kelena's undeserved prominence.
 
-The Hidden Hand
+[The Hidden Hand]{.name data-type="affiliation"}
 : A shadowy organization rumored to traffic in information and maintain leverage over powerful individuals. Kelena has reason to believe they possess information about her past that could devastate her current position, and she lives in constant low-level fear of their attention.
 
 ### Affiliations

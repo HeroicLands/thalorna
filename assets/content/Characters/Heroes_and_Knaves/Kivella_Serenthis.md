@@ -406,7 +406,7 @@ Kivella Serenthis is a young woman of startling beauty and deeply unsettling pre
 
 ### Origin
 
-Kivella was born in [[place-belekos|Belekos]] to the same wealthy merchant family as her brother Lukeros. From infancy, she was different. She spoke early, read earlier, and displayed an insatiable hunger for knowledge that outpaced every tutor her parents provided. By ten, she was solving mathematical problems that challenged university scholars. By twelve, her arcane aura—the ambient resonance that marks those with potential for magical ability—was measured as the highest classification. She was a genius in every measurable sense, and the world seemed limitless.
+Kivella was born in [[place-belekos|Belekos]] to the same wealthy merchant family as her brother [[being-lucernsrnt|Lukeros Serenthis]]. From infancy, she was different. She spoke early, read earlier, and displayed an insatiable hunger for knowledge that outpaced every tutor her parents provided. By ten, she was solving mathematical problems that challenged university scholars. By twelve, her arcane aura—the ambient resonance that marks those with potential for magical ability—was measured as the highest classification. She was a genius in every measurable sense, and the world seemed limitless.
 
 ### The Academy
 
@@ -422,7 +422,7 @@ When Lukeros found her and extracted her from the facility, Kivella was a shatte
 
 ### Aboard the Tamzir
 
-Kivella has been aboard the Tamzir for eighteen months, sheltered by the crew and monitored constantly by Lukeros. She spends most of her time in their cabin, drawing, calculating, or staring at things no one else can see. On good days she is gentle, curious, and childlike—studying a rope splice with the rapt attention of a scholar examining a lost manuscript, or watching the cook chop vegetables with an expression of pure wonder. On bad days she is unreachable, or worse—reactive, her erratic abilities surging in ways that frighten everyone, including herself. The crew has learned to give her space, to speak softly around her, and to never, ever touch her without warning. They have also learned that Kivella is not helpless, even if she appears so. Twice the ship has been boarded, and twice Kivella stood frozen while the fighting raged around her—until a blade came close enough to threaten her life, at which point she became something else entirely: blindingly fast, precise, and lethal, disarming or destroying her attackers with a physicality that defies her slight frame. Both times, the moment the danger passed, she simply stopped—blinking, confused, as if waking from a dream—and had to be led below by her brother. She has no memory of what she did, and she cannot do it again on purpose. [[being-blgnrskn|Belgina Rusakuni]] has made the most progress in reaching her, finding in shared silence and simple mechanical work a connection that words cannot achieve.
+Kivella has been aboard [[affiliation-thetamzir|The Tamzir]] for eighteen months, sheltered by the crew and monitored constantly by Lukeros. She spends most of her time in their cabin, drawing, calculating, or staring at things no one else can see. On good days she is gentle, curious, and childlike—studying a rope splice with the rapt attention of a scholar examining a lost manuscript, or watching the cook chop vegetables with an expression of pure wonder. On bad days she is unreachable, or worse—reactive, her erratic abilities surging in ways that frighten everyone, including herself. The crew has learned to give her space, to speak softly around her, and to never, ever touch her without warning. They have also learned that Kivella is not helpless, even if she appears so. Twice the ship has been boarded, and twice Kivella stood frozen while the fighting raged around her—until a blade came close enough to threaten her life, at which point she became something else entirely: blindingly fast, precise, and lethal, disarming or destroying her attackers with a physicality that defies her slight frame. Both times, the moment the danger passed, she simply stopped—blinking, confused, as if waking from a dream—and had to be led below by her brother. She has no memory of what she did, and she cannot do it again on purpose. [[being-blgnrskn|Belgina Rusakuni]] has made the most progress in reaching her, finding in shared silence and simple mechanical work a connection that words cannot achieve.
 
 ## Psyche
 
@@ -446,7 +446,7 @@ Kivella suffers from severe dissociation. She is not in control of her own abili
 
 ### Patrons
 
-Her brother [[being-lucernsrnt|Lukeros Serenthis]] is her protector, caretaker, and most constant presence. The crew of the **Tamzir** have become reluctant but guardians.
+Her brother Lukeros is her protector, caretaker, and most constant presence. The crew of the **Tamzir** have become reluctant but guardians.
 
 ### Enemies
 

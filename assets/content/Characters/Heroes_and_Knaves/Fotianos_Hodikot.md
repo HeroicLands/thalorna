@@ -413,15 +413,15 @@ sohl:
 
 ![[ftnshdkt|Stemios Hodikot]]{float=top-left}
 
-Stemios stands 5'8" tall with a heavy build. He has light weathered skin, grey hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, and prominent brows. He has a scar on his right hand.
+Stemios Hodikot stands 5'8" tall with a heavy build. He has light weathered skin, grey hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, and prominent brows. He has a scar on his right hand.
 
 # Dossier {#dossier}
 
-Stemios was born the second son of Stratégios, a merchant of modest success in the coastal trading city of Nikhtion. His elder brother inherited the family's trading operations while Stemios, spirited and imaginative from youth, apprenticed with his mother's brother Bugon, proprietor of the celebrated inn called the Starlight Crown. Those early years instilled in him a deep philosophy: a good inn is a sanctuary, a stage where the great and small dramas of human life unfold.
+Stemios was born the second son of [Stratégios]{.name data-type="being/npc"}, a merchant of modest success in the coastal trading city of [[place-nykhtion|Nikhtion]]. His elder brother inherited the family's trading operations while Stemios, spirited and imaginative from youth, apprenticed with his mother's brother [[being-bugonvodidek|Bugon Vodidek]], proprietor of the celebrated inn called the [Starlight Crown]{.name data-type="place/structure"}. Those early years instilled in him a deep philosophy: a good inn is a sanctuary, a stage where the great and small dramas of human life unfold.
 
-At thirty-two, following Bugon's death, Stemios inherited and expanded the Starlight Crown, transforming it from a simple waystation into one of the most famous inns in the Bizarian League. Over the following decades, he earned his name through the rare art of hospitality—the subtle skill of making every guest feel simultaneously welcomed and known.
+At thirty-two, following Bugon's death, Stemios inherited and expanded the Starlight Crown, transforming it from a simple waystation into one of the most famous inns in the [[affiliation-byzarianlg|Bizarian League]]. Over the following decades, he earned his name through the rare art of hospitality—the subtle skill of making every guest feel simultaneously welcomed and known.
 
-His greatest achievement and deepest sorrow occurred simultaneously when his daughter Lyssandra, a promising healer's apprentice, died of a fever at age nineteen, an event that haunted him for twenty years until he found meaning in expanding his inn's reputation as a place of refuge and healing knowledge. Now, in his twilight years, Stemios operates less as a merchant and more as a keeper of traditions, a living bridge between the old ways and a present that increasingly threatens to leave him behind.
+His greatest achievement and deepest sorrow occurred simultaneously when his daughter [Lyssandra]{.name data-type="being/npc"}, a promising healer's apprentice, died of a fever at age nineteen, an event that haunted him for twenty years until he found meaning in expanding his inn's reputation as a place of refuge and healing knowledge. Now, in his twilight years, Stemios operates less as a merchant and more as a keeper of traditions, a living bridge between the old ways and a present that increasingly threatens to leave him behind.
 
 ## Psyche
 
@@ -475,13 +475,13 @@ Difficulty with Combat
 
 ### Patrons
 
-The City Magistrate, Lord Zipugos
+The City Magistrate, Lord [[being-zipugosgefyr|Zipugos Gefirikot]]
 : An aging administrator who conducts much of his actual governance from a corner table in the Starlight Crown's common room. Stemios provides him with information, advice, and the illusion of privacy while subtly influencing policy through carefully timed conversations.
 
-Captain Krusidade Plavidek of the Harbor Guard
+Captain [[being-krusidadepla|Krusidade Plavidek]] of the [Harbor Guard]{.name data-type="affiliation"}
 : A gruff military officer who has relied on Stemios for word of smuggling and crime in the port. Stemios freely trades information in exchange for protection and official favor.
 
-The Merchant House of Brugon
+[The Merchant House of Brugon]{.name data-type="affiliation/lineage"}
 : A wealthy trading family that considers the Starlight Crown their second home and pays high rates for exclusive use of the private dining hall. Stemios is their informal advisor in matters of society.
 
 Traveling Scholars and Healers
@@ -489,21 +489,21 @@ Traveling Scholars and Healers
 
 ### Enemies
 
-Kharon the Fist
+[Kharon the Fist]{.name data-type="being/npc"}
 : A new criminal lord from the southern territories who has been attempting to establish an extortion racket in the district. Stemios refused to pay protection money and has become the target of increasingly hostile "suggestions." Kharon views the innkeeper as an obstacle to establishing his power.
 
-Votia Sulfura
+[Votia Sulfura]{.name data-type="being/npc"}
 : A merchant woman of rival house who has accused Stemios of spreading false rumors about her trading practices, damaging her reputation and business. The two families maintain cold antagonism, though the rift may not be irreparable.
 
-The Orthodox Temple of Árdavon
+[The Orthodox Temple of Árdavon]{.name data-type="affiliation"}
 : Certain temple authorities believe Stemios's inn has become "too permissive" regarding who is served and what discussions are tolerated. They have sermonized against the inn and encouraged the faithful to boycott it, viewing him as spiritually corrupted by worldliness.
 
 ### Affiliations
 
-The Innkeepers' Association of the Bizarian League
+[The Innkeepers' Association of the Bizarian League]{.name data-type="affiliation"}
 : Stemios holds high standing, though he is often at philosophical odds with younger members regarding the running of an inn and the new fashions.
 
-The Order of Hospitality
+[The Order of Hospitality]{.name data-type="affiliation"}
 : An ancient, somewhat informal organization dedicated to preserving the traditions of sacred hospitality. Stemios is a sworn keeper of its traditions.
 
 The Starlight Crown

@@ -424,7 +424,7 @@ sohl:
 
 ![[zanutgezauzu|Zanut Geza'Uzu]]{float=top-left}
 
-Zanut stands 5'3" tall with a light build. She has golden brown skin, dark hair, and hazel eyes. Her features include a high-cheekboned face, a straight narrow nose, a narrow chin, full lips, golden brows, and high cheeks. She has a scar on her left ear.
+Zanut Geza'Uzu stands 5'3" tall with a light build. She has golden brown skin, dark hair, and hazel eyes. Her features include a high-cheekboned face, a straight narrow nose, a narrow chin, full lips, golden brows, and high cheeks. She has a scar on her left ear.
 
 # Dossier {#dossier}
 
@@ -500,21 +500,21 @@ Emotional Fragility Regarding Her Brother
 
 ### Patrons
 
-Master Herbalist Zareshu
+Master Herbalist [Zareshu]{.name data-type="being/npc"}
 : An elderly herbalist who has become something of a mentor figure to Zanut. Zareshu has quietly helped her acquire rare plant specimens and occasionally provides financial support when Zanut's circumstances become desperate, though without Zanut's explicit knowledge.
 
-The Village Healer Letheshu
+The Village Healer [[being-letheshu|Letheshu]]
 : A local healer who refers complex cases to Zanut and defends her against criticism, seeing in her work a worthy extension of his own practice.
 
-Noblewoman Qiya of Gar-Theqeru
+Noblewoman [Qiya]{.name data-type="being/npc"} of [Gar-Theqeru]{.name data-type="place"}
 : A wealthy patron who employs Zanut to create custom remedies. Though Qiya pays well, her actual motivation may be less pure than it appears—she may be cultivating Zanut for purposes Zanut does not yet understand.
 
 ### Enemies
 
-Church Inquisitor Zinlegir the Censorious
+Church Inquisitor [[being-zinlegirgara|Zinlegir Gar'Anlaghau]] the Censorious
 : A zealous religious official who views Zanut's independent practice and her use of certain botanicals as potentially heretical. He has begun investigating her work, questioning whether she employs forbidden magical techniques, and warning others away from her services. His scrutiny is partially motivated by religious concern, but also by his general hostility toward women working independently outside male supervision.
 
-The Merchant Alchemist Geron
+The Merchant Alchemist [[being-geron|Geron]]
 : A wealthy alchemist who produces remedies in bulk and who views Zanut as a threat to his hold on the trade. Geron produces cheaper, less effective alternatives and has begun spreading rumors that Zanut's high-quality remedies contain dangerous ingredients and that her methods are unsanitary.
 
 A Manipulative Former Patient

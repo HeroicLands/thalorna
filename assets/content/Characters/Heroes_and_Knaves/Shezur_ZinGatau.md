@@ -422,15 +422,15 @@ sohl:
 
 ![[shezurzingat|Shezur Zin'Gatau]]{float=top-left}
 
-Shezur stands 6'3" tall with a heavy build. He has warm brown skin, very dark brown hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a tapered chin, generous lips, warm brows, and prominent cheeks. He has a tattoo of a serpent on his back.
+Shezur Zin'Gatau stands 6'3" tall with a heavy build. He has warm brown skin, very dark brown hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a tapered chin, generous lips, warm brows, and prominent cheeks. He has a tattoo of a serpent on his back.
 
 # Dossier {#dossier}
 
-Shezur was born to the Zin'Gatau clan during the flooding season, third son of a metalworker's family. His father, [[being-zabmehtzingt|Zabmeht Zin'Gatau]], recognized early that young Shezur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shezur was apprenticed at age twelve to Master [[being-thaharqo2|Thaharqo]], keeper of the Imperial forge in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s merchant quarter. For twenty-three years, he honed his art under Thaharqo's exacting eye, learning to shape metal and to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
+Shezur was born to the [Zin'Gatau clan]{.name data-type="affiliation/lineage"} during the flooding season, third son of a metalworker's family. His father, [[being-zabmehtzingt|Zabmeht Zin'Gatau]], recognized early that young Shezur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shezur was apprenticed at age twelve to Master [[being-thaharqo2|Thaharqo]], keeper of the Imperial forge in the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s merchant quarter. For twenty-three years, he honed his art under Thaharqo's exacting eye, learning to shape metal and to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
 
 Upon his master's retirement, Shezur inherited the forge and established himself as the foremost supplier of functional weaponry to the Empire's military apparatus. His reputation spread quickly: soldiers entrusted their lives to Zin'Gatau blades and armor, knowing every piece had been tested and refined beyond simple adequacy. He married late at thirty-five, gaining two stepchildren from his union with [[being-megara|Megara]], a merchant's widow, though she passed seven years ago. Without heirs of his own blood, Shezur has begun mentoring promising apprentices, though he guards his knowledge jealously.
 
-Today, Shezur maintains his forge with obsessive dedication. Every dawn, before the city stirs, he stokes the fires that have burned continuously for nearly three decades. His workshop has become an institution—mercenary captains route themselves through Au'Khelathu specifically to commission pieces from his anvil.
+Today, Shezur maintains his forge with obsessive dedication. Every dawn, before the city stirs, he stokes the fires that have burned continuously for nearly three decades. His workshop has become an institution—mercenary captains route themselves through the [[place-aukhelathrgq|Au'Khelathu Region]] specifically to commission pieces from his anvil.
 
 ## Psyche
 
@@ -438,7 +438,7 @@ Today, Shezur maintains his forge with obsessive dedication. Every dawn, before 
 
 Shezur is a man of few words but absolute conviction. He measures success not in gold or prestige, but in function—a weapon must cut, armor must protect, and anything beyond utility is mere decoration distracting from purpose. This philosophy makes him prized by warriors and infuriating to aesthetes. He respects dedication and honest labor above all else; a person who works hard and without pretense will find in him a loyal ally, while idleness or deception earns only his contempt.
 
-His gruff exterior covers a deep spirituality. He observes the rites of Thuba'i with great care, believing that the prosperity god guides his hands in the shaping of metal. He keeps a small altar in the forge's corner, making daily offerings of oil and bread. To Shezur, his craft is not separate from his faith—they are inseparable aspects of a sacred covenant with his deity.
+His gruff exterior covers a deep spirituality. He observes the rites of the [[affiliation-thubai|Faith of Thuba'i]] with great care, believing that the prosperity god guides his hands in the shaping of metal. He keeps a small altar in the forge's corner, making daily offerings of oil and bread. To Shezur, his craft is not separate from his faith—they are inseparable aspects of a sacred covenant with his deity.
 
 ### Motivation
 
@@ -483,15 +483,15 @@ Aging Body
 ### Patrons
 
 [[being-akherethu2|Akherethu]]
-: Commander of the Au'Khelathu Imperial Guard, who has purchased from Shezur for seventeen years. Trusts no other source for his cohort's weapons and considers Zin'Gatau blades worth their weight in gold.
+: Commander of the [Au'Khelathu Imperial Guard]{.name data-type="affiliation"}, who has purchased from Shezur for seventeen years. Trusts no other source for his cohort's weapons and considers Zin'Gatau blades worth their weight in gold.
 
 Captain [[being-tharaset|Tharaset]]
 : A mercenary captain of considerable renown who leads a company of two hundred soldiers. She sends at least a dozen soldiers annually to commission from Shezur.
 
-Lord Merchant Zekhenti
+Lord Merchant [[being-zekhenti2|Zekhenti]]
 : A wealthy trader who deals in imperial contracts. While he cares little for the functional beauty of weapons, he appreciates the investment value of Zin'Gatau craftsmanship.
 
-The Bridge District Militia
+[The Bridge District Militia]{.name data-type="affiliation"}
 : The informal neighborhood watch that maintains peace in Au'Khelathu's merchant quarters. They scrape together funds to purchase Shezur's work whenever possible.
 
 ### Enemies
@@ -503,23 +503,23 @@ Master [[being-khelamose|Khelamose]] the Embellisher
 : A merchant organization representing aesthetic craftspeople across the Empire. They view Shezur as an enemy of true artistry and have lobbied to exclude his work from noble exhibition halls.
 
 Priest [[being-aqenmose2|Aqenmose]]
-: A mid-ranking cleric of Saq'aru (god of craftsmanship and architecture) who resents that Shezur worships Thuba'i. Aqenmose has suggested that Shezur's "heretical practices" compromise his quality and spreads this falsehood among religious merchants.
+: A mid-ranking cleric of the [[affiliation-psaqaru|Faith of Saq'aru]] (devoted to [[lore-psaqarudty|Saq'aru]], god of craftsmanship and architecture) who resents that Shezur worships Thuba'i. Aqenmose has suggested that Shezur's "heretical practices" compromise his quality and spreads this falsehood among religious merchants.
 
 ### Affiliations
 
 [[affiliation-linmelnkhlth|Lin'Melnu elu Au'Khelathu]]
 : Though Shezur maintains independence and refuses guild leadership positions, he remains formally registered and pays his annual dues. The guild recognizes him as the highest-ranked active craftsperson.
 
-Imperial Military Quartermaster's Office
+[Imperial Military Quartermaster's Office]{.name data-type="affiliation/governmental"}
 : While not an official affiliation, Shezur maintains standing contracts with the Empire's military procurement division, granting him priority access to the finest raw materials in imperial warehouses.
 
 ## Plot Hooks
 
 The Cursed Blade
-: A young soldier commissions Shezur to forge a weapon to replace one lost in a skirmish, but claims the original blade "whispered to him" in dreams and guided his sword arm. Shezur, initially dismissing this as fancy, begins experiencing disturbing visions while working the metal—images of a battlefield under an unnatural mist. Investigation reveals the original weapon was forged decades ago by a metalworker now long dead, a practitioner of forbidden blood-alchemy who bound a djinn's fragment into the steel. The new blade Shezur creates risks inheriting the curse unless he can discover and perform a purification ritual. **Thaharqo's Library**, his old master's sealed collection, contains references to such magic—but Thaharqo's descendants have closed it to all outsiders.
+: A young soldier commissions Shezur to forge a weapon to replace one lost in a skirmish, but claims the original blade "whispered to him" in dreams and guided his sword arm. Shezur, initially dismissing this as fancy, begins experiencing disturbing visions while working the metal—images of a battlefield under an unnatural mist. Investigation reveals the original weapon was forged decades ago by a metalworker now long dead, a practitioner of forbidden blood-alchemy who bound a djinn's fragment into the steel. The new blade Shezur creates risks inheriting the curse unless he can discover and perform a purification ritual. [Thaharqo's Library]{.name data-type="lore"}, his old master's sealed collection, contains references to such magic—but Thaharqo's descendants have closed it to all outsiders.
 
 The Pretender Apprentice
-: An ambitious young craftsperson calling herself **Meshlen the Talented** appears in the city, claiming to have trained under Shezur himself and establishing a competing forge. She produces decent work at significantly lower prices, undercutting his contracts. Shezur knows he never trained anyone by that name, but his denial is dismissed as a rival's jealousy. When the militia discovers that several weapons from Meshlen's forge have catastrophic flaws—blades breaking mid-combat, armor plates separating—Shezur is implicated for sabotage. The truth is far more complex: Meshlen learned her craft from Deacon [[being-khelamose|Khelamose]], a former apprentice of Shezur's who was dismissed for theft and has been slowly poisoning her raw materials to trigger failures. Shezur must prove his innocence and prevent more deaths while confronting a ghost from his past.
+: An ambitious young craftsperson calling herself [[being-meshlen|Meshlen]] the Talented appears in the city, claiming to have trained under Shezur himself and establishing a competing forge. She produces decent work at significantly lower prices, undercutting his contracts. Shezur knows he never trained anyone by that name, but his denial is dismissed as a rival's jealousy. When the militia discovers that several weapons from Meshlen's forge have catastrophic flaws—blades breaking mid-combat, armor plates separating—Shezur is implicated for sabotage. The truth is far more complex: Meshlen learned her craft from Deacon Khelamose, a former apprentice of Shezur's who was dismissed for theft and has been slowly poisoning her raw materials to trigger failures. Shezur must prove his innocence and prevent more deaths while confronting a ghost from his past.
 
 The Dragon-Steel Commission
 : An aged merchant prince approaches Shezur with an unprecedented request: forge armor from the scales of a dragon, obtained at ruinous expense. The scales are harder than any known metal, and the merchant will pay enough gold to set Shezur's family for generations. However, the scales are warm to the touch and seem almost alive, resisting the hammer and occasionally glowing faintly during the night. A mysterious scholar who witnesses Shezur's work mentions in passing that dragon scales retain the echo of the creature's essence and that working with them without proper blessing could invite the dead wyrm's wrath. Shezur must weigh the honor of his craft, the need for a divine blessing, and whether some commissions are too dangerous to accept, even for a life-changing reward.
@@ -528,4 +528,4 @@ The Thief's Gold
 : A heavily cloaked figure delivers a fortune in rare coins and exotic metals, commissioning an arsenal of weapons delivered in absolute secrecy to a location Shezur is forbidden to know. Every instinct screams that this work is intended for rebellion or darker purposes, violating his moral code of supplying only legitimate military forces. Yet the payment is more than the Imperial Guard spends in a year, and refusing could invite dangerous enemies. As Shezur works, soldiers and spies begin asking questions about his recent acquisitions. He can accept this doubtful work, risk his reputation by refusing, or attempt to uncover who is truly behind the commission before blood is spilled.
 
 The Master's Succession
-: As Shezur ages, the Imperial Metalworkers' Guild approaches him to formally designate an heir to his techniques and legacy. However, **young Djehuti**, his most promising apprentice, recently revealed a dark secret: he has been secretly studying with **Master Khelamose's workshop** to learn decorative techniques. Shezur sees this as betrayal of everything he stands for. Simultaneously, the military has begun inquiring whether Shezur would consider training military smiths officially, a position offering security but demanding he leave his independent forge. Caught between the desire to preserve his legacy and the need to keep it pure, The question is which he values more: his reputation, or those who will carry his craft forward.
+: As Shezur ages, the Imperial Metalworkers' Guild approaches him to formally designate an heir to his techniques and legacy. However, young [Djehuti]{.name data-type="being/npc"}, his most promising apprentice, recently revealed a dark secret: he has been secretly studying with **Master Khelamose's workshop** to learn decorative techniques. Shezur sees this as betrayal of everything he stands for. Simultaneously, the military has begun inquiring whether Shezur would consider training military smiths officially, a position offering security but demanding he leave his independent forge. Caught between the desire to preserve his legacy and the need to keep it pure, The question is which he values more: his reputation, or those who will carry his craft forward.

@@ -415,15 +415,15 @@ sohl:
 
 ![[anrjhrdvmbjkr|Anuraja Harshadevambujakar]]{float=top-left}
 
-Anuraja stands 6'0" tall with a medium build. He has golden brown skin, dark brown hair, and deep brown eyes. His features include a diamond-shaped face, a straight nose, a soft jawline, full lips, golden brows, and rounded cheeks. He has a tattoo of a tiger on his forearm.
+Anuraja Harshadevambujakar stands 6'0" tall with a medium build. He has golden brown skin, dark brown hair, and deep brown eyes. His features include a diamond-shaped face, a straight nose, a soft jawline, full lips, golden brows, and rounded cheeks. He has a tattoo of a tiger on his forearm.
 
-Most striking is the tiger tattoo on his right forearm, a creature rendered in fine detail that seems to move in candlelight. The tattoo marks his lineage: it indicates his training within the Vedyaran tradition of shadow-work. His hands, with their precise fingers and evident dexterity, are as dangerous as any blade; despite their slender appearance, they possess devastating capability.
+Most striking is the tiger tattoo on his right forearm, a creature rendered in fine detail that seems to move in candlelight. The tattoo marks his lineage: it indicates his training within the [[lore-vedyariclt|Vedyari]] tradition of shadow-work. His hands, with their precise fingers and evident dexterity, are as dangerous as any blade; despite their slender appearance, they possess devastating capability.
 
 # Dossier {#dossier}
 
-Anuraja was born into a city-state family of middling merchants in [[place-vedyarargn|Vedyara]], the youngest child of a father whose business interests were built upon careful political positioning rather than trade itself. From earliest childhood, he displayed an unsettling affinity for violence—not the hot-blooded rage of a typical child, but a cold, analytical interest in how the most injury could be inflicted with the least effort.
+Anuraja was born into a city-state family of middling merchants in the [[place-vedyarargn|Vedyara Region]], the youngest child of a father whose business interests were built upon careful political positioning rather than trade itself. From earliest childhood, he displayed an unsettling affinity for violence—not the hot-blooded rage of a typical child, but a cold, analytical interest in how the most injury could be inflicted with the least effort.
 
-At age eight, his father, recognizing something unusual in the boy, engaged instructors from the Vedyaran shadow-brotherhoods—organizations of trained assassins who maintain the balance of power through selective elimination of threats and inconvenient persons. For the next fifteen years, Anuraja underwent an intensive education unlike any formal schooling. He learned poisons from **Master Devan**, studied the art of silent movement under **the Night-Walker**, mastered the philosophy of clean assassination from the elderly **Grandmother Vex**, and trained in weaponry under **Kesh the Scarred**. By age twenty-three, he had completed his training and taken his first paid contracts.
+At age eight, his father, recognizing something unusual in the boy, engaged instructors from the Vedyaran shadow-brotherhoods—organizations of trained assassins who maintain the balance of power through selective elimination of threats and inconvenient persons. For the next fifteen years, Anuraja underwent an intensive education unlike any formal schooling. He learned poisons from Master [Devan]{.name data-type="being/npc"}, studied the art of silent movement under the [Night-Walker]{.name data-type="being/npc"}, mastered the philosophy of clean assassination from the elderly Grandmother [Vex the Undying]{.name data-type="being/npc"}, and trained in weaponry under [Kesh the Scarred]{.name data-type="being/npc"}. By age twenty-three, he had completed his training and taken his first paid contracts.
 
 Now, at thirty-one, Anuraja has become something of a legend within certain circles—an assassin of such skill that the wealthy and powerful quietly compete to engage his services, and the paranoid take extraordinary precautions merely knowing he exists in the world. He has never failed a contract, a perfect record maintained through careful planning, ruthless decision-making, and a willingness to abandon assignments that show any sign of compromise. He operates independently, taking contracts only from sources he verifies personally, and keeping his work in absolute secrecy.
 
@@ -492,7 +492,7 @@ Isolation
 
 ### Patrons
 
-The House of Vedyan Merchants
+[The House of Vedyan Merchants]{.name data-type="affiliation/venture"}
 : A great merchant house that has contracted Anuraja's services repeatedly over eight years, always for high-stakes elimination of political or commercial rivals. They pay extraordinarily well and understand the necessity of discretion.
 
 The Shadow-Brotherhoods of Vedyara
@@ -500,13 +500,13 @@ The Shadow-Brotherhoods of Vedyara
 
 ### Enemies
 
-The Righteous Order of Preservation
+[The Righteous Order of Preservation]{.name data-type="affiliation/order"}
 : A loose confederation of paladins, clerics, and holy warriors who view assassins as abominations requiring eradication. They have a standing contract to hunt Anuraja, though he has so far managed to avoid direct confrontation through his superior intelligence and stealth.
 
 Vex the Undying
 : Anuraja's former mentor, Grandmother Vex, has begun to hunt him for reasons he does not fully understand. She seems to believe that Anuraja has strayed from the philosophical principles of shadow-work and must be eliminated. Their war is conducted in shadows, with neither able to gain decisive advantage.
 
-The Shrena of Ironhands
+[The Shrena of Ironhands]{.name data-type="affiliation"}
 : A mercenary organization that views Anuraja as competition. They have attempted several times to eliminate him or recruit him forcibly, none of which has succeeded.
 
 ### Affiliations

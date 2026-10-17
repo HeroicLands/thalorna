@@ -419,11 +419,11 @@ sohl:
 
 ![[glrvrnstrmrt|Glirvrinna Snarvumak]]{float=top-left}
 
-Glirvrinna stands 5'7" tall with a light build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a narrow nose, a rounded chin, rosy lips, and light brows.
+Glirvrinna Snarvumak stands 5'7" tall with a light build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a narrow nose, a rounded chin, rosy lips, and light brows.
 
 # Dossier {#dossier}
 
-**Glirvrinna** was born in the [[affiliation-kingdomlgn|Kingdom of Malagna]] to **Mirvir Snarvumak**, a skilled tentmaker of considerable reputation, and **Ilthira**, a woman known for her excellence in textile dying and pattern design. From infancy, she was surrounded by fabrics, dyes, and the rhythmic sounds of looms and needles. Where her father Mirvir was practical—designing tents to withstand mountain gales and desert heat—her mother Ilthira was artistic, creating patterns that made functional items beautiful.
+**Glirvrinna** was born in the [[affiliation-kingdomlgn|Kingdom of Malagna]] to **[[being-mirvirsnarvu|Mirvir Snarvumak]]**, a skilled tentmaker of considerable reputation, and [[being-ilthyra|Ilthira]], a woman known for her excellence in textile dyeing and pattern design. From infancy, she was surrounded by fabrics, dyes, and the rhythmic sounds of looms and needles. Where her father Mirvir was practical—designing tents to withstand mountain gales and desert heat—her mother Ilthira was artistic, creating patterns that made functional items beautiful.
 
 Glirvrinna inherited gifts from both parents, but early on demonstrated her mother's inclination toward artistry over pure function. She trained first under her father, learning structure and practical construction, but spent her true passion studying under her mother, discovering the secrets of dyes and the possibilities of decorative design. At twenty-four, Mirvir retired due to arthritis in his hands and left the shop to Glirvrinna on the condition that she maintain both their family's traditions—functional excellence and artistic beauty.
 
@@ -481,24 +481,24 @@ Financial Naïveté
 
 ### Patrons
 
-Lord Vraldmil Braldaruk
+Lord [[being-vraldmylbral|Vraldmil Braldaruk]]
 : A wealthy noble with appreciation for fine art and textiles. He has commissioned multiple tapestries and furnishings from Glirvrinna and frequently recommends her work to his peers, providing steady access to high-value commissions.
 
-The Traveling Muse Theater Company
+[The Traveling Muse Theater Company]{.name data-type="affiliation"}
 : A prestigious performance group that requires stunning costumes and set dressings. They commission Glirvrinna multiple times yearly and have become her most visible patrons, as her work appears before large audiences.
 
-Lin'Zuwaret elu Au'Khelathu's Flagship Crews
+[[affiliation-linzwrtkhlth|Lin'Zuwaret elu Au'Khelathu]]'s Flagship Crews
 : Successful merchant captains who value appearing prosperous commission elaborate tent pavilions and shipboard furnishings from her workshop. These provide both income and maritime visibility for her work.
 
-Princess Hvarnthira of Malagna
+Princess [[being-hvarnthyra|Hvarnthira]] of Malagna
 : The royal family has begun commissioning items from Glirvrinna, including ceremonial banners and royal furnishings. Though royal patronage is recent, it promises to elevate her status considerably.
 
 ### Enemies
 
-Master Craftsman Knarvorv the Practical
+Master Craftsman [Knarvorv the Practical]{.name data-type="being/npc"}
 : An older male tentmaker who represents the "function-first" philosophy Glirvrinna's father stood for. Knarvorv publicly criticizes her work as beautiful but impractical and has won contracts she sought by undercutting her prices and emphasizing durability over aesthetics.
 
-Draskselda the Copyist
+[Draskselda the Copyist]{.name data-type="being/npc"}
 : A jealous rival artisan who specializes in producing close imitations of Glirvrinna's original designs at lower cost. Draskselda's plagiarism has cost Glirvrinna several clients, though legal action has proven difficult given the custom nature of textile work.
 
 Her Father, Mirvir Snarvumak
@@ -506,7 +506,7 @@ Her Father, Mirvir Snarvumak
 
 ### Affiliations
 
-The Artisans' Collective of Malagna
+[The Artisans' Collective of Malagna]{.name data-type="affiliation"}
 : Glirvrinna is a prominent member and serves on the council, though she remains somewhat isolated due to her focus on textiles rather than more traditionally respected arts like sculpture or painting.
 
 ## Plot Hooks

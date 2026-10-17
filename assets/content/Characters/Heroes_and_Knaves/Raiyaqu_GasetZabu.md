@@ -425,13 +425,13 @@ sohl:
 
 ![[raiyaqugstzb|Raiyaku Gaset'Zabu]]{float=top-left}
 
-Raiyaku stands 5'8" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a noble nose, a smooth jawline, dark brows, and prominent cheeks.
+Raiyaku Gaset'Zabu stands 5'8" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a noble nose, a smooth jawline, dark brows, and prominent cheeks.
 
 # Dossier {#dossier}
 
 **A Daughter of Privilege**
 
-Raiyaku was born into the House of Gasezabu, one of the oldest and most respected noble families in the Empire of [[affiliation-empireakhlth|Au'Khelathu]], with ancestry tracing back through two centuries of administrators, generals, and patrons of the arts. Her father, the deceased Lord Alunet Gasezabu, was a celebrated diplomat and scholar who served the Empire in diplomatic missions to neighboring realms. Her mother, Lady Zezabu Gasezabu (née Qelti), brought connections to the military elite through her own lineage. From childhood, Raiyaku was groomed for the courtier's life: trained in languages, the arts, diplomatic forms, and the arithmetic of noble alliance-building.
+Raiyaku was born into the [House of Gasezabu]{.name data-type="affiliation/lineage"}, one of the oldest and most respected noble families in the [[affiliation-empireakhlth|Empire of Au'Khelathu]], with ancestry tracing back through two centuries of administrators, generals, and patrons of the arts. Her father, the deceased Lord [[being-alunetgasezb|Alunet Gasezabu]], was a celebrated diplomat and scholar who served the Empire in diplomatic missions to neighboring realms. Her mother, Lady [[being-zezabugasezb|Zezabu Gasezabu]] (née Qelti), brought connections to the military elite through her own lineage. From childhood, Raiyaku was groomed for the courtier's life: trained in languages, the arts, diplomatic forms, and the arithmetic of noble alliance-building.
 
 **Cultivation of Influence Through Compassion**
 
@@ -439,7 +439,7 @@ Where many young nobles of her station view their position primarily as privileg
 
 **Current Position**
 
-Now at twenty-seven, Raiyaku serves on the Local Nobility Council, where she speaks for the support of the arts and the protection of artisan guilds. She maintains a palatial residence that doubles as a venue for cultural events, and her guest lists are among the most coveted in the empire. She has thus far resisted pressure to marry, preferring to remain independent and focused on her works of cultural patronage. Her reputation for integrity is such that even those who might not appreciate her reforming values understand that her word is absolute and her loyalty steadfast.
+Now at twenty-seven, Raiyaku serves on [[affiliation-genzetzabu|Genzet'Zabu]], the Local Nobility Council, where she speaks for the support of the arts and the protection of artisan guilds. She maintains a palatial residence that doubles as a venue for cultural events, and her guest lists are among the most coveted in the empire. She has thus far resisted pressure to marry, preferring to remain independent and focused on her works of cultural patronage. Her reputation for integrity is such that even those who might not appreciate her reforming values understand that her word is absolute and her loyalty steadfast.
 
 ## Psyche
 
@@ -500,7 +500,7 @@ Inexperience with Hardship
 Lady [[being-qeketqeltag2|Qeket Qelt'Agetu]]
 : An elder noblewoman of celebrated taste who has been Raiyaku's mentor in artistic patronage and cultural politics. She provides counsel on the shifting alliances of the factions.
 
-Master Architect Laraket
+Master Architect [Laraket]{.name data-type="being/npc"}
 : A celebrated designer and builder who has benefited tremendously from Raiyaku's commissions and patronage; he is devoted to her vision of elevating artisan crafts and advises her on building and public works.
 
 [[affiliation-genzetuznera|Genzet'Uzn'era]]
@@ -522,7 +522,7 @@ Faction of Conservative Traditionalists
 Local Nobility Council
 : Raiyaku is an active member, though her reform-minded positions often put her at odds with the council's traditional conservative faction.
 
-Artisans' and Craftspeople's Alliance
+[Artisans' and Craftspeople's Alliance]{.name data-type="affiliation"}
 : While not formally a member, Raiyaku works closely with this organization, speaking within noble circles for the alliance's interests.
 
 [[affiliation-genzetzabqar|Genzet'Zabqar]]

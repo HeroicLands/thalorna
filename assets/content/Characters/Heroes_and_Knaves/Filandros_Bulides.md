@@ -422,13 +422,13 @@ sohl:
 
 ![[flndrsbldds|Sakozes Bulides]]{float=top-left}
 
-Sakozes stands 5'9" tall with a medium build. He has sun-tanned skin, greying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, greying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
+Sakozes Bulides stands 5'9" tall with a medium build. He has sun-tanned skin, greying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, greying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
 
 # Dossier {#dossier}
 
 **A Born Voice**
 
-Sakozes was born in the coastal city of Bizaris, major city of the Bizarian League, to a family of considerable standing. His father, **Dafos Bulides**, held the position of Herald to the city governor, while his mother, **Yorodkara**, was a priestess of Lizelas, goddess of fertility and abundance. From infancy, Sakozes was trained in the formal arts of ceremony and public address. Where other children learned to speak, Sakozes learned to project, to modulate, to command through the sheer power of his voice. His mother's priesthood taught him the sacred significance of ritual and symbol, while his father's work demonstrated how these elements could be wielded as instruments of governance and public order.
+Sakozes was born in the coastal city of [[place-byzaris|Bizaris]], major city of the [[affiliation-byzarianlg|Bizarian League]], to a family of considerable standing. His father, [Dafos Bulides]{.name data-type="being/npc"}, held the position of Herald to the city governor, while his mother, [Yorodkara]{.name data-type="being/npc"}, was a priestess of the [[affiliation-lizelas|Faith of Lizelas]], devoted to [[lore-lizelasdty|Lizelas]], goddess of fertility and abundance. From infancy, Sakozes was trained in the formal arts of ceremony and public address. Where other children learned to speak, Sakozes learned to project, to modulate, to command through the sheer power of his voice. His mother's priesthood taught him the sacred significance of ritual and symbol, while his father's work demonstrated how these elements could be wielded as instruments of governance and public order.
 
 He became a Herald's apprentice at age twelve, a formal status that meant he was recognized as heir to one of the most prestigious positions in the city hierarchy. For thirty-three years, he has served in this role, first under his father and later as an independent Herald serving the city's current governance. In that time, he has presided over hundreds of ceremonies, announcements, and official functions. He has pronounced the succession of three different city governors, announced the outcomes of wars, declared peace treaties, and given voice to the wisdom and authority of the state.
 
@@ -490,38 +490,38 @@ Emotional Restraint
 
 ### Patrons
 
-Governor Belzurela Chrisakit
+Governor [[being-belzurelachr|Belzurela Chrisakit]]
 : The current governor of Bizaris, who values Sakozes's knowledge of ceremonial matters and relies heavily on his judgment regarding questions of proper form and precedent in official functions.
 
-The Grand Council of the Bizarian League
+[The Grand Council of the Bizarian League]{.name data-type="affiliation/governmental"}
 : The highest governing body, which has come to rely on Sakozes as an advisor regarding proper ceremonial acknowledgment of important events, treaties, and transitions.
 
-High Priestess Dragorahre Eriakit of Lizelas
+High Priestess [[being-dragorahreer|Dragorahre Eriakit]] of the Faith of Lizelas
 : A priestess of the same order as his mother, who occasionally consults Sakozes regarding the intersection of religious ceremony and civic ritual.
 
 ### Enemies
 
-Herald Zhevranikos Nesharzát
+Herald [[being-zhevranikosn|Zhevranikos Nesharzát]]
 : A younger, reform-minded herald who has begun to introduce informal elements into ceremonial contexts and who publicly advocates changing heraldic traditions. Sakozes views him as a threat to the entire order of society.
 
-The Progressive Council Faction
+[The Progressive Council Faction]{.name data-type="affiliation"}
 : A growing group of younger city councilors who advocate for less formality and more accessible government. They see Sakozes as an obstacle to their vision of a plainer, more open society.
 
-The Modernist Movement
+[The Modernist Movement]{.name data-type="affiliation"}
 : A loose coalition of intellectuals, artists, and reformers who view traditional ceremony as archaic and oppressive. They have begun to mock Sakozes publicly for his "outdated practices."
 
 ### Affiliations
 
-The City Heralds' Guild of Bizaris
+[The City Heralds' Guild of Bizaris]{.name data-type="affiliation/guild"}
 : The official organization of heralds, of which Sakozes is a senior member and de facto leader despite having no official title.
 
-The Order of Ceremony Preservationists
+[The Order of Ceremony Preservationists]{.name data-type="affiliation"}
 : An informal but growing network of people committed to maintaining traditional forms in civic and religious contexts. Sakozes is becoming increasingly involved in this organization's activities.
 
 ## Plot Hooks
 
 The New Herald's Challenge
-: A young herald named **Varakion** arrives in Bizaris from the outer territories, bearing letters that mark him as a Herald of considerable skill and training, but also as someone raised in a tradition quite different from Bizaris's formal ceremonial system. Varakion begins to be assigned to important state functions, and his approach to these events is notable for its flexibility and novelty. Where Sakozes would follow strict precedent, Varakion adapts ceremony to the specific needs and personalities of those involved. Initially, Sakozes views this as disrespectful novelty, but as he watches, he begins to notice that Varakion's ceremonies, while different, are actually deeply effective—perhaps more effective than his own more rigid performances. The question this puts to him is whether preserving tradition matters more than serving its purpose.
+: A young herald named [Varakion]{.name data-type="being/npc"} arrives in Bizaris from the outer territories, bearing letters that mark him as a Herald of considerable skill and training, but also as someone raised in a tradition quite different from Bizaris's formal ceremonial system. Varakion begins to be assigned to important state functions, and his approach to these events is notable for its flexibility and novelty. Where Sakozes would follow strict precedent, Varakion adapts ceremony to the specific needs and personalities of those involved. Initially, Sakozes views this as disrespectful novelty, but as he watches, he begins to notice that Varakion's ceremonies, while different, are actually deeply effective—perhaps more effective than his own more rigid performances. The question this puts to him is whether preserving tradition matters more than serving its purpose.
 
 The Lost Ceremonial Texts
 : Scholars discover that several volumes of the oldest heraldic texts—records dating back over two centuries detailing the development of ceremonial forms and their meanings—have been lost or destroyed. Sakozes becomes obsessed with locating these texts, believing they may contain crucial information about the original purposes and meanings of ceremonies that have been practiced for generations without understanding their deeper significance. His search takes him to forgotten libraries, isolated temples, and even to negotiations with scholars and priests who may have fragments of these texts. As he pieces together the lost knowledge, he begins to discover that some of the ceremonies he has practiced his entire life may be based on corrupted or misunderstood versions of the original forms, and that his entire life may have been built on a partial truth.

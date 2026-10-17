@@ -422,7 +422,7 @@ sohl:
 
 ![[shadznkmrz|Shadezan Kamruz]]{float=top-left}
 
-Shadezan stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a narrow chin, well-defined lips, dark brows, and angular cheeks.
+Shadezan Kamruz stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a narrow chin, well-defined lips, dark brows, and angular cheeks.
 
 # Dossier {#dossier}
 
@@ -430,13 +430,13 @@ Shadezan stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark bro
 
 ### Rise to Power
 
-Shadezan was born forty-nine years ago into the Kamruz clan, one of the mid-tier tribes of the Dunhara confederation. His father, a capable warrior named Krezech Kamruz, was respected but not feared, and the clan held only modest territory and influence. Young Shadezan grew up hearing stories of the great chieftains of old and resolved early to become greater than his father, to expand the Kamruz holdings and establish his bloodline as one of supreme authority. His mother, a shaman named Tavura, blessed him with rituals dedicated to Báhramis, the god of storms, asking the deity to bless her son with strength and fury.
+Shadezan was born forty-nine years ago into the [Kamruz Clan]{.name data-type="affiliation/polity"}, one of the mid-tier tribes in the [[affiliation-dunhartrbs|Dunhara Tribes]] confederation. His father, a capable warrior named [Krezech Kamruz]{.name data-type="being/npc"}, was respected but not feared, and the clan held only modest territory and influence. Young Shadezan grew up hearing stories of the great chieftains of old and resolved early to become greater than his father, to expand the Kamruz holdings and establish his bloodline as one of supreme authority. His mother, a shaman named [[being-tavurakamruz|Tavura Kamruz]], blessed him with rituals dedicated to [[lore-bahramisdty|Báhramis]], the god of storms, asking the deity to bless her son with strength and fury.
 
-At sixteen, Shadezan participated in his first raid against a neighboring tribe. He fought with such ferocity and skill that his name was sung in celebration fires. Within five years, he had participated in countless skirmishes and won every duel he fought. He ascended to leadership of the Kamruz clan at twenty-seven when his father fell in battle against the rival Soltrev clan, and immediately began an aggressive policy of expansion. Over the next two decades, Shadezan conquered or subjugated five neighboring tribes, binding them to the Kamruz banner through superior martial prowess and the legitimacy of strength.
+At sixteen, Shadezan participated in his first raid against a neighboring tribe. He fought with such ferocity and skill that his name was sung in celebration fires. Within five years, he had participated in countless skirmishes and won every duel he fought. He ascended to leadership of the Kamruz clan at twenty-seven when his father fell in battle against the rival [Soltrev Clan]{.name data-type="affiliation/polity"}, and immediately began an aggressive policy of expansion. Over the next two decades, Shadezan conquered or subjugated five neighboring tribes, binding them to the Kamruz banner through superior martial prowess and the legitimacy of strength.
 
 ### Consolidation and Current Rule
 
-Now at forty-nine, Shadezan rules a confederation of tribes that controls a vast territory of the Dunhara region. His rule has brought stability of a sort—the constant raiding and feuding that characterized the tribes before his rise have diminished, replaced by organized military campaigns and clear hierarchies. However, his method of governance has increasingly relied on fear and direct domination rather than consensus or negotiation. His younger sons vie for position, and his rivals grow bolder, sensing that the aging chieftain may not maintain his grip forever. His recent decisions have become more aggressive and less calculated, leading some to whisper that perhaps age is finally catching up with the great Shadezan Kamruz.
+Now at forty-nine, Shadezan rules a confederation of tribes that controls a vast territory of the [[place-dunharargn|Dunhara Region]]. His rule has brought stability of a sort—the constant raiding and feuding that characterized the tribes before his rise have diminished, replaced by organized military campaigns and clear hierarchies. However, his method of governance has increasingly relied on fear and direct domination rather than consensus or negotiation. His younger sons vie for position, and his rivals grow bolder, sensing that the aging chieftain may not maintain his grip forever. His recent decisions have become more aggressive and less calculated, leading some to whisper that perhaps age is finally catching up with the great Shadezan Kamruz.
 
 ## Psyche
 
@@ -496,18 +496,18 @@ Age and Mortality
 His Own Kamruz Clan Warriors
 : The primary patrons who depend on Shadezan for leadership, protection, and the opportunity to gain glory through expansion. They view him as the model of tribal virtue.
 
-Shamanic Council
-: The spiritual leaders of the tribes consult with Shadezan on matters affecting all Dunhara people, and they perform rituals in his name to invoke Báhramis's blessing on his campaigns.
+[Shamanic Council]{.name data-type="affiliation"}
+: The spiritual leaders of the tribes consult with Shadezan on matters affecting all [[lore-dunhariclt|Dunhari]] people, and they perform rituals in his name to invoke Báhramis's blessing on his campaigns.
 
 ### Enemies
 
-Chieftain Mahvarad of the Soltrev Clan
+Chieftain [[being-mahvaradparv|Mahvarad Parvaran]] of the Soltrev Clan
 : Leader of one of the clans that Shadezan defeated, Mahvarad harbors deep resentment and plots constant rebellion. He seeks alliances with other displaced chieftains to overthrow Shadezan's rule.
 
-The Merchant Coalition of the Northern Trade Routes
+[The Merchant Coalition of the Northern Trade Routes]{.name data-type="affiliation"}
 : The merchant republics beyond the Dunhara territories view Shadezan's expansion as a threat to their trade and have begun funding his rivals and providing weapons to rebel tribes.
 
-Warlord Khavari the Sorcerer
+Warlord [[being-khavarivarak|Khavari Varakan]] the Sorcerer
 : A rival warrior who rules lands adjacent to Shadezan's territory. Khavari uses magical power rather than pure physical strength, which Shadezan views as cowardly. Their conflicting approaches to warfare have led to several bitter confrontations.
 
 ### Affiliations
@@ -518,13 +518,13 @@ Kamruz Clan
 The Warrior's Circle
 : An ancient organization of elite warriors across the Dunhara tribes, meeting quarterly to discuss matters of mutual concern and occasionally coordinating large campaigns.
 
-The Storm Cults
+[[affiliation-strmcltsbhrms|The Storm Cults of Báhramis]]
 : Followers of Báhramis recognize Shadezan as a chosen vessel of the storm god, and various religious groups seek his patronage and blessing.
 
 ## Plot Hooks
 
 The Challenge of the Young Wolf
-: A new warrior named Drayven Kamruz, a distant relation claiming descent from Shadezan's line, arrives at the chieftain's court with a reputation for invincible swordsmanship. Drayven challenges Shadezan to single combat for leadership of the clan, initiating a ritual duel that is legally binding under tribal law. Shadezan faces an opponent whose youthful strength and speed may match his famed power, and losing the duel would cost him not only his title but his life. The duel becomes complicated when evidence emerges that Drayven has been magically enhanced by an outside sorcerer, forcing Shadezan to confront enemies using means outside his understanding and experience.
+: A new warrior named [Drayven Kamruz]{.name data-type="being/npc"}, a distant relation claiming descent from Shadezan's line, arrives at the chieftain's court with a reputation for invincible swordsmanship. Drayven challenges Shadezan to single combat for leadership of the clan, initiating a ritual duel that is legally binding under tribal law. Shadezan faces an opponent whose youthful strength and speed may match his famed power, and losing the duel would cost him not only his title but his life. The duel becomes complicated when evidence emerges that Drayven has been magically enhanced by an outside sorcerer, forcing Shadezan to confront enemies using means outside his understanding and experience.
 
 The Prophecy of the Broken Hammer
 : A visiting shaman from a distant tribe brings news of an ancient prophecy that speaks of "the great chieftain whose hammer will break, and with it, the age of strength." Shadezan dismisses this as superstition, but his warriors become increasingly anxious. When his warhammer actually breaks during a battle (a purely mechanical accident), panic spreads through his forces. Shadezan must either suppress the prophecy and retain control or find a way to reinterpret it to maintain his authority.
@@ -533,7 +533,7 @@ The Secret Heir
 : A traveling merchant arrives with evidence suggesting that Shadezan fathered a child in a foreign land during his youth—a child now grown into a capable warrior with a claim to his lineage. The merchant demands significant payment to keep the secret quiet, or threatens to reveal the heir to Shadezan's rivals and his own ambitious sons. Shadezan can pay for silence, acknowledge the child, or eliminate both the merchant and the potential heir to protect his dynasty.
 
 The Peaceful Confederacy
-: A coalition of neighboring tribes, led by the wise shaman Alethea the Peacemaker, proposes a radical alternative to Shadezan's rule—a tribal confederacy based on consensus, trade, and mutual defense rather than dominance of the strongest. They offer to accept Shadezan as the ceremonial head of this new confederacy if he will release his conquered territories to local rule. Shadezan faces a stark choice: abandon his philosophy of strength and conquest to maintain nominal power, or resist and risk a war that might break his aging body.
+: A coalition of neighboring tribes, led by the wise shaman [Alethea the Peacemaker]{.name data-type="being/npc"}, proposes a radical alternative to Shadezan's rule—a tribal confederacy based on consensus, trade, and mutual defense rather than dominance of the strongest. They offer to accept Shadezan as the ceremonial head of this new confederacy if he will release his conquered territories to local rule. Shadezan faces a stark choice: abandon his philosophy of strength and conquest to maintain nominal power, or resist and risk a war that might break his aging body.
 
 The Shamanic Revelation
 : Shadezan's mother, the shaman Tavura, now ancient and approaching death, finally reveals a secret she has kept for forty years—that Shadezan's father did not die in honorable combat but was actually defeated by Khavari the Sorcerer using magic, and that she made a pact with dark forces so that her son would win a glory great enough to cover his bloodline's hidden shame. This revelation shakes Shadezan's entire understanding of his accomplishments and his right to rule. He can expose the truth and undermine his own legitimacy, or continue a lie that was woven into the very foundation of his power.

@@ -413,7 +413,7 @@ sohl:
 
 ![[thiryegezaqe|Thirye Gez'Aqeu]]{float=top-left}
 
-Thirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, and elegantly curved brows. She has a tattoo of a dragonfly on her neck.
+Thirye Gez'Aqeu stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, and elegantly curved brows. She has a tattoo of a dragonfly on her neck.
 
 # Dossier {#dossier}
 
@@ -421,11 +421,11 @@ Thirye stands 5'4" tall with a light build. She has dark skin, black hair, and b
 
 ### The Daughter of Performance
 
-Born in 691 in one of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s greatest theatrical centers, Thirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of Khelathi theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the Khelathi Pantheon from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
+Born in 691 in one of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s greatest theatrical centers, Thirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of [[lore-khelathiclt|Khelathi]] theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the [[affiliation-khelathpnthn|Khelathi Pantheon]] from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
 
 ### The Rising Star
 
-By her early twenties, Thirye had transitioned from child performer to celebrated actress in her own name, commanding substantial roles in the City Theater Company's productions. Her interpretations became known for their inward depth and vulnerability—a willingness to expose raw emotion that many performers lacked. She has garnered particular acclaim for her portrayals of tragic heroines and complex antagonists, earning regular standing ovations and attracting devoted followers who attend every performance. Nobles have begun commissioning private performances, and rumors speak of potential opportunities with the imperial court itself.
+By her early twenties, Thirye had transitioned from child performer to celebrated actress in her own name, commanding substantial roles in the [City Theater Company]{.name data-type="affiliation"}'s productions. Her interpretations became known for their inward depth and vulnerability—a willingness to expose raw emotion that many performers lacked. She has garnered particular acclaim for her portrayals of tragic heroines and complex antagonists, earning regular standing ovations and attracting devoted followers who attend every performance. Nobles have begun commissioning private performances, and rumors speak of potential opportunities with the imperial court itself.
 
 ### The Hidden Struggle
 
@@ -437,7 +437,7 @@ Behind her luminous stage presence, Thirye battles inner demons that threaten to
 
 Thirye is both intense and fragile, confident on stage and uncertain in life. On the boards, she is commanding, magnetic, fully present—a presence that seems to enlarge to fill entire amphitheaters. Away from performance, she becomes noticeably quieter, more reserved, almost tentative in company. She is a sharp observer, constantly studying people, collecting mannerisms and speech patterns, always somewhat in performance even in ostensibly private moments.
 
-Her creativity is extraordinary and seems almost to drive her; she experiences the world through an artistic lens, constantly considering how situations might be portrayed, how emotions might be expressed through movement and voice. She is deeply spiritual, approaching her art as a sacred practice devoted to [[lore-thubaidty|Thuba'i]] and the cosmic principle of transformation. Yet this same intensity can render her emotionally volatile—she experiences moods with theatrical extremity, swinging between exultant confidence and bottomless despair often without apparent external cause. Those close to her have learned to weather these emotional storms, understanding that they are intrinsic to the tempestuous genius that makes her such a compelling performer.
+Her creativity is extraordinary and seems almost to drive her; she experiences the world through an artistic lens, constantly considering how situations might be portrayed, how emotions might be expressed through movement and voice. She is deeply spiritual, approaching her art as a sacred practice devoted to the [[affiliation-thubai|Faith of Thuba'i]] and the cosmic principle of transformation. Yet this same intensity can render her emotionally volatile—she experiences moods with theatrical extremity, swinging between exultant confidence and bottomless despair often without apparent external cause. Those close to her have learned to weather these emotional storms, understanding that they are intrinsic to the tempestuous genius that makes her such a compelling performer.
 
 She maintains careful control over her public image, always gracious to admirers and patrons, yet hoards her true friendships fiercely and guards her private self with almost paranoid vigilance. There is a loneliness at her core—a sense that to be truly known would be to be diminished, that her mystique is inseparable from her artistic power.
 
@@ -492,18 +492,18 @@ Spiritual Dependency
 Lord Architect [[being-amqelenset2|Amqelenset]]
 : A powerful nobleman and principal patron of the City Theater Company who is captivated by Thirye's artistry; he has commissioned private performances and provided financial support for experimental theatrical productions she wishes to develop.
 
-Master Playwright Khelemur
-: Lin'Shelun elu Galezkara's head writer who has become something of a mentor figure and advocate; he deliberately writes roles showcasing Thirye's particular gifts and has begun to champion her for imperial commissions.
+Master Playwright [[being-qelti|Khelemur]]
+: [[affiliation-linshlnglzkr|Lin'Shelun elu Galezkara]]'s head writer who has become something of a mentor figure and advocate; he deliberately writes roles showcasing Thirye's particular gifts and has begun to champion her for imperial commissions.
 
 Priestess [[being-lintayet2|Lintayet]]
 : A priestess of Thuba'i in the temple district who has become Thirye's spiritual advisor, guiding her practice and helping her through the spiritual dimensions of her art.
 
-The Merchant Prince Lahmes
+The Merchant Prince [[being-lahmes|Lahmes]]
 : A wealthy collector of fine art and patron of performers who has recently become fascinated with Thirye's work and has begun offering generous patronage and connections to elite audiences.
 
 ### Enemies
 
-Actress Zabunia
+Actress [[being-zabunia2|Zabunia]]
 : A rival performer of nearly equal talent whose roles have been repeatedly passed over in favor of Thirye; she harbors deep resentment and has begun circulating cruel rumors about Thirye's personal life and emotional stability.
 
 [[affiliation-wazulu|The Wazulu]]
@@ -517,7 +517,7 @@ Critic [[being-gathamose2|Gathamose]]
 City Theater Company
 : A senior member of the ensemble, though not yet achieving official leadership status; she is the Company's most celebrated performer and acts as a subtle informal mentor to younger actresses.
 
-[[affiliation-linshelunthb|The Lin'Shelun elu Thuba'i]]
+[[affiliation-linshelunthb|Lin'Shelun elu Thuba'i]]
 : A group of performers, painters, and musicians dedicated to exploring the spiritual dimensions of art and maintaining the Khelathi artistic traditions; Thirye is a committed though sometimes erratic participant.
 
 ## Plot Hooks

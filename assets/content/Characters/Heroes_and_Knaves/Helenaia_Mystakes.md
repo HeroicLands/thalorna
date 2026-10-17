@@ -419,7 +419,7 @@ sohl:
 
 ![[helnmystks|Bazia Lokios]]{float=top-left}
 
-Bazia stands 5'9" tall with a medium build. She has light olive skin, dark hair, and green eyes. Her features include an oblong face, a prominent nose, a pronounced chin, well-defined lips, heavy brows, and angular cheeks. She has a scar running down her right leg.
+Bazia Lokios stands 5'9" tall with a medium build. She has light olive skin, dark hair, and green eyes. Her features include an oblong face, a prominent nose, a pronounced chin, well-defined lips, heavy brows, and angular cheeks. She has a scar running down her right leg.
 
 Her dark brown hair, worn in an elaborate coiled bun adorned with flowers and sacred cords, is her greatest adornment, and she changes its decoration with the seasons and sacred days, making it a living calendar of her spiritual devotion. A long scar runs down her right leg from knee to ankle—the legacy of an accident in her youth—and she bears it without shame, often pointing it out to those struggling with their own wounds or imperfections as testimony to the fact that scars can become beautiful through time and acceptance.
 
@@ -427,11 +427,11 @@ Her robes, flowing and adorned with floral motifs in celebration of fertility an
 
 # Dossier {#dossier}
 
-Bazia was born in a minor city of the [[affiliation-byzarianlg|Bizarian League]] to a family of modest means—her father a leather worker, her mother a midwife. From earliest childhood, she showed unusual sensitivity to the emotions and needs of those around her, and her mother began to teach her the medicinal and spiritual properties of herbs when she was barely old enough to walk. When Bazia was seven years old, a terrible fire swept through the city, and in the confusion and panic, she and several other children became separated from their families. Bazia's calm demeanor and natural authority, despite her age, kept the other children organized and safe until rescuers found them. A priest of the Sacred Forge witnessed her actions and was struck by what he perceived as a spiritual calling in her.
+Bazia was born in a minor city of the [[affiliation-byzarianlg|Bizarian League]] to a family of modest means—her father a leather worker, her mother a midwife. From earliest childhood, she showed unusual sensitivity to the emotions and needs of those around her, and her mother began to teach her the medicinal and spiritual properties of herbs when she was barely old enough to walk. When Bazia was seven years old, a terrible fire swept through the city, and in the confusion and panic, she and several other children became separated from their families. Bazia's calm demeanor and natural authority, despite her age, kept the other children organized and safe until rescuers found them. A priest of [[affiliation-sacredforge|The Sacred Forge]] witnessed her actions and was struck by what he perceived as a spiritual calling in her.
 
 Recognizing that Bazia possessed a rare combination of natural fellow-feeling, spiritual sensitivity, and practical wisdom, the priest arranged with her parents for her to enter the temple as a novice. Bazia was nine years old when she became a member of the priesthood. Her training was rigorous, combining extensive study of sacred texts, the mastery of ritual performance, the cultivation of her capacity for spiritual communion, and the practical knowledge necessary to serve her community.
 
-When Bazia was fourteen years old, a terrible accident nearly killed her. She was struck by a cart while traveling to deliver medicines to a distant village, and the injury to her right leg was so severe that many assumed she would never walk normally again. However, through the intervention of prayer, extensive healing work by other priests, and her own extraordinary will to recovery, she not only survived but eventually regained full function of her leg, though the scar remained—a physical reminder of mortality and fragility.
+When Bazia was fourteen years old, a terrible accident nearly killed her. She was struck by a cart while traveling to deliver medicines to a distant village, and the injury to her right leg was so severe that many assumed she would never walk normally again. However, through what she believed was the intervention of prayer, extensive healing work by other priests, and her own extraordinary will to recovery, she not only survived but eventually regained full function of her leg, though the scar remained—a physical reminder of mortality and fragility.
 
 Rather than retreating from her injury, Bazia used it as a foundation for deeper spiritual understanding. She began to specialize in healing work—the physical healing of injuries, and also the spiritual and emotional healing of those whom suffering or grief had shattered. By her late twenties, she had become known throughout the Bizarian League for her ability to help couples restore intimacy after betrayal, to help families reconcile after estrangement, and to help individuals find peace with their own grief and limitations.
 
@@ -494,7 +494,7 @@ Physical Fragility
 
 ### Patrons
 
-High Priestess Chirnalina Agorikot
+High Priestess [[being-tchirnalinaa|Chirnalina Agorikot]]
 : The spiritual leader of the temple recognizes Bazia as one of the priesthood's finest practitioners and has designated her as a primary advisor on matters of healing and community service.
 
 The Citizens of the Bizarian League
@@ -503,32 +503,32 @@ The Citizens of the Bizarian League
 The Order of the Sacred Forge
 : The priesthood as a whole views Bazia as one of their finest representatives and regularly recommends her services to those seeking spiritual counsel.
 
-Master Herbalist Lyrian
+Master Herbalist [Lyrian]{.name data-type="being/npc"}
 : An aging herbalist who has become something of a mentor figure to Bazia and who has taught her many of the healing practices that form the foundation of her work.
 
 ### Enemies
 
-Bishop Trupazios Dragidek
+Bishop [[being-trupaziosdra|Trupazios Dragidek]]
 : A conservative religious figure who views Bazia's changes to ritual as heretical departures from proper practice and who works to limit her authority and influence.
 
-The Merchant Syndicate
+[The Merchant Syndicate]{.name data-type="affiliation/venture"}
 : A powerful merchant organization views the temple's healing work as interfering with their labor practices and profits and has occasionally worked against the temple's interests.
 
-Lord Merchant Valdis
+Lord Merchant [Valdis]{.name data-type="being/npc"}
 : A wealthy and politically connected merchant whose family has been damaged by Bazia's intervention in their affairs; he blames her for his daughter's decision to leave her husband and harbors deep resentment.
 
 ### Affiliations
 
-The Temple of the Sacred Forge
+[The Temple of the Sacred Forge]{.name data-type="affiliation"}
 : Bazia is a priest in good standing and maintains a formal relationship with the priesthood.
 
 The Bizarian League
 : She is recognized throughout the league as one of its spiritual treasures and maintains relationships with leaders and common people alike.
 
-The Healing Circle
+[The Healing Circle]{.name data-type="affiliation"}
 : An informal network of herbalists, physicians, and spiritual practitioners who collaborate on difficult cases and share knowledge.
 
-The Order of Compassion
+[The Order of Compassion]{.name data-type="affiliation"}
 : A loose spiritual organization devoted to healing and service that Bazia actively supports and participates in.
 
 ## Plot Hooks

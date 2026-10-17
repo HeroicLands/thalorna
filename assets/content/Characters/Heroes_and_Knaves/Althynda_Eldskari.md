@@ -414,7 +414,7 @@ sohl:
 
 ![[althyndeldskr|Althinda Eldskari]]{float=top-left}
 
-Althinda stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, and high cheeks.
+Althinda Eldskari stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, and high cheeks.
 
 # Dossier {#dossier}
 
@@ -438,7 +438,7 @@ Yet artistic success has not translated to business success. Althinda struggles 
 
 Althinda is a woman of quiet artistry and occasional intensity, most fully alive when engaged in creative work. In solitude or in the presence of those who appreciate her craft, she becomes animated and eloquent, capable of discussing color theory and scent composition with passion. Yet in trade or company, she becomes withdrawn, uncertain, and awkwardly quiet. She is modest about her talent—the compliments her work receives seem to confuse her rather than gratify her—and she frequently attributes her success to luck rather than skill.
 
-Her spiritual commitment to Frodvin, god of fertility, growth, and natural abundance, is deeply felt; she approaches her work as a form of spiritual practice, creating candles as offerings to divine principle and aids to others' spiritual wellbeing as well as for light. This perspective, while beautiful, sometimes conflicts with the demands of trade; she has been known to refuse commissions that she feels would betray the sacred character of her work.
+Her spiritual commitment to [[lore-frodvindty|Frodvin]], god of fertility, growth, and natural abundance, is deeply felt; she approaches her work as a form of spiritual practice, creating candles as offerings to divine principle and aids to others' spiritual wellbeing as well as for light. This perspective, while beautiful, sometimes conflicts with the demands of trade; she has been known to refuse commissions that she feels would betray the sacred character of her work.
 
 Althinda is both courageous and fearful—willing to take substantial risks in her craft in pursuit of artistic vision, yet terrified of failure in trade and judgment from established authorities. She experiences real anxiety in company, particularly with those of higher social station or greater confidence, yet shows unusual boldness in defending artistic integrity. She forms attachments slowly but deeply, and those few people she allows into intimacy discover unusual warmth and loyalty.
 
@@ -490,35 +490,35 @@ Physical Frailty
 
 ### Patrons
 
-Priestess Skraldthira
-: High priestess of Frodvin's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Althinda's work and has provided spiritual guidance alongside patronage.
+Priestess [Skraldthira]{.name data-type="being/npc"}
+: High priestess of the temple of the [[affiliation-frodvin|Faith of Frodvin]] who has commissioned multiple candle sets for significant religious observances; she actively promotes Althinda's work and has provided spiritual guidance alongside patronage.
 
-Master Craftsman Vraldvir
+Master Craftsman [Vraldvir]{.name data-type="being/npc"}
 : A respected woodworker and fellow member of the artisan community who has become something of an informal adviser in trade; he provides practical guidance while respecting her artistic vision.
 
-The Widow Hvurnrinna
+The Widow [[being-hvurnrinna|Hvurnrinna]]
 : An elderly woman of considerable means who has adopted Althinda as something of a spiritual protégé; she has purchased candles regularly and has begun subtly promoting Althinda's work to her social circle.
 
-Lord Hlirthmil
+Lord [[being-hlirthmyl|Hlirthmil]]
 : A minor nobleman who discovered Althinda's candles and has begun commissioning elaborate custom orders; his patronage provides crucial steady custom and social standing.
 
 ### Enemies
 
-Master Chandler Draskorv
+Master Chandler [Draskorv]{.name data-type="being/npc"}
 : An established chandler of twenty years' standing who views Althinda's new methods and rising reputation as threatening to his business; he has begun undercutting her prices and spreading rumors about the quality of her work.
 
-The Guild of Established Crafts
+[The Guild of Established Crafts]{.name data-type="affiliation/guild"}
 : The formal guild, while not directly opposed to Althinda, maintains standards and requirements that effectively exclude her; their members view her as an outsider and resist her attempts to join their organization.
 
-Merchant Dunred
+Merchant [Dunred]{.name data-type="being/npc"}
 : A supplier and dealer who sees Althinda's inexperience as opportunity; he has deliberately sold her substandard materials at inflated prices and encourages her poor business decisions that benefit his interests.
 
 ### Affiliations
 
-The Artisan's Collective
+[The Artisan's Collective]{.name data-type="affiliation"}
 : An informal association of craftspeople—weavers, woodworkers, metalcrafters—who meet periodically to discuss craft, techniques, and challenges; Althinda is a recent and tentative member.
 
-Frodvin's Grove
+[Frodvin's Grove]{.name data-type="affiliation"}
 : A lay fellowship devoted to the god of fertility and growth; she participates in seasonal observances and maintains personal spiritual practice through this community.
 
 ## Plot Hooks

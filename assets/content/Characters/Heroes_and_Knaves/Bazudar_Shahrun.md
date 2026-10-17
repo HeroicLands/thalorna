@@ -417,7 +417,7 @@ sohl:
 
 ![[bazdrshhrn|Bazudar Shahrun]]{float=top-left}
 
-Bazudar stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, and angular cheeks. He has a tattoo of a woman on his shoulder.
+Bazudar Shahrun stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, and angular cheeks. He has a tattoo of a woman on his shoulder.
 
 # Dossier {#dossier}
 
@@ -425,15 +425,15 @@ Bazudar stands 6'3" tall with a medium build. He has dark tan skin, black hair, 
 
 ### Early Years in the Desert
 
-Bazudar was born to the nomadic tribes of the [[place-khzryndsrtrgn|Khazryn Desert]], the second son of a herder family whose reputation for understanding animals was famed even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, **Shahrun the Wanderer**, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, **Lethara of the Morning Star**, whom he lost to desert sickness when he was only seventeen.
+Bazudar was born to the nomadic tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]], the second son of a herder family whose reputation for understanding animals was famed even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, [Shahrun the Wanderer]{.name data-type="being/npc"}, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, [Lethara of the Morning Star]{.name data-type="being/npc"}, whom he lost to desert sickness when he was only seventeen.
 
 ### Trial and Transformation
 
-At twenty, Bazudar encountered the great warhorse **Ashenbrand**, an animal so wild and dangerous that it had killed three handlers and thrown a dozen more. Where others used force or fear, Bazudar spent weeks simply sitting in silence near the horse, learning its rhythms, its fears, its nature. Gradually, Ashenbrand came to accept him, and eventually to trust him. That bond transformed Bazudar's reputation—he became known as "the Whisperer," the one to whom dangerous animals could be entrusted. He spent his twenties and thirties traveling across the desert kingdoms, training noble steeds and wild beasts, growing wealthy from the patronage of desert lords and merchant princes.
+At twenty, Bazudar encountered the great warhorse [Ashenbrand]{.name data-type="being/creature"}, an animal so wild and dangerous that it had killed three handlers and thrown a dozen more. Where others used force or fear, Bazudar spent weeks simply sitting in silence near the horse, learning its rhythms, its fears, its nature. Gradually, Ashenbrand came to accept him, and eventually to trust him. That bond transformed Bazudar's reputation—he became known as "the Whisperer," the one to whom dangerous animals could be entrusted. He spent his twenties and thirties traveling across the desert kingdoms, training noble steeds and wild beasts, growing wealthy from the patronage of desert lords and merchant princes.
 
 ### Settlement and Complication
 
-Now in his middle years, Bazudar has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The farming community increasingly demands speed and profit over the careful, time-intensive relationship-building that Bazudar considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **Bulaqsovid**, and modernizing forces that view his methods as antiquated.
+Now in his middle years, Bazudar has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The farming community increasingly demands speed and profit over the careful, time-intensive relationship-building that Bazudar considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **[[being-bulaqsovidyo|Bulaqsovid Yovakur]]**, and modernizing forces that view his methods as antiquated.
 
 ## Psyche
 
@@ -488,13 +488,13 @@ Social Isolation and Difficulty with Human Relationships
 
 ### Patrons
 
-Desert Lord Khuvankenod Shadowstep
+Desert Lord [Khuvankenod Shadowstep]{.name data-type="being/npc"}
 : A wealthy noble who has employed Bazudar for two decades to manage his prized herd of racing camels. Khuvankenod respects Bazudar's methods and pays generously, providing one of his most reliable sources of income and social legitimacy.
 
-Mistress Arah of the Cooperative
-: The leading figure of the Farmers' Cooperative, Arah recognizes Bazudar's value and defends him against critics, though even her patience is sometimes tested by his inflexibility.
+Mistress [Arah]{.name data-type="being/npc"} of the Cooperative
+: The leading figure of [The Farmers' Cooperative of Khazryn]{.name data-type="affiliation"}, Arah recognizes Bazudar's value and defends him against critics, though even her patience is sometimes tested by his inflexibility.
 
-The Village Healer Senna
+The Village Healer [Senna]{.name data-type="being/npc"}
 : An older woman who has recognized that Bazudar is fundamentally lonely and has made subtle attempts to include him in village social life. She brings him meals occasionally and treats his injuries, maternal in her concern without being patronizing.
 
 ### Enemies
@@ -502,10 +502,10 @@ The Village Healer Senna
 Administrator Bulaqsovid
 : The ambitious Town Administrator who views Bazudar's traditional methods as an obstacle to progress and modernization. Bulaqsovid has been quietly working to impose regulations that would force Bazudar to adopt new training techniques and potentially strip him of his authority. Bulaqsovid is also motivated by jealousy—Bazudar commands more real respect than Bulaqsovid despite his lower social status.
 
-The Merchant Combine of the North
+[The Merchant Combine of the North]{.name data-type="affiliation"}
 : A faction of wealthy merchants pushing for large-scale animal breeding and training methods to increase yields. They view Bazudar as a dangerous impediment to progress and have commissioned Administrator Bulaqsovid to develop policies that would eliminate his influence.
 
-Rival Trainer Vex Ironhoof
+Rival Trainer [Vex Ironhoof]{.name data-type="being/npc"}
 : A younger animal trainer who has adopted harsh, forceful methods that produce quick results. Vex views Bazudar as weak and outdated, and their ideological conflict has become personal. Vex deliberately undercuts Bazudar's prices and spreads rumors that his methods are ineffective.
 
 ### Affiliations
@@ -513,7 +513,7 @@ Rival Trainer Vex Ironhoof
 The Farmers' Cooperative of Khazryn
 : Bazudar holds membership and the respect of most members, though the organization is increasingly divided between traditionalists who support him and modernizers who view him as an impediment.
 
-The Desert Shamanic Circle
+[The Desert Shamanic Circle]{.name data-type="affiliation"}
 : An informal collective of spiritual practitioners who maintain the ancient traditions of desert magic and ritual. Bazudar participates in their ceremonies, though his primary commitment remains his work with animals rather than explicit magical practice.
 
 ## Plot Hooks

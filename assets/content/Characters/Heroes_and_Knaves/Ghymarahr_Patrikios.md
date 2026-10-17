@@ -419,7 +419,7 @@ sohl:
 
 ![[ghymrhrptrks|Ghimaráhr Rores]]{float=top-left}
 
-Ghimaráhr stands 6'0" tall with a heavy build. He has tanned weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, and expressive brows. He has a scar running down his back.
+Ghimaráhr Rores stands 6'0" tall with a heavy build. He has tanned weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, and expressive brows. He has a scar running down his back.
 
 # Dossier {#dossier}
 
@@ -427,13 +427,13 @@ Ghimaráhr stands 6'0" tall with a heavy build. He has tanned weathered skin, gr
 
 ### Early Life and the Mercenary Years
 
-Ghimaráhr was born in a small village on the margins of the Bizarian League to a blacksmith and a healer. His childhood was marked by poverty and the constant presence of war—his village changed hands between different powers repeatedly, and he learned early that survival meant adaptation and ruthlessness. When he was fourteen, mercenary recruiters came through looking for able-bodied youths, and desperate to escape the grinding hopelessness of village life, Ghimaráhr signed on. For thirty-five years, he served in mercenary companies across the known world, becoming eventually one of the deadliest warriors his employers had ever seen. He was not evil by nature—he was simply a hired soldier, following orders, collecting his pay, and trying to survive each contract with as few scars and as few nightmares as he could manage.
+Ghimaráhr was born in a small village on the margins of the [[affiliation-byzarianlg|Bizarian League]] to a blacksmith and a healer. His childhood was marked by poverty and the constant presence of war—his village changed hands between different powers repeatedly, and he learned early that survival meant adaptation and ruthlessness. When he was fourteen, mercenary recruiters came through looking for able-bodied youths, and desperate to escape the grinding hopelessness of village life, Ghimaráhr signed on. For thirty-five years, he served in mercenary companies across the known world, becoming eventually one of the deadliest warriors his employers had ever seen. He was not evil by nature—he was simply a hired soldier, following orders, collecting his pay, and trying to survive each contract with as few scars and as few nightmares as he could manage.
 
 The specific campaigns and battles of those years have faded into a blur of blood and fire. He fought in wars whose cause he never understood. He led charges into fortified positions. He held bridges against overwhelming odds. He killed hundreds of men, many of them levied men no more guilty than himself. He participated in atrocities that he has never fully forgiven himself for. He was wounded dozens of times. He watched comrades die. He had lovers and lost them. He betrayed people who trusted him. He was betrayed by those he trusted. The line between survival and monstrosity became increasingly blurred, until Ghimaráhr was no longer certain which side of that line he occupied.
 
 ### Turning Point and Redemption
 
-At forty-five, while serving with the **Iron Wolves Company**, Ghimaráhr was hired, along with his company, to massacre the inhabitants of a village that had refused to submit to a local lord's authority. Something in him broke that day. He survived the massacre and was paid his standard rate, but he did not return to the company's camp. Instead, he made his way to the Bizarian League's heartland, seeking obscurity and the possibility of redemption that he suspected he no longer deserved. He settled in a small village on the periphery—deliberately choosing the kind of forgotten place he had once despised—and spent years in silence and isolation, working as a day laborer and attempting to become someone other than what he had been.
+At forty-five, while serving with **[[affiliation-irnwlvscmpny|The Iron Wolves Company]]**, Ghimaráhr was hired, along with his company, to massacre the inhabitants of a village that had refused to submit to a local lord's authority. Something in him broke that day. He survived the massacre and was paid his standard rate, but he did not return to the company's camp. Instead, he made his way to the Bizarian League's heartland, seeking obscurity and the possibility of redemption that he suspected he no longer deserved. He settled in a small village on the periphery—deliberately choosing the kind of forgotten place he had once despised—and spent years in silence and isolation, working as a day laborer and attempting to become someone other than what he had been.
 
 ### Current Situation
 
@@ -445,7 +445,7 @@ Over the past five years, the village has begun to recognize Ghimaráhr's rare m
 
 Ghimaráhr is a man of deep silence and restraint. He speaks sparingly, choosing words with the care of someone who knows that words, carelessly deployed, can wound as deeply as blades. He is gruff with most people, not out of hostility but out of a conviction that he does not deserve their friendship or warmth. Yet he is committed to those under his protection. He will stand against overwhelming odds for people he barely knows, driven by a compulsion to atone that he will never fully accomplish. He is capable of dark humor—a habit from his mercenary years—but it surfaces rarely.
 
-His faith in **Ólvenia**, goddess of prosperity and abundance, was rekindled late in life through an unexpected source. He came to understand that Ólvenia stands for the abundance of a life lived with purpose and integrity as well as for material wealth, and that his journey from violence to attempted redemption was itself a form of prayer to that goddess. He does not attend temple regularly, but he makes small offerings and performs his duties as a teacher and protector with the reverence of spiritual practice.
+His faith in **[[lore-olveniadty|Ólvenia]]**, goddess of prosperity and abundance, was rekindled late in life through an unexpected source. He came to understand that Ólvenia stands for the abundance of a life lived with purpose and integrity as well as for material wealth, and that his journey from violence to attempted redemption was itself a form of prayer to that goddess. He does not attend temple regularly, but he makes small offerings and performs his duties as a teacher and protector with the reverence of spiritual practice.
 
 ### Motivation
 
@@ -498,24 +498,24 @@ No Magical Training or Resistance
 
 ### Patrons
 
-Village Elder Maria
+Village Elder [Maria]{.name data-type="being/npc"}
 : The leader of the village that has become Ghimaráhr's home. She values his protection and guidance and acts as his primary connection to the village community, mediating between him and those who fear his past.
 
 Young Warriors and Adventurers
 : Dozens of youths and adventurers seeking training have benefited from Ghimaráhr's instruction, and many maintain loyalty to him as their teacher.
 
 The Village Blacksmith
-: A collaborative partnership with **Master Thorne**, the village blacksmith, who has become something like a friend to Ghimaráhr. They work together to create quality weapons.
+: A collaborative partnership with Master [Thorne]{.name data-type="being/npc"}, the village blacksmith, who has become something like a friend to Ghimaráhr. They work together to create quality weapons.
 
 ### Enemies
 
-Parzhelion Trividek
+[[being-parzheliontr|Parzhelion Trividek]]
 : A former lieutenant from the Iron Wolves Company who was present at the massacre that broke Ghimaráhr. Parzhelion has never forgiven Ghimaráhr for abandoning the company and suspects he's living in the very village they were hired to destroy. If Parzhelion discovered Ghimaráhr's location, he would likely attempt to capture or kill him for his perceived betrayal.
 
 [[affiliation-irnwlvscmpny|The Iron Wolves Company]]
 : The mercenary company views Ghimaráhr as a deserter who could reveal their operations and methods. There is likely a standing bounty on him, though few realize the old village instructor is worth finding.
 
-Lord Desuvin Gharazur
+Lord [[being-desuvinghara|Desuvin Gharazur]]
 : The regional noble who hired the Iron Wolves to massacre the village still rules the region. Ghimaráhr fears that if his identity were known, Desuvin might move against him or the village he's come to protect.
 
 His own conscience, an inner enemy
@@ -529,7 +529,7 @@ The Village
 ## Plot Hooks
 
 The Ghost from His Past
-: One of Ghimaráhr's former comrades from the Iron Wolves Company, a warrior named **Anbarikos**, tracks him down with seemingly friendly intentions—a reunion of old soldiers. Yet Anbarikos carries orders from above to either recruit Ghimaráhr back into service or eliminate him as a liability. Ghimaráhr must get through the dangerous reunion without compromising the village and without becoming the killer he's spent five years trying to stop being.
+: One of Ghimaráhr's former comrades from the Iron Wolves Company, a warrior named [Anbarikos]{.name data-type="being/npc"}, tracks him down with seemingly friendly intentions—a reunion of old soldiers. Yet Anbarikos carries orders from above to either recruit Ghimaráhr back into service or eliminate him as a liability. Ghimaráhr must get through the dangerous reunion without compromising the village and without becoming the killer he's spent five years trying to stop being.
 
 The Mercenary Company's Return
 : The Iron Wolves Company, facing a decline in their fortunes, discovers that the massacre they conducted was illegal and the lord who hired them has disowned them to avoid scandal. Several company members recognize Ghimaráhr and believe he could be forced to testify against the lord, vindicating the company. They attempt to capture him to force his cooperation—or eliminate him if he refuses. The village becomes caught in crossfire between mercenary forces and local authorities investigating the ancient crime.

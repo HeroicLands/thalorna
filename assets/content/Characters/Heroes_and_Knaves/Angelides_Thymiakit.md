@@ -417,7 +417,7 @@ sohl:
 
 ![[angldsthymkt|Fodios Thimiakit]]{float=top-left}
 
-Fodios stands 6'3" tall with a heavy build. He has tanned weathered skin, black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, well-defined lips, and prominent brows. He has a scar on his neck.
+Fodios Thimiakit stands 6'3" tall with a heavy build. He has tanned weathered skin, black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, well-defined lips, and prominent brows. He has a scar on his neck.
 
 # Dossier {#dossier}
 
@@ -425,13 +425,13 @@ Fodios stands 6'3" tall with a heavy build. He has tanned weathered skin, black 
 
 ### Early Years and Tragedy
 
-Born to a merchant family in the [[affiliation-byzarianlg|Bizarian League]], Fodios was raised with every advantage—education, connections, and exposure to the finer pleasures of the great cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady Sefade Thimiakit**—a marriage that was to unite two powerful merchant families.
+Born to a merchant family in the [[affiliation-byzarianlg|Bizarian League]], Fodios was raised with every advantage—education, connections, and exposure to the finer pleasures of the great cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady [[being-sefadethymia|Sefade Thimiakit]]**—a marriage that was to unite two powerful merchant families.
 
 On the night of their wedding, tragedy struck. A rival merchant house, jealous of his family's dominance in the lucrative perfume trade, orchestrated an attack. Fodios survived only by chance—his would-be assassin's blade struck his neck rather than his heart. His betrothed was not so fortunate. Sefade died in his arms, whispering words of forgiveness rather than recrimination, even as her blood stained the silken wedding garments they both wore.
 
 ### Transformation Through Craft
 
-For three years afterward, Fodios withdrew from society entirely, nearly taking his own life. It was his grandmother, the perfumer **Nofáz Pheromex**, who saved him by forcing him back into the workshop. She had him create a scent memory of Sefade—an impossible task, yet in attempting it, Fodios discovered fragrance as a tool for transformation, for healing, for capturing what cannot be named and rendering it tangible. He became obsessed, channeling his grief into learning every secret of the craft, traveling to distant lands to source rare botanicals and animal essences, studying with masters both orthodox and heterodox.
+For three years afterward, Fodios withdrew from society entirely, nearly taking his own life. It was his grandmother, the perfumer [Nofáz Pheromex]{.name data-type="being/npc"}, who saved him by forcing him back into the workshop. She had him create a scent memory of Sefade—an impossible task, yet in attempting it, Fodios discovered fragrance as a tool for transformation, for healing, for capturing what cannot be named and rendering it tangible. He became obsessed, channeling his grief into learning every secret of the craft, traveling to distant lands to source rare botanicals and animal essences, studying with masters both orthodox and heterodox.
 
 ### Current Station
 
@@ -490,29 +490,29 @@ Social Isolation
 
 ### Patrons
 
-Duchess Ginehran Krizusidek
+Duchess [[being-ginehrankriz|Ginehran Krizusidek]]
 : An aging noblewoman of considerable power who has become Fodios' most steadfast patron and something approaching a confidante. She commissions fragrance for every season and has referred numerous wealthy clients. She has also begun asking him searching questions about his past and future that suggest maternal concern.
 
-Lord Tulvazikos Kezhvalzát
+Lord [[being-tulvazikoske|Tulvazikos Kezhvalzát]]
 : A wealthy merchant prince who collects unique fragrances as investments. He pays extraordinary sums for experimental pieces and has bankrolled several of Fodios' most ambitious botanical expeditions to distant lands.
 
-Master Educator Frokumes
+Master Educator [Frokumes]{.name data-type="being/npc"}
 : The head of the Bizarian League's premier academy has engaged Fodios to create a signature scent for the institution and has begun encouraging him to take apprentices, recognizing that his knowledge is irreplaceable and at risk of being lost if not passed on.
 
 ### Enemies
 
-Rival Perfumer Fritash Fotokar
+Rival Perfumer [Fritash Fotokar]{.name data-type="being/npc"}
 : The only craftsman working at anywhere near Fodios' level, Fritash is driven by bitter envy and has begun spreading rumors that Fodios' fragrances contain narcotic additives and that he has achieved his reputation through illicit magic rather than legitimate skill. Fritash has also been systematically recruiting away Fodios' few apprentices.
 
-The Merchant House of Thorne
+[The Merchant House of Thorne]{.name data-type="affiliation/lineage"}
 : The family responsible for orchestrating the attack that took Sefade's life, though official records list them as innocent. They remain powerful, and recent reports suggest they are commissioning Fritash to create fragrances specifically designed to undermine Fodios' reputation.
 
-The Church Inquisitor Malthas
+The Church Inquisitor [Malthas]{.name data-type="being/npc"}
 : A zealous religious official who suspects Fodios' use of animal musks and certain exotic botanicals to constitute forbidden practices. He has initiated a quiet investigation into whether Fodios' work violates religious law, putting him in legal danger even if unfounded.
 
 ### Affiliations
 
-The Bizarian League Artisans' Guild
+[The Bizarian League Artisans' Guild]{.name data-type="affiliation/guild"}
 : Fodios holds master status and serves on the guild's board, though his attendance at meetings is sporadic. He uses his influence to advocate for rigorous standards in craft and refuses to countenance shortcuts or inferior work.
 
 [[affiliation-linlghrglzkr|Lin'Legharu elu Galezkara]]
@@ -527,10 +527,10 @@ The Poisoner's Gambit
 : A mysterious client commissions a fragrance with precise and unusual specifications—one that must carry specific olfactory properties while concealing the scent of a particular poison. The payment offered is extraordinary, enough to fund years of research. Fodios realizes immediately that the fragrance is intended to mask a murder weapon. Pulling at him are his need of money, his curiosity about an impossible technical challenge, and his moral principles. When he refuses, the client reveals himself as a high-ranking official in the government—and promises to destroy him if he does not comply.
 
 The Lost Expedition
-: Master Educator Frokumes reveals that a botanical expedition to the fabled Shimmer Gardens in the far south has gone missing. The gardens contain a flowering plant that blooms once every hundred years and produces a nectar with properties that, when properly processed, might create the "perfect fragrance" Fodios has pursued his entire life. Frokumes offers to finance an expedition to locate the lost team and retrieve samples, but the journey will be dangerous, require Fodios to leave his work for months, and likely prove fatal. Yet if the Shimmer Gardens are real, this is his last real chance to achieve the transcendence he seeks.
+: Master Educator Frokumes reveals that a botanical expedition to the fabled [Shimmer Gardens]{.name data-type="place"} in the far south has gone missing. The gardens contain a flowering plant that blooms once every hundred years and produces a nectar with properties that, when properly processed, might create the "perfect fragrance" Fodios has pursued his entire life. Frokumes offers to finance an expedition to locate the lost team and retrieve samples, but the journey will be dangerous, require Fodios to leave his work for months, and likely prove fatal. Yet if the Shimmer Gardens are real, this is his last real chance to achieve the transcendence he seeks.
 
 The Apprentice's Betrayal
-: A talented young apprentice named **Karvánikos Farmakakit** whom Fodios has begun to trust with meaningful work is revealed to be a spy for Fritash Fotokar. Karvánikos was planted specifically to steal formulas and learn trade secrets. When confronted, Karvánikos reveals that Fodios' emotional coldness and impossible standards drove him to seek a master elsewhere. Whether he punishes, forgives, or tries to understand, Fodios has to face what his own behavior has been and whether his pursuit of perfection has cost him the relationships that might have eased his isolation.
+: A talented young apprentice named [Karvánikos Farmakakit]{.name data-type="being/npc"} whom Fodios has begun to trust with meaningful work is revealed to be a spy for Fritash Fotokar. Karvánikos was planted specifically to steal formulas and learn trade secrets. When confronted, Karvánikos reveals that Fodios' emotional coldness and impossible standards drove him to seek a master elsewhere. Whether he punishes, forgives, or tries to understand, Fodios has to face what his own behavior has been and whether his pursuit of perfection has cost him the relationships that might have eased his isolation.
 
 The Scent of Magic
 : A scholar arrives claiming to represent an organization of wizards who have identified that Fodios' fragrances produce measurable magical effects on human perception and emotion—effects that border on sorcery. They wish to study his methods and potentially commission fragrances for arcane purposes. The revelation that his work may be inadvertently magical is both thrilling and terrifying. His fragrances may be masterworks of craft, or he may unknowingly be a conduit for forces he doesn't understand. The organization's interest may be purely scholarly, or they may wish to make weapons of his creations.
