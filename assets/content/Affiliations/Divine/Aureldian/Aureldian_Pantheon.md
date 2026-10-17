@@ -46,7 +46,7 @@ sohl: {system: {commonSkills: []}}
 
 **Pronunciation:** _Aw-REL-dee-ahn_
 
-The Aureldian pantheon is the dominant religious tradition of western [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across [[affiliation-vylarinmpr|Vylaria]], [[place-provenzrgn|Provenzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-helionis|Helionis]], [[affiliation-cnfdrtntrzlnstts|Taruzel]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], and [[place-byzariargn|Bizaria Region]], with a secondary presence in the port cities of [[affiliation-kalihara|Kalihara]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence.
+The Aureldian Pantheon is the dominant pantheon in the western part of the [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across the [[affiliation-vylarinmpr|Vylarian Empire]], the [[place-provenzrgn|Provenzia Region]], the [[place-tarvenirgn|Tarvénia Region]], [[place-helionis|Helionis]], the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], and the [[place-byzariargn|Bizaria Region]], with a secondary presence in the port cities of [[affiliation-kalihara|Kalihara]]. The pantheon comprises twelve deities, each held to govern a fundamental aspect of existence and honored through a distinct primary faith.
 
 ## The Twelve
 
@@ -67,7 +67,7 @@ The Aureldian pantheon is the dominant religious tradition of western [[place-an
 
 ## The Ústaran Schism
 
-Ústaron, the Forge-Lord, embodies both the creative and destructive aspects of flame—the forge that shapes and the inferno that consumes. This duality split his worship roughly five hundred years ago when a faction within the Ústaran clergy declared that Ústaron's true nature was destruction, purification through fire, and the dominance of the strong over the weak.
+In Aureldian teaching, [[lore-ustarondty|Ústaron]], the Forge-Lord, embodies both the creative and destructive aspects of flame—the forge that shapes and the inferno that consumes. This duality split his worship roughly five hundred years ago when a faction within the Ústaran clergy declared that Ústaron's true nature was destruction, purification through fire, and the dominance of the strong over the weak.
 
 The resulting schism produced two bitterly opposed faiths, each considering the other heretical:
 
