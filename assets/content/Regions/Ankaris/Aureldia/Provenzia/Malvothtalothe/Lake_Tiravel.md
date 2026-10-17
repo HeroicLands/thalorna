@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [talothe], population: null, packFolder
 ---
 
 **Lake Tiravel** lies in the eastern uplands, in a broad basin below the Tarvénian passes—a large,
-deep, cold mountain lake, and the one part of Talote, Provenzia's eastern march that is not principally about
+deep, cold mountain lake, and the one part of [[place-talothe|Talote]], the [[place-provenzrgn|Provenzia Region]]'s eastern march, that is not principally about
 the frontier.
 
 ## The Basin

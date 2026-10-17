@@ -14,7 +14,7 @@ that would be unremarkable but for what lies immediately east of it: the **salt 
 ## The Salt
 
 The southern shore here is low, hot and shallowly tidal—the conditions that make salt—and
-Lizela's pans are the largest in Provenzia by a wide margin. This is Vylarian-style salt-making,
+Lizela's pans are the largest in the [[place-provenzrgn|Provenzia Region]] by a wide margin. This is Vylarian-style salt-making,
 worked by sun and patience on flat ground, and it is an entirely different industry from the
 wind-scoured pans above [[place-volsather|Volsater]] on the cold western coast, which produce a
 fraction as much and are worked as a sideline to fishing.
@@ -26,11 +26,11 @@ has made the town's fortunes without ever making it fashionable.
 ## The Houses
 
 Lizela's nobility are minor houses whose wealth rests on coastal trade and the pans rather than on
-broad land—the **Kórisvars** among them—and they occupy an awkward rank: rich enough to matter in
+broad land—the **[Kórisvars]{.name data-type="affiliation/lineage"}** among them—and they occupy an awkward rank: rich enough to matter in
 the district, not landed enough to matter at [[place-jalnazdal|Jalnasdal]], and acutely conscious of
 the difference.
 
-Such houses have generally survived the long contest between the Crown and the Council of Peers by
+Such houses have generally survived the long contest between the Crown and the [Council of Peers]{.name data-type="affiliation/governmental"} by
 declining to be interesting to either, a strategy that works until a daughter with more ambition than
 her father inherits.
 

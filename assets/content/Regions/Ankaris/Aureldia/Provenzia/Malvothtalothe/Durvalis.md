@@ -15,10 +15,10 @@ data:
 ---
 
 **Durvalis**—the bright castle—commands the road below the Tarvénian passes, and is the
-military seat of Talote, Provenzia's eastern march, **Talote**.
+military seat of [[place-talothe|Talote]], the [[place-provenzrgn|Provenzia Region]]'s eastern march.
 
 It is not an old town, which distinguishes it from almost everything else on this frontier. It was
-built after [[lore-warprinces|the War of the Princes]], deliberately and at considerable expense, to hold a road that had been raided along since [[lore-malnebris|Malnebris]] and that a Tarvénian host had walked unopposed in the war's second year. Its walls are the newest of any consequence in the kingdom: high, thick, unromantic,
+built after [[lore-warprinces|The War of the Princes]], deliberately and at considerable expense, to hold a road that had been raided along since [[lore-malnebris|Malnebris]] and that a Tarvénian host had walked unopposed in the war's second year. Its walls are the newest of any consequence in the kingdom: high, thick, unromantic,
 and laid out by somebody who had read the Vylarian manuals and believed them.
 
 ## The Muster
@@ -35,7 +35,7 @@ very well for a frontier post.
 
 ## The Winter Assize
 
-Because nothing can be fought in winter, winter is when the march does its law. The **Winter Assize**
+Because nothing can be fought in winter, winter is when the march does its law. The **[Winter Assize]{.name data-type="affiliation/governmental"}**
 sits at Durvalis from the closing of the passes to the thaw, and hears everything the campaign
 season has had no time for—claims over stolen stock, disputed ransoms, the standing quarrels of
 border families, and the occasional charge against an officer that could not safely be brought while

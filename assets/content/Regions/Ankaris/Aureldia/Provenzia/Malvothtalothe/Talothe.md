@@ -16,7 +16,7 @@ data:
 
 **Talote**—_the mountain march_.
 
-The **Talote** is Provenzia's frontier with [[place-tarvenirgn|Tarvénia Region]]: about a
+The **Talote** is the [[place-provenzrgn|Provenzia Region]]'s frontier with the [[place-tarvenirgn|Tarvénia Region]]: about a
 million people in the eastern uplands and the basins below them, under mountains that are genuinely
 cold and very nearly impassable from the first snow to the thaw.
 

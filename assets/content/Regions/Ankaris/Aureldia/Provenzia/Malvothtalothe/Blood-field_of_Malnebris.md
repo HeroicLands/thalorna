@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [talothe], population: null, packFolder
 ---
 
 High on the Tarvénian frontier, where the passes come down out of the cold mountains, lies the
-**Blood-field of Malnebris**, made by the first great raid on the province in about 556 AF ([[lore-malnebris|Malnebris]])—and it is the only one of Provenzia's [[lore-bloodfields|blood-fields]]
+**Blood-field of Malnebris**, made by the first great raid on the province in about 556 AF ([[lore-malnebris|Malnebris]])—and it is the only one of the [[place-provenzrgn|Provenzia Region]]'s [[lore-bloodfields|blood-fields]]
 that is not finished.
 
 ## A Recurrence
@@ -26,7 +26,7 @@ merely a reliable one, since the weather that carries the sound is the weather t
 
 The frontier is fought over every year the passes are open, and men die at Malnebris with some
 regularity because it is where the road is. Whether the new dead join the recurrence is a matter of
-genuine dispute: the old say the sounds have grown, the priests of [[affiliation-selmoros|Sélmoros]]
+genuine dispute: the old say the sounds have grown, the priests of the [[affiliation-selmoros|Faith of Sélmoros]]
 say the field was made once and is not being remade, and nobody can settle it because no one can count
 a noise.
 

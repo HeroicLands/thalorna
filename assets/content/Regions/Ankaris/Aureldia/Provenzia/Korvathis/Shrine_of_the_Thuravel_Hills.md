@@ -8,10 +8,10 @@ tags: [sacred, hill, woodland]
 data: {demonym: null, lore: [], parents: [thuravelhills], population: null, packFolder: provenzia}
 ---
 
-Somewhere in the [[place-thuravelhills|Túravel Hills]] of southern
-[[place-provenzrgn|Provenzia Region]] stands a shrine that official history has forgotten and old songs
-have not. It was raised long before the [[affiliation-arldnpnthn|Twelve]] were worshipped here, for the
-worship of the [[affiliation-firstgods|Old Gods]], and it was a place of real power.
+Somewhere in the [[place-thuravelhills|Túravel Hills]] in the southern part of the
+[[place-provenzrgn|Provenzia Region]] stands the Shrine of Túravel Hills, which official history has forgotten and old songs
+have not. It was raised long before the [[affiliation-arldnpnthn|Aureldian Pantheon]] was worshipped here, for the
+observances of [[affiliation-theoldway|The Old Way]], and it was a place of real power.
 
 It has not been disturbed in centuries, and perhaps not in millennia.
 

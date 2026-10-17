@@ -15,20 +15,20 @@ It is a small town of perhaps two thousand two hundred, and it has two quite sep
 
 ## The Summer Town
 
-From late spring the southern gentry come up out of the coastal heat. Válaren and the southern ports
+From late spring the southern gentry come up out of the coastal heat. [[place-valarencity|Válaren City]] and the southern ports
 are magnificent and, in high summer, barely habitable; Palvote is green, watered, and some ten
 degrees kinder, and the families who can afford to leave have been leaving for it for centuries.
 
 The town is accordingly far grander than its size warrants—villas along the ridge, a season of
 entertainments, prices that triple in June—and for four months of the year it is where a good deal of
-southern Provenzia's business is actually settled, over dinners, well away from the city.
+business in the southern part of the [[place-provenzrgn|Provenzia Region]] is actually settled, over dinners, well away from the city.
 
 ## The Last Town
 
 The other life is quieter and older. Palvote is the last place with an inn, a market and a road
 before the Túravel Hills, and everyone going into that country outfits here: shepherds, foresters,
 and—increasingly—scholars, antiquarians and agents of the [[affiliation-ordoarcanis|Thordimalon]]
-looking for the [[place-shrinethuravelhills|shrine]].
+looking for the [[place-shrinethuravelhills|Shrine of Túravel Hills]].
 
 The townspeople take their money and give directions of a quality that varies with how the visitor has
 behaved. Palvote has a good deal of hill blood in it, keeps one or two observances that its summer

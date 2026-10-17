@@ -8,12 +8,12 @@ tags: [coastal]
 data: {demonym: null, lore: [], parents: [korvathis], population: null, packFolder: provenzia}
 ---
 
-Above the warm sandy coast of the south, in the richest and most comfortable country in Provenzia,
+Above the warm sandy coast of the south, in the richest and most comfortable country in the [[place-provenzrgn|Provenzia Region]],
 lies a field where nothing sings.
 
 ## The Silence
 
-**Kalvenza** is a [[lore-bloodfields|blood-field]] of the silent kind. No birds nest there. There are
+The **Blood-field of Kalvenza** is a [[lore-bloodfields|blood-field]] of the silent kind. No birds nest there. There are
 no insects in the summer grass. Sound carries oddly—not muffled, exactly, but unaccompanied—and
 the only noise on the field is weather and whatever the visitor brought with them.
 
