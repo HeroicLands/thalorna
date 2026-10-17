@@ -254,9 +254,9 @@ The camp lies a long day's ride from the broken towers, farther than anyone need
 
 # Dossier {#dossier}
 
-The Yiqnotud is what the tribes of the steppe call the hunters of the thin blood-fields: the predator spirits that cross into this world in a semi-material form on the worst of the ground, take hold of the living and kill them. The word means "the hunter". The tribes use it as the name of a kind and not of a creature, and they do not say it after dark.
+The Yiqnotud is what the tribes of the steppe call the hunters of the thin [[lore-bloodfield|Blood-fields]]: the predator spirits that cross into this world in a semi-material form on the worst of the ground, take hold of the living and kill them. The word means "the hunter". The tribes use it as the name of a kind and not of a creature, and they do not say it after dark.
 
-Its place in the doctrine is plain. A [[lore-bloodfield|blood-field]] is ground where so many died together, unreceived by their own rites, that the boundary between the worlds tore, and the predators of the spirit realm gather where unreceived souls are. On a thin field the hunters come through in a form that can act on the world. Nothing living crosses the other way. The Yiqnotud is the reason a thin field is called cursed rather than haunted: a body found at its edge in the morning is a thing every district with a thin field has seen. It belongs with the [[being-spctrwlf|Specterwolf]] and the [[being-glmhnd|Gloomhound]] among the semi-material hunters of the spirit realm, and the steppe tells of it in its own terms.
+Its place in the doctrine is plain. A blood-field is ground where so many died together, unreceived by their own rites, that the boundary between the worlds tore, and the predators of the spirit realm gather where unreceived souls are. On a thin field the hunters come through in a form that can act on the world. Nothing living crosses the other way. The Yiqnotud is the reason a thin field is called cursed rather than haunted: a body found at its edge in the morning is a thing every district with a thin field has seen. It belongs with the [[being-spctrwlf|Specterwolf]] and the [[being-glmhnd|Gloomhound]] among the semi-material hunters of the spirit realm, and the steppe tells of it in its own terms.
 
 ## Presentation
 
@@ -266,7 +266,7 @@ Those who have seen one in the half-light say that the head is wrong. It has no 
 
 ## In the Land
 
-The Yiqnotud is found on the thin fields and nowhere else: on the ground at Jilaq, three days off the road, where the towers of the league's chief city stand over a ring wall, and on the sacked caravan town of Qiimod on the southern spur, where no bird sings and no flame stays lit. It walks the field on any night of the year, and in the field's season and when standing water lies on the ground it walks in greater numbers. The lesser fields, such as the oasis called Vomek, bring bad dreams and nothing that can touch the living. The Yiqnotud is for the thin ones.
+The Yiqnotud is found on the thin fields and nowhere else: on the ground at [[place-jilaq|Jilaq]], three days off the road, where the towers of the league's chief city stand over a ring wall, and on the sacked caravan town of [[place-qimod|Qiimod]] on the southern spur, where no bird sings and no flame stays lit. It walks the field on any night of the year, and in the field's season and when standing water lies on the ground it walks in greater numbers. The lesser fields, such as the oasis called [[place-wemaq|Vomek]], bring bad dreams and nothing that can touch the living. The Yiqnotud is for the thin ones.
 
 It ranges a few miles beyond the edge of the field in the dark. A camp pitched on the field, or a caravan that has strayed onto it, meets it directly. A camp a mile off on a quiet night may see it at the edge of the light and go through the night with its dogs whining.
 

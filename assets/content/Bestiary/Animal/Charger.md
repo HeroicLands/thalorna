@@ -246,7 +246,7 @@ Behind the stable-yard gate a tall, dark horse is being walked in a ring by a gr
 
 # Dossier {#dossier}
 
-The Charger is the warhorse of the noble houses and garrison towns, sixteen to eighteen hands high and twelve to eighteen hundred pounds, selected, bred and trained to carry an armed rider into a fight. It is brought up from a colt to stand under a drum and a banner and to endure noise, blood and fire. The stables of [[place-aureldirgn|Aureldia]], [[place-aelwyth|Aelwyth]] and the five cities of [[place-byzariargn|Bizaria]] keep them, and a knight rides one to battle and a lighter horse on the road.
+The Charger is the warhorse of the noble houses and garrison towns, sixteen to eighteen hands high and twelve to eighteen hundred pounds, selected, bred and trained to carry an armed rider into a fight. It is brought up from a colt to stand under a drum and a banner and to endure noise, blood and fire. The stables of [[place-aureldirgn|Aureldia Region]], [[place-aelwyth|Aelwyth]] and the five cities of [[place-byzariargn|Bizaria Region]] keep them, and a knight rides one to battle and a lighter horse on the road.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A tall, broad horse with heavy bone in the legs and a muscular, compact body, th
 
 ## In the Land
 
-Chargers are kept in the stables of the noble houses and keeps of [[place-aureldirgn|Aureldia]] and [[place-aelwyth|Aelwyth]] and in the garrison towns of the five cities of [[place-byzariargn|Bizaria]]. A charger lives in a stall, is groomed and fed on grain, and is brought out for drill and for war. It is not bred in the open: stud farms in the grain belt and the river meadows breed them under a stud-master, and a colt is trained from his second year.
+Chargers are kept in the stables of the noble houses and keeps of Aureldia and Aelwyth and in the garrison towns of the five cities of Bizaria. A charger lives in a stall, is groomed and fed on grain, and is brought out for drill and for war. It is not bred in the open: stud farms in the grain belt and the river meadows breed them under a stud-master, and a colt is trained from his second year.
 
 ## Key Behaviors
 

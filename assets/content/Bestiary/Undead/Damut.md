@@ -389,7 +389,7 @@ Some are worse because they are not like that. A husband come home three days af
 
 # Dossier {#dossier}
 
-**Damut** (plural _damutu_; "damuts" at the table) is the learned name for the mindless undead, zombies, mummies, skeletons, ghouls and every other shambling thing, from the Khelathi root _d-m-t_, to drive, to goad: _the driven one_. A damut is a corpse that a necromancer or a death god's servant has driven back into motion by binding to it the dead person's soul, or a fragment of it, pulled back out of the spirit realm. Nothing in it moves itself: it goes as it is driven, by the one who raised it or by the last hunger left in the meat. Having no will, it has no cloak, and cannot pass for anything but what it is for long. Every damut carries [[lore-theshadow|the Shadow]], the necrotic force that binds it, and every one is degrading from the moment it rises. See [[lore-undead|Undead]] for the learned terms and the folk names.
+**Damut** (plural _damutu_; "damuts" at the table) is the learned name for the mindless undead, zombies, mummies, skeletons, ghouls and every other shambling thing, from _d-m-t_, a root in [[skill-khelathlng|Khelathi Language]] meaning to drive, to goad: _the driven one_. A damut is a corpse that a necromancer or a death god's servant has driven back into motion by binding to it the dead person's soul, or a fragment of it, pulled back out of the spirit realm. Nothing in it moves itself: it goes as it is driven, by the one who raised it or by the last hunger left in the meat. Having no will, it has no cloak, and cannot pass for anything but what it is for long. Every damut carries [[lore-theshadow|The Shadow]], the necrotic force that binds it, and every one is degrading from the moment it rises. See [[lore-undead|Undead]] for the learned terms and the folk names.
 
 ## Presentation
 
@@ -397,7 +397,7 @@ A damut looks like what it is, at the stage it has reached. Newly risen and skil
 
 ## In the Land
 
-Damutu are found wherever someone with the power has raised them, and the power is not rare enough. In the [[place-nrdlndsrgn|Nordlands]] the [[affiliation-nahild|Faith of Nahild]] raises its dead from the bodies of the weak, the cowardly and the dishonored and calls them [[lore-haugverdir|hrúmverdir]], servants and soldiers of the goddess's legions under the command of her favored [[lore-nagengir|nágengir]]. Elsewhere damutu are the work of necromancers: hedge practitioners who grab enough soul-stuff to drive a corpse, and skilled ones who are paid by grieving families to bring a particular person back. They are found in graveyards and burial chambers, in the cellars and hidden halls where necromancers work, at the edges of battlefields and plague pits, and on the roads behind whatever is driving them.
+Damutu are found wherever someone with the power has raised them, and the power is not rare enough. In the [[place-nrdlndsrgn|Nordlands Region]] the [[affiliation-nahild|Faith of Nahild]] raises its dead from the bodies of the weak, the cowardly and the dishonored and calls them [[lore-haugverdir|Hrúmverdir]], servants and soldiers of the goddess's legions under the command of her favored [[lore-nagengir|Nágengir]]. Elsewhere damutu are the work of necromancers: hedge practitioners who grab enough soul-stuff to drive a corpse, and skilled ones who are paid by grieving families to bring a particular person back. They are found in graveyards and burial chambers, in the cellars and hidden halls where necromancers work, at the edges of battlefields and plague pits, and on the roads behind whatever is driving them.
 
 ## Key Behaviors
 
@@ -421,7 +421,7 @@ At the last a damut is a frame of bone and leathery scraps held together by the 
 
 ### Failed-Ritual Damutu
 
-Not every damut was pulled back from the spirit realm. Some are what comes of a [[being-tereb|tereb]] ritual that failed, when the candidate lacked the strength, the devotion or the power to cross with the soul intact, or fought the transition. These start higher on the spectrum and decline more slowly, because the ritual partly worked, and a failed-ritual damut may keep its intelligence and its skill for months, and be mistaken for a tereb, before the slide begins. The end is the same.
+Not every damut was pulled back from the spirit realm. Some are what comes of a [[being-tereb|Tereb]] ritual that failed, when the candidate lacked the strength, the devotion or the power to cross with the soul intact, or fought the transition. These start higher on the spectrum and decline more slowly, because the ritual partly worked, and a failed-ritual damut may keep its intelligence and its skill for months, and be mistaken for a tereb, before the slide begins. The end is the same.
 
 ### The Hunger
 
@@ -433,7 +433,7 @@ Every damut has a creator, and the creator usually keeps some command of it: dir
 
 ## What People Do
 
-Most peoples of Thalorna hold necromancy to be evil, and the remedy for a damut is the same everywhere: destroy it, burn the body, and say over the remains the rites that should have been said in the first place, whether or not they can do anything for a soul so damaged. A damut cannot be cured, and the kindest thing that can be done for one of the recently returned is to end it quickly, before its family has to watch what it becomes. In the Nordlands, where Nahild's priests raise the hrúmverdir, the dead are burned or laid in the howe with the grave-ale drunk and the reckoning spoken, and a local gudi, gudja or velva is sent for when the dead walk. The [[affiliation-ordoarcanis|Sekran]], the Thordimalon's enforcement arm, hunts necromancers wherever its writ runs and destroys what they have raised. Villages that have met damutu learn to barricade, because the shambling dead do not go round an obstacle intelligently, and they learn to look for the controller, because the damutu stop being coordinated when it dies.
+Most peoples of [[place-worldthlrn|The World of Thalorna]] hold necromancy to be evil, and the remedy for a damut is the same everywhere: destroy it, burn the body, and say over the remains the rites that should have been said in the first place, whether or not they can do anything for a soul so damaged. A damut cannot be cured, and the kindest thing that can be done for one of the recently returned is to end it quickly, before its family has to watch what it becomes. In the Nordlands, where Nahild's priests raise the hrúmverdir, the dead are burned or laid in the howe with the grave-ale drunk and the reckoning spoken, and a local gudi, gudja or velva is sent for when the dead walk. The [Sekran]{.name data-type="affiliation"}, the [[affiliation-ordoarcanis|Thordimalon]]'s enforcement arm, hunts necromancers wherever its writ runs and destroys what they have raised. Villages that have met damutu learn to barricade, because the shambling dead do not go round an obstacle intelligently, and they learn to look for the controller, because the damutu stop being coordinated when it dies.
 
 ## Signs
 

@@ -427,7 +427,7 @@ The cave troll is tall and stooped, with a heavy chest and long, thin arms and l
 
 ## In the Land
 
-Cave trolls live in the deepest cave systems of the [[place-nrdlndsrgn|Nordlands]] mountains, in passages where light has never been, and Norgaad's mining country, which drives galleries into those mountains for the richest iron and silver in the north, keeps breaking into their ground. A troll claims miles of passage, rests in a hidden chamber at the heart of them, and hunts along the routes where prey moves: cave fish and blind crayfish in the underground streams, bats, other dreadspawn, and anything that comes down from above. When a gallery opens into its ground, it comes up the gallery. Troll lairs are known by their bones, and the oldest are deep ossuaries.
+Cave trolls live in the deepest cave systems of the [[place-nrdlndsrgn|Nordlands Region]] mountains, in passages where light has never been, and Norgaad's mining country, which drives galleries into those mountains for the richest iron and silver in the north, keeps breaking into their ground. A troll claims miles of passage, rests in a hidden chamber at the heart of them, and hunts along the routes where prey moves: cave fish and blind crayfish in the underground streams, bats, other dreadspawn, and anything that comes down from above. When a gallery opens into its ground, it comes up the gallery. Troll lairs are known by their bones, and the oldest are deep ossuaries.
 
 ## Key Behaviors
 

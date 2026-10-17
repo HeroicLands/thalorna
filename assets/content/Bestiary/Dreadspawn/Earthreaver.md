@@ -198,7 +198,7 @@ A long body of overlapping segments, dark brown and black, each plated over the 
 
 ## In the Land
 
-Earthreavers live under the hollow ridges of Idvaqor and in the deep caverns of the eastern waste, in soft rock and packed clay where they can tunnel at speed, and their warrens join and cross the older passages that people cut long before the tribes came. A [[being-sandwurm|sand wurm]] lairs in the lowest caverns of Uruvaq and the earthreaver's passages run above it. Each earthreaver holds its own warren and attacks any other that breaks into it. They are not found in the open sand, which will not hold a tunnel, nor in hard granite. The cisterns of Uruvaq draw animals down into the caverns to drink, and the earthreaver hunts the passages that lead to them.
+Earthreavers live under the hollow ridges of Idvaqor and in the deep caverns of the eastern waste, in soft rock and packed clay where they can tunnel at speed, and their warrens join and cross the older passages that people cut long before the tribes came. A [[being-sandwurm|Sand Wurm]] lairs in the lowest caverns of Uruvaq and the earthreaver's passages run above it. Each earthreaver holds its own warren and attacks any other that breaks into it. They are not found in the open sand, which will not hold a tunnel, nor in hard granite. The cisterns of Uruvaq draw animals down into the caverns to drink, and the earthreaver hunts the passages that lead to them.
 
 ## Key Behaviors
 

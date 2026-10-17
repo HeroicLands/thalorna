@@ -219,7 +219,7 @@ The fjord has been still all morning, and then the water breaks. A black fin ris
 
 # Dossier {#dossier}
 
-The Orca is the largest of the dolphins, twenty-five to thirty feet and eight to twelve thousand pounds, hunting in pods of five to thirty in the cold seas off the [[place-nrdlndsrgn|Nordlands]] and the fjord coasts of [[place-vithgard|Vithgard]]. The coastal folk know the pods, name them and plan their sailing seasons around them. Some pods hunt fish, some seals, some whales. The seal-hunting and whale-hunting pods can capsize an ice floe and wash prey off a rock, and a pod that has learned that ships carry food is a danger at sea.
+The Orca is the largest of the dolphins, twenty-five to thirty feet and eight to twelve thousand pounds, hunting in pods of five to thirty in the cold seas off the [[place-nrdlndsrgn|Nordlands Region]] and the fjord coasts of [[place-vithgard|Vithgard]]. The coastal folk know the pods, name them and plan their sailing seasons around them. Some pods hunt fish, some seals, some whales. The seal-hunting and whale-hunting pods can capsize an ice floe and wash prey off a rock, and a pod that has learned that ships carry food is a danger at sea.
 
 ## Presentation
 
@@ -227,7 +227,7 @@ A massive, streamlined animal, jet black above and bright white below, with a wh
 
 ## In the Land
 
-Orcas range the cold seas of the [[place-nrdlndsrgn|Nordlands]], the fjord coasts of [[place-vithgard|Vithgard]] and the northern ocean where the seal and whale grounds lie. A pod of five to thirty follows the herring runs in the autumn, the seals in winter and the whales on their passage through the straits. Each pod keeps its own calls and its own method of hunting, and returns to the same coasts year after year.
+Orcas range the cold seas of the Nordlands, the fjord coasts of Vithgard and the northern ocean where the seal and whale grounds lie. A pod of five to thirty follows the herring runs in the autumn, the seals in winter and the whales on their passage through the straits. Each pod keeps its own calls and its own method of hunting, and returns to the same coasts year after year.
 
 ## Key Behaviors
 

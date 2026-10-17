@@ -282,7 +282,7 @@ You feel it through your boots before you hear it, a low hum in the rock like a 
 
 # Dossier {#dossier}
 
-The Rockscale Anklyte is the armored grazer of the Khazryn's badlands: twelve feet long, eight hundred pounds, low and barrel-bodied on four legs, plated in gray and brown scales that look and feel like rock, with a tail that ends in a heavy bone club. It eats the saltbush, thorn and tough grasses of the stone uplands, lives in small herds of three to eight, and holds its grazing ground against everything that walks onto it, by warning first and then by charging. It hunts nothing. It is dangerous to people because the ground it grazes is the same thin ground the plateau tribes need for their goats, and a herd that has settled near a cistern has settled there for years.
+The Rockscale Anklyte is the armored grazer of the [[place-khzryndsrtrgn|Khazryn Desert Region]]'s badlands: twelve feet long, eight hundred pounds, low and barrel-bodied on four legs, plated in gray and brown scales that look and feel like rock, with a tail that ends in a heavy bone club. It eats the saltbush, thorn and tough grasses of the stone uplands, lives in small herds of three to eight, and holds its grazing ground against everything that walks onto it, by warning first and then by charging. It hunts nothing. It is dangerous to people because the ground it grazes is the same thin ground the plateau tribes need for their goats, and a herd that has settled near a cistern has settled there for years.
 
 ## Presentation
 
@@ -290,7 +290,7 @@ A squat, broad animal, wider than it is high, on four short, columnar legs. The 
 
 ## In the Land
 
-Anklytes graze the stone uplands and badlands of the [[place-khzryndsrtrgn|Khazryn]]: the mesas and ravine floors of the [[place-dkrqrrgn|Diqraqor]], the black-rock margins above the oasis strip of [[place-swoasisbelt|Tellumel]], and the broken ridges of the eastern stone desert. A herd holds a range of a few square miles round a source of water—a cistern, a seep, a rock-pool that fills in the spring rains—and keeps it for as long as the grazing lasts, which on the plateau may be a generation. They are not found on sand, which will not carry their weight, and avoid the steep ravine walls. They graze at dawn and dusk and lie up through the heat in a tight ring, plates outward, looking like a heap of stones.
+Anklytes graze the stone uplands and badlands of the Khazryn: the mesas and ravine floors of the [[place-dkrqrrgn|Diqraqor]], the black-rock margins above the oasis strip of [[place-swoasisbelt|Tellumel]], and the broken ridges of the eastern stone desert. A herd holds a range of a few square miles round a source of water—a cistern, a seep, a rock-pool that fills in the spring rains—and keeps it for as long as the grazing lasts, which on the plateau may be a generation. They are not found on sand, which will not carry their weight, and avoid the steep ravine walls. They graze at dawn and dusk and lie up through the heat in a tight ring, plates outward, looking like a heap of stones.
 
 ## Key Behaviors
 

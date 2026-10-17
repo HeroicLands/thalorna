@@ -238,7 +238,7 @@ The river bank is soft with rain, and a single line of prints runs along it, rou
 
 # Dossier {#dossier}
 
-The Jaguar is the strongest-biting cat, two and a half feet at the shoulder and one hundred fifty to two hundred fifty pounds, killing by crushing the skull, even through a turtle shell. It lives on the river banks and lake shores of the jungle of [[place-xelemrgn|Shelem]], the limestone country of [[place-kankulrgn|K'ankul]], the valleys of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] and the isthmus coasts of [[place-neokbaatergn|Ne'ok Ba'ate]]. It is the most important animal of K'ich'chik: its name is in personal names, warrior titles and places, the jaguar warrior orders are the priest-kings' elite forces, and a jaguar throne marks supreme authority.
+The Jaguar is the strongest-biting cat, two and a half feet at the shoulder and one hundred fifty to two hundred fifty pounds, killing by crushing the skull, even through a turtle shell. It lives on the river banks and lake shores of the jungle of [[place-xelemrgn|Shelem Region]], the limestone country of [[place-kankulrgn|K'ankul Region]], the valleys of [[place-ixbaltzakurgn|Ish'bal Tsa'ku Region]] and the isthmus coasts of [[place-neokbaatergn|Ne'ok Ba'ate Region]]. It is the most important animal of [[place-kchchkcntnnt|K'ich'chik Continent]]: its name is in personal names, warrior titles and places, the jaguar warrior orders are the priest-kings' elite forces, and a jaguar throne marks supreme authority.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A compact, enormously strong cat, short-legged, broad-chested, heavy through the
 
 ## In the Land
 
-Jaguars hunt the river jungles and lowland forest of [[place-xelemrgn|Shelem]], the limestone country of [[place-kankulrgn|K'ankul]], the jungle valleys of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] and the isthmus coasts of [[place-neokbaatergn|Ne'ok Ba'ate]]. A jaguar holds a stretch of river bank or lake shore where the water and the prey meet, swims well, and takes turtles, caimans, fish and peccary as readily as deer. It lies up by day in a thicket or on a limb and hunts at dusk and in the dark.
+Jaguars hunt the river jungles and lowland forest of Shelem, the limestone country of K'ankul, the jungle valleys of Ish'bal Tsa'ku and the isthmus coasts of Ne'ok Ba'ate. A jaguar holds a stretch of river bank or lake shore where the water and the prey meet, swims well, and takes turtles, caimans, fish and peccary as readily as deer. It lies up by day in a thicket or on a limb and hunts at dusk and in the dark.
 
 ## Key Behaviors
 
@@ -254,7 +254,7 @@ Jaguars hunt alone, from ambush, holding a stretch of river, lake or forest edge
 
 ## What the Itsani Do
 
-The Itsani of the cities hold the jaguar sacred. The word for it, _ish'bal_, is in the names of peoples and realms, and the Death Jaguar [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]] is the god who kills swiftly. Ish'bal Tsa'ku is called the Jaguar's House. Priests and warriors wear the pelt, and a jaguar skin is a gift fit for a ruler. Hunters take the cats for the pelts that the valleys sell with cacao and quetzal feathers. Villages on the river bank keep fires lit through the night and pen their dogs and stock inside a fence.
+The [Itsani]{.name data-type="lore/culture"} of the cities hold the jaguar sacred. The word for it, _ish'bal_, is in the names of peoples and realms, and the Death Jaguar [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]] is the god who kills swiftly. Ish'bal Tsa'ku is called the Jaguar's House. Priests and warriors wear the pelt, and a jaguar skin is a gift fit for a ruler. Hunters take the cats for the pelts that the valleys sell with cacao and quetzal feathers. Villages on the river bank keep fires lit through the night and pen their dogs and stock inside a fence.
 
 ## Signs
 

@@ -419,7 +419,7 @@ The old trackway runs between stones furred with moss, under oaks so old and so 
 
 # Dossier {#dossier}
 
-The Forest Troll is a dreadspawn of the old woods: a giant twelve to fourteen feet tall and more than a ton in weight, with bark-like skin grown through with living roots and vines, and a body that regrows lost limbs. It holds a whole forest as its own, knows every tree in it, makes the forest itself grip and block its prey, and kills anything that does not belong. The [[place-pshtrwldrns|Peshtar Wilderness]], the ungoverned highland quarter of Aelwyth, has one, in the oldest of its oak and hazel woods, and the Peshtar tribes, who answer to no lowland king, have come to an arrangement with it. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Forest Troll is a dreadspawn of the old woods: a giant twelve to fourteen feet tall and more than a ton in weight, with bark-like skin grown through with living roots and vines, and a body that regrows lost limbs. It holds a whole forest as its own, knows every tree in it, makes the forest itself grip and block its prey, and kills anything that does not belong. The [[place-pshtrwldrns|Peshtar Wilderness]], the ungoverned highland quarter of [[place-aelwyth|Aelwyth]], has one, in the oldest of its oak and hazel woods, and the Peshtar tribes, who answer to no lowland king, have come to an arrangement with it. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 

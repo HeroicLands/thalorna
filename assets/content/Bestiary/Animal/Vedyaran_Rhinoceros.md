@@ -279,7 +279,7 @@ The elephant-grass on either side of the path is higher than a rider's head, and
 
 # Dossier {#dossier}
 
-The Vedyaran rhinoceros, the _fandra_ of the Vedyari, is the armored giant of the river floodplains of [[place-vedyarargn|Vedyara]]: five to six feet at the shoulder, two tons and more, with a single horn of eight to sixteen inches and a hide grown in plates so like worked armor that armorers have copied it for centuries and never matched it. It lives in the elephant-grass, marshes and wallows along the great rivers, eats grass and reeds, and holds its ground by charging whatever comes into it. It is solitary, short-sighted and short-tempered, and it charges at a sound or a smell before it has seen what made it. In the tall grass, where the grass hides a man and the rhinoceros alike until they are a few yards apart, that makes it the most dangerous animal a traveler on the river paths meets, more so than the elephant, which is larger and prefers to go away.
+The Vedyaran Rhinoceros, the _fandra_ of the [[lore-vedyariclt|Vedyari]], is the armored giant of the river floodplains of [[place-vedyarargn|Vedyara Region]]: five to six feet at the shoulder, two tons and more, with a single horn of eight to sixteen inches and a hide grown in plates so like worked armor that armorers have copied it for centuries and never matched it. It lives in the elephant-grass, marshes and wallows along the great rivers, eats grass and reeds, and holds its ground by charging whatever comes into it. It is solitary, short-sighted and short-tempered, and it charges at a sound or a smell before it has seen what made it. In the tall grass, where the grass hides a man and the rhinoceros alike until they are a few yards apart, that makes it the most dangerous animal a traveler on the river paths meets, more so than the elephant, which is larger and prefers to go away.
 
 ## Presentation
 
@@ -287,7 +287,7 @@ A barrel-bodied animal on short, columnar legs with broad three-toed feet. The h
 
 ## In the Land
 
-The rhinoceros lives along the great rivers of the Vedyari lowlands—the [[place-mahanadi|Mahanodi]] and the others that come down from the [[place-sthrnwall|Southern Wall]]—in the flood-meadows of elephant-grass twelve to fifteen feet high, in the reed-marshes and in the wallows and mud-holes of the river margins. A bull holds a stretch of river bank with its wallows, its crossing-places and its grazing, and patrols it on a regular round. Rhinoceros are common in the wilder stretches of the rivers and rare along the settled banks, where the poachers have taken them for their horns. A path that crosses a rhinoceros's ground is known to the people who live there, and a stranger who uses it is warned.
+The rhinoceros lives along the great rivers of the Vedyari lowlands—[[place-mahanadi|The Mahanodi]] and the others that come down from [[place-sthrnwall|The Southern Wall]]—in the flood-meadows of elephant-grass twelve to fifteen feet high, in the reed-marshes and in the wallows and mud-holes of the river margins. A bull holds a stretch of river bank with its wallows, its crossing-places and its grazing, and patrols it on a regular round. Rhinoceros are common in the wilder stretches of the rivers and rare along the settled banks, where the poachers have taken them for their horns. A path that crosses a rhinoceros's ground is known to the people who live there, and a stranger who uses it is warned.
 
 ## Key Behaviors
 

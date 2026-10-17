@@ -254,7 +254,7 @@ An animal of front-heavy design: the forequarters are high, humped and heavy, wi
 
 ## In the Land
 
-Wildebeest graze the short-grass plains and woodland edge of the [[place-sthrnsvnhs|Southern Savannahs]], and each year the herds move in a vast loop. They calve on the short-grass plains in the wet season, thousands within a few weeks, and flow toward the woodlands and the permanent water as the dry season sets in. There is no leader; the herd moves by following its neighbors. The river crossings are where predators gather.
+Wildebeest graze the short-grass plains and woodland edge of the Southern Savannahs, and each year the herds move in a vast loop. They calve on the short-grass plains in the wet season, thousands within a few weeks, and flow toward the woodlands and the permanent water as the dry season sets in. There is no leader; the herd moves by following its neighbors. The river crossings are where predators gather.
 
 ## Key Behaviors
 
@@ -262,7 +262,7 @@ Wildebeest live as a herd, and a lone animal does not last. The herd has no lead
 
 ## What the Hunter-Tribes Do
 
-The nomadic hunter-tribes of the savanna time their own movements to the herds' cycle and follow them. The herds supply meat, hide, bone, sinew and horn. A hunting band takes the stragglers and the old at the river crossings, with spears, and does not break up the herd. A crossing is also a hazard, and travelers who find themselves in the path of a herd climb a kopje or a tree. The Nyáluba clans' cattle-drives follow the same routes in the dry season, and a clan avoids a river that is full of dead animals.
+The nomadic hunter-tribes of the savanna time their own movements to the herds' cycle and follow them. The herds supply meat, hide, bone, sinew and horn. A hunting band takes the stragglers and the old at the river crossings, with spears, and does not break up the herd. A crossing is also a hazard, and travelers who find themselves in the path of a herd climb a kopje or a tree. The [[lore-nyalubaclt|Nyáluba]] clans' cattle-drives follow the same routes in the dry season, and a clan avoids a river that is full of dead animals.
 
 ## Signs
 

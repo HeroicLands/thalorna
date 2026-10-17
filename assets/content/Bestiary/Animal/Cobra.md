@@ -154,7 +154,7 @@ A sound like torn cloth comes from the dark behind the grain-bin. In the slit of
 
 # Dossier {#dossier}
 
-The Cobra is the great venomous snake of the river lowlands, six to eight feet long, thirty pounds, found in irrigation channels, granaries, ruined temples and rocky ground at the desert edge of [[place-aukhelathrgq|Au'Khelathu]]. Its raised hood is the royal sign of the empire, and a living cobra is sacred and may be killed only in self-defense. Farmers value it for the rats it keeps down and fear it for a bite that kills a grown man within hours.
+The Cobra is the great venomous snake of the river lowlands, six to eight feet long, thirty pounds, found in irrigation channels, granaries, ruined temples and rocky ground at the desert edge of [[place-aukhelathrgq|Au'Khelathu Region]]. Its raised hood is the royal sign of the empire, and a living cobra is sacred and may be killed only in self-defense. Farmers value it for the rats it keeps down and fear it for a bite that kills a grown man within hours.
 
 ## Presentation
 
@@ -162,7 +162,7 @@ A large, smooth-scaled snake with a slender, strong body, jet black, dark brown 
 
 ## In the Land
 
-Cobras live in the papyrus marshes of the delta of [[place-aukhelathrgq|Au'Khelathu]], along the irrigation channels and field-banks of the river valley, in granaries and in the rocky ground at the desert edge. A snake keeps to one length of bank or one set of ruins, hunting rats, frogs and birds, and basking on a wall in the morning. Cobras are common in the river lowlands, and nearly every village has one living in its mud-brick walls or its grain store.
+Cobras live in the papyrus marshes of the delta of Au'Khelathu, along the irrigation channels and field-banks of the river valley, in granaries and in the rocky ground at the desert edge. A snake keeps to one length of bank or one set of ruins, hunting rats, frogs and birds, and basking on a wall in the morning. Cobras are common in the river lowlands, and nearly every village has one living in its mud-brick walls or its grain store.
 
 ## Key Behaviors
 
@@ -170,7 +170,7 @@ Cobras are active in the morning and evening and lie up in shade, burrows or rub
 
 ## What the Delta Villages Do
 
-The raised hood is the royal sign of the empire, and a cobra is sacred to [[lore-shebazetdty|Shebazet]], the cobra-goddess of the delta's papyrus marshes, whose temples and estates hold the marsh villages of [[place-garshebazet|Gar-Shebazet]]. A village does not kill a cobra in its granary; it sends for a snake-charmer of the temple, who takes the animal in a basket and carries it to the marsh. A farmer who is bitten is taken to the temple, whose priests keep the antidotes. Fowlers and reed-cutters wear tall boots of reed-weave and beat the ground ahead of them with a stick.
+The raised hood is the royal sign of the empire, and a cobra is sacred to [[lore-shebazetdty|Shebazet]], the cobra-goddess of the delta's papyrus marshes, and the temples and estates of the [[affiliation-shebazet|Faith of Shebazet]] hold the marsh villages of [[place-garshebazet|Gar-Shebazet]]. A village does not kill a cobra in its granary; it sends for a snake-charmer of the temple, who takes the animal in a basket and carries it to the marsh. A farmer who is bitten is taken to the temple, whose priests keep the antidotes. Fowlers and reed-cutters wear tall boots of reed-weave and beat the ground ahead of them with a stick.
 
 ## Signs
 

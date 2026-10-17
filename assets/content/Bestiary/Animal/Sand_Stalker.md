@@ -250,7 +250,7 @@ The pool at the oasis is a sheet of black under the stars, and the goats have be
 
 # Dossier {#dossier}
 
-The Sand Stalker is the hunting cat of the Khazryn: six to seven feet from nose to tail-tip, three feet at the shoulder, about a hundred and thirty pounds, sand-colored with faint darker markings, and very nearly invisible on the desert at night. It hunts what comes to drink. Every well, seep and [[lore-ownedoasis|owned oasis]] in the sands and the gravel reaches has a sand stalker within a night's walk of it, and the cat lies up through the day in a cave or a crevice and comes down to the water at dark for the gazelle, the hares, the birds and the stray goat that come down too. It is one of the three creatures a desert guide names first to a newcomer, with the [[being-gntcmlsp|giant camel spider]] and the [[being-bnscrpn|bone scorpion]].
+The Sand Stalker is the hunting cat of the [[place-khzryndsrtrgn|Khazryn Desert Region]]: six to seven feet from nose to tail-tip, three feet at the shoulder, about a hundred and thirty pounds, sand-colored with faint darker markings, and very nearly invisible on the desert at night. It hunts what comes to drink. Every well, seep and [[lore-ownedoasis|owned oasis]] in the sands and the gravel reaches has a sand stalker within a night's walk of it, and the cat lies up through the day in a cave or a crevice and comes down to the water at dark for the gazelle, the hares, the birds and the stray goat that come down too. It is one of the three creatures a desert guide names first to a newcomer, with the [[being-gntcmlsp|Giant Camel Spider]] and the [[being-bnscrpn|Bone Scorpion]].
 
 It does not hunt men by habit. It hunts a man who is alone, asleep or hurt, and a cat that has once taken a man learns that men are slow.
 
@@ -260,7 +260,7 @@ A lean, long-legged cat built for a sprint and a long walk: narrow through the c
 
 ## In the Land
 
-Sand stalkers live throughout the [[place-hskrrgn|Khoshiqor]] and the [[place-khzryndsrtrgn|Khazryn]]'s other sands and gravel reaches, in the stone uplands of the [[place-dkrqrrgn|Diqraqor]] where the ravines give them cover, and along the length of the road wherever water and broken rock lie within a few miles of each other. Each cat holds a range that takes in one or two waters, marks it with scent on the prominent rocks and claw-scores on the soft stone, and drives other stalkers out. The owners of a spring know which cat waters there and at what hour, and keep their own camps well back from the pool after dark. They are seldom seen by day. A stalker seen at noon is sick, starving or guarding young.
+Sand stalkers live throughout the [[place-hskrrgn|Khoshiqor]] and the Khazryn's other sands and gravel reaches, in the stone uplands of the [[place-dkrqrrgn|Diqraqor]] where the ravines give them cover, and along the length of the road wherever water and broken rock lie within a few miles of each other. Each cat holds a range that takes in one or two waters, marks it with scent on the prominent rocks and claw-scores on the soft stone, and drives other stalkers out. The owners of a spring know which cat waters there and at what hour, and keep their own camps well back from the pool after dark. They are seldom seen by day. A stalker seen at noon is sick, starving or guarding young.
 
 ## Key Behaviors
 

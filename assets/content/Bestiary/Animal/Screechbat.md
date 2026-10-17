@@ -257,7 +257,7 @@ Screechbats hunt in packs and find everything by sound. Each one clicks constant
 
 ## What the Miners Do
 
-The mining camps of Moktur close off a worked-out level with a timber door or a wall of dry stone, and a gallery that opens into an old level is not worked without a lamp-boy at the back keeping a second light burning. Miners go into old ground with wax or wool in their ears, and they carry bright lamps and pitch torches, which the bats will not face. The half-[[lore-varokhiclt|Varokh]] crews at Stennvold leave the colony in the old levels a share of the carcass of every goat they slaughter, set out at the adit-mouth at dusk, and they say that a fed colony does not come into the working levels; the overseers call it waste and have never stopped it. The bat-dung from the roosts is dug out and sold to the farms below as fertilizer, and the men who dig it go in at midday, in the hours the colony sleeps soundest.
+The mining camps of Moktur close off a worked-out level with a timber door or a wall of dry stone, and a gallery that opens into an old level is not worked without a lamp-boy at the back keeping a second light burning. Miners go into old ground with wax or wool in their ears, and they carry bright lamps and pitch torches, which the bats will not face. The half-[[lore-varokhiclt|Varokhi]] crews at Stennvold leave the colony in the old levels a share of the carcass of every goat they slaughter, set out at the adit-mouth at dusk, and they say that a fed colony does not come into the working levels; the overseers call it waste and have never stopped it. The bat-dung from the roosts is dug out and sold to the farms below as fertilizer, and the men who dig it go in at midday, in the hours the colony sleeps soundest.
 
 ## Signs
 

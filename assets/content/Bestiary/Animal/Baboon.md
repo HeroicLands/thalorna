@@ -429,7 +429,7 @@ A bark comes from the rock above the river path, short and flat, and is answered
 
 # Dossier {#dossier}
 
-The Baboon is the largest monkey of the river lowlands, fifty to a hundred pounds, living in troops of twenty to over a hundred on the cliffs and rocky escarpments above the great river of [[place-aukhelathrgq|Au'Khelathu]] and along the river margins of the [[place-nrthrnfrtlrgn|Northern Fertile Region]]. A lone animal is a nuisance; a troop strips a granary or a field in an hour. The animals are sacred to the scribe-god [[lore-rethsaardty|Reth'Sa'ar]], and the troops of the temple courts are fed by the priests.
+The Baboon is the largest monkey of the river lowlands, fifty to a hundred pounds, living in troops of twenty to over a hundred on the cliffs and rocky escarpments above the great river of [[place-aukhelathrgq|Au'Khelathu Region]] and along the river margins of the [[place-nrthrnfrtlrgn|Northern Fertile Region]]. A lone animal is a nuisance; a troop strips a granary or a field in an hour. The animals are sacred to the scribe-god [[lore-rethsaardty|Reth'Sa'ar]], and the troops of the temple courts are fed by the priests.
 
 ## Presentation
 
@@ -437,7 +437,7 @@ A heavy-bodied monkey with a long, doglike muzzle ending in a broad nose, deep-s
 
 ## In the Land
 
-Baboon troops live on the cliffs and rocky escarpments above the great river of [[place-aukhelathrgq|Au'Khelathu]] and along the river margins of the [[place-nrthrnfrtlrgn|Northern Fertile Region]]. A troop sleeps on a cliff ledge or in a stand of tall trees, descends at first light to the river bottoms and the fields, and walks the same circuit each day. Troops that have taken to the temple precincts stay in them year-round and are fed from the temple kitchens. Wild troops hold the canyons and mountain passes farther inland.
+Baboon troops live on the cliffs and rocky escarpments above the great river of Au'Khelathu and along the river margins of the Northern Fertile Region. A troop sleeps on a cliff ledge or in a stand of tall trees, descends at first light to the river bottoms and the fields, and walks the same circuit each day. Troops that have taken to the temple precincts stay in them year-round and are fed from the temple kitchens. Wild troops hold the canyons and mountain passes farther inland.
 
 ## Key Behaviors
 
@@ -445,7 +445,7 @@ Troops are led by a dominant male who holds his rank against younger challengers
 
 ## What the Temples Do
 
-The temples of the scribe-god [[lore-rethsaardty|Reth'Sa'ar]] feed the troops that live in their courts and forbid anyone to strike one. A farmer whose granary has been stripped has no remedy under temple law, and the loss falls on the village until the scribes assess it against the temple's tithe. Farmers guard ripe fields with watchers on towers, with drums, and with dogs, and they build granary doors with a bar set high where a baboon's hand cannot lift it. A baboon that kills a child is the one case in which the priests allow the troop's leader to be driven out of the precinct.
+The temples of the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] feed the troops that live in their courts and forbid anyone to strike one. A farmer whose granary has been stripped has no remedy under temple law, and the loss falls on the village until the scribes assess it against the temple's tithe. Farmers guard ripe fields with watchers on towers, with drums, and with dogs, and they build granary doors with a bar set high where a baboon's hand cannot lift it. A baboon that kills a child is the one case in which the priests allow the troop's leader to be driven out of the precinct.
 
 ## Signs
 
@@ -457,7 +457,7 @@ The temples of the scribe-god [[lore-rethsaardty|Reth'Sa'ar]] feed the troops th
 
 ## Combat Strategy
 
-A baboon troop's response to threat follows a predictable escalation. Sentries give alarm calls; the troop gathers and faces the threat; dominant males move to the front and begin aggressive displays — jaw-gaping to show canines, barking, ground-slapping, and mock charges. If the threat does not retreat, multiple males will charge simultaneously, attempting to overwhelm through numbers and ferocity. Individual baboons fight with a combination of biting and grappling, using their powerful hands to seize and their long canines to deliver deep puncture wounds. Against predators, the troop acts as a coordinated defense — females and young retreat to high ground while males form a aggressive screen. Against humans, baboons that have learned to associate people with food may bypass threat displays entirely and simply mob individuals carrying food or guarding granaries. A baboon troop that has been attacked will remember the aggressor and respond to similar-looking humans with immediate, preemptive aggression — they do not forget, and they do not forgive easily.
+A baboon troop's response to threat follows a predictable escalation. Sentries give alarm calls; the troop gathers and faces the threat; dominant males move to the front and begin aggressive displays — jaw-gaping to show canines, barking, ground-slapping, and mock charges. If the threat does not retreat, multiple males will charge simultaneously, attempting to overwhelm through numbers and ferocity. Individual baboons fight with a combination of biting and grappling, using their powerful hands to seize and their long canines to deliver deep puncture wounds. Against predators, the troop acts as a coordinated defense — females and young retreat to high ground while males form an aggressive screen. Against humans, baboons that have learned to associate people with food may bypass threat displays entirely and simply mob individuals carrying food or guarding granaries. A baboon troop that has been attacked will remember the aggressor and respond to similar-looking humans with immediate, preemptive aggression — they do not forget, and they do not forgive easily.
 
 ## Attack Methods
 

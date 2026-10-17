@@ -252,7 +252,7 @@ An animal that is hard to believe: a horse-sized body on legs so long the back s
 
 ## In the Land
 
-Giraffes browse the acacia and baobab country of the [[place-sthrnsvnhs|Southern Savannahs]], the open woodland on the edge of the savanna and the wooded plains of the south of [[place-okharisrgn|Okharis]]. A tower of up to a dozen animals moves slowly from tree to tree through the day, and drinks at the water-holes at dawn or dusk, splaying its forelegs to reach the water. They avoid dense forest and the open desert alike.
+Giraffes browse the acacia and baobab country of the Southern Savannahs, the open woodland on the edge of the savanna and the wooded plains of the south of [[place-okharisrgn|Okharis Region]]. A tower of up to a dozen animals moves slowly from tree to tree through the day, and drinks at the water-holes at dawn or dusk, splaying its forelegs to reach the water. They avoid dense forest and the open desert alike.
 
 ## Key Behaviors
 
@@ -260,7 +260,7 @@ Giraffes live loosely, in groups that change daily from a lone bull to twenty or
 
 ## What the Herding Clans Do
 
-The herding clans of the savanna drive their cattle past a giraffe tower without stopping and do not hunt giraffes for meat. A young hunter who kills one has done something his elders will argue about. The tail-hair is made into bracelets and fly-whisks, the sinew into bowstrings and the hide into shields and sandal-soles. Traders from the north carry giraffe-hide to the cities of the Northern Fertile Region. A giraffe's kick can break a lion's skull, and the cattle-herders keep their dogs away from one that has calved.
+The herding clans of the savanna drive their cattle past a giraffe tower without stopping and do not hunt giraffes for meat. A young hunter who kills one has done something his elders will argue about. The tail-hair is made into bracelets and fly-whisks, the sinew into bowstrings and the hide into shields and sandal-soles. Traders from the north carry giraffe-hide to the cities of the [[place-nrthrnfrtlrgn|Northern Fertile Region]]. A giraffe's kick can break a lion's skull, and the cattle-herders keep their dogs away from one that has calved.
 
 ## Signs
 

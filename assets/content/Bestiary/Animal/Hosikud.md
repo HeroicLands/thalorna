@@ -205,7 +205,7 @@ The slope is perfect. It falls away from the crest of the dune in a smooth, even
 
 The Khoshikud is a burrowing predator of the sand seas, built to make a trap and wait in it. It digs a steep-sided funnel into the lee face of a dune, sinks itself at the bottom with only its jaws open, and lets the loose sand do the work. Anything that steps on the rim slides in; anything that struggles slides deeper; and the Khoshikud, which throws sand upward at a victim's feet to keep the slope running, closes its jaws on whatever arrives. The tribes call it by the word for sand and the suffix of a doer, "the sand-doer", and the guides of the deep sands call the pit itself _khoshiq_, "sand", as though the dune had made it.
 
-It is the reason the tribes of the Khoshiqor lead their strings along the crest of a dune and not the foot of it, and the reason no sensible guide will let an animal stop in the shade of a slope.
+It is the reason the tribes of [[place-hskrrgn|Khoshiqor]] lead their strings along the crest of a dune and not the foot of it, and the reason no sensible guide will let an animal stop in the shade of a slope.
 
 ## Presentation
 
@@ -215,7 +215,7 @@ An adult spends nearly its entire life below the surface. Dug up and set on open
 
 ## In the Land
 
-The Khoshikud lives in the dune fields of the Khoshiqor, in the sand seas the road crosses between the Long Dry and the wells beyond [[place-qisomrktcmp|Qiiso]]. It needs a dune with a steep, sheltered lee face of loose sand, a wind that blows from one direction for most of a season, and a steady supply of animals that want shade. The sand seas around [[place-wilud|Vulud]] hold more of them than any other country, since the drowned city's walls and tower tops throw long shadows across the lee faces of the dunes, and every animal in a day's march comes to them.
+The Khoshikud lives in the dune fields of the Khoshiqor, in the sand seas the road crosses between the [Long Dry]{.name data-type="place/feature"} and the wells beyond [[place-qisomrktcmp|Qiiso]]. It needs a dune with a steep, sheltered lee face of loose sand, a wind that blows from one direction for most of a season, and a steady supply of animals that want shade. The sand seas around [[place-wilud|Vulud]] hold more of them than any other country, since the drowned city's walls and tower tops throw long shadows across the lee faces of the dunes, and every animal in a day's march comes to them.
 
 A pit is not permanent. A shifting dune buries its own trap in a season, and a Khoshikud that feeds well digs a new one a few hundred paces off. The animal moves at night, under the sand, and a dune field with a dozen Khoshikud holds a dozen pits in various stages of use.
 
@@ -229,7 +229,7 @@ It senses by vibration. A footfall on the rim tells it the weight, the number of
 
 The tribes of the sands know a Khoshikud pit by sight. The slope is too smooth, too symmetrical and too clean, and the first thing a guide teaches a new hand is to look at the sand on the lee of every dune before he looks at the sky. Strings are led along the windward crests, where the sand is packed and the pits are never dug. A rider goes ahead on foot with a long pole and probes the shaded face, and an animal that wants to stop in the shade of a slope is hobbled on the crest instead.
 
-A beast in a pit is not given up. The string's drivers throw ropes, weighted at the end, and the lead hand goes down on a line with a spear and a short blade, since the Khoshikud can be struck from above as it rises. If the beast is already half buried, the hands cut away the load and heave the animal out by the hump. An Uruvol guide carries a coil of braided hair rope for this and nothing else.
+A beast in a pit is not given up. The string's drivers throw ropes, weighted at the end, and the lead hand goes down on a line with a spear and a short blade, since the Khoshikud can be struck from above as it rises. If the beast is already half buried, the hands cut away the load and heave the animal out by the hump. An [[affiliation-rwlstrb|Uruvolur]] guide carries a coil of braided hair rope for this and nothing else.
 
 Pit-hunters sell the Khoshikud's jaws. A pair, dried and cut, becomes the bow-tips of the best composite bows of the sands, and a whole pair is worth a camel.
 

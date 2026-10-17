@@ -248,7 +248,7 @@ The drain runs straight between two dikes, brown and still, scummed over with gr
 
 # Dossier {#dossier}
 
-The Acidtoad is a dreadspawn made in the shape of a great toad: six to eight feet long and about eighty pounds, sluggish and patient, with skin that weeps a burning slime, a bite that weakens, and a gullet that spits acid. It lies in still water and waits for something to come close enough. It was made, as all dreadspawn are, and it does not breed, and the one that troubles the [[place-greylevels|Greylevels]] of eastern Aldorath came out of nowhere anyone can name, a generation ago, and has been there ever since. It moves from drain to drain across the reclaimed marsh, and it is the one creature on the Levels that the commissions of sewers fear more than a high tide.
+The Acidtoad is a dreadspawn made in the shape of a great toad: six to eight feet long and about eighty pounds, sluggish and patient, with skin that weeps a burning slime, a bite that weakens, and a gullet that spits acid. It lies in still water and waits for something to come close enough. It was made, as all dreadspawn are, and it does not breed, and the one that troubles [[place-greylevels|The Greylevels]] of eastern [[place-aldorathrgn|Aldorath Region]] came out of nowhere anyone can name, a generation ago, and has been there ever since. It moves from drain to drain across the reclaimed marsh, and it is the one creature on the Levels that the commissions of sewers fear more than a high tide.
 
 ## Presentation
 
@@ -256,7 +256,7 @@ The acidtoad is broad and flat, all head and body on short thick legs, with a hi
 
 ## In the Land
 
-The Greylevels are low, wet, tidal country, drained by generations of work into grazing and arable and laced with dikes, drains, sluices and channels, and the acidtoad uses all of them. It lies up in the still, scummed water of the drains and the old unreclaimed marsh at the edges of the mudflats, and it moves between them by night along the channels. It favors water near a sluice or a ford, where cattle and people come. Wherever it has lain long, the water is poisoned: fish die, the weed turns yellow, and the timber of the sluices rots. It does not go into the tidal river or onto the open flats, and it does not go up into the dry ground of the Aldorvale.
+The Greylevels are low, wet, tidal country, drained by generations of work into grazing and arable and laced with dikes, drains, sluices and channels, and the acidtoad uses all of them. It lies up in the still, scummed water of the drains and the old unreclaimed marsh at the edges of the mudflats, and it moves between them by night along the channels. It favors water near a sluice or a ford, where cattle and people come. Wherever it has lain long, the water is poisoned: fish die, the weed turns yellow, and the timber of the sluices rots. It does not go into the tidal river or onto the open flats, and it does not go up into the dry ground of [[place-aldorvale|The Aldorvale]].
 
 ## Key Behaviors
 

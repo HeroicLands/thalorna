@@ -408,7 +408,7 @@ A small gray-brown monkey sits on the temple wall with its knees up, eating your
 
 # Dossier {#dossier}
 
-The Macaque is the common monkey of the monsoon south, twenty inches long on all fours and ten to twenty-five pounds, found in the forests, temple complexes, towns and fields of [[place-vedyarargn|Vedyara]]. It sits on temple walls, steals from market stalls, raids granaries and snatches food from pilgrims' hands. Monkeys are sacred in the south, and the temple troops that are fed by priests and pilgrims are fearless and aggressive, and cannot be killed or removed without religious and legal trouble, even when a big male bites children or a troop ruins a field.
+The Macaque is the common monkey of the monsoon south, twenty inches long on all fours and ten to twenty-five pounds, found in the forests, temple complexes, towns and fields of [[place-vedyarargn|Vedyara Region]]. It sits on temple walls, steals from market stalls, raids granaries and snatches food from pilgrims' hands. Monkeys are sacred in the south, and the temple troops that are fed by priests and pilgrims are fearless and aggressive, and cannot be killed or removed without religious and legal trouble, even when a big male bites children or a troop ruins a field.
 
 ## Presentation
 
@@ -416,7 +416,7 @@ A compact, muscular monkey with a stocky, strong body, heavier-boned than a lang
 
 ## In the Land
 
-Macaques live in the forests, temple complexes, river towns and cities of [[place-vedyarargn|Vedyara]]. A troop of twenty to a hundred holds a stretch of forest edge or a quarter of a city, sleeps in the high trees and on temple roofs and comes down to the markets and granaries at dawn. A troop in the wild forest is shy; a troop that has lived among people is bold, and the same animal knows which stall-keepers carry sticks.
+Macaques live in the forests, temple complexes, river towns and cities of Vedyara. A troop of twenty to a hundred holds a stretch of forest edge or a quarter of a city, sleeps in the high trees and on temple roofs and comes down to the markets and granaries at dawn. A troop in the wild forest is shy; a troop that has lived among people is bold, and the same animal knows which stall-keepers carry sticks.
 
 ## Key Behaviors
 

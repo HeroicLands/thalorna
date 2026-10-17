@@ -248,7 +248,7 @@ The fox is sitting on the standing stone at the edge of the clearing, a fox the 
 
 # Dossier {#dossier}
 
-The Blinkfox is a small dreadspawn in the shape of a fox, about the size of a big hound and fifteen pounds in weight, which can step out of the world and back into it again a few yards away, faster than a blink. It hunts by appearing beside its prey, biting, and vanishing, and it is cunning, curious and cruel. It is met in [[place-lirve|Lirve]], on Élavendre's western coast, where the deep forest runs down to the sea and the [[lore-aralwen|aralwain]], the thin places, lie thicker than anywhere outside the mountains. The Élavendri call it a fae creature, and some of them call it worse. The scholars who sort such things call it a dreadspawn: a made thing, alive, unable to breed, and set loose in the one country where it would look most at home.
+The Blinkfox is a small dreadspawn in the shape of a fox, about the size of a big hound and fifteen pounds in weight, which can step out of the world and back into it again a few yards away, faster than a blink. It hunts by appearing beside its prey, biting, and vanishing, and it is cunning, curious and cruel. It is met in [[place-lirve|Lirve]], on [[place-elavendre|Élavendre]]'s western coast, where the deep forest runs down to the sea and the [[lore-aralwen|aralwain]], the thin places, lie thicker than anywhere outside the mountains. The Élavendri call it a fae creature, and some of them call it worse. The scholars who sort such things call it a dreadspawn: a made thing, alive, unable to breed, and set loose in the one country where it would look most at home.
 
 ## Presentation
 
@@ -256,7 +256,7 @@ A blinkfox is lean and graceful, long-legged, with a narrow muzzle and very larg
 
 ## In the Land
 
-Blinkfoxes are known from the deep forest of Lirve, between the coastal towns and the [[lore-flksinale|Sinale]] enclaves, in the oak and silver birch that is cut only under license and in the clearings round the standing stones and the thin places. A blinkfox keeps to a few miles of forest and rests in clearings and on high stones, where it can see. It is most often met at dawn and dusk and under the deep shade of the canopy, and it avoids full sunlight. Reports cluster round the aralwain, and the [[affiliation-alndnwrdns|Áelendan Wardens]] who patrol them say they have seen more than one blinkfox, though whether there are several or one that is very quick, nobody can tell.
+Blinkfoxes are known from the deep forest of Lirve, between the coastal towns and the enclaves of the [[lore-flksinale|Sinale Folk]], in the oak and silver birch that is cut only under license and in the clearings round the standing stones and the thin places. A blinkfox keeps to a few miles of forest and rests in clearings and on high stones, where it can see. It is most often met at dawn and dusk and under the deep shade of the canopy, and it avoids full sunlight. Reports cluster round the aralwain, and the [[affiliation-alndnwrdns|Áelendan Wardens]] who patrol them say they have seen more than one blinkfox, though whether there are several or one that is very quick, nobody can tell.
 
 ## Key Behaviors
 

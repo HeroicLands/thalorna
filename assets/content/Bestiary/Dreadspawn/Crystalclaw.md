@@ -249,7 +249,7 @@ The gem-diggers' gallery opens into a cave whose walls are crusted with crystal,
 
 # Dossier {#dossier}
 
-The Crystalclaw is a dreadspawn of living crystal in the shape of a great cat: six to eight feet long, as heavy as a draft ox, with claws that cut stone and a body that stores light and throws it out again in blinding bursts. It hunts in gem-bearing caverns, and it hunts, as far as anyone can tell, for the pleasure of it. One holds the old diggings at the head of the gem-road in the valley of the [[place-chandrmahi|Chandramahi]], in [[place-chandrapurland|Chendrapur Land]], where the stones that make Chendrapur rich are cut out of the hills. Like every dreadspawn it was made, it is alive, and it does not breed; the gem-diggers say it was set in the hill to keep the stones, and that it has kept them better than any House has.
+The Crystalclaw is a dreadspawn of living crystal in the shape of a great cat: six to eight feet long, as heavy as a draft ox, with claws that cut stone and a body that stores light and throws it out again in blinding bursts. It hunts in gem-bearing caverns, and it hunts, as far as anyone can tell, for the pleasure of it. One holds the old diggings at the head of the gem-road in the valley of [[place-chandrmahi|The Chandramahi]], in [[place-chandrapurland|Chendrapur Land]], where the stones that make [[place-chandrapur2|Chendrapur]] rich are cut out of the hills. Like every dreadspawn it was made, it is alive, and it does not breed; the gem-diggers say it was set in the hill to keep the stones, and that it has kept them better than any House has.
 
 ## Presentation
 
@@ -265,7 +265,7 @@ The crystalclaw patrols its caverns slowly and thoroughly, and it attacks anythi
 
 ## What the Diggers Do
 
-The gem-diggers of the valley work under the head of whichever of the Nine Houses holds their village, and the House sets the price for working the diggings next to the crystalclaw's caverns: higher shares for the diggers, a shrine at the gallery mouth, and a widow's portion paid in advance. Diggers in those galleries work with shaded lamps and with their eyes half closed against the flash, and each gang carries a heavy maul and a bronze gong. The gong is their best defense: they say the creature cannot bear a ringing note and backs away from it, and the mauls are for its body, which cracks under a hammer when a sword skates off it. Stones cut from its shed shards are sold up and down the coast as "claw-stones" at many times the price of any other, and most of what is sold under the name never came near it.
+The gem-diggers of the valley work under the head of whichever of the [Nine Houses]{.name data-type="affiliation/governmental"} holds their village, and the House sets the price for working the diggings next to the crystalclaw's caverns: higher shares for the diggers, a shrine at the gallery mouth, and a widow's portion paid in advance. Diggers in those galleries work with shaded lamps and with their eyes half closed against the flash, and each gang carries a heavy maul and a bronze gong. The gong is their best defense: they say the creature cannot bear a ringing note and backs away from it, and the mauls are for its body, which cracks under a hammer when a sword skates off it. Stones cut from its shed shards are sold up and down the coast as "claw-stones" at many times the price of any other, and most of what is sold under the name never came near it.
 
 ## Signs
 

@@ -214,7 +214,7 @@ High over the desert road the sky is full of slow black wheels. A shadow with a 
 
 # Dossier {#dossier}
 
-The Vulture is the great scavenger of the steppe and desert, fifteen to twenty-five pounds with a wingspan of seven to nine feet, found over the caravan roads and desert margins of the [[place-khzryndsrtrgn|Khazryn]] and [[place-dunharargn|Dunhara]] wherever something dies. It does not kill, finds carrion by sight from a great height and watches other vultures as well as the ground. The steppe peoples regard it with ambiguity: it is a feared omen, and a gathering over a caravan route is read as a prophecy of disaster.
+The Vulture is the great scavenger of the steppe and desert, fifteen to twenty-five pounds with a wingspan of seven to nine feet, found over the caravan roads and desert margins of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and [[place-dunharargn|Dunhara Region]] wherever something dies. It does not kill, finds carrion by sight from a great height and watches other vultures as well as the ground. The steppe peoples regard it with ambiguity: it is a feared omen, and a gathering over a caravan route is read as a prophecy of disaster.
 
 ## Presentation
 
@@ -222,7 +222,7 @@ A very large, heavy-bodied bird with broad wings and a small naked head thrust f
 
 ## In the Land
 
-Vultures soar over the steppe, the desert margins and the caravan roads of the [[place-khzryndsrtrgn|Khazryn]] and [[place-dunharargn|Dunhara]], wherever something dies. A colony roosts on a cliff or in a dead tree, launches at mid-morning when the thermals form and soars until late afternoon. A bird watches the others as well as the ground, and a carcass draws dozens from miles around. At the carcass the large birds feed first.
+Vultures soar over the steppe, the desert margins and the caravan roads of the Khazryn and Dunhara, wherever something dies. A colony roosts on a cliff or in a dead tree, launches at mid-morning when the thermals form and soars until late afternoon. A bird watches the others as well as the ground, and a carcass draws dozens from miles around. At the carcass the large birds feed first.
 
 ## Key Behaviors
 

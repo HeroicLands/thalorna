@@ -225,7 +225,7 @@ Across the shimmering flat a flock of tall birds is walking with an absurd, stal
 
 # Dossier {#dossier}
 
-The Ostrich is the largest bird, a flightless runner seven to nine feet tall and two hundred twenty to three hundred fifty pounds, on the open plains, gravel wastes and scrub margins of the [[place-dunhardsrtrgn|Dunhara Desert]], the dry edge of the Khazryn and the southern grass of the [[place-sthrnsvnhs|Southern Savannahs]]. It outruns a horse and a kick can kill a lion. The desert cities buy its plumes, eggs and leather, and some settlements keep tame birds. Attempts to ride them have injured more riders than they have carried.
+The Ostrich is the largest bird, a flightless runner seven to nine feet tall and two hundred twenty to three hundred fifty pounds, on the open plains, gravel wastes and scrub margins of the [[place-dunhardsrtrgn|Dunhara Desert Region]], the dry edge of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and the southern grass of the [[place-sthrnsvnhs|Southern Savannahs]]. It outruns a horse and a kick can kill a lion. The desert cities buy its plumes, eggs and leather, and some settlements keep tame birds. Attempts to ride them have injured more riders than they have carried.
 
 ## Presentation
 
@@ -233,7 +233,7 @@ A massive, oval body carried horizontally on two thick, powerful legs. The males
 
 ## In the Land
 
-Ostriches run the open plains, gravel wastes and scrub margins of the [[place-dunhardsrtrgn|Dunhara Desert]], the dry edge of the Khazryn and the southern grass of the [[place-sthrnsvnhs|Southern Savannahs]]. A flock of five to fifty walks together, often among gazelle or oryx, whose alertness it shares, and it sees threats from a long way off with its height. A male holds a nest-scrape in the sand, and several females lay in it.
+Ostriches run the open plains, gravel wastes and scrub margins of the Dunhara Desert, the dry edge of the Khazryn and the southern grass of the Southern Savannahs. A flock of five to fifty walks together, often among gazelle or oryx, whose alertness it shares, and it sees threats from a long way off with its height. A male holds a nest-scrape in the sand, and several females lay in it.
 
 ## Key Behaviors
 

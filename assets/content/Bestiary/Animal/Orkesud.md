@@ -260,7 +260,7 @@ The jaws are long, shallow and set with rows of hooked teeth. The forefeet carry
 
 ## In the Land
 
-The Orqazud ranges the bare clay pans, the cracked salt margins and the gravel reaches of the Khoshiqor and the Idvaqor, anywhere that heat can lie on the ground and bend the light. The [[place-ewod|Salt Basin]] is its stronghold, and the long, dry stages of the stone desert hold more of them than any caravan master likes. Its lair is a shallow scrape on the shade side of a boulder or the rim of a pan, where it spends the cool of the night and the dawn. At midmorning it walks out to its watching place, usually the edge of a real seep or a pan that holds a thumb's depth of brackish water after rain, and settles to wait.
+The Orqazud ranges the bare clay pans, the cracked salt margins and the gravel reaches of [[place-hskrrgn|Khoshiqor]] and [[place-idwkrrgn|Idvaqor]], anywhere that heat can lie on the ground and bend the light. [[place-ewod|Evod]], the Salt Basin, is its stronghold, and the long, dry stages of the stone desert hold more of them than any caravan master likes. Its lair is a shallow scrape on the shade side of a boulder or the rim of a pan, where it spends the cool of the night and the dawn. At midmorning it walks out to its watching place, usually the edge of a real seep or a pan that holds a thumb's depth of brackish water after rain, and settles to wait.
 
 It does not need the water. It stands by water because water draws prey, and it prefers a seep too small for a tribe to own, since an owned seep is watched. Tribes who water at a spring in its country put a stone marker a day's ride out and say that anything beyond the stone is the Orqazud's.
 

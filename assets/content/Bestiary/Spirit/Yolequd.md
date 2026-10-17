@@ -130,9 +130,9 @@ The air is dead still. No breath of wind has stirred the salt since dawn, and th
 
 # Dossier {#dossier}
 
-The Yolakud is a spirit of the salt: a column of whirling grit that rises on windless afternoons from the dry lake bed of [[place-ewod|Evod]] and sweeps across the flat, stripping skin from whatever it catches and blinding what it does not kill. It is not a wind. The air around it is still, and it moves against the breeze if there is one. The tribes of the Khoshiqor call it by the word for salt and the suffix of a doer, "the salt-doer", and they tell their children that it is the thirst of the lake, walking.
+The Yolakud is a spirit of the salt: a column of whirling grit that rises on windless afternoons from the dry lake bed of [[place-ewod|Evod]] and sweeps across the flat, stripping skin from whatever it catches and blinding what it does not kill. It is not a wind. The air around it is still, and it moves against the breeze if there is one. The tribes of the [[place-hskrrgn|Khoshiqor]] call it by the word for salt and the suffix of a doer, "the salt-doer", and they tell their children that it is the thirst of the lake, walking.
 
-It is not one of the hunters of the blood-fields, and the tribes do not treat it as one. Evod is no blood-field: the lake was left by the people who lived beside it, and they died elsewhere. The [[lore-bloodfield|doctrine of the blood-fields]] describes ground made by slaughter and the predator spirits that gather where the unreceived dead are. The Yolakud gathers nowhere. It is a presence of the salt itself, native to the one place where the lake's water went, and what binds it there no people of the region claims to know.
+It is not one of the hunters of the [[lore-bloodfield|Blood-fields]], and the tribes do not treat it as one. Evod is no blood-field: the lake was left by the people who lived beside it, and they died elsewhere. The doctrine of the blood-fields describes ground made by slaughter and the predator spirits that gather where the unreceived dead are. The Yolakud gathers nowhere. It is a presence of the salt itself, native to the one place where the lake's water went, and what binds it there no people of the region claims to know.
 
 ## Presentation
 
@@ -215,4 +215,4 @@ The Yolakud is a spirit made visible in dust. Blades pass through it, and it is 
 
 ## A Hook
 
-A crew of six slab-cutters came off the flat at noon, roped in a line, blind, and holding one another by the belts. The elders say the Yolakud has been rising for a week on a single spot in the middle of the flat, and rising earlier each day. The crew will not say what they saw in the column. They say only that it had a door in it. A buyer in the market-camp at Qiiso will pay for whatever lies at the place, and the tribe wants somebody to go out to the spot before the next calm day, with a wet veil and a good guide.
+A crew of six slab-cutters came off the flat at noon, roped in a line, blind, and holding one another by the belts. The elders say the Yolakud has been rising for a week on a single spot in the middle of the flat, and rising earlier each day. The crew will not say what they saw in the column. They say only that it had a door in it. A buyer in the market-camp at [[place-qisomrktcmp|Qiiso]] will pay for whatever lies at the place, and the tribe wants somebody to go out to the spot before the next calm day, with a wet veil and a good guide.

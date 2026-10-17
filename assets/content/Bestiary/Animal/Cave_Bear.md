@@ -238,7 +238,7 @@ The cave mouth is worn smooth on the stone at the height of a heavy animal's fla
 
 # Dossier {#dossier}
 
-The Cave Bear is the largest of the bears, up to ten feet tall on its hind legs and over two thousand pounds. It holds the deep limestone caves and high valleys of the [[place-graznmntns|Grazian Mountains]], the broken ground of the Shattered Peaks in the [[place-nrdlndsrgn|Nordlands]] and the upland caverns of [[place-vrystwald|Vristwald]], and a few caves have been a bear's den for longer than any village has stood near them. Unlike other bears, it does not avoid people and attacks anything that comes into its cave or its valley.
+The Cave Bear is the largest of the bears, up to ten feet tall on its hind legs and over two thousand pounds. It holds the deep limestone caves and high valleys of [[place-graznmntns|The Grazian Mountains]], the broken ground of the [[place-shtrdpks|Shattered Peaks]] in the [[place-nrdlndsrgn|Nordlands Region]] and the upland caverns of [[place-vrystwald|Vristwald]], and a few caves have been a bear's den for longer than any village has stood near them. Unlike other bears, it does not avoid people and attacks anything that comes into its cave or its valley.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A massive bear, more heavily muscled than a brown bear, with especially large sh
 
 ## In the Land
 
-Cave bears hold the deep limestone caves and high valleys of the [[place-graznmntns|Grazian Mountains]], the broken ground of the Shattered Peaks in the [[place-nrdlndsrgn|Nordlands]] and the upland caverns of [[place-vrystwald|Vristwald]]. A territory takes in a cave system, the valley below it and the game-trails that run to water, and the bear winters in the deepest chamber. A few caves have been held by bears for longer than any village has stood near them.
+Cave bears hold the deep limestone caves and high valleys of the Grazian Mountains, the broken ground of the Shattered Peaks in the Nordlands and the upland caverns of Vristwald. A territory takes in a cave system, the valley below it and the game-trails that run to water, and the bear winters in the deepest chamber. A few caves have been held by bears for longer than any village has stood near them.
 
 ## Key Behaviors
 

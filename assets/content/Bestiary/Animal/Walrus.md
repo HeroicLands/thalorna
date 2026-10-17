@@ -204,7 +204,7 @@ The beach at the foot of the cliff is a heaving mass of brown, wrinkled bodies, 
 
 # Dossier {#dossier}
 
-The Walrus is the great tusked seal of the far north, fifteen hundred to three thousand pounds with tusks up to three feet, hauling out in colonies of dozens or hundreds on the rocky shores, skerries and ice floes of the [[place-nrdlndsrgn|Nordlands]] and [[place-vithgard|Vithgard]]. Walrus ivory is a main trade good of the north, the hide goes into ship cordage and shield facings and the blubber into lamp oil and waterproofing. Hunting one is among the most dangerous work in the north, and a walrus in the water can wreck any vessel smaller than a longship.
+The Walrus is the great tusked seal of the far north, fifteen hundred to three thousand pounds with tusks up to three feet, hauling out in colonies of dozens or hundreds on the rocky shores, skerries and ice floes of the [[place-nrdlndsrgn|Nordlands Region]] and [[place-vithgard|Vithgard]]. Walrus ivory is a main trade good of the north, the hide goes into ship cordage and shield facings and the blubber into lamp oil and waterproofing. Hunting one is among the most dangerous work in the north, and a walrus in the water can wreck any vessel smaller than a longship.
 
 ## Presentation
 
@@ -212,7 +212,7 @@ A barrel-shaped animal of enormous bulk in thick, wrinkled skin, cinnamon-brown 
 
 ## In the Land
 
-Walruses haul out on the rocky beaches, skerries and ice floes of the far northern coast of the [[place-nrdlndsrgn|Nordlands]] and [[place-vithgard|Vithgard]]. A colony of dozens or hundreds lies packed on the stones, the biggest-tusked bulls at the best positions. They dive to the sea-bed for clams and move south and north with the ice. A beach holds the same colony season after season.
+Walruses haul out on the rocky beaches, skerries and ice floes of the far northern coast of the Nordlands and Vithgard. A colony of dozens or hundreds lies packed on the stones, the biggest-tusked bulls at the best positions. They dive to the sea-bed for clams and move south and north with the ice. A beach holds the same colony season after season.
 
 ## Key Behaviors
 

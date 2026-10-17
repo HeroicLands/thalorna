@@ -246,7 +246,7 @@ The steppe ahead is empty until a ripple in the grass resolves into a band of sm
 
 # Dossier {#dossier}
 
-The Wild Horse is the untamed ancestor of the steppe breeds, thirteen to fifteen hands high and six to eight hundred pounds, living in bands of five to twenty on the steppe, gravel plains and dry grassland of the [[place-khzryndsrtrgn|Khazryn]] and the southern steppe margin of [[place-velanthrgn|Velanthia]]. It is smaller and heavier-boned than most tame breeds, with a toughness no stable-raised animal has. The steppe nomads hold it sacred as the spirit of the steppe and the source of their own mounts' bloodlines. Taking and breaking one is a test of manhood among some tribes.
+The Wild Horse is the untamed ancestor of the steppe breeds, thirteen to fifteen hands high and six to eight hundred pounds, living in bands of five to twenty on the steppe, gravel plains and dry grassland of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and the southern steppe margin of [[place-velanthrgn|Velanthia Region]]. It is smaller and heavier-boned than most tame breeds, with a toughness no stable-raised animal has. The steppe nomads hold it sacred as the spirit of the steppe and the source of their own mounts' bloodlines. Taking and breaking one is a test of manhood among some tribes.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A compact, heavily built horse, rougher and wilder than any tame breed. The body
 
 ## In the Land
 
-Wild horses graze the steppe, gravel plains and dry grassland of the [[place-khzryndsrtrgn|Khazryn]] and the southern steppe margin of [[place-velanthrgn|Velanthia]]. A band of a stallion, a lead mare and her kin keeps to a range of many miles between water and grazing. The old mare chooses where the band feeds and drinks, and the stallion guards the rear. In winter the bands paw through the snow to the grass.
+Wild horses graze the steppe, gravel plains and dry grassland of the Khazryn and the southern steppe margin of Velanthia. A band of a stallion, a lead mare and her kin keeps to a range of many miles between water and grazing. The old mare chooses where the band feeds and drinks, and the stallion guards the rear. In winter the bands paw through the snow to the grass.
 
 ## Key Behaviors
 

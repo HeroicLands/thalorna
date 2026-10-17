@@ -191,7 +191,7 @@ The well-head is a ring of cut stone with a strip of shade on its eastern side, 
 
 # Dossier {#dossier}
 
-The Bone Scorpion is the large scorpion of the [[place-khzryndsrtrgn|Khazryn]], seven to nine feet from the tip of the raised tail to the reach of the pincers and three feet tall on its legs, colored the pale cream of weathered bone so that it matches the sand and the stone it rests on. It lives at the wells and along the camel road, in the shade of any wall, and it is one of the three creatures a desert guide names first to a newcomer, with the [[being-gntcmlsp|giant camel spider]] and the [[being-sndstlkr|sand stalker]]. Those two come to a camp. The scorpion stays where it is and lets the camp come to it.
+The Bone Scorpion is the large scorpion of the [[place-khzryndsrtrgn|Khazryn Desert Region]], seven to nine feet from the tip of the raised tail to the reach of the pincers and three feet tall on its legs, colored the pale cream of weathered bone so that it matches the sand and the stone it rests on. It lives at the wells and along the camel road, in the shade of any wall, and it is one of the three creatures a desert guide names first to a newcomer, with the [[being-gntcmlsp|Giant Camel Spider]] and the [[being-sndstlkr|Sand Stalker]]. Those two come to a camp. The scorpion stays where it is and lets the camp come to it.
 
 It is an ambush hunter with a long patience. A scorpion that has fed sleeps under the sand for weeks, and one that is hungry sits in the shade of a well-ring or a tumbled wall from dusk until the heat of the next morning and takes what comes to drink: hares, foxes, a stray goat, a camel's foreleg, a man who sat down in the shade without looking.
 
@@ -211,7 +211,7 @@ A Bone Scorpion spends the day buried in a burrow under a rock or a drift, fifte
 
 ## What the Tribes Do
 
-The Sovidur do not kill a scorpion that keeps to its wall. A string waters on the sunlit side of a well and nobody sits in a strip of shade he has not looked at. A camp is pitched two hundred paces from the water, and the night-herd keeps the animals from drifting back to drink.
+The [[lore-sowidesclt|Sovidur]] do not kill a scorpion that keeps to its wall. A string waters on the sunlit side of a well and nobody sits in a strip of shade he has not looked at. A camp is pitched two hundred paces from the water, and the night-herd keeps the animals from drifting back to drink.
 
 The venom sells. A full sac, taken fresh and sealed in wax, is bought at [[place-qisomrktcmp|Qiiso]] by factors who carry it south to the alchemical faculty at [[place-caldar|Kaldar]], where it is a paralytic in small doses and a poison in large ones. A scorpion is taken for its venom by a hunter working alone with a long forked pole and a sack, in the last hour before dawn when the animal is slowest, and most of the men who do it have been stung once.
 

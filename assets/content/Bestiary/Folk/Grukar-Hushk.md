@@ -381,11 +381,11 @@ sohl:
 
 ![[grkrhshk|Grukar-Hushk]]{float=top-left}
 
-The thing that fills the doorway has to stoop to come through it. It is a Grukar, but built on another scale: six feet and more of gray-green muscle over heavy bone, broader across the shoulders than two men abreast, scarred everywhere, with chunks bitten out of its ears and a pair of cracked yellow tusks jutting from its underslung jaw. It carries a cleaver of black iron that looks made for something larger still, and it carries it easily. Behind it the smaller ones crowd and wait. It looks at you with small, deep-set eyes, and there is no measuring in the look. It has already decided what you are. It is only deciding where to begin.
+The thing that fills the doorway has to stoop to come through it. It is one of the [[lore-grukarfolk|Grukar Folk]], but built on another scale: six feet and more of gray-green muscle over heavy bone, broader across the shoulders than two men abreast, scarred everywhere, with chunks bitten out of its ears and a pair of cracked yellow tusks jutting from its underslung jaw. It carries a cleaver of black iron that looks made for something larger still, and it carries it easily. Behind it the smaller ones crowd and wait. It looks at you with small, deep-set eyes, and there is no measuring in the look. It has already decided what you are. It is only deciding where to begin.
 
 # Dossier {#dossier}
 
-The Grukar-Hushk is the warrior caste of the [[lore-grukarfolk|Grukar]]: the largest, the strongest and by far the most dangerous, five and a half to six and a half feet tall and massively built, and perhaps one Grukar in twenty. It rules the [[being-grukaruk|Grukar-Uk]] by fear and fights everything, other Hushk most of all, because it cannot abide a rival; two Hushk who meet fight until one is dead. That fratricide keeps the Hushk few and fierce, and it is no accident: the tribe's [[being-grkrahk|Grukar-ahk]] spawns its Hushk in numbers that guarantee it, because a Hushk with time to think might come to understand that mastering the spawner would make it master of everything. A Hushk clutch takes twelve weeks and costs the tribe more food than any other laying, and word that the spawn-chamber has laid Hushk runs through a tribe like a declaration of war, which is what it is.
+The Grukar-Hushk is the warrior caste of the Grukar: the largest, the strongest and by far the most dangerous, five and a half to six and a half feet tall and massively built, and perhaps one Grukar in twenty. It rules the [[being-grukaruk|Grukar-Uk]] by fear and fights everything, other Hushk most of all, because it cannot abide a rival; two Hushk who meet fight until one is dead. That fratricide keeps the Hushk few and fierce, and it is no accident: the tribe's [[being-grkrahk|Grukar-ahk]] spawns its Hushk in numbers that guarantee it, because a Hushk with time to think might come to understand that mastering the spawner would make it master of everything. A Hushk clutch takes twelve weeks and costs the tribe more food than any other laying, and word that the spawn-chamber has laid Hushk runs through a tribe like a declaration of war, which is what it is.
 
 ## Presentation
 
@@ -393,7 +393,7 @@ A Grukar-Hushk is a slab of corded muscle over thick, heavy bone, dense enough t
 
 ## In the Land
 
-Every Grukar tribe has its Hushk, one or two at a time and seldom more, in [[place-grkrhlmrgn|Grukarholm]], in the eastern [[place-vrystwald|Vristwald]], on [[place-targud|Targud]]'s burned eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]]. The Hushk leads the raids that come out of those places, at the head of its Uk. It is the Hushk, more than any other Grukar, that the frontier peoples remember. In [[lore-burningeast|the Burning of the East]], which laid waste Targud's eastern districts from 604 to 614 AF, a Sha did the planning, and a Hushk led what the Sha planned.
+Every Grukar tribe has its Hushk, one or two at a time and seldom more, in [[place-grkrhlmrgn|Grukarholm Region]], in the eastern [[place-vrystwald|Vristwald]], on [[place-targud|Targud]]'s burned eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]]. The Hushk leads the raids that come out of those places, at the head of its Uk. It is the Hushk, more than any other Grukar, that the frontier peoples remember. In [[lore-burningeast|The Burning of the East]], which laid waste Targud's eastern districts from 604 to 614 AF, a [[being-grkrsh|Grukar-Sha]] did the planning, and a Hushk led what the Sha planned.
 
 ## Key Behaviors
 
@@ -401,7 +401,7 @@ A Hushk recognizes one law, that the strong rule and the weak serve or die. With
 
 ## What the Watch Does
 
-Commanders who face Grukar learn first to find the Hushk, because the Hushk is the warband. The Uk do not stand once their Hushk is dead, and a raiding party whose Hushk has been killed is a crowd of Grukar running home. Frontier levies in [[place-auldalon|Áuldalon]] and Aldorath's [[place-wyndmarch|Wyndmarch]] keep their best spearmen and their crossbows for the big one. They learn the second lesson too: a warband with two Hushk in it is a civil war waiting for an excuse, and a commander who can give the Hushk that excuse, a wound, a retreat that looks like cowardice, a captured standard, may see them settle it themselves. A lone Hushk, with no rival to provoke, will sometimes stop to look at a warrior who stands his ground without fear, before it kills him.
+Commanders who face Grukar learn first to find the Hushk, because the Hushk is the warband. The Uk do not stand once their Hushk is dead, and a raiding party whose Hushk has been killed is a crowd of Grukar running home. Frontier levies in [[place-auldalon|Áuldalon]] and [[place-wyndmarch|The Wyndmarch]] of [[place-aldorathrgn|Aldorath Region]] keep their best spearmen and their crossbows for the big one. They learn the second lesson too: a warband with two Hushk in it is a civil war waiting for an excuse, and a commander who can give the Hushk that excuse, a wound, a retreat that looks like cowardice, a captured standard, may see them settle it themselves. A lone Hushk, with no rival to provoke, will sometimes stop to look at a warrior who stands his ground without fear, before it kills him.
 
 ## Signs
 

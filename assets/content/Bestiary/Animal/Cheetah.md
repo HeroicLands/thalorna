@@ -238,7 +238,7 @@ On the gravel flat a line of gazelle lifts its heads together, and a slender, sp
 
 # Dossier {#dossier}
 
-The Cheetah is the sprinting cat of the open grass and gravel plains, thirty inches at the shoulder and seventy-five to a hundred forty-five pounds, built for speed at the cost of strength. It hunts gazelle across the [[place-khzryndsrtrgn|Khazryn]] steppe, the edges of the [[place-dunhardsrtrgn|Dunhara Desert]], the plateau of [[place-byzariargn|Bizaria]] and the dry savanna of the south. A cat cannot hold its top speed for more than half a minute, and stronger predators take its kills. Steppe chiefs and nobles keep tamed cheetahs for coursing.
+The Cheetah is the sprinting cat of the open grass and gravel plains, thirty inches at the shoulder and seventy-five to a hundred forty-five pounds, built for speed at the cost of strength. It hunts gazelle across the steppe of the [[place-khzryndsrtrgn|Khazryn Desert Region]], the edges of the [[place-dunhardsrtrgn|Dunhara Desert Region]], the plateau of [[place-byzariargn|Bizaria Region]] and the dry savanna of the south. A cat cannot hold its top speed for more than half a minute, and stronger predators take its kills. Steppe chiefs and nobles keep tamed cheetahs for coursing.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A tall, slender, narrow-bodied cat with a short, coarse golden coat, white on th
 
 ## In the Land
 
-Cheetahs hunt the gravel plains and open grassland of the [[place-khzryndsrtrgn|Khazryn]] steppe, the edges of the [[place-dunhardsrtrgn|Dunhara Desert]], the plateau of [[place-byzariargn|Bizaria]] and the dry savanna of the south, wherever gazelle herds graze in the open. A female holds a wide, thinly stocked range and follows the herds; males, often brothers, hold a territory together. A cheetah hunts in the morning and the late afternoon, sits on a termite mound or a rock to scan the plain, and rests in the heat of the day under a lone tree.
+Cheetahs hunt the gravel plains and open grassland of the Khazryn steppe, the edges of the Dunhara Desert, the plateau of Bizaria and the dry savanna of the south, wherever gazelle herds graze in the open. A female holds a wide, thinly stocked range and follows the herds; males, often brothers, hold a territory together. A cheetah hunts in the morning and the late afternoon, sits on a termite mound or a rock to scan the plain, and rests in the heat of the day under a lone tree.
 
 ## Key Behaviors
 
@@ -254,7 +254,7 @@ Cheetahs hunt by day, when the lions, leopards and hyenas rest. Females are alon
 
 ## What the Nobles Do
 
-Steppe and desert nobles take cubs from a den and raise them as coursing cats. A trained cheetah is carried hooded on a pad behind the saddle or on a cart and unhooded when a herd of gazelle is in sight. The lords of the Southern March run them in their hunts with hounds and hawks. A cheetah that has made a kill must be fed at once from the saddlebag, or it will not run again. The herders of the steppe edge, who keep sheep and goats, shoot the wild cats on sight.
+Steppe and desert nobles take cubs from a den and raise them as coursing cats. A trained cheetah is carried hooded on a pad behind the saddle or on a cart and unhooded when a herd of gazelle is in sight. The lords of the [[place-southrnmrch|Southern March]] run them in their hunts with hounds and hawks. A cheetah that has made a kill must be fed at once from the saddlebag, or it will not run again. The herders of the steppe edge, who keep sheep and goats, shoot the wild cats on sight.
 
 ## Signs
 

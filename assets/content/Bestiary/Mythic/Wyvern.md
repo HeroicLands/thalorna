@@ -285,7 +285,7 @@ The cliff above the pass has a shelf of yellow-brown rock on it that you have be
 
 # Dossier {#dossier}
 
-The wyvern is a two-legged winged lizard of six hundred pounds, with a body six to eight feet long, a wingspan of eighteen to twenty-four feet, and a barbed tail that carries a venom which kills a horse in minutes. It nests on the cliffs and in the high caves of the [[place-estrnreach|Eastern Reach]] of the Grazian range, where the two passes the Hvarn keep run under its ledges, and in the cliff-top [[place-grazruins|ruins and labyrinths]] of the high country, and it hunts from the thermals across a territory of many peaks and valleys. It takes eagles, goats, caribou and men, and it strikes a pack train on an open saddle as a hawk strikes a dovecote.
+The Wyvern is a two-legged winged lizard of six hundred pounds, with a body six to eight feet long, a wingspan of eighteen to twenty-four feet, and a barbed tail that carries a venom which kills a horse in minutes. It nests on the cliffs and in the high caves of [[place-estrnreach|The Eastern Reach]] of [[place-graznmntns|The Grazian Mountains]], where the two passes [[affiliation-hvarnguides|The Hvarn]] keep run under its ledges, and in the cliff-top [[place-grazruins|Ruins and Labyrinths of the Grazian Mountains]] of the high country, and it hunts from the thermals across a territory of many peaks and valleys. It takes eagles, goats, caribou and men, and it strikes a pack train on an open saddle as a hawk strikes a dovecote.
 
 It is no dragon. It breathes no fire, it has no speech and no hoard, and a mage's work beside it goes on as it would anywhere; it is a very large and very dangerous hunting animal with a poisoned tail, and the guides of the high passes name it among the four or five reasons a crossing is made in company.
 
@@ -295,7 +295,7 @@ A long, muscular, serpentine body scaled in amber-yellow, dull green or muddy br
 
 ## In the Land
 
-Wyverns roost on cliff faces, in high caves and among the cut stone of the ruins on the Eastern Reach and the eastern end of the Southern Wall, where the thermals off the sun-warmed rock carry them to a height without effort and the passes below give them prey. Each holds a territory of many peaks against every other wyvern and drives rivals off in fights in the air that are watched from the shrine-summits. They breed once in ten years or so, and a nesting pair holds its cliff against everything. They are not found below the foothills except when a hard winter in the heights sends one down after the flocks, which the march villages below the wall remember for a generation.
+Wyverns roost on cliff faces, in high caves and among the cut stone of the ruins on the Eastern Reach and the eastern end of [[place-sthrnwall|The Southern Wall]], where the thermals off the sun-warmed rock carry them to a height without effort and the passes below give them prey. Each holds a territory of many peaks against every other wyvern and drives rivals off in fights in the air that are watched from the shrine-summits. They breed once in ten years or so, and a nesting pair holds its cliff against everything. They are not found below the foothills except when a hard winter in the heights sends one down after the flocks, which the march villages below the wall remember for a generation.
 
 ## Key Behaviors
 
@@ -303,7 +303,7 @@ A wyvern hunts by day, when the thermals are strongest. It rises on a column of 
 
 ## What the Guides Do
 
-The Hvarn guides who keep the eastern passes reckon the wyvern roosts as they reckon the weather: by season, by the shelf a particular animal uses, and by whether it has fed. A string crosses an open saddle under a known roost at dawn, before the thermals rise, close together and fast, with the guides watching the sky and the mules' loads lashed to be cut free. A wyvern that comes down on a string is fought off with long spears braced against the rock and the mules driven on; nobody stands and fights it in the open. The venom-sac of a dead wyvern is bought by the Vedyari physicians at the foot of the passes for a price that pays the guides' year, and the wing-leather makes drumheads for the shrines. A roost above a pass that has killed too often is smoked out by the whole guide-clan with fires lit under the cliff at night, which works when the wind is right.
+The Hvarn guides who keep the eastern passes reckon the wyvern roosts as they reckon the weather: by season, by the shelf a particular animal uses, and by whether it has fed. A string crosses an open saddle under a known roost at dawn, before the thermals rise, close together and fast, with the guides watching the sky and the mules' loads lashed to be cut free. A wyvern that comes down on a string is fought off with long spears braced against the rock and the mules driven on; nobody stands and fights it in the open. The venom-sac of a dead wyvern is bought by the [[lore-vedyariclt|Vedyari]] physicians at the foot of the passes for a price that pays the guides' year, and the wing-leather makes drumheads for the shrines. A roost above a pass that has killed too often is smoked out by the whole guide-clan with fires lit under the cliff at night, which works when the wind is right.
 
 ## Signs
 

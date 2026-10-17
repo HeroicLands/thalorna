@@ -235,7 +235,7 @@ Just after dawn a scream rips across the temple garden, a piercing, many-noted c
 
 # Dossier {#dossier}
 
-The Peacock is the peafowl of the monsoon south, the male three to four feet tall and nine to thirteen pounds, with a train that runs to seven or eight feet when folded and spreads over six feet across. It is wild in the forests, scrub and river margins of [[place-vedyarargn|Vedyara]], half-wild in the farmland and tame in the temples, palaces and great estates. In southern religion it is tied to several gods, its plumage is said to hold all the colors of creation, and the eyes on the tail are signs of divine watchfulness. Killing one is forbidden in most southern jurisdictions, with penalties from a fine to exile.
+The Peacock is the peafowl of the monsoon south, the male three to four feet tall and nine to thirteen pounds, with a train that runs to seven or eight feet when folded and spreads over six feet across. It is wild in the forests, scrub and river margins of [[place-vedyarargn|Vedyara Region]], half-wild in the farmland and tame in the temples, palaces and great estates. In southern religion it is tied to several gods, its plumage is said to hold all the colors of creation, and the eyes on the tail are signs of divine watchfulness. Killing one is forbidden in most southern jurisdictions, with penalties from a fine to exile.
 
 ## Presentation
 
@@ -243,7 +243,7 @@ The male's head and neck are glossy, iridescent blue and green, topped by a fan-
 
 ## In the Land
 
-Peafowl live wild in the forests, scrub and river margins of [[place-vedyarargn|Vedyara]] and half-wild in the farmland, and tame in the temples, palaces and great estates. A flock of one male and several hens feeds on the ground by day and roosts in the tall trees at night. In the dry months the males call from the roofs at dawn, and a shrieking chorus at dusk tells a village that a snake or a cat is moving in the dark.
+Peafowl live wild in the forests, scrub and river margins of Vedyara and half-wild in the farmland, and tame in the temples, palaces and great estates. A flock of one male and several hens feeds on the ground by day and roosts in the tall trees at night. In the dry months the males call from the roofs at dawn, and a shrieking chorus at dusk tells a village that a snake or a cat is moving in the dark.
 
 ## Key Behaviors
 

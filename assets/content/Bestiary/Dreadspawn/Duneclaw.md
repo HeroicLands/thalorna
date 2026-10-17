@@ -192,7 +192,7 @@ The salt flat glares white to the horizon on your left, and on your right the ol
 
 The Duneclaw is a dreadspawn, a made thing: a scorpion twenty feet long and more, armored in dark chitin with a faint sheen like oil on water, with pincers each the size of a man and a stinger that drives a paralyzing venom through plate. One lives in the old shore dunes at the edge of [[place-ewod|Evod]], the dead lake basin of the [[place-hskrrgn|Khoshiqor]], and has lived there longer than any tribe remembers, striking from the lee of a dune at whatever crosses between the salt and the sand. The herders who graze the edge of the basin lose a goat a season to it and do not go near the shore dunes at night. Others of the same shape are met elsewhere in the deep sands, far apart, and nobody has seen two together; like every dreadspawn it has no young, and no one knows whether the ones in the deep sands were made at the same time as the one at Evod or long after.
 
-The tribes call it by the stars. The Sahri star-song of the lake under the sand, [[lore-waterunder|The Buried Water]], sets the Claw—three bright stars bent like a hook that rise out of the Salt at midnight in the cold season—over the duneclaw at the edge of the white, and the herders say it comes out when the Claw is up.
+The tribes call it by the stars. The [[affiliation-sahritrb|Sahri]] star-song of the lake under the sand, [[lore-waterunder|The Buried Water]], sets [The Claw]{.name data-type="lore"}—three bright stars bent like a hook that rise out of [The Salt]{.name data-type="lore"} at midnight in the cold season—over the duneclaw at the edge of the white, and the herders say it comes out when the Claw is up.
 
 ## Presentation
 
@@ -200,7 +200,7 @@ A vast scorpion, low and broad, its body a chain of plates each as big as a cart
 
 ## In the Land
 
-The Duneclaw of Evod holds the old shore dunes along the western edge of the basin, in the lee of the dunes where the salt meets the sand, and it lairs in a burrow under them that no one has found. Its ground is the strip a traveler must cross to get on or off the salt, and it knows every hardpan and every place a herd passes. The lake people's brick stairs and stepped mounds stand along that old shore, and the [[being-yolequd|Yolakud]] walks the salt beyond it, so a party that has come for what the Basin Builders left has the duneclaw behind it and the salt-spirit in front. The others of its kind live in the deep sands of the Khoshiqor, each alone on a stretch of dune many miles across.
+The Duneclaw of Evod holds the old shore dunes along the western edge of the basin, in the lee of the dunes where the salt meets the sand, and it lairs in a burrow under them that no one has found. Its ground is the strip a traveler must cross to get on or off the salt, and it knows every hardpan and every place a herd passes. The lake people's brick stairs and stepped mounds stand along that old shore, and the [[being-yolequd|Yolakud]] walks the salt beyond it, so a party that has come for what [[lore-basinbldrs|The Basin Builders]] left has the duneclaw behind it and the salt-spirit in front. The others of its kind live in the deep sands of the Khoshiqor, each alone on a stretch of dune many miles across.
 
 ## Key Behaviors
 

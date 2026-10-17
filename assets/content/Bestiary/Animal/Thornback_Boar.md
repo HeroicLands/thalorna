@@ -258,7 +258,7 @@ The ride turns down into a hollow of oak and holly, and the ground there has bee
 
 # Dossier {#dossier}
 
-The Thornback Boar is a big, black, savage wild boar, four to five feet at the shoulder, with long upcurved tusks and a crest of bony spines down its back that it raises when it is angry. The sows and young live in herds; the old males live alone and defend their ground against anything that comes into it, horse, hound or man, with a charge that guts a horse. On [[place-aelwyth|Aelwyth]] it is the great beast of the royal forest above [[place-kingsholow|Kingshollow]] in the [[place-wyndmarch|Wyndmarch]], where the kings of Aldorath hunt it, and it is the reason the forest's poachers prefer deer.
+The Thornback Boar is a big, black, savage wild boar, four to five feet at the shoulder, with long upcurved tusks and a crest of bony spines down its back that it raises when it is angry. The sows and young live in herds; the old males live alone and defend their ground against anything that comes into it, horse, hound or man, with a charge that guts a horse. On [[place-aelwyth|Aelwyth]] it is the great beast of the royal forest above [[place-kingsholow|Kingshollow]] in [[place-wyndmarch|The Wyndmarch]], where the kings of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] hunt it, and it is the reason the forest's poachers prefer deer.
 
 ## Presentation
 
@@ -266,7 +266,7 @@ A thornback is built heavy in front and light behind, with a deep chest, a short
 
 ## In the Land
 
-Thornbacks live in the oak, beech and holly forest of the Wyndmarch, the foothill woods that run from the approaches to the two passes down toward the [[place-hallowwood|Hallowwood]], and they are thickest in the royal forest above Kingshollow, where forest law has kept men from clearing, grazing and cutting for six centuries. They want mast, roots and wallows: acorns and beechnuts in autumn, roots and bulbs dug out of the forest floor the rest of the year, and mud to roll in. A sow herd ranges widely; an old male keeps a few square miles of thicket, water and rooting ground and stays in it. They push out into the forest-edge steadings in a bad mast year and dig up the tenants' fields overnight.
+Thornbacks live in the oak, beech and holly forest of the Wyndmarch, the foothill woods that run from the approaches to the two passes down toward [[place-hallowwood|The Hallowwood]], and they are thickest in the royal forest above Kingshollow, where forest law has kept men from clearing, grazing and cutting for six centuries. They want mast, roots and wallows: acorns and beechnuts in autumn, roots and bulbs dug out of the forest floor the rest of the year, and mud to roll in. A sow herd ranges widely; an old male keeps a few square miles of thicket, water and rooting ground and stays in it. They push out into the forest-edge steadings in a bad mast year and dig up the tenants' fields overnight.
 
 ## Key Behaviors
 

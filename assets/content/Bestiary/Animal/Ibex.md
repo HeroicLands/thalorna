@@ -246,7 +246,7 @@ The cliff above the water-hole looks empty until a stone rattles down and you se
 
 # Dossier {#dossier}
 
-The Ibex is the wild goat of the cliffs, mesas and canyons, two and a half to three feet at the shoulder and a hundred to two hundred seventy pounds, climbing rock faces that would stop a human climber. It lives on the mesas and cliffs of the [[place-dunhardsrtrgn|Dunhara Desert]], the Desert of Hek'ar, the ravines of the Khazryn Diqraqor and the high cliffs of the [[place-graznmntns|Grazian Mountains]]. No lion, cheetah or wolf can follow it up, and leopards and eagles find it too alert to be worth the effort. The nomads see it as a symbol of the wild places they travel past and do not inhabit.
+The Ibex is the wild goat of the cliffs, mesas and canyons, two and a half to three feet at the shoulder and a hundred to two hundred seventy pounds, climbing rock faces that would stop a human climber. It lives on the mesas and cliffs of the [[place-dunhardsrtrgn|Dunhara Desert Region]], the [[place-hekardesert|Desert of Hek'ar]], the ravines of [[place-dkrqrrgn|Diqraqor]] in the [[place-khzryndsrtrgn|Khazryn Desert Region]] and the high cliffs of [[place-graznmntns|The Grazian Mountains]]. No lion, cheetah or wolf can follow it up, and leopards and eagles find it too alert to be worth the effort. The nomads see it as a symbol of the wild places they travel past and do not inhabit.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A compact, muscular goat with a deep chest, a short back and short, powerful leg
 
 ## In the Land
 
-Ibex live on the cliff faces, mesa tops and canyon walls of the [[place-dunhardsrtrgn|Dunhara Desert]], the Desert of Hek'ar, the ravines of the Diqraqor in the [[place-khzryndsrtrgn|Khazryn]] and the high cliffs of the [[place-graznmntns|Grazian Mountains]]. Does and kids keep to the best ledges in herds, and bucks live apart on the neighboring slopes. They come down to water at night and climb back to the rock at first light.
+Ibex live on the cliff faces, mesa tops and canyon walls of the Dunhara Desert, the Desert of Hek'ar, the ravines of the Diqraqor in the Khazryn and the high cliffs of the Grazian Mountains. Does and kids keep to the best ledges in herds, and bucks live apart on the neighboring slopes. They come down to water at night and climb back to the rock at first light.
 
 ## Key Behaviors
 

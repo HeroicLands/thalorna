@@ -250,7 +250,7 @@ The wolves have been crying in the forest since dusk, and now the crying has sto
 
 # Dossier {#dossier}
 
-The warg is a wolf grown to four hundred pounds and three and a half or four feet at the shoulder, black or iron-gray, and warped by something that no one has named into an animal that plans. It runs in packs of five to fifteen through the dense forest and marsh-woods of [[place-grkrhlmrgn|Grukarholm]] and the eastern reaches of [[place-vrystwald|Vristwald]] where the Grukar nests thicken, and it hunts elk, boar, Grukar and men, and takes men by preference when it can. It is cleverer than any wolf: it remembers faces, lays an ambush a day ahead, and kills the archer first. The Varokh of the frontier villages do not go into Skathwald after dark in a winter when the wargs are running, and they do not say why in front of the children.
+The Warg is a wolf grown to four hundred pounds and three and a half or four feet at the shoulder, black or iron-gray, and warped by something that no one has named into an animal that plans. It runs in packs of five to fifteen through the dense forest and marsh-woods of [[place-grkrhlmrgn|Grukarholm Region]] and the eastern reaches of [[place-vrystwald|Vristwald]] where the nests of the [[lore-grukarfolk|Grukar Folk]] thicken, and it hunts elk, boar, Grukar and men, and takes men by preference when it can. It is cleverer than any wolf: it remembers faces, lays an ambush a day ahead, and kills the archer first. The [[lore-varokhiclt|Varokhi]] of the frontier villages do not go into [[place-skathwald|Skathwald]] after dark in a winter when the wargs are running, and they do not say why in front of the children.
 
 What made it is not known. The description the frontier gives, a wolf touched by fell magic, is as far as anyone has gone, and the Varokh shamans leave the question alone.
 
@@ -260,7 +260,7 @@ A huge, heavy wolf with longer legs and a deeper chest than any dire wolf, in fu
 
 ## In the Land
 
-Wargs hold the deep mixed forest and the frozen marshes of Grukarholm, where the country is roadless and the Grukar tribes are thickest, and they range west into the [[place-skathwald|Skathwald]] reach of Vristwald and south toward the Velanthian frontier in hard winters. A pack holds a range of many square miles and raids the ranges of other packs on purpose. They den in windfalls, old Grukar diggings and the banks of the slow rivers, and they are commonest where the Grukar war-trails run, since a Grukar war-band leaves dead behind it. The Grukar neither hunt the wargs nor are much hunted by them; the two give each other room in a way the Varokh find worse than war.
+Wargs hold the deep mixed forest and the frozen marshes of Grukarholm, where the country is roadless and the Grukar tribes are thickest, and they range west into the Skathwald reach of Vristwald and south toward the Velanthian frontier in hard winters. A pack holds a range of many square miles and raids the ranges of other packs on purpose. They den in windfalls, old Grukar diggings and the banks of the slow rivers, and they are commonest where the Grukar war-trails run, since a Grukar war-band leaves dead behind it. The Grukar neither hunt the wargs nor are much hunted by them; the two give each other room in a way the Varokh find worse than war.
 
 ## Key Behaviors
 

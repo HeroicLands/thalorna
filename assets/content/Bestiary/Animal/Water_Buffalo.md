@@ -246,7 +246,7 @@ Out in the flooded rice-field a row of broad black backs lies in the brown water
 
 # Dossier {#dossier}
 
-The Water Buffalo is the working beast of the floodplains, a massive, half-aquatic ox five to six feet at the shoulder and fifteen hundred to twenty-five hundred pounds, kept as a draft animal and living wild along the great river and its tributaries in [[place-vedyarargn|Vedyara]]. The heavy clay of the river margins cannot be farmed without it, and it gives milk, leather and horn. Feral herds of twenty to sixty, descended from escaped stock, are fiercely territorial, strong enough to kill any predator in the region, and easily the most dangerous cattle.
+The Water Buffalo is the working beast of the floodplains, a massive, half-aquatic ox five to six feet at the shoulder and fifteen hundred to twenty-five hundred pounds, kept as a draft animal and living wild along the great river and its tributaries in [[place-vedyarargn|Vedyara Region]]. The heavy clay of the river margins cannot be farmed without it, and it gives milk, leather and horn. Feral herds of twenty to sixty, descended from escaped stock, are fiercely territorial, strong enough to kill any predator in the region, and easily the most dangerous cattle.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A massively built ox with a heavy, rectangular body in sparse, coarse black or d
 
 ## In the Land
 
-Water buffalo wallow in the rivers, marshes and flooded fields of the plains of [[place-vedyarargn|Vedyara]], both as draft animals and in feral herds along the great river and its tributaries. A herd of related cows and calves stays in the river or a wallow through the heat of the day and grazes the banks at night. Bulls stay alone or in small groups until the rut.
+Water buffalo wallow in the rivers, marshes and flooded fields of the plains of Vedyara, both as draft animals and in feral herds along the great river and its tributaries. A herd of related cows and calves stays in the river or a wallow through the heat of the day and grazes the banks at night. Bulls stay alone or in small groups until the rut.
 
 ## Key Behaviors
 

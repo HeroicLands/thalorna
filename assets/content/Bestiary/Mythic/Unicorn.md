@@ -289,9 +289,9 @@ The stream in the hollow runs clearer than any stream has a right to, and the bi
 
 # Dossier {#dossier}
 
-The unicorn is a white horse of perfect proportion, four feet eight inches at the shoulder, seven feet long, seven hundred pounds, with a single spiral horn of eighteen inches to two feet rising from the center of its brow, and it is met, when it is met at all, in the thin places of [[place-elavendre|Élavendre]]: the deep forest and the mountain valleys where the material world and the spirit world lie close, and the fae are met more often than anywhere else. It is so seldom seen that the scholars of the lowland kingdom doubt it, and the [[lore-aelendnppl|Áelendan]] who live beside the [[lore-aralwen|aralwen]] do not. Its horn makes foul water clean and draws poison from a wound, and nothing made by men holds it.
+The Unicorn is a white horse of perfect proportion, four feet eight inches at the shoulder, seven feet long, seven hundred pounds, with a single spiral horn of eighteen inches to two feet rising from the center of its brow, and it is met, when it is met at all, in the thin places of [[place-elavendre|Élavendre]]: the deep forest and the mountain valleys where the material world and the spirit world lie close, and the fae are met more often than anywhere else. It is so seldom seen that the scholars of the lowland kingdom doubt it, and the [[lore-aelendnppl|Áelendan People]] who live beside the [[lore-aralwen|Aralwen]] do not. Its horn makes foul water clean and draws poison from a wound, and nothing made by men holds it.
 
-What it is—a beast of this world, a thing of the aralwen that walks in from the other side, or one of the fae in a shape the fae chose—the Áelendan do not say and the Thordimalon (the Arcane Order) has not found out. What is agreed is that it comes and goes where the world is thin, and that a place it has been in is better for it.
+What it is—a beast of this world, a thing of the aralwen that walks in from the other side, or one of the fae in a shape the fae chose—the Áelendan do not say and the [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) has not found out. What is agreed is that it comes and goes where the world is thin, and that a place it has been in is better for it.
 
 ## Presentation
 
@@ -299,7 +299,7 @@ A horse of the finest make rendered without flaw: a coat of pure white with a sh
 
 ## In the Land
 
-Unicorns are met in the oldest forest of Élavendre's interior, in the high valleys of its mountains, and along the arálwen-waters that run partly in the material world and partly in the other: the country of the Áelendan tribes and the Wardens, where the [[place-silvrfrsts|Silver Forests]] stand and the Fae Courts are said to hold. A unicorn ranges across hundreds of square miles on a round that seems to answer to the seasons and the moon, and it is seen twice in the same place only by people the Áelendan say it has chosen to be seen by. It leaves a country where blood has been shed in wrong and lingers where the land is at peace, and a stretch of forest that has had a unicorn in it that year has clean springs and no sickness in its villages.
+Unicorns are met in the oldest forest of Élavendre's interior, in the high valleys of its mountains, and along the arálwen-waters that run partly in the material world and partly in the other: the country of the [[affiliation-aelndntrbs|Áelendan Tribes]] and the [[affiliation-alndnwrdns|Áelendan Wardens]], where [[place-silvrfrsts|The Silver Forests]] stand and [[lore-faecourts|The Fae Courts]] are said to hold. A unicorn ranges across hundreds of square miles on a round that seems to answer to the seasons and the moon, and it is seen twice in the same place only by people the Áelendan say it has chosen to be seen by. It leaves a country where blood has been shed in wrong and lingers where the land is at peace, and a stretch of forest that has had a unicorn in it that year has clean springs and no sickness in its villages.
 
 ## Key Behaviors
 

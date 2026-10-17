@@ -312,7 +312,7 @@ The scream comes off the cliff above the beach and goes on too long for any gull
 
 # Dossier {#dossier}
 
-The harpy is a flying hunter with the head, arms and torso of a gaunt woman set on the wings and clawed legs of something that is neither bird nor lizard, five and a half feet from crown to wing-root and fourteen feet across the wings. It nests in flocks on the sea-cliffs of the volcanic islands off the northwest coast of the [[place-nrdlndsrgn|Nordlands]] and on the fjord headlands, and on isolated peaks inland, and it hunts by stooping, by driving, and by dropping stones from a height. It eats seal pups, sea-birds, goats and people, and it treats all people alike. The fjord crews that take eggs on the island cliffs lose a man to the harpies most seasons and go on taking the eggs.
+The Harpy is a flying hunter with the head, arms and torso of a gaunt woman set on the wings and clawed legs of something that is neither bird nor lizard, five and a half feet from crown to wing-root and fourteen feet across the wings. It nests in flocks on the sea-cliffs of the volcanic islands off the northwest coast of the [[place-nrdlndsrgn|Nordlands Region]] and on the fjord headlands, and on isolated peaks inland, and it hunts by stooping, by driving, and by dropping stones from a height. It eats seal pups, sea-birds, goats and people, and it treats all people alike. The fjord crews that take eggs on the island cliffs lose a man to the harpies most seasons and go on taking the eggs.
 
 It has the cunning to set an ambush and no speech, no tools and no interest in either. It is a very dangerous animal that looks like something else.
 
@@ -330,7 +330,7 @@ Harpies hunt by day and are at their worst at dawn and dusk, when the light is p
 
 ## What the Fjord People Do
 
-The egg-crews that work the island cliffs go down on ropes in parties, with a man at the top holding a bow and another a shield over the climber, and they work the harpy ledges last or not at all. A boat under a harpy cliff keeps a sail or a hide stretched over the rowers against the stones. A flock that has taken to a headland near a steading is burned off: men climb to the nests at night with torches and pitch and come down fast. Harpy wing-feathers make a poor fletching and nobody wants the rest. The fjord people hold that a harpy was a woman once and do not say what she did; a gudi asked about it says the Ten have never claimed the harpies and the harpies have never asked.
+The egg-crews that work the island cliffs go down on ropes in parties, with a man at the top holding a bow and another a shield over the climber, and they work the harpy ledges last or not at all. A boat under a harpy cliff keeps a sail or a hide stretched over the rowers against the stones. A flock that has taken to a headland near a steading is burned off: men climb to the nests at night with torches and pitch and come down fast. Harpy wing-feathers make a poor fletching and nobody wants the rest. The fjord people hold that a harpy was a woman once and do not say what she did; a gudi asked about it says the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] have never claimed the harpies and the harpies have never asked.
 
 ## Signs
 

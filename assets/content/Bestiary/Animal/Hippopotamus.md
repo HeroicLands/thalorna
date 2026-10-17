@@ -273,7 +273,7 @@ In the river bend the water has a slow, heavy swirl. Two ears and a pair of eyes
 
 # Dossier {#dossier}
 
-The Hippopotamus is the heaviest animal of the great rivers, five feet at the shoulder and twelve to fifteen feet long, three to four thousand pounds. A herd lies in the river pools and reed marshes of [[place-aukhelathrgq|Au'Khelathu]] and in the papyrus channels of the Nyáluba river country. It eats grass, but it kills anything that enters its water, boats, swimmers and crocodiles alike, and takes more lives along the great rivers than any other animal. On the upper reaches of the great river the herds have grown faster than the local authorities can control them.
+The Hippopotamus is the heaviest animal of the great rivers, five feet at the shoulder and twelve to fifteen feet long, three to four thousand pounds. A herd lies in the river pools and reed marshes of [[place-aukhelathrgq|Au'Khelathu Region]] and in the papyrus channels of the [[lore-nyalubaclt|Nyáluba]] river country. It eats grass, but it kills anything that enters its water, boats, swimmers and crocodiles alike, and takes more lives along the great rivers than any other animal. On the upper reaches of the great river the herds have grown faster than the local authorities can control them.
 
 ## Presentation
 
@@ -281,7 +281,7 @@ A barrel-shaped body of enormous mass, covered in smooth, almost hairless skin, 
 
 ## In the Land
 
-Hippopotami lie in the river pools and reed-marshes of [[place-aukhelathrgq|Au'Khelathu]], where the marsh around the Drowned Stones is a maze of reed beds and mud islands, and in the papyrus channels and oxbow lakes of the Nyáluba river country. A herd of a dozen or more spends the day in the water and comes out at night to graze on the banks, following the same paths to the same fields. A bull holds a few hundred yards of river.
+Hippopotami lie in the river pools and reed-marshes of Au'Khelathu, where the marsh around [[place-drownstones|The Drowned Stones]] is a maze of reed beds and mud islands, and in the papyrus channels and oxbow lakes of the Nyáluba river country. A herd of a dozen or more spends the day in the water and comes out at night to graze on the banks, following the same paths to the same fields. A bull holds a few hundred yards of river.
 
 ## Key Behaviors
 
@@ -289,7 +289,7 @@ Hippopotami spend the day in the water, out of the sun, and come out at dusk to 
 
 ## What the Fishermen Do
 
-The river villages cut their landing-places at a distance from the pools and cross the water by ferry or by raft with a pole. A fisherman who finds a hippopotamus in the reeds backs out. The crocodile-clan of the Nyáluba and the river-hunters of the Khelathi guild take hippopotami with harpoons and bait, and a hunter who has killed one in open water has proved himself. The meat feeds a village, the hide is cut into whips and shields, and the tusks are carved. Fields beside the river are fenced with thorn and watched at night with fire and drums.
+The river villages cut their landing-places at a distance from the pools and cross the water by ferry or by raft with a pole. A fisherman who finds a hippopotamus in the reeds backs out. The crocodile-clan of the Nyáluba and the river-hunters of [[affiliation-garnuw|Gar'Nuw]], the Khelathi guild, take hippopotami with harpoons and bait, and a hunter who has killed one in open water has proved himself. The meat feeds a village, the hide is cut into whips and shields, and the tusks are carved. Fields beside the river are fenced with thorn and watched at night with fire and drums.
 
 ## Signs
 

@@ -271,7 +271,7 @@ The light goes out of the valley all at once, as if a cloud had crossed the sun,
 
 # Dossier {#dossier}
 
-The Roc is the great bird of the high mountains: a hundred feet and more across the wings, a body weighing several tons, with talons as thick as a man's arm and a hooked beak that shears a tree limb. On the [[place-graznmntns|Grazian]] north face it is the last of the four dangers the guides name to a lowlander, after the [[being-clffstlk|Cliff Stalker]], the [[being-crglrkr|Crag Lurker]] and the [[being-stoneram|Stone Ram]], and the only one of the four that can take a laden mule off a ridge in front of the herdsman who is leading it. It nests on peaks no one climbs and hunts across hundreds of square miles of mountain and the country below. Rocs are rare. The plateau tribes speak of the Roc of the north face, as if there were only one; the guides of the high passes say there are a few, and that they are very old.
+The Roc is the great bird of the high mountains: a hundred feet and more across the wings, a body weighing several tons, with talons as thick as a man's arm and a hooked beak that shears a tree limb. On the north face of [[place-graznmntns|The Grazian Mountains]] it is the last of the four dangers the guides name to a lowlander, after the [[being-clffstlk|Cliff Stalker]], the [[being-crglrkr|Crag Lurker]] and the [[being-stoneram|Stone Ram]], and the only one of the four that can take a laden mule off a ridge in front of the herdsman who is leading it. It nests on peaks no one climbs and hunts across hundreds of square miles of mountain and the country below. Rocs are rare. The plateau tribes speak of the Roc of the north face, as if there were only one; the guides of the high passes say there are a few, and that they are very old.
 
 ## Presentation
 
@@ -279,7 +279,7 @@ A bird of prey built on an impossible scale. The plumage is dark brown on the ba
 
 ## In the Land
 
-Rocs nest on the highest and most inaccessible peaks of the Grazian range above the north face, where the glaciers hold year-round, and hunt the ridges, valleys and plateaus below: the high grazing of the stone rams, the passes the caravans use to come down from Vedyara, the [[place-grazruins|ruins and labyrinths]] under the glaciers, and the black rock of the [[place-dkrqrrgn|Diqraqor]] beyond. A single bird's range is hundreds of square miles. It takes wild rams, ibex, wild asses, a camel, a mule or a pony from a string, and anything else of that size that stands on open ground. Herds that live under a roc's range learn to stay near cover, and the herdsmen of the plateau keep their beasts off the ridges in the season when the bird is seen.
+Rocs nest on the highest and most inaccessible peaks of the Grazian range above the north face, where the glaciers hold year-round, and hunt the ridges, valleys and plateaus below: the high grazing of the stone rams, the passes the caravans use to come down from [[place-vedyarargn|Vedyara Region]], the [[place-grazruins|Ruins and Labyrinths of the Grazian Mountains]] under the glaciers, and the black rock of the [[place-dkrqrrgn|Diqraqor]] beyond. A single bird's range is hundreds of square miles. It takes wild rams, ibex, wild asses, a camel, a mule or a pony from a string, and anything else of that size that stands on open ground. Herds that live under a roc's range learn to stay near cover, and the herdsmen of the plateau keep their beasts off the ridges in the season when the bird is seen.
 
 ## Key Behaviors
 
