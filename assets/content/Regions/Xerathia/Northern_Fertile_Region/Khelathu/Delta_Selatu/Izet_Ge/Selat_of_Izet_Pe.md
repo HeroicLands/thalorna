@@ -57,9 +57,9 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-[[place-izetgenome|Izet-Ge]] is the delta selat of date palms and sweet wines, and one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[affiliation-thubai|Thuba'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-izetgenome|Izet-Ge]].
+The Selat of Izet-Ge is the delta selat of date palms and sweet wines, and one of [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-thubaidty|Thuba'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-izetgenome|Izet-Ge]].
 
-"Our god has no quarrel with a full cup," a Lem'Nelgir (priest) of Thuba'i tells a pilgrim in the forecourt of the chief temple, "and neither has our Halzi'a. The vaults hold the wine, the granaries hold the grain, and the grain feeds the people who would otherwise grumble about the wine. Take a cup, then come and be shown the vaults."
+"Our god has no quarrel with a full cup," a Lem'Nelgir (priest) of the [[affiliation-thubai|Faith of Thuba'i]] tells a pilgrim in the forecourt of the chief temple, "and neither has our Halzi'a. The vaults hold the wine, the granaries hold the grain, and the grain feeds the people who would otherwise grumble about the wine. Take a cup, then come and be shown the vaults."
 
 ## Character
 

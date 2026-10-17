@@ -50,27 +50,27 @@ data:
 
 "A chariot is a hammer," a veteran of the corps tells a recruit on the practice ground below [[place-khelaga|Khelaga]]. "It wants flat ground and an enemy who gives way. At the apex we had the first, and nobody had taught the enemy the second."
 
-The **Vylarian Conquest** was fought on that ground, and the corps has never forgotten what it learned there.
+The Vylarian Conquest was fought on that ground, and the corps has never forgotten what it learned there.
 
 ## What Happened
 
-In 2487 ST (377 AF) a Vylarian army landed in the delta at the height of [[affiliation-vylarinmpr|Vylaria]]'s reach and marched on the apex, where the river first divides and the delta's old shrines and customs-stations stand. The Gar-Au **Zab'Uzner III** met it there with the chariot corps, the elite striking force of the empire, drawn from the sons of the military aristocracy and commanded by **Amqelzinet**.
+In 2487 ST (377 AF) a Vylarian army landed in the delta at the height of the [[affiliation-vylarinmpr|Vylarian Empire]]'s reach and marched on the apex, where the river first divides and the delta's old shrines and customs-stations stand. The Gar-Au [Zab'Uzner III]{.name data-type="being/npc"} met it there with the chariot corps, the elite striking force of the empire, drawn from the sons of the military aristocracy and commanded by [Amqelzinet]{.name data-type="being/npc"}.
 
 The ground was flat and dry, which a chariot wants. The Vylarian heavy infantry did not break. It held its line against the first charge and the next, and when the corps came back on a third the line was still there. The chariots, which cannot fight at a stand, began to break up on it, and the corps went to pieces on the field below the town. Amqelzinet fell, and Zab'Uzner III fell with him, in the ninth year of his reign. The list enters the king as having gone to the West in his ninth year, and closes the house.
 
-The Khelathi dead lay where they fell. The Vylarian army held the field, and the corps' families were not let through to read the names or lift the bodies. The Vylarians buried their own dead in a pit beside them, without the order in which the dead of Vylaria are placed in the keeping of Sélmoros. The field was left with both sets of dead unreceived ([[place-chariotfld|the Chariot Field]]).
+The Khelathi dead lay where they fell. The Vylarian army held the field, and the corps' families were not let through to read the names or lift the bodies. The Vylarians buried their own dead in a pit beside them, without the order in which the dead of Vylaria are placed in the keeping of [[lore-selmorosdty|Sélmoros]]. The field was left with both sets of dead unreceived ([[place-chariotfld|The Chariot Field]]).
 
 ## The Crowning
 
-The priesthood did what it does with every conqueror. It crowned the army's commander on the mound under a throne name, **Zab'el'Qar**, "lord in order," and entered his line as a house. The list gives his throne name and the formula _stood upon the mound; the list says nothing of whence he came_. No Khelathi record holds the name he was born to.
+The priesthood did what it does with every conqueror. It crowned the army's commander on the mound under a throne name, [Zab'el'Qar I]{.name data-type="being/npc"}, "lord in order," and entered his line as a house. The list gives his throne name and the formula _stood upon the mound; the list says nothing of whence he came_. No Khelathi record holds the name he was born to.
 
-His son reigned after him as a Khelathi, and the occupation closed with that reign in 2505 ST (395 AF) ([[lore-foreignhs|the Closing of the Foreign House]]). The Vylarian record says the legions took the apex in a single battle and that the province was held for the Orzas as long as men could be spared, and the two accounts agree on that much.
+His son reigned after him as a Khelathi, and the occupation closed with that reign in 2505 ST (395 AF) ([[lore-foreignhs|The Closing of the Foreign House]]). The Vylarian record says the legions took the apex in a single battle and that the province was held for the Orzas as long as men could be spared, and the two accounts agree on that much.
 
 ## What It Left
 
 - **The Chariot Field.** The third blood-field in Khelathi memory and the only thin one, where the corps' dead and the Vylarian pit lie unread.
 - **The corps' respect for infantry.** The chariot corps is still the elite striking force, and the heavy infantry of the Vylarian Empire has challenged its dominance in the centuries since.
-- **The Short Way.** The foreign house lies at Zu-Gezer in a stub of a Way with two royal tombs ([[place-shortway|the Short Way of Amralo'Methu]]).
+- **The Short Way.** The foreign house lies at [[place-zugezer|Zu-Gezer]] in a stub of a Way with two royal tombs ([[place-shortway|The Short Way of Amralo'Methu]]).
 - **The wars the two empires count.** Vylaria and Au'Khelathu have fought wars and settled into a wary balance, and the conquest was the worst of them.
 
 ## See Also

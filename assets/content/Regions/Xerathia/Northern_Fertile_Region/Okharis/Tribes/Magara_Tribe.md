@@ -57,10 +57,10 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## The Magara
 
-The **Magara** are a tribe owing fealty to [[affiliation-okharis|Okharis]]. Their seat is
+The Magara Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-magaravlg|Magara Village]], one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
-They breed and break horses on the open grassland and are the most warlike of the village tribes, given to raids and quarrels with their neighbours. Their families keep the Spirit Blades in which [[lore-shengelspr|Zohu Shéngeling]] is seated.
+They breed and break horses on the open grassland and are the most warlike of the village tribes, given to raids and quarrels with their neighbours. Their families keep the [Spirit Blades]{.name data-type="weapongear"} in which [[lore-shengelspr|Zohu Shéngeling]] is seated.
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Magara belongs to Okharis as well as to the tribe.

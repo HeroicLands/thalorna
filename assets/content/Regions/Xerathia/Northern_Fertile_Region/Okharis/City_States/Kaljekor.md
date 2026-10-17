@@ -16,6 +16,6 @@ data:
 
 **meaning:** _The Golden Flame_
 
-- The economic hub, Kaljekor sits at the crossroads of major trade routes. Its pyramidal temple complex doubles as a marketplace, bustling with merchants from Au'Khelathu and the Valyrian Sea and beyond.
+- The economic hub, Kaljekor sits at the crossroads of major trade routes. Its pyramidal temple complex doubles as a marketplace, bustling with merchants from the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and the [[place-vylarianse|Vylarian Sea]] and beyond.
 - Kaljekor is ruled by a council of priest-nobles
 - Known for its golden adornments and the wealth of its priest-nobles, Kaljekor’s influence extends far through trade alliances.

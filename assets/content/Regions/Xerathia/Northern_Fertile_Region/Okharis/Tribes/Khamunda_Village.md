@@ -16,6 +16,6 @@ data:
 
 ## Overview
 
-**Khamunda Village** is the seat of the [[affiliation-khamundatrb|Khamunda tribe]], which owes fealty to
+Khamunda Village is the seat of the [[affiliation-khamundatrb|Khamunda Tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].

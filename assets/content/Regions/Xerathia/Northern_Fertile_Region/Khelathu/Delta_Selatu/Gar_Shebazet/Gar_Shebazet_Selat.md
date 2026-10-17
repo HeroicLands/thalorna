@@ -17,13 +17,13 @@ data:
 
 ## Overview
 
-"Ask me why the goddess is a cobra and the reeds are hers, and I will point at the marsh," a fowler says to a visitor, setting his throw-stick across his knees in the bow of a reed boat. "That is the whole answer, and nobody here has wanted a longer one." **Gar-Shebazet Selat** is the land of the [[affiliation-selatgrshbzt|Selat of Gar-Shebazet]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+"Ask me why the goddess is a cobra and the reeds are hers, and I will point at the marsh," a fowler says to a visitor, setting his throw-stick across his knees in the bow of a reed boat. "That is the whole answer, and nobody here has wanted a longer one." Gar-Shebazet Selat is the land of [[affiliation-selatgrshbzt|The Selat of Gar-Shebazet]], one of [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
 The selat is papyrus marsh. Its people fowl the open water, build reed boats and cut the stems that become the empire's paper, and the cutting and the paper-making are the selat's trade. Inland of the marshes the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields.
 
-The chief temple of [[affiliation-shebazet|Shebazet]] and its estates hold much of the marsh. No priest has put the bond between the goddess and the reed-beds into words for an outsider; the delta treats it as too obvious to explain.
+The chief temple of the [[affiliation-shebazet|Faith of Shebazet]] and its estates hold much of the marsh. No priest has put the bond between the goddess and the reed-beds into words for an outsider; the delta treats it as too obvious to explain.
 
 ## Settlements
 

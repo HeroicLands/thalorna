@@ -15,19 +15,19 @@ data:
 # terran_analog: "The pre-Saharan steppe south of the Maghreb—the Atlas foothills, the High Plateaus and the northern Sahel: esparto scrub, seasonal wadis and transhumant herders."
 ---
 
-The **South Marches** are the drylands south of the
+The South Marches are the drylands south of the
 [[affiliation-mtrrchybth|Matriarchy of Bethua]]—the belt of
 [[place-xerathia|Zerathia]] that lies between the
 [[place-nrthrnfrtlrgn|Northern Fertile Region]] and the margin of the
 [[place-cntrlrnfrsts|Central Rainforests]], where the matriarchal writ grows
-thin. **Bethua** claims the country on its maps but does not truly hold it. It is
+thin. Bethua claims the country on its maps but does not truly hold it. It is
 ranged instead by pastoral nomad clans led by men, who pay Bethua tribute,
 keep their own customs, and regard the rich realm on their northern horizon
 with wary hostility.
 
 ## Geography
 
-The **Marches** are hot, dry, open country. South of the last of Bethua's
+The Marches are hot, dry, open country. South of the last of Bethua's
 irrigated strips the grassland of the interior gives out into chaparral—low, hard-leaved scrub of thorn, broom and aromatic brush over stony ground,
 green for a few weeks after the winter rains and gray-brown the rest of the
 year. Summers are long and fierce and the rains short and unreliable. Beyond the scrub the land rises, unevenly, toward the highland spurs
@@ -45,7 +45,7 @@ through the dry months, and the Marches' whole wealth.
 
 The frontier with Bethua is a line of water rather than a wall: the
 southernmost qanat-fed strips of the matriarchy's interior, and the frontier
-posts from which companies of the [[affiliation-mtrrchybth|Lonkhai]] patrol
+posts from which companies of the [Spear-Sisterhood]{.name data-type="affiliation/order"} patrol
 the marches. North of it the canals run and a **Dómissa**'s writ holds. South of
 it nothing does.
 
@@ -54,7 +54,7 @@ it nothing does.
 The Marchers are pastoral nomad clans led by men—herding peoples who
 move sheep, goats and small sturdy horses between the forage belts through the
 year, with cattle only where a streambed carries grass enough. The clans are
-of the same stock as the frontier clans of [[place-okharisrgn|Okharis]],
+of the same stock as the frontier clans of the [[place-okharisrgn|Okharis Region]],
 whose kingdom counts them among its own tribes and whose herding cycles they
 share; the temple-cities are far, though, and a marcher clan answers to
 its own headmen before anyone else.
@@ -81,17 +81,17 @@ headmen, and the matriarchy governs nothing south of its last canal.
 The relationship is warily hostile in both directions. To the clans the
 matriarchy is rich, alien and near, a power that takes their stock and would
 take their pasture if it could; to Bethua the nomadic peoples to the south are
-a border to be defended, and the cavalry and the **Spear-Sisterhood** are kept
+a border to be defended, and the cavalry and the Spear-Sisterhood are kept
 against them. Raids cross the frontier both ways when the tribute is disputed
 or the grass fails.
 
 ## The Free Companies
 
 Country that no realm holds breeds armed bands, and the Marches carry several.
-The most feared of them are the
-[[affiliation-jcklsthmrchs|Jackals of the South Marches]]—not a clan and not
+The most feared of them are
+[[affiliation-jcklsthmrchs|The Jackals of the South Marches]]—not a clan and not
 a marcher tribe, but a warband of the Houseless: exiled Bethuan women and
-cast-out **Spadai** eunuch-warriors, padded with hired marcher men, under the
+cast-out [Spadai]{.name data-type="affiliation"} eunuch-warriors, padded with hired marcher men, under the
 renegade spear-sister [[being-argyrirjckl|Argirira the Jackal]]. Mounted, fast
 and at home in waterless country, they strike the herds, caravans and exposed
 villages of the frontier—Bethuan targets by preference. The clans tolerate them, hire them and give them room because they are
@@ -114,7 +114,7 @@ From the north the Marches are where the realm's castoffs go: a runaway
 bound-man flees into the southern marches, a woman stripped of her House rides
 south because there is nowhere else, and out of such exiles has come the one
 thing Bethua fears above all others—a company of armed exiles who know the
-matriarchy's own ways of war and owe it nothing. The **Court of the Veil** marks
+matriarchy's own ways of war and owe it nothing. The [Court of the Veil]{.name data-type="affiliation/governmental"} marks
 the country as its own, collects what tribute it can, patrols the line it can
 hold, and would rather not look past it.
 

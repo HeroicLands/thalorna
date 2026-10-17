@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-The seat of the [[affiliation-fenjara|Fénjara]], set where the open savannah closes into gallery
+Fénjara Village is the seat of the [[affiliation-fenjara|Fénjara]], set where the open savannah closes into gallery
 forest along a year-round watercourse. It is a village of the deep bush rather than the plain:
 compounds under the canopy, no cattle to speak of, and no wall, on the reasoning that anything the
 Fénjara cannot hear coming is not going to be stopped by one.

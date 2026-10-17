@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-**Táluméng Village** is the seat of the [[affiliation-talumengtrb|Táluméng tribe]], which owes fealty to
+Táluméng Village is the seat of the [[affiliation-talumengtrb|Táluméng Tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
 Thorn-fenced cattle-folds ring the village, and the herds that fill them each night are the measure of every household's standing.

@@ -50,17 +50,17 @@ data:
         - why the house closes in 1822 ST, since the king-list enters no cause
 ---
 
-"Walk the avenue from the temple of Uqa'a to the second crossing," a canal-warden of [[place-maguathen|Magu-Thelqen]] tells a new clerk, "and count the doors that have smoke. Then you will know what two kings and a doctrine cost." The city was laid out in one generation, for a court that stayed one generation.
+"Walk the avenue from the temple of the [[affiliation-uqaa|Faith of Uqa'a]] to the second crossing," a canal-warden of [[place-maguathen|Magu-Thelqen]] tells a new clerk, "and count the doors that have smoke. Then you will know what two kings and a doctrine cost." The city was laid out in one generation, for a court that stayed one generation.
 
 ## The House of the Sun
 
-In 1790 ST (321 BF) the priesthood crowned **Anleth'Uqa I**, the first Gar-Au of **Thelqen'Relu**, the house of the sun. His throne name means the horizon of the sun-lord, and it stated his program. He was a devotee of [[lore-uqaadty|Uqa'a]] in the strong sense: he held that the Twelve and the local gods were one god seen in different lights, and that the light was Uqa'a's.
+In 1790 ST (321 BF) the priesthood crowned [Anleth'Uqa I]{.name data-type="being/npc"}, the first Gar-Au of [Thelqen'Relu]{.name data-type="affiliation/lineage"}, the house of the sun. His throne name means the horizon of the sun-lord, and it stated his program. He was a devotee of [[lore-uqaadty|Uqa'a]] in the strong sense: he held that the [[affiliation-khelathpnthn|Khelathi Pantheon]] and the local gods were one god seen in different lights, and that the light was Uqa'a's.
 
-[[place-galezkara|Galezkara]] did not suit him. Its avenues had been fixed by earlier houses for earlier purposes, and its courts and bureaus answered to older temples than his. So he laid out a city from nothing on the upper river, with avenues that ran straight from the chief temple of Uqa'a to the horizon, evenly spaced squares, and a plan for many more people than came. He moved the court there. His son **Anleth'Uqa II**, crowned 1808 ST (303 BF), kept it there.
+[[place-galezkara|Galezkara]] did not suit him. Its avenues had been fixed by earlier houses for earlier purposes, and its courts and bureaus answered to older temples than his. So he laid out a city from nothing on the upper river, with avenues that ran straight from the chief temple of Uqa'a to the horizon, evenly spaced squares, and a plan for many more people than came. He moved the court there. His son [Anleth'Uqa II]{.name data-type="being/npc"}, crowned 1808 ST (303 BF), kept it there.
 
 ## The Refusal
 
-The doctrine was the point of the city. Every temple in the new capital was to be a house of Uqa'a under another name, and every temple elsewhere was to acknowledge it. The great temples of [[lore-qearetdty|Qe'aret]] and [[lore-rethsaardty|Reth'Sa'ar]] refused, and they had the means. Qe'aret's order kept the courts, and Reth'Sa'ar's priesthood kept the king-list and the schools that made the scribes. A court at Magu-Thelqen could send commands and could not have them certified, counted or dated.
+The doctrine was the point of the city. Every temple in the new capital was to be a house of Uqa'a under another name, and every temple elsewhere was to acknowledge it. The great temples of the [[affiliation-qearet|Faith of Qe'aret]] and the [[affiliation-rethsaar|Faith of Reth'Sa'ar]] refused, and they had the means. Qe'aret's order kept the courts, and Reth'Sa'ar's priesthood kept the king-list and the schools that made the scribes. A court at Magu-Thelqen could send commands and could not have them certified, counted or dated.
 
 The empire did not rise in revolt. It did something worse to a king of the sun: it went on as before. The bureaus stayed at Galezkara, the tax rolls were made out where the clerks were, and the new capital's granaries filled by order and emptied into the old city's accounts. The house ruled a generation and ended in 1822 ST (289 BF). The list enters no cause. The next house ruled from Galezkara, and the court left Magu-Thelqen with the doctrine behind it.
 
@@ -75,9 +75,9 @@ The house's scholars set its doctrine down in a book. The temple of Reth'Sa'ar a
 ## What It Left
 
 - **The half-empty city.** The selat of Magu-Thelqen has an avenue grid drawn for far more people than live in it.
-- **A rule of caution.** The priesthood treats a Gar-Au who claims too much of the sun as a danger to the throne, and the Struck House proved the point.
+- **A rule of caution.** The priesthood treats a Gar-Au who claims too much of the sun as a danger to the throne, and [[lore-akhstruckhs|The Struck House]] proved the point.
 - **The sealed chamber.** A book of the doctrine at Khelunu, and a standing temptation to scholars with a grievance.
-- **The venture west.** The same court sent the army and embassy of [[lore-templetrib|the Tribute of the Temple-Cities]] across the South Marches.
+- **The venture west.** The same court sent the army and embassy of [[lore-templetrib|The Tribute of the Temple-Cities]] across the [[place-sthmrchsrgn|South Marches]].
 
 ## See Also
 

@@ -65,14 +65,14 @@ sohl: {system: {commonSkills: [nyalbnlng, sohl-sohl-skill-trak]}}
 
 ## The Fénjara
 
-The **Fénjara** are a small tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], living
+The Fénjara are a small tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], living
 where the southeastern savannah closes into gallery forest and thicket. They are not one of the
 five clan-nations and do not pretend to be; for the purposes of totem law they are reckoned with
-the Sengala, and they keep the [[affiliation-nyalbleop|Leopard Totem]]—which suits them, since
+the [Sengala]{.name data-type="affiliation/polity"}, and they keep the [[affiliation-nyalbleop|Leopard Totem]]—which suits them, since
 the leopard is the guide that works alone, moves unseen, and is present in country it does not
 obviously hold.
 
-They herd nothing. Where the Ruwozi measure themselves in cattle and the Lobwezi in the age of their
+They herd nothing. Where the [Ruwozi]{.name data-type="affiliation/polity"} measure themselves in cattle and the [Lobwezi]{.name data-type="affiliation/polity"} in the age of their
 trees, the Fénjara measure themselves in ground known: which trails, which water, which seasons,
 and whose pacts run where. Their seat is [[place-fenjaravlg|Fénjara Village]], and for much of the
 year most of them are not in it.
@@ -91,7 +91,7 @@ sacred site, and are not the person a clan sends when a pact has been broken. Th
 What is done about the thing found is somebody else's office.
 
 This has made the Fénjara useful to every clan in the confederation and dependent on none, and it
-is why so small a tribe is heard at the Great Lubemo at all.
+is why so small a tribe is heard at the [Great Lubemo]{.name data-type="affiliation/governmental"} at all.
 
 ## See Also
 

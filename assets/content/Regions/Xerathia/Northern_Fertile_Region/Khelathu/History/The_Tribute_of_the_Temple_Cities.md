@@ -51,21 +51,21 @@ data:
         - whether any fort held a garrison after the sun-house closed
 ---
 
-Ask a drover of the South Marches who built the forts on the long wells and he will give you the name of the clan that owns the well now. The first builders are older than any clan's claim, and they were Khelathi.
+Ask a drover of the [[place-sthmrchsrgn|South Marches]] who built the forts on the long wells and he will give you the name of the clan that owns the well now. The first builders are older than any clan's claim, and they were Khelathi.
 
 ## The Reach West
 
-The sun-house had a doctrine of one sun over every temple, and it wanted a witness. In the years after the court moved to [[place-maguathen|Magu-Thelqen]], it looked west past the last of Bethua's irrigated frontier to the temple-cities of [[affiliation-okharis|Okharis]], which are the nearest settled powers beyond the empire's own side of the [[place-sthmrchsrgn|South Marches]]. The eastern ones lie closest to the road across the dry country. A tributary relationship with them would make the Gar-Au's claim visible from outside the valley.
+The sun-house had a doctrine of one sun over every temple, and it wanted a witness. In the years after the court moved to [[place-maguathen|Magu-Thelqen]], it looked west past the last of the [[place-bethuargn|Bethua Region]]'s irrigated frontier to the temple-cities of [[affiliation-okharis|Okharis]], which are the nearest settled powers beyond the empire's own side of the South Marches. The eastern ones lie closest to the road across the dry country. A tributary relationship with them would make the Gar-Au's claim visible from outside the valley.
 
 The court sent an embassy with an army behind it. The embassy carried gifts and the sun-house's titles, and the army carried water.
 
 ## The Forts
 
-The South Marches have no river, and a column cannot cross them on what it brings. So the army dug and deepened wells along the line of march, and built a fort at each one: a chain of walled posts across the dry country, each a day from the next, with cisterns, barracks and a store for the tribute that was to come back along the road. The Khelathi name for the chain is Khuqet-Zalu, the southern desert-march. The Okharik temple-cities received the embassy and paid, and the first carriers came east.
+The South Marches have no river, and a column cannot cross them on what it brings. So the army dug and deepened wells along the line of march, and built a fort at each one: a chain of walled posts across the dry country, each a day from the next, with cisterns, barracks and a store for the tribute that was to come back along the road. The Khelathi name for the chain is [[place-khuqetzalu|Khuqet-Zalu]], the southern desert-march. The Okharik temple-cities received the embassy and paid, and the first carriers came east.
 
 ## Why It Failed
 
-The venture was the sun-house's and it ended with the sun-house. When the house closed in 1822 ST (289 BF) and the court went back to Galezkara, the new house had no use for a distant claim that cost a garrison a year in wells and grain. The tribute stopped, the garrisons were called in, and the forts were left standing across a country nobody in the valley wanted to hold. The generation the venture lasted is the longest the Khelathi record admits.
+The venture was the sun-house's and it ended with the sun-house. When the house closed in 1822 ST (289 BF) and the court went back to [[place-galezkara|Galezkara]], the new house had no use for a distant claim that cost a garrison a year in wells and grain. The tribute stopped, the garrisons were called in, and the forts were left standing across a country nobody in the valley wanted to hold. The generation the venture lasted is the longest the Khelathi record admits.
 
 ## What It Left
 

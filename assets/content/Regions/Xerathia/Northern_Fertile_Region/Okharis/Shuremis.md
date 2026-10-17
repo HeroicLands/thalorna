@@ -8,7 +8,7 @@ tags: [draft, ruin, haunted, cult]
 data: {demonym: null, lore: [], parents: [okharisrgn], population: null, packFolder: okharis}
 ---
 
-East of [[place-zarhanis|Zarhanis]], where the cattle country opens out and the road thins to a herders' track, a long wall of dry-laid stone runs across a low rise. Inside it stand a roofless granary, a ring of cattle-pens and the sunken floors of a bondsmen's yard. The herders call the place **Shuremis**, the seat of ash, and the temple calls it nothing. On the clans' reckoning it is a ruin of a temple estate, abandoned after a bad year, and a clan that grazes within sight of it drives its herd away before dusk.
+East of [[place-zarhanis|Zarhanis]], where the cattle country opens out and the road thins to a herders' track, a long wall of dry-laid stone runs across a low rise. Inside it stand a roofless granary, a ring of cattle-pens and the sunken floors of a bondsmen's yard. The herders call the place Shuremis, the seat of ash, and the temple calls it nothing. On the clans' reckoning it is a ruin of a temple estate, abandoned after a bad year, and a clan that grazes within sight of it drives its herd away before dusk.
 
 ## What Is There
 
@@ -18,13 +18,13 @@ The grain-pits under the granary floor are filled to the lip with fine grey ash.
 
 Under the granary there is a fire. It was not kindled from any ember carried from a temple. It burns without light, and a flame brought into its hall leans toward it and goes out. The Okharin creed is that the Flame renews only what is given to it. This fire is the plain reverse of the creed: it takes and gives nothing back, and the herds that stray within its reach come out as ash on four legs.
 
-The people who keep it are the **shurem**, the ash: those put out of the Flame, to whom no temple gives an ashmark at a passage and whose fires are not reckoned descended from the First Ember. They live in the old bondsmen's yard. They are not a tribe and they are not a clan. They are what is left when both have refused you.
+The people who keep it are the **shurem**, the ash: those put out of the Flame, to whom no temple gives an ashmark at a passage and whose fires are not reckoned descended from [The First Ember]{.name data-type="miscgear"}. They live in the old bondsmen's yard. They are not a tribe and they are not a clan. They are what is left when both have refused you.
 
 ## What the Okharin Say
 
 - **The herders** say the ground is spoiled and that the zohira have withdrawn their warnings from it. A cairn with the mark cut out is a cairn that answers nothing. They name the ash-cattle as the temple's wrong done to the grazing, and they avoid the word Flame when they say it.
-- **The Granary-Keepers** of [[place-zarhanis|Zarhanis]] hold that the estate was struck from the rolls and that its stores were spent in a hard year. They say nothing about its people.
-- **A Bone-Reader** who has handled the bones of a dead ash-cow says they are written in a hand the Oracle of Bones does not use, and that the reading was the shortest one he has ever made.
+- **The Granary-Keepers** of Zarhanis hold that the estate was struck from the rolls and that its stores were spent in a hard year. They say nothing about its people.
+- **A Bone-Reader** who has handled the bones of a dead ash-cow says they are written in a hand [[lore-orclbonesspr|The Oracle of Bones]] does not use, and that the reading was the shortest one he has ever made.
 - **A priest of Zarhanis**, off the record, says the estate was where the temple put those who declined the Flame, in a famine year when there was grain to feed the faithful and no more. He does not say what the temple did with them.
 - **A herder's child** says a man with a lamp comes out of the granary at dusk and counts the cattle. She says the lamp is cold.
 

@@ -57,9 +57,9 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## The Yéshiro
 
-The **Yéshiro** are a tribe owing fealty to [[affiliation-okharis|Okharis]]. Their seat is
+The Yéshiro Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-yeshirovlg|Yéshiro Village]], one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
 They strip acacia bark from the forest margin and tan the hides of the herding tribes with it, returning finished leather for trade.
 

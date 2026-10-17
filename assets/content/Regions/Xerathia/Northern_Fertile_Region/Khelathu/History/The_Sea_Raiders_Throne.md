@@ -45,19 +45,19 @@ The Keepers of the King-Lists say of the sea-raiders what they say of every conq
 
 ## The Landing
 
-The raiders came from the north, over the Vylarian Sea, in numbers that the delta's watchers counted in ships and not in men. The Khelathi record keeps no name for their country, and the sea-raiders' own name for themselves, if they had one, was not entered. What the record keeps is the place they landed: the silt-islands of the Selat of [[place-tjathu|Tjathu]], where the river's mouths spread into reed and natron flat.
+The raiders came from the north, over the [[place-vylarianse|Vylarian Sea]], in numbers that the delta's watchers counted in ships and not in men. The Khelathi record keeps no name for their country, and the sea-raiders' own name for themselves, if they had one, was not entered. What the record keeps is the place they landed: the silt-islands of [[place-tjathuselat|Tjathu Selat]], where the river's mouths spread into reed and natron flat.
 
-The nearest port was **Zel-Amqelu**, a trading town on one of those islands. They burned it the day they landed. The port was never rebuilt, and its channel shifted soon after ([[place-zelamqelu|Zel-Amqelu]]). The Khelathi river fleet of the day was a toll-boat fleet, built to meet traders at the mouths, and it did not meet the raiders.
+The nearest port was [[place-zelamqelu|Zel-Amqelu]], a trading town on one of those islands. They burned it the day they landed. The port was never rebuilt, and its channel shifted soon after (Zel-Amqelu). The Khelathi river fleet of the day was a toll-boat fleet, built to meet traders at the mouths, and it did not meet the raiders.
 
 ## The March on Galezkara
 
 The raiders did not stop to hold the delta. They took the river road upstream with the boats they had taken, and the delta selatu could not muster against them before they reached the capital. The Gar-Au of the day did not survive the flood season, and by its end [[place-galezkara|Galezkara]] was in their hands.
 
-The priesthood did what it does. It crowned the raiders' chief under the throne name **Gul'el'Retha**, wrote his line into the list as **Malu'Thenoru**, and waited. The list holds the house for three reigns. The Keepers' abstract names the first and the dates of the house, and no more.
+The priesthood did what it does. It crowned the raiders' chief under the throne name [Gul'el'Retha]{.name data-type="being/npc"}, wrote his line into the list as [Malu'Thenoru]{.name data-type="affiliation/lineage"}, and waited. The list holds the house for three reigns. The Keepers' abstract names the first and the dates of the house, and no more.
 
 ## What Followed
 
-The raiders ruled as the Khelathi priesthood let them, which was through the existing bureaus. The temples kept their rites and their estates, and a conqueror who left the Measure alone found the Measure left alone. The house lasted thirty years because no one needed to remove it. In 1990 ST (121 BF) its third Gar-Au died, and the priesthood raised another house ([[lore-seahouse|the Closing of the Sea House]]).
+The raiders ruled as the Khelathi priesthood let them, which was through the existing bureaus. The temples kept their rites and their estates, and a conqueror who left [The Measure]{.name data-type="place/structure"} alone found the Measure left alone. The house lasted thirty years because no one needed to remove it. In 1990 ST (121 BF) its third Gar-Au died, and the priesthood raised another house ([[lore-seahouse|The Closing of the Sea House]]).
 
 ## What It Left
 

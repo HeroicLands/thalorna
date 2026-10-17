@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-**Shókuma Village** is the seat of the [[affiliation-shokumatrb|Shókuma tribe]], which owes fealty to
+Shókuma Village is the seat of the [[affiliation-shokumatrb|Shókuma Tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
 Dugout canoes line its riverbank and hollow-log hives hang in the trees around its clearing, and its beeswax goes to the temple-cities for candles and sealing.

@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-**Magara Village** is the seat of the [[affiliation-magaratrb|Magara tribe]], which owes fealty to
+Magara Village is the seat of the [[affiliation-magaratrb|Magara Tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
 Its paddocks run out onto the grassland, and buyers from the temple-cities come to the village each year to choose from the young horses.

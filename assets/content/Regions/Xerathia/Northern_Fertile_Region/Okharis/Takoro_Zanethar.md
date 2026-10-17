@@ -390,9 +390,9 @@ sohl:
 
 # Dossier {#dossier}
 
-The current Overlord of Okharis is **Tákoro Zanethar** (_The Keeper of the Three Flames_).
+The current Overlord of [[affiliation-okharis|Okharis]] is Tákoro Zanethar (_The Keeper of the Three Flames_).
 
-- Tákoro resides in Zarhanis but relies heavily on the cooperation of the city-states to maintain power.
+- Tákoro resides in [[place-zarhanis|Zarhanis]] but relies heavily on the cooperation of the city-states to maintain power.
 - Tákoro is a cautious yet charismatic ruler who has managed to maintain the tenuous balance between the three city-states, despite the occasional rivalry among their priest-kings.
-- Known for his ritual diplomacy, he regularly visits the temples of Zarhanis, Kaljekor, and Vuthraka, participating in grand ceremonies to reaffirm his authority as the chosen steward of Nkaru’thar.
+- Known for his ritual diplomacy, he regularly visits the temples of Zarhanis, [[place-kaljekor|Kaljekor]], and [[place-vuthraka|Vuthraka]], participating in grand ceremonies to reaffirm his authority as the chosen steward of [[lore-nkaruthardty|Nkaru'thar]].
 - While deeply religious, Tákoro is also pragmatic, relying on alliances with tribal leaders to ensure the kingdom's rural areas remain loyal.

@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-**Zhíkande Village** is the seat of the [[affiliation-zhikandetrb|Zhíkande tribe]], which owes fealty to
+Zhíkande Village is the seat of the [[affiliation-zhikandetrb|Zhíkande Tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
 Flax steeps in pools at the river's edge, and the looms in its houses are rarely idle once the harvest is in.

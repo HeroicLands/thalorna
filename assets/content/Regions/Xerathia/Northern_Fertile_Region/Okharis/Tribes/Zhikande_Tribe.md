@@ -57,9 +57,9 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## The Zhíkande
 
-The **Zhíkande** are a tribe owing fealty to [[affiliation-okharis|Okharis]]. Their seat is
+The Zhíkande Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-zhikandevlg|Zhíkande Village]], one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
 They grow flax in the river-watered fields, ret it in the shallows and weave it into linen prized for its fineness in the temple-cities.
 

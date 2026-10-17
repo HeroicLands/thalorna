@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-**Yéshiro Village** is the seat of the [[affiliation-yeshirotrb|Yéshiro tribe]], which owes fealty to
+Yéshiro Village is the seat of the [[affiliation-yeshirotrb|Yéshiro Tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
 Tanning pits sit downwind of the houses, and hides arrive from the plains tribes to leave as leather.

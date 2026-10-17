@@ -57,8 +57,8 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## The Khamunda
 
-The **Khamunda** are a tribe owing fealty to [[affiliation-okharis|Okharis]]. Their seat is
+The Khamunda Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-khamundavlg|Khamunda Village]], one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
 The tribe follows Okharis customs of lineage, elders, and leadership by descent and consent. Its chieftain and elders attend the moots held in the temple-cities, and every Khamunda belongs to Okharis as well as to the tribe.

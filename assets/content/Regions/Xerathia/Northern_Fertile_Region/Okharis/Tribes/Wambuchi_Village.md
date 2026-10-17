@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-**Wámbuchi Village** is the seat of the [[affiliation-wambuchitrb|Wámbuchi tribe]], which owes fealty to
+Wámbuchi Village is the seat of the [[affiliation-wambuchitrb|Wámbuchi Tribe]], which owes fealty to
 [[affiliation-okharis|Okharis]]. It is one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
 Its threshing floors and clay granaries stand at the village's heart, and the fields around it run to the horizon in the growing season.

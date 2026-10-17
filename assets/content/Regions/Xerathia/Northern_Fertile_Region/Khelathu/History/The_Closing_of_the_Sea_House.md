@@ -45,9 +45,9 @@ A harbor clerk of the delta lays the beam across the quay and says what every cl
 
 ## The Third Reign Ends
 
-In 1990 ST (121 BF) the third Gar-Au of the sea-raider house died. The list enters the year and gives no formula, and the priesthood did what it had done thirty years before: it chose a house. **Gezer'Kuru** was raised at Galezkara, and its first Gar-Au took the throne name **Gez'Uzner I**.
+In 1990 ST (121 BF) the third Gar-Au of the sea-raider house died. The list enters the year and gives no formula, and the priesthood did what it had done thirty years before: it chose a house. [Gezer'Kuru]{.name data-type="affiliation/lineage"} was raised at [[place-galezkara|Galezkara]], and its first Gar-Au took the throne name [Gez'Uzner I]{.name data-type="being/npc"}.
 
-The raiders' line was not hunted down. The Khelathi way with a conqueror's house is to close it and wait, and a generation or two after, its people were Khelathi ([[lore-searaiders|the Sea-Raiders' Throne]]). What the new Gar-Au wanted was not revenge but a delta that could not be landed on twice.
+The raiders' line was not hunted down. The Khelathi way with a conqueror's house is to close it and wait, and a generation or two after, its people were Khelathi ([[lore-searaiders|The Sea-Raiders' Throne]]). What the new Gar-Au wanted was not revenge but a delta that could not be landed on twice.
 
 ## The Weigh-House Rule
 
@@ -59,7 +59,7 @@ The rule is why the delta quays are a single business. The beam is the empire's 
 
 Gez'Uzner I built a navy to enforce the rule, and gave it one task. The ships guard the river's mouths and the coast of the delta selatu, and they return to the quays at dusk. The apex of the delta, where the river first divides, gained its forts and customs-stations in the same reign, so that a force coming up past the mouths would meet a second line.
 
-The navy grew large, and it stayed what the first reign made it. The [[place-vylarianse|Vylarian Sea]] is contested by older fleets, and the Khelathi navy is among the largest of them and the least likely to leave its own shore ([[affiliation-bethuanflt|Bethuan Fleet]]). The empire leaves deep water to others, and has since the first reign of this house.
+The navy grew large, and it stayed what the first reign made it. The [[place-vylarianse|Vylarian Sea]] is contested by older fleets, and the Khelathi navy is among the largest of them and the least likely to leave its own shore ([[affiliation-bethuanflt|The Bethuan Fleet]]). The empire leaves deep water to others, and has since the first reign of this house.
 
 ## What It Left
 

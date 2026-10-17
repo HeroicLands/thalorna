@@ -61,9 +61,9 @@ sohl: {system: {commonSkills: [nyalbnlng]}}
 
 ## The Ékunda
 
-The **Ékunda** are a small tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], and they are known for one thing: they keep the water. Their seat, [[place-ekundavlg|Ékunda Village]], stands at a perennial spring in the [[place-sthrnsvnhs|Southern Savannahs]], and a spring that never dries is a meeting place whether its keepers want one or not. Herders of the five clans water there in the dry season, Sengala traders bring rainforest goods down to it, and the few Ankarian travelers who come so far south know it as the one outpost where they can count on water, a fair price and a safe night.
+The Ékunda are a small tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], and they are known for one thing: they keep the water. Their seat, [[place-ekundavlg|Ékunda Village]], stands at a perennial spring in the [[place-sthrnsvnhs|Southern Savannahs]], and a spring that never dries is a meeting place whether its keepers want one or not. Herders of the five clans water there in the dry season, Sengala traders bring rainforest goods down to it, and the few Ankarian travelers who come so far south know it as the one outpost where they can count on water, a fair price and a safe night.
 
-The Ékunda are not one of the five clan-nations, and they have made a living of standing between them. They follow the common Nyáluban customs of lineage, elders and leadership by descent and consent, and the village of four hundred is run by its elders more than by its chief. The Ékunda send a delegate to the Great Lubemo, who may speak for the tribe and may bind it only with the elders' agreement, and the clans listen, because every one of them waters its cattle at Ékunda in a bad year.
+The Ékunda are not one of the five clan-nations, and they have made a living of standing between them. They follow the common Nyáluban customs of lineage, elders and leadership by descent and consent, and the village of four hundred is run by its elders more than by its chief. The Ékunda send a delegate to the [Great Lubemo]{.name data-type="affiliation/governmental"}, who may speak for the tribe and may bind it only with the elders' agreement, and the clans listen, because every one of them waters its cattle at Ékunda in a bad year.
 
 ## See Also
 

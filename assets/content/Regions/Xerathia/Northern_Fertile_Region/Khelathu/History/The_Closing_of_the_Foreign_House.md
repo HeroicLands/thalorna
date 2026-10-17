@@ -51,25 +51,25 @@ data:
 
 "They conquered us and then they could not afford to keep us," a clerk of the delta customs-stations tells a visiting factor, pushing the tally across the table. "The Gar-Au we gave them was a better king than their emperor was an emperor."
 
-The **Closing of the Foreign House** is how the occupation ended, and the Khelathi cite it as the proof of their claim: even those who conquer the empire end up serving its gods.
+The Closing of the Foreign House is how the occupation ended, and the Khelathi cite it as the proof of their claim: even those who conquer the empire end up serving its gods.
 
 ## What Happened
 
-Zab'el'Qar II was the son of the commander the priesthood had crowned ([[lore-vylconquest|the Vylarian Conquest]]), and he reigned as a Khelathi, under a Khelathi throne name, in a Khelathi court, with Khelathi priests. In 2505 ST (395 AF) the list enters that he went to the West in the night, and that the house is closed.
+[Zab'el'Qar II]{.name data-type="being/npc"} was the son of the commander the priesthood had crowned ([[lore-vylconquest|The Vylarian Conquest]]), and he reigned as a Khelathi, under a Khelathi throne name, in a Khelathi court, with Khelathi priests. In 2505 ST (395 AF) the list enters that he went to the West in the night, and that the house is closed.
 
-No Vylarian claimed it, because the Orzas Barnakis, who had sent the army, died about 389 AF and the empire's civil war, the Years of Three Eagles (389 to 406 AF), left the delta garrisons unrelieved. The house had no claimant at its back and no fleet to bring one. The priesthood of [[lore-uqaadty|Uqa'a]] raised **Anlagh'Zeketu** in the same year, and Anlagh'Uqa I was crowned.
+No Vylarian claimed it, because the Orzas [Barnakis]{.name data-type="being/npc"}, who had sent the army, died about 389 AF and the empire's civil war, [[lore-brkensuccsn|The Broken Succession]] (389 to 406 AF), left the delta garrisons unrelieved. The house had no claimant at its back and no fleet to bring one. The priesthood of the [[affiliation-uqaa|Faith of Uqa'a]] raised [Anlagh'Zeketu]{.name data-type="affiliation/lineage"} in the same year, and [Anlagh'Uqa I]{.name data-type="being/npc"} was crowned.
 
 ## The Garrisons
 
-The Vylarian garrisons held the apex forts and customs-stations of the delta, the works the delta raised after the sea-raiders' going ([[lore-seahouse|the Closing of the Sea House]]). Those forts stand where the river first divides, and the grain that fed their garrisons came down the river from Khelathi granaries, not across the sea. With the occupation closed and no ship coming, the garrisons had the choice of the river's terms or none.
+The Vylarian garrisons held the apex forts and customs-stations of the delta, the works the delta raised after the sea-raiders' going ([[lore-seahouse|The Closing of the Sea House]]). Those forts stand where the river first divides, and the grain that fed their garrisons came down the river from Khelathi granaries, not across the sea. With the occupation closed and no ship coming, the garrisons had the choice of the river's terms or none.
 
 The new house gave them none. It closed the grain-barges to the forts and let the stores run down, and the garrisons were starved out in about three years, in about 398 AF. The gates opened one by one as the supplies ran out. The Khelathi record enters no battle for any of them, and the Vylarian account has no ending to give.
 
 ## What It Left
 
-- **The last foreign house.** The Amralo'Methu are the third conquerors the priesthood absorbed, after the hill-nomads and the sea-raiders, and the last.
-- **The delta forts in Khelathi hands.** The apex forts and customs-stations return to the Halzi'a of Khelaga and the delta selatu, and the garrisons that held them are gone from the record.
-- **The Short Way.** The second tomb of the foreign house closed the stub and the Way was never lengthened ([[place-shortway|the Short Way of Amralo'Methu]]).
+- **The last foreign house.** The [Amralo'Methu]{.name data-type="affiliation/lineage"} are the third conquerors the priesthood absorbed, after the hill-nomads and the sea-raiders, and the last.
+- **The delta forts in Khelathi hands.** The apex forts and customs-stations return to the Halzi'a of [[affiliation-selatkhelaga|The Selat of Khelaga]] and the delta selatu, and the garrisons that held them are gone from the record.
+- **The Short Way.** The second tomb of the foreign house closed the stub and the Way was never lengthened ([[place-shortway|The Short Way of Amralo'Methu]]).
 - **The second war.** The starving-out is counted with the conquest among the wars the two empires have fought, and the Vylarian record gives the garrisons no ending.
 
 ## See Also

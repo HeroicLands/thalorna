@@ -17,13 +17,13 @@ data:
 
 ## Overview
 
-**Lut-Tjelsur Selat** is the land of the [[affiliation-selatlttjlsk|Selat of Lut-Tjelsur]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the eastern marsh of the delta, where the great crocodile cult and the river-beast hunters make their living.
+Lut-Tjelsur Selat is the land of [[affiliation-selatlttjlsk|The Selat of Lut-Tjelsur]], one of [[affiliation-deltaselatu|The Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and it lies within the [[place-aukhelathrgq|Au'Khelathu Region]]. It is the eastern marsh of the delta, where the great crocodile cult and the river-beast hunters make their living.
 
 "Never put a foot in the water at dusk, and never put it where a reed has been bent," a river-beast hunter tells a new hand, shoving a pole into the mud to test the bottom. "The beast watches the bank. We watch the beast. That is all the arrangement there is out here."
 
 ## Character
 
-The selat is marsh, and the hunters are its particular trade. On the firmer ground the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-tjelsuk|Tjelsur]] and its estates hold the marsh's richest ground.
+The selat is marsh, and the hunters are its particular trade. On the firmer ground the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of the [[affiliation-tjelsuk|Faith of Tjelsur]] and its estates hold the marsh's richest ground.
 
 ## Settlements
 

@@ -33,8 +33,8 @@ watercourses and thickens southward until it meets the wall of the rainforest.
 The western land is fertile without canals: barley, sorghum, flax, dates and
 figs grow on rain and river water, and the open plains carry cattle and horses.
 The rains lessen moving east, and by the border with
-[[place-bethuargn|Bethua]] the land is semi-arid savanna and herding country.
-Three cities stand above the villages—Zarhanis, Kaljekor and Vuthraka—and the
+the [[place-bethuargn|Bethua Region]] the land is semi-arid savanna and herding country.
+Three cities stand above the villages—[[place-zarhanis|Zarhanis]], [[place-kaljekor|Kaljekor]] and [[place-vuthraka|Vuthraka]]—and the
 region's western edge touches the wet-coastal strip that runs the length of the
 northern shore.
 
@@ -47,17 +47,17 @@ the Okharics built theirs around the herds and the rain-fed land. Religious life
 [[affiliation-nkaruthar|Nkaru'thar]], whose creation-destruction-renewal triad
 is expressed through the three temple-cities; those cities are the region's
 religious, trade and diplomatic anchors, and the urban-rural compact between
-them and the clans is the Three-Flame Settlement.
+them and the clans is the [Three-Flame Settlement]{.name data-type="lore/law"}.
 
 ## Politics and Power
 
-The region is the territory of [[affiliation-okharis|Okharis]]. Its village tribes
+The region is the territory of Okharis. Its village tribes
 owe fealty to the crown, and their chieftains and elders attend the moots held
 in the temple-cities. Its frontier clans to
-the east pay tribute to [[place-bethuargn|Bethuan]] authorities in exchange for
+the east pay tribute to the authorities of the [[affiliation-mtrrchybth|Matriarchy of Bethua]] in exchange for
 grazing rights, and a Khelathi attempt centuries ago to bring the eastern
 temple-cities into a tributary relationship collapsed within a generation
-([[lore-templetrib|the Tribute of the Temple-Cities]]).
+([[lore-templetrib|The Tribute of the Temple-Cities]]).
 
 ## See Also
 

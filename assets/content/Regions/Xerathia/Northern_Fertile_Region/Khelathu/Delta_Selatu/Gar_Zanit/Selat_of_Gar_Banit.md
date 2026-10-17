@@ -57,13 +57,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Look at the hem of your own tunic: if it is linen and it came from the delta, it probably began in [[place-garzanit|Gar-Zanit]]. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a country of flax fields and linen-weaving towns whose cloth clothes the empire. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[affiliation-psaqaru|Saq'aru]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-garzanitselt|Gar-Zanit Selat]].
+Look at the hem of your own tunic: if it is linen and it came from the delta, it probably began in [[place-garzanit|Gar-Zanit]]. The Selat of Gar-Zanit is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a country of flax fields and linen-weaving towns whose cloth clothes the empire. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-psaqarudty|Saq'aru]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-garzanitselt|Gar-Zanit Selat]].
 
 "A flax field is a promise made in the flood season," says a Canal-Warden, kicking a sluice-gate that has just been shut. "Too much water and the stems rot. Too little and the fibers are short and the weavers curse my name. I keep the number of days between the two."
 
 ## Character
 
-The seat is [[place-garzanit|Gar-Zanit]], where the Halzi'a keeps court and the selat's chief temple of Saq'aru stands. Saq'aru is the god of creation and craftsmanship, and a selat of weavers keeps his name for the work of the hands.
+The seat is Gar-Zanit, where the Halzi'a keeps court and the selat's chief temple of the [[affiliation-psaqaru|Faith of Saq'aru]] stands. Saq'aru is the god of creation and craftsmanship, and a selat of weavers keeps his name for the work of the hands.
 
 ## Commerce and Currency
 

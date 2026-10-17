@@ -57,9 +57,9 @@ sohl: {system: {commonSkills: [okharclng]}}
 
 ## The Wámbuchi
 
-The **Wámbuchi** are a tribe owing fealty to [[affiliation-okharis|Okharis]]. Their seat is
+The Wámbuchi Tribe owes fealty to [[affiliation-okharis|Okharis]]. Their seat is
 [[place-wambuchivlg|Wámbuchi Village]], one of the settled villages of
-[[place-okharisrgn|Okharis]].
+the [[place-okharisrgn|Okharis Region]].
 
 They grow barley and sorghum on the rain-fed plains, and the grain they owe in tribute is a fixed entry in the temple registers.
 

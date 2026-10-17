@@ -17,17 +17,17 @@ data:
   language: nyalbnlng
 ---
 
-The Nyáluba hold the account of **Lusheya nu Kolembozi** and the Stone Tongue in two forms, and keep the two apart. The first is the griots' recital of what the Lobwezi griots entered into the record of the Great Lubemo. It is short, it states which clan holds each claim, and it is either right or wrong; a [[skill-griot|griot]] recites it before people who already know it. The second is the story told at the fire. It belongs to no record, it may be told well or badly, and every teller tells it differently. The tradition's rule that a griot is not a storyteller is the line between them. Neither form says what the Stone Tongue is for.
+The Stone Tongue is the account of [Lusheya nu Kolembozi]{.name data-type="being/npc"} and her speech in [The Stone Tongue]{.name data-type="skill/language"} that the [[lore-nyalubaclt|Nyáluba]] hold in two forms and keep apart. The first is the griots' recital of what the Lobwezi griots entered into the record of the [Great Lubemo]{.name data-type="affiliation/governmental"}. It is short, it states which clan holds each claim, and it is either right or wrong; a [[skill-griot|griot]] recites it before people who already know it. The second is the story told at the fire. It belongs to no record, it may be told well or badly, and every teller tells it differently. The tradition's rule that a griot is not a storyteller is the line between them. Neither form says what the Stone Tongue is for.
 
 : As the griots recite it {#recital}
 
 > This is entered in the record of the Lubemo. The griots of the baobab received it. It is recited as it was received.
 >
-> Lusheya, of the Kolembozi, spirit-speaker of the crocodile. Her line is held by the griot of the Kolembozi. It is not recited here, because her line is not what was entered.
+> Lusheya, of the [Kolembozi]{.name data-type="affiliation/polity"}, spirit-speaker of the crocodile. Her line is held by the griot of the Kolembozi. It is not recited here, because her line is not what was entered.
 >
 > In her initiation she walked into an Old Heto, and she came out of it speaking the Stone Tongue.
 >
-> Of the Stone Tongue, this is entered: no living Nyáluban understands it. The elders of the Ngonzi say that it was the speech of the people who built in stone. The record holds that the Ngonzi elders say this. The record does not hold that it is so.
+> Of the Stone Tongue, this is entered: no living Nyáluban understands it. The elders of the [Ngonzi]{.name data-type="affiliation/polity"} say that it was the speech of the people who built in stone. The record holds that the Ngonzi elders say this. The record does not hold that it is so.
 >
 > The Ngonzi confirmed the report.
 >

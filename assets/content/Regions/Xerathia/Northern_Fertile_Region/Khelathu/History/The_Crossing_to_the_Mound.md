@@ -57,13 +57,13 @@ For the first thousand years of the count the kings were crowned on the mound an
 
 ## The Last of the Great Land
 
-The First House and **Azlet'Kutu** kept their court in [[place-zugernome|Zu-Ger]], the Great Land, and went downstream to the island of [[place-yathtelgu|Yath-Telgu]] to stand upon the mound at each crowning. The list gives their reigns as 150, 120 and 110 years and enters nothing else of them. The last reign of Azlet'Kutu is **Lin'Uzner**'s twenty-six years, the first of a length a man can live, and the list enters his house as closed.
+The First House and [Azlet'Kutu]{.name data-type="affiliation/lineage"} kept their court in [[place-zugernome|Zu-Ger]], the Great Land, and went downstream to the island of [[place-yathtelgu|Yath-Telgu]] to stand upon the mound at each crowning. The list gives their reigns as 150, 120 and 110 years and enters nothing else of them. The last reign of Azlet'Kutu is [Lin'Uzner]{.name data-type="being/npc"}'s twenty-six years, the first of a length a man can live, and the list enters his house as closed.
 
 ## The Crossing
 
-The next house is **Zu'Amqeletu**, and its first Gar-Au is **Anlagh'el'Qar I**. The list enters him by the formula for a crowning and no more. What he did is what the city shows.
+The next house is [Zu'Amqeletu]{.name data-type="affiliation/lineage"}, and its first Gar-Au is [Anlagh'el'Qar I]{.name data-type="being/npc"}. The list enters him by the formula for a crowning and no more. What he did is what the city shows.
 
-He did not return to the Great Land. The court crossed to the mound and settled on the island where the first Gar-Au had stood, beside the temple of [[lore-uqaadty|Uqa'a]]. He laid a road through them on the solstice line: from the eastern edge of the living city, across the water to the island, through the temple and out of its western face to the desert shelf ([[place-waluqaa|Wal-Uqa'a]], the Sun's Road). At midsummer dawn the sun comes up straight down the eastern road. At midwinter dusk it sets straight down the western one, into the ground that was about to become the city of the dead.
+He did not return to the Great Land. The court crossed to the mound and settled on the island where the first Gar-Au had stood, beside the temple of the [[affiliation-uqaa|Faith of Uqa'a]]. He laid a road through them on the solstice line: from the eastern edge of the living city, across the water to the island, through the temple and out of its western face to the desert shelf ([[place-waluqaa|Wal-Uqa'a]], the Sun's Road). At midsummer dawn the sun comes up straight down the eastern road. At midwinter dusk it sets straight down the western one, into the ground that was about to become the city of the dead.
 
 ## The Law of the Sightline
 
@@ -75,11 +75,11 @@ The western shore became the burial-ground of the houses that ruled from the mou
 
 ## What It Left
 
-- **The axis.** The capital hangs on the road, and the two festivals of the year, the Coming-Forth and the Going-Down, are held at its ends.
+- **The axis.** The capital hangs on the road, and the two festivals of the year, the [Festival of the Coming-Forth]{.name data-type="lore/custom"} and the [Festival of the Going-Down]{.name data-type="lore/custom"}, are held at its ends.
 - **The sightline law.** A building that creeps into the line is pulled down without appeal.
-- **The necropolis.** The row of Ways at Zu-Gezer is the list from 1006 ST with the First Tablets missing, and the order of the row is the order of the houses.
-- **A split in the royal dead.** The two oldest houses lie in the Great Land, and the farmers there still plow round their marker stones ([[place-firsttablets|the Ground of the First Tablets]]).
-- **The next age.** The Keepers date the Sun's Road from this year ([[lore-akhsunroad|the Sun's Road]]).
+- **The necropolis.** The row of Ways at Zu-Gezer is the list from 1006 ST with [[lore-akhfirsttab|The First Tablets]] missing, and the order of the row is the order of the houses.
+- **A split in the royal dead.** The two oldest houses lie in the Great Land, and the farmers there still plow round their marker stones ([[place-firsttablets|The Ground of the First Tablets]]).
+- **The next age.** The Keepers date the Sun's Road from this year ([[lore-akhsunroad|The Sun's Road]]).
 
 ## See Also
 

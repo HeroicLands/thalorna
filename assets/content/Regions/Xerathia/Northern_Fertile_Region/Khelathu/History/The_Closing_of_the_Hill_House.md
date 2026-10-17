@@ -58,29 +58,29 @@ data:
         - how the fourth Tha'Ulgau Gar-Au died, which the list enters as a death in 1671 and nothing more
 ---
 
-A throne name is the first thing a reign says. In 1671 ST (440 BF) the priesthood crowned a Gar-Au under **Gez'el'Retha III**, a name not worn since the First Tablets, and the choice said what the temples thought of the last sixty years.
+A throne name is the first thing a reign says. In 1671 ST (440 BF) the priesthood crowned a Gar-Au under [Gez'el'Retha III]{.name data-type="being/npc"}, a name not worn since [[lore-akhfirsttab|The First Tablets]], and the choice said what the temples thought of the last sixty years.
 
 ## The Last of the Hill House
 
-The Tha'Ulgau had held the throne since 1612 ST (499 BF), when the priesthood crowned their chief after the field below [[place-lenennezut|Lenen-Nezut]] ([[lore-thaulgau|the Coming of the Tha'Ulgau]]). Four reigns filled fifty-nine years. The fourth, crowned **Legir'Uzner I**, "fair of the healer," in 1648 ST (463 BF), went to the West in 1671, and the list closes the house in the formula it uses for any other.
+The [Tha'Ulgau]{.name data-type="affiliation/lineage"} had held the throne since 1612 ST (499 BF), when the priesthood crowned their chief after the field below [[place-lenennezut|Lenen-Nezut]] ([[lore-thaulgau|The Coming of the Tha'Ulgau]]). Four reigns filled fifty-nine years. The fourth, crowned [Legir'Uzner I]{.name data-type="being/npc"}, "fair of the healer," in 1648 ST (463 BF), went to the West in 1671, and the list closes the house in the formula it uses for any other.
 
 Nobody struck the house. It was not a house of the kind the list scrapes from the walls, and the priesthood had crowned it. It was ended and its kin put somewhere.
 
 ## The House Raised
 
-The priesthood of [[lore-uqaadty|Uqa'a]] raised **Azlet'Ralu**, and its first Gar-Au took the name Gez'el'Retha, the third to wear it. The first two belonged to the First House and to Azlet'Kutu, and almost seven centuries had passed since the last. A name from the oldest depth of the list on a throne the nomads had held says that the crown is the old crown again, and that what happened between is a gap in the count and not a house in it.
+The priesthood of the [[affiliation-uqaa|Faith of Uqa'a]] raised [Azlet'Ralu]{.name data-type="affiliation/lineage"}, and its first Gar-Au took the name Gez'el'Retha, the third to wear it. The first two belonged to the First House and to [Azlet'Kutu]{.name data-type="affiliation/lineage"}, and almost seven centuries had passed since the last. A name from the oldest depth of the list on a throne the nomads had held says that the crown is the old crown again, and that what happened between is a gap in the count and not a house in it.
 
 ## The Kin
 
-The conquerors' kin were not sent away. They were given the western horse-pastures, the country they had come down from, and became a Halzi'a house of the empire. Their descendants hold [[place-zuqeztunome|Zu-Qeztu]], govern from [[place-zileti|Zileti]] and command the watch on the margin their ancestors crossed. The house keeps its old name, **Tha'Ulgau**.
+The conquerors' kin were not sent away. They were given the western horse-pastures, the country they had come down from, and became a Halzi'a house of the empire. Their descendants hold [[place-zuqeztunome|Zu-Qeztu]], govern from [[place-zileti|Zileti]] and command the watch on the margin their ancestors crossed. The house keeps its old name, Tha'Ulgau.
 
-Their horses stayed with them. The small, sturdy animals of the chariot corps are bred on the pastures of Lenen-Nezut and Zu-Qeztu, and the stock is the hill-people's.
+Their horses stayed with them. The small, sturdy animals of the chariot corps are bred on the pastures of [[place-lenenneztslt|Lenen-Nezut Selat]] and Zu-Qeztu, and the stock is the hill-people's.
 
 ## What It Left
 
 - **The chariot horse.** The chariot corps rides animals of this stock.
-- **The offering.** The house still owes the dead of the floodplain a yearly offering, made in the Season of Emergence ([[place-zelhalzi|Zel-Halzi]]).
-- **The barrows.** The first Tha'Ulgau lie in the grazing country of the west, in the hill way, and the house visits them without telling the priesthood ([[place-horsebarrows|the Horse Barrows]]).
+- **The offering.** The house still owes the dead of the floodplain a yearly offering, made in [[lore-geletssn|Gelet]], the season of emergence ([[place-zelhalzi|Zel-Halzi]]).
+- **The barrows.** The first Tha'Ulgau lie in the grazing country of the west, in the hill way, and the house visits them without telling the priesthood ([[place-horsebarrows|The Horse Barrows]]).
 
 ## See Also
 

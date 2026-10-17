@@ -46,23 +46,23 @@ data:
         - whether the middle Gar-Au of the three reigned in his own right or as a regent kept in the office
 ---
 
-A priest of [[lore-uqaadty|Uqa'a]] at Lenen-Nezut shows a visitor the long forecourt of the chief temple and says: "Count the paces from the ram's door to the altar. That is the length of a throne room." The town is not large, and the forecourt is built for a court that is long gone. It was a **capital** once, and this is how.
+A priest of the [[affiliation-uqaa|Faith of Uqa'a]] at [[place-lenennezut|Lenen-Nezut]] shows a visitor the long forecourt of the chief temple and says: "Count the paces from the ram's door to the altar. That is the length of a throne room." The town is not large, and the forecourt is built for a court that is long gone. It was a **capital** once, and this is how.
 
 ## The Crowning
 
-In 1462 ST (649 BF) the throne of Au'Khelathu was in dispute between the river's two ends. Houses ruled and fell at [[place-galezkara|Galezkara]] in this stretch of the Middle Count, and the upriver selatu, whose granaries fed the capital, had grain enough to carry a claim of their own. In that year a house of the upper river, which the list calls **Geze'el'Anlaghu**, had its head crowned in his own city, in the temple of the ram at [[place-lenennezut|Lenen-Nezut]], and he took the throne name **Zab'el'Psaqa I**. The priesthood of Uqa'a, which has deposed and raised more Gar-Auu than any army, performed the rite.
+In 1462 ST (649 BF) the throne of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] was in dispute between the river's two ends. Houses ruled and fell at [[place-galezkara|Galezkara]] in this stretch of [The Middle Count]{.name data-type="lore/history"}, and the upriver selatu, whose granaries fed the capital, had grain enough to carry a claim of their own. In that year a house of the upper river, which the list calls [Geze'el'Anlaghu]{.name data-type="affiliation/lineage"}, had its head crowned in his own city, in the temple of the ram at Lenen-Nezut, and he took the throne name [Zab'el'Psaqa I]{.name data-type="being/npc"}. The priesthood of Uqa'a, which has deposed and raised more Gar-Auu than any army, performed the rite.
 
-He was not crowned on the mound at Yath-Telgu, and the list enters him all the same. It records him as it records any Gar-Au, with his years and the formula his end was entered under, and that entry is the strongest evidence that the priesthood meant the crowning to hold.
+He was not crowned on the mound at [[place-yathtelgu|Yath-Telgu]], and the list enters him all the same. It records him as it records any Gar-Au, with his years and the formula his end was entered under, and that entry is the strongest evidence that the priesthood meant the crowning to hold.
 
 ## Sixty-nine Years
 
-Three Gar-Auu of the house reigned from Lenen-Nezut: Zab'el'Psaqa I, a second whose reign fills the middle of the stretch, and **Zab'el'Psaqa III**, crowned in 1519 ST. For sixty-nine years the king-list counts the line as the legitimate one. Meanwhile the delta and the mound were held by claimants who were crowned and who ruled, and the list gives them no reign at all. The list's silence is the plainest case in the whole Middle Count of the list choosing whom to count.
+Three Gar-Auu of the house reigned from Lenen-Nezut: Zab'el'Psaqa I, a second whose reign fills the middle of the stretch, and [Zab'el'Psaqa III]{.name data-type="being/npc"}, crowned in 1519 ST. For sixty-nine years the king-list counts the line as the legitimate one. Meanwhile the delta and the mound were held by claimants who were crowned and who ruled, and the list gives them no reign at all. The list's silence is the plainest case in the whole Middle Count of the list choosing whom to count.
 
-The house did not leave its dead to the capital. The three Gar-Auu were buried at home, in tombs on the desert edge above the town, and the row of Ways at [[place-zugezer|Zu-Gezer]] holds nothing of them. The house laid out its tombs and their short crossing-road in imitation of the necropolis across the river from the capital ([[place-lnzways|the Lenen-Nezut Ways]]).
+The house did not leave its dead to the capital. The three Gar-Auu were buried at home, in tombs on the desert edge above the town, and the row of Ways at [[place-zugezer|Zu-Gezer]] holds nothing of them. The house laid out its tombs and their short crossing-road in imitation of the necropolis across the river from the capital ([[place-lnzways|The Lenen-Nezut Ways]]).
 
 ## The End of It
 
-The line ended in the field. In 1531 ST (580 BF) Zab'el'Psaqa III was killed at Iqeru in a war with the house that ruled the delta, and the upriver throne did not outlast him ([[lore-twothrones|the War of the Two Thrones]]).
+The line ended in the field. In 1531 ST (580 BF) Zab'el'Psaqa III was killed at [[place-iqeru|Iqeru]] in a war with the house that ruled the delta, and the upriver throne did not outlast him ([[lore-twothrones|The War of the Two Thrones]]).
 
 ## What It Left
 

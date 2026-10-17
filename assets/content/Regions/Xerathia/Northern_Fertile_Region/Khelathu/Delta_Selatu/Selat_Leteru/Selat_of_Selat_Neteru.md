@@ -57,13 +57,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-[[place-selatleterunome|Selat-Leteru]] is the quietest of the [[affiliation-deltaselatu|Delta Selatu]]: few people, many shrines. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a pilgrimage selat of shrine-islands and marsh-temples with few people. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[affiliation-uznera|Uzn'era]], and the selat's religious life runs through her temples and their estates. The land it holds is [[place-selatleterunome|Selat-Leteru]].
+The Selat of Selat-Leteru is the quietest of [[affiliation-deltaselatu|The Delta Selatu]]: few people, many shrines. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], a pilgrimage selat of shrine-islands and marsh-temples with few people. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-uzneradty|Uzn'era]], and the selat's religious life runs through her temples and their estates. The land it holds is [[place-selatleterunome|Selat-Leteru]].
 
 The selat holds about 150,000 people, the smallest population of the ten, and most of its business is the business of pilgrims: boats, lodging, offerings, and the temple estates that feed them.
 
 ## Character
 
-The seat is [[place-yathleteru|Yath-Leteru]], where the Halzi'a keeps court and the selat's chief temple of Uzn'era stands. Uzn'era is the goddess of fertility, renewal and healing, and a pilgrim comes to her marsh-temples for one of the three.
+The seat is [[place-yathleteru|Yath-Leteru]], where the Halzi'a keeps court and the selat's chief temple of the [[affiliation-uznera|Faith of Uzn'era]] stands. Uzn'era is the goddess of fertility, renewal and healing, and a pilgrim comes to her marsh-temples for one of the three.
 
 ## Commerce and Currency
 
