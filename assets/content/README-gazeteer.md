@@ -982,6 +982,19 @@ fraud.
    embeds and navigation are outside this prose scope.
 2. **If a surviving indexed note exists, link the first use to it with its
    `name.full`.** An empty label that resolves to the full name also works.
+   With package-build 23.11.0 or later, a reference to a private
+   destination automatically renders as secret/spoiler text, including its
+   label: `[[doc-divineactn|The Truth of Divine Action]]`.
+   Add `.show` only to keep the label visible:
+   `[[doc-magictruth|The Truth of Magic]]{.show}`. This override does not grant
+   access to the target. Authors use ordinary wikilinks without repeating the
+   destination's audience declaration.
+
+   On the website, the label is hidden behind a show/hide control. Foundry
+   and the book present it with secret styling and a **Secret:** label.
+   An omitted destination retains the reference text without an unusable link;
+   `.show` makes that text visible too. The destination remains private.
+
 3. **If no surviving note exists, mark the first use with a typed name span:**
    `[Full Name]{.name data-type="type/subType"}`. Use the declared type and
    subtype, or a bare type where appropriate; do not invent an unknown full
@@ -992,7 +1005,7 @@ fraud.
    repeated semantic name marks or links, while judging useful structural,
    topic and navigation links by their role.
 6. **Preserve genuine emphasis.** A name inside longer bold or italic emphasis
-   receives its own link or typed span within that emphasis. Generic attribute
+   receives its own link or name span within that emphasis. Generic attribute
    labels such as **Strength** may remain bold for emphasis.
 
 After the first use, a short name may stand in for the full one: the calling
@@ -1094,7 +1107,7 @@ verse and its caption exactly as they stand.
 - **Show consequences.** Explain what a measurement, custom, law, resource, or belief changes in everyday life.
 - **Keep perspectives identifiable.** Attribute a local's words or beliefs, especially where accounts disagree.
 - **Use maps and related notes.** Locate places and show routes between them; link to the adjacent region, settlement, institution, person, creature, or event when the relationship helps readers continue exploring.
-- **Keep names findable.** Use a full-name wikilink or typed name span on first
+- **Keep names findable.** Use a full-name wikilink or name span on first
   prose use, as _Mark every name_ sets out.
 - **Use space according to importance.** A major settlement can support a substantial account. A minor site still needs enough detail to distinguish it and make its links useful.
 

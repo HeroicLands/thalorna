@@ -5,7 +5,7 @@ type: folder
 data: {parent: {default: polities, journals: ankaris}, color: "#4CAF50"}
 ---
 
-This folder gathers the notes of the Jenchai polity in Ankaris. Its members are:
+This folder gathers the notes of the Jenchai polity in the [[place-ankrscntnnt|Ankaris Continent]]. Its members are:
 
 - the [[affiliation-jenchaiempr|Jenchai Empire]], also called the Nine Mountains and the Kingdom of Mountains and Seas, and the [[place-jenchairgn|Jenchai Region]], also called the Jenchai Archipelago;
 - the eight domains: [[affiliation-shuiwojaidmn|Shuiwojai Domain]], [[affiliation-hojujaidmn|Hojujai Domain]], [[affiliation-wojaidmn|Wojai Domain]], [[affiliation-zenjaidmn|Zenjai Domain]], [[affiliation-muwojaidmn|Muwojai Domain]], [[affiliation-wejaidmn|Wejai Domain]], [[affiliation-rinjaidmn|Rinjai Domain]] and [[affiliation-tsuijaidmn|Tsuijai Domain]];

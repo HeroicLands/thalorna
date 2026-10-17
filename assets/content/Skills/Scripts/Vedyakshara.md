@@ -17,15 +17,15 @@ sohl:
   flags: {"thalorna": {script_family: Syllabary}}
 ---
 
-The Vedyakshara is a syllabary: roughly forty-eight characters, each standing for a consonant-plus-vowel, with clusters and bare final consonants written by modifying the base glyph rather than by adding a letter. Every sign hangs from a headline, so a line of Vedyari looks like a rope with the words strung beneath it.
+The Vedyakshara Script is a syllabary: roughly forty-eight characters, each standing for a consonant-plus-vowel, with clusters and bare final consonants written by modifying the base glyph rather than by adding a letter. Every sign hangs from a headline, so a line of Vedyari looks like a rope with the words strung beneath it.
 
-It carries [[skill-vedyarlng|Vedyari]]—Classical Vedyari for anything that matters, and the vernaculars only where nobody important is looking. A character needs **both** the script and the [[sohl-none-docskill-lang|Language]].
+It carries [[skill-vedyarlng|Vedyari Language]]—Classical Vedyari for anything that matters, and the vernaculars only where nobody important is looking. A character needs **both** the script and the [[sohl-note-skill-lang|Language]].
 
 ## Three layers
 
 - **The old abjad.** The Vedyakshara evolved out of a consonantal script that survives now only in sacred use: certain mantras, certain temple foundation deposits, certain things that must be written the way they have always been written. Reading it is a separate accomplishment and a rare one.
 - **The classical syllabary.** The full forty-eight, carefully formed, used for scripture, legal codes, land grants, genealogy and inscription. This is what a temple scribe is trained in.
-- **The common cursive.** About thirty-six core forms plus a mass of ligatures, written running, used by the [[affiliation-mrchntclctvvdyr|Merchant Collective]] and the janapoda administrations for anything that is not going to outlive the year.
+- **The common cursive.** About thirty-six core forms plus a mass of ligatures, written running, used by [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] and the janapoda administrations for anything that is not going to outlive the year.
 
 ## Where the writing lives
 
