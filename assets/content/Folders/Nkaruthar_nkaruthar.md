@@ -5,4 +5,4 @@ type: folder
 data: {parent: mysticalskills}
 ---
 
-This folder gathers the Nkaruthar mystical skills, a subfolder of the mystical skills folder. It holds the ritual skill Ritual: Nkaru'thar.
+This folder gathers the Nkaruthar mystical skills, a subfolder of the mystical skills folder. It holds the ritual skill [[skill-nkaruthar|Ritual: Nkaru'thar]].

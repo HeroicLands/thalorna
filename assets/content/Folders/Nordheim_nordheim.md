@@ -5,4 +5,4 @@ type: folder
 data: {parent: {default: polities, journals: nordlands}, color: "#66BB6A"}
 ---
 
-This folder gathers the material for Nordheim, a realm of the Nordlands. It holds the places of Nordheim, among them Raltholm, Nalthmark, Odholm and Thalmdal, along with the polity itself and its lore.
+This folder gathers the material for the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], a realm of the [[place-nrdlndsrgn|Nordlands Region]]. It holds the places of Nordheim, among them [[place-raltholm|Raltholm]], [[place-nalthmark|Nalthmark]], [[place-odholm|Odholm]] and [[place-haulonna|Thalmdal]], along with the polity itself and its lore.

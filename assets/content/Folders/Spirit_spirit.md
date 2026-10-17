@@ -5,4 +5,4 @@ type: folder
 data: {parent: creatures, color: "#00CED1"}
 ---
 
-This folder gathers the spirit creatures of the bestiary, beings of void, vapor and shadow such as Vaporwisp, Voidmoth, Voidserpent and Wraithbloom. It sits within the Creatures folder, beside the other kinds of creature.
+This folder gathers the spirit creatures of the bestiary, beings of void, vapor and shadow such as [[being-vprwsp|Vaporwisp]], [[being-voidmoth|Voidmoth]], [[being-vdsrpnt|Voidserpent]] and [[being-wrthblm|Wraithbloom]]. It sits within the Creatures folder, beside the other kinds of creature.

@@ -5,4 +5,4 @@ type: folder
 data: {parent: mysticalskills}
 ---
 
-This folder gathers the mystical skills of the Zemor Hodhis tradition. Its members are the Incantation skills, among them Incantation Fisera, Incantation Hidalis, Incantation Kentra, Incantation Pirethos, Incantation Zefaris and Incantation Neumenos. It sits within the Mystical Skills folder of the Esoteric tradition.
+This folder gathers the mystical skills of the [[affiliation-hexhodai|Zemor Hodhis]] tradition. Its members are the Incantation skills, among them [[skill-physera|Incantation Fisera]], [[skill-hydalis|Incantation Hidalis]], [[skill-kentra|Incantation Kentra]], [[skill-pyrethos|Incantation Pirethos]], [[skill-zepharis|Incantation Zefaris]] and [[skill-pneumenos|Incantation Neumenos]]. It sits within the Mystical Skills folder of the Esoteric tradition.

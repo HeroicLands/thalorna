@@ -5,4 +5,4 @@ type: folder
 data: {parent: xerathia, color: "#4CAF50"}
 ---
 
-This folder gathers the Northern Fertile Region, a region within Zerathia. It holds the place note for the region, known as the Fertile Crescent, and subfolders for the lands within it.
+This folder gathers the [[place-nrthrnfrtlrgn|Northern Fertile Region]], within [[place-xerathia|Zerathia]]. It holds the place note for the region, known as the Fertile Crescent, and subfolders for the lands within it.

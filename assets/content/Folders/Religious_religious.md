@@ -5,4 +5,4 @@ type: folder
 data: {parent: miscgear, color: "#483D8B"}
 ---
 
-This folder gathers religious gear, a subfolder of the miscellaneous gear folder. Its entries include the Dream-Stone, the Traveller's Pledge-Cord, the Coin of Passage and the Ash-Mark Stamp.
+This folder gathers religious gear, a subfolder of the miscellaneous gear folder. Its entries include [[miscgear-dreamstone|Dream-Stone]], [[miscgear-pledgecord|Traveller's Pledge-Cord]], [[miscgear-coinpassage|Coin of Passage]] and [[miscgear-ashmarkstamp|Ash-Mark Stamp]].
