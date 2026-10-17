@@ -7,40 +7,40 @@ description: "Cartography of religious tradition across Thalorna, showing panthe
 data: {packFolder: pantheons}
 ---
 
-This note maps which pantheons are worshipped in which regions of [[place-worldthlrn|Thalorna]].
+Pantheon Regional Map maps which pantheons are worshipped in which regions of [[place-worldthlrn|The World of Thalorna]].
 
-One item of interest are that many of the gods called the god/goddess of dreams are possibly the same deity, [[lore-goddreams|The God of Dreams]].
+One item of interest is that many of the gods called the god/goddess of dreams are possibly the same deity, [[lore-goddreams|The God of Dreams]].
 
 ## [[affiliation-arldnpnthn|Aureldian Pantheon]]
 
-The dominant pantheon of western [[place-ankrscntnnt|Ankaris Continent]] and [[place-midhalnrgn|Mídhalión]]. Originally the state religion of the [[affiliation-vylarinmpr|Vylarian Empire]], it spread throughout the empire's territories and persists even where imperial control has faded.
+The [[affiliation-arldnpnthn|Aureldian Pantheon]] is the dominant pantheon of western [[place-ankrscntnnt|Ankaris Continent]] and [[place-midhalnrgn|Mídhalión Region]]. Originally supported through its twelve distinct faiths as state religions of the [[affiliation-vylarinmpr|Vylarian Empire]], it spread throughout the empire's territories and persists even where imperial control has faded.
 
 **Primary regions:**
 
 [[affiliation-vylarinmpr|Vylaria]]
-: state religion, seat of the Aureldian faith
+: state religions, seat of the twelve distinct Aureldian faiths
 
 [[place-helionis|Helionis]]
 : considers itself the spiritual heartland; elaborate temple culture
 
-[[place-provenzrgn|Provenzia]]
+[[place-provenzrgn|Provenzia Region]]
 : strong institutional presence, integrated with artistic life
 
-[[place-elavendre|Elavendre]]
-: practiced alongside the older Áelendan [[affiliation-theoldway|Old Way]] and its fae/nature traditions
+[[place-elavendre|Élavendre]]
+: practiced alongside the older Áelendan tradition of [[affiliation-theoldway|The Old Way]] and its fae/nature traditions
 
 [[place-aelwyth|Aelwyth]]
 : dominant in southern kingdoms
 
-[[place-tarvenirgn|Tarvénia]]
+[[place-tarvenirgn|Tarvénia Region]]
 : formal faith, but strong folk traditions persist beneath it
 
-[[place-byzariargn|Bizaria]]
+[[place-byzariargn|Bizaria Region]]
 : eastern rite with mystical emphasis
 
 **Secondary influence:**
 
-[[affiliation-cnfdrtntrzlnstts|Taruzel]]
+[[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]]
 : dominant in western coastal cities (imposed during Vylarian period)
 
 [[affiliation-kalihara|Kalihara]]
@@ -51,7 +51,7 @@ The dominant pantheon of western [[place-ankrscntnnt|Ankaris Continent]] and [[p
 
 ## [[affiliation-asguardian|Asguardian Pantheon]]
 
-The pantheon of the frozen north, rooted in shamanistic and warrior traditions.
+The [[affiliation-asguardian|Asguardian Pantheon]] is the pantheon of the frozen north, rooted in shamanistic and warrior traditions.
 
 **Primary regions:**
 
@@ -59,7 +59,7 @@ The pantheon of the frozen north, rooted in shamanistic and warrior traditions.
 : core homeland of the Asguardian faith
 
 Northern [[place-aelwyth|Aelwyth]]
-: brought by Nordmen settlers
+: brought by [[lore-nordheimnclt|Nordheimn]] settlers
 
 **Secondary influence:**
 
@@ -68,14 +68,14 @@ Northern [[place-vrystwald|Vristwald]]
 
 ## [[affiliation-ashanpnthn|Ashaian Pantheon]]
 
-An eastern pantheon centered on cosmic balance, fire, and light. Predates Vylarian influence in the eastern lands.
+The [[affiliation-ashanpnthn|Ashaian Pantheon]] is an eastern pantheon centered on cosmic balance, fire, and light. Predates Vylarian influence in the eastern lands.
 
 **Primary regions:**
 
 [[place-dunharargn|Dunhara Region]]
 : primary faith of the desert tribes
 
-[[place-khzryndsrtrgn|Khazryn Desert]]
+[[place-khzryndsrtrgn|Khazryn Desert Region]]
 : dominant among the nomadic peoples
 
 **Secondary influence:**
@@ -88,7 +88,7 @@ Eastern [[affiliation-cnfdrtntrzlnstts|Taruzel]]
 
 ## [[affiliation-khelathpnthn|Khelathi Pantheon]]
 
-The ancient faith of the great southern empire, centered on solar worship and the divine line of the Gar-Au.
+The [[affiliation-khelathpnthn|Khelathi Pantheon]] is the ancient faith of the great southern empire, centered on solar worship and the divine line of the Gar-Au.
 
 **Primary region:**
 
@@ -97,21 +97,21 @@ The ancient faith of the great southern empire, centered on solar worship and th
 
 ## [[affiliation-tengwouronglei|Téngwou Rong Lei]]
 
-The **Celestial Order** (Téngwou Rong Lei, "The Celestial Court of Ten Thousand Spirits")—a vast celestial bureaucracy mirroring the imperial government of the east.
+[[affiliation-tengwouronglei|Téngwou Rong Lei]], the **Celestial Order** ("The Celestial Court of Ten Thousand Spirits")—a vast celestial bureaucracy mirroring the imperial government of the east.
 
 **Primary region:**
 
-[[affiliation-tantsouempr|Tantsou]]
+[[affiliation-tantsouempr|Empire of Tantsou]]
 : state religion, deeply integrated with caste system
 
 **Secondary influence:**
 
-[[place-jenchairgn|Jenchai]]
+[[place-jenchairgn|Jenchai Region]]
 : regional variants of the Celestial Order, divergently interpreted after a thousand years of separation from Tantsou
 
 ## [[affiliation-itzanpnthn|Itsani]]
 
-The unified faith of the [[place-kchchkcntnnt|K'ich'chik Continent]] continent—a single priesthood serving ten gods, centered on celestial cycles, blood sacrifice, and priestly kings.
+The [[affiliation-itzanpnthn|Itsani Pantheon]] is the unified faith of [[place-kchchkcntnnt|K'ich'chik Continent]]—a single priesthood serving ten gods, centered on celestial cycles, blood sacrifice, and priestly kings.
 
 **Primary region:**
 
@@ -120,7 +120,7 @@ The unified faith of the [[place-kchchkcntnnt|K'ich'chik Continent]] continent�
 
 ## [[affiliation-varakpnthn|Varnuka Pantheon]]
 
-A complex spiritual system centered on cycles of creation, preservation, and destruction.
+The [[affiliation-varakpnthn|Varnuka Pantheon]] is a complex spiritual system centered on cycles of creation, preservation, and destruction.
 
 **Primary region:**
 
@@ -129,7 +129,7 @@ A complex spiritual system centered on cycles of creation, preservation, and des
 
 ## [[affiliation-firstgods|The First Gods]]
 
-The ancestral pantheon of the [[lore-aelendnppl|Áelendan]] and, through them, of the broader [[lore-pelwarpepl|Pelwar People]] line. Two primordial Powers—the [[affiliation-firstgods#the-bright|Bright]] and the [[affiliation-firstgods#the-dark|Dark]]—locked in eternal contention, together with their [[lore-thekindred|Kindred]]: the animal, place, and water spirits who serve them. Honored through [[affiliation-theoldway|The Old Way]], a shamanic tradition in which the Two Powers are not petitioned and the Kindred are not worshipped but rather **venerated, appeased, or warded against** according to their character; the Áelendan hold the Old Way to be older than the settled pantheons and the source from which all other gods descend.
+[[affiliation-firstgods|The First Gods]] are the ancestral pantheon of the [[lore-aelendnppl|Áelendan People]] and, through them, of the broader [[lore-pelwarpepl|Pelwar People]] line. Two primordial Powers—the [[affiliation-firstgods#the-bright|Bright]] and the [[affiliation-firstgods#the-dark|Dark]]—locked in eternal contention, together with [[lore-thekindred|The Kindred]]: the animal, place, and water spirits who serve them. Honored through [[affiliation-theoldway|The Old Way]], a shamanic tradition in which the Two Powers are not petitioned and the Kindred are not worshipped but rather **venerated, appeased, or warded against** according to their character; the Áelendan hold the Old Way to be older than the settled pantheons and the source from which all other gods descend.
 
 **Primary regions:**
 
@@ -145,18 +145,18 @@ The ancestral pantheon of the [[lore-aelendnppl|Áelendan]] and, through them, o
 
 Several regions maintain animistic practices without a formal named pantheon:
 
-[[place-arnscntnnt|Aurionis]]
+[[place-arnscntnnt|Aurionis Continent]]
 : deep spiritual connection to land and creatures, otherwise unknown
 
 ## Xera
 
-Zerathia south of Okharis
-: The central rainforests and southern savannahs of Zerathia are home to diverse spiritual traditions that have not been systematically documented by Ankarian scholars. What is known suggests considerable variety: structured priesthoods and named spirit-courts in the more settled rainforest communities, ancestor veneration and landscape-tied spirit relationships among the pastoral peoples of the south. These traditions do not map neatly onto the pantheon model familiar to western Ankaris, and any attempt to impose such a framework would likely obscure more than it reveals.
+[[place-xerathia|Zerathia]] south of [[place-okharisrgn|Okharis Region]]
+: The [[place-cntrlrnfrsts|Central Rainforests]] and [[place-sthrnsvnhs|Southern Savannahs]] of Zerathia are home to diverse spiritual traditions that have not been systematically documented by Ankarian scholars. What is known suggests considerable variety: structured priesthoods and named spirit-courts in the more settled rainforest communities, ancestor veneration and landscape-tied spirit relationships among the pastoral peoples of the south. These traditions do not map neatly onto the pantheon model familiar to western Ankaris, and any attempt to impose such a framework would likely obscure more than it reveals.
 
 ## [[affiliation-nkaruthar|Nkaru'thar]]
 
-The [[affiliation-okharis|Okharis]] worships **Nkaru'thar** (The Eternal Flame) through three aspects tied to its three city-states—a unique local faith distinct from the major pantheons.
+[[affiliation-okharis|Okharis]] worships **[[affiliation-nkaruthar|Nkaru'thar]]** (The Eternal Flame) through three aspects tied to its three city-states—a unique local faith distinct from the major pantheons.
 
 ## [[affiliation-tharivaan|Thári'vaan]]
 
-The [[affiliation-kalihara|Kaliharan]] interior follows its own ancient tradition centered on **Thári'vaan** ("The Living Whole").
+The Kaliharan interior follows its own ancient tradition centered on **[[affiliation-tharivaan|Thári'vaan]]** ("The Living Whole").

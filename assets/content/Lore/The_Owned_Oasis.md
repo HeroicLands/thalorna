@@ -10,7 +10,7 @@ data: {packFolder: settinglore, culture: sowidesclt}
 
 You come over a rise at dusk and the spring is there: a dozen palms, a ring of green, a pool the width of a cart, and no one. No tent, no fire, no herd, no track in the mud but your own. The camels have smelled it, and the guide you hired at the last well has gone quiet. He does not say why. He gets down from his saddle and begins to look at the ground.
 
-Most of the water in the [[place-khzryndsrtrgn|Khazryn]] is of this kind. A bodek, "owned water", is a spring or seep too small to settle, and every one belongs to a tribe. It is the tribe's winter fallback and its reserve for a drought, and it stands empty because the tribe is grazing elsewhere and comes only in its season. The owners rarely sit at it. They watch from a ridge more often than a stranger knows, and the first thing a traveler learns about a bodek is that it is never as empty as it looks.
+Most of the water in the [[place-khzryndsrtrgn|Khazryn Desert Region]] is of this kind. A bodek, "owned water", is a spring or seep too small to settle, and every one belongs to a tribe. It is the tribe's winter fallback and its reserve for a drought, and it stands empty because the tribe is grazing elsewhere and comes only in its season. The owners rarely sit at it. They watch from a ridge more often than a stranger knows, and the first thing a traveler learns about a bodek is that it is never as empty as it looks.
 
 ## The Marks
 
@@ -44,7 +44,7 @@ The unhappy visit is rarely violent. A dozen riders come in at first light, spre
 
 ## What Else Is at the Water
 
-Creatures gather where water is. [[being-gntcmlsp|Giant camel spiders]] come in at night to the scraps of a camp, [[being-sndstlkr|sand stalkers]] hunt whatever comes to drink, and [[being-bnscrpn|bone scorpions]] wait in the shade of the rocks. The owners know the hours when each is out and keep their own camps well away from the pool. A stranger learns the hours the hard way.
+Creatures gather where water is. The [[being-gntcmlsp|Giant Camel Spider]] comes in at night to the scraps of a camp, the [[being-sndstlkr|Sand Stalker]] hunts whatever comes to drink, and the [[being-bnscrpn|Bone Scorpion]] waits in the shade of the rocks. The owners know the hours when each is out and keep their own camps well away from the pool. A stranger learns the hours the hard way.
 
 Some wells carry a stone lid with a weight on it. The owners lid a shaft that something lives in, and they say so when asked.
 

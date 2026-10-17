@@ -2419,11 +2419,11 @@ sohl:
   flags: {"thalorna": {lang_family: Elder}}
 ---
 
-Sinale is a tongue of the Elder family. Fluency measures the sophistication of expression in Sinale, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Sinale Language is a tongue of the Elder family. Fluency measures the sophistication of expression in Sinale, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Sinale is the language of the **Sinale** (known in human legends as "elves"; one of them is a **Sinalo**), the eldest of the Elder Races to settle on Thalorna. The language predates all human tongues by millennia, surviving as living speech in scattered Sinale communities hidden in deep forests and remote valleys. The Sinale are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, known to outsiders only through legend and fragmentary encounter.
+Sinale is the language of the **[[lore-flksinale|Sinale Folk]]** (known in human legends as "elves"; one of them is a **Sinalo**), the eldest of the Elder Races to settle on [[place-worldthlrn|The World of Thalorna]]. The language predates all human tongues by millennia, surviving as living speech in scattered Sinale communities hidden in deep forests and remote valleys. The Sinale are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, known to outsiders only through legend and fragmentary encounter.
 
 To the human ear, Sinale is hauntingly beautiful: melodic and vowel-heavy, with open syllables and soft consonants that seem to flow like water. Its consonants are the liquids and the nasals—_l_, _r_ and _n_ above all, doubled and run together—with the breathed _th_ and _dh_ between them, and its vowels are the open _a_, _e_, _i_ and _o_, often held long. No word opens on a voiced stop and there are no guttural sounds. Nearly every syllable ends in a vowel, and the language slides from one to the next without ever stacking consonants at the front of a word. A Sinale speaker seems to be singing rather than speaking, and the song is a slow one: the language has the sound of a long memory, of starlight and twilight, and of things a long time lost.
 
@@ -2660,7 +2660,7 @@ The ending _-tos_ compares: what something exceeds is the place it stands out fr
 
 ## Script and Literacy
 
-Sinale is written in the [[skill-clthndscrpt|Veldirno]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written left-to-right, top-to-bottom, but the flowing nature of the letters creates a visual impression of music.
+Sinale is written in the [[skill-clthndscrpt|Veldirno Script]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written left-to-right, top-to-bottom, but the flowing nature of the letters creates a visual impression of music.
 
 Key features:
 
@@ -2676,7 +2676,7 @@ Ligatures
 Ornate variants
 : Sacred texts employ extremely elaborate, decorated letter forms
 
-The Veldirno is the Sinale's own, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[skill-aelendlng|Áelendi]] took the script from the Sinale, being the humans closest to them; the rest of Aureldia writes in the Vylarian alphabet and always has.
+The Veldirno is the Sinale's own, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[lore-aelendnppl|Áelendan People]] took the script from the Sinale, being the humans closest to them; the rest of [[place-aureldirgn|Aureldia Region]] writes in [[skill-semrnscrpt|Semaron Script]], the Vylarian alphabet, and always has.
 
 Literacy in Sinale is near-universal among the Sinale themselves—the language and written tradition are central to their culture. However, human literacy in Sinale is **extremely rare**. Only scholars, elves, and highly educated humans can read or write the language.
 
@@ -2694,11 +2694,11 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 **The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinale reader sees.
 
-**This is Sinale's mapping and not Áelendi's.** The Áelendan write in the same hand, borrowed and much adapted, for a language carrying sounds the Veldirno was never cut for. A passage of [[skill-aelendlng|Áelendi]] wants its own convention and does not follow this one.
+**This is Sinale's mapping and not [[skill-aelendlng|Áelendi Language]]'s.** The Áelendan write in the same hand, borrowed and much adapted, for a language carrying sounds the Veldirno was never cut for. A passage of Áelendi wants its own convention and does not follow this one.
 
 ## Historical Development
 
-Sinale is the **eldest language on Thalorna**, older than even Kalihari or Ki'ichek. It has changed remarkably little in structure over millennia, though vocabulary has evolved with Sinale experience and philosophy.
+Sinale is the **eldest language on Thalorna**, older than even [[skill-kalihrlng|Kalihari Language]] or [[skill-kicheklng|Ki'ichek Language]]. It has changed remarkably little in structure over millennia, though vocabulary has evolved with Sinale experience and philosophy.
 
 Scholars identify layers in Sinale historical development:
 
@@ -2748,7 +2748,7 @@ _Luuro ileva, luuro rivy_
 
 ## Related Languages
 
-Sinale is one of the **two surviving Elder Tongues**, the other being Khazari. Both descend from a **common Elder language** spoken before the Elder Races diverged. That ancestor is extinct and no text preserves it.
+Sinale is one of the **two surviving Elder Tongues**, the other being [[skill-khazarlng|Khazari Language]]. Both descend from a **common Elder language** spoken before the Elder Races diverged. That ancestor is extinct and no text preserves it.
 
 The kinship is not audible. Sinale runs on open syllables, long vowels and a soft inventory; Khazari runs on clusters, short vowels and back fricatives. Nothing in the sound of either suggests the other.
 
@@ -2844,7 +2844,7 @@ Every stem and word this page uses, and several hundred more, stand in the [[ski
 
 ## Sinale Lexicon {#lexicon}
 
-This is the word-hoard of the [[skill-sinalelng|Sinale]] tongue: the words a player or a GM reaches for when a Sinale speaks, sings, names a child or names a place. Every word here obeys the rules the language page sets out—its sounds, its harmony and its wearing—so a word made from these by those rules is a Sinale word.
+This is the word-hoard of the Sinale tongue: the words a player or a GM reaches for when a Sinale speaks, sings, names a child or names a place. Every word here obeys the rules the language page sets out—its sounds, its harmony and its wearing—so a word made from these by those rules is a Sinale word.
 
 Each word carries the field it belongs to. The last section is a register of every Sinale name the setting uses, with the note where each is met.
 

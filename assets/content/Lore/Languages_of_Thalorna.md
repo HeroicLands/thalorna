@@ -6,7 +6,7 @@ subType: reference
 data: {banner: null}
 ---
 
-This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the polities that speak them, and their linguistic heritage. Each language entry links to a full reference note with phonology, grammar, naming traditions, and name lists. [[doc-prnncthlrn|Pronouncing Thalorna]] sets out how every word in every language is written in our letters.
+Languages of Thalorna maps the languages spoken across [[place-worldthlrn|The World of Thalorna]], the polities that speak them, and their linguistic heritage. Each language entry links to a full reference note with phonology, grammar, naming traditions, and name lists. [[doc-prnncthlrn|Pronouncing Thalorna]] sets out how every word in every language is written in our letters.
 
 ## Western Ankaris (Mídhalión)
 
@@ -68,30 +68,30 @@ This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the po
 
 The languages of Thalorna fall into several broad families:
 
-Pelwar Family
-: Vylari, Élavendri, Áelendi, Nordmal, Varokhi, Tarveni, and Provenzal all descend from the ancient Pelwar tongue, brought by nomadic peoples who migrated across Ankaris millennia ago. Áelendi is the most conservative member of the family, preserving features that the other languages have lost. Élavendri descends directly from Áelendi. Speakers of Pelwar languages can sometimes catch fragments of each other's speech.
+[Pelwar Family]{.name data-type="lore"}
+: [[skill-vylarilng|Vylari Language]], [[skill-elvndrlng|Élavendri Language]], [[skill-aelendlng|Áelendi Language]], [[skill-nordmalng|Nordmal Language]], [[skill-varokhlng|Varokhi Language]], [[skill-tarvenlng|Tarveni Language]], and [[skill-provnzlng|Provenzal Language]] all descend from the ancient Pelwar tongue, brought by nomadic peoples who migrated across the [[place-ankrscntnnt|Ankaris Continent]] millennia ago. Áelendi is the most conservative member of the family, preserving features that the other languages have lost. Élavendri descends directly from Áelendi. Speakers of Pelwar languages can sometimes catch fragments of each other's speech.
 
-Helonic Family
-: Helonic, Bethuan, and Bizarian share a common ancestor. Helonic served as a prestige language across Mídhalión for centuries, and its influence can be found in the vocabularies of many other languages.
+[Helonic Family]{.name data-type="lore"}
+: [[skill-helonclng|Helonic Language]], [[skill-bethunlng|Bethuan Language]], and [[skill-byzarnlng|Bizarian Language]] share a common ancestor. Helonic served as a prestige language across [[place-midhalnrgn|Mídhalión Region]] for centuries, and its influence can be found in the vocabularies of many other languages.
 
 Desert Family
-: Dunhari and related dialects spoken across the Khazryn Desert and the Kingdom of Amradad. The Amradi courtly dialect is a refined register used in the courts of the Kingdom.
+: [[skill-dunharlng|Dunhari Language]] and related dialects spoken across the [[place-khzryndsrtrgn|Khazryn Desert Region]] and the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. The Amradi courtly dialect is a refined register used in the courts of the Kingdom.
 
 Eastern Isolates
-: Vedyari, Tantsou, and Khelathi are considered isolates or members of distinct families, with no close relationship to the western languages. Jurthati, the tongue of Jenchai, descends from Tantsou and is the one clear daughter-language among them. The [[skill-jurthatlng#lexicon|Jurthati Lexicon]] traces its words from their Tantsou roots.
+: [[skill-vedyarlng|Vedyari Language]], [[skill-tantsoulng|Tantsou Language]], and [[skill-khelathlng|Khelathi Language]] are considered isolates or members of distinct families, with no close relationship to the western languages. [[skill-jurthatlng|Jurthati Language]], the tongue of the [[place-jenchairgn|Jenchai Region]], descends from Tantsou and is the one clear daughter-language among them. The [[skill-jurthatlng#lexicon|Jurthati Lexicon]] traces its words from their Tantsou roots.
 
 Elder Tongues
-: Sinale and Khazari share a common ancestor that predates all human language on Thalorna. The two branches diverged long before human settlement.
+: [[skill-sinalelng|Sinale Language]] and [[skill-khazarlng|Khazari Language]] share a common ancestor that predates all human language on Thalorna. The two branches diverged long before human settlement.
 
 Ki'ichek
 : An independent language family with no known relatives on other continents.
 
 Isolates
-: Kalihari, Okharik, Grukar, Nyáluban, and Ekpelu each stand alone with no demonstrated relationship to other language families.
+: [[skill-kalihrlng|Kalihari Language]], [[skill-okharclng|Okharik Language]], [[skill-grukarlng|Grukar Language]], [[skill-nyalbnlng|Nyáluban Language]], and [[skill-ekpelulng|Ekpelu Language]] each stand alone with no demonstrated relationship to other language families.
 
 ## Scripts
 
-A script is not a language. Most of Thalorna's tongues are written in a script they share with their neighbors and have adapted to their own sounds, and a reader needs **both** the relevant Script skill and the relevant Language skill to make anything of a page. The [[skill-semrnscrpt|Semaron]] carries the most, because Vylari is the language of the educated across the empire and the lands that look to it, and where the language went the letters followed.
+A script is not a language. Most of Thalorna's tongues are written in a script they share with their neighbors and have adapted to their own sounds, and a reader needs **both** the relevant Script skill and the relevant Language skill to make anything of a page. The [[skill-semrnscrpt|Semaron Script]] carries the most, because Vylari is the language of the educated across the empire and the lands that look to it, and where the language went the letters followed.
 
 | Script                                        | Kind                                   | Written in                                                                    | Carries                                                                                            |
 | --------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
@@ -115,11 +115,11 @@ A script is not a language. Most of Thalorna's tongues are written in a script t
 
 The three runic scripts are cognate: Proto-Pelwar _thura-vark_, "graven work," hardened in the north, formalized in the empire, and softened in the highlands. That the Nordmen and the Vylarians call their runes by the same word is the plainest evidence that the two peoples are kin.
 
-The staves themselves are older than any of them. They correspond to a subset of Khazari [[skill-drthrkscrpt|Pirzath]] too closely for coincidence, and the standing account—undocumented, and unlikely ever to be settled—is that the **Proto-Pelwar tribes were Khazari subjects**, taught a reduced work-row in the mountains before they ever migrated west. One Pelwar rune-row came out of the mountains; the migrations broke it into three, so the modern rows are simplifications of a simplification, and the [[skill-semrnscrpt|Semaron]] is a further remove again. The shared name is part of the same evidence: a people who invent writing do not call it "the cutting," and all three branches carried that word west because all three carried the same borrowed row.
+The staves themselves are older than any of them. They correspond to a subset of Khazari [[skill-drthrkscrpt|Pirzath Script]] too closely for coincidence, and the standing account—undocumented, and unlikely ever to be settled—is that the **Proto-Pelwar tribes were Khazari subjects**, taught a reduced work-row in the mountains before they ever migrated west. One Pelwar rune-row came out of the mountains; the migrations broke it into three, so the modern rows are simplifications of a simplification, and the [[skill-semrnscrpt|Semaron]] is a further remove again. The shared name is part of the same evidence: a people who invent writing do not call it "the cutting," and all three branches carried that word west because all three carried the same borrowed row.
 
-The Khazari treat the matter as obvious and deny it was any kind of uplift—what was taught was tally, mark, measure and oath, a tool and not a civilization. The Nordmen deny the whole thing flatly, the runes being **Odvar**'s and not a smith's, and the subjection rather more flatly still. Vylarian antiquarians embrace the parts that embarrass the Nordmen and handle the rest with great care.
+The Khazari treat the matter as obvious and deny it was any kind of uplift—what was taught was tally, mark, measure and oath, a tool and not a civilization. The Nordmen deny the whole thing flatly, the runes being **[[lore-odvardty|Odvar]]**'s and not a smith's, and the subjection rather more flatly still. Vylarian antiquarians embrace the parts that embarrass the Nordmen and handle the rest with great care.
 
-**Tongues with no script of their own.** [[skill-varokhlng|Varokhi]] has none by choice, and treats borrowed letters as foreign tools. [[skill-valtarlng|Valtari]] has none because it belongs to nobody: a dockside tally is set down in whatever letters the writer happens to know, with no orthography and no agreement between one harbor and the next. [[skill-nyalbnlng|Nyáluban]] is carried by griots and drums, and its written experiments remain marginal. [[skill-grukarlng|Grukar]] is not written at all, and could not be.
+**Tongues with no script of their own.** [[skill-varokhlng|Varokhi]] has none by choice, and treats borrowed letters as foreign tools. [[skill-valtarlng|Valtari Language]] has none because it belongs to nobody: a dockside tally is set down in whatever letters the writer happens to know, with no orthography and no agreement between one harbor and the next. [[skill-nyalbnlng|Nyáluban]] is carried by griots and drums, and its written experiments remain marginal. [[skill-grukarlng|Grukar]] is not written at all, and could not be.
 
 ## Romanizing Thalorna
 

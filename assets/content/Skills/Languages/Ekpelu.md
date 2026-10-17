@@ -327,7 +327,7 @@ sohl:
   flags: {"thalorna": {lang_family: Isolate}}
 ---
 
-Ekpelu is the tongue of the forest peoples of [[place-cntrlrnfrsts|the Central Rainforests]]. The River-keepers, the Canopy foragers, the Court-keepers and the Edge-people all speak it, and a band from one tradition can be understood by a band from another. Fluency measures how much of it a speaker commands, from the trade words a river-trader picks up to the full speech of a song-band at night. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Ekpelu Language is the tongue of the forest peoples of the [[place-cntrlrnfrsts|Central Rainforests]]. The [[lore-luwandoclt|Luwando]] (River-keepers), the [[lore-yesomaclt|Yesoma]] (Canopy foragers), the [[lore-kubindoclt|Kubindo]] (Court-keepers) and the [[lore-pewayeclt|Pewaye]] (Edge-people) all speak it, and a band from one tradition can be understood by a band from another. Fluency measures how much of it a speaker commands, from the trade words a river-trader picks up to the full speech of a song-band at night. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
@@ -335,7 +335,7 @@ _Ekpelu_ is the people's own word for speech, and they use it for no other tongu
 
 The four traditions speak it with different accents and use different words for their sacred things, but there are no branches of the language and no grammar that separates one from another. Outsiders do not hear the accents, and the words for the sacred are not spoken to outsiders.
 
-Outsiders have never agreed on a name for it. [[skill-okharclng|Okharik]] river-traders call it the speech of the shadow, after the shade of the forest, [[skill-nyalbnlng|Nyáluban]] caravan-masters the quiet speech, and northern scholars, who have set down only a few hundred words of it, the common tongue of the forest.
+Outsiders have never agreed on a name for it. River-traders speaking [[skill-okharclng|Okharik Language]] call it the speech of the shadow, after the shade of the forest, caravan-masters speaking [[skill-nyalbnlng|Nyáluban Language]] the quiet speech, and northern scholars, who have set down only a few hundred words of it, the common tongue of the forest.
 
 ## How Ekpelu sounds
 
@@ -407,7 +407,7 @@ A person carries one name, a root of the forest or a thing seen on the day of th
 
 ## Ekpelu Lexicon {#lexicon}
 
-The forest peoples of central Zerathia keep no books, and this page is the nearest thing to one: the word-hoard of [[skill-ekpelulng|Ekpelu]], their common tongue. The vocabulary is small and concrete. It names the river, the fire, the band, the spirit and the four standings a person can hold, and it leaves finer matters to gesture, song and the long habit of living together.
+The forest peoples of central [[place-xerathia|Zerathia]] keep no books, and this page is the nearest thing to one: the word-hoard of Ekpelu, their common tongue. The vocabulary is small and concrete. It names the river, the fire, the band, the spirit and the four standings a person can hold, and it leaves finer matters to gesture, song and the long habit of living together.
 
 An Ekpelu word is built from a short root, and an ending says how a person stands toward it: _luwa_ is a river, _luwando_ is one who keeps a river, and _luwala_ is the band that follows it. A name is two words, the head first and the quality after: _Luwa Gbasa_ is the Dark River.
 

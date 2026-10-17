@@ -515,7 +515,7 @@ sohl:
 # terran_analog: the speculative distant connections are to the languages of sub-equatorial Africa
 ---
 
-Nyáluban is a tongue of the Nyáluban (isolate) family. Fluency measures the sophistication of expression in Nyáluban, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Nyáluban Language is a tongue of the Nyáluban (isolate) family. Fluency measures the sophistication of expression in Nyáluban, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
@@ -699,7 +699,7 @@ The historical record of Nyáluban is preserved almost entirely through oral tra
 
 ### Contact-Induced Change
 
-In the last 500 years, intensifying contact with neighboring peoples (particularly Okhárik-speaking peoples to the north) has introduced loanwords, particularly in the domains of trade, warfare, and new technologies. These loanwords are often phonetically adapted to fit Nyáluban phonotactic patterns.
+In the last 500 years, intensifying contact with neighboring peoples (particularly peoples speaking [[skill-okharclng|Okharik Language]] to the north) has introduced loanwords, particularly in the domains of trade, warfare, and new technologies. These loanwords are often phonetically adapted to fit Nyáluban phonotactic patterns.
 
 ### Modern Dialect Variation
 
@@ -976,9 +976,9 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 
 ## Nyáluban Lexicon {#lexicon}
 
-The five clans of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] keep no books, and this page is the nearest thing to one: the word-hoard of [[skill-nyalbnlng|Nyáluban]] and of its [[skill-nyalbdrm|Drum-Speech]], the stems the griots and the drum-speakers use, what each ending and prefix makes of them, the rules a new word is built by, and the register of every name the setting gives among the five clans.
+The five clans of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] keep no books, and this page is the nearest thing to one: the word-hoard of Nyáluban and of its [[skill-nyalbdrm|Nyáluban Drum-Speech]], the stems the griots and the drum-speakers use, what each ending and prefix makes of them, the rules a new word is built by, and the register of every name the setting gives among the five clans.
 
-A Nyáluban noun stands in a class its prefix marks, and an ending says what a word has become: _ruwo_ is the lion, and _Ruwozi_ is the clan of the lion, the people who are _of_ it. A name of rank is two words, the head first and the thing it stands for after: _Nyoli Ruwozi_ is the Daughter of the Lion, and _Shorinya Ndafo_ is the Great Brightness.
+A Nyáluban noun stands in a class its prefix marks, and an ending says what a word has become: _ruwo_ is the lion, and _[Ruwozi]{.name data-type="affiliation/polity"}_ is the clan of the lion, the people who are _of_ it. A name of rank is two words, the head first and the thing it stands for after: _Nyoli Ruwozi_ is the Daughter of the Lion, and _[[lore-shorinyadty|Shorinya Ndafo]]_ is the Great Brightness.
 
 The sound of Nyáluban is open and sung. Every syllable is a consonant and a vowel or a vowel alone, every word closes on a vowel, and a nasal before a stop opens many words and stands inside many more: _mb_, _nd_, _nk_, _nj_. No word has a fricative and a stop together, so none opens on _sp_, _st_ or _sk_. Pitch carries meaning, which is what lets a drum speak it; the pages mark a high tone with the acute and a low one with the grave, and neither changes the letter beneath it.
 
@@ -1017,7 +1017,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-nyalbnlng'
 
 ## Building words {#building-words}
 
-Nouns fall into classes marked by prefixes, and a nasal prefix before a stop is how many words come to open on _mb_, _nd_ or _nk_; the [[skill-nyalbnlng|Nyáluban]] note sets the classes out. Two moves make every built word on this page. **An ending on a stem:** each ending says what the stem has become. **A head and what it stands for:** a name of rank or of a place sets the head word first and the word it stands for after it, with no ending between them, and _nu_ joins a person to a clan.
+Nouns fall into classes marked by prefixes, and a nasal prefix before a stop is how many words come to open on _mb_, _nd_ or _nk_; this note sets the classes out. Two moves make every built word on this page. **An ending on a stem:** each ending says what the stem has become. **A head and what it stands for:** a name of rank or of a place sets the head word first and the word it stands for after it, with no ending between them, and _nu_ joins a person to a clan.
 
 ### Suffixes
 
@@ -1032,7 +1032,7 @@ ORDER BY position
 
 ### Clan and totem
 
-Four of the five clans the Pact binds are named for their totems with _-zi_: the lion-clan are the _Ruwozi_, the crocodile-clan the _Kolembozi_, the eagle-clan the _Ngonzi_ and the baobab-clan the _Lobwezi_. The leopard-clan, the _Sengala_, carry a name that no ending on this page reaches.
+Four of the five clans the [Long Pact]{.name data-type="lore/law"} binds are named for their totems with _-zi_: the lion-clan are the _Ruwozi_, the crocodile-clan the _[Kolembozi]{.name data-type="affiliation/polity"}_, the eagle-clan the _[Ngonzi]{.name data-type="affiliation/polity"}_ and the baobab-clan the _[Lobwezi]{.name data-type="affiliation/polity"}_. The leopard-clan, the _[Sengala]{.name data-type="affiliation/polity"}_, carry a name that no ending on this page reaches.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
@@ -1043,7 +1043,7 @@ ORDER BY position
 
 ### The Pact and the council
 
-The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the Great Lubemo is the one that renews the Pact. It meets at _Heto Lubemo_, the enclosure of the council, one of the Old Hetos of the stone-builders.
+The council of the five is a _lubemo_, a sitting that talks until the objections stop, and the [Great Lubemo]{.name data-type="affiliation/governmental"} is the one that renews the Pact. It meets at _[[place-hetolubemo|Heto Lubemo]]_, the enclosure of the council, one of the Old Hetos of the stone-builders.
 
 ### The Brightness and the guides
 
@@ -1056,7 +1056,7 @@ ORDER BY position
 
 ### Given names
 
-A given name is a root with the man's ending _-o_ or the woman's _-a_, and the root is a thing hoped for the child: the tracker's name _Tabeso_ is built on following a trail, and the spirit-speaker's name _Lusheya_ on the rain.
+A given name is a root with the man's ending _-o_ or the woman's _-a_, and the root is a thing hoped for the child: the tracker [[being-tabesnfnjr|Tabeso nu Fénjara]]'s given name _Tabeso_ is built on following a trail, and the spirit-speaker [Lusheya nu Kolembozi]{.name data-type="being/npc"}'s given name _Lusheya_ on the rain.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
@@ -1076,7 +1076,7 @@ ORDER BY position
 
 ## Making names {#making-names}
 
-**A person** carries a given name and a clan or tribe, joined by _nu_: [[being-tabesnfnjr|Tabeso nu Fénjara]] is Tabeso, of the Fénjara. A man's given name commonly closes on _-o_, and a woman's on _-a_; the name lists in [[skill-nyalbnlng|Nyáluban]] hold the names in use, and a name of standing such as _Nyoli Ruwozi_ passes from one holder to the next.
+**A person** carries a given name and a clan or tribe, joined by _nu_: [[being-tabesnfnjr|Tabeso nu Fénjara]] is Tabeso, of the [[affiliation-fenjara|Fénjara]]. A man's given name commonly closes on _-o_, and a woman's on _-a_; the name lists above hold the names in use, and a name of standing such as _Nyoli Ruwozi_ passes from one holder to the next.
 
 **A clan** of the Pact is named for its totem with _-zi_, the Sengala apart. **A place** is named by a head word and what it stands for: _Heto Lubemo_, the enclosure of the council.
 

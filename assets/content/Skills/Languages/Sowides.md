@@ -672,7 +672,7 @@ sohl:
   flags: {"thalorna": {lang_family: Sovidur (isolate)}}
 ---
 
-Sovidur is the tongue of the herding tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]], who call themselves _Sovidur_, "the riders", from _sovid_ "rider" and _-ur_ "a people". Each tribe speaks it with its own turns of phrase, and a rider of one tribe is understood in all the others. It is the tongue in which caravan passage is bargained for, so a caravan-master who crosses the Khazryn learns its numbers and its courtesies first. Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Sovidur Language is the tongue of the herding tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]], who call themselves _[[lore-sowidesclt|Sovidur]]_, "the riders", from _sovid_ "rider" and _-ur_ "a people". Each tribe speaks it with its own turns of phrase, and a rider of one tribe is understood in all the others. It is the tongue in which caravan passage is bargained for, so a caravan-master who crosses the Khazryn learns its numbers and its courtesies first. Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## How Sovidur sounds
 

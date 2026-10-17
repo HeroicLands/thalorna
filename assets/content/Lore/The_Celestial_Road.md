@@ -8,13 +8,13 @@ tags: [reference, trade, economy]
 data: {packFolder: settinglore}
 ---
 
-A caravan-master explains the road to a young factor on his first crossing, and he begins with the arithmetic. Silk costs a hundred weights of silver at the Tantsou customs-house and sells for four or five hundred at [[affiliation-karvashion|Karvashion]]. The difference pays the tribes, the camels, the riders and the dead, and on a good crossing a little remains.
+A caravan-master explains The Celestial Road to a young factor on his first crossing, and he begins with the arithmetic. Silk costs a hundred weights of silver at the [[place-tantsouregin|Tantsou Region]] customs-house and sells for four or five hundred at [[affiliation-karvashion|Karvashion]]. The difference pays the tribes, the camels, the riders and the dead, and on a good crossing a little remains.
 
 This note sets out the road: its route and length, the wells and the hand-offs, the beasts, the goods, what each stretch costs, who guarantees what, and why merchants pay all of it instead of going by sea.
 
 ## The Route
 
-The road runs about 2,500 miles from the last fortified caravanserai of Bizaria's [[place-eastrnmrch|Eastern March]] to the garrison and customs-house on [[place-tantsouregin|Tantsou]]'s western pass. It bends from well to well, so it is a tenth longer than the straight line. East-bound it crosses three of the [[place-khzryndsrtrgn|Khazryn]]'s zones.
+The road runs about 2,500 miles from the last fortified caravanserai of [[place-byzariargn|Bizaria Region]]'s [[place-eastrnmrch|Eastern March]] to the garrison and customs-house on Tantsou's western pass. It bends from well to well, so it is a tenth longer than the straight line. East-bound it crosses three of the [[place-khzryndsrtrgn|Khazryn Desert Region]]'s zones.
 
 | Stretch                      | Miles          | Days      | The ground                                                              |
 | ---------------------------- | -------------- | --------- | ----------------------------------------------------------------------- |
@@ -42,11 +42,11 @@ East-bound; the road west reverses them.
 | 2,150          | 115      | the first Tantsou patrols                           | an escort of the Empire's riders for the last stretch                 |
 | 2,500          | 130      | the western pass of Tantsou                         | the garrison and customs-house; the Empire's claim begins             |
 
-**Branches.** A northern branch comes down from Velanthia's eastern reach and joins the road before Qiiso, carrying furs and amber. A southern spur leaves Qiiso, crosses [[place-dkrqrrgn|Diqraqor]] in about twenty days and reaches the Tellumel. From there roads run west to Amradad and south to the pass-towns of [[place-meghadvara|Meghadvara]] and [[place-suryadvara|Suryadvara]].
+**Branches.** A northern branch comes down from [[place-velanthrgn|Velanthia Region]]'s eastern reach and joins the road before [[place-qisomrktcmp|Qiiso]], carrying furs and amber. A southern spur leaves Qiiso, crosses [[place-dkrqrrgn|Diqraqor]] in about twenty days and reaches the Tellumel. From there roads run west to the [[affiliation-kngdmmrdd|Kingdom of Amradad]] and south to the pass-towns of [[place-meghadvara|Meghadvara]] and [[place-suryadvara|Suryadvara]].
 
 ## Beasts
 
-The two-humped camel carries the road. It takes cold and heat, goes five to seven days between wells with a full load, and eats what grows. The one-humped camel works the Tellumel and the Dunhari side. Horses carry the riders and escort, and are driven east as goods, since a horse walks itself to market. Mules and yaks work only the Grazian passes.
+The two-humped camel carries the road. It takes cold and heat, goes five to seven days between wells with a full load, and eats what grows. The one-humped camel works the Tellumel and the Dunhari side. Horses carry the riders and escort, and are driven east as goods, since a horse walks itself to market. Mules and yaks work only the passes of [[place-graznmntns|The Grazian Mountains]].
 
 **No wheeled vehicle crosses**, for four reasons that any caravan-master gives. Draught oxen drink every day, and the wells are days apart. The sand seas swallow a wheel, and the gravel and the salt crust break an axle. There is no timber for a repair between the March and Tantsou. And the wells are dug, roofed and priced for camels. The March's paved road stops at the pass, and so does every cart.
 
@@ -99,16 +99,16 @@ A loaded camel string makes 20 to 25 miles on a marching day, starting before da
 
 A courier with remounts and the right tokens crosses in about **45 days**. The tribes sell this service too, at a price only a court pays.
 
-The road runs in spring and autumn. Summer kills beasts in the central sands, and winter closes Idvaqor with snow. A caravan leaves the March at the spring equinox, to be across the sands before the heat, or at the end of summer, and reaches Idvaqor at the first snows. Two fleets a year in each direction is the whole through traffic.
+The road runs in spring and autumn. Summer kills beasts in the central sands, and winter closes [[place-idwkrrgn|Idvaqor]] with snow. A caravan leaves the March at the spring equinox, to be across the sands before the heat, or at the end of summer, and reaches Idvaqor at the first snows. Two fleets a year in each direction is the whole through traffic.
 
 ## Why Overland
 
 A merchant in Tantsou can send his silk by sea, and few do. Every leg of the sea route is worse than the one before it.
 
-1. **Pirates.** Strongholds on the islands between Tantsou and Vedyara harass the shipping of southern Tantsou, and make the first leg perilous.
+1. **Pirates.** Strongholds on the islands between Tantsou and the [[place-vedyarargn|Vedyara Region]] harass the shipping of southern Tantsou, and make the first leg perilous.
 2. **Vedyara.** Rounding the subcontinent is hard, and its passes are no road west: each of the six carries three or four caravans a year, and the guides keep half the value.
-3. **The way on by land.** The shortest road from Vedyara's western end to Amradad crosses Dunhara, desert and tribal land, or goes through Au'Khelathu, where the [[lore-garauu|Gar-Au]] takes a heavy cut on all goods bound for the [[place-vylarianse|Vylarian Sea]].
-4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tantsou to [[place-midhalnrgn|Mídhalión]] must sail round the whole of [[place-xerathia|Zerathia]], the longest voyage in the world.
+3. **The way on by land.** The shortest road from Vedyara's western end to Amradad crosses the [[place-dunharargn|Dunhara Region]], desert and tribal land, or goes through the [[place-aukhelathrgq|Au'Khelathu Region]], where the [[lore-garauu|Gar-Auu]] takes a heavy cut on all goods bound for the [[place-vylarianse|Vylarian Sea]].
+4. **The way on by sea.** The Vylarian Sea opens to the ocean only through a narrow western strait, so a ship bound from Tantsou to [[place-midhalnrgn|Mídhalión Region]] must sail round the whole of [[place-xerathia|Zerathia]], the longest voyage in the world.
 
 The sea passage costs as many months as the camels and loses a larger share of what it carries. The Khazryn road is shorter, its losses are known, and every toll on it can be reckoned before the caravan leaves the March.
 
@@ -117,7 +117,7 @@ The sea passage costs as many months as the camels and loses a larger share of w
 - A tribe has closed its wells to every caravan because its dovaq was killed by a rider of a neighboring tribe, and the rider's tribe has sworn that its range was never at fault.
 - A great leader is gathering tribes along the road into an orkunoq, and his first act has been to double every price.
 - A caravan master has died on the march and the heir cannot read his father's list.
-- A string has come out of the Long Dry with half its camels dead and its water gone, and a guide of the hidden-water bands at the edge of the sand is offering to sell it more than water.
+- A string has come out of the [Long Dry]{.name data-type="place/feature"} with half its camels dead and its water gone, and a guide of the hidden-water bands at the edge of the sand is offering to sell it more than water.
 
 ## See Also
 

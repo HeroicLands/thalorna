@@ -1201,15 +1201,15 @@ sohl:
   flags: {"thalorna": {lang_family: Pelwar}}
 ---
 
-Nordmal is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Nordmal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Nordmal Language is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Nordmal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Nordmal is the tongue of the frozen north, spoken across the five Nordmen kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-aelwyth|Aelwyth]] where Nordman settlers have established communities among the Élavendri lands. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
+Nordmal is the tongue of the frozen north, spoken across the five [[lore-nordheimnclt|Nordheimn]] kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-aelwyth|Aelwyth]] where Nordman settlers have established communities among the lands of [[place-elavendre|Élavendre]]. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
 
 ## Overview
 
 Nordmal speakers are known for direct, forceful speech. The language employs strong stress patterns, guttural consonants, and harsh consonant clusters that give it a martial character. Yet beneath this severity lies a poetic tradition of considerable depth—the skalds (bards and poets) of the north compose intricate verse in Nordmal, using complex alliterative patterns and kennings (metaphorical names) that require years of training to master.
 
-The language stands apart from southern Pelwar tongues, having developed in relative isolation across centuries of harsh climate and independent kingdom politics. Mutual intelligibility with Vylari exists but requires effort; Nordmal speakers and southern Pelwar speakers often resort to simplified trade speech or the more neutral Provenzal when diplomatic precision is required.
+The language stands apart from southern Pelwar tongues, having developed in relative isolation across centuries of harsh climate and independent kingdom politics. Mutual intelligibility with [[skill-vylarilng|Vylari Language]] exists but requires effort; Nordmal speakers and southern Pelwar speakers often resort to simplified trade speech or the more neutral [[skill-provnzlng|Provenzal Language]] when diplomatic precision is required.
 
 ## How Nordmal sounds
 
@@ -1223,7 +1223,7 @@ Nordmal is hammer-stressed and short: one or two syllables, with the weight on t
 
 **Endings.** Nordmal words end on a consonant or on _-a_ or _-i_. Names take _-inna_, _-ira_ or _-ann_.
 
-**What Nordmal leaves out.** It has no _w_, which is Varokhi's. It has no _kh_, _gh_ or _zh_, and no word of more than three syllables.
+**What Nordmal leaves out.** It has no _w_, which is [[skill-varokhlng|Varokhi Language]]'s. It has no _kh_, _gh_ or _zh_, and no word of more than three syllables.
 
 ## Phonology
 
@@ -1283,7 +1283,7 @@ FROM name_shapes WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY posit
 
 Stress falls on the first syllable of every word without exception, so a Nordmal name has exactly one beat and it lands at the front. That is what lets a name be said correctly on sight: AL-thmyl, VRA-thy-ra, HLARTH-a-ruk.
 
-A name-stem is one syllable and carries a short vowel, so in a given name or a ting-built clan name every long vowel falls after the stress, inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee where the ending is one syllable, a dactyl where it is two. A compound has as many syllables as its elements bring and no fixed count, and it may carry its length in the stressed syllable, which is the audible difference between a bestowed name and a made one—Solrún and Thrunvald open long, Althmil and Hlartharuk open short.
+A name-stem is one syllable and carries a short vowel, so in a given name or a ting-built clan name every long vowel falls after the stress, inside the ending. A stem-and-ending name therefore runs two syllables or three and never one or four: a trochee where the ending is one syllable, a dactyl where it is two. A compound has as many syllables as its elements bring and no fixed count, and it may carry its length in the stressed syllable, which is the audible difference between a bestowed name and a made one—[[lore-solrundty|Solrún]] and [[lore-thrunvalddty|Thrunvald]] open long, Althmil and Hlartharuk open short.
 
 Alliteration binds, and end rhyme does nothing. A skald binds a line by repeating the onset, and a hall binds its generations the same way: a line whose name-giver was Hlarthvir names its sons Hlirthmil and its grandsons Hlurthann, so the onset holds steady down the generations while the ablaut grade turns over. A coined name that alliterates with nothing in the hall it belongs to is as wrong as a coined name with the wrong grade.
 
@@ -1297,11 +1297,11 @@ Alliteration binds, and end rhyme does nothing. A skald binds a line by repeatin
 
 ## Script & Literacy
 
-Nordmal traditionally employs a runic script (the ancient [[skill-thuravarkscript|Thuravark]], adapted for Pelwar sounds, and in all likelihood inherited, by way of a Proto-Pelwar row learned from the Khazari when the Pelwar tribes were their subjects—a claim the Nordmen refuse to hear) for formal and sacred writing. The runic system is considered more noble and traditional than the alphabetic script used for trade and common writing. High-status texts—legal documents, genealogies, religious texts—are written in runes.
+Nordmal traditionally employs a runic script (the ancient [[skill-thuravarkscript|Thuravark Runic Script]], adapted for Pelwar sounds, and in all likelihood inherited, by way of a Proto-Pelwar row learned from the [[lore-flkkhazar|Khazár Folk]] when the Pelwar tribes were their subjects—a claim the Nordmen refuse to hear) for formal and sacred writing. The runic system is considered more noble and traditional than the alphabetic script used for trade and common writing. High-status texts—legal documents, genealogies, religious texts—are written in runes.
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The [[skill-semrnscrpt|Semaron]] alphabet has become increasingly common for practical purposes, particularly in trade and maritime contexts. True literacy remains rare—confined to the priesthood, professional scribes, and a small minority of the nobility (perhaps 10-20%). Many jarls and thanes consider reading a scribe's task, not a warrior's, and keep household scribes for correspondence and record-keeping. Even in trading cities, most merchants rely on scribes for contracts and correspondence; a guildsman may recognize common trade marks and numerals but cannot read continuous text. Inland and rural populations are almost entirely non-literate. However, the cultural prestige of poetry and sagas means many non-literate Nordmen can recite extensive oral literature from memory.
+The [[skill-semrnscrpt|Semaron Script]] has become increasingly common for practical purposes, particularly in trade and maritime contexts. True literacy remains rare—confined to the priesthood, professional scribes, and a small minority of the nobility (perhaps 10-20%). Many jarls and thanes consider reading a scribe's task, not a warrior's, and keep household scribes for correspondence and record-keeping. Even in trading cities, most merchants rely on scribes for contracts and correspondence; a guildsman may recognize common trade marks and numerals but cannot read continuous text. Inland and rural populations are almost entirely non-literate. However, the cultural prestige of poetry and sagas means many non-literate Nordmen can recite extensive oral literature from memory.
 
 ## Historical Development
 
@@ -1317,7 +1317,7 @@ The five Nordmen kingdoms maintained relative political independence, preventing
 
 **Interior Highland:** Spoken in mountainous regions inland, preserves more archaic features.
 
-**Frontier Speech (Aelwyth Nordmal):** A mixed variety spoken in north-eastern Aelwyth, where the Nordmen of Stormveld hold land, incorporating some Élavendri vocabulary and showing phonetic simplification due to bilingual contact.
+**Frontier Speech (Aelwyth Nordmal):** A mixed variety spoken in north-eastern Aelwyth, where the Nordmen of [[place-stormveld|Stormveld]] hold land, incorporating some [[skill-elvndrlng|Élavendri Language]] vocabulary and showing phonetic simplification due to bilingual contact.
 
 ## Sample Phrases
 
@@ -1368,7 +1368,7 @@ The giant is _thurs_, the void beyond creation is _ginn_ and an age is _ald_, an
 
 Nordmal stands closest to [[skill-varokhlng|Varokhi]], sharing many archaic Pelwar features and phonetic similarities. The two languages are technically mutually intelligible to speakers with training, though the difference in written forms (Nordmal uses runes, Varokhi has no written form) and regional divergence create barriers.
 
-The relationship to southern Pelwar languages ([[skill-vylarilng|Vylari]], [[skill-provnzlng|Provenzal]], [[skill-tarvenlng|Tarveni]]) is more distant. Nordmal speakers find southern languages overly soft and imprecise; southern speakers find Nordmal difficult to understand due to its phonetic severity and archaic grammar.
+The relationship to southern Pelwar languages ([[skill-vylarilng|Vylari]], [[skill-provnzlng|Provenzal]], [[skill-tarvenlng|Tarveni Language]]) is more distant. Nordmal speakers find southern languages overly soft and imprecise; southern speakers find Nordmal difficult to understand due to its phonetic severity and archaic grammar.
 
 [[skill-elvndrlng|Élavendri]] has had some influence on Nordmal in frontier regions, particularly in western Aelwyth, but the languages remain largely separate. No clear cognates or structural similarities suggest the two languages were ever mutually intelligible.
 
@@ -1428,7 +1428,7 @@ FROM affixes WHERE language = 'thalorna-note-skill-nordmalng' AND kind IS NULL A
 
 An **element** is a piece that means something and does not stand alone as a word. Every compound name is elements and nothing else, so the lexicon is the whole of what a compound may be made of. The thirty-four name-stems are elements too, and the ones that carry the most weight: a place or a person named from a stem is named from the stock the halls themselves are named from.
 
-Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-melendir` give Stormmelendir. An element may take a joining `-s` or `-a` before the seam, which is why the world-ash is Heimsask and the skalds' circle Skaldahringr; those endings join an element to the next piece, and § _Place names_ gives the joining forms a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And any element may stand alone as a name by taking that same `-r` in place of a second element, which is how Minnir is built.
+Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-melendir` give Stormmelendir. An element may take a joining `-s` or `-a` before the seam, which is why the world-ash is [[lore-heimsask|Heimsask]] and [[affiliation-skaldscrcl|The Skalds' Circle]] is Skaldahringr; those endings join an element to the next piece, and § _Place names_ gives the joining forms a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And any element may stand alone as a name by taking that same `-r` in place of a second element, which is how Minnir is built.
 
 **A kept word is not an element.** The words in _The words the tongue keeps_
 are given whole, and no compound is built from one. An element that shares a
@@ -1466,7 +1466,7 @@ SELECT '`' || form || '`' AS "generic", sense AS "what it names", '`' || joining
 FROM elements WHERE language = 'thalorna-note-skill-nordmalng' AND kind = 'place' ORDER BY position
 ```
 
-**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy; ground held from the man who broke it takes his; ground held from the assembly takes the assembly's, as [[place-logstead|Logstead]] and [[place-hringstead|Hringstead]] carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrunvald's seat is Thrunborg and his mountain Thrumufjall. Ground the god dwells on rather than merely holds takes the name whole instead, with a joining `-s` or `-a` at the seam, so Odvar's hall is Ódvarsholl and Solrún's is Sólrunsholl. A founder's given name enters whole, with the same joining ending at the seam. Ground named for what it bears takes the element for that thing, so [[place-askholm|Askholm]] is the islet of the ash-tree and [[place-isdal|Isdal]] the dale of ice, and a beach where the seals haul out is named from _dvon-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the assembly of the **King of All Clans** convenes at [[place-domsey|Domsey]].
+**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy; ground held from the man who broke it takes his; ground held from the assembly takes the assembly's, as [[place-logstead|Logstead]] and [[place-hringstead|Hringstead]] carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrunvald's seat is [[place-thrunborg|Thrunborg]] and his mountain [[place-thrumufjall|Thrumufjall]]. Ground the god dwells on rather than merely holds takes the name whole instead, with a joining `-s` or `-a` at the seam, so [[lore-odvardty|Odvar]]'s hall is [[place-valsalhall|Ódvarsholl]] and Solrún's is [[place-solvangrhall|Sólrunsholl]]. A founder's given name enters whole, with the same joining ending at the seam. Ground named for what it bears takes the element for that thing, so [[place-askholm|Askholm]] is the islet of the ash-tree and [[place-isdal|Isdal]] the dale of ice, and a beach where the seals haul out is named from _dvon-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the assembly of the **King of All Clans** convenes at [[place-domsey|Domsey]].
 
 ```sql
 SELECT source AS "held from",
@@ -1504,7 +1504,7 @@ An office is an element and one of the office suffixes, and the suffix says what
 | `-vordr`, `-verdir` | the ward or keeper of a thing  |
 | `-skald`            | a sworn skald holding a charge |
 
-**An office suffix answers for something—a hov, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-hofding` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjóri` names the one office of a muster's or a household's master and stands in the table above. `-mál` makes the chair an order elects to speak for it, so the chair of [[affiliation-thursborn|the Giant's Children]] is the **Sarmál**, that of [[affiliation-gronverdir|the Green Wardens]] the **Gronmál** and that of [[affiliation-ordrstrmspkrs|the Storm-Speakers]] the **Hamarsmál**, and [[affiliation-malldbndlg|the Compact]] names its Speaker the **Bandalagstalsmadr**, a man of the league's speech. The ten suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
+**An office suffix answers for something—a hov, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-hofding` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjóri` names the one office of a muster's or a household's master and stands in the table above. `-mál` makes the chair an order elects to speak for it, so the chair of [[affiliation-thursborn|The Giant's Children]] is the **Sarmál**, that of [[affiliation-gronverdir|The Green Wardens]] the **Gronmál** and that of [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]] the **Hamarsmál**, and [[affiliation-malldbndlg|Málalidabandalag]] names its Speaker the **Bandalagstalsmadr**, a man of the league's speech. The ten suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
 
 **The rank is Skald.** The [[affiliation-skaldscrcl|Skalds' Circle]] writes its sworn rank, [[lore-skaldrnk|Skald]], with the acute, and so are the offices built on it: the **Hirvskáld** and the **Logskáld**, and in the plural the Hirvskaldar and the Logskaldar. Every other use carries no accent—the kept word _skald_, the `-skald` element, and a skald spoken of as the ordinary noun—so the mark tells a reader when the Circle's standing is meant.
 
@@ -1542,7 +1542,7 @@ The Nordmen tradition of _aettarnafn_ stands beside the bestowal endings and is 
 
 ### A seeress's name
 
-A velva who takes the high seat of a hall is known by a seeress's name rather than the one she was given at her naming. The name is granted, as an earned clan name is, so it takes no bestowal ending and is built as a compound of elements, closing the way a compound closes. **Aldrhildr**, who taught at [[place-thrunborg|Thrunborg]] and whom the [[lore-vthgdhstry|Vithgard histories]] name at the burning of Askholm, carries `aldr-`, an age in its strong form, and `-hild`, a battle, closing in the strong `-r`: the woman who stands against the age.
+A velva who takes the high seat of a hall is known by a seeress's name rather than the one she was given at her naming. The name is granted, as an earned clan name is, so it takes no bestowal ending and is built as a compound of elements, closing the way a compound closes. [Aldrhildr]{.name data-type="being/npc"}, who taught at [[place-thrunborg|Thrunborg]] and whom the [[lore-vthgdhstry|Histories and Legends of Vithgard]] name at the burning of Askholm, carries `aldr-`, an age in its strong form, and `-hild`, a battle, closing in the strong `-r`: the woman who stands against the age.
 
 ### Theonyms
 
@@ -1550,7 +1550,7 @@ A god's name is a compound, and its closing element says what the god is or does
 
 ### The names that stand
 
-Five names are older than the stem system and are not formed by any rule in it: **Nordheim**, **Malagna**, **Norgaad**, **Targud** and **Vithgard**, the five realms, with **Nordlands** for the whole. Asguard, the gods' world, and Mannguard, the north's own name for the world underfoot, are compounds under the rule above rather than names of that older layer. Nothing else in Nordmal stands outside the formation rules.
+Five names are older than the stem system and are not formed by any rule in it: **Nordheim**, **Malagna**, **Norgaad**, **Targud** and **Vithgard**, the five realms, with **[[place-nrdlndsrgn|Nordlands Region]]** for the whole. [[place-asguard|Asguard]], the gods' world, and the northern name for [[place-worldthlrn|The World of Thalorna]], Mannguard, are compounds under the rule above rather than names of that older layer. Nothing else in Nordmal stands outside the formation rules.
 
 ## Male Given Names
 

@@ -1370,15 +1370,15 @@ sohl:
 # terran_analog: Jurthati is an island daughter of the Tantsou stock, open-syllabled and mora-timed in the manner of Japanese beside a Chinese-shaped parent, and its inherited words lose the parent's -ng into long vowels as Japanese readings of Chinese do. The inherited words follow from Tantsou by the change table; the island words coined here are made to the rules and are not the Japanese or Chinese word for their meaning.
 ---
 
-Jurthati is a tongue of the Tantsou family. Fluency measures the sophistication of expression in Jurthati, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Jurthati Language is a tongue of the [Tantsou Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Jurthati, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Jurthati is the speech of the [[affiliation-jenchaiempr|Jenchai Empire]]—the great island and the lesser island east of the mainland, which their inhabitants call **Teyan Jenjai**, the Nine Mountains Above the Clouds of Heaven: the peaks stand above the clouds, and the people who live on them stand above every other people, the western mainland first among them. In speech the name shortens to **Jenjai**, the Nine Mountains, the native reading of the name the court writes _Jenchai_. It descends from the Tantsou brought across the strait a thousand years and more ago, and a thousand years of separation, mutual non-recognition and open war have made it a distinct language rather than a dialect. [[affiliation-tantsouempr|Tantsou]] does not concede this, and Tantsou grammarians still describe Jurthati as a provincial corruption; Jurthati scholars return the compliment by describing mainland speech as what happens to a language administered by clerks.
+Jurthati is the speech of the [[affiliation-jenchaiempr|Jenchai Empire]]—the great island and the lesser island of the [[place-jenchairgn|Jenchai Region]], east of the mainland, which their inhabitants call **Teyan Jenjai**, the Nine Mountains Above the Clouds of Heaven: the peaks stand above the clouds, and the people who live on them stand above every other people, the western mainland first among them. In speech the name shortens to **Jenjai**, the Nine Mountains, the native reading of the name the court writes _Jenchai_. It descends from the [[skill-tantsoulng|Tantsou Language]] brought across the strait a thousand years and more ago, and a thousand years of separation, mutual non-recognition and open war have made it a distinct language rather than a dialect. [[affiliation-tantsouempr|Empire of Tantsou]] does not concede this, and Tantsou grammarians still describe Jurthati as a provincial corruption; Jurthati scholars return the compliment by describing mainland speech as what happens to a language administered by clerks.
 
 The [[skill-jurthatlng#lexicon|Jurthati Lexicon]] gives the words in their native reading with the changes that make them from Tantsou, the endings of the honorific grid, and the rules a house or a granted name is built by.
 
 ## Overview
 
-Where [[skill-tantsoulng|Tantsou]] is a language of ministries—precise, compounding, built to specify—Jurthati is a language of obligation. Its distinctive machinery is social: an elaborate apparatus of honorific, humble and neutral verb forms that encodes the relative standing of speaker, listener and subject in nearly every sentence uttered. There is no neutral way to say that a man arrived. The verb must place him, and place the speaker relative to him, and a wrong choice is not a grammatical error but an insult with consequences in a society where a retainer's honor is a live instrument.
+Where Tantsou is a language of ministries—precise, compounding, built to specify—Jurthati is a language of obligation. Its distinctive machinery is social: an elaborate apparatus of honorific, humble and neutral verb forms that encodes the relative standing of speaker, listener and subject in nearly every sentence uttered. There is no neutral way to say that a man arrived. The verb must place him, and place the speaker relative to him, and a wrong choice is not a grammatical error but an insult with consequences in a society where a retainer's honor is a live instrument.
 
 The language is correspondingly indirect. A refusal is very rarely a negation; it is an expression of the difficulty of the thing, or of the speaker's own inadequacy to it, and a listener who takes it literally has misunderstood. This has ruined more than one mainland embassy.
 
@@ -1420,7 +1420,7 @@ Jurthati is open-syllabled and even: a consonant and a vowel, again and again.
 
 ## Script & Literacy
 
-Jurthati is written in [[skill-tengchouscript|Teng Chou]], the same logographic Celestial Record the mainland uses—the script is not tied to either language, and a Jurthati retainer and a Tantsou minister who cannot exchange three spoken sentences can negotiate in writing without difficulty. Neither court will concede a separate script to the other, so the islands write the mainland's characters and read them aloud in their own tongue.
+Jurthati is written in [[skill-tengchouscript|Teng Chou Script]], the same logographic Celestial Record the mainland uses—the script is not tied to either language, and a Jurthati retainer and a Tantsou minister who cannot exchange three spoken sentences can negotiate in writing without difficulty. Neither court will concede a separate script to the other, so the islands write the mainland's characters and read them aloud in their own tongue.
 
 Two island habits diverge. First, the reading of a character in Jurthati is frequently not its Tantsou reading, and educated Jurthati hold **two** readings for many characters—the native word and the borrowed mainland pronunciation—with the choice between them carrying its own register. The realm's name, its ranks and castes, its titles and its rites are spoken in the mainland pronunciation, tones and all, while the same characters read in the native way give _Jenjai_ for _Jenchai_ and _dozo_ for a great lord's _Daozhuo_. Second, calligraphy in the formal hand is a spiritual discipline in Jenchai rather than a bureaucratic qualification, studied by warrior-retainers alongside blade-work and tea-craft, so literacy runs higher among the island aristocracy than among the mainland rank they correspond to.
 
@@ -1428,11 +1428,11 @@ Two island habits diverge. First, the reading of a character in Jurthati is freq
 
 **Court Jurthati (Chai Kowen):** The prestige speech of the ceremonial Emperor's household and the great lords' courts. Slowest, most honorific-dense, and the standard for poetry.
 
-**Coastal dialects:** The speech of the harbor provinces, with a considerable Valtari and Tantsou trade vocabulary and much of the honorific grid worn smooth by use.
+**Coastal dialects:** The speech of the harbor provinces, with a considerable [[skill-valtarlng|Valtari Language]] and Tantsou trade vocabulary and much of the honorific grid worn smooth by use.
 
 **Mountain dialects:** Conservative, keeping a closing _-ng_ the standard has lengthened away, and often unintelligible to a coastal speaker at speed.
 
-**Shrine register:** Archaic, used in Celestial Order rites, and preserving mainland forms whole, tones and all, centuries after ordinary speech abandoned them.
+**Shrine register:** Archaic, used in [[affiliation-tengwouronglei|Téngwou Rong Lei]] rites, and preserving mainland forms whole, tones and all, centuries after ordinary speech abandoned them.
 
 ## Sample Phrases
 
@@ -1440,7 +1440,7 @@ Two island habits diverge. First, the reading of a character in Jurthati is freq
 : "Nine mountains, one heaven." (Proverbial; the claim to an undivided Mandate.)
 
 "Ja ku wa."
-: "The blade answers." (Of Ruising, the island form of ritual death, taken as a mode of speech.)
+: "The blade answers." (Of [Ruising]{.name data-type="lore/custom"}, the island form of ritual death, taken as a mode of speech.)
 
 "Chai ku jo bo?"
 : "Does the mountain fall?" (Of patience under pressure; the question needs no answer.)
@@ -1463,7 +1463,7 @@ Great Lords' houses take their names from features of their mountains—a peak, 
 
 ## Jurthati Lexicon {#lexicon}
 
-The islands of [[affiliation-jenchaiempr|Jenchai]] speak the mainland's words with the music taken out. Where a Tantsou minister sings _teng_ for heaven, rising through the syllable and closing on _-ng_, a Jurthati fisherman says _te_, the nasal gone into a long vowel and the rising tone left behind as a high pitch. A thousand years of separation have made [[skill-jurthatlng|Jurthati]] a language of open syllables and even beats: every word closes on a vowel or on _n_, two consonants meet inside a word only where an _n_ stands first, and the verb at the close of a sentence carries the speaker's whole relation to the listener and the subject.
+The islands of Jenchai speak the mainland's words with the music taken out. Where a Tantsou minister sings _teng_ for heaven, rising through the syllable and closing on _-ng_, a Jurthati fisherman says _te_, the nasal gone into a long vowel and the rising tone left behind as a high pitch. A thousand years of separation have made Jurthati a language of open syllables and even beats: every word closes on a vowel or on _n_, two consonants meet inside a word only where an _n_ stands first, and the verb at the close of a sentence carries the speaker's whole relation to the listener and the subject.
 
 This page is the word-hoard of the island tongue. It gives the inherited stock as the change table makes it from [[skill-tantsoulng#lexicon|Tantsou]], the island words beside it, the endings of the honorific grid, the rules a new word or name is built by, and the register of every name the setting gives in Jenchai.
 
@@ -1587,7 +1587,7 @@ ORDER BY position
 
 ### Tiers and forms
 
-[[skill-jurthatlng|Jurthati]] places every act it names. A verb takes one of three tiers: the **humble** `-nu` for the speaker's own act and his household's, the plain stem for an act of no standing, and the **honorific** `-dan` for the act of anyone above the speaker. On the tier sits the **polite** `-re` when the listener is owed courtesy, and on that the **witnessed** `-wu` when a third person of standing hears it. Three tiers, polite or plain, witnessed or not, make twelve forms of every verb, and the Honorific grid table below gives them for _wa_, to answer. The tier is decided by the subject, the polite form by the listener and the witnessed form by whoever else is in the room, so a retainer reporting his lord's answer to a guest in the lord's hall says _wadanrewu_.
+Jurthati places every act it names. A verb takes one of three tiers: the **humble** `-nu` for the speaker's own act and his household's, the plain stem for an act of no standing, and the **honorific** `-dan` for the act of anyone above the speaker. On the tier sits the **polite** `-re` when the listener is owed courtesy, and on that the **witnessed** `-wu` when a third person of standing hears it. Three tiers, polite or plain, witnessed or not, make twelve forms of every verb, and the Honorific grid table below gives them for _wa_, to answer. The tier is decided by the subject, the polite form by the listener and the witnessed form by whoever else is in the room, so a retainer reporting his lord's answer to a guest in the lord's hall says _wadanrewu_.
 
 Counters are set on a number, and the number on what it counts: _wenno wo_, five warriors. A counter is chosen by the shape of the thing counted.
 
@@ -1648,7 +1648,7 @@ The notes write these names in the learned reading, so they keep the mainland's 
 | _Leng Rui_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _re rui_       | the Dawn Rite, a rite in the learned reading                                                                                  |
 | _Chai Jui_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _chai jui_     | the Festival of the Mountain, a rite in the learned reading                                                                   |
 
-The proverbs and formulae the [[skill-jurthatlng|language note]] quotes are in the native reading. The mountain dialects keep a closing _-ng_ the standard speech has lengthened away, and the shrine register keeps mainland forms whole, tones and all.
+The proverbs and formulae the language note quotes are in the native reading. The mountain dialects keep a closing _-ng_ the standard speech has lengthened away, and the shrine register keeps mainland forms whole, tones and all.
 
 ## Scope {#scope}
 

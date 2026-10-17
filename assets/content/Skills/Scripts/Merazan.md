@@ -17,9 +17,9 @@ sohl:
   flags: {"thalorna": {script_family: Abjad}}
 ---
 
-The Merazan, the ledger-hand, is the writing of Taruzel and the oldest working script in the west—twenty-four letters, all of them consonants, written left to right, with the vowels supplied by the reader out of context or added above and below the line as circumflex, macron and acute. It descends from the proto-Ankarian writing that also produced [[skill-dnshkscrpt|Dunshak]] and [[skill-okhthztscrpt|Okhatha-zethu Script]]; the three are visibly cousins and mutually unreadable.
+The Merazan Script, the ledger-hand, is the writing of the [[place-taruzelrgn|Taruzel Region]] and the oldest working script in the west—twenty-four letters, all of them consonants, written left to right, with the vowels supplied by the reader out of context or added above and below the line as circumflex, macron and acute. It descends from the proto-Ankarian writing that also produced [[skill-dnshkscrpt|Dunshak Script]] and [[skill-okhthztscrpt|Okhatha-zethu Script]]; the three are visibly cousins and mutually unreadable.
 
-It is a script, not a tongue: a character needs **both** the Merazan and the relevant [[sohl-none-docskill-lang|Language]]. It carries [[skill-taruzelilng|Taruzeli]] natively, [[skill-valtarlng|Valtari]] in the southern ports, and, in the hands of a factor working far from home, whatever else needs recording.
+It is a script, not a tongue: a character needs **both** the Merazan and the relevant [[sohl-none-docskill-lang|Language]]. It carries [[skill-taruzelilng|Taruzeli Language]] natively, [[skill-valtarlng|Valtari Language]] in the southern ports, and, in the hands of a factor working far from home, whatever else needs recording.
 
 ## Pointing
 
@@ -27,7 +27,7 @@ The abjad's ambiguity is the whole of its character. Unpointed, _t-l-m_ may be r
 
 ## The apparatus around it
 
-Merazan literacy is inseparable from the machinery of Taruzeli commerce: houses of the [[affiliation-cnfdrtntrzlnstts|Confederation]] issue on paper of a known cut struck with the eight-pointed star, in a known hand, under a known wax. Forgery is therefore attacked on four fronts at once—the paper, the hand, the seal and the pointing—and the scribe who can read all four is worth more than the clerk who can merely read.
+Merazan literacy is inseparable from the machinery of Taruzeli commerce: houses of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] issue on paper of a known cut struck with the eight-pointed star, in a known hand, under a known wax. Forgery is therefore attacked on four fronts at once—the paper, the hand, the seal and the pointing—and the scribe who can read all four is worth more than the clerk who can merely read.
 
 ## Who has it
 

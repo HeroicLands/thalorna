@@ -7,7 +7,7 @@ tags: [souls, spirits, metaphysics, gm]
 data: {packFolder: settinglore}
 ---
 
-In the cosmology of Thalorna, the **soul** is the locus of identity and the connection between a being and the non-physical layer of reality. **Aura**, in game terms, is the measure of the soul's strength—its depth, coherence, and capacity to engage with the formless arcane potential.
+In The Truth of Souls, the cosmology of [[place-worldthlrn|The World of Thalorna]] holds that the **soul** is the locus of identity and the connection between a being and the non-physical layer of reality. **Aura**, in game terms, is the measure of the soul's strength—its depth, coherence, and capacity to engage with the formless arcane potential.
 
 Every living being has Aura. To have zero Aura would be to have no soul, and to have no soul would be not to live. The soul is what _makes_ the being living, in the metaphysical sense that matters. A body without a soul is meat. A soul without a body is a spirit. The two together are a mortal life.
 
@@ -48,7 +48,7 @@ The spirit realm has its own internal structure, though that structure is loose 
 
 **It is mostly undifferentiated.** Most of the spirit realm is featureless to mortal-shaped perception. Souls there move through what feels like an open expanse—vast, fluid, dimensionless. Distance and direction operate differently than in the material world; spirits travel by intent rather than by linear movement, and the realm responds to attention more than to geography.
 
-**Localized regions exist where presence has shaped the realm.** Where many souls have gathered, where significant events have occurred, where long traditions have established themselves, the realm takes on more defined character. The Aureldians' Field of the Blessed is a real region of the spirit realm, accreted from millennia of Aureldian death-traditions and divine attention. The Norden's Helheim is similar. The various ancestor pools of naturalistic peoples are likewise stable regions, sustained by the ongoing presence of ancestor spirits and the worship of their living descendants.
+**Localized regions exist where presence has shaped the realm.** Where many souls have gathered, where significant events have occurred, where long traditions have established themselves, the realm takes on more defined character. The [Field of the Blessed]{.name data-type="place/region"} of the [[lore-aureldianclt|Aureldian Culture]] is a real region of the spirit realm, accreted from millennia of Aureldian death-traditions and divine attention. The [[lore-nordheimnclt|Nordheimn]]'s [Helheim]{.name data-type="place/region"} is similar. The various ancestor pools of naturalistic peoples are likewise stable regions, sustained by the ongoing presence of ancestor spirits and the worship of their living descendants.
 
 **The gods' planes are adjacent.** Each god maintains its own plane of existence. From the spirit realm, these planes are accessible—a soul guided to a god's plane crosses from the spirit realm into the god's domain. The transition is not always clean (the boundary between the spirit realm and a god's plane may be subtle, ambiguous, or contested), but the general architecture holds. The gods' planes are connected to the spirit realm rather than separate from it. To reach a god's plane, one moves through the spirit realm first.
 
@@ -90,7 +90,7 @@ The cosmology of Thalorna is not the cosmology of one universe. There are many.
 
 Other parallel material planes exist, each with its own physics, peoples, history, and metaphysics. From the perspective of any one plane, the others are mostly inaccessible and largely unknown. The spirit realm connects them—a being in the spirit realm can, in principle, travel to any of them—but the connection is a thin one, and the travel is rarely undertaken.
 
-Most mortals throughout Thalorna's history know nothing of other planes. The very concept is the property of philosophers, mystics, and the occasional foreign traveler whose claims their listeners cannot quite credit. Even the Sinale, who know more about cross-planar reality than any human tradition, do not speak of it openly. The knowledge is reserved for those who have proven themselves able to handle it.
+Most mortals throughout Thalorna's history know nothing of other planes. The very concept is the property of philosophers, mystics, and the occasional foreign traveler whose claims their listeners cannot quite credit. Even the [[lore-flksinale|Sinale Folk]], who know more about cross-planar reality than any human tradition, do not speak of it openly. The knowledge is reserved for those who have proven themselves able to handle it.
 
 ### Cross-Planar Travel
 
@@ -112,7 +112,7 @@ Several categories of being native to other planes are nevertheless present on T
 
 The fae are a varied category. Some are small and trickster-like; some are great and dangerous; some are curious and benign; some are predatory in ways that target mortals specifically. What unites them is their non-native origin. They are visitors. Their long presence in Thalorna does not naturalize them.
 
-**The Sinale and the Khazar peoples** are another instance of cross-planar arrival, though far older. Both peoples came originally from another plane—different planes, possibly, or perhaps the same one—through thin places, in ages so distant that for the Sinale the journey is reverently remembered tradition rather than lived history, and for the Khazar it is mostly forgotten or mythologized.
+**The Sinale and the [[lore-flkkhazar|Khazár Folk]]** are another instance of cross-planar arrival, though far older. Both peoples came originally from another plane—different planes, possibly, or perhaps the same one—through thin places, in ages so distant that for the Sinale the journey is reverently remembered tradition rather than lived history, and for the Khazar it is mostly forgotten or mythologized.
 
 This origin explains a great deal about both peoples. The Sinale's longevity is not a strange variant on the human pattern; it is the natural lifespan of their species, brought from elsewhere. Their philosophical sophistication is not just the product of having lived long; it is the product of having _cross-planar perspective_. They came from somewhere else. They know that Thalorna's particular configuration of reality is one configuration among others. This is part of why their cosmological humility runs so deep: they have lived through making sense of a foreign reality, and they know that any framework—including the ones they themselves use—is always one possible framing among many.
 
@@ -178,7 +178,7 @@ This is the cosmological reason religion functions in Thalorna. Not the only rea
 
 Where do new souls come from? On this question, the cosmology is genuinely unclear, and different traditions hold different things—none verifiable from inside.
 
-**The reincarnation traditions** are the most certain. They hold that all souls are recycled. Every birth involves a soul that lived before, generally without retaining memory. The soul-pool is finite; what exists has always existed; nothing is lost and nothing is created. The cosmological elegance of this view is appealing, and traditions that hold it (including some Vedyaran lineages and the ports of Kalihara) build sophisticated theologies around it.
+**The reincarnation traditions** are the most certain. They hold that all souls are recycled. Every birth involves a soul that lived before, generally without retaining memory. The soul-pool is finite; what exists has always existed; nothing is lost and nothing is created. The cosmological elegance of this view is appealing, and traditions that hold it (including some Vedyaran lineages and the ports of [[place-klhrcntnnt|Kalihara Continent]]) build sophisticated theologies around it.
 
 **The animistic and ancestor traditions** sometimes hold that new souls come from the undifferentiated ancestor stuff in the spirit realm. As old ancestors fade and merge into the regional pool, the pool's substance becomes available—partly contributing to ongoing protection of newer ancestors, partly perhaps drawn upon for new births within the lineage. This view links the fading of ancestors to the arrival of new mortal lives in a single cycle. Some animistic theologies hold this explicitly; others imply it without articulating it.
 
@@ -190,7 +190,7 @@ Where do new souls come from? On this question, the cosmology is genuinely uncle
 
 **The agnostic traditions**—including, notably, the Sinale's most sophisticated theology—hold that the question is not answerable from within the cosmology. The mechanisms by which new souls come into being are not directly observable; the reports of mortals are partial; the gods (if asked) do not answer. The honest position is that the question is open and may remain open indefinitely.
 
-The cosmology of Thalorna does not commit. The GM may decide for any given soul or population which model applies—or may leave it open across the entire campaign, treating the question as one of the genuine mysteries of the world. None of the major game mechanics depend on the answer. Magic_Truth's account of Aura, the channeling mechanisms, and the death-and-transit architecture all work the same regardless of whether new souls are recycled or fresh. The question is theological, not mechanical.
+The cosmology of Thalorna does not commit. The GM may decide for any given soul or population which model applies—or may leave it open across the entire campaign, treating the question as one of the genuine mysteries of the world. None of the major game mechanics depend on the answer. [[doc-magictruth|The Truth of Magic]]'s account of Aura, the channeling mechanisms, and the death-and-transit architecture all work the same regardless of whether new souls are recycled or fresh. The question is theological, not mechanical.
 
 A practical note for the GM: the _grim default fate_ described above does not depend on the origin question either. Whether souls are recycled or fresh, an unprotected soul still ends up in the spirit realm and faces predation. The horror of the unreceived soul is structural to the cosmology, not contingent on which origin theory is correct.
 
@@ -276,7 +276,7 @@ The vast Aura of dragons makes their channeling correspondingly vast. Dragons ch
 
 The destabilization effect is the most consequential consequence of dragon-channeling. A dragon's continuous instinctual shaping of local potential is so dominant that it occupies the elemental currents in the area. Mortal mages near a dragon cannot maintain stable frameworks because the dragon's channeling overrides theirs. The mage's spells misfire, partly channeled before the framework collapses; the framework collapses because the underlying potential is no longer where the framework expected to find it; the result is wild discharge of partially-channeled magic, often with catastrophic consequences for the mage.
 
-This is the property the Vylarian Republic exploited in the Helionite war. It was not a weapon they invented; it was a property of dragons themselves, recognized and turned to military use.
+This is the property the [Vylarian Republic]{.name data-type="affiliation/polity"} exploited in [[lore-helionscnq|The Conquest of Helionis]]. It was not a weapon they invented; it was a property of dragons themselves, recognized and turned to military use.
 
 ### The Dragon Ancestor Pool
 
@@ -288,13 +288,13 @@ The pool functions as the dragons' totem and afterlife in one. Surviving dragons
 
 ### The Vylarian Compact and Its Betrayal
 
-In the years before the founding of the Thordimalon (the Arcane Order), the Vylarian Republic, locked in the Helionite war, found itself losing to mage-warlords whose unrestricted arcane work was tearing through the Republic's legions. The Republic needed something that could break magic, and it discovered that dragons, by their nature, did exactly that.
+In the years before the founding of [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order), the Vylarian Republic, locked in the Helionite war, found itself losing to mage-warlords whose unrestricted arcane work was tearing through the Republic's legions. The Republic needed something that could break magic, and it discovered that dragons, by their nature, did exactly that.
 
 How the Republic made contact with dragons is not part of the documented record. The Order's archives, suppressed and incomplete, do not say. What the records do say is that the Republic and the dragons reached some kind of agreement, and that dragons participated in the war, and that the Helionite mages were broken and the war ended.
 
 What was promised to the dragons in exchange for their participation is not known. The agreement may have included specific lands, specific recognitions, specific freedoms, specific protections. It may have included something stranger and more particular—concessions on matters that mattered to dragons in ways the Republic understood imperfectly. Whatever was promised, it was substantial enough that the dragons agreed.
 
-The Dragon Riders stood as a corps for nearly three centuries, from the war on. Around 45 BF the Republic did not renew the arrangement, the Riders were disbanded and the Eyrie of [[place-arvel|Arvel]] was sealed. The reason usually given is that the dragons' presence was incompatible with the Thordimalon, chartered in 73 BF out of the conquered Helionite College of Arcane Philosophy: its research would fail and its training would be impossible beside creatures that unravel magic.
+The [Dragon Riders]{.name data-type="affiliation"} stood as a corps for nearly three centuries, from the war on. Around 45 BF the Republic did not renew the arrangement, the Riders were disbanded and the [Eyrie of Arvel]{.name data-type="place/site"} at [[place-arvel|Arvel]] was sealed. The reason usually given is that the dragons' presence was incompatible with the Thordimalon, chartered in 73 BF out of the conquered Helionite College of Arcane Philosophy: its research would fail and its training would be impossible beside creatures that unravel magic.
 
 The Republic chose to break faith. The specifics—what was done, when, by whom—are among the most carefully suppressed records in Vylarian history. What seems certain: many dragons were killed. Some escaped. Some may have been captured, bound, or driven into hiding. The Dragon Riders who had bonded with dragons during the war were quietly disbanded; their dragons were taken from them, killed, or vanished.
 
@@ -310,7 +310,7 @@ Where the surviving dragons are, what they are doing, and what they intend are o
 - **Preparing.** The surviving dragons, possibly in counsel with the ancestor pool through whatever means dragons use for spirit-world consultation, may be preparing some response to the betrayal. The response may be slow—dragon time-scales are not human time-scales—but it may be coming.
 - **Some combination.** Different dragons in different places may be doing different things. The dragon nation, if it can be called that, is not necessarily unified in its approach to the post-betrayal era.
 
-The Order and the Empire have spent nearly eight centuries hoping the dragons forget. This is a false hope. Dragons do not forget. The dragon ancestor pool does not forget. The question is not whether the betrayal will eventually have consequences but when, in what form, and whether the consequences will be addressable when they arrive.
+The Order and the [[affiliation-vylarinmpr|Vylarian Empire]] have spent nearly eight centuries hoping the dragons forget. This is a false hope. Dragons do not forget. The dragon ancestor pool does not forget. The question is not whether the betrayal will eventually have consequences but when, in what form, and whether the consequences will be addressable when they arrive.
 
 The GM has wide latitude in deciding the dragons' current state and intentions for any given campaign. The cosmological framework supports any of the possibilities above; campaigns can be constructed around discovering which apply, around encountering specific surviving dragons, around the ancestor pool's eventual response, or around the slow return of dragons to the open world after their long withdrawal.
 
@@ -335,7 +335,7 @@ When a shaman seeks contact with an ancestor, the shaman _transfers their own so
 
 In neither case is the ancestor _pulled back_ against will or _bound_ to a corporeal medium. The shaman goes to them. The ancestor is consulted on their own terms. Both parties consent. The interaction respects the ancestor's continued residence in the spirit realm.
 
-This is not necromancy. It is sacred practice, and animistic and shamanic traditions are entirely correct to defend it as something different in kind from what necromancers do. The Sekran and other authorities sometimes lump the two together for political reasons (it is convenient to call all soul-related folk magic "necromancy" so as to suppress it uniformly), but the cosmological distinction is real and matters.
+This is not necromancy. It is sacred practice, and animistic and shamanic traditions are entirely correct to defend it as something different in kind from what necromancers do. The [Sekran]{.name data-type="affiliation"} and other authorities sometimes lump the two together for political reasons (it is convenient to call all soul-related folk magic "necromancy" so as to suppress it uniformly), but the cosmological distinction is real and matters.
 
 ### Forms of Necromantic Work
 
@@ -376,7 +376,7 @@ The key cosmological points to keep in mind when reading other documents:
 
 - **No mortal can make themselves undead.** The transformation always requires action by an external agent on a soul that has died or is dying. Self-application is structurally impossible.
 - **All the undead have creators**, who typically retain some degree of control over them.
-- **All the undead carry [[lore-theshadow|the Shadow]].** The necrotic force that binds a soul back into a body is the Shadow's corruption working on that soul, and it relates every undead to every other across every belief and culture.
+- **All the undead carry [[lore-theshadow|The Shadow]].** The necrotic force that binds a soul back into a body is the Shadow's corruption working on that soul, and it relates every undead to every other across every belief and culture.
 - **Damutu are produced by necromantic animation**—the binding of a soul, or fragments of one, to a corpse. The result varies enormously in quality depending on the necromancer's skill and the soul's state.
 - **Terebu are produced by elaborate ritual during life**, ending in the candidate's death and a delayed arising. The ritual does not require the original performer to be present at the moment of arising.
 - **All the undead degrade over time**, though terebu degrade much more slowly than damutu.

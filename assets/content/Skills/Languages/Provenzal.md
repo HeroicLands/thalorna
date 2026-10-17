@@ -2107,15 +2107,15 @@ sohl:
 # terran_analog: Provenzal is patterned on Occitan and Galician-Portuguese in tone (open vowels, liquids, consonants softened between vowels, nasal vowels from a lost n, finals worn to -a and a support -e), as a Romance tongue of the coast, with a layer of learned words taken back from the empire's law books like the learned doublets of the Romance tongues, and a layer of poetic loans from the north. Every inherited word is derived by the tables below from an ancient Vylari root, and every loan from a row of the Vylari or Élavendri lexicon; every word is checked against Earth word lists.
 ---
 
-Provenzal is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Provenzal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Provenzal Language is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Provenzal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 Provenzal is the melodic tongue of [[place-provenzrgn|Provenzia Region]], a realm where commerce meets artistry and the traditions of courtly culture flourish. Spoken in the prosperous merchant cities and cultivated courts of the southern coast, Provenzal is the language of síladors, merchants, and nobles who trade in beauty as readily as silk and spices.
 
 ## Overview
 
-Provenzal speakers pride themselves on the liquid grace of their language. Where Vylari is formal and structured, Provenzal is flowing and emotional. The language carries the influence of both its Vylari administrative heritage and the fey-touched [[skill-elvndrlng|Élavendri]] to the north, having absorbed melodic patterns and poetic vocabulary from both neighbors while maintaining its own distinctive character.
+Provenzal speakers pride themselves on the liquid grace of their language. Where [[skill-vylarilng|Vylari Language]] is formal and structured, Provenzal is flowing and emotional. The language carries the influence of both its Vylari administrative heritage and the fey-touched [[skill-elvndrlng|Élavendri Language]] to the north, having absorbed melodic patterns and poetic vocabulary from both neighbors while maintaining its own distinctive character.
 
-The language is inseparable from Provenzal culture: love songs and courtly poetry are composed in Provenzal, sung by traveling bards, and memorized by citizens of all classes. To speak Provenzal without grace is considered a personal failing.
+The language is inseparable from [[lore-provenzianclt|Provenzian]] culture: love songs and courtly poetry are composed in Provenzal, sung by traveling bards, and memorized by citizens of all classes. To speak Provenzal without grace is considered a personal failing.
 
 The [[skill-provnzlng#lexicon|Provenzal Lexicon]] gives the words with their sources, the inherited and the learned side by side, and the rules that make them.
 
@@ -2131,7 +2131,7 @@ Provenzal is soft and sung, the coast speech of courtly verse. Its consonants we
 
 **Endings.** Provenzal words end in _-a_, _-e_, _-el_, _-or_, _-ena_ or _-is_. Lyric and courtly words take _-eza_.
 
-**What Provenzal leaves out.** It has no _th_ or _dh_, which soften to _t_ and _d_. It has no _kh_ or _gh_, no _zd_, and no Helonic _-os_.
+**What Provenzal leaves out.** It has no _th_ or _dh_, which soften to _t_ and _d_. It has no _kh_ or _gh_, no _zd_, and no _-os_ from [[skill-helonclng|Helonic Language]].
 
 ## Phonology
 
@@ -2155,7 +2155,7 @@ Provenzal is marked by a high proportion of sonorant consonants and open vowel p
 
 ## Script & Literacy
 
-Provenzal is written in the [[skill-semrnscrpt|Semaron]], the Vylarian alphabet, which is the common script of [[place-aureldirgn|Aureldia]] and is used across the region by tongues that share no descent with one another. Local scribal traditions have developed distinctive letterforms, and a flowing, decorative hand is conventional for poetry and formal documents.
+Provenzal is written in the [[skill-semrnscrpt|Semaron Script]], the Vylarian alphabet, which is the common script of [[place-aureldirgn|Aureldia Region]] and is used across the region by tongues that share no descent with one another. Local scribal traditions have developed distinctive letterforms, and a flowing, decorative hand is conventional for poetry and formal documents.
 
 The borrowing shows where the letters run out. The Semaron sets one sign to one sound and has no sign for a nasal vowel, so Provenzal's phonemic nasal vowels arrived with nothing of their own to be written in. What made the fit possible is that Provenzal carries length by doubling the vowel or diphthongizing it and never needed the bar the imperial letters set above a long vowel: the mark was standing idle, and Provenzal scribes took it for the nasal. A Vylarian reading a Provenzal page therefore reads every nasal as a long vowel, which is the most frequent misreading in cross-border correspondence and the reason a careful Provenzal clerk spells a nasal out in full whenever the letter is bound for an imperial reader.
 
@@ -2185,7 +2185,7 @@ _thal_ (shadow, mystery
 _ve_ (truly, in truth
 : from Élavendri particle _ve_)—an emphatic particle used in oaths and poetry
 
-**Phonological Traces:** The Élavendri nasal vowels entered Provenzal through these borrowings and spread to native words by analogy—this is the origin of Provenzal's distinctive nasalization, which sets it apart from Vylari and Tarveni.
+**Phonological Traces:** The Élavendri nasal vowels entered Provenzal through these borrowings and spread to native words by analogy—this is the origin of Provenzal's distinctive nasalization, which sets it apart from Vylari and [[skill-tarvenlng|Tarveni Language]].
 
 **Poetic Grammar:** Provenzal poetry freely employs Élavendri word order (VSO) and the Élavendri copula _en_ alongside native Provenzal _ez_. The use of _en_ in verse is considered elevated and archaic—a sílador who can weave Élavendri phrasing into Provenzal song demonstrates mastery of both traditions.
 
@@ -2197,9 +2197,9 @@ Unlike Vylari's imperial standardization, Provenzal evolved through artistic and
 
 ## Regional Dialects
 
-**Cotiere (Urban Coast):** The prestige dialect of major trading cities like Jalnasdal and Kalveza. The most standardized form, used in literature and formal commerce. Shows greatest Vylari influence.
+**Cotiere (Urban Coast):** The prestige dialect of major trading cities like [[place-jalnazdal|Jalnasdal]] and [[place-kalveza|Kalveza]]. The most standardized form, used in literature and formal commerce. Shows greatest Vylari influence.
 
-**Montanhe (Mountain Interior):** Spoken in inland regions such as Palvote and smaller highland towns. Preserves archaic vowel patterns and shows greater Élavendri influence. More nasal vowels and different stress patterns than coastal speech.
+**Montanhe (Mountain Interior):** Spoken in inland regions such as [[place-palvothe|Palvote]] and smaller highland towns. Preserves archaic vowel patterns and shows greater Élavendri influence. More nasal vowels and different stress patterns than coastal speech.
 
 **Parlage dou Port (Port Dialect):** A pidgin-like simplification used between multilingual merchants, showing greatest mixture of Vylari and Élavendri elements. Technically a register rather than a dialect.
 
@@ -2224,13 +2224,13 @@ Unlike Vylari's imperial standardization, Provenzal evolved through artistic and
 
 Provenzal occupies a unique position among Pelwar languages as a bridge between the imperial Vylari tradition and the fey-touched Élavendri north. It shares fundamental Pelwar grammar with Vylari and [[skill-tarvenlng|Tarveni]], but has absorbed so much Élavendri vocabulary and phonetic influence that mutual intelligibility is limited. Speakers of Provenzal and Élavendri often find common ground in poetic expression, though everyday conversation remains challenging.
 
-The relationship to [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] is more distant; northern speakers find Provenzal almost incomprehensibly soft, while Provenzal speakers consider northern tongues harsh and inexpressive.
+The relationship to [[skill-nordmalng|Nordmal Language]] and [[skill-varokhlng|Varokhi Language]] is more distant; northern speakers find Provenzal almost incomprehensibly soft, while Provenzal speakers consider northern tongues harsh and inexpressive.
 
 ## Naming Traditions
 
 Provenzal names reflect the culture's emphasis on beauty and emotional resonance. Given names are often chosen for their melodic quality as much as their meaning. Double names (Pál-ara, Bór-vel) are common among nobility, each part carrying meaning or honoring ancestors.
 
-Provenzal naming practices show greater acceptance of variation and personal choice than other Pelwar-speaking regions. A person might be known by multiple names in different contexts—a formal name, a merchant's name, and a sílador's name are all acceptable. Married women commonly retain their birth names rather than adopting their husband's, a practice unique among the Mídhalión cultures.
+Provenzal naming practices show greater acceptance of variation and personal choice than other Pelwar-speaking regions. A person might be known by multiple names in different contexts—a formal name, a merchant's name, and a sílador's name are all acceptable. Married women commonly retain their birth names rather than adopting their husband's, a practice unique among the cultures of [[place-midhalnrgn|Mídhalión Region]].
 
 The tradition of "love names" is widespread: a person might grant an intimate friend or lover a special private name not used in public. Using a love name in public is a serious breach of intimacy.
 
@@ -2254,7 +2254,7 @@ Revotandis, Zedimis, Ortemandis, Malvotis, Talotis, Kiramis, Melvarandis, Tulemi
 
 In a merchant's house in [[place-jalnazdal|Jalnasdal]], a boy of twelve is learning to say the same thing twice. His tutor gives him a word, _nasdal_, the court where his father's suits are heard, and then its learned twin, _nasdalo_, the court of record the notaries write in; then _docheme_, a speech, and _dochemo_, an oration of the kind the academies teach. By the end of the lesson he can hear which of the two a man has chosen, and why, and what it says about him. That is most of what a Provenzian education is for.
 
-This is the word-hoard of [[skill-provnzlng|Provenzal]], the tongue of the [[lore-provenzianclt|Provenzians]]. It is the daughter of ancient Vylari that changed most in its sounds. It made articles of all three of the old pointing words, softened its consonants between vowels and let the `n` between two vowels fall, leaving the vowel before it nasal. It has taken words twice from outside. The empire's law books gave it a learned layer, so that many words stand in two forms, the inherited one and the one the notaries took back. The fey-touched north gave it the words for light, dream, longing and song, which is why its lyric sounds like no other tongue's.
+This is the word-hoard of Provenzal, the tongue of the Provenzians. It is the daughter of ancient Vylari that changed most in its sounds. It made articles of all three of the old pointing words, softened its consonants between vowels and let the `n` between two vowels fall, leaving the vowel before it nasal. It has taken words twice from outside. The empire's law books gave it a learned layer, so that many words stand in two forms, the inherited one and the one the notaries took back. The fey-touched north gave it the words for light, dream, longing and song, which is why its lyric sounds like no other tongue's.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -2376,7 +2376,7 @@ A Provenzal house is named for its founder or its city, and many of the old hous
 
 ### The city and its standing
 
-A Provenzian names his city before his family, and the city words are the oldest civic vocabulary in the tongue, inherited from the speech of the Migration and worn smooth by a thousand years of council meetings. _Veramis_ is a city, a walled place of citizens, and it is the word a Provenzian means when he says where he is from. The council that governs it, whether of nobles, of rich citizens or of a guild, is _kurtema_, and the square where it does its business in sight of everyone is _rembalis_.
+A Provenzian names his city before his family, and the city words are the oldest civic vocabulary in the tongue, inherited from the speech of [[lore-pelwarmigr|The Pelwar Migration]] and worn smooth by a thousand years of council meetings. _Veramis_ is a city, a walled place of citizens, and it is the word a Provenzian means when he says where he is from. The council that governs it, whether of nobles, of rich citizens or of a guild, is _kurtema_, and the square where it does its business in sight of everyone is _rembalis_.
 
 Every office in this field ends in _-e_, the old agent ending, and the same offices exist in imperial Vylari with the learned ending _-o_. The native word names the city's officer, and the learned one the empire's.
 

@@ -1953,9 +1953,9 @@ sohl:
 # terran_analog: Tarveni is patterned on Castilian in tone (hard finals kept, stressed short vowels broken to ie and ue, consonants voiced between vowels, one acute on every word of two syllables or more) over an older mountain speech shaped like Basque (the trilled rr, the ts, no f, no initial r), in the way Castilian grew up against the Basque country. Its earth mother and the dead who walk the roads at night are patterned on Mari and on the Galician night procession; their words, like every substrate word, are coined to the old speech's shape and checked against Earth word lists, Basque among them. Every inherited word is derived by the tables below from an ancient Vylari root.
 ---
 
-Tarveni is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Tarveni, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Tarveni Language is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Tarveni, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Tarveni is the forceful, expressive tongue of the Tarvenan kingdoms and city-states scattered across the southern peninsula. Blunt where Vylari is formal, passionate where Provenzal is artful, Tarveni reflects the directness and fierce pride of its speakers—a people who have resisted imperial rule and cultivated independent city-state cultures for centuries.
+Tarveni is the forceful, expressive tongue of the [[lore-tarvenanclt|Tarvenan]] kingdoms and city-states scattered across the southern peninsula. Blunt where [[skill-vylarilng|Vylari Language]] is formal, passionate where [[skill-provnzlng|Provenzal Language]] is artful, Tarveni reflects the directness and fierce pride of its speakers—a people who have resisted imperial rule and cultivated independent city-state cultures for centuries.
 
 ## Overview
 
@@ -1963,7 +1963,7 @@ Tarveni is a language of assertion. Speakers pride themselves on clarity and for
 
 The [[skill-tarvenlng#lexicon|Tarveni Lexicon]] gives the words with their sources, including the store the tongue keeps from the older speech of the mountains.
 
-The language varies significantly across the kingdoms and city-states of Tarvénia, yet all speakers maintain fierce loyalty to their regional variant as the "true" Tarveni. Despite these internal variations, mutual intelligibility remains high—Tarvenans from different realms can converse readily, though each is acutely aware of subtle differences in accent and vocabulary.
+The language varies significantly across the kingdoms and city-states of [[place-tarvenirgn|Tarvénia Region]], yet all speakers maintain fierce loyalty to their regional variant as the "true" Tarveni. Despite these internal variations, mutual intelligibility remains high—Tarvenans from different realms can converse readily, though each is acutely aware of subtle differences in accent and vocabulary.
 
 ## How Tarveni sounds
 
@@ -2001,7 +2001,7 @@ Tarveni employs a rich inventory of consonants with strong distinctions between 
 
 ## Script & Literacy
 
-Tarveni is written in the [[skill-semrnscrpt|Semaron]], the Vylarian alphabet, which is the common script of [[place-aureldirgn|Aureldia]] and was taken up here as everywhere else in the region—a people who spent centuries refusing the empire's rule write in the empire's letters and see no contradiction in it. Regional scribal traditions have developed distinctive features: the southern kingdoms favor rounder letterforms, while the more austere northern regions use angular, geometric styles.
+Tarveni is written in the [[skill-semrnscrpt|Semaron Script]], the Vylarian alphabet, which is the common script of [[place-aureldirgn|Aureldia Region]] and was taken up here as everywhere else in the region—a people who spent centuries refusing the empire's rule write in the empire's letters and see no contradiction in it. Regional scribal traditions have developed distinctive features: the southern kingdoms favor rounder letterforms, while the more austere northern regions use angular, geometric styles.
 
 The alphabet pinches in two places, and Tarveni has repaired neither. It has no letter for the glottal stop, so the catch that separates words in formal speech goes unwritten and the reader supplies it from the sense. And Vylari fixes stress by position, so the imperial letters were never given any way to mark it—where in Tarveni stress is phonemic and tells one word from another, with the result that a pair a speaker would never confuse reaches the page as a single string of letters. A Tarvenan reads such a page aloud and decides as he goes, which is no hardship to a people who carry most of their literature in the mouth; an imperial clerk obliged to work from a Tarveni document finds it maddening, and says so.
 
@@ -2044,7 +2044,7 @@ The political fragmentation of Tarvénia into competing kingdoms prevented the l
 
 Tarveni shares its deepest roots with Vylari and other Pelwar tongues, yet stands apart in many features. Speakers of Vylari find Tarveni difficult due to its phonetic complexity. Provenzal and Tarveni speakers can often understand each other in trade contexts, though the emotional and poetic registers differ markedly.
 
-The relationship to [[skill-elvndrlng|Élavendri]] is limited; while both are Pelwar-derived, their phonological systems diverge significantly. Tarveni has no clear affinity with [[skill-nordmalng|Nordmal]] or [[skill-varokhlng|Varokhi]], though scholars recognize ancient common ancestry.
+The relationship to [[skill-elvndrlng|Élavendri Language]] is limited; while both are Pelwar-derived, their phonological systems diverge significantly. Tarveni has no clear affinity with [[skill-nordmalng|Nordmal Language]] or [[skill-varokhlng|Varokhi Language]], though scholars recognize ancient common ancestry.
 
 ## Naming Traditions
 
@@ -2070,7 +2070,7 @@ Ervothandis, Zedimis, Zenothis, Orthemandis, Iltheris, Thaluris, Korvathandis, O
 
 On the road down from the passes a company is coming home. The captain is _thrumar_ and the men are sworn to him for the season, _daro_, sworn men, by the contract, _semnalis_, that every one of them can recite. In the villages they pass, a lantern stands on each threshold, because it is the season when the dead walk the roads, and every word the villagers have for that is older than the tongue the company speaks.
 
-This is the word-hoard of [[skill-tarvenlng|Tarveni]], the tongue of the [[lore-tarvenanclt|Tarvenans]]. It is the daughter of ancient Vylari that kept the most of the ancestor's grammar after the empire's own speech: three genders. It kept them with help. Before the Pelwar came into the peninsula the mountains had a speech of their own, and that speech settled into Tarveni as the empire's never did, leaving its trilled _rr_, its _ts_, and a store of words for the high country, the flocks, and a goddess older than any of the Aureldian gods. This page gives every word with its source, the rules that make an ancient word Tarveni, the shape every word of the old speech keeps, and the few words taken back from the empire and from Provenzia.
+This is the word-hoard of Tarveni, the tongue of the Tarvenans. It is the daughter of ancient Vylari that kept the most of the ancestor's grammar after the empire's own speech: three genders. It kept them with help. Before the Pelwar came into the peninsula the mountains had a speech of their own, and that speech settled into Tarveni as the empire's never did, leaving its trilled _rr_, its _ts_, and a store of words for the high country, the flocks, and a goddess older than any of the Aureldian gods. This page gives every word with its source, the rules that make an ancient word Tarveni, the shape every word of the old speech keeps, and the few words taken back from the empire and from [[place-provenzrgn|Provenzia Region]].
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -2182,9 +2182,9 @@ A village keeps its shrine, its own priest who is usually a local man, and its o
 
 ### The old mountain speech
 
-Before the Pelwar came into the peninsula the mountains had a speech of their own, and the Tarvenans call it nothing more than the old mountain speech. Its people left no history that anyone has found, and their words are still in Tarveni, thickest in the high valleys of Asturath and the marches. They hold the trilled _rr_ and the _ts_ that no inherited word has, and they never open on _r_ or carry an _f_ or a _p_.
+Before the Pelwar came into the peninsula the mountains had a speech of their own, and the Tarvenans call it nothing more than the old mountain speech. Its people left no history that anyone has found, and their words are still in Tarveni, thickest in the high valleys of [[place-asturath|Asturath]] and the marches. They hold the trilled _rr_ and the _ts_ that no inherited word has, and they never open on _r_ or carry an _f_ or a _p_.
 
-Under the gods of the Aureldian pantheon the mountain villages keep an older one, and every word for her is from this speech. She is _menutsa_, the Mother, and she is kept in caves, _ikórrata_, where offerings, _itsarde_, are left at the mouth. Her wise-women, _tsingarra_, are the village healers a Tarvenan tolerates and the Arcane Order's mage he does not. On certain nights the dead of a valley walk the roads in a line with a light carried before them, the _gatsera_, and a house sets an _ezkobe_, a lantern for the dead, on its threshold, _belartsa_, so that they pass by.
+Under the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] the mountain villages keep an older one, and every word for her is from this speech. She is _menutsa_, the Mother, and she is kept in caves, _ikórrata_, where offerings, _itsarde_, are left at the mouth. Her wise-women, _tsingarra_, are the village healers a Tarvenan tolerates and [[affiliation-ordoarcanis|Thordimalon]]'s mage he does not. On certain nights the dead of a valley walk the roads in a line with a light carried before them, the _gatsera_, and a house sets an _ezkobe_, a lantern for the dead, on its threshold, _belartsa_, so that they pass by.
 
 The high country's own words are here too: the peaks and the scree, the mountain storm and the hail, the ewe, the ram, the bell on the bellwether and the shepherd who drives the flock up to the summer meadow.
 
@@ -2202,7 +2202,7 @@ Money flows home from other people's wars, and a village of no importance can be
 
 ### Craft and the forge
 
-The Sacred Forge is honored here, and the smith who makes a company's blades is a man of standing. _Thúmbalis_ is a forge and _thalbezo_ steel.
+[[affiliation-sacredforge|The Sacred Forge]] is honored here, and the smith who makes a company's blades is a man of standing. _Thúmbalis_ is a forge and _thalbezo_ steel.
 
 ### Speech, song and the learned
 
@@ -2216,7 +2216,7 @@ A Tarvenan holding is _komrelalo_, the land and the house together, run by whoev
 
 ### The coast and the sea
 
-The Galvari coast and the free port of Valthari look outward, and the sea words came down from the empire's fleet unchanged in sense.
+The [Galvari coast]{.name data-type="place/feature"} and the free port of [[place-valthari|Valthari]] look outward, and the sea words came down from the empire's fleet unchanged in sense.
 
 ### Time and the year
 

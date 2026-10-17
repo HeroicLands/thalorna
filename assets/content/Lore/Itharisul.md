@@ -8,7 +8,7 @@ tags: [lore, kalihara, ithari-work, kaan-sul]
 data: {packFolder: settinglore, culture: kaliharanclt}
 ---
 
-_Ithasul_ (precursor stone) is the substance of every work the [[lore-theithari|Ithari]] left, on [[place-klhrcntnnt|Kalihara]] and everywhere else. The custodians of the island, the [[affiliation-tharivaan|Ithakan]], know more of it than anyone in the world, and all of what they know is handling and procedure: how a work looks and feels, what state it stands in, what may be done beside it and what may not. What it is, and what the Ithari gave the works, they have never identified. The account of the Ithari themselves, and of the works that stand elsewhere on Thalorna, is [[lore-theithari|The Ithari]].
+_Ithasul_ (precursor stone) is the substance of every work [[lore-theithari|The Ithari]] left, on [[place-klhrcntnnt|Kalihara Continent]] and everywhere else. The custodians of the island, the [[affiliation-tharivaan|Thári'vaan]], know more of it than anyone in the world, and all of what they know is handling and procedure: how a work looks and feels, what state it stands in, what may be done beside it and what may not. What it is, and what the Ithari gave the works, they have never identified. The account of the Ithari themselves, and of the works that stand elsewhere on [[place-worldthlrn|The World of Thalorna]], is The Ithari.
 
 ## In the Hand
 
@@ -35,7 +35,7 @@ Nothing goes part white: the whitening takes a whole work at once, and a white w
 A custodian can:
 
 - perform a work's procedures exactly, as they were handed down;
-- detect drift in a procedure, by setting the Seasonal Recitation's fresh transcription against the archive;
+- detect drift in a procedure, by setting the [Seasonal Recitation]{.name data-type="lore/gathering"}'s fresh transcription against the archive;
 - observe the state a work is in;
 - open a work that has an oval, by its liturgy;
 - take the held stone a cracked work gives up, and record the failure;
@@ -65,7 +65,7 @@ A _kaan'sul_ (held stone) is a piece of ithasul small enough to carry in the han
 
 **A dead held stone** is bone-white and hard, with none of a living work's gray and none of its give, and a custodian knows one by feel the moment it is in the hand. A white work that has cracked is the only kind that has ever let a piece go. It yields only what it yields: no blow takes a piece off, and none has ever been taken from a living work, nor tried for.
 
-Every dead held stone ends in a sanctuary's keeping, and it comes there by one of two roads. Most come from the Rite of Last Tending, when the custodians take a single held stone from a cracked white work and carry it back to the sanctuary, and the rest are surrendered. When a living held stone's work dies the stone is dead from that day, and the lineage that kept it gives it up to a sanctuary. Every sanctuary keeps at least one. Dead held stones are the island's reference pieces for what becomes of the substance after a work dies, and a kaan'sili learns on them to tell dead stone from living, a held stone in one hand and a living work under the other. Custodians still call a dead held stone a fragment as often as not, as though it had been broken from something; nothing is ever broken from a work, and the two words name the same piece.
+Every dead held stone ends in a sanctuary's keeping, and it comes there by one of two roads. Most come from the [Rite of Last Tending]{.name data-type="lore/custom"}, when the custodians take a single held stone from a cracked white work and carry it back to the sanctuary, and the rest are surrendered. When a living held stone's work dies the stone is dead from that day, and the lineage that kept it gives it up to a sanctuary. Every sanctuary keeps at least one. Dead held stones are the island's reference pieces for what becomes of the substance after a work dies, and a kaan'sili learns on them to tell dead stone from living, a held stone in one hand and a living work under the other. Custodians still call a dead held stone a fragment as often as not, as though it had been broken from something; nothing is ever broken from a work, and the two words name the same piece.
 
 ## See Also
 

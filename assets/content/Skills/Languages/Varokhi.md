@@ -763,13 +763,13 @@ sohl:
   flags: {"thalorna": {lang_family: Pelwar}}
 ---
 
-Varokhi is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Varokhi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Varokhi Language is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Varokhi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Varokhi is the tongue of the tribal peoples of the [[place-vrystwald|Vristwald]] forests and portions of western [[place-aelwyth|Aelwyth]], spoken by the fierce and fiercely independent Varokhi clans. A language with no written form, preserved entirely through oral tradition, Varokhi stands as a testament to the power of spoken word and memory among peoples who reject the written traditions of settled kingdoms.
+Varokhi is the tongue of the tribal peoples of the [[place-vrystwald|Vristwald]] forests and portions of western [[place-aelwyth|Aelwyth]], spoken by the fierce and fiercely independent [[lore-varokhiclt|Varokhi]] clans. A language with no written form, preserved entirely through oral tradition, Varokhi stands as a testament to the power of spoken word and memory among peoples who reject the written traditions of settled kingdoms.
 
 ## Overview
 
-Varokhi speakers define themselves against the writing cultures of the south and the formal structures of Nordmal. Where written languages are fixed and controlled, Varokhi celebrates variation, improvisation, and individual expression. A skilled Varokhi speaker is one who can adapt their speech to the moment, weave stories that captivate, and compose extemporaneous verse that honors both the past and the immediate present.
+Varokhi speakers define themselves against the writing cultures of the south and the formal structures of [[skill-nordmalng|Nordmal Language]]. Where written languages are fixed and controlled, Varokhi celebrates variation, improvisation, and individual expression. A skilled Varokhi speaker is one who can adapt their speech to the moment, weave stories that captivate, and compose extemporaneous verse that honors both the past and the immediate present.
 
 The language shares deep roots with [[skill-nordmalng|Nordmal]] through common descent from ancient Proto-Pelwar, yet the two have diverged dramatically over centuries of independent development. Varokhi has simplified many of the complex grammatical features Nordmal preserves, while developing a richness of vocabulary for forest life, kinship relations, and the subtle distinctions of honor and obligation central to Varokhi tribal culture.
 
@@ -859,7 +859,7 @@ FROM name_shapes WHERE language = 'thalorna-note-skill-varokhlng' ORDER BY posit
 
 Varokhi has no traditional writing system. The language is preserved entirely through oral transmission—memorization, recitation, and storytelling. This is not considered a limitation but rather a distinctive cultural feature: the Varokhi valorize those with strong memories and eloquent speech.
 
-In modern times, some Varokhi speakers have adopted the scripts of neighboring regions—the [[skill-semrnscrpt|Semaron]] from the empire, [[skill-thuravarkscript|Thuravark]] from the north—for practical communication, but these are viewed as foreign tools, not genuine Varokhi writing. The language remains fundamentally oral.
+In modern times, some Varokhi speakers have adopted the scripts of neighboring regions—the [[skill-semrnscrpt|Semaron Script]] from the empire, [[skill-thuravarkscript|Thuravark Runic Script]] from the north—for practical communication, but these are viewed as foreign tools, not genuine Varokhi writing. The language remains fundamentally oral.
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
@@ -875,7 +875,7 @@ The absence of a written form may seem to place Varokhi at a disadvantage compar
 
 **Northern Vristwald:** Spoken in the forest's northern regions, showing greater phonetic similarity to [[skill-nordmalng|Nordmal]] and more conservative grammar. More nasal vowels and some archaic features.
 
-**Aelwyth Mixed:** Spoken in western [[place-aelwyth|Aelwyth]] where Varokhi speakers coexist with Élavendri peoples. Shows significant Élavendri vocabulary influence and some grammatical simplification due to bilingual contact.
+**Aelwyth Mixed:** Spoken in western [[place-aelwyth|Aelwyth]] where Varokhi speakers coexist with the [[lore-elavendrnppl|Élavendren People]]. Shows significant [[skill-elvndrlng|Élavendri Language]] vocabulary influence and some grammatical simplification due to bilingual contact.
 
 **Riverside Dialect:** Spoken by Varokhi clans along major rivers, showing loanwords related to trade and boating, and more vocabulary for water-related phenomena.
 
@@ -893,7 +893,7 @@ Varokhi has no writing, so almost nothing of ordinary speech reaches the page at
 
 Varokhi stands closest to [[skill-nordmalng|Nordmal]], with which it shares fundamental vocabulary and much of its basic structure. Speakers with training can achieve mutual intelligibility, though the absence of shared writing systems and the differences in phonetics and grammar create barriers. The linguistic relationship is that of cousins who grew up in different households—recognizably related but with distinct personalities.
 
-The relationship to southern [[lore-pelwarpepl|Pelwar People]] languages (Vylari, Provenzal, Tarveni, Élavendri) is more distant. Varokhi speakers find these languages overly formal and restrictive; southern speakers find Varokhi difficult to follow due to its phonetic variation and lack of standardization.
+The relationship to southern [[lore-pelwarpepl|Pelwar People]] languages ([[skill-vylarilng|Vylari Language]], [[skill-provnzlng|Provenzal Language]], [[skill-tarvenlng|Tarveni Language]], Élavendri) is more distant. Varokhi speakers find these languages overly formal and restrictive; southern speakers find Varokhi difficult to follow due to its phonetic variation and lack of standardization.
 
 [[skill-elvndrlng|Élavendri]] has had significant influence on Varokhi in borderland regions of western Aelwyth, particularly in vocabulary related to magic, nature, and spiritual matters. Some scholars hypothesize ancient contacts between proto-Varokhi and proto-Élavendri speakers that left linguistic traces.
 
@@ -913,7 +913,7 @@ Varokhi builds every class of name by one operation. A name is two **elements**,
 
 Five rules settle the whole of it.
 
-1. **A name is an opening element and a closing element**, and nothing formed any other way is a Varokhi name. _Vith-_ (valor) and `-rúnd` (a shield) give Vithrúnd, the clan whose shield is its valor.
+1. **A name is an opening element and a closing element**, and nothing formed any other way is a Varokhi name. _Vith-_ (valor) and `-rúnd` (a shield) give [Vithrúnd]{.name data-type="affiliation/lineage"}, the clan whose shield is its valor.
 2. **A linking piece may stand at the seam**, and the three are `-a-`, `-i-` and `-en-`. Each lets a closing beginning with a consonant sit against an opening that already ends in one: _wíth-_ and `-rik` give Wítharik, _edr-_ and `-gar` give Edrigar, and _eich-_ and `-grund` give Eichengrund. A linking vowel takes the acute where the name is said long.
 3. **A seam writes both pieces whole.** _Skath-_ and `-helm` give Skathhelm with the `h` written twice, and no letter is dropped to tidy the join.
 4. **A woman's name closes on `-a`, or on `-wen`, `-rún` or `-ris`.** The `-a` is added to a name otherwise complete, which is why Domrik and Dómrika, Hrodar and Hródara stand in the two lists as one name twice; the other three closings carry a woman's name without it, as Falkwen, Radrún and Theodris do. A man's name closes on a consonant and on none of those three.
@@ -925,7 +925,7 @@ Five rules settle the whole of it.
 
 ### A person's name in full
 
-A Varokh is named in full by three names joined by two particles: the given name; then _yra_, "of the kindred", and the clan; then _wur_, "of the ground", and the village. [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]] is Athalwa, of the Vithrúnd kindred, of the ground at Eichengrund. Eichengrund is not a clan and Vithrúnd is not a village, so neither can stand in the other's place.
+A Varokh is named in full by three names joined by two particles: the given name; then _yra_, "of the kindred", and the clan; then _wur_, "of the ground", and the village. [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]] is Athalwa, of the Vithrúnd kindred, of the ground at [[place-eichengrnd|Eichengrund]]. Eichengrund is not a clan and Vithrúnd is not a village, so neither can stand in the other's place.
 
 How much of the name is said depends on where the speaker stands, and each particle goes wherever the name it introduces goes.
 
@@ -933,7 +933,7 @@ How much of the name is said depends on where the speaker stands, and each parti
 - **Inside the person's own village,** where the ground goes without saying, the given name and the clan: Athalwa yra Vithrúnd.
 - **Beyond the village,** at a market, before a muster, in another village's hall or in a reciter's telling, the whole name: Athalwa yra Vithrúnd wur Eichengrund.
 
-A given name and a clan never stand side by side without _yra_ between them. An earned byname can stand in place of the clan and the village beyond a person's village, as **Bludtusk Barsk** does for [[being-thrnkbldtscbr|Thornak]], and the byname is said whole.
+A given name and a clan never stand side by side without _yra_ between them. An earned byname can stand in place of the clan and the village beyond a person's village, as [[being-thrnkbldtscbr|Thornak Bludtusk Barsk]]'s byname **Bludtusk Barsk** does, and the byname is said whole.
 
 These pages name a Varokh the same way: the whole name at the first mention in a note, the given name and the clan at the first mention in the note of the person's own village, and the given name alone after that.
 
@@ -1012,7 +1012,7 @@ SELECT form AS "standing word", array_to_string(list_transform(built, x -> '`' |
 FROM words WHERE language = 'thalorna-note-skill-varokhlng' AND field = 'Standing words' ORDER BY position
 ```
 
-An order joins two of these with `erund`, as Wuljagar erund Garskald does: the hunters of the wood, of the kindred that speaks for the spear.
+An order joins two of these with `erund`, as [[affiliation-wldjgrrndgrskld|Wuljagar erund Garskald]] does: the hunters of the wood, of the kindred that speaks for the spear.
 
 ### Bynames
 
@@ -1024,7 +1024,7 @@ These are ordinary words rather than names. Most are given whole; where a word a
 
 The animal words are the spoken names of possible village totems. The eagle, falcon and wolf are named in names by the elements `arn-`, `falk-` and `wulf-`, which are pieces of names and not words; the animal words here differ from them and add no name elements. _Bar_ is attested in Thornak's epithet. The links identify the existing totem notes, not earlier attestations of these new Varokhi coinages.
 
-Six totems have no Varokhi animal word here: [[lore-bisonttm|bison]], [[lore-jaguarttm|jaguar]], [[lore-leopardttm|leopard]], [[lore-lionttm|lion]], [[lore-parrotttm|parrot]] and [[lore-turkeyttm|turkey]]. None is established in Vristwald or its waters, so giving a forest village one as its totem would invent a contact the setting does not describe. Shore villages can meet sea bass, shark, tuna and whale through their fishing and trade; the inland villages need not use those words.
+Six totems have no Varokhi animal word here: [[lore-bisonttm|Bison]], [[lore-jaguarttm|Jaguar]], [[lore-leopardttm|Leopard]], [[lore-lionttm|Lion]], [[lore-parrotttm|Parrot]] and [[lore-turkeyttm|Turkey]]. None is established in Vristwald or its waters, so giving a forest village one as its totem would invent a contact the setting does not describe. Shore villages can meet sea bass, shark, tuna and whale through their fishing and trade; the inland villages need not use those words.
 
 The reciters keep a further stock of ordinary words: the names of the things they recite, and the words for the dead, the spirits, war, craft, kin and water that the tellings turn on. Each is a root of the tongue or is built from pieces the tables above publish, and the third column says which. Where a word also serves as a name element, the element tables state that use separately.
 

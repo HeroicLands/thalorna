@@ -54,9 +54,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-**Wuljagar erund Garskald:** _Varokh Deep Forest Hunting Party_ _Varokhi: "The Wild Hunt of the Speakers of the Spear"_
+**Wuljagar erund Garskald:** _[[lore-varokhiclt|Varokhi]] Deep Forest Hunting Party_ _[[skill-varokhlng|Varokhi Language]]: "The Wild Hunt of the Speakers of the Spear"_
 
-The deep [[place-vrystwald|Vristwald]] forests belong to those who know them, and the Wuljagar of clan Garskald—the Speakers of the Spear—know them as well as anything human can. This is no rabble of amateur poachers. These are the clan's dedicated hunting company: skilled trackers and killers of great game who operate under strict tribal law and the direct authority of their chief. They hunt elk, boar, and brown bear in the primeval forests north of the Vylarian border, where the trees grow so thick that midday looks like dusk. They are prideful, territorial, and absolutely deadly to those foolish enough to interfere with their kill or poach their grounds.
+The deep [[place-vrystwald|Vristwald]] forests belong to those who know them, and the Wuljagar of clan [Garskald]{.name data-type="affiliation/polity"}—the Speakers of the Spear—know them as well as anything human can. This is no rabble of amateur poachers. These are the clan's dedicated hunting company: skilled trackers and killers of great game who operate under strict tribal law and the direct authority of their chief. They hunt elk, boar, and brown bear in the primeval forests north of the [[affiliation-vylarinmpr|Vylarian Empire]]'s border, where the trees grow so thick that midday looks like dusk. They are prideful, territorial, and absolutely deadly to those foolish enough to interfere with their kill or poach their grounds.
 
 The Wuljagar exists because the Garskald cannot survive without it. The clan numbers perhaps two hundred souls—warriors, farmers, children, elders—spread across a handful of forest settlements in the central Vristwald. The forest provides, but only to those who know how to take from it. The Wuljagar feeds the clan.
 
@@ -66,11 +66,11 @@ The Garskald have hunted the central Vristwald for as long as anyone can remembe
 
 But the forest is changing, and the Garskald are struggling to understand why.
 
-It started eighteen months ago, when the elk herds that normally winter in the [[place-vethwald|Deepwood]] valleys failed to arrive. Tháralund Garskald—the clan's Wurlár and the Wuljagar's leader—led scouting parties deep into the northern forest and found the answer: the herds had shifted their migration routes, moving west into territory claimed by the Hildskorn clan. The cause was unclear—Tháralund suspects that Vylarian logging operations along the southern edge of the forest have disrupted the ancient paths the herds follow—but the result was immediate. The Garskald's winter meat stores fell to half their normal levels. Children went hungry. The clan chief, an aging warrior named Helmrík Garskald, was forced to trade weapons and iron tools to the Hildskorn for dried meat—a humiliation that still burns.
+It started eighteen months ago, when the elk herds that normally winter in the [[place-vethwald|Vethwald]] valleys failed to arrive. [Tháralund Garskald]{.name data-type="being/npc"}—the clan's Wurlár and the Wuljagar's leader—led scouting parties deep into the northern forest and found the answer: the herds had shifted their migration routes, moving west into territory claimed by the [Hildskorn]{.name data-type="affiliation/polity"} clan. The cause was unclear—Tháralund suspects that Vylarian logging operations along the southern edge of the forest have disrupted the ancient paths the herds follow—but the result was immediate. The Garskald's winter meat stores fell to half their normal levels. Children went hungry. The clan chief, an aging warrior named [Helmrík Garskald]{.name data-type="being/npc"}, was forced to trade weapons and iron tools to the Hildskorn for dried meat—a humiliation that still burns.
 
-Then the boar population crashed. A disease—something that causes swelling in the joints and eventual paralysis—swept through the central Vristwald's boar herds, killing or disabling nearly half the breeding population. Isgard Waldarik, the Wuljagar's healer and naturalist, has examined the sick animals and believes the disease originated in the south, possibly carried north by animals fleeing the Vylarian logging. She has not been able to cure it, and she fears it may spread to the domestic pigs the clan keeps in their settlements.
+Then the boar population crashed. A disease—something that causes swelling in the joints and eventual paralysis—swept through the central Vristwald's boar herds, killing or disabling nearly half the breeding population. [Isgard Waldarik]{.name data-type="being/npc"}, the Wuljagar's healer and naturalist, has examined the sick animals and believes the disease originated in the south, possibly carried north by animals fleeing the Vylarian logging. She has not been able to cure it, and she fears it may spread to the domestic pigs the clan keeps in their settlements.
 
-The Garskald face a winter they may not survive. The elk are in Hildskorn territory. The boar are dying. The bear—always dangerous, always the hunt of last resort—remain, but bear-hunting in winter is deadly work, and the clan cannot afford to lose hunters. Tháralund has proposed something unprecedented: a great hunt beyond the clan's traditional territory, pushing north past Blackthorn Ridge into the wild country where no [[lore-varokhiclt|Varokh]] clan holds recognized rights. The land beyond the ridge is unclaimed for good reason—it is rough, poorly mapped, and haunted by stories of things that live in the deep forest that are not animals. But Tháralund believes there are elk herds in the northern valleys, untouched by the migration shift, and if the Wuljagar can reach them before the deep snows, the clan will eat this winter.
+The Garskald face a winter they may not survive. The elk are in Hildskorn territory. The boar are dying. The bear—always dangerous, always the hunt of last resort—remain, but bear-hunting in winter is deadly work, and the clan cannot afford to lose hunters. Tháralund has proposed something unprecedented: a great hunt beyond the clan's traditional territory, pushing north past Blackthorn Ridge into the wild country where no Varokh clan holds recognized rights. The land beyond the ridge is unclaimed for good reason—it is rough, poorly mapped, and haunted by stories of things that live in the deep forest that are not animals. But Tháralund believes there are elk herds in the northern valleys, untouched by the migration shift, and if the Wuljagar can reach them before the deep snows, the clan will eat this winter.
 
 Chief Helmrík has given his reluctant blessing. The Wuljagar is preparing to march north.
 
@@ -83,27 +83,27 @@ The current roster stands at seven—every experienced hunter the clan can spare
 Tháralund Garskald
 : Wurlár. Scarred and methodical, with eyes that miss nothing in the forest. He has led the Wuljagar for twenty years, and this is the first season he has failed to fill the clan's meat stores.
 
-Hárundar Hildrik
+[Hárundar Hildrik]{.name data-type="being/npc"}
 : Dunkelrith and tracker. Young, ambitious, and openly questioning Tháralund's decision to hunt north rather than negotiate with the Hildskorn for shared territory. He believes the old man's pride will get them killed.
 
-Frodmún Fulkír
+[Frodmún Fulkír]{.name data-type="being/npc"}
 : Spear-master. Quiet and patient, with an uncanny ability to predict animal behavior. The most skilled hunter in the company after Tháralund—and the one most likely to succeed him, if he wants the job. He does not seem to.
 
-Erinthil Raedwulf
+[Erinthil Raedwulf]{.name data-type="being/npc"}
 : Bow-hunter. Deadly at range, but growing old and increasingly bitter about younger rivals. His eyesight is going—he's missed shots he would have made five years ago—and his pride makes him sharp-tongued and difficult.
 
-Skaldar Arnthúl
+[Skaldar Arnthúl]{.name data-type="being/npc"}
 : Heavy weapons specialist. Massive and strong, carries a battle-axe and makes ambush kills on the largest game. He is the clan chief's nephew, which gives him political weight beyond his skill, and he knows it.
 
 Isgard Waldarik
 : Sundmund and naturalist. Knows the forest's plants and can treat wounds; trusted advisor to Tháralund. She has been studying the boar disease obsessively, and her concern is deepening—she believes it may not be natural.
 
-Wulfrin Thornik
+[Wulfrin Thornik]{.name data-type="being/npc"}
 : Youngest hunter, only recently inducted. Still learning the ways, haunted by his first kill of an elk cow earlier this season. The others watch him for signs of weakness—Varokh hunters cannot afford squeamishness—but Tháralund sees potential in the boy that the others miss.
 
 ## Territory
 
-The Garskald's traditional hunting grounds stretch across roughly sixty miles of the central Vristwald, bounded on the south by the Moldún River and on the north by Blackthorn Ridge. Three seasonal camps serve as bases: the Summer Lodge in the eastern meadows, the Winter Hold in the protected Deepwood valleys, and the [[place-swiftelkcamp|Swift-Elk Camp]] along the Moldún where river crossings make good ambush points for migrating herds.
+The Garskald's traditional hunting grounds stretch across roughly sixty miles of the central Vristwald, bounded on the south by the Moldún River and on the north by Blackthorn Ridge. Three seasonal camps serve as bases: the [Summer Lodge]{.name data-type="place/structure"} in the eastern meadows, the [Winter Hold]{.name data-type="place/site"} in the protected Deepwood valleys, and the [[place-swiftelkcamp|Swift-Elk Camp]] along the Moldún where river crossings make good ambush points for migrating herds.
 
 Trails are marked subtly—notches in bark, arrangements of stone, carved symbols only a Varokh hunter would recognize. Trespassers are warned once. Those who violate the hunting grounds a second time do not leave.
 

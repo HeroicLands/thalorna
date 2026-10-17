@@ -602,11 +602,11 @@ sohl:
 # terran_analog: Ki'ichek reads a Mayan register—glottal stops, ejective consonants, counting by twenties, titles built with a lord-ending and a servant-ending. The words on this page are made to the rules and none is the Yucatec, K'iche' or Nahuatl word for its meaning.
 ---
 
-Ki'ichek is a tongue of the Ki'ichek (independent isolate) family. Fluency measures the sophistication of expression in Ki'ichek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Ki'ichek Language is a tongue of the Ki'ichek (independent isolate) family. Fluency measures the sophistication of expression in Ki'ichek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Ki'ichek is the ancient language of the K'ich'chik city-states, a civilization that predates human settlement of Ankaris by millennia. Spoken across an entire separate continent, Ki'ichek stands alone—no known linguistic relatives exist anywhere on Thalorna. The language is deeply connected to K'ich'chik cosmology, mathematics, and spiritual worldview. To the untrained ear, Ki'ichek sounds exotic and mysterious: a cascade of glottal stops and sharp consonants interspersed with clear vowel sounds, often accompanied by tonal glides that shift meaning.
+Ki'ichek is the ancient language of the city-states of [[place-kchchkcntnnt|K'ich'chik Continent]], a civilization that predates human settlement of [[place-ankrscntnnt|Ankaris Continent]] by millennia. Spoken across an entire separate continent, Ki'ichek stands alone—no known linguistic relatives exist anywhere on [[place-worldthlrn|The World of Thalorna]]. The language is deeply connected to K'ich'chik cosmology, mathematics, and spiritual worldview. To the untrained ear, Ki'ichek sounds exotic and mysterious: a cascade of glottal stops and sharp consonants interspersed with clear vowel sounds, often accompanied by tonal glides that shift meaning.
 
 Ki'ichek employs a complex hieroglyphic writing system that encodes both phonetic and logographic information. The language reflects the K'ich'chik obsession with order, hierarchy, astronomical cycles, and the sacred balance between the natural and divine worlds.
 
@@ -685,7 +685,7 @@ Adjectives follow nouns; adverbs precede verbs. This allows the listener to grou
 
 ## Script and Literacy
 
-Ki'ichek writing—[[skill-chlxplmscrpt|Ch'alish P'ilam]], "the glyphs of Ch'alish", after the goddess who composed the first codex—combines **logographic and phonetic elements**. Each glyph can represent either a whole word-concept or a syllabic sound, depending on context. The script is written in columns read from top to bottom, left to right.
+Ki'ichek writing—[[skill-chlxplmscrpt|Ch'alish P'ilam Script]], "the glyphs of Ch'alish", after [[lore-ixilanchalixdty|Ish'ilan Ch'alish]], the goddess whom tradition credits with composing the first codex—combines **logographic and phonetic elements**. Each glyph can represent either a whole word-concept or a syllabic sound, depending on context. The script is written in columns read from top to bottom, left to right.
 
 Key script features:
 
@@ -701,7 +701,7 @@ Diacritical marks
 Ceremonial variants
 : More elaborate, ornate forms used in sacred contexts
 
-Alongside the glyphs runs a second system entirely: the [[skill-ktzlcrdscrpt|K'otsel]], knotted cord records in colored thread, carrying tribute tallies, census and the day-counts, tied and read only by the priestly scribes.
+Alongside the glyphs runs a second system entirely: the [[skill-ktzlcrdscrpt|K'otsel Cord Script]], knotted cord records in colored thread, carrying tribute tallies, census and the day-counts, tied and read only by the priestly scribes.
 
 Literacy is restricted among the K'ich'chik; scribes and priests hold tremendous social power. Common folk recognize a few dozen glyphs related to daily life (numbers, calendar markers, titles) but cannot read continuous text.
 
@@ -716,10 +716,10 @@ The language preserves archaic elements in formal speech and sacred texts—olde
 Geographically vast and politically fragmented, K'ich'chik city-states maintain distinct dialects:
 
 Northern dialect
-: Spoken in Ts'uma No'tun and P'enqal Ch'akal; emphasizes sharp consonant articulation
+: Spoken in [[place-tzumanotun2|Ts'uma No'tun]] and [[place-penqalchakal2|P'enqal Ch'akal]]; emphasizes sharp consonant articulation
 
 Central dialect
-: The prestige form, centered on Shik'ul Ch'akal; balances clarity with flowing speech
+: The prestige form, centered on [[place-xikulchakl2|Shik'ul Ch'akal]]; balances clarity with flowing speech
 
 Southern dialect
 : Softer glottal stops, longer vowel sounds, influenced by older ceremonial forms
@@ -1297,7 +1297,7 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Ts�
 
 2.  **Shik’tel** - Ancient Tree/Sacred Grove
 
-3.  **K’ayik Kul’al** - The Living Flame: the rite that kindles every hearth anew from one fire when the Ts’en and Tq’an counts come back into phase (_k’ayik_ flame + _kul’al_ alive)
+3.  [K’ayik Kul’al]{.name data-type="lore/custom"} - The Living Flame: the rite that kindles every hearth anew from one fire when the Ts’en and Tq’an counts come back into phase (_k’ayik_ flame + _kul’al_ alive)
 
 4.  **Member of Tribe**:
     - **Ki’ichek**: _Ts’omalil_ (_ts’om_ = connection or belonging, _alil_ = of the group)
@@ -1385,7 +1385,7 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Ts�
 
 ## Ki'ichek Lexicon {#lexicon}
 
-A scribe of [[affiliation-ixilankul|Ish'ilankul]] learns two things before a single glyph: the counts, and the endings. A word in [[skill-kicheklng|Ki'ichek]] names a thing, and an ending says who stands toward it: _p'ilam_ is a glyph, and the _p'ilambal_ is the one who serves the glyphs; _ts'en_ is the sun, the _ts'enmah_ is the lord who rules under it, and the _ts'enbal_ is the priest who keeps its count. The same handful of endings make every title in a K'ich'chik court, so a ruler's whole household can be read from its titles alone.
+A scribe of [[affiliation-ixilankul|Ish'ilankul]] learns two things before a single glyph: the counts, and the endings. A word in Ki'ichek names a thing, and an ending says who stands toward it: _p'ilam_ is a glyph, and the _p'ilambal_ is the one who serves the glyphs; _ts'en_ is the sun, the _ts'enmah_ is the lord who rules under it, and the _ts'enbal_ is the priest who keeps its count. The same handful of endings make every title in a K'ich'chik court, so a ruler's whole household can be read from its titles alone.
 
 This page is the word-hoard of the [[place-kchchkcntnnt|K'ich'chik]] city-states: the words the language note uses, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives to the continent's realms, gods, rites and scripts.
 

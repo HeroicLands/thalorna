@@ -9,9 +9,9 @@ tags: [reference, currency, economy, barter]
 
 ## Overview
 
-The **barter economy** is the practice of direct goods-for-goods exchange without monetary intermediary. It is the predominant economic system in much of Thalorna—the tribal regions, the pastoral steppes, the frontier highlands, and the deep interiors of any region the formal currency systems do not reach. It is also a substantial _secondary_ economy in regions that have currency: most rural commerce in the Aureldian kingdoms, most clan-level exchange in the Nordlands, most market-day transactions in Bethuan villages, and a substantial fraction of the daily commerce of every Thalornan polity operates in barter even where coined currency is technically available.
+**The Barter Economy** is the practice of direct goods-for-goods exchange without monetary intermediary. It is the predominant economic system in much of [[place-worldthlrn|The World of Thalorna]]—the tribal regions, the pastoral steppes, the frontier highlands, and the deep interiors of any region the formal currency systems do not reach. It is also a substantial _secondary_ economy in regions that have currency: most rural commerce in the kingdoms of the [[place-aureldirgn|Aureldia Region]], most clan-level exchange in the [[place-nrdlndsrgn|Nordlands Region]], most market-day transactions in [[lore-bethuanclt|Bethuan]] villages, and a substantial fraction of the daily commerce of every Thalornan polity operates in barter even where coined currency is technically available.
 
-The barter economy is not unsophisticated. Long-established cultures of barter develop precise customary exchange rates (a sheep is worth so many measures of grain at a given season; a fine horse is worth so many bolts of fine cloth; an iron tool is worth so many days of skilled labor), formal protocols for negotiation and dispute resolution, and standardized "money goods"—durable commodities (grain, livestock, fine cloth, certain metals in non-coin form) that store and transport value reliably. A skilled barter merchant in the Khazryn steppe or the Vristwald interior is no less commercially capable than a Vylarian moneylender; the medium of exchange is different, the institutional infrastructure is different, but the underlying commerce is just as substantive.
+The barter economy is not unsophisticated. Long-established cultures of barter develop precise customary exchange rates (a sheep is worth so many measures of grain at a given season; a fine horse is worth so many bolts of fine cloth; an iron tool is worth so many days of skilled labor), formal protocols for negotiation and dispute resolution, and standardized "money goods"—durable commodities (grain, livestock, fine cloth, certain metals in non-coin form) that store and transport value reliably. A skilled barter merchant in the steppe of the [[place-khzryndsrtrgn|Khazryn Desert Region]] or the interior of [[place-vrystwald|Vristwald]] is no less commercially capable than a Vylarian moneylender; the medium of exchange is different, the institutional infrastructure is different, but the underlying commerce is just as substantive.
 
 ## Customary Exchange Rates
 
@@ -56,8 +56,8 @@ Barter is the dominant economic system in:
 
 - The **Nordlands** and **Vristwald** for all commerce above coin-carryable amounts (Vylarian coin handles small transactions; barter handles large ones). See [[lore-vylrncrncy|Vylarian Currency]] for the Nordlands' coin-only situation.
 - The **steppe tribes of the Khazryn**, the [[lore-sowidesclt|Sovidur]], outside the few urbanized trading-cities; the tribal interior runs almost entirely on barter and tribal credit.
-- The **Dunhara Tribes** in their entirety; the pastoral economy has not monetized.
-- The **Southern Savannahs** including the **Nyáluba Tribal Nation**.
+- The **[[affiliation-dunhartrbs|Dunhara Tribes]]** in their entirety; the pastoral economy has not monetized.
+- The **[[place-sthrnsvnhs|Southern Savannahs]]** including the **[[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]**.
 - The **rural hinterlands** of every settled polity (most rural commerce is barter even where coined currency is available in the cities).
 - Frontier and deep-interior regions of every Thalornan continent.
 
@@ -67,7 +67,7 @@ Barter is the _secondary_ economic system in most settled polities—operating a
 
 The pure-spot-exchange form of barter—A trades goods for B's goods, transaction complete—is the simple case. The more complex case is **deferred barter**, in which goods are exchanged for the _promise_ of future goods. A Nordlands fur-trader gives a hall its season's furs in exchange for the hall's commitment to provide a season's worth of ale and grain at the harvest. The arrangement requires trust and is enforced by the social structures within which the parties operate (kin obligation, tribal custom, the standing reputation of both parties).
 
-Deferred barter is the bridge between simple barter and the formal credit systems of polities like the Nordlands and Dunhara, where [[lore-kinhalcrdt|kin and hall credit]] operates as a structured extension of deferred-barter customs. The distinction between deferred barter (a single transaction with a delivery deferred) and kin/hall credit (an ongoing pattern of obligation between parties bound by kinship or hall-affiliation) is somewhat fluid; both rest on the same fundamental principle that the relationship between the parties is the security for the transaction.
+Deferred barter is the bridge between simple barter and the formal credit systems of polities like the Nordlands and the [[place-dunharargn|Dunhara Region]], where [[lore-kinhalcrdt|Kin and Hall Credit]] operates as a structured extension of deferred-barter customs. The distinction between deferred barter (a single transaction with a delivery deferred) and kin/hall credit (an ongoing pattern of obligation between parties bound by kinship or hall-affiliation) is somewhat fluid; both rest on the same fundamental principle that the relationship between the parties is the security for the transaction.
 
 ## Limitations
 

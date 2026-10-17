@@ -948,9 +948,9 @@ sohl:
     initSkillMult: 0
 ---
 
-Tantsou is a tonal tongue of single-syllable words. Fluency measures the sophistication of expression in Tantsou, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Tantsou Language is a tonal tongue of single-syllable words. Fluency measures the sophistication of expression in Tantsou, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The language is known natively as **Tantsou**, the name of the people (_tan_, celestial, and _tsou_, people) and of the country they hold. It is the common tongue of the [[affiliation-tantsouempr|Tantsou empire]]; [[skill-jurthatlng|Jurthati]] is its island daughter. This document gives the sounds, the grammar, the way names are built and the compound words of the court, the calendar and the Celestial Order. [[skill-tantsoulng#lexicon|The lexicon]] holds the full word-hoard.
+The language is known natively as **Tantsou**, the name of the people (_tan_, celestial, and _tsou_, people) and of the country they hold. It is the common tongue of the [[affiliation-tantsouempr|Empire of Tantsou]]; [[skill-jurthatlng|Jurthati Language]] is its island daughter. This document gives the sounds, the grammar, the way names are built and the compound words of the court, the calendar and the [[lore-celestlrdr|Celestial Order]]. [[skill-tantsoulng#lexicon|The lexicon]] holds the full word-hoard.
 
 ---
 
@@ -1207,7 +1207,7 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 
 Tantsou employs a **logographic writing system** in which each character represents a morpheme. Characters are organized by semantic radicals and may be combined into compound characters mirroring the language's compounding grammar. Because a character stands for a meaning, the same character serves several words that differ only in tone. The system is extraordinarily rich but demands years of intensive study.
 
-**Formal Script ([[skill-tengchouscript|Teng Chou]], "Celestial Record"):** The standard script used in imperial documents, religious texts, and classical literature. Characters are drawn with precise, angular strokes. Approximately 3,000-4,000 characters are required for general educated reading; scholars may master 6,000 or more.
+**Formal Script ([[skill-tengchouscript|Teng Chou Script]], "Celestial Record"):** The standard script used in imperial documents, religious texts, and classical literature. Characters are drawn with precise, angular strokes. Approximately 3,000-4,000 characters are required for general educated reading; scholars may master 6,000 or more.
 
 **Cursive Script ([[skill-tengchouscript|Dou Chou]], "Flowing Record"):** A more rapid, connected hand used for administrative and mercantile purposes. Simplified character forms reduce the stroke count while preserving legibility for trained scribes.
 
@@ -1219,7 +1219,7 @@ Tantsou is a language isolate with no widely-accepted external relatives. Older 
 
 **Classical Period (Age of Dynasties, ~2,300 years ago):** The standardization of the classical language occurred during the early dynasties of the empire. The language of this period is preserved in classical texts and bronze inscriptions, and remains largely comprehensible to educated modern speakers.
 
-**Literary Standardization (~1,200 years ago):** A major literary standardization fixed the characters and their meanings in the _Dao Chou_ ("Great Record"). This standardization has proven remarkably stable; scholars can read texts 2,000 years old with only minor difficulty.
+**Literary Standardization (~1,200 years ago):** A major literary standardization fixed the characters and their meanings in the _[Dao Chou]{.name data-type="lore"}_ ("Great Record"). This standardization has proven remarkably stable; scholars can read texts 2,000 years old with only minor difficulty.
 
 **Modern Tantsou:** The spoken language has undergone some phonological change—drifting tones, minor vowel shifts—but the conservatism of the writing system and the prestige of classical education have kept the language extraordinarily stable.
 
@@ -1227,7 +1227,7 @@ Tantsou is a language isolate with no widely-accepted external relatives. Older 
 
 **Imperial Dialect:** The prestige standard, spoken in the capital and taught in formal education. Keeps all four tones and every classical grammatical form.
 
-**Northern Tantsou:** The speech of the northern marches along the [[place-grkrhlmrgn|Grukarholm]] frontier, moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from the neighboring steppe languages.
+**Northern Tantsou:** The speech of the northern marches along the [[place-grkrhlmrgn|Grukarholm Region]] frontier, moderately divergent. Some vowel mergers and simplified compound forms. More borrowing from the neighboring steppe languages.
 
 **Southern Tantsou:** Spoken in the agricultural and mercantile south. Tones lie closer together, speech rhythms run faster, and trade languages lend more words.
 
@@ -1274,7 +1274,7 @@ Names follow a **family-name-first pattern**. The family name (_zhao_) precedes 
 
 ## Tantsou Lexicon {#lexicon}
 
-The Celestial Order of [[affiliation-tantsouempr|Tantsou]] calls itself the _Téngwou Rong Lei_, the celestial court of a myriad spirits, and every piece of that name is a word a farmer uses: _teng_ is the sky over his field, _wou_ the magistrate's hall, _rong_ the count past counting, _lei_ the breath in his chest. [[skill-tantsoulng|Tantsou]] builds its names by setting such words side by side, and the empire's castes, gods, bureaus, months and generals are all made this way. This page is the word-hoard of the tongue: the words, the rules a new word is built by, and the register of every name the setting gives in Tantsou, and in the Celestial Order.
+In local tradition, the Celestial Order of [[affiliation-tantsouempr|Tantsou]] calls itself the _Téngwou Rong Lei_, the celestial court of a myriad spirits, and every piece of that name is a word a farmer uses: _teng_ is the sky over his field, _wou_ the magistrate's hall, _rong_ the count past counting, _lei_ the breath in his chest. Tantsou builds its names by setting such words side by side, and the empire's castes, gods, bureaus, months and generals are all made this way. This page is the word-hoard of the tongue: the words, the rules a new word is built by, and the register of every name the setting gives in Tantsou, and in the Celestial Order.
 
 A Tantsou word is a single syllable, and a compound reads modifier first: _zha_ is life and _zho_ is the dragon, so _Zhazho_, life-dragon, is the dragon-born caste of the Emperor's family. A name or a caste is written as one word; a title, an office or an institution is written as separate words, as in _Teng Gui_, the celestial minister.
 
@@ -1315,13 +1315,13 @@ FROM clusters WHERE language = 'thalorna-note-skill-tantsoulng'
 
 ## Building words {#building-words}
 
-One move makes nearly every built word on this page: **two words set side by side, the modifier first.** _Ho_ is fire and _you_ is the month, so _Hoyou_ is the fire month. A handful of words close compounds so often that the [[skill-tantsoulng|language note]] lists them as suffixes: _-tsou_ for a people or group, _-wo_ and _-léi_ for a spirit, _-gui_ for an official, _-gen_ for a master, _-zhuo_ for a lord, _-you_ for a month, _-jui_ for a festival, _-chai_ for a mountain or place, _-wou_ for a court and _-séi_ for a bureau. Each is the plain word, and each is set on its first word unchanged.
+One move makes nearly every built word on this page: **two words set side by side, the modifier first.** _Ho_ is fire and _you_ is the month, so _Hoyou_ is the fire month. A handful of words close compounds so often that this note lists them as suffixes: _-tsou_ for a people or group, _-wo_ and _-léi_ for a spirit, _-gui_ for an official, _-gen_ for a master, _-zhuo_ for a lord, _-you_ for a month, _-jui_ for a festival, _-chai_ for a mountain or place, _-wou_ for a court and _-séi_ for a bureau. Each is the plain word, and each is set on its first word unchanged.
 
 Nothing joins or alters the two words, each syllable keeps its own tone, and the tongue marks no plural: _rong_, ten thousand, set before a noun, gives the sense of countless.
 
 ## Making names {#making-names}
 
-**A person** of Tantsou carries the house name first and the given name after it. The house name is a single word, older than any record: [[skill-tantsoulng|Tantsou]] lists _Tan_, _Wei_, _Jing_, _Shou_ and their like. Most people never hold a personal name; one granted for service is a compound of two to four words, a man's drawn from strength and the sky, a woman's from flowers, the moon and the stars. [[lore-personlnms|Personal Names]] gives the grant.
+**A person** of Tantsou carries the house name first and the given name after it. The house name is a single word, older than any record: this note lists _Tan_, _Wei_, _Jing_, _Shou_ and their like. Most people never hold a personal name; one granted for service is a compound of two to four words, a man's drawn from strength and the sky, a woman's from flowers, the moon and the stars. [[lore-personlnms|Personal Names]] gives the grant.
 
 **A god, a caste or a place** is a compound written as one word: _Tanzho_, the celestial dragon; _Wohou_, the warrior-nobles; _Jenchai_, the nine mountains. **A title, an office or an institution** keeps its words apart: _Ho Sei_, the fire bureau; _Teng Gui_, the celestial minister.
 

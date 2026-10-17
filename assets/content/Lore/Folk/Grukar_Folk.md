@@ -8,15 +8,15 @@ tags: []
 data: {packFolder: settinglore}
 ---
 
-The Grukar are a brutal and prolific folk, feared wherever their guttural war-cries echo across the hills. Thick-skinned, tusked, and foul-tempered, they inhabit the blighted wastes, the deep ravines, and the ruined places of the world where no civilized folk would willingly tread. Ranging in height from roughly four and a half feet among the stunted common breed to a towering six and a half feet among the rarest and most fearsome of their kind, the Grukar are not a single uniform threat but a fractious, seething mass of subspecies locked in perpetual internal struggle—a struggle that, paradoxically, is the very engine of their survival.
+The Grukar Folk are a brutal and prolific folk, feared wherever their guttural war-cries echo across the hills. Thick-skinned, tusked, and foul-tempered, they inhabit the blighted wastes, the deep ravines, and the ruined places of the world where no civilized folk would willingly tread. Ranging in height from roughly four and a half feet among the stunted common breed to a towering six and a half feet among the rarest and most fearsome of their kind, the Grukar are not a single uniform threat but a fractious, seething mass of subspecies locked in perpetual internal struggle—a struggle that, paradoxically, is the very engine of their survival.
 
 ## The Appearing
 
-The Grukar have not always been on Thalorna.
+The Grukar have not always been on [[place-worldthlrn|The World of Thalorna]].
 
-They are first recorded around **3000 BF**, and the record is Khazari—the Deep Folk having both the
-habit of writing things down and, at that date, the finest archive in the world at
-[[lore-khazarturn|Khazartúrn]]. Nothing written there in its first twenty-one centuries mentions them.
+They are first recorded around **3000 BF**, and the record is from the [[lore-flkkhazar|Khazár Folk]]—the Deep Folk having both the
+habit of writing things down and, at that date, the finest archive in the world at the city of
+[Khazartúrn]{.name data-type="place/settlement"} (see [[lore-khazarturn|The Fall of Khazartúrn]]). Nothing written there in its first twenty-one centuries mentions them.
 Then, within a generation, a great deal does.
 
 Where they came from is not known. The Khazari account, which is the only contemporary one, does not
@@ -27,18 +27,18 @@ being some two and a half thousand years in the future.
 What is beyond dispute is the speed with which they spread. Within three thousand years they held a
 substantial share of a continent.
 
-Close to six centuries after they appeared, Grukar destroyed [[lore-khazarturn|Khazartúrn]]—and this is the
+Close to six centuries after they appeared, Grukar destroyed Khazartúrn—and this is the
 most misunderstood fact about them. They did not do it and could not have: **Ahks do not cooperate**,
-which is the constraint that has always kept the Grukar a frontier nuisance rather than a conquest. A
-[[lore-flksinale|Sinale]] outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of
+which is the constraint that has always kept the Grukar a frontier nuisance rather than a conquest. An outlaw of
+[[lore-flksinale|Sinale Folk]] wielding [[miscgear-secondvoice|The Second Voice]] took tens of
 thousands of them from their spawners and used them as a weapon. The tribes so emptied did not
 recover; an Ahk cannot follow its own spawn, and does not stop existing afterward.
 
-The [[lore-flkkhazar|Khazari]] know this, have it written down, and kill Grukar on sight regardless.
+The Khazari know this, have it written down, and kill Grukar on sight regardless.
 
 ## Biology and Reproduction
 
-The Grukar are genderless. They are not "males" or "females" in any meaningful sense—the words simply do not apply, and Grukar themselves have no concept of male or female roles, mating pairs, or sexual difference. Reproduction in Grukar society is the exclusive function of a separate subspecies, the [[being-grkrahk|Grukar-ahk]], which is self-fertilizing. A fertile Grukar-ahk lays clutches of eggs from which all other Grukar are spawned, and one of the Grukar-ahk's most remarkable abilities is the capacity to choose the subspecies of its spawn—to lay eggs that hatch as Grukar-Uk, Grukar-Sha, or Grukar-Hushk according to the changing needs of its tribe.
+The Grukar are genderless. They are not "males" or "females" in any meaningful sense—the words simply do not apply, and Grukar themselves have no concept of male or female roles, mating pairs, or sexual difference. Reproduction in Grukar society is the exclusive function of a separate subspecies, the [[being-grkrahk|Grukar-ahk]], which is self-fertilizing. A fertile Grukar-ahk lays clutches of eggs from which all other Grukar are spawned, and one of the Grukar-ahk's most remarkable abilities is the capacity to choose the subspecies of its spawn—to lay eggs that hatch as [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], or [[being-grkrhshk|Grukar-Hushk]] according to the changing needs of its tribe.
 
 The choice is made at the moment of laying. What decides a hatchling's subspecies is not its blood—every Grukar of a tribe is built from the same inheritance—but what the Ahk feeds into the egg as it lays: a chemistry that wakes some part of that common inheritance and puts the rest to sleep. The egg is not bred into a Grukar-Hushk; it is told to become one. A clutch is dosed as a clutch and so comes out whole: a laying of Uk, or a laying of Sha, or—rarely, and never without cause—a laying of Hushk. Word that the spawn-chamber has laid Hushk runs through a tribe the way a declaration of war runs through a kingdom, which is precisely what it is.
 
@@ -70,7 +70,7 @@ This rite preserves a Grukar's acquired knowledge. **Human flesh is a delicacy t
 
 ## The Hive-like Society of the Grukar
 
-A Grukar tribe is centered on a single fertile [[being-grkrahk|Grukar-ahk]], the spawning matrix on whom the entire tribe's continuation depends. Around the fertile Grukar-ahk live a small number of infertile Grukar-ahk—usually three to six—who serve as personal guardians and as a kind of biological reserve. These infertile Grukar-ahk are physically smaller and structurally simpler than the fertile one; they cannot spawn while the fertile Grukar-ahk lives, but each carries the latent capacity to become fertile if the circumstances arise.
+A Grukar tribe is centered on a single fertile Grukar-ahk, the spawning matrix on whom the entire tribe's continuation depends. Around the fertile Grukar-ahk live a small number of infertile Grukar-ahk—usually three to six—who serve as personal guardians and as a kind of biological reserve. These infertile Grukar-ahk are physically smaller and structurally simpler than the fertile one; they cannot spawn while the fertile Grukar-ahk lives, but each carries the latent capacity to become fertile if the circumstances arise.
 
 When a tribe grows too large for its territory to support, internal pressure builds toward fragmentation. A faction of disaffected Grukar—typically a Grukar-Hushk with its retainers, sometimes coordinated by a Grukar-Sha plotting an exit—will mount a raid on the inner sanctum, seize one of the infertile Grukar-ahk, and flee with it into unclaimed land. Once the abducted Grukar-ahk is sufficiently distant from its mother-tribe's fertile spawner, its dormant biology activates and it becomes fertile in turn. From that moment a new tribe exists; from its first clutch of eggs, the new Grukar-ahk begins shaping it.
 

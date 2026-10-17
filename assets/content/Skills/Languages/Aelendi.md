@@ -1982,19 +1982,19 @@ sohl:
 # terran_analog: Áelendi is patterned on a conservative mountain branch of a family whose lowland daughters changed fast, with a deep layer of borrowings from a neighbor it shares nothing else with, in the way the Celtic tongues of the uplands kept old sounds and took words from their neighbors. Every inherited word is derived by the tables below from an ancient Vylari root, and every loan from a row of the Sinale lexicon; none is checked by eye alone, and every word is checked against Earth word lists.
 ---
 
-Áelendi is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Áelendi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill; see [[skill-aelendlng|Áelendi Language]] for the linguistic and cultural background of the tongue itself.
+Áelendi Language is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Áelendi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill; see below for the linguistic and cultural background of the tongue itself.
 
-Áelendi is the most conservative member of the entire Pelwar language family, preserved and spoken by the Áelendan people—the "People of the Pact"—who dwell in the mountains of central Élavendre. The Áelendan consider themselves the guardians of an ancient compact with the land itself, and their language reflects this sacred role.
+Áelendi is the most conservative member of the entire Pelwar language family, preserved and spoken by the [[lore-aelendnppl|Áelendan People]]—the "People of the Pact"—who dwell in the mountains of central [[place-elavendre|Élavendre]]. The Áelendan consider themselves the guardians of an ancient compact with the land itself, and their language reflects this sacred role.
 
 ## Overview
 
-Áelendi represents a direct descent from an ancient form of [[lore-pelwarpepl|Pelwar People]], preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords.
+Áelendi represents a direct descent from the ancient Pelwar tongue (see [[lore-pelwarpepl|Pelwar People]]), preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords.
 
 The [[skill-aelendlng#lexicon|Áelendi Lexicon]] gives the words with their sources, the rules that make them, and the elements the names are built from.
 
 ## How Áelendi sounds
 
-Áelendi is the conservative highland tongue that Élavendri came from. It keeps the old, hard sounds that the lowland softened.
+Áelendi is the conservative highland tongue that [[skill-elvndrlng|Élavendri Language]] came from. It keeps the old, hard sounds that the lowland softened.
 
 **The vowels.** _a_, _o_, _e_ and _i_ are held single and full. One acute moves stress where it falls off the rule.
 
@@ -2018,7 +2018,7 @@ The [[skill-aelendlng#lexicon|Áelendi Lexicon]] gives the words with their sour
 
 ### Áelendi and Élavendri
 
-The two tongues descend from one, and nearly every difference between them is a distinction [[skill-elvndrlng|Élavendri]] has given up rather than one Áelendi has invented. This is what makes a conservative language conservative, and it is the most useful thing to know about Áelendi: hearing it, a lowlander is hearing his own speech with the losses put back.
+The two tongues descend from one, and nearly every difference between them is a distinction Élavendri has given up rather than one Áelendi has invented. This is what makes a conservative language conservative, and it is the most useful thing to know about Áelendi: hearing it, a lowlander is hearing his own speech with the losses put back.
 
 **The ejectives.** Proto-Pelwar held three stop series, and Áelendi holds all three. Élavendri holds two: its ejectives have fallen together with the plain stops, which is why its inventory runs to four common stops where Áelendi's runs to twelve.
 
@@ -2057,17 +2057,17 @@ An Élavendri speaker cannot understand Áelendi without study. The phonetic dif
 
 ## Script & Literacy
 
-Áelendi is cut in [[skill-thrvrdhscrpt|Thurarth]], the old rune-row of the highlands—the western, lenited branch of the same Proto-Pelwar graven work that gives the Nordmen their [[skill-thuravarkscript|Thuravark]] and imperial Vylaria its [[skill-thrvrknscrpt|Tharavarkon]]. It survives in better health here than in [[skill-elvndrlng|Élavendri]] below, where the [[skill-semrnscrpt|Semaron]] has displaced it for everything but poetry and magic. The row keeps more than the lowland speech does: Thurarth carries older Élavendri as well, and its cuttings still hold separate staves for the ejectives and the aspirated stops Élavendri has since let fall together, so a lowland scholar reading an old inscription is spelling sounds his own mouth no longer makes.
+Áelendi is cut in [[skill-thrvrdhscrpt|Thurarth Script]], the old rune-row of the highlands—the western, lenited branch of the same Proto-Pelwar graven work that gives the [[lore-nordheimnclt|Nordheimn]] their [[skill-thuravarkscript|Thuravark Runic Script]] and the [[affiliation-vylarinmpr|Vylarian Empire]] its [[skill-thrvrknscrpt|Tharavarkon Script]]. It survives in better health here than in [[skill-elvndrlng|Élavendri]] below, where the [[skill-semrnscrpt|Semaron Script]] has displaced it for everything but poetry and magic. The row keeps more than the lowland speech does: Thurarth carries older Élavendri as well, and its cuttings still hold separate staves for the ejectives and the aspirated stops Élavendri has since let fall together, so a lowland scholar reading an old inscription is spelling sounds his own mouth no longer makes.
 
-What is written rather than cut is written in the [[skill-clthndscrpt|Veldirno]], the Sinale starlight-hand, which the Áelendan took from their neighbours rather than received from any ancestor. Nothing about the tongue came with it—Áelendi is Pelwar to the root and shares no descent whatever with Sinale—but the [[lore-flksinale|Sinale]] enclaves are near, old, and on terms with the highlands they keep with nobody else, and the hand came across the way everything else between them has. Why the Sinale opened it to these neighbours and not to others is the same question their whole closeness raises, and it has never been answered by either side.
+What is written rather than cut is written in the [[skill-clthndscrpt|Veldirno Script]], the Sinale starlight-hand, which the Áelendan took from their neighbours rather than received from any ancestor. Nothing about the tongue came with it—Áelendi is Pelwar to the root and shares no descent whatever with [[skill-sinalelng|Sinale Language]]—but the [[lore-flksinale|Sinale Folk]] enclaves are near, old, and on terms with the highlands they keep with nobody else, and the hand came across the way everything else between them has. Why the Sinale opened it to these neighbours and not to others is the same question their whole closeness raises, and it has never been answered by either side.
 
 [[skill-elvndrlng|Élavendri]] did not take it. The lowlands went the other way and adopted the [[skill-semrnscrpt|Semaron]], the working alphabet of the Vylarian Empire, and a modern Élavendri book is in imperial letters. So the two branches borrowed their writing from opposite neighbours, and that is the whole account of how they came to differ: one people stayed in the Sinale's orbit and took what the Sinale had, the other moved into Vylaria's and took what Vylaria had, and the speech of each went the way of the company it kept.
 
-What the two hands reach is not comparable. An Élavendri page can be read by anyone holding the Semaron, which is most of the educated across Mídhalión and western Ankaris; an Áelendi page can be read by the Sinale and by almost nobody else alive. And the two peoples can speak and cannot read—the tongues are near enough for a conversation, and the highlander commonly has the lowland one besides, but neither makes out a line the other has set down. Only in magic and old poetry, where both still reach for Thurarth, do they meet on a page.
+What the two hands reach is not comparable. An Élavendri page can be read by anyone holding the Semaron, which is most of the educated across [[place-midhalnrgn|Mídhalión Region]] and the western [[place-ankrscntnnt|Ankaris Continent]]; an Áelendi page can be read by the Sinale and by almost nobody else alive. And the two peoples can speak and cannot read—the tongues are near enough for a conversation, and the highlander commonly has the lowland one besides, but neither makes out a line the other has set down. Only in magic and old poetry, where both still reach for Thurarth, do they meet on a page.
 
 A borrowed script never fits, and this one misfits in both directions at once. Veldirno was made for a soft-consonant tongue and has no letter for an ejective or for an aspirated stop, so Áelendan scribes write both as ligatures—the hand's constant ligaturing put to a job Sinale never asked of it, and the first thing a Sinale reader notices. Running the other way, the marks the hand keeps for stress variation have nothing here to mark, Áelendi stress never moving off the first syllable; the scribes spend them on vowel length instead, where eight positions and a length distinction need more than Sinale ever asked the marks to carry.
 
-The Áelendan nonetheless write very little. The Kindred Pact is deliberately unwritten, and the tradition holds that a thing committed to stone stops being renewed in the mouth. What is cut in Thurarth is therefore exceptional by definition: wards, boundary and grave markers, and the magical texts of great antiquity that draw mages up out of the lowlands to read them in the original. True literacy is confined to those training in the magical arts, a portion of the elders, and the occasional antiquarian from the Thordimalon (the Arcane Order) who has been permitted—rarely, and under watch—to copy an inscription.
+The Áelendan nonetheless write very little. The [Kindred Pact]{.name data-type="lore/law"} is deliberately unwritten, and the tradition holds that a thing committed to stone stops being renewed in the mouth. What is cut in Thurarth is therefore exceptional by definition: wards, boundary and grave markers, and the magical texts of great antiquity that draw mages up out of the lowlands to read them in the original. True literacy is confined to those training in the magical arts, a portion of the elders, and the occasional antiquarian from [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) who has been permitted—rarely, and under watch—to copy an inscription.
 
 ## Sample Phrases
 
@@ -2082,7 +2082,7 @@ The Áelendan nonetheless write very little. The Kindred Pact is deliberately un
 
 ## Naming Traditions
 
-A name is inherited. A child receives the name of an honoured ancestor and is expected to carry what came with it, and the [[lore-aelendnppl|Áelendan]] do not coin new ones lightly—a name entering a lineage for the first time is an event the Tradition Keepers record and recite afterward among the genealogies.
+A name is inherited. A child receives the name of an honoured ancestor and is expected to carry what came with it, and the Áelendan do not coin new ones lightly—a name entering a lineage for the first time is an event the Tradition Keepers record and recite afterward among the genealogies.
 
 **A given name is a root, or two roots set together, and nothing else.** It carries one mark, over its first syllable, because that is where the stress falls. Masculine names close on a consonant and feminine names on -a; the neuter takes no personal names at all, belonging in the grammar to what is static and eternal.
 
@@ -2121,9 +2121,9 @@ The roots are ordinary vocabulary, and a speaker hears the sense as he hears the
 
 ## Áelendi Lexicon {#lexicon}
 
-At a gathering in [[place-eshalshldg|Ésalosa]], before anything is decided, a Tradition Keeper stands and recites the names. He begins with the band that crossed the eastern pass and comes down, founder by founder and clan by clan, to the people sitting at the fire, and he does not hurry, because a name left out has stopped existing. Every name he says is an Áelendi word, and so is every word he uses to join them. Half the words for the wood outside came from the Sinale, and the Áelendan count them as their own.
+At a gathering in [[place-eshalshldg|Ésalosa Lodge]], before anything is decided, a Tradition Keeper stands and recites the names. He begins with the band that crossed the eastern pass and comes down, founder by founder and clan by clan, to the people sitting at the fire, and he does not hurry, because a name left out has stopped existing. Every name he says is an Áelendi word, and so is every word he uses to join them. Half the words for the wood outside came from the Sinale, and the Áelendan count them as their own.
 
-This is the word-hoard of [[skill-aelendlng|Áelendi]], the tongue of the [[lore-aelendnppl|Áelendan]]. It is the daughter of ancient Vylari that left first and changed least: it still says the clicked stops the empire's speech gave up, and it lost only the sounds made with the lips. It is also the only daughter that took a whole second layer of words from a neighbor. The [[lore-flksinale|Sinale]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. This page gives every word with its source, the rules that turn an ancient word or a Sinale one into Áelendi, and the pieces the names are built from.
+This is the word-hoard of Áelendi, the tongue of the [[lore-aelendnppl|Áelendan]]. It is the daughter of ancient [[skill-vylarilng|Vylari Language]] that left first and changed least: it still says the clicked stops the empire's speech gave up, and it lost only the sounds made with the lips. It is also the only daughter that took a whole second layer of words from a neighbor. The [[lore-flksinale|Sinale]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. This page gives every word with its source, the rules that turn an ancient word or a Sinale one into Áelendi, and the pieces the names are built from.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -2189,7 +2189,7 @@ The clicked stops, the breathed `dh` and `gh` and the long vowels of the first s
 
 ## The Sinale loans {#the-sinale-loans}
 
-When the band came over the eastern pass, about two thousand one hundred years ago, the Sinale met them at the lowest pool and set a watch at Thalve, and what they taught was the wood: "You learn it: tree, path, pool. And there are places where it's thin." The words came with the teaching. They are thickest where the teaching was, in the trees, the water below the snow line, the veil and the rites, and they are absent from the herds, the kin, the body, the numbers and the oath, which the band brought with it. A second band of loans came later with the [[skill-clthndscrpt|Veldirno]], the Sinale hand. The loans are almost all nouns. No pronoun, number, kin word, part of the body or ending was ever borrowed, and no given name, because names are inherited.
+When the band came over the eastern pass, about two thousand one hundred years ago, the Sinale met them at the lowest pool and set a watch at [Thalve]{.name data-type="place/site"}, and what they taught was the wood: "You learn it: tree, path, pool. And there are places where it's thin." The words came with the teaching. They are thickest where the teaching was, in the trees, the water below the snow line, the veil and the rites, and they are absent from the herds, the kin, the body, the numbers and the oath, which the band brought with it. A second band of loans came later with the [[skill-clthndscrpt|Veldirno]], the Sinale hand. The loans are almost all nouns. No pronoun, number, kin word, part of the body or ending was ever borrowed, and no given name, because names are inherited.
 
 A Sinale word is said in Áelendi by the changes below. Doubled vowels become long ones; `y` and `ë` become `i` and `e`; `rh` becomes `r`; an `h` before a consonant falls and lengthens the vowel before it, and any other `h` becomes `kh`; `v` becomes `p` and `w` becomes `g`; and the stress moves to the first syllable. A loan noun takes its gender from its last sound: feminine on `-a`, neuter on any other vowel, masculine on a consonant.
 
@@ -2348,7 +2348,7 @@ The verbs are almost all inherited, and every inherited verb closes on the old i
 
 ### Numbers and grammar words
 
-The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. A few of them have worn further than the changes alone would take them, and these are marked as worn, with the ancient form they come from. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vylari is wearing down in the streets of Alessa.
+The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. A few of them have worn further than the changes alone would take them, and these are marked as worn, with the ancient form they come from. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vylari is wearing down in the streets of [[place-alyssa|Alessa]].
 
 ## Attested names {#attested-names}
 

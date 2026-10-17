@@ -8,7 +8,7 @@ tags: [lore, kalihara, ithari-work]
 data: {packFolder: settinglore, culture: kaliharanclt}
 ---
 
-The custodians of [[place-klhrcntnnt|Kalihara]], the [[affiliation-tharivaan|Ithakan]], keep some two dozen sanctuaries in the interior of the island. Each is a seminary, an archive, a workshop and a working site at once; each holds a cluster of the works of the [[lore-theithari|Ithari]] in its charge and one branch of custodial knowledge; and each is held by a custodian in the office of Warden of a Sanctuary. Three are greater than the rest, and between them they hold all four great works in their charge.
+The Sanctuaries of Kalihara are kept by the custodians of [[place-klhrcntnnt|Kalihara Continent]], the [[affiliation-tharivaan|Thári'vaan]], who maintain some two dozen in the interior of the island. Each is a seminary, an archive, a workshop and a working site at once; each holds a cluster of the works of [[lore-theithari|The Ithari]] in its charge and one branch of custodial knowledge; and each is held by a custodian in the office of Warden of a Sanctuary. Three are greater than the rest, and between them they hold all four great works in their charge.
 
 ## The Three Greater Sanctuaries
 
@@ -18,9 +18,9 @@ The custodians of [[place-klhrcntnnt|Kalihara]], the [[affiliation-tharivaan|Ith
 | [[place-mirthaan\|Mirthaan]] | An eastern river valley, among the terraces                 | The tending-stones of the terraces, [[place-windstones\|the Wind-Stones]] and [[place-stillwatersill\|the Still-Water Sill]] | The custodians who serve the Master of the Terraces                          |
 | [[place-thalari\|Thal'ari]]  | The western slopes of the Ring, below the Western Saddle    | The current-stones of the reefs and islets, and [[place-telvaristone\|the Telvari Stone]]                                    | The custodians of the coast, who seldom see the Bowl                         |
 
-Veshvaan is the oldest and the largest. Its deepest rooms hold the carved slabs and inscribed plaques the earliest Kaliharans cut to set down what they had been given, and only the silkan and the most senior kaan'thari see them. The island counts its years in Tenth-Year Walks at each sanctuary, and the count since the departure of the Ithari is kept at Veshvaan.
+[[place-veshvaan|Veshvaan]] is the oldest and the largest. Its deepest rooms hold the carved slabs and inscribed plaques the earliest Kaliharans cut to set down what they had been given, and only the silkan and the most senior kaan'thari see them. The island counts its years in [Tenth-Year Walks]{.name data-type="lore/gathering"} at each sanctuary, and the count since the departure of the Ithari is kept at Veshvaan.
 
-The lesser sanctuaries stand in their own country of the interior, each beside the works it tends. No foreigner has visited any of them. Every sanctuary keeps at least one dead held stone. A living held stone stays with the lineage that holds its work until the work dies, and then the lineage gives the stone, dead from that day, up to a sanctuary; the other dead held stones in the sanctuaries were taken at the Rite of Last Tending from cracked white works.
+The lesser sanctuaries stand in their own country of the interior, each beside the works it tends. No foreigner has visited any of them. Every sanctuary keeps at least one dead held stone. A living held stone stays with the lineage that holds its work until the work dies, and then the lineage gives the stone, dead from that day, up to a sanctuary; the other dead held stones in the sanctuaries were taken at the [Rite of Last Tending]{.name data-type="lore/custom"} from cracked white works.
 
 ## The Great Works and Their Custodians
 
@@ -32,7 +32,7 @@ The lesser sanctuaries stand in their own country of the interior, each beside t
 | [[place-stillwatersill\|The Still-Water Sill]] | Custodians of Mirthaan        | The lineage Kuethori, which holds the sill                              |
 | [[lore-sarisul\|The tending-stones]]           | The lineage of each village   | The village's kaan'vaar, and on the terraces the custodians of Mirthaan |
 
-The custodians of the wind-stones winter at [[place-kuomethei|Kuomethei]], high on the southern crest, while Deepwater closes the high paths. The custodians of dark works live there too, under the Keeper of the Failing Works, with no work left to tend and the count of the white ones to keep.
+The custodians of [[place-windstones|The Wind-Stones]] winter at [[place-kuomethei|Kuomethei]], high on the southern crest, while [Deepwater]{.name data-type="lore/calendar"} closes the high paths. The custodians of dark works live there too, under the Keeper of the Failing Works, with no work left to tend and the count of the white ones to keep.
 
 ## The Walks
 

@@ -8,17 +8,17 @@ tags: [lore, history, kalihara]
 data: {packFolder: settinglore}
 ---
 
-The **Ithari** are the oldest thing in the world's record that can be called a people, and the record
-is one island's. They were on [[place-worldthlrn|Thalorna]] before 10,000 BF and gone by 7,300 BF, and
+**The Ithari** are the oldest thing in the world's record that can be called a people, and the record
+is one island's. They were on [[place-worldthlrn|The World of Thalorna]] before 10,000 BF and gone by 7,300 BF, and
 every word anyone has of who they were, what they did here or what they wanted is Kaliharan testimony.
-Outside [[affiliation-kalihara|Kalihara]] there is no knowledge of them whatsoever—not a tradition,
+Outside [[place-klhrcntnnt|Kalihara Continent]] there is no knowledge of them whatsoever—not a tradition,
 not a fragment of history, not the fact that there was anybody to know about. There are sites, and the
 sites say nothing.
 
-**The name itself is Kalihari.** _Ithari_ means "Those Who Came Before," it is what the Kaliharans
+**The name itself is in the [[skill-kalihrlng|Kalihari Language]].** _Ithari_ means "Those Who Came Before," it is what the Kaliharans
 called them, and it is spoken nowhere else on the world, because nowhere else is there anything to
 attach it to. It is not their name for themselves—**no Ithari word exists**, and none ever has in
-anybody's keeping. Thári'vaan, ithasul, Ithakan: every term in this account is Kalihari, a
+anybody's keeping. [[affiliation-tharivaan|Thári'vaan]], [[lore-itharisul|Ithasul]], Ithakan: every term in this account is Kalihari, a
 Kaliharan word for a Kaliharan thing. Nobody has ever heard an Ithari name for the people, for a
 place, for an instrument, or for one of themselves. Neither is it recorded what they looked like, how
 many of them there were, how long any one of them lived, or whether the word names a people, a
@@ -32,7 +32,7 @@ custodians on an island that does not publish.
 ## The arrival
 
 The Kaliharan record opens with their coming and says nothing of what preceded it. They arrived from
-somewhere that is not Thalorna, settled on [[place-klhrcntnnt|Kalihara]], and did not conquer it—there was nothing on the island to conquer. The first humans they met there were scattered bands living
+somewhere that is not Thalorna, settled on Kalihara, and did not conquer it—there was nothing on the island to conquer. The first humans they met there were scattered bands living
 in the most rudimentary conditions, and the Ithari took them in.
 
 The Kaliharans describe them as people rather than as gods or spirits: recognisably mortal in their
@@ -60,7 +60,7 @@ whole again, with no line left to show where the opening was.
 
 On Kalihara the custodians work them. Opening a structure is one of the tended procedures, learned in
 the same way as the rest and performed the same way, and it is the plainest case there is of knowing
-the how and not the why: an [[affiliation-tharivaan|Ithakan]] can open a given structure reliably
+the how and not the why: an Ithakan can open a given structure reliably
 and cannot say what it is that opens.
 
 Everywhere else there is no procedure, and no rule anyone has found. Some works stand open, or open of
@@ -160,7 +160,7 @@ stops, and on Kalihara the custodians have been stopping there for eighty centur
 
 They are not machines: there is nothing inside them to turn, no linkage, no store, no fuel, no wear.
 They are not arcane apparatus either. They answer to no process known anywhere on Thalorna—not to the
-[[lore-flksinale|Sinale]], not to the [[lore-flkkhazar|Khazari]], not to any human tradition that has
+[[lore-flksinale|Sinale Folk]], not to the [[lore-flkkhazar|Khazár Folk]], not to any human tradition that has
 ever been near one—they draw on nothing an adept can detect, and they do not respond to the Aura
 being worked beside them. A structure that calms a monsoon calms it. A structure that makes a
 sea-approach unnavigable makes it unnavigable. Ask how, and there is no how: nothing to open, nothing

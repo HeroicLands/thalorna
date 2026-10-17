@@ -6864,11 +6864,11 @@ sohl:
   flags: {"thalorna": {lang_family: Elder}}
 ---
 
-Khazari is a tongue of the Elder family. Fluency measures the sophistication of expression in Khazari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Khazari Language is a tongue of the Elder family. Fluency measures the sophistication of expression in Khazari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Khazari is the language of the **Khazari** (known in human legends as "dwarves"), the second of the Elder Races and one of the oldest peoples on Thalorna. The Khazari are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, spoken only in isolated mountain strongholds and passed down within closely-guarded family traditions.
+Khazari is the language of the **[[lore-flkkhazar|Khazár Folk]]** (known in human legends as "dwarves"), the second of the Elder Races and one of the oldest peoples on [[place-worldthlrn|The World of Thalorna]]. The Khazari are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, spoken only in isolated mountain strongholds and passed down within closely-guarded family traditions.
 
 To the human ear, Khazari sounds hard and percussive: short, consonant-heavy words that crack and resound like hammer-blows on stone. There are few long vowels and few flowing transitions. The language runs on sharp stops, rolled liquids and back fricatives that carry along a passage. A Khazari speaker sounds strong and commanding even when speaking softly.
 
@@ -7100,7 +7100,7 @@ The compound is one word, stressed on its acute, and it means exactly what its t
 
 ## Script and Literacy
 
-Khazari is written in [[skill-drthrkscrpt|Pirzath]], which has **two forms**. The carved form resembles runes cut into stone—or rather, the runes of the Pelwar peoples resemble it, being in all likelihood a reduced work-row taught to the Proto-Pelwar tribes when those tribes were Khazari subjects, and simplified twice over since. The hand form is the everyday writing. Both read left to right and top to bottom.
+Khazari is written in [[skill-drthrkscrpt|Pirzath Script]], which has **two forms**. The carved form resembles runes cut into stone—or rather, the runes of the [[lore-pelwarpepl|Pelwar People]] resemble it, being in all likelihood a reduced work-row taught to the Proto-Pelwar tribes when those tribes were Khazari subjects, and simplified twice over since. The hand form is the everyday writing. Both read left to right and top to bottom.
 
 Key features of **carved Pirzath**:
 
@@ -7129,13 +7129,13 @@ Media
 
 Carved Pirzath writes the three consonants of a skeleton larger than the vowels of the frame, so a carved word shows its own grammar: the bone is cut deep and the binding is scored between. A Khazari reader takes in the skeleton first and the frame second, which is how a worn inscription can still be read when half the vowel-scoring has weathered away. The hand form marks the skeleton with a heavier stroke.
 
-The runic rows of the Nordlands, where anyone there writes at all, are near enough to Pirzath that a Khazari can pick out most of the staves. What they do not share is that depth of cut in the carved form. A Nordman's staves all stand equal, because Nordmal has no skeleton to pick out; Khazari grades its own, and a stroke that carries grammar in one hand carries nothing in the other. Khazari who have compared the two rows say the northern one looks like a tool being held by the wrong end.
+The runic rows of the [[place-nrdlndsrgn|Nordlands Region]], where anyone there writes at all, are near enough to Pirzath that a Khazari can pick out most of the staves. What they do not share is that depth of cut in the carved form. The staves of the [[lore-nordheimnclt|Nordheimn]] all stand equal, because [[skill-nordmalng|Nordmal Language]] has no skeleton to pick out; Khazari grades its own, and a stroke that carries grammar in one hand carries nothing in the other. Khazari who have compared the two rows say the northern one looks like a tool being held by the wrong end.
 
 Literacy in Khazari is **nearly universal among the Khazari**—writing is fundamental to their culture of craftsmanship, record-keeping, and genealogy. However, human literacy in Khazari is **very rare**. Only dedicated scholars or those with Khazari kinship learn to read or write the language.
 
 ## Historical Development
 
-Khazari is one of the **two surviving Elder Tongues**, sharing a common ancestor with Sinale but diverging sharply in development. The language emerged among a people who live in the faces of mountains and talk along passages in the rock, and it reflects that origin: compact, resonant, built to carry along a passage.
+Khazari is one of the **two surviving Elder Tongues**, sharing a common ancestor with [[skill-sinalelng|Sinale Language]] but diverging sharply in development. The language emerged among a people who live in the faces of mountains and talk along passages in the rock, and it reflects that origin: compact, resonant, built to carry along a passage.
 
 Historical layers in Khazari:
 
@@ -7202,7 +7202,7 @@ Khazari hold that a name is not a label but a **charge**: it names work the bear
 
 ### Clans and Houses
 
-The Khazari are seven **clans**, the seven who fled to Thalorna together with [[lore-khazararrv|Puthakun]], the agent of their god Luváth. A clan holds one **master craft**, and each of its **houses** holds a craft within it: a house name states that craft as an act, and the craft says which of the seven the house descends from. In Khazartúrn each clan held one of the seven towers.
+The Khazari are seven **clans**, the seven who fled to Thalorna together with [Puthakun]{.name data-type="being/npc"} (see [[lore-khazararrv|The Coming of the Khazari]]), whom their tradition holds to be the agent of [[lore-goddreams|The God of Dreams]], called Luváth. A clan holds one **master craft**, and each of its **houses** holds a craft within it: a house name states that craft as an act, and the craft says which of the seven the house descends from. In [Khazartúrn]{.name data-type="place/settlement"} each clan held one of the seven towers.
 
 | Clan      | Skeleton | Master craft                                                                |
 | --------- | -------- | --------------------------------------------------------------------------- |
@@ -7307,13 +7307,13 @@ Ramka, Rimki, Rumku, Dalka, Delke, Dolko, Thimri, Themre, Kevale, Kivali, Sekare
 
 ## Khazari Lexicon {#lexicon}
 
-This is the word-hoard of [[skill-khazarlng|Khazari]]: every skeleton the language is known to use, what it
+This is the word-hoard of Khazari: every skeleton the language is known to use, what it
 means, and the words its frames make from it. It is laid out for use at the table. A name needed in play
 can be built from it in a minute, and a Khazari word met in play can be taken apart and read.
 
 Every word here is made by the rules of the language note and by nothing else. A skeleton of three
 consonants carries the meaning; a frame of vowels poured through it says what kind of word comes out.
-The frames, the suffixes and the sound rules are set out in [[skill-khazarlng|Khazari]]; this note holds
+The frames, the suffixes and the sound rules are set out above; this note holds
 the skeletons and what has been built on them.
 
 Each dictionary entry names the skeleton, or the two skeletons of a compound, and the frame that made the word. A word marked as attested stands, in exactly this form, in the note linked.
@@ -7362,7 +7362,7 @@ FROM roots WHERE language = 'thalorna-note-skill-khazarlng' ORDER BY position
 
 Every name the setting gives to a Khazari thing, and every name of a note about the Khazari, stands
 here with the note it names and the language it is in. A Khazari name carries its skeletons and frame;
-a name older than the rules is listed among the words older than the rules in [[skill-khazarlng|Khazari]].
+a name older than the rules is listed among the words older than the rules above.
 
 ```sql
 SELECT name AS "Name",

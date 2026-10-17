@@ -575,15 +575,15 @@ sohl:
   flags: {"thalorna": {lang_family: Pidgin (contact language)}}
 ---
 
-Valtari is a tongue of the Pidgin (contact) family. Fluency measures the sophistication of expression in Valtari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Valtari Language is a tongue of the Pidgin (contact) family. Fluency measures the sophistication of expression in Valtari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Valtari—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of Mídhalión. It emerged wherever speakers of Taruzeli, Helonic, Vylari, Nordmal, and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
+Valtari—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of [[place-midhalnrgn|Mídhalión Region]]. It emerged wherever speakers of [[skill-taruzelilng|Taruzeli Language]], [[skill-helonclng|Helonic Language]], [[skill-vylarilng|Vylari Language]], [[skill-nordmalng|Nordmal Language]], and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
 
 Valtari is the lingua franca of maritime merchants, dock laborers, ship captains, chandlers, harbor masters, fishmongers, and anyone whose livelihood depends on cross-cultural commerce. It is **never** a first language—no child grows up speaking Valtari as their mother tongue. Instead, it is picked up on the docks through constant repetition, error correction, and pragmatic negotiation. A Valtari speaker is identifiable not by mastery of the language but by their ability to make themselves understood despite imperfect knowledge.
 
-The language is characterized by **heavy Taruzeli and Helonic substrate** (the two dominant maritime cultures), simplified grammar, extensive borrowing, and a vocabulary ruthlessly pruned to the essentials of commerce and daily port life. It is rarely written; when it is, speakers borrow whatever script they know—Taruzeli script, Helonic letters, or hastily invented symbols.
+The language is characterized by **heavy Taruzeli and Helonic substrate** (the two dominant maritime cultures), simplified grammar, extensive borrowing, and a vocabulary ruthlessly pruned to the essentials of commerce and daily port life. It is rarely written; when it is, speakers borrow whatever script they know—[[skill-merazanscrpt|Merazan Script]], [[skill-helnkscrpt|Helónika Script]], or hastily invented symbols.
 
 Valtari takes its name from the port of [[place-valthari|Valthari]], the free city whose quays gave the pidgin its first fixed form.
 
@@ -734,7 +734,7 @@ Valtari is **rarely written**. When it is, speakers employ:
 [[skill-helnkscrpt|Helónika]] letters
 : Used in northern ports and Helonic trading centers
 
-[[skill-semrnscrpt|Semaron]] letters
+[[skill-semrnscrpt|Semaron Script]] letters
 : Used in Vylarian and Aureldian harbors, and by any factor with an imperial education
 
 Improvisational symbols
@@ -762,10 +762,10 @@ The language is **constantly evolving**, with new words entering and exiting use
 
 Valtari varies noticeably by port:
 
-- **Ilovanu dialect**: The prestige form; favors clarity and slower speech. Influenced by the mixed Taruzeli-Kaliharan population. Closest to a "standard."
-- **Vashurán dialect**: Fast, clipped, heavily Taruzeli. Difficult for non-native Taruzeli speakers to follow; prized for its efficiency.
-- **Northern port dialects** (Velanthian coast): Softer, more Helonic-influenced. Slower, more vowel-heavy.
-- **Other Kaliharan ports** (the island's eastern coast): Mix of Kalihari cadence with Valtari vocabulary; unique tonal patterns.
+- **[[place-ilovanu|Ilovanu]] dialect**: The prestige form; favors clarity and slower speech. Influenced by the mixed Taruzeli-Kaliharan population. Closest to a "standard."
+- **[[place-vashuran|Vashurán]] dialect**: Fast, clipped, heavily Taruzeli. Difficult for non-native Taruzeli speakers to follow; prized for its efficiency.
+- **Northern port dialects** (coast of [[place-velanthrgn|Velanthia Region]]): Softer, more Helonic-influenced. Slower, more vowel-heavy.
+- **Other Kaliharan ports** (the island's eastern coast): Mix of [[skill-kalihrlng|Kalihari Language]] cadence with Valtari vocabulary; unique tonal patterns.
 
 A trader from Ilovanu moving to Vashurán must re-learn the rapid-fire delivery and emphatic stress patterns. Similarly, a Nordmal merchant's Valtari will carry Nordmal phonemes and word order habits.
 
@@ -790,11 +790,11 @@ _Koru latara pelaro, temadu kerisu, geniru yu rusaku?_
 
 The following represents the stable core of Valtari—words understood in virtually every port. Since Valtari is a pidgin, virtually every word is a loanword bent to its sounds and stripped of its endings. Most derive from Taruzeli (**H**, with the Taruzeli source form), a quarter from Helonic (**He**), a fifth from the Vylari family (**V**), a few from Nordmal and its kin (**N**), and a few from other tongues of the setting (**O**). The [[skill-valtarlng#lexicon|Valtari Lexicon]] gives every word with its source, the rules a borrowed word is bent by, and the endings that make trade names.
 
-**People & Trade:** kiromu (He, from _kiros_) "captain, master" · bashimu (H, from _bashimum_) "merchant" · eparo (He, from _émfarin_) "trader, factor" · pelaro (He, from _pléarin_ "to sail") "sailor, seaman" · asevu (V, from Provenzal _anseve_) "friend, companion" · koru (V, from _koroi_) "you"
+**People & Trade:** kiromu (He, from _kiros_) "captain, master" · bashimu (H, from _bashimum_) "merchant" · eparo (He, from _émfarin_) "trader, factor" · pelaro (He, from _pléarin_ "to sail") "sailor, seaman" · asevu (V, from [[skill-provnzlng|Provenzal Language]] _anseve_) "friend, companion" · koru (V, from _koroi_) "you"
 
 **Goods & Money:** zazuru (H, from _zazurush_) "goods, wares, cargo" · ushadu (H, from _hushadu_) "gold, coin, money" · pashin (H, from _pashinu_) "price, value, worth" · etalu (He, from _euthalir_) "profit, gain" · telusu (H, from _telmush_) "deal, contract, bond"
 
-**Objects:** yakodu (H, from _jakudu_) "boat, ship" · idiro (He, from _hidhir_) "water" · vidu (N, from _vuld_ "grain") "bread" · durasu (He, from _duras_) "salt" · bazunu (H, from _bazunu_) "sail, canvas" · ula (O, from Sinale _hulma_) "fish"
+**Objects:** yakodu (H, from _jakudu_) "boat, ship" · idiro (He, from _hidhir_) "water" · vidu (N, from _vuld_ "grain") "bread" · durasu (He, from _duras_) "salt" · bazunu (H, from _bazunu_) "sail, canvas" · ula (O, from [[skill-sinalelng|Sinale Language]] _hulma_) "fish"
 
 **Actions:** lokatu (V, from _lokathen_) "come, go, arrive" · kusadu (H, from _kusad-_) "bring, carry" · begi (H, from _belgin-_) "leave, depart" · dorasu (He, from _doras-_) "give, trade" · geniru (H, from _genir-_) "take, accept" · yepalu (V, from _yerpalon_ "duty") "need, must" · kubasu (H, from _kubas-_) "count, measure, reckon" · katusu (H, from _qatush_) "hold, keep, grip"
 
@@ -802,7 +802,7 @@ The following represents the stable core of Valtari—words understood in virtua
 
 **Place & Time:** besiku (H, from _besiku_) "port, harbor, port town" · yu (H, from _ju_) "this" · denu (V, from _denos_) "here" · mavitu (O, from Sinale _maviho_) "where" · mavu (O, from Sinale _mavi_) "what" · kedi (V, from _kedis_) "who" · gulodu (N, from _glud_ "day") "when" · tapelu (V, from _thapelon_ "hour") "now" · paramisu (V, from _pramiza_ "morning") "tomorrow" · olimu (V, from _holimos_ "first") "already"
 
-**Other:** zu (H, from _zu_) / ufi (He, from _uf_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funatush_ "loss") "trouble, problem" · rusaku (H, from _rusak-_ "to rig") "work, labor" · kerisu (He, from _kheirin_) "hand, skill" · odisu (He, from _hodis_) "road, route" · norodu (N, from Aelwythi _nord_) "north"
+**Other:** zu (H, from _zu_) / ufi (He, from _uf_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funatush_ "loss") "trouble, problem" · rusaku (H, from _rusak-_ "to rig") "work, labor" · kerisu (He, from _kheirin_) "hand, skill" · odisu (He, from _hodis_) "road, route" · norodu (N, from [[skill-aelwthlng|Aelwythi Language]] _nord_) "north"
 
 **Numerals (Taruzeli-derived):** yezu "one" · lelor "two" · zemu "three" · vubu "four" · fomul "five" · zekoru "ten" (from Helonic _zekhor_). Six to nine are counted on from five: _fomul yezu_ "six", _fomul lelor_ "seven", _fomul zemu_ "eight", _fomul vubu_ "nine".
 
@@ -907,7 +907,7 @@ Bashimari Eparari Pelarari Asevari Zazurari Ushadari Etalari Telusari Kubasari Y
 
 ## Valtari Lexicon {#lexicon}
 
-On any quay from [[place-midhalnrgn|Mídhalión]] to [[place-ilovanu|Ilovanu]], a ship's captain is a _kiromu_, the cargo is _zazuru_, and the price is a _pashin_. None of the three is a word of one people, and the tongue itself is named for the port of Valthari. _Kiromu_ is the Helonic _kiros_ worn down on the docks, and _zazuru_ and _pashin_ are the Taruzeli _zazurush_ and _pashinu_ with their endings dropped. [[skill-valtarlng|Valtari]], the harbor pidgin, is built this way throughout: a word of [[skill-taruzelilng|Taruzeli]] or [[skill-helonclng|Helonic]], stripped of the endings that carry its grammar and of the sounds a stranger cannot make, and set down in a sentence that has no grammar to give it. This page is the word-hoard of that pidgin: the core words every port understands, where each came from, the sound rules a borrowed word is bent to, and how a trade name is made.
+On any quay from [[place-midhalnrgn|Mídhalión]] to [[place-ilovanu|Ilovanu]], a ship's captain is a _kiromu_, the cargo is _zazuru_, and the price is a _pashin_. None of the three is a word of one people, and the tongue itself is named for the port of Valthari. _Kiromu_ is the Helonic _kiros_ worn down on the docks, and _zazuru_ and _pashin_ are the Taruzeli _zazurush_ and _pashinu_ with their endings dropped. Valtari, the harbor pidgin, is built this way throughout: a word of [[skill-taruzelilng|Taruzeli]] or [[skill-helonclng|Helonic]], stripped of the endings that carry its grammar and of the sounds a stranger cannot make, and set down in a sentence that has no grammar to give it. This page is the word-hoard of that pidgin: the core words every port understands, where each came from, the sound rules a borrowed word is bent to, and how a trade name is made.
 
 A Valtari word does not change. _Lokatu_ is to come, to go and to arrive, at any time and for any speaker, and _yakodu_ is one boat or many. What the parent tongues say with endings, the pidgin says with a separate word or leaves to the context: _tapelu_, now, and _olimu_, already, are the nearest it has to tenses, and a plural is the word said twice, _yakodu-yakodu_.
 
@@ -971,7 +971,7 @@ The question words share the opening _se-_ of _mavu_, what: _mavitu_ is where, t
 
 ## Making names {#making-names}
 
-**A trade name** is not a birth name. A trader carries the name of his own people at home and a Valtari name on the docks, and the [[skill-valtarlng|language note]] describes how the two are kept apart. The trade name is a word of the quay with a name ending: _Ushador_ is coin with the man's ending, _Ushadela_ the same word with the woman's, and _Bazunan_, sail with the ending for anyone, is carried by men and women alike. The word is chosen for the trade or for the luck it promises, so a sailmaker is often a _Bazunor_ and a moneychanger an _Ushador_. A word that closes on a consonant takes the ending after it: _pashin_, price, gives _Pashinela_.
+**A trade name** is not a birth name. A trader carries the name of his own people at home and a Valtari name on the docks, and this note describes how the two are kept apart. The trade name is a word of the quay with a name ending: _Ushador_ is coin with the man's ending, _Ushadela_ the same word with the woman's, and _Bazunan_, sail with the ending for anyone, is carried by men and women alike. The word is chosen for the trade or for the luck it promises, so a sailmaker is often a _Bazunor_ and a moneychanger an _Ushador_. A word that closes on a consonant takes the ending after it: _pashin_, price, gives _Pashinela_.
 
 **An epithet** sets a second pair of words after the trade name, naming the work: _Ushador bazunu-kerisu_ is Ushador the sail-hand, and _Kusadela ula-dorasu_ is Kusadela the fish-dealer.
 

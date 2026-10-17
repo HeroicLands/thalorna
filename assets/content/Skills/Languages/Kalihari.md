@@ -589,11 +589,11 @@ sohl:
   flags: {"thalorna": {lang_family: Kalihari (ancient isolate)}}
 ---
 
-Kalihari is a tongue of the Kalihari (ancient isolate) family. Fluency measures the sophistication of expression in Kalihari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Kalihari Language is a tongue of the Kalihari (ancient isolate) family. Fluency measures the sophistication of expression in Kalihari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Kalihari is among the oldest living languages on Thalorna, predating all Ankarian human languages by millennia, and it is spoken today by the Kaliharan peoples of Kalihara. The language stands in complete **linguistic isolation**—no known relatives exist anywhere on Thalorna, and no philologist off the island can account for it. The likeliest explanation is also the dullest: a single people on a single landmass, out of contact with every other, speaking for eight thousand years whatever their ancestors happened to speak. Isolation of that length does not need a stranger to explain it.
+Kalihari is among the oldest living languages on [[place-worldthlrn|The World of Thalorna]], predating all Ankarian human languages by millennia, and it is spoken today by the [[lore-kaliharanclt|Kaliharan]] peoples of [[place-klhrcntnnt|Kalihara Continent]]. The language stands in complete **linguistic isolation**—no known relatives exist anywhere on Thalorna, and no philologist off the island can account for it. The likeliest explanation is also the dullest: a single people on a single landmass, out of contact with every other, speaking for eight thousand years whatever their ancestors happened to speak. Isolation of that length does not need a stranger to explain it.
 
 To the untrained ear, Kalihari sounds exotic and flowing: vowel-heavy, with liquid consonants that cascade like water. The language rarely employs harsh stops or heavy consonant clusters. Instead, it privileges open syllables, gliding transitions, and a musical quality unlike anything heard on the Ankarian mainland. This flowing character reflects both the coastal geography of Kalihara and a philosophical worldview emphasizing harmony and interconnection.
 
@@ -603,7 +603,7 @@ Interior Kalihari
 : The pure, classical form spoken in the island's interior, known to outsiders only in fragments
 
 Port Kalihari
-: A hybrid variant used in cosmopolitan harbor cities, incorporating Valtari loanwords and simplified grammar to facilitate trade
+: A hybrid variant used in cosmopolitan harbor cities, incorporating [[skill-valtarlng|Valtari Language]] loanwords and simplified grammar to facilitate trade
 
 Outsiders rarely encounter true Interior Kalihari; most know only the bastardized port variant.
 
@@ -650,7 +650,7 @@ Five distinct vowels, each pronounced with clarity and sometimes elongated for e
 
 ### Stress and Prosody
 
-Stress typically falls on the **penultimate (second-to-last) syllable**, creating a regular rhythmic pattern. The language employs **tonal variation** more subtly than Ki'ichek: rising tones at phrase endings signal questions or openness; falling tones close statements. Poetic and ceremonial speech employ exaggerated tonal variation that approaches singing.
+Stress typically falls on the **penultimate (second-to-last) syllable**, creating a regular rhythmic pattern. The language employs **tonal variation** more subtly than [[skill-kicheklng|Ki'ichek Language]]: rising tones at phrase endings signal questions or openness; falling tones close statements. Poetic and ceremonial speech employ exaggerated tonal variation that approaches singing.
 
 Kalihari is often described as "musical" because pitch and rhythm are fundamental to comprehension, not mere inflection.
 
@@ -696,7 +696,7 @@ Adverbs precede the verbs they modify:
 
 ## Script and Literacy
 
-Kalihari employs the [[skill-luthrscrpt|Luaithari]], a **syllabic script**: each glyph represents a consonant-vowel pair (or vowel alone). The script is written left-to-right, top-to-bottom, flowing like water across the page. Glyphs are curved, interconnected, and visually beautiful—Kaliharan scribal tradition emphasizes aesthetics alongside function.
+Kalihari employs the [[skill-luthrscrpt|Luaithari Script]], a **syllabic script**: each glyph represents a consonant-vowel pair (or vowel alone). The script is written left-to-right, top-to-bottom, flowing like water across the page. Glyphs are curved, interconnected, and visually beautiful—Kaliharan scribal tradition emphasizes aesthetics alongside function.
 
 Key features:
 
@@ -716,7 +716,7 @@ Every Kaliharan writes the syllabary well enough to keep a manual, and the scrib
 
 ## Historical Development
 
-Kaliharans questioned at the ports trace their civilization to a people they call the **Ithari**, who they say came before them and departed long ago. They do not claim the tongue from them. By their own account those people left no word of any kind behind them and were never heard to speak—what was received was understanding, not language—so Kalihari is held to be the islanders' own, enlarged over eighty centuries by everything they were given to name. No scholar outside the island can test any part of that account, and none has been permitted to try. What the foreign evidence supports is the isolation itself and nothing further.
+Kaliharans questioned at the ports trace their civilization to a people they call [[lore-theithari|The Ithari]], who they say came before them and departed long ago. They do not claim the tongue from them. By their own account those people left no word of any kind behind them and were never heard to speak—what was received was understanding, not language—so Kalihari is held to be the islanders' own, enlarged over eighty centuries by everything they were given to name. No scholar outside the island can test any part of that account, and none has been permitted to try. What the foreign evidence supports is the isolation itself and nothing further.
 
 The language has **changed remarkably little in core structure** over recorded history—a testament to Kaliharan cultural conservatism and reverence for ancestral knowledge. However, **vocabulary has evolved** with geography and trade:
 
@@ -731,7 +731,7 @@ Port Kalihari retains perhaps 70% of Interior Kalihari vocabulary; the remaining
 Geographic and cultural separation has produced subtle but noticeable dialects:
 
 - **Interior High Speech** (the interior): Purest form, slowest pronunciation, most conservative grammar. Considered the prestige dialect by Kaliharans.
-- **Coastal variants**: Faster speech, incorporation of Valtari elements, slightly simplified verb forms. Regional ports (Ilovanu, Vashurán) have their own coastal flavors.
+- **Coastal variants**: Faster speech, incorporation of Valtari elements, slightly simplified verb forms. Regional ports ([[place-ilovanu|Ilovanu]], [[place-vashuran|Vashurán]]) have their own coastal flavors.
 - **Sacred register**: Employed in rituals and formal contexts. More archaic verb forms, elevated vocabulary, exaggerated tonal patterns.
 
 A trader from Ilovanu speaking Kalihari will sound notably different from an interior elder—one sounds practical and modern, the other ceremonial and ancient.
@@ -798,7 +798,7 @@ Lineage names are **compound descriptors of natural phenomena**, encoding both l
 - _Marivoel_ = "warm stone" (strength, heat, steadfastness)
 - _Naothuri_ = "green wind" (renewal, change, life force)
 
-Understanding a Kaliharan's lineage name requires knowledge of Thári'vaan cosmology—the Kaliharan spiritual system that sees all natural forces as expressions of sacred interconnection. To be born of "bright canopy" lineage is to carry the spiritual weight of growth and protection.
+Understanding a Kaliharan's lineage name requires knowledge of [[affiliation-tharivaan|Thári'vaan]] cosmology—the Kaliharan spiritual system that sees all natural forces as expressions of sacred interconnection. To be born of "bright canopy" lineage is to carry the spiritual weight of growth and protection.
 
 ### Household Names
 
@@ -861,11 +861,11 @@ Ithavanu—"still water" Koamanei—"deep root" Theiluori—"bright canopy" Mari
 
 ## Kalihari Lexicon {#lexicon}
 
-A ship bound for [[place-klhrcntnnt|Kalihara]] hears two registers of one tongue. On the quays of [[place-ilovanu|Ilovanu]] and the smaller ports the islanders speak [[skill-kalihrlng|Kalihari]] quickly, threaded with the harbor pidgin; in the interior the custodians speak it slowly, and name their ranks and their tending in it: the _kaan'sili_ who watches, the _kaan'vaar_ who holds. This page is the word-hoard of both: the stems, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives on the island.
+A ship bound for [[place-klhrcntnnt|Kalihara]] hears two registers of one tongue. On the quays of [[place-ilovanu|Ilovanu]] and the smaller ports the islanders speak Kalihari quickly, threaded with the harbor pidgin; in the interior the custodians speak it slowly, and name their ranks and their tending in it: the _kaan'sili_ who watches, the _kaan'vaar_ who holds. This page is the word-hoard of both: the stems, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives on the island.
 
 A Kalihari word is built of stems set side by side. _Itha-_ is still and _vanu-_ is water, and _ithavanu_ is still water, a lineage name. Where two stems meet in a custodial word, formal speech marks the seam with a catch in the throat, written `'`: _kaan-_ is to keep and _sili-_ is to watch, and _kaan'sili_ is the one who keeps by watching, a custodian in training. A handful of endings make a person of a stem: _kula-_ is to flow, and _kulanei_ is one who flows.
 
-The sound of Kalihari is open and liquid. Consonants are few and soft, nearly every syllable ends on its vowel, and vowels stand together freely, each its own syllable unless it makes one of the diphthongs the [[skill-kalihrlng|language note]] names. Stress falls on the second-last syllable.
+The sound of Kalihari is open and liquid. Consonants are few and soft, nearly every syllable ends on its vowel, and vowels stand together freely, each its own syllable unless it makes one of the diphthongs the language note names. Stress falls on the second-last syllable.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -919,7 +919,7 @@ ORDER BY position
 
 ### The keeping
 
-The custodians' words are compounds of a few old stems, and every rank of the [[affiliation-tharivaan|Ithakan]] is a kind of keeping: by watching, by holding, by remembering what came before. The precursors themselves are _ithari_, those who came before, and the substance of their works is _ithasul_. The work of a lineage village is _sari'sul_, a tending-stone, and a piece of the substance small enough to carry is _kaan'sul_, a held stone.
+The custodians' words are compounds of a few old stems, and every rank of the Ithakan is a kind of keeping: by watching, by holding, by remembering what came before. The precursors themselves are _ithari_, those who came before, and the substance of their works is _ithasul_. The work of a lineage village is _sari'sul_, a tending-stone, and a piece of the substance small enough to carry is _kaan'sul_, a held stone.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
@@ -930,7 +930,7 @@ ORDER BY position
 
 ### Water, stone and growing things
 
-Lineage names are compounds of these stems, and so are the ports of Ilovanu and Nalurithan. Most lineage names in the [[skill-kalihrlng|language note]] are older than this page and are not taken apart here; the compounds below are the ones whose parts the setting states.
+Lineage names are compounds of these stems, and so are the ports of Ilovanu and [[place-nalurithan|Nalurithan]]. Most lineage names in the language note are older than this page and are not taken apart here; the compounds below are the ones whose parts the setting states.
 
 ```sql
 SELECT form AS "Form", class AS "Class", gloss AS "Gloss", built_text AS "Built from", coalesce(array_to_string(list_transform(attested, a -> '[[' || a || '|]]'), ', '), '—') AS "Attested"
@@ -950,11 +950,11 @@ ORDER BY position
 
 ## Making names {#making-names}
 
-**A Kaliharan person** carries a given name and a lineage name, the given name first. A given name is often a stem with _-nei_, the one who does a thing: [[being-tvnrthr|Tavonei Reithuri]] is _tavo-_ with _-nei_, one who walks beside, a fitting name for a caravan guard. A lineage name is a compound of two stems of the island's ground and weather: _Reithuri_ is _rei-_ old and _thuri-_ wind. A given name of four syllables or more also has the short household name the [[skill-kalihrlng|language note]] describes, which is said and never written.
+**A Kaliharan person** carries a given name and a lineage name, the given name first. A given name is often a stem with _-nei_, the one who does a thing: [[being-tvnrthr|Tavonei Reithuri]] is _tavo-_ with _-nei_, one who walks beside, a fitting name for a caravan guard. A lineage name is a compound of two stems of the island's ground and weather: _Reithuri_ is _rei-_ old and _thuri-_ wind. A given name of four syllables or more also has the short household name the language note describes, which is said and never written.
 
 **A port** is a compound naming what the place is to the island: [[place-ilovanu|Ilovanu]] is _ilo-_ door and _vanu-_ water, the water-door through which the world is admitted, and [[place-nalurithan|Nalurithan]] is _nalu-_ a river mouth with _rithan_ to flow, the running mouth on which the town stands.
 
-**A byname** is a word of this page given to a stranger the port has no other name for. The old scholar of the pilots' observatory on [[place-telvari|Telvari]] is _Olitelinei_, the star-reckoner.
+**A byname** is a word of this page given to a stranger the port has no other name for. The old scholar of the pilots' observatory on [[place-telvari|Telvari]] is _[Olitelinei]{.name data-type="being/npc"}_, the star-reckoner.
 
 ## Scope {#scope}
 

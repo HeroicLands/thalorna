@@ -1219,11 +1219,11 @@ sohl:
 # terran_analog: Taruzeli reads an Akkadian-and-Phoenician register of a Semitic maritime trade tongue. The roots coined here are made to the rules and are not the Akkadian, Phoenician, Arabic or Hebrew word for their meaning, and every name in the register is built from them.
 ---
 
-Taruzeli is a tongue of the Taruzelik family. Fluency measures the sophistication of expression in Taruzeli, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Taruzeli Language is a tongue of the [Taruzelik Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Taruzeli, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Taruzeli is the tongue of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a maritime and mercantile language shaped by centuries of trade, commerce, and seafaring. Spoken across the Taruzelian islands, in the harbors of the Vylarian Sea and in the port cities of [[affiliation-kalihara|Kalihara]], Taruzeli dominates the merchant guilds and shipping routes. The language carries extensive vocabulary for navigation, commerce, and maritime activities, reflecting its speakers' deep connection to the sea and to trade networks spanning the known world.
+Taruzeli is the tongue of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], a maritime and mercantile language shaped by centuries of trade, commerce, and seafaring. Spoken across the islands of [[place-taruzelrgn|Taruzel Region]], in the harbors of the [[place-vylarianse|Vylarian Sea]] and in the port cities of [[place-klhrcntnnt|Kalihara Continent]], Taruzeli dominates the merchant guilds and shipping routes. The language carries extensive vocabulary for navigation, commerce, and maritime activities, reflecting its speakers' deep connection to the sea and to trade networks spanning the known world.
 
 Taruzeli is characterized by rhythmic, sonorous tones. Its long vowels give names and words a flowing, measured quality suited to contract negotiations and formal agreements.
 
@@ -1321,7 +1321,7 @@ These suffixes denote family affiliation and are fundamental to Taruzeli identit
 
 ## Script and Literacy
 
-Taruzeli employs the [[skill-merazanscrpt|Merazan]] script, a consonantal alphabet derived from ancient proto-Ankarian writing systems. The script consists of 24 letters representing consonantal phonemes; vowels are optionally marked through diacritical marks (circumflex, macron, acute accent). In formal mercantile documents, vowels are always marked to avoid ambiguity in contracts and agreements.
+Taruzeli employs the [[skill-merazanscrpt|Merazan Script]], a consonantal alphabet derived from ancient proto-Ankarian writing systems. The script consists of 24 letters representing consonantal phonemes; vowels are optionally marked through diacritical marks (circumflex, macron, acute accent). In formal mercantile documents, vowels are always marked to avoid ambiguity in contracts and agreements.
 
 True Taruzeli literacy is confined to the nobility, the clergy, and the professional scribe class. Merchant guildsmen often possess functional literacy—enough to recognize trade marks, numerals, and common abbreviations—but rely on hired scribes for contracts, ledgers, and legal documents. The language is written left-to-right.
 
@@ -1366,7 +1366,7 @@ Telmush kumuni taruzi
 
 Taruzeli stands as the primary member of the **Taruzelik language family**, which is an isolate within western Ankarian linguistic classification. Earlier contact with now-extinct Ankarian substrate languages shaped its consonantal system, but no modern languages are closely related to Taruzeli.
 
-Distant connections exist to the Dunhari language family through ancient shared maritime trade pidgin ancestors, but the languages diverged significantly over the past millennium.
+Distant connections exist to the [Dunhari language family]{.name data-type="lore"} through ancient shared maritime trade pidgin ancestors, but the languages diverged significantly over the past millennium.
 
 ## Naming Traditions
 
@@ -1416,7 +1416,7 @@ Jakuduni, Tanaduni, Pasharuni, Zadduni, Bilulum, Shamurin, Tazirish, Girmali, Pi
 
 ## Taruzeli Lexicon {#lexicon}
 
-A harbor notary at [[affiliation-yamuzel|Yamuzel]] greets every new clerk with the same exercise: she reads a contract aloud and asks which word in it is the price. None of them is. In Taruzeli the price is a _pashinu_, a fair price, and that is only what two people agree to leave the table with; the contract rests on _mardu_, the credit of the names that sign it, and on the _qatush_, the holding-fast that each of them swears to. Everything a newcomer needs to know about the language of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is in that exercise: [[skill-taruzelilng|Taruzeli]] is a tongue of bargains, and its words are built to say who holds what.
+A harbor notary at [[affiliation-yamuzel|Yamuzel]] greets every new clerk with the same exercise: she reads a contract aloud and asks which word in it is the price. None of them is. In Taruzeli the price is a _pashinu_, a fair price, and that is only what two people agree to leave the table with; the contract rests on _mardu_, the credit of the names that sign it, and on the _qatush_, the holding-fast that each of them swears to. Everything a newcomer needs to know about the language of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] is in that exercise: Taruzeli is a tongue of bargains, and its words are built to say who holds what.
 
 A Taruzeli root names an act, and an ending says who stands in it. _Telm-_ is to bind in writing; _telmum_ is the notary who writes the bond, and _telmush_ is the contract itself. The same five endings are laid on every root, which is why a clerk who has met a word once can read its relatives, and why a stranger who learns the endings reads half a harbor sign on the first day. This page is the word-hoard of those roots: the stems the quay uses, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives in the Taruzelian lands.
 
@@ -1550,7 +1550,7 @@ Among friends a given name is cut to its stressed syllable with the vowel held l
 
 **A place** is a root with _-un_, _-ar_, _-el_ or _-an_: _Sazumun_ is where the toll is levied, _Besikar_ where the harbor is kept, _Yamuzel_ the ground of the fleet, _Kudumel_ the ground of arrival. The land itself is _Taruzel_, the ground of the houses, built as `taruz-` + `-el`; its people and its tongue take the reader's endings, Taruzelian and Taruzeli.
 
-**A house or a body** is named for its founder or its work, with the lineage ending: the _Merazuni_, the Confederation's treasury, is the whole company of the ledger, built as `meraz-` + `-uni`. The _Vezakuni_, the Council of the Guild-Wardens, is the whole company of the warding, `vezak-` + `-uni`, and its seat, the _Vezakar_, is where the warding is kept; its overseers are the _Pazasuni_, the company of the lookouts. The Auric Compact is a banking cartel named in the reader's tongue for the gold it holds.
+**A house or a body** is named for its founder or its work, with the lineage ending: the _[Merazuni]{.name data-type="affiliation/governmental"}_, the Confederation's treasury, is the whole company of the ledger, built as `meraz-` + `-uni`. The _[[affiliation-vezakuni|Vezakuni]]_, the Council of the Guild-Wardens, is the whole company of the warding, `vezak-` + `-uni`, and its seat, the _[Vezakar]{.name data-type="place/site"}_, is where the warding is kept; its overseers are the _[Pazasuni]{.name data-type="affiliation"}_, the company of the lookouts. The [[affiliation-auricompct|Auric Compact]] is a banking cartel named in the reader's tongue for the gold it holds.
 
 ## Scope {#scope}
 

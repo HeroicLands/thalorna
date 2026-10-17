@@ -38,7 +38,7 @@ data:
 
 "Count first," a council secretary tells a reformer. "Then draft."
 
-**The Qethar'palu** are a faction seated on various councils across [[place-aukhelathrgq|Au'Khelathu]] who hold that the old arrangements governing their bodies need no revision at all. Each member holds a seat on a council and votes with the faction against revision. Wherever they sit they have the numbers to make a revision slow even when they cannot block it outright, so a reform that touches a council where the faction sits has to be counted in their seats before it is written in a motion. They are the one voting bloc every reformer in the empire has learned to measure.
+**The Qethar'palu** are a faction seated on various councils across [[place-aukhelathrgq|Au'Khelathu Region]] who hold that the old arrangements governing their bodies need no revision at all. Each member holds a seat on a council and votes with the faction against revision. Wherever they sit they have the numbers to make a revision slow even when they cannot block it outright, so a reform that touches a council where the faction sits has to be counted in their seats before it is written in a motion. They are the one voting bloc every reformer in the empire has learned to measure.
 
 ## Counting the Seats
 

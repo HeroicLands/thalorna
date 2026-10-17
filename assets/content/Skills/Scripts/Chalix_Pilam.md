@@ -19,9 +19,9 @@ sohl:
 # terran_analog: the P'ilambal is the Maya aj ts'ib and the Ts'enbal the ah k'in; the K'ayik Kul'al is the New Fire ceremony
 ---
 
-Ch'alish P'ilam—"the glyphs of Ch'alish," after **Ish'ilan Ch'alish**, who composed the first codex and whose sign is a star within an open book—is the glyph-writing of the [[place-kchchkcntnnt|K'ich'chik]] city-states. Each glyph may stand for a whole concept or for a syllable, and which it is doing is settled by the small **phonetic complements** set beside it and by dots, bars and flourishes that modify the reading. It is written in **paired columns, top to bottom, left to right**, in blocks that are as much composition as text.
+Ch'alish P'ilam Script—"the glyphs of Ch'alish," after **[[lore-ixilanchalixdty|Ish'ilan Ch'alish]]**, who is credited in tradition with composing the first codex and whose sign is a star within an open book—is the glyph-writing of the [[place-kchchkcntnnt|K'ich'chik Continent]] city-states. Each glyph may stand for a whole concept or for a syllable, and which it is doing is settled by the small **phonetic complements** set beside it and by dots, bars and flourishes that modify the reading. It is written in **paired columns, top to bottom, left to right**, in blocks that are as much composition as text.
 
-A character needs **both** the script and [[skill-kicheklng|Ki'ichek]]. There is no other language written in it.
+A character needs **both** the script and [[skill-kicheklng|Ki'ichek Language]]. There is no other language written in it.
 
 ## Surfaces
 
@@ -31,7 +31,7 @@ Sacred contexts use an elaborated ceremonial variant of the same glyphs—denser
 
 ## The count of days
 
-Most of what is written is calendrical. The Ts'en of 365 days, the 260-day Tq'an, the lunar Ts'uqal and the stellar Ish'ilan run simultaneously, and a date is written as the intersection of several of them; the fifty-two-year **K'ayik Kul'al** ("the Living Flame") falls where two of the counts come back into phase. A scribe who cannot compute cannot read, because half the glyphs on a stela are numbers doing work.
+Most of what is written is calendrical. The [Ts'en]{.name data-type="lore"} of 365 days, the 260-day [Tq'an]{.name data-type="lore"}, the lunar [Ts'uqal]{.name data-type="lore"} and the stellar [Ish'ilan]{.name data-type="lore"} run simultaneously, and a date is written as the intersection of several of them; the fifty-two-year [K'ayik Kul'al]{.name data-type="lore/custom"} ("the Living Flame") falls where two of the counts come back into phase. A scribe who cannot compute cannot read, because half the glyphs on a stela are numbers doing work.
 
 ## Who has it
 
@@ -39,4 +39,4 @@ The **P'ilambal**—scribe and painter, keeper of the glyphs and of the monument
 
 ## In play
 
-Foreign characters face three walls at once: an unfamiliar reading order, a sign inventory in the hundreds, and a date system that is arithmetic before it is language. Worse, the stelae lie—a K'ich'chik dynastic inscription is a claim about legitimacy, composed by a scribe whose lord commissioned it, and reading it correctly is not the same as learning what happened. See also [[skill-ktzlcrdscrpt|K'otsel]], the cord-record, which is where the numbers that were _not_ meant for public display are kept.
+Foreign characters face three walls at once: an unfamiliar reading order, a sign inventory in the hundreds, and a date system that is arithmetic before it is language. Worse, the stelae lie—a K'ich'chik dynastic inscription is a claim about legitimacy, composed by a scribe whose lord commissioned it, and reading it correctly is not the same as learning what happened. See also [[skill-ktzlcrdscrpt|K'otsel Cord Script]], the cord-record, which is where the numbers that were _not_ meant for public display are kept.

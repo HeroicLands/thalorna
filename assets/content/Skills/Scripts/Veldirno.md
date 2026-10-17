@@ -17,9 +17,9 @@ sohl:
   flags: {"thalorna": {script_family: Calligraphic}}
 ---
 
-The Veldirno—the starlight-hand—is the writing of the [[skill-sinalelng|Sinale]]: organic, curved, continuously connected letterforms that run left to right and top to bottom and give a page the look of vine-growth or moving water. Ligatures are constant rather than occasional; diacritics carry vowel length, pitch and poetic emphasis, and because pitch does in Sinale the work that stress does in other tongues, those marks are not ornament. They carry the rise of a question and the warmth or reproach laid over a called name, and with them a page can be heard as well as read.
+The Veldirno Script—the starlight-hand—is the writing of the [[lore-flksinale|Sinale Folk]]: organic, curved, continuously connected letterforms that run left to right and top to bottom and give a page the look of vine-growth or moving water. Ligatures are constant rather than occasional; diacritics carry vowel length, pitch and poetic emphasis, and because pitch does in Sinale the work that stress does in other tongues, those marks are not ornament. They carry the rise of a question and the warmth or reproach laid over a called name, and with them a page can be heard as well as read.
 
-It carries Sinale, and it carries [[skill-aelendlng|Áelendi]], which the [[lore-aelendnppl|Áelendan]] write in a borrowed and much-adapted hand—the one script the Sinale have let out of their own keeping. A character needs **both** the script and the language, and the second is by far the harder acquisition.
+It carries [[skill-sinalelng|Sinale Language]], and it carries [[skill-aelendlng|Áelendi Language]], which the [[lore-aelendnppl|Áelendan People]] write in a borrowed and much-adapted hand—the one script the Sinale have let out of their own keeping. A character needs **both** the script and the language, and the second is by far the harder acquisition.
 
 ## Made, not written
 
@@ -27,8 +27,8 @@ Sinale do not draw a distinction between literacy and craft. A written passage i
 
 ## Who has it
 
-Literacy is near-universal among the Sinale themselves, who are fewer than one in ten thousand of Thalorna's people and mostly unseen. Among humans it is **extremely rare**: a handful of scholars, the odd mage who has spent decades on it, and the occasional bard of the [[affiliation-bardicolgs|Bardic Colleges]] who has been given a text and taught to read it—though the Colleges are memory-institutions by preference and treat a written song as a poor copy of the real one. The [[affiliation-ordoarcanis|Thordimalon]] has tried repeatedly to acquire the script systematically and has not succeeded.
+Literacy is near-universal among the Sinale themselves, who are fewer than one in ten thousand of the people of [[place-worldthlrn|The World of Thalorna]] and mostly unseen. Among humans it is **extremely rare**: a handful of scholars, the odd mage who has spent decades on it, and the occasional bard of [[affiliation-bardicolgs|The Bardic Colleges]] who has been given a text and taught to read it—though the Colleges are memory-institutions by preference and treat a written song as a poor copy of the real one. The [[affiliation-ordoarcanis|Thordimalon]] has tried repeatedly to acquire the script systematically and has not succeeded.
 
 ## In play
 
-Everything about this script is slow. Reading it is slow because the ligatures obscure where one letter ends; writing it is slow because a hand that betrays haste will be read as either insolent or false. Old inscriptions in ruined Sinale places—Haulonna, Sirmenne—are frequently in a hand two or three thousand years out of date, and the party's scholar will need Áelendi or Sinale of considerable depth even to establish what kind of document is in front of them. And a passable forgery is essentially impossible: any Sinale who sees it will know at a glance, the way one knows a badly made chair.
+Everything about this script is slow. Reading it is slow because the ligatures obscure where one letter ends; writing it is slow because a hand that betrays haste will be read as either insolent or false. Old inscriptions in ruined Sinale places—[[place-haulonna|Thalmdal]] (Haulonna), [[place-sirmenne|Sirmenne]]—are frequently in a hand two or three thousand years out of date, and the party's scholar will need Áelendi or Sinale of considerable depth even to establish what kind of document is in front of them. And a passable forgery is essentially impossible: any Sinale who sees it will know at a glance, the way one knows a badly made chair.

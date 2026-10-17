@@ -17,7 +17,7 @@ Self-Name
 : Khazari (singular: _Khazár_; adjective: _Khazárian_)
 
 Origins
-: Humadhan, "the middle place", a realm they seldom speak of; arrived on Thalorna roughly six millennia ago (~5300 BF), about two thousand years after the [[lore-flksinale|Sinale]]—in a period when most human populations were still hunter-gatherers
+: [Humadhan]{.name data-type="place/world"}, "the middle place", a realm they seldom speak of; arrived on [[place-worldthlrn|The World of Thalorna]] roughly six millennia ago (~5300 BF), about two thousand years after the [[lore-flksinale|Sinale Folk]]—in a period when most human populations were still hunter-gatherers
 
 Population
 : Vanishingly rare (<0.01% of world population). Most humans have never seen one.
@@ -25,7 +25,7 @@ Population
 Enclaves
 : Scattered throughout Thalorna, invariably in mountain fastnesses, in the cliff faces and the cave systems behind them, far from human settlement
 
-The **Khazari** are the second of the elder races—younger than the [[lore-flksinale|Sinale]], but ancient beyond any human reckoning. If the Sinale are creatures of forest and starlight, the Khazari are creatures of stone and fire, a people of rock and mountain whose ordinary life is lived near the light in the faces of the high places, and who go down into the deep places of the earth, where rock bears the weight of mountains, for whatever is serious. They were old when humanity was young, and they have watched the rise and fall of every human civilization with the patient indifference of the mountains they inhabit.
+The **Khazár Folk** are the second of the elder races—younger than the Sinale, but ancient beyond any human reckoning. If the Sinale are creatures of forest and starlight, the Khazari are creatures of stone and fire, a people of rock and mountain whose ordinary life is lived near the light in the faces of the high places, and who go down into the deep places of the earth, where rock bears the weight of mountains, for whatever is serious. They were old when humanity was young, and they have watched the rise and fall of every human civilization with the patient indifference of the mountains they inhabit.
 
 Like the Sinale, the Khazari are a rumor to most humans. Miners and mountain folk tell stories of strange lights in deep caves, of tunnels that seem too natural to be made, winding the way water would, of hammer-sounds echoing from places where no one should be working. Merchants in mountain passes occasionally report encountering short, broad, heavily bearded figures who watched them from a distance and vanished before they could approach. The names the Deep Folk, the Under-Kin and the Forge-Born are human names, drawn from what humans saw of mines, tunnels and forges. These stories are dismissed as superstition by educated city-dwellers, which suits the Khazari perfectly.
 
@@ -43,7 +43,7 @@ Like the Sinale, the Khazari keep their own history and do not share it with hum
 
 The Khazari came after the Sinale—the Second People, as some traditions call them. They arrived on Thalorna from Humadhan, "the middle place", a realm they seldom speak of; their tales tell of a war there between the powers of good and evil, of rings that warp the mind and the soul, and of seven clans who fled with their god. How long after the Sinale they followed is also uncertain, though the oldest mountain traditions place the gap at roughly two thousand years. The Khazari seldom discuss their origins with outsiders, and the Sinale will not speak of the Khazari at all. What is clear is that for a time—an age, an era, a period that human chronology cannot measure—the two elder races coexisted. More than coexisted: they worked together.
 
-The fragments that survive describe a golden age of collaboration. The Sinale, with their affinity for the living world and the intangible, and the Khazari, with their mastery of stone and metal and the enduring, created together what neither could have created alone. Structures that blended living wood with shaped stone. Artifacts that married Sinalean enchantment with Khazárian craft. A shared civilization—or at least a shared accord—that spanned much of Thalorna under what some traditions call the Old Compact.
+The fragments that survive describe a golden age of collaboration. The Sinale, with their affinity for the living world and the intangible, and the Khazari, with their mastery of stone and metal and the enduring, created together what neither could have created alone. Structures that blended living wood with shaped stone. Artifacts that married Sinalean enchantment with Khazárian craft. A shared civilization—or at least a shared accord—that spanned much of Thalorna under what some traditions call [[lore-oldcompact|The Old Compact]].
 
 The Compact broke. The Khazari will say nothing about why, except that the breach was final, and that the fault was not theirs alone. The Sinale will say nothing at all. The two peoples separated entirely, and the separation has held for millennia uncounted. They do not speak. They do not trade. They do not enter each other's territories. The bitterness—if that is the right word for an estrangement measured in thousands of years—has not diminished. It has calcified into something harder than bitterness: a silence so complete that it has become part of the structure of the world.
 
@@ -54,12 +54,12 @@ They did not withdraw cleanly. Before the retreat there were centuries in which 
 ## The Seven Clans
 
 The Khazari who came to Thalorna came as **seven clans**, and the number has never lost its significance
-to them. The seven are Summágh, Dullák, Rummák, Gullád, Vurrán, Gurráz and Lummáv, each named for the
+to them. The seven are [Summágh]{.name data-type="affiliation/lineage"}, [Dullák]{.name data-type="affiliation/lineage"}, [Rummák]{.name data-type="affiliation/lineage"}, [Gullád]{.name data-type="affiliation/lineage"}, [Vurrán]{.name data-type="affiliation/lineage"}, [Gurráz]{.name data-type="affiliation/lineage"} and [Lummáv]{.name data-type="affiliation/lineage"}, each named for the
 master craft it holds, and the tale of their flight from Humadhan is told in
 [[lore-khazararrv|The Coming of the Khazari]]. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
 Khazár can recite a line back to one of the seven without hesitation or notes.
 
-[[lore-khazarturn|Khazartúrn]] was built for all seven together—seven spurs the cliff of a mountain
+[Khazartúrn]{.name data-type="place/settlement"} (see [[lore-khazarturn|The Fall of Khazartúrn]]) was built for all seven together—seven spurs the cliff of a mountain
 valley already held, finished as great towers, one to each clan, and the city held jointly beneath them. It is the only
 thing they are known to have made as a single people, and its loss took some part of every line on
 Thalorna at once.
@@ -68,10 +68,9 @@ Thalorna at once.
 
 The Khazari built one thing that all their other work was measured against, and lost it.
 
-[[lore-khazarturn|Khazartúrn]] was raised in 5123 BF and stood close to twenty-seven centuries—the seat of an
+Khazartúrn was raised in 5123 BF and stood close to twenty-seven centuries—the seat of an
 entire people's craft-records, and the finest archive in the world at a date when humanity had not yet
-built a city anywhere. In **2427 BF** it was destroyed by a [[lore-flksinale|Sinale]] outlaw wielding the
-[[miscgear-secondvoice|Second Voice]]—a relic that takes [[lore-grukarfolk|Grukar]] from their
+built a city anywhere. In **2427 BF** it was destroyed by a Sinale outlaw wielding [[miscgear-secondvoice|The Second Voice]]—a relic that takes [[lore-grukarfolk|Grukar Folk]] from their
 spawners and commands them directly, and so produced the one thing Grukar biology otherwise forbids:
 an army. It killed **everyone**—thirty thousand, the whole population—and is the worst thing that has ever
 happened to the Deep Folk on Thalorna. Afterward they laid their dead in their own chambers, there
@@ -79,7 +78,7 @@ being nothing like enough tombs, cleaned the city to the condition they had kept
 for all generations**. Khazartúrn is not a ruin. It is intact, in good order, and full of its people:
 the greatest work of Khazari hands, and now the greatest grave in the world. The city outlived the
 whole of human prehistory by a margin nobody has ever remarked on: it fell about seventy years after
-[[affiliation-tantsouempr|Tantsou]] opened the dynastic record that is still the oldest human archive
+the [[affiliation-tantsouempr|Empire of Tantsou]] opened the dynastic record that is still the oldest human archive
 anyone can read, and not a line of that archive mentions it.
 
 The account of its fall is kept in the working archive of every hold and read at intervals. It is the
@@ -100,9 +99,9 @@ Depth carries weight. The deeper a space, the older, holier or more serious its 
 
 Like the Sinalean enclaves, the holds are remote, and the remoteness is the mountains': the approaches are high, steep and trackless, and few humans look closely at a cliff. The Khazari watch the approaches and will turn away (or simply ignore) any human who comes too close. They do not need to be hostile; the mountains themselves are defense enough. A hold is not concealed. Seen from a distance it is cliff, and the moment a traveller understands that the cliff is inhabited is a quiet one.
 
-Human scholars believe there are holds in the mountains of every major continent—the ranges above [[place-vrystwald|Vristwald Region]], the peaks of [[place-tarvenirgn|Tarvénia]], the great mountains of [[affiliation-tantsouempr|Tantsou]]'s western border, and ranges in [[place-xerathia|Zerathia Continent]] and beyond. The Khazari do not confirm or deny any of this, and a Khazár asked about the inner passages of a hold will simply stop talking. The one location kept as a guarded secret is [[lore-khazarturn|Khazartúrn]].
+Human scholars believe there are holds in the mountains of every major continent—the ranges above [[place-vrystwald|Vristwald]], the peaks of [[place-tarvenirgn|Tarvénia Region]], the great mountains of [[affiliation-tantsouempr|Tantsou]]'s western border, and ranges in [[place-xerathia|Zerathia]] and beyond. The Khazari do not confirm or deny any of this, and a Khazár asked about the inner passages of a hold will simply stop talking. The one location kept as a guarded secret is Khazartúrn.
 
-The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-aelwyth|Aelwyth]], founded around **3100 BF** in the late centuries of [[lore-khazarturn|Khazartúrn]]—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the Khazari carried a small company of humans across with them to farm beneath it, and their descendants are the [[lore-vardain|Vardain]].
+The westernmost of them is [[place-vorgald|Vorgald]], in the mountains of [[place-aelwyth|Aelwyth]], founded around **3100 BF** in the late centuries of Khazartúrn—the farthest the Deep Folk ever carried a hold, and the only one that had to be reached across open sea. Because a hold feeds itself from its own gate or not at all, the Khazari carried a small company of humans across with them to farm beneath it, and their descendants are [[lore-vardain|The Vardain]].
 
 ## Relations with Humanity
 
@@ -112,7 +111,7 @@ Very rarely—perhaps a handful of times in a human generation—a Khazár will 
 
 No human _realm_ except Tantsou has a sustained relationship with them, no human scholar has been invited into a hold, and no crown on Thalorna has ever received an embassy from one. Whatever the Khazari think of humanity—if they think of humanity at all—they keep it behind walls of stone and silence.
 
-There is exactly one exception, and it is not a realm. The [[lore-vardain|Vardain]] of Aelwyth have lived beneath [[place-vorgald|Vorgald]] for millennia: they farm for the hold, factor for it in human markets, and are protected by it, and Khazari engineers work openly in their valleys. It is a closer and older relationship than Élavendre's with the Sinale, and almost nobody outside those valleys knows it exists.
+There is exactly one exception, and it is not a realm. The [[lore-vardain|Vardain]] of Aelwyth have lived beneath [[place-vorgald|Vorgald]] for millennia: they farm for the hold, factor for it in human markets, and are protected by it, and Khazari engineers work openly in their valleys. It is a closer and older relationship than [[place-elavendre|Élavendre]]'s with the Sinale, and almost nobody outside those valleys knows it exists.
 
 ## What the Vardain Are the Last Of
 
@@ -134,7 +133,7 @@ but finished to belong to the ground they stand in, carrying its strata and its 
 exterior reads as rock because the exterior _is_ meant to be rock. A Khazari builder does not regard the
 outside of a thing as a surface for display. It is the mountain. It should look like the mountain.
 
-What that leaves is an inner life that runs through the rock, in passages, courts and the deep rooms, while the homes look out on the light. Visitors see the face; being brought inside is an act of trust. The one work where the interior was made to outrun the exterior is [[lore-khazarturn|Khazartúrn]]: its halls, raised hundreds of feet and lit through the rock and roofed with painted sky, could not be guessed at from a hundred paces outside the door.
+What that leaves is an inner life that runs through the rock, in passages, courts and the deep rooms, while the homes look out on the light. Visitors see the face; being brought inside is an act of trust. The one work where the interior was made to outrun the exterior is Khazartúrn: its halls, raised hundreds of feet and lit through the rock and roofed with painted sky, could not be guessed at from a hundred paces outside the door.
 
 Humans, who build to be seen, almost universally read this as concealment, and cannot easily be talked
 out of it. It has made the Deep Folk seem far more secretive than they are, and they have never thought

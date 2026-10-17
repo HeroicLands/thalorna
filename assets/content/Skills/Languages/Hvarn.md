@@ -181,13 +181,13 @@ sohl:
   flags: {"thalorna": {lang_family: Trans-Grazian}}
 ---
 
-Hvarn is the tongue of the [[affiliation-hvarnguides|Hvarn]] of [[place-estrnreach|the Eastern Reach]]. Fluency measures how much of it a speaker commands, from the fort-contract vocabulary a lowland factor picks up to the full speech of the winter house. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Hvarn Language is the tongue of [[affiliation-hvarnguides|The Hvarn]] of [[place-estrnreach|The Eastern Reach]]. Fluency measures how much of it a speaker commands, from the fort-contract vocabulary a lowland factor picks up to the full speech of the winter house. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Hvarn is not related to [[skill-osketlng|Osket]], which surprises everyone who has assumed it must be. The two peoples live three hundred miles apart along the same wall, do much the same work, marry across the gap occasionally, and speak languages with no demonstrable common stock—a fact both peoples state without interest and lowland scholars find difficult to accept.
+Hvarn is not related to [[skill-osketlng|Osket Language]], which surprises everyone who has assumed it must be. The two peoples live three hundred miles apart along the same wall, do much the same work, marry across the gap occasionally, and speak languages with no demonstrable common stock—a fact both peoples state without interest and lowland scholars find difficult to accept.
 
-It is the trans-Grazian language outsiders most often learn, which is to say that perhaps forty lowlanders speak it. They are the factors who renegotiate the garrison contract, a handful of eastern janapada clerks, and the occasional soldier of [[place-sanghafort|the Sangha-fort]] who has wintered at [[place-nurvhrn|Nurvharn]] and come back fluent and strange.
+It is the trans-Grazian language outsiders most often learn, which is to say that perhaps forty lowlanders speak it. They are the factors who renegotiate the garrison contract, a handful of eastern janapada clerks, and the occasional soldier of [[place-sanghafort|The Sangra-fort]] who has wintered at [[place-nurvhrn|Nurvharn]] and come back fluent and strange.
 
 ## How Hvarn sounds
 
@@ -239,7 +239,7 @@ Final Consonants
 : Unrestricted, and a final cluster of three is ordinary
 
 Word Length
-: Short and dense; a two-syllable Hvarn word routinely carries what Vedyari needs five for
+: Short and dense; a two-syllable Hvarn word routinely carries what [[skill-vedyarlng|Vedyari Language]] needs five for
 
 ## Grammar Notes
 
@@ -261,7 +261,7 @@ A person carries a given name and a hearth name, and the hearth name changes if 
 
 ## Hvarn Lexicon {#lexicon}
 
-The [[affiliation-hvarnguides|Hvarn]] call themselves _hvrn_, a word with no vowel in it, and the vowel a lowlander hears there is the one he supplied. [[skill-hvarnlng|Hvarn]] is short and heavy: a word of one syllable carries what Vedyari says in a phrase, and a compound of two such words names an office of the winter council. This page is the word-hoard of the tongue: its words, the rules a new word is built by, and the register of every name the setting gives the Hvarn and the places they hold.
+The [[affiliation-hvarnguides|Hvarn]] call themselves _hvrn_, a word with no vowel in it, and the vowel a lowlander hears there is the one he supplied. Hvarn is short and heavy: a word of one syllable carries what Vedyari says in a phrase, and a compound of two such words names an office of the winter council. This page is the word-hoard of the tongue: its words, the rules a new word is built by, and the register of every name the setting gives the Hvarn and the places they hold.
 
 A Hvarn compound sets two words side by side, the first saying which and the second saying what: _dzevd_ is bone and _poudz_ is to bring up from below, so _dzevdpoudz_ is the bone-bringer, who recovers the dead from the eastern gorges. The words are written whole at the seam, however many consonants meet there.
 
@@ -308,7 +308,7 @@ The long house at [[place-nurvhrn|Nurvharn]] is _vhrn_, the roof that holds the 
 
 ## Making names {#making-names}
 
-**A person** carries a given name and a hearth name, the given name first: _Hvrel, of the Klemvrd hearth_. A given name comes off the [[skill-hvarnlng|roll]], so it is as old as the person it remembers and is not built from the words on this page. A hearth name is the winter house's, and changes when a person is taken into another hearth.
+**A person** carries a given name and a hearth name, the given name first: _Hvrel, of the Klemvrd hearth_. A given name comes off the roll, so it is as old as the person it remembers and is not built from the words on this page. A hearth name is the winter house's, and changes when a person is taken into another hearth.
 
 **An office** of the winter council is a compound of what the holder handles and what he does with it, as _dzevdpoudz_, the bone-bringer, is. The notes give the offices in the reader's tongue, and the register tags them so.
 

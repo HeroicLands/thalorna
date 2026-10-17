@@ -8,7 +8,7 @@ tags: []
 data: {packFolder: aelwyth}
 ---
 
-There are **[[lore-grukarfolk|Grukar]] on Aelwyth**, and there have been for the better part of **seven
+**The Grukar of Aelwyth** are the [[lore-grukarfolk|Grukar Folk]] established on [[place-aelwyth|Aelwyth]], and have been for the better part of **seven
 hundred years**. They are not an invasion, a recent misfortune or anybody's crisis. They are a permanent
 condition of the island, in the way rats are a permanent condition of a granary, and the comparison is
 the one Aelwythans themselves use.
@@ -21,9 +21,9 @@ A tribe that outgrows its ground sheds a faction outward; a starving tribe does 
 Sha sees the end of the line coming and conspires against its own Ahk. One or the other reached the
 northern water seven centuries ago, and Grukar cannot build a ship—so they were carried, in the holds
 of vessels crossing between the northern lands and this coast, in numbers too small for anyone aboard to
-have noticed or cared. The landing is told in [[lore-grukarcomes|the Grukar Come to Aelwyth]].
+have noticed or cared. The landing is told in [[lore-grukarcomes|The Grukar Come to Aelwyth]].
 
-That was long before the [[affiliation-jrldmstrmvld|Jarldom]], long before Aelwyth's present realms, and
+That was long before the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], long before Aelwyth's present realms, and
 long before anybody kept the sort of record that would settle it. The island has argued about the
 question for centuries and will not resolve it.
 
@@ -52,18 +52,17 @@ This is most of what the lowlands are looking at when they call these people bar
 organized around an enemy that cannot be finished does not look like a society organized around
 farming and inheritance, and it never will.
 
-The **civilized realms** deal with them too, constantly and at the edges: the frontier steadings of the
-[[place-wyndmarch|Wyndmarch]], the upland farms of the [[place-nordfells|Nordfells]], the forest margins
+The **civilized realms** deal with them too, constantly and at the edges: the frontier steadings of [[place-wyndmarch|The Wyndmarch]], the upland farms of [[place-nordfells|The Nordfells]], the forest margins
 of every realm whose land runs into trees. It is endemic rather than dramatic—a few farms a year, a
 patrol that does not come back, a season when the woods are worse than usual—and every realm handles
 it as routine expenditure.
 
-[[affiliation-kngdmldrth|Aldorath]] has mounted formal campaigns perhaps a dozen times in its history.
+The [[affiliation-kngdmldrth|Kingdom of Aldorath]] has mounted formal campaigns perhaps a dozen times in its history.
 Each was declared a success. There is no evidence any of them made a difference at all.
 
 ## The Khazari
 
-The [[lore-flkkhazar|Khazari]] of [[place-vorgald|Vorgald]] hate the Grukar, and the hatred is of a
+The [[lore-flkkhazar|Khazár Folk]] of [[place-vorgald|Vorgald]] hate the Grukar, and the hatred is of a
 different order from anybody else's.
 
 Everyone on Aelwyth kills Grukar when they must, and treats it as one more hard necessity of living
@@ -72,9 +71,9 @@ without negotiation, without exception, and without the enormous patience they e
 living thing on this island**—and it is the only subject on which the Khazari have ever been observed
 to act quickly.
 
-The reason is not competition, though they do compete. It is [[lore-khazarturn|Khazartúrn]].
+The reason is not competition, though they do compete. It is [[lore-khazarturn|The Fall of Khazartúrn]].
 
-In 2427 BF a Sinale outlaw wielding the [[miscgear-secondvoice|Second Voice]] took tens of thousands of
+In 2427 BF an outlaw of the [[lore-flksinale|Sinale Folk]] wielding [[miscgear-secondvoice|The Second Voice]] took tens of thousands of
 Grukar from their spawners and destroyed the greatest city the Deep Folk ever built. The account—exact,
 with every name lost—has been kept in the working archive of every hold since, and is read at
 intervals. It is not treated as history.
@@ -84,7 +83,7 @@ and their conclusion was never about guilt: **Grukar are ammunition**, and the o
 be none near a hold to be picked up.
 
 So the hatred did not begin on Aelwyth and does not depend on anything the Aelwyth Grukar have done.
-The Deep Folk had been in the [[place-ironfells|Ironfells]] some seven centuries when Khazartúrn fell,
+The Deep Folk had been in [[place-ironfells|The Ironfells]] some seven centuries when Khazartúrn fell,
 and kept the account twenty-four centuries more before the first Grukar ever set foot here.
 
 ## See Also

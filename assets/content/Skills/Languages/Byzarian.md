@@ -370,9 +370,9 @@ sohl:
 # terran_analog: the eastern roots are Persian or Turkic.
 ---
 
-Bizarian is a tongue of the Helonic family. Fluency measures the sophistication of expression in Bizarian, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Bizarian Language is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Bizarian, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The tongue of the [[affiliation-byzarianlg|Bizarian League]] and the crossroads trading emporia of the eastern frontier. Bizarian represents a linguistic synthesis born of geography and commerce—a Helonic grammatical foundation layered with centuries of vocabulary, phonetic patterns, and structural innovations from the great trading networks that flow through Bizaria. It is the language of merchants, diplomats, and cosmopolitan traders; to speak Bizarian fluently is to be recognized as someone who understands the world beyond provincial borders.
+The tongue of the [[affiliation-byzarianlg|Bizarian League]] and the crossroads trading emporia of the eastern frontier. Bizarian represents a linguistic synthesis born of geography and commerce—a grammatical foundation from [[skill-helonclng|Helonic Language]] layered with centuries of vocabulary, phonetic patterns, and structural innovations from the great trading networks that flow through [[place-byzariargn|Bizaria Region]]. It is the language of merchants, diplomats, and cosmopolitan traders; to speak Bizarian fluently is to be recognized as someone who understands the world beyond provincial borders.
 
 ## Overview
 
@@ -497,7 +497,7 @@ Fom fótamiroi férantir dres athin ghéranin
 
 ## Script and Literacy
 
-Bizarian is written in the [[skill-helnkscrpt|Helónika]]—the Helonic alphabet, adapted with additional letters for eastern sounds:
+Bizarian is written in the [[skill-helnkscrpt|Helónika Script]]—the Helonic alphabet, adapted with additional letters for eastern sounds:
 
 Helonic base
 : The core 24-letter Helonic alphabet, with simplified vowel distinctions (6 vowels retained from the original 7)
@@ -507,7 +507,7 @@ Bizarian additions for eastern sounds
 
 In practical written contexts, Bizarian employs **diacritical marks** above vowels to indicate length and stress, though formal writing sometimes omits them. Commercial documents developed their own abbreviated script for speed—a "cursive Bizarian" that is rapid to write but often incomprehensible to the untrained.
 
-**Literacy:** True Bizarian literacy is rare outside the nobility, the clergy, and the professional scribe class. Perhaps 30-50% of the Bizarian nobility can read, and most noble households retain a scribe or secretary for daily correspondence. Merchant guildsmen often possess functional literacy—enough to recognize common trade marks, numerals, and their own sigil—but rely on hired scribes and solicitors for contracts, ledgers, and legal documents. The presence of scribe-houses in major cities (Soridion, Khalumion) has standardized written Bizarian, though most citizens encounter the written word only through public criers and posted proclamations read aloud. Among educated Bizarians who can read, facility in both Bizarian and Helonic is expected; Helonic remains the prestige language for formal documents, poetry and drama.
+**Literacy:** True Bizarian literacy is rare outside the nobility, the clergy, and the professional scribe class. Perhaps 30-50% of the Bizarian nobility can read, and most noble households retain a scribe or secretary for daily correspondence. Merchant guildsmen often possess functional literacy—enough to recognize common trade marks, numerals, and their own sigil—but rely on hired scribes and solicitors for contracts, ledgers, and legal documents. The presence of scribe-houses in major cities ([Soridion]{.name data-type="place/settlement"}, [Khalumion]{.name data-type="place/settlement"}) has standardized written Bizarian, though most citizens encounter the written word only through public criers and posted proclamations read aloud. Among educated Bizarians who can read, facility in both Bizarian and Helonic is expected; Helonic remains the prestige language for formal documents, poetry and drama.
 
 ## Historical Development
 
@@ -562,8 +562,8 @@ Frun émfarin, lefir kérdanir
 Bizarian is a hybrid member of the **Helonic language family**, intermediate between:
 
 - **Helonic**—Its grammatical ancestor; Bizarian retains the SVO word order and core vocabulary
-- **Bethuan**—A distinct Helonic relative that evolved differently, retaining more ancient phonetic features but developing a unique register system
-- **Eastern languages** (Dunhari, Vedyari, Taruzeli)—Sources of vocabulary, phonetic patterns, and some structural features
+- **[[skill-bethunlng|Bethuan Language]]**—A distinct Helonic relative that evolved differently, retaining more ancient phonetic features but developing a unique register system
+- **Eastern languages** ([[skill-dunharlng|Dunhari Language]], [[skill-vedyarlng|Vedyari Language]], [[skill-taruzelilng|Taruzeli Language]])—Sources of vocabulary, phonetic patterns, and some structural features
 
 Educated speakers of all three Helonic-family languages can communicate with minimal difficulty; monolingual speakers may struggle with Bizarian's rapid speech and compressed phonetics.
 

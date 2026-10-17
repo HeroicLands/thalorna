@@ -22,7 +22,7 @@ data:
 # terran_analog: Thalorna is patterned loosely after an alternate Earth; its continents and civilizations echo Terran geography and history.
 ---
 
-Four days of the Thalornan year never move. The equinoxes and solstices fall on the same dates in every year that has ever been counted, and every people counts them from a different calendar, so one morning carries several names depending on whose priest or astronomer is speaking. Beyond that shared sky the world spreads from lush subtropical regions through vast deserts to icy wastes, and each continent keeps histories and societies shaped by millennia of human and otherworldly influence.
+The World of Thalorna has four days in its year that never move. The equinoxes and solstices fall on the same dates in every year that has ever been counted, and every people counts them from a different calendar, so one morning carries several names depending on whose priest or astronomer is speaking. Beyond that shared sky the world spreads from lush subtropical regions through vast deserts to icy wastes, and each continent keeps histories and societies shaped by millennia of human and otherworldly influence.
 
 For pantheon-to-region mapping, see [[lore-pnthnrgnlmp|Pantheon Regional Map]].
 
@@ -32,7 +32,7 @@ Thalorna is round, 40,000 kilometers at the equator, with a surface gravity of 1
 
 The solar year is 365 days, with no leap year and no drift, and it never has had either. A day is twenty-four hours, an hour sixty minutes, a minute sixty seconds, with no fractions anywhere in the count. Four days each year are fixed and never move: the vernal equinox, the summer solstice, the autumnal equinox, the winter solstice. Because the year never varies, the same four dates carry the same four events in every year that has been or ever will be counted.
 
-Every people on Thalorna divides these 365 days differently. The [[lore-commoncal|Vylarian Calendar]], the [[lore-khzrnclndr|Tellumi Calendar]], the [[lore-khelathclndr|Khelathi Calendar]] and the Empire of Tantsou's [[lore-clndrstrlgy|Calendar and Astrology]] each cut the same year into their own months, and none of them is wrong for doing it differently. The year is the world's; what a people does with it is theirs.
+Every people on Thalorna divides these 365 days differently. [[lore-commoncal|The Vylarian Calendar]], [[lore-khzrnclndr|The Tellumi Calendar]], [[lore-khelathclndr|The Khelathi Calendar]] and the calendar of the [[affiliation-tantsouempr|Empire of Tantsou]] (see [[lore-clndrstrlgy|Calendar and Astrology]]) each cut the same year into their own months, and none of them is wrong for doing it differently. The year is the world's; what a people does with it is theirs.
 
 The present, and the date this corpus states as canon, is the year **720**. Everything at or before it belongs to the setting; everything after belongs to the table it is played at.
 
@@ -50,19 +50,19 @@ ORDER BY name.full COLLATE NOCASE
 
 ### The Elder Races
 
-Before humanity, before empires, before recorded history, Thalorna was home to two older peoples whose presence stretches back at least seven thousand years before the Founding—and probably far longer.
+Before humanity, before empires, before recorded history, Thalorna was home to two older peoples whose presence stretches back at least seven thousand years before [[lore-thefounding|The Founding]]—and probably far longer.
 
 #### Sinale
 
-The [[lore-flksinale|Sinale]]. The Firstborn. The Star-Kindled. A tall, graceful, long-lived people with a deep kinship to the natural world and a form of magic that bears no resemblance to anything the [[affiliation-ordoarcanis|Thordimalon]] can systematize. The Sinale live in hidden enclaves—deep forests, mist-shrouded valleys, island sanctuaries—scattered across every continent but appearing on no human map. They are profoundly insular, with almost no interest in human affairs. Sustained contact with human civilizations exists in only a handful of places: [[place-elavendre|Élavendre]], where the royal family has maintained a warm relationship with local Sinalean communities for centuries; the [[affiliation-tantsouempr|Empire of Tantsou]], where a more formal (and possibly coerced) arrangement links the enclaves to the imperial court; and [[place-kchchkcntnnt|K'ich'chik Continent]], where the nature of the connection is poorly understood by western scholars.
+The [[lore-flksinale|Sinale Folk]]. The Firstborn. The Star-Kindled. A tall, graceful, long-lived people with a deep kinship to the natural world and a form of magic that bears no resemblance to anything the [[affiliation-ordoarcanis|Thordimalon]] can systematize. The Sinale live in hidden enclaves—deep forests, mist-shrouded valleys, island sanctuaries—scattered across every continent but appearing on no human map. They are profoundly insular, with almost no interest in human affairs. Sustained contact with human civilizations exists in only a handful of places: [[place-elavendre|Élavendre]], where the royal family has maintained a warm relationship with local Sinalean communities for centuries; the [[affiliation-tantsouempr|Empire of Tantsou]], where a more formal (and possibly coerced) arrangement links the enclaves to the imperial court; and [[place-kchchkcntnnt|K'ich'chik Continent]], where the nature of the connection is poorly understood by western scholars.
 
 #### Khazari
 
-The [[lore-flkkhazar|Khazari]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds in the cliff faces and the caves behind them, worked with engineering skill no human can match. Like the Sinale, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft—metalwork, stonework, engineering—is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
+The [[lore-flkkhazar|Khazár Folk]]. The Deep Folk. The Stone-Wrights. A shorter, broader, immensely strong people who inhabit mountain holds in the cliff faces and the caves behind them, worked with engineering skill no human can match. Like the Sinale, they are vanishingly rare, deeply insular, and uninterested in human politics. Their craft—metalwork, stonework, engineering—is legendary, though most humans encounter it only in ancient ruins and priceless artifacts from an age before humanity.
 
 #### The Old Compact
 
-In the deepest past, the Sinale and the Khazari lived and worked together under some form of shared accord—what fragmentary traditions call the Old Compact. This cooperation produced wonders that neither race could have achieved alone. But something shattered the Compact in an age before human memory, and the two elder races separated completely. They do not speak to each other. They do not trade. Neither will discuss the breach with humans. Whatever happened, it has not been forgiven across thousands of years of silence.
+In the deepest past, the Sinale and the Khazari lived and worked together under some form of shared accord—what fragmentary traditions call [[lore-oldcompact|The Old Compact]]. This cooperation produced wonders that neither race could have achieved alone. But something shattered the Compact in an age before human memory, and the two elder races separated completely. They do not speak to each other. They do not trade. Neither will discuss the breach with humans. Whatever happened, it has not been forgiven across thousands of years of silence.
 
 ## Pantheons
 
@@ -77,11 +77,11 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Characters
 
-Thalorna is populated by warriors, scholars, rulers, rogues, priests, bards, and everyone in between—the people whose choices shape the world's ongoing history. Browse the full [[doc-being|catalog of beings]], or discover them in context on the regions, polities, and faiths where they live.
+Thalorna is populated by warriors, scholars, rulers, rogues, priests, bards, and everyone in between—the people whose choices shape the world's ongoing history. Browse [[doc-being|Beings]], the full catalog, or discover them in context on the regions, polities, and faiths where they live.
 
 ## Creatures
 
-From the great river-beasts of Au'Khelathu to the mountain-wights of Aelwyth and the spirit-fauna of the Central Rainforests, Thalorna's creatures are as varied as its peoples. Browse the full [[doc-being|catalog of beings]].
+From the great river-beasts of [[place-aukhelathrgq|Au'Khelathu Region]] to the mountain-wights of [[place-aelwyth|Aelwyth]] and the spirit-fauna of the [[place-cntrlrnfrsts|Central Rainforests]], Thalorna's creatures are as varied as its peoples. Browse the full [[doc-being|catalog of beings]].
 
 ## Companies
 

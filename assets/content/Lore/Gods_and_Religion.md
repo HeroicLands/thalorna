@@ -9,19 +9,19 @@ data: {packFolder: settinglore}
 
 ## Religion and Gods Are Not the Same Thing
 
-The most important conceptual distinction in this document is the one between **religion** and **gods**.
+The most important conceptual distinction in The Truth of Religion is the one between **religion** and **gods**.
 
 A _religion_ is a human institution—a body of belief, practice, ritual, scripture, community, leadership, and tradition. Religions exist as social and cultural realities. They have priests, temples, holy texts, festival calendars, moral teachings, and adherents. They produce communities. They influence political life. They preserve practical wisdom across generations. They are, in every sense that matters for the lived experience of their adherents, real.
 
-A _god_ is something else: an extraordinarily powerful soul, of the kind described in [[doc-soulspirts|Souls and Spirits]], whose Aura and capacity for channeling far exceeds anything mortal. Gods exist on a different plane of being, do not generally manifest physically, and operate by principles that mortals can only guess at.
+A _god_ is something else: an extraordinarily powerful soul, of the kind described in [[doc-soulspirts|The Truth of Souls]], whose Aura and capacity for channeling far exceeds anything mortal. Gods exist on a different plane of being, do not generally manifest physically, and operate by principles that mortals can only guess at.
 
-These two things are _related_—religions usually claim to worship one or more gods, and many do—but they are _not the same thing_, and the relationship between them is far looser than worshippers believe. A god can inspire multiple religions whose theologies contradict one another. A religion can persist for centuries worshipping a god who has died, withdrawn, or never existed. The functioning of a religion does not, in most respects, depend on the existence of its god. This is the central secret that no religion on Thalorna is institutionally equipped to face.
+These two things are _related_—religions usually claim to worship one or more gods, and many do—but they are _not the same thing_, and the relationship between them is far looser than worshippers believe. A god can inspire multiple religions whose theologies contradict one another. A religion can persist for centuries worshipping a god who has died, withdrawn, or never existed. The functioning of a religion does not, in most respects, depend on the existence of its god. This is the central secret that no religion on [[place-worldthlrn|The World of Thalorna]] is institutionally equipped to face.
 
 This document develops the implications of that distinction.
 
 ## What Gods Are
 
-Within the cosmology established in [[doc-magictruth|Magic Truth]], gods are not metaphysically distinct from other beings. They are _souls_—the same kind of thing that mortals, spirits, elementals, and dragons are. What distinguishes them is the magnitude of what they have, and what they can do with it.
+Within the cosmology established in [[doc-magictruth|The Truth of Magic]], gods are not metaphysically distinct from other beings. They are _souls_—the same kind of thing that mortals, spirits, elementals, and dragons are. What distinguishes them is the magnitude of what they have, and what they can do with it.
 
 A god is a **supra-being**: a soul of vast Aura, whose connection to the formless arcane potential is correspondingly vast. Where a mortal _marendos_ (master) is, in cosmological terms, a soul that touches the potential deeply enough to support a sustained channel and a moderately complex Morfís, a god is a soul that touches the potential at a scale beyond mortal comparison. The same metaphysics that governs mortal magic governs divine action—Aura plus framework, channeling potential into actualization—but the parameters are so radically different that the _kind_ of magic a god can perform is unrecognisable to mortal practitioners.
 
@@ -59,9 +59,9 @@ A further wrinkle: a god worshipped under multiple names by multiple traditions 
 
 ## Pantheons as Human Constructs
 
-The previous sections have treated "the gods" as if they were a definite set of beings that mortal religions worship. This treatment is convenient for exposition but is, strictly, false. What mortals call pantheons—the Aureldian Twelve, the Itsani Ten, the Sinale's beings of light and dark, the various Norden god-families—are _human organisational schemes_ projected onto the divine field. The schemes are real cultural facts. They are not descriptions of how the divine field actually carves itself.
+The previous sections have treated "the gods" as if they were a definite set of beings that mortal religions worship. This treatment is convenient for exposition but is, strictly, false. What mortals call pantheons—the [[affiliation-arldnpnthn|Aureldian Pantheon]], the [[affiliation-itzanpnthn|Itsani Pantheon]], the [[lore-flksinale|Sinale Folk]]'s beings of light and dark, the various [[lore-nordheimnclt|Nordheimn]] god-families—are _human organisational schemes_ projected onto the divine field. The schemes are real cultural facts. They are not descriptions of how the divine field actually carves itself.
 
-This is the same principle that operates throughout the cosmology of Thalorna. The Order's six _rheza_ are real categories _as the Order's framework produces them_, but they are not the structure of magic; the formless potential admits any framework. Pantheons work the same way one level up: they are real categories _as their cultures produce them_, but they are not the structure of the divine. The actual divine field—whatever that phrase even means—admits any framework that mortal minds can build to engage with it.
+This is the same principle that operates throughout the cosmology of Thalorna. [[affiliation-ordoarcanis|Thordimalon]]'s six _rheza_ are real categories _as the Order's framework produces them_, but they are not the structure of magic; the formless potential admits any framework. Pantheons work the same way one level up: they are real categories _as their cultures produce them_, but they are not the structure of the divine. The actual divine field—whatever that phrase even means—admits any framework that mortal minds can build to engage with it.
 
 ### What Mortal Schemes Project
 
@@ -107,7 +107,7 @@ The question "which is right?" has no view-from-nowhere answer. There is no neut
 - Within any framework, judgments can be more or less coherent, more or less informed, more or less consistent with the framework's own deeper values. Internal moral reasoning is real; disagreements within a framework can be resolved by reference to the framework's principles.
 - Across frameworks, disagreements cannot be resolved by reference to some Universal Morality. They can be resolved (or not) only through dialogue, persuasion, conflict, or coexistence.
 
-A thoughtful Aureldian can absolutely judge another Aureldian's actions to be evil—by Aureldian standards, with full conviction. A thoughtful Aureldian can also judge an Itsani action to be evil _by Aureldian standards_—but should at least recognize that the Itsani are not violating their own framework, and that their framework has its own coherence even if the Aureldian disagrees.
+A thoughtful member of the [[lore-aureldianclt|Aureldian Culture]] can absolutely judge another Aureldian's actions to be evil—by Aureldian standards, with full conviction. A thoughtful Aureldian can also judge an [Itsani]{.name data-type="lore/culture"} action to be evil _by Aureldian standards_—but should at least recognize that the Itsani are not violating their own framework, and that their framework has its own coherence even if the Aureldian disagrees.
 
 This is harder than either pure relativism (where no judgment is possible) or pure objectivism (where one's own framework is universal truth). It requires holding two things at once: deep commitment to one's own moral framework, and intellectual honesty about the framework being one's own rather than the universe's.
 
@@ -149,7 +149,7 @@ When a god does act on the material plane—and they do, occasionally—the acti
 Why the gods operate this way is not known to mortals, and the document offers no canonical answer. The most common theological hypotheses include:
 
 - **Faith requires non-coercion.** A god who appeared in glory and demanded worship would compel rather than receive it. Faith is meaningful only when chosen freely, in the absence of overwhelming evidence. The gods withdraw to preserve the value of being chosen.
-- **The Compact.** The gods agreed, long ago—perhaps after a catastrophic earlier age in which they did intervene directly and the consequences were terrible—to restrain themselves. The terms of the compact are remembered only by them.
+- The [Compact]{.name data-type="lore/cosmology"}. The gods agreed, long ago—perhaps after a catastrophic earlier age in which they did intervene directly and the consequences were terrible—to restrain themselves. The terms of the compact are remembered only by them.
 - **Metaphysical limit.** The gods _cannot_ intervene more directly. Their power, however vast, must operate through the same channels as mortal magic—Aura plus framework—and direct material manifestation is barred to them by the same metaphysics that requires Aura to act through framework. They are extraordinarily powerful souls, but souls without bodies, unable to act on the material plane except through naturalistic effect or through mortal agents.
 - **Mutual constraint.** The gods are many. Any one's direct intervention would be matched, perhaps opposed, by others. The result is an equilibrium of restraint maintained by the threat of escalation.
 - **Disinterest.** The gods are vast and slow. The affairs of mortals occupy the smallest fraction of their attention. They notice, sometimes, when noticed. They rarely bestir themselves further.
@@ -160,7 +160,7 @@ Whatever the reason, the principle holds _universally_. This is significant give
 
 What matters for play is the consequence: from inside the world, divine action is always either ambiguous coincidence or apparent spellcasting. There is no clean evidence available to a mortal observer—even a devout one—that distinguishes a god's intervention from natural fortune or human magic. This ambiguity is not a deficiency of the world; it is its design.
 
-The mechanisms by which the non-intervention principle is enforced—and how the gods nevertheless engage with the world through agents and proxies—are developed in detail in [[doc-divineactn|Divine Action]]. This document focuses on what religions are and how they function; the political and metaphysical apparatus by which gods act on the world (or refrain from acting) is the subject of that companion document.
+The mechanisms by which the non-intervention principle is enforced—and how the gods nevertheless engage with the world through agents and proxies—are developed in detail in [[doc-divineactn|The Truth of Divine Action]]. This document focuses on what religions are and how they function; the political and metaphysical apparatus by which gods act on the world (or refrain from acting) is the subject of that companion document.
 
 ## Real Gods, Fictitious Gods, and the Indistinguishability Problem
 
@@ -330,7 +330,7 @@ A high-Aura priest, witch, or hedge-mage trained in a curse-framework can perfor
 
 Framework curses are more dangerous and more durable than inspirational ones. They typically last longer than blessings—often months or years rather than a single month—because they are not structured around regular renewal. They can sometimes be lifted by another framework-practitioner, but doing so requires identifying the specific curse-framework that was used and applying a counter-framework, which is non-trivial.
 
-The Sekran hunts framework-cursing practitioners aggressively. A framework curse is unsanctioned magic with identifiable victims, which is exactly the kind of thing the [[affiliation-ordoarcanis|Order's]] enforcement arm exists to suppress. Folk practitioners who work with curses operate at considerable personal risk.
+The [Sekran]{.name data-type="affiliation"} hunts framework-cursing practitioners aggressively. A framework curse is unsanctioned magic with identifiable victims, which is exactly the kind of thing the [[affiliation-ordoarcanis|Order's]] enforcement arm exists to suppress. Folk practitioners who work with curses operate at considerable personal risk.
 
 ### Mixed Curses
 
@@ -360,15 +360,15 @@ In any given case in Thalorna's history or contemporary reality, the truth may b
 
 ## Worked Example: Ústaron, the Sacred Forge, and the Black Flame
 
-The relationships among god, religion, and lived practice are illustrated most clearly by example. Consider Ústaron, the god of fire and forge.
+The relationships among god, religion, and lived practice are illustrated most clearly by example. Consider [[lore-ustarondty|Ústaron]], the god of fire and forge.
 
 Ústaron, as a real god, is—let us say, for purposes of this example—an extraordinarily powerful soul whose nature encompasses fire in all its aspects: the cleansing flame and the consuming flame, the smith's forge and the city's burning, the warmth of hearth and the heat of conflagration. Ústaron, as a soul, is what he is. He does not, by his nature, prefer one aspect over another. He is fire, in all of its possible expressions.
 
 Two religions worship Ústaron, and they understand him very differently.
 
-**The Sacred Forge** sees Ústaron as the benevolent god of fire's creative aspect. He is the patron of blacksmiths, of artisans, of those who make things. His fire purifies and clarifies; his forge transforms raw metal into useful work; his warmth sustains hearth and home. The Sacred Forge teaches that Ústaron loves his worshippers, that the proper response to the gift of fire is gratitude and craft, that the smith's labor is itself a form of worship. The religion's holy texts emphasize the patient discipline of working metal, the sacred trust of producing tools that other people will rely on, the moral seriousness of making things well. The Sacred Forge's adherents are blacksmiths, artisans, masons, and others whose trades involve fire and craft.
+**[[affiliation-sacredforge|The Sacred Forge]]** sees Ústaron as the benevolent god of fire's creative aspect. He is the patron of blacksmiths, of artisans, of those who make things. His fire purifies and clarifies; his forge transforms raw metal into useful work; his warmth sustains hearth and home. The Sacred Forge teaches that Ústaron loves his worshippers, that the proper response to the gift of fire is gratitude and craft, that the smith's labor is itself a form of worship. The religion's holy texts emphasize the patient discipline of working metal, the sacred trust of producing tools that other people will rely on, the moral seriousness of making things well. The Sacred Forge's adherents are blacksmiths, artisans, masons, and others whose trades involve fire and craft.
 
-**The Black Flame** sees Ústaron as the consuming and dominating god of fire's destructive aspect. He is the patron of conquerors, of those who burn what stands in their way, of those who understand that strength is the only law and that fire is the most direct expression of strength. The Black Flame teaches that Ústaron respects only those who wield power, that the proper response to fire is to use it as a weapon, that domination of others is the natural order. The religion's holy texts emphasize the inevitability of conflict, the moral primacy of strength, the philosophical insight that all civilization is a thin crust over the consuming flame and that those who recognize this can ride the flame rather than be ridden by it. The Black Flame's adherents are warlords, mercenary captains, would-be tyrants, and those who serve them.
+**[[affiliation-blackflame|The Black Flame]]** sees Ústaron as the consuming and dominating god of fire's destructive aspect. He is the patron of conquerors, of those who burn what stands in their way, of those who understand that strength is the only law and that fire is the most direct expression of strength. The Black Flame teaches that Ústaron respects only those who wield power, that the proper response to fire is to use it as a weapon, that domination of others is the natural order. The religion's holy texts emphasize the inevitability of conflict, the moral primacy of strength, the philosophical insight that all civilization is a thin crust over the consuming flame and that those who recognize this can ride the flame rather than be ridden by it. The Black Flame's adherents are warlords, mercenary captains, would-be tyrants, and those who serve them.
 
 Both religions are functional. Both produce real effects.
 

@@ -192,17 +192,17 @@ sohl:
   flags: {"thalorna": {lang_family: Trans-Grazian}}
 ---
 
-Osket is the tongue of the [[affiliation-osketguides|Osket]], who hold the western and central crossings of [[place-graznmntns|the Grazian Mountains]]. Fluency measures the range of what a speaker can say in it, from a caravan-master's twenty words of road-command to the fluent speech of someone raised at a hearth. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Osket Language is the tongue of [[affiliation-osketguides|The Osket]], who hold the western and central crossings of [[place-graznmntns|The Grazian Mountains]]. Fluency measures the range of what a speaker can say in it, from a caravan-master's twenty words of road-command to the fluent speech of someone raised at a hearth. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
-Osket is related to nothing in any lowland family. It shares no root stock with [[skill-vedyarlng|Vedyari]], with Tellumi, with Tantsou or with anything else that has been compared with it, and the comparisons have been made: a Vedyari grammarian spent four seasons at [[place-oskhelt|Oskhelt]] two centuries ago and published a careful, competent account whose conclusion was that there was nothing to connect it to.
+Osket is related to nothing in any lowland family. It shares no root stock with [[skill-vedyarlng|Vedyari Language]], with [[skill-khazrilng|Tellumi Language]], with [[skill-tantsoulng|Tantsou Language]] or with anything else that has been compared with it, and the comparisons have been made: a Vedyari grammarian spent four seasons at [[place-oskhelt|Oskhelt]] two centuries ago and published a careful, competent account whose conclusion was that there was nothing to connect it to.
 
 Almost no outsider speaks it. What lowlanders learn is a road-pidgin of perhaps two hundred words—loads, weather, halt, go, water, rope, dead—and the Osket teach that pidgin willingly and the language not at all. There is no prohibition. There is simply no occasion on which an Osket has ever needed a lowlander to understand more.
 
 ## How Osket sounds
 
-Osket is held at the back of the throat. It is slower than Hvarn, with more vowels.
+Osket is held at the back of the throat. It is slower than [[skill-hvarnlng|Hvarn Language]], with more vowels.
 
 **The vowels.** _o_, _u_ and _a_, with _oi_ and _au_.
 
@@ -241,7 +241,7 @@ The two front rounded vowels are the feature an outsider hears first and produce
 ### Phonotactic Patterns
 
 Consonant Clusters
-: Freely admitted at the start and end of a word alike; _Tsokhar_ opens on an affricate and closes on a liquid, _Oskhelt_ sets _s_ and _kh_ together inside and closes on _lt_
+: Freely admitted at the start and end of a word alike; _[[place-tsokhar|Tsokhar]]_ opens on an affricate and closes on a liquid, _Oskhelt_ sets _s_ and _kh_ together inside and closes on _lt_
 
 Syllable Structure
 : Heavy, and commonly closed; long vowels are not distinguished
@@ -274,7 +274,7 @@ A personal name is a single word, most often two syllables, drawn from weather, 
 
 ## Osket Lexicon {#lexicon}
 
-An [[affiliation-osketguides|Osket]] lineage is a hearth, a herd, a high pasture and one road, and its tongue names each of them in a word of one syllable: _goich_ is the hearth, _poich_ the yak, _ghauk_ the road held by descent. [[skill-osketlng|Osket]] is related to nothing spoken in any lowland, and its words owe nothing to Vedyari. This page is the word-hoard of the tongue: its words, the rules a new word is built by, and the register of every name the setting gives the Osket and the places they hold.
+An [[affiliation-osketguides|Osket]] lineage is a hearth, a herd, a high pasture and one road, and its tongue names each of them in a word of one syllable: _goich_ is the hearth, _poich_ the yak, _ghauk_ the road held by descent. Osket is related to nothing spoken in any lowland, and its words owe nothing to Vedyari. This page is the word-hoard of the tongue: its words, the rules a new word is built by, and the register of every name the setting gives the Osket and the places they hold.
 
 A compound sets two words side by side with no linking material, the first saying which and the second saying what: _ghauk_ is the road and _wugh_ a knotted cord, so _ghaukwugh_ is the guide-cord, the record of a road. A personal name is a single word taken from weather, ground, beast or condition, so the words of the dictionary are also the names the Osket give their children.
 
@@ -317,7 +317,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-osketlng'
 
 **A person** carries one word, most often of two syllables, taken from weather, ground, beast or condition: _Nushang_ is hail and _Yulmum_ deep snow. The name is not inherited. What is inherited is the road, and a stranger is told the crossing first and the person second: _Suryadvara, Yolte_.
 
-**A place** of the Osket is older than the words on this page: [[place-oskhelt|Oskhelt]] and [[place-tsokhar|Tsokhar]] stand in the register with `—`. The crossings themselves are named in Vedyari, and the [[lore-vedyariclt|Vedyari]] lexicon registers them.
+**A place** of the Osket is older than the words on this page: [[place-oskhelt|Oskhelt]] and [[place-tsokhar|Tsokhar]] stand in the register with `—`. The crossings themselves are named in Vedyari, and the [[skill-vedyarlng#lexicon|Vedyari Lexicon]] registers them.
 
 ## Scope {#scope}
 

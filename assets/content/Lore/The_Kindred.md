@@ -16,13 +16,13 @@ Parent pantheon
 Religion
 : [[affiliation-theoldway|The Old Way]]
 
-The **Kindred** are the servant spirits of the two primordial Powers of the [[affiliation-firstgods|First Gods]]. They are the animal spirits, the place spirits, the water spirits, the stone spirits, the hearth spirits—the innumerable minor and intermediate beings who dwell in specific territories and whose presence constitutes the actual texture of Áelendan religious life.
+**The Kindred** are held to be the servant spirits of the two primordial Powers of [[affiliation-firstgods|The First Gods]]. They are the animal spirits, the place spirits, the water spirits, the stone spirits, the hearth spirits—the innumerable minor and intermediate beings who dwell in specific territories and whose presence constitutes the actual texture of the religious life of the [[lore-aelendnppl|Áelendan People]].
 
-Where the [[affiliation-firstgods#the-bright|Bright]] and the [[affiliation-firstgods#the-dark|Dark]] are great cosmic Powers too vast to receive direct petition, the Kindred are particular. Each has a name (or a title, or an epithet); each has a territory; each has a character; each has specific requirements. A tribe of the [[lore-aelendnppl|Áelendan]] does not maintain an abstract relationship with "nature spirits" as a category. It maintains named, specific, ongoing relationships with the individual Kindred whose territories overlap with the tribe's.
+In the tradition, where the [[affiliation-firstgods#the-bright|Bright]] and the [[affiliation-firstgods#the-dark|Dark]] are great cosmic Powers too vast to receive direct petition, the Kindred are particular. Each has a name (or a title, or an epithet); each has a territory; each has a character; each has specific requirements. An Áelendan tribe does not maintain an abstract relationship with "nature spirits" as a category. It maintains named, specific, ongoing relationships with the individual Kindred whose territories overlap with the tribe's.
 
 ## Character
 
-The Kindred are not gods in the sense that the [[affiliation-arldnpnthn|Aureldian]] deities are gods. They are not transcendent. They do not preside over domains of existence. They are spirits of the world, rooted in particular places or particular living lineages, and their power—which can be considerable—is local and specific.
+The Kindred are not gods in the sense that the [[affiliation-arldnpnthn|Aureldian Pantheon]] deities are gods. They are not transcendent. They do not preside over domains of existence. They are spirits of the world, rooted in particular places or particular living lineages, and their power—which can be considerable—is local and specific.
 
 A gray wolf-spirit who wards a particular ridge can do much on that ridge and very little beyond it. A river-mother whose domain is a specific stretch of a specific river can influence the waters, the fish, the fording, the drowning, and the spiritual life of the valley she runs through—and nothing else. The Kindred's power is great where it is anchored, and absent where it is not.
 
@@ -58,7 +58,7 @@ Weather-kin
 : Spirits of storm, wind, snow, and fire. More mobile than the other Kindred, and often regarded as less reliable. Addressed in specific circumstances—a storm approaching, a fire to be kindled or quenched—rather than on a standing basis.
 
 Hearth-kin
-: Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[place-eshalshldg|Ésalosa]]) have powerful hearth-kin of long standing—the greatest of them [[lore-tenaspr|Tena]]. Alone among the Kindred they depend on people: a hearth-kin comes into being where people keep returning and thins where they stop, so a permanent village holds one, a seasonal camp holds a thin one that must be woken on arrival, and a night's camp holds none.
+: Spirits of the household and of the tribal lodge. The keepers of the fire, the warders of the threshold, the guardians of sleeping children. Each Áelendan household has its own hearth-kin, and major tribal lodges (such as [[place-eshalshldg|Ésalosa Lodge]]) have powerful hearth-kin of long standing—the greatest of them [[lore-tenaspr|Tena, the Hearth of Ésalosa]]. Alone among the Kindred they depend on people: a hearth-kin comes into being where people keep returning and thins where they stop, so a permanent village holds one, a seasonal camp holds a thin one that must be woken on arrival, and a night's camp holds none.
 
 A given Kindred may serve the [[affiliation-firstgods#the-bright|Bright]], the [[affiliation-firstgods#the-dark|Dark]], or both. The affiliations are not doctrinal. They are observed—a river-mother whose character is quickening and nurturing is understood to belong to the Bright; a stone-warder who keeps the long silence of a barrow belongs to the Dark. Some Kindred pass between the Powers with the turning of the seasons, which is simply what they are.
 
@@ -97,13 +97,13 @@ Pacts are inherited across generations, and the maintenance of them is one of th
 
 ## Relationship with the Fae
 
-The Áelendan distinguish carefully between the Kindred and the **fae** of the [[lore-faecourts|Fae Courts]] and the [[place-silvrfrsts|Silver Forests]]. The Kindred are of the mortal world; they are anchored in specific places; they can be known, named, and bargained with through the established protocols. The fae are something else—beings of the thin places, whose dealings with mortals follow rules the Áelendan understand only in part, and whose Courts lie beyond the ordinary reach of shamanic practice.
+The Áelendan distinguish carefully between the Kindred and the **fae** of [[lore-faecourts|The Fae Courts]] and [[place-silvrfrsts|The Silver Forests]]. The Kindred are of the mortal world; they are anchored in specific places; they can be known, named, and bargained with through the established protocols. The fae are something else—beings of the thin places, whose dealings with mortals follow rules the Áelendan understand only in part, and whose Courts lie beyond the ordinary reach of shamanic practice.
 
-That said, the boundary is not absolute. Certain very old Kindred—the stone-warders of the deepest cairns, the river-mothers of the old springs, the grove-keepers of the Silver Forests—are understood by shamen to be fae-adjacent, or to have crossed the boundary long ago, or to have been fae-kin since before the Áelendan came to the land. These Kindred are approached with particular caution, and the protocols for dealing with them overlap with the protocols of the Kindred Pact.
+That said, the boundary is not absolute. Certain very old Kindred—the stone-warders of the deepest cairns, the river-mothers of the old springs, the grove-keepers of the Silver Forests—are understood by shamen to be fae-adjacent, or to have crossed the boundary long ago, or to have been fae-kin since before the Áelendan came to the land. These Kindred are approached with particular caution, and the protocols for dealing with them overlap with the protocols of the [Kindred Pact]{.name data-type="lore/law"}.
 
 ## Outsider Interaction
 
-Outsiders—travelers, traders, Arcane Order agents—do not have pacts with the Kindred and cannot form them. What outsiders can do is refrain from transgression: not desecrating a sacred site, not hunting what they have not been permitted to hunt, not disturbing what they have been warned not to disturb. Most Áelendan tribes are willing to extend this minimum reciprocity to respectful visitors. Those who transgress discover, sometimes slowly and sometimes quickly, that the Kindred take offense, and that the [[affiliation-alndnwrdns|Wardens]] exist to prevent transgressions that the Kindred themselves would punish more harshly.
+Outsiders—travelers, traders, [[affiliation-ordoarcanis|Thordimalon]] agents—do not have pacts with the Kindred and cannot form them. What outsiders can do is refrain from transgression: not desecrating a sacred site, not hunting what they have not been permitted to hunt, not disturbing what they have been warned not to disturb. Most Áelendan tribes are willing to extend this minimum reciprocity to respectful visitors. Those who transgress discover, sometimes slowly and sometimes quickly, that the Kindred take offense, and that the [[affiliation-alndnwrdns|Áelendan Wardens]] exist to prevent transgressions that the Kindred themselves would punish more harshly.
 
 ## See Also
 

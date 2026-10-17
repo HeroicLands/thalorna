@@ -793,7 +793,7 @@ sohl:
   flags: {"thalorna": {lang_family: Desert}}
 ---
 
-Dunhari is a tongue of the Desert family. Fluency measures the sophistication of expression in Dunhari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Dunhari Language is a tongue of the Desert family. Fluency measures the sophistication of expression in Dunhari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
@@ -813,7 +813,7 @@ Dunhari is the recited verse-speech of the deep desert. It rolls on _v_ and _r_ 
 
 **Endings.** Dunhari words end in _-ar_, _-er_, _-end_, _-vad_, _-bun_ or _-ader_.
 
-**What Dunhari leaves out.** It has no _kh_ at the start of a word, which is Atárzadi's, and no _-od_ or _-ekh_. It avoids words of more than four syllables.
+**What Dunhari leaves out.** It has no _kh_ at the start of a word, which is [[skill-atarzadilng|Atárzadi Language]]'s, and no _-od_ or _-ekh_. It avoids words of more than four syllables.
 
 ## Phonology
 
@@ -928,7 +928,7 @@ The offices of the Amradi court take _-ader_ and _-abun_: the sovereign is the _
 
 ## Script and Literacy
 
-Dunhari employs the [[skill-dnshkscrpt|Dunshak]] script, an abjad system that represents consonants fully but marks vowels only in formal or poetic contexts through diacritical marks (circumflex, acute, grave accents). The script is written right-to-left, following ancient Ankarian convention.
+Dunhari employs the [[skill-dnshkscrpt|Dunshak Script]], an abjad system that represents consonants fully but marks vowels only in formal or poetic contexts through diacritical marks (circumflex, acute, grave accents). The script is written right-to-left, following ancient Ankarian convention.
 
 Literacy among Dunhari nomadic populations centers on oral transmission; written literacy is highest in settled urban communities and courtly contexts. The primary literary form remains poetry and song, which are memorized and transmitted orally through generations.
 
@@ -950,7 +950,7 @@ Spoken in oasis towns and settled communities, this dialect shows simplified nom
 
 ### Amradi (Courtly Dialect)
 
-The prestige dialect of the Kingdom of Amradad, spoken in Tahrodan and refined urban centers. Amradi is characterized by:
+The prestige dialect of the Kingdom of Amradad, spoken in [[place-tahrodan|Tahrodan]] and refined urban centers. Amradi is characterized by:
 
 - Softening of velar fricatives (_kh_ > _kh_ or _h_, _gh_ > _g_ or _w_)
 - Elaborate politeness markers and honorific forms
@@ -985,7 +985,7 @@ The [[skill-dunharlng#lexicon|Dunhari Lexicon]] holds the stems of the tongue, t
 
 Dunhari is the primary member of the **Desert language family**, a classification that encompasses related languages of the central Ankarian desert regions. The family includes several extinct languages and at least one other modern language with limited speakers.
 
-The language shows distant connections to Taruzeli through ancient shared vocabulary related to trade and navigation, but these represent contact rather than genetic relationship.
+The language shows distant connections to [[skill-taruzelilng|Taruzeli Language]] through ancient shared vocabulary related to trade and navigation, but these represent contact rather than genetic relationship.
 
 ## Naming Traditions
 
@@ -1036,7 +1036,7 @@ Afsheran, Ferudan, Vardozan, Tamaran, Khavar, Zandun, Barmandan, Qarush, Kaveran
 
 ## Dunhari Lexicon {#lexicon}
 
-A caravan that crosses the [[place-dunharargn|Dunhara]] meets two registers of one tongue. At the wells and in the black tents the tribes speak [[skill-dunharlng|Dunhari]] as the poets keep it, and the storm cults name their lineages in it: a _zevrogar_ reads the wind, a _belgogar_ calls the rain. In the walled cities of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] the same words take the polish of the Amradi court, and the Shebarader's officers carry them as titles: the _vazhmader_ who judges a city and the _tagemader_ who governs it, the _gholvabun_ who keeps the door. This page is the word-hoard of both: the stems, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives in the Dunhara and Amradad.
+A caravan that crosses the [[place-dunharargn|Dunhara]] meets two registers of one tongue. At the wells and in the black tents the tribes speak Dunhari as the poets keep it, and the storm cults name their lineages in it: a _zevrogar_ reads the wind, a _belgogar_ calls the rain. In the walled cities of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] the same words take the polish of the Amradi court, and the Shebarader's officers carry them as titles: the _vazhmader_ who judges a city and the _tagemader_ who governs it, the _gholvabun_ who keeps the door. This page is the word-hoard of both: the stems, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives in the Dunhara and Amradad.
 
 A Dunhari stem names an act or a thing, and an ending says what part it plays. _Vazhm-_ is to weigh a claim; _vazhmader_ is the one who weighs it by office, the judge. The same handful of endings is laid on every stem, and a place is a stem with the ending that marks its kind of ground: _ghavul-_ is to draw water, and _Ghavulavad_ is the oasis where the tribes draw it.
 
@@ -1077,7 +1077,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-dunharlng'
 
 ## Building words {#building-words}
 
-One move makes every built word on this page: **an ending on a stem.** The stem is bound, and each ending says what part the stem's act or thing plays. The clan endings _-an_, _-i_ and _-id_ are the ones the [[skill-dunharlng|language note]] gives for tribal names; the others make offices, callings and places.
+One move makes every built word on this page: **an ending on a stem.** The stem is bound, and each ending says what part the stem's act or thing plays. The clan endings _-an_, _-i_ and _-id_ are the ones the language note gives for tribal names; the others make offices, callings and places.
 
 ### Suffixes
 
@@ -1125,9 +1125,9 @@ ORDER BY position
 
 ## Making names {#making-names}
 
-**A Dunhari person** carries a given name and a clan name, the given name first: [[being-trvshshrdr|Torvash Shiradar]] is Torvash of the Shiradar. The clan name carries the endings the [[skill-dunharlng|language note]] gives, _-an_ for primary descent, _-i_ for a sub-clan and _-id_ for the descendants of a founder. Most given and clan names are older than the stems on this page, and the register shows `—` for them.
+**A Dunhari person** carries a given name and a clan name, the given name first: [[being-trvshshrdr|Torvash Shiradar]] is Torvash of the [Shiradar]{.name data-type="affiliation/lineage"}. The clan name carries the endings the language note gives, _-an_ for primary descent, _-i_ for a sub-clan and _-id_ for the descendants of a founder. Most given and clan names are older than the stems on this page, and the register shows `—` for them.
 
-**A place** is a stem with an ending that marks its kind of ground, named for the work its first settlers did there: [[place-ghavulavad|Ghavulavad]], the oasis where the tribes draw water at the great well, [[place-qarvelakhend|Qarvelakhend]], the walled city, [[place-kherzulakhem|Kherzulakhem]], the hunters' camp, and [[place-twrlghtnmrkd|Qeshvadez]], the lightning tower.
+**A place** is a stem with an ending that marks its kind of ground, named for the work its first settlers did there: [[place-ghavulavad|Ghavulavad]], the oasis where the tribes draw water at the great well, [[place-qarvelakhend|Qarvelakhend]], the walled city, [[place-kherzulakhem|Kherzulakhem]], the hunters' camp, and [[place-twrlghtnmrkd|Tower of the Lightning-Marked]] (Qeshvadez), the lightning tower.
 
 **An office** is a stem with _-ader_, _-abun_ or _-ogar_, written alone: the Shebarader's _vazhmader_ and _gholvabun_, the storm cults' _zevrogar_ and _ruzhogar_. The great offices of the court and the realm itself are named in the language of these pages.
 
