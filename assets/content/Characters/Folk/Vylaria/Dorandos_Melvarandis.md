@@ -36,4 +36,4 @@ Doros Melvarandis is a 69-year-old man who stands 5'11" tall with a medium build
 
 # Dossier {#dossier}
 
-Doros Melvarandis is an aging nobleman who oversees the lands where [[being-erythnslnds|Erithon Uselindas]] serves as personal archer-guard. He values [[being-erythnslnds|Erithon Uselindas]] as a trusted counselor as well as a skilled guard, and their relationship has deepened over long service into something approaching friendship.
+Doros Melvarandis is an aging nobleman who oversees the lands where [[being-erythnslnds|Erithon Uselindas]] serves as personal archer-guard. He values Erithon as a trusted counselor as well as a skilled guard, and their relationship has deepened over long service into something approaching friendship.

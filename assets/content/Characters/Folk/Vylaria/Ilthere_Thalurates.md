@@ -36,4 +36,4 @@ Ilthere Thalurates is a 31-year-old woman who stands 5'7" tall with a medium bui
 
 # Dossier {#dossier}
 
-Ilthere Thalurates is a noblewoman of House Thalurates with close ties to the imperial court. Ilthere offers [[being-klstrtsxrchds|Kalestratos Zarkedis]] political support in exchange for his help in manipulating key figures within Vylaria. She is pragmatic, self-serving and well connected.
+Ilthere Thalurates is a noblewoman of [House Thalurates]{.name data-type="affiliation/lineage"} with close ties to the imperial court. Ilthere offers [[being-klstrtsxrchds|Kalestratos Zarkedis]] political support in exchange for his help in manipulating key figures within the [[affiliation-vylarinmpr|Vylarian Empire]]. She is pragmatic, self-serving and well connected.

@@ -36,4 +36,4 @@ Hvilgthann Glarvidrok is a 50-year-old man who stands 5'8" tall with a medium bu
 
 # Dossier {#dossier}
 
-Hvilgthann Glarvidrok is the hersvald of Glarvey, a careful steward of what he can afford, whose roofs are his pride. He has engaged Hrandrinna for all his holdings' thatching work for the past decade. Hvilgthann Glarvidrok is named in [[being-hrndrndrknt|Hrandrinna Drekanótt]] and [[place-glarvey|Glarvey]].
+Hvilgthann Glarvidrok is the hersvald of [[place-glarvey|Glarvey]], a careful steward of what he can afford, whose roofs are his pride. He has engaged [[being-hrndrndrknt|Hrandrinna Drekanótt]] for all his holdings' thatching work for the past decade. Hvilgthann Glarvidrok is named in Hrandrinna Drekanótt and Glarvey.

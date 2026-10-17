@@ -36,4 +36,4 @@ Kaldrema Venthelis is a 23-year-old woman who stands 5'4" tall with a heavy buil
 
 # Dossier {#dossier}
 
-Kaldrema Venthelis is the High Priestess of the Verdant Sanctum and the spiritual leader who marked [[being-erythnslnds|Erithon Uselindas]] with the serpent tattoo. Kaldrema keeps in contact with him, offers guidance and occasionally asks him to undertake special missions.
+Kaldrema Venthelis is the High Priestess of the [Verdant Sanctum]{.name data-type="place/site"} and the spiritual leader who marked [[being-erythnslnds|Erithon Uselindas]] with the serpent tattoo. Kaldrema keeps in contact with him, offers guidance and occasionally asks him to undertake special missions.

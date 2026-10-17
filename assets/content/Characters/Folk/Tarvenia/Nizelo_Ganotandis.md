@@ -36,4 +36,4 @@ Nizelo Ganotis is a 48-year-old man who stands 6'3" tall with a medium build. He
 
 # Dossier {#dossier}
 
-Nizelo Ganotis is a corrupt noble who exploits his people and ignores the laws of the kingdom. He sees the investigation of [[being-frstrndrvs|Father Ostaran Dorvás]] as a direct threat to his power and would use bribery, manipulation and even violence to stop it.
+Nizelo Ganotis is a corrupt noble who exploits his people and ignores the laws of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]. He sees the investigation of [[being-frstrndrvs|Father Ostaran Dorvás]] as a direct threat to his power and would use bribery, manipulation and even violence to stop it.

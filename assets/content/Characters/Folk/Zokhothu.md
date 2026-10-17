@@ -36,4 +36,4 @@ Zokhothu is a 49-year-old man who stands 6'3" tall with a heavy build. He has ol
 
 # Dossier {#dossier}
 
-Zokhothu was the empire's foremost locksmith, home in [[place-galezkara|Galezkara]], before retiring from the trade. The craft passed to an apprentice rather than to his own children. His children have not forgiven the choice, and he has not reversed it.
+Zokhothu was the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s foremost locksmith, home in [[place-galezkara|Galezkara]], before retiring from the trade. The craft passed to an apprentice rather than to his own children. His children have not forgiven the choice, and he has not reversed it.

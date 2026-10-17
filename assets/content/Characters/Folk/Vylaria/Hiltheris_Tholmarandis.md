@@ -36,4 +36,4 @@ Hiltheris Tholmaris is a 67-year-old woman who stands 5'8" tall with a medium bu
 
 # Dossier {#dossier}
 
-Hiltheris Tholmaris was a _marendos_ (master) of the Order whose theories [[being-azatodmzns|Azato Damzanis]] publicly demolished. Hiltheris died under circumstances never fully clarified, and the death prompted an internal investigation that touched [[being-azatodmzns|Azato Damzanis]] peripherally. The matter was officially closed, but file agents of the Sekran keep certain suspicions.
+Hiltheris Tholmaris was a _marendos_ (master) of the [[affiliation-ordoarcanis|Thordimalon]] whose theories [[being-azatodmzns|Azato Damzanis]] publicly demolished. Hiltheris died under circumstances never fully clarified, and the death prompted an internal investigation that touched Azato peripherally. The matter was officially closed, but file agents of the [Sekran]{.name data-type="affiliation"} keep certain suspicions.

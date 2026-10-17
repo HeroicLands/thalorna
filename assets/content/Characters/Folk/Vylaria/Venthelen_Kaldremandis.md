@@ -36,4 +36,4 @@ Venthelen Kaldremis is a 63-year-old woman who stands 5'9" tall with a heavy bui
 
 # Dossier {#dossier}
 
-Venthelen Kaldremis was the gruff but fair-minded captain of the merchant vessel _Seaflower_. Venthelen took in [[being-brnlnsbrkls|Branalenis Bárkalas]] as a child, trained her in seamanship and kept her advancement informal to protect her from resentment among the men who held rank. Venthelen died of a wasting illness.
+Venthelen Kaldremis was the gruff but fair-minded captain of the merchant vessel _[Seaflower]{.name data-type="vehicle"}_. Venthelen took in [[being-brnlnsbrkls|Branalenis Barkalas]] as a child, trained her in seamanship and kept her advancement informal to protect her from resentment among the men who held rank. Venthelen died of a wasting illness.

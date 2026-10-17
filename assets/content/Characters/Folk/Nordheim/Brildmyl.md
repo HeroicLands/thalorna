@@ -36,4 +36,4 @@ Brildmil is a 19-year-old man who stands 5'8" tall with a heavy build. He has pa
 
 # Dossier {#dossier}
 
-Brildmil is the ranking priest at Svartbrandr's primary temple, who regards [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]] as a potential successor. The note on Braldfjall reads that protection as the clearest sign that the faith there has politics of its own. Brildmil is named in [[place-braldfjall|Braldfjall]].
+Brildmil is the ranking priest at the primary temple of the [[affiliation-svartbrandr|Faith of Svartbrandr]], who regards [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]] as a potential successor. The note on [[place-braldfjall|Braldfjall]] reads that protection as the clearest sign that the faith there has politics of its own. Brildmil is named in Braldfjall.

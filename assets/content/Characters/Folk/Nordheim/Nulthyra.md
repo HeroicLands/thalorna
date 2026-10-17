@@ -36,4 +36,4 @@ Nulthira is a 36-year-old woman who stands 5'7" tall with a light build. She has
 
 # Dossier {#dossier}
 
-Nulthira is the lady of Wildwood Manor, the seat above Thraldfjord whose forest climbs from the manor to the high ground. [[being-gnrthrvsnrvrkh|Gnarthorv Snarvaruk]] is her chief huntsman and ranks in her retinue just below her steward. Nulthira is named in [[being-gnrthrvsnrvrkh|Gnarthorv Snarvaruk]] and [[place-wildwoodmnr|Wildwood Manor]].
+Nulthira is the lady of [[place-wildwoodmnr|Wildwood Manor]], the seat above [[place-thraldfjord|Thraldfjord]] whose forest climbs from the manor to the high ground. [[being-gnrthrvsnrvrkh|Gnarthorv Snarvaruk]] is her chief huntsman and ranks in her retinue just below her steward. Nulthira is named in Gnarthorv Snarvaruk and Wildwood Manor.

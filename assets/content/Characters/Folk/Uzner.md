@@ -36,4 +36,4 @@ Lemani is a 50-year-old woman who stands 5'7" tall with a medium build. She has 
 
 # Dossier {#dossier}
 
-Lemani holds mastery of the [[affiliation-linzamlkhlth|Lin'Zamlu elu Au'Khelathu]] out of [[place-galezkara|Galezkara]], and patronizes a celebrated performer besides. A recommendation from this master carries across the whole empire, not merely the capital. Performers seeking that reach know exactly whose approval to court first.
+Lemani holds mastery of the [[affiliation-linzamlkhlth|Lin'Zamlu elu Au'Khelathu]] out of [[place-galezkara|Galezkara]], and patronizes a celebrated performer besides. A recommendation from this master carries across the whole [[affiliation-empireakhlth|Empire of Au'Khelathu]], not merely the capital. Performers seeking that reach know exactly whose approval to court first.

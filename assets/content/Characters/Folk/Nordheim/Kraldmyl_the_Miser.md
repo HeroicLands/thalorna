@@ -36,4 +36,4 @@ Kralmil the Miser is a 31-year-old man who stands 5'11" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Kralmil the Miser is a lord who has built his power on controlling trade through his territory. He views Glurvselda's alternative trade routes as an existential threat to his wealth. Kralmil the Miser is named in [[being-glrvsldslvrhnd|Glurvselda Silverhand]].
+Kralmil the Miser is a lord who has built his power on controlling trade through his territory. He views [[being-glrvsldslvrhnd|Glurvselda Silverhand]]'s alternative trade routes as an existential threat to his wealth. Kralmil the Miser is named in Glurvselda Silverhand.

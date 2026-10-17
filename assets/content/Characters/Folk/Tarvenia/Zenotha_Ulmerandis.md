@@ -36,4 +36,4 @@ Zenotha Ulmeris is a 59-year-old woman who stands 5'9" tall with a medium build.
 
 # Dossier {#dossier}
 
-Zenotha Ulmeris is a shrewd noblewoman who plays a dangerous political game. She publicly supports the Árdavonian faith but has secretly allied herself with the corrupt elements within the kingdom, and works against [[being-frstrndrvs|Father Ostaran Dorvás]] by spreading rumors and using her influence at court.
+Zenotha Ulmeris is a shrewd noblewoman who plays a dangerous political game. She publicly supports the [[affiliation-ardavon|Faith of Árdavon]] but has secretly allied herself with the corrupt elements within the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], and works against [[being-frstrndrvs|Father Ostaran Dorvás]] by spreading rumors and using her influence at court.

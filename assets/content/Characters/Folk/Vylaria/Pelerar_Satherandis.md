@@ -36,4 +36,4 @@ Pelerar Satheris is a 79-year-old man who stands 6'1" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Pelerar Satheris is a celebrated swordmaster in the dueling circles of Salkalon. [[being-krmdnsbrkrtys|Koremdanis Barkratis]] was placed under his tutelage at age twelve, and his exacting instruction made her a master swordsperson. He is her ancient teacher and the only person she truly respects.
+Pelerar Satheris is a celebrated swordmaster in the dueling circles of [[place-salkhalon|Salkalon]]. [[being-krmdnsbrkrtys|Koremdanis Barkratis]] was placed under his tutelage at age twelve, and his exacting instruction made her a master swordsperson. He is her ancient teacher and the only person she truly respects.

@@ -36,4 +36,4 @@ Tarvika Tamraksha is a 44-year-old woman who stands 5'6" tall with a medium buil
 
 # Dossier {#dossier}
 
-Tarvika Tamraksha is an overseer, a ruthless administrator dispatched by the Merchant Collective to increase profits. She views safety measures as unnecessary expense and has repeatedly overridden the safety recommendations of [[being-vshnshvdysgrml|Shilavira Vidyasagaramandala]], creating dangerous conditions and tension between them.
+Tarvika Tamraksha is an overseer, a ruthless administrator dispatched by [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] to increase profits. She views safety measures as unnecessary expense and has repeatedly overridden the safety recommendations of [[being-vshnshvdysgrml|Shilavira Vidyasagaramandala]], creating dangerous conditions and tension between them.

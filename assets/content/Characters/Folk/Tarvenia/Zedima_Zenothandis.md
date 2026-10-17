@@ -36,4 +36,4 @@ Zédima Zenothis is a 62-year-old woman who stands 5'11" tall with a medium buil
 
 # Dossier {#dossier}
 
-Zédima Zenothis is the mother of [[being-frstrndrvs|Father Ostaran Dorvás]] and the daughter of a well-known scholar. She married Álvaro Dorvás, a knight of the royal guard, and is the sister of Archbishop Thaluro Zenothis, a kinship neither of them states.
+Zédima Zenothis is the mother of [[being-frstrndrvs|Father Ostaran Dorvás]] and the daughter of a well-known scholar. She married [Álvaro Dorvás]{.name data-type="being/npc"}, a knight of the royal guard, and is the sister of Archbishop [[being-thalurozenot|Thaluro Zenothis]], a kinship neither of them states.

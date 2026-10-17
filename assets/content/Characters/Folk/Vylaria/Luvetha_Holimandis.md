@@ -36,4 +36,4 @@ Luvetha Holimandis is a 38-year-old woman who stands 5'8" tall with a medium bui
 
 # Dossier {#dossier}
 
-Luvetha Holimandis was the beloved sister of [[being-dmrthsvshrds|Dómrithas Vishardas]]. Luvetha contracted the Withering, an incurable disease that slowly transformed its victims into husks, and died of it. One of the notes on [[being-dmrthsvshrds|Dómrithas Vishardas]] has someone claiming to be Luvetha appear alive and unchanged.
+Luvetha Holimandis was the beloved sister of [[being-dmrthsvshrds|Domrithas Vishardas]]. Luvetha contracted the [Withering]{.name data-type="lore"}, an incurable disease that slowly transformed its victims into husks, and died of it. One of the notes on Dómrithas has someone claiming to be Luvetha appear alive and unchanged.

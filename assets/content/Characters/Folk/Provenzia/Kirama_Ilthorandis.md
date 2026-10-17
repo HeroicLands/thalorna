@@ -36,4 +36,4 @@ Kirama Iltoris is a 21-year-old woman who stands 5'8" tall with a medium build. 
 
 # Dossier {#dossier}
 
-Kirama Iltoris is a countess, a senior member of the Council of Peers and the leader of the reformist faction. She sees [[being-arnelkrsvr|Arnela Kórisvar]] as a useful ally, capable, ambitious and expendable enough to serve as a stalking horse for policies too controversial to champion directly.
+Kirama Iltoris is a countess, a senior member of the [Council of Peers]{.name data-type="affiliation/governmental"} and the leader of the reformist faction. She sees [[being-arnelkrsvr|Arnela Kórisvar]] as a useful ally, capable, ambitious and expendable enough to serve as a stalking horse for policies too controversial to champion directly.

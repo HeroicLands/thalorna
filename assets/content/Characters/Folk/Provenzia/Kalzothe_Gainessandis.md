@@ -36,4 +36,4 @@ Kalzote Gainessis is a 39-year-old man who stands 5'9" tall with a medium build.
 
 # Dossier {#dossier}
 
-Kalzote Gainessis is the cruel captain of the road bandits of Thornwood, who have attempted more than once to steal the valuable horses stabled at the Traveler's Rest Inn. [[being-kjrvngjrln|Chorvan Jarlen]] has helped to recover the stolen animals.
+Kalzote Gainessis is the cruel captain of the road bandits of [[place-thornwood|Thornwood]], who have attempted more than once to steal the valuable horses stabled at the [Traveler's Rest Inn]{.name data-type="place/structure"}. [[being-kjrvngjrln|Chorvan Jarlen]] has helped to recover the stolen animals.

@@ -36,4 +36,4 @@ Volkemo Kaldremis is a 52-year-old man who stands 5'11" tall with a medium build
 
 # Dossier {#dossier}
 
-Volkemo Kaldremis is a duke and a powerful regional lord of the Eastern Marches. He has engaged the services of [[being-carengrvth|Kárenna Graveth]] repeatedly in mediating disputes with neighboring provinces, and views her as a valuable ally and occasional lover, though the relationship is carefully concealed.
+Volkemo Kaldremis is a duke and a powerful regional lord of the [Eastern Marches]{.name data-type="place/region"}. He has engaged the services of [[being-carengrvth|Kárenna Graveth]] repeatedly in mediating disputes with neighboring provinces, and views her as a valuable ally and occasional lover, though the relationship is carefully concealed.

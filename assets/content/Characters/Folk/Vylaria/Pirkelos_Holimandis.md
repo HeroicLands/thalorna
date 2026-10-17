@@ -36,4 +36,4 @@ Pirkelos Holimandis is a 74-year-old man who stands 6'0" tall with a heavy build
 
 # Dossier {#dossier}
 
-Pirkelos Holimandis is the elder and voice of Milanthos, a former militia commander now in his seventies. He first encouraged [[being-azendsdmtr|Azendas Damator]] to take up healing, and when the Temple hierarchy in the capital questions the priest's methods, he provides the local political cover.
+Pirkelos Holimandis is the elder and voice of [[place-mylanthos|Milanthos]], a former militia commander now in his seventies. He first encouraged [[being-azendsdmtr|Azendas Damator]] to take up healing, and when the Temple hierarchy in the capital questions the priest's methods, he provides the local political cover.

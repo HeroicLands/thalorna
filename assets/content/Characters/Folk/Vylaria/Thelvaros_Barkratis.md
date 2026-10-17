@@ -36,4 +36,4 @@ Thelvaros Barkratis is a 64-year-old man who stands 6'3" tall with a heavy build
 
 # Dossier {#dossier}
 
-Thelvaros Barkratis is a lord of the Empire of Vylaria and the father of [[being-krmdnsbrkrtys|Koremdanis Barkratis]]. He indulged her unusual passion for the blade as a whim. When she persisted through adolescence, he recognized it as a gift and sought out the finest instruction available for her.
+Thelvaros Barkratis is a lord of the [[affiliation-vylarinmpr|Vylarian Empire]] and the father of [[being-krmdnsbrkrtys|Koremdanis Barkratis]]. He indulged her unusual passion for the blade as a whim. When she persisted through adolescence, he recognized it as a gift and sought out the finest instruction available for her.

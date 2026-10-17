@@ -36,4 +36,4 @@ Samurata Ratamara is a 74-year-old man who stands 6'2" tall with a medium build.
 
 # Dossier {#dossier}
 
-Samurata Ratamara was captain of The Merchant's Fortune, a seaman of great repute known for his exacting standards and his unwillingness to tolerate laziness or negligence. [[being-visvarmhpr|Vishvara Mahapara]] served under him from cabin boy to first mate, and Samurata retired at seventy.
+Samurata Ratamara was captain of [The Merchant's Fortune]{.name data-type="vehicle"}, a seaman of great repute known for his exacting standards and his unwillingness to tolerate laziness or negligence. [[being-visvarmhpr|Vishvara Mahapara]] served under him from cabin boy to first mate, and Samurata retired at seventy.

@@ -36,4 +36,4 @@ Althmil Vraldendik is a 22-year-old man who stands 5'9" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Althmil Vraldendik is a lord and patriarch of a house that values quality and tradition and commissions specialized glassware and tableware. He values quality and tradition, and keeps [[being-thlmvrsnrvrkh|Thulmvir Snarvaruk]]'s work in demand among the upper classes. Althmil Vraldendik is named in [[being-thlmthnslvrgr|Thalmthann Solvargr]] and [[being-thlmvrsnrvrkh|Thulmvir Snarvaruk]].
+Althmil Vraldendik is a lord and patriarch of a house that values quality and tradition and commissions specialized glassware and tableware. He values quality and tradition, and keeps [[being-thlmvrsnrvrkh|Thulmvir Snarvaruk]]'s work in demand among the upper classes. Althmil Vraldendik is named in [[being-thlmthnslvrgr|Thalmthann Solvargr]] and Thulmvir Snarvaruk.

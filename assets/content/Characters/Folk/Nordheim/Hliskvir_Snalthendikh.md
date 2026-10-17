@@ -36,4 +36,4 @@ Hliskvir Snalthendik is an 18-year-old man who stands 5'7" tall with a medium bu
 
 # Dossier {#dossier}
 
-Hliskvir Snalthendik is a councilor who views military power as a threat to his authority. He has worked systematically to undermine Gnaldrthann's position and credibility, seeking to replace Gnaldrthann with someone more politically pliable. Hliskvir Snalthendik is named in [[being-gnldrthnslvrgr|Gnaldrthann Solvargr]].
+Hliskvir Snalthendik is a councilor who views military power as a threat to his authority. He has worked systematically to undermine [[being-gnldrthnslvrgr|Gnaldrthann Solvargr]]'s position and credibility, seeking to replace Gnaldrthann with someone more politically pliable. Hliskvir Snalthendik is named in Gnaldrthann Solvargr.

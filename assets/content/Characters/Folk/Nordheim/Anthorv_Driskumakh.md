@@ -36,4 +36,4 @@ Anthorv Driskumak is a 20-year-old man who stands 6'4" tall with a medium build.
 
 # Dossier {#dossier}
 
-Anthorv Driskumak is a cold and exacting nobleman of moderate wealth who owns the household servant [[being-dvlgthyrskrldmkh|Dvilgthira Skraldumak]]. He bought [[being-dvlgthyrskrldmkh|Dvilgthira Skraldumak]] at age twelve, preferring competent staff to beautiful ones, and has come to rely on her more than he acknowledges.
+Anthorv Driskumak is a cold and exacting nobleman of moderate wealth who owns the household servant [[being-dvlgthyrskrldmkh|Dvilgthira Skraldumak]]. He bought Dvilgthira at age twelve, preferring competent staff to beautiful ones, and has come to rely on her more than he acknowledges.

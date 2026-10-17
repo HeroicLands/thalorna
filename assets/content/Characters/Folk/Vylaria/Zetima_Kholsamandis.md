@@ -36,4 +36,4 @@ Zetima Kolsamis is a 31-year-old woman who stands 5'8" tall with a light build. 
 
 # Dossier {#dossier}
 
-Zetima Kolsamis is a priestess and the keeper of the temple of Árdavon. Zetima views the work of [[being-dmrthsvshrds|Dómrithas Vishardas]] as corruption of the natural order and has declared his pursuit of immortality heretical. She works to discredit him and to protect innocents from his experiments.
+Zetima Kolsamis is a priestess and the keeper of the temple of the [[affiliation-ardavon|Faith of Árdavon]]. Zetima views the work of [[being-dmrthsvshrds|Domrithas Vishardas]] as corruption of the natural order and has declared his pursuit of immortality heretical. She works to discredit him and to protect innocents from his experiments.

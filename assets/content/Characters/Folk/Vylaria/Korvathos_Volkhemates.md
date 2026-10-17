@@ -36,4 +36,4 @@ Korvathos Volkemates is a 47-year-old man who stands 5'7" tall with a medium bui
 
 # Dossier {#dossier}
 
-Korvathos Volkemates is the lord of a border house in the Moktur march of [[place-vylariargn|Vylaria]]. His household keeps sworn fighting men against the Varokh raids that come over the march every summer. [[being-arznlsbrds|Arzanalas Baredas]] is a huscarl of that household.
+Korvathos Volkemates is the lord of a border house in the [[place-moktur|Moktur]] march of the [[place-vylariargn|Vylaria Region]]. His household keeps sworn fighting men against the [[lore-varokhiclt|Varokhi]] raids that come over the march every summer. [[being-arznlsbrds|Arzanalas Baredas]] is a huscarl of that household.

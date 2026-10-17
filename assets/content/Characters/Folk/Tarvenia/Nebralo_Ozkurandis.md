@@ -36,4 +36,4 @@ Nebralo Ozkuris is a 33-year-old man who stands 5'11" tall with a light build. H
 
 # Dossier {#dossier}
 
-Nebralo Ozkuris is an Árdavonian knight of the Order of the Righteous Path, sworn to protect the weak and uphold justice. His enmity with [[being-drzhvzhnr|Drazha Vezhnur]] began when Drazha's forces massacred an Árdavonian outpost, and he has sworn to bring him to justice.
+Nebralo Ozkuris is a knight of the [[affiliation-ardavon|Faith of Árdavon]] in the [Order of the Righteous Path]{.name data-type="affiliation/order"}, sworn to protect the weak and uphold justice. His enmity with [[being-drzhvzhnr|Drazha Vezhnur, Knight of the Black Flame]] began when Drazha's forces massacred an Árdavonian outpost, and he has sworn to bring him to justice.

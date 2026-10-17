@@ -36,4 +36,4 @@ Nagarita Gajavira is a 47-year-old man who stands 6'0" tall with a medium build.
 
 # Dossier {#dossier}
 
-Nagarita Gajavira is the captain of the City Guard, a corrupt official who views the independence of [[being-dhrmplvmkt|Darmapalda Vimuktana]] from his authority as an insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
+Nagarita Gajavira is the captain of the [City Guard]{.name data-type="affiliation"}, a corrupt official who views the independence of [[being-dhrmplvmkt|Darmapalda Vimuktana]] from his authority as an insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.

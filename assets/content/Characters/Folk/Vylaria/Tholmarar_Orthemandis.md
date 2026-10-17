@@ -36,4 +36,4 @@ Tholmarar Orthemandis is a 54-year-old woman who stands 5'9" tall with a medium 
 
 # Dossier {#dossier}
 
-Tholmarar Orthemandis is a _marendos_ (master) of the Zulen Fisera and chairs its examination board. [[being-azatodmzns|Azato Damzanis]] systematically disassembled her theoretical framework on mineral essences in a published response, and Tholmarar has not forgiven him. Tholmarar has begun subtle investigations into his unconventional methods.
+Tholmarar Orthemandis is a _marendos_ (master) of the [[affiliation-physera|Fisera]] fellowship and chairs its examination board. [[being-azatodmzns|Azato Damzanis]] systematically disassembled her theoretical framework on mineral essences in a published response, and Tholmarar has not forgiven him. Tholmarar has begun subtle investigations into his unconventional methods.

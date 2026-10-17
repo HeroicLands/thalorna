@@ -36,4 +36,4 @@ Glarvorv Mirvaruk is a 20-year-old man who stands 5'9" tall with a heavy build. 
 
 # Dossier {#dossier}
 
-Glarvorv Mirvaruk is the famous sword-master who trains boys into warriors-for-hire at Snilthborg. [[being-thrldrvvrnhm|Thraldorv Vornheim]] was sent to train under him from his eleventh year, and the training was brutal. Glarvorv Mirvaruk is named in [[being-thrldrvvrnhm|Thraldorv Vornheim]] and [[place-snilthborg|Snilthborg]].
+Glarvorv Mirvaruk is the famous sword-master who trains boys into warriors-for-hire at [[place-snilthborg|Snilthborg]]. [[being-thrldrvvrnhm|Thraldorv Vornheim]] was sent to train under him from his eleventh year, and the training was brutal. Glarvorv Mirvaruk is named in Thraldorv Vornheim and Snilthborg.

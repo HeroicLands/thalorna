@@ -36,4 +36,4 @@ Snilthann the Younger is a 29-year-old man who stands 5'8" tall with a medium bu
 
 # Dossier {#dossier}
 
-Snilthann the Younger is the youngest child of [[being-rlthvrjrnskl|Rulthvir Jarnskel]], the only one to show the passion for herding that defines the Jarnskel line. He seeks permission to leave the herding life to train as a warrior in a distant kingdom.
+Snilthann the Younger is the youngest child of [[being-rlthvrjrnskl|Rulthvir Jarnskel]], the only one to show the passion for herding that defines the [Jarnskel]{.name data-type="affiliation/lineage"} line. He seeks permission to leave the herding life to train as a warrior in a distant kingdom.

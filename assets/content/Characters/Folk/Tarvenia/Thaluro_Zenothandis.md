@@ -36,4 +36,4 @@ Thaluro Zenothis is a 58-year-old man who stands 5'11" tall with a heavy build. 
 
 # Dossier {#dossier}
 
-Thaluro Zenothis is the Árdavonian archbishop at Polthamis. He confirms the arbitrations of [[being-frstrndrvs|Father Ostaran Dorvás]] under seal and meets him on the register four times a year. He is the brother of Zédima Zenothis, Ostaran's mother, a kinship neither of them states.
+Thaluro Zenothis is the archbishop of the [[affiliation-ardavon|Faith of Árdavon]] at [[place-polthamis|Polthamis]]. He confirms the arbitrations of [[being-frstrndrvs|Father Ostaran Dorvás]] under seal and meets him on the register four times a year. He is the brother of [[being-zedimazenoth|Zédima Zenothis]], Ostaran's mother, a kinship neither of them states.
