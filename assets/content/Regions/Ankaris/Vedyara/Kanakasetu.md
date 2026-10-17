@@ -14,9 +14,9 @@ data:
   government: suvrgrjnpd
 ---
 
-Kanakasetu (720) stands at the bridge where the pilgrim road crosses the Bharava below the mountain. Everything that goes up to Suvarnageri comes through it. The bridge is stone, of four spans, and is kept by the janapoda out of the common share.
+Kanakasetu (720) stands at the bridge where the pilgrim road crosses [[place-bharavarivr|The Bharava]] below the mountain. Everything that goes up to [[place-suvarnagiri|Suvarnageri]] comes through it. The bridge is stone, of four spans, and is kept by the janapoda out of the common share.
 
-The village holds one of the twenty-three houses of the Bharava-Devastena, which lodges traveling priests and ascetics free and turns nobody away. It sleeps sixty and is full through the pilgrim season. The warden keeps a register of who has slept there, and that register is the best record anyone has of what goes up the Bharava in a year.
+The village holds one of the twenty-three houses of [[place-bhrvdvsthna|The Bharava-Devastena Hostels]], which lodge traveling priests and ascetics free and turn nobody away. It sleeps sixty and is full through the pilgrim season. The warden keeps a register of who has slept there, and that register is the best record anyone has of what goes up the Bharava in a year.
 
 Two panning families work the bar below the bridge. It is thin ground and yields about what two families eat.
 

@@ -9,9 +9,9 @@ tags: [vedyara, inland]
 data: {demonym: null, lore: [], parents: [vyalendra3], population: null, packFolder: vedyara}
 ---
 
-**Sandyagriha** stands in the palace quarter of [[place-vyalendra3|Vyalendra]], four streets from the hall where the [[affiliation-vyalendra2|Loom-Council]] sits. It is the principal house of [[affiliation-twilighths|the Twilight House]], and satellite houses stand under it in each of the major Vedyaran cities. What a client buys here is an evening's company, a room his rivals also enter, and a room his servants do not follow him into.
+**Sandyagriha** stands in the palace quarter of [[place-vyalendra3|Vyalendra]], four streets from the hall where the [Loom-Council]{.name data-type="affiliation/governmental"} sits. It is the principal house of [[affiliation-twilighths|The Twilight House]], and satellite houses stand under it in each of the major Vedyaran cities. What a client buys here is an evening's company, a room his rivals also enter, and a room his servants do not follow him into.
 
-The building is four courts deep and was laid out as a royal pleasure-house by the eleventh and last Maharava of Vyalendra. It passed to the House when his line ended, by a grant the House holds and shows to nobody. The Council has never tested the grant. The reason given is that the deed is sound; the reason understood is that testing it would require an accounting of how the line ended, and no Loom-Master wants that accounting read aloud in the cloth-court.
+The building is four courts deep and was laid out as a royal pleasure-house by the eleventh and last Maharava of the [[affiliation-vyalendra2|Vyalendra City-State]]. It passed to the House when his line ended, by a grant the House holds and shows to nobody. The Council has never tested the grant. The reason given is that the deed is sound; the reason understood is that testing it would require an accounting of how the line ended, and no Loom-Master wants that accounting read aloud in the cloth-court.
 
 ## The Two Doors
 

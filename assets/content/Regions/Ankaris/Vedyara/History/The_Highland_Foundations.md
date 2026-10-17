@@ -74,23 +74,23 @@ data:
       unresolved: ["which temple received the first gift, and from whom"]
 ---
 
-A priest of [[place-uppersuvtmpl|the Upper Temple]] at Suvarnageri, walking a newcomer down the pilgrim road, counts the highlands' age on his fingers: the temples, the bow, the forest. All three are fifteen centuries old, about 780 BF by the western count, which puts them three centuries before [[lore-stndrdmdhv|the standardization at Madustana]] and its count of years. Nobody in the highlands dates them closer than the century, and the **Highland Foundations** are the three institutions the upper country of [[place-vedyarargn|Vedyara]] has lived by ever since.
+A priest of [[place-uppersuvtmpl|The Temple of Upper Suvarnageri]] at [[place-suvarnagiri|Suvarnageri]], walking a newcomer down the pilgrim road, counts the highlands' age on his fingers: the temples, the bow, the forest. All three are fifteen centuries old, about 780 BF by the western count, which puts them three centuries before [[lore-stndrdmdhv|The Standardization at Madustana]] and its count of years. Nobody in the highlands dates them closer than the century, and **The Highland Foundations** are the three institutions the upper country of the [[place-vedyarargn|Vedyara Region]] has lived by ever since.
 
 ## The Gold Temples
 
-The villages of the [[place-bharavarivr|Bharava]] highlands raised three great temples of [[affiliation-mahajaya|Mahajaya]] around [[place-goldmountain|the Gold Mountain]], within a century of one another and of a size, and no one of them controls the gold. Those temples are the beginning of [[affiliation-suvrgrjnpd|Suvarnageri]]'s constitution. Its provisions came in one at a time across the fifteen centuries since, each written after a near-failure of the arrangement before it, and the janapoda has neither failed nor become a kingdom in all that time.
+The villages of the highlands of [[place-bharavarivr|The Bharava]] raised three great temples of [[affiliation-mahajaya|Mahajaya]] around [[place-goldmountain|The Gold Mountain]], within a century of one another and of a size, and no one of them controls the gold. Those temples are the beginning of [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]'s constitution. Its provisions came in one at a time across the fifteen centuries since, each written after a near-failure of the arrangement before it, and the janapoda has neither failed nor become a kingdom in all that time.
 
-Half of what the mountain yields belongs to the temples. Out of that half they keep their fabric, their schools and [[place-bhrvdvsthna|the pilgrim hostels]] of the Bharava road, an arrangement that is fifteen centuries old and has never been put to a vote of the sabhra. The panning families have been refining their technique for fifty generations.
+Half of what the mountain yields belongs to the temples. Out of that half they keep their fabric, their schools and [[place-bhrvdvsthna|The Bharava-Devastena Hostels]], the pilgrim hostels of the Bharava road—an arrangement that is fifteen centuries old and has never been put to a vote of the sabhra. The panning families have been refining their technique for fifty generations.
 
 ## The Bow
 
-On the upper [[place-sarvadarivr|Sarveda]], inside [[place-bowfort|the Bow-Fort]], four archery academies were founded in the same age, and their graduates have staffed the elite missile companies of every major Vedyari kingdom since. [[place-highdraw|The High Draw]] is the oldest of the four and places its own foundation in the dim past; nobody else's account dates it closer. The bow came into [[affiliation-dhnrktjnpd|Danurkota]]'s name after the academies did.
+On the upper reaches of [[place-sarvadarivr|The Sarveda]], inside [[place-bowfort|The Bow-Fort]], four archery academies were founded in the same age, and their graduates have staffed the elite missile companies of every major Vedyari kingdom since. [[place-highdraw|The Academy of the High Draw]] is the oldest of the four and places its own foundation in the dim past; nobody else's account dates it closer. The bow came into [[affiliation-dhnrktjnpd|Danurkota Janapoda]]'s name after the academies did.
 
 The fort they were founded in is older than they are. Its megalithic foundations are unmortared blocks no living mason can explain, older than the janapoda and perhaps than the language, and nobody claims to know who laid them.
 
 ## The God's Portion
 
-Down the river, the first forest of [[place-bharavavana|Bharavavana]] was given to a temple in perpetuity as _devabhona_, the god's portion out of which the temple is fed. The gift was made again and again over the centuries that followed, and what accumulated is [[affiliation-bhrvdvbhog|the Bharava-Devabhona]]: six hundred miles of forest held in temple estates, where no assembly sits and no sabhra meets.
+Down the river, the first forest of [[place-bharavavana|Bharavavana]] was given to a temple in perpetuity as _devabhona_, the god's portion out of which the temple is fed. The gift was made again and again over the centuries that followed, and what accumulated is [[affiliation-bhrvdvbhog|Bharava-Devabhona]]: six hundred miles of forest held in temple estates, where no assembly sits and no sabhra meets.
 
 ## See Also
 

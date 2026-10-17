@@ -18,7 +18,7 @@ Nothing on the plateau has been built at that scale since, and nothing on the pl
 
 There is no road to it and no reason for one. It sits between droveways rather than on one, four days from the nearest sabhra town and a great deal further from anywhere that would think of it as an object of interest. Nobody keeps it, nobody charges for it and nobody prevents anything. A visitor who wants to see it hires a drover and rides. "Find the tanks and you have found the city," the drover says, "because the walls only stand between them."
 
-That is why the [[lore-mdhvndrcnt|Madustana count]] has the quality it has. A quarter of a million people gather on the [[place-mahanadi|Mahanodi]] in a year numbered from this place, and the overwhelming majority of them will never stand in it, could not say what direction it lies in, and have never met anyone who has.
+That is why [[lore-mdhvndrcnt|The Madustana Count]] has the quality it has. A quarter of a million people gather on [[place-mahanadi|The Mahanodi]] in a year numbered from this place, and the overwhelming majority of them will never stand in it, could not say what direction it lies in, and have never met anyone who has.
 
 ## The Tanks
 
@@ -30,7 +30,7 @@ Under the plateau's law a well is heritable, divisible and pledgeable, and the g
 
 Stone is not scarce on the plateau and timber is, so there was never anything in Madustana worth carting away that a man could not cut closer to home. The city was abandoned rather than sacked, over a long enough period that nothing about the abandonment is remembered as an event. What is remembered is the reign. The [[affiliation-agnipantha|Agmi-pantra]]'s priests, who camp anywhere on the road, will not camp inside its walls, and nobody has asked them why.
 
-That reign standardized Classical Vedyari and produced the commentaries, the legal codes and the epics an educated Vedyari still studies, and every court and temple from the passes to the southern sea dates its year from it. The inscriptions in the ruin are in the standardized hand, which is what a scholar goes there to see: the language every literate person in the region writes, cut at the moment it stopped changing, on a wall with a cow tied to it.
+That reign standardized Classical [[skill-vedyarlng|Vedyari Language]] and produced the commentaries, the legal codes and the epics an educated Vedyari still studies, and every court and temple from the passes to the southern sea dates its year from it. The inscriptions in the ruin are in the standardized hand, which is what a scholar goes there to see: the language every literate person in the region writes, cut at the moment it stopped changing, on a wall with a cow tied to it.
 
 ## See Also
 

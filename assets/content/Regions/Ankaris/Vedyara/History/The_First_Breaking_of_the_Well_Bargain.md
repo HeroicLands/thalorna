@@ -27,7 +27,7 @@ data:
         - which three lineages lost their wells; the standing camp's record names them, and the lineages ask that the names not be read
 ---
 
-A [[affiliation-gomarga|Gomargi]] well-keeper tells a lowland drover that the wells are not the crown's, and that the crown knows it better than anyone because it once forgot. The **First Breaking of the Well Bargain** is the forgetting.
+A [[affiliation-gomarga|Gomargi]] well-keeper tells a lowland drover that the wells are not the crown's, and that the crown knows it better than anyone because it once forgot. **The First Breaking of the Well Bargain** is the forgetting.
 
 ## The Bargain
 
@@ -35,9 +35,9 @@ The plateau's wells were cut by named lineages, and each is heritable within the
 
 ## The First Half
 
-About 265 AF the king, **Vrishasura**, wanted a war on the river. The plateau's wealth is stock and watering dues, and a host is paid in coin and grain bought from the valleys. He took the wells of three great lineages into the crown's own hand, named his own keepers to them, and spent what they earned on the war.
+About 265 AF the king, **[Vrishasura]{.name data-type="being/npc"}**, wanted a war on the river. The plateau's wealth is stock and watering dues, and a host is paid in coin and grain bought from the valleys. He took the wells of three great lineages into the crown's own hand, named his own keepers to them, and spent what they earned on the war.
 
-The lineages did what the plateau's herd-owners can do and nobody else in [[place-vedyarargn|Vedyara]] can. They walked their herds off the circuit, out of the kingdom's reach, and left the crown holding three wells with nobody coming to drink at them. The war was lost about 270 at the plateau's foot ([[lore-fieldelephnt|the Field of Elephants]]), and the crown, with no host and no revenue, gave the wells back.
+The lineages did what the plateau's herd-owners can do and nobody else in the [[place-vedyarargn|Vedyara Region]] can. They walked their herds off the circuit, out of the kingdom's reach, and left the crown holding three wells with nobody coming to drink at them. The war was lost about 270 at the plateau's foot ([[lore-fieldelephnt|The Field of Elephants]]), and the crown, with no host and no revenue, gave the wells back.
 
 ## The Clause
 
@@ -47,7 +47,7 @@ At the next accession the oath every Maharava swears gained a clause. The oath h
 
 - **The clause**, recited at every accession on the circuit.
 - **The pledge on the person.** The lineages took to keeping a well's pledge, the token of the lineage's title, on the body of the lineage's head and not in the standing camp's record. The great lineages still do.
-- **The second half.** The guarantee half of the bargain held for another century and a half, and then broke too ([[lore-emptycrct|the Second Breaking and the Empty Circuit]]).
+- **The second half.** The guarantee half of the bargain held for another century and a half, and then broke too ([[lore-emptycrct|The Second Breaking and the Empty Circuit]]).
 
 ## See Also
 

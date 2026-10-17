@@ -16,7 +16,7 @@ data:
   government: bhumipala
 ---
 
-**Marukupa** (900, market 3) is the last Vedyari water on [[place-marchroad|the march road]]. The name means the desert well, and there are four of them, sunk in a rock shelf where the foothills give out. West of here a caravan is on the sand for two days before it reaches a Dunhari well, and the arithmetic of that gap governs the whole of the traffic.
+**Marukupa** (900, market 3) is the last Vedyari water on [[place-marchroad|The March Road]]. The name means the desert well, and there are four of them, sunk in a rock shelf where the foothills give out. West of here a caravan is on the sand for two days before it reaches a Dunhari well, and the arithmetic of that gap governs the whole of the traffic.
 
 The village is a well-yard, a walled serai, a market of eight or ten permanent stalls, and the crown's post. The post holds a company detachment through the season and a skeleton of it through the rest, and its commander is the man who decides whether a caravan may gho on. He is obeyed, because a party that has gone on against his word is not looked for either.
 

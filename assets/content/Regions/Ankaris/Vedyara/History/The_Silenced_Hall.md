@@ -34,13 +34,13 @@ data:
         - whether any of Thirnugrama's sabhra survived the burning; the roll records the janapoda's end and not its dead
 ---
 
-The roll at [[place-sangama|Sangema]] carries every janapoda that has collapsed since the confederation began counting, and most of them went quietly: a drought, a river that moved, villages that drifted into a neighbor's sabhra. **Thirnugrama** did not gho quietly. Its entry is the reason the priests of [[place-vedyarargn|Vedyara]] will not say the conch-door adventurer's name, and the **Silenced Hall** is what they call the night it ended.
+The roll at [[place-sangama|Sangema]] carries every janapoda that has collapsed since the confederation began counting, and most of them went quietly: a drought, a river that moved, villages that drifted into a neighbor's sabhra. **[Thirnugrama]{.name data-type="affiliation/polity"}** did not gho quietly. Its entry is the reason the priests of the [[place-vedyarargn|Vedyara Region]] will not say the conch-door adventurer's name, and **The Silenced Hall** is what they call the night it ended.
 
 ## The Example
 
-About 320 AF an adventurer with Tantsou backing brought a few hundred picked men over the conch-door ([[lore-conchdoor|the Conch-Door Incursion]]) and went through the eastern janapadas one at a time. Most of them submitted. A janapoda fields a few hundred militia at short notice, and none of them could field enough alone.
+About 320 AF an adventurer with Tantsou backing brought a few hundred picked men over the conch-door ([[lore-conchdoor|The Conch-Door Incursion]]) and went through the eastern janapadas one at a time. Most of them submitted. A janapoda fields a few hundred militia at short notice, and none of them could field enough alone.
 
-Thirnugrama, the village of the bell, in the hill country below the conch-door road, would not. Its sabhra met in its temple hall to refuse his terms. He shut the doors on it while it sat and fired the roof.
+[Thirnugrama]{.name data-type="place/settlement"}, the village of the bell, in the hill country below the conch-door road, would not. Its sabhra met in its temple hall to refuse his terms. He shut the doors on it while it sat and fired the roof.
 
 ## Why It Is Not a Blood-field
 
@@ -48,7 +48,7 @@ The hall burned with the sabhra inside it, and the hall was its own pyre. That i
 
 ## The Melra of 320
 
-The janapadas' third confederation army put the adventurer out through the door he had come in by. That year the Melra met, and in the same ten days it swore [[lore-thirdcmpct|the Third Compact]], it mourned Thirnugrama on the roll. It divided the janapoda's land among its neighbors, ordered the hall's doors bricked up with the bell still hanging in the gate, and the priests agreed among themselves that the adventurer's name would not be spoken. [[lore-conchdoor|The Conch-Door Incursion]] still withholds it.
+The janapadas' third confederation army put the adventurer out through the door he had come in by. That year the [Mahva-Melra]{.name data-type="lore/gathering"} met, and in the same ten days it swore [[lore-thirdcmpct|The Third Compact]], it mourned Thirnugrama on the roll. It divided the janapoda's land among its neighbors, ordered the hall's doors bricked up with the bell still hanging in the gate, and the priests agreed among themselves that the adventurer's name would not be spoken. [[lore-conchdoor|The Conch-Door Incursion]] still withholds it.
 
 ## What It Left
 

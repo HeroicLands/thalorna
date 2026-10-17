@@ -35,7 +35,7 @@ data:
       unresolved: [why the spring froze]
 ---
 
-The spring at [[place-chandrprbh|Chandraprabhava]] does not freeze. That is why the [[place-suryatempl|Surva temple]] stands beside it, why [[place-suryadvara|Suryadvara]] below has water in the months the other passes have none, and why a citadel was worth building across the pass. Two winters ago it froze for nine days, and the temple has refused to record the **Nine Days of Ice**.
+The spring at [[place-chandrprbh|Chandraprabhava]] does not freeze. That is why [[place-suryatempl|The Surva temple]] stands beside it, why [[place-suryadvara|Suryadvara]] below has water in the months the other passes have none, and why a citadel was worth building across the pass. Two winters ago it froze for nine days, and the temple has refused to record **The Nine Days of Ice**.
 
 ## The Nine Days
 
@@ -45,7 +45,7 @@ In the winter of 718 AF the outflow iced over and stayed iced. The caravans in t
 
 The temple has not entered it. Its priests' position is that nine days of weather is not an entry, and that a temple with nothing to show is better off with nothing to say.
 
-The reckoners of the [[affiliation-ganakashala|Ganoka-shalda]] do not accept it. The Surva temple's high priests sight the turn of the year from the parapet and declare the orthodox civil year to every court that keeps the Madustana count. The reckoners compute the year; the temple sights it. A temple that decides which facts of the year are worth entering has, in the reckoners' view, decided something that is not its to decide. The quarrel between the sighters and the computers of the year is older than the spring's nine days, and the nine days have given it an edge.
+The reckoners of [[affiliation-ganakashala|Ganoka-shalda]] do not accept it. The Surva temple's high priests sight the turn of the year from the parapet and declare the orthodox civil year to every court that keeps [[lore-mdhvndrcnt|The Madustana Count]]. The reckoners compute the year; the temple sights it. A temple that decides which facts of the year are worth entering has, in the reckoners' view, decided something that is not its to decide. The quarrel between the sighters and the computers of the year is older than the spring's nine days, and the nine days have given it an edge.
 
 ## See Also
 

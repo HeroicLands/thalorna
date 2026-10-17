@@ -16,7 +16,7 @@ data:
   packFolder: vedyara
 ---
 
-**Meghadvara**, the storm-door, is the westernmost of the six crossings of [[place-sthrnwall|the Southern Wall]]. It climbs under [[place-meghashkhr|Meghashikhara]] out of the north-western marches and comes down thirty days later among the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]].
+**Meghadvara**, the storm-door, is the westernmost of the six crossings of [[place-sthrnwall|The Southern Wall]]. It climbs under [[place-meghashkhr|Meghashikhara]] out of the north-western marches and comes down thirty days later among the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn Desert Region]].
 
 Nobody holds its throat. There is no fortress on this road, no customs-house and no toll: the [[affiliation-svapnasarisamaja|Svapnasari-sameja]] keeps a shrine-tower at the summit that says the blessing over a caravan and takes what is offered, and beyond that the door is open to whoever can get a guide.
 
@@ -28,7 +28,7 @@ What crosses is accordingly the cargo that cannot wait. The great houses send th
 
 ## The Guides
 
-The road is [[affiliation-osketguides|Osket]] ground from the last terraces to the far descent, and the western lineages who work it are the poorest of that people and the least interested in changing that. They take a share of the value like every guide on the wall, but a share of two caravans is not a share of twenty, and the western Osket live by their herds with the trade as an addition to them.
+The road is the ground of [[affiliation-osketguides|The Osket]] from the last terraces to the far descent, and the western lineages who work it are the poorest of that people and the least interested in changing that. They take a share of the value like every guide on the wall, but a share of two caravans is not a share of twenty, and the western Osket live by their herds with the trade as an addition to them.
 
 A caravan-master who argues with a refusal at Meghadvara is not overruled. He is simply not taken, and there is no second guide to gho to.
 

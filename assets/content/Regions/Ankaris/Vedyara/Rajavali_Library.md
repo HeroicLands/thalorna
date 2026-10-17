@@ -8,9 +8,9 @@ tags: [sacred, river, inland]
 data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
-The **Rajavali Library** stands in the outer courts of the great Vyalendra temple at [[place-rajapur|Rajepur]], in what was once the royal council-chamber of the [[lore-mhndkngdm|Kingdom of Mahanodi]]. The building outlived the kingdom because the sabhra that dissolved the kingdom decided it should, and it has been an annex of the temple for nine hundred years.
+**The Rajavali Library** stands in the outer courts of the great [[affiliation-vyalendra|Vyalendra]] temple at [[place-rajapur|Rajepur]], in what was once the royal council-chamber of [[lore-mhndkngdm|The Kingdom of Mahanodi]]. The building outlived the kingdom because the sabhra that dissolved the kingdom decided it should, and it has been an annex of the temple for nine hundred years.
 
-It holds every chronicle, treaty and legal text of the kingdom-period, and the continuous archive of every sabhra session since the dissolution. No other archive in inland [[place-vedyarargn|Vedyara]] is both that old and unbroken.
+It holds every chronicle, treaty and legal text of the kingdom-period, and the continuous archive of every sabhra session since the dissolution. No other archive in the inland part of the [[place-vedyarargn|Vedyara Region]] is both that old and unbroken.
 
 ## The Keeping
 

@@ -8,7 +8,7 @@ tags: [ruin, river, inland]
 data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
-The **Palace Cellars** are what is left of the royal palace of the [[lore-mhndkngdm|Kingdom of Mahanodi]], at the north end of [[place-rajapur|Rajepur]]. The sabhra that dissolved the kingdom demolished the building and gave its stones to the enlargement of the great Vyalendra temple. Nothing was left standing above the foundation courses.
+**The Palace Cellars** are what is left of the royal palace of [[lore-mhndkngdm|The Kingdom of Mahanodi]], at the north end of [[place-rajapur|Rajepur]]. The sabhra that dissolved the kingdom demolished the building and gave its stones to the enlargement of the great [[affiliation-vyalendra|Vyalendra]] temple. Nothing was left standing above the foundation courses.
 
 The cellars stand open to the sky. Children play in them, and nobody builds on the ground, which in a town living inside a street-plan laid out for several times its number is not a scarcity anybody feels.
 
@@ -16,7 +16,7 @@ The cellars stand open to the sky. Children play in them, and nobody builds on t
 
 The demolition was deliberate and it was ceremonial. The sabhra had declared the line ended with full honors, and the classical account is that the stones went into the temple so that the kingdom's work would gho on holding something up.
 
-Nothing was hidden and nothing was buried. The granaries became common stores, the army was disbanded into the cultivating and artisan households, and the palace became building material. The one thing the janapoda kept whole was the record, which is in [[place-rajavalilib|the Rajavali Library]] a quarter-mile away.
+Nothing was hidden and nothing was buried. The granaries became common stores, the army was disbanded into the cultivating and artisan households, and the palace became building material. The one thing the janapoda kept whole was the record, which is in [[place-rajavalilib|The Rajavali Library]] a quarter-mile away.
 
 ## The Ground Now
 
@@ -35,7 +35,7 @@ So the tradition runs: the kitchen's cup
   was the last the king drank.
 ```
 
-Once a year, at the **Day of the Dissolution**, the recitation is given in the temple precinct and not here. The Rajapuri position is that the cellars are not a monument and are not to be treated as one.
+Once a year, at the **[Day of the Dissolution]{.name data-type="lore/gathering"}**, the recitation is given in the temple precinct and not here. The Rajapuri position is that the cellars are not a monument and are not to be treated as one.
 
 ## See Also
 

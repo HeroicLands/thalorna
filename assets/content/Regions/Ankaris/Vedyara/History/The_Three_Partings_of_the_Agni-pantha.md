@@ -51,21 +51,21 @@ data:
         - what the sect named at the sanctuary; the Council's record enters the scouring and the ban, and the sect does not say
 ---
 
-The [[affiliation-agnipantha|Agmi-pantra]] has broken with the orthodox hierarchy at least three times, and its priests count the partings the way other sects count their saints. The orthodox count them as three good reasons. The **Three Partings** are the three the sect itself names.
+The [[affiliation-agnipantha|Agmi-pantra]] has broken with the orthodox hierarchy at least three times, and its priests count the partings the way other sects count their saints. The orthodox count them as three good reasons. **The Three Partings of the Agmi-pantra** are the three the sect itself names.
 
 ## The First: the Unburned Dead (about 200 BF)
 
-The sect's founder had spent a season burning a field nobody else would burn ([[lore-kindlford|the Kindling at the Ford]]), and his priests taught that the purging fire is owed to the dead before it is owed to anyone. The orthodox temples taught, and teach, that the unburned dead are [[affiliation-kalavrata|Kalavrata]]'s affair and not a priest's, and that a priest who burns a _shorukshetra_ (blood-field) is presuming on the god.
+The sect's founder had spent a season burning a field nobody else would burn ([[lore-kindlford|The Kindling at the Ford]]), and his priests taught that the purging fire is owed to the dead before it is owed to anyone. The orthodox temples taught, and teach, that the unburned dead are [[lore-kalavratadty|Kalavrata]]'s affair and not a priest's, and that a priest who burns a _shorukshetra_ (blood-field) is presuming on the god.
 
 About 200 BF the temples of the cities put the sect out over it. The priests took their vessels onto the road, and the sect has been itinerant since. Its chapters sit in the small towns and the frontier, and the great capitals admit its priests and rarely let them keep a chapter-house.
 
 ## The Second: Gajastali (about 280 AF)
 
-A decade after [[lore-fieldelephnt|the Field of Elephants]], the kings of the Hundred Crowns whose dead lay on [[place-gajasthali|Gajastali]] forbade the sect to touch the field. Some held that the dead were their own concern, and some did not want the ground disturbed while the war's quarrels were still open. The sect went anyway. Its priests fasted and burned the slope in lines for a season, and three capitals banned them for it. The field was a recurrence before they came and a recurrence after, which the sect says is because the kings kept the dead's families away.
+A decade after [[lore-fieldelephnt|The Field of Elephants]], the kings of [[lore-hundredcrwn|The Hundred Crowns]] whose dead lay on [[place-gajasthali|Gajastali]] forbade the sect to touch the field. Some held that the dead were their own concern, and some did not want the ground disturbed while the war's quarrels were still open. The sect went anyway. Its priests fasted and burned the slope in lines for a season, and three capitals banned them for it. The field was a recurrence before they came and a recurrence after, which the sect says is because the kings kept the dead's families away.
 
 ## The Third: the Scouring at Vyalendra (about 560 AF)
 
-The sect's gravest rite is the Scouring of the Temple: its priests process to the orthodox temple of a community they have judged corrupt, kindle a fire at the threshold, and stay until the matter they have named is addressed. About 560 AF they scoured the sanctuary of [[affiliation-mahajaya|Mahajaya]] in [[place-vyalendra3|Vyalendra]], first of the city's temples. The Loom-Council banned the sect from the city.
+The sect's gravest rite is the [Scouring of the Temple]{.name data-type="lore/custom"}: its priests process to the orthodox temple of a community they have judged corrupt, kindle a fire at the threshold, and stay until the matter they have named is addressed. About 560 AF they scoured the sanctuary of [[affiliation-mahajaya|Mahajaya]] in [[place-vyalendra3|Vyalendra]], first of the city's temples. The [Loom-Council]{.name data-type="affiliation/governmental"} banned the sect from the city.
 
 A generation later the same Council put up a statue of the priest it had banned, in stone, in the cloth-court. The Vyalendri account is that the matter was addressed. The Council has never said what the matter was.
 

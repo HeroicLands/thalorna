@@ -16,7 +16,7 @@ data:
 # terran_analog: "Medieval South Indian temple-republic that emerged from the ruins of a failed kingdom—a Chola-era brahmadeya village federation centered on a temple complex built atop or alongside an abandoned royal capital, governed by an assembly that explicitly preserves the memory of the displaced dynasty"
 ---
 
-The land of [[affiliation-rajaprjnpd|Rajepur Janapoda]] runs forty miles along the central [[place-mahanadi|Mahanodi]], from [[place-khandapura|Khandapura]] at the head of the irrigation works to [[place-mukteshvara|Muktoshvara]] at the burning-ground, and a boatman working upstream with a load of sugar names it by those two ends. Between them live twenty-five thousand people on a fertile floodplain in the central plain of [[place-vedyarargn|Vedyara]].
+Rajepur Janapoda, the land held by the [[affiliation-rajaprjnpd|Rajepur Janapoda]], runs forty miles along the central reaches of [[place-mahanadi|The Mahanodi]], from [[place-khandapura|Khandapura]] at the head of the irrigation works to [[place-mukteshvara|Muktoshvara]] at the burning-ground, and a boatman working upstream with a load of sugar names it by those two ends. Between them live twenty-five thousand people on a fertile floodplain in the central plain of the [[place-vedyarargn|Vedyara Region]].
 
 What a stranger notices first is how far the houses stand from the river. The Mahanodi moves, and the villages keep a mile back from it, on old levees and raised mounds, with the fields between. [[place-nadipada|Nadipada]], the fishing village, is the one that lives on the bank.
 
@@ -53,7 +53,7 @@ The cultivator villages grow the standard Vedyari mix of rice, cotton and pulse.
 
 ## The Surplus
 
-Floodplain farming, the sugar, the manuscript trade out of the scriptoria of [[place-lipigrama|Lipigrama]] and the temple, and the pilgrim economy of the Vyalendra temple together leave the janapoda a comfortable surplus most years. The pilgrims of the spring festival are fed from that surplus, and [[place-pushpavana|Pushpavana]] garlands the temple for them.
+Floodplain farming, the sugar, the manuscript trade out of the scriptoria of [[place-lipigrama|Lipigrama]] and the temple, and the pilgrim economy of the [[affiliation-vyalendra|Vyalendra]] temple together leave the janapoda a comfortable surplus most years. The pilgrims of the spring festival are fed from that surplus, and [[place-pushpavana|Pushpavana]] garlands the temple for them.
 
 ## See Also
 

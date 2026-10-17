@@ -15,9 +15,9 @@ data:
   government: vyalendra2
 ---
 
-**Nilatira** (12,000) stands where the **Nilachari** reaches the eastern sea, three days below the last of [[affiliation-vyalendra2|Vyalendra]]'s valleys. It exists to put cloth on ships. Nothing is woven here and nothing is grown here worth the naming. The bolts come down the river road in covered boats, lie in the yards for a season, and leave in a hull.
+**Nilatira** (12,000) stands where the **[Nilachari]{.name data-type="place/feature"}** reaches the eastern sea, three days below the last of [[place-vyalendraland|Vyalendra Land]]'s valleys. It exists to put cloth on ships. Nothing is woven here and nothing is grown here worth the naming. The bolts come down the river road in covered boats, lie in the yards for a season, and leave in a hull.
 
-The town is one street a mile long with the bale-yards on the seaward side of it and the boat-quays on the landward. Behind the street are the lodging houses, the rope-walk, the chandlers and four temples. The [[affiliation-vyalendra2|Loom-Council]] holds the place through the shrenis whose warehouses stand in it, and the master of the yards is a Loom-Master's factor and not a man of the town.
+The town is one street a mile long with the bale-yards on the seaward side of it and the boat-quays on the landward. Behind the street are the lodging houses, the rope-walk, the chandlers and four temples. The [Loom-Council]{.name data-type="affiliation/governmental"} holds the place through the shrenis whose warehouses stand in it, and the master of the yards is a Loom-Master's factor and not a man of the town.
 
 ## The Season
 
@@ -29,7 +29,7 @@ A bolt leaves a weaving hall in the city under the lead seal of the shrena that 
 
 ## The Galleys
 
-Most of the cloth goes west and south in [[affiliation-chandrapur|Chendrapur]]'s galleys. Vyalendra keeps no war-fleet and no deep-water hulls of its own, and the hire of the galleys is argued out between the two cities before every sailing season, on terms nobody has ever managed to fix for more than one year at a time. Tantsou junks work the eastern run on their own account and take the finest goods direct, paying in silver and in the tin the dyers' mordants need.
+Most of the cloth goes west and south in [[affiliation-chandrapur|Chendrapur]]'s galleys. The [[affiliation-vyalendra2|Vyalendra City-State]] keeps no war-fleet and no deep-water hulls of its own, and the hire of the galleys is argued out between the two cities before every sailing season, on terms nobody has ever managed to fix for more than one year at a time. Tantsou junks work the eastern run on their own account and take the finest goods direct, paying in silver and in the tin the dyers' mordants need.
 
 ## The Deck
 

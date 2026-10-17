@@ -18,7 +18,7 @@ data:
   packFolder: vedyara
 ---
 
-**Suryadvara** is the greatest of the northern passes and the only one whose season is long enough to be called a season. It leaves the terraces beneath the walls of [[place-suryagarha|Suryagarha]], climbs the western flank of [[place-suryashkhr|Suryashikhara]], and twenty days above the fortress reaches the fork where the road divides: north for the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]] and the **Celestial Road** beyond, north-east by the longer branch for the western frontier of [[place-tantsouregin|Tantsou]]. From the fork it is thirty days to either end.
+**Suryadvara** is the greatest of the northern passes and the only one whose season is long enough to be called a season. It leaves the terraces beneath the walls of [[place-suryagarha|Suryagarha]], climbs the western flank of [[place-suryashkhr|Suryashikhara]], and twenty days above the fortress reaches the fork where the road divides: north for the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and **[[lore-celestialroad|The Celestial Road]]** beyond, north-east by the longer branch for the western frontier of the [[place-tantsouregin|Tantsou Region]]. From the fork it is thirty days to either end.
 
 Three caravans in four that cross the wall in any year cross here.
 
@@ -30,7 +30,7 @@ A crossing needs a pass-token from the customs-house. The token is cheap, the in
 
 ## Who Actually Takes You Over
 
-The [[affiliation-osketguides|Osket]] do, as everywhere on the wall, but on this road they do it under Shikharalayan clan-wardens who hold the warden-right by inheritance and who are answerable, in theory, to the Maharava. A warden of Suryadvara, asked by a caravan master which of them decides, divides the answer in two: "I name the fee. The lineage names the season. You pay one of us and wait for the other." A warden who overrules a lineage on a question of weather does it exactly once.
+[[affiliation-osketguides|The Osket]] do, as everywhere on the wall, but on this road they do it under Shikharalayan clan-wardens who hold the warden-right by inheritance and who are answerable, in theory, to the Maharava. A warden of Suryadvara, asked by a caravan master which of them decides, divides the answer in two: "I name the fee. The lineage names the season. You pay one of us and wait for the other." A warden who overrules a lineage on a question of weather does it exactly once.
 
 ## The Tantsou Branch
 

@@ -8,11 +8,11 @@ tags: [river, sacred, inland]
 data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
-**Oluratarana**, the ford of the restless dead, is a wide gravel crossing of the upper [[place-mahanadi|Mahanodi]] above the fields of [[place-rajapurjnpd|Rajepur]], and the oldest _shorukshetra_ (blood-field) in [[place-vedyarargn|Vedyara]] that anyone can date. About 300 BF a king of Mahanodi destroyed a rising of the upper-river villages here and forbade the pyre to the dead ([[lore-unburnford|the Unburned Ford]]). Some thousands lay through a monsoon with no conch, no lamp and no fire, and the way behind them never closed.
+**Oluratarana**, the ford of the restless dead, is a wide gravel crossing of the upper reaches of [[place-mahanadi|The Mahanodi]] above the fields of the [[place-rajapurjnpd|Rajepur Janapoda]], and the oldest _shorukshetra_ (blood-field) in the [[place-vedyarargn|Vedyara Region]] that anyone can date. About 300 BF a king of [[lore-mhndkngdm|The Kingdom of Mahanodi]] destroyed a rising of the upper-river villages here and forbade the pyre to the dead ([[lore-unburnford|The Unburned Ford]]). Some thousands lay through a monsoon with no conch, no lamp and no fire, and the way behind them never closed.
 
 ## The Two Banks
 
-The ford is two places. The east bank is grazed and ordinary, and the village above it waters its cattle there. That bank is the half the [[affiliation-agnipantha|Agmi-pantra]]'s founder burned about 290 BF ([[lore-kindlford|the Kindling at the Ford]]), and it has been quiet since.
+The ford is two places. The east bank is grazed and ordinary, and the village above it waters its cattle there. That bank is the half the [[affiliation-agnipantha|Agmi-pantra]]'s founder burned about 290 BF ([[lore-kindlford|The Kindling at the Ford]]), and it has been quiet since.
 
 The west bank is a mile of tall grass, and it is a silence. A lamp lit on it gutters out within a breath. Cooking-fires will not draw, and a drover who tries to make tea on it gives up. The quiet is heavy enough that cattle driven across drink fast and leave, and no bird nests in the grass. In the low-water months bones come up out of the gravel. The village above puts them back in the river and will not touch fire to them, on the reasoning that fire is the one thing the field has always refused.
 
@@ -26,16 +26,16 @@ So the upper river keeps its rules. Nobody crosses after sunset. A drover who mu
 
 ## Who Comes
 
-- **The Agmi-pantra**, once in every twelve years, for the Night of the Kindled Road at the autumn equinox: every Flame-priest within reach lights his vessel into one fire on the east bank.
-- **Scholars of the six kings** from Rajepur, who want to stand where the chronicle's first count against the line was made.
+- **The Agmi-pantra**, once in every twelve years, for the [Night of the Kindled Road]{.name data-type="lore/gathering"} at the autumn equinox: every Flame-priest within reach lights his vessel into one fire on the east bank.
+- **Scholars of the six kings** from [[place-rajapur|Rajepur]], who want to stand where the chronicle's first count against the line was made.
 - **Drovers** who need the crossing, and who keep to the rules.
 
-The [[affiliation-thresholdkeepers|Threshold-keepers]] do not come. The dead here are a war's, and nothing on the field may be asked of them.
+[[affiliation-thresholdkeepers|The Threshold-keepers]] do not come. The dead here are a war's, and nothing on the field may be asked of them.
 
 ## Hooks
 
 - **The fire will not catch.** The rendezvous year comes round and the common fire will not light on the east bank either. Either the half-settlement is failing, or someone has done something to the ground, and the sect wants to know which before the next twelve years begin.
-- **The king's fire.** A Rajapuri scholar wants a party to carry a lamp lit at [[place-sandstonealtr|the sandstone altar]] across the west bank by night, to test whether the kings' own fire will take where the dead are the kings' victims.
+- **The king's fire.** A Rajapuri scholar wants a party to carry a lamp lit at [[place-sandstonealtr|The Sandstone Altar]] across the west bank by night, to test whether the kings' own fire will take where the dead are the kings' victims.
 - **The drowned man.** A trader drowned at the ford last season, and his heirs want the Threshold-keepers to ask him where the money went. The keepers refuse twice over: the question is one of trade, and the ground is a war's.
 
 ## See Also

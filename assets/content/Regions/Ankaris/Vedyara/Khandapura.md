@@ -14,7 +14,7 @@ data:
   government: rajaprjnpd
 ---
 
-**Khandapura** (940) is the upstream village of the janapoda and stands at the head of the irrigation works. Its [[affiliation-mahajaya|Mahajaya]] shrine is the one every cultivator in [[affiliation-rajaprjnpd|Rajepur]] comes to at planting, when the channels are blessed and the year's water is divided between the villages below.
+**Khandapura** (940) is the upstream village of the janapoda and stands at the head of the irrigation works. Its [[affiliation-mahajaya|Mahajaya]] shrine is the one every cultivator in the [[affiliation-rajaprjnpd|Rajepur Janapoda]] comes to at planting, when the channels are blessed and the year's water is divided between the villages below.
 
 The division is made at the shrine and recorded there. Nine tenths of it is the same every year. The tenth that is not is what the sabhra's reckoner and the shrine's priest argue over for three days, with the downstream headmen sitting in and saying a great deal.
 

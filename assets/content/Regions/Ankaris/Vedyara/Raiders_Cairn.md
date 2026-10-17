@@ -8,7 +8,7 @@ tags: [mountain, caravan]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-The **Raiders' Cairn** stands in a narrow gorge below the mountain road of [[place-suvarnagirijnpd|Suvarnageri]], a half-day down from [[place-girimarga|Girimarga]], where the road drops to the stream and crosses it on stepping stones. About 80 BF the horse of [[affiliation-bharyastan|Bharyastan]] caught the raiders who had taken a month's gold off the weighing-station, and killed most of them on the gravel below the crossing ([[lore-lastgldrd|the Last Gold Raid]]). The cairn marks the place.
+**The Raiders' Cairn** stands in a narrow gorge below the mountain road of the [[place-suvarnagirijnpd|Suvarnageri Janapoda]], a half-day down from [[place-girimarga|Girimarga]], where the road drops to the stream and crosses it on stepping stones. About 80 BF the horse of [[affiliation-bharyastan|The Kingdom of Bharyastan]] caught the raiders who had taken a month's gold off [[place-weighingstn|The Weighing-Station]], and killed most of them on the gravel below the crossing ([[lore-lastgldrd|The Last Gold Raid]]). The cairn marks the place.
 
 ## The Stones
 
@@ -18,7 +18,7 @@ The raiders were burned by nobody. They were a few dozen, and their kingdom took
 
 ## Hooks
 
-- **The marked stone.** A stone from the cairn has turned up in a [[affiliation-mrchntclctvvdyr|Merchant Collective]] counting-house at Chendrapur, with a weight mark cut on its underside in the old style of the weighing-station. Someone is tracing the raid's gold, which the record says was all returned to the grain.
+- **The marked stone.** A stone from the cairn has turned up in a counting-house of [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] at [[place-chandrapur2|Chendrapur]], with a weight mark cut on its underside in the old style of the weighing-station. Someone is tracing the raid's gold, which the record says was all returned to the grain.
 - **The tribute party.** This year's escort is short a rider, and the captain offers a place to anyone who can sit a horse. The ride up is easy. The talk round the fire is about who in Bharyastan's court wants the treaty to lapse at the next succession.
 
 ## See Also

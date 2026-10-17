@@ -14,11 +14,11 @@ data:
   packFolder: vedyara
 ---
 
-**Sorhupura**, the ancestors' town, lies in the interior of [[place-bharavavana|Bharavavana]] beyond every season's path the estates cut, and the forest has closed over it so completely that the gathering peoples walk past its causeway without seeing stone. It was a city of the **Sorhu-vreta**, the ancestors' vow, a sect that taught that the passage through [[affiliation-kalavrata|Kalavrata]]'s gate is a loss and that a household's dead belong at its hearth. The sect held its dead instead of releasing them. What kept them there was not the sect's devotion, and the city has been the worse for it since before anyone kept a count.
+**Sorhupura**, the ancestors' town, lies in the interior of [[place-bharavavana|Bharavavana]] beyond every season's path the estates cut, and the forest has closed over it so completely that the gathering peoples walk past its causeway without seeing stone. It was a city of the **[Sorhu-vreta]{.name data-type="affiliation/faithtradition"}**, the ancestors' vow, a sect that taught that the passage through [[lore-kalavratadty|Kalavrata]]'s gate is a loss and that a household's dead belong at its hearth. The sect held its dead instead of releasing them. What kept them there was not the sect's devotion, and the city has been the worse for it since before anyone kept a count.
 
 ## What Is There
 
-A causeway of dressed stone runs straight into the forest from the last gathering ground, buckled by roots and roofed by vines, and lined on both sides with stone lamp-posts at the height of a standing man. On the terraces beyond it stand the city's ring of halls: the **Hall of Seats**, a roofless assembly floor with rows on rows of stone chairs; a **Tank** of black water with a lotus-stair; the **Gate of Lamps**, a pillared porch where the causeway ends; and at the center the **Hearth**, a low dome with one door.
+A causeway of dressed stone runs straight into the forest from the last gathering ground, buckled by roots and roofed by vines, and lined on both sides with stone lamp-posts at the height of a standing man. On the terraces beyond it stand the city's ring of halls: the **[Hall of Seats]{.name data-type="place/site"}**, a roofless assembly floor with rows on rows of stone chairs; a **Tank** of black water with a lotus-stair; the **[Gate of Lamps]{.name data-type="place/structure"}**, a pillared porch where the causeway ends; and at the center the **[Hearth]{.name data-type="place/structure"}**, a low dome with one door.
 
 The lamps are the first thing a visitor meets. Every post along the causeway holds a bronze bowl, and every bowl holds a flame that has not gone out in all the years the forest has stood over it. Rain does not drown them. A wind that bends the trees leaves them upright. Nothing is burning in them that a person can find.
 
@@ -36,7 +36,7 @@ The gathering peoples have a word for it that means _the hearth-town_, and they 
 
 ## What It Is
 
-The [[lore-theshadow|Shadow]] is chaos from outside creation, and every undead thing in [[place-vedyarargn|Vedyara]] is its work, whatever the local theology says is the reason the dead walk. Sorhupura is a city that held its dead against the gate for so long that the holding opened a way in. The sect's rite for the dead was a perversion of the household's own: the threshold lamp was lit at a death, as in any Vedyari house, and was never tended to its end, and the conch was never sounded, and no pyre was kindled. Every lamp in the causeway is one such lamp. The flame is a soul that has been kept at the threshold and has nowhere to gho.
+[[lore-theshadow|The Shadow]] is chaos from outside creation, and every undead thing in the [[place-vedyarargn|Vedyara Region]] is its work, whatever the local theology says is the reason the dead walk. Sorhupura is a city that held its dead against the gate for so long that the holding opened a way in. The sect's rite for the dead was a perversion of the household's own: the threshold lamp was lit at a death, as in any Vedyari house, and was never tended to its end, and the conch was never sounded, and no pyre was kindled. Every lamp in the causeway is one such lamp. The flame is a soul that has been kept at the threshold and has nowhere to gho.
 
 The orthodox hold that the unburned dead are Kalavrata's affair and that no priest may presume on him. The [[affiliation-agnipantha|Agmi-pantra]] holds that the fire is owed to the dead before it is owed to anyone, and it counts Sorhupura among the grounds it means to burn when the road gives it the strength. The two have disputed the point since the sect's [[lore-agnipartng|first parting]], and the city has been the oldest case in the argument.
 
@@ -46,11 +46,11 @@ The orthodox hold that the unburned dead are Kalavrata's affair and that no prie
 - **Receivers and thieves** who have heard of the lamps. A lamp of the city's bronze, chased with gold, brings a price from a receiver that no honest bowl does.
 - **A Jvelita** now and then, with an ember-vessel and a plan.
 
-The [[affiliation-adanasreni|Adanashreni]] forbids a taking from a sanctum, and the city is a sanctum of a sort the shrena has no opinion about. Its Chinnasutra, the craft-lines that rejected the taboos, have no such reluctance.
+[[affiliation-adanasreni|The Adanashreni]] forbids a taking from a sanctum, and the city is a sanctum of a sort the shrena has no opinion about. Its [Chinnasutra]{.name data-type="affiliation/criminal"}, the craft-lines that rejected the taboos, have no such reluctance.
 
 ## Reaching It
 
-From the pilgrim road along the Bharava, an estate station on the river's south bank cuts a season's path inland to a gathering ground, three days on foot through closed canopy. The causeway starts where the path ends, and nothing marks the place but the stone under the moss. The path is closed in the rains. A guide from the gathering peoples is needed, and a guide who walks out to a plains town with a wrist anyone asks to see is an **Outcaste** the moment it is asked.
+From the pilgrim road along [[place-bharavarivr|The Bharava]], an estate station on the river's south bank cuts a season's path inland to a gathering ground, three days on foot through closed canopy. The causeway starts where the path ends, and nothing marks the place but the stone under the moss. The path is closed in the rains. A guide from the gathering peoples is needed, and a guide who walks out to a plains town with a wrist anyone asks to see is an **Outcaste** the moment it is asked.
 
 ## Hooks
 

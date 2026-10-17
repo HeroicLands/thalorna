@@ -36,11 +36,11 @@ data:
       unresolved: [how many died at the ford; the chronicle says thousands and gives no figure]
 ---
 
-The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] names the six last kings by their vices, and the second is "a cruel man" who "judged in anger and judged in haste." The recitation says nothing more. The chronicle in [[place-rajavalilib|the Rajavali Library]] says what he did, and the Memory-Keeper's commentary calls it the first count in the indictment the Forty Days would read out sixty years later. Scholars call it the **Unburned Ford**.
+The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] names the six last kings by their vices, and the second is "a cruel man" who "judged in anger and judged in haste." The recitation says nothing more. The chronicle in [[place-rajavalilib|The Rajavali Library]] says what he did, and the Memory-Keeper's commentary calls it the first count in the indictment [[lore-fortydays|The Forty Days]] would read out sixty years later. Scholars call it **The Unburned Ford**.
 
 ## The Rising
 
-About 300 BF the villages of the upper [[place-mahanadi|Mahanodi]] rose against **Dandavira**, the second of the six. The chronicle gives the cause in one line: he had stopped hearing petitions. The villages had no army, and what came down the river road was their men with whatever they carried, meaning to be heard by force where they had not been heard at the gate.
+About 300 BF the villages of the upper reaches of [[place-mahanadi|The Mahanodi]] rose against **[Dandavira]{.name data-type="being/npc"}**, the second of the six. The chronicle gives the cause in one line: he had stopped hearing petitions. The villages had no army, and what came down the river road was their men with whatever they carried, meaning to be heard by force where they had not been heard at the gate.
 
 Dandavira met them at a wide gravel ford above the kingdom's fields with the royal host. The chronicle enters the result and not the fighting. The rising was destroyed in a day.
 
@@ -48,13 +48,13 @@ Dandavira met them at a wide gravel ford above the kingdom's fields with the roy
 
 Then he forbade the pyre. The dead were rebels, and he ruled that no conch would be sounded for them, no lamp lit, and no fire kindled, as he had ruled that no petition from their villages would be heard. Their families were kept from the field by the host. Some thousands lay where they fell through the whole of a monsoon, and by the time anyone could reach them there was nothing left to burn.
 
-To a Vedyari that is the cruelty. A soul goes on through the gap between the conch and the pyre, and a soul whose pyre is never lit is left standing in the doorway. The ford became [[place-oluratarna|Oluratarana]], the ford of the restless dead: the first _shorukshetra_ (blood-field) in Vedyara that anyone dates, and still the oldest.
+To a Vedyari that is the cruelty. A soul goes on through the gap between the conch and the pyre, and a soul whose pyre is never lit is left standing in the doorway. The ford became [[place-oluratarna|Oluratarana]], the ford of the restless dead: the first _shorukshetra_ (blood-field) in the [[place-vedyarargn|Vedyara Region]] that anyone dates, and still the oldest.
 
 ## What It Left
 
 - **The field.** Oluratarana is a silence: no flame lit on its west bank stays lit, and a sleeper there meets the dead in dream.
-- **The fire.** A decade later a wandering ascetic carried a living ember off the ford, and every ember of [[affiliation-agnipantha|the Agmi-pantra]] descends from it ([[lore-kindlford|the Kindling at the Ford]]).
-- **The refusal.** The upper-river villages of [[affiliation-rajaprjnpd|Rajepur]] send no delegate to any assembly that sits at Rajepur on the anniversary. The sabhra has never asked them to.
+- **The fire.** A decade later a wandering ascetic carried a living ember off the ford, and every ember of [[affiliation-agnipantha|Agmi-pantra]] descends from it ([[lore-kindlford|The Kindling at the Ford]]).
+- **The refusal.** The upper-river villages of [[affiliation-rajaprjnpd|Rajepur Janapoda]] send no delegate to any assembly that sits at [[place-rajapur|Rajepur]] on the anniversary. The sabhra has never asked them to.
 - **The name.** The recitation speaks no name for any of the six, and the Memory-Keeper does not speak Dandavira's in a session. It stands in the chronicle and in prose.
 
 ## See Also

@@ -45,25 +45,25 @@ data:
       unresolved: [how many graduates stayed with Dhaunapur's companies]
 ---
 
-The **Festival of the Returning** is held in [[affiliation-dhnrktjnpd|Danurkota]] every autumn, and an academy master explains it to a new student in one sentence: the janapoda welcomes home the graduates who come home, because once some did not. The **Highland War** is the once.
+The **[Festival of the Returning]{.name data-type="lore/gathering"}** is held in [[affiliation-dhnrktjnpd|Danurkota Janapoda]] every autumn, and an academy master explains it to a new student in one sentence: the janapoda welcomes home the graduates who come home, because once some did not. **The Highland War** is the once.
 
 ## The March
 
-About 415 AF the mountain kingdom of **Dhaunapur**, one of the small kingdoms that stood patron to Danurkota and a neighbor of the gold country, marched on [[affiliation-suvrgrjnpd|Suvarnageri]]. It had the usual reasons a kingdom with a poor valley has for wanting a gold mountain. It also had something no raider had had before: Dhanurkoti graduates in its missile companies, serving under contract as graduates serve every kingdom that can pay.
+About 415 AF the mountain kingdom of **[Dhaunapur]{.name data-type="affiliation/polity"}**, one of the small kingdoms that stood patron to Danurkota and a neighbor of the gold country, marched on [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]. It had the usual reasons a kingdom with a poor valley has for wanting a gold mountain. It also had something no raider had had before: Dhanurkoti graduates in its missile companies, serving under contract as graduates serve every kingdom that can pay.
 
 ## The Recall
 
-The four academy masters met in the Bow-Fort and did what no master had done before. They recalled every graduate in Dhaunapur's service. A graduate's prerogatives come from the janapoda, and the masters ruled that they did not stretch to shooting at a neighbor the janapoda had no quarrel with.
+The four academy masters met in [[place-bowfort|The Bow-Fort]] and did what no master had done before. They recalled every graduate in Dhaunapur's service. A graduate's prerogatives come from the janapoda, and the masters ruled that they did not stretch to shooting at a neighbor the janapoda had no quarrel with.
 
-Most came home. They rode with [[affiliation-bharyastan|Bharyastan]]'s four hundred horse, called under the gold treaty, to the gorge-mouth where the gold road comes down out of the hills, and they stopped Dhaunapur's host there. The field is [[place-sharamukha|Sharamukha]], the mouth of arrows. The dead were few by the standard of the river wars, and both sides carried theirs home to burn.
+Most came home. They rode with the four hundred horse of [[affiliation-bharyastan|The Kingdom of Bharyastan]], called under the gold treaty, to the gorge-mouth where the gold road comes down out of the hills, and they stopped Dhaunapur's host there. The field is [[place-sharamukha|Sharamukha]], the mouth of arrows. The dead were few by the standard of the river wars, and both sides carried theirs home to burn.
 
-Dhaunapur sent a column against [[place-bowfort|the Bow-Fort]] in reprisal. It came in sight of the walls and turned back.
+Dhaunapur sent a column against the Bow-Fort in reprisal. It came in sight of the walls and turned back.
 
 ## What It Left
 
 - **The Festival of the Returning.** Every autumn the graduates back from service abroad ritually re-enter the janapoda, and it was first kept for those who answered the recall.
 - **The struck roll.** The names of the graduates who stayed with Dhaunapur were struck from the academy rolls, and stay struck.
-- **The palace at Bharyastan**, fortified that year in a way that would have been serious three centuries ago, and not since. A Bharyastani heir who had not ridden to Sharamukha was passed over by the council at the next succession, one of the kingdom's two acclamations in four hundred years.
+- **The palace at [[place-bharyastan2|Bharyastan]]**, fortified that year in a way that would have been serious three centuries ago, and not since. A Bharyastani heir who had not ridden to Sharamukha was passed over by the council at the next succession, one of the kingdom's two acclamations in four hundred years.
 - **Three centuries of quiet.** Neither Suvarnageri nor Danurkota has been seriously threatened since.
 
 ## See Also

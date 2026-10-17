@@ -14,13 +14,13 @@ data:
   packFolder: vedyara
 ---
 
-**Kalashikhara**—"the black summit"—is the last great peak of [[place-estrnreach|the Eastern Reach]] before the range turns down toward [[place-tantsouregin|Tantsou]]. Its rock is dark and steep enough that snow does not hold on the upper faces, so that at the season when every other summit on the wall is white this one is not, and it can be picked out from three days' travel away in any direction.
+**Kalashikhara**—"the black summit"—is the last great peak of [[place-estrnreach|The Eastern Reach]] before the range turns down toward the [[place-tantsouregin|Tantsou Region]]. Its rock is dark and steep enough that snow does not hold on the upper faces, so that at the season when every other summit on the wall is white this one is not, and it can be picked out from three days' travel away in any direction.
 
-[[place-sankhadvra|Shankhadvara]] crosses beneath it. The pass is treacherous, lightly traveled and, for four centuries now, garrisoned: [[place-sanghafort|the Sangra-fort]] sits on the col on the Vedyari side, the one standing garrison the temple-republics maintain anywhere.
+[[place-sankhadvra|Shankhadvara]] crosses beneath it. The pass is treacherous, lightly traveled and, for four centuries now, garrisoned: [[place-sanghafort|The Sangra-fort]] sits on the col on the Vedyari side, the one standing garrison the temple-republics maintain anywhere.
 
 ## Unbuilt
 
-There is no shrine on Kalashikhara. The [[place-pssshrines|Pass-Shrines]] hold every other high point of the crossing roads, and the absence here is old enough that the orthodox explanation—that the mountain belongs to [[affiliation-kalavrata|Kalavrata]] and needs no house built for him—is younger than the absence it explains. The [[affiliation-hvarnguides|Hvarn]] who take caravans under it give it a wide berth on the western side for reasons they describe as weather.
+There is no shrine on Kalashikhara. [[place-pssshrines|The Pass-Shrines]] hold every other high point of the crossing roads, and the absence here is old enough that the orthodox explanation—that the mountain belongs to [[lore-kalavratadty|Kalavrata]] and needs no house built for him—is younger than the absence it explains. [[affiliation-hvarnguides|The Hvarn]] who take caravans under it give it a wide berth on the western side for reasons they describe as weather.
 
 ## See Also
 

@@ -20,7 +20,7 @@ data:
 
 ## Overview
 
-The **Meghra-samedra** is the ocean south of Vedyara, and the name means the sea the cloud comes from. The rain that makes the subcontinent crosses this water, and the coast that takes it first takes the heaviest fall in Thalorna. The [[place-chandrmahi|Chandramahi]] comes down to a delta on this sea, and the deep-water trade of [[place-vedyarargn|Vedyara]] is worked from the harbors at its mouth.
+The **Meghra-samedra** is the ocean south of the [[place-vedyarargn|Vedyara Region]], and the name means the sea the cloud comes from. The rain that makes the subcontinent crosses this water, and the coast that takes it first takes the heaviest fall in [[place-worldthlrn|The World of Thalorna]]. [[place-chandrmahi|The Chandramahi]] comes down to a delta on this sea, and the deep-water trade of Vedyara is worked from the harbors at its mouth.
 
 The shore is tropical and lush the whole of its length. Behind it the ground rises into the southern interior, where the forest products are gathered and the temple-domains hold what no janapoda holds.
 
@@ -28,7 +28,7 @@ The shore is tropical and lush the whole of its length. Behind it the ground ris
 
 The rains build over this sea and come ashore in a few days. They do not creep up the coast. A port has its last clear week and then has four months of it, and every master on the coast knows the date the way a farmer knows the sowing.
 
-The wet season is a working season ashore and a dead one afloat. Hulls come up the rivers or lie behind the bars, crews are paid off, and the yards do their building. When the rain stops the season opens on both coasts at once, and the [[place-suryasamdra|eastern sea]] and this one are sailed on the same calendar.
+The wet season is a working season ashore and a dead one afloat. Hulls come up the rivers or lie behind the bars, crews are paid off, and the yards do their building. When the rain stops the season opens on both coasts at once, and [[place-suryasamdra|Surva-samedra]], the eastern sea, and this one are sailed on the same calendar.
 
 ## The Khelathi Passage
 

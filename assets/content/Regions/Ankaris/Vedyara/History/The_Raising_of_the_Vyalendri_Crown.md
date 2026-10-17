@@ -33,17 +33,17 @@ data:
         - the names of the nine kings between the first and the last, which nobody outside the cloth-court remembers
 ---
 
-A Vyalendri Loom-Master tells an apprentice that the pattern-book rule is older than the Council. It is older than the kings too, and the city's own account of the **Raising of the Vyalendri Crown** says so: the weavers were drawing patterns for one hall only before any landholder thought of crowning himself among them.
+A Vyalendri Loom-Master tells an apprentice that the pattern-book rule is older than the [Loom-Council]{.name data-type="affiliation/governmental"}. It is older than the kings too, and the city's own account of **The Raising of the Vyalendri Crown** says so: the weavers were drawing patterns for one hall only before any landholder thought of crowning himself among them.
 
 ## The First King
 
-About 125 BF **Nilapati**, a master of the indigo valleys upstream, took the cloth city. The account the cloth-court keeps does not say how. It says that he was crowned in the city, not in his valleys, and that he chose the city because the cloth was there and the indigo was worth more woven than raw.
+About 125 BF **[Nilapati]{.name data-type="being/npc"}**, a master of the indigo valleys upstream, took the cloth city. The account the cloth-court keeps does not say how. It says that he was crowned in the city, not in his valleys, and that he chose the city because the cloth was there and the indigo was worth more woven than raw.
 
 His line built what the Council still uses. They laid out the palace quarter at the top of the city, raised the audience hall with a dais for a throne, and set the street-plan that runs from the palace down to the water-gate. The Loom-Council governs a shrena republic from a kingdom's street-plan, and visitors from kingdoms find it disorderly for that reason.
 
 ## Eleven Reigns
 
-The crown lasted eleven reigns. Nilapati is remembered by name; nine kings after him are remembered by nobody outside the cloth-court. The eleventh and last laid out the pleasure-house that is now [[place-sandhyagrha|Sandyagriha]], and about 150 AF his line ended and the Loom-Council sat down in his hall ([[lore-vylndrkngs|the End of the Vyalendri Kingship]]). How the line ended stays unresolved.
+The crown lasted eleven reigns. Nilapati is remembered by name; nine kings after him are remembered by nobody outside the cloth-court. The eleventh and last laid out the pleasure-house that is now [[place-sandhyagrha|Sandyagriha]], and about 150 AF his line ended and the Loom-Council sat down in his hall ([[lore-vylndrkngs|The End of the Vyalendri Kingship]]). How the line ended stays unresolved.
 
 ## What It Left
 

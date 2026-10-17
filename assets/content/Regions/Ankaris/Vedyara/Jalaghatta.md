@@ -14,7 +14,7 @@ data:
   government: suvrgrjnpd
 ---
 
-**Jalaghatta** is a landing on the [[place-bharavarivr|Bharava]] in the [[place-suvarnagirijnpd|Suvarnageri Janapoda]], where the upland tracks come down to meet the river road. The janapoda's imports come ashore here: the textiles, books, gemstones and salt it buys with its gold and its ironwork. From the landing the loads gho up the valley to the temples, the jewelers' quarter and the villages' kitchens.
+**Jalaghatta** is a landing on [[place-bharavarivr|The Bharava]] in the [[place-suvarnagirijnpd|Suvarnageri Janapoda]], where the upland tracks come down to meet the river road. The janapoda's imports come ashore here: the textiles, books, gemstones and salt it buys with its gold and its ironwork. From the landing the loads gho up the valley to the temples, the jewelers' quarter and the villages' kitchens.
 
 ## See Also
 

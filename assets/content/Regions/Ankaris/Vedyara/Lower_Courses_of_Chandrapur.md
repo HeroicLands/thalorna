@@ -8,17 +8,17 @@ tags: [city, river]
 data: {demonym: null, lore: [], parents: [chandrapur2], population: null, packFolder: vedyara}
 ---
 
-In the dry months the river drops along the quarter-mile stair of [[place-chandrapur2|Chendrapur]], and the lowest steps show a different stone. The **lower courses** are heavier and plainer than anything built above them, laid without mortar in blocks two men could not lift, and they belong to a city the present one was built on top of. No record in Chendrapur says whose.
+In the dry months the river drops along the quarter-mile stair of [[place-chandrapur2|Chendrapur]], and the lowest steps show a different stone. **The Lower Courses of Chendrapur** are heavier and plainer than anything built above them, laid without mortar in blocks two men could not lift, and they belong to a city the present one was built on top of. No record in Chendrapur says whose.
 
 ## Where They Show
 
 - **The river stair.** For two months of the year the bottom courses of the stair stand clear of the water, and children walk along them at the waterline.
 - **The cellars.** Cutters in the oldest quarters dig a new cellar and find the floor of it is the top of a wall. The cellars of several Houses are floored with the old stone and walled with the new.
-- **The Moon House.** The oldest court of [[place-moonhouse|the Moon House]], the plain square the palace has grown round without touching, stands on these courses. A rule older than any charter in the city forbids its rebuilding.
+- **[[place-moonhouse|The Moon House]].** The oldest court of the Moon House, the plain square the palace has grown round without touching, stands on these courses. A rule older than any charter in the city forbids its rebuilding.
 
 ## What Is Said of Them
 
-The temples hold that the older city was the god's before it was the crown's, which is why the temples are older than the crown. Masons from the Bow-Fort country who have seen the stair say the work reminds them of [[place-bowfort|the Bow-Fort]]'s foundation courses, and the Chandrapuri cutters say it reminds them of nothing. Nobody has set the two side by side, and no record connects them.
+The temples hold that the older city was the god's before it was the crown's, which is why the temples are older than the crown. Masons from the country around [[place-bowfort|The Bow-Fort]] who have seen the stair say the work reminds them of the Bow-Fort's foundation courses, and the Chandrapuri cutters say it reminds them of nothing. Nobody has set the two side by side, and no record connects them.
 
 Nothing in the lower courses has harmed anyone. The cutters who work above them treat them as a floor.
 

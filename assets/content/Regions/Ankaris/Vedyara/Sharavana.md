@@ -14,7 +14,7 @@ data:
   government: dhnrktjnpd
 ---
 
-Everything in **Shiravana** (760) is counted in bundles of five hundred shafts. The village cuts the reed the arrows are shafted from, in the marsh where a dead channel of the [[place-sarvadarivr|Sarveda]] holds water through the dry season. The reed is cut green, bundled, and straightened over a slow fire.
+Everything in **Shiravana** (760) is counted in bundles of five hundred shafts. The village cuts the reed the arrows are shafted from, in the marsh where a dead channel of [[place-sarvadarivr|The Sarveda]] holds water through the dry season. The reed is cut green, bundled, and straightened over a slow fire.
 
 The fletchers work in the village too. Their feathers come from the geese it keeps for the purpose and from the gray herons of the marsh, which are taken under a sabhra license and counted at the taking.
 

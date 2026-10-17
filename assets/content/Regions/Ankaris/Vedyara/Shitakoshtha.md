@@ -8,7 +8,7 @@ tags: [strange, sacred, inland]
 data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
-**Shitakoshta** (the cold chamber) is the oldest vault of [[place-rajavalilib|the Rajavali Library]], and its north side is not masonry. It is the flank of a body of one piece that stood on the hill before the library did, before the temple did and before the dynastic capital did: cold to the hand, ribbed in long true curves, and without a seam anywhere for a chisel to start in.
+**Shitakoshta** (the cold chamber) is the oldest vault of [[place-rajavalilib|The Rajavali Library]], and its north side is not masonry. It is the flank of a body of one piece that stood on the hill before the library did, before the temple did and before the dynastic capital did: cold to the hand, ribbed in long true curves, and without a seam anywhere for a chisel to start in.
 
 The masons who raised the vault could not dress it, could not shift it and could not break it. They built to its shape instead. That is why the one room in the complex is not square, and why its north wall leans out of true by a degree nobody has ever corrected.
 
@@ -20,7 +20,7 @@ Nothing else about the room is unusual. It is cold, which a stone cellar is; it 
 
 ## What Is Kept in It
 
-The kingdom-period originals: the dynastic chronicle in the hand it was first written in, the treaties with polities that no longer exist, and the dissolution decree itself, which is read out once a year at the Day of the Dissolution and returned to the room the same evening.
+The kingdom-period originals: the dynastic chronicle in the hand it was first written in, the treaties with polities that no longer exist, and the dissolution decree itself, which is read out once a year at the [Day of the Dissolution]{.name data-type="lore/gathering"} and returned to the room the same evening.
 
 It also holds the correspondence shelf, which is where [[being-anrjhrdvmbjkr|Anuraja Harshadevambujakar]]'s letters about further dissolutions are kept, because the room is the driest in the complex and for no other reason.
 

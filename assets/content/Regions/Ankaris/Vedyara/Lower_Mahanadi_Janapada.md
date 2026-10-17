@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
-The **Lower Mahanodi Janapoda** is the janapoda of the Mahanodi circuit to which [[place-bharanya|Bharanya]] belongs. The town holds no seat of its own at the Melra; what it has instead is the standing of its [[affiliation-mahajaya|Mahajaya]] temple, which is greater than the janapoda's and older.
+The **Lower Mahanodi Janapoda** is the janapoda of the circuit of [[place-mahanadi|The Mahanodi]] to which [[place-bharanya|Bharanya]] belongs. The town holds no seat of its own at the [Mahva-Melra]{.name data-type="lore/gathering"}; what it has instead is the standing of its [[affiliation-mahajaya|Mahajaya]] temple, which is greater than the janapoda's and older.

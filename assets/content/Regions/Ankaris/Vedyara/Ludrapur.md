@@ -8,7 +8,7 @@ tags: [ruin, frontier, fortified]
 data: {demonym: null, lore: [], parents: [bhumipalaland], population: null, packFolder: vedyara}
 ---
 
-**Ludrapur**, the walled town, was the capital of the march before [[affiliation-bhumipala|Bhumipala]] existed. It lies a few miles off [[place-marchroad|the march road]] between [[place-sandhyapur|Sandyapur]] and [[place-ashvapada|Ashvapada]], on a rise above a seasonal river that is dry for eight months of the year. In 315 AF the host of [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came down the road after destroying the kingdom's army at [[place-lanthusthli|Lantustali]], and burned it ([[lore-marupalafl|the Fall of Marupala]]). Nobody has lived in it since.
+**Ludrapur**, the walled town, was the capital of the march before [[affiliation-bhumipala|Bhumipala]] existed. It lies a few miles off [[place-marchroad|The March Road]] between [[place-sandhyapur|Sandyapur]] and [[place-ashvapada|Ashvapada]], on a rise above a seasonal river that is dry for eight months of the year. In 315 AF the host of [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] came down the road after destroying the kingdom's army at [[place-lanthusthli|Lantustali]], and burned it ([[lore-marupalafl|The Fall of Marupala]]). Nobody has lived in it since.
 
 ## What Is There
 
@@ -24,8 +24,8 @@ The dead of Ludrapur were the townspeople, killed in their streets, and the town
 
 ## Hooks
 
-- **The treasury.** Marupala's treasury was never found. It was not in the palace when the host burned it, and the steppe did not carry it off, because the orkunoq's camps at Amradad had no march gold in them. A company sergeant has found a stair going down under the palace platform, below the cisterns.
-- **The seal.** Bhumipala's title to the march rests on Marupala having left no heir. A claimant arrives at Sandyapur with a seal cut with Ashvakirti's name and a genealogy that runs through a daughter nobody recorded, and the companies, who are owed arrears, are listening.
+- **The treasury.** [Marupala]{.name data-type="affiliation/polity"}'s treasury was never found. It was not in the palace when the host burned it, and the steppe did not carry it off, because the orkunoq's camps in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] had no march gold in them. A company sergeant has found a stair going down under the palace platform, below the cisterns.
+- **The seal.** Bhumipala's title to the march rests on Marupala having left no heir. A claimant arrives at Sandyapur with a seal cut with [Ashvakirti]{.name data-type="being/npc"}'s name and a genealogy that runs through a daughter nobody recorded, and the companies, who are owed arrears, are listening.
 - **The image.** The Sandyapur temple's image came from here. Its priests are quietly asking a party to find out whether the god went with the statue or stayed in the empty house.
 
 ## See Also

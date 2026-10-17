@@ -8,13 +8,13 @@ tags: [river, pilgrimage, inland]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
-The **Mahanodi** is the great river of Vedyara: longest, widest, most populous along its banks, and the one a Vedyari means if he says "the river" and does not say which. It rises at [[place-mahaprbhva|Mahaprabhava]] and runs the length of the central plain to the eastern sea.
+**The Mahanodi** is the great river of the [[place-vedyarargn|Vedyara Region]]: longest, widest, most populous along its banks, and the one a Vedyari means if he says "the river" and does not say which. It rises at [[place-mahaprbhva|Mahaprabhava]] and runs the length of the central plain to the eastern sea.
 
 More people live within a day's walk of this water than live in any kingdom on the continent.
 
 ## The Channel
 
-It moves. Not by inches: the Mahanodi has changed its course four times within written record, each time by miles, and each time it has left towns standing on dry ground and drowned others that were nowhere near it the year before. One of the drowned is [[lore-drwnngseat|a royal seat]], and the fishermen of the reach above it still foul their nets on masonry that has not been above water in six hundred years.
+It moves. Not by inches: the Mahanodi has changed its course four times within written record, each time by miles, and each time it has left towns standing on dry ground and drowned others that were nowhere near it the year before. One of the drowned is a royal seat ([[lore-drwnngseat|The Drowning of the Royal Seat]]), and the fishermen of the reach above it still foul their nets on masonry that has not been above water in six hundred years.
 
 Nobody builds on the flood-plain proper. The villages sit on the old levees and on artificial mounds raised over generations, and a village's mound is older than its temple and is treated with more care.
 

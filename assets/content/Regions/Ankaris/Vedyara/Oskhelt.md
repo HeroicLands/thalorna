@@ -16,7 +16,7 @@ data:
   culture: osketclt
 ---
 
-**Oskhelt** is the one place on the wall where a lowlander arranges a crossing instead of being granted one. It stands on a south-facing slope above the upper stages of [[place-suryadvara|Suryadvara]], four days' climb from [[place-suryagarha|Suryagarha]] and well above anything that will grow grain, and it is the largest settlement of the [[affiliation-osketguides|Osket]].
+**Oskhelt** is the one place on the wall where a lowlander arranges a crossing instead of being granted one. It stands on a south-facing slope above the upper stages of [[place-suryadvara|Suryadvara]], four days' climb from [[place-suryagarha|Suryagarha]] and well above anything that will grow grain, and it is the largest settlement of [[affiliation-osketguides|The Osket]].
 
 The houses are stacked stone, built into the slope with the beast-floor beneath and the living-floor above, roofed in slate and turf and sharing walls wherever the ground allows. Six hundred and forty people winter here. In the open season the figure doubles and more.
 

@@ -14,7 +14,7 @@ data:
   government: suvrgrjnpd
 ---
 
-**Ratnakupa** is a lapidary village below **Lower Suvarnageri**, in the [[place-suvarnagirijnpd|Suvarnageri Janapoda]]. The stones come up from [[affiliation-chandrapur|Chendrapur]] rough, and the cutters of Ratnakupa rough them out into the shapes the jewelers' quarter sets in the mountain's own gold. Every stone set in the quarter has passed through their hands first.
+**Ratnakupa** is a lapidary village below **[Lower Suvarnageri]{.name data-type="place/site"}**, in the [[place-suvarnagirijnpd|Suvarnageri Janapoda]]. The stones come up from [[place-chandrapur2|Chendrapur]] rough, and the cutters of Ratnakupa rough them out into the shapes the jewelers' quarter sets in the mountain's own gold. Every stone set in the quarter has passed through their hands first.
 
 ## See Also
 

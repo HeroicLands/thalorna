@@ -13,11 +13,11 @@ data:
   packFolder: vedyara
 ---
 
-The **Melra Ground** is the plain where [[place-mahanadi|the Mahanodi]] takes its greatest tributary, and it is where the [[affiliation-janpdsvdyr|janapadas of Vedyara]] hold their twelve-yearly assembly. The ground is flat, broad and dry for eleven months of the year. Nobody lives on it. Between assemblies it carries one temple, [[place-sangama|Sangema]], a landing, and a great deal of grass.
+**The Melra Ground** is the plain where [[place-mahanadi|The Mahanodi]] takes its greatest tributary, and it is where the [[affiliation-janpdsvdyr|Janapadas of Vedyara]] hold their twelve-yearly assembly. The ground is flat, broad and dry for eleven months of the year. Nobody lives on it. Between assemblies it carries one temple, [[place-sangama|Sangema]], a landing, and a great deal of grass.
 
 ## The Assembly
 
-The **Mahva-Melra** runs for forty days. The first thirty are the religious observances and the last ten are the business of the confederation, which is water-rights between janapadas on one river system, trade conventions, the reaffirmation of the great pilgrimage routes, and boundary disputes that have outgrown bilateral settlement. Seats are counted by river-circuit, and a janapoda speaks through the delegation of the water it drinks unless it holds a seat in its own right.
+The **[Mahva-Melra]{.name data-type="lore/gathering"}** runs for forty days. The first thirty are the religious observances and the last ten are the business of the confederation, which is water-rights between janapadas on one river system, trade conventions, the reaffirmation of the great pilgrimage routes, and boundary disputes that have outgrown bilateral settlement. Seats are counted by river-circuit, and a janapoda speaks through the delegation of the water it drinks unless it holds a seat in its own right.
 
 A quarter of a million people stand on the ground at the height of it. They come up the river by boat and down the pilgrim roads on foot, and the four circuits camp apart by long custom, each on the reach of the plain nearest its own water.
 
