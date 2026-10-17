@@ -397,7 +397,7 @@ Jiraman Ashuruni is a 43-year-old man who stands 5'10" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the Taruzel region to a freeman family of Taruzelian heritage, Jiraman Ashuruni came into the world of the skald through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel Region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Jiraman Ashuruni came into the world of the skald through a combination of circumstance and aptitude.
 
 Jiraman was raised in a warrior's family but found his true calling as a skald, weaving tales of valor and tragedy in the mead halls. He is known for his vivid storytelling and deep, resonant voice, often recounting the sagas of ancient heroes. Though he can wield a sword, he prefers to wield words and music to inspire others.
 
@@ -413,11 +413,11 @@ Jiraman is driven by the desire to master his craft and secure a stable future. 
 
 ### Strengths
 
-Skilled storyteller, powerful voice, knowledgeable in Nordmen history.
+Skilled storyteller, powerful voice, knowledgeable in [[lore-nordheimnclt|Nordheimn]] history.
 
 ## Social
 
-Jiraman is affiliated with Nordland Skalds' Guild.
+Jiraman is affiliated with [[affiliation-skaldscrcl|The Skalds' Circle]], the Nordland Skalds' Guild.
 
 As a Taruzelian skald, Jiraman occupies a recognized social niche within Taruzel society.
 
@@ -425,7 +425,7 @@ As a Taruzelian skald, Jiraman occupies a recognized social niche within Taruzel
 
 ### Patrons
 
-Jiraman's primary patron is Local chieftains and warriors who appreciate his tales of heroism. This relationship provides both opportunity and obligation.
+Jiraman's primary patrons are local chieftains and warriors who appreciate his tales of heroism. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

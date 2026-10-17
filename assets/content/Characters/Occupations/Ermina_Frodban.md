@@ -394,7 +394,7 @@ Ermina yra Frodbán wur Thornhaven is a 30-year-old woman who stands 5'11" tall 
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Ermina came into the world of the fisher through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Ermina came into the world of the fisher through a combination of circumstance and aptitude.
 
 Ermina grew up near the shore, where she developed a love for the sea. She became a fisher to support her family and enjoys the freedom that comes with being on the water. Ermina is known for her quick thinking and ability to adapt to changing conditions at sea. She is also a skilled netmaker, often mending her own nets and selling spares to other fishers.
 
@@ -414,7 +414,7 @@ Skilled in fishing and netmaking, quick thinker, adaptable.
 
 ## Social
 
-Ermina fishes the waters near Thornhaven with her own crew and kin. She shares landings and nets by agreement with other families; no fishers’ guild controls the catch.
+Ermina fishes the waters near [[place-thornhaven|Thornhaven]] with her own crew and kin. She shares landings and nets by agreement with other families; no fishers’ guild controls the catch.
 
 ## Companions
 

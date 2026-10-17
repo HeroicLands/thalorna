@@ -399,7 +399,7 @@ Ghígnaros Makithon is a 50-year-old man who stands 5'10" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a minor noble family of Helionite heritage, Ghígnaros Makithon came into the world of the herald through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a minor noble family of [[lore-helioniteclt|Helionite]] heritage, Ghígnaros Makithon came into the world of the herald through a combination of circumstance and aptitude.
 
 Ghígnaros is a seasoned herald with over thirty years of service. As a member of minor nobility, he carries the weight of his family's long-standing tradition of serving the court. He is known for his authoritative presence and ability to capture the attention of even the most unruly crowds. While he adheres to the traditional styles of heraldry, he understands the need for subtle adaptation when dealing with different audiences. His experience makes him a trusted figure among the nobility, though he is not without his detractors.
 
@@ -419,7 +419,7 @@ Authoritative, experienced, respected for his deep understanding of heraldic tra
 
 ## Social
 
-Ghígnaros is affiliated with City Heralds' Guild.
+Ghígnaros is affiliated with the [City Heralds' Guild]{.name data-type="affiliation/guild"}.
 
 As a Helionite herald, Ghígnaros occupies a recognized social niche within Helionis society.
 
@@ -427,7 +427,7 @@ As a Helionite herald, Ghígnaros occupies a recognized social niche within Heli
 
 ### Patrons
 
-Ghígnaros's primary patron is High-ranking nobles who respect his long service and authority. This relationship provides both opportunity and obligation.
+Ghígnaros's primary patrons are high-ranking nobles who respect his long service and authority. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

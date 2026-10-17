@@ -396,9 +396,9 @@ Thalrik Halren is a 46-year-old man who stands 6'5" tall and is broad and solidl
 
 # Dossier {#dossier}
 
-Thalrik Halren is a woodcutter of Port Aelion, on the coast of [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the wooded slopes above the harbor since he was a boy.
+Thalrik Halren is a woodcutter of [[place-portaelion|Port Aelion]], on the coast of [[place-elavendre|Élavendre]], an [[lore-elavendriclt|Élavendri]] freeman who has worked the wooded slopes above the harbor since he was a boy.
 
-Thalrik cuts under license, as every Élavendri woodcutter does. The Crown's forest court at Liranel issues the licenses, and above the licensed belt the old forest begins, which the Wardens patrol and nobody cuts. He has spent thirty years learning exactly where that line runs and which trees on his side of it can be taken without harming the stand, and the carpenters and shipwrights of Port Aelion have learned that a Halren load is sound timber, honestly measured. He works alone by choice.
+Thalrik cuts under license, as every Élavendri woodcutter does. The Crown's forest court at [[place-liranel|Liranel]] issues the licenses, and above the licensed belt the old forest begins, which the [[affiliation-alndnwrdns|Áelendan Wardens]] patrol and nobody cuts. He has spent thirty years learning exactly where that line runs and which trees on his side of it can be taken without harming the stand, and the carpenters and shipwrights of Port Aelion have learned that a Halren load is sound timber, honestly measured. He works alone by choice.
 
 ## Psyche
 
@@ -416,7 +416,7 @@ Physically strong, experienced in forestry, knowledgeable about which trees to f
 
 ## Social
 
-Thalrik belongs to the Woodcutters' Guild, which holds his license and settles his disputes. He keeps a hut above Port Aelion rather than a house in it.
+Thalrik belongs to the [Woodcutters' Guild]{.name data-type="affiliation/guild"}, which holds his license and settles his disputes. He keeps a hut above Port Aelion rather than a house in it.
 
 ## Companions
 

@@ -397,7 +397,7 @@ Vandarik yra Garskald wur Thornhaven is a 21-year-old man who stands 6'1" tall a
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Vandarik came into the world of the ostler through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Vandarik came into the world of the ostler through a combination of circumstance and aptitude.
 
 Vandarik grew up around horses and has always had a natural affinity for caring for them. As an ostler, he manages the stables of a local inn, ensuring that the horses are well-fed, groomed, and ready for travel. Known for his gentle demeanor, Vandarik has a way of calming even the most skittish animals. He takes pride in his work and is respected by both travelers and locals for his expertise in horse care.
 
@@ -417,7 +417,7 @@ Skilled in animal care, patient, hardworking.
 
 ## Social
 
-Vandarik keeps Thornhaven’s stable ready for river traders, visiting scouts and the War Chief’s riders. Its household answers to the village’s bargains, without an association over it.
+Vandarik keeps [[place-thornhaven|Thornhaven]]’s stable ready for river traders, visiting scouts and the War Chief’s riders. Its household answers to the village’s bargains, without an association over it.
 
 ## Companions
 

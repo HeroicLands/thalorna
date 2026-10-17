@@ -398,9 +398,9 @@ Knulthvir Stormrót is a 34-year-old man who stands 5'6" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Knulthvir Stormrót came into the world of the litigant through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a noble family of [[lore-nordheimnclt|Nordheimn]] heritage, Knulthvir Stormrót came into the world of the litigant through a combination of circumstance and aptitude.
 
-Knulthvir hails from a prominent family of lawyers and has made a name for himself in the Litigant's Guild. Known for his sharp intellect and eloquence, he specializes in contract disputes and property law. Knulthvir has a reputation for being a strong opponent in the courtroom and is sought after by clients seeking to protect their interests. He believes strongly in justice and fairness.
+Knulthvir hails from a prominent family of lawyers and has made a name for himself in the [Litigant's Guild]{.name data-type="affiliation/guild"}. Known for his sharp intellect and eloquence, he specializes in contract disputes and property law. Knulthvir has a reputation for being a strong opponent in the courtroom and is sought after by clients seeking to protect their interests. He believes strongly in justice and fairness.
 
 ## Psyche
 
@@ -426,7 +426,7 @@ As a Nordheimn litigant, Knulthvir occupies a recognized social niche within Nor
 
 ### Patrons
 
-Knulthvir's primary patron is Wealthy clients and local nobles. This relationship provides both opportunity and obligation.
+Knulthvir's primary patrons are wealthy clients and local nobles. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

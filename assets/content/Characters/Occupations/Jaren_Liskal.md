@@ -397,9 +397,9 @@ Jaren Liskal is a 39-year-old woman who stands 5'6" tall and is slender. She has
 
 # Dossier {#dossier}
 
-Jaren Liskal is a toymaker of Jalnasdal, the capital of [[place-provenzrgn|Provenzia]], a Provenzian freewoman who makes wooden toys, dolls and small models in a workshop off the harbor quarter.
+Jaren Liskal is a toymaker of [[place-jalnazdal|Jalnasdal]], the capital of the [[place-provenzrgn|Provenzia Region]], a [[lore-provenzianclt|Provenzian]] freewoman who makes wooden toys, dolls and small models in a workshop off the harbor quarter.
 
-Jaren learned the trade from her grandfather, who carved for the children of a hill village and taught her that a toy is finished when a child cannot put it down. She brought the craft to the city at twenty and has kept a workshop for nearly as long, making jointed animals, painted dolls, ships with rigging that runs, and the small models of the court's ceremonies that collectors have begun to buy. No two pieces are the same and she will not make them so. The city is full of toys that are. Turned wood by the gross comes in through Kalveza from Vylaria and sells at a third of her price, and Jaren, who can carve anything, cannot sell and hates trying, has watched the market she built go to it stall by stall.
+Jaren learned the trade from her grandfather, who carved for the children of a hill village and taught her that a toy is finished when a child cannot put it down. She brought the craft to the city at twenty and has kept a workshop for nearly as long, making jointed animals, painted dolls, ships with rigging that runs, and the small models of the court's ceremonies that collectors have begun to buy. No two pieces are the same and she will not make them so. The city is full of toys that are. Turned wood by the gross comes in through [[place-kalveza|Kalveza]] from the [[place-vylariargn|Vylaria Region]] and sells at a third of her price, and Jaren, who can carve anything, cannot sell and hates trying, has watched the market she built go to it stall by stall.
 
 ## Psyche
 
@@ -417,7 +417,7 @@ Skilled in carving and painting, inventive, good with children.
 
 ## Social
 
-Jaren holds her seal from the Woodcarvers' Guild of Jalnasdal, chartered under the Tevran Maldor, and pays her dues and attends nothing.
+Jaren holds her seal from the [Woodcarvers' Guild of Jalnasdal]{.name data-type="affiliation/guild"}, chartered under [[affiliation-tevran|The Tevran Maldor]], and pays her dues and attends nothing.
 
 ## Companions
 

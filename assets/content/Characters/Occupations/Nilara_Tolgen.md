@@ -397,7 +397,7 @@ Nilara Tolgen is a 27-year-old woman who stands 5'10" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Nilara Tolgen came into the world of the yeoman archer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia Region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Nilara Tolgen came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
 Nilara grew up on the outskirts of the village, where her father taught her to use a bow for hunting. Her skills caught the eye of a local militia leader, who recruited her as a yeoman archer. Nilara is known for her speed and agility, allowing her to quickly reposition during battles. She is highly regarded for her ability to hit moving targets.
 
@@ -425,7 +425,7 @@ As a Provenzian yeoman archer, Nilara occupies a recognized social niche within 
 
 ### Patrons
 
-Nilara's primary patron is Local hunters and militia who have seen her skill firsthand. This relationship provides both opportunity and obligation.
+Nilara's primary patrons are local hunters and militia who have seen her skill firsthand. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

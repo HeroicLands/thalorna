@@ -398,7 +398,7 @@ Urele Ralven is a 24-year-old woman who stands 5'10" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia]] region to a noble family of Provenzian heritage, Urele Ralven came into the world of the perfumer through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia Region]] to a noble family of [[lore-provenzianclt|Provenzian]] heritage, Urele Ralven came into the world of the perfumer through a combination of circumstance and aptitude.
 
 Urele is an up-and-coming perfumer who has gained recognition for her floral and fresh scents. Working in her small but charming shop, she focuses on creating natural and eco-friendly perfumes. Urele is passionate about sustainability and often collaborates with local farmers to source her ingredients. Her warm personality and commitment to her craft have made her a beloved figure in the community.
 
@@ -418,7 +418,7 @@ Knowledgeable about natural ingredients, environmentally conscious, friendly.
 
 ## Social
 
-Urele is affiliated with Local Artisans' Guild.
+Urele is affiliated with the local [Artisans' Guild]{.name data-type="affiliation/guild"}.
 
 As a Provenzian perfumer, Urele occupies a recognized social niche within Provenzia society.
 
@@ -426,7 +426,7 @@ As a Provenzian perfumer, Urele occupies a recognized social niche within Proven
 
 ### Patrons
 
-Urele's primary patron is Local residents and eco-conscious customers seeking natural fragrances. This relationship provides both opportunity and obligation.
+Urele's primary patrons are local residents and eco-conscious customers seeking natural fragrances. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

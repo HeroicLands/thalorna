@@ -399,7 +399,7 @@ Kolrith Delvanor is a 25-year-old man who stands 5'11" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Kolrith Delvanor came into the world of the pilot through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Kolrith Delvanor came into the world of the pilot through a combination of circumstance and aptitude.
 
 Kolrith is a daring pilot known for his adventurous spirit and quick reflexes. He often takes on challenging routes and is not afraid to push the limits of his airship. With a background in racing, he enjoys the thrill of speed and competition. While his boldness can lead to risky situations, Kolrith has a knack for finding innovative solutions in the air, making him a respected figure among his peers.
 
@@ -419,7 +419,7 @@ Fast reflexes, skilled at maneuvers, resourceful in challenging situations.
 
 ## Social
 
-Kolrith is affiliated with Local Pilots' Guild.
+Kolrith is affiliated with the local [Pilots' Guild]{.name data-type="affiliation/guild"}.
 
 As a Tarvenan pilot, Kolrith occupies a recognized social niche within Tarvénia society.
 
@@ -427,7 +427,7 @@ As a Tarvenan pilot, Kolrith occupies a recognized social niche within Tarvénia
 
 ### Patrons
 
-Kolrith's primary patron is Adventurers and thrill-seekers looking for exciting flights. This relationship provides both opportunity and obligation.
+Kolrith's primary patrons are adventurers and thrill-seekers looking for exciting flights. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

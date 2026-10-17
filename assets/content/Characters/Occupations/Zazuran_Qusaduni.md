@@ -399,7 +399,7 @@ Zazuran Kusaduni is a 38-year-old man who stands 5'10" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the Taruzel region to a freeman family of Taruzelian heritage, Zazuran Kusaduni came into the world of the teamster through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel Region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Zazuran Kusaduni came into the world of the teamster through a combination of circumstance and aptitude.
 
 Zazuran has spent his life transporting goods across the countryside, driving wagons filled with everything from grain to lumber. He knows the trade routes well and has a reputation for getting cargo to its destination on time, no matter the conditions. While reliable and hardworking, Zazuran is a bit rough around the edges and can be gruff with strangers.
 
@@ -419,7 +419,7 @@ Skilled in handling draft animals, experienced in navigating rough terrain.
 
 ## Social
 
-Zazuran is affiliated with Teamsters' Guild.
+Zazuran is affiliated with the [Teamsters' Guild]{.name data-type="affiliation/guild"}.
 
 As a Taruzelian teamster, Zazuran occupies a recognized social niche within Taruzel society.
 
@@ -427,7 +427,7 @@ As a Taruzelian teamster, Zazuran occupies a recognized social niche within Taru
 
 ### Patrons
 
-Zazuran's primary patron is Local merchants who trust him to transport their goods safely. This relationship provides both opportunity and obligation.
+Zazuran's primary patrons are local merchants who trust him to transport their goods safely. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

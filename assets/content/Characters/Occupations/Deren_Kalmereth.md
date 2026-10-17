@@ -396,7 +396,7 @@ Deren Kálmereth is a 25-year-old woman who stands 5'9" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the Élavendre region to a freeman family of Élavendri heritage, Deren Kálmereth came into the world of the salter through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Deren Kálmereth came into the world of the salter through a combination of circumstance and aptitude.
 
 Deren is a dedicated salter who works alongside her father in their family-run saltworks. She focuses on the delicate process of harvesting and packaging the salt for sale. Deren has an eye for quality and often interacts with customers at local markets. She takes pride in her family's tradition of salt production and is passionate about promoting the benefits of salt in cooking and preservation.
 
@@ -416,15 +416,15 @@ Attention to detail, skilled in customer relations, knowledgeable about salt's u
 
 ## Social
 
-Deren is affiliated with None; operates independently.
+Deren is affiliated with none; she operates independently.
 
-As a Élavendri salter, Deren occupies a recognized social niche within Élavendre society.
+As an Élavendri salter, Deren occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Deren's primary patron is Local households and merchants seeking quality salt. This relationship provides both opportunity and obligation.
+Deren's primary patrons are local households and merchants seeking quality salt. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

@@ -398,7 +398,7 @@ Métrantha Thamidon is a 24-year-old woman who stands 6'1" tall and is of modera
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Métrantha Thamidon came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Métrantha Thamidon came into the world of the miner through a combination of circumstance and aptitude.
 
 Métrantha has always been passionate about mining, inspired by the stories of her family who worked in the industry. She is known for her agility and precision in extracting valuable stones from the rock. Métrantha has proven herself in a male-dominated field, often leading teams of miners and advocating for better working conditions. Her determination and skills have earned her respect among her colleagues.
 
@@ -418,7 +418,7 @@ Skilled at extraction techniques, agile, strong leadership qualities.
 
 ## Social
 
-Métrantha is affiliated with Local Miners' Union.
+Métrantha is affiliated with the local [Miners' Union]{.name data-type="affiliation"}.
 
 As a Helionite miner, Métrantha occupies a recognized social niche within Helionis society.
 
@@ -426,7 +426,7 @@ As a Helionite miner, Métrantha occupies a recognized social niche within Helio
 
 ### Patrons
 
-Métrantha's primary patron is Local mining companies and jewelers seeking quality stones. This relationship provides both opportunity and obligation.
+Métrantha's primary patrons are local mining companies and jewelers seeking quality stones. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

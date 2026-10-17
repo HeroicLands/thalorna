@@ -399,7 +399,7 @@ Nilthselda Drottgar is a 34-year-old woman who stands 5'7" tall and is slender. 
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Nilthselda Drottgar came into the world of the apothecary through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of [[lore-nordheimnclt|Nordheimn]] heritage, Nilthselda Drottgar came into the world of the apothecary through a combination of circumstance and aptitude.
 
 Nilthselda grew up in a small village where her mother was a healer. She learned the basics of herbal medicine at an early age and later moved to the city to expand her knowledge and practice. She works out of a modest shop, providing simple remedies and salves for common ailments. Nilthselda is passionate about treating the poor and often gives away medicines for free.
 
@@ -419,7 +419,7 @@ Compassionate and highly skilled in natural remedies.
 
 ## Social
 
-Nilthselda is affiliated with Independent healer.
+Nilthselda is an independent healer.
 
 As a Nordheimn apothecary, Nilthselda occupies a recognized social niche within Nordheim society.
 
@@ -427,7 +427,7 @@ As a Nordheimn apothecary, Nilthselda occupies a recognized social niche within 
 
 ### Patrons
 
-Nilthselda's primary patron is Poor villagers and city laborers. This relationship provides both opportunity and obligation.
+Nilthselda's primary patrons are poor villagers and city laborers. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

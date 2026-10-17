@@ -396,7 +396,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Élsaro Durgana came into the world of the mercenary through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Élsaro Durgana came into the world of the mercenary through a combination of circumstance and aptitude.
 
 Élsaro is a skilled assassin-for-hire, known for his stealth and precision. He operates in the shadows, taking on contracts from those willing to pay for his services. Élsaro has a reputation for being quick and discreet, often using his skills to eliminate targets without a trace. He values his independence and often works alone but is also willing to collaborate when the job requires it.
 
@@ -416,7 +416,7 @@ Highly skilled in stealth and assassination, adaptable, sharp-minded.
 
 ## Social
 
-Élsaro is affiliated with None; operates independently.
+Élsaro is affiliated with none; he operates independently.
 
 As a Tarvenan mercenary, Élsaro occupies a recognized social niche within Tarvénia society.
 
@@ -424,7 +424,7 @@ As a Tarvenan mercenary, Élsaro occupies a recognized social niche within Tarv�
 
 ### Patrons
 
-Élsaro's primary patron is Nobles and wealthy clients seeking discreet solutions to problems. This relationship provides both opportunity and obligation.
+Élsaro's primary patrons are nobles and wealthy clients seeking discreet solutions to problems. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

@@ -397,7 +397,7 @@ Chankhor Gharithos is a 38-year-old man who stands 6'3" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Chankhor Gharithos came into the world of the ostler through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Chankhor Gharithos came into the world of the ostler through a combination of circumstance and aptitude.
 
 Chankhor is a seasoned ostler who has managed stables for many years. With a wealth of knowledge about different horse breeds and their care requirements, he is often called upon for his expertise. Chankhor takes pride in maintaining a well-organized stable and often trains younger ostlers in proper care techniques. His strong presence and experience make him a respected figure in the community.
 
@@ -417,7 +417,7 @@ Highly knowledgeable about horses, strong leadership skills, good organizer.
 
 ## Social
 
-Chankhor is affiliated with None; works independently for the inn.
+Chankhor is affiliated with none; he works independently for the inn.
 
 As a Helionite ostler, Chankhor occupies a recognized social niche within Helionis society.
 
@@ -425,7 +425,7 @@ As a Helionite ostler, Chankhor occupies a recognized social niche within Helion
 
 ### Patrons
 
-Chankhor's primary patron is Local innkeepers and merchants needing horse care services. This relationship provides both opportunity and obligation.
+Chankhor's primary patrons are local innkeepers and merchants needing horse care services. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

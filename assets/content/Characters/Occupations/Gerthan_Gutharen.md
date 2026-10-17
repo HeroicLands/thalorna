@@ -400,7 +400,7 @@ Gerthan Gútharen is a 53-year-old man who stands 6'0" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Gerthan Gútharen came into the world of the tentmaker through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Gerthan Gútharen came into the world of the tentmaker through a combination of circumstance and aptitude.
 
 Gerthan has been crafting tents and tarps for the military for over thirty years, earning a reputation for producing durable and weather-resistant products. He runs a busy workshop in the city, often employing apprentices to keep up with demand. Although Gerthan is a skilled craftsman, he is stubborn and set in his ways, refusing to experiment with new materials or techniques.
 
@@ -420,7 +420,7 @@ Experienced in making durable tents for harsh conditions, strong work ethic.
 
 ## Social
 
-Gerthan is affiliated with Tentmakers' Guild.
+Gerthan is affiliated with the [Tentmakers' Guild]{.name data-type="affiliation/guild"}.
 
 As a Tarvenan tentmaker, Gerthan occupies a recognized social niche within Tarvénia society.
 
@@ -428,7 +428,7 @@ As a Tarvenan tentmaker, Gerthan occupies a recognized social niche within Tarv�
 
 ### Patrons
 
-Gerthan's primary patron is Military officials and merchants who value his sturdy products. This relationship provides both opportunity and obligation.
+Gerthan's primary patrons are military officials and merchants who value his sturdy products. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

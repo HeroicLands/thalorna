@@ -393,7 +393,7 @@ Parthun Kardeth is a 41-year-old man who stands 5'7" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Parthun Kardeth came into the world of the thespian through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of [[lore-elavendriclt|Élavendri]] heritage, Parthun Kardeth came into the world of the thespian through a combination of circumstance and aptitude.
 
 Parthun is an actor and playwright who has spent much of his life on the stage. He is known for his powerful voice and his ability to portray complex characters. Parthun's writing often draws from his own experiences, and his plays are filled with rich dialogue and plots. However, he struggles with perfectionism, often rewriting scenes endlessly before he's satisfied.
 
@@ -413,15 +413,15 @@ Talented actor and writer, skilled in crafting compelling dialogue, strong stage
 
 ## Social
 
-Parthun is affiliated with City Theater Company, Writers' Guild.
+Parthun is affiliated with the [City Theater Company]{.name data-type="affiliation/venture"} and the [Writers' Guild]{.name data-type="affiliation/guild"}.
 
-As a Élavendri thespian, Parthun occupies a recognized social niche within Élavendre society.
+As an Élavendri thespian, Parthun occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Parthun's primary patron is Wealthy patrons who commission his plays. This relationship provides both opportunity and obligation.
+Parthun's primary patrons are wealthy patrons who commission his plays. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

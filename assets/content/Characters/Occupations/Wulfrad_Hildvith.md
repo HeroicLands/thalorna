@@ -399,7 +399,7 @@ Wulfrád yra Hildvith wur Skathburg is a 36-year-old man who stands 6'1" tall an
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Wulfrád came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Wulfrád came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
 Wulfrád has dedicated his life to the art of siege warfare as a sapper. With years of experience, he is skilled in constructing defensive structures and demolishing enemy fortifications. Known for his practical knowledge and leadership, he often trains new recruits in the art of engineering. Wulfrád believes in the importance of teamwork and often emphasizes safety in his training.
 
@@ -419,7 +419,7 @@ Highly experienced, strong leadership skills, skilled in engineering.
 
 ## Social
 
-Wulfrád works with [[place-skathburg|Skathburg]]'s war-band on its double timber ring, its crossings and its siege craft, against Grukar raids that come in small numbers and keep coming. His skill is valued by the village War Chief, not certified by an engineers’ guild.
+Wulfrád works with [[place-skathburg|Skathburg]]'s war-band on its double timber ring, its crossings and its siege craft, against [[lore-grukarfolk|Grukar Folk]] raids that come in small numbers and keep coming. His skill is valued by the village War Chief, not certified by an engineers’ guild.
 
 ## Companions
 

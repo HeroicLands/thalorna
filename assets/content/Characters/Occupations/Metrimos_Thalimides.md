@@ -397,7 +397,7 @@ Métrimos Thálimides is a 42-year-old man who stands 6'3" tall and is broad and
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Métrimos Thálimides came into the world of the yeoman infantry through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Métrimos Thálimides came into the world of the yeoman infantry through a combination of circumstance and aptitude.
 
 Métrimos is a seasoned veteran who has fought in numerous skirmishes and battles. He is tough and resilient, respected for his leadership on the battlefield. Métrimos often trains younger yeomen in the arts of melee combat and defense. Despite his gruff demeanor, he cares deeply for those who fight beside him.
 
@@ -419,13 +419,13 @@ Strong, resilient, skilled in melee and defensive tactics.
 
 Métrimos is affiliated with Local Militia.
 
-As a Helionite yeoman infantry, Métrimos occupies a recognized social niche within Helionis society.
+As a Helionite yeoman infantryman, Métrimos occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Métrimos's primary patron is The local lord who values his experience in training new recruits. This relationship provides both opportunity and obligation.
+Métrimos's primary patron is the local lord who values his experience in training new recruits. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

@@ -395,9 +395,9 @@ Nevarina Habiles is a 30-year-old woman who stands 5'11" tall and is of moderate
 
 # Dossier {#dossier}
 
-Nevarina Habiles is a widow of Theradon, in [[place-helionis|Helionis]], who keeps herself and her two young children by prostitution. She is Helionite freeborn, of a family of no standing, and was widowed young.
+Nevarina Habiles is a widow of [[place-theradon2|Theradon]], in [[place-helionis|Helionis]], who keeps herself and her two young children by prostitution. She is [[lore-helioniteclt|Helionite]] freeborn, of a family of no standing, and was widowed young.
 
-The city has an honored place for women who sell their company: the hetairin, trained at the Academy of the Silver Veil and kept by the wealthy. Nevarina is not one of them. She took to the trade in the year after her husband's death, when the alternatives were beggary or her husband's kin in the countryside, who offered to take the children and not her. She works from rented rooms below the market ward, takes the students and lesser citizens the hetairin do not, and is careful, sober and kind to the men who come to her. She is tired, and ashamed of the work in a city with strong opinions about proper living.
+The city has an honored place for women who sell their company: the hetairin, trained at the [Academy of the Silver Veil]{.name data-type="affiliation"} and kept by the wealthy. Nevarina is not one of them. She took to the trade in the year after her husband's death, when the alternatives were beggary or her husband's kin in the countryside, who offered to take the children and not her. She works from rented rooms below the market ward, takes the students and lesser citizens the hetairin do not, and is careful, sober and kind to the men who come to her. She is tired, and ashamed of the work in a city with strong opinions about proper living.
 
 ## Psyche
 

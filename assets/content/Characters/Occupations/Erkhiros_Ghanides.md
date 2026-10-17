@@ -397,7 +397,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Érkhiros Ghanides came into the world of the teamster through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Érkhiros Ghanides came into the world of the teamster through a combination of circumstance and aptitude.
 
 Érkhiros has been a teamster for over thirty years, traveling countless miles and weathering many storms. He is a familiar face on the trade routes and is often sought after for advice by younger teamsters. Known for his easygoing nature, he enjoys the freedom of the open road, but age is starting to catch up with him.
 
@@ -417,7 +417,7 @@ Experienced navigator, skilled in repairs, good with people.
 
 ## Social
 
-Érkhiros is affiliated with Teamsters' Guild.
+Érkhiros is affiliated with the [Teamsters' Guild]{.name data-type="affiliation/guild"}.
 
 As a Helionite teamster, Érkhiros occupies a recognized social niche within Helionis society.
 
@@ -425,7 +425,7 @@ As a Helionite teamster, Érkhiros occupies a recognized social niche within Hel
 
 ### Patrons
 
-Érkhiros's primary patron is Regular merchants who have trusted him for years. This relationship provides both opportunity and obligation.
+Érkhiros's primary patrons are regular merchants who have trusted him for years. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

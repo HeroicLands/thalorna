@@ -399,9 +399,9 @@ Lenor Kardeth is a 41-year-old man who stands 6'2" tall and is broad and solidly
 
 # Dossier {#dossier}
 
-Lenor Kardeth is a ratter of Sóurimel, the Élavendri village inside the Silver Forests of [[place-elavendre|Élavendre]], a freeman who has kept the village's stores clear of rats for twenty-five years.
+Lenor Kardeth is a ratter of [[place-sourimael|Sóurimel]], the [[lore-elavendriclt|Élavendri]] village inside [[place-silvrfrsts|The Silver Forests]] of [[place-elavendre|Élavendre]], a freeman who has kept the village's stores clear of rats for twenty-five years.
 
-The village lives on charcoal, honey, hazel and the gathered herbs that the physicians of Péravel pay so well for, and all of it is stored over a winter and draws rats. Lenor learned the trade from an old man of the village and has improved on it since: traps of his own pattern, ferrets, a knowledge of where a rat runs and why, and no poison, ever, because poison kills the dogs and cats that do half the work. His dog, Scout, a rough-coated terrier, has worked with him for nine years. He takes the farms of Sórvanda beyond the wood as well, and passes what he knows to any young ratter who will listen.
+The village lives on charcoal, honey, hazel and the gathered herbs that the physicians of [[place-beravel|Péravel]] pay so well for, and all of it is stored over a winter and draws rats. Lenor learned the trade from an old man of the village and has improved on it since: traps of his own pattern, ferrets, a knowledge of where a rat runs and why, and no poison, ever, because poison kills the dogs and cats that do half the work. His dog, [Scout]{.name data-type="being/creature"}, a rough-coated terrier, has worked with him for nine years. He takes the farms of [[place-sorvanda|Sórvanda]] beyond the wood as well, and passes what he knows to any young ratter who will listen.
 
 ## Psyche
 

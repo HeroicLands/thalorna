@@ -398,7 +398,7 @@ Drethar Salthar is a 51-year-old man who stands 6'2" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Drethar Salthar came into the world of the charcoaler through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Drethar Salthar came into the world of the charcoaler through a combination of circumstance and aptitude.
 
 Drethar has worked as a charcoaler in the dense forests near his village for most of his life, producing charcoal used by blacksmiths and households alike. The work is physically demanding and dangerous, involving long hours and exposure to smoke and fire, but Drethar takes pride in his craft. He is known as a hardworking and gruff man, though his stubborn nature sometimes gets him into conflicts.
 
@@ -418,15 +418,15 @@ Physically strong and experienced in handling firewood and charcoal.
 
 ## Social
 
-Drethar is affiliated with Woodworkers' Guild.
+Drethar is affiliated with the [Woodworkers' Guild]{.name data-type="affiliation/guild"}.
 
-As a Élavendri charcoaler, Drethar occupies a recognized social niche within Élavendre society.
+As an Élavendri charcoaler, Drethar occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Drethar's primary patron is Local blacksmiths and villagers who purchase his charcoal. This relationship provides both opportunity and obligation.
+Drethar's primary patrons are local blacksmiths and villagers who purchase his charcoal. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

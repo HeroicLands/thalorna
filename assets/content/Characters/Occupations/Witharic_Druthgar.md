@@ -402,7 +402,7 @@ Wítharik yra Druthgar wur Waldburg is a 38-year-old man who stands 6'0" tall an
 
 # Dossier {#dossier}
 
-Born at [[place-waldburg|Waldburg]] to a Varokh boatbuilding family, Wítharik came into the world of the shipwright through a combination of circumstance and aptitude.
+Born at [[place-waldburg|Waldburg]] to a [[lore-varokhiclt|Varokhi]] boatbuilding family, Wítharik came into the world of the shipwright through a combination of circumstance and aptitude.
 
 Wítharik hails from a long line of shipwrights and inherited his family's business. He builds river-boats prized for carrying people and cargo through the shallow forest channels. Wítharik is a hard worker but struggles with the administrative side of the business. His temper can flare when things don't go according to plan, especially with clients who constantly change their requirements.
 
@@ -436,7 +436,7 @@ Crews who quarrel over a boat's share of the toll before he has finished buildin
 
 ## Plot Hooks
 
-1. **The Shipwright's Dilemma**—Wítharik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vristwald.
+1. **The Shipwright's Dilemma**—Wítharik faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in [[place-vrystwald|Vristwald]].
 
 2. **Old Grudges**—A boat crew blames Wítharik for a broken hull and refuses to pay, though its captain drove the boat onto the stones.
 

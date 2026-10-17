@@ -396,7 +396,7 @@ Júbenos Safithes is a 32-year-old man who stands 5'7" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a guilded family of Helionite heritage, Júbenos Safithes came into the world of the courtesan through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a guilded family of [[lore-helioniteclt|Helionite]] heritage, Júbenos Safithes came into the world of the courtesan through a combination of circumstance and aptitude.
 
 Júbenos began his career as an actor, but his good looks and silver tongue eventually led him to a more lucrative path as a courtesan. He is known for his charm and wit, often accompanying wealthy clients to social events where his conversation skills shine. Júbenos enjoys the finer things in life but keeps his true feelings guarded, never allowing himself to become too attached.
 
@@ -416,7 +416,7 @@ Charismatic, skilled in conversation, understands high society etiquette.
 
 ## Social
 
-Júbenos is affiliated with Formerly associated with a theater troupe.
+Júbenos was formerly associated with a theater troupe.
 
 As a Helionite courtesan, Júbenos occupies a recognized social niche within Helionis society.
 
@@ -424,7 +424,7 @@ As a Helionite courtesan, Júbenos occupies a recognized social niche within Hel
 
 ### Patrons
 
-Júbenos's primary patron is Nobles and wealthy socialites who seek his company. This relationship provides both opportunity and obligation.
+Júbenos's primary patrons are nobles and wealthy socialites who seek his company. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

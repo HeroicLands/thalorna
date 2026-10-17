@@ -395,7 +395,7 @@ Sundwira yra Hildvith wur Frithhaven is a 26-year-old woman who stands 5'9" tall
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Sundwira came into the world of the ostler through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Sundwira came into the world of the ostler through a combination of circumstance and aptitude.
 
 Sundwira has worked as an ostler for many years, focusing on the health and well-being of horses. She is known for her ability to identify problems early, ensuring that horses remain in peak condition. Sundwira often assists travelers in saddling their horses and provides advice on care and feeding. Her reputation for excellence has earned her the trust of both locals and visiting merchants.
 

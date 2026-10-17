@@ -397,7 +397,7 @@ Flurnvir Glarvumak is a 31-year-old man who stands 5'6" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn heritage, Flurnvir Glarvumak came into the world of the jeweler through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a guilded family of [[lore-nordheimnclt|Nordheimn]] heritage, Flurnvir Glarvumak came into the world of the jeweler through a combination of circumstance and aptitude.
 
 Flurnvir comes from a family of skilled artisans and has dedicated his life to mastering the art of gem cutting and jewelry making. He is known for his attention to detail and ability to bring out the beauty of each stone he works with. Flurnvir runs his own shop, where he creates exquisite pieces that attract both commoners and nobles alike. His passion for his craft is evident in every piece he produces.
 
@@ -417,7 +417,7 @@ Highly skilled in gem cutting, creative, good business sense.
 
 ## Social
 
-Flurnvir is affiliated with Local Jewelers' Guild.
+Flurnvir is affiliated with the local [Jewelers' Guild]{.name data-type="affiliation/guild"}.
 
 As a Nordheimn jeweler, Flurnvir occupies a recognized social niche within Nordheim society.
 
@@ -425,7 +425,7 @@ As a Nordheimn jeweler, Flurnvir occupies a recognized social niche within Nordh
 
 ### Patrons
 
-Flurnvir's primary patron is Local nobles and affluent merchants. This relationship provides both opportunity and obligation.
+Flurnvir's primary patrons are local nobles and affluent merchants. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

@@ -395,7 +395,7 @@ Gharidos Murades is a 26-year-old man who stands 6'3" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Gharidos Murades came into the world of the longshoreman through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Gharidos Murades came into the world of the longshoreman through a combination of circumstance and aptitude.
 
 Gharidos has spent the last decade working on the docks, where he has become a vital part of the shipping and cargo handling operations. Known for his strength and reliability, he often takes on the heaviest loads and is responsible for ensuring that cargo is loaded and unloaded safely and efficiently. Gharidos enjoys the camaraderie of his fellow workers and takes pride in the essential role he plays in trade.
 
@@ -415,7 +415,7 @@ Physically strong, dependable, good at teamwork.
 
 ## Social
 
-Gharidos is affiliated with Local Longshoremen's Union.
+Gharidos is affiliated with the local [Longshoremen's Union]{.name data-type="affiliation"}.
 
 As a Helionite longshoreman, Gharidos occupies a recognized social niche within Helionis society.
 
@@ -423,7 +423,7 @@ As a Helionite longshoreman, Gharidos occupies a recognized social niche within 
 
 ### Patrons
 
-Gharidos's primary patron is Ship captains and cargo merchants. This relationship provides both opportunity and obligation.
+Gharidos's primary patrons are ship captains and cargo merchants. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

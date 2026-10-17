@@ -398,7 +398,7 @@ Zádimeros Makithon is a 45-year-old man who stands 5'6" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a guilded family of Helionite heritage, Zádimeros Makithon came into the world of the cartographer/artist through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a guilded family of [[lore-helioniteclt|Helionite]] heritage, Zádimeros Makithon came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
 Zádimeros is a skilled cartographer known for his detailed maps of the surrounding region. Originally trained as an artist, he turned to mapmaking when he realized the lucrative opportunities it offered. His work is sought after by merchants, explorers, and nobles alike, though he has also been accused of selling sensitive maps to rival factions.
 
@@ -418,7 +418,7 @@ Highly skilled in drawing and mapmaking, excellent attention to detail.
 
 ## Social
 
-Zádimeros is affiliated with Cartographers' Guild.
+Zádimeros is affiliated with the [Cartographers' Guild]{.name data-type="affiliation/guild"}.
 
 As a Helionite cartographer/artist, Zádimeros occupies a recognized social niche within Helionis society.
 
@@ -426,7 +426,7 @@ As a Helionite cartographer/artist, Zádimeros occupies a recognized social nich
 
 ### Patrons
 
-Zádimeros's primary patron is Nobles and wealthy merchants who commission his maps. This relationship provides both opportunity and obligation.
+Zádimeros's primary patrons are nobles and wealthy merchants who commission his maps. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

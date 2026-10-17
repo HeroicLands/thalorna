@@ -394,7 +394,7 @@ Ilvena Ralven is a 23-year-old woman who stands 5'8" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia]] region to a minor noble family of Provenzian heritage, Ilvena Ralven came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia Region]] to a minor noble family of [[lore-provenzianclt|Provenzian]] heritage, Ilvena Ralven came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
 
 Ilvena is a minor noble with a keen interest in the arts and local governance. She is known for her charitable contributions to the community and her ability to connect with the common folk. Ilvena often hosts gatherings at her estate to promote local artists and musicians, and she advocates for education and the welfare of her people. Her warm demeanor and passion for philanthropy have made her popular among her peers and the populace.
 
@@ -414,15 +414,15 @@ Charismatic, compassionate, skilled in diplomacy.
 
 ## Social
 
-Ilvena is affiliated with Local Nobility Council.
+Ilvena is affiliated with the local [Nobility Council]{.name data-type="affiliation/governmental"}.
 
-As a Provenzian nobility (courtier), Ilvena occupies a recognized social niche within Provenzia society.
+As a Provenzian courtier, Ilvena occupies a recognized social niche within Provenzia society.
 
 ## Companions
 
 ### Patrons
 
-Ilvena's primary patron is Local artists and craftsmen seeking support. This relationship provides both opportunity and obligation.
+Ilvena's primary patrons are local artists and craftsmen seeking support. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

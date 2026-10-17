@@ -400,9 +400,9 @@ Ralva Salreth is a 32-year-old woman who stands 5'7" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a noble family of Élavendri heritage, Ralva Salreth came into the world of the pilot through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a noble family of [[lore-elavendriclt|Élavendri]] heritage, Ralva Salreth came into the world of the pilot through a combination of circumstance and aptitude.
 
-Captain Elysia is an experienced pilot known for her navigation skills and calm demeanor in the cockpit. She has piloted various types of airships and is respected in the aviation community for her expertise. Elysia is dedicated to safety and often mentors younger pilots, sharing her knowledge of flight techniques and navigation. She enjoys the thrill of flying and is always eager to explore new routes and destinations.
+Captain Ralva is an experienced pilot known for her navigation skills and calm demeanor in the cockpit. She has piloted various types of airships and is respected in the aviation community for her expertise. Ralva is dedicated to safety and often mentors younger pilots, sharing her knowledge of flight techniques and navigation. She enjoys the thrill of flying and is always eager to explore new routes and destinations.
 
 ## Psyche
 
@@ -420,15 +420,15 @@ Highly skilled navigator, composed under pressure, good mentor.
 
 ## Social
 
-Ralva is affiliated with Local Pilots' Guild.
+Ralva is affiliated with the local [Pilots' Guild]{.name data-type="affiliation/guild"}.
 
-As a Élavendri pilot, Ralva occupies a recognized social niche within Élavendre society.
+As an Élavendri pilot, Ralva occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Ralva's primary patron is Merchants and adventurers seeking reliable air travel. This relationship provides both opportunity and obligation.
+Ralva's primary patrons are merchants and adventurers seeking reliable air travel. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

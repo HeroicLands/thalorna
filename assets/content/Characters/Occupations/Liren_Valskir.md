@@ -398,7 +398,7 @@ Liren Valskir is a 38-year-old woman who stands 6'0" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Liren Valskir came into the world of the domestic servant through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia Region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Liren Valskir came into the world of the domestic servant through a combination of circumstance and aptitude.
 
 Liren has worked in service since she was a teenager, starting as a scullery maid and eventually rising to the position of housekeeper for a prominent family. She is organized and meticulous, managing the other servants and ensuring the household runs smoothly. Despite her hard work, she often feels undervalued.
 
@@ -418,7 +418,7 @@ Highly organized, skilled in household management, reliable.
 
 ## Social
 
-Liren is affiliated with None; dedicated to her job.
+Liren is affiliated with none; she is dedicated to her job.
 
 As a Provenzian domestic servant, Liren occupies a recognized social niche within Provenzia society.
 
@@ -426,7 +426,7 @@ As a Provenzian domestic servant, Liren occupies a recognized social niche withi
 
 ### Patrons
 
-Liren's primary patron is Her current employer, who trusts her to manage the household. This relationship provides both opportunity and obligation.
+Liren's primary patron is her current employer, who trusts her to manage the household. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

@@ -394,9 +394,9 @@ Lirena Tolgen is a 30-year-old woman who stands 5'8" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia]] region to a freeman family of Provenzian heritage, Lirena Tolgen came into the world of the skald through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia Region]] to a freeman family of [[lore-provenzianclt|Provenzian]] heritage, Lirena Tolgen came into the world of the skald through a combination of circumstance and aptitude.
 
-Lirena is known as "Tolgen" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old Nordmen mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Lirena sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
+Lirena is known as "Tolgen" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old [[lore-nordheimnclt|Nordheimn]] mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Lirena sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
 
 ## Psyche
 
@@ -414,7 +414,7 @@ Charismatic, skilled in poetry and oral storytelling, expressive.
 
 ## Social
 
-Lirena is affiliated with Nordland Skalds' Guild.
+Lirena is affiliated with [[affiliation-skaldscrcl|The Skalds' Circle]], the Nordland Skalds' Guild.
 
 As a Provenzian skald, Lirena occupies a recognized social niche within Provenzia society.
 
@@ -422,7 +422,7 @@ As a Provenzian skald, Lirena occupies a recognized social niche within Provenzi
 
 ### Patrons
 
-Lirena's primary patron is Nordland leaders and wealthy families who value her craft. This relationship provides both opportunity and obligation.
+Lirena's primary patrons are Nordland leaders and wealthy families who value her craft. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

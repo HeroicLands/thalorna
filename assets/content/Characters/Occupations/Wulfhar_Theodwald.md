@@ -392,9 +392,9 @@ Dorghár yra Theodwald wur Thornhaven is a 26-year-old man who stands 6'1" tall 
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Dorghár came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Dorghár came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Dorghár is known for his intimidating presence and fearlessness in battle. He guards Thornhaven with its war-band and has built a reputation as a reliable protector. He trains younger fighters beside the people who have fought with him for years. While he thrives in battle, he struggles to express his emotions outside it.
+Dorghár is known for his intimidating presence and fearlessness in battle. He guards [[place-thornhaven|Thornhaven]] with its war-band and has built a reputation as a reliable protector. He trains younger fighters beside the people who have fought with him for years. While he thrives in battle, he struggles to express his emotions outside it.
 
 ## Psyche
 

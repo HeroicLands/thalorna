@@ -400,9 +400,9 @@ Velmar Gútharen is a 52-year-old man who stands 6'1" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Velmar Gútharen is a glassworker of Herthema, in [[place-tarvenirgn|Tarvénia]], a Tarvenan freeman who has blown bottles, jars and window-glass in the same furnace-house for more than thirty years.
+Velmar Gútharen is a glassworker of [[place-herthema|Herthema]], in the [[place-tarvenirgn|Tarvénia Region]], a [[lore-tarvenanclt|Tarvenan]] freeman who has blown bottles, jars and window-glass in the same furnace-house for more than thirty years.
 
-Velmar was apprenticed at fourteen to a master who made plain ware for a fortified town that needed it—jars that seal, bottles that survive a cart, panes that keep the wind out of a garrison's windows—and he makes the same ware now, by the same methods, to the same standard. He has no interest in the colored and figured glass that the younger masters of Herthema have begun to make in the Provenzian style for the merchants' houses. He speaks for the old standard in the guild, where he is respected as a master and regarded as a brake.
+Velmar was apprenticed at fourteen to a master who made plain ware for a fortified town that needed it—jars that seal, bottles that survive a cart, panes that keep the wind out of a garrison's windows—and he makes the same ware now, by the same methods, to the same standard. He has no interest in the colored and figured glass that the younger masters of Herthema have begun to make in the [[lore-provenzianclt|Provenzian]] style for the merchants' houses. He speaks for the old standard in the guild, where he is respected as a master and regarded as a brake.
 
 ## Psyche
 
@@ -420,7 +420,7 @@ Highly skilled in traditional glassworking, experienced, dependable.
 
 ## Social
 
-Velmar is a master of the Glassworkers' Guild of Herthema and has sat on its bench for a decade.
+Velmar is a master of the [Glassworkers' Guild of Herthema]{.name data-type="affiliation/guild"} and has sat on its bench for a decade.
 
 ## Companions
 
@@ -430,7 +430,7 @@ Velmar's patrons are the merchants, vintners and craftsmen of Herthema who need 
 
 ### Enemies
 
-The younger masters of Herthema who make figured glass for the merchants' houses, and one in particular, trained in Provenzia, who has begun to take the commissions Velmar used to hold and to call his work peasant ware.
+The younger masters of Herthema who make figured glass for the merchants' houses, and one in particular, trained in the [[place-provenzrgn|Provenzia Region]], who has begun to take the commissions Velmar used to hold and to call his work peasant ware.
 
 ## Plot Hooks
 

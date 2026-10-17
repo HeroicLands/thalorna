@@ -397,9 +397,9 @@ Niburan Fusanuni is a 42-year-old man who stands 6'1" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Niburan Fusanuni is a gladiator of Sharimun, in Taruzel, a Taruzelian freeman who was sent to the arena as a convict and stayed in it as a free man.
+Niburan Fusanuni is a gladiator of [[place-sharimun|Sharimun]], in the [[place-taruzelrgn|Taruzel Region]], a [[lore-taruzelianclt|Taruzelian]] freeman who was sent to the arena as a convict and stayed in it as a free man.
 
-Niburan began as a laborer in the quarries above the port. At thirty, in the first year of the Confederation, he was accused of theft from the quarry-master's strongbox, a crime he did not commit, and a magistrate of the kind the new guild government was then appointing sentenced him to the arena. Instead his strength carried him through five years of fights, until the arena-master petitioned for his freedom because a champion earns more than a convict. He has fought as a free man since, for the purse and the crowd's regard, and he has not forgotten the name of the man who accused him.
+Niburan began as a laborer in the quarries above the port. At thirty, in the first year of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], he was accused of theft from the quarry-master's strongbox, a crime he did not commit, and a magistrate of the kind the new guild government was then appointing sentenced him to the arena. Instead his strength carried him through five years of fights, until the arena-master petitioned for his freedom because a champion earns more than a convict. He has fought as a free man since, for the purse and the crowd's regard, and he has not forgotten the name of the man who accused him.
 
 ## Psyche
 
@@ -417,7 +417,7 @@ Strong, skilled with heavy weapons, hard to put down.
 
 ## Social
 
-Niburan belongs to the Gladiators' Guild of Sharimun, which registers his fights and takes its share of every purse.
+Niburan belongs to the [Gladiators' Guild of Sharimun]{.name data-type="affiliation/guild"}, which registers his fights and takes its share of every purse.
 
 ## Companions
 

@@ -400,7 +400,7 @@ Nulthinda Eldskari is a 28-year-old woman who stands 6'0" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn heritage, Nulthinda Eldskari came into the world of the laborer (farm) through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a freeman family of [[lore-nordheimnclt|Nordheimn]] heritage, Nulthinda Eldskari came into the world of the laborer (farm) through a combination of circumstance and aptitude.
 
 Nulthinda grew up in a family of laborers, working the fields from a young age. She is strong and capable, often taking on physically demanding tasks such as lifting and carrying heavy loads. Nulthinda is known for her reliability and work ethic, making her a valued member of any crew. Despite the hard labor, she finds satisfaction in her work and enjoys the camaraderie with her fellow workers.
 
@@ -420,7 +420,7 @@ Strong and resilient, excellent teamwork skills, dependable.
 
 ## Social
 
-Nulthinda is affiliated with Local Laborers' Union.
+Nulthinda is affiliated with the local [Laborers' Union]{.name data-type="affiliation"}.
 
 As a Nordheimn laborer (farm), Nulthinda occupies a recognized social niche within Nordheim society.
 
@@ -428,7 +428,7 @@ As a Nordheimn laborer (farm), Nulthinda occupies a recognized social niche with
 
 ### Patrons
 
-Nulthinda's primary patron is Local farmers and builders who hire her for various projects. This relationship provides both opportunity and obligation.
+Nulthinda's primary patrons are local farmers and builders who hire her for various projects. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

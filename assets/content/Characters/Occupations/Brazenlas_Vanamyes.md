@@ -400,9 +400,9 @@ Brazenlas Vanamyes is a 52-year-old man who stands 6'0" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Brazenlas Vanamyes is an embalmer of Korvenara, the garrison town in the Alessan heartland of [[place-vylariargn|Vylaria]], a Vylarian freeman and the third of his line in the trade, who has prepared the dead of the town and its garrison for thirty years by his grandfather's methods.
+Brazenlas Vanamyes is an embalmer of [[place-corvinus|Korvenara]], the garrison town in the Alessan heartland of the [[place-vylariargn|Vylaria Region]], a [[lore-vylarianclt|Vylarian]] freeman and the third of his line in the trade, who has prepared the dead of the town and its garrison for thirty years by his grandfather's methods.
 
-Brazenlas holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the guild, who use the quicker preparations from Orzara, find him a reproach.
+Brazenlas holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the guild, who use the quicker preparations from [[place-orzara|Orzara City]], find him a reproach.
 
 ## Psyche
 
@@ -420,7 +420,7 @@ Experienced, skilled in the traditional rites and preservations, wholly dedicate
 
 ## Social
 
-Brazenlas is a master of the Morticians' Guild of Korvenara and attends its meetings to vote against every change in method.
+Brazenlas is a master of the [Morticians' Guild of Korvenara]{.name data-type="affiliation/guild"} and attends its meetings to vote against every change in method.
 
 ## Companions
 

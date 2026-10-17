@@ -398,7 +398,7 @@ Malsa Nareth is a 28-year-old woman who stands 5'10" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Malsa Nareth came into the world of the herder through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Malsa Nareth came into the world of the herder through a combination of circumstance and aptitude.
 
 Malsa grew up on a small farm, learning the art of herding from her father. She specializes in caring for a large flock of sheep, guiding them to the best pastures and ensuring their health. Known for her gentle touch and patience, Malsa has a knack for understanding animal behavior. While she loves her work, she dreams of one day owning her own land and expanding her flock.
 
@@ -418,15 +418,15 @@ Empathetic toward animals, skilled in herding techniques, quick learner.
 
 ## Social
 
-Malsa is affiliated with None; works independently.
+Malsa is affiliated with none; she works independently.
 
-As a Élavendri herder, Malsa occupies a recognized social niche within Élavendre society.
+As an Élavendri herder, Malsa occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Malsa's primary patron is Local families who purchase her wool and lambs. This relationship provides both opportunity and obligation.
+Malsa's primary patrons are local families who purchase her wool and lambs. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

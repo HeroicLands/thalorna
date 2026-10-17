@@ -398,7 +398,7 @@ Harperos Varkratis is a 39-year-old man who stands 5'11" tall and is of moderate
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Harperos Varkratis came into the world of the yeoman archer through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria Region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Harperos Varkratis came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
 Harperos has been a yeoman archer for most of his adult life. He has extensive experience in both hunting and military service, making him a valuable asset to the local militia. Harperos prefers to stay out of the limelight, quietly doing his duty and teaching younger archers. His calm demeanor makes him a natural leader, though he rarely seeks the role.
 
@@ -426,7 +426,7 @@ As a Vylarian yeoman archer, Harperos occupies a recognized social niche within 
 
 ### Patrons
 
-Harperos's primary patron is The local lord who values his consistency and reliability. This relationship provides both opportunity and obligation.
+Harperos's primary patron is the local lord who values his consistency and reliability. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

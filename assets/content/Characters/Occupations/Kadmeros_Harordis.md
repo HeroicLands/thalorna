@@ -396,7 +396,7 @@ Kadmeros Harordis is a 38-year-old man who stands 6'1" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Kadmeros Harordis came into the world of the woodcrafter through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria Region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Kadmeros Harordis came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
 Kadmeros has been working with wood since he was a boy, learning the craft from his father in a small village surrounded by forests. His skills lie in crafting furniture, tools, and decorative items from local hardwoods. Known for his carvings and quality craftsmanship, Kadmeros is proud of his trade, though he often struggles to find steady customers in a small community.
 
@@ -416,7 +416,7 @@ Skilled in woodworking, detailed carving, and finishing techniques.
 
 ## Social
 
-Kadmeros is affiliated with None; works independently in his family workshop.
+Kadmeros is affiliated with none; he works independently in his family workshop.
 
 As a Vylarian woodcrafter, Kadmeros occupies a recognized social niche within Vylaria society.
 
@@ -424,7 +424,7 @@ As a Vylarian woodcrafter, Kadmeros occupies a recognized social niche within Vy
 
 ### Patrons
 
-Kadmeros's primary patron is Local villagers and travelers who appreciate handmade wooden items. This relationship provides both opportunity and obligation.
+Kadmeros's primary patrons are local villagers and travelers who appreciate handmade wooden items. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

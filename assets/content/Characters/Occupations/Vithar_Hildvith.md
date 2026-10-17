@@ -400,7 +400,7 @@ Vithár yra Hildvith wur Waldburg is a 47-year-old man who stands 6'3" tall and 
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Vithár came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Vithár came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
 
 Vithár grew up in a small village, where he learned the basics of blacksmithing from his father. He later ventured into weaponcrafting and developed a reputation for crafting sturdy, reliable weapons. Vithár focuses on creating functional weapons with no frills, catering mainly to soldiers and mercenaries. He is practical and down-to-earth but often clashes with weaponcrafters who emphasize aesthetics over durability.
 
@@ -420,7 +420,7 @@ Skilled at forging durable weapons, strong work ethic, reliable.
 
 ## Social
 
-Vithár forges arms for Waldburg’s households and visiting war-bands. His standing comes from the blades that survive use and the bargains he keeps with each buyer.
+Vithár forges arms for [[place-waldburg|Waldburg]]’s households and visiting war-bands. His standing comes from the blades that survive use and the bargains he keeps with each buyer.
 
 ## Companions
 

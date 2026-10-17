@@ -398,7 +398,7 @@ Jadharos Basiron is a 26-year-old man who stands 6'2" tall and is of moderate bu
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of Helionite heritage, Jadharos Basiron came into the world of the common seaman through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Jadharos Basiron came into the world of the common seaman through a combination of circumstance and aptitude.
 
 Jadharos is an experienced seaman who has spent years sailing the coastal waters. Known for his reliability and work ethic, he is often called upon to handle various tasks aboard the ship. Jadharos is well-liked by his crewmates for his sense of humor and ability to lift spirits during long voyages. He dreams of one day becoming a captain himself.
 
@@ -418,7 +418,7 @@ Skilled in navigation and sailing, good teamwork, strong physical endurance.
 
 ## Social
 
-Jadharos is affiliated with None; works as a hired hand.
+Jadharos is affiliated with none; he works as a hired hand.
 
 As a Helionite common seaman, Jadharos occupies a recognized social niche within Helionis society.
 
@@ -426,7 +426,7 @@ As a Helionite common seaman, Jadharos occupies a recognized social niche within
 
 ### Patrons
 
-Jadharos's primary patron is Ship captains and merchants requiring crew members. This relationship provides both opportunity and obligation.
+Jadharos's primary patrons are ship captains and merchants requiring crew members. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

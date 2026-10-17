@@ -397,7 +397,7 @@ Edrigar yra Sundreth wur Falkenstein is a 45-year-old man who stands 6'1" tall a
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Edrigar came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Edrigar came into the world of the miner through a combination of circumstance and aptitude.
 
 Edrigar is a veteran miner with decades of experience in the field. He has worked in various mines and has a deep understanding of geology and extraction methods. Known for his wisdom and mentoring abilities, Edrigar often trains younger miners and shares his knowledge of the trade. He values the importance of safety and has fought for better conditions in the mines.
 
@@ -417,7 +417,7 @@ Highly knowledgeable, excellent mentor, strong work ethic.
 
 ## Social
 
-Edrigar works the stony ground near Falkenstein with a few relatives and neighbors. A promising seam draws help by bargain, not by orders from a miners’ union.
+Edrigar works the stony ground near [[place-falkensten|Falkenstein]] with a few relatives and neighbors. A promising seam draws help by bargain, not by orders from a miners’ union.
 
 ## Companions
 

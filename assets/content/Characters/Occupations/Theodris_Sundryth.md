@@ -393,9 +393,9 @@ Theodris yra Sundreth wur Grimholt is a 29-year-old woman who stands 5'3" tall a
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Theodris came into the world of the beggar through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Theodris came into the world of the beggar through a combination of circumstance and aptitude.
 
-Theodris was left to fend for herself at a young age after her mother passed away. She learned to survive around Grimholt's landing, using her wits to find food and avoid trouble. Her singing voice has brought her occasional favor, though she still struggles to find a household willing to take her in.
+Theodris was left to fend for herself at a young age after her mother passed away. She learned to survive around [[place-grimholt|Grimholt]]'s landing, using her wits to find food and avoid trouble. Her singing voice has brought her occasional favor, though she still struggles to find a household willing to take her in.
 
 ## Psyche
 

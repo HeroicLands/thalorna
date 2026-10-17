@@ -401,7 +401,7 @@ Kruldorv Drottgar is a 31-year-old man who stands 6'3" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to an enslaved family of Nordheimn heritage, Kruldorv Drottgar came into the world of the farmer through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to an enslaved family of [[lore-nordheimnclt|Nordheimn]] heritage, Kruldorv Drottgar came into the world of the farmer through a combination of circumstance and aptitude.
 
 Kruldorv was born into slavery on a large estate, where he has spent his entire life working in the fields and performing hard labor. Despite his harsh circumstances, he maintains a sense of resilience and holds onto the hope of freedom. Kruldorv is known for his physical strength and endurance, but his defiance has occasionally gotten him into trouble with his overseers.
 
@@ -421,7 +421,7 @@ Physically strong, resilient, skilled in farm labor.
 
 ## Social
 
-Kruldorv is affiliated with None; lacks freedom to associate with groups.
+Kruldorv is affiliated with none; he lacks freedom to associate with groups.
 
 As a Nordheimn farmer, Kruldorv occupies a recognized social niche within Nordheim society.
 
@@ -429,7 +429,7 @@ As a Nordheimn farmer, Kruldorv occupies a recognized social niche within Nordhe
 
 ### Patrons
 
-Kruldorv's primary patron is None; seen merely as property by his owners. This relationship provides both opportunity and obligation.
+Kruldorv's primary patron is none; he is seen merely as property by his owners. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

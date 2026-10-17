@@ -397,7 +397,7 @@ Glarvorv Steinblet is a 31-year-old man who stands 5'7" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn heritage, Glarvorv Steinblet came into the world of the perfumer through a combination of circumstance and aptitude.
+Born in the [[place-nordheim|Nordheim]] region to a noble family of [[lore-nordheimnclt|Nordheimn]] heritage, Glarvorv Steinblet came into the world of the perfumer through a combination of circumstance and aptitude.
 
 Glarvorv is a well known perfumer who specializes in crafting bold and exotic scents. He is known for using unconventional ingredients, often sourcing rare plants and flowers from distant lands. Glarvorv has developed a reputation for his artistic approach to perfumery and has garnered a loyal clientele. He enjoys the challenge of creating scents that evoke powerful emotions and memories.
 
@@ -417,7 +417,7 @@ Innovative, highly knowledgeable about exotic ingredients, great at storytelling
 
 ## Social
 
-Glarvorv is affiliated with Local Artisans' Guild.
+Glarvorv is affiliated with the local [Artisans' Guild]{.name data-type="affiliation/guild"}.
 
 As a Nordheimn perfumer, Glarvorv occupies a recognized social niche within Nordheim society.
 
@@ -425,7 +425,7 @@ As a Nordheimn perfumer, Glarvorv occupies a recognized social niche within Nord
 
 ### Patrons
 
-Glarvorv's primary patron is Nobles and adventurers seeking unique fragrances. This relationship provides both opportunity and obligation.
+Glarvorv's primary patrons are nobles and adventurers seeking unique fragrances. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

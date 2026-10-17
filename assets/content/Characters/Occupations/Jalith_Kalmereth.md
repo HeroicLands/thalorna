@@ -397,7 +397,7 @@ Jalith Kálmereth is a 33-year-old woman who stands 5'8" tall and is of moderate
 
 # Dossier {#dossier}
 
-Jalith Kálmereth is a traveling bard of [[place-elavendre|Élavendre]], born at Liranel to an Élavendri family of performers, who sings the ballads of the common folk from village to village and comes home to the timber town only between roads.
+Jalith Kálmereth is a traveling bard of [[place-elavendre|Élavendre]], born at [[place-liranel|Liranel]] to an [[lore-elavendriclt|Élavendri]] family of performers, who sings the ballads of the common folk from village to village and comes home to the timber town only between roads.
 
 Jalith was given the name "Kálmereth" for the clarity of her voice, and has kept it. Her own songs are ballads of love and loss, and Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there, and she has never stayed; the formalities of court sit badly on her and she says so.
 
@@ -417,7 +417,7 @@ Skilled singer, emotionally expressive, at ease with common people.
 
 ## Social
 
-Jalith belongs to the Minstrels' Guild, which gives her the right to sing for pay in any Élavendri market.
+Jalith belongs to the [Minstrels' Guild]{.name data-type="affiliation/guild"}, which gives her the right to sing for pay in any Élavendri market.
 
 ## Companions
 
@@ -431,7 +431,7 @@ The court bards of Élavendre, who call her a simple minstrel because she sings 
 
 ## Plot Hooks
 
-1. **A Hall for Good**—A lord of the Lirve country has offered Jalith a permanent place in his household, on condition that she stops traveling. She has said no twice and he has begun asking why.
+1. **A Hall for Good**—A lord of the [[place-lirve|Lirve]] country has offered Jalith a permanent place in his household, on condition that she stops traveling. She has said no twice and he has begun asking why.
 
 2. **The Stolen Lament**—A court bard has performed one of Jalith's laments as his own before the Crown, and it has made his name. The guild will hear a complaint only if she can prove authorship of a song she never wrote down.
 

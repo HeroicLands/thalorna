@@ -397,9 +397,9 @@ Sharrush Khamisuni is a 51-year-old man who stands 5'8" tall and is broad and so
 
 # Dossier {#dossier}
 
-Born in the Taruzel region to a guilded family of Taruzelian heritage, Sharrush Khamisuni came into the world of the locksmith through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel Region]] to a guilded family of [[lore-taruzelianclt|Taruzelian]] heritage, Sharrush Khamisuni came into the world of the locksmith through a combination of circumstance and aptitude.
 
-Sharrush has been a locksmith for over three decades, earning a reputation for his high-quality work and innovative designs. He has seen the trade change over the years and adapted by incorporating new techniques and materials. Sharrush is well-respected in the community and often shares his knowledge with young apprentices, believing in the importance of passing down skills. He has a strong sense of ethics and refuses to work with anyone associated with the Thieves Guild.
+Sharrush has been a locksmith for over three decades, earning a reputation for his high-quality work and innovative designs. He has seen the trade change over the years and adapted by incorporating new techniques and materials. Sharrush is well-respected in the community and often shares his knowledge with young apprentices, believing in the importance of passing down skills. He has a strong sense of ethics and refuses to work with anyone associated with the [Thieves Guild]{.name data-type="affiliation/criminal"}.
 
 ## Psyche
 
@@ -417,7 +417,7 @@ Highly experienced, skilled craftsman, knowledgeable mentor.
 
 ## Social
 
-Sharrush is affiliated with Local Locksmiths' Guild.
+Sharrush is affiliated with the local [Locksmiths' Guild]{.name data-type="affiliation/guild"}.
 
 As a Taruzelian locksmith, Sharrush occupies a recognized social niche within Taruzel society.
 
@@ -425,7 +425,7 @@ As a Taruzelian locksmith, Sharrush occupies a recognized social niche within Ta
 
 ### Patrons
 
-Sharrush's primary patron is Nobles and local businesses who value his craftsmanship. This relationship provides both opportunity and obligation.
+Sharrush's primary patrons are nobles and local businesses who value his craftsmanship. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

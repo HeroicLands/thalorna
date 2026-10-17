@@ -400,7 +400,7 @@ Harekos Baremzator is a 58-year-old man who stands 5'9" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Harekos Baremzator is a thatcher of Korvenara, the garrison town in the Alessa country of [[place-vylariargn|Vylaria]], a Vylarian freeman who has roofed the farms around the town for more than forty years.
+Harekos Baremzator is a thatcher of [[place-corvinus|Korvenara]], the garrison town in the [[place-alyssa|Alessa]] country of the [[place-vylariargn|Vylaria Region]], a [[lore-vylarianclt|Vylarian]] freeman who has roofed the farms around the town for more than forty years.
 
 Harekos went up his first ladder as a boy behind his father and grandfather, and the reed he lays is cut, dried and dressed the way they laid it. The town inside its walls is tiled; the country round it is not, and every barn, byre and cottage for a day's ride has a Baremzator roof on it or has needed one. He works with his grandchildren on the ladders now, more slowly than he did, and talks while he works: the farms he has roofed, the storms that took roofs he did not lay, the year the legion's stores burned.
 
@@ -420,7 +420,7 @@ Long experience, skilled in the old thatching methods, a good teacher.
 
 ## Social
 
-Harekos holds his master's seal from the Thatchers' Guild of Korvenara, as every trade in Vylaria is chartered, and has sat among its senior masters for twenty years.
+Harekos holds his master's seal from the [Thatchers' Guild of Korvenara]{.name data-type="affiliation/guild"}, as every trade in Vylaria is chartered, and has sat among its senior masters for twenty years.
 
 ## Companions
 
@@ -430,7 +430,7 @@ Harekos's patrons are the farmers of the Korvenara country, who want a roof that
 
 ### Enemies
 
-A younger master of the guild who lays reed the Hilen way, faster and cheaper, and has proposed it as the guild's standard.
+A younger master of the guild who lays reed the [[place-hylen|Hilen]] way, faster and cheaper, and has proposed it as the guild's standard.
 
 ## Plot Hooks
 

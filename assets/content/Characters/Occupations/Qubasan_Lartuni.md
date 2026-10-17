@@ -396,7 +396,7 @@ Kubasan Lartuni is a 30-year-old man who stands 6'0" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the Taruzel region to a freeman family of Taruzelian heritage, Kubasan Lartuni came into the world of the scribe through a combination of circumstance and aptitude.
+Born in the [[place-taruzelrgn|Taruzel Region]] to a freeman family of [[lore-taruzelianclt|Taruzelian]] heritage, Kubasan Lartuni came into the world of the scribe through a combination of circumstance and aptitude.
 
 Kubasan is a humble scribe who works in a small village, transcribing important documents and maintaining records for the local community. He is known for his friendly demeanor and willingness to help others, often offering his services to those who cannot afford them. Kubasan values the preservation of knowledge and is dedicated to ensuring that important information is recorded accurately for future generations.
 
@@ -416,7 +416,7 @@ Friendly and approachable, skilled in transcription, community-oriented.
 
 ## Social
 
-Kubasan is affiliated with Local Scribes' Guild.
+Kubasan is affiliated with the local [Scribes' Guild]{.name data-type="affiliation/guild"}.
 
 As a Taruzelian scribe, Kubasan occupies a recognized social niche within Taruzel society.
 
@@ -424,7 +424,7 @@ As a Taruzelian scribe, Kubasan occupies a recognized social niche within Taruze
 
 ### Patrons
 
-Kubasan's primary patron is Local villagers, farmers, and tradespeople seeking documentation. This relationship provides both opportunity and obligation.
+Kubasan's primary patrons are local villagers, farmers, and tradespeople seeking documentation. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

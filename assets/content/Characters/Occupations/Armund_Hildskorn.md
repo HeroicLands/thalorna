@@ -395,9 +395,9 @@ Armund yra Hildskorn wur Falkenstein is a 26-year-old man who stands 5'7" tall a
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Armund came into the world of the jester through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Armund came into the world of the jester through a combination of circumstance and aptitude.
 
-Armund grew up among the halls and landing places of Falkenstein, using humor and wit to entertain those around him. His wordplay, acrobatics and mimicry have made him welcome at more than one hearth. He travels between village feasts and market gatherings, though his cheer often masks deeper insecurities.
+Armund grew up among the halls and landing places of [[place-falkensten|Falkenstein]], using humor and wit to entertain those around him. His wordplay, acrobatics and mimicry have made him welcome at more than one hearth. He travels between village feasts and market gatherings, though his cheer often masks deeper insecurities.
 
 ## Psyche
 

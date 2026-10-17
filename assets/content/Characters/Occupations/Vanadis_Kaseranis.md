@@ -392,7 +392,7 @@ Vanadis Kaseranis is a 28-year-old woman who stands 5'7" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a freeman family of Vylarian heritage, Vanadis Kaseranis came into the world of the courtesan through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria Region]] to a freeman family of [[lore-vylarianclt|Vylarian]] heritage, Vanadis Kaseranis came into the world of the courtesan through a combination of circumstance and aptitude.
 
 Vanadis was born into poverty, but her charm and beauty allowed her to rise above her circumstances. She began working as a courtesan in her late teens, attracting the attention of wealthy patrons. Vanadis is skilled in the art of conversation, music, and dance, making her a companion. Despite her success, she struggles with the societal judgment that comes with her profession.
 
@@ -412,7 +412,7 @@ Charismatic, skilled at reading people, talented in dance and music.
 
 ## Social
 
-Vanadis is affiliated with None; prefers to remain independent.
+Vanadis is affiliated with none; she prefers to remain independent.
 
 As a Vylarian courtesan, Vanadis occupies a recognized social niche within Vylaria society.
 
@@ -420,7 +420,7 @@ As a Vylarian courtesan, Vanadis occupies a recognized social niche within Vylar
 
 ### Patrons
 
-Vanadis's primary patron is Wealthy merchants and nobles who value her company. This relationship provides both opportunity and obligation.
+Vanadis's primary patrons are wealthy merchants and nobles who value her company. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

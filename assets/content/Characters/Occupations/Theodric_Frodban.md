@@ -396,7 +396,7 @@ Theodbán yra Frodbán wur Dunkelwald is a 32-year-old man who stands 6'3" tall 
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Theodbán came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Theodbán came into the world of the miner through a combination of circumstance and aptitude.
 
 Theodbán has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to handle the treacherous tunnels. Theodbán is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
 
@@ -416,7 +416,7 @@ Physically strong, experienced in mining techniques, good team player.
 
 ## Social
 
-Theodbán works shallow seams near Dunkelwald with kin and hired hands. He negotiates access with the households that use the ground, without a union or mining company above them.
+Theodbán works shallow seams near [[place-dunkelwald|Dunkelwald]] with kin and hired hands. He negotiates access with the households that use the ground, without a union or mining company above them.
 
 ## Companions
 

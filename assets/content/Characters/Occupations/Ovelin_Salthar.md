@@ -399,7 +399,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Óvelin Salthar came into the world of the chandler through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Óvelin Salthar came into the world of the chandler through a combination of circumstance and aptitude.
 
 Óvelin is a young chandler who recently started her own business after apprenticing with a skilled candle maker. She specializes in creating decorative and scented candles for special occasions and religious ceremonies. Her unique designs have begun attracting attention, though she still struggles to gain a foothold in the market.
 
@@ -419,15 +419,15 @@ Creative and skilled at crafting aesthetically pleasing candles.
 
 ## Social
 
-Óvelin is affiliated with None yet, but interested in joining a craft guild.
+Óvelin is affiliated with none yet, but is interested in joining a craft guild.
 
-As a Élavendri chandler, Óvelin occupies a recognized social niche within Élavendre society.
+As an Élavendri chandler, Óvelin occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Óvelin's primary patron is Local clergy and townsfolk who buy her candles for special events. This relationship provides both opportunity and obligation.
+Óvelin's primary patrons are local clergy and townsfolk who buy her candles for special events. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

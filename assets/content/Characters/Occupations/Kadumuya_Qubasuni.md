@@ -396,9 +396,9 @@ Kadumuya Kubasuni is a 26-year-old woman who stands 5'11" tall and is slender. S
 
 # Dossier {#dossier}
 
-Kadumuya Kubasuni is a perfumer of Shamular, in Taruzel, born to a Taruzelian family of old standing whose money is mostly gone and whose perfume shop on the market square is what remains of it.
+Kadumuya Kubasuni is a perfumer of [[place-shamular|Shamular]], in the [[place-taruzelrgn|Taruzel Region]], born to a [[lore-taruzelianclt|Taruzelian]] family of old standing whose money is mostly gone and whose perfume shop on the market square is what remains of it.
 
-Kadumuya grew up in the shop's back room among the stills and the oils. She has the finest nose in Shamular and spends her days blending—attar of rose from the inland valleys, resins off the Khelathi ships, ambergris when the corsairs have some—in combinations nobody has tried. The guild families of Shamular come to her for scents made for one wearer. What she does not do is keep the books: her guild dues are late, her suppliers are paid when she remembers, and the shop lives on the reputation of the scents. She teaches anyone with a nose who asks.
+Kadumuya grew up in the shop's back room among the stills and the oils. She has the finest nose in Shamular and spends her days blending—attar of rose from the inland valleys, resins off the [[lore-khelathiclt|Khelathi]] ships, ambergris when the corsairs have some—in combinations nobody has tried. The guild families of Shamular come to her for scents made for one wearer. What she does not do is keep the books: her guild dues are late, her suppliers are paid when she remembers, and the shop lives on the reputation of the scents. She teaches anyone with a nose who asks.
 
 ## Psyche
 

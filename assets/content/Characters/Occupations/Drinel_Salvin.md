@@ -397,7 +397,7 @@ Drinel Salvin is a 27-year-old woman who stands 5'9" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Drinel Salvin came into the world of the toymaker through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Drinel Salvin came into the world of the toymaker through a combination of circumstance and aptitude.
 
 Drinel grew up in a small village, where she started making simple toys for her younger siblings out of whatever materials she could find. Her talent for creating playful and durable toys gained local attention, and she eventually opened a small workshop. Drinel’s work is known for its rustic charm, with a focus on toys that encourage outdoor play.
 
@@ -417,15 +417,15 @@ Resourceful, skilled in working with natural materials, imaginative.
 
 ## Social
 
-Drinel is affiliated with None; works independently.
+Drinel is affiliated with none; she works independently.
 
-As a Élavendri toymaker, Drinel occupies a recognized social niche within Élavendre society.
+As an Élavendri toymaker, Drinel occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Drinel's primary patron is Local villagers and travelers who seek rustic, handmade toys. This relationship provides both opportunity and obligation.
+Drinel's primary patrons are local villagers and travelers who seek rustic, handmade toys. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

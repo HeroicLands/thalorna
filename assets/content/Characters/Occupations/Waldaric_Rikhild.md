@@ -398,9 +398,9 @@ Waldarik yra Rikhild wur Grimholt is a 44-year-old man who stands 5'11" tall and
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vristwald]] region to a freeman family of Varokhi heritage, Waldarik came into the world of the tentmaker through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vristwald]] region to a freeman family of [[lore-varokhiclt|Varokhi]] heritage, Waldarik came into the world of the tentmaker through a combination of circumstance and aptitude.
 
-Waldarik has been making tents and canvas goods for traveling merchants, soldiers, and wanderers for over twenty years. He works from his household near Grimholt’s river landing, stitching and repairing tents, awnings and other cloth goods. His sturdy work brings boat crews and travelers back to him, though he has more requests than one household can always finish. He takes pride in his craftsmanship but sometimes sacrifices speed for quality.
+Waldarik has been making tents and canvas goods for traveling merchants, soldiers, and wanderers for over twenty years. He works from his household near [[place-grimholt|Grimholt]]’s river landing, stitching and repairing tents, awnings and other cloth goods. His sturdy work brings boat crews and travelers back to him, though he has more requests than one household can always finish. He takes pride in his craftsmanship but sometimes sacrifices speed for quality.
 
 ## Psyche
 

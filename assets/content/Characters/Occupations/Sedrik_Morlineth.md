@@ -399,7 +399,7 @@ Sedrik Mórlineth is a 49-year-old man who stands 6'3" tall and is broad and sol
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Sedrik Mórlineth came into the world of the jailer through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Sedrik Mórlineth came into the world of the jailer through a combination of circumstance and aptitude.
 
 Sedrik has been a jailer for over twenty years, working in the city’s largest prison. Known for his imposing stature and stern demeanor, he keeps order among the inmates with a firm hand. Despite his tough exterior, Sedrik believes in fair treatment and tries to help prisoners reform when he can. However, his dedication to his job has made him few friends outside the jail.
 
@@ -419,15 +419,15 @@ Physically strong, experienced in maintaining order, calm under pressure.
 
 ## Social
 
-Sedrik is affiliated with City Watch.
+Sedrik is affiliated with the [City Watch]{.name data-type="affiliation"}.
 
-As a Élavendri jailer, Sedrik occupies a recognized social niche within Élavendre society.
+As an Élavendri jailer, Sedrik occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Sedrik's primary patron is City officials who value his loyalty and service. This relationship provides both opportunity and obligation.
+Sedrik's primary patrons are city officials who value his loyalty and service. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

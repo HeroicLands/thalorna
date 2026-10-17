@@ -396,7 +396,7 @@ Methra Salreth is a 22-year-old woman who stands 5'11" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Methra Salreth came into the world of the laborer (unskilled) through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Methra Salreth came into the world of the laborer (unskilled) through a combination of circumstance and aptitude.
 
 Methra is a hardworking young woman who assists in various labor jobs around her village. She enjoys working with her hands and has developed skills in farming and crafting. Despite her lighter frame, she is determined and has a strong work ethic. Methra is known for her friendly disposition and ability to uplift those around her, making her popular among her peers.
 
@@ -416,15 +416,15 @@ Skilled in various tasks, positive attitude, adaptable.
 
 ## Social
 
-Methra is affiliated with Local Laborers' Union.
+Methra is affiliated with the local [Laborers' Union]{.name data-type="affiliation"}.
 
-As a Élavendri laborer (unskilled), Methra occupies a recognized social niche within Élavendre society.
+As an Élavendri laborer (unskilled), Methra occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Methra's primary patron is Local farmers and artisans who appreciate her help. This relationship provides both opportunity and obligation.
+Methra's primary patrons are local farmers and artisans who appreciate her help. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

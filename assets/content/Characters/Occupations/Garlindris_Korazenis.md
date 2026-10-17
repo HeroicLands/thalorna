@@ -400,7 +400,7 @@ Garlindris Korazenis is a 45-year-old man who stands 5'9" tall and is of moderat
 
 # Dossier {#dossier}
 
-Born in the [[place-vylariargn|Vylaria]] region to a minor noble family of Vylarian heritage, Garlindris Korazenis came into the world of the herald through a combination of circumstance and aptitude.
+Born in the [[place-vylariargn|Vylaria Region]] to a minor noble family of [[lore-vylarianclt|Vylarian]] heritage, Garlindris Korazenis came into the world of the herald through a combination of circumstance and aptitude.
 
 Garlindris comes from a long line of minor nobility who have been heralds for generations. Trained from a young age in the intricacies of heraldry, he is known for his commanding voice and attention to the details of ceremony. He takes great pride in upholding the dignity of his family’s legacy and is often tasked with announcing important decrees and leading ceremonial events for the city’s nobility. His adherence to tradition sometimes makes him appear rigid, but his dedication to his craft is unquestionable.
 
@@ -420,7 +420,7 @@ Strong, clear voice, knowledgeable in heraldry, experienced in formal ceremonies
 
 ## Social
 
-Garlindris is affiliated with City Heralds' Guild.
+Garlindris is affiliated with the [City Heralds' Guild]{.name data-type="affiliation/guild"}.
 
 As a Vylarian herald, Garlindris occupies a recognized social niche within Vylaria society.
 
@@ -428,7 +428,7 @@ As a Vylarian herald, Garlindris occupies a recognized social niche within Vylar
 
 ### Patrons
 
-Garlindris's primary patron is High-ranking nobles who value his skill and adherence to tradition. This relationship provides both opportunity and obligation.
+Garlindris's primary patrons are high-ranking nobles who value his skill and adherence to tradition. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

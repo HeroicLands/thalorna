@@ -397,7 +397,7 @@ Hethar Othral is a 36-year-old man who stands 6'1" tall and is of moderate build
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élavendri heritage, Hethar Othral came into the world of the potter through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a freeman family of [[lore-elavendriclt|Élavendri]] heritage, Hethar Othral came into the world of the potter through a combination of circumstance and aptitude.
 
 Hethar is a seasoned potter known for his expertise in creating sturdy stoneware. He has spent years perfecting his techniques and often teaches apprentices in his workshop. Hethar values the practical aspects of pottery and believes in producing items that can withstand daily use. His reputation for quality has earned him a loyal customer base, and he often collaborates with local artisans to create unique pieces.
 
@@ -417,15 +417,15 @@ Experienced, skilled in crafting durable pottery, good mentor.
 
 ## Social
 
-Hethar is affiliated with Local Potters' Guild.
+Hethar is affiliated with the local [Potters' Guild]{.name data-type="affiliation/guild"}.
 
-As a Élavendri potter, Hethar occupies a recognized social niche within Élavendre society.
+As an Élavendri potter, Hethar occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Hethar's primary patron is Local families and restaurants seeking durable pottery. This relationship provides both opportunity and obligation.
+Hethar's primary patrons are local families and restaurants seeking durable pottery. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

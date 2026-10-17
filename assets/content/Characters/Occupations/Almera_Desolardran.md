@@ -393,7 +393,7 @@ sohl:
 
 # Dossier {#dossier}
 
-Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvenan heritage, Álmera Desolardran came into the world of the caravan guard through a combination of circumstance and aptitude.
+Born in the [[place-tarvenirgn|Tarvénia Region]] to a freeman family of [[lore-tarvenanclt|Tarvenan]] heritage, Álmera Desolardran came into the world of the caravan guard through a combination of circumstance and aptitude.
 
 Álmera has worked as a caravan guard for several years, known for her agility and keen senses. She specializes in scouting ahead of the caravan to detect any potential dangers. Her quick reflexes and sharp wit make her a useful asset on the road. Álmera is determined to prove herself in a traditionally male-dominated field and often takes the initiative in training younger guards.
 
@@ -413,7 +413,7 @@ Agile and quick, skilled in stealth, strong at reconnaissance.
 
 ## Social
 
-Álmera is affiliated with Local Mercenaries' Guild.
+Álmera is affiliated with the local [Mercenaries' Guild]{.name data-type="affiliation/guild"}.
 
 As a Tarvenan caravan guard, Álmera occupies a recognized social niche within Tarvénia society.
 
@@ -421,7 +421,7 @@ As a Tarvenan caravan guard, Álmera occupies a recognized social niche within T
 
 ### Patrons
 
-Álmera's primary patron is Caravan leaders seeking a reliable scout and guard. This relationship provides both opportunity and obligation.
+Álmera's primary patrons are caravan leaders seeking a reliable scout and guard. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

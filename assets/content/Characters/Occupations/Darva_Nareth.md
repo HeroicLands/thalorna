@@ -396,7 +396,7 @@ Darva Nareth is a 28-year-old woman who stands 5'11" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élavendri heritage, Darva Nareth came into the world of the bard through a combination of circumstance and aptitude.
+Born in the [[place-elavendre|Élavendre]] region to a guilded family of [[lore-elavendriclt|Élavendri]] heritage, Darva Nareth came into the world of the bard through a combination of circumstance and aptitude.
 
 Darva was trained in the bardic arts from a young age, and her talent for storytelling and song quickly became apparent. She travels from court to court, performing for nobility and commoners alike. Her songs often blend historical events with myth, and she has a talent for charming her audience. Though ambitious, Darva is passionate about preserving history through her craft.
 
@@ -416,15 +416,15 @@ Skilled singer and storyteller, charismatic, knowledgeable in history.
 
 ## Social
 
-Darva is affiliated with Bardic College.
+Darva is affiliated with one of [[affiliation-bardicolgs|The Bardic Colleges]].
 
-As a Élavendri bard, Darva occupies a recognized social niche within Élavendre society.
+As an Élavendri bard, Darva occupies a recognized social niche within Élavendre society.
 
 ## Companions
 
 ### Patrons
 
-Darva's primary patron is Nobles who appreciate her artistry and historical knowledge. This relationship provides both opportunity and obligation.
+Darva's primary patrons are nobles who appreciate her artistry and historical knowledge. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

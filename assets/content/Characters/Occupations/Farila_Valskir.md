@@ -397,9 +397,9 @@ Farila Valskir is a 31-year-old woman who stands 5'7" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provenzia]] region to a noble family of Provenzian heritage, Farila Valskir came into the world of the physician through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provenzia Region]] to a noble family of [[lore-provenzianclt|Provenzian]] heritage, Farila Valskir came into the world of the physician through a combination of circumstance and aptitude.
 
-Lady Seraphina is a skilled physician with a specialization in herbal medicine. Having grown up in a noble family, she pursued her passion for healing by studying both conventional medicine and natural remedies. Seraphina is known for her holistic approach, often considering the emotional and social aspects of her patients' health. She is a strong advocate for women's health and often conducts workshops to educate the community.
+Lady Farila is a skilled physician with a specialization in herbal medicine. Having grown up in a noble family, she pursued her passion for healing by studying both conventional medicine and natural remedies. Farila is known for her holistic approach, often considering the emotional and social aspects of her patients' health. She is a strong advocate for women's health and often conducts workshops to educate the community.
 
 ## Psyche
 
@@ -417,7 +417,7 @@ Knowledgeable about herbal remedies, empathetic, skilled in communication.
 
 ## Social
 
-Farila is affiliated with Local Physicians' Guild.
+Farila is affiliated with the local [Physicians' Guild]{.name data-type="affiliation/guild"}.
 
 As a Provenzian physician, Farila occupies a recognized social niche within Provenzia society.
 
@@ -425,7 +425,7 @@ As a Provenzian physician, Farila occupies a recognized social niche within Prov
 
 ### Patrons
 
-Farila's primary patron is Local families seeking her expertise in health and wellness. This relationship provides both opportunity and obligation.
+Farila's primary patrons are local families seeking her expertise in health and wellness. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
