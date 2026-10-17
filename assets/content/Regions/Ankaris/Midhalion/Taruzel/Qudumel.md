@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [taruzelilng, dunharlng]}}
 ---
 
-Kudumel's council keeps seats for men who do not live in the city. Representatives of the hill tribes sit on it beside the urban merchants, because Kudumel lives by its dealings with peoples who do not recognize guild authority and will not deal with guild enforcers. The city-state holds the city of [[place-qudumel2|Kudumel]], the [[affiliation-cnfdrtntrzlnstts|Confederation's]] gateway to the east, and some 2.3 million people: a sprawling, dusty, polyglot country where Taruzelian merchants bargain with Dunhari caravaneers, Khazryn nomads and, now and then, traders from as far as [[place-vedyarargn|Vedyara Region]] and [[place-byzariargn|Bizaria Region]].
+Kudumel's council keeps seats for men who do not live in the city. Representatives of the hill tribes sit on it beside the urban merchants, because Kudumel lives by its dealings with peoples who do not recognize guild authority and will not deal with guild enforcers. The city-state holds the city of [[place-qudumel2|Kudumel]], the eastern gateway of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], and some 2.3 million people: a sprawling, dusty, polyglot country where Taruzelian merchants bargain with Dunhari caravaneers, Khazryn nomads and, now and then, traders from as far as the [[place-vedyarargn|Vedyara Region]] and the [[place-byzariargn|Bizaria Region]].
 
 ## Who Decides
 
@@ -80,11 +80,11 @@ The great guilds keep a presence in Kudumel and exercise less control here than 
 
 The population is heavily mixed: Taruzelian merchants, Dunhari tribespeople who have settled into city life, Khazryn caravan masters, and members of dozens of smaller peoples who have gathered at this crossroads over the centuries. That mixture makes Kudumel the most cosmopolitan and the most religiously tolerant city in the Confederation, and the only one where the [[affiliation-ashanpnthn|Ashaian Pantheon]] is the dominant faith.
 
-It is also the city where the [[affiliation-ordoarcanis|Thordimalon]] is weakest. The eastern traditions that come in along the caravan routes—Ashaian fire-worship, Dunhari sand-divination and Vedyaran meditation—are practiced openly, and a thriving magical underground works outside the Arcane Order's control, to the Arcane Order's considerable frustration.
+It is also the city where [[affiliation-ordoarcanis|Thordimalon]] is weakest. The eastern traditions that come in along the caravan routes—Ashaian fire-worship, Dunhari sand-divination and Vedyaran meditation—are practiced openly, and a thriving magical underground works outside the Arcane Order's control, to the Arcane Order's considerable frustration.
 
 ## Commerce and Currency
 
-The caravans that unload at Kudumel settle in the [[lore-trzlncrncy|Taruzelian currency]], issued under the **Merazuni** of the [[affiliation-vezakuni|Vezakuni]]. Its Solden, Ardin and Bit follow the Vylarian denominations but rest on Taruzelian reserves rather than on the Vylarian [[affiliation-tarmex|Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. The banking runs through Merazuni-affiliated moneylenders, who honor no Vylarian script and whose own script is honored nowhere in Vylarian territory.
+The caravans that unload at Kudumel settle in the [[lore-trzlncrncy|Taruzelian Currency]], issued under the **[Merazuni]{.name data-type="affiliation"}** of the [[affiliation-vezakuni|Vezakuni]]. Its Solden, Ardin and Bit follow the Vylarian denominations but rest on Taruzelian reserves rather than on the Vylarian reserves of [[affiliation-tarmex|The Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. The banking runs through Merazuni-affiliated moneylenders, who honor no Vylarian script and whose own script is honored nowhere in Vylarian territory.
 
 ## See Also
 

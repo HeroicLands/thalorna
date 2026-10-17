@@ -36,7 +36,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 # headquarters: city-of-yamuzel
 ---
 
-"Under the League's flag you can carry a sword on any quay in Taruzel and watch the customs house wave your cargo through," a Corsair League captain tells a newly made master. "Out from under it, every harbor is slow to find you a berth, and some night a ship you have never seen will mistake you for a pirate." The Corsair League is Taruzel's maritime guild, and it blurs the line between legitimate shipping, naval power and outright piracy according to the political weather. The captains and admirals who won the Battle of [[place-tamzirshoals|Tamzir Shoals]] founded it as a fraternity of war veterans; it is now a powerful shipping cartel that controls much of Taruzel's merchant marine and serves the [[affiliation-cnfdrtntrzlnstts|Confederation]] as its de facto navy.
+A Corsair League captain tells a newly made master about the [[place-taruzelrgn|Taruzel Region]]: "Under the League's flag you can carry a sword on any quay in Taruzel and watch the customs house wave your cargo through. Out from under it, every harbor is slow to find you a berth, and some night a ship you have never seen will mistake you for a pirate." The Corsair League is Taruzel's maritime guild, and it blurs the line between legitimate shipping, naval power and outright piracy according to the political weather. The captains and admirals who won the [Battle of Tamzir Shoals]{.name data-type="lore/history"} ([[place-tamzirshoals|Tamzir Shoals]]) founded it as a fraternity of war veterans; it is now a powerful shipping cartel that controls much of Taruzel's merchant marine and serves the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] as its de facto navy.
 
 ## Members and Privileges
 
@@ -48,9 +48,9 @@ The League and the [[affiliation-auricompct|Auric Compact]] need each other and 
 
 ## The Privateer Problem
 
-The League's charter gives its captains broad authority to "protect Taruzelian commerce," and they read that language widely: it has covered attacking competitors' ships in disputed waters, seizing cargoes from vessels trading outside guild agreements, and occasional outright piracy against targets of opportunity. The Grand Council periodically threatens to revoke these privileges, and the League reminds the Council each time that it is the only naval force standing between Taruzel and a [[affiliation-vylarinmpr|Vylarian]] reconquest.
+The League's charter gives its captains broad authority to "protect Taruzelian commerce," and they read that language widely: it has covered attacking competitors' ships in disputed waters, seizing cargoes from vessels trading outside guild agreements, and occasional outright piracy against targets of opportunity. The [Grand Council]{.name data-type="affiliation/governmental"} periodically threatens to revoke these privileges, and the League reminds the Council each time that it is the only naval force standing between Taruzel and a [[affiliation-vylarinmpr|Vylarian]] reconquest.
 
-Independent operators such as the [[affiliation-thetamzir|Tamzir]] live in a gray zone. The League wants every Taruzelian-flagged vessel under its umbrella, and captains who refuse meet harassment, port restrictions and the occasional "mistaken" confrontation at sea.
+Independent operators such as [[affiliation-thetamzir|The Tamzir]] live in a gray zone. The League wants every Taruzelian-flagged vessel under its umbrella, and captains who refuse meet harassment, port restrictions and the occasional "mistaken" confrontation at sea.
 
 ## See Also
 

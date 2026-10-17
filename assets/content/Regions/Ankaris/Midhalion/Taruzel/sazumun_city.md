@@ -14,15 +14,15 @@ The harbor at Sazumun never sleeps. The city sprawls along a natural harbor at t
 
 ## What It Does
 
-Sazumun is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect [[affiliation-cnfdrtntrzlnstts|Taruzel]] to the western realms. One of the five island city-states of the Confederation, it earns its living from what passes through it.
+Sazumun is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect the [[place-taruzelrgn|Taruzel Region]] to the western realms. One of the five island city-states of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], it earns its living from what passes through it.
 
 ## Who Governs
 
-The merchant guilds hold absolute power, and their councils meet in the towering **House of Factors** that overlooks the harbor. Competition between the guilds is fierce and disciplined: they keep an elaborate system of tariffs, trading monopolies and agreements that regulates commerce with surgical precision. A captain who breaks guild protocol finds no harbor master willing to accept her vessel and no crew willing to sign on with her. The guilds have learned that stability, however rigidly kept, yields more wealth than chaos, so a visitor who wants to trade here does it inside their rules or not at all.
+The merchant guilds hold absolute power, and their councils meet in the towering **[House of Factors]{.name data-type="place/structure"}** that overlooks the harbor. Competition between the guilds is fierce and disciplined: they keep an elaborate system of tariffs, trading monopolies and agreements that regulates commerce with surgical precision. A captain who breaks guild protocol finds no harbor master willing to accept her vessel and no crew willing to sign on with her. The guilds have learned that stability, however rigidly kept, yields more wealth than chaos, so a visitor who wants to trade here does it inside their rules or not at all.
 
 ## Who Lives Here
 
-The population is a polyglot mixture of Taruzeli merchants, Dunhari traders, [[affiliation-ashanpnthn|Ashaian]] priests and adventurers from every corner of the known world. The city keeps an uneasy religious balance, with temples of the [[affiliation-arldnpnthn|Aureldian]] pantheon standing near shrines of the Ashaian gods, and the merchant councils recognize both as legitimate paths. Sazumun uses the Taruzelian currency, and the Vylarian script is not honored here. See [[lore-trzlncrncy|Taruzelian Currency]].
+The population is a polyglot mixture of Taruzeli merchants, Dunhari traders, [[affiliation-ashanpnthn|Ashaian]] priests and adventurers from every corner of the known world. The city keeps an uneasy religious balance, with temples of the [[affiliation-arldnpnthn|Aureldian Pantheon]] standing near shrines of the Ashaian gods, and the merchant councils recognize both as legitimate paths. Sazumun uses the [[lore-trzlncrncy|Taruzelian Currency]], and the Vylarian script is not honored here. See [[lore-trzlncrncy|Taruzelian Currency]].
 
 ## See Also
 

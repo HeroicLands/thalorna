@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [taruzelilng]}}
 ---
 
-The constitution of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] names no capital. The **Grand Council** meets in Besikar all the same, the Arch-Consul keeps his residence here, and the headquarters of the most powerful merchant guilds line its harbor, so the largest and wealthiest of the five city-states is the Confederation's capital in everything but law. The city-state holds the city of [[place-besikar2|Besikar]] and the country around it, some three million people in all.
+The constitution of the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]] names no capital. The **[Grand Council]{.name data-type="affiliation/governmental"}** meets in Besikar all the same, the Arch-Consul keeps his residence here, and the headquarters of the most powerful merchant guilds line its harbor, so the largest and wealthiest of the five city-states is the Confederation's capital in everything but law. The city-state holds the city of [[place-besikar2|Besikar]] and the country around it, some three million people in all.
 
 ## Who Decides
 
@@ -80,7 +80,7 @@ The Compact is the one a visitor feels first. Its headquarters is the old Vylari
 
 ## Commerce and Currency
 
-Besikar's harbor counts its dues in the [[lore-trzlncrncy|Taruzelian currency]], whose treasury, the **Merazuni** of the [[affiliation-vezakuni|Vezakuni]], has its strongroom here. The coins carry the Vylarian denominations (Solden, Ardin and Bit) on Taruzelian reserves rather than on the Vylarian [[affiliation-tarmex|Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders carry the city's banking; they refuse Vylarian script, and no Vylarian house takes theirs.
+Besikar's harbor counts its dues in the [[lore-trzlncrncy|Taruzelian Currency]], whose treasury, the **[Merazuni]{.name data-type="affiliation"}** of the [[affiliation-vezakuni|Vezakuni]], has its strongroom here. The coins carry the Vylarian denominations (Solden, Ardin and Bit) on Taruzelian reserves rather than on the Vylarian reserves of [[affiliation-tarmex|The Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders carry the city's banking; they refuse Vylarian script, and no Vylarian house takes theirs.
 
 ## See Also
 
