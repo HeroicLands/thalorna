@@ -50,7 +50,7 @@ sohl: {system: {commonSkills: []}}
 
 ## The Courts of Orzara
 
-Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-orzara|city]] beyond the Inner Wall**—its administration, its courts, its Watch, and its daily supply—is governed by the **Verdan Orzara**, the Council of the City. The **Inner City** keeps its own order under the [[affiliation-sorvan|Sorvan]], the imperial guard. And the **imperial tribunals**—the throne's own courts—sit apart from both, within the **Imperial Offices** compound, answerable to the Orzas, the emperor, alone.
+Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-orzara|Orzara City]] beyond the [Inner Wall]{.name data-type="place/structure"}**—its administration, its courts, its Watch, and its daily supply—is governed by the **Verdan Orzara**, the Council of the City. **[[place-arvon|Arvon]] (the Inner City)** keeps its own order under [[affiliation-sorvan|The Sorvan]], the imperial guard. And the **imperial tribunals**—the throne's own courts—sit apart from both, within the **[Imperial Offices]{.name data-type="place/structure"}** compound, answerable to the Orzas, the emperor, alone.
 
 ### The Verdan Orzara—the Council of the City
 
@@ -70,7 +70,7 @@ The chair rotates among them so that none becomes "the" head of the city, and th
 
 Beneath the council runs a tiered court system. The [[affiliation-vylrnmltry|City Watch]] enforces and investigates; it does not judge. Judgment belongs to the courts.
 
-A ward clerk of the Pelthralon, asked how the tiers look from the bottom, answers for most of the city: "Most people see one magistrate in their lives, and he is the _peltros_ of their ward. Everything above him is something that happens to somebody else."
+A ward clerk of the [[affiliation-aediles|Pelthralon]], asked how the tiers look from the bottom, answers for most of the city: "Most people see one magistrate in their lives, and he is the _peltros_ of their ward. Everything above him is something that happens to somebody else."
 
 - **The Pelthralon**—the magistrates of the wards, and the only court most Orzarans ever see. They keep the district law: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. They levy fines, shutter premises, and condemn buildings; the Watch supplies the muscle behind their rulings.
 - **The Civil Courts**—the civil courts, where citizen sues citizen over property, contract, debt, inheritance, and standing. Cases are heard by **Sentori** drawn from the propertied orders, the weightier disputes before panels.
@@ -82,7 +82,7 @@ Appeals, and the gravest civic cases, rise to the **Verdan Orzara** sitting as a
 
 Entirely separate from the civic courts stand the **imperial tribunals**—the courts of the throne itself. They sit within the Inner City, in the Imperial Offices, the great bureaucratic compound that also houses the treasury, the tax administration, and the imperial archives, and they answer to the Orzas and his appointed judges, never to the Verdan Orzara.
 
-Their jurisdiction is everything the civic courts cannot touch. Any matter involving a member of the nobility, any cause touching the [[affiliation-seldan|Senate]] or the imperial house, the great suits between provinces and crowns, and **treason** above all, are imperial business from the first moment—and a case can be lifted out of the civic courts into the imperial tribunals at the throne's word. For senatorial persons in the gravest matters, judgment may rise higher still, to the [[affiliation-seldan|Seldan]] itself. To be summoned from the Pelthralon's bench to the Offices is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
+Their jurisdiction is everything the civic courts cannot touch. Any matter involving a member of the nobility, any cause touching the [[affiliation-seldan|Seldan]] (Senate) or the imperial house, the great suits between provinces and crowns, and **treason** above all, are imperial business from the first moment—and a case can be lifted out of the civic courts into the imperial tribunals at the throne's word. For senatorial persons in the gravest matters, judgment may rise higher still, to the [[affiliation-seldan|Seldan]] itself. To be summoned from the Pelthralon's bench to the Offices is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
 
 ### The Reach of Influence
 

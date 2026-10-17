@@ -45,11 +45,11 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The Keeper's House is the household of the Keeper of the Failing Works, the office of [[affiliation-kalihara|Kalihara]] that the Council has never admitted to. It stands at [[place-kuomethei|Kuomethei]], high on the southern crest of [[place-klhrring|the Ring]], and its members are the custodians of dark works: [[affiliation-tharivaan|Ithakan]] whose works have gone white, who have nothing left to tend, and who keep the count of the white ones. The custodians of the wind-stones winter in the same village.
+The Keeper's House is the household of the Keeper of the Failing Works, the office of [[affiliation-kalihara|Kalihara]] that the Council has never admitted to. It stands at [[place-kuomethei|Kuomethei]], high on the southern crest of [[place-klhrring|The Ring]], and its members are the custodians of dark works: [[affiliation-tharivaan|Ithakan]] whose works have gone white, who have nothing left to tend, and who keep the count of the white ones. The custodians of the wind-stones winter in the same village.
 
 ## Character
 
-A custodian whose work dies is not discharged. The senior custodians of the region perform the Rite of Last Tending over it, a single held stone goes to a sanctuary, the failure is entered in the master archive, and the custodian is left with an office that has no object. Some go to the House. They live at Kuomethei as guests of the lineage Kuomanei, which holds the village and the crest paths, and they keep the count: each work that is dead, where it stands, and the season the Rite was spoken over it.
+A custodian whose work dies is not discharged. The senior custodians of the region perform the [Rite of Last Tending]{.name data-type="lore/custom"} over it, a single held stone goes to a sanctuary, the failure is entered in the master archive, and the custodian is left with an office that has no object. Some go to the House. They live at Kuomethei as guests of the lineage [Kuomanei]{.name data-type="affiliation/lineage"}, which holds the village and the crest paths, and they keep the count: each work that is dead, where it stands, and the season the Rite was spoken over it.
 
 The House has nothing to tend, and its members are the one body of custodians that cannot perform its tending-acts for lack of a work. They do what the work of a custodian leaves when the work is gone: they look. A Counter of the White walks out to see a work that is reported dead before the House enters it in the count, and returns with what the walk showed. The count is not given out. The lineages know their own stones and the stones within sight of them, and the island's whole tally rests at Kuomethei.
 
@@ -57,7 +57,7 @@ The Council has never named the House, and the House does not ask to be named. I
 
 ## Relations
 
-The House belongs to the custodianship and keeps its ranks. The [[affiliation-councilisland|Council of the Island]] does not admit it among its bodies, and the House holds no seat in it. Its custodians have lost the most to the failing, and the [[affiliation-silharicircle|Sílhari circle]] argues that the principles behind the works must be found.
+The House belongs to the custodianship and keeps its ranks. [[affiliation-councilisland|The Council of the Island]] does not admit it among its bodies, and the House holds no seat in it. Its custodians have lost the most to the failing, and [[affiliation-silharicircle|The Sílhari Circle]] argues that the principles behind the works must be found.
 
 ## See Also
 

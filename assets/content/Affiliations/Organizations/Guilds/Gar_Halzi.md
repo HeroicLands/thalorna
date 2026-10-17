@@ -56,16 +56,16 @@ _Khelathi: Gar-Hálzi—"the House of the Account"_
 
 Say you are a trader with two thousand silver gezan to move from [[place-galezkara|Galezkara]] to [[place-garanlaghet|Gar-Anlaghet]]. You do not load a barge with metal. You walk into the account-house of a great temple, hand over your silver, and walk out with a sealed clay tablet that any **Gar-Hálzi** chapter in the empire will honor. A Gar-Hálzi Lem-Halzi would tell you why it works: "The temples keep accounts with each other. Your tablet is a promise between two houses of the gods, and the chapters settle it between themselves."
 
-Gar-Hálzi is the network of temple-treasuries that forms the banking system of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and, by extension, of the whole **Northern Fertile Region of Zerathia**. Every major Khelathi temple keeps a chapter, a treasury arm with four jobs:
+Gar-Hálzi is the network of temple-treasuries that forms the banking system of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and, by extension, of the whole **[[place-nrthrnfrtlrgn|Northern Fertile Region]] of [[place-xerathia|Zerathia]]**. Every major Khelathi temple keeps a chapter, a treasury arm with four jobs:
 
 - attesting the weight-pieces that circulate as the empire's currency;
 - holding the great granaries that anchor the grain-credit economy;
 - keeping the ledgers that record every Khelathi noble house's commercial affairs;
 - issuing the temple chits that serve as the region's paper script.
 
-The institution is religious in form. Priests administer it, religious authority governs it, and Khelathi doctrine holds it in place: every act is temple service, every fee is a votive offering, and every senior officer is a priest of one of the great gods. That is the structural difference from its [[lore-vylarianclt|Vylarian]] counterpart, the [[affiliation-tarmex|Tarmeks Orzan]], which is a state institution under imperial governance. The services are similar, covering treasury, central bank, ledger-clearing and credit issuance, but the logic and the politics differ.
+The institution is religious in form. Priests administer it, religious authority governs it, and Khelathi doctrine holds it in place: every act is temple service, every fee is a votive offering, and every senior officer is a priest of one of the great gods. That is the structural difference from its [[lore-vylarianclt|Vylarian]] counterpart, [[affiliation-tarmex|The Tarmeks Orzan]], which is a state institution under imperial governance. The services are similar, covering treasury, central bank, ledger-clearing and credit issuance, but the logic and the politics differ.
 
-The difference decides who can pressure whom. The [[affiliation-tarmex|Tarmeks]]'s authority comes from the imperial throne and serves the imperial state, so pressure on it flows through the **Dukran** and the imperial court. The Gar-Hálzi's authority comes from the senior priesthood and the great gods, so pressure on it flows through religious channels, theological argument and the politics of the priestly orders. A Gar-Au who wanted to change Gar-Hálzi practice would have to do it by religious means. The priesthood holds the Gar-Au to be semi-divine, and it also holds the temples to be the final authority on religious matters, so the relationship is one of mutual deference and occasional serious tension.
+The difference decides who can pressure whom. The Tarmeks's authority comes from the imperial throne and serves the imperial state, so pressure on it flows through the **Dukran** and the imperial court. The Gar-Hálzi's authority comes from the senior priesthood and, in its doctrine, the great gods, so pressure on it flows through religious channels, theological argument and the politics of the priestly orders. A Gar-Au who wanted to change Gar-Hálzi practice would have to do it by religious means. The priesthood holds the Gar-Au to be semi-divine, and it also holds the temples to be the final authority on religious matters, so the relationship is one of mutual deference and occasional serious tension.
 
 ## Structure
 
@@ -73,7 +73,7 @@ Gar-Hálzi is a network of chapter-treasuries, not a single centralized bank. Ea
 
 ### The Council of the High Priests
 
-The **Council of the High Priests** (_Sedjet Halzi_) is the governing body. It consists of the high priests of the eight greatest Khelathi temples: the principal temples of Galezkara, Gar-Anlaghet, [[place-khelzuret|Khelzuret]], [[place-amqelulegez|Amqelu-Legez]] and [[place-anlaghzetun|Anlagh-Zetun]], and three lesser but anciently established ones. It meets four times a year at the great temple complex in the imperial capital, and at any other moment when a crisis demands. The Council:
+The **[Council of the High Priests]{.name data-type="affiliation/governmental"}** (_Sedjet Halzi_) is the governing body. It consists of the high priests of the eight greatest Khelathi temples: the principal temples of Galezkara, Gar-Anlaghet, [[place-khelzuret|Khelzuret]], [[place-amqelulegez|Amqelu-Legez]] and [[place-anlaghzetun|Anlagh-Zetun]], and three lesser but anciently established ones. It meets four times a year at the great temple complex in the imperial capital, and at any other moment when a crisis demands. The Council:
 
 - sets the canonical inter-metal ratios, the gold-silver-copper conversion rates;
 - reaffirms the attestation standards for weight-pieces;
@@ -82,7 +82,7 @@ The **Council of the High Priests** (_Sedjet Halzi_) is the governing body. It c
 
 ### The Overseer of the Account
 
-The chief officer is the **Ilmy'Za Halzi**, the Overseer of the Account. The Council appoints him from among the high priests, and he serves for life or until religious retirement. The present Overseer is [[being-zetmeryukhe2|Zetmeryu-Khela]], a high priest of Galezkara with a strong scholarly reputation and twenty years in the office. He administers the network's central affairs, coordinates between chapter-temples and represents the Gar-Hálzi to the Gar-Au's court when religious-political matters require it.
+The chief officer is the **Ilmy'Za Halzi**, the Overseer of the Account. The Council appoints him from among the high priests, and he serves for life or until religious retirement. The present Overseer is [[being-zetmeryukhe2|Zetmeryu-Khela]], a high priest of Galezkara with a strong scholarly reputation and twenty years in the office. He administers the network's central affairs, coordinates between chapter-temples and represents the Gar-Hálzi to [[affiliation-genzetgarau|Genzet'Gar-Au]], the Gar-Au's court, when religious-political matters require it.
 
 ### Chapter-Treasuries
 
@@ -114,9 +114,9 @@ The granaries are also strategic reserves against famine. In a year when the flo
 
 For sums too large to carry as metal, the Gar-Hálzi issues temple chits: clay-sealed tablets for small sums and sealed papyrus letters for large ones. Each chit bears the issuing chapter's seal, the value in silver or gold gezan, the recipient's name or "to bearer," and a registered serial mark. A chit is functionally a Vylarian traveler's note, framed as a temple service and not as a commercial product.
 
-Any Gar-Hálzi chapter in [[affiliation-empireakhlth|Au'Khelathu]] honors a chit, and so do the principal [[lore-bethuanclt|Bethuan]] trade-houses and **Okhárian** crown-trade offices through their correspondent arrangements. A trader who presents one at a chapter or correspondent receives its face value less a small handling fee, typically 1–3 percent, framed as a votive offering to the receiving temple.
+Any Gar-Hálzi chapter in Au'Khelathu honors a chit, and so do the principal [[lore-bethuanclt|Bethuan]] trade-houses and **Okhárian** crown-trade offices through their correspondent arrangements. A trader who presents one at a chapter or correspondent receives its face value less a small handling fee, typically 1–3 percent, framed as a votive offering to the receiving temple.
 
-The chapter that produces a chit charges a 2–3 percent issuance fee, also framed as a votive offering and not a commission. The fee goes into the temple's general endowment, which pays for the priesthood, the granaries, the temple complexes and the institution's wider work. Across the network it is a substantial revenue stream, comparable to the Tarmeks Orzan's own 2 percent fee on Vylarian traveler's notes, though smaller in absolute terms because the [[place-nrthrnfrtlrgn|Northern Fertile Region]]'s commerce is smaller than the Vylarian commonwealth's.
+The chapter that produces a chit charges a 2–3 percent issuance fee, also framed as a votive offering and not a commission. The fee goes into the temple's general endowment, which pays for the priesthood, the granaries, the temple complexes and the institution's wider work. Across the network it is a substantial revenue stream, comparable to the Tarmeks Orzan's own 2 percent fee on Vylarian traveler's notes, though smaller in absolute terms because the Northern Fertile Region's commerce is smaller than the Vylarian commonwealth's.
 
 ### Foreign Exchange
 
@@ -126,13 +126,13 @@ Foreign hack-metal, meaning pieces of unattested origin, is taken at a larger di
 
 ## Relations
 
-- The Gar-Au's court is patron and final religious-political authority. The Gar-Au is semi-divine but cannot lightly override the priesthood's judgment on temple affairs, and the priesthood depends on the Gar-Au's patronage and protection while holding on to the institution's structural autonomy. The Council and the court coordinate through standing protocols and through the Gar-Au's chief religious officer.
+- The Gar-Au's court is patron and final religious-political authority. The Gar-Au is held to be semi-divine but cannot lightly override the priesthood's judgment on temple affairs, and the priesthood depends on the Gar-Au's patronage and protection while holding on to the institution's structural autonomy. The Council and the court coordinate through standing protocols and through the Gar-Au's chief religious officer.
 - The [[affiliation-garmelnu|Gar'Melnu]] smithy network is the operational partner. Gar'Melnu smiths make the weight-pieces under Gar-Hálzi supervision, and the two institutions coordinate constantly on metallurgical standards, smithy certification and the suppression of counterfeiting.
 - The [[affiliation-garnuw|Gar'Nuw]] hunters' guild and the other Khelathi guilds are peer institutions. They deposit with the chapters, hold accounts and draw chits as needed, and the relationship is correct and bureaucratic.
-- The [[affiliation-bthntrdhss|Bethuan Trade-Houses]] are the Bethuan commercial counterparts. The principal houses keep correspondent accounts with particular chapter-temples, most often those of Galezkara, Gar-Anlaghet and Khelzuret. Through those accounts they do credit business in Khelathi currency without moving metal between the territories. The arrangements are private and vary by relationship.
-- The [[affiliation-crwntrdskhrs|Crown Trades of Okharis]] are the Okhárian counterparts, with similar correspondent arrangements on a smaller scale than the Bethuan houses, because Okharis has a smaller commercial economy.
+- [[affiliation-bthntrdhss|The Bethuan Trade-Houses]] are the Bethuan commercial counterparts. The principal houses keep correspondent accounts with particular chapter-temples, most often those of Galezkara, Gar-Anlaghet and Khelzuret. Through those accounts they do credit business in Khelathi currency without moving metal between the territories. The arrangements are private and vary by relationship.
+- [[affiliation-crwntrdskhrs|The Crown Trades of Okharis]] are the Okhárian counterparts, with similar correspondent arrangements on a smaller scale than the Bethuan houses, because Okharis has a smaller commercial economy.
 - The [[affiliation-tarmex|Tarmeks Orzan]] is the Vylarian counterpart. The two institutions keep no formal correspondent relationship, since their currencies, political frameworks and institutional logics all differ. They run as parallel systems, and the changer profession bridges them at the trading ports. Senior officers know each other professionally and sometimes exchange formal courtesies, but they conduct no shared business.
-- The [[affiliation-vezakuni|Vezakuni]]'s [[lore-trzlncrncy|Merazuni]] is the [[lore-taruzelianclt|Taruzelian]] counterpart, similar in role to the Tarmeks but for the post-secession Taruzelian system. The Gar-Hálzi has no formal arrangement with the Merazuni, and Taruzelian merchants in Au'Khelathu transact in metal at the changer spread, as Vylarian merchants do.
+- The [[affiliation-vezakuni|Vezakuni]]'s [Merazuni]{.name data-type="affiliation"} is the [[lore-taruzelianclt|Taruzelian]] counterpart, similar in role to the Tarmeks but for the post-secession Taruzelian system. The Gar-Hálzi has no formal arrangement with the Merazuni, and Taruzelian merchants in Au'Khelathu transact in metal at the changer spread, as Vylarian merchants do.
 
 ### Notable Officers
 

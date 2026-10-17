@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-When the timber-merchants and craftspeople of [[place-aukhelathrgq|Au'Khelathu]] needed capital the guilds could not supply, they went to **House Qelti**, and generations of that patronage built a wealthy merchant house with trading interests across the empire. The house lends its name quickly to any venture it expects to profit by, which makes its backing sought after and, to a cautious partner, slightly suspect: a partner who looks closely finds the house's own profit written into the terms before anyone else's.
+When the timber-merchants and craftspeople of the [[place-aukhelathrgq|Au'Khelathu Region]] needed capital the guilds could not supply, they went to **Gar-Qelti**, and generations of that patronage built a wealthy merchant house with trading interests across the empire. The house lends its name quickly to any venture it expects to profit by, which makes its backing sought after and, to a cautious partner, slightly suspect: a partner who looks closely finds the house's own profit written into the terms before anyone else's.
 
 ## Character
 

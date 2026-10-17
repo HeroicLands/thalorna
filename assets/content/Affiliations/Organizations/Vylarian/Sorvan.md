@@ -54,16 +54,16 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-A junior of the Sorvan, put on the Guard Camp's wall for his first night watch, is told the one thing the guard never says aloud: "Look at the palace. You are guarding it. Now look at us. Everyone in that palace knows which of those two things could end the other. Stand straight, and remember who feeds you."
+A junior of The Sorvan, put on the wall of [[place-thaurzurgalis|Thaurzurgalis]] (the Guard Camp) for his first night watch, is told the one thing the guard never says aloud: "Look at the palace. You are guarding it. Now look at us. Everyone in that palace knows which of those two things could end the other. Stand straight, and remember who feeds you."
 
-The **Sorvan** (_"the guard"_) is the imperial guard: the personal bodyguard of the Orzas, the emperor, and the keepers of order and justice within the Inner City of [[place-orzara|Orzara]] itself. It stands apart from the [[affiliation-vylrnmltry|line legions]] in every way that matters. It recruits on its own authority, promotes through its own ranks, answers to no Dukran or Kamdor but to the throne directly, and is quartered not in a frontier camp but in the [[place-thaurzurgalis|Thaurzurgalis]] on the palace hill, the one fortress inside the **Inner Wall**. It is elite, lavishly equipped and intensely political: the armed muscle of the court, and the instrument through which the Orzas makes his grip on his own capital physical.
+The **Sorvan** (_"the guard"_) is the imperial guard: the personal bodyguard of the Orzas, the emperor, and the keepers of order and justice within [[place-arvon|Arvon]] (the Inner City of [[place-orzara|Orzara City]]) itself. It stands apart from the [[affiliation-vylrnmltry|line legions]] in every way that matters. It recruits on its own authority, promotes through its own ranks, answers to no Dukran or Kamdor but to the throne directly, and is quartered not in a frontier camp but in the [[place-thaurzurgalis|Thaurzurgalis]] on the palace hill, the one fortress inside the **[Inner Wall]{.name data-type="place/structure"}**. It is elite, lavishly equipped and intensely political: the armed muscle of the court, and the instrument through which the Orzas makes his grip on his own capital physical.
 
 - **Type:** Imperial military institution; household guard and Inner City garrison
 - **Region of operation:** [[place-arvon|Arvon]], the Inner City of Orzara, and the imperial person wherever he travels
 - **Seat:** The Thaurzurgalis, on the palace hill within the Inner Wall
 - **Answerable to:** The reigning Orzas alone
 
-Its charge is twofold: the imperial person, and the peace of the Inner City. Within Arvon it is guard, garrison and magistrate's arm together. It wards the [[place-palvar|Palvar]], stand the gates and walls of the citadel, and keep order among the _kurthoi_ (senators), priests, magistrates and great families who dwell or do business there. Its writ stops, sharply, at the Inner Wall. The vast city beyond is not the guard's to police. That work belongs to the [[affiliation-vylrnmltry|City Watch]], and the division is deliberate.
+Its charge is twofold: the imperial person, and the peace of the Inner City. Within Arvon it is guard, garrison and magistrate's arm together. It wards the [[place-palvar|Palvar]], stands the gates and walls of the citadel, and keeps order among the _kurthoi_ (senators), priests, magistrates and great families who dwell or do business there. Its writ stops, sharply, at the Inner Wall. The vast city beyond is not the guard's to police. That work belongs to the [[affiliation-vylrnmltry|City Watch]], and the division is deliberate.
 
 ## The Body That Makes and Unmakes
 
@@ -89,7 +89,7 @@ That closeness to power is also the institution's hazard. The elite standing tha
 
 A guardsman in full harness is unmistakable, and meant to be. The guard wears armor far richer than any line legion's, burnished and gilded and worked with the imperial _orkaima_, and it is meant to be seen on the walls and at the palace gates as a standing display of the throne's wealth and reach. Their standards and liveries set them visibly apart from the field army.
 
-The captaincy of the permanent palace detail is among the most trusted postings in the empire. Its holder shares with the Imperial _Tarkelos_ (treasury officer) and the _holrozimos_ (chief auditor) of the [[affiliation-tarmex|Tarmeks]] the securing of the imperial strongroom.
+The captaincy of the permanent palace detail is among the most trusted postings in the empire. Its holder shares with the Imperial _Tarkelos_ (treasury officer) and the _holrozimos_ (chief auditor) of [[affiliation-tarmex|The Tarmeks Orzan]] the securing of the imperial strongroom.
 
 ## Plot Hooks
 

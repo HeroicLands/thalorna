@@ -71,7 +71,7 @@ sohl: {system: {commonSkills: []}}
 # subtype: social
 ---
 
-The Iron Wolves are the kind of mercenary company that other mercenary companies refer to in the third person at length and avoid sharing camps with when possible. It is the company that takes the contract nobody else will sign.
+The Iron Wolves Company is the kind of mercenary company that other mercenary companies refer to in the third person at length and avoid sharing camps with when possible. It is the company that takes the contract nobody else will sign.
 
 - Type: independent mercenary company
 - Region: [[place-byzariargn|Bizaria]] principally; operates throughout western [[place-ankrscntnnt|Ankaris]] under contract
@@ -80,15 +80,15 @@ The Iron Wolves are the kind of mercenary company that other mercenary companies
 
 ## Overview
 
-They are not the largest free company in western Ankaris and they are not the most prestigious; what they are is _available_. The contracts other companies refuse—the ones that involve the suppression of villages that have failed to submit to a local lord's authority, the protection of operations that the regional authorities have declared unlawful, the breaking of strikes in mining concerns where the workers have proven inconveniently organized—find their way, eventually, to the Iron Wolves.
+They are not the largest free company in the western part of the [[place-ankrscntnnt|Ankaris Continent]] and they are not the most prestigious; what they are is _available_. The contracts other companies refuse—the ones that involve the suppression of villages that have failed to submit to a local lord's authority, the protection of operations that the regional authorities have declared unlawful, the breaking of strikes in mining concerns where the workers have proven inconveniently organized—find their way, eventually, to the Iron Wolves.
 
 The company's reputation is what makes it valuable to its employers and what makes it loathed by everyone else. An employer who hires the Iron Wolves knows what he is getting: a unit that will execute the contract as written, that will not flinch at orders that other companies would refuse, and that will not, afterward, complain. The premium charged for this dependability is substantial. So is the body count that has accumulated, over more than forty years of operation, in the wake of the company's contracts.
 
-The current captain, **Filazur Zighidek**, is the third in the company's history. He inherited a company already widely feared and has, by all accounts, made it more so. He is professional, methodical, and personally disinclined to cruelty; the cruelty is institutional and predates him. Filazur's working philosophy is that the company exists to execute paid work without sentiment, that the moral character of the work is the employer's problem, and that the company's reputation for ferocity is itself an asset that should be cultivated. He is, in his own assessment, a businessman.
+The current captain, **[Filazur Zighidek]{.name data-type="being/npc"}**, is the third in the company's history. He inherited a company already widely feared and has, by all accounts, made it more so. He is professional, methodical, and personally disinclined to cruelty; the cruelty is institutional and predates him. Filazur's working philosophy is that the company exists to execute paid work without sentiment, that the moral character of the work is the employer's problem, and that the company's reputation for ferocity is itself an asset that should be cultivated. He is, in his own assessment, a businessman.
 
 ## Backstory
 
-The Iron Wolves were founded forty years ago by **Arshkar Zighidek** (no relation to the current captain, despite the shared house name; the coincidence is one of the company's running internal jokes) as a small heavy-infantry outfit operating in the Amradi border country of the [[place-southrnmrch|Southern March]]. Arshkar was a former officer of the League's joint army cashiered for ordering reprisals on civilians during a frontier campaign; the cashiering had cost him his career but not his connections, and the company found steady contract work with merchant houses and minor lords whose interests the League's regular forces would not serve.
+The Iron Wolves were founded forty years ago by **[Arshkar Zighidek]{.name data-type="being/npc"}** (no relation to the current captain, despite the shared house name; the coincidence is one of the company's running internal jokes) as a small heavy-infantry outfit operating in the Amradi border country of the [[place-southrnmrch|Southern March]]. Arshkar was a former officer of the [[affiliation-byzarianlg|Bizarian League]]’s joint army cashiered for ordering reprisals on civilians during a frontier campaign; the cashiering had cost him his career but not his connections, and the company found steady contract work with merchant houses and minor lords whose interests the League's regular forces would not serve.
 
 The defining incident in the company's history occurred twenty-six years ago, in a small village called [[place-trianthion|Trianthion]] in the Bizarian hinterland. The village had refused to submit to a local lord's authority—refused his tax collectors, refused his garrison, and (most provocatively) sheltered a fugitive bandit chief who had robbed the lord's caravan. The lord hired the Iron Wolves to take the village. The company's instructions were standard: enter the village, seize the bandit chief, and demonstrate the cost of resistance. The standard demonstration, in such cases, was the burning of a few houses and the public hanging of the bandit chief.
 
@@ -109,9 +109,9 @@ The company is structured along legion lines, with adaptations for mercenary wor
 ### Notable Personnel
 
 - Captain Filazur Zighidek—professional, methodical, cold-blooded by selection rather than by temperament. He has no record of personal cruelty and is regarded by his men as fair, even generous. His decisions about which contracts to accept are the moral question that he, alone among the company, refuses to ask.
-- **First-Sergeant Parzhelion Trividek**—Filazur's senior field deputy and a Trianthion veteran. Parzhelion was a lieutenant at Trianthion under the previous captain and has never forgiven [[being-ghymrhrptrks|Ghimaráhr Rores]] for his subsequent desertion. Parzhelion keeps an informal standing inquiry running for any rumor of Ghimaráhr's whereabouts and is widely understood to be the principal reason the company has not formally retired the bounty.
-- First-Sergeant **Ghorigios Aikastos**—the administrative deputy; a former Vylarian quartermaster recruited for his logistics. Universally respected, occasionally feared.
-- Lieutenant **Áneveze Pédhikot**—commands the company's archery section; the only senior woman in command; widely considered the most tactically gifted officer in the company.
+- **First-Sergeant [[being-parzheliontr|Parzhelion Trividek]]**—Filazur's senior field deputy and a Trianthion veteran. Parzhelion was a lieutenant at Trianthion under the previous captain and has never forgiven [[being-ghymrhrptrks|Ghimaráhr Rores]] for his subsequent desertion. Parzhelion keeps an informal standing inquiry running for any rumor of Ghimaráhr's whereabouts and is widely understood to be the principal reason the company has not formally retired the bounty.
+- First-Sergeant **[Ghorigios Aikastos]{.name data-type="being/npc"}**—the administrative deputy; a former Vylarian quartermaster recruited for his logistics. Universally respected, occasionally feared.
+- Lieutenant **[Áneveze Pédhikot]{.name data-type="being/npc"}**—commands the company's archery section; the only senior woman in command; widely considered the most tactically gifted officer in the company.
 
 ## Territory and Operations
 
@@ -139,8 +139,8 @@ Training is rigorous and selective. The company recruits primarily from cashiere
 ## Relations
 
 - The Bizarian League—formally at arm's length; informally, the League knows what the company does and lets it operate because the company occasionally executes contracts the League itself would have preferred to commission. League investigations into Iron Wolves activity are reliably inconclusive.
-- The Málalidabandalag—unsigned and unwelcome. The Compact has refused the Iron Wolves' application for membership twice, both times for the company's pattern of civilian-target contracts. The Compact's senior captains regard the company with professional disdain; one of them puts it in a sentence: "They will sign anything, and that is the whole of what is wrong with them."
-- The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]—interested counterparty. Both the [[affiliation-velvethand|Velvet Hand]] and the [[affiliation-theashroad|Ash Road]] have, at various points, attempted to retain the company; the company has declined direct syndicate retainers while accepting contracts that it understood to be syndicate-funded through intermediaries.
+- The [[affiliation-malldbndlg|Málalidabandalag]]—unsigned and unwelcome. The Compact has refused the Iron Wolves' application for membership twice, both times for the company's pattern of civilian-target contracts. The Compact's senior captains regard the company with professional disdain; one of them puts it in a sentence: "They will sign anything, and that is the whole of what is wrong with them."
+- The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]—interested counterparty. Both [[affiliation-velvethand|The Velvet Hand]] and [[affiliation-theashroad|The Ash Road]] have, at various points, attempted to retain the company; the company has declined direct syndicate retainers while accepting contracts that it understood to be syndicate-funded through intermediaries.
 - [[being-ghymrhrptrks|Ghimaráhr Rores]]—the great unfinished business. The company's standing position is that Ghimaráhr is a deserter and a security risk whose silence cannot be assumed indefinitely. There is a quiet bounty on him; no one has yet claimed it because no one has yet located him.
 
 ## Identifying Marks

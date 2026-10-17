@@ -54,7 +54,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Khelathi: "The House of Hunters"—the guild of professional hunters of Au'Khelathu_
+_Gar'Nuw—Khelathi: "The House of Hunters"—the guild of professional hunters of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]_
 
 - Type: Imperial chartered guild
 - Region: [[place-aukhelathrgq|Au'Khelathu Region]]—central guildhouse at the capital, with regional chapter halls along the [[place-zumeleshrvr|Zumelesh]] and at the desert edge
@@ -63,7 +63,7 @@ _Khelathi: "The House of Hunters"—the guild of professional hunters of Au'Khel
 
 ## Overview
 
-A village on the Zumelesh whose goats keep vanishing at the river's edge does not send for a soldier. It sends for Gar'Nuw, which answers with a licensed culler, a bronze token at his belt and a report to file afterward. The guild licenses the empire's professional hunters, and that is the whole of its claim.
+A village on [[place-zumeleshrvr|The Zumelesh]] whose goats keep vanishing at the river's edge does not send for a soldier. It sends for Gar'Nuw, which answers with a licensed culler, a bronze token at his belt and a report to file afterward. The guild licenses the empire's professional hunters, and that is the whole of its claim.
 
 Most Khelathi game-taking is amateur: the household's livestock, the village's snares, the noble's pleasure hunt. The guild has no claim on amateurs. By imperial charter it licenses those who hunt for pay:
 
@@ -81,7 +81,7 @@ Two bodies hunt in the empire without a Gar'Nuw license, and the guild has made 
 
 The **Meglay** are the hereditary hunter-warden caste, whose noble families hold ancient charters of their own. Their authority is older than the guild, so Gar'Nuw's license does not bind them. By long-standing practice the Meglay families pay the guild informal courtesy dues, and the guild treats Meglay-conducted hunts as exempt from its examinations. The arrangement keeps both sides out of a jurisdictional fight that neither wants.
 
-The [[affiliation-zeghetnelgu|Zeghet'Nelgu]], the **Khetai** family's sacred hunt, are harder to place. Its members are nobles of the Meglay caste and exempt from the license, but their charter covers only their own stretch of the Zumelesh. Outside it they are technically hunting as Meglay nobles and not as Zeghet'Nelgu, and jurisdictional incidents occasionally break out at the border. They are settled by diplomacy, not litigation.
+The [[affiliation-zeghetnelgu|Zeghet'Nelgu]], the **[Khetai]{.name data-type="affiliation/lineage"}** family's sacred hunt, are harder to place. Its members are nobles of the Meglay caste and exempt from the license, but their charter covers only their own stretch of the Zumelesh. Outside it they are technically hunting as Meglay nobles and not as Zeghet'Nelgu, and jurisdictional incidents occasionally break out at the border. They are settled by diplomacy, not litigation.
 
 ## Joining and Rising
 
@@ -92,7 +92,7 @@ The guild recognizes four working ranks.
 - Apprentice (_sba-nuw_)—admitted between fourteen and eighteen, usually introduced by a sponsoring journeyman or master, and trained for three to five years. The apprenticeship is an entered undertaking like any other in the empire: a master who works an apprentice as a laborer without teaching him has an open entry against him.
 - Journeyman (_nuw_)—qualified by examination and permitted to take paid commissions under a master's seal. This is the working rank of most members.
 - Master Hunter (_lem-nuw_)—promoted by senior vote after presenting a documented record of significant work. A master may seal independently, take apprentices and sit on chapter councils.
-- Great Hunter (_wer-nuw_)—the most senior masters, who convene as the **Council of the Long Spear** at the central guildhouse, advise the imperial administration and adjudicate the highest guild disputes.
+- Great Hunter (_wer-nuw_)—the most senior masters, who convene as the **[Council of the Long Spear]{.name data-type="affiliation/governmental"}** at the central guildhouse, advise the imperial administration and adjudicate the highest guild disputes.
 
 A member who falsifies game counts, returns or pricing is subject to revocation.
 
@@ -114,11 +114,11 @@ Two other members matter to anyone dealing with the guild. [[being-akhrelrthllr|
 
 The guild drills three principles into apprentices from the first season at the southern guildhouse.
 
-- **The Hunter's Restraint.** A professional hunter takes only what his commission requires and leaves the rest of the population to renew. A mass cull happens only under an emergency charter from a chapter council and is documented in detail.
-- **The Hunter's Honesty.** The report of a hunt binds as tightly as the hunt. A member who falsifies game counts, returns conditions or pricing is subject to revocation.
-- **The Hunter's Respect.** The beast hunted is a creature of the Gar-Au's lands, and wantonness in its killing offends both the gods and the imperial order. Kills are carried out with all the speed and efficiency the beast's nature allows.
+- **[The Hunter's Restraint]{.name data-type="lore/custom"}.** A professional hunter takes only what his commission requires and leaves the rest of the population to renew. A mass cull happens only under an emergency charter from a chapter council and is documented in detail.
+- **[The Hunter's Honesty]{.name data-type="lore/custom"}.** The report of a hunt binds as tightly as the hunt. A member who falsifies game counts, returns conditions or pricing is subject to revocation.
+- **[The Hunter's Respect]{.name data-type="lore/custom"}.** The beast hunted is a creature of the Gar-Au's lands, and wantonness in its killing offends both the gods and the imperial order. Kills are carried out with all the speed and efficiency the beast's nature allows.
 
-The third principle has a religious edge. The Khelathi pantheon includes gods of the hunt, notably [[affiliation-linhur|Linhur]] and [[affiliation-linqur|Linkur]], whose patronage is understood to include scrutiny of the hunter's conduct. For that reason the guild's senior elevations include rites at both temples, performed in tandem.
+The third principle has a religious edge. The Khelathi pantheon includes gods of the hunt, notably [[lore-linhurdty|Linhur]] and [[lore-linqurdty|Linkur]], whose patronage is understood to include scrutiny of the hunter's conduct. For that reason the guild's senior elevations include rites at both temples, performed in tandem.
 
 A member carries a stamped bronze token, the _nuw-mudra_, bearing his license number, specialty and chapter. He presents it when accepting a commission and when entering any controlled hunting territory. Master Hunters wear at the throat a fang-pendant taken from their qualifying hunt. Great Hunters add an armband of beaten bronze marked with the open jaw of the lion. The First Hunter wears the great gold pectoral of the Long Spear, which stays at the central guildhouse between holders.
 

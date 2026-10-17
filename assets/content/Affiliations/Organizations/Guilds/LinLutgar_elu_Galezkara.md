@@ -52,7 +52,7 @@ The association's relation to the merchant houses is a standing refusal. The hou
 
 ## Commerce and Currency
 
-Say a merchant house sends an agent with a purse and an offer for an inn near the **Great Quay**. The keeper takes the offer as a courtesy, names her price as one she knows he will not meet, and mentions it that evening to the others. The next morning the agent is turned away at two more doors. The inns stay independent, and the information they trade is the capital's best-kept public secret.
+Say a merchant house sends an agent with a purse and an offer for an inn near **[[place-amqelger|Amqel-Ger]] (the Great Quay)**. The keeper takes the offer as a courtesy, names her price as one she knows he will not meet, and mentions it that evening to the others. The next morning the agent is turned away at two more doors. The inns stay independent, and the information they trade is the capital's best-kept public secret.
 
 ## See Also
 

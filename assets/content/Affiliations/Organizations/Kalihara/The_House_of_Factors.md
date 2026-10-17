@@ -49,9 +49,9 @@ sohl: {system: {commonSkills: [valtarlng]}}
 
 ## Overview
 
-The House of Factors is the port council of [[place-ilovanu|Ilovanu]]. It stands above the quay, and the merchant councils that run the port's affairs meet in it, under the eyes of the harbor-wardens who answer to the island's councils. Three families hold it: the Kubasari, the Zazurari and the Yakodari. Each carries the Valtari name of its trade on the quay and keeps a Kalihari name for its own people. Between them the three hold the warehouses, the lighters and the letters of credit through which the island's cardamom, cloves and colored stones reach [[place-vedyarargn|Vedyara]], Taruzel and the western kingdoms.
+The House of Factors is the port council of [[place-ilovanu|Ilovanu]]. It stands above the quay, and the merchant councils that run the port's affairs meet in it, under the eyes of the harbor-wardens who answer to the island's councils. Three families hold it: the [Kubasari]{.name data-type="affiliation/lineage"}, the [Zazurari]{.name data-type="affiliation/lineage"} and the [Yakodari]{.name data-type="affiliation/lineage"}. Each carries the Valtari name of its trade on the quay and keeps a Kalihari name for its own people. Between them the three hold the warehouses, the lighters and the letters of credit through which the island's cardamom, cloves and colored stones reach the [[place-vedyarargn|Vedyara Region]], the [[place-taruzelrgn|Taruzel Region]] and the western kingdoms.
 
-The House is a hall of the port and not of a free city. It sets the dues, settles disputes between traders and writes the letters that let a foreign hull go on to Nalurithan, and it does all of it by the Council's leave. A decision of the House that touches the foreign quarter's boundary, the pilots or the interior is not the House's to make, and the House knows the limit as well as any factor does.
+The House is a hall of the port and not of a free city. It sets the dues, settles disputes between traders and writes the letters that let a foreign hull go on to [[place-nalurithan|Nalurithan]], and it does all of it by the leave of [[affiliation-councilisland|The Council of the Island]]. A decision of the House that touches the foreign quarter's boundary, the pilots or the interior is not the House's to make, and the House knows the limit as well as any factor does.
 
 ## The Three Houses
 
@@ -69,7 +69,7 @@ The House wants what a port wants: more hulls, lower pilot fees and the approach
 
 ## Relations
 
-The Council allows the House its trade and sends the harbor-wardens to watch it; the House sends its views to the Council through the Councilor of the ports. The [[affiliation-wardensapproaches|Wardens of the Approaches]] are its constant antagonist, since the pilots' fees and the harbor-wardens' inquiries fall on the House's cargoes. Nalurithan's merchant houses are Ilovanu's rivals for the gem trade, and the quarrel is kept to prices and letters. The language of the House's business is [[skill-valtarlng|Valtari]].
+The Council allows the House its trade and sends the harbor-wardens to watch it; the House sends its views to the Council through the Councilor of the ports. [[affiliation-wardensapproaches|The Wardens of the Approaches]] are its constant antagonist, since the pilots' fees and the harbor-wardens' inquiries fall on the House's cargoes. Nalurithan's merchant houses are Ilovanu's rivals for the gem trade, and the quarrel is kept to prices and letters. The language of the House's business is [[skill-valtarlng|Valtari Language]].
 
 ## See Also
 

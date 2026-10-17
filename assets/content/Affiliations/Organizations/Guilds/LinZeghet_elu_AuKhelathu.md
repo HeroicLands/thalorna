@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-**Lin'Zeghet elu Au'Khelathu** is the chartered guild of the hunters of [[place-aukhelathrgq|Au'Khelathu]]. It licenses both the ordinary taking of game and the handling of beasts dangerous enough to need a specialist, and it sets the terms on which a hunter may work a given territory, so two hunters are rarely chasing the same ground under conflicting claims. Anyone hiring for a dangerous beast checks the license first, since an unlicensed hunter has answered to no one for his methods.
+**Lin'Zeghet elu Au'Khelathu** is the chartered guild of the hunters of the [[place-aukhelathrgq|Au'Khelathu Region]]. It licenses both the ordinary taking of game and the handling of beasts dangerous enough to need a specialist, and it sets the terms on which a hunter may work a given territory, so two hunters are rarely chasing the same ground under conflicting claims. Anyone hiring for a dangerous beast checks the license first, since an unlicensed hunter has answered to no one for his methods.
 
 ## Character
 

@@ -52,13 +52,13 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A Guild examiner opens every final oral the same way. She lays an imperial edict on the table, with its seal clean and correct at the foot, and asks the candidate whose hand makes it the Orzas's word. A candidate who answers "the Orzas's" has failed. The answer is the scribe's, which the seven-year course teaches.
+An examiner of The Imperial Scribal Guild opens every final oral the same way. She lays an imperial edict on the table, with its seal clean and correct at the foot, and asks the candidate whose hand makes it the Orzas's word. A candidate who answers "the Orzas's" has failed. The answer is the scribe's, which the seven-year course teaches.
 
 ## Overview
 
-The Imperial Scribal Guild is the institution that makes Vylaria possible. The [[affiliation-vylarinmpr|Empire]] reaches across four provinces, hundreds of cities, thousands of villages and a frontier that runs nearly to the [[place-khzryndsrtrgn|Khazryn Desert]], and all of that reach depends on legible records: tax rolls, military census, land registers, court judgments, imperial edicts, treasury accounts and the daily correspondence between Orzara and the provincial seats. Someone has to write, file, copy, retrieve and certify every page. The Guild trains, examines, licenses and, when it must, disciplines every one of those someones.
+The Imperial Scribal Guild is the institution that makes the [[affiliation-vylarinmpr|Vylarian Empire]] possible. The Empire reaches across four provinces, hundreds of cities, thousands of villages and a frontier that runs nearly to the [[place-khzryndsrtrgn|Khazryn Desert Region]], and all of that reach depends on legible records: tax rolls, military census, land registers, court judgments, imperial edicts, treasury accounts and the daily correspondence between [[place-orzara|Orzara City]] and the provincial seats. Someone has to write, file, copy, retrieve and certify every page. The Guild trains, examines, licenses and, when it must, disciplines every one of those someones.
 
-Its central hall stands in [[place-orzara|Orzara]], with a chapterhouse in every provincial capital. The Guild was chartered in the Empire's first century, has held custody of the imperial archive since 318, and was re-chartered by imperial edict in the eighty-third year of the present dynasty (about 489 AF); the charter has been renewed and expanded twice since. The Guild is a founding member of the [[affiliation-tevran|Tevran Maldor]], and its High Hand holds an ex officio seat on the Tevran's Council of the Tevran.
+Its central hall stands in Orzara, with a chapterhouse in every provincial capital. The Guild was chartered in the Empire's first century, has held custody of the imperial archive since 318, and was re-chartered by imperial edict in the eighty-third year of the present dynasty (about 489 AF); the charter has been renewed and expanded twice since. The Guild is a founding member of [[affiliation-tevran|The Tevran Maldor]], and its High Hand holds an ex officio seat on the Tevran's [Council of the Tevran]{.name data-type="affiliation/governmental"}.
 
 If the [[affiliation-ordoarcanis|Thordimalon]] is the empire's magical backbone, the Scribal Guild is its administrative one. A guild scribe's seal at the foot of a document carries the same warranty in a Vylarian court as an Arcane Order mage's seal carries in a chamber of inquiry. An imperial edict that no guild scribe has sealed has no force. A tax roll that no guild hand has touched cannot be collected. A land sale not registered through a guild office is not, in any practical sense, a sale.
 
@@ -73,12 +73,12 @@ A scribe climbs five ranks:
 - **Probationer** (_thilyunakos_)—a student in training; not authorized to seal independently.
 - **Scribe** (_thilos_)—qualified; permitted to seal routine documents under the supervision of a master.
 - **Master Scribe** (_thilgartos_)—examined; permitted to seal all civilian documents independently and to supervise junior scribes.
-- **Guildmaster**—promoted by senior vote; permitted to seal imperial edicts and to sit on the Council of the Guild.
+- **Guildmaster**—promoted by senior vote; permitted to seal imperial edicts and to sit on the [Council of Guildmasters]{.name data-type="affiliation/governmental"}.
 - **High Hand** (_holdekazu_)—the Guild's chair; one position, held for life or until resignation.
 
 A scribe whose license is revoked for proven misconduct loses the right to seal, which ends the career.
 
-The current High Hand is **Iulia Verronius**, the seventh of her line to hold senior Guild office and a figure of real political weight. The Council of Guildmasters meets monthly in Orzara and decides matters of guild standards, internal discipline and the Guild's relationship with the imperial administration.
+The current High Hand is **[Iulia Verronius]{.name data-type="being/npc"}**, the seventh of her line to hold senior Guild office and a figure of real political weight. The Council of Guildmasters meets monthly in Orzara and decides matters of guild standards, internal discipline and the Guild's relationship with the imperial administration.
 
 ## Notable Members
 

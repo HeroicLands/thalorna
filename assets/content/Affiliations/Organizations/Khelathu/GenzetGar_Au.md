@@ -50,17 +50,17 @@ data:
 
 ## Overview
 
-A decision made anywhere else in [[place-aukhelathrgq|Au'Khelathu]] still has to survive the [[lore-garauu|Gar-Au]]'s court before it becomes policy. **Genzet'Gar-Au** is the household and council that surrounds the Gar-Au, the body through which imperial appointment is made and favor distributed, and every faction with an interest in the empire's direction keeps a presence in it. A petitioner's request moves at the pace of whichever faction currently has the Gar-Au's ear, which is rarely the petitioner's own.
+A decision made anywhere else in the [[affiliation-empireakhlth|Empire of Au'Khelathu]] still has to survive the [[lore-garauu|Gar-Au]]'s court before it becomes policy. **Genzet'Gar-Au** is the household and council that surrounds the Gar-Au, the body through which imperial appointment is made and favor distributed, and every faction with an interest in the empire's direction keeps a presence in it. A petitioner's request moves at the pace of whichever faction currently has the Gar-Au's ear, which is rarely the petitioner's own.
 
 ## Character
 
 "Nobody tells you how the palace works," a court usher says to the petitioner waiting on the bench, "because everyone who knows has a stake in the answer. I will tell you anyway, since you have waited since dawn."
 
-The court is factional and personal. Every faction keeps a presence in it, and a petition moves at the pace of whichever faction has the Gar-Au's ear. Rank here is a short ladder: a courtier is anyone of the household or council who is present when the court sits, the Iru'palu comes from the royal family or one of the handful of exalted houses, and the Gar-Au is the divine sovereign above them all. Two offices at court belong to a Zabu: the Zemelu, companion of the Gar-Au, holds favor and access rather than territory, and the Zabet is a woman of rank at court.
+The court is factional and personal. Every faction keeps a presence in it, and a petition moves at the pace of whichever faction has the Gar-Au's ear. Rank here is a short ladder: a courtier is anyone of the household or council who is present when the court sits, the Iru'palu comes from the royal family or one of the handful of exalted houses, and the Gar-Au is regarded as the divine sovereign above them all. Two offices at court belong to a Zabu: the Zemelu, companion of the Gar-Au, holds favor and access rather than territory, and the Zabet is a woman of rank at court.
 
 ## Relations
 
-Genzet'Gar-Au is the household and council around the Gar-Au, through which appointment is made across [[place-aukhelathrgq|Au'Khelathu]]. A decision made elsewhere has to survive this court to become policy, so a Halzi'a, a minister or a temple that wants something done keeps someone near it. The factions do not agree and do not need to; they need only to be in the room.
+Genzet'Gar-Au is the household and council around the Gar-Au, through which appointment is made across [[affiliation-empireakhlth|Au'Khelathu]]. A decision made elsewhere has to survive this court to become policy, so a Halzi'a, a minister or a temple that wants something done keeps someone near it. The factions do not agree and do not need to; they need only to be in the room.
 
 The Judicial and Religious Advisor attends the court to advise on law and the gods, and has a residence in the palace complex, so law and the gods are consulted at the court itself.
 

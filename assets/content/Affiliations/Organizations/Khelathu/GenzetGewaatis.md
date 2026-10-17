@@ -36,17 +36,17 @@ data:
 
 ## Overview
 
-Insurers and investors look for the council's blessing before they back a voyage. **Genzet'Gewa'atis** is the governing council of [[affiliation-lutgewaatis|the temple of Gewa'atis]], drawn from the temple's senior priests and the captains whose voyages the god protects, and it administers the temple's holdings and authorizes the voyages that claim his protection. A voyage undertaken without its sanction sails without that protection, whatever its captain privately believes about the god's favor.
+Insurers and investors look for the council's blessing before they back a voyage. **Genzet'Gewa'atis** is the governing council of [[affiliation-lutgewaatis|Lut-Gewa'atis]] (the temple of Gewa'atis), drawn from the temple's senior priests and the captains whose voyages are held to be protected by the god, and it administers the temple's holdings and authorizes the voyages that claim his protection. A voyage undertaken without its sanction sails without that protection in the council's view, whatever its captain privately believes about the god's favor.
 
 ## Character
 
 A harbor captain who has sat on the council describes it to a younger captain who wants a voyage sanctioned: "It is a temple council and it is also a table of men who have lost cargoes. Both halves are listening when you speak."
 
-The council is practical and commercial in its piety. Its senior priests and captains sit together, and a voyage that lacks its sanction sails without the god's protection. For a seaman, that is no small thing; for an investor, it is a reason to say no.
+The council is practical and commercial in its piety. Its senior priests and captains sit together, and a voyage that lacks its sanction sails without what it regards as the god's protection. For a seaman, that is no small thing; for an investor, it is a reason to say no.
 
 ## Relations
 
-The council governs [[affiliation-lutgewaatis|the temple of Gewa'atis]] and answers for the voyages made under the god's protection. Its seats are drawn from the senior priests and from the captains the god protects, so the people who bless a voyage have usually made one. A captain who comes to the council with a plan for a hard crossing is talking to people who know what a hard crossing is.
+The council governs [[affiliation-lutgewaatis|the temple of Gewa'atis]] and answers for the voyages made under what it regards as the god's protection. Its seats are drawn from the senior priests and from the captains held to be protected by the god, so the people who bless a voyage have usually made one. A captain who comes to the council with a plan for a hard crossing is talking to people who know what a hard crossing is.
 
 ## Commerce and Currency
 

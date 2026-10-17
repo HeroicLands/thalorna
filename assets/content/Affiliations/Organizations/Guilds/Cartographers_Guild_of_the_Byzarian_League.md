@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Learn the seal before you learn the pen," a journeyman of the Cartographers' Guild tells the apprentice at the next table. "A map without a seal is a rumor. A map with one is a warranty, and the master who sealed it answers for every line." The League's soldiers and consuls agree, and that is the guild's whole power: no general in the League will march on a chart that does not carry a guild seal. It is also the guild's weakness, because the seal is only as honest as the hands that hold the dies, and someone inside the guild has been selling what the seal protects.
+"Learn the seal before you learn the pen," a journeyman of The Cartographers' Guild of the Bizarian League tells the apprentice at the next table. "A map without a seal is a rumor. A map with one is a warranty, and the master who sealed it answers for every line." The [[affiliation-byzarianlg|Bizarian League]]'s soldiers and consuls agree, and that is the guild's whole power: no general in the League will march on a chart that does not carry a guild seal. It is also the guild's weakness, because the seal is only as honest as the hands that hold the dies, and someone inside the guild has been selling what the seal protects.
 
 - Type: chartered professional guild
 - Region: [[place-byzariargn|Bizaria]], with chapterhouses in every League city
@@ -59,23 +59,23 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The guild holds the League's chartered monopoly on the production of maps for any purpose for which the state, the military or a merchant house will pay coin: city plans, sea charts, trade-route surveys, fortification plans, frontier reconnaissance, mine plats, harbor diagrams, and the great commissioned wall-maps that hang behind every consul's desk in Bizaria. To practice cartography in the League for a paying client without a guild license is a fineable offense; to produce a map of any League fortification or military disposition without guild oversight is treason.
+The guild holds the League's chartered monopoly on the production of maps for any purpose for which the state, the military or a merchant house will pay coin: city plans, sea charts, trade-route surveys, fortification plans, frontier reconnaissance, mine plats, harbor diagrams, and the great commissioned wall-maps that hang behind every consul's desk in the [[place-byzariargn|Bizaria Region]]. To practice cartography in the League for a paying client without a guild license is a fineable offense; to produce a map of any League fortification or military disposition without guild oversight is treason.
 
-The monopoly is an aspiration more than a fact. The guild is the most prestigious mapmaking body in western [[place-ankrscntnnt|Ankaris]], but it cannot prevent its members from selling the same map twice, once to the patron who commissioned it and once to whoever else will pay, and it cannot prevent its rivals from copying its work. The guild's central tension, in this generation, is the discovery that the rot is internal: at least one master of standing has been selling League military maps to foreign powers and to the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for fifteen years, and the leadership does not yet know how deep the compromise runs.
+The monopoly is an aspiration more than a fact. The guild is the most prestigious mapmaking body in the western part of the [[place-ankrscntnnt|Ankaris Continent]], but it cannot prevent its members from selling the same map twice, once to the patron who commissioned it and once to whoever else will pay, and it cannot prevent its rivals from copying its work. The guild's central tension, in this generation, is the discovery that the rot is internal: at least one master of standing has been selling League military maps to foreign powers and to the [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] for fifteen years, and the leadership does not yet know how deep the compromise runs.
 
 ## Membership and Structure
 
 The guild has three grades, and the road through them takes a minimum of fifteen years. An apprentice is admitted by examination, typically between twelve and sixteen years of age, and trained in geometry, drafting, surveying and the foundational pigments and inks. A journeyman is qualified by an examined survey of an assigned territory and may take paid commissions under a master's seal. A master is qualified by a vote of the sitting masters after a presented original work, and may seal commissions, take apprentices and sit on guild councils.
 
-At the apex sits the **Council of Masters**, presently nine seats, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities. Its chair, the Grand Cartographer, is presently **Olara Marenies**, an elderly woman whose late husband was a consul and whose own work is mostly administrative now. She is widely respected, modestly capable and politically isolated, which is why the rot has run as deep as it has.
+At the apex sits the **[Council of Masters]{.name data-type="affiliation/governmental"}**, presently nine seats, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities. Its chair, the Grand Cartographer, is presently **[Olara Marenies]{.name data-type="being/npc"}**, an elderly woman whose late husband was a consul and whose own work is mostly administrative now. She is widely respected, modestly capable and politically isolated, which is why the rot has run as deep as it has.
 
-The guild keeps the **Cartographic Archive** in Bizaria, the central repository of every map sealed by a guild master since the charter was granted. The Archive is the guild's true treasure and its greatest vulnerability: anyone with the means to copy from it controls the League's geographic intelligence.
+The guild keeps the **[Cartographic Archive]{.name data-type="place/site"}** in Bizaria, the central repository of every map sealed by a guild master since the charter was granted. The Archive is the guild's true treasure and its greatest vulnerability: anyone with the means to copy from it controls the League's geographic intelligence.
 
 ## Notable Members
 
 - Master [[being-damklsmpsn|Damáklios Bridutis]]—among the finest cartographers in the known world, suspected by the League's city guard of espionage. The investigation is ongoing.
-- Master **Kelilazul Frizipáhr** (deceased)—mentor of Damáklios, famous for the dictum, _the map is not the territory but the territory is judged against the map._
-- Master **Fruzukáz Selvazhazát**—a younger, jealous talent, cultivating relationships with the city guard and quietly spreading insinuations against Damáklios. Fruzukáz's motives are not entirely pure: he hopes to inherit Damáklios's commissions and is not above hastening the outcome.
+- Master **[[being-khelilazulfr|Kelilazul Frizipáhr]]** (deceased)—mentor of Damáklios, famous for the dictum, _the map is not the territory but the territory is judged against the map._
+- Master **[[being-fruzukazselv|Fruzukáz Selvazhazát]]**—a younger, jealous talent, cultivating relationships with the city guard and quietly spreading insinuations against Damáklios. Fruzukáz's motives are not entirely pure: he hopes to inherit Damáklios's commissions and is not above hastening the outcome.
 
 ## Doctrine and Practice
 
@@ -86,10 +86,10 @@ In practice the standards have eroded under commercial pressure. Maps are commis
 ## Relations
 
 - The League council and military—primary client and overseer. The League's investigators currently include the guild in the same breath as the spy networks they are trying to dismantle.
-- The [[affiliation-tevran|Tevran Maldor]]—supra-realm authority. The guild's standing throughout the western Vylarian world depends on its Tevran charter; the **Rozimoi of the Tevran** have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation against Master Damáklios. The matter is being held at chapter level for now; if it reaches the Council's attention, the consequences for the guild's charter could be substantial.
-- The Crime Syndicates of Thalorna, particularly the **Theft Syndicate of the Eastern Docks**—quietly major purchasers of guild work for purposes the guild's charter forbids.
-- The [[affiliation-blackledgr|Black Ledger]]—the guild's shadow. Most Ledger members are guild-trained, and many hold guild credentials and use them as cover. The Council pretends the Ledger does not exist, and the city guard pretends the Council does not know.
-- Foreign powers—[[place-tarvenirgn|Tarvénia]], an unidentified northern confederation and at least one Vylarian province pay handsomely for League maps procured through irregular channels.
+- [[affiliation-tevran|The Tevran Maldor]]—supra-realm authority. The guild's standing throughout the western Vylarian world depends on its Tevran charter; the **Rozimoi of the Tevran** have, in correspondence the guild's leadership has not made public, expressed pointed interest in the espionage investigation against Master Damáklios. The matter is being held at chapter level for now; if it reaches the Council's attention, the consequences for the guild's charter could be substantial.
+- The Crime Syndicates of Thalorna, particularly the **[Theft Syndicate of the Eastern Docks]{.name data-type="affiliation/criminal"}**—quietly major purchasers of guild work for purposes the guild's charter forbids.
+- [[affiliation-blackledgr|The Black Ledger]]—the guild's shadow. Most Ledger members are guild-trained, and many hold guild credentials and use them as cover. The Council pretends the Ledger does not exist, and the city guard pretends the Council does not know.
+- Foreign powers—the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], an unidentified northern confederation and at least one Vylarian province pay handsomely for League maps procured through irregular channels.
 
 ## Identifying Marks
 

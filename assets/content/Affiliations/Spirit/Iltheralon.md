@@ -71,6 +71,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Varthas—Ram Dolveras—Ox Tavemas—Twins Dulmekas—Tortoise Kalpezas—Gate Vonthas—Helm Thradinas—Balance Prenkas—Goad Ithrolas—Lamp Grelthas—Stag Sirethas—River Ulfas—Fish
+[[mystery-arnos|Varthas]]—Ram [[mystery-bourax|Dolveras]]—Ox [[mystery-diplos|Tavemas]]—Twins [[mystery-chelyx|Dulmekas]]—Tortoise [[mystery-thyron|Kalpezas]]—Gate [[mystery-korith|Vonthas]]—Helm [[mystery-stathmos|Thradinas]]—Balance [[mystery-kentros|Prenkas]]—Goad [[mystery-belos|Ithrolas]]—Lamp [[mystery-tragyx|Grelthas]]—Stag [[mystery-nalos|Sirethas]]—River [[mystery-opsar|Ulfas]]—Fish
 
 Iltheron—Star Circle

@@ -53,19 +53,19 @@ sohl: {system: {commonSkills: [kalihrlng]}}
 
 ## Overview
 
-The Avoluthei (_avoluthei_, cloud pass) hold [[place-klhrcldpss|the Cloud Pass]], the high notch by which the road from the eastern coast crosses [[place-klhrring|the Ring]] into [[place-klhrbowl|the Bowl]]. The lineage keeps the road: its cut steps, its rope bridges over the ravines, the shelters below the crest and the gate at the village of [[place-avoluthei|Avoluthei]], which carries the lineage's name and stands in cloud for most of the year. Their country lies on both sides of the crest.
+The Lineage Avoluthei (_avoluthei_, cloud pass) holds [[place-klhrcldpss|The Cloud Pass]], the high notch by which the road from the eastern coast crosses [[place-klhrring|The Ring]] into [[place-klhrbowl|The Great Bowl]]. The lineage keeps the road: its cut steps, its rope bridges over the ravines, the shelters below the crest and the gate at the village of [[place-avoluthei|Avoluthei]], which carries the lineage's name and stands in cloud for most of the year. Their country lies on both sides of the crest.
 
 ## Character
 
 The gate is the lineage's whole manner. A traveler coming up from the coast is stopped at the village and asked for a lineage's word, and one without it is turned back, and the gatekeepers do not discuss the matter. A port Kaliharan seldom goes up the road, and a foreigner almost never.
 
-The lineage's other charge is the Blindfolded Walk, the one way an outsider is ever brought inland. The custodians give that leave, rarely, and only they give it. When they do, the lineage meets the outsider at the foot of the outer face, binds the outsider's eyes with a band woven in the village, and leads the outsider step by step to the terraces below the inner face. The outsider sees the Bowl without ever seeing the way into it. The band, the walk and the choice of who leads are the Avoluthei's custom, and no other lineage walks an outsider over the Ring.
+The lineage's other charge is the [Blindfolded Walk]{.name data-type="lore/custom"}, the one way an outsider is ever brought inland. The custodians give that leave, rarely, and only they give it. When they do, the lineage meets the outsider at the foot of the outer face, binds the outsider's eyes with a band woven in the village, and leads the outsider step by step to the terraces below the inner face. The outsider sees the Bowl without ever seeing the way into it. The band, the walk and the choice of who leads are the Avoluthei's custom, and no other lineage walks an outsider over the Ring.
 
-The wind-stone of the pass stands on the crest above the village, and the Avoluthei walk it with the custodians out of [[place-mirthaan|Mirthaan]] who tend it. It is among the stones that give and are gray, and the Avoluthei say it is well. They say it often. Storms that once broke on the crest above the village now reach the inner face with less of their rain, and the eastern terraces beneath the pass have been dry in the Wet-Turn. The lineage lays the blame on the ports below, whose foreign hulls, it holds, have drawn the failing in, and it keeps the gate shut a little longer each year.
+The wind-stone of the pass stands on the crest above the village, and the Avoluthei walk it with the custodians out of [[place-mirthaan|Mirthaan]] who tend it. It is among the stones that give and are gray, and the Avoluthei say it is well. They say it often. Storms that once broke on the crest above the village now reach the inner face with less of their rain, and the eastern terraces beneath the pass have been dry in the [Wet-Turn]{.name data-type="lore/calendar"}. The lineage lays the blame on the ports below, whose foreign hulls, it holds, have drawn the failing in, and it keeps the gate shut a little longer each year.
 
 ## Relations
 
-The Avoluthei sit in the [[affiliation-councilisland|Council of the Island]] through their Elder and work with the custodianship of [[affiliation-tharivaan|Thári'vaan]] in the tending of the pass. Its quarrel is with the port, and the port's council is the [[affiliation-housefactors|House of Factors]], whose trade brings the hulls the lineage blames; it does not argue the point with anyone from the coast.
+The Avoluthei sit in [[affiliation-councilisland|The Council of the Island]] through their Elder and work with the custodianship of [[affiliation-tharivaan|Thári'vaan]] in the tending of the pass. Its quarrel is with the port, and the port's council is [[affiliation-housefactors|The House of Factors]], whose trade brings the hulls the lineage blames; it does not argue the point with anyone from the coast.
 
 ## See Also
 

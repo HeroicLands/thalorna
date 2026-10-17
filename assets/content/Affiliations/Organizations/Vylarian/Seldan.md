@@ -42,7 +42,7 @@ sohl: {system: {commonSkills: []}}
 
 An usher of the Seldan can tell you how a day's business will go before the first speaker rises, and he does it by watching where the _kurthoi_ (senators) sit. "See who has taken the bench beside whom. See which of them has left a gap. By the time the speaker is on his feet, the vote is half cast, and the speech is for the record and for the galleries. If you are called to the floor and nobody sits near you, you will be heard politely and you will lose."
 
-The **Seldan** (_Vylarian: "the Vylarian Court"_) is at once a building and the body that fills it: the Palace of the Senate within [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]], and the patrician assembly that gathers there. Beneath its bronze doors and within its tiered, semicircular chamber, the great families of the empire convene to debate, to posture, to conspire and, in theory, to advise the Orzas, the emperor. The senatorial order is drawn from the senior estates: the founding **Ethlenoi** and the established **Ankrenoi**, the houses whose names carry weight enough to claim a seat beneath the dome. The order guards its dignity jealously even in the ages when its power is least.
+The **Seldan** (_Vylarian: "the Vylarian Court"_) is at once a building and the body that fills it: the Palace of the Senate within [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara City]], and the patrician assembly that gathers there. Beneath its bronze doors and within its tiered, semicircular chamber, the great families of the empire convene to debate, to posture, to conspire and, in theory, to advise the Orzas, the emperor. The senatorial order is drawn from the senior estates: the founding **Ethlenoi** and the established **Ankrenoi**, the houses whose names carry weight enough to claim a seat beneath the dome. The order guards its dignity jealously even in the ages when its power is least.
 
 - **Type:** Imperial deliberative assembly and high court; seat of the patrician order
 - **Seat:** The Seldan, within Arvon, the Inner City of Orzara
@@ -63,14 +63,14 @@ A strong Orzas reduces the Seldan to a chorus, consulted for form, flattered and
 
 ## The Senate as High Court
 
-Beyond its deliberative role, the Seldan is the **highest court for senatorial persons**. The civic [[affiliation-verdanorzara|courts of Orzara]] have no authority over the nobility, the Senate or the crown, and the throne's own [[affiliation-verdanorzara|imperial tribunals]] in the **Imperial Offices** take up causes that touch the great. For senatorial persons in the gravest matters, judgment may rise higher still, to the Seldan itself, where a house is tried by its peers. To be arraigned before the Senate is the most serious proceeding a noble can face short of the Orzas's direct judgment, and the political stakes of such a trial are rarely smaller than the legal ones.
+Beyond its deliberative role, the Seldan is the **highest court for senatorial persons**. The civic [[affiliation-verdanorzara|courts of Orzara]] have no authority over the nobility, the Senate or the crown, and the throne's own [[affiliation-verdanorzara|imperial tribunals]] in the **[Imperial Offices]{.name data-type="place/structure"}** take up causes that touch the great. For senatorial persons in the gravest matters, judgment may rise higher still, to the Seldan itself, where a house is tried by its peers. To be arraigned before the Senate is the most serious proceeding a noble can face short of the Orzas's direct judgment, and the political stakes of such a trial are rarely smaller than the legal ones.
 
 ## Relations
 
 - **The Orzas**: patron, counterweight and master. The relationship defines the Seldan's power in any given reign; the Senate advises a strong throne and constrains a weak one.
 - **The [[affiliation-verdanorzara|Verdan Orzara]]**: the civic government of the city below, many of whose _veramusoi_ (curators of the city) are drawn from the senatorial order. The gravest senatorial causes rise from the imperial tribunals to the Seldan.
 - **The [[affiliation-vylrnmltry|estates of the nobility]]**: the _ethlenoi_ and _ankrenoi_ who fill its seats. The Senate is the political theater in which their rivalries are conducted.
-- **The [[affiliation-sorvan|Sorvan]]**: the armed factor in any succession the Senate's lobbies debate. _Kurthoi_ court the guard, and the guard watches the Senate.
+- **[[affiliation-sorvan|The Sorvan]]**: the armed factor in any succession the Senate's lobbies debate. _Kurthoi_ court the guard, and the guard watches the Senate.
 - **The court factions**: the Reformist and Conservative blocs that run through every imperial institution contend on the Seldan's floor as fiercely as anywhere in the empire.
 
 ## Plot Hooks

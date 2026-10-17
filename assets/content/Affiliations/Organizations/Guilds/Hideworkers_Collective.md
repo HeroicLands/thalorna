@@ -35,4 +35,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A collective of hideworkers—the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies.
+Hideworkers' Collective is a collective of hideworkers—the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies.

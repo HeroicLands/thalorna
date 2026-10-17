@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-The pearl trade of [[place-aukhelathrgq|Au'Khelathu]] once belonged to a single chartered house, **Gar-Qeltu**, until its charter lapsed and the [[lore-garauu|Gar-Au]]'s word dissolved it. It is the last major dissolution anyone in the empire can name, and it shows what a withdrawn charter means: the trade left the house's hands at once. A guild master who is reminded of Gar-Qeltu renews his charter well before its term runs out, rather than test whether the Gar-Au's patience matches his own confidence.
+The pearl trade of the [[place-aukhelathrgq|Au'Khelathu Region]] once belonged to a single chartered house, **Gar-Qeltu**, until its charter lapsed and the [[lore-garauu|Gar-Au]]'s word dissolved it. It is the last major dissolution anyone in the empire can name, and it shows what a withdrawn charter means: the trade left the house's hands at once. A guild master who is reminded of Gar-Qeltu renews his charter well before its term runs out, rather than test whether the Gar-Au's patience matches his own confidence.
 
 ## Character
 

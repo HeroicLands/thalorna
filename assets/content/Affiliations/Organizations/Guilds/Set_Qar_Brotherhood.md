@@ -62,7 +62,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-The **Brotherhood of Zel-Qar** is the closed company of stonecutters, draftsmen, sculptors and painters who cut and decorate the great tombs of the [[place-khelzuret|Khelzuret]] necropolis. It lives in [[place-zelqar|Zel-Qar]], the walled village on the western bank, apart from the ordinary labor-gangs and proud of the distinction. The trades and their secrets pass from father to son, so birth inside the walls is the ordinary door in and very nearly the only one.
+**Lin'Zemnu elu Zel-Qar**, the **Brotherhood of Zel-Qar**, is the closed company of stonecutters, draftsmen, sculptors and painters who cut and decorate the great tombs of the [[place-khelzuret|Khelzuret]] necropolis. It lives in [[place-zelqar|Zel-Qar]], the walled village on the western bank, apart from the ordinary labor-gangs and proud of the distinction. The trades and their secrets pass from father to son, so birth inside the walls is the ordinary door in and very nearly the only one.
 
 ## Character
 

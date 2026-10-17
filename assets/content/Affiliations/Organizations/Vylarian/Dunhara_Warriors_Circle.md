@@ -49,7 +49,7 @@ sohl: {system: {commonSkills: []}}
 
 _Dunhari: Tigh'Baharan, "Circle of the Mighty"_
 
-A Dunhari boy learns to recognize the strip of deep-blue leather on a warrior's left arm before he learns his own genealogy, and he learns the rule that goes with it: a man who wears the strip has sworn never to draw on another Dunhari while an outside enemy is in the desert. The **Warrior's Circle** is the body that keeps that oath, a gathering of the most respected warriors of every tribe that meets four times a year, at the season-turns, at the [[place-stoneofranaz|Stone of Ranaz]], and gathers the tribes against a threat none of them could meet alone.
+A Dunhari boy learns to recognize the strip of deep-blue leather on a warrior's left arm before he learns his own genealogy, and he learns the rule that goes with it: a man who wears the strip has sworn never to draw on another Dunhari while an outside enemy is in the desert. **The Warrior's Circle of the Dunhara Tribes** is the body that keeps that oath, a gathering of the most respected warriors of every tribe that meets four times a year, at the season-turns, at the [[place-stoneofranaz|Stone of Ranaz]], and gathers the tribes against a threat none of them could meet alone.
 
 - **Type:** a circle of warriors drawn from every tribe, with no captain over it
 - **Region:** the [[place-dunhardsrtrgn|Dunhara Desert]], meeting at the Stone of Ranaz, the hill-shrine where three tribal territories meet
@@ -57,28 +57,28 @@ A Dunhari boy learns to recognize the strip of deep-blue leather on a warrior's 
 
 ## Overview
 
-The Circle is older than any of the tribes of the present day. The poets say it was founded when the first Dunhari warriors, wandering bands that had not yet settled into the territories they now claim, met and swore that no Dunhari blade would be raised against another while a common enemy walked the land. The **Old Promise** has been broken many times in small ways and has held every time it mattered, and the Circle exists to keep it and, now and then, to use it.
+The Circle is older than any of the tribes of the present day. The poets say it was founded when the first Dunhari warriors, wandering bands that had not yet settled into the territories they now claim, met and swore that no Dunhari blade would be raised against another while a common enemy walked the land. The **[Old Promise]{.name data-type="lore/custom"}** has been broken many times in small ways and has held every time it mattered, and the Circle exists to keep it and, now and then, to use it.
 
 A warrior joins by acclamation of the members. Nobody applies and no tribe appoints. The tests are unwritten and nobody disputes them: years of proven skill at arms, of leading warriors in the field, and of judgment other warriors trust. Many members are chieftains and many chieftains are not members, and the Circle holds warriors of humble birth who earned their place.
 
-The Circle's authority is moral. It levies nothing and judges no quarrel between tribes, which is the work of the common council of the [[affiliation-dunhartrbs|Dunhara Tribes]], and the two bodies keep their spheres jealously apart. What the Circle does is gather the tribes. When the dead walk against the southern pastures, when the Tellumi Confederation tests the borders, when a false prophet among the storm-cults must be put down, the Circle meets, argues and rides. Tribes with members in it feel the obligation deeply, and tribes without feel the pressure to produce a candidate.
+The Circle's authority is moral. It levies nothing and judges no quarrel between tribes, which is the work of the common council of the [[affiliation-dunhartrbs|Dunhara Tribes]], and the two bodies keep their spheres jealously apart. What the Circle does is gather the tribes. When the dead walk against the southern pastures, when the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] tests the borders, when a false prophet among the storm-cults must be put down, the Circle meets, argues and rides. Tribes with members in it feel the obligation deeply, and tribes without feel the pressure to produce a candidate.
 
 ## Membership
 
 The Circle's full number is one hundred and eight warriors, the _baharan_, though some seventy usually attend a meeting. A member who stays away sends no one in his place; the rulings are made by those who come. Nobody is expelled, but a member who misses three meetings in a row is understood to have stepped aside.
 
-The longest-serving members form an informal inner body, the **Council of Scars** (_Tigh'Vast_), perhaps a dozen in any year. It does not vote separately, and when it is united the full Circle seldom goes against it.
+The longest-serving members form an informal inner body, the **[Council of Scars]{.name data-type="affiliation/governmental"}** (_Tigh'Vast_), perhaps a dozen in any year. It does not vote separately, and when it is united the full Circle seldom goes against it.
 
-The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, frames the questions and announces the rulings, is drawn by lot from those present and changes every meeting. The lot is drawn with marked stones, and between meetings the [[affiliation-strmcltsbhrms|Storm Cults]] keep the stones in trust, a small office of religious authority that has lasted centuries.
+The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, frames the questions and announces the rulings, is drawn by lot from those present and changes every meeting. The lot is drawn with marked stones, and between meetings [[affiliation-strmcltsbhrms|The Storm Cults of Báhramis]] keep the stones in trust, a small office of religious authority that has lasted centuries.
 
 ## Notable Members
 
-- [[being-shadznkmrz|Shadezan Kamruz]]: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of Báhramis, so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
+- [[being-shadznkmrz|Shadezan Kamruz]]: one of the most honored warriors of his generation, whom the Storm Cults recognize as a vessel of [[lore-bahramisdty|Báhramis]], so that his counsel weighs more than his single voice. The Circle has asked him to lead its gathered warriors twice in the last decade.
 - **The Council of Scars**: a dozen old warriors whose agreement settles most questions before they are put.
 
 ## The Two Principles
 
-The Circle holds two principles above all others. The **Old Promise**: no Dunhari blade is raised against another Dunhari while any outside enemy walks Dunhari land. The **Quiet After**: when the threat ends, the Circle's war ends. It annexes no land, holds no prisoner beyond his ransom and takes no lasting tribute. It removes a danger and goes home.
+The Circle holds two principles above all others. The **Old Promise**: no Dunhari blade is raised against another Dunhari while any outside enemy walks Dunhari land. The **[Quiet After]{.name data-type="lore/custom"}**: when the threat ends, the Circle's war ends. It annexes no land, holds no prisoner beyond his ransom and takes no lasting tribute. It removes a danger and goes home.
 
 Both have been tested. Twice in the last two centuries the Circle was petitioned to act against a Dunhari tribe whose leaders had done what the petitioners found intolerable, and twice it refused. One of those tribes became a vassal of the Tellumi Confederation and the other was swallowed by its neighbors within a generation, and the Circle counted both as the price of keeping the Old Promise whole.
 
@@ -88,7 +88,7 @@ When the Circle rides, its host is its own members and whatever warriors their t
 
 - **The common council of the tribes**: the chieftains' council at [[place-ghavulavad|Ghavulavad]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
 - **The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]**: the two are woven together. Many members are storm-cult initiates, the cults' practitioners open and close every meeting, and the cults' standing rests partly on the Circle's respect.
-- **The Sovidur**: the herding tribes of the [[place-khzryndsrtrgn|Khazryn]] steppe to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sovidur]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
+- **The [[lore-sowidesclt|Sovidur]]**: the herding tribes of the steppe of the [[place-khzryndsrtrgn|Khazryn Desert Region]] to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sovidur]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
 - **Foreign powers**: the Circle does not treat with any power outside the desert. Foreign envoys who reach the Stone uninvited are received with formal courtesy and sent away with nothing.
 
 ## The Mark

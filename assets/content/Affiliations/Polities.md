@@ -8,7 +8,7 @@ tags: [draft]
 data: {banner: null}
 ---
 
-States, kingdoms, empires, and other political bodies.
+Polities are states, kingdoms, empires, and other political bodies.
 
 ```sql
 SELECT address.slug AS _ref,

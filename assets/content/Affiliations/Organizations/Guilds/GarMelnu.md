@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Khelathi: "The House of the Mesnu"—the guild of metalworkers, after the ancient smith-harpooners who forged the weapons of Gewa'atis_
+_Gar'Melnu—Khelathi: "The House of the Mesnu"—the guild of metalworkers, after the ancient smith-harpooners who, in tradition, forged the weapons of [[lore-gewaatisdty|Gewa'atis]]_
 
 - Type: Imperial chartered guild
 - Region: [[place-aukhelathrgq|Au'Khelathu Region]]—central guildhouse at the capital, with chapter forges in every selat of consequence
@@ -62,11 +62,11 @@ _Khelathi: "The House of the Mesnu"—the guild of metalworkers, after the ancie
 
 ## Overview
 
-Every blade an imperial soldier carries, every scale on a temple guard's armor and every harpoon a [[affiliation-zeghetnelgu|Zeghet'Nelgu]] skiff throws at a crocodile in the [[place-zumeleshrvr|Zumelesh]] was made by a smith of **Gar'Melnu** or to its standards. The Khelathi empire is not primarily a military power: its armies are smaller and less expensively equipped than **Vylaria**'s, and its frontier defenses lean on diplomacy and terrain more than on weight of arms. The guild is how the Gar-Au's lands are armed all the same.
+Every blade an imperial soldier carries, every scale on a temple guard's armor and every harpoon a [[affiliation-zeghetnelgu|Zeghet'Nelgu]] skiff throws at a crocodile in [[place-zumeleshrvr|The Zumelesh]] was made by a smith of **Gar'Melnu** or to its standards. The [[affiliation-empireakhlth|Empire of Au'Khelathu]] is not primarily a military power: its armies are smaller and less expensively equipped than the **[[affiliation-vylarinmpr|Vylarian Empire]]**'s, and its frontier defenses lean on diplomacy and terrain more than on weight of arms. The guild is how the Gar-Au's lands are armed all the same.
 
 Civilian metalwork is the larger business by volume: plowshares, cooking vessels, hinges, tools, and the bronze and copper goods of daily life. The guild's prestige and political weight come from its near-monopoly on weapons and armor.
 
-The name is the oldest claim the guild makes. The **Mesnu** were the legendary smith-warriors who, in the founding mythology of Au'Khelathu, forged the harpoons with which [[lore-gewaatisdty|Gewa'atis]] slew the followers of [[lore-tjaqurdty|Chaq'ur]]. They were both metalsmiths and ritual warriors, and Gar'Melnu inherits both halves of that legacy. A master smith is an initiate of Gewa'atis and [[lore-psaqarudty|Saq'aru]], sworn at his elevation to standards of work that the guild treats as religious obligations. A master who falsifies a weapon's grade is punished by the guild and is also treated by the temples as having committed sacrilege.
+The name is the oldest claim the guild makes. The **Mesnu** were the legendary smith-warriors who, in the founding mythology of Au'Khelathu, forged the harpoons with which Gewa'atis slew the followers of [[lore-tjaqurdty|Chaq'ur]]. They were both metalsmiths and ritual warriors, and Gar'Melnu inherits both halves of that legacy. A master smith is an initiate of the [[affiliation-gewaatis|Faith of Gewa'atis]] and the [[affiliation-psaqaru|Faith of Saq'aru]], sworn at his elevation to standards of work that the guild treats as religious obligations. A master who falsifies a weapon's grade is punished by the guild and is also treated by the temples as having committed sacrilege.
 
 ## Joining and Rising
 
@@ -78,7 +78,7 @@ The ladder has five working ranks, and a rank is a statement about what you are 
 - Apprentice (_sba_)—three to seven years under a single master, learning forge management, basic shapes and the disciplines of copper and bronze. As with every craft in the empire, the apprenticeship is an entered undertaking: the master promises to teach, and a master who works a child as a laborer without teaching him has an open entry against him.
 - Journeyman (_melnu_)—qualified by examination and permitted to work independently on civilian commissions under a master's seal.
 - Master (_lem-Mesnu_)—promoted by senior vote after presenting an original work. A master may seal weapons and armor for imperial commissions, take apprentices and sit on chapter councils.
-- Great Smith (_wer-Mesnu_)—the most senior masters, who convene as the **Council of Smiths** at the central guildhouse, advise the Gar-Au's quartermasters and adjudicate guild disputes.
+- Great Smith (_wer-Mesnu_)—the most senior masters, who convene as the **[Council of Smiths]{.name data-type="affiliation/governmental"}** at the central guildhouse, advise the Gar-Au's quartermasters and adjudicate guild disputes.
 
 A smith whose sealed work fails loses the master's seal; the rank table calls that standing Revoked Seal.
 
@@ -86,17 +86,17 @@ A smith whose sealed work fails loses the master's seal; the rank table calls th
 
 The chair of the council is the **First Smith of the Gar-Au** (_Ilmy-Qelt Melnu_). The present First Smith is [[being-khelfrzbnmry|Khelafra Zebenmeryu]], a man in his sixties who has held the post for fourteen years. He coordinates the guild's central affairs and its bargaining with the Gar-Au's court, and he is widely respected and somewhat conservative. He is quietly maneuvering against the reformist faction that wants to liberalize the guild's apprenticeship requirements.
 
-That faction is [[affiliation-lethunu2|the Lethunu]], an informal group of younger Great Smiths and senior Masters who want a shorter apprenticeship, recruitment beyond the traditional smithing families, and modern accounting. Great Smith **Userhat Pamenes** leads it in public.
+That faction is [[affiliation-lethunu2|The Lethunu]], an informal group of younger Great Smiths and senior Masters who want a shorter apprenticeship, recruitment beyond the traditional smithing families, and modern accounting. Great Smith **[Userhat Pamenes]{.name data-type="being/npc"}** leads it in public.
 
-The Master of the highest standing is [[being-shezurzingat|Shezur Zin'Gatau]], widely regarded as the finest active armorer in the empire. He keeps his guild registration and pays his dues, but he refuses leadership positions and works from a personal forge in his home city. His standing contract with the **Imperial Military Quartermaster's Office** gives him priority access to the finest raw materials in imperial warehouses. Some Council members call that a quiet violation of guild equality; **Shezur** calls it earned.
+The Master of the highest standing is [[being-shezurzingat|Shezur Zin'Gatau]], widely regarded as the finest active armorer in the empire. He keeps his guild registration and pays his dues, but he refuses leadership positions and works from a personal forge in his home city. His standing contract with the **[Imperial Military Quartermaster's Office]{.name data-type="affiliation/governmental"}** gives him priority access to the finest raw materials in imperial warehouses. Some Council members call that a quiet violation of guild equality; **Shezur** calls it earned.
 
 ## The Three Standards
 
 The guild swears its masters to three standards and teaches them in their full religious form only at the elevation to master. The elevation is a temple rite, held at the great forge attached to the temple of Saq'aru in the capital.
 
-- **The Standard of the Edge.** Every weapon bearing a master's seal must hold the temper, balance and durability set out in the guild's published specifications. A sealed weapon that fails in imperial service triggers an immediate investigation, and substantiated failure means revocation of the master's seal.
-- **The Standard of the Scale.** Armor is fitted, not merely made. A master who issues armor that does not fit its wearer has failed the standard, however good the armor is in isolation.
-- **The Standard of the Mark.** The seal carries personal responsibility. A master cannot delegate the work and seal the result. He may take an apprentice's work as journeyman product, sealed at journeyman grade, but his own seal attests his own hand.
+- **[The Standard of the Edge]{.name data-type="lore/custom"}.** Every weapon bearing a master's seal must hold the temper, balance and durability set out in the guild's published specifications. A sealed weapon that fails in imperial service triggers an immediate investigation, and substantiated failure means revocation of the master's seal.
+- **[The Standard of the Scale]{.name data-type="lore/custom"}.** Armor is fitted, not merely made. A master who issues armor that does not fit its wearer has failed the standard, however good the armor is in isolation.
+- **[The Standard of the Mark]{.name data-type="lore/custom"}.** The seal carries personal responsibility. A master cannot delegate the work and seal the result. He may take an apprentice's work as journeyman product, sealed at journeyman grade, but his own seal attests his own hand.
 
 A guild master's seal is a brass die carrying his personal mark and the cartouche of his elevation year. He strikes the impression into the finished work in a set place: the underside of a blade's hilt, the interior of a helm's brow. Masters wear a copper armband on the right forearm, struck with the guild's mark, and Great Smiths wear the same in bronze. The First Smith wears the great gold collar of the Mesnu, which stays at the central guildhouse between holders.
 
@@ -114,7 +114,7 @@ A guild master's seal is a brass die carrying his personal mark and the cartouch
 - The Imperial Military Quartermaster's Office is the primary client. The quartermasters hold leverage through procurement but cannot easily replace the guild.
 - The temples of [[affiliation-psaqaru|Faith of Saq'aru]] and [[affiliation-gewaatis|Faith of Gewa'atis]] are the guild's religious foundation, and senior elevations are conducted in temple rite.
 - [[affiliation-garnuw|Gar'Nuw]], the hunters' guild, and the other Khelathi trade guilds are peers. Relations are cordial and governed by the inter-guild conventions agreed at the imperial guildhall.
-- Foreign traditions. The guild regards the Vylarian armory tradition with professional respect, the [[lore-khazrynclt|Khazryn]] smithing schools with cautious interest and the [[place-nrdlndsrgn|Nordlands]] traditions with curiosity. A foreign smith working in Au'Khelathu must obtain the guild's permission to seal work, and permission is rarely granted.
+- Foreign traditions. The guild regards the Vylarian armory tradition with professional respect, the [[lore-khazrynclt|Khazryn]] smithing schools with cautious interest and the traditions of the [[place-nrdlndsrgn|Nordlands Region]] with curiosity. A foreign smith working in Au'Khelathu must obtain the guild's permission to seal work, and permission is rarely granted.
 
 ## Plot Hooks
 

@@ -65,7 +65,7 @@ The Council of the Island governs [[affiliation-kalihara|Kalihara]] and decides,
 
 ## Character
 
-A matter reaches the Council through an Elder or a custodian. A fisher whose reef has gone quiet tells the Elder of the lineage that holds it; a terrace household whose wall keeps falling tells the Master of the Terraces; either carries the matter to Ilovanu when the Council sits. The Council hears it, decides, and has the decision written on palm-leaf sheets. The sheets go to [[place-ithorianu|Ithorianu]], where the lineage Ithorianu keeps the record in a long hall above the landing and copies it afresh in every Tenth-Year Walk.
+A matter reaches the Council through an Elder or a custodian. A fisher whose reef has gone quiet tells the Elder of the lineage that holds it; a terrace household whose wall keeps falling tells the Master of the Terraces; either carries the matter to Ilovanu when the Council sits. The Council hears it, decides, and has the decision written on palm-leaf sheets. The sheets go to [[place-ithorianu|Ithorianu]], where the lineage [Ithorianu]{.name data-type="affiliation/lineage"} keeps the record in a long hall above the landing and copies it afresh in every [Tenth-Year Walk]{.name data-type="lore/custom"}.
 
 The custodians hold the procedure and the Council holds the decision. A custodian can say that a tending-act is done exactly as it was handed down, and the Council decides whether an inherited procedure may be adjusted against a work that is failing; the silkan convene the council that settles the question. Neither body overrules the other on its own ground, and the Elders of the lineages whose works are in question sit in the room when it is decided.
 
@@ -73,7 +73,7 @@ What the Council tells outsiders is settled in the same room. A harbor-warden at
 
 ## Relations
 
-The Ithakan sit in the Council and keep its works; the [[affiliation-wardensapproaches|Wardens of the Approaches]] answer to its councils and carry its decisions to the sea-lanes and the quays. The [[affiliation-housefactors|House of Factors]] runs the port's trade under its leave and sends its views through the Councilor of the ports; the Council and the House want different things from the approaches, and the quay's trade goes on regardless. A few Elders and custodians belong to the [[affiliation-silharicircle|Sílhari circle]], which argues in the Council's corridors and has no seat of its own. The Council does not name the [[affiliation-keepershouse|Keeper's House]] among its bodies.
+The Ithakan sit in the Council and keep its works; [[affiliation-wardensapproaches|The Wardens of the Approaches]] answer to its councils and carry its decisions to the sea-lanes and the quays. [[affiliation-housefactors|The House of Factors]] runs the port's trade under its leave and sends its views through the Councilor of the ports; the Council and the House want different things from the approaches, and the quay's trade goes on regardless. A few Elders and custodians belong to [[affiliation-silharicircle|The Sílhari Circle]], which argues in the Council's corridors and has no seat of its own. The Council does not name [[affiliation-keepershouse|The Keeper's House]] among its bodies.
 
 ## See Also
 

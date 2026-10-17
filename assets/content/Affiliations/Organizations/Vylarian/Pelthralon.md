@@ -51,13 +51,13 @@ sohl: {system: {commonSkills: []}}
 
 A ward clerk, asked what a _peltros_ (ward magistrate) does all day, answers with the district law: "He decides what may be sold where. Then he decides who is selling it in the wrong place. Find out which of those two jobs your premises will fall under before you open your shutters."
 
-The _peltroi_, who together make up the **Pelthralon**, are the civic magistrates of [[place-orzara|Orzara]], and the only court most of its people will ever stand before. They keep the **district law**—the intricate and jealously enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each quarter of the city, and what may not.
+The _peltroi_, who together make up the **Pelthralon**, are the civic magistrates of [[place-orzara|Orzara City]], and the only court most of its people will ever stand before. They keep the **district law**—the intricate and jealously enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each quarter of the city, and what may not.
 
 Their jurisdiction is the ordinary business of a city of a million: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Their inspectors can shutter a business, levy a fine, or order a building pulled down, and the [[affiliation-vylrnmltry|City Watch]] supplies the muscle behind the ruling. The Watch enforces and investigates; it does not judge. The _peltroi_ judge.
 
-They sit at the bottom of the civic tier—below the **Civil Courts** for civil suits and the **Criminal Tribunal** for theft and violence, and far below the [[affiliation-verdanorzara|Verdan Orzara]], the council of five _veramusoi_ (curators of the city) that crowns the system and hears its gravest cases. The _veramus_ of Law oversees them. To be summoned from a _peltros_'s bench up to the imperial tribunals in the **Imperial Offices** is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
+They sit at the bottom of the civic tier—below the **Civil Courts** for civil suits and the **Criminal Tribunal** for theft and violence, and far below the [[affiliation-verdanorzara|Verdan Orzara]], the council of five _veramusoi_ (curators of the city) that crowns the system and hears its gravest cases. The _veramus_ of Law oversees them. To be summoned from a _peltros_'s bench up to the imperial tribunals in the **[Imperial Offices]{.name data-type="place/structure"}** is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
 
-Their reach ends at the **Clearance**, the swept strip of open ground that marks the city's edge. In the sprawl beyond it the ground is dirtier, wilder and more lawless, and it lies beyond the easy reach of the _peltroi_ and the Watch alike.
+Their reach ends at the **[Clearance]{.name data-type="place"}**, the swept strip of open ground that marks the city's edge. In the sprawl beyond it the ground is dirtier, wilder and more lawless, and it lies beyond the easy reach of the _peltroi_ and the Watch alike.
 
 ## The Bribe
 

@@ -73,7 +73,7 @@ _Precision, Discretion, and Expertise for Every Mission_
 
 ## Who We Are
 
-The Silent Talon is an elite mercenary company specializing in high-stakes, covert operations. With a handpicked team of experts in scouting, infiltration, combat, and tactical intelligence, we excel in missions requiring precision, secrecy, and specialized skills. Whether you need an operation handled without a trace or require intelligence gathered from behind enemy lines, the Silent Talon is your answer. We offer a tailored, strategic approach to challenging situations where subtlety, adaptability, and expertise are paramount.
+The Silent Talon Company is an elite mercenary company specializing in high-stakes, covert operations. With a handpicked team of experts in scouting, infiltration, combat, and tactical intelligence, we excel in missions requiring precision, secrecy, and specialized skills. Whether you need an operation handled without a trace or require intelligence gathered from behind enemy lines, the Silent Talon is your answer. We offer a tailored, strategic approach to challenging situations where subtlety, adaptability, and expertise are paramount.
 
 ## Our Capabilities
 
@@ -89,23 +89,23 @@ The Silent Talon’s mixed composition allows us to excel in a variety of specia
 
 - [[being-branwldrgr|Branval Dorgal]] --- _Captain_
 
-With a sharp mind for strategy and command, Branval has led men through some of the most dangerous conflicts in the Blood Lands. He brings unparalleled leadership and tactical insight to the group, ensuring that every mission is executed with precision. His focus is on calculated decisions, ensuring the safety and success of his team.
+With a sharp mind for strategy and command, [[being-branwldrgr|Branval Dorgal]] has led men through some of the most dangerous conflicts in the [Blood Lands]{.name data-type="place"}. He brings unparalleled leadership and tactical insight to the group, ensuring that every mission is executed with precision. His focus is on calculated decisions, ensuring the safety and success of his team.
 
 - [[being-dornsyndlr|Doren Sindalre]] --- _Assault Specialist_
 
-A formidable force on the battlefield, Doren is the heavy hitter of the Silent Talon. Towering in stature and wielding his axe with deadly efficiency, he’s a warrior who knows how to get the job done. When combat is needed, Doren is the first to charge in and the last to back down.
+A formidable force on the battlefield, [[being-dornsyndlr|Doren Sindalre]] is the heavy hitter of the Silent Talon. Towering in stature and wielding his axe with deadly efficiency, he’s a warrior who knows how to get the job done. When combat is needed, Doren is the first to charge in and the last to back down.
 
 - [[being-chlbrhydyn|Chelebe Riddin]] --- _Scout_
 
-A master of the wilderness, Chelebe hails from the Jerinálian Mountains, where he honed his skills in tracking, survival, and archery. His keen senses and deep knowledge of nature make him the group’s go-to for scouting missions and reconnaissance. Chelebe can blend seamlessly into the terrain, uncovering vital information with ease.
+A master of the wilderness, [[being-chlbrhydyn|Chelebe Riddin]] hails from the [Jerinálian Mountains]{.name data-type="place/feature"}, where he honed his skills in tracking, survival, and archery. His keen senses and deep knowledge of nature make him the group’s go-to for scouting missions and reconnaissance. Chelebe can blend seamlessly into the terrain, uncovering vital information with ease.
 
 - [[being-torniskbry|Tornis Kubri]] --- _Intelligence Operative_
 
-Silent, adaptable, and resourceful, Tornis is the man you call when you need to get into places no one else can. With an unrivaled talent for blending in, he excels in espionage, gathering intelligence, and handling missions that require discretion. Tornis’ ability to operate covertly makes him an indispensable part of the Silent Talon.
+Silent, adaptable, and resourceful, [[being-torniskbry|Tornis Kubri]] is the man you call when you need to get into places no one else can. With an unrivaled talent for blending in, he excels in espionage, gathering intelligence, and handling missions that require discretion. Tornis’ ability to operate covertly makes him an indispensable part of the Silent Talon.
 
 - [[being-elyseskyrn|Élithe Sarneth]] --- _Field Medic_
 
-Every team needs someone who can keep them going, and Élithe is the heart of Silent Talon’s support. A skilled healer and apothecary, Élithe ensures that no injury goes untreated and no poison goes unpurged. Her knowledge of herbs and remedies allows the team to recover quickly, no matter how dangerous the mission.
+Every team needs someone who can keep them going, and [[being-elyseskyrn|Élithe Sarneth]] is the heart of Silent Talon’s support. A skilled healer and apothecary, Élithe ensures that no injury goes untreated and no poison goes unpurged. Her knowledge of herbs and remedies allows the team to recover quickly, no matter how dangerous the mission.
 
 ---
 

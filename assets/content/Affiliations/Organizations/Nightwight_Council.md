@@ -36,7 +36,7 @@ data:
 
 ## Overview
 
-The **Nightwight Council** is a cabal of Helspawn lords who serve [[affiliation-nahild|Nahild]]. Its members are [[being-tereb|Nightwights]], and it recognizes [[being-hvrnrvdthmg|Hvirnorv the Deathmage]] as its most powerful member.
+The **Nightwight Council** is a cabal of Helspawn lords who serve the [[affiliation-nahild|Faith of Nahild]]. Its members are [[being-tereb|Nightwights]], and it recognizes [[being-hvrnrvdthmg|Hvirnorv the Deathmage]] as its most powerful member.
 
 ## Relations
 

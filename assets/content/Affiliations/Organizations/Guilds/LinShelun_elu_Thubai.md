@@ -36,11 +36,11 @@ data:
 
 ## Overview
 
-**Lin'Shelun elu Thuba'i** is the collective of performers and artists who work under the patronage of [[lore-thubaidty|Thuba'i]]. The god's temple funds their work and takes a share of whatever acclaim it earns. Musicians, actors and visual artists enter by invitation, and membership is a mark of standing among the capital's players.
+**Lin'Shelun elu Thuba'i** is the collective of performers and artists who work under the patronage of the [[affiliation-thubai|Faith of Thuba'i]]. The god's temple funds their work and takes a share of whatever acclaim it earns. Musicians, actors and visual artists enter by invitation, and membership is a mark of standing among the capital's players.
 
 ## Character
 
-"You were asked in, so you play," says the senior musician, handing you the second flute, "and you play the way they paid for." The **Artistic Collective of Thuba'i** is a body of performers and artists working under the patronage of the god, and its membership is by invitation. An **Artist of the Collective** is a musician, player or painter who has been asked in and is funded by the temple.
+"You were asked in, so you play," says the senior musician, handing you the second flute, "and you play the way they paid for." The **Artistic Collective of Thuba'i** is a body of performers and artists working under the patronage of the faith, and its membership is by invitation. An **Artist of the Collective** is a musician, player or painter who has been asked in and is funded by the temple.
 
 The collective is prestigious and beholden. Membership is a mark of standing among the capital's players, since an artist outside it is assumed to lack the talent or the connections to have been asked. It also carries the temple's claim on a member's reputation: the temple funds the work and takes a share of the acclaim, and a member's success is also the temple's.
 

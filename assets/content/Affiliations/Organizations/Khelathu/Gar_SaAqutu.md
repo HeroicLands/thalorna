@@ -40,7 +40,7 @@ data:
 
 ## Overview
 
-**Gar-Sa'Akutu** advances on two fronts at once. Its sons are raised through the officer ranks of the army of [[place-aukhelathrgq|Au'Khelathu]] and its daughters are placed at court, and the family treats command and courtly influence as complementary halves of one strategy, each generation's placements chosen to support the other. The women hold no rank in the army, and they are no less the house's instruments than the men.
+**Gar-Sa'Akutu** advances on two fronts at once. Its sons are raised through the officer ranks of the army of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and its daughters are placed at court, and the family treats command and courtly influence as complementary halves of one strategy, each generation's placements chosen to support the other. The women hold no rank in the army, and they are no less the house's instruments than the men.
 
 ## Character
 
@@ -50,7 +50,7 @@ The house is strategic and patient. It treats command and court influence as two
 
 ## Relations
 
-Sons of the house rise through the officer ranks of [[place-aukhelathrgq|Au'Khelathu]]'s army, and daughters are placed at court. Neither half works alone. An officer's promotion has a sister's introduction behind it, and a sister's position is steadied by a brother who commands soldiers. Anyone dealing with the house deals with the whole design at once, whichever member happens to be in front of them.
+Sons of the house rise through the officer ranks of Au'Khelathu's army, and daughters are placed at court. Neither half works alone. An officer's promotion has a sister's introduction behind it, and a sister's position is steadied by a brother who commands soldiers. Anyone dealing with the house deals with the whole design at once, whichever member happens to be in front of them.
 
 ## What It Deals In
 

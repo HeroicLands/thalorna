@@ -36,11 +36,11 @@ data:
 
 ## Overview
 
-The **Raven Guard** is the garrison of elite warriors kept by the temple of [[affiliation-odvar|Odvar]] at [[place-odholm|Odholm]]. Its warriors are sworn to the temple and to the defense of the north's holy places.
+The **Raven Guard** is the garrison of elite warriors kept by the temple of the [[affiliation-odvar|Faith of Odvar]] at [[place-odholm|Odholm]]. Its warriors are sworn to the temple and to the defense of the north's holy places.
 
 ## Standing
 
-Mystical authority and martial strength together give Odholm real influence for its size, and the Guard is the martial half. Nordheim counts the settlement as strategic as well as holy for that reason.
+Mystical authority and martial strength together give Odholm real influence for its size, and the Guard is the martial half. The [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] counts the settlement as strategic as well as holy for that reason.
 
 ## See Also
 
