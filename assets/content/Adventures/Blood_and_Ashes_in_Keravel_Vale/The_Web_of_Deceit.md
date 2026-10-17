@@ -17,11 +17,11 @@ data:
 
 ## Teaser
 
-With the brigands scattered and their leader defeated, the Vale should be at peace—but the shadows of [[place-ceravelvale|Keravel]] conceal deeper threats. Evidence points to a cunning noble manipulating the chaos for his own gain, stoking unrest to weaken his rivals and further his ambitions. As the adventurers unravel the threads of deception, they must navigate political intrigue, confront dangerous allies of their new enemy, and uncover a secret alliance that threatens to plunge the region into greater peril. Can they expose the puppet master pulling the Vale's strings, or will they fall victim to his carefully laid plans? The stakes rise, and the lines between friend and foe blur in this tale of betrayal and ambition.
+In The Web of Deceit, with the brigands scattered and their leader defeated, [[place-ceravelvale|Keravel Vale]] should be at peace—but the shadows of Keravel conceal deeper threats. Evidence points to a cunning noble manipulating the chaos for his own gain, stoking unrest to weaken his rivals and further his ambitions. As the adventurers unravel the threads of deception, they must navigate political intrigue, confront dangerous allies of their new enemy, and uncover a secret alliance that threatens to plunge the region into greater peril. Can they expose the puppet master pulling the Vale's strings, or will they fall victim to his carefully laid plans? The stakes rise, and the lines between friend and foe blur in this tale of betrayal and ambition.
 
 ## Background
 
-In this part, the adventurers track down Kilan's true motives and confront him. They realize that Kilan's actions are not just a power grab but also involve his devotion to the Black Flame and secret alliance with Kaldin al Lénavel na [[place-leravren|Leravren]] of the Zuravel clan (a fierce Black Flame), with Kilan intending to use the power of an ancient Black Flame artifact hidden in the Blood Hills east of [[place-belsaren|Belsaren]].
+In this part, the adventurers track down [Kilan Ilovrel na Ilovren]{.name data-type="being/npc"}'s true motives and confront him. They realize that Kilan's actions are not just a power grab but also involve his devotion to [[affiliation-blackflame|The Black Flame]] and secret alliance with [Kaldin al Lénavel na Leravren]{.name data-type="being/npc"} of the [Zuravel]{.name data-type="affiliation/lineage"} clan (a fierce Black Flame), with Kilan intending to use the power of an ancient Black Flame artifact hidden in [[place-bloodhills|The Blood Hills]] east of [[place-belsaren|Belsaren]].
 
 ## Adventure Structure
 
@@ -29,15 +29,15 @@ In this part, the adventurers track down Kilan's true motives and confront him. 
 
 ## Key Players
 
-- **Darisen al Olrun**: An erudite and seemingly benign individual with deep knowledge of Black Flame history. Darisen offers assistance in understanding Kilan, his motives, deciphering the cryptic clues, and tracking the shrine's location. Unbeknownst to everyone, Darisen is actually a Sélmoran with his own designs to acquire the artifact for Sélmoros.
+- **[Darisen al Olrun]{.name data-type="being/npc"}**: An erudite and seemingly benign individual with deep knowledge of Black Flame history. Darisen offers assistance in understanding Kilan, his motives, deciphering the cryptic clues, and tracking the shrine's location. Unbeknownst to everyone, Darisen is actually a Sélmoran with his own designs to acquire the artifact for the [[affiliation-selmoros|Faith of Sélmoros]].
 - **Kilan Ilovrel na Ilovren**: Lord of [[place-ilovren|Ilovren]]
-- **Kaldin al Lénavel na Leravren**: Lord of Leravren, and member of the Zuravel clan of the Black Flame.
+- **Kaldin al Lénavel na Leravren**: Lord of [[place-leravren|Leravren]], and member of the Zuravel clan of the Black Flame.
 
 ## Key Events
 
 - **Meeting with Darisen**: TBD
-- **Investigating Kilan's Network:** The adventurers discover that Kilan has been building alliances with the Zuravel clan of the Black Flame, particularly Kaldin, in secret. The adventurers uncover his attempts to support local bandits, and the existence of abandoned shrine to the Black Flame in the Blood Lands east of Belsaren, indicating his deeper intentions.
-- **Kilan's Political Maneuvering:** Kilan attempts to discredit the adventurers and paint them as brigands or untrustworthy mercenaries in the eyes of his liege, Jarvel Pélanvri. The adventurers must gather evidence to prove Kilan's actions and his intentions to betray Jarvel.
+- **Investigating Kilan's Network:** The adventurers discover that Kilan has been building alliances with the Zuravel clan of the Black Flame, particularly Kaldin, in secret. The adventurers uncover his attempts to support local bandits, and the existence of an abandoned shrine to the Black Flame in the Blood Lands east of Belsaren, indicating his deeper intentions.
+- **Kilan's Political Maneuvering:** Kilan attempts to discredit the adventurers and paint them as brigands or untrustworthy mercenaries in the eyes of his liege, [Jarvel al Pélanvri na Torvila Keravel]{.name data-type="being/npc"}. The adventurers must gather evidence to prove Kilan's actions and his intentions to betray Jarvel.
 - **The Confrontation:** Eventually, the adventurers face Kilan in his stronghold, accusing him of conspiring with Kaldin to destabilize Belsaren in particular and Keravel more broadly. Depending on their actions, they might confront him in a political arena or a physical one. Kaldin has supplied Kilan with a group of loyal Black Flame soldiers, including some of the bandits who survived Part 1.
 - **Reveal of the Artifact:** Before his defeat, Kilan hints at the true nature of his plans—the Black Flame artifact hidden deep within the Blood Lands that could grant him immense power if recovered.
 

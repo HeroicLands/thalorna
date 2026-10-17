@@ -17,26 +17,26 @@ data:
 
 ## Teaser
 
-The secrets of [[place-ceravelvale|Keravel Vale]] lead to its most perilous chapter yet. Deep within the ominous Blood Hills lies a place shrouded in legend, rumored to conceal a powerful artifact capable of altering the balance of power in the region. The adventurers must race against time to uncover its secrets before it falls into the wrong hands. Along the way, they will face treacherous terrain, shadowed ruins, and unknown challenges that will test their mettle at every turn. Harrowing choices await—choices that will not only define their legacy but determine the fate of the Vale itself.
+In The Fires of the Blood Hills, the secrets of [[place-ceravelvale|Keravel Vale]] lead to its most perilous chapter yet. Deep within the ominous terrain of [[place-bloodhills|The Blood Hills]] lies a place shrouded in legend, rumored to conceal a powerful artifact capable of altering the balance of power in the region. The adventurers must race against time to uncover its secrets before it falls into the wrong hands. Along the way, they will face treacherous terrain, shadowed ruins, and unknown challenges that will test their mettle at every turn. Harrowing choices await—choices that will not only define their legacy but determine the fate of the Vale itself.
 
 ## Overview
 
-In the final part, the adventurers venture into the Blood Hills to find the shrine where the Black Flame artifact is hidden. The adventurers must decide whether to claim the artifact for themselves, destroy it, or return it to a Sacred Forge authority.
+In the final part, the adventurers venture into the Blood Hills to find the shrine where the artifact of [[affiliation-blackflame|The Black Flame]] is hidden. The adventurers must decide whether to claim the artifact for themselves, destroy it, or return it to an authority of [[affiliation-sacredforge|The Sacred Forge]].
 
 ## Adventure Outline
 
 ### The Perilous Path through the Blood Hills
 
-- **Description:** The adventurers follow Kilan's notes and the map they obtained, venturing into the desolate and cursed Blood Hills. The land itself seems hostile, with twisted trees, sudden rock slides, and an unnatural silence. The area is dotted with the remnants of old Black Flame battles, like abandoned shrines, skeletons, and burned soil.
+- **Description:** The adventurers follow [Kilan Ilovrel na Ilovren]{.name data-type="being/npc"}'s notes and the map they obtained, venturing into the desolate and cursed Blood Hills. The land itself seems hostile, with twisted trees, sudden rock slides, and an unnatural silence. The area is dotted with the remnants of old Black Flame battles, like abandoned shrines, skeletons, and burned soil.
 - **Challenge:** The Blood Hills are treacherous, with natural hazards like unstable terrain, sinkholes, and sudden steep inclines. To complicate matters, the adventurers encounter lingering traces of Black Flame magic—areas tainted with curses that sap their strength or fill them with unease.
 - **Optional Encounter:** They may encounter the restless spirits of warriors who died in ancient battles, haunting the area as shades that test the adventurers' resolve and try to scare them away.
 - **Clue:** The adventurers come across faded carvings or symbols that reinforce they're on the right path. These carvings mention both the shrine and the V'hir, a powerful demon-like guardian bound to protect the artifact, hinting at the final challenge ahead.
 
 ### Black Flame Ambush in the Hills
 
-- **Description:** As the adventurers approach the shrine's location, they are ambushed by a group of Black Flame soldiers, led by an emissary of Kaldin al Lénavel. These soldiers have been following the adventurers, hoping to seize the artifact themselves or prevent the adventurers from interfering.
+- **Description:** As the adventurers approach the shrine's location, they are ambushed by a group of Black Flame soldiers, led by an emissary of [Kaldin al Lénavel na Leravren]{.name data-type="being/npc"}. These soldiers have been following the adventurers, hoping to seize the artifact themselves or prevent the adventurers from interfering.
 - **Challenge:** The ambush is well-planned, with soldiers taking advantage of the rocky terrain for cover. The adventurers must contend with ranged attackers on high ground, skilled Black Flame zealots in melee, and perhaps a Black Flame priest using dark magic to weaken them.
-- **Reward:** If the adventurers defeat the ambush, they capture the emissary or find notes on the soldiers, revealing that Kaldin has been tracking their movements. These notes reinforce the artifact's importance to the Zur clan, and hint that the shrine is extremely close.
+- **Reward:** If the adventurers defeat the ambush, they capture the emissary or find notes on the soldiers, revealing that Kaldin has been tracking their movements. These notes reinforce the artifact's importance to the [Zuravel]{.name data-type="affiliation/lineage"} clan, and hint that the shrine is extremely close.
 
 ### Entering the Shrine and Overcoming Traps
 
@@ -56,7 +56,7 @@ In the final part, the adventurers venture into the Blood Hills to find the shri
 
 - **Description:** In the shrine's inner sanctum, the adventurers find the artifact resting on an ornate, blood-stained altar. The room is filled with a sinister energy, and the artifact—the [[scenario-maulgashng|Maul of Gashang]]—radiates a dark, intoxicating power that calls to anyone who enters.
 - **Challenge:** The adventurers face an intense moral and practical decision. They can take the artifact for themselves, destroy it, or choose to bring it to a Sacred Forge authority. Each choice carries risks: possessing it might corrupt or curse the wielder, destroying it could unleash its power unpredictably, and turning it over to authorities could earn them enemies among Black Flame cultists or the Zur clan.
-- **Resolution:** As they make their choice, they may experience visions or whispers from the Black Flame, promising them power if they embrace the artifact's purpose. This moment is tense, filled with the potential for betrayal, temptation, or introspection. The decision they make will determine the campaign's legacy and the adventurers' role in the fate of the Keravel Vale.
+- **Resolution:** As they make their choice, they may experience visions or whispers promising them power if they embrace the artifact's purpose. They may attribute these experiences to the Black Flame. This moment is tense, filled with the potential for betrayal, temptation, or introspection. The decision they make will determine the campaign's legacy and the adventurers' role in the fate of the Keravel Vale.
 
 ### Possible Ending Paths
 

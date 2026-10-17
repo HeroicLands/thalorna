@@ -17,13 +17,13 @@ data:
 
 ### Approach to the Cave
 
-- **Description:** The approach to the cave is concealed in a dense, wooded area, where bandits have set up a watch post to spot intruders. The cave entrance is hidden behind thick bushes and thorny brambles, requiring a keen eye or a guide to find.
+- **Description:** Cave Outline begins with an approach to the cave concealed in a dense, wooded area, where bandits have set up a watch post to spot intruders. The cave entrance is hidden behind thick bushes and thorny brambles, requiring a keen eye or a guide to find.
 
 - **Challenge:** Adventurers must navigate the forested terrain without alerting the guards. The bandits have set up hidden tripwires and simple alarms (like cans or bells) to detect intruders.
 
 - **Encounter:** One or two vigilant bandits are stationed here, ready to raise an alarm if they detect movement. The adventurers can attempt to stealth past, take out the guards quietly, or deceive them.
 
-- **Optional Clue:** The adventurers might overhear the guards talking about traps inside or the recent betrayal by Thárion, hinting at internal bandit tensions.
+- **Optional Clue:** The adventurers might overhear the guards talking about traps inside or the recent betrayal by [Thárion al Dracaen]{.name data-type="being/npc"}, hinting at internal bandit tensions.
 
 ### Hidden Traps and Ambush
 
@@ -53,7 +53,7 @@ data:
 
 - **Challenge:** Thárion is a skilled tactician and uses his environment to his advantage, positioning his men to block exits and funnel the adventurers into kill zones. He has a few last-ditch traps (like rockfalls) he can trigger if the battle turns against him.
 
-- **Twist:** During the fight, Thárion might reveal hints of Kilan’s manipulation, either as a plea for mercy or as a way to turn the adventurers against Kilan. He claims Kilan used him, stirring a choice between defeating Thárion outright or leveraging him for information.
+- **Twist:** During the fight, Thárion might reveal hints of [Kilan Ilovrel na Ilovren]{.name data-type="being/npc"}’s manipulation, either as a plea for mercy or as a way to turn the adventurers against Kilan. He claims Kilan used him, stirring a choice between defeating Thárion outright or leveraging him for information.
 
 ### 5. The Bandit’s Defeat
 
