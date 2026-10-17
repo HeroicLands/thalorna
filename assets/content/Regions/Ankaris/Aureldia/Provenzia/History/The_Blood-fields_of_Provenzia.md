@@ -8,7 +8,7 @@ tags: []
 data: {packFolder: provenzia, culture: provenzianclt}
 ---
 
-Provenzia's history is one of dispute and warfare going back as far as anyone can remember, and the
+The [[place-provenzrgn|Provenzia Region]]'s history is one of dispute and warfare going back as far as anyone can remember, and the
 kingdom carries the record of it in its ground. Scattered across the region are the **blood-fields**:
 places where a battle was fought at such cost that something of it stayed behind.
 
@@ -41,7 +41,7 @@ The distinction matters in every practical respect:
 | Who keeps it | The Áelendan Wardens and long custom   | Nobody. That is much of the problem     |
 
 Blood-fields have no equivalent of the [[affiliation-alndnwrdns|Áelendan Wardens]], who keep the
-aralwain of Élavendre; nobody has ever been made responsible for a blood-field. What every people
+aralwain of [[place-elavendre|Élavendre]]; nobody has ever been made responsible for a blood-field. What every people
 agrees a blood-field is, how thin one runs and what crosses it, are set out in
 [[lore-bloodfield|Blood-fields]].
 
@@ -78,8 +78,8 @@ _worked on_ are another matter.
 
 Very little, and deliberately.
 
-The clergy of [[affiliation-selmoros|Sélmoros]], the Silent Judge, hold the competent authority.
-Their rite over a blood-field is one of settlement rather than cleansing—an acknowledgement that the
+The clergy of the [[affiliation-selmoros|Faith of Sélmoros]], who serve [[lore-selmorosdty|Sélmoros]] as the Silent Judge, hold the competent authority.
+Their rite over a blood-field is one of settlement rather than cleansing—an acknowledgement, in their teaching, that the
 dead were not judged in order, and a formal placing of them in the god's keeping. It is performed
 where a field is troublesome, it is expensive, and it works perhaps half the time. Priests of
 Sélmoros are candid about the proportion, which does not endear them to the districts that pay.
@@ -89,8 +89,8 @@ never been permitted to, chiefly because every proposal has involved opening one
 
 ## The Black Flame
 
-Since a blood-field is a permanent reservoir of violent death, it is precisely what the
-[[affiliation-blackflame|Cult of the Black Flame]] wants, and the cult's interest in Provenzia is best
+Since a blood-field is a permanent reservoir of violent death, it is precisely what
+[[affiliation-blackflame|The Black Flame]] wants, and the cult's interest in Provenzia is best
 understood as an interest in its blood-fields. A field can be **worked on**—its resonance roused,
 deepened, and turned from something a village lives beside into something that consumes the district.
 That is what has happened at Yarvalen.

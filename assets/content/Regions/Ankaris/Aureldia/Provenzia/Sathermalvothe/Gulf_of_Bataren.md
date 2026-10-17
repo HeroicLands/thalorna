@@ -8,12 +8,12 @@ tags: [coastal]
 data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
 ---
 
-Provenzia's western shore is a cliff coast: craggy, wind-scoured and almost entirely useless to
+The [[place-provenzrgn|Provenzia Region]]'s western shore is a cliff coast: craggy, wind-scoured and almost entirely useless to
 shipping. In the **northwest** it opens.
 
-The **Gulf of Bataren** is a broad, deep, sheltered bay biting inland from the cold ocean, and it is
+The Gulf of Bataren is a broad, deep, sheltered bay biting inland from the cold ocean, and it is
 the single reason Provenzia has any real presence on that water at all. Where
-[[place-volsather|Volsater]] down the coast in [[place-zuravlenrgn|Zuravlen]] is a notch in a cliff
+[[place-volsather|Volsater]] down the coast in the [[place-zuravlenrgn|Zuravlen Region]] is a notch in a cliff
 that is unusable forty days a year, the Gulf is a proper harbor in any weather, with holding ground
 and room for a fleet.
 
@@ -27,7 +27,7 @@ coast. That single fact makes the Gulf a different country commercially from eve
 port. Nothing much of the Vylarian world comes here. What comes here comes down from
 [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]], and out of the northern seas beyond them.
 
-It is also, inevitably, the way the **Nordheim raids** came two centuries ago ([[lore-southrnfleets|the Southern Fleets]]), and northern
+It is also, inevitably, the way [[lore-southrnfleets|The Southern Fleets]] came two centuries ago (the Nordheim raids), and northern
 Provenzia's memory of the sea is colored accordingly. The
 [[place-bldfldyharvalen|Blood-field of Yarvalen]] is not far inland.
 

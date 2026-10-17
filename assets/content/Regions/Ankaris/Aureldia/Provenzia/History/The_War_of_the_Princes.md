@@ -56,28 +56,28 @@ data:
         - what became of the deeds House Dorgal walled up before its seat was burned
 ---
 
-In Keravel Vale the war is called the **Kéravian Rebellion**, and the vale's villages are divided over it still. In the capital it is the War of the Princes and it is not discussed. Both names are for the same two years.
+In [[place-ceravelvale|Keravel Vale]], The War of the Princes is called the **Kéravian Rebellion**, and the vale's villages are divided over it still. In the capital it is the War of the Princes and it is not discussed. Both names are for the same two years.
 
 ## The Heir
 
-**Padran** of House Lédravren had reigned for six years when he died in 653 AF, and he had not named an heir. The Charter held the king to the counsel of the Council of Peers and gave the Council no word on the succession. Two princes of the blood each held a party. One was backed by the centralizing houses of the coast, who wanted a crown strong enough to bind the cities and the provinces to it. The other was backed by the Tanevar country and the regional lords who had never loved the Charter, and who wanted a crown that left them alone.
+**[Padran Lédravren]{.name data-type="being/npc"}** of [House Lédravren]{.name data-type="affiliation/lineage"} had reigned for six years when he died in 653 AF, and he had not named an heir. The [Charter of Rights]{.name data-type="lore/law"} held the king to the counsel of the [Council of Peers]{.name data-type="affiliation/governmental"} and gave the Council no word on the succession. Two princes of the blood each held a party. One was backed by the centralizing houses of the coast, who wanted a crown strong enough to bind the cities and the provinces to it. The other was backed by the Tanevar country and the regional lords who had never loved the Charter, and who wanted a crown that left them alone.
 
 ## The War
 
 The vale of Keravel lay between the two parties and on the road from the east, and the war was fought there. The villages were divided, and the lords of the manors, who held from the crown in the east and owed it a levy, were forced to choose a prince in front of their tenants. The Tarvénian host that came down the passes in the second year went through the vale unopposed, because there was no army to oppose it.
 
-**House Dorgal**, a minor noble family of the vale, chose the wrong prince. When the war ended, its seat was burned and its lands were given to a rival.
+**[House Dorgal]{.name data-type="affiliation/lineage"}**, a minor noble family of the vale, chose the wrong prince. When the war ended, its seat was burned and its lands were given to a rival.
 
 ## The Compromise
 
-The war ended with neither prince. The moderate houses of both parties found a third man in the royal house and gave him the crown: **Dalenar** Lédravren, a king both sides could bear. He confirmed the Charter and left the question of the succession where it had been, with the Council.
+The war ended with neither prince. The moderate houses of both parties found a third man in the royal house and gave him the crown: [**Dalenar** Lédravren]{.name data-type="being/npc"}, a king both sides could bear. He confirmed the Charter and left the question of the succession where it had been, with the Council.
 
 ## What It Left
 
 - **Grudges.** Every great house still nurses a grievance from the war, and the families know which.
 - **Keravel's divided villages.** The Tanevar peasantry and the Provenzian minority remember different wars.
-- **House Dorgal's burned seat.** A gutted manor in the Talote, whose deeds were walled up in the cellar ([[place-ceravelvale|Keravel Vale]]).
-- **Durvalis.** The fortress town raised to hold the road ([[place-durvalis|Durvalis]]).
+- **House Dorgal's burned seat.** A gutted manor in the [[place-talothe|Talote]], whose deeds were walled up in the cellar ([[place-ceravelvale|Keravel Vale]]).
+- **[[place-durvalis|Durvalis]].** The fortress town raised to hold the road ([[place-durvalis|Durvalis]]).
 - **A crown that contests the Council.** The argument over prerogative and taxation that still occupies the court.
 
 ## See Also

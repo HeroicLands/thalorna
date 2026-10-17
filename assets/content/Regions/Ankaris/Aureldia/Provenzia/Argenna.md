@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [provenzrgn], population: 0, packFolder
 
 ## Overview
 
-Argenna is the site of **the Oracular Sanctuary at Argenna**, a shrine of [[affiliation-zunelas|Zunelas]] in Provenzia whose omens are renowned across kingdoms. Pilgrims come to it from across the continent because they trust that the dreams received there come from the goddess herself.
+Argenna is the site of **the Oracular Sanctuary at Argenna**, a shrine of the [[affiliation-zunelas|Faith of Zunelas]] in the [[place-provenzrgn|Provenzia Region]] whose omens are renowned across kingdoms. Pilgrims come to it from across the continent because they trust that the dreams received there come from the goddess herself.
 
 ## Sleeping at the Sanctuary
 

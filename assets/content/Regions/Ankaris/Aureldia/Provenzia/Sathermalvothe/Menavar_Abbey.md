@@ -8,18 +8,18 @@ tags: [sacred, inland]
 data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
 ---
 
-**Ménavar** was once a center of Aureldian learning and spiritual practice—a great house of the
-Twelve in the north of Provenzia, with a library, a school and an endowment, standing on the low
+Ménavar Abbey was once a center of Aureldian learning and spiritual practice—a great house honoring the
+[[affiliation-arldnpnthn|Aureldian Pantheon]]—the Twelve—in the north of the [[place-provenzrgn|Provenzia Region]], with a library, a school and an endowment, standing on the low
 country of [[place-sathvothe|Satvote]] within reach of the sea.
 
-That was its undoing. The **Nordheim raids** ([[lore-southrnfleets|the Southern Fleets]]) that came in off the [[place-batarengulf|Gulf of Bataren]]
+That was its undoing. [[lore-southrnfleets|The Southern Fleets]] (the Nordheim raids) that came in off the [[place-batarengulf|Gulf of Bataren]]
 some two centuries ago fell on Ménavar as they fell on
 [[place-yharvalenhenge|Yarvalen Henge]] a day's march away, and the abbey was gutted. It was never
 refounded.
 
 ## Why It Was Abandoned
 
-Abbeys of that standing are usually rebuilt; the Church has the money and the motive, and a ruined
+Abbeys of that standing are usually rebuilt; the church has the money and the motive, and a ruined
 house is a standing reproach. Ménavar was not, and the reasons given have changed with the century.
 
 The contemporary account is straightforward—the north was unsafe, the endowment had been carried off,
@@ -27,12 +27,12 @@ and the surviving brothers were absorbed by houses further south. Later accounts
 Every attempt to reoccupy the site was abandoned within a season, and the records of those attempts are
 notably brief for an institution that documented everything else exhaustively.
 
-The abbey is said to be **haunted by the monks who died defending it**. The Church does not teach this
+The abbey is said to be **haunted by the monks who died defending it**. The church does not teach this
 and has never formally denied it.
 
 ## The Relic
 
-Something was kept at Ménavar that was not carried out: a relic of the Aureldian faith, rumored to
+Something was kept at Ménavar that was not carried out: a relic of one of the Aureldian faiths, rumored to
 have **healing properties**, and rumored with enough consistency and for long enough that serious
 people take it seriously.
 
@@ -54,7 +54,7 @@ mad. This is a matter of record rather than rumor, and it has not deterred anyon
 
 Four parties, at least, and none of them will say so plainly:
 
-- The **Church**, which holds that the relic is its property and has never relinquished the claim.
+- The **church**, which holds that the relic is its property and has never relinquished the claim.
 - The [[affiliation-ordoarcanis|Thordimalon]], which wishes to _study_ it, and whose agents are
   invariably furnished with an authority nobody can quite check.
 - A **noble house** claiming historical custody—a claim that is probably genuine and certainly
@@ -62,7 +62,7 @@ Four parties, at least, and none of them will say so plainly:
 - A **collector**, unnamed, whose offer is substantial enough to raise the question of who is really
   paying.
 
-Given where Ménavar stands, and given who has been working the ground at Yarvalen, a fifth interest is
+Given where Ménavar stands, and given who has been working the ground at the [[place-bldfldyharvalen|Blood-field of Yarvalen]], a fifth interest is
 worth considering. See [[scenario-lstrlcmnvrby|The Lost Relic of Ménavar Abbey]].
 
 ## See Also

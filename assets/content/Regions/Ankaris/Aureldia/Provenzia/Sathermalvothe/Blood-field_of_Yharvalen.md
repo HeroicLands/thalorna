@@ -8,7 +8,7 @@ tags: [border, inland]
 data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
 ---
 
-A battlefield of Provenzia remembered as a blood-field—ground where an engagement was fought at such
+The Blood-field of Yarvalen is a battlefield of the [[place-provenzrgn|Provenzia Region]] remembered as a blood-field—ground where an engagement was fought at such
 cost that the name stuck to the place rather than to the battle. Near
 [[place-yharvalenhenge|Yarvalen Henge]].
 
@@ -29,9 +29,8 @@ only quiet. That has ended.
 
 ## The Henge
 
-Yarvalen is unusual in that the killing was not the whole of the injury. The Nordheim raids that swept
-through northern Provenzia some two hundred years ago, the [[lore-southrnfleets|Southern Fleets]] of the north's
-own telling, **threw down the henge** as well as the men, and
+Yarvalen is unusual in that the killing was not the whole of the injury. [[lore-southrnfleets|The Southern Fleets]] in the north's own telling, the Nordheim raids that swept
+through northern Provenzia some two hundred years ago, **threw down the henge** as well as the men, and
 the standing opinion among those who study such things is that a blood-field made on the ruins of a
 sacred circle is a different and worse proposition than one made in an open field—that the boundary
 there was already answerable to the stones, and that breaking both at once left nothing to hold it.
@@ -42,7 +41,7 @@ withers and the others do not.
 ## The Black Flame
 
 The curse has been awakened, and it was awakened on purpose. The
-[[affiliation-blackflame|Cult of the Black Flame]] has been rousing and magnifying it, drawing power
+cult of [[affiliation-blackflame|The Black Flame]] has been rousing and magnifying it, drawing power
 from the destruction—a blood-field being a permanent reservoir of exactly what that faith holds
 sacred. The dying of the surrounding country is not incidental to their working. It is the working.
 

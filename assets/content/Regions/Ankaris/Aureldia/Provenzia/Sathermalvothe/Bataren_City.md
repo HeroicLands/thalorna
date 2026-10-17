@@ -14,7 +14,7 @@ data:
   packFolder: provenzia
 ---
 
-**Bataren** stands on the [[place-batarengulf|Gulf of Bataren]] in the northwest, and is Provenzia's
+Bataren City stands on the [[place-batarengulf|Gulf of Bataren]] in the northwest, and is the [[affiliation-kngdmprvnz|Kingdom of Provenzia]]'s
 window on the cold ocean and the northern sea-roads. It is the kingdom's second harbor and its most
 awkward city.
 
@@ -27,11 +27,11 @@ manner if no longer in law.
 Bataren is none of that. It faces the **open ocean**, trades with [[place-elavendre|Élavendre]],
 [[place-aelwyth|Aelwyth]] and the northern seas beyond, and takes its money from fish, timber, northern
 furs and freight the south has no interest in. Its weather is gray where the south is bright. Its
-building is heavy and low. A Provenzian from Válaren finds Bataren cold in every sense and says so.
+building is heavy and low. A Provenzian from [[place-valarencity|Válaren City]] finds Bataren cold in every sense and says so.
 
 ## The Élavendren
 
-The city's population is substantially [[lore-elavendrnppl|Élavendren]]—descendants of settlers
+A substantial part of the city's population belongs to the [[lore-elavendrnppl|Élavendren People]]—descendants of settlers
 who came down from Élavendre into these borderlands centuries ago, and who have been here longer than
 the present arrangement of crowns. They are Provenzian subjects. They are not, in any way that matters
 locally, Provenzian.
@@ -42,7 +42,7 @@ are permitted, over who holds what and on whose authority. Nothing about it is s
 little about it is violent. It grinds.
 
 Both crowns are careful to treat this as a Provenzian domestic matter, because relations between
-Provenzia and Élavendre are otherwise **very cordial** and neither court wishes to test whether they
+Provenzia and the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] are otherwise **very cordial** and neither court wishes to test whether they
 would survive being made about Bataren. That care is itself a pressure: everyone in the city
 understands that the two kingdoms have agreed not to look closely, which is a great deal of latitude
 for anyone who would rather they did.

@@ -18,11 +18,11 @@ data:
 
 ## Overview
 
-Provenzia, located in the southwestern part of [[place-ankrscntnnt|Ankaris Continent]], is a land of beauty, culture, and ancient magic. Strongly influenced by the [[place-vylarianse|Vylarian Sea]] to the south, it is one of the most culturally advanced and prosperous regions in Ankaris. Its terrain ranges from coastal plains and vineyards to rolling hills and lush forests, and its cities are centers of art, philosophy, and learning.
+The Provenzia Region, located in the southwestern part of the [[place-ankrscntnnt|Ankaris Continent]], is a land of beauty, culture, and ancient magic. Strongly influenced by the [[place-vylarianse|Vylarian Sea]] to the south, it is one of the most culturally advanced and prosperous regions in Ankaris. Its terrain ranges from coastal plains and vineyards to rolling hills and lush forests, and its cities are centers of art, philosophy, and learning.
 
 ## Geography
 
-Provenzia occupies the southwestern corner of Ankaris, bounded by [[place-elavendre|Élavendre]] to the north and [[place-tarvenirgn|Tarvénia Region]] to the east, beyond which lies the [[affiliation-vylarinmpr|Vylarian Empire]]. It has two coasts and they are nothing alike. The [[place-vylarianse|Vylarian Sea]] forms its southern border—warm, sheltered, fringed with long sandy beaches, and the highway of nearly all its trade—while its western shore faces the **open ocean**, a vastly larger and far colder water, where craggy cliffs stand above deep gray swell and the wind comes ashore unbroken. Inland the ground rises: the north and east of the region are hilly and then frankly mountainous, and those eastern uplands carry the Tarvénian frontier.
+Provenzia occupies the southwestern corner of Ankaris, bounded by [[place-elavendre|Élavendre]] to the north and the [[place-tarvenirgn|Tarvénia Region]] to the east, beyond which lies the [[affiliation-vylarinmpr|Vylarian Empire]]. It has two coasts and they are nothing alike. The Vylarian Sea forms its southern border—warm, sheltered, fringed with long sandy beaches, and the highway of nearly all its trade—while its western shore faces the **open ocean**, a vastly larger and far colder water, where craggy cliffs stand above deep gray swell and the wind comes ashore unbroken. Inland the ground rises: the north and east of the region are hilly and then frankly mountainous, and those eastern uplands carry the Tarvénian frontier.
 
 The whole region is **temperate**, but not uniformly so. The southern reaches along the Vylarian Sea
 are the warmest and grow what warmth allows; the western seaboard is cooler and grayer than its
@@ -31,7 +31,7 @@ cold and **very nearly impassable in winter**, when the passes close and the hig
 themselves for months at a time.
 
 That closure is the single most important fact about Provenzia's eastern frontier: the skirmishing
-with Tarvénia has a season. Raiding begins when the passes open and ends when they shut, both sides
+with the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] has a season. Raiding begins when the passes open and ends when they shut, both sides
 plan their year around it, and a winter crossing is either a disaster or a deliberate outrage.
 
 The two coasts give the kingdom two quite different peoples. The south is where Provenzia's wealth, its ports and its reputation live. The west is poorer, harder, better at fishing, and inclined to regard the south as soft.
@@ -46,19 +46,19 @@ around it.
 
 Characteristically, Provenzia names the ground rather than the battle. Provenzians call a field a
 blood-field long before they can say which war made it, and for many of them nobody
-can. Three of the named fields have a battle on record: [[place-bldfldtiravlen|Tiravlen]], [[place-bldfldmalnebris|Malnebris]] and [[place-bloodhills|the Blood Hills]].
+can. Three of the named fields have a battle on record: [[place-bldfldtiravlen|Blood-field of Tiravlen]], [[place-bldfldmalnebris|Blood-field of Malnebris]] and [[place-bloodhills|The Blood Hills]].
 
 ## Culture and Society
 
-Provenzian society blends Vylarian sophistication with Élavendren mysticism. The cities are architectural marvels—marble buildings, grand amphitheaters, intricate aqueducts, and soaring towers that reflect both the legacy of the [[affiliation-vylarinmpr|Vylarian Empire]] and the aesthetic sensibilities of the Provenzians themselves. The cities function as independent or semi-independent polities, each with its own character: some are ruled by hereditary nobility, others by elected councils of wealthy citizens, and a few by powerful guilds of merchants or artisans.
+Provenzian society blends Vylarian sophistication with Élavendren mysticism. The cities are architectural marvels—marble buildings, grand amphitheaters, intricate aqueducts, and soaring towers that reflect both the legacy of the Vylarian Empire and the aesthetic sensibilities of the Provenzians themselves. The cities function as independent or semi-independent polities, each with its own character: some are ruled by hereditary nobility, others by elected councils of wealthy citizens, and a few by powerful guilds of merchants or artisans.
 
-The Provenzians are known across [[place-midhalnrgn|Mídhalión Region]] for their intellectual pursuits and artistic achievements. Philosophy, art, architecture, music, and theater thrive here. The region produces acclaimed painters, sculptors, playwrights, and natural philosophers. The Provenzian tradition of courtly love—an elaborate social code governing romantic relationships, patronage, and artistic expression—has influenced manners and literature across the Vylarian Sea region.
+The Provenzians are known across the [[place-midhalnrgn|Mídhalión Region]] for their intellectual pursuits and artistic achievements. Philosophy, art, architecture, music, and theater thrive here. The region produces acclaimed painters, sculptors, playwrights, and natural philosophers. The Provenzian tradition of courtly love—an elaborate social code governing romantic relationships, patronage, and artistic expression—has influenced manners and literature across the Vylarian Sea region.
 
 Education is highly valued. Provenzia is home to several renowned academies and schools of learning that attract students from across Ankaris, covering subjects from natural philosophy and mathematics to rhetoric, law, and the magical arts.
 
 ## Religion
 
-The [[affiliation-arldnpnthn|Aureldian Pantheon]] is the dominant faith. [[affiliation-arldnpnthn|Marendas]] (knowledge) and [[affiliation-arldnpnthn|Ólvenia]] (prosperity and seduction) are especially popular, reflecting Provenzian priorities of learning and sensual appreciation of life. [[affiliation-arldnpnthn|The Sacred Forge]] (fire and the forge) is honored by the region's many skilled craftsmen.
+The twelve faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] dominate religious life. The [[affiliation-marendas|Faith of Marendas]] (knowledge) and the [[affiliation-olvenia|Faith of Ólvenia]] (prosperity and seduction) are especially popular, reflecting Provenzian priorities of learning and sensual appreciation of life. [[affiliation-sacredforge|The Sacred Forge]] (fire and the forge) is honored by the region's many skilled craftsmen.
 
 Temples in Provenzia tend toward the grand and beautiful, doubling as galleries, concert halls, and centers of community life. Religious festivals are elaborate affairs combining solemn ritual with carnival-like celebration.
 
@@ -70,11 +70,11 @@ The Élavendren influence is strong, particularly in the use of fae magic and na
 
 ## Relations
 
-Provenzia was once a part of the [[affiliation-vylarinmpr|Vylarian Empire]]: a colony on the great road ([[lore-aurelianefound|The Founding of Aurelane]]), a province from the breaking of the Tanevar kings at [[lore-tiravlenbattle|Tiravlen]], and a kingdom since [[lore-charterwar|the War of the Charter]]. While it is no longer formally under Vylarian control, the Vylarian influence remains deeply ingrained in its political and cultural life. The two regions maintain close economic ties, and many Provenzian noble families have Vylarian ancestry. However, Provenzia jealously guards its independence and has no desire to return to imperial subjection.
+Provenzia was once a part of the Vylarian Empire: a colony on the great road ([[lore-aurelianefound|The Founding of Aurelane]]), a province from the breaking of the Tanevar kings at [[lore-tiravlenbattle|Tiravlen]], and a kingdom since [[lore-charterwar|The War of the Charter]]. While it is no longer formally under Vylarian control, the Vylarian influence remains deeply ingrained in its political and cultural life. The two regions maintain close economic ties, and many Provenzian noble families have Vylarian ancestry. However, the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] jealously guards its independence and has no desire to return to imperial subjection.
 
-[[place-elavendre|Élavendre]] to the north is a cultural cousin and Provenzia's closest friend among the kingdoms—the two share Pelwar heritage and a love of art and magic, though the Élavendren lean more toward the mystical while the Provenzians favor the intellectual. **Relations between the two crowns are very cordial**, and have been for long enough that neither court treats the other as a contingency: the border is open, the trade is heavy, scholars and artists move freely in both directions, and the two have repeatedly taken the same side in Vylarian disputes.
+The [[affiliation-kngdmlvndr|Kingdom of Élavendre]] to the north is a cultural cousin and Provenzia's closest friend among the kingdoms—the two share Pelwar heritage and a love of art and magic, though the Élavendren lean more toward the mystical while the Provenzians favor the intellectual. **Relations between the two crowns are very cordial**, and have been for long enough that neither court treats the other as a contingency: the border is open, the trade is heavy, scholars and artists move freely in both directions, and the two have repeatedly taken the same side in Vylarian disputes.
 
-That cordiality is between kingdoms, and should not be mistaken for ease everywhere along the line. In the borderlands—and conspicuously in Bataren—Provenzian rulers and the settled [[lore-elavendrnppl|Élavendren]] population have real and unresolved quarrels over land, rights and tradition. Both crowns treat these as domestic matters and are careful not to let them become anything else, which is itself a measure of how much both value the friendship.
+That cordiality is between kingdoms, and should not be mistaken for ease everywhere along the line. In the borderlands—and conspicuously in [[place-batarencity|Bataren City]]—Provenzian rulers and the settled [[lore-elavendrnppl|Élavendren]] population have real and unresolved quarrels over land, rights and tradition. Both crowns treat these as domestic matters and are careful not to let them become anything else, which is itself a measure of how much both value the friendship.
 
 The northern mountains are, in the way that matters, neither kingdom's. They are
 [[affiliation-aelndntrbs|Áelendan]] country—the tribal kin of the
@@ -89,7 +89,7 @@ tribes cordial—which in practice means restraining their own subjects rather t
 the Áelendan, who have very little they want and nothing they will trade for. It is one of the few
 questions on which the two crowns have never needed to be persuaded to agree.
 
-Relations with [[place-tarvenirgn|Tarvénia Region]] are the opposite in every respect: competitive, mistrustful, and violent at the margins. Skirmishing along the mountainous eastern frontier is effectively constant—raid and counter-raid over pasture, passes and precedence, kept below the level at which either crown must formally acknowledge a war. The border families on both sides have been fighting the same quarrel for so long that it functions less as a conflict than as a way of life.
+Relations with Tarvénia are the opposite in every respect: competitive, mistrustful, and violent at the margins. Skirmishing along the mountainous eastern frontier is effectively constant—raid and counter-raid over pasture, passes and precedence, kept below the level at which either crown must formally acknowledge a war. The border families on both sides have been fighting the same quarrel for so long that it functions less as a conflict than as a way of life.
 
 ## Notable Features
 

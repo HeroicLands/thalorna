@@ -8,8 +8,8 @@ tags: [village, hill]
 data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 310, packFolder: provenzia}
 ---
 
-**Palnebris** holds the best of the upper terraces, and is the wealthiest manor in
-[[place-zuravlenrgn|Zuravlen]] and the most precarious. Nearly its whole demesne is under peach. In a
+Palnebris holds the best of the upper terraces, and is the wealthiest manor in
+the [[affiliation-brnyzrvln|Barony of Zuravlen]] and the most precarious. Nearly its whole demesne is under peach. In a
 good year its lord out-earns the baron; in a frost year he borrows, and everyone knows it.
 
 Use Palnebris as the model of a **manor run for a single high-value crop**.
@@ -20,7 +20,7 @@ Use Palnebris as the model of a **manor run for a single high-value crop**.
   harvest—by hired hands the manor cannot do without.
 - **Tenancies.** Around fifty holdings, most of them small terrace strips. Rent is paid in fruit,
   reckoned at the grading table's marks, which means a tenant's rent depends on a stranger's judgment
-  in Eltrembis. This is the manor's standing grievance.
+  in [[place-elthrembis|Eltrembis]]. This is the manor's standing grievance.
 - **Water.** Palnebris holds the earliest water-turns on the _reva_, granted before living memory and
   challenged roughly once a generation. The manor's charter is kept in the church rather than the hall,
   for reasons the family does not discuss.
@@ -28,7 +28,7 @@ Use Palnebris as the model of a **manor run for a single high-value crop**.
   only three in the barony—so it does not pay the baron's share, and it takes a share from the
   holdings around it that use the yard instead.
 - **The graft-house.** A heated shed where winter grafting is done. The manor's grafters are the best
-  in Provenzia and are lent out, at a price, as far as the coast.
+  in the [[place-provenzrgn|Provenzia Region]] and are lent out, at a price, as far as the coast.
 
 ## Officers and Custom
 

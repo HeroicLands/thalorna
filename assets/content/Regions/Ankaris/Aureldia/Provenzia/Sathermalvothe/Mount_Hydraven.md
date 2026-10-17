@@ -9,7 +9,7 @@ tags: [mountain, sacred, inland]
 data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFolder: provenzia}
 ---
 
-**Hidraven** is the highest of the northern mountains, standing where Provenzia's cold uplands run up
+Mount Hidraven is the highest of the northern mountains, standing where the [[place-provenzrgn|Provenzia Region]]'s cold uplands run up
 toward [[place-elavendre|Élavendre]], and it is the source of the kingdom's water.
 
 The great springs rise on its shoulders. The rivers that water the southern plain, fill
@@ -19,7 +19,7 @@ that reason. It is on the coins of two reigns.
 
 ## Áelendan Ground
 
-The mountain is [[affiliation-aelndntrbs|Áelendan]] country, and more than that: it is one of the
+The mountain is in the country of the [[affiliation-aelndntrbs|Áelendan Tribes]], and more than that: it is one of the
 places the tribes hold sacred, and the one they are least flexible about.
 
 They do not forbid the mountain. Shepherds use the lower pastures by arrangements older than the
@@ -27,7 +27,7 @@ kingdom, and pilgrims who come the customary way are let alone. What is not tole
 from a crown. Three separate Provenzian attempts to map the watershed have been turned back without a
 blow struck and without any possibility of misunderstanding.
 
-Provenzia has never pressed the point, for reasons that are entirely practical. Every argument the
+The [[affiliation-kngdmprvnz|Kingdom of Provenzia]] has never pressed the point, for reasons that are entirely practical. Every argument the
 Crown could make about sovereignty is worth less than the water.
 
 ## The Cold

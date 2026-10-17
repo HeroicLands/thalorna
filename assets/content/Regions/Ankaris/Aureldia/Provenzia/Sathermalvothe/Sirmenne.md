@@ -11,24 +11,24 @@ data: {demonym: null, lore: [], parents: [sathvothe], population: null, packFold
 
 Deep in the borderlands between the [[place-provenzrgn|Provenzia Region]] and
 [[place-elavendre|Élavendre]], in the wooded country of [[place-sathvothe|Satvote]] below the Áelendan
-mountains, stand the crumbling ruins of **Sirmenne**.
+mountains, stand the crumbling ruins of Sirmenne.
 
 They predate any Provenzian settlement, and any Élavendren one, by centuries. What Sirmenne was built
-for is not known, and the two peoples who care most about it do not agree. The name is Sinale—the
-hearth of the first stone—and the Áelendan use it too, having none of their own for the place.
+for is not known, and the two peoples who care most about it do not agree. The name comes from the [[skill-sinalelng|Sinale Language]] and means the
+hearth of the first stone; the [[affiliation-aelndntrbs|Áelendan Tribes]] use it too, having none of their own for the place.
 
 ## A Shared Site
 
-Sirmenne is sacred to the [[affiliation-aelndntrbs|Áelendan Tribes]]—the reclusive human tribes who
+Sirmenne is sacred to the Áelendan—the reclusive human tribes who
 are the original people of Élavendre and who hold the northern mountains whatever the maps say—and
-also to the [[lore-flksinale|Sinale]] who dwell in the hidden forests nearby.
+also to the [[lore-flksinale|Sinale Folk]] who dwell in the hidden forests nearby.
 
 This is unusual to the point of being singular. The two peoples share very little, and the arrangement
 at Sirmenne is not a partnership so much as a long-standing mutual restraint: each observes the site
 in its own way, each acknowledges the other's right to be there, and neither has ever explained the
 arrangement to an outsider who asked.
 
-Neither crown administers it. Provenzia's claim is formally unambiguous and practically theoretical.
+Neither crown administers it. The [[affiliation-kngdmprvnz|Kingdom of Provenzia]]'s claim is formally unambiguous and practically theoretical.
 
 ## The Withdrawal
 

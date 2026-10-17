@@ -58,11 +58,11 @@ data:
         - whether the dead who joined the field after later raids are part of the recurrence
 ---
 
-On still nights in the campaign season the pass above Malnebris is loud, and the border families on both sides of it know what they are hearing. It is the first great raid, and the sound has not stopped.
+On still nights in the campaign season the pass above the [[place-bldfldmalnebris|Blood-field of Malnebris]] is loud, and the border families on both sides of it know what they are hearing. It is Malnebris, the first great raid, and the sound has not stopped.
 
 ## The Host
 
-When the legions were drawn north and the garrisons of the western province thinned, the High Kings of Tarvénia found a use for the lords who had elected them. **Mórezan**, the second High King, led a host down the pass from the mountains above the province's north-eastern march, to see what could be taken in a season and whether anyone would stop it. It was the first great raid, and nothing like it had come that way before.
+When the legions were drawn north and the garrisons of the western province thinned, the High Kings of the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] found a use for the lords who had elected them. **[Mórezan]{.name data-type="being/npc"}**, the second High King, led a host down the pass from the mountains above the province's north-eastern march, to see what could be taken in a season and whether anyone would stop it. It was the first great raid, and nothing like it had come that way before.
 
 ## The Road
 
@@ -72,11 +72,11 @@ By the second morning the levy broke. The host took the road, and then found it 
 
 ## The Quarrel
 
-The raid was the first of a long run of them, and the border families on both sides took it as the beginning of a war that nobody declared. It has a calendar, because the passes close; the hosts come when the snow clears and go when it returns. It has no end, because neither crown can afford to be the one that stops. The Winter Assize that sits at [[place-durvalis|Durvalis]] hears the quarrels of the families who took it up.
+The raid was the first of a long run of them, and the border families on both sides took it as the beginning of a war that nobody declared. It has a calendar, because the passes close; the hosts come when the snow clears and go when it returns. It has no end, because neither crown can afford to be the one that stops. The [Winter Assize]{.name data-type="affiliation/governmental"} that sits at [[place-durvalis|Durvalis]] hears the quarrels of the families who took it up.
 
 ## What It Left
 
-- **The Blood-field of Malnebris.** The only one of Provenzia's fields that is still being added to ([[place-bldfldmalnebris|Malnebris]]).
+- **The Blood-field of Malnebris.** The only one of the [[place-provenzrgn|Provenzia Region]]'s fields that is still being added to ([[place-bldfldmalnebris|Malnebris]]).
 - **The campaign season as a calendar.** The march's year runs from the thaw to the first snow, and the courts sit in between.
 - **The border families' feud.** The quarrel is the same one in every generation, and each family on the road has someone to lose to it.
 

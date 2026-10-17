@@ -19,4 +19,4 @@ data:
   packFolder: provenzia
 ---
 
-**Vélarik III** of House Lédravren reigned over [[affiliation-kngdmprvnz|Provenzia]] from about 688 AF to about 709 AF. He is the king under whom the clan of [[place-gwefavel|Gefavel]] lost its standing. Kralen succeeded him and reigns now.
+King **Vélarik III** of [House Lédravren]{.name data-type="affiliation/lineage"} reigned over the [[affiliation-kngdmprvnz|Kingdom of Provenzia]] from about 688 AF to about 709 AF. He is the king under whom the clan of [[place-gwefavel|Gefavel]] lost its standing. [Kralen Lédravren]{.name data-type="being/npc"} succeeded him and reigns now.
