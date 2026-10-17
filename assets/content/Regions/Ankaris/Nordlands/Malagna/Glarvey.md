@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [malagna], packFolder: malagna}
 
 ## Overview
 
-Ask the boatman who rows you across to Glarvey what the island is known for, and he points at the roofs. Glarvey is an island holding in [[place-malagna|Malagna]], the seat of a hersvald, who holds it and the steadings around it for the king and leads its men to the muster. The present hersvald, **Hvilgthann Glarvidrok**, is a careful steward of what he can afford, and his roofs are his pride.
+Ask the boatman who rows you across to Glarvey what the island is known for, and he points at the roofs. Glarvey is an island holding in [[place-malagna|Malagna]], the seat of a hersvald, who holds it and the steadings around it for the king and leads its men to the muster. The present hersvald, **[[being-hvilgthanngl|Hvilgthann Glarvidrok]]**, is a careful steward of what he can afford, and his roofs are his pride.
 
 ## The Hersvald's Holdings
 

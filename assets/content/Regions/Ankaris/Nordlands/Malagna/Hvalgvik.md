@@ -24,7 +24,7 @@ A sheltering bay draws more boats in a storm than it can always feed afterward. 
 
 ## Nine Nights Down
 
-The village tells a tale as a warning. A woman of Hvalgvík went down after her dead husband and brought him home, and the tale says a Green Warden ended what she had brought back. It is a lesson about trying to reclaim someone from [[affiliation-nahild|Nahild]]. [[lore-mlgnahstry|Histories and Legends of Malagna]] keeps it.
+The village tells a tale as a warning. A woman of Hvalgvík went down after her dead husband and brought him home, and the tale says a Green Warden ended what she had brought back. It is a lesson about trying to reclaim someone from [[lore-nahilddty|Nahild]]. [[lore-mlgnahstry|Histories and Legends of Malagna]] keeps it.
 
 ## See Also
 

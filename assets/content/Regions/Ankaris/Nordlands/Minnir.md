@@ -8,13 +8,13 @@ tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-The first thing taught at [[place-odholm|Odholm]] is that the All-Father is not wise because he was born wise; he is wise because he paid. The payment was made at **Minnir**'s well, and Minnir himself is the other half of the lesson: in the [[affiliation-odvar|Faith of Odvar]] he appears as a severed head from whom [[lore-odvardty|Odvar]] continues to seek counsel.
+The first thing taught at [[place-odholm|Odholm]] is that [[lore-odvardty|Odvar]], the All-Father, is not wise because he was born wise; he is wise because he paid. The payment was made at **Minnir**'s well, and Minnir himself is the other half of the lesson: in the [[affiliation-odvar|Faith of Odvar]] he appears as a severed head from whom Odvar continues to seek counsel.
 
-The well bearing Minnir's name holds waters that bestow wisdom, and the god sacrificed an eye for a drink of them. The eye is the only price Odvar pays for the runes, and the well is the only place he pays it. Odholm's rune-hall teaches the rest: Odvar goes to the well to learn the world's end, the runes stand in the water he drinks, and the first thing they spell for him is his own death at [[lore-aldarlok|Aldarlok]].
+In that teaching, the well bearing Minnir's name holds waters that bestow wisdom, and the god sacrificed an eye for a drink of them. The eye is the only price Odvar pays for the runes, and the well is the only place he pays it. Odholm's rune-hall teaches the rest: Odvar goes to the well to learn the world's end, the runes stand in the water he drinks, and the first thing they spell for him is his own death at [[lore-aldarlok|Aldarlok]].
 
 ## The Rite at Odholm
 
-The faith keeps the well in a rite. The [[affiliation-odvar|Rite of Minnir's Well]] uses a blessed chalice to stand for those waters when the rune-staves are recast for the coming season, and it teaches in a gesture what the rune-priest teaches in words: wisdom must be paid for.
+The faith keeps the well in a rite. The [Rite of Minnir's Well]{.name data-type="lore/custom"} uses a blessed chalice to stand for those waters when the rune-staves are recast for the coming season, and it teaches in a gesture what the rune-priest teaches in words: wisdom must be paid for.
 
 : The Mouth Beside the Well
 

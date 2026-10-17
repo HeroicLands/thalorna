@@ -19,4 +19,4 @@ data:
 
 # Dossier {#dossier}
 
-A king of the Nordlands, seated at Gnarthborg. He is the third king of his name in the [[affiliation-kingdomlgn|Hlurthidrok]], the royal clan of Malagna that reckons itself from [[affiliation-kingdomlgn|Hlurthann I]], and he is aging with no heir the ting has acclaimed; [[affiliation-kingdomlgn|Kingdom of Malagna]] gives the line.
+King Hlurthann III is a king of the [[place-nrdlndsrgn|Nordlands Region]], seated at [[place-gnarthborg|Gnarthborg]]. He is the third king of his name in the [Hlurthidrok]{.name data-type="affiliation/lineage"}, the royal clan of the [[affiliation-kingdomlgn|Kingdom of Malagna]] that reckons itself from [Hlurthann I]{.name data-type="being/npc"}, and he is aging with no heir the ting has acclaimed; [[affiliation-kingdomlgn|Kingdom of Malagna]] gives the line.

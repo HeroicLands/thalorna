@@ -8,11 +8,11 @@ tags: [asguardian, draft]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-There are two chained beasts in the telling of [[lore-aldarlok|Aldarlok]], and a newcomer who has heard only of the Winter-Wolf has heard half of it. [[lore-vetrulfr|Vetrúlfr]] is the one [[lore-eidgardty|Eidgar]] paid his hand to bind, and the one that takes [[lore-odvardty|Odvar]]. The other is **Dulmvargr**, the grave-hound—_dulm-_, a grave, and _-vargr_, an outlaw, a wolf in the law's eye—and it is the one that takes Eidgar himself.
+There are two chained beasts in the telling of [[lore-aldarlok|Aldarlok]], and a newcomer who has heard only of [[lore-vetrulfr|Vetrúlfr]], the Winter-Wolf, has heard half of it. In that telling, Vetrúlfr is the one [[lore-eidgardty|Eidgar]] paid his hand to bind, and the one that takes [[lore-odvardty|Odvar]]. The other is **Dulmvargr**, the grave-hound—_dulm-_, a grave, and _-vargr_, an outlaw, a wolf in the law's eye—and it is the one that takes Eidgar himself.
 
 ## The Hound at the Landing
 
-Dulmvargr lies chained at the landing of [[place-nulthey|Nulthey]], the island where the dead who kept nothing pass to fade. It does not keep the dead out; nobody needs to be kept out of Nulthey. It keeps them in. A Hofgudi at [[place-logstead|Logstead]], where Eidgar's hov and the kingdom's ting sit under one roof, teaches the hound as the law's oldest problem made into a beast: a judgment that holds a man must hold him for as long as the judgment stands, and a chain is only as good as the hand on its other end.
+In the telling, Dulmvargr lies chained at the landing of [[place-nulthey|Nulthey]], the island where the dead who kept nothing pass to fade. It does not keep the dead out; nobody needs to be kept out of Nulthey. It keeps them in. A Hofgudi at [[place-logstead|Logstead]], where the hov of the [[affiliation-eidgar|Faith of Eidgar]] and the kingdom's ting sit under one roof, teaches the hound as the law's oldest problem made into a beast: a judgment that holds a man must hold him for as long as the judgment stands, and a chain is only as good as the hand on its other end.
 
 Nobody has seen it, and the tellings describe it by what it does rather than what it looks like. It bays when a ship of the unworthy dead touches the shore, and the skalds say a dying oath-breaker hears that baying before he hears anything else. It is a hound and not a wolf, which is the one point of its shape every hall agrees on.
 
@@ -20,11 +20,11 @@ Nobody has seen it, and the tellings describe it by what it does rather than wha
 
 The halls do not agree on how the hound came to be chained, and each answer says something about the hall that gives it.
 
-Logstead teaches that Eidgar chained it himself after he had bound Vetrúlfr, with the one hand he had left, and that this is why the two are adversaries: a binder and the thing he binds are tied to each other as surely as the chain ties the beast. [[place-odholm|Odholm]]'s rune-hall teaches that the [[affiliation-asguardian|Ten]] chained it together at the close of the giant-war, when they were still doing things together, and that Eidgar's claim on it is the claim of the god who keeps oaths on everything the Ten swore. [[lore-nahilddty|Nahild]]'s hidden clergy say the hound is hers, that it was never chained but only tied, and that it lies at her landing because it wishes to. The other hovs do not repeat that account.
+Logstead teaches that Eidgar chained it himself after he had bound Vetrúlfr, with the one hand he had left, and that this is why the two are adversaries: a binder and the thing he binds are tied to each other as surely as the chain ties the beast. [[place-odholm|Odholm]]'s rune-hall teaches that the [[affiliation-asguardian|Asguardian Pantheon]]—the Ten—chained it together at the close of the giant-war, when they were still doing things together, and that Eidgar's claim on it is the claim of the god who keeps oaths on everything the Ten swore. The hidden clergy of the [[affiliation-nahild|Faith of Nahild]] say the hound belongs to [[lore-nahilddty|Nahild]], that it was never chained but only tied, and that it lies at her landing because it wishes to. The other hovs do not repeat that account.
 
 ## At the Close
 
-At Aldarlok the hound breaks loose, and Eidgar meets it. The standard telling is short and gives no detail of the fight: Eidgar goes to his long-chained adversary, and both are destroyed together. Logstead's priesthood does not call this a tragedy any more than it calls the lost hand one. A binding that holds until the binder dies defending it is, in the hov's own reckoning, the only kind of binding Eidgar was ever going to keep.
+In the telling of Aldarlok the hound breaks loose, and Eidgar meets it. The standard telling is short and gives no detail of the fight: Eidgar goes to his long-chained adversary, and both are destroyed together. Logstead's priesthood does not call this a tragedy any more than it calls the lost hand one. A binding that holds until the binder dies defending it is, in the hov's own reckoning, the only kind of binding Eidgar was ever going to keep.
 
 The halls draw a lesson for the living from the pair. An outlaw at the ting is a _vargr_ in the law's eye, and a judgment against him binds the judges to see it kept. "You do not get to sentence a man and walk away from him," the Logstead Hofgudi tells a newcomer. "Eidgar didn't. He stood at the end of that chain until the world ended."
 

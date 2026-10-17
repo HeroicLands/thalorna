@@ -22,7 +22,7 @@ It is the oldest inhabited settlement in Nordheim, and it predates the present k
 
 ## The Priestesses
 
-Horgsvangr exists for ritual. An order of priestesses, the velvur who work seid there, keeps a tradition that reaches back beyond anyone's records. They perform the great seasonal sacrifices, read omens in the flight of birds and the fall of runes, and conduct the deepest rituals of the Asguardian faith. What they sacrifice is not spoken of outside the settlement. Outsiders whisper of blood offerings, ritual combat and ceremonies under winter stars that seem to move as stars should not, and nobody who has visited will say whether the whispers are fact or fear.
+Horgsvangr exists for ritual. An order of priestesses, the velvur who work seid there, keeps a tradition that reaches back beyond anyone's records. They perform the great seasonal sacrifices, read omens in the flight of birds and the fall of runes, and conduct the deepest rituals of the [[affiliation-asguardian|Asguardian Pantheon]]. What they sacrifice is not spoken of outside the settlement. Outsiders whisper of blood offerings, ritual combat and ceremonies under winter stars that seem to move as stars should not, and nobody who has visited will say whether the whispers are fact or fear.
 
 Women of the older clans say that the mothers of their oldest lines lie beneath the stones, the _hrúmsmodir_, and credit them with keeping a household's luck. A winter-night observance connected with them is kept among women, apart from the public rites of the gudar. Men know it is held and do not claim to know what is done.
 

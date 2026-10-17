@@ -91,7 +91,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 "The king owns less than you think and answers for more," a landvordr (king's reeve) tells the Vylarian factor riding the dues circuit with him out of [[place-knalthstead|Knalthstead]] for the first time. "He holds the realm while the ting keeps handing back his arm-ring. Every hall we stop at tonight knows that, and every one of them will tell me whether he is still worth the dues."
 
-The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]], on the northwestern coast of the [[place-nrdlndsrgn|Nordlands]], and it is the largest and first-ranked of the five [[lore-nordheimnclt|Nordmen]] kingdoms. About 650,000 people live under its crown, more than half again as many as in any of its sister kingdoms—[[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]] and [[affiliation-kngdmvthgrd|Vithgard]]. Nordheim holds [[place-domsey|Domsey]], the island where all five meet every seventh year, and its king usually convenes them. An outsider knows it for its longship fleets.
+The Kingdom of Nordheim holds the land of [[place-nordheim|Nordheim]], on the northwestern coast of the [[place-nrdlndsrgn|Nordlands Region]], and it is the largest and first-ranked of the five [[lore-nordheimnclt|Nordmen]] kingdoms. About 650,000 people live under its crown, more than half again as many as in any of its sister kingdoms—the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], the [[affiliation-kingdmtrgd|Kingdom of Targud]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]. Nordheim holds [[place-domsey|Domsey]], the island where all five meet every seventh year, and its king usually convenes them. An outsider knows it for its longship fleets.
 
 ## How Nordheim Is Ruled
 
@@ -112,15 +112,15 @@ The standings run from [[lore-nidingrnk|niding]], the outlaw beyond the ting's p
 
 ## The Royal Line
 
-The crown has stayed in one clan since the acclamations: the **Knalthidrok**, who keep the hall at Knalthstead and the royal howes on the slope below it. The ting chooses each king from among them, and a king's name rings the generations in its vowels as every Nordmal name does. The skalds recite the whole line at a sitting; these are the kings a newcomer hears of first.
+The crown has stayed in one clan since the acclamations: the **[Knalthidrok]{.name data-type="affiliation/lineage"}**, who keep the hall at Knalthstead and the royal howes on the slope below it. The ting chooses each king from among them, and a king's name rings the generations in its vowels as every Nordmal name does. The skalds recite the whole line at a sitting; these are the kings a newcomer hears of first.
 
-- **Svalthorv**, about 270 to 287, the first king acclaimed, killed on the strand of Domsey at the first sitting ([[lore-nordfirstsit|The First Sitting on Domsey]]).
-- **Snilthorv**, 287 to 318, his son, who took Domsey's keeping as his father's wergild and first convened the sittings.
-- **Thrildorv**, about 455 to 481, who held the shore at [[place-skalfvatn|Skalfvatn]] when Malagna's host went through the ice ([[lore-nordkinwars|The Kin-Wars]]).
-- **Bruldmil**, about 503 to 519, king of the [[lore-threewinters|Three Winters]], who swore the door-seat oath at the sitting of 518.
-- **Thraskmil**, 519 to 549, who sent the hulls south ([[lore-southrnfleets|The Southern Fleets]]).
-- **Vruthorv**, about 650 to 689, who sent three kingdoms' fleets to Aelwyth ([[lore-stormveldtkn|The Taking of Stormveld]]).
-- **Hvarnorv**, king since 689.
+- **[Svalthorv]{.name data-type="being/npc"}**, about 270 to 287, the first king acclaimed, killed on the strand of Domsey at the first sitting ([[lore-nordfirstsit|The First Sitting on Domsey]]).
+- **[Snilthorv]{.name data-type="being/npc"}**, 287 to 318, his son, who took Domsey's keeping as his father's wergild and first convened the sittings.
+- **[Thrildorv]{.name data-type="being/npc"}**, about 455 to 481, who held the shore at [[place-skalfvatn|Skalfvatn]] when Malagna's host went through the ice ([[lore-nordkinwars|The Kin-Wars]]).
+- **[Bruldmil]{.name data-type="being/npc"}**, about 503 to 519, king of [[lore-threewinters|The Three Winters]], who swore the door-seat oath at the sitting of 518.
+- **[Thraskmil]{.name data-type="being/npc"}**, 519 to 549, who sent the hulls south ([[lore-southrnfleets|The Southern Fleets]]).
+- **[Vruthorv]{.name data-type="being/npc"}**, about 650 to 689, who sent three kingdoms' fleets to [[place-aelwyth|Aelwyth]] ([[lore-stormveldtkn|The Taking of Stormveld]]).
+- **[Hvarnorv]{.name data-type="being/npc"}**, king since 689.
 
 Hvarnorv is old. He has two grown grandsons and has named neither, and the ting at Knalthstead will not be asked to choose between them while he lives. Each grandson has jarls who would sit behind him at the sixty-third sitting, and each knows which seats those are.
 
@@ -128,21 +128,21 @@ Hvarnorv is old. He has two grown grandsons and has named neither, and the ting 
 
 Nordheim's people are the Nordmen at their most typical, and the other kingdoms say so with mixed feelings. Clans gather under jarls who hold their followers through strength, judgment and generosity, and the clans meet at the regional tings where disputes are settled, laws proclaimed and alliances made. Honor comes first: a Nordman's reputation is the most valuable thing he owns, and an insult or a betrayal can begin a feud that outlives everyone present at it.
 
-The kingdom's shipwrights and sailors are its pride. Its longships draw little enough water for rivers and coastlines and are seaworthy enough for open ocean, and its fleets run from a few raiding ships to armadas that can threaten coastal cities across Ankaris. The same crews carry amber, furs and whale ivory to the markets of [[place-midhalnrgn|Mídhalión]]. Raiding is a respected trade here, and so is trading.
+The kingdom's shipwrights and sailors are its pride. Its longships draw little enough water for rivers and coastlines and are seaworthy enough for open ocean, and its fleets run from a few raiding ships to armadas that can threaten coastal cities across the [[place-ankrscntnnt|Ankaris Continent]]. The same crews carry amber, furs and whale ivory to the markets of the [[place-midhalnrgn|Mídhalión Region]]. Raiding is a respected trade here, and so is trading.
 
 Women manage the estates while the ships are away, own property and may initiate divorce. Shield-maidens are uncommon but not unheard of, and they are respected as warriors.
 
-The kingdom's places show its range. [[place-odholm|Odholm]] on the northern coast has grown around an ancient temple of Odvar; [[place-horgsvangr|Horgsvangr]] in the interior is the oldest inhabited settlement in Nordheim, an altar-field said to be older than any present kingdom; the seamount of [[place-thrumufjall|Thrumufjall]] holds a temple of Thrunvald and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]]. [[place-raltholm|Raltholm]]'s hersvald calls the levy with a horn, the hill fort of [[place-skraldborg|Skraldborg]] watches the water, and [[place-nalthmark|Nalthmark]] marks where the kingdom's reckoned claim runs out. Below it, [[place-hrindstead|Hrindstead]] stands in an oak grove the [[lore-varokhiclt|Varokh]] claim as their own. In the forested interior lies [[place-haulonna|Thalmdal]], a destroyed [[lore-flksinale|Sinale]] enclave whose blight is spreading into the highland clans' hunting grounds.
+The kingdom's places show its range. [[place-odholm|Odholm]] on the northern coast has grown around an ancient temple of the [[affiliation-odvar|Faith of Odvar]]; [[place-horgsvangr|Horgsvangr]] in the interior is the oldest inhabited settlement in Nordheim, an altar-field said to be older than any present kingdom; the seamount of [[place-thrumufjall|Thrumufjall]] holds a temple of the [[affiliation-thrunvald|Faith of Thrunvald]] and the mother-hall of [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]]. [[place-raltholm|Raltholm]]'s hersvald calls the levy with a horn, the hill fort of [[place-skraldborg|Skraldborg]] watches the water, and [[place-nalthmark|Nalthmark]] marks where the kingdom's reckoned claim runs out. Below it, [[place-hrindstead|Hrindstead]] stands in an oak grove the [[lore-varokhiclt|Varokhi]] claim as their own. In the forested interior lies [[place-haulonna|Thalmdal]], a destroyed [[lore-flksinale|Sinale]] enclave whose blight is spreading into the highland clans' hunting grounds.
 
 ## Faith and the Velvur
 
-Nordheim worships the [[affiliation-asguardian|Asguardian Pantheon]], a company of powerful and often capricious gods who govern the forces of nature and the virtues the Nordmen prize. [[affiliation-odvar|Odvar]] is the All-Father, god of knowledge and wisdom; [[affiliation-bjartr|Bjart]] is the god of light, dreams and the elder races; and [[affiliation-nahild|Nahild]] is the dreaded goddess of the underworld, whose cult is feared and reviled.
+Nordheim worships the [[affiliation-asguardian|Asguardian Pantheon]], a company of powerful and often capricious gods said to govern the forces of nature and the virtues the Nordmen prize. [[lore-odvardty|Odvar]] is the All-Father, god of knowledge and wisdom; [[lore-bjartrdty|Bjart]] is the god of light, dreams and the elder races; and [[lore-nahilddty|Nahild]] is the dreaded goddess of the underworld, whose cult, the [[affiliation-nahild|Faith of Nahild]], is feared and reviled.
 
 Worship is practical and personal. People make offerings at standing stones, in sacred groves and at household altars. Four blets mark the turns of the year. The midwinter feast of [[lore-jol|Jel]] and the midsummer bonfires of [[lore-midsumar|Midsomar]] are the great communal celebrations; [[lore-sumarmal|Somarmál]] opens the assembly season, and Vetrnetr closes the year's slaughter. The _velvur_, seeresses and spirit-workers, read omens, work seid and stand between the living and the divine.
 
 ## Magic
 
-Magic in Nordheim takes two forms. _Seid_ is the velvur's craft of trance, spirit journeys and divination. It is powerful and socially fraught: respected in a woman, it is called _ergi_ (unmanly) in a man, though some men practice it anyway. _Rúnagaldr_ is the craft of cutting runes with intent, kept by specialists called _rúnstjori_ (rune-masters). It is accepted in either sex and closely tied to the worship of [[lore-odvardty|Odvar]], who paid an eye at [[lore-minnir|Minnir]]'s well for the runes. The rune-masters teach that the eye was the only price he paid and the well the only place he paid it: he drank, the runes stood in the water, and the first thing they spelled for him was his own death at [[lore-aldarlok|Aldarlok]].
+Magic in Nordheim takes two forms. _Seid_ is the velvur's craft of trance, spirit journeys and divination. It is powerful and socially fraught: respected in a woman, it is called _ergi_ (unmanly) in a man, though some men practice it anyway. _Rúnagaldr_ is the craft of cutting runes with intent, kept by specialists called _rúnstjori_ (rune-masters). It is accepted in either sex and closely tied to the worship of Odvar, who, in the rune-masters' teaching, paid an eye at [[lore-minnir|Minnir]]'s well for the runes. The rune-masters teach that the eye was the only price he paid and the well the only place he paid it: he drank, the runes stood in the water, and the first thing they spelled for him was his own death at [[lore-aldarlok|Aldarlok]].
 
 The [[affiliation-ordoarcanis|Thordimalon]] has almost no presence in Nordheim. The Nordmen distrust foreign institutions, and their own traditions were old centuries before the Arcane Order existed.
 
@@ -152,11 +152,11 @@ Raiding, trade and migration set Nordheim's dealings with the rest of Ankaris. I
 
 Among the five kingdoms, Malagna is Nordheim's rival: the two have long vied for leadership of the Nordmen, and their dealings are fraternal and competitive at once. Norgaad, Targud and Vithgard stand neither with Nordheim nor against it, and meet it as equals on Domsey.
 
-Beyond the north, the [[place-grkrhlmrgn|Grukar]] to the east share the hard climate and little else, and the two peoples are often hostile. To the south, the forests of [[place-vrystwald|Vristwald]] are a contested frontier where Nordheim's settlers and the [[affiliation-vrystwldtrbs|Varokh tribes]] compete for ground.
+Beyond the north, the [[lore-grukarfolk|Grukar Folk]] to the east share the hard climate and little else, and the two peoples are often hostile. To the south, the forests of [[place-vrystwald|Vristwald]] are a contested frontier where Nordheim's settlers and the Varokh [[affiliation-vrystwldtrbs|Vristwald Tribes]] compete for ground.
 
 ## Commerce and Currency
 
-Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (ethla, ankhra and bit), and no chapter of the [[affiliation-danvar|Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here: a traveler's note has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which owe nothing to the Vylarian banking houses.
+Nordheim strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian Currency]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|The Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored here: a traveler's note has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which owe nothing to the Vylarian banking houses.
 
 ## See Also
 

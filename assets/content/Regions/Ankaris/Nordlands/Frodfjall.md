@@ -8,9 +8,9 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
 ---
 
-Nobody climbs Frodfjall for the view; they climb for what comes out of the ground at the top. The waters of life are said to flow from the earth at the summit of this sacred mountain of the [[place-nrdlndsrgn|Nordlands]], held from [[lore-frodvindty|Frodvin]], and a powerful spirit of the mountain guards them.
+Nobody climbs Frodfjall for the view; they climb for what comes out of the ground at the top. The waters of life are said to flow from the earth at the summit of this sacred mountain of the [[place-nrdlndsrgn|Nordlands Region]], held from [[lore-frodvindty|Frodvin]], and a powerful spirit of the mountain guards them.
 
-Below the summit stands **the Temple of Frodvin at Frodfjall**, whose healers keep the mountain's most closely guarded knowledge of healing.
+Below the summit stands **the [Temple of Frodvin at Frodfjall]{.name data-type="place/structure"}**, whose healers keep the mountain's most closely guarded knowledge of healing.
 
 ## The Climb and the Waters
 

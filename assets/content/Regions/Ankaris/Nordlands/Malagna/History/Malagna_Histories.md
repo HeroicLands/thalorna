@@ -39,20 +39,20 @@ data:
         - whether a settlement whose stave one side burned binds both clans, which King Gnaldrorv would not decide
 ---
 
-Malagna's two great clans remember the same broken settlement differently. Their stories about
+In Histories and Legends of Malagna, the two great clans of [[place-malagna|Malagna]] remember the same broken settlement differently. Their stories about
 things beneath the howes and beyond death are less certain, but they shape what people dare to touch.
 
 ## The Kingdom's Past
 
-The [[affiliation-kingdomlgn|Hlurthidrok]] have held Malagna's crown at [[place-gnarthborg|Gnarthborg]] since the acclamations, and they reckon themselves from [[affiliation-kingdomlgn|Hlurthann I]] and not from the king before him, because that king lies under a lake. [[affiliation-kingdomlgn|Gnirthorv]] led the Malagnan host across the frozen [[place-skalfvatn|Skalfvatn]] in 466 to take Nordheim from behind and went through the ice with eleven hundred men; his arm-ring is still down there, and the peace made at Asgarthul five years later ended the [[lore-nordkinwars|Kin-Wars]]. His son Hlurthann I, king from about 480 to 523, turned the kingdom from the contested north to the western trade, and Gnarthborg's yards built the hulls that carried [[lore-southrnfleets|the Southern Fleets]] south.
+The [Hlurthidrok]{.name data-type="affiliation/lineage"} have held the crown of the [[affiliation-kingdomlgn|Kingdom of Malagna]] at [[place-gnarthborg|Gnarthborg]] since the acclamations, and they reckon themselves from [Hlurthann I]{.name data-type="being/npc"} and not from the king before him, because that king lies under a lake. [Gnirthorv]{.name data-type="being/npc"} led the Malagnan host across the frozen [[place-skalfvatn|Skalfvatn]] in 466 to take the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] from behind and went through the ice with eleven hundred men; his arm-ring is still down there, and the peace made at [[place-asgarthul|Asgarthul]] five years later ended [[lore-nordkinwars|The Kin-Wars]]. His son Hlurthann I, king from about 480 to 523, turned the kingdom from the contested north to the western trade, and Gnarthborg's yards built the hulls that carried [[lore-southrnfleets|The Southern Fleets]] south.
 
-[[affiliation-kingdomlgn|Hlurthann II]], about 600 to 632, married the crown's daughters into the island families of [[affiliation-calypsa|Kalipsa]], and his son [[affiliation-kingdomlgn|Gnaldrorv]], about 632 to 662, would not choose between the Grimvar and the Hrafnvar when the wergild below split them. [[being-knghlrthni|King Hlurthann III]], acclaimed about 686, is aging and has no acclaimed heir, and the two clans Gnaldrorv would not judge between are each waiting to name one.
+[Hlurthann II]{.name data-type="being/npc"}, about 600 to 632, married the crown's daughters into the island families of [[affiliation-calypsa|Kalipsa]], and his son [Gnaldrorv]{.name data-type="being/npc"}, about 632 to 662, would not choose between the [[affiliation-grimvar|Grimvar]] and the [[affiliation-hrafnvar|Hrafnvar]] when the wergild below split them. [[being-knghlrthni|King Hlurthann III]], acclaimed about 686, is aging and has no acclaimed heir, and the two clans Gnaldrorv would not judge between are each waiting to name one.
 
 ## The Málstead Wergild
 
-About 645, in the reign of King Gnaldrorv, a [[affiliation-hrafnvar|Hrafnvar]] shipwright killed a [[affiliation-grimvar|Grimvar]] boy in a shipyard quarrel at [[place-gnarthborg|Gnarthborg]].
+About 645, in the reign of King Gnaldrorv, a Hrafnvar shipwright killed a Grimvar boy in a shipyard quarrel at Gnarthborg.
 The Hrafnvar offered wergild. The Grimvar refused it and took a life; the Hrafnvar answered with two.
-A priest of [[affiliation-frodvin|Frodvin]] walked between [[place-braldheim|Braldheim]] and [[place-malstead|Málstead]] to seek peace. Both
+A priest of the [[affiliation-frodvin|Faith of Frodvin]] walked between [[place-braldheim|Braldheim]] and [[place-malstead|Málstead]] to seek peace. Both
 jarls marked a split oath-stave. The Grimvar jarl's brother then burned his clan's half before the
 priest.
 
@@ -63,7 +63,7 @@ that one half of the stave speaks for both.
 
 ## The Wyrm beneath the Crown
 
-The Grimvar keep [[miscgear-crwnwyrm|the Crown of the Wyrm]] in a howe at Braldheim. Stories say a
+The Grimvar keep [[miscgear-crwnwyrm|The Crown of the Wyrm]] in a howe at Braldheim. Stories say a
 _landormr_ lies beneath it, warming the chamber, and that one man who descended thought the Crown
 looked back at him. Grimvar tellers treat the guardian as a sign that the Crown is more than a king's
 ornament. Hrafnvar tellers say fear, not piety, keeps their rivals from wearing it. The howe's
@@ -74,7 +74,7 @@ living politics.
 
 A [[place-hvalgvik|Hvalgvík]] tale follows a woman who went down after her dead husband and brought him home. At first he
 remembered her; soon he forgot names and grew hungry. The tale says a [[affiliation-gronverdir|Green Warden]] ended what she had
-brought back. It is told as a warning about trying to reclaim someone from [[affiliation-nahild|Nahild]],
+brought back. It is told as a warning about trying to reclaim someone from [[lore-nahilddty|Nahild]],
 whose silence offers no bargain. No road beneath the hills or method of return is established by the
 song, and the woman's grief does not make the returned man an ordinary living husband.
 

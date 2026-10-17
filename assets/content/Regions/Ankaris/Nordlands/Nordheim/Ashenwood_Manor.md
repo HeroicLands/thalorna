@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [nordheim], population: 0, packFolder: 
 
 ## Overview
 
-A feast at Ashenwood Manor begins with a hunt. Guests ride out with the manor's huntsmen in the morning and eat what they brought down by evening, and the hunting grounds are what the neighbors know the place for. The manor is a lord's seat in [[place-nordheim|Nordheim]], held by **Lord Gnildrmil of Ashenwood Manor**, who keeps a feasting hall for the purpose.
+A feast at Ashenwood Manor begins with a hunt. Guests ride out with the manor's huntsmen in the morning and eat what they brought down by evening, and the hunting grounds are what the neighbors know the place for. The manor is a lord's seat in [[place-nordheim|Nordheim]], held by **Lord [[being-gnildrmyl|Gnildrmil]] of Ashenwood Manor**, who keeps a feasting hall for the purpose.
 
 ## The Hunting Grounds
 

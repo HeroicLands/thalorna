@@ -38,11 +38,11 @@ The Hrafnvar keep their half of a split oath-stave, and they say the stave still
 
 ## What the Hrafnvar Say
 
-Three generations ago a Hrafnvar shipwright killed a Grimvar boy in a shipyard quarrel at Gnarthborg. The Hrafnvar offered wergild. The Grimvar refused it and took a life, and the Hrafnvar answered with two. A priest of [[affiliation-frodvin|Frodvin]] walked between [[place-braldheim|Braldheim]] and [[place-malstead|Málstead]] to seek peace, and both jarls marked the stave, one half for each clan. The Grimvar jarl's brother then burned his clan's half before the priest. The Hrafnvar answer that a half survives, and that a settlement a priest witnessed does not fail because one party burned its token.
+Three generations ago a Hrafnvar shipwright killed a Grimvar boy in a shipyard quarrel at Gnarthborg. The Hrafnvar offered wergild. The Grimvar refused it and took a life, and the Hrafnvar answered with two. A priest of the [[affiliation-frodvin|Faith of Frodvin]] walked between [[place-braldheim|Braldheim]] and [[place-malstead|Málstead]] to seek peace, and both jarls marked the stave, one half for each clan. The Grimvar jarl's brother then burned his clan's half before the priest. The Hrafnvar answer that a half survives, and that a settlement a priest witnessed does not fail because one party burned its token.
 
 ## The Crown They Do Not Fear
 
-The Grimvar keep [[miscgear-crwnwyrm|the Crown of the Wyrm]] in a howe at Braldheim, and Grimvar tellers say a _landormr_ lies beneath it. Hrafnvar tellers say it is fear, not piety, that keeps their rivals from wearing the Crown.
+The Grimvar keep [[miscgear-crwnwyrm|The Crown of the Wyrm]] in a howe at Braldheim, and Grimvar tellers say a _landormr_ lies beneath it. Hrafnvar tellers say it is fear, not piety, that keeps their rivals from wearing the Crown.
 
 ## At a Glance
 

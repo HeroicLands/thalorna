@@ -8,19 +8,19 @@ tags: [asguardian, draft]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-"Everything he makes, he makes once," the Hofgudja at [[place-vithgard|Vithgard]]'s great hov of [[lore-motefnirdty|Mótefnir]] tells a newcomer. "Then he walks away from it. You are the only thing he ever made that could walk away from him in its turn and make more of itself. Think about what that cost." The north calls its people **Gnúmborinn**, the clay-born—_gnúm-_, a clay pot, and _-borinn_, one born of a thing—and the name is the whole account in two pieces.
+"Everything he makes, he makes once," the Hofgudja at [[place-vithgard|Vithgard]]'s great hov of the [[affiliation-motefnir|Faith of Mótefnir]] tells a newcomer. "Then he walks away from it. You are the only thing he ever made that could walk away from him in its turn and make more of itself. Think about what that cost." The north calls its people **Gnúmborinn**, the clay-born—_gnúm-_, a clay pot, and _-borinn_, one born of a thing—and the name is the whole account in two pieces.
 
 ## The Mould and the Clay
 
-When the [[affiliation-asguardian|Ten]] had cut [[place-worldthlrn|Mannguard]] out of [[lore-hrimthurspr|Hrimthur]]'s body in the [[lore-thursblot|Thursblet]], the world was ground, sea and weather with nobody on it. Mótefnir walked it. Where the giant's flesh lay against the meltwater coming off his rime the ground was clay, and the Maker pressed two figures out of it in his mould—the same mould his hovs carry as his sign beside an unfinished casting. He set them down on the strand to dry.
+In the telling, when the [[affiliation-asguardian|Asguardian Pantheon]]—the Ten—had cut [[place-worldthlrn|The World of Thalorna]], Mannguard, out of [[lore-hrimthurspr|Hrimthur]]'s body in the [[lore-thursblot|Thursblet]], the world was ground, sea and weather with nobody on it. [[lore-motefnirdty|Mótefnir]] walked it. Where the giant's flesh lay against the meltwater coming off his rime the ground was clay, and the Maker pressed two figures out of it in his mould—the same mould his hovs carry as his sign beside an unfinished casting. He set them down on the strand to dry.
 
-The first two have names, and the names are older than any hall. **Hrandmil** is the man, named from _hrand_, a thing set down that will not be moved, because he was the first thing set down on the world and he stayed. **Dvarnrinna** is the woman, named from _dvarn_, a door that is never barred. Both names stand in the hard grade, the first of the three, and that is why the skalds teach that every hall's genealogy, counted back far enough, rings home to a hard-grade name: the first two were the first naming, and the grades have turned from them ever since.
+The first two have names, and the names are older than any hall. **[Hrandmil]{.name data-type="being/npc"}** is the man, named from _hrand_, a thing set down that will not be moved, because he was the first thing set down on the world and he stayed. **[Dvarnrinna]{.name data-type="being/npc"}** is the woman, named from _dvarn_, a door that is never barred. Both names stand in the hard grade, the first of the three, and that is why the skalds teach that every hall's genealogy, counted back far enough, rings home to a hard-grade name: the first two were the first naming, and the grades have turned from them ever since.
 
 ## The Gifts
 
 Clay set out to dry is a pot, not a person, and the tellings give the rest to the other gods. [[lore-odvardty|Odvar]] gave them the fit—_od_, the breath and the seer's fury that makes a body think and want. [[lore-solrundty|Solrún]] gave them warmth, the color in a face and the heat in the blood. [[lore-frodvindty|Frodvin]] gave them growth, the hunger that makes a child become a man. The halls each add their own god to the list and quarrel about the order, but the three gifts every hall names are breath, warmth and growth.
 
-Mótefnir's own gift is the one his hovs care about. He gave the clay-born the power to make more of themselves, which he gave to nothing else he ever made: his [[lore-dreadspawncrtr|Dreadspawn]] are each made once and none of them breeds. Then he did what he always does. He stopped, and walked away, and left them unfinished. "That is why you grow," the Hofgudja says. "He did not finish you. You are still being made, and you are the ones doing it."
+Mótefnir's own gift is the one his hovs care about. In their teaching, he gave the clay-born the power to make more of themselves, which he gave to nothing else he ever made: his [[lore-dreadspawncrtr|Dreadspawn]] are each made once and none of them breeds. Then he did what he always does. He stopped, and walked away, and left them unfinished. "That is why you grow," the Hofgudja says. "He did not finish you. You are still being made, and you are the ones doing it."
 
 ## How Death Came In
 
@@ -30,7 +30,7 @@ Every hall teaches that the first two were made without death in them, and that 
 
 **The giant in the clay.** [[place-odholm|Odholm]]'s rune-hall teaches that the clay was Hrimthur's flesh, and Hrimthur was dead. People were pressed out of a dead giant, so they carry his death in them as the ground carries his wound, and every death since is the giant's death finishing its work in one more piece of him. The rune-priests do not find this grim. "You were made of something that was beaten," a rune-caster tells a newcomer. "It does not follow that you are."
 
-**The unasked gift.** [[lore-nahilddty|Nahild]]'s hidden clergy teach that death was her gift to the clay-born, given after the others and without being asked for, and that she is the only god who gave people something they cannot refuse. No other hov will hear that account said aloud, and a household that repeats it is suspected of keeping her rites.
+**The unasked gift.** The hidden clergy of the [[affiliation-nahild|Faith of Nahild]] teach that death was [[lore-nahilddty|Nahild]]'s gift to the clay-born, given after the others and without being asked for, and that she is the only god who gave people something they cannot refuse. No other hov will hear that account said aloud, and a household that repeats it is suspected of keeping her rites.
 
 ## The First Grave
 

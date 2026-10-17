@@ -35,15 +35,15 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Some of the coastal clans have stopped asking Thrunvald for a fair wind," a netmender on a coastal landing says quietly to the stranger sharing her bench, "and the sea has taken to answering them." Njorven's Cult venerates the Sea Wraith [[being-njorven|Njorven]] and means to see it free.
+"Some of the coastal clans have stopped asking [[lore-thrunvalddty|Thrunvald]] for a fair wind," a netmender on a coastal landing says quietly to the stranger sharing her bench, "and the sea has taken to answering them." Njorven's Cult venerates the Sea Wraith [[being-njorven|Njorven]] and means to see it free.
 
 ## What the Cult Wants
 
-Njorven was overthrown long ago by [[lore-thrunvalddty|Thrunvald]] and put into a watery prison beneath the northern seas, and it is stirring now. The cult's aim is to see it loose, which puts the cult in direct opposition to [[lore-njordurritlbinding|the Ritual of Binding]]: the rite needs a specific hidden coastal temple, a long working, and an invoker who cannot defend themselves while they work it, and those are three things a faction that wants the prison open has every reason to attack.
+Njorven was overthrown long ago—by Thrunvald, according to the tellings—and put into a watery prison beneath the northern seas, and it is stirring now. The cult's aim is to see it loose, which puts the cult in direct opposition to [[lore-njordurritlbinding|The Ritual of Binding]]: the rite needs a specific hidden coastal temple, a long working, and an invoker who cannot defend themselves while they work it, and those are three things a faction that wants the prison open has every reason to attack.
 
 ## How It Spreads
 
-As Njorven's influence grows, some coastal clans begin to abandon their faith in Thrunvald, the god who vanquished the Sea Wraith, and turn to the sea spirit instead. The cult is an active faction, not a background color. Its cultists work to undermine [[being-grosdrnrgd|Groa]]'s efforts and spread chaos along the coast, and exposing and dismantling the cult, while persuading the people to resist Njorven's allure, is part of what her campaign asks of her.
+As Njorven's influence grows, some coastal clans begin to abandon the [[affiliation-thrunvald|Faith of Thrunvald]], whose god is said to have vanquished the Sea Wraith, and turn to the sea spirit instead. The cult is an active faction, not a background color. Its cultists work to undermine [[being-grosdrnrgd|Groa the Seid of Norgaad]]'s efforts and spread chaos along the coast, and exposing and dismantling the cult, while persuading the people to resist Njorven's allure, is part of what her campaign asks of her.
 
 ## What Its Own Tellings Say
 

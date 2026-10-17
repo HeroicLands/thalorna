@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-"Everything that leaves Malagna leaves by water," a farmer tells the stranger on the next bench at [[place-malstead|Málstead]], where both of them are waiting for the Lawspeaker's circuit to reach the marked stone in the market square. "Everything that gets decided here gets decided at Málstead or at Gnarthborg. You are in the right place for one of them."
+"Everything that leaves Malagna leaves by water," a farmer tells the stranger on the next bench at [[place-malstead|Málstead]], where both of them are waiting for the Lawspeaker's circuit to reach the marked stone in the market square. "Everything that gets decided here gets decided at Málstead or at [[place-gnarthborg|Gnarthborg]]. You are in the right place for one of them."
 
 Malagna is the land of the [[affiliation-kingdomlgn|Kingdom of Malagna]], between [[place-norgaad|Norgaad]] to the southwest and [[place-targud|Targud]] to the northeast; [[place-nordheim|Nordheim]] lies beyond Norgaad.
 
-Malagna occupies the northern Nordlands between Norgaad's fjords and Targud's eastern frontier. Its own coast faces the northern ocean, while [[place-velanthrgn|Velanthia]] lies beyond its southeastern border.
+Malagna occupies the northern part of the [[place-nrdlndsrgn|Nordlands Region]] between Norgaad's fjords and Targud's eastern frontier. Its own coast faces the northern ocean, while the [[place-velanthrgn|Velanthia Region]] lies beyond its southeastern border.
 
 ## Character
 
