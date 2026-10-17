@@ -5,4 +5,4 @@ type: folder
 data: {parent: lorespirits}
 ---
 
-This folder gathers the Asguardian spirits among the Spirits of the lore. It holds the lore note for Hrimthur.
+This folder gathers the Asguardian spirits among the Spirits of the lore. It holds the lore note for [[lore-hrimthurspr|Hrimthur]].

@@ -5,4 +5,4 @@ type: folder
 data: {parent: celestialpantheon, color: "#EE82EE"}
 ---
 
-This folder gathers the Elemental Lords of the Celestial Pantheon, the powers of the elements that stand among the heavenly figures of the Téngwou Rong Lei tradition. It is filed beneath the Celestial Pantheon folder, beside Youwéng.
+This folder gathers the Elemental Lords of the [[lore-clstlpnthn|Celestial Pantheon]], the powers of the elements that stand among the heavenly figures of the [[affiliation-tengwouronglei|Téngwou Rong Lei]] tradition. It is filed beneath the Celestial Pantheon folder, beside Youwéng.

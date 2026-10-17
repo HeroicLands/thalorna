@@ -5,4 +5,4 @@ type: folder
 data: {parent: miscgear, color: "#1D3557"}
 ---
 
-This folder gathers the instruments among the miscellaneous gear: measuring and reckoning tools such as Ganoka's Counting-Board, the Surva Temple Gnomon-Rod and Mahajaya's Touched Scale. It sits within the Misc_Gear folder of the possessions.
+This folder gathers the instruments among the miscellaneous gear: measuring and reckoning tools such as [[miscgear-ganakaboard|Ganoka's Counting-Board]], the [[miscgear-gnomonrod|Surva Temple Gnomon-Rod]] and [[miscgear-weighingscale|Mahajaya's Touched Scale]]. It sits within the Misc_Gear folder of the possessions.
