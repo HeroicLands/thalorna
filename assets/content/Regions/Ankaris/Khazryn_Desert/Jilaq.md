@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 A caravan sees Jilaq two nights before it will be nearest to it, and it sees it lit. On the horizon to the north, low and steady, a row of yellow points stands over the dunes, as even as a necklace, and the camels lift their heads toward it. The guide does not turn the string. He has already turned it. The road leaves its line at the last cairn and swings south, and it stays south for three days, and nobody who has made the crossing before asks why.
 
-**Jilaq**, "the lantern" in [[skill-sowideslng|Sovidur]], was the chief city of [[lore-towercities|the Tower League]]: a ring wall of baked brick a mile across, a dry harbor of caravan yards, the league's counting-house, and a dozen light-towers, the tallest two hundred feet. The towers still stand. The lamp-chambers are black and empty, and on most nights nothing burns in them that a person could carry a flame to.
+**Jilaq**, "the lantern" in the [[skill-sowideslng|Sovidur Language]], was the chief city of [[lore-towercities|The Tower Cities]], the Tower League: a ring wall of baked brick a mile across, a dry harbor of caravan yards, the league's counting-house, and a dozen light-towers, the tallest two hundred feet. The towers still stand. The lamp-chambers are black and empty, and on most nights nothing burns in them that a person could carry a flame to.
 
 ## How It Was Made
 
@@ -28,10 +28,10 @@ That is the part a traveler sees from the road. The rest is closer. The hunters 
 
 ## How the Road Lives with It
 
-- **The road goes round.** The Celestial Road leaves its old line three days south of the city. The detour is worn deep and every tribe whose range it crosses charges for it.
-- **Riders turn caravans back.** The tribes of the south edge of the Khoshiqor keep riders at the last cairn. A caravan master who asks about the short way is told once, by a dovaq's man with a hand on his bridle, and a caravan that goes on is not followed.
+- **The road goes round.** [[lore-celestialroad|The Celestial Road]] leaves its old line three days south of the city. The detour is worn deep and every tribe whose range it crosses charges for it.
+- **Riders turn caravans back.** The tribes of the south edge of the [[place-hskrrgn|Khoshiqor]] keep riders at the last cairn. A caravan master who asks about the short way is told once, by a dovaq's man with a hand on his bridle, and a caravan that goes on is not followed.
 - **A lamp at the foot.** On the night of the sack the herders who water at the nearest wells carry a lamp to the base of the fallen light-tower that stands along the road and leave it burning. They do not go nearer than that.
-- **The Uruvolur will not guide.** A hidden-water band sells a path across the empty ground south of the wall and will not sell one north of it, at any price.
+- **The [[affiliation-rwlstrb|Uruvolur]] will not guide.** A hidden-water band sells a path across the empty ground south of the wall and will not sell one north of it, at any price.
 
 ## The Counting-House
 

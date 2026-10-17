@@ -58,11 +58,11 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Sahri** are a small [[lore-sowidesclt|Sovidur]] tribe of the remote reaches of the [[place-khzryndsrtrgn|Khazryn]], counted among the [[affiliation-rwlstrb|Uruvolur]] because they keep waters nobody else knows. Their country lies far from the road and near nothing, and a rider who finds a Sahri camp has been led to it.
+The **Sahri** are a small [[lore-sowidesclt|Sovidur]] tribe of the remote reaches of the [[place-khzryndsrtrgn|Khazryn Desert Region]], counted among the [[affiliation-rwlstrb|Uruvolur]] because they keep waters nobody else knows. Their country lies far from the road and near nothing, and a rider who finds a Sahri camp has been led to it.
 
 ## Rangers and the Jackal
 
-The Sahri are known for their rangers, who patrol the tribe's waters on foot and on camel and read the desert as a hunter reads a forest. The best known is Atazkharu, called the Silent Jackal, a tracker who found a wanderer deep in the sand after the first of his visions and carried him to a hidden oasis. The Sahri hold the Jackal Spirit to be the protector of wanderers, and a ranger who finds a lost traveler acts for the spirit.
+The Sahri are known for their rangers, who patrol the tribe's waters on foot and on camel and read the desert as a hunter reads a forest. The best known is [[being-atenhershr|Atazkharu Sahri]], called the Silent Jackal, a tracker who found a wanderer deep in the sand after the first of his visions and carried him to a hidden oasis. The Sahri hold the [Jackal Spirit]{.name data-type="lore/spirit"} to be the protector of wanderers, and a ranger who finds a lost traveler acts for the spirit.
 
 ## Prophecy
 

@@ -18,7 +18,7 @@ data:
 
 The iron comes from a poor seam on the back slope and would not be worth carrying anywhere else. The charcoal and the knowledge make the work, and the bloom sells as far as the eastern coast. The village burns its own charcoal in the slope forest under a cutting-rotation the sabhra sets.
 
-The jewelers of **Lower Suvarnageri** want the same wood, and the charcoal-burners of [[place-vanapada|Vanapada]] cut it for them. The quarrel over the rotation comes to the sabhra about once in five years and is settled the same way each time.
+The jewelers of [Lower Suvarnageri]{.name data-type="place/site"} want the same wood, and the charcoal-burners of [[place-vanapada|Vanapada]] cut it for them. The quarrel over the rotation comes to the sabhra about once in five years and is settled the same way each time.
 
 ## See Also
 

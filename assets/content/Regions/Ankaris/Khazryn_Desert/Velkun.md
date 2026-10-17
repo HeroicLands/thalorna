@@ -24,11 +24,11 @@ The danger is the ground. The old cellars run under the new settlement and under
 
 ## Treasure
 
-The temple quarter is the prize: courses of carved stone, columns with their lettering still sharp, and the foundation of a great hall under the sand. The stones are the only pre-drought work in the belt that has not been quarried by a later house. Below the quarter, in the cellars of the record-keepers, is the thing the house of Vahurdash wants most, the clay tablets of the old archive.
+The temple quarter is the prize: courses of carved stone, columns with their lettering still sharp, and the foundation of a great hall under the sand. The stones are the only pre-drought work in the belt that has not been quarried by a later house. Below the quarter, in the cellars of the record-keepers, is the thing the [House of Vahurdash]{.name data-type="affiliation/lineage"} wants most, the clay tablets of the old archive.
 
 ## A Hook
 
-The revived house of Vahurdash holds its title by acclamation, and the exiled houses at Amradad say that is not a title. The old archive holds the genealogies that would settle it. The house will pay a party to enter the cellars of the record-keepers' quarter and bring the tablets out unbroken, and a rival house in exile has made the same offer for the opposite purpose.
+The revived house of Vahurdash holds its title by acclamation, and the exiled houses in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] say that is not a title. The old archive holds the genealogies that would settle it. The house will pay a party to enter the cellars of the record-keepers' quarter and bring the tablets out unbroken, and a rival house in exile has made the same offer for the opposite purpose.
 
 ## See Also
 

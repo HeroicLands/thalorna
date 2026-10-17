@@ -24,30 +24,30 @@ data:
 
 Start with the [[doc-vedyaraadventurersguide|Vedyara Adventurer's Guide]] for an introduction to the people and places of the subcontinent.
 
-Vedyara is one civilization of a hundred and ten million people shut behind a wall of ice, and it has never been one state. It projects southeast from the [[place-ankrscntnnt|Ankaris Continent]] into three seas, and the world's highest mountains close it off to the north. Everything that matters here comes down off that wall: the four great rivers, the snowmelt that floods them, the gods who live on the peaks, and the trade of the six crossings. An outsider remembers Vedyara for its gems, its cloth and its learning, and for the monsoon that decides when any of it can move.
+The Vedyara Region is one civilization of a hundred and ten million people shut behind a wall of ice, and it has never been one state. It projects southeast from the [[place-ankrscntnnt|Ankaris Continent]] into three seas, and the world's highest mountains close it off to the north. Everything that matters here comes down off that wall: the four great rivers, the snowmelt that floods them, the gods held to live on the peaks, and the trade of the six crossings. An outsider remembers Vedyara for its gems, its cloth and its learning, and for the monsoon that decides when any of it can move.
 
-A factor of the [[affiliation-mrchntclctvvdyr|Merchant Collective]] who has worked every road on the subcontinent puts it to a newcomer this way: "Learn three things before you learn a single price. Which river you are on, because that tells you whose assembly speaks for the ground. Which calendar the court follows, because they differ by a day and a day can cost you a season. And what the monsoon is doing, because it closes the sea for four months and nobody here will apologize to you for it."
+A factor of [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] who has worked every road on the subcontinent puts it to a newcomer this way: "Learn three things before you learn a single price. Which river you are on, because that tells you whose assembly speaks for the ground. Which calendar the court follows, because they differ by a day and a day can cost you a season. And what the monsoon is doing, because it closes the sea for four months and nobody here will apologize to you for it."
 
 ## The Wall and the Six Crossings
 
-The [[place-graznmntns|Grazian Mountains]] run the whole northern edge of Vedyara, and no realm claims them. Their southern face is [[place-sthrnwall|the Southern Wall]], an escarpment of some fifteen hundred miles that holds the highest peaks in [[place-worldthlrn|Thalorna]], [[place-suryashkhr|Suryashikhara]] first among them. North of the range's central and western reaches lies the [[place-khzryndsrtrgn|Khazryn]]; north of [[place-estrnreach|the Eastern Reach]], where the range turns east, lies [[place-tantsouregin|Tantsou]].
+[[place-graznmntns|The Grazian Mountains]] run the whole northern edge of Vedyara, and no realm claims them. Their southern face is [[place-sthrnwall|The Southern Wall]], an escarpment of some fifteen hundred miles that holds the highest peaks in [[place-worldthlrn|The World of Thalorna]], [[place-suryashkhr|Suryashikhara]] first among them. North of the range's central and western reaches lies the [[place-khzryndsrtrgn|Khazryn Desert Region]]; north of [[place-estrnreach|The Eastern Reach]], where the range turns east, lies the [[place-tantsouregin|Tantsou Region]].
 
 Only six crossings are recognized along the entire range, and the routes and safe seasons of each are known only to the mountain guides:
 
 - [[place-meghadvara|Meghadvara]], the storm-door, the westernmost crossing, shut from below by the monsoon.
 - [[place-gudesroad|The Guides' Road]], between the two western doors, with no fortress, toll, shrine or blessing.
 - [[place-suryadvara|Suryadvara]], the greatest of the passes, under the fortress-capital of [[place-suryagarha|Suryagarha]], forking beyond the throat for the Khazryn and for Tantsou.
-- [[place-tamradvara|Tamradvara]], the copper-door, up [[place-slvrgorges|the Silver Gorges]] to the Khazryn's eastern marches.
+- [[place-tamradvara|Tamradvara]], the copper-door, up [[place-slvrgorges|The Silver Gorges]] to the Khazryn's eastern marches.
 - [[place-jnanadvara|Jnanadvara]], the scholars' door, the long crossing of the Eastern Reach to Tantsou's western frontier.
-- [[place-sankhadvra|Shankhadvara]], the conch-door, the easternmost and worst, watched from [[place-sanghafort|the Sangra-fort]].
+- [[place-sankhadvra|Shankhadvara]], the conch-door, the easternmost and worst, watched from [[place-sanghafort|The Sangra-fort]].
 
-Above the last [[place-pssshrines|Pass-Shrine]] the roads belong to the guide-peoples: the [[affiliation-osketguides|Osket]] on the western and central crossings and the [[affiliation-hvarnguides|Hvarn]] on the eastern two. No Vedyari court governs there, and a guide-mother's refusal ends a caravan's day whatever its papers say.
+Above the last [[place-pssshrines|Pass-Shrine]] the roads belong to the guide-peoples: [[affiliation-osketguides|The Osket]] on the western and central crossings and [[affiliation-hvarnguides|The Hvarn]] on the eastern two. No Vedyari court governs there, and a guide-mother's refusal ends a caravan's day whatever its papers say.
 
-At the western end the wall comes apart into the dry foothills of [[place-wstrndscnt|the Western Descent]]. [[place-marchroad|The march road]] goes round that end into [[place-dunharargn|Dunhara]], and it is the one way into Vedyara that crosses no pass.
+At the western end the wall comes apart into the dry foothills of [[place-wstrndscnt|The Western Descent]]. [[place-marchroad|The March Road]] goes round that end into the [[place-dunharargn|Dunhara Region]], and it is the one way into Vedyara that crosses no pass.
 
 ## Rivers, Plateau and Forest
 
-Four great rivers leave the ice at four glacier-springs, and the [[affiliation-varakpnthn|Varnuka]] faith holds each spring to be the literal source its river flowed from at the beginning of time. The springs are pilgrimages in their own right, and half the subcontinent drinks off this face of the range.
+Four great rivers leave the ice at four glacier-springs, and the faith of the [[affiliation-varakpnthn|Varnuka Pantheon]] holds each spring to be the literal source its river flowed from at the beginning of time. The springs are pilgrimages in their own right, and half the subcontinent drinks off this face of the range.
 
 | River                             | Source                                | Reaches the sea      | Known for                                                                                        |
 | --------------------------------- | ------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------ |
@@ -56,15 +56,15 @@ Four great rivers leave the ice at four glacier-springs, and the [[affiliation-v
 | [[place-mahanadi\|Mahanodi]]      | [[place-mahaprbhva\|Mahaprabhava]]    | The east coast       | The longest and most populous river, and the twelve-yearly **Melra**                             |
 | [[place-bharavarivr\|Bharava]]    | [[place-bhrvprbhav\|Bharavaprabhava]] | The east coast       | The gold highlands, the temple forests and the pilgrim road                                      |
 
-The valleys hold wide fertile floodplains, and the Chandramahi delta carries two rice crops a year. The Mahanodi has changed its channel four times within written record and [[lore-drwnngseat|drowned a royal seat]] doing it, so the villages of the central plain sit on old levees and on mounds raised over generations.
+The valleys hold wide fertile floodplains, and the delta of [[place-chandrmahi|The Chandramahi]] carries two rice crops a year. [[place-mahanadi|The Mahanodi]] has changed its channel four times within written record and [[lore-drwnngseat|drowned a royal seat]] doing it, so the villages of the central plain sit on old levees and on mounds raised over generations.
 
-Between the rivers lie forests and the high, semi-arid tableland of [[place-vandhyabhumi|Vandyabhumi]], where wells are property and the ground is not, and where the ruined capital of [[place-madhavendra|Madustana]] stands on open pasture. The lower Bharava runs through [[place-bharavavana|Bharavavana]], six hundred miles of tropical forest held in temple estates. Below the Eastern Reach lies [[place-forestnoroad|the Forest of No Road]], which no janapoda has ever sent an assembly into.
+Between the rivers lie forests and the high, semi-arid tableland of [[place-vandhyabhumi|Vandyabhumi]], where wells are property and the ground is not, and where the ruined capital of [[place-madhavendra|Madustana]] stands on open pasture. The lower reaches of [[place-bharavarivr|The Bharava]] run through [[place-bharavavana|Bharavavana]], six hundred miles of tropical forest held in temple estates. Below the Eastern Reach lies [[place-forestnoroad|The Forest of No Road]], which no janapoda has ever sent an assembly into.
 
 ## Three Coasts
 
 The eastern shore faces the warm [[place-suryasamdra|Surva-samedra]], the sea the sun rises from; three of the four rivers reach the sea on this coast, and the ports stand at their mouths. The southern shore faces the [[place-meghsamdra|Meghra-samedra]], the sea the monsoon comes from, and takes the heaviest rain in Thalorna. Both coasts are humid and monsoon-washed. The shorter western shore faces the [[place-sandhysmdr|Sandva-samedra]], the sea of evening; it is much drier, no great river reaches it, and it has no deep natural harbor anywhere along its length.
 
-Offshore to the southeast, the [[place-suryaislnds|Surva-samedra Islands]] hold small kingdoms of their own and the Vedyari merchant colonies.
+Offshore to the southeast, [[place-suryaislnds|The Surva-samedra Islands]] hold small kingdoms of their own and the Vedyari merchant colonies.
 
 ## Climate
 
@@ -74,7 +74,7 @@ The highest Grazian summits stay glaciated and snow-covered all year; the lower 
 
 ## Who Holds the Ground
 
-No ruler speaks for Vedyara. Most of its people live in janapadas, small temple-republics of a few villages governed by a sabhra (assembly) in the hall of their central temple, and the [[affiliation-janpdsvdyr|Mahva-Sangra]] that joins them convenes once in twelve years and does not govern. Beside them stand the kingdoms and city-states, most of them larger than any single janapoda, and a few bodies that fit neither form:
+No ruler speaks for Vedyara. Most of its people live in janapadas, small temple-republics of a few villages governed by a sabhra (assembly) in the hall of their central temple, and their confederation, the [[affiliation-janpdsvdyr|Janapadas of Vedyara]], convenes once in twelve years and does not govern. Beside them stand the kingdoms and city-states, most of them larger than any single janapoda, and a few bodies that fit neither form:
 
 | Polity                                           | Form                              | People     | Holds                                                |
 | ------------------------------------------------ | --------------------------------- | ---------- | ---------------------------------------------------- |
@@ -89,11 +89,11 @@ No ruler speaks for Vedyara. Most of its people live in janapadas, small temple-
 | [[affiliation-osketguides\|The Osket]]           | Guide-lineages                    | 21,000     | The western and central crossings                    |
 | [[affiliation-hvarnguides\|The Hvarn]]           | Guide-hearths                     | 9,000      | The two crossings of the Eastern Reach               |
 
-Three janapadas set the pattern for the rest: [[affiliation-rajaprjnpd|Rajepur]], which dissolved its own kingdom; [[affiliation-suvrgrjnpd|Suvarnageri]], which holds a gold mountain under a constitution; and [[affiliation-dhnrktjnpd|Danurkota]], which trains the archers of every kingdom. Five polities share the [[lore-vdyrnbnkng|Vedyaran banking system]] through the [[affiliation-assmblycmpct|Assembly of the Compact]], and the Merchant Collective's letters of credit move money between all of them.
+Three janapadas set the pattern for the rest: [[affiliation-rajaprjnpd|Rajepur Janapoda]], which dissolved its own kingdom; [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]], which holds a gold mountain under a constitution; and [[affiliation-dhnrktjnpd|Danurkota Janapoda]], which trains the archers of every kingdom. Five polities share [[lore-vdyrnbnkng|Vedyaran Banking]], the banking system, through the [[affiliation-assmblycmpct|Assembly of the Compact]], and the Merchant Collective's letters of credit move money between all of them.
 
 ## Peoples and Beasts
 
-Vedyara is overwhelmingly human, and nearly all of it is [[lore-vedyariclt|Vedyari]]: one language, one classical learning, one faith in the [[affiliation-varakpnthn|Varnuka]] gods, and one order of stations read from a mark on the wrist. The guide-peoples above the [[place-pssshrines|Pass-Shrines]] stand outside that order entirely. The gathering peoples of the Bharava forest work under temple licence and are counted by nobody. Enclaves of [[lore-flksinale|Sinale]] are rumored in the Forest of No Road and have never been confirmed.
+Vedyara is overwhelmingly human, and nearly all of it is [[lore-vedyariclt|Vedyari]]: one language, one classical learning, one faith in the Varnuka gods, and one order of stations read from a mark on the wrist. The guide-peoples above [[place-pssshrines|The Pass-Shrines]] stand outside that order entirely. The gathering peoples of the Bharava forest work under temple licence and are counted by nobody. Enclaves of [[lore-flksinale|Sinale Folk]] are rumored in the Forest of No Road and have never been confirmed.
 
 The [[being-vdyrnrhn|Vedyaran rhinoceros]] keeps to the marshes and tall grass of the floodplains. [[being-vdyrnelphnt|Vedyaran elephants]] serve as temple mounts and war beasts.
 

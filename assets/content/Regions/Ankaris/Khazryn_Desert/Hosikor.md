@@ -14,15 +14,15 @@ data:
   government: null
 ---
 
-On the thirtieth day out from the March the grass is gone, and on the thirty-second the last water-skin the caravan filled at [[place-yemokwell|Yemok]] goes into the horses. The camels carry on. They have been fed for this, and they walk through the heat of the day with their heads low and their eyes half closed, and the master does not speak of the wells ahead until he sees them.
+On the thirtieth day out from the [[place-eastrnmrch|Eastern March]] the grass is gone, and on the thirty-second the last water-skin the caravan filled at [[place-yemokwell|Yemok]] goes into the horses. The camels carry on. They have been fed for this, and they walk through the heat of the day with their heads low and their eyes half closed, and the master does not speak of the wells ahead until he sees them.
 
-**Khoshiqor**, "the sand range" in [[skill-sowideslng|Sovidur]], is the central stretch of the [[place-khzryndsrtrgn|Khazryn]] and the widest. [[lore-celestialroad|The Celestial Road]] runs through it for about 1,150 miles, from Yemok to the second hand-off well at [[place-sowidwell|Sovid]], and takes the better part of two months to cross. Perhaps 330,000 people live in it, spread so thin that a caravan can go a week without sighting a tent.
+**Khoshiqor**, "the sand range" in the [[skill-sowideslng|Sovidur Language]], is the central stretch of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and the widest. [[lore-celestialroad|The Celestial Road]] runs through it for about 1,150 miles, from Yemok to the second hand-off well at [[place-sowidwell|Sovid]], and takes the better part of two months to cross. Perhaps 330,000 people live in it, spread so thin that a caravan can go a week without sighting a tent.
 
 ## Land and Water
 
-The sand seas lie in long ridges, some of them three hundred feet high, with gravel plains between them and the occasional black mesa standing out like a wall. In the middle lies a dead basin: a white salt flat, once a lake, with the banks of its canals still visible running out under the dunes. Rain almost never falls. The water that makes the crossing possible comes from deep wells, cut by the builders of the tower cities in an age that left no record and kept open by the tribes whose ranges they lie in. They lie three to five days apart.
+The sand seas lie in long ridges, some of them three hundred feet high, with gravel plains between them and the occasional black mesa standing out like a wall. In the middle lies a dead basin: a white salt flat, once a lake, with the banks of its canals still visible running out under the dunes. Rain almost never falls. The water that makes the crossing possible comes from deep wells, cut by the builders of [[lore-towercities|The Tower Cities]] in an age that left no record and kept open by the tribes whose ranges they lie in. They lie three to five days apart.
 
-For five days after Yemok the road has no water at all, and the camels carry skins for the horses. This is the Long Dry. Further on, the wells are surer, and the road reaches [[place-qisomrktcmp|Qiiso]], the market-camp, about halfway across the region.
+For five days after Yemok the road has no water at all, and the camels carry skins for the horses. This is the [Long Dry]{.name data-type="place/feature"}. Further on, the wells are surer, and the road reaches [[place-qisomrktcmp|Qiiso]], the market-camp, about halfway across the region.
 
 ## The People
 

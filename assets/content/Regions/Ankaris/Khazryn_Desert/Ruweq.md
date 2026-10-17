@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [idwkrrgn], population: 0, packFolder: 
 
 ## Overview
 
-In the Idvaqor, the east range, a line of low ridges stands out of the stone desert like the backs of kneeling animals. They are the Hollow Hills, and the wind gives them their name: at dusk, when the day's heat goes out of the rock, the air rushes through openings in the ridge flanks and the whole range moans on a single low note, audible a day's ride away. The tribes call the sound the breathing of the country, and the ridges are its lungs.
+In [[place-idwkrrgn|Idvaqor]], the east range, a line of low ridges stands out of the stone desert like the backs of kneeling animals. They are Uruvaq, the Hollow Hills, and the wind gives them their name: at dusk, when the day's heat goes out of the rock, the air rushes through openings in the ridge flanks and the whole range moans on a single low note, audible a day's ride away. The tribes call the sound the breathing of the country, and the ridges are its lungs.
 
 Behind the openings are caverns, a connected run of them under seven miles of ridge, most of them natural but all of them worked. Floors have been leveled, passages squared and the walls dressed smooth in places, and at intervals cisterns have been cut into the rock and still hold water, cold and sweet, at the end of the driest stretch of the eastern road. The caverns have never been mapped. A script is painted over their walls in red and white pigment, line upon line in a hand that never changes, with no one left to read it.
 
@@ -28,7 +28,7 @@ Water is the treasure. The cisterns are the best in the Idvaqor, and a tribe tha
 
 ## A Hook
 
-A Tantsou scholar at the western passes has seen a copy of a single painted line, passed from hand to hand across five years and half the desert, and wants the rest. He will pay a fortune, and the tribes of the Idvaqor have named their own price, which is not silver. They want a thing brought out of Tantsou, and they will not say what.
+A Tantsou scholar at the western passes has seen a copy of a single painted line, passed from hand to hand across five years and half the desert, and wants the rest. He will pay a fortune, and the tribes of the Idvaqor have named their own price, which is not silver. They want a thing brought out of the [[place-tantsouregin|Tantsou Region]], and they will not say what.
 
 ## See Also
 

@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 Kelod is a hole in the gravel the width of a market square, and from the rim you see only the first dozen flights of steps. They go down in square turns, wall-hugging, each flight a little narrower than the last, until the dark takes them. The stair is cut from the living rock and is wide enough for two loaded camels abreast, which is to say it was cut for work rather than ceremony; the steps are worn to a dish in the middle by feet that came every day for centuries.
 
-The [[lore-basinbldrs|Basin Builders]] dug it, down through three hundred feet of gravel and clay to the water table that fed their lake. The lake fell, the water table fell after it, and today the lowest landing, which was once a pool, is dry stone with a drain at its center. The tribes of the Khoshiqor, the sand range, camp at the rim in spring, when the stair gives off a cold air that smells of wet rock, and let nothing near the edge.
+[[lore-basinbldrs|The Basin Builders]] dug it, down through three hundred feet of gravel and clay to the water table that fed their lake. The lake fell, the water table fell after it, and today the lowest landing, which was once a pool, is dry stone with a drain at its center. The tribes of the [[place-hskrrgn|Khoshiqor]], the sand range, camp at the rim in spring, when the stair gives off a cold air that smells of wet rock, and let nothing near the edge.
 
 ## What the Tribes Believe
 

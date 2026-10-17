@@ -10,17 +10,17 @@ data: {demonym: null, lore: [], parents: [hekardesert], population: 0, packFolde
 
 ## Overview
 
-Bolid, the tower, is what the tribes of the Volketor call it, and it is the one word of theirs for a city they never saw standing. The [[place-hekardesert|Desert of Hek'ar]] has buried it to the second story: a mile-wide rectangle of low dunes with an even, rectilinear shape, and at its center a single tower top, thirty feet of cracked brick, standing out of the sand with a lamp-chamber's black ring around its crown. The Black Flame calls the city Arkor, and that name is the one on every map in the Eastern March.
+The Ruins of Arkor are called Bolid, the tower, by the tribes of [[place-wlqtrrgn|Volketor]], and it is the one word of theirs for a city they never saw standing. The [[place-hekardesert|Desert of Hek'ar]] has buried it to the second story: a mile-wide rectangle of low dunes with an even, rectilinear shape, and at its center a single tower top, thirty feet of cracked brick, standing out of the sand with a lamp-chamber's black ring around its crown. [[affiliation-blackflame|The Black Flame]] calls the city Arkor, and that name is the one on every map in the [[place-eastrnmrch|Eastern March]].
 
-Arkor is the westernmost of the [[lore-towercities|Tower Cities]], the lamp-lit league that carried the first road across the waste from about 1000 BF until the steppe broke it about 190 BF. Its builders left no name for it and no tablet. What is known of it is that the road reached it first from the Eastern March side, that its tower was lit every night for eight centuries, and that it was buried when the desert moved over it, quietly, rather than being sacked.
+Arkor is the westernmost of [[lore-towercities|The Tower Cities]], the lamp-lit league that carried the first road across the waste from about 1000 BF until the steppe broke it about 190 BF. Its builders left no name for it and no tablet. What is known of it is that the road reached it first from the Eastern March side, that its tower was lit every night for eight centuries, and that it was buried when the desert moved over it, quietly, rather than being sacked.
 
 ## What Is Said
 
-The tribes hold that the sand is a patient animal and that it took Arkor in its sleep. They keep clear of the tower and of the shallow bowl around its foot where the sand is oddly cold, and a herder will not drive stock within a mile of it at night. The Black Flame says something else. In its teaching the city was a seat of the fire demon whose essence the **Eye of Velok** holds, a relic of Ústaron, and the desert buried it to hide that fact. Neither reading is confirmed.
+The tribes hold that the sand is a patient animal and that it took Arkor in its sleep. They keep clear of the tower and of the shallow bowl around its foot where the sand is oddly cold, and a herder will not drive stock within a mile of it at night. The Black Flame says something else. In its teaching the city was a seat of the fire demon whose essence the [Eye of Velok]{.name data-type="miscgear"} holds, a relic of [[lore-ustarondty|Ústaron]], and the desert buried it to hide that fact. Neither reading is confirmed.
 
 ## The Search for the Eye
 
-The **Blazing Oath**, a secretive faction within the Black Flame's **Servants of Vezhnurikos** devoted to recovering the ancient relics of Ústaron, has been sent to retrieve the Eye, and [[being-drzhvzhnr|Drazha Vezhnur]] leads it. An expedition into Arkor faces ancient traps, the harsh conditions of the desert, foreign mercenaries and rival factions of the Black Flame itself. Anyone who goes in after the Eye, or after the knights who went in first, goes in with all of them.
+The [Blazing Oath]{.name data-type="affiliation"}, a secretive faction within the Black Flame's [Servants of Vezhnurikos]{.name data-type="affiliation/order"} devoted to recovering the ancient relics of Ústaron, has been sent to retrieve the Eye, and [[being-drzhvzhnr|Drazha Vezhnur, Knight of the Black Flame]] leads it. An expedition into Arkor faces ancient traps, the harsh conditions of the desert, foreign mercenaries and rival factions of the Black Flame itself. Anyone who goes in after the Eye, or after the knights who went in first, goes in with all of them.
 
 ## Danger
 

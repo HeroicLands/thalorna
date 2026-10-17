@@ -16,7 +16,7 @@ data:
 
 Vandyadara (640) sits at the head of the one stream on the mountain that has never yielded gold. Panning there is forbidden, and has been forbidden longer than the prohibition's reason has been remembered.
 
-The Rasikara shrine stands above the village at the spring itself. Its priests hold that the stream is the god's portion, and that a mountain which gave up everything would be owed nothing. The Mahajaya priesthoods do not dispute this and do not repeat it either.
+The [[affiliation-rasikara|Rasikara]] shrine stands above the village at the spring itself. Its priests hold that the stream is the god's portion, and that a mountain which gave up everything would be owed nothing. The [[affiliation-mahajaya|Mahajaya]] priesthoods do not dispute this and do not repeat it either.
 
 The village farms terraces and keeps goats, and is the poorest in the janapoda. It sends two representatives to the sabhra like any other, and its turn in the rotation has never been passed over.
 

@@ -20,7 +20,7 @@ data:
   packFolder: vedyara
 ---
 
-**Tamradvara**, the copper-door, goes up through the [[place-slvrgorges|Silver Gorges]] and over the shoulder of [[place-estrnreach|the Eastern Reach]] into the marches where the [[place-khzryndsrtrgn|Khazryn]] runs out against [[place-tantsouregin|Tantsou]]. It is a working road for its first four days and a pass thereafter, and the transition is not marked by anything except the last of the ore-carts turning back.
+**Tamradvara**, the copper-door, goes up through [[place-slvrgorges|The Silver Gorges]] and over the shoulder of [[place-estrnreach|The Eastern Reach]] into the marches where the [[place-khzryndsrtrgn|Khazryn Desert Region]] runs out against the [[place-tantsouregin|Tantsou Region]]. It is a working road for its first four days and a pass thereafter, and the transition is not marked by anything except the last of the ore-carts turning back.
 
 Its season opens with [[place-suryadvara|Suryadvara]]'s and shuts a week earlier, which is enough to make the last caravan of the year a gamble and the last caravan of the year the most profitable.
 
@@ -28,7 +28,7 @@ Its season opens with [[place-suryadvara|Suryadvara]]'s and shuts a week earlier
 
 The toll on this road is taken by the smithing clans of the Gorges, at their own gate, by their own weights. Their right to do so is not written in [[affiliation-vindhyalay|Shikharalaya]]'s charter because it is older than the charter, and the clans have declined, courteously and continuously, to have it written into anything.
 
-The arrangement suits everyone who is not a tax-farmer. The crown takes the road-toll at the lower end and the clans take theirs at the upper, and the two tallies have never been compared in public. The [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors lease ore from the clans on terms the crown says the clans cannot offer, and carry papers that satisfy both gates and would satisfy neither court.
+The arrangement suits everyone who is not a tax-farmer. The crown takes the road-toll at the lower end and the clans take theirs at the upper, and the two tallies have never been compared in public. The factors of [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] lease ore from the clans on terms the crown says the clans cannot offer, and carry papers that satisfy both gates and would satisfy neither court.
 
 ## What Crosses
 

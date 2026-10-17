@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 From a day away, Vulud looks like a stand of broken teeth: nine tower tops, the highest of them forty feet of cracked brick, standing out of a sea of pale dunes in a country with no other thing taller than a camel. That is all of it that shows. The rest of a city of perhaps ten thousand lies under the sand, which moves a few yards in a year toward the north-east and has been moving for longer than anyone has counted.
 
-Vulud is one of the [[lore-towercities|Tower Cities]], a lamp-lit way-town of the league that carried the first road across the waste. It sits in the sand country the tribes call the Khoshiqor, the sand range, a long march from any well that is not guarded. The league's engineers sited it on a gravel shelf above the sea of dunes, which was sound in their time. Its well failed first, the people left, and the dunes came over a shelf nobody was holding.
+Vulud is one of [[lore-towercities|The Tower Cities]], a lamp-lit way-town of the league that carried the first road across the waste. It sits in the sand country the tribes call the [[place-hskrrgn|Khoshiqor]], the sand range, a long march from any well that is not guarded. The league's engineers sited it on a gravel shelf above the sea of dunes, which was sound in their time. Its well failed first, the people left, and the dunes came over a shelf nobody was holding.
 
 ## The Dunes Give Back
 
@@ -30,7 +30,7 @@ What a street holds depends on the season: shop-stock of a dozen peoples, weight
 
 ## A Hook
 
-The Uruvolur, the hidden-water bands who guide the Khoshiqor, are the first to learn when a street opens. They sell the news to two buyers at once, usually a Bizarian factor and a Tantsou collector, and then guide whichever of them arrives first. A party that finds a fresh street unguided is a competitor, and the Uruvolur, who know where everyone in the Khoshiqor is, sell its position to both buyers.
+The [[affiliation-rwlstrb|Uruvolur]], the hidden-water bands who guide the Khoshiqor, are the first to learn when a street opens. They sell the news to two buyers at once, usually a Bizarian factor and a Tantsou collector, and then guide whichever of them arrives first. A party that finds a fresh street unguided is a competitor, and the Uruvolur, who know where everyone in the Khoshiqor is, sell its position to both buyers.
 
 ## See Also
 

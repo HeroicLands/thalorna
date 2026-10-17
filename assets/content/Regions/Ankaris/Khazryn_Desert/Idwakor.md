@@ -14,9 +14,9 @@ data:
   government: null
 ---
 
-East of the second hand-off well the sand stops as if cut. The ground is black rock and pale gravel, the wind has a bite in it even at noon, and the nights freeze the water in the skins. A caravan that crossed the Long Dry in a sweat finds itself wrapped in felt and burning dung, and the camels, which can stand heat for a week, begin to lose condition in the cold.
+East of the second hand-off well the sand stops as if cut. The ground is black rock and pale gravel, the wind has a bite in it even at noon, and the nights freeze the water in the skins. A caravan that crossed the [Long Dry]{.name data-type="place/feature"} in a sweat finds itself wrapped in felt and burning dung, and the camels, which can stand heat for a week, begin to lose condition in the cold.
 
-**Idvaqor**, "the east range" in [[skill-sowideslng|Sovidur]], is the last stage of the [[place-khzryndsrtrgn|Khazryn]]: stone desert that climbs by long steps to a cold high steppe, and then to the western passes of [[place-tantsouregin|Tantsou]]. [[lore-celestialroad|The Celestial Road]] crosses it in about eight hundred miles and thirty-five days, from the well at [[place-sowidwell|Sovid]] to the Tantsou customs-house on the pass. The southern edge touches the Eastern Reach of the [[place-graznmntns|Grazian Mountains]], where [[place-tamradvara|Tamradvara]] climbs south toward Vedyara.
+**Idvaqor**, "the east range" in the [[skill-sowideslng|Sovidur Language]], is the last stage of the [[place-khzryndsrtrgn|Khazryn Desert Region]]: stone desert that climbs by long steps to a cold high steppe, and then to the western passes of the [[place-tantsouregin|Tantsou Region]]. [[lore-celestialroad|The Celestial Road]] crosses it in about eight hundred miles and thirty-five days, from the well at [[place-sowidwell|Sovid]] to the Tantsou customs-house on the pass. The southern edge touches [[place-estrnreach|The Eastern Reach]] of [[place-graznmntns|The Grazian Mountains]], where [[place-tamradvara|Tamradvara]] climbs south toward the [[place-vedyarargn|Vedyara Region]].
 
 ## Land and Water
 
@@ -28,7 +28,7 @@ Snow falls in winter, and the road closes from first frost to the thaw. Even in 
 
 The tribes of Idvaqor sell the hardest bargain on the road. They are few, perhaps 330,000 across the whole range, and each tribe's wells are life itself to it. A stranger with no passage and no Tantsou pass-token is killed on sight; one with both is a customer, to be escorted, charged and watched. They herd horses, camels and yaks in the high steppe in summer and drive them down to the stone desert's wells in winter.
 
-They live in the shadow of the Empire. Tantsou has treated its western frontier with these tribes as a standing problem for centuries, giving gifts and titles to some chiefs, paying others to keep the pass clear, and sending patrols out from the garrison. Tantsou riders are on the road from about a week out of the pass, and a caravan that is not under a tribal rider's escort by then meets the Empire's wrath as well as the tribes'.
+They live in the shadow of the [[affiliation-tantsouempr|Empire of Tantsou]]. Tantsou has treated its western frontier with these tribes as a standing problem for centuries, giving gifts and titles to some chiefs, paying others to keep the pass clear, and sending patrols out from the garrison. Tantsou riders are on the road from about a week out of the pass, and a caravan that is not under a tribal rider's escort by then meets the Empire's wrath as well as the tribes'.
 
 ## Dangers
 

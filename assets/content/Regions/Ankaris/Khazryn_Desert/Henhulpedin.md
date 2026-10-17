@@ -10,15 +10,15 @@ data: {demonym: null, lore: [], parents: [swoasisbelt], population: 0, packFolde
 
 ## Overview
 
-Past the last irrigated plot north of [[place-zargandur|Zargandur]], the green stops at a ditch and a line of whitewashed stakes. Beyond it the ground is the same ground: level gravel, thin grass, a few thorn bushes that the goats of the garrison are not driven to. A Zhoqarod picket sits at the stakes by day and is relieved before dark. By night the picket is gone, and the stakes are all that stand between the city's northern gate and a field nobody walks.
+Past the last irrigated plot north of [[place-zargandur|Zargandur]], the green stops at a ditch and a line of whitewashed stakes. Beyond it the ground is the same ground: level gravel, thin grass, a few thorn bushes that the goats of the garrison are not driven to. A [Zhoqarod]{.name data-type="affiliation"} picket sits at the stakes by day and is relieved before dark. By night the picket is gone, and the stakes are all that stand between the city's northern gate and a field nobody walks.
 
-**Henhutpedin**, "the blood-field" in [[skill-khazrilng|Tellumi]], is what the people of the quarter call it. The Zhoqarod call it the north grass and keep their mares off it.
+**Henhutpedin**, "the blood-field" in the [[skill-khazrilng|Tellumi Language]], is what the people of the quarter call it. The Zhoqarod call it the north grass and keep their mares off it.
 
 ## How It Was Made
 
-In the second year of the Breaking, [[affiliation-tribestrzd|the Atarzád]] took Zargandur. The war-house's cavalry, the strongest in the belt, rode out of the north gate on the last morning to meet the Zhoqarod host on the pasture, and it was killed there to the last rider, the house's princes among them. The city fell by noon.
+In the second year of [The Breaking]{.name data-type="lore/history"}, the [[affiliation-tribestrzd|Tribes of Atarzád]] took Zargandur. The war-house's cavalry, the strongest in the belt, rode out of the north gate on the last morning to meet the Zhoqarod host on the pasture, and it was killed there to the last rider, the house's princes among them. The city fell by noon.
 
-The Atarzád gave their own dead to the flame that night. The Tellumi dead were left. No Delkoshekh was allowed beyond the wall, because the worship of Ahurdaen was already forbidden in the city, and the names of the riders were not read from the tablets, nor the lamps lit that the Tellumi light for their dead. Three days later the Zhoqarod drove the bodies into a trench and filled it, and the grass on the trench has grown shorter than the grass either side of it ever since.
+The Atarzád gave their own dead to the flame that night. The Tellumi dead were left. No Delkoshekh was allowed beyond the wall, because worship in the [[affiliation-ahurdaen|Faith of Ahurdaen]] was already forbidden in the city, and the names of the riders were not read from the tablets, nor the lamps lit that the Tellumi light for their dead. Three days later the Zhoqarod drove the bodies into a trench and filled it, and the grass on the trench has grown shorter than the grass either side of it ever since.
 
 ## What Comes Back
 
@@ -39,13 +39,13 @@ Nothing comes out of the field. No shape takes hold of a man. A Zhoqarod picket 
 
 ## What Is Still There
 
-Under the filled trench lie the war-house's weapons, its horse-furniture and the princes' signets, unstripped, because the Zhoqarod who filled the trench would not touch them. A banner-staff of the house stands in the trench with its cloth rotted off. The House of Zargandur, in exile at Amradad, would give a great deal for a signet to prove who died in the sortie and where.
+Under the filled trench lie the war-house's weapons, its horse-furniture and the princes' signets, unstripped, because the Zhoqarod who filled the trench would not touch them. A banner-staff of the house stands in the trench with its cloth rotted off. The [House of Zargandur]{.name data-type="affiliation/lineage"}, in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]], would give a great deal for a signet to prove who died in the sortie and where.
 
 ## Hooks
 
 - **The reading.** The Tellumi of the quarter want a Delkoshekh to read the war-house's names over the field, which would very likely quiet it. The reading is forbidden in Zargandur on pain of hanging, and the Delkoshekh who could do it is a stranger who must be got into the city and out again.
 - **The captain.** A Zhoqarod captain relieved from the north gate this season is not sleeping, and her tribe is losing patience with her. She has quietly asked a Tellumi chandler whether anything can be done, and the chandler needs someone she can trust to carry her answer.
-- **The signet.** Khavar of Zargandur needs one signet from the trench. The stakes are unwatched at night, and the field is not.
+- **The signet.** [Khavar of Zargandur]{.name data-type="being/npc"} needs one signet from the trench. The stakes are unwatched at night, and the field is not.
 
 ## See Also
 

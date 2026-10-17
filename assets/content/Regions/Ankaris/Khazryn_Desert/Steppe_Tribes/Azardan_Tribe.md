@@ -58,13 +58,13 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Azardan** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-khzryndsrtrgn|Khazryn]] and more wells than the [[affiliation-zrnshtrb|Zarnush]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Azardan seldom do.
+The **Azardan** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-khzryndsrtrgn|Khazryn Desert Region]] and more wells than the [[affiliation-zrnshtrb|Zarnush]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Azardan seldom do.
 
 ## How the Tribe Lives
 
 The Azardan keep horses first and camels second. The tribe moves in a long north-south circuit, wintering at the stone wells and summering on the high grass, and its scouts ride the borders with the Zarnush and the other neighbors every season. The scouts probe and do not strike, and the Zarnush read the pressure as a reminder of who could.
 
-A circle of shamans advises the dovaq on the weather, the rites and the moving of the camps, and the circle can halt a migration for an omen. Razanash Mervaran, a shaman of the tribe, is its best-known healer and diviner in the south, where the oasis cities hold few of her own people.
+A circle of shamans advises the dovaq on the weather, the rites and the moving of the camps, and the circle can halt a migration for an omen. [[being-rznshmrvrn|Razanash Mervaran]], a shaman of the tribe, is its best-known healer and diviner in the south, where the oasis cities hold few of her own people.
 
 ## Taking In
 

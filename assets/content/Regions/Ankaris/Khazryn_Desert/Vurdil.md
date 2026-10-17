@@ -16,13 +16,13 @@ data:
 
 ## Overview
 
-Above the Tellumi belt the north face of the Grazian Mountains rises in a single gray wall, and at one place in it, a morning's walk above the last terrace, there is a doorway. It is forty feet high and plain, with no carving on it, and the passage beyond slopes upward into the mountain at the pitch of a long staircase. The floor is worn. The walls are dressed smooth, and where the passage branches, which it does within a hundred paces, every junction is cut square with a lintel overhead.
+Above the Tellumi belt the north face of [[place-graznmntns|The Grazian Mountains]] rises in a single gray wall, and at one place in it, a morning's walk above the last terrace, there is a doorway. It is forty feet high and plain, with no carving on it, and the passage beyond slopes upward into the mountain at the pitch of a long staircase. The floor is worn. The walls are dressed smooth, and where the passage branches, which it does within a hundred paces, every junction is cut square with a lintel overhead.
 
 Vurdish, which the Tellumi call by the word for a pass, is a labyrinth. No one has found where it ends. The passages climb, branch and climb again; some open on ledges of the face high above the belt and are sealed with ice, and some run to chambers whose roofs are lost in the dark. The cold deepens as you go up, and the air carries a sound, faint and regular, like water falling on a flat stone a long way off. Who cut it is not known. It was there before the Tellumi had a record.
 
 ## What the Tellumi Believe
 
-The old houses hold that their ancestors came down through Vurdish from the peaks above, in the first age, to the springs of the belt, and that the houses' genealogies root in particular summits that the passage reaches. The houses that trace their descent to the Western Descent instead call this a lie told to flatter, and the quarrel is old and bitter. Both agree that a house whose peak is lost has lost its claim to it.
+The old houses hold that their ancestors came down through Vurdish from the peaks above, in the first age, to the springs of the belt, and that the houses' genealogies root in particular summits that the passage reaches. The houses that trace their descent to [[place-wstrndscnt|The Western Descent]] instead call this a lie told to flatter, and the quarrel is old and bitter. Both agree that a house whose peak is lost has lost its claim to it.
 
 ## Danger
 
@@ -30,11 +30,11 @@ The cold is the first danger: a party that goes in at noon in light clothing is 
 
 ## Treasure
 
-What a party can carry out is not silver. In the upper passages are signs cut into the lintels, and a house that can show a sign from the passage that leads to its ancestral peak can prove a claim the exiled houses at Amradad have been unable to prove since the Breaking. Beyond that, nothing is certain. Cold air preserves things, and no one has gone far enough to see what.
+What a party can carry out is not silver. In the upper passages are signs cut into the lintels, and a house that can show a sign from the passage that leads to its ancestral peak can prove a claim the exiled houses in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] have been unable to prove since [The Breaking]{.name data-type="lore/history"}. Beyond that, nothing is certain. Cold air preserves things, and no one has gone far enough to see what.
 
 ## A Hook
 
-An exile house at Amradad has hired a party to find the passage to its ancestral peak, and a rival house on the council of the Tellumi has hired another to stop it. Neither party has been told what the other was told. The house that wins will own a peak, and the Tellumi believe the owner of a peak owns the water that comes down from it.
+An exile house at Amradad has hired a party to find the passage to its ancestral peak, and a rival house on the [Council of the Princes]{.name data-type="affiliation/governmental"} of the Tellumi has hired another to stop it. Neither party has been told what the other was told. The house that wins will own a peak, and the Tellumi believe the owner of a peak owns the water that comes down from it.
 
 ## See Also
 

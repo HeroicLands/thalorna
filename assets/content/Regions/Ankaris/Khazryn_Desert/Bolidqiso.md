@@ -8,7 +8,7 @@ tags: [draft, ruin, tower, construct]
 data: {demonym: null, lore: [], parents: [wilud], population: 0, packFolder: khazryndesert}
 ---
 
-A street of merchants' houses on the eastern edge of [[place-wilud|Vulud]] ends at a square tower of baked brick four stories high. A sand-front opened the street four years ago, a drift half filled its lower end the season after, and this season the wind has scoured the drift out again, so that the tower's doorway stands clear to its sill. The [[affiliation-rwlstrb|Uruvolur]] who found it call it **Bolidqiiso**, "the price-tower", because its lower floors are a counting-house of the [[lore-towercities|Tower League]], with its balances still standing, and because they have already sold the news of it twice.
+A street of merchants' houses on the eastern edge of [[place-wilud|Vulud]] ends at a square tower of baked brick four stories high. A sand-front opened the street four years ago, a drift half filled its lower end the season after, and this season the wind has scoured the drift out again, so that the tower's doorway stands clear to its sill. The [[affiliation-rwlstrb|Uruvolur]] who found it call it **Bolidqiiso**, "the price-tower", because its lower floors are a counting-house of [[lore-towercities|The Tower Cities]], the Tower League, with its balances still standing, and because they have already sold the news of it twice.
 
 ## What It Is
 
@@ -29,7 +29,7 @@ The vaults under the weighing hall are full of sand that has come up from below,
 
 ## The Watchman
 
-A stone figure stands beside the shaded doorway, or at the foot of the inner stair, and the crews who have been inside have found it in both places. It is man-high and broad, with its hands held out before it, palms up. Its face, its shoulders and the signs cut over its body are worn almost smooth by two thousand years of sand. Its hands are polished bright. It is a [[lore-golemcrtr|construct]], set by the league to keep the counting-house, and the Uruvolur call it **Sovidiqraq**, "the stone escort".
+A stone figure stands beside the shaded doorway, or at the foot of the inner stair, and the crews who have been inside have found it in both places. It is man-high and broad, with its hands held out before it, palms up. Its face, its shoulders and the signs cut over its body are worn almost smooth by two thousand years of sand. Its hands are polished bright. It is a [[lore-golemcrtr|construct]], set by the league to keep the counting-house, and the Uruvolur call it [Sovidiqraq]{.name data-type="being/creature"}, "the stone escort".
 
 :::secret {title="The polished palms"}
 The palms are polished by seals. For as long as the house was worked, every porter who carried a load out laid its seal in the figure's open hands as he passed, and it lowered its hands and let him by. Its hands are held out for a seal, not for a throat.
@@ -44,7 +44,7 @@ The league's writing has never been read, and the signs on the watchman can be r
 - **They say** it does not cross a threshold out of the counting-house: not the service door, not the lamp-stair, and not the shaded entrance once the sand has filled it.
 - **The market at [[place-qisomrktcmp|Qiiso]]** says a whole seal of the league is a pass, and that the figure does not trouble anyone who holds one up to it. A collector there pays more for a whole seal than for a broken one on the strength of it.
 - **The tellers who have seen the palms close** say the signs that bind it are cut into its palms, which is why they are not worn away, and that a construct whose signs are broken stops.
-- **Uruvolun** tells the street at the fire at Qiiso as the street she sold twice. Her tale has a counting-house door at the end of the street, which the Tantsou collector's men reached first, and has them carry out seals and weights of the counting-house while she waited at the street. The Uruvolur say Bolidqiiso is that door, and that the Tantsou's men were the first into the house in two thousand years. In the tale both buyers went home content.
+- [Uruvolun]{.name data-type="being/npc"} tells the street at the fire at Qiiso as the street she sold twice. Her tale has a counting-house door at the end of the street, which the Tantsou collector's men reached first, and has them carry out seals and weights of the counting-house while she waited at the street. The Uruvolur say Bolidqiiso is that door, and that the Tantsou's men were the first into the house in two thousand years. In the tale both buyers went home content.
 
 ## Treasure
 
@@ -109,7 +109,7 @@ When the wind drops it lifts the blocks from the service door and goes back to t
 **Who is inside this season.** The Bizarian factor's crew of three came in two days before the storm.
 
 - **The partner.** The wind rose at dusk on their first day and fell by midnight, and the house closed with the crew inside. One man had a sack of weights on his back, and he lies dead in a pan of the great balance with the sack in the other pan and the beam pinned level; he climbed out, and the watchman pressed him back down.
-- **Kesukenod**, a Sovidur hired hand, had pried a whole seal from the strongroom door-frame and held it up, and the watchman passed him by. He dropped the seal to drag his partner off the pan, and an unsealed man with nothing in his hands in a closed house is stock. He is filed in a niche off the counting floor, alive, his chest pressed so that he cannot breathe deeply.
+- [Kesukenod]{.name data-type="being/npc"}, a Sovidur hired hand, had pried a whole seal from the strongroom door-frame and held it up, and the watchman passed him by. He dropped the seal to drag his partner off the pan, and an unsealed man with nothing in his hands in a closed house is stock. He is filed in a niche off the counting floor, alive, his chest pressed so that he cannot breathe deeply.
 - **The hunter**, a Bizarian with the factor's brand on his wrist, sat out the closing on the lamp-stair. At dawn he came down, found his partners gone and filled his pack with weights from the counting-floor balances. The watchman came while his back was turned, and he struck at it with his crowbar. It pressed him flat beside the bench, and his pack lies with him for the next closing.
 
 **The tellings, weighed.**

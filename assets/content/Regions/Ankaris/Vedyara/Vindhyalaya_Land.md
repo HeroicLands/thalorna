@@ -20,7 +20,7 @@ data:
 
 A carter on the terrace road, setting a first-time passenger down at the foot of the climb, gives him the lay of the land in the order he will need it. "Rice and barley on the steps below you, sheep and goats above, snow-water in every ditch, and a stone fortress where the road narrows. Everything you buy in the north came up this way, and everything the north sells goes down it."
 
-[[affiliation-vindhyalay|Shikharalaya]] is the land of the highland kingdom of [[affiliation-vindhyalay|Shikharalaya]], the northern passes of [[place-vedyarargn|Vedyara]] through the [[place-graznmntns|Grazian Mountains]]. The southern Vedyari kingdoms are river valleys, tropical ports and the slow rhythms of farming and craft. Shikharalaya is pine-clad ridges, snow-fed rivers, and stone fortresses built into the passes themselves.
+Shikharalaya is the land of the highland kingdom of [[affiliation-vindhyalay|Shikharalaya]], the northern passes of the [[place-vedyarargn|Vedyara Region]] through [[place-graznmntns|The Grazian Mountains]]. The southern Vedyari kingdoms are river valleys, tropical ports and the slow rhythms of farming and craft. Shikharalaya is pine-clad ridges, snow-fed rivers, and stone fortresses built into the passes themselves.
 
 ## Settlements
 
@@ -51,7 +51,7 @@ The query names the settlements of the pass-roads. The terrace hamlets below the
 
 ## Economy
 
-The kingdom's wealth rides on the pass-roads. Caravans carrying cotton, silk, spice and worked metal climb north out of the Vedyari plains and over the [[place-graznmntns|Grazian]] summits to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn]]. Others take the longer eastern branch into the western marches of [[place-tantsouregin|Tantsou]]. Return caravans bring salt, horses, lapis, amber and the rarer goods of the eastern steppes.
+The kingdom's wealth rides on the pass-roads. Caravans carrying cotton, silk, spice and worked metal climb north out of the Vedyari plains and over the Grazian summits to the southern edge-towns of the [[place-khzryndsrtrgn|Khazryn Desert Region]]. Others take the longer eastern branch into the western marches of the [[place-tantsouregin|Tantsou Region]]. Return caravans bring salt, horses, lapis, amber and the rarer goods of the eastern steppes.
 
 The kingdom itself produces copper, tin and iron in modest but steady quantities, from mountain mines worked by hereditary smithing clans. Shikharalayan steel is not as celebrated as Vylarian or even Chandrapuri work. It is serviceable, cheap and reliably supplied, and those are the virtues that matter to [[affiliation-bhumipala|Bhumipala]]'s mercenary companies, who buy arms by the wagonload.
 
@@ -63,7 +63,7 @@ The terrain limits highland farming. The great terraced fields of the lower vall
 : the stone capital, a fortress-city of forty thousand built across the throat of [[place-suryadvara|Suryadvara]], the greatest northern pass. Every caravan entering or leaving Vedyara by that pass goes beneath its walls, and beyond the throat the road forks north for the Khazryn and northeast for Tantsou. Below the city the terrace road drops through the rice and barley steps to the lowland market towns, and it is the only way anything reaches the capital from inside the kingdom.
 
 [[place-pssshrines|The Pass-Shrines]]
-: a chain of [[affiliation-varakpnthn|Varnuka]] temples built at the high points of the caravan roads, where travelers stop to leave offerings before attempting the descent. The shrines are kept by a hereditary line of ushtakas who live year-round at altitudes that would kill an unaccustomed lowlander within a week.
+: a chain of temples of the [[affiliation-varakpnthn|Varnuka Pantheon]] built at the high points of the caravan roads, where travelers stop to leave offerings before attempting the descent. The shrines are kept by a hereditary line of ushtakas who live year-round at altitudes that would kill an unaccustomed lowlander within a week.
 
 [[place-slvrgorges|The Silver Gorges]]
 : steep valleys in the eastern mountains, worked for lapis and silver since before the founding of the kingdom, and carrying [[place-tamradvara|Tamradvara]] up to the marches beyond. The mines are held by hereditary smithing clans whose prerogatives predate the Maharava's own charter.

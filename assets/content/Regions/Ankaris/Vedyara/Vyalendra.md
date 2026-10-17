@@ -74,13 +74,13 @@ data:
 sohl: {system: {commonSkills: [vedyarlng]}}
 ---
 
-**Vyalendra**, "the City of Ten Thousand Looms," is governed by its weavers. It keeps no king and no fleet, and for generations it has been the textile capital of southern [[place-vedyarargn|Vedyara]]: its silk and cotton cloth carries patterns and dyes made nowhere else, the result of centuries of refinement and techniques passed from master weavers to their apprentices and to nobody else. Vyalendri cloth has dressed the courts of emperors and the robes of high priests, and no rival city matches its output or its artistry. The city-state holds [[place-vyalendraland|Vyalendra Land]], the cotton and indigo valleys of the **Nilachari**, and [[place-vyalendra3|Vyalendra]] is its seat.
+**Vyalendra City-State**, "the City of Ten Thousand Looms," is governed by its weavers. It keeps no king and no fleet, and for generations it has been the textile capital of the southern [[place-vedyarargn|Vedyara Region]]: its silk and cotton cloth carries patterns and dyes made nowhere else, the result of centuries of refinement and techniques passed from master weavers to their apprentices and to nobody else. Vyalendri cloth has dressed the courts of emperors and the robes of high priests, and no rival city matches its output or its artistry. The city-state holds [[place-vyalendraland|Vyalendra Land]], the cotton and indigo valleys of the [Nilachari]{.name data-type="place/feature"}, and [[place-vyalendra3|Vyalendra]] is its seat.
 
-A **Loom-Master** taking on an apprentice begins with the pattern-book, and with a warning. "What is drawn for this hall is not drawn anywhere else while I live. Learn it here, weave it here, and keep it here. That rule is older than the Council, and it is the reason a bolt from this hall is worth what it is." It is older than [[lore-vylndrcrwn|the kings]] too, whose hall the Council sits in.
+A **Loom-Master** taking on an apprentice begins with the pattern-book, and with a warning. "What is drawn for this hall is not drawn anywhere else while I live. Learn it here, weave it here, and keep it here. That rule is older than the [Loom-Council]{.name data-type="affiliation/governmental"}, and it is the reason a bolt from this hall is worth what it is." It is older than [[lore-vylndrcrwn|the kings]] too, whose hall the Council sits in.
 
 ## The Shrenis
 
-The weavers of Vyalendra work within an intricate order of craft-lines that the chartered shrenis maintain. Master weavers hold the highest places and control both the production and the trade networks that carry the cloth as far as [[place-taruzelrgn|Taruzel]] and [[place-helionis|Helionis]]. The city guards its standing jealously.
+The weavers of Vyalendra work within an intricate order of craft-lines that the chartered shrenis maintain. Master weavers hold the highest places and control both the production and the trade networks that carry the cloth as far as the [[place-taruzelrgn|Taruzel Region]] and [[place-helionis|Helionis]]. The city guards its standing jealously.
 
 The difficult patterns are woven in the great halls inside the walls and the plain goods in the villages of the valleys, and each village's carding, spinning, dyeing or weaving is counted with the shrena whose craft-line holds it. A Vyalendri village has no turn in any sabhra; what it has is a master, and what the master has is a seat. The dyers work upstream of the city, where the indigo compounds stain the air, and no dye-house may stand above another's intake.
 
@@ -88,15 +88,15 @@ The difficult patterns are woven in the great halls inside the walls and the pla
 
 The **Loom-Council** governs, and every chartered weaving shrena holds a seat on it through its Loom-Master, who keeps the dye-books and pattern-books of his line. The Council raises one of its masters as **Speaker** for a term and sends him back to his loom at the end of it. It licenses the shrenis, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch. It sits in the old audience hall of the kings, and the Speaker addresses it from beside the step where the throne once stood, never on it.
 
-Above the city's own affairs stand the temples. The senior priest of the Triyanga temple, the city's **Triyacharya**, sanctions the Council's acts as a priest sanctions a sabhra's inland, and a Council decision the temples will not sanction does not take effect. The Council has learned to ask beforehand.
+Above the city's own affairs stand the temples. The senior priest of the [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] temple, the city's **Triyacharya**, sanctions the Council's acts as a priest sanctions a sabhra's inland, and a Council decision the temples will not sanction does not take effect. The Council has learned to ask beforehand.
 
-The temples stand beside the great weaving halls, and the sanctuary of [[affiliation-mahajaya|Mahajaya]] is first among them. She is the serene matriarch and the patron of honest measure, and so of every bolt that leaves a hall. The weavers hold their work to be a spiritual thing, and the siting of the temples says so. The city is quieter and less cosmopolitan than [[affiliation-chandrapur|Chendrapur]], and the slow rhythms of the textile craft have shaped its whole character.
+The temples stand beside the great weaving halls, and the sanctuary of [[affiliation-mahajaya|Mahajaya]] is first among them. The goddess [[lore-mahajayadty|Mahajaya]] is the serene matriarch and the patron of honest measure, and so of every bolt that leaves a hall. The weavers hold their work to be a spiritual thing, and the siting of the temples says so. The city is quieter and less cosmopolitan than [[place-chandrapur2|Chendrapur]], and the slow rhythms of the textile craft have shaped its whole character.
 
 The **Koshadyoksha** answers for the city treasury: the cloth-tax, the warehouse dues and the Council's reserve. The **Dutsa** carries the Council's word to a foreign court or a neighboring council.
 
 ## The Watch
 
-The **Commander of the Watch** is a graduate of the [[affiliation-dhnrktjnpd|Danurkota]] academies and never a Vyalendri, by a custom nobody remembers the beginning of. The Council values him for having no kin in the city to favor. Because the academies take students of any station, the man who holds the gates and the treasury is as often born to the serving station as not, and **Senaja** of the loom households, born to arms, refuse him the salute. The Council has twice been asked to end the custom and has twice declined.
+The **Commander of the Watch** is a graduate of the academies of [[affiliation-dhnrktjnpd|Danurkota Janapoda]] and never a Vyalendri, by a custom nobody remembers the beginning of. The Council values him for having no kin in the city to favor. Because the academies take students of any station, the man who holds the gates and the treasury is as often born to the serving station as not, and **Senaja** of the loom households, born to arms, refuse him the salute. The Council has twice been asked to end the custom and has twice declined.
 
 ## The Port and the Fleet
 
@@ -104,7 +104,7 @@ Vyalendra keeps no deep-water hulls. The cloth goes down the river road to [[pla
 
 ## Commerce and Currency
 
-Vyalendra holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits here each autumn, and strikes its own copper [[miscgear-tamra|tomra]] as every city-state does. A Collective grade-mark on a bolt of its silk carries across every seat of the Compact, and the larger sales settle by the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s letters of credit. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Vyalendra holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits here each autumn, and strikes its own copper [[miscgear-tamra|tomra]] as every city-state does. A grade-mark of [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] on a bolt of its silk carries across every seat of the Compact, and the larger sales settle by the Merchant Collective's letters of credit. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## Outside the Ladder
 

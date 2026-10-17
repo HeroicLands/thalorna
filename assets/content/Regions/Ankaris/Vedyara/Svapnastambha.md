@@ -20,7 +20,7 @@ The upper two stories are dream-chambers. The sect's business here is what it is
 
 ## Why It Is Here
 
-The tower is the last roof in Vedyara a traveler sleeps under before the crossing. The sect built here for that. A master going west sleeps here and is read before he loads. The reading costs nothing and the grain left afterward is what keeps the house, and no master has been known to leave less than the man ahead of him.
+The tower is the last roof in the [[place-vedyarargn|Vedyara Region]] a traveler sleeps under before the crossing. The sect built here for that. A master going west sleeps here and is read before he loads. The reading costs nothing and the grain left afterward is what keeps the house, and no master has been known to leave less than the man ahead of him.
 
 The crown's post below has no authority over the tower and the tower asks nothing of the post. The two institutions share a cistern and, in a bad season, a wall.
 

@@ -14,9 +14,9 @@ data:
   government: null
 ---
 
-The last caravanserai of the [[place-eastrnmrch|Eastern March]] stands on a bare rise, and from its roof you can see everything the Bizarian League claims: a paved road, a water tank, a stable yard, and eastward a band of grass the color of straw. Past the end of the paving no one patrols. By the second evening a rider has appeared on a ridge, paced the caravan for an hour and gone, and the master has begun counting silver into small bags.
+The last caravanserai of the [[place-eastrnmrch|Eastern March]] stands on a bare rise, and from its roof you can see everything the [[affiliation-byzarianlg|Bizarian League]] claims: a paved road, a water tank, a stable yard, and eastward a band of grass the color of straw. Past the end of the paving no one patrols. By the second evening a rider has appeared on a ridge, paced the caravan for an hour and gone, and the master has begun counting silver into small bags.
 
-**Volketor**, "the grass range" in [[skill-sowideslng|Sovidur]], is the western margin of the [[place-khzryndsrtrgn|Khazryn]], where the dry foothills below the March fall away into steppe. It faces [[place-velanthrgn|Velanthia]] to the northwest, Bizaria to the west and the [[place-dunharargn|Dunhara]] to the southwest. The first five hundred miles of [[lore-celestialroad|the Celestial Road]] cross it.
+**Volketor**, "the grass range" in the [[skill-sowideslng|Sovidur Language]], is the western margin of the [[place-khzryndsrtrgn|Khazryn Desert Region]], where the dry foothills below the March fall away into steppe. It faces the [[place-velanthrgn|Velanthia Region]] to the northwest, the [[place-byzariargn|Bizaria Region]] to the west and the [[place-dunharargn|Dunhara Region]] to the southwest. The first five hundred miles of [[lore-celestialroad|The Celestial Road]] cross it.
 
 ## Land and Water
 
@@ -32,7 +32,7 @@ Their herds are horses and sheep, and the tribes test the March's herds and unes
 
 ## Dangers
 
-Raiders test unescorted strings; a string with a rider of the right tribe is rarely touched, and a string with none is lawful prey. Dust storms blow up in midsummer and last three days. In Hek'ar, knights of the [[affiliation-blackflame|Black Flame]] hunt the Eye of Velok among the [[place-ruinsarkor|Ruins of Arkor]] and fight one another over how. A fort from the days of the Vylarian Empire, [[place-roqid|Oroqid]] ("the camp"), stands on a low ridge near the road with its cistern still filling, and the tribe that waters there charges for the water and for its silence.
+Raiders test unescorted strings; a string with a rider of the right tribe is rarely touched, and a string with none is lawful prey. Dust storms blow up in midsummer and last three days. In Hek'ar, knights of [[affiliation-blackflame|The Black Flame]] hunt the [Eye of Velok]{.name data-type="miscgear"} among the [[place-ruinsarkor|Ruins of Arkor]] and fight one another over how. A fort from the days of the [[affiliation-vylarinmpr|Vylarian Empire]], [[place-roqid|Oroqid]] ("the camp"), stands on a low ridge near the road with its cistern still filling, and the tribe that waters there charges for the water and for its silence.
 
 ## Hooks
 

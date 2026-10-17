@@ -8,21 +8,21 @@ tags: [mountain, frontier, inland]
 data: {demonym: null, lore: [], parents: [graznmntns], population: null, packFolder: vedyara}
 ---
 
-The **Western Descent** is where the [[place-graznmntns|Grazian Mountains]] stop being a wall. The ridges drop, the glaciers give out, and the range breaks into a belt of brown foothills between the oasis-belt to the north and [[place-vedyarargn|Vedyara]]'s north-western marches to the south before running out altogether in the desert-margin of [[place-dunharargn|Dunhara]].
+**The Western Descent** is where [[place-graznmntns|The Grazian Mountains]] stop being a wall. The ridges drop, the glaciers give out, and the range breaks into a belt of brown foothills between the oasis-belt to the north and the north-western marches of the [[place-vedyarargn|Vedyara Region]] to the south before running out altogether in the desert-margin of the [[place-dunharargn|Dunhara Region]].
 
-There is no pass here, because none is needed. The march road goes round the range's end through broken hill country. A caravan crosses it with a drover who has been that way before and needs no guide. It is the one way into Vedyara that crosses no pass, and it is the way a steppe host came down.
+There is no pass here, because none is needed. [[place-marchroad|The March Road]] goes round the range's end through broken hill country. A caravan crosses it with a drover who has been that way before and needs no guide. It is the one way into Vedyara that crosses no pass, and it is the way a steppe host came down.
 
 ## The Road
 
-The road is the whole significance of the Descent. West it runs to the Dunhari oases and the desert emporia; east it drops into the Vedyari marches and the river country beyond. Salt, horses and hides come east; cotton, worked metal and grain gho west. In a lean season on the sand the [[affiliation-dunhartrbs|Dunhara tribes]] come east too, in numbers, and that is why a kingdom holds the march and no janapoda does.
+The road is the whole significance of the Descent. West it runs to the Dunhari oases and the desert emporia; east it drops into the Vedyari marches and the river country beyond. Salt, horses and hides come east; cotton, worked metal and grain gho west. In a lean season on the sand the [[affiliation-dunhartrbs|Dunhara Tribes]] come east too, in numbers, and that is why a kingdom holds the march and no janapoda does.
 
-Four centuries ago the whole of a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], came down this way—round the range's end, not over it—swept the north-western marches, and went on west across the desert until it reached the [[affiliation-kngdmmrdd|Kingdom]]'s walls from the wrong side. The road has not moved since. Where the foothills open onto the road lies [[place-lanthusthli|Lantustali]], the field where the march kingdom died that spring.
+Four centuries ago the whole of a steppe host, [[lore-hndrdbnnrs|The Storm of the Hundred Banners]], came down this way—round the range's end, not over it—swept the north-western marches, and went on west across the desert until it reached the [[affiliation-kngdmmrdd|Kingdom of Amradad]]'s walls from the wrong side. The road has not moved since. Where the foothills open onto the road lies [[place-lanthusthli|Lantustali]], the field where the march kingdom died that spring.
 
 ## Uplands and Edge-Towns
 
-The foothills are uplands with a desert under them, which is an unusual combination and the reason the [[affiliation-svapnasarisamaja|Svapnasari-sameja]] keeps its houses here. The dream-sect's monasteries stand at a handful of edge-towns along the march road, high enough for the cold and dry enough for the quiet. The [[affiliation-svapnasarisamaja|Sameja]] contests nobody's authority over public religion. That suits a frontier where the public religion changes every fifty miles.
+The foothills are uplands with a desert under them, which is an unusual combination and the reason the [[affiliation-svapnasarisamaja|Svapnasari-sameja]] keeps its houses here. The dream-sect's monasteries stand at a handful of edge-towns along the march road, high enough for the cold and dry enough for the quiet. The Sameja contests nobody's authority over public religion. That suits a frontier where the public religion changes every fifty miles.
 
-The [[affiliation-khzrncnfdrtn|Khazryn]] hold the Descent to be their ancestral country and trace lineage-origins to named peaks above it, most of which no living member of the house concerned has seen. Their own name for it, **Dranavár**, is close enough to the [[place-drenavrspn|Drenavar Spine]] half a world away that travelers' tales confuse the two with some regularity.
+The [[affiliation-khzrncnfdrtn|Khazryn]] hold the Descent to be their ancestral country and trace lineage-origins to named peaks above it, most of which no living member of the house concerned has seen. Their own name for it, **Dranavár**, is close enough to [[place-drenavrspn|The Drenavar Spine]] half a world away that travelers' tales confuse the two with some regularity.
 
 ## See Also
 

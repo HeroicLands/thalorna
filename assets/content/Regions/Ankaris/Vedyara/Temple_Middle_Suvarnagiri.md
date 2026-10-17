@@ -8,13 +8,13 @@ tags: [sacred, temple, mountain, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-The **temple of Middle Suvarnageri** stands in the central valley below the principal panning grounds, and the [[place-weighingstn|weighing-station]] and the common treasury stand beside it. The sabhra meets here one year in three like anywhere else, but the gold comes here every month of every year.
+**The Temple of Middle Suvarnageri** stands in the central valley below the principal panning grounds, and [[place-weighingstn|The Weighing-Station]] and the common treasury stand beside it. The sabhra meets here one year in three like anywhere else, but the gold comes here every month of every year.
 
 That gives the middle temple a weight the constitution never granted it. The priests of the other two say so at intervals, and the answer is that the treasury has to be somewhere.
 
 ## Its Priest
 
-**Padmashri Kaneka-Hasta** holds it. She is a woman in her fifties, reckoned the most politically able of the three senior priests, and she is the convening priest by the rotation as it stands. She is expected to be a major voice at the next Mahva-Melra.
+[Padmashri Kaneka-Hasta]{.name data-type="being/npc"} holds it. She is a woman in her fifties, reckoned the most politically able of the three senior priests, and she is the convening priest by the rotation as it stands. She is expected to be a major voice at the next [Mahva-Melra]{.name data-type="lore/gathering"}.
 
 ## The Treasury
 

@@ -8,19 +8,19 @@ tags: [sacred, temple, mountain, inland]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-The **temple of Upper Suvarnageri** stands at the junction of the two highest streams off [[place-goldmountain|the Gold Mountain]]. It is one of the three great temples of [[affiliation-mahajaya|Mahajaya]] that hold the janapoda between them, built within a century of the other two, of the same size, and housing an altar of comparable craftsmanship.
+**The Temple of Upper Suvarnageri** stands at the junction of the two highest streams off [[place-goldmountain|The Gold Mountain]]. It is one of the three great temples of [[affiliation-mahajaya|Mahajaya]] that hold the janapoda between them, built within a century of the other two, of the same size, and housing an altar of comparable craftsmanship.
 
 No one of the three controls the janapoda and no one priesthood controls the gold. The convening of the sabhra rotates annually among the three senior priests, and by long custom the sabhra cannot meet in one temple in two successive years.
 
 ## Its Priest
 
-**Suryamaha Hirenya-Padsa** holds it. He is in his seventies, the senior of the three by age, and the seniormost theologian of the Suvarnageri tradition of Mahajaya. His commentaries on the Gold Constitution are the standard ones, and the other two temples cite them when they are arguing with him.
+[Suryamaha Hirenya-Padsa]{.name data-type="being/npc"} holds it. He is in his seventies, the senior of the three by age, and the seniormost theologian of the Suvarnageri tradition of Mahajaya. His commentaries on the [Gold Constitution]{.name data-type="lore/law"} are the standard ones, and the other two temples cite them when they are arguing with him.
 
 The house of the upper temple is the school. Priests for all three temples are trained here, which gives the senior priest of Upper Suvarnageri a hand in the formation of every priest in the janapoda and no vote he would not otherwise have.
 
 ## The Highest Ground
 
-Above the temple there is nothing but the observation posts and the bare slope. The two streams that meet below it are the coldest water on the mountain and the poorest panning, and the families working them are the ones the Twenty-Eight take least notice of.
+Above the temple there is nothing but the observation posts and the bare slope. The two streams that meet below it are the coldest water on the mountain and the poorest panning, and the families working them are the ones [The Twenty-Eight]{.name data-type="affiliation"} take least notice of.
 
 ## See Also
 

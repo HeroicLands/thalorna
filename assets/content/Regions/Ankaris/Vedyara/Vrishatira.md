@@ -14,7 +14,7 @@ data:
   government: suvrgrjnpd
 ---
 
-**Vrishatira** is a cattle village on the upper [[place-bharavarivr|Bharava]], in the [[place-suvarnagirijnpd|Suvarnageri Janapoda]]. It keeps the draft oxen that the terraces and the smelters both depend on, so a plowing season on the slopes and a charcoal haul to the furnaces start from the same herds.
+**Vrishatira** is a cattle village on the upper reaches of [[place-bharavarivr|The Bharava]], in the [[place-suvarnagirijnpd|Suvarnageri Janapoda]]. It keeps the draft oxen that the terraces and the smelters both depend on, so a plowing season on the slopes and a charcoal haul to the furnaces start from the same herds.
 
 ## See Also
 

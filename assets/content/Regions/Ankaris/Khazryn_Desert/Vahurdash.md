@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Vahurdash** is the fifth of the seven Tellumi cities and the poorest. It stands on the dry northern rim of [[place-swoasisbelt|Tellumel]], where the snowmelt streams of the belt fail one after another and the Stone Uplands begin, and about four thousand people live in the new town, with perhaps sixteen thousand more on the irrigated strips along its channels. A drought in the deep past emptied the old city, and it stayed empty for generations. In the last generation Tellumi families from the free oases and the subject quarters of the conquered cities came back to settle beside its stones. The old city, **Old Vahurdash**, lies round and under the new one, and the town's life is conducted with it in view.
+**Vahurdash** is the fifth of the seven Tellumi cities and the poorest. It stands on the dry northern rim of [[place-swoasisbelt|Tellumel]], where the snowmelt streams of the belt fail one after another and [[place-dkrqrrgn|Diqraqor]], the Stone Uplands, begins, and about four thousand people live in the new town, with perhaps sixteen thousand more on the irrigated strips along its channels. A drought in the deep past emptied the old city, and it stayed empty for generations. In the last generation Tellumi families from the free oases and the subject quarters of the conquered cities came back to settle beside its stones. The old city, [[place-velkunar|Veshkun]], Old Vahurdash, lies round and under the new one, and the town's life is conducted with it in view.
 
 ## Water
 
@@ -24,13 +24,13 @@ Everything in Vahurdash depends on the water that has been found again. The sett
 
 ## Trade and Life
 
-Vahurdash sells what the rim grows, which is little: dates from the first replanted groves, olives and figs from the shaded terraces, and goats and their cheese. It buys everything else from Kethramír and the western belt. The town stands where the belt meets the uplands, so it is the place where the Tellumi and the herders of the Stone Uplands do business: herders bring wool, hides and horses to the edge of the settled ground, and the town's merchants trade them cloth, dates and iron for them. The herders belong to their own tribes. Each owns a handful of small oases in the uplands and treats the northern fields of the town as a neighbor's, to be respected or not depending on the season.
+Vahurdash sells what the rim grows, which is little: dates from the first replanted groves, olives and figs from the shaded terraces, and goats and their cheese. It buys everything else from [[place-kethramir|Kethramír]] and the western belt. The town stands where the belt meets the uplands, so it is the place where the Tellumi and the herders of the Stone Uplands do business: herders bring wool, hides and horses to the edge of the settled ground, and the town's merchants trade them cloth, dates and iron for them. The herders belong to their own tribes. Each owns a handful of small oases in the uplands and treats the northern fields of the town as a neighbor's, to be respected or not depending on the season.
 
 The town is built of the reclaimed stone of the old city, and the streets are narrow and straight, laid out to the old plan by people who copied it from a tablet. Everyone works. A child old enough to carry water carries it.
 
 ## The House
 
-The **House of Vahurdash** was revived with the settlement. Its head, **Khorsád-Vahur**, holds the title by recent acclamation of the settlers, not by ancient right, and sits on the Council of the Princes as a kind of seventh among equals. The house keeps a token guard and no more. Its strength is its claim: a city given back to the desert and taken back from it, the one Tellumi city ever recovered. The Atarzád of the central belt tolerate the settlement because it costs them nothing, pays a quiet tribute in dates, and holds the poorest ground on the rim.
+The [House of Vahurdash]{.name data-type="affiliation/lineage"} was revived with the settlement. Its head, [Khorsád-Vahur]{.name data-type="being/npc"}, holds the title by recent acclamation of the settlers, not by ancient right, and sits on the [Council of the Princes]{.name data-type="affiliation/governmental"} as a kind of seventh among equals. The house keeps a token guard and no more. Its strength is its claim: a city given back to the desert and taken back from it, the one Tellumi city ever recovered. The [[affiliation-tribestrzd|Tribes of Atarzád]] of the central belt tolerate the settlement because it costs them nothing, pays a quiet tribute in dates, and holds the poorest ground on the rim.
 
 ## Hooks and Dangers
 

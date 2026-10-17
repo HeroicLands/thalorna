@@ -62,7 +62,7 @@ The **Shirzari** hold the grass south of the [[affiliation-zrnshtrb|Zarnush]], a
 
 ## The Price
 
-The Shirzari's demand on the Zarnush is fifty horses, a share of the central well at Shir-Van and permanent grazing on the southern steppe, in return for eight people taken from a southern graze. The Zarnush dovaq has refused. The Shirzari are in no hurry: each season the captives spend in a Shirzari camp makes them more Shirzari, and a price the Zarnush cannot pay today only rises as they have less left to lose.
+The Shirzari's demand on the Zarnush is fifty horses, a share of the central well at [Shir-Van]{.name data-type="place/site"} and permanent grazing on the southern steppe, in return for eight people taken from a southern graze. The Zarnush dovaq has refused. The Shirzari are in no hurry: each season the captives spend in a Shirzari camp makes them more Shirzari, and a price the Zarnush cannot pay today only rises as they have less left to lose.
 
 ## The Marriage Offer
 

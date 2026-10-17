@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 The walls are the first thing, because they are not broken. A wall of mud-brick twenty feet high runs round a town of perhaps three hundred houses, with a gate that stands open and a gatehouse with its roof on. The lanes inside are swept by the wind and nothing else. On the market square the stalls are up: poles, awnings, a weighing-beam hanging from its hook. It looks like a town that has stepped out for the afternoon, and it has looked like that for a very long time.
 
-**Qiimod**, "the silent" in [[skill-sowideslng|Sovidur]], stands on the southern spur four days out of [[place-qisomrktcmp|Qiiso]], where the track to the [[place-swoasisbelt|Tellumel]] dips through a gap in the black rock. A well-head in the square still holds sweet water, and the tribe that keeps the well will draw it for a price, by rope, from outside the gate.
+**Qiimod**, "the silent" in the [[skill-sowideslng|Sovidur Language]], stands on the southern spur four days out of [[place-qisomrktcmp|Qiiso]], where the track to [[place-swoasisbelt|Tellumel]] dips through a gap in the black rock. A well-head in the square still holds sweet water, and the tribe that keeps the well will draw it for a price, by rope, from outside the gate.
 
 ## How It Was Made
 
@@ -33,7 +33,7 @@ The hunters come into that, the [[being-yiqnotud|Yiqnotud]] of the steppe tribes
 ## How the Spur Lives with It
 
 - **The track goes round.** The spur bends a half-day east of the gap, and the detour crosses poor ground that the tribes charge for.
-- **The well is sold from outside.** The Shirzari, a raiding tribe of the southern steppe, hold the well and draw it from beyond the gate. A caravan buys its water from them at the gap's mouth and is escorted past the town in daylight.
+- **The well is sold from outside.** The [[affiliation-shrzrtrb|Shirzari]], a raiding tribe of the southern steppe, hold the well and draw it from beyond the gate. A caravan buys its water from them at the gap's mouth and is escorted past the town in daylight.
 - **The Shirzari profit from the fear.** They have never put out a warning that was not for sale, and a rider of theirs who meets a party headed for the gate asks first whether anyone is paying.
 - **Nobody sleeps within sight of the walls.** Tellumi caravans make the stage beyond the gap even when the beasts are spent.
 
@@ -43,7 +43,7 @@ Everything. The counting-house on the square has a barred door and a stone vault
 
 ## Hooks
 
-- **The vault.** The counting-house vault held the fair's deposits: silver in bags, with a clerk's tally sealed in wax. A Tellumi house in exile at Amradad believes it holds the dowry of a daughter and wants the tally, not the silver. The vault door has not been tried since the sack.
+- **The vault.** The counting-house vault held the fair's deposits: silver in bags, with a clerk's tally sealed in wax. A Tellumi house in exile in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] believes it holds the dowry of a daughter and wants the tally, not the silver. The vault door has not been tried since the sack.
 - **The well's owner.** A rival tribe has offered a party a share of the Shirzari's tolls if it can draw the town's water from inside the walls, by day, and carry the proof out. The Shirzari's right to charge rests on nobody having done it.
 - **The market day.** The riders of the spur say that on the fair's anniversary the stalls in the square are heard, faintly, haggling, from outside the gate. A priest of one of the faiths that lost people in the fair wants to hold a market there with a priest from each of the others, and thinks that a day of every rite performed at once might hold the silence back. The Shirzari want to know what it costs them.
 

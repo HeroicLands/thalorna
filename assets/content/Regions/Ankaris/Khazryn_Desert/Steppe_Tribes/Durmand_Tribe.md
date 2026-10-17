@@ -66,7 +66,7 @@ The Durmand trade as much as they raid. A Durmand horse-trader carries the tribe
 
 ## The Raid
 
-In the year the Zarnush wells failed, a Durmand riding party drove off nearly a third of the Zarnush horses and killed two warriors. The Durmand call it a dry-year bargain and say they have no quarrel with the Zarnush. The Zarnush call it an insult they cannot yet answer. The Durmand horse-trader Shabar Goravan now holds a Zarnush archer's debt and wants it repaid in information about the Zarnush wells.
+In the year the Zarnush wells failed, a Durmand riding party drove off nearly a third of the Zarnush horses and killed two warriors. The Durmand call it a dry-year bargain and say they have no quarrel with the Zarnush. The Zarnush call it an insult they cannot yet answer. The Durmand horse-trader [Shabar Goravan]{.name data-type="being/npc"} now holds a Zarnush archer's debt and wants it repaid in information about the Zarnush wells.
 
 ## Caravans
 

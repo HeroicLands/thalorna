@@ -30,14 +30,14 @@ The knocking leaves marks. In the morning the outer face of the cedar is scored 
 
 ## What the People Say
 
-- **The warden's account.** The settlers who keep the gate say that the knocker is the champion of the song, Berniray of [[lore-velkunsong|the song]], come back to wake the house. They say it with the flat patience of people who have said it many times and are tired of being the only ones who believe it.
-- **The Shekhul's account.** The priest of the settlement holds that it is not the champion. Berniray lived, served the house of Kethramír and died in his bed with his name read. What stands at the gate has the oath in its mouth and nothing behind it. It is a thing that learned words from the dead and wears them, and the Shekhul calls it by the Tellumi word for what it is, the **Gate-dead**, _Vartunnilvur_.
-- **The rival houses' account.** The exiled houses at Amradad say the whole matter is a story the House of Vahurdash tells to keep strangers from the cellars, and one of them has paid a man to find out.
+- **The warden's account.** The settlers who keep the gate say that the knocker is the champion of [[lore-velkunsong|The Song of the Lost Town]], [Berniray]{.name data-type="being/npc"}, come back to wake the house. They say it with the flat patience of people who have said it many times and are tired of being the only ones who believe it.
+- **The Shekhul's account.** The priest of the settlement holds that it is not the champion. Berniray lived, served the [House of Kethramír]{.name data-type="affiliation/lineage"} and died in his bed with his name read. What stands at the gate has the oath in its mouth and nothing behind it. It is a thing that learned words from the dead and wears them, and the Shekhul calls it by the Tellumi word for what it is, the **Gate-dead**, _Vartunnilvur_.
+- **The rival houses' account.** The exiled houses in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] say the whole matter is a story the [House of Vahurdash]{.name data-type="affiliation/lineage"} tells to keep strangers from the cellars, and one of them has paid a man to find out.
 - **The caravan yards' account.** Cloth-tellers in Kethramír add a verse to the song when the audience can be trusted with it. The verse says that the keepers of the record-house are still keeping, and that they have not been told they may stop.
 
 ## The Dead Behind It
 
-The Gate-dead is not the Shadow's whole work, but it is the Shadow's work. The dead of the record-house, the keepers who would not leave their cellar when the city emptied, died without a name read over them and have lain for five centuries unreceived. They were few, and a few dead do not tear the world. What they did was leave a gap, an oath in a mouth with nobody to take it back, and the Shadow came in by the gap, as it does wherever a rite is owed and unpaid. The undead of every land are the same corruption wearing a local face. This one wears the face of a man who kept an oath past sense.
+The Gate-dead is not the whole work of [[lore-theshadow|The Shadow]], but it is the Shadow's work. The dead of the record-house, the keepers who would not leave their cellar when the city emptied, died without a name read over them and have lain for five centuries unreceived. They were few, and a few dead do not tear the world. What they did was leave a gap, an oath in a mouth with nobody to take it back, and the Shadow came in by the gap, as it does wherever a rite is owed and unpaid. The undead of every land are the same corruption wearing a local face. This one wears the face of a man who kept an oath past sense.
 
 It cannot enter a barred door. It can be answered. That is the danger of the gate and the reason the town does not sleep deeply.
 
@@ -47,7 +47,7 @@ The gate is entered from the north, over the open rim, or from the town side by 
 
 ## Who Pays for the Truth
 
-Khorsád-Vahur, head of the House of [[place-vahurdash|Vahurdash]], wants the knocking ended, since a gate that cannot be opened at night costs the settlement every caravan that reaches the rim after dusk. He will not say so to the exiled houses and he will not say so to the Atarzád. A rival house in Amradad would pay a good deal more to learn that the gate cannot be ended, that the town is failing and that its tablets can be had.
+[Khorsád-Vahur]{.name data-type="being/npc"}, head of the House of Vahurdash, wants the knocking ended, since a gate that cannot be opened at night costs the settlement every caravan that reaches the rim after dusk. He will not say so to the exiled houses and he will not say so to the [[affiliation-tribestrzd|Tribes of Atarzád]]. A rival house in Amradad would pay a good deal more to learn that the gate cannot be ended, that the town is failing and that its tablets can be had.
 
 ## See Also
 

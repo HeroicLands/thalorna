@@ -16,15 +16,15 @@ data:
 
 ## Overview
 
-Nobody has counted the peaks of the Grazian Mountains, and the glaciers that lie between them are older than any name for them. The range is a wall of ice and rock two thousand miles long, and its north face above the Khazryn is the least traveled part of it: a few known passes, each open for a handful of weeks in late summer, and between them ridge after ridge of blue ice that no caravan has crossed and few climbers have named.
+Nobody has counted the peaks of [[place-graznmntns|The Grazian Mountains]], and the glaciers that lie between them are older than any name for them. The range is a wall of ice and rock two thousand miles long, and its north face above the [[place-khzryndsrtrgn|Khazryn Desert Region]] is the least traveled part of it: a few known passes, each open for a handful of weeks in late summer, and between them ridge after ridge of blue ice that no caravan has crossed and few climbers have named.
 
-Under that ice are the places this note collects. A shepherd's boy chasing a goat finds a doorway in a rock face. A glacier draws back from a valley it has held for ten centuries and lays bare a stair. A guide leads a cold, sick party into a cleft to shelter from a storm and finds the cleft is a passage, with a floor, and the floor is worn. These are the labyrinths of the Grazian: cut passages that climb and branch and join, caverns whose floors have been leveled, halls whose roofs are lost in the dark, and sealed doors. [[place-vurdil|Vurdish]], above the Tellumi belt, is the one the lowlands know.
+Under that ice are the Ruins and Labyrinths of the Grazian Mountains, the places this note collects. A shepherd's boy chasing a goat finds a doorway in a rock face. A glacier draws back from a valley it has held for ten centuries and lays bare a stair. A guide leads a cold, sick party into a cleft to shelter from a storm and finds the cleft is a passage, with a floor, and the floor is worn. These are the labyrinths of the Grazian: cut passages that climb and branch and join, caverns whose floors have been leveled, halls whose roofs are lost in the dark, and sealed doors. [[place-vurdil|Vurdish]], above the Tellumi belt, is the one the lowlands know.
 
-Who made them is not known, and no note records a claim. The Tellumi trace their descent through one of them. The Osket and the Hvarn, the guides of the passes, know more than that and give it only to those who travel with them.
+Who made them is not known, and no note records a claim. The Tellumi trace their descent through one of them. [[affiliation-osketguides|The Osket]] and [[affiliation-hvarnguides|The Hvarn]], the guides of the passes, know more than that and give it only to those who travel with them.
 
 ## What the People Believe
 
-The Tellumi hold the doorways as the road of their ancestors, and the old houses make pilgrimage to the one they claim. The Vedyari on the south face call the high valleys the dwellings of their gods and want no one in them. The guides say what they say to every lowlander who asks, which is that the mountains keep their own counsel and that a party in them is a party on sufferance. A Tantsou military map of the Eastern Reach marks three places with a single character, which the garrison's own scholars translate as "do not enter."
+The Tellumi hold the doorways as the road of their ancestors, and the old houses make pilgrimage to the one they claim. The Vedyari on the south face call the high valleys the dwellings of their gods and want no one in them. The guides say what they say to every lowlander who asks, which is that the mountains keep their own counsel and that a party in them is a party on sufferance. A Tantsou military map of [[place-estrnreach|The Eastern Reach]] marks three places with a single character, which the garrison's own scholars translate as "do not enter."
 
 ## Danger
 
@@ -32,7 +32,7 @@ The cold is the commonest killer. A party above the snow line without guides, fu
 
 ## Treasure
 
-The rewards are as uncertain as the places. Carved lintels and floor-signs that prove a house's claim; worked metal that the lowlands do not make; ice-preserved wood, cloth and dyes, undamaged by time in the cold dark; and the chance of what no lowlander has seen. A merchant house in Chendrapur pays well for anything from the high places, and asks no question about where.
+The rewards are as uncertain as the places. Carved lintels and floor-signs that prove a house's claim; worked metal that the lowlands do not make; ice-preserved wood, cloth and dyes, undamaged by time in the cold dark; and the chance of what no lowlander has seen. A merchant house in [[place-chandrapur2|Chendrapur]] pays well for anything from the high places, and asks no question about where.
 
 ## A Hook
 

@@ -19,7 +19,7 @@ data:
   packFolder: vedyara
 ---
 
-**The Forty Days** is the dissolution of the Kingdom of Mahanodi as the [[place-rajavalilib|Rajavali Library]] keeps it: the chronicle's entries, flat and dated by the [[lore-mdhvndrcnt|Madustana count]], each followed by the gloss that [[affiliation-rajaprjnpd|Rajepur]]'s current Memory-Keeper, Ramavahana Smrti-Bhora, gives it in his commentary on the dissolution. The year of the entries, the two hundred and fortieth of the count and the first of the Age of Copyists (1 AC), is 241 BF. The originals lie in [[place-shitakoshtha|Shitakoshta]], the library's oldest vault. The chronicle enters what was done; the commentary weighs it, and it keeps apart what the record states and what tradition adds.
+**The Forty Days** is the dissolution of [[lore-mhndkngdm|The Kingdom of Mahanodi]] as [[place-rajavalilib|The Rajavali Library]] keeps it: the chronicle's entries, flat and dated by [[lore-mdhvndrcnt|The Madustana Count]], each followed by the gloss that the current Memory-Keeper of [[affiliation-rajaprjnpd|Rajepur Janapoda]], [Ramavahana Smrtibhara]{.name data-type="being/npc"}, gives it in his commentary on the dissolution. The year of the entries, the two hundred and fortieth of the count and the first of [[lore-agecopyists|The Age of Copyists]] (1 AC), is 241 BF. The originals lie in [[place-shitakoshtha|Shitakoshta]], the library's oldest vault. The chronicle enters what was done; the commentary weighs it, and it keeps apart what the record states and what tradition adds.
 
 : The Forty Days {#chronicle}
 
@@ -28,7 +28,7 @@ data:
 
 _Gloss._ The chronicle enters the death and not its manner. That the king was poisoned, and by his own cook, who could no longer endure the suffering of his neighbors in the villages, is tradition. The recitation carries it and says it is tradition, and this commentary does the same. What the entry does state is enough to judge by: a famine in the villages, a full granary in the palace, and a guard that took from it while the king looked on. The six who end the line stand one by one in the chronicle before this entry.
 
-**Entry.** The people of the villages came to the temple of Vyalendra, which stood beside the palace, and asked the senior priest to convene a sabhra. They asked for no king.
+**Entry.** The people of the villages came to the temple of [[affiliation-vyalendra|Vyalendra]], which stood beside the palace, and asked the senior priest to convene a sabhra. They asked for no king.
 
 _Gloss._ The last four words are the whole of the matter, and the chronicler wrote them without comment. The temple had stood beside the palace for the length of the line, and every king of the line had been consecrated at its altar. The people went to the house that had made the kings, and asked it for something else.
 
