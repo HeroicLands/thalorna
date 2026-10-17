@@ -15,11 +15,11 @@ data:
   culture: jenchaiclt
 ---
 
-**Tsuiwu** (Iron Hall) is the castle town and seat of Tsuijai Rezo, a town of 2,600 people on the slope of Tsuijai. The hall is framed in iron and stone, and it stands above the smelters' smoke on a terrace cut from the rock.
+Tsuiwu (Iron Hall) is the castle town and seat of [Tsuijai Rezo]{.name data-type="being/npc"}, a town of 2,600 people on the slope of [[place-tsuijai|Tsuijai]]. The hall is framed in iron and stone, and it stands above the smelters' smoke on a terrace cut from the rock.
 
-The castle holds the **granary**, where the lord's four parts in ten are delivered from the demesne at Jidu and the rice of the domain, and the hall. The armory of the Jaju stands beside it, and the Tsaihuo soldiers it arms are raised from the town's streets.
+The castle holds the **granary**, where the lord's four parts in ten are delivered from the demesne at [Jidu]{.name data-type="place/settlement"} and the rice of the domain, and the hall. The armory of the [Jaju]{.name data-type="affiliation/lineage"} stands beside it, and the Tsaihuo soldiers it arms are raised from the town's streets.
 
-The town lives on iron. Smelters, charcoal-burners, carters and ore-weighers work along the road from the mines, and the iron is sold at the town's market to the buyers of the other houses; the blades come down from Tsaigen with an entry in the Jaju roll. Shuonong merchants carry the iron away, and the buyers' envoys lodge in the town through the year, each waiting on the Jaju.
+The town lives on iron. Smelters, charcoal-burners, carters and ore-weighers work along the road from the mines, and the iron is sold at the town's market to the buyers of the other houses; the blades come down from [Tsaigen]{.name data-type="place/settlement"} with an entry in the Jaju roll. Shuonong merchants carry the iron away, and the buyers' envoys lodge in the town through the year, each waiting on the Jaju.
 
 ## See Also
 

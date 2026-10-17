@@ -15,19 +15,19 @@ data:
   culture: jenchaiclt
 ---
 
-**Léngwou** (the Dawn Court) is the capital of Jenchai, a town of 12,000 people on the lowest slope of [[place-zojai|Zojai]], below the Emperor's palace; the islanders say _Rewu_. With Zojai it forms the imperial district of 20,000 people, assessed at 6,000 bales a year. It is the only town of the Nine that no Daozhuo holds.
+Léngwou (the Dawn Court) is the capital of the [[affiliation-jenchaiempr|Jenchai Empire]], a town of 12,000 people on the lowest slope of [[place-zojai|Zojai]], below the Emperor's palace; the islanders say _Rewu_. With Zojai it forms the imperial district of 20,000 people, assessed at 6,000 bales a year. It is the only town of the Nine that no Daozhuo holds.
 
 ## The Court
 
-The Emperor is **Weiléng** (Jade Dawn), nineteen years old, enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the War of the Empty Seat. He is styled _Rongléng Tengzhéi_, Son of Heaven of Ten Thousand Dawns. His father, the **Retired Emperor**, lives in Léngwou and keeps a household that the court cannot afford. The Emperor has a household guard and no other force.
+The Emperor is [Weiléng]{.name data-type="being/npc"} (Jade Dawn), nineteen years old, enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [War of the Empty Seat]{.name data-type="lore/history"}. He is styled _Rongléng Tengzhéi_, Son of Heaven of Ten Thousand Dawns. His father, the **Retired Emperor**, lives in Léngwou and keeps a household that the court cannot afford. The Emperor has a household guard and no other force.
 
-The court is a pageant of ancient protocol, and its business is honor. The Emperor issues each Daozhuo's patent of the mountain on every succession, and he grants the court dignities: **Celestial Minister**, **Caste-Registrar** and **Censor of Purity** confer precedence and no function, while **Omen-Reader** and **Keeper of the Sacred Texts** remain working posts of the Tanchéi, the first with its observatory on Zijai. He holds the Dawn Rite on Zojai each New Year, where the order in which the lords' envoys stand is the year's political map. He also confers the office of **Teng Ja**, which stands vacant.
+The court is a pageant of ancient protocol, and its business is honor. The Emperor issues each Daozhuo's patent of the mountain on every succession, and he grants the court dignities: **Celestial Minister**, **Caste-Registrar** and **Censor of Purity** confer precedence and no function, while **Omen-Reader** and **Keeper of the Sacred Texts** remain working posts of the Tanchéi, the first with its observatory on [[place-zijai|Zijai]]. He holds the [Dawn Rite]{.name data-type="lore/custom"} on Zojai each New Year, where the order in which the lords' envoys stand is the year's political map. He also confers the office of **Teng Ja**, which stands vacant.
 
 ## The Treasury
 
 The court's nominal income is 6,880 bales a year: four parts in ten of the district's assessment, which is 2,400 bales, and four parts in ten of eight **court estates**, which is 4,480 bales of the 11,200 assessed. One village in each domain is a court estate, and each Daozhuo collects its share through his own granary and forwards what he chooses. In 719 AF the court received 4,100 bales and spent 9,000. The Retired Emperor's household is part of that cost.
 
-Silver from Shuiwojai has covered the gap for three years, and the court is in Henzo's debt. The strongroom of the court stands at Tsaimu in Muwojai ground, in the keeping of that house's Weiju.
+Silver from the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] has covered the gap for three years, and the court is in [Shuiwojai Henzo]{.name data-type="being/npc"}'s debt. The strongroom of the court stands at [Tsaimu]{.name data-type="place/settlement"} in the [[affiliation-muwojaidmn|Muwojai Domain]]'s ground, in the keeping of that house's [Weiju]{.name data-type="affiliation/lineage"}.
 
 ## The Town
 

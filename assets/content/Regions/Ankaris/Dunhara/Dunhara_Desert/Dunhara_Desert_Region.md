@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-A guide leading his first foreigners into the open desert stops at the last well of the Amradi road, fills every skin twice, and tells them that from here on, the water belongs to someone. The **Dunhara Desert Region** is the open desert of the [[place-dunharargn|Dunhara Region]]: everything the walled cities of [[place-amradadrgn|Amradad]] do not hold, which is nearly all of it. It is the country of the [[affiliation-dunhartrbs|Dunhara Tribes]], and it has no borders on any map. What divides it is custom: the circuits each tribe rides through the year, and the oases each holds by right of long use.
+A guide leading his first foreigners into the open desert stops at the last well of the Amradi road, fills every skin twice, and tells them that from here on, the water belongs to someone. The Dunhara Desert Region is the open desert of the [[place-dunharargn|Dunhara Region]]: everything the walled cities of the [[place-amradadrgn|Amradad Region]] do not hold, which is nearly all of it. It is the country of the [[affiliation-dunhartrbs|Dunhara Tribes]], and it has no borders on any map. What divides it is custom: the circuits each tribe rides through the year, and the oases each holds by right of long use.
 
 ## The Land
 

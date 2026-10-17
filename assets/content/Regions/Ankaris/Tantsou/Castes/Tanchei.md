@@ -7,7 +7,7 @@ description: "The fourth caste of Tantsou—celestial scholars who read the omen
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-A Warlord with his army mustered and the passes open waits for a woman in a blue robe to finish reading the sky, and if she says the omens are against him, he waits a month. The Tanchéi are the scholarly and spiritual elite of [[affiliation-tantsouempr|Tantsou]], the fourth caste, trained in the reading of omens, the mathematics of astrology and the keeping of the sacred texts, and they run the empire's administration from the ministries down to the frontier registers. Their counsel is what the empire's highest authorities act on when the question is whether heaven agrees.
+A Warlord with his army mustered and the passes open waits for a woman in a blue robe to finish reading the sky, and if she says the omens are against him, he waits a month. The Tanchéi are the scholarly and spiritual elite of the [[affiliation-tantsouempr|Empire of Tantsou]], the fourth caste, trained in the reading of omens, the mathematics of astrology and the keeping of the sacred texts, and they run the empire's administration from the ministries down to the frontier registers. Their counsel is what the empire's highest authorities act on when the question is whether heaven agrees.
 
 ## What the Tanchéi Do
 
@@ -15,7 +15,7 @@ A Warlord with his army mustered and the passes open waits for a woman in a blue
 
 **They keep the texts.** Certain sacred books and relics may be held, read and interpreted by the Tanchéi alone: the cosmological treatises, the formulae of the great rites and the oldest records of the empire's place in the sorted order. Possessing one of them is a crime for anyone of another caste.
 
-**They counsel and they draft.** The Tanchéi advise the [[lore-zhazho|Zhazho]] and the [[lore-wohou|Wohou]] on the Teng Lou (Heavenly Law) and on what the classification requires. They draft new law in consultation with the Warlords, and the clerks, registrars and census officials who keep the [[lore-castelaws|Dao Nong Chou]] are theirs.
+**They counsel and they draft.** The Tanchéi advise the [[lore-zhazho|Zhazho]] and the [[lore-wohou|Wohou]] on the [Teng Lou]{.name data-type="lore/law"} (Heavenly Law) and on what the classification requires. They draft new law in consultation with the Warlords, and the clerks, registrars and census officials who keep the [Dao Nong Chou]{.name data-type="lore/law"} are theirs.
 
 ## Rights and Restrictions
 
@@ -44,13 +44,13 @@ A scholar whose reading of the heavens changes the empire's course may be grante
 
 ## Elder Scholars
 
-[[lore-flksinale|Sinale]] sages, who know more of the stars and of the natural world than any human school, are often classified Tanchéi. Their counsel is valued at court and also mistrusted, because they will not say where their knowledge comes from and seem to care little what humans do with it.
+[[lore-flksinale|Sinale Folk]] sages, who know more of the stars and of the natural world than any human school, are often classified Tanchéi. Their counsel is valued at court and also mistrusted, because they will not say where their knowledge comes from and seem to care little what humans do with it.
 
-[[lore-flkkhazar|Khazari]] masters of engineering, mining and metallurgy are classified Tanchéi when an imperial work—a dam, a mountain road, a fortress cut from the rock—cannot be built without them. Their knowledge of the deep places is held in awe and some fear, and court scholars are uneasy sharing a title with people who will not explain how they find water in stone.
+[[lore-flkkhazar|Khazár Folk]] masters of engineering, mining and metallurgy are classified Tanchéi when an imperial work—a dam, a mountain road, a fortress cut from the rock—cannot be built without them. Their knowledge of the deep places is held in awe and some fear, and court scholars are uneasy sharing a title with people who will not explain how they find water in stone.
 
 ## Philosophy of Lei
 
-In the [[lore-phlsphyleiwo|Leiwo]] framework the Tanchéi are the keepers of intellectual and spiritual Lei: the records, readings and rites that keep the sorted order sorted.
+In the [[lore-phlsphyleiwo|Philosophy of Leiwo]] framework the Tanchéi are the keepers of intellectual and spiritual Lei: the records, readings and rites that keep the sorted order sorted.
 
 ## See Also
 

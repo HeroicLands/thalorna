@@ -35,7 +35,7 @@ A broad, unhurried man in a felt coat sewn with iron plates sits his horse a lit
 
 # Dossier {#dossier}
 
-**Wogen Henzhuo**, called the Master Tiger of the Steppes, is the warlord of the **Hénhatou**, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]] beyond the [[place-grkrhlmrgn|Grukari]] marches. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern provinces. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
+Wogen Henzhuo, called the Master Tiger of the Steppes, is the warlord of the [Hénhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]] beyond the marches toward the [[place-grkrhlmrgn|Grukarholm Region]]. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern provinces. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
 
 ## Background
 
@@ -68,11 +68,11 @@ The confederation is held together by his person and by plunder. A season withou
 ### Enemies
 
 The northern Warlords
-: the Zhazho lords whose provinces he raids, each of whom would win the court's favor by bringing back his head and none of whom will yet cooperate with the others to do it.
+: the [[lore-zhazho|Zhazho]] lords whose provinces he raids, each of whom would win the court's favor by bringing back his head and none of whom will yet cooperate with the others to do it.
 
 ### Affiliations
 
-The Hénhatou confederation
+The [Hénhatou confederation]{.name data-type="affiliation/polity"}
 : the tribes of the Black Wilds, sworn to him as their single war-leader.
 
 ## Plot Hooks

@@ -14,4 +14,4 @@ data:
   packFolder: amradad
 ---
 
-Qarvelakhend is a city in [[place-amradadrgn|Amradad]], the settled corner of the Dunhara, where walled cities, their oases and the caravan routes between them are held by the [[affiliation-kngdmmrdd|Kingdom of Amradad]].
+Qarvelakhend is a city in the [[place-amradadrgn|Amradad Region]], the settled corner of the [[place-dunharargn|Dunhara Region]], where walled cities, their oases and the caravan routes between them are held by the [[affiliation-kngdmmrdd|Kingdom of Amradad]].

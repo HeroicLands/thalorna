@@ -7,7 +7,7 @@ description: "The law of Tantsou—the Heavenly Law, its courts and punishments,
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-A district magistrate of [[affiliation-tantsouempr|Tantsou]] explains his court to a newly classified foreigner in two sentences. A crime here is a thing moved out of the place heaven sorted it into, he says, and my work is to put it back, or to take it off the register altogether. Law in the empire is the enforcement of the classification: the same order that sorts the elements, assigns the gods to their bureaus and holds the line against the Henléi, the unsorted chaos, applied to people. Its gravest sentence is death, and beside it stands a death no court orders: _Tseising_, the ritual by which a Tantsou of rank answers a dishonor that no court can undo.
+A district magistrate of the [[affiliation-tantsouempr|Empire of Tantsou]] explains his court to a newly classified foreigner in two sentences. A crime here is a thing moved out of the place heaven sorted it into, he says, and my work is to put it back, or to take it off the register altogether. Law in the empire is the enforcement of the classification: the same order that sorts the elements, assigns the gods to their bureaus and holds the line against the [Henléi]{.name data-type="lore/cosmology"}, the unsorted chaos, applied to people. Its gravest sentence is death, and beside it stands a death no court orders: _Tseising_, the ritual by which a Tantsou of rank answers a dishonor that no court can undo.
 
 ## Tseising
 
@@ -15,7 +15,7 @@ _Tseising_ ("self-death") is the ritual suicide of the warrior and noble castes.
 
 It can also be a protest. A Wohou or a noble may take his life to show his superiors his anger at an order or an injustice, in a form nobody can answer or reverse. A death of that kind is held to lay a great and permanent debit on the ledger of the person who provoked it, and his whole family inherits it: a Warlord whose injustice drives an officer to Tseising carries the entry for the rest of his life and into the next.
 
-**Preparation.** The person dresses in white, the color of unclassified things, for the return to the state before sorting. He writes his _Kuo Chou_ (last record), which may hold remorse, defiance or reflection. It is a testament and a filing at once: it is burned after the rite, and the smoke carries his final account to the Ministry of Final Account ([[affiliation-tengwouronglei|Singwou]]).
+**Preparation.** The person dresses in white, the color of unclassified things, for the return to the state before sorting. He writes his _Kuo Chou_ (last record), which may hold remorse, defiance or reflection. It is a testament and a filing at once: it is burned after the rite, and the smoke carries his final account to the [Ministry of Final Account]{.name data-type="affiliation"} (Singwou).
 
 **The blade.** He uses a ceremonial dagger, the _Woja_ (sacred blade), usually a family heirloom whose descent is entered in the clan's spiritual archive. A blade with a long lineage is held to bind the dying man more closely to his ancestors, and to win him a kinder first hearing at the Ministry.
 
@@ -27,7 +27,7 @@ It can also be a protest. A Wohou or a noble may take his life to show his super
 
 ## The Heavenly Law
 
-The code of the empire is the **Teng Lou** (Heavenly Law), held to be the mortal form of the order laid down in the [[affiliation-tengwouronglei|Great Sorting]]. The Emperor is its final judge because he holds the [[lore-mandatehvn|Mandate of Heaven]], the appointment that makes him the classification's administrator on earth; his wisdom has nothing to do with it. In practice the Warlords and their magistrates apply it in the provinces.
+The code of the empire is the [Teng Lou]{.name data-type="lore/law"} (Heavenly Law), held to be the mortal form of the order laid down in the [Great Sorting]{.name data-type="lore/cosmology"}. The Emperor is its final judge because he holds the [[lore-mandatehvn|Mandate of Heaven]], the appointment that makes him the classification's administrator on earth; his wisdom has nothing to do with it. In practice the Warlords and their magistrates apply it in the provinces.
 
 ## The Courts
 
@@ -35,7 +35,7 @@ The code of the empire is the **Teng Lou** (Heavenly Law), held to be the mortal
 
 **The Warlords** (_Wozhuo_). They are the judges, lawmakers and enforcers of their provinces, reading the Teng Lou to fit their lands and holding court through their magistrates. Their authority rests on their armies and on heaven together: a Warlord's judgment makes entries on the ledger of everyone it touches, and a just one credits his own. A Warlord's honor and integrity are his credentials, and an accusation of corruption against one is read as a sign that the classification is failing in his province.
 
-**The Tanchéi** (celestial scholars). They advise on the cases where heaven and law meet: disputes over caste lines, questions of which bureau has jurisdiction, cases where an omen or an ancestor's command runs against the law of men. Their reading of a question of classification is authoritative, and Warlords consult them on what a judgment will cost in heaven.
+The [[lore-tanchei|Tanchéi]] (celestial scholars). They advise on the cases where heaven and law meet: disputes over caste lines, questions of which bureau has jurisdiction, cases where an omen or an ancestor's command runs against the law of men. Their reading of a question of classification is authoritative, and Warlords consult them on what a judgment will cost in heaven.
 
 **The magistrates** (_Guichai_). Appointed by the Warlords, they hear the cases of towns and villages, settle disputes and order punishments, according to the Teng Lou, local custom and the castes of the people before them. A crime across caste lines is always graver than one within a caste, because it breaches the hierarchy as well as the law.
 
@@ -71,7 +71,7 @@ A punishment in Tantsou puts the offender back in his proper place, or takes him
 
 **Execution.** Death is the usual penalty for a grave crime. It removes the person from the mortal register, and it is carried out with exact ritual, by beheading, hanging or burning according to caste and crime, so that the soul is sent to the Ministry of Final Account for judgment and not let loose into the Henléi.
 
-**Ruising.** A Wohou or a noble condemned to die may be ordered to take his own life instead. _Ruising_, the ordered suicide, follows the forms of Tseising under a magistrate's eye, and the family is spared the shame of a public execution. It is a sentence, not a choice, and the ledger records it as one.
+[Ruising]{.name data-type="lore/custom"}. A Wohou or a noble condemned to die may be ordered to take his own life instead. _Ruising_, the ordered suicide, follows the forms of Tseising under a magistrate's eye, and the family is spared the shame of a public execution. It is a sentence, not a choice, and the ledger records it as one.
 
 **Public humiliation.** A higher-caste offender whose crime shames his caste may be paraded through the streets, made to wear a lower caste's clothing or set to the Noutsou's work for a time, a public demotion below his own category. Recovering his standing afterward takes acts of atonement large enough to show on the ledger.
 

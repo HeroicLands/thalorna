@@ -7,11 +7,11 @@ description: "The first caste of Tantsou—the Emperor, his family and the Warlo
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The Zhazho are the people in [[affiliation-tantsouempr|Tantsou]] who are never asked what they are, because the question has only one answer: the Emperor, his immediate family, and the Warlords (_Wozhuo_) who hold the provinces in his name. A clerk at the frontier way-station, told to describe the first caste to a classified foreigner, does it in a sentence. They are the administrative lineage of the mortal plane. Their authority comes from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world, and from nothing so unreliable as divine blood.
+The Zhazho are the people in the [[affiliation-tantsouempr|Empire of Tantsou]] who are never asked what they are, because the question has only one answer: the Emperor, his immediate family, and the Warlords (_Wozhuo_) who hold the provinces in his name. A clerk at the frontier way-station, told to describe the first caste to a classified foreigner, does it in a sentence. They are the administrative lineage of the mortal plane. Their authority comes from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world, and from nothing so unreliable as divine blood.
 
 ## The Son of Heaven
 
-The Emperor is the **Tengzhéi** (Son of Heaven), the celestial bureaucracy's appointed agent in the mortal world. His line holds the **Tengwo**, the [[lore-mandatehvn|Mandate of Heaven]]: an appointment that ties the Emperor's own Lei to the Lei of the empire. When he is sick the harvests fail, and when his household is in disorder the provinces rebel. He is not a god, and the Tanchéi are careful to say so. He is the administrator of the sorted world, and an administrator who falls out of order puts what he administers out of order with him.
+The Emperor is the **Tengzhéi** (Son of Heaven), the celestial bureaucracy's appointed agent in the mortal world. His line holds the [[lore-mandatehvn|Mandate of Heaven]], the Tengwo: an appointment held to tie the Emperor's own Lei to the Lei of the empire. The Tanchéi hold that when he is sick the harvests fail, and when his household is in disorder the provinces rebel. He is not a god, and the Tanchéi are careful to say so. He is the administrator of the sorted world, and an administrator who falls out of order puts what he administers out of order with him.
 
 ## Who Decides
 
@@ -19,7 +19,7 @@ The Emperor's authority over state, law and war is absolute, and in practice he 
 
 - **the throne itself**, the Emperor and his household, whose decree is final;
 - **the Warlords** (_Wozhuo_), Zhazho of the imperial blood who hold the provinces and exercise the military, administrative and judicial power of the throne within them, with the [[lore-wohou|Wohou]] serving under them;
-- **the [[lore-wanduo|Wánduo]]**, the chattel sorcerers, whose counsel shapes strategy, ritual and the spiritual health of the realm.
+- the [[lore-wanduo|Wánduo]], the chattel sorcerers, whose counsel shapes strategy, ritual and the spiritual health of the realm.
 
 Every final decision in governance, war and the law of faith belongs to the Zhazho, and the Warlords are the ones who make most of them. The history of the empire is largely the history of how far a given Emperor could make his Warlords obey.
 
@@ -55,7 +55,7 @@ Nine is the number of the throne. Rites of the Emperor and his caste are reckone
 
 ## The Elder Races
 
-A [[lore-flksinale|Sinalo]] or [[lore-flkkhazar|Khazár]] is classified Zhazho only rarely: the lord of an Elder enclave, or the head of a house bound to a Warlord by a strategic alliance. Those who hold the rank manage their people's dealings with the empire, and their position lasts only as long as the politics of the court allow.
+A member of the [[lore-flksinale|Sinale Folk]] or the [[lore-flkkhazar|Khazár Folk]] is classified Zhazho only rarely: the lord of an Elder enclave, or the head of a house bound to a Warlord by a strategic alliance. Those who hold the rank manage their people's dealings with the empire, and their position lasts only as long as the politics of the court allow.
 
 ## See Also
 

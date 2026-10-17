@@ -14,4 +14,4 @@ data:
   packFolder: amradad
 ---
 
-Tazhinakhend is a town in [[place-amradadrgn|Amradad]], the settled corner of the Dunhara, whose walled cities, oases and caravan routes are held by the [[affiliation-kngdmmrdd|Kingdom of Amradad]].
+Tazhinakhend is a town in the [[place-amradadrgn|Amradad Region]], the settled corner of the [[place-dunharargn|Dunhara Region]], whose walled cities, oases and caravan routes are held by the [[affiliation-kngdmmrdd|Kingdom of Amradad]].

@@ -52,11 +52,11 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-**House Hojujai** (Hot Spring Place) holds **Hojai** (Fire Peak), the most active mountain of the Nine, in the south of the great island, by patent of the Emperor. The Daozhuo is **Hojujai Zija** (Star Blade), fourteen years old, and the domain is governed in his name by his mother **Hojujai Rewei** (Dawn Jade), thirty-eight, widow of the last Teng Ja, who has held it for him since 709 AF. She sits in the castle town of **Yanwu** (Cloud Hall), population 6,000. The domain holds 92,000 people, is assessed at 70,000 bales a year, and musters 1,750 men and 20 ships. Hojujai leads the loyalist bloc.
+The Hojujai Domain, held by House Hojujai (Hot Spring Place), holds [[place-hojai|Hojai]] (Fire Peak), the most active mountain of the Nine, in the south of the great island, by patent of the Emperor. The Daozhuo is [Hojujai Zija]{.name data-type="being/npc"} (Star Blade), fourteen years old, and the domain is governed in his name by his mother [Hojujai Rewei]{.name data-type="being/npc"} (Dawn Jade), thirty-eight, widow of the last Teng Ja, who has held it for him since 709 AF. She sits in the castle town of [[place-yanwu|Yanwu]] (Cloud Hall), population 6,000. The domain holds 92,000 people, is assessed at 70,000 bales a year, and musters 1,750 men and 20 ships. Hojujai leads the loyalist bloc.
 
 ## The Land
 
-Hojai smokes. Its ash has made the best rice soil in the realm on the terraces at its foot, its springs feed the bathhouses on its southern slope, and its sulphur is dug and carried down to the coast. The villages pay in ash-soil rice, and Yanju pays in sulphur and in the takings of its bathhouses.
+Hojai smokes. Its ash has made the best rice soil in the realm on the terraces at its foot, its springs feed the bathhouses on its southern slope, and its sulphur is dug and carried down to the coast. The villages pay in ash-soil rice, and [Yanju]{.name data-type="place/settlement"} pays in sulphur and in the takings of its bathhouses.
 
 The roll names three villages here; smaller terraces and hamlets, each under its headman, make up the rest of the 70,000 bales.
 
@@ -70,7 +70,7 @@ The summit shrine of Hojai is provisioned from the lord's villages, and its Tanc
 
 ## Retainers
 
-Rewei holds the keys of the castle and its granary and decides in her son's name, and the retainers who serve her are the household of the last Teng Ja. They serve the house for stipends in bales or for villages held as fiefs. The Shuizhuo who holds Weinu owes the house men in war.
+Rewei holds the keys of the castle and its granary and decides in her son's name, and the retainers who serve her are the household of the last Teng Ja. They serve the house for stipends in bales or for villages held as fiefs. The Shuizhuo who holds [Weinu]{.name data-type="place/settlement"} owes the house men in war.
 
 ## Muster
 
@@ -78,11 +78,11 @@ The muster is 1,750 men and 20 ships. When the mountain erupts and a [[being-pyr
 
 ## Relations
 
-Hojujai and Muwojai together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody. Shuiwojai is the rival: in 709 AF Shuiwojai and Wojai pressed the court not to confer the office on a regency, which was the quarrel that began the War of the Empty Seat.
+Hojujai and the [[affiliation-muwojaidmn|Muwojai Domain]] together form the loyalist bloc, with 2,500 men and 20 ships. They want the office of Teng Ja for the Hojujai heir when he comes of age, or for nobody. The [[affiliation-shuiwojaidmn|Shuiwojai Domain]] is the rival: in 709 AF Shuiwojai and the [[affiliation-wojaidmn|Wojai Domain]] pressed the court not to confer the office on a regency, which was the quarrel that began the [War of the Empty Seat]{.name data-type="lore/history"}.
 
 ## The Mountain's Verdict
 
-Hojai is rumbling. The omen-readers are divided on whether the mountain condemns a widow's regency. An eruption before Zija comes of age settles the argument against his mother, and until he does, Rewei holds the house on a reading that the next tremor can reverse.
+Hojai is rumbling. The omen-readers are divided on whether the mountain condemns a widow's regency. In that reading, an eruption before Zija comes of age settles the argument against his mother, and until he does, Rewei holds the house on a reading that the next tremor can reverse.
 
 ## See Also
 

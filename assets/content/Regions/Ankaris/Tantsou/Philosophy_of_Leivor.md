@@ -7,13 +7,13 @@ description: "Leiwo, the Way of Lei—the Tantsou theory of the energy that keep
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-A Tanchéi lecturer opens the first lesson of the year by setting a cup of water, a candle and a stone on the table, and asking her students why each of them is still what it is. The answer she wants is Lei. **Leiwo** ("spirit-sacred," usually rendered "the Way of Lei") is the body of thought through which the [[affiliation-tantsouempr|Empire of Tantsou]] explains how the cosmos works, why it holds together and what happens when it fails. It is the language beneath the empire's religion, magic, medicine and government, and a scholar, a sorcerer and a healer all reason in it.
+A Tanchéi lecturer opens the first lesson of the year by setting a cup of water, a candle and a stone on the table, and asking her students why each of them is still what it is. The answer she wants is [Lei]{.name data-type="lore/cosmology"}. The Philosophy of Leiwo ("spirit-sacred," usually rendered "the Way of Lei") is the body of thought through which the [[affiliation-tantsouempr|Empire of Tantsou]] explains how the cosmos works, why it holds together and what happens when it fails. It is the language beneath the empire's religion, magic, medicine and government, and a scholar, a sorcerer and a healer all reason in it.
 
-Leiwo teaches that the world is sustained by **Lei**, the cosmic energy that runs through everything classified. Lei keeps the Great Sorting in force. It keeps fire burning as fire, water running as water and stone standing as stone, and without it the sorted world would dissolve back into the Henléi, the primordial chaos of the Unclassified.
+Leiwo teaches that the world is sustained by Lei, the cosmic energy that runs through everything classified. Lei keeps the [Great Sorting]{.name data-type="lore/cosmology"} in force. It keeps fire burning as fire, water running as water and stone standing as stone, and without it the sorted world would dissolve back into the [Henléi]{.name data-type="lore/cosmology"}, the primordial chaos of the Unclassified.
 
 ## One Energy, Many Models
 
-The Tantsou Lei is the same cosmic force every magical tradition draws on. The [[affiliation-ordoarcanis|Thordimalon]] pictures it in elemental geometries; the [[lore-flksinale|Sinale]] feel it as a living current through the natural world; the [[lore-flkkhazar|Khazari]] hear it as a resonance in stone and metal. Each people builds its own mental model of one reality.
+The Tantsou Lei is the same cosmic force every magical tradition draws on. The [[affiliation-ordoarcanis|Thordimalon]] pictures it in elemental geometries; the [[lore-flksinale|Sinale Folk]] feel it as a living current through the natural world; the [[lore-flkkhazar|Khazár Folk]] hear it as a resonance in stone and metal. Each people builds its own mental model of one reality.
 
 The Tantsou model is administrative. Lei is the energy that keeps sorted things in their categories. The model sees some things the others miss, and it is blind where they are not.
 
@@ -23,32 +23,32 @@ Other peoples divide existence into body and spirit, or the material and the div
 
 **The sorted world** is everything the Great Sorting classified: the elements, the creatures, the spirits, the laws of nature and the celestial bureaus themselves. It takes in the mortal plane and the heavens alike, because both were classified. Gods and mortals stand in one system, and the gods are simply filed at a higher level.
 
-**The Henléi** is not a place but a condition: what exists wherever classification breaks down. It waits at the edges of every category, in the gaps between the elements, in paradox and contradiction. When a thing loses its classification—a fire that does not behave as fire, a person whose caste is in doubt, a rite performed wrongly—the Henléi seeps in through the gap.
+The Henléi is not a place but a condition: what exists wherever classification breaks down. It waits at the edges of every category, in the gaps between the elements, in paradox and contradiction. When a thing loses its classification—a fire that does not behave as fire, a person whose caste is in doubt, a rite performed wrongly—the Henléi seeps in through the gap.
 
 ## Leng and Ha
 
 Lei runs in two flows.
 
-**Leng** (bright flow) is Lei tending toward order. It sorts, distinguishes and strengthens the boundaries between things, and it belongs to clarity, authority and the day.
+[Leng]{.name data-type="lore/cosmology"} (bright flow) is Lei tending toward order. It sorts, distinguishes and strengthens the boundaries between things, and it belongs to clarity, authority and the day.
 
-**Ha** (dark flow) is Lei tending toward dissolution. It blurs boundaries, merges distinctions and loosens classifications, and it belongs to dreams, ambiguity and the night.
+[Ha]{.name data-type="lore/cosmology"} (dark flow) is Lei tending toward dissolution. It blurs boundaries, merges distinctions and loosens classifications, and it belongs to dreams, ambiguity and the night.
 
-Neither is good or evil, and both are needed. A cosmos of pure Leng would be frozen: perfectly classified and unable to change or grow. A cosmos of pure Ha would be the Henléi itself, formless potential without shape. The cosmos works only with both in balance, and so the Bureau of Entropy (_Huen Sei_) is kept, dangerous as it is.
+Neither is good or evil, and both are needed. A cosmos of pure Leng would be frozen: perfectly classified and unable to change or grow. A cosmos of pure Ha would be the Henléi itself, formless potential without shape. The cosmos works only with both in balance, and so the [Bureau of Entropy]{.name data-type="affiliation"} (_Huen Sei_) is kept, dangerous as it is.
 
 ## The Seven Domains
 
 Magic in Tantsou is ordered by the **domains of classification**, the basic categories set at the Great Sorting. Five are material, and each is administered by one of the [[lore-fvlmntlrds|Five Elemental Lords]], the bureau chiefs of the elements.
 
-1. **Air** (_Lei_): breath, speech and the medium through which every other classification moves. Air carries; it connects sorted things to one another and keeps the world from going stagnant. Its lord is Wéngdao Zhouwo.
-2. **Fire** (_Ho_): transformation, purification and passage. Fire turns things from one classification into another—the physical into the spiritual, the living into the ancestor—and it carries spirit documents up to the celestial archive. Its lord is Rinho Daowéng of the Bureau of Transformation ([[affiliation-tengwouronglei|Ho Sei]]).
-3. **Earth** (_Tou_): stability, foundation and persistence. Earth holds classifications in place; it is the sorted world's resistance to change. Its lord is Daotou Wochai.
-4. **Metal** (_Jing_): distinction, boundary and enforcement. Metal draws the sharp line between one category and the next, and it is the domain of law, judgment and precision. Its lord is Wojing Ja.
-5. **Water** (_Shou_): flow, adaptation and passage between states. Water lets a thing change from one sorted condition to another without passing through the unsorted. Its lord is Zhoushou Zho.
+1. **Air** (_Lei_): breath, speech and the medium through which every other classification moves. Air carries; it connects sorted things to one another and keeps the world from going stagnant. Its lord is [[lore-wengdaozhouwodty|Wéngdao Zhouwo]].
+2. **Fire** (_Ho_): transformation, purification and passage. Fire turns things from one classification into another—the physical into the spiritual, the living into the ancestor—and it carries spirit documents up to the celestial archive. Its lord is [[lore-rinhodaowengdty|Rinho Daowéng]] of the [Bureau of Transformation]{.name data-type="affiliation"} (Ho Sei).
+3. **Earth** (_Tou_): stability, foundation and persistence. Earth holds classifications in place; it is the sorted world's resistance to change. Its lord is [[lore-daotouwochaidty|Daotou Wochai]].
+4. **Metal** (_Jing_): distinction, boundary and enforcement. Metal draws the sharp line between one category and the next, and it is the domain of law, judgment and precision. Its lord is [[lore-wojingjadty|Wojing Ja]].
+5. **Water** (_Shou_): flow, adaptation and passage between states. Water lets a thing change from one sorted condition to another without passing through the unsorted. Its lord is [[lore-zhoushouzhodty|Zhoushou Zho]].
 
 Two domains lie beyond any single lord, because they are too near the root of the classification for one bureau chief to hold.
 
-6. **Spirit** (_Woléi_): the soul, consciousness and the link between the mortal and celestial planes, through which petitions go up and directives come down. The celestial bureaus govern it together, the Ministry of Final Account ([[affiliation-tengwouronglei|Singwou]]) and the Bureau of Night Counsel ([[affiliation-tengwouronglei|Mei Sei]]) above all.
-7. **Neutral** (_Hou_): pure Lei, the energy older than the Sorting, embodied in Tanzho the Celestial Dragon. It is the unsorted energy that sustains everything sorted. A practitioner who works it reaches beneath the classification to touch the raw cosmic force, with great power and great danger. No bureau administers it and no official holds it. It is Tanzho's alone.
+6. **Spirit** (_Woléi_): the soul, consciousness and the link between the mortal and celestial planes, through which petitions go up and directives come down. The celestial bureaus govern it together, the [Ministry of Final Account]{.name data-type="affiliation"} (Singwou) and the [Bureau of Night Counsel]{.name data-type="affiliation"} (Mei Sei) above all.
+7. **Neutral** (_Hou_): pure Lei, the energy older than the Sorting, embodied in [[lore-tanzhodty|Tanzho]] the Celestial Dragon. It is the unsorted energy that sustains everything sorted. A practitioner who works it reaches beneath the classification to touch the raw cosmic force, with great power and great danger. No bureau administers it and no official holds it. It is Tanzho's alone.
 
 ## Magic as a Petition
 
@@ -99,7 +99,7 @@ Spirit
 Each caste is held to carry its own kind of Lei:
 
 - the [[lore-zhazho|Zhazho]], administering Lei, the authority to classify and govern;
-- the [[lore-wanduo|Wánduo]], channeled Lei, the power to work cosmic energy through the petition's form;
+- the Wánduo, channeled Lei, the power to work cosmic energy through the petition's form;
 - the [[lore-wohou|Wohou]], enforcing Lei, which keeps classifications in place by force;
 - the [[lore-tanchei|Tanchéi]], recording Lei, which keeps the classification's records and precedents;
 - the [[lore-nouwen|Nouwén]], sustaining Lei, which keeps the physical world in order through labor.
@@ -108,11 +108,11 @@ Marriage, ritual and daily custom are all arranged to keep Lei flowing properly 
 
 ## Practice
 
-**Daily cultivation.** Every Tantsou, of whatever caste, is expected to keep his own Lei in order each day. The commonest practice is **Leichéi** (spirit-wisdom), a slow meditative exercise performed at dawn in courtyards and village squares, which is held to bring the body's classifications back into line with the cosmos. Breathing exercises strengthen the Air domain, and the mindful doing of one's caste work strengthens one's place in the Sorting.
+**Daily cultivation.** Every Tantsou, of whatever caste, is expected to keep his own Lei in order each day. The commonest practice is [Leichéi]{.name data-type="lore/custom"} (spirit-wisdom), a slow meditative exercise performed at dawn in courtyards and village squares, which is held to bring the body's classifications back into line with the cosmos. Breathing exercises strengthen the Air domain, and the mindful doing of one's caste work strengthens one's place in the Sorting.
 
 **The rites of passage.** Births, marriages and deaths must each be registered with the celestial administration. A birth is classified: the child's caste confirmed, its channels read and its existence filed with the bureaus. A [[lore-marriage|marriage]] merges the spiritual accounts of two households. A death sends a soul to the Ministry of Final Account, and the rite eases its journey.
 
-**The Festival of Harmonious Lei.** The greatest festival of the year, the **Hou Lei Jui**, celebrates the continued success of the Great Sorting. The Emperor performs its central rite, an audit of the empire's Lei in which he and his Tanchéi review the classification and declare it in good order. It is a religious observance, a state ceremony and an administrative procedure at once, and any failure or interruption in it is taken as a dire omen for the coming year.
+The [Festival of Harmonious Lei]{.name data-type="lore/gathering"}. The greatest festival of the year, the Hou Lei Jui, celebrates the continued success of the Great Sorting. The Emperor performs its central rite, an audit of the empire's Lei in which he and his Tanchéi review the classification and declare it in good order. It is a religious observance, a state ceremony and an administrative procedure at once, and any failure or interruption in it is taken as a dire omen for the coming year.
 
 ## See Also
 

@@ -15,11 +15,11 @@ data:
   culture: jenchaiclt
 ---
 
-**Zijai** (Star Peak) stands in the interior of the great island, beside [[place-zojai|Zojai]], the Emperor's mountain, and is held by House Muwojai. The two peaks rise from the same cedar valleys, and the road to the Emperor passes along the foot of Zijai.
+Zijai (Star Peak) stands in the interior of the great island, beside [[place-zojai|Zojai]], the Emperor's mountain, and is held by the [[affiliation-muwojaidmn|Muwojai Domain]]. The two peaks rise from the same cedar valleys, and the road to the Emperor passes along the foot of Zijai.
 
-The slopes are cedar forest below and bare rock above. The terraces at the mountain's foot bear rice at Zainu, and the timber that is felled above them supplies the joinery of Tsaimu and the halls of the court. The river that drains the valley is crossed at the ferry of Zuju, on the road to Léngwou. The castle town of [[place-kowu|Kowu]] stands on the lower slope.
+The slopes are cedar forest below and bare rock above. The terraces at the mountain's foot bear rice at [Zainu]{.name data-type="place/settlement"}, and the timber that is felled above them supplies the joinery of [Tsaimu]{.name data-type="place/settlement"} and the halls of the court. The river that drains the valley is crossed at the ferry of [Zuju]{.name data-type="place/settlement"}, on the road to [[place-lengwou|Léngwou]]. The castle town of [[place-kowu|Kowu]] stands on the lower slope.
 
-The summit holds a shrine and the **observatory** of the omen-readers. The Tanchéi who serve as Omen-Reader to the court keep the heavens from it, and the timing of imperial acts is fixed from what they record there. The air above the interior is clearer than the coast's, and the instruments stand on the open rock. At the Festival of the Mountain (_Chai Jui_) the lord's roll is closed on the same summit, beside the instruments of the court.
+The summit holds a shrine and the **observatory** of the omen-readers. The Tanchéi who serve as Omen-Reader to the court keep the heavens from it, and the timing of imperial acts is fixed from what they record there. The air above the interior is clearer than the coast's, and the instruments stand on the open rock. At the [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jui_) the lord's roll is closed on the same summit, beside the instruments of the court.
 
 ## See Also
 

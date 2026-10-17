@@ -7,7 +7,7 @@ description: "Reptilian pack-hunters, taller than a man and nearly proof against
 data: {packFolder: threats, culture: tantsouclt}
 ---
 
-A Sinalean scout who saw the first pack says the ground had not stopped moving when they came up out of it: tall as a man at the shoulder, gray-green and fast, five of them running in a line along a fresh fault as if they had been born knowing the ground. The **Chaizho** ("mountain dragon") are the predators the great earthquake loosed on the remote northwest of the [[affiliation-tantsouempr|Empire of Tantsou]], the country the [[lore-flksinale|Sinale]] hold in their old forests and the [[lore-flkkhazar|Khazari]] in their mountain strongholds, and they are the one threat in the empire's reckoning that nobody filed a petition against, because nobody knew they existed.
+A Sinalean scout who saw the first pack says the ground had not stopped moving when they came up out of it: tall as a man at the shoulder, gray-green and fast, five of them running in a line along a fresh fault as if they had been born knowing the ground. The Chaizho ("mountain dragon") are the predators the great earthquake loosed on the remote northwest of the [[affiliation-tantsouempr|Empire of Tantsou]], the country the [[lore-flksinale|Sinale Folk]] hold in their old forests and the [[lore-flkkhazar|Khazár Folk]] in their mountain strongholds, and they are the one threat in the empire's reckoning that nobody filed a petition against, because nobody knew they existed.
 
 ## The Hunters
 
@@ -17,7 +17,7 @@ Their hide is the problem. It is thick, scaled and layered over plates of bone, 
 
 ## The Earthshatter
 
-The earthquake the northwest calls the **Kuojén Touhén** ("Millennial Earthshatter") brought down cliffs that held Khazari cities and tore up wide stretches of Sinalean forest by the roots. The Chaizho came up out of the new fissures in its wake, as if the tremors had woken them from somewhere deep in the earth. Where they lived before, and whether more remain below, nobody knows.
+The earthquake the northwest calls the [Kuojén Touhén]{.name data-type="lore/history"} ("Millennial Earthshatter") brought down cliffs that held Khazari cities and tore up wide stretches of Sinalean forest by the roots. The Chaizho came up out of the new fissures in its wake, as if the tremors had woken them from somewhere deep in the earth. Where they lived before, and whether more remain below, nobody knows.
 
 ## The Line in the Northwest
 

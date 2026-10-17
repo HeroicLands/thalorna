@@ -31,15 +31,15 @@ data:
 
 # Appearance {#appearance}
 
-A lean man in his middle years, in a Wohou officer's lacquered harness stripped of every badge of rank, stands with his weight square over his feet as if the ground might be taken from him. His face is hard and closed; a pale line where a rank-cord once crossed his throat has never tanned. He speaks with the precise courtesy of the imperial staff and gives orders without raising his voice.
+A lean man in his middle years, in a [[lore-wohou|Wohou]] officer's lacquered harness stripped of every badge of rank, stands with his weight square over his feet as if the ground might be taken from him. His face is hard and closed; a pale line where a rank-cord once crossed his throat has never tanned. He speaks with the precise courtesy of the imperial staff and gives orders without raising his voice.
 
 # Dossier {#dossier}
 
-**Tuija Wengyan**, granted the name Iron Spear Piercing the Clouds for his service, was one of the most respected generals of the [[lore-wohou|Wohou]] caste. He is now the empire's most dangerous rebel, and the court made him one.
+Tuija Wengyan, granted the name Iron Spear Piercing the Clouds for his service, was one of the most respected generals of the Wohou caste. He is now the empire's most dangerous rebel, and the court made him one.
 
 ## Background
 
-**The disobedience.** On a critical campaign he received a direct imperial order to hold his position. He judged it a mistake, attacked, and won. The victory was the problem: a battle won by defying an order is proof the order was wrong, and an imperial order cannot be wrong without the Mandate behind it being questioned. The court stripped him of his rank and exiled him, and the registry recorded the victory under another commander's name.
+**The disobedience.** On a critical campaign he received a direct imperial order to hold his position. He judged it a mistake, attacked, and won. The victory was the problem: a battle won by defying an order is proof the order was wrong, and an imperial order cannot be wrong without the [[lore-mandatehvn|Mandate of Heaven]] behind it being questioned. The court stripped him of his rank and exiled him, and the registry recorded the victory under another commander's name.
 
 **The exile.** He did not accept it. In exile he gathered soldiers disaffected by the purge that followed him and minor [[lore-zhazho|Zhazho]] nobles with grievances of their own against the court. The nobles brought their [[lore-wanduo|Wánduo]] with them, because a Zhazho's sorcerers go where their owner goes.
 
@@ -67,11 +67,11 @@ He needs nobles he does not trust and sorcerers he does not own. His rebellion h
 
 ### Patrons
 
-Zhaowéi Lengzhai
-: called the Radiant Phoenix, the shrewd matriarch of the Zhaowéi clan, who wants her family's influence back after years of decline. Her Wánduo work fire and earth. She favors open battle and thinks Tuija a necessary tool to be put down once the work is done.
+[Zhaowéi Lengzhai]{.name data-type="being/npc"}
+: called the Radiant Phoenix, the shrewd matriarch of the [Zhaowéi clan]{.name data-type="affiliation/lineage"}, who wants her family's influence back after years of decline. Her Wánduo work fire and earth. She favors open battle and thinks Tuija a necessary tool to be put down once the work is done.
 
-Wenzhao Wéngdao
-: called Wind's Roar, the young head of the Wenzhao clan, too impatient to wait out his family's slow rehabilitation at court. His Wánduo work air and spirit. He prefers subterfuge, and he also thinks Tuija expendable.
+[Wenzhao Wéngdao]{.name data-type="being/npc"}
+: called Wind's Roar, the young head of the [Wenzhao clan]{.name data-type="affiliation/lineage"}, too impatient to wait out his family's slow rehabilitation at court. His Wánduo work air and spirit. He prefers subterfuge, and he also thinks Tuija expendable.
 
 ### Enemies
 
@@ -92,7 +92,7 @@ The Matriarch's Exit
 : Zhaowéi Lengzhai wants safe passage out of the empire for her heirs before the rebellion's luck turns, and she will pay with Tuija's plans.
 
 Sorcerers Without Owners
-: Two of Wenzhao Wéngdao's Wánduo have slipped away from his camp and are trying to reach the Shadow Sect. Their owner, the rebels and the throne all want them back.
+: Two of Wenzhao Wéngdao's Wánduo have slipped away from his camp and are trying to reach [[affiliation-hazhao|Ha Zhao]], the Shadow Sect. Their owner, the rebels and the throne all want them back.
 
 The Northern Envoy
 : An envoy from [[being-wogenhenzhuo|Wogen Henzhuo]] reaches the rebel camp. Tuija must decide whether a steppe army in the north is an ally or the end of the empire he means to rule.

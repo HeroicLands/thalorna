@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [dunharlng]}}
 ---
 
-The **Tribe of Tevrazavad** holds the [[place-oasistvrzvd|Oasis of Tevrazavad]] by right of usage and camps there through the hottest months. Its chieftain [[being-trvshshrdr|Torvash Shiradar]] persuaded it to govern itself through a council, and its camp is now a place other sheikhs send their quarrels to be heard.
+The Tribe of Tevrazavad holds the [[place-oasistvrzvd|Oasis of Tevrazavad]] by right of usage and camps there through the hottest months. Its chieftain [[being-trvshshrdr|Torvash Shiradar]] persuaded it to govern itself through a council, and its camp is now a place other sheikhs send their quarrels to be heard.

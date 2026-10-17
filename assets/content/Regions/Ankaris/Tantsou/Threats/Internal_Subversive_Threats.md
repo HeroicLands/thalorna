@@ -21,26 +21,26 @@ The Sect's most dangerous tie is to the Arcane Order embassy. The Arcane Order s
 
 ## The Merchants' Rising
 
-The [[lore-shuonong|Shuonong]] are rich, taxed hardest of any caste and barred on pain of death from politics. A faction among the great merchant houses is organizing to change that, and it means to have a voice in the government whatever the Caste Laws say. It has money, warehouses in every river city and the ear of every Wohou officer who owes it a debt, and it has begun to work with the Black Lotus Society. If the faction moves before the court notices it, the first sign will be the barges stopping.
+The [[lore-shuonong|Shuonong]] are rich, taxed hardest of any caste and barred on pain of death from politics. A faction among the great merchant houses is organizing to change that, and it means to have a voice in the government whatever the [[lore-castelaws|Caste Laws]] say. It has money, warehouses in every river city and the ear of every Wohou officer who owes it a debt, and it has begun to work with the [[affiliation-haluozhao|Ha Luo Zhao]]. If the faction moves before the court notices it, the first sign will be the barges stopping.
 
 ## Nuotsou Rui, the Cult of the Forsaken
 
 [[affiliation-nuotsourui|Nuotsou Rui]] grew among the lower castes, and it preaches that the order of the world is rotten past repair and must be destroyed. Unlike the Shadow Sect or the merchants, it wants nothing in its place.
 
-The cult worships the **Demon Lords** of the [[affiliation-youweng|Youwéng]], the powers inside the [[affiliation-tengwouronglei|Celestial Order]] whose whole nature is to refuse, corrupt or unmake the celestial bureaucracy. Chief among them are [[affiliation-nuoho|Nuoho]] the Unmaker, [[affiliation-watsai|Watsai]] the Forger of False Records, [[affiliation-zhaosou|Zhaosou]] the Walking Contradiction and [[affiliation-henzhuo|Hénzhuo]] the First Refusal. Because they already stand in the empire's own cosmology, a convert keeps everything he was taught and turns its values over: the cult holds that the Demon Lords are the truth of the bureaucracy, not a sickness in it.
+The cult worships the **Demon Lords** of the [[affiliation-youweng|Youwéng]], the powers inside the [[affiliation-tengwouronglei|Téngwou Rong Lei]] whose whole nature is to refuse, corrupt or unmake the celestial bureaucracy. Chief among them are [[lore-nuohodty|Nuoho]] the Unmaker, [[lore-watsaidty|Watsai]] the Forger of False Records, [[lore-zhaosoudty|Zhaosou]] the Walking Contradiction and [[lore-henzhuodty|Hénzhuo]] the First Refusal. Because they already stand in the empire's own cosmology, a convert keeps everything he was taught and turns its values over: the cult holds that the Demon Lords are the truth of the bureaucracy, not a sickness in it.
 
-From Nuoho the cult has learned to raise the [[lore-undead|undead]], and it looses them in crowded districts to cause the greatest disorder it can, among the living and in the registers alike. It has nothing to do with the [[affiliation-varakpnthn|Varnuka Pantheon]], whose cycle of destruction and renewal it despises, since the cult wants destruction that never ends.
+The cult claims Nuoho taught it to raise the [[lore-undead|undead]], and it looses them in crowded districts to cause the greatest disorder it can, among the living and in the registers alike. It has nothing to do with the [[affiliation-varakpnthn|Varnuka Pantheon]], whose cycle of destruction and renewal it despises, since the cult wants destruction that never ends.
 
 Its attacks are aimed at the machinery of classification. Cultists burn ministry archives that hold the census rolls and the moral-ledger records, murder officials in public at festivals, carry fire into administrative halls knowing they will not walk out, and work patiently into the lower ranks of the clerks to corrupt the records from inside. It coordinates its violence with the Black Lotus Society's sabotage, and the two together have done more damage to the registers in a decade than any rebellion.
 
 ## Ha Luo Zhao, the Black Lotus Society
 
-The [[affiliation-haluozhao|Black Lotus Society]] is the empire's great criminal syndicate. Its existence is an open secret, and its power lies in staying that way: it sells protection, pays bribes, runs smuggling and procures forbidden magic, and it bends trade and politics without being seen to do it.
+The Black Lotus Society is the empire's great criminal syndicate. Its existence is an open secret, and its power lies in staying that way: it sells protection, pays bribes, runs smuggling and procures forbidden magic, and it bends trade and politics without being seen to do it.
 
 - **The merchants.** The Lotus has a grip on the Shuonong, offering protection and illicit services that can make a merchant house rich or ruin it.
 - **The knife.** Its assassins are rarely used and feared for that reason; a Lotus killing is seldom proved and never forgotten.
 - **The tablets.** It forges the classification tablets that prove a person's caste, which makes it a threat to the classification itself and not only to the law.
-- **The alliances.** Its ties to the Cult of the Forsaken and the Merchants' Rising let it strike at the social order and the economy at once.
+- **The alliances.** Its ties to the Cult of the Forsaken and the [Merchants' Rising]{.name data-type="affiliation"} let it strike at the social order and the economy at once.
 
 ## The Famine in the South
 

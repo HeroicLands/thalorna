@@ -7,7 +7,7 @@ description: "The eighth caste of Tantsou—slaves, war captives, condemned crim
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The Noutsou are the caste that is not a caste: the slaves, prisoners of war, condemned criminals and the disgraced who have been cast out of the caste they were born to, and they are the floor of [[affiliation-tantsouempr|Tantsou]]. A Noutsou has no name the law recognizes, no property, no marriage and no road out, and the law values his life below that of any other person in the empire. The [[lore-wanduo|Wánduo]] are also slaves, and the comparison stops there: a Wánduo is owned because he is precious, and a Noutsou because he is nothing.
+The Noutsou are the caste that is not a caste: the slaves, prisoners of war, condemned criminals and the disgraced who have been cast out of the caste they were born to, and they are the floor of the [[affiliation-tantsouempr|Empire of Tantsou]]. A Noutsou has no name the law recognizes, no property, no marriage and no road out, and the law values his life below that of any other person in the empire. The [[lore-wanduo|Wánduo]] are also slaves, and the comparison stops there: a Wánduo is owned because he is precious, and a Noutsou because he is nothing.
 
 ## How a Person Becomes Noutsou
 
@@ -17,7 +17,7 @@ Three roads lead down into the caste, and none leads back.
 
 **Sentence.** A magistrate may sentence a person convicted of murder, great theft or sedition to slavery for life in place of death or mutilation. The sentence falls on the criminal's descendants too: every child he fathers after it is born Noutsou.
 
-**Outcasting.** A member of any higher caste who breaks the [[lore-castelaws|Caste Laws]] gravely enough, or commits a moral crime the court will not name aloud, may be stripped of his caste and his clan and entered as Noutsou. It happens rarely, and the higher castes count it worse than death—a Wohou offered the choice between outcasting and _Ruising_, the ordered suicide, takes the knife.
+**Outcasting.** A member of any higher caste who breaks the [[lore-castelaws|Caste Laws]] gravely enough, or commits a moral crime the court will not name aloud, may be stripped of his caste and his clan and entered as Noutsou. It happens rarely, and the higher castes count it worse than death—a Wohou offered the choice between outcasting and [Ruising]{.name data-type="lore/custom"}, the ordered suicide, takes the knife.
 
 ## The Law of the Slave
 

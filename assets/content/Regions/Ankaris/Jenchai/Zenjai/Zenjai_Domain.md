@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-**House Zenjai** (Snow Peak) holds **Zenjai**, the mountain of the cold north of the great island, by patent of the Emperor. Its lord is the Daozhuo **Zenjai Tsuiwo** (Iron Warrior), thirty-three years old, who sits in the castle town of **Buiwu** (White Hall), population 2,800. The domain holds 52,000 people, is assessed at 38,000 bales a year, and musters 1,520 men, a northern levy of four men for every hundred bales. Zenjai keeps no fleet. The house is independent of both blocs, and Tsuiwo's choice between them ends the balance.
+The Zenjai Domain, held by House Zenjai (Snow Peak), holds [[place-zenjai|Zenjai]], the mountain of the cold north of the great island, by patent of the Emperor. Its lord is the Daozhuo [Zenjai Tsuiwo]{.name data-type="being/npc"} (Iron Warrior), thirty-three years old, who sits in the castle town of [[place-buiwu|Buiwu]] (White Hall), population 2,800. The domain holds 52,000 people, is assessed at 38,000 bales a year, and musters 1,520 men, a northern levy of four men for every hundred bales. Zenjai keeps no fleet. The house is independent of both blocs, and Tsuiwo's choice between them ends the balance.
 
 ## The Land
 
@@ -71,7 +71,7 @@ The summit shrine of Zenjai is provisioned from the lord's villages, and its Tan
 
 ## Retainers
 
-The **Maiju** keep the stables and hold Maidu as their fief; every horse of the domain's levy is entered in their roll. The Shuizhuo of the north hold one to three villages each and answer for their share of the levy.
+The [Maiju]{.name data-type="affiliation/lineage"} keep the stables and hold [Maidu]{.name data-type="place/settlement"} as their fief; every horse of the domain's levy is entered in their roll. The Shuizhuo of the north hold one to three villages each and answer for their share of the levy.
 
 ## Muster
 
@@ -79,7 +79,7 @@ The muster is 1,520 men, and none of them sails: the domain has no fleet. The le
 
 ## Relations
 
-Zenjai belongs to neither bloc, and its joining either the Strait bloc or the loyalists ends the balance of the Nine. Both are bidding for it.
+Zenjai belongs to neither bloc, and its joining either [The Strait]{.name data-type="affiliation"} bloc or the loyalists ends the balance of the Nine. Both are bidding for it.
 
 ## The Half-Ration Winter
 

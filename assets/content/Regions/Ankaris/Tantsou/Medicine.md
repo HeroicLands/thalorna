@@ -15,15 +15,15 @@ The Yaiwo are Tsaihuo by caste and are held in a respect far above it. They have
 
 ## What a Healer Believes
 
-The Yaiwo work within the cosmology of the [[lore-celestlrdr|Celestial Order]]. They teach that a body is a small copy of the Great Sorting: its elements, organs and flows of Lei are each assigned to a proper place and held in proper relation. Illness is a breach in that classification—an element shifted out of its domain, a flow of Lei turned into the wrong channel, a boundary between two of the body's domains worn thin. Four principles follow from it.
+The Yaiwo work within the cosmology of the [[lore-celestlrdr|Celestial Order]]. They teach that a body is a small copy of the [Great Sorting]{.name data-type="lore/cosmology"}: its elements, organs and flows of [Lei]{.name data-type="lore/cosmology"} are each assigned to a proper place and held in proper relation. Illness is a breach in that classification—an element shifted out of its domain, a flow of Lei turned into the wrong channel, a boundary between two of the body's domains worn thin. Four principles follow from it.
 
-**Ha and Leng.** Health is the right balance of the two flows that govern the cosmos, Ha and Leng, within the body (see [[lore-phlsphyleiwo|Philosophy of Leiwo]]). When one spills into the other's territory, the patient sickens, and treatment sorts them back.
+**[Ha]{.name data-type="lore/cosmology"} and [Leng]{.name data-type="lore/cosmology"}.** Health is the right balance of the two flows that govern the cosmos, Ha and Leng, within the body (see [[lore-phlsphyleiwo|Philosophy of Leiwo]]). When one spills into the other's territory, the patient sickens, and treatment sorts them back.
 
 **The five elements.** Each of the material domains—Air, Fire, Earth, Metal and Water—governs particular organs. A healer diagnoses by finding which domain is disturbed, then prescribes a remedy classed under the element that needs strengthening, or one that checks an element that has overreached.
 
 **Body and spirit together.** Body and spirit are two sortings of one person, and the Yaiwo treat both: with meditation to settle the flow of Lei, with petitions to the celestial bureaus asking that the patient's classification be restored, and with rites that set the patient back in step with the cosmic order.
 
-**The Mandate of Health.** As the Emperor's [[lore-mandatehvn|Mandate of Heaven]] keeps the empire in order, the healer's Mandate of Health keeps its people in order. Every person is classified to do a work—fight, study, farm—and a sickness that stops the work is a fault in the classification. The Yaiwo keep bodies sorted so that each person can do what the Great Sorting assigned.
+The [Mandate of Health]{.name data-type="lore/theology"}. As the Emperor's [[lore-mandatehvn|Mandate of Heaven]] keeps the empire in order, the healer's Mandate of Health keeps its people in order. Every person is classified to do a work—fight, study, farm—and a sickness that stops the work is a fault in the classification. The Yaiwo keep bodies sorted so that each person can do what the Great Sorting assigned.
 
 ## The Herb-Masters
 
@@ -48,7 +48,7 @@ Some sickness comes from the spirit side. An ancestor withdraws his advocacy, a 
 
 The Yaiwo answer for the health of whole communities: clean water, the quarantine and treatment of epidemics, and a watch on the health of every district. They work under the Warlords, and a Warlord counts his people's health as a measure of his own government, since a province swept by plague is a province whose classification is failing, and the court reads it so.
 
-When an epidemic strikes, the Tanchéi are called to say whether it has a cosmic cause: the displeasure of a bureau, a breach in the boundary between the sorted world and the Henléi, or a failure in the district's spiritual upkeep. The response then joins all three: the Yaiwo's remedies, the Tanchéi's diagnosis and the Leigen's rites.
+When an epidemic strikes, the Tanchéi are called to say whether it has a cosmic cause: the displeasure of a bureau, a breach in the boundary between the sorted world and the [Henléi]{.name data-type="lore/cosmology"}, or a failure in the district's spiritual upkeep. The response then joins all three: the Yaiwo's remedies, the Tanchéi's diagnosis and the Leigen's rites.
 
 ## Training and Rank
 

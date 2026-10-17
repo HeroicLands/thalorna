@@ -53,11 +53,11 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-**House Tsuijai** (Iron Peak) holds **Tsuijai**, the iron mountain of the north-west uplands of the great island, by patent of the Emperor. Its lord is the Daozhuo **Tsuijai Rezo** (Bright Dragon), fifty-two years old, who sits in the castle town of **Tsuiwu** (Iron Hall), population 2,600. The domain holds 40,000 people, is assessed at 22,000 bales a year, and musters 550 men; it keeps no fleet. The house is independent of both blocs, and it has the iron and the swordsmiths of the Nine.
+The Tsuijai Domain, held by House Tsuijai (Iron Peak), holds [[place-tsuijai|Tsuijai]], the iron mountain of the north-west uplands of the great island, by patent of the Emperor. Its lord is the Daozhuo [Tsuijai Rezo]{.name data-type="being/npc"} (Bright Dragon), fifty-two years old, who sits in the castle town of [[place-tsuiwu|Tsuiwu]] (Iron Hall), population 2,600. The domain holds 40,000 people, is assessed at 22,000 bales a year, and musters 550 men; it keeps no fleet. The house is independent of both blocs, and it has the iron and the swordsmiths of the Nine.
 
 ## The Land
 
-The uplands are cold and rocky, and the mountain is iron-bearing from its foot to its shoulders. The iron sand of the streams and the ore of the mines are smelted with charcoal from the slopes, and the terraces below the mines bear rice where the ground allows. The villages pay in ore, charcoal and rice, and Tsaigen pays its holders in blades.
+The uplands are cold and rocky, and the mountain is iron-bearing from its foot to its shoulders. The iron sand of the streams and the ore of the mines are smelted with charcoal from the slopes, and the terraces below the mines bear rice where the ground allows. The villages pay in ore, charcoal and rice, and [Tsaigen]{.name data-type="place/settlement"} pays its holders in blades.
 
 Tsuijai's roll names the three villages below; smaller terraces and mining hamlets under their headmen make up the rest of the 22,000 bales.
 
@@ -67,11 +67,11 @@ Tsuijai's roll names the three villages below; smaller terraces and mining hamle
 | Kodu    | Old Road     | Court estate | The Emperor, through the lord's granary | Rice and charcoal                    |      900 |
 | Tsaigen | Craft Master | Fief         | The Jaju                                | The forge-village of the swordsmiths |      600 |
 
-The summit shrine of Tsuijai keeps the earth and metal aspects of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchéi are provisioned from the lord's villages.
+The summit shrine of Tsuijai keeps the earth and metal aspects of the [[affiliation-tengwouronglei|Téngwou Rong Lei]], and its Tanchéi are provisioned from the lord's villages.
 
 ## Retainers
 
-The **Jaju** keep the armory and hold Tsaigen as their fief; the smiths of the forge-village are their dependents, and every blade that leaves the forge is entered in their roll. The smiths' lineage binds a fire elemental to the gate of its forge-yard: an [[being-embrhnd|Emberhound]] lies across the threshold and guards the yard and the charcoal-stores, and the lineage renews the binding with each master of the forge.
+The [Jaju]{.name data-type="affiliation/lineage"} keep the armory and hold Tsaigen as their fief; the smiths of the forge-village are their dependents, and every blade that leaves the forge is entered in their roll. The smiths' lineage binds a fire elemental to the gate of its forge-yard: an [[being-embrhnd|Emberhound]] lies across the threshold and guards the yard and the charcoal-stores, and the lineage renews the binding with each master of the forge.
 
 ## Muster
 

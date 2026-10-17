@@ -11,7 +11,7 @@ Most people in the [[affiliation-tantsouempr|Empire of Tantsou]] never have a na
 
 ## Identification Without a Name
 
-An unnamed person is known by a description that a registry clerk could file: "Fourth Son of the Battle Warden of the Clan of Moon Rises Over Still Water, near Weichai." It says who his father is and what his father does, which clan holds them, and where they live, and it is exactly what the classification tablet he carries records. In daily life his neighbors shorten it to "Fourth Son" or "the Warden's boy," and a magistrate reads it out in full.
+An unnamed person is known by a description that a registry clerk could file: "Fourth Son of the Battle Warden of the Clan of Moon Rises Over Still Water, near [Weichai]{.name data-type="place/settlement"}." It says who his father is and what his father does, which clan holds them, and where they live, and it is exactly what the classification tablet he carries records. In daily life his neighbors shorten it to "Fourth Son" or "the Warden's boy," and a magistrate reads it out in full.
 
 ## The Grant of a Name
 
@@ -45,9 +45,9 @@ Kuo Gwo Wou Teng
 
 ## Two Names Earned
 
-A Wohou officer known for years as "Second Son of the Shield Bearer of the Zhowou Clan, near Téngmou" led his troops to a victory that saved a province. His liege lord granted him the name Weng Hieng Rao Chai, "Wind Tiger Roars Across Thunder Mountain," for the fury of his charge, and he has signed nothing else since.
+A Wohou officer known for years as "Second Son of the Shield Bearer of the [Zhowou Clan]{.name data-type="affiliation/lineage"}, near [Téngmou]{.name data-type="place/settlement"}" led his troops to a victory that saved a province. His liege lord granted him the name [Weng Hieng Rao Chai]{.name data-type="being/npc"}, "Wind Tiger Roars Across Thunder Mountain," for the fury of his charge, and he has signed nothing else since.
 
-A Tanchéi scholar known as "Third Daughter of the Sage of the Zhi Zhai Clan, near Weichai" observed and recorded a new star that her seniors had missed. She was granted the name Zhi Zhai Leng Cheng, "Rising Bright Star Bird," for the discovery, and the star carries her name in the court registers.
+A Tanchéi scholar known as "Third Daughter of the Sage of the [Zhi Zhai Clan]{.name data-type="affiliation/lineage"}, near Weichai" observed and recorded a new star that her seniors had missed. She was granted the name [Zhi Zhai Leng Cheng]{.name data-type="being/npc"}, "Rising Bright Star Bird," for the discovery, and the star carries her name in the court registers.
 
 ## See Also
 

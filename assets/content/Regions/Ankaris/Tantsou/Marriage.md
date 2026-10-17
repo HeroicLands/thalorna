@@ -33,7 +33,7 @@ The wedding is a registration, and each of its five steps does a piece of admini
 
 **The contract** (_Zhaolou Hou_). The two clan councils sign a contract, drafted by a Tanchéi and sealed with both clan seals. It sets out the terms of the merger: what property passes, which ancestor tablets move to the new household's shrine, what each family owes, and on what grounds the contract can be dissolved.
 
-**The petition** (_Lei Sei Chou_). A spirit document is burned at the temple, addressed to the Bureau of Creation ([[affiliation-tengwouronglei|Tsai Sei]]), asking that the new household be registered and given its Hearth Monitor. It carries the names, birth-dates and spirit animals of the couple and a statement of both families' ledgers. A petition filed with an error is held to leave the household wrongly classified from its first day, and families pay a scholar to check it twice.
+**The petition** (_Lei Sei Chou_). A spirit document is burned at the temple, addressed to the [Bureau of Creation]{.name data-type="affiliation"} (Tsai Sei), asking that the new household be registered and given its Hearth Monitor. It carries the names, birth-dates and spirit animals of the couple and a statement of both families' ledgers. A petition filed with an error is held to leave the household wrongly classified from its first day, and families pay a scholar to check it twice.
 
 **The consultation** (_Kuo Lei Wou_). Before the union is final, a Leigen speaks with the ancestors of both families to win their consent. An ancestor who objects can forbid the marriage, and defying the prohibition costs the household heavily on its ledger. Clans bargain with reluctant ancestors much as they bargain with each other, with extra offerings burned until the spirit relents.
 

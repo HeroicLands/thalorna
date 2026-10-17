@@ -34,4 +34,4 @@ data:
 sohl: {system: {commonSkills: [dunharlng]}}
 ---
 
-**Kherzulakhem Camp** is the gathering of hunters and trackers at the oasis of [[place-kherzulakhem|Kherzulakhem]]. Nobody lives there the year round. The Laws of the Well keep the peace between those who water there, trade hides and sleep in the shade, however their tribes stand.
+Kherzulakhem Camp is the gathering of hunters and trackers at the oasis of [[place-kherzulakhem|Kherzulakhem]]. Nobody lives there the year round. The [Laws of the Well]{.name data-type="lore/law"} keep the peace between those who water there, trade hides and sleep in the shade, however their tribes stand.

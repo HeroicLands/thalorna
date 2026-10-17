@@ -7,7 +7,7 @@ description: "The second caste of Tantsou—sorcerers claimed from every caste a
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-Every child in [[affiliation-tantsouempr|Tantsou]] is tested at ten, and the ones who show the gift do not go home. They become Wánduo, the second caste of the empire and its property: sorcerers born with the power to work the cosmic energy, bound to the service of the [[lore-zhazho|Zhazho]] from the day they are claimed, ranked above generals and scholars, and owning nothing, not even themselves. A Wánduo counselor sits at a Warlord's elbow and a Wánduo artificer forges the weapons the empire's enemies cannot copy, and both belong, in law, to the house they serve. The Tantsou see no contradiction in it. Their power is exactly why they are ranked high and exactly why they are owned.
+Every child in the [[affiliation-tantsouempr|Empire of Tantsou]] is tested at ten, and the ones who show the gift do not go home. They become Wánduo, the second caste of the empire and its property: sorcerers born with the power to work the cosmic energy, bound to the service of the [[lore-zhazho|Zhazho]] from the day they are claimed, ranked above generals and scholars, and owning nothing, not even themselves. A Wánduo counselor sits at a Warlord's elbow and a Wánduo artificer forges the weapons the empire's enemies cannot copy, and both belong, in law, to the house they serve. The Tantsou see no contradiction in it. Their power is exactly why they are ranked high and exactly why they are owned.
 
 ## The Testing
 
@@ -25,7 +25,7 @@ The test cuts the other way too. A child born in the compounds to Wánduo parent
 
 ## The Monopoly
 
-Magic in Tantsou belongs to the Wánduo and to no one else. A person of any other caste found working it is put to death at once, without the long inquiry the [[lore-tseising|courts]] give lesser crimes. The law exists so that every source of arcane power in the empire answers to the Zhazho and no rival school of sorcery can grow in the provinces. The [[lore-nouwen|Leigen]] of the villages, who speak with the dead, are tolerated because the Tanchéi class their gift as communion, not sorcery, and the distinction is watched closely.
+Magic in Tantsou belongs to the Wánduo and to no one else. A person of any other caste found working it is put to death at once, without the long inquiry the [[lore-tseising|courts]] give lesser crimes. The law exists so that every source of arcane power in the empire answers to the Zhazho and no rival school of sorcery can grow in the provinces. The Leigen of the villages, who speak with the dead, are tolerated because the Tanchéi class their gift as communion, not sorcery, and the distinction is watched closely.
 
 ## Rights and Restrictions
 
@@ -60,7 +60,7 @@ A Warlord who rises against the throne brings his Wánduo with him, because they
 
 ## The Elder Races
 
-No [[lore-flksinale|Sinalo]] or [[lore-flkkhazar|Khazár]] is ever classified Wánduo. Their magic is part of their nature and does not work the way human sorcery does, and the chattel system has no hold on it. The Wánduo know this better than anyone. Elder magic is the one power in the empire that does not answer to their monopoly, and the sorcerers' compounds watch the Elder enclaves with a suspicion the Tanchéi prefer not to put in writing. [[lore-elderraces|Elder Races]] says more.
+No member of the [[lore-flksinale|Sinale Folk]] or the [[lore-flkkhazar|Khazár Folk]] is ever classified Wánduo. Their magic is part of their nature and does not work the way human sorcery does, and the chattel system has no hold on it. The Wánduo know this better than anyone. Elder magic is the one power in the empire that does not answer to their monopoly, and the sorcerers' compounds watch the Elder enclaves with a suspicion the Tanchéi prefer not to put in writing. [[lore-elderraces|Elder Races]] says more.
 
 ## See Also
 

@@ -7,7 +7,7 @@ tags: [gm]
 data: {packFolder: threats}
 ---
 
-The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty that ruled it, and this generation it is pressed from four sides at once: a steppe warlord in the north, a renegade archipelago in the east, rebels and secret societies within, and things out of the earth that no register ever listed. Each of the notes below is written for the GM who wants to set a story against one of them, and most of them reach into the others: the rebel general would take the warlord's help, the fallen noble house owes the Black Lotus, and every faction plays the [[lore-weizhairui|Wei Zhai Rui]], the court's game of manipulation, even against its allies.
+The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty that ruled it, and this generation it is pressed from four sides at once: a steppe warlord in the north, a renegade archipelago in the east, rebels and secret societies within, and things out of the earth that no register ever listed. Each of the notes below is written for the GM who wants to set a story against one of them, and most of them reach into the others: the rebel general would take the warlord's help, the fallen noble house owes [[affiliation-haluozhao|Ha Luo Zhao]], and every faction plays the [[lore-weizhairui|Wei Zhai Rui]], the court's game of manipulation, even against its allies.
 
 ## War on the Frontiers
 

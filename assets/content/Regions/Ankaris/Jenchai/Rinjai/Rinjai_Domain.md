@@ -52,7 +52,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-**House Rinjai** (Red Peak) holds **Rinjai**, the mountain of the lesser island at the strait's mouth, by patent of the Emperor. Its lord is the Daozhuo **Rinjai Hoja** (Fire Blade), twenty-nine years old, who sits in the castle town of **Rinwu** (Red Hall), population 3,000. The domain holds 41,000 people, is assessed at 26,000 bales a year, and musters 650 men and 25 ships. Hoja is sworn to Shuiwojai Henzo, and Rinjai stands with the Strait bloc.
+The Rinjai Domain, held by House Rinjai (Red Peak), holds [[place-rinjai|Rinjai]], the mountain of the lesser island at the strait's mouth, by patent of the Emperor. Its lord is the Daozhuo [Rinjai Hoja]{.name data-type="being/npc"} (Fire Blade), twenty-nine years old, who sits in the castle town of [[place-rinwu|Rinwu]] (Red Hall), population 3,000. The domain holds 41,000 people, is assessed at 26,000 bales a year, and musters 650 men and 25 ships. Hoja is sworn to [Shuiwojai Henzo]{.name data-type="being/npc"}, and Rinjai stands with [The Strait]{.name data-type="affiliation"} bloc.
 
 ## The Land
 
@@ -70,15 +70,15 @@ The summit shrine of Rinjai is provisioned from the lord's villages, and its Tan
 
 ## Retainers
 
-The Wohou of Rinjai serve the house for stipends in bales, and the retainers are first of all captains: a household's standing is measured in hulls. The Shuizhuo who holds Sudu keeps the switchback road over the mountain and owes the lord men in war.
+The Wohou of Rinjai serve the house for stipends in bales, and the retainers are first of all captains: a household's standing is measured in hulls. The Shuizhuo who holds [Sudu]{.name data-type="place/settlement"} keeps the switchback road over the mountain and owes the lord men in war.
 
 ## Fleet and Muster
 
-The muster is 650 men and 25 ships. The ships lie at Jawo, and they are the raiders of the Nine: they cross the strait to the southern coast of the [[affiliation-tantsouempr|Empire of Tantsou]], which the lords of the Nine count their right, and the empire counts House Rinjai its nemesis. Hoja adds his 650 men and 25 ships to Shuiwojai's 1,950 and 60, so the Strait bloc stands at 2,600 men and 85 ships.
+The muster is 650 men and 25 ships. The ships lie at [Jawo]{.name data-type="place/settlement"}, and they are the raiders of the Nine: they cross the strait to the southern coast of the [[affiliation-tantsouempr|Empire of Tantsou]], which the lords of the Nine count their right, and the empire counts House Rinjai its nemesis. Hoja adds his 650 men and 25 ships to Shuiwojai's 1,950 and 60, so the Strait bloc stands at 2,600 men and 85 ships.
 
 ## Relations
 
-Rinjai is sworn to Shuiwojai and allied with it, and the two houses together form the Strait bloc, which wants Shuiwojai Henzo named Teng Ja. Hojujai is the rival of Shuiwojai.
+Rinjai is sworn to the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and allied with it, and the two houses together form the Strait bloc, which wants Shuiwojai Henzo named Teng Ja. The [[affiliation-hojujaidmn|Hojujai Domain]] is the rival of Shuiwojai.
 
 ## The Prefect
 

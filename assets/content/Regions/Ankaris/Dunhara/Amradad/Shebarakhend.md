@@ -14,9 +14,9 @@ data:
   government: kngdmmrdd
 ---
 
-Shebarakhend is the oasis city of the Shebarader's court and the seat of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is not the largest city of [[place-amradadrgn|Amradad]], with fifteen thousand people to [[place-tahrodan|Tahrodan]]'s thirty, and it has no need to be: the Shebarader, his Grand Vashkader, the divans and the households of the great families live here, and the business of the whole realm comes through its gates.
+Shebarakhend is the oasis city of the Shebarader's court and the seat of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is not the largest city of the [[place-amradadrgn|Amradad Region]], with fifteen thousand people to [[place-tahrodan|Tahrodan]]'s thirty, and it has no need to be: the Shebarader, his Grand Vashkader, the divans and the households of the great families live here, and the business of the whole realm comes through its gates.
 
-The city is a place of gardens behind walls, fed by the oasis that first drew the founders of the Kingdom to settle, and of libraries, academies and fire-temples whose scholars set the standard of [[affiliation-ashanpnthn|Ashaian]] learning for the desert. It is a city of astrologers too, since no great house of the court marries, travels or quarrels without consulting one, and the astrologers of Shebarakhend take retainers far beyond the walls: the elders of [[place-sorvadakhend|Sorvadakhend]] keep [[being-fakhrdtmrn|Fakhrad Tamaran]] on retainer to read the seasons for their fields.
+The city is a place of gardens behind walls, fed by the oasis that first drew the founders of the Kingdom to settle, and of libraries, academies and fire-temples whose scholars set the standard of learning within the [[affiliation-ashanpnthn|Ashaian Pantheon]] for the desert. It is a city of astrologers too, since no great house of the court marries, travels or quarrels without consulting one, and the astrologers of Shebarakhend take retainers far beyond the walls: the elders of [[place-sorvadakhend|Sorvadakhend]] keep [[being-fakhrdtmrn|Fakhrad Tamaran]] on retainer to read the seasons for their fields.
 
 ## See Also
 

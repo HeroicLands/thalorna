@@ -53,11 +53,11 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-**House Wojai** (Sea Place) holds **Yujai** (Moon Peak), the mountain on the south coast of the great island and the site of the best harbor in the realm, by patent of the Emperor. Its lord is the Daozhuo **Wojai Doja** (Great Blade), fifty-six years old, who sits in the castle town of **Yuwu** (Moon Hall), population 9,000, the largest seat of the eight houses. The domain holds 70,000 people, is assessed at 52,000 bales a year, and musters 1,300 men and 40 hulls. Wojai is independent of both blocs, and Doja has named his price to nobody.
+The Wojai Domain, held by House Wojai (Sea Place), holds [[place-yujai|Yujai]] (Moon Peak), the mountain on the south coast of the great island and the site of the best harbor in the realm, by patent of the Emperor. Its lord is the Daozhuo [Wojai Doja]{.name data-type="being/npc"} (Great Blade), fifty-six years old, who sits in the castle town of [[place-yuwu|Yuwu]] (Moon Hall), population 9,000, the largest seat of the eight houses. The domain holds 70,000 people, is assessed at 52,000 bales a year, and musters 1,300 men and 40 hulls. Wojai is independent of both blocs, and Doja has named his price to nobody.
 
 ## The Land
 
-Yujai's south face opens on a deep bay. The harbor takes the ships of the domain, of the other mountains and of the foreign trade, and the lord's money comes from it before it comes from the land. Showo, the merchants' anchorage, pays the lord in tolls; Ronu pays the court in rice and silk.
+Yujai's south face opens on a deep bay. The harbor takes the ships of the domain, of the other mountains and of the foreign trade, and the lord's money comes from it before it comes from the land. [Showo]{.name data-type="place/settlement"}, the merchants' anchorage, pays the lord in tolls; [Ronu]{.name data-type="place/settlement"} pays the court in rice and silk.
 
 Of the 52,000 bales on the roll, the three villages below are named; the rest comes from smaller terraces and coastal holdings under their headmen.
 
@@ -71,19 +71,19 @@ The summit shrine of Yujai is provisioned from the lord's villages, and its Tanc
 
 ## Retainers
 
-The **Woju** keep the harbors and hold Shodu as their fief; every berth, mooring and toll of the domain is entered in their roll. Doja's judges, chosen from his retainers, hear the harbor disputes that the anchorage at Showo and the quays at Yuwu produce.
+The [Woju]{.name data-type="affiliation/lineage"} keep the harbors and hold [Shodu]{.name data-type="place/settlement"} as their fief; every berth, mooring and toll of the domain is entered in their roll. Doja's judges, chosen from his retainers, hear the harbor disputes that the anchorage at Showo and the quays at Yuwu produce.
 
 ## Hulls and Muster
 
-The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the Vedyaran coast, and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-suryasamdra|Surva-samedra]], which is closed to shipping for four months of the year, and the Shuonong merchants of Yuwu finance the voyages.
+The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the coast of the [[place-vedyarargn|Vedyara Region]], and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-suryasamdra|Surva-samedra]], which is closed to shipping for four months of the year, and the Shuonong merchants of Yuwu finance the voyages.
 
 ## Relations
 
-Wojai belongs to neither bloc, and Doja's choice decides the balance: Wojai joining either the Strait bloc or the loyalists ends the equilibrium of the Nine. In 709 AF Wojai and Shuiwojai pressed the court not to confer the office of Teng Ja on a regency, and the War of the Empty Seat followed.
+Wojai belongs to neither bloc, and Doja's choice decides the balance: Wojai joining either [The Strait]{.name data-type="affiliation"} bloc or the loyalists ends the equilibrium of the Nine. In 709 AF Wojai and the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] pressed the court not to confer the office of Teng Ja on a regency, and the [War of the Empty Seat]{.name data-type="lore/history"} followed.
 
 ## The Pawned Bell
 
-The court pawned the bronze bell of the Dawn Rite to a merchant house of Yuwu. The bell sounds at dawn on the first day of the year on Zojai's summit, and whoever redeems it before the New Year buys the Emperor's gratitude, which costs the Emperor nothing and is prized above silver. Doja has the means to redeem it himself, and he is deciding whom among the houses to let do it.
+The court pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom"} to a merchant house of Yuwu. The bell sounds at dawn on the first day of the year on [[place-zojai|Zojai]]'s summit, and whoever redeems it before the New Year buys the Emperor's gratitude, which costs the Emperor nothing and is prized above silver. Doja has the means to redeem it himself, and he is deciding whom among the houses to let do it.
 
 ## See Also
 

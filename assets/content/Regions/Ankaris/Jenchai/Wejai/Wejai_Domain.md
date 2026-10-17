@@ -52,11 +52,11 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-**House Wejai** (Wind Peak) holds **Wejai**, the mountain of the open-ocean coast on the east of the great island, by patent of the Emperor. Its lord is the Daozhuo **Wejai Rowo** (Thunder Warrior), forty years old, who sits in the castle town of **Zuwu** (Blue Hall), population 2,200. The domain holds 38,000 people, is assessed at 24,000 bales a year, and musters 600 men and 15 ships. The house is independent of both blocs.
+The Wejai Domain, held by House Wejai (Wind Peak), holds [[place-wejai|Wejai]], the mountain of the open-ocean coast on the east of the great island, by patent of the Emperor. Its lord is the Daozhuo [Wejai Rowo]{.name data-type="being/npc"} (Thunder Warrior), forty years old, who sits in the castle town of [[place-zuwu|Zuwu]] (Blue Hall), population 2,200. The domain holds 38,000 people, is assessed at 24,000 bales a year, and musters 600 men and 15 ships. The house is independent of both blocs.
 
 ## The Land
 
-The mountain faces the open ocean, and the typhoons of the summer break on it first. Dunes and reef line the shore, and little ground is fit for terraces; the people live by the sea. Whalers and line-fishers work the coast, the reefs yield shellfish and kelp, and the pilgrim road to the cape shrine brings custom to the villages along it. The roll is paid in fish and whale-oil more than in rice; of the named villages, only Hanu pays in rice.
+The mountain faces the open ocean, and the typhoons of the summer break on it first. Dunes and reef line the shore, and little ground is fit for terraces; the people live by the sea. Whalers and line-fishers work the coast, the reefs yield shellfish and kelp, and the pilgrim road to the cape shrine brings custom to the villages along it. The roll is paid in fish and whale-oil more than in rice; of the named villages, only [Hanu]{.name data-type="place/settlement"} pays in rice.
 
 The three villages below are named on the roll; smaller landings and hamlets under their headmen make up the rest of the 24,000 bales.
 
@@ -66,7 +66,7 @@ The three villages below are named on the roll; smaller landings and hamlets und
 | Wewo    | Wind Sea      | Shrine land  | The cape shrine of the Minister of Storms | Reef fishing and pilgrims |      500 |
 | Hanu    | Dark Terraces | Court estate | The Emperor, through the lord's granary   | Rice behind the dunes     |    1,000 |
 
-The summit shrine of Wejai keeps the storm aspect of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchéi are provisioned from the lord's villages. The cape shrine of the Minister of Storms at Wewo holds its village as shrine land: the four parts of Wewo's assessment go to the shrine, not to the lord.
+The summit shrine of Wejai keeps the storm aspect of the [[affiliation-tengwouronglei|Téngwou Rong Lei]], and its Tanchéi are provisioned from the lord's villages. The cape shrine of the Minister of Storms at [Wewo]{.name data-type="place/settlement"} holds its village as shrine land: the four parts of Wewo's assessment go to the shrine, not to the lord.
 
 ## Retainers
 
@@ -82,7 +82,7 @@ Wejai belongs to neither bloc. Its lord is one of the four independent houses, w
 
 ## The Wreck on the Reefs
 
-A typhoon drove a foreign hull onto the reefs of Wewo. By wreck-right the cargo is the lord's. A survivor claims to be an envoy to the court, and his letters are in the cargo. If Rowo keeps the cargo, he keeps the letters, and with them knowledge that no other house has; if he sends the man to Zojai, the letters cross Muwojai's roads.
+A typhoon drove a foreign hull onto the reefs of Wewo. By wreck-right the cargo is the lord's. A survivor claims to be an envoy to the court, and his letters are in the cargo. If Rowo keeps the cargo, he keeps the letters, and with them knowledge that no other house has; if he sends the man to [[place-zojai|Zojai]], the letters cross the [[affiliation-muwojaidmn|Muwojai Domain]]'s roads.
 
 ## See Also
 

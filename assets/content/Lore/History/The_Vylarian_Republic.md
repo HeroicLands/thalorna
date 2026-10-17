@@ -55,7 +55,7 @@ the [Kandral]{.name data-type="affiliation/governmental"}, which held the Republ
 The Republic's last century was its least orderly. In 75 BF an unchanneled release at
 [[lore-recensio|The Therona of Alessa]] killed most of the Republic's senior arcanists, and in 73 BF the survivors
 drafted [[lore-kandrol|The Kandrol]], the charter of the [[affiliation-ordoarcanis|Thordimalon]]. Around 45 BF
-the dragons' standing lease was not renewed (see [[lore-ridersdisb|The Lease Refused]]), the Riders were disbanded and the [Eyrie of Arvel]{.name data-type="place/structure"} in
+the dragons' standing lease was not renewed (see [[lore-ridersdisb|The Lease Refused]]), the Riders were disbanded and the [Eyrie of Arvel]{.name data-type="place/site"} in
 [[place-arvel|Arvel]] was sealed. Civil wars, factional violence and the concentration of power in the
 hands of successful commanders carried the Senate toward its end.
 

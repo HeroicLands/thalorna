@@ -7,9 +7,9 @@ description: "Ancestor worship in Tantsou—the dead posted as advocates in heav
 data: {packFolder: celestialorder, culture: tantsouclt}
 ---
 
-A Leigen of the river villages, asked by a foreign traveler whether the Tantsou pray to their grandparents, laughed and told him no: "We feed them, and they work for us. Your dead are resting. Ours have jobs." Ancestor worship in the [[affiliation-tantsouempr|Empire of Tantsou]] is the upkeep of a working relationship between a household and its dead, and it is the faith every Tantsou practices, from the Emperor to the poorest farmer.
+A Leigen of the river villages, asked by a foreign traveler whether the Tantsou pray to their grandparents, laughed and told him no: "We feed them, and they work for us. Your dead are resting. Ours have jobs." Ancestor Worship in the [[affiliation-tantsouempr|Empire of Tantsou]] is the upkeep of a working relationship between a household and its dead, and it is the faith every Tantsou practices, from the Emperor to the poorest farmer.
 
-The dead are not gone. They are posted. When a person dies, the [[affiliation-tengwouronglei|Ministry of Final Account]] reads his **moral ledger** and assigns him by its balance. A good balance makes him an **ancestor spirit**, a minor official of heaven whose post is to argue for his living descendants before the celestial bureaucracy. A bad one sends him to labor in the lower realms for a term, or to dissolution.
+In this faith, the dead are not gone. They are posted. When a person dies, the [Ministry of Final Account]{.name data-type="affiliation"} reads his **moral ledger** and assigns him by its balance. A good balance makes him an **ancestor spirit**, a minor official of heaven whose post is to argue for his living descendants before the celestial bureaucracy. A bad one sends him to labor in the lower realms for a term, or to dissolution.
 
 An ancestor's posting is work, not rest. He files petitions for his descendants, intercedes with the officials of the bureaus and spends the credit on his own ledger to ease their way. A strong ancestor with a full ledger can turn rain toward the family's fields, lean on a magistrate's ruling or arrange good omens before a venture. A weak one, his ledger spent, can do nothing.
 
@@ -43,17 +43,17 @@ What unsettles visitors most is that **the dead give orders**. Through a Leigen,
 
 ## The Leigen
 
-The **Leigen** (spirit masters) arise in the [[lore-nouwen|Nouwén]] villages with the gift of speaking to the dead. They carry a household's business to its ancestors and bring back the answer, as interpreter, go-between and spirit-clerk. They receive and read ancestral commands, treat sickness that comes from the spirit side, often alongside the Yaiwo healers of the [[lore-tsaihuo|Tsaihuo]], perform the village rites that enter a birth, a union or a death with heaven, and settle disputes by asking the ancestors concerned to rule.
+The Leigen (spirit masters) arise in the [[lore-nouwen|Nouwén]] villages with the gift of speaking to the dead. They carry a household's business to its ancestors and bring back the answer, as interpreter, go-between and spirit-clerk. They receive and read ancestral commands, treat sickness that comes from the spirit side, often alongside the Yaiwo healers of the [[lore-tsaihuo|Tsaihuo]], perform the village rites that enter a birth, a union or a death with heaven, and settle disputes by asking the ancestors concerned to rule.
 
 A Leigen is a peasant by caste, and every caste respects him. Speaking with the dead, he speaks with heaven, and that gives him an authority caste cannot measure. Warlords and even [[lore-zhazho|Zhazho]] consult Leigen on hard spiritual questions, always in private, since to acknowledge a peasant's authority openly would break caste.
 
 ## The Elder Dead
 
-The [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]] within the empire do not keep the Tantsou rites. The Sinale honor their dead by planting trees and tending sacred groves, in private ceremonies with nothing of the ledger about them. The Khazari make memorials and keep the tools and weapons of the dead as sacred things. Both traditions stand wholly apart from the human faith, the celestial bureaucracy has no place to file them, and the [[lore-tanchei|Tanchéi]] do not look into the matter.
+The [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] within the empire do not keep the Tantsou rites. The Sinale honor their dead by planting trees and tending sacred groves, in private ceremonies with nothing of the ledger about them. The Khazari make memorials and keep the tools and weapons of the dead as sacred things. Both traditions stand wholly apart from the human faith, the celestial bureaucracy has no place to file them, and the [[lore-tanchei|Tanchéi]] do not look into the matter.
 
 ## The Festival of the Dead
 
-The greatest festival of the dead is the **Singléi Jui**, held in **Zhenyou**, the Month of Snow, at midwinter. Families provision their ancestors for the coming year: spirit money and paper goods are burned in great heaps, accounts are settled, and the Leigen speak with the dead to learn their instructions for the year ahead. It is the holiest and the costliest event of the Tantsou year, and a family that cannot keep it properly faces a year with weakened advocates in heaven. [[lore-clndrstrlgy|Calendar and Astrology]] gives the whole round of festivals.
+The greatest festival of the dead is the [Festival of the Dead]{.name data-type="lore/gathering"} (Singléi Jui), held in [Zhenyou]{.name data-type="lore/calendar"}, the Month of Snow, at midwinter. Families provision their ancestors for the coming year: spirit money and paper goods are burned in great heaps, accounts are settled, and the Leigen speak with the dead to learn their instructions for the year ahead. It is the holiest and the costliest event of the Tantsou year, and a family that cannot keep it properly faces a year with weakened advocates in heaven. [[lore-clndrstrlgy|Calendar and Astrology]] gives the whole round of festivals.
 
 ## See Also
 

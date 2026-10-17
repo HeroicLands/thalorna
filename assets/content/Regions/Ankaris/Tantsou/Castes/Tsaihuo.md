@@ -7,7 +7,7 @@ description: "The fifth caste of Tantsou—artisans and craftsmen, the Wonong wh
 data: {packFolder: castes, culture: tantsouclt}
 ---
 
-The porcelain that reaches [[place-midhalnrgn|Mídhalión]] by the Celestial Roads, the lacquered scale on a garrison soldier's back and the hands that set a broken bone in a river town all belong to one caste. The Tsaihuo are the productive middle of [[affiliation-tantsouempr|Tantsou]], the fifth caste: the artisans and craftsmen who make the empire's goods, tools, weapons and works of art, the common soldiers who carry its spears, and the Yaiwo, the healers, who stand within the caste and are deferred to by everyone above it.
+The porcelain that reaches the [[place-midhalnrgn|Mídhalión Region]] by [[lore-celestialroad|The Celestial Road]], the lacquered scale on a garrison soldier's back and the hands that set a broken bone in a river town all belong to one caste. The Tsaihuo are the productive middle of the [[affiliation-tantsouempr|Empire of Tantsou]], the fifth caste: the artisans and craftsmen who make the empire's goods, tools, weapons and works of art, the common soldiers who carry its spears, and the Yaiwo, the healers, who stand within the caste and are deferred to by everyone above it.
 
 ## The Makers
 
@@ -47,7 +47,7 @@ When a shopkeeper in a Tantsou town is robbed, it is a Wonong he goes to, and th
 
 The Yaiwo (healers) are the empire's apothecaries and physicians. They are Tsaihuo by caste, and the respect they command runs far past it: a Warlord rises when a Grand Healer enters his hall, and a Tanchéi scholar takes her advice without argument. The Tantsou say that illness does not ask a patient's caste, and neither does the healer.
 
-**What a healer believes.** The Yaiwo teach that the body is a small copy of the Great Sorting. Health is a body whose elements, organs and flows of Lei are each in their proper place, and illness is a breach of that classification: something displaced from where it belongs. Body, mind and spirit are three sortings of one person, and treating one alone leaves the work half done. A healer's Mandate of Health mirrors the Emperor's [[lore-mandatehvn|Mandate of Heaven]], each the keeping of order in its own domain, and the healer is taught that living in good order prevents more sickness than any remedy cures. [[lore-medicine|Medicine]] sets out the practice in full.
+**What a healer believes.** The Yaiwo teach that the body is a small copy of the [Great Sorting]{.name data-type="lore/cosmology"}. Health is a body whose elements, organs and flows of [Lei]{.name data-type="lore/cosmology"} are each in their proper place, and illness is a breach of that classification: something displaced from where it belongs. Body, mind and spirit are three sortings of one person, and treating one alone leaves the work half done. A healer's [Mandate of Health]{.name data-type="lore/theology"} mirrors the Emperor's [[lore-mandatehvn|Mandate of Heaven]], each the keeping of order in its own domain, and the healer is taught that living in good order prevents more sickness than any remedy cures. [[lore-medicine|Medicine]] sets out the practice in full.
 
 **The ranks.** A healer rises through four:
 
@@ -58,13 +58,13 @@ The Yaiwo (healers) are the empire's apothecaries and physicians. They are Tsaih
 
 **The two branches.** The _Yaitsai_ (herb-masters) are the apothecaries, who compound remedies from roots, leaves, minerals and animal parts. The _Zhayai_ (life-givers) are the physicians, who dress wounds, set bones, cut and stitch, and sit with the patient.
 
-**Where medicine ends.** Some illness comes from the spirit side—an ancestor who has withdrawn his advocacy, a debit on the moral ledger falling due as sickness, or the touch of the Henléi, the unsorted chaos. A Yaiwo who suspects one of these calls in a [[lore-tanchei|Tanchéi]] scholar, or in a village a Leigen, and the two treat the patient together.
+**Where medicine ends.** Some illness comes from the spirit side—an ancestor who has withdrawn his advocacy, a debit on the moral ledger falling due as sickness, or the touch of the [Henléi]{.name data-type="lore/cosmology"}, the unsorted chaos. A Yaiwo who suspects one of these calls in a [[lore-tanchei|Tanchéi]] scholar, or in a village a Leigen, and the two treat the patient together.
 
 **Public health.** The Yaiwo are responsible for the empire's sanitation, its quarantines and its response to epidemics, and they teach the common people how to keep a clean well and a clean kitchen. A province swept by plague is held to be a province whose classification is failing, and the healers who contain it are doing the empire's spiritual work as much as its medical work.
 
 ## The Elder Races
 
-Most [[lore-flksinale|Sinale]] and [[lore-flkkhazar|Khazari]] who live within the empire are classified Tsaihuo, because their work fits no other caste so well. Sinalean woodcarvers, weavers and jewelers and Khazárian smiths, masons and engineers make work that sells for many times the price of a human master's, and the richest of them live better and wield more influence than many Wohou, whatever their tablets say.
+Most [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] who live within the empire are classified Tsaihuo, because their work fits no other caste so well. Sinalean woodcarvers, weavers and jewelers and Khazárian smiths, masons and engineers make work that sells for many times the price of a human master's, and the richest of them live better and wield more influence than many Wohou, whatever their tablets say.
 
 ## See Also
 

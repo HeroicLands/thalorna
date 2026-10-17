@@ -15,9 +15,9 @@ data:
   culture: jenchaiclt
 ---
 
-**Buiwu** (White Hall) is the castle town and seat of Zenjai Tsuiwo, a town of 2,800 people on the lower slope of Zenjai. Snow lies on its roofs from the first frost until the thaw, which gives the hall its name.
+Buiwu (White Hall) is the castle town and seat of [Zenjai Tsuiwo]{.name data-type="being/npc"}, a town of 2,800 people on the lower slope of [[place-zenjai|Zenjai]]. Snow lies on its roofs from the first frost until the thaw, which gives the hall its name.
 
-The lord's hall stands on a terrace above the streets. Below it are the **granary**, where the lord's four parts in ten are delivered from the barley and late rice of the terraces and the timber and charcoal of Buimu, and the **stable-yard**, where the Maiju enter the horses that come down from Maidu. The northern levy is raised from the town's streets and the villages.
+The lord's hall stands on a terrace above the streets. Below it are the **granary**, where the lord's four parts in ten are delivered from the barley and late rice of the terraces and the timber and charcoal of [Buimu]{.name data-type="place/settlement"}, and the **stable-yard**, where the [Maiju]{.name data-type="affiliation/lineage"} enter the horses that come down from [Maidu]{.name data-type="place/settlement"}. The northern levy is raised from the town's streets and the villages.
 
 The town lives on timber, charcoal and horses. Carters take the charcoal south by the shoulder roads while they are open, and the horses go with them. In winter the town is shut in, and the granary feeds it.
 

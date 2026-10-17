@@ -53,7 +53,7 @@ data:
 sohl: {system: {commonSkills: [jurthatlng]}}
 ---
 
-**House Shuiwojai** (Strait Place) holds **Rojai** (Thunder Peak), the mountain on the west coast of the great island where it faces the strait, by patent of the Emperor. Its lord is the Daozhuo **Shuiwojai Henzo** (Tiger Lord), forty-seven years old, who sits in the castle town of **Hawu** (Dark Hall), population 7,500. The domain holds 105,000 people, is assessed at 78,000 bales a year, and musters 1,950 men and 60 ships—the largest army and the largest fleet of the eight houses. Henzo leads the Strait bloc, and the office he wants is that of Teng Ja.
+The Shuiwojai Domain, held by House Shuiwojai (Strait Place), holds [[place-rojai|Rojai]] (Thunder Peak), the mountain on the west coast of the great island where it faces the strait, by patent of the Emperor. Its lord is the Daozhuo [Shuiwojai Henzo]{.name data-type="being/npc"} (Tiger Lord), forty-seven years old, who sits in the castle town of [[place-hawu|Hawu]] (Dark Hall), population 7,500. The domain holds 105,000 people, is assessed at 78,000 bales a year, and musters 1,950 men and 60 ships—the largest army and the largest fleet of the eight houses. Henzo leads [The Strait]{.name data-type="affiliation"} bloc, and the office he wants is that of Teng Ja.
 
 ## The Land
 
@@ -67,23 +67,23 @@ Three of Rojai's villages are named here. The rest of the 78,000 bales comes fro
 | Kowo    | Old Sea          | Demesne      | The lord's granary at Hawu              | Shipyards and fishing |    3,100 |
 | Rounu   | Thunder Terraces | Court estate | The Emperor, through the lord's granary | Rice under Rojai      |    1,800 |
 
-The summit shrine of Rojai keeps the storm aspect of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchéi are provisioned from the lord's villages.
+The summit shrine of Rojai keeps the storm aspect of the [[affiliation-tengwouronglei|Téngwou Rong Lei]], and its Tanchéi are provisioned from the lord's villages.
 
 ## Retainers
 
-The **Besheju** keep the salt records and hold Beshenu as their fief. No salt leaves the pans without an entry in their roll, and the granary at Hawu is paid from it. Beneath Henzo the domain's Shuizhuo hold one to three villages apiece for the men they owe him in war.
+The [Besheju]{.name data-type="affiliation/lineage"} keep the salt records and hold [Beshenu]{.name data-type="place/settlement"} as their fief. No salt leaves the pans without an entry in their roll, and the granary at Hawu is paid from it. Beneath Henzo the domain's Shuizhuo hold one to three villages apiece for the men they owe him in war.
 
 ## Fleet and Muster
 
-The muster is 1,950 men and 60 ships. The yards at Kowo build and refit the fleet, and the ships keep the water between Rojai and the mainland coast; the raids on Tantsou's shore that the lords of the Nine count as their right sail from Rojai among other harbors. The [[affiliation-tantsouempr|Empire of Tantsou]] counts House Shuiwojai its nemesis. Rinjai Hoja, the lord of the lesser island, is sworn to Henzo and adds 650 men and 25 ships, so the Strait bloc stands at 2,600 men and 85 ships.
+The muster is 1,950 men and 60 ships. The yards at [Kowo]{.name data-type="place/settlement"} build and refit the fleet, and the ships keep the water between Rojai and the mainland coast; the raids on Tantsou's shore that the lords of the Nine count as their right sail from Rojai among other harbors. The [[affiliation-tantsouempr|Empire of Tantsou]] counts House Shuiwojai its nemesis. [Rinjai Hoja]{.name data-type="being/npc"}, the lord of the lesser island, is sworn to Henzo and adds 650 men and 25 ships, so the Strait bloc stands at 2,600 men and 85 ships.
 
 ## Relations
 
-For three years Henzo's silver has covered the shortfall in the court's budget, and the court is in his debt. The lord of Rojai is the rival of Hojujai, the house of the last Teng Ja: in 709 AF Shuiwojai and Wojai pressed the court not to confer the office on a regency, and the War of the Empty Seat followed. The Strait bloc wants Henzo named Teng Ja. The loyalist bloc of Hojujai and Muwojai wants the office for the Hojujai heir when he comes of age, or for nobody.
+For three years Henzo's silver has covered the shortfall in the court's budget, and the court is in his debt. The lord of Rojai is the rival of the [[affiliation-hojujaidmn|Hojujai Domain]], the house of the last Teng Ja: in 709 AF Shuiwojai and the [[affiliation-wojaidmn|Wojai Domain]] pressed the court not to confer the office on a regency, and the [War of the Empty Seat]{.name data-type="lore/history"} followed. The Strait bloc wants Henzo named Teng Ja. The loyalist bloc of Hojujai and the [[affiliation-muwojaidmn|Muwojai Domain]] wants the office for the Hojujai heir when he comes of age, or for nobody.
 
 ## The Sealed Letter
 
-Henzo has petitioned for the office, and the Emperor has answered with a sealed letter. The letter must leave Zojai by the roads that Muwojai keeps and cross Muwojai's ferry at Zuju, and Muwojai is a loyalist house. Until the letter reaches Hawu, Henzo does not know whether he holds the office, and he does not trust the hands that carry it.
+Henzo has petitioned for the office, and the Emperor has answered with a sealed letter. The letter must leave [[place-zojai|Zojai]] by the roads that Muwojai keeps and cross Muwojai's ferry at [Zuju]{.name data-type="place/settlement"}, and Muwojai is a loyalist house. Until the letter reaches Hawu, Henzo does not know whether he holds the office, and he does not trust the hands that carry it.
 
 ## See Also
 
