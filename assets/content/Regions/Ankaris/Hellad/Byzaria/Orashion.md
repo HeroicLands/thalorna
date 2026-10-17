@@ -70,11 +70,11 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Órashion is the one League city where the people who make the goods have a say in how the city is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on the city council with as much authority as the merchant-princes. About 1.6 million people live in the city-state, whose seat is [[place-orashion2|Órashion]], Blackstone, in the mountainous interior of [[place-byzariargn|Bizaria]], and the others in the [[affiliation-byzarianlg|Bizarian League]] regard it as the least glamorous of the five and the one they could least do without.
+Órashion is the one city of the [[affiliation-byzarianlg|Bizarian League]] where the people who make the goods have a say in how the city is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on the city council with as much authority as the merchant-princes. About 1.6 million people live in the city-state, whose seat is [[place-orashion2|Órashion]], Blackstone, in the mountainous interior of the [[place-byzariargn|Bizaria Region]], and the others in the League regard it as the least glamorous of the five and the one they could least do without.
 
 ## Who Decides
 
-A guild council and the merchant-princes share the government. The guilds control the quality and quantity of production, so a buyer who wants a blade, a cast or a commission negotiates with a guild before any merchant-prince. That makes Órashion a working-class city whose politics run more egalitarian than the oligarchies of Krusteikhos and Nesthiros, or at least more contentious. An ore-wagon driver on the mountain road says it from his own seat: "I know whose seal is on my load before I know its weight."
+A guild council and the merchant-princes share the government. The guilds control the quality and quantity of production, so a buyer who wants a blade, a cast or a commission negotiates with a guild before any merchant-prince. That makes Órashion a working-class city whose politics run more egalitarian than the oligarchies of [[affiliation-khryshteikhos|Krusteikhos]] and [[affiliation-nesthiros|Nesthiros]], or at least more contentious. An ore-wagon driver on the mountain road says it from his own seat: "I know whose seal is on my load before I know its weight."
 
 The council elects a First of the Council for a fixed term, who holds the city's seal. In Órashion the Guild Master, who speaks before the council for a chartered trade and answers for his members' conduct, sits at that table with the same authority as a merchant-prince.
 
@@ -84,11 +84,11 @@ Standing runs from the register outward. The freeman is enrolled in the city's r
 
 ## Relations
 
-Órashion makes the arms, armor and metalwork the other four cities trade, from fine jewelry to military-grade weapons. It is also the League's go-between with the highlands above it. In the high passes between the interior and Argirteikhos lie the **Vezhnur holds**, a clan-country of warrior clans under their own warlords, and a merchant-diplomat house of Órashion brokers between the League council and the holds. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
+Órashion makes the arms, armor and metalwork the other four cities trade, from fine jewelry to military-grade weapons. It is also the League's go-between with the highlands above it. In the high passes between the interior and [[place-argyrteikhos2|Argirteikhos]] lie the **[Vezhnur holds]{.name data-type="place/region"}**, a clan-country of warrior clans under their own warlords, and a merchant-diplomat house of Órashion brokers between the League council and the holds. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
 
 ## Commerce and Currency
 
-Órashion uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Órashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Órashion uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. Órashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

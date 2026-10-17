@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Do not mistake the council that meets in Krusteikhos for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the **Merchant Hall**, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about two million people from [[place-khryshteikhos2|Krusteikhos]], the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five cities and the League's capital in all but name, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
+Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the **[Merchant Hall]{.name data-type="place/structure"}**, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about two million people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five cities and the League's capital in all but name, because the League's council meets in its hall and its banking houses finance trade across half of the [[place-ankrscntnnt|Ankaris Continent]].
 
 ## Who Decides
 
@@ -86,13 +86,13 @@ Above the freeman the rungs are earned by weight. A guild master speaks for a ch
 
 ## Relations
 
-Inside the League, Krusteikhos's weight is money; Nesthiros's is ships and Argirteikhos's is the garrison, and the three together decide more than any vote. The north is Krusteikhos's own concern. The grain road leaves the city for Velanthia, Krusteikhos's bankers hold the grain contracts and its merchants own the wagons, and the Lord of the Northern March is by custom a younger son of an Krusteíkhian house. The other four cities accept this because the council's commission can be revoked, which would not be true if the March were simply Krusteikhos's.
+Inside the League, Krusteikhos's weight is money; [[affiliation-nesthiros|Nesthiros]]'s is ships and [[affiliation-argyrteikhos|Argirteikhos]]'s is the garrison, and the three together decide more than any vote. The north is Krusteikhos's own concern. The grain road leaves the city for the [[place-velanthrgn|Velanthia Region]], Krusteikhos's bankers hold the grain contracts and its merchants own the wagons, and the Lord of the [[place-northrnmrch|Northern March]] is by custom a younger son of a Krusteíkhian house. The other four cities accept this because the council's commission can be revoked, which would not be true if the March were simply Krusteikhos's.
 
-The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]], the civic faith of the League.
+The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]], whose faith traditions are the civic traditions of the League.
 
 ## Commerce and Currency
 
-Krusteikhos uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Krusteikhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Krusteikhos uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. Krusteikhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

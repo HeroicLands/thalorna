@@ -8,7 +8,7 @@ tags: [blood-field, battlefield, hellad]
 data: {demonym: null, lore: [], parents: [eastrnmrch], population: null, packFolder: byzaria}
 ---
 
-The garrison of the nearest way-fort sets a full jar of water at the edge of the field each evening and empties what is left at dawn, and the jar is the first thing a new conscript is told about. The **Thirsting Ground** is a blood-field of the silence, moderate, and the dead ground that lies between the foothill springs where [[lore-heladwells|the Battle of the Wells]] was fought.
+The garrison of the nearest way-fort sets a full jar of water at the edge of the field each evening and empties what is left at dawn, and the jar is the first thing a new conscript is told about. The **Thirsting Ground** is a blood-field of the silence, moderate, and the dead ground that lies between the foothill springs where [[lore-heladwells|The Battle of the Wells]] was fought.
 
 ## The Ground
 
@@ -20,19 +20,19 @@ The host's dead are fixed on water. A skin filled at dusk on the field is empty 
 
 ## The Jar and the Clans
 
-The jar at the field's edge is a custom of the nearest fort and not an office, set down by every garrison since the first. The steppe clans who winter under the League's truce will not camp within sight of the field. The monks of the eastern rite at [[place-argyrteikhos2|Argirteikhos]] have tried the settlement rite of [[lore-selmorosdty|Sélmoros]] twice and failed, and they say why: the dead are not theirs to place, and the rite the steppe dead needed was never said over them.
+The jar at the field's edge is a custom of the nearest fort and not an office, set down by every garrison since the first. The steppe clans who winter under the truce of the [[affiliation-byzarianlg|Bizarian League]] will not camp within sight of the field. The monks of the eastern rite at [[place-argyrteikhos2|Argirteikhos]] have tried the settlement rite of the [[affiliation-selmoros|Faith of Sélmoros]] twice and failed, and they say why: the dead are not theirs to place, and the rite the steppe dead needed was never said over them.
 
 ## Who Goes
 
-- **The March garrisons**, who keep the jar and walk the edge on patrol.
+- **The [[place-eastrnmrch|Eastern March]] garrisons**, who keep the jar and walk the edge on patrol.
 - **The monks** of the eastern rite, who come to try the rite again.
 - **Steppe elders** under truce, who come to look and leave quickly.
-- **The Servants of Vezhnurikos**, who have been seen on the field at night.
+- **The [Servants of Vezhnurikos]{.name data-type="affiliation/order"}**, who have been seen on the field at night.
 
 ## Hooks
 
 - **The best spring.** The field holds the best spring in the March, and the Lord Commander wants a fort on it. A fort needs the field settled, and a settlement needs a steppe rite that the League has never asked a steppe clan to perform.
-- **The Black Flame's night walks.** The Servants of Vezhnurikos have been seen walking the field after dark, and a field the [[affiliation-blackflame|Black Flame]] works becomes thin.
+- **[[affiliation-blackflame|The Black Flame]]'s night walks.** The Servants of Vezhnurikos have been seen walking the field after dark, and a field the Black Flame works becomes thin.
 
 ## See Also
 

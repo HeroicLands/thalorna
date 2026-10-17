@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 0, packFolder
 
 ## Overview
 
-Trianthion was a small village in the hinterland of [[place-byzariargn|Bizaria]], and its name is now the name of a massacre. Twenty-six years ago the village refused to submit to a local lord: it turned away his tax collectors, refused his garrison, and sheltered a fugitive bandit chief who had robbed the lord's caravan. The lord hired [[affiliation-irnwlvscmpny|the Iron Wolves Company]] to take it.
+Trianthion was a small village in the hinterland of the [[place-byzariargn|Bizaria Region]], and its name is now the name of a massacre. Twenty-six years ago the village refused to submit to a local lord: it turned away his tax collectors, refused his garrison, and sheltered a fugitive bandit chief who had robbed the lord's caravan. The lord hired [[affiliation-irnwlvscmpny|The Iron Wolves Company]] to take it.
 
 ## The Massacre at Trianthion
 
@@ -18,7 +18,7 @@ The company's instructions were the standard ones for such work: enter the villa
 
 ## What It Left
 
-Trianthion is the wound the Iron Wolves have never closed. It produced the company's most famous deserter, [[being-ghymrhrptrks|Ghimaráhr Rores]], whom the company still looks for; it produced the company's veterans, such as **First-Sergeant Parzhelion Trividek**, who was a lieutenant there and has never forgiven the desertion; and it produced the reputation the company trades on, which makes the Iron Wolves synonymous, in the politics of the [[affiliation-byzarianlg|Bizarian League]], with the work the League prefers not to admit buying. If a survivor ever came forward to testify in public, the League would have to act on what happened there.
+Trianthion is the wound the Iron Wolves have never closed. It produced the company's most famous deserter, [[being-ghymrhrptrks|Ghimaráhr Rores]], whom the company still looks for; it produced the company's veterans, such as **First-Sergeant [[being-parzheliontr|Parzhelion Trividek]]**, who was a lieutenant there and has never forgiven the desertion; and it produced the reputation the company trades on, which makes the Iron Wolves synonymous, in the politics of the [[affiliation-byzarianlg|Bizarian League]], with the work the League prefers not to admit buying. If a survivor ever came forward to testify in public, the League would have to act on what happened there.
 
 ## See Also
 

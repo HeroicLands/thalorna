@@ -16,7 +16,7 @@ data:
 
 If you want your cargo inspected, Thálassos is the wrong harbor; if you want it left alone, it is the right one. The town's magistrate keeps minimal customs authority and leaves the tariffs to a handful of bonded merchants, an arrangement that suits independent traders and small-scale smugglers equally well.
 
-Thálassos—the name drawn directly from the Bizarian word for "sea"—is a modest harbor town of about 4,000, serving the [[affiliation-byzarianlg|Bizarian League]] as a waypoint for coastal merchant traffic and a refuge for ships caught by seasonal storms. It lacks the grandeur and infrastructure of [[affiliation-nesthiros|Nesthiros]] and the craft reputation of [[place-byzaris|Bizaris]], but its protected natural harbor has made it indispensable to maritime commerce moving along the coast toward the [[affiliation-cnfdrtntrzlnstts|Confederation of Taruzelian States]], [[place-provenzrgn|Provenzia Region]] and the western settlements beyond.
+Thálassos—the name drawn directly from the word for "sea" in the [[skill-byzarnlng|Bizarian Language]]—is a modest harbor town of about 4,000, serving the [[affiliation-byzarianlg|Bizarian League]] as a waypoint for coastal merchant traffic and a refuge for ships caught by seasonal storms. It lacks the grandeur and infrastructure of [[place-nesthiros2|Nesthiros]] and the craft reputation of [[place-byzaris|Bizaris]], but its protected natural harbor has made it indispensable to maritime commerce moving along the coast toward the [[place-taruzelrgn|Taruzel Region]], the [[place-provenzrgn|Provenzia Region]] and the western settlements beyond.
 
 ## The Waterfront
 
@@ -24,7 +24,7 @@ The town's character is rough and maritime. Dockworkers, sailors, merchant facto
 
 ## The Shrine
 
-The town keeps a shrine to [[affiliation-pozeras|Pozeras]], the Aureldian god of voyages and safe passage. Pilgrims making maritime vows stop in Thálassos to leave offerings, and the priests have a reputation for giving real sanctuary to those fleeing pursuit, a tradition they guard jealously whatever the League's politics.
+The town keeps a shrine to [[lore-pozerasdty|Pozeras]], the Aureldian god of voyages and safe passage. Pilgrims making maritime vows stop in Thálassos to leave offerings, and the priests have a reputation for giving real sanctuary to those fleeing pursuit, a tradition they guard jealously whatever the League's politics.
 
 ## See Also
 

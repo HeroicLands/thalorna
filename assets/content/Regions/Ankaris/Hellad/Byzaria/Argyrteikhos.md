@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The smallest of the five League cities pays for the League's defense. [[place-argyrteikhos2|Argirteikhos]] holds about 35,000 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 1.4 million that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into [[place-byzariargn|Bizaria]], and that fact settles most of what the other four cities think of it: the [[affiliation-byzarianlg|Bizarian League]] trades in peace because Argirteikhos is ready for war.
+The smallest of the five cities of the [[affiliation-byzarianlg|Bizarian League]] pays for the League's defense. [[place-argyrteikhos2|Argirteikhos]] holds about 35,000 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 1.4 million that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into the [[place-byzariargn|Bizaria Region]], and that fact settles most of what the other four cities think of it: the League trades in peace because Argirteikhos is ready for war.
 
 ## Who Decides
 
@@ -92,7 +92,7 @@ Argirteikhos is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]. 
 
 ## Commerce and Currency
 
-Argirteikhos uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Argirteikhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Argirteikhos uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. Argirteikhos is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

@@ -70,11 +70,11 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-"I will feed you, stable your camels and find you a buyer," a caravansary master of Karvashion tells a Dunhari trader on his first crossing, "and by morning you will know what each of them cost me and what each will cost you." That is the whole city-state in one welcome. Karvashion sits where the caravan road from the east divides toward the Khazryn and toward [[place-dunharargn|Dunhara]], its river valley green against the dry hills around it, and about 1.2 million people live under its council. The men who run its great caravanserais sit on that council beside the merchant-princes, and their influence rivals the merchant-princes' own.
+"I will feed you, stable your camels and find you a buyer," a caravansary master of Karvashion tells a Dunhari trader on his first crossing, "and by morning you will know what each of them cost me and what each will cost you." That is the whole city-state in one welcome. Karvashion sits where the caravan road from the east divides toward the [[place-khzryndsrtrgn|Khazryn Desert Region]] and toward the [[place-dunharargn|Dunhara Region]], its river valley green against the dry hills around it, and about 1.2 million people live under its council. The men who run its great caravanserais sit on that council beside the merchant-princes, and their influence rivals the merchant-princes' own.
 
 ## Who Decides
 
-A council of caravansary masters and merchant-princes governs the city-state from [[place-karvashion2|Karvashion]], and a First of the Council, elected by the council for a fixed term, holds the seal while he presides. The caravansary masters are shrewd and known for it. Their power comes from what passes through their yards: eastern goods first come into League hands in Karvashion's bazaars and caravanserais, so the people who house the caravans are the first in the League to see the silk, spice and incense. The Warden of the Weights, who inspects measures, coin and quality, has the bazaars as his working ground.
+A council of caravansary masters and merchant-princes governs the city-state from [[place-karvashion2|Karvashion]], and a First of the Council, elected by the council for a fixed term, holds the seal while he presides. The caravansary masters are shrewd and known for it. Their power comes from what passes through their yards: eastern goods first come into the hands of the [[affiliation-byzarianlg|Bizarian League]] in Karvashion's bazaars and caravanserais, so the people who house the caravans are the first in the League to see the silk, spice and incense. The Warden of the Weights, who inspects measures, coin and quality, has the bazaars as his working ground.
 
 ## Standing
 
@@ -82,13 +82,13 @@ The Dunhari and Khazryni merchants who keep permanent trading quarters in the ci
 
 ## Relations
 
-Karvashion has a stronger eastern character than the other League cities, and [[affiliation-ashanpnthn|Ashaian]] worship has a significant following in it, above all among the Dunhari and Khazryni merchants. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]; its reputation is for gardeners, merchants and a peaceful culture.
+Karvashion has a stronger eastern character than the other League cities, and worship of the [[affiliation-ashanpnthn|Ashaian Pantheon]] has a significant following in it, above all among the Dunhari and Khazryni merchants. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]]; its reputation is for gardeners, merchants and a peaceful culture.
 
 Its closest tie is to the [[place-southrnmrch|Southern March]], whose lord holds the Dunhara road. The caravansary masters depend on the March to keep that road open and its wells clean, and they pay for it in tolls and in gifts to the lord. The lord in turn depends on Karvashion for grain, coin and a market for the March's wool, and both would rather the League council did not look closely at how the road's revenue is divided.
 
 ## Commerce and Currency
 
-Karvashion uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under the [[affiliation-tevran|Tevran Maldor]]. Karvashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Karvashion uses the [[lore-vylrncrncy|Vylarian Currency]] (Solden / Ardin / Ogdel) as its standard currency, with full access to the paper-script system through [[affiliation-danvar|The Danvar]]-member moneylenders chartered under [[affiliation-tevran|The Tevran Maldor]]. Karvashion is a post-imperial commonwealth member—it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
