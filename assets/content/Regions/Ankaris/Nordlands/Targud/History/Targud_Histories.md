@@ -37,20 +37,20 @@ data:
           note: the frontier the horde left had to be watched from the ridge
 ---
 
-Targud's eastern border is marked by burned farms, abandoned watchtowers and forts whose duty passes
+In Histories and Legends of Targud, [[place-targud|Targud]]'s eastern border is marked by burned farms, abandoned watchtowers and forts whose duty passes
 from one district to the next. Its skalds remember defenses that failed as readily as victories. The
-watch learns the [[place-grkrhlmrgn|Grukar]] from patrols and survivors; their raids are part of the
+watch learns the [[lore-grukarfolk|Grukar Folk]] from patrols and survivors; their raids are part of the
 frontier's history, not evidence of a peace bought from a nest.
 
 ## The Kingdom's Past
 
-Targud was a kingdom of farms before it was a kingdom of forts. Its kings, the [[affiliation-kingdmtrgd|Driskaruk]], held their hall at [[place-nulthgard|Nulthgard]] above a ford in the old eastern districts for three centuries, and [[affiliation-kingdmtrgd|Skruldmil I]], about 528 to 556, raised the first watchtowers along the eastern woods when the Grukar raids grew bold. From 604 a single Grukar tribe spawned for war burned the east district by district, and in 613 it reached Nulthgard. The hirv and the eastern farmers held the ford below the hall for three days at [[place-dvulgvangr|Dvulgvangr]] and died there, and [[affiliation-kingdmtrgd|Skruldmil II]] fell back to [[place-tvalgard|Tvalgard]] and ordered every bundi in the kingdom onto the wall in turn; [[lore-burningeast|The Burning of the East]] tells it. His son [[affiliation-kingdmtrgd|Braldmil I]] raised [[place-driskborg|Draskborg]] and the beacon line about 640, which the saga of [[lore-storalddraskborg|Storald of Draskborg]] remembers from the other end.
+The [[affiliation-kingdmtrgd|Kingdom of Targud]] was a kingdom of farms before it was a kingdom of forts. Its kings, the [Driskaruk]{.name data-type="affiliation/lineage"}, held their hall at [[place-nulthgard|Nulthgard]] above a ford in the old eastern districts for three centuries, and [Skruldmil I]{.name data-type="being/npc"}, about 528 to 556, raised the first watchtowers along the eastern woods when the Grukar raids grew bold. From 604 a single Grukar tribe spawned for war burned the east district by district, and in 613 it reached Nulthgard. The hirv and the eastern farmers held the ford below the hall for three days at [[place-dvulgvangr|Dvulgvangr]] and died there, and [Skruldmil II]{.name data-type="being/npc"} fell back to [[place-tvalgard|Tvalgard]] and ordered every bundi in the kingdom onto the wall in turn; [[lore-burningeast|The Burning of the East]] tells it. His son [Braldmil I]{.name data-type="being/npc"} raised [[place-driskborg|Draskborg]] and the beacon line about 640, which the saga of [[lore-storalddraskborg|Storald of Draskborg]] remembers from the other end.
 
-Three kings have held Tvalgard since 686: [[affiliation-kingdmtrgd|Skruldmil III]], his short-lived son [[affiliation-kingdmtrgd|Thraldvir]], and [[affiliation-kingdmtrgd|Braldmil II]], king since 707. The court has had three accessions in a generation and the frontier has had none of the peace a settled succession buys.
+Three kings have held Tvalgard since 686: [Skruldmil III]{.name data-type="being/npc"}, his short-lived son [Thraldvir]{.name data-type="being/npc"}, and [Braldmil II]{.name data-type="being/npc"}, king since 707. The court has had three accessions in a generation and the frontier has had none of the peace a settled succession buys.
 
 ## The Sword Named Thirst
 
-The [[place-tvalgard|Tvalgard]] hall is said to hold [[place-tvalgard|Vrellbrandr]], the blood-brand, a sword its tellers call Thirst, behind the king's seat. In the
+The [[place-tvalgard|Tvalgard]] hall is said to hold [Vrellbrandr]{.name data-type="weapongear"}, the blood-brand, a sword its tellers call Thirst, behind the king's seat. In the
 story its hilt and scabbard are bound together with nine knots, checked each morning. Its making is
 placed before the land to the east was burned, about 590. A teller warns that it must drink when drawn or turn
 on the one who draws it. One older king's kinsman is said to have spared his own men by killing a

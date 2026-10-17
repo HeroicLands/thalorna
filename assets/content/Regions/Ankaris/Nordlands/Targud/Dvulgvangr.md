@@ -19,7 +19,7 @@ The watch at [[place-tvalgard|Tvalgard]] has one rule about Dvulgvangr that it g
 
 ## The Three Days
 
-In 613 the Grukar horde that had burned the east for nine summers reached the royal hall, and the king's hirv and the bundi of the eastern districts held this ford for three days so that the steadings behind it could empty west. About eight hundred of them died on it, and most were carried off by the Grukar, who take their dead and their enemies' alike, so that no pyre was lit for them and no grave-ale was drunk. [[lore-burningeast|The Burning of the East]] tells it; [[being-knlthnskrldmkh|Knilthann Skraldumak]], who sings every last stand in Targud's memory, does not.
+In 613 the horde of the [[lore-grukarfolk|Grukar Folk]] that had burned the east for nine summers reached the royal hall, and the king's hirv and the bundi of the eastern districts held this ford for three days so that the steadings behind it could empty west. About eight hundred of them died on it, and most were carried off by the Grukar, who take their dead and their enemies' alike, so that no pyre was lit for them and no grave-ale was drunk. [[lore-burningeast|The Burning of the East]] tells it; [[being-knlthnskrldmkh|Knilthann Skraldumak]], who sings every last stand in the [[affiliation-kingdmtrgd|Kingdom of Targud]]'s memory, does not.
 
 ## The Vrellvoll
 

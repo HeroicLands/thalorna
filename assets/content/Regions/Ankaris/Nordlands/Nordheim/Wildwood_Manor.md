@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [nordheim], population: 0, packFolder: 
 
 ## Overview
 
-Above the fishing village of [[place-thraldfjord|Thraldfjord]] in [[place-nordheim|Nordheim]] stands Wildwood Manor, the seat of **Lady Nulthira of Wildwood Manor**. The village below lives on fish. Behind the manor a forest climbs from the house to the high ground, and the forest is what the manor is for.
+Above the fishing village of [[place-thraldfjord|Thraldfjord]] in [[place-nordheim|Nordheim]] stands Wildwood Manor, the seat of **Lady [[being-nulthyra|Nulthira]] of Wildwood Manor**. The village below lives on fish. Behind the manor a forest climbs from the house to the high ground, and the forest is what the manor is for.
 
 ## The Forest and Its Keeper
 

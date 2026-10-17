@@ -22,9 +22,9 @@ The drowning the fjord has caused over the generations is recorded nowhere but i
 
 ## The Village
 
-Thraldfjord lives on what the fjord and the forest behind it give up. [[being-gnrthrvsnrvrkh|Gnarthorv Snarvaruk]] and [[being-svlthyrslvrgr|Svulthira Solvargr]] hunt and trap the hinterland, and [[being-brldthnvtrdmr|Braldthann Vetrdómr]] sews the tents the trappers carry into it. [[being-knrvrjrnskl|Knarvir Jarnskel]] keeps the small rite that asks the fjord's current for a fair season, a practice the gudi of [[affiliation-thrunvald|Thrunvald]]'s hov tolerates without naming it faith. [[place-wildwoodmnr|Wildwood Manor]] stands above the village, and its chief huntsman is Gnarthorv.
+Thraldfjord lives on what the fjord and the forest behind it give up. [[being-gnrthrvsnrvrkh|Gnarthorv Snarvaruk]] and [[being-svlthyrslvrgr|Svulthira Solvargr]] hunt and trap the hinterland, and [[being-brldthnvtrdmr|Braldthann Vetrdómr]] sews the tents the trappers carry into it. [[being-knrvrjrnskl|Knarvir Jarnskel]] keeps the small rite that asks the fjord's current for a fair season, a practice the gudi of the hov of the [[affiliation-thrunvald|Faith of Thrunvald]] tolerates without naming it faith. [[place-wildwoodmnr|Wildwood Manor]] stands above the village, and its chief huntsman is Gnarthorv.
 
-No hersvald keeps a hall here. Thraldfjord answers to the one at [[place-raltholm|Raltholm]], a half-day's row away, and sends its wergild and its disputes there when its own elders cannot settle them. A ship-grave at Thraldfjord is said to hold a captain of Nordheim's founding age ([[lore-nrdhmhstry|Histories and Legends of Nordheim]] has the family's telling).
+No hersvald keeps a hall here. Thraldfjord answers to the one at [[place-raltholm|Raltholm]], a half-day's row away, and sends its wergild and its disputes there when its own elders cannot settle them. A ship-grave at Thraldfjord is said to hold a captain of [[place-nordheim|Nordheim]]'s founding age ([[lore-nrdhmhstry|Histories and Legends of Nordheim]] has the family's telling).
 
 What the village has never had is a season it could fully trust, and that is the whole of its character: good catches come, but nobody here plans a winter on the assumption that they will.
 

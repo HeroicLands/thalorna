@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 
 An envoy who has ridden three days to see the jarl at Snarvfjord is sent to put his case to the jarl's counselor first, because the jarl will ask him anyway. An envoy who tries to hurry the jarl past his counselor finds the hall suddenly in no hurry at all.
 
-Snarvfjord is a fjord seat of the [[place-nrdlndsrgn|Nordlands]], and the songs of the Heroes of Asguard make it the court of **Jarl Hvurnvir of Snarvfjord** in the Age of Halls. The court sits at the head of the fjord, where a hall can see what is coming up the water a long way off, and squalls come down the fjord fast. The boatmen read the sky before they read anything else.
+Snarvfjord is a fjord seat of the [[place-nrdlndsrgn|Nordlands Region]], and the songs of the [[doc-heroessgrd|Heroes of Asguard]] make it the court of **Jarl [[being-hvurnvir|Hvurnvir]] of Snarvfjord** in [The Age of Halls]{.name data-type="lore/calendar"}. The court sits at the head of the fjord, where a hall can see what is coming up the water a long way off, and squalls come down the fjord fast. The boatmen read the sky before they read anything else.
 
 ## A Cautious Court
 

@@ -18,13 +18,13 @@ data:
 
 "In summer the light does not set, so neither do we," a sealer from the western coast tells a southern passenger on the season's last run. "In winter the light does not rise, and we sit very close together. The whole trick of this country is knowing which of the two you are in."
 
-Vithgard is the land of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], a small coastal realm on the western edge of the [[place-nrdlndsrgn|Nordlands]] beside [[place-nordheim|Nordheim]]. It occupies the western coast south of Nordheim's main territory, a land of ice, tundra and long winter nights, and about 300,000 people live in it. Its people are among the most isolated of the [[lore-nordheimnclt|Nordmen]]: the settlements are sparse and scattered, connected by sea routes along the coast.
+Vithgard is the land of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], a small coastal realm on the western edge of the [[place-nrdlndsrgn|Nordlands Region]] beside [[place-nordheim|Nordheim]]. It occupies the western coast south of Nordheim's main territory, a land of ice, tundra and long winter nights, and about 300,000 people live in it. Its people are among the most isolated of the [[lore-nordheimnclt|Nordmen]]: the settlements are sparse and scattered, connected by sea routes along the coast.
 
 ## Character
 
 Vithgard is a land of extremes. The brief summer brings constant daylight and a frantic burst of activity, with fishing, hunting, trading and the gathering of supplies for the winter ahead. The winter brings months of darkness, bitter cold and isolation, when communities turn inward and live on stored provisions, hunting skills and the shared warmth of the longhouse.
 
-The people of Vithgard are renowned for whaling and seal-hunting, and the hunts produce the oil, bone, blubber and hides that are the kingdom's chief trade goods. Vithgard whale-oil is prized across the north for lamps and waterproofing, and Vithgard ivory, walrus and narwhal, commands high prices among craftsmen as far south as [[place-midhalnrgn|Mídhalión Region]].
+The people of Vithgard are renowned for whaling and seal-hunting, and the hunts produce the oil, bone, blubber and hides that are the kingdom's chief trade goods. Vithgard whale-oil is prized across the north for lamps and waterproofing, and Vithgard ivory, walrus and narwhal, commands high prices among craftsmen as far south as the [[place-midhalnrgn|Mídhalión Region]].
 
 ## Places in the Land
 

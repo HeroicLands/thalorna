@@ -90,7 +90,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 Targud skalds sing a last stand as often as a victory, because the wall sees both. A bundi who comes in to [[place-tvalgard|Tvalgard]] for his first weeks on it hears the last stands first.
 
-The Kingdom of Targud holds the land of [[place-targud|Targud]], on the eastern edge of the [[place-nrdlndsrgn|Nordlands]], and about 300,000 people live under its crown. It is the most militaristic of the five kingdoms, its whole culture shaped by the need to defend against [[lore-grukarfolk|Grukar]] raids and incursions, and an outsider knows it for the Grukar frontier and the forts that rotate their duty along it. Its warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
+The Kingdom of Targud holds the land of [[place-targud|Targud]], on the eastern edge of the [[place-nrdlndsrgn|Nordlands Region]], and about 300,000 people live under its crown. It is the most militaristic of the five kingdoms, its whole culture shaped by the need to defend against raids and incursions by the [[lore-grukarfolk|Grukar Folk]], and an outsider knows it for the Grukar frontier and the forts that rotate their duty along it. Its warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
 
 ## How Targud Is Ruled
 
@@ -102,14 +102,14 @@ The forts are the kingdom's whole system of defense, and they have been since 61
 
 ## The Royal Line
 
-Targud's kings come from the **Driskaruk**, whose name says they hold the crown as a charge kept against something, and the something has always been the east. They held their hall at Nulthgard until 613 and have held it at Tvalgard since.
+Targud's kings come from the **[Driskaruk]{.name data-type="affiliation/lineage"}**, whose name says they hold the crown as a charge kept against something, and the something has always been the east. They held their hall at Nulthgard until 613 and have held it at Tvalgard since.
 
-- **Skruldmil I**, about 528 to 556, raised the first eastern watchtowers.
-- **Skruldmil II**, about 604 to 630, lost the east to the Grukar horde, moved the hall to Tvalgard and founded the fort-rotation.
-- **Braldmil I**, about 630 to 658, raised [[place-driskborg|Draskborg]] and the beacon line on the burned ground.
-- **Skruldmil III**, about 686 to 700.
-- **Thraldvir**, about 700 to 707, whose reign was the shortest in the line.
-- **Braldmil II**, king since 707.
+- **[Skruldmil I]{.name data-type="being/npc"}**, about 528 to 556, raised the first eastern watchtowers.
+- **[Skruldmil II]{.name data-type="being/npc"}**, about 604 to 630, lost the east to the Grukar horde, moved the hall to Tvalgard and founded the fort-rotation.
+- **[Braldmil I]{.name data-type="being/npc"}**, about 630 to 658, raised [[place-driskborg|Draskborg]] and the beacon line on the burned ground.
+- **[Skruldmil III]{.name data-type="being/npc"}**, about 686 to 700.
+- **[Thraldvir]{.name data-type="being/npc"}**, about 700 to 707, whose reign was the shortest in the line.
+- **[Braldmil II]{.name data-type="being/npc"}**, king since 707.
 
 Three kings in a generation is a hard run for a kingdom with three seats on Domsey, and the court at Tvalgard has learned to watch the men who stand closest to the present king. Braldmil II takes advice from his jester and denies it in public.
 
@@ -123,11 +123,11 @@ Targud's grim reputation hides one distinction: it is the kingdom with the most 
 
 ## Relations
 
-Targud lives with one fixed enemy, the Grukar of [[place-grkrhlmrgn|Grukarholm]] to the east. Its dealings with the other four kingdoms are those of an equal at the table on Domsey: [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]] and [[affiliation-kngdmvthgrd|Vithgard]] stand neither with Targud nor against it.
+Targud lives with one fixed enemy, the Grukar of the [[place-grkrhlmrgn|Grukarholm Region]] to the east. Its dealings with the other four kingdoms are those of an equal at the table on Domsey: the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the [[affiliation-kingdomlgn|Kingdom of Malagna]], the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] and the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] stand neither with Targud nor against it.
 
 ## Commerce and Currency
 
-Targud strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+Targud strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian Currency]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|The Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 

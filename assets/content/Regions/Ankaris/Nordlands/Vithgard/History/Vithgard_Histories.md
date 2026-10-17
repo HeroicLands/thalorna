@@ -47,20 +47,20 @@ data:
         - who spoke against whom at the ting, which the descendants of the accused and of the accusers tell differently
 ---
 
-Vithgard keeps long winter memories in its courts and in the work of its seers. A ruling can outlive
+In Histories and Legends of Vithgard, the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] keeps long winter memories in its courts and in the work of its seers. A ruling can outlive
 the witnesses who first heard it; a tale can change while the place it names remains.
 
 ## The Kingdom's Past
 
-Vithgard's crown has been with the [[affiliation-kngdmvthgrd|Thalmidrok]] at [[place-thrunborg|Thrunborg]] since the acclamations, and its law has been kept at [[place-logstead|Logstead]] since the [[affiliation-eidhond|Order of the Sworn Hand]] raised its mother-hall there about 330. The kingdom's hunger was as old as its kings: the [[lore-threewinters|Three Winters]] of 512 to 514 fell on Vithgard as hard as on Nordheim, and the kin-fell story is told in both. Its long dark gave it the two judgments below, the emptying of Isdal in 630 and the burning at Askholm in 679, both in the memory of men whose grandfathers saw them.
+Vithgard's crown has been with the [Thalmidrok]{.name data-type="affiliation/lineage"} at [[place-thrunborg|Thrunborg]] since the acclamations, and its law has been kept at [[place-logstead|Logstead]] since [[affiliation-eidhond|The Order of the Sworn Hand]] raised its mother-hall there about 330. The kingdom's hunger was as old as its kings: [[lore-threewinters|The Three Winters]] of 512 to 514 fell on Vithgard as hard as on [[place-nordheim|Nordheim]], and the kin-fell story is told in both. Its long dark gave it the two judgments below, the emptying of [[place-isdal|Isdal]] in 630 and the burning at [[place-askholm|Askholm]] in 679, both in the memory of men whose grandfathers saw them.
 
-King [[affiliation-kngdmvthgrd|Tvarnthann]] died in the winter dark of 694 with two sons by two wives and no heir acclaimed, and the levies fought seven summers until a Sworn Hand brought the brothers to Logstead in 701; [[lore-vthgrdsccwrs|The Vithgard Succession Wars]] tells it. [[affiliation-kngdmvthgrd|Snirvmil]] is king at Thrunborg, [[affiliation-kngdmvthgrd|Glirvorv]] holds Hrandstead for his life, and the kingdom is quiet in the way a hall is quiet before a funeral.
+King [Tvarnthann]{.name data-type="being/npc"} died in the winter dark of 694 with two sons by two wives and no heir acclaimed, and the levies fought seven summers until a Sworn Hand brought the brothers to Logstead in 701; [[lore-vthgrdsccwrs|The Vithgard Succession Wars]] tells it. [Snirvmil]{.name data-type="being/npc"} is king at Thrunborg, [Glirvorv]{.name data-type="being/npc"} holds [[place-hrandstead|Hrandstead]] for his life, and the kingdom is quiet in the way a hall is quiet before a funeral.
 
 ## The Burning at Askholm
 
 In 679, forty-one years ago, after a winter of failed whaling, a ting at [[place-dvarnvik|Dvarnvík]] accused eleven people of
 working the winds. Seven women, two plateau men who had sold wind-knots and two Dvarnvík men accused
-of _ergi_ were burned on the skerry called [[place-askholm|Askholm]]. [[place-hnarvdal|Velva Aldrhildr]] was accused but not tried. A
+of _ergi_ were burned on the skerry called [[place-askholm|Askholm]]. Velva [Aldrhildr]{.name data-type="being/npc"} was accused but not tried. A
 [[lore-swornhandrnk|Sworn Hand]] ruled that foretelling alone was no working against a named person.
 
 The ruling survives as a precedent, while the deaths remain a grievance. Some plateau clans avoid
@@ -76,7 +76,7 @@ last owner was laid. The ruling remains a claim against descendants who want to 
 The dead have not all been laid, and its farms stand empty.
 
 In a separate telling the sickness is a woman called the [[place-isdal|Grey Walker]], carrying a sieve and a
-sack. Some say she served [[affiliation-nahild|Nahild]]; others say she gives a face to disease and
+sack. Some say she served [[lore-nahilddty|Nahild]]; others say she gives a face to disease and
 winter. The emptying and the ting's judgment are remembered history. The Walker's identity is not
 known.
 
@@ -89,8 +89,8 @@ establish a public path into the fell or prove that every missing child can be c
 
 ## The Ride over Hringstead
 
-At neutral [[place-hringstead|Hringstead]], on the Nordheim–Vithgard border, people tell of a high ride on [[lore-jol|Jel]]'s ninth
-night. The tale says it once descended after a killing under the Truce and carried off the killer.
+At neutral [[place-hringstead|Hringstead]], on the Nordheim–[[place-vithgard|Vithgard]] border, people tell of a high ride on [[lore-jol|Jel]]'s ninth
+night. The tale says it once descended after a killing under [The Hall's Truce]{.name data-type="lore/custom"} and carried off the killer.
 The Truce's living keepers need no supernatural verdict to forbid a murder there. Whether the ride
 passed overhead, or answered that particular breach, remains a matter of belief.
 

@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Nobody crosses the north without crossing Norgaad," a pass-guide at [[place-tvarnmark|Tvarnmark]] tells a caravan hand who has asked whether there is a way around. "There is the sea, and then there is us." Norgaad is the land of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], at the center of the [[place-nrdlndsrgn|Nordlands]] between its western and eastern kingdoms. About 400,000 people live in it, and it straddles the great fjords and mountain passes that join the western and eastern reaches of the frozen north.
+"Nobody crosses the north without crossing Norgaad," a pass-guide at [[place-tvarnmark|Tvarnmark]] tells a caravan hand who has asked whether there is a way around. "There is the sea, and then there is us." Norgaad is the land of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], at the center of the [[place-nrdlndsrgn|Nordlands Region]] between its western and eastern kingdoms. About 400,000 people live in it, and it straddles the great fjords and mountain passes that join the western and eastern reaches of the frozen north.
 
 ## Character
 

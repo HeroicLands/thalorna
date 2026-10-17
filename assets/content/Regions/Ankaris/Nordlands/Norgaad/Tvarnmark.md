@@ -22,7 +22,7 @@ The marketplace is the heart of the town: a broad square ringed by warehouses, w
 
 ## The Looms
 
-Tvarnmark's reputation rests on its weavers and textile workers. The looms produce linen so fine it is almost gossamer, and wool dyed with plant-dyes from the southern forests that holds its color better than any other. A master textile craftsperson of extraordinary renown keeps a workshop here, and her commissions, garments for jarls and trading cloths for merchants, draw customers from as far as Vylaria and [[place-provenzrgn|Provenzia]]. Young craftspeople apprentice to her workshop to learn secrets that have been guarded across generations.
+Tvarnmark's reputation rests on its weavers and textile workers. The looms produce linen so fine it is almost gossamer, and wool dyed with plant-dyes from the southern forests that holds its color better than any other. A master textile craftsperson of extraordinary renown keeps a workshop here, and her commissions, garments for jarls and trading cloths for merchants, draw customers from as far as the [[place-vylariargn|Vylaria Region]] and the [[place-provenzrgn|Provenzia Region]]. Young craftspeople apprentice to her workshop to learn secrets that have been guarded across generations.
 
 ## Who Decides
 

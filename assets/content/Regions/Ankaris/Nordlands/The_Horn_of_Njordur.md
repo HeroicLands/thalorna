@@ -8,18 +8,18 @@ data: {templatePriority: null, packFolder: nordlands}
 sohl: {system: {weightBase: 2, valueBase: 0, durabilityBase: 12}}
 ---
 
-One of the **three regalia** required to seal away [[being-njorven|Njorven]], with the
-[[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-sprsigrid|Spear of Skraldthira]]. All three are
-needed for the [[lore-njordurritlbinding|Ritual of Binding]].
+The Horn of Hafvald is one of the **three regalia** required to seal away [[being-njorven|Njorven]], with
+[[miscgear-crwnwyrm|The Crown of the Wyrm]] and [[miscgear-sprsigrid|The Spear of Skraldthira]]. All three are
+needed for [[lore-njordurritlbinding|The Ritual of Binding]].
 
 ## Hafvald {#hafvald}
 
 The name is a difficulty, and the sagas do not resolve it.
 
-**Hafvald** is not one of the Asguardian Ten. The name belongs to an older sea-power of the
-[[place-nrdlndsrgn|Nordlands]], largely displaced by the [[lore-asvinir|Ásvinir]] and surviving chiefly in place-names, in a few coastal
-observances that priests of [[lore-thrunvalddty|Thrunvald]] tolerate without approving, and in this horn. What Hafvald was—a
-god the [[lore-asvinir|Ásvinir]] supplanted, a sea-spirit the clans placated, or something the two later traditions have
+**[Hafvald]{.name data-type="lore"}** is not one of the Ten of the [[affiliation-asguardian|Asguardian Pantheon]]. The name belongs to an older sea-power of the
+[[place-nrdlndsrgn|Nordlands Region]], largely displaced by the [[lore-asvinir|Ásvinir]] and surviving chiefly in place-names, in a few coastal
+observances that priests of the [[affiliation-thrunvald|Faith of Thrunvald]] tolerate without approving, and in this horn. What Hafvald was—a
+god the Ásvinir supplanted, a sea-spirit the clans placated, or something the two later traditions have
 confused—depends entirely on which skald is asked.
 
 What every version of the story does note is the resemblance between **Hafvald** and [[being-njorven|Njorven]]. Some
@@ -28,7 +28,7 @@ younger the first time. Some make them kin. A few, told quietly and not in halls
 thing under two names, which would raise an obvious and unwelcome question about what the Ritual of
 Binding actually invokes.
 
-[[being-grosdrnrgd|Groa]] has been advised not to pursue this question until after the sealing.
+[[being-grosdrnrgd|Groa the Seid of Norgaad]] has been advised not to pursue this question until after the sealing.
 
 ## See Also
 

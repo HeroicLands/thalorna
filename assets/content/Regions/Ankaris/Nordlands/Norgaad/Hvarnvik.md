@@ -24,7 +24,7 @@ That single advantage is the whole of the village's standing, and it makes its t
 
 Hvarnvík's tension is the ordinary one of a place whose value is seasonal and whose population is not. The village earns the kingdom's attention for four months and is left to its own fishing for the other eight, and the hersvald's visits thin out exactly when the winter work is hardest.
 
-Fishers here tell two tales of the sea: an island that rises without birds and takes a boat down with it when it dives, and a thumb tucked under when the [[affiliation-asguardian|Ten]] are counted at [[lore-sumarmal|Somarmál]]. [[lore-nrgadhstry|Histories and Legends of Norgaad]] records both, and neither adds an eleventh god to the Ten.
+Fishers here tell two tales of the sea: an island that rises without birds and takes a boat down with it when it dives, and a thumb tucked under when the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] are counted at [[lore-sumarmal|Somarmál]]. [[lore-nrgadhstry|Histories and Legends of Norgaad]] records both, and neither adds an eleventh god to the Ten.
 
 ## See Also
 

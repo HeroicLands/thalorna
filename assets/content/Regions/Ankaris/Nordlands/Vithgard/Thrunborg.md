@@ -20,7 +20,7 @@ With the first snow every hersvald in the kingdom comes to Thrunborg for the dar
 
 Thrunborg is the seat of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], a fortified town of roughly 700 souls built around the royal hall where the king holds court and the kingdom's jarls gather to settle disputes and plan its defense. The town's garrison guards the approach from the ice-choked coast, and its markets draw traders from across [[place-vithgard|Vithgard]]'s scattered settlements. In winter the kingdom's hersvaldar come within its walls for the long dark, when the ting's business is conducted by firelight and the velvur read the season's portents for the year ahead.
 
-Its name comes from [[affiliation-thrunvald|Thrunvald]], the Thunderer of the [[affiliation-asguardian|Asguardian Pantheon]]: a _-borg_, a stronghold on a height, held from a god and not from any mortal founder.
+Its name comes from [[lore-thrunvalddty|Thrunvald]], the Thunderer of the [[affiliation-asguardian|Asguardian Pantheon]]: a _-borg_, a stronghold on a height, said to be held from a god and not from any mortal founder.
 
 ## At a Glance
 

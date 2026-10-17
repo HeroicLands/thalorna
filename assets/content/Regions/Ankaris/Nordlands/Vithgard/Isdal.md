@@ -16,7 +16,7 @@ Isdal is a dale of [[place-vithgard|Vithgard]] whose farms stand empty. Ninety y
 
 The emptiness is a ruling as much as a memory. The [[place-hrandstead|Hrandstead]] ting held the empty farms for the dead, on a Sworn Hand's word, until their last owner is laid—and the dead of Isdal have not all been laid. The ruling stands as a claim against any descendant who wants to reclaim the dale, so the farms stay empty however good the grazing looks from the road.
 
-A second telling gives the sickness a body: a woman called the **Grey Walker**, carrying a sieve and a sack. Some say she served [[affiliation-nahild|Nahild]]; others say she is only a face given to disease and winter. The emptying and the ting's judgment are remembered history. Who the Walker is, nobody knows.
+A second telling gives the sickness a body: a woman called the **Grey Walker**, carrying a sieve and a sack. Some say she served [[lore-nahilddty|Nahild]]; others say she is only a face given to disease and winter. The emptying and the ting's judgment are remembered history. Who the Walker is, nobody knows.
 
 ## See Also
 

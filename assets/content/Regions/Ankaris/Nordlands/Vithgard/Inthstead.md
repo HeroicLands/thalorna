@@ -16,7 +16,7 @@ Inthstead is a steading on the borders of [[place-vithgard|Vithgard]]. The levie
 
 ## The Burning of Inthstead
 
-At **the Burning of Inthstead**, one night of the [[lore-vthgrdsccwrs|Vithgard Succession Wars]] of 694 to 701, fire took the levy's tent-lines, and the canvas that should have sheltered the men trapped them instead. Dvarnvir, a young soldier at the start of fifteen years in the levy, carried burning canvas out of his company's tent before it could close over his companions, and earned his fire tattoo for it. The night taught him that good men can be killed by the failure of their gear, and he became a tentmaker because of it.
+At **[The Burning of Inthstead]{.name data-type="lore/history"}**, one night of [[lore-vthgrdsccwrs|The Vithgard Succession Wars]] of 694 to 701, fire took the levy's tent-lines, and the canvas that should have sheltered the men trapped them instead. Dvarnvir, a young soldier at the start of fifteen years in the levy, carried burning canvas out of his company's tent before it could close over his companions, and earned his fire tattoo for it. The night taught him that good men can be killed by the failure of their gear, and he became a tentmaker because of it.
 
 ## See Also
 

@@ -8,9 +8,9 @@ tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-When the thunder comes up the seamount on [[place-thrumufjall|Thrumufjall]], the hov says it is the hammer, and a Storm-Speaker who reads the storm does not argue with the hov. **Thrúnhamarr** is the hammer of [[lore-thrunvalddty|Thrunvald]], depicted as powerful enough to crush mountains and summon thunder and lightning. The [[affiliation-thrunvald|faith]] treats it as the god's weapon against the forces pressing on the ordered world and as a tool of blessing and protection, so that battle and the sanctifying of ships meet in one symbol. The hammer stone stands for that strength and that protection.
+When the thunder comes up the seamount on [[place-thrumufjall|Thrumufjall]], the hov says it is the hammer, and a Storm-Speaker who reads the storm does not argue with the hov. **Thrúnhamarr** is the hammer of [[lore-thrunvalddty|Thrunvald]], depicted as powerful enough to crush mountains and summon thunder and lightning. The [[affiliation-thrunvald|Faith of Thrunvald]] treats it as the god's weapon against the forces pressing on the ordered world and as a tool of blessing and protection, so that battle and the sanctifying of ships meet in one symbol. The hammer stone stands for that strength and that protection.
 
-In the saga of [[being-skrldmylstrmbrn|Skrilmil Stormborn]], Thrumufjall is the mountain where the god is said to have struck the earth with the hammer. In the standard telling of [[lore-aldarlok|Aldarlok]] it lies where Thrunvald drops it, and [[lore-tvelgaett|Hamarberi]], his daughter and one of the [[lore-tvelgaett|Tvelgaett]], lifts it out of the fire.
+In the saga of [[being-skrldmylstrmbrn|Skrilmil Stormborn]], Thrumufjall is the mountain where the god is said to have struck the earth with the hammer. In the standard telling of [[lore-aldarlok|Aldarlok]] it lies where Thrunvald drops it, and [Hamarberi]{.name data-type="lore/deity"}, his daughter and one of the [[lore-tvelgaett|Tvelgaett]], lifts it out of the fire.
 
 ## The Hammer Held
 

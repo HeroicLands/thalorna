@@ -88,34 +88,34 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-"Come back when the sun is gone," a seer's steward tells the messenger a jarl of [[place-norgaad|Norgaad]] has sent to ask her a question. "She sees clearest then. Bring your patience and a warm cloak."
+"Come back when the sun is gone," a seer's steward tells the messenger a jarl of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]] has sent to ask her a question. "She sees clearest then. Bring your patience and a warm cloak."
 
-The Kingdom of Vithgard holds the land of [[place-vithgard|Vithgard]], a small coastal realm on the western edge of the [[place-nrdlndsrgn|Nordlands]], and about 300,000 people live under its crown, scattered along the coast and linked by sea routes. An outsider knows it for its whaling and sealing and for its seers, whom all five kingdoms seek out. Its whale-oil lamps light halls across the north, and Vithgard holds that it feeds half of them.
+The Kingdom of Vithgard holds the land of [[place-vithgard|Vithgard]], a small coastal realm on the western edge of the [[place-nrdlndsrgn|Nordlands Region]], and about 300,000 people live under its crown, scattered along the coast and linked by sea routes. An outsider knows it for its whaling and sealing and for its seers, whom all five kingdoms seek out. Its whale-oil lamps light halls across the north, and Vithgard holds that it feeds half of them.
 
 ## How Vithgard Is Ruled
 
 Vithgard is a monarchy with a ting, like its sister kingdoms: the king is acclaimed there and holds the realm on its consent. He keeps court at [[place-thrunborg|Thrunborg]], a fortified town of about seven hundred people where the kingdom's jarls gather to settle disputes and plan its defense, and where the kingdom's hersvaldar come within the walls for the long dark. Three jarls' seats stand behind his on [[place-domsey|Domsey]].
 
-Law is kept in more than one place. The kingdom's own ting sits at [[place-logstead|Logstead]], where the hov of [[affiliation-eidgar|Eidgar]] binds the offerings and the assembly's oath into one hearth and the [[affiliation-eidhond|Order of the Sworn Hand]] keeps its mother-hall. [[place-hrandstead|Hrandstead]], the seat of its own province under a jarl of the [[place-hrandstead|Bjarnaett]], has a ting of its own. [[place-dvarnvik|Dvarnvík]]'s ting once accused eleven people of working the winds, and the ruling of a [[lore-swornhandrnk|Sworn Hand]] that foretelling alone is no working against a named person is the reason a seer's prophecy in Vithgard is not treated as proof of sorcery.
+Law is kept in more than one place. The kingdom's own ting sits at [[place-logstead|Logstead]], where the hov of the [[affiliation-eidgar|Faith of Eidgar]] binds the offerings and the assembly's oath into one hearth and [[affiliation-eidhond|The Order of the Sworn Hand]] keeps its mother-hall. [[place-hrandstead|Hrandstead]], the seat of its own province under a jarl of the [Bjarnaett]{.name data-type="affiliation/lineage"}, has a ting of its own. [[place-dvarnvik|Dvarnvík]]'s ting once accused eleven people of working the winds, and the ruling of a [[lore-swornhandrnk|Sworn Hand]] that foretelling alone is no working against a named person is the reason a seer's prophecy in Vithgard is not treated as proof of sorcery.
 
 ## The Royal Line
 
-Vithgard's kings come from the **Thalmidrok** at Thrunborg. **Tvarnthann** reigned from about 668 to 694, through the failed whaling winter that ended in the burning at [[place-askholm|Askholm]], and died in the winter dark without an heir the ting had acclaimed. His two sons by two wives fought seven summers for the crown, and in 701 a Sworn Hand brought them to Logstead to swear the truce the kingdom lives under ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]).
+Vithgard's kings come from the **[Thalmidrok]{.name data-type="affiliation/lineage"}** at Thrunborg. **[Tvarnthann]{.name data-type="being/npc"}** reigned from about 668 to 694, through the failed whaling winter that ended in the burning at [[place-askholm|Askholm]], and died in the winter dark without an heir the ting had acclaimed. His two sons by two wives fought seven summers for the crown, and in 701 a Sworn Hand brought them to Logstead to swear the truce the kingdom lives under ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]).
 
-- **Snirvmil**, the elder, is king at Thrunborg, acclaimed by the kingdom's ting after the truce.
-- **Glirvorv**, his half-brother, holds the Hrandstead district as its jarl for his life, with his own ting under him and no voice in the succession.
+- **[Snirvmil]{.name data-type="being/npc"}**, the elder, is king at Thrunborg, acclaimed by the kingdom's ting after the truce.
+- **[Glirvorv]{.name data-type="being/npc"}**, his half-brother, holds the Hrandstead district as its jarl for his life, with his own ting under him and no voice in the succession.
 
 The truce says nothing of what becomes of Hrandstead when Glirvorv dies, and both brothers' halls have been counting the years since 701.
 
 ## Whalers, Sealers and Craftsmen
 
-The people of Vithgard are renowned for whaling and sealing. The hunt produces the oil, bone, blubber and hides that are the kingdom's chief trade goods, and Vithgard whale-oil is prized across the north for lamps and waterproofing. Walrus and narwhal ivory commands high prices among craftsmen as far south as [[place-midhalnrgn|Mídhalión Region]]. [[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|The Ice-Edge and the Rookery]] follow both hunts from the water to the lamp.
+The people of Vithgard are renowned for whaling and sealing. The hunt produces the oil, bone, blubber and hides that are the kingdom's chief trade goods, and Vithgard whale-oil is prized across the north for lamps and waterproofing. Walrus and narwhal ivory commands high prices among craftsmen as far south as the [[place-midhalnrgn|Mídhalión Region]]. [[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|The Ice-Edge and the Rookery]] follow both hunts from the water to the lamp.
 
 The coast has trades that grow from the hunt. [[place-marvstead|Marvstead]]'s carvers turn tusk and antler into the goods that carry the kingdom's name south. [[place-knarvik|Knarvík]] reinforces a ship's ribs and strakes before a whaling run or a winter crossing. Dvarnvík keeps a harbor door that never bars a ship, and [[place-hnarvdal|Hnarvdal]] keeps the kingdom's oldest reckoning-post, notched every midwinter.
 
 ## Seers and the Long Dark
 
-Vithgard's shamanic traditions are the strongest of any [[lore-nordheimnclt|Nordmen]] realm. The long dark winters are sacred time, when the veil between worlds thins and the velvur commune most clearly with the spirits, and Vithgard's seers are sought out by all five kingdoms for their prophetic gifts. The kingdom tells a story of a seer, [[place-hnarvdal|Velva Aldrhildr]], who as a child vanished into the fell above Hnarvdal and returned seven winters later with older words. The tale explains why Vithgard seeks her sight; it does not open a public path into the fell.
+Vithgard's shamanic traditions are the strongest of any [[lore-nordheimnclt|Nordmen]] realm. The long dark winters are sacred time, when the veil between worlds thins and the velvur commune most clearly with the spirits, and Vithgard's seers are sought out by all five kingdoms for their prophetic gifts. The kingdom tells a story of a seer, Velva [Aldrhildr]{.name data-type="being/npc"}, who as a child vanished into the fell above Hnarvdal and returned seven winters later with older words. The tale explains why Vithgard seeks her sight; it does not open a public path into the fell.
 
 The kingdom has also burned people accused of working the winds. [[place-askholm|Askholm]], the bare skerry off Dvarnvík, is where eleven were burned after a winter of failed whaling. Aldrhildr was accused with them and never tried, and the Sworn Hand's ruling that followed binds every ting in the kingdom. The deaths remain a grievance, and some plateau clans still avoid Dvarnvík.
 
@@ -125,11 +125,11 @@ Vithgard has fought border conflicts, and its places remember them. The levies o
 
 ## Relations
 
-Vithgard's sister kingdoms, [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]] and [[affiliation-kingdmtrgd|Targud]], stand neither with it nor against it. It sits beside Nordheim on the western coast, and the two meet at Hringstead on equal ground.
+Vithgard's sister kingdoms, the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], the [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Norgaad]] and the [[affiliation-kingdmtrgd|Kingdom of Targud]], stand neither with it nor against it. It sits beside Nordheim on the western coast, and the two meet at Hringstead on equal ground.
 
 ## Commerce and Currency
 
-Vithgard strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|the Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
+Vithgard strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian Currency]] (ethla, ankhra and bit), and no chapter of [[affiliation-danvar|The Danvar]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 

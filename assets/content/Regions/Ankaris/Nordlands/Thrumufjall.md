@@ -14,7 +14,7 @@ data:
   culture: nordheimnclt
 ---
 
-"There is the Thunderer's house, and the Speakers keep the other half of it," a boatman on the Nordheim run tells the clerk beside him as the seamount comes up out of the haze. Thrumufjall is a sheer seamount on the [[place-nordheim|Nordheim]] coast, topped by an ancient temple of [[lore-thrunvalddty|Thrunvald]] and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]]. Its summit is exposed to every storm that comes in off the water.
+"There is the Thunderer's house, and the Speakers keep the other half of it," a boatman on the [[place-nordheim|Nordheim]] run tells the clerk beside him as the seamount comes up out of the haze. Thrumufjall is a sheer seamount on the Nordheim coast, topped by an ancient temple of [[lore-thrunvalddty|Thrunvald]] and the mother-hall of [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]]. Its summit is exposed to every storm that comes in off the water.
 
 ## One Summit, Two Callings
 
