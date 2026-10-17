@@ -22,11 +22,11 @@ data:
 
 ## Overview
 
-[[affiliation-empireakhlth|Au'Khelathu]] is a single river and the land it waters: the [[place-zumeleshrvr|Zumelesh]] runs north out of the southern uplands for hundreds of leagues, through desert, to a delta on the [[place-vylarianse|Vylarian Sea]], and nineteen million people live within reach of its water. Everyone in the [[place-nrthrnfrtlrgn|Northern Fertile Region]] knows the country by its flood. Once a year the river rises over the fields and goes down again leaving black silt behind, and that silt is why the [[affiliation-empireakhlth|Empire of Au'Khelathu]] can feed more people on less ground than anywhere else in the known world.
+Au'Khelathu Region is a single river and the land it waters: [[place-zumeleshrvr|The Zumelesh]] runs north out of the southern uplands for hundreds of leagues, through desert, to a delta on the [[place-vylarianse|Vylarian Sea]], and nineteen million people live within reach of its water. Everyone in the [[place-nrthrnfrtlrgn|Northern Fertile Region]] knows the country by its flood. Once a year the river rises over the fields and goes down again leaving black silt behind, and that silt is why the [[affiliation-empireakhlth|Empire of Au'Khelathu]] can feed more people on less ground than anywhere else in the known world.
 
 "Stand on the bank and look west," a river pilot tells a passenger on the first morning above the delta. "Green for a few miles, then nothing. The line where the black soil stops is where the country stops. Everything you want is between the two lines, and so is everybody else."
 
-The river makes Au'Khelathu the exception in its region. [[place-bethuargn|Bethua]] and [[place-okharisrgn|Okharis]] draw their harvests from aqueducts and herds, and their ground is fertile only where somebody has engineered it to be. The [[lore-khelathiclt|Khelathi]] valley is fed by the river itself.
+The river makes Au'Khelathu the exception in its region. [[place-bethuargn|Bethua Region]] and [[place-okharisrgn|Okharis Region]] draw their harvests from aqueducts and herds, and their ground is fertile only where somebody has engineered it to be. The [[lore-khelathiclt|Khelathi]] valley is fed by the river itself.
 
 ## Character
 
@@ -40,13 +40,13 @@ Beyond the flood's reach is desert. West of the river, high desert and chaparral
 
 ## Peoples and Culture
 
-The region is [[lore-khelathiclt|Khelathi]]: urban, literate and hierarchical, governed by a vast scribal bureaucracy beneath the divine office of the [[lore-garauu|Gar-Au]], and organized around the temples of the [[affiliation-khelathpnthn|Khelathi Pantheon]]. A visitor learns quickly that a Khelathi asks two things of a stranger before anything else—whose house speaks for him, and which of the two hands he was taught to write.
+The region is Khelathi: urban, literate and hierarchical, governed by a vast scribal bureaucracy beneath the divine office of the [[lore-garauu|Gar-Auu]], and organized around the temples of the [[affiliation-khelathpnthn|Khelathi Pantheon]]. A visitor learns quickly that a Khelathi asks two things of a stranger before anything else—whose house speaks for him, and which of the two hands he was taught to write.
 
 Along the western margins, herding peoples graze the dry country under arrangements with the Khelathi Halzi'a (provincial governors), of the kind found on the edges of the region's other realms.
 
 ## Politics and Power
 
-The region is the heartland of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] and is administered through its thirty-nine selatu (provinces), grouped as the [[affiliation-deltaselatu|Delta Selatu]], the [[affiliation-upperrivrslt|Upper River Selatu]], the [[affiliation-borderselatu|Border Selatu]] and the [[affiliation-capitalselat|Capital Selat]] around [[place-galezkara|Galezkara]]. The frontier with Bethua to the west has never been precisely drawn, and the occasional friction along it is the region's most persistent quarrel with a neighbor.
+The region is the heartland of the Empire of Au'Khelathu and is administered through its thirty-nine selatu (provinces), grouped as [[affiliation-deltaselatu|The Delta Selatu]], [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-borderselatu|The Border Selatu]] and [[affiliation-capitalselat|The Capital Selat]] around [[place-galezkara|Galezkara]]. The frontier with Bethua to the west has never been precisely drawn, and the occasional friction along it is the region's most persistent quarrel with a neighbor.
 
 ## See Also
 

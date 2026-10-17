@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Qelt-Len-Legir** is the empire's farthest forward country, and the land of the [[affiliation-seltqltlnlgr|Selat of Qelt-Len-Legir]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], within the [[place-aukhelathrgq|Au'Khelathu Region]].
+**Qelt-Len-Legir** is the empire's farthest forward country, and the land of [[affiliation-seltqltlnlgr|The Selat of Qelt-Len-Legir]], one of [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -26,7 +26,7 @@ The forts stand beyond the first cataract and the fortress of [[place-balehen|Ba
 ## Settlements
 
 [[place-qeltlen|Qelt-Len]] (~15,000)
-: the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-qeztudty|Qeztu]].
+: the selat capital and the seat of the Halzi'a, with the chief temple of the [[affiliation-qeztu|Faith of Qeztu]].
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

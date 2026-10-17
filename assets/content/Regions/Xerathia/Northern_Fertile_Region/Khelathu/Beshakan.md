@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [aukhelathrgq], population: 0, packFold
 
 ## Overview
 
-Beshakan is desert, and the astrologers of [[place-aukhelathrgq|Au'Khelathu]] count its deep reaches among the sacred places of their craft. Forgotten ruins stand there with star maps carved into their stones by the earliest astronomers of the empire in the age of [[lore-akhfirsttab|the First Tablets]], and an astrologer who wants to see the sky as they recorded it goes deep into Beshakan to read them.
+Beshakan is desert, and the astrologers of [[place-aukhelathrgq|Au'Khelathu Region]] count its deep reaches among the sacred places of their craft. Forgotten ruins stand there with star maps carved into their stones by the earliest astronomers of the empire in the age of [[lore-akhfirsttab|The First Tablets]], and an astrologer who wants to see the sky as they recorded it goes deep into Beshakan to read them.
 
 ## The Pilgrim's Road
 
-The journey is hard and is made for a reason. [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] went deep into the deserts of Beshakan on his pilgrimage to the empire's ancient astrological sites, and what he met there was not only heat and distance: the desert's ruins hold spirits of the desert, creatures bound to the stars and followers of old cults who see in the Convergence of the Nine Moons the chance to begin an age of chaos. A wandering desert ranger called **the Silent Jackal** became his protector on the road after witnessing a celestial omen.
+The journey is hard and is made for a reason. [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]] went deep into the deserts of Beshakan on his pilgrimage to the empire's ancient astrological sites, and what he met there was not only heat and distance: the desert's ruins hold spirits of the desert, creatures bound to the stars and followers of old cults who see in [The Convergence of the Nine Moons]{.name data-type="lore/history"} the chance to begin an age of chaos. A wandering desert ranger called [[being-atenhershr|Atazkharu Sahri]], the Silent Jackal, became his protector on the road after witnessing a celestial omen.
 
 ## See Also
 

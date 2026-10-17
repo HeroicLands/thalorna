@@ -60,9 +60,9 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-[[place-zuzalulegulunome|Zu-Zalu-Legulu]], "the **Southern Land of Rule**," is the great southern march of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], the selat where the empire ends and the tribal lands begin. Its soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony and slaves that come up the river-road from the deep south, and watches the southern tribes, whose loyalty runs from grudging vassalage to open war.
+The Selat of Zu-Zalu-Legulu holds [[place-zuzalulegulunome|Zu-Zalu-Legulu]], "the **Southern Land of Rule**," the great southern march of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], the selat where the empire ends and the tribal lands begin. Its soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] is the warden of the southern frontier: he commands the cataract forts, taxes and escorts the gold, ivory, ebony and slaves that come up the river-road from the deep south, and watches the southern tribes, whose loyalty runs from grudging vassalage to open war.
 
-His patron is [[lore-qeztudty|Qeztu]], the war-god, whose cult is stronger on this frontier than anywhere in the empire. The land he holds is [[place-zuzalulegulunome|Zu-Zalu-Legulu]].
+His patron is [[lore-qeztudty|Qeztu]], the war-god, whose cult is stronger on this frontier than anywhere in the empire. The land he holds is Zu-Zalu-Legulu.
 
 ## Character
 
@@ -89,7 +89,7 @@ The warden-Halzi'a is the figure to build around. He is the empire's shield in t
 - relief-columns sent to silent forts;
 - embassies and betrayals among the southern tribes;
 - the slave-and-ivory trade, and the consciences it troubles;
-- [[affiliation-malldbndlg|Compact]] mercenaries on frontier contracts;
+- [[affiliation-malldbndlg|Málalidabandalag]] mercenaries on frontier contracts;
 - the slow question of whether the warden still answers to the throne.
 
 Gold, ivory, danger and hard soldiers are abundant. Grain, safety and any certainty about where the empire truly ends are scarce.

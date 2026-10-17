@@ -14,13 +14,13 @@ data:
   banner: khelathubnr
 ---
 
-West of the [[place-zumeleshrvr|Zumelesh]], where the black land stops and the cliffs of the high desert stand up out of the sand, a canal runs straight across the margin into a bay of the rock. At its end stands **Lut-Ithnet**, the western estate of the house of **Zu'Lemetu**: a walled house of whitewashed brick, a bronze water-gate on a stone basin, and behind it a row of tomb doors cut into the cliff face. Boatmen on the river call it the **House of Sealed Mouths**, and they say it under their breath.
+West of [[place-zumeleshrvr|The Zumelesh]], where the black land stops and the cliffs of the high desert stand up out of the sand, a canal runs straight across the margin into a bay of the rock. At its end stands **Lut-Ithnet**, the western estate of the house of [Zu'Lemetu]{.name data-type="affiliation/lineage"}: a walled house of whitewashed brick, a bronze water-gate on a stone basin, and behind it a row of tomb doors cut into the cliff face. Boatmen on the river call it the **House of Sealed Mouths**, and they say it under their breath.
 
 ## What It Is
 
 Lut-Ithnet is a funerary estate, the kind of house a great family endows so that its dead are prepared, laid in their own ground and fed for as long as the endowment lasts. Zu'Lemetu built it when the house was rich. The dead came upriver by boat to the basin, were carried through the water-gate into the preparation hall and spent their seventy days there in washing-salt and linen, and were walled into the cliff galleries with their tablets beside them. A household of embalmers, bondsmen and offering-priests lived in the house to do the work, and the estate's fields at the canal's edge fed them and the offering tables both.
 
-The house dwindled, as houses do. The last _Zabet'lutu_ of the line, **Zabegulu**, died at the estate, and her heirs live downriver and have never seen it. Since then the estate has answered to its steward, the _lemzabu_ **Gezuhati**, who has served it since before the old mistress was born and keeps its accounts in a careful hand.
+The house dwindled, as houses do. The last _Zabet'lutu_ of the line, [Zabegulu]{.name data-type="being/creature"}, died at the estate, and her heirs live downriver and have never seen it. Since then the estate has answered to its steward, the _lemzabu_ [Gezuhati]{.name data-type="being/creature"}, who has served it since before the old mistress was born and keeps its accounts in a careful hand.
 
 ## What Lies There
 
@@ -59,7 +59,7 @@ The steward sent a man downriver for a relief boat when the water dropped, by hi
 ## Who Knows of It, and What They Say
 
 - **River boatmen** know the canal and know the estate is a bad place to put in. The canal has failed this season, and they are not sorry.
-- **The temple scribes of [[lore-wethurdty|Weth'ur]]** hold copies of the house's older burial records and have had no new tablets from the estate in years. They want the originals before the heirs go to law.
+- **The temple scribes of the [[affiliation-wethur|Faith of Weth'ur]]** hold copies of the house's older burial records and have had no new tablets from the estate in years. They want the originals before the heirs go to law.
 - **The heirs of Zu'Lemetu**, a cousin line in a river town, have never visited. They have a claim on the estate and no proof of it, because the proof is in the record room.
 - **The herders of the western margin** graze nowhere near the cliff bay. They say the estate's lamps burn all night, every night.
 
@@ -93,7 +93,7 @@ The steward had the head-gate closed and sealed. The canal failed because he wan
 
 # What Is Really There {#truth .secret}
 
-**The steward.** Gezuhati kept the endowment for forty years and spent it, and let the offerings to the house's dead lapse one by one, which in the valley is a default against creditors who cannot chase it. Every dead member of Zu'Lemetu is his creditor. When a physician told him he was dying, the old mistress entered the finding in her own hand, and he saw what his Reading would hear: any one of the dead, or any servant who had seen the books, could stand and say no. He did not die. The estate's embalmer, **Lizulu**, a Lekhau of [[affiliation-garithnetau|Gar-Ithnetáu]], prepared him through the rite that makes a [[being-tereb|tereb]], and he went into it willing. He keeps to shade, does not eat, and feeds by drawing out the life of the living.
+**The steward.** Gezuhati kept the endowment for forty years and spent it, and let the offerings to the house's dead lapse one by one, which in the valley is a default against creditors who cannot chase it. Every dead member of Zu'Lemetu is his creditor. When a physician told him he was dying, the old mistress entered the finding in her own hand, and he saw what his Reading would hear: any one of the dead, or any servant who had seen the books, could stand and say no. He did not die. The estate's embalmer, [Lizulu]{.name data-type="being/creature"}, a Lekhau of [[affiliation-garithnetau|Gar-Ithnetáu]], prepared him through the rite that makes a [[being-tereb|tereb]], and he went into it willing. He keeps to shade, does not eat, and feeds by drawing out the life of the living.
 
 **The household.** Then he silenced the creditors. Zabegulu was the first. Lizulu was the last who could have spoken for the house. One by one the household died in the preparation hall and rose again as [[being-damut|damutu]], and each had its lips sewn shut with resin-soaked cord before it rose. The stitches are the working: Lizulu bound the dead to answer their master _while the mouth is closed_, and the words are cut into the edge of the main table in the sacred hand. Cut a dead mouth open and the binding fails. The dead one screams with no breath behind it, says the refusal from the litany of the Reading, _no_, and falls. Seven of the dead attend the steward in the upper house, clean and dressed, with linen wrapping under their tunics. The rest lie bound on the shelves and beds of the hall, every mouth sewn, Zabegulu on the main table with her eyes open, and Lizulu on a shelf near the light-shaft, never woken.
 
@@ -105,7 +105,7 @@ The steward had the head-gate closed and sealed. The canal failed because he wan
 
 **The ground.** The preparation hall is his Hallowed Ground. At its far end is a stone niche, freshly cut, with a lamp in it and his own name above it, and he lies there between mid-morning and mid-afternoon, slow and dulled by the hour. Destroyed anywhere else, he gathers again in the niche after a season or a year; destroyed in the hall, he is ended, and the risen dead fall where they stand. In the gatehouse wall, behind a false offering niche, is a provision store kept full of water and dried food for the household's living, which is to say for his own use of them. The vault behind the hall holds the burial goods held back for heirs and the true accounts of the endowment in Zabegulu's hand, which identify the rightful heirs and show what the steward spent.
 
-**The living.** Two of the household are alive. **Thakete**, a young bondswoman, hides among the wrapped bodies on the shelves of the locked room off the record-room passage, unsewn, gray-faced and thin, fed on until she tires crossing a room. Her brother **Wenlegir** lies in the salt of the hall, alive, and the records open an entry in his name with its closing day already set.
+**The living.** Two of the household are alive. [Thakete]{.name data-type="being/npc"}, a young bondswoman, hides among the wrapped bodies on the shelves of the locked room off the record-room passage, unsewn, gray-faced and thin, fed on until she tires crossing a room. Her brother [Wenlegir]{.name data-type="being/npc"} lies in the salt of the hall, alive, and the records open an entry in his name with its closing day already set.
 
 **The tellings, weighed.**
 

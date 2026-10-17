@@ -16,11 +16,11 @@ data:
 
 ## Overview
 
-Every cargo that reaches [[affiliation-empireakhlth|Au'Khelathu]] by water crosses one of these quays before it crosses anything else. **Amqel-Miglet** is the name for the harbors of the northern selats of [[place-aukhelathrgq|Au'Khelathu Region]], where the river's several mouths open onto the sea, and its business is a single process: goods are landed, weighed and taxed here, and until they have been, they travel upriver only as contraband.
+Every cargo that reaches [[affiliation-empireakhlth|Empire of Au'Khelathu]] by water crosses one of these quays before it crosses anything else. **Amqel-Miglet** is the name for the harbors of the northern selats of [[place-aukhelathrgq|Au'Khelathu Region]], where the river's several mouths open onto the sea, and its business is a single process: goods are landed, weighed and taxed here, and until they have been, they travel upriver only as contraband.
 
 "Weigh first and argue afterward," a weigh-house clerk tells a [[lore-taruzelianclt|Taruzelian]] shipmaster who is still shaking the tide out of his boots. "Nobody's cargo has ever been worth what he swore it was until the beam said so. After the beam it has a weight and a duty on it, and that is the only form in which it may go up the river." A merchant's fortune is made or broken at that scale, before the goods reach any market that will pay a fair price for them.
 
-The rule dates from the reign of Gez'Uzner I, the first Gar-Au after the sea-raiders' throne ([[lore-seahouse|the Closing of the Sea House]]).
+The rule dates from the reign of [Gez'Uzner I]{.name data-type="being/npc"}, the first Gar-Au after the sea-raiders' throne ([[lore-seahouse|The Closing of the Sea House]]).
 
 ## Character
 

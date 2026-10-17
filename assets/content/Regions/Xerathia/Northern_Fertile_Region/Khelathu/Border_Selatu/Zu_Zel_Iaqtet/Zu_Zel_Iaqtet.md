@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Zu-Zel-Iaqtet** is the land of the [[affiliation-selatzuzlqtt|Selat of Zu-Zel-Iaqtet]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+**Zu-Zel-Iaqtet** is the land of [[affiliation-selatzuzlqtt|The Selat of Zu-Zel-Iaqtet]], one of [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 Zu-Zel-Iaqtet, "the **Land of the Eastern Hills**," is where the empire digs its wealth out of the ground. The river-valley gives way here to the mineral-rich uplands east of the water, and out of them come gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone from which the monuments of the whole realm are raised.
 
@@ -34,7 +34,7 @@ Mining and quarrying are the whole of it. The gold and copper feed the empire's 
 - The gold and copper hill-mines—a chief source of the empire's precious and base metal
 - The turquoise and fine-stone diggings of the eastern desert
 - The hard-stone quarries that supply the empire's monuments
-- The smelter-towns and the temple-workshops of [[lore-psaqarudty|Saq'aru]]
+- The smelter-towns and the temple-workshops of the [[affiliation-psaqaru|Faith of Saq'aru]]
 - The desert quarry-roads and the forts and water-stations that guard them
 
 ## Settlements

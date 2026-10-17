@@ -16,11 +16,11 @@ data:
 
 "Count the lamps as you go in," the senior guard of the outer wall tells a new man on his first night shift. "There should be one before every door. When you find a door with none, you have found a king nobody pays for."
 
-The **Galleries of the Removed Kings** lie at the farthest reach of [[place-zugezer|Zu-Gezer]], beyond the last Way that anyone endows, where the desert shelf begins to climb toward the dunes. They are the one stretch of the royal necropolis that is allowed to look old.
+**The Galleries of the Removed Kings** lie at the farthest reach of [[place-zugezer|Zu-Gezer]], beyond the last Way that anyone endows, where the desert shelf begins to climb toward the dunes. They are the one stretch of the royal necropolis that is allowed to look old.
 
 ## How They Were Made
 
-About 2650 ST (540 AF), Meqes VI ordered the houses that held the river-front carried outward so that his own house could raise its Way at the head of the death-road ([[lore-greatremovl|the Great Removal]]). The kings came out of their tombs with their grave-goods, were carried past the last Way, and were set down in long galleries cut for them in the rock, each king behind his own door, with his name above the lintel in the order the old Way had kept. The galleries are the work of one decade and look it: the same plain cut, the same low roof, the same door in a hundred rooms.
+About 2650 ST (540 AF), [Meqes VI]{.name data-type="being/npc"} ordered the houses that held the river-front carried outward so that his own house could raise its Way at the head of the death-road ([[lore-greatremovl|The Great Removal]]). The kings came out of their tombs with their grave-goods, were carried past the last Way, and were set down in long galleries cut for them in the rock, each king behind his own door, with his name above the lintel in the order the old Way had kept. The galleries are the work of one decade and look it: the same plain cut, the same low roof, the same door in a hundred rooms.
 
 ## What Is There Now
 

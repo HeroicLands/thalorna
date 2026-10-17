@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Linmut Selat** is the land of the [[affiliation-selatlinmut|Selat of Linmut]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+**Linmut Selat** is the land of [[affiliation-selatlinmut|The Selat of Linmut]], one of [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -26,7 +26,7 @@ The fortress stands on an island in the river at the second cataract, and the se
 ## Settlements
 
 [[place-linmut|Linmut]] (~11,000)
-: the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-wethurdty|Weth'ur]].
+: the selat capital and the seat of the Halzi'a, with the chief temple of the [[affiliation-wethur|Faith of Weth'ur]].
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.

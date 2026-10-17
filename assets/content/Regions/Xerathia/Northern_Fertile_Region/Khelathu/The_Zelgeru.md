@@ -18,7 +18,7 @@ data:
 
 "Count the sacks, and then ask whose sacks they are," a Lem'Nelgir who runs a temple's lands tells a new tally-boy at the estate gate. "The grain is the same grain a lord would hold. The owner is a god."
 
-The **Zelgeru** is the name for the great temple-estates scattered through [[place-aukhelathrgq|Au'Khelathu Region]], each with its own granaries, workshops and tenant-villages. They work the land with the same grain and labor as any manor, but hold it as religious foundations rather than as a lord's demesne, and that is what lets their combined wealth rival the palace of the [[lore-garauu|Gar-Au]]. A tenant-village bound to one of the Zelgeru answers to its temple before it answers to any secular official, and the difference shows the first time a village has to choose between a temple's claim and a governor's. [[place-garlegulu|Gar-Legulu]], east of [[place-galezkara|Galezkara]], is a town built to run one such estate.
+**The Zelgeru** is the name for the great temple-estates scattered through [[place-aukhelathrgq|Au'Khelathu Region]], each with its own granaries, workshops and tenant-villages. They work the land with the same grain and labor as any manor, but hold it as religious foundations rather than as a lord's demesne, and that is what lets their combined wealth rival the palace of the [[lore-garauu|Gar-Auu]]. A tenant-village bound to one of the Zelgeru answers to its temple before it answers to any secular official, and the difference shows the first time a village has to choose between a temple's claim and a governor's. [[place-garlegulu|Gar-Legulu]], east of [[place-galezkara|Galezkara]], is a town built to run one such estate.
 
 ## Character
 

@@ -60,7 +60,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Zu-Zel-Iaqtet** holds the land of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]], the empire's strongbox and its anvil. It is a [[affiliation-borderselatu|Border Selatu]] in the fullest sense: thinly peopled, harsh and held by a soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who is as much a military governor as a lord. His charge is the mines, the smelter-towns and the long desert quarry-roads, and he guards them against the raiders of the eastern wastes.
+**The Selat of Zu-Zel-Iaqtet** holds the land of [[place-zuzeliaqtetnome|Zu-Zel-Iaqtet]], the empire's strongbox and its anvil. It is one of [[affiliation-borderselatu|The Border Selatu]] in the fullest sense: thinly peopled, harsh and held by a soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who is as much a military governor as a lord. His charge is the mines, the smelter-towns and the long desert quarry-roads, and he guards them against the raiders of the eastern wastes.
 
 Its patron is [[lore-psaqarudty|Saq'aru]], god of craft and the working of metal and stone, whom the miners and smiths worship with a directness the soft valley cults lack.
 

@@ -14,7 +14,7 @@ data:
   banner: khelathubnr
 ---
 
-West of the river, past the last canal and the last row of temple wheat, the black land ends in a line a child could step across. Beyond it the ground is red and broken, and in a fold of it lies **Zel-Qedlu**, the place of the quarrymen: a cut hillside, a ring of fallen huts and a rock-cut vault with its door walled up. The drovers who take the caravan road a short walk to the south call it the **Burial Club's Last Vault** and keep their eyes on the road when they pass.
+West of the river, past the last canal and the last row of temple wheat, the black land ends in a line a child could step across. Beyond it the ground is red and broken, and in a fold of it lies **The Burial Club's Last Vault** (Zel-Qedlu), the place of the quarrymen: a cut hillside, a ring of fallen huts and a rock-cut vault with its door walled up. The drovers who take the caravan road a short walk to the south call it the **Burial Club's Last Vault** and keep their eyes on the road when they pass.
 
 ## What Is There
 
@@ -24,15 +24,15 @@ The vault is a long gallery driven into the hill, a niche to each wall-span, a d
 
 The club failed in the seasons the work dried up. The temples that bought the stone stopped buying, the dues stopped coming in, and a fever went through the village while the purse was empty. The club paid its lector by the season, and the lector, unpaid, had gone downriver for bread. The dead of the village were walled into the gallery wrapped and unspoken, a Name to each of them still in the club's roll and no word said over any of them. The living went away, and the hall roof fell in.
 
-That is the vault. The Khelathi poor have no dread greater than this one, and [[lore-khelathiclt|the culture's own account]] says so: to die without proper rites is worse than a hard life, because a hard life ends.
+That is the vault. The Khelathi poor have no dread greater than this one, and [[lore-khelathiclt|Khelathi]] says so: to die without proper rites is worse than a hard life, because a hard life ends.
 
 ## What Moves There Now
 
 The gallery is worked at night. Quarrymen who have been dead for years haul cut stone down the passage on sledges, set it, dress it and go back for more, in rows, in silence, at the pace of a work-song nobody sings. At the first grey of morning they stop where they stand and do not move until dusk.
 
-They are driven by a struck Lekhau, **Qeltzin**, once of [[affiliation-garqeltnu|Gar-Qelt'nu]], the House of the Body. His working carries that House's marks for the made body, the [[affiliation-garithnetau|Gar-Ithnetáu]] sign for the waking, and the seal-mark of [[affiliation-garqarquzu|Gar-Qar'kuzu]] on the walled door, all cut in a hand that is good and getting worse. The House struck his name from its roll and could not strike the marks from his head.
+They are driven by a struck Lekhau, [Qeltzin]{.name data-type="being/npc"}, once of [[affiliation-garqeltnu|Gar-Qelt'nu]], the House of the Body. His working carries that House's marks for the made body, the [[affiliation-garithnetau|Gar-Ithnetáu]] sign for the waking, and the seal-mark of [[affiliation-garqarquzu|Gar-Qar'kuzu]] on the walled door, all cut in a hand that is good and getting worse. The House struck his name from its roll and could not strike the marks from his head.
 
-The dead are [[being-damut|damutu]] after a fashion, but they were bound without their Names, and the rite that binds a made servant relies on a Name to hold the thing together. Where the Name should be there is a gap, and [[lore-theshadow|the Shadow]] fills gaps. A dead quarryman a season into this work is less a man than he was, and a season after that he is not a man at all. The temples count a place where the unspoken dead lie as a blood-field of the thin kind, a _zelalgit_, the Devourer's place. Zel-Qedlu is becoming one.
+The dead are [[being-damut|damutu]] after a fashion, but they were bound without their Names, and the rite that binds a made servant relies on a Name to hold the thing together. Where the Name should be there is a gap, and [[lore-theshadow|The Shadow]] fills gaps. A dead quarryman a season into this work is less a man than he was, and a season after that he is not a man at all. The temples count a place where the unspoken dead lie as a blood-field of the thin kind, a _zelalgit_, the Devourer's place. Zel-Qedlu is becoming one.
 
 ## Who Knows of It and What They Say
 
@@ -46,7 +46,7 @@ The dead are [[being-damut|damutu]] after a fashion, but they were bound without
 
 The caravan road west of the river runs through dry country, and a day's walk from the cultivation brings a traveler to the cut hillside. There is no track from the road. A traveler who knows the quarry's old haul-way finds the dressed ramp that climbs to the vault mouth, and it is easier to find by night, by sound.
 
-The valley's guard, the Meglay, patrol only the river and the canal heads. Out here a traveler answers to nobody and is answered by nobody.
+The valley's guard, the [Meglay]{.name data-type="affiliation/governmental"}, patrol only the river and the canal heads. Out here a traveler answers to nobody and is answered by nobody.
 
 ## Hooks
 

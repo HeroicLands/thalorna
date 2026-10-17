@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Iaqet-Leqa Selat** is the land of the [[affiliation-selatiaqetlq|Selat of Iaqet-Leqa]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
+**Iaqet-Leqa Selat** is the land of [[affiliation-selatiaqetlq|The Selat of Iaqet-Leqa]], one of [[affiliation-borderselatu|The Border Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and lies within the [[place-aukhelathrgq|Au'Khelathu Region]].
 
 ## Character
 
@@ -26,7 +26,7 @@ The way to plan a journey through this selat is by its wells. The quarries lie o
 ## Settlements
 
 [[place-iaqetleqa|Iaqet-Leqa]] (~12,000)
-: the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-tjelsukdty|Tjelsur]].
+: the selat capital and the seat of the Halzi'a, with the chief temple of the [[affiliation-tjelsuk|Faith of Tjelsur]].
 
 The villages and estate-towns
 : a few hundred to a few thousand people each, clustered on the ground the water reaches and on the temple estates.

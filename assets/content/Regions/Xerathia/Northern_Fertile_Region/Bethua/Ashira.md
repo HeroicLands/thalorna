@@ -14,4 +14,4 @@ data:
   packFolder: bethua
 ---
 
-Oshira is a town in the [[place-bethuargn|Bethua]] region, the middle of Zerathia's northern shore between Okharis and Au'Khelathu, and the engineered interior behind it, held by the Matriarchy of Bethua.
+Oshira is a town in the [[place-bethuargn|Bethua Region]], the middle of [[place-xerathia|Zerathia]]'s northern shore between the [[place-okharisrgn|Okharis Region]] and the [[place-aukhelathrgq|Au'Khelathu Region]], and the engineered interior behind it, held by the [[affiliation-mtrrchybth|Matriarchy of Bethua]].

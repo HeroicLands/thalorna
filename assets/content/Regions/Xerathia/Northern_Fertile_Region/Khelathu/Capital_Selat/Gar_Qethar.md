@@ -18,7 +18,7 @@ data:
 
 The warrens occupy the low, flood-prone ground of [[place-galezkara|Galezkara]], dense and poor, built of mudbrick among and atop the ruins of older building. The people who live here do the labor the rest of the city needs done and will not do for itself. Each year when the flood rises they move out to kin, into the temple precincts or into reed shelters on the high tells, and when the water falls they come back and rebuild.
 
-Under the warrens lie the famine pits dug in the years of the hidden famine ([[lore-failfloods|the Failing Floods]]), built over by the poor who came after.
+Under the warrens lie the famine pits dug in the years of the hidden famine ([[lore-failfloods|The Failing Floods]]), built over by the poor who came after.
 
 ## See Also
 

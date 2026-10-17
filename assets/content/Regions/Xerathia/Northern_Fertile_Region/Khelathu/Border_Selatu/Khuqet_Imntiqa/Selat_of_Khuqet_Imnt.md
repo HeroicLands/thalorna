@@ -57,15 +57,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Khuqet-Imntiqa** is the far western desert march of the empire, a country of oasis-forts that watches the trade-tracks across the sand. Do not confuse it with [[place-khuqetmiglet|Khuqet-Miglet]], the garrisoned road in the northeast: that country has no [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], no temple and no render, and this one has all three. Its hereditary Halzi'a commands the selat's levies, collects its taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. His patron is the sun-god [[affiliation-uqaa|Uqa'a]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-khuqetimntiqnome|Khuqet-Imntiqa]].
+**The Selat of Khuqet-Imntiqa** is the far western desert march of the empire, a country of oasis-forts that watches the trade-tracks across the sand. Do not confuse it with [[place-khuqetmiglet|Khuqet-Miglet]], the garrisoned road in the northeast: that country has no [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], no temple and no render, and this one has all three. Its hereditary Halzi'a commands the selat's levies, collects its taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Auu]] at a distance that varies with the strength of the throne. His patron is the sun-god [[lore-uqaadty|Uqa'a]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-khuqetimntiqnome|Khuqet-Imntiqa]].
 
 ## Character
 
-A steward who comes out from the valley expects a selat to be a harvest, and learns in the first season that this one is a line of forts. The Halzi'a's work is the watch: the oasis-forts hold the wells, and the trade-tracks that cross the desert pass under their walls. His seat is [[place-khuqet|Khuqet]], where his court sits and the selat's chief temple of Uqa'a stands.
+A steward who comes out from the valley expects a selat to be a harvest, and learns in the first season that this one is a line of forts. The Halzi'a's work is the watch: the oasis-forts hold the wells, and the trade-tracks that cross the desert pass under their walls. His seat is [[place-khuqet|Khuqet]], where his court sits and the selat's chief temple of the [[affiliation-uqaa|Faith of Uqa'a]] stands.
 
 ## Commerce and Currency
 
-Khuqet-Imntiqa uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
+Khuqet-Imntiqa uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The [[affiliation-garhalzi|Gar-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
 ## See Also
 

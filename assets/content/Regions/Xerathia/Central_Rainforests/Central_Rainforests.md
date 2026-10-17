@@ -21,28 +21,28 @@ Within the forests live peoples, traditions, and life-forms that the settled emp
 
 ## Geography
 
-The rainforests occupy an enormous equatorial belt—wider east-to-west than either [[place-aureldirgn|Aureldia]] or [[place-midhalnrgn|Mídhalión]], and deeper north-to-south than most Ankarian cartographers are prepared to admit. The canopy is continuous for hundreds of miles at a time, closing over rivers, clearings, and the handful of ancient trails that thread through the interior.
+The rainforests occupy an enormous equatorial belt—wider east-to-west than either [[place-aureldirgn|Aureldia Region]] or [[place-midhalnrgn|Mídhalión Region]], and deeper north-to-south than most Ankarian cartographers are prepared to admit. The canopy is continuous for hundreds of miles at a time, closing over rivers, clearings, and the handful of ancient trails that thread through the interior.
 
 Several great rivers drain the region. Most flow north toward the [[place-vylarianse|Vylarian Sea]], cutting gorges through the highland spurs that descend from the northern crescent; others flow south into seasonally flooded wetlands that eventually give way to the savannah. These rivers are the region's highways—such highways as exist—and the river tribes cluster along them. The interior between the rivers is effectively unmapped.
 
 The climate is wet and warm year-round, with a rhythm of alternating dry and rainy seasons rather than true summer and winter. Daily afternoon thunderstorms are the norm through most of the year. Fog and mist are constant in the interior, and the air is thick with the smell of decay and growth happening simultaneously.
 
-The forest holds species of tree, vine, insect, and beast found nowhere else on Thalorna, many of them dangerous. It also holds endemic diseases—fevers, fluxes, parasites, and rots—that make long-duration expeditions by outsiders a matter of luck as much as preparation. Rainforest tribes have built up physiological and pharmacological defenses that northerners lack; a Khelathi soldier or Vylarian explorer entering the forest is reckoned to have months, not years, before disease takes them whether any enemy does or not.
+The forest holds species of tree, vine, insect, and beast found nowhere else on [[place-worldthlrn|The World of Thalorna]], many of them dangerous. It also holds endemic diseases—fevers, fluxes, parasites, and rots—that make long-duration expeditions by outsiders a matter of luck as much as preparation. Rainforest tribes have built up physiological and pharmacological defenses that northerners lack; a Khelathi soldier or Vylarian explorer entering the forest is reckoned to have months, not years, before disease takes them whether any enemy does or not.
 
 ## Peoples and Culture
 
 The forest tribes are many, small and remote, perhaps a quarter of a million people in all. Nothing stands above the tribe: a tribe is a few bands that follow one leader, and alliances, feasts and marriages between tribes are occasions, not institutions. The northern scholars who have set down anything about them record a patchwork of tribes that look alike from outside and differ greatly from within. A broad pattern recurs in four loose traditions, none of them a polity and none with borders or leaders:
 
-- **The [[lore-luwandoclt|Luwando]]** live along the great rivers. They fish, forage and hunt, keep small bank gardens, and deal cautiously with the Khelathi, Okharin and Bethuan traders who come upriver.
-- **The [[lore-yesomaclt|Yesoma]]** are the mobile foragers of the deep interior between the rivers, who keep no gardens and little contact with the north. What contact they have is mediated through the Luwando, through ritual exchanges and through trails known only to those who grew up on them.
-- **The [[lore-kubindoclt|Kubindo]]** forage in tribes each bound to one spirit-place, whose manners an elder keeps. A spirit-place has a keeper and no priesthood, and the Kubindo hold that a keeper who becomes a leader has begun to ruin the place.
-- **The [[lore-pewayeclt|Pewaye]]** live on the forest margins, north and south, keep small gardens, and hold the line between the forest and the outside, which makes them the forest's trading door.
+- The [[lore-luwandoclt|Luwando]] live along the great rivers. They fish, forage and hunt, keep small bank gardens, and deal cautiously with the Khelathi, Okharin and Bethuan traders who come upriver.
+- The [[lore-yesomaclt|Yesoma]] are the mobile foragers of the deep interior between the rivers, who keep no gardens and little contact with the north. What contact they have is mediated through the Luwando, through ritual exchanges and through trails known only to those who grew up on them.
+- The [[lore-kubindoclt|Kubindo]] forage in tribes each bound to one spirit-place, whose manners an elder keeps. A spirit-place has a keeper and no priesthood, and the Kubindo hold that a keeper who becomes a leader has begun to ruin the place.
+- The [[lore-pewayeclt|Pewaye]] live on the forest margins, north and south, keep small gardens, and hold the line between the forest and the outside, which makes them the forest's trading door.
 
 Nearly every forest person lives first by hunting, fishing and gathering.
 
-The forest peoples, the [[lore-bikoclt|Biko]], share one small common tongue, [[skill-ekpelulng|Ekpelu]], which each of their four traditions speaks with its own accent.
+The forest peoples, the [[lore-bikoclt|Biko]], share one small common tongue, [[skill-ekpelulng|Ekpelu Language]], which each of their four traditions speaks with its own accent.
 
-A small number of [[lore-flksinale|Sinale]] enclaves are rumored in the deepest forest—settlements older than any human record, wholly indifferent to the affairs of the north, and visited (it is said) only by the occasional forest shaman on a spirit-journey. Verification of these rumors is not forthcoming; the rumors themselves persist.
+A small number of [[lore-flksinale|Sinale Folk]] enclaves are rumored in the deepest forest—settlements older than any human record, wholly indifferent to the affairs of the north, and visited (it is said) only by the occasional forest shaman on a spirit-journey. Verification of these rumors is not forthcoming; the rumors themselves persist.
 
 ## Religion
 
@@ -52,7 +52,7 @@ What does recur is a recognition that the forest itself is alive in a way that m
 
 ## Politics and Power
 
-No outside power has ever ruled the Central Rainforests, and no internal power has ever unified them. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height projected commercial influence along the major rivers but abandoned any pretense of sovereignty within a generation; [[affiliation-empireakhlth|Empire of Au'Khelathu]] has long maintained a network of trading posts and occasional tributary relationships with the northernmost river-tribes, but has never attempted—and would not be able—to administer the interior. The forest's internal politics are a shifting mosaic of tribal alliances, gifts given to feared neighbours, and long feuds whose origins are often mythological rather than historical.
+No outside power has ever ruled the Central Rainforests, and no internal power has ever unified them. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height projected commercial influence along the major rivers but abandoned any pretense of sovereignty within a generation; Empire of Au'Khelathu has long maintained a network of trading posts and occasional tributary relationships with the northernmost river-tribes, but has never attempted—and would not be able—to administer the interior. The forest's internal politics are a shifting mosaic of tribal alliances, gifts given to feared neighbours, and long feuds whose origins are often mythological rather than historical.
 
 ## Trade
 
@@ -62,7 +62,7 @@ The trading relationship is never casual. Outside merchants approach the forest 
 
 ## Relations with Neighboring Regions
 
-To the **north** lies the [[place-nrthrnfrtlrgn|Northern Fertile Crescent]]—the Khelathi, Okhárian, and Bethuan civilizations whose southern frontiers fade into the forest margin. Those civilizations' attitudes toward the rainforests range from cautious trade (Au'Khelathu), mystical reverence (certain Okhárian traditions), to active avoidance (Bethua).
+To the **north** lies the [[place-nrthrnfrtlrgn|Northern Fertile Region]]—the Khelathi, Okhárian, and Bethuan civilizations whose southern frontiers fade into the forest margin. Those civilizations' attitudes toward the rainforests range from cautious trade (Au'Khelathu), mystical reverence (certain Okhárian traditions), to active avoidance ([[affiliation-mtrrchybth|Matriarchy of Bethua]]).
 
 To the **south** lie the [[place-sthrnsvnhs|Southern Savannahs]] and the nomadic hunter-tribes that follow the great seasonal migrations. The savannah peoples and the forest peoples meet along the long southern margin where jungle gives way to grassland, and maintain a mostly peaceful set of exchanges built on generations of overlapping seasonal movement.
 

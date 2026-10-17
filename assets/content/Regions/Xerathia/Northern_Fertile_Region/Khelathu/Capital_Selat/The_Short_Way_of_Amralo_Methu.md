@@ -14,13 +14,13 @@ data:
   packFolder: regkhsite
 ---
 
-"Count the tombs and then count the years," a keeper-priest tells an apprentice at the head of a crossing-road in [[place-zugezer|Zu-Gezer]], "and learn that a Way is as long as its house was." Most of the Ways run from the northern wall to the southern. The **Short Way of Amralo'Methu** runs a few hundred paces and stops.
+"Count the tombs and then count the years," a keeper-priest tells an apprentice at the head of a crossing-road in [[place-zugezer|Zu-Gezer]], "and learn that a Way is as long as its house was." Most of the Ways run from the northern wall to the southern. **The Short Way of Amralo'Methu** runs a few hundred paces and stops.
 
 It is the Way of the Vylarian house, the one the king-list enters by its throne names alone. It lies farther out along the death-road than the cursed road, a transverse avenue with two royal tombs on it and nothing beyond but bare ground, which is what the length of a Way records when a house reigned two reigns.
 
 ## How It Was Made
 
-The commander the priesthood crowned as Zab'el'Qar ([[lore-vylconquest|the Vylarian Conquest]]) died after twelve years on the throne, and the priesthood buried him as it buries any Gar-Au. His body was embalmed in the Khelathi manner, and his tomb was sealed over the grave-goods of a Vylarian general: the arms, the armor and the standard-bearer's staff that a Khelathi tomb-maker had no pattern for. His son, Zab'el'Qar II, lies beside him in a tomb of the ordinary kind. The Way was never lengthened, because the house closed with the son ([[lore-foreignhs|the Closing of the Foreign House]]).
+The commander the priesthood crowned as [Zab'el'Qar I]{.name data-type="being/npc"} ([[lore-vylconquest|The Vylarian Conquest]]) died after twelve years on the throne, and the priesthood buried him as it buries any Gar-Au. His body was embalmed in the Khelathi manner, and his tomb was sealed over the grave-goods of a Vylarian general: the arms, the armor and the standard-bearer's staff that a Khelathi tomb-maker had no pattern for. His son, [Zab'el'Qar II]{.name data-type="being/npc"}, lies beside him in a tomb of the ordinary kind. The Way was never lengthened, because the house closed with the son ([[lore-foreignhs|The Closing of the Foreign House]]).
 
 ## What Is There
 
@@ -39,7 +39,7 @@ The Short Way is not a blood-field. It holds two bodies, buried with rites, and 
 ## Hooks
 
 - **The name inside.** A Vylarian scholar is sure the commander's grave-goods carry the name he was born to, and that the name would embarrass a living senatorial house.
-- **The embassy.** A Vylarian envoy, quoted a price for the Chariot Field, asks instead to pay respects at the Short Way, and the court has to decide whether a foreign hand at a royal tomb is a concession.
+- **The embassy.** A Vylarian envoy, quoted a price for [[place-chariotfld|The Chariot Field]], asks instead to pay respects at the Short Way, and the court has to decide whether a foreign hand at a royal tomb is a concession.
 - **The lintel.** A restoration guild bids to cut the eagle off the commander's door, and a Vylarian faction wants it kept.
 
 ## See Also

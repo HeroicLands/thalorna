@@ -14,11 +14,11 @@ data:
   banner: khelathubnr
 ---
 
-A herder of [[place-zuqeztunome|Zu-Qeztu]] drives his sheep past a row of low green swellings in the pasture and does not let them graze the tops. "They are not ours," he says, and that is all he says. They are the **Horse Barrows**, and what lies in them is the oldest thing in the western country that is not the grass.
+A herder of [[place-zuqeztunome|Zu-Qeztu]] drives his sheep past a row of low green swellings in the pasture and does not let them graze the tops. "They are not ours," he says, and that is all he says. They are **The Horse Barrows**, and what lies in them is the oldest thing in the western country that is not the grass.
 
 ## How They Were Made
 
-The Tha'Ulgau came out of the hills with their horses and buried their dead with them. The first of them to die, the warriors and chiefs who rode down with the nomad chief before his crowning ([[lore-thaulgau|the Coming of the Tha'Ulgau]]), were laid in earth mounds in the grazing country of the west, unembalmed and unwrapped, each with the horse or horses that had carried him. That is the hill way. The Khelathi had no part in it and asked no questions. When the hill house closed, its kin were settled on the same pastures ([[lore-hillhouse|the Closing of the Hill House]]), and the barrows came inside the empire's border with them.
+The [Tha'Ulgau]{.name data-type="affiliation/lineage"} came out of the hills with their horses and buried their dead with them. The first of them to die, the warriors and chiefs who rode down with the nomad chief before his crowning ([[lore-thaulgau|The Coming of the Tha'Ulgau]]), were laid in earth mounds in the grazing country of the west, unembalmed and unwrapped, each with the horse or horses that had carried him. That is the hill way. The Khelathi had no part in it and asked no questions. When the hill house closed, its kin were settled on the same pastures ([[lore-hillhouse|The Closing of the Hill House]]), and the barrows came inside the empire's border with them.
 
 ## What Is There
 
@@ -28,13 +28,13 @@ No ward is cut on any of them. A Khelathi tomb carries its protection in its gly
 
 ## How the Khelathi Treat Them
 
-As unclean. A body with no embalmer, no tomb and no name read aloud has no continuation by Khelathi doctrine, and the barrows hold a good many. The villages do not cross them, and the priests of [[lore-hezmuiridty|Hezmu'iri]] do not bless them. They are not a blood-field, because the dead in them were buried by their own people and not left on the ground. The Khelathi keep away from them because the dead are foreign and unwrapped.
+As unclean. A body with no embalmer, no tomb and no name read aloud has no continuation by Khelathi doctrine, and the barrows hold a good many. The villages do not cross them, and the priests of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] do not bless them. They are not a blood-field, because the dead in them were buried by their own people and not left on the ground. The Khelathi keep away from them because the dead are foreign and unwrapped.
 
-The house of **Tha'Ulgau** does not leave them alone. Its Halzi'a rides out once a year with a few retainers and no priest, and the herders find the grass at the foot of the nearest mound pressed down in the morning.
+The house of Tha'Ulgau does not leave them alone. Its Halzi'a rides out once a year with a few retainers and no priest, and the herders find the grass at the foot of the nearest mound pressed down in the morning.
 
 ## Who Goes
 
-- **The Tha'Ulgau house**, in secret, because the priesthood does not know what the house still visits.
+- The Tha'Ulgau house, in secret, because the priesthood does not know what the house still visits.
 - **Robbers**, who find a rich grave unprotected in the Khelathi way and do not ask what protects it instead.
 - **Scholars of the conquest**, who want to know whether the first Gar-Au of the hill house lies here or in the necropolis, and what his people buried with him.
 - **Herders**, who keep their stock off the tops and say nothing.

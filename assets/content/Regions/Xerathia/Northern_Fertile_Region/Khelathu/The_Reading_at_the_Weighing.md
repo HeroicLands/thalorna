@@ -18,7 +18,7 @@ data:
   language: khelathlng
 ---
 
-Among the [[lore-khelathiclt|Khelathi]], temple scribes keep this litany for a Reading, when a dead person's temple account is read aloud before the household, the creditors and the heir. A reader speaks the fixed passages, and the account itself is read where the bracketed directions stand, entry by entry, each landing on its word: closed, or open. The litany follows the doctrine of the Weighing and goes no further than it does. It names the two accounts, [[lore-qearetdty|Qe'aret]]'s scale, Algit and the [[place-zulaten|Zulaten]], and says nothing of what the dead may do in the hall of the assembled gods.
+Among the [[lore-khelathiclt|Khelathi]], temple scribes keep The Reading at the Weighing for a Reading, when a dead person's temple account is read aloud before the household, the creditors and the heir. A reader speaks the fixed passages, and the account itself is read where the bracketed directions stand, entry by entry, each landing on its word: closed, or open. The litany follows the doctrine of the Weighing and goes no further than it does. It names the two accounts, [[lore-qearetdty|Qe'aret]]'s scale, [Algit]{.name data-type="being/creature"} and the [[place-zulaten|Zulaten]], and says nothing of what the dead may do in the hall of the assembled gods.
 
 : The Reading at the Weighing {#reading}
 
