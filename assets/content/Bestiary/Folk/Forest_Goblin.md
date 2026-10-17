@@ -266,7 +266,7 @@ A forest goblin stands three to four feet tall, wiry and long-limbed, built for 
 
 ## In the Land
 
-The Vristwald is the forest-and-river belt between the Nordlands, Aureldia and Velanthia, taiga and mixed woodland and slow rivers, and the [[lore-varokhiclt|Varokh]] hold most of it. The goblins hold the parts nobody else wants: the Vethwald's interior, where the canopy shuts out the sun, the deep hollows and the bogs, and the marginal woods between the settled districts. Each goblin hunts its own ground through the trees and keeps its own lairs, a hollow trunk here, a platform in a canopy there, and bands form and dissolve with the hunting. They take deer, pigs, birds, the Varokh villages' stock and the travelers on the rivers, and they trade with anyone who has something they want and is not stupid.
+The Vristwald is the forest-and-river belt between the [[place-nrdlndsrgn|Nordlands Region]], [[place-aureldirgn|Aureldia Region]] and [[place-velanthrgn|Velanthia Region]], taiga and mixed woodland and slow rivers, and the [[lore-varokhiclt|Varokhi]] people hold most of it. The goblins hold the parts nobody else wants: the Vethwald's interior, where the canopy shuts out the sun, the deep hollows and the bogs, and the marginal woods between the settled districts. Each goblin hunts its own ground through the trees and keeps its own lairs, a hollow trunk here, a platform in a canopy there, and bands form and dissolve with the hunting. They take deer, pigs, birds, the Varokh villages' stock and the travelers on the rivers, and they trade with anyone who has something they want and is not stupid.
 
 ## Key Behaviors
 

@@ -155,7 +155,7 @@ The flat stone in the sun has a faint pattern on it that was not there a moment 
 
 # Dossier {#dossier}
 
-Venomous snakes are the ambush hunters of the warm country, three to six feet long, lying coiled in the rocky gorges and thorn scrub of the Bizarian [[place-southrnmrch|Southern March]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]], the rock country of the [[place-dunhardsrtrgn|Dunhara Desert]] and the forest floor of wetter lands. The coloring depends on kind and country. A snake waits motionless for hours beside a game-trail for something to come within reach, and a bite from one can kill.
+The Poisonous Snake is a venomous ambush hunter of the warm country, three to six feet long, lying coiled in the rocky gorges and thorn scrub of the Bizarian [[place-southrnmrch|Southern March]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]], the rock country of the [[place-dunhardsrtrgn|Dunhara Desert Region]] and the forest floor of wetter lands. The coloring depends on kind and country. A snake waits motionless for hours beside a game-trail for something to come within reach, and a bite from one can kill.
 
 ## Presentation
 
@@ -163,7 +163,7 @@ A snake's look follows its kind and country: some wear bold red, yellow and blac
 
 ## In the Land
 
-Venomous snakes lie in the rocky gorges and thorn scrub of the Bizarian [[place-southrnmrch|Southern March]], the dry chaparral of the [[place-sthmrchsrgn|South Marches]], the rock country of the [[place-dunhardsrtrgn|Dunhara Desert]] and the forest floor of the wetter countries. A snake lies in one spot for hours or days beside a game-trail, under a rock or a fallen log, and moves little in the cold. It hunts at dusk and in the first hours of dark.
+Venomous snakes lie in the rocky gorges and thorn scrub of the Bizarian Southern March, the dry chaparral of the South Marches, the rock country of the Dunhara Desert and the forest floor of the wetter countries. A snake lies in one spot for hours or days beside a game-trail, under a rock or a fallen log, and moves little in the cold. It hunts at dusk and in the first hours of dark.
 
 ## Key Behaviors
 

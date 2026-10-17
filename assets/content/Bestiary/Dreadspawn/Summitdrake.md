@@ -301,7 +301,7 @@ The wind on the upper shoulder of the mountain is hard enough to lean on, and th
 
 # Dossier {#dossier}
 
-The Summitdrake is a dreadspawn in the shape of a great winged drake, fifteen to twenty-five feet long and heavier than a war-horse, scaled in gray and rust like the rock of the high peaks. It claims a mountain and holds it, for centuries, against everything large enough to be a rival, and it hunts whatever it likes on the slopes below. It is intelligent, patient and tyrannical. One holds the summit of [[place-hydravenmnt|Mount Hidraven]], the great peak of Provenzia's northern mountains and the source of the kingdom's water, which the [[affiliation-aelndntrbs|Áelendan Tribes]] hold sacred. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Summitdrake is a dreadspawn in the shape of a great winged drake, fifteen to twenty-five feet long and heavier than a war-horse, scaled in gray and rust like the rock of the high peaks. It claims a mountain and holds it, for centuries, against everything large enough to be a rival, and it hunts whatever it likes on the slopes below. It is intelligent, patient and tyrannical. One holds the summit of [[place-hydravenmnt|Mount Hidraven]], the great peak of [[place-provenzrgn|Provenzia Region]]'s northern mountains and the source of the kingdom's water, which the [[affiliation-aelndntrbs|Áelendan Tribes]] hold sacred. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -309,7 +309,7 @@ The summitdrake is long and heavy, built like a great lizard, with four powerful
 
 ## In the Land
 
-Hidraven is the highest of the northern mountains, where Provenzia's cold uplands run up toward Élavendre, and the great springs that water the kingdom rise on its shoulders. The summitdrake holds the upper mountain: the summit rocks, the high ridges, the snowfields and the cirques above the springs. It hunts the slopes below, mountain goats and ibex, the sheep of the lower pastures in summer, bears, and anything else large, and it patrols the ridges on regular rounds. It attacks anything large enough to challenge it on sight and ignores what is too small to matter. It does not come down below the high pastures, and the springs themselves it seems to leave alone.
+Hidraven is the highest of the northern mountains, where Provenzia's cold uplands run up toward [[place-elavendre|Élavendre]], and the great springs that water the kingdom rise on its shoulders. The summitdrake holds the upper mountain: the summit rocks, the high ridges, the snowfields and the cirques above the springs. It hunts the slopes below, mountain goats and ibex, the sheep of the lower pastures in summer, bears, and anything else large, and it patrols the ridges on regular rounds. It attacks anything large enough to challenge it on sight and ignores what is too small to matter. It does not come down below the high pastures, and the springs themselves it seems to leave alone.
 
 ## Key Behaviors
 

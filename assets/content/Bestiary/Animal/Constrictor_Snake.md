@@ -176,7 +176,7 @@ The bank is a mat of roots and dead leaves, and a smooth furrow as wide as a man
 
 # Dossier {#dossier}
 
-The Constrictor Snake is the big non-venomous snake of the hot forests and swamps, fifteen to twenty-five feet long and forty to two hundred pounds. It lives in the jungle lowlands of [[place-kaliharargn|Kalihara]], the [[place-cntrlrnfrsts|Central Rainforests]], the forest of [[place-xelemrgn|Shelem]] and the river country of the south. It kills by tightening its coils around its prey with every breath the animal takes, and it can kill an animal far larger than its own head.
+The Constrictor Snake is the big non-venomous snake of the hot forests and swamps, fifteen to twenty-five feet long and forty to two hundred pounds. It lives in the jungle lowlands of [[place-kaliharargn|Kalihara Region]], the [[place-cntrlrnfrsts|Central Rainforests]], the forest of [[place-xelemrgn|Shelem Region]] and the river country of the south. It kills by tightening its coils around its prey with every breath the animal takes, and it can kill an animal far larger than its own head.
 
 ## Presentation
 
@@ -184,7 +184,7 @@ An enormous snake, thick-bodied and heavily muscled. The head is small and rough
 
 ## In the Land
 
-Rock pythons and their kin live in the jungle lowlands of [[place-kaliharargn|Kalihara]], the [[place-cntrlrnfrsts|Central Rainforests]], the hot forest of [[place-xelemrgn|Shelem]] and the river country of the south. A constrictor lies along a branch over a game-trail, in the edge of a swamp or in a hollow under a bank, and it hunts at night. A big snake stays in one stretch of river for years, and it feeds once in a month or two.
+Rock pythons and their kin live in the jungle lowlands of Kalihara, the Central Rainforests, the hot forest of Shelem and the river country of the south. A constrictor lies along a branch over a game-trail, in the edge of a swamp or in a hollow under a bank, and it hunts at night. A big snake stays in one stretch of river for years, and it feeds once in a month or two.
 
 ## Key Behaviors
 
@@ -204,7 +204,7 @@ The forest tribes and the hunters of the river country know the pools where a bi
 
 ## Combat Strategy
 
-A constrictor's preferred hunting strategy is to wait in ambush until prey passes within striking distance. The strike is explosive: the snake launches forward, opens its mouth, and attempts to grab the target around the head, neck, or torso. Once it has bitten and holding its teeth in flesh, the snake immediately coils around the target's body, placing successive coils around the torso and limbs, then tightening all coils progressively. With each breath the prey takes, the constrictor adjusts its coils tighter, reducing the volume of the torso until respiration becomes impossible. The prey loses consciousness within a few minutes and dies shortly after. Against multiple opponents, the constrictor will target the largest or closest threat, attempting to disable that individual while ignoring others. A disturbed constrictor that has not yet eaten will defend itself by striking and coiling, though it prefers to retreat to a hiding place if possible.
+A constrictor's preferred hunting strategy is to wait in ambush until prey passes within striking distance. The strike is explosive: the snake launches forward, opens its mouth, and attempts to grab the target around the head, neck, or torso. Once it has bitten and is holding its teeth in flesh, the snake immediately coils around the target's body, placing successive coils around the torso and limbs, then tightening all coils progressively. With each breath the prey takes, the constrictor adjusts its coils tighter, reducing the volume of the torso until respiration becomes impossible. The prey loses consciousness within a few minutes and dies shortly after. Against multiple opponents, the constrictor will target the largest or closest threat, attempting to disable that individual while ignoring others. A disturbed constrictor that has not yet eaten will defend itself by striking and coiling, though it prefers to retreat to a hiding place if possible.
 
 ## Attack Methods
 

@@ -170,7 +170,7 @@ A patch of the rock beside the path has eight eyes. The two biggest, in the midd
 
 # Dossier {#dossier}
 
-The Giant Jumping Spider is a hunting spider with a body a foot across and a leg-span of more than two feet, which stalks by sight and kills by leaping, and lives on the sunny rock and dry hill country of the Grazian foothills: [[place-wstrndscnt|the Western Descent]] where the range breaks up into brown hills above the Dunhari margin, and the dry slopes of the Vedyari marches below. It hunts lizards, birds, rats and other spiders by day, it is as curious as a cat and far cleverer than a spider ought to be, and it leaps twenty feet onto a man's back if he turns away from it.
+The Giant Jumping Spider is a hunting spider with a body a foot across and a leg-span of more than two feet, which stalks by sight and kills by leaping, and lives on the sunny rock and dry hill country of the foothills of [[place-graznmntns|The Grazian Mountains]]: [[place-wstrndscnt|The Western Descent]] where the range breaks up into brown hills above the Dunhari margin, and the dry slopes of the marches of [[place-vedyarargn|Vedyara Region]] below. It hunts lizards, birds, rats and other spiders by day, it is as curious as a cat and far cleverer than a spider ought to be, and it leaps twenty feet onto a man's back if he turns away from it.
 
 The hill people kill it when it comes into a house and otherwise watch it. It is not a thing that attacks a wary man; it is a thing that attacks the moment he stops being wary.
 

@@ -238,7 +238,7 @@ The berry thicket has been torn open at head height, with branches bent down and
 
 # Dossier {#dossier}
 
-The Black Bear is a strong, adaptable bear of the oak, beech and mixed woods of [[place-vrystwald|Vristwald]], the forested hills of the [[place-nrdlndsrgn|Nordlands]] and the forests of [[place-velanthrgn|Velanthia]], four to six hundred pounds and five or six feet tall on its hind legs. It eats berries, nuts, roots, fish, small animals and carrion, and keeps away from people until it learns that they carry food. A bear that has been rewarded at a camp or a bee-tree comes back, and grows bolder each time.
+The Black Bear is a strong, adaptable bear of the oak, beech and mixed woods of [[place-vrystwald|Vristwald]], the forested hills of the [[place-nrdlndsrgn|Nordlands Region]] and the forests of [[place-velanthrgn|Velanthia Region]], four to six hundred pounds and five or six feet tall on its hind legs. It eats berries, nuts, roots, fish, small animals and carrion, and keeps away from people until it learns that they carry food. A bear that has been rewarded at a camp or a bee-tree comes back, and grows bolder each time.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A powerful bear on short, sturdy legs. The coat is thick and glossy, usually jet
 
 ## In the Land
 
-Black bears live in the oak, beech and mixed woods of [[place-vrystwald|Vristwald]] and the forested hills of the [[place-nrdlndsrgn|Nordlands]] and [[place-velanthrgn|Velanthia]], and they are thinner in the high taiga where nothing fruits. A bear's range takes in a berry glade, a stream with a fish run, and a den in a hollow tree or under a root-mass. Bears dig in on the edge of settled country, near orchards and bee-trees, more readily than the larger brown bear does, and the same animal is met year after year on the same few miles.
+Black bears live in the oak, beech and mixed woods of Vristwald and the forested hills of the Nordlands and Velanthia, and they are thinner in the high taiga where nothing fruits. A bear's range takes in a berry glade, a stream with a fish run, and a den in a hollow tree or under a root-mass. Bears dig in on the edge of settled country, near orchards and bee-trees, more readily than the larger brown bear does, and the same animal is met year after year on the same few miles.
 
 ## Key Behaviors
 
@@ -254,7 +254,7 @@ Black bears are solitary, apart from a sow and her cubs, who stay together for o
 
 ## What the Villages Do
 
-The Varokh villages tolerate a black bear that keeps to the deep woods and take the bear wesk's rites as a reason to leave it alone. They hunt one that has learned to raid, in autumn when it is fat, with dogs and boar-spears. Beekeepers set their hives in the crowns of trees, or inside a stockade of sharpened stakes. A farmer in a cleared valley leaves nothing edible on the ground at night and does not let children gather berries alone. The hide makes a heavy cloak and the grease keeps a boot supple; the fat is sold to apothecaries for chest-salves.
+The [[lore-varokhiclt|Varokhi]] villages tolerate a black bear that keeps to the deep woods and take the bear wesk's rites as a reason to leave it alone. They hunt one that has learned to raid, in autumn when it is fat, with dogs and boar-spears. Beekeepers set their hives in the crowns of trees, or inside a stockade of sharpened stakes. A farmer in a cleared valley leaves nothing edible on the ground at night and does not let children gather berries alone. The hide makes a heavy cloak and the grease keeps a boot supple; the fat is sold to apothecaries for chest-salves.
 
 ## Signs
 

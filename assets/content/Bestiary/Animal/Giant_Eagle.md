@@ -250,7 +250,7 @@ A shadow the size of a longship slides across the scree and up the far wall of t
 
 # Dossier {#dossier}
 
-The Giant Eagle is a mountain eagle with a wingspan of twenty feet and talons that go through a mail hauberk, which nests on the high crags of the [[place-nrdlndsrgn|Nordlands]] behind the fjords and on the peaks of the [[place-graznmntns|Grazian Mountains]], and holds a hunting range of a hundred square miles or more from the air. It takes goats, caribou calves, lambs and the pack animals of a caravan on an exposed ridge, and a nesting pair takes a man who climbs toward the eyrie. The Varokh of [[place-vrystwald|Vristwald]] keep it as a wesk: four of their villages, [[place-arnstein|Arnstein]] on its eagle crag among them, take the eagle for their totem and keep the crag where it nests as sacred ground.
+The Giant Eagle is a mountain eagle with a wingspan of twenty feet and talons that go through a mail hauberk, which nests on the high crags of the [[place-nrdlndsrgn|Nordlands Region]] behind the fjords and on the peaks of [[place-graznmntns|The Grazian Mountains]], and holds a hunting range of a hundred square miles or more from the air. It takes goats, caribou calves, lambs and the pack animals of a caravan on an exposed ridge, and a nesting pair takes a man who climbs toward the eyrie. The [[lore-varokhiclt|Varokhi]] of [[place-vrystwald|Vristwald]] keep it as a wesk: four of their villages, [[place-arnstein|Arnstein]] on its eagle crag among them, take the eagle for their totem and keep the crag where it nests as sacred ground.
 
 It is not a hunter of men by habit. It is a thing that owns the sky over a range of mountains and resents a trespasser in it.
 
@@ -260,7 +260,7 @@ A heavily built eagle with dense golden-brown plumage, paler at the head and nap
 
 ## In the Land
 
-Pairs nest on ledges and rock spires above the snowline in the wind-scoured mountain tracts behind the Nordlands fjords, where the caribou clans see them over the high plateaus, and on the Southern Wall and Eastern Reach of the Grazian range, where the guides of the passes count them among the hazards of an exposed ridge. Each pair holds a range that covers several valleys and tolerates no other adult in it. In Vristwald they are seen over the cliffs of [[place-falkhaven|Falkhaven]] on the western shore, where the eagle villages keep their watch, and they drift south along the fjord coast in the hard winters.
+Pairs nest on ledges and rock spires above the snowline in the wind-scoured mountain tracts behind the Nordlands fjords, where the caribou clans see them over the high plateaus, and on [[place-sthrnwall|The Southern Wall]] and [[place-estrnreach|The Eastern Reach]] of the Grazian range, where the guides of the passes count them among the hazards of an exposed ridge. Each pair holds a range that covers several valleys and tolerates no other adult in it. In Vristwald they are seen over the cliffs of [[place-falkhaven|Falkhaven]] on the western shore, where the eagle villages keep their watch, and they drift south along the fjord coast in the hard winters.
 
 ## Key Behaviors
 
@@ -268,7 +268,7 @@ An eagle hunts by day from a great height, watching the ground for movement, and
 
 ## What the Mountain People Do
 
-A caravan guide on the Grazian passes does not cross an open saddle with a pack string spread out, and he puts the mules close together under the crags where the bird cannot stoop. The caribou clans of the northern plateaus lose calves to them every spring and shoot at them when they can, which is seldom. In Vristwald an eagle is a wesk, and the villages that keep it, **Arnholt** on the Falkhaven shore among them, set a watch on a cliff where the birds nest and read the pair's flights as omens; killing one in an eagle village's woods is a blood matter. A primary feather is worth having for fletching and for a chief's helm, and an eyrie, reached by a man with a rope and a strong stomach, holds the bones of a century of kills and whatever the kills were wearing.
+A caravan guide on the Grazian passes does not cross an open saddle with a pack string spread out, and he puts the mules close together under the crags where the bird cannot stoop. The caribou clans of the northern plateaus lose calves to them every spring and shoot at them when they can, which is seldom. In Vristwald an eagle is a wesk, and the villages that keep it, **[[place-arnholt|Arnholt]]** on the Falkhaven shore among them, set a watch on a cliff where the birds nest and read the pair's flights as omens; killing one in an eagle village's woods is a blood matter. A primary feather is worth having for fletching and for a chief's helm, and an eyrie, reached by a man with a rope and a strong stomach, holds the bones of a century of kills and whatever the kills were wearing.
 
 ## Signs
 

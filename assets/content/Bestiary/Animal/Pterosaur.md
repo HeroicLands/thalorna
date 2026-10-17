@@ -258,7 +258,7 @@ The cliff above the beach is white with droppings, and a rank, fishy smell comes
 
 # Dossier {#dossier}
 
-The Pterosaur is the great flying reptile of the sea cliffs and deep valleys, with a wingspan up to thirty feet on a thin, lean body. It nests in colonies on the headlands of the western fjord coast of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk]], where cedar rain-forest runs down to the cliffs, and is rarely met in settled land. It hunts fish, small mammals and anything else it can seize, from the air.
+The Pterosaur is the great flying reptile of the sea cliffs and deep valleys, with a wingspan up to thirty feet on a thin, lean body. It nests in colonies on the headlands of the western fjord coast of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]], where cedar rain-forest runs down to the cliffs, and is rarely met in settled land. It hunts fish, small mammals and anything else it can seize, from the air.
 
 ## Presentation
 
@@ -266,7 +266,7 @@ The wings are the first thing seen: vast, leathery and translucent, veined like 
 
 ## In the Land
 
-Pterosaurs nest on the sea cliffs and in the deep valleys of the western fjord coast of [[place-ixbalkiahkrgn|Ish'bal Ki'ahk]], where cedar rain-forest runs down to the water and the cliffs face the open ocean. A colony of a dozen or more roosts on one headland and uses the updraft along the face to glide out over the sea. They fish at the surface, scavenge on the shore and range far inland along the rivers.
+Pterosaurs nest on the sea cliffs and in the deep valleys of the western fjord coast of Ish'bal Ki'ahk, where cedar rain-forest runs down to the water and the cliffs face the open ocean. A colony of a dozen or more roosts on one headland and uses the updraft along the face to glide out over the sea. They fish at the surface, scavenge on the shore and range far inland along the rivers.
 
 ## Key Behaviors
 

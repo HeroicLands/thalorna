@@ -278,7 +278,7 @@ The deer are grazing the river meadow at the edge of the birch wood, a dozen of 
 
 # Dossier {#dossier}
 
-The Feraldew is a dreadspawn made in the likeness of a deer: a buck of ordinary size and fifty pounds' weight, with soft eyes and a modest rack of antler, that runs with a herd of real deer and uses it as a blind. Inside the likeness it is a killer, with fangs, dagger-tipped antlers and hooves that unfold into hooked talons. It hunts predators and people, never the deer it runs with. It is met in the forest-steppe belt of [[place-velanthrgn|Velanthia]], where mixed forest, river meadow and farmland interleave and the deer are many. More than one of the pattern has been killed there, which makes it one of the dreadspawn shapes its makers return to; each was made, each was alive, and none ever bred.
+The Feraldew is a dreadspawn made in the likeness of a deer: a buck of ordinary size and fifty pounds' weight, with soft eyes and a modest rack of antler, that runs with a herd of real deer and uses it as a blind. Inside the likeness it is a killer, with fangs, dagger-tipped antlers and hooves that unfold into hooked talons. It hunts predators and people, never the deer it runs with. It is met in the forest-steppe belt of [[place-velanthrgn|Velanthia Region]], where mixed forest, river meadow and farmland interleave and the deer are many. More than one of the pattern has been killed there, which makes it one of the dreadspawn shapes its makers return to; each was made, each was alive, and none ever bred.
 
 ## Presentation
 

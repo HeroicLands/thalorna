@@ -238,7 +238,7 @@ The ice stretches away flat and blue-white to the horizon. A long way out, a cre
 
 # Dossier {#dossier}
 
-The Polar Bear is the great white hunter of the ice, five feet at the shoulder and ten feet when it rears, nine hundred to fifteen hundred pounds, living on the pack-ice and frozen shore of the far north of the [[place-nrdlndsrgn|Nordlands]]. It is a pure meat-eater, taking seals, fish, walrus calves and people, with the keenest nose of any land hunter, able to find prey through feet of ice. It swims for dozens of miles. Among the northern peoples it is the embodiment of the killing cold, and its pelt is among the most valued trophies.
+The Polar Bear is the great white hunter of the ice, five feet at the shoulder and ten feet when it rears, nine hundred to fifteen hundred pounds, living on the pack-ice and frozen shore of the far north of the [[place-nrdlndsrgn|Nordlands Region]]. It is a pure meat-eater, taking seals, fish, walrus calves and people, with the keenest nose of any land hunter, able to find prey through feet of ice. It swims for dozens of miles. Among the northern peoples it is the embodiment of the killing cold, and its pelt is among the most valued trophies.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A long, lean, streamlined bear with a long neck and a narrower skull and longer 
 
 ## In the Land
 
-Polar bears hunt the pack-ice and the frozen shore of the far north of the [[place-nrdlndsrgn|Nordlands]], where the ice reaches the coast and the seal colonies lie. A bear walks the ice-edge and waits at a seal's breathing-hole, and in summer, when the ice retreats, it comes ashore and lives on its fat. It can swim for miles and range hundreds of miles in a season.
+Polar bears hunt the pack-ice and the frozen shore of the far north of the Nordlands, where the ice reaches the coast and the seal colonies lie. A bear walks the ice-edge and waits at a seal's breathing-hole, and in summer, when the ice retreats, it comes ashore and lives on its fat. It can swim for miles and range hundreds of miles in a season.
 
 ## Key Behaviors
 

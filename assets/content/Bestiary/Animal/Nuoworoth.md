@@ -241,7 +241,7 @@ The ravine smells of carrion long before you see the bones: a heap of them again
 
 # Dossier {#dossier}
 
-The Nuoworoth is the great flightless carrion bird of the Khazryn's stone uplands: seven feet tall, twelve from beak to tail, four hundred pounds, black-feathered with a bare, leathery head and a foot-long hooked beak. It eats the dead of the badlands—goats, wild asses, fallen camels and fallen men—and it kills to defend the ground it eats on. Each bird holds a long stretch of ravine and broken plateau as its own and attacks anything that walks into it, by leaping from behind a rock with no warning but the smell. It is the bird the guides mean when they tell a party on the black rock to keep to the track and to turn back from any ravine with bones at its mouth.
+The Nuoworoth is the great flightless carrion bird of the [[place-khzryndsrtrgn|Khazryn Desert Region]]'s stone uplands: seven feet tall, twelve from beak to tail, four hundred pounds, black-feathered with a bare, leathery head and a foot-long hooked beak. It eats the dead of the badlands—goats, wild asses, fallen camels and fallen men—and it kills to defend the ground it eats on. Each bird holds a long stretch of ravine and broken plateau as its own and attacks anything that walks into it, by leaping from behind a rock with no warning but the smell. It is the bird the guides mean when they tell a party on the black rock to keep to the track and to turn back from any ravine with bones at its mouth.
 
 ## Presentation
 
@@ -253,7 +253,7 @@ Nuoworoths live in the stone uplands and badlands of the Khazryn: the mesas and 
 
 ## Key Behaviors
 
-The bird spends its day walking its range, nose to the wind. It smells carrion and blood a mile off and goes to it, and it drives off anything already at a carcass, from a [[being-mghyn|mega hyena]] clan to a man skinning his own dead camel. It kills what it finds within its range when the thing is small enough or alone enough: a goat, an ass, a sleeping man, a wounded one. It watches before it strikes. A bird that has seen a party will follow it unseen along the ravine rim for an hour, crouched behind boulders, until one of them falls behind or stops to drink, and then it leaps. It does not retreat from its own ground, and a wounded bird attacks harder.
+The bird spends its day walking its range, nose to the wind. It smells carrion and blood a mile off and goes to it, and it drives off anything already at a carcass, from a [[being-mghyn|Mega Hyena]] clan to a man skinning his own dead camel. It kills what it finds within its range when the thing is small enough or alone enough: a goat, an ass, a sleeping man, a wounded one. It watches before it strikes. A bird that has seen a party will follow it unseen along the ravine rim for an hour, crouched behind boulders, until one of them falls behind or stops to drink, and then it leaps. It does not retreat from its own ground, and a wounded bird attacks harder.
 
 ## What the Tribes Do
 

@@ -232,7 +232,7 @@ The march road runs across the stony fan at the foot of the hills, and the barri
 
 # Dossier {#dossier}
 
-The Voidmoth is a spirit-being of solidified darkness, a moth the size of a horse with a twenty-foot wingspan, born of or touched by the spaces between worlds, which gathers where reality has torn and the barrier between the worlds is weak. It feeds on something that is not food, perhaps magic, perhaps the force of the tear itself. It makes darkness, suppresses magic, and breaks men's reason with its gaze. It is one of the hunters that cross onto [[place-lanthusthli|Lantustali]], the thinnest blood-field in Vedyara, where the march kingdom of Marupala died in 315 AF and nobody's rites were said for the dead. Like the other hunters that gather where the dead were never received, it takes on a half-material form on the field, and in that form it kills.
+The Voidmoth is a spirit-being of solidified darkness, a moth the size of a horse with a twenty-foot wingspan, born of or touched by the spaces between worlds, which gathers where reality has torn and the barrier between the worlds is weak. It feeds on something that is not food, perhaps magic, perhaps the force of the tear itself. It makes darkness, suppresses magic, and breaks men's reason with its gaze. It is one of the hunters that cross onto [[place-lanthusthli|Lantustali]], the thinnest blood-field in [[place-vedyarargn|Vedyara Region]], where the march kingdom of [Marupala]{.name data-type="affiliation/polity"} died in 315 AF and nobody's rites were said for the dead. Like the other hunters that gather where the dead were never received, it takes on a half-material form on the field, and in that form it kills.
 
 ## Presentation
 
@@ -240,7 +240,7 @@ The voidmoth's body is a long, heavy, segmented shape, furred and plated with so
 
 ## In the Land
 
-Lantustali is the fan of stony ground where the foothills of the Western Descent open onto the march road, a day and a half west of [[place-ashvapada|Ashvapada]]. It is a dread: the overrun host's panic is still on the field and comes on anyone who lingers, by day as well as by night. On any night of the year, and worst in the dry season when the wind comes off the Descent, the hunters cross onto the field, and the voidmoth is one of them. It rises from the stones after dark and hunts the field and the road's edge, and it is gone before dawn. It does not leave the field, and it treats the field as its own.
+Lantustali is the fan of stony ground where the foothills of [[place-wstrndscnt|The Western Descent]] open onto the march road, a day and a half west of [[place-ashvapada|Ashvapada]]. It is a dread: the overrun host's panic is still on the field and comes on anyone who lingers, by day as well as by night. On any night of the year, and worst in the dry season when the wind comes off the Descent, the hunters cross onto the field, and the voidmoth is one of them. It rises from the stones after dark and hunts the field and the road's edge, and it is gone before dawn. It does not leave the field, and it treats the field as its own.
 
 ## Key Behaviors
 

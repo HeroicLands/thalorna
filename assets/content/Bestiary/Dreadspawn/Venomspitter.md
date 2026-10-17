@@ -190,7 +190,7 @@ The cistern chamber is cool and damp after the glare outside, and the water in t
 
 # Dossier {#dossier}
 
-The Venomspitter is a dreadspawn built for one thing, which is making and delivering a venom that burns: a long, jointed, serpent-like body eight to twelve feet long, scaled in shifting warning colors, with hollow fangs and a throat that throws a stream of corrosive venom thirty feet. It lies in ambush in warm, damp, enclosed places—rock cisterns, seep-caves and the shaded clefts of the ravines in the stone uplands of the [[place-khzryndsrtrgn|Khazryn]]—and takes what comes to the water. The same shape is reported from the ruins of the [[place-cntrlrnfrsts|Central Rainforests]], as dreadspawn of one pattern often are, and no one has established how many there are or where they began. Like every dreadspawn it was made and cannot breed. It is clever: it chooses its ground, prepares it, and waits.
+The Venomspitter is a dreadspawn built for one thing, which is making and delivering a venom that burns: a long, jointed, serpent-like body eight to twelve feet long, scaled in shifting warning colors, with hollow fangs and a throat that throws a stream of corrosive venom thirty feet. It lies in ambush in warm, damp, enclosed places—rock cisterns, seep-caves and the shaded clefts of the ravines in the stone uplands of the [[place-khzryndsrtrgn|Khazryn Desert Region]]—and takes what comes to the water. The same shape is reported from the ruins of the [[place-cntrlrnfrsts|Central Rainforests]], as dreadspawn of one pattern often are, and no one has established how many there are or where they began. Like every dreadspawn it was made and cannot breed. It is clever: it chooses its ground, prepares it, and waits.
 
 ## Presentation
 
@@ -206,7 +206,7 @@ A venomspitter chooses a place where prey must come—a cistern's edge, the one 
 
 ## What the Tribes Do
 
-The plateau tribes know their waters, and a cistern where goats have been found dead and burned at its edge is a cistern nobody draws from. A tribe that must take its water back sends men with shields faced in fresh hide, which the venom eats through slowly enough to matter, with their faces wrapped and eyes shielded behind slit leather, and with fire, because the creature dislikes heat. A cold night is the time to go in, when it is sluggish. Its venom, milked from a dead one and kept in a stoppered horn, sells at [[place-kethramir|Kethramir]] to alchemists and poisoners for a sum that pays a tribe's year, and the men who sell it do not say how many they lost getting it.
+The plateau tribes know their waters, and a cistern where goats have been found dead and burned at its edge is a cistern nobody draws from. A tribe that must take its water back sends men with shields faced in fresh hide, which the venom eats through slowly enough to matter, with their faces wrapped and eyes shielded behind slit leather, and with fire, because the creature dislikes heat. A cold night is the time to go in, when it is sluggish. Its venom, milked from a dead one and kept in a stoppered horn, sells at [[place-kethramir|Kethramír]] to alchemists and poisoners for a sum that pays a tribe's year, and the men who sell it do not say how many they lost getting it.
 
 ## Signs
 

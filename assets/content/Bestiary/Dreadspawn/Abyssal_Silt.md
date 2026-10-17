@@ -190,7 +190,7 @@ The pool at the bottom of the sinkhole is black and perfectly still, and the roc
 
 # Dossier {#dossier}
 
-The Abyssal Silt is a dreadspawn in the shape of a living pool: six to eight feet across when it spreads, about two hundred pounds of dark, corrosive slime that hunts by lying still in a dark place and dissolving whatever comes into it. It dwells in the flooded galleries of deep caverns and the black pools of poisoned country, and the place it is best known is [[place-qapteltzaklrgn|Q'aptel Tsa'kul]], the threshold of the southern wastes of K'ich'chik, where the ground is stained by seeping minerals and the sinkholes hold pools no one drinks from. Like every dreadspawn it was made, and it cannot breed. It is clever after its fashion: it learns where prey comes, and waits there.
+The Abyssal Silt is a dreadspawn in the shape of a living pool: six to eight feet across when it spreads, about two hundred pounds of dark, corrosive slime that hunts by lying still in a dark place and dissolving whatever comes into it. It dwells in the flooded galleries of deep caverns and the black pools of poisoned country, and the place it is best known is [[place-qapteltzaklrgn|Q'aptel Tsa'kul Region]], the threshold of the southern wastes of [[place-kchchkcntnnt|K'ich'chik Continent]], where the ground is stained by seeping minerals and the sinkholes hold pools no one drinks from. Like every dreadspawn it was made, and it cannot breed. It is clever after its fashion: it learns where prey comes, and waits there.
 
 ## Presentation
 

@@ -169,7 +169,7 @@ The adit goes into the mountain farther than the miners said, and your torch is 
 
 # Dossier {#dossier}
 
-The Phosphorescent Globule is a small dreadspawn of glowing jelly, four to eight feet across but weighing only ten pounds, which floats slowly through deep, dark places, lures prey with its light and dissolves whatever it engulfs. It changes shape at will, blinds with sudden flares, and splits into pieces when it is hurt. It lives in deep caves and the flooded workings of mines, and one holds an abandoned working in the mountains of [[place-sorvanda|Sórvanda]], on Élavendre's eastern border, where the ore lies under Áelendan ground and an unlicensed working does not continue. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Phosphorescent Globule is a small dreadspawn of glowing jelly, four to eight feet across but weighing only ten pounds, which floats slowly through deep, dark places, lures prey with its light and dissolves whatever it engulfs. It changes shape at will, blinds with sudden flares, and splits into pieces when it is hurt. It lives in deep caves and the flooded workings of mines, and one holds an abandoned working in the mountains of [[place-sorvanda|Sórvanda]], on [[place-elavendre|Élavendre]]'s eastern border, where the ore lies under Áelendan ground and an unlicensed working does not continue. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 

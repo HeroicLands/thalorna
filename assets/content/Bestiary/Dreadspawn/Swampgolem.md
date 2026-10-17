@@ -396,7 +396,7 @@ The papyrus closes over the channel so that the reed-boat moves through a green 
 
 # Dossier {#dossier}
 
-The Swampgolem is a dreadspawn made of the marsh itself: a giant twelve to sixteen feet tall and many tons in weight, built of mud, clay, rotting reed and the bones of drowned things, which holds a stretch of swamp and crushes and drowns whatever threatens it. It is not quick and not clever, but it is very strong, it heals while it stands in water, and the marsh fights for it. One holds a part of the papyrus marshes of [[place-garshebztslt|Gar-Shebazet Selat]] in the delta of Au'Khelathu, where the fowlers work the open water and the reed-cutters cut the stems that become the empire's paper. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Swampgolem is a dreadspawn made of the marsh itself: a giant twelve to sixteen feet tall and many tons in weight, built of mud, clay, rotting reed and the bones of drowned things, which holds a stretch of swamp and crushes and drowns whatever threatens it. It is not quick and not clever, but it is very strong, it heals while it stands in water, and the marsh fights for it. One holds a part of the papyrus marshes of [[place-garshebztslt|Gar-Shebazet Selat]] in the delta of [[place-aukhelathrgq|Au'Khelathu Region]], where the fowlers work the open water and the reed-cutters cut the stems that become the empire's paper. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -404,7 +404,7 @@ The swampgolem is roughly man-shaped and vast, a mass of black mud, gray clay an
 
 ## In the Land
 
-Gar-Shebazet's marshes are papyrus, open water and channels, and the chief temple of [[affiliation-shebazet|Shebazet]], the cobra-goddess of the marsh, holds much of them. The swampgolem holds a stretch of the inner marsh, a mile or two of reed-beds, pools and channels round a deep, still pool that is its heart, and it does not leave it. It does not eat in any ordinary way; it draws in the mud, plants and dead things of its marsh and grows on them. It reacts to threats to its ground: boats coming too often, reed-cutters cutting into its beds, fire, and men who fight in its water. Elsewhere in the marsh life goes on as usual. In its stretch, the reed grows thicker than anywhere else.
+Gar-Shebazet's marshes are papyrus, open water and channels, and the chief temple of the [[affiliation-shebazet|Faith of Shebazet]], honoring [[lore-shebazetdty|Shebazet]], the cobra-goddess of the marsh, holds much of them. The swampgolem holds a stretch of the inner marsh, a mile or two of reed-beds, pools and channels round a deep, still pool that is its heart, and it does not leave it. It does not eat in any ordinary way; it draws in the mud, plants and dead things of its marsh and grows on them. It reacts to threats to its ground: boats coming too often, reed-cutters cutting into its beds, fire, and men who fight in its water. Elsewhere in the marsh life goes on as usual. In its stretch, the reed grows thicker than anywhere else.
 
 ## Key Behaviors
 

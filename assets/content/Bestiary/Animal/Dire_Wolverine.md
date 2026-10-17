@@ -250,7 +250,7 @@ The trap-line runs along the frozen stream, and the third set is sprung, the bai
 
 # Dossier {#dossier}
 
-The Dire Wolverine is the big wolverine of the far north, three feet at the shoulder, a hundred and fifty pounds and more, found in the boreal forest and the high plateaus of the [[place-nrdlndsrgn|Nordlands]], the taiga and frozen coast of [[place-gwtkrrgn|Ghotaqor]], and the northern spruce belt of [[place-vrystwald|Vristwald]]. It is a solitary animal that holds twenty or thirty square miles of cold country, eats anything it can kill or find dead, and will not be driven off what it has claimed by a bear, a wolf pack or a man with a spear. Trappers hate it more than any other animal in the forest, because it follows a trap-line and eats the catch.
+The Dire Wolverine is the big wolverine of the far north, three feet at the shoulder, a hundred and fifty pounds and more, found in the boreal forest and the high plateaus of the [[place-nrdlndsrgn|Nordlands Region]], the taiga and frozen coast of [[place-gwtkrrgn|Ghotaqor]], and the northern spruce belt of [[place-vrystwald|Vristwald]]. It is a solitary animal that holds twenty or thirty square miles of cold country, eats anything it can kill or find dead, and will not be driven off what it has claimed by a bear, a wolf pack or a man with a spear. Trappers hate it more than any other animal in the forest, because it follows a trap-line and eats the catch.
 
 It kills men seldom and only when crossed, and the people who cross it are the trappers and hunters who live by the forest and meet it every winter.
 

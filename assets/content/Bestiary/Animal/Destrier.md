@@ -246,7 +246,7 @@ The horse standing in the castle yard is bigger than the cart beside it. It is b
 
 # Dossier {#dossier}
 
-The Destrier is the heaviest warhorse, seventeen to eighteen hands high and eighteen to twenty-four hundred pounds, carrying a rider in full plate as if he weighed nothing. It is slower than a courser and slower off the mark than a charger, but nothing stops its advance. It is kept in the stables of the great houses and royal castles of [[place-aureldirgn|Aureldia]] and [[place-aelwyth|Aelwyth]], where the knights who can afford both horse and training ride it. A single destrier can break a cavalry charge, and a line of them can shatter infantry.
+The Destrier is the heaviest warhorse, seventeen to eighteen hands high and eighteen to twenty-four hundred pounds, carrying a rider in full plate as if he weighed nothing. It is slower than a courser and slower off the mark than a charger, but nothing stops its advance. It is kept in the stables of the great houses and royal castles of [[place-aureldirgn|Aureldia Region]] and [[place-aelwyth|Aelwyth]], where the knights who can afford both horse and training ride it. A single destrier can break a cavalry charge, and a line of them can shatter infantry.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ An enormous horse built for weight and strength, stockier and broader than any o
 
 ## In the Land
 
-Destriers are kept in the stables of the great houses and royal castles of [[place-aureldirgn|Aureldia]] and [[place-aelwyth|Aelwyth]], where the landed knights who ride them hold their fiefs. A destrier lives in the best stall, is fed on oats, and is groomed, shod and walked every day. It is a mount for war and the tourney and is not used on the road or in the field. The breeding stud of a house is managed by its master of horse, and a house with a famous line guards it.
+Destriers are kept in the stables of the great houses and royal castles of Aureldia and Aelwyth, where the landed knights who ride them hold their fiefs. A destrier lives in the best stall, is fed on oats, and is groomed, shod and walked every day. It is a mount for war and the tourney and is not used on the road or in the field. The breeding stud of a house is managed by its master of horse, and a house with a famous line guards it.
 
 ## Key Behaviors
 

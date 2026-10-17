@@ -258,7 +258,7 @@ The cave runs back from the hillside, and your torch shows its walls slick and g
 
 # Dossier {#dossier}
 
-The Cave Goblin is a [[lore-goblinfolk|goblin]] of the underground: a small, hunched, sapient creature, three to four feet tall, with huge pale eyes that see in near-darkness, which lives in caves and tunnels as a solitary hunter or in loose communities when food and room allow. It is highly intelligent and amoral, neither wicked nor good: it pursues its own self-interest and the customs of its kind with perfect consistency, follows a trickster god, lies as easily as it breathes, and poisons its weapons with fungal toxins. Goblins hold their own territories in the marginal lands between the settled kingdoms, and the cave goblins of the [[place-vandstein|Vandstein]], the stony southern edge of the [[place-vrystwald|Vristwald]] facing the Vylarian Empire, are the ones the empire's frontier knows best.
+The Cave Goblin is a [[lore-goblinfolk|goblin]] of the underground: a small, hunched, sapient creature, three to four feet tall, with huge pale eyes that see in near-darkness, which lives in caves and tunnels as a solitary hunter or in loose communities when food and room allow. It is highly intelligent and amoral, neither wicked nor good: it pursues its own self-interest and the customs of its kind with perfect consistency, follows a trickster god, lies as easily as it breathes, and poisons its weapons with fungal toxins. Goblins hold their own territories in the marginal lands between the settled kingdoms, and the cave goblins of the [[place-vandstein|Vandstein]], the stony southern edge of the [[place-vrystwald|Vristwald]] facing the [[affiliation-vylarinmpr|Vylarian Empire]], are the ones the empire's frontier knows best.
 
 ## Presentation
 
@@ -274,7 +274,7 @@ A cave goblin is driven by hunger, curiosity and its standing among its kind, an
 
 ## What the Frontier Does
 
-The Varokh villages below the Vandstein's passes trade with the cave goblins, cautiously, for the fungi and cave-salts the goblins gather, and pay them not to raid the poultry; the arrangement works most years. Fur traders crossing the passes hire goblin guides now and then, because a goblin knows the caves that cut a day off the road, and they count their packs every night. The Vylarian miners in Moktur who break into goblin tunnels from below call it bad luck and wall the gallery up, because a goblin community that has had its tunnels broken into spends the next season stealing everything the mine owns. Everyone who deals with them learns the same rule: a cave goblin is honest when honesty pays it, and it is never honest by accident.
+The [[lore-varokhiclt|Varokhi]] villages below the Vandstein's passes trade with the cave goblins, cautiously, for the fungi and cave-salts the goblins gather, and pay them not to raid the poultry; the arrangement works most years. Fur traders crossing the passes hire goblin guides now and then, because a goblin knows the caves that cut a day off the road, and they count their packs every night. The Vylarian miners in Moktur who break into goblin tunnels from below call it bad luck and wall the gallery up, because a goblin community that has had its tunnels broken into spends the next season stealing everything the mine owns. Everyone who deals with them learns the same rule: a cave goblin is honest when honesty pays it, and it is never honest by accident.
 
 ## Signs
 

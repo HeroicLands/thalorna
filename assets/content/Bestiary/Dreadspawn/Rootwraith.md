@@ -423,7 +423,7 @@ The farmstead was burned a long time ago, and the forest has taken it back: birc
 
 # Dossier {#dossier}
 
-The Rootwraith is a dreadspawn of root, vine and bark in the shape of a tall man, seven to nine feet high and about six hundred pounds, which rises out of the soil of the deep forest, commands the plants round it, and kills anything living that comes into its ground. It does not eat; it drains the life from what it catches and leaves it to rot. It is patient, slow and implacable. One holds the burned ground on the eastern border of [[place-targud|Targud]], the no-man's-land of burned farmsteads and abandoned watchtowers between the Nordmen kingdom and the Grukar of [[place-grkrhlmrgn|Grukarholm]], and it treats Nordmen and Grukar alike. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Rootwraith is a dreadspawn of root, vine and bark in the shape of a tall man, seven to nine feet high and about six hundred pounds, which rises out of the soil of the deep forest, commands the plants round it, and kills anything living that comes into its ground. It does not eat; it drains the life from what it catches and leaves it to rot. It is patient, slow and implacable. One holds the burned ground on the eastern border of [[place-targud|Targud]], the no-man's-land of burned farmsteads and abandoned watchtowers between the Nordmen kingdom and the [[lore-grukarfolk|Grukar Folk]] of [[place-grkrhlmrgn|Grukarholm Region]], and it treats Nordmen and Grukar alike. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -431,7 +431,7 @@ The rootwraith's body is roots, vines and bark knotted so tightly together that 
 
 ## In the Land
 
-In [[lore-burningeast|the Burning of the East]], from 604 to 614 AF, a Grukar horde burned Targud's eastern districts, and the frontier drew back a day's walk down the river. The ground the horde took is the burned east: farmsteads, watchtowers and the old royal hall at Nulthgard abandoned, and the forest growing back over all of it. The rootwraith holds a stretch of that ground, a few miles of young forest and burned holdings round one of the old ford-roads. It does not leave it, and it goes into the soil and comes up again anywhere inside it. It is most active at dusk and dawn. The forest in its ground grows faster and thicker than the forest round it, and a burned farmstead there is gone under trees in a few years.
+In [[lore-burningeast|The Burning of the East]], from 604 to 614 AF, a Grukar horde burned Targud's eastern districts, and the frontier drew back a day's walk down the river. The ground the horde took is the burned east: farmsteads, watchtowers and the old royal hall at [[place-nulthgard|Nulthgard]] abandoned, and the forest growing back over all of it. The rootwraith holds a stretch of that ground, a few miles of young forest and burned holdings round one of the old ford-roads. It does not leave it, and it goes into the soil and comes up again anywhere inside it. It is most active at dusk and dawn. The forest in its ground grows faster and thicker than the forest round it, and a burned farmstead there is gone under trees in a few years.
 
 ## Key Behaviors
 

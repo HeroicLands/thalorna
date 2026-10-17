@@ -426,7 +426,7 @@ The mountain has been rumbling for three days, and this morning the shrine on it
 
 # Dossier {#dossier}
 
-The Pyroclasm is a fire elemental of volcanic devastation: a spirit of the fire-aspect that manifests out of an active volcano as a twelve-foot giant of incandescent lava and burning rock, and walks out of the crater consuming everything in its path. It is powerful, chaotic, hardly intelligent and destroys everything it reaches, and it does nothing at all to save itself. It comes out of the volcanoes of [[place-jenchairgn|Jenchai]], the volcanic islands east of Tantsou, when they erupt, and it walks down toward the sea. The Jenchai read eruptions as heaven's attention to its favored land, and they read the pyroclasm the same way. Like every elemental it can be destroyed in the material world and it comes back, with the next eruption.
+The Pyroclasm is a fire elemental of volcanic devastation: a spirit of the fire-aspect that manifests out of an active volcano as a twelve-foot giant of incandescent lava and burning rock, and walks out of the crater consuming everything in its path. It is powerful, chaotic, hardly intelligent and destroys everything it reaches, and it does nothing at all to save itself. It comes out of the volcanoes of [[place-jenchairgn|Jenchai Region]], the volcanic islands east of [[place-tantsouregin|Tantsou Region]], when they erupt, and it walks down toward the sea. The Jenchai read eruptions as heaven's attention to its favored land, and they read the pyroclasm the same way. Like every elemental it can be destroyed in the material world and it comes back, with the next eruption.
 
 ## Presentation
 
@@ -434,7 +434,7 @@ The pyroclasm is roughly man-shaped, about twelve feet tall, and built entirely 
 
 ## In the Land
 
-Each of the Nine Mountains of Jenchai is a volcanic peak, its shoulders terraced for rice and its summit kept for shrines, and the volcanism that built them is still active: eruptions, hot springs and earthquakes are part of ordinary life. A pyroclasm rises out of a mountain in eruption, out of the vent or a lava flow, and walks downhill, toward the sea, burning everything on its way: terraces, villages, cedar and pine forests, bamboo groves, shrines. It seems drawn by heat and burning and by the water at the bottom of the slope, and when it reaches the sea it walks into it and is destroyed in a great storm of steam. Between eruptions there are none.
+Each of the [Nine Mountains of Jenchai]{.name data-type="place/feature"} is a volcanic peak, its shoulders terraced for rice and its summit kept for shrines, and the volcanism that built them is still active: eruptions, hot springs and earthquakes are part of ordinary life. A pyroclasm rises out of a mountain in eruption, out of the vent or a lava flow, and walks downhill, toward the sea, burning everything on its way: terraces, villages, cedar and pine forests, bamboo groves, shrines. It seems drawn by heat and burning and by the water at the bottom of the slope, and when it reaches the sea it walks into it and is destroyed in a great storm of steam. Between eruptions there are none.
 
 ## Key Behaviors
 
@@ -442,7 +442,7 @@ A pyroclasm is driven by a compulsion to burn and consume. It walks toward the n
 
 ## What the Islanders Do
 
-The Jenchai treat an eruption as heaven's attention and a pyroclasm as heaven's instrument, and they respond with discipline. When a mountain erupts and a pyroclasm comes out of it, the great lord of the mountain orders the villages in its path cleared, and his retainers hold the roads while the people go. The lord's [[lore-wanduo|Wánduo]] retainers and the shrine priests try to turn its path toward the sea along a stream-bed, by flooding the terraces with water from the irrigation channels and building walls of wet earth across the slope, and they sometimes succeed. Where a pyroclasm has burned a village, the village is rebuilt on the same ground, because the ground has been chosen. Mainland [[affiliation-tengwouronglei|Celestial Order]] scholars class the pyroclasm under the Lord of Fire's wildfire, the fires sent against a region in disorder, and say the islands' eruptions are the proof that the islands are disordered; the islanders say the same of the mainland.
+The Jenchai treat an eruption as heaven's attention and a pyroclasm as heaven's instrument, and they respond with discipline. When a mountain erupts and a pyroclasm comes out of it, the great lord of the mountain orders the villages in its path cleared, and his retainers hold the roads while the people go. The lord's [[lore-wanduo|Wánduo]] retainers and the shrine priests try to turn its path toward the sea along a stream-bed, by flooding the terraces with water from the irrigation channels and building walls of wet earth across the slope, and they sometimes succeed. Where a pyroclasm has burned a village, the village is rebuilt on the same ground, because the ground has been chosen. Mainland [[affiliation-tengwouronglei|Téngwou Rong Lei]] scholars class the pyroclasm under [[lore-wojingjadty|Wojing Ja]]'s wildfire, the fires sent against a region in disorder, and say the islands' eruptions are the proof that the islands are disordered; the islanders say the same of the mainland.
 
 ## Signs
 

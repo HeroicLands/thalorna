@@ -241,7 +241,7 @@ The hum has been under everything for the last mile, a note too low to place, an
 
 # Dossier {#dossier}
 
-The Giant Bee is a honey-bee the size of a wolf, one of a hive of hundreds or thousands that hangs its combs in the great trees and rock-faces of [[place-okharisrgn|Okharis]], from the rain-fed forests of the west out to the dry scrub toward Bethua. Its honey is the best in Zerathia and its sting kills a man. The village tribes of Okharis rob the hives in the one week of the year the bees allow it and keep clear of them the rest of the time, and a hive that moves into a grove near a village is a reason to move the village.
+The Giant Bee is a honey-bee the size of a wolf, one of a hive of hundreds or thousands that hangs its combs in the great trees and rock-faces of [[place-okharisrgn|Okharis Region]], from the rain-fed forests of the west out to the dry scrub toward [[place-bethuargn|Bethua Region]]. Its honey is the best in [[place-xerathia|Zerathia]] and its sting kills a man. The village tribes of Okharis rob the hives in the one week of the year the bees allow it and keep clear of them the rest of the time, and a hive that moves into a grove near a village is a reason to move the village.
 
 A single bee far from the hive is a cautious animal. The hive, roused, is a storm that follows a man for a mile.
 

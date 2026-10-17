@@ -193,7 +193,7 @@ The resin-cutter in front of you stops on the path and looks up, and so do you. 
 
 # Dossier {#dossier}
 
-The Sky Serpent is a gliding constrictor of the tall forest, twenty to thirty feet long but slender, about a hundred and fifty pounds, with broad fins of skin along its flanks that it spreads to glide from tree to tree or down from a height onto its prey. It bites with a venom that weakens and numbs, and it kills by constriction. In [[place-vedyarargn|Vedyara]] its country is the forest of the Bharava: the endowed estates of [[place-bharavavana|Bharavavana]] and, above them, the unclaimed [[place-forestnoroad|Forest of No Road]]. It hunts monkeys, birds, deer and the forest's pigs, and it takes the gatherers who work the canopy for resin and lac.
+The Sky Serpent is a gliding constrictor of the tall forest, twenty to thirty feet long but slender, about a hundred and fifty pounds, with broad fins of skin along its flanks that it spreads to glide from tree to tree or down from a height onto its prey. It bites with a venom that weakens and numbs, and it kills by constriction. In [[place-vedyarargn|Vedyara Region]] its country is the forest of [[place-bharavarivr|The Bharava]]: the endowed estates of [[place-bharavavana|Bharavavana]] and, above them, [[place-forestnoroad|The Forest of No Road]], which is unclaimed. It hunts monkeys, birds, deer and the forest's pigs, and it takes the gatherers who work the canopy for resin and lac.
 
 ## Presentation
 
@@ -209,7 +209,7 @@ A sky serpent hunts by day. It climbs high, waits on a branch above a gap or a g
 
 ## What the Gatherers Do
 
-The forest's gathering peoples, who cut the resin, scrape the lac and climb for honey and pepper under the estates' licenses, know every serpent's tree on their season's paths and work round it. A gatherer climbing a tall tree goes up with a partner below him and a knife on a cord round his wrist, and nobody works alone under a broken canopy at midday. A serpent's shed skin, found whole on the forest floor, is sold at the margin for a good price; the estates' keepers send it down the river to the temple physicians, who grind it into a remedy for numbness and palsy. The pilgrims on the road are told by the [[place-bhrvdvsthna|hostel]]-keepers not to sleep in clearings and not to step off the road to look at anything in the trees.
+The forest's gathering peoples, who cut the resin, scrape the lac and climb for honey and pepper under the estates' licenses, know every serpent's tree on their season's paths and work round it. A gatherer climbing a tall tree goes up with a partner below him and a knife on a cord round his wrist, and nobody works alone under a broken canopy at midday. A serpent's shed skin, found whole on the forest floor, is sold at the margin for a good price; the estates' keepers send it down the river to the temple physicians, who grind it into a remedy for numbness and palsy. The pilgrims on the road are told by the keepers of [[place-bhrvdvsthna|The Bharava-Devastena Hostels]] not to sleep in clearings and not to step off the road to look at anything in the trees.
 
 ## Signs
 

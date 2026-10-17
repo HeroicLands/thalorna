@@ -246,7 +246,7 @@ A line of pale heads lifts over the rim of the gravel basin, and a pair of delic
 
 # Dossier {#dossier}
 
-The Gazelle is the small, very fast antelope of the desert and steppe, two to two and a half feet at the shoulder and forty to seventy-five pounds. Herds of ten to fifty graze the gravel plains and thorn scrub of the [[place-dunhardsrtrgn|Dunhara Desert]], the [[place-khzryndsrtrgn|Khazryn]] and the high ridges of the Bizarian [[place-southrnmrch|Southern March]]. Cheetahs, jackals, steppe lions and eagles live on them, and the nomads hunt them for meat and hide and for the mounted hunts that mark a warrior's standing.
+The Gazelle is the small, very fast antelope of the desert and steppe, two to two and a half feet at the shoulder and forty to seventy-five pounds. Herds of ten to fifty graze the gravel plains and thorn scrub of the [[place-dunhardsrtrgn|Dunhara Desert Region]], the [[place-khzryndsrtrgn|Khazryn Desert Region]] and the high ridges of the Bizarian [[place-southrnmrch|Southern March]]. Cheetahs, jackals, steppe lions and eagles live on them, and the nomads hunt them for meat and hide and for the mounted hunts that mark a warrior's standing.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A slim, lightly built antelope with long, fine-boned legs. The coat is short and
 
 ## In the Land
 
-Gazelles graze the gravel plains and thorn-scrub of the [[place-dunhardsrtrgn|Dunhara Desert]], the dry grass of the [[place-khzryndsrtrgn|Khazryn]], the high ridges of the Bizarian [[place-southrnmrch|Southern March]] and the desert margin of Au'Khelathu. A herd of a dozen to several hundred ranges between sparse grazing and the few water-holes, feeding at dawn and in the evening and lying up in the shade at midday. They move at the first sign of a predator, bounding in stiff-legged jumps to alert the herd.
+Gazelles graze the gravel plains and thorn-scrub of the Dunhara Desert, the dry grass of the Khazryn, the high ridges of the Bizarian Southern March and the desert margin of [[place-aukhelathrgq|Au'Khelathu Region]]. A herd of a dozen to several hundred ranges between sparse grazing and the few water-holes, feeding at dawn and in the evening and lying up in the shade at midday. They move at the first sign of a predator, bounding in stiff-legged jumps to alert the herd.
 
 ## Key Behaviors
 
@@ -262,7 +262,7 @@ Gazelles gather in herds around related females and their young, with adult male
 
 ## What the Hunters Do
 
-The desert-hunters of the Khelathi guild take gazelle with falcons and hounds, and the lords of Bizaria ride after them with hawks and coursing cats. The tribes of Dunhara and the Khazryn course them with desert sighthounds and keep the horns as drinking cups and the hide for waterskins. Gazelle meat is a feast-dish. A tribe that holds the only well in a stretch of desert watches the gazelle trails to read where the other water lies. A young hunter proves himself by running a gazelle down with a hound, and a gazelle given as a gift between chiefs is an offer of peace.
+The desert-hunters of [[affiliation-garnuw|Gar'Nuw]], the Khelathi guild, take gazelle with falcons and hounds, and the lords of [[place-byzariargn|Bizaria Region]] ride after them with hawks and coursing cats. The tribes of [[place-dunharargn|Dunhara Region]] and the Khazryn course them with desert sighthounds and keep the horns as drinking cups and the hide for waterskins. Gazelle meat is a feast-dish. A tribe that holds the only well in a stretch of desert watches the gazelle trails to read where the other water lies. A young hunter proves himself by running a gazelle down with a hound, and a gazelle given as a gift between chiefs is an offer of peace.
 
 ## Signs
 

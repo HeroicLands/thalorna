@@ -270,7 +270,7 @@ The forge-yard gate is open, and the heat that comes out of it is too much for a
 
 # Dossier {#dossier}
 
-The Emberhound is a fire elemental in the shape of a great hound: a spirit of the fire-aspect manifested in the material world as a body of living flame and coal, eight to ten feet long, which thinks, hunts and guards. Emberhounds are drawn to fire, to forges and to places where the boundary with the spirit realm is thin, and they are often bound to a place by someone who knows how. One lies at the gate of a swordsmith's forge at Tsaigen on [[place-tsuijai|Tsuijai]], one of the Nine Mountains of [[place-jenchairgn|Jenchai]], where the Jenchai make blades that are among the finest in Thalorna, and it has guarded that forge for generations. Like every elemental, it can be destroyed in the material world and it comes back.
+The Emberhound is a fire elemental in the shape of a great hound: a spirit of the fire-aspect manifested in the material world as a body of living flame and coal, eight to ten feet long, which thinks, hunts and guards. Emberhounds are drawn to fire, to forges and to places where the boundary with the spirit realm is thin, and they are often bound to a place by someone who knows how. One lies at the gate of a swordsmith's forge at [Tsaigen]{.name data-type="place/settlement"} on [[place-tsuijai|Tsuijai]], one of the [Nine Mountains of Jenchai]{.name data-type="place/feature"} in [[place-jenchairgn|Jenchai Region]], where the Jenchai make blades that are among the finest in [[place-worldthlrn|The World of Thalorna]], and it has guarded that forge for generations. Like every elemental, it can be destroyed in the material world and it comes back.
 
 ## Presentation
 

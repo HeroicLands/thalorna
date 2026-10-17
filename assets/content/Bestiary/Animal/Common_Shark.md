@@ -219,7 +219,7 @@ The harbor water is flat and green, and a gray fin stands up out of it a hundred
 
 # Dossier {#dossier}
 
-The Common Shark is the shark of the warm and temperate seas, ten to fifteen feet long and three to five hundred pounds. It cruises the Vylarian Sea, the island channels of [[place-taruzelrgn|Taruzel]], the waters off [[place-jenchairgn|Jenchai]] and the fjord coast of the [[place-nrdlndsrgn|Nordlands]], and comes into harbors and shallows for offal and blood. A shark finds blood in the water from miles away, and a swimmer is treated as food.
+The Common Shark is the shark of the warm and temperate seas, ten to fifteen feet long and three to five hundred pounds. It cruises the [[place-vylarianse|Vylarian Sea]], the island channels of [[place-taruzelrgn|Taruzel Region]], the waters off [[place-jenchairgn|Jenchai Region]] and the fjord coast of the [[place-nrdlndsrgn|Nordlands Region]], and comes into harbors and shallows for offal and blood. A shark finds blood in the water from miles away, and a swimmer is treated as food.
 
 ## Presentation
 
@@ -227,7 +227,7 @@ A torpedo-shaped fish, slate gray above and white below, with rough skin. The ta
 
 ## In the Land
 
-Sharks cruise the warm and temperate seas, from the Vylarian Sea and the island channels of [[place-taruzelrgn|Taruzel]] to the waters off [[place-jenchairgn|Jenchai]] and the cold fjord coast of the [[place-nrdlndsrgn|Nordlands]], where they come in with the summer herring. They follow the fish runs, the whale carcasses and the offal from the quays, and they come into shallow water to feed at dusk. A shark is met more often in a harbor mouth than in open water.
+Sharks cruise the warm and temperate seas, from the Vylarian Sea and the island channels of Taruzel to the waters off Jenchai and the cold fjord coast of the Nordlands, where they come in with the summer herring. They follow the fish runs, the whale carcasses and the offal from the quays, and they come into shallow water to feed at dusk. A shark is met more often in a harbor mouth than in open water.
 
 ## Key Behaviors
 
@@ -235,7 +235,7 @@ Sharks move with the seasons between feeding and breeding grounds. They hunt alo
 
 ## What the Coast People Do
 
-The fishing towns drive the sharks away from their nets with noise and lines of floats. The pearl and sponge divers of the island channels dive in numbers, with a watcher in the boat and a knife in the hand, and come up at once when the water goes still. Shark-liver oil is burnt in lamps, and the skin, dried and stretched, is used to polish wood and bone. Garhaven in Vristwald takes the shark as its wesk. Swimmers do not bathe near a slaughter-house or a fish-market outfall.
+The fishing towns drive the sharks away from their nets with noise and lines of floats. The pearl and sponge divers of the island channels dive in numbers, with a watcher in the boat and a knife in the hand, and come up at once when the water goes still. Shark-liver oil is burnt in lamps, and the skin, dried and stretched, is used to polish wood and bone. [Garhaven]{.name data-type="place/settlement"} in [[place-vrystwald|Vristwald]] takes the shark as its wesk. Swimmers do not bathe near a slaughter-house or a fish-market outfall.
 
 ## Signs
 
@@ -271,7 +271,7 @@ The shark can detect blood in water from extraordinary distances—the ability t
 
 ### Aquatic Dominance and Speed
 
-In water, the shark is apex predator, capable of accelerating to speeds that exceed human swimming capability by factors of three or more. It maneuvers with precision, banks and turns instantly, and can position itself advantageously regardless of terrain. A swimmer has almost no chance against a shark.
+In water, the shark is an apex predator, capable of accelerating to speeds that exceed human swimming capability by factors of three or more. It maneuvers with precision, banks and turns instantly, and can position itself advantageously regardless of terrain. A swimmer has almost no chance against a shark.
 
 ### Feeding Frenzy and Escalating Aggression
 

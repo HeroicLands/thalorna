@@ -250,7 +250,7 @@ The dog went quiet first, and now you understand why. There was no sound. There 
 
 # Dossier {#dossier}
 
-The Giant Owl is the great owl of the northern forests, with a wingspan of twenty-five feet and a flight that makes no sound at all, which hunts the old woods of [[place-vrystwald|Vristwald]] and the spruce forest behind the [[place-nrdlndsrgn|Nordlands]] fjords by night and sleeps in a hollow trunk or a cliff-cave by day. It takes hares, foxes, fawns, lynx, goats and dogs, and a man alone on a forest path after dark, and it is the one hunter of the north that a traveler does not hear coming. The Varokh keep it as a wesk, and the shamans of the owl villages read its calls.
+The Giant Owl is the great owl of the northern forests, with a wingspan of twenty-five feet and a flight that makes no sound at all, which hunts the old woods of [[place-vrystwald|Vristwald]] and the spruce forest behind the [[place-nrdlndsrgn|Nordlands Region]] fjords by night and sleeps in a hollow trunk or a cliff-cave by day. It takes hares, foxes, fawns, lynx, goats and dogs, and a man alone on a forest path after dark, and it is the one hunter of the north that a traveler does not hear coming. The [[lore-varokhiclt|Varokhi]] keep it as a wesk, and the shamans of the owl villages read its calls.
 
 ## Presentation
 
@@ -258,7 +258,7 @@ A huge owl in mottled brown and gray that vanishes against bark and shadow, stan
 
 ## In the Land
 
-Giant Owls hold the deep timber of Vristwald's central forest belt and its deepwood, [[place-vethwald|Vethwald]], where the great trees give them hollows to roost in, and the spruce and pine forest south and east of the Nordlands mountains, up to the edge of the caribou plateaus. Each holds a range of many square miles alone, and a pair in the nesting season holds it together and fiercely. They want old forest with clearings and river-meadows to hunt over. Each of the Varokh owl villages—[[place-vethholt|Vethholt]] in Thornwald, and **Frodstein**, **Domreth** and **Fródhaven** elsewhere in the forest—has a pair in its woods, and its shaman knows the roost.
+Giant Owls hold the deep timber of Vristwald's central forest belt and its deepwood, [[place-vethwald|Vethwald]], where the great trees give them hollows to roost in, and the spruce and pine forest south and east of the Nordlands mountains, up to the edge of the caribou plateaus. Each holds a range of many square miles alone, and a pair in the nesting season holds it together and fiercely. They want old forest with clearings and river-meadows to hunt over. Each of the Varokh owl villages—[[place-vethholt|Vethholt]] in [[place-thornwald|Thornwald]], and **[Frodstein]{.name data-type="place/settlement"}**, **[Domreth]{.name data-type="place/settlement"}** and **[[place-frodhaven|Fródhaven]]** elsewhere in the forest—has a pair in its woods, and its shaman knows the roost.
 
 ## Key Behaviors
 

@@ -449,7 +449,7 @@ The inlet is brown and brackish and full of reeds, and the punt-pole goes down i
 
 # Dossier {#dossier}
 
-The Mirelurker is a dreadspawn of the brackish marshes: eight to ten feet long and three hundred pounds, armored like a crab and built like nothing natural, with six limbs, a plated head that is mostly jaw, and two great arms that seize and drag. It lies in the mud of a channel, still as a sunken log, for hours, and when something comes within reach it erupts, grabs and pulls it under, churning the water to a choking slurry round it. It holds a stretch of salt-marsh and inlet on the coast of [[place-lisere|Lísere]], Élavendre's cold northern shore on [[place-liserebay|Lísere Bay]], and the coast that already watches the sea for raiders watches its own inlets for this. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Mirelurker is a dreadspawn of the brackish marshes: eight to ten feet long and three hundred pounds, armored like a crab and built like nothing natural, with six limbs, a plated head that is mostly jaw, and two great arms that seize and drag. It lies in the mud of a channel, still as a sunken log, for hours, and when something comes within reach it erupts, grabs and pulls it under, churning the water to a choking slurry round it. It holds a stretch of salt-marsh and inlet on the coast of [[place-lisere|Lísere]], [[place-elavendre|Élavendre]]'s cold northern shore on [[place-liserebay|Lísere Bay]], and the coast that already watches the sea for raiders watches its own inlets for this. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -465,7 +465,7 @@ A mirelurker hunts from ambush, mostly by night, lying in the mud with only the 
 
 ## What the Coast People Do
 
-Lísere's villages are already set back from the water for fear of raiders, and the two villages either side of the mirelurker's inlet have drawn their boats up out of it and launch from the open shingle instead, which is harder work. Sheep are not grazed on that marsh. Nobody wades its channels, and a fisherman who must go into the inlet goes in daylight, at high water, in a boat, with a lit brazier aboard, because fire hurts the creature and it avoids the heat. The beacon watch on the headland above the inlet, which is there for raiders, has a second duty: to call out if the log in the channel is not where it was yesterday. Varokh raiders who land in that inlet are not warned. The villages count it a good night when a raiding boat comes in there.
+Lísere's villages are already set back from the water for fear of raiders, and the two villages either side of the mirelurker's inlet have drawn their boats up out of it and launch from the open shingle instead, which is harder work. Sheep are not grazed on that marsh. Nobody wades its channels, and a fisherman who must go into the inlet goes in daylight, at high water, in a boat, with a lit brazier aboard, because fire hurts the creature and it avoids the heat. The beacon watch on the headland above the inlet, which is there for raiders, has a second duty: to call out if the log in the channel is not where it was yesterday. [[lore-varokhiclt|Varokhi]] raiders who land in that inlet are not warned. The villages count it a good night when a raiding boat comes in there.
 
 ## Signs
 

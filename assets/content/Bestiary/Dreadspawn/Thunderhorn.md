@@ -278,7 +278,7 @@ The storm comes across the altiplano like a wall, black underneath and white whe
 
 # Dossier {#dossier}
 
-The Thunderhorn is a dreadspawn of storm and bulk: a horned beast fifteen to twenty-two feet long and ten to fourteen feet high, built like a buffalo or a rhinoceros, whose body carries a charge like a thundercloud. It gores and tramples with lightning crawling on its horns, throws shocks that scorch, feeds, as far as anyone can tell, on the lightning of storms, and grows stronger in them. It claims miles of open high country. One ranges the altiplano of [[place-kuxiixbalrgn|K'ushi Ish'bal]], the high, cold grassland at the threshold of Southern K'ich'chik's forsaken wastes, where storms sweep the plateau and the herders follow their flocks. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Thunderhorn is a dreadspawn of storm and bulk: a horned beast fifteen to twenty-two feet long and ten to fourteen feet high, built like a buffalo or a rhinoceros, whose body carries a charge like a thundercloud. It gores and tramples with lightning crawling on its horns, throws shocks that scorch, feeds, as far as anyone can tell, on the lightning of storms, and grows stronger in them. It claims miles of open high country. One ranges the altiplano of [[place-kuxiixbalrgn|K'ushi Ish'bal Region]], the high, cold grassland at the threshold of [[place-sthrnkchchk|Southern K'ich'chik]]'s forsaken wastes, where storms sweep the plateau and the herders follow their flocks. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 

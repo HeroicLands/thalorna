@@ -437,7 +437,7 @@ A powerful ape with arms so long that the span from hand to hand is as great as 
 
 ## In the Land
 
-Chimpanzee communities live in the rain-forest of the [[place-cntrlrnfrsts|Central Rainforests]], where a group holds a territory of several square miles of fruit trees, river bank and sleeping groves. A community feeds in the canopy by day and builds a nest of bent branches each night, in a different tree. Neighboring communities meet at the border of their ranges and fight. The Rainforests are large enough to hold dozens of groups, and the tribes do not know how many.
+Chimpanzee communities live in the rain-forest of the Central Rainforests, where a group holds a territory of several square miles of fruit trees, river bank and sleeping groves. A community feeds in the canopy by day and builds a nest of bent branches each night, in a different tree. Neighboring communities meet at the border of their ranges and fight. The Rainforests are large enough to hold dozens of groups, and the tribes do not know how many.
 
 ## Key Behaviors
 
@@ -445,7 +445,7 @@ Communities are ordered by rank, held by display, alliance and violence, with ad
 
 ## What the Forest Tribes Do
 
-The forest tribes keep their camps and gardens away from the fruit trees a community feeds in. They do not walk alone, and they walk in numbers, with spears and drums, when a community's range lies across the track to the river. Gardens are fenced with thorn and watched from platforms by day. A tribe that loses a child blames a chimpanzee, and a hunt for the offender follows. The Sengala trade-parties that come in from the savanna edge are warned of the territories by the first village they reach, and they cross by night or in strength.
+The forest tribes keep their camps and gardens away from the fruit trees a community feeds in. They do not walk alone, and they walk in numbers, with spears and drums, when a community's range lies across the track to the river. Gardens are fenced with thorn and watched from platforms by day. A tribe that loses a child blames a chimpanzee, and a hunt for the offender follows. The [Sengala]{.name data-type="affiliation/polity"} trade-parties that come in from the savanna edge are warned of the territories by the first village they reach, and they cross by night or in strength.
 
 ## Signs
 

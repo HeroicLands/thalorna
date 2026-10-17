@@ -238,7 +238,7 @@ High on the rock face above the snowline, among the grays and creams of the scre
 
 # Dossier {#dossier}
 
-The Snow Leopard is the lone hunter of the high mountains, two and a half to three feet at the shoulder and four to five feet long, living above the tree-line in the [[place-graznmntns|Grazian Mountains]], where no other large predator competes. It hunts wild goats and sheep, and will take larger prey. It comes down in the severest winters, when the game does. It is not afraid of people unless it is provoked or defending its range.
+The Snow Leopard is the lone hunter of the high mountains, two and a half to three feet at the shoulder and four to five feet long, living above the tree-line in [[place-graznmntns|The Grazian Mountains]], where no other large predator competes. It hunts wild goats and sheep, and will take larger prey. It comes down in the severest winters, when the game does. It is not afraid of people unless it is provoked or defending its range.
 
 ## Presentation
 
@@ -246,7 +246,7 @@ A muscular cat, more compact than a leopard, built for snow and rock. The coat i
 
 ## In the Land
 
-Snow leopards live above the tree-line in the high ranges of the [[place-graznmntns|Grazian Mountains]], on the rock walls and snow-fields where the wild goats and sheep graze. A cat holds a thinly stocked range of many miles of ridge and ravine, rests in a cave or a crevice by day and hunts at twilight and in the early morning. It climbs and leaps across gaps, and its smoke-gray coat disappears against the rock.
+Snow leopards live above the tree-line in the high ranges of the Grazian Mountains, on the rock walls and snow-fields where the wild goats and sheep graze. A cat holds a thinly stocked range of many miles of ridge and ravine, rests in a cave or a crevice by day and hunts at twilight and in the early morning. It climbs and leaps across gaps, and its smoke-gray coat disappears against the rock.
 
 ## Key Behaviors
 

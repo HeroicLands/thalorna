@@ -192,7 +192,7 @@ The ferryman has stopped poling. The reed-boat drifts in the still channel betwe
 
 # Dossier {#dossier}
 
-The Nightshade Serpent is a dreadspawn in the shape of a great snake, twelve to eighteen feet long and as thick as a man's thigh, which hunts out of shadow, poisons with a venom that brings creeping paralysis and pain, and kills by constriction. It is clever and cruel, and it seems to feed on fear and suffering as much as on flesh: it lingers over its kills. One lives among the shrine-islands of [[place-selatleterunome|Selat-Leteru]] in the delta of Au'Khelathu, a quiet pilgrimage country of marsh-temples, channels and reed-beds, and the ferrymen who carry the pilgrims know it. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Nightshade Serpent is a dreadspawn in the shape of a great snake, twelve to eighteen feet long and as thick as a man's thigh, which hunts out of shadow, poisons with a venom that brings creeping paralysis and pain, and kills by constriction. It is clever and cruel, and it seems to feed on fear and suffering as much as on flesh: it lingers over its kills. One lives among the shrine-islands of [[place-selatleterunome|Selat-Leteru]] in the delta of [[place-aukhelathrgq|Au'Khelathu Region]], a quiet pilgrimage country of marsh-temples, channels and reed-beds, and the ferrymen who carry the pilgrims know it. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -208,7 +208,7 @@ The serpent hunts by night, from shadow, and it does more than wait: it follows 
 
 ## What the Ferrymen and Priests Do
 
-The ferrymen of the shrine-islands tell pilgrims to keep their hands inside the boat and their voices down, and some of them say the second rule is older than the temples' dislike of argument: that a raised voice on the water at night carries to something besides the priests. Pilgrims are not allowed on the island paths after the temple lamps are lit, and the temples keep lamps burning all night along the landings, because the serpent dislikes the light. The priests of [[affiliation-uznera|Uzn'era]] treat a bite with prayer, a cold bath and a tourniquet, and keep the bitten man company through the night, because the pain is the worst of it and fear makes it worse. The disused shrine whose undercroft it lies in has been closed by the temple. The temple's own account of why it was closed does not mention the serpent.
+The ferrymen of the shrine-islands tell pilgrims to keep their hands inside the boat and their voices down, and some of them say the second rule is older than the temples' dislike of argument: that a raised voice on the water at night carries to something besides the priests. Pilgrims are not allowed on the island paths after the temple lamps are lit, and the temples keep lamps burning all night along the landings, because the serpent dislikes the light. The priests of the [[affiliation-uznera|Faith of Uzn'era]] treat a bite with prayer, a cold bath and a tourniquet, and keep the bitten man company through the night, because the pain is the worst of it and fear makes it worse. The disused shrine whose undercroft it lies in has been closed by the temple. The temple's own account of why it was closed does not mention the serpent.
 
 ## Signs
 

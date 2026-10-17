@@ -270,7 +270,7 @@ The snow on the high fell is hard and the wind has dropped, and in the stillness
 
 # Dossier {#dossier}
 
-The Frostjaw is an ice elemental in the shape of a great wolf: a spirit of the cold that manifests as ten to twelve feet of living ice, drawn to the deepest cold and to living warmth, which it hunts. It is solitary, territorial and relentless, and where it stays, the winter deepens. One hunts the high folds of the [[place-nordfells|Nordfells]], the cold, wet, nearly empty northern mountains of Stormveld on Aelwyth, where snow lies on the tops into what passes for summer. The shepherds, turf-cutters and upland steadings of the fells know it as the winter that walks. Like every elemental it can be destroyed in the material world, and it comes back, usually to the same fell, usually in the dead of winter.
+The Frostjaw is an ice elemental in the shape of a great wolf: a spirit of the cold that manifests as ten to twelve feet of living ice, drawn to the deepest cold and to living warmth, which it hunts. It is solitary, territorial and relentless, and where it stays, the winter deepens. One hunts the high folds of [[place-nordfells|The Nordfells]], the cold, wet, nearly empty northern mountains of [[place-stormveld|Stormveld]] on [[place-aelwyth|Aelwyth]], where snow lies on the tops into what passes for summer. The shepherds, turf-cutters and upland steadings of the fells know it as the winter that walks. Like every elemental it can be destroyed in the material world, and it comes back, usually to the same fell, usually in the dead of winter.
 
 ## Presentation
 
@@ -278,7 +278,7 @@ The frostjaw is shaped like a huge wolf, heavy in the shoulder and long in the l
 
 ## In the Land
 
-The Nordfells run along the whole northern edge of Stormveld, higher and colder than the Ironfells to the south, with narrow boggy valleys and cliffs and inlets on the northern coast. The frostjaw hunts the high folds and the snowfields above the valleys, and in hard winters it comes down into the valleys after the steadings' flocks and the warmth of their hearths. It is drawn to heat: warm-blooded animals, a lit steading, a fire on a hillside, a man. It does not go down to the coast, where the sea keeps the cold off, and in the brief summer it withdraws to the high snow or vanishes until the cold comes back.
+The Nordfells run along the whole northern edge of Stormveld, higher and colder than [[place-ironfells|The Ironfells]] to the south, with narrow boggy valleys and cliffs and inlets on the northern coast. The frostjaw hunts the high folds and the snowfields above the valleys, and in hard winters it comes down into the valleys after the steadings' flocks and the warmth of their hearths. It is drawn to heat: warm-blooded animals, a lit steading, a fire on a hillside, a man. It does not go down to the coast, where the sea keeps the cold off, and in the brief summer it withdraws to the high snow or vanishes until the cold comes back.
 
 ## Key Behaviors
 
@@ -286,7 +286,7 @@ A frostjaw hunts alone, by day and by night, following warmth. It runs down deer
 
 ## What the Fell People Do
 
-The shepherds, turf-cutters and steadings of the Nordfells, Nordmen, thralls and the Aelwythan uplanders who acknowledge nobody alike, count the frostjaw a hazard of the high folds and treat it as they treat a blizzard. They bring the flocks down early in a year when frost comes to the high tarns before its time, and they bank their fires and keep their doors shut on still winter nights, because the light and warmth of a steading draws it. Every steading keeps a store of seasoned wood for a great fire, because fire is what drives it off and what destroys it, and a household that has burned through its woodpile to keep the frostjaw away counts it the cheapest winter's work it ever did. The Jarldom's hunters, who range the fells, will not hunt it, and the jarl's men in the fells file its kills as Grukar raiding.
+The shepherds, turf-cutters and steadings of the Nordfells, Nordmen, thralls and the Aelwythan uplanders who acknowledge nobody alike, count the frostjaw a hazard of the high folds and treat it as they treat a blizzard. They bring the flocks down early in a year when frost comes to the high tarns before its time, and they bank their fires and keep their doors shut on still winter nights, because the light and warmth of a steading draws it. Every steading keeps a store of seasoned wood for a great fire, because fire is what drives it off and what destroys it, and a household that has burned through its woodpile to keep the frostjaw away counts it the cheapest winter's work it ever did. The [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]'s hunters, who range the fells, will not hunt it, and the jarl's men in the fells file its kills as raids by the [[lore-grukarfolk|Grukar Folk]].
 
 ## Signs
 

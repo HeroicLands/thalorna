@@ -214,7 +214,7 @@ At dusk a thin, wailing cry rises from the dry channel beyond the last field. It
 
 # Dossier {#dossier}
 
-The Jackal is the small wild dog of the river lowlands, sixteen to twenty inches at the shoulder and fifteen to thirty-five pounds, living along the river and channels of [[place-aukhelathrgq|Au'Khelathu]], in the desert margins, around village middens and among the tombs of the necropolis cities. It scavenges first and hunts second, alone, in pairs or in loose packs of up to a dozen. Jackals are sacred to the lord of the dead, and killing one near a tomb is a serious offense, which the farmers who lose livestock to them feel differently about.
+The Jackal is the small wild dog of the river lowlands, sixteen to twenty inches at the shoulder and fifteen to thirty-five pounds, living along the river and channels of [[place-aukhelathrgq|Au'Khelathu Region]], in the desert margins, around village middens and among the tombs of the necropolis cities. It scavenges first and hunts second, alone, in pairs or in loose packs of up to a dozen. Jackals are sacred to the lord of the dead, and killing one near a tomb is a serious offense, which the farmers who lose livestock to them feel differently about.
 
 ## Presentation
 
@@ -222,7 +222,7 @@ A slender, long-legged wild dog, built for endurance. The coat is short and coar
 
 ## In the Land
 
-Jackals live along the river and the irrigation channels of [[place-aukhelathrgq|Au'Khelathu]], in the scrub at the edge of the desert, around village middens and among the tombs of the necropolis cities. A pair or a family shelters in a shallow den or a rock crevice by day and hunts at dusk and dawn. They are wary, quick and adaptable, and feed on carrion, fruit, rodents, insects and whatever people throw away.
+Jackals live along the river and the irrigation channels of Au'Khelathu, in the scrub at the edge of the desert, around village middens and among the tombs of the necropolis cities. A pair or a family shelters in a shallow den or a rock crevice by day and hunts at dusk and dawn. They are wary, quick and adaptable, and feed on carrion, fruit, rodents, insects and whatever people throw away.
 
 ## Key Behaviors
 
@@ -230,7 +230,7 @@ Jackals are active at dawn, dusk and night and rest by day in shallow dens, rock
 
 ## What the Necropolis Keepers Do
 
-[[lore-hezmuiridty|Hezmu'iri]], the Keeper of Transitions, is shown with a jackal's head, and the embalmers who work the drying beds hold the animal in respect for the care it seems to take of the dead. The necropolis keepers feed the jackals that live in the cemetery walls and drive them from freshly sealed tombs. Farmers shoot or trap the ones that take poultry. The Houseless warband of exiled Bethuan women in the South Marches takes the jackal's name. A jackal's call at night is a village's sign that a death is near, and a dog's reply is not welcomed.
+[[lore-hezmuiridty|Hezmu'iri]], the Keeper of Transitions, is shown with a jackal's head, and the embalmers who work the drying beds hold the animal in respect for the care it seems to take of the dead. The necropolis keepers feed the jackals that live in the cemetery walls and drive them from freshly sealed tombs. Farmers shoot or trap the ones that take poultry. [[affiliation-jcklsthmrchs|The Jackals of the South Marches]], a Houseless warband of exiled Bethuan women in the [[place-sthmrchsrgn|South Marches]], take the jackal's name. A jackal's call at night is a village's sign that a death is near, and a dog's reply is not welcomed.
 
 ## Signs
 

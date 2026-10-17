@@ -425,7 +425,7 @@ The hill-fort burned so long ago that grass grows over the fallen roof-beams, bu
 
 # Dossier {#dossier}
 
-The Flamewraith is a spirit of fire: most often what is left of a mage who died in his own fire, his soul unreceived and bound to the place or the thing that burned him, and now a shape of living flame that hungers for fuel and burns what it touches. It passes through walls, it bursts into flame round itself, and it cannot be ended while the object it is bound to survives. The flamewraith best known in the west haunts a burned hill-fort in the hills of [[place-helionis|Helionis]], near [[affiliation-theradon|Theradon]]. It dates from the Helionite war against the Vylarian Republic, when the Republic's dragons made the mage-warlords' spells turn back on them, and some of those mages burned in their own sorcery.
+The Flamewraith is a spirit of fire: most often what is left of a mage who died in his own fire, his soul unreceived and bound to the place or the thing that burned him, and now a shape of living flame that hungers for fuel and burns what it touches. It passes through walls, it bursts into flame round itself, and it cannot be ended while the object it is bound to survives. The flamewraith best known in the west haunts a burned hill-fort in the hills of [[place-helionis|Helionis]], near [[place-theradon2|Theradon]]. It dates from the Helionite war against the [Vylarian Republic]{.name data-type="affiliation/polity"}, when the Republic's dragons made the mage-warlords' spells turn back on them, and some of those mages burned in their own sorcery.
 
 ## Presentation
 

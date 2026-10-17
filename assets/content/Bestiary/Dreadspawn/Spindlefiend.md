@@ -190,7 +190,7 @@ The tomb door was sealed with a block, and the block has been moved, a long time
 
 # Dossier {#dossier}
 
-The Spindlefiend is a dreadspawn in the shape of a narrow, long-legged spider, five to seven feet high on legs eight to twelve feet long, which fills rooms with webs so fine and dark they cannot be seen, and kills what walks into them. It is cunning beyond any animal, patient, and inventive; it spends years perfecting its ground. One has made its home in the [[place-firsttablets|Ground of the First Tablets]], the burial-ground of the first kings of [[place-zugernome|Zu-Ger]] on the upper river of Au'Khelathu, where the low tombs stand on the desert edge above the fields. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Spindlefiend is a dreadspawn in the shape of a narrow, long-legged spider, five to seven feet high on legs eight to twelve feet long, which fills rooms with webs so fine and dark they cannot be seen, and kills what walks into them. It is cunning beyond any animal, patient, and inventive; it spends years perfecting its ground. One has made its home in [[place-firsttablets|The Ground of the First Tablets]], the burial-ground of the first kings of [[place-zugernome|Zu-Ger]] on the upper river of [[place-aukhelathrgq|Au'Khelathu Region]], where the low tombs stand on the desert edge above the fields. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -198,7 +198,7 @@ The spindlefiend's body is narrow and light, plated in deep gray or mottled brow
 
 ## In the Land
 
-The Ground of the First Tablets is low tombs of mudbrick and rough stone, some no more than mounds, some with a door sealed by a block and a lintel cut in the sacred hand, in rows along the desert edge, and the temple of [[affiliation-hezmuiri|Hezmu'iri]] at [[place-tjegu|Tjegu]] keeps watch over it with a thin guard. The spindlefiend lives in the tombs whose seals were broken long ago, and has strung their chambers, passages and the hollows under them with its webs. It hunts the jackals, foxes, owls and snakes that come into the tombs, and the tomb-robbers who come for the gold the oldest tombs do not have. It never goes down into the fields and never into daylight.
+The Ground of the First Tablets is low tombs of mudbrick and rough stone, some no more than mounds, some with a door sealed by a block and a lintel cut in the sacred hand, in rows along the desert edge, and the temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] at [[place-tjegu|Tjegu]] keeps watch over it with a thin guard. The spindlefiend lives in the tombs whose seals were broken long ago, and has strung their chambers, passages and the hollows under them with its webs. It hunts the jackals, foxes, owls and snakes that come into the tombs, and the tomb-robbers who come for the gold the oldest tombs do not have. It never goes down into the fields and never into daylight.
 
 ## Key Behaviors
 
@@ -206,7 +206,7 @@ The spindlefiend builds. It lays its webs in layers through a chamber, slowly, o
 
 ## What the Temple and the Farmers Do
 
-The farmers of Zu-Ger plow round the marker stones below the burial-ground and keep their rules about them, and they do not go up onto the shelf at all. The temple of Hezmu'iri's guards walk the rows by day and do not go into the opened tombs. When a guard must enter one, he goes with a smoking torch, sweeping it ahead of him through the air, because smoke and powder show the threads, and fire burns them. Tomb-robbers from the river towns come up every few years, because a rumor of gold in the oldest tombs never dies, and the guards find what is left of them in a chamber that looks empty, bound in silk and dry. The temple has not removed the creature, and a priest of Hezmu'iri, asked why, says that the dead of the First House have guardians enough, and leaves the visitor to count them.
+The farmers of Zu-Ger plow round the marker stones below the burial-ground and keep their rules about them, and they do not go up onto the shelf at all. The temple of Hezmu'iri's guards walk the rows by day and do not go into the opened tombs. When a guard must enter one, he goes with a smoking torch, sweeping it ahead of him through the air, because smoke and powder show the threads, and fire burns them. Tomb-robbers from the river towns come up every few years, because a rumor of gold in the oldest tombs never dies, and the guards find what is left of them in a chamber that looks empty, bound in silk and dry. The temple has not removed the creature, and a priest of Hezmu'iri, asked why, says that the dead of the [First House]{.name data-type="affiliation/lineage"} have guardians enough, and leaves the visitor to count them.
 
 ## Signs
 

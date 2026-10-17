@@ -246,7 +246,7 @@ The string of camels comes down the pass through the first snow, each shaggy ani
 
 # Dossier {#dossier}
 
-The Khazryn Camel is the two-humped camel of the cold desert and steppe, seven to eleven feet at the shoulder and over a thousand pounds, bred for endurance on frozen passes, wind-scoured plateaus and bitter deserts. It carries merchants and soldiers across the [[place-khzryndsrtrgn|Khazryn]] and through the passes of the [[place-graznmntns|Grazian Mountains]]. It is more docile than the one-humped dromedary, though a frightened one is as dangerous as any hoofed animal. Herds that have gone feral hold the abandoned reaches of old trade routes.
+The Khazryn Camel is the two-humped camel of the cold desert and steppe, seven to eleven feet at the shoulder and over a thousand pounds, bred for endurance on frozen passes, wind-scoured plateaus and bitter deserts. It carries merchants and soldiers across the [[place-khzryndsrtrgn|Khazryn Desert Region]] and through the passes of [[place-graznmntns|The Grazian Mountains]]. It is more docile than the one-humped dromedary, though a frightened one is as dangerous as any hoofed animal. Herds that have gone feral hold the abandoned reaches of old trade routes.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A long-necked, long-legged animal with a compact, muscular body and two high hum
 
 ## In the Land
 
-Two-humped camels are bred and herded across the steppe and cold desert of the [[place-khzryndsrtrgn|Khazryn]], and they are driven through the high passes of the [[place-graznmntns|Grazian Mountains]] and over the plateau of the northern road. A herd grazes the thorn and the tough grass of the margins and winters in the sheltered valleys, growing a thick coat that it sheds in clumps in spring. A few herds that have gone feral hold the abandoned reaches of old trade routes.
+Two-humped camels are bred and herded across the steppe and cold desert of the Khazryn, and they are driven through the high passes of the Grazian Mountains and over the plateau of the northern road. A herd grazes the thorn and the tough grass of the margins and winters in the sheltered valleys, growing a thick coat that it sheds in clumps in spring. A few herds that have gone feral hold the abandoned reaches of old trade routes.
 
 ## Key Behaviors
 

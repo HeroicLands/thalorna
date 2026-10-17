@@ -256,7 +256,7 @@ The river has gone wrong. Where the boatman says there should be a run of fast w
 
 # Dossier {#dossier}
 
-The Giant Beaver is a three-hundred-pound water rodent four feet high at the shoulder, which fells trees, dams rivers and builds lodges on a scale that changes the map, and it lives on [[place-vrystwldrvrs|the slow rivers of Vristwald]] and in the marsh country of [[place-grkrhlmrgn|Grukarholm]] to the east. A family's dams turn a mile of river into a chain of lakes, drown a stand of forest and close a boat-road, and the family defends the work against anything that touches it. The Varokh who live by the rivers deal with it as they deal with a flood: by moving, by waiting, or, when they must, by breaking the dam at night with the whole village and running.
+The Giant Beaver is a three-hundred-pound water rodent four feet high at the shoulder, which fells trees, dams rivers and builds lodges on a scale that changes the map, and it lives on the slow [[place-vrystwldrvrs|Vristwald Rivers]] and in the marsh country of [[place-grkrhlmrgn|Grukarholm Region]] to the east. A family's dams turn a mile of river into a chain of lakes, drown a stand of forest and close a boat-road, and the family defends the work against anything that touches it. The [[lore-varokhiclt|Varokhi]] who live by the rivers deal with it as they deal with a flood: by moving, by waiting, or, when they must, by breaking the dam at night with the whole village and running.
 
 ## Presentation
 
@@ -264,7 +264,7 @@ A heavy-bodied aquatic rodent in dense, waterproof fur, dark brown with a reddis
 
 ## In the Land
 
-Giant Beavers hold the slow brown rivers of the central forest belt wherever the banks carry birch, aspen and willow, and the marsh and lake systems of Grukarholm, where the water is already slow and a dam floods a league of bog. A family's territory is a reach of river with one great dam or a chain of several, a lodge of logs and mud in the pond behind it, and a felling-ground on each bank. The Vristwald landings know which reaches are beaver water and which season a dam is building, and a boat-road is rerouted round a new lake the year it appears.
+Giant Beavers hold the slow brown rivers of the central forest belt wherever the banks carry birch, aspen and willow, and the marsh and lake systems of Grukarholm, where the water is already slow and a dam floods a league of bog. A family's territory is a reach of river with one great dam or a chain of several, a lodge of logs and mud in the pond behind it, and a felling-ground on each bank. The [[place-vrystwald|Vristwald]] landings know which reaches are beaver water and which season a dam is building, and a boat-road is rerouted round a new lake the year it appears.
 
 ## Key Behaviors
 

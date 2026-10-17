@@ -440,7 +440,7 @@ The pass is a notch of bare rock between two shoulders of snow, and the cairn at
 
 # Dossier {#dossier}
 
-The Mountain Troll is the greatest of the trolls: a dreadspawn sixteen to twenty feet tall and as heavy as a cottage, with a hide half turned to stone, a body that heals almost anything, and strength enough to tear boulders from a mountainside. It holds a range of high country twenty miles across or more, sleeps for weeks in a deep cave, and eats prodigiously when it wakes. One holds a pass of the [[place-talothe|Talote]], the cold mountain march between Provenzia and Tarvénia, and it has done what neither crown could: it has closed one of the raiding roads altogether. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Mountain Troll is the greatest of the trolls: a dreadspawn sixteen to twenty feet tall and as heavy as a cottage, with a hide half turned to stone, a body that heals almost anything, and strength enough to tear boulders from a mountainside. It holds a range of high country twenty miles across or more, sleeps for weeks in a deep cave, and eats prodigiously when it wakes. One holds a pass of the [[place-talothe|Talote]], the cold mountain march between [[place-provenzrgn|Provenzia Region]] and [[place-tarvenirgn|Tarvénia Region]], and it has done what neither crown could: it has closed one of the raiding roads altogether. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -456,7 +456,7 @@ The troll is territorial to obsession and solitary. It wakes, hunts its range on
 
 ## What the Marchers Do
 
-The border families on both sides of the march have quietly dropped the troll's pass from their raiding calendar, and the pass has been empty of raiders for longer than anyone in [[place-durvalis|Durvalis]] likes to say. Shepherds on both sides graze the summer pastures at the edges of its range only in the weeks it sleeps, and post a boy on a high rock to watch the cave mouth. The Winter Assize at Durvalis has heard several cases in which one family accused another of driving cattle onto the troll's ground to lure it toward a rival's flocks; none was proved. There is a bounty on the troll from both crowns, the only thing the two crowns have agreed on in a generation, and nobody has collected it.
+The border families on both sides of the march have quietly dropped the troll's pass from their raiding calendar, and the pass has been empty of raiders for longer than anyone in [[place-durvalis|Durvalis]] likes to say. Shepherds on both sides graze the summer pastures at the edges of its range only in the weeks it sleeps, and post a boy on a high rock to watch the cave mouth. The [Winter Assize]{.name data-type="affiliation/governmental"} at Durvalis has heard several cases in which one family accused another of driving cattle onto the troll's ground to lure it toward a rival's flocks; none was proved. There is a bounty on the troll from both crowns, the only thing the two crowns have agreed on in a generation, and nobody has collected it.
 
 ## Signs
 

@@ -248,7 +248,7 @@ The workshop is bright: three tall windows, a bench of glass vessels, a lens on 
 
 # Dossier {#dossier}
 
-The Glassfang is a small dreadspawn of clear, living crystal, about the size of a big cat and eighty pounds in weight, nearly invisible in bright light, with fangs that cut through leather and a venom that weakens and paralyzes. It hunts fast and alone, and it is drawn to light and to places where magic is worked. One is loose in [[place-beravel|Péravel]], in the University of the [[affiliation-ordoarcanis|Thordimalon]] and the workshop quarter round it, in [[place-ellive|Éllive]], the heartland of Élavendre, and the Order has been trying to catch it for three years. Like every dreadspawn it was made, it is alive, and it does not breed. How it came to the University is the question the Order least wants asked.
+The Glassfang is a small dreadspawn of clear, living crystal, about the size of a big cat and eighty pounds in weight, nearly invisible in bright light, with fangs that cut through leather and a venom that weakens and paralyzes. It hunts fast and alone, and it is drawn to light and to places where magic is worked. One is loose in [[place-beravel|Péravel]], in the [[affiliation-ordoarcanis|Thordimalon]]'s [University of Péravel]{.name data-type="affiliation"} and the workshop quarter round it, in [[place-ellive|Éllive]], the heartland of [[place-elavendre|Élavendre]], and the Order has been trying to catch it for three years. Like every dreadspawn it was made, it is alive, and it does not breed. How it came to the University is the question the Order least wants asked.
 
 ## Presentation
 
@@ -264,7 +264,7 @@ The glassfang is always moving. It stalks, waits beside a door or under a bench 
 
 ## What the Order Does
 
-The Thordimalon (the Arcane Order) has not announced that a dreadspawn is loose in the University, and the city knows anyway. Masters who work alone after dark now work in pairs, with a hand-bell on the bench and a lead-weighted cudgel within reach, because a ringing note distresses the creature and a blunt blow breaks it where a blade skates off. Several laboratories have been fitted with wards that ring a chime when something crosses the threshold unseen, and the glassmakers' guild sells the chimes. Fine sand scattered on a workshop floor overnight shows its tracks in the morning. The Order pays a standing reward for its body, and the [[affiliation-bardicolgs|Bardic Colleges]] and the Grove Council, who contest the Order's authority over the kingdom's supernatural life, have pointed out in public, politely, that the Order has failed to collect it.
+The Thordimalon (the Arcane Order) has not announced that a dreadspawn is loose in the University, and the city knows anyway. Masters who work alone after dark now work in pairs, with a hand-bell on the bench and a lead-weighted cudgel within reach, because a ringing note distresses the creature and a blunt blow breaks it where a blade skates off. Several laboratories have been fitted with wards that ring a chime when something crosses the threshold unseen, and the glassmakers' guild sells the chimes. Fine sand scattered on a workshop floor overnight shows its tracks in the morning. The Order pays a standing reward for its body, and [[affiliation-bardicolgs|The Bardic Colleges]] and [[affiliation-groveconcl|The Grove Council]], who contest the Order's authority over the kingdom's supernatural life, have pointed out in public, politely, that the Order has failed to collect it.
 
 ## Signs
 

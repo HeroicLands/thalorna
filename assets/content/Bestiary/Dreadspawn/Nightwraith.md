@@ -242,7 +242,7 @@ The oldest quarter of the city of the dead is all stepped tombs and stairs going
 
 # Dossier {#dossier}
 
-The Nightwraith is a dreadspawn made in the shape of a giant bat, fifteen to twenty feet across the wings and about three hundred pounds, gaunt and gray-black, which hunts by night, drinks the blood of what it catches, and stuns its prey with a focused scream. Nightwraiths roost together in deep, dark places by day and hunt alone by night. A colony of them roosts under the oldest quarter of [[place-nykhtion|Nikhtion]], the city of the dead of the Bizarian League in the arid highlands inland from Nesthiros, where the stepped tombs and rock-cut chambers go down into the limestone further than anyone has mapped. Like every dreadspawn they were made and they cannot breed. The colony was made all at once and only gets smaller.
+The Nightwraith is a dreadspawn made in the shape of a giant bat, fifteen to twenty feet across the wings and about three hundred pounds, gaunt and gray-black, which hunts by night, drinks the blood of what it catches, and stuns its prey with a focused scream. Nightwraiths roost together in deep, dark places by day and hunt alone by night. A colony of them roosts under the oldest quarter of [[place-nykhtion|Nikhtion]], the city of the dead of the [[affiliation-byzarianlg|Bizarian League]] in the arid highlands inland from [[place-nesthiros2|Nesthiros]], where the stepped tombs and rock-cut chambers go down into the limestone further than anyone has mapped. Like every dreadspawn they were made and they cannot breed. The colony was made all at once and only gets smaller.
 
 ## Presentation
 

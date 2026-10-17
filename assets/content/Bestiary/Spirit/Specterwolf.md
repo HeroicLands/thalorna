@@ -245,7 +245,7 @@ A large wolf, long-legged and lean, built to run all night, made of mist and sha
 
 ## In the Land
 
-Specterwolves are found where unreceived dead are: the thin blood-fields of the [[place-khzryndsrtrgn|Khazryn]], the barrows and battlefields of the north, and ruins where a whole people died and nobody spoke their rites. A pack holds that ground and ranges out from it at night, and a pack that has killed in a place returns to it. On a moderate field they are a sight at the edge of vision and a howl in the dark; on a thin field they cross into the world, take hold and kill. They avoid daylight and are seldom seen far from the field or ruin they belong to, except when they are following something.
+Specterwolves are found where unreceived dead are: the thin blood-fields of the [[place-khzryndsrtrgn|Khazryn Desert Region]], the barrows and battlefields of the north, and ruins where a whole people died and nobody spoke their rites. A pack holds that ground and ranges out from it at night, and a pack that has killed in a place returns to it. On a moderate field they are a sight at the edge of vision and a howl in the dark; on a thin field they cross into the world, take hold and kill. They avoid daylight and are seldom seen far from the field or ruin they belong to, except when they are following something.
 
 ## Key Behaviors
 

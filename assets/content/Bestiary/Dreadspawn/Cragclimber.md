@@ -251,7 +251,7 @@ You are halfway down the cliff on the rope, with the sea working at the rocks be
 
 # Dossier {#dossier}
 
-The Cragclimber is a dreadspawn shaped like a lean, long-tailed drake, about six feet long and two hundred pounds, made to hunt on vertical rock. It clings motionless to a cliff face, colored and textured like the stone, and strikes whatever passes within reach, then lets the cliff do the rest. It can harden its scales to stone. The cliff coast of [[place-zuravlenrgn|Zuravlen]], Provenzia's western seaboard on the cold ocean, has had cragclimbers on it for as long as its egg-gatherers have gone down on ropes, and the coast reckons them among the costs of its hard living. Like every dreadspawn it was made and it cannot breed; more than one of the pattern hunts that coast, and each is known by the stretch of cliff it holds.
+The Cragclimber is a dreadspawn shaped like a lean, long-tailed drake, about six feet long and two hundred pounds, made to hunt on vertical rock. It clings motionless to a cliff face, colored and textured like the stone, and strikes whatever passes within reach, then lets the cliff do the rest. It can harden its scales to stone. The cliff coast of [[place-zuravlenrgn|Zuravlen Region]], [[place-provenzrgn|Provenzia Region]]'s western seaboard on the cold ocean, has had cragclimbers on it for as long as its egg-gatherers have gone down on ropes, and the coast reckons them among the costs of its hard living. Like every dreadspawn it was made and it cannot breed; more than one of the pattern hunts that coast, and each is known by the stretch of cliff it holds.
 
 ## Presentation
 

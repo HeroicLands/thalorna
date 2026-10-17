@@ -408,7 +408,7 @@ Before dawn the forest begins to roar. It starts as a low, rolling sound far off
 
 # Dossier {#dossier}
 
-The Howler Monkey is the big canopy monkey of the lowland and cloud forests, fifteen to twenty-two pounds and two feet long with a prehensile tail as long again, living in troops of ten to twenty in [[place-xelemrgn|Shelem]], [[place-kankulrgn|K'ankul]] and [[place-neokbaatergn|Ne'ok Ba'ate]]. Its howl is the loudest sound of any land animal and carries three miles through jungle, to claim ground and space the troops. In K'ich'chik the howler is associated with scribes, artists and the arts of writing, and its image decorates libraries, scriptoria and the workshops of the artisan castes.
+The Howler Monkey is the big canopy monkey of the lowland and cloud forests, fifteen to twenty-two pounds and two feet long with a prehensile tail as long again, living in troops of ten to twenty in [[place-xelemrgn|Shelem Region]], [[place-kankulrgn|K'ankul Region]] and [[place-neokbaatergn|Ne'ok Ba'ate Region]]. Its howl is the loudest sound of any land animal and carries three miles through jungle, to claim ground and space the troops. In [[place-kchchkcntnnt|K'ich'chik Continent]] the howler is associated with scribes, artists and the arts of writing, and its image decorates libraries, scriptoria and the workshops of the artisan castes.
 
 ## Presentation
 
@@ -416,7 +416,7 @@ A stocky, powerfully built monkey with dense, coarse fur, dark brown to black, a
 
 ## In the Land
 
-Howler monkeys live in the canopy of the river-bound jungle and cloud forest of [[place-xelemrgn|Shelem]], the limestone lowlands of [[place-kankulrgn|K'ankul]] and the isthmus forests of [[place-neokbaatergn|Ne'ok Ba'ate]]. A troop of ten to twenty holds a few acres of forest, feeds on leaves in the early morning, rests through the heat and howls at first light and before rain. A troop moves along the same branches each day and sleeps in the same trees.
+Howler monkeys live in the canopy of the river-bound jungle and cloud forest of Shelem, the limestone lowlands of K'ankul and the isthmus forests of Ne'ok Ba'ate. A troop of ten to twenty holds a few acres of forest, feeds on leaves in the early morning, rests through the heat and howls at first light and before rain. A troop moves along the same branches each day and sleeps in the same trees.
 
 ## Key Behaviors
 

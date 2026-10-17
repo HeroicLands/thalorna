@@ -256,7 +256,7 @@ The wreck lies on its side on the sandbar, its ribs out of the water at low tide
 
 # Dossier {#dossier}
 
-The Octowolf is a dreadspawn that joins the fore-parts of a great wolf to the hind-parts of an octopus: twelve to sixteen feet long and three hundred pounds, with a wolf's head, jaws and forelegs and eight long, sucker-lined arms behind, which carry it on land and drive it through water. It hunts where land and water meet, and it is clever, patient and cruel. One holds the [[place-tamzirshoals|Tamzir Shoals]] in the Taruzelian archipelago, the maze of sandbars, rocks and hard currents where a makeshift Taruzelian fleet destroyed a Vylarian squadron and won Taruzel its independence, and it lairs in the wrecks of that squadron. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Octowolf is a dreadspawn that joins the fore-parts of a great wolf to the hind-parts of an octopus: twelve to sixteen feet long and three hundred pounds, with a wolf's head, jaws and forelegs and eight long, sucker-lined arms behind, which carry it on land and drive it through water. It hunts where land and water meet, and it is clever, patient and cruel. One holds the [[place-tamzirshoals|Tamzir Shoals]] in the Taruzelian archipelago, the maze of sandbars, rocks and hard currents where a makeshift Taruzelian fleet destroyed a Vylarian squadron and won [[place-taruzelrgn|Taruzel Region]] its independence, and it lairs in the wrecks of that squadron. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 

@@ -209,7 +209,7 @@ A scorpion lies motionless for hours or days in the shade of a rock or the mouth
 
 ## What the Tribes Do
 
-The hard, poor tribes of the plateau water their flocks at a cistern by day and camp well above the ravine floor, with the goats inside a thorn ring and a fire that is kept small. A man does not sit down in the shade of a rock he has not looked under, and nobody sleeps on a ravine floor in the warm months. A scorpion that has taken up near a cistern is killed, by the tribe together, with long spears from above and stones rolled onto it, and the tribe loses a man or a boy at it as often as not. The venom is milked from a pinned animal into a horn by men who do nothing else, and sold at [[place-kethramir|Kethramir]] to the physicians and the poisoners; the plates are worked into light armor for the forearms and the shins, and the pincers are hung over a tent door.
+The hard, poor tribes of the plateau water their flocks at a cistern by day and camp well above the ravine floor, with the goats inside a thorn ring and a fire that is kept small. A man does not sit down in the shade of a rock he has not looked under, and nobody sleeps on a ravine floor in the warm months. A scorpion that has taken up near a cistern is killed, by the tribe together, with long spears from above and stones rolled onto it, and the tribe loses a man or a boy at it as often as not. The venom is milked from a pinned animal into a horn by men who do nothing else, and sold at [[place-kethramir|Kethramír]] to the physicians and the poisoners; the plates are worked into light armor for the forearms and the shins, and the pincers are hung over a tent door.
 
 ## Signs
 

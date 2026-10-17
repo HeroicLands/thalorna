@@ -245,7 +245,7 @@ A small, sleek animal with a flexible, muscular body built for stealth and climb
 
 ## In the Land
 
-Cats live wherever grain is stored: in the villages of [[place-vrystwald|Vristwald]], the granaries of [[place-velanthrgn|Velanthia]], the warehouses of the Hellad ports and the temple precincts of [[place-aukhelathrgq|Au'Khelathu]]. A house cat keeps a few rooms, a kitchen and a barn loft, and a street cat the alleys of a quarter. Some keep to the fields and live as wild animals, and these are leaner and more watchful than the hearth cats.
+Cats live wherever grain is stored: in the villages of [[place-vrystwald|Vristwald]], the granaries of [[place-velanthrgn|Velanthia Region]], the warehouses of the ports of [[place-heladrgn|Hellád Region]] and the temple precincts of [[place-aukhelathrgq|Au'Khelathu Region]]. A house cat keeps a few rooms, a kitchen and a barn loft, and a street cat the alleys of a quarter. Some keep to the fields and live as wild animals, and these are leaner and more watchful than the hearth cats.
 
 ## Key Behaviors
 

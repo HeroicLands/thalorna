@@ -398,7 +398,7 @@ The fire has burned down to coals and the men round it are asleep, all but the b
 
 # Dossier {#dossier}
 
-The Shadowstalker is a spirit assassin: a soul made out of murder, the victim's or the killer's, that has become a hunter of the living, moving unseen through shadow and striking from darkness. It is not mindless. It has purposes and codes of its own, it hunts particular targets across years, and it is patient, tactical and very hard to see coming. Some are bound into service by sorcerers who mean to use them. The one known in [[place-byzariargn|Bizaria]] haunts [[place-ravenswood|Ravenswood]], the wood astride the League's eastern trade routes and home ground of the Ravenswood Brigands, and it is hunting the brigands, one at a time, as it has been for years.
+The Shadowstalker is a spirit assassin: a soul made out of murder, the victim's or the killer's, that has become a hunter of the living, moving unseen through shadow and striking from darkness. It is not mindless. It has purposes and codes of its own, it hunts particular targets across years, and it is patient, tactical and very hard to see coming. Some are bound into service by sorcerers who mean to use them. The one known in [[place-byzariargn|Bizaria Region]] haunts [[place-ravenswood|Ravenswood]], the wood astride the [[affiliation-byzarianlg|Bizarian League]]'s eastern trade routes and home ground of the [Ravenswood Brigands]{.name data-type="affiliation/criminal"}, and it is hunting the brigands, one at a time, as it has been for years.
 
 ## Presentation
 
@@ -414,7 +414,7 @@ A shadowstalker stalks a target for a long time before it strikes, learning his 
 
 ## What the Road Does
 
-The teamsters who drive the eastern roads either pay the Ravenswood Brigands or plan round them, and some of them now pay a little less, because the brigands are fewer and more nervous than they were. Brigand camps in the wood burn great fires all night and post sentries in pairs with their backs to the fire, and bands that have lost men to it have left the wood for the hills. Teamsters crossing the wood at night carry bright lanterns and keep to the road, and nothing has touched them. Whether the shadowstalker had anything to do with the shipment of Merchant House Valdris that vanished in Ravenswood without wreckage or bodies is a question the teamsters argue in the inns and nobody can answer. Priests of the [[affiliation-arldnpnthn|Aureldian]] faith have offered, for a fee, to try to settle it; the brigands have not accepted.
+The teamsters who drive the eastern roads either pay the Ravenswood Brigands or plan round them, and some of them now pay a little less, because the brigands are fewer and more nervous than they were. Brigand camps in the wood burn great fires all night and post sentries in pairs with their backs to the fire, and bands that have lost men to it have left the wood for the hills. Teamsters crossing the wood at night carry bright lanterns and keep to the road, and nothing has touched them. Whether the shadowstalker had anything to do with the shipment of [Merchant House Valdris]{.name data-type="affiliation/venture"} that vanished in Ravenswood without wreckage or bodies is a question the teamsters argue in the inns and nobody can answer. Priests of the faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] have offered, for a fee, to try to settle it; the brigands have not accepted.
 
 ## Signs
 
