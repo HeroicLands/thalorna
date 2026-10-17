@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Arnholt** (240 people) stands on the western shore of [[place-falkhaven|Falkhaven]] under the [[lore-eaglettm|eagle]], and its War Chief holds the leading seat. Its cliff watch has warned the shore of unfamiliar sails for as long as the village has stood, and since the Sons of Eldheim began landing it has had something specific to watch for: hulls out of [[affiliation-jrldmstrmvld|Stormveld]] carrying the [[affiliation-sonsmuspell|Sons of Eldheim]] ([[lore-westernshore|The Sons on the Western Shore]]).
+**Arnholt** (240 people) stands on the western shore of [[place-falkhaven|Falkhaven]] under the [[lore-eaglettm|eagle]], and its War Chief holds the leading seat. Its cliff watch has warned the shore of unfamiliar sails for as long as the village has stood, and since [[affiliation-sonsmuspell|The Sons of Eldheim]] began landing it has had something specific to watch for: hulls out of [[place-stormveld|Stormveld]] carrying the Sons of Eldheim ([[lore-westernshore|The Sons on the Western Shore]]).
 
 Eagle villages set a watch on the cliff where the birds nest and read the pair's flights as omens, and killing one in an eagle village's woods is a blood matter.
 

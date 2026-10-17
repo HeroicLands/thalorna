@@ -25,7 +25,7 @@ What crosses there calls. A voice comes out of the thorn by name, a Varokh name,
 
 ## How the Varokh Keep Their Distance
 
-Mahnreth raises its lament at the empty mound, Mahnhrum, and never at the thicket. The grove council at [[place-radholt|Radholt]] sounds its alarm the moment anyone is missing near Grimak, and the whole village goes out with torches before dark, because a person who has answered the voice walks toward the hollow and does not stop. Nobody has ever tried to call the taken home. A Shaman can only call home the dead whose names are known and whose bodies were given a rite, and the taken had neither.
+Mahnreth raises its lament at the empty mound, [[place-mahnhrom|Mahnhrum]], and never at the thicket. The grove council at [[place-radholt|Radholt]] sounds its alarm the moment anyone is missing near Grimak, and the whole village goes out with torches before dark, because a person who has answered the voice walks toward the hollow and does not stop. Nobody has ever tried to call the taken home. A Shaman can only call home the dead whose names are known and whose bodies were given a rite, and the taken had neither.
 
 ## Who Goes There
 
