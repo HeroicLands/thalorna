@@ -15,7 +15,7 @@ data:
       A synod of Thordimalon mages governing directly: the crown was set aside, and the Synod sets policy, judges, commands and answers to nobody outside its own closed session.
     ranks:
       - level: 0
-        title: Proscribed
+        title: Outcast
         description: >-
           Placed under interdict by the Synod: unlicensed, unemployable and barred from every court and market in the realm.
       - level: 1
@@ -30,31 +30,14 @@ data:
         description: >-
           Enrolled in a town holding a Synod charter, with its markets, its courts and its guild rights.
       - level: 4
-        title: Licensed Practitioner
+        title: Noble
         description: >-
           Permitted to practice an art the Synod regulates—physic, letters, minor sorcery—under its inspection.
       - level: 5
-        title: Adept
+        title: Synod Member
         description: >-
           Admitted to the Synod's instruction, sworn to its discipline and beginning to be trusted with its business.
-      - level: 6
-        title: Marendos
-        description: >-
-          A mage of the Synod holding a portfolio of state—a district, a court, a revenue, a garrison.
-      - level: 7
-        title: Elder of the Synod
-        description: Sitting in the closed session where policy is actually decided.
-      - level: 8
-        title: Prime of the Synod
-        description: >-
-          Presiding over the Synod, and thereby over the realm—chosen by the Elders and removable by them.
     offices:
-      Prime of the Synod: Presiding mage of the Synod and head of state, chosen by the Elders from among themselves.
-      Elder of the Synod: Member of the closed session in which policy, justice and diplomacy are settled.
-      Marendos: Mage holding a portfolio of state—a district, a revenue, a court, a garrison.
-      Sekeros: >-
-        Investigator of the Synod, charged with unlicensed practice and with the conduct of its own members.
-      Chancellor of the Synod: Keeper of its seal and of the writs, charters and licenses issued under it.
       Captain-General: Commander of the realm's forces, appointed by the Synod and never himself a mage.
       Justiciar: Chief of the realm's courts, applying a law the Synod writes and may revise at will.
       Bursar: Keeper of the realm's revenue and of the Synod's own considerable endowment.
